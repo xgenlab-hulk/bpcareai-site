@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -10,9 +11,13 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-3 mb-4">
-              <div className="w-10 h-10 bg-gradient-to-br from-brand-blue to-brand-purple rounded-xl flex items-center justify-center">
-                <span className="text-white font-bold text-xl">BP</span>
-              </div>
+              <Image
+                src="/AppIcon.png"
+                alt="BPCare AI"
+                width={44}
+                height={44}
+                className="rounded-xl"
+              />
               <span className="text-2xl font-bold text-gray-900">BPCare AI</span>
             </div>
             <p className="text-gray-600 leading-relaxed max-w-md text-lg">
