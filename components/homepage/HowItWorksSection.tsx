@@ -26,23 +26,23 @@ export default function HowItWorksSection() {
   ];
 
   return (
-    <section id="how-it-works" className="py-20 lg:py-28 gradient-bg relative overflow-hidden">
+    <section id="how-it-works" className="py-12 sm:py-20 lg:py-28 gradient-bg relative overflow-hidden">
       {/* Background Decoration */}
       <div className="absolute top-0 right-0 w-96 h-96 bg-white/20 rounded-full blur-3xl" />
       <div className="absolute bottom-0 left-0 w-96 h-96 bg-white/20 rounded-full blur-3xl" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
-        <div className="text-center mb-16">
-          <span className="inline-block px-4 py-2 bg-white/80 text-gray-700 rounded-full text-sm font-semibold mb-4">
+        <div className="text-center mb-8 sm:mb-16">
+          <span className="inline-block px-3 sm:px-4 py-1.5 sm:py-2 bg-white/80 text-gray-700 rounded-full text-xs sm:text-sm font-semibold mb-3 sm:mb-4">
             Simple & Easy
           </span>
-          <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
+          <h2 className="text-2xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6">
             Three Steps to{' '}
             <span className="bg-gradient-to-r from-brand-blue-dark to-brand-purple bg-clip-text text-transparent">
               Better Understanding
             </span>
           </h2>
-          <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
+          <p className="text-base sm:text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
             Getting started is easy. Track your health in just a few taps.
           </p>
         </div>

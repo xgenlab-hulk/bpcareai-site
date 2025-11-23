@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google';
 import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import MobileCTABar from '@/components/MobileCTABar';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -83,10 +84,11 @@ export default function RootLayout({
     <html lang="en" className={inter.variable}>
       <body className={`${inter.className} antialiased min-h-screen flex flex-col`}>
         <Header />
-        <main className="flex-1">
+        <main className="flex-1 pb-20 md:pb-0">
           {children}
         </main>
         <Footer />
+        <MobileCTABar />
       </body>
     </html>
   );

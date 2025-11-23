@@ -20,8 +20,8 @@ export default function CTAButton({
   className = '',
 }: CTAButtonProps) {
   const sizeClasses = size === 'large'
-    ? 'px-10 py-5 text-xl'
-    : 'px-8 py-4 text-lg';
+    ? 'px-6 py-4 text-base sm:px-10 sm:py-5 sm:text-xl min-h-[48px]'
+    : 'px-6 py-3.5 text-base sm:px-8 sm:py-4 sm:text-lg min-h-[44px]';
 
   const baseClasses = `inline-flex items-center justify-center rounded-full font-semibold transition-all duration-200 hover:shadow-lg whitespace-nowrap ${sizeClasses}`;
 

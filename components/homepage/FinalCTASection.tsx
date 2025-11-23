@@ -5,7 +5,7 @@ import CTAButton from '../CTAButton';
 
 export default function FinalCTASection() {
   return (
-    <section className="py-20 lg:py-28 gradient-bg relative overflow-hidden">
+    <section className="py-12 sm:py-20 lg:py-28 gradient-bg relative overflow-hidden">
       {/* Background Elements */}
       <div className="absolute top-10 left-10 w-32 h-32 bg-white/20 rounded-full blur-2xl" />
       <div className="absolute bottom-10 right-10 w-48 h-48 bg-white/20 rounded-full blur-3xl" />
@@ -27,7 +27,7 @@ export default function FinalCTASection() {
         </div>
 
         {/* Main Content */}
-        <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6 leading-tight">
+        <h2 className="text-2xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6 leading-tight">
           Start Understanding Your{' '}
           <span className="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
             Blood Pressure
@@ -35,13 +35,13 @@ export default function FinalCTASection() {
           Today
         </h2>
 
-        <p className="text-xl lg:text-2xl text-gray-700 leading-relaxed mb-8 max-w-2xl mx-auto">
+        <p className="text-base sm:text-xl lg:text-2xl text-gray-700 leading-relaxed mb-6 sm:mb-8 max-w-2xl mx-auto">
           Join thousands who've found peace of mind. See the trends, reduce the worry,
           and feel more confident about your heart health.
         </p>
 
         {/* Key Benefits */}
-        <div className="flex flex-wrap justify-center gap-6 mb-10">
+        <div className="flex flex-wrap justify-center gap-3 sm:gap-6 mb-6 sm:mb-10">
           <div className="flex items-center gap-2 text-gray-700">
             <span className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center">
               <span className="text-green-600 text-sm">✓</span>
