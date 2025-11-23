@@ -124,7 +124,7 @@ export default async function ArticlePage({ params }: PageProps) {
             Put these insights into practice. Download BPCare AI to track your blood pressure
             trends, understand your heart health, and feel more confident.
           </p>
-          <CTAButton href="https://apps.apple.com/app/bpcareai" external>
+          <CTAButton href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186" external>
             Download on App Store
           </CTAButton>
         </div>

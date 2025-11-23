@@ -27,7 +27,7 @@ export default function Header() {
               Articles
             </Link>
             <a
-              href="https://apps.apple.com/app/bpcareai"
+              href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-brand-blue to-brand-purple text-white px-6 py-3 rounded-full font-semibold hover:shadow-lg transition-all duration-200"
@@ -39,7 +39,7 @@ export default function Header() {
           {/* Mobile menu button */}
           <div className="md:hidden">
             <a
-              href="https://apps.apple.com/app/bpcareai"
+              href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-brand-blue to-brand-purple text-white px-4 py-2 rounded-full text-sm font-semibold"
