@@ -116,12 +116,10 @@ export default function HeroSection() {
                       <p className="text-xs text-gray-400">7-day trend analysis</p>
                     </div>
                     <div className="text-right">
-                      <div className="text-2xl font-bold text-gray-900">118<span className="text-gray-400 font-normal">/</span>76</div>
-                      <div className="flex items-center justify-end gap-1 text-green-600">
-                        <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
-                        </svg>
-                        <span className="text-xs font-medium">Improving</span>
+                      <div className="text-2xl font-bold text-gray-900">115<span className="text-gray-400 font-normal">/</span>72</div>
+                      <div className="flex items-center justify-end gap-1.5 text-green-600">
+                        <span className="text-xs font-semibold bg-green-100 px-1.5 py-0.5 rounded">↓9</span>
+                        <span className="text-[10px] text-gray-500">vs last week</span>
                       </div>
                     </div>
                   </div>
@@ -157,14 +155,36 @@ export default function HeroSection() {
                       {/* Normal range band */}
                       <rect x="0" y="25" width="300" height="35" fill="#dcfce7" opacity="0.5"/>
 
-                      {/* Systolic Area */}
+                      {/* Last Week Comparison Lines (dashed, lighter) - different wave pattern */}
+                      {/* Last Week Systolic - overall higher, different shape */}
                       <path
-                        d="M 20,35 Q 45,28 70,32 T 120,25 T 170,38 T 220,30 T 280,33 L 280,100 L 20,100 Z"
+                        d="M 20,22 Q 45,26 70,28 T 120,20 T 170,26 T 220,30 T 280,28"
+                        fill="none"
+                        stroke="#EF4444"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                        strokeDasharray="4,4"
+                        opacity="0.4"
+                      />
+                      {/* Last Week Diastolic - overall higher, different shape */}
+                      <path
+                        d="M 20,58 Q 45,62 70,64 T 120,56 T 170,62 T 220,66 T 280,64"
+                        fill="none"
+                        stroke="#3B82F6"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                        strokeDasharray="4,4"
+                        opacity="0.4"
+                      />
+
+                      {/* Systolic Area - This Week: trending downward */}
+                      <path
+                        d="M 20,30 Q 45,34 70,36 T 120,32 T 170,38 T 220,40 T 280,45 L 280,100 L 20,100 Z"
                         fill="url(#systolicGradient)"
                       />
-                      {/* Systolic Line */}
+                      {/* Systolic Line - This Week */}
                       <path
-                        d="M 20,35 Q 45,28 70,32 T 120,25 T 170,38 T 220,30 T 280,33"
+                        d="M 20,30 Q 45,34 70,36 T 120,32 T 170,38 T 220,40 T 280,45"
                         fill="none"
                         stroke="#EF4444"
                         strokeWidth="2.5"
@@ -172,14 +192,14 @@ export default function HeroSection() {
                         filter="url(#glow)"
                       />
 
-                      {/* Diastolic Area */}
+                      {/* Diastolic Area - This Week: trending downward */}
                       <path
-                        d="M 20,72 Q 45,68 70,70 T 120,65 T 170,73 T 220,68 T 280,70 L 280,100 L 20,100 Z"
+                        d="M 20,66 Q 45,70 70,72 T 120,68 T 170,74 T 220,76 T 280,80 L 280,100 L 20,100 Z"
                         fill="url(#diastolicGradient)"
                       />
-                      {/* Diastolic Line */}
+                      {/* Diastolic Line - This Week */}
                       <path
-                        d="M 20,72 Q 45,68 70,70 T 120,65 T 170,73 T 220,68 T 280,70"
+                        d="M 20,66 Q 45,70 70,72 T 120,68 T 170,74 T 220,76 T 280,80"
                         fill="none"
                         stroke="#3B82F6"
                         strokeWidth="2.5"
@@ -187,21 +207,21 @@ export default function HeroSection() {
                         filter="url(#glow)"
                       />
 
-                      {/* Data points - Systolic */}
-                      <circle cx="20" cy="35" r="4" fill="#EF4444" stroke="white" strokeWidth="2"/>
-                      <circle cx="70" cy="32" r="4" fill="#EF4444" stroke="white" strokeWidth="2"/>
-                      <circle cx="120" cy="25" r="4" fill="#EF4444" stroke="white" strokeWidth="2"/>
+                      {/* Data points - Systolic (matching new curve) */}
+                      <circle cx="20" cy="30" r="4" fill="#EF4444" stroke="white" strokeWidth="2"/>
+                      <circle cx="70" cy="36" r="4" fill="#EF4444" stroke="white" strokeWidth="2"/>
+                      <circle cx="120" cy="32" r="4" fill="#EF4444" stroke="white" strokeWidth="2"/>
                       <circle cx="170" cy="38" r="4" fill="#EF4444" stroke="white" strokeWidth="2"/>
-                      <circle cx="220" cy="30" r="4" fill="#EF4444" stroke="white" strokeWidth="2"/>
-                      <circle cx="280" cy="33" r="5" fill="#EF4444" stroke="white" strokeWidth="2" filter="url(#glow)"/>
+                      <circle cx="220" cy="40" r="4" fill="#EF4444" stroke="white" strokeWidth="2"/>
+                      <circle cx="280" cy="45" r="5" fill="#EF4444" stroke="white" strokeWidth="2" filter="url(#glow)"/>
 
-                      {/* Data points - Diastolic */}
-                      <circle cx="20" cy="72" r="4" fill="#3B82F6" stroke="white" strokeWidth="2"/>
-                      <circle cx="70" cy="70" r="4" fill="#3B82F6" stroke="white" strokeWidth="2"/>
-                      <circle cx="120" cy="65" r="4" fill="#3B82F6" stroke="white" strokeWidth="2"/>
-                      <circle cx="170" cy="73" r="4" fill="#3B82F6" stroke="white" strokeWidth="2"/>
-                      <circle cx="220" cy="68" r="4" fill="#3B82F6" stroke="white" strokeWidth="2"/>
-                      <circle cx="280" cy="70" r="5" fill="#3B82F6" stroke="white" strokeWidth="2" filter="url(#glow)"/>
+                      {/* Data points - Diastolic (matching new curve) */}
+                      <circle cx="20" cy="66" r="4" fill="#3B82F6" stroke="white" strokeWidth="2"/>
+                      <circle cx="70" cy="72" r="4" fill="#3B82F6" stroke="white" strokeWidth="2"/>
+                      <circle cx="120" cy="68" r="4" fill="#3B82F6" stroke="white" strokeWidth="2"/>
+                      <circle cx="170" cy="74" r="4" fill="#3B82F6" stroke="white" strokeWidth="2"/>
+                      <circle cx="220" cy="76" r="4" fill="#3B82F6" stroke="white" strokeWidth="2"/>
+                      <circle cx="280" cy="80" r="5" fill="#3B82F6" stroke="white" strokeWidth="2" filter="url(#glow)"/>
 
                       {/* Today indicator line */}
                       <line x1="280" y1="0" x2="280" y2="100" stroke="#6366f1" strokeWidth="1" strokeDasharray="3,3" opacity="0.5"/>
@@ -218,8 +238,8 @@ export default function HeroSection() {
                     {/* Today's value tooltip */}
                     <div className="absolute right-1 sm:right-0 top-2 sm:top-4 bg-gray-900 text-white text-[9px] sm:text-[10px] px-1.5 sm:px-2 py-1 rounded shadow-lg">
                       <div className="font-medium">Today</div>
-                      <div className="text-red-300">120 sys</div>
-                      <div className="text-blue-300">78 dia</div>
+                      <div className="text-red-300">115 sys</div>
+                      <div className="text-blue-300">72 dia</div>
                     </div>
                   </div>
 
@@ -234,21 +254,33 @@ export default function HeroSection() {
                     <span className="text-indigo-600 font-semibold">Today</span>
                   </div>
 
+                  {/* Legend Row */}
+                  <div className="flex items-center justify-center gap-4 pt-3 border-t border-gray-100 mb-3">
+                    <div className="flex items-center gap-1.5">
+                      <div className="w-4 h-0.5 bg-red-400 rounded" />
+                      <span className="text-[10px] text-gray-500">This Week</span>
+                    </div>
+                    <div className="flex items-center gap-1.5">
+                      <div className="w-4 h-0.5 bg-red-400/40 rounded" style={{backgroundImage: 'repeating-linear-gradient(90deg, #f87171, #f87171 2px, transparent 2px, transparent 4px)'}} />
+                      <span className="text-[10px] text-gray-500">Last Week</span>
+                    </div>
+                  </div>
+
                   {/* Stats Row */}
-                  <div className="grid grid-cols-3 gap-2 pt-3 border-t border-gray-100">
+                  <div className="grid grid-cols-3 gap-2">
                     <div className="text-center">
                       <div className="flex items-center justify-center gap-1">
                         <div className="w-2 h-2 rounded-full bg-red-400" />
                         <span className="text-xs text-gray-500">Systolic</span>
                       </div>
-                      <div className="text-sm font-semibold text-gray-700">118 avg</div>
+                      <div className="text-sm font-semibold text-gray-700">120 avg</div>
                     </div>
                     <div className="text-center border-x border-gray-100">
                       <div className="flex items-center justify-center gap-1">
                         <div className="w-2 h-2 rounded-full bg-blue-400" />
                         <span className="text-xs text-gray-500">Diastolic</span>
                       </div>
-                      <div className="text-sm font-semibold text-gray-700">76 avg</div>
+                      <div className="text-sm font-semibold text-gray-700">74 avg</div>
                     </div>
                     <div className="text-center">
                       <div className="flex items-center justify-center gap-1">
@@ -269,15 +301,15 @@ export default function HeroSection() {
                   </div>
                   <div className="bg-white rounded-xl p-4 shadow-sm">
                     <p className="text-sm text-gray-500 mb-1">Blood Pressure</p>
-                    <p className="text-2xl font-bold text-gray-900">118/76</p>
-                    <span className="text-xs text-green-600 font-medium">Healthy</span>
+                    <p className="text-2xl font-bold text-gray-900">115/72</p>
+                    <span className="text-xs text-green-600 font-medium">Optimal</span>
                   </div>
                 </div>
 
                 {/* Insight Banner */}
-                <div className="mt-4 bg-blue-50 rounded-xl p-4 border border-blue-100">
-                  <p className="text-sm text-blue-800">
-                    <span className="font-semibold">💡 Insight:</span> Your blood pressure has been stable this week. Keep up the good work!
+                <div className="mt-4 bg-green-50 rounded-xl p-4 border border-green-100">
+                  <p className="text-sm text-green-800">
+                    <span className="font-semibold">📈 Progress:</span> Your average is down 9 mmHg from last week — great improvement!
                   </p>
                 </div>
               </div>
