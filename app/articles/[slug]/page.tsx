@@ -64,6 +64,7 @@ export default async function ArticlePage({ params }: PageProps) {
     description: article.description,
     date: article.date,
     slug: article.slug,
+    image: article.image,
   });
 
   return (

@@ -12,6 +12,7 @@ export interface ArticleMeta {
   description: string;
   date: string;
   tags: string[];
+  image?: string;
 }
 
 export interface Article extends ArticleMeta {
@@ -42,6 +43,7 @@ export function getAllArticlesMeta(): ArticleMeta[] {
         description: matterResult.data.description || '',
         date: matterResult.data.date || '',
         tags: matterResult.data.tags || [],
+        image: matterResult.data.image,
       } as ArticleMeta;
     });
 
@@ -81,6 +83,7 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
       description: matterResult.data.description || '',
       date: matterResult.data.date || '',
       tags: matterResult.data.tags || [],
+      image: matterResult.data.image,
       content: contentHtml,
     };
   } catch (error) {

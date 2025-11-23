@@ -21,19 +21,24 @@ export function generateArticleJsonLd({
   description,
   date,
   slug,
+  image,
 }: {
   title: string;
   description: string;
   date: string;
   slug: string;
+  image?: string;
 }) {
   const isoDate = new Date(date).toISOString();
+  // 如果文章有 image 字段则使用，否则使用默认 icon
+  const articleImage = image || SITE_LOGO;
 
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: title,
     description: description,
+    image: articleImage,
     datePublished: isoDate,
     dateModified: isoDate,
     author: {
@@ -43,6 +48,7 @@ export function generateArticleJsonLd({
     publisher: {
       '@type': 'Organization',
       name: SITE_NAME,
+      url: SITE_URL,
       logo: {
         '@type': 'ImageObject',
         url: SITE_LOGO,
