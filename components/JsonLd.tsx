@@ -44,6 +44,7 @@ export function generateArticleJsonLd({
     author: {
       '@type': 'Organization',
       name: SITE_NAME,
+      url: SITE_URL,
     },
     publisher: {
       '@type': 'Organization',
