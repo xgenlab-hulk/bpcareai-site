@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import HeroSection from '@/components/homepage/HeroSection';
 import SocialProofSection from '@/components/homepage/SocialProofSection';
 import FeaturesSection from '@/components/homepage/FeaturesSection';
@@ -7,10 +8,21 @@ import TestimonialsSection from '@/components/homepage/TestimonialsSection';
 import WhyItMattersSection from '@/components/homepage/WhyItMattersSection';
 import FinalCTASection from '@/components/homepage/FinalCTASection';
 import ArticlesPreviewSection from '@/components/homepage/ArticlesPreviewSection';
+import { JsonLd, websiteJsonLd, organizationJsonLd } from '@/components/JsonLd';
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: '/',
+  },
+};
 
 export default function Home() {
   return (
     <>
+      {/* WebSite + Organization JSON-LD */}
+      <JsonLd data={websiteJsonLd} />
+      <JsonLd data={organizationJsonLd} />
+
       {/* Hero - First impression with core value prop and primary CTA */}
       <HeroSection />
 

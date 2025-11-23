@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getArticleBySlug, getAllArticleSlugs, getAllArticlesMeta } from '@/lib/articles';
 import CTAButton from '@/components/CTAButton';
+import { JsonLd, generateArticleJsonLd } from '@/components/JsonLd';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -30,6 +31,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: article.title,
     description: article.description,
+    alternates: {
+      canonical: `/articles/${resolvedParams.slug}`,
+    },
     openGraph: {
       title: article.title,
       description: article.description,
@@ -54,8 +58,19 @@ export default async function ArticlePage({ params }: PageProps) {
     .filter((a) => a.slug !== article.slug)
     .slice(0, 3);
 
+  // 生成 JSON-LD 数据
+  const articleJsonLd = generateArticleJsonLd({
+    title: article.title,
+    description: article.description,
+    date: article.date,
+    slug: article.slug,
+  });
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-white">
+      {/* Article JSON-LD */}
+      <JsonLd data={articleJsonLd} />
+
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         {/* Back Link */}
         <Link
