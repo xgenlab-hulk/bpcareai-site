@@ -52,11 +52,38 @@ export default async function ArticlePage({ params }: PageProps) {
     notFound();
   }
 
-  // 获取最新的3篇文章作为相关推荐
+  // 获取相关文章（智能推荐）
   const allArticles = getAllArticlesMeta();
-  const relatedArticles = allArticles
-    .filter((a) => a.slug !== article.slug)
-    .slice(0, 3);
+  let relatedArticles;
+
+  if (article.relatedSlugs && article.relatedSlugs.length > 0) {
+    // 策略1: 优先使用预定义的 relatedSlugs
+    relatedArticles = allArticles
+      .filter(a => article.relatedSlugs?.includes(a.slug))
+      .slice(0, 3);
+  } else {
+    // 策略2: Fallback 到同 topicCluster 的文章
+    const sameClusterArticles = allArticles
+      .filter(a =>
+        a.slug !== article.slug &&
+        a.topicCluster === article.topicCluster
+      )
+      .slice(0, 3);
+
+    // 策略3: 如果同 cluster 的文章不够3篇，用最新文章补充
+    if (sameClusterArticles.length < 3) {
+      const additionalArticles = allArticles
+        .filter(a =>
+          a.slug !== article.slug &&
+          !sameClusterArticles.some(ca => ca.slug === a.slug)
+        )
+        .slice(0, 3 - sameClusterArticles.length);
+
+      relatedArticles = [...sameClusterArticles, ...additionalArticles];
+    } else {
+      relatedArticles = sameClusterArticles;
+    }
+  }
 
   // 生成 JSON-LD 数据
   const articleJsonLd = generateArticleJsonLd({

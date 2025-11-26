@@ -1,0 +1,66 @@
+name: Weekly Internal Linking Update
+
+# 触发条件
+on:
+  # 每周一早上 2:00 UTC 自动执行
+  schedule:
+    - cron: '0 2 * * 1'  # 每周一 02:00 UTC (北京时间 10:00)
+
+  # 支持手动触发（可在 GitHub Actions 页面手动运行）
+  workflow_dispatch:
+
+jobs:
+  update-internal-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. 设置 Node.js 环境
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      # 3. 安装依赖
+      - name: Install dependencies
+        run: npm ci
+
+      # 4. 运行 internal linking 更新脚本
+      - name: Update internal links
+        run: npm run update:links
+
+      # 5. 检查是否有文件变更
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code content/articles/*.md || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      # 6. 提交并推送变更（如果有）
+      - name: Commit and push changes
+        if: steps.git-check.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add content/articles/*.md
+          git commit -m "chore: weekly internal linking update [skip ci]"
+          git push
+
+      # 7. 无变更时的日志
+      - name: No changes detected
+        if: steps.git-check.outputs.has_changes != 'true'
+        run: echo "✅ No changes needed - internal links are up to date"
+
+      # 8. 可选：重建索引并部署（取消注释以启用）
+      # - name: Rebuild articles index
+      #   if: steps.git-check.outputs.has_changes == 'true'
+      #   run: npm run build:articles-index
+      #
+      # - name: Deploy to Vercel (optional)
+      #   if: steps.git-check.outputs.has_changes == 'true'
+      #   run: vercel --prod --token=${{ secrets.VERCEL_TOKEN }}

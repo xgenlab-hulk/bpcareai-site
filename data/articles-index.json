@@ -1,5 +1,297 @@
 [
   {
+    "slug": "the-link-between-diabetes-and-slow-healing-in-older-adults",
+    "title": "The Link Between Diabetes and Slow Healing in Older Adults",
+    "description": "Find out why cuts and wounds heal slower with diabetes and how to reduce infection risks.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "diabetes and slow wound healing in elderly",
+      "diabetes",
+      "diabetes-complications"
+    ],
+    "primaryKeyword": "diabetes and slow wound healing in elderly",
+    "topicCluster": "diabetes-complications",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+    "title": "The Impact of Long-Term NSAID Use on Heart Disease Risk",
+    "description": "Understand how regular use of painkillers like ibuprofen may elevate cardiovascular risks in older adults.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "long-term NSAID use and heart disease risk",
+      "heart disease",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "long-term NSAID use and heart disease risk",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "how-poor-dental-hygiene-may-lead-to-heart-disease",
+    "title": "How Poor Dental Hygiene May Lead to Heart Disease",
+    "description": "Discover how bacteria from gum infections can travel into the bloodstream and affect heart health.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "poor dental hygiene and heart disease connection",
+      "heart disease",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "poor dental hygiene and heart disease connection",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "the-hidden-link-between-gum-disease-and-heart-problems"
+    ]
+  },
+  {
+    "slug": "how-menopause-affects-heart-disease-risk-in-women",
+    "title": "How Menopause Affects Heart Disease Risk in Women",
+    "description": "Explore hormonal changes during menopause that increase the likelihood of developing heart disease.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "menopause and increased heart disease risk",
+      "heart disease",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "menopause and increased heart disease risk",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "blood-pressure-fluctuations-during-menopause-what-women-should-know"
+    ]
+  },
+  {
+    "slug": "how-frequent-urination-at-night-could-signal-heart-problems",
+    "title": "How Frequent Urination at Night Could Signal Heart Problems",
+    "description": "Uncover the connection between nocturia and underlying heart issues like fluid retention and reduced cardiac output.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "frequent urination at night and heart disease",
+      "heart disease",
+      "heart-health"
+    ],
+    "primaryKeyword": "frequent urination at night and heart disease",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "how-cold-weather-affects-blood-sugar-in-people-with-diabetes",
+    "title": "How Cold Weather Affects Blood Sugar in People with Diabetes",
+    "description": "Learn why winter months can cause unexpected glucose fluctuations and how to stay stable.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "cold weather and blood sugar changes in diabetics",
+      "diabetes",
+      "diabetes-environmental-factors"
+    ],
+    "primaryKeyword": "cold weather and blood sugar changes in diabetics",
+    "topicCluster": "diabetes-environmental-factors",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "how-chronic-stress-contributes-to-high-blood-pressure-over-time",
+    "title": "How Chronic Stress Contributes to High Blood Pressure Over Time",
+    "description": "Explore the long-term effects of stress on the cardiovascular system and practical ways to reduce its impact.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "chronic stress and high blood pressure aging",
+      "blood pressure",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "chronic stress and high blood pressure aging",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "how-chronic-inflammation-worsens-type-2-diabetes-after-50",
+    "title": "How Chronic Inflammation Worsens Type 2 Diabetes After 50",
+    "description": "Learn about the role of systemic inflammation in insulin resistance and ways to reduce it.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "chronic inflammation and type 2 diabetes over 50",
+      "diabetes",
+      "diabetes-risk-factors"
+    ],
+    "primaryKeyword": "chronic inflammation and type 2 diabetes over 50",
+    "topicCluster": "diabetes-risk-factors",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "heart-disease-in-hispanic-adults-over-50-unique-risk-factors",
+    "title": "Heart Disease in Hispanic Adults Over 50: Unique Risk Factors",
+    "description": "Explore cultural, genetic, and lifestyle factors that contribute to higher heart disease rates in this population.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "heart disease in Hispanic adults over 50",
+      "heart disease",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "heart disease in Hispanic adults over 50",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s",
+    "title": "Healthy Carbohydrate Choices for Diabetics in Their 60s and 70s",
+    "description": "Choose smart carbs that provide energy without causing spikes in blood glucose.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "healthy carbs for older adults with diabetes",
+      "diabetes",
+      "diabetes-nutrition"
+    ],
+    "primaryKeyword": "healthy carbs for older adults with diabetes",
+    "topicCluster": "diabetes-nutrition",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "does-caffeine-raise-blood-pressure-after-age-60",
+    "title": "Does Caffeine Raise Blood Pressure After Age 60?",
+    "description": "Examine the real impact of coffee and caffeine on blood pressure in older adults and whether moderation is key.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "caffeine effect on blood pressure over 60",
+      "blood pressure",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "caffeine effect on blood pressure over 60",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "diabetes-and-vision-changes-what-seniors-need-to-know",
+    "title": "Diabetes and Vision Changes: What Seniors Need to Know",
+    "description": "Understand the connection between high blood sugar and age-related vision problems like diabetic retinopathy.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "diabetes-related vision changes in seniors",
+      "diabetes",
+      "diabetes-complications"
+    ],
+    "primaryKeyword": "diabetes-related vision changes in seniors",
+    "topicCluster": "diabetes-complications",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease",
+    "title": "Can Vitamin D Deficiency Increase Your Risk of Heart Disease?",
+    "description": "Review the latest research on low vitamin D levels and their association with cardiovascular problems in older adults.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "vitamin d deficiency and heart disease risk",
+      "heart disease",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "vitamin d deficiency and heart disease risk",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "can-strength-training-lower-heart-disease-risk-after-60",
+    "title": "Can Strength Training Lower Heart Disease Risk After 60?",
+    "description": "Discover how building muscle mass improves circulation, metabolism, and overall heart resilience.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "strength training to reduce heart disease risk after 60",
+      "heart disease",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "strength training to reduce heart disease risk after 60",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "can-meditation-reduce-heart-disease-risk-after-50",
+    "title": "Can Meditation Reduce Heart Disease Risk After 50?",
+    "description": "Explore how mindfulness practices may lower stress hormones and improve heart outcomes in middle-aged and older adults.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "meditation and heart disease prevention after 50",
+      "heart disease",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "meditation and heart disease prevention after 50",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "can-intermittent-fasting-help-manage-type-2-diabetes-after-60",
+    "title": "Can Intermittent Fasting Help Manage Type 2 Diabetes After 60?",
+    "description": "Weigh the pros and cons of time-restricted eating for seniors managing blood sugar levels.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "intermittent fasting for type 2 diabetes over 60",
+      "diabetes",
+      "diabetes-lifestyle"
+    ],
+    "primaryKeyword": "intermittent fasting for type 2 diabetes over 60",
+    "topicCluster": "diabetes-lifestyle",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+    "title": "Blood Pressure Readings at Home vs. Doctor’s Office: Why They Differ",
+    "description": "Understand the reasons behind inconsistent readings and how to get accurate results at home.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "home blood pressure vs doctor office reading",
+      "blood pressure",
+      "blood-pressure-basics"
+    ],
+    "primaryKeyword": "home blood pressure vs doctor office reading",
+    "topicCluster": "blood-pressure-basics",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "best-fruits-for-diabetics-over-50-and-which-to-limit",
+    "title": "Best Fruits for Diabetics Over 50 (And Which to Limit)",
+    "description": "Discover low-glycemic fruits that support heart and metabolic health without spiking glucose.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "best fruits for diabetics over 50",
+      "diabetes",
+      "diabetes-nutrition"
+    ],
+    "primaryKeyword": "best fruits for diabetics over 50",
+    "topicCluster": "diabetes-nutrition",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
     "slug": "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
     "title": "The Link Between Sleep Apnea and High Blood Pressure After 50",
     "description": "Explore how untreated sleep apnea contributes to hypertension and increases heart risks in older adults.",
@@ -13,7 +305,9 @@
     "primaryKeyword": "sleep apnea and high blood pressure over 50",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-sleep-affects-heart-health-after-50"
+    ]
   },
   {
     "slug": "the-hidden-link-between-gum-disease-and-heart-problems",
@@ -45,7 +339,9 @@
     "primaryKeyword": "low blood pressure risks in seniors",
     "topicCluster": "blood-pressure-basics",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-standing-up-too-fast-affects-blood-pressure-in-older-adults"
+    ]
   },
   {
     "slug": "how-walking-speed-can-reflect-heart-health-and-blood-pressure",
@@ -77,7 +373,9 @@
     "primaryKeyword": "standing up fast and blood pressure drop elderly",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "is-low-blood-pressure-dangerous-for-seniors"
+    ]
   },
   {
     "slug": "how-sleep-affects-heart-health-after-50",
@@ -93,7 +391,9 @@
     "primaryKeyword": "sleep and heart health after 50",
     "topicCluster": "heart-health",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50"
+    ]
   },
   {
     "slug": "how-does-cold-weather-affect-blood-pressure-in-older-adults",

@@ -6,6 +6,8 @@ import path from 'path';
 import type { PlannedTopic, ArticleFrontmatter } from '../lib/llm/qwen-articles';
 import { generateArticleMarkdown } from '../lib/llm/qwen-articles';
 import { slugify } from '../lib/utils/slugify';
+import { findSimilarArticlesForTopic } from '../lib/embeddings/similarity';
+import { addEmbeddingForNewArticle } from '../lib/embeddings/incremental';
 
 /**
  * 打印使用说明
@@ -137,6 +139,30 @@ async function main() {
       // 生成文章
       const article = await generateArticleMarkdown(topic);
 
+      // 自动查找并填充相关文章（基于 embeddings 相似度）
+      try {
+        const similarArticles = await findSimilarArticlesForTopic({
+          title: topic.title,
+          description: topic.description,
+          primaryKeyword: topic.primaryKeyword,
+          topK: 3,
+          minSimilarity: 0.6,
+        });
+
+        if (similarArticles.length > 0) {
+          article.frontmatter.relatedSlugs = similarArticles.map(a => a.slug);
+          console.log(`   🔗 Found ${similarArticles.length} related articles:`);
+          similarArticles.forEach(a => {
+            console.log(`      - ${a.slug} (similarity: ${a.similarity.toFixed(3)})`);
+          });
+        } else {
+          console.log(`   ℹ️  No similar articles found (threshold: 0.6)`);
+        }
+      } catch (linkError) {
+        // 如果相似度计算失败，不影响文章生成（relatedSlugs 保持为空数组）
+        console.warn(`   ⚠️  Failed to calculate related articles: ${linkError instanceof Error ? linkError.message : String(linkError)}`);
+      }
+
       // 写入 Markdown 文件
       const articlesDir = path.join(process.cwd(), 'content', 'articles');
       if (!fs.existsSync(articlesDir)) {
@@ -148,6 +174,21 @@ async function main() {
       const fileContent = `${yamlFrontmatter}\n\n${article.body}\n`;
 
       fs.writeFileSync(filePath, fileContent, 'utf8');
+
+      // 立即为新文章生成并保存 embedding（避免后续全量重建）
+      try {
+        await addEmbeddingForNewArticle({
+          slug: article.slug,
+          title: topic.title,
+          description: topic.description,
+          primaryKeyword: topic.primaryKeyword,
+          topicCluster: topic.topicCluster,
+        });
+      } catch (embeddingError) {
+        // Embedding 失败不影响文章生成，只是警告
+        console.warn(`   ⚠️  Failed to save embedding: ${embeddingError instanceof Error ? embeddingError.message : String(embeddingError)}`);
+        console.warn(`   You can run "npm run build:embeddings" later to generate it`);
+      }
 
       successfulTopics.push(topic);
       console.log(`   ✅ Written to: content/articles/${article.slug}.md`);

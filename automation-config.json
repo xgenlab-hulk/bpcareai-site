@@ -1,0 +1,47 @@
+{
+  "projectStartDate": "2025-11-27",
+  "stages": [
+    {
+      "dayRange": [1, 20],
+      "articlesPerDay": 15,
+      "description": "Initial growth phase"
+    },
+    {
+      "dayRange": [21, 40],
+      "articlesPerDay": 20,
+      "description": "Acceleration phase"
+    },
+    {
+      "dayRange": [41, 9999],
+      "articlesPerDay": 30,
+      "description": "Mature phase - ONGOING UNLIMITED"
+    }
+  ],
+  "topicManagement": {
+    "topics": [
+      "blood pressure",
+      "heart health",
+      "diabetes",
+      "cholesterol",
+      "heart disease",
+      "cardiovascular health"
+    ],
+    "totalMinThreshold": 30,
+    "targetReplenishAmount": 100,
+    "topicsPerReplenish": 3,
+    "replenishConfig": {
+      "maxAttempts": 10,
+      "duplicateThreshold": 0.85,
+      "expectedPassRate": 0.7,
+      "delayBetweenAttempts": 300
+    }
+  },
+  "comments": {
+    "projectStartDate": "The date when daily automation starts",
+    "stages": "Article generation phases with different daily targets",
+    "topics": "List of core topics for content generation",
+    "totalMinThreshold": "Trigger replenishment when total topics across all files < this number",
+    "targetReplenishAmount": "Target number of NEW valid topics to add during replenishment",
+    "topicsPerReplenish": "Number of topics to randomly select for each replenishment cycle"
+  }
+}

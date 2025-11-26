@@ -1,14 +1,20 @@
 ---
-title: "How Sleep Affects Heart Health After 50"
-slug: "how-sleep-affects-heart-health-after-50"
-description: "Discover the connection between quality sleep and heart health, especially for adults over 50, and learn tips to improve both."
-date: "2025-11-26"
-updated: "2025-11-26"
-tags: ["sleep and heart health after 50", "heart health", "heart-health"]
-primaryKeyword: "sleep and heart health after 50"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: []
+title: How Sleep Affects Heart Health After 50
+slug: how-sleep-affects-heart-health-after-50
+description: >-
+  Discover the connection between quality sleep and heart health, especially for
+  adults over 50, and learn tips to improve both.
+date: '2025-11-26'
+updated: '2025-11-26'
+tags:
+  - sleep and heart health after 50
+  - heart health
+  - heart-health
+primaryKeyword: sleep and heart health after 50
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
 ---
 
 # How Quality Sleep Supports Heart Health After 50
