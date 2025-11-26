@@ -292,6 +292,22 @@
     "relatedSlugs": []
   },
   {
+    "slug": "the-role-of-fiber-in-controlling-blood-sugar-after-50",
+    "title": "The Role of Fiber in Controlling Blood Sugar After 50",
+    "description": "Discover how increasing dietary fiber can improve insulin sensitivity and digestion in diabetics.",
+    "date": "2025-11-26",
+    "updated": "2025-11-26",
+    "tags": [
+      "high fiber diet for blood sugar control after 50",
+      "diabetes",
+      "diabetes-nutrition"
+    ],
+    "primaryKeyword": "high fiber diet for blood sugar control after 50",
+    "topicCluster": "diabetes-nutrition",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
     "slug": "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
     "title": "The Link Between Sleep Apnea and High Blood Pressure After 50",
     "description": "Explore how untreated sleep apnea contributes to hypertension and increases heart risks in older adults.",
@@ -428,6 +444,24 @@
     "relatedSlugs": []
   },
   {
+    "slug": "can-gardening-improve-heart-health-after-50",
+    "title": "Can Gardening Improve Heart Health After 50?",
+    "description": "Discover how light physical activities like gardening can support cardiovascular wellness in middle-aged and older adults.",
+    "date": "2025-11-26",
+    "updated": "2025-11-26",
+    "tags": [
+      "gardening and heart health after 50",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "gardening and heart health after 50",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": [
+      "can-meditation-reduce-heart-disease-risk-after-50"
+    ]
+  },
+  {
     "slug": "can-drinking-too-much-water-raise-blood-pressure",
     "title": "Can Drinking Too Much Water Raise Blood Pressure?",
     "description": "Discover the relationship between hydration, fluid overload, and blood pressure fluctuations in middle-aged and older adults.",
@@ -456,6 +490,41 @@
     ],
     "primaryKeyword": "menopause and blood pressure changes in women",
     "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "blood-pressure-changes-during-menopause-what-women-should-know",
+    "title": "Blood Pressure Changes During Menopause: What Women Should Know",
+    "description": "Understand how hormonal shifts in menopause influence blood pressure and what lifestyle adjustments can help manage it.",
+    "date": "2025-11-26",
+    "updated": "2025-11-26",
+    "tags": [
+      "menopause and blood pressure changes",
+      "blood pressure",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "menopause and blood pressure changes",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": [
+      "blood-pressure-fluctuations-during-menopause-what-women-should-know",
+      "how-menopause-affects-heart-disease-risk-in-women"
+    ]
+  },
+  {
+    "slug": "are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart",
+    "title": "Are Morning Stiff Joints a Sign of Inflammation That Hurts Your Heart?",
+    "description": "Examine how chronic joint stiffness may reflect systemic inflammation tied to heart disease.",
+    "date": "2025-11-26",
+    "updated": "2025-11-26",
+    "tags": [
+      "morning joint stiffness and heart inflammation link",
+      "heart health",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "morning joint stiffness and heart inflammation link",
+    "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": []
   },
