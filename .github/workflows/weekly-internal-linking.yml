@@ -39,23 +39,27 @@ jobs:
       - name: Update internal links
         run: npm run update:links
 
-      # 5. 检查是否有文件变更
+      # 5. 重建文章索引
+      - name: Rebuild articles index
+        run: npm run build:articles-index
+
+      # 6. 检查是否有文件变更
       - name: Check for changes
         id: git-check
         run: |
-          git diff --exit-code content/articles/*.md || echo "has_changes=true" >> $GITHUB_OUTPUT
+          git diff --exit-code content/articles/*.md data/articles-index.json || echo "has_changes=true" >> $GITHUB_OUTPUT
 
-      # 6. 提交并推送变更（如果有）
+      # 7. 提交并推送变更（如果有）
       - name: Commit and push changes
         if: steps.git-check.outputs.has_changes == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add content/articles/*.md
+          git add content/articles/*.md data/articles-index.json
           git commit -m "chore: weekly internal linking update [skip ci]"
           git push
 
-      # 7. 无变更时的日志
+      # 8. 无变更时的日志
       - name: No changes detected
         if: steps.git-check.outputs.has_changes != 'true'
         run: echo "✅ No changes needed - internal links are up to date"
