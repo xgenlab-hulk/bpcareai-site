@@ -13,6 +13,10 @@ on:
         required: false
         type: number
 
+# Permissions required for the workflow
+permissions:
+  contents: write  # Allow pushing commits to the repository
+
 jobs:
   generate-and-deploy:
     runs-on: ubuntu-latest
@@ -41,26 +45,17 @@ jobs:
       - name: Run daily article generation
         env:
           QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+          ARTICLES_COUNT_OVERRIDE: ${{ inputs.articles_count }}
         run: |
-          echo "Starting daily article generation..."
+          if [ -n "$ARTICLES_COUNT_OVERRIDE" ]; then
+            echo "Starting daily article generation with override count: $ARTICLES_COUNT_OVERRIDE..."
+          else
+            echo "Starting daily article generation with auto-detection..."
+          fi
           npm run auto:generate
 
       - name: Rebuild articles index
         run: npm run build:articles-index
-
-      - name: Build Next.js site
-        run: npm run build
-
-      - name: Deploy to Vercel
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-        run: |
-          npm install -g vercel
-          vercel pull --yes --environment=production --token=$VERCEL_TOKEN
-          vercel build --prod --token=$VERCEL_TOKEN
-          vercel deploy --prebuilt --prod --token=$VERCEL_TOKEN
 
       - name: Commit and push changes
         run: |
@@ -105,7 +100,7 @@ jobs:
           fi
 
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "🚀 **Deployment**: Deployed to production" >> $GITHUB_STEP_SUMMARY
+          echo "🚀 **Deployment**: Pushed to GitHub, Vercel auto-deployment triggered" >> $GITHUB_STEP_SUMMARY
 
       - name: Notify on failure
         if: failure()

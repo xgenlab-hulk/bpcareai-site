@@ -9,6 +9,10 @@ on:
   # 支持手动触发（可在 GitHub Actions 页面手动运行）
   workflow_dispatch:
 
+# Permissions required for the workflow
+permissions:
+  contents: write  # Allow pushing commits to the repository
+
 jobs:
   update-internal-links:
     runs-on: ubuntu-latest
@@ -24,7 +28,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
           cache: 'npm'
 
       # 3. 安装依赖
@@ -55,12 +59,3 @@ jobs:
       - name: No changes detected
         if: steps.git-check.outputs.has_changes != 'true'
         run: echo "✅ No changes needed - internal links are up to date"
-
-      # 8. 可选：重建索引并部署（取消注释以启用）
-      # - name: Rebuild articles index
-      #   if: steps.git-check.outputs.has_changes == 'true'
-      #   run: npm run build:articles-index
-      #
-      # - name: Deploy to Vercel (optional)
-      #   if: steps.git-check.outputs.has_changes == 'true'
-      #   run: vercel --prod --token=${{ secrets.VERCEL_TOKEN }}

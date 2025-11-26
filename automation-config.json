@@ -27,7 +27,7 @@
       "cardiovascular health"
     ],
     "totalMinThreshold": 30,
-    "targetReplenishAmount": 100,
+    "targetReplenishAmount": 50,
     "topicsPerReplenish": 3,
     "replenishConfig": {
       "maxAttempts": 10,

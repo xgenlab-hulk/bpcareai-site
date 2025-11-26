@@ -98,6 +98,18 @@ function determineArticlesCount(
 ): { articlesCount: number; stage: string } {
   const { stages } = config;
 
+  // 检查是否在有效范围内
+  if (daysSinceStart < 1) {
+    console.warn(`⚠️  Warning: daysSinceStart (${daysSinceStart}) is less than 1.`);
+    console.warn(`   This usually means the current date is before the projectStartDate.`);
+    console.warn(`   Using the first stage configuration as fallback.\n`);
+    const firstStage = stages[0];
+    return {
+      articlesCount: firstStage.articlesPerDay,
+      stage: `${firstStage.description} (fallback - before start date)`,
+    };
+  }
+
   for (const stage of stages) {
     const [minDay, maxDay] = stage.dayRange;
     if (daysSinceStart >= minDay && daysSinceStart <= maxDay) {
@@ -353,9 +365,24 @@ async function main(): Promise<GenerationResult> {
   console.log(`📊 Days since start: Day ${daysSinceStart}\n`);
 
   // 3. 确定今天的文章数量
-  const { articlesCount, stage } = determineArticlesCount(config, daysSinceStart);
-  console.log(`📌 Current stage: ${stage}`);
-  console.log(`🎯 Target articles: ${articlesCount}\n`);
+  let articlesCount: number;
+  let stage: string;
+
+  // 检查是否有环境变量覆盖（用于手动执行）
+  const overrideCount = process.env.ARTICLES_COUNT_OVERRIDE;
+  if (overrideCount && !isNaN(parseInt(overrideCount, 10))) {
+    articlesCount = parseInt(overrideCount, 10);
+    stage = 'Manual override';
+    console.log(`🔧 Manual override detected!`);
+    console.log(`📌 Stage: ${stage}`);
+    console.log(`🎯 Target articles: ${articlesCount} (overridden)\n`);
+  } else {
+    const result = determineArticlesCount(config, daysSinceStart);
+    articlesCount = result.articlesCount;
+    stage = result.stage;
+    console.log(`📌 Current stage: ${stage}`);
+    console.log(`🎯 Target articles: ${articlesCount}\n`);
+  }
 
   // 4. 检查库存（补充前）
   const topicsInventoryBefore = getTotalTopicsCount(config.topicManagement.topics);
