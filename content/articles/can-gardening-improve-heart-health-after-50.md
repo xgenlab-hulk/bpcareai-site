@@ -1,14 +1,20 @@
 ---
-title: "Can Gardening Improve Heart Health After 50?"
-slug: "can-gardening-improve-heart-health-after-50"
-description: "Discover how light physical activities like gardening can support cardiovascular wellness in middle-aged and older adults."
-date: "2025-11-26"
-updated: "2025-11-26"
-tags: ["gardening and heart health after 50", "heart health", "heart-health"]
-primaryKeyword: "gardening and heart health after 50"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["can-meditation-reduce-heart-disease-risk-after-50"]
+title: Can Gardening Improve Heart Health After 50?
+slug: can-gardening-improve-heart-health-after-50
+description: >-
+  Discover how light physical activities like gardening can support
+  cardiovascular wellness in middle-aged and older adults.
+date: '2025-11-26'
+updated: '2025-11-26'
+tags:
+  - gardening and heart health after 50
+  - heart health
+  - heart-health
+primaryKeyword: gardening and heart health after 50
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - can-meditation-reduce-heart-disease-risk-after-50
 ---
 
 # How Gardening and Heart Health After 50 Go Hand in Hand

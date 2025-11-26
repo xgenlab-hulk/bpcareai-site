@@ -1,14 +1,20 @@
 ---
-title: "Can Meditation Reduce Heart Disease Risk After 50?"
-slug: "can-meditation-reduce-heart-disease-risk-after-50"
-description: "Explore how mindfulness practices may lower stress hormones and improve heart outcomes in middle-aged and older adults."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["meditation and heart disease prevention after 50", "heart disease", "hypertension-lifestyle"]
-primaryKeyword: "meditation and heart disease prevention after 50"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: []
+title: Can Meditation Reduce Heart Disease Risk After 50?
+slug: can-meditation-reduce-heart-disease-risk-after-50
+description: >-
+  Explore how mindfulness practices may lower stress hormones and improve heart
+  outcomes in middle-aged and older adults.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - meditation and heart disease prevention after 50
+  - heart disease
+  - hypertension-lifestyle
+primaryKeyword: meditation and heart disease prevention after 50
+topicCluster: hypertension-lifestyle
+image: ''
+relatedSlugs:
+  - can-gardening-improve-heart-health-after-50
 ---
 
 # Can Meditation Help Prevent Heart Disease After 50?

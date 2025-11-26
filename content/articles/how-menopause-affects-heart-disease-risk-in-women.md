@@ -1,14 +1,21 @@
 ---
-title: "How Menopause Affects Heart Disease Risk in Women"
-slug: "how-menopause-affects-heart-disease-risk-in-women"
-description: "Explore hormonal changes during menopause that increase the likelihood of developing heart disease."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["menopause and increased heart disease risk", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "menopause and increased heart disease risk"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["blood-pressure-fluctuations-during-menopause-what-women-should-know"]
+title: How Menopause Affects Heart Disease Risk in Women
+slug: how-menopause-affects-heart-disease-risk-in-women
+description: >-
+  Explore hormonal changes during menopause that increase the likelihood of
+  developing heart disease.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - menopause and increased heart disease risk
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: menopause and increased heart disease risk
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - blood-pressure-changes-during-menopause-what-women-should-know
+  - blood-pressure-fluctuations-during-menopause-what-women-should-know
 ---
 
 # How Menopause and Increased Heart Disease Risk Are Connected

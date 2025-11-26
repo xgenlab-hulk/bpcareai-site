@@ -1,14 +1,21 @@
 ---
-title: "Blood Pressure Changes During Menopause: What Women Should Know"
-slug: "blood-pressure-changes-during-menopause-what-women-should-know"
-description: "Understand how hormonal shifts in menopause influence blood pressure and what lifestyle adjustments can help manage it."
-date: "2025-11-26"
-updated: "2025-11-26"
-tags: ["menopause and blood pressure changes", "blood pressure", "hypertension-lifestyle"]
-primaryKeyword: "menopause and blood pressure changes"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["blood-pressure-fluctuations-during-menopause-what-women-should-know", "how-menopause-affects-heart-disease-risk-in-women"]
+title: 'Blood Pressure Changes During Menopause: What Women Should Know'
+slug: blood-pressure-changes-during-menopause-what-women-should-know
+description: >-
+  Understand how hormonal shifts in menopause influence blood pressure and what
+  lifestyle adjustments can help manage it.
+date: '2025-11-26'
+updated: '2025-11-26'
+tags:
+  - menopause and blood pressure changes
+  - blood pressure
+  - hypertension-lifestyle
+primaryKeyword: menopause and blood pressure changes
+topicCluster: hypertension-lifestyle
+image: ''
+relatedSlugs:
+  - blood-pressure-fluctuations-during-menopause-what-women-should-know
+  - how-menopause-affects-heart-disease-risk-in-women
 ---
 
 # Understanding Menopause and Blood Pressure Changes: A Guide for Women Over 50
