@@ -3,7 +3,12 @@ title: "Heart Rate Variability: What It Tells You"
 slug: "heart-rate-variability-explained"
 description: "Learn how HRV reflects your stress levels and overall cardiovascular health, and why the variation between heartbeats matters more than you think."
 date: "2024-11-10"
+updated: "2024-11-10"
 tags: ["HRV", "heart health", "stress"]
+primaryKeyword: "heart rate variability"
+topicCluster: "heart-health"
+image: ""
+relatedSlugs: ["understanding-blood-pressure-numbers", "when-to-worry-about-high-readings"]
 ---
 
 # Heart Rate Variability: What It Tells You

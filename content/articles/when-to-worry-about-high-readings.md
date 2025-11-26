@@ -3,7 +3,12 @@ title: "When Should You Worry About a High Reading?"
 slug: "when-to-worry-about-high-readings"
 description: "Understanding the difference between a temporary spike and a concerning pattern. When to relax, when to monitor, and when to call your doctor."
 date: "2024-11-05"
+updated: "2024-11-05"
 tags: ["blood pressure", "health guidance", "peace of mind"]
+primaryKeyword: "high blood pressure reading"
+topicCluster: "blood-pressure-basics"
+image: ""
+relatedSlugs: ["understanding-blood-pressure-numbers", "heart-rate-variability-explained"]
 ---
 
 # When Should You Worry About a High Reading?

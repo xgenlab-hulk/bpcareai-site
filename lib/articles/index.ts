@@ -1,32 +1,15 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { remark } from 'remark';
-import html from 'remark-html';
+import { ArticleMeta, ArticleFull } from './types';
 
 const articlesDirectory = path.join(process.cwd(), 'content/articles');
 
-export interface ArticleMeta {
-  slug: string;
-  title: string;
-  description: string;
-  date: string;
-  updated?: string;
-  tags: string[];
-  primaryKeyword?: string;
-  topicCluster?: string;
-  image?: string;
-  relatedSlugs?: string[];
-}
-
-export interface Article extends ArticleMeta {
-  content: string;
-}
-
 /**
- * 获取所有文章的元数据，按日期倒序排列
+ * 获取所有文章的元数据
+ * @returns Promise<ArticleMeta[]> 按 date 降序排序的文章列表
  */
-export function getAllArticlesMeta(): ArticleMeta[] {
+export async function getAllArticlesMeta(): Promise<ArticleMeta[]> {
   // 确保目录存在
   if (!fs.existsSync(articlesDirectory)) {
     return [];
@@ -46,11 +29,11 @@ export function getAllArticlesMeta(): ArticleMeta[] {
         title: matterResult.data.title || '',
         description: matterResult.data.description || '',
         date: matterResult.data.date || '',
-        updated: matterResult.data.updated,
+        updated: matterResult.data.updated || '',
+        primaryKeyword: matterResult.data.primaryKeyword || '',
+        topicCluster: matterResult.data.topicCluster || '',
+        image: matterResult.data.image || '',
         tags: matterResult.data.tags || [],
-        primaryKeyword: matterResult.data.primaryKeyword,
-        topicCluster: matterResult.data.topicCluster,
-        image: matterResult.data.image,
         relatedSlugs: matterResult.data.relatedSlugs || [],
       } as ArticleMeta;
     });
@@ -67,8 +50,10 @@ export function getAllArticlesMeta(): ArticleMeta[] {
 
 /**
  * 根据 slug 获取单篇文章的完整内容
+ * @param slug 文章的 slug
+ * @returns Promise<ArticleFull | null> 文章完整数据，失败时返回 null
  */
-export async function getArticleBySlug(slug: string): Promise<Article | null> {
+export async function getArticleBySlug(slug: string): Promise<ArticleFull | null> {
   try {
     const fullPath = path.join(articlesDirectory, `${slug}.md`);
 
@@ -79,41 +64,21 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const matterResult = matter(fileContents);
 
-    // 使用 remark 将 Markdown 转换为 HTML
-    const processedContent = await remark()
-      .use(html)
-      .process(matterResult.content);
-    const contentHtml = processedContent.toString();
-
     return {
       slug,
       title: matterResult.data.title || '',
       description: matterResult.data.description || '',
       date: matterResult.data.date || '',
-      updated: matterResult.data.updated,
+      updated: matterResult.data.updated || '',
+      primaryKeyword: matterResult.data.primaryKeyword || '',
+      topicCluster: matterResult.data.topicCluster || '',
+      image: matterResult.data.image || '',
       tags: matterResult.data.tags || [],
-      primaryKeyword: matterResult.data.primaryKeyword,
-      topicCluster: matterResult.data.topicCluster,
-      image: matterResult.data.image,
       relatedSlugs: matterResult.data.relatedSlugs || [],
-      content: contentHtml,
+      content: matterResult.content,
     };
   } catch (error) {
     console.error(`Error reading article ${slug}:`, error);
     return null;
   }
-}
-
-/**
- * 获取所有文章的 slug（用于生成静态路径）
- */
-export function getAllArticleSlugs(): string[] {
-  if (!fs.existsSync(articlesDirectory)) {
-    return [];
-  }
-
-  const fileNames = fs.readdirSync(articlesDirectory);
-  return fileNames
-    .filter((fileName) => fileName.endsWith('.md'))
-    .map((fileName) => fileName.replace(/\.md$/, ''));
 }

@@ -20,16 +20,20 @@ export function generateArticleJsonLd({
   title,
   description,
   date,
+  updated,
   slug,
   image,
 }: {
   title: string;
   description: string;
   date: string;
+  updated?: string;
   slug: string;
   image?: string;
 }) {
-  const isoDate = new Date(date).toISOString();
+  const isoDatePublished = new Date(date).toISOString();
+  // 如果有 updated 字段则使用，否则使用 date
+  const isoDateModified = updated ? new Date(updated).toISOString() : isoDatePublished;
   // 如果文章有 image 字段则使用，否则使用默认 icon
   const articleImage = image || SITE_LOGO;
 
@@ -39,8 +43,8 @@ export function generateArticleJsonLd({
     headline: title,
     description: description,
     image: articleImage,
-    datePublished: isoDate,
-    dateModified: isoDate,
+    datePublished: isoDatePublished,
+    dateModified: isoDateModified,
     author: {
       '@type': 'Organization',
       name: SITE_NAME,
