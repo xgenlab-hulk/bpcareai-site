@@ -64,6 +64,7 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": [
+      "blood-pressure-changes-during-menopause-what-women-should-know",
       "blood-pressure-fluctuations-during-menopause-what-women-should-know"
     ]
   },
@@ -241,7 +242,9 @@
     "primaryKeyword": "meditation and heart disease prevention after 50",
     "topicCluster": "hypertension-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-gardening-improve-heart-health-after-50"
+    ]
   },
   {
     "slug": "can-intermittent-fasting-help-manage-type-2-diabetes-after-60",
@@ -339,7 +342,9 @@
     "primaryKeyword": "gum disease and heart health connection",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-poor-dental-hygiene-may-lead-to-heart-disease"
+    ]
   },
   {
     "slug": "is-low-blood-pressure-dangerous-for-seniors",
@@ -491,7 +496,10 @@
     "primaryKeyword": "menopause and blood pressure changes in women",
     "topicCluster": "hypertension-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "blood-pressure-changes-during-menopause-what-women-should-know",
+      "how-menopause-affects-heart-disease-risk-in-women"
+    ]
   },
   {
     "slug": "blood-pressure-changes-during-menopause-what-women-should-know",
