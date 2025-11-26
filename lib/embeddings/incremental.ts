@@ -7,6 +7,7 @@ import fs from 'fs';
 import path from 'path';
 import type { ArticleEmbedding } from './types';
 import { generateEmbeddingForText } from './qwen';
+import { getCachedTopicEmbedding } from '../topics/embedding-cache';
 
 /**
  * 为新文章立即生成并保存 embedding
@@ -52,13 +53,25 @@ export async function addEmbeddingForNewArticle(params: {
     return;
   }
 
-  // 3. 生成 embedding
-  const inputText = buildEmbeddingInput(params);
-  console.log(`   🔢 Generating embedding for: ${params.slug}...`);
+  // 3. 尝试从缓存读取 embedding（复用之前补充 topics 时生成的）
+  let embedding: number[] | null = getCachedTopicEmbedding(params.title, params.primaryKeyword);
+
+  if (embedding) {
+    console.log(`   🔄 Using cached embedding for: ${params.slug}`);
+  } else {
+    // 缓存未命中，生成新的 embedding
+    const inputText = buildEmbeddingInput(params);
+    console.log(`   🔢 Generating new embedding for: ${params.slug}...`);
+
+    try {
+      embedding = await generateEmbeddingForText(inputText);
+    } catch (error) {
+      console.error(`   ❌ Failed to generate embedding: ${error instanceof Error ? error.message : String(error)}`);
+      throw error; // 向上传播错误
+    }
+  }
 
   try {
-    const embedding = await generateEmbeddingForText(inputText);
-
     // 4. 构造新的 embedding 对象
     const newEmbedding: ArticleEmbedding = {
       slug: params.slug,
@@ -82,8 +95,8 @@ export async function addEmbeddingForNewArticle(params: {
 
     console.log(`   ✅ Embedding saved (dimension: ${embedding.length})`);
   } catch (error) {
-    console.error(`   ❌ Failed to generate embedding: ${error instanceof Error ? error.message : String(error)}`);
-    throw error; // 向上传播错误
+    console.error(`   ❌ Failed to save embedding: ${error instanceof Error ? error.message : String(error)}`);
+    throw error;
   }
 }
 

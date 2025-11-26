@@ -75,7 +75,7 @@ async function loadArticleEmbeddings(): Promise<ArticleEmbedding[]> {
 /**
  * 构造主题输入文本（与 build-embeddings.ts 中的逻辑保持一致）
  */
-function buildTopicInputText(params: {
+export function buildTopicInputText(params: {
   title: string;
   description?: string;
   primaryKeyword?: string;
@@ -181,5 +181,58 @@ export async function checkTopicDuplicate(
     maxSimilarity,
     mostSimilar,
     allSimilar: similarArticles,
+  };
+}
+
+/**
+ * 检查选题是否与现有文章 + 额外的候选列表重复
+ * 用于 topic 补充过程中，同时与已发布文章和本轮新接受的 topics 查重
+ */
+export async function checkTopicDuplicateWithExtra(
+  params: FindSimilarArticlesParams & {
+    duplicateThreshold?: number;
+    extraEmbeddings?: ArticleEmbedding[]; // 额外的 embedding 列表（本轮新接受的）
+  }
+): Promise<TopicDuplicateCheckResult> {
+  const { duplicateThreshold = 0.85, extraEmbeddings = [], ...findParams } = params;
+
+  // 1. 构造输入文本
+  const inputText = buildTopicInputText({
+    title: findParams.title,
+    description: findParams.description,
+    primaryKeyword: findParams.primaryKeyword,
+  });
+
+  // 2. 生成新主题的 embedding
+  const newTopicEmbedding = await generateEmbeddingForText(inputText);
+
+  // 3. 加载已发布文章的 embedding
+  const publishedEmbeddings = await loadArticleEmbeddings();
+
+  // 4. 合并：已发布 + 额外的（本轮新接受的）
+  const allEmbeddings = [...publishedEmbeddings, ...extraEmbeddings];
+
+  // 5. 计算相似度
+  const similarities: SimilarArticle[] = allEmbeddings.map((article) => ({
+    slug: article.slug,
+    title: article.title,
+    primaryKeyword: article.primaryKeyword,
+    topicCluster: article.topicCluster,
+    similarity: cosineSimilarity(newTopicEmbedding, article.embedding),
+  }));
+
+  // 6. 过滤 + 排序
+  const sorted = similarities
+    .filter((item) => item.similarity >= 0.5) // 降低阈值以获取更多候选
+    .sort((a, b) => b.similarity - a.similarity);
+
+  const mostSimilar = sorted[0];
+  const maxSimilarity = mostSimilar?.similarity ?? 0;
+
+  return {
+    isDuplicate: maxSimilarity >= duplicateThreshold,
+    maxSimilarity,
+    mostSimilar,
+    allSimilar: sorted.slice(0, 10),
   };
 }

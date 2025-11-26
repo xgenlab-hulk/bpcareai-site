@@ -1,8 +1,11 @@
 import fs from 'fs';
 import path from 'path';
 import type { ArticleMeta } from '../articles/types';
+import type { ArticleEmbedding } from '../embeddings/types';
 import { generateTopicCandidatesForKeyword } from '../llm/qwen-topics';
-import { checkTopicDuplicate } from '../embeddings/similarity';
+import { checkTopicDuplicateWithExtra, buildTopicInputText } from '../embeddings/similarity';
+import { generateEmbeddingForText } from '../embeddings/qwen';
+import { cacheTopicEmbedding } from './embedding-cache';
 import { slugify } from '../utils/slugify';
 import type { PlannedTopic } from './manager';
 
@@ -88,6 +91,9 @@ export async function replenishTopicUntilTarget(
   const allPlannedTopics: PlannedTopic[] = [...existingPlannedTopics];
   const plannedTitles = new Set(allPlannedTopics.map((t) => t.title.toLowerCase().trim()));
 
+  // 🔥 新增：维护本次新接受的 topics 的 embeddings（用于查重）
+  const newAcceptedEmbeddings: ArticleEmbedding[] = [];
+
   console.log('─'.repeat(60));
 
   while (totalAccepted < targetCount && attempts < maxAttempts) {
@@ -123,12 +129,21 @@ export async function replenishTopicUntilTarget(
         }
 
         try {
-          // 语义查重
-          const result = await checkTopicDuplicate({
+          // 🔥 步骤 1：为候选生成 embedding（用于查重和缓存）
+          const candidateText = buildTopicInputText({
+            title: candidate.title,
+            description: candidate.description,
+            primaryKeyword: candidate.primaryKeyword || topic,
+          });
+          const candidateEmbedding = await generateEmbeddingForText(candidateText);
+
+          // 🔥 步骤 2：语义查重（与已发布文章 + 本轮新接受的 topics 比较）
+          const result = await checkTopicDuplicateWithExtra({
             title: candidate.title,
             description: candidate.description,
             primaryKeyword: candidate.primaryKeyword || topic,
             duplicateThreshold,
+            extraEmbeddings: newAcceptedEmbeddings,  // 包含本轮新接受的
           });
 
           if (result.isDuplicate) {
@@ -140,7 +155,7 @@ export async function replenishTopicUntilTarget(
                 `(similar to "${mostSimilar.title.substring(0, 30)}..." @ ${result.maxSimilarity.toFixed(2)})`
             );
           } else {
-            // 通过，添加到队列
+            // 🔥 步骤 3：通过查重，接受该 topic
             const newTopic: PlannedTopic = {
               ...candidate,
               coreKeyword: topic,
@@ -149,6 +164,27 @@ export async function replenishTopicUntilTarget(
 
             allPlannedTopics.push(newTopic);
             plannedTitles.add(newTopic.title.toLowerCase().trim());
+
+            // 🔥 步骤 4：将 embedding 添加到临时列表（供后续查重使用）
+            newAcceptedEmbeddings.push({
+              slug: slugify(candidate.title),
+              title: candidate.title,
+              primaryKeyword: candidate.primaryKeyword || topic,
+              topicCluster: candidate.topicCluster,
+              embedding: candidateEmbedding,
+            });
+
+            // 🔥 步骤 5：缓存 embedding（供生成文章时复用）
+            try {
+              cacheTopicEmbedding(
+                candidate.title,
+                candidate.primaryKeyword || topic,
+                candidateEmbedding
+              );
+            } catch (cacheError) {
+              console.warn(`   ⚠️  Failed to cache embedding: ${cacheError instanceof Error ? cacheError.message : String(cacheError)}`);
+            }
+
             acceptedInRound++;
             totalAccepted++;
 
