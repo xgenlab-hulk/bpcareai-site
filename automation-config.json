@@ -39,9 +39,9 @@
   "comments": {
     "projectStartDate": "The date when daily automation starts",
     "stages": "Article generation phases with different daily targets",
-    "topics": "List of core topics for content generation",
+    "topics": "[REFERENCE ONLY] System now auto-scans data/ folder for all planned-topics-*.json files. This list is kept for documentation purposes only.",
     "totalMinThreshold": "Trigger replenishment when total topics across all files < this number",
     "targetReplenishAmount": "Target number of NEW valid topics to add during replenishment",
-    "topicsPerReplenish": "Number of topics to randomly select for each replenishment cycle"
+    "topicsPerReplenish": "[DEPRECATED] System now uses smart selection based on inventory levels. This parameter is no longer used. Topics are automatically selected based on current stock, prioritizing low-inventory topics."
   }
 }

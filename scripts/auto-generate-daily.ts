@@ -7,8 +7,7 @@ import { execSync } from 'child_process';
 import {
   getTopicsInventory,
   getTotalTopicsCount,
-  selectRandomTopics,
-  distributeTargetAcrossTopics,
+  selectTopicsForReplenishment,
   selectRandomTopicsForGeneration,
   type TopicWithSource,
 } from '../lib/topics/manager';
@@ -16,6 +15,7 @@ import { replenishMultipleTopics } from '../lib/topics/replenish';
 import { generateArticleMarkdown } from '../lib/llm/qwen-articles';
 import { findSimilarArticlesForTopic } from '../lib/embeddings/similarity';
 import { addEmbeddingForNewArticle } from '../lib/embeddings/incremental';
+import { updateArticleFrontmatter } from '../lib/embeddings/internal-linking';
 import { slugify } from '../lib/utils/slugify';
 import type { ArticleFrontmatter } from '../lib/llm/qwen-articles';
 
@@ -132,16 +132,16 @@ function determineArticlesCount(
  * 检查并补充 topics（如果需要）
  */
 async function replenishTopicsIfNeeded(config: AutomationConfig): Promise<number> {
-  const { topics, totalMinThreshold, targetReplenishAmount, topicsPerReplenish, replenishConfig } =
+  const { totalMinThreshold, targetReplenishAmount, replenishConfig } =
     config.topicManagement;
 
   console.log('\n╔════════════════════════════════════════════════════════╗');
   console.log('║        Topic Inventory Check                          ║');
   console.log('╚════════════════════════════════════════════════════════╝\n');
 
-  // 统计所有 topics 的总标题数
-  const inventory = getTopicsInventory(topics);
-  const totalCount = getTotalTopicsCount(topics);
+  // 统计所有 topics 的总标题数（自动扫描 data 目录）
+  const inventory = getTopicsInventory();
+  const totalCount = getTotalTopicsCount();
 
   console.log('📊 Current inventory:');
   inventory.forEach((item) => {
@@ -159,18 +159,17 @@ async function replenishTopicsIfNeeded(config: AutomationConfig): Promise<number
   console.log(`⚠️  Low inventory detected (${totalCount} < ${totalMinThreshold})`);
   console.log(`🔄 Starting auto-replenishment process...\n`);
   console.log(`   Target: Add ${targetReplenishAmount} new valid topics`);
-  console.log(`   Strategy: Randomly select ${topicsPerReplenish} topics\n`);
+  console.log(`   Strategy: Smart selection based on inventory levels\n`);
 
-  // 随机选择 topics
-  const selectedTopics = selectRandomTopics(topics, topicsPerReplenish);
-  console.log(`🎲 Randomly selected topics:`);
-  selectedTopics.forEach((t, i) => {
-    console.log(`   ${i + 1}. ${t}`);
+  // 智能选择并分配（按库存量优先补充）
+  const distribution = selectTopicsForReplenishment(targetReplenishAmount);
+
+  console.log(`🎯 Smart distribution plan:`);
+  distribution.forEach((count, topic) => {
+    const currentCount = inventory.find(item => item.topic === topic)?.count || 0;
+    console.log(`   - ${topic}: ${currentCount} → ${currentCount + count} (+${count})`);
   });
   console.log('');
-
-  // 分配目标数量
-  const distribution = distributeTargetAcrossTopics(targetReplenishAmount, selectedTopics);
 
   // 执行补充
   const results = await replenishMultipleTopics(distribution, replenishConfig);
@@ -206,14 +205,12 @@ async function generateArticles(
   config: AutomationConfig,
   count: number
 ): Promise<{ success: number; failed: number }> {
-  const { topics } = config.topicManagement;
-
   console.log('\n╔════════════════════════════════════════════════════════╗');
   console.log('║        Article Generation                             ║');
   console.log('╚════════════════════════════════════════════════════════╝\n');
 
-  // 从所有 topics 中随机选择标题
-  const selectedTopics = selectRandomTopicsForGeneration(topics, count);
+  // 从所有 topics 中随机选择标题（自动扫描 data 目录）
+  const selectedTopics = selectRandomTopicsForGeneration(count);
 
   if (selectedTopics.length === 0) {
     console.error('❌ No topics available for generation!');
@@ -263,6 +260,20 @@ async function generateArticles(
         if (similarArticles.length > 0) {
           article.frontmatter.relatedSlugs = similarArticles.map((a) => a.slug);
           console.log(`   🔗 Found ${similarArticles.length} related articles`);
+
+          // 实时双向连接：将新文章添加到老文章的 relatedSlugs 中
+          for (const oldArticle of similarArticles) {
+            try {
+              updateArticleFrontmatter(
+                oldArticle.slug,
+                [article.slug],
+                true // preserveExisting: true - 追加模式
+              );
+            } catch (reverseError) {
+              console.warn(`   ⚠️  Failed to update reverse link for ${oldArticle.slug}: ${reverseError instanceof Error ? reverseError.message : String(reverseError)}`);
+            }
+          }
+          console.log(`   ↔️  Bidirectional links established`);
         }
       } catch (linkError) {
         console.warn(`   ⚠️  Failed to find related articles: ${linkError instanceof Error ? linkError.message : String(linkError)}`);
@@ -311,7 +322,7 @@ async function generateArticles(
   if (successCount > 0) {
     console.log('🔄 Updating planned-topics files...\n');
 
-    const inventory = getTopicsInventory(topics);
+    const inventory = getTopicsInventory();
 
     inventory.forEach((item) => {
       const remainingTopics = item.topics.filter((t) => !generatedSlugs.has(slugify(t.title)));
@@ -384,14 +395,14 @@ async function main(): Promise<GenerationResult> {
     console.log(`🎯 Target articles: ${articlesCount}\n`);
   }
 
-  // 4. 检查库存（补充前）
-  const topicsInventoryBefore = getTotalTopicsCount(config.topicManagement.topics);
+  // 4. 检查库存（补充前）- 自动扫描 data 目录
+  const topicsInventoryBefore = getTotalTopicsCount();
 
   // 5. 补充 topics（如果需要）
   const topicsReplenished = await replenishTopicsIfNeeded(config);
 
-  // 6. 检查库存（补充后）
-  const topicsInventoryAfter = getTotalTopicsCount(config.topicManagement.topics);
+  // 6. 检查库存（补充后）- 自动扫描 data 目录
+  const topicsInventoryAfter = getTotalTopicsCount();
 
   // 7. 生成文章
   const { success, failed } = await generateArticles(config, articlesCount);

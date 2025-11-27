@@ -1,0 +1,285 @@
+/**
+ * API Route: /api/admin/topics/generate-titles
+ * POST - Generate titles for a topic from topics.json
+ */
+import { NextRequest, NextResponse } from 'next/server';
+import { auth } from '@/auth';
+import fs from 'fs';
+import path from 'path';
+import { generateTopicCandidatesForKeyword } from '@/lib/llm/qwen-topics';
+import { checkTopicDuplicate } from '@/lib/embeddings/similarity';
+import { slugify } from '@/lib/utils/slugify';
+import type { ArticleMeta } from '@/lib/articles/types';
+
+/**
+ * 计划中的选题
+ */
+interface PlannedTopic {
+  title: string;
+  description: string;
+  primaryKeyword: string;
+  topicCluster: string;
+  coreKeyword: string;
+  createdAt: string;
+}
+
+/**
+ * topics.json 中的 topic
+ */
+interface TopicEntry {
+  name: string;
+  description?: string;
+  addedAt: string;
+}
+
+/**
+ * 常量配置
+ */
+const MAX_ATTEMPTS = 3;
+const BATCH_SIZE = 30;
+const DUPLICATE_THRESHOLD = 0.85;
+const DELAY_BETWEEN_CHECKS = 300;
+
+/**
+ * 为单个 topic 生成标题
+ */
+async function generateTitlesForTopic(
+  keyword: string,
+  targetCount: number,
+  existingTitles: string[]
+): Promise<{ titles: PlannedTopic[]; stats: { total: number; accepted: number; duplicates: number; attempts: number } }> {
+  const plannedTopics: PlannedTopic[] = [];
+  let attempts = 0;
+  let totalDuplicates = 0;
+
+  while (plannedTopics.length < targetCount && attempts < MAX_ATTEMPTS) {
+    attempts++;
+
+    try {
+      // 生成候选标题
+      const alreadyPlannedTitles = plannedTopics.map((t) => t.title);
+      const candidates = await generateTopicCandidatesForKeyword({
+        coreKeyword: keyword,
+        existingTitles,
+        alreadyPlannedTitles,
+        batchSize: BATCH_SIZE,
+      });
+
+      let acceptedInThisRound = 0;
+      let duplicatesInThisRound = 0;
+
+      // 检查每个候选
+      for (const candidate of candidates) {
+        // 如果已达到目标数量，停止检查
+        if (plannedTopics.length >= targetCount) {
+          break;
+        }
+
+        try {
+          // 调用语义查重
+          const result = await checkTopicDuplicate({
+            title: candidate.title,
+            description: candidate.description,
+            primaryKeyword: candidate.primaryKeyword || keyword,
+            duplicateThreshold: DUPLICATE_THRESHOLD,
+          });
+
+          if (result.isDuplicate) {
+            duplicatesInThisRound++;
+          } else {
+            acceptedInThisRound++;
+            plannedTopics.push({
+              ...candidate,
+              coreKeyword: keyword,
+              createdAt: new Date().toISOString(),
+            });
+          }
+
+          // 速率限制
+          await new Promise((resolve) => setTimeout(resolve, DELAY_BETWEEN_CHECKS));
+        } catch (error) {
+          console.error(`Error checking duplicate for "${candidate.title}":`, error);
+        }
+      }
+
+      totalDuplicates += duplicatesInThisRound;
+    } catch (error) {
+      console.error(`Error in attempt ${attempts} for topic "${keyword}":`, error);
+    }
+  }
+
+  return {
+    titles: plannedTopics,
+    stats: {
+      total: plannedTopics.length,
+      accepted: plannedTopics.length,
+      duplicates: totalDuplicates,
+      attempts,
+    },
+  };
+}
+
+/**
+ * 保存 topics 到文件（合并模式）
+ */
+function saveTopicsToFile(keyword: string, newTopics: PlannedTopic[]): number {
+  const dataDir = path.join(process.cwd(), 'data');
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir, { recursive: true });
+  }
+
+  const slug = slugify(keyword);
+  const outputPath = path.join(dataDir, `planned-topics-${slug}.json`);
+
+  let finalTopics: PlannedTopic[] = newTopics;
+  let newCount = newTopics.length;
+
+  // 检查文件是否已存在
+  if (fs.existsSync(outputPath)) {
+    try {
+      const existingData = fs.readFileSync(outputPath, 'utf8');
+      const existingTopics: PlannedTopic[] = JSON.parse(existingData);
+
+      // 合并选题，按 title 去重（保留旧的）
+      const titleSet = new Set<string>();
+      const merged: PlannedTopic[] = [];
+
+      // 先添加所有旧选题
+      for (const topic of existingTopics) {
+        merged.push(topic);
+        titleSet.add(topic.title.toLowerCase().trim());
+      }
+
+      // 再添加新选题（跳过重复的 title）
+      let duplicateCount = 0;
+      for (const topic of newTopics) {
+        const normalizedTitle = topic.title.toLowerCase().trim();
+        if (!titleSet.has(normalizedTitle)) {
+          merged.push(topic);
+          titleSet.add(normalizedTitle);
+        } else {
+          duplicateCount++;
+        }
+      }
+
+      newCount = merged.length - existingTopics.length;
+      finalTopics = merged;
+    } catch (error) {
+      console.warn('Failed to read existing file:', error);
+    }
+  }
+
+  // 写入文件
+  fs.writeFileSync(outputPath, JSON.stringify(finalTopics, null, 2), 'utf8');
+
+  return newCount;
+}
+
+/**
+ * 从 topics.json 中移除指定的 topic
+ */
+function removeTopicFromFile(topicName: string): boolean {
+  const topicsFilePath = path.join(process.cwd(), 'data', 'topics.json');
+
+  if (!fs.existsSync(topicsFilePath)) {
+    return false;
+  }
+
+  try {
+    const data = fs.readFileSync(topicsFilePath, 'utf8');
+    const topics: TopicEntry[] = JSON.parse(data);
+
+    // 过滤掉指定的 topic（不区分大小写）
+    const filtered = topics.filter(
+      (t) => t.name.toLowerCase().trim() !== topicName.toLowerCase().trim()
+    );
+
+    // 如果没有变化，说明 topic 不存在
+    if (filtered.length === topics.length) {
+      return false;
+    }
+
+    // 写回文件
+    fs.writeFileSync(topicsFilePath, JSON.stringify(filtered, null, 2), 'utf8');
+    return true;
+  } catch (error) {
+    console.error('Error removing topic from topics.json:', error);
+    return false;
+  }
+}
+
+/**
+ * POST - 为 topic 生成标题
+ */
+export async function POST(request: NextRequest) {
+  const session = await auth();
+  if (!session) {
+    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+  }
+
+  try {
+    const body = await request.json();
+    const { topicName, targetCount = 20 } = body;
+
+    if (!topicName || typeof topicName !== 'string') {
+      return NextResponse.json(
+        { error: 'Invalid request. topicName is required.' },
+        { status: 400 }
+      );
+    }
+
+    // 1. 检查必要文件
+    const indexPath = path.join(process.cwd(), 'data', 'articles-index.json');
+    const embeddingsPath = path.join(process.cwd(), 'data', 'articles-embeddings.json');
+
+    if (!fs.existsSync(indexPath)) {
+      return NextResponse.json(
+        { error: 'articles-index.json not found. Please run: npm run build:articles-index' },
+        { status: 500 }
+      );
+    }
+
+    if (!fs.existsSync(embeddingsPath)) {
+      return NextResponse.json(
+        { error: 'articles-embeddings.json not found. Please run: npm run build:embeddings' },
+        { status: 500 }
+      );
+    }
+
+    // 2. 加载已有文章数据
+    const articlesData = fs.readFileSync(indexPath, 'utf8');
+    const articles: ArticleMeta[] = JSON.parse(articlesData);
+    const existingTitles = articles.map((a) => a.title);
+
+    // 3. 生成标题
+    const result = await generateTitlesForTopic(topicName, targetCount, existingTitles);
+
+    if (result.titles.length === 0) {
+      return NextResponse.json(
+        { error: 'Failed to generate any valid titles', stats: result.stats },
+        { status: 500 }
+      );
+    }
+
+    // 4. 保存到 planned-topics-*.json
+    const savedCount = saveTopicsToFile(topicName, result.titles);
+
+    // 5. 从 topics.json 中移除
+    const removed = removeTopicFromFile(topicName);
+
+    return NextResponse.json({
+      success: true,
+      topicName,
+      generated: result.titles.length,
+      saved: savedCount,
+      removedFromQueue: removed,
+      stats: result.stats,
+    });
+  } catch (error) {
+    console.error('Generate titles error:', error);
+    return NextResponse.json(
+      { error: 'Failed to generate titles', details: error instanceof Error ? error.message : String(error) },
+      { status: 500 }
+    );
+  }
+}
