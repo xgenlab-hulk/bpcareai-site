@@ -1,5 +1,39 @@
 [
   {
+    "slug": "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart",
+    "title": "Why Sudden Weight Gain Could Be a Red Flag for Your Heart",
+    "description": "Understand how rapid weight gain may signal fluid retention and declining heart function.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "sudden weight gain and heart failure warning signs",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "sudden weight gain and heart failure warning signs",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "the-link-between-sleep-apnea-and-high-blood-pressure",
+    "title": "The Link Between Sleep Apnea and High Blood Pressure",
+    "description": "Explore how untreated sleep apnea contributes to hypertension and what treatments can help improve both conditions.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "sleep apnea and high blood pressure connection",
+      "blood pressure",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "sleep apnea and high blood pressure connection",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50"
+    ]
+  },
+  {
     "slug": "the-link-between-diabetes-and-slow-healing-in-older-adults",
     "title": "The Link Between Diabetes and Slow Healing in Older Adults",
     "description": "Find out why cuts and wounds heal slower with diabetes and how to reduce infection risks.",
@@ -28,6 +62,106 @@
     ],
     "primaryKeyword": "long-term NSAID use and heart disease risk",
     "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "meal-timing-strategies-for-better-blood-sugar-control-after-50",
+    "title": "Meal Timing Strategies for Better Blood Sugar Control After 50",
+    "description": "Optimize when you eat to align with natural insulin rhythms and medication schedules.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "meal timing for blood sugar control over 50",
+      "diabetes",
+      "diabetes-nutrition"
+    ],
+    "primaryKeyword": "meal timing for blood sugar control over 50",
+    "topicCluster": "diabetes-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "the-role-of-fiber-in-controlling-blood-sugar-after-50"
+    ]
+  },
+  {
+    "slug": "is-your-posture-affecting-your-heart-what-older-adults-should-know",
+    "title": "Is Your Posture Affecting Your Heart? What Older Adults Should Know",
+    "description": "Learn how poor posture may restrict breathing and circulation, impacting cardiovascular efficiency.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "posture and heart health in seniors",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "posture and heart health in seniors",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "is-your-medication-causing-high-blood-pressure",
+    "title": "Is Your Medication Causing High Blood Pressure?",
+    "description": "Find out which common prescription and over-the-counter drugs may elevate blood pressure and when to talk to your doctor.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "medications that raise blood pressure",
+      "blood pressure",
+      "blood-pressure-basics"
+    ],
+    "primaryKeyword": "medications that raise blood pressure",
+    "topicCluster": "blood-pressure-basics",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "how-type-2-diabetes-increases-heart-disease-risk-after-50",
+    "title": "How Type 2 Diabetes Increases Heart Disease Risk After 50",
+    "description": "Learn the connection between insulin resistance, high blood sugar, and cardiovascular damage in middle-aged and older adults.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "type 2 diabetes and heart disease risk after 50",
+      "heart disease",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "type 2 diabetes and heart disease risk after 50",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-inflammation-worsens-type-2-diabetes-after-50"
+    ]
+  },
+  {
+    "slug": "how-social-isolation-increases-heart-disease-risk-after-60",
+    "title": "How Social Isolation Increases Heart Disease Risk After 60",
+    "description": "Understand the powerful link between loneliness and increased chances of heart problems in later life.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "social isolation and heart disease risk after 60",
+      "heart health",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "social isolation and heart disease risk after 60",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "how-retirement-changes-affect-heart-health",
+    "title": "How Retirement Changes Affect Heart Health",
+    "description": "Explore how shifts in routine, activity, and purpose post-retirement influence cardiovascular wellness.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "retirement lifestyle changes and heart health",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "retirement lifestyle changes and heart health",
+    "topicCluster": "heart-health",
     "image": "",
     "relatedSlugs": []
   },
@@ -69,6 +203,25 @@
     ]
   },
   {
+    "slug": "how-menopause-affects-blood-sugar-control-in-women-with-diabetes",
+    "title": "How Menopause Affects Blood Sugar Control in Women with Diabetes",
+    "description": "Learn how hormonal shifts during and after menopause impact glucose levels and diabetes management.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "menopause and blood sugar fluctuations in women with diabetes",
+      "diabetes",
+      "diabetes-women-health"
+    ],
+    "primaryKeyword": "menopause and blood sugar fluctuations in women with diabetes",
+    "topicCluster": "diabetes-women-health",
+    "image": "",
+    "relatedSlugs": [
+      "blood-pressure-changes-during-menopause-what-women-should-know",
+      "blood-pressure-fluctuations-during-menopause-what-women-should-know"
+    ]
+  },
+  {
     "slug": "how-frequent-urination-at-night-could-signal-heart-problems",
     "title": "How Frequent Urination at Night Could Signal Heart Problems",
     "description": "Uncover the connection between nocturia and underlying heart issues like fluid retention and reduced cardiac output.",
@@ -81,6 +234,22 @@
     ],
     "primaryKeyword": "frequent urination at night and heart disease",
     "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
+    "title": "How Dehydration Affects Blood Sugar Readings in Older Diabetics",
+    "description": "Find out why staying hydrated is crucial for accurate glucose monitoring and metabolic balance.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "dehydration and blood sugar levels in seniors with diabetes",
+      "diabetes",
+      "diabetes-management"
+    ],
+    "primaryKeyword": "dehydration and blood sugar levels in seniors with diabetes",
+    "topicCluster": "diabetes-management",
     "image": "",
     "relatedSlugs": []
   },
@@ -147,6 +316,24 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": []
+  },
+  {
+    "slug": "heart-disease-and-chronic-kidney-disease-the-dangerous-connection",
+    "title": "Heart Disease and Chronic Kidney Disease: The Dangerous Connection",
+    "description": "Discover how kidney function decline increases cardiovascular risk in adults over 50.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "chronic kidney disease and heart disease link",
+      "heart disease",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "chronic kidney disease and heart disease link",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "how-type-2-diabetes-increases-heart-disease-risk-after-50"
+    ]
   },
   {
     "slug": "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s",
@@ -247,6 +434,22 @@
     ]
   },
   {
+    "slug": "can-meditation-lower-blood-pressure-naturally",
+    "title": "Can Meditation Lower Blood Pressure Naturally?",
+    "description": "Review scientific evidence on mindfulness and meditation as tools for managing hypertension without medication.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "meditation to lower blood pressure naturally",
+      "blood pressure",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "meditation to lower blood pressure naturally",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
     "slug": "can-intermittent-fasting-help-manage-type-2-diabetes-after-60",
     "title": "Can Intermittent Fasting Help Manage Type 2 Diabetes After 60?",
     "description": "Weigh the pros and cons of time-restricted eating for seniors managing blood sugar levels.",
@@ -263,6 +466,38 @@
     "relatedSlugs": []
   },
   {
+    "slug": "can-hearing-loss-be-an-early-sign-of-heart-disease",
+    "title": "Can Hearing Loss Be an Early Sign of Heart Disease?",
+    "description": "Review evidence suggesting poor circulation may affect both auditory function and heart health.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "hearing loss as early sign of heart disease",
+      "heart disease",
+      "heart-health"
+    ],
+    "primaryKeyword": "hearing loss as early sign of heart disease",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "can-cold-hands-signal-poor-circulation-or-heart-issues",
+    "title": "Can Cold Hands Signal Poor Circulation or Heart Issues?",
+    "description": "Understand when cold extremities are normal and when they might point to cardiovascular concerns.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "cold hands and poor circulation heart health",
+      "heart health",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "cold hands and poor circulation heart health",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
     "slug": "blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
     "title": "Blood Pressure Readings at Home vs. Doctor’s Office: Why They Differ",
     "description": "Understand the reasons behind inconsistent readings and how to get accurate results at home.",
@@ -275,6 +510,22 @@
     ],
     "primaryKeyword": "home blood pressure vs doctor office reading",
     "topicCluster": "blood-pressure-basics",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "best-supplements-for-blood-sugar-support-after-50",
+    "title": "Best Supplements for Blood Sugar Support After 50",
+    "description": "Review evidence-based supplements like magnesium and berberine that may aid glucose regulation.",
+    "date": "2025-11-27",
+    "updated": "2025-11-27",
+    "tags": [
+      "blood sugar supplements for adults over 50",
+      "diabetes",
+      "diabetes-nutrition"
+    ],
+    "primaryKeyword": "blood sugar supplements for adults over 50",
+    "topicCluster": "diabetes-nutrition",
     "image": "",
     "relatedSlugs": []
   },
