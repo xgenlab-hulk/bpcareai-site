@@ -14,6 +14,7 @@
     "update:links": "tsx scripts/update-internal-links.ts",
     "debug:topic-similarity": "tsx scripts/check-topic-similarity.ts",
     "generate:topics": "tsx scripts/generate-topics.ts",
+    "generate:topics:ai": "tsx scripts/generate-topics-from-prompt.ts",
     "generate:articles": "tsx scripts/generate-articles.ts",
     "auto:generate": "tsx scripts/auto-generate-daily.ts"
   },
