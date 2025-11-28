@@ -1,0 +1,50 @@
+name: Daily GSC Data Sync
+
+on:
+  # 每天 UTC 3:00 自动运行
+  schedule:
+    - cron: '0 3 * * *'
+
+  # 支持手动触发
+  workflow_dispatch:
+
+jobs:
+  sync-gsc-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Sync GSC Data
+        env:
+          GOOGLE_SEO_CLIENT_ID: ${{ secrets.GOOGLE_SEO_CLIENT_ID }}
+          GOOGLE_SEO_CLIENT_SECRET: ${{ secrets.GOOGLE_SEO_CLIENT_SECRET }}
+          GOOGLE_SEO_REFRESH_TOKEN: ${{ secrets.GOOGLE_SEO_REFRESH_TOKEN }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
+        run: npm run sync:gsc
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "GSC Sync Bot"
+          git config user.email "gsc-bot@bpcareai.com"
+          git add data/seo-metrics.json
+
+          # 只有当文件有变化时才提交
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update GSC metrics data [skip ci]"
+            git push
+          fi

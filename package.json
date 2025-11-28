@@ -16,7 +16,8 @@
     "generate:topics": "tsx scripts/generate-topics.ts",
     "generate:topics:ai": "tsx scripts/generate-topics-from-prompt.ts",
     "generate:articles": "tsx scripts/generate-articles.ts",
-    "auto:generate": "tsx scripts/auto-generate-daily.ts"
+    "auto:generate": "tsx scripts/auto-generate-daily.ts",
+    "sync:gsc": "tsx scripts/sync-gsc-data.ts"
   },
   "dependencies": {
     "@googleapis/searchconsole": "^5.0.0",
@@ -27,6 +28,7 @@
     "@vercel/speed-insights": "^1.2.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "google-auth-library": "^10.5.0",
     "googleapis": "^166.0.0",
     "gray-matter": "^4.0.3",
     "lucide-react": "^0.555.0",
