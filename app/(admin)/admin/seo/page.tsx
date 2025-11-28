@@ -12,8 +12,11 @@ import {
   Calendar,
   CheckCircle2,
   AlertCircle,
+  FileText,
+  Target,
 } from 'lucide-react';
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import fs from 'fs';
 import path from 'path';
 import type { SEOMetricsData } from '@/lib/seo/types';
@@ -119,6 +122,24 @@ export default async function SEOPage() {
           <span>
             最后更新: {new Date(lastUpdated).toLocaleString('zh-CN')}
           </span>
+        </div>
+
+        {/* 快速导航 */}
+        <div className="mt-4 flex gap-3">
+          <Link
+            href="/admin/seo/articles"
+            className="inline-flex items-center gap-2 rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-50 hover:text-blue-600"
+          >
+            <FileText className="h-4 w-4" />
+            文章级分析
+          </Link>
+          <Link
+            href="/admin/seo/topics"
+            className="inline-flex items-center gap-2 rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-50 hover:text-blue-600"
+          >
+            <Target className="h-4 w-4" />
+            Topic Cluster 策略
+          </Link>
         </div>
       </div>
 
