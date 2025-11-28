@@ -1,14 +1,20 @@
 ---
-title: "Can Drinking Too Much Water Raise Blood Pressure?"
-slug: "can-drinking-too-much-water-raise-blood-pressure"
-description: "Discover the relationship between hydration, fluid overload, and blood pressure fluctuations in middle-aged and older adults."
-date: "2025-11-26"
-updated: "2025-11-26"
-tags: ["drinking too much water and blood pressure", "blood pressure", "hypertension-lifestyle"]
-primaryKeyword: "drinking too much water and blood pressure"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: []
+title: Can Drinking Too Much Water Raise Blood Pressure?
+slug: can-drinking-too-much-water-raise-blood-pressure
+description: >-
+  Discover the relationship between hydration, fluid overload, and blood
+  pressure fluctuations in middle-aged and older adults.
+date: '2025-11-26'
+updated: '2025-11-26'
+tags:
+  - drinking too much water and blood pressure
+  - blood pressure
+  - hypertension-lifestyle
+primaryKeyword: drinking too much water and blood pressure
+topicCluster: hypertension-lifestyle
+image: ''
+relatedSlugs:
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
 ---
 
 # Can Drinking Too Much Water Affect Your Blood Pressure?

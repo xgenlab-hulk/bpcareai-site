@@ -1,5 +1,265 @@
 [
   {
+    "slug": "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+    "title": "Winter vs. Summer Blood Pressure: What Seniors Need to Know",
+    "description": "Compares seasonal blood pressure fluctuations and explains why winter often leads to higher readings in older adults.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "winter vs summer blood pressure",
+      "winter heart health for seniors",
+      "monitoring-testing"
+    ],
+    "primaryKeyword": "winter vs summer blood pressure",
+    "topicCluster": "monitoring-testing",
+    "image": "",
+    "relatedSlugs": [
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults",
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"
+    ]
+  },
+  {
+    "slug": "why-winter-increases-heart-attack-risk-in-seniors-over-70",
+    "title": "Why Winter Increases Heart Attack Risk in Seniors Over 70",
+    "description": "Explores the physiological reasons cold weather raises heart attack risk, especially in older adults with preexisting conditions.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "winter heart attack risk seniors",
+      "winter heart health for seniors",
+      "seasonal-risk-factors"
+    ],
+    "primaryKeyword": "winter heart attack risk seniors",
+    "topicCluster": "seasonal-risk-factors",
+    "image": "",
+    "relatedSlugs": [
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults"
+    ]
+  },
+  {
+    "slug": "understanding-a1c-goals-for-seniors-with-diabetes",
+    "title": "Understanding A1C Goals for Seniors with Diabetes",
+    "description": "Learn how target HbA1c levels may differ for older adults based on overall health and comorbidities.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "A1C targets for elderly with diabetes",
+      "diabetes",
+      "diabetes-management"
+    ],
+    "primaryKeyword": "A1C targets for elderly with diabetes",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors",
+    "title": "The Truth About Artificial Sweeteners and Insulin Response in Seniors",
+    "description": "Evaluate whether sugar substitutes really help—or harm—blood sugar control in aging adults.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "artificial sweeteners and insulin response in elderly diabetics",
+      "diabetes",
+      "diabetes-nutrition"
+    ],
+    "primaryKeyword": "artificial sweeteners and insulin response in elderly diabetics",
+    "topicCluster": "diabetes-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65"
+    ]
+  },
+  {
+    "slug": "the-role-of-potassium-in-managing-blood-pressure-after-50",
+    "title": "The Role of Potassium in Managing Blood Pressure After 50",
+    "description": "Learn how increasing potassium-rich foods can help balance sodium and support healthy blood pressure levels.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "potassium and blood pressure management over 50",
+      "blood pressure",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "potassium and blood pressure management over 50",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "the-connection-between-frequent-urination-at-night-and-heart-health",
+    "title": "The Connection Between Frequent Urination at Night and Heart Health",
+    "description": "Discover how nocturia may be linked to heart failure or circulatory issues in older adults.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "frequent urination at night and heart problems",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "frequent urination at night and heart problems",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": [
+      "how-frequent-urination-at-night-could-signal-heart-problems"
+    ]
+  },
+  {
+    "slug": "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70",
+    "title": "Simple Steps to Stay Hydrated During Winter Holidays When You’re Over 70",
+    "description": "Combat dehydration risks during colder months with practical hydration tips, including non-caffeinated fluids and moisture-rich foods.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "staying hydrated in winter for seniors",
+      "healthy holiday eating for seniors",
+      "hydration-nutrition"
+    ],
+    "primaryKeyword": "staying hydrated in winter for seniors",
+    "topicCluster": "hydration-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"
+    ]
+  },
+  {
+    "slug": "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+    "title": "Quick 15-Minute Post-Meal Walks: How They Help Seniors Digest Holiday Food",
+    "description": "Simple physical activity advice to improve glucose metabolism and digestion after large meals, backed by research in aging populations.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "post-meal walks for seniors holiday",
+      "healthy holiday eating for seniors",
+      "exercise-physical-activity"
+    ],
+    "primaryKeyword": "post-meal walks for seniors holiday",
+    "topicCluster": "exercise-physical-activity",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "how-vision-changes-might-be-linked-to-heart-disease",
+    "title": "How Vision Changes Might Be Linked to Heart Disease",
+    "description": "Discover how retinal blood vessel damage can reflect broader cardiovascular health issues.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "vision changes and heart disease connection",
+      "heart disease",
+      "heart-health"
+    ],
+    "primaryKeyword": "vision changes and heart disease connection",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": [
+      "diabetes-and-vision-changes-what-seniors-need-to-know"
+    ]
+  },
+  {
+    "slug": "how-pets-support-heart-health-in-older-adults",
+    "title": "How Pets Support Heart Health in Older Adults",
+    "description": "Learn how owning a pet can lower blood pressure, reduce loneliness, and improve cardiovascular outcomes.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "pets and heart health in seniors",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "pets and heart health in seniors",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "does-laughter-really-protect-your-heart-after-50",
+    "title": "Does Laughter Really Protect Your Heart After 50?",
+    "description": "Find out how laughter and positive emotions may reduce stress hormones and benefit heart function.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "laughter and heart health benefits after 50",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "laughter and heart health benefits after 50",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure",
+    "title": "Can You Enjoy Thanksgiving If You Have High Blood Pressure?",
+    "description": "Answers whether sodium-heavy holiday meals are safe for hypertensive individuals and how to modify portions and ingredients accordingly.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "thanksgiving with high blood pressure",
+      "healthy eating during family gatherings",
+      "cardiac-diet"
+    ],
+    "primaryKeyword": "thanksgiving with high blood pressure",
+    "topicCluster": "cardiac-diet",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
+    "title": "Can Hydration Prevent Winter Blood Pressure Spikes After Age 70?",
+    "description": "Explains why seniors are prone to dehydration in winter and how maintaining fluid balance helps control hypertension.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "hydration and winter blood pressure",
+      "senior blood pressure control in winter",
+      "preventive-strategies"
+    ],
+    "primaryKeyword": "hydration and winter blood pressure",
+    "topicCluster": "preventive-strategies",
+    "image": "",
+    "relatedSlugs": [
+      "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70",
+      "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
+      "can-drinking-too-much-water-raise-blood-pressure",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know"
+    ]
+  },
+  {
+    "slug": "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+    "title": "Are Sugar-Free Treats Actually Safe for Diabetics Over 65?",
+    "description": "Analyze the pros and cons of artificial sweeteners in holiday foods for older adults managing blood sugar.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "sugar-free treats safety for seniors",
+      "holiday diabetes management",
+      "diet-nutrition-myths"
+    ],
+    "primaryKeyword": "sugar-free treats safety for seniors",
+    "topicCluster": "diet-nutrition-myths",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors"
+    ]
+  },
+  {
+    "slug": "a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households",
+    "title": "A Guide to Allergen-Friendly Family Meals for Mixed-Diet Households",
+    "description": "Helps hosts accommodate guests with allergies or intolerances while still maintaining a cohesive, enjoyable meal experience.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "allergen-friendly family gatherings",
+      "healthy eating during family gatherings",
+      "inclusive-dining"
+    ],
+    "primaryKeyword": "allergen-friendly family gatherings",
+    "topicCluster": "inclusive-dining",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
     "slug": "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart",
     "title": "Why Sudden Weight Gain Could Be a Red Flag for Your Heart",
     "description": "Understand how rapid weight gain may signal fluid retention and declining heart function.",
@@ -235,7 +495,9 @@
     "primaryKeyword": "frequent urination at night and heart disease",
     "topicCluster": "heart-health",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "the-connection-between-frequent-urination-at-night-and-heart-health"
+    ]
   },
   {
     "slug": "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
@@ -251,7 +513,9 @@
     "primaryKeyword": "dehydration and blood sugar levels in seniors with diabetes",
     "topicCluster": "diabetes-management",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"
+    ]
   },
   {
     "slug": "how-cold-weather-affects-blood-sugar-in-people-with-diabetes",
@@ -381,7 +645,9 @@
     "primaryKeyword": "diabetes-related vision changes in seniors",
     "topicCluster": "diabetes-complications",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-vision-changes-might-be-linked-to-heart-disease"
+    ]
   },
   {
     "slug": "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease",
@@ -697,7 +963,10 @@
     "primaryKeyword": "cold weather effect on blood pressure elderly",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "why-winter-increases-heart-attack-risk-in-seniors-over-70",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know"
+    ]
   },
   {
     "slug": "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
@@ -747,7 +1016,9 @@
     "primaryKeyword": "drinking too much water and blood pressure",
     "topicCluster": "hypertension-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"
+    ]
   },
   {
     "slug": "blood-pressure-fluctuations-during-menopause-what-women-should-know",

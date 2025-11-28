@@ -1,14 +1,20 @@
 ---
-title: "Diabetes and Vision Changes: What Seniors Need to Know"
-slug: "diabetes-and-vision-changes-what-seniors-need-to-know"
-description: "Understand the connection between high blood sugar and age-related vision problems like diabetic retinopathy."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["diabetes-related vision changes in seniors", "diabetes", "diabetes-complications"]
-primaryKeyword: "diabetes-related vision changes in seniors"
-topicCluster: "diabetes-complications"
-image: ""
-relatedSlugs: []
+title: 'Diabetes and Vision Changes: What Seniors Need to Know'
+slug: diabetes-and-vision-changes-what-seniors-need-to-know
+description: >-
+  Understand the connection between high blood sugar and age-related vision
+  problems like diabetic retinopathy.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - diabetes-related vision changes in seniors
+  - diabetes
+  - diabetes-complications
+primaryKeyword: diabetes-related vision changes in seniors
+topicCluster: diabetes-complications
+image: ''
+relatedSlugs:
+  - how-vision-changes-might-be-linked-to-heart-disease
 ---
 
 # Understanding Diabetes-Related Vision Changes in Seniors
