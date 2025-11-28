@@ -110,16 +110,6 @@ export default async function AdminDashboardPage() {
           </a>
 
           <a
-            href="/admin/tasks"
-            className="block rounded-lg border-2 border-dashed border-gray-300 p-6 hover:border-blue-500 transition-colors"
-          >
-            <h3 className="font-medium text-gray-900">Task Schedules</h3>
-            <p className="mt-1 text-sm text-gray-500">
-              Configure automated tasks
-            </p>
-          </a>
-
-          <a
             href="/admin/seo"
             className="block rounded-lg border-2 border-dashed border-gray-300 p-6 hover:border-blue-500 transition-colors"
           >

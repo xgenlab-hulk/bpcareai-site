@@ -11,7 +11,6 @@ import {
   LayoutDashboard,
   FileText,
   Tag,
-  Calendar,
   BarChart3,
   Settings,
   LogOut,
@@ -39,11 +38,6 @@ const navigationItems = [
     name: 'Topics',
     href: '/admin/topics',
     icon: Tag,
-  },
-  {
-    name: 'Tasks',
-    href: '/admin/tasks',
-    icon: Calendar,
   },
   {
     name: 'SEO Analytics',
