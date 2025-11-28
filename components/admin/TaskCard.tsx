@@ -12,8 +12,6 @@ import {
   Clock,
   Settings,
   History,
-  FileText,
-  ExternalLink,
 } from 'lucide-react';
 
 interface TaskCardProps {
@@ -177,15 +175,6 @@ export function TaskCard({
           <History className="h-4 w-4" />
           View History
         </Link>
-        <a
-          href={`https://github.com/${process.env.NEXT_PUBLIC_GITHUB_REPO || 'your-org/your-repo'}/blob/main/${workflowFile}`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center justify-center gap-2 rounded-lg border border-gray-300 px-3 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50"
-        >
-          <FileText className="h-4 w-4" />
-          <ExternalLink className="h-3 w-3" />
-        </a>
       </div>
 
       {/* Stats Footer */}
