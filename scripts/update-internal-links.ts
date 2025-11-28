@@ -19,7 +19,103 @@
  */
 
 import 'dotenv/config';
+import fs from 'fs';
+import path from 'path';
 import { batchUpdateRelatedLinks } from '../lib/embeddings/internal-linking';
+
+/**
+ * Internal Linking 任务历史记录
+ */
+interface InternalLinkingHistoryRecord {
+  id: string;
+  taskType: 'internal-linking';
+  timestamp: string;
+  durationMinutes: number;
+  articlesProcessed: number;
+  linksUpdated: number;
+  success: boolean;
+}
+
+/**
+ * 保存任务执行历史记录
+ */
+function saveTaskHistory(
+  articlesProcessed: number,
+  linksUpdated: number,
+  durationMinutes: number,
+  success: boolean
+): void {
+  const dataDir = path.join(process.cwd(), 'data');
+  const historyPath = path.join(dataDir, 'task-history.json');
+
+  // 创建历史记录对象
+  const record: InternalLinkingHistoryRecord = {
+    id: Date.now().toString(),
+    taskType: 'internal-linking',
+    timestamp: new Date().toISOString(),
+    durationMinutes,
+    articlesProcessed,
+    linksUpdated,
+    success,
+  };
+
+  // 读取现有历史记录
+  let history: any[] = [];
+  if (fs.existsSync(historyPath)) {
+    try {
+      const content = fs.readFileSync(historyPath, 'utf8');
+      history = JSON.parse(content);
+    } catch (error) {
+      console.warn('⚠️  Failed to read task history, starting fresh:', error);
+      history = [];
+    }
+  }
+
+  // 添加新记录（插入到开头）
+  history.unshift(record);
+
+  // 保留最近 100 条记录
+  if (history.length > 100) {
+    history = history.slice(0, 100);
+  }
+
+  // 写入文件
+  try {
+    fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf8');
+    console.log(`📝 Task history saved (${history.length} records total)\n`);
+  } catch (error) {
+    console.error('❌ Failed to save task history:', error);
+  }
+}
+
+/**
+ * 加载任务配置
+ */
+function loadTaskConfig() {
+  const configPath = path.join(process.cwd(), 'data', 'task-config.json');
+
+  if (!fs.existsSync(configPath)) {
+    console.warn('⚠️  task-config.json not found, using default values');
+    return {
+      minSimilarity: 0.6,
+      topK: 3,
+      preserveExisting: false,
+    };
+  }
+
+  try {
+    const content = fs.readFileSync(configPath, 'utf8');
+    const config = JSON.parse(content);
+    return config.internalLinking.config;
+  } catch (error) {
+    console.warn('⚠️  Failed to load task-config.json, using default values');
+    return {
+      minSimilarity: 0.6,
+      topK: 3,
+      preserveExisting: false,
+    };
+  }
+}
 
 async function main() {
   console.log('╔═══════════════════════════════════════════════════════╗');
@@ -32,11 +128,12 @@ async function main() {
   console.log('   3. Update relatedSlugs in all markdown files');
   console.log('   4. ✅ No API calls - No token consumption\n');
 
+  const startTime = Date.now();
+  let success = false;
+
   try {
-    // 配置参数
-    const minSimilarity = 0.6;       // 最低相似度阈值
-    const topK = 3;                   // 每篇文章推荐 3 篇相关文章
-    const preserveExisting = false;   // 完全覆盖旧链接（改为 true 可保留手动添加的链接）
+    // 从配置文件加载参数
+    const { minSimilarity, topK, preserveExisting } = loadTaskConfig();
 
     console.log('⚙️  Configuration:');
     console.log(`   Min Similarity Threshold: ${minSimilarity}`);
@@ -58,9 +155,23 @@ async function main() {
     }
 
     // 执行批量更新（复用现有函数）
-    batchUpdateRelatedLinks(null, minSimilarity, topK, preserveExisting);
+    const result = batchUpdateRelatedLinks(null, minSimilarity, topK, preserveExisting);
 
     console.log('🎉 Weekly internal linking update completed!\n');
+
+    // 计算执行时长
+    const endTime = Date.now();
+    const durationMinutes = (endTime - startTime) / 1000 / 60;
+
+    // 保存任务历史
+    saveTaskHistory(
+      result.articlesProcessed,
+      result.linksUpdated,
+      durationMinutes,
+      true
+    );
+
+    success = true;
 
     // 下一步提示
     console.log('📝 Next steps:');
@@ -82,6 +193,12 @@ async function main() {
     console.error('   - Run "npm run build:embeddings" if embeddings are missing');
     console.error('   - Check that content/articles/*.md files are accessible');
     console.error('   - Verify file permissions\n');
+
+    // 保存失败记录
+    const endTime = Date.now();
+    const durationMinutes = (endTime - startTime) / 1000 / 60;
+    saveTaskHistory(0, 0, durationMinutes, false);
+
     process.exit(1);
   }
 }

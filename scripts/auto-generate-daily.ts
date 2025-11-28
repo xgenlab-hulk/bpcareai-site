@@ -59,6 +59,15 @@ interface GenerationResult {
 }
 
 /**
+ * 任务历史记录
+ */
+interface TaskHistoryRecord extends GenerationResult {
+  id: string;
+  timestamp: string;
+  durationMinutes: number;
+}
+
+/**
  * 加载配置文件
  */
 function loadConfig(): AutomationConfig {
@@ -358,6 +367,50 @@ function rebuildArticlesIndex(): void {
 }
 
 /**
+ * 保存任务执行历史记录
+ */
+function saveTaskHistory(result: GenerationResult, durationMinutes: number): void {
+  const dataDir = path.join(process.cwd(), 'data');
+  const historyPath = path.join(dataDir, 'task-history.json');
+
+  // 创建历史记录对象
+  const record: TaskHistoryRecord = {
+    id: Date.now().toString(),
+    timestamp: new Date().toISOString(),
+    durationMinutes,
+    ...result,
+  };
+
+  // 读取现有历史记录
+  let history: TaskHistoryRecord[] = [];
+  if (fs.existsSync(historyPath)) {
+    try {
+      const content = fs.readFileSync(historyPath, 'utf8');
+      history = JSON.parse(content);
+    } catch (error) {
+      console.warn('⚠️  Failed to read task history, starting fresh:', error);
+      history = [];
+    }
+  }
+
+  // 添加新记录（插入到开头）
+  history.unshift(record);
+
+  // 保留最近 100 条记录
+  if (history.length > 100) {
+    history = history.slice(0, 100);
+  }
+
+  // 写入文件
+  try {
+    fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf8');
+    console.log(`📝 Task history saved (${history.length} records total)\n`);
+  } catch (error) {
+    console.error('❌ Failed to save task history:', error);
+  }
+}
+
+/**
  * 主函数
  */
 async function main(): Promise<GenerationResult> {
@@ -414,7 +467,8 @@ async function main(): Promise<GenerationResult> {
 
   // 9. 统计结果
   const endTime = Date.now();
-  const durationMin = ((endTime - startTime) / 1000 / 60).toFixed(1);
+  const durationMinutes = (endTime - startTime) / 1000 / 60;
+  const durationMin = durationMinutes.toFixed(1);
 
   console.log('\n╔════════════════════════════════════════════════════════╗');
   console.log('║        Daily Generation Summary                       ║');
@@ -440,6 +494,9 @@ async function main(): Promise<GenerationResult> {
     topicsReplenished,
     success: success === articlesCount && failed === 0,
   };
+
+  // 10. 保存任务历史记录
+  saveTaskHistory(result, durationMinutes);
 
   console.log('═'.repeat(60));
   console.log(result.success ? '✨ Daily generation completed successfully!' : '⚠️  Daily generation completed with issues');

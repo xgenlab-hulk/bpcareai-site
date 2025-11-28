@@ -1,0 +1,31 @@
+{
+  "articleGeneration": {
+    "enabled": true,
+    "description": "Daily article generation task using AI",
+    "schedule": {
+      "cron": "0 2 * * *",
+      "timezone": "UTC",
+      "description": "Runs daily at 02:00 UTC (10:00 Beijing Time)"
+    },
+    "configFile": "automation-config.json"
+  },
+  "internalLinking": {
+    "enabled": true,
+    "description": "Weekly internal linking optimization (zero token cost)",
+    "schedule": {
+      "cron": "0 2 * * 1",
+      "timezone": "UTC",
+      "description": "Runs every Monday at 02:00 UTC (10:00 Beijing Time)"
+    },
+    "config": {
+      "minSimilarity": 0.6,
+      "topK": 3,
+      "preserveExisting": false
+    }
+  },
+  "_comments": {
+    "articleGeneration": "Configuration for article generation is in automation-config.json. This file only stores schedule metadata.",
+    "internalLinking": "Configuration for internal linking is stored here. The script reads these values.",
+    "schedule": "Schedule times are controlled by GitHub Actions (.github/workflows/*.yml). Changes here are for reference only."
+  }
+}

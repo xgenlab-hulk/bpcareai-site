@@ -135,19 +135,29 @@ export function updateArticleFrontmatter(
 }
 
 /**
+ * 批量更新结果统计
+ */
+export interface BatchUpdateResult {
+  articlesProcessed: number;
+  linksUpdated: number;
+  skipped: number;
+}
+
+/**
  * 批量为多个文章计算并更新 relatedSlugs
  *
  * @param slugs 要更新的文章 slug 列表（如果为空，则更新所有文章）
  * @param minSimilarity 最低相似度阈值
  * @param topK 每篇文章最多推荐几篇相关文章
  * @param preserveExisting 是否保留现有的 relatedSlugs
+ * @returns 更新统计结果
  */
 export function batchUpdateRelatedLinks(
   slugs: string[] | null = null,
   minSimilarity: number = 0.6,
   topK: number = 3,
   preserveExisting: boolean = true
-): void {
+): BatchUpdateResult {
   console.log('\n🔗 Starting batch update of related links...\n');
 
   // 1. 加载所有 embeddings
@@ -199,4 +209,10 @@ export function batchUpdateRelatedLinks(
   console.log(`⚠️  Skipped (no matches): ${skippedCount} articles`);
   console.log(`📝 Total processed: ${targetSlugs.length} articles`);
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
+
+  return {
+    articlesProcessed: targetSlugs.length,
+    linksUpdated: successCount * topK,
+    skipped: skippedCount,
+  };
 }
