@@ -11,8 +11,10 @@ interface StatsCardProps {
   icon?: LucideIcon;
   trend?: {
     value: number;
-    isPositive: boolean;
+    isPositive?: boolean; // 兼容旧API
+    direction?: 'up' | 'down'; // 新API
   };
+  description?: string;
   className?: string;
 }
 
@@ -21,8 +23,14 @@ export function StatsCard({
   value,
   icon: Icon,
   trend,
+  description,
   className,
 }: StatsCardProps) {
+  // 判断趋势方向（兼容旧API和新API）
+  const isPositive = trend
+    ? trend.direction === 'up' || trend.isPositive === true
+    : false;
+
   return (
     <div className={cn('rounded-lg bg-white p-6 shadow', className)}>
       <div className="flex items-center justify-between">
@@ -35,13 +43,17 @@ export function StatsCard({
               <span
                 className={cn(
                   'font-medium',
-                  trend.isPositive ? 'text-green-600' : 'text-red-600'
+                  isPositive ? 'text-green-600' : 'text-red-600'
                 )}
               >
-                {trend.isPositive ? '↑' : '↓'} {Math.abs(trend.value)}%
+                {isPositive ? '↑' : '↓'} {Math.abs(trend.value).toFixed(1)}%
               </span>
               <span className="ml-2 text-gray-500">vs last period</span>
             </div>
+          )}
+
+          {description && !trend && (
+            <p className="mt-2 text-xs text-gray-500">{description}</p>
           )}
         </div>
 
