@@ -18,11 +18,11 @@ export interface GSCQuery {
  * GSC API 返回的单行数据
  */
 export interface GSCRow {
-  keys?: string[]; // [page_url, query, date] 根据 dimensions
-  clicks: number;
-  impressions: number;
-  ctr: number;
-  position: number;
+  keys?: string[] | null; // [page_url, query, date] 根据 dimensions
+  clicks?: number | null;
+  impressions?: number | null;
+  ctr?: number | null;
+  position?: number | null;
 }
 
 /**
@@ -30,7 +30,7 @@ export interface GSCRow {
  */
 export interface GSCResponse {
   rows?: GSCRow[];
-  responseAggregationType?: string;
+  responseAggregationType?: string | null;
 }
 
 /**

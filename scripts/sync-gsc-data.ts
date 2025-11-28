@@ -55,13 +55,15 @@ async function main() {
     console.log(`   ✅ Fetched ${websiteData.length} days of data\n`);
 
     // 5. 转换数据格式
-    const dailyMetrics: DailyMetrics[] = websiteData.map((row) => ({
-      date: row.keys![0],
-      clicks: row.clicks,
-      impressions: row.impressions,
-      ctr: row.ctr,
-      position: row.position,
-    }));
+    const dailyMetrics: DailyMetrics[] = websiteData
+      .filter((row) => row.keys && row.keys.length > 0)
+      .map((row) => ({
+        date: row.keys![0],
+        clicks: row.clicks ?? 0,
+        impressions: row.impressions ?? 0,
+        ctr: row.ctr ?? 0,
+        position: row.position ?? 0,
+      }));
 
     // 6. 计算汇总数据
     const calculateSummary = (days: number) => {
