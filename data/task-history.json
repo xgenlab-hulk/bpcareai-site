@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "1764303515360",
+    "timestamp": "2025-11-28T04:18:35.360Z",
+    "durationMinutes": 2.0763666666666665,
+    "daysSinceStart": 1,
+    "stage": "Manual override",
+    "targetArticles": 3,
+    "articlesGenerated": 3,
+    "articlesFailed": 0,
+    "topicsInventoryBefore": 279,
+    "topicsInventoryAfter": 279,
+    "topicsReplenished": 0,
+    "success": true
+  }
+]

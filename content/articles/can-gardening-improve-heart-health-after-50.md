@@ -15,6 +15,7 @@ topicCluster: heart-health
 image: ''
 relatedSlugs:
   - can-meditation-reduce-heart-disease-risk-after-50
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
 ---
 
 # How Gardening and Heart Health After 50 Go Hand in Hand

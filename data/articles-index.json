@@ -15,7 +15,8 @@
     "image": "",
     "relatedSlugs": [
       "how-does-cold-weather-affect-blood-pressure-in-older-adults",
-      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
+      "should-you-adjust-your-blood-pressure-goals-in-winter"
     ]
   },
   {
@@ -87,6 +88,24 @@
     "relatedSlugs": []
   },
   {
+    "slug": "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50",
+    "title": "The Role of Magnesium in Maintaining a Healthy Heart After 50",
+    "description": "Learn how magnesium supports heart rhythm, blood pressure, and overall cardiovascular function in older adults.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "magnesium benefits for heart health over 50",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "magnesium benefits for heart health over 50",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": [
+      "can-gardening-improve-heart-health-after-50"
+    ]
+  },
+  {
     "slug": "the-connection-between-frequent-urination-at-night-and-heart-health",
     "title": "The Connection Between Frequent Urination at Night and Heart Health",
     "description": "Discover how nocturia may be linked to heart failure or circulatory issues in older adults.",
@@ -120,6 +139,24 @@
     "image": "",
     "relatedSlugs": [
       "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"
+    ]
+  },
+  {
+    "slug": "should-you-adjust-your-blood-pressure-goals-in-winter",
+    "title": "Should You Adjust Your Blood Pressure Goals in Winter?",
+    "description": "Discusses whether seasonal variations warrant temporary changes in target blood pressure readings for older patients.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "seasonal blood pressure goals",
+      "senior blood pressure control in winter",
+      "treatment-options"
+    ],
+    "primaryKeyword": "seasonal blood pressure goals",
+    "topicCluster": "treatment-options",
+    "image": "",
+    "relatedSlugs": [
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know"
     ]
   },
   {
@@ -168,6 +205,22 @@
       "heart-health"
     ],
     "primaryKeyword": "pets and heart health in seniors",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "heart-disease-warning-signs-that-appear-years-in-advance",
+    "title": "Heart Disease Warning Signs That Appear Years in Advance",
+    "description": "Identify subtle early indicators—like fatigue, swelling, or shortness of breath—that may signal future heart issues.",
+    "date": "2025-11-28",
+    "updated": "2025-11-28",
+    "tags": [
+      "early warning signs of heart disease years in advance",
+      "heart disease",
+      "heart-health"
+    ],
+    "primaryKeyword": "early warning signs of heart disease years in advance",
     "topicCluster": "heart-health",
     "image": "",
     "relatedSlugs": []
@@ -999,7 +1052,8 @@
     "topicCluster": "heart-health",
     "image": "",
     "relatedSlugs": [
-      "can-meditation-reduce-heart-disease-risk-after-50"
+      "can-meditation-reduce-heart-disease-risk-after-50",
+      "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50"
     ]
   },
   {
