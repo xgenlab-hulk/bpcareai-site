@@ -1,14 +1,24 @@
 ---
-title: "The Link Between Diabetes and Slow Healing in Older Adults"
-slug: "the-link-between-diabetes-and-slow-healing-in-older-adults"
-description: "Find out why cuts and wounds heal slower with diabetes and how to reduce infection risks."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["diabetes and slow wound healing in elderly", "diabetes", "diabetes-complications"]
-primaryKeyword: "diabetes and slow wound healing in elderly"
-topicCluster: "diabetes-complications"
-image: ""
-relatedSlugs: []
+title: The Link Between Diabetes and Slow Healing in Older Adults
+slug: the-link-between-diabetes-and-slow-healing-in-older-adults
+description: >-
+  Find out why cuts and wounds heal slower with diabetes and how to reduce
+  infection risks.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - diabetes and slow wound healing in elderly
+  - diabetes
+  - diabetes-complications
+primaryKeyword: diabetes and slow wound healing in elderly
+topicCluster: diabetes-complications
+image: ''
+relatedSlugs:
+  - diabetes-and-vision-changes-what-seniors-need-to-know
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
+  - understanding-a1c-goals-for-seniors-with-diabetes
+  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
 ---
 
 # Understanding Diabetes and Slow Wound Healing in Elderly Adults

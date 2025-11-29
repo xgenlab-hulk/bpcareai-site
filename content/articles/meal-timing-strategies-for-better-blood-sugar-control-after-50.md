@@ -1,14 +1,22 @@
 ---
-title: "Meal Timing Strategies for Better Blood Sugar Control After 50"
-slug: "meal-timing-strategies-for-better-blood-sugar-control-after-50"
-description: "Optimize when you eat to align with natural insulin rhythms and medication schedules."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["meal timing for blood sugar control over 50", "diabetes", "diabetes-nutrition"]
-primaryKeyword: "meal timing for blood sugar control over 50"
-topicCluster: "diabetes-nutrition"
-image: ""
-relatedSlugs: ["the-role-of-fiber-in-controlling-blood-sugar-after-50"]
+title: Meal Timing Strategies for Better Blood Sugar Control After 50
+slug: meal-timing-strategies-for-better-blood-sugar-control-after-50
+description: >-
+  Optimize when you eat to align with natural insulin rhythms and medication
+  schedules.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - meal timing for blood sugar control over 50
+  - diabetes
+  - diabetes-nutrition
+primaryKeyword: meal timing for blood sugar control over 50
+topicCluster: diabetes-nutrition
+image: ''
+relatedSlugs:
+  - the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - best-supplements-for-blood-sugar-support-after-50
+  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
 ---
 
 # Meal Timing for Blood Sugar Control Over 50: A Simple Guide to Smarter Eating

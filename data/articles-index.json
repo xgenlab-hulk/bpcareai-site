@@ -13,7 +13,13 @@
     "primaryKeyword": "high fasting blood sugar holidays",
     "topicCluster": "causes-risk-factors",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-cold-weather-affects-blood-sugar-in-people-with-diabetes",
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "how-menopause-affects-blood-sugar-control-in-women-with-diabetes",
+      "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar",
+      "why-older-women-gain-weight-faster-during-the-holidays-after-menopause"
+    ]
   },
   {
     "slug": "why-older-women-gain-weight-faster-during-the-holidays-after-menopause",
@@ -29,7 +35,11 @@
     "primaryKeyword": "menopause holiday weight gain women",
     "topicCluster": "gender-specific-concerns",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-menopause-affects-blood-sugar-control-in-women-with-diabetes",
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+      "how-menopause-affects-heart-disease-risk-in-women"
+    ]
   },
   {
     "slug": "why-blood-pressure-matters-even-if-you-feel-fine",
@@ -45,7 +55,13 @@
     "primaryKeyword": "high blood pressure with no symptoms danger",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "recognizing-silent-heart-attacks-in-diabetics-over-60",
+      "how-standing-up-too-fast-affects-blood-pressure-in-older-adults",
+      "the-link-between-sleep-apnea-and-high-blood-pressure"
+    ]
   },
   {
     "slug": "is-sitting-too-much-harming-your-heart-after-60",
@@ -62,7 +78,11 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": [
-      "how-social-isolation-increases-heart-disease-risk-after-60"
+      "how-social-isolation-increases-heart-disease-risk-after-60",
+      "can-strength-training-lower-heart-disease-risk-after-60",
+      "how-retirement-changes-affect-heart-health",
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "how-menopause-affects-heart-disease-risk-in-women"
     ]
   },
   {
@@ -79,7 +99,11 @@
     "primaryKeyword": "safe alcohol holiday heart",
     "topicCluster": "prevention-strategies",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults",
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar"
+    ]
   },
   {
     "slug": "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar",
@@ -95,7 +119,12 @@
     "primaryKeyword": "mindful eating at holiday buffets",
     "topicCluster": "behavioral-strategies",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
+      "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure"
+    ]
   },
   {
     "slug": "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
@@ -113,7 +142,10 @@
     "image": "",
     "relatedSlugs": [
       "how-social-isolation-increases-heart-disease-risk-after-60",
-      "how-pets-support-heart-health-in-older-adults"
+      "how-pets-support-heart-health-in-older-adults",
+      "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease",
+      "how-chronic-stress-contributes-to-high-blood-pressure-over-time",
+      "the-hidden-link-between-gum-disease-and-heart-problems"
     ]
   },
   {
@@ -130,7 +162,13 @@
     "primaryKeyword": "deep breathing exercises for heart health",
     "topicCluster": "hypertension-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-strength-training-lower-heart-disease-risk-after-60",
+      "heart-rate-variability-explained",
+      "can-meditation-reduce-heart-disease-risk-after-50",
+      "can-meditation-lower-blood-pressure-naturally",
+      "how-walking-speed-can-reflect-heart-health-and-blood-pressure"
+    ]
   },
   {
     "slug": "can-cold-weather-raise-your-blood-pressure",
@@ -166,7 +204,11 @@
     "primaryKeyword": "binge drinking atrial fibrillation",
     "topicCluster": "risk-factors",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
+      "heart-disease-in-hispanic-adults-over-50-unique-risk-factors",
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"
+    ]
   },
   {
     "slug": "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
@@ -202,7 +244,11 @@
     "primaryKeyword": "heart-healthy winter soups",
     "topicCluster": "cardiac-diet",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "why-winter-increases-heart-attack-risk-in-seniors-over-70",
+      "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70",
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"
+    ]
   },
   {
     "slug": "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
@@ -218,7 +264,11 @@
     "primaryKeyword": "high-fiber family side dishes",
     "topicCluster": "nutritious-recipes",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "the-role-of-fiber-in-controlling-blood-sugar-after-50",
+      "a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households",
+      "best-fruits-for-diabetics-over-50-and-which-to-limit"
+    ]
   },
   {
     "slug": "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
@@ -296,7 +346,11 @@
     "topicCluster": "seasonal-risk-factors",
     "image": "",
     "relatedSlugs": [
-      "how-does-cold-weather-affect-blood-pressure-in-older-adults"
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
+      "how-cold-weather-affects-blood-sugar-in-people-with-diabetes"
     ]
   },
   {
@@ -313,7 +367,13 @@
     "primaryKeyword": "A1C targets for elderly with diabetes",
     "topicCluster": "diabetes-management",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
+      "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s",
+      "diabetes-and-vision-changes-what-seniors-need-to-know",
+      "the-link-between-diabetes-and-slow-healing-in-older-adults",
+      "should-you-adjust-your-blood-pressure-goals-in-winter"
+    ]
   },
   {
     "slug": "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors",
@@ -330,7 +390,10 @@
     "topicCluster": "diabetes-nutrition",
     "image": "",
     "relatedSlugs": [
-      "are-sugar-free-treats-actually-safe-for-diabetics-over-65"
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s",
+      "best-supplements-for-blood-sugar-support-after-50",
+      "the-role-of-fiber-in-controlling-blood-sugar-after-50"
     ]
   },
   {
@@ -347,7 +410,11 @@
     "primaryKeyword": "potassium and blood pressure management over 50",
     "topicCluster": "hypertension-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "does-caffeine-raise-blood-pressure-after-age-60",
+      "blood-pressure-changes-during-menopause-what-women-should-know"
+    ]
   },
   {
     "slug": "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50",
@@ -364,7 +431,10 @@
     "topicCluster": "heart-health",
     "image": "",
     "relatedSlugs": [
-      "can-gardening-improve-heart-health-after-50"
+      "can-gardening-improve-heart-health-after-50",
+      "how-sleep-affects-heart-health-after-50",
+      "how-pets-support-heart-health-in-older-adults",
+      "does-laughter-really-protect-your-heart-after-50"
     ]
   },
   {
@@ -382,7 +452,11 @@
     "topicCluster": "heart-health",
     "image": "",
     "relatedSlugs": [
-      "how-frequent-urination-at-night-could-signal-heart-problems"
+      "how-frequent-urination-at-night-could-signal-heart-problems",
+      "how-sleep-affects-heart-health-after-50",
+      "is-your-posture-affecting-your-heart-what-older-adults-should-know",
+      "can-hearing-loss-be-an-early-sign-of-heart-disease",
+      "how-retirement-changes-affect-heart-health"
     ]
   },
   {
@@ -400,7 +474,11 @@
     "topicCluster": "hydration-nutrition",
     "image": "",
     "relatedSlugs": [
-      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
+      "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "why-winter-increases-heart-attack-risk-in-seniors-over-70",
+      "can-drinking-too-much-water-raise-blood-pressure"
     ]
   },
   {
@@ -419,7 +497,8 @@
     "image": "",
     "relatedSlugs": [
       "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
-      "can-cold-weather-raise-your-blood-pressure"
+      "can-cold-weather-raise-your-blood-pressure",
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults"
     ]
   },
   {
@@ -436,7 +515,13 @@
     "primaryKeyword": "post-meal walks for seniors holiday",
     "topicCluster": "exercise-physical-activity",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "why-older-women-gain-weight-faster-during-the-holidays-after-menopause",
+      "can-intermittent-fasting-help-manage-type-2-diabetes-after-60",
+      "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose"
+    ]
   },
   {
     "slug": "how-vision-changes-might-be-linked-to-heart-disease",
@@ -453,7 +538,9 @@
     "topicCluster": "heart-health",
     "image": "",
     "relatedSlugs": [
-      "diabetes-and-vision-changes-what-seniors-need-to-know"
+      "diabetes-and-vision-changes-what-seniors-need-to-know",
+      "can-hearing-loss-be-an-early-sign-of-heart-disease",
+      "how-frequent-urination-at-night-could-signal-heart-problems"
     ]
   },
   {
@@ -471,7 +558,9 @@
     "topicCluster": "heart-health",
     "image": "",
     "relatedSlugs": [
-      "how-social-isolation-impacts-heart-disease-risk-in-older-adults"
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "is-your-posture-affecting-your-heart-what-older-adults-should-know",
+      "can-gardening-improve-heart-health-after-50"
     ]
   },
   {
@@ -488,7 +577,12 @@
     "primaryKeyword": "early warning signs of heart disease years in advance",
     "topicCluster": "heart-health",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart",
+      "can-hearing-loss-be-an-early-sign-of-heart-disease",
+      "how-frequent-urination-at-night-could-signal-heart-problems",
+      "are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart"
+    ]
   },
   {
     "slug": "does-laughter-really-protect-your-heart-after-50",
@@ -504,7 +598,13 @@
     "primaryKeyword": "laughter and heart health benefits after 50",
     "topicCluster": "heart-health",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-gardening-improve-heart-health-after-50",
+      "how-sleep-affects-heart-health-after-50",
+      "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50",
+      "how-retirement-changes-affect-heart-health",
+      "can-meditation-reduce-heart-disease-risk-after-50"
+    ]
   },
   {
     "slug": "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure",
@@ -520,7 +620,12 @@
     "primaryKeyword": "thanksgiving with high blood pressure",
     "topicCluster": "cardiac-diet",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar"
+    ]
   },
   {
     "slug": "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
@@ -578,7 +683,11 @@
     "primaryKeyword": "allergen-friendly family gatherings",
     "topicCluster": "inclusive-dining",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar",
+      "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food"
+    ]
   },
   {
     "slug": "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart",
@@ -594,7 +703,12 @@
     "primaryKeyword": "sudden weight gain and heart failure warning signs",
     "topicCluster": "heart-health",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-frequent-urination-at-night-could-signal-heart-problems",
+      "heart-disease-warning-signs-that-appear-years-in-advance",
+      "how-walking-speed-can-reflect-heart-health-and-blood-pressure",
+      "the-connection-between-frequent-urination-at-night-and-heart-health"
+    ]
   },
   {
     "slug": "the-link-between-sleep-apnea-and-high-blood-pressure",
@@ -611,7 +725,9 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": [
-      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50"
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "can-meditation-lower-blood-pressure-naturally",
+      "why-blood-pressure-matters-even-if-you-feel-fine"
     ]
   },
   {
@@ -628,7 +744,13 @@
     "primaryKeyword": "diabetes and slow wound healing in elderly",
     "topicCluster": "diabetes-complications",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "diabetes-and-vision-changes-what-seniors-need-to-know",
+      "recognizing-silent-heart-attacks-in-diabetics-over-60",
+      "understanding-a1c-goals-for-seniors-with-diabetes",
+      "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s",
+      "can-intermittent-fasting-help-manage-type-2-diabetes-after-60"
+    ]
   },
   {
     "slug": "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
@@ -644,7 +766,12 @@
     "primaryKeyword": "long-term NSAID use and heart disease risk",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease",
+      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection",
+      "the-hidden-link-between-gum-disease-and-heart-problems",
+      "how-type-2-diabetes-increases-heart-disease-risk-after-50"
+    ]
   },
   {
     "slug": "meal-timing-strategies-for-better-blood-sugar-control-after-50",
@@ -661,7 +788,9 @@
     "topicCluster": "diabetes-nutrition",
     "image": "",
     "relatedSlugs": [
-      "the-role-of-fiber-in-controlling-blood-sugar-after-50"
+      "the-role-of-fiber-in-controlling-blood-sugar-after-50",
+      "best-supplements-for-blood-sugar-support-after-50",
+      "can-intermittent-fasting-help-manage-type-2-diabetes-after-60"
     ]
   },
   {
@@ -678,7 +807,11 @@
     "primaryKeyword": "posture and heart health in seniors",
     "topicCluster": "heart-health",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-retirement-changes-affect-heart-health",
+      "how-pets-support-heart-health-in-older-adults",
+      "how-sleep-affects-heart-health-after-50"
+    ]
   },
   {
     "slug": "is-your-medication-causing-high-blood-pressure",
@@ -694,7 +827,11 @@
     "primaryKeyword": "medications that raise blood pressure",
     "topicCluster": "blood-pressure-basics",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "when-to-worry-about-high-readings",
+      "blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ"
+    ]
   },
   {
     "slug": "how-type-2-diabetes-increases-heart-disease-risk-after-50",
@@ -711,7 +848,11 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": [
-      "how-chronic-inflammation-worsens-type-2-diabetes-after-50"
+      "how-chronic-inflammation-worsens-type-2-diabetes-after-50",
+      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection",
+      "recognizing-silent-heart-attacks-in-diabetics-over-60",
+      "the-hidden-link-between-gum-disease-and-heart-problems",
+      "the-impact-of-long-term-nsaid-use-on-heart-disease-risk"
     ]
   },
   {
@@ -730,7 +871,10 @@
     "image": "",
     "relatedSlugs": [
       "is-sitting-too-much-harming-your-heart-after-60",
-      "how-social-isolation-impacts-heart-disease-risk-in-older-adults"
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "how-menopause-affects-heart-disease-risk-in-women",
+      "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease",
+      "the-hidden-link-between-gum-disease-and-heart-problems"
     ]
   },
   {
@@ -747,7 +891,13 @@
     "primaryKeyword": "retirement lifestyle changes and heart health",
     "topicCluster": "heart-health",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-gardening-improve-heart-health-after-50",
+      "is-your-posture-affecting-your-heart-what-older-adults-should-know",
+      "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50",
+      "is-sitting-too-much-harming-your-heart-after-60",
+      "does-laughter-really-protect-your-heart-after-50"
+    ]
   },
   {
     "slug": "how-poor-dental-hygiene-may-lead-to-heart-disease",
@@ -764,7 +914,11 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": [
-      "the-hidden-link-between-gum-disease-and-heart-problems"
+      "the-hidden-link-between-gum-disease-and-heart-problems",
+      "are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart",
+      "can-hearing-loss-be-an-early-sign-of-heart-disease",
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "how-vision-changes-might-be-linked-to-heart-disease"
     ]
   },
   {
@@ -783,7 +937,10 @@
     "image": "",
     "relatedSlugs": [
       "blood-pressure-changes-during-menopause-what-women-should-know",
-      "blood-pressure-fluctuations-during-menopause-what-women-should-know"
+      "blood-pressure-fluctuations-during-menopause-what-women-should-know",
+      "how-social-isolation-increases-heart-disease-risk-after-60",
+      "the-hidden-link-between-gum-disease-and-heart-problems",
+      "why-older-women-gain-weight-faster-during-the-holidays-after-menopause"
     ]
   },
   {
@@ -802,7 +959,10 @@
     "image": "",
     "relatedSlugs": [
       "blood-pressure-changes-during-menopause-what-women-should-know",
-      "blood-pressure-fluctuations-during-menopause-what-women-should-know"
+      "blood-pressure-fluctuations-during-menopause-what-women-should-know",
+      "how-cold-weather-affects-blood-sugar-in-people-with-diabetes",
+      "how-menopause-affects-heart-disease-risk-in-women",
+      "why-older-women-gain-weight-faster-during-the-holidays-after-menopause"
     ]
   },
   {
@@ -820,7 +980,11 @@
     "topicCluster": "heart-health",
     "image": "",
     "relatedSlugs": [
-      "the-connection-between-frequent-urination-at-night-and-heart-health"
+      "the-connection-between-frequent-urination-at-night-and-heart-health",
+      "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart",
+      "how-vision-changes-might-be-linked-to-heart-disease",
+      "how-retirement-changes-affect-heart-health",
+      "heart-disease-warning-signs-that-appear-years-in-advance"
     ]
   },
   {
@@ -838,7 +1002,9 @@
     "topicCluster": "diabetes-management",
     "image": "",
     "relatedSlugs": [
-      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
+      "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70",
+      "understanding-a1c-goals-for-seniors-with-diabetes"
     ]
   },
   {
@@ -855,7 +1021,11 @@
     "primaryKeyword": "cold weather and blood sugar changes in diabetics",
     "topicCluster": "diabetes-environmental-factors",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-menopause-affects-blood-sugar-control-in-women-with-diabetes",
+      "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
+      "can-cold-weather-raise-your-blood-pressure"
+    ]
   },
   {
     "slug": "how-chronic-stress-contributes-to-high-blood-pressure-over-time",
@@ -871,7 +1041,13 @@
     "primaryKeyword": "chronic stress and high blood pressure aging",
     "topicCluster": "hypertension-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "does-caffeine-raise-blood-pressure-after-age-60",
+      "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection",
+      "can-meditation-reduce-heart-disease-risk-after-50",
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults"
+    ]
   },
   {
     "slug": "how-chronic-inflammation-worsens-type-2-diabetes-after-50",
@@ -887,7 +1063,13 @@
     "primaryKeyword": "chronic inflammation and type 2 diabetes over 50",
     "topicCluster": "diabetes-risk-factors",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-type-2-diabetes-increases-heart-disease-risk-after-50",
+      "can-intermittent-fasting-help-manage-type-2-diabetes-after-60",
+      "the-role-of-fiber-in-controlling-blood-sugar-after-50",
+      "meal-timing-strategies-for-better-blood-sugar-control-after-50",
+      "the-link-between-diabetes-and-slow-healing-in-older-adults"
+    ]
   },
   {
     "slug": "heart-disease-in-hispanic-adults-over-50-unique-risk-factors",
@@ -903,7 +1085,13 @@
     "primaryKeyword": "heart disease in Hispanic adults over 50",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection",
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "recognizing-silent-heart-attacks-in-diabetics-over-60",
+      "how-type-2-diabetes-increases-heart-disease-risk-after-50",
+      "why-winter-increases-heart-attack-risk-in-seniors-over-70"
+    ]
   },
   {
     "slug": "heart-disease-and-chronic-kidney-disease-the-dangerous-connection",
@@ -920,7 +1108,11 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": [
-      "how-type-2-diabetes-increases-heart-disease-risk-after-50"
+      "how-type-2-diabetes-increases-heart-disease-risk-after-50",
+      "heart-disease-in-hispanic-adults-over-50-unique-risk-factors",
+      "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease",
+      "is-sitting-too-much-harming-your-heart-after-60"
     ]
   },
   {
@@ -937,7 +1129,13 @@
     "primaryKeyword": "healthy carbs for older adults with diabetes",
     "topicCluster": "diabetes-nutrition",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "best-fruits-for-diabetics-over-50-and-which-to-limit",
+      "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors",
+      "understanding-a1c-goals-for-seniors-with-diabetes",
+      "best-supplements-for-blood-sugar-support-after-50",
+      "the-role-of-fiber-in-controlling-blood-sugar-after-50"
+    ]
   },
   {
     "slug": "does-caffeine-raise-blood-pressure-after-age-60",
@@ -953,7 +1151,12 @@
     "primaryKeyword": "caffeine effect on blood pressure over 60",
     "topicCluster": "hypertension-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-drinking-too-much-water-raise-blood-pressure",
+      "the-role-of-potassium-in-managing-blood-pressure-after-50",
+      "how-chronic-stress-contributes-to-high-blood-pressure-over-time",
+      "hidden-salt-10-surprising-foods-that-spike-blood-pressure"
+    ]
   },
   {
     "slug": "diabetes-and-vision-changes-what-seniors-need-to-know",
@@ -970,7 +1173,10 @@
     "topicCluster": "diabetes-complications",
     "image": "",
     "relatedSlugs": [
-      "how-vision-changes-might-be-linked-to-heart-disease"
+      "how-vision-changes-might-be-linked-to-heart-disease",
+      "the-link-between-diabetes-and-slow-healing-in-older-adults",
+      "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
+      "understanding-a1c-goals-for-seniors-with-diabetes"
     ]
   },
   {
@@ -987,7 +1193,13 @@
     "primaryKeyword": "vitamin d deficiency and heart disease risk",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "the-hidden-link-between-gum-disease-and-heart-problems",
+      "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection",
+      "how-social-isolation-increases-heart-disease-risk-after-60",
+      "how-type-2-diabetes-increases-heart-disease-risk-after-50"
+    ]
   },
   {
     "slug": "can-strength-training-lower-heart-disease-risk-after-60",
@@ -1003,7 +1215,11 @@
     "primaryKeyword": "strength training to reduce heart disease risk after 60",
     "topicCluster": "hypertension-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-meditation-reduce-heart-disease-risk-after-50",
+      "can-deep-breathing-exercises-lower-heart-disease-risk",
+      "is-sitting-too-much-harming-your-heart-after-60"
+    ]
   },
   {
     "slug": "can-meditation-reduce-heart-disease-risk-after-50",
@@ -1020,7 +1236,11 @@
     "topicCluster": "hypertension-lifestyle",
     "image": "",
     "relatedSlugs": [
-      "can-gardening-improve-heart-health-after-50"
+      "can-gardening-improve-heart-health-after-50",
+      "can-strength-training-lower-heart-disease-risk-after-60",
+      "can-meditation-lower-blood-pressure-naturally",
+      "does-laughter-really-protect-your-heart-after-50",
+      "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50"
     ]
   },
   {
@@ -1037,7 +1257,13 @@
     "primaryKeyword": "meditation to lower blood pressure naturally",
     "topicCluster": "hypertension-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-meditation-reduce-heart-disease-risk-after-50",
+      "the-role-of-potassium-in-managing-blood-pressure-after-50",
+      "blood-pressure-changes-during-menopause-what-women-should-know",
+      "the-link-between-sleep-apnea-and-high-blood-pressure",
+      "can-deep-breathing-exercises-lower-heart-disease-risk"
+    ]
   },
   {
     "slug": "can-intermittent-fasting-help-manage-type-2-diabetes-after-60",
@@ -1053,7 +1279,11 @@
     "primaryKeyword": "intermittent fasting for type 2 diabetes over 60",
     "topicCluster": "diabetes-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "meal-timing-strategies-for-better-blood-sugar-control-after-50",
+      "how-chronic-inflammation-worsens-type-2-diabetes-after-50",
+      "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors"
+    ]
   },
   {
     "slug": "can-hearing-loss-be-an-early-sign-of-heart-disease",
@@ -1069,7 +1299,11 @@
     "primaryKeyword": "hearing loss as early sign of heart disease",
     "topicCluster": "heart-health",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "is-your-posture-affecting-your-heart-what-older-adults-should-know",
+      "how-vision-changes-might-be-linked-to-heart-disease",
+      "the-connection-between-frequent-urination-at-night-and-heart-health"
+    ]
   },
   {
     "slug": "can-cold-hands-signal-poor-circulation-or-heart-issues",
@@ -1085,7 +1319,11 @@
     "primaryKeyword": "cold hands and poor circulation heart health",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-hearing-loss-be-an-early-sign-of-heart-disease",
+      "is-your-posture-affecting-your-heart-what-older-adults-should-know",
+      "the-connection-between-frequent-urination-at-night-and-heart-health"
+    ]
   },
   {
     "slug": "blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
@@ -1101,7 +1339,11 @@
     "primaryKeyword": "home blood pressure vs doctor office reading",
     "topicCluster": "blood-pressure-basics",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "when-to-worry-about-high-readings",
+      "is-your-medication-causing-high-blood-pressure",
+      "understanding-blood-pressure-numbers"
+    ]
   },
   {
     "slug": "best-supplements-for-blood-sugar-support-after-50",
@@ -1117,7 +1359,13 @@
     "primaryKeyword": "blood sugar supplements for adults over 50",
     "topicCluster": "diabetes-nutrition",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "best-fruits-for-diabetics-over-50-and-which-to-limit",
+      "meal-timing-strategies-for-better-blood-sugar-control-after-50",
+      "the-role-of-fiber-in-controlling-blood-sugar-after-50",
+      "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50",
+      "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors"
+    ]
   },
   {
     "slug": "best-fruits-for-diabetics-over-50-and-which-to-limit",
@@ -1133,7 +1381,11 @@
     "primaryKeyword": "best fruits for diabetics over 50",
     "topicCluster": "diabetes-nutrition",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s",
+      "best-supplements-for-blood-sugar-support-after-50",
+      "the-role-of-fiber-in-controlling-blood-sugar-after-50"
+    ]
   },
   {
     "slug": "the-role-of-fiber-in-controlling-blood-sugar-after-50",
@@ -1149,7 +1401,11 @@
     "primaryKeyword": "high fiber diet for blood sugar control after 50",
     "topicCluster": "diabetes-nutrition",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "meal-timing-strategies-for-better-blood-sugar-control-after-50",
+      "best-fruits-for-diabetics-over-50-and-which-to-limit",
+      "best-supplements-for-blood-sugar-support-after-50"
+    ]
   },
   {
     "slug": "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
@@ -1166,7 +1422,11 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": [
-      "how-sleep-affects-heart-health-after-50"
+      "how-sleep-affects-heart-health-after-50",
+      "the-link-between-sleep-apnea-and-high-blood-pressure",
+      "why-blood-pressure-matters-even-if-you-feel-fine",
+      "heart-disease-in-hispanic-adults-over-50-unique-risk-factors",
+      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection"
     ]
   },
   {
@@ -1184,7 +1444,11 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": [
-      "how-poor-dental-hygiene-may-lead-to-heart-disease"
+      "how-poor-dental-hygiene-may-lead-to-heart-disease",
+      "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease",
+      "how-social-isolation-increases-heart-disease-risk-after-60",
+      "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection"
     ]
   },
   {
@@ -1201,7 +1465,13 @@
     "primaryKeyword": "silent heart attack symptoms in elderly diabetics",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "the-link-between-diabetes-and-slow-healing-in-older-adults",
+      "heart-disease-in-hispanic-adults-over-50-unique-risk-factors",
+      "why-blood-pressure-matters-even-if-you-feel-fine",
+      "how-type-2-diabetes-increases-heart-disease-risk-after-50",
+      "diabetes-and-vision-changes-what-seniors-need-to-know"
+    ]
   },
   {
     "slug": "is-low-blood-pressure-dangerous-for-seniors",
@@ -1218,7 +1488,11 @@
     "topicCluster": "blood-pressure-basics",
     "image": "",
     "relatedSlugs": [
-      "how-standing-up-too-fast-affects-blood-pressure-in-older-adults"
+      "how-standing-up-too-fast-affects-blood-pressure-in-older-adults",
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "should-you-adjust-your-blood-pressure-goals-in-winter",
+      "why-blood-pressure-matters-even-if-you-feel-fine"
     ]
   },
   {
@@ -1235,7 +1509,13 @@
     "primaryKeyword": "walking speed and blood pressure correlation",
     "topicCluster": "heart-health",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "can-hearing-loss-be-an-early-sign-of-heart-disease",
+      "how-retirement-changes-affect-heart-health",
+      "is-your-posture-affecting-your-heart-what-older-adults-should-know",
+      "heart-rate-variability-explained",
+      "how-vision-changes-might-be-linked-to-heart-disease"
+    ]
   },
   {
     "slug": "how-standing-up-too-fast-affects-blood-pressure-in-older-adults",
@@ -1252,7 +1532,11 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": [
-      "is-low-blood-pressure-dangerous-for-seniors"
+      "is-low-blood-pressure-dangerous-for-seniors",
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults",
+      "can-drinking-too-much-water-raise-blood-pressure",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50"
     ]
   },
   {
@@ -1270,7 +1554,11 @@
     "topicCluster": "heart-health",
     "image": "",
     "relatedSlugs": [
-      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50"
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "does-laughter-really-protect-your-heart-after-50",
+      "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50",
+      "can-gardening-improve-heart-health-after-50",
+      "is-your-posture-affecting-your-heart-what-older-adults-should-know"
     ]
   },
   {
@@ -1307,7 +1595,13 @@
     "primaryKeyword": "hidden salt in food and blood pressure",
     "topicCluster": "hypertension-lifestyle",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "the-role-of-potassium-in-managing-blood-pressure-after-50",
+      "why-blood-pressure-matters-even-if-you-feel-fine",
+      "does-caffeine-raise-blood-pressure-after-age-60",
+      "can-drinking-too-much-water-raise-blood-pressure",
+      "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure"
+    ]
   },
   {
     "slug": "can-gardening-improve-heart-health-after-50",
@@ -1325,7 +1619,10 @@
     "image": "",
     "relatedSlugs": [
       "can-meditation-reduce-heart-disease-risk-after-50",
-      "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50"
+      "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50",
+      "how-retirement-changes-affect-heart-health",
+      "does-laughter-really-protect-your-heart-after-50",
+      "how-sleep-affects-heart-health-after-50"
     ]
   },
   {
@@ -1343,7 +1640,11 @@
     "topicCluster": "hypertension-lifestyle",
     "image": "",
     "relatedSlugs": [
-      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
+      "does-caffeine-raise-blood-pressure-after-age-60",
+      "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
+      "the-role-of-potassium-in-managing-blood-pressure-after-50"
     ]
   },
   {
@@ -1362,7 +1663,9 @@
     "image": "",
     "relatedSlugs": [
       "blood-pressure-changes-during-menopause-what-women-should-know",
-      "how-menopause-affects-heart-disease-risk-in-women"
+      "how-menopause-affects-heart-disease-risk-in-women",
+      "how-menopause-affects-blood-sugar-control-in-women-with-diabetes",
+      "can-cold-weather-raise-your-blood-pressure"
     ]
   },
   {
@@ -1381,7 +1684,10 @@
     "image": "",
     "relatedSlugs": [
       "blood-pressure-fluctuations-during-menopause-what-women-should-know",
-      "how-menopause-affects-heart-disease-risk-in-women"
+      "how-menopause-affects-heart-disease-risk-in-women",
+      "how-menopause-affects-blood-sugar-control-in-women-with-diabetes",
+      "can-cold-weather-raise-your-blood-pressure",
+      "the-role-of-potassium-in-managing-blood-pressure-after-50"
     ]
   },
   {
@@ -1398,7 +1704,13 @@
     "primaryKeyword": "morning joint stiffness and heart inflammation link",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "how-poor-dental-hygiene-may-lead-to-heart-disease",
+      "the-hidden-link-between-gum-disease-and-heart-problems",
+      "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "how-vision-changes-might-be-linked-to-heart-disease",
+      "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease"
+    ]
   },
   {
     "slug": "understanding-blood-pressure-numbers",
@@ -1416,7 +1728,9 @@
     "image": "",
     "relatedSlugs": [
       "when-to-worry-about-high-readings",
-      "heart-rate-variability-explained"
+      "heart-rate-variability-explained",
+      "blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+      "how-walking-speed-can-reflect-heart-health-and-blood-pressure"
     ]
   },
   {
@@ -1435,7 +1749,10 @@
     "image": "",
     "relatedSlugs": [
       "understanding-blood-pressure-numbers",
-      "when-to-worry-about-high-readings"
+      "when-to-worry-about-high-readings",
+      "can-deep-breathing-exercises-lower-heart-disease-risk",
+      "how-walking-speed-can-reflect-heart-health-and-blood-pressure",
+      "does-laughter-really-protect-your-heart-after-50"
     ]
   },
   {
@@ -1454,7 +1771,10 @@
     "image": "",
     "relatedSlugs": [
       "understanding-blood-pressure-numbers",
-      "heart-rate-variability-explained"
+      "heart-rate-variability-explained",
+      "blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+      "is-your-medication-causing-high-blood-pressure",
+      "is-low-blood-pressure-dangerous-for-seniors"
     ]
   }
 ]

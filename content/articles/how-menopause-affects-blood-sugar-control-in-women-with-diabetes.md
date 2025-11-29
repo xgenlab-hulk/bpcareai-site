@@ -1,14 +1,24 @@
 ---
-title: "How Menopause Affects Blood Sugar Control in Women with Diabetes"
-slug: "how-menopause-affects-blood-sugar-control-in-women-with-diabetes"
-description: "Learn how hormonal shifts during and after menopause impact glucose levels and diabetes management."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["menopause and blood sugar fluctuations in women with diabetes", "diabetes", "diabetes-women-health"]
-primaryKeyword: "menopause and blood sugar fluctuations in women with diabetes"
-topicCluster: "diabetes-women-health"
-image: ""
-relatedSlugs: ["blood-pressure-changes-during-menopause-what-women-should-know", "blood-pressure-fluctuations-during-menopause-what-women-should-know"]
+title: How Menopause Affects Blood Sugar Control in Women with Diabetes
+slug: how-menopause-affects-blood-sugar-control-in-women-with-diabetes
+description: >-
+  Learn how hormonal shifts during and after menopause impact glucose levels and
+  diabetes management.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - menopause and blood sugar fluctuations in women with diabetes
+  - diabetes
+  - diabetes-women-health
+primaryKeyword: menopause and blood sugar fluctuations in women with diabetes
+topicCluster: diabetes-women-health
+image: ''
+relatedSlugs:
+  - blood-pressure-changes-during-menopause-what-women-should-know
+  - blood-pressure-fluctuations-during-menopause-what-women-should-know
+  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
+  - how-menopause-affects-heart-disease-risk-in-women
+  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 
 # How Menopause Affects Blood Sugar Fluctuations in Women with Diabetes

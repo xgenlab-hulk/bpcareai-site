@@ -1,14 +1,24 @@
 ---
-title: "Quick 15-Minute Post-Meal Walks: How They Help Seniors Digest Holiday Food"
-slug: "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food"
-description: "Simple physical activity advice to improve glucose metabolism and digestion after large meals, backed by research in aging populations."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["post-meal walks for seniors holiday", "healthy holiday eating for seniors", "exercise-physical-activity"]
-primaryKeyword: "post-meal walks for seniors holiday"
-topicCluster: "exercise-physical-activity"
-image: ""
-relatedSlugs: []
+title: 'Quick 15-Minute Post-Meal Walks: How They Help Seniors Digest Holiday Food'
+slug: quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+description: >-
+  Simple physical activity advice to improve glucose metabolism and digestion
+  after large meals, backed by research in aging populations.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - post-meal walks for seniors holiday
+  - healthy holiday eating for seniors
+  - exercise-physical-activity
+primaryKeyword: post-meal walks for seniors holiday
+topicCluster: exercise-physical-activity
+image: ''
+relatedSlugs:
+  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
+  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # How Post-Meal Walks for Seniors Help Digest Holiday Feasts

@@ -1,14 +1,24 @@
 ---
-title: "Can Vitamin D Deficiency Increase Your Risk of Heart Disease?"
-slug: "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease"
-description: "Review the latest research on low vitamin D levels and their association with cardiovascular problems in older adults."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["vitamin d deficiency and heart disease risk", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "vitamin d deficiency and heart disease risk"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: []
+title: Can Vitamin D Deficiency Increase Your Risk of Heart Disease?
+slug: can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+description: >-
+  Review the latest research on low vitamin D levels and their association with
+  cardiovascular problems in older adults.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - vitamin d deficiency and heart disease risk
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: vitamin d deficiency and heart disease risk
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+  - how-social-isolation-increases-heart-disease-risk-after-60
+  - how-type-2-diabetes-increases-heart-disease-risk-after-50
 ---
 
 # Can Vitamin D Deficiency Increase Your Heart Disease Risk?

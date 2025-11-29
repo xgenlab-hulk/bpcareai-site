@@ -1,14 +1,23 @@
 ---
-title: "The Impact of Long-Term NSAID Use on Heart Disease Risk"
-slug: "the-impact-of-long-term-nsaid-use-on-heart-disease-risk"
-description: "Understand how regular use of painkillers like ibuprofen may elevate cardiovascular risks in older adults."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["long-term NSAID use and heart disease risk", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "long-term NSAID use and heart disease risk"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: []
+title: The Impact of Long-Term NSAID Use on Heart Disease Risk
+slug: the-impact-of-long-term-nsaid-use-on-heart-disease-risk
+description: >-
+  Understand how regular use of painkillers like ibuprofen may elevate
+  cardiovascular risks in older adults.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - long-term NSAID use and heart disease risk
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: long-term NSAID use and heart disease risk
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - how-type-2-diabetes-increases-heart-disease-risk-after-50
 ---
 
 # Understanding the Link Between Long-Term NSAID Use and Heart Disease Risk

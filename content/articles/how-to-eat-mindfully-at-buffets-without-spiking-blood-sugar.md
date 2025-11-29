@@ -1,14 +1,23 @@
 ---
-title: "How to Eat Mindfully at Buffets Without Spiking Blood Sugar"
-slug: "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar"
-description: "Techniques for navigating all-you-can-eat holiday spreads while staying within carb limits and avoiding overeating triggers."
-date: "2025-11-29"
-updated: "2025-11-29"
-tags: ["mindful eating at holiday buffets", "managing blood sugar during Christmas and New Year", "behavioral-strategies"]
-primaryKeyword: "mindful eating at holiday buffets"
-topicCluster: "behavioral-strategies"
-image: ""
-relatedSlugs: []
+title: How to Eat Mindfully at Buffets Without Spiking Blood Sugar
+slug: how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+description: >-
+  Techniques for navigating all-you-can-eat holiday spreads while staying within
+  carb limits and avoiding overeating triggers.
+date: '2025-11-29'
+updated: '2025-11-29'
+tags:
+  - mindful eating at holiday buffets
+  - managing blood sugar during Christmas and New Year
+  - behavioral-strategies
+primaryKeyword: mindful eating at holiday buffets
+topicCluster: behavioral-strategies
+image: ''
+relatedSlugs:
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
 ---
 
 # How to Practice Mindful Eating at Holiday Buffets Without Spiking Blood Sugar

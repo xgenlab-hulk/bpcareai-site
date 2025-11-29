@@ -1,14 +1,22 @@
 ---
-title: "How Cold Weather Affects Blood Sugar in People with Diabetes"
-slug: "how-cold-weather-affects-blood-sugar-in-people-with-diabetes"
-description: "Learn why winter months can cause unexpected glucose fluctuations and how to stay stable."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["cold weather and blood sugar changes in diabetics", "diabetes", "diabetes-environmental-factors"]
-primaryKeyword: "cold weather and blood sugar changes in diabetics"
-topicCluster: "diabetes-environmental-factors"
-image: ""
-relatedSlugs: []
+title: How Cold Weather Affects Blood Sugar in People with Diabetes
+slug: how-cold-weather-affects-blood-sugar-in-people-with-diabetes
+description: >-
+  Learn why winter months can cause unexpected glucose fluctuations and how to
+  stay stable.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - cold weather and blood sugar changes in diabetics
+  - diabetes
+  - diabetes-environmental-factors
+primaryKeyword: cold weather and blood sugar changes in diabetics
+topicCluster: diabetes-environmental-factors
+image: ''
+relatedSlugs:
+  - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - can-cold-weather-raise-your-blood-pressure
 ---
 
 # How Cold Weather and Blood Sugar Changes in Diabetics Are Connected

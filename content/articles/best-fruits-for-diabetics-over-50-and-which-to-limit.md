@@ -1,14 +1,22 @@
 ---
-title: "Best Fruits for Diabetics Over 50 (And Which to Limit)"
-slug: "best-fruits-for-diabetics-over-50-and-which-to-limit"
-description: "Discover low-glycemic fruits that support heart and metabolic health without spiking glucose."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["best fruits for diabetics over 50", "diabetes", "diabetes-nutrition"]
-primaryKeyword: "best fruits for diabetics over 50"
-topicCluster: "diabetes-nutrition"
-image: ""
-relatedSlugs: []
+title: Best Fruits for Diabetics Over 50 (And Which to Limit)
+slug: best-fruits-for-diabetics-over-50-and-which-to-limit
+description: >-
+  Discover low-glycemic fruits that support heart and metabolic health without
+  spiking glucose.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - best fruits for diabetics over 50
+  - diabetes
+  - diabetes-nutrition
+primaryKeyword: best fruits for diabetics over 50
+topicCluster: diabetes-nutrition
+image: ''
+relatedSlugs:
+  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - best-supplements-for-blood-sugar-support-after-50
+  - the-role-of-fiber-in-controlling-blood-sugar-after-50
 ---
 
 # Best Fruits for Diabetics Over 50: Smart Choices for Balanced Blood Sugar

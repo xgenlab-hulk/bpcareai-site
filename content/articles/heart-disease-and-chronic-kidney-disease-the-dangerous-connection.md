@@ -1,14 +1,24 @@
 ---
-title: "Heart Disease and Chronic Kidney Disease: The Dangerous Connection"
-slug: "heart-disease-and-chronic-kidney-disease-the-dangerous-connection"
-description: "Discover how kidney function decline increases cardiovascular risk in adults over 50."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["chronic kidney disease and heart disease link", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "chronic kidney disease and heart disease link"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["how-type-2-diabetes-increases-heart-disease-risk-after-50"]
+title: 'Heart Disease and Chronic Kidney Disease: The Dangerous Connection'
+slug: heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+description: >-
+  Discover how kidney function decline increases cardiovascular risk in adults
+  over 50.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - chronic kidney disease and heart disease link
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: chronic kidney disease and heart disease link
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
+  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - is-sitting-too-much-harming-your-heart-after-60
 ---
 
 # The Hidden Link Between Chronic Kidney Disease and Heart Disease

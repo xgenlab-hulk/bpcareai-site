@@ -15,7 +15,10 @@ import { replenishMultipleTopics } from '../lib/topics/replenish';
 import { generateArticleMarkdown } from '../lib/llm/qwen-articles';
 import { findSimilarArticlesForTopic } from '../lib/embeddings/similarity';
 import { addEmbeddingForNewArticle } from '../lib/embeddings/incremental';
-import { updateArticleFrontmatter } from '../lib/embeddings/internal-linking';
+import {
+  addBidirectionalLinkSmart,
+  loadArticleEmbeddings,
+} from '../lib/embeddings/internal-linking';
 import { slugify } from '../lib/utils/slugify';
 import type { ArticleFrontmatter } from '../lib/llm/qwen-articles';
 
@@ -247,36 +250,54 @@ async function generateArticles(
       // 生成文章
       const article = await generateArticleMarkdown(topic);
 
-      // 查找相关文章
+      // 查找相关文章（智能内链）
       try {
         const similarArticles = await findSimilarArticlesForTopic({
           title: topic.title,
           description: topic.description,
           primaryKeyword: topic.primaryKeyword,
-          topK: 3,
-          minSimilarity: 0.6,
+          topK: 5,              // 提高到5个
+          minSimilarity: 0.5,   // 降低阈值，保证能找到足够文章
         });
 
-        if (similarArticles.length > 0) {
-          article.frontmatter.relatedSlugs = similarArticles.map((a) => a.slug);
-          console.log(`   🔗 Found ${similarArticles.length} related articles`);
+        // 确保至少3个，最多5个
+        const selectedArticles = similarArticles.slice(0, Math.max(3, Math.min(5, similarArticles.length)));
 
-          // 实时双向连接：将新文章添加到老文章的 relatedSlugs 中
-          for (const oldArticle of similarArticles) {
+        if (selectedArticles.length > 0) {
+          article.frontmatter.relatedSlugs = selectedArticles.map((a) => a.slug);
+          console.log(`   🔗 Found ${selectedArticles.length} related articles`);
+
+          // 智能双向连接：使用新的智能算法，确保不超过5个
+          const allEmbeddings = loadArticleEmbeddings();
+          let bidirectionalCount = 0;
+
+          for (const oldArticle of selectedArticles) {
             try {
-              updateArticleFrontmatter(
+              const success = addBidirectionalLinkSmart(
                 oldArticle.slug,
-                [article.slug],
-                true // preserveExisting: true - 追加模式
+                article.slug,
+                allEmbeddings,
+                5 // 最大链接数
               );
+              if (success) {
+                bidirectionalCount++;
+              }
             } catch (reverseError) {
               console.warn(`   ⚠️  Failed to update reverse link for ${oldArticle.slug}: ${reverseError instanceof Error ? reverseError.message : String(reverseError)}`);
             }
           }
-          console.log(`   ↔️  Bidirectional links established`);
+
+          if (bidirectionalCount > 0) {
+            console.log(`   ↔️  Bidirectional links established (${bidirectionalCount}/${selectedArticles.length})`);
+          }
+        } else {
+          // 如果找不到相似文章，使用降级策略
+          console.warn(`   ⚠️  No similar articles found, using fallback`);
+          article.frontmatter.relatedSlugs = [];
         }
       } catch (linkError) {
         console.warn(`   ⚠️  Failed to find related articles: ${linkError instanceof Error ? linkError.message : String(linkError)}`);
+        article.frontmatter.relatedSlugs = [];
       }
 
       // 写入 Markdown 文件

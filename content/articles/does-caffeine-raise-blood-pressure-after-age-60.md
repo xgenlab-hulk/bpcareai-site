@@ -1,14 +1,23 @@
 ---
-title: "Does Caffeine Raise Blood Pressure After Age 60?"
-slug: "does-caffeine-raise-blood-pressure-after-age-60"
-description: "Examine the real impact of coffee and caffeine on blood pressure in older adults and whether moderation is key."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["caffeine effect on blood pressure over 60", "blood pressure", "hypertension-lifestyle"]
-primaryKeyword: "caffeine effect on blood pressure over 60"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: []
+title: Does Caffeine Raise Blood Pressure After Age 60?
+slug: does-caffeine-raise-blood-pressure-after-age-60
+description: >-
+  Examine the real impact of coffee and caffeine on blood pressure in older
+  adults and whether moderation is key.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - caffeine effect on blood pressure over 60
+  - blood pressure
+  - hypertension-lifestyle
+primaryKeyword: caffeine effect on blood pressure over 60
+topicCluster: hypertension-lifestyle
+image: ''
+relatedSlugs:
+  - can-drinking-too-much-water-raise-blood-pressure
+  - the-role-of-potassium-in-managing-blood-pressure-after-50
+  - how-chronic-stress-contributes-to-high-blood-pressure-over-time
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
 ---
 
 # Understanding the Caffeine Effect on Blood Pressure Over 60

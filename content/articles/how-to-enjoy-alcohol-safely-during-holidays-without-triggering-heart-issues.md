@@ -1,14 +1,23 @@
 ---
-title: "How to Enjoy Alcohol Safely During Holidays Without Triggering Heart Issues"
-slug: "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues"
-description: "Provide science-backed guidelines on moderate drinking limits and safer choices for those concerned about cardiac arrhythmias."
-date: "2025-11-29"
-updated: "2025-11-29"
-tags: ["safe alcohol holiday heart", "holiday heart syndrome prevention", "prevention-strategies"]
-primaryKeyword: "safe alcohol holiday heart"
-topicCluster: "prevention-strategies"
-image: ""
-relatedSlugs: []
+title: How to Enjoy Alcohol Safely During Holidays Without Triggering Heart Issues
+slug: how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+description: >-
+  Provide science-backed guidelines on moderate drinking limits and safer
+  choices for those concerned about cardiac arrhythmias.
+date: '2025-11-29'
+updated: '2025-11-29'
+tags:
+  - safe alcohol holiday heart
+  - holiday heart syndrome prevention
+  - prevention-strategies
+primaryKeyword: safe alcohol holiday heart
+topicCluster: prevention-strategies
+image: ''
+relatedSlugs:
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
 ---
 
 # How to Enjoy Alcohol Safely During the Holidays Without Risking Your Heart

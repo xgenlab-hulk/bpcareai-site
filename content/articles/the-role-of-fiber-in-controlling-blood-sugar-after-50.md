@@ -1,14 +1,22 @@
 ---
-title: "The Role of Fiber in Controlling Blood Sugar After 50"
-slug: "the-role-of-fiber-in-controlling-blood-sugar-after-50"
-description: "Discover how increasing dietary fiber can improve insulin sensitivity and digestion in diabetics."
-date: "2025-11-26"
-updated: "2025-11-26"
-tags: ["high fiber diet for blood sugar control after 50", "diabetes", "diabetes-nutrition"]
-primaryKeyword: "high fiber diet for blood sugar control after 50"
-topicCluster: "diabetes-nutrition"
-image: ""
-relatedSlugs: []
+title: The Role of Fiber in Controlling Blood Sugar After 50
+slug: the-role-of-fiber-in-controlling-blood-sugar-after-50
+description: >-
+  Discover how increasing dietary fiber can improve insulin sensitivity and
+  digestion in diabetics.
+date: '2025-11-26'
+updated: '2025-11-26'
+tags:
+  - high fiber diet for blood sugar control after 50
+  - diabetes
+  - diabetes-nutrition
+primaryKeyword: high fiber diet for blood sugar control after 50
+topicCluster: diabetes-nutrition
+image: ''
+relatedSlugs:
+  - meal-timing-strategies-for-better-blood-sugar-control-after-50
+  - best-fruits-for-diabetics-over-50-and-which-to-limit
+  - best-supplements-for-blood-sugar-support-after-50
 ---
 
 # The Power of a High Fiber Diet for Blood Sugar Control After 50

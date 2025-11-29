@@ -1,14 +1,22 @@
 ---
-title: "Can Strength Training Lower Heart Disease Risk After 60?"
-slug: "can-strength-training-lower-heart-disease-risk-after-60"
-description: "Discover how building muscle mass improves circulation, metabolism, and overall heart resilience."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["strength training to reduce heart disease risk after 60", "heart disease", "hypertension-lifestyle"]
-primaryKeyword: "strength training to reduce heart disease risk after 60"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: []
+title: Can Strength Training Lower Heart Disease Risk After 60?
+slug: can-strength-training-lower-heart-disease-risk-after-60
+description: >-
+  Discover how building muscle mass improves circulation, metabolism, and
+  overall heart resilience.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - strength training to reduce heart disease risk after 60
+  - heart disease
+  - hypertension-lifestyle
+primaryKeyword: strength training to reduce heart disease risk after 60
+topicCluster: hypertension-lifestyle
+image: ''
+relatedSlugs:
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - can-deep-breathing-exercises-lower-heart-disease-risk
+  - is-sitting-too-much-harming-your-heart-after-60
 ---
 
 # Can Strength Training Reduce Heart Disease Risk After 60?

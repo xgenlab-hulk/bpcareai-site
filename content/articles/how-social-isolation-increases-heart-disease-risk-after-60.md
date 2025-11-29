@@ -16,6 +16,9 @@ image: ''
 relatedSlugs:
   - is-sitting-too-much-harming-your-heart-after-60
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - how-menopause-affects-heart-disease-risk-in-women
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - the-hidden-link-between-gum-disease-and-heart-problems
 ---
 
 # How Social Isolation and Heart Disease Risk After 60 Are Connected

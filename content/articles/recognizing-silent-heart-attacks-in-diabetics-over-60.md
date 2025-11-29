@@ -1,14 +1,24 @@
 ---
-title: "Recognizing Silent Heart Attacks in Diabetics Over 60"
-slug: "recognizing-silent-heart-attacks-in-diabetics-over-60"
-description: "Identify atypical or absent symptoms of heart attacks in older adults with diabetes due to nerve damage."
-date: "2025-11-26"
-updated: "2025-11-26"
-tags: ["silent heart attack symptoms in elderly diabetics", "diabetes", "cardiovascular-risk"]
-primaryKeyword: "silent heart attack symptoms in elderly diabetics"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: []
+title: Recognizing Silent Heart Attacks in Diabetics Over 60
+slug: recognizing-silent-heart-attacks-in-diabetics-over-60
+description: >-
+  Identify atypical or absent symptoms of heart attacks in older adults with
+  diabetes due to nerve damage.
+date: '2025-11-26'
+updated: '2025-11-26'
+tags:
+  - silent heart attack symptoms in elderly diabetics
+  - diabetes
+  - cardiovascular-risk
+primaryKeyword: silent heart attack symptoms in elderly diabetics
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
+  - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
+  - why-blood-pressure-matters-even-if-you-feel-fine
+  - how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - diabetes-and-vision-changes-what-seniors-need-to-know
 ---
 
 # Understanding Silent Heart Attack Symptoms in Elderly Diabetics

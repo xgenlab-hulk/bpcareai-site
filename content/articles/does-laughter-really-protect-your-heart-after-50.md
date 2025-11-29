@@ -1,14 +1,24 @@
 ---
-title: "Does Laughter Really Protect Your Heart After 50?"
-slug: "does-laughter-really-protect-your-heart-after-50"
-description: "Find out how laughter and positive emotions may reduce stress hormones and benefit heart function."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["laughter and heart health benefits after 50", "heart health", "heart-health"]
-primaryKeyword: "laughter and heart health benefits after 50"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: []
+title: Does Laughter Really Protect Your Heart After 50?
+slug: does-laughter-really-protect-your-heart-after-50
+description: >-
+  Find out how laughter and positive emotions may reduce stress hormones and
+  benefit heart function.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - laughter and heart health benefits after 50
+  - heart health
+  - heart-health
+primaryKeyword: laughter and heart health benefits after 50
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - can-gardening-improve-heart-health-after-50
+  - how-sleep-affects-heart-health-after-50
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - how-retirement-changes-affect-heart-health
+  - can-meditation-reduce-heart-disease-risk-after-50
 ---
 
 # Can Laughter Really Improve Heart Health After 50?

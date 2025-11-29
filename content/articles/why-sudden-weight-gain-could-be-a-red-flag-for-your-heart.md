@@ -1,14 +1,23 @@
 ---
-title: "Why Sudden Weight Gain Could Be a Red Flag for Your Heart"
-slug: "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart"
-description: "Understand how rapid weight gain may signal fluid retention and declining heart function."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["sudden weight gain and heart failure warning signs", "heart health", "heart-health"]
-primaryKeyword: "sudden weight gain and heart failure warning signs"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: []
+title: Why Sudden Weight Gain Could Be a Red Flag for Your Heart
+slug: why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
+description: >-
+  Understand how rapid weight gain may signal fluid retention and declining
+  heart function.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - sudden weight gain and heart failure warning signs
+  - heart health
+  - heart-health
+primaryKeyword: sudden weight gain and heart failure warning signs
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - how-frequent-urination-at-night-could-signal-heart-problems
+  - heart-disease-warning-signs-that-appear-years-in-advance
+  - how-walking-speed-can-reflect-heart-health-and-blood-pressure
+  - the-connection-between-frequent-urination-at-night-and-heart-health
 ---
 
 # Sudden Weight Gain and Heart Failure Warning Signs: What You Should Know

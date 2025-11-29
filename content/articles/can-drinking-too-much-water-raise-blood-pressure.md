@@ -15,6 +15,10 @@ topicCluster: hypertension-lifestyle
 image: ''
 relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
+  - does-caffeine-raise-blood-pressure-after-age-60
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - the-role-of-potassium-in-managing-blood-pressure-after-50
 ---
 
 # Can Drinking Too Much Water Affect Your Blood Pressure?

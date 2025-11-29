@@ -1,14 +1,22 @@
 ---
-title: "Can Cold Hands Signal Poor Circulation or Heart Issues?"
-slug: "can-cold-hands-signal-poor-circulation-or-heart-issues"
-description: "Understand when cold extremities are normal and when they might point to cardiovascular concerns."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["cold hands and poor circulation heart health", "heart health", "cardiovascular-risk"]
-primaryKeyword: "cold hands and poor circulation heart health"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: []
+title: Can Cold Hands Signal Poor Circulation or Heart Issues?
+slug: can-cold-hands-signal-poor-circulation-or-heart-issues
+description: >-
+  Understand when cold extremities are normal and when they might point to
+  cardiovascular concerns.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - cold hands and poor circulation heart health
+  - heart health
+  - cardiovascular-risk
+primaryKeyword: cold hands and poor circulation heart health
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - can-hearing-loss-be-an-early-sign-of-heart-disease
+  - is-your-posture-affecting-your-heart-what-older-adults-should-know
+  - the-connection-between-frequent-urination-at-night-and-heart-health
 ---
 
 # Can Cold Hands Signal Poor Circulation and Heart Health Concerns?

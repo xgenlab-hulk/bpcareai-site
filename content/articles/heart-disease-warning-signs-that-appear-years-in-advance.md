@@ -1,14 +1,23 @@
 ---
-title: "Heart Disease Warning Signs That Appear Years in Advance"
-slug: "heart-disease-warning-signs-that-appear-years-in-advance"
-description: "Identify subtle early indicators—like fatigue, swelling, or shortness of breath—that may signal future heart issues."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["early warning signs of heart disease years in advance", "heart disease", "heart-health"]
-primaryKeyword: "early warning signs of heart disease years in advance"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: []
+title: Heart Disease Warning Signs That Appear Years in Advance
+slug: heart-disease-warning-signs-that-appear-years-in-advance
+description: >-
+  Identify subtle early indicators—like fatigue, swelling, or shortness of
+  breath—that may signal future heart issues.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - early warning signs of heart disease years in advance
+  - heart disease
+  - heart-health
+primaryKeyword: early warning signs of heart disease years in advance
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
+  - can-hearing-loss-be-an-early-sign-of-heart-disease
+  - how-frequent-urination-at-night-could-signal-heart-problems
+  - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart
 ---
 
 # Early Warning Signs of Heart Disease Years in Advance

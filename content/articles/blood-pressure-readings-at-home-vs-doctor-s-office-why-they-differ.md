@@ -1,14 +1,22 @@
 ---
-title: "Blood Pressure Readings at Home vs. Doctor’s Office: Why They Differ"
-slug: "blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ"
-description: "Understand the reasons behind inconsistent readings and how to get accurate results at home."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["home blood pressure vs doctor office reading", "blood pressure", "blood-pressure-basics"]
-primaryKeyword: "home blood pressure vs doctor office reading"
-topicCluster: "blood-pressure-basics"
-image: ""
-relatedSlugs: []
+title: 'Blood Pressure Readings at Home vs. Doctor’s Office: Why They Differ'
+slug: blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
+description: >-
+  Understand the reasons behind inconsistent readings and how to get accurate
+  results at home.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - home blood pressure vs doctor office reading
+  - blood pressure
+  - blood-pressure-basics
+primaryKeyword: home blood pressure vs doctor office reading
+topicCluster: blood-pressure-basics
+image: ''
+relatedSlugs:
+  - when-to-worry-about-high-readings
+  - is-your-medication-causing-high-blood-pressure
+  - understanding-blood-pressure-numbers
 ---
 
 # Understanding Your Home Blood Pressure vs Doctor Office Reading

@@ -1,14 +1,24 @@
 ---
-title: "How Type 2 Diabetes Increases Heart Disease Risk After 50"
-slug: "how-type-2-diabetes-increases-heart-disease-risk-after-50"
-description: "Learn the connection between insulin resistance, high blood sugar, and cardiovascular damage in middle-aged and older adults."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["type 2 diabetes and heart disease risk after 50", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "type 2 diabetes and heart disease risk after 50"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["how-chronic-inflammation-worsens-type-2-diabetes-after-50"]
+title: How Type 2 Diabetes Increases Heart Disease Risk After 50
+slug: how-type-2-diabetes-increases-heart-disease-risk-after-50
+description: >-
+  Learn the connection between insulin resistance, high blood sugar, and
+  cardiovascular damage in middle-aged and older adults.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - type 2 diabetes and heart disease risk after 50
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: type 2 diabetes and heart disease risk after 50
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 ---
 
 # How Type 2 Diabetes and Heart Disease Risk After 50 Are Linked

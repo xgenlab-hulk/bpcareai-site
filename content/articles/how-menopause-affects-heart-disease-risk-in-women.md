@@ -16,6 +16,9 @@ image: ''
 relatedSlugs:
   - blood-pressure-changes-during-menopause-what-women-should-know
   - blood-pressure-fluctuations-during-menopause-what-women-should-know
+  - how-social-isolation-increases-heart-disease-risk-after-60
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 
 # How Menopause and Increased Heart Disease Risk Are Connected

@@ -1,14 +1,25 @@
 ---
-title: "Can Binge Drinking During Festive Seasons Cause Atrial Fibrillation in Older Adults?"
-slug: "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults"
-description: "Examine the link between episodic heavy alcohol consumption during holidays and sudden arrhythmias, especially in people over 50."
-date: "2025-11-29"
-updated: "2025-11-29"
-tags: ["binge drinking atrial fibrillation", "holiday heart syndrome prevention", "risk-factors"]
-primaryKeyword: "binge drinking atrial fibrillation"
-topicCluster: "risk-factors"
-image: ""
-relatedSlugs: []
+title: >-
+  Can Binge Drinking During Festive Seasons Cause Atrial Fibrillation in Older
+  Adults?
+slug: >-
+  can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+description: >-
+  Examine the link between episodic heavy alcohol consumption during holidays
+  and sudden arrhythmias, especially in people over 50.
+date: '2025-11-29'
+updated: '2025-11-29'
+tags:
+  - binge drinking atrial fibrillation
+  - holiday heart syndrome prevention
+  - risk-factors
+primaryKeyword: binge drinking atrial fibrillation
+topicCluster: risk-factors
+image: ''
+relatedSlugs:
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
 ---
 
 # Can Binge Drinking Trigger Atrial Fibrillation in Older Adults?

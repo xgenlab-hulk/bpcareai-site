@@ -1,14 +1,23 @@
 ---
-title: "The Role of Magnesium in Maintaining a Healthy Heart After 50"
-slug: "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50"
-description: "Learn how magnesium supports heart rhythm, blood pressure, and overall cardiovascular function in older adults."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["magnesium benefits for heart health over 50", "heart health", "heart-health"]
-primaryKeyword: "magnesium benefits for heart health over 50"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["can-gardening-improve-heart-health-after-50"]
+title: The Role of Magnesium in Maintaining a Healthy Heart After 50
+slug: the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+description: >-
+  Learn how magnesium supports heart rhythm, blood pressure, and overall
+  cardiovascular function in older adults.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - magnesium benefits for heart health over 50
+  - heart health
+  - heart-health
+primaryKeyword: magnesium benefits for heart health over 50
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - can-gardening-improve-heart-health-after-50
+  - how-sleep-affects-heart-health-after-50
+  - how-pets-support-heart-health-in-older-adults
+  - does-laughter-really-protect-your-heart-after-50
 ---
 
 # How Magnesium Benefits for Heart Health Over 50 Support a Stronger Cardiovascular System

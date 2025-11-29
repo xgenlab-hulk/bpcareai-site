@@ -1,14 +1,23 @@
 ---
-title: "Can You Enjoy Thanksgiving If You Have High Blood Pressure?"
-slug: "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure"
-description: "Answers whether sodium-heavy holiday meals are safe for hypertensive individuals and how to modify portions and ingredients accordingly."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["thanksgiving with high blood pressure", "healthy eating during family gatherings", "cardiac-diet"]
-primaryKeyword: "thanksgiving with high blood pressure"
-topicCluster: "cardiac-diet"
-image: ""
-relatedSlugs: []
+title: Can You Enjoy Thanksgiving If You Have High Blood Pressure?
+slug: can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
+description: >-
+  Answers whether sodium-heavy holiday meals are safe for hypertensive
+  individuals and how to modify portions and ingredients accordingly.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - thanksgiving with high blood pressure
+  - healthy eating during family gatherings
+  - cardiac-diet
+primaryKeyword: thanksgiving with high blood pressure
+topicCluster: cardiac-diet
+image: ''
+relatedSlugs:
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
 ---
 
 # Enjoying Thanksgiving with High Blood Pressure: Is It Possible?

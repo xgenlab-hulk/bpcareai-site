@@ -1,14 +1,24 @@
 ---
-title: "Understanding A1C Goals for Seniors with Diabetes"
-slug: "understanding-a1c-goals-for-seniors-with-diabetes"
-description: "Learn how target HbA1c levels may differ for older adults based on overall health and comorbidities."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["A1C targets for elderly with diabetes", "diabetes", "diabetes-management"]
-primaryKeyword: "A1C targets for elderly with diabetes"
-topicCluster: "diabetes-management"
-image: ""
-relatedSlugs: []
+title: Understanding A1C Goals for Seniors with Diabetes
+slug: understanding-a1c-goals-for-seniors-with-diabetes
+description: >-
+  Learn how target HbA1c levels may differ for older adults based on overall
+  health and comorbidities.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - A1C targets for elderly with diabetes
+  - diabetes
+  - diabetes-management
+primaryKeyword: A1C targets for elderly with diabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - diabetes-and-vision-changes-what-seniors-need-to-know
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
+  - should-you-adjust-your-blood-pressure-goals-in-winter
 ---
 
 # Understanding A1C Targets for Elderly with Diabetes: What’s Right for You?

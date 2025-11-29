@@ -1,14 +1,24 @@
 ---
-title: "The Connection Between Frequent Urination at Night and Heart Health"
-slug: "the-connection-between-frequent-urination-at-night-and-heart-health"
-description: "Discover how nocturia may be linked to heart failure or circulatory issues in older adults."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["frequent urination at night and heart problems", "heart health", "heart-health"]
-primaryKeyword: "frequent urination at night and heart problems"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["how-frequent-urination-at-night-could-signal-heart-problems"]
+title: The Connection Between Frequent Urination at Night and Heart Health
+slug: the-connection-between-frequent-urination-at-night-and-heart-health
+description: >-
+  Discover how nocturia may be linked to heart failure or circulatory issues in
+  older adults.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - frequent urination at night and heart problems
+  - heart health
+  - heart-health
+primaryKeyword: frequent urination at night and heart problems
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - how-frequent-urination-at-night-could-signal-heart-problems
+  - how-sleep-affects-heart-health-after-50
+  - is-your-posture-affecting-your-heart-what-older-adults-should-know
+  - can-hearing-loss-be-an-early-sign-of-heart-disease
+  - how-retirement-changes-affect-heart-health
 ---
 
 # How Frequent Urination at Night May Signal Heart Problems

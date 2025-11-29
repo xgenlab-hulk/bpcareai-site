@@ -1,14 +1,22 @@
 ---
-title: "How Vision Changes Might Be Linked to Heart Disease"
-slug: "how-vision-changes-might-be-linked-to-heart-disease"
-description: "Discover how retinal blood vessel damage can reflect broader cardiovascular health issues."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["vision changes and heart disease connection", "heart disease", "heart-health"]
-primaryKeyword: "vision changes and heart disease connection"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["diabetes-and-vision-changes-what-seniors-need-to-know"]
+title: How Vision Changes Might Be Linked to Heart Disease
+slug: how-vision-changes-might-be-linked-to-heart-disease
+description: >-
+  Discover how retinal blood vessel damage can reflect broader cardiovascular
+  health issues.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - vision changes and heart disease connection
+  - heart disease
+  - heart-health
+primaryKeyword: vision changes and heart disease connection
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - diabetes-and-vision-changes-what-seniors-need-to-know
+  - can-hearing-loss-be-an-early-sign-of-heart-disease
+  - how-frequent-urination-at-night-could-signal-heart-problems
 ---
 
 # How Vision Changes Might Signal Heart Disease: Understanding the Connection

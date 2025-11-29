@@ -12,6 +12,8 @@
     "build:embeddings:force": "tsx scripts/build-embeddings.ts --force",
     "backfill:links": "tsx scripts/backfill-related-links.ts",
     "update:links": "tsx scripts/update-internal-links.ts",
+    "optimize:links": "tsx scripts/optimize-internal-links.ts",
+    "analyze:links": "tsx scripts/analyze-internal-links.ts",
     "debug:topic-similarity": "tsx scripts/check-topic-similarity.ts",
     "generate:topics": "tsx scripts/generate-topics.ts",
     "generate:topics:ai": "tsx scripts/generate-topics-from-prompt.ts",

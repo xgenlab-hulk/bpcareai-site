@@ -35,31 +35,35 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      # 4. 运行 internal linking 更新脚本
-      - name: Update internal links
-        run: npm run update:links
+      # 4. 运行智能内链优化脚本（全量优化模式）
+      - name: Optimize internal links
+        run: npm run optimize:links
 
       # 5. 重建文章索引
       - name: Rebuild articles index
         run: npm run build:articles-index
 
-      # 6. 检查是否有文件变更
+      # 6. 生成内链健康报告
+      - name: Generate health report
+        run: npm run analyze:links
+
+      # 7. 检查是否有文件变更
       - name: Check for changes
         id: git-check
         run: |
           git diff --exit-code content/articles/*.md data/articles-index.json || echo "has_changes=true" >> $GITHUB_OUTPUT
 
-      # 7. 提交并推送变更（如果有）
+      # 8. 提交并推送变更（如果有）
       - name: Commit and push changes
         if: steps.git-check.outputs.has_changes == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add content/articles/*.md data/articles-index.json
-          git commit -m "chore: weekly internal linking update [skip ci]"
+          git add content/articles/*.md data/articles-index.json internal-links-health-report.md
+          git commit -m "chore: weekly internal linking optimization [skip ci]"
           git push
 
-      # 8. 无变更时的日志
+      # 9. 无变更时的日志
       - name: No changes detected
         if: steps.git-check.outputs.has_changes != 'true'
-        run: echo "✅ No changes needed - internal links are up to date"
+        run: echo "✅ No changes needed - internal links are optimized"

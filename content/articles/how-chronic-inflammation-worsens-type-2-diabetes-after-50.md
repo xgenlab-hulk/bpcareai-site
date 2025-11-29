@@ -1,14 +1,24 @@
 ---
-title: "How Chronic Inflammation Worsens Type 2 Diabetes After 50"
-slug: "how-chronic-inflammation-worsens-type-2-diabetes-after-50"
-description: "Learn about the role of systemic inflammation in insulin resistance and ways to reduce it."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["chronic inflammation and type 2 diabetes over 50", "diabetes", "diabetes-risk-factors"]
-primaryKeyword: "chronic inflammation and type 2 diabetes over 50"
-topicCluster: "diabetes-risk-factors"
-image: ""
-relatedSlugs: []
+title: How Chronic Inflammation Worsens Type 2 Diabetes After 50
+slug: how-chronic-inflammation-worsens-type-2-diabetes-after-50
+description: >-
+  Learn about the role of systemic inflammation in insulin resistance and ways
+  to reduce it.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - chronic inflammation and type 2 diabetes over 50
+  - diabetes
+  - diabetes-risk-factors
+primaryKeyword: chronic inflammation and type 2 diabetes over 50
+topicCluster: diabetes-risk-factors
+image: ''
+relatedSlugs:
+  - how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - meal-timing-strategies-for-better-blood-sugar-control-after-50
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
 ---
 
 # How Chronic Inflammation and Type 2 Diabetes Over 50 Are Connected

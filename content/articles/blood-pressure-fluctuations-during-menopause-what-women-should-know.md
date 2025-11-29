@@ -16,6 +16,8 @@ image: ''
 relatedSlugs:
   - blood-pressure-changes-during-menopause-what-women-should-know
   - how-menopause-affects-heart-disease-risk-in-women
+  - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
+  - can-cold-weather-raise-your-blood-pressure
 ---
 
 # Understanding Blood Pressure Changes During Menopause: What Women Need to Know

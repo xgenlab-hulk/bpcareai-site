@@ -1,14 +1,24 @@
 ---
-title: "How Social Isolation Impacts Heart Disease Risk in Older Adults"
-slug: "how-social-isolation-impacts-heart-disease-risk-in-older-adults"
-description: "Learn how loneliness and lack of social connections can negatively affect cardiovascular health."
-date: "2025-11-29"
-updated: "2025-11-29"
-tags: ["social isolation and heart disease in seniors", "heart disease", "hypertension-lifestyle"]
-primaryKeyword: "social isolation and heart disease in seniors"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["how-social-isolation-increases-heart-disease-risk-after-60", "how-pets-support-heart-health-in-older-adults"]
+title: How Social Isolation Impacts Heart Disease Risk in Older Adults
+slug: how-social-isolation-impacts-heart-disease-risk-in-older-adults
+description: >-
+  Learn how loneliness and lack of social connections can negatively affect
+  cardiovascular health.
+date: '2025-11-29'
+updated: '2025-11-29'
+tags:
+  - social isolation and heart disease in seniors
+  - heart disease
+  - hypertension-lifestyle
+primaryKeyword: social isolation and heart disease in seniors
+topicCluster: hypertension-lifestyle
+image: ''
+relatedSlugs:
+  - how-social-isolation-increases-heart-disease-risk-after-60
+  - how-pets-support-heart-health-in-older-adults
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - how-chronic-stress-contributes-to-high-blood-pressure-over-time
+  - the-hidden-link-between-gum-disease-and-heart-problems
 ---
 
 # How Social Isolation and Heart Disease in Seniors Are Connected

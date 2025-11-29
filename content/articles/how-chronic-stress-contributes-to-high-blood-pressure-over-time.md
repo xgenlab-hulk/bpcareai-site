@@ -1,14 +1,24 @@
 ---
-title: "How Chronic Stress Contributes to High Blood Pressure Over Time"
-slug: "how-chronic-stress-contributes-to-high-blood-pressure-over-time"
-description: "Explore the long-term effects of stress on the cardiovascular system and practical ways to reduce its impact."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["chronic stress and high blood pressure aging", "blood pressure", "hypertension-lifestyle"]
-primaryKeyword: "chronic stress and high blood pressure aging"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: []
+title: How Chronic Stress Contributes to High Blood Pressure Over Time
+slug: how-chronic-stress-contributes-to-high-blood-pressure-over-time
+description: >-
+  Explore the long-term effects of stress on the cardiovascular system and
+  practical ways to reduce its impact.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - chronic stress and high blood pressure aging
+  - blood pressure
+  - hypertension-lifestyle
+primaryKeyword: chronic stress and high blood pressure aging
+topicCluster: hypertension-lifestyle
+image: ''
+relatedSlugs:
+  - does-caffeine-raise-blood-pressure-after-age-60
+  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
 ---
 
 # How Chronic Stress and High Blood Pressure Aging Are Connected

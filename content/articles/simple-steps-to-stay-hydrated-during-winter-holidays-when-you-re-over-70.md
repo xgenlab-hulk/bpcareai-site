@@ -15,6 +15,10 @@ topicCluster: hydration-nutrition
 image: ''
 relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - can-drinking-too-much-water-raise-blood-pressure
 ---
 
 # Staying Hydrated in Winter for Seniors: Simple, Everyday Tips

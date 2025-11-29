@@ -1,14 +1,22 @@
 ---
-title: "Can Hearing Loss Be an Early Sign of Heart Disease?"
-slug: "can-hearing-loss-be-an-early-sign-of-heart-disease"
-description: "Review evidence suggesting poor circulation may affect both auditory function and heart health."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["hearing loss as early sign of heart disease", "heart disease", "heart-health"]
-primaryKeyword: "hearing loss as early sign of heart disease"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: []
+title: Can Hearing Loss Be an Early Sign of Heart Disease?
+slug: can-hearing-loss-be-an-early-sign-of-heart-disease
+description: >-
+  Review evidence suggesting poor circulation may affect both auditory function
+  and heart health.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - hearing loss as early sign of heart disease
+  - heart disease
+  - heart-health
+primaryKeyword: hearing loss as early sign of heart disease
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - is-your-posture-affecting-your-heart-what-older-adults-should-know
+  - how-vision-changes-might-be-linked-to-heart-disease
+  - the-connection-between-frequent-urination-at-night-and-heart-health
 ---
 
 # Could Hearing Loss Be an Early Sign of Heart Disease?

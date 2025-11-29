@@ -15,6 +15,10 @@ topicCluster: blood-pressure-basics
 image: ''
 relatedSlugs:
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - should-you-adjust-your-blood-pressure-goals-in-winter
+  - why-blood-pressure-matters-even-if-you-feel-fine
 ---
 
 # Understanding Low Blood Pressure Risks in Seniors

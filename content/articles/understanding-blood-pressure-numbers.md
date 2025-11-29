@@ -1,14 +1,23 @@
 ---
-title: "Understanding Your Blood Pressure Numbers"
-slug: "understanding-blood-pressure-numbers"
-description: "What do systolic and diastolic mean? A simple guide to reading your blood pressure and understanding what the numbers really tell you."
-date: "2024-11-15"
-updated: "2024-11-15"
-tags: ["blood pressure", "basics", "education"]
-primaryKeyword: "blood pressure numbers"
-topicCluster: "blood-pressure-basics"
-image: ""
-relatedSlugs: ["when-to-worry-about-high-readings", "heart-rate-variability-explained"]
+title: Understanding Your Blood Pressure Numbers
+slug: understanding-blood-pressure-numbers
+description: >-
+  What do systolic and diastolic mean? A simple guide to reading your blood
+  pressure and understanding what the numbers really tell you.
+date: '2024-11-15'
+updated: '2024-11-15'
+tags:
+  - blood pressure
+  - basics
+  - education
+primaryKeyword: blood pressure numbers
+topicCluster: blood-pressure-basics
+image: ''
+relatedSlugs:
+  - when-to-worry-about-high-readings
+  - heart-rate-variability-explained
+  - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
+  - how-walking-speed-can-reflect-heart-health-and-blood-pressure
 ---
 
 # Understanding Your Blood Pressure Numbers

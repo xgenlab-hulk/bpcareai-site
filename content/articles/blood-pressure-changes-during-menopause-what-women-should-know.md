@@ -16,6 +16,9 @@ image: ''
 relatedSlugs:
   - blood-pressure-fluctuations-during-menopause-what-women-should-know
   - how-menopause-affects-heart-disease-risk-in-women
+  - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
+  - can-cold-weather-raise-your-blood-pressure
+  - the-role-of-potassium-in-managing-blood-pressure-after-50
 ---
 
 # Understanding Menopause and Blood Pressure Changes: A Guide for Women Over 50

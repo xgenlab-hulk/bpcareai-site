@@ -15,6 +15,10 @@ topicCluster: cardiovascular-risk
 image: ''
 relatedSlugs:
   - how-sleep-affects-heart-health-after-50
+  - the-link-between-sleep-apnea-and-high-blood-pressure
+  - why-blood-pressure-matters-even-if-you-feel-fine
+  - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
 ---
 
 # Understanding the Connection Between Sleep Apnea and High Blood Pressure After 50

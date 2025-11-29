@@ -1,14 +1,24 @@
 ---
-title: "Heart Disease in Hispanic Adults Over 50: Unique Risk Factors"
-slug: "heart-disease-in-hispanic-adults-over-50-unique-risk-factors"
-description: "Explore cultural, genetic, and lifestyle factors that contribute to higher heart disease rates in this population."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["heart disease in Hispanic adults over 50", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "heart disease in Hispanic adults over 50"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: []
+title: 'Heart Disease in Hispanic Adults Over 50: Unique Risk Factors'
+slug: heart-disease-in-hispanic-adults-over-50-unique-risk-factors
+description: >-
+  Explore cultural, genetic, and lifestyle factors that contribute to higher
+  heart disease rates in this population.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - heart disease in Hispanic adults over 50
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: heart disease in Hispanic adults over 50
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
+  - how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
 ---
 
 # Understanding Heart Disease in Hispanic Adults Over 50

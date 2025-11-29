@@ -1,14 +1,24 @@
 ---
-title: "Best Supplements for Blood Sugar Support After 50"
-slug: "best-supplements-for-blood-sugar-support-after-50"
-description: "Review evidence-based supplements like magnesium and berberine that may aid glucose regulation."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["blood sugar supplements for adults over 50", "diabetes", "diabetes-nutrition"]
-primaryKeyword: "blood sugar supplements for adults over 50"
-topicCluster: "diabetes-nutrition"
-image: ""
-relatedSlugs: []
+title: Best Supplements for Blood Sugar Support After 50
+slug: best-supplements-for-blood-sugar-support-after-50
+description: >-
+  Review evidence-based supplements like magnesium and berberine that may aid
+  glucose regulation.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - blood sugar supplements for adults over 50
+  - diabetes
+  - diabetes-nutrition
+primaryKeyword: blood sugar supplements for adults over 50
+topicCluster: diabetes-nutrition
+image: ''
+relatedSlugs:
+  - best-fruits-for-diabetics-over-50-and-which-to-limit
+  - meal-timing-strategies-for-better-blood-sugar-control-after-50
+  - the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
 ---
 
 # Best Blood Sugar Supplements for Adults Over 50: What Really Works

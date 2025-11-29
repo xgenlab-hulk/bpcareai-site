@@ -15,6 +15,10 @@ topicCluster: cardiovascular-risk
 image: ''
 relatedSlugs:
   - is-low-blood-pressure-dangerous-for-seniors
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - can-drinking-too-much-water-raise-blood-pressure
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
 ---
 
 # How Standing Up Fast and Blood Pressure Drop Affects Older Adults

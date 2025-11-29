@@ -1,14 +1,24 @@
 ---
-title: "How Retirement Changes Affect Heart Health"
-slug: "how-retirement-changes-affect-heart-health"
-description: "Explore how shifts in routine, activity, and purpose post-retirement influence cardiovascular wellness."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["retirement lifestyle changes and heart health", "heart health", "heart-health"]
-primaryKeyword: "retirement lifestyle changes and heart health"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: []
+title: How Retirement Changes Affect Heart Health
+slug: how-retirement-changes-affect-heart-health
+description: >-
+  Explore how shifts in routine, activity, and purpose post-retirement influence
+  cardiovascular wellness.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - retirement lifestyle changes and heart health
+  - heart health
+  - heart-health
+primaryKeyword: retirement lifestyle changes and heart health
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - can-gardening-improve-heart-health-after-50
+  - is-your-posture-affecting-your-heart-what-older-adults-should-know
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - is-sitting-too-much-harming-your-heart-after-60
+  - does-laughter-really-protect-your-heart-after-50
 ---
 
 # How Retirement Lifestyle Changes Impact Heart Health

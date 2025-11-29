@@ -15,6 +15,10 @@ topicCluster: cardiovascular-risk
 image: ''
 relatedSlugs:
   - how-poor-dental-hygiene-may-lead-to-heart-disease
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - how-social-isolation-increases-heart-disease-risk-after-60
+  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
 ---
 
 # The Surprising Connection Between Gum Disease and Heart Health

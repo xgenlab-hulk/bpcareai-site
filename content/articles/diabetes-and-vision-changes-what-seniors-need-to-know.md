@@ -15,6 +15,9 @@ topicCluster: diabetes-complications
 image: ''
 relatedSlugs:
   - how-vision-changes-might-be-linked-to-heart-disease
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - understanding-a1c-goals-for-seniors-with-diabetes
 ---
 
 # Understanding Diabetes-Related Vision Changes in Seniors

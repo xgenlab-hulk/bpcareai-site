@@ -1,14 +1,22 @@
 ---
-title: "Best Warm Heart-Healthy Soups for Seniors with High Cholesterol"
-slug: "best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol"
-description: "Provides recipes and nutritional insights into warming soups that support heart health without raising cholesterol levels."
-date: "2025-11-29"
-updated: "2025-11-29"
-tags: ["heart-healthy winter soups", "winter heart health for seniors", "cardiac-diet"]
-primaryKeyword: "heart-healthy winter soups"
-topicCluster: "cardiac-diet"
-image: ""
-relatedSlugs: []
+title: Best Warm Heart-Healthy Soups for Seniors with High Cholesterol
+slug: best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol
+description: >-
+  Provides recipes and nutritional insights into warming soups that support
+  heart health without raising cholesterol levels.
+date: '2025-11-29'
+updated: '2025-11-29'
+tags:
+  - heart-healthy winter soups
+  - winter heart health for seniors
+  - cardiac-diet
+primaryKeyword: heart-healthy winter soups
+topicCluster: cardiac-diet
+image: ''
+relatedSlugs:
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
 ---
 
 # Warm & Wholesome: The Best Heart-Healthy Winter Soups for Seniors with High Cholesterol

@@ -1,14 +1,22 @@
 ---
-title: "Best High-Fiber Sides for Family Dinners That Everyone Will Actually Eat"
-slug: "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat"
-description: "Highlights fiber-rich, crowd-pleasing dishes that support digestive and metabolic health without sacrificing taste or tradition."
-date: "2025-11-29"
-updated: "2025-11-29"
-tags: ["high-fiber family side dishes", "healthy eating during family gatherings", "nutritious-recipes"]
-primaryKeyword: "high-fiber family side dishes"
-topicCluster: "nutritious-recipes"
-image: ""
-relatedSlugs: []
+title: Best High-Fiber Sides for Family Dinners That Everyone Will Actually Eat
+slug: best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
+description: >-
+  Highlights fiber-rich, crowd-pleasing dishes that support digestive and
+  metabolic health without sacrificing taste or tradition.
+date: '2025-11-29'
+updated: '2025-11-29'
+tags:
+  - high-fiber family side dishes
+  - healthy eating during family gatherings
+  - nutritious-recipes
+primaryKeyword: high-fiber family side dishes
+topicCluster: nutritious-recipes
+image: ''
+relatedSlugs:
+  - the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households
+  - best-fruits-for-diabetics-over-50-and-which-to-limit
 ---
 
 # Best High-Fiber Family Side Dishes That Are Nutritious, Delicious, and Actually Get Eaten

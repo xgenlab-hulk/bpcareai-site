@@ -1,14 +1,24 @@
 ---
-title: "Healthy Carbohydrate Choices for Diabetics in Their 60s and 70s"
-slug: "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s"
-description: "Choose smart carbs that provide energy without causing spikes in blood glucose."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["healthy carbs for older adults with diabetes", "diabetes", "diabetes-nutrition"]
-primaryKeyword: "healthy carbs for older adults with diabetes"
-topicCluster: "diabetes-nutrition"
-image: ""
-relatedSlugs: []
+title: Healthy Carbohydrate Choices for Diabetics in Their 60s and 70s
+slug: healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+description: >-
+  Choose smart carbs that provide energy without causing spikes in blood
+  glucose.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - healthy carbs for older adults with diabetes
+  - diabetes
+  - diabetes-nutrition
+primaryKeyword: healthy carbs for older adults with diabetes
+topicCluster: diabetes-nutrition
+image: ''
+relatedSlugs:
+  - best-fruits-for-diabetics-over-50-and-which-to-limit
+  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
+  - understanding-a1c-goals-for-seniors-with-diabetes
+  - best-supplements-for-blood-sugar-support-after-50
+  - the-role-of-fiber-in-controlling-blood-sugar-after-50
 ---
 
 # Smart Carbohydrate Choices: Healthy Carbs for Older Adults with Diabetes

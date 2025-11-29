@@ -8,6 +8,10 @@ import { generateArticleMarkdown } from '../lib/llm/qwen-articles';
 import { slugify } from '../lib/utils/slugify';
 import { findSimilarArticlesForTopic } from '../lib/embeddings/similarity';
 import { addEmbeddingForNewArticle } from '../lib/embeddings/incremental';
+import {
+  addBidirectionalLinkSmart,
+  loadArticleEmbeddings,
+} from '../lib/embeddings/internal-linking';
 
 /**
  * 打印使用说明
@@ -139,28 +143,53 @@ async function main() {
       // 生成文章
       const article = await generateArticleMarkdown(topic);
 
-      // 自动查找并填充相关文章（基于 embeddings 相似度）
+      // 智能内链：确保3-5个相关文章
       try {
         const similarArticles = await findSimilarArticlesForTopic({
           title: topic.title,
           description: topic.description,
           primaryKeyword: topic.primaryKeyword,
-          topK: 3,
-          minSimilarity: 0.6,
+          topK: 5,              // 提高到5个
+          minSimilarity: 0.5,   // 降低阈值，保证能找到足够文章
         });
 
-        if (similarArticles.length > 0) {
-          article.frontmatter.relatedSlugs = similarArticles.map(a => a.slug);
-          console.log(`   🔗 Found ${similarArticles.length} related articles:`);
-          similarArticles.forEach(a => {
-            console.log(`      - ${a.slug} (similarity: ${a.similarity.toFixed(3)})`);
-          });
+        // 确保至少3个，最多5个
+        const selectedArticles = similarArticles.slice(0, Math.max(3, Math.min(5, similarArticles.length)));
+
+        if (selectedArticles.length > 0) {
+          article.frontmatter.relatedSlugs = selectedArticles.map(a => a.slug);
+          console.log(`   🔗 Found ${selectedArticles.length} related articles`);
+
+          // 智能双向连接
+          const allEmbeddings = loadArticleEmbeddings();
+          let bidirectionalCount = 0;
+
+          for (const oldArticle of selectedArticles) {
+            try {
+              const success = addBidirectionalLinkSmart(
+                oldArticle.slug,
+                article.slug,
+                allEmbeddings,
+                5 // 最大链接数
+              );
+              if (success) {
+                bidirectionalCount++;
+              }
+            } catch (reverseError) {
+              // 忽略双向链接失败
+            }
+          }
+
+          if (bidirectionalCount > 0) {
+            console.log(`   ↔️  Bidirectional links: ${bidirectionalCount}/${selectedArticles.length}`);
+          }
         } else {
-          console.log(`   ℹ️  No similar articles found (threshold: 0.6)`);
+          console.warn(`   ⚠️  No similar articles found, using fallback`);
+          article.frontmatter.relatedSlugs = [];
         }
       } catch (linkError) {
-        // 如果相似度计算失败，不影响文章生成（relatedSlugs 保持为空数组）
         console.warn(`   ⚠️  Failed to calculate related articles: ${linkError instanceof Error ? linkError.message : String(linkError)}`);
+        article.frontmatter.relatedSlugs = [];
       }
 
       // 写入 Markdown 文件

@@ -15,6 +15,9 @@ topicCluster: diabetes-nutrition
 image: ''
 relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - best-supplements-for-blood-sugar-support-after-50
+  - the-role-of-fiber-in-controlling-blood-sugar-after-50
 ---
 
 # Understanding Artificial Sweeteners and Insulin Response in Elderly Diabetics

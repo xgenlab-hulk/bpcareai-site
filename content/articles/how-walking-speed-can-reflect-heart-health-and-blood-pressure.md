@@ -1,14 +1,24 @@
 ---
-title: "How Walking Speed Can Reflect Heart Health and Blood Pressure"
-slug: "how-walking-speed-can-reflect-heart-health-and-blood-pressure"
-description: "Find out how your daily walking pace may be an indicator of cardiovascular fitness and blood pressure control."
-date: "2025-11-26"
-updated: "2025-11-26"
-tags: ["walking speed and blood pressure correlation", "blood pressure", "heart-health"]
-primaryKeyword: "walking speed and blood pressure correlation"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: []
+title: How Walking Speed Can Reflect Heart Health and Blood Pressure
+slug: how-walking-speed-can-reflect-heart-health-and-blood-pressure
+description: >-
+  Find out how your daily walking pace may be an indicator of cardiovascular
+  fitness and blood pressure control.
+date: '2025-11-26'
+updated: '2025-11-26'
+tags:
+  - walking speed and blood pressure correlation
+  - blood pressure
+  - heart-health
+primaryKeyword: walking speed and blood pressure correlation
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - can-hearing-loss-be-an-early-sign-of-heart-disease
+  - how-retirement-changes-affect-heart-health
+  - is-your-posture-affecting-your-heart-what-older-adults-should-know
+  - heart-rate-variability-explained
+  - how-vision-changes-might-be-linked-to-heart-disease
 ---
 
 # How Your Walking Speed May Reveal Clues About Heart Health and Blood Pressure

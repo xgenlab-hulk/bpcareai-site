@@ -1,14 +1,24 @@
 ---
-title: "Is Sitting Too Much Harming Your Heart After 60?"
-slug: "is-sitting-too-much-harming-your-heart-after-60"
-description: "Understand how prolonged sitting impacts heart health and what simple changes can reduce risks."
-date: "2025-11-29"
-updated: "2025-11-29"
-tags: ["sedentary lifestyle and heart health after 60", "heart health", "cardiovascular-risk"]
-primaryKeyword: "sedentary lifestyle and heart health after 60"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["how-social-isolation-increases-heart-disease-risk-after-60"]
+title: Is Sitting Too Much Harming Your Heart After 60?
+slug: is-sitting-too-much-harming-your-heart-after-60
+description: >-
+  Understand how prolonged sitting impacts heart health and what simple changes
+  can reduce risks.
+date: '2025-11-29'
+updated: '2025-11-29'
+tags:
+  - sedentary lifestyle and heart health after 60
+  - heart health
+  - cardiovascular-risk
+primaryKeyword: sedentary lifestyle and heart health after 60
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - how-social-isolation-increases-heart-disease-risk-after-60
+  - can-strength-training-lower-heart-disease-risk-after-60
+  - how-retirement-changes-affect-heart-health
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - how-menopause-affects-heart-disease-risk-in-women
 ---
 
 # How a Sedentary Lifestyle and Heart Health After 60 Are Connected

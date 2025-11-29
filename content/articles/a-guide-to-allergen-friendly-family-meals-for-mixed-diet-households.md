@@ -1,14 +1,22 @@
 ---
-title: "A Guide to Allergen-Friendly Family Meals for Mixed-Diet Households"
-slug: "a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households"
-description: "Helps hosts accommodate guests with allergies or intolerances while still maintaining a cohesive, enjoyable meal experience."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["allergen-friendly family gatherings", "healthy eating during family gatherings", "inclusive-dining"]
-primaryKeyword: "allergen-friendly family gatherings"
-topicCluster: "inclusive-dining"
-image: ""
-relatedSlugs: []
+title: A Guide to Allergen-Friendly Family Meals for Mixed-Diet Households
+slug: a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households
+description: >-
+  Helps hosts accommodate guests with allergies or intolerances while still
+  maintaining a cohesive, enjoyable meal experience.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - allergen-friendly family gatherings
+  - healthy eating during family gatherings
+  - inclusive-dining
+primaryKeyword: allergen-friendly family gatherings
+topicCluster: inclusive-dining
+image: ''
+relatedSlugs:
+  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 
 # A Guide to Allergen-Friendly Family Gatherings for Mixed-Diet Households

@@ -1,14 +1,24 @@
 ---
-title: "Why Your Fasting Blood Sugar Rises During the Holidays (And What to Do)"
-slug: "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do"
-description: "Explores stress, sleep disruption, and dietary changes as hidden causes of elevated morning glucose during Christmas and New Year celebrations."
-date: "2025-11-29"
-updated: "2025-11-29"
-tags: ["high fasting blood sugar holidays", "managing blood sugar during Christmas and New Year", "causes-risk-factors"]
-primaryKeyword: "high fasting blood sugar holidays"
-topicCluster: "causes-risk-factors"
-image: ""
-relatedSlugs: []
+title: Why Your Fasting Blood Sugar Rises During the Holidays (And What to Do)
+slug: why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+description: >-
+  Explores stress, sleep disruption, and dietary changes as hidden causes of
+  elevated morning glucose during Christmas and New Year celebrations.
+date: '2025-11-29'
+updated: '2025-11-29'
+tags:
+  - high fasting blood sugar holidays
+  - managing blood sugar during Christmas and New Year
+  - causes-risk-factors
+primaryKeyword: high fasting blood sugar holidays
+topicCluster: causes-risk-factors
+image: ''
+relatedSlugs:
+  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
+  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 
 # Why High Fasting Blood Sugar Happens During the Holidays (And How to Manage It)

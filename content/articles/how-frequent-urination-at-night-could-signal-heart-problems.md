@@ -15,6 +15,10 @@ topicCluster: heart-health
 image: ''
 relatedSlugs:
   - the-connection-between-frequent-urination-at-night-and-heart-health
+  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
+  - how-vision-changes-might-be-linked-to-heart-disease
+  - how-retirement-changes-affect-heart-health
+  - heart-disease-warning-signs-that-appear-years-in-advance
 ---
 
 # How Frequent Urination at Night and Heart Disease Are Connected

@@ -1,14 +1,24 @@
 ---
-title: "Why Winter Increases Heart Attack Risk in Seniors Over 70"
-slug: "why-winter-increases-heart-attack-risk-in-seniors-over-70"
-description: "Explores the physiological reasons cold weather raises heart attack risk, especially in older adults with preexisting conditions."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["winter heart attack risk seniors", "winter heart health for seniors", "seasonal-risk-factors"]
-primaryKeyword: "winter heart attack risk seniors"
-topicCluster: "seasonal-risk-factors"
-image: ""
-relatedSlugs: ["how-does-cold-weather-affect-blood-pressure-in-older-adults"]
+title: Why Winter Increases Heart Attack Risk in Seniors Over 70
+slug: why-winter-increases-heart-attack-risk-in-seniors-over-70
+description: >-
+  Explores the physiological reasons cold weather raises heart attack risk,
+  especially in older adults with preexisting conditions.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - winter heart attack risk seniors
+  - winter heart health for seniors
+  - seasonal-risk-factors
+primaryKeyword: winter heart attack risk seniors
+topicCluster: seasonal-risk-factors
+image: ''
+relatedSlugs:
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
+  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
 ---
 
 # Why Winter Heart Attack Risk Is Higher for Seniors Over 70
