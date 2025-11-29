@@ -1,12 +1,12 @@
 /**
  * Admin Layout
- * Independent root layout for admin pages
- * Does NOT include the public website Header/Footer
- * This layout replaces the root layout for all /admin/* routes
+ * 响应式后台布局，支持桌面端可收起侧边栏和移动端抽屉
  */
 import { Inter } from 'next/font/google';
 import '../globals.css';
 import { AdminSidebar } from '@/components/admin/AdminSidebar';
+import { AdminHeader } from '@/components/admin/AdminHeader';
+import { AdminLayoutProvider } from '@/components/admin/AdminLayoutProvider';
 import { SessionProvider } from '@/components/providers/SessionProvider';
 import { auth } from '@/lib/auth';
 import { redirect } from 'next/navigation';
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     default: 'Admin Panel | BPCare AI',
   },
   robots: {
-    index: false,  // Never index admin pages
+    index: false, // Never index admin pages
     follow: false,
   },
 };
@@ -47,35 +47,23 @@ export default async function AdminLayout({
     <html lang="en" className={inter.variable}>
       <body className={`${inter.className} antialiased`}>
         <SessionProvider>
-          <div className="flex h-screen overflow-hidden bg-gray-100">
-            {/* Sidebar */}
-            <AdminSidebar />
+          <AdminLayoutProvider>
+            <div className="flex h-screen overflow-hidden bg-gray-100">
+              {/* Sidebar - 响应式侧边栏 */}
+              <AdminSidebar />
 
-            {/* Main Content Area */}
-            <div className="flex flex-1 flex-col overflow-hidden">
-              {/* Top Bar */}
-              <header className="bg-white shadow-sm">
-                <div className="flex h-16 items-center justify-between px-6">
-                  <h2 className="text-lg font-semibold text-gray-800">
-                    Admin Panel
-                  </h2>
-                  <div className="text-sm text-gray-500">
-                    {new Date().toLocaleDateString('en-US', {
-                      weekday: 'long',
-                      year: 'numeric',
-                      month: 'long',
-                      day: 'numeric',
-                    })}
-                  </div>
-                </div>
-              </header>
+              {/* Main Content Area */}
+              <div className="flex flex-1 flex-col overflow-hidden">
+                {/* Top Bar - 包含菜单控制按钮 */}
+                <AdminHeader />
 
-              {/* Page Content */}
-              <main className="flex-1 overflow-y-auto p-6">
-                {children}
-              </main>
+                {/* Page Content */}
+                <main className="flex-1 overflow-y-auto p-4 md:p-6">
+                  {children}
+                </main>
+              </div>
             </div>
-          </div>
+          </AdminLayoutProvider>
         </SessionProvider>
         <Analytics />
         <SpeedInsights />
