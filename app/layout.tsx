@@ -1,9 +1,6 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
-import MobileCTABar from '@/components/MobileCTABar';
 import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 
@@ -84,13 +81,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={inter.variable}>
-      <body className={`${inter.className} antialiased min-h-screen flex flex-col`}>
-        <Header />
-        <main className="flex-1 pb-20 md:pb-0">
-          {children}
-        </main>
-        <Footer />
-        <MobileCTABar />
+      <body className={`${inter.className} antialiased`}>
+        {children}
         <Analytics />
         <SpeedInsights />
       </body>
