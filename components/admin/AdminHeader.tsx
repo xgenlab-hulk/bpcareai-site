@@ -2,13 +2,13 @@
 
 /**
  * Admin Header
- * 顶部栏，包含汉堡菜单按钮和收起/展开按钮
+ * 顶部栏，包含汉堡菜单按钮（移动端）
  */
-import { Menu, ChevronLeft, ChevronRight } from 'lucide-react';
+import { Menu } from 'lucide-react';
 import { useAdminLayout } from './AdminLayoutProvider';
 
 export function AdminHeader() {
-  const { sidebarCollapsed, toggleSidebar, toggleMobileMenu } = useAdminLayout();
+  const { toggleMobileMenu } = useAdminLayout();
 
   return (
     <header className="bg-white shadow-sm">
@@ -21,19 +21,6 @@ export function AdminHeader() {
             aria-label="Open menu"
           >
             <Menu className="h-6 w-6 text-gray-700" />
-          </button>
-
-          {/* 桌面端收起/展开按钮 */}
-          <button
-            onClick={toggleSidebar}
-            className="hidden md:flex rounded-lg p-2 hover:bg-gray-100 transition-colors"
-            aria-label={sidebarCollapsed ? 'Expand sidebar' : 'Collapse sidebar'}
-          >
-            {sidebarCollapsed ? (
-              <ChevronRight className="h-5 w-5 text-gray-700" />
-            ) : (
-              <ChevronLeft className="h-5 w-5 text-gray-700" />
-            )}
           </button>
 
           <h2 className="text-lg font-semibold text-gray-800">Admin Panel</h2>

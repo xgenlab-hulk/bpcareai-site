@@ -12,10 +12,11 @@ import {
   FileText,
   Tag,
   BarChart3,
-  Settings,
   LogOut,
   Clock,
   X,
+  ChevronLeft,
+  ChevronRight,
 } from 'lucide-react';
 import { signOut } from 'next-auth/react';
 import { useAdminLayout } from './AdminLayoutProvider';
@@ -46,16 +47,11 @@ const navigationItems = [
     href: '/admin/seo',
     icon: BarChart3,
   },
-  {
-    name: 'Settings',
-    href: '/admin/settings',
-    icon: Settings,
-  },
 ];
 
 export function AdminSidebar() {
   const pathname = usePathname();
-  const { sidebarCollapsed, mobileMenuOpen, closeMobileMenu } = useAdminLayout();
+  const { sidebarCollapsed, mobileMenuOpen, closeMobileMenu, toggleSidebar } = useAdminLayout();
 
   const handleSignOut = () => {
     signOut({ callbackUrl: '/auth/signin' });
@@ -92,21 +88,42 @@ export function AdminSidebar() {
         )}
       >
         {/* Logo / Header */}
-        <div className="flex h-16 items-center justify-center border-b border-gray-800 px-4">
+        <div className="flex h-16 items-center border-b border-gray-800 px-4">
           {sidebarCollapsed ? (
-            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-blue-600 text-lg font-bold">
-              B
+            <div className="flex w-full flex-col items-center justify-center gap-2">
+              <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-blue-600 text-lg font-bold">
+                B
+              </div>
+              {/* 桌面端展开按钮 */}
+              <button
+                onClick={toggleSidebar}
+                className="hidden md:flex rounded-lg p-1 hover:bg-gray-800 transition-colors"
+                aria-label="Expand sidebar"
+                title="Expand sidebar"
+              >
+                <ChevronRight className="h-4 w-4 text-gray-400" />
+              </button>
             </div>
           ) : (
-            <div className="flex items-center justify-between w-full">
-              <h1 className="text-xl font-bold">BPCare AI Admin</h1>
+            <div className="flex items-center justify-between w-full gap-2">
+              <h1 className="text-xl font-bold text-blue-400 flex-1">BPCare AI Admin</h1>
+
+              {/* 桌面端收起/展开按钮 */}
+              <button
+                onClick={toggleSidebar}
+                className="hidden md:flex rounded-lg p-1.5 hover:bg-gray-800 transition-colors"
+                aria-label={sidebarCollapsed ? 'Expand sidebar' : 'Collapse sidebar'}
+              >
+                <ChevronLeft className="h-5 w-5 text-gray-400" />
+              </button>
+
               {/* 移动端关闭按钮 */}
               <button
                 onClick={closeMobileMenu}
-                className="md:hidden rounded-lg p-1 hover:bg-gray-800"
+                className="md:hidden rounded-lg p-1.5 hover:bg-gray-800 transition-colors"
                 aria-label="Close menu"
               >
-                <X className="h-6 w-6" />
+                <X className="h-5 w-5 text-gray-400" />
               </button>
             </div>
           )}
@@ -116,7 +133,18 @@ export function AdminSidebar() {
         <nav className="flex-1 space-y-1 px-2 py-4 overflow-y-auto">
           {navigationItems.map((item) => {
             const Icon = item.icon;
-            const isActive = pathname === item.href || pathname.startsWith(item.href + '/');
+            const isActive = (() => {
+              if (item.href === '/admin') {
+                // Dashboard: 精确匹配
+                return pathname === '/admin';
+              } else if (item.href === '/admin/topics') {
+                // Topics: 精确匹配，不包括子路径
+                return pathname === '/admin/topics';
+              } else {
+                // 其他页面: 精确匹配或子路径匹配
+                return pathname === item.href || pathname.startsWith(item.href + '/');
+              }
+            })();
 
             return (
               <Link

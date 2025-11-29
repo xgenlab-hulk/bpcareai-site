@@ -48,6 +48,25 @@ export default async function PlannedArticlesPage() {
         />
       </div>
 
+      {/* Topic Distribution */}
+      {groups.length > 0 && (
+        <div className="mb-6 rounded-lg bg-white p-6 shadow">
+          <h2 className="mb-4 text-lg font-semibold text-gray-900">
+            Distribution by Topic Cluster
+          </h2>
+          <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+            {groups.map((group) => (
+              <div key={group.topic} className="flex items-center justify-between">
+                <span className="text-sm text-gray-700">{group.topic}</span>
+                <span className="rounded-full bg-blue-100 px-2.5 py-0.5 text-xs font-medium text-blue-800">
+                  {group.count}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
       {/* Info Box */}
       <div className="mb-6 rounded-lg border border-blue-200 bg-blue-50 p-4">
         <h2 className="mb-2 text-sm font-semibold text-blue-900">
