@@ -16,6 +16,7 @@ image: ''
 relatedSlugs:
   - why-winter-increases-heart-attack-risk-in-seniors-over-70
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - can-cold-weather-raise-your-blood-pressure
 ---
 
 # How Cold Weather Impacts Blood Pressure in Older Adults

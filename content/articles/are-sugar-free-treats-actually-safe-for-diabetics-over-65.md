@@ -1,14 +1,23 @@
 ---
-title: "Are Sugar-Free Treats Actually Safe for Diabetics Over 65?"
-slug: "are-sugar-free-treats-actually-safe-for-diabetics-over-65"
-description: "Analyze the pros and cons of artificial sweeteners in holiday foods for older adults managing blood sugar."
-date: "2025-11-28"
-updated: "2025-11-28"
-tags: ["sugar-free treats safety for seniors", "holiday diabetes management", "diet-nutrition-myths"]
-primaryKeyword: "sugar-free treats safety for seniors"
-topicCluster: "diet-nutrition-myths"
-image: ""
-relatedSlugs: ["the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors"]
+title: Are Sugar-Free Treats Actually Safe for Diabetics Over 65?
+slug: are-sugar-free-treats-actually-safe-for-diabetics-over-65
+description: >-
+  Analyze the pros and cons of artificial sweeteners in holiday foods for older
+  adults managing blood sugar.
+date: '2025-11-28'
+updated: '2025-11-28'
+tags:
+  - sugar-free treats safety for seniors
+  - holiday diabetes management
+  - diet-nutrition-myths
+primaryKeyword: sugar-free treats safety for seniors
+topicCluster: diet-nutrition-myths
+image: ''
+relatedSlugs:
+  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
 ---
 
 # Understanding Sugar-Free Treats Safety for Seniors with Diabetes

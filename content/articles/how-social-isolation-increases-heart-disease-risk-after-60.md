@@ -1,14 +1,21 @@
 ---
-title: "How Social Isolation Increases Heart Disease Risk After 60"
-slug: "how-social-isolation-increases-heart-disease-risk-after-60"
-description: "Understand the powerful link between loneliness and increased chances of heart problems in later life."
-date: "2025-11-27"
-updated: "2025-11-27"
-tags: ["social isolation and heart disease risk after 60", "heart health", "cardiovascular-risk"]
-primaryKeyword: "social isolation and heart disease risk after 60"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: []
+title: How Social Isolation Increases Heart Disease Risk After 60
+slug: how-social-isolation-increases-heart-disease-risk-after-60
+description: >-
+  Understand the powerful link between loneliness and increased chances of heart
+  problems in later life.
+date: '2025-11-27'
+updated: '2025-11-27'
+tags:
+  - social isolation and heart disease risk after 60
+  - heart health
+  - cardiovascular-risk
+primaryKeyword: social isolation and heart disease risk after 60
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - is-sitting-too-much-harming-your-heart-after-60
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
 ---
 
 # How Social Isolation and Heart Disease Risk After 60 Are Connected

@@ -17,6 +17,7 @@ relatedSlugs:
   - how-does-cold-weather-affect-blood-pressure-in-older-adults
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - should-you-adjust-your-blood-pressure-goals-in-winter
+  - can-cold-weather-raise-your-blood-pressure
 ---
 
 # Understanding Winter vs Summer Blood Pressure: What Seniors Should Know
