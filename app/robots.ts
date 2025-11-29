@@ -5,7 +5,12 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: '*',
       allow: '/',
-      disallow: ['/api/', '/private/'],
+      disallow: [
+        '/api/',     // API routes
+        '/admin/',   // Admin panel
+        '/auth/',    // Authentication pages
+        '/private/', // Private content
+      ],
     },
     sitemap: 'https://bpcareai.com/sitemap.xml',
   };
