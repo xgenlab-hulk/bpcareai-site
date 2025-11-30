@@ -17,6 +17,7 @@ relatedSlugs:
   - meal-timing-strategies-for-better-blood-sugar-control-after-50
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 
 # Can Intermittent Fasting for Type 2 Diabetes Over 60 Improve Blood Sugar Control?

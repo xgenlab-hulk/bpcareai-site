@@ -18,6 +18,7 @@ relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 
 # Understanding Sugar-Free Treats Safety for Seniors with Diabetes

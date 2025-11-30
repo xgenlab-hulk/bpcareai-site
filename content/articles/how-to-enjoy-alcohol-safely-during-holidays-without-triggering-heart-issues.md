@@ -18,6 +18,7 @@ relatedSlugs:
     can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # How to Enjoy Alcohol Safely During the Holidays Without Risking Your Heart

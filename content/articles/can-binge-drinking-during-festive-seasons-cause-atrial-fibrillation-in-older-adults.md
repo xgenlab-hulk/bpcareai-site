@@ -20,6 +20,7 @@ relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # Can Binge Drinking Trigger Atrial Fibrillation in Older Adults?

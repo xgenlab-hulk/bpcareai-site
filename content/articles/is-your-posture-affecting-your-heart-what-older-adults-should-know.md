@@ -17,6 +17,8 @@ relatedSlugs:
   - how-retirement-changes-affect-heart-health
   - how-pets-support-heart-health-in-older-adults
   - how-sleep-affects-heart-health-after-50
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - how-air-pollution-impacts-heart-health-in-older-adults
 ---
 
 # How Posture and Heart Health in Seniors Are Connected

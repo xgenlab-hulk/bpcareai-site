@@ -1,5 +1,326 @@
 [
   {
+    "slug": "the-role-of-inflammation-in-heart-disease-for-older-adults",
+    "title": "The Role of Inflammation in Heart Disease for Older Adults",
+    "description": "Learn how chronic inflammation contributes to heart disease and what blood tests and lifestyle changes can help manage it.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "inflammation and heart disease in seniors",
+      "heart disease",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "inflammation and heart disease in seniors",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart",
+      "how-chronic-inflammation-worsens-type-2-diabetes-after-50",
+      "the-hidden-link-between-gum-disease-and-heart-problems",
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "how-pets-support-heart-health-in-older-adults"
+    ]
+  },
+  {
+    "slug": "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults",
+    "title": "The Link Between Holiday Loneliness and Emotional Eating in Older Adults",
+    "description": "Examine how isolation during the holidays contributes to unhealthy eating patterns in seniors and what families can do to help.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "holiday loneliness and emotional eating seniors",
+      "healthy holiday eating for seniors",
+      "emotional-mental-health"
+    ],
+    "primaryKeyword": "holiday loneliness and emotional eating seniors",
+    "topicCluster": "emotional-mental-health",
+    "image": "",
+    "relatedSlugs": [
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity",
+      "how-social-isolation-increases-heart-disease-risk-after-60",
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food"
+    ]
+  },
+  {
+    "slug": "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal",
+    "title": "Quick Ways to Lower High Blood Sugar After a Holiday Meal",
+    "description": "Immediate, safe actions to take if glucose readings spike after indulging during festive dinners.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "lower blood sugar after holiday meal",
+      "holiday diabetes management",
+      "emergency-response-tactics"
+    ],
+    "primaryKeyword": "lower blood sugar after holiday meal",
+    "topicCluster": "emergency-response-tactics",
+    "image": "",
+    "relatedSlugs": [
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+      "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar",
+      "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"
+    ]
+  },
+  {
+    "slug": "how-vitamin-d-deficiency-impacts-heart-health-in-winter",
+    "title": "How Vitamin D Deficiency Impacts Heart Health in Winter",
+    "description": "Find out how seasonal vitamin D drops may increase cardiovascular risks in older adults.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "vitamin d deficiency and heart health winter seniors",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "vitamin d deficiency and heart health winter seniors",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": [
+      "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease",
+      "why-winter-increases-heart-attack-risk-in-seniors-over-70",
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "is-your-posture-affecting-your-heart-what-older-adults-should-know"
+    ]
+  },
+  {
+    "slug": "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors",
+    "title": "How to Host a Holiday Gathering That Accommodates All Dietary Restrictions for Seniors",
+    "description": "A practical checklist for hosting inclusive meals that consider diabetes, heart health, swallowing issues, and allergies without sacrificing joy.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "hosting holiday meals for seniors with dietary restrictions",
+      "healthy holiday eating for seniors",
+      "social-dining-strategies"
+    ],
+    "primaryKeyword": "hosting holiday meals for seniors with dietary restrictions",
+    "topicCluster": "social-dining-strategies",
+    "image": "",
+    "relatedSlugs": [
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households",
+      "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"
+    ]
+  },
+  {
+    "slug": "how-strong-are-your-fingernails-what-it-might-say-about-your-heart",
+    "title": "How Strong Are Your Fingernails? What It Might Say About Your Heart",
+    "description": "Uncover the surprising link between nail health and potential cardiovascular issues in older adults.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "fingernail health and heart disease signs",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "fingernail health and heart disease signs",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": [
+      "the-hidden-link-between-gum-disease-and-heart-problems",
+      "the-connection-between-frequent-urination-at-night-and-heart-health",
+      "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease",
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "how-vitamin-d-deficiency-impacts-heart-health-in-winter"
+    ]
+  },
+  {
+    "slug": "how-obesity-contributes-to-heart-disease-in-middle-age",
+    "title": "How Obesity Contributes to Heart Disease in Middle Age",
+    "description": "Learn the mechanisms linking excess weight to arterial damage and heart strain in people aged 45–65.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "obesity and heart disease in middle age",
+      "heart disease",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "obesity and heart disease in middle age",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": [
+      "how-type-2-diabetes-increases-heart-disease-risk-after-50",
+      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection",
+      "the-hidden-link-between-gum-disease-and-heart-problems",
+      "can-meditation-reduce-heart-disease-risk-after-50",
+      "can-gardening-improve-heart-health-after-50"
+    ]
+  },
+  {
+    "slug": "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity",
+    "title": "How Cold Weather and Holiday Inactivity Combine to Affect Insulin Sensitivity",
+    "description": "Discover how winter conditions and reduced movement during holidays impact insulin response in older diabetics.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "cold weather insulin sensitivity seniors",
+      "holiday diabetes management",
+      "seasonal-physiological-effects"
+    ],
+    "primaryKeyword": "cold weather insulin sensitivity seniors",
+    "topicCluster": "seasonal-physiological-effects",
+    "image": "",
+    "relatedSlugs": [
+      "how-cold-weather-affects-blood-sugar-in-people-with-diabetes",
+      "why-winter-increases-heart-attack-risk-in-seniors-over-70",
+      "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors",
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults",
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food"
+    ]
+  },
+  {
+    "slug": "how-air-pollution-impacts-heart-health-in-older-adults",
+    "title": "How Air Pollution Impacts Heart Health in Older Adults",
+    "description": "Learn how everyday exposure to polluted air increases inflammation and heart strain in seniors.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "air pollution effects on heart health elderly",
+      "heart health",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "air pollution effects on heart health elderly",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "the-role-of-inflammation-in-heart-disease-for-older-adults",
+      "is-your-posture-affecting-your-heart-what-older-adults-should-know",
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "how-pets-support-heart-health-in-older-adults",
+      "the-hidden-link-between-gum-disease-and-heart-problems"
+    ]
+  },
+  {
+    "slug": "heart-disease-symptoms-in-women-over-50-what-s-often-missed",
+    "title": "Heart Disease Symptoms in Women Over 50: What’s Often Missed",
+    "description": "Discover the subtle and atypical signs of heart disease in older women that are frequently overlooked by patients and doctors.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "heart disease symptoms in women over 50",
+      "heart disease",
+      "heart-health"
+    ],
+    "primaryKeyword": "heart disease symptoms in women over 50",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": [
+      "recognizing-silent-heart-attacks-in-diabetics-over-60",
+      "heart-disease-warning-signs-that-appear-years-in-advance"
+    ]
+  },
+  {
+    "slug": "can-walking-after-meals-lower-blood-sugar-in-older-adults",
+    "title": "Can Walking After Meals Lower Blood Sugar in Older Adults?",
+    "description": "See how post-meal walks improve glucose metabolism in people with type 2 diabetes over 50.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "walking after meals for blood sugar control over 50",
+      "diabetes",
+      "diabetes-lifestyle"
+    ],
+    "primaryKeyword": "walking after meals for blood sugar control over 50",
+    "topicCluster": "diabetes-lifestyle",
+    "image": "",
+    "relatedSlugs": [
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+      "meal-timing-strategies-for-better-blood-sugar-control-after-50",
+      "the-role-of-fiber-in-controlling-blood-sugar-after-50",
+      "can-intermittent-fasting-help-manage-type-2-diabetes-after-60",
+      "best-supplements-for-blood-sugar-support-after-50"
+    ]
+  },
+  {
+    "slug": "best-blood-sugar-monitoring-practices-during-the-holiday-season",
+    "title": "Best Blood Sugar Monitoring Practices During the Holiday Season",
+    "description": "Optimize diabetes self-care with tailored testing routines for festive weeks when routines are disrupted.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "holiday blood sugar monitoring tips",
+      "holiday diabetes management",
+      "monitoring-testing-routines"
+    ],
+    "primaryKeyword": "holiday blood sugar monitoring tips",
+    "topicCluster": "monitoring-testing-routines",
+    "image": "",
+    "relatedSlugs": [
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal",
+      "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"
+    ]
+  },
+  {
+    "slug": "7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about",
+    "title": "7 Hidden Sources of Sugar in Family-Favorite Dishes You Should Know About",
+    "description": "Identifies surprising high-sugar foods commonly served at gatherings and suggests lower-sugar alternatives for safer consumption.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "hidden sugar in family foods",
+      "healthy eating during family gatherings",
+      "diabetic-diet"
+    ],
+    "primaryKeyword": "hidden sugar in family foods",
+    "topicCluster": "diabetic-diet",
+    "image": "",
+    "relatedSlugs": [
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "hidden-salt-10-surprising-foods-that-spike-blood-pressure"
+    ]
+  },
+  {
+    "slug": "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+    "title": "7 Hidden Holiday Triggers That Spike Blood Sugar in Seniors with Diabetes",
+    "description": "Explore common but overlooked holiday season factors that can destabilize blood glucose levels in older adults managing diabetes.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "holiday blood sugar triggers seniors",
+      "holiday diabetes management",
+      "risk-factors-prevention"
+    ],
+    "primaryKeyword": "holiday blood sugar triggers seniors",
+    "topicCluster": "risk-factors-prevention",
+    "image": "",
+    "relatedSlugs": [
+      "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity",
+      "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"
+    ]
+  },
+  {
+    "slug": "5-surprising-foods-that-may-trigger-holiday-heart-syndrome",
+    "title": "5 Surprising Foods That May Trigger Holiday Heart Syndrome",
+    "description": "Identify common festive dishes and snacks high in salt, sugar, and stimulants that could provoke arrhythmias in susceptible individuals.",
+    "date": "2025-11-30",
+    "updated": "2025-11-30",
+    "tags": [
+      "festive foods heart rhythm",
+      "holiday heart syndrome prevention",
+      "diet-nutrition"
+    ],
+    "primaryKeyword": "festive foods heart rhythm",
+    "topicCluster": "diet-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
+      "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults"
+    ]
+  },
+  {
     "slug": "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
     "title": "Why Your Fasting Blood Sugar Rises During the Holidays (And What to Do)",
     "description": "Explores stress, sleep disruption, and dietary changes as hidden causes of elevated morning glucose during Christmas and New Year celebrations.",
@@ -102,7 +423,8 @@
     "relatedSlugs": [
       "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults",
       "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
-      "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar"
+      "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar",
+      "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"
     ]
   },
   {
@@ -123,7 +445,8 @@
       "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
       "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
       "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
-      "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure"
+      "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure",
+      "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal"
     ]
   },
   {
@@ -207,7 +530,8 @@
     "relatedSlugs": [
       "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
       "heart-disease-in-hispanic-adults-over-50-unique-risk-factors",
-      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"
     ]
   },
   {
@@ -227,7 +551,9 @@
     "relatedSlugs": [
       "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
       "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
-      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes"
     ]
   },
   {
@@ -287,7 +613,8 @@
     "relatedSlugs": [
       "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
       "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
-      "are-sugar-free-treats-actually-safe-for-diabetics-over-65"
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors"
     ]
   },
   {
@@ -307,7 +634,9 @@
     "relatedSlugs": [
       "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
       "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
-      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal",
+      "7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about"
     ]
   },
   {
@@ -328,7 +657,8 @@
       "how-does-cold-weather-affect-blood-pressure-in-older-adults",
       "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
       "should-you-adjust-your-blood-pressure-goals-in-winter",
-      "can-cold-weather-raise-your-blood-pressure"
+      "can-cold-weather-raise-your-blood-pressure",
+      "how-vitamin-d-deficiency-impacts-heart-health-in-winter"
     ]
   },
   {
@@ -393,7 +723,8 @@
       "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
       "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s",
       "best-supplements-for-blood-sugar-support-after-50",
-      "the-role-of-fiber-in-controlling-blood-sugar-after-50"
+      "the-role-of-fiber-in-controlling-blood-sugar-after-50",
+      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity"
     ]
   },
   {
@@ -560,7 +891,9 @@
     "relatedSlugs": [
       "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
       "is-your-posture-affecting-your-heart-what-older-adults-should-know",
-      "can-gardening-improve-heart-health-after-50"
+      "can-gardening-improve-heart-health-after-50",
+      "the-role-of-inflammation-in-heart-disease-for-older-adults",
+      "how-air-pollution-impacts-heart-health-in-older-adults"
     ]
   },
   {
@@ -581,7 +914,8 @@
       "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart",
       "can-hearing-loss-be-an-early-sign-of-heart-disease",
       "how-frequent-urination-at-night-could-signal-heart-problems",
-      "are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart"
+      "are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart",
+      "heart-disease-symptoms-in-women-over-50-what-s-often-missed"
     ]
   },
   {
@@ -666,7 +1000,8 @@
       "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors",
       "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
       "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
-      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes"
     ]
   },
   {
@@ -686,7 +1021,8 @@
     "relatedSlugs": [
       "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar",
       "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
-      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food"
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+      "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors"
     ]
   },
   {
@@ -790,7 +1126,8 @@
     "relatedSlugs": [
       "the-role-of-fiber-in-controlling-blood-sugar-after-50",
       "best-supplements-for-blood-sugar-support-after-50",
-      "can-intermittent-fasting-help-manage-type-2-diabetes-after-60"
+      "can-intermittent-fasting-help-manage-type-2-diabetes-after-60",
+      "can-walking-after-meals-lower-blood-sugar-in-older-adults"
     ]
   },
   {
@@ -810,7 +1147,9 @@
     "relatedSlugs": [
       "how-retirement-changes-affect-heart-health",
       "how-pets-support-heart-health-in-older-adults",
-      "how-sleep-affects-heart-health-after-50"
+      "how-sleep-affects-heart-health-after-50",
+      "how-vitamin-d-deficiency-impacts-heart-health-in-winter",
+      "how-air-pollution-impacts-heart-health-in-older-adults"
     ]
   },
   {
@@ -1024,7 +1363,8 @@
     "relatedSlugs": [
       "how-menopause-affects-blood-sugar-control-in-women-with-diabetes",
       "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
-      "can-cold-weather-raise-your-blood-pressure"
+      "can-cold-weather-raise-your-blood-pressure",
+      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity"
     ]
   },
   {
@@ -1282,7 +1622,8 @@
     "relatedSlugs": [
       "meal-timing-strategies-for-better-blood-sugar-control-after-50",
       "how-chronic-inflammation-worsens-type-2-diabetes-after-50",
-      "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors"
+      "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors",
+      "can-walking-after-meals-lower-blood-sugar-in-older-adults"
     ]
   },
   {
@@ -1404,7 +1745,8 @@
     "relatedSlugs": [
       "meal-timing-strategies-for-better-blood-sugar-control-after-50",
       "best-fruits-for-diabetics-over-50-and-which-to-limit",
-      "best-supplements-for-blood-sugar-support-after-50"
+      "best-supplements-for-blood-sugar-support-after-50",
+      "can-walking-after-meals-lower-blood-sugar-in-older-adults"
     ]
   },
   {
@@ -1578,7 +1920,8 @@
     "relatedSlugs": [
       "why-winter-increases-heart-attack-risk-in-seniors-over-70",
       "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
-      "can-cold-weather-raise-your-blood-pressure"
+      "can-cold-weather-raise-your-blood-pressure",
+      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity"
     ]
   },
   {

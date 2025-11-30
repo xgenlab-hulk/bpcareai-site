@@ -17,6 +17,7 @@ relatedSlugs:
   - meal-timing-strategies-for-better-blood-sugar-control-after-50
   - best-fruits-for-diabetics-over-50-and-which-to-limit
   - best-supplements-for-blood-sugar-support-after-50
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 
 # The Power of a High Fiber Diet for Blood Sugar Control After 50

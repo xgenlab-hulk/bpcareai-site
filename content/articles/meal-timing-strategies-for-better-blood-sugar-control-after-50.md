@@ -17,6 +17,7 @@ relatedSlugs:
   - the-role-of-fiber-in-controlling-blood-sugar-after-50
   - best-supplements-for-blood-sugar-support-after-50
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 
 # Meal Timing for Blood Sugar Control Over 50: A Simple Guide to Smarter Eating

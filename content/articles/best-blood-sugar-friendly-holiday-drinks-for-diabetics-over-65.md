@@ -1,14 +1,24 @@
 ---
-title: "Best Blood Sugar-Friendly Holiday Drinks for Diabetics Over 65"
-slug: "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"
-description: "Discover non-alcoholic and low-sugar beverage options that support stable glucose levels during festive gatherings for seniors with type 2 diabetes."
-date: "2025-11-29"
-updated: "2025-11-29"
-tags: ["diabetic-friendly holiday drinks over 65", "managing blood sugar during Christmas and New Year", "diabetic-diet-beverages"]
-primaryKeyword: "diabetic-friendly holiday drinks over 65"
-topicCluster: "diabetic-diet-beverages"
-image: ""
-relatedSlugs: ["blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "are-sugar-free-treats-actually-safe-for-diabetics-over-65"]
+title: Best Blood Sugar-Friendly Holiday Drinks for Diabetics Over 65
+slug: best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+description: >-
+  Discover non-alcoholic and low-sugar beverage options that support stable
+  glucose levels during festive gatherings for seniors with type 2 diabetes.
+date: '2025-11-29'
+updated: '2025-11-29'
+tags:
+  - diabetic-friendly holiday drinks over 65
+  - managing blood sugar during Christmas and New Year
+  - diabetic-diet-beverages
+primaryKeyword: diabetic-friendly holiday drinks over 65
+topicCluster: diabetic-diet-beverages
+image: ''
+relatedSlugs:
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # Best Diabetic-Friendly Holiday Drinks Over 65 for a Healthier Festive Season

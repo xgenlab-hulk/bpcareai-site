@@ -17,6 +17,8 @@ relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
 ---
 
 # 5 Smart Low-Sugar Holiday Recipe Swaps That Keep Flavor Without Spiking Glucose

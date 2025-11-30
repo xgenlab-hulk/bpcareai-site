@@ -17,6 +17,8 @@ relatedSlugs:
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - can-cold-weather-raise-your-blood-pressure
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # How Cold Weather and Blood Sugar Changes in Diabetics Are Connected

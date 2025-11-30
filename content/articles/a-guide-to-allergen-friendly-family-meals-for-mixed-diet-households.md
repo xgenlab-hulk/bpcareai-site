@@ -17,6 +17,8 @@ relatedSlugs:
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
   - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # A Guide to Allergen-Friendly Family Gatherings for Mixed-Diet Households
