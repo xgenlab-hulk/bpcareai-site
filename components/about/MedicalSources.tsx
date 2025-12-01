@@ -6,6 +6,7 @@
 
 import { CheckCircle, Award, BookCheck, RefreshCw, Shield, ChevronDown } from 'lucide-react';
 import { useState, useEffect } from 'react';
+import Image from 'next/image';
 
 export function MedicalSources() {
   const [expandedIndex, setExpandedIndex] = useState<number>(-1);
@@ -93,22 +94,22 @@ export function MedicalSources() {
 
   // 16 个医疗机构数据（4x4 网格）
   const sources = [
-    { name: 'American Heart Association', abbr: 'AHA', logo: '/logos/aha.png' },
-    { name: 'National Institutes of Health', abbr: 'NIH', logo: '/logos/nih.png' },
-    { name: 'Mayo Clinic', abbr: 'Mayo', logo: '/logos/mayo.png' },
-    { name: 'CDC', abbr: 'CDC', logo: '/logos/cdc.png' },
-    { name: 'Robert Koch Institute', abbr: 'RKI', logo: '/logos/rki.png' },
-    { name: 'Charité Berlin', abbr: 'Charité', logo: '/logos/charite.png' },
-    { name: 'Institut Pasteur', abbr: 'Pasteur', logo: '/logos/pasteur.png' },
-    { name: 'Inserm', abbr: 'Inserm', logo: '/logos/inserm.png' },
-    { name: 'Saudi Ministry of Health', abbr: 'MOH', logo: '/logos/moh.png' },
-    { name: 'Dubai Health Authority', abbr: 'DHA', logo: '/logos/dha.png' },
-    { name: 'National Institute of Health Japan', abbr: 'NIID', logo: '/logos/niid.png' },
-    { name: 'KCDC', abbr: 'KCDC', logo: '/logos/kcdc.png' },
-    { name: 'Seoul National University Hospital', abbr: 'SNUH', logo: '/logos/snuh.png' },
-    { name: 'World Health Organization', abbr: 'WHO', logo: '/logos/who.png' },
-    { name: 'PubMed', abbr: 'PubMed', logo: '/logos/pubmed.png' },
-    { name: 'Johns Hopkins Medicine', abbr: 'JHM', logo: '/logos/jhm.png' },
+    { name: 'American Heart Association', abbr: 'AHA', logo: '/images/AHA.png' },
+    { name: 'National Institutes of Health', abbr: 'NIH', logo: '/images/NIH.png' },
+    { name: 'Mayo Clinic', abbr: 'Mayo', logo: '/images/MAyo.png' },
+    { name: 'CDC', abbr: 'CDC', logo: '/images/CDC.png' },
+    { name: 'Robert Koch Institute', abbr: 'RKI', logo: '/images/RKI.png' },
+    { name: 'Charité Berlin', abbr: 'Charité', logo: '/images/Charité.png' },
+    { name: 'Institut Pasteur', abbr: 'Pasteur', logo: '/images/Pasteur.png' },
+    { name: 'Inserm', abbr: 'Inserm', logo: '/images/Inserm.png' },
+    { name: 'Saudi Ministry of Health', abbr: 'MOH', logo: '/images/MOH.png' },
+    { name: 'Dubai Health Authority', abbr: 'DHA', logo: '/images/DHA.png' },
+    { name: 'National Institute of Health Japan', abbr: 'NIHS', logo: '/images/NIHS.png' },
+    { name: 'KCDC', abbr: 'KCDC', logo: '/images/KCDC.png' },
+    { name: 'Seoul National University Hospital', abbr: 'SHUN', logo: '/images/SHUN.png' },
+    { name: 'World Health Organization', abbr: 'WHO', logo: '/images/WHO.png' },
+    { name: 'PubMed', abbr: 'PubMed', logo: '/images/PubMed.png' },
+    { name: 'Johns Hopkins Medicine', abbr: 'JHM', logo: '/images/JHM.png' },
   ];
 
   return (
@@ -356,11 +357,14 @@ export function MedicalSources() {
                       }}
                     >
                       <div className="relative w-full h-full p-3 flex items-center justify-center bg-gradient-to-br from-gray-50 to-white">
-                        {/* Placeholder for Logo - 将被替换为真实的 logo 图片 */}
-                        <div className="w-full h-full flex items-center justify-center text-gray-400 text-xs font-medium">
-                          {source.abbr}
-                        </div>
-                        {/* 未来将使用: <img src={source.logo} alt={source.name} className="w-full h-full object-contain" /> */}
+                        <Image
+                          src={source.logo}
+                          alt={source.name}
+                          width={96}
+                          height={96}
+                          className="w-full h-full object-contain"
+                          style={{ objectFit: 'contain' }}
+                        />
                       </div>
                     </div>
 
