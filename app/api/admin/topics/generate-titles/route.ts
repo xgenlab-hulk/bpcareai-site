@@ -4,6 +4,7 @@
  */
 import { NextRequest, NextResponse } from 'next/server';
 import { auth } from '@/auth';
+import { updateConfigFile } from '@/lib/admin/github-api';
 import fs from 'fs';
 import path from 'path';
 import { generateTopicCandidatesForKeyword } from '@/lib/llm/qwen-topics';
@@ -122,55 +123,95 @@ async function generateTitlesForTopic(
 /**
  * 保存 topics 到文件（合并模式）
  */
-function saveTopicsToFile(keyword: string, newTopics: PlannedTopic[]): number {
-  const dataDir = path.join(process.cwd(), 'data');
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
-  }
-
+async function saveTopicsToFile(keyword: string, newTopics: PlannedTopic[]): Promise<number> {
   const slug = slugify(keyword);
-  const outputPath = path.join(dataDir, `planned-topics-${slug}.json`);
+  const filePath = `data/planned-topics-${slug}.json`;
 
   let finalTopics: PlannedTopic[] = newTopics;
   let newCount = newTopics.length;
 
-  // 检查文件是否已存在
-  if (fs.existsSync(outputPath)) {
+  // Production/GitHub mode
+  if (process.env.VERCEL_ENV === 'production' || process.env.GITHUB_TOKEN) {
+    // Try to get existing file from repo
     try {
-      const existingData = fs.readFileSync(outputPath, 'utf8');
-      const existingTopics: PlannedTopic[] = JSON.parse(existingData);
+      const response = await fetch(
+        `https://raw.githubusercontent.com/xgenlab-hulk/bpcareai-site/main/${filePath}`
+      );
 
-      // 合并选题，按 title 去重（保留旧的）
-      const titleSet = new Set<string>();
-      const merged: PlannedTopic[] = [];
+      if (response.ok) {
+        const existingData = await response.text();
+        const existingTopics: PlannedTopic[] = JSON.parse(existingData);
 
-      // 先添加所有旧选题
-      for (const topic of existingTopics) {
-        merged.push(topic);
-        titleSet.add(topic.title.toLowerCase().trim());
-      }
+        // Merge topics
+        const titleSet = new Set<string>();
+        const merged: PlannedTopic[] = [];
 
-      // 再添加新选题（跳过重复的 title）
-      let duplicateCount = 0;
-      for (const topic of newTopics) {
-        const normalizedTitle = topic.title.toLowerCase().trim();
-        if (!titleSet.has(normalizedTitle)) {
+        for (const topic of existingTopics) {
           merged.push(topic);
-          titleSet.add(normalizedTitle);
-        } else {
-          duplicateCount++;
+          titleSet.add(topic.title.toLowerCase().trim());
         }
+
+        for (const topic of newTopics) {
+          const normalizedTitle = topic.title.toLowerCase().trim();
+          if (!titleSet.has(normalizedTitle)) {
+            merged.push(topic);
+            titleSet.add(normalizedTitle);
+          }
+        }
+
+        newCount = merged.length - existingTopics.length;
+        finalTopics = merged;
       }
-
-      newCount = merged.length - existingTopics.length;
-      finalTopics = merged;
     } catch (error) {
-      console.warn('Failed to read existing file:', error);
+      console.warn('File does not exist in repo, creating new:', error);
     }
-  }
 
-  // 写入文件
-  fs.writeFileSync(outputPath, JSON.stringify(finalTopics, null, 2), 'utf8');
+    // Save to GitHub
+    await updateConfigFile(
+      filePath,
+      finalTopics,
+      `admin: generate ${newCount} titles for topic "${keyword}"`
+    );
+  } else {
+    // Development: Use local file system
+    const dataDir = path.join(process.cwd(), 'data');
+    if (!fs.existsSync(dataDir)) {
+      fs.mkdirSync(dataDir, { recursive: true });
+    }
+
+    const outputPath = path.join(dataDir, `planned-topics-${slug}.json`);
+
+    // Check if file exists locally
+    if (fs.existsSync(outputPath)) {
+      try {
+        const existingData = fs.readFileSync(outputPath, 'utf8');
+        const existingTopics: PlannedTopic[] = JSON.parse(existingData);
+
+        const titleSet = new Set<string>();
+        const merged: PlannedTopic[] = [];
+
+        for (const topic of existingTopics) {
+          merged.push(topic);
+          titleSet.add(topic.title.toLowerCase().trim());
+        }
+
+        for (const topic of newTopics) {
+          const normalizedTitle = topic.title.toLowerCase().trim();
+          if (!titleSet.has(normalizedTitle)) {
+            merged.push(topic);
+            titleSet.add(normalizedTitle);
+          }
+        }
+
+        newCount = merged.length - existingTopics.length;
+        finalTopics = merged;
+      } catch (error) {
+        console.warn('Failed to read existing file:', error);
+      }
+    }
+
+    fs.writeFileSync(outputPath, JSON.stringify(finalTopics, null, 2), 'utf8');
+  }
 
   return newCount;
 }
@@ -178,33 +219,67 @@ function saveTopicsToFile(keyword: string, newTopics: PlannedTopic[]): number {
 /**
  * 从 topics.json 中移除指定的 topic
  */
-function removeTopicFromFile(topicName: string): boolean {
-  const topicsFilePath = path.join(process.cwd(), 'data', 'topics.json');
+async function removeTopicFromFile(topicName: string): Promise<boolean> {
+  const filePath = 'data/topics.json';
 
-  if (!fs.existsSync(topicsFilePath)) {
-    return false;
-  }
+  // Production/GitHub mode
+  if (process.env.VERCEL_ENV === 'production' || process.env.GITHUB_TOKEN) {
+    try {
+      const response = await fetch(
+        `https://raw.githubusercontent.com/xgenlab-hulk/bpcareai-site/main/${filePath}`
+      );
 
-  try {
-    const data = fs.readFileSync(topicsFilePath, 'utf8');
-    const topics: TopicEntry[] = JSON.parse(data);
+      if (!response.ok) {
+        return false;
+      }
 
-    // 过滤掉指定的 topic（不区分大小写）
-    const filtered = topics.filter(
-      (t) => t.name.toLowerCase().trim() !== topicName.toLowerCase().trim()
-    );
+      const data = await response.text();
+      const topics: TopicEntry[] = JSON.parse(data);
 
-    // 如果没有变化，说明 topic 不存在
-    if (filtered.length === topics.length) {
+      const filtered = topics.filter(
+        (t) => t.name.toLowerCase().trim() !== topicName.toLowerCase().trim()
+      );
+
+      if (filtered.length === topics.length) {
+        return false;
+      }
+
+      await updateConfigFile(
+        filePath,
+        filtered,
+        `admin: remove topic "${topicName}" after generating titles`
+      );
+      return true;
+    } catch (error) {
+      console.error('Error removing topic from topics.json:', error);
+      return false;
+    }
+  } else {
+    // Development: Use local file system
+    const topicsFilePath = path.join(process.cwd(), 'data', 'topics.json');
+
+    if (!fs.existsSync(topicsFilePath)) {
       return false;
     }
 
-    // 写回文件
-    fs.writeFileSync(topicsFilePath, JSON.stringify(filtered, null, 2), 'utf8');
-    return true;
-  } catch (error) {
-    console.error('Error removing topic from topics.json:', error);
-    return false;
+    try {
+      const data = fs.readFileSync(topicsFilePath, 'utf8');
+      const topics: TopicEntry[] = JSON.parse(data);
+
+      const filtered = topics.filter(
+        (t) => t.name.toLowerCase().trim() !== topicName.toLowerCase().trim()
+      );
+
+      if (filtered.length === topics.length) {
+        return false;
+      }
+
+      fs.writeFileSync(topicsFilePath, JSON.stringify(filtered, null, 2), 'utf8');
+      return true;
+    } catch (error) {
+      console.error('Error removing topic from topics.json:', error);
+      return false;
+    }
   }
 }
 
@@ -262,10 +337,10 @@ export async function POST(request: NextRequest) {
     }
 
     // 4. 保存到 planned-topics-*.json
-    const savedCount = saveTopicsToFile(topicName, result.titles);
+    const savedCount = await saveTopicsToFile(topicName, result.titles);
 
     // 5. 从 topics.json 中移除
-    const removed = removeTopicFromFile(topicName);
+    const removed = await removeTopicFromFile(topicName);
 
     return NextResponse.json({
       success: true,

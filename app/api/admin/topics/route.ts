@@ -6,6 +6,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { auth } from '@/auth';
 import { getAllTopicsWithStatus } from '@/lib/admin/topics';
+import { updateConfigFile } from '@/lib/admin/github-api';
 import fs from 'fs';
 import path from 'path';
 
@@ -87,13 +88,22 @@ export async function POST(request: NextRequest) {
     // Combine and save
     const allTopics = [...existingTopics, ...uniqueNewTopics];
 
-    // Ensure data directory exists
-    const dataDir = path.dirname(TOPICS_FILE);
-    if (!fs.existsSync(dataDir)) {
-      fs.mkdirSync(dataDir, { recursive: true });
+    // Save topics - use GitHub API in production, file system in development
+    if (process.env.VERCEL_ENV === 'production' || process.env.GITHUB_TOKEN) {
+      // Production: Use GitHub API
+      await updateConfigFile(
+        'data/topics.json',
+        allTopics,
+        `admin: add ${uniqueNewTopics.length} new topic(s)`
+      );
+    } else {
+      // Development: Use local file system
+      const dataDir = path.dirname(TOPICS_FILE);
+      if (!fs.existsSync(dataDir)) {
+        fs.mkdirSync(dataDir, { recursive: true });
+      }
+      fs.writeFileSync(TOPICS_FILE, JSON.stringify(allTopics, null, 2), 'utf8');
     }
-
-    fs.writeFileSync(TOPICS_FILE, JSON.stringify(allTopics, null, 2), 'utf8');
 
     return NextResponse.json({
       success: true,
