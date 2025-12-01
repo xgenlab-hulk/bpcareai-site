@@ -303,27 +303,38 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // 1. 检查必要文件
-    const indexPath = path.join(process.cwd(), 'data', 'articles-index.json');
-    const embeddingsPath = path.join(process.cwd(), 'data', 'articles-embeddings.json');
+    // 1. 加载已有文章数据（根据环境使用不同读取方式）
+    let articles: ArticleMeta[];
 
-    if (!fs.existsSync(indexPath)) {
-      return NextResponse.json(
-        { error: 'articles-index.json not found. Please run: npm run build:articles-index' },
-        { status: 500 }
-      );
+    if (process.env.VERCEL_ENV === 'production') {
+      // 生产环境：从GitHub Raw URL读取
+      const indexUrl = 'https://raw.githubusercontent.com/xgenlab-hulk/bpcareai-site/main/data/articles-index.json';
+
+      const indexRes = await fetch(indexUrl);
+      if (!indexRes.ok) {
+        return NextResponse.json(
+          { error: 'articles-index.json not found in repository' },
+          { status: 500 }
+        );
+      }
+
+      articles = await indexRes.json();
+    } else {
+      // 开发环境：从本地文件系统读取
+      const indexPath = path.join(process.cwd(), 'data', 'articles-index.json');
+
+      if (!fs.existsSync(indexPath)) {
+        return NextResponse.json(
+          { error: 'articles-index.json not found. Please run: npm run build:articles-index' },
+          { status: 500 }
+        );
+      }
+
+      const articlesData = fs.readFileSync(indexPath, 'utf8');
+      articles = JSON.parse(articlesData);
     }
 
-    if (!fs.existsSync(embeddingsPath)) {
-      return NextResponse.json(
-        { error: 'articles-embeddings.json not found. Please run: npm run build:embeddings' },
-        { status: 500 }
-      );
-    }
-
-    // 2. 加载已有文章数据
-    const articlesData = fs.readFileSync(indexPath, 'utf8');
-    const articles: ArticleMeta[] = JSON.parse(articlesData);
+    // 2. 提取已有文章标题列表
     const existingTitles = articles.map((a) => a.title);
 
     // 3. 生成标题

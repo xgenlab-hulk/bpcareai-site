@@ -43,20 +43,41 @@ export function cosineSimilarity(a: number[], b: number[]): number {
 }
 
 /**
- * 从本地文件加载所有文章的 embedding
+ * 从本地文件或GitHub加载所有文章的 embedding
+ * 生产环境从GitHub读取，开发环境从本地文件系统读取
  */
 async function loadArticleEmbeddings(): Promise<ArticleEmbedding[]> {
-  const embeddingsPath = path.join(process.cwd(), 'data', 'articles-embeddings.json');
-
-  if (!fs.existsSync(embeddingsPath)) {
-    throw new Error(
-      `Embeddings file not found: ${embeddingsPath}\n` +
-      'Please run "npm run build:embeddings" first to generate article embeddings.'
-    );
-  }
-
   try {
-    const data = fs.readFileSync(embeddingsPath, 'utf8');
+    let data: string;
+
+    // 生产环境：从GitHub Raw URL读取
+    if (process.env.VERCEL_ENV === 'production') {
+      const url = 'https://raw.githubusercontent.com/xgenlab-hulk/bpcareai-site/main/data/articles-embeddings.json';
+      const response = await fetch(url);
+
+      if (!response.ok) {
+        throw new Error(
+          `Failed to fetch embeddings from GitHub (status ${response.status}). ` +
+          'The file may not exist in the repository.'
+        );
+      }
+
+      data = await response.text();
+    } else {
+      // 开发环境：从本地文件系统读取
+      const embeddingsPath = path.join(process.cwd(), 'data', 'articles-embeddings.json');
+
+      if (!fs.existsSync(embeddingsPath)) {
+        throw new Error(
+          `Embeddings file not found: ${embeddingsPath}\n` +
+          'Please run "npm run build:embeddings" first to generate article embeddings.'
+        );
+      }
+
+      data = fs.readFileSync(embeddingsPath, 'utf8');
+    }
+
+    // 解析JSON
     const embeddings: ArticleEmbedding[] = JSON.parse(data);
 
     if (!Array.isArray(embeddings) || embeddings.length === 0) {
