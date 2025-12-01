@@ -27,15 +27,17 @@ export default function FinalCTASection() {
         </div>
 
         {/* Main Content */}
-        <h2 className="text-2xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6 leading-tight">
-          Start Understanding Your{' '}
-          <span className="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
-            Blood Pressure
-          </span>{' '}
-          Today
+        <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-4 sm:mb-6 leading-tight">
+          <span className="block">Start Understanding Your</span>
+          <span className="block">
+            <span className="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
+              Blood Pressure
+            </span>{' '}
+            Today
+          </span>
         </h2>
 
-        <p className="text-base sm:text-xl lg:text-2xl text-gray-700 leading-relaxed mb-6 sm:mb-8 max-w-2xl mx-auto">
+        <p className="text-base sm:text-lg lg:text-xl text-gray-700 leading-relaxed mb-6 sm:mb-8 max-w-2xl mx-auto">
           Join thousands who've found peace of mind. See the trends, reduce the worry,
           and feel more confident about your heart health.
         </p>

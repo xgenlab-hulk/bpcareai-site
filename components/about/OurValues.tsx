@@ -41,8 +41,18 @@ export function OurValues() {
   ];
 
   return (
-    <section className="bg-gray-50 px-4 py-16 md:py-20">
-      <div className="mx-auto max-w-6xl">
+    <section className="relative bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50 px-4 py-16 md:py-20 overflow-hidden">
+      {/* Decorative Background Elements */}
+      <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-blue-200/20 rounded-full blur-3xl" />
+      <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-purple-200/20 rounded-full blur-3xl" />
+
+      {/* Subtle Grid Pattern */}
+      <div className="absolute inset-0 opacity-[0.03]" style={{
+        backgroundImage: 'radial-gradient(circle, #000 1px, transparent 1px)',
+        backgroundSize: '50px 50px'
+      }} />
+
+      <div className="relative mx-auto max-w-6xl">
         {/* Section Header */}
         <div className="mb-12 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
@@ -63,10 +73,10 @@ export function OurValues() {
             return (
               <div
                 key={index}
-                className="group relative bg-white rounded-2xl p-8 shadow-lg border border-gray-100 hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
+                className="group relative bg-white/80 backdrop-blur-md rounded-2xl p-8 shadow-lg border border-gray-200/50 hover:bg-white hover:shadow-2xl hover:-translate-y-1 transition-all duration-300"
               >
                 {/* Gradient Border Effect */}
-                <div className="absolute inset-0 bg-gradient-to-r from-brand-blue via-brand-purple to-brand-pink rounded-2xl opacity-0 group-hover:opacity-10 transition-opacity duration-300" />
+                <div className="absolute inset-0 bg-gradient-to-r from-brand-blue via-brand-purple to-brand-pink rounded-2xl opacity-0 group-hover:opacity-5 transition-opacity duration-300" />
 
                 {/* Icon Container */}
                 <div className="relative mb-6">
@@ -78,7 +88,7 @@ export function OurValues() {
                 </div>
 
                 {/* Content */}
-                <h3 className="relative text-2xl font-bold text-gray-900 mb-4">{value.title}</h3>
+                <h3 className="relative text-xl font-bold text-gray-900 mb-4">{value.title}</h3>
                 <p className="relative text-gray-700 text-base leading-relaxed">{value.description}</p>
 
                 {/* Bottom Accent */}

@@ -1,33 +1,71 @@
+'use client';
+
+import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import CTAButton from '../CTAButton';
 
 export default function HeroSection() {
+  const rotatingTexts = [
+    'Blood Pressure Anxiety',
+    'Missed Warning Signs',
+    'White Coat Hypertension',
+    'Hidden HA/Stroke Risks',
+    'Arrhythmia Uncertainty',
+    'Confusing Numbers',
+    'Scattered Health Records',
+    'Tracking Frustration',
+    'Heart Risk Uncertainty',
+  ];
+
+  const [currentTextIndex, setCurrentTextIndex] = useState(0);
+  const [isVisible, setIsVisible] = useState(true);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setIsVisible(false);
+
+      setTimeout(() => {
+        setCurrentTextIndex((prev) => (prev + 1) % rotatingTexts.length);
+        setIsVisible(true);
+      }, 500);
+    }, 2500);
+
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <section className="relative gradient-bg overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-16 lg:py-28">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 lg:gap-16 items-center">
           {/* Left: Text Content */}
-          <div className="space-y-5 sm:space-y-8 animate-fade-in-up">
+          <div className="animate-fade-in-up">
             {/* Trust Badge */}
-            <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/80 rounded-full shadow-sm border border-gray-100">
+            <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/80 rounded-full shadow-sm border border-gray-100 mb-6 sm:mb-8">
               <span className="star-rating text-lg">★★★★★</span>
               <span className="text-gray-700 font-medium">4.8 on App Store</span>
             </div>
 
-            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-              Say Goodbye to{' '}
-              <span className="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
-                Blood Pressure Anxiety
+            <h1 className="text-4xl sm:text-5xl lg:text-[54px] font-bold text-gray-900 mb-6 sm:mb-8">
+              <span className="block leading-[1.2]">Say Goodbye to</span>
+              <span
+                className="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent inline-block transition-opacity duration-500 leading-[1.0]"
+                style={{
+                  opacity: isVisible ? 1 : 0,
+                  display: 'inline-block',
+                  minHeight: '2.0em'
+                }}
+              >
+                {rotatingTexts[currentTextIndex]}
               </span>
             </h1>
 
-            <p className="text-base sm:text-xl lg:text-2xl text-gray-700 leading-relaxed">
+            <p className="text-base lg:text-lg text-gray-700 leading-relaxed mb-4 sm:mb-6">
               See the trends, not just the numbers. BPCare AI helps you understand your blood pressure patterns,
               track your heart health, and feel more confident about your cardiovascular wellness.
             </p>
 
             {/* Key Benefits */}
-            <ul className="space-y-3 sm:space-y-4 text-sm sm:text-lg text-gray-700">
+            <ul className="space-y-3 sm:space-y-4 text-sm lg:text-base text-gray-700 mb-4 sm:mb-6">
               <li className="flex items-start">
                 <span className="w-8 h-8 rounded-full bg-green-100 flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
                   <span className="text-green-600 text-lg">✓</span>
@@ -49,7 +87,7 @@ export default function HeroSection() {
             </ul>
 
             {/* CTA Buttons */}
-            <div className="flex flex-col sm:flex-row gap-4 pt-4">
+            <div className="flex flex-col sm:flex-row gap-4 mb-4 sm:mb-6">
               <CTAButton
                 href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
                 external
@@ -236,7 +274,7 @@ export default function HeroSection() {
                     </div>
 
                     {/* Today's value tooltip */}
-                    <div className="absolute right-1 sm:right-0 top-2 sm:top-4 bg-gray-900 text-white text-[9px] sm:text-[10px] px-1.5 sm:px-2 py-1 rounded shadow-lg">
+                    <div className="absolute right-1 sm:right-0 top-2 sm:top-4 bg-gray-900 text-white text-[10px] sm:text-xs px-1.5 sm:px-2 py-1 rounded shadow-lg">
                       <div className="font-medium">Today</div>
                       <div className="text-red-300">115 sys</div>
                       <div className="text-blue-300">72 dia</div>

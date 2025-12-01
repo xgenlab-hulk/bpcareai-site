@@ -3,7 +3,7 @@
  * Simplified, focused on core commitments
  */
 import Link from 'next/link';
-import { Shield, Lock, Eye, Download } from 'lucide-react';
+import { Shield, Lock, Eye, Download, CheckCircle2, ArrowRight } from 'lucide-react';
 
 export function PrivacySection() {
   const commitments = [
@@ -53,51 +53,72 @@ export function PrivacySection() {
           </p>
         </div>
 
-        {/* Commitments Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 mb-12">
+        {/* Commitments Grid - 1 row, 4 columns */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
           {commitments.map((commitment, index) => {
             const Icon = commitment.icon;
             return (
               <div
                 key={index}
-                className="bg-white rounded-2xl p-6 shadow-md border border-gray-100 hover:shadow-lg transition-shadow duration-300"
+                className="bg-white rounded-2xl p-6 shadow-md border border-gray-100 hover:shadow-lg hover:-translate-y-1 transition-all duration-300"
               >
-                <div className="flex items-start gap-4">
-                  {/* Icon */}
-                  <div className={`flex-shrink-0 w-12 h-12 ${commitment.bgColor} rounded-xl flex items-center justify-center`}>
-                    <Icon className={`w-6 h-6 ${commitment.iconColor}`} />
-                  </div>
-
-                  {/* Content */}
-                  <div>
-                    <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                      {commitment.title}
-                    </h3>
-                    <p className="text-gray-600 leading-relaxed">{commitment.description}</p>
-                  </div>
+                {/* Icon */}
+                <div className={`w-12 h-12 ${commitment.bgColor} rounded-xl flex items-center justify-center mb-4`}>
+                  <Icon className={`w-6 h-6 ${commitment.iconColor}`} />
                 </div>
+
+                {/* Content */}
+                <h3 className="text-base font-semibold text-gray-900 mb-2">
+                  {commitment.title}
+                </h3>
+                <p className="text-sm text-gray-600 leading-relaxed">{commitment.description}</p>
               </div>
             );
           })}
         </div>
 
-        {/* HIPAA Compliance Badge */}
-        <div className="rounded-2xl border-2 border-blue-200 bg-blue-50 p-6 text-center mb-8">
-          <p className="text-lg font-semibold text-blue-900">
-            ✓ HIPAA-Compliant Practices Guide Our Data Handling Standards
-          </p>
-        </div>
+        {/* HIPAA & Privacy Policy - Side by Side Cards */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          {/* HIPAA Compliance Card */}
+          <div className="group relative bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-6 border border-blue-100 hover:border-blue-200 transition-all duration-300">
+            <div className="flex items-start gap-4">
+              <div className="flex-shrink-0">
+                <div className="w-12 h-12 bg-blue-500 rounded-xl flex items-center justify-center shadow-md">
+                  <CheckCircle2 className="w-6 h-6 text-white" strokeWidth={2.5} />
+                </div>
+              </div>
+              <div>
+                <h3 className="text-base font-semibold text-blue-900 mb-1">HIPAA-Compliant Standards</h3>
+                <p className="text-sm text-blue-700 leading-relaxed">
+                  Our data handling practices follow HIPAA-compliant guidelines to ensure the highest level of privacy protection.
+                </p>
+              </div>
+            </div>
+          </div>
 
-        {/* Learn More Link */}
-        <div className="text-center">
-          <p className="text-gray-700 mb-3">
-            Learn more about how we protect your information:
-          </p>
+          {/* Privacy Policy Card */}
           <Link
             href="/privacy"
-            className="inline-flex items-center gap-2 text-blue-600 hover:text-blue-700 font-semibold underline transition-colors"
+            className="group relative bg-gradient-to-br from-green-50 to-emerald-50 rounded-2xl p-6 border border-green-100 hover:border-green-200 hover:shadow-lg transition-all duration-300"
           >
-            Read Our Privacy Policy →
+            <div className="flex items-center justify-between">
+              <div className="flex items-start gap-4">
+                <div className="flex-shrink-0">
+                  <div className="w-12 h-12 bg-green-500 rounded-xl flex items-center justify-center shadow-md group-hover:scale-110 transition-transform duration-300">
+                    <Shield className="w-6 h-6 text-white" strokeWidth={2.5} />
+                  </div>
+                </div>
+                <div>
+                  <h3 className="text-base font-semibold text-green-900 mb-1">Privacy Policy</h3>
+                  <p className="text-sm text-green-700 leading-relaxed">
+                    Learn more about how we protect your information
+                  </p>
+                </div>
+              </div>
+              <div className="flex-shrink-0">
+                <ArrowRight className="w-5 h-5 text-green-600 group-hover:translate-x-1 transition-transform duration-300" />
+              </div>
+            </div>
           </Link>
         </div>
       </div>

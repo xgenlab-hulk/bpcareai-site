@@ -28,10 +28,10 @@ export default function ArticlesPreviewSection() {
     <section className="py-20 lg:py-32 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
+          <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">
             Learn More About Heart Health
           </h2>
-          <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
+          <p className="text-lg text-gray-700 max-w-3xl mx-auto leading-relaxed">
             Evidence-based articles to help you understand blood pressure, heart rate, and cardiovascular wellness
           </p>
         </div>
@@ -52,11 +52,11 @@ export default function ArticlesPreviewSection() {
                 })}</span>
               </div>
 
-              <h3 className="text-2xl font-bold text-gray-900 mb-4 group-hover:text-brand-blue-dark transition-colors">
+              <h3 className="text-xl font-bold text-gray-900 mb-4 group-hover:text-brand-blue-dark transition-colors">
                 {article.title}
               </h3>
 
-              <p className="text-gray-700 text-lg leading-relaxed mb-4">
+              <p className="text-gray-700 text-base leading-relaxed mb-4">
                 {article.description}
               </p>
 

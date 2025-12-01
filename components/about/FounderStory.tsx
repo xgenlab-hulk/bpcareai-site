@@ -136,55 +136,41 @@ export function FounderStory() {
         </div>
 
         {/* Emotional Climax Quote */}
-        <div className="my-16 border-l-4 border-blue-500 bg-blue-50 rounded-r-2xl p-8">
-          <div className="flex items-start gap-4">
-            <span className="text-4xl text-blue-500">💬</span>
-            <div>
-              <p className="font-semibold text-gray-900 text-lg mb-3">
-                Here's what broke my heart the most:
-              </p>
-              <p className="text-gray-700 text-base md:text-lg leading-relaxed mb-4">
-                My mother is sharp and capable, but when it came to her blood pressure, she felt lost.
-                Not because she wasn't smart enough, but because{' '}
-                <span className="font-semibold text-gray-900">
-                  no one was explaining it in a way that made sense to her life
-                </span>
-                —to her reality as a woman in her 60s managing multiple medications and trying to
-                figure out if that glass of wine at dinner was a terrible idea.
-              </p>
-            </div>
-          </div>
+        <div className="my-16">
+          <p className="font-semibold text-gray-900 text-base mb-4">
+            Here's what broke my heart the most:
+          </p>
+          <blockquote className="border-l-4 border-gray-300 pl-6 italic">
+            <p className="text-base text-gray-600 leading-relaxed">
+              My mother is sharp and capable, but when it came to her blood pressure, she felt lost.
+              Not because she wasn't smart enough, but because{' '}
+              <span className="font-semibold not-italic text-gray-900">
+                no one was explaining it in a way that made sense to her life
+              </span>
+              —to her reality as a woman in her 60s managing multiple medications and trying to
+              figure out if that glass of wine at dinner was a terrible idea.
+            </p>
+          </blockquote>
         </div>
 
         {/* Resolution */}
-        <div
-          className="relative bg-gradient-to-br from-purple-50 to-pink-50 rounded-2xl p-8 border border-purple-100"
-        >
-          <div className="flex items-start gap-6">
-            <div className="flex-shrink-0">
-              <div className="w-16 h-16 rounded-full bg-gradient-to-br from-purple-400 to-pink-600 flex items-center justify-center shadow-lg">
-                <Lightbulb className="w-8 h-8 text-white" />
-              </div>
-            </div>
-            <div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-4">The Resolution</h3>
-              <p className="text-gray-700 text-base md:text-lg leading-relaxed mb-4">
-                I wanted to build something I wish my mother had when she was first diagnosed. Not another
-                gadget that makes you feel stupid. But a tool that treats you like the intelligent,
-                experienced adult you are—someone who deserves{' '}
-                <span className="font-semibold text-gray-900">clarity, respect, and honest answers</span>{' '}
-                about your own health.
-              </p>
-              <p className="text-gray-700 text-base md:text-lg leading-relaxed">
-                BPCare AI exists because{' '}
-                <span className="font-semibold text-gray-900">
-                  you shouldn't have to choose between staying informed and staying sane
-                </span>
-                . This app is built for people like my mother, my grandfather, and yes, for myself—for
-                everyone who deserves better than fear and confusion when it comes to heart health.
-              </p>
-            </div>
-          </div>
+        <div className="bg-blue-50 rounded-2xl p-8 border border-blue-200">
+          <h3 className="text-xl font-bold text-gray-900 mb-4">The Resolution</h3>
+          <p className="text-base text-gray-700 leading-relaxed mb-4">
+            I wanted to build something I wish my mother had when she was first diagnosed. Not another
+            gadget that makes you feel stupid. But a tool that treats you like the intelligent,
+            experienced adult you are—someone who deserves{' '}
+            <span className="font-semibold text-gray-900">clarity, respect, and honest answers</span>{' '}
+            about your own health.
+          </p>
+          <p className="text-base text-gray-700 leading-relaxed">
+            BPCare AI exists because{' '}
+            <span className="font-semibold text-gray-900">
+              you shouldn't have to choose between staying informed and staying sane
+            </span>
+            . This app is built for people like my mother, my grandfather, and yes, for myself—for
+            everyone who deserves better than fear and confusion when it comes to heart health.
+          </p>
         </div>
       </div>
     </section>

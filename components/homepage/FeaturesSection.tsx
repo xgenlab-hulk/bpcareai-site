@@ -41,13 +41,13 @@ export default function FeaturesSection() {
           <span className="inline-block px-4 py-2 bg-brand-blue-light/50 text-brand-blue-dark rounded-full text-sm font-semibold mb-4">
             Why Choose BPCare AI
           </span>
-          <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
+          <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">
             Features Designed for{' '}
             <span className="bg-gradient-to-r from-brand-blue-dark to-brand-purple bg-clip-text text-transparent">
               Your Health
             </span>
           </h2>
-          <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
+          <p className="text-lg text-gray-700 max-w-3xl mx-auto leading-relaxed">
             We understand that managing blood pressure can be stressful. BPCare AI is designed to
             help you feel more confident and informed.
           </p>
@@ -67,7 +67,7 @@ export default function FeaturesSection() {
 
               {/* Content */}
               <h3 className="text-2xl font-bold text-gray-900 mb-3">{feature.title}</h3>
-              <p className="text-gray-600 text-lg leading-relaxed mb-4">{feature.description}</p>
+              <p className="text-gray-600 text-base leading-relaxed mb-4">{feature.description}</p>
 
               {/* Benefit Tag */}
               <div className={`inline-flex items-center gap-2 px-3 py-1.5 ${feature.bgColor} rounded-full`}>

@@ -7,6 +7,7 @@ import WhoItsForSection from '@/components/homepage/WhoItsForSection';
 import TestimonialsSection from '@/components/homepage/TestimonialsSection';
 import WhyItMattersSection from '@/components/homepage/WhyItMattersSection';
 import FinalCTASection from '@/components/homepage/FinalCTASection';
+import FAQSection from '@/components/homepage/FAQSection';
 import ArticlesPreviewSection from '@/components/homepage/ArticlesPreviewSection';
 import { JsonLd, websiteJsonLd, organizationJsonLd } from '@/components/JsonLd';
 
@@ -46,6 +47,9 @@ export default function Home() {
 
       {/* Final CTA - Strong conversion section */}
       <FinalCTASection />
+
+      {/* FAQ - Answer common questions for SEO and conversions */}
+      <FAQSection />
 
       {/* Articles - Additional value for SEO */}
       <ArticlesPreviewSection />

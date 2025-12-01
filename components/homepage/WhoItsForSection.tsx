@@ -43,13 +43,13 @@ export default function WhoItsForSection() {
           <span className="inline-block px-3 sm:px-4 py-1.5 sm:py-2 bg-red-50 text-red-600 rounded-full text-xs sm:text-sm font-semibold mb-3 sm:mb-4">
             Is This You?
           </span>
-          <h2 className="text-2xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6">
+          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-4 sm:mb-6">
             BPCare AI Is Made For{' '}
             <span className="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
               People Like You
             </span>
           </h2>
-          <p className="text-base sm:text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
+          <p className="text-base lg:text-lg text-gray-700 max-w-3xl mx-auto leading-relaxed">
             If any of these sound familiar, you're in the right place
           </p>
         </div>
@@ -58,7 +58,7 @@ export default function WhoItsForSection() {
           {personas.map((persona, index) => (
             <div
               key={index}
-              className={`relative ${persona.bgColor} rounded-2xl p-8 border-2 ${persona.borderColor} card-hover group`}
+              className={`relative ${persona.bgColor} rounded-2xl p-8 border-2 ${persona.borderColor} card-hover group flex flex-col`}
             >
               {/* Checkmark */}
               <div className="absolute top-4 right-4 w-8 h-8 bg-white rounded-full flex items-center justify-center shadow-sm opacity-0 group-hover:opacity-100 transition-opacity">
@@ -66,13 +66,13 @@ export default function WhoItsForSection() {
               </div>
 
               <div className="text-5xl mb-5">{persona.icon}</div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">{persona.title}</h3>
-              <p className="text-gray-600 text-lg leading-relaxed mb-4">
+              <h3 className="text-xl font-bold text-gray-900 mb-3">{persona.title}</h3>
+              <p className="text-gray-600 text-base leading-relaxed mb-4 flex-grow">
                 {persona.description}
               </p>
 
               {/* User Scenario Quote */}
-              <div className="bg-white/80 rounded-xl p-4 border border-gray-200">
+              <div className="bg-white/80 rounded-xl p-4 border border-gray-200 mt-auto">
                 <p className="text-gray-700 italic text-base">
                   {persona.scenario}
                 </p>
@@ -82,22 +82,63 @@ export default function WhoItsForSection() {
         </div>
 
         {/* CTA */}
-        <div className="text-center bg-gradient-to-r from-gray-50 to-gray-100 rounded-2xl p-10">
-          <p className="text-2xl font-semibold text-gray-900 mb-2">
-            Sound like you?
-          </p>
-          <p className="text-lg text-gray-600 mb-6">
-            Join thousands who've found peace of mind with BPCare AI
-          </p>
-          <CTAButton
-            href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
-            external
-            variant="accent"
-            size="large"
-          >
-            <span className="mr-2"></span>
-            Try It Free
-          </CTAButton>
+        <div className="relative overflow-hidden bg-gradient-to-br from-red-500 via-red-600 to-orange-600 rounded-3xl p-6 sm:p-10 lg:p-12 shadow-2xl">
+          {/* Animated Background Patterns */}
+          <div className="absolute top-0 left-0 w-full h-full opacity-10">
+            <div className="absolute top-10 left-10 w-32 h-32 bg-white rounded-full blur-3xl animate-pulse" />
+            <div className="absolute bottom-10 right-10 w-40 h-40 bg-white rounded-full blur-3xl animate-pulse" style={{ animationDelay: '1s' }} />
+            <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-white rounded-full blur-3xl animate-pulse" style={{ animationDelay: '0.5s' }} />
+          </div>
+
+          {/* Decorative Elements */}
+          <div className="absolute top-0 right-0 w-48 h-48 bg-gradient-to-br from-white/20 to-transparent rounded-full blur-2xl" />
+          <div className="absolute bottom-0 left-0 w-48 h-48 bg-gradient-to-tr from-white/20 to-transparent rounded-full blur-2xl" />
+
+          {/* Content */}
+          <div className="relative z-10 text-center">
+            <div className="inline-flex items-center justify-center w-16 h-16 bg-white/20 backdrop-blur-sm rounded-full mb-6 shadow-lg">
+              <span className="text-3xl">✨</span>
+            </div>
+
+            <p className="text-2xl lg:text-3xl font-bold text-white mb-3 drop-shadow-lg">
+              Sound like you?
+            </p>
+            <p className="text-base lg:text-lg text-white/95 mb-8 max-w-2xl mx-auto drop-shadow">
+              Join thousands who've found peace of mind with BPCare AI
+            </p>
+
+            {/* CTA Button with enhanced styling */}
+            <div className="inline-block">
+              <CTAButton
+                href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
+                external
+                variant="accent"
+                size="large"
+                className="!bg-white !text-red-600 hover:!bg-gray-50 hover:!scale-105 shadow-xl hover:shadow-2xl !from-white !to-white font-bold"
+              >
+                <span className="mr-2"></span>
+                Try It Free
+              </CTAButton>
+            </div>
+
+            {/* Trust Indicators */}
+            <div className="mt-8 flex flex-wrap items-center justify-center gap-4 sm:gap-6 text-white/90 text-xs sm:text-sm">
+              <div className="flex items-center gap-2">
+                <span className="text-lg">✓</span>
+                <span>No credit card</span>
+              </div>
+              <div className="w-1 h-1 bg-white/50 rounded-full" />
+              <div className="flex items-center gap-2">
+                <span className="text-lg">✓</span>
+                <span>100% private</span>
+              </div>
+              <div className="w-1 h-1 bg-white/50 rounded-full" />
+              <div className="flex items-center gap-2">
+                <span className="text-lg">✓</span>
+                <span>Free forever</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>

@@ -23,10 +23,9 @@ export function ContactInfo() {
         <div className="rounded-2xl bg-gradient-to-br from-gray-50 to-white p-8 shadow-lg border border-gray-200 mb-10">
           <div className="text-center mb-8">
             <p className="text-3xl font-bold text-gray-900 mb-2">BPCare AI</p>
-            <p className="text-lg text-gray-700 mb-1">
-              Independent Digital Health Education Platform
+            <p className="text-lg text-gray-700">
+              Independent Digital Health Solution Platform
             </p>
-            <p className="text-gray-600">Operated globally from Asia-Pacific</p>
           </div>
 
           {/* Contact Links */}

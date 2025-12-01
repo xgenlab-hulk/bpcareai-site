@@ -27,7 +27,7 @@ export function HeroSection() {
         setCurrentWordIndex((prev) => (prev + 1) % rotatingWords.length);
         setIsAnimating(false);
       }, 400); // Fade out duration
-    }, 3000); // Change every 3 seconds
+    }, 2600); // Change every 2.6 seconds
 
     return () => clearInterval(interval);
   }, [rotatingWords.length]);

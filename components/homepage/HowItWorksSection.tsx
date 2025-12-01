@@ -4,24 +4,24 @@ export default function HowItWorksSection() {
   const steps = [
     {
       number: '1',
-      title: 'Record Your Readings',
-      description: 'Easily log your blood pressure readings, or measure heart rate using your phone\'s camera. Quick and simple — takes just seconds.',
-      icon: '📝',
-      detail: 'Manual entry or camera measurement',
+      title: 'Auto Measure & Track',
+      description: 'Measure heart rate with your phone camera or log BP in seconds. AI automatically organizes and validates your readings.',
+      icon: '🤖',
+      detail: 'Camera measurement + AI validation',
     },
     {
       number: '2',
-      title: 'See Clear Trends',
-      description: 'BPCare AI organizes your data into easy-to-understand charts. See patterns over days, weeks, and months at a glance.',
-      icon: '📊',
-      detail: 'Visual charts & insights',
+      title: 'AI Trend Analysis',
+      description: 'Advanced algorithms detect patterns across days, weeks, and months. Spot concerning trends before they become problems.',
+      icon: '📈',
+      detail: 'Predictive trend monitoring',
     },
     {
       number: '3',
-      title: 'Get Personalized Insights',
-      description: 'Receive gentle guidance on what your readings mean. Know when things look good and when you might want to consult your doctor.',
-      icon: '💡',
-      detail: 'Simple, caring guidance',
+      title: 'AI Risk Assessment',
+      description: 'Medical-grade AI evaluates your cardiovascular risk, identifies warning signs, and provides actionable health insights.',
+      icon: '🧠',
+      detail: 'Deep health intelligence',
     },
   ];
 
@@ -36,13 +36,13 @@ export default function HowItWorksSection() {
           <span className="inline-block px-3 sm:px-4 py-1.5 sm:py-2 bg-white/80 text-gray-700 rounded-full text-xs sm:text-sm font-semibold mb-3 sm:mb-4">
             Simple & Easy
           </span>
-          <h2 className="text-2xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6">
+          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-4 sm:mb-6">
             Three Steps to{' '}
             <span className="bg-gradient-to-r from-brand-blue-dark to-brand-purple bg-clip-text text-transparent">
               Better Understanding
             </span>
           </h2>
-          <p className="text-base sm:text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
+          <p className="text-base lg:text-lg text-gray-700 max-w-3xl mx-auto leading-relaxed">
             Getting started is easy. Track your health in just a few taps.
           </p>
         </div>
@@ -67,7 +67,7 @@ export default function HowItWorksSection() {
 
                 {/* Content */}
                 <h3 className="text-2xl font-bold text-gray-900 mb-3">{step.title}</h3>
-                <p className="text-gray-600 text-lg leading-relaxed mb-4">
+                <p className="text-gray-600 text-base leading-relaxed mb-4">
                   {step.description}
                 </p>
 
@@ -82,7 +82,7 @@ export default function HowItWorksSection() {
 
         {/* CTA */}
         <div className="text-center">
-          <p className="text-xl text-gray-700 mb-6">
+          <p className="text-lg text-gray-700 mb-6">
             Ready to understand your blood pressure better?
           </p>
           <CTAButton
