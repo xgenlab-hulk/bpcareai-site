@@ -142,7 +142,7 @@ export function MedicalSources() {
         {/* Two-Column Layout */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 mb-12">
           {/* Left: Medical Standards & Principles */}
-          <div className="relative bg-white/90 backdrop-blur-md rounded-2xl p-8 shadow-xl border border-white/60 flex flex-col h-[600px] overflow-hidden">
+          <div className="relative bg-white/90 backdrop-blur-md rounded-2xl p-8 shadow-xl border border-white/60 flex flex-col h-auto lg:h-[600px] overflow-hidden">
             {/* Decorative Background Elements */}
             <div className="absolute top-0 right-0 w-64 h-64 bg-gradient-to-br from-blue-100/30 to-purple-100/30 rounded-full blur-3xl -z-10" />
             <div className="absolute bottom-0 left-0 w-48 h-48 bg-gradient-to-tr from-indigo-100/30 to-blue-100/30 rounded-full blur-3xl -z-10" />
@@ -334,20 +334,20 @@ export function MedicalSources() {
           </div>
 
           {/* Right: Trusted Medical Sources - 4x4 Grid with Flip Effect */}
-          <div className="h-[600px] pt-8 relative">
-            <h3 className="text-xl font-bold text-gray-900 mb-6 text-center">Trusted Medical Sources</h3>
+          <div className="h-auto lg:h-[600px] pt-4 sm:pt-8 relative">
+            <h3 className="text-xl font-bold text-gray-900 mb-4 sm:mb-6 text-center">Trusted Medical Sources</h3>
 
             {/* 4x4 Grid Container */}
             <div className="flex flex-col gap-2 items-center justify-center">
-              <div className="grid grid-cols-4 gap-2">
+              <div className="grid grid-cols-3 sm:grid-cols-4 gap-3 lg:gap-2">
               {sources.map((source, index) => (
                 <div
                   key={index}
-                  className="group w-24 h-24"
+                  className="group w-20 h-20 sm:w-24 sm:h-24"
                   style={{ perspective: '1000px' }}
                 >
                   {/* Flip Card Container */}
-                  <div className="relative w-24 h-24 flip-card-inner">
+                  <div className="relative w-20 h-20 sm:w-24 sm:h-24 flip-card-inner">
                     {/* Front: Logo */}
                     <div
                       className="absolute inset-0 rounded-xl bg-white shadow-md border border-gray-200 flex items-center justify-center overflow-hidden"

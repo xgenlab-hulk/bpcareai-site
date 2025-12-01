@@ -85,7 +85,7 @@ To the maximum extent permitted by law, BPCare AI and its developers shall not b
 
 For questions about these Terms of Service:
 
-**Email**: mariememe0624@gmail.com
+**Email**: contact@bpcareai.com
 
 ---
 

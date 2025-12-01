@@ -9,7 +9,7 @@
 ## 1. Data Controller
 
 **BPCare AI Team**
-- **Contact Email**: mariememe0624@gmail.com
+- **Contact Email**: contact@bpcareai.com
 - **Scope**: This policy applies to all users of the BPCare AI mobile application worldwide
 
 ## 2. Information We Collect
@@ -106,10 +106,10 @@ We do not have access to your data to share, even if legally required, because a
 ### 6.3 Exercising Your Rights
 
 Since all data is stored locally on your device:
-- **Access Data**: Use the app’s history and trends features
+- **Access Data**: Use the app's history and trends features
 - **Delete Data**: Use in-app delete functions or uninstall the app
-- **Export Data**: Use the app’s export functionality
-- **Questions**: Contact us at mariememe0624@gmail.com
+- **Export Data**: Use the app's export functionality
+- **Questions**: Contact us at contact@bpcareai.com
 
 ## 7. Data Retention
 
@@ -188,7 +188,7 @@ The app uses standard iOS features (camera, storage) but does not share data wit
 ### 13.1 Privacy Questions
 
 For any privacy-related questions or concerns:
-**Email**: mariememe0624@gmail.com
+**Email**: contact@bpcareai.com
 
 ### 13.2 Data Protection Authorities
 

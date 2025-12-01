@@ -55,8 +55,8 @@ export default function PrivacyPolicyPage() {
               <p className="text-lg text-gray-700 leading-relaxed">
                 <strong className="text-gray-900">BPCare AI Team</strong><br />
                 <span className="text-gray-600">Contact Email:</span>{' '}
-                <a href="mailto:mariememe0624@gmail.com" className="text-brand-blue-dark hover:underline">
-                  mariememe0624@gmail.com
+                <a href="mailto:contact@bpcareai.com" className="text-brand-blue-dark hover:underline">
+                  contact@bpcareai.com
                 </a><br />
                 <span className="text-gray-600">Scope:</span> This policy applies to all users of the BPCare AI mobile application worldwide.
               </p>
@@ -328,7 +328,7 @@ export default function PrivacyPolicyPage() {
                       { label: 'Access Data', desc: 'Use the app\'s history and trends features' },
                       { label: 'Delete Data', desc: 'Use in-app delete functions or uninstall the app' },
                       { label: 'Export Data', desc: 'Use the app\'s export functionality' },
-                      { label: 'Questions', desc: 'Contact us at mariememe0624@gmail.com' },
+                      { label: 'Questions', desc: 'Contact us at contact@bpcareai.com' },
                     ].map((item, i) => (
                       <li key={i} className="flex items-start gap-3 text-lg">
                         <span className="text-brand-blue mt-1">→</span>
@@ -548,10 +548,10 @@ export default function PrivacyPolicyPage() {
                 For any privacy-related questions or concerns:
               </p>
               <a
-                href="mailto:mariememe0624@gmail.com"
+                href="mailto:contact@bpcareai.com"
                 className="inline-flex items-center gap-2 text-xl font-semibold text-brand-blue-dark hover:text-brand-blue transition-colors"
               >
-                📧 mariememe0624@gmail.com
+                📧 contact@bpcareai.com
               </a>
 
               <div className="mt-8 pt-6 border-t border-gray-200">

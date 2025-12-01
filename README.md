@@ -307,7 +307,7 @@ Copyright © 2024 BPCare AI. All rights reserved.
 ## 📧 Contact
 
 For questions or support:
-- **Email:** mariememe0624@gmail.com
+- **Email:** contact@bpcareai.com
 - **Website:** [https://bpcareai.com](https://bpcareai.com)
 
 ---

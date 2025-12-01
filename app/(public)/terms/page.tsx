@@ -277,10 +277,10 @@ export default function TermsOfServicePage() {
                 For questions about these Terms of Service:
               </p>
               <a
-                href="mailto:mariememe0624@gmail.com"
+                href="mailto:contact@bpcareai.com"
                 className="inline-flex items-center gap-2 text-xl font-semibold text-brand-blue-dark hover:text-brand-blue transition-colors"
               >
-                📧 mariememe0624@gmail.com
+                📧 contact@bpcareai.com
               </a>
             </div>
           </section>

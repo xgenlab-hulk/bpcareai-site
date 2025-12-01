@@ -26,7 +26,7 @@ export async function POST(request: NextRequest) {
     // Check if QWEN_API_KEY is configured
     if (!process.env.QWEN_API_KEY) {
       return NextResponse.json(
-        { error: 'QWEN_API_KEY not configured. Please add it to your .env.local file.' },
+        { error: 'QWEN_API_KEY not configured. Please add it to your environment variables.' },
         { status: 500 }
       );
     }
@@ -44,7 +44,7 @@ export async function POST(request: NextRequest) {
     // Check if it's an API key error
     if (error instanceof Error && error.message.includes('QWEN_API_KEY')) {
       return NextResponse.json(
-        { error: 'QWEN_API_KEY not configured. Please add it to your .env.local file.' },
+        { error: 'QWEN_API_KEY not configured. Please add it to your environment variables.' },
         { status: 500 }
       );
     }
