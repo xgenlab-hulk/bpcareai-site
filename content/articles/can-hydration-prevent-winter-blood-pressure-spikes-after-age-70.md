@@ -18,6 +18,7 @@ relatedSlugs:
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - can-drinking-too-much-water-raise-blood-pressure
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - how-dehydration-impacts-blood-pressure-levels
 ---
 
 # How Hydration and Winter Blood Pressure Are Connected After 70

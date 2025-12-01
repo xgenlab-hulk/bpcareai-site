@@ -18,6 +18,7 @@ relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Enjoying Thanksgiving with High Blood Pressure: Is It Possible?

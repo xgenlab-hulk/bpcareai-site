@@ -19,6 +19,8 @@ relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
     how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
+  - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
 ---
 
 # Best Diabetic-Friendly Holiday Drinks Over 65 for a Healthier Festive Season

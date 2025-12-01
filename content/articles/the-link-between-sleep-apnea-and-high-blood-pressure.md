@@ -17,6 +17,7 @@ relatedSlugs:
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - can-meditation-lower-blood-pressure-naturally
   - why-blood-pressure-matters-even-if-you-feel-fine
+  - how-belly-fat-increases-blood-pressure-risk-after-middle-age
 ---
 
 # Understanding the Sleep Apnea and High Blood Pressure Connection

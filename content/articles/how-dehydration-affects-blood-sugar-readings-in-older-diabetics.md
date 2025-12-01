@@ -17,6 +17,7 @@ relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - understanding-a1c-goals-for-seniors-with-diabetes
+  - how-dehydration-impacts-blood-pressure-levels
 ---
 
 # How Dehydration and Blood Sugar Levels in Seniors with Diabetes Are Connected

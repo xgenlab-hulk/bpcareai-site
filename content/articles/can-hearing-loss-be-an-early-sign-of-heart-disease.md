@@ -17,6 +17,7 @@ relatedSlugs:
   - is-your-posture-affecting-your-heart-what-older-adults-should-know
   - how-vision-changes-might-be-linked-to-heart-disease
   - the-connection-between-frequent-urination-at-night-and-heart-health
+  - heart-disease-and-erectile-dysfunction-what-men-should-know
 ---
 
 # Could Hearing Loss Be an Early Sign of Heart Disease?

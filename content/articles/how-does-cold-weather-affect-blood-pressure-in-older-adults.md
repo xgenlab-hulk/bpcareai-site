@@ -19,6 +19,8 @@ relatedSlugs:
   - can-cold-weather-raise-your-blood-pressure
   - >-
     how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - >-
+    how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
 ---
 
 # How Cold Weather Impacts Blood Pressure in Older Adults

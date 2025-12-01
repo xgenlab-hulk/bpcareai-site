@@ -17,6 +17,7 @@ relatedSlugs:
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure
   - when-to-worry-about-high-readings
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
+  - could-your-medications-be-raising-your-blood-pressure
 ---
 
 # Could These Medications Be Raising Your Blood Pressure?

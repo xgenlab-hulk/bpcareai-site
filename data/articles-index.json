@@ -1,5 +1,318 @@
 [
   {
+    "slug": "why-sitting-too-long-raises-blood-pressure",
+    "title": "Why Sitting Too Long Raises Blood Pressure",
+    "description": "Learn how prolonged sitting affects blood pressure throughout the day and simple ways to break up sedentary time.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "sitting and high blood pressure risk",
+      "blood pressure",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "sitting and high blood pressure risk",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": [
+      "is-sitting-too-much-harming-your-heart-after-60",
+      "how-chronic-stress-contributes-to-high-blood-pressure-over-time"
+    ]
+  },
+  {
+    "slug": "the-link-between-family-food-traditions-and-chronic-disease-risk",
+    "title": "The Link Between Family Food Traditions and Chronic Disease Risk",
+    "description": "Analyzes how generational recipes high in fat, salt, or sugar contribute to long-term health issues in aging populations.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "food traditions and disease risk",
+      "healthy eating during family gatherings",
+      "cultural-diet-impact"
+    ],
+    "primaryKeyword": "food traditions and disease risk",
+    "topicCluster": "cultural-diet-impact",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "the-hidden-link-between-holiday-stress-and-irregular-heartbeat",
+    "title": "The Hidden Link Between Holiday Stress and Irregular Heartbeat",
+    "description": "Discover how emotional and logistical stressors during the holidays may contribute to transient arrhythmias in middle-aged and older adults.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "holiday stress irregular heartbeat",
+      "holiday heart syndrome prevention",
+      "emotional-mental-health"
+    ],
+    "primaryKeyword": "holiday stress irregular heartbeat",
+    "topicCluster": "emotional-mental-health",
+    "image": "",
+    "relatedSlugs": [
+      "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults",
+      "5-surprising-foods-that-may-trigger-holiday-heart-syndrome",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
+      "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults"
+    ]
+  },
+  {
+    "slug": "should-you-worry-about-heart-palpitations-when-lying-down",
+    "title": "Should You Worry About Heart Palpitations When Lying Down?",
+    "description": "Learn when nighttime palpitations are harmless and when they might signal an underlying heart issue.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "heart palpitations while lying down over 50",
+      "heart health",
+      "heart-health"
+    ],
+    "primaryKeyword": "heart palpitations while lying down over 50",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": [
+      "how-frequent-urination-at-night-could-signal-heart-problems",
+      "the-connection-between-frequent-urination-at-night-and-heart-health"
+    ]
+  },
+  {
+    "slug": "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60",
+    "title": "How to Manage Portion Control at Holiday Gatherings When You're Over 60",
+    "description": "Practical strategies to avoid overeating during festive meals, including plate setup, mindful eating techniques, and timing tips tailored for older adults.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "portion control for seniors at holidays",
+      "healthy holiday eating for seniors",
+      "lifestyle-modifications"
+    ],
+    "primaryKeyword": "portion control for seniors at holidays",
+    "topicCluster": "lifestyle-modifications",
+    "image": "",
+    "relatedSlugs": [
+      "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out",
+      "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults",
+      "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors",
+      "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar",
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food"
+    ]
+  },
+  {
+    "slug": "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out",
+    "title": "How Grandparents Can Model Healthy Eating for Families Without Feeling Left Out",
+    "description": "Offer practical strategies for older adults with diabetes to enjoy holiday meals while setting a positive example for younger generations.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "diabetic grandparents holiday eating",
+      "managing blood sugar during Christmas and New Year",
+      "family-dynamics-nutrition"
+    ],
+    "primaryKeyword": "diabetic grandparents holiday eating",
+    "topicCluster": "family-dynamics-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors",
+      "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"
+    ]
+  },
+  {
+    "slug": "how-dehydration-impacts-blood-pressure-levels",
+    "title": "How Dehydration Impacts Blood Pressure Levels",
+    "description": "See how not drinking enough water can lead to fluctuating blood pressure and what seniors should do to stay hydrated.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "dehydration effects on blood pressure",
+      "blood pressure",
+      "blood-pressure-basics"
+    ],
+    "primaryKeyword": "dehydration effects on blood pressure",
+    "topicCluster": "blood-pressure-basics",
+    "image": "",
+    "relatedSlugs": [
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
+      "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
+      "can-drinking-too-much-water-raise-blood-pressure",
+      "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70",
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults"
+    ]
+  },
+  {
+    "slug": "how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays",
+    "title": "How Cold Weather Impacts Appetite and Food Choices in Seniors During the Holidays",
+    "description": "Understand how seasonal temperature shifts influence hunger cues and cravings for heavier foods—and how to eat mindfully despite it.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "cold weather appetite changes seniors",
+      "healthy holiday eating for seniors",
+      "seasonal-factors"
+    ],
+    "primaryKeyword": "cold weather appetite changes seniors",
+    "topicCluster": "seasonal-factors",
+    "image": "",
+    "relatedSlugs": [
+      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity",
+      "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "why-winter-increases-heart-attack-risk-in-seniors-over-70",
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults"
+    ]
+  },
+  {
+    "slug": "how-belly-fat-increases-blood-pressure-risk-after-middle-age",
+    "title": "How Belly Fat Increases Blood Pressure Risk After Middle Age",
+    "description": "Discover the connection between abdominal obesity and hypertension, and how losing belly fat helps.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "belly fat and high blood pressure link",
+      "blood pressure",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "belly fat and high blood pressure link",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": [
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "how-obesity-contributes-to-heart-disease-in-middle-age",
+      "the-link-between-sleep-apnea-and-high-blood-pressure"
+    ]
+  },
+  {
+    "slug": "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
+    "title": "Holiday Eating on a Soft Food Diet: Ideas for Seniors with Dental Issues",
+    "description": "Nutritious, easy-to-chew holiday recipes and serving tips for seniors who struggle with chewing due to dentures, dry mouth, or recent dental work.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "soft food diet holiday meals seniors",
+      "healthy holiday eating for seniors",
+      "dental-health-diet"
+    ],
+    "primaryKeyword": "soft food diet holiday meals seniors",
+    "topicCluster": "dental-health-diet",
+    "image": "",
+    "relatedSlugs": [
+      "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors",
+      "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out",
+      "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60",
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults"
+    ]
+  },
+  {
+    "slug": "heart-disease-and-erectile-dysfunction-what-men-should-know",
+    "title": "Heart Disease and Erectile Dysfunction: What Men Should Know",
+    "description": "Explore how ED can be an early warning sign of blocked arteries and cardiovascular disease.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "erectile dysfunction as sign of heart disease",
+      "heart disease",
+      "heart-health"
+    ],
+    "primaryKeyword": "erectile dysfunction as sign of heart disease",
+    "topicCluster": "heart-health",
+    "image": "",
+    "relatedSlugs": [
+      "heart-disease-warning-signs-that-appear-years-in-advance",
+      "can-hearing-loss-be-an-early-sign-of-heart-disease"
+    ]
+  },
+  {
+    "slug": "does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely",
+    "title": "Does Sugar-Free Chocolate Really Help Diabetics Over 60 Enjoy Holidays Safely?",
+    "description": "We break down sugar alcohols, glycemic impact, and digestive side effects of sugar-free treats to determine if they’re worth the risk.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "sugar-free chocolate for diabetics over 60",
+      "healthy holiday eating for seniors",
+      "diabetic-diet"
+    ],
+    "primaryKeyword": "sugar-free chocolate for diabetics over 60",
+    "topicCluster": "diabetic-diet",
+    "image": "",
+    "relatedSlugs": [
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors"
+    ]
+  },
+  {
+    "slug": "could-your-medications-be-raising-your-blood-pressure",
+    "title": "Could Your Medications Be Raising Your Blood Pressure?",
+    "description": "Identify common OTC and prescription drugs that may increase blood pressure, especially in older adults.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "medications that raise blood pressure seniors",
+      "blood pressure",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "medications that raise blood pressure seniors",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "is-your-medication-causing-high-blood-pressure",
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults",
+      "does-caffeine-raise-blood-pressure-after-age-60",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "hidden-salt-10-surprising-foods-that-spike-blood-pressure"
+    ]
+  },
+  {
+    "slug": "can-mindfulness-meditation-reduce-heart-disease-risk-after-50",
+    "title": "Can Mindfulness Meditation Reduce Heart Disease Risk After 50?",
+    "description": "See how regular mindfulness practice helps lower stress-related heart strain and improves outcomes.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "mindfulness meditation and heart disease prevention",
+      "heart health",
+      "hypertension-lifestyle"
+    ],
+    "primaryKeyword": "mindfulness meditation and heart disease prevention",
+    "topicCluster": "hypertension-lifestyle",
+    "image": "",
+    "relatedSlugs": [
+      "can-meditation-reduce-heart-disease-risk-after-50",
+      "can-strength-training-lower-heart-disease-risk-after-60",
+      "does-laughter-really-protect-your-heart-after-50",
+      "can-deep-breathing-exercises-lower-heart-disease-risk",
+      "can-meditation-lower-blood-pressure-naturally"
+    ]
+  },
+  {
+    "slug": "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+    "title": "5 Hidden Sources of Sodium in Holiday Foods Seniors Should Avoid",
+    "description": "Identify common high-sodium holiday ingredients that can silently elevate blood pressure, with safer alternatives for heart-conscious seniors.",
+    "date": "2025-12-01",
+    "updated": "2025-12-01",
+    "tags": [
+      "hidden sodium in holiday foods seniors",
+      "healthy holiday eating for seniors",
+      "cardiac-diet"
+    ],
+    "primaryKeyword": "hidden sodium in holiday foods seniors",
+    "topicCluster": "cardiac-diet",
+    "image": "",
+    "relatedSlugs": [
+      "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "5-surprising-foods-that-may-trigger-holiday-heart-syndrome",
+      "7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about"
+    ]
+  },
+  {
     "slug": "the-role-of-inflammation-in-heart-disease-for-older-adults",
     "title": "The Role of Inflammation in Heart Disease for Older Adults",
     "description": "Learn how chronic inflammation contributes to heart disease and what blood tests and lifestyle changes can help manage it.",
@@ -431,7 +744,8 @@
       "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults",
       "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
       "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar",
-      "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"
+      "5-surprising-foods-that-may-trigger-holiday-heart-syndrome",
+      "the-hidden-link-between-holiday-stress-and-irregular-heartbeat"
     ]
   },
   {
@@ -538,7 +852,8 @@
       "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
       "heart-disease-in-hispanic-adults-over-50-unique-risk-factors",
       "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
-      "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"
+      "5-surprising-foods-that-may-trigger-holiday-heart-syndrome",
+      "the-hidden-link-between-holiday-stress-and-irregular-heartbeat"
     ]
   },
   {
@@ -621,7 +936,8 @@
       "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
       "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
       "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
-      "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors"
+      "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors",
+      "does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely"
     ]
   },
   {
@@ -965,7 +1281,8 @@
       "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
       "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
       "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
-      "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar"
+      "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar",
+      "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"
     ]
   },
   {
@@ -986,7 +1303,8 @@
       "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70",
       "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
       "can-drinking-too-much-water-raise-blood-pressure",
-      "winter-vs-summer-blood-pressure-what-seniors-need-to-know"
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "how-dehydration-impacts-blood-pressure-levels"
     ]
   },
   {
@@ -1070,7 +1388,8 @@
     "relatedSlugs": [
       "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
       "can-meditation-lower-blood-pressure-naturally",
-      "why-blood-pressure-matters-even-if-you-feel-fine"
+      "why-blood-pressure-matters-even-if-you-feel-fine",
+      "how-belly-fat-increases-blood-pressure-risk-after-middle-age"
     ]
   },
   {
@@ -1176,7 +1495,8 @@
     "relatedSlugs": [
       "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
       "when-to-worry-about-high-readings",
-      "blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ"
+      "blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+      "could-your-medications-be-raising-your-blood-pressure"
     ]
   },
   {
@@ -1350,7 +1670,8 @@
     "relatedSlugs": [
       "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
       "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70",
-      "understanding-a1c-goals-for-seniors-with-diabetes"
+      "understanding-a1c-goals-for-seniors-with-diabetes",
+      "how-dehydration-impacts-blood-pressure-levels"
     ]
   },
   {
@@ -1502,7 +1823,8 @@
       "can-drinking-too-much-water-raise-blood-pressure",
       "the-role-of-potassium-in-managing-blood-pressure-after-50",
       "how-chronic-stress-contributes-to-high-blood-pressure-over-time",
-      "hidden-salt-10-surprising-foods-that-spike-blood-pressure"
+      "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "could-your-medications-be-raising-your-blood-pressure"
     ]
   },
   {
@@ -1565,7 +1887,8 @@
     "relatedSlugs": [
       "can-meditation-reduce-heart-disease-risk-after-50",
       "can-deep-breathing-exercises-lower-heart-disease-risk",
-      "is-sitting-too-much-harming-your-heart-after-60"
+      "is-sitting-too-much-harming-your-heart-after-60",
+      "can-mindfulness-meditation-reduce-heart-disease-risk-after-50"
     ]
   },
   {
@@ -1650,7 +1973,8 @@
     "relatedSlugs": [
       "is-your-posture-affecting-your-heart-what-older-adults-should-know",
       "how-vision-changes-might-be-linked-to-heart-disease",
-      "the-connection-between-frequent-urination-at-night-and-heart-health"
+      "the-connection-between-frequent-urination-at-night-and-heart-health",
+      "heart-disease-and-erectile-dysfunction-what-men-should-know"
     ]
   },
   {
@@ -1928,7 +2252,8 @@
       "why-winter-increases-heart-attack-risk-in-seniors-over-70",
       "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
       "can-cold-weather-raise-your-blood-pressure",
-      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity"
+      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity",
+      "how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays"
     ]
   },
   {

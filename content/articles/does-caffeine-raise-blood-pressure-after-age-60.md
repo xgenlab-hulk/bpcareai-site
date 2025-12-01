@@ -18,6 +18,7 @@ relatedSlugs:
   - the-role-of-potassium-in-managing-blood-pressure-after-50
   - how-chronic-stress-contributes-to-high-blood-pressure-over-time
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - could-your-medications-be-raising-your-blood-pressure
 ---
 
 # Understanding the Caffeine Effect on Blood Pressure Over 60
