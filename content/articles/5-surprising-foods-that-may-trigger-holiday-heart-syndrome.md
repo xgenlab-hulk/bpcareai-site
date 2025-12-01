@@ -1,14 +1,26 @@
 ---
-title: "5 Surprising Foods That May Trigger Holiday Heart Syndrome"
-slug: "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"
-description: "Identify common festive dishes and snacks high in salt, sugar, and stimulants that could provoke arrhythmias in susceptible individuals."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["festive foods heart rhythm", "holiday heart syndrome prevention", "diet-nutrition"]
-primaryKeyword: "festive foods heart rhythm"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults"]
+title: 5 Surprising Foods That May Trigger Holiday Heart Syndrome
+slug: 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+description: >-
+  Identify common festive dishes and snacks high in salt, sugar, and stimulants
+  that could provoke arrhythmias in susceptible individuals.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - festive foods heart rhythm
+  - holiday heart syndrome prevention
+  - diet-nutrition
+primaryKeyword: festive foods heart rhythm
+topicCluster: diet-nutrition
+image: ''
+relatedSlugs:
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # 5 Surprising Festive Foods That Can Affect Your Heart Rhythm

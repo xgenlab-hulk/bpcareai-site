@@ -1,14 +1,22 @@
 ---
-title: "Heart Disease Symptoms in Women Over 50: What’s Often Missed"
-slug: "heart-disease-symptoms-in-women-over-50-what-s-often-missed"
-description: "Discover the subtle and atypical signs of heart disease in older women that are frequently overlooked by patients and doctors."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["heart disease symptoms in women over 50", "heart disease", "heart-health"]
-primaryKeyword: "heart disease symptoms in women over 50"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["recognizing-silent-heart-attacks-in-diabetics-over-60", "heart-disease-warning-signs-that-appear-years-in-advance"]
+title: 'Heart Disease Symptoms in Women Over 50: What’s Often Missed'
+slug: heart-disease-symptoms-in-women-over-50-what-s-often-missed
+description: >-
+  Discover the subtle and atypical signs of heart disease in older women that
+  are frequently overlooked by patients and doctors.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - heart disease symptoms in women over 50
+  - heart disease
+  - heart-health
+primaryKeyword: heart disease symptoms in women over 50
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
+  - heart-disease-warning-signs-that-appear-years-in-advance
+  - how-strong-are-your-fingernails-what-it-might-say-about-your-heart
 ---
 
 # Understanding Heart Disease Symptoms in Women Over 50: The Signs That Often Fly Under the Radar

@@ -1,14 +1,24 @@
 ---
-title: "7 Hidden Sources of Sugar in Family-Favorite Dishes You Should Know About"
-slug: "7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about"
-description: "Identifies surprising high-sugar foods commonly served at gatherings and suggests lower-sugar alternatives for safer consumption."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["hidden sugar in family foods", "healthy eating during family gatherings", "diabetic-diet"]
-primaryKeyword: "hidden sugar in family foods"
-topicCluster: "diabetic-diet"
-image: ""
-relatedSlugs: ["5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "hidden-salt-10-surprising-foods-that-spike-blood-pressure"]
+title: 7 Hidden Sources of Sugar in Family-Favorite Dishes You Should Know About
+slug: 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
+description: >-
+  Identifies surprising high-sugar foods commonly served at gatherings and
+  suggests lower-sugar alternatives for safer consumption.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - hidden sugar in family foods
+  - healthy eating during family gatherings
+  - diabetic-diet
+primaryKeyword: hidden sugar in family foods
+topicCluster: diabetic-diet
+image: ''
+relatedSlugs:
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 
 # 7 Surprising Sources of Hidden Sugar in Family Foods You May Not Expect
