@@ -17,6 +17,8 @@ relatedSlugs:
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
   - can-cold-weather-raise-your-blood-pressure
   - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
 ---
 
 # Should You Reconsider Your Seasonal Blood Pressure Goals During Winter?

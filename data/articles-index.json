@@ -1,5 +1,307 @@
 [
   {
+    "slug": "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know",
+    "title": "Why Does Blood Pressure Spike in Cold Weather? What Seniors Need to Know",
+    "description": "Explores the physiological reasons behind winter blood pressure increases in older adults and offers practical guidance for monitoring and management during colder months.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "blood pressure in cold weather",
+      "senior blood pressure control in winter",
+      "seasonal-blood-pressure-changes"
+    ],
+    "primaryKeyword": "blood pressure in cold weather",
+    "topicCluster": "seasonal-blood-pressure-changes",
+    "image": "",
+    "relatedSlugs": [
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "can-cold-weather-raise-your-blood-pressure",
+      "why-winter-increases-heart-attack-risk-in-seniors-over-70",
+      "should-you-adjust-your-blood-pressure-goals-in-winter"
+    ]
+  },
+  {
+    "slug": "when-to-worry-about-chest-discomfort-after-a-big-holiday-meal",
+    "title": "When to Worry About Chest Discomfort After a Big Holiday Meal",
+    "description": "Distinguish between normal fullness and potential cardiac warning signs after eating—especially critical for older adults with heart disease history.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "chest pain after eating seniors warning signs",
+      "healthy holiday eating for seniors",
+      "emergency-symptoms"
+    ],
+    "primaryKeyword": "chest pain after eating seniors warning signs",
+    "topicCluster": "emergency-symptoms",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75",
+    "title": "When to Worry About a Loved One’s Winter Mood Changes After 75",
+    "description": "Guide families on identifying red flags that signal depression versus normal aging behaviors in cold months.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "when to worry about seasonal depression",
+      "seasonal depression in older adults",
+      "emergency-symptoms"
+    ],
+    "primaryKeyword": "when to worry about seasonal depression",
+    "topicCluster": "emergency-symptoms",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults"
+    ]
+  },
+  {
+    "slug": "the-link-between-loneliness-during-holidays-and-poor-diabetes-control",
+    "title": "The Link Between Loneliness During Holidays and Poor Diabetes Control",
+    "description": "Explore how seasonal isolation affects motivation, eating habits, and blood sugar in older adults with diabetes.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "holiday loneliness diabetes control",
+      "holiday diabetes management",
+      "mental-health-behavioral-links"
+    ],
+    "primaryKeyword": "holiday loneliness diabetes control",
+    "topicCluster": "mental-health-behavioral-links",
+    "image": "",
+    "relatedSlugs": [
+      "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity",
+      "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out",
+      "best-blood-sugar-monitoring-practices-during-the-holiday-season"
+    ]
+  },
+  {
+    "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+    "title": "The Hidden Dangers of Indoor Heating on Blood Pressure",
+    "description": "Discusses how dry indoor air and overheated rooms during winter may negatively impact circulation and blood pressure in seniors.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "indoor heating blood pressure",
+      "winter heart health for seniors",
+      "environmental-factors"
+    ],
+    "primaryKeyword": "indoor heating blood pressure",
+    "topicCluster": "environmental-factors",
+    "image": "",
+    "relatedSlugs": [
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
+      "can-cold-weather-raise-your-blood-pressure",
+      "why-winter-increases-heart-attack-risk-in-seniors-over-70"
+    ]
+  },
+  {
+    "slug": "the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50",
+    "title": "The Hidden Danger of Combining Alcohol and Cold Medicines Over 50",
+    "description": "Discusses how over-the-counter cold remedies mixed with festive drinking can increase the risk of holiday heart syndrome.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "alcohol and cold medicine risks",
+      "holiday heart syndrome prevention",
+      "medication-safety"
+    ],
+    "primaryKeyword": "alcohol and cold medicine risks",
+    "topicCluster": "medication-safety",
+    "image": "",
+    "relatedSlugs": [
+      "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
+      "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults",
+      "5-surprising-foods-that-may-trigger-holiday-heart-syndrome",
+      "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+      "the-hidden-link-between-holiday-stress-and-irregular-heartbeat"
+    ]
+  },
+  {
+    "slug": "the-connection-between-rheumatoid-arthritis-and-heart-disease",
+    "title": "The Connection Between Rheumatoid Arthritis and Heart Disease",
+    "description": "Learn why autoimmune joint diseases increase cardiovascular risk due to systemic inflammation.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "rheumatoid arthritis and heart disease link",
+      "heart disease",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "rheumatoid arthritis and heart disease link",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart",
+      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+    "title": "The Complete Guide to Avoiding Holiday Heart Syndrome After 50",
+    "description": "A comprehensive resource covering prevention, recognition, and management of holiday-related arrhythmias for midlife and older adults.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "complete guide holiday heart syndrome",
+      "holiday heart syndrome prevention",
+      "prevention-strategies"
+    ],
+    "primaryKeyword": "complete guide holiday heart syndrome",
+    "topicCluster": "prevention-strategies",
+    "image": "",
+    "relatedSlugs": [
+      "the-hidden-link-between-holiday-stress-and-irregular-heartbeat",
+      "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
+      "can-meditation-reduce-heart-disease-risk-after-50",
+      "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults",
+      "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50"
+    ]
+  },
+  {
+    "slug": "how-to-create-a-blood-sugar-emergency-kit-for-holiday-travel",
+    "title": "How to Create a Blood Sugar Emergency Kit for Holiday Travel",
+    "description": "A checklist for preparing a portable kit with supplies and instructions for managing hypo- or hyperglycemia while away from home.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "blood sugar emergency kit travel",
+      "managing blood sugar during Christmas and New Year",
+      "emergency-preparedness"
+    ],
+    "primaryKeyword": "blood sugar emergency kit travel",
+    "topicCluster": "emergency-preparedness",
+    "image": "",
+    "relatedSlugs": [
+      "best-blood-sugar-monitoring-practices-during-the-holiday-season",
+      "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose"
+    ]
+  },
+  {
+    "slug": "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65",
+    "title": "How Light Therapy Can Help Older Adults Beat Winter Blues After 65",
+    "description": "Explore the science behind light therapy boxes, recommended usage, and real benefits for seniors struggling with seasonal mood changes.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "light therapy for seasonal depression",
+      "seasonal depression in older adults",
+      "treatment-options"
+    ],
+    "primaryKeyword": "light therapy for seasonal depression",
+    "topicCluster": "treatment-options",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "how-does-family-history-influence-your-risk-of-heart-disease-after-60",
+    "title": "How Does Family History Influence Your Risk of Heart Disease After 60?",
+    "description": "Understand the role genetics play in heart disease risk and what preventive steps you can take if it runs in your family.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "family history and heart disease risk after 60",
+      "heart disease",
+      "cardiovascular-risk"
+    ],
+    "primaryKeyword": "family history and heart disease risk after 60",
+    "topicCluster": "cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "is-sitting-too-much-harming-your-heart-after-60"
+    ]
+  },
+  {
+    "slug": "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults",
+    "title": "How Chronic Pain Conditions Exacerbate Seasonal Depression in Older Adults",
+    "description": "Explore the bidirectional relationship between persistent pain and seasonal mood disorders in aging populations.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "chronic pain and seasonal depression",
+      "seasonal depression in older adults",
+      "comorbidity-impact"
+    ],
+    "primaryKeyword": "chronic pain and seasonal depression",
+    "topicCluster": "comorbidity-impact",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75"
+    ]
+  },
+  {
+    "slug": "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts",
+    "title": "Can Napping After Meals Lower Blood Sugar During Holiday Feasts?",
+    "description": "Investigate whether post-meal naps impact glucose metabolism in older adults and how timing affects insulin sensitivity during the holidays.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "napping after meals blood sugar",
+      "managing blood sugar during Christmas and New Year",
+      "postprandial-glucose-habits"
+    ],
+    "primaryKeyword": "napping after meals blood sugar",
+    "topicCluster": "postprandial-glucose-habits",
+    "image": "",
+    "relatedSlugs": [
+      "can-walking-after-meals-lower-blood-sugar-in-older-adults",
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal",
+      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity"
+    ]
+  },
+  {
+    "slug": "blood-pressure-management-for-sedentary-seniors-in-winter-months",
+    "title": "Blood Pressure Management for Sedentary Seniors in Winter Months",
+    "description": "Tailored strategies for older adults with limited mobility to avoid cardiovascular strain during colder, less active seasons.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "sedentary seniors blood pressure",
+      "senior blood pressure control in winter",
+      "audience-specific-care"
+    ],
+    "primaryKeyword": "sedentary seniors blood pressure",
+    "topicCluster": "audience-specific-care",
+    "image": "",
+    "relatedSlugs": [
+      "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults",
+      "should-you-adjust-your-blood-pressure-goals-in-winter",
+      "the-hidden-dangers-of-indoor-heating-on-blood-pressure"
+    ]
+  },
+  {
+    "slug": "12-smart-swaps-to-manage-blood-sugar-during-holiday-meals",
+    "title": "12 Smart Swaps to Manage Blood Sugar During Holiday Meals",
+    "description": "Discover easy ingredient substitutions for traditional Christmas and New Year dishes that help stabilize blood glucose without sacrificing flavor.",
+    "date": "2025-12-02",
+    "updated": "2025-12-02",
+    "tags": [
+      "holiday blood sugar swaps",
+      "managing blood sugar during Christmas and New Year",
+      "diabetic-diet"
+    ],
+    "primaryKeyword": "holiday blood sugar swaps",
+    "topicCluster": "diabetic-diet",
+    "image": "",
+    "relatedSlugs": [
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "best-blood-sugar-monitoring-practices-during-the-holiday-season",
+      "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do"
+    ]
+  },
+  {
     "slug": "why-sitting-too-long-raises-blood-pressure",
     "title": "Why Sitting Too Long Raises Blood Pressure",
     "description": "Learn how prolonged sitting affects blood pressure throughout the day and simple ways to break up sedentary time.",
@@ -831,7 +1133,9 @@
     "relatedSlugs": [
       "how-does-cold-weather-affect-blood-pressure-in-older-adults",
       "should-you-adjust-your-blood-pressure-goals-in-winter",
-      "winter-vs-summer-blood-pressure-what-seniors-need-to-know"
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know"
     ]
   },
   {
@@ -1088,7 +1392,8 @@
       "can-gardening-improve-heart-health-after-50",
       "how-sleep-affects-heart-health-after-50",
       "how-pets-support-heart-health-in-older-adults",
-      "does-laughter-really-protect-your-heart-after-50"
+      "does-laughter-really-protect-your-heart-after-50",
+      "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50"
     ]
   },
   {
@@ -1152,7 +1457,9 @@
     "relatedSlugs": [
       "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
       "can-cold-weather-raise-your-blood-pressure",
-      "how-does-cold-weather-affect-blood-pressure-in-older-adults"
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults",
+      "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know",
+      "blood-pressure-management-for-sedentary-seniors-in-winter-months"
     ]
   },
   {

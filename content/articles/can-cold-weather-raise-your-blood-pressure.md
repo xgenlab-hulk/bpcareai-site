@@ -1,14 +1,24 @@
 ---
-title: "Can Cold Weather Raise Your Blood Pressure?"
-slug: "can-cold-weather-raise-your-blood-pressure"
-description: "Discover how seasonal changes and cold temperatures can affect blood pressure and what steps you can take to stay safe in winter."
-date: "2025-11-29"
-updated: "2025-11-29"
-tags: ["cold weather effect on blood pressure", "blood pressure", "hypertension-lifestyle"]
-primaryKeyword: "cold weather effect on blood pressure"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["how-does-cold-weather-affect-blood-pressure-in-older-adults", "should-you-adjust-your-blood-pressure-goals-in-winter", "winter-vs-summer-blood-pressure-what-seniors-need-to-know"]
+title: Can Cold Weather Raise Your Blood Pressure?
+slug: can-cold-weather-raise-your-blood-pressure
+description: >-
+  Discover how seasonal changes and cold temperatures can affect blood pressure
+  and what steps you can take to stay safe in winter.
+date: '2025-11-29'
+updated: '2025-11-29'
+tags:
+  - cold weather effect on blood pressure
+  - blood pressure
+  - hypertension-lifestyle
+primaryKeyword: cold weather effect on blood pressure
+topicCluster: hypertension-lifestyle
+image: ''
+relatedSlugs:
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - should-you-adjust-your-blood-pressure-goals-in-winter
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
 ---
 
 # How Cold Weather Affects Blood Pressure: What You Need to Know
