@@ -18,6 +18,7 @@ relatedSlugs:
   - the-link-between-diabetes-and-slow-healing-in-older-adults
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - understanding-a1c-goals-for-seniors-with-diabetes
+  - foot-care-basics-every-senior-with-diabetes-should-know
 ---
 
 # Understanding Diabetes-Related Vision Changes in Seniors

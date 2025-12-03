@@ -18,6 +18,7 @@ relatedSlugs:
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - managing-diabetes-while-traveling-tips-for-seniors
 ---
 
 # Can Intermittent Fasting for Type 2 Diabetes Over 60 Improve Blood Sugar Control?

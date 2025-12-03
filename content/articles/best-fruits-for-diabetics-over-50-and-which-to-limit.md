@@ -17,6 +17,8 @@ relatedSlugs:
   - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
   - best-supplements-for-blood-sugar-support-after-50
   - the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - best-low-impact-exercises-for-managing-diabetes-after-60
+  - top-10-diabetes-friendly-snacks-for-people-over-60
 ---
 
 # Best Fruits for Diabetics Over 50: Smart Choices for Balanced Blood Sugar

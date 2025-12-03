@@ -18,6 +18,7 @@ relatedSlugs:
   - best-fruits-for-diabetics-over-50-and-which-to-limit
   - best-supplements-for-blood-sugar-support-after-50
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
 ---
 
 # The Power of a High Fiber Diet for Blood Sugar Control After 50
