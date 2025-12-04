@@ -18,6 +18,7 @@ relatedSlugs:
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - understanding-a1c-goals-for-seniors-with-diabetes
   - how-dehydration-impacts-blood-pressure-levels
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
 ---
 
 # How Dehydration and Blood Sugar Levels in Seniors with Diabetes Are Connected

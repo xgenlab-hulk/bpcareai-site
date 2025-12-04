@@ -17,6 +17,7 @@ relatedSlugs:
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - how-menopause-affects-heart-disease-risk-in-women
+  - when-to-worry-about-weight-gain-after-a-family-gathering
 ---
 
 # Why Menopause Holiday Weight Gain Affects Women Differently
