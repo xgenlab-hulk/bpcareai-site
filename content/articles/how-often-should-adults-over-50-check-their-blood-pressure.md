@@ -1,14 +1,24 @@
 ---
-title: "How Often Should Adults Over 50 Check Their Blood Pressure?"
-slug: "how-often-should-adults-over-50-check-their-blood-pressure"
-description: "Get clear guidelines on blood pressure screening frequency based on risk level and overall health status."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["how often to check blood pressure after 50", "blood pressure", "blood-pressure-basics"]
-primaryKeyword: "how often to check blood pressure after 50"
-topicCluster: "blood-pressure-basics"
-image: ""
-relatedSlugs: ["why-blood-pressure-matters-even-if-you-feel-fine", "the-link-between-sleep-apnea-and-high-blood-pressure-after-50", "the-role-of-potassium-in-managing-blood-pressure-after-50", "does-caffeine-raise-blood-pressure-after-age-60"]
+title: How Often Should Adults Over 50 Check Their Blood Pressure?
+slug: how-often-should-adults-over-50-check-their-blood-pressure
+description: >-
+  Get clear guidelines on blood pressure screening frequency based on risk level
+  and overall health status.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - how often to check blood pressure after 50
+  - blood pressure
+  - blood-pressure-basics
+primaryKeyword: how often to check blood pressure after 50
+topicCluster: blood-pressure-basics
+image: ''
+relatedSlugs:
+  - why-blood-pressure-matters-even-if-you-feel-fine
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - the-role-of-potassium-in-managing-blood-pressure-after-50
+  - does-caffeine-raise-blood-pressure-after-age-60
+  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
 ---
 
 # How Often Should You Check Blood Pressure After 50? A Clear, Evidence-Based Guide

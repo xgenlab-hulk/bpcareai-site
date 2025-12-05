@@ -1,14 +1,24 @@
 ---
-title: "How Silent Heart Attacks Differ in Older Adults"
-slug: "how-silent-heart-attacks-differ-in-older-adults"
-description: "Understand why heart attacks in seniors often have no obvious symptoms and how to detect them early."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["silent heart attack symptoms in elderly", "heart disease", "heart-health"]
-primaryKeyword: "silent heart attack symptoms in elderly"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["recognizing-silent-heart-attacks-in-diabetics-over-60", "heart-disease-symptoms-in-women-over-50-what-s-often-missed", "why-winter-increases-heart-attack-risk-in-seniors-over-70"]
+title: How Silent Heart Attacks Differ in Older Adults
+slug: how-silent-heart-attacks-differ-in-older-adults
+description: >-
+  Understand why heart attacks in seniors often have no obvious symptoms and how
+  to detect them early.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - silent heart attack symptoms in elderly
+  - heart disease
+  - heart-health
+primaryKeyword: silent heart attack symptoms in elderly
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
+  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
+  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
 ---
 
 # Why Silent Heart Attack Symptoms in Elderly Adults Often Go Unnoticed—and What You Can Do

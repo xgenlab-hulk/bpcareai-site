@@ -1,14 +1,21 @@
 ---
-title: "When to Worry About a Loved One’s Winter Mood Changes After 75"
-slug: "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75"
-description: "Guide families on identifying red flags that signal depression versus normal aging behaviors in cold months."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["when to worry about seasonal depression", "seasonal depression in older adults", "emergency-symptoms"]
-primaryKeyword: "when to worry about seasonal depression"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults"]
+title: When to Worry About a Loved One’s Winter Mood Changes After 75
+slug: when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+description: >-
+  Guide families on identifying red flags that signal depression versus normal
+  aging behaviors in cold months.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - when to worry about seasonal depression
+  - seasonal depression in older adults
+  - emergency-symptoms
+primaryKeyword: when to worry about seasonal depression
+topicCluster: emergency-symptoms
+image: ''
+relatedSlugs:
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
+  - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
 ---
 
 # When to Worry About Seasonal Depression in Older Adults: A Family Guide
