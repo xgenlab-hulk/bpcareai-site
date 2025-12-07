@@ -18,6 +18,7 @@ relatedSlugs:
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
   - low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
+  - easy-heart-healthy-holiday-appetizers-under-150-calories
 ---
 
 # A Heart-Safe, Flavor-Full Holiday Turkey Brine for Seniors: Your Low-Sodium Turkey Brine for Seniors Made Simple

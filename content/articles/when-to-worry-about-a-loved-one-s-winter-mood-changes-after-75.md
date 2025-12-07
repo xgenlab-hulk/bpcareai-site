@@ -16,6 +16,7 @@ image: ''
 relatedSlugs:
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
   - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
+  - why-older-men-often-hide-their-seasonal-depression-symptoms
 ---
 
 # When to Worry About Seasonal Depression in Older Adults: A Family Guide

@@ -18,6 +18,7 @@ relatedSlugs:
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
   - the-hidden-link-between-gum-disease-and-heart-problems
   - how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - is-metformin-still-safe-for-diabetics-over-70
 ---
 
 # Understanding the Link Between Long-Term NSAID Use and Heart Disease Risk

@@ -16,6 +16,7 @@ image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
   - how-winter-depression-affects-heart-health-in-retired-adults
+  - why-older-men-often-hide-their-seasonal-depression-symptoms
 ---
 
 # How Chronic Pain and Seasonal Depression Interact in Older Adults

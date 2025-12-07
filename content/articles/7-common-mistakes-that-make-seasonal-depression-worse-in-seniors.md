@@ -1,14 +1,21 @@
 ---
-title: "7 Common Mistakes That Make Seasonal Depression Worse in Seniors"
-slug: "7-common-mistakes-that-make-seasonal-depression-worse-in-seniors"
-description: "Identify avoidable habits like staying indoors, skipping meals, or discontinuing treatment too early."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["mistakes worsening seasonal depression", "seasonal depression in older adults", "prevention-strategies"]
-primaryKeyword: "mistakes worsening seasonal depression"
-topicCluster: "prevention-strategies"
-image: ""
-relatedSlugs: ["when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75"]
+title: 7 Common Mistakes That Make Seasonal Depression Worse in Seniors
+slug: 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
+description: >-
+  Identify avoidable habits like staying indoors, skipping meals, or
+  discontinuing treatment too early.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - mistakes worsening seasonal depression
+  - seasonal depression in older adults
+  - prevention-strategies
+primaryKeyword: mistakes worsening seasonal depression
+topicCluster: prevention-strategies
+image: ''
+relatedSlugs:
+  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - why-older-men-often-hide-their-seasonal-depression-symptoms
 ---
 
 # 7 Everyday Habits That Can Make Seasonal Depression in Older Adults Worse
