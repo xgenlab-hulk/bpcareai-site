@@ -32,14 +32,6 @@
     "createdAt": "2025-11-26T21:21:20.368Z"
   },
   {
-    "title": "The Impact of Air Pollution on Heart Disease Risk in Older Adults",
-    "description": "Examine how long-term exposure to polluted air affects cardiovascular health in aging populations.",
-    "primaryKeyword": "air pollution and heart disease in seniors",
-    "topicCluster": "cardiovascular-risk",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-11-26T21:21:23.378Z"
-  },
-  {
     "title": "The Link Between Atrial Fibrillation and Heart Disease in Seniors",
     "description": "Understand how irregular heartbeat raises the risk of heart failure and stroke in older adults.",
     "primaryKeyword": "atrial fibrillation and heart disease in elderly",
@@ -70,13 +62,5 @@
     "topicCluster": "cardiovascular-risk",
     "coreKeyword": "heart disease",
     "createdAt": "2025-11-26T21:21:29.664Z"
-  },
-  {
-    "title": "How Dehydration Affects Heart Function in Older Adults",
-    "description": "Learn how insufficient fluid intake can strain the heart and mimic or worsen heart disease symptoms.",
-    "primaryKeyword": "dehydration and heart function in seniors",
-    "topicCluster": "heart-health",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-11-26T21:21:34.108Z"
   }
 ]

@@ -1,14 +1,23 @@
 ---
-title: "Why Older Men Often Hide Their Seasonal Depression Symptoms"
-slug: "why-older-men-often-hide-their-seasonal-depression-symptoms"
-description: "Address cultural and psychological barriers that prevent aging men from acknowledging mood changes in winter."
-date: "2025-12-07"
-updated: "2025-12-07"
-tags: ["men and hidden seasonal depression", "seasonal depression in older adults", "gender-expression-barriers"]
-primaryKeyword: "men and hidden seasonal depression"
-topicCluster: "gender-expression-barriers"
-image: ""
-relatedSlugs: ["when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75", "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults", "7-common-mistakes-that-make-seasonal-depression-worse-in-seniors"]
+title: Why Older Men Often Hide Their Seasonal Depression Symptoms
+slug: why-older-men-often-hide-their-seasonal-depression-symptoms
+description: >-
+  Address cultural and psychological barriers that prevent aging men from
+  acknowledging mood changes in winter.
+date: '2025-12-07'
+updated: '2025-12-07'
+tags:
+  - men and hidden seasonal depression
+  - seasonal depression in older adults
+  - gender-expression-barriers
+primaryKeyword: men and hidden seasonal depression
+topicCluster: gender-expression-barriers
+image: ''
+relatedSlugs:
+  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
+  - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
 ---
 
 # Why Older Men Struggle to Recognize—and Share—their Seasonal Depression Symptoms  
