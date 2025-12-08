@@ -1,14 +1,24 @@
 ---
-title: "Is Metformin Still Safe for Diabetics Over 70?"
-slug: "is-metformin-still-safe-for-diabetics-over-70"
-description: "Review the benefits and potential side effects of long-term metformin use in older patients."
-date: "2025-12-07"
-updated: "2025-12-07"
-tags: ["metformin safety for elderly with diabetes", "diabetes", "diabetes-treatment"]
-primaryKeyword: "metformin safety for elderly with diabetes"
-topicCluster: "diabetes-treatment"
-image: ""
-relatedSlugs: ["managing-diabetes-while-traveling-tips-for-seniors", "the-impact-of-long-term-nsaid-use-on-heart-disease-risk"]
+title: Is Metformin Still Safe for Diabetics Over 70?
+slug: is-metformin-still-safe-for-diabetics-over-70
+description: >-
+  Review the benefits and potential side effects of long-term metformin use in
+  older patients.
+date: '2025-12-07'
+updated: '2025-12-07'
+tags:
+  - metformin safety for elderly with diabetes
+  - diabetes
+  - diabetes-treatment
+primaryKeyword: metformin safety for elderly with diabetes
+topicCluster: diabetes-treatment
+image: ''
+relatedSlugs:
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
+  - best-low-impact-exercises-for-managing-diabetes-after-60
 ---
 
 # Is Metformin Still Safe for Older Adults with Diabetes? Understanding Metformin Safety for Elderly with Diabetes

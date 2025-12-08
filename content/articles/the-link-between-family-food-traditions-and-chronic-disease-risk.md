@@ -15,6 +15,11 @@ topicCluster: cultural-diet-impact
 image: ''
 relatedSlugs:
   - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
+  - what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
 ---
 
 # How Food Traditions and Disease Risk Shape Heart Health as We Age

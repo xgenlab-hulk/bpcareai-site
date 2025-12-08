@@ -16,6 +16,9 @@ image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
   - why-older-men-often-hide-their-seasonal-depression-symptoms
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
+  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
+  - how-winter-depression-affects-heart-health-in-retired-adults
 ---
 
 # 7 Everyday Habits That Can Make Seasonal Depression in Older Adults Worse

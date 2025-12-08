@@ -1,14 +1,22 @@
 ---
-title: "Heart Disease and Erectile Dysfunction: What Men Should Know"
-slug: "heart-disease-and-erectile-dysfunction-what-men-should-know"
-description: "Explore how ED can be an early warning sign of blocked arteries and cardiovascular disease."
-date: "2025-12-01"
-updated: "2025-12-01"
-tags: ["erectile dysfunction as sign of heart disease", "heart disease", "heart-health"]
-primaryKeyword: "erectile dysfunction as sign of heart disease"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["heart-disease-warning-signs-that-appear-years-in-advance", "can-hearing-loss-be-an-early-sign-of-heart-disease"]
+title: 'Heart Disease and Erectile Dysfunction: What Men Should Know'
+slug: heart-disease-and-erectile-dysfunction-what-men-should-know
+description: >-
+  Explore how ED can be an early warning sign of blocked arteries and
+  cardiovascular disease.
+date: '2025-12-01'
+updated: '2025-12-01'
+tags:
+  - erectile dysfunction as sign of heart disease
+  - heart disease
+  - heart-health
+primaryKeyword: erectile dysfunction as sign of heart disease
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - heart-disease-warning-signs-that-appear-years-in-advance
+  - can-hearing-loss-be-an-early-sign-of-heart-disease
+  - how-strong-are-your-fingernails-what-it-might-say-about-your-heart
 ---
 
 # Erectile Dysfunction as a Sign of Heart Disease: What Men Over 50 Should Know

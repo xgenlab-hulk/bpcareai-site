@@ -1,14 +1,24 @@
 ---
-title: "How Does Family History Influence Your Risk of Heart Disease After 60?"
-slug: "how-does-family-history-influence-your-risk-of-heart-disease-after-60"
-description: "Understand the role genetics play in heart disease risk and what preventive steps you can take if it runs in your family."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["family history and heart disease risk after 60", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "family history and heart disease risk after 60"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["is-sitting-too-much-harming-your-heart-after-60"]
+title: How Does Family History Influence Your Risk of Heart Disease After 60?
+slug: how-does-family-history-influence-your-risk-of-heart-disease-after-60
+description: >-
+  Understand the role genetics play in heart disease risk and what preventive
+  steps you can take if it runs in your family.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - family history and heart disease risk after 60
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: family history and heart disease risk after 60
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - is-sitting-too-much-harming-your-heart-after-60
+  - how-social-isolation-increases-heart-disease-risk-after-60
+  - why-annual-heart-screenings-are-crucial-after-turning-60
+  - how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
 ---
 
 # How Family History and Heart Disease Risk After 60 Are Connected

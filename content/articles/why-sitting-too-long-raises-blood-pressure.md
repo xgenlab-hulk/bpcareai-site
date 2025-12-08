@@ -1,14 +1,23 @@
 ---
-title: "Why Sitting Too Long Raises Blood Pressure"
-slug: "why-sitting-too-long-raises-blood-pressure"
-description: "Learn how prolonged sitting affects blood pressure throughout the day and simple ways to break up sedentary time."
-date: "2025-12-01"
-updated: "2025-12-01"
-tags: ["sitting and high blood pressure risk", "blood pressure", "hypertension-lifestyle"]
-primaryKeyword: "sitting and high blood pressure risk"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["is-sitting-too-much-harming-your-heart-after-60", "how-chronic-stress-contributes-to-high-blood-pressure-over-time"]
+title: Why Sitting Too Long Raises Blood Pressure
+slug: why-sitting-too-long-raises-blood-pressure
+description: >-
+  Learn how prolonged sitting affects blood pressure throughout the day and
+  simple ways to break up sedentary time.
+date: '2025-12-01'
+updated: '2025-12-01'
+tags:
+  - sitting and high blood pressure risk
+  - blood pressure
+  - hypertension-lifestyle
+primaryKeyword: sitting and high blood pressure risk
+topicCluster: hypertension-lifestyle
+image: ''
+relatedSlugs:
+  - is-sitting-too-much-harming-your-heart-after-60
+  - how-chronic-stress-contributes-to-high-blood-pressure-over-time
+  - blood-pressure-changes-during-menopause-what-women-should-know
+  - how-belly-fat-increases-blood-pressure-risk-after-middle-age
 ---
 
 # How Prolonged Sitting Increases Sitting and High Blood Pressure Risk

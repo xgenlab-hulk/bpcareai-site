@@ -1,14 +1,24 @@
 ---
-title: "Exercise-Induced Blood Pressure: When It’s Normal vs. Dangerous"
-slug: "exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous"
-description: "Understand how physical activity temporarily raises blood pressure and recognize warning signs of abnormal responses."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["exercise and temporary blood pressure increase", "blood pressure", "heart-health"]
-primaryKeyword: "exercise and temporary blood pressure increase"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["when-to-worry-about-high-readings"]
+title: 'Exercise-Induced Blood Pressure: When It’s Normal vs. Dangerous'
+slug: exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
+description: >-
+  Understand how physical activity temporarily raises blood pressure and
+  recognize warning signs of abnormal responses.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - exercise and temporary blood pressure increase
+  - blood pressure
+  - heart-health
+primaryKeyword: exercise and temporary blood pressure increase
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - when-to-worry-about-high-readings
+  - how-walking-speed-can-reflect-heart-health-and-blood-pressure
+  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
+  - why-blood-pressure-matters-even-if-you-feel-fine
 ---
 
 # When Exercise and Temporary Blood Pressure Increase Are Normal — And When They’re a Red Flag

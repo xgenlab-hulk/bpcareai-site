@@ -1,14 +1,25 @@
 ---
-title: "How Light Therapy Can Help Older Adults Beat Winter Blues After 65"
-slug: "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65"
-description: "Explore the science behind light therapy boxes, recommended usage, and real benefits for seniors struggling with seasonal mood changes."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["light therapy for seasonal depression", "seasonal depression in older adults", "treatment-options"]
-primaryKeyword: "light therapy for seasonal depression"
-topicCluster: "treatment-options"
-image: ""
-relatedSlugs: []
+title: How Light Therapy Can Help Older Adults Beat Winter Blues After 65
+slug: how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
+description: >-
+  Explore the science behind light therapy boxes, recommended usage, and real
+  benefits for seniors struggling with seasonal mood changes.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - light therapy for seasonal depression
+  - seasonal depression in older adults
+  - treatment-options
+primaryKeyword: light therapy for seasonal depression
+topicCluster: treatment-options
+image: ''
+relatedSlugs:
+  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - should-you-adjust-your-blood-pressure-goals-in-winter
+  - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
 ---
 
 # How Light Therapy for Seasonal Depression Can Brighten Winter Days After 65

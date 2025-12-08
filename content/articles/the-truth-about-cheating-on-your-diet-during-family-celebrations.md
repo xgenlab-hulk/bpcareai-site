@@ -1,14 +1,26 @@
 ---
-title: "The Truth About 'Cheating' on Your Diet During Family Celebrations"
-slug: "the-truth-about-cheating-on-your-diet-during-family-celebrations"
-description: "Examines whether occasional indulgences are harmful or sustainable for long-term health, especially for people with diabetes or heart concerns."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["cheating on diet occasional basis", "healthy eating during family gatherings", "diet-myths-facts"]
-primaryKeyword: "cheating on diet occasional basis"
-topicCluster: "diet-myths-facts"
-image: ""
-relatedSlugs: ["how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out"]
+title: The Truth About 'Cheating' on Your Diet During Family Celebrations
+slug: the-truth-about-cheating-on-your-diet-during-family-celebrations
+description: >-
+  Examines whether occasional indulgences are harmful or sustainable for
+  long-term health, especially for people with diabetes or heart concerns.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - cheating on diet occasional basis
+  - healthy eating during family gatherings
+  - diet-myths-facts
+primaryKeyword: cheating on diet occasional basis
+topicCluster: diet-myths-facts
+image: ''
+relatedSlugs:
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # The Reality of Cheating on Your Diet on an Occasional Basis

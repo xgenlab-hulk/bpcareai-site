@@ -1,14 +1,25 @@
 ---
-title: "When to Worry About Weight Gain After a Family Gathering"
-slug: "when-to-worry-about-weight-gain-after-a-family-gathering"
-description: "Explains what level of post-event weight gain is normal versus concerning, especially for those with cardiovascular or metabolic risks."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["post-holiday weight gain concerns", "healthy eating during family gatherings", "weight-monitoring"]
-primaryKeyword: "post-holiday weight gain concerns"
-topicCluster: "weight-monitoring"
-image: ""
-relatedSlugs: ["why-older-women-gain-weight-faster-during-the-holidays-after-menopause", "when-to-worry-about-chest-discomfort-after-a-big-holiday-meal"]
+title: When to Worry About Weight Gain After a Family Gathering
+slug: when-to-worry-about-weight-gain-after-a-family-gathering
+description: >-
+  Explains what level of post-event weight gain is normal versus concerning,
+  especially for those with cardiovascular or metabolic risks.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - post-holiday weight gain concerns
+  - healthy eating during family gatherings
+  - weight-monitoring
+primaryKeyword: post-holiday weight gain concerns
+topicCluster: weight-monitoring
+image: ''
+relatedSlugs:
+  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
+  - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
+  - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
 ---
 
 # Understanding Post-Holiday Weight Gain Concerns After Family Gatherings

@@ -1,14 +1,24 @@
 ---
-title: "How to Support a Parent with Seasonal Depression While Living Far Away"
-slug: "how-to-support-a-parent-with-seasonal-depression-while-living-far-away"
-description: "Offer practical long-distance caregiving tips including telehealth, routine checks, and technology use."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["supporting parent with seasonal depression", "seasonal depression in older adults", "family-caregiving"]
-primaryKeyword: "supporting parent with seasonal depression"
-topicCluster: "family-caregiving"
-image: ""
-relatedSlugs: []
+title: How to Support a Parent with Seasonal Depression While Living Far Away
+slug: how-to-support-a-parent-with-seasonal-depression-while-living-far-away
+description: >-
+  Offer practical long-distance caregiving tips including telehealth, routine
+  checks, and technology use.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - supporting parent with seasonal depression
+  - seasonal depression in older adults
+  - family-caregiving
+primaryKeyword: supporting parent with seasonal depression
+topicCluster: family-caregiving
+image: ''
+relatedSlugs:
+  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
+  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 ---
 
 # Practical Ways to Support a Parent with Seasonal Depression from Afar

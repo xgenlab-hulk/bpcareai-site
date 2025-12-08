@@ -1,14 +1,22 @@
 ---
-title: "Hidden Salt: Surprising Foods That Raise Blood Pressure"
-slug: "hidden-salt-surprising-foods-that-raise-blood-pressure"
-description: "Identify everyday foods packed with hidden sodium and learn how to make smarter grocery choices to protect your heart."
-date: "2025-12-07"
-updated: "2025-12-07"
-tags: ["hidden salt in foods and blood pressure", "blood pressure", "hypertension-lifestyle"]
-primaryKeyword: "hidden salt in foods and blood pressure"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["hidden-salt-10-surprising-foods-that-spike-blood-pressure", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"]
+title: 'Hidden Salt: Surprising Foods That Raise Blood Pressure'
+slug: hidden-salt-surprising-foods-that-raise-blood-pressure
+description: >-
+  Identify everyday foods packed with hidden sodium and learn how to make
+  smarter grocery choices to protect your heart.
+date: '2025-12-07'
+updated: '2025-12-07'
+tags:
+  - hidden salt in foods and blood pressure
+  - blood pressure
+  - hypertension-lifestyle
+primaryKeyword: hidden salt in foods and blood pressure
+topicCluster: hypertension-lifestyle
+image: ''
+relatedSlugs:
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - the-role-of-potassium-in-managing-blood-pressure-after-50
 ---
 
 # Hidden Salt in Foods and Blood Pressure: What You’re Eating Might Be Working Against Your Heart

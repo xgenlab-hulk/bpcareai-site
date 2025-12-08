@@ -15,6 +15,10 @@ topicCluster: emergency-symptoms
 image: ''
 relatedSlugs:
   - when-to-worry-about-weight-gain-after-a-family-gathering
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
 ---
 
 # When to Worry About Chest Discomfort After Eating: Key Warning Signs for Seniors

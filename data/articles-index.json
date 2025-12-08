@@ -56,7 +56,11 @@
     "topicCluster": "behavioral-change",
     "image": "",
     "relatedSlugs": [
-      "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out"
+      "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out",
+      "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals",
+      "the-link-between-family-food-traditions-and-chronic-disease-risk",
+      "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "the-truth-about-cheating-on-your-diet-during-family-celebrations"
     ]
   },
   {
@@ -119,7 +123,10 @@
     "image": "",
     "relatedSlugs": [
       "managing-diabetes-while-traveling-tips-for-seniors",
-      "the-impact-of-long-term-nsaid-use-on-heart-disease-risk"
+      "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes",
+      "can-vitamin-d-deficiency-make-diabetes-worse-in-seniors",
+      "best-low-impact-exercises-for-managing-diabetes-after-60"
     ]
   },
   {
@@ -202,7 +209,8 @@
     "image": "",
     "relatedSlugs": [
       "hidden-salt-10-surprising-foods-that-spike-blood-pressure",
-      "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"
+      "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+      "the-role-of-potassium-in-managing-blood-pressure-after-50"
     ]
   },
   {
@@ -567,7 +575,13 @@
     "primaryKeyword": "high cholesterol and heart disease with normal blood pressure",
     "topicCluster": "cardiovascular-risk",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "why-men-over-50-should-monitor-cholesterol-even-without-symptoms",
+      "why-blood-pressure-matters-even-if-you-feel-fine",
+      "how-morning-blood-pressure-spikes-affect-your-heart",
+      "hidden-salt-surprising-foods-that-raise-blood-pressure",
+      "the-link-between-sleep-apnea-and-high-blood-pressure"
+    ]
   },
   {
     "slug": "blood-pressure-and-alcohol-how-much-is-too-much",
@@ -937,7 +951,10 @@
     "image": "",
     "relatedSlugs": [
       "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75",
-      "why-older-men-often-hide-their-seasonal-depression-symptoms"
+      "why-older-men-often-hide-their-seasonal-depression-symptoms",
+      "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults",
+      "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65",
+      "how-winter-depression-affects-heart-health-in-retired-adults"
     ]
   },
   {
@@ -978,7 +995,10 @@
     "image": "",
     "relatedSlugs": [
       "why-older-women-gain-weight-faster-during-the-holidays-after-menopause",
-      "when-to-worry-about-chest-discomfort-after-a-big-holiday-meal"
+      "when-to-worry-about-chest-discomfort-after-a-big-holiday-meal",
+      "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes",
+      "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart",
+      "7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them"
     ]
   },
   {
@@ -1125,7 +1145,11 @@
     "primaryKeyword": "healthier store-bought party food",
     "topicCluster": "practical-diet-hacks",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals",
+      "top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table",
+      "10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor"
+    ]
   },
   {
     "slug": "isolated-systolic-hypertension-what-it-means-for-older-adults",
@@ -1185,7 +1209,13 @@
     "primaryKeyword": "supporting parent with seasonal depression",
     "topicCluster": "family-caregiving",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75",
+      "7-common-mistakes-that-make-seasonal-depression-worse-in-seniors",
+      "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65",
+      "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide",
+      "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults"
+    ]
   },
   {
     "slug": "how-silent-heart-attacks-differ-in-older-adults",
@@ -1332,7 +1362,11 @@
     "topicCluster": "diet-myths-facts",
     "image": "",
     "relatedSlugs": [
-      "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out"
+      "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out",
+      "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+      "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes",
+      "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health",
+      "best-blood-sugar-monitoring-practices-during-the-holiday-season"
     ]
   },
   {
@@ -1458,7 +1492,11 @@
     "topicCluster": "heart-health",
     "image": "",
     "relatedSlugs": [
-      "when-to-worry-about-high-readings"
+      "when-to-worry-about-high-readings",
+      "how-walking-speed-can-reflect-heart-health-and-blood-pressure",
+      "the-best-indoor-exercises-for-blood-pressure-control-in-winter",
+      "how-standing-up-too-fast-affects-blood-pressure-in-older-adults",
+      "why-blood-pressure-matters-even-if-you-feel-fine"
     ]
   },
   {
@@ -1630,7 +1668,11 @@
     "topicCluster": "emergency-symptoms",
     "image": "",
     "relatedSlugs": [
-      "when-to-worry-about-weight-gain-after-a-family-gathering"
+      "when-to-worry-about-weight-gain-after-a-family-gathering",
+      "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes",
+      "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60",
+      "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties",
+      "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals"
     ]
   },
   {
@@ -1735,7 +1777,8 @@
     "image": "",
     "relatedSlugs": [
       "are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart",
-      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection"
+      "heart-disease-and-chronic-kidney-disease-the-dangerous-connection",
+      "how-menopause-affects-heart-disease-risk-in-women"
     ]
   },
   {
@@ -1795,7 +1838,13 @@
     "primaryKeyword": "light therapy for seasonal depression",
     "topicCluster": "treatment-options",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75",
+      "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults",
+      "can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors",
+      "should-you-adjust-your-blood-pressure-goals-in-winter",
+      "7-common-mistakes-that-make-seasonal-depression-worse-in-seniors"
+    ]
   },
   {
     "slug": "how-does-family-history-influence-your-risk-of-heart-disease-after-60",
@@ -1812,7 +1861,11 @@
     "topicCluster": "cardiovascular-risk",
     "image": "",
     "relatedSlugs": [
-      "is-sitting-too-much-harming-your-heart-after-60"
+      "is-sitting-too-much-harming-your-heart-after-60",
+      "how-social-isolation-increases-heart-disease-risk-after-60",
+      "why-annual-heart-screenings-are-crucial-after-turning-60",
+      "how-type-2-diabetes-increases-heart-disease-risk-after-50",
+      "how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors"
     ]
   },
   {
@@ -1917,7 +1970,9 @@
     "image": "",
     "relatedSlugs": [
       "is-sitting-too-much-harming-your-heart-after-60",
-      "how-chronic-stress-contributes-to-high-blood-pressure-over-time"
+      "how-chronic-stress-contributes-to-high-blood-pressure-over-time",
+      "blood-pressure-changes-during-menopause-what-women-should-know",
+      "how-belly-fat-increases-blood-pressure-risk-after-middle-age"
     ]
   },
   {
@@ -1935,7 +1990,11 @@
     "topicCluster": "cultural-diet-impact",
     "image": "",
     "relatedSlugs": [
-      "10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor"
+      "10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor",
+      "7-smart-swaps-for-healthier-holiday-meals-after-65",
+      "7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about",
+      "what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices",
+      "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health"
     ]
   },
   {
@@ -1976,7 +2035,8 @@
     "image": "",
     "relatedSlugs": [
       "how-frequent-urination-at-night-could-signal-heart-problems",
-      "the-connection-between-frequent-urination-at-night-and-heart-health"
+      "the-connection-between-frequent-urination-at-night-and-heart-health",
+      "could-your-heartbeats-per-minute-predict-longevity"
     ]
   },
   {
@@ -2125,7 +2185,8 @@
     "image": "",
     "relatedSlugs": [
       "heart-disease-warning-signs-that-appear-years-in-advance",
-      "can-hearing-loss-be-an-early-sign-of-heart-disease"
+      "can-hearing-loss-be-an-early-sign-of-heart-disease",
+      "how-strong-are-your-fingernails-what-it-might-say-about-your-heart"
     ]
   },
   {

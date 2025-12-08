@@ -1,14 +1,24 @@
 ---
-title: "Can High Cholesterol Cause Heart Disease Even with Normal Blood Pressure?"
-slug: "can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure"
-description: "Explore how cholesterol levels independently impact heart disease risk, even when blood pressure is under control."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["high cholesterol and heart disease with normal blood pressure", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "high cholesterol and heart disease with normal blood pressure"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: []
+title: Can High Cholesterol Cause Heart Disease Even with Normal Blood Pressure?
+slug: can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure
+description: >-
+  Explore how cholesterol levels independently impact heart disease risk, even
+  when blood pressure is under control.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - high cholesterol and heart disease with normal blood pressure
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: high cholesterol and heart disease with normal blood pressure
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
+  - why-blood-pressure-matters-even-if-you-feel-fine
+  - how-morning-blood-pressure-spikes-affect-your-heart
+  - hidden-salt-surprising-foods-that-raise-blood-pressure
+  - the-link-between-sleep-apnea-and-high-blood-pressure
 ---
 
 # Can High Cholesterol Lead to Heart Disease Even With Normal Blood Pressure?
