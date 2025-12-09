@@ -16,14 +16,6 @@
     "createdAt": "2025-11-27T08:09:35.699Z"
   },
   {
-    "title": "Can Vitamin B12 Deficiency Worsen Seasonal Depression in Seniors?",
-    "description": "Investigate the link between low B12 levels and mood regulation in aging adults, especially during darker months.",
-    "primaryKeyword": "vitamin b12 and seasonal depression",
-    "topicCluster": "nutrient-deficiencies",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2025-11-27T08:09:36.653Z"
-  },
-  {
     "title": "The Link Between Social Isolation and Seasonal Mood Decline in Retirees",
     "description": "Analyze how reduced social interaction in winter contributes to depression in older adults living alone or with limited mobility.",
     "primaryKeyword": "social isolation and seasonal depression",
@@ -56,28 +48,12 @@
     "createdAt": "2025-11-27T08:09:42.515Z"
   },
   {
-    "title": "The Hidden Role of Vitamin D Deficiency in Winter Depression Among Nursing Home Residents",
-    "description": "Focus on institutionalized seniors with limited sun exposure and how supplementation may improve mood outcomes.",
-    "primaryKeyword": "vitamin d deficiency in nursing homes",
-    "topicCluster": "diet-nutrition",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2025-11-27T08:09:43.200Z"
-  },
-  {
     "title": "Is Your Senior Loved One Withdrawn This Winter? It Might Be Seasonal Depression",
     "description": "Help readers understand behavioral shifts like withdrawal, apathy, or sleep changes as possible clinical signs.",
     "primaryKeyword": "withdrawn behavior in seniors winter",
     "topicCluster": "behavioral-changes",
     "coreKeyword": "seasonal depression in older adults",
     "createdAt": "2025-11-27T08:09:45.968Z"
-  },
-  {
-    "title": "How Sleep Disruption Fuels Seasonal Mood Disorders in Adults Over 60",
-    "description": "Explain the connection between shortened daylight, melatonin imbalance, and disrupted sleep-wake cycles in older adults.",
-    "primaryKeyword": "sleep disruption and seasonal depression",
-    "topicCluster": "sleep-health",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2025-11-27T08:09:47.030Z"
   },
   {
     "title": "Can Mindfulness Meditation Ease Winter Blues in Older Adults with Mild Depression?",
@@ -126,13 +102,5 @@
     "topicCluster": "immediate-interventions",
     "coreKeyword": "seasonal depression in older adults",
     "createdAt": "2025-11-27T08:09:52.182Z"
-  },
-  {
-    "title": "How Group Activities in Senior Centers Prevent Seasonal Depression",
-    "description": "Show how structured social programs combat loneliness and stimulate engagement during dark months.",
-    "primaryKeyword": "senior center activities and depression",
-    "topicCluster": "community-engagement",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2025-11-27T08:09:52.906Z"
   }
 ]

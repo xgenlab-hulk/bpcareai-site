@@ -18,6 +18,7 @@ relatedSlugs:
   - how-winter-depression-affects-heart-health-in-retired-adults
   - why-older-men-often-hide-their-seasonal-depression-symptoms
   - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
 ---
 
 # How Chronic Pain and Seasonal Depression Interact in Older Adults

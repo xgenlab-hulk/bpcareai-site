@@ -18,6 +18,7 @@ relatedSlugs:
   - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
   - why-older-men-often-hide-their-seasonal-depression-symptoms
   - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
 ---
 
 # When to Worry About Seasonal Depression in Older Adults: A Family Guide
