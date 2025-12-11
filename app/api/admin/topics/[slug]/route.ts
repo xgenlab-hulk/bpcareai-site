@@ -24,7 +24,10 @@ export async function DELETE(
   } catch (error) {
     console.error('Delete topic error:', error);
     return NextResponse.json(
-      { error: 'Failed to delete topic' },
+      {
+        error: 'Failed to delete topic',
+        details: error instanceof Error ? error.message : String(error)
+      },
       { status: 500 }
     );
   }
