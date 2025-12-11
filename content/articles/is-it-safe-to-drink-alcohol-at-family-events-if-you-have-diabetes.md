@@ -1,14 +1,27 @@
 ---
-title: "Is It Safe to Drink Alcohol at Family Events If You Have Diabetes?"
-slug: "is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes"
-description: "Discusses the effects of alcoholic beverages on blood sugar and medication interactions, with safety guidelines for moderate drinking."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["alcohol and diabetes safety", "healthy eating during family gatherings", "diabetic-lifestyle"]
-primaryKeyword: "alcohol and diabetes safety"
-topicCluster: "diabetic-lifestyle"
-image: ""
-relatedSlugs: ["what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health", "does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely"]
+title: Is It Safe to Drink Alcohol at Family Events If You Have Diabetes?
+slug: is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes
+description: >-
+  Discusses the effects of alcoholic beverages on blood sugar and medication
+  interactions, with safety guidelines for moderate drinking.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - alcohol and diabetes safety
+  - healthy eating during family gatherings
+  - diabetic-lifestyle
+primaryKeyword: alcohol and diabetes safety
+topicCluster: diabetic-lifestyle
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
+  - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
 ---
 
 # Alcohol and Diabetes Safety: What You Need to Know Before the Next Family Gathering

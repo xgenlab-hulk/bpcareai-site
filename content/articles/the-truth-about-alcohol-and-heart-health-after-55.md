@@ -1,14 +1,24 @@
 ---
-title: "The Truth About Alcohol and Heart Health After 55"
-slug: "the-truth-about-alcohol-and-heart-health-after-55"
-description: "Weigh the pros and cons of moderate drinking and its real impact on long-term heart wellness."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["alcohol effects on heart health after 55", "heart health", "heart-health"]
-primaryKeyword: "alcohol effects on heart health after 55"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["how-sleep-affects-heart-health-after-50", "is-sitting-too-much-harming-your-heart-after-60", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "does-laughter-really-protect-your-heart-after-50"]
+title: The Truth About Alcohol and Heart Health After 55
+slug: the-truth-about-alcohol-and-heart-health-after-55
+description: >-
+  Weigh the pros and cons of moderate drinking and its real impact on long-term
+  heart wellness.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - alcohol effects on heart health after 55
+  - heart health
+  - heart-health
+primaryKeyword: alcohol effects on heart health after 55
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - how-sleep-affects-heart-health-after-50
+  - is-sitting-too-much-harming-your-heart-after-60
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - does-laughter-really-protect-your-heart-after-50
+  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
 ---
 
 # What Alcohol Really Does to Your Heart After 55: Understanding the Facts
