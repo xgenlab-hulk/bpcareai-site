@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2025-12-12T03:56:47.497Z",
+  "lastUpdated": "2025-12-13T03:49:28.317Z",
   "dateRange": {
-    "start": "2025-09-10",
-    "end": "2025-12-09"
+    "start": "2025-09-11",
+    "end": "2025-12-10"
   },
   "daily": [
     {
@@ -130,26 +130,33 @@
       "impressions": 20,
       "ctr": 0,
       "position": 14.45
+    },
+    {
+      "date": "2025-12-10",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 18.9375
     }
   ],
   "summary": {
     "last7Days": {
       "clicks": 1,
-      "impressions": 197,
-      "ctr": 0.005076142131979695,
-      "position": 17.48693853035285
+      "impressions": 173,
+      "ctr": 0.005780346820809248,
+      "position": 17.74943853035285
     },
     "last30Days": {
       "clicks": 4,
-      "impressions": 366,
-      "ctr": 0.01092896174863388,
-      "position": 17.500091646360957
+      "impressions": 382,
+      "ctr": 0.010471204188481676,
+      "position": 17.575744717605115
     },
     "last90Days": {
       "clicks": 4,
-      "impressions": 366,
-      "ctr": 0.01092896174863388,
-      "position": 17.500091646360957
+      "impressions": 382,
+      "ctr": 0.010471204188481676,
+      "position": 17.575744717605115
     }
   }
 }
