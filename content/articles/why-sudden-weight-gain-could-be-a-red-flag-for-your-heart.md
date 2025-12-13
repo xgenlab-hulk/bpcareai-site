@@ -18,6 +18,7 @@ relatedSlugs:
   - heart-disease-warning-signs-that-appear-years-in-advance
   - how-walking-speed-can-reflect-heart-health-and-blood-pressure
   - the-connection-between-frequent-urination-at-night-and-heart-health
+  - could-leg-swelling-be-a-sign-of-heart-trouble-after-50
 ---
 
 # Sudden Weight Gain and Heart Failure Warning Signs: What You Should Know

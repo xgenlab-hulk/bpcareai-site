@@ -18,6 +18,7 @@ relatedSlugs:
   - does-caffeine-raise-blood-pressure-after-age-60
   - blood-pressure-changes-during-menopause-what-women-should-know
   - how-often-should-adults-over-50-check-their-blood-pressure
+  - top-5-winter-superfoods-that-naturally-lower-blood-pressure
 ---
 
 # How Potassium and Blood Pressure Management Over 50 Can Work Together
