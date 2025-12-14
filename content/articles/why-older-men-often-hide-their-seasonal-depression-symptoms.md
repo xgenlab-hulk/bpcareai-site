@@ -18,6 +18,8 @@ relatedSlugs:
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
   - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
   - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - >-
+    is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
 ---
 
 # Why Older Men Struggle to Recognize—and Share—their Seasonal Depression Symptoms  

@@ -18,6 +18,7 @@ relatedSlugs:
   - can-meditation-lower-blood-pressure-naturally
   - natural-ways-to-lower-blood-pressure-this-winter-without-medication
   - can-drinking-more-water-help-lower-blood-pressure-naturally
+  - 3-simple-breathing-techniques-to-reduce-heart-stress-in-cold-air
 ---
 
 # Can Deep Breathing Exercises to Lower Blood Pressure Really Help? A Gentle, Science-Backed Look

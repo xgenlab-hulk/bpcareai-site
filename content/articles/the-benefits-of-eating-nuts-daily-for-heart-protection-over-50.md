@@ -1,14 +1,24 @@
 ---
-title: "The Benefits of Eating Nuts Daily for Heart Protection Over 50"
-slug: "the-benefits-of-eating-nuts-daily-for-heart-protection-over-50"
-description: "Discover how a handful of nuts each day can reduce bad cholesterol and support artery health."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["daily nut consumption and heart protection after 50", "heart health", "heart-health"]
-primaryKeyword: "daily nut consumption and heart protection after 50"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors", "how-fiber-rich-diets-support-heart-health-in-people-over-60", "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50", "can-meditation-reduce-heart-disease-risk-after-50"]
+title: The Benefits of Eating Nuts Daily for Heart Protection Over 50
+slug: the-benefits-of-eating-nuts-daily-for-heart-protection-over-50
+description: >-
+  Discover how a handful of nuts each day can reduce bad cholesterol and support
+  artery health.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - daily nut consumption and heart protection after 50
+  - heart health
+  - heart-health
+primaryKeyword: daily nut consumption and heart protection after 50
+topicCluster: heart-health
+image: ''
+relatedSlugs:
+  - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
+  - how-fiber-rich-diets-support-heart-health-in-people-over-60
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
 ---
 
 # How Daily Nut Consumption and Heart Protection After 50 Work Hand in Hand
