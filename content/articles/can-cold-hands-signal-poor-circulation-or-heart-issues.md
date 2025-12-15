@@ -17,6 +17,7 @@ relatedSlugs:
   - can-hearing-loss-be-an-early-sign-of-heart-disease
   - is-your-posture-affecting-your-heart-what-older-adults-should-know
   - the-connection-between-frequent-urination-at-night-and-heart-health
+  - when-to-worry-about-chest-tightness-in-cold-weather
 ---
 
 # Can Cold Hands Signal Poor Circulation and Heart Health Concerns?

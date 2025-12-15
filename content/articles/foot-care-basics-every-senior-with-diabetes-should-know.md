@@ -1,14 +1,23 @@
 ---
-title: "Foot Care Basics Every Senior with Diabetes Should Know"
-slug: "foot-care-basics-every-senior-with-diabetes-should-know"
-description: "Prevent serious complications with daily foot care routines tailored for those with nerve damage."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["diabetic foot care for seniors", "diabetes", "diabetes-complications"]
-primaryKeyword: "diabetic foot care for seniors"
-topicCluster: "diabetes-complications"
-image: ""
-relatedSlugs: ["the-link-between-diabetes-and-slow-healing-in-older-adults", "diabetes-and-vision-changes-what-seniors-need-to-know", "recognizing-silent-heart-attacks-in-diabetics-over-60"]
+title: Foot Care Basics Every Senior with Diabetes Should Know
+slug: foot-care-basics-every-senior-with-diabetes-should-know
+description: >-
+  Prevent serious complications with daily foot care routines tailored for those
+  with nerve damage.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - diabetic foot care for seniors
+  - diabetes
+  - diabetes-complications
+primaryKeyword: diabetic foot care for seniors
+topicCluster: diabetes-complications
+image: ''
+relatedSlugs:
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
+  - diabetes-and-vision-changes-what-seniors-need-to-know
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
+  - how-kidney-function-declines-faster-in-older-adults-with-diabetes
 ---
 
 # Essential Diabetic Foot Care for Seniors: Simple Daily Habits That Protect Your Steps
