@@ -1,14 +1,24 @@
 ---
-title: "Quick Ways to Lift a Senior’s Mood During a Winter Blue Day"
-slug: "quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day"
-description: "Offer immediate, small actions like phone calls, music, short walks, or favorite foods to interrupt low mood episodes."
-date: "2025-12-12"
-updated: "2025-12-12"
-tags: ["quick mood boosters for seniors", "seasonal depression in older adults", "immediate-interventions"]
-primaryKeyword: "quick mood boosters for seniors"
-topicCluster: "immediate-interventions"
-image: ""
-relatedSlugs: ["best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70", "natural-ways-to-manage-seasonal-depression-in-seniors-without-medication"]
+title: Quick Ways to Lift a Senior’s Mood During a Winter Blue Day
+slug: quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
+description: >-
+  Offer immediate, small actions like phone calls, music, short walks, or
+  favorite foods to interrupt low mood episodes.
+date: '2025-12-12'
+updated: '2025-12-12'
+tags:
+  - quick mood boosters for seniors
+  - seasonal depression in older adults
+  - immediate-interventions
+primaryKeyword: quick mood boosters for seniors
+topicCluster: immediate-interventions
+image: ''
+relatedSlugs:
+  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - how-group-activities-in-senior-centers-prevent-seasonal-depression
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 
 # Simple, Science-Backed Quick Mood Boosters for Seniors During Winter Blues

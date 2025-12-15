@@ -1,14 +1,24 @@
 ---
-title: "Could Leg Swelling Be a Sign of Heart Trouble After 50?"
-slug: "could-leg-swelling-be-a-sign-of-heart-trouble-after-50"
-description: "Recognize how edema in the legs may indicate poor heart pumping and require medical attention."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["leg swelling and heart failure symptoms after 50", "heart health", "cardiovascular-risk"]
-primaryKeyword: "leg swelling and heart failure symptoms after 50"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["heart-disease-warning-signs-that-appear-years-in-advance", "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart"]
+title: Could Leg Swelling Be a Sign of Heart Trouble After 50?
+slug: could-leg-swelling-be-a-sign-of-heart-trouble-after-50
+description: >-
+  Recognize how edema in the legs may indicate poor heart pumping and require
+  medical attention.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - leg swelling and heart failure symptoms after 50
+  - heart health
+  - cardiovascular-risk
+primaryKeyword: leg swelling and heart failure symptoms after 50
+topicCluster: cardiovascular-risk
+image: ''
+relatedSlugs:
+  - heart-disease-warning-signs-that-appear-years-in-advance
+  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
+  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
+  - why-women-s-heart-attack-symptoms-differ-after-menopause
+  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
 ---
 
 # Could Leg Swelling After 50 Be a Sign of Heart Trouble? Understanding Leg Swelling and Heart Failure Symptoms After 50

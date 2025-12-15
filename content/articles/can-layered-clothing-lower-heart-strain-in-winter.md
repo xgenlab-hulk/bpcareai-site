@@ -1,14 +1,24 @@
 ---
-title: "Can Layered Clothing Lower Heart Strain in Winter?"
-slug: "can-layered-clothing-lower-heart-strain-in-winter"
-description: "Investigates how proper dressing can reduce cardiovascular stress by maintaining core body temperature efficiently."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["layered clothing heart health", "winter heart health for seniors", "lifestyle-modifications"]
-primaryKeyword: "layered clothing heart health"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["does-layering-clothes-help-regulate-blood-pressure-in-cold-climates", "how-winter-depression-affects-heart-health-in-retired-adults"]
+title: Can Layered Clothing Lower Heart Strain in Winter?
+slug: can-layered-clothing-lower-heart-strain-in-winter
+description: >-
+  Investigates how proper dressing can reduce cardiovascular stress by
+  maintaining core body temperature efficiently.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - layered clothing heart health
+  - winter heart health for seniors
+  - lifestyle-modifications
+primaryKeyword: layered clothing heart health
+topicCluster: lifestyle-modifications
+image: ''
+relatedSlugs:
+  - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
+  - how-winter-depression-affects-heart-health-in-retired-adults
+  - 10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
+  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - how-staying-hydrated-in-winter-protects-your-heart-after-70
 ---
 
 # How Layered Clothing Supports Heart Health in Winter

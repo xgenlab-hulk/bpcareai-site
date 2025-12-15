@@ -16,6 +16,9 @@ image: ''
 relatedSlugs:
   - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
   - top-7-heart-protective-vitamins-to-take-in-winter
+  - top-5-winter-superfoods-that-naturally-lower-blood-pressure
+  - best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol
+  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
 ---
 
 # Winter Fruits for Heart Health: Nature’s Gentle Support for Arteries and Immunity
