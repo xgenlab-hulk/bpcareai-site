@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "title": "7 Surprising Blood Pressure Triggers You’re Probably Ignoring Every Morning",
+    "description": "Explores overlooked daily habits—like caffeine timing, rushed breakfasts, and morning medication errors—that spike BP before noon, with science-backed fixes for adults over 55.",
+    "primaryKeyword": "morning blood pressure triggers seniors",
+    "topicCluster": "lifestyle-habits-morning",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:39:53.340Z"
+  },
+  {
+    "title": "How Sleep Apnea Quietly Destroys Blood Vessel Health—And Why BP Readings Lie at Night",
+    "description": "Breaks down the nocturnal cardiovascular damage caused by undiagnosed sleep apnea in adults 60+, explaining why home BP monitors miss critical nighttime surges and what to do instead.",
+    "primaryKeyword": "sleep apnea nighttime blood pressure",
+    "topicCluster": "sleep-cardiovascular-link",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:39:54.350Z"
+  },
+  {
+    "title": "The Truth About Herbal Supplements and Blood Pressure: Which Ones Help, Which Harm, and Which Interfere With Medications",
+    "description": "Reviews clinical evidence on garlic, hawthorn, berberine, and licorice—highlighting proven interactions with ACE inhibitors, ARBs, and diuretics in adults over 60.",
+    "primaryKeyword": "herbal supplements blood pressure interactions",
+    "topicCluster": "supplements-medications-safety",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:39:57.592Z"
+  },
+  {
+    "title": "Blood Pressure After Bariatric Surgery: Why Some Patients See Dramatic Drops—And Others Don’t",
+    "description": "Analyzes mechanisms behind BP normalization post-surgery (weight loss, renin-angiotensin reset, gut hormone shifts), predictors of success, and risks of persistent hypertension in obese adults 55–70.",
+    "primaryKeyword": "blood pressure after bariatric surgery",
+    "topicCluster": "comorbidity-weight-loss-surgery",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:40:00.825Z"
+  },
+  {
+    "title": "What Research Says About Standing Desks and Blood Pressure in Office Workers Over 60",
+    "description": "Summarizes 2022–2024 RCTs on non-exercise activity thermogenesis (NEAT), micro-movements, and vascular tone—plus practical recommendations for sedentary professionals managing stage 1 hypertension.",
+    "primaryKeyword": "standing desk blood pressure research 60+",
+    "topicCluster": "workplace-activity-hypertension",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:40:01.913Z"
+  },
+  {
+    "title": "How Chronic Inflammation From Gum Disease Fuels Hypertension—And Why Dentists Should Check Your BP",
+    "description": "Explains the oral-systemic link: how periodontitis-induced IL-6 and CRP promote endothelial dysfunction and arterial stiffness, with screening protocols for adults over 65 with poor dental history.",
+    "primaryKeyword": "gum disease and high blood pressure link",
+    "topicCluster": "oral-systemic-inflammation",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:40:03.015Z"
+  },
+  {
+    "title": "Does Air Pollution Raise Blood Pressure? What Real-Time Data Shows for Urban Seniors",
+    "description": "Translates EPA and WHO air quality index (AQI) thresholds into actionable BP risk levels—plus indoor mitigation tactics and timing adjustments for walks, meds, and outdoor errands in high-PM2.5 zones.",
+    "primaryKeyword": "air pollution blood pressure urban seniors",
+    "topicCluster": "environmental-hypertension",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:40:05.069Z"
+  },
+  {
+    "title": "Blood Pressure in Women With PCOS After 45: Why Traditional Guidelines Fall Short",
+    "description": "Discusses how residual androgen excess, insulin resistance, and early vascular aging create unique BP trajectories in perimenopausal and postmenopausal women with prior PCOS diagnosis.",
+    "primaryKeyword": "pcos blood pressure after 45 women",
+    "topicCluster": "hormonal-women-pcos",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:40:06.153Z"
+  },
+  {
+    "title": "12-Minute Breathing Protocol to Lower Systolic BP: A Science-Backed Technique for Anxiety-Prone Adults",
+    "description": "Details the 4-7-8-2 method validated in JAMA Internal Medicine (2023) for reducing sympathetic tone, with audio-guided cues, posture diagrams, and BP-tracking benchmarks for ages 55–80.",
+    "primaryKeyword": "breathing technique lower systolic bp",
+    "topicCluster": "natural-remedies-breathing",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:40:07.294Z"
+  },
+  {
+    "title": "Can Intermittent Fasting Lower Blood Pressure Without Weight Loss? What the Latest Trials Show",
+    "description": "Analyzes fasting-mimicking diets and 16:8 protocols in normoweight hypertensives—focusing on circadian BP rhythm restoration, aldosterone modulation, and renal sodium handling.",
+    "primaryKeyword": "intermittent fasting blood pressure no weight loss",
+    "topicCluster": "dietary-timing-hypertension",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:40:11.482Z"
+  },
+  {
+    "title": "Blood Pressure in Black Men Over 55: Why Standard Algorithms Underestimate Risk—and What to Ask Your Doctor",
+    "description": "Addresses genetic, socioeconomic, and clinical factors contributing to earlier onset, faster progression, and higher stroke mortality—plus culturally responsive screening and treatment benchmarks.",
+    "primaryKeyword": "blood pressure black men over 55",
+    "topicCluster": "racial-disparities-hypertension",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:40:12.540Z"
+  },
+  {
+    "title": "How Constipation Raises Blood Pressure—And Why Laxatives Aren’t the Answer for Seniors",
+    "description": "Explains vagal withdrawal, intra-abdominal pressure spikes, and renin release during straining—and offers fiber, hydration, and pelvic floor strategies proven to reduce BP surges in constipated adults 70+.",
+    "primaryKeyword": "constipation blood pressure seniors",
+    "topicCluster": "gut-cardiovascular-link",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2025-12-16T03:40:13.657Z"
+  }
+]

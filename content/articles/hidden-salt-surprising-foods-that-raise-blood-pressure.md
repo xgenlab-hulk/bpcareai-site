@@ -17,6 +17,7 @@ relatedSlugs:
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - the-role-of-potassium-in-managing-blood-pressure-after-50
+  - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
 ---
 
 # Hidden Salt in Foods and Blood Pressure: What You’re Eating Might Be Working Against Your Heart
