@@ -35,18 +35,32 @@ export function TopicsList({ initialTopics }: TopicsListProps) {
 
     setIsDeleting(slug);
     try {
-      const response = await fetch(`/api/admin/topics/${encodeURIComponent(slug)}`, {
+      console.log(`[Delete] Attempting to delete topic: "${topicName}" (slug: "${slug}")`);
+
+      const url = `/api/admin/topics/${encodeURIComponent(slug)}`;
+      console.log(`[Delete] DELETE request to: ${url}`);
+
+      const response = await fetch(url, {
         method: 'DELETE',
       });
 
+      console.log(`[Delete] Response status: ${response.status}`);
+
+      const data = await response.json();
+      console.log(`[Delete] Response data:`, data);
+
       if (!response.ok) {
-        throw new Error('Failed to delete topic');
+        const errorMessage = data.details || data.error || 'Failed to delete topic';
+        throw new Error(errorMessage);
       }
 
+      console.log(`[Delete] Successfully deleted topic "${topicName}"`);
+      alert(`Successfully deleted topic "${topicName}"`);
       router.refresh();
     } catch (error) {
-      console.error('Delete error:', error);
-      alert('Failed to delete topic. Please try again.');
+      console.error('[Delete] Error:', error);
+      const errorMessage = error instanceof Error ? error.message : 'Failed to delete topic';
+      alert(`Failed to delete topic: ${errorMessage}\n\nPlease check the console for details.`);
     } finally {
       setIsDeleting(null);
     }
