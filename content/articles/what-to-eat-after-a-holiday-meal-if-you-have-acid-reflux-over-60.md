@@ -1,14 +1,24 @@
 ---
-title: "What to Eat After a Holiday Meal If You Have Acid Reflux Over 60"
-slug: "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60"
-description: "Relief-focused food choices and habits to reduce post-meal discomfort for seniors prone to GERD during festive overindulgence."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["post-holiday meal foods for acid reflux seniors", "healthy holiday eating for seniors", "gastrointestinal-issues"]
-primaryKeyword: "post-holiday meal foods for acid reflux seniors"
-topicCluster: "gastrointestinal-issues"
-image: ""
-relatedSlugs: ["10-high-fiber-holiday-foods-that-support-digestion-after-50", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues", "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults"]
+title: What to Eat After a Holiday Meal If You Have Acid Reflux Over 60
+slug: what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+description: >-
+  Relief-focused food choices and habits to reduce post-meal discomfort for
+  seniors prone to GERD during festive overindulgence.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - post-holiday meal foods for acid reflux seniors
+  - healthy holiday eating for seniors
+  - gastrointestinal-issues
+primaryKeyword: post-holiday meal foods for acid reflux seniors
+topicCluster: social-environmental
+image: ''
+relatedSlugs:
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 ---
 
 # Soothing Post-Holiday Meal Foods for Acid Reflux Seniors: Gentle Choices That Support Comfort

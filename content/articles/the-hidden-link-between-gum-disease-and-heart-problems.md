@@ -11,7 +11,7 @@ tags:
   - heart health
   - cardiovascular-risk
 primaryKeyword: gum disease and heart health connection
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-poor-dental-hygiene-may-lead-to-heart-disease

@@ -1,14 +1,24 @@
 ---
-title: "How Sleep Disruption During the Holidays Affects Blood Sugar After 50"
-slug: "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50"
-description: "Discusses how late nights, travel, and excitement impact sleep quality and insulin sensitivity in older adults."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["holiday sleep disruption blood sugar", "managing blood sugar during Christmas and New Year", "sleep-health"]
-primaryKeyword: "holiday sleep disruption blood sugar"
-topicCluster: "sleep-health"
-image: ""
-relatedSlugs: ["the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes"]
+title: How Sleep Disruption During the Holidays Affects Blood Sugar After 50
+slug: how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
+description: >-
+  Discusses how late nights, travel, and excitement impact sleep quality and
+  insulin sensitivity in older adults.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - holiday sleep disruption blood sugar
+  - managing blood sugar during Christmas and New Year
+  - sleep-health
+primaryKeyword: holiday sleep disruption blood sugar
+topicCluster: sleep-rest
+image: ''
+relatedSlugs:
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 
 # How Holiday Sleep Disruption Affects Blood Sugar After 50 — And What You Can Do

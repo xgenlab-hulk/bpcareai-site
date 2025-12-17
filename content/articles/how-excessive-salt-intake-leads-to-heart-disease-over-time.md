@@ -1,14 +1,24 @@
 ---
-title: "How Excessive Salt Intake Leads to Heart Disease Over Time"
-slug: "how-excessive-salt-intake-leads-to-heart-disease-over-time"
-description: "Learn how a high-sodium diet damages arteries and increases cardiac workload, especially in older adults."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["salt intake and heart disease development", "heart disease", "hypertension-lifestyle"]
-primaryKeyword: "salt intake and heart disease development"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["how-obesity-contributes-to-heart-disease-in-middle-age", "why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease", "the-impact-of-long-term-nsaid-use-on-heart-disease-risk", "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults", "how-social-isolation-impacts-heart-disease-risk-in-older-adults"]
+title: How Excessive Salt Intake Leads to Heart Disease Over Time
+slug: how-excessive-salt-intake-leads-to-heart-disease-over-time
+description: >-
+  Learn how a high-sodium diet damages arteries and increases cardiac workload,
+  especially in older adults.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - salt intake and heart disease development
+  - heart disease
+  - hypertension-lifestyle
+primaryKeyword: salt intake and heart disease development
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - how-obesity-contributes-to-heart-disease-in-middle-age
+  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
+  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
 ---
 
 # How High Salt Intake Contributes to Heart Disease Over Time

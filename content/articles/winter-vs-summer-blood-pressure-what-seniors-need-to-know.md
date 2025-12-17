@@ -11,7 +11,7 @@ tags:
   - winter heart health for seniors
   - monitoring-testing
 primaryKeyword: winter vs summer blood pressure
-topicCluster: monitoring-testing
+topicCluster: health-monitoring
 image: ''
 relatedSlugs:
   - how-does-cold-weather-affect-blood-pressure-in-older-adults

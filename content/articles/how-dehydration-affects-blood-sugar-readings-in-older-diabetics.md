@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-management
 primaryKeyword: dehydration and blood sugar levels in seniors with diabetes
-topicCluster: diabetes-management
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70

@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - hypertension-lifestyle
 primaryKeyword: menopause and blood pressure changes
-topicCluster: hypertension-lifestyle
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - blood-pressure-fluctuations-during-menopause-what-women-should-know

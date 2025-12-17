@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - diabetic-lifestyle
 primaryKeyword: alcohol and diabetes safety
-topicCluster: diabetic-lifestyle
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - >-

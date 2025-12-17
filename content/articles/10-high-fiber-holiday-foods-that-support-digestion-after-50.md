@@ -1,14 +1,24 @@
 ---
-title: "10 High-Fiber Holiday Foods That Support Digestion After 50"
-slug: "10-high-fiber-holiday-foods-that-support-digestion-after-50"
-description: "Boost gut health during the holidays with fiber-rich dishes that prevent constipation and support blood sugar control in older adults."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["high-fiber holiday foods for seniors", "healthy holiday eating for seniors", "digestive-health"]
-primaryKeyword: "high-fiber holiday foods for seniors"
-topicCluster: "digestive-health"
-image: ""
-relatedSlugs: ["the-role-of-fiber-in-controlling-blood-sugar-after-50", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food"]
+title: 10 High-Fiber Holiday Foods That Support Digestion After 50
+slug: 10-high-fiber-holiday-foods-that-support-digestion-after-50
+description: >-
+  Boost gut health during the holidays with fiber-rich dishes that prevent
+  constipation and support blood sugar control in older adults.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - high-fiber holiday foods for seniors
+  - healthy holiday eating for seniors
+  - digestive-health
+primaryKeyword: high-fiber holiday foods for seniors
+topicCluster: social-environmental
+image: ''
+relatedSlugs:
+  - the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 
 # 10 High-Fiber Holiday Foods for Seniors to Support Digestive Wellness

@@ -11,7 +11,7 @@ tags:
   - heart disease
   - cardiovascular-risk
 primaryKeyword: menopause and increased heart disease risk
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - blood-pressure-changes-during-menopause-what-women-should-know

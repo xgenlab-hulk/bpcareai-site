@@ -1,14 +1,24 @@
 ---
-title: "Top 7 Heart-Protective Vitamins to Take in Winter"
-slug: "top-7-heart-protective-vitamins-to-take-in-winter"
-description: "Reviews essential supplements like vitamin D, omega-3s, and magnesium that may help maintain heart function during winter months."
-date: "2025-12-12"
-updated: "2025-12-12"
-tags: ["winter heart supplements", "winter heart health for seniors", "supplements-nutrition"]
-primaryKeyword: "winter heart supplements"
-topicCluster: "supplements-nutrition"
-image: ""
-relatedSlugs: ["heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health", "how-vitamin-d-deficiency-impacts-heart-health-in-winter", "what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors", "how-staying-hydrated-in-winter-protects-your-heart-after-70", "best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol"]
+title: Top 7 Heart-Protective Vitamins to Take in Winter
+slug: top-7-heart-protective-vitamins-to-take-in-winter
+description: >-
+  Reviews essential supplements like vitamin D, omega-3s, and magnesium that may
+  help maintain heart function during winter months.
+date: '2025-12-12'
+updated: '2025-12-12'
+tags:
+  - winter heart supplements
+  - winter heart health for seniors
+  - supplements-nutrition
+primaryKeyword: winter heart supplements
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - how-staying-hydrated-in-winter-protects-your-heart-after-70
+  - best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol
 ---
 
 # Top Heart-Protective Vitamins to Consider as Winter Heart Supplements

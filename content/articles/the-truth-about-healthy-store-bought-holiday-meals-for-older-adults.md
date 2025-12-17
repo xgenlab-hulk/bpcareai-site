@@ -1,14 +1,25 @@
 ---
-title: "The Truth About 'Healthy' Store-Bought Holiday Meals for Older Adults"
-slug: "the-truth-about-healthy-store-bought-holiday-meals-for-older-adults"
-description: "We analyze popular pre-made holiday meal kits and frozen entrees to see which ones truly meet nutritional needs for seniors with diabetes or hypertension."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["healthy store-bought holiday meals seniors", "healthy holiday eating for seniors", "convenience-foods"]
-primaryKeyword: "healthy store-bought holiday meals seniors"
-topicCluster: "convenience-foods"
-image: ""
-relatedSlugs: ["easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors", "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "7-smart-swaps-for-healthier-holiday-meals-after-65"]
+title: The Truth About 'Healthy' Store-Bought Holiday Meals for Older Adults
+slug: the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+description: >-
+  We analyze popular pre-made holiday meal kits and frozen entrees to see which
+  ones truly meet nutritional needs for seniors with diabetes or hypertension.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - healthy store-bought holiday meals seniors
+  - healthy holiday eating for seniors
+  - convenience-foods
+primaryKeyword: healthy store-bought holiday meals seniors
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
 ---
 
 # Choosing Healthy Store-Bought Holiday Meals for Seniors: What Really Supports Heart and Blood Sugar Health

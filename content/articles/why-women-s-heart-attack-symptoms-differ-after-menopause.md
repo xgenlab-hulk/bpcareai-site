@@ -1,14 +1,24 @@
 ---
-title: "Why Women’s Heart Attack Symptoms Differ After Menopause"
-slug: "why-women-s-heart-attack-symptoms-differ-after-menopause"
-description: "Learn about the unique signs women experience and why they’re often missed or misdiagnosed."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["women heart attack symptoms after menopause", "heart health", "cardiovascular-risk"]
-primaryKeyword: "women heart attack symptoms after menopause"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["heart-disease-symptoms-in-women-over-50-what-s-often-missed", "why-arm-pain-shouldn-t-be-ignored-in-women-over-50", "what-are-the-first-signs-of-holiday-heart-syndrome-in-women", "how-menopause-affects-heart-disease-risk-in-women", "how-silent-heart-attacks-differ-in-older-adults"]
+title: Why Women’s Heart Attack Symptoms Differ After Menopause
+slug: why-women-s-heart-attack-symptoms-differ-after-menopause
+description: >-
+  Learn about the unique signs women experience and why they’re often missed or
+  misdiagnosed.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - women heart attack symptoms after menopause
+  - heart health
+  - cardiovascular-risk
+primaryKeyword: women heart attack symptoms after menopause
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
+  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
+  - how-menopause-affects-heart-disease-risk-in-women
+  - how-silent-heart-attacks-differ-in-older-adults
 ---
 
 # Why Women’s Heart Attack Symptoms Change After Menopause — And What to Watch For

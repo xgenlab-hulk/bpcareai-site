@@ -1,14 +1,25 @@
 ---
-title: "Is It Safe to Skip Meals Before a Holiday Feast If You Have Diabetes?"
-slug: "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes"
-description: "Analyze the risks and benefits of intermittent fasting before large holiday dinners for older adults managing blood sugar with medication."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["skipping meals before holiday feast diabetes", "managing blood sugar during Christmas and New Year", "meal-timing-diabetes"]
-primaryKeyword: "skipping meals before holiday feast diabetes"
-topicCluster: "meal-timing-diabetes"
-image: ""
-relatedSlugs: ["how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "are-sugar-free-treats-actually-safe-for-diabetics-over-65"]
+title: Is It Safe to Skip Meals Before a Holiday Feast If You Have Diabetes?
+slug: is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+description: >-
+  Analyze the risks and benefits of intermittent fasting before large holiday
+  dinners for older adults managing blood sugar with medication.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - skipping meals before holiday feast diabetes
+  - managing blood sugar during Christmas and New Year
+  - meal-timing-diabetes
+primaryKeyword: skipping meals before holiday feast diabetes
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Is Skipping Meals Before a Holiday Feast Safe for People with Diabetes?

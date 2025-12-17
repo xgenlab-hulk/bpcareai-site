@@ -1,14 +1,26 @@
 ---
-title: "Is Your Senior Loved One Withdrawn This Winter? It Might Be Seasonal Depression"
-slug: "is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression"
-description: "Help readers understand behavioral shifts like withdrawal, apathy, or sleep changes as possible clinical signs."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["withdrawn behavior in seniors winter", "seasonal depression in older adults", "behavioral-changes"]
-primaryKeyword: "withdrawn behavior in seniors winter"
-topicCluster: "behavioral-changes"
-image: ""
-relatedSlugs: ["when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75", "the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know", "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties", "why-older-men-often-hide-their-seasonal-depression-symptoms"]
+title: >-
+  Is Your Senior Loved One Withdrawn This Winter? It Might Be Seasonal
+  Depression
+slug: is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
+description: >-
+  Help readers understand behavioral shifts like withdrawal, apathy, or sleep
+  changes as possible clinical signs.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - withdrawn behavior in seniors winter
+  - seasonal depression in older adults
+  - behavioral-changes
+primaryKeyword: withdrawn behavior in seniors winter
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - why-older-men-often-hide-their-seasonal-depression-symptoms
 ---
 
 # Recognizing Withdrawn Behavior in Seniors This Winter: A Guide to Seasonal Depression in Older Adults

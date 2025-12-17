@@ -1,14 +1,25 @@
 ---
-title: "The Hidden Danger of Combining Alcohol and Cold Medicines Over 50"
-slug: "the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50"
-description: "Discusses how over-the-counter cold remedies mixed with festive drinking can increase the risk of holiday heart syndrome."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["alcohol and cold medicine risks", "holiday heart syndrome prevention", "medication-safety"]
-primaryKeyword: "alcohol and cold medicine risks"
-topicCluster: "medication-safety"
-image: ""
-relatedSlugs: ["how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome", "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat"]
+title: The Hidden Danger of Combining Alcohol and Cold Medicines Over 50
+slug: the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
+description: >-
+  Discusses how over-the-counter cold remedies mixed with festive drinking can
+  increase the risk of holiday heart syndrome.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - alcohol and cold medicine risks
+  - holiday heart syndrome prevention
+  - medication-safety
+primaryKeyword: alcohol and cold medicine risks
+topicCluster: medications-supplements
+image: ''
+relatedSlugs:
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 
 # Understanding the Risks of Alcohol and Cold Medicine Over 50

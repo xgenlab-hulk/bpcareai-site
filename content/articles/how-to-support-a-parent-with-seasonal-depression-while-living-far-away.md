@@ -11,7 +11,7 @@ tags:
   - seasonal depression in older adults
   - family-caregiving
 primaryKeyword: supporting parent with seasonal depression
-topicCluster: family-caregiving
+topicCluster: social-environmental
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

@@ -11,7 +11,7 @@ tags:
   - winter heart health for seniors
   - cardiac-diet
 primaryKeyword: heart-healthy winter soups
-topicCluster: cardiac-diet
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - why-winter-increases-heart-attack-risk-in-seniors-over-70

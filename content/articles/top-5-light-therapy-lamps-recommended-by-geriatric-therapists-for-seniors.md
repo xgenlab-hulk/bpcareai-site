@@ -11,7 +11,7 @@ tags:
   - seasonal depression in older adults
   - treatment-devices
 primaryKeyword: best light therapy lamps for seniors
-topicCluster: treatment-devices
+topicCluster: medications-supplements
 image: ''
 relatedSlugs:
   - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65

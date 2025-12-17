@@ -1,0 +1,220 @@
+{
+  "mapping": {
+    "cardiovascular-health": [
+      "heart-health",
+      "cardiovascular-risk",
+      "heart-healthy-cooking",
+      "gastro-cardiac-symptom-differentiation",
+      "emergency-symptoms-gi-cardiac",
+      "cardiac-diet",
+      "cardiac-diet-pitfalls",
+      "cardiac-diet-cooking",
+      "cardiac-diet-beverage-science",
+      "sensory-vascular-link"
+    ],
+    "hypertension-management": [
+      "hypertension-lifestyle",
+      "blood-pressure-basics",
+      "workplace-activity-hypertension",
+      "racial-disparities-hypertension",
+      "post-stroke-hypertension",
+      "seasonal-blood-pressure-changes",
+      "hypotension-elderly-frailty",
+      "vital-signs-interpretation"
+    ],
+    "diabetes-care": [
+      "diabetes-lifestyle",
+      "diabetes-complications",
+      "diabetes-management",
+      "diabetes-nutrition",
+      "diabetic-diet",
+      "diabetic-lifestyle",
+      "diabetic-diet-planning",
+      "diabetic-diet-intervention-research",
+      "diabetic-diet-cooking",
+      "diabetic-diet-beverages",
+      "diabetes-women-health",
+      "diabetes-treatment",
+      "diabetes-tools-technology",
+      "diabetes-symptoms",
+      "diabetes-prevention",
+      "diabetes-risk-factors",
+      "diabetes-environmental-factors",
+      "meal-timing-diabetes",
+      "postprandial-glucose-habits"
+    ],
+    "nutrition-diet": [
+      "diet-nutrition",
+      "diet-nutrition-myths",
+      "diet-myths-facts",
+      "supplements-nutrition",
+      "senior-specific-nutrition",
+      "nutritious-recipes",
+      "nutrition-myths",
+      "nutrient-deficiencies",
+      "neuro-nutrition-aging",
+      "muscle-health-nutrition",
+      "mental-health-nutrition-link",
+      "mental-health-nutrition",
+      "mental-health-diet-behavior",
+      "hydration-nutrition",
+      "hidden-sugar-sources",
+      "dental-health-diet",
+      "cultural-diet-impact",
+      "convenience-foods",
+      "caregiver-diet-logistics",
+      "behavioral-nutrition",
+      "balanced-diet-strategies",
+      "infection-diet-link",
+      "lipid-diet-myths",
+      "renal-diet",
+      "practical-diet-hacks",
+      "meal-preparation"
+    ],
+    "lifestyle-changes": [
+      "lifestyle-modifications",
+      "lifestyle-modification",
+      "lifestyle-modifications-scenarios",
+      "lifestyle-modification-during-travel",
+      "lifestyle-diet-interactions",
+      "behavioral-strategies",
+      "behavioral-strategies-prevention",
+      "behavioral-changes",
+      "behavioral-change",
+      "routine-optimization",
+      "daily-patterns",
+      "eating-habits",
+      "eating-behavior"
+    ],
+    "physical-activity": [
+      "exercise-physical-activity",
+      "physical-activity",
+      "exercise-activity"
+    ],
+    "mental-wellness": [
+      "emotional-mental-health",
+      "mental-emotional-health",
+      "mental-health-physiology",
+      "mental-health-behavioral-links",
+      "social-emotional-health",
+      "social-behavioral-factors"
+    ],
+    "medications-supplements": [
+      "treatment-options",
+      "treatment-devices",
+      "supplements",
+      "medications-treatment",
+      "medications-supplements",
+      "medication-safety",
+      "medication-management",
+      "medication-adherence-challenges"
+    ],
+    "symptoms-emergencies": [
+      "emergency-symptoms",
+      "warning-signs",
+      "symptoms-warning-signs",
+      "symptom-recognition",
+      "emergency-symptoms-recognition",
+      "emergency-response-tactics",
+      "emergency-preparedness",
+      "early-warning-signs",
+      "immediate-interventions",
+      "acute-risk-events",
+      "acute-management"
+    ],
+    "health-monitoring": [
+      "monitoring-testing",
+      "weight-monitoring",
+      "monitoring-testing-routines",
+      "monitoring-red-flags",
+      "monitoring-accessibility"
+    ],
+    "complications-comorbidities": [
+      "diabetes-complications",
+      "complications-related-conditions",
+      "comorbidity-management",
+      "comorbidity-impact",
+      "comorbidities",
+      "comorbidity-weight-loss-surgery",
+      "comprehensive-management"
+    ],
+    "preventive-care": [
+      "prevention-strategies",
+      "preventive-strategies",
+      "preventive-care",
+      "risk-factors-prevention",
+      "seasonal-prevention"
+    ],
+    "seasonal-health": [
+      "seasonal-factors",
+      "seasonal-risk-factors",
+      "seasonal-physiological-effects",
+      "seasonal-pattern-analysis",
+      "seasonal-medication-management"
+    ],
+    "age-gender-specific": [
+      "gender-specific-concerns",
+      "weight-management-aging-metabolism",
+      "gender-expression-barriers",
+      "audience-specific-care"
+    ],
+    "sleep-rest": [
+      "sleep-health",
+      "sleep-environment-impact"
+    ],
+    "risk-factors": [
+      "risk-factors",
+      "causes-risk-factors"
+    ],
+    "treatment-interventions": [
+      "natural-remedies",
+      "natural-remedies-breathing",
+      "alternative-therapies"
+    ],
+    "evidence-research": [
+      "scientific-evidence",
+      "science-research",
+      "comparison-analysis",
+      "comparative-analysis",
+      "condition-comparison"
+    ],
+    "education-awareness": [
+      "education-awareness",
+      "decision-guidance",
+      "myths-vs-facts"
+    ],
+    "social-environmental": [
+      "environmental-factors",
+      "social-situation-management",
+      "social-dining-strategies",
+      "family-role-health-balance",
+      "family-dynamics-nutrition",
+      "family-caregiving",
+      "community-engagement",
+      "gastrointestinal-issues",
+      "digestive-health"
+    ]
+  },
+  "description": {
+    "cardiovascular-health": "Heart disease, cardiovascular risk, cardiac symptoms, and heart-related conditions",
+    "hypertension-management": "Blood pressure control, hypertension lifestyle changes, BP monitoring and basics",
+    "diabetes-care": "Diabetes management, blood sugar control, diabetic diet, and diabetes-related topics",
+    "nutrition-diet": "General nutrition, diet strategies, meal planning, and food-related health topics",
+    "lifestyle-changes": "Lifestyle modifications, behavioral changes, daily habits, and routine adjustments",
+    "physical-activity": "Exercise, physical activity, movement, and fitness for seniors",
+    "mental-wellness": "Mental health, emotional wellbeing, stress, and psychological factors",
+    "medications-supplements": "Medications, treatments, supplements, and pharmaceutical interventions",
+    "symptoms-emergencies": "Warning signs, emergency symptoms, acute conditions, and urgent care",
+    "health-monitoring": "Health tracking, monitoring, testing, and measurement practices",
+    "complications-comorbidities": "Disease complications, comorbid conditions, and multiple health issues",
+    "preventive-care": "Prevention strategies, risk reduction, and proactive health measures",
+    "seasonal-health": "Seasonal factors, weather-related health, and time-specific considerations",
+    "age-gender-specific": "Age-specific or gender-specific health concerns and approaches",
+    "sleep-rest": "Sleep health, rest, and sleep-related cardiovascular/metabolic impacts",
+    "risk-factors": "General risk factors and causes of chronic diseases",
+    "treatment-interventions": "Natural remedies, alternative therapies, and non-pharmaceutical interventions",
+    "evidence-research": "Scientific research, evidence-based analysis, and comparative studies",
+    "education-awareness": "Health education, awareness, decision-making guidance, and myth-busting",
+    "social-environmental": "Social factors, environmental influences, family dynamics, and community health"
+  }
+}

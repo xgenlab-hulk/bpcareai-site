@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: gardening and heart health after 50
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - can-meditation-reduce-heart-disease-risk-after-50

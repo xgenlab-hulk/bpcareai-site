@@ -1,14 +1,24 @@
 ---
-title: "Best Low-Carb Desserts for Diabetics Over 60 This Holiday Season"
-slug: "best-low-carb-desserts-for-diabetics-over-60-this-holiday-season"
-description: "A curated list of senior-friendly, blood sugar-friendly sweet treats that satisfy cravings without spiking glucose levels."
-date: "2025-12-07"
-updated: "2025-12-07"
-tags: ["low-carb desserts for seniors", "managing blood sugar during Christmas and New Year", "diabetic-diet"]
-primaryKeyword: "low-carb desserts for seniors"
-topicCluster: "diabetic-diet"
-image: ""
-relatedSlugs: ["top-10-diabetes-friendly-snacks-for-people-over-60", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"]
+title: Best Low-Carb Desserts for Diabetics Over 60 This Holiday Season
+slug: best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+description: >-
+  A curated list of senior-friendly, blood sugar-friendly sweet treats that
+  satisfy cravings without spiking glucose levels.
+date: '2025-12-07'
+updated: '2025-12-07'
+tags:
+  - low-carb desserts for seniors
+  - managing blood sugar during Christmas and New Year
+  - diabetic-diet
+primaryKeyword: low-carb desserts for seniors
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - top-10-diabetes-friendly-snacks-for-people-over-60
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # Delicious & Blood Sugar-Friendly Low-Carb Desserts for Seniors This Holiday Season

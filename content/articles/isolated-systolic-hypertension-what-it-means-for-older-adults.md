@@ -1,14 +1,24 @@
 ---
-title: "Isolated Systolic Hypertension: What It Means for Older Adults"
-slug: "isolated-systolic-hypertension-what-it-means-for-older-adults"
-description: "Understand this common form of high blood pressure in seniors and how it's managed differently."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["isolated systolic hypertension in elderly", "blood pressure", "blood-pressure-basics"]
-primaryKeyword: "isolated systolic hypertension in elderly"
-topicCluster: "blood-pressure-basics"
-image: ""
-relatedSlugs: ["blood-pressure-management-for-sedentary-seniors-in-winter-months", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "how-standing-up-too-fast-affects-blood-pressure-in-older-adults", "could-your-medications-be-raising-your-blood-pressure"]
+title: 'Isolated Systolic Hypertension: What It Means for Older Adults'
+slug: isolated-systolic-hypertension-what-it-means-for-older-adults
+description: >-
+  Understand this common form of high blood pressure in seniors and how it's
+  managed differently.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - isolated systolic hypertension in elderly
+  - blood pressure
+  - blood-pressure-basics
+primaryKeyword: isolated systolic hypertension in elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
+  - could-your-medications-be-raising-your-blood-pressure
 ---
 
 # Understanding Isolated Systolic Hypertension in Elderly Adults

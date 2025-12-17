@@ -1,14 +1,24 @@
 ---
-title: "How Cold Weather and Holiday Inactivity Combine to Affect Insulin Sensitivity"
-slug: "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity"
-description: "Discover how winter conditions and reduced movement during holidays impact insulin response in older diabetics."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["cold weather insulin sensitivity seniors", "holiday diabetes management", "seasonal-physiological-effects"]
-primaryKeyword: "cold weather insulin sensitivity seniors"
-topicCluster: "seasonal-physiological-effects"
-image: ""
-relatedSlugs: ["how-cold-weather-affects-blood-sugar-in-people-with-diabetes", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors", "how-does-cold-weather-affect-blood-pressure-in-older-adults", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food"]
+title: How Cold Weather and Holiday Inactivity Combine to Affect Insulin Sensitivity
+slug: how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+description: >-
+  Discover how winter conditions and reduced movement during holidays impact
+  insulin response in older diabetics.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - cold weather insulin sensitivity seniors
+  - holiday diabetes management
+  - seasonal-physiological-effects
+primaryKeyword: cold weather insulin sensitivity seniors
+topicCluster: seasonal-health
+image: ''
+relatedSlugs:
+  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 
 # How Cold Weather Affects Insulin Sensitivity in Seniors: A Guide for Holiday Health

@@ -1,14 +1,24 @@
 ---
-title: "12 Simple Ways to Prevent Holiday Heart Syndrome Naturally"
-slug: "12-simple-ways-to-prevent-holiday-heart-syndrome-naturally"
-description: "Offer drug-free, evidence-based lifestyle strategies to reduce arrhythmia risk during high-risk festive periods."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["prevent holiday heart naturally", "holiday heart syndrome prevention", "natural-remedies"]
-primaryKeyword: "prevent holiday heart naturally"
-topicCluster: "natural-remedies"
-image: ""
-relatedSlugs: ["the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50"]
+title: 12 Simple Ways to Prevent Holiday Heart Syndrome Naturally
+slug: 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
+description: >-
+  Offer drug-free, evidence-based lifestyle strategies to reduce arrhythmia risk
+  during high-risk festive periods.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - prevent holiday heart naturally
+  - holiday heart syndrome prevention
+  - natural-remedies
+primaryKeyword: prevent holiday heart naturally
+topicCluster: treatment-interventions
+image: ''
+relatedSlugs:
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
 ---
 
 # 12 Evidence-Based Ways to Prevent Holiday Heart Naturally This Season

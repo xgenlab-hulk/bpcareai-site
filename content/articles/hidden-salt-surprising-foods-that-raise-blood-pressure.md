@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - hypertension-lifestyle
 primaryKeyword: hidden salt in foods and blood pressure
-topicCluster: hypertension-lifestyle
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure

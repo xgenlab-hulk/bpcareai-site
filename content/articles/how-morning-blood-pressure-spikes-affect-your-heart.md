@@ -1,14 +1,24 @@
 ---
-title: "How Morning Blood Pressure Spikes Affect Your Heart"
-slug: "how-morning-blood-pressure-spikes-affect-your-heart"
-description: "Learn why blood pressure often rises in the morning and how this impacts cardiovascular health, especially for people over 50."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["morning blood pressure spike causes", "blood pressure", "cardiovascular-risk"]
-primaryKeyword: "morning blood pressure spike causes"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["the-link-between-sleep-apnea-and-high-blood-pressure-after-50", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50", "does-caffeine-raise-blood-pressure-after-age-60", "hidden-salt-10-surprising-foods-that-spike-blood-pressure"]
+title: How Morning Blood Pressure Spikes Affect Your Heart
+slug: how-morning-blood-pressure-spikes-affect-your-heart
+description: >-
+  Learn why blood pressure often rises in the morning and how this impacts
+  cardiovascular health, especially for people over 50.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - morning blood pressure spike causes
+  - blood pressure
+  - cardiovascular-risk
+primaryKeyword: morning blood pressure spike causes
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - does-caffeine-raise-blood-pressure-after-age-60
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
 ---
 
 # Understanding Morning Blood Pressure Spike Causes and What They Mean for Your Heart

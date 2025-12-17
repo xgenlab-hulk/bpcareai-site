@@ -11,7 +11,7 @@ tags:
   - healthy holiday eating for seniors
   - hydration-nutrition
 primaryKeyword: staying hydrated in winter for seniors
-topicCluster: hydration-nutrition
+topicCluster: nutrition-diet
 image: ''
 relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70

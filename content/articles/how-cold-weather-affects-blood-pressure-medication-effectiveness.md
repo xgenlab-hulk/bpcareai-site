@@ -1,14 +1,24 @@
 ---
-title: "How Cold Weather Affects Blood Pressure Medication Effectiveness"
-slug: "how-cold-weather-affects-blood-pressure-medication-effectiveness"
-description: "Examines how seasonal changes may influence how hypertension medications work and when dosage adjustments might be needed."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["blood pressure medication in winter", "senior blood pressure control in winter", "medication-management"]
-primaryKeyword: "blood pressure medication in winter"
-topicCluster: "medication-management"
-image: ""
-relatedSlugs: ["can-cold-weather-raise-your-blood-pressure", "should-you-adjust-your-blood-pressure-goals-in-winter", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "how-does-cold-weather-affect-blood-pressure-in-older-adults", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know"]
+title: How Cold Weather Affects Blood Pressure Medication Effectiveness
+slug: how-cold-weather-affects-blood-pressure-medication-effectiveness
+description: >-
+  Examines how seasonal changes may influence how hypertension medications work
+  and when dosage adjustments might be needed.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - blood pressure medication in winter
+  - senior blood pressure control in winter
+  - medication-management
+primaryKeyword: blood pressure medication in winter
+topicCluster: medications-supplements
+image: ''
+relatedSlugs:
+  - can-cold-weather-raise-your-blood-pressure
+  - should-you-adjust-your-blood-pressure-goals-in-winter
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
 ---
 
 # How Winter Weather May Influence Your Blood Pressure Medication in Winter

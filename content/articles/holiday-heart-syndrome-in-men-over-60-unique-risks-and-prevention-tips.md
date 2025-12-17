@@ -1,14 +1,25 @@
 ---
-title: "Holiday Heart Syndrome in Men Over 60: Unique Risks and Prevention Tips"
-slug: "holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips"
-description: "Focus on gender- and age-specific vulnerabilities to arrhythmias during the holiday season and tailored prevention approaches."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["holiday heart syndrome men", "holiday heart syndrome prevention", "gender-specific-concerns"]
-primaryKeyword: "holiday heart syndrome men"
-topicCluster: "gender-specific-concerns"
-image: ""
-relatedSlugs: ["the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "12-simple-ways-to-prevent-holiday-heart-syndrome-naturally", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them"]
+title: 'Holiday Heart Syndrome in Men Over 60: Unique Risks and Prevention Tips'
+slug: holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
+description: >-
+  Focus on gender- and age-specific vulnerabilities to arrhythmias during the
+  holiday season and tailored prevention approaches.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - holiday heart syndrome men
+  - holiday heart syndrome prevention
+  - gender-specific-concerns
+primaryKeyword: holiday heart syndrome men
+topicCluster: age-gender-specific
+image: ''
+relatedSlugs:
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
 ---
 
 # Holiday Heart Syndrome in Older Men: Understanding Unique Risks and Prevention Strategies

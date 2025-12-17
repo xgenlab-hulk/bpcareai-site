@@ -1,14 +1,24 @@
 ---
-title: "How Dehydration Impacts Blood Pressure Levels"
-slug: "how-dehydration-impacts-blood-pressure-levels"
-description: "See how not drinking enough water can lead to fluctuating blood pressure and what seniors should do to stay hydrated."
-date: "2025-12-01"
-updated: "2025-12-01"
-tags: ["dehydration effects on blood pressure", "blood pressure", "blood-pressure-basics"]
-primaryKeyword: "dehydration effects on blood pressure"
-topicCluster: "blood-pressure-basics"
-image: ""
-relatedSlugs: ["can-hydration-prevent-winter-blood-pressure-spikes-after-age-70", "how-dehydration-affects-blood-sugar-readings-in-older-diabetics", "can-drinking-too-much-water-raise-blood-pressure", "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70", "how-does-cold-weather-affect-blood-pressure-in-older-adults"]
+title: How Dehydration Impacts Blood Pressure Levels
+slug: how-dehydration-impacts-blood-pressure-levels
+description: >-
+  See how not drinking enough water can lead to fluctuating blood pressure and
+  what seniors should do to stay hydrated.
+date: '2025-12-01'
+updated: '2025-12-01'
+tags:
+  - dehydration effects on blood pressure
+  - blood pressure
+  - blood-pressure-basics
+primaryKeyword: dehydration effects on blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - can-drinking-too-much-water-raise-blood-pressure
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
 ---
 
 # How Dehydration Effects on Blood Pressure Can Affect Seniors — And What You Can Do

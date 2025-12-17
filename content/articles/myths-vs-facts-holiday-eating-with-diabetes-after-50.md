@@ -1,14 +1,24 @@
 ---
-title: "Myths vs Facts: Holiday Eating with Diabetes After 50"
-slug: "myths-vs-facts-holiday-eating-with-diabetes-after-50"
-description: "Debunks common misconceptions — like 'fruit is always safe' or 'one cheat day won’t hurt' — with clinical insights."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["diabetes holiday myths vs facts", "managing blood sugar during Christmas and New Year", "education-awareness"]
-primaryKeyword: "diabetes holiday myths vs facts"
-topicCluster: "education-awareness"
-image: ""
-relatedSlugs: ["the-truth-about-cheating-on-your-diet-during-family-celebrations", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "are-sugar-free-treats-actually-safe-for-diabetics-over-65"]
+title: 'Myths vs Facts: Holiday Eating with Diabetes After 50'
+slug: myths-vs-facts-holiday-eating-with-diabetes-after-50
+description: >-
+  Debunks common misconceptions — like 'fruit is always safe' or 'one cheat day
+  won’t hurt' — with clinical insights.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - diabetes holiday myths vs facts
+  - managing blood sugar during Christmas and New Year
+  - education-awareness
+primaryKeyword: diabetes holiday myths vs facts
+topicCluster: education-awareness
+image: ''
+relatedSlugs:
+  - the-truth-about-cheating-on-your-diet-during-family-celebrations
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Diabetes Holiday Myths vs Facts: Gentle Guidance for Adults Over 50

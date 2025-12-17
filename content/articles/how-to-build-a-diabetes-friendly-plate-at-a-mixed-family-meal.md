@@ -1,14 +1,26 @@
 ---
-title: "How to Build a Diabetes-Friendly Plate at a Mixed Family Meal"
-slug: "how-to-build-a-diabetes-friendly-plate-at-a-mixed-family-meal"
-description: "Guides individuals with diabetes through constructing balanced plates when dining with non-diabetic relatives during holidays."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["diabetes-friendly plate strategy", "healthy eating during family gatherings", "diabetic-diet-planning"]
-primaryKeyword: "diabetes-friendly plate strategy"
-topicCluster: "diabetic-diet-planning"
-image: ""
-relatedSlugs: ["how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health", "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose"]
+title: How to Build a Diabetes-Friendly Plate at a Mixed Family Meal
+slug: how-to-build-a-diabetes-friendly-plate-at-a-mixed-family-meal
+description: >-
+  Guides individuals with diabetes through constructing balanced plates when
+  dining with non-diabetic relatives during holidays.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - diabetes-friendly plate strategy
+  - healthy eating during family gatherings
+  - diabetic-diet-planning
+primaryKeyword: diabetes-friendly plate strategy
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # How to Create a Diabetes-Friendly Plate Strategy for Family Gatherings

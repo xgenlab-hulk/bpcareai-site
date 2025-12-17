@@ -11,7 +11,7 @@ tags:
   - healthy holiday eating for seniors
   - muscle-health-nutrition
 primaryKeyword: holiday protein needs for frail seniors
-topicCluster: muscle-health-nutrition
+topicCluster: nutrition-diet
 image: ''
 relatedSlugs:
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60

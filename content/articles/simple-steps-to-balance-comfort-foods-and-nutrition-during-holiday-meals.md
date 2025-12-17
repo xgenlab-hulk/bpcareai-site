@@ -1,14 +1,26 @@
 ---
-title: "Simple Steps to Balance Comfort Foods and Nutrition During Holiday Meals"
-slug: "simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals"
-description: "Outlines a realistic approach to enjoying traditional dishes in moderation while prioritizing nutrient-dense options on the table."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["balancing comfort food and health", "healthy eating during family gatherings", "balanced-diet-strategies"]
-primaryKeyword: "balancing comfort food and health"
-topicCluster: "balanced-diet-strategies"
-image: ""
-relatedSlugs: ["how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar", "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues"]
+title: Simple Steps to Balance Comfort Foods and Nutrition During Holiday Meals
+slug: simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
+description: >-
+  Outlines a realistic approach to enjoying traditional dishes in moderation
+  while prioritizing nutrient-dense options on the table.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - balancing comfort food and health
+  - healthy eating during family gatherings
+  - balanced-diet-strategies
+primaryKeyword: balancing comfort food and health
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
 ---
 
 # Gentle Ways to Practice Balancing Comfort Food and Health During the Holidays

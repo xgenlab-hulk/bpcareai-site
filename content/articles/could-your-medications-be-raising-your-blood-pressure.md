@@ -1,14 +1,24 @@
 ---
-title: "Could Your Medications Be Raising Your Blood Pressure?"
-slug: "could-your-medications-be-raising-your-blood-pressure"
-description: "Identify common OTC and prescription drugs that may increase blood pressure, especially in older adults."
-date: "2025-12-01"
-updated: "2025-12-01"
-tags: ["medications that raise blood pressure seniors", "blood pressure", "cardiovascular-risk"]
-primaryKeyword: "medications that raise blood pressure seniors"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["is-your-medication-causing-high-blood-pressure", "how-does-cold-weather-affect-blood-pressure-in-older-adults", "does-caffeine-raise-blood-pressure-after-age-60", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "hidden-salt-10-surprising-foods-that-spike-blood-pressure"]
+title: Could Your Medications Be Raising Your Blood Pressure?
+slug: could-your-medications-be-raising-your-blood-pressure
+description: >-
+  Identify common OTC and prescription drugs that may increase blood pressure,
+  especially in older adults.
+date: '2025-12-01'
+updated: '2025-12-01'
+tags:
+  - medications that raise blood pressure seniors
+  - blood pressure
+  - cardiovascular-risk
+primaryKeyword: medications that raise blood pressure seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - is-your-medication-causing-high-blood-pressure
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - does-caffeine-raise-blood-pressure-after-age-60
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
 ---
 
 # Could Your Medications Be Raising Your Blood Pressure? What Seniors Need to Know

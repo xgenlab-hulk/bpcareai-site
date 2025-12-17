@@ -1,14 +1,25 @@
 ---
-title: "Blood Pressure and Hearing Loss: The Overlooked Connection in Adults Over 70"
-slug: "blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70"
-description: "Explores microvascular damage to the cochlea, shared risk factors (oxidative stress, nitric oxide dysregulation), and how audiograms can serve as early BP risk indicators in aging populations."
-date: "2025-12-16"
-updated: "2025-12-16"
-tags: ["blood pressure and hearing loss elderly", "blood pressure", "sensory-vascular-link"]
-primaryKeyword: "blood pressure and hearing loss elderly"
-topicCluster: "sensory-vascular-link"
-image: ""
-relatedSlugs: ["blood-pressure-and-kidney-health-what-seniors-need-to-know", "the-link-between-hearing-loss-and-heart-disease-after-60", "can-hearing-loss-be-an-early-sign-of-heart-disease", "the-link-between-sleep-apnea-and-high-blood-pressure-after-50", "the-hidden-dangers-of-indoor-heating-on-blood-pressure"]
+title: 'Blood Pressure and Hearing Loss: The Overlooked Connection in Adults Over 70'
+slug: blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+description: >-
+  Explores microvascular damage to the cochlea, shared risk factors (oxidative
+  stress, nitric oxide dysregulation), and how audiograms can serve as early BP
+  risk indicators in aging populations.
+date: '2025-12-16'
+updated: '2025-12-16'
+tags:
+  - blood pressure and hearing loss elderly
+  - blood pressure
+  - sensory-vascular-link
+primaryKeyword: blood pressure and hearing loss elderly
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - the-link-between-hearing-loss-and-heart-disease-after-60
+  - can-hearing-loss-be-an-early-sign-of-heart-disease
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
 ---
 
 # Blood Pressure and Hearing Loss in Older Adults: Understanding the Silent Link

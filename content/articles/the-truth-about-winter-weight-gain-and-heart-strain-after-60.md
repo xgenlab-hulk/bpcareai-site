@@ -1,14 +1,24 @@
 ---
-title: "The Truth About Winter Weight Gain and Heart Strain After 60"
-slug: "the-truth-about-winter-weight-gain-and-heart-strain-after-60"
-description: "Debunks myths and reveals how modest winter weight gain can significantly increase cardiac workload in aging individuals."
-date: "2025-12-17"
-updated: "2025-12-17"
-tags: ["winter weight gain heart", "winter heart health for seniors", "myths-vs-facts"]
-primaryKeyword: "winter weight gain heart"
-topicCluster: "myths-vs-facts"
-image: ""
-relatedSlugs: ["why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease", "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "how-chronic-lung-conditions-amplify-heart-risks-in-winter", "10-winter-safe-exercises-for-heart-health-after-65"]
+title: The Truth About Winter Weight Gain and Heart Strain After 60
+slug: the-truth-about-winter-weight-gain-and-heart-strain-after-60
+description: >-
+  Debunks myths and reveals how modest winter weight gain can significantly
+  increase cardiac workload in aging individuals.
+date: '2025-12-17'
+updated: '2025-12-17'
+tags:
+  - winter weight gain heart
+  - winter heart health for seniors
+  - myths-vs-facts
+primaryKeyword: winter weight gain heart
+topicCluster: education-awareness
+image: ''
+relatedSlugs:
+  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - how-chronic-lung-conditions-amplify-heart-risks-in-winter
+  - 10-winter-safe-exercises-for-heart-health-after-65
 ---
 
 # How Winter Weight Gain Heart Stress Affects Older Adults—What the Science Really Shows

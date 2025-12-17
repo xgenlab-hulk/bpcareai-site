@@ -14,7 +14,7 @@ tags:
   - healthy eating during family gatherings
   - social-emotional-health
 primaryKeyword: discussing dietary limits with family
-topicCluster: social-emotional-health
+topicCluster: mental-wellness
 image: ''
 relatedSlugs:
   - what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices

@@ -1,14 +1,25 @@
 ---
-title: "How Holiday Feasting Can Trigger Atrial Fibrillation in Older Adults"
-slug: "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults"
-description: "Explores how large, rich holiday meals contribute to arrhythmias in people over 55, especially those with underlying heart risks."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["holiday feasting and atrial fibrillation", "holiday heart syndrome prevention", "diet-nutrition"]
-primaryKeyword: "holiday feasting and atrial fibrillation"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol"]
+title: How Holiday Feasting Can Trigger Atrial Fibrillation in Older Adults
+slug: how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+description: >-
+  Explores how large, rich holiday meals contribute to arrhythmias in people
+  over 55, especially those with underlying heart risks.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - holiday feasting and atrial fibrillation
+  - holiday heart syndrome prevention
+  - diet-nutrition
+primaryKeyword: holiday feasting and atrial fibrillation
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
 ---
 
 # How Holiday Feasting and Atrial Fibrillation Are Linked—And What You Can Do About It

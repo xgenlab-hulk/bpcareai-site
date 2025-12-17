@@ -1,14 +1,24 @@
 ---
-title: "Could Your Heartbeats Per Minute Predict Longevity?"
-slug: "could-your-heartbeats-per-minute-predict-longevity"
-description: "Explore how resting heart rate may serve as a marker for heart health and lifespan after 50."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["resting heart rate and longevity prediction over 50", "heart health", "heart-health"]
-primaryKeyword: "resting heart rate and longevity prediction over 50"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["is-sitting-too-much-harming-your-heart-after-60", "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50", "how-sleep-affects-heart-health-after-50", "can-meditation-reduce-heart-disease-risk-after-50", "how-retirement-changes-affect-heart-health"]
+title: Could Your Heartbeats Per Minute Predict Longevity?
+slug: could-your-heartbeats-per-minute-predict-longevity
+description: >-
+  Explore how resting heart rate may serve as a marker for heart health and
+  lifespan after 50.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - resting heart rate and longevity prediction over 50
+  - heart health
+  - heart-health
+primaryKeyword: resting heart rate and longevity prediction over 50
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - is-sitting-too-much-harming-your-heart-after-60
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - how-sleep-affects-heart-health-after-50
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - how-retirement-changes-affect-heart-health
 ---
 
 # Can Your Resting Heart Rate Help Predict Longevity After 50?

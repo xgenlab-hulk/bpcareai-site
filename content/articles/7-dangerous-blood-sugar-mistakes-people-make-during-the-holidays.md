@@ -1,14 +1,24 @@
 ---
-title: "7 Dangerous Blood Sugar Mistakes People Make During the Holidays"
-slug: "7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays"
-description: "Highlights common but risky behaviors — from skipping meds to overestimating activity — that can lead to dangerous glucose swings."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["holiday blood sugar mistakes", "managing blood sugar during Christmas and New Year", "warning-signs"]
-primaryKeyword: "holiday blood sugar mistakes"
-topicCluster: "warning-signs"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "best-blood-sugar-monitoring-practices-during-the-holiday-season", "myths-vs-facts-holiday-eating-with-diabetes-after-50", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes"]
+title: 7 Dangerous Blood Sugar Mistakes People Make During the Holidays
+slug: 7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays
+description: >-
+  Highlights common but risky behaviors — from skipping meds to overestimating
+  activity — that can lead to dangerous glucose swings.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - holiday blood sugar mistakes
+  - managing blood sugar during Christmas and New Year
+  - warning-signs
+primaryKeyword: holiday blood sugar mistakes
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
 ---
 
 # 7 Holiday Blood Sugar Mistakes That Put Your Health at Risk

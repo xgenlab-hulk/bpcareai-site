@@ -1,14 +1,24 @@
 ---
-title: "Does Layering Clothes Help Regulate Blood Pressure in Cold Climates?"
-slug: "does-layering-clothes-help-regulate-blood-pressure-in-cold-climates"
-description: "Investigates how proper clothing insulation impacts circulation and blood pressure stability in seniors exposed to winter conditions."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["layering clothes and blood pressure", "senior blood pressure control in winter", "seasonal-prevention"]
-primaryKeyword: "layering clothes and blood pressure"
-topicCluster: "seasonal-prevention"
-image: ""
-relatedSlugs: ["why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "the-hidden-dangers-of-indoor-heating-on-blood-pressure", "how-does-cold-weather-affect-blood-pressure-in-older-adults", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "can-cold-weather-raise-your-blood-pressure"]
+title: Does Layering Clothes Help Regulate Blood Pressure in Cold Climates?
+slug: does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
+description: >-
+  Investigates how proper clothing insulation impacts circulation and blood
+  pressure stability in seniors exposed to winter conditions.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - layering clothes and blood pressure
+  - senior blood pressure control in winter
+  - seasonal-prevention
+primaryKeyword: layering clothes and blood pressure
+topicCluster: preventive-care
+image: ''
+relatedSlugs:
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - can-cold-weather-raise-your-blood-pressure
 ---
 
 # How Layering Clothes and Blood Pressure Interact in Cold Weather—A Gentle Guide for Seniors

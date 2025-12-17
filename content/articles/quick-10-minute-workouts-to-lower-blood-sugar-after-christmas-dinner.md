@@ -1,14 +1,24 @@
 ---
-title: "Quick 10-Minute Workouts to Lower Blood Sugar After Christmas Dinner"
-slug: "quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner"
-description: "Effective, low-impact physical activities that can be done at home to mitigate glucose spikes after large meals."
-date: "2025-12-17"
-updated: "2025-12-17"
-tags: ["quick workouts after holiday meals", "managing blood sugar during Christmas and New Year", "exercise-physical-activity"]
-primaryKeyword: "quick workouts after holiday meals"
-topicCluster: "exercise-physical-activity"
-image: ""
-relatedSlugs: ["quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast", "best-low-impact-exercises-for-managing-diabetes-after-60", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose"]
+title: Quick 10-Minute Workouts to Lower Blood Sugar After Christmas Dinner
+slug: quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
+description: >-
+  Effective, low-impact physical activities that can be done at home to mitigate
+  glucose spikes after large meals.
+date: '2025-12-17'
+updated: '2025-12-17'
+tags:
+  - quick workouts after holiday meals
+  - managing blood sugar during Christmas and New Year
+  - exercise-physical-activity
+primaryKeyword: quick workouts after holiday meals
+topicCluster: physical-activity
+image: ''
+relatedSlugs:
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - 5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
+  - best-low-impact-exercises-for-managing-diabetes-after-60
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # Quick Workouts After Holiday Meals: Gentle Ways to Support Healthy Blood Sugar

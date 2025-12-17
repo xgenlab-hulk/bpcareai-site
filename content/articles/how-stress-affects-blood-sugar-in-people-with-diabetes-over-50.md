@@ -1,14 +1,24 @@
 ---
-title: "How Stress Affects Blood Sugar in People with Diabetes Over 50"
-slug: "how-stress-affects-blood-sugar-in-people-with-diabetes-over-50"
-description: "Discover how emotional stress triggers glucose spikes and strategies to manage both."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["stress and blood sugar in older diabetics", "diabetes", "diabetes-lifestyle"]
-primaryKeyword: "stress and blood sugar in older diabetics"
-topicCluster: "diabetes-lifestyle"
-image: ""
-relatedSlugs: ["why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes", "managing-diabetes-while-traveling-tips-for-seniors"]
+title: How Stress Affects Blood Sugar in People with Diabetes Over 50
+slug: how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
+description: >-
+  Discover how emotional stress triggers glucose spikes and strategies to manage
+  both.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - stress and blood sugar in older diabetics
+  - diabetes
+  - diabetes-lifestyle
+primaryKeyword: stress and blood sugar in older diabetics
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
+  - managing-diabetes-while-traveling-tips-for-seniors
 ---
 
 # How Stress and Blood Sugar in Older Diabetics Are Connected—and What You Can Do

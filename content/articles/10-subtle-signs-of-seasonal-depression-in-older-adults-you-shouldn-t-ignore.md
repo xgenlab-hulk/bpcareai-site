@@ -1,14 +1,26 @@
 ---
-title: "10 Subtle Signs of Seasonal Depression in Older Adults You Shouldn’t Ignore"
-slug: "10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore"
-description: "This article highlights early and often-overlooked symptoms of seasonal affective disorder in seniors, helping caregivers and family recognize warning cues."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["signs of seasonal depression in seniors", "seasonal depression in older adults", "symptom-recognition"]
-primaryKeyword: "signs of seasonal depression in seniors"
-topicCluster: "symptom-recognition"
-image: ""
-relatedSlugs: ["the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home", "is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know", "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75", "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties"]
+title: 10 Subtle Signs of Seasonal Depression in Older Adults You Shouldn’t Ignore
+slug: 10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+description: >-
+  This article highlights early and often-overlooked symptoms of seasonal
+  affective disorder in seniors, helping caregivers and family recognize warning
+  cues.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - signs of seasonal depression in seniors
+  - seasonal depression in older adults
+  - symptom-recognition
+primaryKeyword: signs of seasonal depression in seniors
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home
+  - >-
+    is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
 ---
 
 # Recognizing the Quiet Signs of Seasonal Depression in Seniors

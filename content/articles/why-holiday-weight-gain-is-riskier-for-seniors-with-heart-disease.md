@@ -1,14 +1,25 @@
 ---
-title: "Why Holiday Weight Gain Is Riskier for Seniors with Heart Disease"
-slug: "why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease"
-description: "Explore how temporary overeating during the holidays can have lasting cardiovascular consequences, especially for older adults with existing heart conditions."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["holiday weight gain heart risk seniors", "healthy holiday eating for seniors", "complications-related-conditions"]
-primaryKeyword: "holiday weight gain heart risk seniors"
-topicCluster: "complications-related-conditions"
-image: ""
-relatedSlugs: ["the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults", "when-to-worry-about-weight-gain-after-a-family-gathering", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "when-to-worry-about-chest-discomfort-after-a-big-holiday-meal", "why-winter-increases-heart-attack-risk-in-seniors-over-70"]
+title: Why Holiday Weight Gain Is Riskier for Seniors with Heart Disease
+slug: why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+description: >-
+  Explore how temporary overeating during the holidays can have lasting
+  cardiovascular consequences, especially for older adults with existing heart
+  conditions.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - holiday weight gain heart risk seniors
+  - healthy holiday eating for seniors
+  - complications-related-conditions
+primaryKeyword: holiday weight gain heart risk seniors
+topicCluster: complications-comorbidities
+image: ''
+relatedSlugs:
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - when-to-worry-about-weight-gain-after-a-family-gathering
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
 ---
 
 # Why Holiday Weight Gain Poses a Greater Heart Risk for Seniors

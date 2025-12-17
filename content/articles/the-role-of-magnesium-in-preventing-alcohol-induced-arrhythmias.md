@@ -1,14 +1,24 @@
 ---
-title: "The Role of Magnesium in Preventing Alcohol-Induced Arrhythmias"
-slug: "the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias"
-description: "Explore how magnesium deficiency may increase susceptibility to holiday heart syndrome and whether supplementation helps."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["magnesium alcohol arrhythmias", "holiday heart syndrome prevention", "supplements"]
-primaryKeyword: "magnesium alcohol arrhythmias"
-topicCluster: "supplements"
-image: ""
-relatedSlugs: ["why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "12-simple-ways-to-prevent-holiday-heart-syndrome-naturally", "what-research-says-about-holiday-heart-syndrome-and-aging-hearts", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"]
+title: The Role of Magnesium in Preventing Alcohol-Induced Arrhythmias
+slug: the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
+description: >-
+  Explore how magnesium deficiency may increase susceptibility to holiday heart
+  syndrome and whether supplementation helps.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - magnesium alcohol arrhythmias
+  - holiday heart syndrome prevention
+  - supplements
+primaryKeyword: magnesium alcohol arrhythmias
+topicCluster: medications-supplements
+image: ''
+relatedSlugs:
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
+  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # How Magnesium Helps Protect Your Heart During Holiday Celebrations — Understanding Magnesium Alcohol Arrhythmias

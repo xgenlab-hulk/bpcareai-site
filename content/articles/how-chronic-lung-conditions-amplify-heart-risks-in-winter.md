@@ -1,14 +1,24 @@
 ---
-title: "How Chronic Lung Conditions Amplify Heart Risks in Winter"
-slug: "how-chronic-lung-conditions-amplify-heart-risks-in-winter"
-description: "Explores the interplay between COPD, asthma, and cardiovascular strain during colder months in adults over 65."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["lung disease winter heart risk", "winter heart health for seniors", "comorbidities"]
-primaryKeyword: "lung disease winter heart risk"
-topicCluster: "comorbidities"
-image: ""
-relatedSlugs: ["why-winter-increases-heart-attack-risk-in-seniors-over-70", "how-indoor-air-quality-affects-heart-health-in-winter", "how-vitamin-d-deficiency-impacts-heart-health-in-winter", "how-winter-depression-affects-heart-health-in-retired-adults", "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults"]
+title: How Chronic Lung Conditions Amplify Heart Risks in Winter
+slug: how-chronic-lung-conditions-amplify-heart-risks-in-winter
+description: >-
+  Explores the interplay between COPD, asthma, and cardiovascular strain during
+  colder months in adults over 65.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - lung disease winter heart risk
+  - winter heart health for seniors
+  - comorbidities
+primaryKeyword: lung disease winter heart risk
+topicCluster: complications-comorbidities
+image: ''
+relatedSlugs:
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - how-indoor-air-quality-affects-heart-health-in-winter
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - how-winter-depression-affects-heart-health-in-retired-adults
+  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
 ---
 
 # How Chronic Lung Conditions Increase Heart Risks During Winter — What Seniors Should Know

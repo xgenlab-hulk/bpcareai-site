@@ -1,14 +1,24 @@
 ---
-title: "10 Heart-Healthy Swaps for Traditional Holiday Dishes After 50"
-slug: "10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50"
-description: "Provides practical, flavorful ingredient substitutions to reduce sodium, fat, and sugar in classic holiday recipes for better heart outcomes."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["heart-healthy holiday recipe swaps", "holiday heart syndrome prevention", "cardiac-diet"]
-primaryKeyword: "heart-healthy holiday recipe swaps"
-topicCluster: "cardiac-diet"
-image: ""
-relatedSlugs: ["7-smart-swaps-for-healthier-holiday-meals-after-65", "10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor", "12-smart-swaps-to-manage-blood-sugar-during-holiday-meals", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"]
+title: 10 Heart-Healthy Swaps for Traditional Holiday Dishes After 50
+slug: 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
+description: >-
+  Provides practical, flavorful ingredient substitutions to reduce sodium, fat,
+  and sugar in classic holiday recipes for better heart outcomes.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - heart-healthy holiday recipe swaps
+  - holiday heart syndrome prevention
+  - cardiac-diet
+primaryKeyword: heart-healthy holiday recipe swaps
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
+  - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # 10 Heart-Healthy Holiday Recipe Swaps for People Over 50  

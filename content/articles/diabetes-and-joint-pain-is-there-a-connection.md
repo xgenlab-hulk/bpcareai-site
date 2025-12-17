@@ -1,14 +1,24 @@
 ---
-title: "Diabetes and Joint Pain: Is There a Connection?"
-slug: "diabetes-and-joint-pain-is-there-a-connection"
-description: "Explore how chronic high blood sugar contributes to arthritis-like symptoms and mobility issues."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["diabetes and joint pain in older adults", "diabetes", "diabetes-complications"]
-primaryKeyword: "diabetes and joint pain in older adults"
-topicCluster: "diabetes-complications"
-image: ""
-relatedSlugs: ["how-gum-disease-is-linked-to-diabetes-complications-in-older-adults", "diabetes-and-vision-changes-what-seniors-need-to-know", "the-link-between-diabetes-and-slow-healing-in-older-adults", "how-stress-affects-blood-sugar-in-people-with-diabetes-over-50", "can-vitamin-d-deficiency-make-diabetes-worse-in-seniors"]
+title: 'Diabetes and Joint Pain: Is There a Connection?'
+slug: diabetes-and-joint-pain-is-there-a-connection
+description: >-
+  Explore how chronic high blood sugar contributes to arthritis-like symptoms
+  and mobility issues.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - diabetes and joint pain in older adults
+  - diabetes
+  - diabetes-complications
+primaryKeyword: diabetes and joint pain in older adults
+topicCluster: complications-comorbidities
+image: ''
+relatedSlugs:
+  - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
+  - diabetes-and-vision-changes-what-seniors-need-to-know
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
+  - how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
+  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
 ---
 
 # Understanding Diabetes and Joint Pain in Older Adults: What’s Really Going On?

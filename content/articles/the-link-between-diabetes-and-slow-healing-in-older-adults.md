@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-complications
 primaryKeyword: diabetes and slow wound healing in elderly
-topicCluster: diabetes-complications
+topicCluster: complications-comorbidities
 image: ''
 relatedSlugs:
   - diabetes-and-vision-changes-what-seniors-need-to-know

@@ -1,14 +1,25 @@
 ---
-title: "The Truth About Alcohol and Blood Sugar During Holiday Parties"
-slug: "the-truth-about-alcohol-and-blood-sugar-during-holiday-parties"
-description: "Examine how festive drinking affects glucose control in older adults with type 2 diabetes and how to make safer choices."
-date: "2025-12-16"
-updated: "2025-12-16"
-tags: ["alcohol effect on blood sugar holidays", "holiday diabetes management", "lifestyle-diet-interactions"]
-primaryKeyword: "alcohol effect on blood sugar holidays"
-topicCluster: "lifestyle-diet-interactions"
-image: ""
-relatedSlugs: ["what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays", "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes", "does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "managing-type-2-diabetes-while-attending-back-to-back-holiday-parties"]
+title: The Truth About Alcohol and Blood Sugar During Holiday Parties
+slug: the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
+description: >-
+  Examine how festive drinking affects glucose control in older adults with type
+  2 diabetes and how to make safer choices.
+date: '2025-12-16'
+updated: '2025-12-16'
+tags:
+  - alcohol effect on blood sugar holidays
+  - holiday diabetes management
+  - lifestyle-diet-interactions
+primaryKeyword: alcohol effect on blood sugar holidays
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
 ---
 
 # Navigating the alcohol effect on blood sugar holidays: A gentle guide for older adults with type 2 diabetes

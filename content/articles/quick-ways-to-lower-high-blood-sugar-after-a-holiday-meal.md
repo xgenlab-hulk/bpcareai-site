@@ -1,14 +1,24 @@
 ---
-title: "Quick Ways to Lower High Blood Sugar After a Holiday Meal"
-slug: "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal"
-description: "Immediate, safe actions to take if glucose readings spike after indulging during festive dinners."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["lower blood sugar after holiday meal", "holiday diabetes management", "emergency-response-tactics"]
-primaryKeyword: "lower blood sugar after holiday meal"
-topicCluster: "emergency-response-tactics"
-image: ""
-relatedSlugs: ["5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"]
+title: Quick Ways to Lower High Blood Sugar After a Holiday Meal
+slug: quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+description: >-
+  Immediate, safe actions to take if glucose readings spike after indulging
+  during festive dinners.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - lower blood sugar after holiday meal
+  - holiday diabetes management
+  - emergency-response-tactics
+primaryKeyword: lower blood sugar after holiday meal
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # Quick Ways to Lower Blood Sugar After a Holiday Meal

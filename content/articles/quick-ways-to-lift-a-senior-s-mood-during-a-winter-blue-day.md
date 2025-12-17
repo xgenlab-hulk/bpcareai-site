@@ -11,7 +11,7 @@ tags:
   - seasonal depression in older adults
   - immediate-interventions
 primaryKeyword: quick mood boosters for seniors
-topicCluster: immediate-interventions
+topicCluster: symptoms-emergencies
 image: ''
 relatedSlugs:
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70

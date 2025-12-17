@@ -1,14 +1,25 @@
 ---
-title: "Why Your New Year’s Eve Party Could Be a Heart Risk After Age 55"
-slug: "why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55"
-description: "Unpack how celebratory behaviors like drinking, stress, and sleep disruption increase cardiac strain at the end of the year."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["New Year's heart risk", "holiday heart syndrome prevention", "seasonal-factors"]
-primaryKeyword: "New Year's heart risk"
-topicCluster: "seasonal-factors"
-image: ""
-relatedSlugs: ["the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50", "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"]
+title: Why Your New Year’s Eve Party Could Be a Heart Risk After Age 55
+slug: why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+description: >-
+  Unpack how celebratory behaviors like drinking, stress, and sleep disruption
+  increase cardiac strain at the end of the year.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - New Year's heart risk
+  - holiday heart syndrome prevention
+  - seasonal-factors
+primaryKeyword: New Year's heart risk
+topicCluster: seasonal-health
+image: ''
+relatedSlugs:
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # Understanding New Year’s Heart Risk After Age 55

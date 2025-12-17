@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-lifestyle
 primaryKeyword: intermittent fasting for type 2 diabetes over 60
-topicCluster: diabetes-lifestyle
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - meal-timing-strategies-for-better-blood-sugar-control-after-50

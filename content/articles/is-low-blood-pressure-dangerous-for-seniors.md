@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - blood-pressure-basics
 primaryKeyword: low blood pressure risks in seniors
-topicCluster: blood-pressure-basics
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults

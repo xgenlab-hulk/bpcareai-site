@@ -1,14 +1,24 @@
 ---
-title: "How Much Exercise Do You Need to Reduce Heart Disease Risk After 65?"
-slug: "how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65"
-description: "Find out the minimum effective amount of physical activity to protect your heart as you age, backed by recent studies."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["exercise to prevent heart disease after 65", "heart disease", "hypertension-lifestyle"]
-primaryKeyword: "exercise to prevent heart disease after 65"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["can-meditation-reduce-heart-disease-risk-after-50", "can-gardening-improve-heart-health-after-50", "is-sitting-too-much-harming-your-heart-after-60", "can-mindfulness-meditation-reduce-heart-disease-risk-after-50", "can-strength-training-lower-heart-disease-risk-after-60"]
+title: How Much Exercise Do You Need to Reduce Heart Disease Risk After 65?
+slug: how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
+description: >-
+  Find out the minimum effective amount of physical activity to protect your
+  heart as you age, backed by recent studies.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - exercise to prevent heart disease after 65
+  - heart disease
+  - hypertension-lifestyle
+primaryKeyword: exercise to prevent heart disease after 65
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - can-gardening-improve-heart-health-after-50
+  - is-sitting-too-much-harming-your-heart-after-60
+  - can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - can-strength-training-lower-heart-disease-risk-after-60
 ---
 
 # How Much Exercise to Prevent Heart Disease After 65 Is Enough—And It’s Less Than You Think

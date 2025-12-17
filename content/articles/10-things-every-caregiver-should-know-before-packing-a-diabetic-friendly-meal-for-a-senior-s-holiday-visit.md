@@ -1,14 +1,31 @@
 ---
-title: "10 Things Every Caregiver Should Know Before Packing a Diabetic-Friendly Meal for a Senior’s Holiday Visit"
-slug: "10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit"
-description: "Covers thermal safety, insulin timing coordination, carb-counting shortcuts, label literacy for frozen/prepped foods, and discreet communication tactics—tailored for adult children or professional caregivers managing type 2 diabetes in parents aged 80+."
-date: "2025-12-16"
-updated: "2025-12-16"
-tags: ["caregiver diabetic meal packing seniors", "healthy eating during family gatherings", "caregiver-diet-logistics"]
-primaryKeyword: "caregiver diabetic meal packing seniors"
-topicCluster: "caregiver-diet-logistics"
-image: ""
-relatedSlugs: ["managing-diabetes-while-traveling-tips-for-seniors", "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide", "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out"]
+title: >-
+  10 Things Every Caregiver Should Know Before Packing a Diabetic-Friendly Meal
+  for a Senior’s Holiday Visit
+slug: >-
+  10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+description: >-
+  Covers thermal safety, insulin timing coordination, carb-counting shortcuts,
+  label literacy for frozen/prepped foods, and discreet communication
+  tactics—tailored for adult children or professional caregivers managing type 2
+  diabetes in parents aged 80+.
+date: '2025-12-16'
+updated: '2025-12-16'
+tags:
+  - caregiver diabetic meal packing seniors
+  - healthy eating during family gatherings
+  - caregiver-diet-logistics
+primaryKeyword: caregiver diabetic meal packing seniors
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
 ---
 
 # What Every Caregiver Needs to Know About Diabetic-Friendly Meal Packing for Seniors During the Holidays  

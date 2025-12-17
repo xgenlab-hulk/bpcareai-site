@@ -11,7 +11,7 @@ tags:
   - winter heart health for seniors
   - cardiac-diet
 primaryKeyword: winter fruits heart health
-topicCluster: cardiac-diet
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors

@@ -1,14 +1,24 @@
 ---
-title: "Does Holiday Lighting or Noise Affect Sleep and Blood Sugar Control?"
-slug: "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control"
-description: "Investigate how environmental changes during the holidays may disrupt sleep and glucose regulation in diabetics over 50."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["holiday environment sleep blood sugar", "holiday diabetes management", "sleep-environment-impact"]
-primaryKeyword: "holiday environment sleep blood sugar"
-topicCluster: "sleep-environment-impact"
-image: ""
-relatedSlugs: ["why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "the-link-between-loneliness-during-holidays-and-poor-diabetes-control", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose"]
+title: Does Holiday Lighting or Noise Affect Sleep and Blood Sugar Control?
+slug: does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+description: >-
+  Investigate how environmental changes during the holidays may disrupt sleep
+  and glucose regulation in diabetics over 50.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - holiday environment sleep blood sugar
+  - holiday diabetes management
+  - sleep-environment-impact
+primaryKeyword: holiday environment sleep blood sugar
+topicCluster: sleep-rest
+image: ''
+relatedSlugs:
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - the-link-between-loneliness-during-holidays-and-poor-diabetes-control
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # How Holiday Environment Sleep Blood Sugar Are Connected: A Guide for Adults Over 50

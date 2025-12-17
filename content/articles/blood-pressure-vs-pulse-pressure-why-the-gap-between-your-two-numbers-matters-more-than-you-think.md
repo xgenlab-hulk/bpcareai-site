@@ -1,14 +1,24 @@
 ---
-title: "Blood Pressure vs. Pulse Pressure: Why the Gap Between Your Two Numbers Matters More Than You Think"
-slug: "blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think"
-description: "Clarifies the clinical significance of pulse pressure widening in aging arteries, its predictive value for stroke and heart failure, and how to interpret it alongside standard BP readings."
-date: "2025-12-16"
-updated: "2025-12-16"
-tags: ["pulse pressure vs blood pressure aging", "blood pressure", "vital-signs-interpretation"]
-primaryKeyword: "pulse pressure vs blood pressure aging"
-topicCluster: "vital-signs-interpretation"
-image: ""
-relatedSlugs: ["blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70"]
+title: >-
+  Blood Pressure vs. Pulse Pressure: Why the Gap Between Your Two Numbers
+  Matters More Than You Think
+slug: >-
+  blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
+description: >-
+  Clarifies the clinical significance of pulse pressure widening in aging
+  arteries, its predictive value for stroke and heart failure, and how to
+  interpret it alongside standard BP readings.
+date: '2025-12-16'
+updated: '2025-12-16'
+tags:
+  - pulse pressure vs blood pressure aging
+  - blood pressure
+  - vital-signs-interpretation
+primaryKeyword: pulse pressure vs blood pressure aging
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
 ---
 
 # Understanding Pulse Pressure vs Blood Pressure in Aging: Why That Gap Tells a Powerful Story

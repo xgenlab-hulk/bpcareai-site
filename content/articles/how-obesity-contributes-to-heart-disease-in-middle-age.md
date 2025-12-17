@@ -1,14 +1,24 @@
 ---
-title: "How Obesity Contributes to Heart Disease in Middle Age"
-slug: "how-obesity-contributes-to-heart-disease-in-middle-age"
-description: "Learn the mechanisms linking excess weight to arterial damage and heart strain in people aged 45–65."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["obesity and heart disease in middle age", "heart disease", "hypertension-lifestyle"]
-primaryKeyword: "obesity and heart disease in middle age"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["how-type-2-diabetes-increases-heart-disease-risk-after-50", "heart-disease-and-chronic-kidney-disease-the-dangerous-connection", "the-hidden-link-between-gum-disease-and-heart-problems", "can-meditation-reduce-heart-disease-risk-after-50", "can-gardening-improve-heart-health-after-50"]
+title: How Obesity Contributes to Heart Disease in Middle Age
+slug: how-obesity-contributes-to-heart-disease-in-middle-age
+description: >-
+  Learn the mechanisms linking excess weight to arterial damage and heart strain
+  in people aged 45–65.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - obesity and heart disease in middle age
+  - heart disease
+  - hypertension-lifestyle
+primaryKeyword: obesity and heart disease in middle age
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - can-gardening-improve-heart-health-after-50
 ---
 
 # How Obesity and Heart Disease in Middle Age Are Connected

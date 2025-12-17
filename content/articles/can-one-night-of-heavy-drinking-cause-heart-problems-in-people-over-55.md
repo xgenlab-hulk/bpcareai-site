@@ -1,14 +1,25 @@
 ---
-title: "Can One Night of Heavy Drinking Cause Heart Problems in People Over 55?"
-slug: "can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55"
-description: "Address acute cardiac risks from episodic overindulgence, focusing on age-related physiological vulnerability."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["one night heavy drinking heart", "holiday heart syndrome prevention", "acute-risk-events"]
-primaryKeyword: "one night heavy drinking heart"
-topicCluster: "acute-risk-events"
-image: ""
-relatedSlugs: ["can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults", "why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55", "the-truth-about-alcohol-and-heart-health-after-55", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults", "the-connection-between-frequent-urination-at-night-and-heart-health"]
+title: Can One Night of Heavy Drinking Cause Heart Problems in People Over 55?
+slug: can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
+description: >-
+  Address acute cardiac risks from episodic overindulgence, focusing on
+  age-related physiological vulnerability.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - one night heavy drinking heart
+  - holiday heart syndrome prevention
+  - acute-risk-events
+primaryKeyword: one night heavy drinking heart
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - the-truth-about-alcohol-and-heart-health-after-55
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - the-connection-between-frequent-urination-at-night-and-heart-health
 ---
 
 # Can One Night of Heavy Drinking Affect Your Heart After Age 55?

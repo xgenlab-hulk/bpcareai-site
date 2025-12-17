@@ -1,14 +1,24 @@
 ---
-title: "How to Adjust Your Parent’s Daily Routine to Combat Winter Depression"
-slug: "how-to-adjust-your-parent-s-daily-routine-to-combat-winter-depression"
-description: "Provide step-by-step suggestions for structuring mornings, increasing activity, and maximizing daylight exposure."
-date: "2025-12-17"
-updated: "2025-12-17"
-tags: ["daily routine for seasonal depression", "seasonal depression in older adults", "routine-optimization"]
-primaryKeyword: "daily routine for seasonal depression"
-topicCluster: "routine-optimization"
-image: ""
-relatedSlugs: ["best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70", "natural-ways-to-manage-seasonal-depression-in-seniors-without-medication", "how-to-support-a-parent-with-seasonal-depression-while-living-far-away", "the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home", "how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60"]
+title: How to Adjust Your Parent’s Daily Routine to Combat Winter Depression
+slug: how-to-adjust-your-parent-s-daily-routine-to-combat-winter-depression
+description: >-
+  Provide step-by-step suggestions for structuring mornings, increasing
+  activity, and maximizing daylight exposure.
+date: '2025-12-17'
+updated: '2025-12-17'
+tags:
+  - daily routine for seasonal depression
+  - seasonal depression in older adults
+  - routine-optimization
+primaryKeyword: daily routine for seasonal depression
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - how-to-support-a-parent-with-seasonal-depression-while-living-far-away
+  - the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home
+  - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
 ---
 
 # A Gentle, Supportive Daily Routine for Seasonal Depression in Older Adults

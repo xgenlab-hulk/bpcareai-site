@@ -11,7 +11,7 @@ tags:
   - heart health
   - stress
 primaryKeyword: heart rate variability
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - understanding-blood-pressure-numbers

@@ -1,14 +1,24 @@
 ---
-title: "The Best Indoor Exercises for Blood Pressure Control in Winter"
-slug: "the-best-indoor-exercises-for-blood-pressure-control-in-winter"
-description: "Highlights safe, effective at-home workouts tailored for seniors to maintain cardiovascular fitness and stable blood pressure during winter months."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["indoor exercises for seniors", "senior blood pressure control in winter", "physical-activity"]
-primaryKeyword: "indoor exercises for seniors"
-topicCluster: "physical-activity"
-image: ""
-relatedSlugs: ["blood-pressure-management-for-sedentary-seniors-in-winter-months", "the-hidden-dangers-of-indoor-heating-on-blood-pressure", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "how-does-cold-weather-affect-blood-pressure-in-older-adults", "best-low-impact-exercises-for-managing-diabetes-after-60"]
+title: The Best Indoor Exercises for Blood Pressure Control in Winter
+slug: the-best-indoor-exercises-for-blood-pressure-control-in-winter
+description: >-
+  Highlights safe, effective at-home workouts tailored for seniors to maintain
+  cardiovascular fitness and stable blood pressure during winter months.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - indoor exercises for seniors
+  - senior blood pressure control in winter
+  - physical-activity
+primaryKeyword: indoor exercises for seniors
+topicCluster: physical-activity
+image: ''
+relatedSlugs:
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - best-low-impact-exercises-for-managing-diabetes-after-60
 ---
 
 # Safe and Effective Indoor Exercises for Seniors to Support Blood Pressure Control in Winter

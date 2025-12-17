@@ -11,7 +11,7 @@ tags:
   - heart disease
   - heart-health
 primaryKeyword: frequent urination at night and heart disease
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - the-connection-between-frequent-urination-at-night-and-heart-health

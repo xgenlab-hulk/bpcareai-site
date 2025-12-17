@@ -1,14 +1,25 @@
 ---
-title: "Does Alcohol Raise Blood Sugar in Older Adults with Diabetes?"
-slug: "does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes"
-description: "Examine how drinking alcohol affects glucose levels and interacts with diabetes medications."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["alcohol effects on blood sugar in seniors with diabetes", "diabetes", "diabetes-lifestyle"]
-primaryKeyword: "alcohol effects on blood sugar in seniors with diabetes"
-topicCluster: "diabetes-lifestyle"
-image: ""
-relatedSlugs: ["what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays", "is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "managing-diabetes-while-traveling-tips-for-seniors", "diabetes-and-vision-changes-what-seniors-need-to-know"]
+title: Does Alcohol Raise Blood Sugar in Older Adults with Diabetes?
+slug: does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
+description: >-
+  Examine how drinking alcohol affects glucose levels and interacts with
+  diabetes medications.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - alcohol effects on blood sugar in seniors with diabetes
+  - diabetes
+  - diabetes-lifestyle
+primaryKeyword: alcohol effects on blood sugar in seniors with diabetes
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+  - is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - diabetes-and-vision-changes-what-seniors-need-to-know
 ---
 
 # How Alcohol Affects Blood Sugar in Older Adults with Diabetes: Understanding the Risks and Realities

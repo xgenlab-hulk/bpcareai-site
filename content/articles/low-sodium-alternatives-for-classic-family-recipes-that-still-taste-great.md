@@ -1,14 +1,22 @@
 ---
-title: "Low-Sodium Alternatives for Classic Family Recipes That Still Taste Great"
-slug: "low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great"
-description: "Shares flavorful seasoning blends and cooking methods that reduce sodium without compromising the taste of beloved dishes."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["low-sodium family meal ideas", "healthy eating during family gatherings", "heart-healthy-cooking"]
-primaryKeyword: "low-sodium family meal ideas"
-topicCluster: "heart-healthy-cooking"
-image: ""
-relatedSlugs: ["10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor", "7-smart-swaps-for-healthier-holiday-meals-after-65", "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure"]
+title: Low-Sodium Alternatives for Classic Family Recipes That Still Taste Great
+slug: low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
+description: >-
+  Shares flavorful seasoning blends and cooking methods that reduce sodium
+  without compromising the taste of beloved dishes.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - low-sodium family meal ideas
+  - healthy eating during family gatherings
+  - heart-healthy-cooking
+primaryKeyword: low-sodium family meal ideas
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
 ---
 
 # Delicious Low-Sodium Family Meal Ideas That Keep Flavor—and Heart Health—Front and Center

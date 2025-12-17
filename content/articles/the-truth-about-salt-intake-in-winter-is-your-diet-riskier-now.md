@@ -1,14 +1,24 @@
 ---
-title: "The Truth About Salt Intake in Winter: Is Your Diet Riskier Now?"
-slug: "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now"
-description: "Debunks myths about winter cravings and sodium consumption, offering real-world advice for seniors managing hypertension."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["salt intake in winter", "senior blood pressure control in winter", "diet-nutrition"]
-primaryKeyword: "salt intake in winter"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70", "what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70"]
+title: 'The Truth About Salt Intake in Winter: Is Your Diet Riskier Now?'
+slug: the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+description: >-
+  Debunks myths about winter cravings and sodium consumption, offering
+  real-world advice for seniors managing hypertension.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - salt intake in winter
+  - senior blood pressure control in winter
+  - diet-nutrition
+primaryKeyword: salt intake in winter
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
+  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 
 # Is Your Salt Intake in Winter Really Higher — and Does It Affect Your Blood Pressure?

@@ -1,14 +1,24 @@
 ---
-title: "Why Blood Sugar Spikes at Night in Older Adults with Diabetes"
-slug: "why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes"
-description: "Uncover common causes of nocturnal hyperglycemia and how to prevent it through diet and medication timing."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["nighttime blood sugar spikes in elderly diabetics", "diabetes", "diabetes-management"]
-primaryKeyword: "nighttime blood sugar spikes in elderly diabetics"
-topicCluster: "diabetes-management"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "meal-timing-strategies-for-better-blood-sugar-control-after-50", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "managing-diabetes-while-traveling-tips-for-seniors"]
+title: Why Blood Sugar Spikes at Night in Older Adults with Diabetes
+slug: why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
+description: >-
+  Uncover common causes of nocturnal hyperglycemia and how to prevent it through
+  diet and medication timing.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - nighttime blood sugar spikes in elderly diabetics
+  - diabetes
+  - diabetes-management
+primaryKeyword: nighttime blood sugar spikes in elderly diabetics
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - meal-timing-strategies-for-better-blood-sugar-control-after-50
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - managing-diabetes-while-traveling-tips-for-seniors
 ---
 
 # Understanding Nighttime Blood Sugar Spikes in Elderly Diabetics

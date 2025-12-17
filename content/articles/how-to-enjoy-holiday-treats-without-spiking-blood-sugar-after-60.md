@@ -1,14 +1,25 @@
 ---
-title: "How to Enjoy Holiday Treats Without Spiking Blood Sugar After 60"
-slug: "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60"
-description: "Science-backed timing, pairing, and portion strategies that allow seniors with prediabetes or diabetes to savor sweets safely."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["enjoy holiday treats without spiking blood sugar", "healthy holiday eating for seniors", "diabetic-diet"]
-primaryKeyword: "enjoy holiday treats without spiking blood sugar"
-topicCluster: "diabetic-diet"
-image: ""
-relatedSlugs: ["are-sugar-free-treats-actually-safe-for-diabetics-over-65", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health", "best-low-carb-desserts-for-diabetics-over-60-this-holiday-season", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes"]
+title: How to Enjoy Holiday Treats Without Spiking Blood Sugar After 60
+slug: how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+description: >-
+  Science-backed timing, pairing, and portion strategies that allow seniors with
+  prediabetes or diabetes to savor sweets safely.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - enjoy holiday treats without spiking blood sugar
+  - healthy holiday eating for seniors
+  - diabetic-diet
+primaryKeyword: enjoy holiday treats without spiking blood sugar
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # How to Enjoy Holiday Treats Without Spiking Blood Sugar After 60

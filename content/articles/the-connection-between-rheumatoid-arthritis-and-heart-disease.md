@@ -11,7 +11,7 @@ tags:
   - heart disease
   - cardiovascular-risk
 primaryKeyword: rheumatoid arthritis and heart disease link
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart

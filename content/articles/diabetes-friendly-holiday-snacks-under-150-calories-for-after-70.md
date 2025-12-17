@@ -1,14 +1,24 @@
 ---
-title: "Diabetes-Friendly Holiday Snacks Under 150 Calories for After 70"
-slug: "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70"
-description: "A curated list of satisfying, low-glycemic snacks ideal for older adults managing diabetes during festive gatherings."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["diabetic holiday snacks over 70", "holiday diabetes management", "senior-specific-nutrition"]
-primaryKeyword: "diabetic holiday snacks over 70"
-topicCluster: "senior-specific-nutrition"
-image: ""
-relatedSlugs: ["best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70", "top-10-diabetes-friendly-snacks-for-people-over-60", "best-low-carb-desserts-for-diabetics-over-60-this-holiday-season", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"]
+title: Diabetes-Friendly Holiday Snacks Under 150 Calories for After 70
+slug: diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
+description: >-
+  A curated list of satisfying, low-glycemic snacks ideal for older adults
+  managing diabetes during festive gatherings.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - diabetic holiday snacks over 70
+  - holiday diabetes management
+  - senior-specific-nutrition
+primaryKeyword: diabetic holiday snacks over 70
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
+  - top-10-diabetes-friendly-snacks-for-people-over-60
+  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
 ---
 
 # Diabetic Holiday Snacks for Adults Over 70: Smart, Satisfying Choices Under 150 Calories

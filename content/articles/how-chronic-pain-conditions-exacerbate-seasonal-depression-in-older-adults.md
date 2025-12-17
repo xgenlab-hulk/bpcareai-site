@@ -11,7 +11,7 @@ tags:
   - seasonal depression in older adults
   - comorbidity-impact
 primaryKeyword: chronic pain and seasonal depression
-topicCluster: comorbidity-impact
+topicCluster: complications-comorbidities
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

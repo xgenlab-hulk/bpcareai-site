@@ -1,14 +1,24 @@
 ---
-title: "Top 6 Portable Blood Glucose Meters for Traveling Seniors This Holiday Season"
-slug: "top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season"
-description: "Compare user-friendly, reliable meters suited for older adults managing diabetes on the go during winter holidays."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["best glucose meters for seniors travel", "holiday diabetes management", "diabetes-tools-technology"]
-primaryKeyword: "best glucose meters for seniors travel"
-topicCluster: "diabetes-tools-technology"
-image: ""
-relatedSlugs: ["managing-diabetes-while-traveling-tips-for-seniors", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide", "best-low-carb-desserts-for-diabetics-over-60-this-holiday-season", "how-to-monitor-blood-sugar-more-effectively-during-festive-travel"]
+title: Top 6 Portable Blood Glucose Meters for Traveling Seniors This Holiday Season
+slug: top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
+description: >-
+  Compare user-friendly, reliable meters suited for older adults managing
+  diabetes on the go during winter holidays.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - best glucose meters for seniors travel
+  - holiday diabetes management
+  - diabetes-tools-technology
+primaryKeyword: best glucose meters for seniors travel
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+  - how-to-monitor-blood-sugar-more-effectively-during-festive-travel
 ---
 
 # Top Portable Glucose Meters for Seniors Traveling This Holiday Season — Your Guide to the Best Glucose Meters for Seniors Travel

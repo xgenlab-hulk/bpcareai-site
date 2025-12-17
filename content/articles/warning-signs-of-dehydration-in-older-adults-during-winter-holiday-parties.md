@@ -1,14 +1,25 @@
 ---
-title: "Warning Signs of Dehydration in Older Adults During Winter Holiday Parties"
-slug: "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties"
-description: "Spot subtle symptoms of fluid imbalance in seniors—especially important when alcohol, indoor heating, and busy schedules reduce water intake."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["dehydration warning signs in seniors winter", "healthy holiday eating for seniors", "emergency-symptoms"]
-primaryKeyword: "dehydration warning signs in seniors winter"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70", "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70", "how-dehydration-affects-blood-sugar-readings-in-older-diabetics", "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity", "the-hidden-dangers-of-indoor-heating-on-blood-pressure"]
+title: Warning Signs of Dehydration in Older Adults During Winter Holiday Parties
+slug: warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+description: >-
+  Spot subtle symptoms of fluid imbalance in seniors—especially important when
+  alcohol, indoor heating, and busy schedules reduce water intake.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - dehydration warning signs in seniors winter
+  - healthy holiday eating for seniors
+  - emergency-symptoms
+primaryKeyword: dehydration warning signs in seniors winter
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
 ---
 
 # Recognizing Dehydration Warning Signs in Seniors During Winter—Especially at Holiday Gatherings

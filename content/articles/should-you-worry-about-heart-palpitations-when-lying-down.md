@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: heart palpitations while lying down over 50
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-frequent-urination-at-night-could-signal-heart-problems

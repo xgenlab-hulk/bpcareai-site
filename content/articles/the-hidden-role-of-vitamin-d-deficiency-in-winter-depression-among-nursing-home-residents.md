@@ -1,14 +1,27 @@
 ---
-title: "The Hidden Role of Vitamin D Deficiency in Winter Depression Among Nursing Home Residents"
-slug: "the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents"
-description: "Focus on institutionalized seniors with limited sun exposure and how supplementation may improve mood outcomes."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["vitamin d deficiency in nursing homes", "seasonal depression in older adults", "diet-nutrition"]
-primaryKeyword: "vitamin d deficiency in nursing homes"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["how-vitamin-d-deficiency-impacts-heart-health-in-winter", "can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors", "can-vitamin-d-deficiency-make-diabetes-worse-in-seniors", "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease", "how-winter-depression-affects-heart-health-in-retired-adults"]
+title: >-
+  The Hidden Role of Vitamin D Deficiency in Winter Depression Among Nursing
+  Home Residents
+slug: >-
+  the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
+description: >-
+  Focus on institutionalized seniors with limited sun exposure and how
+  supplementation may improve mood outcomes.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - vitamin d deficiency in nursing homes
+  - seasonal depression in older adults
+  - diet-nutrition
+primaryKeyword: vitamin d deficiency in nursing homes
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
+  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - how-winter-depression-affects-heart-health-in-retired-adults
 ---
 
 # Understanding Vitamin D Deficiency in Nursing Homes and Its Link to Winter Mood Changes

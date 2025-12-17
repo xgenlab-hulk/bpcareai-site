@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-risk-factors
 primaryKeyword: chronic inflammation and type 2 diabetes over 50
-topicCluster: diabetes-risk-factors
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - how-type-2-diabetes-increases-heart-disease-risk-after-50

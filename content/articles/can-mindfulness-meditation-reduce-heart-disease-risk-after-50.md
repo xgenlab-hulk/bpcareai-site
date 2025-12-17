@@ -1,14 +1,24 @@
 ---
-title: "Can Mindfulness Meditation Reduce Heart Disease Risk After 50?"
-slug: "can-mindfulness-meditation-reduce-heart-disease-risk-after-50"
-description: "See how regular mindfulness practice helps lower stress-related heart strain and improves outcomes."
-date: "2025-12-01"
-updated: "2025-12-01"
-tags: ["mindfulness meditation and heart disease prevention", "heart health", "hypertension-lifestyle"]
-primaryKeyword: "mindfulness meditation and heart disease prevention"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["can-meditation-reduce-heart-disease-risk-after-50", "can-strength-training-lower-heart-disease-risk-after-60", "does-laughter-really-protect-your-heart-after-50", "can-deep-breathing-exercises-lower-heart-disease-risk", "can-meditation-lower-blood-pressure-naturally"]
+title: Can Mindfulness Meditation Reduce Heart Disease Risk After 50?
+slug: can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+description: >-
+  See how regular mindfulness practice helps lower stress-related heart strain
+  and improves outcomes.
+date: '2025-12-01'
+updated: '2025-12-01'
+tags:
+  - mindfulness meditation and heart disease prevention
+  - heart health
+  - hypertension-lifestyle
+primaryKeyword: mindfulness meditation and heart disease prevention
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - can-strength-training-lower-heart-disease-risk-after-60
+  - does-laughter-really-protect-your-heart-after-50
+  - can-deep-breathing-exercises-lower-heart-disease-risk
+  - can-meditation-lower-blood-pressure-naturally
 ---
 
 # Can Mindfulness Meditation and Heart Disease Prevention Work Together After 50?

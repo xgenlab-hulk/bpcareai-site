@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - cardiovascular-risk
 primaryKeyword: sleep apnea and high blood pressure connection
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50

@@ -1,14 +1,24 @@
 ---
-title: "How Daily Fruit Intake Lowers Heart Disease Risk in Seniors"
-slug: "how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors"
-description: "Explore the role of whole fruits in reducing heart disease risk and supporting healthy aging for people over 60."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["fruit consumption and heart disease prevention seniors", "heart health", "heart-health"]
-primaryKeyword: "fruit consumption and heart disease prevention seniors"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["best-fruits-for-diabetics-over-50-and-which-to-limit", "can-meditation-reduce-heart-disease-risk-after-50", "the-hidden-link-between-gum-disease-and-heart-problems", "is-sitting-too-much-harming-your-heart-after-60", "top-10-diabetes-friendly-snacks-for-people-over-60"]
+title: How Daily Fruit Intake Lowers Heart Disease Risk in Seniors
+slug: how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
+description: >-
+  Explore the role of whole fruits in reducing heart disease risk and supporting
+  healthy aging for people over 60.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - fruit consumption and heart disease prevention seniors
+  - heart health
+  - heart-health
+primaryKeyword: fruit consumption and heart disease prevention seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - best-fruits-for-diabetics-over-50-and-which-to-limit
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - is-sitting-too-much-harming-your-heart-after-60
+  - top-10-diabetes-friendly-snacks-for-people-over-60
 ---
 
 # How Daily Fruit Intake Supports Heart Health and Lowers Disease Risk in Seniors

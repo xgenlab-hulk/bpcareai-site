@@ -1,14 +1,24 @@
 ---
-title: "Is It Safe to Drink Wine During the Holidays If You’ve Had Heart Issues?"
-slug: "is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues"
-description: "Help readers assess personal risk and make informed decisions about moderate alcohol use after cardiac events or diagnoses."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["wine after heart issues holiday", "holiday heart syndrome prevention", "decision-guidance"]
-primaryKeyword: "wine after heart issues holiday"
-topicCluster: "decision-guidance"
-image: ""
-relatedSlugs: ["how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "the-truth-about-alcohol-and-heart-health-after-55", "best-non-alcoholic-holiday-drinks-for-heart-health-after-50", "the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50", "when-to-worry-about-weight-gain-after-a-family-gathering"]
+title: Is It Safe to Drink Wine During the Holidays If You’ve Had Heart Issues?
+slug: is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
+description: >-
+  Help readers assess personal risk and make informed decisions about moderate
+  alcohol use after cardiac events or diagnoses.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - wine after heart issues holiday
+  - holiday heart syndrome prevention
+  - decision-guidance
+primaryKeyword: wine after heart issues holiday
+topicCluster: education-awareness
+image: ''
+relatedSlugs:
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - the-truth-about-alcohol-and-heart-health-after-55
+  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
+  - when-to-worry-about-weight-gain-after-a-family-gathering
 ---
 
 # Is It Safe to Enjoy Wine During the Holidays After Heart Issues? A Practical Guide to *Wine After Heart Issues Holiday* Decisions

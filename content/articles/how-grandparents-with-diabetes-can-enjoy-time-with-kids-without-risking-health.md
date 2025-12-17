@@ -1,14 +1,25 @@
 ---
-title: "How Grandparents with Diabetes Can Enjoy Time with Kids Without Risking Health"
-slug: "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health"
-description: "Practical guidance for senior family members to participate fully in holiday traditions while staying safe."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["grandparents diabetes holiday safety", "holiday diabetes management", "family-role-health-balance"]
-primaryKeyword: "grandparents diabetes holiday safety"
-topicCluster: "family-role-health-balance"
-image: ""
-relatedSlugs: ["how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "managing-diabetes-while-traveling-tips-for-seniors", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes"]
+title: How Grandparents with Diabetes Can Enjoy Time with Kids Without Risking Health
+slug: how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+description: >-
+  Practical guidance for senior family members to participate fully in holiday
+  traditions while staying safe.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - grandparents diabetes holiday safety
+  - holiday diabetes management
+  - family-role-health-balance
+primaryKeyword: grandparents diabetes holiday safety
+topicCluster: social-environmental
+image: ''
+relatedSlugs:
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
 ---
 
 # Keeping Joy & Health in Balance: Grandparents Diabetes Holiday Safety Made Simple

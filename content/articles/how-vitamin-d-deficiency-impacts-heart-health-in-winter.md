@@ -1,14 +1,24 @@
 ---
-title: "How Vitamin D Deficiency Impacts Heart Health in Winter"
-slug: "how-vitamin-d-deficiency-impacts-heart-health-in-winter"
-description: "Find out how seasonal vitamin D drops may increase cardiovascular risks in older adults."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["vitamin d deficiency and heart health winter seniors", "heart health", "heart-health"]
-primaryKeyword: "vitamin d deficiency and heart health winter seniors"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["can-vitamin-d-deficiency-increase-your-risk-of-heart-disease", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "how-social-isolation-impacts-heart-disease-risk-in-older-adults", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "is-your-posture-affecting-your-heart-what-older-adults-should-know"]
+title: How Vitamin D Deficiency Impacts Heart Health in Winter
+slug: how-vitamin-d-deficiency-impacts-heart-health-in-winter
+description: >-
+  Find out how seasonal vitamin D drops may increase cardiovascular risks in
+  older adults.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - vitamin d deficiency and heart health winter seniors
+  - heart health
+  - heart-health
+primaryKeyword: vitamin d deficiency and heart health winter seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - is-your-posture-affecting-your-heart-what-older-adults-should-know
 ---
 
 # How Vitamin D Deficiency Affects Heart Health in Winter: What Seniors Need to Know

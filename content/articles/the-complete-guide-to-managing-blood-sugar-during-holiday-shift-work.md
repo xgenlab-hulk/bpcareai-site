@@ -1,14 +1,24 @@
 ---
-title: "The Complete Guide to Managing Blood Sugar During Holiday Shift Work"
-slug: "the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work"
-description: "Tailored advice for older adults with diabetes who work retail, healthcare, or service jobs during peak holiday seasons."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["managing blood sugar during holiday shift work", "managing blood sugar during Christmas and New Year", "lifestyle-modifications"]
-primaryKeyword: "managing blood sugar during holiday shift work"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes", "best-blood-sugar-monitoring-practices-during-the-holiday-season", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes"]
+title: The Complete Guide to Managing Blood Sugar During Holiday Shift Work
+slug: the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+description: >-
+  Tailored advice for older adults with diabetes who work retail, healthcare, or
+  service jobs during peak holiday seasons.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - managing blood sugar during holiday shift work
+  - managing blood sugar during Christmas and New Year
+  - lifestyle-modifications
+primaryKeyword: managing blood sugar during holiday shift work
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
 ---
 
 # A Practical Guide to Managing Blood Sugar During Holiday Shift Work for Older Adults

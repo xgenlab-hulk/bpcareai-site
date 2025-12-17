@@ -1,14 +1,24 @@
 ---
-title: "Top 10 Diabetes-Friendly Snacks for People Over 60"
-slug: "top-10-diabetes-friendly-snacks-for-people-over-60"
-description: "Enjoy nutritious, satisfying snacks that help stabilize blood sugar and curb cravings."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["healthy diabetic snacks for seniors", "diabetes", "diabetes-nutrition"]
-primaryKeyword: "healthy diabetic snacks for seniors"
-topicCluster: "diabetes-nutrition"
-image: ""
-relatedSlugs: ["healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "best-fruits-for-diabetics-over-50-and-which-to-limit"]
+title: Top 10 Diabetes-Friendly Snacks for People Over 60
+slug: top-10-diabetes-friendly-snacks-for-people-over-60
+description: >-
+  Enjoy nutritious, satisfying snacks that help stabilize blood sugar and curb
+  cravings.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - healthy diabetic snacks for seniors
+  - diabetes
+  - diabetes-nutrition
+primaryKeyword: healthy diabetic snacks for seniors
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - best-fruits-for-diabetics-over-50-and-which-to-limit
 ---
 
 # Top 10 Healthy Diabetic Snacks for Seniors to Enjoy Every Day

@@ -1,14 +1,24 @@
 ---
-title: "Best Blood Sugar Monitoring Practices During the Holiday Season"
-slug: "best-blood-sugar-monitoring-practices-during-the-holiday-season"
-description: "Optimize diabetes self-care with tailored testing routines for festive weeks when routines are disrupted."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["holiday blood sugar monitoring tips", "holiday diabetes management", "monitoring-testing-routines"]
-primaryKeyword: "holiday blood sugar monitoring tips"
-topicCluster: "monitoring-testing-routines"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"]
+title: Best Blood Sugar Monitoring Practices During the Holiday Season
+slug: best-blood-sugar-monitoring-practices-during-the-holiday-season
+description: >-
+  Optimize diabetes self-care with tailored testing routines for festive weeks
+  when routines are disrupted.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - holiday blood sugar monitoring tips
+  - holiday diabetes management
+  - monitoring-testing-routines
+primaryKeyword: holiday blood sugar monitoring tips
+topicCluster: health-monitoring
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # Effective Holiday Blood Sugar Monitoring Tips for Better Diabetes Control

@@ -1,14 +1,24 @@
 ---
-title: "Natural Ways to Manage Seasonal Depression in Seniors Without Medication"
-slug: "natural-ways-to-manage-seasonal-depression-in-seniors-without-medication"
-description: "Present evidence-backed non-pharmaceutical strategies like routine adjustment, diet, and mindfulness for mild cases."
-date: "2025-12-12"
-updated: "2025-12-12"
-tags: ["natural remedies for seasonal depression", "seasonal depression in older adults", "natural-remedies"]
-primaryKeyword: "natural remedies for seasonal depression"
-topicCluster: "natural-remedies"
-image: ""
-relatedSlugs: ["best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70", "natural-ways-to-lower-blood-pressure-this-winter-without-medication", "7-common-mistakes-that-make-seasonal-depression-worse-in-seniors", "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65", "can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors"]
+title: Natural Ways to Manage Seasonal Depression in Seniors Without Medication
+slug: natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+description: >-
+  Present evidence-backed non-pharmaceutical strategies like routine adjustment,
+  diet, and mindfulness for mild cases.
+date: '2025-12-12'
+updated: '2025-12-12'
+tags:
+  - natural remedies for seasonal depression
+  - seasonal depression in older adults
+  - natural-remedies
+primaryKeyword: natural remedies for seasonal depression
+topicCluster: treatment-interventions
+image: ''
+relatedSlugs:
+  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+  - natural-ways-to-lower-blood-pressure-this-winter-without-medication
+  - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
+  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
+  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
 ---
 
 # Gentle, Evidence-Backed Natural Remedies for Seasonal Depression in Older Adults

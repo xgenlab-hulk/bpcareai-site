@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-nutrition
 primaryKeyword: artificial sweeteners and insulin response in elderly diabetics
-topicCluster: diabetes-nutrition
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

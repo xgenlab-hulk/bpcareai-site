@@ -1,14 +1,24 @@
 ---
-title: "Blood Pressure and Kidney Health: What Seniors Need to Know"
-slug: "blood-pressure-and-kidney-health-what-seniors-need-to-know"
-description: "Learn how high blood pressure damages kidneys over time and the importance of early detection."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["blood pressure and kidney disease in older adults", "blood pressure", "cardiovascular-risk"]
-primaryKeyword: "blood pressure and kidney disease in older adults"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["heart-disease-and-chronic-kidney-disease-the-dangerous-connection", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "diabetes-and-vision-changes-what-seniors-need-to-know", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "could-your-medications-be-raising-your-blood-pressure"]
+title: 'Blood Pressure and Kidney Health: What Seniors Need to Know'
+slug: blood-pressure-and-kidney-health-what-seniors-need-to-know
+description: >-
+  Learn how high blood pressure damages kidneys over time and the importance of
+  early detection.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - blood pressure and kidney disease in older adults
+  - blood pressure
+  - cardiovascular-risk
+primaryKeyword: blood pressure and kidney disease in older adults
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - diabetes-and-vision-changes-what-seniors-need-to-know
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - could-your-medications-be-raising-your-blood-pressure
 ---
 
 # Blood Pressure and Kidney Disease in Older Adults: A Vital Connection to Understand

@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - inclusive-dining
 primaryKeyword: allergen-friendly family gatherings
-topicCluster: inclusive-dining
+topicCluster: social-environmental
 image: ''
 relatedSlugs:
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar

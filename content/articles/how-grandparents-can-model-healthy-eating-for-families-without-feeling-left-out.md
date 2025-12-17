@@ -1,14 +1,28 @@
 ---
-title: "How Grandparents Can Model Healthy Eating for Families Without Feeling Left Out"
-slug: "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out"
-description: "Offer practical strategies for older adults with diabetes to enjoy holiday meals while setting a positive example for younger generations."
-date: "2025-12-01"
-updated: "2025-12-01"
-tags: ["diabetic grandparents holiday eating", "managing blood sugar during Christmas and New Year", "family-dynamics-nutrition"]
-primaryKeyword: "diabetic grandparents holiday eating"
-topicCluster: "family-dynamics-nutrition"
-image: ""
-relatedSlugs: ["5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"]
+title: >-
+  How Grandparents Can Model Healthy Eating for Families Without Feeling Left
+  Out
+slug: >-
+  how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+description: >-
+  Offer practical strategies for older adults with diabetes to enjoy holiday
+  meals while setting a positive example for younger generations.
+date: '2025-12-01'
+updated: '2025-12-01'
+tags:
+  - diabetic grandparents holiday eating
+  - managing blood sugar during Christmas and New Year
+  - family-dynamics-nutrition
+primaryKeyword: diabetic grandparents holiday eating
+topicCluster: social-environmental
+image: ''
+relatedSlugs:
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # How Diabetic Grandparents Can Enjoy Holiday Eating While Modeling Healthy Habits

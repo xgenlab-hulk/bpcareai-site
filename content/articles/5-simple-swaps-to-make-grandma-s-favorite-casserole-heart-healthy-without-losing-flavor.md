@@ -1,14 +1,29 @@
 ---
-title: "5 Simple Swaps to Make Grandma’s Favorite Casserole Heart-Healthy Without Losing Flavor"
-slug: "5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor"
-description: "Step-by-step, recipe-level modifications for classic multigenerational dishes—using whole-food substitutions, sodium reduction, and potassium-boosting ingredients—designed for caregivers and adults aged 60+ managing hypertension or heart failure."
-date: "2025-12-17"
-updated: "2025-12-17"
-tags: ["heart-healthy casserole swaps seniors", "healthy eating during family gatherings", "cardiac-diet-cooking"]
-primaryKeyword: "heart-healthy casserole swaps seniors"
-topicCluster: "cardiac-diet-cooking"
-image: ""
-relatedSlugs: ["7-smart-swaps-for-healthier-holiday-meals-after-65", "10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50", "10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure"]
+title: >-
+  5 Simple Swaps to Make Grandma’s Favorite Casserole Heart-Healthy Without
+  Losing Flavor
+slug: >-
+  5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
+description: >-
+  Step-by-step, recipe-level modifications for classic multigenerational
+  dishes—using whole-food substitutions, sodium reduction, and
+  potassium-boosting ingredients—designed for caregivers and adults aged 60+
+  managing hypertension or heart failure.
+date: '2025-12-17'
+updated: '2025-12-17'
+tags:
+  - heart-healthy casserole swaps seniors
+  - healthy eating during family gatherings
+  - cardiac-diet-cooking
+primaryKeyword: heart-healthy casserole swaps seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
+  - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
 ---
 
 # 5 Heart-Healthy Casserole Swaps Seniors Can Make—Without Sacrificing Comfort or Flavor

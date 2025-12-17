@@ -1,14 +1,24 @@
 ---
-title: "12-Minute Breathing Protocol to Lower Systolic BP: A Science-Backed Technique for Anxiety-Prone Adults"
-slug: "12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults"
-description: "Details the 4-7-8-2 method validated in JAMA Internal Medicine (2023) for reducing sympathetic tone, with audio-guided cues, posture diagrams, and BP-tracking benchmarks for ages 55–80."
-date: "2025-12-17"
-updated: "2025-12-17"
-tags: ["breathing technique lower systolic bp", "blood pressure", "natural-remedies-breathing"]
-primaryKeyword: "breathing technique lower systolic bp"
-topicCluster: "natural-remedies-breathing"
-image: ""
-relatedSlugs: ["can-deep-breathing-exercises-reduce-high-blood-pressure"]
+title: >-
+  12-Minute Breathing Protocol to Lower Systolic BP: A Science-Backed Technique
+  for Anxiety-Prone Adults
+slug: >-
+  12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
+description: >-
+  Details the 4-7-8-2 method validated in JAMA Internal Medicine (2023) for
+  reducing sympathetic tone, with audio-guided cues, posture diagrams, and
+  BP-tracking benchmarks for ages 55–80.
+date: '2025-12-17'
+updated: '2025-12-17'
+tags:
+  - breathing technique lower systolic bp
+  - blood pressure
+  - natural-remedies-breathing
+primaryKeyword: breathing technique lower systolic bp
+topicCluster: treatment-interventions
+image: ''
+relatedSlugs:
+  - can-deep-breathing-exercises-reduce-high-blood-pressure
 ---
 
 # A Gentle 12-Minute Breathing Technique to Lower Systolic BP—Backed by Science and Designed for Adults 55–80

@@ -1,14 +1,24 @@
 ---
-title: "Can Vitamin B12 Deficiency Worsen Seasonal Depression in Seniors?"
-slug: "can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors"
-description: "Investigate the link between low B12 levels and mood regulation in aging adults, especially during darker months."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["vitamin b12 and seasonal depression", "seasonal depression in older adults", "nutrient-deficiencies"]
-primaryKeyword: "vitamin b12 and seasonal depression"
-topicCluster: "nutrient-deficiencies"
-image: ""
-relatedSlugs: ["how-vitamin-d-deficiency-impacts-heart-health-in-winter", "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults", "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65", "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know"]
+title: Can Vitamin B12 Deficiency Worsen Seasonal Depression in Seniors?
+slug: can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
+description: >-
+  Investigate the link between low B12 levels and mood regulation in aging
+  adults, especially during darker months.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - vitamin b12 and seasonal depression
+  - seasonal depression in older adults
+  - nutrient-deficiencies
+primaryKeyword: vitamin b12 and seasonal depression
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
+  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
+  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
 ---
 
 # Could Low Vitamin B12 Be Making Seasonal Depression Harder to Manage in Older Adults?

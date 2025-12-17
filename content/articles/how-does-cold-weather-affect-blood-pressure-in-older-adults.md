@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - cardiovascular-risk
 primaryKeyword: cold weather effect on blood pressure elderly
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - why-winter-increases-heart-attack-risk-in-seniors-over-70

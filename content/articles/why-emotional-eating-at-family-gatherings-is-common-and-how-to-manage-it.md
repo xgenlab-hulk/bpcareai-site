@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - mental-health-nutrition
 primaryKeyword: emotional eating at family events
-topicCluster: mental-health-nutrition
+topicCluster: nutrition-diet
 image: ''
 relatedSlugs:
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners

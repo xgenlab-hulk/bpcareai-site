@@ -1,14 +1,25 @@
 ---
-title: "The Impact of Late-Night Snacking on Blood Sugar During the Holidays"
-slug: "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays"
-description: "Analyzes how nighttime eating during festive events disrupts glucose metabolism, especially in older adults with insulin resistance."
-date: "2025-12-07"
-updated: "2025-12-07"
-tags: ["late-night snacking blood sugar", "managing blood sugar during Christmas and New Year", "diet-nutrition"]
-primaryKeyword: "late-night snacking blood sugar"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays", "why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes"]
+title: The Impact of Late-Night Snacking on Blood Sugar During the Holidays
+slug: the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+description: >-
+  Analyzes how nighttime eating during festive events disrupts glucose
+  metabolism, especially in older adults with insulin resistance.
+date: '2025-12-07'
+updated: '2025-12-07'
+tags:
+  - late-night snacking blood sugar
+  - managing blood sugar during Christmas and New Year
+  - diet-nutrition
+primaryKeyword: late-night snacking blood sugar
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 
 # How Late-Night Snacking Affects Blood Sugar—Especially During the Holidays

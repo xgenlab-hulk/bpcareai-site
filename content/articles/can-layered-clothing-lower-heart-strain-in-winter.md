@@ -11,7 +11,7 @@ tags:
   - winter heart health for seniors
   - lifestyle-modifications
 primaryKeyword: layered clothing heart health
-topicCluster: lifestyle-modifications
+topicCluster: lifestyle-changes
 image: ''
 relatedSlugs:
   - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates

@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - practical-diet-hacks
 primaryKeyword: healthier store-bought party food
-topicCluster: practical-diet-hacks
+topicCluster: nutrition-diet
 image: ''
 relatedSlugs:
   - simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals

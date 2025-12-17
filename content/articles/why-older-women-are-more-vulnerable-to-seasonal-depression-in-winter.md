@@ -1,14 +1,24 @@
 ---
-title: "Why Older Women Are More Vulnerable to Seasonal Depression in Winter"
-slug: "why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter"
-description: "Examine hormonal, social, and biological factors that increase seasonal mood disorder risk in women over 60."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["seasonal depression in older women", "seasonal depression in older adults", "gender-specific-concerns"]
-primaryKeyword: "seasonal depression in older women"
-topicCluster: "gender-specific-concerns"
-image: ""
-relatedSlugs: ["the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees", "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults", "how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60", "the-link-between-winter-depression-and-high-blood-pressure-in-older-adults", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know"]
+title: Why Older Women Are More Vulnerable to Seasonal Depression in Winter
+slug: why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
+description: >-
+  Examine hormonal, social, and biological factors that increase seasonal mood
+  disorder risk in women over 60.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - seasonal depression in older women
+  - seasonal depression in older adults
+  - gender-specific-concerns
+primaryKeyword: seasonal depression in older women
+topicCluster: age-gender-specific
+image: ''
+relatedSlugs:
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
+  - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
+  - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
 ---
 
 # Why Seasonal Depression in Older Women Requires Special Attention

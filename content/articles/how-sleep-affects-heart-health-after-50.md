@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: sleep and heart health after 50
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50

@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: magnesium benefits for heart health over 50
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - can-gardening-improve-heart-health-after-50

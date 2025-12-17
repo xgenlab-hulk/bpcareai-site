@@ -1,14 +1,25 @@
 ---
-title: "The Link Between Winter Depression and High Blood Pressure in Older Adults"
-slug: "the-link-between-winter-depression-and-high-blood-pressure-in-older-adults"
-description: "Discusses how seasonal affective disorder and reduced sunlight in winter may contribute to elevated blood pressure in seniors."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["winter depression and hypertension", "senior blood pressure control in winter", "emotional-mental-health"]
-primaryKeyword: "winter depression and hypertension"
-topicCluster: "emotional-mental-health"
-image: ""
-relatedSlugs: ["winter-vs-summer-blood-pressure-what-seniors-need-to-know", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "how-winter-depression-affects-heart-health-in-retired-adults", "can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors", "how-does-cold-weather-affect-blood-pressure-in-older-adults"]
+title: The Link Between Winter Depression and High Blood Pressure in Older Adults
+slug: the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
+description: >-
+  Discusses how seasonal affective disorder and reduced sunlight in winter may
+  contribute to elevated blood pressure in seniors.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - winter depression and hypertension
+  - senior blood pressure control in winter
+  - emotional-mental-health
+primaryKeyword: winter depression and hypertension
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - how-winter-depression-affects-heart-health-in-retired-adults
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
 ---
 
 # How Winter Depression and Hypertension Are Connected in Older Adults

@@ -1,14 +1,25 @@
 ---
-title: "Can Napping After Meals Lower Blood Sugar During Holiday Feasts?"
-slug: "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts"
-description: "Investigate whether post-meal naps impact glucose metabolism in older adults and how timing affects insulin sensitivity during the holidays."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["napping after meals blood sugar", "managing blood sugar during Christmas and New Year", "postprandial-glucose-habits"]
-primaryKeyword: "napping after meals blood sugar"
-topicCluster: "postprandial-glucose-habits"
-image: ""
-relatedSlugs: ["can-walking-after-meals-lower-blood-sugar-in-older-adults", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity"]
+title: Can Napping After Meals Lower Blood Sugar During Holiday Feasts?
+slug: can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+description: >-
+  Investigate whether post-meal naps impact glucose metabolism in older adults
+  and how timing affects insulin sensitivity during the holidays.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - napping after meals blood sugar
+  - managing blood sugar during Christmas and New Year
+  - postprandial-glucose-habits
+primaryKeyword: napping after meals blood sugar
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # Can Napping After Meals Help Manage Blood Sugar? The Science Behind Post-Meal Rest

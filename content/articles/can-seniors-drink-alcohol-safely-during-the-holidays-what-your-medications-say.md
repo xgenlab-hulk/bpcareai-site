@@ -1,14 +1,28 @@
 ---
-title: "Can Seniors Drink Alcohol Safely During the Holidays? What Your Medications Say"
-slug: "can-seniors-drink-alcohol-safely-during-the-holidays-what-your-medications-say"
-description: "An in-depth look at how alcohol interacts with common senior medications during holiday celebrations and when it's safest to skip the toast."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["alcohol and medications for seniors holidays", "healthy holiday eating for seniors", "medications-supplements"]
-primaryKeyword: "alcohol and medications for seniors holidays"
-topicCluster: "medications-supplements"
-image: ""
-relatedSlugs: ["the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50", "does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes", "what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays", "is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health"]
+title: >-
+  Can Seniors Drink Alcohol Safely During the Holidays? What Your Medications
+  Say
+slug: can-seniors-drink-alcohol-safely-during-the-holidays-what-your-medications-say
+description: >-
+  An in-depth look at how alcohol interacts with common senior medications
+  during holiday celebrations and when it's safest to skip the toast.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - alcohol and medications for seniors holidays
+  - healthy holiday eating for seniors
+  - medications-supplements
+primaryKeyword: alcohol and medications for seniors holidays
+topicCluster: medications-supplements
+image: ''
+relatedSlugs:
+  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
+  - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
+  - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+  - is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
 ---
 
 # Navigating Alcohol and Medications for Seniors During the Holidays: A Practical Guide

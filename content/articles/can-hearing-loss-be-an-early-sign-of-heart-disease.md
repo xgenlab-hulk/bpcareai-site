@@ -11,7 +11,7 @@ tags:
   - heart disease
   - heart-health
 primaryKeyword: hearing loss as early sign of heart disease
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - is-your-posture-affecting-your-heart-what-older-adults-should-know

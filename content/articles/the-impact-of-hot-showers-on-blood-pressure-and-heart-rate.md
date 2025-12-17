@@ -1,14 +1,25 @@
 ---
-title: "The Impact of Hot Showers on Blood Pressure and Heart Rate"
-slug: "the-impact-of-hot-showers-on-blood-pressure-and-heart-rate"
-description: "Find out how hot water affects circulation and whether it poses risks for those with heart concerns."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["hot showers and blood pressure effects elderly", "heart health", "heart-health"]
-primaryKeyword: "hot showers and blood pressure effects elderly"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors", "the-hidden-dangers-of-indoor-heating-on-blood-pressure", "can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors", "how-does-cold-weather-affect-blood-pressure-in-older-adults", "how-morning-blood-pressure-spikes-affect-your-heart"]
+title: The Impact of Hot Showers on Blood Pressure and Heart Rate
+slug: the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
+description: >-
+  Find out how hot water affects circulation and whether it poses risks for
+  those with heart concerns.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - hot showers and blood pressure effects elderly
+  - heart health
+  - heart-health
+primaryKeyword: hot showers and blood pressure effects elderly
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - how-morning-blood-pressure-spikes-affect-your-heart
 ---
 
 # How Hot Showers Affect Blood Pressure and Heart Rate in Older Adults  

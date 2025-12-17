@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: checking pulse frequency for seniors heart health
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-often-should-adults-over-50-check-their-blood-pressure

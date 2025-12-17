@@ -1,14 +1,24 @@
 ---
-title: "How Dehydration Affects Heart Function in Older Adults"
-slug: "how-dehydration-affects-heart-function-in-older-adults"
-description: "Learn how insufficient fluid intake can strain the heart and mimic or worsen heart disease symptoms."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["dehydration and heart function in seniors", "heart disease", "heart-health"]
-primaryKeyword: "dehydration and heart function in seniors"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["how-dehydration-impacts-blood-pressure-levels", "how-dehydration-affects-blood-sugar-readings-in-older-diabetics", "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties", "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70", "how-social-isolation-impacts-heart-disease-risk-in-older-adults"]
+title: How Dehydration Affects Heart Function in Older Adults
+slug: how-dehydration-affects-heart-function-in-older-adults
+description: >-
+  Learn how insufficient fluid intake can strain the heart and mimic or worsen
+  heart disease symptoms.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - dehydration and heart function in seniors
+  - heart disease
+  - heart-health
+primaryKeyword: dehydration and heart function in seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - how-dehydration-impacts-blood-pressure-levels
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
 ---
 
 # How Dehydration Impacts Heart Function in Older Adults: A Gentle Guide to Staying Hydrated and Heart-Healthy

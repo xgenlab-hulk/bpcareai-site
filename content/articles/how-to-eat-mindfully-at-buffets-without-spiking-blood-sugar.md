@@ -11,7 +11,7 @@ tags:
   - managing blood sugar during Christmas and New Year
   - behavioral-strategies
 primaryKeyword: mindful eating at holiday buffets
-topicCluster: behavioral-strategies
+topicCluster: lifestyle-changes
 image: ''
 relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

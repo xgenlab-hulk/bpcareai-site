@@ -11,7 +11,7 @@ tags:
   - heart disease
   - heart-health
 primaryKeyword: silent heart attack symptoms in elderly
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - recognizing-silent-heart-attacks-in-diabetics-over-60

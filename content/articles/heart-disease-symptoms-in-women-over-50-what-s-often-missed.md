@@ -11,7 +11,7 @@ tags:
   - heart disease
   - heart-health
 primaryKeyword: heart disease symptoms in women over 50
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - recognizing-silent-heart-attacks-in-diabetics-over-60

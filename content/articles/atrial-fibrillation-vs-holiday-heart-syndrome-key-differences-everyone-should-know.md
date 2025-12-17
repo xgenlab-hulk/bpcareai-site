@@ -1,14 +1,26 @@
 ---
-title: "Atrial Fibrillation vs Holiday Heart Syndrome: Key Differences Everyone Should Know"
-slug: "atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know"
-description: "Compare and contrast true AFib with alcohol-induced transient arrhythmias to help readers understand diagnosis and prognosis."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["AFib vs holiday heart syndrome", "holiday heart syndrome prevention", "comparison-analysis"]
-primaryKeyword: "AFib vs holiday heart syndrome"
-topicCluster: "comparison-analysis"
-image: ""
-relatedSlugs: ["the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults", "what-research-says-about-holiday-heart-syndrome-and-aging-hearts"]
+title: >-
+  Atrial Fibrillation vs Holiday Heart Syndrome: Key Differences Everyone Should
+  Know
+slug: >-
+  atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
+description: >-
+  Compare and contrast true AFib with alcohol-induced transient arrhythmias to
+  help readers understand diagnosis and prognosis.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - AFib vs holiday heart syndrome
+  - holiday heart syndrome prevention
+  - comparison-analysis
+primaryKeyword: AFib vs holiday heart syndrome
+topicCluster: evidence-research
+image: ''
+relatedSlugs:
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
 ---
 
 # Understanding AFib vs Holiday Heart Syndrome: What’s Really Going On With Your Heart?

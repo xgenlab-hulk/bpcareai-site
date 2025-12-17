@@ -1,14 +1,24 @@
 ---
-title: "The Truth About 'Benign' Holiday Palpitations: Are They Really Harmless?"
-slug: "the-truth-about-benign-holiday-palpitations-are-they-really-harmless"
-description: "Debunk myths surrounding temporary arrhythmias after drinking, emphasizing potential long-term implications if ignored."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["benign holiday palpitations truth", "holiday heart syndrome prevention", "myths-vs-facts"]
-primaryKeyword: "benign holiday palpitations truth"
-topicCluster: "myths-vs-facts"
-image: ""
-relatedSlugs: ["how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "when-to-worry-about-palpitations-after-christmas-dinner", "can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes", "is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues", "quick-ways-to-calm-a-racing-heart-during-a-holiday-event"]
+title: 'The Truth About ''Benign'' Holiday Palpitations: Are They Really Harmless?'
+slug: the-truth-about-benign-holiday-palpitations-are-they-really-harmless
+description: >-
+  Debunk myths surrounding temporary arrhythmias after drinking, emphasizing
+  potential long-term implications if ignored.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - benign holiday palpitations truth
+  - holiday heart syndrome prevention
+  - myths-vs-facts
+primaryKeyword: benign holiday palpitations truth
+topicCluster: education-awareness
+image: ''
+relatedSlugs:
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - when-to-worry-about-palpitations-after-christmas-dinner
+  - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
+  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
+  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 ---
 
 # The Real Story Behind “Benign” Holiday Palpitations: What the Evidence Says

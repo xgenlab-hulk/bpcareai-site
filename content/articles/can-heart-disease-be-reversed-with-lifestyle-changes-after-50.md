@@ -1,14 +1,24 @@
 ---
-title: "Can Heart Disease Be Reversed with Lifestyle Changes After 50?"
-slug: "can-heart-disease-be-reversed-with-lifestyle-changes-after-50"
-description: "Explore whether adopting healthier habits later in life can slow or reverse the progression of heart disease in adults over 50."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["reversing heart disease after 50", "heart disease", "heart-health"]
-primaryKeyword: "reversing heart disease after 50"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["can-prediabetes-be-reversed-after-age-50", "how-sleep-affects-heart-health-after-50", "can-meditation-reduce-heart-disease-risk-after-50", "is-sitting-too-much-harming-your-heart-after-60", "can-gardening-improve-heart-health-after-50"]
+title: Can Heart Disease Be Reversed with Lifestyle Changes After 50?
+slug: can-heart-disease-be-reversed-with-lifestyle-changes-after-50
+description: >-
+  Explore whether adopting healthier habits later in life can slow or reverse
+  the progression of heart disease in adults over 50.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - reversing heart disease after 50
+  - heart disease
+  - heart-health
+primaryKeyword: reversing heart disease after 50
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - can-prediabetes-be-reversed-after-age-50
+  - how-sleep-affects-heart-health-after-50
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - is-sitting-too-much-harming-your-heart-after-60
+  - can-gardening-improve-heart-health-after-50
 ---
 
 # Can Heart Disease Be Reversed After 50? What the Evidence Says About Reversing Heart Disease After 50

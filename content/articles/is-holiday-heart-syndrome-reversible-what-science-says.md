@@ -1,14 +1,25 @@
 ---
-title: "Is Holiday Heart Syndrome Reversible? What Science Says"
-slug: "is-holiday-heart-syndrome-reversible-what-science-says"
-description: "Review current medical literature on whether transient arrhythmias from holiday triggers cause lasting damage or resolve completely."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["holiday heart syndrome reversible", "holiday heart syndrome prevention", "treatment-options"]
-primaryKeyword: "holiday heart syndrome reversible"
-topicCluster: "treatment-options"
-image: ""
-relatedSlugs: ["what-research-says-about-holiday-heart-syndrome-and-aging-hearts", "the-truth-about-benign-holiday-palpitations-are-they-really-harmless", "7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm"]
+title: Is Holiday Heart Syndrome Reversible? What Science Says
+slug: is-holiday-heart-syndrome-reversible-what-science-says
+description: >-
+  Review current medical literature on whether transient arrhythmias from
+  holiday triggers cause lasting damage or resolve completely.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - holiday heart syndrome reversible
+  - holiday heart syndrome prevention
+  - treatment-options
+primaryKeyword: holiday heart syndrome reversible
+topicCluster: medications-supplements
+image: ''
+relatedSlugs:
+  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
+  - the-truth-about-benign-holiday-palpitations-are-they-really-harmless
+  - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # Is Holiday Heart Syndrome Reversible? What the Evidence Shows

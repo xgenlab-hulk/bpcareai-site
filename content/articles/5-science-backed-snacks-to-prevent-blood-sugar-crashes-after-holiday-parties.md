@@ -6,7 +6,7 @@ date: "2025-12-07"
 updated: "2025-12-07"
 tags: ["snacks to prevent blood sugar crash", "managing blood sugar during Christmas and New Year", "post-party-recovery-nutrition"]
 primaryKeyword: "snacks to prevent blood sugar crash"
-topicCluster: "post-party-recovery-nutrition"
+topicCluster: diabetes-care
 image: ""
 relatedSlugs: ["quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "top-10-diabetes-friendly-snacks-for-people-over-60", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "12-smart-swaps-to-manage-blood-sugar-during-holiday-meals"]
 ---

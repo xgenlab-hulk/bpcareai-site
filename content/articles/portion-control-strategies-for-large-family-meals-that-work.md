@@ -1,14 +1,25 @@
 ---
-title: "Portion Control Strategies for Large Family Meals That Work"
-slug: "portion-control-strategies-for-large-family-meals-that-work"
-description: "Provides visual cues, plate division methods, and serving techniques to help older adults avoid overeating at shared dinners."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["portion control at family meals", "healthy eating during family gatherings", "eating-habits"]
-primaryKeyword: "portion control at family meals"
-topicCluster: "eating-habits"
-image: ""
-relatedSlugs: ["how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners", "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals", "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes"]
+title: Portion Control Strategies for Large Family Meals That Work
+slug: portion-control-strategies-for-large-family-meals-that-work
+description: >-
+  Provides visual cues, plate division methods, and serving techniques to help
+  older adults avoid overeating at shared dinners.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - portion control at family meals
+  - healthy eating during family gatherings
+  - eating-habits
+primaryKeyword: portion control at family meals
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
+  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---
 
 # Practical Portion Control at Family Meals for Older Adults

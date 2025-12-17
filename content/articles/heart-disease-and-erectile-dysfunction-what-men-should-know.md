@@ -11,7 +11,7 @@ tags:
   - heart disease
   - heart-health
 primaryKeyword: erectile dysfunction as sign of heart disease
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - heart-disease-warning-signs-that-appear-years-in-advance

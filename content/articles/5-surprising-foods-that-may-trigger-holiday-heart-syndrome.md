@@ -11,7 +11,7 @@ tags:
   - holiday heart syndrome prevention
   - diet-nutrition
 primaryKeyword: festive foods heart rhythm
-topicCluster: diet-nutrition
+topicCluster: nutrition-diet
 image: ''
 relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

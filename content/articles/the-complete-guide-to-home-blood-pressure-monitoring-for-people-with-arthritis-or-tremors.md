@@ -1,14 +1,26 @@
 ---
-title: "The Complete Guide to Home Blood Pressure Monitoring for People With Arthritis or Tremors"
-slug: "the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors"
-description: "Covers validated upper-arm and wrist devices, adaptive techniques, positioning hacks, and error-proof logging strategies tailored for seniors with limited dexterity or Parkinson’s-related tremors."
-date: "2025-12-16"
-updated: "2025-12-16"
-tags: ["home blood pressure monitoring arthritis", "blood pressure", "monitoring-accessibility"]
-primaryKeyword: "home blood pressure monitoring arthritis"
-topicCluster: "monitoring-accessibility"
-image: ""
-relatedSlugs: ["how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "the-best-indoor-exercises-for-blood-pressure-control-in-winter"]
+title: >-
+  The Complete Guide to Home Blood Pressure Monitoring for People With Arthritis
+  or Tremors
+slug: >-
+  the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
+description: >-
+  Covers validated upper-arm and wrist devices, adaptive techniques, positioning
+  hacks, and error-proof logging strategies tailored for seniors with limited
+  dexterity or Parkinson’s-related tremors.
+date: '2025-12-16'
+updated: '2025-12-16'
+tags:
+  - home blood pressure monitoring arthritis
+  - blood pressure
+  - monitoring-accessibility
+primaryKeyword: home blood pressure monitoring arthritis
+topicCluster: health-monitoring
+image: ''
+relatedSlugs:
+  - how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
 ---
 
 # Home Blood Pressure Monitoring for Arthritis and Tremors: A Gentle, Practical Guide

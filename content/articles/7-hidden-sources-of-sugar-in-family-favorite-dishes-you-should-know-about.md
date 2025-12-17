@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - diabetic-diet
 primaryKeyword: hidden sugar in family foods
-topicCluster: diabetic-diet
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

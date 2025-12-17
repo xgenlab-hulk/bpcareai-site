@@ -11,7 +11,7 @@ tags:
   - seasonal depression in older adults
   - emergency-symptoms
 primaryKeyword: when to worry about seasonal depression
-topicCluster: emergency-symptoms
+topicCluster: symptoms-emergencies
 image: ''
 relatedSlugs:
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults

@@ -1,14 +1,25 @@
 ---
-title: "Simple Steps to Avoid Overeating at Holiday Dinners with Diabetes"
-slug: "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes"
-description: "Behavioral techniques to help older adults prevent post-meal glucose spikes during high-risk festive meals."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["avoid overeating holiday diabetes", "holiday diabetes management", "behavioral-strategies-prevention"]
-primaryKeyword: "avoid overeating holiday diabetes"
-topicCluster: "behavioral-strategies-prevention"
-image: ""
-relatedSlugs: ["how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes", "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal"]
+title: Simple Steps to Avoid Overeating at Holiday Dinners with Diabetes
+slug: simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+description: >-
+  Behavioral techniques to help older adults prevent post-meal glucose spikes
+  during high-risk festive meals.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - avoid overeating holiday diabetes
+  - holiday diabetes management
+  - behavioral-strategies-prevention
+primaryKeyword: avoid overeating holiday diabetes
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 
 # Practical Ways to Avoid Overeating at Holiday Dinners with Diabetes

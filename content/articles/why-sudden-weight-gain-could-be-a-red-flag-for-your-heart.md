@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: sudden weight gain and heart failure warning signs
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-frequent-urination-at-night-could-signal-heart-problems

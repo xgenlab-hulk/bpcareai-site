@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-complications
 primaryKeyword: diabetic foot care for seniors
-topicCluster: diabetes-complications
+topicCluster: complications-comorbidities
 image: ''
 relatedSlugs:
   - the-link-between-diabetes-and-slow-healing-in-older-adults

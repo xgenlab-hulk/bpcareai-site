@@ -1,14 +1,24 @@
 ---
-title: "How Family Gatherings Can Unintentionally Raise Heart Attack Risk"
-slug: "how-family-gatherings-can-unintentionally-raise-heart-attack-risk"
-description: "Analyze social dynamics like emotional tension, overeating, and routine disruption that may contribute to cardiac incidents."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["family gatherings heart attack risk", "holiday heart syndrome prevention", "social-behavioral-factors"]
-primaryKeyword: "family gatherings heart attack risk"
-topicCluster: "social-behavioral-factors"
-image: ""
-relatedSlugs: ["why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it", "why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults", "when-to-worry-about-weight-gain-after-a-family-gathering", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"]
+title: How Family Gatherings Can Unintentionally Raise Heart Attack Risk
+slug: how-family-gatherings-can-unintentionally-raise-heart-attack-risk
+description: >-
+  Analyze social dynamics like emotional tension, overeating, and routine
+  disruption that may contribute to cardiac incidents.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - family gatherings heart attack risk
+  - holiday heart syndrome prevention
+  - social-behavioral-factors
+primaryKeyword: family gatherings heart attack risk
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
+  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - when-to-worry-about-weight-gain-after-a-family-gathering
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # How Family Gatherings Can Quietly Increase Heart Attack Risk—And What You Can Do

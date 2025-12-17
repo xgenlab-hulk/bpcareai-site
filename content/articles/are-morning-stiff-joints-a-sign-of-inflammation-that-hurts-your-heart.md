@@ -11,7 +11,7 @@ tags:
   - heart health
   - cardiovascular-risk
 primaryKeyword: morning joint stiffness and heart inflammation link
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-poor-dental-hygiene-may-lead-to-heart-disease

@@ -11,7 +11,7 @@ tags:
   - holiday heart syndrome prevention
   - prevention-strategies
 primaryKeyword: safe alcohol holiday heart
-topicCluster: prevention-strategies
+topicCluster: preventive-care
 image: ''
 relatedSlugs:
   - >-

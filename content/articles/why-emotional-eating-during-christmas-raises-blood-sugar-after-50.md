@@ -1,14 +1,24 @@
 ---
-title: "Why Emotional Eating During Christmas Raises Blood Sugar After 50"
-slug: "why-emotional-eating-during-christmas-raises-blood-sugar-after-50"
-description: "Examine the connection between holiday stress, emotional eating, and blood glucose spikes in adults over 50 with prediabetes or diabetes."
-date: "2025-12-12"
-updated: "2025-12-12"
-tags: ["emotional eating blood sugar over 50", "managing blood sugar during Christmas and New Year", "mental-health-nutrition-link"]
-primaryKeyword: "emotional eating blood sugar over 50"
-topicCluster: "mental-health-nutrition-link"
-image: ""
-relatedSlugs: ["why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "how-stress-affects-blood-sugar-in-people-with-diabetes-over-50", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes"]
+title: Why Emotional Eating During Christmas Raises Blood Sugar After 50
+slug: why-emotional-eating-during-christmas-raises-blood-sugar-after-50
+description: >-
+  Examine the connection between holiday stress, emotional eating, and blood
+  glucose spikes in adults over 50 with prediabetes or diabetes.
+date: '2025-12-12'
+updated: '2025-12-12'
+tags:
+  - emotional eating blood sugar over 50
+  - managing blood sugar during Christmas and New Year
+  - mental-health-nutrition-link
+primaryKeyword: emotional eating blood sugar over 50
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 
 # Why Emotional Eating Blood Sugar Over 50 Is a Real Holiday Challenge — And What You Can Do About It

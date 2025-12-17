@@ -11,7 +11,7 @@ tags:
   - seasonal depression in older adults
   - treatment-options
 primaryKeyword: light therapy for seasonal depression
-topicCluster: treatment-options
+topicCluster: medications-supplements
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

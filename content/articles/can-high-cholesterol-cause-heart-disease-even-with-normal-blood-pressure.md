@@ -11,7 +11,7 @@ tags:
   - heart disease
   - cardiovascular-risk
 primaryKeyword: high cholesterol and heart disease with normal blood pressure
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms

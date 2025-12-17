@@ -1,14 +1,24 @@
 ---
-title: "When to Worry About Blood Pressure Changes During Winter"
-slug: "when-to-worry-about-blood-pressure-changes-during-winter"
-description: "Provides clear warning signs that indicate a need for immediate medical attention due to dangerous winter blood pressure fluctuations."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["dangerous blood pressure levels", "senior blood pressure control in winter", "emergency-symptoms"]
-primaryKeyword: "dangerous blood pressure levels"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["can-cold-weather-raise-your-blood-pressure", "should-you-adjust-your-blood-pressure-goals-in-winter", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous"]
+title: When to Worry About Blood Pressure Changes During Winter
+slug: when-to-worry-about-blood-pressure-changes-during-winter
+description: >-
+  Provides clear warning signs that indicate a need for immediate medical
+  attention due to dangerous winter blood pressure fluctuations.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - dangerous blood pressure levels
+  - senior blood pressure control in winter
+  - emergency-symptoms
+primaryKeyword: dangerous blood pressure levels
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - can-cold-weather-raise-your-blood-pressure
+  - should-you-adjust-your-blood-pressure-goals-in-winter
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
 ---
 
 # When Winter Blood Pressure Shifts Cross Into Dangerous Territory

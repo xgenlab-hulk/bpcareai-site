@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - cardiac-diet
 primaryKeyword: thanksgiving with high blood pressure
-topicCluster: cardiac-diet
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure

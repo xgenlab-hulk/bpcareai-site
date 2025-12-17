@@ -1,14 +1,24 @@
 ---
-title: "10 Winter-Safe Exercises for Heart Health After 65"
-slug: "10-winter-safe-exercises-for-heart-health-after-65"
-description: "Lists indoor and outdoor physical activities proven to support cardiovascular function without straining the heart in cold weather."
-date: "2025-12-12"
-updated: "2025-12-12"
-tags: ["safe winter exercises seniors", "winter heart health for seniors", "exercise-activity"]
-primaryKeyword: "safe winter exercises seniors"
-topicCluster: "exercise-activity"
-image: ""
-relatedSlugs: ["the-best-indoor-exercises-for-blood-pressure-control-in-winter", "best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70", "how-indoor-air-quality-affects-heart-health-in-winter", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "5-silent-signs-your-heart-is-struggling-in-cold-weather"]
+title: 10 Winter-Safe Exercises for Heart Health After 65
+slug: 10-winter-safe-exercises-for-heart-health-after-65
+description: >-
+  Lists indoor and outdoor physical activities proven to support cardiovascular
+  function without straining the heart in cold weather.
+date: '2025-12-12'
+updated: '2025-12-12'
+tags:
+  - safe winter exercises seniors
+  - winter heart health for seniors
+  - exercise-activity
+primaryKeyword: safe winter exercises seniors
+topicCluster: physical-activity
+image: ''
+relatedSlugs:
+  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+  - how-indoor-air-quality-affects-heart-health-in-winter
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - 5-silent-signs-your-heart-is-struggling-in-cold-weather
 ---
 
 # Safe Winter Exercises for Seniors: 10 Heart-Healthy Activities to Stay Active After 65

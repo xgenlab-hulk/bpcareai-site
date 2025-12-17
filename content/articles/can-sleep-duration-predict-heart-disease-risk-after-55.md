@@ -1,14 +1,24 @@
 ---
-title: "Can Sleep Duration Predict Heart Disease Risk After 55?"
-slug: "can-sleep-duration-predict-heart-disease-risk-after-55"
-description: "Discover how both too little and too much sleep are linked to higher chances of developing heart conditions."
-date: "2025-12-07"
-updated: "2025-12-07"
-tags: ["sleep duration and heart disease risk after 55", "heart disease", "hypertension-lifestyle"]
-primaryKeyword: "sleep duration and heart disease risk after 55"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["how-sleep-affects-heart-health-after-50", "the-link-between-sleep-apnea-and-high-blood-pressure-after-50", "the-connection-between-frequent-urination-at-night-and-heart-health", "is-sitting-too-much-harming-your-heart-after-60", "heart-disease-and-chronic-kidney-disease-the-dangerous-connection"]
+title: Can Sleep Duration Predict Heart Disease Risk After 55?
+slug: can-sleep-duration-predict-heart-disease-risk-after-55
+description: >-
+  Discover how both too little and too much sleep are linked to higher chances
+  of developing heart conditions.
+date: '2025-12-07'
+updated: '2025-12-07'
+tags:
+  - sleep duration and heart disease risk after 55
+  - heart disease
+  - hypertension-lifestyle
+primaryKeyword: sleep duration and heart disease risk after 55
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - how-sleep-affects-heart-health-after-50
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - the-connection-between-frequent-urination-at-night-and-heart-health
+  - is-sitting-too-much-harming-your-heart-after-60
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
 ---
 
 # How Sleep Duration After 55 Relates to Heart Disease Risk — What the Evidence Shows

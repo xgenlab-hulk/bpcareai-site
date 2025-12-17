@@ -1,14 +1,25 @@
 ---
-title: "10 Smart Swaps to Make Your Family Recipes Healthier Without Losing Flavor"
-slug: "10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor"
-description: "Discover simple ingredient substitutions that reduce sugar, sodium, and unhealthy fats in traditional family dishes while keeping them delicious and familiar."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["healthy recipe swaps for families", "healthy eating during family gatherings", "diet-nutrition"]
-primaryKeyword: "healthy recipe swaps for families"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["7-smart-swaps-for-healthier-holiday-meals-after-65", "12-smart-swaps-to-manage-blood-sugar-during-holiday-meals", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about", "the-link-between-family-food-traditions-and-chronic-disease-risk"]
+title: 10 Smart Swaps to Make Your Family Recipes Healthier Without Losing Flavor
+slug: 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
+description: >-
+  Discover simple ingredient substitutions that reduce sugar, sodium, and
+  unhealthy fats in traditional family dishes while keeping them delicious and
+  familiar.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - healthy recipe swaps for families
+  - healthy eating during family gatherings
+  - diet-nutrition
+primaryKeyword: healthy recipe swaps for families
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
+  - the-link-between-family-food-traditions-and-chronic-disease-risk
 ---
 
 # 10 Delicious Healthy Recipe Swaps for Families That Keep Tradition—and Taste—Intact

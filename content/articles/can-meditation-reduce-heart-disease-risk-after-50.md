@@ -11,7 +11,7 @@ tags:
   - heart disease
   - hypertension-lifestyle
 primaryKeyword: meditation and heart disease prevention after 50
-topicCluster: hypertension-lifestyle
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-gardening-improve-heart-health-after-50

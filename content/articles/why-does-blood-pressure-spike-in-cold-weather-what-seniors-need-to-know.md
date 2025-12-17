@@ -1,14 +1,25 @@
 ---
-title: "Why Does Blood Pressure Spike in Cold Weather? What Seniors Need to Know"
-slug: "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know"
-description: "Explores the physiological reasons behind winter blood pressure increases in older adults and offers practical guidance for monitoring and management during colder months."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["blood pressure in cold weather", "senior blood pressure control in winter", "seasonal-blood-pressure-changes"]
-primaryKeyword: "blood pressure in cold weather"
-topicCluster: "seasonal-blood-pressure-changes"
-image: ""
-relatedSlugs: ["how-does-cold-weather-affect-blood-pressure-in-older-adults", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "can-cold-weather-raise-your-blood-pressure", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "should-you-adjust-your-blood-pressure-goals-in-winter"]
+title: Why Does Blood Pressure Spike in Cold Weather? What Seniors Need to Know
+slug: why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+description: >-
+  Explores the physiological reasons behind winter blood pressure increases in
+  older adults and offers practical guidance for monitoring and management
+  during colder months.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - blood pressure in cold weather
+  - senior blood pressure control in winter
+  - seasonal-blood-pressure-changes
+primaryKeyword: blood pressure in cold weather
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - can-cold-weather-raise-your-blood-pressure
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - should-you-adjust-your-blood-pressure-goals-in-winter
 ---
 
 # Why Blood Pressure in Cold Weather Rises—And How Seniors Can Stay Safe

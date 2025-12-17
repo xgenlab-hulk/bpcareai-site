@@ -1,14 +1,30 @@
 ---
-title: "Can You Reverse Insulin Resistance with Just 3 Strategic Holiday Meals? A 14-Day Pilot Study Breakdown"
-slug: "can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown"
-description: "Summarizes findings from a small but rigorous geriatric nutrition trial where targeted macronutrient timing, polyphenol-rich ingredients, and mindful eating cues led to measurable HOMA-IR improvements—plus how to replicate the protocol without calorie counting."
-date: "2025-12-16"
-updated: "2025-12-16"
-tags: ["reverse insulin resistance holiday meals study", "healthy eating during family gatherings", "diabetic-diet-intervention-research"]
-primaryKeyword: "reverse insulin resistance holiday meals study"
-topicCluster: "diabetic-diet-intervention-research"
-image: ""
-relatedSlugs: ["5-science-backed-ways-to-reduce-holiday-related-insulin-resistance", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes"]
+title: >-
+  Can You Reverse Insulin Resistance with Just 3 Strategic Holiday Meals? A
+  14-Day Pilot Study Breakdown
+slug: >-
+  can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
+description: >-
+  Summarizes findings from a small but rigorous geriatric nutrition trial where
+  targeted macronutrient timing, polyphenol-rich ingredients, and mindful eating
+  cues led to measurable HOMA-IR improvements—plus how to replicate the protocol
+  without calorie counting.
+date: '2025-12-16'
+updated: '2025-12-16'
+tags:
+  - reverse insulin resistance holiday meals study
+  - healthy eating during family gatherings
+  - diabetic-diet-intervention-research
+primaryKeyword: reverse insulin resistance holiday meals study
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - 5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
 ---
 
 # Can Strategic Holiday Meals Help Reverse Insulin Resistance? Insights from a 14-Day Geriatric Study

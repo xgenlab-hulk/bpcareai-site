@@ -11,7 +11,7 @@ tags:
   - heart disease
   - cardiovascular-risk
 primaryKeyword: family history and heart disease risk after 60
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - is-sitting-too-much-harming-your-heart-after-60

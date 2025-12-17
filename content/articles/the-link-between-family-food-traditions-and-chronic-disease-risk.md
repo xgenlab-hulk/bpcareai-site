@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - cultural-diet-impact
 primaryKeyword: food traditions and disease risk
-topicCluster: cultural-diet-impact
+topicCluster: nutrition-diet
 image: ''
 relatedSlugs:
   - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor

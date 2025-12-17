@@ -1,14 +1,24 @@
 ---
-title: "The Link Between Social Isolation and Seasonal Mood Decline in Retirees"
-slug: "the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees"
-description: "Analyze how reduced social interaction in winter contributes to depression in older adults living alone or with limited mobility."
-date: "2025-12-12"
-updated: "2025-12-12"
-tags: ["social isolation and seasonal depression", "seasonal depression in older adults", "emotional-mental-health"]
-primaryKeyword: "social isolation and seasonal depression"
-topicCluster: "emotional-mental-health"
-image: ""
-relatedSlugs: ["how-winter-depression-affects-heart-health-in-retired-adults", "the-link-between-winter-depression-and-high-blood-pressure-in-older-adults", "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults", "can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know"]
+title: The Link Between Social Isolation and Seasonal Mood Decline in Retirees
+slug: the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+description: >-
+  Analyze how reduced social interaction in winter contributes to depression in
+  older adults living alone or with limited mobility.
+date: '2025-12-12'
+updated: '2025-12-12'
+tags:
+  - social isolation and seasonal depression
+  - seasonal depression in older adults
+  - emotional-mental-health
+primaryKeyword: social isolation and seasonal depression
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - how-winter-depression-affects-heart-health-in-retired-adults
+  - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
+  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
 ---
 
 # Understanding Social Isolation and Seasonal Depression in Older Adults

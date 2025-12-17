@@ -11,7 +11,7 @@ tags:
   - healthy holiday eating for seniors
   - emergency-symptoms
 primaryKeyword: chest pain after eating seniors warning signs
-topicCluster: emergency-symptoms
+topicCluster: symptoms-emergencies
 image: ''
 relatedSlugs:
   - when-to-worry-about-weight-gain-after-a-family-gathering

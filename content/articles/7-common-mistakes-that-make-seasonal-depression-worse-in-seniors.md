@@ -11,7 +11,7 @@ tags:
   - seasonal depression in older adults
   - prevention-strategies
 primaryKeyword: mistakes worsening seasonal depression
-topicCluster: prevention-strategies
+topicCluster: preventive-care
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

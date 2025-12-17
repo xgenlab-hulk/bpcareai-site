@@ -1,14 +1,24 @@
 ---
-title: "Top 6 Nutrient-Dense Side Dishes to Add to Your Senior-Friendly Holiday Table"
-slug: "top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table"
-description: "Boost vitamins and minerals during the holidays with antioxidant-rich sides that support immunity and energy in older adults."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["nutrient-dense holiday side dishes seniors", "healthy holiday eating for seniors", "diet-nutrition"]
-primaryKeyword: "nutrient-dense holiday side dishes seniors"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["10-high-fiber-holiday-foods-that-support-digestion-after-50", "7-smart-swaps-for-healthier-holiday-meals-after-65", "what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults"]
+title: Top 6 Nutrient-Dense Side Dishes to Add to Your Senior-Friendly Holiday Table
+slug: top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
+description: >-
+  Boost vitamins and minerals during the holidays with antioxidant-rich sides
+  that support immunity and energy in older adults.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - nutrient-dense holiday side dishes seniors
+  - healthy holiday eating for seniors
+  - diet-nutrition
+primaryKeyword: nutrient-dense holiday side dishes seniors
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 ---
 
 # 6 Nutrient-Dense Holiday Side Dishes Seniors Will Love (and Their Bodies Will Thank)

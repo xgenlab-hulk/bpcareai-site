@@ -1,14 +1,25 @@
 ---
-title: "5 Science-Backed Ways to Reduce Holiday-Related Insulin Resistance"
-slug: "5-science-backed-ways-to-reduce-holiday-related-insulin-resistance"
-description: "Evidence-based methods — from timing carbs to resistance training — that combat temporary increases in insulin resistance."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["reduce insulin resistance holidays", "managing blood sugar during Christmas and New Year", "scientific-evidence"]
-primaryKeyword: "reduce insulin resistance holidays"
-topicCluster: "scientific-evidence"
-image: ""
-relatedSlugs: ["how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity", "should-you-adjust-your-diabetes-medication-during-the-holidays", "7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "best-blood-sugar-monitoring-practices-during-the-holiday-season"]
+title: 5 Science-Backed Ways to Reduce Holiday-Related Insulin Resistance
+slug: 5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
+description: >-
+  Evidence-based methods — from timing carbs to resistance training — that
+  combat temporary increases in insulin resistance.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - reduce insulin resistance holidays
+  - managing blood sugar during Christmas and New Year
+  - scientific-evidence
+primaryKeyword: reduce insulin resistance holidays
+topicCluster: evidence-research
+image: ''
+relatedSlugs:
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - should-you-adjust-your-diabetes-medication-during-the-holidays
+  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # 5 Science-Backed Strategies to Reduce Insulin Resistance During the Holidays

@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: daily nut consumption and heart protection after 50
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors

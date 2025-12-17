@@ -1,14 +1,24 @@
 ---
-title: "How Holiday Stress Affects Blood Sugar in Seniors with Type 2 Diabetes"
-slug: "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes"
-description: "Learn how emotional stress from family gatherings and routines changes impact glucose levels—and what to do about it."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["holiday stress blood sugar seniors", "healthy holiday eating for seniors", "emotional-mental-health"]
-primaryKeyword: "holiday stress blood sugar seniors"
-topicCluster: "emotional-mental-health"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do", "best-blood-sugar-monitoring-practices-during-the-holiday-season", "the-link-between-loneliness-during-holidays-and-poor-diabetes-control"]
+title: How Holiday Stress Affects Blood Sugar in Seniors with Type 2 Diabetes
+slug: how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+description: >-
+  Learn how emotional stress from family gatherings and routines changes impact
+  glucose levels—and what to do about it.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - holiday stress blood sugar seniors
+  - healthy holiday eating for seniors
+  - emotional-mental-health
+primaryKeyword: holiday stress blood sugar seniors
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - the-link-between-loneliness-during-holidays-and-poor-diabetes-control
 ---
 
 # How Holiday Stress Blood Sugar Seniors: Managing Glucose During the Festive Season

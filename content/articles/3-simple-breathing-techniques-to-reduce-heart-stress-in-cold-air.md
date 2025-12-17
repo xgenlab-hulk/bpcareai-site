@@ -1,14 +1,24 @@
 ---
-title: "3 Simple Breathing Techniques to Reduce Heart Stress in Cold Air"
-slug: "3-simple-breathing-techniques-to-reduce-heart-stress-in-cold-air"
-description: "Teaches controlled breathing methods to prevent blood vessel constriction and heart strain when breathing frigid winter air."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["cold air breathing techniques", "winter heart health for seniors", "natural-remedies"]
-primaryKeyword: "cold air breathing techniques"
-topicCluster: "natural-remedies"
-image: ""
-relatedSlugs: ["can-deep-breathing-exercises-lower-heart-disease-risk", "can-deep-breathing-exercises-reduce-high-blood-pressure", "top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday", "natural-ways-to-lower-blood-pressure-this-winter-without-medication", "quick-ways-to-calm-a-racing-heart-during-a-holiday-event"]
+title: 3 Simple Breathing Techniques to Reduce Heart Stress in Cold Air
+slug: 3-simple-breathing-techniques-to-reduce-heart-stress-in-cold-air
+description: >-
+  Teaches controlled breathing methods to prevent blood vessel constriction and
+  heart strain when breathing frigid winter air.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - cold air breathing techniques
+  - winter heart health for seniors
+  - natural-remedies
+primaryKeyword: cold air breathing techniques
+topicCluster: treatment-interventions
+image: ''
+relatedSlugs:
+  - can-deep-breathing-exercises-lower-heart-disease-risk
+  - can-deep-breathing-exercises-reduce-high-blood-pressure
+  - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
+  - natural-ways-to-lower-blood-pressure-this-winter-without-medication
+  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 ---
 
 # 3 Gentle Breathing Methods to Ease Heart Stress in Cold Air: Safe Cold Air Breathing Techniques for Older Adults

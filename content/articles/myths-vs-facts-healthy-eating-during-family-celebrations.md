@@ -1,14 +1,24 @@
 ---
-title: "Myths vs Facts: Healthy Eating During Family Celebrations"
-slug: "myths-vs-facts-healthy-eating-during-family-celebrations"
-description: "Debunks common misconceptions about dieting during holidays, such as 'one bad meal ruins everything' or 'fasting prepares you.'"
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["holiday diet myths vs facts", "healthy eating during family gatherings", "nutrition-myths"]
-primaryKeyword: "holiday diet myths vs facts"
-topicCluster: "nutrition-myths"
-image: ""
-relatedSlugs: ["myths-vs-facts-holiday-eating-with-diabetes-after-50", "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals", "the-truth-about-cheating-on-your-diet-during-family-celebrations", "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar", "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do"]
+title: 'Myths vs Facts: Healthy Eating During Family Celebrations'
+slug: myths-vs-facts-healthy-eating-during-family-celebrations
+description: >-
+  Debunks common misconceptions about dieting during holidays, such as 'one bad
+  meal ruins everything' or 'fasting prepares you.'
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - holiday diet myths vs facts
+  - healthy eating during family gatherings
+  - nutrition-myths
+primaryKeyword: holiday diet myths vs facts
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - the-truth-about-cheating-on-your-diet-during-family-celebrations
+  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 ---
 
 # Holiday Diet Myths vs Facts: Navigating Family Celebrations with Confidence

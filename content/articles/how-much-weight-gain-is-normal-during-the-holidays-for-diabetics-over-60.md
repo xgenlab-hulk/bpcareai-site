@@ -1,14 +1,24 @@
 ---
-title: "How Much Weight Gain Is Normal During the Holidays for Diabetics Over 60?"
-slug: "how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60"
-description: "Explores typical post-holiday weight changes and their relationship to blood sugar control and long-term metabolic health."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["holiday weight gain diabetics over 60", "managing blood sugar during Christmas and New Year", "prevention-strategies"]
-primaryKeyword: "holiday weight gain diabetics over 60"
-topicCluster: "prevention-strategies"
-image: ""
-relatedSlugs: ["when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "when-to-worry-about-weight-gain-after-a-family-gathering", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes"]
+title: How Much Weight Gain Is Normal During the Holidays for Diabetics Over 60?
+slug: how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
+description: >-
+  Explores typical post-holiday weight changes and their relationship to blood
+  sugar control and long-term metabolic health.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - holiday weight gain diabetics over 60
+  - managing blood sugar during Christmas and New Year
+  - prevention-strategies
+primaryKeyword: holiday weight gain diabetics over 60
+topicCluster: preventive-care
+image: ''
+relatedSlugs:
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - when-to-worry-about-weight-gain-after-a-family-gathering
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # Understanding Holiday Weight Gain in Diabetics Over 60: What’s Normal and What to Watch

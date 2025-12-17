@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-complications
 primaryKeyword: diabetes-related vision changes in seniors
-topicCluster: diabetes-complications
+topicCluster: complications-comorbidities
 image: ''
 relatedSlugs:
   - how-vision-changes-might-be-linked-to-heart-disease

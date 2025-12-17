@@ -1,14 +1,24 @@
 ---
-title: "Is It Safe to Walk Outside in Freezing Temperatures with Heart Disease?"
-slug: "is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease"
-description: "Evaluates risks and offers expert-backed guidelines for safe outdoor activity in seniors managing heart conditions during winter."
-date: "2025-12-17"
-updated: "2025-12-17"
-tags: ["walking in cold heart disease", "winter heart health for seniors", "lifestyle-modifications"]
-primaryKeyword: "walking in cold heart disease"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["10-winter-safe-exercises-for-heart-health-after-65", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "can-shoveling-snow-trigger-a-heart-event-in-older-adults", "how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk", "how-chronic-lung-conditions-amplify-heart-risks-in-winter"]
+title: Is It Safe to Walk Outside in Freezing Temperatures with Heart Disease?
+slug: is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
+description: >-
+  Evaluates risks and offers expert-backed guidelines for safe outdoor activity
+  in seniors managing heart conditions during winter.
+date: '2025-12-17'
+updated: '2025-12-17'
+tags:
+  - walking in cold heart disease
+  - winter heart health for seniors
+  - lifestyle-modifications
+primaryKeyword: walking in cold heart disease
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - 10-winter-safe-exercises-for-heart-health-after-65
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - can-shoveling-snow-trigger-a-heart-event-in-older-adults
+  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - how-chronic-lung-conditions-amplify-heart-risks-in-winter
 ---
 
 # Is It Safe to Walk Outside in Freezing Temperatures If You Have Heart Disease? A Reassuring Guide to Walking in Cold Heart Disease

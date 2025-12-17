@@ -11,7 +11,7 @@ tags:
   - heart disease
   - cardiovascular-risk
 primaryKeyword: poor dental hygiene and heart disease connection
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - the-hidden-link-between-gum-disease-and-heart-problems

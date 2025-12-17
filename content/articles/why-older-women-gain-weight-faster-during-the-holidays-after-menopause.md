@@ -11,7 +11,7 @@ tags:
   - healthy holiday eating for seniors
   - gender-specific-concerns
 primaryKeyword: menopause holiday weight gain women
-topicCluster: gender-specific-concerns
+topicCluster: age-gender-specific
 image: ''
 relatedSlugs:
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes

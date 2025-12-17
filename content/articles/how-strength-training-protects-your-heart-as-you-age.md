@@ -1,14 +1,24 @@
 ---
-title: "How Strength Training Protects Your Heart as You Age"
-slug: "how-strength-training-protects-your-heart-as-you-age"
-description: "Discover how building muscle through resistance training supports circulation and heart resilience."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["strength training benefits for heart health over 50", "heart health", "heart-health"]
-primaryKeyword: "strength training benefits for heart health over 50"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["can-strength-training-lower-heart-disease-risk-after-60", "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50", "can-gardening-improve-heart-health-after-50", "could-your-heartbeats-per-minute-predict-longevity", "how-fiber-rich-diets-support-heart-health-in-people-over-60"]
+title: How Strength Training Protects Your Heart as You Age
+slug: how-strength-training-protects-your-heart-as-you-age
+description: >-
+  Discover how building muscle through resistance training supports circulation
+  and heart resilience.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - strength training benefits for heart health over 50
+  - heart health
+  - heart-health
+primaryKeyword: strength training benefits for heart health over 50
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - can-strength-training-lower-heart-disease-risk-after-60
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - can-gardening-improve-heart-health-after-50
+  - could-your-heartbeats-per-minute-predict-longevity
+  - how-fiber-rich-diets-support-heart-health-in-people-over-60
 ---
 
 # How Strength Training Benefits Heart Health Over 50—And Why It’s Never Too Late to Start

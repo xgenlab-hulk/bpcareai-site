@@ -11,7 +11,7 @@ tags:
   - heart health
   - hypertension-lifestyle
 primaryKeyword: deep breathing exercises for heart health
-topicCluster: hypertension-lifestyle
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-strength-training-lower-heart-disease-risk-after-60

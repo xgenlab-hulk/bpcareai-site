@@ -1,14 +1,24 @@
 ---
-title: "Seasonal Depression vs. Normal Winter Sadness: What Families Need to Know"
-slug: "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know"
-description: "Differentiate between temporary mood dips and clinical seasonal affective disorder in older adults."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["seasonal depression vs winter sadness", "seasonal depression in older adults", "condition-comparison"]
-primaryKeyword: "seasonal depression vs winter sadness"
-topicCluster: "condition-comparison"
-image: ""
-relatedSlugs: ["when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75", "how-winter-depression-affects-heart-health-in-retired-adults", "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults", "why-older-men-often-hide-their-seasonal-depression-symptoms", "winter-vs-summer-blood-pressure-what-seniors-need-to-know"]
+title: 'Seasonal Depression vs. Normal Winter Sadness: What Families Need to Know'
+slug: seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+description: >-
+  Differentiate between temporary mood dips and clinical seasonal affective
+  disorder in older adults.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - seasonal depression vs winter sadness
+  - seasonal depression in older adults
+  - condition-comparison
+primaryKeyword: seasonal depression vs winter sadness
+topicCluster: evidence-research
+image: ''
+relatedSlugs:
+  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - how-winter-depression-affects-heart-health-in-retired-adults
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
+  - why-older-men-often-hide-their-seasonal-depression-symptoms
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
 ---
 
 # Understanding Seasonal Depression vs Winter Sadness in Older Adults

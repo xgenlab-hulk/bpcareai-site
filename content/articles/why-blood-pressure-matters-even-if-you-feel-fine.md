@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - cardiovascular-risk
 primaryKeyword: high blood pressure with no symptoms danger
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50

@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-nutrition
 primaryKeyword: high fiber diet for blood sugar control after 50
-topicCluster: diabetes-nutrition
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - meal-timing-strategies-for-better-blood-sugar-control-after-50

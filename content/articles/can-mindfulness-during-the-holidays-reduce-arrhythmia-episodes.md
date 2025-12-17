@@ -1,14 +1,24 @@
 ---
-title: "Can Mindfulness During the Holidays Reduce Arrhythmia Episodes?"
-slug: "can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes"
-description: "Evaluate the evidence on meditation and stress-awareness practices in reducing the frequency of holiday-triggered palpitations."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["mindfulness holiday arrhythmia", "holiday heart syndrome prevention", "natural-remedies"]
-primaryKeyword: "mindfulness holiday arrhythmia"
-topicCluster: "natural-remedies"
-image: ""
-relatedSlugs: ["top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday", "quick-ways-to-calm-a-racing-heart-during-a-holiday-event", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "can-mindfulness-meditation-reduce-heart-disease-risk-after-50", "12-simple-ways-to-prevent-holiday-heart-syndrome-naturally"]
+title: Can Mindfulness During the Holidays Reduce Arrhythmia Episodes?
+slug: can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
+description: >-
+  Evaluate the evidence on meditation and stress-awareness practices in reducing
+  the frequency of holiday-triggered palpitations.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - mindfulness holiday arrhythmia
+  - holiday heart syndrome prevention
+  - natural-remedies
+primaryKeyword: mindfulness holiday arrhythmia
+topicCluster: treatment-interventions
+image: ''
+relatedSlugs:
+  - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
+  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
 ---
 
 # Can Mindfulness During the Holidays Help Reduce Arrhythmia Episodes?

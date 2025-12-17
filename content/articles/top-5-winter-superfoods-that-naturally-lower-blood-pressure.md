@@ -1,14 +1,25 @@
 ---
-title: "Top 5 Winter Superfoods That Naturally Lower Blood Pressure"
-slug: "top-5-winter-superfoods-that-naturally-lower-blood-pressure"
-description: "Features nutrient-dense seasonal foods rich in potassium and magnesium that help counteract winter-induced hypertension in older adults."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["superfoods for blood pressure", "senior blood pressure control in winter", "cardiac-diet"]
-primaryKeyword: "superfoods for blood pressure"
-topicCluster: "cardiac-diet"
-image: ""
-relatedSlugs: ["can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors", "the-link-between-winter-depression-and-high-blood-pressure-in-older-adults", "what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "the-role-of-potassium-in-managing-blood-pressure-after-50"]
+title: Top 5 Winter Superfoods That Naturally Lower Blood Pressure
+slug: top-5-winter-superfoods-that-naturally-lower-blood-pressure
+description: >-
+  Features nutrient-dense seasonal foods rich in potassium and magnesium that
+  help counteract winter-induced hypertension in older adults.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - superfoods for blood pressure
+  - senior blood pressure control in winter
+  - cardiac-diet
+primaryKeyword: superfoods for blood pressure
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
+  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - the-role-of-potassium-in-managing-blood-pressure-after-50
 ---
 
 # Top Winter Superfoods for Blood Pressure That Support Senior Heart Health

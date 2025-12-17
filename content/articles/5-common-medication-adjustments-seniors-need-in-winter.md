@@ -1,14 +1,24 @@
 ---
-title: "5 Common Medication Adjustments Seniors Need in Winter"
-slug: "5-common-medication-adjustments-seniors-need-in-winter"
-description: "Explains how blood pressure, heart failure, and diabetes medications may require dosage changes due to seasonal shifts."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["winter medication adjustments seniors", "winter heart health for seniors", "medications-treatment"]
-primaryKeyword: "winter medication adjustments seniors"
-topicCluster: "medications-treatment"
-image: ""
-relatedSlugs: ["how-cold-weather-affects-blood-pressure-medication-effectiveness", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "should-you-adjust-your-blood-pressure-goals-in-winter", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "should-you-adjust-your-diabetes-medication-during-the-holidays"]
+title: 5 Common Medication Adjustments Seniors Need in Winter
+slug: 5-common-medication-adjustments-seniors-need-in-winter
+description: >-
+  Explains how blood pressure, heart failure, and diabetes medications may
+  require dosage changes due to seasonal shifts.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - winter medication adjustments seniors
+  - winter heart health for seniors
+  - medications-treatment
+primaryKeyword: winter medication adjustments seniors
+topicCluster: medications-supplements
+image: ''
+relatedSlugs:
+  - how-cold-weather-affects-blood-pressure-medication-effectiveness
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - should-you-adjust-your-blood-pressure-goals-in-winter
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - should-you-adjust-your-diabetes-medication-during-the-holidays
 ---
 
 # Why Winter Medication Adjustments for Seniors Matter — And What to Watch For

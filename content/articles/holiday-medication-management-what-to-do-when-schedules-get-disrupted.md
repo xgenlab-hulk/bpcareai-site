@@ -1,14 +1,24 @@
 ---
-title: "Holiday Medication Management: What to Do When Schedules Get Disrupted"
-slug: "holiday-medication-management-what-to-do-when-schedules-get-disrupted"
-description: "Tips for maintaining consistent timing and storage of diabetes meds despite seasonal disruptions."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["diabetes medication schedule holidays", "holiday diabetes management", "medication-adherence-challenges"]
-primaryKeyword: "diabetes medication schedule holidays"
-topicCluster: "medication-adherence-challenges"
-image: ""
-relatedSlugs: ["how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide", "should-you-adjust-your-diabetes-medication-during-the-holidays", "best-blood-sugar-monitoring-practices-during-the-holiday-season", "how-to-monitor-blood-sugar-more-effectively-during-festive-travel", "the-link-between-loneliness-during-holidays-and-poor-diabetes-control"]
+title: 'Holiday Medication Management: What to Do When Schedules Get Disrupted'
+slug: holiday-medication-management-what-to-do-when-schedules-get-disrupted
+description: >-
+  Tips for maintaining consistent timing and storage of diabetes meds despite
+  seasonal disruptions.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - diabetes medication schedule holidays
+  - holiday diabetes management
+  - medication-adherence-challenges
+primaryKeyword: diabetes medication schedule holidays
+topicCluster: medications-supplements
+image: ''
+relatedSlugs:
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - should-you-adjust-your-diabetes-medication-during-the-holidays
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - how-to-monitor-blood-sugar-more-effectively-during-festive-travel
+  - the-link-between-loneliness-during-holidays-and-poor-diabetes-control
 ---
 
 # Keeping Your Diabetes Medication Schedule Holidays on Track—Without the Stress

@@ -11,7 +11,7 @@ tags:
   - managing blood sugar during Christmas and New Year
   - lifestyle-modifications
 primaryKeyword: holiday gifts for diabetics over 70
-topicCluster: lifestyle-modifications
+topicCluster: lifestyle-changes
 image: ''
 relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

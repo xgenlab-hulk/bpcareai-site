@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - hypertension-lifestyle
 primaryKeyword: hidden salt in food and blood pressure
-topicCluster: hypertension-lifestyle
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - the-role-of-potassium-in-managing-blood-pressure-after-50

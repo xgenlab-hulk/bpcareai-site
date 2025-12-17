@@ -11,7 +11,7 @@ tags:
   - heart disease
   - hypertension-lifestyle
 primaryKeyword: social isolation and heart disease in seniors
-topicCluster: hypertension-lifestyle
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - how-social-isolation-increases-heart-disease-risk-after-60

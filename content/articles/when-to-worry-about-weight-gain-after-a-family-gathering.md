@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - weight-monitoring
 primaryKeyword: post-holiday weight gain concerns
-topicCluster: weight-monitoring
+topicCluster: health-monitoring
 image: ''
 relatedSlugs:
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause

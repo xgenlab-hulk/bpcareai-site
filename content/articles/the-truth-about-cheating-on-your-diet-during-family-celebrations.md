@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - diet-myths-facts
 primaryKeyword: cheating on diet occasional basis
-topicCluster: diet-myths-facts
+topicCluster: nutrition-diet
 image: ''
 relatedSlugs:
   - >-

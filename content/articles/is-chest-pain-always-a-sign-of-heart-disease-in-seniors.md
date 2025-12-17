@@ -1,14 +1,24 @@
 ---
-title: "Is Chest Pain Always a Sign of Heart Disease in Seniors?"
-slug: "is-chest-pain-always-a-sign-of-heart-disease-in-seniors"
-description: "Examine other potential causes of chest discomfort in older adults and when to seek immediate medical attention."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["chest pain not related to heart disease in seniors", "heart disease", "heart-health"]
-primaryKeyword: "chest pain not related to heart disease in seniors"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["when-to-worry-about-chest-discomfort-after-a-big-holiday-meal", "how-silent-heart-attacks-differ-in-older-adults", "the-role-of-inflammation-in-heart-disease-for-older-adults", "heart-disease-risks-for-retirees-living-in-high-altitude-areas", "heart-disease-symptoms-in-women-over-50-what-s-often-missed"]
+title: Is Chest Pain Always a Sign of Heart Disease in Seniors?
+slug: is-chest-pain-always-a-sign-of-heart-disease-in-seniors
+description: >-
+  Examine other potential causes of chest discomfort in older adults and when to
+  seek immediate medical attention.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - chest pain not related to heart disease in seniors
+  - heart disease
+  - heart-health
+primaryKeyword: chest pain not related to heart disease in seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
+  - how-silent-heart-attacks-differ-in-older-adults
+  - the-role-of-inflammation-in-heart-disease-for-older-adults
+  - heart-disease-risks-for-retirees-living-in-high-altitude-areas
+  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
 ---
 
 # Chest Pain Not Related to Heart Disease in Seniors: What Else Could It Be?

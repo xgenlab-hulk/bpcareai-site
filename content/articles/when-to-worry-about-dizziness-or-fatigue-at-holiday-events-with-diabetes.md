@@ -1,14 +1,24 @@
 ---
-title: "When to Worry About Dizziness or Fatigue at Holiday Events with Diabetes"
-slug: "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes"
-description: "Identify when common holiday symptoms could signal dangerous blood sugar fluctuations in adults over 60."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["holiday dizziness diabetes warning signs", "holiday diabetes management", "emergency-symptoms"]
-primaryKeyword: "holiday dizziness diabetes warning signs"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "best-blood-sugar-monitoring-practices-during-the-holiday-season", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"]
+title: When to Worry About Dizziness or Fatigue at Holiday Events with Diabetes
+slug: when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+description: >-
+  Identify when common holiday symptoms could signal dangerous blood sugar
+  fluctuations in adults over 60.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - holiday dizziness diabetes warning signs
+  - holiday diabetes management
+  - emergency-symptoms
+primaryKeyword: holiday dizziness diabetes warning signs
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # When Holiday Dizziness Diabetes Warning Signs Signal a Need for Action in Adults Over 60

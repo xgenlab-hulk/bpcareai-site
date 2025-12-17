@@ -1,14 +1,24 @@
 ---
-title: "The Role of Inflammation in Heart Disease for Older Adults"
-slug: "the-role-of-inflammation-in-heart-disease-for-older-adults"
-description: "Learn how chronic inflammation contributes to heart disease and what blood tests and lifestyle changes can help manage it."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["inflammation and heart disease in seniors", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "inflammation and heart disease in seniors"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart", "how-chronic-inflammation-worsens-type-2-diabetes-after-50", "the-hidden-link-between-gum-disease-and-heart-problems", "how-social-isolation-impacts-heart-disease-risk-in-older-adults", "how-pets-support-heart-health-in-older-adults"]
+title: The Role of Inflammation in Heart Disease for Older Adults
+slug: the-role-of-inflammation-in-heart-disease-for-older-adults
+description: >-
+  Learn how chronic inflammation contributes to heart disease and what blood
+  tests and lifestyle changes can help manage it.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - inflammation and heart disease in seniors
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: inflammation and heart disease in seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart
+  - how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - how-pets-support-heart-health-in-older-adults
 ---
 
 # Understanding Inflammation and Heart Disease in Seniors

@@ -11,7 +11,7 @@ tags:
   - heart disease
   - heart-health
 primaryKeyword: early warning signs of heart disease years in advance
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart

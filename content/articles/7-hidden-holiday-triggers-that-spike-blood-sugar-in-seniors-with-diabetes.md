@@ -1,14 +1,25 @@
 ---
-title: "7 Hidden Holiday Triggers That Spike Blood Sugar in Seniors with Diabetes"
-slug: "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes"
-description: "Explore common but overlooked holiday season factors that can destabilize blood glucose levels in older adults managing diabetes."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["holiday blood sugar triggers seniors", "holiday diabetes management", "risk-factors-prevention"]
-primaryKeyword: "holiday blood sugar triggers seniors"
-topicCluster: "risk-factors-prevention"
-image: ""
-relatedSlugs: ["why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"]
+title: 7 Hidden Holiday Triggers That Spike Blood Sugar in Seniors with Diabetes
+slug: 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+description: >-
+  Explore common but overlooked holiday season factors that can destabilize
+  blood glucose levels in older adults managing diabetes.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - holiday blood sugar triggers seniors
+  - holiday diabetes management
+  - risk-factors-prevention
+primaryKeyword: holiday blood sugar triggers seniors
+topicCluster: preventive-care
+image: ''
+relatedSlugs:
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # 7 Hidden Holiday Blood Sugar Triggers for Seniors Managing Diabetes

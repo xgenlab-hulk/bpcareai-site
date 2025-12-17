@@ -1,14 +1,24 @@
 ---
-title: "Why Dehydration at Holiday Events May Worsen Heart Palpitations"
-slug: "why-dehydration-at-holiday-events-may-worsen-heart-palpitations"
-description: "Detail how inadequate fluid intake during busy festive days can exacerbate arrhythmias, especially with alcohol use."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["dehydration holiday palpitations", "holiday heart syndrome prevention", "lifestyle-modifications"]
-primaryKeyword: "dehydration holiday palpitations"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk", "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties", "the-truth-about-benign-holiday-palpitations-are-they-really-harmless", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"]
+title: Why Dehydration at Holiday Events May Worsen Heart Palpitations
+slug: why-dehydration-at-holiday-events-may-worsen-heart-palpitations
+description: >-
+  Detail how inadequate fluid intake during busy festive days can exacerbate
+  arrhythmias, especially with alcohol use.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - dehydration holiday palpitations
+  - holiday heart syndrome prevention
+  - lifestyle-modifications
+primaryKeyword: dehydration holiday palpitations
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - the-truth-about-benign-holiday-palpitations-are-they-really-harmless
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # How Dehydration During the Holidays Can Trigger or Worsen Heart Palpitations

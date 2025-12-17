@@ -1,14 +1,24 @@
 ---
-title: "How Gum Disease Is Linked to Diabetes Complications in Older Adults"
-slug: "how-gum-disease-is-linked-to-diabetes-complications-in-older-adults"
-description: "Understand the two-way link between oral health and blood sugar control in aging populations."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["gum disease and diabetes complications in seniors", "diabetes", "diabetes-complications"]
-primaryKeyword: "gum disease and diabetes complications in seniors"
-topicCluster: "diabetes-complications"
-image: ""
-relatedSlugs: ["the-hidden-link-between-gum-disease-and-heart-problems", "diabetes-and-vision-changes-what-seniors-need-to-know", "the-link-between-diabetes-and-slow-healing-in-older-adults", "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors", "understanding-a1c-goals-for-seniors-with-diabetes"]
+title: How Gum Disease Is Linked to Diabetes Complications in Older Adults
+slug: how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
+description: >-
+  Understand the two-way link between oral health and blood sugar control in
+  aging populations.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - gum disease and diabetes complications in seniors
+  - diabetes
+  - diabetes-complications
+primaryKeyword: gum disease and diabetes complications in seniors
+topicCluster: complications-comorbidities
+image: ''
+relatedSlugs:
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - diabetes-and-vision-changes-what-seniors-need-to-know
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
+  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
+  - understanding-a1c-goals-for-seniors-with-diabetes
 ---
 
 # How Gum Disease and Diabetes Complications in Seniors Are Connected

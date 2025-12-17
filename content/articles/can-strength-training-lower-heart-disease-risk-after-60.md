@@ -11,7 +11,7 @@ tags:
   - heart disease
   - hypertension-lifestyle
 primaryKeyword: strength training to reduce heart disease risk after 60
-topicCluster: hypertension-lifestyle
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-meditation-reduce-heart-disease-risk-after-50

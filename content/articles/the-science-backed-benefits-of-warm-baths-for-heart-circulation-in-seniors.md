@@ -1,14 +1,25 @@
 ---
-title: "The Science-Backed Benefits of Warm Baths for Heart Circulation in Seniors"
-slug: "the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors"
-description: "Reviews research on how warm (not hot) baths improve peripheral circulation and reduce blood pressure safely in older adults."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["warm baths heart circulation", "winter heart health for seniors", "science-research"]
-primaryKeyword: "warm baths heart circulation"
-topicCluster: "science-research"
-image: ""
-relatedSlugs: ["can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors", "the-hidden-dangers-of-indoor-heating-on-blood-pressure", "does-layering-clothes-help-regulate-blood-pressure-in-cold-climates", "the-best-indoor-exercises-for-blood-pressure-control-in-winter", "blood-pressure-management-for-sedentary-seniors-in-winter-months"]
+title: The Science-Backed Benefits of Warm Baths for Heart Circulation in Seniors
+slug: the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors
+description: >-
+  Reviews research on how warm (not hot) baths improve peripheral circulation
+  and reduce blood pressure safely in older adults.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - warm baths heart circulation
+  - winter heart health for seniors
+  - science-research
+primaryKeyword: warm baths heart circulation
+topicCluster: evidence-research
+image: ''
+relatedSlugs:
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
+  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
 ---
 
 # How Warm Baths Support Heart Circulation in Seniors—What the Science Really Says

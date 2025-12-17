@@ -1,14 +1,26 @@
 ---
-title: "7 Holiday Triggers That Can Spark Holiday Heart Syndrome (And How to Avoid Them)"
-slug: "7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them"
-description: "Explore the most common holiday-specific risk factors for holiday heart syndrome and practical ways to enjoy festivities safely."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["holiday heart syndrome triggers", "holiday heart syndrome prevention", "lifestyle-modifications"]
-primaryKeyword: "holiday heart syndrome triggers"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["5-surprising-foods-that-may-trigger-holiday-heart-syndrome", "12-simple-ways-to-prevent-holiday-heart-syndrome-naturally", "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50"]
+title: >-
+  7 Holiday Triggers That Can Spark Holiday Heart Syndrome (And How to Avoid
+  Them)
+slug: 7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
+description: >-
+  Explore the most common holiday-specific risk factors for holiday heart
+  syndrome and practical ways to enjoy festivities safely.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - holiday heart syndrome triggers
+  - holiday heart syndrome prevention
+  - lifestyle-modifications
+primaryKeyword: holiday heart syndrome triggers
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
 ---
 
 # 7 Common Holiday Heart Syndrome Triggers — And How to Enjoy the Season Safely

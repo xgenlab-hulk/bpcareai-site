@@ -1,14 +1,24 @@
 ---
-title: "Can Walking After Meals Lower Blood Sugar in Older Adults?"
-slug: "can-walking-after-meals-lower-blood-sugar-in-older-adults"
-description: "See how post-meal walks improve glucose metabolism in people with type 2 diabetes over 50."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["walking after meals for blood sugar control over 50", "diabetes", "diabetes-lifestyle"]
-primaryKeyword: "walking after meals for blood sugar control over 50"
-topicCluster: "diabetes-lifestyle"
-image: ""
-relatedSlugs: ["quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "meal-timing-strategies-for-better-blood-sugar-control-after-50", "the-role-of-fiber-in-controlling-blood-sugar-after-50", "can-intermittent-fasting-help-manage-type-2-diabetes-after-60", "best-supplements-for-blood-sugar-support-after-50"]
+title: Can Walking After Meals Lower Blood Sugar in Older Adults?
+slug: can-walking-after-meals-lower-blood-sugar-in-older-adults
+description: >-
+  See how post-meal walks improve glucose metabolism in people with type 2
+  diabetes over 50.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - walking after meals for blood sugar control over 50
+  - diabetes
+  - diabetes-lifestyle
+primaryKeyword: walking after meals for blood sugar control over 50
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - meal-timing-strategies-for-better-blood-sugar-control-after-50
+  - the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - best-supplements-for-blood-sugar-support-after-50
 ---
 
 # Can Walking After Meals Help Control Blood Sugar in Adults Over 50?

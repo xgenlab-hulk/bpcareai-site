@@ -1,14 +1,25 @@
 ---
-title: "How to Manage Holiday Heart Syndrome Risk with Type 2 Diabetes"
-slug: "how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes"
-description: "Address dual challenges of glycemic control and cardiac rhythm stability during the holidays for diabetic adults over 50."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["diabetes holiday heart risk", "holiday heart syndrome prevention", "comorbidity-management"]
-primaryKeyword: "diabetes holiday heart risk"
-topicCluster: "comorbidity-management"
-image: ""
-relatedSlugs: ["how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health", "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "how-type-2-diabetes-increases-heart-disease-risk-after-50"]
+title: How to Manage Holiday Heart Syndrome Risk with Type 2 Diabetes
+slug: how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
+description: >-
+  Address dual challenges of glycemic control and cardiac rhythm stability
+  during the holidays for diabetic adults over 50.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - diabetes holiday heart risk
+  - holiday heart syndrome prevention
+  - comorbidity-management
+primaryKeyword: diabetes holiday heart risk
+topicCluster: complications-comorbidities
+image: ''
+relatedSlugs:
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - how-type-2-diabetes-increases-heart-disease-risk-after-50
 ---
 
 # Managing Your Diabetes Holiday Heart Risk After Age 50

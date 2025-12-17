@@ -1,14 +1,25 @@
 ---
-title: "5 Foods That *Raise* Blood Pressure (Even If They’re 'Low-Sodium')"
-slug: "5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium"
-description: "Identifies stealth sodium sources, hidden MSG, potassium-depleting processed foods, and artificial sweeteners that elevate BP—plus label-reading tips for newly diagnosed patients over 50."
-date: "2025-12-16"
-updated: "2025-12-16"
-tags: ["foods that raise blood pressure low-sodium", "blood pressure", "cardiac-diet-pitfalls"]
-primaryKeyword: "foods that raise blood pressure low-sodium"
-topicCluster: "cardiac-diet-pitfalls"
-image: ""
-relatedSlugs: ["hidden-salt-10-surprising-foods-that-spike-blood-pressure", "hidden-salt-surprising-foods-that-raise-blood-pressure", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "the-role-of-potassium-in-managing-blood-pressure-after-50", "top-5-winter-superfoods-that-naturally-lower-blood-pressure"]
+title: 5 Foods That *Raise* Blood Pressure (Even If They’re 'Low-Sodium')
+slug: 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
+description: >-
+  Identifies stealth sodium sources, hidden MSG, potassium-depleting processed
+  foods, and artificial sweeteners that elevate BP—plus label-reading tips for
+  newly diagnosed patients over 50.
+date: '2025-12-16'
+updated: '2025-12-16'
+tags:
+  - foods that raise blood pressure low-sodium
+  - blood pressure
+  - cardiac-diet-pitfalls
+primaryKeyword: foods that raise blood pressure low-sodium
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - hidden-salt-surprising-foods-that-raise-blood-pressure
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - the-role-of-potassium-in-managing-blood-pressure-after-50
+  - top-5-winter-superfoods-that-naturally-lower-blood-pressure
 ---
 
 # 5 Surprising Foods That Raise Blood Pressure—Even When They Seem Low-Sodium

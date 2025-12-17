@@ -11,7 +11,7 @@ tags:
   - heart disease
   - cardiovascular-risk
 primaryKeyword: type 2 diabetes and heart disease risk after 50
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50

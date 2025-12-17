@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-nutrition
 primaryKeyword: best fruits for diabetics over 50
-topicCluster: diabetes-nutrition
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s

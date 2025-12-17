@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - heart-health
 primaryKeyword: exercise and temporary blood pressure increase
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - when-to-worry-about-high-readings

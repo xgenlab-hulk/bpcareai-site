@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - hypertension-lifestyle
 primaryKeyword: chronic stress and high blood pressure aging
-topicCluster: hypertension-lifestyle
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - does-caffeine-raise-blood-pressure-after-age-60

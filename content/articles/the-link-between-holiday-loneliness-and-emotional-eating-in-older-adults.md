@@ -1,14 +1,25 @@
 ---
-title: "The Link Between Holiday Loneliness and Emotional Eating in Older Adults"
-slug: "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults"
-description: "Examine how isolation during the holidays contributes to unhealthy eating patterns in seniors and what families can do to help."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["holiday loneliness and emotional eating seniors", "healthy holiday eating for seniors", "emotional-mental-health"]
-primaryKeyword: "holiday loneliness and emotional eating seniors"
-topicCluster: "emotional-mental-health"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-social-isolation-impacts-heart-disease-risk-in-older-adults", "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity", "how-social-isolation-increases-heart-disease-risk-after-60", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food"]
+title: The Link Between Holiday Loneliness and Emotional Eating in Older Adults
+slug: the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+description: >-
+  Examine how isolation during the holidays contributes to unhealthy eating
+  patterns in seniors and what families can do to help.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - holiday loneliness and emotional eating seniors
+  - healthy holiday eating for seniors
+  - emotional-mental-health
+primaryKeyword: holiday loneliness and emotional eating seniors
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - how-social-isolation-increases-heart-disease-risk-after-60
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 
 # Understanding Holiday Loneliness and Emotional Eating in Seniors

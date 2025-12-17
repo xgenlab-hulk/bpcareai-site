@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - hypertension-lifestyle
 primaryKeyword: deep breathing exercises to lower blood pressure
-topicCluster: hypertension-lifestyle
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-deep-breathing-exercises-lower-heart-disease-risk

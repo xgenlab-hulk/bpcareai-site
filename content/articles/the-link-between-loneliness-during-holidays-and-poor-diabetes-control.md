@@ -1,14 +1,26 @@
 ---
-title: "The Link Between Loneliness During Holidays and Poor Diabetes Control"
-slug: "the-link-between-loneliness-during-holidays-and-poor-diabetes-control"
-description: "Explore how seasonal isolation affects motivation, eating habits, and blood sugar in older adults with diabetes."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["holiday loneliness diabetes control", "holiday diabetes management", "mental-health-behavioral-links"]
-primaryKeyword: "holiday loneliness diabetes control"
-topicCluster: "mental-health-behavioral-links"
-image: ""
-relatedSlugs: ["the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity", "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "best-blood-sugar-monitoring-practices-during-the-holiday-season"]
+title: The Link Between Loneliness During Holidays and Poor Diabetes Control
+slug: the-link-between-loneliness-during-holidays-and-poor-diabetes-control
+description: >-
+  Explore how seasonal isolation affects motivation, eating habits, and blood
+  sugar in older adults with diabetes.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - holiday loneliness diabetes control
+  - holiday diabetes management
+  - mental-health-behavioral-links
+primaryKeyword: holiday loneliness diabetes control
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # How Holiday Loneliness Affects Diabetes Control in Older Adults

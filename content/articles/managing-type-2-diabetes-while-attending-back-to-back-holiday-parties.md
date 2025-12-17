@@ -1,14 +1,24 @@
 ---
-title: "Managing Type 2 Diabetes While Attending Back-to-Back Holiday Parties"
-slug: "managing-type-2-diabetes-while-attending-back-to-back-holiday-parties"
-description: "Actionable tips for navigating multiple social events without compromising glycemic control during peak season."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["managing diabetes at holiday parties", "holiday diabetes management", "social-situation-management"]
-primaryKeyword: "managing diabetes at holiday parties"
-topicCluster: "social-situation-management"
-image: ""
-relatedSlugs: ["how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes", "how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes", "best-blood-sugar-monitoring-practices-during-the-holiday-season", "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide"]
+title: Managing Type 2 Diabetes While Attending Back-to-Back Holiday Parties
+slug: managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
+description: >-
+  Actionable tips for navigating multiple social events without compromising
+  glycemic control during peak season.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - managing diabetes at holiday parties
+  - holiday diabetes management
+  - social-situation-management
+primaryKeyword: managing diabetes at holiday parties
+topicCluster: social-environmental
+image: ''
+relatedSlugs:
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 ---
 
 # Navigating Holiday Gatherings with Confidence: Practical Strategies for Managing Diabetes at Holiday Parties

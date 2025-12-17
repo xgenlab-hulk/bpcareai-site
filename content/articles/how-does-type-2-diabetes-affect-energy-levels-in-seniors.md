@@ -1,14 +1,24 @@
 ---
-title: "How Does Type 2 Diabetes Affect Energy Levels in Seniors?"
-slug: "how-does-type-2-diabetes-affect-energy-levels-in-seniors"
-description: "Learn why diabetes causes fatigue in older adults and what can be done to boost energy naturally."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["diabetes fatigue in seniors", "diabetes", "diabetes-symptoms"]
-primaryKeyword: "diabetes fatigue in seniors"
-topicCluster: "diabetes-symptoms"
-image: ""
-relatedSlugs: ["managing-diabetes-while-traveling-tips-for-seniors", "can-intermittent-fasting-help-manage-type-2-diabetes-after-60", "the-link-between-diabetes-and-slow-healing-in-older-adults", "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s", "diabetes-and-vision-changes-what-seniors-need-to-know"]
+title: How Does Type 2 Diabetes Affect Energy Levels in Seniors?
+slug: how-does-type-2-diabetes-affect-energy-levels-in-seniors
+description: >-
+  Learn why diabetes causes fatigue in older adults and what can be done to
+  boost energy naturally.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - diabetes fatigue in seniors
+  - diabetes
+  - diabetes-symptoms
+primaryKeyword: diabetes fatigue in seniors
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
+  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - diabetes-and-vision-changes-what-seniors-need-to-know
 ---
 
 # Understanding Diabetes Fatigue in Seniors: Causes, Clues, and Natural Energy Support

@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-nutrition
 primaryKeyword: meal timing for blood sugar control over 50
-topicCluster: diabetes-nutrition
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

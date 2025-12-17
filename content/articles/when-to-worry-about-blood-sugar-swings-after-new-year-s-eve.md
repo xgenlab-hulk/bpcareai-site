@@ -1,14 +1,24 @@
 ---
-title: "When to Worry About Blood Sugar Swings After New Year’s Eve"
-slug: "when-to-worry-about-blood-sugar-swings-after-new-year-s-eve"
-description: "Clear red flags indicating when post-holiday glucose fluctuations require medical attention, not just diet tweaks."
-date: "2025-12-17"
-updated: "2025-12-17"
-tags: ["when to worry about blood sugar spikes", "managing blood sugar during Christmas and New Year", "emergency-symptoms"]
-primaryKeyword: "when to worry about blood sugar spikes"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "when-to-worry-about-palpitations-after-christmas-dinner", "best-blood-sugar-monitoring-practices-during-the-holiday-season"]
+title: When to Worry About Blood Sugar Swings After New Year’s Eve
+slug: when-to-worry-about-blood-sugar-swings-after-new-year-s-eve
+description: >-
+  Clear red flags indicating when post-holiday glucose fluctuations require
+  medical attention, not just diet tweaks.
+date: '2025-12-17'
+updated: '2025-12-17'
+tags:
+  - when to worry about blood sugar spikes
+  - managing blood sugar during Christmas and New Year
+  - emergency-symptoms
+primaryKeyword: when to worry about blood sugar spikes
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - 7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - when-to-worry-about-palpitations-after-christmas-dinner
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # When to Worry About Blood Sugar Spikes After New Year’s Eve — A Gentle Guide for Adults 50+

@@ -1,14 +1,24 @@
 ---
-title: "How Holiday Travel Impacts Blood Sugar in Seniors with Diabetes"
-slug: "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes"
-description: "Explore how disrupted routines during holiday travel can affect glucose levels in older adults and what proactive steps can help maintain stability."
-date: "2025-12-17"
-updated: "2025-12-17"
-tags: ["holiday travel blood sugar seniors", "managing blood sugar during Christmas and New Year", "lifestyle-modification-during-travel"]
-primaryKeyword: "holiday travel blood sugar seniors"
-topicCluster: "lifestyle-modification-during-travel"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide", "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "managing-diabetes-while-traveling-tips-for-seniors"]
+title: How Holiday Travel Impacts Blood Sugar in Seniors with Diabetes
+slug: how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+description: >-
+  Explore how disrupted routines during holiday travel can affect glucose levels
+  in older adults and what proactive steps can help maintain stability.
+date: '2025-12-17'
+updated: '2025-12-17'
+tags:
+  - holiday travel blood sugar seniors
+  - managing blood sugar during Christmas and New Year
+  - lifestyle-modification-during-travel
+primaryKeyword: holiday travel blood sugar seniors
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - managing-diabetes-while-traveling-tips-for-seniors
 ---
 
 # How Holiday Travel Affects Blood Sugar in Seniors with Diabetes — Practical Tips for Stable Glucose Levels

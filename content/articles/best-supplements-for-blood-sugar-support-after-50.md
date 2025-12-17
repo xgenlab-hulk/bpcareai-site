@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-nutrition
 primaryKeyword: blood sugar supplements for adults over 50
-topicCluster: diabetes-nutrition
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - best-fruits-for-diabetics-over-50-and-which-to-limit

@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-treatment
 primaryKeyword: metformin safety for elderly with diabetes
-topicCluster: diabetes-treatment
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - managing-diabetes-while-traveling-tips-for-seniors

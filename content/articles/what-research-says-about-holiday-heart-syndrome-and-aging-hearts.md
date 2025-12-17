@@ -1,14 +1,25 @@
 ---
-title: "What Research Says About Holiday Heart Syndrome and Aging Hearts"
-slug: "what-research-says-about-holiday-heart-syndrome-and-aging-hearts"
-description: "Summarize recent studies on age-related changes in cardiac conduction and recovery after transient alcohol-induced arrhythmias."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["research holiday heart syndrome aging", "holiday heart syndrome prevention", "scientific-evidence"]
-primaryKeyword: "research holiday heart syndrome aging"
-topicCluster: "scientific-evidence"
-image: ""
-relatedSlugs: ["the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults", "why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55"]
+title: What Research Says About Holiday Heart Syndrome and Aging Hearts
+slug: what-research-says-about-holiday-heart-syndrome-and-aging-hearts
+description: >-
+  Summarize recent studies on age-related changes in cardiac conduction and
+  recovery after transient alcohol-induced arrhythmias.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - research holiday heart syndrome aging
+  - holiday heart syndrome prevention
+  - scientific-evidence
+primaryKeyword: research holiday heart syndrome aging
+topicCluster: evidence-research
+image: ''
+relatedSlugs:
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
 ---
 
 # What the Latest Research Holiday Heart Syndrome Aging Tells Us About Heart Health After 50

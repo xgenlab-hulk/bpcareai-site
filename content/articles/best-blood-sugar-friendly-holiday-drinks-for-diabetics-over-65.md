@@ -11,7 +11,7 @@ tags:
   - managing blood sugar during Christmas and New Year
   - diabetic-diet-beverages
 primaryKeyword: diabetic-friendly holiday drinks over 65
-topicCluster: diabetic-diet-beverages
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70

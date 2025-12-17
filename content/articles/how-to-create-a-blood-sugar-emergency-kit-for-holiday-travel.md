@@ -1,14 +1,23 @@
 ---
-title: "How to Create a Blood Sugar Emergency Kit for Holiday Travel"
-slug: "how-to-create-a-blood-sugar-emergency-kit-for-holiday-travel"
-description: "A checklist for preparing a portable kit with supplies and instructions for managing hypo- or hyperglycemia while away from home."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["blood sugar emergency kit travel", "managing blood sugar during Christmas and New Year", "emergency-preparedness"]
-primaryKeyword: "blood sugar emergency kit travel"
-topicCluster: "emergency-preparedness"
-image: ""
-relatedSlugs: ["best-blood-sugar-monitoring-practices-during-the-holiday-season", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose"]
+title: How to Create a Blood Sugar Emergency Kit for Holiday Travel
+slug: how-to-create-a-blood-sugar-emergency-kit-for-holiday-travel
+description: >-
+  A checklist for preparing a portable kit with supplies and instructions for
+  managing hypo- or hyperglycemia while away from home.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - blood sugar emergency kit travel
+  - managing blood sugar during Christmas and New Year
+  - emergency-preparedness
+primaryKeyword: blood sugar emergency kit travel
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # How to Prepare a Blood Sugar Emergency Kit for Travel During the Holidays

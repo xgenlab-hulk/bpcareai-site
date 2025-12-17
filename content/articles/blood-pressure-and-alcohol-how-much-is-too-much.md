@@ -1,14 +1,25 @@
 ---
-title: "Blood Pressure and Alcohol: How Much Is Too Much?"
-slug: "blood-pressure-and-alcohol-how-much-is-too-much"
-description: "Get clear guidelines on alcohol consumption and its direct impact on blood pressure for middle-aged and older adults."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["alcohol and blood pressure limits", "blood pressure", "hypertension-lifestyle"]
-primaryKeyword: "alcohol and blood pressure limits"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["can-drinking-too-much-water-raise-blood-pressure", "does-caffeine-raise-blood-pressure-after-age-60", "blood-pressure-and-kidney-health-what-seniors-need-to-know", "how-often-should-adults-over-50-check-their-blood-pressure", "what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays"]
+title: 'Blood Pressure and Alcohol: How Much Is Too Much?'
+slug: blood-pressure-and-alcohol-how-much-is-too-much
+description: >-
+  Get clear guidelines on alcohol consumption and its direct impact on blood
+  pressure for middle-aged and older adults.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - alcohol and blood pressure limits
+  - blood pressure
+  - hypertension-lifestyle
+primaryKeyword: alcohol and blood pressure limits
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - can-drinking-too-much-water-raise-blood-pressure
+  - does-caffeine-raise-blood-pressure-after-age-60
+  - blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - how-often-should-adults-over-50-check-their-blood-pressure
+  - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
 ---
 
 # Understanding Alcohol and Blood Pressure Limits: What Middle-Aged and Older Adults Need to Know

@@ -1,14 +1,24 @@
 ---
-title: "How Indoor Air Quality Affects Heart Health in Winter"
-slug: "how-indoor-air-quality-affects-heart-health-in-winter"
-description: "Reveals how poor ventilation, dry air, and indoor pollutants during winter can impact blood pressure in older adults."
-date: "2025-12-07"
-updated: "2025-12-07"
-tags: ["indoor air quality heart health", "senior blood pressure control in winter", "environmental-factors"]
-primaryKeyword: "indoor air quality heart health"
-topicCluster: "environmental-factors"
-image: ""
-relatedSlugs: ["the-hidden-dangers-of-indoor-heating-on-blood-pressure", "the-best-indoor-exercises-for-blood-pressure-control-in-winter", "how-vitamin-d-deficiency-impacts-heart-health-in-winter", "how-air-pollution-impacts-heart-health-in-older-adults", "how-winter-depression-affects-heart-health-in-retired-adults"]
+title: How Indoor Air Quality Affects Heart Health in Winter
+slug: how-indoor-air-quality-affects-heart-health-in-winter
+description: >-
+  Reveals how poor ventilation, dry air, and indoor pollutants during winter can
+  impact blood pressure in older adults.
+date: '2025-12-07'
+updated: '2025-12-07'
+tags:
+  - indoor air quality heart health
+  - senior blood pressure control in winter
+  - environmental-factors
+primaryKeyword: indoor air quality heart health
+topicCluster: social-environmental
+image: ''
+relatedSlugs:
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - how-air-pollution-impacts-heart-health-in-older-adults
+  - how-winter-depression-affects-heart-health-in-retired-adults
 ---
 
 # How Indoor Air Quality Impacts Heart Health in Winter—Especially After Age 50

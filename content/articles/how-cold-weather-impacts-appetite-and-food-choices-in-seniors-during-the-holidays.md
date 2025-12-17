@@ -1,14 +1,28 @@
 ---
-title: "How Cold Weather Impacts Appetite and Food Choices in Seniors During the Holidays"
-slug: "how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays"
-description: "Understand how seasonal temperature shifts influence hunger cues and cravings for heavier foods—and how to eat mindfully despite it."
-date: "2025-12-01"
-updated: "2025-12-01"
-tags: ["cold weather appetite changes seniors", "healthy holiday eating for seniors", "seasonal-factors"]
-primaryKeyword: "cold weather appetite changes seniors"
-topicCluster: "seasonal-factors"
-image: ""
-relatedSlugs: ["how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity", "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "how-does-cold-weather-affect-blood-pressure-in-older-adults"]
+title: >-
+  How Cold Weather Impacts Appetite and Food Choices in Seniors During the
+  Holidays
+slug: >-
+  how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
+description: >-
+  Understand how seasonal temperature shifts influence hunger cues and cravings
+  for heavier foods—and how to eat mindfully despite it.
+date: '2025-12-01'
+updated: '2025-12-01'
+tags:
+  - cold weather appetite changes seniors
+  - healthy holiday eating for seniors
+  - seasonal-factors
+primaryKeyword: cold weather appetite changes seniors
+topicCluster: seasonal-health
+image: ''
+relatedSlugs:
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
 ---
 
 # How Cold Weather Affects Appetite and Food Choices in Seniors

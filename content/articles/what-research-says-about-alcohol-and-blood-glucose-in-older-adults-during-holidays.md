@@ -1,14 +1,27 @@
 ---
-title: "What Research Says About Alcohol and Blood Glucose in Older Adults During Holidays"
-slug: "what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays"
-description: "Reviews clinical studies on how different types of holiday drinks affect blood sugar and hypoglycemia risk in seniors with diabetes."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["research on alcohol and blood sugar", "managing blood sugar during Christmas and New Year", "scientific-evidence"]
-primaryKeyword: "research on alcohol and blood sugar"
-topicCluster: "scientific-evidence"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope"]
+title: >-
+  What Research Says About Alcohol and Blood Glucose in Older Adults During
+  Holidays
+slug: >-
+  what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+description: >-
+  Reviews clinical studies on how different types of holiday drinks affect blood
+  sugar and hypoglycemia risk in seniors with diabetes.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - research on alcohol and blood sugar
+  - managing blood sugar during Christmas and New Year
+  - scientific-evidence
+primaryKeyword: research on alcohol and blood sugar
+topicCluster: evidence-research
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
 ---
 
 # What the Latest Research on Alcohol and Blood Sugar Tells Us for Older Adults During the Holidays

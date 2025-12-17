@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - blood-pressure-basics
 primaryKeyword: home blood pressure vs doctor office reading
-topicCluster: blood-pressure-basics
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - when-to-worry-about-high-readings

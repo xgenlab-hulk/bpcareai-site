@@ -1,14 +1,26 @@
 ---
-title: "5 Mindful Eating Techniques to Prevent Overeating at Family Dinners"
-slug: "5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners"
-description: "Teaches practices like pacing, portion awareness, and sensory focus to help older adults eat intuitively during festive meals."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["mindful eating at gatherings", "healthy eating during family gatherings", "eating-behavior"]
-primaryKeyword: "mindful eating at gatherings"
-topicCluster: "eating-behavior"
-image: ""
-relatedSlugs: ["how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar", "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults", "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors"]
+title: 5 Mindful Eating Techniques to Prevent Overeating at Family Dinners
+slug: 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
+description: >-
+  Teaches practices like pacing, portion awareness, and sensory focus to help
+  older adults eat intuitively during festive meals.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - mindful eating at gatherings
+  - healthy eating during family gatherings
+  - eating-behavior
+primaryKeyword: mindful eating at gatherings
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # 5 Simple Mindful Eating at Gatherings Tips to Enjoy Family Meals Without Overdoing It

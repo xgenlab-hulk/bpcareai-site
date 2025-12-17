@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - behavioral-change
 primaryKeyword: family resistance to healthy eating
-topicCluster: behavioral-change
+topicCluster: lifestyle-changes
 image: ''
 relatedSlugs:
   - >-

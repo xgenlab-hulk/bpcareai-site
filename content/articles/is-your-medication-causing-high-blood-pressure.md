@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - blood-pressure-basics
 primaryKeyword: medications that raise blood pressure
-topicCluster: blood-pressure-basics
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure

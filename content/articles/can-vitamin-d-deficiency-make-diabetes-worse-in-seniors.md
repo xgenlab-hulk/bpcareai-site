@@ -1,14 +1,24 @@
 ---
-title: "Can Vitamin D Deficiency Make Diabetes Worse in Seniors?"
-slug: "can-vitamin-d-deficiency-make-diabetes-worse-in-seniors"
-description: "Investigate the connection between low vitamin D levels and poor glycemic control in older adults."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["vitamin D deficiency and diabetes progression in elderly", "diabetes", "diabetes-nutrition"]
-primaryKeyword: "vitamin D deficiency and diabetes progression in elderly"
-topicCluster: "diabetes-nutrition"
-image: ""
-relatedSlugs: ["can-vitamin-d-deficiency-increase-your-risk-of-heart-disease", "how-vitamin-d-deficiency-impacts-heart-health-in-winter", "how-gum-disease-is-linked-to-diabetes-complications-in-older-adults", "the-link-between-diabetes-and-slow-healing-in-older-adults", "diabetes-and-vision-changes-what-seniors-need-to-know"]
+title: Can Vitamin D Deficiency Make Diabetes Worse in Seniors?
+slug: can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
+description: >-
+  Investigate the connection between low vitamin D levels and poor glycemic
+  control in older adults.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - vitamin D deficiency and diabetes progression in elderly
+  - diabetes
+  - diabetes-nutrition
+primaryKeyword: vitamin D deficiency and diabetes progression in elderly
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
+  - diabetes-and-vision-changes-what-seniors-need-to-know
 ---
 
 # Can Vitamin D Deficiency and Diabetes Progression in Elderly Be Linked?

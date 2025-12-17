@@ -1,14 +1,26 @@
 ---
-title: "How to Navigate the Holiday Buffet Without Sabotaging Your Health Goals"
-slug: "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals"
-description: "Practical strategies for making mindful food choices at all-you-can-eat family meals, especially for older adults managing chronic conditions."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["holiday buffet healthy eating tips", "healthy eating during family gatherings", "lifestyle-modification"]
-primaryKeyword: "holiday buffet healthy eating tips"
-topicCluster: "lifestyle-modification"
-image: ""
-relatedSlugs: ["how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners", "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors"]
+title: How to Navigate the Holiday Buffet Without Sabotaging Your Health Goals
+slug: how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+description: >-
+  Practical strategies for making mindful food choices at all-you-can-eat family
+  meals, especially for older adults managing chronic conditions.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - holiday buffet healthy eating tips
+  - healthy eating during family gatherings
+  - lifestyle-modification
+primaryKeyword: holiday buffet healthy eating tips
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # Smart Holiday Buffet Choices: Practical Holiday Buffet Healthy Eating Tips for Adults 50+

@@ -11,7 +11,7 @@ tags:
   - senior blood pressure control in winter
   - treatment-options
 primaryKeyword: seasonal blood pressure goals
-topicCluster: treatment-options
+topicCluster: medications-supplements
 image: ''
 relatedSlugs:
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know

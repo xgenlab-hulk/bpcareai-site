@@ -1,14 +1,24 @@
 ---
-title: "How to Manage Diabetes During Holiday Travel: A Senior’s Guide"
-slug: "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide"
-description: "Practical strategies for maintaining stable blood sugar while navigating airports, time zones, and irregular schedules during seasonal trips."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["diabetes management during travel", "holiday diabetes management", "lifestyle-modifications-scenarios"]
-primaryKeyword: "diabetes management during travel"
-topicCluster: "lifestyle-modifications-scenarios"
-image: ""
-relatedSlugs: ["managing-diabetes-while-traveling-tips-for-seniors", "best-blood-sugar-monitoring-practices-during-the-holiday-season", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control"]
+title: 'How to Manage Diabetes During Holiday Travel: A Senior’s Guide'
+slug: how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+description: >-
+  Practical strategies for maintaining stable blood sugar while navigating
+  airports, time zones, and irregular schedules during seasonal trips.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - diabetes management during travel
+  - holiday diabetes management
+  - lifestyle-modifications-scenarios
+primaryKeyword: diabetes management during travel
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
 ---
 
 # Smart Diabetes Management During Travel: A Calm, Confident Guide for Seniors

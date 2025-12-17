@@ -1,14 +1,22 @@
 ---
-title: "How Belly Fat Increases Blood Pressure Risk After Middle Age"
-slug: "how-belly-fat-increases-blood-pressure-risk-after-middle-age"
-description: "Discover the connection between abdominal obesity and hypertension, and how losing belly fat helps."
-date: "2025-12-01"
-updated: "2025-12-01"
-tags: ["belly fat and high blood pressure link", "blood pressure", "hypertension-lifestyle"]
-primaryKeyword: "belly fat and high blood pressure link"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["the-link-between-sleep-apnea-and-high-blood-pressure-after-50", "how-obesity-contributes-to-heart-disease-in-middle-age", "the-link-between-sleep-apnea-and-high-blood-pressure"]
+title: How Belly Fat Increases Blood Pressure Risk After Middle Age
+slug: how-belly-fat-increases-blood-pressure-risk-after-middle-age
+description: >-
+  Discover the connection between abdominal obesity and hypertension, and how
+  losing belly fat helps.
+date: '2025-12-01'
+updated: '2025-12-01'
+tags:
+  - belly fat and high blood pressure link
+  - blood pressure
+  - hypertension-lifestyle
+primaryKeyword: belly fat and high blood pressure link
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - how-obesity-contributes-to-heart-disease-in-middle-age
+  - the-link-between-sleep-apnea-and-high-blood-pressure
 ---
 
 # How Belly Fat and High Blood Pressure Are Linked After 50

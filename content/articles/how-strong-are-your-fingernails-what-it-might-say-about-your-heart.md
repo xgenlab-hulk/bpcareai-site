@@ -1,14 +1,24 @@
 ---
-title: "How Strong Are Your Fingernails? What It Might Say About Your Heart"
-slug: "how-strong-are-your-fingernails-what-it-might-say-about-your-heart"
-description: "Uncover the surprising link between nail health and potential cardiovascular issues in older adults."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["fingernail health and heart disease signs", "heart health", "heart-health"]
-primaryKeyword: "fingernail health and heart disease signs"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["the-hidden-link-between-gum-disease-and-heart-problems", "the-connection-between-frequent-urination-at-night-and-heart-health", "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease", "how-social-isolation-impacts-heart-disease-risk-in-older-adults", "how-vitamin-d-deficiency-impacts-heart-health-in-winter"]
+title: How Strong Are Your Fingernails? What It Might Say About Your Heart
+slug: how-strong-are-your-fingernails-what-it-might-say-about-your-heart
+description: >-
+  Uncover the surprising link between nail health and potential cardiovascular
+  issues in older adults.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - fingernail health and heart disease signs
+  - heart health
+  - heart-health
+primaryKeyword: fingernail health and heart disease signs
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - the-connection-between-frequent-urination-at-night-and-heart-health
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
 ---
 
 # What Your Fingernail Health and Heart Disease Signs Can Reveal

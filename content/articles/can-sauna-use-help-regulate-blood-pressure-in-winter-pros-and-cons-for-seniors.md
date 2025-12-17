@@ -1,14 +1,26 @@
 ---
-title: "Can Sauna Use Help Regulate Blood Pressure in Winter? Pros and Cons for Seniors"
-slug: "can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors"
-description: "Evaluates the cardiovascular effects of sauna therapy as a potential winter wellness tool for older adults with hypertension."
-date: "2025-12-07"
-updated: "2025-12-07"
-tags: ["sauna and blood pressure", "senior blood pressure control in winter", "alternative-therapies"]
-primaryKeyword: "sauna and blood pressure"
-topicCluster: "alternative-therapies"
-image: ""
-relatedSlugs: ["blood-pressure-management-for-sedentary-seniors-in-winter-months", "the-best-indoor-exercises-for-blood-pressure-control-in-winter", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "the-hidden-dangers-of-indoor-heating-on-blood-pressure"]
+title: >-
+  Can Sauna Use Help Regulate Blood Pressure in Winter? Pros and Cons for
+  Seniors
+slug: can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+description: >-
+  Evaluates the cardiovascular effects of sauna therapy as a potential winter
+  wellness tool for older adults with hypertension.
+date: '2025-12-07'
+updated: '2025-12-07'
+tags:
+  - sauna and blood pressure
+  - senior blood pressure control in winter
+  - alternative-therapies
+primaryKeyword: sauna and blood pressure
+topicCluster: treatment-interventions
+image: ''
+relatedSlugs:
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
 ---
 
 # Can Sauna Therapy Support Blood Pressure Regulation in Winter? What Seniors Should Know

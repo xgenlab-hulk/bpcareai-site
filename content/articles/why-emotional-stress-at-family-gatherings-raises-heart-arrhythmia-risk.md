@@ -1,14 +1,24 @@
 ---
-title: "Why Emotional Stress at Family Gatherings Raises Heart Arrhythmia Risk"
-slug: "why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk"
-description: "Examines the connection between intense family dynamics during holidays and sudden cardiac rhythm disturbances in midlife and older adults."
-date: "2025-12-12"
-updated: "2025-12-12"
-tags: ["emotional stress and heart arrhythmia", "holiday heart syndrome prevention", "mental-emotional-health"]
-primaryKeyword: "emotional stress and heart arrhythmia"
-topicCluster: "mental-emotional-health"
-image: ""
-relatedSlugs: ["the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "how-family-gatherings-can-unintentionally-raise-heart-attack-risk", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults"]
+title: Why Emotional Stress at Family Gatherings Raises Heart Arrhythmia Risk
+slug: why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
+description: >-
+  Examines the connection between intense family dynamics during holidays and
+  sudden cardiac rhythm disturbances in midlife and older adults.
+date: '2025-12-12'
+updated: '2025-12-12'
+tags:
+  - emotional stress and heart arrhythmia
+  - holiday heart syndrome prevention
+  - mental-emotional-health
+primaryKeyword: emotional stress and heart arrhythmia
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - how-family-gatherings-can-unintentionally-raise-heart-attack-risk
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 
 # How Emotional Stress and Heart Arrhythmia Are Linked During Family Gatherings

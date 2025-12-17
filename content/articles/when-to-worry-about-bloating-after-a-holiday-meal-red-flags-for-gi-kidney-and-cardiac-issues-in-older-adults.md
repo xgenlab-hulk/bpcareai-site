@@ -16,7 +16,7 @@ tags:
   - healthy eating during family gatherings
   - emergency-symptoms-gi-cardiac
 primaryKeyword: bloating after holiday meal warning signs
-topicCluster: emergency-symptoms-gi-cardiac
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal

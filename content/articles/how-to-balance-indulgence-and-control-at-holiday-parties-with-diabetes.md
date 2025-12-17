@@ -1,14 +1,26 @@
 ---
-title: "How to Balance Indulgence and Control at Holiday Parties with Diabetes"
-slug: "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes"
-description: "Practical strategies for enjoying festive gatherings while keeping blood sugar levels in check, especially for adults over 50 managing type 2 diabetes."
-date: "2025-12-07"
-updated: "2025-12-07"
-tags: ["diabetes holiday party tips", "managing blood sugar during Christmas and New Year", "lifestyle-modifications"]
-primaryKeyword: "diabetes holiday party tips"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"]
+title: How to Balance Indulgence and Control at Holiday Parties with Diabetes
+slug: how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+description: >-
+  Practical strategies for enjoying festive gatherings while keeping blood sugar
+  levels in check, especially for adults over 50 managing type 2 diabetes.
+date: '2025-12-07'
+updated: '2025-12-07'
+tags:
+  - diabetes holiday party tips
+  - managing blood sugar during Christmas and New Year
+  - lifestyle-modifications
+primaryKeyword: diabetes holiday party tips
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # Smart Diabetes Holiday Party Tips for Adults Over 50

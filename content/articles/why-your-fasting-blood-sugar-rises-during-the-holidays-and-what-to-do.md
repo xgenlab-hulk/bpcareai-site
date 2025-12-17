@@ -11,7 +11,7 @@ tags:
   - managing blood sugar during Christmas and New Year
   - causes-risk-factors
 primaryKeyword: high fasting blood sugar holidays
-topicCluster: causes-risk-factors
+topicCluster: risk-factors
 image: ''
 relatedSlugs:
   - how-cold-weather-affects-blood-sugar-in-people-with-diabetes

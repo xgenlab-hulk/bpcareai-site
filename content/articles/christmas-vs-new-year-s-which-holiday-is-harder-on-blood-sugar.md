@@ -1,14 +1,24 @@
 ---
-title: "Christmas vs. New Year’s: Which Holiday Is Harder on Blood Sugar?"
-slug: "christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar"
-description: "Compares the dietary, social, and emotional demands of both holidays and their unique impact on glucose control in diabetics over 50."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["christmas vs new year blood sugar", "managing blood sugar during Christmas and New Year", "comparative-analysis"]
-primaryKeyword: "christmas vs new year blood sugar"
-topicCluster: "comparative-analysis"
-image: ""
-relatedSlugs: ["does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "why-emotional-eating-during-christmas-raises-blood-sugar-after-50", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes"]
+title: 'Christmas vs. New Year’s: Which Holiday Is Harder on Blood Sugar?'
+slug: christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
+description: >-
+  Compares the dietary, social, and emotional demands of both holidays and their
+  unique impact on glucose control in diabetics over 50.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - christmas vs new year blood sugar
+  - managing blood sugar during Christmas and New Year
+  - comparative-analysis
+primaryKeyword: christmas vs new year blood sugar
+topicCluster: evidence-research
+image: ''
+relatedSlugs:
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - why-emotional-eating-during-christmas-raises-blood-sugar-after-50
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # Christmas vs. New Year’s: Which Holiday Poses Greater Challenges for Blood Sugar Control?

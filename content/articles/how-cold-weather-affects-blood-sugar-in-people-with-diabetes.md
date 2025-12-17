@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-environmental-factors
 primaryKeyword: cold weather and blood sugar changes in diabetics
-topicCluster: diabetes-environmental-factors
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes

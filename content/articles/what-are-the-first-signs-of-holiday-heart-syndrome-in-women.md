@@ -1,14 +1,24 @@
 ---
-title: "What Are the First Signs of Holiday Heart Syndrome in Women?"
-slug: "what-are-the-first-signs-of-holiday-heart-syndrome-in-women"
-description: "Highlight subtle, often-missed symptoms like fatigue and shortness of breath that may indicate arrhythmia in women over 50."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["holiday heart syndrome symptoms women", "holiday heart syndrome prevention", "warning-signs"]
-primaryKeyword: "holiday heart syndrome symptoms women"
-topicCluster: "warning-signs"
-image: ""
-relatedSlugs: ["heart-disease-symptoms-in-women-over-50-what-s-often-missed", "why-arm-pain-shouldn-t-be-ignored-in-women-over-50", "heart-disease-warning-signs-that-appear-years-in-advance", "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat"]
+title: What Are the First Signs of Holiday Heart Syndrome in Women?
+slug: what-are-the-first-signs-of-holiday-heart-syndrome-in-women
+description: >-
+  Highlight subtle, often-missed symptoms like fatigue and shortness of breath
+  that may indicate arrhythmia in women over 50.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - holiday heart syndrome symptoms women
+  - holiday heart syndrome prevention
+  - warning-signs
+primaryKeyword: holiday heart syndrome symptoms women
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
+  - heart-disease-warning-signs-that-appear-years-in-advance
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 
 # Recognizing Holiday Heart Syndrome Symptoms in Women Over 50

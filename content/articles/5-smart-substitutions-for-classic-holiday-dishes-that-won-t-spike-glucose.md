@@ -11,7 +11,7 @@ tags:
   - holiday diabetes management
   - diabetic-diet-cooking
 primaryKeyword: low-sugar holiday recipe swaps
-topicCluster: diabetic-diet-cooking
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

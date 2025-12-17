@@ -11,7 +11,7 @@ tags:
   - winter heart health for seniors
   - seasonal-risk-factors
 primaryKeyword: winter heart attack risk seniors
-topicCluster: seasonal-risk-factors
+topicCluster: seasonal-health
 image: ''
 relatedSlugs:
   - how-does-cold-weather-affect-blood-pressure-in-older-adults

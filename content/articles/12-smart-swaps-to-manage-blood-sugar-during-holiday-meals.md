@@ -1,14 +1,24 @@
 ---
-title: "12 Smart Swaps to Manage Blood Sugar During Holiday Meals"
-slug: "12-smart-swaps-to-manage-blood-sugar-during-holiday-meals"
-description: "Discover easy ingredient substitutions for traditional Christmas and New Year dishes that help stabilize blood glucose without sacrificing flavor."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["holiday blood sugar swaps", "managing blood sugar during Christmas and New Year", "diabetic-diet"]
-primaryKeyword: "holiday blood sugar swaps"
-topicCluster: "diabetic-diet"
-image: ""
-relatedSlugs: ["5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "best-blood-sugar-monitoring-practices-during-the-holiday-season", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do"]
+title: 12 Smart Swaps to Manage Blood Sugar During Holiday Meals
+slug: 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
+description: >-
+  Discover easy ingredient substitutions for traditional Christmas and New Year
+  dishes that help stabilize blood glucose without sacrificing flavor.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - holiday blood sugar swaps
+  - managing blood sugar during Christmas and New Year
+  - diabetic-diet
+primaryKeyword: holiday blood sugar swaps
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 ---
 
 # 12 Smart Holiday Blood Sugar Swaps for Healthier Celebrations

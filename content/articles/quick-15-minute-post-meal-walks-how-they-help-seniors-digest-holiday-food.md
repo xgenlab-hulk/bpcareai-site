@@ -11,7 +11,7 @@ tags:
   - healthy holiday eating for seniors
   - exercise-physical-activity
 primaryKeyword: post-meal walks for seniors holiday
-topicCluster: exercise-physical-activity
+topicCluster: physical-activity
 image: ''
 relatedSlugs:
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause

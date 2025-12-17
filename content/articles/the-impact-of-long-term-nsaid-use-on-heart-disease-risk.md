@@ -11,7 +11,7 @@ tags:
   - heart disease
   - cardiovascular-risk
 primaryKeyword: long-term NSAID use and heart disease risk
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease

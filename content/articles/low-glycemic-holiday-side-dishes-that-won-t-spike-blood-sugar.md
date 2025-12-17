@@ -1,14 +1,24 @@
 ---
-title: "Low-Glycemic Holiday Side Dishes That Won’t Spike Blood Sugar"
-slug: "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar"
-description: "Recipe ideas and ingredient swaps for traditional sides like mashed potatoes, stuffing, and desserts that are diabetes-friendly."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["low-glycemic holiday side dishes", "managing blood sugar during Christmas and New Year", "diabetic-diet"]
-primaryKeyword: "low-glycemic holiday side dishes"
-topicCluster: "diabetic-diet"
-image: ""
-relatedSlugs: ["5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "12-smart-swaps-to-manage-blood-sugar-during-holiday-meals", "10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50", "7-smart-swaps-for-healthier-holiday-meals-after-65", "best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season"]
+title: Low-Glycemic Holiday Side Dishes That Won’t Spike Blood Sugar
+slug: low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+description: >-
+  Recipe ideas and ingredient swaps for traditional sides like mashed potatoes,
+  stuffing, and desserts that are diabetes-friendly.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - low-glycemic holiday side dishes
+  - managing blood sugar during Christmas and New Year
+  - diabetic-diet
+primaryKeyword: low-glycemic holiday side dishes
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
+  - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
 ---
 
 # Low-Glycemic Holiday Side Dishes That Keep Your Blood Sugar Steady

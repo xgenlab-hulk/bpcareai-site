@@ -1,14 +1,24 @@
 ---
-title: "How to Monitor Blood Sugar More Effectively During Festive Travel"
-slug: "how-to-monitor-blood-sugar-more-effectively-during-festive-travel"
-description: "Tips for maintaining consistent glucose testing routines when traveling during Christmas and New Year, including time zone and routine changes."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["monitoring blood sugar while traveling", "managing blood sugar during Christmas and New Year", "monitoring-testing"]
-primaryKeyword: "monitoring blood sugar while traveling"
-topicCluster: "monitoring-testing"
-image: ""
-relatedSlugs: ["best-blood-sugar-monitoring-practices-during-the-holiday-season", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide", "managing-diabetes-while-traveling-tips-for-seniors", "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do", "should-you-adjust-your-diabetes-medication-during-the-holidays"]
+title: How to Monitor Blood Sugar More Effectively During Festive Travel
+slug: how-to-monitor-blood-sugar-more-effectively-during-festive-travel
+description: >-
+  Tips for maintaining consistent glucose testing routines when traveling during
+  Christmas and New Year, including time zone and routine changes.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - monitoring blood sugar while traveling
+  - managing blood sugar during Christmas and New Year
+  - monitoring-testing
+primaryKeyword: monitoring blood sugar while traveling
+topicCluster: health-monitoring
+image: ''
+relatedSlugs:
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - should-you-adjust-your-diabetes-medication-during-the-holidays
 ---
 
 # Smarter Ways to Monitor Blood Sugar While Traveling During the Holidays

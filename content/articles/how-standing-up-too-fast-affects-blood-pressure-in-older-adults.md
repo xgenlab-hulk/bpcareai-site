@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - cardiovascular-risk
 primaryKeyword: standing up fast and blood pressure drop elderly
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - is-low-blood-pressure-dangerous-for-seniors

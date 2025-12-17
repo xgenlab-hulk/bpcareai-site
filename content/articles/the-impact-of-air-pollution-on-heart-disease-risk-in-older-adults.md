@@ -1,14 +1,24 @@
 ---
-title: "The Impact of Air Pollution on Heart Disease Risk in Older Adults"
-slug: "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults"
-description: "Examine how long-term exposure to polluted air affects cardiovascular health in aging populations."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["air pollution and heart disease in seniors", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "air pollution and heart disease in seniors"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["how-air-pollution-impacts-heart-health-in-older-adults", "how-indoor-air-quality-affects-heart-health-in-winter", "how-social-isolation-impacts-heart-disease-risk-in-older-adults", "the-impact-of-long-term-nsaid-use-on-heart-disease-risk", "is-your-posture-affecting-your-heart-what-older-adults-should-know"]
+title: The Impact of Air Pollution on Heart Disease Risk in Older Adults
+slug: the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
+description: >-
+  Examine how long-term exposure to polluted air affects cardiovascular health
+  in aging populations.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - air pollution and heart disease in seniors
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: air pollution and heart disease in seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - how-air-pollution-impacts-heart-health-in-older-adults
+  - how-indoor-air-quality-affects-heart-health-in-winter
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
+  - is-your-posture-affecting-your-heart-what-older-adults-should-know
 ---
 
 # How Air Pollution Affects Heart Health in Older Adults

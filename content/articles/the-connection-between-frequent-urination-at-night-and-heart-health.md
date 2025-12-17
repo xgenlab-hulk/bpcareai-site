@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: frequent urination at night and heart problems
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-frequent-urination-at-night-could-signal-heart-problems

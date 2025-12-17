@@ -1,14 +1,24 @@
 ---
-title: "The Truth About Alcohol and Heart Disease: Is One Drink a Day Safe?"
-slug: "the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe"
-description: "Weigh the pros and cons of moderate drinking on heart health for people over 50."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["alcohol consumption and heart disease after 50", "heart disease", "hypertension-lifestyle"]
-primaryKeyword: "alcohol consumption and heart disease after 50"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["the-truth-about-alcohol-and-heart-health-after-55", "can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55", "is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues", "can-heart-disease-be-reversed-with-lifestyle-changes-after-50", "the-benefits-of-eating-nuts-daily-for-heart-protection-over-50"]
+title: 'The Truth About Alcohol and Heart Disease: Is One Drink a Day Safe?'
+slug: the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
+description: >-
+  Weigh the pros and cons of moderate drinking on heart health for people over
+  50.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - alcohol consumption and heart disease after 50
+  - heart disease
+  - hypertension-lifestyle
+primaryKeyword: alcohol consumption and heart disease after 50
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - the-truth-about-alcohol-and-heart-health-after-55
+  - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
+  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
+  - can-heart-disease-be-reversed-with-lifestyle-changes-after-50
+  - the-benefits-of-eating-nuts-daily-for-heart-protection-over-50
 ---
 
 # Is Moderate Drinking Really Safe for Your Heart After 50? What the Evidence Says About Alcohol Consumption and Heart Disease After 50

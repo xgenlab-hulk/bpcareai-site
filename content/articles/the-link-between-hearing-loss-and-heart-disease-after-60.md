@@ -1,14 +1,24 @@
 ---
-title: "The Link Between Hearing Loss and Heart Disease After 60"
-slug: "the-link-between-hearing-loss-and-heart-disease-after-60"
-description: "Explore the shared vascular connections between hearing health and cardiovascular system decline."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["hearing loss and heart disease connection after 60", "heart health", "cardiovascular-risk"]
-primaryKeyword: "hearing loss and heart disease connection after 60"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["can-hearing-loss-be-an-early-sign-of-heart-disease", "how-social-isolation-increases-heart-disease-risk-after-60", "heart-disease-and-chronic-kidney-disease-the-dangerous-connection", "how-vision-changes-might-be-linked-to-heart-disease", "the-hidden-link-between-gum-disease-and-heart-problems"]
+title: The Link Between Hearing Loss and Heart Disease After 60
+slug: the-link-between-hearing-loss-and-heart-disease-after-60
+description: >-
+  Explore the shared vascular connections between hearing health and
+  cardiovascular system decline.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - hearing loss and heart disease connection after 60
+  - heart health
+  - cardiovascular-risk
+primaryKeyword: hearing loss and heart disease connection after 60
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - can-hearing-loss-be-an-early-sign-of-heart-disease
+  - how-social-isolation-increases-heart-disease-risk-after-60
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+  - how-vision-changes-might-be-linked-to-heart-disease
+  - the-hidden-link-between-gum-disease-and-heart-problems
 ---
 
 # Understanding the Hearing Loss and Heart Disease Connection After 60

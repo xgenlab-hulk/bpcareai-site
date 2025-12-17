@@ -11,7 +11,7 @@ tags:
   - heart disease
   - cardiovascular-risk
 primaryKeyword: heart disease in Hispanic adults over 50
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection

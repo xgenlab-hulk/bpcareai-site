@@ -1,14 +1,24 @@
 ---
-title: "How Sleep Deprivation During Holiday Travel Affects Heart Rhythm"
-slug: "how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm"
-description: "Investigate how disrupted circadian rhythms from travel and late-night events may trigger arrhythmias in older travelers."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["holiday travel heart rhythm", "holiday heart syndrome prevention", "lifestyle-modifications"]
-primaryKeyword: "holiday travel heart rhythm"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50", "what-research-says-about-holiday-heart-syndrome-and-aging-hearts", "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"]
+title: How Sleep Deprivation During Holiday Travel Affects Heart Rhythm
+slug: how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+description: >-
+  Investigate how disrupted circadian rhythms from travel and late-night events
+  may trigger arrhythmias in older travelers.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - holiday travel heart rhythm
+  - holiday heart syndrome prevention
+  - lifestyle-modifications
+primaryKeyword: holiday travel heart rhythm
+topicCluster: lifestyle-changes
+image: ''
+relatedSlugs:
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
+  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # How Holiday Travel Disrupts Heart Rhythm — And What You Can Do About It

@@ -1,14 +1,24 @@
 ---
-title: "How to Monitor Blood Pressure at Home During Winter: A Senior’s Guide"
-slug: "how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide"
-description: "Step-by-step instructions for accurate home monitoring with emphasis on seasonal consistency and record-keeping."
-date: "2025-12-12"
-updated: "2025-12-12"
-tags: ["home blood pressure monitoring", "senior blood pressure control in winter", "monitoring-testing"]
-primaryKeyword: "home blood pressure monitoring"
-topicCluster: "monitoring-testing"
-image: ""
-relatedSlugs: ["why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "simple-steps-to-monitor-your-heart-health-during-the-holiday-season", "the-best-indoor-exercises-for-blood-pressure-control-in-winter"]
+title: 'How to Monitor Blood Pressure at Home During Winter: A Senior’s Guide'
+slug: how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
+description: >-
+  Step-by-step instructions for accurate home monitoring with emphasis on
+  seasonal consistency and record-keeping.
+date: '2025-12-12'
+updated: '2025-12-12'
+tags:
+  - home blood pressure monitoring
+  - senior blood pressure control in winter
+  - monitoring-testing
+primaryKeyword: home blood pressure monitoring
+topicCluster: health-monitoring
+image: ''
+relatedSlugs:
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - simple-steps-to-monitor-your-heart-health-during-the-holiday-season
+  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
 ---
 
 # A Senior’s Practical Guide to Home Blood Pressure Monitoring in Winter

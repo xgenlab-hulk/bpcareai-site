@@ -11,7 +11,7 @@ tags:
   - heart health
   - cardiovascular-risk
 primaryKeyword: sedentary lifestyle and heart health after 60
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-social-isolation-increases-heart-disease-risk-after-60

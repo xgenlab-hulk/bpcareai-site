@@ -1,14 +1,24 @@
 ---
-title: "The Role of Omega-3 Fatty Acids in Preventing Heart Disease"
-slug: "the-role-of-omega-3-fatty-acids-in-preventing-heart-disease"
-description: "Understand how fish oil and omega-3s support heart health and reduce inflammation in aging individuals."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["omega-3 fatty acids for heart disease prevention", "heart disease", "hypertension-lifestyle"]
-primaryKeyword: "omega-3 fatty acids for heart disease prevention"
-topicCluster: "hypertension-lifestyle"
-image: ""
-relatedSlugs: ["the-role-of-inflammation-in-heart-disease-for-older-adults", "how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors", "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50", "can-meditation-reduce-heart-disease-risk-after-50", "the-hidden-link-between-gum-disease-and-heart-problems"]
+title: The Role of Omega-3 Fatty Acids in Preventing Heart Disease
+slug: the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
+description: >-
+  Understand how fish oil and omega-3s support heart health and reduce
+  inflammation in aging individuals.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - omega-3 fatty acids for heart disease prevention
+  - heart disease
+  - hypertension-lifestyle
+primaryKeyword: omega-3 fatty acids for heart disease prevention
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - the-role-of-inflammation-in-heart-disease-for-older-adults
+  - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - the-hidden-link-between-gum-disease-and-heart-problems
 ---
 
 # How Omega-3 Fatty Acids for Heart Disease Prevention Support a Healthier Heart as You Age

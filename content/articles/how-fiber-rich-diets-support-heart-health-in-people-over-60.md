@@ -1,14 +1,24 @@
 ---
-title: "How Fiber-Rich Diets Support Heart Health in People Over 60"
-slug: "how-fiber-rich-diets-support-heart-health-in-people-over-60"
-description: "Learn how increasing dietary fiber can improve cholesterol and reduce cardiovascular events."
-date: "2025-12-12"
-updated: "2025-12-12"
-tags: ["high fiber diet benefits for heart health over 60", "heart health", "heart-health"]
-primaryKeyword: "high fiber diet benefits for heart health over 60"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["the-role-of-fiber-in-controlling-blood-sugar-after-50", "how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors", "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50", "10-high-fiber-holiday-foods-that-support-digestion-after-50", "can-strength-training-lower-heart-disease-risk-after-60"]
+title: How Fiber-Rich Diets Support Heart Health in People Over 60
+slug: how-fiber-rich-diets-support-heart-health-in-people-over-60
+description: >-
+  Learn how increasing dietary fiber can improve cholesterol and reduce
+  cardiovascular events.
+date: '2025-12-12'
+updated: '2025-12-12'
+tags:
+  - high fiber diet benefits for heart health over 60
+  - heart health
+  - heart-health
+primaryKeyword: high fiber diet benefits for heart health over 60
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - can-strength-training-lower-heart-disease-risk-after-60
 ---
 
 # How a High-Fiber Diet Benefits Heart Health Over 60 — Gently Supporting Your Cardiovascular Well-Being

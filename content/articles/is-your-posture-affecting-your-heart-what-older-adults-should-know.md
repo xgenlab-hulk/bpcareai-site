@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: posture and heart health in seniors
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-retirement-changes-affect-heart-health

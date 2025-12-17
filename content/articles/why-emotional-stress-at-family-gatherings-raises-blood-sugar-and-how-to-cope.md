@@ -1,14 +1,24 @@
 ---
-title: "Why Emotional Stress at Family Gatherings Raises Blood Sugar (And How to Cope)"
-slug: "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope"
-description: "Understand the physiological link between holiday emotional stress and hyperglycemia in older adults with diabetes."
-date: "2025-12-05"
-updated: "2025-12-05"
-tags: ["emotional stress blood sugar diabetes", "holiday diabetes management", "mental-health-physiology"]
-primaryKeyword: "emotional stress blood sugar diabetes"
-topicCluster: "mental-health-physiology"
-image: ""
-relatedSlugs: ["how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "the-link-between-loneliness-during-holidays-and-poor-diabetes-control", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat"]
+title: Why Emotional Stress at Family Gatherings Raises Blood Sugar (And How to Cope)
+slug: why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
+description: >-
+  Understand the physiological link between holiday emotional stress and
+  hyperglycemia in older adults with diabetes.
+date: '2025-12-05'
+updated: '2025-12-05'
+tags:
+  - emotional stress blood sugar diabetes
+  - holiday diabetes management
+  - mental-health-physiology
+primaryKeyword: emotional stress blood sugar diabetes
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - the-link-between-loneliness-during-holidays-and-poor-diabetes-control
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 
 # How Emotional Stress at Family Gatherings Affects Blood Sugar in Diabetes — And What You Can Do

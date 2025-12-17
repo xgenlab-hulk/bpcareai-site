@@ -11,7 +11,7 @@ tags:
   - diabetes
   - cardiovascular-risk
 primaryKeyword: silent heart attack symptoms in elderly diabetics
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - the-link-between-diabetes-and-slow-healing-in-older-adults

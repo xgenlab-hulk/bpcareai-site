@@ -1,14 +1,25 @@
 ---
-title: "How Sleep Disruption Fuels Seasonal Mood Disorders in Adults Over 60"
-slug: "how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60"
-description: "Explain the connection between shortened daylight, melatonin imbalance, and disrupted sleep-wake cycles in older adults."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["sleep disruption and seasonal depression", "seasonal depression in older adults", "sleep-health"]
-primaryKeyword: "sleep disruption and seasonal depression"
-topicCluster: "sleep-health"
-image: ""
-relatedSlugs: ["how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults", "can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know", "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65", "the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents"]
+title: How Sleep Disruption Fuels Seasonal Mood Disorders in Adults Over 60
+slug: how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
+description: >-
+  Explain the connection between shortened daylight, melatonin imbalance, and
+  disrupted sleep-wake cycles in older adults.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - sleep disruption and seasonal depression
+  - seasonal depression in older adults
+  - sleep-health
+primaryKeyword: sleep disruption and seasonal depression
+topicCluster: sleep-rest
+image: ''
+relatedSlugs:
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
+  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
+  - >-
+    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
 ---
 
 # How Sleep Disruption and Seasonal Depression Interact in Adults Over 60

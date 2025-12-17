@@ -1,14 +1,25 @@
 ---
-title: "Managing Diabetes While Traveling: Tips for Seniors"
-slug: "managing-diabetes-while-traveling-tips-for-seniors"
-description: "Stay in control of your glucose levels while on the go with practical travel advice tailored for older adults."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["traveling with diabetes tips for seniors", "diabetes", "diabetes-lifestyle"]
-primaryKeyword: "traveling with diabetes tips for seniors"
-topicCluster: "diabetes-lifestyle"
-image: ""
-relatedSlugs: ["how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "can-intermittent-fasting-help-manage-type-2-diabetes-after-60"]
+title: 'Managing Diabetes While Traveling: Tips for Seniors'
+slug: managing-diabetes-while-traveling-tips-for-seniors
+description: >-
+  Stay in control of your glucose levels while on the go with practical travel
+  advice tailored for older adults.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - traveling with diabetes tips for seniors
+  - diabetes
+  - diabetes-lifestyle
+primaryKeyword: traveling with diabetes tips for seniors
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
 ---
 
 # Practical Traveling with Diabetes Tips for Seniors: Staying Healthy and Confident on the Go

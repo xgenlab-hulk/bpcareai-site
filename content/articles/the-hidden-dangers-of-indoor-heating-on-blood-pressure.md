@@ -1,14 +1,24 @@
 ---
-title: "The Hidden Dangers of Indoor Heating on Blood Pressure"
-slug: "the-hidden-dangers-of-indoor-heating-on-blood-pressure"
-description: "Discusses how dry indoor air and overheated rooms during winter may negatively impact circulation and blood pressure in seniors."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["indoor heating blood pressure", "winter heart health for seniors", "environmental-factors"]
-primaryKeyword: "indoor heating blood pressure"
-topicCluster: "environmental-factors"
-image: ""
-relatedSlugs: ["how-does-cold-weather-affect-blood-pressure-in-older-adults", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70", "can-cold-weather-raise-your-blood-pressure", "why-winter-increases-heart-attack-risk-in-seniors-over-70"]
+title: The Hidden Dangers of Indoor Heating on Blood Pressure
+slug: the-hidden-dangers-of-indoor-heating-on-blood-pressure
+description: >-
+  Discusses how dry indoor air and overheated rooms during winter may negatively
+  impact circulation and blood pressure in seniors.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - indoor heating blood pressure
+  - winter heart health for seniors
+  - environmental-factors
+primaryKeyword: indoor heating blood pressure
+topicCluster: social-environmental
+image: ''
+relatedSlugs:
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
+  - can-cold-weather-raise-your-blood-pressure
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
 ---
 
 # How Indoor Heating Affects Blood Pressure—And What You Can Do

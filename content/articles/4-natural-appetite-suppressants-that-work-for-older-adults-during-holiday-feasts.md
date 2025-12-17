@@ -1,14 +1,28 @@
 ---
-title: "4 Natural Appetite Suppressants That Work for Older Adults During Holiday Feasts"
-slug: "4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts"
-description: "Explore safe, evidence-based foods and habits that help reduce overeating without medication, tailored for aging metabolisms."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["natural appetite suppressants for seniors holidays", "healthy holiday eating for seniors", "natural-remedies"]
-primaryKeyword: "natural appetite suppressants for seniors holidays"
-topicCluster: "natural-remedies"
-image: ""
-relatedSlugs: ["how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season", "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults", "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60", "are-sugar-free-treats-actually-safe-for-diabetics-over-65"]
+title: >-
+  4 Natural Appetite Suppressants That Work for Older Adults During Holiday
+  Feasts
+slug: >-
+  4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
+description: >-
+  Explore safe, evidence-based foods and habits that help reduce overeating
+  without medication, tailored for aging metabolisms.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - natural appetite suppressants for seniors holidays
+  - healthy holiday eating for seniors
+  - natural-remedies
+primaryKeyword: natural appetite suppressants for seniors holidays
+topicCluster: treatment-interventions
+image: ''
+relatedSlugs:
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Natural Appetite Suppressants for Seniors During the Holidays: Safe, Science-Backed Ways to Enjoy Feasts Mindfully

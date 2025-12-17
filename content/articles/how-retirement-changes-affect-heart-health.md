@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: retirement lifestyle changes and heart health
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - can-gardening-improve-heart-health-after-50

@@ -11,7 +11,7 @@ tags:
   - heart health
   - cardiovascular-risk
 primaryKeyword: cholesterol monitoring for men over 50 no symptoms
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - why-blood-pressure-matters-even-if-you-feel-fine

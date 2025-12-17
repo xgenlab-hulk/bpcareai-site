@@ -1,14 +1,28 @@
 ---
-title: "Can Blood Pressure Be Too Low in Older Adults? The Hidden Risks of Hypotension After 75"
-slug: "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75"
-description: "Examines orthostatic and postprandial hypotension in frail seniors—including falls, cognitive fog, and medication overcorrection—and outlines safe BP targets for those with dementia or mobility issues."
-date: "2025-12-16"
-updated: "2025-12-16"
-tags: ["low blood pressure risks elderly 75+", "blood pressure", "hypotension-elderly-frailty"]
-primaryKeyword: "low blood pressure risks elderly 75+"
-topicCluster: "hypotension-elderly-frailty"
-image: ""
-relatedSlugs: ["is-low-blood-pressure-dangerous-for-seniors", "how-standing-up-too-fast-affects-blood-pressure-in-older-adults", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "the-link-between-sleep-apnea-and-high-blood-pressure-after-50", "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"]
+title: >-
+  Can Blood Pressure Be Too Low in Older Adults? The Hidden Risks of Hypotension
+  After 75
+slug: >-
+  can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+description: >-
+  Examines orthostatic and postprandial hypotension in frail seniors—including
+  falls, cognitive fog, and medication overcorrection—and outlines safe BP
+  targets for those with dementia or mobility issues.
+date: '2025-12-16'
+updated: '2025-12-16'
+tags:
+  - low blood pressure risks elderly 75+
+  - blood pressure
+  - hypotension-elderly-frailty
+primaryKeyword: low blood pressure risks elderly 75+
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - is-low-blood-pressure-dangerous-for-seniors
+  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
 ---
 
 # Understanding Low Blood Pressure Risks in Elderly 75+ Adults—and When It’s More Than Just “Feeling Lightheaded”

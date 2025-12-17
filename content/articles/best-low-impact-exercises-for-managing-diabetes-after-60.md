@@ -1,14 +1,24 @@
 ---
-title: "Best Low-Impact Exercises for Managing Diabetes After 60"
-slug: "best-low-impact-exercises-for-managing-diabetes-after-60"
-description: "Discover safe and effective workouts that help control blood sugar without straining aging joints."
-date: "2025-12-03"
-updated: "2025-12-03"
-tags: ["low-impact exercise for diabetes over 60", "diabetes", "diabetes-lifestyle"]
-primaryKeyword: "low-impact exercise for diabetes over 60"
-topicCluster: "diabetes-lifestyle"
-image: ""
-relatedSlugs: ["can-walking-after-meals-lower-blood-sugar-in-older-adults", "best-fruits-for-diabetics-over-50-and-which-to-limit", "healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s", "managing-diabetes-while-traveling-tips-for-seniors", "the-link-between-diabetes-and-slow-healing-in-older-adults"]
+title: Best Low-Impact Exercises for Managing Diabetes After 60
+slug: best-low-impact-exercises-for-managing-diabetes-after-60
+description: >-
+  Discover safe and effective workouts that help control blood sugar without
+  straining aging joints.
+date: '2025-12-03'
+updated: '2025-12-03'
+tags:
+  - low-impact exercise for diabetes over 60
+  - diabetes
+  - diabetes-lifestyle
+primaryKeyword: low-impact exercise for diabetes over 60
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - best-fruits-for-diabetics-over-50-and-which-to-limit
+  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
 ---
 
 # Gentle Movement, Stronger Health: The Best Low-Impact Exercise for Diabetes Over 60

@@ -1,14 +1,24 @@
 ---
-title: "How Staying Hydrated in Winter Protects Your Heart After 70"
-slug: "how-staying-hydrated-in-winter-protects-your-heart-after-70"
-description: "Highlights the importance of hydration despite lower thirst cues and its impact on blood viscosity and cardiac output."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["winter hydration heart health", "winter heart health for seniors", "preventive-care"]
-primaryKeyword: "winter hydration heart health"
-topicCluster: "preventive-care"
-image: ""
-relatedSlugs: ["can-hydration-prevent-winter-blood-pressure-spikes-after-age-70", "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70", "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties", "how-indoor-air-quality-affects-heart-health-in-winter", "can-drinking-more-water-help-lower-blood-pressure-naturally"]
+title: How Staying Hydrated in Winter Protects Your Heart After 70
+slug: how-staying-hydrated-in-winter-protects-your-heart-after-70
+description: >-
+  Highlights the importance of hydration despite lower thirst cues and its
+  impact on blood viscosity and cardiac output.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - winter hydration heart health
+  - winter heart health for seniors
+  - preventive-care
+primaryKeyword: winter hydration heart health
+topicCluster: preventive-care
+image: ''
+relatedSlugs:
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - how-indoor-air-quality-affects-heart-health-in-winter
+  - can-drinking-more-water-help-lower-blood-pressure-naturally
 ---
 
 # Why Winter Hydration Heart Health Matters More Than You Think After Age 70

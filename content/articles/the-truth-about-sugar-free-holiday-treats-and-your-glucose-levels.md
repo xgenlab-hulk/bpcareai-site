@@ -1,14 +1,25 @@
 ---
-title: "The Truth About ‘Sugar-Free’ Holiday Treats and Your Glucose Levels"
-slug: "the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels"
-description: "Investigates whether sugar-free labeled foods actually support blood sugar control or contain hidden glycemic risks."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["truth about sugar-free holiday foods", "managing blood sugar during Christmas and New Year", "diet-nutrition"]
-primaryKeyword: "truth about sugar-free holiday foods"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes"]
+title: The Truth About ‘Sugar-Free’ Holiday Treats and Your Glucose Levels
+slug: the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
+description: >-
+  Investigates whether sugar-free labeled foods actually support blood sugar
+  control or contain hidden glycemic risks.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - truth about sugar-free holiday foods
+  - managing blood sugar during Christmas and New Year
+  - diet-nutrition
+primaryKeyword: truth about sugar-free holiday foods
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 
 # The Truth About Sugar-Free Holiday Foods: What Your Glucose Levels Really Experience

@@ -1,14 +1,24 @@
 ---
-title: "Blood Pressure Management for Sedentary Seniors in Winter Months"
-slug: "blood-pressure-management-for-sedentary-seniors-in-winter-months"
-description: "Tailored strategies for older adults with limited mobility to avoid cardiovascular strain during colder, less active seasons."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["sedentary seniors blood pressure", "senior blood pressure control in winter", "audience-specific-care"]
-primaryKeyword: "sedentary seniors blood pressure"
-topicCluster: "audience-specific-care"
-image: ""
-relatedSlugs: ["why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "how-does-cold-weather-affect-blood-pressure-in-older-adults", "should-you-adjust-your-blood-pressure-goals-in-winter", "the-hidden-dangers-of-indoor-heating-on-blood-pressure"]
+title: Blood Pressure Management for Sedentary Seniors in Winter Months
+slug: blood-pressure-management-for-sedentary-seniors-in-winter-months
+description: >-
+  Tailored strategies for older adults with limited mobility to avoid
+  cardiovascular strain during colder, less active seasons.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - sedentary seniors blood pressure
+  - senior blood pressure control in winter
+  - audience-specific-care
+primaryKeyword: sedentary seniors blood pressure
+topicCluster: age-gender-specific
+image: ''
+relatedSlugs:
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
+  - should-you-adjust-your-blood-pressure-goals-in-winter
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
 ---
 
 # Blood Pressure Management for Sedentary Seniors During Winter: Practical Strategies for Senior Blood Pressure Control in Winter

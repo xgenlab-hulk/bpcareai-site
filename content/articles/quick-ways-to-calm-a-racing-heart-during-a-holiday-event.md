@@ -1,14 +1,25 @@
 ---
-title: "Quick Ways to Calm a Racing Heart During a Holiday Event"
-slug: "quick-ways-to-calm-a-racing-heart-during-a-holiday-event"
-description: "List immediate, non-medical interventions like vagal maneuvers and breathing techniques to manage acute palpitations."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["calm racing heart holiday", "holiday heart syndrome prevention", "acute-management"]
-primaryKeyword: "calm racing heart holiday"
-topicCluster: "acute-management"
-image: ""
-relatedSlugs: ["simple-steps-to-monitor-your-heart-health-during-the-holiday-season", "12-simple-ways-to-prevent-holiday-heart-syndrome-naturally", "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them"]
+title: Quick Ways to Calm a Racing Heart During a Holiday Event
+slug: quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+description: >-
+  List immediate, non-medical interventions like vagal maneuvers and breathing
+  techniques to manage acute palpitations.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - calm racing heart holiday
+  - holiday heart syndrome prevention
+  - acute-management
+primaryKeyword: calm racing heart holiday
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - simple-steps-to-monitor-your-heart-health-during-the-holiday-season
+  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
 ---
 
 # Quick Ways to Calm a Racing Heart During a Holiday Event — Practical, Non-Medical Strategies for Adults 50+

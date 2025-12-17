@@ -11,7 +11,7 @@ tags:
   - basics
   - education
 primaryKeyword: blood pressure numbers
-topicCluster: blood-pressure-basics
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - when-to-worry-about-high-readings

@@ -1,14 +1,24 @@
 ---
-title: "5 Hidden Sources of Sodium in Holiday Foods Seniors Should Avoid"
-slug: "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"
-description: "Identify common high-sodium holiday ingredients that can silently elevate blood pressure, with safer alternatives for heart-conscious seniors."
-date: "2025-12-01"
-updated: "2025-12-01"
-tags: ["hidden sodium in holiday foods seniors", "healthy holiday eating for seniors", "cardiac-diet"]
-primaryKeyword: "hidden sodium in holiday foods seniors"
-topicCluster: "cardiac-diet"
-image: ""
-relatedSlugs: ["hidden-salt-10-surprising-foods-that-spike-blood-pressure", "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome", "7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about"]
+title: 5 Hidden Sources of Sodium in Holiday Foods Seniors Should Avoid
+slug: 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+description: >-
+  Identify common high-sodium holiday ingredients that can silently elevate
+  blood pressure, with safer alternatives for heart-conscious seniors.
+date: '2025-12-01'
+updated: '2025-12-01'
+tags:
+  - hidden sodium in holiday foods seniors
+  - healthy holiday eating for seniors
+  - cardiac-diet
+primaryKeyword: hidden sodium in holiday foods seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
 ---
 
 # 5 Hidden Sources of Sodium in Holiday Foods Seniors Should Know About

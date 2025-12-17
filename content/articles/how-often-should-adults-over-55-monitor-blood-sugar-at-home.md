@@ -1,14 +1,24 @@
 ---
-title: "How Often Should Adults Over 55 Monitor Blood Sugar at Home?"
-slug: "how-often-should-adults-over-55-monitor-blood-sugar-at-home"
-description: "Get expert guidance on optimal blood glucose testing frequency based on diabetes type and treatment plan."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["blood sugar monitoring frequency for seniors with diabetes", "diabetes", "diabetes-management"]
-primaryKeyword: "blood sugar monitoring frequency for seniors with diabetes"
-topicCluster: "diabetes-management"
-image: ""
-relatedSlugs: ["how-often-should-adults-over-50-check-their-blood-pressure", "managing-diabetes-while-traveling-tips-for-seniors", "can-intermittent-fasting-help-manage-type-2-diabetes-after-60", "meal-timing-strategies-for-better-blood-sugar-control-after-50", "can-walking-after-meals-lower-blood-sugar-in-older-adults"]
+title: How Often Should Adults Over 55 Monitor Blood Sugar at Home?
+slug: how-often-should-adults-over-55-monitor-blood-sugar-at-home
+description: >-
+  Get expert guidance on optimal blood glucose testing frequency based on
+  diabetes type and treatment plan.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - blood sugar monitoring frequency for seniors with diabetes
+  - diabetes
+  - diabetes-management
+primaryKeyword: blood sugar monitoring frequency for seniors with diabetes
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - how-often-should-adults-over-50-check-their-blood-pressure
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - meal-timing-strategies-for-better-blood-sugar-control-after-50
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 
 # Understanding Blood Sugar Monitoring Frequency for Seniors with Diabetes

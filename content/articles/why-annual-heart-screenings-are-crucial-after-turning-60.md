@@ -1,14 +1,24 @@
 ---
-title: "Why Annual Heart Screenings Are Crucial After Turning 60"
-slug: "why-annual-heart-screenings-are-crucial-after-turning-60"
-description: "Understand which tests can catch early signs of heart disease before symptoms appear."
-date: "2025-12-07"
-updated: "2025-12-07"
-tags: ["annual heart screenings after 60", "heart disease", "heart-health"]
-primaryKeyword: "annual heart screenings after 60"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["why-men-over-50-should-monitor-cholesterol-even-without-symptoms", "how-often-should-you-check-your-pulse-after-age-60", "heart-disease-warning-signs-that-appear-years-in-advance", "is-sitting-too-much-harming-your-heart-after-60", "how-social-isolation-increases-heart-disease-risk-after-60"]
+title: Why Annual Heart Screenings Are Crucial After Turning 60
+slug: why-annual-heart-screenings-are-crucial-after-turning-60
+description: >-
+  Understand which tests can catch early signs of heart disease before symptoms
+  appear.
+date: '2025-12-07'
+updated: '2025-12-07'
+tags:
+  - annual heart screenings after 60
+  - heart disease
+  - heart-health
+primaryKeyword: annual heart screenings after 60
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
+  - how-often-should-you-check-your-pulse-after-age-60
+  - heart-disease-warning-signs-that-appear-years-in-advance
+  - is-sitting-too-much-harming-your-heart-after-60
+  - how-social-isolation-increases-heart-disease-risk-after-60
 ---
 
 # Why Annual Heart Screenings After 60 Are a Gentle, Wise Step Toward Lifelong Heart Health

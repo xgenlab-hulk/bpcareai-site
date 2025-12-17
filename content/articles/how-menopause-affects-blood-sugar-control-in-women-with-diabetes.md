@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-women-health
 primaryKeyword: menopause and blood sugar fluctuations in women with diabetes
-topicCluster: diabetes-women-health
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - blood-pressure-changes-during-menopause-what-women-should-know

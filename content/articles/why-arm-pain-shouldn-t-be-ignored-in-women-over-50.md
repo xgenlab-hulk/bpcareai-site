@@ -11,7 +11,7 @@ tags:
   - heart health
   - cardiovascular-risk
 primaryKeyword: arm pain and heart attack symptoms in women over 50
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed

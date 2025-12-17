@@ -1,14 +1,24 @@
 ---
-title: "When to Worry About Chest Tightness in Cold Weather"
-slug: "when-to-worry-about-chest-tightness-in-cold-weather"
-description: "Guides readers on distinguishing normal cold-induced discomfort from dangerous cardiac symptoms requiring immediate attention."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["chest tightness winter cold", "winter heart health for seniors", "emergency-symptoms"]
-primaryKeyword: "chest tightness winter cold"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["5-silent-signs-your-heart-is-struggling-in-cold-weather", "how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk", "when-to-worry-about-blood-pressure-changes-during-winter", "can-cold-hands-signal-poor-circulation-or-heart-issues", "can-cold-weather-raise-your-blood-pressure"]
+title: When to Worry About Chest Tightness in Cold Weather
+slug: when-to-worry-about-chest-tightness-in-cold-weather
+description: >-
+  Guides readers on distinguishing normal cold-induced discomfort from dangerous
+  cardiac symptoms requiring immediate attention.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - chest tightness winter cold
+  - winter heart health for seniors
+  - emergency-symptoms
+primaryKeyword: chest tightness winter cold
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - 5-silent-signs-your-heart-is-struggling-in-cold-weather
+  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - when-to-worry-about-blood-pressure-changes-during-winter
+  - can-cold-hands-signal-poor-circulation-or-heart-issues
+  - can-cold-weather-raise-your-blood-pressure
 ---
 
 # When Chest Tightness in Winter Cold Calls for Your Attention

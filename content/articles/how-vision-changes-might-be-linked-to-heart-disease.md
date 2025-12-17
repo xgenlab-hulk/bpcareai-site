@@ -11,7 +11,7 @@ tags:
   - heart disease
   - heart-health
 primaryKeyword: vision changes and heart disease connection
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - diabetes-and-vision-changes-what-seniors-need-to-know

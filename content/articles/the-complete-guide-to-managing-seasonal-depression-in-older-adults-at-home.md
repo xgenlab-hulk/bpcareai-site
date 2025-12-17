@@ -1,14 +1,24 @@
 ---
-title: "The Complete Guide to Managing Seasonal Depression in Older Adults at Home"
-slug: "the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home"
-description: "A comprehensive resource covering diagnosis, daily management, tools, and when to seek professional help."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["complete guide seasonal depression seniors", "seasonal depression in older adults", "comprehensive-management"]
-primaryKeyword: "complete guide seasonal depression seniors"
-topicCluster: "comprehensive-management"
-image: ""
-relatedSlugs: ["natural-ways-to-manage-seasonal-depression-in-seniors-without-medication", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know", "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65", "the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees", "7-common-mistakes-that-make-seasonal-depression-worse-in-seniors"]
+title: The Complete Guide to Managing Seasonal Depression in Older Adults at Home
+slug: the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home
+description: >-
+  A comprehensive resource covering diagnosis, daily management, tools, and when
+  to seek professional help.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - complete guide seasonal depression seniors
+  - seasonal depression in older adults
+  - comprehensive-management
+primaryKeyword: complete guide seasonal depression seniors
+topicCluster: complications-comorbidities
+image: ''
+relatedSlugs:
+  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+  - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
 ---
 
 # A Compassionate Complete Guide to Seasonal Depression in Seniors at Home

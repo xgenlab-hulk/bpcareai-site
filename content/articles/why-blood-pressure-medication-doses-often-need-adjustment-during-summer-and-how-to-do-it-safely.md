@@ -1,14 +1,26 @@
 ---
-title: "Why Blood Pressure Medication Doses Often Need Adjustment During Summer—And How to Do It Safely"
-slug: "why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely"
-description: "Explains thermoregulatory vasodilation, dehydration-induced volume shifts, and diuretic sensitivity in heat, with physician-approved summer tapering protocols for ACE inhibitors and CCBs."
-date: "2025-12-16"
-updated: "2025-12-16"
-tags: ["blood pressure meds summer adjustment", "blood pressure", "seasonal-medication-management"]
-primaryKeyword: "blood pressure meds summer adjustment"
-topicCluster: "seasonal-medication-management"
-image: ""
-relatedSlugs: ["5-common-medication-adjustments-seniors-need-in-winter", "how-cold-weather-affects-blood-pressure-medication-effectiveness", "should-you-adjust-your-blood-pressure-goals-in-winter"]
+title: >-
+  Why Blood Pressure Medication Doses Often Need Adjustment During Summer—And
+  How to Do It Safely
+slug: >-
+  why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
+description: >-
+  Explains thermoregulatory vasodilation, dehydration-induced volume shifts, and
+  diuretic sensitivity in heat, with physician-approved summer tapering
+  protocols for ACE inhibitors and CCBs.
+date: '2025-12-16'
+updated: '2025-12-16'
+tags:
+  - blood pressure meds summer adjustment
+  - blood pressure
+  - seasonal-medication-management
+primaryKeyword: blood pressure meds summer adjustment
+topicCluster: seasonal-health
+image: ''
+relatedSlugs:
+  - 5-common-medication-adjustments-seniors-need-in-winter
+  - how-cold-weather-affects-blood-pressure-medication-effectiveness
+  - should-you-adjust-your-blood-pressure-goals-in-winter
 ---
 
 # Why Your Blood Pressure Meds Summer Adjustment Matters More Than You Think  

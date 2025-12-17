@@ -1,14 +1,25 @@
 ---
-title: "Simple Steps to Monitor Your Heart Health During the Holiday Season"
-slug: "simple-steps-to-monitor-your-heart-health-during-the-holiday-season"
-description: "Guide readers through easy self-monitoring techniques including pulse checks, symptom tracking, and wearable use."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["monitor heart health holidays", "holiday heart syndrome prevention", "monitoring-testing"]
-primaryKeyword: "monitor heart health holidays"
-topicCluster: "monitoring-testing"
-image: ""
-relatedSlugs: ["best-blood-sugar-monitoring-practices-during-the-holiday-season", "7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them", "12-simple-ways-to-prevent-holiday-heart-syndrome-naturally", "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat"]
+title: Simple Steps to Monitor Your Heart Health During the Holiday Season
+slug: simple-steps-to-monitor-your-heart-health-during-the-holiday-season
+description: >-
+  Guide readers through easy self-monitoring techniques including pulse checks,
+  symptom tracking, and wearable use.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - monitor heart health holidays
+  - holiday heart syndrome prevention
+  - monitoring-testing
+primaryKeyword: monitor heart health holidays
+topicCluster: health-monitoring
+image: ''
+relatedSlugs:
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
+  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 
 # How to Safely Monitor Heart Health During the Holidays

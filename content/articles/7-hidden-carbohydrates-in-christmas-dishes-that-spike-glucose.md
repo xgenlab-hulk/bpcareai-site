@@ -1,14 +1,24 @@
 ---
-title: "7 Hidden Carbohydrates in Christmas Dishes That Spike Glucose"
-slug: "7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose"
-description: "Uncover lesser-known high-carb ingredients in traditional holiday meals that can silently raise blood sugar in older adults with insulin resistance."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["hidden carbs Christmas meals diabetes", "managing blood sugar during Christmas and New Year", "hidden-sugar-sources"]
-primaryKeyword: "hidden carbs Christmas meals diabetes"
-topicCluster: "hidden-sugar-sources"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "best-low-carb-desserts-for-diabetics-over-60-this-holiday-season", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"]
+title: 7 Hidden Carbohydrates in Christmas Dishes That Spike Glucose
+slug: 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
+description: >-
+  Uncover lesser-known high-carb ingredients in traditional holiday meals that
+  can silently raise blood sugar in older adults with insulin resistance.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - hidden carbs Christmas meals diabetes
+  - managing blood sugar during Christmas and New Year
+  - hidden-sugar-sources
+primaryKeyword: hidden carbs Christmas meals diabetes
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Hidden Carbs in Christmas Meals That Sabotage Blood Sugar — Especially for Adults Over 50

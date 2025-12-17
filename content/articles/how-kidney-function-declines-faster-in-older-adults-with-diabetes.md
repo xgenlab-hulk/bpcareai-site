@@ -1,14 +1,24 @@
 ---
-title: "How Kidney Function Declines Faster in Older Adults with Diabetes"
-slug: "how-kidney-function-declines-faster-in-older-adults-with-diabetes"
-description: "Understand diabetic nephropathy risks and how early detection can preserve kidney health."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["diabetes and kidney function decline in seniors", "diabetes", "diabetes-complications"]
-primaryKeyword: "diabetes and kidney function decline in seniors"
-topicCluster: "diabetes-complications"
-image: ""
-relatedSlugs: ["blood-pressure-and-kidney-health-what-seniors-need-to-know", "diabetes-and-vision-changes-what-seniors-need-to-know", "heart-disease-and-chronic-kidney-disease-the-dangerous-connection", "the-link-between-diabetes-and-slow-healing-in-older-adults", "foot-care-basics-every-senior-with-diabetes-should-know"]
+title: How Kidney Function Declines Faster in Older Adults with Diabetes
+slug: how-kidney-function-declines-faster-in-older-adults-with-diabetes
+description: >-
+  Understand diabetic nephropathy risks and how early detection can preserve
+  kidney health.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - diabetes and kidney function decline in seniors
+  - diabetes
+  - diabetes-complications
+primaryKeyword: diabetes and kidney function decline in seniors
+topicCluster: complications-comorbidities
+image: ''
+relatedSlugs:
+  - blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - diabetes-and-vision-changes-what-seniors-need-to-know
+  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+  - the-link-between-diabetes-and-slow-healing-in-older-adults
+  - foot-care-basics-every-senior-with-diabetes-should-know
 ---
 
 # Why Diabetes and Kidney Function Decline in Seniors Happens—and What You Can Do About It

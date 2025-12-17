@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - heart-health
 primaryKeyword: walking speed and blood pressure correlation
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - can-hearing-loss-be-an-early-sign-of-heart-disease

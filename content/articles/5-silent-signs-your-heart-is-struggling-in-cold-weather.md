@@ -1,14 +1,24 @@
 ---
-title: "5 Silent Signs Your Heart Is Struggling in Cold Weather"
-slug: "5-silent-signs-your-heart-is-struggling-in-cold-weather"
-description: "Highlights non-obvious symptoms like fatigue, shortness of breath, and dizziness that may indicate cardiac stress during winter months."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["silent heart signs winter", "winter heart health for seniors", "early-warning-signs"]
-primaryKeyword: "silent heart signs winter"
-topicCluster: "early-warning-signs"
-image: ""
-relatedSlugs: ["what-are-the-first-signs-of-holiday-heart-syndrome-in-women", "heart-disease-warning-signs-that-appear-years-in-advance", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "how-silent-heart-attacks-differ-in-older-adults", "how-indoor-air-quality-affects-heart-health-in-winter"]
+title: 5 Silent Signs Your Heart Is Struggling in Cold Weather
+slug: 5-silent-signs-your-heart-is-struggling-in-cold-weather
+description: >-
+  Highlights non-obvious symptoms like fatigue, shortness of breath, and
+  dizziness that may indicate cardiac stress during winter months.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - silent heart signs winter
+  - winter heart health for seniors
+  - early-warning-signs
+primaryKeyword: silent heart signs winter
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
+  - heart-disease-warning-signs-that-appear-years-in-advance
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - how-silent-heart-attacks-differ-in-older-adults
+  - how-indoor-air-quality-affects-heart-health-in-winter
 ---
 
 # 5 Subtle Yet Important Silent Heart Signs Winter Can Bring—Especially After Age 50

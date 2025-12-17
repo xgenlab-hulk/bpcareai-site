@@ -1,14 +1,24 @@
 ---
-title: "How Air Pollution Impacts Heart Health in Older Adults"
-slug: "how-air-pollution-impacts-heart-health-in-older-adults"
-description: "Learn how everyday exposure to polluted air increases inflammation and heart strain in seniors."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["air pollution effects on heart health elderly", "heart health", "cardiovascular-risk"]
-primaryKeyword: "air pollution effects on heart health elderly"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["the-role-of-inflammation-in-heart-disease-for-older-adults", "is-your-posture-affecting-your-heart-what-older-adults-should-know", "how-social-isolation-impacts-heart-disease-risk-in-older-adults", "how-pets-support-heart-health-in-older-adults", "the-hidden-link-between-gum-disease-and-heart-problems"]
+title: How Air Pollution Impacts Heart Health in Older Adults
+slug: how-air-pollution-impacts-heart-health-in-older-adults
+description: >-
+  Learn how everyday exposure to polluted air increases inflammation and heart
+  strain in seniors.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - air pollution effects on heart health elderly
+  - heart health
+  - cardiovascular-risk
+primaryKeyword: air pollution effects on heart health elderly
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - the-role-of-inflammation-in-heart-disease-for-older-adults
+  - is-your-posture-affecting-your-heart-what-older-adults-should-know
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - how-pets-support-heart-health-in-older-adults
+  - the-hidden-link-between-gum-disease-and-heart-problems
 ---
 
 # How Air Pollution Affects Heart Health in the Elderly: What Seniors Need to Know

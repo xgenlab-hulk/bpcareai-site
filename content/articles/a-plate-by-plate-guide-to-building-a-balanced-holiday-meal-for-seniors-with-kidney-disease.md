@@ -1,14 +1,28 @@
 ---
-title: "A Plate-by-Plate Guide to Building a Balanced Holiday Meal for Seniors with Kidney Disease"
-slug: "a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease"
-description: "Customize your plate with low-potassium, low-phosphorus options that align with renal diets while still feeling festive and satisfying."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["holiday meal guide for seniors with kidney disease", "healthy holiday eating for seniors", "renal-diet"]
-primaryKeyword: "holiday meal guide for seniors with kidney disease"
-topicCluster: "renal-diet"
-image: ""
-relatedSlugs: ["how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors", "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60"]
+title: >-
+  A Plate-by-Plate Guide to Building a Balanced Holiday Meal for Seniors with
+  Kidney Disease
+slug: >-
+  a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
+description: >-
+  Customize your plate with low-potassium, low-phosphorus options that align
+  with renal diets while still feeling festive and satisfying.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - holiday meal guide for seniors with kidney disease
+  - healthy holiday eating for seniors
+  - renal-diet
+primaryKeyword: holiday meal guide for seniors with kidney disease
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
+  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 ---
 
 # A Thoughtful Holiday Meal Guide for Seniors with Kidney Disease

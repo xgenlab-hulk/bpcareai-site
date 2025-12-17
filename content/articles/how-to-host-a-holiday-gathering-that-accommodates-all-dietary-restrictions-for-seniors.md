@@ -1,14 +1,27 @@
 ---
-title: "How to Host a Holiday Gathering That Accommodates All Dietary Restrictions for Seniors"
-slug: "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors"
-description: "A practical checklist for hosting inclusive meals that consider diabetes, heart health, swallowing issues, and allergies without sacrificing joy."
-date: "2025-11-30"
-updated: "2025-11-30"
-tags: ["hosting holiday meals for seniors with dietary restrictions", "healthy holiday eating for seniors", "social-dining-strategies"]
-primaryKeyword: "hosting holiday meals for seniors with dietary restrictions"
-topicCluster: "social-dining-strategies"
-image: ""
-relatedSlugs: ["are-sugar-free-treats-actually-safe-for-diabetics-over-65", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"]
+title: >-
+  How to Host a Holiday Gathering That Accommodates All Dietary Restrictions for
+  Seniors
+slug: >-
+  how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
+description: >-
+  A practical checklist for hosting inclusive meals that consider diabetes,
+  heart health, swallowing issues, and allergies without sacrificing joy.
+date: '2025-11-30'
+updated: '2025-11-30'
+tags:
+  - hosting holiday meals for seniors with dietary restrictions
+  - healthy holiday eating for seniors
+  - social-dining-strategies
+primaryKeyword: hosting holiday meals for seniors with dietary restrictions
+topicCluster: social-environmental
+image: ''
+relatedSlugs:
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
 ---
 
 # How to Host Holiday Meals for Seniors with Dietary Restrictions Without Losing the Festive Spirit

@@ -1,14 +1,27 @@
 ---
-title: "The Science Behind Mindful Eating and Its Benefits for Seniors This Holiday Season"
-slug: "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season"
-description: "Review clinical studies showing how slowing down and savoring food improves digestion, satiety, and blood sugar control in older adults."
-date: "2025-12-06"
-updated: "2025-12-06"
-tags: ["science of mindful eating seniors holidays", "healthy holiday eating for seniors", "behavioral-nutrition"]
-primaryKeyword: "science of mindful eating seniors holidays"
-topicCluster: "behavioral-nutrition"
-image: ""
-relatedSlugs: ["5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "10-high-fiber-holiday-foods-that-support-digestion-after-50", "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults"]
+title: >-
+  The Science Behind Mindful Eating and Its Benefits for Seniors This Holiday
+  Season
+slug: >-
+  the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
+description: >-
+  Review clinical studies showing how slowing down and savoring food improves
+  digestion, satiety, and blood sugar control in older adults.
+date: '2025-12-06'
+updated: '2025-12-06'
+tags:
+  - science of mindful eating seniors holidays
+  - healthy holiday eating for seniors
+  - behavioral-nutrition
+primaryKeyword: science of mindful eating seniors holidays
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 ---
 
 # The Science of Mindful Eating for Seniors This Holiday Season: What Research Tells Us

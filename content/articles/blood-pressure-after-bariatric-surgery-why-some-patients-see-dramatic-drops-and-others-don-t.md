@@ -1,13 +1,22 @@
 ---
-title: "Blood Pressure After Bariatric Surgery: Why Some Patients See Dramatic Drops—And Others Don’t"
-slug: "blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t"
-description: "Analyzes mechanisms behind BP normalization post-surgery (weight loss, renin-angiotensin reset, gut hormone shifts), predictors of success, and risks of persistent hypertension in obese adults 55–70."
-date: "2025-12-17"
-updated: "2025-12-17"
-tags: ["blood pressure after bariatric surgery", "blood pressure", "comorbidity-weight-loss-surgery"]
-primaryKeyword: "blood pressure after bariatric surgery"
-topicCluster: "comorbidity-weight-loss-surgery"
-image: ""
+title: >-
+  Blood Pressure After Bariatric Surgery: Why Some Patients See Dramatic
+  Drops—And Others Don’t
+slug: >-
+  blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
+description: >-
+  Analyzes mechanisms behind BP normalization post-surgery (weight loss,
+  renin-angiotensin reset, gut hormone shifts), predictors of success, and risks
+  of persistent hypertension in obese adults 55–70.
+date: '2025-12-17'
+updated: '2025-12-17'
+tags:
+  - blood pressure after bariatric surgery
+  - blood pressure
+  - comorbidity-weight-loss-surgery
+primaryKeyword: blood pressure after bariatric surgery
+topicCluster: complications-comorbidities
+image: ''
 relatedSlugs: []
 ---
 

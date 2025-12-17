@@ -1,14 +1,24 @@
 ---
-title: "What Are the Silent Signs of High Blood Sugar at Holiday Dinners?"
-slug: "what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners"
-description: "Identifies subtle but critical indicators — like fatigue or thirst — that suggest glucose is rising, even when you feel fine."
-date: "2025-12-09"
-updated: "2025-12-09"
-tags: ["silent signs high blood sugar", "managing blood sugar during Christmas and New Year", "symptoms-warning-signs"]
-primaryKeyword: "silent signs high blood sugar"
-topicCluster: "symptoms-warning-signs"
-image: ""
-relatedSlugs: ["when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do", "5-silent-signs-your-heart-is-struggling-in-cold-weather", "heart-disease-warning-signs-that-appear-years-in-advance", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal"]
+title: What Are the Silent Signs of High Blood Sugar at Holiday Dinners?
+slug: what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
+description: >-
+  Identifies subtle but critical indicators — like fatigue or thirst — that
+  suggest glucose is rising, even when you feel fine.
+date: '2025-12-09'
+updated: '2025-12-09'
+tags:
+  - silent signs high blood sugar
+  - managing blood sugar during Christmas and New Year
+  - symptoms-warning-signs
+primaryKeyword: silent signs high blood sugar
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - 5-silent-signs-your-heart-is-struggling-in-cold-weather
+  - heart-disease-warning-signs-that-appear-years-in-advance
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 
 # Recognizing the Silent Signs of High Blood Sugar During Holiday Gatherings

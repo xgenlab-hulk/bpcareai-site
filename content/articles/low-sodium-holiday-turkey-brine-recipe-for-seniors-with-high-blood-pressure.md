@@ -11,7 +11,7 @@ tags:
   - healthy holiday eating for seniors
   - cardiac-diet
 primaryKeyword: low-sodium turkey brine for seniors
-topicCluster: cardiac-diet
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid

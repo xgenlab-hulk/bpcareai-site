@@ -1,14 +1,25 @@
 ---
-title: "Easy Make-Ahead Freezer Meals to Reduce Holiday Cooking Stress for Seniors"
-slug: "easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors"
-description: "Prepare healthy, portion-controlled dishes in advance to minimize kitchen strain and ensure nutritious options are always available."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["make-ahead freezer meals for seniors holidays", "healthy holiday eating for seniors", "meal-preparation"]
-primaryKeyword: "make-ahead freezer meals for seniors holidays"
-topicCluster: "meal-preparation"
-image: ""
-relatedSlugs: ["how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals", "7-smart-swaps-for-healthier-holiday-meals-after-65", "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out", "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues"]
+title: Easy Make-Ahead Freezer Meals to Reduce Holiday Cooking Stress for Seniors
+slug: easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
+description: >-
+  Prepare healthy, portion-controlled dishes in advance to minimize kitchen
+  strain and ensure nutritious options are always available.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - make-ahead freezer meals for seniors holidays
+  - healthy holiday eating for seniors
+  - meal-preparation
+primaryKeyword: make-ahead freezer meals for seniors holidays
+topicCluster: nutrition-diet
+image: ''
+relatedSlugs:
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
 ---
 
 # Stress-Free Holiday Feasting: Make-Ahead Freezer Meals for Seniors Holidays

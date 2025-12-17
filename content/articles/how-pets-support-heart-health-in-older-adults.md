@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: pets and heart health in seniors
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults

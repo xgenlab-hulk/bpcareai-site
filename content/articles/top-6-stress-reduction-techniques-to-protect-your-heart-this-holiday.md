@@ -1,14 +1,24 @@
 ---
-title: "Top 6 Stress-Reduction Techniques to Protect Your Heart This Holiday"
-slug: "top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday"
-description: "Present practical, time-efficient mindfulness and relaxation methods proven to lower arrhythmia risk during high-pressure times."
-date: "2025-12-12"
-updated: "2025-12-12"
-tags: ["stress reduction holiday heart", "holiday heart syndrome prevention", "emotional-mental-health"]
-primaryKeyword: "stress reduction holiday heart"
-topicCluster: "emotional-mental-health"
-image: ""
-relatedSlugs: ["12-simple-ways-to-prevent-holiday-heart-syndrome-naturally", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "quick-ways-to-calm-a-racing-heart-during-a-holiday-event", "can-mindfulness-meditation-reduce-heart-disease-risk-after-50", "simple-steps-to-monitor-your-heart-health-during-the-holiday-season"]
+title: Top 6 Stress-Reduction Techniques to Protect Your Heart This Holiday
+slug: top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
+description: >-
+  Present practical, time-efficient mindfulness and relaxation methods proven to
+  lower arrhythmia risk during high-pressure times.
+date: '2025-12-12'
+updated: '2025-12-12'
+tags:
+  - stress reduction holiday heart
+  - holiday heart syndrome prevention
+  - emotional-mental-health
+primaryKeyword: stress reduction holiday heart
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - simple-steps-to-monitor-your-heart-health-during-the-holiday-season
 ---
 
 # Stress Reduction for Holiday Heart Health: 6 Gentle, Science-Backed Ways to Stay Steady

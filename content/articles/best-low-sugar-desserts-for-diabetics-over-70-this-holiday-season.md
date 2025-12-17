@@ -1,14 +1,24 @@
 ---
-title: "Best Low-Sugar Desserts for Diabetics Over 70 This Holiday Season"
-slug: "best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season"
-description: "A curated list of naturally sweetened, diabetic-friendly holiday desserts that are safe, satisfying, and easy to prepare for older adults."
-date: "2025-12-13"
-updated: "2025-12-13"
-tags: ["low-sugar desserts for diabetics over 70", "healthy holiday eating for seniors", "diabetic-diet"]
-primaryKeyword: "low-sugar desserts for diabetics over 70"
-topicCluster: "diabetic-diet"
-image: ""
-relatedSlugs: ["best-low-carb-desserts-for-diabetics-over-60-this-holiday-season", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose"]
+title: Best Low-Sugar Desserts for Diabetics Over 70 This Holiday Season
+slug: best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
+description: >-
+  A curated list of naturally sweetened, diabetic-friendly holiday desserts that
+  are safe, satisfying, and easy to prepare for older adults.
+date: '2025-12-13'
+updated: '2025-12-13'
+tags:
+  - low-sugar desserts for diabetics over 70
+  - healthy holiday eating for seniors
+  - diabetic-diet
+primaryKeyword: low-sugar desserts for diabetics over 70
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # Delicious & Safe: Low-Sugar Desserts for Diabetics Over 70 This Holiday Season

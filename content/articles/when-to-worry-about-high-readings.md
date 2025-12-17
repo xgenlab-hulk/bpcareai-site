@@ -11,7 +11,7 @@ tags:
   - health guidance
   - peace of mind
 primaryKeyword: high blood pressure reading
-topicCluster: blood-pressure-basics
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - understanding-blood-pressure-numbers

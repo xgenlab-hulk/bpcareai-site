@@ -1,14 +1,25 @@
 ---
-title: "The Complete Guide to Avoiding Holiday Heart Syndrome After 50"
-slug: "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50"
-description: "A comprehensive resource covering prevention, recognition, and management of holiday-related arrhythmias for midlife and older adults."
-date: "2025-12-02"
-updated: "2025-12-02"
-tags: ["complete guide holiday heart syndrome", "holiday heart syndrome prevention", "prevention-strategies"]
-primaryKeyword: "complete guide holiday heart syndrome"
-topicCluster: "prevention-strategies"
-image: ""
-relatedSlugs: ["the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "can-meditation-reduce-heart-disease-risk-after-50", "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults", "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50"]
+title: The Complete Guide to Avoiding Holiday Heart Syndrome After 50
+slug: the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+description: >-
+  A comprehensive resource covering prevention, recognition, and management of
+  holiday-related arrhythmias for midlife and older adults.
+date: '2025-12-02'
+updated: '2025-12-02'
+tags:
+  - complete guide holiday heart syndrome
+  - holiday heart syndrome prevention
+  - prevention-strategies
+primaryKeyword: complete guide holiday heart syndrome
+topicCluster: preventive-care
+image: ''
+relatedSlugs:
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - can-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
 ---
 
 # Your Complete Guide to Holiday Heart Syndrome After 50

@@ -11,7 +11,7 @@ tags:
   - heart health
   - heart-health
 primaryKeyword: alcohol effects on heart health after 55
-topicCluster: heart-health
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-sleep-affects-heart-health-after-50

@@ -1,14 +1,24 @@
 ---
-title: "Heart Disease Risks for Retirees Living in High-Altitude Areas"
-slug: "heart-disease-risks-for-retirees-living-in-high-altitude-areas"
-description: "Examine how reduced oxygen levels at elevation may strain the cardiovascular system in older adults."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["heart disease risk at high altitude for seniors", "heart disease", "cardiovascular-risk"]
-primaryKeyword: "heart disease risk at high altitude for seniors"
-topicCluster: "cardiovascular-risk"
-image: ""
-relatedSlugs: ["the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults", "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "how-vitamin-d-deficiency-impacts-heart-health-in-winter"]
+title: Heart Disease Risks for Retirees Living in High-Altitude Areas
+slug: heart-disease-risks-for-retirees-living-in-high-altitude-areas
+description: >-
+  Examine how reduced oxygen levels at elevation may strain the cardiovascular
+  system in older adults.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - heart disease risk at high altitude for seniors
+  - heart disease
+  - cardiovascular-risk
+primaryKeyword: heart disease risk at high altitude for seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
 ---
 
 # Understanding Heart Disease Risk at High Altitude for Seniors

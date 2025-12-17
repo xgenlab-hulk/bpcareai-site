@@ -11,7 +11,7 @@ tags:
   - healthy eating during family gatherings
   - nutritious-recipes
 primaryKeyword: high-fiber family side dishes
-topicCluster: nutritious-recipes
+topicCluster: nutrition-diet
 image: ''
 relatedSlugs:
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

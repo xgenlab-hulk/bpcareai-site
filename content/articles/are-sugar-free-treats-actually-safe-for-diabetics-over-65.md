@@ -11,7 +11,7 @@ tags:
   - holiday diabetes management
   - diet-nutrition-myths
 primaryKeyword: sugar-free treats safety for seniors
-topicCluster: diet-nutrition-myths
+topicCluster: nutrition-diet
 image: ''
 relatedSlugs:
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors

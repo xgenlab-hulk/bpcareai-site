@@ -1,14 +1,25 @@
 ---
-title: "Should You Adjust Your Diabetes Medication During the Holidays?"
-slug: "should-you-adjust-your-diabetes-medication-during-the-holidays"
-description: "Guidance on when and how to safely modify medication or insulin in response to changed eating patterns during festive periods."
-date: "2025-12-10"
-updated: "2025-12-10"
-tags: ["adjust diabetes meds holidays", "managing blood sugar during Christmas and New Year", "treatment-options"]
-primaryKeyword: "adjust diabetes meds holidays"
-topicCluster: "treatment-options"
-image: ""
-relatedSlugs: ["best-blood-sugar-monitoring-practices-during-the-holiday-season", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control"]
+title: Should You Adjust Your Diabetes Medication During the Holidays?
+slug: should-you-adjust-your-diabetes-medication-during-the-holidays
+description: >-
+  Guidance on when and how to safely modify medication or insulin in response to
+  changed eating patterns during festive periods.
+date: '2025-12-10'
+updated: '2025-12-10'
+tags:
+  - adjust diabetes meds holidays
+  - managing blood sugar during Christmas and New Year
+  - treatment-options
+primaryKeyword: adjust diabetes meds holidays
+topicCluster: medications-supplements
+image: ''
+relatedSlugs:
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
 ---
 
 # Should You Adjust Your Diabetes Medication During the Holidays? A Gentle Guide to Safely Manage Blood Sugar

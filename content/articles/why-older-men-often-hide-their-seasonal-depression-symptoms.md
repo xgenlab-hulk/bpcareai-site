@@ -11,7 +11,7 @@ tags:
   - seasonal depression in older adults
   - gender-expression-barriers
 primaryKeyword: men and hidden seasonal depression
-topicCluster: gender-expression-barriers
+topicCluster: age-gender-specific
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

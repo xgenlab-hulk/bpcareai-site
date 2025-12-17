@@ -1,14 +1,24 @@
 ---
-title: "Does Sugar-Free Chocolate Really Help Diabetics Over 60 Enjoy Holidays Safely?"
-slug: "does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely"
-description: "We break down sugar alcohols, glycemic impact, and digestive side effects of sugar-free treats to determine if they’re worth the risk."
-date: "2025-12-01"
-updated: "2025-12-01"
-tags: ["sugar-free chocolate for diabetics over 60", "healthy holiday eating for seniors", "diabetic-diet"]
-primaryKeyword: "sugar-free chocolate for diabetics over 60"
-topicCluster: "diabetic-diet"
-image: ""
-relatedSlugs: ["are-sugar-free-treats-actually-safe-for-diabetics-over-65", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors"]
+title: Does Sugar-Free Chocolate Really Help Diabetics Over 60 Enjoy Holidays Safely?
+slug: does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
+description: >-
+  We break down sugar alcohols, glycemic impact, and digestive side effects of
+  sugar-free treats to determine if they’re worth the risk.
+date: '2025-12-01'
+updated: '2025-12-01'
+tags:
+  - sugar-free chocolate for diabetics over 60
+  - healthy holiday eating for seniors
+  - diabetic-diet
+primaryKeyword: sugar-free chocolate for diabetics over 60
+topicCluster: diabetes-care
+image: ''
+relatedSlugs:
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
 ---
 
 # Is Sugar-Free Chocolate Safe for Diabetics Over 60 During the Holidays?

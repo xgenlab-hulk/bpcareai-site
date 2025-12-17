@@ -1,14 +1,24 @@
 ---
-title: "The Link Between Holiday Stress and Blood Sugar Spikes After 50"
-slug: "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50"
-description: "Discusses how emotional stress during family gatherings impacts insulin resistance and glucose levels in middle-aged and older adults."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["stress and blood sugar holidays", "managing blood sugar during Christmas and New Year", "emotional-mental-health"]
-primaryKeyword: "stress and blood sugar holidays"
-topicCluster: "emotional-mental-health"
-image: ""
-relatedSlugs: ["why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "how-stress-affects-blood-sugar-in-people-with-diabetes-over-50", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays"]
+title: The Link Between Holiday Stress and Blood Sugar Spikes After 50
+slug: the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+description: >-
+  Discusses how emotional stress during family gatherings impacts insulin
+  resistance and glucose levels in middle-aged and older adults.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - stress and blood sugar holidays
+  - managing blood sugar during Christmas and New Year
+  - emotional-mental-health
+primaryKeyword: stress and blood sugar holidays
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---
 
 # How Holiday Stress and Blood Sugar Holidays Interact After Age 50

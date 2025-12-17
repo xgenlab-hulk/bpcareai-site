@@ -1,14 +1,26 @@
 ---
-title: "Warning Signs of Hypoglycemia at New Year’s Eve Parties Everyone Should Know"
-slug: "warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know"
-description: "Highlight subtle and often-missed symptoms of low blood sugar in social settings, especially for seniors taking insulin during alcohol-heavy celebrations."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["hypoglycemia signs at parties seniors", "managing blood sugar during Christmas and New Year", "emergency-symptoms-recognition"]
-primaryKeyword: "hypoglycemia signs at parties seniors"
-topicCluster: "emergency-symptoms-recognition"
-image: ""
-relatedSlugs: ["when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties", "what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners"]
+title: Warning Signs of Hypoglycemia at New Year’s Eve Parties Everyone Should Know
+slug: warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
+description: >-
+  Highlight subtle and often-missed symptoms of low blood sugar in social
+  settings, especially for seniors taking insulin during alcohol-heavy
+  celebrations.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - hypoglycemia signs at parties seniors
+  - managing blood sugar during Christmas and New Year
+  - emergency-symptoms-recognition
+primaryKeyword: hypoglycemia signs at parties seniors
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
 ---
 
 # Recognizing Hypoglycemia Signs at Parties Seniors Shouldn’t Overlook This Holiday Season

@@ -1,14 +1,24 @@
 ---
-title: "Best Indoor Exercises to Boost Mood During Winter for Seniors Over 70"
-slug: "best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70"
-description: "List effective, low-impact physical activities that combat seasonal lethargy and improve emotional well-being at home."
-date: "2025-12-08"
-updated: "2025-12-08"
-tags: ["indoor exercises for seasonal depression", "seasonal depression in older adults", "exercise-physical-activity"]
-primaryKeyword: "indoor exercises for seasonal depression"
-topicCluster: "exercise-physical-activity"
-image: ""
-relatedSlugs: ["the-best-indoor-exercises-for-blood-pressure-control-in-winter", "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "how-winter-depression-affects-heart-health-in-retired-adults", "best-low-impact-exercises-for-managing-diabetes-after-60"]
+title: Best Indoor Exercises to Boost Mood During Winter for Seniors Over 70
+slug: best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+description: >-
+  List effective, low-impact physical activities that combat seasonal lethargy
+  and improve emotional well-being at home.
+date: '2025-12-08'
+updated: '2025-12-08'
+tags:
+  - indoor exercises for seasonal depression
+  - seasonal depression in older adults
+  - exercise-physical-activity
+primaryKeyword: indoor exercises for seasonal depression
+topicCluster: physical-activity
+image: ''
+relatedSlugs:
+  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - how-winter-depression-affects-heart-health-in-retired-adults
+  - best-low-impact-exercises-for-managing-diabetes-after-60
 ---
 
 # Gentle Indoor Exercises for Seasonal Depression: Uplifting Mood Safely at Home for Seniors Over 70

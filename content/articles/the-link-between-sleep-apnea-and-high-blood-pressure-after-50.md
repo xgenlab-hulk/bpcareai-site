@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - cardiovascular-risk
 primaryKeyword: sleep apnea and high blood pressure over 50
-topicCluster: cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-sleep-affects-heart-health-after-50

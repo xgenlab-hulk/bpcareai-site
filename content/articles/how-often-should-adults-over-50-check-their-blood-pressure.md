@@ -11,7 +11,7 @@ tags:
   - blood pressure
   - blood-pressure-basics
 primaryKeyword: how often to check blood pressure after 50
-topicCluster: blood-pressure-basics
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - why-blood-pressure-matters-even-if-you-feel-fine

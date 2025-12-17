@@ -1,14 +1,24 @@
 ---
-title: "The Link Between Atrial Fibrillation and Heart Disease in Seniors"
-slug: "the-link-between-atrial-fibrillation-and-heart-disease-in-seniors"
-description: "Understand how irregular heartbeat raises the risk of heart failure and stroke in older adults."
-date: "2025-12-15"
-updated: "2025-12-15"
-tags: ["atrial fibrillation and heart disease in elderly", "heart disease", "heart-health"]
-primaryKeyword: "atrial fibrillation and heart disease in elderly"
-topicCluster: "heart-health"
-image: ""
-relatedSlugs: ["the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults", "the-hidden-link-between-gum-disease-and-heart-problems", "how-air-pollution-impacts-heart-health-in-older-adults", "the-connection-between-frequent-urination-at-night-and-heart-health"]
+title: The Link Between Atrial Fibrillation and Heart Disease in Seniors
+slug: the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
+description: >-
+  Understand how irregular heartbeat raises the risk of heart failure and stroke
+  in older adults.
+date: '2025-12-15'
+updated: '2025-12-15'
+tags:
+  - atrial fibrillation and heart disease in elderly
+  - heart disease
+  - heart-health
+primaryKeyword: atrial fibrillation and heart disease in elderly
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - how-air-pollution-impacts-heart-health-in-older-adults
+  - the-connection-between-frequent-urination-at-night-and-heart-health
 ---
 
 # Understanding Atrial Fibrillation and Heart Disease in the Elderly: What Every Senior Should Know

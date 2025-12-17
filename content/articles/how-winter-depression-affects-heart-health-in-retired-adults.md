@@ -1,14 +1,24 @@
 ---
-title: "How Winter Depression Affects Heart Health in Retired Adults"
-slug: "how-winter-depression-affects-heart-health-in-retired-adults"
-description: "Analyzes the link between seasonal affective disorder (SAD), emotional stress, and increased cardiovascular risk in retirees."
-date: "2025-12-04"
-updated: "2025-12-04"
-tags: ["winter depression heart health", "winter heart health for seniors", "mental-emotional-health"]
-primaryKeyword: "winter depression heart health"
-topicCluster: "mental-emotional-health"
-image: ""
-relatedSlugs: ["how-vitamin-d-deficiency-impacts-heart-health-in-winter", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "how-social-isolation-impacts-heart-disease-risk-in-older-adults", "how-retirement-changes-affect-heart-health", "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults"]
+title: How Winter Depression Affects Heart Health in Retired Adults
+slug: how-winter-depression-affects-heart-health-in-retired-adults
+description: >-
+  Analyzes the link between seasonal affective disorder (SAD), emotional stress,
+  and increased cardiovascular risk in retirees.
+date: '2025-12-04'
+updated: '2025-12-04'
+tags:
+  - winter depression heart health
+  - winter heart health for seniors
+  - mental-emotional-health
+primaryKeyword: winter depression heart health
+topicCluster: mental-wellness
+image: ''
+relatedSlugs:
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - how-retirement-changes-affect-heart-health
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 ---
 
 # How Winter Depression Heart Health Impacts Retired Adults

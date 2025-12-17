@@ -11,7 +11,7 @@ tags:
   - diabetes
   - diabetes-management
 primaryKeyword: A1C targets for elderly with diabetes
-topicCluster: diabetes-management
+topicCluster: diabetes-care
 image: ''
 relatedSlugs:
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics

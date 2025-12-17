@@ -1,14 +1,24 @@
 ---
-title: "Best Non-Alcoholic Holiday Drinks for Heart Health After 50"
-slug: "best-non-alcoholic-holiday-drinks-for-heart-health-after-50"
-description: "Recommend flavorful, heart-safe beverage alternatives that support cardiovascular stability during festive gatherings."
-date: "2025-12-11"
-updated: "2025-12-11"
-tags: ["non-alcoholic drinks heart health", "holiday heart syndrome prevention", "cardiac-diet"]
-primaryKeyword: "non-alcoholic drinks heart health"
-topicCluster: "cardiac-diet"
-image: ""
-relatedSlugs: ["best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70"]
+title: Best Non-Alcoholic Holiday Drinks for Heart Health After 50
+slug: best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+description: >-
+  Recommend flavorful, heart-safe beverage alternatives that support
+  cardiovascular stability during festive gatherings.
+date: '2025-12-11'
+updated: '2025-12-11'
+tags:
+  - non-alcoholic drinks heart health
+  - holiday heart syndrome prevention
+  - cardiac-diet
+primaryKeyword: non-alcoholic drinks heart health
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # Heart-Safe Holiday Sips: Best Non-Alcoholic Drinks for Heart Health After 50

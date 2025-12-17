@@ -1,14 +1,24 @@
 ---
-title: "When to Worry About Palpitations After Christmas Dinner"
-slug: "when-to-worry-about-palpitations-after-christmas-dinner"
-description: "Outline red flags indicating when post-meal heart palpitations require urgent medical attention versus normal transient responses."
-date: "2025-12-14"
-updated: "2025-12-14"
-tags: ["post-meal palpitations warning", "holiday heart syndrome prevention", "emergency-symptoms"]
-primaryKeyword: "post-meal palpitations warning"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["when-to-worry-about-chest-discomfort-after-a-big-holiday-meal", "when-to-worry-about-weight-gain-after-a-family-gathering", "quick-ways-to-calm-a-racing-heart-during-a-holiday-event", "when-to-worry-about-blood-pressure-changes-during-winter", "is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues"]
+title: When to Worry About Palpitations After Christmas Dinner
+slug: when-to-worry-about-palpitations-after-christmas-dinner
+description: >-
+  Outline red flags indicating when post-meal heart palpitations require urgent
+  medical attention versus normal transient responses.
+date: '2025-12-14'
+updated: '2025-12-14'
+tags:
+  - post-meal palpitations warning
+  - holiday heart syndrome prevention
+  - emergency-symptoms
+primaryKeyword: post-meal palpitations warning
+topicCluster: symptoms-emergencies
+image: ''
+relatedSlugs:
+  - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
+  - when-to-worry-about-weight-gain-after-a-family-gathering
+  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - when-to-worry-about-blood-pressure-changes-during-winter
+  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
 ---
 
 # When Post-Meal Palpitations Warning Signs Mean It’s Time to Call Your Doctor

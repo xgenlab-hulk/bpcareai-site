@@ -11,7 +11,7 @@ tags:
   - senior blood pressure control in winter
   - preventive-strategies
 primaryKeyword: hydration and winter blood pressure
-topicCluster: preventive-strategies
+topicCluster: preventive-care
 image: ''
 relatedSlugs:
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
