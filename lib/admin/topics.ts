@@ -140,9 +140,9 @@ export async function deleteTopic(slug: string): Promise<void> {
     const plannedFilePath = `data/planned-topics-${slug}.json`;
 
     try {
-      // Check if file exists by trying to fetch it
+      // Check if file exists by trying to fetch it (with cache-busting)
       const response = await fetch(
-        `https://raw.githubusercontent.com/xgenlab-hulk/bpcareai-site/main/${plannedFilePath}`
+        `https://raw.githubusercontent.com/xgenlab-hulk/bpcareai-site/main/${plannedFilePath}?t=${Date.now()}`
       );
 
       if (response.ok) {
@@ -159,8 +159,9 @@ export async function deleteTopic(slug: string): Promise<void> {
     const topicsFilePath = 'data/topics.json';
 
     try {
+      // Fetch with cache-busting to ensure we get the latest data
       const topicsResponse = await fetch(
-        `https://raw.githubusercontent.com/xgenlab-hulk/bpcareai-site/main/${topicsFilePath}`
+        `https://raw.githubusercontent.com/xgenlab-hulk/bpcareai-site/main/${topicsFilePath}?t=${Date.now()}`
       );
 
       if (!topicsResponse.ok) {
