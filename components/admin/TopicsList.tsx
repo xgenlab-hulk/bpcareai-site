@@ -56,7 +56,14 @@ export function TopicsList({ initialTopics }: TopicsListProps) {
 
       console.log(`[Delete] Successfully deleted topic "${topicName}"`);
       alert(`Successfully deleted topic "${topicName}"`);
+
+      // Force refresh the page to ensure UI updates
       router.refresh();
+
+      // Fallback: hard refresh after a short delay if router.refresh() doesn't work
+      setTimeout(() => {
+        window.location.reload();
+      }, 500);
     } catch (error) {
       console.error('[Delete] Error:', error);
       const errorMessage = error instanceof Error ? error.message : 'Failed to delete topic';
@@ -91,6 +98,11 @@ export function TopicsList({ initialTopics }: TopicsListProps) {
 
       setNewTopic('');
       router.refresh();
+
+      // Force refresh after adding topic
+      setTimeout(() => {
+        window.location.reload();
+      }, 500);
     } catch (error) {
       console.error('Add error:', error);
       alert(error instanceof Error ? error.message : 'Failed to add topic. Please try again.');
