@@ -17,6 +17,8 @@ relatedSlugs:
   - the-role-of-fiber-in-controlling-blood-sugar-after-50
   - a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households
   - best-fruits-for-diabetics-over-50-and-which-to-limit
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
 ---
 
 # Best High-Fiber Family Side Dishes That Are Nutritious, Delicious, and Actually Get Eaten
