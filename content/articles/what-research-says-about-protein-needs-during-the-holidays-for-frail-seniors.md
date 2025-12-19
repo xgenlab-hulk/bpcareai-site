@@ -18,6 +18,7 @@ relatedSlugs:
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
     top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 
 # Optimizing Protein Intake for Frail Seniors During the Holiday Season  

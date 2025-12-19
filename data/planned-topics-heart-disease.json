@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "title": "Why Does Heart Disease Progress Faster in Men Over 55 with Untreated Sleep Apnea?",
+    "description": "Explores the under-recognized link between obstructive sleep apnea and accelerated coronary artery disease in midlife and older men—backed by 2023–2024 cohort studies.",
+    "primaryKeyword": "sleep apnea and heart disease progression in men",
+    "topicCluster": "comorbidities-sleep-apnea",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:38:53.001Z"
+  },
+  {
+    "title": "5 Things Your Cardiologist Isn’t Telling You About Statin Side Effects After Age 65",
+    "description": "Evidence-based breakdown of underreported statin-related risks—muscle mitochondrial dysfunction, cognitive fog, and glucose intolerance—in older adults, plus safer monitoring strategies.",
+    "primaryKeyword": "statin side effects after age 65",
+    "topicCluster": "medications-statin-safety",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:38:54.098Z"
+  },
+  {
+    "title": "How Chronic Loneliness After 70 Rewires the Autonomic Nervous System—and Raises Heart Failure Risk",
+    "description": "Analyzes longitudinal data linking sustained social isolation to vagal tone suppression, elevated norepinephrine, and left ventricular stiffness in community-dwelling seniors.",
+    "primaryKeyword": "loneliness and heart failure risk after 70",
+    "topicCluster": "emotional-health-autonomic-function",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:38:55.157Z"
+  },
+  {
+    "title": "The Truth About 'Heart-Healthy' Plant-Based Burgers for Seniors With Stage 3 CKD and Hypertension",
+    "description": "Ingredient-level scrutiny of popular meat alternatives—focusing on hidden phosphorus additives, potassium load, and sodium variability—and safer homemade swaps.",
+    "primaryKeyword": "plant-based burgers for kidney disease seniors",
+    "topicCluster": "diet-nutrition-ckd-hypertension",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:38:56.286Z"
+  },
+  {
+    "title": "Can Air Pollution Exposure During Daily Walks Trigger Arrhythmias in Women Over 60 with Atrial Fibrillation?",
+    "description": "Reviews real-time ECG monitoring studies linking PM2.5 spikes to increased AFib burden and nocturnal QT prolongation in older women with established arrhythmia.",
+    "primaryKeyword": "air pollution and afib in women over 60",
+    "topicCluster": "environmental-triggers-arrhythmia",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:38:57.400Z"
+  },
+  {
+    "title": "7 Silent Signs of Right-Sided Heart Failure That Are Mistaken for 'Normal Aging' in Adults 80+",
+    "description": "Highlights overlooked clinical clues—nocturnal polyuria, isolated jugular venous distension without edema, and unexplained hepatomegaly—commonly misattributed to aging or liver disease.",
+    "primaryKeyword": "right-sided heart failure signs in octogenarians",
+    "topicCluster": "symptoms-aging-misdiagnosis",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:38:58.494Z"
+  },
+  {
+    "title": "Natural Ways to Improve Endothelial Function Without Medication: Evidence from 12 Clinical Trials in Adults 55–74",
+    "description": "Synthesizes data on targeted interventions—low-dose L-arginine + pomegranate extract, timed nitrate-rich vegetable intake, and cold-water immersion—for measurable FMD improvement.",
+    "primaryKeyword": "improve endothelial function without medication",
+    "topicCluster": "natural-remedies-endothelial-health",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:38:59.581Z"
+  },
+  {
+    "title": "When to Worry About Sudden Fatigue After Starting a New Blood Pressure Medication at Age 68",
+    "description": "Differentiates medication-induced fatigue (e.g., beta-blocker bradycardia vs. ACE inhibitor angioedema prodrome) from early decompensated heart failure—plus actionable symptom triage steps.",
+    "primaryKeyword": "fatigue after blood pressure medication over 65",
+    "topicCluster": "medication-symptom-alerts",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:00.680Z"
+  },
+  {
+    "title": "How Gut Microbiome Diversity at Age 60 Predicts 10-Year Heart Failure Incidence—And What You Can Change Now",
+    "description": "Explains the Akkermansia–butyrate–TMAO axis, interprets stool test biomarkers, and outlines clinically validated prebiotic protocols for cardiac risk reduction.",
+    "primaryKeyword": "gut microbiome and heart failure prediction",
+    "topicCluster": "gut-heart-axis-prevention",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:01.739Z"
+  },
+  {
+    "title": "Best Low-Impact Resistance Exercises for Seniors With Severe Aortic Stenosis (Who Can’t Do Push-Ups or Squats)",
+    "description": "Physiotherapist-designed isometric and partial-ROM routines—using resistance bands and seated positions—that safely improve skeletal muscle perfusion without increasing afterload.",
+    "primaryKeyword": "aortic stenosis resistance exercises seniors",
+    "topicCluster": "exercise-aortic-stenosis",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:02.836Z"
+  },
+  {
+    "title": "Does Intermittent Fasting Worsen Diastolic Dysfunction in Women Over 50 with Hypertensive Heart Disease?",
+    "description": "Examines echocardiographic data on fasting-induced RAAS activation and left ventricular filling pressure changes—separating myth from mechanistic risk.",
+    "primaryKeyword": "intermittent fasting and diastolic dysfunction",
+    "topicCluster": "diet-timing-diastolic-function",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:03.961Z"
+  },
+  {
+    "title": "12 Science-Backed Ways to Reduce Coronary Artery Calcification Progression After Age 55",
+    "description": "Covers vitamin K2 (MK-7) dosing, magnesium threonate timing, arterial pulse wave velocity biofeedback, and low-dose colchicine protocols validated in RCTs.",
+    "primaryKeyword": "reduce coronary artery calcification progression",
+    "topicCluster": "prevention-coronary-calcification",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:05.062Z"
+  },
+  {
+    "title": "What Research Says About Magnesium Glycinate vs. Magnesium Oxide for QT Interval Stability in Older Adults on Amiodarone",
+    "description": "Compares absorption kinetics, serum vs. intracellular magnesium levels, and QTc change data in patients with drug-induced long QT syndrome.",
+    "primaryKeyword": "magnesium glycinate vs oxide amiodarone qt",
+    "topicCluster": "supplements-qtc-stability",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:06.137Z"
+  },
+  {
+    "title": "How Morning Blood Pressure Surges Differ in Stroke Survivors vs. Primary Prevention Patients Over 60",
+    "description": "Breaks down ABPM patterns—peak timing, surge magnitude, and circadian phase shift—plus tailored morning medication timing based on neurovascular autoregulation capacity.",
+    "primaryKeyword": "morning blood pressure surge stroke survivors",
+    "topicCluster": "monitoring-circadian-patterns",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:07.337Z"
+  },
+  {
+    "title": "Quick 7-Minute Breathing Protocol to Lower Sympathetic Tone in Adults With Stage 2 Hypertension and Anxiety",
+    "description": "Teaches paced diaphragmatic breathing with HRV biofeedback cues—validated in a 2024 RCT for reducing systolic BP ≥12 mmHg within 2 weeks.",
+    "primaryKeyword": "breathing protocol for hypertension and anxiety",
+    "topicCluster": "lifestyle-breathing-hrv",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:09.562Z"
+  },
+  {
+    "title": "Is It Safe to Use Saunas After a Recent Myocardial Infarction? Guidelines for Men 62–71 Based on 2024 AHA Consensus",
+    "description": "Clarifies contraindications (e.g., LVEF <40%, uncontrolled arrhythmia), safe protocols (dry vs infrared, hydration timing), and 3-month post-MI reintegration milestones.",
+    "primaryKeyword": "sauna safety after heart attack over 60",
+    "topicCluster": "lifestyle-sauna-recovery",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:10.666Z"
+  },
+  {
+    "title": "The Connection Between Late-Life Hearing Loss and Increased Heart Failure Hospitalization Risk in Women Over 70",
+    "description": "Explains shared vascular pathology in cochlear microcirculation and myocardium, plus how untreated hearing impairment delays symptom recognition and care seeking.",
+    "primaryKeyword": "hearing loss and heart failure hospitalization",
+    "topicCluster": "sensory-health-cardiac-outcomes",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:11.760Z"
+  },
+  {
+    "title": "Myths vs Facts: 'I Don’t Need Cholesterol Screening After 80' and 4 Other Dangerous Assumptions About Heart Disease in the Oldest-Old",
+    "description": "Debunks ageist misconceptions using data from the 85+ Study and UK Biobank—highlighting residual benefit of LDL-lowering and statin safety up to age 95.",
+    "primaryKeyword": "cholesterol screening myths after age 80",
+    "topicCluster": "myths-facts-oldest-old",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:12.884Z"
+  },
+  {
+    "title": "Simple Changes to Your Home Lighting Schedule That Lower Nighttime Blood Pressure in Adults With Nocturnal Hypertension",
+    "description": "Guides circadian lighting adjustments—blue-enriched morning light, amber evening filters, and bedroom light exposure thresholds—to optimize melatonin and renin rhythms.",
+    "primaryKeyword": "home lighting and nighttime blood pressure",
+    "topicCluster": "environmental-lighting-hypertension",
+    "coreKeyword": "heart disease",
+    "createdAt": "2025-12-19T03:39:13.958Z"
+  }
+]

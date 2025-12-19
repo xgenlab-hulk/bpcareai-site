@@ -19,6 +19,10 @@ topicCluster: treatment-interventions
 image: ''
 relatedSlugs:
   - can-deep-breathing-exercises-reduce-high-blood-pressure
+  - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
+  - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
 ---
 
 # A Gentle 12-Minute Breathing Technique to Lower Systolic BP—Backed by Science and Designed for Adults 55–80

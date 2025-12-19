@@ -20,6 +20,8 @@ image: ''
 relatedSlugs:
   - when-to-worry-about-blood-pressure-changes-during-winter
   - exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
+  - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
 ---
 
 # When Blood Pressure Fluctuations Warning Signs Signal Something More Serious

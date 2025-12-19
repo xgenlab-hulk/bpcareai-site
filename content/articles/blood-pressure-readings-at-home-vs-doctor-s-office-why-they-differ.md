@@ -17,6 +17,8 @@ relatedSlugs:
   - when-to-worry-about-high-readings
   - is-your-medication-causing-high-blood-pressure
   - understanding-blood-pressure-numbers
+  - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
 ---
 
 # Understanding Your Home Blood Pressure vs Doctor Office Reading
