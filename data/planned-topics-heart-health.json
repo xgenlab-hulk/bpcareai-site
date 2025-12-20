@@ -16,14 +16,6 @@
     "createdAt": "2025-12-19T03:40:39.183Z"
   },
   {
-    "title": "Can Intermittent Fasting Lower LDL-Particle Count in Men With Familial Hypercholesterolemia Over 50?",
-    "description": "Examines emerging evidence on IF protocols (16:8 vs. 5:2) and their impact on atherogenic particle metrics—not just total LDL—in genetically high-risk men.",
-    "primaryKeyword": "intermittent fasting LDL particle count men",
-    "topicCluster": "treatment-dietary-intervention",
-    "coreKeyword": "heart health",
-    "createdAt": "2025-12-19T03:40:42.347Z"
-  },
-  {
     "title": "Best Low-Impact Resistance Exercises for Heart Failure Patients With Limited Mobility (Chair-Based & Bedside Options)",
     "description": "Science-backed, cardiologist-approved strength routines using resistance bands and bodyweight—designed specifically for NYHA Class II–III patients who fatigue easily.",
     "primaryKeyword": "low impact resistance exercises heart failure",
@@ -54,21 +46,5 @@
     "topicCluster": "medications-complications",
     "coreKeyword": "heart health",
     "createdAt": "2025-12-19T03:40:51.202Z"
-  },
-  {
-    "title": "What Are the Earliest Signs of Right-Sided Heart Failure in Seniors With COPD—Before Swelling or Shortness of Breath?",
-    "description": "Highlights subtle clues like nocturnal cough, unexplained fatigue, elevated JVP on self-exam, and jugular venous wave patterns detectable at home.",
-    "primaryKeyword": "early signs right sided heart failure COPD",
-    "topicCluster": "symptoms-comorbidity",
-    "coreKeyword": "heart health",
-    "createdAt": "2025-12-19T03:40:57.842Z"
-  },
-  {
-    "title": "Top 4 Non-Statin Cholesterol Modulators for Adults With Statin-Intolerant Myopathy Over 60",
-    "description": "Compares efficacy and safety of bempedoic acid, ezetimibe, PCSK9 inhibitors, and inclisiran—with emphasis on renal clearance, injection burden, and cost access.",
-    "primaryKeyword": "non statin cholesterol modulators myopathy",
-    "topicCluster": "treatment-alternatives",
-    "coreKeyword": "heart health",
-    "createdAt": "2025-12-19T03:40:58.981Z"
   }
 ]

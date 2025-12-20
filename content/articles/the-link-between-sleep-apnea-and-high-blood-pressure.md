@@ -18,6 +18,8 @@ relatedSlugs:
   - can-meditation-lower-blood-pressure-naturally
   - why-blood-pressure-matters-even-if-you-feel-fine
   - how-belly-fat-increases-blood-pressure-risk-after-middle-age
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
 ---
 
 # Understanding the Sleep Apnea and High Blood Pressure Connection

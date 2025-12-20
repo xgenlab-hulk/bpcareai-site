@@ -1,14 +1,28 @@
 ---
-title: "How Air Pollution Exposure During Daily Walks Affects Endothelial Function in Adults With Prediabetes Over 55"
-slug: "how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55"
-description: "Details PM2.5 and ozone thresholds that impair flow-mediated dilation—and real-world walking route optimization tools for urban seniors."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["air pollution endothelial function prediabetes", "heart health", "environmental-risk-factors"]
-primaryKeyword: "air pollution endothelial function prediabetes"
-topicCluster: "environmental-risk-factors"
-image: ""
-relatedSlugs: ["the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults", "how-air-pollution-impacts-heart-health-in-older-adults"]
+title: >-
+  How Air Pollution Exposure During Daily Walks Affects Endothelial Function in
+  Adults With Prediabetes Over 55
+slug: >-
+  how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
+description: >-
+  Details PM2.5 and ozone thresholds that impair flow-mediated dilation—and
+  real-world walking route optimization tools for urban seniors.
+date: '2025-12-19'
+updated: '2025-12-19'
+tags:
+  - air pollution endothelial function prediabetes
+  - heart health
+  - environmental-risk-factors
+primaryKeyword: air pollution endothelial function prediabetes
+topicCluster: environmental-risk-factors
+image: ''
+relatedSlugs:
+  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
+  - how-air-pollution-impacts-heart-health-in-older-adults
+  - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
+  - >-
+    does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
 ---
 
 # How Daily Air Pollution Exposure Impacts Endothelial Function in Adults With Prediabetes Over 55

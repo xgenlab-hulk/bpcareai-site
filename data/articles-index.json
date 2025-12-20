@@ -1,5 +1,400 @@
 [
   {
+    "slug": "why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea",
+    "title": "Why Does Heart Disease Progress Faster in Men Over 55 with Untreated Sleep Apnea?",
+    "description": "Explores the under-recognized link between obstructive sleep apnea and accelerated coronary artery disease in midlife and older men—backed by 2023–2024 cohort studies.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "sleep apnea and heart disease progression in men",
+      "heart disease",
+      "comorbidities-sleep-apnea"
+    ],
+    "primaryKeyword": "sleep apnea and heart disease progression in men",
+    "topicCluster": "comorbidities-sleep-apnea",
+    "image": "",
+    "relatedSlugs": [
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "how-obesity-contributes-to-heart-disease-in-middle-age",
+      "the-link-between-sleep-apnea-and-high-blood-pressure"
+    ]
+  },
+  {
+    "slug": "when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68",
+    "title": "When to Worry About Sudden Fatigue After Starting a New Blood Pressure Medication at Age 68",
+    "description": "Differentiates medication-induced fatigue (e.g., beta-blocker bradycardia vs. ACE inhibitor angioedema prodrome) from early decompensated heart failure—plus actionable symptom triage steps.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "fatigue after blood pressure medication over 65",
+      "heart disease",
+      "medication-symptom-alerts"
+    ],
+    "primaryKeyword": "fatigue after blood pressure medication over 65",
+    "topicCluster": "medication-symptom-alerts",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60",
+    "title": "When to Worry About Heart Palpitations After Midnight Toasts—A Red Flag Timeline for Women Over 60",
+    "description": "A time-stamped clinical guide distinguishing benign post-alcohol ectopy from worrisome patterns (e.g., >30s sustained tachycardia, syncope prodrome, orthostatic BP drop) with gender-specific thresholds and action steps.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "heart palpitations after midnight toasts women 60+",
+      "holiday heart syndrome prevention",
+      "symptom-timing-gender-red-flags"
+    ],
+    "primaryKeyword": "heart palpitations after midnight toasts women 60+",
+    "topicCluster": "symptom-timing-gender-red-flags",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-worry-about-palpitations-after-christmas-dinner",
+      "can-late-night-holiday-parties-disrupt-heart-rhythm-after-60",
+      "when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension",
+      "the-truth-about-benign-holiday-palpitations-are-they-really-harmless",
+      "should-you-worry-about-heart-palpitations-when-lying-down"
+    ]
+  },
+  {
+    "slug": "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath",
+    "title": "What Are the Earliest Signs of Right-Sided Heart Failure in Seniors With COPD—Before Swelling or Shortness of Breath?",
+    "description": "Highlights subtle clues like nocturnal cough, unexplained fatigue, elevated JVP on self-exam, and jugular venous wave patterns detectable at home.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "early signs right sided heart failure COPD",
+      "heart health",
+      "symptoms-comorbidity"
+    ],
+    "primaryKeyword": "early signs right sided heart failure COPD",
+    "topicCluster": "symptoms-comorbidity",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents",
+      "heart-disease-warning-signs-that-appear-years-in-advance",
+      "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80"
+    ]
+  },
+  {
+    "slug": "top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60",
+    "title": "Top 4 Non-Statin Cholesterol Modulators for Adults With Statin-Intolerant Myopathy Over 60",
+    "description": "Compares efficacy and safety of bempedoic acid, ezetimibe, PCSK9 inhibitors, and inclisiran—with emphasis on renal clearance, injection burden, and cost access.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "non statin cholesterol modulators myopathy",
+      "heart health",
+      "treatment-alternatives"
+    ],
+    "primaryKeyword": "non statin cholesterol modulators myopathy",
+    "topicCluster": "treatment-alternatives",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications",
+    "title": "The Truth About Herbal Supplements and Blood Pressure: Which Ones Help, Which Harm, and Which Interfere With Medications",
+    "description": "Reviews clinical evidence on garlic, hawthorn, berberine, and licorice—highlighting proven interactions with ACE inhibitors, ARBs, and diuretics in adults over 60.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "herbal supplements blood pressure interactions",
+      "blood pressure",
+      "supplements-medications-safety"
+    ],
+    "primaryKeyword": "herbal supplements blood pressure interactions",
+    "topicCluster": "supplements-medications-safety",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "the-connection-between-winter-infections-and-blood-pressure-fluctuations",
+    "title": "The Connection Between Winter Infections and Blood Pressure Fluctuations",
+    "description": "Explores how common colds, flu, and respiratory illnesses can destabilize hypertension control in seniors.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "infections and blood pressure",
+      "senior blood pressure control in winter",
+      "complications-related-conditions"
+    ],
+    "primaryKeyword": "infections and blood pressure",
+    "topicCluster": "complications-related-conditions",
+    "image": "",
+    "relatedSlugs": [
+      "the-link-between-winter-depression-and-high-blood-pressure-in-older-adults",
+      "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "7-hidden-winter-habits-that-worsen-hypertension-after-60",
+      "how-does-cold-weather-affect-blood-pressure-in-older-adults"
+    ]
+  },
+  {
+    "slug": "the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70",
+    "title": "The Connection Between Late-Life Hearing Loss and Increased Heart Failure Hospitalization Risk in Women Over 70",
+    "description": "Explains shared vascular pathology in cochlear microcirculation and myocardium, plus how untreated hearing impairment delays symptom recognition and care seeking.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "hearing loss and heart failure hospitalization",
+      "heart disease",
+      "sensory-health-cardiac-outcomes"
+    ],
+    "primaryKeyword": "hearing loss and heart failure hospitalization",
+    "topicCluster": "sensory-health-cardiac-outcomes",
+    "image": "",
+    "relatedSlugs": [
+      "the-link-between-hearing-loss-and-heart-disease-after-60",
+      "blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70",
+      "can-hearing-loss-be-an-early-sign-of-heart-disease",
+      "the-link-between-atrial-fibrillation-and-heart-disease-in-seniors",
+      "the-connection-between-frequent-urination-at-night-and-heart-health"
+    ]
+  },
+  {
+    "slug": "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night",
+    "title": "How Sleep Apnea Quietly Destroys Blood Vessel Health—And Why BP Readings Lie at Night",
+    "description": "Breaks down the nocturnal cardiovascular damage caused by undiagnosed sleep apnea in adults 60+, explaining why home BP monitors miss critical nighttime surges and what to do instead.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "sleep apnea nighttime blood pressure",
+      "blood pressure",
+      "sleep-cardiovascular-link"
+    ],
+    "primaryKeyword": "sleep apnea nighttime blood pressure",
+    "topicCluster": "sleep-cardiovascular-link",
+    "image": "",
+    "relatedSlugs": [
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "the-link-between-sleep-apnea-and-high-blood-pressure",
+      "how-morning-blood-pressure-spikes-affect-your-heart",
+      "blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70",
+      "a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60"
+    ]
+  },
+  {
+    "slug": "how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65",
+    "title": "How Portion Distortion at Thanksgiving Buffets Worsens Hypertension in Adults Over 65",
+    "description": "Explores the physiological and behavioral mechanisms linking oversized servings to acute blood pressure spikes—and how visual portion cues (like plate size and serving utensils) uniquely impact seniors’ cardiovascular stress.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "portion distortion hypertension seniors",
+      "healthy eating during family gatherings",
+      "cardiac-diet-behavioral"
+    ],
+    "primaryKeyword": "portion distortion hypertension seniors",
+    "topicCluster": "cardiac-diet-behavioral",
+    "image": "",
+    "relatedSlugs": [
+      "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75",
+      "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60",
+      "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure",
+      "portion-control-strategies-for-large-family-meals-that-work",
+      "can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65"
+    ]
+  },
+  {
+    "slug": "how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib",
+    "title": "How Late-Night Gift Wrapping Affects Heart Rhythm Stability in Adults With Pre-Existing AFib",
+    "description": "Examines circadian disruption, blue light exposure, and sustained seated posture during evening holiday tasks—and their measurable impact on atrial fibrillation burden in diagnosed adults aged 60–80.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "late-night gift wrapping and afib stability",
+      "holiday heart syndrome prevention",
+      "circadian-afib-interaction"
+    ],
+    "primaryKeyword": "late-night gift wrapping and afib stability",
+    "topicCluster": "circadian-afib-interaction",
+    "image": "",
+    "relatedSlugs": [
+      "can-late-night-holiday-parties-disrupt-heart-rhythm-after-60",
+      "how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm",
+      "the-connection-between-holiday-light-exposure-and-blood-sugar-regulation",
+      "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65",
+      "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults"
+    ]
+  },
+  {
+    "slug": "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now",
+    "title": "How Gut Microbiome Diversity at Age 60 Predicts 10-Year Heart Failure Incidence—And What You Can Change Now",
+    "description": "Explains the Akkermansia–butyrate–TMAO axis, interprets stool test biomarkers, and outlines clinically validated prebiotic protocols for cardiac risk reduction.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "gut microbiome and heart failure prediction",
+      "heart disease",
+      "gut-heart-axis-prevention"
+    ],
+    "primaryKeyword": "gut microbiome and heart failure prediction",
+    "topicCluster": "gut-heart-axis-prevention",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk",
+    "title": "How Chronic Loneliness After 70 Rewires the Autonomic Nervous System—and Raises Heart Failure Risk",
+    "description": "Analyzes longitudinal data linking sustained social isolation to vagal tone suppression, elevated norepinephrine, and left ventricular stiffness in community-dwelling seniors.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "loneliness and heart failure risk after 70",
+      "heart disease",
+      "emotional-health-autonomic-function"
+    ],
+    "primaryKeyword": "loneliness and heart failure risk after 70",
+    "topicCluster": "emotional-health-autonomic-function",
+    "image": "",
+    "relatedSlugs": [
+      "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone",
+      "how-social-isolation-increases-heart-disease-risk-after-60",
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70",
+      "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults"
+    ]
+  },
+  {
+    "slug": "does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors",
+    "title": "Does Air Pollution Raise Blood Pressure? What Real-Time Data Shows for Urban Seniors",
+    "description": "Translates EPA and WHO air quality index (AQI) thresholds into actionable BP risk levels—plus indoor mitigation tactics and timing adjustments for walks, meds, and outdoor errands in high-PM2.5 zones.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "air pollution blood pressure urban seniors",
+      "blood pressure",
+      "environmental-hypertension"
+    ],
+    "primaryKeyword": "air pollution blood pressure urban seniors",
+    "topicCluster": "environmental-hypertension",
+    "image": "",
+    "relatedSlugs": [
+      "how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55",
+      "can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation",
+      "how-indoor-air-quality-affects-heart-health-in-winter",
+      "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults",
+      "how-air-pollution-impacts-heart-health-in-older-adults"
+    ]
+  },
+  {
+    "slug": "can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50",
+    "title": "Can Intermittent Fasting Lower LDL-Particle Count in Men With Familial Hypercholesterolemia Over 50?",
+    "description": "Examines emerging evidence on IF protocols (16:8 vs. 5:2) and their impact on atherogenic particle metrics—not just total LDL—in genetically high-risk men.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "intermittent fasting LDL particle count men",
+      "heart health",
+      "treatment-dietary-intervention"
+    ],
+    "primaryKeyword": "intermittent fasting LDL particle count men",
+    "topicCluster": "treatment-dietary-intervention",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show",
+    "title": "Can Intermittent Fasting Lower Blood Pressure Without Weight Loss? What the Latest Trials Show",
+    "description": "Analyzes fasting-mimicking diets and 16:8 protocols in normoweight hypertensives—focusing on circadian BP rhythm restoration, aldosterone modulation, and renal sodium handling.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "intermittent fasting blood pressure no weight loss",
+      "blood pressure",
+      "dietary-timing-hypertension"
+    ],
+    "primaryKeyword": "intermittent fasting blood pressure no weight loss",
+    "topicCluster": "dietary-timing-hypertension",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65",
+    "title": "Can Holiday Card Games Raise Blood Pressure Enough to Trigger Arrhythmia in Sedentary Adults Over 65?",
+    "description": "Investigates competitive stress physiology—cortisol surges, sympathetic dominance, and microvascular resistance spikes—during common low-movement activities, with data from ambulatory BP monitoring studies in community-living seniors.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "holiday card games blood pressure arrhythmia",
+      "holiday heart syndrome prevention",
+      "low-intensity-stress-physiology"
+    ],
+    "primaryKeyword": "holiday card games blood pressure arrhythmia",
+    "topicCluster": "low-intensity-stress-physiology",
+    "image": "",
+    "relatedSlugs": [
+      "the-hidden-link-between-holiday-stress-and-irregular-heartbeat",
+      "why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk",
+      "blood-pressure-management-for-sedentary-seniors-in-winter-months",
+      "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol",
+      "can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes"
+    ]
+  },
+  {
+    "slug": "can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation",
+    "title": "Can Air Pollution Exposure During Daily Walks Trigger Arrhythmias in Women Over 60 with Atrial Fibrillation?",
+    "description": "Reviews real-time ECG monitoring studies linking PM2.5 spikes to increased AFib burden and nocturnal QT prolongation in older women with established arrhythmia.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "air pollution and afib in women over 60",
+      "heart disease",
+      "environmental-triggers-arrhythmia"
+    ],
+    "primaryKeyword": "air pollution and afib in women over 60",
+    "topicCluster": "environmental-triggers-arrhythmia",
+    "image": "",
+    "relatedSlugs": [
+      "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults",
+      "how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55",
+      "how-air-pollution-impacts-heart-health-in-older-adults",
+      "does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors"
+    ]
+  },
+  {
+    "slug": "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats",
+    "title": "Best Low-Impact Resistance Exercises for Seniors With Severe Aortic Stenosis (Who Can’t Do Push-Ups or Squats)",
+    "description": "Physiotherapist-designed isometric and partial-ROM routines—using resistance bands and seated positions—that safely improve skeletal muscle perfusion without increasing afterload.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "aortic stenosis resistance exercises seniors",
+      "heart disease",
+      "exercise-aortic-stenosis"
+    ],
+    "primaryKeyword": "aortic stenosis resistance exercises seniors",
+    "topicCluster": "exercise-aortic-stenosis",
+    "image": "",
+    "relatedSlugs": [
+      "the-best-indoor-exercises-for-blood-pressure-control-in-winter",
+      "blood-pressure-management-for-sedentary-seniors-in-winter-months"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80",
+    "title": "7 Silent Signs of Right-Sided Heart Failure That Are Mistaken for 'Normal Aging' in Adults 80+",
+    "description": "Highlights overlooked clinical clues—nocturnal polyuria, isolated jugular venous distension without edema, and unexplained hepatomegaly—commonly misattributed to aging or liver disease.",
+    "date": "2025-12-20",
+    "updated": "2025-12-20",
+    "tags": [
+      "right-sided heart failure signs in octogenarians",
+      "heart disease",
+      "symptoms-aging-misdiagnosis"
+    ],
+    "primaryKeyword": "right-sided heart failure signs in octogenarians",
+    "topicCluster": "symptoms-aging-misdiagnosis",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath",
+      "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents",
+      "the-connection-between-frequent-urination-at-night-and-heart-health",
+      "how-frequent-urination-at-night-could-signal-heart-problems"
+    ]
+  },
+  {
     "slug": "why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70",
     "title": "Why Your Morning Blood Pressure Spike May Not Be 'White Coat'—And How It Predicts Stroke Risk in Hypertensive Women Over 70",
     "description": "Explains the pathophysiology of morning surge, its independent association with cerebrovascular events, and validated home tracking strategies beyond single readings.",
@@ -36,7 +431,8 @@
     "relatedSlugs": [
       "how-standing-up-too-fast-affects-blood-pressure-in-older-adults",
       "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75",
-      "when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss"
+      "when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss",
+      "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60"
     ]
   },
   {
@@ -77,7 +473,8 @@
     "image": "",
     "relatedSlugs": [
       "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
-      "how-social-isolation-increases-heart-disease-risk-after-60"
+      "how-social-isolation-increases-heart-disease-risk-after-60",
+      "how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk"
     ]
   },
   {
@@ -206,7 +603,9 @@
     "image": "",
     "relatedSlugs": [
       "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults",
-      "how-air-pollution-impacts-heart-health-in-older-adults"
+      "how-air-pollution-impacts-heart-health-in-older-adults",
+      "can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation",
+      "does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors"
     ]
   },
   {
@@ -290,7 +689,8 @@
     "topicCluster": "diagnostic-gaps-gender-specific",
     "image": "",
     "relatedSlugs": [
-      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50"
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night"
     ]
   },
   {
@@ -6132,7 +6532,8 @@
     "relatedSlugs": [
       "how-frequent-urination-at-night-could-signal-heart-problems",
       "the-connection-between-frequent-urination-at-night-and-heart-health",
-      "could-your-heartbeats-per-minute-predict-longevity"
+      "could-your-heartbeats-per-minute-predict-longevity",
+      "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60"
     ]
   },
   {
@@ -7465,7 +7866,8 @@
       "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
       "can-meditation-lower-blood-pressure-naturally",
       "why-blood-pressure-matters-even-if-you-feel-fine",
-      "how-belly-fat-increases-blood-pressure-risk-after-middle-age"
+      "how-belly-fat-increases-blood-pressure-risk-after-middle-age",
+      "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night"
     ]
   },
   {

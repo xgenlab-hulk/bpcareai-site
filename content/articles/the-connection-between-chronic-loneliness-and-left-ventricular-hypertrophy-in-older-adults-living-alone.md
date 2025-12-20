@@ -1,14 +1,27 @@
 ---
-title: "The Connection Between Chronic Loneliness and Left Ventricular Hypertrophy in Older Adults Living Alone"
-slug: "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone"
-description: "Explores neuroendocrine pathways (cortisol, IL-6) linking social isolation to myocardial remodeling—and community-based interventions proven to reverse early changes."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["loneliness left ventricular hypertrophy aging", "heart health", "emotional-health-physiology"]
-primaryKeyword: "loneliness left ventricular hypertrophy aging"
-topicCluster: "emotional-health-physiology"
-image: ""
-relatedSlugs: ["how-social-isolation-impacts-heart-disease-risk-in-older-adults", "how-social-isolation-increases-heart-disease-risk-after-60"]
+title: >-
+  The Connection Between Chronic Loneliness and Left Ventricular Hypertrophy in
+  Older Adults Living Alone
+slug: >-
+  the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+description: >-
+  Explores neuroendocrine pathways (cortisol, IL-6) linking social isolation to
+  myocardial remodeling—and community-based interventions proven to reverse
+  early changes.
+date: '2025-12-19'
+updated: '2025-12-19'
+tags:
+  - loneliness left ventricular hypertrophy aging
+  - heart health
+  - emotional-health-physiology
+primaryKeyword: loneliness left ventricular hypertrophy aging
+topicCluster: emotional-health-physiology
+image: ''
+relatedSlugs:
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - how-social-isolation-increases-heart-disease-risk-after-60
+  - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
 ---
 
 # How Chronic Loneliness May Quietly Affect Heart Structure in Older Adults—And What You Can Do

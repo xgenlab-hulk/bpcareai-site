@@ -1,42 +1,10 @@
 [
   {
-    "title": "How Sleep Apnea Quietly Destroys Blood Vessel Health—And Why BP Readings Lie at Night",
-    "description": "Breaks down the nocturnal cardiovascular damage caused by undiagnosed sleep apnea in adults 60+, explaining why home BP monitors miss critical nighttime surges and what to do instead.",
-    "primaryKeyword": "sleep apnea nighttime blood pressure",
-    "topicCluster": "sleep-cardiovascular-link",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-16T03:39:54.350Z"
-  },
-  {
-    "title": "The Truth About Herbal Supplements and Blood Pressure: Which Ones Help, Which Harm, and Which Interfere With Medications",
-    "description": "Reviews clinical evidence on garlic, hawthorn, berberine, and licorice—highlighting proven interactions with ACE inhibitors, ARBs, and diuretics in adults over 60.",
-    "primaryKeyword": "herbal supplements blood pressure interactions",
-    "topicCluster": "supplements-medications-safety",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-16T03:39:57.592Z"
-  },
-  {
     "title": "How Chronic Inflammation From Gum Disease Fuels Hypertension—And Why Dentists Should Check Your BP",
     "description": "Explains the oral-systemic link: how periodontitis-induced IL-6 and CRP promote endothelial dysfunction and arterial stiffness, with screening protocols for adults over 65 with poor dental history.",
     "primaryKeyword": "gum disease and high blood pressure link",
     "topicCluster": "oral-systemic-inflammation",
     "coreKeyword": "blood pressure",
     "createdAt": "2025-12-16T03:40:03.015Z"
-  },
-  {
-    "title": "Does Air Pollution Raise Blood Pressure? What Real-Time Data Shows for Urban Seniors",
-    "description": "Translates EPA and WHO air quality index (AQI) thresholds into actionable BP risk levels—plus indoor mitigation tactics and timing adjustments for walks, meds, and outdoor errands in high-PM2.5 zones.",
-    "primaryKeyword": "air pollution blood pressure urban seniors",
-    "topicCluster": "environmental-hypertension",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-16T03:40:05.069Z"
-  },
-  {
-    "title": "Can Intermittent Fasting Lower Blood Pressure Without Weight Loss? What the Latest Trials Show",
-    "description": "Analyzes fasting-mimicking diets and 16:8 protocols in normoweight hypertensives—focusing on circadian BP rhythm restoration, aldosterone modulation, and renal sodium handling.",
-    "primaryKeyword": "intermittent fasting blood pressure no weight loss",
-    "topicCluster": "dietary-timing-hypertension",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-16T03:40:11.482Z"
   }
 ]

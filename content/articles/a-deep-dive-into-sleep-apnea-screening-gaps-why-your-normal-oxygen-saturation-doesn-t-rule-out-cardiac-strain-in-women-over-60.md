@@ -1,14 +1,26 @@
 ---
-title: "A Deep Dive Into Sleep Apnea Screening Gaps: Why Your ‘Normal’ Oxygen Saturation Doesn’t Rule Out Cardiac Strain in Women Over 60"
-slug: "a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60"
-description: "Challenges reliance on nocturnal SpO2 alone; explains why respiratory effort–related arousals (RERAs) and heart rate variability patterns matter more for HF risk."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["sleep apnea screening women heart strain", "heart health", "diagnostic-gaps-gender-specific"]
-primaryKeyword: "sleep apnea screening women heart strain"
-topicCluster: "diagnostic-gaps-gender-specific"
-image: ""
-relatedSlugs: ["the-link-between-sleep-apnea-and-high-blood-pressure-after-50"]
+title: >-
+  A Deep Dive Into Sleep Apnea Screening Gaps: Why Your ‘Normal’ Oxygen
+  Saturation Doesn’t Rule Out Cardiac Strain in Women Over 60
+slug: >-
+  a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
+description: >-
+  Challenges reliance on nocturnal SpO2 alone; explains why respiratory
+  effort–related arousals (RERAs) and heart rate variability patterns matter
+  more for HF risk.
+date: '2025-12-19'
+updated: '2025-12-19'
+tags:
+  - sleep apnea screening women heart strain
+  - heart health
+  - diagnostic-gaps-gender-specific
+primaryKeyword: sleep apnea screening women heart strain
+topicCluster: diagnostic-gaps-gender-specific
+image: ''
+relatedSlugs:
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
 ---
 
 # Why Sleep Apnea Screening Women Heart Strain Is Often Missed—Especially After 60

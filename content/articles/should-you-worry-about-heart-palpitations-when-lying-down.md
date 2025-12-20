@@ -17,6 +17,8 @@ relatedSlugs:
   - how-frequent-urination-at-night-could-signal-heart-problems
   - the-connection-between-frequent-urination-at-night-and-heart-health
   - could-your-heartbeats-per-minute-predict-longevity
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 ---
 
 # Understanding Heart Palpitations While Lying Down Over 50
