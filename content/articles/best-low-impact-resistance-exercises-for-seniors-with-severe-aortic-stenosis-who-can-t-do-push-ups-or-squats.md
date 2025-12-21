@@ -1,14 +1,27 @@
 ---
-title: "Best Low-Impact Resistance Exercises for Seniors With Severe Aortic Stenosis (Who Can’t Do Push-Ups or Squats)"
-slug: "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats"
-description: "Physiotherapist-designed isometric and partial-ROM routines—using resistance bands and seated positions—that safely improve skeletal muscle perfusion without increasing afterload."
-date: "2025-12-20"
-updated: "2025-12-20"
-tags: ["aortic stenosis resistance exercises seniors", "heart disease", "exercise-aortic-stenosis"]
-primaryKeyword: "aortic stenosis resistance exercises seniors"
-topicCluster: "exercise-aortic-stenosis"
-image: ""
-relatedSlugs: ["the-best-indoor-exercises-for-blood-pressure-control-in-winter", "blood-pressure-management-for-sedentary-seniors-in-winter-months"]
+title: >-
+  Best Low-Impact Resistance Exercises for Seniors With Severe Aortic Stenosis
+  (Who Can’t Do Push-Ups or Squats)
+slug: >-
+  best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+description: >-
+  Physiotherapist-designed isometric and partial-ROM routines—using resistance
+  bands and seated positions—that safely improve skeletal muscle perfusion
+  without increasing afterload.
+date: '2025-12-20'
+updated: '2025-12-20'
+tags:
+  - aortic stenosis resistance exercises seniors
+  - heart disease
+  - exercise-aortic-stenosis
+primaryKeyword: aortic stenosis resistance exercises seniors
+topicCluster: exercise-aortic-stenosis
+image: ''
+relatedSlugs:
+  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - >-
+    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
 ---
 
 # Safe, Effective Aortic Stenosis Resistance Exercises for Seniors: Gentle Strength Building Without Strain

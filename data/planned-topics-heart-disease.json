@@ -1,51 +1,11 @@
 [
   {
-    "title": "5 Things Your Cardiologist Isn’t Telling You About Statin Side Effects After Age 65",
-    "description": "Evidence-based breakdown of underreported statin-related risks—muscle mitochondrial dysfunction, cognitive fog, and glucose intolerance—in older adults, plus safer monitoring strategies.",
-    "primaryKeyword": "statin side effects after age 65",
-    "topicCluster": "medications-statin-safety",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-19T03:38:54.098Z"
-  },
-  {
-    "title": "The Truth About 'Heart-Healthy' Plant-Based Burgers for Seniors With Stage 3 CKD and Hypertension",
-    "description": "Ingredient-level scrutiny of popular meat alternatives—focusing on hidden phosphorus additives, potassium load, and sodium variability—and safer homemade swaps.",
-    "primaryKeyword": "plant-based burgers for kidney disease seniors",
-    "topicCluster": "diet-nutrition-ckd-hypertension",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-19T03:38:56.286Z"
-  },
-  {
     "title": "Natural Ways to Improve Endothelial Function Without Medication: Evidence from 12 Clinical Trials in Adults 55–74",
     "description": "Synthesizes data on targeted interventions—low-dose L-arginine + pomegranate extract, timed nitrate-rich vegetable intake, and cold-water immersion—for measurable FMD improvement.",
     "primaryKeyword": "improve endothelial function without medication",
     "topicCluster": "natural-remedies-endothelial-health",
     "coreKeyword": "heart disease",
     "createdAt": "2025-12-19T03:38:59.581Z"
-  },
-  {
-    "title": "Does Intermittent Fasting Worsen Diastolic Dysfunction in Women Over 50 with Hypertensive Heart Disease?",
-    "description": "Examines echocardiographic data on fasting-induced RAAS activation and left ventricular filling pressure changes—separating myth from mechanistic risk.",
-    "primaryKeyword": "intermittent fasting and diastolic dysfunction",
-    "topicCluster": "diet-timing-diastolic-function",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-19T03:39:03.961Z"
-  },
-  {
-    "title": "12 Science-Backed Ways to Reduce Coronary Artery Calcification Progression After Age 55",
-    "description": "Covers vitamin K2 (MK-7) dosing, magnesium threonate timing, arterial pulse wave velocity biofeedback, and low-dose colchicine protocols validated in RCTs.",
-    "primaryKeyword": "reduce coronary artery calcification progression",
-    "topicCluster": "prevention-coronary-calcification",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-19T03:39:05.062Z"
-  },
-  {
-    "title": "What Research Says About Magnesium Glycinate vs. Magnesium Oxide for QT Interval Stability in Older Adults on Amiodarone",
-    "description": "Compares absorption kinetics, serum vs. intracellular magnesium levels, and QTc change data in patients with drug-induced long QT syndrome.",
-    "primaryKeyword": "magnesium glycinate vs oxide amiodarone qt",
-    "topicCluster": "supplements-qtc-stability",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-19T03:39:06.137Z"
   },
   {
     "title": "How Morning Blood Pressure Surges Differ in Stroke Survivors vs. Primary Prevention Patients Over 60",
@@ -62,22 +22,6 @@
     "topicCluster": "lifestyle-breathing-hrv",
     "coreKeyword": "heart disease",
     "createdAt": "2025-12-19T03:39:09.562Z"
-  },
-  {
-    "title": "Is It Safe to Use Saunas After a Recent Myocardial Infarction? Guidelines for Men 62–71 Based on 2024 AHA Consensus",
-    "description": "Clarifies contraindications (e.g., LVEF <40%, uncontrolled arrhythmia), safe protocols (dry vs infrared, hydration timing), and 3-month post-MI reintegration milestones.",
-    "primaryKeyword": "sauna safety after heart attack over 60",
-    "topicCluster": "lifestyle-sauna-recovery",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-19T03:39:10.666Z"
-  },
-  {
-    "title": "Myths vs Facts: 'I Don’t Need Cholesterol Screening After 80' and 4 Other Dangerous Assumptions About Heart Disease in the Oldest-Old",
-    "description": "Debunks ageist misconceptions using data from the 85+ Study and UK Biobank—highlighting residual benefit of LDL-lowering and statin safety up to age 95.",
-    "primaryKeyword": "cholesterol screening myths after age 80",
-    "topicCluster": "myths-facts-oldest-old",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-19T03:39:12.884Z"
   },
   {
     "title": "Simple Changes to Your Home Lighting Schedule That Lower Nighttime Blood Pressure in Adults With Nocturnal Hypertension",

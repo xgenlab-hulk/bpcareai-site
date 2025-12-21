@@ -1,14 +1,27 @@
 ---
-title: "Myths vs Facts: 'I’m Too Old to Benefit From Cholesterol-Lowering Statins After 75'"
-slug: "myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75"
-description: "Debunks age-based statin misconceptions using STAREE and PREVAIL trial data—highlighting mortality, mobility, and dementia risk trade-offs in primary prevention."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["statins after 75 myths vs facts", "heart health", "medications-myths"]
-primaryKeyword: "statins after 75 myths vs facts"
-topicCluster: "medications-myths"
-image: ""
-relatedSlugs: []
+title: >-
+  Myths vs Facts: 'I’m Too Old to Benefit From Cholesterol-Lowering Statins
+  After 75'
+slug: >-
+  myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
+description: >-
+  Debunks age-based statin misconceptions using STAREE and PREVAIL trial
+  data—highlighting mortality, mobility, and dementia risk trade-offs in primary
+  prevention.
+date: '2025-12-19'
+updated: '2025-12-19'
+tags:
+  - statins after 75 myths vs facts
+  - heart health
+  - medications-myths
+primaryKeyword: statins after 75 myths vs facts
+topicCluster: medications-myths
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+  - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
 ---
 
 # Statins After 75 Myths vs Facts: What the Latest Science Really Says

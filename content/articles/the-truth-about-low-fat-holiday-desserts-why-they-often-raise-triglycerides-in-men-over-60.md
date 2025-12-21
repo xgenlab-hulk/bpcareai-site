@@ -22,6 +22,8 @@ relatedSlugs:
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # Why Low-Fat Desserts Triglycerides Men Over 60 Is a Hidden Holiday Risk
