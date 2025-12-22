@@ -22,6 +22,8 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
   - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
   - could-your-heartbeats-per-minute-predict-longevity
+  - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
 ---
 
 # How Gut Microbiome Diversity at Age 60 Helps Predict Heart Failure Risk—and What You Can Do Today

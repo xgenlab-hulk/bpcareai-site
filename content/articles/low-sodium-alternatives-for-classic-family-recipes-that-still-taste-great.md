@@ -17,6 +17,8 @@ relatedSlugs:
   - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
+  - >-
+    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
 ---
 
 # Delicious Low-Sodium Family Meal Ideas That Keep Flavor—and Heart Health—Front and Center

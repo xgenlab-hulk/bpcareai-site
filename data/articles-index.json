@@ -1,5 +1,430 @@
 [
   {
+    "slug": "what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65",
+    "title": "What Are the Earliest Signs of Postprandial Hypoxemia After a Heavy Family Meal—And Why It’s Often Missed in Adults With Mild COPD Over 65?",
+    "description": "Spotting subtle respiratory red flags (e.g., increased sighing, reduced conversation stamina, fingertip coolness) that precede SpO2 drops—and how meal composition (fat load, carbonation, temperature) contributes.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "postprandial hypoxemia copd seniors",
+      "healthy eating during family gatherings",
+      "respiratory-nutrition-interface"
+    ],
+    "primaryKeyword": "postprandial hypoxemia copd seniors",
+    "topicCluster": "respiratory-nutrition-interface",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits",
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75",
+      "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath",
+      "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60",
+      "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60"
+    ]
+  },
+  {
+    "slug": "warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68",
+    "title": "Warning Signs Your Holiday Diet Is Accelerating Macular Degeneration in Adults Over 68",
+    "description": "Highlights dietary triggers (e.g., high-AGE foods, low lutein intake, excessive saturated fat) tied to drusen progression—and includes an at-home visual function checklist.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "macular degeneration dietary warning signs",
+      "healthy holiday eating for seniors",
+      "vision-health-nutrition"
+    ],
+    "primaryKeyword": "macular degeneration dietary warning signs",
+    "topicCluster": "vision-health-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60"
+    ]
+  },
+  {
+    "slug": "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging",
+    "title": "The Truth About 'Sugar-Free' Holiday Cookies Labeled for Diabetics—What the FDA Doesn’t Require on Packaging",
+    "description": "Exposes hidden glycemic risks in maltitol-sweetened treats, explains why GI testing isn’t mandated for 'sugar-free' claims, and offers 4 lab-verified low-glycemic dessert alternatives.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "sugar-free cookies glycemic impact seniors",
+      "healthy holiday eating for seniors",
+      "food-labeling-transparency"
+    ],
+    "primaryKeyword": "sugar-free cookies glycemic impact seniors",
+    "topicCluster": "food-labeling-transparency",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels",
+      "does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely",
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you",
+      "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74",
+    "title": "Natural Ways to Improve Endothelial Function Without Medication: Evidence from 12 Clinical Trials in Adults 55–74",
+    "description": "Synthesizes data on targeted interventions—low-dose L-arginine + pomegranate extract, timed nitrate-rich vegetable intake, and cold-water immersion—for measurable FMD improvement.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "improve endothelial function without medication",
+      "heart disease",
+      "natural-remedies-endothelial-health"
+    ],
+    "primaryKeyword": "improve endothelial function without medication",
+    "topicCluster": "natural-remedies-endothelial-health",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60"
+    ]
+  },
+  {
+    "slug": "how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes",
+    "title": "How to Navigate a Potluck Without Spiking Your A1C: Blood Sugar-Smart Strategies for Seniors With Type 2 Diabetes",
+    "description": "Practical, plate-by-plate guidance for adults 60+ with diabetes to choose, portion, and time foods at multi-dish family gatherings—without relying on willpower or skipping meals.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "manage blood sugar at potlucks seniors",
+      "healthy eating during family gatherings",
+      "diabetic-diet-strategy"
+    ],
+    "primaryKeyword": "manage blood sugar at potlucks seniors",
+    "topicCluster": "diabetic-diet-strategy",
+    "image": "",
+    "relatedSlugs": [
+      "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+      "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60",
+      "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60",
+      "managing-diabetes-while-traveling-tips-for-seniors",
+      "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out"
+    ]
+  },
+  {
+    "slug": "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70",
+    "title": "How Stress-Induced Cortisol Spikes During Holiday Hosting Sabotage Blood Sugar Control in Adults 55–70",
+    "description": "Explores the physiological link between emotional labor of holiday hosting, elevated cortisol, and postprandial hyperglycemia—backed by 2023 endocrinology studies on aging HPA axis response.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "cortisol and blood sugar during holidays",
+      "holiday diabetes management",
+      "stress-physiology-blood-sugar"
+    ],
+    "primaryKeyword": "cortisol and blood sugar during holidays",
+    "topicCluster": "stress-physiology-blood-sugar",
+    "image": "",
+    "relatedSlugs": [
+      "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65",
+      "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50",
+      "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope",
+      "why-emotional-eating-during-christmas-raises-blood-sugar-after-50",
+      "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes"
+    ]
+  },
+  {
+    "slug": "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72",
+    "title": "How Late-Night Leftovers Affect Circadian Glucose Rhythms in Adults With Shift Work History (Age 58–72)",
+    "description": "Explaining why eating at 10 p.m. post-gathering disrupts melatonin-mediated insulin sensitivity—especially in those with prior rotating shifts—and offering circadian-aligned snack alternatives that won’t derail overnight metabolism.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "late-night leftovers circadian glucose shift work",
+      "healthy eating during family gatherings",
+      "chronobiology-nutrition"
+    ],
+    "primaryKeyword": "late-night leftovers circadian glucose shift work",
+    "topicCluster": "chronobiology-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65",
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75",
+      "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia",
+      "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts"
+    ]
+  },
+  {
+    "slug": "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65",
+    "title": "How Holiday Stress Hormones Sabotage Blood Sugar Control in Women Over 65",
+    "description": "Explores the cortisol-glucose feedback loop triggered by family gatherings and travel, with evidence-based strategies to stabilize glycemia during festive periods.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "holiday stress blood sugar seniors",
+      "healthy holiday eating for seniors",
+      "stress-metabolism-interaction"
+    ],
+    "primaryKeyword": "holiday stress blood sugar seniors",
+    "topicCluster": "stress-metabolism-interaction",
+    "image": "",
+    "relatedSlugs": [
+      "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes",
+      "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes",
+      "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50",
+      "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes"
+    ]
+  },
+  {
+    "slug": "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals",
+    "title": "How Gut Microbiome Imbalance After Age 60 Accelerates Arterial Stiffness: What New Research Reveals",
+    "description": "Breaks down 2023–2024 clinical studies linking dysbiosis, TMAO production, and endothelial dysfunction—and practical dietary shifts to support microbial-heart axis health.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "gut microbiome and arterial stiffness aging",
+      "heart health",
+      "causes-research-link"
+    ],
+    "primaryKeyword": "gut microbiome and arterial stiffness aging",
+    "topicCluster": "causes-research-link",
+    "image": "",
+    "relatedSlugs": [
+      "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now"
+    ]
+  },
+  {
+    "slug": "does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58",
+    "title": "Does Holiday Weight Gain Predict 1-Year Cardiovascular Risk in Adults With Metabolic Syndrome Over 58?",
+    "description": "Synthesizes longitudinal data linking seasonal weight fluctuations (≥2.5 kg) to accelerated carotid intima-media thickness progression—and when intervention changes long-term outcomes.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "holiday weight gain cardiovascular risk",
+      "healthy holiday eating for seniors",
+      "metabolic-risk-prognostication"
+    ],
+    "primaryKeyword": "holiday weight gain cardiovascular risk",
+    "topicCluster": "metabolic-risk-prognostication",
+    "image": "",
+    "relatedSlugs": [
+      "why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease",
+      "how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60",
+      "when-to-worry-about-weight-gain-after-a-family-gathering",
+      "the-truth-about-winter-weight-gain-and-heart-strain-after-60",
+      "why-older-women-gain-weight-faster-during-the-holidays-after-menopause"
+    ]
+  },
+  {
+    "slug": "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65",
+    "title": "Can You Safely Skip Your Evening Insulin Dose During Late-Night Holiday Parties? A Safety Protocol for Adults 65+",
+    "description": "Breaks down evidence-based dose-adjustment frameworks for basal and rapid-acting insulin during irregular meal timing, including CGM-informed decision trees and red-flag thresholds.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "skipping insulin during holiday parties",
+      "holiday diabetes management",
+      "insulin-dosing-flexibility"
+    ],
+    "primaryKeyword": "skipping insulin during holiday parties",
+    "topicCluster": "insulin-dosing-flexibility",
+    "image": "",
+    "relatedSlugs": [
+      "should-you-adjust-your-diabetes-medication-during-the-holidays",
+      "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes",
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50",
+      "best-blood-sugar-monitoring-practices-during-the-holiday-season"
+    ]
+  },
+  {
+    "slug": "best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk",
+    "title": "Best Low-Sodium, High-Flavor Herbs and Spices for Holiday Cooking—Clinically Vetted for Adults With Heart Failure and Hyponatremia Risk",
+    "description": "A curated list of sodium-free seasonings (with preparation tips and contraindications) that enhance palatability *without* triggering thirst, fluid retention, or interfering with vasopressin regulation.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "low-sodium herbs heart failure hyponatremia",
+      "healthy eating during family gatherings",
+      "heart-failure-flavor-science"
+    ],
+    "primaryKeyword": "low-sodium herbs heart failure hyponatremia",
+    "topicCluster": "heart-failure-flavor-science",
+    "image": "",
+    "relatedSlugs": [
+      "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension",
+      "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure",
+      "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension",
+      "low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great",
+      "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"
+    ]
+  },
+  {
+    "slug": "best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required",
+    "title": "Best Low-Glycemic Holiday Side Dishes for Seniors With Type 2 Diabetes *and* Osteoarthritis (No Standing or Chopping Required)",
+    "description": "Features 4 fully prepped, no-cook or one-pot recipes optimized for glycemic load *and* joint-friendly prep—designed for those with hand/wrist pain or fatigue limiting kitchen stamina.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "low-glycemic holiday sides arthritis",
+      "holiday diabetes management",
+      "joint-friendly-diabetic-cooking"
+    ],
+    "primaryKeyword": "low-glycemic holiday sides arthritis",
+    "topicCluster": "joint-friendly-diabetic-cooking",
+    "image": "",
+    "relatedSlugs": [
+      "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar",
+      "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70",
+      "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs",
+      "best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season"
+    ]
+  },
+  {
+    "slug": "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd",
+    "title": "Best 5 Low-FODMAP Holiday Side Dishes for Seniors With IBS and GERD",
+    "description": "Features gastroenterologist-approved, gut-soothing recipes—including roasted parsnips, quinoa-cranberry pilaf, and ginger-sweet potato purée—that avoid reflux triggers and fermentable carbs.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "low-fodmap holiday sides seniors",
+      "healthy holiday eating for seniors",
+      "gut-health-diet-modification"
+    ],
+    "primaryKeyword": "low-fodmap holiday sides seniors",
+    "topicCluster": "gut-health-diet-modification",
+    "image": "",
+    "relatedSlugs": [
+      "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs",
+      "best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required",
+      "best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods",
+      "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar",
+      "10-high-fiber-holiday-foods-that-support-digestion-after-50"
+    ]
+  },
+  {
+    "slug": "a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics",
+    "title": "A vs B: Slow-Cooked Collard Greens With Smoked Turkey Leg vs. Instant-Pot Greens With Liquid Aminos — Which Is Safer for Heart Failure Patients on Diuretics?",
+    "description": "Direct nutrient comparison (sodium, potassium, nitrate load, purine content) and fluid-balance impact of two culturally resonant preparations—tailored for adults with HFrEF managing volume status.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "collard greens heart failure diuretics comparison",
+      "healthy eating during family gatherings",
+      "heart-failure-diet-comparison"
+    ],
+    "primaryKeyword": "collard greens heart failure diuretics comparison",
+    "topicCluster": "heart-failure-diet-comparison",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd",
+      "best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62",
+    "title": "7 Silent Signs Your Holiday Meal Is Triggering Hidden Hypertension Fluctuations—Especially After Age 62",
+    "description": "Subtle physiological cues (beyond BP readings) like facial flushing, morning fatigue, or post-meal brain fog that signal sodium- or alcohol-induced vascular stress in older adults.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "hidden hypertension signs after family meals",
+      "healthy eating during family gatherings",
+      "hypertension-symptom-recognition"
+    ],
+    "primaryKeyword": "hidden hypertension signs after family meals",
+    "topicCluster": "hypertension-symptom-recognition",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents",
+      "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+      "how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65",
+      "7-hidden-winter-habits-that-worsen-hypertension-after-60",
+      "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60",
+    "title": "7 Silent Signs Your Holiday Blood Sugar Is Spiking—Especially If You’re Taking GLP-1 Agonists After Age 60",
+    "description": "Identifies subtle, non-classic hyperglycemia indicators (e.g., unexplained fatigue, blurred vision resolution delay, nocturia frequency shift) in older adults using semaglutide or tirzepatide.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "silent blood sugar spikes on GLP-1 drugs",
+      "holiday diabetes management",
+      "symptom-recognition-glp1-users"
+    ],
+    "primaryKeyword": "silent blood sugar spikes on GLP-1 drugs",
+    "topicCluster": "symptom-recognition-glp1-users",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes",
+      "why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes",
+      "recognizing-silent-heart-attacks-in-diabetics-over-60"
+    ]
+  },
+  {
+    "slug": "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60",
+    "title": "5 Things Your Dietitian Isn’t Telling You About ‘Low-Sugar’ Holiday Beverages—and Why They May Still Worsen Fatty Liver in Men Over 60",
+    "description": "Unpacking deceptive labeling (‘no added sugar’, ‘naturally sweetened’, ‘keto-friendly’) on eggnog alternatives, mulled cider, and sparkling punches—and their real-world metabolic impact on hepatic fat accumulation.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "low-sugar holiday drinks fatty liver men 60+",
+      "healthy eating during family gatherings",
+      "hepatic-metabolism-diet"
+    ],
+    "primaryKeyword": "low-sugar holiday drinks fatty liver men 60+",
+    "topicCluster": "hepatic-metabolism-diet",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60",
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season",
+      "can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60",
+      "7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid"
+    ]
+  },
+  {
+    "slug": "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits",
+    "title": "12 Science-Backed Ways to Counteract Post-Meal Inflammation After Age 58—Especially During Extended Family Visits",
+    "description": "Evidence-based, non-pharmaceutical tactics—including timing of movement, strategic spice use, hydration pacing, and postprandial breathing—to blunt IL-6 and CRP spikes linked to prolonged social meals.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "reduce post-meal inflammation seniors 58+",
+      "healthy eating during family gatherings",
+      "inflammation-modulation"
+    ],
+    "primaryKeyword": "reduce post-meal inflammation seniors 58+",
+    "topicCluster": "inflammation-modulation",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings",
+      "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle",
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+      "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60",
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75"
+    ]
+  },
+  {
+    "slug": "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension",
+    "title": "12 Science-Backed Ways to Counteract Holiday Salt Cravings in Seniors With Hypertension",
+    "description": "Presents peer-reviewed behavioral, sensory, and nutritional interventions—including zinc supplementation, umami-rich herb blends, and oral temperature modulation—to reduce sodium-seeking behavior.",
+    "date": "2025-12-22",
+    "updated": "2025-12-22",
+    "tags": [
+      "reduce salt cravings hypertension seniors",
+      "healthy holiday eating for seniors",
+      "behavioral-nutrition-intervention"
+    ],
+    "primaryKeyword": "reduce salt cravings hypertension seniors",
+    "topicCluster": "behavioral-nutrition-intervention",
+    "image": "",
+    "relatedSlugs": [
+      "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension",
+      "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now",
+      "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure",
+      "7-smart-swaps-for-healthier-holiday-meals-after-65",
+      "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"
+    ]
+  },
+  {
     "slug": "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75",
     "title": "Why Eating Late at Night During Family Visits Increases Fall Risk in Adults 75+",
     "description": "Connects nocturnal glucose dysregulation, delayed gastric emptying, and postprandial hypotension to balance impairment and orthostatic dizziness—providing timing-based meal planning and safe snack frameworks for frail or mobility-impaired elders.",
@@ -517,7 +942,8 @@
     "relatedSlugs": [
       "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents",
       "heart-disease-warning-signs-that-appear-years-in-advance",
-      "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80"
+      "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80",
+      "what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65"
     ]
   },
   {
@@ -689,7 +1115,8 @@
     "relatedSlugs": [
       "12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking",
       "the-role-of-omega-3-fatty-acids-in-preventing-heart-disease",
-      "could-your-heartbeats-per-minute-predict-longevity"
+      "could-your-heartbeats-per-minute-predict-longevity",
+      "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals"
     ]
   },
   {
@@ -2185,7 +2612,8 @@
       "best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season",
       "best-low-carb-desserts-for-diabetics-over-60-this-holiday-season",
       "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70",
-      "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle"
+      "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle",
+      "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60"
     ]
   },
   {
@@ -5455,7 +5883,8 @@
     "relatedSlugs": [
       "10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor",
       "7-smart-swaps-for-healthier-holiday-meals-after-65",
-      "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure"
+      "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure",
+      "best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk"
     ]
   },
   {

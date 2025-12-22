@@ -22,6 +22,8 @@ relatedSlugs:
   - heart-disease-warning-signs-that-appear-years-in-advance
   - >-
     7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
+  - >-
+    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
 ---
 
 # Subtle Early Signs of Right-Sided Heart Failure in Seniors With COPD—What to Notice Before Swelling or Breathlessness
