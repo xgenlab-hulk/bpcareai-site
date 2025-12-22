@@ -17,7 +17,15 @@ tags:
 primaryKeyword: blood pressure after stroke recovery targets
 topicCluster: hypertension-management
 image: ''
-relatedSlugs: []
+relatedSlugs:
+  - >-
+    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
+  - >-
+    blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
+  - >-
+    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
+  - >-
+    what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60
 ---
 
 # Understanding Your Blood Pressure After Stroke: Updated Recovery Targets and What “Normal” Really Means

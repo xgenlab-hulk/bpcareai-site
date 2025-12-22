@@ -18,7 +18,12 @@ tags:
 primaryKeyword: holiday leftovers antibiotic resistance UTI seniors
 topicCluster: nutrition-diet
 image: ''
-relatedSlugs: []
+relatedSlugs:
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
+  - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 
 # How Holiday Leftovers, Antibiotic Resistance, and UTIs Intersect in Older Adults

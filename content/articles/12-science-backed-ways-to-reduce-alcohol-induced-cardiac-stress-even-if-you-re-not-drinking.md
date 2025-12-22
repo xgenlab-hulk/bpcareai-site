@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Ways to Reduce Alcohol-Induced Cardiac Stress—Even If You’re Not Drinking"
-slug: "12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking"
-description: "Covers secondhand alcohol exposure (e.g., vapor in crowded rooms), dietary acetaldehyde from fermented foods, medication-alcohol metabolite interference, and endogenous ethanol production in gut dysbiosis—relevant for non-drinkers with heart failure."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["reduce alcohol-induced cardiac stress non-drinkers", "holiday heart syndrome prevention", "non-alcoholic-cardiac-stressors"]
-primaryKeyword: "reduce alcohol-induced cardiac stress non-drinkers"
-topicCluster: "non-alcoholic-cardiac-stressors"
-image: ""
-relatedSlugs: ["best-non-alcoholic-holiday-drinks-for-heart-health-after-50", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues"]
+title: >-
+  12 Science-Backed Ways to Reduce Alcohol-Induced Cardiac Stress—Even If You’re
+  Not Drinking
+slug: >-
+  12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
+description: >-
+  Covers secondhand alcohol exposure (e.g., vapor in crowded rooms), dietary
+  acetaldehyde from fermented foods, medication-alcohol metabolite interference,
+  and endogenous ethanol production in gut dysbiosis—relevant for non-drinkers
+  with heart failure.
+date: '2025-12-19'
+updated: '2025-12-19'
+tags:
+  - reduce alcohol-induced cardiac stress non-drinkers
+  - holiday heart syndrome prevention
+  - non-alcoholic-cardiac-stressors
+primaryKeyword: reduce alcohol-induced cardiac stress non-drinkers
+topicCluster: non-alcoholic-cardiac-stressors
+image: ''
+relatedSlugs:
+  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
+  - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
 ---
 
 # How to Reduce Alcohol-Induced Cardiac Stress—Even If You Don’t Drink a Drop  

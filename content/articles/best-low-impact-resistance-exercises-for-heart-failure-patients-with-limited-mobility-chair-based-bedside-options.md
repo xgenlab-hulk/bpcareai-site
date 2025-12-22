@@ -1,14 +1,29 @@
 ---
-title: "Best Low-Impact Resistance Exercises for Heart Failure Patients With Limited Mobility (Chair-Based & Bedside Options)"
-slug: "best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options"
-description: "Science-backed, cardiologist-approved strength routines using resistance bands and bodyweight—designed specifically for NYHA Class II–III patients who fatigue easily."
-date: "2025-12-21"
-updated: "2025-12-21"
-tags: ["low impact resistance exercises heart failure", "heart health", "exercise-comorbidity"]
-primaryKeyword: "low impact resistance exercises heart failure"
-topicCluster: "exercise-comorbidity"
-image: ""
-relatedSlugs: ["best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats"]
+title: >-
+  Best Low-Impact Resistance Exercises for Heart Failure Patients With Limited
+  Mobility (Chair-Based & Bedside Options)
+slug: >-
+  best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
+description: >-
+  Science-backed, cardiologist-approved strength routines using resistance bands
+  and bodyweight—designed specifically for NYHA Class II–III patients who
+  fatigue easily.
+date: '2025-12-21'
+updated: '2025-12-21'
+tags:
+  - low impact resistance exercises heart failure
+  - heart health
+  - exercise-comorbidity
+primaryKeyword: low impact resistance exercises heart failure
+topicCluster: exercise-comorbidity
+image: ''
+relatedSlugs:
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - best-low-impact-exercises-for-managing-diabetes-after-60
+  - how-strength-training-protects-your-heart-as-you-age
+  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+  - can-strength-training-lower-heart-disease-risk-after-60
 ---
 
 # Gentle Strength, Stronger Heart: Low-Impact Resistance Exercises for Heart Failure Patients With Limited Mobility

@@ -1,14 +1,30 @@
 ---
-title: "Does Intermittent Fasting Worsen Diastolic Dysfunction in Women Over 50 with Hypertensive Heart Disease?"
-slug: "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease"
-description: "Examines echocardiographic data on fasting-induced RAAS activation and left ventricular filling pressure changes—separating myth from mechanistic risk."
-date: "2025-12-21"
-updated: "2025-12-21"
-tags: ["intermittent fasting and diastolic dysfunction", "heart disease", "diet-timing-diastolic-function"]
-primaryKeyword: "intermittent fasting and diastolic dysfunction"
-topicCluster: "diet-timing-diastolic-function"
-image: ""
-relatedSlugs: ["can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show"]
+title: >-
+  Does Intermittent Fasting Worsen Diastolic Dysfunction in Women Over 50 with
+  Hypertensive Heart Disease?
+slug: >-
+  does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
+description: >-
+  Examines echocardiographic data on fasting-induced RAAS activation and left
+  ventricular filling pressure changes—separating myth from mechanistic risk.
+date: '2025-12-21'
+updated: '2025-12-21'
+tags:
+  - intermittent fasting and diastolic dysfunction
+  - heart disease
+  - diet-timing-diastolic-function
+primaryKeyword: intermittent fasting and diastolic dysfunction
+topicCluster: diet-timing-diastolic-function
+image: ''
+relatedSlugs:
+  - >-
+    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
+  - >-
+    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
+  - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
 ---
 
 # Does Intermittent Fasting Affect Diastolic Function in Women Over 50 with Hypertensive Heart Disease?

@@ -1,14 +1,27 @@
 ---
-title: "How Gut Microbiome Diversity at Age 60 Predicts 10-Year Heart Failure Incidence—And What You Can Change Now"
-slug: "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now"
-description: "Explains the Akkermansia–butyrate–TMAO axis, interprets stool test biomarkers, and outlines clinically validated prebiotic protocols for cardiac risk reduction."
-date: "2025-12-20"
-updated: "2025-12-20"
-tags: ["gut microbiome and heart failure prediction", "heart disease", "gut-heart-axis-prevention"]
-primaryKeyword: "gut microbiome and heart failure prediction"
-topicCluster: "gut-heart-axis-prevention"
-image: ""
-relatedSlugs: []
+title: >-
+  How Gut Microbiome Diversity at Age 60 Predicts 10-Year Heart Failure
+  Incidence—And What You Can Change Now
+slug: >-
+  how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
+description: >-
+  Explains the Akkermansia–butyrate–TMAO axis, interprets stool test biomarkers,
+  and outlines clinically validated prebiotic protocols for cardiac risk
+  reduction.
+date: '2025-12-20'
+updated: '2025-12-20'
+tags:
+  - gut microbiome and heart failure prediction
+  - heart disease
+  - gut-heart-axis-prevention
+primaryKeyword: gut microbiome and heart failure prediction
+topicCluster: gut-heart-axis-prevention
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
+  - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
+  - could-your-heartbeats-per-minute-predict-longevity
 ---
 
 # How Gut Microbiome Diversity at Age 60 Helps Predict Heart Failure Risk—and What You Can Do Today

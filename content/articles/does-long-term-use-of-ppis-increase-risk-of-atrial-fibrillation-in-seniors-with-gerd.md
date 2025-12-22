@@ -1,14 +1,30 @@
 ---
-title: "Does Long-Term Use of PPIs Increase Risk of Atrial Fibrillation in Seniors With GERD?"
-slug: "does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd"
-description: "Reviews meta-analyses on proton pump inhibitors, magnesium depletion, and AFib incidence—plus safer GERD management alternatives for older adults on anticoagulants."
-date: "2025-12-21"
-updated: "2025-12-21"
-tags: ["PPIs atrial fibrillation risk seniors GERD", "heart health", "medications-complications"]
-primaryKeyword: "PPIs atrial fibrillation risk seniors GERD"
-topicCluster: "medications-complications"
-image: ""
-relatedSlugs: []
+title: >-
+  Does Long-Term Use of PPIs Increase Risk of Atrial Fibrillation in Seniors
+  With GERD?
+slug: >-
+  does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
+description: >-
+  Reviews meta-analyses on proton pump inhibitors, magnesium depletion, and AFib
+  incidence—plus safer GERD management alternatives for older adults on
+  anticoagulants.
+date: '2025-12-21'
+updated: '2025-12-21'
+tags:
+  - PPIs atrial fibrillation risk seniors GERD
+  - heart health
+  - medications-complications
+primaryKeyword: PPIs atrial fibrillation risk seniors GERD
+topicCluster: medications-complications
+image: ''
+relatedSlugs:
+  - the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
+  - is-metformin-still-safe-for-diabetics-over-70
+  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
+  - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
+  - >-
+    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
 ---
 
 # Do PPIs Increase Atrial Fibrillation Risk in Seniors With GERD? What the Evidence Shows

@@ -17,7 +17,15 @@ tags:
 primaryKeyword: blood pressure after bariatric surgery
 topicCluster: complications-comorbidities
 image: ''
-relatedSlugs: []
+relatedSlugs:
+  - how-belly-fat-increases-blood-pressure-risk-after-middle-age
+  - >-
+    what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
+  - >-
+    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
+  - >-
+    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
 ---
 
 # Blood Pressure After Bariatric Surgery: What to Expect and Why Responses Vary

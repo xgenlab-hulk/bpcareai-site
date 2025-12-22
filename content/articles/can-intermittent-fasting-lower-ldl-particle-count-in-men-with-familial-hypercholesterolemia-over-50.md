@@ -1,14 +1,29 @@
 ---
-title: "Can Intermittent Fasting Lower LDL-Particle Count in Men With Familial Hypercholesterolemia Over 50?"
-slug: "can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50"
-description: "Examines emerging evidence on IF protocols (16:8 vs. 5:2) and their impact on atherogenic particle metrics—not just total LDL—in genetically high-risk men."
-date: "2025-12-20"
-updated: "2025-12-20"
-tags: ["intermittent fasting LDL particle count men", "heart health", "treatment-dietary-intervention"]
-primaryKeyword: "intermittent fasting LDL particle count men"
-topicCluster: "treatment-dietary-intervention"
-image: ""
-relatedSlugs: []
+title: >-
+  Can Intermittent Fasting Lower LDL-Particle Count in Men With Familial
+  Hypercholesterolemia Over 50?
+slug: >-
+  can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
+description: >-
+  Examines emerging evidence on IF protocols (16:8 vs. 5:2) and their impact on
+  atherogenic particle metrics—not just total LDL—in genetically high-risk men.
+date: '2025-12-20'
+updated: '2025-12-20'
+tags:
+  - intermittent fasting LDL particle count men
+  - heart health
+  - treatment-dietary-intervention
+primaryKeyword: intermittent fasting LDL particle count men
+topicCluster: treatment-dietary-intervention
+image: ''
+relatedSlugs:
+  - >-
+    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
+  - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
+  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
 ---
 
 # Can Intermittent Fasting Lower LDL Particle Count in Men Over 50 With Familial Hypercholesterolemia?

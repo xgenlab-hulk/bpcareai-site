@@ -1,14 +1,30 @@
 ---
-title: "Is It Safe to Use Saunas After a Recent Myocardial Infarction? Guidelines for Men 62–71 Based on 2024 AHA Consensus"
-slug: "is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus"
-description: "Clarifies contraindications (e.g., LVEF <40%, uncontrolled arrhythmia), safe protocols (dry vs infrared, hydration timing), and 3-month post-MI reintegration milestones."
-date: "2025-12-21"
-updated: "2025-12-21"
-tags: ["sauna safety after heart attack over 60", "heart disease", "lifestyle-sauna-recovery"]
-primaryKeyword: "sauna safety after heart attack over 60"
-topicCluster: "lifestyle-sauna-recovery"
-image: ""
-relatedSlugs: ["when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60"]
+title: >-
+  Is It Safe to Use Saunas After a Recent Myocardial Infarction? Guidelines for
+  Men 62–71 Based on 2024 AHA Consensus
+slug: >-
+  is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
+description: >-
+  Clarifies contraindications (e.g., LVEF <40%, uncontrolled arrhythmia), safe
+  protocols (dry vs infrared, hydration timing), and 3-month post-MI
+  reintegration milestones.
+date: '2025-12-21'
+updated: '2025-12-21'
+tags:
+  - sauna safety after heart attack over 60
+  - heart disease
+  - lifestyle-sauna-recovery
+primaryKeyword: sauna safety after heart attack over 60
+topicCluster: lifestyle-sauna-recovery
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+  - can-shoveling-snow-trigger-a-heart-event-in-older-adults
+  - is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
+  - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+  - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 ---
 
 # Sauna Safety After Heart Attack Over 60: What Men Ages 62–71 Need to Know in 2024

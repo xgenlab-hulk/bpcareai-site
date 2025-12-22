@@ -1,14 +1,29 @@
 ---
-title: "Blood Pressure in Women With PCOS After 45: Why Traditional Guidelines Fall Short"
-slug: "blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short"
-description: "Discusses how residual androgen excess, insulin resistance, and early vascular aging create unique BP trajectories in perimenopausal and postmenopausal women with prior PCOS diagnosis."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["pcos blood pressure after 45 women", "blood pressure", "hormonal-women-pcos"]
-primaryKeyword: "pcos blood pressure after 45 women"
-topicCluster: "hormonal-women-pcos"
-image: ""
-relatedSlugs: ["blood-pressure-changes-during-menopause-what-women-should-know"]
+title: >-
+  Blood Pressure in Women With PCOS After 45: Why Traditional Guidelines Fall
+  Short
+slug: >-
+  blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
+description: >-
+  Discusses how residual androgen excess, insulin resistance, and early vascular
+  aging create unique BP trajectories in perimenopausal and postmenopausal women
+  with prior PCOS diagnosis.
+date: '2025-12-18'
+updated: '2025-12-18'
+tags:
+  - pcos blood pressure after 45 women
+  - blood pressure
+  - hormonal-women-pcos
+primaryKeyword: pcos blood pressure after 45 women
+topicCluster: hormonal-women-pcos
+image: ''
+relatedSlugs:
+  - blood-pressure-changes-during-menopause-what-women-should-know
+  - blood-pressure-fluctuations-during-menopause-what-women-should-know
+  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
+  - >-
+    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
 ---
 
 # Understanding pcos blood pressure after 45 women: Why Your Heart Health Journey Is Unique

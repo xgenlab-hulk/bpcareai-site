@@ -1,14 +1,32 @@
 ---
-title: "12 Science-Backed Ways to Reduce Coronary Artery Calcification Progression After Age 55"
-slug: "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55"
-description: "Covers vitamin K2 (MK-7) dosing, magnesium threonate timing, arterial pulse wave velocity biofeedback, and low-dose colchicine protocols validated in RCTs."
-date: "2025-12-21"
-updated: "2025-12-21"
-tags: ["reduce coronary artery calcification progression", "heart disease", "prevention-coronary-calcification"]
-primaryKeyword: "reduce coronary artery calcification progression"
-topicCluster: "prevention-coronary-calcification"
-image: ""
-relatedSlugs: []
+title: >-
+  12 Science-Backed Ways to Reduce Coronary Artery Calcification Progression
+  After Age 55
+slug: >-
+  12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
+description: >-
+  Covers vitamin K2 (MK-7) dosing, magnesium threonate timing, arterial pulse
+  wave velocity biofeedback, and low-dose colchicine protocols validated in
+  RCTs.
+date: '2025-12-21'
+updated: '2025-12-21'
+tags:
+  - reduce coronary artery calcification progression
+  - heart disease
+  - prevention-coronary-calcification
+primaryKeyword: reduce coronary artery calcification progression
+topicCluster: prevention-coronary-calcification
+image: ''
+relatedSlugs:
+  - >-
+    how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
+  - >-
+    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
+  - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
+  - top-7-heart-protective-vitamins-to-take-in-winter
+  - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
 ---
 
 # 12 Evidence-Based Strategies to Reduce Coronary Artery Calcification Progression After Age 55

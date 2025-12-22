@@ -1,14 +1,31 @@
 ---
-title: "5 Things Your Cardiologist Isn’t Telling You About Blood Pressure Readings at the Pharmacy"
-slug: "5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy"
-description: "Uncovers measurement errors, device calibration gaps, and white-coat vs. masked hypertension pitfalls in public kiosks—and how to interpret those numbers meaningfully."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["pharmacy blood pressure reading accuracy", "heart health", "monitoring-testing"]
-primaryKeyword: "pharmacy blood pressure reading accuracy"
-topicCluster: "monitoring-testing"
-image: ""
-relatedSlugs: ["blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ"]
+title: >-
+  5 Things Your Cardiologist Isn’t Telling You About Blood Pressure Readings at
+  the Pharmacy
+slug: >-
+  5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
+description: >-
+  Uncovers measurement errors, device calibration gaps, and white-coat vs.
+  masked hypertension pitfalls in public kiosks—and how to interpret those
+  numbers meaningfully.
+date: '2025-12-19'
+updated: '2025-12-19'
+tags:
+  - pharmacy blood pressure reading accuracy
+  - heart health
+  - monitoring-testing
+primaryKeyword: pharmacy blood pressure reading accuracy
+topicCluster: monitoring-testing
+image: ''
+relatedSlugs:
+  - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
+  - how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
+  - >-
+    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
+  - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
+  - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
 ---
 
 # What Your Cardiologist Wishes You Knew About Pharmacy Blood Pressure Reading Accuracy

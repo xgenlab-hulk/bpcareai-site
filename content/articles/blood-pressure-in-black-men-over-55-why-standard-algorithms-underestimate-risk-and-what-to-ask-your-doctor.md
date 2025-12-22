@@ -17,7 +17,13 @@ tags:
 primaryKeyword: blood pressure black men over 55
 topicCluster: hypertension-management
 image: ''
-relatedSlugs: []
+relatedSlugs:
+  - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
+  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - how-often-should-adults-over-50-check-their-blood-pressure
+  - >-
+    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
+  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
 ---
 
 # Blood Pressure in Black Men Over 55: Why Risk Is Higher—and What You Can Do About It
