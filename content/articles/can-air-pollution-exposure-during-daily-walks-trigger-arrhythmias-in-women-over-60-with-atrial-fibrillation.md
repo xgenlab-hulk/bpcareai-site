@@ -24,6 +24,8 @@ relatedSlugs:
   - how-air-pollution-impacts-heart-health-in-older-adults
   - >-
     does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
 ---
 
 # Can Air Pollution Trigger AFib Episodes During Daily Walks? What Women Over 60 Need to Know About Air Pollution and AFib  

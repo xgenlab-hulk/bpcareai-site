@@ -1,5 +1,435 @@
 [
   {
+    "slug": "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks",
+    "title": "Why Your Blood Sugar Dips at 3 a.m. During Holiday Week—And How to Prevent Nocturnal Hypoglycemia Without Adding Snacks",
+    "description": "Examines circadian disruption, delayed gastric emptying from rich meals, and nighttime insulin sensitivity shifts in adults 50–65, offering non-caloric prevention strategies like timed walking and bedtime CGM alerts.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "nocturnal hypoglycemia during holidays",
+      "holiday diabetes management",
+      "circadian-glucose-dysregulation"
+    ],
+    "primaryKeyword": "nocturnal hypoglycemia during holidays",
+    "topicCluster": "circadian-glucose-dysregulation",
+    "image": "",
+    "relatedSlugs": [
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50",
+      "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65",
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75",
+      "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts"
+    ]
+  },
+  {
+    "slug": "why-does-portion-distortion-hit-harder-in-multi-generational-households-the-role-of-intergenerational-feeding-scripts-in-adults-55-74",
+    "title": "Why Does Portion Distortion Hit Harder in Multi-Generational Households? The Role of Intergenerational Feeding Scripts in Adults 55–74",
+    "description": "A behavioral nutrition analysis of how cultural ‘feeding narratives’ (e.g., ‘clean your plate’, ‘eat while it’s hot’, ‘you need strength’) override satiety signaling—and how to gently reframe them without guilt or conflict.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "portion distortion intergenerational feeding scripts",
+      "healthy eating during family gatherings",
+      "behavioral-nutrition-psychology"
+    ],
+    "primaryKeyword": "portion distortion intergenerational feeding scripts",
+    "topicCluster": "behavioral-nutrition-psychology",
+    "image": "",
+    "relatedSlugs": [
+      "how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65",
+      "portion-control-strategies-for-large-family-meals-that-work"
+    ]
+  },
+  {
+    "slug": "when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes",
+    "title": "When to Worry About Sudden Thirst and Dry Mouth at Christmas Dinner—A Red-Flag Timeline for Adults 60+ With Undiagnosed Prediabetes",
+    "description": "Maps progressive symptom escalation (thirst → nocturia → confusion → orthostatic dizziness) alongside capillary glucose benchmarks and urgent referral thresholds for newly symptomatic seniors.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "sudden thirst christmas dinner prediabetes",
+      "holiday diabetes management",
+      "early-detection-prediabetes"
+    ],
+    "primaryKeyword": "sudden thirst christmas dinner prediabetes",
+    "topicCluster": "early-detection-prediabetes",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes",
+      "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60",
+      "warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know",
+      "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60",
+      "when-to-worry-about-blood-sugar-swings-after-new-year-s-eve"
+    ]
+  },
+  {
+    "slug": "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension",
+    "title": "When to Worry About Sudden Lightheadedness After the First Slice of Pie: A Red Flag Timeline for Women Over 65 With Orthostatic Hypotension",
+    "description": "A clinically grounded, symptom-timing guide distinguishing normal postprandial hypotension from dangerous vasovagal or autonomic triggers—specifically for older women managing BP meds or Parkinson’s-related dysautonomia.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "lightheadedness after pie orthostatic hypotension women 65+",
+      "healthy eating during family gatherings",
+      "autonomic-dysfunction-warning-signs"
+    ],
+    "primaryKeyword": "lightheadedness after pie orthostatic hypotension women 65+",
+    "topicCluster": "autonomic-dysfunction-warning-signs",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension",
+      "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60",
+      "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75",
+      "how-standing-up-too-fast-affects-blood-pressure-in-older-adults",
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75"
+    ]
+  },
+  {
+    "slug": "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else",
+    "title": "When to Worry About Post-Meal Drowsiness After Age 70: Sleep Apnea, Hypotension, or Something Else?",
+    "description": "Distinguishes between benign postprandial somnolence and red-flag fatigue linked to nocturnal hypoxia, orthostatic drops, or early delirium—plus a 3-step home assessment guide.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "post-meal drowsiness seniors red flags",
+      "healthy holiday eating for seniors",
+      "neuro-cardio-symptom-differentiation"
+    ],
+    "primaryKeyword": "post-meal drowsiness seniors red flags",
+    "topicCluster": "neuro-cardio-symptom-differentiation",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65",
+      "when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension",
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75",
+      "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension",
+      "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75"
+    ]
+  },
+  {
+    "slug": "what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75",
+    "title": "What Research Says About Hearing Loss as an Early Biomarker of Vascular Aging in Men Over 75",
+    "description": "Synthesizes longitudinal data linking cochlear microvascular decline to carotid intima-media thickness—and implications for cardiac risk stratification.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "hearing loss vascular aging men over 75",
+      "heart health",
+      "early-detection-link"
+    ],
+    "primaryKeyword": "hearing loss vascular aging men over 75",
+    "topicCluster": "early-detection-link",
+    "image": "",
+    "relatedSlugs": [
+      "the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70",
+      "blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70",
+      "the-link-between-hearing-loss-and-heart-disease-after-60",
+      "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals",
+      "does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58"
+    ]
+  },
+  {
+    "slug": "what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel",
+    "title": "What Research Says About Cranberry Sauce and UTI Risk in Women Over 70 During Holiday Travel",
+    "description": "Reviews 2022–2024 clinical trials on proanthocyanidin bioavailability in canned vs. fresh cranberry preparations—and whether holiday dehydration negates any protective effect.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "cranberry sauce uti prevention seniors",
+      "healthy holiday eating for seniors",
+      "infectious-disease-prevention"
+    ],
+    "primaryKeyword": "cranberry sauce uti prevention seniors",
+    "topicCluster": "infectious-disease-prevention",
+    "image": "",
+    "relatedSlugs": [
+      "the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis",
+      "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80",
+      "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70"
+    ]
+  },
+  {
+    "slug": "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60",
+    "title": "The Connection Between Holiday Alcohol Consumption and Nocturnal Atrial Fibrillation Episodes in Women Over 60",
+    "description": "Analyzes how ethanol-induced vagal tone shifts and nocturnal QT prolongation interact with age-related atrial fibrosis—plus real-world AF burden data from wearable ECG studies.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "alcohol atrial fibrillation seniors",
+      "healthy holiday eating for seniors",
+      "arrhythmia-trigger-analysis"
+    ],
+    "primaryKeyword": "alcohol atrial fibrillation seniors",
+    "topicCluster": "arrhythmia-trigger-analysis",
+    "image": "",
+    "relatedSlugs": [
+      "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults",
+      "can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation",
+      "what-research-says-about-holiday-heart-syndrome-and-aging-hearts",
+      "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol",
+      "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults"
+    ]
+  },
+  {
+    "slug": "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension",
+    "title": "Simple Changes to Your Home Lighting Schedule That Lower Nighttime Blood Pressure in Adults With Nocturnal Hypertension",
+    "description": "Guides circadian lighting adjustments—blue-enriched morning light, amber evening filters, and bedroom light exposure thresholds—to optimize melatonin and renin rhythms.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "home lighting and nighttime blood pressure",
+      "heart disease",
+      "environmental-lighting-hypertension"
+    ],
+    "primaryKeyword": "home lighting and nighttime blood pressure",
+    "topicCluster": "environmental-lighting-hypertension",
+    "image": "",
+    "relatedSlugs": [
+      "the-connection-between-holiday-light-exposure-and-blood-sugar-regulation"
+    ]
+  },
+  {
+    "slug": "quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75",
+    "title": "Quick Ways to Lower Post-Holiday Triglycerides Without Fasting—Especially for Sedentary Adults Over 75",
+    "description": "Offers 4 clinically validated, non-fasting interventions (e.g., timed omega-3 dosing, postprandial walking protocols, fiber timing) shown to reduce TGs within 72 hours.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "lower triglycerides without fasting seniors",
+      "healthy holiday eating for seniors",
+      "acute-lipid-modulation"
+    ],
+    "primaryKeyword": "lower triglycerides without fasting seniors",
+    "topicCluster": "acute-lipid-modulation",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle",
+      "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits",
+      "what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time",
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+      "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis",
+    "title": "Natural Ways to Support Gastric Emptying After Rich Holiday Meals—Especially for Seniors With Diabetic Gastroparesis",
+    "description": "Clinically informed, non-pharmaceutical approaches (temperature, sequencing, botanicals, postural positioning) to safely accelerate gastric motility—without triggering reflux or hypoglycemia.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "support gastric emptying diabetic gastroparesis seniors",
+      "healthy eating during family gatherings",
+      "gastrointestinal-motility-support"
+    ],
+    "primaryKeyword": "support gastric emptying diabetic gastroparesis seniors",
+    "topicCluster": "gastrointestinal-motility-support",
+    "image": "",
+    "relatedSlugs": [
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+      "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75",
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75",
+      "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings"
+    ]
+  },
+  {
+    "slug": "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70",
+    "title": "How Family Table Talk Affects Chewing Efficiency and Nutrient Absorption in Adults With Early Dysphagia (Age 70+)",
+    "description": "Exploring the under-recognized link between conversational pacing, distracted eating, and reduced mastication—leading to poor micronutrient bioavailability and increased aspiration risk during festive meals.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "family conversation chewing efficiency dysphagia seniors",
+      "healthy eating during family gatherings",
+      "swallowing-nutrition-interaction"
+    ],
+    "primaryKeyword": "family conversation chewing efficiency dysphagia seniors",
+    "topicCluster": "swallowing-nutrition-interaction",
+    "image": "",
+    "relatedSlugs": [
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75",
+      "5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners",
+      "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
+      "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia",
+      "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season"
+    ]
+  },
+  {
+    "slug": "how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55",
+    "title": "How Family-Style Serving at Holiday Dinners Worsens Glycemic Variability in Adults With Prediabetes Over 55",
+    "description": "Examines the impact of unmeasured portions, delayed eating, and mixed-macronutrient sequencing on 2-hour postprandial glucose spikes—and provides a 'plate-first' serving protocol.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "family-style serving prediabetes seniors",
+      "healthy holiday eating for seniors",
+      "meal-structure-glycemic-control"
+    ],
+    "primaryKeyword": "family-style serving prediabetes seniors",
+    "topicCluster": "meal-structure-glycemic-control",
+    "image": "",
+    "relatedSlugs": [
+      "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60",
+      "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control",
+      "how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes",
+      "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings",
+      "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes"
+    ]
+  },
+  {
+    "slug": "how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp",
+    "title": "How Chronic Inflammation From Gum Disease Fuels Hypertension—And Why Dentists Should Check Your BP",
+    "description": "Explains the oral-systemic link: how periodontitis-induced IL-6 and CRP promote endothelial dysfunction and arterial stiffness, with screening protocols for adults over 65 with poor dental history.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "gum disease and high blood pressure link",
+      "blood pressure",
+      "oral-systemic-inflammation"
+    ],
+    "primaryKeyword": "gum disease and high blood pressure link",
+    "topicCluster": "oral-systemic-inflammation",
+    "image": "",
+    "relatedSlugs": [
+      "how-gum-disease-is-linked-to-diabetes-complications-in-older-adults",
+      "the-hidden-link-between-gum-disease-and-heart-problems",
+      "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals",
+      "are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart",
+      "how-poor-dental-hygiene-may-lead-to-heart-disease"
+    ]
+  },
+  {
+    "slug": "can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide",
+    "title": "Can You Eat Traditional Latkes While Managing Stage 2 CKD? A Nephrologist-Reviewed Ingredient Swap Guide",
+    "description": "Step-by-step modification of classic potato pancakes for adults with early chronic kidney disease—focusing on potassium, phosphorus, and sodium control without sacrificing flavor or cultural meaning.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "kidney-friendly latkes stage 2 ckd",
+      "healthy eating during family gatherings",
+      "renal-diet-modification"
+    ],
+    "primaryKeyword": "kidney-friendly latkes stage 2 ckd",
+    "topicCluster": "renal-diet-modification",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd",
+      "the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension",
+      "a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease",
+      "the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease",
+      "5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor"
+    ]
+  },
+  {
+    "slug": "a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease",
+    "title": "A vs B: Slow-Cooked Turkey Breast vs Deli Sliced Turkey for Seniors With Chronic Kidney Disease",
+    "description": "Compares phosphorus bioavailability, sodium load, and protein digestibility between two common holiday turkey preparations, with nephrology-guided portion recommendations.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "turkey preparation chronic kidney disease",
+      "healthy holiday eating for seniors",
+      "renal-nutrition-comparison"
+    ],
+    "primaryKeyword": "turkey preparation chronic kidney disease",
+    "topicCluster": "renal-nutrition-comparison",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd",
+      "a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease",
+      "the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease",
+      "a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics",
+      "the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension"
+    ]
+  },
+  {
+    "slug": "a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance",
+    "title": "A vs B: Mulled Wine vs Warm Spiced Apple Cider for Blood Sugar Stability in Women Over 60 With Insulin Resistance",
+    "description": "Compares polyphenol bioavailability, alcohol–glucose interaction timing, fructose load, and thermal degradation of beneficial compounds in two popular warm holiday drinks.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "mulled wine vs apple cider diabetes",
+      "holiday diabetes management",
+      "beverage-comparison-insulin-resistance"
+    ],
+    "primaryKeyword": "mulled wine vs apple cider diabetes",
+    "topicCluster": "beverage-comparison-insulin-resistance",
+    "image": "",
+    "relatedSlugs": [
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays",
+      "the-truth-about-alcohol-and-blood-sugar-during-holiday-parties",
+      "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60",
+      "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers"
+    ]
+  },
+  {
+    "slug": "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications",
+    "title": "5 Silent Signs Your Holiday Hydration Strategy Is Failing—Especially With Diuretic Medications",
+    "description": "Identifies overlooked dehydration cues in seniors taking loop diuretics or thiazides, with practical hydration benchmarks adjusted for winter indoor heating and reduced thirst perception.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "dehydration signs seniors diuretics",
+      "healthy holiday eating for seniors",
+      "medication-hydration-safety"
+    ],
+    "primaryKeyword": "dehydration signs seniors diuretics",
+    "topicCluster": "medication-hydration-safety",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties",
+      "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70",
+      "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
+      "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
+      "how-staying-hydrated-in-winter-protects-your-heart-after-70"
+    ]
+  },
+  {
+    "slug": "10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia",
+    "title": "10 Foods That Support Swallowing Safety During Holiday Meals for Seniors With Mild Dysphagia",
+    "description": "Highlights texture-modified, nutrient-dense options (e.g., velvety butternut bisque, gelatin-set fruit compote, moist herb-roasted chicken) aligned with ASHA’s IDDSI Level 4 guidelines.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "dysphagia-friendly holiday foods seniors",
+      "healthy holiday eating for seniors",
+      "swallowing-safety-nutrition"
+    ],
+    "primaryKeyword": "dysphagia-friendly holiday foods seniors",
+    "topicCluster": "swallowing-safety-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
+      "best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods",
+      "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors",
+      "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70",
+      "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd"
+    ]
+  },
+  {
+    "slug": "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60",
+    "title": "10 Foods That Actually *Stabilize* Post-Meal Blood Pressure—Not Just Lower It—For Adults With Labile Hypertension Over 60",
+    "description": "A nutrient-focused list highlighting foods with synergistic potassium-magnesium-calcium ratios, nitrates, and polyphenols shown in ambulatory BP studies to reduce *variability*, not just mean values.",
+    "date": "2025-12-23",
+    "updated": "2025-12-23",
+    "tags": [
+      "stabilize post-meal blood pressure seniors",
+      "healthy eating during family gatherings",
+      "blood-pressure-variability-nutrition"
+    ],
+    "primaryKeyword": "stabilize post-meal blood pressure seniors",
+    "topicCluster": "blood-pressure-variability-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "top-5-winter-superfoods-that-naturally-lower-blood-pressure",
+      "the-role-of-potassium-in-managing-blood-pressure-after-50",
+      "5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium",
+      "how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors",
+      "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension"
+    ]
+  },
+  {
     "slug": "what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65",
     "title": "What Are the Earliest Signs of Postprandial Hypoxemia After a Heavy Family Meal—And Why It’s Often Missed in Adults With Mild COPD Over 65?",
     "description": "Spotting subtle respiratory red flags (e.g., increased sighing, reduced conversation stamina, fingertip coolness) that precede SpO2 drops—and how meal composition (fat load, carbonation, temperature) contributes.",
@@ -182,7 +612,9 @@
     "topicCluster": "causes-research-link",
     "image": "",
     "relatedSlugs": [
-      "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now"
+      "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now",
+      "how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp",
+      "what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75"
     ]
   },
   {
@@ -311,7 +743,8 @@
     "image": "",
     "relatedSlugs": [
       "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd",
-      "best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk"
+      "best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk",
+      "a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease"
     ]
   },
   {
@@ -1246,7 +1679,8 @@
       "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults",
       "how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55",
       "how-air-pollution-impacts-heart-health-in-older-adults",
-      "does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors"
+      "does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors",
+      "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60"
     ]
   },
   {
@@ -1328,7 +1762,8 @@
       "how-standing-up-too-fast-affects-blood-pressure-in-older-adults",
       "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75",
       "when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss",
-      "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60"
+      "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60",
+      "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension"
     ]
   },
   {
@@ -1962,7 +2397,8 @@
       "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
       "blood-pressure-management-for-sedentary-seniors-in-winter-months",
       "10-high-fiber-holiday-foods-that-support-digestion-after-50",
-      "how-dehydration-impacts-blood-pressure-levels"
+      "how-dehydration-impacts-blood-pressure-levels",
+      "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60"
     ]
   },
   {

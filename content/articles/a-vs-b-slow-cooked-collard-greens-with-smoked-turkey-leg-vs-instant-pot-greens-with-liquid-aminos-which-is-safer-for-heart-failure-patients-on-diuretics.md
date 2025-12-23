@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Slow-Cooked Collard Greens With Smoked Turkey Leg vs. Instant-Pot Greens With Liquid Aminos — Which Is Safer for Heart Failure Patients on Diuretics?"
-slug: "a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics"
-description: "Direct nutrient comparison (sodium, potassium, nitrate load, purine content) and fluid-balance impact of two culturally resonant preparations—tailored for adults with HFrEF managing volume status."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["collard greens heart failure diuretics comparison", "healthy eating during family gatherings", "heart-failure-diet-comparison"]
-primaryKeyword: "collard greens heart failure diuretics comparison"
-topicCluster: "heart-failure-diet-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk"]
+title: >-
+  A vs B: Slow-Cooked Collard Greens With Smoked Turkey Leg vs. Instant-Pot
+  Greens With Liquid Aminos — Which Is Safer for Heart Failure Patients on
+  Diuretics?
+slug: >-
+  a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
+description: >-
+  Direct nutrient comparison (sodium, potassium, nitrate load, purine content)
+  and fluid-balance impact of two culturally resonant preparations—tailored for
+  adults with HFrEF managing volume status.
+date: '2025-12-22'
+updated: '2025-12-22'
+tags:
+  - collard greens heart failure diuretics comparison
+  - healthy eating during family gatherings
+  - heart-failure-diet-comparison
+primaryKeyword: collard greens heart failure diuretics comparison
+topicCluster: heart-failure-diet-comparison
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - >-
+    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
+  - >-
+    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
 ---
 
 # Collard Greens Heart Failure Diuretics Comparison: Which Cooking Method Is Better for Your Heart?

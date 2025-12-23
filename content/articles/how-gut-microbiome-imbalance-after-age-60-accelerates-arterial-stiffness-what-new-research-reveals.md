@@ -1,14 +1,29 @@
 ---
-title: "How Gut Microbiome Imbalance After Age 60 Accelerates Arterial Stiffness: What New Research Reveals"
-slug: "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals"
-description: "Breaks down 2023–2024 clinical studies linking dysbiosis, TMAO production, and endothelial dysfunction—and practical dietary shifts to support microbial-heart axis health."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["gut microbiome and arterial stiffness aging", "heart health", "causes-research-link"]
-primaryKeyword: "gut microbiome and arterial stiffness aging"
-topicCluster: "causes-research-link"
-image: ""
-relatedSlugs: ["how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now"]
+title: >-
+  How Gut Microbiome Imbalance After Age 60 Accelerates Arterial Stiffness: What
+  New Research Reveals
+slug: >-
+  how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
+description: >-
+  Breaks down 2023–2024 clinical studies linking dysbiosis, TMAO production, and
+  endothelial dysfunction—and practical dietary shifts to support
+  microbial-heart axis health.
+date: '2025-12-22'
+updated: '2025-12-22'
+tags:
+  - gut microbiome and arterial stiffness aging
+  - heart health
+  - causes-research-link
+primaryKeyword: gut microbiome and arterial stiffness aging
+topicCluster: causes-research-link
+image: ''
+relatedSlugs:
+  - >-
+    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+  - >-
+    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
 ---
 
 # How Gut Microbiome Imbalance After Age 60 Contributes to Arterial Stiffness—And What You Can Do About It
