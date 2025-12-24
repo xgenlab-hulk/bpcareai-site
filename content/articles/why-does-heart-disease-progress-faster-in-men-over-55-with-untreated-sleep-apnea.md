@@ -1,14 +1,27 @@
 ---
-title: "Why Does Heart Disease Progress Faster in Men Over 55 with Untreated Sleep Apnea?"
-slug: "why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea"
-description: "Explores the under-recognized link between obstructive sleep apnea and accelerated coronary artery disease in midlife and older men—backed by 2023–2024 cohort studies."
-date: "2025-12-20"
-updated: "2025-12-20"
-tags: ["sleep apnea and heart disease progression in men", "heart disease", "comorbidities-sleep-apnea"]
-primaryKeyword: "sleep apnea and heart disease progression in men"
-topicCluster: "comorbidities-sleep-apnea"
-image: ""
-relatedSlugs: ["the-link-between-sleep-apnea-and-high-blood-pressure-after-50", "how-obesity-contributes-to-heart-disease-in-middle-age", "the-link-between-sleep-apnea-and-high-blood-pressure"]
+title: >-
+  Why Does Heart Disease Progress Faster in Men Over 55 with Untreated Sleep
+  Apnea?
+slug: >-
+  why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
+description: >-
+  Explores the under-recognized link between obstructive sleep apnea and
+  accelerated coronary artery disease in midlife and older men—backed by
+  2023–2024 cohort studies.
+date: '2025-12-20'
+updated: '2025-12-20'
+tags:
+  - sleep apnea and heart disease progression in men
+  - heart disease
+  - comorbidities-sleep-apnea
+primaryKeyword: sleep apnea and heart disease progression in men
+topicCluster: comorbidities-sleep-apnea
+image: ''
+relatedSlugs:
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - how-obesity-contributes-to-heart-disease-in-middle-age
+  - the-link-between-sleep-apnea-and-high-blood-pressure
+  - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
 ---
 
 # Why Untreated Sleep Apnea Accelerates Heart Disease in Men Over 55

@@ -22,6 +22,8 @@ relatedSlugs:
   - how-social-isolation-increases-heart-disease-risk-after-60
   - >-
     how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
+  - >-
+    12-evidence-based-ways-to-maintain-social-rhythm-during-holiday-isolation-especially-for-retired-widowed-adults-living-alone
 ---
 
 # How Chronic Loneliness May Quietly Affect Heart Structure in Older Adults—And What You Can Do

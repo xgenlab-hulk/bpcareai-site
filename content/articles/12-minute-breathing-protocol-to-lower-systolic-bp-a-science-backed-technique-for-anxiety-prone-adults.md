@@ -23,6 +23,8 @@ relatedSlugs:
     natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
     quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+  - >-
+    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
 ---
 
 # A Gentle 12-Minute Breathing Technique to Lower Systolic BP—Backed by Science and Designed for Adults 55–80

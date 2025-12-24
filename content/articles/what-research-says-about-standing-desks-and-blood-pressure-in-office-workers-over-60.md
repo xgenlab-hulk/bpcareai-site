@@ -22,6 +22,8 @@ relatedSlugs:
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
   - >-
     can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
+  - >-
+    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
 ---
 
 # What the Latest Standing Desk Blood Pressure Research 60+ Reveals for Older Office Workers

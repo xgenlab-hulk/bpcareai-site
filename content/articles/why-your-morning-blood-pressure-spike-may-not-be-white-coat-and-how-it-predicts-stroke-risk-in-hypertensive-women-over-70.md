@@ -1,14 +1,28 @@
 ---
-title: "Why Your Morning Blood Pressure Spike May Not Be 'White Coat'—And How It Predicts Stroke Risk in Hypertensive Women Over 70"
-slug: "why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70"
-description: "Explains the pathophysiology of morning surge, its independent association with cerebrovascular events, and validated home tracking strategies beyond single readings."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["morning blood pressure spike stroke risk", "heart health", "causes-gender-specific"]
-primaryKeyword: "morning blood pressure spike stroke risk"
-topicCluster: "causes-gender-specific"
-image: ""
-relatedSlugs: ["why-morning-blood-pressure-surges-are-more-dangerous-in-winter", "how-morning-blood-pressure-spikes-affect-your-heart", "7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning"]
+title: >-
+  Why Your Morning Blood Pressure Spike May Not Be 'White Coat'—And How It
+  Predicts Stroke Risk in Hypertensive Women Over 70
+slug: >-
+  why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
+description: >-
+  Explains the pathophysiology of morning surge, its independent association
+  with cerebrovascular events, and validated home tracking strategies beyond
+  single readings.
+date: '2025-12-19'
+updated: '2025-12-19'
+tags:
+  - morning blood pressure spike stroke risk
+  - heart health
+  - causes-gender-specific
+primaryKeyword: morning blood pressure spike stroke risk
+topicCluster: causes-gender-specific
+image: ''
+relatedSlugs:
+  - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
+  - how-morning-blood-pressure-spikes-affect-your-heart
+  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
+  - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
 ---
 
 # Why Your Morning Blood Pressure Spike May Signal Higher Stroke Risk—Especially After 70

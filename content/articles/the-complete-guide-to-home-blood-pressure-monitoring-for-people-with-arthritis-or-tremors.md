@@ -21,6 +21,8 @@ relatedSlugs:
   - how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
 ---
 
 # Home Blood Pressure Monitoring for Arthritis and Tremors: A Gentle, Practical Guide
