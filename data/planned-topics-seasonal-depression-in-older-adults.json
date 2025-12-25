@@ -1,27 +1,11 @@
 [
   {
-    "title": "How Reduced Sunlight Exposure After Age 60 Alters Melatonin-Cortisol Rhythms—And Why That Worsens Winter Mood",
-    "description": "Examines the age-related decline in retinal light sensitivity and circadian photoreception, explaining the biological mechanism linking shorter days to depressive symptoms in older adults.",
-    "primaryKeyword": "sunlight exposure melatonin cortisol aging",
-    "topicCluster": "circadian-biology-aging",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2025-12-24T03:42:50.586Z"
-  },
-  {
     "title": "5 Natural Light Therapy Alternatives for Seniors With Macular Degeneration or Cataracts Who Can’t Use Standard SAD Lamps",
     "description": "Evidence-based, eye-safe options—including dawn-simulating alarms, blue-enriched morning lighting, and timed outdoor exposure protocols—designed for older adults with visual impairment.",
     "primaryKeyword": "light therapy alternatives for seniors with vision loss",
     "topicCluster": "non-photic-interventions-vision-impaired",
     "coreKeyword": "seasonal depression in older adults",
     "createdAt": "2025-12-24T03:42:51.722Z"
-  },
-  {
-    "title": "When to Worry About Winter Apathy vs. Early Depression in Men Over 70: A 4-Point Clinical Red-Flag Checklist",
-    "description": "A clinician-vetted, behaviorally anchored tool to distinguish motivational decline from neurological or psychiatric causes—focused specifically on male-pattern emotional withdrawal in late life.",
-    "primaryKeyword": "winter apathy vs depression in men over 70",
-    "topicCluster": "differential-diagnosis-male-aging",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2025-12-24T03:42:52.840Z"
   },
   {
     "title": "The Truth About Vitamin D3 Supplementation for Seasonal Mood Support in Adults With Stage 3 CKD Over 65",
@@ -54,13 +38,5 @@
     "topicCluster": "trauma-informed-prevention",
     "coreKeyword": "seasonal depression in older adults",
     "createdAt": "2025-12-24T03:42:58.543Z"
-  },
-  {
-    "title": "Quick Ways to Boost Dopamine Responsiveness During Shorter Days—Without Stimulants or Antidepressants (Evidence from 8 Trials in Adults 60–82)",
-    "description": "Synthesizes findings on tyrosine-rich meal timing, cold exposure windows, and rhythmic movement protocols shown to enhance dopaminergic tone in aging brains during winter.",
-    "primaryKeyword": "dopamine support without medication winter seniors",
-    "topicCluster": "neurotransmitter-modulation-natural",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2025-12-24T03:42:59.684Z"
   }
 ]

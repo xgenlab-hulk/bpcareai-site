@@ -1,43 +1,11 @@
 [
   {
-    "title": "7 Hidden Causes of Morning Blood Pressure Spikes in Adults Over 65—Even With Perfect Medication Timing",
-    "description": "Explores non-obvious physiological, environmental, and behavioral triggers (e.g., nocturnal sodium retention, dawn phenomenon overlap, CPAP nonadherence) that elevate systolic pressure between 5–9 a.m. in older adults on antihypertensives.",
-    "primaryKeyword": "morning blood pressure spikes over 65",
-    "topicCluster": "circadian-hypertension",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:32.938Z"
-  },
-  {
-    "title": "The Truth About 'Normal' Home BP Readings When You Have Atrial Fibrillation—Why Your Cuff Might Be Lying to You",
-    "description": "Explains oscillometric measurement inaccuracies during irregular rhythms, validation protocols for AFib patients, and when to switch to ambulatory or auscultatory methods.",
-    "primaryKeyword": "blood pressure cuff accuracy afib",
-    "topicCluster": "measurement-reliability",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:35.315Z"
-  },
-  {
     "title": "Can You Safely Stop ACE Inhibitors After 5 Years of Stable BP Control? A Risk-Benefit Framework for Adults 62–76",
     "description": "Guides shared decision-making using real-world evidence on rebound hypertension risk, renal autoregulation changes, and biomarker monitoring (e.g., plasma renin activity) before deprescribing.",
     "primaryKeyword": "stopping ace inhibitors safely over 60",
     "topicCluster": "medication-deprescribing",
     "coreKeyword": "blood pressure",
     "createdAt": "2025-12-24T03:39:36.440Z"
-  },
-  {
-    "title": "12 Foods That *Raise* Blood Pressure—Even If They’re Low-Sodium or 'Heart-Healthy' on the Label",
-    "description": "Uncovers hidden BP-elevating culprits: high-potassium foods in renal impairment, tyramine-rich fermented items with MAOIs, licorice-containing supplements, and ultra-processed 'low-salt' snacks with compensatory vasoconstrictive additives.",
-    "primaryKeyword": "foods that raise blood pressure hidden",
-    "topicCluster": "dietary-risks",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:37.571Z"
-  },
-  {
-    "title": "When to Worry About Blood Pressure Dropping *Only* During Walking—A Red-Flag Pattern for Autonomic Neuropathy in Adults With Long-Standing Diabetes Over 67",
-    "description": "Details orthostatic + exertional hypotension differentiation, 6-minute walk test interpretation, and why this specific pattern predicts falls and dementia progression faster than resting BP alone.",
-    "primaryKeyword": "blood pressure drops walking diabetes neuropathy",
-    "topicCluster": "autonomic-dysfunction",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:38.674Z"
   },
   {
     "title": "Natural Ways to Improve Baroreflex Sensitivity Without Drugs—Backed by 8 RCTs in Adults 55–74 With Labile Hypertension",
@@ -56,14 +24,6 @@
     "createdAt": "2025-12-24T03:39:40.961Z"
   },
   {
-    "title": "5 Things Everyone With White-Coat Hypertension Over 55 Should Know About Their 10-Year Kidney Risk",
-    "description": "Presents data linking masked nocturnal hypertension, albuminuria progression, and glomerular hyperfiltration—even in absence of daytime elevation—and why renal monitoring should begin *immediately* post-diagnosis.",
-    "primaryKeyword": "white coat hypertension kidney risk over 55",
-    "topicCluster": "renal-vascular-risk",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:43.229Z"
-  },
-  {
     "title": "How Late-Night Screen Time Disrupts Nitric Oxide Synthesis and Elevates Nighttime BP in Men Over 70—Even With No Sleep Complaints",
     "description": "Explains blue-light–mediated suppression of endothelial nitric oxide synthase (eNOS) phosphorylation, independent of melatonin or sleep architecture—plus practical spectral-filtering interventions.",
     "primaryKeyword": "screen time nitric oxide nighttime bp men 70",
@@ -80,14 +40,6 @@
     "createdAt": "2025-12-24T03:39:45.490Z"
   },
   {
-    "title": "10 Warning Signs Your 'Controlled' Hypertension Is Actually Causing Silent Cerebral Small Vessel Disease—Especially If You’re a Woman Over 63",
-    "description": "Links subtle clinical markers (e.g., gait variability, phonemic fluency decline, retinal arteriolar narrowing on fundoscopy) to MRI-confirmed white matter hyperintensities and vascular cognitive impairment risk.",
-    "primaryKeyword": "silent cerebral small vessel disease hypertension",
-    "topicCluster": "neurovascular-early-detection",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:46.662Z"
-  },
-  {
     "title": "The Ultimate Guide to Interpreting Ambulatory Blood Pressure Reports—What 'Nocturnal Dipping' Really Means for Your Stroke Risk After 72",
     "description": "Decodes ABPM metrics beyond 'dipper/non-dipper': reverse dipping slope, morning surge magnitude, 24-h systolic standard deviation, and how each independently predicts lacunar stroke in octogenarians.",
     "primaryKeyword": "ambulatory blood pressure report interpretation stroke risk",
@@ -96,28 +48,12 @@
     "createdAt": "2025-12-24T03:39:47.774Z"
   },
   {
-    "title": "How Gut-Derived Trimethylamine N-Oxide (TMAO) Fuels Endothelial Dysfunction in Adults With Hypertension and Mild CKD Stage 2 Over 65",
-    "description": "Details the microbial-metabolite–driven pathway from dietary choline/carnitine → TMA → hepatic TMAO → reduced eNOS activity → arterial stiffness—and why standard low-salt diets don’t address this axis.",
-    "primaryKeyword": "tmao endothelial dysfunction hypertension ck2",
-    "topicCluster": "gut-vascular-axis",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:49.343Z"
-  },
-  {
     "title": "Quick Ways to Lower Systolic BP *Within 90 Minutes* Using Isometric Handgrip Training—Validated in 3 RCTs for Adults 59–74",
     "description": "Provides step-by-step protocol (4x2-min holds at 30% MVC, 1-min rest), mechanism (central sympathetic inhibition), contraindications (aortic stenosis, uncontrolled HF), and expected effect size vs. fast-acting meds.",
     "primaryKeyword": "lower systolic bp isometric handgrip 90 minutes",
     "topicCluster": "acute-nonpharmacologic-intervention",
     "coreKeyword": "blood pressure",
     "createdAt": "2025-12-24T03:39:50.441Z"
-  },
-  {
-    "title": "Myths vs Facts: 'Salt Sensitivity' in Older Adults—Why Your BP May Rise With 2g Sodium Even If You’re Not 'Salt-Sensitive' by Classic Definitions",
-    "description": "Challenges outdated salt-sensitivity criteria by exposing age-related renal sodium retention, aldosterone resistance, and how 'non-salt-sensitive' elders still develop volume overload on modest sodium loads.",
-    "primaryKeyword": "salt sensitivity myth older adults sodium",
-    "topicCluster": "sodium-physiology-aging",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:52.705Z"
   },
   {
     "title": "How Social Isolation After Age 70 Alters Circadian Cortisol Rhythms and Elevates Nighttime Systolic Pressure—Independent of Loneliness",

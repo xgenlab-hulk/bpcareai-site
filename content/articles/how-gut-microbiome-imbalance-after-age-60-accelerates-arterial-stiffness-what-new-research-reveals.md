@@ -24,6 +24,8 @@ relatedSlugs:
     how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - >-
     what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
+  - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
 ---
 
 # How Gut Microbiome Imbalance After Age 60 Contributes to Arterial Stiffness—And What You Can Do About It

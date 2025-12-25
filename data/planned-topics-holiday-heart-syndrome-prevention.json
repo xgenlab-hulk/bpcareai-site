@@ -1,37 +1,5 @@
 [
   {
-    "title": "7 Hidden Triggers of Holiday Heart Syndrome in Adults With Controlled Hypertension—And How to Neutralize Them Before Christmas Eve",
-    "description": "Explores lesser-known, non-alcoholic triggers—like overnight sodium retention, disrupted melatonin rhythms, and post-prandial vagal surges—that can destabilize cardiac rhythm in otherwise stable hypertensive adults 55–79.",
-    "primaryKeyword": "holiday heart syndrome triggers in hypertensive adults",
-    "topicCluster": "physiological-triggers",
-    "coreKeyword": "holiday heart syndrome prevention",
-    "createdAt": "2025-12-24T03:41:34.145Z"
-  },
-  {
-    "title": "How Late-Night Eggnog Consumption Alters QT Interval Duration in Men Over 62—A Cardiologist’s Interpretation of Holiday ECG Patterns",
-    "description": "Analyzes how high-fat, high-sugar, calcium-rich nighttime beverages interact with age-related ion channel changes to prolong QT interval, increasing arrhythmia susceptibility during holiday weeks.",
-    "primaryKeyword": "eggnog and qt interval prolongation in older men",
-    "topicCluster": "electrophysiology-effects",
-    "coreKeyword": "holiday heart syndrome prevention",
-    "createdAt": "2025-12-24T03:41:35.260Z"
-  },
-  {
-    "title": "When to Worry About Palpitations After Midnight Mass—A 3-Stage Red-Flag Timeline for Women Over 68 With Diastolic Dysfunction",
-    "description": "Provides a clinically grounded, time-based decision tree (0–2 hrs, 2–6 hrs, >6 hrs post-event) to distinguish benign holiday stress responses from early decompensated diastolic heart failure.",
-    "primaryKeyword": "palpitations after midnight mass in elderly women",
-    "topicCluster": "emergency-symptoms-timeline",
-    "coreKeyword": "holiday heart syndrome prevention",
-    "createdAt": "2025-12-24T03:41:36.398Z"
-  },
-  {
-    "title": "The Truth About 'Heart-Healthy' Holiday Wine Labels—What the 2024 FDA Draft Guidance Says About Alcohol Dose Thresholds for Atrial Fibrillation Risk",
-    "description": "Breaks down new regulatory language on alcohol labeling, clarifies safe vs. arrhythmogenic thresholds for seniors, and decodes marketing terms like 'moderate' and 'resveratrol-enriched' in context of cardiac vulnerability.",
-    "primaryKeyword": "holiday wine labels and atrial fibrillation risk",
-    "topicCluster": "regulatory-clarity",
-    "coreKeyword": "holiday heart syndrome prevention",
-    "createdAt": "2025-12-24T03:41:37.564Z"
-  },
-  {
     "title": "A vs B: Warm Herbal Chai (Caffeine-Free) vs Sparkling Pomegranate Mocktail for Preventing Post-Meal Atrial Ectopy in Women Over 70",
     "description": "Compares electrophysiologic impact of polyphenol bioavailability, osmotic load, and thermal stimulation on atrial refractoriness using data from 2023 pilot RCTs in postmenopausal cohorts.",
     "primaryKeyword": "herbal chai vs pomegranate mocktail for atrial ectopy",
@@ -64,14 +32,6 @@
     "createdAt": "2025-12-24T03:41:44.272Z"
   },
   {
-    "title": "12 Foods That Support Atrial Myocyte Resilience—Not Just Rhythm Control—for Adults Over 64 With Paroxysmal AFib",
-    "description": "Focuses on cardioprotective nutrients (taurine, omega-3 EPA/DHA, magnesium-threonate, alliin) that enhance mitochondrial efficiency and reduce oxidative stress in atrial tissue—beyond simple electrolyte balancing.",
-    "primaryKeyword": "foods for atrial myocyte resilience in elderly",
-    "topicCluster": "cellular-cardioprotection",
-    "coreKeyword": "holiday heart syndrome prevention",
-    "createdAt": "2025-12-24T03:41:45.434Z"
-  },
-  {
     "title": "How Family Singing Carols Together Alters HRV and Reduces AFib Episodes in Adults With Mild Heart Failure—New Data From a 2024 Long-Term Cohort Study",
     "description": "Examines the vagal-enhancing, rhythm-synchronizing, and cortisol-lowering effects of communal vocalization in home-based holiday settings, with longitudinal data on 142 adults aged 66–83.",
     "primaryKeyword": "caroling and heart rate variability in elderly",
@@ -94,14 +54,6 @@
     "topicCluster": "circadian-behavior-modification",
     "coreKeyword": "holiday heart syndrome prevention",
     "createdAt": "2025-12-24T03:41:50.111Z"
-  },
-  {
-    "title": "Myths vs Facts About Alcohol-Free Spirits and Holiday Heart Syndrome Risk in Adults With Preexisting PVCs",
-    "description": "Debunks assumptions about 'safe' non-alcoholic alternatives, highlighting hidden triggers like high-quinine tonics, excessive caffeine analogs, and glycyrrhizin-induced hypokalemia in botanical distillates.",
-    "primaryKeyword": "alcohol-free spirits and pvc risk in elderly",
-    "topicCluster": "myth-busting-beverages",
-    "coreKeyword": "holiday heart syndrome prevention",
-    "createdAt": "2025-12-24T03:41:51.526Z"
   },
   {
     "title": "How Late-Night Gift-Wrapping Increases Sympathetic Drive in Adults With Orthostatic Intolerance—And Why It’s Worse Than Late-Night Eating",
