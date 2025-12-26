@@ -1,21 +1,5 @@
 [
   {
-    "title": "Can You Safely Stop ACE Inhibitors After 5 Years of Stable BP Control? A Risk-Benefit Framework for Adults 62–76",
-    "description": "Guides shared decision-making using real-world evidence on rebound hypertension risk, renal autoregulation changes, and biomarker monitoring (e.g., plasma renin activity) before deprescribing.",
-    "primaryKeyword": "stopping ace inhibitors safely over 60",
-    "topicCluster": "medication-deprescribing",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:36.440Z"
-  },
-  {
-    "title": "Natural Ways to Improve Baroreflex Sensitivity Without Drugs—Backed by 8 RCTs in Adults 55–74 With Labile Hypertension",
-    "description": "Reviews evidence for timed breathing (not just 'deep breathing'), cold-water face immersion, isometric handgrip training, and vocal cord resistance exercises—not herbal supplements.",
-    "primaryKeyword": "improve baroreflex sensitivity naturally",
-    "topicCluster": "neurovascular-modulation",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:39.796Z"
-  },
-  {
     "title": "What Are the Earliest Signs of Pulmonary Hypertension in Seniors With COPD Who’ve Never Had Right-Heart Symptoms?",
     "description": "Identifies subtle, pre-echocardiogram clues: disproportionate dyspnea vs FEV1, exertional syncope without orthostasis, isolated elevated jugular venous pressure in supine position, and nocturnal oxygen desaturation patterns.",
     "primaryKeyword": "early pulmonary hypertension copd seniors",
@@ -24,43 +8,11 @@
     "createdAt": "2025-12-24T03:39:40.961Z"
   },
   {
-    "title": "How Late-Night Screen Time Disrupts Nitric Oxide Synthesis and Elevates Nighttime BP in Men Over 70—Even With No Sleep Complaints",
-    "description": "Explains blue-light–mediated suppression of endothelial nitric oxide synthase (eNOS) phosphorylation, independent of melatonin or sleep architecture—plus practical spectral-filtering interventions.",
-    "primaryKeyword": "screen time nitric oxide nighttime bp men 70",
-    "topicCluster": "digital-environment-vascular-effects",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:44.351Z"
-  },
-  {
-    "title": "Does Your Blood Pressure Medication Interact With Common OTC Pain Relievers *Differently* After Age 68? A Safety Guide for NSAID and Acetaminophen Use",
-    "description": "Clarifies age-specific pharmacokinetic shifts: reduced renal clearance of ARBs with ibuprofen, COX-2 selectivity pitfalls with celecoxib, and why acetaminophen’s BP effect intensifies in frail older adults with hepatic phase II decline.",
-    "primaryKeyword": "bp medication otc pain reliever interactions over 68",
-    "topicCluster": "pharmacokinetic-safety",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:45.490Z"
-  },
-  {
-    "title": "The Ultimate Guide to Interpreting Ambulatory Blood Pressure Reports—What 'Nocturnal Dipping' Really Means for Your Stroke Risk After 72",
-    "description": "Decodes ABPM metrics beyond 'dipper/non-dipper': reverse dipping slope, morning surge magnitude, 24-h systolic standard deviation, and how each independently predicts lacunar stroke in octogenarians.",
-    "primaryKeyword": "ambulatory blood pressure report interpretation stroke risk",
-    "topicCluster": "abpm-clinical-translation",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:47.774Z"
-  },
-  {
     "title": "Quick Ways to Lower Systolic BP *Within 90 Minutes* Using Isometric Handgrip Training—Validated in 3 RCTs for Adults 59–74",
     "description": "Provides step-by-step protocol (4x2-min holds at 30% MVC, 1-min rest), mechanism (central sympathetic inhibition), contraindications (aortic stenosis, uncontrolled HF), and expected effect size vs. fast-acting meds.",
     "primaryKeyword": "lower systolic bp isometric handgrip 90 minutes",
     "topicCluster": "acute-nonpharmacologic-intervention",
     "coreKeyword": "blood pressure",
     "createdAt": "2025-12-24T03:39:50.441Z"
-  },
-  {
-    "title": "How Social Isolation After Age 70 Alters Circadian Cortisol Rhythms and Elevates Nighttime Systolic Pressure—Independent of Loneliness",
-    "description": "Distinguishes objective isolation (living alone, <1 weekly contact) from subjective loneliness using cortisol awakening response (CAR) and 24-h BP mapping data—revealing direct neuroendocrine pathways to nocturnal hypertension.",
-    "primaryKeyword": "social isolation cortisol nighttime bp over 70",
-    "topicCluster": "social-neuroendocrine-hypertension",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-24T03:39:54.933Z"
   }
 ]

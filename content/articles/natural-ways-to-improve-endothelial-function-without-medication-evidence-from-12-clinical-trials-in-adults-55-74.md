@@ -22,6 +22,10 @@ relatedSlugs:
     natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
   - >-
     natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
+  - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
+  - >-
+    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
 ---
 
 # Natural Ways to Improve Endothelial Function Without Medication in Adults 55–74

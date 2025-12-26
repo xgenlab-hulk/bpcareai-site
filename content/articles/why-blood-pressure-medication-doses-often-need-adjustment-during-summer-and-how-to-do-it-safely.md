@@ -21,6 +21,8 @@ relatedSlugs:
   - 5-common-medication-adjustments-seniors-need-in-winter
   - how-cold-weather-affects-blood-pressure-medication-effectiveness
   - should-you-adjust-your-blood-pressure-goals-in-winter
+  - >-
+    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
 ---
 
 # Why Your Blood Pressure Meds Summer Adjustment Matters More Than You Think  
