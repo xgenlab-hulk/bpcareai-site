@@ -22,6 +22,8 @@ relatedSlugs:
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - >-
     best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
+  - >-
+    quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74
 ---
 
 # Safe, Effective Aortic Stenosis Resistance Exercises for Seniors: Gentle Strength Building Without Strain

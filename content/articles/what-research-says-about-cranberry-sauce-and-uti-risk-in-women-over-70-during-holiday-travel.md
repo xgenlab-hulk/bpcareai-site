@@ -1,14 +1,30 @@
 ---
-title: "What Research Says About Cranberry Sauce and UTI Risk in Women Over 70 During Holiday Travel"
-slug: "what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel"
-description: "Reviews 2022–2024 clinical trials on proanthocyanidin bioavailability in canned vs. fresh cranberry preparations—and whether holiday dehydration negates any protective effect."
-date: "2025-12-23"
-updated: "2025-12-23"
-tags: ["cranberry sauce uti prevention seniors", "healthy holiday eating for seniors", "infectious-disease-prevention"]
-primaryKeyword: "cranberry sauce uti prevention seniors"
-topicCluster: "infectious-disease-prevention"
-image: ""
-relatedSlugs: ["the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis", "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80", "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70"]
+title: >-
+  What Research Says About Cranberry Sauce and UTI Risk in Women Over 70 During
+  Holiday Travel
+slug: >-
+  what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
+description: >-
+  Reviews 2022–2024 clinical trials on proanthocyanidin bioavailability in
+  canned vs. fresh cranberry preparations—and whether holiday dehydration
+  negates any protective effect.
+date: '2025-12-23'
+updated: '2025-12-23'
+tags:
+  - cranberry sauce uti prevention seniors
+  - healthy holiday eating for seniors
+  - infectious-disease-prevention
+primaryKeyword: cranberry sauce uti prevention seniors
+topicCluster: infectious-disease-prevention
+image: ''
+relatedSlugs:
+  - >-
+    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
+  - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - >-
+    does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82
 ---
 
 # Cranberry Sauce and UTI Prevention in Seniors: What Recent Research Says for Women Over 70 During the Holidays

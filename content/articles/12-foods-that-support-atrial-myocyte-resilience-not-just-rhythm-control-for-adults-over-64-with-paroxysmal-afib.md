@@ -1,14 +1,27 @@
 ---
-title: "12 Foods That Support Atrial Myocyte Resilience—Not Just Rhythm Control—for Adults Over 64 With Paroxysmal AFib"
-slug: "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib"
-description: "Focuses on cardioprotective nutrients (taurine, omega-3 EPA/DHA, magnesium-threonate, alliin) that enhance mitochondrial efficiency and reduce oxidative stress in atrial tissue—beyond simple electrolyte balancing."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["foods for atrial myocyte resilience in elderly", "holiday heart syndrome prevention", "cellular-cardioprotection"]
-primaryKeyword: "foods for atrial myocyte resilience in elderly"
-topicCluster: "cellular-cardioprotection"
-image: ""
-relatedSlugs: ["natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79"]
+title: >-
+  12 Foods That Support Atrial Myocyte Resilience—Not Just Rhythm Control—for
+  Adults Over 64 With Paroxysmal AFib
+slug: >-
+  12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+description: >-
+  Focuses on cardioprotective nutrients (taurine, omega-3 EPA/DHA,
+  magnesium-threonate, alliin) that enhance mitochondrial efficiency and reduce
+  oxidative stress in atrial tissue—beyond simple electrolyte balancing.
+date: '2025-12-25'
+updated: '2025-12-25'
+tags:
+  - foods for atrial myocyte resilience in elderly
+  - holiday heart syndrome prevention
+  - cellular-cardioprotection
+primaryKeyword: foods for atrial myocyte resilience in elderly
+topicCluster: cellular-cardioprotection
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
+  - >-
+    a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
 ---
 
 # Foods for Atrial Myocyte Resilience in Elderly Adults—Beyond Rhythm, Toward Cellular Strength

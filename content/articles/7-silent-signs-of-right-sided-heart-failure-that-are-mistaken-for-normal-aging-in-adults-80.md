@@ -1,14 +1,31 @@
 ---
-title: "7 Silent Signs of Right-Sided Heart Failure That Are Mistaken for 'Normal Aging' in Adults 80+"
-slug: "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80"
-description: "Highlights overlooked clinical clues—nocturnal polyuria, isolated jugular venous distension without edema, and unexplained hepatomegaly—commonly misattributed to aging or liver disease."
-date: "2025-12-20"
-updated: "2025-12-20"
-tags: ["right-sided heart failure signs in octogenarians", "heart disease", "symptoms-aging-misdiagnosis"]
-primaryKeyword: "right-sided heart failure signs in octogenarians"
-topicCluster: "symptoms-aging-misdiagnosis"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath", "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents", "the-connection-between-frequent-urination-at-night-and-heart-health", "how-frequent-urination-at-night-could-signal-heart-problems"]
+title: >-
+  7 Silent Signs of Right-Sided Heart Failure That Are Mistaken for 'Normal
+  Aging' in Adults 80+
+slug: >-
+  7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
+description: >-
+  Highlights overlooked clinical clues—nocturnal polyuria, isolated jugular
+  venous distension without edema, and unexplained hepatomegaly—commonly
+  misattributed to aging or liver disease.
+date: '2025-12-20'
+updated: '2025-12-20'
+tags:
+  - right-sided heart failure signs in octogenarians
+  - heart disease
+  - symptoms-aging-misdiagnosis
+primaryKeyword: right-sided heart failure signs in octogenarians
+topicCluster: symptoms-aging-misdiagnosis
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
+  - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
+  - the-connection-between-frequent-urination-at-night-and-heart-health
+  - how-frequent-urination-at-night-could-signal-heart-problems
+  - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
 ---
 
 # 7 Subtle Signs of Right-Sided Heart Failure Often Overlooked in Adults 80 and Older

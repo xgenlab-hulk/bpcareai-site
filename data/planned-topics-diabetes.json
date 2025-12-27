@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "title": "When to Worry About Unexplained Muscle Cramps at Night in Women Over 68 With Diabetes and Diuretic Use",
+    "description": "Details a clinically underrecognized red-flag triad—nocturnal cramps + thiazide use + subclinical hypomagnesemia—and how it precedes silent neuropathic progression and falls risk.",
+    "primaryKeyword": "night muscle cramps diabetes diuretics",
+    "topicCluster": "neuromuscular-red-flags",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:06.254Z"
+  },
+  {
+    "title": "A vs B: Walking 10 Minutes After Each Meal vs. One 30-Minute Session Daily for Postprandial Glucose Control in Adults 55–69 With Prediabetes",
+    "description": "Compares real-world glycemic impact using continuous glucose monitoring (CGM) data from a 2024 pragmatic trial—highlighting timing, intensity, and individual variability in response.",
+    "primaryKeyword": "walking after meals vs daily walk prediabetes",
+    "topicCluster": "exercise-timing-glucose",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:07.448Z"
+  },
+  {
+    "title": "Can You Safely Switch From Long-Acting Insulin to GLP-1 RAs After Age 74? A Risk-Benefit Framework for Frail Adults With Mild Cognitive Impairment",
+    "description": "Evaluates safety trade-offs—including hypoglycemia avoidance vs. GI intolerance, weight loss concerns in sarcopenic obesity, and caregiver burden—using real-world geriatric pharmacovigilance data.",
+    "primaryKeyword": "insulin to GLP-1 switch in frail elderly",
+    "topicCluster": "medication-transition-frailty",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:09.903Z"
+  },
+  {
+    "title": "What Research Says About Intermittent Fasting Windows Longer Than 14 Hours in Adults With Type 1 Diabetes Over 60 Using Automated Insulin Delivery",
+    "description": "Synthesizes findings from 3 recent observational cohorts on time-in-range degradation, ketosis risk during fasting, and how aging beta-cell reserve (even in T1D) alters counterregulatory response.",
+    "primaryKeyword": "intermittent fasting type 1 diabetes seniors",
+    "topicCluster": "fasting-and-automated-delivery",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:11.558Z"
+  },
+  {
+    "title": "Warning Signs Your 'Stable' Diabetes Is Accelerating Subclinical Retinal Vascular Remodeling—Especially If You’re on Beta-Blockers and Over 71",
+    "description": "Highlights subtle biomarkers—like flicker ERG latency delay, OCTA vessel density drop <5%, and microaneurysm turnover rate—that precede detectable vision loss but correlate with stroke risk.",
+    "primaryKeyword": "subclinical retinal remodeling diabetes beta-blockers",
+    "topicCluster": "early-retinal-damage",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:12.732Z"
+  },
+  {
+    "title": "Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle Without Exercise—Backed by 4 RCTs in Sedentary Adults With Type 2 Diabetes Over 65",
+    "description": "Reviews evidence for targeted nutrients (PQQ, urolithin A, nicotinamide riboside) and low-dose cold exposure protocols that increase PGC-1α expression—even in low-mobility patients.",
+    "primaryKeyword": "mitochondrial biogenesis diabetes no exercise",
+    "topicCluster": "mitochondrial-support-sedentary",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:13.999Z"
+  },
+  {
+    "title": "How Social Dancing Twice Weekly Alters Cardiac Autonomic Tone and Reduces Glycemic Variability in Adults With Diabetes and Mild Orthostatic Hypotension",
+    "description": "Presents mechanistic data linking rhythmic movement, vestibular input, and vagal modulation—showing improved HRV and 23% less glucose swing in a 12-week cohort of adults 67–79.",
+    "primaryKeyword": "social dancing glycemic variability orthostatic hypotension",
+    "topicCluster": "rhythmic-movement-glucose",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:15.222Z"
+  },
+  {
+    "title": "Does Your Blood Glucose Monitor Interact With Common Iron Supplements *Differently* After Age 66? A Safety Guide for Ferritin-Replete Seniors on Metformin",
+    "description": "Clarifies interference risks: how ferric pyrophosphate alters electrochemical readouts in newer CGM sensors vs. fingerstick devices—and why hematocrit decline after 65 amplifies error margins.",
+    "primaryKeyword": "blood glucose monitor iron supplement interference",
+    "topicCluster": "glucose-monitoring-interference",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:18.966Z"
+  },
+  {
+    "title": "Simple Steps to Adjust Your Diabetes Medication Timing for Winter Circadian Shifts—Especially If You Live North of the 45th Parallel and Are Over 69",
+    "description": "Offers a 3-step chronotherapeutic adjustment protocol for insulin, SGLT2is, and GLP-1 RAs—based on melatonin onset delay, reduced daylight vitamin D synthesis, and ambient temperature effects on absorption.",
+    "primaryKeyword": "diabetes medication timing winter circadian shift",
+    "topicCluster": "seasonal-chronotherapy",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:20.166Z"
+  },
+  {
+    "title": "What Are the Earliest Signs of Diabetic Cardiomyopathy in Women Over 65—Before Echocardiogram Changes Appear?",
+    "description": "Details pre-structural biomarkers: heart rate recovery delay >20 sec, abnormal diastolic strain rate on speckle tracking, and serum GDF-15 elevation—tied to mitochondrial dysfunction in cardiomyocytes.",
+    "primaryKeyword": "early diabetic cardiomyopathy signs women",
+    "topicCluster": "pre-structural-cardiac-signs",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:24.935Z"
+  },
+  {
+    "title": "Best Strength-Training Modifications for Adults With Diabetes and Peripheral Neuropathy—Based on Pressure-Mapping and Gait Analysis in 187 Patients Over 60",
+    "description": "Recommends evidence-based adaptations: stance width, footwear pressure redistribution, eccentric loading ratios, and proprioceptive feedback tools shown to reduce ulcer risk while building muscle.",
+    "primaryKeyword": "strength training peripheral neuropathy seniors",
+    "topicCluster": "neuropathy-safe-strength-training",
+    "coreKeyword": "diabetes",
+    "createdAt": "2025-12-27T03:29:26.132Z"
+  }
+]

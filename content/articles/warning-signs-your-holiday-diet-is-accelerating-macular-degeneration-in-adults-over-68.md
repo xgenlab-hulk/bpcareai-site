@@ -1,14 +1,26 @@
 ---
-title: "Warning Signs Your Holiday Diet Is Accelerating Macular Degeneration in Adults Over 68"
-slug: "warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68"
-description: "Highlights dietary triggers (e.g., high-AGE foods, low lutein intake, excessive saturated fat) tied to drusen progression—and includes an at-home visual function checklist."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["macular degeneration dietary warning signs", "healthy holiday eating for seniors", "vision-health-nutrition"]
-primaryKeyword: "macular degeneration dietary warning signs"
-topicCluster: "vision-health-nutrition"
-image: ""
-relatedSlugs: ["5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60"]
+title: >-
+  Warning Signs Your Holiday Diet Is Accelerating Macular Degeneration in Adults
+  Over 68
+slug: >-
+  warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
+description: >-
+  Highlights dietary triggers (e.g., high-AGE foods, low lutein intake,
+  excessive saturated fat) tied to drusen progression—and includes an at-home
+  visual function checklist.
+date: '2025-12-22'
+updated: '2025-12-22'
+tags:
+  - macular degeneration dietary warning signs
+  - healthy holiday eating for seniors
+  - vision-health-nutrition
+primaryKeyword: macular degeneration dietary warning signs
+topicCluster: vision-health-nutrition
+image: ''
+relatedSlugs:
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
 ---
 
 # Macular Degeneration Dietary Warning Signs You Might Notice This Holiday Season

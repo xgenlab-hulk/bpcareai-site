@@ -25,6 +25,8 @@ relatedSlugs:
     quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
   - >-
     quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+  - >-
+    quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74
 ---
 
 # A Gentle 12-Minute Breathing Technique to Lower Systolic BP—Backed by Science and Designed for Adults 55–80

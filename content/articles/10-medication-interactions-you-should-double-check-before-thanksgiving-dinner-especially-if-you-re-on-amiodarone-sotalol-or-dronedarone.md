@@ -1,14 +1,31 @@
 ---
-title: "10 Medication Interactions You Should Double-Check Before Thanksgiving Dinner—Especially If You’re on Amiodarone, Sotalol, or Dronedarone"
-slug: "10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone"
-description: "Lists high-risk food–drug and supplement–drug interactions (e.g., grapefruit + amiodarone, cranberry + sotalol, magnesium glycinate + dronedarone) with practical substitution guidance for holiday meals."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["holiday medication interactions for afib drugs", "holiday heart syndrome prevention", "pharmacovigilance"]
-primaryKeyword: "holiday medication interactions for afib drugs"
-topicCluster: "pharmacovigilance"
-image: ""
-relatedSlugs: ["the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications", "can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome", "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers"]
+title: >-
+  10 Medication Interactions You Should Double-Check Before Thanksgiving
+  Dinner—Especially If You’re on Amiodarone, Sotalol, or Dronedarone
+slug: >-
+  10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
+description: >-
+  Lists high-risk food–drug and supplement–drug interactions (e.g., grapefruit +
+  amiodarone, cranberry + sotalol, magnesium glycinate + dronedarone) with
+  practical substitution guidance for holiday meals.
+date: '2025-12-24'
+updated: '2025-12-24'
+tags:
+  - holiday medication interactions for afib drugs
+  - holiday heart syndrome prevention
+  - pharmacovigilance
+primaryKeyword: holiday medication interactions for afib drugs
+topicCluster: pharmacovigilance
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+  - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
+  - >-
+    7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
 ---
 
 # 10 Holiday Medication Interactions for AFib Drugs You Should Review Before Thanksgiving Dinner
