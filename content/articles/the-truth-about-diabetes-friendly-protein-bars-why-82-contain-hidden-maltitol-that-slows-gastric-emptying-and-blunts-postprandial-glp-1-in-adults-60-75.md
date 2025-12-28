@@ -1,14 +1,30 @@
 ---
-title: "The Truth About 'Diabetes-Friendly' Protein Bars: Why 82% Contain Hidden Maltitol That Slows Gastric Emptying and Blunts Postprandial GLP-1 in Adults 60–75"
-slug: "the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75"
-description: "Investigates ingredient-level metabolic consequences of common sugar alcohols in commercial bars—focusing on delayed satiety signaling, unexpected glycemic variability, and gut-brain axis disruption."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["diabetes-friendly protein bars hidden ingredients", "diabetes", "processed-food-mislabeling"]
-primaryKeyword: "diabetes-friendly protein bars hidden ingredients"
-topicCluster: "processed-food-mislabeling"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging"]
+title: >-
+  The Truth About 'Diabetes-Friendly' Protein Bars: Why 82% Contain Hidden
+  Maltitol That Slows Gastric Emptying and Blunts Postprandial GLP-1 in Adults
+  60–75
+slug: >-
+  the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
+description: >-
+  Investigates ingredient-level metabolic consequences of common sugar alcohols
+  in commercial bars—focusing on delayed satiety signaling, unexpected glycemic
+  variability, and gut-brain axis disruption.
+date: '2025-12-27'
+updated: '2025-12-27'
+tags:
+  - diabetes-friendly protein bars hidden ingredients
+  - diabetes
+  - processed-food-mislabeling
+primaryKeyword: diabetes-friendly protein bars hidden ingredients
+topicCluster: processed-food-mislabeling
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 ---
 
 # What You’re Not Being Told About Diabetes-Friendly Protein Bars Hidden Ingredients

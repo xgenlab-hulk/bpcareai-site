@@ -1,37 +1,5 @@
 [
   {
-    "title": "How Chronic Low-Grade Inflammation From Gum Disease Accelerates Coronary Artery Calcification in Adults 55–69 With Normal LDL—And Why Dentists Are the First Line of Defense",
-    "description": "Explores the under-recognized oral-systemic link between periodontitis and early atherosclerosis progression, focusing on inflammatory biomarkers (hs-CRP, IL-6) and actionable screening protocols for dental and primary care providers.",
-    "primaryKeyword": "gum disease and coronary artery calcification",
-    "topicCluster": "inflammation-oral-systemic-link",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-27T03:31:55.308Z"
-  },
-  {
-    "title": "What Research Says About Intermittent Fasting Windows and Left Ventricular Diastolic Function in Overweight Adults 50–64 With Stage 1 Hypertension",
-    "description": "Analyzes 2022–2024 RCTs and cohort studies on how 14:10 vs. 16:8 fasting windows impact echocardiographic markers of diastolic stiffness, insulin sensitivity, and nocturnal BP dipping.",
-    "primaryKeyword": "intermittent fasting and diastolic function",
-    "topicCluster": "fasting-cardiac-function",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-27T03:31:56.535Z"
-  },
-  {
-    "title": "7 Hidden Medication Interactions That Elevate Heart Failure Readmission Risk Within 30 Days of Hospital Discharge—Especially in Adults 75+ With Polypharmacy",
-    "description": "Identifies high-risk drug combinations (e.g., NSAIDs + loop diuretics + SGLT2 inhibitors) that impair renal perfusion and natriuresis, with practical pharmacist-led review checklists for caregivers.",
-    "primaryKeyword": "medication interactions heart failure readmission",
-    "topicCluster": "polypharmacy-safety",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-27T03:31:57.735Z"
-  },
-  {
-    "title": "Can You Reverse Mild Left Ventricular Hypertrophy With Resistance Training Alone? Evidence From 6 RCTs in Sedentary Men 60–72 With Controlled Hypertension",
-    "description": "Evaluates whether progressive, low-load resistance training (without aerobic conditioning) improves LV mass index, arterial stiffness, and exercise tolerance—comparing outcomes to standard aerobic-only protocols.",
-    "primaryKeyword": "resistance training left ventricular hypertrophy",
-    "topicCluster": "exercise-cardiac-remodeling",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-27T03:31:59.024Z"
-  },
-  {
     "title": "The Truth About 'Heart-Healthy' Plant-Based Burgers: Do They Lower LDL—Or Worsen Endothelial Function in Adults With Prediabetes Over 58?",
     "description": "Breaks down sodium, saturated fat (coconut oil), and ultra-processed binder content in top retail brands, correlating ingredient profiles with postprandial FMD and oxLDL changes in real-world metabolic phenotypes.",
     "primaryKeyword": "plant-based burgers endothelial function prediabetes",
@@ -40,36 +8,12 @@
     "createdAt": "2025-12-27T03:32:00.678Z"
   },
   {
-    "title": "When to Worry About 'Normal' Chest Discomfort While Gardening—A 5-Point Field Assessment for Women 65–80 With Atypical Angina Presentation",
-    "description": "Provides a practical, symptom-contextualized decision tree for distinguishing musculoskeletal strain, GERD, and silent ischemia—emphasizing jaw/neck radiation timing, exertion-recovery mismatch, and HRV trends via consumer wearables.",
-    "primaryKeyword": "atypical angina in women gardening",
-    "topicCluster": "symptom-discrimination-women",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-27T03:32:01.844Z"
-  },
-  {
-    "title": "A vs B: Daily Low-Dose Aspirin Initiation at Age 55 vs. Age 65 for Primary Prevention—What the 2024 USPSTF Reanalysis Says About Net Benefit in Adults With CAC Score <100",
-    "description": "Compares absolute risk reduction in MACE vs. major bleeding across age-stratified CAC subgroups, factoring in sex, diabetes status, and competing mortality—using decision curve analysis visuals.",
-    "primaryKeyword": "aspirin primary prevention cacs score",
-    "topicCluster": "aspirin-risk-benefit-decision",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-27T03:32:03.046Z"
-  },
-  {
     "title": "Natural Ways to Improve Microvascular Coronary Reactivity Without Nitroglycerin—Backed by 5 RCTs in Women 52–68 With INOCA (Ischemia With No Obstructive CAD)",
     "description": "Details evidence-based nonpharmacologic strategies—including timed L-arginine + vitamin C dosing, cold-water facial immersion protocols, and paced breathing frequency optimization—to enhance coronary flow reserve.",
     "primaryKeyword": "microvascular coronary reactivity natural",
     "topicCluster": "microvascular-dysfunction-natural",
     "coreKeyword": "heart disease",
     "createdAt": "2025-12-27T03:32:04.256Z"
-  },
-  {
-    "title": "Simple Steps to Adjust Your Cardiac Rehab Routine for Post-COVID Myocardial Fatigue—Especially If You're Over 70 and Experienced Subclinical Troponin Elevation",
-    "description": "Outlines a 4-phase return-to-exertion framework prioritizing HRV-guided pacing, symptom-limited isometric tolerance, and delayed progression to dynamic workloads—based on 2023 ACC consensus pathways.",
-    "primaryKeyword": "cardiac rehab post-covid myocardial fatigue",
-    "topicCluster": "post-covid-cardiac-rehab",
-    "coreKeyword": "heart disease",
-    "createdAt": "2025-12-27T03:32:05.457Z"
   },
   {
     "title": "How Frequent Nighttime Awakenings for Urination (Nocturia) Predicts 3-Year Risk of New-Onset Atrial Fibrillation in Men Over 68 With Hypertension",

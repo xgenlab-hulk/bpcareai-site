@@ -1,14 +1,32 @@
 ---
-title: "A vs B: Bright-Light Therapy at 7 a.m. vs 5 p.m. for Older Adults With Advanced Sleep Phase Syndrome"
-slug: "a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome"
-description: "Compares timing efficacy, melatonin suppression data, and adherence rates in early-morning sleepers over 65—highlighting how chronotype modifies SAD treatment response."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["morning vs evening light therapy for ASPS", "seasonal depression in older adults", "chronotype-specific-light-timing"]
-primaryKeyword: "morning vs evening light therapy for ASPS"
-topicCluster: "chronotype-specific-light-timing"
-image: ""
-relatedSlugs: ["simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension", "top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors", "how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood", "what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter"]
+title: >-
+  A vs B: Bright-Light Therapy at 7 a.m. vs 5 p.m. for Older Adults With
+  Advanced Sleep Phase Syndrome
+slug: >-
+  a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
+description: >-
+  Compares timing efficacy, melatonin suppression data, and adherence rates in
+  early-morning sleepers over 65—highlighting how chronotype modifies SAD
+  treatment response.
+date: '2025-12-26'
+updated: '2025-12-26'
+tags:
+  - morning vs evening light therapy for ASPS
+  - seasonal depression in older adults
+  - chronotype-specific-light-timing
+primaryKeyword: morning vs evening light therapy for ASPS
+topicCluster: chronotype-specific-light-timing
+image: ''
+relatedSlugs:
+  - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+  - top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
+  - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
+  - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
+  - >-
+    5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
 ---
 
 # Bright-Light Therapy Timing for Older Adults: Morning vs Evening Light Therapy for ASPS
