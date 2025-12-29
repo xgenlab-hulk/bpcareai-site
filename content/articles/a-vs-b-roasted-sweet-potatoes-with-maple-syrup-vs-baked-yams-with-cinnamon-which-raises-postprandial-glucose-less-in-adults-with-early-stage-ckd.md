@@ -1,14 +1,32 @@
 ---
-title: "A vs B: Roasted Sweet Potatoes With Maple Syrup vs. Baked Yams With Cinnamon—Which Raises Postprandial Glucose Less in Adults With Early-Stage CKD?"
-slug: "a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd"
-description: "Side-by-side glycemic, potassium, and oxalate comparison using 2024 meal-response data from the NKF-Nutrition Task Force, including renal dietitian-recommended portion ceilings."
-date: "2025-12-28"
-updated: "2025-12-28"
-tags: ["sweet potato vs yam ckddiet", "healthy eating during family gatherings", "food-comparison-renal-metabolic"]
-primaryKeyword: "sweet potato vs yam ckddiet"
-topicCluster: "food-comparison-renal-metabolic"
-image: ""
-relatedSlugs: ["a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide", "a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease"]
+title: >-
+  A vs B: Roasted Sweet Potatoes With Maple Syrup vs. Baked Yams With
+  Cinnamon—Which Raises Postprandial Glucose Less in Adults With Early-Stage
+  CKD?
+slug: >-
+  a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
+description: >-
+  Side-by-side glycemic, potassium, and oxalate comparison using 2024
+  meal-response data from the NKF-Nutrition Task Force, including renal
+  dietitian-recommended portion ceilings.
+date: '2025-12-28'
+updated: '2025-12-28'
+tags:
+  - sweet potato vs yam ckddiet
+  - healthy eating during family gatherings
+  - food-comparison-renal-metabolic
+primaryKeyword: sweet potato vs yam ckddiet
+topicCluster: food-comparison-renal-metabolic
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - >-
+    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
+  - >-
+    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
+  - >-
+    5-natural-potassium-rich-foods-that-don-t-interact-with-spironolactone-safe-for-adults-60-82-with-resistant-hypertension
 ---
 
 # Sweet Potato vs Yam CKDDiet: Which Is Gentler on Blood Sugar and Kidneys for Adults With Early-Stage CKD?

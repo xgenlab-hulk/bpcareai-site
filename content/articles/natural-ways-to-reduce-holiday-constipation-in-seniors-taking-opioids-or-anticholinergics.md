@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Reduce Holiday Constipation in Seniors Taking Opioids or Anticholinergics"
-slug: "natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics"
-description: "Details evidence-based, non-laxative strategies—including timed prune-pear juice dosing, abdominal massage sequences, and magnesium L-threonate supplementation—backed by geriatric GI studies."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["natural constipation relief seniors opioids", "healthy holiday eating for seniors", "gastrointestinal-motility-support"]
-primaryKeyword: "natural constipation relief seniors opioids"
-topicCluster: "gastrointestinal-motility-support"
-image: ""
-relatedSlugs: ["how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors", "4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts", "10-high-fiber-holiday-foods-that-support-digestion-after-50"]
+title: >-
+  Natural Ways to Reduce Holiday Constipation in Seniors Taking Opioids or
+  Anticholinergics
+slug: >-
+  natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
+description: >-
+  Details evidence-based, non-laxative strategies—including timed prune-pear
+  juice dosing, abdominal massage sequences, and magnesium L-threonate
+  supplementation—backed by geriatric GI studies.
+date: '2025-12-26'
+updated: '2025-12-26'
+tags:
+  - natural constipation relief seniors opioids
+  - healthy holiday eating for seniors
+  - gastrointestinal-motility-support
+primaryKeyword: natural constipation relief seniors opioids
+topicCluster: gastrointestinal-motility-support
+image: ''
+relatedSlugs:
+  - >-
+    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
+  - >-
+    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - >-
+    what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
 ---
 
 # Gentle, Evidence-Based Natural Constipation Relief for Seniors on Opioids This Holiday Season
