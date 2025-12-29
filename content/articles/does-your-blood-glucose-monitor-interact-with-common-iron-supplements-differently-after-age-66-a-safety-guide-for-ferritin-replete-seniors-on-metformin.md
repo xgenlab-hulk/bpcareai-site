@@ -1,14 +1,33 @@
 ---
-title: "Does Your Blood Glucose Monitor Interact With Common Iron Supplements *Differently* After Age 66? A Safety Guide for Ferritin-Replete Seniors on Metformin"
-slug: "does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin"
-description: "Clarifies interference risks: how ferric pyrophosphate alters electrochemical readouts in newer CGM sensors vs. fingerstick devices—and why hematocrit decline after 65 amplifies error margins."
-date: "2025-12-28"
-updated: "2025-12-28"
-tags: ["blood glucose monitor iron supplement interference", "diabetes", "glucose-monitoring-interference"]
-primaryKeyword: "blood glucose monitor iron supplement interference"
-topicCluster: "glucose-monitoring-interference"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you"]
+title: >-
+  Does Your Blood Glucose Monitor Interact With Common Iron Supplements
+  *Differently* After Age 66? A Safety Guide for Ferritin-Replete Seniors on
+  Metformin
+slug: >-
+  does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
+description: >-
+  Clarifies interference risks: how ferric pyrophosphate alters electrochemical
+  readouts in newer CGM sensors vs. fingerstick devices—and why hematocrit
+  decline after 65 amplifies error margins.
+date: '2025-12-28'
+updated: '2025-12-28'
+tags:
+  - blood glucose monitor iron supplement interference
+  - diabetes
+  - glucose-monitoring-interference
+primaryKeyword: blood glucose monitor iron supplement interference
+topicCluster: glucose-monitoring-interference
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+  - >-
+    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
 ---
 
 # Understanding Blood Glucose Monitor Iron Supplement Interference in Older Adults: A Practical Guide for Seniors on Metformin

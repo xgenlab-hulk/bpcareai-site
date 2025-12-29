@@ -22,6 +22,11 @@ relatedSlugs:
     natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
   - >-
     a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk
 ---
 
 # Foods for Atrial Myocyte Resilience in Elderly Adults—Beyond Rhythm, Toward Cellular Strength

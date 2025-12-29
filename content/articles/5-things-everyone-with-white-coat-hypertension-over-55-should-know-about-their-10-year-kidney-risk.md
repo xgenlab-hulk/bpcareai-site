@@ -1,14 +1,30 @@
 ---
-title: "5 Things Everyone With White-Coat Hypertension Over 55 Should Know About Their 10-Year Kidney Risk"
-slug: "5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk"
-description: "Presents data linking masked nocturnal hypertension, albuminuria progression, and glomerular hyperfiltration—even in absence of daytime elevation—and why renal monitoring should begin *immediately* post-diagnosis."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["white coat hypertension kidney risk over 55", "blood pressure", "renal-vascular-risk"]
-primaryKeyword: "white coat hypertension kidney risk over 55"
-topicCluster: "renal-vascular-risk"
-image: ""
-relatedSlugs: ["why-blood-pressure-matters-even-if-you-feel-fine"]
+title: >-
+  5 Things Everyone With White-Coat Hypertension Over 55 Should Know About Their
+  10-Year Kidney Risk
+slug: >-
+  5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
+description: >-
+  Presents data linking masked nocturnal hypertension, albuminuria progression,
+  and glomerular hyperfiltration—even in absence of daytime elevation—and why
+  renal monitoring should begin *immediately* post-diagnosis.
+date: '2025-12-25'
+updated: '2025-12-25'
+tags:
+  - white coat hypertension kidney risk over 55
+  - blood pressure
+  - renal-vascular-risk
+primaryKeyword: white coat hypertension kidney risk over 55
+topicCluster: renal-vascular-risk
+image: ''
+relatedSlugs:
+  - why-blood-pressure-matters-even-if-you-feel-fine
+  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
+  - >-
+    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
 ---
 
 # What Everyone Over 55 With White Coat Hypertension Should Know About Their 10-Year Kidney Risk

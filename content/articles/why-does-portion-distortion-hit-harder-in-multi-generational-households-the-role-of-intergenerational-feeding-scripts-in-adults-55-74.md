@@ -1,14 +1,31 @@
 ---
-title: "Why Does Portion Distortion Hit Harder in Multi-Generational Households? The Role of Intergenerational Feeding Scripts in Adults 55–74"
-slug: "why-does-portion-distortion-hit-harder-in-multi-generational-households-the-role-of-intergenerational-feeding-scripts-in-adults-55-74"
-description: "A behavioral nutrition analysis of how cultural ‘feeding narratives’ (e.g., ‘clean your plate’, ‘eat while it’s hot’, ‘you need strength’) override satiety signaling—and how to gently reframe them without guilt or conflict."
-date: "2025-12-23"
-updated: "2025-12-23"
-tags: ["portion distortion intergenerational feeding scripts", "healthy eating during family gatherings", "behavioral-nutrition-psychology"]
-primaryKeyword: "portion distortion intergenerational feeding scripts"
-topicCluster: "behavioral-nutrition-psychology"
-image: ""
-relatedSlugs: ["how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65", "portion-control-strategies-for-large-family-meals-that-work"]
+title: >-
+  Why Does Portion Distortion Hit Harder in Multi-Generational Households? The
+  Role of Intergenerational Feeding Scripts in Adults 55–74
+slug: >-
+  why-does-portion-distortion-hit-harder-in-multi-generational-households-the-role-of-intergenerational-feeding-scripts-in-adults-55-74
+description: >-
+  A behavioral nutrition analysis of how cultural ‘feeding narratives’ (e.g.,
+  ‘clean your plate’, ‘eat while it’s hot’, ‘you need strength’) override
+  satiety signaling—and how to gently reframe them without guilt or conflict.
+date: '2025-12-23'
+updated: '2025-12-23'
+tags:
+  - portion distortion intergenerational feeding scripts
+  - healthy eating during family gatherings
+  - behavioral-nutrition-psychology
+primaryKeyword: portion distortion intergenerational feeding scripts
+topicCluster: behavioral-nutrition-psychology
+image: ''
+relatedSlugs:
+  - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
+  - portion-control-strategies-for-large-family-meals-that-work
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
 ---
 
 # Why Portion Distortion Intergenerational Feeding Scripts Make Family Meals Trickier After 55

@@ -1,14 +1,33 @@
 ---
-title: "When to Worry About Unexplained Muscle Cramps at Night in Women Over 68 With Diabetes and Diuretic Use"
-slug: "when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use"
-description: "Details a clinically underrecognized red-flag triad—nocturnal cramps + thiazide use + subclinical hypomagnesemia—and how it precedes silent neuropathic progression and falls risk."
-date: "2025-12-28"
-updated: "2025-12-28"
-tags: ["night muscle cramps diabetes diuretics", "diabetes", "neuromuscular-red-flags"]
-primaryKeyword: "night muscle cramps diabetes diuretics"
-topicCluster: "neuromuscular-red-flags"
-image: ""
-relatedSlugs: ["5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications"]
+title: >-
+  When to Worry About Unexplained Muscle Cramps at Night in Women Over 68 With
+  Diabetes and Diuretic Use
+slug: >-
+  when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
+description: >-
+  Details a clinically underrecognized red-flag triad—nocturnal cramps +
+  thiazide use + subclinical hypomagnesemia—and how it precedes silent
+  neuropathic progression and falls risk.
+date: '2025-12-28'
+updated: '2025-12-28'
+tags:
+  - night muscle cramps diabetes diuretics
+  - diabetes
+  - neuromuscular-red-flags
+primaryKeyword: night muscle cramps diabetes diuretics
+topicCluster: neuromuscular-red-flags
+image: ''
+relatedSlugs:
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
+  - >-
+    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
+  - >-
+    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
 ---
 
 # When Night Muscle Cramps Diabetes Diuretics Signal Something Deeper in Women Over 68

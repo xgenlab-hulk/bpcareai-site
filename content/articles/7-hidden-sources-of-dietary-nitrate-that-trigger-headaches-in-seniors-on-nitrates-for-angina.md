@@ -1,14 +1,31 @@
 ---
-title: "7 Hidden Sources of Dietary Nitrate That Trigger Headaches in Seniors on Nitrates for Angina"
-slug: "7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina"
-description: "Lists nitrate-rich holiday foods (e.g., cured meats, spinach stuffing, beetroot relish) that dangerously potentiate prescription nitrates—and offers safe, vasodilatory alternatives."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["dietary nitrate angina medication interaction", "healthy holiday eating for seniors", "pharmacodynamic-food-interaction"]
-primaryKeyword: "dietary nitrate angina medication interaction"
-topicCluster: "pharmacodynamic-food-interaction"
-image: ""
-relatedSlugs: ["10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone", "natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60"]
+title: >-
+  7 Hidden Sources of Dietary Nitrate That Trigger Headaches in Seniors on
+  Nitrates for Angina
+slug: >-
+  7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
+description: >-
+  Lists nitrate-rich holiday foods (e.g., cured meats, spinach stuffing,
+  beetroot relish) that dangerously potentiate prescription nitrates—and offers
+  safe, vasodilatory alternatives.
+date: '2025-12-27'
+updated: '2025-12-27'
+tags:
+  - dietary nitrate angina medication interaction
+  - healthy holiday eating for seniors
+  - pharmacodynamic-food-interaction
+primaryKeyword: dietary nitrate angina medication interaction
+topicCluster: pharmacodynamic-food-interaction
+image: ''
+relatedSlugs:
+  - >-
+    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
+  - >-
+    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Hidden Dietary Nitrate Sources That Can Interact with Angina Medications—What Seniors Need to Know This Holiday Season

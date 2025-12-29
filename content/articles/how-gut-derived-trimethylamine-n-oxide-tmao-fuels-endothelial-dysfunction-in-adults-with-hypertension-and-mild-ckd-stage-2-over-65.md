@@ -1,14 +1,33 @@
 ---
-title: "How Gut-Derived Trimethylamine N-Oxide (TMAO) Fuels Endothelial Dysfunction in Adults With Hypertension and Mild CKD Stage 2 Over 65"
-slug: "how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65"
-description: "Details the microbial-metabolite–driven pathway from dietary choline/carnitine → TMA → hepatic TMAO → reduced eNOS activity → arterial stiffness—and why standard low-salt diets don’t address this axis."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["tmao endothelial dysfunction hypertension ck2", "blood pressure", "gut-vascular-axis"]
-primaryKeyword: "tmao endothelial dysfunction hypertension ck2"
-topicCluster: "gut-vascular-axis"
-image: ""
-relatedSlugs: ["how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals"]
+title: >-
+  How Gut-Derived Trimethylamine N-Oxide (TMAO) Fuels Endothelial Dysfunction in
+  Adults With Hypertension and Mild CKD Stage 2 Over 65
+slug: >-
+  how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
+description: >-
+  Details the microbial-metabolite–driven pathway from dietary choline/carnitine
+  → TMA → hepatic TMAO → reduced eNOS activity → arterial stiffness—and why
+  standard low-salt diets don’t address this axis.
+date: '2025-12-25'
+updated: '2025-12-25'
+tags:
+  - tmao endothelial dysfunction hypertension ck2
+  - blood pressure
+  - gut-vascular-axis
+primaryKeyword: tmao endothelial dysfunction hypertension ck2
+topicCluster: gut-vascular-axis
+image: ''
+relatedSlugs:
+  - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
+  - >-
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+  - >-
+    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
+  - >-
+    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
 ---
 
 # How Gut-Derived TMAO Worsens Blood Vessel Health in Older Adults With Hypertension and Mild CKD Stage 2  

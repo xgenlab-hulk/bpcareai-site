@@ -1,14 +1,31 @@
 ---
-title: "12 Evidence-Based Ways to Maintain Social Rhythm During Holiday Isolation—Especially for Retired, Widowed Adults Living Alone"
-slug: "12-evidence-based-ways-to-maintain-social-rhythm-during-holiday-isolation-especially-for-retired-widowed-adults-living-alone"
-description: "Practical, low-tech strategies grounded in social rhythm therapy (SRT), including structured micro-interactions, ritual anchoring, and community-based time cues tailored for solo-living seniors."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["social rhythm therapy for isolated older adults", "seasonal depression in older adults", "social-rhythm-interventions-solo-living"]
-primaryKeyword: "social rhythm therapy for isolated older adults"
-topicCluster: "social-rhythm-interventions-solo-living"
-image: ""
-relatedSlugs: ["the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees", "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone"]
+title: >-
+  12 Evidence-Based Ways to Maintain Social Rhythm During Holiday
+  Isolation—Especially for Retired, Widowed Adults Living Alone
+slug: >-
+  12-evidence-based-ways-to-maintain-social-rhythm-during-holiday-isolation-especially-for-retired-widowed-adults-living-alone
+description: >-
+  Practical, low-tech strategies grounded in social rhythm therapy (SRT),
+  including structured micro-interactions, ritual anchoring, and community-based
+  time cues tailored for solo-living seniors.
+date: '2025-12-24'
+updated: '2025-12-24'
+tags:
+  - social rhythm therapy for isolated older adults
+  - seasonal depression in older adults
+  - social-rhythm-interventions-solo-living
+primaryKeyword: social rhythm therapy for isolated older adults
+topicCluster: social-rhythm-interventions-solo-living
+image: ''
+relatedSlugs:
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+  - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - >-
+    quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
+  - how-group-activities-in-senior-centers-prevent-seasonal-depression
+  - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
 ---
 
 # 12 Evidence-Based Strategies to Support Social Rhythm Therapy for Isolated Older Adults During the Holidays
