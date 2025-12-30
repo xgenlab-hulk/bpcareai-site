@@ -1,21 +1,5 @@
 [
   {
-    "title": "Why Your Blood Pressure Readings Drop During Telehealth Visits—And What That Means for Treatment Decisions in Adults 70+",
-    "description": "Analyzes ‘white-coat normalization’ vs. ‘telehealth hypotension bias’ using paired in-office vs. validated home BP devices, with implications for antihypertensive titration in frail seniors.",
-    "primaryKeyword": "telehealth blood pressure drop seniors",
-    "topicCluster": "monitoring-bias",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-29T03:55:04.829Z"
-  },
-  {
-    "title": "A vs B: Cold-Pressed Beetroot Juice vs. Fermented Beet Kvass—Which Lowers Central Aortic Systolic Pressure More in Men 58–67 With Arterial Stiffness?",
-    "description": "Compares nitrate bioavailability, microbial metabolism, and pulse wave velocity (PWV) outcomes from two beet-based interventions in a 2024 crossover RCT.",
-    "primaryKeyword": "beetroot juice vs fermented beet kvass",
-    "topicCluster": "nitrate-therapy-comparison",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-29T03:55:06.131Z"
-  },
-  {
     "title": "7 Silent Signs Your Blood Pressure Is Too *Low* After Starting SGLT2 Inhibitors—Especially If You’re on Dialysis or Have Orthostatic Tremor",
     "description": "Identifies under-recognized hypotensive symptoms (e.g., postprandial cognitive fog, paradoxical fatigue after walking) in adults with CKD stages 4–5 initiating empagliflozin or dapagliflozin.",
     "primaryKeyword": "low blood pressure on SGLT2 inhibitors",
@@ -24,28 +8,12 @@
     "createdAt": "2025-12-29T03:55:07.516Z"
   },
   {
-    "title": "How Indoor Humidity Below 30% Elevates Morning Systolic BP by 12–18 mmHg in Adults With Vasomotor Rhinitis Over 62",
-    "description": "Links winter dry-air–induced sympathetic activation, nasal resistance, and impaired baroreflex sensitivity to early-AM hypertension surges—validated by controlled climate-chamber trials.",
-    "primaryKeyword": "low humidity and morning high blood pressure",
-    "topicCluster": "seasonal-environmental-triggers",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-29T03:55:08.804Z"
-  },
-  {
     "title": "What Are the Earliest Retinal Microvascular Changes That Predict Hypertensive End-Organ Damage—Before BP Crosses 130/80?",
     "description": "Details AI-assisted OCT angiography findings (e.g., foveal avascular zone enlargement, perivenular leakage) as pre-hypertensive biomarkers in normotensive adults 55–69 with strong family history.",
     "primaryKeyword": "retinal changes before hypertension diagnosis",
     "topicCluster": "early-biomarkers-ophthalmic",
     "coreKeyword": "blood pressure",
     "createdAt": "2025-12-29T03:55:10.054Z"
-  },
-  {
-    "title": "Quick Ways to Normalize Diastolic BP Within 48 Hours Using Breathing Biofeedback—Validated in 2 RCTs for Adults With Isolated Diastolic Hypertension",
-    "description": "Presents a step-by-step, device-agnostic protocol using paced breathing (5.5 breaths/min) with real-time HRV feedback to restore vagal tone and reduce DBP in under-65 adults.",
-    "primaryKeyword": "lower diastolic blood pressure in 48 hours",
-    "topicCluster": "respiratory-biofeedback",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-29T03:55:11.359Z"
   },
   {
     "title": "Can You Reverse Arterial Stiffness With Just 12 Weeks of Barefoot Walking on Grass or Sand? Evidence From a Pilot Trial in Sedentary Women 63–71",
@@ -72,43 +40,11 @@
     "createdAt": "2025-12-29T03:55:15.537Z"
   },
   {
-    "title": "How Social Isolation Alters Baroreflex Sensitivity and Elevates 24-Hour SBP by 7–11 mmHg in Men Living Alone Over 75",
-    "description": "Reviews longitudinal data linking loneliness, reduced vagal modulation, and elevated central sympathetic outflow—especially in widowed, non-digital-native males with hearing loss.",
-    "primaryKeyword": "social isolation and blood pressure elderly men",
-    "topicCluster": "psychosocial-autonomic-link",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-29T03:55:16.831Z"
-  },
-  {
-    "title": "Does Your Smartwatch *Actually* Detect Hypertensive Crisis? Accuracy Benchmarks for ECG + PPG Devices in Adults With Atrial Fibrillation and Hypertension",
-    "description": "Evaluates FDA-cleared wearables (Apple Watch, Withings, Omron) for detecting >180/110 episodes using paired clinical validation data and AFib interference thresholds.",
-    "primaryKeyword": "smartwatch accuracy hypertensive crisis",
-    "topicCluster": "digital-monitoring-validation",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-29T03:55:20.785Z"
-  },
-  {
-    "title": "How Late-Morning Sunlight Exposure (10–11 AM) Lowers Midday Systolic BP in Adults With Seasonal Affective Disorder and Mild Hypertension",
-    "description": "Explores melanopsin-mediated NO release, cortisol rhythm stabilization, and reduced sympathetic tone—based on randomized UV-filtered vs. full-spectrum light exposure trials.",
-    "primaryKeyword": "morning sunlight and midday blood pressure",
-    "topicCluster": "chronobiological-light-therapy",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-29T03:55:23.432Z"
-  },
-  {
     "title": "What Research Says About High-Intensity Interval Training (HIIT) vs. Continuous Moderate Exercise for Pulse Pressure Widening in Adults 52–66 With Prehypertension",
     "description": "Synthesizes 2023–2024 meta-analyses on central aortic stiffness, endothelial function, and pulse pressure response to HIIT (4x4 min at 85% HRmax) vs. 45-min brisk walking.",
     "primaryKeyword": "HIIT vs walking pulse pressure prehypertension",
     "topicCluster": "exercise-hemodynamics",
     "coreKeyword": "blood pressure",
     "createdAt": "2025-12-29T03:55:24.667Z"
-  },
-  {
-    "title": "Warning Signs Your Blood Pressure Monitor Is Giving False-Low Readings—Especially If You Have Large-Arm Circumference or Atrial Fibrillation",
-    "description": "Details calibration drift, cuff size errors, arrhythmia misreading, and oscillometric algorithm limitations—plus 3 quick validation checks users can perform at home.",
-    "primaryKeyword": "false low blood pressure readings",
-    "topicCluster": "device-accuracy-troubleshooting",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2025-12-29T03:55:25.976Z"
   }
 ]

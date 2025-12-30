@@ -1,14 +1,33 @@
 ---
-title: "10 Warning Signs Your 'Controlled' Hypertension Is Actually Causing Silent Cerebral Small Vessel Disease—Especially If You’re a Woman Over 63"
-slug: "10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63"
-description: "Links subtle clinical markers (e.g., gait variability, phonemic fluency decline, retinal arteriolar narrowing on fundoscopy) to MRI-confirmed white matter hyperintensities and vascular cognitive impairment risk."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["silent cerebral small vessel disease hypertension", "blood pressure", "neurovascular-early-detection"]
-primaryKeyword: "silent cerebral small vessel disease hypertension"
-topicCluster: "neurovascular-early-detection"
-image: ""
-relatedSlugs: ["what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75", "why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70", "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62", "what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75"]
+title: >-
+  10 Warning Signs Your 'Controlled' Hypertension Is Actually Causing Silent
+  Cerebral Small Vessel Disease—Especially If You’re a Woman Over 63
+slug: >-
+  10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
+description: >-
+  Links subtle clinical markers (e.g., gait variability, phonemic fluency
+  decline, retinal arteriolar narrowing on fundoscopy) to MRI-confirmed white
+  matter hyperintensities and vascular cognitive impairment risk.
+date: '2025-12-25'
+updated: '2025-12-25'
+tags:
+  - silent cerebral small vessel disease hypertension
+  - blood pressure
+  - neurovascular-early-detection
+primaryKeyword: silent cerebral small vessel disease hypertension
+topicCluster: neurovascular-early-detection
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
+  - >-
+    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
+  - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+  - >-
+    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
 ---
 
 # Silent Cerebral Small Vessel Disease Hypertension: What ‘Well-Controlled’ Blood Pressure Might Not Be Telling You  

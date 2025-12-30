@@ -18,6 +18,8 @@ relatedSlugs:
   - can-hearing-loss-be-an-early-sign-of-heart-disease
   - how-frequent-urination-at-night-could-signal-heart-problems
   - the-link-between-hearing-loss-and-heart-disease-after-60
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
 ---
 
 # How Vision Changes Might Signal Heart Disease: Understanding the Connection

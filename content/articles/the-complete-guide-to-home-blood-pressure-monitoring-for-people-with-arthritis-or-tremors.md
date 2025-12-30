@@ -23,6 +23,8 @@ relatedSlugs:
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter
   - >-
     a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
 ---
 
 # Home Blood Pressure Monitoring for Arthritis and Tremors: A Gentle, Practical Guide

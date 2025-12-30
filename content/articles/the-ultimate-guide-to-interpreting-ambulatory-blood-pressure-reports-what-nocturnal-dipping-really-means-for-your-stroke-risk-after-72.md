@@ -1,14 +1,33 @@
 ---
-title: "The Ultimate Guide to Interpreting Ambulatory Blood Pressure Reports—What 'Nocturnal Dipping' Really Means for Your Stroke Risk After 72"
-slug: "the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72"
-description: "Decodes ABPM metrics beyond 'dipper/non-dipper': reverse dipping slope, morning surge magnitude, 24-h systolic standard deviation, and how each independently predicts lacunar stroke in octogenarians."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["ambulatory blood pressure report interpretation stroke risk", "blood pressure", "abpm-clinical-translation"]
-primaryKeyword: "ambulatory blood pressure report interpretation stroke risk"
-topicCluster: "abpm-clinical-translation"
-image: ""
-relatedSlugs: ["why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70", "how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60", "what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75", "warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71"]
+title: >-
+  The Ultimate Guide to Interpreting Ambulatory Blood Pressure Reports—What
+  'Nocturnal Dipping' Really Means for Your Stroke Risk After 72
+slug: >-
+  the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
+description: >-
+  Decodes ABPM metrics beyond 'dipper/non-dipper': reverse dipping slope,
+  morning surge magnitude, 24-h systolic standard deviation, and how each
+  independently predicts lacunar stroke in octogenarians.
+date: '2025-12-26'
+updated: '2025-12-26'
+tags:
+  - ambulatory blood pressure report interpretation stroke risk
+  - blood pressure
+  - abpm-clinical-translation
+primaryKeyword: ambulatory blood pressure report interpretation stroke risk
+topicCluster: abpm-clinical-translation
+image: ''
+relatedSlugs:
+  - >-
+    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
+  - >-
+    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
+  - >-
+    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
 ---
 
 # Understanding Your Ambulatory Blood Pressure Report Interpretation Stroke Risk—What It Reveals After Age 72
