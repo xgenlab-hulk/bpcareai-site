@@ -1,29 +1,5 @@
 [
   {
-    "title": "A vs B: Walking 10 Minutes After Each Meal vs. One 30-Minute Session Daily for Postprandial Glucose Control in Adults 55–69 With Prediabetes",
-    "description": "Compares real-world glycemic impact using continuous glucose monitoring (CGM) data from a 2024 pragmatic trial—highlighting timing, intensity, and individual variability in response.",
-    "primaryKeyword": "walking after meals vs daily walk prediabetes",
-    "topicCluster": "exercise-timing-glucose",
-    "coreKeyword": "diabetes",
-    "createdAt": "2025-12-27T03:29:07.448Z"
-  },
-  {
-    "title": "Can You Safely Switch From Long-Acting Insulin to GLP-1 RAs After Age 74? A Risk-Benefit Framework for Frail Adults With Mild Cognitive Impairment",
-    "description": "Evaluates safety trade-offs—including hypoglycemia avoidance vs. GI intolerance, weight loss concerns in sarcopenic obesity, and caregiver burden—using real-world geriatric pharmacovigilance data.",
-    "primaryKeyword": "insulin to GLP-1 switch in frail elderly",
-    "topicCluster": "medication-transition-frailty",
-    "coreKeyword": "diabetes",
-    "createdAt": "2025-12-27T03:29:09.903Z"
-  },
-  {
-    "title": "What Are the Earliest Signs of Diabetic Cardiomyopathy in Women Over 65—Before Echocardiogram Changes Appear?",
-    "description": "Details pre-structural biomarkers: heart rate recovery delay >20 sec, abnormal diastolic strain rate on speckle tracking, and serum GDF-15 elevation—tied to mitochondrial dysfunction in cardiomyocytes.",
-    "primaryKeyword": "early diabetic cardiomyopathy signs women",
-    "topicCluster": "pre-structural-cardiac-signs",
-    "coreKeyword": "diabetes",
-    "createdAt": "2025-12-27T03:29:24.935Z"
-  },
-  {
     "title": "Best Strength-Training Modifications for Adults With Diabetes and Peripheral Neuropathy—Based on Pressure-Mapping and Gait Analysis in 187 Patients Over 60",
     "description": "Recommends evidence-based adaptations: stance width, footwear pressure redistribution, eccentric loading ratios, and proprioceptive feedback tools shown to reduce ulcer risk while building muscle.",
     "primaryKeyword": "strength training peripheral neuropathy seniors",

@@ -1,14 +1,31 @@
 ---
-title: "What Research Says About Ultra-Processed Side Dishes and Endothelial Function Decline in Adults 55–70 With Prediabetes"
-slug: "what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes"
-description: "A breakdown of recent clinical studies linking common holiday sides (stuffing, canned cranberry, creamy casseroles) to acute postprandial endothelial impairment—and how whole-food swaps restore flow-mediated dilation."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["ultra-processed foods endothelial function prediabetes", "healthy eating during family gatherings", "cardiovascular-physiology-research"]
-primaryKeyword: "ultra-processed foods endothelial function prediabetes"
-topicCluster: "cardiovascular-physiology-research"
-image: ""
-relatedSlugs: ["7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control", "how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55", "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80"]
+title: >-
+  What Research Says About Ultra-Processed Side Dishes and Endothelial Function
+  Decline in Adults 55–70 With Prediabetes
+slug: >-
+  what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
+description: >-
+  A breakdown of recent clinical studies linking common holiday sides (stuffing,
+  canned cranberry, creamy casseroles) to acute postprandial endothelial
+  impairment—and how whole-food swaps restore flow-mediated dilation.
+date: '2025-12-26'
+updated: '2025-12-26'
+tags:
+  - ultra-processed foods endothelial function prediabetes
+  - healthy eating during family gatherings
+  - cardiovascular-physiology-research
+primaryKeyword: ultra-processed foods endothelial function prediabetes
+topicCluster: cardiovascular-physiology-research
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
 ---
 
 # What Science Tells Us About Ultra-Processed Foods, Endothelial Function, and Prediabetes in Adults 55–70

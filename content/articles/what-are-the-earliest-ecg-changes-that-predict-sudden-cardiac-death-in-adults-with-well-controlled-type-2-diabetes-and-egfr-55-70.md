@@ -1,14 +1,25 @@
 ---
-title: "What Are the Earliest ECG Changes That Predict Sudden Cardiac Death in Adults With Well-Controlled Type 2 Diabetes and eGFR 55–70?"
-slug: "what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70"
-description: "Analyzes subtle QTc dispersion, T-wave alternans, and microvolt-level late potentials in routine 12-lead ECGs—prior to structural changes or symptoms—in high-risk predialysis diabetic cohorts."
-date: "2025-12-30"
-updated: "2025-12-30"
-tags: ["ecg changes sudden cardiac death diabetes", "heart health", "monitoring-testing-electrophysiology"]
-primaryKeyword: "ecg changes sudden cardiac death diabetes"
-topicCluster: "monitoring-testing-electrophysiology"
-image: ""
-relatedSlugs: []
+title: >-
+  What Are the Earliest ECG Changes That Predict Sudden Cardiac Death in Adults
+  With Well-Controlled Type 2 Diabetes and eGFR 55–70?
+slug: >-
+  what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
+description: >-
+  Analyzes subtle QTc dispersion, T-wave alternans, and microvolt-level late
+  potentials in routine 12-lead ECGs—prior to structural changes or symptoms—in
+  high-risk predialysis diabetic cohorts.
+date: '2025-12-30'
+updated: '2025-12-30'
+tags:
+  - ecg changes sudden cardiac death diabetes
+  - heart health
+  - monitoring-testing-electrophysiology
+primaryKeyword: ecg changes sudden cardiac death diabetes
+topicCluster: monitoring-testing-electrophysiology
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
 ---
 
 # Early ECG Changes That Signal Sudden Cardiac Death Risk in Adults With Well-Controlled Type 2 Diabetes and Mild Kidney Impairment
