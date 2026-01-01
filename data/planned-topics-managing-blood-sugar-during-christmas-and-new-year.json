@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "title": "12 Blood Sugar-Safe Swaps for Classic Christmas Cookies—Tested With Continuous Glucose Monitoring in Adults 55–72",
+    "description": "A practical, evidence-informed guide to modifying holiday cookie recipes using low-glycemic flours, fiber-rich add-ins, and smart sweeteners—without sacrificing texture or tradition.",
+    "primaryKeyword": "christmas cookies blood sugar swaps",
+    "topicCluster": "diet-nutrition-recipe-modification",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:57:51.232Z"
+  },
+  {
+    "title": "7 Hidden Sources of Added Sugar in 'Healthy' Holiday Side Dishes—From Roasted Carrots to Cranberry Relish",
+    "description": "Identifies surprising sugar culprits in seemingly wholesome holiday staples, with glycemic load comparisons and low-sugar preparation alternatives for adults 60+.",
+    "primaryKeyword": "hidden sugar holiday side dishes",
+    "topicCluster": "diet-nutrition-label-reading",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:57:53.800Z"
+  },
+  {
+    "title": "When to Check Your Blood Sugar During New Year’s Eve—And Why Timing Matters More Than Frequency",
+    "description": "Breaks down optimal glucose testing windows before, during, and after celebratory meals and alcohol consumption—especially for those on sulfonylureas or insulin.",
+    "primaryKeyword": "when to check blood sugar new years eve",
+    "topicCluster": "monitoring-strategy-timing",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:57:55.023Z"
+  },
+  {
+    "title": "The Truth About 'Sugar-Free' Holiday Candy Labels—What the Fine Print on Maltitol, Erythritol, and Allulose Really Means for Your Glucose",
+    "description": "Demystifies sugar alcohol metabolism, osmotic effects, and individual variability in glycemic response—especially for seniors with gastroparesis or IBS-D.",
+    "primaryKeyword": "sugar-free candy blood sugar truth",
+    "topicCluster": "supplements-sweeteners-metabolism",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:57:57.523Z"
+  },
+  {
+    "title": "5 Signs Your Holiday Stress Is Spiking Cortisol—and Raising Fasting Glucose Without You Noticing",
+    "description": "Links non-obvious stress markers (e.g., restless legs at night, delayed wound healing, afternoon fatigue) to cortisol-driven insulin resistance in adults 60+.",
+    "primaryKeyword": "holiday stress fasting glucose signs",
+    "topicCluster": "lifestyle-stress-metabolic-link",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:57:58.847Z"
+  },
+  {
+    "title": "Why Your Grandchild’s Candy Stocking May Trigger Reactive Hypoglycemia—Especially If You’re on GLP-1 RAs or Meglitinides",
+    "description": "Explains rapid carb load + medication interaction risks, with symptom recognition, timing windows, and safe sharing strategies for intergenerational gifting.",
+    "primaryKeyword": "candy stocking reactive hypoglycemia",
+    "topicCluster": "medication-safety-intergenerational",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:58:01.555Z"
+  },
+  {
+    "title": "Warning Signs Your Holiday Weight Gain Is Driving Visceral Fat Accumulation—And How That Changes Your A1c Trajectory in 3 Weeks",
+    "description": "Connects subtle physical and lab changes (e.g., waist-to-height ratio shift, morning thirst despite normal A1c, elevated ALT) to early insulin resistance escalation.",
+    "primaryKeyword": "holiday weight gain visceral fat warning signs",
+    "topicCluster": "complications-early-detection",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:58:04.106Z"
+  },
+  {
+    "title": "Quick Ways to Normalize Post-Dinner Glucose Within 90 Minutes Using Breathwork and Foot Soaking—Validated in a Pilot Trial for Adults 63–76",
+    "description": "Details a low-barrier, non-exercise protocol combining paced breathing (4-7-8) and warm foot immersion to enhance vagal tone and skeletal muscle glucose uptake.",
+    "primaryKeyword": "quick post-dinner glucose normalization",
+    "topicCluster": "lifestyle-quick-interventions",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:58:06.944Z"
+  },
+  {
+    "title": "What Research Says About Intermittent Fasting From Christmas Eve to New Year’s Day for Adults With Stable Type 2 Diabetes Over 62",
+    "description": "Analyzes safety, efficacy, and adherence data from 3 holiday-season RCTs—focusing on hypoglycemia risk, ketosis thresholds, and renal stress markers.",
+    "primaryKeyword": "intermittent fasting christmas to new year diabetes",
+    "topicCluster": "science-research-holiday-fasting",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:58:08.282Z"
+  },
+  {
+    "title": "10 Things You Should Know About Alcohol-Free Mulled Wine for Blood Sugar Control—Including Tannin Content, Spice Synergy, and Serving Temperature Effects",
+    "description": "Goes beyond 'no alcohol' to explore polyphenol bioavailability, glycemic index shifts with heat, and spice-driven AMPK activation in non-alcoholic holiday beverages.",
+    "primaryKeyword": "alcohol-free mulled wine blood sugar",
+    "topicCluster": "diet-nutrition-beverage-science",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:58:09.609Z"
+  },
+  {
+    "title": "Can You Safely Eat Leftover Turkey Salad on Day 3 If You’re on Metformin and Have eGFR 62? A Food Safety + Renal-Glucose Guide",
+    "description": "Combines food microbiology (safe refrigeration windows), metformin-associated lactic acidosis risk, and protein metabolism in early CKD.",
+    "primaryKeyword": "leftover turkey salad metformin eGFR",
+    "topicCluster": "medication-food-safety-renal",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:58:10.891Z"
+  },
+  {
+    "title": "The Ultimate Guide to Navigating Open-Buffered Holiday Buffets—With Visual Portion Tools, Sequence Rules, and 'Stealth Fiber' Placement Strategies",
+    "description": "Provides actionable, age-adapted tactics for buffet navigation—including plate layout diagrams, order-of-serving logic, and fiber-first visual cues for adults 65+.",
+    "primaryKeyword": "holiday buffet blood sugar guide",
+    "topicCluster": "diet-nutrition-buffet-strategy",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:58:12.269Z"
+  },
+  {
+    "title": "Dangers of Skipping Breakfast on New Year’s Day—Especially If You’re on Basal Insulin and Over 70",
+    "description": "Explains how overnight insulin action + delayed first meal triggers counter-regulatory hormone surges, increasing risk of both hypoglycemia and rebound hyperglycemia.",
+    "primaryKeyword": "skipping breakfast new year basal insulin",
+    "topicCluster": "medication-timing-risk",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:58:13.562Z"
+  },
+  {
+    "title": "Simple Steps to Adjust Your Holiday Snacking Pattern for Early-Stage Diabetic Neuropathy—Focusing on Timing, Texture, and Temperature",
+    "description": "Addresses oral sensory changes, delayed gastric emptying, and autonomic dysregulation to prevent nocturnal hypoglycemia and post-snack glucose crashes.",
+    "primaryKeyword": "holiday snacking diabetic neuropathy",
+    "topicCluster": "complications-neuropathy-diet",
+    "coreKeyword": "managing blood sugar during christmas and new year",
+    "createdAt": "2026-01-01T03:58:16.166Z"
+  }
+]
