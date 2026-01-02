@@ -1,14 +1,29 @@
 ---
-title: "Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle Without Exercise—Backed by 4 RCTs in Sedentary Adults With Type 2 Diabetes Over 65"
-slug: "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65"
-description: "Reviews evidence for targeted nutrients (PQQ, urolithin A, nicotinamide riboside) and low-dose cold exposure protocols that increase PGC-1α expression—even in low-mobility patients."
-date: "2025-12-30"
-updated: "2025-12-30"
-tags: ["mitochondrial biogenesis diabetes no exercise", "diabetes", "mitochondrial-support-sedentary"]
-primaryKeyword: "mitochondrial biogenesis diabetes no exercise"
-topicCluster: "mitochondrial-support-sedentary"
-image: ""
-relatedSlugs: ["how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study", "natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74"]
+title: >-
+  Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle Without
+  Exercise—Backed by 4 RCTs in Sedentary Adults With Type 2 Diabetes Over 65
+slug: >-
+  natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+description: >-
+  Reviews evidence for targeted nutrients (PQQ, urolithin A, nicotinamide
+  riboside) and low-dose cold exposure protocols that increase PGC-1α
+  expression—even in low-mobility patients.
+date: '2025-12-30'
+updated: '2025-12-30'
+tags:
+  - mitochondrial biogenesis diabetes no exercise
+  - diabetes
+  - mitochondrial-support-sedentary
+primaryKeyword: mitochondrial biogenesis diabetes no exercise
+topicCluster: mitochondrial-support-sedentary
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
+  - >-
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
 ---
 
 # Natural Ways to Support Mitochondrial Biogenesis in Diabetes Without Exercise—Evidence for Older Adults

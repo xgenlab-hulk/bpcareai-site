@@ -18,6 +18,8 @@ relatedSlugs:
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
+  - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
 ---
 
 # Essential Diabetic Foot Care for Seniors: Simple Daily Habits That Protect Your Steps

@@ -1,13 +1,5 @@
 [
   {
-    "title": "What Are the Earliest Behavioral Red Flags of Seasonal Depression in Women Over 65—Before Mood Changes Appear?",
-    "description": "Explores subtle, pre-mood-based indicators like altered social rhythm, light-seeking avoidance, and circadian drift in older women, validated by longitudinal geriatric psychiatry studies.",
-    "primaryKeyword": "early signs seasonal depression women over 65",
-    "topicCluster": "behavioral-red-flags-preclinical",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2026-01-01T03:59:04.438Z"
-  },
-  {
     "title": "How Indoor Light Spectrum During Winter Affects Melatonin Suppression and Sleep Architecture in Adults 70+ With Mild Cognitive Impairment",
     "description": "Analyzes how common home LED lighting (vs. full-spectrum or amber-filtered) disrupts melatonin timing and REM consolidation—especially in seniors with MCI—and offers practical lighting adjustments.",
     "primaryKeyword": "indoor light spectrum melatonin sleep architecture seniors",
@@ -24,35 +16,11 @@
     "createdAt": "2026-01-01T03:59:08.202Z"
   },
   {
-    "title": "The Truth About Vitamin D Supplementation for Seasonal Depression in Men Over 72 With Chronic Kidney Disease Stage 3",
-    "description": "Clarifies dosing thresholds, calcitriol conversion limitations, and PTH-driven mood correlations in CKD seniors—separating evidence from widespread supplementation myths.",
-    "primaryKeyword": "vitamin d supplementation seasonal depression kidney disease",
-    "topicCluster": "nutrient-metabolism-ckd",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2026-01-01T03:59:09.500Z"
-  },
-  {
     "title": "12 Low-Intensity Movement Patterns That Elevate Brain-Derived Neurotrophic Factor (BDNF) in Sedentary Adults 60–80 With Seasonal Low Mood",
     "description": "Features evidence-backed, non-exercise movement sequences (e.g., seated rhythmic arm swings, micro-walks with posture cues) shown to increase BDNF in frail and mobility-limited seniors.",
     "primaryKeyword": "low intensity movement bdnf seasonal low mood seniors",
     "topicCluster": "movement-neurochemistry-frail",
     "coreKeyword": "seasonal depression in older adults",
     "createdAt": "2026-01-01T03:59:10.738Z"
-  },
-  {
-    "title": "A vs B: Dawn Simulation vs. Midday 10,000-Lux Light Box for Sustained Alertness and Cortisol Rhythm Stabilization in Adults 63–77",
-    "description": "Compares chronobiological impact, adherence rates, and daytime cortisol AUC outcomes between two light-based interventions in a real-world geriatric cohort with confirmed winter-onset depression.",
-    "primaryKeyword": "dawn simulation vs light box seniors cortisol rhythm",
-    "topicCluster": "light-intervention-comparison",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2026-01-01T03:59:13.312Z"
-  },
-  {
-    "title": "Natural Ways to Support Serotonin Synthesis Without SSRIs in Older Adults With Mild Seasonal Depression and Low Tryptophan Intake",
-    "description": "Details food-based tryptophan pairing (e.g., pumpkin seeds + barley), co-factor optimization (B6, magnesium, iron), and gut-microbiome supports—backed by geriatric nutritional neuroscience trials.",
-    "primaryKeyword": "serotonin synthesis natural ways seniors tryptophan intake",
-    "topicCluster": "neurotransmitter-nutrition",
-    "coreKeyword": "seasonal depression in older adults",
-    "createdAt": "2026-01-01T03:59:15.998Z"
   }
 ]
