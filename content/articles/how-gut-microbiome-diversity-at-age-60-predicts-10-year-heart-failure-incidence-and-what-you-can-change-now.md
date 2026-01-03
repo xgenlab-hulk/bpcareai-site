@@ -24,6 +24,8 @@ relatedSlugs:
   - could-your-heartbeats-per-minute-predict-longevity
   - >-
     how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
+  - >-
+    how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies
 ---
 
 # How Gut Microbiome Diversity at Age 60 Helps Predict Heart Failure Risk—and What You Can Do Today

@@ -26,6 +26,8 @@ relatedSlugs:
     can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
   - >-
     what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
 ---
 
 # Beetroot Juice vs Fermented Beet Kvass: Which Better Supports Central Aortic Systolic Pressure in Men 58–67 With Arterial Stiffness?

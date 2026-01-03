@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "title": "7 Silent Signs Your Blood Pressure Is Spiking at Night—Especially If You’re on Beta-Blockers and Over 65",
+    "description": "Explores nocturnal hypertension red flags often missed during daytime checks, with focus on medication interactions, sleep-disordered breathing, and age-related autonomic changes.",
+    "primaryKeyword": "nocturnal blood pressure spikes signs",
+    "topicCluster": "nighttime-hypertension-symptoms",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:34.060Z"
+  },
+  {
+    "title": "The Truth About 'Low-Sodium' Canned Soups for Seniors With Stage 2 CKD—Why Hidden Phosphates and Potassium Binders May Raise BP Despite Label Claims",
+    "description": "Debunks misleading sodium labeling in renal-friendly foods, analyzing electrolyte load, acid-base balance, and RAAS activation in older adults with mild kidney impairment.",
+    "primaryKeyword": "low-sodium soups kidney disease blood pressure",
+    "topicCluster": "renal-diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:36.628Z"
+  },
+  {
+    "title": "Can Air Pollution Exposure in Urban Apartments Raise Diastolic BP Within 48 Hours? New Data From 3,200 Adults 55–81",
+    "description": "Synthesizes findings from real-time PM2.5 monitoring paired with home BP logs, highlighting differential susceptibility by APOE genotype and indoor ventilation habits.",
+    "primaryKeyword": "air pollution diastolic blood pressure urban seniors",
+    "topicCluster": "environmental-exposures-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:39.100Z"
+  },
+  {
+    "title": "Warning Signs Your 'Well-Controlled' Hypertension Is Causing Subclinical Left Ventricular Hypertrophy—Before Echo Findings Appear",
+    "description": "Identifies early electrocardiographic, symptom-based, and functional markers (e.g., exertional dyspnea onset, nocturnal cough timing) predictive of LVH progression.",
+    "primaryKeyword": "subclinical left ventricular hypertrophy signs",
+    "topicCluster": "cardiac-complications",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:41.648Z"
+  },
+  {
+    "title": "Does Daily 10-Minute Cold Water Immersion Lower Morning Systolic BP in Sedentary Adults 60–72? A 12-Week RCT Breakdown",
+    "description": "Analyzes thermoregulatory vasoconstriction rebound, baroreflex sensitivity shifts, and sympathetic tone modulation—separating transient spikes from sustained reductions.",
+    "primaryKeyword": "cold water immersion systolic blood pressure rct",
+    "topicCluster": "cold-therapy-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:44.206Z"
+  },
+  {
+    "title": "When to Worry About 'Normal' BP Readings During Acute Bronchitis—Especially If You’re on ACE Inhibitors and Over 67",
+    "description": "Explains how airway inflammation and cough-induced intrathoracic pressure surges mask true vascular resistance, increasing risk of undetected hypertensive urgency.",
+    "primaryKeyword": "blood pressure during bronchitis ace inhibitors",
+    "topicCluster": "acute-illness-bp-monitoring",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:45.421Z"
+  },
+  {
+    "title": "What Are the Earliest Gait Changes Linked to Orthostatic Hypotension in Adults With Parkinson’s Disease Stage 2?",
+    "description": "Describes subtle gait variability metrics (stride time variability, double-support phase extension) detectable before syncopal episodes, with implications for fall risk and BP management.",
+    "primaryKeyword": "gait changes orthostatic hypotension parkinsons",
+    "topicCluster": "neurological-bp-symptoms",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:47.903Z"
+  },
+  {
+    "title": "How Gut Microbiota Diversity Predicts 24-Hour Systolic Variability in Adults 55–70—And What to Eat to Stabilize It",
+    "description": "Connects microbial SCFA production, TMAO metabolism, and vagal tone to BP lability, highlighting prebiotic timing and fermented food sequencing strategies.",
+    "primaryKeyword": "gut microbiome systolic blood pressure variability",
+    "topicCluster": "gut-brain-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:50.486Z"
+  },
+  {
+    "title": "Dangers of Over-Reliance on Wrist BP Monitors for Diagnosing Isolated Systolic Hypertension in Adults With Osteoarthritis of the Hands",
+    "description": "Details measurement error sources (arterial calcification, radial pulse dampening, positioning artifacts) and offers validation protocols for home use.",
+    "primaryKeyword": "wrist blood pressure monitor accuracy osteoarthritis",
+    "topicCluster": "bp-device-accuracy",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:51.698Z"
+  },
+  {
+    "title": "Myths vs Facts: 'My BP Is Fine Because My Pulse Is Steady'—Why Heart Rate Normalcy Doesn’t Rule Out Non-Dipping or Morning Surge",
+    "description": "Clarifies autonomic dissociation between HR and BP regulation, emphasizing baroreflex failure, chronotropic incompetence, and circadian misalignment.",
+    "primaryKeyword": "heart rate steady blood pressure myths",
+    "topicCluster": "autonomic-misconceptions",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:52.950Z"
+  },
+  {
+    "title": "10 Medication Interactions That Raise BP Without Warning—From OTC Decongestants to Topical Testosterone in Men Over 68",
+    "description": "Catalogs underrecognized pharmacodynamic and pharmacokinetic interactions (e.g., pseudoephedrine + amitriptyline, testosterone + finasteride), with dose-adjustment guidance.",
+    "primaryKeyword": "medication interactions raise blood pressure",
+    "topicCluster": "pharmacologic-risks",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:54.181Z"
+  },
+  {
+    "title": "What Research Says About High-Intensity Interval Training vs. Zone 2 Walking for Diastolic BP Reduction in Obese Adults 59–73",
+    "description": "Compares vascular adaptations, capillary density gains, and inflammatory cytokine suppression across modalities—factoring in joint load and adherence sustainability.",
+    "primaryKeyword": "hiit vs zone 2 walking diastolic bp",
+    "topicCluster": "exercise-modality-comparison",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:56.703Z"
+  },
+  {
+    "title": "Quick Ways to Lower BP Within 90 Minutes Using Guided Breathing + Postural Sequencing—Validated in Emergency Department Triage for Stage 1 Hypertension",
+    "description": "Details a 4-7-8 inhale-hold-exhale pattern combined with supine-to-seated transitions to acutely reduce sympathetic outflow and peripheral resistance.",
+    "primaryKeyword": "quick blood pressure reduction guided breathing",
+    "topicCluster": "acute-bp-intervention",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-03T03:28:57.968Z"
+  }
+]

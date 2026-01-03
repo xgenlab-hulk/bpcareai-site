@@ -1,5 +1,410 @@
 [
   {
+    "slug": "when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications",
+    "title": "When to Worry About Unexplained Weight Gain in Women Over 55 With Type 2 Diabetes—Even With Stable Calorie Intake and No New Medications",
+    "description": "Examines subclinical hypothyroidism, cortisol rhythm disruption, and adipose tissue inflammation as drivers—and introduces targeted diagnostic thresholds.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "unexplained weight gain diabetes women 55+",
+      "diabetes",
+      "weight-gain-clues"
+    ],
+    "primaryKeyword": "unexplained weight gain diabetes women 55+",
+    "topicCluster": "weight-gain-clues",
+    "image": "",
+    "relatedSlugs": [
+      "how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60",
+      "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes"
+    ]
+  },
+  {
+    "slug": "the-ultimate-guide-to-adjusting-antihypertensive-dosing-during-summer-heatwaves-with-hydration-thresholds-diuretic-timing-and-postural-rehydration-protocols",
+    "title": "The Ultimate Guide to Adjusting Antihypertensive Dosing During Summer Heatwaves—With Hydration Thresholds, Diuretic Timing, and Postural Rehydration Protocols",
+    "description": "Provides evidence-based algorithms for modifying thiazide, CCB, and alpha-2 agonist regimens during sustained high-heat exposure in adults over 60.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "antihypertensive dosing summer heatwaves",
+      "blood pressure",
+      "seasonal-htn-management"
+    ],
+    "primaryKeyword": "antihypertensive dosing summer heatwaves",
+    "topicCluster": "seasonal-htn-management",
+    "image": "",
+    "relatedSlugs": [
+      "why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely",
+      "best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air",
+      "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications"
+    ]
+  },
+  {
+    "slug": "the-truth-about-low-carb-restaurant-menus-for-women-with-pcos-and-insulin-resistance-why-20g-net-carb-claims-often-mask-45g-total-available-carbs",
+    "title": "The Truth About ‘Low-Carb’ Restaurant Menus for Women With PCOS and Insulin Resistance—Why 20g Net Carb Claims Often Mask 45g+ Total Available Carbs",
+    "description": "Deconstructs restaurant menu labeling practices, fiber accounting loopholes, and resistant starch misrepresentation in dishes marketed as 'low-carb' for metabolic health.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "low-carb restaurant menu truth",
+      "diabetes",
+      "nutrition-labeling"
+    ],
+    "primaryKeyword": "low-carb restaurant menu truth",
+    "topicCluster": "nutrition-labeling",
+    "image": "",
+    "relatedSlugs": []
+  },
+  {
+    "slug": "simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma",
+    "title": "Simple Steps to Normalize BP Lability After Cataract Surgery—Especially in Adults With Prior Orthostatic Intolerance and Glaucoma",
+    "description": "Addresses post-op fluid shifts, beta-blocker eye drop systemic absorption, and vestibular-visual recalibration affecting baroreceptor sensitivity.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "blood pressure lability after cataract surgery",
+      "blood pressure",
+      "post-surgical-bp-stabilization"
+    ],
+    "primaryKeyword": "blood pressure lability after cataract surgery",
+    "topicCluster": "post-surgical-bp-stabilization",
+    "image": "",
+    "relatedSlugs": [
+      "blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t",
+      "why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70"
+    ]
+  },
+  {
+    "slug": "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone",
+    "title": "Simple Steps to Adjust Your Evening Insulin Regimen After Starting SGLT2 Inhibitors—Especially If You’re Over 67 and Live Alone",
+    "description": "Covers hypovolemia-aware dosing reductions, ketone testing timing, and ‘safety net’ snack strategies to prevent euglycemic DKA in home-dwelling elders.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "evening insulin sgl2 inhibitor adjustment",
+      "diabetes",
+      "medication-interaction"
+    ],
+    "primaryKeyword": "evening insulin sgl2 inhibitor adjustment",
+    "topicCluster": "medication-interaction",
+    "image": "",
+    "relatedSlugs": [
+      "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65",
+      "simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69",
+      "can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment",
+      "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks",
+      "why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes"
+    ]
+  },
+  {
+    "slug": "quick-ways-to-normalize-post-exercise-glucose-spikes-in-adults-with-type-1-diabetes-using-pre-workout-caffeine-timing-and-carb-buffered-protein-snacks",
+    "title": "Quick Ways to Normalize Post-Exercise Glucose Spikes in Adults With Type 1 Diabetes Using Pre-Workout Caffeine Timing and Carb-Buffered Protein Snacks",
+    "description": "Presents a 3-step protocol tested in 48 adults: caffeine dose window, leucine–whey ratio, and immediate post-set carb timing to blunt catecholamine-driven hyperglycemia.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "post-exercise glucose spike type 1",
+      "diabetes",
+      "exercise-glucose-response"
+    ],
+    "primaryKeyword": "post-exercise glucose spike type 1",
+    "topicCluster": "exercise-glucose-response",
+    "image": "",
+    "relatedSlugs": [
+      "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy",
+      "quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81",
+      "a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes"
+    ]
+  },
+  {
+    "slug": "quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks",
+    "title": "Quick Ways to Adjust Your Holiday Plate for Early-Stage Macular Degeneration—Focusing on Lutein Bioavailability, Fat Pairing, and Light-Induced Oxidation Risks",
+    "description": "Provides meal-planning hacks to maximize macular pigment optical density: optimal fat sources for carotenoid absorption, avoiding high-heat oxidation of leafy greens, and timing of antioxidant-rich foods.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "holiday eating macular degeneration lutein bioavailability",
+      "healthy holiday eating for seniors",
+      "eye-health-nutrition-aging"
+    ],
+    "primaryKeyword": "holiday eating macular degeneration lutein bioavailability",
+    "topicCluster": "eye-health-nutrition-aging",
+    "image": "",
+    "relatedSlugs": [
+      "simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection",
+      "warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68",
+      "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration",
+      "simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns",
+    "title": "Natural Ways to Lower BP Without Medication Using Time-Restricted Eating—Validated in 217 Adults With Metabolic Syndrome and Night-Eating Patterns",
+    "description": "Focuses on circadian alignment of food intake, insulin sensitivity restoration, and nocturnal renin suppression—not just calorie restriction.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "time-restricted eating blood pressure metabolic syndrome",
+      "blood pressure",
+      "circadian-nutrition-blood-pressure"
+    ],
+    "primaryKeyword": "time-restricted eating blood pressure metabolic syndrome",
+    "topicCluster": "circadian-nutrition-blood-pressure",
+    "image": "",
+    "relatedSlugs": [
+      "can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show",
+      "why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62",
+      "12-foods-that-stabilize-blood-pressure-during-long-family-dinners-not-just-after-with-timing-portion-and-pairing-rules-for-adults-57-69",
+      "what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time",
+      "how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints"
+    ]
+  },
+  {
+    "slug": "how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment",
+    "title": "How Indoor Light Spectrum During Winter Affects Melatonin Suppression and Sleep Architecture in Adults 70+ With Mild Cognitive Impairment",
+    "description": "Analyzes how common home LED lighting (vs. full-spectrum or amber-filtered) disrupts melatonin timing and REM consolidation—especially in seniors with MCI—and offers practical lighting adjustments.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "indoor light spectrum melatonin sleep architecture seniors",
+      "seasonal depression in older adults",
+      "light-environment-sleep"
+    ],
+    "primaryKeyword": "indoor light spectrum melatonin sleep architecture seniors",
+    "topicCluster": "light-environment-sleep",
+    "image": "",
+    "relatedSlugs": [
+      "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension",
+      "how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood",
+      "a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome",
+      "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65",
+      "how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60"
+    ]
+  },
+  {
+    "slug": "how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies",
+    "title": "How Gut Microbiome Diversity at Age 58–64 Predicts 10-Year Progression from Prediabetes to Type 2 Diabetes—Based on 3 Longitudinal Cohort Studies",
+    "description": "Explores the emerging link between microbial richness, intestinal permeability markers, and beta-cell decline in midlife adults—offering early intervention windows before clinical diabetes onset.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "gut microbiome prediabetes progression",
+      "diabetes",
+      "microbiome-biomarkers"
+    ],
+    "primaryKeyword": "gut microbiome prediabetes progression",
+    "topicCluster": "microbiome-biomarkers",
+    "image": "",
+    "relatedSlugs": [
+      "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now"
+    ]
+  },
+  {
+    "slug": "how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74",
+    "title": "How Chronic Loneliness After Retirement Accelerates Arterial Stiffness—and Raises Systolic BP in Adults 58–74",
+    "description": "Examines the psychosocial pathway from social isolation to endothelial dysfunction, citing longitudinal data on pulse wave velocity and 24-hour ambulatory BP trends.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "loneliness and arterial stiffness blood pressure",
+      "blood pressure",
+      "emotional-health-physiology"
+    ],
+    "primaryKeyword": "loneliness and arterial stiffness blood pressure",
+    "topicCluster": "emotional-health-physiology",
+    "image": "",
+    "relatedSlugs": [
+      "how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75",
+      "how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk",
+      "how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness",
+      "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone",
+      "how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone"
+    ]
+  },
+  {
+    "slug": "does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis",
+    "title": "Does Intermittent Fasting Improve Beta-Cell Function in Adults With Recent-Onset Type 2 Diabetes (Diagnosed <2 Years Ago)? A 16-Week RCT Analysis",
+    "description": "Evaluates C-peptide responses, proinsulin/C-peptide ratios, and first-phase insulin secretion during hyperglycemic clamps before and after 14:10 fasting protocols.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "intermittent fasting beta-cell function",
+      "diabetes",
+      "beta-cell-recovery"
+    ],
+    "primaryKeyword": "intermittent fasting beta-cell function",
+    "topicCluster": "beta-cell-recovery",
+    "image": "",
+    "relatedSlugs": [
+      "what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery",
+      "what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension",
+      "how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort",
+      "how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study",
+      "does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression"
+    ]
+  },
+  {
+    "slug": "best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65",
+    "title": "Best Footwear Modifications for Adults With Diabetes and Charcot Arthropathy—Based on Dynamic Pressure Mapping and 3D Gait Analysis in 92 Patients Over 65",
+    "description": "Details custom offloading strategies, rocker-bottom geometry parameters, and in-shoe sensor feedback systems proven to reduce peak plantar pressure by ≥41%.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "charcot arthropathy footwear modifications",
+      "diabetes",
+      "foot-health-engineering"
+    ],
+    "primaryKeyword": "charcot arthropathy footwear modifications",
+    "topicCluster": "foot-health-engineering",
+    "image": "",
+    "relatedSlugs": [
+      "best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60",
+      "can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71"
+    ]
+  },
+  {
+    "slug": "a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis",
+    "title": "A vs B: Slow-Cooked Holiday Leftovers vs. Reheated Microwave Portions—Which Preserves More Bioavailable Zinc and Magnesium for Seniors With Atrophic Gastritis?",
+    "description": "Compares nutrient leaching, oxidation, and mineral chelation across reheating methods, with lab-tested retention data and practical storage-to-plate guidance for gastric atrophy patients.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "reheating holiday leftovers mineral bioavailability seniors",
+      "healthy holiday eating for seniors",
+      "micronutrient-retention-cooking"
+    ],
+    "primaryKeyword": "reheating holiday leftovers mineral bioavailability seniors",
+    "topicCluster": "micronutrient-retention-cooking",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc",
+      "the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis"
+    ]
+  },
+  {
+    "slug": "a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79",
+    "title": "A vs B: Home Cuff Monitoring vs. Ambulatory 24-Hour BP Tracking for Detecting White-Coat Effect in Frail Adults Over 79",
+    "description": "Compares diagnostic accuracy, feasibility, and clinical outcomes when identifying masked hypertension in individuals with orthostatic intolerance or dementia-related agitation.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "home vs ambulatory blood pressure frail elderly",
+      "blood pressure",
+      "bp-monitoring-methods"
+    ],
+    "primaryKeyword": "home vs ambulatory blood pressure frail elderly",
+    "topicCluster": "bp-monitoring-methods",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better",
+      "why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70",
+      "the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors",
+      "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75",
+      "why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68"
+    ]
+  },
+  {
+    "slug": "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily",
+    "title": "7 Unexpected Signs of Subclinical Heart Failure in Women Over 65 Who Still Walk 10,000 Steps Daily",
+    "description": "Identifies subtle, activity-resistant indicators—like unexplained nocturnal polyuria, persistent low-grade orthostatic tachycardia, and diminished thermal sweating—that precede echo-confirmed diastolic dysfunction.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "subclinical heart failure signs women over 65",
+      "heart health",
+      "early-symptoms-women-specific"
+    ],
+    "primaryKeyword": "subclinical heart failure signs women over 65",
+    "topicCluster": "early-symptoms-women-specific",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80",
+      "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents",
+      "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath",
+      "what-are-the-first-signs-of-holiday-heart-syndrome-in-women",
+      "when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction"
+    ]
+  },
+  {
+    "slug": "5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking",
+    "title": "5 Things Every Woman Over 68 With Osteopenia Should Know Before Swapping Butter for Margarine in Holiday Baking",
+    "description": "Breaks down vitamin K2, trans-fat isomers, and calcium bioavailability trade-offs in fat substitutions—and why some margarines interfere with bone mineralization in postmenopausal women.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "holiday baking fat swaps osteopenia women 68+",
+      "healthy holiday eating for seniors",
+      "bone-health-nutrition-women"
+    ],
+    "primaryKeyword": "holiday baking fat swaps osteopenia women 68+",
+    "topicCluster": "bone-health-nutrition-women",
+    "image": "",
+    "relatedSlugs": [
+      "why-older-women-gain-weight-faster-during-the-holidays-after-menopause",
+      "7-smart-swaps-for-healthier-holiday-meals-after-65"
+    ]
+  },
+  {
+    "slug": "5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension",
+    "title": "5 Things Every Woman Over 62 Should Know Before Starting Menopause Hormone Therapy—Especially If You Have Masked Hypertension",
+    "description": "Details how estrogen-progestin regimens affect vascular resistance, aldosterone sensitivity, and nocturnal dipping patterns, with emphasis on pre-therapy BP phenotyping.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "menopause hormone therapy blood pressure women",
+      "blood pressure",
+      "gender-hormone-blood-pressure"
+    ],
+    "primaryKeyword": "menopause hormone therapy blood pressure women",
+    "topicCluster": "gender-hormone-blood-pressure",
+    "image": "",
+    "relatedSlugs": [
+      "blood-pressure-changes-during-menopause-what-women-should-know",
+      "blood-pressure-fluctuations-during-menopause-what-women-should-know",
+      "blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short",
+      "why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70"
+    ]
+  },
+  {
+    "slug": "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension",
+    "title": "12 Foods That Support Endothelial Nitric Oxide Synthase Activity—Backed by RCTs in Adults 53–68 With Prehypertension",
+    "description": "Lists dietary compounds (e.g., betaine-rich beets, epicatechin-dense cocoa, aged garlic) with mechanistic explanations and dosing thresholds shown to improve FMD and systolic dip.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "foods that boost nitric oxide synthase",
+      "blood pressure",
+      "endothelial-diet-therapeutics"
+    ],
+    "primaryKeyword": "foods that boost nitric oxide synthase",
+    "topicCluster": "endothelial-diet-therapeutics",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60",
+      "natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74",
+      "7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina",
+      "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max",
+      "a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness"
+    ]
+  },
+  {
+    "slug": "10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk",
+    "title": "10 Foods That Support Glycemic Resilience During Heat Waves—Especially for Adults 70+ With Diabetes and Medication-Induced Hyponatremia Risk",
+    "description": "Highlights potassium-moderate, water-rich, low-glycemic foods that stabilize sodium balance and prevent thermal stress–driven hyperglycemia spikes.",
+    "date": "2026-01-03",
+    "updated": "2026-01-03",
+    "tags": [
+      "heat wave glycemic resilience foods",
+      "diabetes",
+      "seasonal-physiology"
+    ],
+    "primaryKeyword": "heat wave glycemic resilience foods",
+    "topicCluster": "seasonal-physiology",
+    "image": "",
+    "relatedSlugs": [
+      "5-natural-potassium-rich-foods-that-don-t-interact-with-spironolactone-safe-for-adults-60-82-with-resistant-hypertension"
+    ]
+  },
+  {
     "slug": "why-your-grandchild-s-candy-stocking-may-trigger-reactive-hypoglycemia-especially-if-you-re-on-glp-1-ras-or-meglitinides",
     "title": "Why Your Grandchild’s Candy Stocking May Trigger Reactive Hypoglycemia—Especially If You’re on GLP-1 RAs or Meglitinides",
     "description": "Explains rapid carb load + medication interaction risks, with symptom recognition, timing windows, and safe sharing strategies for intergenerational gifting.",
@@ -1202,7 +1607,8 @@
       "a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease",
       "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure",
       "the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis",
-      "the-truth-about-healthy-store-bought-holiday-meals-for-older-adults"
+      "the-truth-about-healthy-store-bought-holiday-meals-for-older-adults",
+      "a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis"
     ]
   },
   {
@@ -1288,7 +1694,8 @@
     "relatedSlugs": [
       "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60",
       "can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show",
-      "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration"
+      "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration",
+      "natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns"
     ]
   },
   {
@@ -1691,7 +2098,8 @@
       "natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74",
       "natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60",
       "can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71",
-      "what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension"
+      "what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension",
+      "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension"
     ]
   },
   {
@@ -4809,7 +5217,8 @@
       "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60",
       "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration",
       "warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines",
-      "simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection"
+      "simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection",
+      "quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks"
     ]
   },
   {
@@ -5900,7 +6309,8 @@
       "12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking",
       "the-role-of-omega-3-fatty-acids-in-preventing-heart-disease",
       "could-your-heartbeats-per-minute-predict-longevity",
-      "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals"
+      "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals",
+      "how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies"
     ]
   },
   {
@@ -14613,7 +15023,8 @@
       "blood-pressure-changes-during-menopause-what-women-should-know",
       "how-menopause-affects-heart-disease-risk-in-women",
       "how-menopause-affects-blood-sugar-control-in-women-with-diabetes",
-      "can-cold-weather-raise-your-blood-pressure"
+      "can-cold-weather-raise-your-blood-pressure",
+      "5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension"
     ]
   },
   {

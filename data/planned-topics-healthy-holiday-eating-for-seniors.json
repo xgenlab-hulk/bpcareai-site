@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "title": "How Holiday Travel Disrupts Circadian Rhythms—and Why That Worsens Postprandial Glucose Spikes in Adults 65+ With Prediabetes",
+    "description": "Explores the underrecognized link between jet lag, meal timing misalignment, and impaired glucose tolerance during holiday trips, with evidence-based re-synchronization strategies for older adults.",
+    "primaryKeyword": "holiday travel circadian glucose spikes seniors",
+    "topicCluster": "circadian-rhythm-glucose-regulation",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-01-03T03:31:33.538Z"
+  },
+  {
+    "title": "7 Hidden Sodium Traps in 'Heart-Healthy' Holiday Soups and Stews—Especially for Seniors on ACE Inhibitors or ARBs",
+    "description": "Identifies high-sodium ingredients in seemingly low-risk holiday soups (e.g., bouillon cubes, smoked turkey, canned beans), explains renal-angiotensin system implications, and offers low-sodium flavor-building alternatives.",
+    "primaryKeyword": "high sodium holiday soups seniors ace inhibitors",
+    "topicCluster": "cardiac-diet-sodium-safety",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-01-03T03:31:34.785Z"
+  },
+  {
+    "title": "When to Use a Post-Meal Walk for Glucose Control—Not Just Duration, But Timing, Terrain, and Gait Speed in Adults 70+ With Mild Orthostatic Hypotension",
+    "description": "Details the optimal 12–22 minute window post-holiday meal for glucose-lowering effect, adjusted for blood pressure stability, with terrain and pace recommendations validated in frail elders.",
+    "primaryKeyword": "post-meal walk timing seniors orthostatic hypotension",
+    "topicCluster": "exercise-glucose-bp-synergy",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-01-03T03:31:36.043Z"
+  },
+  {
+    "title": "The Truth About 'Low-Glycemic' Holiday Desserts Made With Date Paste—Do They Really Reduce Glycemic Load, or Just Mask Rapid Fructose Absorption in Adults With NAFLD?",
+    "description": "Analyzes how date-sweetened treats impact hepatic fructose metabolism, triglyceride synthesis, and insulin sensitivity in older adults with non-alcoholic fatty liver disease—a common but undiagnosed comorbidity.",
+    "primaryKeyword": "date paste desserts glycemic load nafld seniors",
+    "topicCluster": "hepatic-metabolism-diet",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-01-03T03:31:37.302Z"
+  },
+  {
+    "title": "Warning Signs Your Holiday 'Hydration Plan' (e.g., Herbal Teas, Broth, Infused Water) Is Diluting Sodium—Especially If You’re on Diuretics or Have Hyponatremia History",
+    "description": "Highlights subtle neurological and muscular red flags of hypo-osmolar hydration, explains sodium clearance thresholds in aging kidneys, and provides safe electrolyte-balanced alternatives.",
+    "primaryKeyword": "holiday hydration hyponatremia seniors diuretics",
+    "topicCluster": "electrolyte-balance-hydration",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-01-03T03:31:41.049Z"
+  },
+  {
+    "title": "Natural Ways to Support Salivary Amylase Production During Holiday Meals—Without Supplements—For Adults 75+ With Age-Related Xerostomia and Early Dysphagia",
+    "description": "Offers sensory-triggered, texture-modified, and temperature-optimized pre- and intra-meal strategies to boost natural salivary enzyme activity, improving carbohydrate digestion and satiety signaling.",
+    "primaryKeyword": "salivary amylase holiday meals xerostomia seniors",
+    "topicCluster": "oral-digestive-function",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-01-03T03:31:42.374Z"
+  },
+  {
+    "title": "How Holiday Social Isolation—Not Just Loneliness—Alters Gut Microbiota Diversity and Postprandial Inflammation in Frail Adults 80+",
+    "description": "Connects reduced mealtime social interaction with decreased microbial SCFA production, elevated IL-6, and blunted GLP-1 response—plus simple, evidence-backed 'micro-social meal rituals' to counteract it.",
+    "primaryKeyword": "holiday isolation gut microbiota inflammation seniors",
+    "topicCluster": "gut-brain-social-nutrition",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-01-03T03:31:43.631Z"
+  }
+]

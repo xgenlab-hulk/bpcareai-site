@@ -1,14 +1,31 @@
 ---
-title: "12 Foods That Stabilize Blood Pressure *During* Long Family Dinners—Not Just After—With Timing, Portion, and Pairing Rules for Adults 57–69"
-slug: "12-foods-that-stabilize-blood-pressure-during-long-family-dinners-not-just-after-with-timing-portion-and-pairing-rules-for-adults-57-69"
-description: "Focuses on intra-meal BP modulation: nitrate-rich greens, potassium-magnesium co-factors, and fiber viscosity effects, validated by ambulatory BP studies during simulated 3-hour meals."
-date: "2025-12-31"
-updated: "2025-12-31"
-tags: ["foods stabilize blood pressure during meal", "healthy eating during family gatherings", "intra-meal-blood-pressure-modulation"]
-primaryKeyword: "foods stabilize blood pressure during meal"
-topicCluster: "intra-meal-blood-pressure-modulation"
-image: ""
-relatedSlugs: ["10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60", "can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show", "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration"]
+title: >-
+  12 Foods That Stabilize Blood Pressure *During* Long Family Dinners—Not Just
+  After—With Timing, Portion, and Pairing Rules for Adults 57–69
+slug: >-
+  12-foods-that-stabilize-blood-pressure-during-long-family-dinners-not-just-after-with-timing-portion-and-pairing-rules-for-adults-57-69
+description: >-
+  Focuses on intra-meal BP modulation: nitrate-rich greens, potassium-magnesium
+  co-factors, and fiber viscosity effects, validated by ambulatory BP studies
+  during simulated 3-hour meals.
+date: '2025-12-31'
+updated: '2025-12-31'
+tags:
+  - foods stabilize blood pressure during meal
+  - healthy eating during family gatherings
+  - intra-meal-blood-pressure-modulation
+primaryKeyword: foods stabilize blood pressure during meal
+topicCluster: intra-meal-blood-pressure-modulation
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
+  - >-
+    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
+  - >-
+    natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
 ---
 
 # 12 Foods That Help Stabilize Blood Pressure During the Meal—Especially at Long Family Dinners (Ages 57–69)
