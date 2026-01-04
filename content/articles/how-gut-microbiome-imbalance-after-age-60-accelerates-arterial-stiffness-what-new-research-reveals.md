@@ -26,6 +26,8 @@ relatedSlugs:
     what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
   - >-
     how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
+  - >-
+    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
 ---
 
 # How Gut Microbiome Imbalance After Age 60 Contributes to Arterial Stiffness—And What You Can Do About It

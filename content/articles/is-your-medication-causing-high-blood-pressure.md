@@ -18,6 +18,8 @@ relatedSlugs:
   - when-to-worry-about-high-readings
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
   - could-your-medications-be-raising-your-blood-pressure
+  - >-
+    10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
 ---
 
 # Could These Medications Be Raising Your Blood Pressure?

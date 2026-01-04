@@ -8,14 +8,6 @@
     "createdAt": "2026-01-03T03:30:16.172Z"
   },
   {
-    "title": "7 Hidden Sleep-Disrupting Habits That Elevate Fasting Glucose in Adults 50–65—Even With Normal BMI and No OSA Diagnosis",
-    "description": "Identifies non-apnea contributors like nocturnal light exposure, bedtime protein intake, and supine REM fragmentation that impair hepatic insulin sensitivity overnight.",
-    "primaryKeyword": "sleep habits fasting glucose elevation",
-    "topicCluster": "sleep-glucose-interaction",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-01-03T03:30:17.376Z"
-  },
-  {
     "title": "A vs B: Continuous Glucose Monitoring (CGM) vs Flash Glucose Monitoring for Detecting Nocturnal Hypoglycemia in Adults With Autonomic Neuropathy",
     "description": "Compares real-time alerts, interstitial lag during rapid glucose drops, and calibration burden in neuropathic patients—using data from a 12-week crossover RCT.",
     "primaryKeyword": "cgm vs flash glucose monitoring neuropathy",
@@ -24,28 +16,12 @@
     "createdAt": "2026-01-03T03:30:19.858Z"
   },
   {
-    "title": "5 Things Everyone With Type 1 Diabetes Over 60 Should Know Before Starting a Plant-Based Diet—Especially With Concurrent Gastroparesis or Hypothyroidism",
-    "description": "Covers protein timing adjustments, iodine–selenium co-supplementation needs, fiber tolerance thresholds, and insulin dosing recalibration for delayed gastric emptying.",
-    "primaryKeyword": "type 1 diabetes plant-based diet over 60",
-    "topicCluster": "diet-transition-guidance",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-01-03T03:30:21.074Z"
-  },
-  {
     "title": "What Are the Earliest Signs of Diabetic Cardiomyopathy in Women 55–69—Before Ejection Fraction Drops or NT-proBNP Rises?",
     "description": "Highlights subtle echocardiographic, ECG, and symptom-based red flags—including diastolic strain patterns, heart rate variability loss, and exertional dyspnea on flat terrain.",
     "primaryKeyword": "early diabetic cardiomyopathy signs women",
     "topicCluster": "cardiac-complications",
     "coreKeyword": "diabetes",
     "createdAt": "2026-01-03T03:30:22.327Z"
-  },
-  {
-    "title": "Natural Ways to Improve Insulin Sensitivity in Skeletal Muscle Without Exercise—Using Cold Exposure, Postprandial Standing, and Diurnal Blue-Light Timing in Sedentary Adults 70+",
-    "description": "Reviews non-mechanical strategies proven to activate AMPK and GLUT4 translocation in low-mobility elders—based on 4 RCTs and real-world adherence data.",
-    "primaryKeyword": "insulin sensitivity without exercise elderly",
-    "topicCluster": "non-exercise-sensitivity",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-01-03T03:30:23.578Z"
   },
   {
     "title": "Dangers of Using Over-the-Counter 'Energy Gels' During Morning Walks for Adults With Type 2 Diabetes and Stage 2 CKD",
@@ -86,13 +62,5 @@
     "topicCluster": "monitoring-myths",
     "coreKeyword": "diabetes",
     "createdAt": "2026-01-03T03:30:29.811Z"
-  },
-  {
-    "title": "The Ultimate Guide to Managing Diabetes While Caring for a Spouse With Moderate Dementia—Focusing on Medication Safety, Meal Simplification, and Cognitive Load Reduction",
-    "description": "Offers a caregiver-first framework: pre-filled insulin syringes, ‘no-choice’ meal kits, and dual-alert CGM systems designed for dual-role disease management.",
-    "primaryKeyword": "diabetes management dementia caregiver",
-    "topicCluster": "caregiver-disease-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-01-03T03:30:37.574Z"
   }
 ]

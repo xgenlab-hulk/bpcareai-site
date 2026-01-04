@@ -1,14 +1,30 @@
 ---
-title: "Does Your Smartwatch *Actually* Detect Hypertensive Crisis? Accuracy Benchmarks for ECG + PPG Devices in Adults With Atrial Fibrillation and Hypertension"
-slug: "does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension"
-description: "Evaluates FDA-cleared wearables (Apple Watch, Withings, Omron) for detecting >180/110 episodes using paired clinical validation data and AFib interference thresholds."
-date: "2025-12-30"
-updated: "2025-12-30"
-tags: ["smartwatch accuracy hypertensive crisis", "blood pressure", "digital-monitoring-validation"]
-primaryKeyword: "smartwatch accuracy hypertensive crisis"
-topicCluster: "digital-monitoring-validation"
-image: ""
-relatedSlugs: ["the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors", "the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you"]
+title: >-
+  Does Your Smartwatch *Actually* Detect Hypertensive Crisis? Accuracy
+  Benchmarks for ECG + PPG Devices in Adults With Atrial Fibrillation and
+  Hypertension
+slug: >-
+  does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension
+description: >-
+  Evaluates FDA-cleared wearables (Apple Watch, Withings, Omron) for detecting
+  >180/110 episodes using paired clinical validation data and AFib interference
+  thresholds.
+date: '2025-12-30'
+updated: '2025-12-30'
+tags:
+  - smartwatch accuracy hypertensive crisis
+  - blood pressure
+  - digital-monitoring-validation
+primaryKeyword: smartwatch accuracy hypertensive crisis
+topicCluster: digital-monitoring-validation
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
+  - >-
+    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
+  - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
 ---
 
 # Can Your Smartwatch Truly Detect a Hypertensive Crisis? Understanding Smartwatch Accuracy Hypertensive Crisis in Real-World Use
