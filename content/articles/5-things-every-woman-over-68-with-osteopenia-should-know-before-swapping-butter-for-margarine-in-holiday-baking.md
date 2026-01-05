@@ -1,14 +1,31 @@
 ---
-title: "5 Things Every Woman Over 68 With Osteopenia Should Know Before Swapping Butter for Margarine in Holiday Baking"
-slug: "5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking"
-description: "Breaks down vitamin K2, trans-fat isomers, and calcium bioavailability trade-offs in fat substitutions—and why some margarines interfere with bone mineralization in postmenopausal women."
-date: "2026-01-03"
-updated: "2026-01-03"
-tags: ["holiday baking fat swaps osteopenia women 68+", "healthy holiday eating for seniors", "bone-health-nutrition-women"]
-primaryKeyword: "holiday baking fat swaps osteopenia women 68+"
-topicCluster: "bone-health-nutrition-women"
-image: ""
-relatedSlugs: ["why-older-women-gain-weight-faster-during-the-holidays-after-menopause", "7-smart-swaps-for-healthier-holiday-meals-after-65"]
+title: >-
+  5 Things Every Woman Over 68 With Osteopenia Should Know Before Swapping
+  Butter for Margarine in Holiday Baking
+slug: >-
+  5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
+description: >-
+  Breaks down vitamin K2, trans-fat isomers, and calcium bioavailability
+  trade-offs in fat substitutions—and why some margarines interfere with bone
+  mineralization in postmenopausal women.
+date: '2026-01-03'
+updated: '2026-01-03'
+tags:
+  - holiday baking fat swaps osteopenia women 68+
+  - healthy holiday eating for seniors
+  - bone-health-nutrition-women
+primaryKeyword: holiday baking fat swaps osteopenia women 68+
+topicCluster: bone-health-nutrition-women
+image: ''
+relatedSlugs:
+  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - >-
+    why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
+  - >-
+    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
+  - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
 ---
 
 # What Women Over 68 with Osteopenia Need to Know About Holiday Baking Fat Swaps  

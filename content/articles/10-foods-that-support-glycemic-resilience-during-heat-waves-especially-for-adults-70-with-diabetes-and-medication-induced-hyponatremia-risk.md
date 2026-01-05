@@ -1,14 +1,30 @@
 ---
-title: "10 Foods That Support Glycemic Resilience During Heat Waves—Especially for Adults 70+ With Diabetes and Medication-Induced Hyponatremia Risk"
-slug: "10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk"
-description: "Highlights potassium-moderate, water-rich, low-glycemic foods that stabilize sodium balance and prevent thermal stress–driven hyperglycemia spikes."
-date: "2026-01-03"
-updated: "2026-01-03"
-tags: ["heat wave glycemic resilience foods", "diabetes", "seasonal-physiology"]
-primaryKeyword: "heat wave glycemic resilience foods"
-topicCluster: "seasonal-physiology"
-image: ""
-relatedSlugs: ["5-natural-potassium-rich-foods-that-don-t-interact-with-spironolactone-safe-for-adults-60-82-with-resistant-hypertension"]
+title: >-
+  10 Foods That Support Glycemic Resilience During Heat Waves—Especially for
+  Adults 70+ With Diabetes and Medication-Induced Hyponatremia Risk
+slug: >-
+  10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
+description: >-
+  Highlights potassium-moderate, water-rich, low-glycemic foods that stabilize
+  sodium balance and prevent thermal stress–driven hyperglycemia spikes.
+date: '2026-01-03'
+updated: '2026-01-03'
+tags:
+  - heat wave glycemic resilience foods
+  - diabetes
+  - seasonal-physiology
+primaryKeyword: heat wave glycemic resilience foods
+topicCluster: seasonal-physiology
+image: ''
+relatedSlugs:
+  - >-
+    5-natural-potassium-rich-foods-that-don-t-interact-with-spironolactone-safe-for-adults-60-82-with-resistant-hypertension
+  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
+  - best-fruits-for-diabetics-over-50-and-which-to-limit
+  - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
+  - >-
+    10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
 ---
 
 # 10 Heat Wave Glycemic Resilience Foods for Older Adults With Diabetes—and Why Sodium Balance Matters More Than Ever

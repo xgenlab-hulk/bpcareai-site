@@ -1,14 +1,34 @@
 ---
-title: "A vs B: Slow-Cooked Holiday Leftovers vs. Reheated Microwave Portions—Which Preserves More Bioavailable Zinc and Magnesium for Seniors With Atrophic Gastritis?"
-slug: "a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis"
-description: "Compares nutrient leaching, oxidation, and mineral chelation across reheating methods, with lab-tested retention data and practical storage-to-plate guidance for gastric atrophy patients."
-date: "2026-01-03"
-updated: "2026-01-03"
-tags: ["reheating holiday leftovers mineral bioavailability seniors", "healthy holiday eating for seniors", "micronutrient-retention-cooking"]
-primaryKeyword: "reheating holiday leftovers mineral bioavailability seniors"
-topicCluster: "micronutrient-retention-cooking"
-image: ""
-relatedSlugs: ["a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc", "the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis"]
+title: >-
+  A vs B: Slow-Cooked Holiday Leftovers vs. Reheated Microwave Portions—Which
+  Preserves More Bioavailable Zinc and Magnesium for Seniors With Atrophic
+  Gastritis?
+slug: >-
+  a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis
+description: >-
+  Compares nutrient leaching, oxidation, and mineral chelation across reheating
+  methods, with lab-tested retention data and practical storage-to-plate
+  guidance for gastric atrophy patients.
+date: '2026-01-03'
+updated: '2026-01-03'
+tags:
+  - reheating holiday leftovers mineral bioavailability seniors
+  - healthy holiday eating for seniors
+  - micronutrient-retention-cooking
+primaryKeyword: reheating holiday leftovers mineral bioavailability seniors
+topicCluster: micronutrient-retention-cooking
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
+  - >-
+    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
+  - >-
+    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
+  - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
+  - >-
+    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
 ---
 
 # Reheating Holiday Leftovers Mineral Bioavailability Seniors: What Really Happens to Zinc and Magnesium?

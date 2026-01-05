@@ -1,14 +1,32 @@
 ---
-title: "Simple Steps to Normalize BP Lability After Cataract Surgery—Especially in Adults With Prior Orthostatic Intolerance and Glaucoma"
-slug: "simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma"
-description: "Addresses post-op fluid shifts, beta-blocker eye drop systemic absorption, and vestibular-visual recalibration affecting baroreceptor sensitivity."
-date: "2026-01-03"
-updated: "2026-01-03"
-tags: ["blood pressure lability after cataract surgery", "blood pressure", "post-surgical-bp-stabilization"]
-primaryKeyword: "blood pressure lability after cataract surgery"
-topicCluster: "post-surgical-bp-stabilization"
-image: ""
-relatedSlugs: ["blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t", "why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70"]
+title: >-
+  Simple Steps to Normalize BP Lability After Cataract Surgery—Especially in
+  Adults With Prior Orthostatic Intolerance and Glaucoma
+slug: >-
+  simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma
+description: >-
+  Addresses post-op fluid shifts, beta-blocker eye drop systemic absorption, and
+  vestibular-visual recalibration affecting baroreceptor sensitivity.
+date: '2026-01-03'
+updated: '2026-01-03'
+tags:
+  - blood pressure lability after cataract surgery
+  - blood pressure
+  - post-surgical-bp-stabilization
+primaryKeyword: blood pressure lability after cataract surgery
+topicCluster: post-surgical-bp-stabilization
+image: ''
+relatedSlugs:
+  - >-
+    blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
+  - >-
+    why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
+  - >-
+    simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
+  - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
 ---
 
 # Managing Blood Pressure Lability After Cataract Surgery—A Gentle Guide for Adults Over 50

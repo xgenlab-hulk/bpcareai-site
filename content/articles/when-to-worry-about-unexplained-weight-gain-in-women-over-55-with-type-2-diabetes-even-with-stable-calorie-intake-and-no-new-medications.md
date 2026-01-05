@@ -1,14 +1,30 @@
 ---
-title: "When to Worry About Unexplained Weight Gain in Women Over 55 With Type 2 Diabetes—Even With Stable Calorie Intake and No New Medications"
-slug: "when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications"
-description: "Examines subclinical hypothyroidism, cortisol rhythm disruption, and adipose tissue inflammation as drivers—and introduces targeted diagnostic thresholds."
-date: "2026-01-03"
-updated: "2026-01-03"
-tags: ["unexplained weight gain diabetes women 55+", "diabetes", "weight-gain-clues"]
-primaryKeyword: "unexplained weight gain diabetes women 55+"
-topicCluster: "weight-gain-clues"
-image: ""
-relatedSlugs: ["how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60", "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes"]
+title: >-
+  When to Worry About Unexplained Weight Gain in Women Over 55 With Type 2
+  Diabetes—Even With Stable Calorie Intake and No New Medications
+slug: >-
+  when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
+description: >-
+  Examines subclinical hypothyroidism, cortisol rhythm disruption, and adipose
+  tissue inflammation as drivers—and introduces targeted diagnostic thresholds.
+date: '2026-01-03'
+updated: '2026-01-03'
+tags:
+  - unexplained weight gain diabetes women 55+
+  - diabetes
+  - weight-gain-clues
+primaryKeyword: unexplained weight gain diabetes women 55+
+topicCluster: weight-gain-clues
+image: ''
+relatedSlugs:
+  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
+  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 
 # When Unexplained Weight Gain in Women Over 55 With Type 2 Diabetes Deserves Gentle Attention  

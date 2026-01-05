@@ -1,14 +1,33 @@
 ---
-title: "Can You Safely Share a Slice of Pumpkin Pie With Your Grandchild If You’re on Warfarin? A Vitamin K Interaction Guide for Holiday Baking"
-slug: "can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking"
-description: "Explains phylloquinone variability in pumpkin varieties, crust ingredients, and topping choices—and provides a ‘K-safe’ pie scoring tool for patients on anticoagulants."
-date: "2025-12-31"
-updated: "2025-12-31"
-tags: ["pumpkin pie warfarin vitamin k safety", "healthy eating during family gatherings", "anticoagulant-diet-interaction"]
-primaryKeyword: "pumpkin pie warfarin vitamin k safety"
-topicCluster: "anticoagulant-diet-interaction"
-image: ""
-relatedSlugs: []
+title: >-
+  Can You Safely Share a Slice of Pumpkin Pie With Your Grandchild If You’re on
+  Warfarin? A Vitamin K Interaction Guide for Holiday Baking
+slug: >-
+  can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
+description: >-
+  Explains phylloquinone variability in pumpkin varieties, crust ingredients,
+  and topping choices—and provides a ‘K-safe’ pie scoring tool for patients on
+  anticoagulants.
+date: '2025-12-31'
+updated: '2025-12-31'
+tags:
+  - pumpkin pie warfarin vitamin k safety
+  - healthy eating during family gatherings
+  - anticoagulant-diet-interaction
+primaryKeyword: pumpkin pie warfarin vitamin k safety
+topicCluster: anticoagulant-diet-interaction
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - >-
+    the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
+  - >-
+    5-natural-potassium-rich-foods-that-don-t-interact-with-spironolactone-safe-for-adults-60-82-with-resistant-hypertension
+  - >-
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
 ---
 
 # Pumpkin Pie, Warfarin, and Vitamin K Safety: A Friendly Guide for Holiday Sharing

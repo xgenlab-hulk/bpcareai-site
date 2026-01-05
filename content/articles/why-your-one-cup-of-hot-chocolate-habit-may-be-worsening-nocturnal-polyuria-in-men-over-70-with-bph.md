@@ -1,14 +1,33 @@
 ---
-title: "Why Your 'One Cup of Hot Chocolate' Habit May Be Worsening Nocturnal Polyuria in Men Over 70 With BPH"
-slug: "why-your-one-cup-of-hot-chocolate-habit-may-be-worsening-nocturnal-polyuria-in-men-over-70-with-bph"
-description: "Analyzes how cocoa-derived methylxanthines and temperature-driven nocturnal diuresis interact with age-related bladder compliance decline and alpha-adrenergic tone in aging male urinary systems."
-date: "2025-12-31"
-updated: "2025-12-31"
-tags: ["hot chocolate nocturnal polyuria bph", "healthy holiday eating for seniors", "urological-diet-interactions"]
-primaryKeyword: "hot chocolate nocturnal polyuria bph"
-topicCluster: "urological-diet-interactions"
-image: ""
-relatedSlugs: ["how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns"]
+title: >-
+  Why Your 'One Cup of Hot Chocolate' Habit May Be Worsening Nocturnal Polyuria
+  in Men Over 70 With BPH
+slug: >-
+  why-your-one-cup-of-hot-chocolate-habit-may-be-worsening-nocturnal-polyuria-in-men-over-70-with-bph
+description: >-
+  Analyzes how cocoa-derived methylxanthines and temperature-driven nocturnal
+  diuresis interact with age-related bladder compliance decline and
+  alpha-adrenergic tone in aging male urinary systems.
+date: '2025-12-31'
+updated: '2025-12-31'
+tags:
+  - hot chocolate nocturnal polyuria bph
+  - healthy holiday eating for seniors
+  - urological-diet-interactions
+primaryKeyword: hot chocolate nocturnal polyuria bph
+topicCluster: urological-diet-interactions
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+  - >-
+    does-holiday-caffeine-from-spiced-chai-or-eggnog-really-worsen-nocturnal-myoclonus-in-seniors-with-restless-legs-syndrome
+  - >-
+    a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
+  - >-
+    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
+  - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # Could Your Evening Hot Chocolate Be Contributing to Nighttime Urination? Understanding Hot Chocolate Nocturnal Polyuria BPH in Older Men

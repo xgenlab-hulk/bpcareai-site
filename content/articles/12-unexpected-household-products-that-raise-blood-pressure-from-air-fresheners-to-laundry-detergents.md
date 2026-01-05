@@ -1,14 +1,30 @@
 ---
-title: "12 Unexpected Household Products That Raise Blood Pressure—From Air Fresheners to Laundry Detergents"
-slug: "12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents"
-description: "Explores non-dietary, environmental sodium and chemical exposures linked to acute and chronic BP elevation, with lab-confirmed volatile organic compound (VOC) and quaternary ammonium data in adults 55–78."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["household products that raise blood pressure", "blood pressure", "environmental-exposures"]
-primaryKeyword: "household products that raise blood pressure"
-topicCluster: "environmental-exposures"
-image: ""
-relatedSlugs: ["12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label", "5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium"]
+title: >-
+  12 Unexpected Household Products That Raise Blood Pressure—From Air Fresheners
+  to Laundry Detergents
+slug: >-
+  12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents
+description: >-
+  Explores non-dietary, environmental sodium and chemical exposures linked to
+  acute and chronic BP elevation, with lab-confirmed volatile organic compound
+  (VOC) and quaternary ammonium data in adults 55–78.
+date: '2025-12-29'
+updated: '2025-12-29'
+tags:
+  - household products that raise blood pressure
+  - blood pressure
+  - environmental-exposures
+primaryKeyword: household products that raise blood pressure
+topicCluster: environmental-exposures
+image: ''
+relatedSlugs:
+  - >-
+    12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label
+  - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
+  - 10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
+  - >-
+    does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
+  - hidden-salt-surprising-foods-that-raise-blood-pressure
 ---
 
 # Hidden Sources in Your Home: Understanding Household Products That Raise Blood Pressure

@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: ‘I’ll Just Take an Extra Metformin Pill’ to Offset Holiday Pie—Why This Increases Lactic Acidosis Risk in Adults With Mild CKD Stage 2"
-slug: "myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2"
-description: "Debunks dangerous self-dosing assumptions by explaining metformin’s renal clearance threshold, lactate metabolism changes with age, and safer real-time glucose mitigation strategies."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["metformin holiday pie lactic acidosis", "healthy holiday eating for seniors", "medication-safety-ckd"]
-primaryKeyword: "metformin holiday pie lactic acidosis"
-topicCluster: "medication-safety-ckd"
-image: ""
-relatedSlugs: ["5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60"]
+title: >-
+  Myths vs Facts: ‘I’ll Just Take an Extra Metformin Pill’ to Offset Holiday
+  Pie—Why This Increases Lactic Acidosis Risk in Adults With Mild CKD Stage 2
+slug: >-
+  myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
+description: >-
+  Debunks dangerous self-dosing assumptions by explaining metformin’s renal
+  clearance threshold, lactate metabolism changes with age, and safer real-time
+  glucose mitigation strategies.
+date: '2026-01-01'
+updated: '2026-01-01'
+tags:
+  - metformin holiday pie lactic acidosis
+  - healthy holiday eating for seniors
+  - medication-safety-ckd
+primaryKeyword: metformin holiday pie lactic acidosis
+topicCluster: medication-safety-ckd
+image: ''
+relatedSlugs:
+  - >-
+    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
+  - >-
+    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
+  - >-
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
 ---
 
 # Why “One Extra Metformin Pill” for Holiday Pie Is Risky—Understanding metformin holiday pie lactic acidosis in Adults With Mild CKD Stage 2
