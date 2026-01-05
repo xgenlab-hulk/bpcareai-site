@@ -1,13 +1,5 @@
 [
   {
-    "title": "Can Air Pollution Exposure in Urban Apartments Raise Diastolic BP Within 48 Hours? New Data From 3,200 Adults 55–81",
-    "description": "Synthesizes findings from real-time PM2.5 monitoring paired with home BP logs, highlighting differential susceptibility by APOE genotype and indoor ventilation habits.",
-    "primaryKeyword": "air pollution diastolic blood pressure urban seniors",
-    "topicCluster": "environmental-exposures-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-03T03:28:39.100Z"
-  },
-  {
     "title": "Warning Signs Your 'Well-Controlled' Hypertension Is Causing Subclinical Left Ventricular Hypertrophy—Before Echo Findings Appear",
     "description": "Identifies early electrocardiographic, symptom-based, and functional markers (e.g., exertional dyspnea onset, nocturnal cough timing) predictive of LVH progression.",
     "primaryKeyword": "subclinical left ventricular hypertrophy signs",
@@ -22,21 +14,5 @@
     "topicCluster": "cold-therapy-blood-pressure",
     "coreKeyword": "blood pressure",
     "createdAt": "2026-01-03T03:28:44.206Z"
-  },
-  {
-    "title": "When to Worry About 'Normal' BP Readings During Acute Bronchitis—Especially If You’re on ACE Inhibitors and Over 67",
-    "description": "Explains how airway inflammation and cough-induced intrathoracic pressure surges mask true vascular resistance, increasing risk of undetected hypertensive urgency.",
-    "primaryKeyword": "blood pressure during bronchitis ace inhibitors",
-    "topicCluster": "acute-illness-bp-monitoring",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-03T03:28:45.421Z"
-  },
-  {
-    "title": "What Research Says About High-Intensity Interval Training vs. Zone 2 Walking for Diastolic BP Reduction in Obese Adults 59–73",
-    "description": "Compares vascular adaptations, capillary density gains, and inflammatory cytokine suppression across modalities—factoring in joint load and adherence sustainability.",
-    "primaryKeyword": "hiit vs zone 2 walking diastolic bp",
-    "topicCluster": "exercise-modality-comparison",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-03T03:28:56.703Z"
   }
 ]

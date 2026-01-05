@@ -1,14 +1,32 @@
 ---
-title: "How Chronic Low-Grade Inflammation From Gum Disease Accelerates Coronary Artery Calcification in Adults 55–69 With Normal LDL—And Why Dentists Are the First Line of Defense"
-slug: "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense"
-description: "Explores the under-recognized oral-systemic link between periodontitis and early atherosclerosis progression, focusing on inflammatory biomarkers (hs-CRP, IL-6) and actionable screening protocols for dental and primary care providers."
-date: "2025-12-28"
-updated: "2025-12-28"
-tags: ["gum disease and coronary artery calcification", "heart disease", "inflammation-oral-systemic-link"]
-primaryKeyword: "gum disease and coronary artery calcification"
-topicCluster: "inflammation-oral-systemic-link"
-image: ""
-relatedSlugs: ["how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp", "how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70", "the-hidden-link-between-gum-disease-and-heart-problems"]
+title: >-
+  How Chronic Low-Grade Inflammation From Gum Disease Accelerates Coronary
+  Artery Calcification in Adults 55–69 With Normal LDL—And Why Dentists Are the
+  First Line of Defense
+slug: >-
+  how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
+description: >-
+  Explores the under-recognized oral-systemic link between periodontitis and
+  early atherosclerosis progression, focusing on inflammatory biomarkers
+  (hs-CRP, IL-6) and actionable screening protocols for dental and primary care
+  providers.
+date: '2025-12-28'
+updated: '2025-12-28'
+tags:
+  - gum disease and coronary artery calcification
+  - heart disease
+  - inflammation-oral-systemic-link
+primaryKeyword: gum disease and coronary artery calcification
+topicCluster: inflammation-oral-systemic-link
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
 ---
 
 # How Gum Disease and Coronary Artery Calcification Are Linked—And What You Can Do About It

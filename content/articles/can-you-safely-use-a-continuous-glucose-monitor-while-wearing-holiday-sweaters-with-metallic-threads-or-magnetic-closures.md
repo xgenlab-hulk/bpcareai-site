@@ -1,14 +1,30 @@
 ---
-title: "Can You Safely Use a Continuous Glucose Monitor While Wearing Holiday Sweaters With Metallic Threads or Magnetic Closures?"
-slug: "can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures"
-description: "Tests RF interference, sensor adhesion loss, and Bluetooth signal degradation across 12 holiday garment types—includes mitigation tips for older users with dexterity challenges."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["CGM interference holiday clothing metallic threads", "holiday diabetes management", "device-compatibility-lifestyle"]
-primaryKeyword: "CGM interference holiday clothing metallic threads"
-topicCluster: "device-compatibility-lifestyle"
-image: ""
-relatedSlugs: ["does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin", "top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season", "best-blood-sugar-monitoring-practices-during-the-holiday-season"]
+title: >-
+  Can You Safely Use a Continuous Glucose Monitor While Wearing Holiday Sweaters
+  With Metallic Threads or Magnetic Closures?
+slug: >-
+  can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
+description: >-
+  Tests RF interference, sensor adhesion loss, and Bluetooth signal degradation
+  across 12 holiday garment types—includes mitigation tips for older users with
+  dexterity challenges.
+date: '2026-01-01'
+updated: '2026-01-01'
+tags:
+  - CGM interference holiday clothing metallic threads
+  - holiday diabetes management
+  - device-compatibility-lifestyle
+primaryKeyword: CGM interference holiday clothing metallic threads
+topicCluster: device-compatibility-lifestyle
+image: ''
+relatedSlugs:
+  - >-
+    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
+  - >-
+    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
 ---
 
 # Can Holiday Sweaters Really Interfere With Your CGM? What You Need to Know About CGM Interference Holiday Clothing Metallic Threads

@@ -1,14 +1,33 @@
 ---
-title: "Can You Safely Stop ACE Inhibitors After 5 Years of Stable BP Control? A Risk-Benefit Framework for Adults 62–76"
-slug: "can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76"
-description: "Guides shared decision-making using real-world evidence on rebound hypertension risk, renal autoregulation changes, and biomarker monitoring (e.g., plasma renin activity) before deprescribing."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["stopping ace inhibitors safely over 60", "blood pressure", "medication-deprescribing"]
-primaryKeyword: "stopping ace inhibitors safely over 60"
-topicCluster: "medication-deprescribing"
-image: ""
-relatedSlugs: ["does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use", "why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely", "when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68"]
+title: >-
+  Can You Safely Stop ACE Inhibitors After 5 Years of Stable BP Control? A
+  Risk-Benefit Framework for Adults 62–76
+slug: >-
+  can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
+description: >-
+  Guides shared decision-making using real-world evidence on rebound
+  hypertension risk, renal autoregulation changes, and biomarker monitoring
+  (e.g., plasma renin activity) before deprescribing.
+date: '2025-12-26'
+updated: '2025-12-26'
+tags:
+  - stopping ace inhibitors safely over 60
+  - blood pressure
+  - medication-deprescribing
+primaryKeyword: stopping ace inhibitors safely over 60
+topicCluster: medication-deprescribing
+image: ''
+relatedSlugs:
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - >-
+    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
+  - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
+  - >-
+    when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
+  - >-
+    when-should-men-over-75-with-type-2-diabetes-stop-routine-hba1c-screening-a-risk-benefit-framework-for-deprescribing-glycemic-testing
 ---
 
 # Can You Safely Stop ACE Inhibitors After 5 Years of Stable Blood Pressure? A Thoughtful Guide for Adults 62–76
