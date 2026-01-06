@@ -25,6 +25,8 @@ relatedSlugs:
     what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
   - >-
     warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
 ---
 
 # Early Clues of Subclinical Retinal Remodeling in Diabetes—Especially With Beta-Blockers and Age 71+

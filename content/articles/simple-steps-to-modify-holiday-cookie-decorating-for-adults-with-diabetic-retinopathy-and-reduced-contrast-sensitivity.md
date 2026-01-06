@@ -1,14 +1,33 @@
 ---
-title: "Simple Steps to Modify Holiday Cookie Decorating for Adults With Diabetic Retinopathy and Reduced Contrast Sensitivity"
-slug: "simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity"
-description: "Offers tactile, auditory, and high-contrast visual adaptation strategies—including textured icing nozzles, color-coded ingredient bowls, and voice-navigated timers—for safe, independent participation."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["cookie decorating diabetic retinopathy contrast sensitivity", "holiday diabetes management", "vision-adapted-holiday-activities"]
-primaryKeyword: "cookie decorating diabetic retinopathy contrast sensitivity"
-topicCluster: "vision-adapted-holiday-activities"
-image: ""
-relatedSlugs: ["simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection", "simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification", "the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia", "can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide"]
+title: >-
+  Simple Steps to Modify Holiday Cookie Decorating for Adults With Diabetic
+  Retinopathy and Reduced Contrast Sensitivity
+slug: >-
+  simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
+description: >-
+  Offers tactile, auditory, and high-contrast visual adaptation
+  strategies—including textured icing nozzles, color-coded ingredient bowls, and
+  voice-navigated timers—for safe, independent participation.
+date: '2026-01-01'
+updated: '2026-01-01'
+tags:
+  - cookie decorating diabetic retinopathy contrast sensitivity
+  - holiday diabetes management
+  - vision-adapted-holiday-activities
+primaryKeyword: cookie decorating diabetic retinopathy contrast sensitivity
+topicCluster: vision-adapted-holiday-activities
+image: ''
+relatedSlugs:
+  - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
+  - >-
+    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
+  - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
+  - >-
+    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
 ---
 
 # Adapting Holiday Cookie Decorating for Adults With Diabetic Retinopathy and Reduced Contrast Sensitivity

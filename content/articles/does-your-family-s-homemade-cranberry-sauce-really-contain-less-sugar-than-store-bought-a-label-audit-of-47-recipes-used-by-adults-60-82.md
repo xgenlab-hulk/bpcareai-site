@@ -1,14 +1,31 @@
 ---
-title: "Does Your Family’s ‘Homemade’ Cranberry Sauce Really Contain Less Sugar Than Store-Bought? A Label Audit of 47 Recipes Used by Adults 60–82"
-slug: "does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82"
-description: "Reveals surprising sugar concentration data from home recipes (including ‘unsweetened’ versions), with safe reduction thresholds and tartness-balancing workarounds."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["homemade cranberry sauce sugar content", "healthy eating during family gatherings", "recipe-label-audit"]
-primaryKeyword: "homemade cranberry sauce sugar content"
-topicCluster: "recipe-label-audit"
-image: ""
-relatedSlugs: ["7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control", "7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid", "what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel"]
+title: >-
+  Does Your Family’s ‘Homemade’ Cranberry Sauce Really Contain Less Sugar Than
+  Store-Bought? A Label Audit of 47 Recipes Used by Adults 60–82
+slug: >-
+  does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82
+description: >-
+  Reveals surprising sugar concentration data from home recipes (including
+  ‘unsweetened’ versions), with safe reduction thresholds and tartness-balancing
+  workarounds.
+date: '2025-12-27'
+updated: '2025-12-27'
+tags:
+  - homemade cranberry sauce sugar content
+  - healthy eating during family gatherings
+  - recipe-label-audit
+primaryKeyword: homemade cranberry sauce sugar content
+topicCluster: recipe-label-audit
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - >-
+    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
+  - >-
+    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
 ---
 
 # Does Homemade Cranberry Sauce Really Have Less Sugar? A Closer Look at 47 Real Recipes Used by Adults 60–82

@@ -1,14 +1,31 @@
 ---
-title: "What Research Says About Leftover Turkey Consumption and Uric Acid Spikes in Men Over 68 With Asymptomatic Hyperuricemia"
-slug: "what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia"
-description: "Analyzes purine load, cooking method effects (roasted vs. slow-cooked), and co-ingestion factors (alcohol, fructose) that trigger silent gout flares days after gatherings."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["leftover turkey uric acid men over 68", "healthy eating during family gatherings", "gout-risk-prevention"]
-primaryKeyword: "leftover turkey uric acid men over 68"
-topicCluster: "gout-risk-prevention"
-image: ""
-relatedSlugs: ["the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis", "a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease"]
+title: >-
+  What Research Says About Leftover Turkey Consumption and Uric Acid Spikes in
+  Men Over 68 With Asymptomatic Hyperuricemia
+slug: >-
+  what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia
+description: >-
+  Analyzes purine load, cooking method effects (roasted vs. slow-cooked), and
+  co-ingestion factors (alcohol, fructose) that trigger silent gout flares days
+  after gatherings.
+date: '2026-01-05'
+updated: '2026-01-05'
+tags:
+  - leftover turkey uric acid men over 68
+  - healthy eating during family gatherings
+  - gout-risk-prevention
+primaryKeyword: leftover turkey uric acid men over 68
+topicCluster: gout-risk-prevention
+image: ''
+relatedSlugs:
+  - >-
+    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
+  - >-
+    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
+  - >-
+    can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
+  - >-
+    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
 ---
 
 # Understanding Leftover Turkey, Uric Acid, and Silent Gout Risk in Men Over 68
