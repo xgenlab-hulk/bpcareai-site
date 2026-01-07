@@ -1,59 +1,11 @@
 [
   {
-    "title": "When to Eat Before a Family Gathering If You’re on GLP-1 Agonists and Over 65",
-    "description": "Guidance on optimal pre-event meal timing, macronutrient composition, and hydration to prevent nausea, delayed gastric emptying, and postprandial hypoglycemia in older GLP-1 users.",
-    "primaryKeyword": "glp-1 agonist meal timing family gathering",
-    "topicCluster": "medication-nutrition-timing",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:32.281Z"
-  },
-  {
-    "title": "The Truth About 'Gluten-Free' Holiday Breads for Men Over 70 With Silent Celiac Disease and Low B12",
-    "description": "Examines nutrient density gaps, fortification inconsistencies, and cross-contamination risks in store-bought GF holiday loaves—and how they impact B12 absorption and neurological health.",
-    "primaryKeyword": "gluten-free holiday bread b12 deficiency",
-    "topicCluster": "nutrient-absorption-gluten",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:34.887Z"
-  },
-  {
-    "title": "5 Things Everyone Over 62 Should Know About Alcohol Pairing at Family Dinners—Especially With Beta-Blockers or Diuretics",
-    "description": "Covers ethanol’s amplifying effect on orthostatic hypotension, diuretic-induced electrolyte shifts, and delayed hypoglycemia in older adults taking cardiovascular medications.",
-    "primaryKeyword": "alcohol pairing family dinner beta-blockers",
-    "topicCluster": "medication-food-interactions",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:36.141Z"
-  },
-  {
-    "title": "Can You Safely Share a Single Holiday Meal Plate With a Spouse Who Has Stage 3 CKD While You’re Managing Hypertension?",
-    "description": "Evaluates shared-plate risks—including sodium, potassium, and phosphate load mismatches—and offers practical co-meal strategies for mixed-diet households.",
-    "primaryKeyword": "shared holiday meal hypertension ck3",
-    "topicCluster": "dual-diet-household-strategies",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:37.383Z"
-  },
-  {
-    "title": "Warning Signs Your Grandchild’s Leftover Mac and Cheese Is Raising Your Postprandial Triglycerides—Especially After Age 55",
-    "description": "Highlights delayed lipid response symptoms (brain fog, post-meal fatigue, blurred vision), plus how age-related lipoprotein lipase decline makes creamy leftovers uniquely risky.",
-    "primaryKeyword": "mac and cheese postprandial triglycerides",
-    "topicCluster": "lipid-metabolism-aging",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:38.623Z"
-  },
-  {
     "title": "Natural Ways to Support Gastric Emptying After a Heavy Holiday Meal—Without Medication—for Adults 66–81 With Gastroparesis-Like Symptoms",
     "description": "Evidence-based nonpharmacologic methods including positional sequencing, ginger-cumin infusion timing, and paced chewing protocols tested in older adults with delayed gastric motility.",
     "primaryKeyword": "gastric emptying after holiday meal",
     "topicCluster": "digestive-motility-natural-support",
     "coreKeyword": "healthy eating during family gatherings",
     "createdAt": "2026-01-06T03:44:39.960Z"
-  },
-  {
-    "title": "How Emotional Eating Patterns Shift During Multigenerational Gatherings—and Why That Matters for Adults With Long-Standing Type 2 Diabetes",
-    "description": "Analyzes intergenerational triggers (nostalgia, caregiving stress, identity reinforcement), cortisol-mediated glucose dysregulation, and real-world behavioral interventions.",
-    "primaryKeyword": "emotional eating multigenerational gatherings",
-    "topicCluster": "psychosocial-eating-behavior",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:41.212Z"
   },
   {
     "title": "12 Science-Backed Ways to Reduce Post-Holiday Inflammation in Adults 59–76 With Rheumatoid Arthritis",
@@ -70,45 +22,5 @@
     "topicCluster": "neuropathy-food-prep-comparison",
     "coreKeyword": "healthy eating during family gatherings",
     "createdAt": "2026-01-06T03:44:43.705Z"
-  },
-  {
-    "title": "Quick Ways to Normalize Post-Gathering Cortisol Within 45 Minutes Using Breathwork + Cold Facial Immersion—Validated in Adults 60–75",
-    "description": "Presents a field-tested, low-barrier protocol combining 4-7-8 breathing and 15-second cold water splashes to blunt stress-induced glucose spikes and visceral fat signaling.",
-    "primaryKeyword": "normalize cortisol after family gathering",
-    "topicCluster": "stress-physiology-intervention",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:44.915Z"
-  },
-  {
-    "title": "What Are the Earliest Taste Perception Changes That Make Holiday Spices Feel 'Too Strong' After Age 68?",
-    "description": "Discusses age-related olfactory bulb atrophy, zinc-dependent taste receptor decline, and how diminished spice tolerance alters sodium and sugar compensation behaviors.",
-    "primaryKeyword": "taste perception changes holiday spices",
-    "topicCluster": "sensory-nutrition-aging",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:46.130Z"
-  },
-  {
-    "title": "Simple Steps to Modify a Family Recipe for a Loved One With Dysphagia—Without Losing Flavor or Cultural Meaning",
-    "description": "Practical texture-modification framework (viscosity tiers, thermal stability, aroma preservation) for holiday staples like stuffing, gravy, and fruit compote—co-developed with SLPs and elders.",
-    "primaryKeyword": "modify family recipe dysphagia",
-    "topicCluster": "swallowing-safety-culinary-adaptation",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:47.352Z"
-  },
-  {
-    "title": "10 Foods That Support Mitochondrial Resilience During Holiday Stress in Adults 57–74 With Chronic Fatigue",
-    "description": "Highlights mitochondrial cofactor-rich foods (pomegranate, pasture-raised eggs, shiitake, sprouted lentils) and timing strategies to sustain energy amid social exhaustion.",
-    "primaryKeyword": "mitochondrial resilience holiday stress",
-    "topicCluster": "mitochondrial-nutrition-fatigue",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:52.319Z"
-  },
-  {
-    "title": "How Family Mealtime Laughter Affects Gastric Acid Secretion—and Why That Matters for Adults With GERD Over 65",
-    "description": "Explores vagal modulation, diaphragmatic pressure shifts, and real-time pH monitoring data linking social joy to transient acid reflux reduction or exacerbation.",
-    "primaryKeyword": "laughter gastric acid gerd family meals",
-    "topicCluster": "gastrointestinal-psychophysiology",
-    "coreKeyword": "healthy eating during family gatherings",
-    "createdAt": "2026-01-06T03:44:53.538Z"
   }
 ]

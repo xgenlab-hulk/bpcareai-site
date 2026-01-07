@@ -16,60 +16,12 @@
     "createdAt": "2026-01-06T03:46:04.711Z"
   },
   {
-    "title": "The Truth About 'Heart-Healthy' Seed Oils in Diabetic Dyslipidemia: Do Linoleic Acid–Rich Blends Actually Reduce Oxidized LDL in Adults 60–76?",
-    "description": "Evaluates plasma oxLDL, LDL particle size, and postprandial lipid peroxidation after 4 weeks of high–linoleic acid vs. high–oleic acid oil consumption in insulin-resistant adults with mixed dyslipidemia.",
-    "primaryKeyword": "seed oils and oxidized ldl in diabetes",
-    "topicCluster": "lipid-oxidation-nutrition",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:07.208Z"
-  },
-  {
-    "title": "When Should You Suspect Cardiac Amyloidosis in Adults Over 72 With Unexplained Left Ventricular Hypertrophy—And Which Biomarkers Add Value Beyond NT-proBNP?",
-    "description": "Outlines a stepwise diagnostic algorithm—including serum free light chains, bone scintigraphy specificity adjustments, and strain echo patterns—to differentiate AL from ATTR in elderly patients with preserved EF and LVH.",
-    "primaryKeyword": "cardiac amyloidosis diagnosis in elderly",
-    "topicCluster": "diagnostic-algorithm-elderly",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:08.436Z"
-  },
-  {
-    "title": "12 Science-Backed Ways to Reduce Left Atrial Strain Variability During Air Travel for Adults With Paroxysmal AFib and Mild COPD",
-    "description": "Offers practical, physiology-grounded strategies—including cabin humidity hydration targets, in-flight posture sequencing, and timing of anticoagulant doses relative to circadian cortisol peaks—to stabilize LA mechanics mid-flight.",
-    "primaryKeyword": "left atrial strain during air travel",
-    "topicCluster": "afib-travel-physiology",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:09.719Z"
-  },
-  {
     "title": "Why Does Heart Rate Recovery After 6-Minute Walk Testing Predict 5-Year Mortality Better Than Peak VO₂ in Adults 75+ With Heart Failure With Preserved Ejection Fraction?",
     "description": "Examines autonomic, mitochondrial, and skeletal muscle perfusion mechanisms linking abnormal HRR (≤12 bpm at 1 min) to all-cause mortality in HFpEF patients, controlling for frailty and sarcopenia metrics.",
     "primaryKeyword": "heart rate recovery and hfpef mortality",
     "topicCluster": "functional-testing-prognosis",
     "coreKeyword": "heart disease",
     "createdAt": "2026-01-06T03:46:11.048Z"
-  },
-  {
-    "title": "Dangers of Over-the-Counter 'Heart Support' Supplements Containing Hawthorn + Berberine in Adults With Stage 3 CKD and Atrial Fibrillation",
-    "description": "Details documented cases of QT prolongation, hypokalemia exacerbation, and reduced digoxin clearance in CKD stage 3 patients taking herbal combos—plus lab monitoring thresholds and safer alternatives.",
-    "primaryKeyword": "hawthorn berberine and afib in ckid",
-    "topicCluster": "supplement-safety-ckd",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:12.276Z"
-  },
-  {
-    "title": "A vs B: Daily Low-Dose Aspirin vs. Colchicine for Secondary Prevention in Adults 64–79 With Prior Myocardial Infarction and Elevated hs-CRP",
-    "description": "Compares 3-year cardiovascular event rates, GI bleeding risk, and neutrophil extracellular trap (NET) suppression efficacy between aspirin and colchicine in a high-inflammation MI subgroup.",
-    "primaryKeyword": "aspirin vs colchicine secondary prevention",
-    "topicCluster": "antiinflammatory-prevention",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:13.521Z"
-  },
-  {
-    "title": "How Intermittent Silence Exposure (Not Just Meditation) Modulates Vagal Tone and Reduces Nighttime BP Surge in Adults 61–77 With Non-Dipping Hypertension",
-    "description": "Investigates 30-minute daily silent intervals—without guided audio or breathwork—on HRV, salivary alpha-amylase, and nocturnal systolic BP dipping patterns in a double-blind crossover trial.",
-    "primaryKeyword": "intermittent silence and non-dipping bp",
-    "topicCluster": "sensory-environment-autonomic",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:14.763Z"
   },
   {
     "title": "Natural Ways to Enhance Myocardial Nitric Oxide Synthase Coupling Without L-Arginine—Using Beetroot-Derived Nitrate, Exercise Timing, and Oral Microbiome Support in Sedentary Adults 68+",
@@ -88,35 +40,11 @@
     "createdAt": "2026-01-06T03:46:18.772Z"
   },
   {
-    "title": "How Social Isolation Alters Nighttime Heart Rate Variability and Accelerates Coronary Artery Calcification in Men 71–84 Living Alone",
-    "description": "Presents longitudinal data linking loneliness scores, vagal withdrawal during sleep, and annual CAC progression rate—adjusted for physical activity, depression, and sleep apnea severity.",
-    "primaryKeyword": "social isolation and coronary artery calcification",
-    "topicCluster": "psychosocial-calcification",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:21.381Z"
-  },
-  {
-    "title": "Quick Ways to Normalize Morning Cortisol–BP Coupling Within 7 Days Using Dawn Simulation + Protein-First Breakfast in Adults With Morning Hypertension",
-    "description": "Describes a 7-day protocol combining timed 250-lux light exposure, 30g morning protein intake, and delayed caffeine use to restore circadian cortisol-BP phase alignment in non-dippers.",
-    "primaryKeyword": "morning cortisol bp coupling normalization",
-    "topicCluster": "circadian-bp-coupling",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:22.607Z"
-  },
-  {
     "title": "The Ultimate Guide to Interpreting Your Coronary Artery Calcium Score—Including Age- and Sex-Specific Percentile Benchmarks and When to Repeat Scanning",
     "description": "Breaks down CAC score meaning beyond '0 = low risk', including sex-specific risk reclassification thresholds, progression rates that warrant intensification, and optimal repeat intervals by baseline score.",
     "primaryKeyword": "coronary calcium score interpretation guide",
     "topicCluster": "cac-score-interpretation",
     "coreKeyword": "heart disease",
     "createdAt": "2026-01-06T03:46:23.866Z"
-  },
-  {
-    "title": "Simple Changes to Your Evening Light Exposure That Reduce Nocturnal Myocardial Oxygen Demand in Adults With Stable Angina and Sleep-Onset Insomnia",
-    "description": "Details spectral intensity and timing of amber-filtered lighting to suppress melatonin phase delay, lower sympathetic tone, and reduce nocturnal heart rate and BP surges in angina patients.",
-    "primaryKeyword": "evening light exposure angina oxygen demand",
-    "topicCluster": "light-angina-physiology",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:26.476Z"
   }
 ]
