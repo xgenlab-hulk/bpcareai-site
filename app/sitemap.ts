@@ -42,6 +42,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'yearly' as const,
       priority: 0.5,
     },
+    {
+      url: `${baseUrl}/data-deletion`,
+      lastModified: new Date(),
+      changeFrequency: 'yearly' as const,
+      priority: 0.5,
+    },
   ];
 
   // 文章页面
