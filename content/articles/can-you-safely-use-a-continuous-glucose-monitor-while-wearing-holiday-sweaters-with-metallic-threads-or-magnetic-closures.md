@@ -25,6 +25,8 @@ relatedSlugs:
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
     a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
+  - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
 ---
 
 # Can Holiday Sweaters Really Interfere With Your CGM? What You Need to Know About CGM Interference Holiday Clothing Metallic Threads

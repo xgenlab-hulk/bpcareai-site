@@ -1,35 +1,11 @@
 [
   {
-    "title": "What Are the Earliest Retinal Microvascular Changes Predicting Incident Heart Failure in Hypertensive Women Over 65?",
-    "description": "Analyzes retinal photography biomarkers—such as arteriolar narrowing, venular widening, and fractal dimension loss—as preclinical predictors of heart failure development over 5 years in women with stage 1–2 hypertension.",
-    "primaryKeyword": "retinal changes predicting heart failure",
-    "topicCluster": "ophthalmic-biomarkers",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:03.460Z"
-  },
-  {
-    "title": "7 Underrecognized Triggers of Nocturnal ST-Segment Depression in Adults With Nonobstructive CAD—Identified via Home-Based ECG Patch Monitoring",
-    "description": "Identifies non-ischemic but clinically significant nocturnal ECG changes (e.g., gastric reflux, REM-sleep apnea surges, supine volume shifts) using 14-day wearable ECG data from 412 adults aged 55–82.",
-    "primaryKeyword": "nocturnal st-segment depression triggers",
-    "topicCluster": "nocturnal-ischemia-triggers",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:04.711Z"
-  },
-  {
     "title": "Why Does Heart Rate Recovery After 6-Minute Walk Testing Predict 5-Year Mortality Better Than Peak VO₂ in Adults 75+ With Heart Failure With Preserved Ejection Fraction?",
     "description": "Examines autonomic, mitochondrial, and skeletal muscle perfusion mechanisms linking abnormal HRR (≤12 bpm at 1 min) to all-cause mortality in HFpEF patients, controlling for frailty and sarcopenia metrics.",
     "primaryKeyword": "heart rate recovery and hfpef mortality",
     "topicCluster": "functional-testing-prognosis",
     "coreKeyword": "heart disease",
     "createdAt": "2026-01-06T03:46:11.048Z"
-  },
-  {
-    "title": "Natural Ways to Enhance Myocardial Nitric Oxide Synthase Coupling Without L-Arginine—Using Beetroot-Derived Nitrate, Exercise Timing, and Oral Microbiome Support in Sedentary Adults 68+",
-    "description": "Explains how oral nitrate-reducing bacteria, diurnal exercise windows, and polyphenol-rich prebiotics improve eNOS coupling and coronary flow reserve—without supplemental L-arginine which may worsen uncoupling.",
-    "primaryKeyword": "nitric oxide coupling without l-arginine",
-    "topicCluster": "endothelial-nitric-oxide",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-06T03:46:17.453Z"
   },
   {
     "title": "What Research Says About Fasting-Mimicking Diet Cycles and Coronary Plaque Stabilization in Adults With High-Risk Lipid Profiles (Lp(a) > 50 mg/dL)",

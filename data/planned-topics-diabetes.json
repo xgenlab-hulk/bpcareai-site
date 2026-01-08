@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "7 Hidden Signs Your Dentist Should Know You Have Undiagnosed Diabetes—Especially If You’re a Woman Over 62",
+    "description": "Details oral manifestations of early-stage diabetes (e.g., burning mouth syndrome, refractory periodontitis, salivary hypofunction) that dentists may misattribute to aging or menopause.",
+    "primaryKeyword": "oral signs of undiagnosed diabetes in women over 62",
+    "topicCluster": "dental-oral-health",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-08T03:47:13.900Z"
+  },
+  {
+    "title": "A vs B: Plant-Based Low-Glycemic Meal Plans vs Mediterranean-Style Diets for Slowing Diabetic Neuropathy Progression in Men 67–79",
+    "description": "Compares two evidence-backed dietary patterns for nerve health outcomes—focusing on nerve conduction velocity, small-fiber density, and symptom burden over 6 months.",
+    "primaryKeyword": "plant-based vs mediterranean diet for diabetic neuropathy",
+    "topicCluster": "diet-neuropathy",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-08T03:47:16.601Z"
+  },
+  {
+    "title": "The Truth About 'Sugar-Free' Cough Drops for Adults With Type 1 Diabetes Over 60—Do Sugar Alcohols Like Isomalt Raise Blood Glucose?",
+    "description": "Analyzes glycemic impact, laxative thresholds, and insulin dosing considerations for common OTC cough suppressants containing maltitol, isomalt, and erythritol in aging T1D.",
+    "primaryKeyword": "sugar-free cough drops and blood sugar in seniors",
+    "topicCluster": "otc-medications",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-08T03:47:20.507Z"
+  },
+  {
+    "title": "How Chronic Low-Grade Inflammation From Gum Disease Accelerates Diabetic Kidney Disease in Adults 55–73 With Albuminuria",
+    "description": "Connects periodontal pathogen load (e.g., P. gingivalis), systemic IL-6/TNF-α elevation, and glomerular endothelial injury—plus practical dental-integration protocols for nephrology clinics.",
+    "primaryKeyword": "gum disease and diabetic kidney disease progression",
+    "topicCluster": "periodontal-kidney-link",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-08T03:47:21.803Z"
+  },
+  {
+    "title": "Natural Ways to Support Pancreatic Beta-Cell Resilience After Age 59—Using Time-Restricted Eating, Zinc-Rich Foods, and Berberine Timing",
+    "description": "Focuses on beta-cell preservation strategies grounded in human trials—not reversal—highlighting circadian alignment, micronutrient repletion, and pharmacokinetic synergy.",
+    "primaryKeyword": "beta-cell resilience in aging prediabetes",
+    "topicCluster": "beta-cell-protection",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-08T03:47:24.404Z"
+  },
+  {
+    "title": "Warning Signs Your 'Mild' Diabetic Gastroparesis Is Causing Nocturnal Hypoglycemia—Especially If You’re on Basal Insulin Over 68",
+    "description": "Highlights delayed gastric emptying–induced mismatched insulin peaks, erratic post-meal glucose curves, and unrecognized nighttime lows masked by sleep or dementia-related apathy.",
+    "primaryKeyword": "gastroparesis and nocturnal hypoglycemia in seniors",
+    "topicCluster": "gastrointestinal-complications",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-08T03:47:27.090Z"
+  },
+  {
+    "title": "How Sleep Apnea Severity Modulates Insulin Clearance in Adults With Type 2 Diabetes and BMI >30—A Mechanistic Breakdown for Ages 54–71",
+    "description": "Explains how intermittent hypoxia reduces hepatic insulin degradation, increases insulin resistance, and blunts GLP-1 response—plus CPAP adherence impact on glycemic variability.",
+    "primaryKeyword": "sleep apnea and insulin clearance in diabetics",
+    "topicCluster": "sleep-apnea-metabolism",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-08T03:47:28.411Z"
+  },
+  {
+    "title": "Can You Safely Take Berberine With Metformin If You’re Over 74 and Have Mild Liver Fibrosis? What ALT/AST and FibroScan Data Reveal",
+    "description": "Evaluates herb-drug interaction risks, mitochondrial stress markers, and hepatic safety thresholds using real-world liver enzyme trends—not just clinical trial exclusions.",
+    "primaryKeyword": "berberine and metformin in elderly with liver fibrosis",
+    "topicCluster": "herb-drug-interactions",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-08T03:47:33.725Z"
+  },
+  {
+    "title": "10 Foods That Improve Peripheral Nerve Oxygenation in Adults With Diabetic Polyneuropathy Over 69—Backed by Near-Infrared Spectroscopy Data",
+    "description": "Highlights nitrate-rich greens, heme iron sources, and flavonoid-dense berries shown to increase tissue oxygen saturation (StO₂) in lower-limb nerves via NIRS imaging.",
+    "primaryKeyword": "foods for nerve oxygenation in diabetic neuropathy",
+    "topicCluster": "nerve-oxygenation",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-08T03:47:35.037Z"
+  }
+]

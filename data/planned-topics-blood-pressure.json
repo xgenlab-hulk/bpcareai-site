@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "title": "Can Daily 5-Minute Isometric Handgrip Training Lower Ambulatory Diastolic BP in Sedentary Women 63–71 Within 10 Days?",
+    "description": "Reviews recent RCT evidence on brief, equipment-free isometric exercise as a rapid-onset, nonpharmacologic strategy specifically for diastolic control in postmenopausal women.",
+    "primaryKeyword": "isometric handgrip diastolic blood pressure women",
+    "topicCluster": "exercise-intervention",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-08T03:45:24.528Z"
+  },
+  {
+    "title": "When to Suspect Pheochromocytoma-Related Hypertension Fluctuations in Adults 58–74 With Episodic Palpitations and Normotensive Intervals",
+    "description": "Guides recognition of atypical paroxysmal blood pressure surges—including diurnal timing, orthostatic patterns, and non-classic triggers—beyond textbook 'spells'.",
+    "primaryKeyword": "pheochromocytoma hypertension fluctuations episodic palpitations",
+    "topicCluster": "secondary-hypertension-detection",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-08T03:45:28.439Z"
+  },
+  {
+    "title": "12 Science-Backed Ways to Stabilize Morning Blood Pressure Spikes Without Increasing Beta-Blocker Dose in Adults 66–79",
+    "description": "Presents nonpharmacologic timing interventions—including pre-awakening hydration, timed light exposure, and targeted respiratory pacing—validated in morning-hypertension cohorts.",
+    "primaryKeyword": "stabilize morning blood pressure spikes nonpharmacologic",
+    "topicCluster": "morning-hypertension-management",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-08T03:45:31.057Z"
+  },
+  {
+    "title": "Natural Ways to Support Arterial Stiffness Reduction in 8–12 Weeks Using Targeted Flavonoid Timing and Pulse Wave Velocity Feedback in Adults 64–80",
+    "description": "Details a protocol combining timed cocoa flavanol intake, nitrate-rich greens, and real-time PWV biofeedback to measurably improve aortic compliance.",
+    "primaryKeyword": "arterial stiffness reduction flavonoid timing pwv",
+    "topicCluster": "vascular-compliance-intervention",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-08T03:45:33.669Z"
+  },
+  {
+    "title": "How Gut Microbiome Diversity at Baseline Predicts 6-Month BP Response to Dietary Sodium Restriction in Adults 59–77 With Salt-Sensitive Hypertension",
+    "description": "Synthesizes emerging evidence linking specific microbial taxa (e.g., *Prevotella*-to-*Bacteroides* ratio) with differential renin–angiotensin modulation during sodium reduction.",
+    "primaryKeyword": "gut microbiome sodium restriction bp response",
+    "topicCluster": "microbiome-hypertension-link",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-08T03:45:36.324Z"
+  },
+  {
+    "title": "What Causes 'White-Coat Normotension'—When Clinic Readings Are Normal but Ambulatory Monitoring Shows Stage 1 Hypertension in Adults 61–75?",
+    "description": "Investigates under-recognized contributors including clinic anxiety-induced vagal dominance, reverse white-coat effect, and measurement timing relative to circadian trough.",
+    "primaryKeyword": "white-coat normotension ambulatory hypertension",
+    "topicCluster": "diagnostic-paradox",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-08T03:45:38.971Z"
+  },
+  {
+    "title": "Warning Signs Your Blood Pressure Monitor’s Cuff Size Is Too Small—Especially If You Have Upper-Arm Circumference >34 cm and Mild Lymphedema",
+    "description": "Explains how under-cuffing inflates readings, masks true diastolic elevation, and interacts with interstitial fluid shifts in lymphedematous tissue.",
+    "primaryKeyword": "blood pressure cuff size lymphedema",
+    "topicCluster": "measurement-error-red-flags",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-08T03:45:41.542Z"
+  },
+  {
+    "title": "Does Daily 15-Minute Guided Imagery Lower 24-Hour Mean Arterial Pressure in Adults 69–83 With Treatment-Resistant Hypertension?",
+    "description": "Breaks down a 2024 pragmatic trial assessing neural modulation of sympathetic outflow via structured mental visualization, independent of breathing cues.",
+    "primaryKeyword": "guided imagery mean arterial pressure resistant hypertension",
+    "topicCluster": "mind-body-intervention",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-08T03:45:42.992Z"
+  },
+  {
+    "title": "5 Things Everyone Over 70 Should Know About Blood Pressure Medication Timing When Taking Levothyroxine and Calcium Supplements",
+    "description": "Clarifies absorption interference windows, optimal dosing sequences, and BP monitoring windows to avoid misattributing variability to medication failure.",
+    "primaryKeyword": "bp medication timing levothyroxine calcium",
+    "topicCluster": "polypharmacy-timing",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-08T03:45:45.645Z"
+  },
+  {
+    "title": "Myths vs Facts: 'My Blood Pressure Is Fine Because I Feel Fine' in Adults With Isolated Systolic Hypertension Over 65",
+    "description": "Debunks symptom-blindness misconceptions using data on silent vascular remodeling, retinal arteriolar narrowing, and pulse pressure–driven cardiac strain.",
+    "primaryKeyword": "isolated systolic hypertension symptom-blindness",
+    "topicCluster": "myth-busting-symptom-perception",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-08T03:45:46.920Z"
+  }
+]

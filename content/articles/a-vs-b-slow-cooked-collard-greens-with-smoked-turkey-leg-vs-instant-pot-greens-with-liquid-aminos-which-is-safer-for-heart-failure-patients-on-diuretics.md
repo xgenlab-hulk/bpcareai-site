@@ -25,6 +25,8 @@ relatedSlugs:
     best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
   - >-
     a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
+  - >-
+    a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
 ---
 
 # Collard Greens Heart Failure Diuretics Comparison: Which Cooking Method Is Better for Your Heart?
