@@ -1,14 +1,34 @@
 ---
-title: "How Chronic Gum Infections Alter Coronary Artery Endothelial Function in Adults 58–74 With Stable Angina—New Imaging Evidence from the PERIODONT-HEART Trial"
-slug: "how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial"
-description: "Explores the mechanistic link between periodontitis and microvascular dysfunction in coronary arteries, using contrast-enhanced MRI and flow-mediated dilation data from a 2023 longitudinal cohort study."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["gum disease and coronary artery function", "heart disease", "inflammation-microvascular-link"]
-primaryKeyword: "gum disease and coronary artery function"
-topicCluster: "inflammation-microvascular-link"
-image: ""
-relatedSlugs: ["how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense", "how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70", "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals"]
+title: >-
+  How Chronic Gum Infections Alter Coronary Artery Endothelial Function in
+  Adults 58–74 With Stable Angina—New Imaging Evidence from the PERIODONT-HEART
+  Trial
+slug: >-
+  how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial
+description: >-
+  Explores the mechanistic link between periodontitis and microvascular
+  dysfunction in coronary arteries, using contrast-enhanced MRI and
+  flow-mediated dilation data from a 2023 longitudinal cohort study.
+date: '2026-01-06'
+updated: '2026-01-06'
+tags:
+  - gum disease and coronary artery function
+  - heart disease
+  - inflammation-microvascular-link
+primaryKeyword: gum disease and coronary artery function
+topicCluster: inflammation-microvascular-link
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+  - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
 ---
 
 # How Gum Disease and Coronary Artery Function Are Connected—What New Research Means for Adults Over 55

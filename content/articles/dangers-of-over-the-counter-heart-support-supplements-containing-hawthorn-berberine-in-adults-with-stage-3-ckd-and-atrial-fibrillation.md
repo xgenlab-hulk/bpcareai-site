@@ -1,14 +1,27 @@
 ---
-title: "Dangers of Over-the-Counter 'Heart Support' Supplements Containing Hawthorn + Berberine in Adults With Stage 3 CKD and Atrial Fibrillation"
-slug: "dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation"
-description: "Details documented cases of QT prolongation, hypokalemia exacerbation, and reduced digoxin clearance in CKD stage 3 patients taking herbal combos—plus lab monitoring thresholds and safer alternatives."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["hawthorn berberine and afib in ckid", "heart disease", "supplement-safety-ckd"]
-primaryKeyword: "hawthorn berberine and afib in ckid"
-topicCluster: "supplement-safety-ckd"
-image: ""
-relatedSlugs: ["the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications"]
+title: >-
+  Dangers of Over-the-Counter 'Heart Support' Supplements Containing Hawthorn +
+  Berberine in Adults With Stage 3 CKD and Atrial Fibrillation
+slug: >-
+  dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation
+description: >-
+  Details documented cases of QT prolongation, hypokalemia exacerbation, and
+  reduced digoxin clearance in CKD stage 3 patients taking herbal combos—plus
+  lab monitoring thresholds and safer alternatives.
+date: '2026-01-07'
+updated: '2026-01-07'
+tags:
+  - hawthorn berberine and afib in ckid
+  - heart disease
+  - supplement-safety-ckd
+primaryKeyword: hawthorn berberine and afib in ckid
+topicCluster: supplement-safety-ckd
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+  - >-
+    can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal
 ---
 
 # Understanding the Risks of Hawthorn Berberine and Afib in CKD: A Guide for Adults With Stage 3 Chronic Kidney Disease

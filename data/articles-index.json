@@ -1,5 +1,648 @@
 [
   {
+    "slug": "why-your-holiday-fruitcake-may-be-raising-your-fasting-glucose-even-if-it-s-no-sugar-added",
+    "title": "Why Your Holiday Fruitcake May Be Raising Your Fasting Glucose—Even If It’s 'No-Sugar-Added'",
+    "description": "Breaks down how concentrated dried fruits, fructose-rich syrups, and resistant starch breakdown in aged cakes impact overnight glycemia—and offers lab-validated substitution ratios for safer traditional recipes.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "fruitcake fasting glucose seniors",
+      "healthy holiday eating for seniors",
+      "glycemic-impact-holiday-foods"
+    ],
+    "primaryKeyword": "fruitcake fasting glucose seniors",
+    "topicCluster": "glycemic-impact-holiday-foods",
+    "image": "",
+    "relatedSlugs": [
+      "7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid",
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes",
+      "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes",
+      "the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76"
+    ]
+  },
+  {
+    "slug": "why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction",
+    "title": "Why Does Heart Rate Recovery After 6-Minute Walk Testing Predict 5-Year Mortality Better Than Peak VO₂ in Adults 75+ With Heart Failure With Preserved Ejection Fraction?",
+    "description": "Examines autonomic, mitochondrial, and skeletal muscle perfusion mechanisms linking abnormal HRR (≤12 bpm at 1 min) to all-cause mortality in HFpEF patients, controlling for frailty and sarcopenia metrics.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "heart rate recovery and hfpef mortality",
+      "heart disease",
+      "functional-testing-prognosis"
+    ],
+    "primaryKeyword": "heart rate recovery and hfpef mortality",
+    "topicCluster": "functional-testing-prognosis",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear",
+      "myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge"
+    ]
+  },
+  {
+    "slug": "when-to-suspect-pheochromocytoma-related-hypertension-fluctuations-in-adults-58-74-with-episodic-palpitations-and-normotensive-intervals",
+    "title": "When to Suspect Pheochromocytoma-Related Hypertension Fluctuations in Adults 58–74 With Episodic Palpitations and Normotensive Intervals",
+    "description": "Guides recognition of atypical paroxysmal blood pressure surges—including diurnal timing, orthostatic patterns, and non-classic triggers—beyond textbook 'spells'.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "pheochromocytoma hypertension fluctuations episodic palpitations",
+      "blood pressure",
+      "secondary-hypertension-detection"
+    ],
+    "primaryKeyword": "pheochromocytoma hypertension fluctuations episodic palpitations",
+    "topicCluster": "secondary-hypertension-detection",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss",
+      "why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68",
+      "how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60",
+      "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve",
+      "7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65"
+    ]
+  },
+  {
+    "slug": "when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead",
+    "title": "When to Skip the Holiday Buffet Line If You’re on Warfarin and Over 70—And What to Eat Instead",
+    "description": "Guidance on vitamin K–rich holiday dishes to avoid (or carefully portion) when anticoagulated, plus 5 plate-balanced alternatives that maintain INR stability and reduce fall-risk fatigue.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "warfarin holiday buffet seniors",
+      "healthy holiday eating for seniors",
+      "anticoagulation-nutrition-safety"
+    ],
+    "primaryKeyword": "warfarin holiday buffet seniors",
+    "topicCluster": "anticoagulation-nutrition-safety",
+    "image": "",
+    "relatedSlugs": [
+      "12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead",
+      "can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking",
+      "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60",
+      "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals",
+      "the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies"
+    ]
+  },
+  {
+    "slug": "what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl",
+    "title": "What Research Says About Fasting-Mimicking Diet Cycles and Coronary Plaque Stabilization in Adults With High-Risk Lipid Profiles (Lp(a) > 50 mg/dL)",
+    "description": "Synthesizes data from the FMD-PLAQUE trial on changes in plaque lipid core volume, macrophage activity (via 18F-FDG PET), and circulating S100A12 after three 5-day fasting-mimicking cycles.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "fasting mimicking diet and plaque stability",
+      "heart disease",
+      "plaque-stabilization-nutrition"
+    ],
+    "primaryKeyword": "fasting mimicking diet and plaque stability",
+    "topicCluster": "plaque-stabilization-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50"
+    ]
+  },
+  {
+    "slug": "what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75",
+    "title": "What Causes 'White-Coat Normotension'—When Clinic Readings Are Normal but Ambulatory Monitoring Shows Stage 1 Hypertension in Adults 61–75?",
+    "description": "Investigates under-recognized contributors including clinic anxiety-induced vagal dominance, reverse white-coat effect, and measurement timing relative to circadian trough.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "white-coat normotension ambulatory hypertension",
+      "blood pressure",
+      "diagnostic-paradox"
+    ],
+    "primaryKeyword": "white-coat normotension ambulatory hypertension",
+    "topicCluster": "diagnostic-paradox",
+    "image": "",
+    "relatedSlugs": [
+      "why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68",
+      "a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79",
+      "myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers",
+      "why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70",
+      "5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk"
+    ]
+  },
+  {
+    "slug": "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68",
+    "title": "Warning Signs Your 'Mild' Diabetic Gastroparesis Is Causing Nocturnal Hypoglycemia—Especially If You’re on Basal Insulin Over 68",
+    "description": "Highlights delayed gastric emptying–induced mismatched insulin peaks, erratic post-meal glucose curves, and unrecognized nighttime lows masked by sleep or dementia-related apathy.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "gastroparesis and nocturnal hypoglycemia in seniors",
+      "diabetes",
+      "gastrointestinal-complications"
+    ],
+    "primaryKeyword": "gastroparesis and nocturnal hypoglycemia in seniors",
+    "topicCluster": "gastrointestinal-complications",
+    "image": "",
+    "relatedSlugs": [
+      "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks",
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75",
+      "5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin",
+      "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes",
+      "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68"
+    ]
+  },
+  {
+    "slug": "warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema",
+    "title": "Warning Signs Your Blood Pressure Monitor’s Cuff Size Is Too Small—Especially If You Have Upper-Arm Circumference >34 cm and Mild Lymphedema",
+    "description": "Explains how under-cuffing inflates readings, masks true diastolic elevation, and interacts with interstitial fluid shifts in lymphedematous tissue.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "blood pressure cuff size lymphedema",
+      "blood pressure",
+      "measurement-error-red-flags"
+    ],
+    "primaryKeyword": "blood pressure cuff size lymphedema",
+    "topicCluster": "measurement-error-red-flags",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation",
+      "a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better",
+      "quick-ways-to-calibrate-your-home-blood-pressure-cuff-using-the-triple-reading-posture-reset-validated-in-adults-with-arthritis-and-limited-shoulder-mobility",
+      "dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands"
+    ]
+  },
+  {
+    "slug": "the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning",
+    "title": "The Ultimate Guide to Interpreting Your Coronary Artery Calcium Score—Including Age- and Sex-Specific Percentile Benchmarks and When to Repeat Scanning",
+    "description": "Breaks down CAC score meaning beyond '0 = low risk', including sex-specific risk reclassification thresholds, progression rates that warrant intensification, and optimal repeat intervals by baseline score.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "coronary calcium score interpretation guide",
+      "heart disease",
+      "cac-score-interpretation"
+    ],
+    "primaryKeyword": "coronary calcium score interpretation guide",
+    "topicCluster": "cac-score-interpretation",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100"
+    ]
+  },
+  {
+    "slug": "the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr",
+    "title": "The Truth About 'Sugar-Free' Holiday Cookies for Adults With Stage 2 CKD and Preserved eGFR",
+    "description": "Debunks marketing claims around sugar alcohols and artificial sweeteners in festive baked goods—and reveals which alternatives (e.g., low-potassium erythritol blends) are truly kidney-safe for older adults managing phosphorus and potassium.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "sugar-free cookies stage 2 ckid seniors",
+      "healthy holiday eating for seniors",
+      "renal-diet-sweeteners"
+    ],
+    "primaryKeyword": "sugar-free cookies stage 2 ckid seniors",
+    "topicCluster": "renal-diet-sweeteners",
+    "image": "",
+    "relatedSlugs": [
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging",
+      "the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors",
+      "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd",
+      "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70"
+    ]
+  },
+  {
+    "slug": "the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose",
+    "title": "The Truth About 'Sugar-Free' Cough Drops for Adults With Type 1 Diabetes Over 60—Do Sugar Alcohols Like Isomalt Raise Blood Glucose?",
+    "description": "Analyzes glycemic impact, laxative thresholds, and insulin dosing considerations for common OTC cough suppressants containing maltitol, isomalt, and erythritol in aging T1D.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "sugar-free cough drops and blood sugar in seniors",
+      "diabetes",
+      "otc-medications"
+    ],
+    "primaryKeyword": "sugar-free cough drops and blood sugar in seniors",
+    "topicCluster": "otc-medications",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors",
+      "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose",
+      "the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76",
+      "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging",
+      "does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely"
+    ]
+  },
+  {
+    "slug": "quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook",
+    "title": "Quick Ways to Adjust Portion Sizes for Seniors With Early Sarcopenia—Without Offending the Cook",
+    "description": "Actionable, culturally sensitive strategies (visual cues, plate swapping, strategic timing) to reduce calorie density while preserving protein and micronutrient intake—ideal for adults 65–82 experiencing age-related muscle loss.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "portion control sarcopenia seniors",
+      "healthy holiday eating for seniors",
+      "muscle-preserving-nutrition"
+    ],
+    "primaryKeyword": "portion control sarcopenia seniors",
+    "topicCluster": "muscle-preserving-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60",
+      "portion-control-strategies-for-large-family-meals-that-work",
+      "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60",
+      "5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily",
+      "how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing",
+    "title": "Natural Ways to Support Pancreatic Beta-Cell Resilience After Age 59—Using Time-Restricted Eating, Zinc-Rich Foods, and Berberine Timing",
+    "description": "Focuses on beta-cell preservation strategies grounded in human trials—not reversal—highlighting circadian alignment, micronutrient repletion, and pharmacokinetic synergy.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "beta-cell resilience in aging prediabetes",
+      "diabetes",
+      "beta-cell-protection"
+    ],
+    "primaryKeyword": "beta-cell resilience in aging prediabetes",
+    "topicCluster": "beta-cell-protection",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns",
+      "natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes",
+      "can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown",
+      "what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time",
+      "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80",
+    "title": "Natural Ways to Support Arterial Stiffness Reduction in 8–12 Weeks Using Targeted Flavonoid Timing and Pulse Wave Velocity Feedback in Adults 64–80",
+    "description": "Details a protocol combining timed cocoa flavanol intake, nitrate-rich greens, and real-time PWV biofeedback to measurably improve aortic compliance.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "arterial stiffness reduction flavonoid timing pwv",
+      "blood pressure",
+      "vascular-compliance-intervention"
+    ],
+    "primaryKeyword": "arterial stiffness reduction flavonoid timing pwv",
+    "topicCluster": "vascular-compliance-intervention",
+    "image": "",
+    "relatedSlugs": [
+      "can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71",
+      "a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness",
+      "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55",
+      "12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp",
+      "quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension"
+    ]
+  },
+  {
+    "slug": "myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65",
+    "title": "Myths vs Facts: 'My Blood Pressure Is Fine Because I Feel Fine' in Adults With Isolated Systolic Hypertension Over 65",
+    "description": "Debunks symptom-blindness misconceptions using data on silent vascular remodeling, retinal arteriolar narrowing, and pulse pressure–driven cardiac strain.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "isolated systolic hypertension symptom-blindness",
+      "blood pressure",
+      "myth-busting-symptom-perception"
+    ],
+    "primaryKeyword": "isolated systolic hypertension symptom-blindness",
+    "topicCluster": "myth-busting-symptom-perception",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74",
+      "how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75",
+      "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62",
+      "blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think",
+      "why-blood-pressure-matters-even-if-you-feel-fine"
+    ]
+  },
+  {
+    "slug": "how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71",
+    "title": "How Sleep Apnea Severity Modulates Insulin Clearance in Adults With Type 2 Diabetes and BMI >30—A Mechanistic Breakdown for Ages 54–71",
+    "description": "Explains how intermittent hypoxia reduces hepatic insulin degradation, increases insulin resistance, and blunts GLP-1 response—plus CPAP adherence impact on glycemic variability.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "sleep apnea and insulin clearance in diabetics",
+      "diabetes",
+      "sleep-apnea-metabolism"
+    ],
+    "primaryKeyword": "sleep apnea and insulin clearance in diabetics",
+    "topicCluster": "sleep-apnea-metabolism",
+    "image": "",
+    "relatedSlugs": [
+      "5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin",
+      "how-sleep-apnea-impacts-type-2-diabetes-control-after-50",
+      "7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis",
+      "when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension",
+      "how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough"
+    ]
+  },
+  {
+    "slug": "how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension",
+    "title": "How Gut Microbiome Diversity at Baseline Predicts 6-Month BP Response to Dietary Sodium Restriction in Adults 59–77 With Salt-Sensitive Hypertension",
+    "description": "Synthesizes emerging evidence linking specific microbial taxa (e.g., *Prevotella*-to-*Bacteroides* ratio) with differential renin–angiotensin modulation during sodium reduction.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "gut microbiome sodium restriction bp response",
+      "blood pressure",
+      "microbiome-hypertension-link"
+    ],
+    "primaryKeyword": "gut microbiome sodium restriction bp response",
+    "topicCluster": "microbiome-hypertension-link",
+    "image": "",
+    "relatedSlugs": [
+      "how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it",
+      "how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65",
+      "blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t",
+      "natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema",
+      "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now"
+    ]
+  },
+  {
+    "slug": "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria",
+    "title": "How Chronic Low-Grade Inflammation From Gum Disease Accelerates Diabetic Kidney Disease in Adults 55–73 With Albuminuria",
+    "description": "Connects periodontal pathogen load (e.g., P. gingivalis), systemic IL-6/TNF-α elevation, and glomerular endothelial injury—plus practical dental-integration protocols for nephrology clinics.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "gum disease and diabetic kidney disease progression",
+      "diabetes",
+      "periodontal-kidney-link"
+    ],
+    "primaryKeyword": "gum disease and diabetic kidney disease progression",
+    "topicCluster": "periodontal-kidney-link",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70",
+      "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense",
+      "how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp",
+      "how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough",
+      "how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial"
+    ]
+  },
+  {
+    "slug": "how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk",
+    "title": "How Chronic Loneliness Alters Heart Rate Variability in Adults 65+—And Why That Predicts 5-Year Cardiovascular Mortality Risk",
+    "description": "Explores the autonomic nervous system impact of social isolation on heart health, citing longitudinal data linking HRV decline to incident heart failure and sudden cardiac death in older adults without prior CVD.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "loneliness and heart rate variability seniors",
+      "heart health",
+      "emotional-health-autonomic-function"
+    ],
+    "primaryKeyword": "loneliness and heart rate variability seniors",
+    "topicCluster": "emotional-health-autonomic-function",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone",
+      "how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk",
+      "how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone",
+      "how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone"
+    ]
+  },
+  {
+    "slug": "does-daily-15-minute-guided-imagery-lower-24-hour-mean-arterial-pressure-in-adults-69-83-with-treatment-resistant-hypertension",
+    "title": "Does Daily 15-Minute Guided Imagery Lower 24-Hour Mean Arterial Pressure in Adults 69–83 With Treatment-Resistant Hypertension?",
+    "description": "Breaks down a 2024 pragmatic trial assessing neural modulation of sympathetic outflow via structured mental visualization, independent of breathing cues.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "guided imagery mean arterial pressure resistant hypertension",
+      "blood pressure",
+      "mind-body-intervention"
+    ],
+    "primaryKeyword": "guided imagery mean arterial pressure resistant hypertension",
+    "topicCluster": "mind-body-intervention",
+    "image": "",
+    "relatedSlugs": [
+      "quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension",
+      "12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults",
+      "quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety",
+      "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension",
+      "how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension"
+    ]
+  },
+  {
+    "slug": "can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal",
+    "title": "Can You Safely Take Berberine With Metformin If You’re Over 74 and Have Mild Liver Fibrosis? What ALT/AST and FibroScan Data Reveal",
+    "description": "Evaluates herb-drug interaction risks, mitochondrial stress markers, and hepatic safety thresholds using real-world liver enzyme trends—not just clinical trial exclusions.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "berberine and metformin in elderly with liver fibrosis",
+      "diabetes",
+      "herb-drug-interactions"
+    ],
+    "primaryKeyword": "berberine and metformin in elderly with liver fibrosis",
+    "topicCluster": "herb-drug-interactions",
+    "image": "",
+    "relatedSlugs": [
+      "dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation",
+      "is-metformin-still-safe-for-diabetics-over-70",
+      "the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications"
+    ]
+  },
+  {
+    "slug": "can-daily-5-minute-isometric-handgrip-training-lower-ambulatory-diastolic-bp-in-sedentary-women-63-71-within-10-days",
+    "title": "Can Daily 5-Minute Isometric Handgrip Training Lower Ambulatory Diastolic BP in Sedentary Women 63–71 Within 10 Days?",
+    "description": "Reviews recent RCT evidence on brief, equipment-free isometric exercise as a rapid-onset, nonpharmacologic strategy specifically for diastolic control in postmenopausal women.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "isometric handgrip diastolic blood pressure women",
+      "blood pressure",
+      "exercise-intervention"
+    ],
+    "primaryKeyword": "isometric handgrip diastolic blood pressure women",
+    "topicCluster": "exercise-intervention",
+    "image": "",
+    "relatedSlugs": [
+      "quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74",
+      "quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension",
+      "best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension",
+      "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats",
+      "natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension"
+    ]
+  },
+  {
+    "slug": "a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain",
+    "title": "A vs B: Traditional Sweet Potato Casserole vs Roasted Sweet Potato Medley for Adults With Peripheral Neuropathy and Early Nerve Pain",
+    "description": "Compares glycemic load, advanced glycation end-product (AGE) formation, and antioxidant retention between baked vs roasted preparation methods and topping choices.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "sweet potato casserole vs roasted neuropathy",
+      "healthy eating during family gatherings",
+      "neuropathy-food-prep-comparison"
+    ],
+    "primaryKeyword": "sweet potato casserole vs roasted neuropathy",
+    "topicCluster": "neuropathy-food-prep-comparison",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd",
+      "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd",
+      "7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish",
+      "best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes",
+      "a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79"
+    ]
+  },
+  {
+    "slug": "a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79",
+    "title": "A vs B: Plant-Based Low-Glycemic Meal Plans vs Mediterranean-Style Diets for Slowing Diabetic Neuropathy Progression in Men 67–79",
+    "description": "Compares two evidence-backed dietary patterns for nerve health outcomes—focusing on nerve conduction velocity, small-fiber density, and symptom burden over 6 months.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "plant-based vs mediterranean diet for diabetic neuropathy",
+      "diabetes",
+      "diet-neuropathy"
+    ],
+    "primaryKeyword": "plant-based vs mediterranean diet for diabetic neuropathy",
+    "topicCluster": "diet-neuropathy",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain",
+      "10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data"
+    ]
+  },
+  {
+    "slug": "7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62",
+    "title": "7 Hidden Signs Your Dentist Should Know You Have Undiagnosed Diabetes—Especially If You’re a Woman Over 62",
+    "description": "Details oral manifestations of early-stage diabetes (e.g., burning mouth syndrome, refractory periodontitis, salivary hypofunction) that dentists may misattribute to aging or menopause.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "oral signs of undiagnosed diabetes in women over 62",
+      "diabetes",
+      "dental-oral-health"
+    ],
+    "primaryKeyword": "oral signs of undiagnosed diabetes in women over 62",
+    "topicCluster": "dental-oral-health",
+    "image": "",
+    "relatedSlugs": [
+      "how-gum-disease-is-linked-to-diabetes-complications-in-older-adults",
+      "when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes",
+      "recognizing-silent-heart-attacks-in-diabetics-over-60",
+      "what-are-the-earliest-changes-in-skin-elasticity-and-wound-healing-that-signal-subclinical-microvascular-damage-in-women-over-65-with-long-standing-diabetes",
+      "when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications"
+    ]
+  },
+  {
+    "slug": "7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68",
+    "title": "7 Foods That Support Satiety Without Triggering Nocturnal Acid Reflux in Women Over 68",
+    "description": "A science-backed list of low-acid, high-fiber, moderate-protein holiday-adjacent foods proven to sustain fullness while protecting esophageal integrity—especially for postmenopausal women with hiatal hernia or GERD.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "satiety foods nocturnal acid reflux seniors",
+      "healthy holiday eating for seniors",
+      "gastroesophageal-reflux-diet"
+    ],
+    "primaryKeyword": "satiety foods nocturnal acid reflux seniors",
+    "topicCluster": "gastroesophageal-reflux-diet",
+    "image": "",
+    "relatedSlugs": [
+      "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60",
+      "10-high-fiber-holiday-foods-that-support-digestion-after-50",
+      "4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts",
+      "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis",
+      "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70"
+    ]
+  },
+  {
+    "slug": "5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely",
+    "title": "5 Things Everyone Over 73 Should Know About Holiday Nut Mixes—and When to Avoid Them Entirely",
+    "description": "Covers choking risk, aflatoxin exposure in aged nuts, interactions with MAOIs or carbidopa-levodopa, and safe alternatives for those with dysphagia, Parkinson’s, or hepatic impairment.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "holiday nut mixes seniors 73+",
+      "healthy holiday eating for seniors",
+      "swallowing-safety-and-toxicity"
+    ],
+    "primaryKeyword": "holiday nut mixes seniors 73+",
+    "topicCluster": "swallowing-safety-and-toxicity",
+    "image": "",
+    "relatedSlugs": [
+      "the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia",
+      "5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates",
+      "10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone",
+      "when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead",
+      "12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead"
+    ]
+  },
+  {
+    "slug": "5-things-everyone-over-70-should-know-about-blood-pressure-medication-timing-when-taking-levothyroxine-and-calcium-supplements",
+    "title": "5 Things Everyone Over 70 Should Know About Blood Pressure Medication Timing When Taking Levothyroxine and Calcium Supplements",
+    "description": "Clarifies absorption interference windows, optimal dosing sequences, and BP monitoring windows to avoid misattributing variability to medication failure.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "bp medication timing levothyroxine calcium",
+      "blood pressure",
+      "polypharmacy-timing"
+    ],
+    "primaryKeyword": "bp medication timing levothyroxine calcium",
+    "topicCluster": "polypharmacy-timing",
+    "image": "",
+    "relatedSlugs": [
+      "why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62",
+      "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use",
+      "7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning",
+      "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing",
+      "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60"
+    ]
+  },
+  {
+    "slug": "12-science-backed-ways-to-stabilize-morning-blood-pressure-spikes-without-increasing-beta-blocker-dose-in-adults-66-79",
+    "title": "12 Science-Backed Ways to Stabilize Morning Blood Pressure Spikes Without Increasing Beta-Blocker Dose in Adults 66–79",
+    "description": "Presents nonpharmacologic timing interventions—including pre-awakening hydration, timed light exposure, and targeted respiratory pacing—validated in morning-hypertension cohorts.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "stabilize morning blood pressure spikes nonpharmacologic",
+      "blood pressure",
+      "morning-hypertension-management"
+    ],
+    "primaryKeyword": "stabilize morning blood pressure spikes nonpharmacologic",
+    "topicCluster": "morning-hypertension-management",
+    "image": "",
+    "relatedSlugs": [
+      "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea",
+      "quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension",
+      "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing",
+      "how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension",
+      "how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60"
+    ]
+  },
+  {
+    "slug": "10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data",
+    "title": "10 Foods That Improve Peripheral Nerve Oxygenation in Adults With Diabetic Polyneuropathy Over 69—Backed by Near-Infrared Spectroscopy Data",
+    "description": "Highlights nitrate-rich greens, heme iron sources, and flavonoid-dense berries shown to increase tissue oxygen saturation (StO₂) in lower-limb nerves via NIRS imaging.",
+    "date": "2026-01-09",
+    "updated": "2026-01-09",
+    "tags": [
+      "foods for nerve oxygenation in diabetic neuropathy",
+      "diabetes",
+      "nerve-oxygenation"
+    ],
+    "primaryKeyword": "foods for nerve oxygenation in diabetic neuropathy",
+    "topicCluster": "nerve-oxygenation",
+    "image": "",
+    "relatedSlugs": [
+      "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension",
+      "a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79",
+      "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration",
+      "natural-ways-to-enhance-myocardial-nitric-oxide-synthase-coupling-without-l-arginine-using-beetroot-derived-nitrate-exercise-timing-and-oral-microbiome-support-in-sedentary-adults-68",
+      "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max"
+    ]
+  },
+  {
     "slug": "why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals",
     "title": "Why Your 'Stable' A1c Might Mask Dangerous Postprandial Spikes After Age 65—And What Continuous Glucose Monitoring Reveals",
     "description": "Explains why A1c alone is insufficient for older adults, highlighting glycemic variability, time-in-range deficits, and the clinical impact of post-meal hyperglycemia on vascular aging.",
@@ -1091,7 +1734,8 @@
     "topicCluster": "supplement-safety-ckd",
     "image": "",
     "relatedSlugs": [
-      "the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications"
+      "the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications",
+      "can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal"
     ]
   },
   {
@@ -1527,7 +2171,8 @@
       "how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp",
       "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense",
       "how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70",
-      "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals"
+      "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals",
+      "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria"
     ]
   },
   {
@@ -9021,7 +9666,8 @@
       "can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show",
       "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease",
       "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle",
-      "can-intermittent-fasting-help-manage-type-2-diabetes-after-60"
+      "can-intermittent-fasting-help-manage-type-2-diabetes-after-60",
+      "what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl"
     ]
   },
   {

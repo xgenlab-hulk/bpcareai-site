@@ -24,6 +24,8 @@ relatedSlugs:
   - >-
     12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - >-
+    what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl
 ---
 
 # Can Intermittent Fasting Lower LDL Particle Count in Men Over 50 With Familial Hypercholesterolemia?
