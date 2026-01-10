@@ -1,14 +1,27 @@
 ---
-title: "The Truth About 'Gluten-Free' Holiday Breads for Men Over 70 With Silent Celiac Disease and Low B12"
-slug: "the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12"
-description: "Examines nutrient density gaps, fortification inconsistencies, and cross-contamination risks in store-bought GF holiday loaves—and how they impact B12 absorption and neurological health."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["gluten-free holiday bread b12 deficiency", "healthy eating during family gatherings", "nutrient-absorption-gluten"]
-primaryKeyword: "gluten-free holiday bread b12 deficiency"
-topicCluster: "nutrient-absorption-gluten"
-image: ""
-relatedSlugs: ["the-truth-about-gluten-free-holiday-cookies-why-many-still-sabotage-blood-pressure-in-seniors-with-hypertension"]
+title: >-
+  The Truth About 'Gluten-Free' Holiday Breads for Men Over 70 With Silent
+  Celiac Disease and Low B12
+slug: >-
+  the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
+description: >-
+  Examines nutrient density gaps, fortification inconsistencies, and
+  cross-contamination risks in store-bought GF holiday loaves—and how they
+  impact B12 absorption and neurological health.
+date: '2026-01-07'
+updated: '2026-01-07'
+tags:
+  - gluten-free holiday bread b12 deficiency
+  - healthy eating during family gatherings
+  - nutrient-absorption-gluten
+primaryKeyword: gluten-free holiday bread b12 deficiency
+topicCluster: nutrient-absorption-gluten
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-gluten-free-holiday-cookies-why-many-still-sabotage-blood-pressure-in-seniors-with-hypertension
+  - >-
+    when-to-worry-about-just-one-more-slice-of-holiday-bread-especially-if-you-re-a-woman-over-64-with-silent-celiac-disease
 ---
 
 # Why Gluten-Free Holiday Bread Can Hide a B12 Deficiency Risk for Men Over 70

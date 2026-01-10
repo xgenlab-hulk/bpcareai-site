@@ -1,14 +1,26 @@
 ---
-title: "The Truth About 'Heart-Healthy' Air Fryer French Fries for Adults 70+ on Dual Anticoagulants (Apixaban + Aspirin)"
-slug: "the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin"
-description: "Investigates how high-heat acrylamide formation and residual oxidized seed oils in air-fried starches increase platelet reactivity and endothelial oxidative stress—potentially undermining anticoagulant safety in polypharmacy seniors."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["air fryer fries anticoagulant safety seniors", "heart health", "cooking-methods-anticoagulant-interactions"]
-primaryKeyword: "air fryer fries anticoagulant safety seniors"
-topicCluster: "cooking-methods-anticoagulant-interactions"
-image: ""
-relatedSlugs: []
+title: >-
+  The Truth About 'Heart-Healthy' Air Fryer French Fries for Adults 70+ on Dual
+  Anticoagulants (Apixaban + Aspirin)
+slug: >-
+  the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
+description: >-
+  Investigates how high-heat acrylamide formation and residual oxidized seed
+  oils in air-fried starches increase platelet reactivity and endothelial
+  oxidative stress—potentially undermining anticoagulant safety in polypharmacy
+  seniors.
+date: '2026-01-06'
+updated: '2026-01-06'
+tags:
+  - air fryer fries anticoagulant safety seniors
+  - heart health
+  - cooking-methods-anticoagulant-interactions
+primaryKeyword: air fryer fries anticoagulant safety seniors
+topicCluster: cooking-methods-anticoagulant-interactions
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
 ---
 
 # Are Air Fryer Fries Safe for Seniors on Apixaban and Aspirin? What You *Really* Need to Know About Air Fryer Fries Anticoagulant Safety Seniors

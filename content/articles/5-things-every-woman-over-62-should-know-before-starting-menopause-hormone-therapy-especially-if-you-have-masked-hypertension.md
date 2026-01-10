@@ -1,14 +1,31 @@
 ---
-title: "5 Things Every Woman Over 62 Should Know Before Starting Menopause Hormone Therapy—Especially If You Have Masked Hypertension"
-slug: "5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension"
-description: "Details how estrogen-progestin regimens affect vascular resistance, aldosterone sensitivity, and nocturnal dipping patterns, with emphasis on pre-therapy BP phenotyping."
-date: "2026-01-03"
-updated: "2026-01-03"
-tags: ["menopause hormone therapy blood pressure women", "blood pressure", "gender-hormone-blood-pressure"]
-primaryKeyword: "menopause hormone therapy blood pressure women"
-topicCluster: "gender-hormone-blood-pressure"
-image: ""
-relatedSlugs: ["blood-pressure-changes-during-menopause-what-women-should-know", "blood-pressure-fluctuations-during-menopause-what-women-should-know", "blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short", "why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70"]
+title: >-
+  5 Things Every Woman Over 62 Should Know Before Starting Menopause Hormone
+  Therapy—Especially If You Have Masked Hypertension
+slug: >-
+  5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
+description: >-
+  Details how estrogen-progestin regimens affect vascular resistance,
+  aldosterone sensitivity, and nocturnal dipping patterns, with emphasis on
+  pre-therapy BP phenotyping.
+date: '2026-01-03'
+updated: '2026-01-03'
+tags:
+  - menopause hormone therapy blood pressure women
+  - blood pressure
+  - gender-hormone-blood-pressure
+primaryKeyword: menopause hormone therapy blood pressure women
+topicCluster: gender-hormone-blood-pressure
+image: ''
+relatedSlugs:
+  - blood-pressure-changes-during-menopause-what-women-should-know
+  - blood-pressure-fluctuations-during-menopause-what-women-should-know
+  - >-
+    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
+  - >-
+    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
+  - >-
+    how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
 ---
 
 # What Women Over 62 Need to Know About Menopause Hormone Therapy and Blood Pressure—Especially With Masked Hypertension

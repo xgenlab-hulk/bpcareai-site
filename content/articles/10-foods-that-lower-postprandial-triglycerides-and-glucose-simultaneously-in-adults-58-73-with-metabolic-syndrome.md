@@ -1,14 +1,32 @@
 ---
-title: "10 Foods That Lower Postprandial Triglycerides *and* Glucose Simultaneously in Adults 58–73 With Metabolic Syndrome"
-slug: "10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome"
-description: "Curates a clinically validated food list (e.g., black rice, walnuts, nopal cactus, fermented soy) with dual lipid-glucose mechanisms—emphasizing polyphenol-fiber synergy and delayed lipolysis."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["foods lower triglycerides and glucose metabolic syndrome", "diabetes", "dual-metabolic-targeting-foods"]
-primaryKeyword: "foods lower triglycerides and glucose metabolic syndrome"
-topicCluster: "dual-metabolic-targeting-foods"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome", "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy", "5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties"]
+title: >-
+  10 Foods That Lower Postprandial Triglycerides *and* Glucose Simultaneously in
+  Adults 58–73 With Metabolic Syndrome
+slug: >-
+  10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
+description: >-
+  Curates a clinically validated food list (e.g., black rice, walnuts, nopal
+  cactus, fermented soy) with dual lipid-glucose mechanisms—emphasizing
+  polyphenol-fiber synergy and delayed lipolysis.
+date: '2025-12-27'
+updated: '2025-12-27'
+tags:
+  - foods lower triglycerides and glucose metabolic syndrome
+  - diabetes
+  - dual-metabolic-targeting-foods
+primaryKeyword: foods lower triglycerides and glucose metabolic syndrome
+topicCluster: dual-metabolic-targeting-foods
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
+  - >-
+    10-foods-that-enhance-skeletal-muscle-glucose-uptake-via-ampk-activation-backed-by-muscle-biopsy-data-in-adults-61-76
 ---
 
 # 10 Foods That Help Lower Triglycerides and Glucose in Adults With Metabolic Syndrome

@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "title": "How Indoor Air Quality Changes During Winter Affect Fasting Glucose in Adults 65+ With Type 2 Diabetes",
+    "description": "Explores the underrecognized link between seasonal indoor pollutants (e.g., CO₂ buildup, VOCs from heating systems) and overnight glycemic variability — with actionable ventilation and monitoring strategies for colder months.",
+    "primaryKeyword": "winter indoor air glucose control seniors",
+    "topicCluster": "seasonal-environmental-impact",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-10T03:40:37.701Z"
+  },
+  {
+    "title": "Can Intermittent Fasting Worsen Orthostatic Hypotension in Adults 72+ With Long-Standing Type 2 Diabetes?",
+    "description": "Analyzes mechanistic risks of time-restricted eating on autonomic dysfunction, plasma volume shifts, and postprandial BP drops — with real-world case data and safer alternatives for blood pressure–glucose co-management.",
+    "primaryKeyword": "intermittent fasting orthostatic hypotension seniors",
+    "topicCluster": "treatment-safety-risk-assessment",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-10T03:40:40.359Z"
+  },
+  {
+    "title": "The Truth About 'Gluten-Free' Granola Bars for Adults With Type 1 Diabetes and Celiac Disease Over 60",
+    "description": "Debunks hidden glycemic pitfalls in certified GF snacks — including maltodextrin sourcing, resistant starch masking, and postprandial glucose spikes — with label-reading hacks and 3 safer homemade alternatives.",
+    "primaryKeyword": "gluten free granola bars type 1 diabetes",
+    "topicCluster": "diet-nutrition-label-literacy",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-10T03:40:44.472Z"
+  },
+  {
+    "title": "Why Your Morning Walk May Raise Blood Glucose Instead of Lowering It — Especially If You’re on Basal-Only Insulin and Over 66",
+    "description": "Explains dawn phenomenon amplification, cortisol–insulin mismatch, and glycogenolysis dominance during early-morning activity — with data-backed timing adjustments and pre-walk carb/insulin micro-adjustment protocols.",
+    "primaryKeyword": "morning walk raises blood glucose seniors",
+    "topicCluster": "exercise-timing-physiology",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-10T03:40:48.606Z"
+  },
+  {
+    "title": "Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle After Age 63 — Especially for Adults With Prediabetes and Low VO₂ Peak",
+    "description": "Covers targeted nutritional co-factors (e.g., PQQ + ALA timing), cold exposure windows, and resistance training intensity thresholds shown to upregulate PGC-1α in aging muscle — with home-based feasibility tips.",
+    "primaryKeyword": "mitochondrial biogenesis prediabetes over 63",
+    "topicCluster": "cellular-aging-metabolism",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-10T03:40:49.951Z"
+  },
+  {
+    "title": "How Chronic Constipation Alters Gut-Derived GLP-1 Secretion and Worsens Glycemic Variability in Adults 60+ With Type 2 Diabetes",
+    "description": "Breaks down the microbiome–enteroendocrine axis disruption caused by prolonged transit time, with evidence-based fiber titration strategies, osmotic laxative timing, and motilin-targeted dietary triggers.",
+    "primaryKeyword": "constipation glp-1 secretion type 2 diabetes",
+    "topicCluster": "gut-endocrine-connection",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-10T03:40:52.708Z"
+  },
+  {
+    "title": "Warning Signs Your 'Stable' Diabetes Is Masking Early Cognitive Decline — Especially If You’re a Man Over 69 With HbA1c 6.8–7.4",
+    "description": "Highlights subtle neurobehavioral cues (e.g., medication timing errors, route-finding hesitancy, word substitution) linked to hippocampal glucose hypometabolism — plus validated screening tools for home use.",
+    "primaryKeyword": "diabetes cognitive decline warning signs men 69+",
+    "topicCluster": "neurocognitive-early-detection",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-10T03:40:54.064Z"
+  },
+  {
+    "title": "Quick Ways to Adjust Your Insulin-to-Carb Ratio When Traveling Across 3+ Time Zones — Without Guessing or Skipping Doses",
+    "description": "Provides a step-by-step, time-zone-adjusted bolus calculator framework for pump and MDI users, including correction factor shifts, basal rate tapering windows, and airport-friendly glucose stabilization snacks.",
+    "primaryKeyword": "insulin carb ratio time zone travel",
+    "topicCluster": "travel-glucose-management",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-10T03:40:58.124Z"
+  },
+  {
+    "title": "The Ultimate Guide to Interpreting Postprandial Glucose Trends on Your CGM — Including What ‘Flatline’, ‘Spike-and-Drop’, and ‘Delayed Rise’ Really Mean for Your Beta-Cell Reserve",
+    "description": "Translates raw CGM pattern shapes into functional pancreatic status, with age-stratified benchmarks, dietary pattern correlations, and when each pattern warrants C-peptide testing referral.",
+    "primaryKeyword": "cgm postprandial patterns beta cell reserve",
+    "topicCluster": "cgm-interpretation-guide",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-10T03:40:59.464Z"
+  },
+  {
+    "title": "How Social Isolation During Holiday Months Disrupts Circadian Glucose Rhythms in Adults With Type 2 Diabetes Over 70",
+    "description": "Examines cortisol/melatonin dysregulation, meal timing drift, and reduced non-exercise activity thermogenesis (NEAT) in solo-living seniors — plus simple behavioral anchors to re-synchronize metabolic clocks.",
+    "primaryKeyword": "social isolation circadian glucose rhythms seniors",
+    "topicCluster": "social-circadian-metabolism",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-10T03:41:02.171Z"
+  }
+]
