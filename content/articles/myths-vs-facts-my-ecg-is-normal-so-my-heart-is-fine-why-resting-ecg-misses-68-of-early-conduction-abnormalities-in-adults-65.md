@@ -1,14 +1,25 @@
 ---
-title: "Myths vs Facts: 'My ECG Is Normal—So My Heart Is Fine'—Why Resting ECG Misses 68% of Early Conduction Abnormalities in Adults 65+"
-slug: "myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65"
-description: "Debunks assumptions about ECG sensitivity, citing data on PR prolongation, fascicular blocks, and early AV node fibrosis detection—plus when to pursue Holter, EP study, or cardiac MRI."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["ecg normalcy and conduction disease", "heart disease", "ecg-limitations-elderly"]
-primaryKeyword: "ecg normalcy and conduction disease"
-topicCluster: "ecg-limitations-elderly"
-image: ""
-relatedSlugs: []
+title: >-
+  Myths vs Facts: 'My ECG Is Normal—So My Heart Is Fine'—Why Resting ECG Misses
+  68% of Early Conduction Abnormalities in Adults 65+
+slug: >-
+  myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
+description: >-
+  Debunks assumptions about ECG sensitivity, citing data on PR prolongation,
+  fascicular blocks, and early AV node fibrosis detection—plus when to pursue
+  Holter, EP study, or cardiac MRI.
+date: '2026-01-06'
+updated: '2026-01-06'
+tags:
+  - ecg normalcy and conduction disease
+  - heart disease
+  - ecg-limitations-elderly
+primaryKeyword: ecg normalcy and conduction disease
+topicCluster: ecg-limitations-elderly
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
 ---
 
 # “My ECG Is Normal—So My Heart Is Fine”: Why ECG Normalcy and Conduction Disease Don’t Always Go Hand in Hand

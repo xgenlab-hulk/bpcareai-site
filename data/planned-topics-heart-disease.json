@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "title": "7 Silent Signs Your Heart’s Struggling During Winter—Especially If You’re a Woman Over 62 With Early Osteoarthritis",
+    "description": "Explores cold-weather–induced cardiovascular strain masked as joint pain or fatigue, with emphasis on delayed symptom recognition and gender-specific physiological shifts in microvascular resistance.",
+    "primaryKeyword": "silent heart disease signs winter women over 60",
+    "topicCluster": "seasonal-symptom-masking",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:23.420Z"
+  },
+  {
+    "title": "Can Daily 3-Minute Isometric Handgrip Training Lower Central Aortic Pressure in Women 61–75 With Isolated Systolic Hypertension?",
+    "description": "Reviews RCT evidence on non-aerobic vascular conditioning, baroreflex resetting, and why this underused modality outperforms walking for systolic reduction in older women.",
+    "primaryKeyword": "isometric handgrip central aortic pressure women 60s",
+    "topicCluster": "non-aerobic-vascular-training",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:27.905Z"
+  },
+  {
+    "title": "A vs B: Morning 7 a.m. Caffeinated Green Tea vs. Afternoon 3 p.m. Decaf Black Tea for Men 57–68 With Premature Ventricular Contractions",
+    "description": "Compares catechin-driven endothelial modulation versus theophylline-related arrhythmia triggers—focusing on circadian QT-interval vulnerability windows.",
+    "primaryKeyword": "green tea vs black tea PVCs men 60s",
+    "topicCluster": "arrhythmia-diet-comparison",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:30.910Z"
+  },
+  {
+    "title": "12 Science-Backed Ways to Reduce Left Ventricular Stiffness Without Medication—Focusing on Titin Phosphorylation, Sodium Intake Timing, and Deep Exhalation Duration",
+    "description": "Details molecular, nutritional, and respiratory levers affecting myocardial compliance—including how late-day sodium loading impairs PKG-mediated titin modification.",
+    "primaryKeyword": "reduce left ventricular stiffness without medication",
+    "topicCluster": "myocardial-compliance-modulation",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:32.383Z"
+  },
+  {
+    "title": "How Indoor Humidity Levels Below 30% During Heated Winters Increase Coronary Vasospasm Risk in Women Over 64 With Migraine History",
+    "description": "Links dry-air–induced endothelin-1 surges, TRPV1 activation, and cortical spreading depression overlap—explaining winter angina mimics in non-obstructive CAD.",
+    "primaryKeyword": "indoor humidity coronary vasospasm women migraine",
+    "topicCluster": "environmental-vasospasm-triggers",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:35.403Z"
+  },
+  {
+    "title": "Does Adding 1 Gram of Cocoa Flavanols Daily Improve Endothelial-Dependent Vasodilation in Adults 63–79 With Metabolic Syndrome and Non-Alcoholic Fatty Liver?",
+    "description": "Synthesizes data on flavanol–gut microbiota–TMAO interactions and why liver fat content predicts responsiveness more than BMI or HbA1c.",
+    "primaryKeyword": "cocoa flavanols endothelial function fatty liver",
+    "topicCluster": "polyphenol-microbiome-cardiology",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:36.904Z"
+  },
+  {
+    "title": "5 Things Everyone Over 72 Should Know About Using Chest-Worn ECG Devices During Air Travel—Especially With Pacemaker-Dependent Bradycardia and Frequent Cabin Pressure Changes",
+    "description": "Covers altitude-induced impedance shifts, motion artifact during turbulence, and why wrist-based readings fail during hypobaric stress in elderly pacemaker users.",
+    "primaryKeyword": "chest ECG devices air travel pacemaker dependent",
+    "topicCluster": "wearable-diagnostics-altitude",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:38.399Z"
+  },
+  {
+    "title": "When to Suspect Cardiac Amyloidosis in Women 66–81 With Bilateral Carpal Tunnel Syndrome, Unexplained Weight Loss, and 'Normal' Echo Findings",
+    "description": "Details red-flag triad: carpal tunnel onset >5 years before HF diagnosis, low-voltage ECG despite preserved wall thickness, and discordant strain patterns on speckle-tracking.",
+    "primaryKeyword": "cardiac amyloidosis carpal tunnel women weight loss",
+    "topicCluster": "amyloidosis-red-flag-triad",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:41.424Z"
+  },
+  {
+    "title": "Quick Ways to Lower Pulmonary Capillary Wedge Pressure Using Posture, Diaphragmatic Positioning, and Expiratory Resistance—For Adults 68+ With Orthopnea and Preserved EF",
+    "description": "Teaches seated forward lean + pursed-lip exhalation + abdominal bracing to acutely reduce preload via thoracic pressure gradient shifts—validated by invasive hemodynamics.",
+    "primaryKeyword": "lower pulmonary capillary wedge pressure orthopnea",
+    "topicCluster": "acute-hemodynamic-posture",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:42.914Z"
+  },
+  {
+    "title": "Myths vs Facts: 'My Heart Is Fine Because My Cholesterol Is Normal'—Especially for Adults Over 65 With Elevated Lp(a), OxLDL, or ApoB/ApoA1 Ratio",
+    "description": "Debunks LDL-centric thinking using data on residual inflammatory risk, particle number vs concentration, and why standard lipid panels miss 40% of high-risk elders.",
+    "primaryKeyword": "cholesterol normal but heart risk high elders",
+    "topicCluster": "lipid-panel-limitations",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:44.428Z"
+  },
+  {
+    "title": "How Intermittent Nighttime Light Exposure Disrupts Cardiac Clock Gene Expression (BMAL1/PER2) in Adults 59–73 With Shift Work History and Elevated NT-proBNP",
+    "description": "Explains melatonin suppression → REV-ERBα dysregulation → impaired mitochondrial fission/fusion → diastolic dysfunction progression—beyond just 'sleep loss'.",
+    "primaryKeyword": "nighttime light exposure cardiac clock genes elders",
+    "topicCluster": "circadian-cardiac-gene-disruption",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:46.003Z"
+  },
+  {
+    "title": "The Ultimate Guide to Interpreting Late-Night Home Blood Pressure Dips in Adults With Sleep Apnea and Mild Cognitive Impairment—Including When 'Normal' Dipping Is Actually Harmful",
+    "description": "Clarifies paradoxical autonomic failure: why >20% nocturnal BP drop in OSA + MCI may signal baroreflex exhaustion—not health—and how to recalibrate targets using HRV trends.",
+    "primaryKeyword": "nocturnal BP dip sleep apnea mild cognitive impairment",
+    "topicCluster": "nocturnal-dip-paradox",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:47.481Z"
+  },
+  {
+    "title": "Best Breathing Patterns for Reducing Right Ventricular Afterload in Adults 67–80 With Pulmonary Hypertension and Sarcopenia",
+    "description": "Focuses on expiratory prolongation + abdominal engagement to lower mean pulmonary arterial pressure—validated via portable echo-Doppler in home settings.",
+    "primaryKeyword": "breathing patterns right ventricular afterload PH",
+    "topicCluster": "pulmonary-hypertension-breathing",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:50.459Z"
+  },
+  {
+    "title": "10 Foods That Activate Nrf2 Pathway to Reduce Oxidative Stress in Coronary Endothelium—Backed by Microvascular Reactivity Testing in Adults 62–76 With Microvascular Angina",
+    "description": "Highlights sulforaphane, allicin, and ellagic acid sources—and why timing (e.g., raw vs cooked broccoli) and gut-microbiome compatibility determine efficacy.",
+    "primaryKeyword": "Nrf2-activating foods microvascular angina elders",
+    "topicCluster": "endothelial-oxidative-stress-nutrition",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-11T03:57:51.928Z"
+  }
+]

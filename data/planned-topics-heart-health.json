@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "title": "7 Hidden Ways Your Dentist Might Spot Early Heart Disease—Especially If You’re a Man Over 65 With Gum Recession and No Chest Pain",
+    "description": "Reveals oral-systemic connections including periodontal inflammation markers, carotid calcifications on dental X-rays, and microvascular changes detectable during routine exams.",
+    "primaryKeyword": "dentist detection of heart disease in men over 65",
+    "topicCluster": "diagnostic-clues-oral-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-01-11T03:58:35.972Z"
+  },
+  {
+    "title": "Can Daily 12-Second Nitric Oxide Nasal Sprays Improve Endothelial Function in Women 58–69 With Morning Hypertension and Cold-Induced Raynaud’s?",
+    "description": "Analyzes emerging clinical data on intranasal NO delivery for microvascular health, focusing on diurnal BP patterns and peripheral vascular reactivity in perimenopausal and early postmenopausal women.",
+    "primaryKeyword": "nitric oxide nasal spray for morning hypertension",
+    "topicCluster": "emerging-therapeutics-endothelial-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-01-11T03:58:37.441Z"
+  },
+  {
+    "title": "The Truth About ‘Heart-Healthy’ Granola Bars for Adults With Stage 2 Hypertension and Mild Cognitive Impairment Aged 66–79",
+    "description": "Debunks marketing claims by analyzing actual sodium, added sugar, and ultra-processed ingredient loads—and how they impact both BP control and cerebral perfusion stability.",
+    "primaryKeyword": "heart healthy granola bars for hypertension and mci",
+    "topicCluster": "food-labeling-cognitive-cardiac-overlap",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-01-11T03:58:40.442Z"
+  },
+  {
+    "title": "12 Science-Backed Ways to Reverse Early Left Ventricular Hypertrophy Without Medication — Focused on Diastolic Filling Time, Sodium Timing, and Evening Magnesium Glycinate Dosing",
+    "description": "Details actionable, physiology-driven strategies—including circadian sodium restriction, posture-modulated breathing, and timed mineral supplementation—validated in echocardiographic regression studies.",
+    "primaryKeyword": "reverse left ventricular hypertrophy without medication",
+    "topicCluster": "structural-heart-reversal-nutrition-timing",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-01-11T03:58:43.453Z"
+  },
+  {
+    "title": "When to Suspect Cardiac Amyloidosis in Adults 74–88 With Unexplained Fatigue, Bilateral Carpal Tunnel Release History, and Normal Ejection Fraction",
+    "description": "Highlights under-recognized red flags—including disproportionate exertional intolerance, autonomic symptoms, and echo texture clues—that precede overt heart failure in wild-type ATTR amyloidosis.",
+    "primaryKeyword": "cardiac amyloidosis signs after carpal tunnel surgery",
+    "topicCluster": "rare-disease-detection-elderly-heart-failure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-01-11T03:58:44.935Z"
+  },
+  {
+    "title": "Quick Ways to Stabilize Pulse Pressure Fluctuations During Grocery Shopping for Adults 70+ With Orthostatic Intolerance and Postprandial Hypotension",
+    "description": "Offers real-world, mobility-aware tactics—like isometric pre-grip, aisle pacing, and strategic rest stops—to prevent dizziness, presyncope, and falls tied to arterial stiffness and autonomic lag.",
+    "primaryKeyword": "pulse pressure stabilization during grocery shopping",
+    "topicCluster": "daily-activity-safety-autonomic-stability",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-01-11T03:58:46.455Z"
+  },
+  {
+    "title": "Does Daily 5-Minute Vagus Nerve Stimulation via TENS on the Tragus Lower Morning Systolic BP in Men 65–77 With Chronic Kidney Disease Stage 3?",
+    "description": "Examines transcutaneous auricular vagus nerve stimulation (taVNS) as a non-invasive tool for modulating sympathetic overactivity and improving morning BP surge in CKD-related cardiovascular risk.",
+    "primaryKeyword": "vagus nerve stimulation for morning bp in ckd",
+    "topicCluster": "neuromodulation-ckd-cardiovascular-risk",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-01-11T03:58:47.957Z"
+  },
+  {
+    "title": "5 Things Everyone Over 72 Should Know About Using Home ECG Devices With Pacemakers and Atrial Flutter—Especially If You’re Taking Apixaban or Rivaroxaban",
+    "description": "Covers critical limitations of consumer-grade ECGs in rhythm interpretation, artifact misreading, anticoagulation safety implications, and when to escalate to clinician-reviewed rhythm strips.",
+    "primaryKeyword": "home ecg devices with pacemakers and anticoagulants",
+    "topicCluster": "remote-monitoring-device-safety",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-01-11T03:58:49.435Z"
+  }
+]

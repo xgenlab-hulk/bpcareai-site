@@ -1,45 +1,5 @@
 [
   {
-    "title": "Why Does Blood Pressure Spike During Morning Coffee—Especially in Adults 62–78 With Stage 1 Hypertension?",
-    "description": "Explores the acute pressor response to caffeine in older adults with borderline hypertension, factoring in chronobiology, COMT gene variants, and real-world ambulatory monitoring data.",
-    "primaryKeyword": "morning blood pressure spike coffee",
-    "topicCluster": "caffeine-chronobiology-response",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-10T03:38:55.631Z"
-  },
-  {
-    "title": "A vs B: Home-Based Isometric Handgrip Training vs Guided Breathing Apps for Lowering Diastolic BP in Sedentary Men 64–76",
-    "description": "Compares 4-week efficacy, adherence rates, and home BP trajectory changes between two accessible non-pharmacologic interventions—using validated ambulatory data.",
-    "primaryKeyword": "isometric handgrip vs breathing app diastolic bp",
-    "topicCluster": "nonpharmacologic-intervention-comparison",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-10T03:39:01.093Z"
-  },
-  {
-    "title": "Warning Signs Your Blood Pressure Is Being Masked by Orthostatic Hypotension—Especially After Age 73 and During Hot Weather",
-    "description": "Identifies paradoxical presentation patterns where supine hypertension coexists with postural drops, increasing fall risk and stroke vulnerability in heat-exposed older adults.",
-    "primaryKeyword": "masked hypertension orthostatic hypotension seniors",
-    "topicCluster": "orthostatic-blood-pressure-paradox",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-10T03:39:02.450Z"
-  },
-  {
-    "title": "Natural Ways to Support Endothelial Nitric Oxide Synthase Activity in 8–12 Weeks Using Beetroot Timing, Sunlight Exposure, and Arginine–Citrulline Cycling",
-    "description": "A science-backed protocol for improving vascular tone without drugs—focused on endothelial function biomarkers (ADMA, flow-mediated dilation) in adults 60–79.",
-    "primaryKeyword": "boost nitric oxide naturally seniors",
-    "topicCluster": "endothelial-function-optimization",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-10T03:39:03.790Z"
-  },
-  {
-    "title": "12 Science-Backed Ways to Lower Pulse Pressure Without Increasing Medication Dose in Adults With Isolated Systolic Hypertension Over 75",
-    "description": "Targets arterial stiffness reduction through timed flavonoid intake, dynamic resistance training, and nocturnal oxygen saturation optimization—backed by carotid-femoral PWV trials.",
-    "primaryKeyword": "lower pulse pressure isolated systolic hypertension",
-    "topicCluster": "pulse-pressure-reduction-strategies",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-10T03:39:06.568Z"
-  },
-  {
     "title": "Myths vs Facts: 'My Blood Pressure Is Normal Because My Arm Cuff Reads Fine' in Adults With Severe Peripheral Artery Disease and Calcified Brachial Arteries",
     "description": "Debunks cuff-based misdiagnosis in PAD patients—showing how calcified vessels cause pseudohypertension and why radial tonometry or oscillometric thigh cuffs are essential.",
     "primaryKeyword": "pseudohypertension peripheral artery disease",

@@ -1,14 +1,30 @@
 ---
-title: "Why Does Heart Rate Recovery After 6-Minute Walk Testing Predict 5-Year Mortality Better Than Peak VO₂ in Adults 75+ With Heart Failure With Preserved Ejection Fraction?"
-slug: "why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction"
-description: "Examines autonomic, mitochondrial, and skeletal muscle perfusion mechanisms linking abnormal HRR (≤12 bpm at 1 min) to all-cause mortality in HFpEF patients, controlling for frailty and sarcopenia metrics."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["heart rate recovery and hfpef mortality", "heart disease", "functional-testing-prognosis"]
-primaryKeyword: "heart rate recovery and hfpef mortality"
-topicCluster: "functional-testing-prognosis"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear", "myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge"]
+title: >-
+  Why Does Heart Rate Recovery After 6-Minute Walk Testing Predict 5-Year
+  Mortality Better Than Peak VO₂ in Adults 75+ With Heart Failure With Preserved
+  Ejection Fraction?
+slug: >-
+  why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction
+description: >-
+  Examines autonomic, mitochondrial, and skeletal muscle perfusion mechanisms
+  linking abnormal HRR (≤12 bpm at 1 min) to all-cause mortality in HFpEF
+  patients, controlling for frailty and sarcopenia metrics.
+date: '2026-01-09'
+updated: '2026-01-09'
+tags:
+  - heart rate recovery and hfpef mortality
+  - heart disease
+  - functional-testing-prognosis
+primaryKeyword: heart rate recovery and hfpef mortality
+topicCluster: functional-testing-prognosis
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
+  - >-
+    what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
 ---
 
 # Why Heart Rate Recovery After a 6-Minute Walk Test Is a Stronger Predictor of 5-Year Mortality Than Peak VO₂ in Older Adults With HFpEF
