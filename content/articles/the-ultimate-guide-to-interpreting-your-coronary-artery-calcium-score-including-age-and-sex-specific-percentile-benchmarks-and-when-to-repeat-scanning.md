@@ -1,14 +1,30 @@
 ---
-title: "The Ultimate Guide to Interpreting Your Coronary Artery Calcium Score—Including Age- and Sex-Specific Percentile Benchmarks and When to Repeat Scanning"
-slug: "the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning"
-description: "Breaks down CAC score meaning beyond '0 = low risk', including sex-specific risk reclassification thresholds, progression rates that warrant intensification, and optimal repeat intervals by baseline score."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["coronary calcium score interpretation guide", "heart disease", "cac-score-interpretation"]
-primaryKeyword: "coronary calcium score interpretation guide"
-topicCluster: "cac-score-interpretation"
-image: ""
-relatedSlugs: ["a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100"]
+title: >-
+  The Ultimate Guide to Interpreting Your Coronary Artery Calcium
+  Score—Including Age- and Sex-Specific Percentile Benchmarks and When to Repeat
+  Scanning
+slug: >-
+  the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
+description: >-
+  Breaks down CAC score meaning beyond '0 = low risk', including sex-specific
+  risk reclassification thresholds, progression rates that warrant
+  intensification, and optimal repeat intervals by baseline score.
+date: '2026-01-09'
+updated: '2026-01-09'
+tags:
+  - coronary calcium score interpretation guide
+  - heart disease
+  - cac-score-interpretation
+primaryKeyword: coronary calcium score interpretation guide
+topicCluster: cac-score-interpretation
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
+  - >-
+    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
 ---
 
 # A Practical Coronary Calcium Score Interpretation Guide for Adults 50 and Older

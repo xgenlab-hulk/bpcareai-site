@@ -1,14 +1,35 @@
 ---
-title: "A vs B: Home-Based ECG Patch Monitoring (Zio XT) vs Ambulatory Holter for Detecting Asymptomatic Atrial Fibrillation Burden in Adults 60–79 With Controlled Hypertension"
-slug: "a-vs-b-home-based-ecg-patch-monitoring-zio-xt-vs-ambulatory-holter-for-detecting-asymptomatic-atrial-fibrillation-burden-in-adults-60-79-with-controlled-hypertension"
-description: "Compares detection sensitivity, arrhythmia burden quantification accuracy, usability, and cost-effectiveness of extended-wear patches versus traditional Holter in identifying subclinical AF—and implications for stroke risk stratification."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["ECG patch vs holter asymptomatic afib", "heart health", "arrhythmia-monitoring-comparison"]
-primaryKeyword: "ECG patch vs holter asymptomatic afib"
-topicCluster: "arrhythmia-monitoring-comparison"
-image: ""
-relatedSlugs: ["does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension", "a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79"]
+title: >-
+  A vs B: Home-Based ECG Patch Monitoring (Zio XT) vs Ambulatory Holter for
+  Detecting Asymptomatic Atrial Fibrillation Burden in Adults 60–79 With
+  Controlled Hypertension
+slug: >-
+  a-vs-b-home-based-ecg-patch-monitoring-zio-xt-vs-ambulatory-holter-for-detecting-asymptomatic-atrial-fibrillation-burden-in-adults-60-79-with-controlled-hypertension
+description: >-
+  Compares detection sensitivity, arrhythmia burden quantification accuracy,
+  usability, and cost-effectiveness of extended-wear patches versus traditional
+  Holter in identifying subclinical AF—and implications for stroke risk
+  stratification.
+date: '2026-01-07'
+updated: '2026-01-07'
+tags:
+  - ECG patch vs holter asymptomatic afib
+  - heart health
+  - arrhythmia-monitoring-comparison
+primaryKeyword: ECG patch vs holter asymptomatic afib
+topicCluster: arrhythmia-monitoring-comparison
+image: ''
+relatedSlugs:
+  - >-
+    does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension
+  - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
+  - >-
+    myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
+  - >-
+    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
+  - >-
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
 ---
 
 # ECG Patch vs Holter for Asymptomatic Atrial Fibrillation: What’s Best for Adults 60–79 With Controlled Hypertension?

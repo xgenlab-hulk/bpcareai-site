@@ -1,14 +1,33 @@
 ---
-title: "7 Unexpected Household Chemicals That May Interfere With ACE Inhibitor Efficacy in Adults Over 75"
-slug: "7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75"
-description: "Identifies common cleaning, personal care, and pest-control products containing compounds that may blunt the antihypertensive response to ACE inhibitors."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["household chemicals ace inhibitor interference", "blood pressure", "medication-interactions"]
-primaryKeyword: "household chemicals ace inhibitor interference"
-topicCluster: "medication-interactions"
-image: ""
-relatedSlugs: ["12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents"]
+title: >-
+  7 Unexpected Household Chemicals That May Interfere With ACE Inhibitor
+  Efficacy in Adults Over 75
+slug: >-
+  7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75
+description: >-
+  Identifies common cleaning, personal care, and pest-control products
+  containing compounds that may blunt the antihypertensive response to ACE
+  inhibitors.
+date: '2026-01-08'
+updated: '2026-01-08'
+tags:
+  - household chemicals ace inhibitor interference
+  - blood pressure
+  - medication-interactions
+primaryKeyword: household chemicals ace inhibitor interference
+topicCluster: medication-interactions
+image: ''
+relatedSlugs:
+  - >-
+    12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents
+  - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+  - >-
+    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - >-
+    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
 ---
 
 # 7 Common Household Chemicals That May Affect ACE Inhibitor Effectiveness in Older Adults

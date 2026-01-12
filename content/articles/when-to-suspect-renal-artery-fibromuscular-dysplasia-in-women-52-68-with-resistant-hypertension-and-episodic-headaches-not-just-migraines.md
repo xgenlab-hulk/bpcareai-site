@@ -1,14 +1,33 @@
 ---
-title: "When to Suspect Renal Artery Fibromuscular Dysplasia in Women 52–68 With Resistant Hypertension and Episodic Headaches—Not Just 'Migraines'"
-slug: "when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines"
-description: "Highlights atypical presentations, diagnostic red flags (e.g., unilateral abdominal bruit, BP asymmetry >20 mmHg), and why duplex US often misses FMD in perimenopausal women."
-date: "2026-01-10"
-updated: "2026-01-10"
-tags: ["fibromuscular dysplasia resistant hypertension women", "blood pressure", "secondary-hypertension-fmd-women"]
-primaryKeyword: "fibromuscular dysplasia resistant hypertension women"
-topicCluster: "secondary-hypertension-fmd-women"
-image: ""
-relatedSlugs: ["myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65"]
+title: >-
+  When to Suspect Renal Artery Fibromuscular Dysplasia in Women 52–68 With
+  Resistant Hypertension and Episodic Headaches—Not Just 'Migraines'
+slug: >-
+  when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines
+description: >-
+  Highlights atypical presentations, diagnostic red flags (e.g., unilateral
+  abdominal bruit, BP asymmetry >20 mmHg), and why duplex US often misses FMD in
+  perimenopausal women.
+date: '2026-01-10'
+updated: '2026-01-10'
+tags:
+  - fibromuscular dysplasia resistant hypertension women
+  - blood pressure
+  - secondary-hypertension-fmd-women
+primaryKeyword: fibromuscular dysplasia resistant hypertension women
+topicCluster: secondary-hypertension-fmd-women
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
+  - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
+  - >-
+    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 ---
 
 # When Fibromuscular Dysplasia Resistant Hypertension Women Might Be Overlooked—Especially With “Just” Headaches

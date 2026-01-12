@@ -1,14 +1,33 @@
 ---
-title: "10 Foods That Enhance Skeletal Muscle Glucose Uptake via AMPK Activation — Backed by Muscle Biopsy Data in Adults 61–76"
-slug: "10-foods-that-enhance-skeletal-muscle-glucose-uptake-via-ampk-activation-backed-by-muscle-biopsy-data-in-adults-61-76"
-description: "Highlights clinically studied foods (e.g., berberine-enriched goldenseal tea, black cumin seed oil, wild blueberry anthocyanins) with direct AMPK phosphorylation evidence and optimal dosing windows relative to activity."
-date: "2026-01-10"
-updated: "2026-01-10"
-tags: ["foods ampk activation muscle glucose uptake", "diabetes", "nutrient-signaling-pathways"]
-primaryKeyword: "foods ampk activation muscle glucose uptake"
-topicCluster: "nutrient-signaling-pathways"
-image: ""
-relatedSlugs: ["natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70", "10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome"]
+title: >-
+  10 Foods That Enhance Skeletal Muscle Glucose Uptake via AMPK Activation —
+  Backed by Muscle Biopsy Data in Adults 61–76
+slug: >-
+  10-foods-that-enhance-skeletal-muscle-glucose-uptake-via-ampk-activation-backed-by-muscle-biopsy-data-in-adults-61-76
+description: >-
+  Highlights clinically studied foods (e.g., berberine-enriched goldenseal tea,
+  black cumin seed oil, wild blueberry anthocyanins) with direct AMPK
+  phosphorylation evidence and optimal dosing windows relative to activity.
+date: '2026-01-10'
+updated: '2026-01-10'
+tags:
+  - foods ampk activation muscle glucose uptake
+  - diabetes
+  - nutrient-signaling-pathways
+primaryKeyword: foods ampk activation muscle glucose uptake
+topicCluster: nutrient-signaling-pathways
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
+  - >-
+    10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+  - >-
+    10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data
 ---
 
 # 10 Foods That Support Muscle Glucose Uptake Through AMPK Activation — Evidence from Older Adults (61–76)

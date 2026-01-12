@@ -1,14 +1,33 @@
 ---
-title: "When Should You Suspect Cardiac Amyloidosis in Adults Over 72 With Unexplained Left Ventricular Hypertrophy—And Which Biomarkers Add Value Beyond NT-proBNP?"
-slug: "when-should-you-suspect-cardiac-amyloidosis-in-adults-over-72-with-unexplained-left-ventricular-hypertrophy-and-which-biomarkers-add-value-beyond-nt-probnp"
-description: "Outlines a stepwise diagnostic algorithm—including serum free light chains, bone scintigraphy specificity adjustments, and strain echo patterns—to differentiate AL from ATTR in elderly patients with preserved EF and LVH."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["cardiac amyloidosis diagnosis in elderly", "heart disease", "diagnostic-algorithm-elderly"]
-primaryKeyword: "cardiac amyloidosis diagnosis in elderly"
-topicCluster: "diagnostic-algorithm-elderly"
-image: ""
-relatedSlugs: ["red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue", "when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction"]
+title: >-
+  When Should You Suspect Cardiac Amyloidosis in Adults Over 72 With Unexplained
+  Left Ventricular Hypertrophy—And Which Biomarkers Add Value Beyond NT-proBNP?
+slug: >-
+  when-should-you-suspect-cardiac-amyloidosis-in-adults-over-72-with-unexplained-left-ventricular-hypertrophy-and-which-biomarkers-add-value-beyond-nt-probnp
+description: >-
+  Outlines a stepwise diagnostic algorithm—including serum free light chains,
+  bone scintigraphy specificity adjustments, and strain echo patterns—to
+  differentiate AL from ATTR in elderly patients with preserved EF and LVH.
+date: '2026-01-07'
+updated: '2026-01-07'
+tags:
+  - cardiac amyloidosis diagnosis in elderly
+  - heart disease
+  - diagnostic-algorithm-elderly
+primaryKeyword: cardiac amyloidosis diagnosis in elderly
+topicCluster: diagnostic-algorithm-elderly
+image: ''
+relatedSlugs:
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
+  - >-
+    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
+  - >-
+    what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 ---
 
 # When to Consider Cardiac Amyloidosis Diagnosis in Elderly Adults With Unexplained Thickened Heart Muscle

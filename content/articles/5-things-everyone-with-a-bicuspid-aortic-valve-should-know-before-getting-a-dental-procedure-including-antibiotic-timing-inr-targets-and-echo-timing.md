@@ -1,14 +1,29 @@
 ---
-title: "5 Things Everyone With a Bicuspid Aortic Valve Should Know Before Getting a Dental Procedure—Including Antibiotic Timing, INR Targets, and Echo Timing"
-slug: "5-things-everyone-with-a-bicuspid-aortic-valve-should-know-before-getting-a-dental-procedure-including-antibiotic-timing-inr-targets-and-echo-timing"
-description: "Clarifies AHA/ACC updates on infective endocarditis prophylaxis, defines ‘high-risk’ valve morphology using 3D echo, and outlines ideal INR windows for warfarin users undergoing invasive dental work."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["bicuspid aortic valve dental procedure", "heart disease", "valvular-dental-safety"]
-primaryKeyword: "bicuspid aortic valve dental procedure"
-topicCluster: "valvular-dental-safety"
-image: ""
-relatedSlugs: []
+title: >-
+  5 Things Everyone With a Bicuspid Aortic Valve Should Know Before Getting a
+  Dental Procedure—Including Antibiotic Timing, INR Targets, and Echo Timing
+slug: >-
+  5-things-everyone-with-a-bicuspid-aortic-valve-should-know-before-getting-a-dental-procedure-including-antibiotic-timing-inr-targets-and-echo-timing
+description: >-
+  Clarifies AHA/ACC updates on infective endocarditis prophylaxis, defines
+  ‘high-risk’ valve morphology using 3D echo, and outlines ideal INR windows for
+  warfarin users undergoing invasive dental work.
+date: '2026-01-06'
+updated: '2026-01-06'
+tags:
+  - bicuspid aortic valve dental procedure
+  - heart disease
+  - valvular-dental-safety
+primaryKeyword: bicuspid aortic valve dental procedure
+topicCluster: valvular-dental-safety
+image: ''
+relatedSlugs:
+  - >-
+    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 ---
 
 # What Everyone With a Bicuspid Aortic Valve Needs to Know Before a Dental Procedure  
