@@ -1,14 +1,33 @@
 ---
-title: "Warning Signs Your ‘Normal’ ECG May Miss Early Arrhythmogenic Cardiomyopathy in Adults 55–66 With Unexplained Syncope and Family History of SCD"
-slug: "warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd"
-description: "Highlights subtle T-wave inversions in V1–V3, fragmented QRS, and exercise-induced PVC morphology shifts—plus when to push for cardiac MRI despite normal echo."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["ECG limitations arrhythmogenic cardiomyopathy syncope", "heart disease", "diagnostic-gap-arrhythmia"]
-primaryKeyword: "ECG limitations arrhythmogenic cardiomyopathy syncope"
-topicCluster: "diagnostic-gap-arrhythmia"
-image: ""
-relatedSlugs: ["myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65", "red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises"]
+title: >-
+  Warning Signs Your ‘Normal’ ECG May Miss Early Arrhythmogenic Cardiomyopathy
+  in Adults 55–66 With Unexplained Syncope and Family History of SCD
+slug: >-
+  warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
+description: >-
+  Highlights subtle T-wave inversions in V1–V3, fragmented QRS, and
+  exercise-induced PVC morphology shifts—plus when to push for cardiac MRI
+  despite normal echo.
+date: '2026-01-11'
+updated: '2026-01-11'
+tags:
+  - ECG limitations arrhythmogenic cardiomyopathy syncope
+  - heart disease
+  - diagnostic-gap-arrhythmia
+primaryKeyword: ECG limitations arrhythmogenic cardiomyopathy syncope
+topicCluster: diagnostic-gap-arrhythmia
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
+  - >-
+    5-things-everyone-over-72-should-know-about-using-home-ecg-devices-with-pacemakers-and-atrial-flutter-especially-if-you-re-taking-apixaban-or-rivaroxaban
 ---
 
 # When a “Normal” ECG Isn’t Enough: Recognizing Early Arrhythmogenic Cardiomyopathy in Adults 55–66 With Unexplained Syncope

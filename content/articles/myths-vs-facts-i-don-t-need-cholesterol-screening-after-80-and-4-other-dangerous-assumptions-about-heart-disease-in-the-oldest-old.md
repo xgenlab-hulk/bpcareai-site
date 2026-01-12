@@ -23,6 +23,8 @@ relatedSlugs:
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
   - >-
     5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
+  - >-
+    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
 ---
 
 # Cholesterol Screening Myths After Age 80: Busting 5 Common Misconceptions About Heart Disease in the Oldest-Old
