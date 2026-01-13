@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "Can Daily 2-Minute Toe-Tap Sequencing Improve Capillary Refill Time and Postprandial Glucose Clearance in Women 63–79 With Diabetic Foot Ulcer History?",
+    "description": "Examines a novel, low-barrier neuromuscular activation protocol targeting distal microcirculation—and its measurable impact on post-meal glucose spikes in high-risk older women.",
+    "primaryKeyword": "toe-tap exercise for diabetic circulation",
+    "topicCluster": "exercise-microcirculation",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-13T03:46:57.735Z"
+  },
+  {
+    "title": "A vs B: Evening 8 p.m. Tart Cherry Juice (Montmorency) vs. Nighttime 10 p.m. Low-Dose Melatonin (0.5 mg) for Improving Nocturnal Glucose Stability in Women 61–75 With Sleep Fragmentation and Type 2 Diabetes",
+    "description": "Compares two circadian-targeted interventions for overnight glycemic control—assessing impact on dawn phenomenon, hepatic glucose production, and next-day insulin sensitivity.",
+    "primaryKeyword": "tart cherry vs melatonin for nighttime glucose",
+    "topicCluster": "sleep-circadian-glucose",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-13T03:47:03.504Z"
+  },
+  {
+    "title": "Why Your Blood Glucose Monitor Readings Jump After a 15-Minute Hot Bath — And What to Do Instead for Accurate Tracking in Adults 67–83 With Peripheral Neuropathy and Poor Capillary Flow",
+    "description": "Explains thermal vasodilation–induced interstitial fluid shifts and hematocrit changes that falsely elevate fingerstick readings—and provides validated alternative monitoring protocols.",
+    "primaryKeyword": "hot bath affects glucose monitor accuracy",
+    "topicCluster": "monitoring-accuracy-factors",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-13T03:47:06.426Z"
+  },
+  {
+    "title": "Natural Ways to Support Pancreatic Acinar Cell Function and Reduce Postprandial Lipase Deficiency in Adults 65+ With Long-Standing Type 2 Diabetes and Fatty Pancreas Imaging",
+    "description": "Focuses on dietary enzyme co-factors (zinc, B6), bitters, and timed protein intake to support exocrine pancreas health—reducing fat malabsorption–driven glucose volatility and steatorrhea.",
+    "primaryKeyword": "pancreatic acinar support for diabetics",
+    "topicCluster": "complications-exocrine-pancreas",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-13T03:47:09.258Z"
+  },
+  {
+    "title": "Does Adding 2 Grams of Inulin-FOS Daily Improve Postprandial GLP-1 and PYY Secretion in Adults 59–71 With Prediabetes, Low-Fiber Diets, and Recent Weight Regain?",
+    "description": "Reviews randomized crossover data on prebiotic dosing windows, microbiome response variability, and why baseline butyrate-producing flora determines efficacy—plus how to test responsiveness at home.",
+    "primaryKeyword": "inulin FOS for GLP-1 in prediabetes",
+    "topicCluster": "diet-prebiotics-glp1",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-13T03:47:10.668Z"
+  },
+  {
+    "title": "Warning Signs Your Insulin Pump Site Is Causing Localized Lipohypertrophy—Even If You Rotate 'Religiously' — In Adults 60+ With Long-Term Pump Use and Reduced Skin Elasticity",
+    "description": "Details subtle clues (delayed bolus absorption, asymmetric tissue texture, micro-bleeding under tape) often missed in aging skin—and introduces ultrasound-guided rotation mapping for clinical prevention.",
+    "primaryKeyword": "insulin pump lipohypertrophy warning signs",
+    "topicCluster": "treatment-pump-complications",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-13T03:47:15.112Z"
+  },
+  {
+    "title": "How Chronic Low-Dose Proton Pump Inhibitor Use Reduces Gastric Intrinsic Factor and Worsens Vitamin B12-Dependent Homocysteine Metabolism in Adults 66–82 With Type 2 Diabetes and Peripheral Neuropathy",
+    "description": "Links gastric acid suppression to B12 malabsorption, elevated homocysteine, and accelerated nerve demyelination—offering functional testing thresholds and food-first repletion strategies.",
+    "primaryKeyword": "PPI use vitamin B12 neuropathy diabetes",
+    "topicCluster": "medications-gut-absorption",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-13T03:47:17.961Z"
+  },
+  {
+    "title": "The Complete Guide to Managing 'Brittle' Glucose Patterns in Adults 55–69 With Type 1 Diabetes, Autonomic Neuropathy, and Frequent Unexplained Hypoglycemia",
+    "description": "Covers autonomic testing interpretation, counterregulatory hormone assessment, CGM-based pattern recognition algorithms, and non-insulin stabilization strategies—including timed glucagon analogs and vagal tone training.",
+    "primaryKeyword": "brittle diabetes autonomic neuropathy guide",
+    "topicCluster": "treatment-brittle-patterns",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-13T03:47:20.845Z"
+  },
+  {
+    "title": "When to Worry About 'Stable' A1c and Rising Fasting Glucose — Especially in Adults 68–84 With Type 2 Diabetes, Chronic Kidney Disease Stage 3, and Declining Albumin",
+    "description": "Explains how falling albumin distorts A1c reliability and masks worsening hepatic insulin resistance—highlighting when to pivot to fructosamine, glycated albumin, or 1,5-AG testing.",
+    "primaryKeyword": "A1c reliability with low albumin",
+    "topicCluster": "monitoring-a1c-limitations",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-13T03:47:22.237Z"
+  }
+]

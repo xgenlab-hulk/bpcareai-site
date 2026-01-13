@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "What Causes Blood Pressure to Spike During Morning Showering in Adults 62–78 With Autonomic Neuropathy and Orthostatic Hypotension?",
+    "description": "Explores the physiological cascade—thermal vasodilation, baroreflex failure, and catecholamine surges—that triggers dangerous BP spikes during hot showers in older adults with autonomic dysfunction.",
+    "primaryKeyword": "morning shower blood pressure spike autonomic neuropathy",
+    "topicCluster": "physiological-triggers-morning-routines",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-13T03:44:42.854Z"
+  },
+  {
+    "title": "How Chronic Low-Grade Gum Inflammation Alters Endothelial Nitric Oxide Synthase Coupling in Adults 64–80 With Stage 1 Hypertension and Mild Periodontitis",
+    "description": "Connects periodontal pathogen load (e.g., *Porphyromonas gingivalis*) to systemic oxidative stress, BH4 depletion, and eNOS uncoupling—detailing measurable biomarkers (ADMA, nitrotyrosine) and gum-health interventions that improve vascular reactivity.",
+    "primaryKeyword": "gum inflammation endothelial nitric oxide synthase coupling",
+    "topicCluster": "oral-systemic-vascular-link",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-13T03:44:48.502Z"
+  },
+  {
+    "title": "A vs B: Evening Magnesium Threonate vs. Morning Magnesium Glycinate for Improving Nocturnal BP Dipping in Women 66–79 With Non-Dipping Pattern and Sleep Fragmentation",
+    "description": "Compares tissue bioavailability, circadian receptor affinity, and CSF penetration of two magnesium forms—and how timing and chelation affect autonomic balance, melatonin signaling, and overnight systolic reduction in women with masked nocturnal hypertension.",
+    "primaryKeyword": "magnesium threonate vs glycinate nocturnal bp dipping",
+    "topicCluster": "supplement-timing-comparisons",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-13T03:44:49.953Z"
+  },
+  {
+    "title": "Quick Ways to Reduce Post-Exercise Diastolic Rebound in Women 57–69 With Mild Diastolic Dysfunction and Elevated E/e’ Ratio",
+    "description": "Offers 90-second cooldown protocols (graded supine positioning, timed exhalation, carotid sinus pressure modulation) that prevent dangerous diastolic pressure surges after moderate aerobic activity in early-stage diastolic impairment.",
+    "primaryKeyword": "post-exercise diastolic rebound diastolic dysfunction",
+    "topicCluster": "exercise-recovery-safety",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-13T03:44:58.530Z"
+  },
+  {
+    "title": "Does Daily 20-Minute Forest Bathing (Shinrin-Yoku) Improve Endothelial Progenitor Cell Mobilization in Men 60–75 With Stage 1 Hypertension and Low CD34+/VEGFR2+ Counts?",
+    "description": "Examines the immunomodulatory and NO-boosting effects of phytoncides, negative air ions, and mindful nature exposure on vascular repair capacity—measured via flow cytometry and reactive hyperemia index.",
+    "primaryKeyword": "forest bathing endothelial progenitor cells hypertension",
+    "topicCluster": "nature-based-vascular-repair",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-13T03:44:59.984Z"
+  },
+  {
+    "title": "10 Foods That Activate SIRT1 to Enhance eNOS Acetylation and Improve Flow-Mediated Dilation in Adults 65–80 With Endothelial Dysfunction and Normal LDL",
+    "description": "Highlights underutilized SIRT1-activating foods (black garlic, raw cocoa, fermented soy, pomegranate ellagitannins) and explains how deacetylation of eNOS boosts nitric oxide bioavailability independent of cholesterol status.",
+    "primaryKeyword": "sirt1 activating foods endothelial dysfunction flow-mediated dilation",
+    "topicCluster": "epigenetic-endothelial-support",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-13T03:45:01.468Z"
+  },
+  {
+    "title": "The Complete Guide to Interpreting Ambulatory Blood Pressure Reports—Especially for Adults 64+ With Nocturnal Non-Dipping, Sleep Apnea, and Fragmented REM Cycles",
+    "description": "Breaks down ABPM metrics beyond averages: sleep-trough timing, morning surge slope, load area, reverse dipping, and how polysomnography correlates with each abnormal pattern in aging patients.",
+    "primaryKeyword": "interpreting ambulatory blood pressure reports sleep apnea",
+    "topicCluster": "diagnostic-report-literacy",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-13T03:45:04.337Z"
+  },
+  {
+    "title": "How Chronic Low-Dose Aspirin Use Alters Prostacyclin–Thromboxane Balance and Worsens Peripheral Vasoconstriction in Adults 68–83 With Hypertension and Claudication",
+    "description": "Analyzes aspirin’s differential inhibition of COX-1 in platelets vs. COX-2 in endothelium—and why sustained low-dose use may impair vasodilatory prostacyclin synthesis in patients with PAD and hypertension.",
+    "primaryKeyword": "low-dose aspirin prostacyclin thromboxane vasoconstriction",
+    "topicCluster": "medication-interactions-vascular",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-13T03:45:05.839Z"
+  },
+  {
+    "title": "Best Breathing Patterns for Reducing Central Systolic Pressure in Adults 55–69 With Elevated Augmentation Index and High-Frequency HRV Suppression",
+    "description": "Teaches resonance frequency breathing (0.1 Hz), slow-exhalation bias (1:2 ratio), and diaphragmatic load sequencing—validated by carotid tonometry and central BP modeling—to reduce wave reflection and aortic afterload.",
+    "primaryKeyword": "breathing patterns central systolic pressure augmentation index",
+    "topicCluster": "respiratory-vascular-mechanics",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-13T03:45:07.256Z"
+  }
+]

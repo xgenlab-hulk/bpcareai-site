@@ -26,6 +26,8 @@ relatedSlugs:
     natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - >-
     natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+  - >-
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
 ---
 
 # Natural Ways to Support Pancreatic Enzyme Output During Holiday Meals—Evidence from Older Adults

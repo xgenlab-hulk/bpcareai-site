@@ -1,14 +1,31 @@
 ---
-title: "10 Foods That Support Mitochondrial Resilience During Holiday Stress in Adults 57–74 With Chronic Fatigue"
-slug: "10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue"
-description: "Highlights mitochondrial cofactor-rich foods (pomegranate, pasture-raised eggs, shiitake, sprouted lentils) and timing strategies to sustain energy amid social exhaustion."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["mitochondrial resilience holiday stress", "healthy eating during family gatherings", "mitochondrial-nutrition-fatigue"]
-primaryKeyword: "mitochondrial resilience holiday stress"
-topicCluster: "mitochondrial-nutrition-fatigue"
-image: ""
-relatedSlugs: ["10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max", "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80", "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib"]
+title: >-
+  10 Foods That Support Mitochondrial Resilience During Holiday Stress in Adults
+  57–74 With Chronic Fatigue
+slug: >-
+  10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue
+description: >-
+  Highlights mitochondrial cofactor-rich foods (pomegranate, pasture-raised
+  eggs, shiitake, sprouted lentils) and timing strategies to sustain energy amid
+  social exhaustion.
+date: '2026-01-07'
+updated: '2026-01-07'
+tags:
+  - mitochondrial resilience holiday stress
+  - healthy eating during family gatherings
+  - mitochondrial-nutrition-fatigue
+primaryKeyword: mitochondrial resilience holiday stress
+topicCluster: mitochondrial-nutrition-fatigue
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+  - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+  - >-
+    11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79
 ---
 
 # Nourishing Your Energy When Holidays Feel Heavy: Mitochondrial Resilience Holiday Stress Support for Adults 57–74

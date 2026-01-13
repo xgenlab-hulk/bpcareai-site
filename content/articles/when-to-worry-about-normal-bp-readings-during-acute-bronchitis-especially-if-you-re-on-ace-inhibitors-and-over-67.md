@@ -1,14 +1,31 @@
 ---
-title: "When to Worry About 'Normal' BP Readings During Acute Bronchitis—Especially If You’re on ACE Inhibitors and Over 67"
-slug: "when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67"
-description: "Explains how airway inflammation and cough-induced intrathoracic pressure surges mask true vascular resistance, increasing risk of undetected hypertensive urgency."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["blood pressure during bronchitis ace inhibitors", "blood pressure", "acute-illness-bp-monitoring"]
-primaryKeyword: "blood pressure during bronchitis ace inhibitors"
-topicCluster: "acute-illness-bp-monitoring"
-image: ""
-relatedSlugs: ["when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants", "when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68", "can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76"]
+title: >-
+  When to Worry About 'Normal' BP Readings During Acute Bronchitis—Especially If
+  You’re on ACE Inhibitors and Over 67
+slug: >-
+  when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
+description: >-
+  Explains how airway inflammation and cough-induced intrathoracic pressure
+  surges mask true vascular resistance, increasing risk of undetected
+  hypertensive urgency.
+date: '2026-01-05'
+updated: '2026-01-05'
+tags:
+  - blood pressure during bronchitis ace inhibitors
+  - blood pressure
+  - acute-illness-bp-monitoring
+primaryKeyword: blood pressure during bronchitis ace inhibitors
+topicCluster: acute-illness-bp-monitoring
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
+  - >-
+    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
+  - >-
+    how-indoor-barometric-pressure-drops-below-1005-hpa-increase-ambulatory-systolic-load-in-adults-63-82-with-hypertensive-heart-disease-and-left-atrial-enlargement
 ---
 
 # What Your “Normal” Blood Pressure Really Means During Bronchitis—Especially on ACE Inhibitors After Age 67
