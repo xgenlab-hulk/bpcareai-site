@@ -1,14 +1,33 @@
 ---
-title: "What Research Says About Low-Dose Aspirin and Diabetic Retinopathy Progression in Men 68–80 With Nonproliferative Disease"
-slug: "what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease"
-description: "Reviews RCT and cohort evidence on antiplatelet therapy’s paradoxical effects on retinal microvascular integrity, including when aspirin may accelerate vs. stabilize early-stage diabetic eye disease."
-date: "2026-01-10"
-updated: "2026-01-10"
-tags: ["aspirin diabetic retinopathy men 68-80", "diabetes", "medication-complication-interaction"]
-primaryKeyword: "aspirin diabetic retinopathy men 68-80"
-topicCluster: "medication-complication-interaction"
-image: ""
-relatedSlugs: ["a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100", "what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease", "a-vs-b-daily-low-dose-aspirin-vs-colchicine-for-secondary-prevention-in-adults-64-79-with-prior-myocardial-infarction-and-elevated-hs-crp", "warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71"]
+title: >-
+  What Research Says About Low-Dose Aspirin and Diabetic Retinopathy Progression
+  in Men 68–80 With Nonproliferative Disease
+slug: >-
+  what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
+description: >-
+  Reviews RCT and cohort evidence on antiplatelet therapy’s paradoxical effects
+  on retinal microvascular integrity, including when aspirin may accelerate vs.
+  stabilize early-stage diabetic eye disease.
+date: '2026-01-10'
+updated: '2026-01-10'
+tags:
+  - aspirin diabetic retinopathy men 68-80
+  - diabetes
+  - medication-complication-interaction
+primaryKeyword: aspirin diabetic retinopathy men 68-80
+topicCluster: medication-complication-interaction
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
+  - >-
+    a-vs-b-daily-low-dose-aspirin-vs-colchicine-for-secondary-prevention-in-adults-64-79-with-prior-myocardial-infarction-and-elevated-hs-crp
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+  - >-
+    how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication
 ---
 
 # What the Evidence Shows: Aspirin, Diabetic Retinopathy, and Men Aged 68–80 With Early-Stage Disease

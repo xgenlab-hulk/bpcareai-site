@@ -1,14 +1,31 @@
 ---
-title: "How Chronic Constipation Alters Gut-Derived GLP-1 Secretion and Worsens Glycemic Variability in Adults 60+ With Type 2 Diabetes"
-slug: "how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes"
-description: "Breaks down the microbiome–enteroendocrine axis disruption caused by prolonged transit time, with evidence-based fiber titration strategies, osmotic laxative timing, and motilin-targeted dietary triggers."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["constipation glp-1 secretion type 2 diabetes", "diabetes", "gut-endocrine-connection"]
-primaryKeyword: "constipation glp-1 secretion type 2 diabetes"
-topicCluster: "gut-endocrine-connection"
-image: ""
-relatedSlugs: ["best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation", "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists", "12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64"]
+title: >-
+  How Chronic Constipation Alters Gut-Derived GLP-1 Secretion and Worsens
+  Glycemic Variability in Adults 60+ With Type 2 Diabetes
+slug: >-
+  how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
+description: >-
+  Breaks down the microbiome–enteroendocrine axis disruption caused by prolonged
+  transit time, with evidence-based fiber titration strategies, osmotic laxative
+  timing, and motilin-targeted dietary triggers.
+date: '2026-01-12'
+updated: '2026-01-12'
+tags:
+  - constipation glp-1 secretion type 2 diabetes
+  - diabetes
+  - gut-endocrine-connection
+primaryKeyword: constipation glp-1 secretion type 2 diabetes
+topicCluster: gut-endocrine-connection
+image: ''
+relatedSlugs:
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
+  - >-
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
+  - >-
+    does-adding-2-grams-of-inulin-fos-daily-improve-postprandial-glp-1-and-pyy-secretion-in-adults-59-71-with-prediabetes-low-fiber-diets-and-recent-weight-regain
 ---
 
 # How Chronic Constipation Disrupts GLP-1 Secretion and Impacts Blood Sugar Control in Older Adults With Type 2 Diabetes
