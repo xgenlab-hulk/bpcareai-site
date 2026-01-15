@@ -26,6 +26,8 @@ relatedSlugs:
     when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
   - >-
     when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
+  - >-
+    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
 ---
 
 # When a Single High Blood Pressure Reading NSAIDs Might Signal More Than Stress—A Practical Guide for Adults 55–79

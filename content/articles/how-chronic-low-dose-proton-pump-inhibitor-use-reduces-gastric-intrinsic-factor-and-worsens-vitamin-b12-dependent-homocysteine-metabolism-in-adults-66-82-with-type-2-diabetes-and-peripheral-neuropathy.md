@@ -1,14 +1,26 @@
 ---
-title: "How Chronic Low-Dose Proton Pump Inhibitor Use Reduces Gastric Intrinsic Factor and Worsens Vitamin B12-Dependent Homocysteine Metabolism in Adults 66–82 With Type 2 Diabetes and Peripheral Neuropathy"
-slug: "how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy"
-description: "Links gastric acid suppression to B12 malabsorption, elevated homocysteine, and accelerated nerve demyelination—offering functional testing thresholds and food-first repletion strategies."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["PPI use vitamin B12 neuropathy diabetes", "diabetes", "medications-gut-absorption"]
-primaryKeyword: "PPI use vitamin B12 neuropathy diabetes"
-topicCluster: "medications-gut-absorption"
-image: ""
-relatedSlugs: []
+title: >-
+  How Chronic Low-Dose Proton Pump Inhibitor Use Reduces Gastric Intrinsic
+  Factor and Worsens Vitamin B12-Dependent Homocysteine Metabolism in Adults
+  66–82 With Type 2 Diabetes and Peripheral Neuropathy
+slug: >-
+  how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
+description: >-
+  Links gastric acid suppression to B12 malabsorption, elevated homocysteine,
+  and accelerated nerve demyelination—offering functional testing thresholds and
+  food-first repletion strategies.
+date: '2026-01-14'
+updated: '2026-01-14'
+tags:
+  - PPI use vitamin B12 neuropathy diabetes
+  - diabetes
+  - medications-gut-absorption
+primaryKeyword: PPI use vitamin B12 neuropathy diabetes
+topicCluster: medications-gut-absorption
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing
 ---
 
 # How Long-Term PPI Use Affects Vitamin B12, Nerves, and Heart Health in Adults With Diabetes and Neuropathy

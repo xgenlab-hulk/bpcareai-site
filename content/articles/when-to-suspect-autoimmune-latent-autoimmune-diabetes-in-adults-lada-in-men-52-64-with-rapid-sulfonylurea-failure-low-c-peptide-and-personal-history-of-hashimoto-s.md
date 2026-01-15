@@ -1,14 +1,30 @@
 ---
-title: "When to Suspect Autoimmune Latent Autoimmune Diabetes in Adults (LADA) in Men 52–64 With Rapid Sulfonylurea Failure, Low C-Peptide, and Personal History of Hashimoto’s"
-slug: "when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s"
-description: "Guides recognition of LADA in middle-aged adults misdiagnosed as type 2—focusing on antibody testing timing, clinical red flags, and why early insulin initiation preserves residual beta-cell mass."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["LADA diagnosis in middle-aged men", "diabetes", "diagnosis-autoimmune-dm"]
-primaryKeyword: "LADA diagnosis in middle-aged men"
-topicCluster: "diagnosis-autoimmune-dm"
-image: ""
-relatedSlugs: ["when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving", "myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes"]
+title: >-
+  When to Suspect Autoimmune Latent Autoimmune Diabetes in Adults (LADA) in Men
+  52–64 With Rapid Sulfonylurea Failure, Low C-Peptide, and Personal History of
+  Hashimoto’s
+slug: >-
+  when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
+description: >-
+  Guides recognition of LADA in middle-aged adults misdiagnosed as type
+  2—focusing on antibody testing timing, clinical red flags, and why early
+  insulin initiation preserves residual beta-cell mass.
+date: '2026-01-13'
+updated: '2026-01-13'
+tags:
+  - LADA diagnosis in middle-aged men
+  - diabetes
+  - diagnosis-autoimmune-dm
+primaryKeyword: LADA diagnosis in middle-aged men
+topicCluster: diagnosis-autoimmune-dm
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving
+  - >-
+    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
+  - >-
+    how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
 ---
 
 # Recognizing LADA in Middle-Aged Men: A Gentle Guide to Early Autoimmune Diabetes Identification

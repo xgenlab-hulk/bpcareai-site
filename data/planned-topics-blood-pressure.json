@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "title": "Can Daily 4-Minute Nasal Breathing Sequencing (Buteyko + Box Breathing) Reduce Central Aortic Systolic Pressure in Women 58–71 With Elevated Pulse Wave Velocity?",
+    "description": "Evaluates a low-barrier, device-free breathing protocol’s effect on central hemodynamics — backed by tonometric data and endothelial shear stress modeling in midlife hypertensive women.",
+    "primaryKeyword": "nasal breathing central aortic pressure",
+    "topicCluster": "respiratory-hemodynamics",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-15T03:47:21.228Z"
+  },
+  {
+    "title": "How Gut Microbial TMAO Production Modulates Vascular Smooth Muscle Calcium Sensitivity in Adults 65–81 With Hypertension and High-Fat Diet History",
+    "description": "Connects microbial metabolites to intracellular calcium handling in resistance arteries — with dietary interventions to lower TMAO and improve vasodilatory reserve.",
+    "primaryKeyword": "tmao blood pressure vascular calcium",
+    "topicCluster": "gut-vascular-axis",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-15T03:47:28.920Z"
+  },
+  {
+    "title": "Quick Ways to Normalize Morning BP Surge Using Pre-Rise Hydration Timing, Foot Warming, and Cervical Pillow Angle — For Adults 67+ With Sleep Apnea and Elevated Morning SBP",
+    "description": "Presents a 3-step pre-awakening protocol targeting sympathetic surge, endothelial nitric oxide release, and carotid baroreceptor sensitivity — with evidence from polysomnography-BP coupling studies.",
+    "primaryKeyword": "morning blood pressure surge reduction",
+    "topicCluster": "circadian-morning-surge",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-15T03:47:30.645Z"
+  },
+  {
+    "title": "Does Daily 1.5 g of Algal DHA (Without EPA) Improve Endothelial-Dependent Vasodilation in Women 59–75 With Hypertension and Low Omega-3 Index (<4%)?",
+    "description": "Evaluates DHA-specific effects on FMD, red blood cell membrane fluidity, and eNOS coupling — distinguishing outcomes from mixed omega-3 formulations in female-dominant cohorts.",
+    "primaryKeyword": "algal dha endothelial function women",
+    "topicCluster": "omega-3-endpoint-specificity",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-15T03:47:32.217Z"
+  },
+  {
+    "title": "The Complete Guide to Interpreting Pulse Pressure Widening in Adults 76+ With Aortic Valve Sclerosis, Not Just Aortic Stenosis",
+    "description": "Differentiates structural vs. functional causes of widened pulse pressure — including valve calcification dynamics, arterial elastin fragmentation, and systolic time interval analysis.",
+    "primaryKeyword": "pulse pressure widening aortic sclerosis",
+    "topicCluster": "valvular-vascular-interaction",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-15T03:47:36.802Z"
+  },
+  {
+    "title": "5 Things Everyone Over 65 Should Know About Blood Pressure Medication Tapering — Especially If You’re On Dual RAS Blockade and Have Declining eGFR",
+    "description": "Covers evidence-based deprescribing criteria, rebound hypertension risks, RAAS adaptation timelines, and monitoring windows for renal and cerebral perfusion stability.",
+    "primaryKeyword": "blood pressure medication tapering elderly",
+    "topicCluster": "pharmacologic-deprescribing",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-15T03:47:38.312Z"
+  },
+  {
+    "title": "Warning Signs Your BP Medication Is Causing Subclinical Cerebral Hypoperfusion — Even If Your Numbers Look 'Good' on ABPM",
+    "description": "Highlights cognitive, gait, and sleep architecture changes linked to excessive nocturnal dipping or excessive peripheral vasodilation — with SPECT perfusion correlation tips.",
+    "primaryKeyword": "bp medication cerebral hypoperfusion",
+    "topicCluster": "cerebral-perfusion-risks",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-15T03:47:44.397Z"
+  }
+]

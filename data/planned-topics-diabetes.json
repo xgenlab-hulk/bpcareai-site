@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "title": "Can Daily 12-Minute Chair Yoga Sessions Improve Insulin Sensitivity in Sedentary Adults 70+ With Type 2 Diabetes and Hip Osteoarthritis?",
+    "description": "This article reviews clinical trial data and mechanistic pathways linking low-impact yoga to skeletal muscle GLUT4 translocation and postprandial glucose disposal in frail older adults with mobility limitations.",
+    "primaryKeyword": "chair yoga insulin sensitivity seniors",
+    "topicCluster": "exercise-mobility",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:48:52.663Z"
+  },
+  {
+    "title": "5 Things Every Woman Over 65 With Type 2 Diabetes and Early-Stage Osteoporosis Should Know About Thiazolidinediones",
+    "description": "Breaks down the bone mineral density trade-offs of TZDs—including differential effects on cortical vs. trabecular bone—and alternatives with better skeletal safety profiles.",
+    "primaryKeyword": "tzds osteoporosis women over 65",
+    "topicCluster": "medications-bone-health",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:48:55.770Z"
+  },
+  {
+    "title": "The Truth About 'Low-Sugar' Protein Powders for Adults 62–79 With Stage 3 CKD and Diabetic Nephropathy",
+    "description": "Analyzes hidden phosphorus load, glycemic index shifts from maltodextrin fillers, and amino acid profiles that may accelerate uremic toxin generation in compromised kidneys.",
+    "primaryKeyword": "low-sugar protein powder ckddiabetic nephropathy",
+    "topicCluster": "nutrition-renal",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:48:58.830Z"
+  },
+  {
+    "title": "Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle Without Exercise—For Adults 71+ With Type 2 Diabetes and Severe COPD",
+    "description": "Focuses on dietary polyphenols (e.g., urolithin A), cold exposure protocols, and circadian redox modulation to enhance PGC-1α expression and reduce intramyocellular lipid accumulation.",
+    "primaryKeyword": "mitochondrial biogenesis diabetes copd",
+    "topicCluster": "natural-remedies-mitochondria",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:49:04.989Z"
+  },
+  {
+    "title": "10 Foods That Activate AMPK in Hepatocytes Without Fasting—Backed by Human Liver Biopsy Transcriptomics in Adults 60–75 With NAFLD and Prediabetes",
+    "description": "Highlights specific phytochemicals (e.g., berberine analogs, apigenin glycosides) and their dose-dependent AMPK phosphorylation effects observed in ex vivo liver tissue studies.",
+    "primaryKeyword": "ampk-activating foods nafld prediabetes",
+    "topicCluster": "diet-molecular-pathways",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:49:11.420Z"
+  },
+  {
+    "title": "How Chronic Low-Dose Corticosteroid Use (e.g., Inhaled Budesonide) Alters Hepatic Gluconeogenic Enzyme Expression in Adults 65–81 With Type 2 Diabetes and Asthma",
+    "description": "Investigates tissue-specific glucocorticoid receptor sensitivity, PEPCK transcriptional upregulation, and why inhaled doses still significantly impact fasting glucose despite low systemic bioavailability.",
+    "primaryKeyword": "inhaled steroids gluconeogenesis diabetes",
+    "topicCluster": "medications-lung-liver",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:49:14.447Z"
+  },
+  {
+    "title": "The Complete Guide to Managing Diabetic Gastroparesis During Ramadan Fasting in Adults 52–68 With Type 1 Diabetes and Autonomic Neuropathy",
+    "description": "Provides halal-compliant insulin adjustment algorithms, pre-dawn hydration protocols, symptom-triggered breaking strategies, and gastric-emptying biomarker interpretation.",
+    "primaryKeyword": "diabetic gastroparesis ramadan fasting",
+    "topicCluster": "religion-fasting",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:49:15.984Z"
+  },
+  {
+    "title": "Myths vs Facts: 'Carb Counting Works for Everyone' — Why It Fails in Adults 73+ With Mild Cognitive Impairment and Late-Stage Diabetic Retinopathy",
+    "description": "Debunks assumptions about numeracy, visual acuity, working memory, and executive function demands—and presents adaptive alternatives like visual plate templates and AI-assisted image recognition.",
+    "primaryKeyword": "carb counting cognitive impairment elderly",
+    "topicCluster": "education-accessibility",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:49:17.502Z"
+  },
+  {
+    "title": "What Research Says About Intermittent Fasting (16:8) and Beta-Cell Regeneration in Adults 55–67 With Recent-Onset Type 2 Diabetes and Preserved C-Peptide",
+    "description": "Synthesizes human islet cell imaging, fasting-induced beta-cell dedifferentiation reversal, and long-term insulin independence rates observed in real-world cohorts.",
+    "primaryKeyword": "intermittent fasting beta-cell regeneration",
+    "topicCluster": "fasting-beta-cell",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:49:19.039Z"
+  },
+  {
+    "title": "Best Footwear Materials for Reducing Shear Stress in Adults 68–82 With Diabetic Neuropathy, Hallux Rigidus, and History of Recurrent Toe Ulcers",
+    "description": "Compares shear modulus properties of modern foams, 3D-printed lattice structures, and moisture-wicking liners—and links material science to plantar pressure redistribution metrics.",
+    "primaryKeyword": "diabetic footwear shear stress ulcer prevention",
+    "topicCluster": "footwear-biomechanics",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:49:20.571Z"
+  },
+  {
+    "title": "How Indoor Air Pollutants (PM2.5, NO2) Disrupt Pancreatic Islet Mitochondrial Respiration and Exacerbate Glucose Variability in Adults 60–74 With Type 2 Diabetes and Urban Residency",
+    "description": "Explores air pollution–induced ROS in beta-cells, reduced ATP production, and implications for insulin pulsatility and hypoglycemia unawareness in high-traffic neighborhoods.",
+    "primaryKeyword": "air pollution pancreatic mitochondria diabetes",
+    "topicCluster": "environment-endocrinology",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-15T03:49:22.140Z"
+  }
+]
