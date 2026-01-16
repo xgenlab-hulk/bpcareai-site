@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "title": "7 Hidden Sleep Position Risks That Worsen Pulmonary Congestion in Adults 73+ With HFpEF and Mild Obstructive Sleep Apnea",
+    "description": "Details how supine vs. lateral positioning alters nocturnal pulmonary capillary wedge pressure, right ventricular afterload, and apnea-hypopnea index amplification — with validated pillow-modification protocols.",
+    "primaryKeyword": "sleep position pulmonary congestion hfpef seniors",
+    "topicCluster": "sleep-position-hemodynamics",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:47:59.177Z"
+  },
+  {
+    "title": "Why Does Heart Failure Progress Despite Stable NT-proBNP in Adults 66+ With Iron Deficiency Anemia and Elevated Hepcidin?",
+    "description": "Explains hepcidin-mediated ferroportin blockade, mitochondrial iron starvation in cardiomyocytes, and how ferritin saturation <15% predicts 2-year ejection fraction decline independent of BNP.",
+    "primaryKeyword": "heart failure nt-probnp iron deficiency seniors",
+    "topicCluster": "iron-metabolism-cardiac-function",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:01.921Z"
+  },
+  {
+    "title": "A vs B: 4-Minute Daily Isometric Handgrip vs. 15-Minute Morning Tai Chi for Reducing Central Aortic Systolic Pressure in Adults 60–74 With Isolated Systolic Hypertension",
+    "description": "Compares pulse wave velocity changes, carotid-femoral transit time, and baroreflex gain improvements over 8 weeks — with stratification by arterial stiffness biomarkers.",
+    "primaryKeyword": "isometric handgrip tai chi central aortic pressure",
+    "topicCluster": "non-pharmacologic-blood-pressure-comparison",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:03.302Z"
+  },
+  {
+    "title": "5 Things Everyone Over 75 Should Know About ‘Silent’ Myocardial Infarction Detection Using Continuous ECG Patch Monitoring and AI-Derived ST-T Morphology Clustering",
+    "description": "Breaks down how AI-enhanced wearable ECGs identify subtle ST-segment hysteresis, T-wave alternans, and QT dispersion patterns missed by standard troponin + ECG protocols.",
+    "primaryKeyword": "silent myocardial infarction ecg patch monitoring",
+    "topicCluster": "ai-diagnostics-silent-mi",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:04.715Z"
+  },
+  {
+    "title": "How Chronic Low-Dose Cadmium Exposure From Rice-Based Diets Alters Cardiac Ryanodine Receptor Function in Adults 59–76 With Atrial Fibrillation and Normal EF",
+    "description": "Links dietary cadmium accumulation to RyR2 phosphorylation dysregulation, calcium leak, and increased AF burden — especially in populations consuming >200g/day white rice.",
+    "primaryKeyword": "cadmium exposure atrial fibrillation ryanodine receptor",
+    "topicCluster": "heavy-metal-electrophysiology",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:06.157Z"
+  },
+  {
+    "title": "Warning Signs Your ‘Stable’ Heart Failure Is Masking Early Right Ventricular Fibrosis — Especially With Elevated Serum Galectin-3 and Reduced RV Strain Rate",
+    "description": "Identifies subtle markers like exertional desaturation without dyspnea, disproportionate ankle edema vs. jugular pressure, and strain-echo discordance as early RV fibrosis signals.",
+    "primaryKeyword": "right ventricular fibrosis galectin-3 warning signs",
+    "topicCluster": "right-heart-fibrosis-early-detection",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:08.917Z"
+  },
+  {
+    "title": "Does Daily Cold-Water Face Immersion Improve Vagal Tone and Reduce Atrial Fibrillation Burden in Adults 67+ With Paroxysmal AF and Low HRV?",
+    "description": "Reviews randomized data on diving reflex activation, HRV metrics (RMSSD, HF power), and 30-day implantable loop recorder outcomes in AF patients not on antiarrhythmics.",
+    "primaryKeyword": "cold water face immersion afib vagal tone",
+    "topicCluster": "vagal-stimulation-arrhythmia",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:10.295Z"
+  },
+  {
+    "title": "12 Science-Backed Ways to Lower Coronary Artery Calcium Score Progression Without Statins — For Adults 57–69 With CAC >100 and Statin Intolerance",
+    "description": "Covers magnesium threonate, berberine-policosanol combos, apoB-targeted nutraceuticals, and vascular calcification inhibitors like pyrophosphate analogs and fetuin-A modulators.",
+    "primaryKeyword": "lower cac score without statins seniors",
+    "topicCluster": "coronary-calcium-non-statin-strategies",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:11.671Z"
+  },
+  {
+    "title": "Quick Ways to Normalize Left Atrial Appendage Flow Velocity Using Diaphragmatic Breathing and Postural Sequencing — Especially in Adults 65+ With CHA₂DS₂-VASc ≥3",
+    "description": "Teaches breath-hold timing, seated-to-standing transitions, and left lateral decubitus positioning to enhance LAA emptying velocity >40 cm/s and reduce thrombus risk.",
+    "primaryKeyword": "left atrial appendage flow velocity breathing",
+    "topicCluster": "laa-hemodynamics-thromboembolism",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:14.428Z"
+  },
+  {
+    "title": "Myths vs Facts: ‘I Have No Symptoms, So My Heart Is Fine’ in Adults 53–68 With Subclinical Atherosclerosis and Normal Stress Echo",
+    "description": "Debunks asymptomatic reassurance by showing plaque rupture risk correlates with necrotic core size, thin-cap fibroatheroma prevalence, and endothelial shear stress — not stenosis severity.",
+    "primaryKeyword": "asymptomatic heart disease subclinical atherosclerosis",
+    "topicCluster": "asymptomatic-plaque-risk-misconceptions",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:15.810Z"
+  },
+  {
+    "title": "How Long-Distance Air Travel Alters Endothelial Glycocalyx Thickness and Microvascular Permeability in Adults 61–77 With Stage 2 Hypertension and Prior DVT",
+    "description": "Examines cabin hypoxia, dehydration, and prolonged sitting effects on syndecan-1 shedding, capillary leakage, and post-flight NT-proBNP spikes — with pre-flight hydration and compression protocols.",
+    "primaryKeyword": "air travel endothelial glycocalyx hypertension",
+    "topicCluster": "travel-hemodynamics-endothelium",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:17.188Z"
+  },
+  {
+    "title": "The Complete Guide to Interpreting Your Cardiac MRI Stress Perfusion Scan — Especially If You Have Microvascular Angina and Normal Coronary Angiogram",
+    "description": "Walks through quantitative myocardial perfusion reserve (MPR) thresholds, pixel-wise mapping of heterogeneity, and distinguishing ischemia from artifact in women and diabetic patients.",
+    "primaryKeyword": "cardiac mri stress perfusion interpretation guide",
+    "topicCluster": "mri-perfusion-microvascular-angina",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-16T03:48:18.556Z"
+  }
+]

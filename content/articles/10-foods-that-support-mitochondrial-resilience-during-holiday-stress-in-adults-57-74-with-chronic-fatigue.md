@@ -26,6 +26,8 @@ relatedSlugs:
     12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
   - >-
     11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79
+  - >-
+    what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
 ---
 
 # Nourishing Your Energy When Holidays Feel Heavy: Mitochondrial Resilience Holiday Stress Support for Adults 57–74
