@@ -1,14 +1,29 @@
 ---
-title: "The Truth About ‘Heart-Healthy’ Omega-6-Rich Vegetable Oils in Adults 55–70 With Elevated Oxidized LDL and Low HDL2 Subfraction"
-slug: "the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction"
-description: "Debunks mainstream guidance by examining linoleic acid peroxidation in arterial walls, HDL2 dysfunction, and the paradoxical increase in coronary plaque instability despite LDL reduction."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["omega-6 vegetable oils oxidized ldl seniors", "heart disease", "dietary-fat-inflammatory-plaque"]
-primaryKeyword: "omega-6 vegetable oils oxidized ldl seniors"
-topicCluster: "dietary-fat-inflammatory-plaque"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76", "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio"]
+title: >-
+  The Truth About ‘Heart-Healthy’ Omega-6-Rich Vegetable Oils in Adults 55–70
+  With Elevated Oxidized LDL and Low HDL2 Subfraction
+slug: >-
+  the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
+description: >-
+  Debunks mainstream guidance by examining linoleic acid peroxidation in
+  arterial walls, HDL2 dysfunction, and the paradoxical increase in coronary
+  plaque instability despite LDL reduction.
+date: '2026-01-16'
+updated: '2026-01-16'
+tags:
+  - omega-6 vegetable oils oxidized ldl seniors
+  - heart disease
+  - dietary-fat-inflammatory-plaque
+primaryKeyword: omega-6 vegetable oils oxidized ldl seniors
+topicCluster: dietary-fat-inflammatory-plaque
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
+  - >-
+    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
+  - >-
+    the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60
 ---
 
 # What You Need to Know About Omega-6 Vegetable Oils, Oxidized LDL, and Heart Health in Adults 55–70

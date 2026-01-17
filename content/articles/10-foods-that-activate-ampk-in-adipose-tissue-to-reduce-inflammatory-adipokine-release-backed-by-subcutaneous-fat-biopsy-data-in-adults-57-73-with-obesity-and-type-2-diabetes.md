@@ -1,14 +1,30 @@
 ---
-title: "10 Foods That Activate AMPK in Adipose Tissue to Reduce Inflammatory Adipokine Release — Backed by Subcutaneous Fat Biopsy Data in Adults 57–73 With Obesity and Type 2 Diabetes"
-slug: "10-foods-that-activate-ampk-in-adipose-tissue-to-reduce-inflammatory-adipokine-release-backed-by-subcutaneous-fat-biopsy-data-in-adults-57-73-with-obesity-and-type-2-diabetes"
-description: "Highlights clinically validated AMPK activators—including allicin-rich crushed garlic, berberine-containing goldenseal root, and cold-pressed black cumin oil—paired with timing and preparation nuances for maximal effect."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["AMPK activating foods for adipose inflammation", "diabetes", "diet-ampk-adipose"]
-primaryKeyword: "AMPK activating foods for adipose inflammation"
-topicCluster: "diet-ampk-adipose"
-image: ""
-relatedSlugs: ["10-foods-that-enhance-skeletal-muscle-glucose-uptake-via-ampk-activation-backed-by-muscle-biopsy-data-in-adults-61-76", "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina"]
+title: >-
+  10 Foods That Activate AMPK in Adipose Tissue to Reduce Inflammatory Adipokine
+  Release — Backed by Subcutaneous Fat Biopsy Data in Adults 57–73 With Obesity
+  and Type 2 Diabetes
+slug: >-
+  10-foods-that-activate-ampk-in-adipose-tissue-to-reduce-inflammatory-adipokine-release-backed-by-subcutaneous-fat-biopsy-data-in-adults-57-73-with-obesity-and-type-2-diabetes
+description: >-
+  Highlights clinically validated AMPK activators—including allicin-rich crushed
+  garlic, berberine-containing goldenseal root, and cold-pressed black cumin
+  oil—paired with timing and preparation nuances for maximal effect.
+date: '2026-01-13'
+updated: '2026-01-13'
+tags:
+  - AMPK activating foods for adipose inflammation
+  - diabetes
+  - diet-ampk-adipose
+primaryKeyword: AMPK activating foods for adipose inflammation
+topicCluster: diet-ampk-adipose
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-enhance-skeletal-muscle-glucose-uptake-via-ampk-activation-backed-by-muscle-biopsy-data-in-adults-61-76
+  - >-
+    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+  - >-
+    10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes
 ---
 
 # 10 Foods That Support Healthy Adipose Tissue by Activating AMPK — Evidence from Real Human Fat Biopsies in Adults 57–73 with Obesity and Type 2 Diabetes
