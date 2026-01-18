@@ -18,6 +18,8 @@ relatedSlugs:
   - how-chronic-stress-contributes-to-high-blood-pressure-over-time
   - blood-pressure-changes-during-menopause-what-women-should-know
   - how-belly-fat-increases-blood-pressure-risk-after-middle-age
+  - >-
+    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
 ---
 
 # How Prolonged Sitting Increases Sitting and High Blood Pressure Risk

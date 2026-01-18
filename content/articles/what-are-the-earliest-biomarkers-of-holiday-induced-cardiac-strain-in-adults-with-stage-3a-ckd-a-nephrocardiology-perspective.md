@@ -26,6 +26,8 @@ relatedSlugs:
     what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
     what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
+  - >-
+    warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate
 ---
 
 # Early Biomarkers of Cardiac Strain in CKD Stage 3a: What to Watch for During the Holidays
