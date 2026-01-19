@@ -1,5 +1,664 @@
 [
   {
+    "slug": "when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls",
+    "title": "When to Worry About Blood Pressure Drops During Hot Showers — Especially in Adults 75+ With Carotid Sinus Hypersensitivity and Prior Falls",
+    "description": "Identifies the thermoregulatory-autonomic cascade that triggers syncope in frail older adults, with prevention strategies validated in geriatric fall clinics.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "blood pressure drop during hot shower",
+      "blood pressure",
+      "thermoregulatory-safety"
+    ],
+    "primaryKeyword": "blood pressure drop during hot shower",
+    "topicCluster": "thermoregulatory-safety",
+    "image": "",
+    "relatedSlugs": [
+      "what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension",
+      "why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72",
+      "warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather",
+      "the-impact-of-hot-showers-on-blood-pressure-and-heart-rate",
+      "can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors"
+    ]
+  },
+  {
+    "slug": "what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring",
+    "title": "What Research Says About Midday Napping and Nocturnal BP Dipping in Adults 63–81 With Non-Dipping Patterns on Ambulatory Monitoring",
+    "description": "Synthesizes recent RCTs and cohort data on nap duration, timing, and posture effects on reverse dipping — plus practical protocols for restoring healthy circadian BP rhythm.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "napping and nocturnal blood pressure dipping",
+      "blood pressure",
+      "circadian-bp-rhythm"
+    ],
+    "primaryKeyword": "napping and nocturnal blood pressure dipping",
+    "topicCluster": "circadian-bp-rhythm",
+    "image": "",
+    "relatedSlugs": [
+      "quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns",
+      "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea",
+      "what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history",
+      "simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction",
+      "the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71",
+    "title": "What Causes Sudden Morning Hyperglycemia on Christmas Day — Even With Perfect Nighttime Glucose? (Dawn Phenomenon vs. Somogyi Rebound in Adults 57–71)",
+    "description": "Differentiates hormonal drivers, identifies key CGM patterns (e.g., 3 a.m. dip vs. steady rise), and outlines how to triage using fingerstick + ketone testing — with age-specific cortisol and growth hormone context.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "morning hyperglycemia christmas day cause",
+      "holiday diabetes management",
+      "glucose-dysregulation-mechanisms"
+    ],
+    "primaryKeyword": "morning hyperglycemia christmas day cause",
+    "topicCluster": "glucose-dysregulation-mechanisms",
+    "image": "",
+    "relatedSlugs": [
+      "what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance",
+      "why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66",
+      "how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70",
+      "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
+      "when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction"
+    ]
+  },
+  {
+    "slug": "warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine",
+    "title": "Warning Signs Your Holiday Medication Routine Is Failing — Even If Your A1C Looks 'Fine'",
+    "description": "Highlights discordant metrics: rising glucose variability, increased hypoglycemia frequency, CGM time-in-range erosion, and post-holiday HOMA-IR spikes — with early intervention thresholds for adults 55–78.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "holiday medication routine failure signs",
+      "holiday diabetes management",
+      "medication-monitoring-red-flags"
+    ],
+    "primaryKeyword": "holiday medication routine failure signs",
+    "topicCluster": "medication-monitoring-red-flags",
+    "image": "",
+    "relatedSlugs": [
+      "when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69",
+      "when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction",
+      "the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you",
+      "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes",
+      "best-blood-sugar-monitoring-practices-during-the-holiday-season"
+    ]
+  },
+  {
+    "slug": "the-truth-about-sugar-free-holiday-baking-mixes-why-many-still-raise-a1c-in-adults-59-75-with-long-standing-diabetes",
+    "title": "The Truth About 'Sugar-Free' Holiday Baking Mixes — Why Many Still Raise A1C in Adults 59–75 With Long-Standing Diabetes",
+    "description": "Breaks down label loopholes, maltitol and isomalt content, net carb miscalculations, and real-world HbA1c shifts observed in 12-week cohort studies.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "sugar-free baking mixes a1c impact",
+      "holiday diabetes management",
+      "food-labeling-misconceptions"
+    ],
+    "primaryKeyword": "sugar-free baking mixes a1c impact",
+    "topicCluster": "food-labeling-misconceptions",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging",
+      "the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal",
+      "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose",
+      "the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose",
+      "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70"
+    ]
+  },
+  {
+    "slug": "the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance",
+    "title": "The Truth About 'Normal' Home BP Readings in Adults 70+ With Orthostatic Hypotension and White-Coat Resistance",
+    "description": "Debunks the myth that stable home readings = low risk — reveals how postural BP lability and masked resistance predict stroke risk independent of average values.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "normal home blood pressure readings risk",
+      "blood pressure",
+      "masked-bp-risk"
+    ],
+    "primaryKeyword": "normal home blood pressure readings risk",
+    "topicCluster": "masked-bp-risk",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging",
+      "warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather",
+      "a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79",
+      "a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better",
+      "when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction"
+    ]
+  },
+  {
+    "slug": "the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension",
+    "title": "The Truth About 'Non-Alcoholic' Holiday Drinks and Their Hidden Cardiac Stressors for Adults 68+ With Stage 2 Hypertension",
+    "description": "Debunks marketing claims around zero-proof cocktails by analyzing glycemic load, artificial sweetener-induced sympathetic activation, caffeine synergy, and sodium content — with real-time BP and HRV data from ambulatory monitoring trials.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "non-alcoholic drinks holiday heart risk",
+      "holiday heart syndrome prevention",
+      "beverage-safety-hypertension"
+    ],
+    "primaryKeyword": "non-alcoholic drinks holiday heart risk",
+    "topicCluster": "beverage-safety-hypertension",
+    "image": "",
+    "relatedSlugs": [
+      "best-non-alcoholic-holiday-drinks-for-heart-health-after-50",
+      "myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs",
+      "can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors",
+      "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60",
+      "the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes",
+    "title": "The Complete Guide to Reading Holiday Food Labels for Hidden Carbs — Especially for Adults With Chronic Kidney Disease and Diabetes",
+    "description": "Teaches how to decode 'sugar alcohols', 'maltodextrin', 'modified food starch', and 'natural flavors' — with renal-safe carb-counting adaptations and phosphate load awareness for CKD Stage 3+ patients.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "holiday food labels hidden carbs kidney disease",
+      "holiday diabetes management",
+      "label-literacy-ckd-diabetes"
+    ],
+    "primaryKeyword": "holiday food labels hidden carbs kidney disease",
+    "topicCluster": "label-literacy-ckd-diabetes",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr",
+      "the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy",
+      "7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish",
+      "dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd",
+      "the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-managing-diabetic-gastroparesis-during-ramadan-fasting-in-adults-52-68-with-type-1-diabetes-and-autonomic-neuropathy",
+    "title": "The Complete Guide to Managing Diabetic Gastroparesis During Ramadan Fasting in Adults 52–68 With Type 1 Diabetes and Autonomic Neuropathy",
+    "description": "Provides halal-compliant insulin adjustment algorithms, pre-dawn hydration protocols, symptom-triggered breaking strategies, and gastric-emptying biomarker interpretation.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "diabetic gastroparesis ramadan fasting",
+      "diabetes",
+      "religion-fasting"
+    ],
+    "primaryKeyword": "diabetic gastroparesis ramadan fasting",
+    "topicCluster": "religion-fasting",
+    "image": "",
+    "relatedSlugs": [
+      "can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide",
+      "quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues",
+      "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68",
+      "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis",
+      "the-complete-guide-to-managing-brittle-glucose-patterns-in-adults-55-69-with-type-1-diabetes-autonomic-neuropathy-and-frequent-unexplained-hypoglycemia"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-interpreting-your-home-bp-log-for-patterns-especially-if-you-re-60-and-tracking-after-antihypertensive-dose-changes",
+    "title": "The Complete Guide to Interpreting Your Home BP Log for Patterns — Especially If You’re 60+ and Tracking After Antihypertensive Dose Changes",
+    "description": "Walks through identifying dose-response curves, chronobiological outliers, and environmental confounders — with printable templates and AI-assisted trend spotting tips.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "interpreting home blood pressure log",
+      "blood pressure",
+      "bp-monitoring-literacy"
+    ],
+    "primaryKeyword": "interpreting home blood pressure log",
+    "topicCluster": "bp-monitoring-literacy",
+    "image": "",
+    "relatedSlugs": [
+      "the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist",
+      "the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings",
+      "the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles",
+      "quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns"
+    ]
+  },
+  {
+    "slug": "quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa",
+    "title": "Quick Ways to Reduce Postprandial BP Surge After High-Glycemic Breakfasts — For Adults 55–71 With Insulin Resistance and Elevated Post-Meal NEFA",
+    "description": "Offers rapid, evidence-based strategies (pre-meal vinegar, sequential chewing, timed protein-first intake) to blunt sympathetic and RAAS activation after carb-heavy meals.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "postprandial blood pressure surge breakfast",
+      "blood pressure",
+      "postprandial-bp-management"
+    ],
+    "primaryKeyword": "postprandial blood pressure surge breakfast",
+    "topicCluster": "postprandial-bp-management",
+    "image": "",
+    "relatedSlugs": [
+      "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy",
+      "12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides",
+      "12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation",
+      "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings",
+      "natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes"
+    ]
+  },
+  {
+    "slug": "quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin",
+    "title": "Quick Ways to Prevent Overnight Hypoglycemia After Late-Night Holiday Dessert — For Adults 54–66 on Sulfonylureas or Basal Insulin",
+    "description": "Science-backed tactics: strategic protein+fat snacks, bedtime CGM alarms, delayed rapid-acting insulin dosing, and bedtime glucose thresholds — validated in ADA-endorsed overnight safety trials.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "prevent overnight hypoglycemia holiday dessert",
+      "holiday diabetes management",
+      "overnight-glucose-safety"
+    ],
+    "primaryKeyword": "prevent overnight hypoglycemia holiday dessert",
+    "topicCluster": "overnight-glucose-safety",
+    "image": "",
+    "relatedSlugs": [
+      "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks",
+      "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65",
+      "quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts",
+      "what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history",
+      "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-right-ventricular-adaptation-to-pulmonary-vascular-resistance-in-adults-63-79-with-mild-copd-and-preserved-left-ventricular-ejection-fraction",
+    "title": "Natural Ways to Support Right Ventricular Adaptation to Pulmonary Vascular Resistance in Adults 63–79 With Mild COPD and Preserved Left Ventricular Ejection Fraction",
+    "description": "Focuses on non-invasive, physiology-aligned strategies — including inspiratory muscle training, beetroot nitrate cycling, and seated posture optimization — to reduce RV afterload and improve tricuspid annular plane systolic excursion (TAPSE).",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "right ventricular adaptation copd seniors",
+      "heart health",
+      "natural-remedies-rv-pulmonary-vascular-function"
+    ],
+    "primaryKeyword": "right ventricular adaptation copd seniors",
+    "topicCluster": "natural-remedies-rv-pulmonary-vascular-function",
+    "image": "",
+    "relatedSlugs": [
+      "best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia",
+      "best-breathing-patterns-to-reduce-right-atrial-pressure-during-stair-climbing-in-adults-68-with-tricuspid-regurgitation-and-elevated-jugular-venous-pressure",
+      "quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef",
+      "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+      "best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-renin-angiotensin-system-balance-using-zinc-optimized-plant-proteins-for-adults-61-73-with-early-stage-ckd-and-stage-1-hypertension",
+    "title": "Natural Ways to Support Renin-Angiotensin System Balance Using Zinc-Optimized Plant Proteins — For Adults 61–73 With Early-Stage CKD and Stage 1 Hypertension",
+    "description": "Details how zinc-dependent ACE2 activity is modulated by legume/seed protein matrices — with meal-combining strategies to enhance RAS homeostasis without potassium overload.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "renin angiotensin balance natural support",
+      "blood pressure",
+      "rns-system-nutrition"
+    ],
+    "primaryKeyword": "renin angiotensin balance natural support",
+    "topicCluster": "rns-system-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema",
+      "the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors",
+      "natural-remedies-for-high-blood-pressure-in-adults-with-chronic-kidney-disease-stage-3-focusing-on-uremic-toxin-clearance-klotho-enhancement-and-gut-microbiome-derived-tmao-modulation",
+      "natural-ways-to-support-arterial-elasticity-without-medication-focusing-on-elastin-cross-link-breakers-copper-dependent-loxl1-activity-and-collagen-iv-synthesis-in-adults-61-76-with-isolated-systolic-hypertension",
+      "the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims"
+    ]
+  },
+  {
+    "slug": "how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia",
+    "title": "How to Adjust Insulin Dosing During Holiday Travel Across Time Zones — For Adults 55–72 With Type 1 Diabetes and Frequent Hypoglycemia",
+    "description": "A step-by-step guide on recalibrating basal and bolus insulin timing, carb ratios, and correction factors when flying internationally during the holidays — backed by ADA travel guidelines and real-world CGM data.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "insulin dosing during holiday travel",
+      "holiday diabetes management",
+      "medication-adjustment-time-zones"
+    ],
+    "primaryKeyword": "insulin dosing during holiday travel",
+    "topicCluster": "medication-adjustment-time-zones",
+    "image": "",
+    "relatedSlugs": [
+      "how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes",
+      "quick-ways-to-adjust-your-insulin-to-carb-ratio-when-traveling-across-3-time-zones-without-guessing-or-skipping-doses",
+      "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65",
+      "should-you-adjust-your-diabetes-medication-during-the-holidays",
+      "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide"
+    ]
+  },
+  {
+    "slug": "how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying",
+    "title": "How Intergenerational Cookie-Baking Affects Postprandial Glucose Variability in Adults 52–64 With Prediabetes and Slow Gastric Emptying",
+    "description": "Investigates sensory stimulation, anticipatory insulin secretion, chewing pace, and meal microstructure effects — using continuous glucose monitoring and gastric emptying scintigraphy correlations.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "cookie-baking prediabetes gastric-emptying",
+      "holiday diabetes management",
+      "gastric-emptying-glucose-variability"
+    ],
+    "primaryKeyword": "cookie-baking prediabetes gastric-emptying",
+    "topicCluster": "gastric-emptying-glucose-variability",
+    "image": "",
+    "relatedSlugs": [
+      "how-intergenerational-gift-giving-of-homemade-treats-affects-blood-glucose-variability-in-adults-55-69-with-prediabetes-and-slow-gastric-emptying",
+      "12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation",
+      "can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide",
+      "quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues",
+      "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68"
+    ]
+  },
+  {
+    "slug": "does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency",
+    "title": "Does Daily 2000 IU Vitamin D3 Improve Postprandial Insulin Sensitivity in Adults 53–69 With Type 2 Diabetes and Seasonal Vitamin D Deficiency?",
+    "description": "Synthesizes evidence from winter RCTs on vitamin D receptor expression in adipose tissue, insulin receptor substrate phosphorylation, and 2-hour OGTT outcomes — including dosing safety limits.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "vitamin d3 postprandial insulin sensitivity",
+      "holiday diabetes management",
+      "supplement-glucose-response"
+    ],
+    "primaryKeyword": "vitamin d3 postprandial insulin sensitivity",
+    "topicCluster": "supplement-glucose-response",
+    "image": "",
+    "relatedSlugs": [
+      "what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors",
+      "can-vitamin-d-deficiency-make-diabetes-worse-in-seniors",
+      "the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65",
+      "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance",
+      "natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes"
+    ]
+  },
+  {
+    "slug": "does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment",
+    "title": "Does Daily 200 mg of Magnesium L-Threonate (Not Oxide or Citrate) Improve Nocturnal BP Dipping in Adults 66–80 With Mild Cognitive Impairment?",
+    "description": "Evaluates brain-penetrant magnesium’s effect on central autonomic nuclei, sleep architecture, and BP circadian rhythm — based on CSF biomarker and ABPM data.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "magnesium l-threonate nocturnal bp",
+      "blood pressure",
+      "neuro-magnesium-bp"
+    ],
+    "primaryKeyword": "magnesium l-threonate nocturnal bp",
+    "topicCluster": "neuro-magnesium-bp",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation",
+      "a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome",
+      "the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful",
+      "best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl",
+      "quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81"
+    ]
+  },
+  {
+    "slug": "can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history",
+    "title": "Can Daily 3-Minute Guided Vagal Breathing Before Dinner Reduce AFib Episodes in Adults 59–74 With Holiday Heart Syndrome History?",
+    "description": "Examines feasibility and 4-week efficacy of pre-prandial vagal priming on postprandial heart rate variability, QTc stability, and AFib burden — using wearable ECG validation and intention-to-treat analysis from a pilot RCT.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "vagal breathing holiday heart prevention",
+      "holiday heart syndrome prevention",
+      "non-pharmacologic-intervention"
+    ],
+    "primaryKeyword": "vagal breathing holiday heart prevention",
+    "topicCluster": "non-pharmacologic-intervention",
+    "image": "",
+    "relatedSlugs": [
+      "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76",
+      "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance",
+      "best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp",
+      "how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study",
+      "simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction"
+    ]
+  },
+  {
+    "slug": "best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design",
+    "title": "Best Portable Glucose Monitors for Holiday Travel in 2024 — Ranked by Accuracy in Cold Weather, Battery Life, and TSA-Friendly Design",
+    "description": "Side-by-side comparison of 7 FDA-cleared CGM and BGM systems under real-world holiday conditions: subzero airport tarmacs, checked luggage temperature swings, and multi-day battery performance.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "best portable glucose monitor holiday travel",
+      "holiday diabetes management",
+      "device-selection-travel"
+    ],
+    "primaryKeyword": "best portable glucose monitor holiday travel",
+    "topicCluster": "device-selection-travel",
+    "image": "",
+    "relatedSlugs": [
+      "5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes",
+      "top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season",
+      "can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures",
+      "how-to-monitor-blood-sugar-more-effectively-during-festive-travel",
+      "the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79"
+    ]
+  },
+  {
+    "slug": "best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio",
+    "title": "Best Breathing Patterns for Lowering Diastolic BP in Adults 53–65 With Early LV Diastolic Stiffness and Elevated E/e’ Ratio",
+    "description": "Compares resonance frequency, paced expiration, and inspiratory hold durations — with echocardiographic outcome data and wearable-guided training protocols.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "breathing patterns for diastolic blood pressure",
+      "blood pressure",
+      "diastolic-bp-breathing"
+    ],
+    "primaryKeyword": "breathing patterns for diastolic blood pressure",
+    "topicCluster": "diastolic-bp-breathing",
+    "image": "",
+    "relatedSlugs": [
+      "best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74",
+      "best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression",
+      "best-breathing-patterns-to-reduce-right-atrial-pressure-during-stair-climbing-in-adults-68-with-tricuspid-regurgitation-and-elevated-jugular-venous-pressure",
+      "quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension",
+      "best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia"
+    ]
+  },
+  {
+    "slug": "a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome",
+    "title": "A vs B: Warm Herbal Decoction (Chamomile + Hawthorn) vs. Standard Evening Magnesium Glycinate — Impact on Nocturnal AFib Burden in Men 61–75 With Holiday Heart Syndrome",
+    "description": "Compares two natural interventions using 7-day continuous ECG patch data, focusing on suppression of nocturnal atrial ectopy, parasympathetic tone restoration, and sleep architecture preservation — with pharmacokinetic and botanical synergy analysis.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "hawthorn vs magnesium holiday heart",
+      "holiday heart syndrome prevention",
+      "natural-remedy-comparison"
+    ],
+    "primaryKeyword": "hawthorn vs magnesium holiday heart",
+    "topicCluster": "natural-remedy-comparison",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation",
+      "a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70",
+      "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76",
+      "the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias",
+      "quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia",
+    "title": "7 Silent Signs Your Heart Is Struggling During Air Travel — Especially for Adults 70+ With Diastolic Dysfunction and Mild Hypoxemia",
+    "description": "Identifies subtle, often-missed physiological cues (e.g., delayed capillary refill, unexplained fatigue post-boarding, nocturnal dyspnea at altitude) signaling cardiac decompensation during commercial flights.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "heart strain symptoms during air travel seniors",
+      "heart health",
+      "scenario-specific-travel-cardiac-risks"
+    ],
+    "primaryKeyword": "heart strain symptoms during air travel seniors",
+    "topicCluster": "scenario-specific-travel-cardiac-risks",
+    "image": "",
+    "relatedSlugs": [
+      "how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt",
+      "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents",
+      "5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes",
+      "heart-disease-risks-for-retirees-living-in-high-altitude-areas",
+      "12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging",
+    "title": "7 Silent Signs of Holiday Heart Syndrome That Aren’t Palpitations — Especially in Women 60+ With Autonomic Aging",
+    "description": "Highlights non-classical early indicators (e.g., unexplained fatigue after dessert, post-dinner dyspnea on exertion, nocturnal confusion) tied to vagal withdrawal and nocturnal BP lability in aging women — validated in the 2023 Women’s Heart Health Registry.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "silent signs holiday heart syndrome women",
+      "holiday heart syndrome prevention",
+      "symptom-recognition-women"
+    ],
+    "primaryKeyword": "silent signs holiday heart syndrome women",
+    "topicCluster": "symptom-recognition-women",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-first-signs-of-holiday-heart-syndrome-in-women",
+      "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily",
+      "7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis",
+      "7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55",
+      "when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction"
+    ]
+  },
+  {
+    "slug": "7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish",
+    "title": "7 Hidden Blood Sugar Triggers in 'Healthy' Holiday Side Dishes — Like Sweet Potato Casserole and Cranberry Relish",
+    "description": "Analysis of glycemic impact from unexpected sources: added fruit juices, starch thickeners, and 'low-sugar' sweeteners that spike glucose in adults 60+ with insulin resistance.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "holiday side dishes blood sugar spikes",
+      "holiday diabetes management",
+      "diet-nutrition-glycemic-triggers"
+    ],
+    "primaryKeyword": "holiday side dishes blood sugar spikes",
+    "topicCluster": "diet-nutrition-glycemic-triggers",
+    "image": "",
+    "relatedSlugs": [
+      "7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish",
+      "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control",
+      "7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid",
+      "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar",
+      "7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose"
+    ]
+  },
+  {
+    "slug": "5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know",
+    "title": "5 Things Every Woman Over 65 With Menopause-Related Vasomotor Symptoms and Nighttime BP Surge Should Know",
+    "description": "Connects hot flash frequency, nocturnal sympathetic surges, and non-dipping BP — with evidence-based cooling, breathing, and hormonal context strategies.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "menopause nighttime blood pressure surge",
+      "blood pressure",
+      "menopause-bp-symptoms"
+    ],
+    "primaryKeyword": "menopause nighttime blood pressure surge",
+    "topicCluster": "menopause-bp-symptoms",
+    "image": "",
+    "relatedSlugs": [
+      "5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension",
+      "quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp",
+      "blood-pressure-changes-during-menopause-what-women-should-know",
+      "what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension",
+      "quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns"
+    ]
+  },
+  {
+    "slug": "5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers",
+    "title": "5 Things Every Caregiver Should Know Before Hosting a Holiday Gathering for Someone With Advanced Diabetic Neuropathy and Foot Ulcers",
+    "description": "Practical safety priorities: home hazard mapping, footwear logistics, offloading strategies, pain flare forecasting, and emergency wound response — based on IDF and Wound Ostomy Continence Nursing Society protocols.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "holiday hosting diabetic neuropathy caregiver",
+      "holiday diabetes management",
+      "caregiver-safety-neuropathy"
+    ],
+    "primaryKeyword": "holiday hosting diabetic neuropathy caregiver",
+    "topicCluster": "caregiver-safety-neuropathy",
+    "image": "",
+    "relatedSlugs": [
+      "5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house",
+      "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health",
+      "foot-care-basics-every-senior-with-diabetes-should-know",
+      "simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature",
+      "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes"
+    ]
+  },
+  {
+    "slug": "12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry",
+    "title": "12 Science-Backed Ways to Stabilize Blood Glucose During Holiday Social Events — Without Skipping the Party or Going Hungry",
+    "description": "Evidence-based behavioral, nutritional, and biometric strategies: pre-event protein priming, 'plate mapping' for carb control, mindful sipping protocols, and real-time CGM nudges — tested in RCTs with adults 50–74.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "stabilize blood glucose holiday events",
+      "holiday diabetes management",
+      "behavioral-glucose-management"
+    ],
+    "primaryKeyword": "stabilize blood glucose holiday events",
+    "topicCluster": "behavioral-glucose-management",
+    "image": "",
+    "relatedSlugs": [
+      "managing-type-2-diabetes-while-attending-back-to-back-holiday-parties",
+      "5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties",
+      "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65",
+      "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes",
+      "12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides"
+    ]
+  },
+  {
+    "slug": "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv",
+    "title": "12 Science-Backed Ways to Improve Baroreflex Sensitivity Without Drugs — For Adults 59–76 With Isolated Systolic Hypertension and Low HRV",
+    "description": "Presents non-pharmacologic interventions proven in RCTs to restore vagal tone and arterial baroreceptor responsiveness — including thermal, auditory, and proprioceptive triggers.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "baroreflex sensitivity improvement methods",
+      "blood pressure",
+      "autonomic-regulation"
+    ],
+    "primaryKeyword": "baroreflex sensitivity improvement methods",
+    "topicCluster": "autonomic-regulation",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension",
+      "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct",
+      "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+      "does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension",
+      "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns"
+    ]
+  },
+  {
+    "slug": "12-holiday-foods-that-increase-cardiac-afterload-within-90-minutes-and-what-to-eat-instead-if-you-re-66-with-mild-lvh",
+    "title": "12 Holiday Foods That Increase Cardiac Afterload Within 90 Minutes — And What to Eat Instead If You’re 66+ With Mild LVH",
+    "description": "Identifies high-sodium, high-arginine, and high-tyramine festive foods (e.g., aged cheese boards, cured meats, fermented condiments) that acutely raise systemic vascular resistance — paired with evidence-based swaps proven to stabilize central aortic pressure.",
+    "date": "2026-01-19",
+    "updated": "2026-01-19",
+    "tags": [
+      "holiday foods cardiac afterload lvh",
+      "holiday heart syndrome prevention",
+      "cardiac-diet-afterload"
+    ],
+    "primaryKeyword": "holiday foods cardiac afterload lvh",
+    "topicCluster": "cardiac-diet-afterload",
+    "image": "",
+    "relatedSlugs": [
+      "5-surprising-foods-that-may-trigger-holiday-heart-syndrome",
+      "12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead",
+      "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol",
+      "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs",
+      "12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure"
+    ]
+  },
+  {
     "slug": "why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression",
     "title": "Why Holiday Social Isolation Raises Fasting Glucose in Adults 75+ With Type 2 Diabetes and Mild Depression",
     "description": "Explores the cortisol-IL-6-insulin resistance axis, reduced spontaneous movement, altered circadian cortisol rhythm, and vagal withdrawal — linking loneliness biomarkers to glycemic outcomes in longitudinal geriatric cohorts.",
@@ -5497,7 +6156,8 @@
       "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60",
       "the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60",
       "the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld",
-      "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon"
+      "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon",
+      "the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension"
     ]
   },
   {
