@@ -1,14 +1,34 @@
 ---
-title: "How Chronic Low-Dose Cadmium Exposure From Rice-Based Diets Alters Cardiac Ryanodine Receptor Function in Adults 59–76 With Atrial Fibrillation and Normal EF"
-slug: "how-chronic-low-dose-cadmium-exposure-from-rice-based-diets-alters-cardiac-ryanodine-receptor-function-in-adults-59-76-with-atrial-fibrillation-and-normal-ef"
-description: "Links dietary cadmium accumulation to RyR2 phosphorylation dysregulation, calcium leak, and increased AF burden — especially in populations consuming >200g/day white rice."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["cadmium exposure atrial fibrillation ryanodine receptor", "heart disease", "heavy-metal-electrophysiology"]
-primaryKeyword: "cadmium exposure atrial fibrillation ryanodine receptor"
-topicCluster: "heavy-metal-electrophysiology"
-image: ""
-relatedSlugs: []
+title: >-
+  How Chronic Low-Dose Cadmium Exposure From Rice-Based Diets Alters Cardiac
+  Ryanodine Receptor Function in Adults 59–76 With Atrial Fibrillation and
+  Normal EF
+slug: >-
+  how-chronic-low-dose-cadmium-exposure-from-rice-based-diets-alters-cardiac-ryanodine-receptor-function-in-adults-59-76-with-atrial-fibrillation-and-normal-ef
+description: >-
+  Links dietary cadmium accumulation to RyR2 phosphorylation dysregulation,
+  calcium leak, and increased AF burden — especially in populations consuming
+  >200g/day white rice.
+date: '2026-01-18'
+updated: '2026-01-18'
+tags:
+  - cadmium exposure atrial fibrillation ryanodine receptor
+  - heart disease
+  - heavy-metal-electrophysiology
+primaryKeyword: cadmium exposure atrial fibrillation ryanodine receptor
+topicCluster: heavy-metal-electrophysiology
+image: ''
+relatedSlugs:
+  - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
+  - >-
+    how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
+  - >-
+    does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv
+  - >-
+    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
+  - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
 ---
 
 # How Cadmium Exposure, Atrial Fibrillation, and Ryanodine Receptor Dysfunction Interact in Older Adults

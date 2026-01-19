@@ -1,14 +1,34 @@
 ---
-title: "Warning Signs Your Insulin Pump Site Is Causing Localized Lipohypertrophy—Even If You Rotate 'Religiously' — In Adults 60+ With Long-Term Pump Use and Reduced Skin Elasticity"
-slug: "warning-signs-your-insulin-pump-site-is-causing-localized-lipohypertrophy-even-if-you-rotate-religiously-in-adults-60-with-long-term-pump-use-and-reduced-skin-elasticity"
-description: "Details subtle clues (delayed bolus absorption, asymmetric tissue texture, micro-bleeding under tape) often missed in aging skin—and introduces ultrasound-guided rotation mapping for clinical prevention."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["insulin pump lipohypertrophy warning signs", "diabetes", "treatment-pump-complications"]
-primaryKeyword: "insulin pump lipohypertrophy warning signs"
-topicCluster: "treatment-pump-complications"
-image: ""
-relatedSlugs: []
+title: >-
+  Warning Signs Your Insulin Pump Site Is Causing Localized Lipohypertrophy—Even
+  If You Rotate 'Religiously' — In Adults 60+ With Long-Term Pump Use and
+  Reduced Skin Elasticity
+slug: >-
+  warning-signs-your-insulin-pump-site-is-causing-localized-lipohypertrophy-even-if-you-rotate-religiously-in-adults-60-with-long-term-pump-use-and-reduced-skin-elasticity
+description: >-
+  Details subtle clues (delayed bolus absorption, asymmetric tissue texture,
+  micro-bleeding under tape) often missed in aging skin—and introduces
+  ultrasound-guided rotation mapping for clinical prevention.
+date: '2026-01-14'
+updated: '2026-01-14'
+tags:
+  - insulin pump lipohypertrophy warning signs
+  - diabetes
+  - treatment-pump-complications
+primaryKeyword: insulin pump lipohypertrophy warning signs
+topicCluster: treatment-pump-complications
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
+  - >-
+    what-are-the-earliest-changes-in-skin-elasticity-and-wound-healing-that-signal-subclinical-microvascular-damage-in-women-over-65-with-long-standing-diabetes
+  - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
+  - >-
+    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
+  - >-
+    warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
 ---
 
 # Recognizing Insulin Pump Lipohypertrophy Warning Signs—Even With Careful Rotation in Adults 60+

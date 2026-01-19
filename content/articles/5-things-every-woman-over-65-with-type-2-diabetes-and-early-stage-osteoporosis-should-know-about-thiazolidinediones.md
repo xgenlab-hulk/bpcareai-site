@@ -1,14 +1,32 @@
 ---
-title: "5 Things Every Woman Over 65 With Type 2 Diabetes and Early-Stage Osteoporosis Should Know About Thiazolidinediones"
-slug: "5-things-every-woman-over-65-with-type-2-diabetes-and-early-stage-osteoporosis-should-know-about-thiazolidinediones"
-description: "Breaks down the bone mineral density trade-offs of TZDs—including differential effects on cortical vs. trabecular bone—and alternatives with better skeletal safety profiles."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["tzds osteoporosis women over 65", "diabetes", "medications-bone-health"]
-primaryKeyword: "tzds osteoporosis women over 65"
-topicCluster: "medications-bone-health"
-image: ""
-relatedSlugs: []
+title: >-
+  5 Things Every Woman Over 65 With Type 2 Diabetes and Early-Stage Osteoporosis
+  Should Know About Thiazolidinediones
+slug: >-
+  5-things-every-woman-over-65-with-type-2-diabetes-and-early-stage-osteoporosis-should-know-about-thiazolidinediones
+description: >-
+  Breaks down the bone mineral density trade-offs of TZDs—including differential
+  effects on cortical vs. trabecular bone—and alternatives with better skeletal
+  safety profiles.
+date: '2026-01-17'
+updated: '2026-01-17'
+tags:
+  - tzds osteoporosis women over 65
+  - diabetes
+  - medications-bone-health
+primaryKeyword: tzds osteoporosis women over 65
+topicCluster: medications-bone-health
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
+  - >-
+    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
+  - >-
+    when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
+  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
+  - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
 ---
 
 # What Women Over 65 With Type 2 Diabetes *Really* Need to Know About TZDs and Bone Health  

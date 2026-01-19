@@ -1,14 +1,33 @@
 ---
-title: "10 Unexpected Household Chemicals That Accelerate Coronary Artery Calcification in Adults 62+ With Chronic Kidney Disease"
-slug: "10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease"
-description: "Explores everyday cleaning agents, air fresheners, and flame retardants linked to vascular calcification via oxidative stress and reduced Klotho expression — with lab-tested alternatives for kidney-impaired seniors."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["household chemicals coronary artery calcification seniors", "heart disease", "environmental-toxins-cardiovascular-risk"]
-primaryKeyword: "household chemicals coronary artery calcification seniors"
-topicCluster: "environmental-toxins-cardiovascular-risk"
-image: ""
-relatedSlugs: ["7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75", "12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents"]
+title: >-
+  10 Unexpected Household Chemicals That Accelerate Coronary Artery
+  Calcification in Adults 62+ With Chronic Kidney Disease
+slug: >-
+  10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease
+description: >-
+  Explores everyday cleaning agents, air fresheners, and flame retardants linked
+  to vascular calcification via oxidative stress and reduced Klotho expression —
+  with lab-tested alternatives for kidney-impaired seniors.
+date: '2026-01-16'
+updated: '2026-01-16'
+tags:
+  - household chemicals coronary artery calcification seniors
+  - heart disease
+  - environmental-toxins-cardiovascular-risk
+primaryKeyword: household chemicals coronary artery calcification seniors
+topicCluster: environmental-toxins-cardiovascular-risk
+image: ''
+relatedSlugs:
+  - >-
+    7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75
+  - >-
+    12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents
+  - >-
+    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
+  - >-
+    12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
+  - >-
+    7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60
 ---
 
 # Household Chemicals and Coronary Artery Calcification in Seniors: What Adults 62+ With Chronic Kidney Disease Should Know

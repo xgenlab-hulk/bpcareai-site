@@ -1,14 +1,33 @@
 ---
-title: "When to Worry About 'Normal' Resting Heart Rate in Adults 75+ With High-Grade AV Block and Compensatory Ventricular Escape Rhythms"
-slug: "when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms"
-description: "Clarifies why a stable but elevated resting HR (e.g., 68–74 bpm) may signal progressive conduction system disease — and which concurrent symptoms warrant urgent electrophysiology referral."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["resting heart rate high-grade av block seniors", "heart health", "warning-signs-conduction-system-disease"]
-primaryKeyword: "resting heart rate high-grade av block seniors"
-topicCluster: "warning-signs-conduction-system-disease"
-image: ""
-relatedSlugs: ["myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65", "myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge"]
+title: >-
+  When to Worry About 'Normal' Resting Heart Rate in Adults 75+ With High-Grade
+  AV Block and Compensatory Ventricular Escape Rhythms
+slug: >-
+  when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms
+description: >-
+  Clarifies why a stable but elevated resting HR (e.g., 68–74 bpm) may signal
+  progressive conduction system disease — and which concurrent symptoms warrant
+  urgent electrophysiology referral.
+date: '2026-01-17'
+updated: '2026-01-17'
+tags:
+  - resting heart rate high-grade av block seniors
+  - heart health
+  - warning-signs-conduction-system-disease
+primaryKeyword: resting heart rate high-grade av block seniors
+topicCluster: warning-signs-conduction-system-disease
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
+  - >-
+    why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction
+  - >-
+    when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism
+  - >-
+    when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea
 ---
 
 # When a “Normal” Resting Heart Rate in Seniors With High-Grade AV Block May Actually Signal Trouble  

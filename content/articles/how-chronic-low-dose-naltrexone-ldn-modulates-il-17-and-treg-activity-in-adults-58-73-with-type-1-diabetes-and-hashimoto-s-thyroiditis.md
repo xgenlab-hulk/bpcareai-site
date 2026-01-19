@@ -1,14 +1,33 @@
 ---
-title: "How Chronic Low-Dose Naltrexone (LDN) Modulates IL-17 and Treg Activity in Adults 58–73 With Type 1 Diabetes and Hashimoto’s Thyroiditis"
-slug: "how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis"
-description: "Examines emerging immunomodulatory evidence for LDN in autoimmune diabetes polyglandular syndromes—including impact on thyroid antibody titers and residual C-peptide preservation."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["ldn type 1 diabetes hashimoto's", "diabetes", "autoimmunity-immunomodulation"]
-primaryKeyword: "ldn type 1 diabetes hashimoto's"
-topicCluster: "autoimmunity-immunomodulation"
-image: ""
-relatedSlugs: ["when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s", "does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression"]
+title: >-
+  How Chronic Low-Dose Naltrexone (LDN) Modulates IL-17 and Treg Activity in
+  Adults 58–73 With Type 1 Diabetes and Hashimoto’s Thyroiditis
+slug: >-
+  how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
+description: >-
+  Examines emerging immunomodulatory evidence for LDN in autoimmune diabetes
+  polyglandular syndromes—including impact on thyroid antibody titers and
+  residual C-peptide preservation.
+date: '2026-01-15'
+updated: '2026-01-15'
+tags:
+  - ldn type 1 diabetes hashimoto's
+  - diabetes
+  - autoimmunity-immunomodulation
+primaryKeyword: ldn type 1 diabetes hashimoto's
+topicCluster: autoimmunity-immunomodulation
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
+  - >-
+    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
+  - >-
+    how-chronic-low-dose-corticosteroid-use-e-g-inhaled-budesonide-alters-hepatic-gluconeogenic-enzyme-expression-in-adults-65-81-with-type-2-diabetes-and-asthma
+  - >-
+    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
+  - >-
+    how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
 ---
 
 # How LDN May Support Immune Balance in Adults with Type 1 Diabetes and Hashimoto’s

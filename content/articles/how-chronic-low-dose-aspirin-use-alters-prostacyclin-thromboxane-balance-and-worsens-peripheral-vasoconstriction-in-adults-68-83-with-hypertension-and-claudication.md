@@ -1,14 +1,34 @@
 ---
-title: "How Chronic Low-Dose Aspirin Use Alters Prostacyclin–Thromboxane Balance and Worsens Peripheral Vasoconstriction in Adults 68–83 With Hypertension and Claudication"
-slug: "how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication"
-description: "Analyzes aspirin’s differential inhibition of COX-1 in platelets vs. COX-2 in endothelium—and why sustained low-dose use may impair vasodilatory prostacyclin synthesis in patients with PAD and hypertension."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["low-dose aspirin prostacyclin thromboxane vasoconstriction", "blood pressure", "medication-interactions-vascular"]
-primaryKeyword: "low-dose aspirin prostacyclin thromboxane vasoconstriction"
-topicCluster: "medication-interactions-vascular"
-image: ""
-relatedSlugs: ["what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease", "a-vs-b-daily-low-dose-aspirin-vs-colchicine-for-secondary-prevention-in-adults-64-79-with-prior-myocardial-infarction-and-elevated-hs-crp"]
+title: >-
+  How Chronic Low-Dose Aspirin Use Alters Prostacyclin–Thromboxane Balance and
+  Worsens Peripheral Vasoconstriction in Adults 68–83 With Hypertension and
+  Claudication
+slug: >-
+  how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication
+description: >-
+  Analyzes aspirin’s differential inhibition of COX-1 in platelets vs. COX-2 in
+  endothelium—and why sustained low-dose use may impair vasodilatory
+  prostacyclin synthesis in patients with PAD and hypertension.
+date: '2026-01-14'
+updated: '2026-01-14'
+tags:
+  - low-dose aspirin prostacyclin thromboxane vasoconstriction
+  - blood pressure
+  - medication-interactions-vascular
+primaryKeyword: low-dose aspirin prostacyclin thromboxane vasoconstriction
+topicCluster: medication-interactions-vascular
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
+  - >-
+    a-vs-b-daily-low-dose-aspirin-vs-colchicine-for-secondary-prevention-in-adults-64-79-with-prior-myocardial-infarction-and-elevated-hs-crp
+  - >-
+    a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100
+  - >-
+    how-chronic-low-dose-lead-exposure-from-vintage-home-renovation-dust-alters-heme-synthesis-and-nitric-oxide-bioavailability-in-adults-57-74-with-resistant-hypertension
+  - >-
+    best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
 ---
 
 # How Low-Dose Aspirin Affects Blood Flow in Older Adults With Hypertension and Claudication

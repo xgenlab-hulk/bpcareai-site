@@ -1,14 +1,32 @@
 ---
-title: "A vs B: Morning 7 a.m. Caffeinated Green Tea vs. Afternoon 3 p.m. Decaf Black Tea for Men 57–68 With Premature Ventricular Contractions"
-slug: "a-vs-b-morning-7-a-m-caffeinated-green-tea-vs-afternoon-3-p-m-decaf-black-tea-for-men-57-68-with-premature-ventricular-contractions"
-description: "Compares catechin-driven endothelial modulation versus theophylline-related arrhythmia triggers—focusing on circadian QT-interval vulnerability windows."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["green tea vs black tea PVCs men 60s", "heart disease", "arrhythmia-diet-comparison"]
-primaryKeyword: "green tea vs black tea PVCs men 60s"
-topicCluster: "arrhythmia-diet-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70", "how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns"]
+title: >-
+  A vs B: Morning 7 a.m. Caffeinated Green Tea vs. Afternoon 3 p.m. Decaf Black
+  Tea for Men 57–68 With Premature Ventricular Contractions
+slug: >-
+  a-vs-b-morning-7-a-m-caffeinated-green-tea-vs-afternoon-3-p-m-decaf-black-tea-for-men-57-68-with-premature-ventricular-contractions
+description: >-
+  Compares catechin-driven endothelial modulation versus theophylline-related
+  arrhythmia triggers—focusing on circadian QT-interval vulnerability windows.
+date: '2026-01-12'
+updated: '2026-01-12'
+tags:
+  - green tea vs black tea PVCs men 60s
+  - heart disease
+  - arrhythmia-diet-comparison
+primaryKeyword: green tea vs black tea PVCs men 60s
+topicCluster: arrhythmia-diet-comparison
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
+  - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+  - >-
+    how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation
+  - >-
+    a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 ---
 
 # Green Tea vs Black Tea for PVCs in Men 60s: What Timing and Caffeine Really Do to Your Heart Rhythm

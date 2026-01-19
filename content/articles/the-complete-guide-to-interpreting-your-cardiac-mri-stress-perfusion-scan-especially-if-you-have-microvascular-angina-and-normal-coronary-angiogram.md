@@ -1,14 +1,33 @@
 ---
-title: "The Complete Guide to Interpreting Your Cardiac MRI Stress Perfusion Scan — Especially If You Have Microvascular Angina and Normal Coronary Angiogram"
-slug: "the-complete-guide-to-interpreting-your-cardiac-mri-stress-perfusion-scan-especially-if-you-have-microvascular-angina-and-normal-coronary-angiogram"
-description: "Walks through quantitative myocardial perfusion reserve (MPR) thresholds, pixel-wise mapping of heterogeneity, and distinguishing ischemia from artifact in women and diabetic patients."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["cardiac mri stress perfusion interpretation guide", "heart disease", "mri-perfusion-microvascular-angina"]
-primaryKeyword: "cardiac mri stress perfusion interpretation guide"
-topicCluster: "mri-perfusion-microvascular-angina"
-image: ""
-relatedSlugs: []
+title: >-
+  The Complete Guide to Interpreting Your Cardiac MRI Stress Perfusion Scan —
+  Especially If You Have Microvascular Angina and Normal Coronary Angiogram
+slug: >-
+  the-complete-guide-to-interpreting-your-cardiac-mri-stress-perfusion-scan-especially-if-you-have-microvascular-angina-and-normal-coronary-angiogram
+description: >-
+  Walks through quantitative myocardial perfusion reserve (MPR) thresholds,
+  pixel-wise mapping of heterogeneity, and distinguishing ischemia from artifact
+  in women and diabetic patients.
+date: '2026-01-17'
+updated: '2026-01-17'
+tags:
+  - cardiac mri stress perfusion interpretation guide
+  - heart disease
+  - mri-perfusion-microvascular-angina
+primaryKeyword: cardiac mri stress perfusion interpretation guide
+topicCluster: mri-perfusion-microvascular-angina
+image: ''
+relatedSlugs:
+  - >-
+    5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
+  - >-
+    the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
+  - >-
+    when-to-worry-about-normal-chest-discomfort-while-gardening-a-5-point-field-assessment-for-women-65-80-with-atypical-angina-presentation
+  - >-
+    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
+  - >-
+    when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines
 ---
 
 # Your Essential Cardiac MRI Stress Perfusion Interpretation Guide — Especially for Microvascular Angina and Normal Coronary Angiograms

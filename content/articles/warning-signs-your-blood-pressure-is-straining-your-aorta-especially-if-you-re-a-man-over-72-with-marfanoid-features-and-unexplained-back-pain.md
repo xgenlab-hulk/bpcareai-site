@@ -1,14 +1,34 @@
 ---
-title: "Warning Signs Your Blood Pressure Is Straining Your Aorta—Especially If You’re a Man Over 72 With Marfanoid Features and Unexplained Back Pain"
-slug: "warning-signs-your-blood-pressure-is-straining-your-aorta-especially-if-you-re-a-man-over-72-with-marfanoid-features-and-unexplained-back-pain"
-description: "Identifies subtle but critical indicators—pulsatile abdominal mass, widened mediastinum on old chest X-rays, disproportionate arm-leg BP gradient, and loss of carotid upstroke—that suggest aortic wall stress before dissection or aneurysm rupture."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["aortic strain warning signs marfanoid features back pain", "blood pressure", "aortic-structural-risk-signs"]
-primaryKeyword: "aortic strain warning signs marfanoid features back pain"
-topicCluster: "aortic-structural-risk-signs"
-image: ""
-relatedSlugs: ["when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss", "when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines"]
+title: >-
+  Warning Signs Your Blood Pressure Is Straining Your Aorta—Especially If You’re
+  a Man Over 72 With Marfanoid Features and Unexplained Back Pain
+slug: >-
+  warning-signs-your-blood-pressure-is-straining-your-aorta-especially-if-you-re-a-man-over-72-with-marfanoid-features-and-unexplained-back-pain
+description: >-
+  Identifies subtle but critical indicators—pulsatile abdominal mass, widened
+  mediastinum on old chest X-rays, disproportionate arm-leg BP gradient, and
+  loss of carotid upstroke—that suggest aortic wall stress before dissection or
+  aneurysm rupture.
+date: '2026-01-13'
+updated: '2026-01-13'
+tags:
+  - aortic strain warning signs marfanoid features back pain
+  - blood pressure
+  - aortic-structural-risk-signs
+primaryKeyword: aortic strain warning signs marfanoid features back pain
+topicCluster: aortic-structural-risk-signs
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
+  - >-
+    when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines
+  - >-
+    the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis
+  - >-
+    why-blood-pressure-readings-vary-between-left-and-right-arms-in-adults-70-with-aortic-stiffness-and-asymmetric-carotid-intima-media-thickness
+  - >-
+    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
 ---
 
 # Recognizing Aortic Strain Warning Signs in Men Over 72 With Marfanoid Features and Unexplained Back Pain

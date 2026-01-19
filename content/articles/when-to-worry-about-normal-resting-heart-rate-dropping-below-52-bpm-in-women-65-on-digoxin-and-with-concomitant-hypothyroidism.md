@@ -1,14 +1,33 @@
 ---
-title: "When to Worry About ‘Normal’ Resting Heart Rate Dropping Below 52 bpm in Women 65+ on Digoxin and With Concomitant Hypothyroidism"
-slug: "when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism"
-description: "Highlights digoxin-induced sinoatrial node suppression masked by low T3, elevated reverse T3, and blunted chronotropic response — including ECG red flags beyond bradycardia."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["resting heart rate digoxin hypothyroidism women", "heart disease", "electrophysiology-medication-interaction"]
-primaryKeyword: "resting heart rate digoxin hypothyroidism women"
-topicCluster: "electrophysiology-medication-interaction"
-image: ""
-relatedSlugs: []
+title: >-
+  When to Worry About ‘Normal’ Resting Heart Rate Dropping Below 52 bpm in Women
+  65+ on Digoxin and With Concomitant Hypothyroidism
+slug: >-
+  when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism
+description: >-
+  Highlights digoxin-induced sinoatrial node suppression masked by low T3,
+  elevated reverse T3, and blunted chronotropic response — including ECG red
+  flags beyond bradycardia.
+date: '2026-01-16'
+updated: '2026-01-16'
+tags:
+  - resting heart rate digoxin hypothyroidism women
+  - heart disease
+  - electrophysiology-medication-interaction
+primaryKeyword: resting heart rate digoxin hypothyroidism women
+topicCluster: electrophysiology-medication-interaction
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
+  - >-
+    when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
+  - >-
+    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
 ---
 
 # When a “Normal” Resting Heart Rate Drops Below 52 bpm in Women 65+ on Digoxin and With Hypothyroidism — What It Really Means
