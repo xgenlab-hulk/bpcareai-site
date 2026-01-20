@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": "Why Does Blood Sugar Spike After a 10-Minute Walk in Adults 62–78 With Type 2 Diabetes and Diabetic Retinopathy?",
+    "description": "Explores the paradoxical post-exercise hyperglycemia phenomenon in older adults with advanced microvascular complications, examining catecholamine surges, hepatic glucose output, and timing nuances.",
+    "primaryKeyword": "post-exercise blood sugar spike older adults",
+    "topicCluster": "exercise-physiology-paradoxes",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-20T03:51:10.337Z"
+  },
+  {
+    "title": "7 Silent Signs Your Diabetic Neuropathy Is Progressing to Small-Fiber Autonomic Dysfunction — Especially If You’re 67+ and Taking Gabapentin",
+    "description": "Highlights subtle, non-painful indicators (e.g., unexplained gastroparesis, orthostatic sweating patterns, pupil reflex delays) that signal autonomic involvement beyond peripheral nerve damage.",
+    "primaryKeyword": "silent signs autonomic neuropathy older adults",
+    "topicCluster": "neuropathy-progression-signs",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-20T03:51:13.140Z"
+  },
+  {
+    "title": "A vs B: Continuous Glucose Monitoring (CGM) With Automated Insulin Delivery vs. Flash Glucose Monitoring With Manual Dosing — For Adults 71+ With Mild Cognitive Impairment and Nocturnal Hypoglycemia",
+    "description": "Compares safety, usability, cognitive load, and real-world hypoglycemia reduction in frail older adults using evidence from recent geriatric CGM trials.",
+    "primaryKeyword": "CGM vs flash glucose monitoring older adults",
+    "topicCluster": "glucose-monitoring-comparison-geriatric",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-20T03:51:15.918Z"
+  },
+  {
+    "title": "Warning Signs Your 'Well-Controlled' Diabetes Is Masking Early Diabetic Cardiomyopathy — Especially If You’re 63+ and Have Normal Ejection Fraction",
+    "description": "Identifies subtle red flags: abnormal GLS (global longitudinal strain), elevated NT-proBNP without HF symptoms, diastolic E/e’ >12, and exercise-induced BNP rise — before structural changes appear.",
+    "primaryKeyword": "diabetic cardiomyopathy early warning signs",
+    "topicCluster": "cardiac-remodeling-early-detection",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-20T03:51:29.124Z"
+  },
+  {
+    "title": "How Sleep Apnea Severity Predicts Rapid A1C Rise in Adults 57–71 With Untreated OSA and Newly Diagnosed Type 2 Diabetes",
+    "description": "Analyzes the hypoxia–HIF-1α–IRS-1 serine phosphorylation pathway linking apnea events to insulin resistance progression — and why AHI >15 is a critical threshold for intervention.",
+    "primaryKeyword": "sleep apnea A1C rise untreated OSA",
+    "topicCluster": "sleep-apnea-glycemic-progression",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-20T03:51:30.490Z"
+  },
+  {
+    "title": "Best Portable Foot Thermometers for Early Neuropathy Detection in Adults 70+ With Limited Dexterity and Poor Vision",
+    "description": "Reviews infrared thermometers optimized for geriatric use: one-hand operation, large audio feedback, non-contact accuracy at 2cm, and validated sensitivity to 0.5°C skin temp asymmetry.",
+    "primaryKeyword": "portable foot thermometer geriatric neuropathy",
+    "topicCluster": "neuropathy-screening-tools",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-20T03:51:31.861Z"
+  }
+]

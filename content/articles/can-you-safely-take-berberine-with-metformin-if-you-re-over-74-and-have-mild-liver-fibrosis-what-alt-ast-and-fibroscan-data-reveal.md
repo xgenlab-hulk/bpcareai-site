@@ -1,14 +1,30 @@
 ---
-title: "Can You Safely Take Berberine With Metformin If You’re Over 74 and Have Mild Liver Fibrosis? What ALT/AST and FibroScan Data Reveal"
-slug: "can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal"
-description: "Evaluates herb-drug interaction risks, mitochondrial stress markers, and hepatic safety thresholds using real-world liver enzyme trends—not just clinical trial exclusions."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["berberine and metformin in elderly with liver fibrosis", "diabetes", "herb-drug-interactions"]
-primaryKeyword: "berberine and metformin in elderly with liver fibrosis"
-topicCluster: "herb-drug-interactions"
-image: ""
-relatedSlugs: ["dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation", "is-metformin-still-safe-for-diabetics-over-70", "the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications"]
+title: >-
+  Can You Safely Take Berberine With Metformin If You’re Over 74 and Have Mild
+  Liver Fibrosis? What ALT/AST and FibroScan Data Reveal
+slug: >-
+  can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal
+description: >-
+  Evaluates herb-drug interaction risks, mitochondrial stress markers, and
+  hepatic safety thresholds using real-world liver enzyme trends—not just
+  clinical trial exclusions.
+date: '2026-01-09'
+updated: '2026-01-09'
+tags:
+  - berberine and metformin in elderly with liver fibrosis
+  - diabetes
+  - herb-drug-interactions
+primaryKeyword: berberine and metformin in elderly with liver fibrosis
+topicCluster: herb-drug-interactions
+image: ''
+relatedSlugs:
+  - >-
+    dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation
+  - is-metformin-still-safe-for-diabetics-over-70
+  - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+  - >-
+    does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
 ---
 
 # Is It Safe to Take Berberine With Metformin If You’re Over 74 and Have Mild Liver Fibrosis? What Liver Enzymes and FibroScan Tell Us

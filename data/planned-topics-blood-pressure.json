@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "title": "The Truth About Blood Pressure ‘Normalization’ After Bariatric Surgery — Why Some Adults 55–67 See Late-Onset Hypotension 3+ Years Post-RYGB",
+    "description": "Examines long-term vascular adaptation, renin-angiotensin remodeling, and orthostatic risk in sustained weight-loss patients — including red-flag symptoms and when to taper antihypertensives.",
+    "primaryKeyword": "post-bariatric surgery low blood pressure",
+    "topicCluster": "surgical-outcomes",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:49:53.064Z"
+  },
+  {
+    "title": "What Causes Nocturnal Hypertension in Women 52–65 With Perimenopausal Hot Flashes and Elevated Nighttime Norepinephrine?",
+    "description": "Analyzes the neuroendocrine link between vasomotor instability, sympathetic overactivity, and reversed BP dipping — with hormone-aware nonpharmacologic strategies.",
+    "primaryKeyword": "nocturnal hypertension in perimenopausal women",
+    "topicCluster": "menopause-cardiovascular",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:49:54.443Z"
+  },
+  {
+    "title": "Best Seated Resistance Exercises for BP Control in Adults 77+ With Severe Osteoarthritis and Stage 2 Hypertension",
+    "description": "Presents evidence-based, low-impact strength routines (using resistance bands and bodyweight only) proven to reduce peripheral resistance and improve endothelial function without joint strain.",
+    "primaryKeyword": "seated exercises for blood pressure elderly",
+    "topicCluster": "low-impact-fitness",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:49:55.804Z"
+  },
+  {
+    "title": "Why Your Blood Pressure Spikes During Video Calls — And How to Stabilize It With Micro-Breathing Anchors for Adults 60–73 With Social Anxiety",
+    "description": "Investigates 'Zoom hypertension' as a form of acute psychogenic stress response, and introduces 3-second breath-hold + exhale techniques validated for real-time BP modulation during virtual interactions.",
+    "primaryKeyword": "blood pressure spikes during video calls",
+    "topicCluster": "digital-stress-response",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:49:57.215Z"
+  },
+  {
+    "title": "A vs B: Evening Tart Cherry Juice (8 oz) vs. Standard Melatonin 1 mg — Impact on Nocturnal Systolic BP and Sleep Architecture in Adults 64–80 With Insomnia and Non-Dipping",
+    "description": "Compares two natural sleep-support interventions head-to-head for their differential effects on melatonin receptor signaling, vagal tone, and nighttime BP trajectory via ambulatory monitoring data.",
+    "primaryKeyword": "tart cherry juice vs melatonin for blood pressure",
+    "topicCluster": "sleep-intervention-comparison",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:49:58.622Z"
+  },
+  {
+    "title": "Quick Ways to Counteract BP Elevation From Airline Cabin Pressure — For Adults 65+ With COPD, Pulmonary Hypertension, and Frequent In-Flight Dizziness",
+    "description": "Offers pre-flight, in-flight, and post-flight strategies — including nasal NO delivery, timed isometric handgrip, and hydration timing — validated in simulated hypobaric chamber studies.",
+    "primaryKeyword": "airplane cabin pressure and blood pressure",
+    "topicCluster": "travel-physiology",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:50:04.204Z"
+  },
+  {
+    "title": "When to Worry About Sudden BP Drop After Starting SGLT2 Inhibitors — Especially in Adults 63–75 With Mild CKD and Orthostatic Symptoms",
+    "description": "Details the hemodynamic timeline of SGLT2i-induced natriuresis, volume-sensitive hypotension risk windows, and how to distinguish true volume depletion from autonomic-mediated drops.",
+    "primaryKeyword": "SGLT2 inhibitor blood pressure drop",
+    "topicCluster": "pharmacodynamic-alert",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:50:09.788Z"
+  },
+  {
+    "title": "The Complete Guide to Interpreting BP Variability Metrics (SD, CV, ARV) From Your Ambulatory Monitor — Especially If You’re 66+ With White-Coat Effect and Cognitive Concerns",
+    "description": "Demystifies statistical BP variability measures, their clinical meaning, and how to use them to guide treatment — with simplified visual dashboards and caregiver-friendly reporting tools.",
+    "primaryKeyword": "ambulatory blood pressure variability interpretation",
+    "topicCluster": "advanced-monitoring-literacy",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:50:11.172Z"
+  },
+  {
+    "title": "10 Foods That Increase Pulse Wave Velocity Within 2 Hours — And What to Eat Instead If You’re 61+ With Elevated CAC Score",
+    "description": "Identifies specific pro-arteriosclerotic foods (e.g., ultra-processed wheat starches, oxidized fats), their mechanistic pathways, and clinically tested replacements that improve arterial elasticity.",
+    "primaryKeyword": "foods that increase pulse wave velocity",
+    "topicCluster": "arterial-elasticity-diet",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:50:12.556Z"
+  },
+  {
+    "title": "How Intermittent Fasting (16:8) Affects Nocturnal Sympathetic Tone in Adults 57–69 With Hypertension and Sleep-Disordered Breathing",
+    "description": "Reviews fasting’s impact on catecholamine surges, vagal rebound timing, and respiratory arousal thresholds — with personalized timing recommendations based on respiratory event patterns.",
+    "primaryKeyword": "intermittent fasting and nocturnal sympathetic tone",
+    "topicCluster": "fasting-autonomic-interface",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:50:13.963Z"
+  },
+  {
+    "title": "Myths vs Facts: ‘Salt Sensitivity’ in Black Adults 55–72 — What Genomic Studies Reveal About ENaC Variants, Potassium Excretion, and Real-World Dietary Response",
+    "description": "Debunks oversimplified salt narratives using ancestry-informed physiology — explaining why some respond dramatically to potassium-rich diets alone, while others need dual RAAS + ENaC targeting.",
+    "primaryKeyword": "salt sensitivity myths in Black adults",
+    "topicCluster": "ancestry-physiology",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-20T03:50:15.379Z"
+  }
+]
