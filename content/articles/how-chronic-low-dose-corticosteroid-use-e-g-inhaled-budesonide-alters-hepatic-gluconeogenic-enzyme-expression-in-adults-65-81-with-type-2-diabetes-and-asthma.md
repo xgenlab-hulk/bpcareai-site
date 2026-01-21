@@ -1,14 +1,34 @@
 ---
-title: "How Chronic Low-Dose Corticosteroid Use (e.g., Inhaled Budesonide) Alters Hepatic Gluconeogenic Enzyme Expression in Adults 65–81 With Type 2 Diabetes and Asthma"
-slug: "how-chronic-low-dose-corticosteroid-use-e-g-inhaled-budesonide-alters-hepatic-gluconeogenic-enzyme-expression-in-adults-65-81-with-type-2-diabetes-and-asthma"
-description: "Investigates tissue-specific glucocorticoid receptor sensitivity, PEPCK transcriptional upregulation, and why inhaled doses still significantly impact fasting glucose despite low systemic bioavailability."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["inhaled steroids gluconeogenesis diabetes", "diabetes", "medications-lung-liver"]
-primaryKeyword: "inhaled steroids gluconeogenesis diabetes"
-topicCluster: "medications-lung-liver"
-image: ""
-relatedSlugs: ["how-indoor-fireplace-smoke-alters-endothelial-nitric-oxide-synthase-activity-and-worsens-post-meal-glucose-uptake-in-adults-71-with-type-2-diabetes-and-copd", "how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough", "how-indoor-air-pollutants-pm2-5-no2-disrupt-pancreatic-islet-mitochondrial-respiration-and-exacerbate-glucose-variability-in-adults-60-74-with-type-2-diabetes-and-urban-residency", "how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes"]
+title: >-
+  How Chronic Low-Dose Corticosteroid Use (e.g., Inhaled Budesonide) Alters
+  Hepatic Gluconeogenic Enzyme Expression in Adults 65–81 With Type 2 Diabetes
+  and Asthma
+slug: >-
+  how-chronic-low-dose-corticosteroid-use-e-g-inhaled-budesonide-alters-hepatic-gluconeogenic-enzyme-expression-in-adults-65-81-with-type-2-diabetes-and-asthma
+description: >-
+  Investigates tissue-specific glucocorticoid receptor sensitivity, PEPCK
+  transcriptional upregulation, and why inhaled doses still significantly impact
+  fasting glucose despite low systemic bioavailability.
+date: '2026-01-16'
+updated: '2026-01-16'
+tags:
+  - inhaled steroids gluconeogenesis diabetes
+  - diabetes
+  - medications-lung-liver
+primaryKeyword: inhaled steroids gluconeogenesis diabetes
+topicCluster: medications-lung-liver
+image: ''
+relatedSlugs:
+  - >-
+    how-indoor-fireplace-smoke-alters-endothelial-nitric-oxide-synthase-activity-and-worsens-post-meal-glucose-uptake-in-adults-71-with-type-2-diabetes-and-copd
+  - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
+  - >-
+    how-indoor-air-pollutants-pm2-5-no2-disrupt-pancreatic-islet-mitochondrial-respiration-and-exacerbate-glucose-variability-in-adults-60-74-with-type-2-diabetes-and-urban-residency
+  - >-
+    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
+  - >-
+    how-chronic-low-dose-corticosteroid-use-for-rheumatoid-arthritis-accelerates-coronary-endothelial-senescence-in-adults-55-69-with-normal-ldl
 ---
 
 # How Inhaled Steroids Influence Gluconeogenesis in Adults with Diabetes and Asthma
