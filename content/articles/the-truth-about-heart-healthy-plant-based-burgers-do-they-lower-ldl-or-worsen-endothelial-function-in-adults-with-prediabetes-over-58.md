@@ -26,6 +26,8 @@ relatedSlugs:
     the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
   - >-
     10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-adults-58-71-with-established-cad-and-high-tmao-levels
 ---
 
 # Do Plant-Based Burgers Support Endothelial Function in Adults With Prediabetes Over 58?

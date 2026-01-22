@@ -1,13 +1,5 @@
 [
   {
-    "title": "7 Silent Signs of Coronary Microvascular Dysfunction in Women 55–72 With Normal Coronary Angiograms and Persistent Chest Discomfort",
-    "description": "Explores subtle, often-missed symptoms of small-vessel heart disease in midlife and older women—despite 'clean' catheterization results—and when to pursue advanced diagnostics like CFR or PET imaging.",
-    "primaryKeyword": "coronary microvascular dysfunction symptoms women",
-    "topicCluster": "gender-specific-symptoms",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-21T03:50:59.871Z"
-  },
-  {
     "title": "How Chronic Air Pollution Exposure Alters Endothelial Function in Adults 60+ Living Within 1 Mile of High-Traffic Arteries",
     "description": "Breaks down the mechanistic link between long-term PM2.5 exposure, nitric oxide depletion, and accelerated arterial stiffening—plus practical indoor air mitigation strategies validated in urban geriatric cohorts.",
     "primaryKeyword": "air pollution endothelial function seniors",
@@ -16,75 +8,11 @@
     "createdAt": "2026-01-21T03:51:01.439Z"
   },
   {
-    "title": "The Truth About 'Heart-Healthy' Frozen Dinners for Adults 73+ With Stage 3 CKD and Systolic Heart Failure",
-    "description": "Analyzes sodium-potassium ratios, phosphate additives, and hidden preservatives in top-selling frozen meals—and identifies 4 brands that meet both KDOQI and ACC/AHA guidelines for dual-disease management.",
-    "primaryKeyword": "frozen dinners heart failure ckid",
-    "topicCluster": "cardiac-diet-ckd",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-21T03:51:02.967Z"
-  },
-  {
-    "title": "Why Nighttime BP Dipping Disappears After Age 67 — And What It Reveals About Autonomic Neuropathy and LVH",
-    "description": "Explains the physiological shift in circadian BP regulation with aging, links non-dipping to subclinical left ventricular hypertrophy and early autonomic damage, and outlines 24-hour ABPM interpretation for primary care.",
-    "primaryKeyword": "non-dipping blood pressure aging",
-    "topicCluster": "circadian-cardiology",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-21T03:51:04.516Z"
-  },
-  {
-    "title": "A vs B: Home-Based Isometric Handgrip Training vs. Supervised Interval Cycling — Impact on Central Aortic Pressure in Men 64–76 With Isolated Systolic Hypertension",
-    "description": "Compares adherence, safety, and hemodynamic outcomes of two accessible exercise modalities for older adults with elevated central pressure—highlighting real-world feasibility and echo-Doppler evidence.",
-    "primaryKeyword": "isometric handgrip vs cycling systolic hypertension",
-    "topicCluster": "exercise-modality-comparison",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-21T03:51:06.123Z"
-  },
-  {
-    "title": "12 Science-Backed Ways to Reduce Coronary Artery Calcification Progression in Adults 58–69 With Agatston Score 100–400 and Elevated Lp(a)",
-    "description": "Focuses exclusively on slowing CAC growth—not just prevention—using targeted nutrition (e.g., vitamin K2-MK7 dosing), lipid-modifying lifestyle levers, and emerging nutraceutical evidence from prospective CT cohort studies.",
-    "primaryKeyword": "slow coronary artery calcification progression",
-    "topicCluster": "coronary-calcification",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-21T03:51:07.633Z"
-  },
-  {
-    "title": "What Causes Recurrent Orthostatic Hypotension After Meals in Adults 71+ With Parkinson’s Disease and Newly Diagnosed HFpEF?",
-    "description": "Details the triad of postprandial splanchnic pooling, α-synuclein–mediated baroreflex failure, and diastolic dysfunction—and offers meal-timing, carb-sequencing, and compression strategies validated in movement disorder–cardiology clinics.",
-    "primaryKeyword": "postprandial orthostatic hypotension parkinsons",
-    "topicCluster": "neurocardiology",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-21T03:51:09.227Z"
-  },
-  {
-    "title": "5 Things Every Caregiver Should Know Before Administering Nitroglycerin to Someone 78+ With Known CAD and Mild Cognitive Impairment",
-    "description": "Covers timing errors, sublingual absorption pitfalls in xerostomia, contraindications with PDE5 inhibitors used off-label for urinary symptoms, and how to distinguish angina mimicry from dementia-related distress.",
-    "primaryKeyword": "nitroglycerin administration elderly dementia",
-    "topicCluster": "caregiver-safety",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-21T03:51:10.794Z"
-  },
-  {
     "title": "Does Daily 10-Minute Cold-Water Immersion (12°C) Improve HRV and Reduce NT-proBNP in Adults 59–70 With Stage B Heart Failure?",
     "description": "Reviews emerging RCT data on cold adaptation’s effect on vagal tone, myocardial stretch biomarkers, and sympathetic overactivity—plus safety thresholds, contraindications for PAD or Raynaud’s, and home protocol guidelines.",
     "primaryKeyword": "cold water immersion heart failure hrv",
     "topicCluster": "cold-therapy-cardiology",
     "coreKeyword": "heart disease",
     "createdAt": "2026-01-21T03:51:12.386Z"
-  },
-  {
-    "title": "Warning Signs Your 'Well-Controlled' Atrial Fibrillation Is Masking Early Cardiac Amyloidosis in Adults 68+ With Preserved EF and Unexplained Fatigue",
-    "description": "Identifies red-flag patterns—including disproportionate dyspnea vs. AF burden, low-voltage ECG despite normal LV thickness, and discordant TTR vs. NT-proBNP elevations—and explains next-step screening with bone-avid tracer imaging.",
-    "primaryKeyword": "atrial fibrillation cardiac amyloidosis signs",
-    "topicCluster": "rare-cardiomyopathy-detection",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-21T03:51:13.969Z"
-  },
-  {
-    "title": "Best Breathing Patterns for Reducing Left Atrial Pressure During Sleep in Adults 67–79 With HFpEF and Central Sleep Apnea",
-    "description": "Compares paced diaphragmatic breathing, Buteyko, and resonant frequency training for nocturnal LA pressure modulation—using esophageal manometry and overnight CPAP-integrated pressure data.",
-    "primaryKeyword": "breathing patterns hfpef left atrial pressure",
-    "topicCluster": "respiratory-cardiology",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-01-21T03:51:28.257Z"
   }
 ]
