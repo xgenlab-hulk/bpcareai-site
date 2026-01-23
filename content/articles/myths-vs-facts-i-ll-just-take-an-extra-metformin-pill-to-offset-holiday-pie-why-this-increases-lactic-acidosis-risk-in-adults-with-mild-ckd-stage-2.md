@@ -26,6 +26,8 @@ relatedSlugs:
     myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
     can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
+  - >-
+    how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af
 ---
 
 # Why “One Extra Metformin Pill” for Holiday Pie Is Risky—Understanding metformin holiday pie lactic acidosis in Adults With Mild CKD Stage 2

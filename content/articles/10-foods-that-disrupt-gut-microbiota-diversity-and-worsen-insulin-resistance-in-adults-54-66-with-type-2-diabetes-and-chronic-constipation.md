@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Disrupt Gut Microbiota Diversity and Worsen Insulin Resistance in Adults 54–66 With Type 2 Diabetes and Chronic Constipation"
-slug: "10-foods-that-disrupt-gut-microbiota-diversity-and-worsen-insulin-resistance-in-adults-54-66-with-type-2-diabetes-and-chronic-constipation"
-description: "Highlights often-overlooked culprits: ultra-processed emulsifiers, low-FODMAP diets without reintroduction, excessive resistant starch supplementation, and antiseptic mouthwashes — with microbiome-repair alternatives."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["foods disrupt gut microbiota insulin resistance", "diabetes", "microbiome-disruptors-diet"]
-primaryKeyword: "foods disrupt gut microbiota insulin resistance"
-topicCluster: "microbiome-disruptors-diet"
-image: ""
-relatedSlugs: ["how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes", "12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64"]
+title: >-
+  10 Foods That Disrupt Gut Microbiota Diversity and Worsen Insulin Resistance
+  in Adults 54–66 With Type 2 Diabetes and Chronic Constipation
+slug: >-
+  10-foods-that-disrupt-gut-microbiota-diversity-and-worsen-insulin-resistance-in-adults-54-66-with-type-2-diabetes-and-chronic-constipation
+description: >-
+  Highlights often-overlooked culprits: ultra-processed emulsifiers, low-FODMAP
+  diets without reintroduction, excessive resistant starch supplementation, and
+  antiseptic mouthwashes — with microbiome-repair alternatives.
+date: '2026-01-20'
+updated: '2026-01-20'
+tags:
+  - foods disrupt gut microbiota insulin resistance
+  - diabetes
+  - microbiome-disruptors-diet
+primaryKeyword: foods disrupt gut microbiota insulin resistance
+topicCluster: microbiome-disruptors-diet
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
+  - >-
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
+  - >-
+    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
 ---
 
 # 10 Foods and Habits That Can Disrupt Gut Microbiota and Worsen Insulin Resistance in Adults With Type 2 Diabetes and Constipation

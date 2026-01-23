@@ -1,5 +1,664 @@
 [
   {
+    "slug": "why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead",
+    "title": "Why Your 'Low-Carb' Holiday Stuffing Still Raises Triglycerides — And What to Swap Instead",
+    "description": "Explains how hidden fructose, high omega-6 fats, and low-fiber grain substitutes in ‘diabetic-friendly’ recipes drive postprandial lipemia — with science-backed, palatable alternatives.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "low-carb stuffing triglycerides diabetes",
+      "holiday diabetes management",
+      "diet-nutrition-lipid-metabolism"
+    ],
+    "primaryKeyword": "low-carb stuffing triglycerides diabetes",
+    "topicCluster": "diet-nutrition-lipid-metabolism",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60",
+      "warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia",
+      "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar",
+      "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control",
+      "7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish"
+    ]
+  },
+  {
+    "slug": "why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy",
+    "title": "Why Does Blood Sugar Spike After a 10-Minute Walk in Adults 62–78 With Type 2 Diabetes and Diabetic Retinopathy?",
+    "description": "Explores the paradoxical post-exercise hyperglycemia phenomenon in older adults with advanced microvascular complications, examining catecholamine surges, hepatic glucose output, and timing nuances.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "post-exercise blood sugar spike older adults",
+      "diabetes",
+      "exercise-physiology-paradoxes"
+    ],
+    "primaryKeyword": "post-exercise blood sugar spike older adults",
+    "topicCluster": "exercise-physiology-paradoxes",
+    "image": "",
+    "relatedSlugs": [
+      "can-walking-after-meals-lower-blood-sugar-in-older-adults",
+      "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes",
+      "when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment",
+      "why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals",
+      "myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-onset-of-wine-headache-with-palpitations-in-adults-60-71-with-migraine-associated-cortical-spreading-depression-and-undiagnosed-pacs",
+    "title": "What Causes Sudden Onset of 'Wine Headache' With Palpitations in Adults 60–71 With Migraine-Associated Cortical Spreading Depression and Undiagnosed PACs?",
+    "description": "Links cortical hyperexcitability, trigeminovascular activation, and premature atrial contractions to explain why wine — not just alcohol — uniquely triggers cardiac-brain symptoms in migraine-prone older adults.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "wine headache palpitations migraine cortical",
+      "holiday heart syndrome prevention",
+      "neurocardiac-symptoms"
+    ],
+    "primaryKeyword": "wine headache palpitations migraine cortical",
+    "topicCluster": "neurocardiac-symptoms",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers",
+      "myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome",
+      "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve",
+      "myths-vs-facts-i-only-drink-red-wine-it-s-heart-healthy-in-adults-65-with-high-frequency-pacs-and-left-atrial-fibrosis"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-cravings-for-candy-after-midnight-during-new-year-s-eve-in-adults-55-with-night-eating-syndrome-and-untreated-obstructive-sleep-apnea",
+    "title": "What Causes Sudden Cravings for Candy After Midnight During New Year’s Eve — In Adults 55+ With Night-Eating Syndrome and Untreated Obstructive Sleep Apnea?",
+    "description": "Links nocturnal hypoxia, leptin/ghrelin dysregulation, and dopaminergic reward pathway overactivation — explaining why festive sugar binges peak at 1–3 a.m. and how CPAP adherence alters craving intensity.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "midnight candy cravings new year's eve sleep apnea",
+      "managing blood sugar during christmas and new year",
+      "neuroendocrine-cravings"
+    ],
+    "primaryKeyword": "midnight candy cravings new year's eve sleep apnea",
+    "topicCluster": "neuroendocrine-cravings",
+    "image": "",
+    "relatedSlugs": [
+      "what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals",
+      "what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing",
+      "5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin",
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks"
+    ]
+  },
+  {
+    "slug": "what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine",
+    "title": "What Causes Nocturnal Hypertension in Women 52–65 With Perimenopausal Hot Flashes and Elevated Nighttime Norepinephrine?",
+    "description": "Analyzes the neuroendocrine link between vasomotor instability, sympathetic overactivity, and reversed BP dipping — with hormone-aware nonpharmacologic strategies.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "nocturnal hypertension in perimenopausal women",
+      "blood pressure",
+      "menopause-cardiovascular"
+    ],
+    "primaryKeyword": "nocturnal hypertension in perimenopausal women",
+    "topicCluster": "menopause-cardiovascular",
+    "image": "",
+    "relatedSlugs": [
+      "5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know",
+      "can-daily-12-second-nitric-oxide-nasal-sprays-improve-endothelial-function-in-women-58-69-with-morning-hypertension-and-cold-induced-raynaud-s",
+      "5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension",
+      "7-hidden-causes-of-nighttime-heart-palpitations-in-women-over-55",
+      "quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns"
+    ]
+  },
+  {
+    "slug": "warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89",
+    "title": "Warning Signs Your Holiday Weight Gain Is Masking Early Diabetic Kidney Disease Progression — Especially If You’re 64+ With eGFR 60–89",
+    "description": "Identifies atypical markers — like unexplained nocturia despite stable A1c, subtle ankle edema post-feast, or disproportionate fatigue — that signal early DKD in high-functioning older adults.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "holiday weight gain early diabetic kidney disease",
+      "holiday diabetes management",
+      "complication-detection-dkd"
+    ],
+    "primaryKeyword": "holiday weight gain early diabetic kidney disease",
+    "topicCluster": "complication-detection-dkd",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction",
+      "warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks",
+      "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents",
+      "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes",
+      "how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60"
+    ]
+  },
+  {
+    "slug": "warning-signs-your-holiday-heart-is-masking-early-stage-fabry-disease-in-adults-58-69-with-angiokeratomas-and-unexplained-lvh",
+    "title": "Warning Signs Your 'Holiday Heart' Is Masking Early-Stage Fabry Disease in Adults 58–69 With Angiokeratomas and Unexplained LVH",
+    "description": "Spotlights under-recognized clues — such as acroparesthesias after mulled wine, corneal verticillata, and episodic GI distress with alcohol — that point to lysosomal storage disease rather than benign holiday arrhythmia.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "holiday heart syndrome fabry disease signs",
+      "holiday heart syndrome prevention",
+      "rare-disease-differential"
+    ],
+    "primaryKeyword": "holiday heart syndrome fabry disease signs",
+    "topicCluster": "rare-disease-differential",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate",
+      "7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging",
+      "what-are-the-first-signs-of-holiday-heart-syndrome-in-women",
+      "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction",
+      "myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome"
+    ]
+  },
+  {
+    "slug": "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue",
+    "title": "The Truth About ‘Sugar-Free’ Holiday Cookies Labeled for Diabetics — What the Ingredients Panel Reveals About Polyol Malabsorption and Postprandial Fatigue",
+    "description": "Deconstructs sugar alcohol content, fiber claims, and osmotic load in commercially marketed 'diabetic' treats — and links gastrointestinal stress to secondary glucose dysregulation in adults 60+.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "sugar-free cookies polyol malabsorption fatigue",
+      "holiday diabetes management",
+      "food-labeling-gi-metabolism"
+    ],
+    "primaryKeyword": "sugar-free cookies polyol malabsorption fatigue",
+    "topicCluster": "food-labeling-gi-metabolism",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes",
+      "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging",
+      "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose",
+      "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70",
+      "the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal"
+    ]
+  },
+  {
+    "slug": "the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment",
+    "title": "The Truth About 'Sugar-Free' Holiday Cookies for Adults 70+ With Type 2 Diabetes and Mild Cognitive Impairment",
+    "description": "Debunks marketing claims around sugar alcohols and artificial sweeteners in festive baked goods, analyzing real-world glycemic response, GI distress risk, and cognitive load of label interpretation in aging populations with early memory concerns.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "sugar-free holiday cookies type 2 diabetes elderly",
+      "managing blood sugar during christmas and new year",
+      "food-labeling-cognition"
+    ],
+    "primaryKeyword": "sugar-free holiday cookies type 2 diabetes elderly",
+    "topicCluster": "food-labeling-cognition",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes",
+      "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging",
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr",
+      "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue"
+    ]
+  },
+  {
+    "slug": "the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement",
+    "title": "The Truth About 'Non-Alcoholic' Holiday Drinks for Adults 67+ With Undiagnosed Alcohol Sensitivity and Left Atrial Enlargement",
+    "description": "Debunks marketing claims around NA wines, mocktails, and fermented sodas by analyzing their residual ethanol content, histamine load, and vasoreactive compounds — and how these silently trigger ectopy in aging atria.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "non-alcoholic drinks holiday heart syndrome",
+      "holiday heart syndrome prevention",
+      "non-alcoholic-beverages"
+    ],
+    "primaryKeyword": "non-alcoholic drinks holiday heart syndrome",
+    "topicCluster": "non-alcoholic-beverages",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension",
+      "myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs",
+      "best-non-alcoholic-holiday-drinks-for-heart-health-after-50",
+      "myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome",
+      "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers"
+    ]
+  },
+  {
+    "slug": "the-truth-about-blood-pressure-normalization-after-bariatric-surgery-why-some-adults-55-67-see-late-onset-hypotension-3-years-post-rygb",
+    "title": "The Truth About Blood Pressure ‘Normalization’ After Bariatric Surgery — Why Some Adults 55–67 See Late-Onset Hypotension 3+ Years Post-RYGB",
+    "description": "Examines long-term vascular adaptation, renin-angiotensin remodeling, and orthostatic risk in sustained weight-loss patients — including red-flag symptoms and when to taper antihypertensives.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "post-bariatric surgery low blood pressure",
+      "blood pressure",
+      "surgical-outcomes"
+    ],
+    "primaryKeyword": "post-bariatric surgery low blood pressure",
+    "topicCluster": "surgical-outcomes",
+    "image": "",
+    "relatedSlugs": [
+      "blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t",
+      "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension",
+      "when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction",
+      "the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance",
+      "simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-non-alcoholic-celebration-rituals-for-adults-72-with-hfpef-and-alcohol-induced-pulmonary-congestion",
+    "title": "The Complete Guide to Non-Alcoholic Celebration Rituals for Adults 72+ With HFpEF and Alcohol-Induced Pulmonary Congestion",
+    "description": "Offers a holistic, culturally resonant framework — including sensory substitution (aromatic teas, effervescent tonics), ritual pacing, and social scripting — to maintain joy and belonging without triggering interstitial edema or dyspnea.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "non-alcoholic celebration rituals hfpef",
+      "holiday heart syndrome prevention",
+      "ritual-substitution-hfpef"
+    ],
+    "primaryKeyword": "non-alcoholic celebration rituals hfpef",
+    "topicCluster": "ritual-substitution-hfpef",
+    "image": "",
+    "relatedSlugs": [
+      "best-non-alcoholic-holiday-drinks-for-heart-health-after-50",
+      "the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement",
+      "myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs",
+      "the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension",
+      "why-dehydration-at-holiday-events-may-worsen-heart-palpitations"
+    ]
+  },
+  {
+    "slug": "red-flags-your-holiday-diet-soda-habit-is-worsening-insulin-resistance-especially-if-you-re-60-with-visceral-adiposity",
+    "title": "Red Flags Your Holiday ‘Diet Soda’ Habit Is Worsening Insulin Resistance — Especially If You’re 60+ With Visceral Adiposity",
+    "description": "Connects artificial sweetener exposure to altered gut microbiota, incretin hormone dysregulation, and cephalic phase insulin release — with metabolic consequences amplified by age-related adipose dysfunction.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "diet soda insulin resistance visceral adiposity",
+      "holiday diabetes management",
+      "beverage-metabolism"
+    ],
+    "primaryKeyword": "diet soda insulin resistance visceral adiposity",
+    "topicCluster": "beverage-metabolism",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors",
+      "warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks",
+      "how-sleep-apnea-impacts-type-2-diabetes-control-after-50",
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76"
+    ]
+  },
+  {
+    "slug": "quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs",
+    "title": "Quick Ways to Reset Gut Microbiome After Rich Holiday Meals — Without Probiotics — for Adults 65–80 With Type 2 Diabetes and Constipation-Predominant IBS",
+    "description": "Highlights time-sensitive, food-first strategies: resistant starch timing, polyphenol-rich beverage sequencing, fasting window alignment with circadian clocks, and fiber diversity within 48h post-feast.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "reset gut microbiome after holiday meals no probiotics",
+      "holiday diabetes management",
+      "gut-health-metabolic-recovery"
+    ],
+    "primaryKeyword": "reset gut microbiome after holiday meals no probiotics",
+    "topicCluster": "gut-health-metabolic-recovery",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy",
+      "can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown",
+      "quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts",
+      "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis",
+      "10-foods-that-disrupt-gut-microbiota-diversity-and-worsen-insulin-resistance-in-adults-54-66-with-type-2-diabetes-and-chronic-constipation"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-cardiac-mitochondrial-biogenesis-using-time-restricted-eating-with-late-afternoon-polyphenol-timing-for-adults-59-74-with-diastolic-heart-failure-and-low-peak-vo2",
+    "title": "Natural Ways to Support Cardiac Mitochondrial Biogenesis Using Time-Restricted Eating With Late-Afternoon Polyphenol Timing — For Adults 59–74 With Diastolic Heart Failure and Low Peak VO2",
+    "description": "Explores how circadian-aligned polyphenol intake (e.g., pomegranate, green tea) combined with 10-hour feeding windows enhances PGC-1α signaling and improves myocardial energetics — with sample timing schedules.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "mitochondrial biogenesis heart failure trf",
+      "heart health",
+      "metabolic-cardiology-nutrition"
+    ],
+    "primaryKeyword": "mitochondrial biogenesis heart failure trf",
+    "topicCluster": "metabolic-cardiology-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction",
+      "12-science-backed-ways-to-protect-mitochondrial-cardiomyocyte-function-using-meal-timing-nutrient-synergy-and-circadian-light-exposure-for-adults-55-69-with-subclinical-lv-hypertrophy",
+      "natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max",
+      "natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing",
+      "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd"
+    ]
+  },
+  {
+    "slug": "myths-vs-facts-i-only-drink-red-wine-it-s-heart-healthy-in-adults-65-with-high-frequency-pacs-and-left-atrial-fibrosis",
+    "title": "Myths vs Facts: 'I Only Drink Red Wine — It’s Heart-Healthy' in Adults 65+ With High-Frequency PACs and Left Atrial Fibrosis",
+    "description": "Deconstructs the resveratrol myth using cardiac MRI fibrosis mapping and real-world PAC burden data — showing how even low-alcohol red wine increases atrial ectopy in structurally remodeled hearts.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "red wine heart healthy myth vs fact",
+      "holiday heart syndrome prevention",
+      "wine-myth-debunking"
+    ],
+    "primaryKeyword": "red wine heart healthy myth vs fact",
+    "topicCluster": "wine-myth-debunking",
+    "image": "",
+    "relatedSlugs": [
+      "myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome",
+      "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers",
+      "the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk",
+      "the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement",
+      "what-causes-sudden-onset-of-wine-headache-with-palpitations-in-adults-60-71-with-migraine-associated-cortical-spreading-depression-and-undiagnosed-pacs"
+    ]
+  },
+  {
+    "slug": "how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af",
+    "title": "How Late-Night Pie Eating Alters Gut Microbiome-Derived TMAO Peaks and Atrial Fibrosis Progression in Adults 66–78 With Mild CKD and AF",
+    "description": "Connects post-holiday dessert timing, microbial metabolite kinetics, and renal excretion capacity — explaining why late-night sweets may accelerate structural remodeling even without acute arrhythmia.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "late-night pie tmao atrial fibrosis",
+      "holiday heart syndrome prevention",
+      "microbiome-remodeling-link"
+    ],
+    "primaryKeyword": "late-night pie tmao atrial fibrosis",
+    "topicCluster": "microbiome-remodeling-link",
+    "image": "",
+    "relatedSlugs": [
+      "how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle",
+      "how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib",
+      "myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2",
+      "how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65",
+      "can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd"
+    ]
+  },
+  {
+    "slug": "how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms",
+    "title": "How Late-Night Gift Wrapping Affects Fasting Glucose in Adults 62–76 With Prediabetes and Shifted Circadian Rhythms",
+    "description": "Analyzes the metabolic impact of cognitively engaging, low-movement evening activities on overnight glucose regulation — especially in those with age-related circadian delay and insulin resistance.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "late-night activity fasting glucose prediabetes",
+      "holiday diabetes management",
+      "circadian-metabolism"
+    ],
+    "primaryKeyword": "late-night activity fasting glucose prediabetes",
+    "topicCluster": "circadian-metabolism",
+    "image": "",
+    "relatedSlugs": [
+      "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon",
+      "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation",
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes",
+      "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s"
+    ]
+  },
+  {
+    "slug": "how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history",
+    "title": "How Late-Night Eggnog Consumption Affects Fasting Glucose in Adults 55–68 With Metabolic Syndrome and Shift-Work History",
+    "description": "Explores the circadian and metabolic impact of high-fat, high-sugar nighttime beverages on overnight insulin resistance — with data on glucose variability, cortisol rhythm disruption, and practical timing adjustments for shift workers during holidays.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "late-night eggnog fasting glucose metabolic syndrome",
+      "managing blood sugar during christmas and new year",
+      "circadian-metabolism"
+    ],
+    "primaryKeyword": "late-night eggnog fasting glucose metabolic syndrome",
+    "topicCluster": "circadian-metabolism",
+    "image": "",
+    "relatedSlugs": [
+      "how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes",
+      "how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms",
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72",
+      "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon"
+    ]
+  },
+  {
+    "slug": "how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression",
+    "title": "How Chronic Loneliness Alters Taste Perception During Holiday Meals in Adults 69–82 With Reduced Gustatory Bud Density and Depression",
+    "description": "Explains neuroendocrine mechanisms linking social isolation to dulled sweet/savory detection, and offers sensory-enhancement strategies (umami layering, aroma-boosted herbs, texture variation).",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "loneliness taste perception holiday meals",
+      "healthy holiday eating for seniors",
+      "emotional-health-sensory-diet"
+    ],
+    "primaryKeyword": "loneliness taste perception holiday meals",
+    "topicCluster": "emotional-health-sensory-diet",
+    "image": "",
+    "relatedSlugs": [
+      "the-link-between-loneliness-during-holidays-and-poor-diabetes-control",
+      "simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification",
+      "how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80",
+      "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults",
+      "13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps"
+    ]
+  },
+  {
+    "slug": "how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle",
+    "title": "How Alcohol Timing Affects Atrial Fibrillation Risk During Holiday Gatherings in Adults 55–68 With Occult AF and High-Functioning Lifestyle",
+    "description": "Explores why drinking alcohol earlier in the day — versus late-night toasting — significantly alters arrhythmia risk in middle-aged adults with undiagnosed paroxysmal AF, based on circadian autonomic modulation and postprandial hemodynamics.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "alcohol timing atrial fibrillation holiday risk",
+      "holiday heart syndrome prevention",
+      "alcohol-timing-arrhythmia"
+    ],
+    "primaryKeyword": "alcohol timing atrial fibrillation holiday risk",
+    "topicCluster": "alcohol-timing-arrhythmia",
+    "image": "",
+    "relatedSlugs": [
+      "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60",
+      "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults",
+      "how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension",
+      "how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib",
+      "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults"
+    ]
+  },
+  {
+    "slug": "holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa",
+    "title": "Holiday Heart Syndrome and Sleep Architecture: How Fragmented REM Cycles Amplify Arrhythmia Risk in Adults 70–79 With Mild OSA",
+    "description": "Examines the bidirectional link between disrupted rapid-eye-movement sleep and nocturnal vagal surges, explaining why even mild OSA increases susceptibility to alcohol-triggered AF during holiday travel or late-night celebrations.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "sleep architecture holiday heart syndrome oSA",
+      "holiday heart syndrome prevention",
+      "sleep-arrhythmia-link"
+    ],
+    "primaryKeyword": "sleep architecture holiday heart syndrome oSA",
+    "topicCluster": "sleep-arrhythmia-link",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea",
+      "how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm",
+      "warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71",
+      "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve",
+      "how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension"
+    ]
+  },
+  {
+    "slug": "a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af",
+    "title": "A vs B: Mulled Wine (Simmered 45 Min, No Added Sugar) vs. Sparkling Cider (Unfiltered, No Sulfites) — Impact on Post-Prandial Cardiac Rhythm Stability in Adults 64–76 With IBS and AF",
+    "description": "Compares two popular holiday beverages on histamine load, tannin bioavailability, sugar kinetics, and polyphenol–ion channel interactions — with real-time ECG data from ambulatory rhythm monitoring studies.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "mulled wine vs sparkling cider arrhythmia",
+      "holiday heart syndrome prevention",
+      "beverage-comparison-cardiac-rhythm"
+    ],
+    "primaryKeyword": "mulled wine vs sparkling cider arrhythmia",
+    "topicCluster": "beverage-comparison-cardiac-rhythm",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome",
+      "a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance",
+      "10-things-you-should-know-about-alcohol-free-mulled-wine-for-blood-sugar-control-including-tannin-content-spice-synergy-and-serving-temperature-effects",
+      "the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement",
+      "a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate",
+    "title": "7 Silent Signs Your Holiday Heart Syndrome Is Actually Early-Stage Cardiac Sarcoidosis — Especially If You’re 63+ and Taking Methotrexate",
+    "description": "Highlights atypical presentations (e.g., isolated fatigue after wine, transient AV block with holiday stress, or persistent sinus tachycardia unresponsive to rest) that mimic holiday heart but signal granulomatous infiltration in older adults with autoimmune history.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "holiday heart syndrome cardiac sarcoidosis signs",
+      "holiday heart syndrome prevention",
+      "differential-diagnosis"
+    ],
+    "primaryKeyword": "holiday heart syndrome cardiac sarcoidosis signs",
+    "topicCluster": "differential-diagnosis",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging",
+      "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction",
+      "what-are-the-first-signs-of-holiday-heart-syndrome-in-women",
+      "holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70",
+      "7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction",
+    "title": "7 Silent Signs of Diastolic Dysfunction You Might Miss at Home — Especially If You’re 65+ With Normal Ejection Fraction",
+    "description": "Explains subtle, non-classic symptoms like unexplained fatigue, orthopnea with minimal exertion, and nocturnal cough that signal early heart failure with preserved EF — and how to track them without imaging.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "silent signs diastolic dysfunction seniors",
+      "heart health",
+      "early-detection-symptoms"
+    ],
+    "primaryKeyword": "silent signs diastolic dysfunction seniors",
+    "topicCluster": "early-detection-symptoms",
+    "image": "",
+    "relatedSlugs": [
+      "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily",
+      "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath",
+      "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms",
+      "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity",
+      "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents"
+    ]
+  },
+  {
+    "slug": "7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them",
+    "title": "7 Holiday-Specific Blood Sugar Spikes You Might Not Notice — And What to Do About Them",
+    "description": "Explores subtle, non-classic hyperglycemic patterns triggered by festive routines (e.g., delayed meals, alcohol timing, disrupted sleep), with actionable detection and response strategies for adults 55–74 with type 2 diabetes.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "holiday blood sugar spikes unnoticed",
+      "holiday diabetes management",
+      "glycemic-patterns-symptom-recognition"
+    ],
+    "primaryKeyword": "holiday blood sugar spikes unnoticed",
+    "topicCluster": "glycemic-patterns-symptom-recognition",
+    "image": "",
+    "relatedSlugs": [
+      "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+      "managing-type-2-diabetes-while-attending-back-to-back-holiday-parties",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "the-truth-about-alcohol-and-blood-sugar-during-holiday-parties",
+      "best-blood-sugar-monitoring-practices-during-the-holiday-season"
+    ]
+  },
+  {
+    "slug": "5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy",
+    "title": "5 Things Every Caregiver Should Know Before Serving Holiday Meals to Someone 76+ With Type 1 Diabetes and Autonomic Neuropathy",
+    "description": "Actionable, safety-first guidance for non-clinical caregivers — covering carb-counting pitfalls with mixed dishes, delayed gastric emptying risks, hypoglycemia unawareness during social distraction, and emergency response adaptations.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "caregiver holiday meals type 1 diabetes elderly",
+      "managing blood sugar during christmas and new year",
+      "caregiver-safety"
+    ],
+    "primaryKeyword": "caregiver holiday meals type 1 diabetes elderly",
+    "topicCluster": "caregiver-safety",
+    "image": "",
+    "relatedSlugs": [
+      "10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit",
+      "simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature",
+      "5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers",
+      "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes",
+      "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72"
+    ]
+  },
+  {
+    "slug": "5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party",
+    "title": "5 Things Every Adult 53–64 With Newly Diagnosed Hypertension Should Know Before Attending Their First Post-Diagnosis Holiday Party",
+    "description": "Actionable, non-alarmist guidance for recently diagnosed patients — covering safe drink substitutions, covert BP-monitoring tactics, when to excuse oneself, and how to navigate 'just one drink' social pressure without compromising cardiac stability.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "hypertension diagnosis holiday party preparation",
+      "holiday heart syndrome prevention",
+      "new-diagnosis-navigation"
+    ],
+    "primaryKeyword": "hypertension diagnosis holiday party preparation",
+    "topicCluster": "new-diagnosis-navigation",
+    "image": "",
+    "relatedSlugs": [
+      "best-non-alcoholic-holiday-drinks-for-heart-health-after-50",
+      "the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension",
+      "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol",
+      "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62"
+    ]
+  },
+  {
+    "slug": "12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-55-72-with-long-standing-type-2-diabetes",
+    "title": "12 Science-Backed Ways to Prevent Post-Holiday HbA1c Creep in Adults 55–72 With Long-Standing Type 2 Diabetes",
+    "description": "Evidence-based interventions targeting known drivers of seasonal A1c drift: glycemic memory from acute spikes, reduced physical activity density, circadian desynchrony, and inflammation-mediated insulin resistance.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "prevent post-holiday HbA1c creep",
+      "holiday diabetes management",
+      "long-term-glycemic-stability"
+    ],
+    "primaryKeyword": "prevent post-holiday HbA1c creep",
+    "topicCluster": "long-term-glycemic-stability",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine",
+      "12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years",
+      "myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity",
+      "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes",
+      "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks"
+    ]
+  },
+  {
+    "slug": "12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation",
+    "title": "12 Evidence-Based Hydration Strategies to Prevent Holiday Heart Syndrome in Adults 62+ With Mild Dehydration-Induced QT Prolongation",
+    "description": "A practical, step-by-step guide to optimizing fluid intake *around* meals — not just total daily volume — to stabilize electrolytes, reduce cardiac irritability, and prevent alcohol-triggered arrhythmias in older adults with borderline QTc.",
+    "date": "2026-01-23",
+    "updated": "2026-01-23",
+    "tags": [
+      "hydration strategies holiday heart syndrome prevention",
+      "holiday heart syndrome prevention",
+      "electrolyte-hydration"
+    ],
+    "primaryKeyword": "hydration strategies holiday heart syndrome prevention",
+    "topicCluster": "electrolyte-hydration",
+    "image": "",
+    "relatedSlugs": [
+      "best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air",
+      "why-dehydration-at-holiday-events-may-worsen-heart-palpitations",
+      "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
+      "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+      "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70"
+    ]
+  },
+  {
     "slug": "why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh",
     "title": "Why Nighttime BP Dipping Disappears After Age 67 — And What It Reveals About Autonomic Neuropathy and LVH",
     "description": "Explains the physiological shift in circadian BP regulation with aging, links non-dipping to subclinical left ventricular hypertrophy and early autonomic damage, and outlines 24-hour ABPM interpretation for primary care.",
@@ -1943,7 +2602,8 @@
     "image": "",
     "relatedSlugs": [
       "how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes",
-      "12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64"
+      "12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64",
+      "quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs"
     ]
   },
   {
@@ -12906,7 +13566,8 @@
       "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60",
       "what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62",
       "myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75",
-      "can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide"
+      "can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide",
+      "how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af"
     ]
   },
   {
