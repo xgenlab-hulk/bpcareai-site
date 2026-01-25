@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "title": "How Intermittent Fasting During Thanksgiving Week Affects Gastric Emptying in Adults 64–78 With Diabetic Gastroparesis and Chronic Constipation",
+    "description": "Explores the physiological impact of time-restricted eating around major holiday meals on stomach motility, using gastric scintigraphy and symptom diaries from a 2023 pilot cohort study.",
+    "primaryKeyword": "intermittent fasting gastroparesis holiday meals",
+    "topicCluster": "meal-timing-physiology",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-01-25T04:03:39.917Z"
+  },
+  {
+    "title": "What Research Says About Ultra-Processed Holiday Snacks and Endothelial Dysfunction in Adults 61–75 With Subclinical Atherosclerosis",
+    "description": "Synthesizes findings from the 2022–2024 ENDOTRACK cohort on postprandial flow-mediated dilation after consuming common holiday snacks (e.g., flavored popcorn, protein bars, spiced nuts), controlling for AGE and LDL-P.",
+    "primaryKeyword": "ultra-processed snacks endothelial function atherosclerosis",
+    "topicCluster": "vascular-physiology-research",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-01-25T04:03:43.392Z"
+  },
+  {
+    "title": "The Truth About 'Gluten-Free' Holiday Desserts for Adults 67+ With Non-Celiac Gluten Sensitivity and Small Intestinal Bacterial Overgrowth",
+    "description": "Examines how commercial GF labels mislead—focusing on FODMAP load, starch retrogradation effects on fermentation, and hidden fructan sources in almond flour and chicory root–sweetened treats.",
+    "primaryKeyword": "gluten-free desserts sibo non-celiac sensitivity",
+    "topicCluster": "gut-microbiome-nutrition",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-01-25T04:03:47.032Z"
+  }
+]

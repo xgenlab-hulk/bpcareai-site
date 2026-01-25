@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "title": "How Chronic Low-Grade Inflammation Drives Beta-Cell Decline in Adults 52–64 With Long-Standing Prediabetes and Elevated hs-CRP",
+    "description": "Explores the mechanistic link between systemic inflammation and progressive insulin deficiency in midlife prediabetes, using longitudinal biomarker data and pancreatic imaging correlates.",
+    "primaryKeyword": "inflammation and beta-cell decline prediabetes",
+    "topicCluster": "pathophysiology-mechanisms",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-25T04:02:13.799Z"
+  },
+  {
+    "title": "7 Unexpected Signs of Nocturnal Hypoglycemia in Women 58–73 With Insulin Therapy and Perimenopausal Sleep Fragmentation",
+    "description": "Identifies under-recognized nighttime symptoms—including morning migraines, unexplained nocturia, and REM-sleep behavior changes—linked to undetected overnight glucose dips in perimenopausal women on insulin.",
+    "primaryKeyword": "nocturnal hypoglycemia signs perimenopausal women",
+    "topicCluster": "symptoms-silent-signs",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-25T04:02:15.619Z"
+  },
+  {
+    "title": "The Truth About 'Low-Sugar' Protein Bars for Adults 65+ With Type 2 Diabetes and Stage 3 CKD: Hidden Phosphorus Load and Metabolic Acidosis Risk",
+    "description": "Analyzes commercial 'diabetic-friendly' protein bars for undisclosed phosphorus additives, acid load impact on renal tubular function, and implications for eGFR trajectory in older adults with CKD.",
+    "primaryKeyword": "low-sugar protein bars kidney disease diabetes",
+    "topicCluster": "diet-nutrition-renal-safety",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-25T04:02:17.388Z"
+  },
+  {
+    "title": "12 Science-Backed Ways to Reduce Postprandial Endothelial Dysfunction Within 45 Minutes — For Adults 60–76 With Type 2 Diabetes and Elevated ADMA",
+    "description": "Details time-sensitive, non-pharmacologic interventions—including timed nitrate-rich foods, post-meal walking cadence, and breath-hold protocols—validated by flow-mediated dilation studies.",
+    "primaryKeyword": "reduce endothelial dysfunction postprandial",
+    "topicCluster": "vascular-health-interventions",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-25T04:02:24.234Z"
+  },
+  {
+    "title": "Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle Without Supplements — For Adults 56–70 With Insulin Resistance and Sedentary Desk Jobs",
+    "description": "Focuses on non-supplement strategies—specific resistance training tempos, cold exposure windows, and circadian-aligned protein distribution—to enhance muscle insulin sensitivity via PGC-1α activation.",
+    "primaryKeyword": "mitochondrial biogenesis insulin resistance",
+    "topicCluster": "natural-remedies-muscle-metabolism",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-25T04:02:27.780Z"
+  },
+  {
+    "title": "How Long-Term Metformin Use Alters Gut Microbiome Diversity and Butyrate Production in Adults 67–81 With Type 2 Diabetes and Constipation-Predominant IBS",
+    "description": "Reviews metagenomic data linking metformin to *Akkermansia* enrichment and *Roseburia* suppression—and practical dietary co-interventions to restore butyrogenesis and colonic motility.",
+    "primaryKeyword": "metformin gut microbiome butyrate constipation",
+    "topicCluster": "medication-gut-interactions",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-25T04:02:31.284Z"
+  },
+  {
+    "title": "Does Daily 8-Minute Diaphragmatic Breathing Lower Fasting Glucose and HOMA-IR in Adults 59–69 With Stress-Induced Hyperglycemia and High Salivary Alpha-Amylase?",
+    "description": "Presents RCT data on vagally mediated hepatic glucose suppression, cortisol rhythm normalization, and insulin receptor tyrosine phosphorylation changes after 4 weeks of standardized breathing.",
+    "primaryKeyword": "diaphragmatic breathing fasting glucose",
+    "topicCluster": "lifestyle-stress-metabolism",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-25T04:02:36.634Z"
+  },
+  {
+    "title": "The Complete Guide to Managing Diabetes During Heatwaves — For Adults 72+ With Diuretic Use, Orthostatic Hypotension, and Reduced Thirst Sensation",
+    "description": "Covers hydration timing, electrolyte balancing without hyperkalemia risk, medication stability in extreme heat, and CGM sensor adhesion failure mitigation for frail seniors.",
+    "primaryKeyword": "diabetes heatwave management elderly",
+    "topicCluster": "environmental-risk-management",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-01-25T04:02:38.372Z"
+  }
+]

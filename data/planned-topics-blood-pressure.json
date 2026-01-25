@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "What Causes Morning Blood Pressure Spikes in Adults 62+ With Chronic Kidney Disease and Nocturnal Polyuria?",
+    "description": "Explores renal nocturnal sodium handling, sympathetic nervous system activation, and circadian renin-angiotensin shifts as drivers of early-morning hypertension surges in older adults with stage 3 CKD.",
+    "primaryKeyword": "morning blood pressure spikes chronic kidney disease",
+    "topicCluster": "circadian-rhythm-ckd",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-25T04:00:07.724Z"
+  },
+  {
+    "title": "7 Hidden Medication Interactions That Raise Blood Pressure in Adults 70+ Taking SSRIs, PPIs, and Anticholinergics",
+    "description": "Identifies underrecognized pharmacodynamic and pharmacokinetic interactions—especially involving serotonin-mediated vasoconstriction, hypokalemia from PPIs, and vagal withdrawal—that amplify hypertension risk in polypharmacy seniors.",
+    "primaryKeyword": "medication interactions raise blood pressure seniors",
+    "topicCluster": "polypharmacy-hypertension",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-25T04:00:09.478Z"
+  },
+  {
+    "title": "How Untreated Obstructive Sleep Apnea Worsens Resistant Hypertension in Women 58–71 With Perimenopausal Insulin Resistance",
+    "description": "Analyzes sex-specific mechanisms—estrogen-modulated carotid body sensitivity, nocturnal sympathetic surges, and post-apneic endothelial shear stress—linking OSA severity to failed BP control despite ≥3 antihypertensives.",
+    "primaryKeyword": "sleep apnea resistant hypertension perimenopause",
+    "topicCluster": "gender-sleep-hypertension",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-25T04:00:11.275Z"
+  },
+  {
+    "title": "Does Daily 20-Minute Tai Chi Reduce Central Aortic Pressure in Adults 63–75 With Isolated Systolic Hypertension and Gait Instability?",
+    "description": "Reviews pulse wave velocity and central augmentation index outcomes from 12-week tai chi trials in older adults with ISH, emphasizing biomechanical load distribution and vagal tone modulation.",
+    "primaryKeyword": "tai chi central aortic pressure isolated systolic",
+    "topicCluster": "mindful-exercise-hypertension",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-25T04:00:18.301Z"
+  },
+  {
+    "title": "5 Things Every Adult 74+ With Aortic Stenosis and Controlled Hypertension Should Know Before Starting Home BP Monitoring",
+    "description": "Highlights pitfalls including radial waveform distortion, cuff size errors in sarcopenic obesity, and misinterpretation of pulse pressure in fixed-outflow obstruction—plus safe targets for systolic and pulse pressure.",
+    "primaryKeyword": "aortic stenosis home blood pressure monitoring",
+    "topicCluster": "valvular-disease-monitoring",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-25T04:00:23.609Z"
+  },
+  {
+    "title": "Natural Ways to Support Endothelial Repair After Acute Hypertensive Crisis — For Adults 65+ With Prior BP >220/120 and Microalbuminuria",
+    "description": "Details dietary nitrate loading, arginine-citrulline cycling, sulforaphane-induced Nrf2 activation, and avoidance of post-crisis NSAIDs or high-dose statins that impair endothelial progenitor cell function.",
+    "primaryKeyword": "endothelial repair hypertensive crisis microalbuminuria",
+    "topicCluster": "post-crisis-recovery",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-25T04:00:28.878Z"
+  },
+  {
+    "title": "What Are the Earliest Signs of Autonomic Failure Masquerading as Labile Hypertension in Adults 70+ With Parkinson’s Disease and Orthostatic Intolerance?",
+    "description": "Distinguishes neurogenic hypertension patterns—supine surges, postprandial lability, and loss of BP variability—from essential hypertension using beat-to-beat monitoring and Valsalva response analysis.",
+    "primaryKeyword": "autonomic failure labile hypertension parkinsons",
+    "topicCluster": "neurogenic-hypertension",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-25T04:00:30.678Z"
+  },
+  {
+    "title": "Does Adding 1 Gram of Ground Flaxseed to Breakfast Lower Central Systolic Pressure in Adults 56–69 With Hypertension and Elevated LDL-P?",
+    "description": "Evaluates flax lignan (secoisolariciresinol) effects on arterial stiffness, LDL particle oxidation, and endothelial-derived hyperpolarizing factor in a 6-week crossover RCT.",
+    "primaryKeyword": "flaxseed central systolic pressure ldl-p",
+    "topicCluster": "functional-food-intervention",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-25T04:00:34.196Z"
+  },
+  {
+    "title": "The Complete Guide to Interpreting Home BP Logs for Adults 58–72 With White-Coat Hypertension and High Work Stress",
+    "description": "Walks through log analysis: identifying stress-triggered surges (10 a.m.–3 p.m.), distinguishing white-coat vs. masked patterns, and using variability metrics (SD, CV) as independent risk markers.",
+    "primaryKeyword": "home bp logs white-coat hypertension stress",
+    "topicCluster": "bp-log-interpretation",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-01-25T04:00:41.299Z"
+  }
+]

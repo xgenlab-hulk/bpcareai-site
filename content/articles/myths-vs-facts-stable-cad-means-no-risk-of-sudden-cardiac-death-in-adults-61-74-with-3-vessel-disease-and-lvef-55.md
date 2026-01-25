@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: 'Stable CAD' Means No Risk of Sudden Cardiac Death in Adults 61–74 With 3-Vessel Disease and LVEF >55%"
-slug: "myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55"
-description: "Debunks the false safety assumption behind 'stable' labeling—highlighting plaque vulnerability markers, arrhythmic substrate from fibrosis, and 5-year SCD risk stratification tools beyond ejection fraction."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["stable cad sudden cardiac death risk", "heart disease", "risk-stratification-myths"]
-primaryKeyword: "stable cad sudden cardiac death risk"
-topicCluster: "risk-stratification-myths"
-image: ""
-relatedSlugs: ["myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo", "warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate"]
+title: >-
+  Myths vs Facts: 'Stable CAD' Means No Risk of Sudden Cardiac Death in Adults
+  61–74 With 3-Vessel Disease and LVEF >55%
+slug: >-
+  myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55
+description: >-
+  Debunks the false safety assumption behind 'stable' labeling—highlighting
+  plaque vulnerability markers, arrhythmic substrate from fibrosis, and 5-year
+  SCD risk stratification tools beyond ejection fraction.
+date: '2026-01-21'
+updated: '2026-01-21'
+tags:
+  - stable cad sudden cardiac death risk
+  - heart disease
+  - risk-stratification-myths
+primaryKeyword: stable cad sudden cardiac death risk
+topicCluster: risk-stratification-myths
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
+  - >-
+    warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate
+  - >-
+    myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
 ---
 
 # “Stable CAD” Doesn’t Mean Zero Risk: Understanding Sudden Cardiac Death in Adults 61–74 With 3-Vessel Disease and Preserved LVEF

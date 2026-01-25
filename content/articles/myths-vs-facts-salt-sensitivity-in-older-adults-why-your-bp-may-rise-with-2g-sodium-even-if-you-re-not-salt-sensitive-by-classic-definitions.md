@@ -24,6 +24,8 @@ relatedSlugs:
     what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
     myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response
+  - >-
+    myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
 ---
 
 # Salt Sensitivity Myth in Older Adults: Why Even “Non-Sensitive” Elders See BP Rise With Just 2g Sodium Daily
