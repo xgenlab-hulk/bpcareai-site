@@ -25,6 +25,8 @@ relatedSlugs:
     myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
   - >-
     what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
+  - >-
+    the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
 ---
 
 # Why Heart Rate Recovery After a 6-Minute Walk Test Is a Stronger Predictor of 5-Year Mortality Than Peak VO₂ in Older Adults With HFpEF

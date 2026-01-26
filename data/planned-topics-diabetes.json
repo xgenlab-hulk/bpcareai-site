@@ -1,21 +1,5 @@
 [
   {
-    "title": "How Chronic Low-Grade Inflammation Drives Beta-Cell Decline in Adults 52–64 With Long-Standing Prediabetes and Elevated hs-CRP",
-    "description": "Explores the mechanistic link between systemic inflammation and progressive insulin deficiency in midlife prediabetes, using longitudinal biomarker data and pancreatic imaging correlates.",
-    "primaryKeyword": "inflammation and beta-cell decline prediabetes",
-    "topicCluster": "pathophysiology-mechanisms",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-01-25T04:02:13.799Z"
-  },
-  {
-    "title": "7 Unexpected Signs of Nocturnal Hypoglycemia in Women 58–73 With Insulin Therapy and Perimenopausal Sleep Fragmentation",
-    "description": "Identifies under-recognized nighttime symptoms—including morning migraines, unexplained nocturia, and REM-sleep behavior changes—linked to undetected overnight glucose dips in perimenopausal women on insulin.",
-    "primaryKeyword": "nocturnal hypoglycemia signs perimenopausal women",
-    "topicCluster": "symptoms-silent-signs",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-01-25T04:02:15.619Z"
-  },
-  {
     "title": "The Truth About 'Low-Sugar' Protein Bars for Adults 65+ With Type 2 Diabetes and Stage 3 CKD: Hidden Phosphorus Load and Metabolic Acidosis Risk",
     "description": "Analyzes commercial 'diabetic-friendly' protein bars for undisclosed phosphorus additives, acid load impact on renal tubular function, and implications for eGFR trajectory in older adults with CKD.",
     "primaryKeyword": "low-sugar protein bars kidney disease diabetes",
@@ -54,13 +38,5 @@
     "topicCluster": "lifestyle-stress-metabolism",
     "coreKeyword": "diabetes",
     "createdAt": "2026-01-25T04:02:36.634Z"
-  },
-  {
-    "title": "The Complete Guide to Managing Diabetes During Heatwaves — For Adults 72+ With Diuretic Use, Orthostatic Hypotension, and Reduced Thirst Sensation",
-    "description": "Covers hydration timing, electrolyte balancing without hyperkalemia risk, medication stability in extreme heat, and CGM sensor adhesion failure mitigation for frail seniors.",
-    "primaryKeyword": "diabetes heatwave management elderly",
-    "topicCluster": "environmental-risk-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-01-25T04:02:38.372Z"
   }
 ]

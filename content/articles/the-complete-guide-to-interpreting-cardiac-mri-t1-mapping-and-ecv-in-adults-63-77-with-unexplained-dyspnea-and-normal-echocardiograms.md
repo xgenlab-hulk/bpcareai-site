@@ -1,14 +1,31 @@
 ---
-title: "The Complete Guide to Interpreting Cardiac MRI T1 Mapping and ECV in Adults 63–77 With Unexplained Dyspnea and Normal Echocardiograms"
-slug: "the-complete-guide-to-interpreting-cardiac-mri-t1-mapping-and-ecv-in-adults-63-77-with-unexplained-dyspnea-and-normal-echocardiograms"
-description: "Demystifies native T1, post-contrast T1, and extracellular volume mapping for non-radiologists—focusing on detection thresholds for diffuse fibrosis, amyloid infiltration, and iron overload in real-world clinical ambiguity."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["cardiac mri t1 mapping interpretation", "heart disease", "advanced-imaging-literacy"]
-primaryKeyword: "cardiac mri t1 mapping interpretation"
-topicCluster: "advanced-imaging-literacy"
-image: ""
-relatedSlugs: ["the-complete-guide-to-interpreting-your-cardiac-mri-stress-perfusion-scan-especially-if-you-have-microvascular-angina-and-normal-coronary-angiogram", "warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd", "red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue"]
+title: >-
+  The Complete Guide to Interpreting Cardiac MRI T1 Mapping and ECV in Adults
+  63–77 With Unexplained Dyspnea and Normal Echocardiograms
+slug: >-
+  the-complete-guide-to-interpreting-cardiac-mri-t1-mapping-and-ecv-in-adults-63-77-with-unexplained-dyspnea-and-normal-echocardiograms
+description: >-
+  Demystifies native T1, post-contrast T1, and extracellular volume mapping for
+  non-radiologists—focusing on detection thresholds for diffuse fibrosis,
+  amyloid infiltration, and iron overload in real-world clinical ambiguity.
+date: '2026-01-21'
+updated: '2026-01-21'
+tags:
+  - cardiac mri t1 mapping interpretation
+  - heart disease
+  - advanced-imaging-literacy
+primaryKeyword: cardiac mri t1 mapping interpretation
+topicCluster: advanced-imaging-literacy
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-interpreting-your-cardiac-mri-stress-perfusion-scan-especially-if-you-have-microvascular-angina-and-normal-coronary-angiogram
+  - >-
+    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    myths-vs-facts-my-heart-is-fine-because-my-ekg-is-normal-what-cardiac-mri-strain-mapping-reveals-in-adults-56-68-with-recurrent-palpitations-and-no-structural-disease
 ---
 
 # Understanding Cardiac MRI T1 Mapping Interpretation: A Clear Guide for Adults 63–77 With Unexplained Shortness of Breath

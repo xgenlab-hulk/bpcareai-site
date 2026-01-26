@@ -1,14 +1,31 @@
 ---
-title: "Warning Signs of Secondary Hypertension You Might Miss If You're 57–69 and Taking Proton Pump Inhibitors Long-Term"
-slug: "warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term"
-description: "Links PPI-induced hypomagnesemia, aldosterone dysregulation, and renal microvascular remodeling — with screening red flags and magnesium repletion protocols."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["secondary hypertension ppi warning signs", "blood pressure", "secondary-hypertension-clues"]
-primaryKeyword: "secondary hypertension ppi warning signs"
-topicCluster: "secondary-hypertension-clues"
-image: ""
-relatedSlugs: ["does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd", "when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use", "how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy"]
+title: >-
+  Warning Signs of Secondary Hypertension You Might Miss If You're 57–69 and
+  Taking Proton Pump Inhibitors Long-Term
+slug: >-
+  warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
+description: >-
+  Links PPI-induced hypomagnesemia, aldosterone dysregulation, and renal
+  microvascular remodeling — with screening red flags and magnesium repletion
+  protocols.
+date: '2026-01-18'
+updated: '2026-01-18'
+tags:
+  - secondary hypertension ppi warning signs
+  - blood pressure
+  - secondary-hypertension-clues
+primaryKeyword: secondary hypertension ppi warning signs
+topicCluster: secondary-hypertension-clues
+image: ''
+relatedSlugs:
+  - >-
+    does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
+  - >-
+    when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
+  - >-
+    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
+  - >-
+    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
 ---
 
 # Secondary Hypertension PPI Warning Signs: What Adults 57–69 Should Know

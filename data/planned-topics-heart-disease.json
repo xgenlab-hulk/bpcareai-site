@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "title": "How Long-Term Exposure to Indoor Air Pollution (e.g., Cooking Fumes, Candle Smoke) Elevates Coronary Artery Calcification in Adults 62+ With No Known CVD",
+    "description": "Examines emerging evidence linking everyday household air toxins to subclinical atherosclerosis progression — with actionable mitigation steps for older adults living in urban apartments or homes with poor ventilation.",
+    "primaryKeyword": "indoor air pollution coronary artery calcification",
+    "topicCluster": "environmental-risks",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:04.930Z"
+  },
+  {
+    "title": "What Are the Earliest ECG Clues of Microvascular Angina in Women 58–71 With Normal Coronary Angiograms and Recurrent Chest Tightness?",
+    "description": "Details subtle but reproducible ECG patterns — including transient T-wave inversions during mental stress and abnormal QT hysteresis — that suggest ischemic microvascular dysfunction despite 'clean' cath labs.",
+    "primaryKeyword": "microvascular angina ekg signs women",
+    "topicCluster": "diagnostic-clues-women",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:06.565Z"
+  },
+  {
+    "title": "When to Suspect Cardiac Amyloidosis in Men 73+ With Unexplained Left Ventricular Hypertrophy, Bilateral Carpal Tunnel Syndrome, and Orthostatic Dizziness",
+    "description": "Highlights this underdiagnosed infiltrative cardiomyopathy by connecting systemic ‘red-flag’ triads — especially in aging males with preserved EF but progressive diastolic failure and autonomic symptoms.",
+    "primaryKeyword": "cardiac amyloidosis diagnosis men 73+",
+    "topicCluster": "rare-cardiomyopathy-diagnosis",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:08.196Z"
+  },
+  {
+    "title": "A vs B: Morning Walking (Pre-Coffee, Fasted, 15 Min) vs. Evening Resistance Band Routine (Post-Dinner, 12 Min) — Impact on 24-Hour Ambulatory BP Variability in Adults 66–79 With Nocturnal Hypertension",
+    "description": "Compares time-of-day–specific non-aerobic movement protocols on circadian BP regulation, using real-world ABPM data from a 12-week crossover trial in older adults with non-dipping patterns.",
+    "primaryKeyword": "morning vs evening exercise nocturnal hypertension",
+    "topicCluster": "exercise-timing-bp",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:11.475Z"
+  },
+  {
+    "title": "Quick Ways to Improve Endothelial-Dependent Vasodilation Within 90 Minutes — For Adults 57–74 With Obesity, Elevated ADMA, and Impaired Flow-Mediated Dilation",
+    "description": "Details rapid-acting, non-pharmacologic interventions — including specific nitrate-rich food combinations, thermal contrast, and guided slow-breathing biofeedback — validated by post-intervention FMD measurements.",
+    "primaryKeyword": "improve endothelial function quickly",
+    "topicCluster": "vascular-function-boost",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:15.093Z"
+  },
+  {
+    "title": "Why Heart Failure With Preserved Ejection Fraction (HFpEF) Often Masquerades as 'Just Aging' in Women 70+ — And How a 3-Minute Sitting-to-Standing Test Can Reveal It",
+    "description": "Uncovers the diagnostic blind spot: how HFpEF mimics frailty, and how simple orthostatic tolerance metrics (HR recovery, O2 desaturation, symptom lag) outperform echo in early detection.",
+    "primaryKeyword": "hfpref misdiagnosed as aging women",
+    "topicCluster": "hfpef-detection-women",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:16.760Z"
+  },
+  {
+    "title": "Natural Ways to Support Mitochondrial Biogenesis in Cardiomyocytes Without Supplements — For Adults 63–80 With Long-Standing Hypertension and Low VO₂ Peak",
+    "description": "Focuses on non-supplement strategies — like cold-water facial immersion timing, post-exercise protein pulsing, and blue-light–timed meal spacing — shown to activate PGC-1α and improve cardiac energetics.",
+    "primaryKeyword": "mitochondrial biogenesis heart natural",
+    "topicCluster": "cardiac-metabolism",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:18.415Z"
+  },
+  {
+    "title": "How Gut Microbial Metabolites (e.g., TMAO, Indole-3-Propionic Acid) Predict Subclinical Myocardial Fibrosis in Adults 59–75 With Metabolic Syndrome",
+    "description": "Breaks down the gut-heart axis by linking specific fecal metabolite profiles to cardiac MRI–confirmed interstitial fibrosis — and how dietary shifts alter metabolite production within 10 days.",
+    "primaryKeyword": "gut metabolites myocardial fibrosis",
+    "topicCluster": "gut-heart-axis",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:21.673Z"
+  },
+  {
+    "title": "12 Science-Backed Ways to Reduce Left Atrial Stiffness Within 6 Weeks — For Adults 61–76 With Paroxysmal AFib and Elevated LA Strain Index",
+    "description": "Presents interventions with direct LA mechanical impact: targeted potassium-magnesium repletion, time-restricted eating windows, low-intensity zone-2 cycling, and vagal tone amplification techniques.",
+    "primaryKeyword": "reduce left atrial stiffness 6 weeks",
+    "topicCluster": "atrial-remodeling",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:23.274Z"
+  },
+  {
+    "title": "What Causes Sudden Morning Hypotension in Adults 77+ With Parkinson’s Disease, Early Orthostatic Hypotension, and Nocturnal Polyuria?",
+    "description": "Investigates the circadian interplay between supine sodium retention, dopaminergic fluctuations, and nocturnal renal sodium handling — plus practical dawn-phase BP stabilization tactics.",
+    "primaryKeyword": "morning hypotension parkinsons elderly",
+    "topicCluster": "circadian-bp-parkinsons",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:26.470Z"
+  },
+  {
+    "title": "How Social Isolation Accelerates Vascular Aging in Adults 70+ Living Alone — And Why a 15-Minute Daily Voice Call Lowers Pulse Wave Velocity Within 3 Weeks",
+    "description": "Links loneliness to endothelial inflammation and arterial stiffening, with RCT data showing even audio-only social connection improves arterial elasticity — independent of physical activity or diet.",
+    "primaryKeyword": "social isolation vascular aging",
+    "topicCluster": "psychosocial-vascular-health",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:31.297Z"
+  },
+  {
+    "title": "10 Foods That Lower Post-Exercise Heart Rate Recovery Time — For Adults 59–73 With Hypertension and Sluggish HRV",
+    "description": "Highlights foods with rapid vagotonic and nitric oxide–modulating effects — including fermented kimchi (pre-dosed), roasted beetroot powder timing, and roasted walnuts with dark chocolate — validated by HRV recovery metrics.",
+    "primaryKeyword": "foods lower heart rate recovery",
+    "topicCluster": "recovery-nutrition",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:32.909Z"
+  },
+  {
+    "title": "The Complete Guide to Interpreting Your Cardiac CT Calcium Score If You’re 60+ and Have No Symptoms — But a Family History of Early Heart Attacks",
+    "description": "Walks through nuanced calcium scoring interpretation: density thresholds, lesion distribution, age-adjusted percentiles, and when 'zero' truly means low risk — especially with genetic risk scores.",
+    "primaryKeyword": "cardiac ct calcium score guide",
+    "topicCluster": "calcium-score-interpretation",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-26T04:05:34.530Z"
+  }
+]
