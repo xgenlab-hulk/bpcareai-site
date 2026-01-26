@@ -1,14 +1,33 @@
 ---
-title: "Easy Ways to Modify Holiday Pie Crust for Adults 64–77 With Celiac Disease and Refractory Dermatitis Herpetiformis"
-slug: "easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis"
-description: "Provides gluten-free flour blend ratios proven to prevent cross-reactivity, safe thickener swaps (tapioca vs xanthan), and oven-temp adjustments to avoid blistering and ensure gut-safe texture."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["gluten free pie crust celiac seniors", "healthy holiday eating for seniors", "easy-diet-modifications-autoimmune"]
-primaryKeyword: "gluten free pie crust celiac seniors"
-topicCluster: "easy-diet-modifications-autoimmune"
-image: ""
-relatedSlugs: ["the-truth-about-gluten-free-holiday-cookies-why-many-still-sabotage-blood-pressure-in-seniors-with-hypertension", "can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide"]
+title: >-
+  Easy Ways to Modify Holiday Pie Crust for Adults 64–77 With Celiac Disease and
+  Refractory Dermatitis Herpetiformis
+slug: >-
+  easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis
+description: >-
+  Provides gluten-free flour blend ratios proven to prevent cross-reactivity,
+  safe thickener swaps (tapioca vs xanthan), and oven-temp adjustments to avoid
+  blistering and ensure gut-safe texture.
+date: '2026-01-21'
+updated: '2026-01-21'
+tags:
+  - gluten free pie crust celiac seniors
+  - healthy holiday eating for seniors
+  - easy-diet-modifications-autoimmune
+primaryKeyword: gluten free pie crust celiac seniors
+topicCluster: easy-diet-modifications-autoimmune
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-gluten-free-holiday-cookies-why-many-still-sabotage-blood-pressure-in-seniors-with-hypertension
+  - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
+  - >-
+    the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
+  - >-
+    12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
+  - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
 ---
 
 # Gluten-Free Pie Crust for Celiac Seniors: Safe, Simple Holiday Baking After Age 64

@@ -1,14 +1,33 @@
 ---
-title: "5 Things Every Caregiver Should Know Before Administering Nitroglycerin to Someone 78+ With Known CAD and Mild Cognitive Impairment"
-slug: "5-things-every-caregiver-should-know-before-administering-nitroglycerin-to-someone-78-with-known-cad-and-mild-cognitive-impairment"
-description: "Covers timing errors, sublingual absorption pitfalls in xerostomia, contraindications with PDE5 inhibitors used off-label for urinary symptoms, and how to distinguish angina mimicry from dementia-related distress."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["nitroglycerin administration elderly dementia", "heart disease", "caregiver-safety"]
-primaryKeyword: "nitroglycerin administration elderly dementia"
-topicCluster: "caregiver-safety"
-image: ""
-relatedSlugs: []
+title: >-
+  5 Things Every Caregiver Should Know Before Administering Nitroglycerin to
+  Someone 78+ With Known CAD and Mild Cognitive Impairment
+slug: >-
+  5-things-every-caregiver-should-know-before-administering-nitroglycerin-to-someone-78-with-known-cad-and-mild-cognitive-impairment
+description: >-
+  Covers timing errors, sublingual absorption pitfalls in xerostomia,
+  contraindications with PDE5 inhibitors used off-label for urinary symptoms,
+  and how to distinguish angina mimicry from dementia-related distress.
+date: '2026-01-22'
+updated: '2026-01-22'
+tags:
+  - nitroglycerin administration elderly dementia
+  - heart disease
+  - caregiver-safety
+primaryKeyword: nitroglycerin administration elderly dementia
+topicCluster: caregiver-safety
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
+  - >-
+    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
+  - >-
+    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
+  - >-
+    7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
+  - >-
+    when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia
 ---
 
 # What Caregivers Need to Know About Nitroglycerin Administration Elderly Dementia in Older Adults With Heart Disease

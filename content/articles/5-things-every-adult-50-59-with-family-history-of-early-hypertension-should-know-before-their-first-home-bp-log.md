@@ -1,14 +1,32 @@
 ---
-title: "5 Things Every Adult 50–59 With Family History of Early Hypertension Should Know Before Their First Home BP Log"
-slug: "5-things-every-adult-50-59-with-family-history-of-early-hypertension-should-know-before-their-first-home-bp-log"
-description: "Targets prehypertensive individuals with genetic risk — covering optimal measurement timing, white-coat effect mitigation, environmental confounders, and when to consult a hypertension specialist."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["early hypertension family history prevention", "blood pressure", "genetic-risk-prevention"]
-primaryKeyword: "early hypertension family history prevention"
-topicCluster: "genetic-risk-prevention"
-image: ""
-relatedSlugs: []
+title: >-
+  5 Things Every Adult 50–59 With Family History of Early Hypertension Should
+  Know Before Their First Home BP Log
+slug: >-
+  5-things-every-adult-50-59-with-family-history-of-early-hypertension-should-know-before-their-first-home-bp-log
+description: >-
+  Targets prehypertensive individuals with genetic risk — covering optimal
+  measurement timing, white-coat effect mitigation, environmental confounders,
+  and when to consult a hypertension specialist.
+date: '2026-01-20'
+updated: '2026-01-20'
+tags:
+  - early hypertension family history prevention
+  - blood pressure
+  - genetic-risk-prevention
+primaryKeyword: early hypertension family history prevention
+topicCluster: genetic-risk-prevention
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-adult-55-63-with-newly-diagnosed-hypertension-should-know-before-hosting-their-first-holiday-dinner
+  - >-
+    the-complete-guide-to-interpreting-your-home-bp-log-for-patterns-especially-if-you-re-60-and-tracking-after-antihypertensive-dose-changes
+  - >-
+    5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
+  - how-does-family-history-influence-your-risk-of-heart-disease-after-60
+  - >-
+    5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
 ---
 
 # What Adults 50–59 with a Family History of Early Hypertension Need to Know Before Logging Their First Home Blood Pressure Reading

@@ -1,14 +1,33 @@
 ---
-title: "When to Suspect Latent Autoimmune Diabetes in Adults (LADA) in Patients 49–63 Presenting With 'Atypical' Type 2 Diabetes and Rapid Insulin Requirement"
-slug: "when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement"
-description: "Guides clinicians and patients on red-flag clinical features (e.g., lean BMI, rapid sulfonylurea failure, GAD65+ family history) and optimal timing for autoantibody testing."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["LADA diagnosis atypical type 2 diabetes", "diabetes", "diagnosis-differential"]
-primaryKeyword: "LADA diagnosis atypical type 2 diabetes"
-topicCluster: "diagnosis-differential"
-image: ""
-relatedSlugs: ["when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s", "when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving"]
+title: >-
+  When to Suspect Latent Autoimmune Diabetes in Adults (LADA) in Patients 49–63
+  Presenting With 'Atypical' Type 2 Diabetes and Rapid Insulin Requirement
+slug: >-
+  when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement
+description: >-
+  Guides clinicians and patients on red-flag clinical features (e.g., lean BMI,
+  rapid sulfonylurea failure, GAD65+ family history) and optimal timing for
+  autoantibody testing.
+date: '2026-01-25'
+updated: '2026-01-25'
+tags:
+  - LADA diagnosis atypical type 2 diabetes
+  - diabetes
+  - diagnosis-differential
+primaryKeyword: LADA diagnosis atypical type 2 diabetes
+topicCluster: diagnosis-differential
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
+  - >-
+    when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving
+  - >-
+    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
+  - >-
+    the-complete-guide-to-managing-brittle-glucose-patterns-in-adults-55-69-with-type-1-diabetes-autonomic-neuropathy-and-frequent-unexplained-hypoglycemia
+  - >-
+    how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
 ---
 
 # Recognizing LADA in Adults 49–63: When “Atypical” Type 2 Diabetes Signals Autoimmune Onset  
