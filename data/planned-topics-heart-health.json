@@ -1,43 +1,11 @@
 [
   {
-    "title": "How Cold Weather Triggers Morning Hypertensive Crises in Adults 72+ With White-Coat Hypertension and Peripheral Artery Disease",
-    "description": "Explores the physiological cascade—vasoconstriction, sympathetic surge, and delayed BP dipping—that makes winter mornings uniquely dangerous for older adults with borderline office readings and PAD, backed by 2023 ambulatory BP registry data.",
-    "primaryKeyword": "cold weather morning hypertension elderly",
-    "topicCluster": "environmental-triggers-seasonal-cardiovascular-risk",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-01-26T04:06:27.487Z"
-  },
-  {
-    "title": "When to Suspect Cardiac Amyloidosis in Women 75+ With Unexplained Fatigue, Bilateral Carpal Tunnel Surgery History, and Preserved EF on Echo",
-    "description": "Highlights this underdiagnosed infiltrative cardiomyopathy in older women—emphasizing gender-specific red flags, diagnostic pitfalls in standard imaging, and why TTR gene testing should be considered earlier than current guidelines suggest.",
-    "primaryKeyword": "cardiac amyloidosis women carpal tunnel fatigue",
-    "topicCluster": "gender-specific-infiltrative-cardiomyopathy",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-01-26T04:06:33.583Z"
-  },
-  {
     "title": "A vs B: Evening Walk After Dinner vs. 15-Minute Seated Breathing (4-7-8 Method) — Impact on Nocturnal Systolic BP Dip in Adults 68+ With Non-Dipping Pattern",
     "description": "Compares two accessible, non-pharmacologic evening interventions head-to-head for restoring circadian BP rhythm—using 24-hour ABPM outcomes from a 2024 pragmatic trial.",
     "primaryKeyword": "evening walk vs breathing nocturnal bp dip",
     "topicCluster": "circadian-intervention-comparison",
     "coreKeyword": "heart health",
     "createdAt": "2026-01-26T04:06:35.146Z"
-  },
-  {
-    "title": "5 Things Every Woman Over 65 With Early-Stage Breast Cancer Should Know Before Starting Aromatase Inhibitor Therapy — Especially If She Has Pre-Existing Microvascular Coronary Dysfunction",
-    "description": "Details how AI-induced estrogen depletion accelerates endothelial inflammation and coronary microvascular resistance—and why stress echocardiography or coronary flow reserve testing may be warranted pre-treatment.",
-    "primaryKeyword": "aromatase inhibitors heart microvascular dysfunction",
-    "topicCluster": "oncology-cardiology-interaction",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-01-26T04:06:36.763Z"
-  },
-  {
-    "title": "How Long-Term Proton Pump Inhibitor Use Elevates Risk of Subclinical Atherosclerosis in Adults 59–71 With GERD and Low HDL-C — Independent of Magnesium Levels",
-    "description": "Examines PPI-associated gut microbiome shifts and TMAO elevation as novel atherogenic pathways—separate from known electrolyte effects—using carotid intima-media thickness and coronary calcium scoring data.",
-    "primaryKeyword": "pom inhibitors atherosclerosis gut microbiome",
-    "topicCluster": "pharmacotherapy-gut-heart-axis",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-01-26T04:06:38.365Z"
   },
   {
     "title": "Natural Ways to Support Endothelial Nitric Oxide Synthase Recoupling Within 72 Hours — For Adults 64–77 With Hypertension, High ADMA, and Frequent NSAID Use",

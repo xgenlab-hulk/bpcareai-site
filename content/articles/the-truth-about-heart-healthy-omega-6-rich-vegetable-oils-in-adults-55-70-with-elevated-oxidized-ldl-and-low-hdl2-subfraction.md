@@ -26,6 +26,8 @@ relatedSlugs:
     the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60
   - >-
     a-vs-b-cold-pressed-flaxseed-oil-refrigerated-30-days-old-vs-ground-flaxseed-pre-soaked-12-hours-impact-on-postprandial-triglyceride-spikes-in-adults-62-78-with-diabetic-dyslipidemia
+  - >-
+    does-adding-1-gram-of-ground-flaxseed-to-breakfast-lower-central-systolic-pressure-in-adults-56-69-with-hypertension-and-elevated-ldl-p
 ---
 
 # What You Need to Know About Omega-6 Vegetable Oils, Oxidized LDL, and Heart Health in Adults 55–70

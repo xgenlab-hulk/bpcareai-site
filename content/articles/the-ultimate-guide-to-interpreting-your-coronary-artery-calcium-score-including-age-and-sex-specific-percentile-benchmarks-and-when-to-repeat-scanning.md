@@ -25,6 +25,8 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
   - >-
     how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
+  - >-
+    the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
 ---
 
 # A Practical Coronary Calcium Score Interpretation Guide for Adults 50 and Older

@@ -24,6 +24,8 @@ relatedSlugs:
     12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
   - >-
     quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
+  - >-
+    how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs
 ---
 
 # 10 Foods and Habits That Can Disrupt Gut Microbiota and Worsen Insulin Resistance in Adults With Type 2 Diabetes and Constipation
