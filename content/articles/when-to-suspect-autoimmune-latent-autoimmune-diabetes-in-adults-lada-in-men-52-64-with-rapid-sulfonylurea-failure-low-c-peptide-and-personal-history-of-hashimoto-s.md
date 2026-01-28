@@ -27,6 +27,8 @@ relatedSlugs:
     how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
   - >-
     when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement
+  - >-
+    when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss
 ---
 
 # Recognizing LADA in Middle-Aged Men: A Gentle Guide to Early Autoimmune Diabetes Identification
