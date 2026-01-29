@@ -1,14 +1,31 @@
 ---
-title: "5 Things Every Man Over 68 With Low Testosterone and Type 2 Diabetes Should Know About Muscle Protein Synthesis and Glucose Uptake"
-slug: "5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake"
-description: "Connects testosterone’s role in GLUT4 translocation, myofibrillar protein synthesis, and resistance training responsiveness — with practical resistance protocols and leucine timing tips."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["testosterone muscle glucose uptake older men", "diabetes", "androgen-metabolic-synergy"]
-primaryKeyword: "testosterone muscle glucose uptake older men"
-topicCluster: "androgen-metabolic-synergy"
-image: ""
-relatedSlugs: ["does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss", "natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak"]
+title: >-
+  5 Things Every Man Over 68 With Low Testosterone and Type 2 Diabetes Should
+  Know About Muscle Protein Synthesis and Glucose Uptake
+slug: >-
+  5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake
+description: >-
+  Connects testosterone’s role in GLUT4 translocation, myofibrillar protein
+  synthesis, and resistance training responsiveness — with practical resistance
+  protocols and leucine timing tips.
+date: '2026-01-20'
+updated: '2026-01-20'
+tags:
+  - testosterone muscle glucose uptake older men
+  - diabetes
+  - androgen-metabolic-synergy
+primaryKeyword: testosterone muscle glucose uptake older men
+topicCluster: androgen-metabolic-synergy
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
+  - >-
+    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
+  - >-
+    does-daily-10-minute-resistance-band-training-lower-fasting-glucose-and-increase-skeletal-muscle-glut4-translocation-in-adults-67-79-with-sarcopenic-obesity
 ---
 
 # What Every Man Over 68 with Low Testosterone and Type 2 Diabetes Needs to Know About Testosterone, Muscle, and Glucose Uptake

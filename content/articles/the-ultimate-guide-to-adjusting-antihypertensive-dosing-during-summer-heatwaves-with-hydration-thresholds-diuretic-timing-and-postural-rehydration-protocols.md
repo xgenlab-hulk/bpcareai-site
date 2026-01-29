@@ -1,14 +1,31 @@
 ---
-title: "The Ultimate Guide to Adjusting Antihypertensive Dosing During Summer Heatwaves—With Hydration Thresholds, Diuretic Timing, and Postural Rehydration Protocols"
-slug: "the-ultimate-guide-to-adjusting-antihypertensive-dosing-during-summer-heatwaves-with-hydration-thresholds-diuretic-timing-and-postural-rehydration-protocols"
-description: "Provides evidence-based algorithms for modifying thiazide, CCB, and alpha-2 agonist regimens during sustained high-heat exposure in adults over 60."
-date: "2026-01-03"
-updated: "2026-01-03"
-tags: ["antihypertensive dosing summer heatwaves", "blood pressure", "seasonal-htn-management"]
-primaryKeyword: "antihypertensive dosing summer heatwaves"
-topicCluster: "seasonal-htn-management"
-image: ""
-relatedSlugs: ["why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely", "best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air", "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications"]
+title: >-
+  The Ultimate Guide to Adjusting Antihypertensive Dosing During Summer
+  Heatwaves—With Hydration Thresholds, Diuretic Timing, and Postural Rehydration
+  Protocols
+slug: >-
+  the-ultimate-guide-to-adjusting-antihypertensive-dosing-during-summer-heatwaves-with-hydration-thresholds-diuretic-timing-and-postural-rehydration-protocols
+description: >-
+  Provides evidence-based algorithms for modifying thiazide, CCB, and alpha-2
+  agonist regimens during sustained high-heat exposure in adults over 60.
+date: '2026-01-03'
+updated: '2026-01-03'
+tags:
+  - antihypertensive dosing summer heatwaves
+  - blood pressure
+  - seasonal-htn-management
+primaryKeyword: antihypertensive dosing summer heatwaves
+topicCluster: seasonal-htn-management
+image: ''
+relatedSlugs:
+  - >-
+    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
+  - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
+  - >-
+    what-causes-sudden-diastolic-dips-during-hot-yoga-in-adults-52-66-with-prehypertension-and-low-aldosterone
 ---
 
 # Smart Antihypertensive Dosing During Summer Heatwaves: A Practical Guide for Adults Over 60
