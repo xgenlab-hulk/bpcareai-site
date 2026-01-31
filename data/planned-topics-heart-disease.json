@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "title": "Why Heart Disease Risk Skyrockets in Women 58–67 Within 3 Years After Menopause — Even With Normal Cholesterol",
+    "description": "Explores the hormonal, vascular, and metabolic shifts post-menopause that accelerate atherosclerosis independent of traditional lipid markers, with data from the SWAN and GENOA studies.",
+    "primaryKeyword": "heart disease after menopause women 58-67",
+    "topicCluster": "gender-hormonal-transitions",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:12:58.486Z"
+  },
+  {
+    "title": "7 Silent Signs of Left Ventricular Hypertrophy in Adults 65+ With Well-Controlled Hypertension — Missed on Routine EKG",
+    "description": "Highlights subtle clinical, auscultatory, and symptom-based red flags (e.g., delayed S2 splitting, nocturnal dyspnea with preserved SpO2) indicating structural remodeling despite 'normal' BP readings.",
+    "primaryKeyword": "left ventricular hypertrophy silent signs adults 65+",
+    "topicCluster": "structural-cardiac-changes",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:00.283Z"
+  },
+  {
+    "title": "How Chronic Nighttime Cough From Untreated GERD Triggers Nocturnal Atrial Fibrillation in Men 70+ With Mild COPD",
+    "description": "Details the vagally mediated esophago-atrial reflex, autonomic dysregulation, and intrathoracic pressure swings linking reflux to arrhythmia — with practical airway positioning and pH-monitoring guidance.",
+    "primaryKeyword": "gerd-induced afib men 70+ copd",
+    "topicCluster": "gastro-cardiac-interactions",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:02.165Z"
+  },
+  {
+    "title": "The Truth About ‘Heart-Healthy’ Olive Oil Labels — Why Extra Virgin Isn’t Enough for Adults 72+ With Advanced Carotid Plaque",
+    "description": "Breaks down polyphenol content thresholds (e.g., oleocanthal >500 ppm), oxidation markers (peroxide value <12), and storage-driven degradation — plus how to test freshness at home.",
+    "primaryKeyword": "olive oil heart health carotid plaque seniors",
+    "topicCluster": "nutritional-quality-assessment",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:03.960Z"
+  },
+  {
+    "title": "A vs B: 4-Minute Daily Isometric Handgrip vs. 12-Minute Weekly HIIT — Impact on Central Aortic Pressure in Adults 69+ With White-Coat Hypertension",
+    "description": "Compares real-world feasibility, adherence rates, and tonometry-confirmed central pressure reduction between two evidence-backed non-pharmacologic interventions for borderline hypertension.",
+    "primaryKeyword": "isometric handgrip vs hiit central pressure seniors",
+    "topicCluster": "non-pharmacologic-interventions",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:05.725Z"
+  },
+  {
+    "title": "12 Science-Backed Ways to Reduce Coronary Artery Calcium (CAC) Progression — Without Statins — in Adults 55–64 With CAC Score 100–300",
+    "description": "Covers targeted lifestyle levers (e.g., vitamin K2-MK7 dosing, arterial pulse wave velocity biofeedback, magnesium threonate timing) validated in MESA, EPIC-Norfolk, and the K2-CAC trial.",
+    "primaryKeyword": "reduce coronary calcium without statins adults 55-64",
+    "topicCluster": "calcium-score-modification",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:07.539Z"
+  },
+  {
+    "title": "When to Suspect Cardiac Amyloidosis in Adults 76+ With Unexplained Orthostatic Hypotension and Bilateral Carpal Tunnel — Even With Normal Echocardiogram",
+    "description": "Guides recognition of this underdiagnosed infiltrative cardiomyopathy through red-flag symptom clusters, tissue-agnostic biomarkers (serum free light chains), and the role of bone-avid radiotracers.",
+    "primaryKeyword": "cardiac amyloidosis orthostatic hypotension seniors",
+    "topicCluster": "infiltrative-cardiomyopathy",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:09.374Z"
+  },
+  {
+    "title": "Natural Ways to Improve Endothelial Nitric Oxide Synthase (eNOS) Activity at Night — For Women 63+ With Non-Dipping BP and Shift Work History",
+    "description": "Focuses on timed L-citrulline, beetroot powder, and circadian-aligned magnesium glycinate to boost nocturnal NO bioavailability — with rationale tied to eNOS uncoupling mechanisms.",
+    "primaryKeyword": "boost nocturnal nitric oxide women 63+ non-dipping",
+    "topicCluster": "endothelial-function-optimization",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:11.162Z"
+  },
+  {
+    "title": "5 Things You Should Know Before Starting a 'Heart-Smart' Walking Group — Especially If You’re 78+ With Spinal Stenosis and Mild Aortic Stenosis",
+    "description": "Addresses gait variability thresholds, safe incline limits, pacing strategies to avoid subaortic pressure overload, and how to spot subtle exertional presyncope masked by group energy.",
+    "primaryKeyword": "walking group safety aortic stenosis seniors 78+",
+    "topicCluster": "exercise-safety-comorbidities",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:12.954Z"
+  },
+  {
+    "title": "How Long-Term PPI Use Alters Gut Microbiome-Derived TMAO Production — And Its Link to Plaque Instability in Adults 67+ With Stable CAD",
+    "description": "Explains the Clostridium-associated choline→TMA→TMAO pathway disruption, clinical TMAO cutoffs (>6.5 µmol/L), and evidence-backed probiotic strains to mitigate risk.",
+    "primaryKeyword": "pills and tmao heart disease seniors 67+",
+    "topicCluster": "microbiome-metabolite-pathways",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:14.749Z"
+  },
+  {
+    "title": "The Complete Guide to Interpreting Home Pulse Oximetry Trends — Not Just SpO2 — For Adults 64+ With Heart Failure and Anemia",
+    "description": "Teaches how to read perfusion index (PI), pleth variability index (PVI), and waveform morphology to detect early decompensation — with visual reference charts and alarm thresholds.",
+    "primaryKeyword": "home pulse oximetry heart failure anemia seniors",
+    "topicCluster": "remote-monitoring-interpretation",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:18.365Z"
+  },
+  {
+    "title": "What Causes Sudden Onset of Palpitations After Starting a New Antidepressant in Adults 66+ With Long-Standing Hypothyroidism?",
+    "description": "Analyzes serotonin transporter inhibition, thyroid hormone conversion interference, and QT prolongation synergy — plus safer pharmacologic alternatives with cardiac safety data.",
+    "primaryKeyword": "antidepressant palpitations hypothyroidism seniors 66+",
+    "topicCluster": "polypharmacy-cardiac-risks",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:20.178Z"
+  },
+  {
+    "title": "Warning Signs of Right-Sided Heart Strain in Adults 75+ With Untreated Sleep Apnea and Pulmonary Hypertension — Before Edema Appears",
+    "description": "Identifies pre-venous congestion markers: jugular venous waveform abnormalities, isolated tricuspid regurgitation velocity ≥2.8 m/s, and progressive fatigue with supine positioning.",
+    "primaryKeyword": "right heart strain sleep apnea seniors 75+",
+    "topicCluster": "right-heart-hemodynamics",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:21.932Z"
+  },
+  {
+    "title": "Does Daily 2000 IU Vitamin D3 Actually Reduce Myocardial Fibrosis in Adults 59–73 With Type 2 Diabetes and Elevated Galectin-3?",
+    "description": "Reviews VITAL-DKD, D-Health, and fibrosis imaging trials to clarify dose-response relationships, optimal serum 25(OH)D targets (>40 ng/mL), and synergistic nutrients (vitamin K2, magnesium).",
+    "primaryKeyword": "vitamin d3 myocardial fibrosis type 2 diabetes",
+    "topicCluster": "nutrient-fibrosis-modulation",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:23.759Z"
+  },
+  {
+    "title": "Best Low-Impact Resistance Exercises for Adults 82+ With Severe Osteoporosis and Atrial Fibrillation on Apixaban",
+    "description": "Prioritizes axial-loading safety, anti-arrhythmic breathing integration, and bleeding-risk-aware progression — with modifications for kyphosis, fall history, and anticoagulation protocols.",
+    "primaryKeyword": "low-impact resistance osteoporosis afib seniors 82+",
+    "topicCluster": "frailty-exercise-safety",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:25.570Z"
+  },
+  {
+    "title": "How Winter Indoor Air Pollution (PM2.5 from Heaters & Candles) Elevates Endothelial Microparticle Counts in Adults 68+ With Stable Angina",
+    "description": "Links seasonal particulate exposure to acute endothelial injury biomarkers, offers real-time air quality threshold alerts (AQI >35), and evidence-based filtration strategies for older homes.",
+    "primaryKeyword": "indoor air pollution angina seniors 68+ winter",
+    "topicCluster": "environmental-cardiac-stressors",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:27.344Z"
+  },
+  {
+    "title": "10 Foods That Improve Coronary Flow Reserve Within 45 Minutes — Based on PET-CT Data in Adults 57–69 With Microvascular Angina",
+    "description": "Features acute vasodilatory foods (e.g., dark cacao 85%, pomegranate arils, fermented garlic) with quantified CFR % increases and ideal dosing windows pre-stress testing.",
+    "primaryKeyword": "foods improve coronary flow reserve microvascular angina",
+    "topicCluster": "microvascular-vasodilation",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:29.116Z"
+  },
+  {
+    "title": "Myths vs Facts: 'I’m Too Old for Cardiac Rehab' — What the Latest RCTs Say for Adults 79+ With Recent MI or Revascularization",
+    "description": "Debunks ageist assumptions using data from the EXCITE and RENEW trials — covering mortality reduction (22% at 2 years), functional gains, and telehealth-enabled protocols.",
+    "primaryKeyword": "cardiac rehab myths seniors 79+ recent mi",
+    "topicCluster": "rehab-accessibility-barriers",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:30.901Z"
+  },
+  {
+    "title": "Simple Steps to Lower Lipoprotein(a) Naturally — For Adults 56–70 With Familial Hypercholesterolemia and CAC Score >400",
+    "description": "Focuses on clinically validated levers: niacin dosing windows, LDL apheresis eligibility, PCSK9-inhibitor alternatives, and novel nutraceuticals (berberine + red yeast rice combos).",
+    "primaryKeyword": "lower lipoprotein a naturally familial hypercholesterolemia",
+    "topicCluster": "lipoprotein-a-modulation",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-01-31T04:13:32.788Z"
+  }
+]

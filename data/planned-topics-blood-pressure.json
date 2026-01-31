@@ -1,35 +1,11 @@
 [
   {
-    "title": "7 Hidden Blood Pressure Spikes You’re Causing With Your Morning Coffee Routine — And How to Fix Them Without Quitting Caffeine",
-    "description": "Explores how timing, brewing method, and additives (e.g., creamer, sugar substitutes) in morning coffee can trigger transient hypertension in adults 55–72, especially those with morning surge patterns or adrenal sensitivity.",
-    "primaryKeyword": "morning coffee blood pressure spike",
-    "topicCluster": "caffeine-timing-physiology",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-30T04:15:00.978Z"
-  },
-  {
     "title": "5 Things Your Pharmacist Won’t Tell You About Blood Pressure Meds and Driving Safety in Adults 73+",
     "description": "Uncovers under-discussed medication-related risks — including delayed sedation onset, visual field narrowing from alpha-blockers, and delayed reaction time from low-dose diuretics — with actionable mitigation strategies.",
     "primaryKeyword": "bp meds driving safety elderly",
     "topicCluster": "medication-safety-behavioral",
     "coreKeyword": "blood pressure",
     "createdAt": "2026-01-30T04:15:04.565Z"
-  },
-  {
-    "title": "How Chronic Constipation Alters Vagal Tone and Elevates Nighttime Systolic Pressure in Adults 60–75 With Mild Orthostatic Intolerance",
-    "description": "Links colonic distension, afferent vagal signaling, and impaired nocturnal baroreflex buffering — with dietary and mechanical interventions to restore circadian BP rhythm.",
-    "primaryKeyword": "constipation vagal tone nighttime bp",
-    "topicCluster": "gut-brain-cardiovascular-axis",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-30T04:15:06.393Z"
-  },
-  {
-    "title": "What Causes Morning BP Surges in Adults 57–69 With Untreated Sleep Apnea — Even When CPAP Use Is ‘Good Enough’",
-    "description": "Investigates residual upper airway resistance, nocturnal swallowing events, and microarousal-induced norepinephrine spikes — plus how pulse transit time (PTT) monitoring reveals hidden instability.",
-    "primaryKeyword": "morning bp surge residual sleep apnea",
-    "topicCluster": "nocturnal-respiratory-hemodynamics",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-30T04:15:09.947Z"
   },
   {
     "title": "12 Science-Backed Times of Day to Take Your Blood Pressure — Based on Circadian Endothelial NO Synthase Rhythms",
@@ -40,14 +16,6 @@
     "createdAt": "2026-01-30T04:15:13.490Z"
   },
   {
-    "title": "How Indoor Humidity Below 30% Triggers Endothelial Stiffness in Adults 55–68 With Early Arterial Calcification",
-    "description": "Explains dry-air-induced TRPV4 channel activation, reduced nitric oxide bioavailability, and accelerated pulse wave velocity — plus evidence-based humidification thresholds for vascular protection.",
-    "primaryKeyword": "low humidity endothelial stiffness",
-    "topicCluster": "environmental-humidity-vascular-impact",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-30T04:15:17.158Z"
-  },
-  {
     "title": "Does Taking Your Blood Pressure While Sitting Cross-Legged Really Raise Readings? — What 2023 Research Says for Adults 58+",
     "description": "Synthesizes recent biomechanical studies on femoral artery compression, venous pooling, and systolic amplification — with protocol corrections for home users and clinical settings.",
     "primaryKeyword": "cross-legged blood pressure measurement",
@@ -56,35 +24,11 @@
     "createdAt": "2026-01-30T04:15:21.492Z"
   },
   {
-    "title": "Quick Ways to Reduce BP Variability During Air Travel in Adults 70+ With History of Hypertensive Urgency",
-    "description": "Targets cabin pressure shifts, dehydration rhythms, and circadian desynchrony — with pre-flight hydration timing, in-flight isometric protocols, and wearable-guided breathing cues.",
-    "primaryKeyword": "air travel blood pressure variability",
-    "topicCluster": "travel-physiology-hypertension",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-30T04:15:23.252Z"
-  },
-  {
     "title": "The Complete Guide to Interpreting Home BP Logs for Adults 61+ With White Coat Effect and Intermittent Elevated Readings",
     "description": "Teaches how to distinguish true variability from artifact using pulse amplitude trends, morning-evening differentials, and ‘stress signature’ patterns — with printable log templates.",
     "primaryKeyword": "interpreting home blood pressure logs",
     "topicCluster": "self-monitoring-data-literacy",
     "coreKeyword": "blood pressure",
     "createdAt": "2026-01-30T04:15:25.067Z"
-  },
-  {
-    "title": "What Are the Earliest Signs of Arterial Stiffness in Women 54–67 — Before BP Readings Cross 130/80?",
-    "description": "Highlights non-BP red flags: altered toe-brachial index, delayed digital rewarming post-cold challenge, and voice tremor frequency shifts — all validated in recent women-specific cohorts.",
-    "primaryKeyword": "early arterial stiffness signs women",
-    "topicCluster": "pre-hypertensive-vascular-signs-women",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-30T04:15:26.827Z"
-  },
-  {
-    "title": "How Chronic Low-Dose NSAID Use Alters Renal Prostaglandin E2 Synthesis in Adults 60–72 With Hypertension and Normal eGFR",
-    "description": "Explains COX-2–mediated sodium retention, blunted diuretic response, and why BP spikes may precede renal function decline — plus NSAID-sparing alternatives with vascular safety data.",
-    "primaryKeyword": "nsaid prostaglandin e2 hypertension",
-    "topicCluster": "pharmacologic-renal-vascular-interaction",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-01-30T04:15:35.765Z"
   }
 ]

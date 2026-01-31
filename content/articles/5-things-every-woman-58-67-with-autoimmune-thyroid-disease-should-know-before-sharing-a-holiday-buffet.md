@@ -1,14 +1,25 @@
 ---
-title: "5 Things Every Woman 58–67 With Autoimmune Thyroid Disease Should Know Before Sharing a Holiday Buffet"
-slug: "5-things-every-woman-58-67-with-autoimmune-thyroid-disease-should-know-before-sharing-a-holiday-buffet"
-description: "Highlights immune-modulating food interactions (e.g., cruciferous raw prep, iodine-rich seafood + soy), gluten cross-reactivity risks in shared serving utensils, and how buffet-style eating disrupts TSH rhythm stability."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["hypothyroid buffet food safety women", "healthy eating during family gatherings", "autoimmune-thyroid-diet"]
-primaryKeyword: "hypothyroid buffet food safety women"
-topicCluster: "autoimmune-thyroid-diet"
-image: ""
-relatedSlugs: []
+title: >-
+  5 Things Every Woman 58–67 With Autoimmune Thyroid Disease Should Know Before
+  Sharing a Holiday Buffet
+slug: >-
+  5-things-every-woman-58-67-with-autoimmune-thyroid-disease-should-know-before-sharing-a-holiday-buffet
+description: >-
+  Highlights immune-modulating food interactions (e.g., cruciferous raw prep,
+  iodine-rich seafood + soy), gluten cross-reactivity risks in shared serving
+  utensils, and how buffet-style eating disrupts TSH rhythm stability.
+date: '2026-01-28'
+updated: '2026-01-28'
+tags:
+  - hypothyroid buffet food safety women
+  - healthy eating during family gatherings
+  - autoimmune-thyroid-diet
+primaryKeyword: hypothyroid buffet food safety women
+topicCluster: autoimmune-thyroid-diet
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-gluten-free-holiday-stuffing-for-adults-66-with-celiac-disease-and-latent-autoimmune-thyroiditis
 ---
 
 # Hypothyroid Buffet Food Safety for Women 58–67: What You Really Need to Know Before the Holiday Spread

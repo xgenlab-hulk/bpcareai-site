@@ -1,14 +1,33 @@
 ---
-title: "Does Leftover Cranberry Sauce Really Lower Post-Meal Urinary pH in Men Over 70 With Recurrent UTIs?"
-slug: "does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis"
-description: "Reviews proanthocyanidin bioavailability, gastric pH interference, and urinary acidification efficacy of homemade vs commercial cranberry preparations in aging male urinary tracts."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["cranberry sauce urinary ph uti", "healthy eating during family gatherings", "urinary-tract-nutrition"]
-primaryKeyword: "cranberry sauce urinary ph uti"
-topicCluster: "urinary-tract-nutrition"
-image: ""
-relatedSlugs: ["what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel", "does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82", "the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis", "what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia"]
+title: >-
+  Does Leftover Cranberry Sauce Really Lower Post-Meal Urinary pH in Men Over 70
+  With Recurrent UTIs?
+slug: >-
+  does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
+description: >-
+  Reviews proanthocyanidin bioavailability, gastric pH interference, and urinary
+  acidification efficacy of homemade vs commercial cranberry preparations in
+  aging male urinary tracts.
+date: '2026-01-06'
+updated: '2026-01-06'
+tags:
+  - cranberry sauce urinary ph uti
+  - healthy eating during family gatherings
+  - urinary-tract-nutrition
+primaryKeyword: cranberry sauce urinary ph uti
+topicCluster: urinary-tract-nutrition
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
+  - >-
+    does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82
+  - >-
+    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
+  - >-
+    what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia
+  - >-
+    why-cranberry-sauce-triggers-reflux-induced-nocturnal-hypertension-in-adults-68-with-hiatal-hernia-and-mild-sleep-apnea
 ---
 
 # Can Cranberry Sauce Really Help Manage Urinary pH and UTIs in Men Over 70?
