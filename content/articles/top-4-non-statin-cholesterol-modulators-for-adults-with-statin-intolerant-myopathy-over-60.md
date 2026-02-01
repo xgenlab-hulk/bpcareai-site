@@ -24,6 +24,8 @@ relatedSlugs:
     5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
     myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+  - >-
+    simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400
 ---
 
 # Non-Statin Cholesterol Modulators for Myopathy: Safe Alternatives After Age 60

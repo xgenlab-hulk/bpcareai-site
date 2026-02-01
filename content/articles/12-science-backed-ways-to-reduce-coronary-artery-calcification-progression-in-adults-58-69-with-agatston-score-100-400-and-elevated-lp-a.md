@@ -1,14 +1,31 @@
 ---
-title: "12 Science-Backed Ways to Reduce Coronary Artery Calcification Progression in Adults 58–69 With Agatston Score 100–400 and Elevated Lp(a)"
-slug: "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a"
-description: "Focuses exclusively on slowing CAC growth—not just prevention—using targeted nutrition (e.g., vitamin K2-MK7 dosing), lipid-modifying lifestyle levers, and emerging nutraceutical evidence from prospective CT cohort studies."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["slow coronary artery calcification progression", "heart disease", "coronary-calcification"]
-primaryKeyword: "slow coronary artery calcification progression"
-topicCluster: "coronary-calcification"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55", "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance", "how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone"]
+title: >-
+  12 Science-Backed Ways to Reduce Coronary Artery Calcification Progression in
+  Adults 58–69 With Agatston Score 100–400 and Elevated Lp(a)
+slug: >-
+  12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
+description: >-
+  Focuses exclusively on slowing CAC growth—not just prevention—using targeted
+  nutrition (e.g., vitamin K2-MK7 dosing), lipid-modifying lifestyle levers, and
+  emerging nutraceutical evidence from prospective CT cohort studies.
+date: '2026-01-22'
+updated: '2026-01-22'
+tags:
+  - slow coronary artery calcification progression
+  - heart disease
+  - coronary-calcification
+primaryKeyword: slow coronary artery calcification progression
+topicCluster: coronary-calcification
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
+  - >-
+    12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
+  - >-
+    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
+  - >-
+    simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400
 ---
 
 # 12 Evidence-Based Strategies to Slow Coronary Artery Calcification Progression in Adults 58–69 With Moderate CAC and High Lp(a)

@@ -1,5 +1,658 @@
 [
   {
+    "slug": "why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol",
+    "title": "Why Heart Disease Risk Skyrockets in Women 58–67 Within 3 Years After Menopause — Even With Normal Cholesterol",
+    "description": "Explores the hormonal, vascular, and metabolic shifts post-menopause that accelerate atherosclerosis independent of traditional lipid markers, with data from the SWAN and GENOA studies.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "heart disease after menopause women 58-67",
+      "heart disease",
+      "gender-hormonal-transitions"
+    ],
+    "primaryKeyword": "heart disease after menopause women 58-67",
+    "topicCluster": "gender-hormonal-transitions",
+    "image": "",
+    "relatedSlugs": [
+      "how-menopause-affects-heart-disease-risk-in-women",
+      "why-older-women-are-more-vulnerable-to-winter-heart-events",
+      "why-women-s-heart-attack-symptoms-differ-after-menopause",
+      "why-older-women-gain-weight-faster-during-the-holidays-after-menopause",
+      "holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af"
+    ]
+  },
+  {
+    "slug": "when-to-suspect-cardiac-amyloidosis-in-men-76-with-unexplained-low-voltage-ecg-bilateral-carpal-tunnel-and-progressive-fatigue-even-with-normal-echocardiogram",
+    "title": "When to Suspect Cardiac Amyloidosis in Men 76+ With Unexplained Low-Voltage ECG, Bilateral Carpal Tunnel, and Progressive Fatigue — Even With Normal Echocardiogram",
+    "description": "A practical diagnostic roadmap for clinicians and patients, highlighting red-flag clinical triads, the limitations of standard echo, and when to pursue bone-avid tracer imaging.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "cardiac amyloidosis diagnosis low-voltage ecg older men",
+      "heart health",
+      "early-detection-cardiac-amyloidosis"
+    ],
+    "primaryKeyword": "cardiac amyloidosis diagnosis low-voltage ecg older men",
+    "topicCluster": "early-detection-cardiac-amyloidosis",
+    "image": "",
+    "relatedSlugs": [
+      "red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue",
+      "when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings",
+      "when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction",
+      "when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness",
+      "warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue"
+    ]
+  },
+  {
+    "slug": "when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram",
+    "title": "When to Suspect Cardiac Amyloidosis in Adults 76+ With Unexplained Orthostatic Hypotension and Bilateral Carpal Tunnel — Even With Normal Echocardiogram",
+    "description": "Guides recognition of this underdiagnosed infiltrative cardiomyopathy through red-flag symptom clusters, tissue-agnostic biomarkers (serum free light chains), and the role of bone-avid radiotracers.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "cardiac amyloidosis orthostatic hypotension seniors",
+      "heart disease",
+      "infiltrative-cardiomyopathy"
+    ],
+    "primaryKeyword": "cardiac amyloidosis orthostatic hypotension seniors",
+    "topicCluster": "infiltrative-cardiomyopathy",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness",
+      "when-to-suspect-cardiac-amyloidosis-in-men-76-with-unexplained-low-voltage-ecg-bilateral-carpal-tunnel-and-progressive-fatigue-even-with-normal-echocardiogram",
+      "when-to-suspect-cardiac-amyloidosis-in-women-75-with-unexplained-fatigue-bilateral-carpal-tunnel-surgery-history-and-preserved-ef-on-echo",
+      "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction",
+      "when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-onset-of-palpitations-after-starting-a-new-antidepressant-in-adults-66-with-long-standing-hypothyroidism",
+    "title": "What Causes Sudden Onset of Palpitations After Starting a New Antidepressant in Adults 66+ With Long-Standing Hypothyroidism?",
+    "description": "Analyzes serotonin transporter inhibition, thyroid hormone conversion interference, and QT prolongation synergy — plus safer pharmacologic alternatives with cardiac safety data.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "antidepressant palpitations hypothyroidism seniors 66+",
+      "heart disease",
+      "polypharmacy-cardiac-risks"
+    ],
+    "primaryKeyword": "antidepressant palpitations hypothyroidism seniors 66+",
+    "topicCluster": "polypharmacy-cardiac-risks",
+    "image": "",
+    "relatedSlugs": [
+      "7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens",
+      "7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics",
+      "when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism"
+    ]
+  },
+  {
+    "slug": "what-are-the-safest-holiday-dessert-swaps-for-adults-80-with-severe-orthostatic-hypotension-and-nocturnal-polyuria",
+    "title": "What Are the Safest Holiday Dessert Swaps for Adults 80+ With Severe Orthostatic Hypotension and Nocturnal Polyuria?",
+    "description": "Compares glycemic load, fluid retention potential, and vasodilatory risk of 8 common desserts—prioritizing options that avoid nocturia triggers and upright BP crashes.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "holiday dessert swaps orthostatic hypotension",
+      "healthy holiday eating for seniors",
+      "cardiovascular-diet-safety"
+    ],
+    "primaryKeyword": "holiday dessert swaps orthostatic hypotension",
+    "topicCluster": "cardiovascular-diet-safety",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-grandma-s-fruitcake-soaked-in-brandy-vs-baked-pear-walnut-loaf-no-alcohol-lower-osmolality-for-seniors-with-mild-hyponatremia",
+      "quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin",
+      "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks",
+      "the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension",
+      "best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes"
+    ]
+  },
+  {
+    "slug": "warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis",
+    "title": "Warning Signs of Subclinical Right Ventricular Dysfunction in Women 58–67 With Obesity, GERD, and Nocturnal Cough — That Mimic Asthma or Chronic Bronchitis",
+    "description": "Details how elevated right-sided pressures manifest as airway irritation, identifies subtle echo Doppler clues (TAPSE <16 mm, S' <10 cm/s), and explains why PFTs normalize post-diuretic challenge.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "right ventricular dysfunction nocturnal cough women",
+      "heart health",
+      "right-heart-dysfunction-mimics"
+    ],
+    "primaryKeyword": "right ventricular dysfunction nocturnal cough women",
+    "topicCluster": "right-heart-dysfunction-mimics",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms",
+      "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath",
+      "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily",
+      "natural-ways-to-support-right-ventricular-adaptation-to-pulmonary-vascular-resistance-in-adults-63-79-with-mild-copd-and-preserved-left-ventricular-ejection-fraction",
+      "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity"
+    ]
+  },
+  {
+    "slug": "the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque",
+    "title": "The Truth About ‘Heart-Healthy’ Olive Oil Labels — Why Extra Virgin Isn’t Enough for Adults 72+ With Advanced Carotid Plaque",
+    "description": "Breaks down polyphenol content thresholds (e.g., oleocanthal >500 ppm), oxidation markers (peroxide value <12), and storage-driven degradation — plus how to test freshness at home.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "olive oil heart health carotid plaque seniors",
+      "heart disease",
+      "nutritional-quality-assessment"
+    ],
+    "primaryKeyword": "olive oil heart health carotid plaque seniors",
+    "topicCluster": "nutritional-quality-assessment",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60",
+      "the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction"
+    ]
+  },
+  {
+    "slug": "the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy",
+    "title": "The Truth About 'Heart-Healthy' Holiday Cookies for Men 77+ With Atrial Fibrillation and Polypharmacy",
+    "description": "Debunks marketing claims around oat-based, low-sugar cookies by analyzing real-world interactions with warfarin, digoxin, and potassium-sparing diuretics.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "heart-healthy holiday cookies seniors afib",
+      "healthy holiday eating for seniors",
+      "food-safety-medication-interactions"
+    ],
+    "primaryKeyword": "heart-healthy holiday cookies seniors afib",
+    "topicCluster": "food-safety-medication-interactions",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you",
+      "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers",
+      "5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter",
+      "the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban",
+      "the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal"
+    ]
+  },
+  {
+    "slug": "the-truth-about-heart-healthy-air-fryer-cooking-for-adults-70-with-established-coronary-artery-calcification-and-why-oxidized-cholesterol-matters-more-than-saturated-fat",
+    "title": "The Truth About ‘Heart-Healthy’ Air Fryer Cooking for Adults 70+ With Established Coronary Artery Calcification — And Why Oxidized Cholesterol Matters More Than Saturated Fat",
+    "description": "Breaks down how high-heat air frying transforms dietary cholesterol into pro-atherogenic oxysterols—even in lean proteins—and compares oxidation levels across cooking methods using LC-MS data.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "air fryer oxidized cholesterol coronary calcification",
+      "heart health",
+      "cooking-methods-cholesterol-oxidation"
+    ],
+    "primaryKeyword": "air fryer oxidized cholesterol coronary calcification",
+    "topicCluster": "cooking-methods-cholesterol-oxidation",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin",
+      "12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis",
+      "the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings",
+    "title": "The Complete Guide to Interpreting Home BP Logs for Adults 61+ With White Coat Effect and Intermittent Elevated Readings",
+    "description": "Teaches how to distinguish true variability from artifact using pulse amplitude trends, morning-evening differentials, and ‘stress signature’ patterns — with printable log templates.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "interpreting home blood pressure logs",
+      "blood pressure",
+      "self-monitoring-data-literacy"
+    ],
+    "primaryKeyword": "interpreting home blood pressure logs",
+    "topicCluster": "self-monitoring-data-literacy",
+    "image": "",
+    "relatedSlugs": [
+      "the-complete-guide-to-interpreting-home-bp-logs-for-adults-58-72-with-white-coat-hypertension-and-high-work-stress",
+      "the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist",
+      "the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings",
+      "the-complete-guide-to-interpreting-your-home-bp-log-for-patterns-especially-if-you-re-60-and-tracking-after-antihypertensive-dose-changes",
+      "the-complete-guide-to-interpreting-bp-variability-metrics-sd-cv-arv-from-your-ambulatory-monitor-especially-if-you-re-66-with-white-coat-effect-and-cognitive-concerns"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use",
+    "title": "The Complete Guide to Holiday Hydration for Adults 76+ With Reduced Thirst Sensation, Mild Hyponatremia History, and Diuretic Use",
+    "description": "Covers sodium-aware fluid timing, electrolyte-balanced alternatives to cranberry juice or eggnog, and non-thirst-based hydration cues like tongue tackiness or morning orthostasis.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "holiday hydration seniors hyponatremia",
+      "healthy holiday eating for seniors",
+      "hydration-strategy-elderly"
+    ],
+    "primaryKeyword": "holiday hydration seniors hyponatremia",
+    "topicCluster": "hydration-strategy-elderly",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history",
+      "warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk",
+      "warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68",
+      "12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides",
+      "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70"
+    ]
+  },
+  {
+    "slug": "simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400",
+    "title": "Simple Steps to Lower Lipoprotein(a) Naturally — For Adults 56–70 With Familial Hypercholesterolemia and CAC Score >400",
+    "description": "Focuses on clinically validated levers: niacin dosing windows, LDL apheresis eligibility, PCSK9-inhibitor alternatives, and novel nutraceuticals (berberine + red yeast rice combos).",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "lower lipoprotein a naturally familial hypercholesterolemia",
+      "heart disease",
+      "lipoprotein-a-modulation"
+    ],
+    "primaryKeyword": "lower lipoprotein a naturally familial hypercholesterolemia",
+    "topicCluster": "lipoprotein-a-modulation",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance",
+      "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio",
+      "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a",
+      "can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50",
+      "top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60"
+    ]
+  },
+  {
+    "slug": "simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome",
+    "title": "Simple Steps to Adjust Your Holiday Meal Timing for Optimal Circadian Glucose Rhythms in Adults 73+ With Advanced Sleep Phase Syndrome",
+    "description": "Guidance on shifting dinner 90 minutes earlier, pairing with morning light exposure, and selecting time-restricted eating windows that align with endogenous melatonin onset.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "meal timing circadian glucose seniors",
+      "healthy holiday eating for seniors",
+      "chrononutrition-elderly"
+    ],
+    "primaryKeyword": "meal timing circadian glucose seniors",
+    "topicCluster": "chrononutrition-elderly",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols",
+      "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes",
+      "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70",
+      "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it",
+      "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia",
+    "title": "Natural Ways to Support Chewing Efficiency During Holiday Meals—Without Dentures or Supplements—for Adults 82+ With Sarcopenic Dysphagia",
+    "description": "Evidence-based texture-modification strategies, bite-size sequencing, and oral-motor priming techniques to maintain safe, satisfying holiday eating despite age-related masticatory decline.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "chewing efficiency holiday meals seniors",
+      "healthy holiday eating for seniors",
+      "oral-motor-nutrition"
+    ],
+    "primaryKeyword": "chewing efficiency holiday meals seniors",
+    "topicCluster": "oral-motor-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd",
+      "natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia",
+      "5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment",
+      "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes",
+      "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers",
+    "title": "Natural Ways to Restore Circadian Rhythm of ANP Secretion in Adults 71+ With Nocturnal Polyuria and Stage 2 Hypertension — Without Melatonin or Beta-Blockers",
+    "description": "Explains how disrupted atrial natriuretic peptide release contributes to overnight sodium retention and BP surges—and outlines light exposure timing, meal macronutrient sequencing, and foot warming protocols proven to resynchronize ANP peaks.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "restore anp secretion circadian rhythm older adults",
+      "heart health",
+      "anp-circadian-rhythm-restoration"
+    ],
+    "primaryKeyword": "restore anp secretion circadian rhythm older adults",
+    "topicCluster": "anp-circadian-rhythm-restoration",
+    "image": "",
+    "relatedSlugs": [
+      "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea",
+      "what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria",
+      "quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension",
+      "what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring",
+      "what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history"
+    ]
+  },
+  {
+    "slug": "myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization",
+    "title": "Myths vs Facts: 'I’m Too Old for Cardiac Rehab' — What the Latest RCTs Say for Adults 79+ With Recent MI or Revascularization",
+    "description": "Debunks ageist assumptions using data from the EXCITE and RENEW trials — covering mortality reduction (22% at 2 years), functional gains, and telehealth-enabled protocols.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "cardiac rehab myths seniors 79+ recent mi",
+      "heart disease",
+      "rehab-accessibility-barriers"
+    ],
+    "primaryKeyword": "cardiac rehab myths seniors 79+ recent mi",
+    "topicCluster": "rehab-accessibility-barriers",
+    "image": "",
+    "relatedSlugs": [
+      "5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program",
+      "myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75",
+      "myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old",
+      "myths-vs-facts-i-only-drink-red-wine-it-s-heart-healthy-in-adults-65-with-high-frequency-pacs-and-left-atrial-fibrosis",
+      "simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation"
+    ]
+  },
+  {
+    "slug": "how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina",
+    "title": "How Winter Indoor Air Pollution (PM2.5 from Heaters & Candles) Elevates Endothelial Microparticle Counts in Adults 68+ With Stable Angina",
+    "description": "Links seasonal particulate exposure to acute endothelial injury biomarkers, offers real-time air quality threshold alerts (AQI >35), and evidence-based filtration strategies for older homes.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "indoor air pollution angina seniors 68+ winter",
+      "heart disease",
+      "environmental-cardiac-stressors"
+    ],
+    "primaryKeyword": "indoor air pollution angina seniors 68+ winter",
+    "topicCluster": "environmental-cardiac-stressors",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries",
+      "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments",
+      "how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd",
+      "how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55",
+      "how-indoor-air-quality-affects-heart-health-in-winter"
+    ]
+  },
+  {
+    "slug": "how-long-term-ppi-use-alters-gut-microbiome-derived-tmao-production-and-its-link-to-plaque-instability-in-adults-67-with-stable-cad",
+    "title": "How Long-Term PPI Use Alters Gut Microbiome-Derived TMAO Production — And Its Link to Plaque Instability in Adults 67+ With Stable CAD",
+    "description": "Explains the Clostridium-associated choline→TMA→TMAO pathway disruption, clinical TMAO cutoffs (>6.5 µmol/L), and evidence-backed probiotic strains to mitigate risk.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "pills and tmao heart disease seniors 67+",
+      "heart disease",
+      "microbiome-metabolite-pathways"
+    ],
+    "primaryKeyword": "pills and tmao heart disease seniors 67+",
+    "topicCluster": "microbiome-metabolite-pathways",
+    "image": "",
+    "relatedSlugs": [
+      "how-long-term-proton-pump-inhibitor-use-elevates-risk-of-subclinical-atherosclerosis-in-adults-59-71-with-gerd-and-low-hdl-c-independent-of-magnesium-levels",
+      "how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65",
+      "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now",
+      "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals",
+      "what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy"
+    ]
+  },
+  {
+    "slug": "how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia",
+    "title": "How Intergenerational Gift-Giving Stress Elevates Postprandial Triglycerides in Adults 61+ With Familial Hypertriglyceridemia",
+    "description": "Analyzes cortisol–lipoprotein lipase inhibition dynamics during holiday gatherings, with actionable meal sequencing and breathing protocols shown to blunt TG spikes by >37% in RCTs.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "gift-giving stress triglycerides seniors",
+      "healthy holiday eating for seniors",
+      "stress-metabolism-connection"
+    ],
+    "primaryKeyword": "gift-giving stress triglycerides seniors",
+    "topicCluster": "stress-metabolism-connection",
+    "image": "",
+    "relatedSlugs": [
+      "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65",
+      "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70",
+      "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68",
+      "how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60",
+      "how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes"
+    ]
+  },
+  {
+    "slug": "how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension",
+    "title": "How Grandparenting During Holidays Alters Meal Timing — And Why Late-Evening Carbs Raise Nighttime BP in Adults 68+ With Nocturnal Hypertension",
+    "description": "Examines the circadian and behavioral impact of caregiving roles (e.g., feeding grandchildren late, disrupted dinner schedules) on nocturnal blood pressure regulation and insulin sensitivity in older adults with non-dipping BP patterns.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "late-evening carbs and nighttime blood pressure",
+      "healthy eating during family gatherings",
+      "circadian-meal-timing"
+    ],
+    "primaryKeyword": "late-evening carbs and nighttime blood pressure",
+    "topicCluster": "circadian-meal-timing",
+    "image": "",
+    "relatedSlugs": [
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea",
+      "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65",
+      "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation",
+      "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks"
+    ]
+  },
+  {
+    "slug": "how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd",
+    "title": "How Chronic Nighttime Cough From Untreated GERD Triggers Nocturnal Atrial Fibrillation in Men 70+ With Mild COPD",
+    "description": "Details the vagally mediated esophago-atrial reflex, autonomic dysregulation, and intrathoracic pressure swings linking reflux to arrhythmia — with practical airway positioning and pH-monitoring guidance.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "gerd-induced afib men 70+ copd",
+      "heart disease",
+      "gastro-cardiac-interactions"
+    ],
+    "primaryKeyword": "gerd-induced afib men 70+ copd",
+    "topicCluster": "gastro-cardiac-interactions",
+    "image": "",
+    "relatedSlugs": [
+      "7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring",
+      "best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp",
+      "warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis",
+      "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60",
+      "how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65"
+    ]
+  },
+  {
+    "slug": "does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58",
+    "title": "Does Taking Your Blood Pressure While Sitting Cross-Legged Really Raise Readings? — What 2023 Research Says for Adults 58+",
+    "description": "Synthesizes recent biomechanical studies on femoral artery compression, venous pooling, and systolic amplification — with protocol corrections for home users and clinical settings.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "cross-legged blood pressure measurement",
+      "blood pressure",
+      "measurement-technique-biomechanics"
+    ],
+    "primaryKeyword": "cross-legged blood pressure measurement",
+    "topicCluster": "measurement-technique-biomechanics",
+    "image": "",
+    "relatedSlugs": [
+      "quick-ways-to-calibrate-your-home-blood-pressure-cuff-using-the-triple-reading-posture-reset-validated-in-adults-with-arthritis-and-limited-shoulder-mobility",
+      "12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring",
+      "how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64",
+      "a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor",
+      "dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands"
+    ]
+  },
+  {
+    "slug": "does-daily-2000-iu-vitamin-d3-actually-reduce-myocardial-fibrosis-in-adults-59-73-with-type-2-diabetes-and-elevated-galectin-3",
+    "title": "Does Daily 2000 IU Vitamin D3 Actually Reduce Myocardial Fibrosis in Adults 59–73 With Type 2 Diabetes and Elevated Galectin-3?",
+    "description": "Reviews VITAL-DKD, D-Health, and fibrosis imaging trials to clarify dose-response relationships, optimal serum 25(OH)D targets (>40 ng/mL), and synergistic nutrients (vitamin K2, magnesium).",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "vitamin d3 myocardial fibrosis type 2 diabetes",
+      "heart disease",
+      "nutrient-fibrosis-modulation"
+    ],
+    "primaryKeyword": "vitamin d3 myocardial fibrosis type 2 diabetes",
+    "topicCluster": "nutrient-fibrosis-modulation",
+    "image": "",
+    "relatedSlugs": [
+      "does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency",
+      "the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65",
+      "can-vitamin-d-deficiency-make-diabetes-worse-in-seniors",
+      "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease",
+      "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55"
+    ]
+  },
+  {
+    "slug": "best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban",
+    "title": "Best Low-Impact Resistance Exercises for Adults 82+ With Severe Osteoporosis and Atrial Fibrillation on Apixaban",
+    "description": "Prioritizes axial-loading safety, anti-arrhythmic breathing integration, and bleeding-risk-aware progression — with modifications for kyphosis, fall history, and anticoagulation protocols.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "low-impact resistance osteoporosis afib seniors 82+",
+      "heart disease",
+      "frailty-exercise-safety"
+    ],
+    "primaryKeyword": "low-impact resistance osteoporosis afib seniors 82+",
+    "topicCluster": "frailty-exercise-safety",
+    "image": "",
+    "relatedSlugs": [
+      "best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension",
+      "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats",
+      "best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension",
+      "best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options",
+      "best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension"
+    ]
+  },
+  {
+    "slug": "a-vs-b-4-minute-morning-cold-face-immersion-diving-reflex-vs-5-minute-evening-vagus-nerve-stimulation-via-humming-impact-on-24-hour-hrv-in-adults-60-79-with-chronic-stress-and-elevated-crp",
+    "title": "A vs B: 4-Minute Morning Cold Face Immersion (Diving Reflex) vs. 5-Minute Evening Vagus Nerve Stimulation via Humming — Impact on 24-Hour HRV in Adults 60–79 With Chronic Stress and Elevated CRP",
+    "description": "Head-to-head comparison using wearable HRV metrics (RMSSD, SDNN), showing which technique sustains parasympathetic tone longer—and why timing matters more than modality for inflammatory aging.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "cold face immersion vs vagus humming hrvar",
+      "heart health",
+      "vagal-toning-timing-comparison"
+    ],
+    "primaryKeyword": "cold face immersion vs vagus humming hrvar",
+    "topicCluster": "vagal-toning-timing-comparison",
+    "image": "",
+    "relatedSlugs": [
+      "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension",
+      "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns",
+      "does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv",
+      "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct",
+      "can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity"
+    ]
+  },
+  {
+    "slug": "a-vs-b-4-minute-daily-isometric-handgrip-vs-12-minute-weekly-hiit-impact-on-central-aortic-pressure-in-adults-69-with-white-coat-hypertension",
+    "title": "A vs B: 4-Minute Daily Isometric Handgrip vs. 12-Minute Weekly HIIT — Impact on Central Aortic Pressure in Adults 69+ With White-Coat Hypertension",
+    "description": "Compares real-world feasibility, adherence rates, and tonometry-confirmed central pressure reduction between two evidence-backed non-pharmacologic interventions for borderline hypertension.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "isometric handgrip vs hiit central pressure seniors",
+      "heart disease",
+      "non-pharmacologic-interventions"
+    ],
+    "primaryKeyword": "isometric handgrip vs hiit central pressure seniors",
+    "topicCluster": "non-pharmacologic-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-home-based-isometric-handgrip-training-vs-supervised-interval-cycling-impact-on-central-aortic-pressure-in-men-64-76-with-isolated-systolic-hypertension",
+      "can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension",
+      "a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension",
+      "a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76",
+      "quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg",
+    "title": "7 Silent Signs of Left Ventricular Hypertrophy in Adults 65+ With Well-Controlled Hypertension — Missed on Routine EKG",
+    "description": "Highlights subtle clinical, auscultatory, and symptom-based red flags (e.g., delayed S2 splitting, nocturnal dyspnea with preserved SpO2) indicating structural remodeling despite 'normal' BP readings.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "left ventricular hypertrophy silent signs adults 65+",
+      "heart disease",
+      "structural-cardiac-changes"
+    ],
+    "primaryKeyword": "left ventricular hypertrophy silent signs adults 65+",
+    "topicCluster": "structural-cardiac-changes",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear",
+      "7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65",
+      "7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal",
+      "when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp",
+      "7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction"
+    ]
+  },
+  {
+    "slug": "5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis",
+    "title": "5 Things You Should Know Before Starting a 'Heart-Smart' Walking Group — Especially If You’re 78+ With Spinal Stenosis and Mild Aortic Stenosis",
+    "description": "Addresses gait variability thresholds, safe incline limits, pacing strategies to avoid subaortic pressure overload, and how to spot subtle exertional presyncope masked by group energy.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "walking group safety aortic stenosis seniors 78+",
+      "heart disease",
+      "exercise-safety-comorbidities"
+    ],
+    "primaryKeyword": "walking group safety aortic stenosis seniors 78+",
+    "topicCluster": "exercise-safety-comorbidities",
+    "image": "",
+    "relatedSlugs": [
+      "best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban",
+      "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats",
+      "5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program",
+      "5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring",
+      "quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension"
+    ]
+  },
+  {
+    "slug": "5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75",
+    "title": "5 Things You Should Know Before Starting a Daily Magnesium Glycinate Protocol — Especially If You’re Taking Amiodarone or Digoxin and Are Over 75",
+    "description": "Covers critical drug–nutrient interactions, optimal dosing windows to avoid QT prolongation, interpreting RBC magnesium vs serum levels, and why glycinate may worsen nocturnal bradycardia in frail elders.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "magnesium glycinate amiodarone digoxin older adults",
+      "heart health",
+      "cardiac-medications-magnesium-interactions"
+    ],
+    "primaryKeyword": "magnesium glycinate amiodarone digoxin older adults",
+    "topicCluster": "cardiac-medications-magnesium-interactions",
+    "image": "",
+    "relatedSlugs": [
+      "what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone",
+      "does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy",
+      "does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium",
+      "when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use",
+      "10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone"
+    ]
+  },
+  {
+    "slug": "12-science-backed-times-of-day-to-take-your-blood-pressure-based-on-circadian-endothelial-no-synthase-rhythms",
+    "title": "12 Science-Backed Times of Day to Take Your Blood Pressure — Based on Circadian Endothelial NO Synthase Rhythms",
+    "description": "Moves beyond ‘morning vs evening’ to identify 12 precise windows (e.g., 11:03 AM post-lunch cortisol dip, 4:17 PM sympathetic rebound) optimized for clinical relevance and home tracking accuracy.",
+    "date": "2026-02-01",
+    "updated": "2026-02-01",
+    "tags": [
+      "best time to measure blood pressure",
+      "blood pressure",
+      "circadian-bp-monitoring-timing"
+    ],
+    "primaryKeyword": "best time to measure blood pressure",
+    "topicCluster": "circadian-bp-monitoring-timing",
+    "image": "",
+    "relatedSlugs": [
+      "what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history",
+      "a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension",
+      "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea",
+      "a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern",
+      "a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74"
+    ]
+  },
+  {
     "slug": "why-do-adults-72-with-atrial-fibrillation-often-develop-orthostatic-hypotension-and-what-that-reveals-about-autonomic-cardiac-reserve",
     "title": "Why Do Adults 72+ With Atrial Fibrillation Often Develop Orthostatic Hypotension — And What That Reveals About Autonomic Cardiac Reserve",
     "description": "Explores the underrecognized link between AFib and orthostatic BP drops in older adults, explaining how autonomic dysfunction drives both—and what tilt-table testing reveals about long-term heart failure risk.",
@@ -6500,7 +7153,8 @@
     "relatedSlugs": [
       "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55",
       "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance",
-      "how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone"
+      "how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone",
+      "simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400"
     ]
   },
   {
@@ -9329,7 +9983,8 @@
       "the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction",
       "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers",
       "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling",
-      "12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp"
+      "12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp",
+      "the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque"
     ]
   },
   {
@@ -23604,7 +24259,8 @@
       "myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75",
       "why-men-over-50-should-monitor-cholesterol-even-without-symptoms",
       "5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65",
-      "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio"
+      "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio",
+      "myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization"
     ]
   },
   {
@@ -24019,7 +24675,8 @@
     "relatedSlugs": [
       "myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75",
       "5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65",
-      "myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old"
+      "myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old",
+      "simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400"
     ]
   },
   {
