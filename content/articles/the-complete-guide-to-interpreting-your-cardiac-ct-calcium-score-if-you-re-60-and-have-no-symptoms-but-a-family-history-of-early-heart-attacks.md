@@ -1,14 +1,33 @@
 ---
-title: "The Complete Guide to Interpreting Your Cardiac CT Calcium Score If You’re 60+ and Have No Symptoms — But a Family History of Early Heart Attacks"
-slug: "the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks"
-description: "Walks through nuanced calcium scoring interpretation: density thresholds, lesion distribution, age-adjusted percentiles, and when 'zero' truly means low risk — especially with genetic risk scores."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["cardiac ct calcium score guide", "heart disease", "calcium-score-interpretation"]
-primaryKeyword: "cardiac ct calcium score guide"
-topicCluster: "calcium-score-interpretation"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning"]
+title: >-
+  The Complete Guide to Interpreting Your Cardiac CT Calcium Score If You’re 60+
+  and Have No Symptoms — But a Family History of Early Heart Attacks
+slug: >-
+  the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
+description: >-
+  Walks through nuanced calcium scoring interpretation: density thresholds,
+  lesion distribution, age-adjusted percentiles, and when 'zero' truly means low
+  risk — especially with genetic risk scores.
+date: '2026-01-27'
+updated: '2026-01-27'
+tags:
+  - cardiac ct calcium score guide
+  - heart disease
+  - calcium-score-interpretation
+primaryKeyword: cardiac ct calcium score guide
+topicCluster: calcium-score-interpretation
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
+  - >-
+    myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55
+  - >-
+    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
+  - >-
+    12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
+  - >-
+    a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100
 ---
 
 # Your Reassuring Cardiac CT Calcium Score Guide for Adults 60+ with Family History — But No Symptoms

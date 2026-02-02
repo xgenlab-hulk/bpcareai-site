@@ -1,14 +1,34 @@
 ---
-title: "Why Sudden Weight Loss (>5% in 3 Months) in Adults 80+ With Stable Heart Failure Predicts 1-Year Mortality Better Than NYHA Class or BNP — And What to Do Next"
-slug: "why-sudden-weight-loss-5-in-3-months-in-adults-80-with-stable-heart-failure-predicts-1-year-mortality-better-than-nyha-class-or-bnp-and-what-to-do-next"
-description: "Explains the prognostic weight of unintentional cachexia in frail older HF patients, distinguishing cardiac vs. malignancy vs. neurodegenerative drivers—and outlines rapid-assessment protocols for outpatient geriatric cardiology teams."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["weight loss heart failure elderly prognosis", "heart health", "frailty-cachexia-cardiovascular-prognosis"]
-primaryKeyword: "weight loss heart failure elderly prognosis"
-topicCluster: "frailty-cachexia-cardiovascular-prognosis"
-image: ""
-relatedSlugs: ["when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction"]
+title: >-
+  Why Sudden Weight Loss (>5% in 3 Months) in Adults 80+ With Stable Heart
+  Failure Predicts 1-Year Mortality Better Than NYHA Class or BNP — And What to
+  Do Next
+slug: >-
+  why-sudden-weight-loss-5-in-3-months-in-adults-80-with-stable-heart-failure-predicts-1-year-mortality-better-than-nyha-class-or-bnp-and-what-to-do-next
+description: >-
+  Explains the prognostic weight of unintentional cachexia in frail older HF
+  patients, distinguishing cardiac vs. malignancy vs. neurodegenerative
+  drivers—and outlines rapid-assessment protocols for outpatient geriatric
+  cardiology teams.
+date: '2026-01-28'
+updated: '2026-01-28'
+tags:
+  - weight loss heart failure elderly prognosis
+  - heart health
+  - frailty-cachexia-cardiovascular-prognosis
+primaryKeyword: weight loss heart failure elderly prognosis
+topicCluster: frailty-cachexia-cardiovascular-prognosis
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
+  - >-
+    why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin
+  - the-truth-about-winter-weight-gain-and-heart-strain-after-60
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
+  - >-
+    why-heart-failure-with-preserved-ejection-fraction-hfpef-often-masquerades-as-just-aging-in-women-70-and-how-a-3-minute-sitting-to-standing-test-can-reveal-it
 ---
 
 # Why Unintentional Weight Loss in Older Adults With Heart Failure Is a Powerful Clue for Prognosis — And What It Means for Heart Health

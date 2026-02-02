@@ -1,14 +1,33 @@
 ---
-title: "The Truth About ‘Heart-Healthy’ Olive Oil Labels — Why Extra Virgin Isn’t Enough for Adults 72+ With Advanced Carotid Plaque"
-slug: "the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque"
-description: "Breaks down polyphenol content thresholds (e.g., oleocanthal >500 ppm), oxidation markers (peroxide value <12), and storage-driven degradation — plus how to test freshness at home."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["olive oil heart health carotid plaque seniors", "heart disease", "nutritional-quality-assessment"]
-primaryKeyword: "olive oil heart health carotid plaque seniors"
-topicCluster: "nutritional-quality-assessment"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60", "the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction"]
+title: >-
+  The Truth About ‘Heart-Healthy’ Olive Oil Labels — Why Extra Virgin Isn’t
+  Enough for Adults 72+ With Advanced Carotid Plaque
+slug: >-
+  the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque
+description: >-
+  Breaks down polyphenol content thresholds (e.g., oleocanthal >500 ppm),
+  oxidation markers (peroxide value <12), and storage-driven degradation — plus
+  how to test freshness at home.
+date: '2026-02-01'
+updated: '2026-02-01'
+tags:
+  - olive oil heart health carotid plaque seniors
+  - heart disease
+  - nutritional-quality-assessment
+primaryKeyword: olive oil heart health carotid plaque seniors
+topicCluster: nutritional-quality-assessment
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60
+  - >-
+    the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
+  - >-
+    quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp
+  - >-
+    the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
 ---
 
 # Olive Oil Heart Health for Seniors With Carotid Plaque: Why “Extra Virgin” Alone Isn’t Enough

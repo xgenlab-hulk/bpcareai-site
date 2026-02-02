@@ -1,14 +1,33 @@
 ---
-title: "The Truth About 'Heart-Healthy' Oat Milk: Does Fortified Beta-Glucan Delivery Differ in Adults 66+ With Stage 3 CKD vs. Those With Normal eGFR?"
-slug: "the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr"
-description: "Analyzes how renal impairment alters oat beta-glucan bioavailability and LDL-lowering efficacy—and why standard oat milk labels mislead older adults managing both CVD and chronic kidney disease."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["oat milk heart health kidney disease", "heart health", "nutritional-bioavailability-renal-comorbidity"]
-primaryKeyword: "oat milk heart health kidney disease"
-topicCluster: "nutritional-bioavailability-renal-comorbidity"
-image: ""
-relatedSlugs: ["the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims"]
+title: >-
+  The Truth About 'Heart-Healthy' Oat Milk: Does Fortified Beta-Glucan Delivery
+  Differ in Adults 66+ With Stage 3 CKD vs. Those With Normal eGFR?
+slug: >-
+  the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr
+description: >-
+  Analyzes how renal impairment alters oat beta-glucan bioavailability and
+  LDL-lowering efficacy—and why standard oat milk labels mislead older adults
+  managing both CVD and chronic kidney disease.
+date: '2026-01-26'
+updated: '2026-01-26'
+tags:
+  - oat milk heart health kidney disease
+  - heart health
+  - nutritional-bioavailability-renal-comorbidity
+primaryKeyword: oat milk heart health kidney disease
+topicCluster: nutritional-bioavailability-renal-comorbidity
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
+  - >-
+    myths-vs-facts-normal-fasting-glucose-readings-in-adults-with-diabetes-and-chronic-kidney-disease-stage-3a-why-your-lab-may-be-missing-early-glycemic-dysregulation
+  - >-
+    a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd
+  - >-
+    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
+  - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
 ---
 
 # Oat Milk, Heart Health, and Kidney Disease: What Adults 66+ with Stage 3 CKD Should Know

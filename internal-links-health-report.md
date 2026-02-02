@@ -1,12 +1,12 @@
 # 内链健康分析报告
-**生成时间**: 2026/1/26 03:52:14
+**生成时间**: 2026/2/2 04:18:29
 
 ## 一、总体健康度
 
-- **总文章数**: 1324
-- **符合要求** (3-5个内链): 1324 篇 (100.0%)
-- **平均内链数**: 4.94
-- **双向链接覆盖率**: 13.1%
+- **总文章数**: 1534
+- **符合要求** (3-5个内链): 1534 篇 (100.0%)
+- **平均内链数**: 4.96
+- **双向链接覆盖率**: 11.8%
 
 ### 健康评分: 54/100
 
@@ -16,13 +16,13 @@
 
 | 内链数量 | 文章数 | 占比 | 状态 |
 |---------|--------|------|------|
-| 3 | 23 | 1.7% | ✅ 符合要求 |
-| 4 | 27 | 2.0% | ✅ 符合要求 |
-| 5 | 1274 | 96.2% | ✅ 符合要求 |
+| 3 | 16 | 1.0% | ✅ 符合要求 |
+| 4 | 28 | 1.8% | ✅ 符合要求 |
+| 5 | 1490 | 97.1% | ✅ 符合要求 |
 
 ## 三、孤岛文章分析
 
-⚠️ 发现 **203** 篇孤岛文章（无其他文章链接到它）：
+⚠️ 发现 **247** 篇孤岛文章（无其他文章链接到它）：
 
 - the-connection-between-rheumatoid-arthritis-and-heart-disease
 - how-to-create-a-blood-sugar-emergency-kit-for-holiday-travel
@@ -34,7 +34,7 @@
 - how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
 - is-sugar-free-living-necessary-for-diabetics-over-50
 - christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
-- ...及其他 193 篇
+- ...及其他 237 篇
 
 ## 四、TopicCluster 连通性
 
@@ -53,7 +53,6 @@
 | diabetic-diet-cooking | 100.0% | ✅ 优秀 |
 | nutritious-recipes | 100.0% | ✅ 优秀 |
 | risk-factors | 100.0% | ✅ 优秀 |
-| causes-risk-factors | 100.0% | ✅ 优秀 |
 | diabetic-diet-beverages | 100.0% | ✅ 优秀 |
 | emergency-response-tactics | 100.0% | ✅ 优秀 |
 | seasonal-physiological-effects | 100.0% | ✅ 优秀 |
@@ -127,7 +126,6 @@
 | acute-risk-events | 100.0% | ✅ 优秀 |
 | comparative-analysis | 100.0% | ✅ 优秀 |
 | medication-adherence-challenges | 100.0% | ✅ 优秀 |
-| medications-supplements | 100.0% | ✅ 优秀 |
 | eating-habits | 100.0% | ✅ 优秀 |
 | comparison-analysis | 100.0% | ✅ 优秀 |
 | senior-specific-nutrition | 100.0% | ✅ 优秀 |
@@ -916,7 +914,6 @@
 | frailty-informed-cgm-interpretation | 100.0% | ✅ 优秀 |
 | immune-vascular-interface | 100.0% | ✅ 优秀 |
 | gastrointestinal-emergency | 100.0% | ✅ 优秀 |
-| medication-safety-alert | 100.0% | ✅ 优秀 |
 | mitochondrial-glycemic-dysregulation | 100.0% | ✅ 优秀 |
 | circadian-glucose-reset | 100.0% | ✅ 优秀 |
 | nutraceutical-vascular-effects | 100.0% | ✅ 优秀 |
@@ -1055,6 +1052,194 @@
 | diet-nutrition-lipid-glucose-balance | 100.0% | ✅ 优秀 |
 | myths-vs-facts-cardiac-risk | 100.0% | ✅ 优秀 |
 | respiratory-oxidative-stress | 100.0% | ✅ 优秀 |
+| arrhythmia-travel-safety | 100.0% | ✅ 优秀 |
+| mindful-exercise-hypertension | 100.0% | ✅ 优秀 |
+| valvular-disease-monitoring | 100.0% | ✅ 优秀 |
+| electrolyte-afib-pi-interaction | 100.0% | ✅ 优秀 |
+| home-monitoring-pattern-recognition | 100.0% | ✅ 优秀 |
+| gut-microbiome-nutrition | 100.0% | ✅ 优秀 |
+| environmental-risk-management | 100.0% | ✅ 优秀 |
+| medication-mitochondria | 100.0% | ✅ 优秀 |
+| subclinical-symptom-recognition | 100.0% | ✅ 优秀 |
+| vascular-reactivity-beverage-comparison | 100.0% | ✅ 优秀 |
+| electrolyte-balance-ssri-thiazide | 100.0% | ✅ 优秀 |
+| meal-timing-physiology | 100.0% | ✅ 优秀 |
+| bp-log-interpretation | 100.0% | ✅ 优秀 |
+| neurocognitive-histamine-mthfr | 100.0% | ✅ 优秀 |
+| renal-potassium-toxicity-dietary | 100.0% | ✅ 优秀 |
+| risk-factors-midlife | 100.0% | ✅ 优秀 |
+| pancreatic-enzyme-stability-diet | 100.0% | ✅ 优秀 |
+| monitoring-limitations | 100.0% | ✅ 优秀 |
+| gender-sleep-hypertension | 100.0% | ✅ 优秀 |
+| medication-cognition | 100.0% | ✅ 优秀 |
+| autonomic-function-elderly | 100.0% | ✅ 优秀 |
+| symptoms-silent-signs | 100.0% | ✅ 优秀 |
+| sensory-nutrition-sodium-adherence | 100.0% | ✅ 优秀 |
+| gastroesophageal-reflux-detection | 100.0% | ✅ 优秀 |
+| advanced-imaging-myths | 100.0% | ✅ 优秀 |
+| vascular-physiology-research | 100.0% | ✅ 优秀 |
+| nutritional-bioavailability-renal-comorbidity | 100.0% | ✅ 优秀 |
+| nutritional-fall-prevention | 100.0% | ✅ 优秀 |
+| lipid-kinetics-diet-myth-busting | 100.0% | ✅ 优秀 |
+| inflammatory-arthritis-nutrition | 100.0% | ✅ 优秀 |
+| circadian-rhythm-ckd | 100.0% | ✅ 优秀 |
+| calcium-score-interpretation | 100.0% | ✅ 优秀 |
+| lifestyle-stress-metabolism | 100.0% | ✅ 优秀 |
+| polypharmacy-hypertension | 100.0% | ✅ 优秀 |
+| cardiac-metabolism | 100.0% | ✅ 优秀 |
+| swallowing-safety-vocal-atrophy | 100.0% | ✅ 优秀 |
+| psychosocial-vascular-health | 100.0% | ✅ 优秀 |
+| environmental-risks | 100.0% | ✅ 优秀 |
+| pharmacotherapy-gut-heart-axis | 100.0% | ✅ 优秀 |
+| functional-food-intervention | 100.0% | ✅ 优秀 |
+| vascular-health-interventions | 100.0% | ✅ 优秀 |
+| exercise-timing-bp | 100.0% | ✅ 优秀 |
+| prediabetes-social-nutrition | 100.0% | ✅ 优秀 |
+| cerebrovascular-perfusion-strategies | 100.0% | ✅ 优秀 |
+| post-crisis-recovery | 100.0% | ✅ 优秀 |
+| neurogenic-hypertension | 100.0% | ✅ 优秀 |
+| circadian-metabolism-shift-work | 100.0% | ✅ 优秀 |
+| environmental-triggers-seasonal-cardiovascular-risk | 100.0% | ✅ 优秀 |
+| atrial-remodeling | 100.0% | ✅ 优秀 |
+| recovery-nutrition | 100.0% | ✅ 优秀 |
+| natural-remedies-muscle-metabolism | 100.0% | ✅ 优秀 |
+| oncology-cardiology-interaction | 100.0% | ✅ 优秀 |
+| rare-cardiomyopathy-diagnosis | 100.0% | ✅ 优秀 |
+| diet-nutrition-renal-safety | 100.0% | ✅ 优秀 |
+| medication-gut-interactions | 100.0% | ✅ 优秀 |
+| diagnostic-clues-women | 100.0% | ✅ 优秀 |
+| circadian-bp-parkinsons | 100.0% | ✅ 优秀 |
+| gender-specific-infiltrative-cardiomyopathy | 100.0% | ✅ 优秀 |
+| hfpef-detection-women | 100.0% | ✅ 优秀 |
+| reflux-physiology-interventions | 100.0% | ✅ 优秀 |
+| autoimmune-thyroid-diet | 100.0% | ✅ 优秀 |
+| cellular-repair-mechanisms | 100.0% | ✅ 优秀 |
+| diagnostic-testing-guide | 100.0% | ✅ 优秀 |
+| rare-acute-complications | 100.0% | ✅ 优秀 |
+| gender-hormonal-interactions | 100.0% | ✅ 优秀 |
+| diagnosis-differentiation | 100.0% | ✅ 优秀 |
+| intervention-evidence-review | 100.0% | ✅ 优秀 |
+| cerebrovascular-meal-timing | 100.0% | ✅ 优秀 |
+| endocrine-circadian-interplay | 100.0% | ✅ 优秀 |
+| circadian-intervention-comparison | 100.0% | ✅ 优秀 |
+| vascular-function-boost | 100.0% | ✅ 优秀 |
+| microvascular-protection | 100.0% | ✅ 优秀 |
+| oral-digestion-enzyme-support | 100.0% | ✅ 优秀 |
+| neurocognitive-protection | 100.0% | ✅ 优秀 |
+| food-allergy-baking-safety | 100.0% | ✅ 优秀 |
+| psychosocial-interventions | 100.0% | ✅ 优秀 |
+| fluid-balance-nutrition | 100.0% | ✅ 优秀 |
+| metabolic-dysfunction-biomarkers | 100.0% | ✅ 优秀 |
+| frailty-cachexia-cardiovascular-prognosis | 100.0% | ✅ 优秀 |
+| renal-sodium-handling | 100.0% | ✅ 优秀 |
+| ibs-c-fiber-nutrition-women | 100.0% | ✅ 优秀 |
+| digestive-physiology-stress-response | 100.0% | ✅ 优秀 |
+| diagnosis-testing | 100.0% | ✅ 优秀 |
+| vegetable-prep-endothelial-impact | 100.0% | ✅ 优秀 |
+| gastrointestinal-comorbidity-diet | 100.0% | ✅ 优秀 |
+| endothelial-function-restoration | 100.0% | ✅ 优秀 |
+| glycemic-response-diet | 100.0% | ✅ 优秀 |
+| gut-heart-axis | 100.0% | ✅ 优秀 |
+| exercise-prescription-paediatric | 100.0% | ✅ 优秀 |
+| neurovascular-diet-interactions | 100.0% | ✅ 优秀 |
+| exercise-physiology-mechanisms | 100.0% | ✅ 优秀 |
+| food-labeling-deception | 100.0% | ✅ 优秀 |
+| truth-verification | 100.0% | ✅ 优秀 |
+| neurological-complications-elderly | 100.0% | ✅ 优秀 |
+| circadian-metabolic-regulation | 100.0% | ✅ 优秀 |
+| hepatic-digestive-sweetener-safety | 100.0% | ✅ 优秀 |
+| cerebral-perfusion-symptoms | 100.0% | ✅ 优秀 |
+| vagal-tone-diet-strategies | 100.0% | ✅ 优秀 |
+| postprandial-autonomic-management | 100.0% | ✅ 优秀 |
+| culturally-adapted-glucose-modulation | 100.0% | ✅ 优秀 |
+| processed-food-electrolyte-impact | 100.0% | ✅ 优秀 |
+| symptom-discrimination | 100.0% | ✅ 优秀 |
+| environmental-stress-diabetes-safety | 100.0% | ✅ 优秀 |
+| intergenerational-meal-planning | 100.0% | ✅ 优秀 |
+| lab-test-interpretation | 100.0% | ✅ 优秀 |
+| food-labeling-gastrointestinal-safety | 100.0% | ✅ 优秀 |
+| structural-renal-hypertension | 100.0% | ✅ 优秀 |
+| hormonal-metabolic-interplay | 100.0% | ✅ 优秀 |
+| glycemic-response-triggers | 100.0% | ✅ 优秀 |
+| neurobehavioral-nutrition | 100.0% | ✅ 优秀 |
+| autonomic-modulation-glucose-control | 100.0% | ✅ 优秀 |
+| microbiome-fungal-metabolic-crosstalk | 100.0% | ✅ 优秀 |
+| caregiving-hemodynamic-stress | 100.0% | ✅ 优秀 |
+| exercise-timing-glucose-response | 100.0% | ✅ 优秀 |
+| cooking-method-physiology | 100.0% | ✅ 优秀 |
+| ophthalmic-early-detection | 100.0% | ✅ 优秀 |
+| seasonal-foot-complication-prevention | 100.0% | ✅ 优秀 |
+| microbiome-recovery | 100.0% | ✅ 优秀 |
+| digestive-physiology-optimization | 100.0% | ✅ 优秀 |
+| gastrointestinal-safe-snacking | 100.0% | ✅ 优秀 |
+| glucose-dynamics-circadian | 100.0% | ✅ 优秀 |
+| acute-condition-glucose-dysregulation | 100.0% | ✅ 优秀 |
+| acute-autonomic-interventions | 100.0% | ✅ 优秀 |
+| alcohol-physiology-modulation | 100.0% | ✅ 优秀 |
+| thermal-stress-autoregulation | 100.0% | ✅ 优秀 |
+| acute-endothelial-food-interventions | 100.0% | ✅ 优秀 |
+| environmental-sleep-bp-disruption | 100.0% | ✅ 优秀 |
+| low-impact-exercise-hypertension | 100.0% | ✅ 优秀 |
+| pre-hypertensive-vascular-signs-women | 100.0% | ✅ 优秀 |
+| cardiac-symptoms-warning-signs | 100.0% | ✅ 优秀 |
+| processed-food-labeling | 100.0% | ✅ 优秀 |
+| nocturnal-respiratory-hemodynamics | 100.0% | ✅ 优秀 |
+| lipid-metabolism-timing-strategies | 100.0% | ✅ 优秀 |
+| antioxidant-interventions | 100.0% | ✅ 优秀 |
+| gastro-cardiac-connection | 100.0% | ✅ 优秀 |
+| caffeine-timing-physiology | 100.0% | ✅ 优秀 |
+| gastrointestinal-emergency-signs | 100.0% | ✅ 优秀 |
+| diabetes-typing-differential-diagnosis | 100.0% | ✅ 优秀 |
+| beverage-comparison-endothelial-health | 100.0% | ✅ 优秀 |
+| glycemic-response-diet-nutrition | 100.0% | ✅ 优秀 |
+| neuroendocrine-appetite-regulation | 100.0% | ✅ 优秀 |
+| travel-physiology-hypertension | 100.0% | ✅ 优秀 |
+| pharmacologic-renal-vascular-interaction | 100.0% | ✅ 优秀 |
+| nutrient-toxicity-warning-signs | 100.0% | ✅ 优秀 |
+| glycemic-marker-reliability | 100.0% | ✅ 优秀 |
+| gastrointestinal-diet-snacks | 100.0% | ✅ 优秀 |
+| dawn-hypoglycemia-mechanisms | 100.0% | ✅ 优秀 |
+| glucose-stability-targeted-interventions | 100.0% | ✅ 优秀 |
+| environmental-humidity-vascular-impact | 100.0% | ✅ 优秀 |
+| renal-diet-practical-guidance | 100.0% | ✅ 优秀 |
+| medication-safety-frail-elderly | 100.0% | ✅ 优秀 |
+| autoimmune-diet-myths-facts | 100.0% | ✅ 优秀 |
+| autonomic-reflex-recovery | 100.0% | ✅ 优秀 |
+| beta-cell-recovery-interventions | 100.0% | ✅ 优秀 |
+| glycemic-buffering-strategies | 100.0% | ✅ 优秀 |
+| autonomic-dysfunction-cardiac-reserve | 100.0% | ✅ 优秀 |
+| gut-brain-cardiovascular-axis | 100.0% | ✅ 优秀 |
+| hfpef-nonpharmacologic-interventions | 100.0% | ✅ 优秀 |
+| right-heart-dysfunction-mimics | 100.0% | ✅ 优秀 |
+| structural-cardiac-changes | 100.0% | ✅ 优秀 |
+| oral-motor-nutrition | 100.0% | ✅ 优秀 |
+| microbiome-metabolite-pathways | 100.0% | ✅ 优秀 |
+| food-safety-medication-interactions | 100.0% | ✅ 优秀 |
+| hydration-strategy-elderly | 100.0% | ✅ 优秀 |
+| stress-metabolism-connection | 100.0% | ✅ 优秀 |
+| non-pharmacologic-interventions | 100.0% | ✅ 优秀 |
+| circadian-meal-timing | 100.0% | ✅ 优秀 |
+| rehab-accessibility-barriers | 100.0% | ✅ 优秀 |
+| gender-hormonal-transitions | 100.0% | ✅ 优秀 |
+| cardiovascular-diet-safety | 100.0% | ✅ 优秀 |
+| frailty-exercise-safety | 100.0% | ✅ 优秀 |
+| nutrient-fibrosis-modulation | 100.0% | ✅ 优秀 |
+| environmental-cardiac-stressors | 100.0% | ✅ 优秀 |
+| polypharmacy-cardiac-risks | 100.0% | ✅ 优秀 |
+| exercise-safety-comorbidities | 100.0% | ✅ 优秀 |
+| early-detection-cardiac-amyloidosis | 100.0% | ✅ 优秀 |
+| lipoprotein-a-modulation | 100.0% | ✅ 优秀 |
+| anp-circadian-rhythm-restoration | 100.0% | ✅ 优秀 |
+| nutritional-quality-assessment | 100.0% | ✅ 优秀 |
+| self-monitoring-data-literacy | 100.0% | ✅ 优秀 |
+| measurement-technique-biomechanics | 100.0% | ✅ 优秀 |
+| circadian-bp-monitoring-timing | 100.0% | ✅ 优秀 |
+| gastro-cardiac-interactions | 100.0% | ✅ 优秀 |
+| cooking-methods-cholesterol-oxidation | 100.0% | ✅ 优秀 |
+| vagal-toning-timing-comparison | 100.0% | ✅ 优秀 |
+| chrononutrition-elderly | 100.0% | ✅ 优秀 |
+| cardiac-medications-magnesium-interactions | 100.0% | ✅ 优秀 |
+| infiltrative-cardiomyopathy | 100.0% | ✅ 优秀 |
 | diabetes-risk-factors | 50.0% | ⚠️ 良好 |
 | environmental-factors | 50.0% | ⚠️ 良好 |
 | monitoring-accessibility | 50.0% | ⚠️ 良好 |
@@ -1070,6 +1255,7 @@
 | cardiac-complications | 50.0% | ⚠️ 良好 |
 | travel-physiology | 50.0% | ⚠️ 良好 |
 | treatment-safety-risk-assessment | 50.0% | ⚠️ 良好 |
+| pathophysiology-mechanisms | 50.0% | ⚠️ 良好 |
 | diabetes-complications | 46.7% | ❌ 需改进 |
 | diabetes-nutrition | 33.3% | ❌ 需改进 |
 | diabetes-lifestyle | 26.7% | ❌ 需改进 |
@@ -1078,21 +1264,23 @@
 | exercise-physical-activity | 16.7% | ❌ 需改进 |
 | seasonal-factors | 16.7% | ❌ 需改进 |
 | circadian-hypertension | 16.7% | ❌ 需改进 |
+| monitoring-technology-comparison | 16.7% | ❌ 需改进 |
 | cardiac-diet | 15.3% | ❌ 需改进 |
 | monitoring-testing | 15.0% | ❌ 需改进 |
 | circadian-metabolism | 11.9% | ❌ 需改进 |
 | diabetic-diet | 9.5% | ❌ 需改进 |
 | emotional-mental-health | 9.5% | ❌ 需改进 |
-| natural-remedies | 9.5% | ❌ 需改进 |
 | hypertension-lifestyle | 9.1% | ❌ 需改进 |
 | cardiovascular-risk | 8.5% | ❌ 需改进 |
 | prevention-strategies | 8.3% | ❌ 需改进 |
 | heart-health | 7.9% | ❌ 需改进 |
-| emergency-symptoms | 6.8% | ❌ 需改进 |
-| treatment-options | 5.0% | ❌ 需改进 |
-| gender-specific-concerns | 5.0% | ❌ 需改进 |
-| diet-nutrition | 2.3% | ❌ 需改进 |
-| lifestyle-modifications | 1.1% | ❌ 需改进 |
+| natural-remedies | 4.4% | ❌ 需改进 |
+| emergency-symptoms | 4.3% | ❌ 需改进 |
+| gender-specific-concerns | 3.3% | ❌ 需改进 |
+| treatment-options | 2.4% | ❌ 需改进 |
+| diet-nutrition | 1.9% | ❌ 需改进 |
+| lifestyle-modifications | 0.7% | ❌ 需改进 |
+| causes-risk-factors | 0.0% | ❌ 需改进 |
 | medication-safety | 0.0% | ❌ 需改进 |
 | muscle-health-nutrition | 0.0% | ❌ 需改进 |
 | mental-emotional-health | 0.0% | ❌ 需改进 |
@@ -1103,6 +1291,7 @@
 | sleep-health | 0.0% | ❌ 需改进 |
 | comorbidity-management | 0.0% | ❌ 需改进 |
 | complications-related-conditions | 0.0% | ❌ 需改进 |
+| medications-supplements | 0.0% | ❌ 需改进 |
 | myths-vs-facts | 0.0% | ❌ 需改进 |
 | symptom-recognition | 0.0% | ❌ 需改进 |
 | sleep-cardiovascular-link | 0.0% | ❌ 需改进 |
@@ -1110,16 +1299,16 @@
 | gastrointestinal-motility-support | 0.0% | ❌ 需改进 |
 | medication-diet-interaction | 0.0% | ❌ 需改进 |
 | exercise-modality-comparison | 0.0% | ❌ 需改进 |
-| monitoring-technology-comparison | 0.0% | ❌ 需改进 |
 | medication-food-interactions | 0.0% | ❌ 需改进 |
 | medication-interactions | 0.0% | ❌ 需改进 |
 | neurological-complications | 0.0% | ❌ 需改进 |
 | monitoring-accuracy | 0.0% | ❌ 需改进 |
+| medication-safety-alert | 0.0% | ❌ 需改进 |
 | caregiver-safety | 0.0% | ❌ 需改进 |
 
 ## 五、过度链接文章
 
-⚠️ 发现 **175** 篇文章被链接次数过多（>10次）：
+⚠️ 发现 **215** 篇文章被链接次数过多（>10次）：
 
 - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
 - the-hidden-link-between-gum-disease-and-heart-problems
@@ -1156,6 +1345,7 @@
 - can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
 - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 - why-blood-pressure-matters-even-if-you-feel-fine
+- why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
 - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
@@ -1194,6 +1384,7 @@
 - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
 - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
+- what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
 - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
 - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
 - how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
@@ -1206,6 +1397,7 @@
 - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
 - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
 - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+- the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
 - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
 - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
 - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
@@ -1217,7 +1409,11 @@
 - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
 - can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
 - the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
+- when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
+- the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+- what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
 - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+- 12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
 - 12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
 - simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
 - what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
@@ -1229,6 +1425,10 @@
 - red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
 - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 - quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+- what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
+- how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+- best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+- can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
 - when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 - the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
 - 12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
@@ -1239,15 +1439,19 @@
 - a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
 - why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 - 12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
+- how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
 - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 - 7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
 - can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 - the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
 - how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
 - natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+- 7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+- natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
 - 5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
 - how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
 - simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+- how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
 - how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 - why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
 - 10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
@@ -1255,6 +1459,7 @@
 - quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
 - the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
 - 7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+- when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
 - how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
 - when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
 - 7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
@@ -1267,41 +1472,65 @@
 - natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
 - warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
 - quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+- quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74
 - quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
 - 5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
 - how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
 - 7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+- how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 - the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
 - the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 - what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
 - 7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+- what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
 - warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
+- how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
 - can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
 - the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
+- best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 - quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
 - why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
 - warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+- a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+- natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+- can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
+- what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
 - can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
 - simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
 - 7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+- best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+- myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
+- best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
 - 10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+- best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
+- a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
+- 12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+- 7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
 - a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+- natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
 - dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
 - when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
 - what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+- quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
 - can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
 - can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+- warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
+- natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
+- how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+- natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
 - how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
 - how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+- myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
 - best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74
 - 12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
 - natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+- what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
 
 ## 六、优化建议
 
-2. **消除孤岛文章**: 203 篇文章没有被其他文章链接，建议通过双向链接优化改善
-3. **提升双向链接覆盖率**: 当前为 13.1%，建议目标 >60%
-4. **改善Cluster连通性**: 46 个主题集群内部连通性低于50%
+2. **消除孤岛文章**: 247 篇文章没有被其他文章链接，建议通过双向链接优化改善
+3. **提升双向链接覆盖率**: 当前为 11.8%，建议目标 >60%
+4. **改善Cluster连通性**: 49 个主题集群内部连通性低于50%
 
 ---
 *本报告由 BPCare AI 内链分析系统自动生成*

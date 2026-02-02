@@ -1,14 +1,32 @@
 ---
-title: "Warning Signs of Diabetic Myonecrosis in Adults 58+ With Long-Term Poor Control and Unilateral Thigh Pain — Often Misdiagnosed as Sciatica or DVT"
-slug: "warning-signs-of-diabetic-myonecrosis-in-adults-58-with-long-term-poor-control-and-unilateral-thigh-pain-often-misdiagnosed-as-sciatica-or-dvt"
-description: "Describes the MRI-confirmed presentation, distinguishes it from rhabdomyolysis and compartment syndrome, and outlines urgent referral criteria to avoid unnecessary anticoagulation."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["diabetic myonecrosis thigh pain warning signs", "diabetes", "rare-acute-complications"]
-primaryKeyword: "diabetic myonecrosis thigh pain warning signs"
-topicCluster: "rare-acute-complications"
-image: ""
-relatedSlugs: ["when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use"]
+title: >-
+  Warning Signs of Diabetic Myonecrosis in Adults 58+ With Long-Term Poor
+  Control and Unilateral Thigh Pain — Often Misdiagnosed as Sciatica or DVT
+slug: >-
+  warning-signs-of-diabetic-myonecrosis-in-adults-58-with-long-term-poor-control-and-unilateral-thigh-pain-often-misdiagnosed-as-sciatica-or-dvt
+description: >-
+  Describes the MRI-confirmed presentation, distinguishes it from rhabdomyolysis
+  and compartment syndrome, and outlines urgent referral criteria to avoid
+  unnecessary anticoagulation.
+date: '2026-01-28'
+updated: '2026-01-28'
+tags:
+  - diabetic myonecrosis thigh pain warning signs
+  - diabetes
+  - rare-acute-complications
+primaryKeyword: diabetic myonecrosis thigh pain warning signs
+topicCluster: rare-acute-complications
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
+  - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
+  - myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
+  - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older
 ---
 
 # Diabetic Myonecrosis Thigh Pain Warning Signs: What Adults 58+ With Long-Term Diabetes Need to Know
