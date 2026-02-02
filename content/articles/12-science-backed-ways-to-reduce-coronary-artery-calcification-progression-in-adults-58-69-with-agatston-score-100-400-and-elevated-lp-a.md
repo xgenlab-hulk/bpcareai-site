@@ -26,6 +26,8 @@ relatedSlugs:
     how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
   - >-
     simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
 ---
 
 # 12 Evidence-Based Strategies to Slow Coronary Artery Calcification Progression in Adults 58–69 With Moderate CAC and High Lp(a)

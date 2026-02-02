@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "title": "How Late-Night Gift Wrapping Affects Overnight Insulin Sensitivity in Women 58–72 With Perimenopausal Insulin Resistance",
+    "description": "Examines the circadian disruption caused by holiday-related nocturnal activity and its measurable impact on fasting glucose, HbA1c drift, and nocturnal hypoglycemia risk — with actionable timing adjustments.",
+    "primaryKeyword": "late-night activity insulin sensitivity women",
+    "topicCluster": "circadian-glucose-rhythms",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-02T04:33:08.687Z"
+  },
+  {
+    "title": "A vs B: 10-Minute Post-Dinner Walking After Holiday Dinner vs. 5-Minute Deep Breathing — Impact on 2-Hour Postprandial Glucose in Adults 66+ With Obesity and Sleep Apnea",
+    "description": "Compares two accessible, non-pharmacologic interventions using real-world CGM data — highlighting which strategy reduces glucose excursions more consistently in high-risk older adults with overlapping comorbidities.",
+    "primaryKeyword": "post-dinner walking vs breathing glucose",
+    "topicCluster": "nonpharmacologic-intervention-comparison",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-02T04:33:16.500Z"
+  },
+  {
+    "title": "Natural Ways to Support Glycemic Resilience During Holiday Social Events — Without Supplements or Diet Pills — for Adults 55–64 Newly Diagnosed With Type 2 Diabetes",
+    "description": "Focuses on behavioral micro-adjustments: strategic plate sequencing, breath-hold pre-meal technique, and conversation-based pacing — all validated in recent behavioral diabetes trials for early-stage patients.",
+    "primaryKeyword": "glycemic resilience holiday social events",
+    "topicCluster": "behavioral-glucose-modulation",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-02T04:33:18.545Z"
+  },
+  {
+    "title": "12 Science-Backed Times to Check Your Glucose During the Holidays — Based on Circadian AMPK Activation Peaks in Adults 70+ With Sarcopenia and Insulin Resistance",
+    "description": "Moves beyond 'fasting and post-meal' to prescribe precise, physiology-aligned monitoring windows — tied to muscle glucose uptake rhythms, cortisol surges, and meal timing variability.",
+    "primaryKeyword": "best times check glucose holidays seniors",
+    "topicCluster": "precision-glucose-monitoring",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-02T04:33:20.502Z"
+  },
+  {
+    "title": "How Intergenerational Cooking Stress Elevates Cortisol-Driven Dawn Phenomenon in Men 62+ With Long-Term Type 2 Diabetes and Untreated Sleep Disordered Breathing",
+    "description": "Analyzes the hormonal cascade triggered by holiday kitchen demands — linking elevated overnight cortisol, blunted melatonin, and amplified morning glucose spikes — with low-barrier mitigation strategies.",
+    "primaryKeyword": "intergenerational cooking cortisol dawn phenomenon",
+    "topicCluster": "stress-hormone-glucose-link",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-02T04:33:24.392Z"
+  }
+]

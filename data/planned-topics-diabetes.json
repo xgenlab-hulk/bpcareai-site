@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "title": "How Chronic Low-Grade Inflammation From Untreated Gum Disease Accelerates Insulin Resistance in Adults 58–72 With Prediabetes",
+    "description": "Examines the oral-systemic link between periodontitis and metabolic dysfunction, with actionable screening and intervention guidance for dental and primary care collaboration.",
+    "primaryKeyword": "gum disease insulin resistance prediabetes",
+    "topicCluster": "causes-inflammation-oral-health",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:01.713Z"
+  },
+  {
+    "title": "The Truth About 'Diabetes-Friendly' Protein Bars Marketed to Seniors 70+ — Why 82% Contain Hidden Maltitol That Spikes Postprandial Glucose",
+    "description": "Debunks misleading labeling on commercial snacks, analyzing glycemic impact of sugar alcohols and offering lab-tested alternatives for older adults with slow gastric emptying.",
+    "primaryKeyword": "diabetes friendly protein bars seniors",
+    "topicCluster": "truth-labeling-nutrition",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:03.703Z"
+  },
+  {
+    "title": "12 Science-Backed Times of Day to Test Fasting Glucose — Based on Circadian Rhythms of Hepatic Gluconeogenesis in Adults 63+ With Dawn Phenomenon",
+    "description": "Moves beyond 'first thing in the morning' advice by aligning home glucose monitoring with liver enzyme cycles, cortisol surges, and age-related circadian shifts.",
+    "primaryKeyword": "best time to test fasting glucose seniors",
+    "topicCluster": "monitoring-circadian-rhythms",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:07.777Z"
+  },
+  {
+    "title": "A vs B: 3-Minute Post-Meal Standing vs. 90-Second Heel-Toe Rocking — Impact on 2-Hour Postprandial Glucose in Adults 74+ With Gastroparesis-Like Symptoms",
+    "description": "Compares two ultra-low-barrier physical interventions for glucose clearance in frail older adults with delayed gastric motility and orthostatic intolerance.",
+    "primaryKeyword": "post meal movement gastroparesis seniors",
+    "topicCluster": "a-vs-b-movement-interventions",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:11.918Z"
+  },
+  {
+    "title": "Warning Signs of Diabetic Foot Osteomyelitis That Appear *Before* Ulcer Formation in Adults 71+ With Peripheral Neuropathy and Chronic Edema",
+    "description": "Highlights pre-ulcer clinical cues — localized warmth without fever, subtle nail plate thickening, unexplained toe stiffness — often missed in routine podiatry exams.",
+    "primaryKeyword": "diabetic foot osteomyelitis warning signs",
+    "topicCluster": "complications-early-detection",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:13.892Z"
+  },
+  {
+    "title": "How Intermittent Use of Over-the-Counter NSAIDs for Back Pain Disrupts Renal Prostaglandin Balance — And Why That Raises Risk of Acute Kidney Injury in Adults 62+ With Stage 2 Diabetic Nephropathy",
+    "description": "Explains the pathophysiology behind NSAID-related AKI in early kidney disease, with safer analgesic sequencing and urine biomarker monitoring protocols.",
+    "primaryKeyword": "NSAIDs and kidney injury diabetes",
+    "topicCluster": "medications-renal-safety",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:17.982Z"
+  },
+  {
+    "title": "What Causes Sudden Onset of Nocturnal Hypoglycemia After Starting SGLT2 Inhibitors in Adults 69+ With Mild Cognitive Impairment and Nocturia?",
+    "description": "Investigates the intersection of renal glucose handling, sleep architecture disruption, and impaired hypoglycemia awareness — with overnight glucose prediction strategies.",
+    "primaryKeyword": "SGLT2 inhibitors nocturnal hypoglycemia seniors",
+    "topicCluster": "medications-side-effects",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:21.749Z"
+  },
+  {
+    "title": "Does Daily 10-Minute Barefoot Walking on Morning Grass *Really* Improve Glycemic Variability in Adults 68+ With Sedentary Lifestyle and Peripheral Neuropathy?",
+    "description": "Analyzes grounding (earthing) claims through the lens of autonomic balance, cortisol rhythm modulation, and microcirculatory effects — separating plausible mechanisms from pseudoscience.",
+    "primaryKeyword": "barefoot walking glycemic variability seniors",
+    "topicCluster": "natural-remedies-grounding-science",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:27.680Z"
+  },
+  {
+    "title": "10 Foods That *Worsen* Diabetic Retinopathy Progression — Even With Normal Blood Pressure and LDL — In Adults 60+ With Early Nonproliferative Changes",
+    "description": "Identifies specific dietary drivers (e.g., high-AGE grilled meats, oxidized seed oils, ultra-processed starches) that exacerbate retinal endothelial inflammation independent of classic risk markers.",
+    "primaryKeyword": "foods that worsen diabetic retinopathy",
+    "topicCluster": "diet-nutrition-eye-health",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:31.884Z"
+  },
+  {
+    "title": "When to Worry About Unexplained Weight Gain in Adults 55–69 With Type 2 Diabetes on GLP-1 Agonists — And How to Differentiate Fluid Retention From Adipose Expansion",
+    "description": "Provides clinical decision trees for assessing weight gain on GLP-1 RAs, including jugular venous pressure exam, bioimpedance basics, and renal sodium handling assessment.",
+    "primaryKeyword": "weight gain GLP-1 agonists diabetes",
+    "topicCluster": "medications-weight-monitoring",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:35.826Z"
+  },
+  {
+    "title": "7 Common Mistakes That Accelerate Diabetic Nephropathy Progression — Even With ACE Inhibitors and eGFR >60 — In Adults 67+ With Microalbuminuria",
+    "description": "Highlights overlooked contributors: nocturnal BP dipping loss, high-sodium breakfasts, unmonitored NSAID use, and delayed uric acid management — with practical correction steps.",
+    "primaryKeyword": "mistakes worsening diabetic nephropathy",
+    "topicCluster": "complications-prevention-mistakes",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-02T04:30:39.775Z"
+  }
+]
