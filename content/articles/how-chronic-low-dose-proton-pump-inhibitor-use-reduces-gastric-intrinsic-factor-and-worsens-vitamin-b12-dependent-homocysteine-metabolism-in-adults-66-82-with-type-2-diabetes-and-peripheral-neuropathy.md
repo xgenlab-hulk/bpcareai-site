@@ -25,6 +25,8 @@ relatedSlugs:
     warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
   - >-
     natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
+  - >-
+    warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis
 ---
 
 # How Long-Term PPI Use Affects Vitamin B12, Nerves, and Heart Health in Adults With Diabetes and Neuropathy

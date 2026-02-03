@@ -1,5 +1,665 @@
 [
   {
+    "slug": "when-to-worry-about-unexplained-weight-gain-in-adults-55-69-with-type-2-diabetes-on-glp-1-agonists-and-how-to-differentiate-fluid-retention-from-adipose-expansion",
+    "title": "When to Worry About Unexplained Weight Gain in Adults 55–69 With Type 2 Diabetes on GLP-1 Agonists — And How to Differentiate Fluid Retention From Adipose Expansion",
+    "description": "Provides clinical decision trees for assessing weight gain on GLP-1 RAs, including jugular venous pressure exam, bioimpedance basics, and renal sodium handling assessment.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "weight gain GLP-1 agonists diabetes",
+      "diabetes",
+      "medications-weight-monitoring"
+    ],
+    "primaryKeyword": "weight gain GLP-1 agonists diabetes",
+    "topicCluster": "medications-weight-monitoring",
+    "image": "",
+    "relatedSlugs": [
+      "5-things-every-woman-68-with-gestational-diabetes-history-should-know-before-starting-glp-1-agonist-therapy",
+      "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists",
+      "how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes",
+      "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60",
+      "when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone"
+    ]
+  },
+  {
+    "slug": "when-to-worry-about-sudden-appetite-suppression-at-christmas-dinner-a-red-flag-for-early-sarcopenia-or-subclinical-hypothyroidism-in-women-65-79",
+    "title": "When to Worry About Sudden Appetite Suppression at Christmas Dinner — A Red Flag for Early Sarcopenia or Subclinical Hypothyroidism in Women 65–79",
+    "description": "Links acute loss of interest in food during festive meals to muscle mass decline, TSH/T3 ratio shifts, and inflammation markers — distinguishing it from normal aging or holiday stress.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "appetite suppression holiday dinner seniors",
+      "healthy eating during family gatherings",
+      "early-sarcopenia-detection"
+    ],
+    "primaryKeyword": "appetite suppression holiday dinner seniors",
+    "topicCluster": "early-sarcopenia-detection",
+    "image": "",
+    "relatedSlugs": [
+      "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60",
+      "warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines",
+      "5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily",
+      "4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts",
+      "warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness"
+    ]
+  },
+  {
+    "slug": "when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d",
+    "title": "When to Suspect Early Gut Microbiome Shifts After Holiday Pie Consumption — Even Without Diarrhea or Bloating — In Adults 65+ With Stable IBS-D",
+    "description": "Highlights subtle biomarkers: altered stool odor intensity, delayed transit time despite normal frequency, and shifts in morning energy patterns linked to butyrate production dips.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "gut microbiome shifts holiday pie",
+      "healthy eating during family gatherings",
+      "microbiome-shift-detection"
+    ],
+    "primaryKeyword": "gut microbiome shifts holiday pie",
+    "topicCluster": "microbiome-shift-detection",
+    "image": "",
+    "relatedSlugs": [
+      "quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs",
+      "how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80",
+      "how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af",
+      "what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65",
+      "what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-onset-of-nocturnal-hypoglycemia-after-starting-sglt2-inhibitors-in-adults-69-with-mild-cognitive-impairment-and-nocturia",
+    "title": "What Causes Sudden Onset of Nocturnal Hypoglycemia After Starting SGLT2 Inhibitors in Adults 69+ With Mild Cognitive Impairment and Nocturia?",
+    "description": "Investigates the intersection of renal glucose handling, sleep architecture disruption, and impaired hypoglycemia awareness — with overnight glucose prediction strategies.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "SGLT2 inhibitors nocturnal hypoglycemia seniors",
+      "diabetes",
+      "medications-side-effects"
+    ],
+    "primaryKeyword": "SGLT2 inhibitors nocturnal hypoglycemia seniors",
+    "topicCluster": "medications-side-effects",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use",
+      "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes",
+      "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation",
+      "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone",
+      "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-onset-of-bloating-and-abdominal-distension-after-eating-mashed-potatoes-at-family-gatherings-even-in-adults-63-with-no-known-celiac-disease",
+    "title": "What Causes Sudden Onset of Bloating and Abdominal Distension After Eating Mashed Potatoes at Family Gatherings — Even in Adults 63+ With No Known Celiac Disease?",
+    "description": "Investigates resistant starch degradation patterns, commercial potato starch additives, and gut microbiome shifts triggered by high-amylose foods in aging digestive tracts.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "bloating mashed potatoes seniors",
+      "healthy eating during family gatherings",
+      "starch-digestion-aging-gut"
+    ],
+    "primaryKeyword": "bloating mashed potatoes seniors",
+    "topicCluster": "starch-digestion-aging-gut",
+    "image": "",
+    "relatedSlugs": [
+      "the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture",
+      "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis",
+      "best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux",
+      "when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d",
+      "best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c"
+    ]
+  },
+  {
+    "slug": "warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis",
+    "title": "Warning Signs of Subclinical Vitamin B12 Malabsorption Triggered by Holiday Ham and Roast Beef — In Adults 70+ Taking PPIs or With Atrophic Gastritis",
+    "description": "Identifies subtle neurologic and hematologic changes (e.g., unexplained gait instability, reduced vibratory sense, macrocytosis without anemia) appearing 2–4 weeks post-holiday meat consumption.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "b12 malabsorption holiday meat",
+      "healthy eating during family gatherings",
+      "micronutrient-malabsorption-signs"
+    ],
+    "primaryKeyword": "b12 malabsorption holiday meat",
+    "topicCluster": "micronutrient-malabsorption-signs",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12",
+      "when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals",
+      "how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy",
+      "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72",
+      "what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings"
+    ]
+  },
+  {
+    "slug": "warning-signs-of-diabetic-foot-osteomyelitis-that-appear-before-ulcer-formation-in-adults-71-with-peripheral-neuropathy-and-chronic-edema",
+    "title": "Warning Signs of Diabetic Foot Osteomyelitis That Appear *Before* Ulcer Formation in Adults 71+ With Peripheral Neuropathy and Chronic Edema",
+    "description": "Highlights pre-ulcer clinical cues — localized warmth without fever, subtle nail plate thickening, unexplained toe stiffness — often missed in routine podiatry exams.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "diabetic foot osteomyelitis warning signs",
+      "diabetes",
+      "complications-early-detection"
+    ],
+    "primaryKeyword": "diabetic foot osteomyelitis warning signs",
+    "topicCluster": "complications-early-detection",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy",
+      "warning-signs-of-diabetic-myonecrosis-in-adults-58-with-long-term-poor-control-and-unilateral-thigh-pain-often-misdiagnosed-as-sciatica-or-dvt",
+      "simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters",
+      "7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c",
+      "5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers"
+    ]
+  },
+  {
+    "slug": "the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose",
+    "title": "The Truth About 'Diabetes-Friendly' Protein Bars Marketed to Seniors 70+ — Why 82% Contain Hidden Maltitol That Spikes Postprandial Glucose",
+    "description": "Debunks misleading labeling on commercial snacks, analyzing glycemic impact of sugar alcohols and offering lab-tested alternatives for older adults with slow gastric emptying.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "diabetes friendly protein bars seniors",
+      "diabetes",
+      "truth-labeling-nutrition"
+    ],
+    "primaryKeyword": "diabetes friendly protein bars seniors",
+    "topicCluster": "truth-labeling-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75",
+      "the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy",
+      "the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60",
+      "the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes",
+      "the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-navigating-potluck-contributions-when-you-re-79-with-severe-orthostatic-hypotension-and-nocturnal-polyuria",
+    "title": "The Complete Guide to Navigating Potluck Contributions When You’re 79+ With Severe Orthostatic Hypotension and Nocturnal Polyuria",
+    "description": "Covers safe transport temps, low-sodium/low-caffeine dish selection, timing of contribution drop-off to avoid BP crashes, and discreet hydration integration into shared dishes.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "potluck contributions orthostatic hypotension",
+      "healthy eating during family gatherings",
+      "orthostatic-potluck-strategy"
+    ],
+    "primaryKeyword": "potluck contributions orthostatic hypotension",
+    "topicCluster": "orthostatic-potluck-strategy",
+    "image": "",
+    "relatedSlugs": [
+      "the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70",
+      "what-are-the-safest-holiday-dessert-swaps-for-adults-80-with-severe-orthostatic-hypotension-and-nocturnal-polyuria",
+      "can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability",
+      "the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72",
+      "5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-interpreting-home-pulse-oximetry-trends-not-just-spo2-for-adults-64-with-heart-failure-and-anemia",
+    "title": "The Complete Guide to Interpreting Home Pulse Oximetry Trends — Not Just SpO2 — For Adults 64+ With Heart Failure and Anemia",
+    "description": "Teaches how to read perfusion index (PI), pleth variability index (PVI), and waveform morphology to detect early decompensation — with visual reference charts and alarm thresholds.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "home pulse oximetry heart failure anemia seniors",
+      "heart disease",
+      "remote-monitoring-interpretation"
+    ],
+    "primaryKeyword": "home pulse oximetry heart failure anemia seniors",
+    "topicCluster": "remote-monitoring-interpretation",
+    "image": "",
+    "relatedSlugs": [
+      "the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function",
+      "warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue",
+      "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms",
+      "the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist",
+      "warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-glycemic-resilience-during-holiday-social-events-without-supplements-or-diet-pills-for-adults-55-64-newly-diagnosed-with-type-2-diabetes",
+    "title": "Natural Ways to Support Glycemic Resilience During Holiday Social Events — Without Supplements or Diet Pills — for Adults 55–64 Newly Diagnosed With Type 2 Diabetes",
+    "description": "Focuses on behavioral micro-adjustments: strategic plate sequencing, breath-hold pre-meal technique, and conversation-based pacing — all validated in recent behavioral diabetes trials for early-stage patients.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "glycemic resilience holiday social events",
+      "holiday diabetes management",
+      "behavioral-glucose-modulation"
+    ],
+    "primaryKeyword": "glycemic resilience holiday social events",
+    "topicCluster": "behavioral-glucose-modulation",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry",
+      "12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement",
+      "managing-type-2-diabetes-while-attending-back-to-back-holiday-parties",
+      "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes",
+      "5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck"
+    ]
+  },
+  {
+    "slug": "how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance",
+    "title": "How Late-Night Gift Wrapping Affects Overnight Insulin Sensitivity in Women 58–72 With Perimenopausal Insulin Resistance",
+    "description": "Examines the circadian disruption caused by holiday-related nocturnal activity and its measurable impact on fasting glucose, HbA1c drift, and nocturnal hypoglycemia risk — with actionable timing adjustments.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "late-night activity insulin sensitivity women",
+      "holiday diabetes management",
+      "circadian-glucose-rhythms"
+    ],
+    "primaryKeyword": "late-night activity insulin sensitivity women",
+    "topicCluster": "circadian-glucose-rhythms",
+    "image": "",
+    "relatedSlugs": [
+      "how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms",
+      "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation",
+      "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks",
+      "how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history",
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays"
+    ]
+  },
+  {
+    "slug": "how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy",
+    "title": "How Intermittent Use of Over-the-Counter NSAIDs for Back Pain Disrupts Renal Prostaglandin Balance — And Why That Raises Risk of Acute Kidney Injury in Adults 62+ With Stage 2 Diabetic Nephropathy",
+    "description": "Explains the pathophysiology behind NSAID-related AKI in early kidney disease, with safer analgesic sequencing and urine biomarker monitoring protocols.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "NSAIDs and kidney injury diabetes",
+      "diabetes",
+      "medications-renal-safety"
+    ],
+    "primaryKeyword": "NSAIDs and kidney injury diabetes",
+    "topicCluster": "medications-renal-safety",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr",
+      "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria",
+      "how-kidney-function-declines-faster-in-older-adults-with-diabetes",
+      "the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy",
+      "what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45"
+    ]
+  },
+  {
+    "slug": "how-intermittent-silence-not-just-quiet-lowers-central-aortic-systolic-pressure-in-adults-64-with-white-coat-hypertension-and-high-cortisol-awakening-response",
+    "title": "How Intermittent Silence (Not Just Quiet) Lowers Central Aortic Systolic Pressure in Adults 64+ With White-Coat Hypertension and High Cortisol Awakening Response",
+    "description": "Examines the cardiovascular impact of intentional auditory rest—contrasted with background noise—even in soundproofed rooms—and links 20-minute daily silence windows to reductions in cfPWV and pulse wave reflection.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "intermittent silence central aortic pressure",
+      "heart health",
+      "auditory-environment-cardiovascular-effects"
+    ],
+    "primaryKeyword": "intermittent silence central aortic pressure",
+    "topicCluster": "auditory-environment-cardiovascular-effects",
+    "image": "",
+    "relatedSlugs": [
+      "how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension",
+      "how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises",
+      "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+      "can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity",
+      "best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression"
+    ]
+  },
+  {
+    "slug": "how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes",
+    "title": "How Intergenerational Plate-Sharing During Thanksgiving Dinner Elevates Postprandial Glucose Spikes in Adults 62+ With Prediabetes",
+    "description": "Analyzes the metabolic impact of shared platters, delayed eating cues, and portion distortion during multigenerational meals — with data from the 2023 NHANES dietary module on glycemic variability in older adults.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "postprandial glucose spikes family meals",
+      "healthy eating during family gatherings",
+      "glycemic-response-dynamics"
+    ],
+    "primaryKeyword": "postprandial glucose spikes family meals",
+    "topicCluster": "glycemic-response-dynamics",
+    "image": "",
+    "relatedSlugs": [
+      "how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying",
+      "how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55",
+      "how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58",
+      "7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying",
+      "7-hidden-triggers-of-after-dinner-blood-sugar-spikes-at-family-dinners-and-how-to-neutralize-them-without-skipping-dessert"
+    ]
+  },
+  {
+    "slug": "how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing",
+    "title": "How Intergenerational Cooking Stress Elevates Cortisol-Driven Dawn Phenomenon in Men 62+ With Long-Term Type 2 Diabetes and Untreated Sleep Disordered Breathing",
+    "description": "Analyzes the hormonal cascade triggered by holiday kitchen demands — linking elevated overnight cortisol, blunted melatonin, and amplified morning glucose spikes — with low-barrier mitigation strategies.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "intergenerational cooking cortisol dawn phenomenon",
+      "holiday diabetes management",
+      "stress-hormone-glucose-link"
+    ],
+    "primaryKeyword": "intergenerational cooking cortisol dawn phenomenon",
+    "topicCluster": "stress-hormone-glucose-link",
+    "image": "",
+    "relatedSlugs": [
+      "how-grandparenting-induced-sleep-fragmentation-alters-nocturnal-cortisol-rhythms-and-why-that-elevates-fasting-glucose-in-adults-66-with-type-2-diabetes",
+      "how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance",
+      "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70",
+      "why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms",
+      "how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60"
+    ]
+  },
+  {
+    "slug": "how-holiday-tablecloth-patterns-and-low-light-centerpieces-impair-food-recognition-in-adults-78-with-early-macular-degeneration-and-what-to-serve-instead",
+    "title": "How Holiday Tablecloth Patterns and Low-Light Centerpieces Impair Food Recognition in Adults 78+ With Early Macular Degeneration — And What to Serve Instead",
+    "description": "Links visual contrast loss to reduced satiety signaling and increased calorie underestimation, recommending high-contrast plating, textured garnishes, and lighting-adjusted meal sequencing.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "food recognition macular degeneration",
+      "healthy eating during family gatherings",
+      "visual-accessibility-meals"
+    ],
+    "primaryKeyword": "food recognition macular degeneration",
+    "topicCluster": "visual-accessibility-meals",
+    "image": "",
+    "relatedSlugs": [
+      "the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations",
+      "simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection",
+      "quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks",
+      "simple-steps-to-adjust-your-holiday-dessert-portion-before-the-first-bite-using-visual-cues-that-work-for-adults-83-with-age-related-visual-processing-decline",
+      "the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration"
+    ]
+  },
+  {
+    "slug": "how-chronic-low-grade-inflammation-from-untreated-gum-disease-accelerates-insulin-resistance-in-adults-58-72-with-prediabetes",
+    "title": "How Chronic Low-Grade Inflammation From Untreated Gum Disease Accelerates Insulin Resistance in Adults 58–72 With Prediabetes",
+    "description": "Examines the oral-systemic link between periodontitis and metabolic dysfunction, with actionable screening and intervention guidance for dental and primary care collaboration.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "gum disease insulin resistance prediabetes",
+      "diabetes",
+      "causes-inflammation-oral-health"
+    ],
+    "primaryKeyword": "gum disease insulin resistance prediabetes",
+    "topicCluster": "causes-inflammation-oral-health",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70",
+      "how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access",
+      "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense",
+      "how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession",
+      "how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp"
+    ]
+  },
+  {
+    "slug": "how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension",
+    "title": "How Chronic Exposure to Low-Frequency HVAC Vibration Alters Baroreflex Sensitivity in Adults 68+ With Isolated Systolic Hypertension",
+    "description": "Investigates an overlooked environmental contributor to BP dysregulation—building mechanical resonance frequencies—and explains how daily vibration exposure blunts carotid sinus responsiveness.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "hvac vibration baroreflex sensitivity hypertension",
+      "heart health",
+      "environmental-cardiovascular-stressors"
+    ],
+    "primaryKeyword": "hvac vibration baroreflex sensitivity hypertension",
+    "topicCluster": "environmental-cardiovascular-stressors",
+    "image": "",
+    "relatedSlugs": [
+      "how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises",
+      "how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62",
+      "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv",
+      "natural-ways-to-stabilize-baroreflex-sensitivity-after-stroke-in-adults-65-with-impaired-bp-response-to-standing-and-reduced-hrv",
+      "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension"
+    ]
+  },
+  {
+    "slug": "does-daily-10-minute-barefoot-walking-on-morning-grass-really-improve-glycemic-variability-in-adults-68-with-sedentary-lifestyle-and-peripheral-neuropathy",
+    "title": "Does Daily 10-Minute Barefoot Walking on Morning Grass *Really* Improve Glycemic Variability in Adults 68+ With Sedentary Lifestyle and Peripheral Neuropathy?",
+    "description": "Analyzes grounding (earthing) claims through the lens of autonomic balance, cortisol rhythm modulation, and microcirculatory effects — separating plausible mechanisms from pseudoscience.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "barefoot walking glycemic variability seniors",
+      "diabetes",
+      "natural-remedies-grounding-science"
+    ],
+    "primaryKeyword": "barefoot walking glycemic variability seniors",
+    "topicCluster": "natural-remedies-grounding-science",
+    "image": "",
+    "relatedSlugs": [
+      "can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71",
+      "natural-ways-to-counteract-holiday-nighttime-glucose-spikes-without-medication-focused-on-evening-walking-timing-foot-temperature-and-cinnamon-bioavailability",
+      "best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception",
+      "why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66",
+      "how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do"
+    ]
+  },
+  {
+    "slug": "best-low-allergen-holiday-side-dishes-for-adults-75-with-late-onset-tree-nut-allergy-and-eosinophilic-esophagitis",
+    "title": "Best Low-Allergen Holiday Side Dishes for Adults 75+ With Late-Onset Tree Nut Allergy and Eosinophilic Esophagitis",
+    "description": "Features rigorously tested, low-FODMAP, nut-free, seed-free preparations (e.g., roasted celeriac purée, toasted sunflower seed–free stuffing) with pH-stability and esophageal safety data.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "low allergen holiday sides seniors",
+      "healthy eating during family gatherings",
+      "eosinophilic-esophagitis-cooking"
+    ],
+    "primaryKeyword": "low allergen holiday sides seniors",
+    "topicCluster": "eosinophilic-esophagitis-cooking",
+    "image": "",
+    "relatedSlugs": [
+      "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd",
+      "best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption",
+      "best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation",
+      "best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption",
+      "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation"
+    ]
+  },
+  {
+    "slug": "a-vs-b-homemade-bone-broth-soup-simmered-24-hours-vs-low-sodium-canned-vegetable-soup-impact-on-endothelial-function-in-adults-71-with-mild-hypertension",
+    "title": "A vs B: Homemade Bone Broth Soup (Simmered 24+ Hours) vs. Low-Sodium Canned Vegetable Soup — Impact on Endothelial Function in Adults 71+ With Mild Hypertension",
+    "description": "Compares nitric oxide bioavailability, glycine/arginine ratios, and advanced glycation end-product (AGE) content using data from the 2022 Endothelial Health Trial substudy.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "bone broth vs canned soup endothelial function",
+      "healthy eating during family gatherings",
+      "endothelial-nutrition-comparison"
+    ],
+    "primaryKeyword": "bone broth vs canned soup endothelial function",
+    "topicCluster": "endothelial-nutrition-comparison",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms",
+      "a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome",
+      "a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension",
+      "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling",
+      "a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis"
+    ]
+  },
+  {
+    "slug": "a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms",
+    "title": "A vs B: 3-Minute Post-Meal Standing vs. 90-Second Heel-Toe Rocking — Impact on 2-Hour Postprandial Glucose in Adults 74+ With Gastroparesis-Like Symptoms",
+    "description": "Compares two ultra-low-barrier physical interventions for glucose clearance in frail older adults with delayed gastric motility and orthostatic intolerance.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "post meal movement gastroparesis seniors",
+      "diabetes",
+      "a-vs-b-movement-interventions"
+    ],
+    "primaryKeyword": "post meal movement gastroparesis seniors",
+    "topicCluster": "a-vs-b-movement-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis",
+      "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension",
+      "12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms",
+      "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis",
+      "natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms"
+    ]
+  },
+  {
+    "slug": "a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea",
+    "title": "A vs B: 10-Minute Post-Dinner Walking After Holiday Dinner vs. 5-Minute Deep Breathing — Impact on 2-Hour Postprandial Glucose in Adults 66+ With Obesity and Sleep Apnea",
+    "description": "Compares two accessible, non-pharmacologic interventions using real-world CGM data — highlighting which strategy reduces glucose excursions more consistently in high-risk older adults with overlapping comorbidities.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "post-dinner walking vs breathing glucose",
+      "holiday diabetes management",
+      "nonpharmacologic-intervention-comparison"
+    ],
+    "primaryKeyword": "post-dinner walking vs breathing glucose",
+    "topicCluster": "nonpharmacologic-intervention-comparison",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis",
+      "best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67",
+      "a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes",
+      "a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms",
+      "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance"
+    ]
+  },
+  {
+    "slug": "7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker",
+    "title": "7 Hidden Sodium Traps in Traditional Holiday Gravies and Stuffings — Even When You Skip the Salt Shaker",
+    "description": "Exposes non-obvious high-sodium ingredients in classic family gathering staples (e.g., bouillon cubes, cured meats, soy sauce-based glazes) and offers low-sodium, flavor-forward swaps backed by USDA sodium labeling data.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "low sodium holiday gravy alternatives",
+      "healthy eating during family gatherings",
+      "sodium-aware-cooking"
+    ],
+    "primaryKeyword": "low sodium holiday gravy alternatives",
+    "topicCluster": "sodium-aware-cooking",
+    "image": "",
+    "relatedSlugs": [
+      "7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd",
+      "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62",
+      "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs",
+      "7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension",
+      "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension"
+    ]
+  },
+  {
+    "slug": "7-common-mistakes-that-accelerate-diabetic-nephropathy-progression-even-with-ace-inhibitors-and-egfr-60-in-adults-67-with-microalbuminuria",
+    "title": "7 Common Mistakes That Accelerate Diabetic Nephropathy Progression — Even With ACE Inhibitors and eGFR >60 — In Adults 67+ With Microalbuminuria",
+    "description": "Highlights overlooked contributors: nocturnal BP dipping loss, high-sodium breakfasts, unmonitored NSAID use, and delayed uric acid management — with practical correction steps.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "mistakes worsening diabetic nephropathy",
+      "diabetes",
+      "complications-prevention-mistakes"
+    ],
+    "primaryKeyword": "mistakes worsening diabetic nephropathy",
+    "topicCluster": "complications-prevention-mistakes",
+    "image": "",
+    "relatedSlugs": [
+      "7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities",
+      "what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria",
+      "how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy",
+      "warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89",
+      "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing"
+    ]
+  },
+  {
+    "slug": "12-science-backed-times-to-check-your-glucose-during-the-holidays-based-on-circadian-ampk-activation-peaks-in-adults-70-with-sarcopenia-and-insulin-resistance",
+    "title": "12 Science-Backed Times to Check Your Glucose During the Holidays — Based on Circadian AMPK Activation Peaks in Adults 70+ With Sarcopenia and Insulin Resistance",
+    "description": "Moves beyond 'fasting and post-meal' to prescribe precise, physiology-aligned monitoring windows — tied to muscle glucose uptake rhythms, cortisol surges, and meal timing variability.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "best times check glucose holidays seniors",
+      "holiday diabetes management",
+      "precision-glucose-monitoring"
+    ],
+    "primaryKeyword": "best times check glucose holidays seniors",
+    "topicCluster": "precision-glucose-monitoring",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon",
+      "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes",
+      "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70",
+      "simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome",
+      "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it"
+    ]
+  },
+  {
+    "slug": "12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon",
+    "title": "12 Science-Backed Times of Day to Test Fasting Glucose — Based on Circadian Rhythms of Hepatic Gluconeogenesis in Adults 63+ With Dawn Phenomenon",
+    "description": "Moves beyond 'first thing in the morning' advice by aligning home glucose monitoring with liver enzyme cycles, cortisol surges, and age-related circadian shifts.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "best time to test fasting glucose seniors",
+      "diabetes",
+      "monitoring-circadian-rhythms"
+    ],
+    "primaryKeyword": "best time to test fasting glucose seniors",
+    "topicCluster": "monitoring-circadian-rhythms",
+    "image": "",
+    "relatedSlugs": [
+      "why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner",
+      "simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome",
+      "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon",
+      "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes",
+      "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70"
+    ]
+  },
+  {
+    "slug": "10-foods-that-worsen-diabetic-retinopathy-progression-even-with-normal-blood-pressure-and-ldl-in-adults-60-with-early-nonproliferative-changes",
+    "title": "10 Foods That *Worsen* Diabetic Retinopathy Progression — Even With Normal Blood Pressure and LDL — In Adults 60+ With Early Nonproliferative Changes",
+    "description": "Identifies specific dietary drivers (e.g., high-AGE grilled meats, oxidized seed oils, ultra-processed starches) that exacerbate retinal endothelial inflammation independent of classic risk markers.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "foods that worsen diabetic retinopathy",
+      "diabetes",
+      "diet-nutrition-eye-health"
+    ],
+    "primaryKeyword": "foods that worsen diabetic retinopathy",
+    "topicCluster": "diet-nutrition-eye-health",
+    "image": "",
+    "relatedSlugs": [
+      "10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction",
+      "warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68",
+      "what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose",
+      "warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71",
+      "12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication"
+    ]
+  },
+  {
+    "slug": "10-foods-that-improve-coronary-flow-reserve-within-45-minutes-based-on-pet-ct-data-in-adults-57-69-with-microvascular-angina",
+    "title": "10 Foods That Improve Coronary Flow Reserve Within 45 Minutes — Based on PET-CT Data in Adults 57–69 With Microvascular Angina",
+    "description": "Features acute vasodilatory foods (e.g., dark cacao 85%, pomegranate arils, fermented garlic) with quantified CFR % increases and ideal dosing windows pre-stress testing.",
+    "date": "2026-02-03",
+    "updated": "2026-02-03",
+    "tags": [
+      "foods improve coronary flow reserve microvascular angina",
+      "heart disease",
+      "microvascular-vasodilation"
+    ],
+    "primaryKeyword": "foods improve coronary flow reserve microvascular angina",
+    "topicCluster": "microvascular-vasodilation",
+    "image": "",
+    "relatedSlugs": [
+      "5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms",
+      "10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity",
+      "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina",
+      "10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl",
+      "natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad"
+    ]
+  },
+  {
     "slug": "when-to-worry-about-sudden-thirst-and-frequent-urination-during-holiday-travel-especially-if-you-re-69-with-undiagnosed-prediabetes-and-mild-heart-failure",
     "title": "When to Worry About Sudden Thirst and Frequent Urination During Holiday Travel — Especially If You're 69+ With Undiagnosed Prediabetes and Mild Heart Failure",
     "description": "Identifies subtle, often-dismissed early signs of hyperosmolar hyperglycemic state (HHS) in older adults during travel stress, dehydration, and disrupted meds — with a step-by-step triage checklist.",
@@ -12955,7 +13615,8 @@
     "relatedSlugs": [
       "7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing",
       "warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term",
-      "natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios"
+      "natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios",
+      "warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis"
     ]
   },
   {
