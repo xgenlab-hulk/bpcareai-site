@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "title": "What Research Says About Blood Pressure Variability in Adults 58–67 With Early Parkinson’s Disease — Before Motor Symptoms Emerge",
+    "description": "Synthesizes findings from longitudinal autonomic testing and 7-day home BP tracking showing increased short-term BP lability as a prodromal biomarker — distinct from orthostatic hypotension — and its predictive value for synucleinopathy progression.",
+    "primaryKeyword": "blood pressure variability early parkinsons",
+    "topicCluster": "neurological-autonomic-early-detection",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-04T04:16:04.610Z"
+  },
+  {
+    "title": "A vs B: 12-Minute Tai Chi Qigong Flow vs. Guided 4-7-8 Breathing With Biofeedback — Impact on Central Aortic Systolic Pressure in Women 69+ With Isolated Systolic Hypertension",
+    "description": "Compares two non-pharmacologic interventions using carotid-femoral pulse wave velocity and central aortic tonometry outcomes over 4 weeks, highlighting differential effects on wave reflection and arterial stiffness.",
+    "primaryKeyword": "tai chi vs breathing central aortic pressure",
+    "topicCluster": "comparative-nonpharmacologic-interventions",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-04T04:16:06.520Z"
+  },
+  {
+    "title": "5 Things Everyone Over 75 Should Know About Blood Pressure Medication Timing — Especially If You Take a Diuretic and a Calcium Channel Blocker",
+    "description": "Explains chronopharmacokinetic principles behind optimal dosing windows, how circadian renin-angiotensin shifts interact with diuretic-induced volume depletion, and why evening dosing of amlodipine may reduce nocturnal non-dipping.",
+    "primaryKeyword": "blood pressure medication timing over 75",
+    "topicCluster": "pharmacology-chronobiology-elderly",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-04T04:16:10.301Z"
+  },
+  {
+    "title": "When to Suspect Secondary Hypertension From Subclinical Primary Aldosteronism in Adults 55–64 With Resistant Hypertension and Normal Potassium",
+    "description": "Details red flags beyond classic hypokalemia — including early diastolic dysfunction on echo, elevated aldosterone-to-renin ratio in upright posture, and paradoxical BP rise after potassium supplementation — supported by Endocrine Society 2023 guidelines.",
+    "primaryKeyword": "secondary hypertension subclinical aldosteronism",
+    "topicCluster": "endocrine-cause-resistant-hypertension",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-04T04:16:12.206Z"
+  },
+  {
+    "title": "How Intermittent Exposure to Urban Traffic Noise Elevates Morning Systolic Pressure by 8–12 mmHg — Even With Bedroom Windows Closed — In Adults 63+ Living Near Freeways",
+    "description": "Connects nocturnal noise-induced cortical arousal (measured via EEG microarousals), delayed cortisol decline, and impaired endothelial-dependent vasodilation — with real-world BP tracking from the HEART-NOISE Cohort.",
+    "primaryKeyword": "traffic noise morning systolic blood pressure",
+    "topicCluster": "environmental-noise-cardiovascular-impact",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-04T04:16:22.473Z"
+  },
+  {
+    "title": "Best Hydration Strategies for Blood Pressure Stability During Winter — Not Just 'Drink More Water' — For Adults 76+ With Reduced Thirst Perception and Chronic Constipation",
+    "description": "Offers a 4-tier hydration protocol (electrolyte-modulated warm liquids, mucilage-rich broths, timed gel-forming fibers, and osmotic priming) proven to sustain plasma volume without triggering nocturia or worsening constipation.",
+    "primaryKeyword": "winter hydration blood pressure stability elderly",
+    "topicCluster": "seasonal-hydration-physiology-elderly",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-04T04:16:24.490Z"
+  },
+  {
+    "title": "The Complete Guide to Interpreting *Home* Blood Pressure Logs for Adults 74+ With Hearing Loss and Mild Tremor — Without Smartphone Apps or Voice Assistants",
+    "description": "Provides a tactile, low-vision, tremor-adapted logging system — color-coded pressure bands, embossed date grids, and pressure-triggered tactile feedback charts — validated for accuracy and adherence in geriatric OT trials.",
+    "primaryKeyword": "home blood pressure log hearing loss tremor",
+    "topicCluster": "accessibility-monitoring-tools",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-04T04:16:36.150Z"
+  },
+  {
+    "title": "When to Worry About 'Normal' Blood Pressure Readings That Occur *Only* While Sitting Cross-Legged — A Red Flag for Autonomic Dysregulation in Adults 61+ With Early Diabetes",
+    "description": "Details how cross-legged posture masks orthostatic intolerance and amplifies sympathetic drive — revealing abnormal BP lability upon standing or during Valsalva — with diagnostic criteria from the 2024 Autonomic Testing Consensus.",
+    "primaryKeyword": "cross legged blood pressure autonomic dysregulation",
+    "topicCluster": "postural-autonomic-diagnostic-clue",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-04T04:16:38.152Z"
+  }
+]

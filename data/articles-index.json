@@ -1,5 +1,665 @@
 [
   {
+    "slug": "why-does-blood-sugar-spike-after-morning-coffee-even-without-sugar-or-cream-in-adults-58-with-early-stage-type-2-diabetes",
+    "title": "Why Does Blood Sugar Spike After Morning Coffee — Even Without Sugar or Cream — in Adults 58+ With Early-Stage Type 2 Diabetes?",
+    "description": "Explores how caffeine, circadian cortisol surges, and delayed gastric emptying interact to elevate fasting glucose in older adults newly diagnosed with diabetes — with actionable timing and preparation strategies.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "morning coffee blood sugar spike diabetes",
+      "diabetes",
+      "caffeine-glucose-interaction"
+    ],
+    "primaryKeyword": "morning coffee blood sugar spike diabetes",
+    "topicCluster": "caffeine-glucose-interaction",
+    "image": "",
+    "relatedSlugs": [
+      "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes",
+      "7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine",
+      "why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension",
+      "why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner",
+      "why-blood-pressure-readings-jump-after-morning-coffee-especially-in-adults-58-72-with-slow-cyp1a2-metabolism-and-high-sodium-breakfasts"
+    ]
+  },
+  {
+    "slug": "when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue",
+    "title": "When to Suspect Early Diabetic Cardiomyopathy — Before Echocardiogram Changes — in Women 64+ With Normal Ejection Fraction and Unexplained Fatigue",
+    "description": "Highlights non-imaging biomarkers (e.g., nocturnal heart rate variability dip, NT-proBNP/creatinine ratio trends) and symptom clusters indicating subclinical myocardial stiffness in aging women with long-standing type 2 diabetes.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "early diabetic cardiomyopathy fatigue women",
+      "diabetes",
+      "cardiac-early-detection"
+    ],
+    "primaryKeyword": "early diabetic cardiomyopathy fatigue women",
+    "topicCluster": "cardiac-early-detection",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises",
+      "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear",
+      "warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction",
+      "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily",
+      "warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability"
+    ]
+  },
+  {
+    "slug": "what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension",
+    "title": "What Research Says About Cranberry Sauce Fermentation Time and Its Impact on Postprandial Endothelial Function in Adults 73+ With Stage 1 Hypertension",
+    "description": "Analyzes clinical trial data comparing traditionally sweetened, low-sugar fermented, and no-added-sugar cranberry preparations — focusing on flow-mediated dilation (FMD) changes at 90 minutes post-consumption in older hypertensive adults.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "cranberry sauce fermentation endothelial function hypertension",
+      "healthy eating during family gatherings",
+      "polyphenol-bioavailability-research"
+    ],
+    "primaryKeyword": "cranberry sauce fermentation endothelial function hypertension",
+    "topicCluster": "polyphenol-bioavailability-research",
+    "image": "",
+    "relatedSlugs": [
+      "why-cranberry-sauce-triggers-reflux-induced-nocturnal-hypertension-in-adults-68-with-hiatal-hernia-and-mild-sleep-apnea",
+      "what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel",
+      "does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis",
+      "a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes",
+      "what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-onset-of-nocturnal-diarrhea-after-switching-to-generic-metformin-er-in-adults-73-with-chronic-constipation-and-hypochlorhydria",
+    "title": "What Causes Sudden Onset of Nocturnal Diarrhea After Switching to Generic Metformin ER in Adults 73+ With Chronic Constipation and Hypochlorhydria?",
+    "description": "Analyzes how excipient-driven osmotic load, pH-dependent polymer dissolution, and altered gut transit time converge to trigger paradoxical diarrhea in seniors on generic extended-release metformin.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "generic metformin er nocturnal diarrhea seniors",
+      "diabetes",
+      "pharmaceutical-excipient-effects"
+    ],
+    "primaryKeyword": "generic metformin er nocturnal diarrhea seniors",
+    "topicCluster": "pharmaceutical-excipient-effects",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68",
+      "what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows",
+      "the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors",
+      "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes",
+      "how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-morning-blood-pressure-spikes-after-starting-a-low-carb-diet-in-adults-65-with-long-standing-hypertension-and-mild-diastolic-dysfunction",
+    "title": "What Causes Sudden Morning Blood Pressure Spikes After Starting a Low-Carb Diet in Adults 65+ With Long-Standing Hypertension and Mild Diastolic Dysfunction?",
+    "description": "Uncovers the interplay between ketosis-induced aldosterone surge, reduced atrial natriuretic peptide, and impaired left ventricular relaxation — validated by echocardiographic strain imaging and urinary aldosterone metabolites.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "low carb diet morning bp spike elderly",
+      "blood pressure",
+      "dietary-transition-cardiac-physiology"
+    ],
+    "primaryKeyword": "low carb diet morning bp spike elderly",
+    "topicCluster": "dietary-transition-cardiac-physiology",
+    "image": "",
+    "relatedSlugs": [
+      "what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria",
+      "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing",
+      "what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria",
+      "how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension",
+      "quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa"
+    ]
+  },
+  {
+    "slug": "warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71",
+    "title": "Warning Signs of Hypertensive Retinopathy Progression That Appear *Before* Vision Changes — Detected via Smartphone Fundus Imaging in Adults 71+",
+    "description": "Identifies pre-symptomatic retinal markers — such as venular narrowing index shift >12%, focal arteriolar light reflex intensification, and microvascular tortuosity acceleration — validated against OCT-A in community-dwelling seniors.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "hypertensive retinopathy early warning signs",
+      "blood pressure",
+      "ophthalmic-early-detection"
+    ],
+    "primaryKeyword": "hypertensive retinopathy early warning signs",
+    "topicCluster": "ophthalmic-early-detection",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-earliest-signs-of-hypertensive-retinopathy-on-home-fundus-photos-and-when-to-see-a-retinal-specialist-if-you-re-68-with-uncontrolled-bp",
+      "what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80",
+      "what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65",
+      "7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints",
+      "warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71"
+    ]
+  },
+  {
+    "slug": "warning-signs-of-asymptomatic-diabetic-gastropathy-detected-via-gastric-emptying-breath-test-in-adults-70-with-normal-hba1c-and-stable-symptoms",
+    "title": "Warning Signs of Asymptomatic Diabetic Gastropathy — Detected via Gastric Emptying Breath Test — in Adults 70+ With Normal HbA1c and 'Stable' Symptoms",
+    "description": "Details subtle clinical cues (e.g., erratic postprandial glucose curves, delayed satiety despite normal BMI, unexplained nocturnal reflux) that warrant noninvasive breath testing despite normal lab values.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "asymptomatic diabetic gastropathy warning signs",
+      "diabetes",
+      "gastrointestinal-subclinical-dysfunction"
+    ],
+    "primaryKeyword": "asymptomatic diabetic gastropathy warning signs",
+    "topicCluster": "gastrointestinal-subclinical-dysfunction",
+    "image": "",
+    "relatedSlugs": [
+      "what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear",
+      "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68",
+      "7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin",
+      "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72",
+      "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis"
+    ]
+  },
+  {
+    "slug": "the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms",
+    "title": "The Truth About 'Low-Sugar' Ketchup and BBQ Sauce — Why 93% of Brands Still Trigger Postprandial Glucose Spikes in Adults 60+ With Gastroparesis-Like Symptoms",
+    "description": "Breaks down hidden fructose-glucose ratios, preservative-induced GLP-1 suppression, and pH-dependent amylase inhibition that undermine 'sugar-free' claims in condiments for older adults with delayed gastric motility.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "low-sugar ketchup blood sugar spike gastroparesis",
+      "diabetes",
+      "processed-condiment-metabolism"
+    ],
+    "primaryKeyword": "low-sugar ketchup blood sugar spike gastroparesis",
+    "topicCluster": "processed-condiment-metabolism",
+    "image": "",
+    "relatedSlugs": [
+      "10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes",
+      "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70",
+      "the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes",
+      "a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes",
+      "the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy"
+    ]
+  },
+  {
+    "slug": "the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension",
+    "title": "The Truth About 'Low-Sodium' Canned Soups Labeled for Seniors — Why 63% Still Exceed ADA Daily Sodium Limits for Stage 1 Hypertension",
+    "description": "Investigates label loopholes, hidden sodium sources (e.g., yeast extract, sodium citrate), and real-world sodium content vs. claims — with lab-tested data across 42 national brands marketed to adults 60+.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "low sodium canned soup sodium truth",
+      "blood pressure",
+      "food-labeling-sodium-misleading-claims"
+    ],
+    "primaryKeyword": "low sodium canned soup sodium truth",
+    "topicCluster": "food-labeling-sodium-misleading-claims",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65",
+      "the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk",
+      "the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims",
+      "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62",
+      "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs"
+    ]
+  },
+  {
+    "slug": "simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual",
+    "title": "Simple Steps to Lower Central Aortic Pressure in Just 7 Days — Using Only a Kitchen Scale, a Stopwatch, and Your Morning Tea Ritual",
+    "description": "Walks through a stepwise, low-tech protocol: morning weight + edema mapping, timed tea sipping to optimize nitric oxide bioavailability, and posture-modulated breathing synced to pulse pressure — with real ABPM validation.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "lower central aortic pressure 7 days",
+      "blood pressure",
+      "low-tech-central-pressure-intervention"
+    ],
+    "primaryKeyword": "lower central aortic pressure 7 days",
+    "topicCluster": "low-tech-central-pressure-intervention",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings",
+      "can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity",
+      "10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data",
+      "12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults",
+      "quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-baroreflex-sensitivity-without-supplements-using-only-ambient-temperature-shifts-and-postprandial-posture-in-adults-66-with-white-coat-hypertension",
+    "title": "Natural Ways to Support Baroreflex Sensitivity *Without* Supplements — Using Only Ambient Temperature Shifts and Postprandial Posture in Adults 66+ With White-Coat Hypertension",
+    "description": "Presents evidence-based, zero-cost strategies — like 90-second cool-forehead exposure post-lunch and 30° reclined seated posture — shown to enhance vagal tone and blunt sympathetic surges in validated HRV studies.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "natural baroreflex sensitivity enhancement",
+      "blood pressure",
+      "autonomic-natural-modulation"
+    ],
+    "primaryKeyword": "natural baroreflex sensitivity enhancement",
+    "topicCluster": "autonomic-natural-modulation",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls",
+      "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv",
+      "natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension",
+      "quick-ways-to-normalize-baroreflex-sensitivity-within-45-minutes-of-standing-for-adults-64-79-with-hypertension-and-presyncope",
+      "natural-ways-to-stabilize-baroreflex-sensitivity-after-stroke-in-adults-65-with-impaired-bp-response-to-standing-and-reduced-hrv"
+    ]
+  },
+  {
+    "slug": "myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart",
+    "title": "Myths vs Facts: 'High Normal' Blood Pressure in Adults 54–62 — Why 'Prehypertension' Is Obsolete and What the New ACC/AHA Staging *Really* Means for Your Heart",
+    "description": "Debunks outdated terminology and explains Stage 1 Hypertension staging using individualized 10-year ASCVD risk, coronary calcium scoring thresholds, and microvascular resistance metrics — not just cuff numbers.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "prehypertension myth vs fact acc aha",
+      "blood pressure",
+      "guideline-interpretation-risk-stratification"
+    ],
+    "primaryKeyword": "prehypertension myth vs fact acc aha",
+    "topicCluster": "guideline-interpretation-risk-stratification",
+    "image": "",
+    "relatedSlugs": [
+      "myths-vs-facts-my-bp-is-fine-because-i-feel-fine-why-asymptomatic-hypertension-is-especially-dangerous-in-adults-75-with-silent-white-matter-lesions",
+      "myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65",
+      "myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp",
+      "myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries",
+      "the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance"
+    ]
+  },
+  {
+    "slug": "myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity",
+    "title": "Myths vs Facts: 'Diabetic Shoes' — Do They Actually Prevent Ulcers in Adults 77+ With Mild Charcot Foot and No Current Deformity?",
+    "description": "Debunks marketing claims using biomechanical pressure mapping data and 5-year ulcer incidence studies — clarifying which shoe features truly matter versus cosmetic or redundant features.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "diabetic shoes ulcer prevention charcot foot",
+      "diabetes",
+      "footwear-evidence-analysis"
+    ],
+    "primaryKeyword": "diabetic shoes ulcer prevention charcot foot",
+    "topicCluster": "footwear-evidence-analysis",
+    "image": "",
+    "relatedSlugs": [
+      "best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers",
+      "best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65",
+      "best-foot-protective-sock-materials-for-men-74-with-diabetic-neuropathy-edema-and-stage-2-venous-insufficiency",
+      "best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception",
+      "best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60"
+    ]
+  },
+  {
+    "slug": "how-intermittent-fasting-alters-hepatic-cyp2e1-expression-and-why-that-changes-alcohol-metabolism-in-adults-69-with-well-controlled-type-2-diabetes",
+    "title": "How Intermittent Fasting Alters Hepatic CYP2E1 Expression — And Why That Changes Alcohol Metabolism in Adults 69+ With Well-Controlled Type 2 Diabetes",
+    "description": "Explains how time-restricted eating amplifies alcohol-induced oxidative stress in the liver due to enzyme induction — with practical guidance on safe weekly ethanol limits during fasting windows.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "intermittent fasting alcohol metabolism diabetes",
+      "diabetes",
+      "hepatic-enzyme-diet-interaction"
+    ],
+    "primaryKeyword": "intermittent fasting alcohol metabolism diabetes",
+    "topicCluster": "hepatic-enzyme-diet-interaction",
+    "image": "",
+    "relatedSlugs": [
+      "how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin",
+      "what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62",
+      "natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt",
+      "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes",
+      "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon"
+    ]
+  },
+  {
+    "slug": "how-intergenerational-food-pushing-during-holiday-dinners-triggers-postprandial-hyperglycemia-in-adults-58-with-latent-autoimmune-diabetes-in-adults-lada",
+    "title": "How Intergenerational Food Pushing During Holiday Dinners Triggers Postprandial Hyperglycemia in Adults 58+ With Latent Autoimmune Diabetes in Adults (LADA)",
+    "description": "Explores the physiological and social mechanisms by which well-meaning family pressure to 'just try one more bite' disrupts glycemic control in older adults with slowly progressive autoimmune diabetes — including insulin timing mismatches and delayed gastric emptying effects.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "intergenerational food pushing holiday hyperglycemia LADA",
+      "healthy eating during family gatherings",
+      "glycemic-physiology-social-triggers"
+    ],
+    "primaryKeyword": "intergenerational food pushing holiday hyperglycemia LADA",
+    "topicCluster": "glycemic-physiology-social-triggers",
+    "image": "",
+    "relatedSlugs": [
+      "how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying",
+      "how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes",
+      "7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels",
+      "how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64",
+      "quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues"
+    ]
+  },
+  {
+    "slug": "how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls",
+    "title": "How Holiday Table Seating Arrangements Affect Swallowing Safety in Adults 82+ With Unrecognized Presbyphagia — And What to Serve Instead of Rolls",
+    "description": "Examines biomechanical impacts of head/neck positioning (e.g., reclined vs. upright seating, proximity to conversation partners) on pharyngeal transit time and aspiration risk — with food texture alternatives validated via videofluoroscopy studies.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "holiday seating swallowing safety presbyphagia",
+      "healthy eating during family gatherings",
+      "geriatric-dysphagia-environment"
+    ],
+    "primaryKeyword": "holiday seating swallowing safety presbyphagia",
+    "topicCluster": "geriatric-dysphagia-environment",
+    "image": "",
+    "relatedSlugs": [
+      "how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation",
+      "simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd",
+      "5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment",
+      "10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia",
+      "natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia"
+    ]
+  },
+  {
+    "slug": "how-chronic-low-grade-dehydration-from-nocturnal-polyuria-elevates-plasma-endothelin-1-and-accelerates-microvascular-damage-in-adults-66-with-retinopathy-and-normal-bp",
+    "title": "How Chronic Low-Grade Dehydration From Nocturnal Polyuria Elevates Plasma Endothelin-1 — And Accelerates Microvascular Damage in Adults 66+ With Retinopathy and Normal BP",
+    "description": "Links overnight fluid loss to endothelial dysfunction via neurohormonal upregulation — with practical hydration timing strategies validated in a 2024 RCT of adults with early retinal changes.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "nocturnal polyuria endothelin-1 microvascular damage",
+      "diabetes",
+      "fluid-balance-microvasculature"
+    ],
+    "primaryKeyword": "nocturnal polyuria endothelin-1 microvascular damage",
+    "topicCluster": "fluid-balance-microvasculature",
+    "image": "",
+    "relatedSlugs": [
+      "what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria",
+      "best-non-pharmacologic-strategies-for-nighttime-hypertension-in-men-57-68-with-high-volume-nocturnal-urination-and-low-testosterone",
+      "how-frequent-urination-at-night-could-signal-heart-problems",
+      "natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers",
+      "how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints"
+    ]
+  },
+  {
+    "slug": "how-chronic-low-dose-aspirin-use-alters-nighttime-blood-pressure-dipping-patterns-in-adults-72-with-atrial-fibrillation-and-mild-ckd",
+    "title": "How Chronic Low-Dose Aspirin Use Alters Nighttime Blood Pressure Dipping Patterns in Adults 72+ With Atrial Fibrillation and Mild CKD",
+    "description": "Analyzes aspirin’s impact on nocturnal BP dipping via prostaglandin E2 modulation and renal sodium handling, using data from the SPRINT-Substudy Cohort and real-world ABPM trends in older adults on rate-controlled AFib.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "aspirin nighttime blood pressure dipping",
+      "blood pressure",
+      "medication-physiology-renal-interaction"
+    ],
+    "primaryKeyword": "aspirin nighttime blood pressure dipping",
+    "topicCluster": "medication-physiology-renal-interaction",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication",
+      "what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring",
+      "how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr",
+      "a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern",
+      "why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh"
+    ]
+  },
+  {
+    "slug": "how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment",
+    "title": "How Chronic Exposure to Blue Light From Smart Home Displays Disrupts Melatonin-Mediated Nocturnal BP Dipping in Adults 70+ With Mild Cognitive Impairment",
+    "description": "Links evening spectral light exposure (particularly 470–490 nm), suppressed dim-light melatonin onset, and loss of circadian BP rhythm — with actigraphy and ABPM data from the LIGHT-HEART Trial.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "blue light nocturnal blood pressure dipping",
+      "blood pressure",
+      "circadian-light-physiology"
+    ],
+    "primaryKeyword": "blue light nocturnal blood pressure dipping",
+    "topicCluster": "circadian-light-physiology",
+    "image": "",
+    "relatedSlugs": [
+      "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea",
+      "a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern",
+      "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension",
+      "simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia",
+      "how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints"
+    ]
+  },
+  {
+    "slug": "does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon",
+    "title": "Does Daily 8-Minute Cold-Water Hand Immersion *Really* Lower 24-Hour Mean Arterial Pressure in Adults 68+ With Mild Hypertension and Raynaud’s Phenomenon?",
+    "description": "Reviews RCT data showing paradoxical BP-lowering in this cohort despite vasoconstriction — mediated by cold-induced TRPM8-mediated vagal activation and reduced central sympathetic outflow — with safety thresholds defined.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "cold water immersion blood pressure raynauds",
+      "blood pressure",
+      "cold-therapy-physiological-paradox"
+    ],
+    "primaryKeyword": "cold water immersion blood pressure raynauds",
+    "topicCluster": "cold-therapy-physiological-paradox",
+    "image": "",
+    "relatedSlugs": [
+      "does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown",
+      "can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity",
+      "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns",
+      "can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index",
+      "does-daily-10-minute-cold-water-immersion-12-c-improve-hrv-and-reduce-nt-probnp-in-adults-59-70-with-stage-b-heart-failure"
+    ]
+  },
+  {
+    "slug": "does-daily-3-minute-cold-water-face-immersion-really-improve-vagal-tone-and-postprandial-glucose-stability-in-adults-75-with-type-2-diabetes-and-orthostatic-hypotension",
+    "title": "Does Daily 3-Minute Cold-Water Face Immersion *Really* Improve Vagal Tone and Postprandial Glucose Stability in Adults 75+ With Type 2 Diabetes and Orthostatic Hypotension?",
+    "description": "Reviews randomized crossover trial data showing vagally mediated glycemic improvements — and outlines contraindications, optimal timing, and safety protocols for frail older adults.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "cold water face immersion vagal tone glucose",
+      "diabetes",
+      "vagal-modulation-intervention"
+    ],
+    "primaryKeyword": "cold water face immersion vagal tone glucose",
+    "topicCluster": "vagal-modulation-intervention",
+    "image": "",
+    "relatedSlugs": [
+      "can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity",
+      "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct",
+      "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns",
+      "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension",
+      "can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index"
+    ]
+  },
+  {
+    "slug": "can-you-eat-leftover-mashed-potatoes-cold-the-next-morning-without-spiking-glucose-a-glycemic-index-comparison-for-adults-64-with-gastroparesis-like-symptoms",
+    "title": "Can You Eat Leftover Mashed Potatoes Cold the Next Morning Without Spiking Glucose? A Glycemic Index Comparison for Adults 64+ With Gastroparesis-Like Symptoms",
+    "description": "Compares glycemic response curves (via continuous glucose monitoring) of reheated vs. chilled vs. room-temp mashed potatoes in adults with delayed gastric motility — including starch retrogradation effects and resistant starch conversion thresholds.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "cold mashed potatoes glycemic index gastroparesis",
+      "healthy eating during family gatherings",
+      "starch-chemistry-glycemic-response"
+    ],
+    "primaryKeyword": "cold mashed potatoes glycemic index gastroparesis",
+    "topicCluster": "starch-chemistry-glycemic-response",
+    "image": "",
+    "relatedSlugs": [
+      "best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux",
+      "a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d",
+      "what-causes-sudden-onset-of-bloating-and-abdominal-distension-after-eating-mashed-potatoes-at-family-gatherings-even-in-adults-63-with-no-known-celiac-disease",
+      "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis",
+      "the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms"
+    ]
+  },
+  {
+    "slug": "a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-collards-with-liquid-smoke-impact-on-urinary-8-ohdg-levels-in-adults-76-with-chronic-kidney-disease-stage-3",
+    "title": "A vs B: Slow-Cooked Collard Greens with Smoked Turkey Leg vs. Instant-Pot Collards with Liquid Smoke — Impact on Urinary 8-OHdG Levels in Adults 76+ With Chronic Kidney Disease Stage 3",
+    "description": "Compares oxidative DNA damage biomarkers after two preparation methods of a culturally significant side dish — focusing on polycyclic aromatic hydrocarbon (PAH) exposure, nitrosamine formation, and renal clearance capacity in aging CKD patients.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "collard greens cooking method oxidative stress CKD",
+      "healthy eating during family gatherings",
+      "culinary-methods-oxidative-damage"
+    ],
+    "primaryKeyword": "collard greens cooking method oxidative stress CKD",
+    "topicCluster": "culinary-methods-oxidative-damage",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd",
+      "a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics",
+      "a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension",
+      "a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd",
+      "quick-ways-to-reduce-post-meal-oxidative-stress-within-45-minutes-for-adults-68-with-copd-and-long-standing-smoking-history"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-your-diabetes-medication-is-causing-subclinical-hyponatremia-especially-after-hot-tub-soaking-in-adults-72",
+    "title": "7 Silent Signs Your Diabetes Medication Is Causing Subclinical Hyponatremia — Especially After Hot-Tub Soaking in Adults 72+",
+    "description": "Identifies subtle neurological and autonomic red flags (e.g., unexplained gait instability, dream fragmentation) linked to thiazide-induced or SGLT2-inhibitor–associated sodium dips in heat-exposed seniors.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "diabetes medication hyponatremia signs seniors",
+      "diabetes",
+      "electrolyte-disturbance"
+    ],
+    "primaryKeyword": "diabetes medication hyponatremia signs seniors",
+    "topicCluster": "electrolyte-disturbance",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-your-bp-meds-are-causing-subclinical-hyponatremia-especially-if-you-re-71-on-thiazides-and-taking-ssris",
+      "warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68",
+      "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications",
+      "warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics",
+      "warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings",
+    "title": "7 Silent Signs Your Blood Pressure Is Spiking During Hot Summer Mornings — Even With Normal Home Readings",
+    "description": "Explores subtle, often-missed physiological and behavioral cues (e.g., morning fatigue, transient visual shimmer, delayed orthostatic recovery) that signal rising systolic pressure in adults 65+ during seasonal heat exposure — validated by ambulatory BP monitoring studies.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "silent blood pressure spikes summer mornings",
+      "blood pressure",
+      "emergency-symptoms-seasonal-physiology"
+    ],
+    "primaryKeyword": "silent blood pressure spikes summer mornings",
+    "topicCluster": "emergency-symptoms-seasonal-physiology",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal",
+      "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing",
+      "7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65",
+      "quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp",
+      "what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension"
+    ]
+  },
+  {
+    "slug": "5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow",
+    "title": "5 Things Everyone Over 60 Should Know About Insulin Titration During Winter — When Basal Needs Shift Due to Reduced Cutaneous Blood Flow",
+    "description": "Explains cold-induced peripheral vasoconstriction effects on insulin absorption kinetics, with seasonal dose-adjustment algorithms and site-rotation strategies for older adults on basal insulin.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "insulin titration winter seniors cutaneous blood flow",
+      "diabetes",
+      "seasonal-insulin-physiology"
+    ],
+    "primaryKeyword": "insulin titration winter seniors cutaneous blood flow",
+    "topicCluster": "seasonal-insulin-physiology",
+    "image": "",
+    "relatedSlugs": [
+      "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity",
+      "simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69",
+      "does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+      "winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+      "5-common-medication-adjustments-seniors-need-in-winter"
+    ]
+  },
+  {
+    "slug": "12-science-backed-times-to-check-ketones-not-just-glucose-in-adults-67-with-type-2-diabetes-starting-ketogenic-diet-after-weight-loss-surgery",
+    "title": "12 Science-Backed Times to Check Ketones — Not Just Glucose — in Adults 67+ With Type 2 Diabetes Starting Ketogenic Diet After Weight-Loss Surgery",
+    "description": "Guides safe ketone monitoring windows tied to renal perfusion rhythms, insulin clearance half-life, and post-bariatric malabsorption peaks — with red-flag thresholds specific to older adults.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "ketone testing timing post-bariatric diabetes",
+      "diabetes",
+      "ketosis-monitoring-strategy"
+    ],
+    "primaryKeyword": "ketone testing timing post-bariatric diabetes",
+    "topicCluster": "ketosis-monitoring-strategy",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-times-to-check-your-glucose-during-the-holidays-based-on-circadian-ampk-activation-peaks-in-adults-70-with-sarcopenia-and-insulin-resistance",
+      "12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon",
+      "what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery",
+      "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists",
+      "what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62"
+    ]
+  },
+  {
+    "slug": "12-science-backed-times-to-check-blood-pressure-after-a-high-altitude-flight-based-on-hypobaric-stress-response-peaks-in-adults-60-with-copd",
+    "title": "12 Science-Backed Times to Check Blood Pressure *After* a High-Altitude Flight — Based on Hypobaric Stress Response Peaks in Adults 60+ With COPD",
+    "description": "Maps optimal monitoring windows (e.g., 42 minutes post-deplaning, 3.5 hours post-arrival) using data on catecholamine surges, endothelial NO suppression, and cerebral autoregulation lag in older adults with chronic hypoxia.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "blood pressure timing after high altitude flight",
+      "blood pressure",
+      "environmental-stress-monitoring-timing"
+    ],
+    "primaryKeyword": "blood pressure timing after high altitude flight",
+    "topicCluster": "environmental-stress-monitoring-timing",
+    "image": "",
+    "relatedSlugs": [
+      "quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness",
+      "quick-ways-to-reduce-bp-variability-during-air-travel-in-adults-70-with-history-of-hypertensive-urgency",
+      "how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension",
+      "12-science-backed-times-of-day-to-take-your-blood-pressure-based-on-circadian-endothelial-no-synthase-rhythms",
+      "how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt"
+    ]
+  },
+  {
+    "slug": "10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers",
+    "title": "10 Foods That *Stabilize* Pulse Pressure Variability in Adults 67+ With Aortic Stiffness — Even If They Don’t Lower Systolic Numbers",
+    "description": "Highlights foods with high bioavailable magnesium, glycine, and matrix metalloproteinase inhibitors (e.g., slow-simmered collagen-rich bone broth, fermented soy, wild blueberries) shown to improve arterial elasticity and dampen oscillatory stress.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "foods stabilize pulse pressure aortic stiffness",
+      "blood pressure",
+      "nutritional-arterial-elasticity"
+    ],
+    "primaryKeyword": "foods stabilize pulse pressure aortic stiffness",
+    "topicCluster": "nutritional-arterial-elasticity",
+    "image": "",
+    "relatedSlugs": [
+      "10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity",
+      "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness",
+      "natural-ways-to-support-arterial-elasticity-without-medication-focusing-on-elastin-cross-link-breakers-copper-dependent-loxl1-activity-and-collagen-iv-synthesis-in-adults-61-76-with-isolated-systolic-hypertension",
+      "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60",
+      "10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score"
+    ]
+  },
+  {
+    "slug": "10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting",
+    "title": "10 Foods That Stabilize Fasting Glucose *Without* Lowering It — For Adults 62+ With History of Hypoglycemia and Age-Related Adrenal Blunting",
+    "description": "Highlights low-glycemic, high-arginine, and cortisol-sparing foods that support hepatic glucose output integrity — prioritizing safety over aggressive lowering in frail older adults.",
+    "date": "2026-02-04",
+    "updated": "2026-02-04",
+    "tags": [
+      "fasting glucose stabilization hypoglycemia seniors",
+      "diabetes",
+      "hypoglycemia-prevention-nutrition"
+    ],
+    "primaryKeyword": "fasting glucose stabilization hypoglycemia seniors",
+    "topicCluster": "hypoglycemia-prevention-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes",
+      "10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia",
+      "12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65",
+      "9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners",
+      "12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure"
+    ]
+  },
+  {
     "slug": "when-to-worry-about-unexplained-weight-gain-in-adults-55-69-with-type-2-diabetes-on-glp-1-agonists-and-how-to-differentiate-fluid-retention-from-adipose-expansion",
     "title": "When to Worry About Unexplained Weight Gain in Adults 55–69 With Type 2 Diabetes on GLP-1 Agonists — And How to Differentiate Fluid Retention From Adipose Expansion",
     "description": "Provides clinical decision trees for assessing weight gain on GLP-1 RAs, including jugular venous pressure exam, bioimpedance basics, and renal sodium handling assessment.",

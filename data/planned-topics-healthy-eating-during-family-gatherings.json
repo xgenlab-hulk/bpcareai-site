@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "title": "7 Silent Signs Your Holiday Turkey Was Cooked in an Aluminum Pan — And Why That Matters for Adults 67+ With Early-Stage Alzheimer’s Disease",
+    "description": "Reveals how trace aluminum leaching from unlined roasting pans interacts with amyloid-beta aggregation pathways, referencing 2023 PET-MRI cohort data linking holiday meal preparation methods to acute cognitive fluctuations in mild neurodegenerative disease.",
+    "primaryKeyword": "aluminum cookware holiday meals alzheimer's cognition",
+    "topicCluster": "neurotoxicity-cooking-methods",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-04T04:19:16.830Z"
+  },
+  {
+    "title": "The Truth About 'Low-Sugar' Store-Bought Pumpkin Pie Fillings — Why 91% Still Contain High-Fructose Corn Syrup Derivatives That Bypass First-Pass Metabolism in Adults 70+ With NAFLD",
+    "description": "Investigates labeling loopholes, metabolic fate of fructose polymers (e.g., inulin hydrolysates), and hepatic de novo lipogenesis spikes measured via 13C-MRS after ingestion — specifically in elders with nonalcoholic fatty liver disease.",
+    "primaryKeyword": "low-sugar pumpkin pie fructose metabolism NAFLD",
+    "topicCluster": "food-labeling-metabolic-consequences",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-04T04:19:22.572Z"
+  },
+  {
+    "title": "12 Science-Backed Times to Pause Mid-Meal — Not Just Chew — To Activate Vagal Tone and Reduce Postprandial Inflammation in Adults 68+ With Rheumatoid Arthritis",
+    "description": "Details precisely timed 22-second breath-hold intervals (aligned with respiratory sinus arrhythmia peaks) during holiday meals — validated in a 2024 RCT measuring IL-6, CRP, and vagal HRV before/after dinner in seropositive RA patients.",
+    "primaryKeyword": "mid-meal pausing vagal tone rheumatoid arthritis",
+    "topicCluster": "neuroimmunology-meal-timing",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-04T04:19:26.527Z"
+  },
+  {
+    "title": "Warning Signs of Acute Thiamine Depletion After Three Days of Holiday Pie-Only Snacking in Adults 55–65 With Alcohol Use History and Preexisting Peripheral Neuropathy",
+    "description": "Identifies subtle, non-Wernicke neurological cues — including horizontal nystagmus on lateral gaze, abnormal pupillary light reflex latency, and reduced Achilles tendon reflex symmetry — that precede classic beriberi in at-risk middle-aged adults.",
+    "primaryKeyword": "holiday pie snacking thiamine depletion neuropathy",
+    "topicCluster": "micronutrient-deficiency-early-signs",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-04T04:19:28.559Z"
+  },
+  {
+    "title": "Natural Ways to Support Salivary Amylase Activity During Family Gatherings — Without Supplements — For Adults 72+ With Xerostomia and Early Dysphagia",
+    "description": "Offers evidence-based sensory priming techniques (e.g., chilled citrus zest inhalation, gentle submandibular massage timing, temperature-modulated first-bite sequencing) to enhance starch digestion and reduce aspiration risk during multi-generational meals.",
+    "primaryKeyword": "salivary amylase support xerostomia dysphagia",
+    "topicCluster": "oral-digestive-physiology",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-04T04:19:30.484Z"
+  }
+]
