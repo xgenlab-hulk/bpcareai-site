@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "7 Hidden Risks of Over-the-Counter Nasal Decongestants for Adults 62+ With Atrial Fibrillation and Controlled Hypertension",
+    "description": "Details sympathomimetic-induced QT prolongation, nocturnal arrhythmia burden spikes, and rebound endothelial dysfunction—beyond standard BP warnings.",
+    "primaryKeyword": "nasal decongestants atrial fibrillation seniors",
+    "topicCluster": "otc-medication-cardiac-risks",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-05T04:24:57.066Z"
+  },
+  {
+    "title": "The Truth About 'Heart-Healthy' Frozen Dinners Labeled for Seniors — Why 81% Exceed 2023 AHA Sodium Limits for Left Ventricular Hypertrophy",
+    "description": "Analyzes label claims vs. actual sodium load, ingredient-derived sodium (e.g., sodium phosphates), and impact on myocardial stiffness biomarkers in older adults.",
+    "primaryKeyword": "frozen dinners sodium left ventricular hypertrophy",
+    "topicCluster": "processed-food-sodium-cardiac-structure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-05T04:24:59.021Z"
+  },
+  {
+    "title": "When to Suspect Cardiac Amyloidosis *Before* Diastolic Dysfunction Appears — Red Flags in Adults 79+ With Carpal Tunnel and Unexplained Weight Loss",
+    "description": "Highlights under-recognized prodromal signs including autonomic GI symptoms, low-voltage ECG without anemia, and serum free light chain patterns in geriatric primary care.",
+    "primaryKeyword": "cardiac amyloidosis early signs carpal tunnel",
+    "topicCluster": "rare-cardiomyopathy-prodrome",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-05T04:25:00.970Z"
+  },
+  {
+    "title": "A vs B: Daily 12-Minute Seated Resistance Band Routine vs. 25-Minute Brisk Walking — Impact on Pulse Wave Velocity in Adults 65+ With Arterial Stiffness",
+    "description": "Compares vascular elasticity outcomes from low-impact strength training versus aerobic walking in sedentary older adults with confirmed aortic pulse wave velocity >10 m/s.",
+    "primaryKeyword": "resistance band vs walking arterial stiffness",
+    "topicCluster": "exercise-modality-vascular-elasticity",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-05T04:25:02.903Z"
+  },
+  {
+    "title": "5 Things Every Woman Over 67 Should Know About Lipoprotein(a) Testing — Especially After a Family History of Premature Aortic Valve Stenosis",
+    "description": "Explains why Lp(a) is under-tested in postmenopausal women, its estrogen-loss linkage, interpretation nuances at older ages, and implications for valve disease prevention.",
+    "primaryKeyword": "lipoprotein a testing women over 67",
+    "topicCluster": "genetic-lipid-women-aging",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-05T04:25:04.876Z"
+  },
+  {
+    "title": "How Chronic Nighttime Mouth Breathing During CPAP Therapy Elevates Pulmonary Artery Pressure in Adults 70+ With Mild OSA and Preserved EF",
+    "description": "Links upper airway resistance, nocturnal hypoxemia microbursts, and right ventricular afterload changes—even with compliant CPAP use and normal daytime saturation.",
+    "primaryKeyword": "mouth breathing cpap pulmonary artery pressure",
+    "topicCluster": "sleep-breathing-cardiopulmonary-hemodynamics",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-05T04:25:06.800Z"
+  },
+  {
+    "title": "Simple Steps to Improve Endothelial-Dependent Vasodilation in Just 10 Days — Using Only a Digital Thermometer, a Kitchen Timer, and Your Evening Shower",
+    "description": "Details evidence-based thermal sequencing (warm-cold-warm contrast) and timing windows that boost nitric oxide bioavailability in aging endothelium—no devices or supplements.",
+    "primaryKeyword": "improve endothelial function in 10 days",
+    "topicCluster": "thermal-vasodilation-endothelial-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-05T04:25:08.737Z"
+  },
+  {
+    "title": "12 Science-Backed Times to Check Your Resting Heart Rate — Not Just During Clinic Visits — in Adults 58+ With Anxiety-Related Palpitations",
+    "description": "Identifies circadian, postprandial, post-activity, and medication-timing windows where RHR deviations most reliably predict subclinical atrial remodeling or vagal withdrawal.",
+    "primaryKeyword": "when to check resting heart rate seniors",
+    "topicCluster": "monitoring-rhythm-anxiety-interface",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-05T04:25:10.734Z"
+  },
+  {
+    "title": "Can You Safely Resume Gardening After an ICD Implant? A Safety-First Guide for Adults 73+ With Reduced Ejection Fraction",
+    "description": "Covers electromagnetic interference thresholds, tool vibration limits, positional strain on thoracic leads, and evidence-based activity progression protocols post-ICD.",
+    "primaryKeyword": "gardening after icd implant seniors",
+    "topicCluster": "post-implant-activity-safety",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-05T04:25:12.721Z"
+  }
+]

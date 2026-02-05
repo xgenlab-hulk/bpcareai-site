@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "title": "7 Holiday Foods That Trigger Silent Blood Pressure Spikes in Seniors 70+ With Nocturnal Hypertension",
+    "description": "A science-backed list of seemingly innocent holiday staples — from glazed ham to spiced cider — that acutely elevate nocturnal systolic pressure in older adults with undiagnosed non-dipping patterns, based on ambulatory BP studies.",
+    "primaryKeyword": "holiday foods blood pressure spikes seniors",
+    "topicCluster": "cardiac-diet-nocturnal-hypertension",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:21:28.254Z"
+  },
+  {
+    "title": "The Truth About 'Senior-Friendly' Holiday Meal Kits — Why 81% Fail Sodium, Fiber, and Texture Safety Standards for Adults 75+",
+    "description": "Investigates labeling claims vs. real-world nutritional and dysphagia-safety compliance in pre-packaged holiday meals marketed to older adults, with lab-tested sodium variability and viscosity analysis.",
+    "primaryKeyword": "senior-friendly holiday meal kits truth",
+    "topicCluster": "meal-kit-safety-dysphagia",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:21:32.045Z"
+  },
+  {
+    "title": "12 Simple Swaps to Reduce Post-Holiday Edema in Women 65+ With Stage 2 Hypertension and Mild Lymphedema",
+    "description": "Actionable, kitchen-based substitutions — from herb-infused broths to roasted veggie prep techniques — that lower capillary permeability and interstitial fluid retention without diuretics.",
+    "primaryKeyword": "reduce post-holiday edema seniors women",
+    "topicCluster": "fluid-balance-hypertension-women",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:21:35.913Z"
+  },
+  {
+    "title": "A vs B: Slow-Roasted Sweet Potatoes With Cinnamon vs. Instant-Mashed Sweet Potatoes With Marshmallows — Impact on Postprandial Glucose Variability in Adults 67+ With Prediabetes",
+    "description": "Head-to-head glycemic response comparison using continuous glucose monitoring data, highlighting how processing method and added sugar matrix alter insulin dynamics in aging beta cells.",
+    "primaryKeyword": "sweet potatoes glucose variability seniors",
+    "topicCluster": "diabetic-diet-glycemic-comparison",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:21:39.714Z"
+  },
+  {
+    "title": "5 Things Everyone Over 70 Should Know About Alcohol-Free Holiday Punch — Especially If Taking ACE Inhibitors or ARBs",
+    "description": "Explains how potassium-rich fruit blends (e.g., pomegranate-orange) in 'mocktails' interact with RAAS inhibitors, increasing hyperkalemia risk during holiday feasting in older kidneys.",
+    "primaryKeyword": "alcohol-free punch seniors ace inhibitors",
+    "topicCluster": "medication-diet-interactions",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:21:45.487Z"
+  },
+  {
+    "title": "How Holiday Candlelight Dinners Alter Circadian-Driven Insulin Sensitivity in Adults 66+ With Mild Insulin Resistance — And What to Serve Instead of Rolls",
+    "description": "Links dim-light evening meals to delayed melatonin onset, reduced skeletal muscle GLUT4 translocation, and increased post-carb glucose AUC — with texture-modified carb alternatives.",
+    "primaryKeyword": "candlelight dinners insulin sensitivity seniors",
+    "topicCluster": "circadian-metabolism-diet",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:21:47.420Z"
+  },
+  {
+    "title": "10 Foods That Stabilize Post-Holiday Fasting Glucose *Without* Lowering It — For Adults 64+ With History of Falls and Hypoglycemia-Associated Autonomic Failure",
+    "description": "Highlights low-glycemic, high-protein/fat foods that blunt glucose excursions while preserving counterregulatory hormone reserve — avoiding overcorrection in frail older adults.",
+    "primaryKeyword": "stabilize fasting glucose without lowering",
+    "topicCluster": "hypoglycemia-prevention-frailty",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:21:49.338Z"
+  },
+  {
+    "title": "Myths vs Facts: 'Heart-Healthy' Holiday Stuffing — Why Even Whole-Grain Versions Can Worsen Diastolic Filling Pressures in Adults 77+ With Preserved EF",
+    "description": "Debunks common assumptions about fiber and sodium in stuffing, revealing how rapid gastric emptying + high osmolarity trigger transient left atrial stretch and impaired relaxation.",
+    "primaryKeyword": "heart-healthy stuffing myths seniors",
+    "topicCluster": "cardiac-diet-diastolic-function",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:21:53.209Z"
+  },
+  {
+    "title": "Simple Steps to Lower Post-Holiday C-Reactive Protein in Just 5 Days — Using Only Frozen Berries, Ground Flax, and Your Evening Tea Ritual",
+    "description": "A clinically tested anti-inflammatory protocol leveraging polyphenol bioavailability, ALA conversion timing, and circadian-optimized polyphenol absorption windows.",
+    "primaryKeyword": "lower crp post-holiday seniors",
+    "topicCluster": "inflammation-diet-protocol",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:21:57.219Z"
+  },
+  {
+    "title": "The Complete Guide to Holiday Eating for Adults 58–63 With New-Onset Prediabetes and High-Functioning Careers",
+    "description": "A time-efficient, office-compatible strategy covering lunchbox prep, smart restaurant ordering, and after-work social event navigation — without calorie counting or meal logging.",
+    "primaryKeyword": "holiday eating prediabetes working adults",
+    "topicCluster": "prediabetes-career-lifestyle",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:21:59.152Z"
+  },
+  {
+    "title": "What Are the Silent Signs Your Holiday Nuts Are Causing Subclinical Oxidative Stress in Adults 75+ With Mild CKD Stage 2?",
+    "description": "Links rancid nut oils and AGE formation in roasted mixes to elevated urinary 8-OHdG and reduced glutathione peroxidase activity — with freshness-testing tips and safe storage guides.",
+    "primaryKeyword": "holiday nuts oxidative stress seniors ckd",
+    "topicCluster": "renal-diet-oxidative-stress",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-05T04:22:04.983Z"
+  }
+]

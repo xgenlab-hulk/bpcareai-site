@@ -27,6 +27,8 @@ relatedSlugs:
     how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
   - >-
     the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
+  - >-
+    the-complete-guide-to-interpreting-your-coronary-artery-calcium-score-with-ct-lung-screening-avoiding-misattribution-of-calcified-nodules-in-adults-63-with-emphysema
 ---
 
 # A Practical Coronary Calcium Score Interpretation Guide for Adults 50 and Older

@@ -1,58 +1,10 @@
 [
   {
-    "title": "How Chronic Exposure to Blue Light From Nighttime Tablet Use Disrupts Melatonin-Mediated Insulin Secretion in Adults 65+ With Prediabetes",
-    "description": "Examines the photobiological pathway linking evening screen time to impaired first-phase insulin response — supported by actigraphy and continuous glucose monitoring data from a 2023 geriatric cohort study.",
-    "primaryKeyword": "blue light insulin secretion prediabetes seniors",
-    "topicCluster": "circadian-metabolism",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-04T04:17:54.501Z"
-  },
-  {
-    "title": "A vs B: 5-Minute Dynamic Chair Yoga vs. 5-Minute Isometric Wall Sit — Impact on 1-Hour Postprandial Glucose in Adults 76+ With Severe Knee Osteoarthritis",
-    "description": "Compares real-world glycemic responses to two ultra-low-impact movement protocols in mobility-limited seniors, using blinded CGM data collected during standard lunch meals.",
-    "primaryKeyword": "chair yoga vs wall sit postprandial glucose",
-    "topicCluster": "low-impact-movement-comparison",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-04T04:17:58.362Z"
-  },
-  {
-    "title": "Natural Ways to Support Beta-Cell Resilience During Spring Allergy Season — Without Antihistamines or Corticosteroids — in Adults 55–65 With Recent-Onset Type 1 Diabetes",
-    "description": "Focuses on quercetin-rich local honey timing, nasal saline pulsing frequency, and mast-cell–stabilizing breathing patterns proven to reduce islet inflammation without suppressing immune surveillance.",
-    "primaryKeyword": "beta-cell resilience spring allergies type 1",
-    "topicCluster": "immune-metabolic-interface",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-04T04:18:06.119Z"
-  },
-  {
-    "title": "Best Low-Tannin Herbal Teas for Adults 71+ With Diabetic Nephropathy and Stage 3 CKD — Avoiding Potassium and Oxalate Accumulation",
-    "description": "Compares infusion time, temperature, and leaf grade effects on mineral leaching — with lab-tested potassium/oxalate profiles for 8 widely available herbal teas safe for advanced kidney disease.",
-    "primaryKeyword": "low-tannin herbal tea diabetic nephropathy",
-    "topicCluster": "renal-safe-hydration",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-04T04:18:13.931Z"
-  },
-  {
     "title": "How Intergenerational Storytelling During Dinner Slows Gastric Emptying — And Why That Helps Postprandial Glucose in Adults 78+ With Mild Cognitive Impairment",
     "description": "Discusses parasympathetic activation via emotional engagement, measured via gastric motility ultrasound and CGM, showing delayed but smoother glucose curves in memory-impaired seniors who converse while eating.",
     "primaryKeyword": "storytelling gastric emptying postprandial glucose",
     "topicCluster": "cognitive-engagement-digestion",
     "coreKeyword": "diabetes",
     "createdAt": "2026-02-04T04:18:19.698Z"
-  },
-  {
-    "title": "What Are the Earliest Signs of Diabetic Autonomic Neuropathy in Men 68+ — Before Orthostatic Hypotension or Gastroparesis Appear?",
-    "description": "Identifies prodromal markers including pupillary light reflex latency, heart rate recovery asymmetry after standing, and altered thermal pain thresholds — validated in a longitudinal autonomic screening registry.",
-    "primaryKeyword": "early diabetic autonomic neuropathy signs men",
-    "topicCluster": "autonomic-prodrome-detection",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-04T04:18:23.663Z"
-  },
-  {
-    "title": "The Complete Guide to Managing Diabetes While Caring for a Spouse With Advanced Dementia — For Adults 74+ With Type 2 Diabetes and Caregiver Burnout",
-    "description": "Offers integrated strategies: glucose-safe meal prep for two, low-cognition medication reminders, stress-buffering routines, and CGM alerts synced to caregiver sleep cycles.",
-    "primaryKeyword": "diabetes management dementia caregiver seniors",
-    "topicCluster": "caregiver-diabetes-integration",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-04T04:18:25.572Z"
   }
 ]

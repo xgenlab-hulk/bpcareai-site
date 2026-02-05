@@ -1,5 +1,662 @@
 [
   {
+    "slug": "when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium",
+    "title": "When to Suspect Secondary Hypertension From Subclinical Primary Aldosteronism in Adults 55–64 With Resistant Hypertension and Normal Potassium",
+    "description": "Details red flags beyond classic hypokalemia — including early diastolic dysfunction on echo, elevated aldosterone-to-renin ratio in upright posture, and paradoxical BP rise after potassium supplementation — supported by Endocrine Society 2023 guidelines.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "secondary hypertension subclinical aldosteronism",
+      "blood pressure",
+      "endocrine-cause-resistant-hypertension"
+    ],
+    "primaryKeyword": "secondary hypertension subclinical aldosteronism",
+    "topicCluster": "endocrine-cause-resistant-hypertension",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term",
+      "what-causes-sudden-morning-blood-pressure-spikes-after-starting-a-low-carb-diet-in-adults-65-with-long-standing-hypertension-and-mild-diastolic-dysfunction",
+      "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear",
+      "7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg",
+      "when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp"
+    ]
+  },
+  {
+    "slug": "when-to-suspect-holiday-induced-hyponatremia-in-adults-79-with-mild-cognitive-impairment-before-confusion-or-gait-instability-appears",
+    "title": "When to Suspect Holiday-Induced Hyponatremia in Adults 79+ With Mild Cognitive Impairment — Before Confusion or Gait Instability Appears",
+    "description": "Identifies pre-symptomatic markers: altered thirst perception patterns, overnight weight gain >2.5%, and subtle changes in morning speech prosody during family conversations.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "holiday hyponatremia early signs seniors",
+      "healthy holiday eating for seniors",
+      "electrolyte-imbalance-cognitive"
+    ],
+    "primaryKeyword": "holiday hyponatremia early signs seniors",
+    "topicCluster": "electrolyte-imbalance-cognitive",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68",
+      "the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use",
+      "warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk",
+      "what-are-the-earliest-signs-of-holiday-induced-hydration-decline-in-adults-78-with-reduced-thirst-perception-and-chronic-constipation",
+      "warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history"
+    ]
+  },
+  {
+    "slug": "when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-worsens-using-serum-free-light-chains-and-strain-echocardiography-in-adults-79-with-unexplained-orthostatic-hypotension-and-carpal-tunnel-syndrome",
+    "title": "When to Suspect Cardiac Amyloidosis *Before* Diastolic Dysfunction Worsens — Using Serum Free Light Chains and Strain Echocardiography in Adults 79+ With Unexplained Orthostatic Hypotension and Carpal Tunnel Syndrome",
+    "description": "Details early diagnostic triage for ATTR-CM in octogenarians presenting with multisystem ‘aging’ symptoms — emphasizing cost-effective, non-biopsy red-flag combinations.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "cardiac amyloidosis early detection orthostasis",
+      "heart disease",
+      "rare-disease-differential"
+    ],
+    "primaryKeyword": "cardiac amyloidosis early detection orthostasis",
+    "topicCluster": "rare-disease-differential",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram",
+      "when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness",
+      "when-should-you-suspect-cardiac-amyloidosis-in-adults-over-72-with-unexplained-left-ventricular-hypertrophy-and-which-biomarkers-add-value-beyond-nt-probnp",
+      "when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction",
+      "when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-orthostatic-hypotension-after-morning-tea-in-adults-68-with-mild-parkinsonism-even-without-caffeine",
+    "title": "What Causes Sudden Orthostatic Hypotension *After* Morning Tea in Adults 68+ With Mild Parkinsonism — Even Without Caffeine?",
+    "description": "Investigates non-caffeinated tea compounds, gastric motility delays, and baroreflex blunting as contributors to postural BP drops in early neurodegenerative aging.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "orthostatic hypotension after tea seniors",
+      "heart health",
+      "medication-interaction-gastric-neurology"
+    ],
+    "primaryKeyword": "orthostatic hypotension after tea seniors",
+    "topicCluster": "medication-interaction-gastric-neurology",
+    "image": "",
+    "relatedSlugs": [
+      "what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef",
+      "what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria",
+      "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension",
+      "quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness",
+      "what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit",
+    "title": "What Causes Sudden Morning Constipation After Holiday Turkey Gravy Consumption in Adults 74+ With Low Gastrin and Delayed Colonic Transit?",
+    "description": "Analyzes the combined effect of high-fat gravy, reduced gastric acid, and age-related myenteric plexus decline on colonic motilin release and defecation timing.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "holiday gravy constipation seniors",
+      "healthy holiday eating for seniors",
+      "gastrointestinal-diet-motility"
+    ],
+    "primaryKeyword": "holiday gravy constipation seniors",
+    "topicCluster": "gastrointestinal-diet-motility",
+    "image": "",
+    "relatedSlugs": [
+      "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis",
+      "how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead",
+      "how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation",
+      "how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction",
+      "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75"
+    ]
+  },
+  {
+    "slug": "what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction",
+    "title": "What Causes 'Normal' Blood Pressure Readings to Mask Left Ventricular Hypertrophy in Adults 68+ With Long-Standing Hypertension and Preserved Ejection Fraction?",
+    "description": "Explores how standard office BP measurements can miss structural heart changes in older adults, focusing on echocardiographic red flags and ambulatory monitoring thresholds that precede symptom onset.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "left ventricular hypertrophy masked hypertension",
+      "heart disease",
+      "diagnostic-oversight"
+    ],
+    "primaryKeyword": "left ventricular hypertrophy masked hypertension",
+    "topicCluster": "diagnostic-oversight",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg",
+      "when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp",
+      "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear",
+      "why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh",
+      "7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal"
+    ]
+  },
+  {
+    "slug": "what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear",
+    "title": "What Are the Earliest Signs of Diabetic Autonomic Neuropathy in Men 68+ — Before Orthostatic Hypotension or Gastroparesis Appear?",
+    "description": "Identifies prodromal markers including pupillary light reflex latency, heart rate recovery asymmetry after standing, and altered thermal pain thresholds — validated in a longitudinal autonomic screening registry.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "early diabetic autonomic neuropathy signs men",
+      "diabetes",
+      "autonomic-prodrome-detection"
+    ],
+    "primaryKeyword": "early diabetic autonomic neuropathy signs men",
+    "topicCluster": "autonomic-prodrome-detection",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin",
+      "what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes",
+      "what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance",
+      "what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear",
+      "7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy"
+    ]
+  },
+  {
+    "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71",
+    "title": "Warning Signs Your Holiday Leftovers Are Causing Subclinical Gut Dysbiosis — Detected via Morning Stool pH and Bloating Pattern Shifts in Adults 71+",
+    "description": "Identifies non-obvious GI red flags (e.g., delayed bloating peak, altered stool float/sink behavior) linked to repeated reheating of starchy holiday foods and age-related microbiome fragility.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "holiday leftovers gut dysbiosis warning signs",
+      "healthy holiday eating for seniors",
+      "gut-microbiome-leftovers"
+    ],
+    "primaryKeyword": "holiday leftovers gut dysbiosis warning signs",
+    "topicCluster": "gut-microbiome-leftovers",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d",
+      "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis",
+      "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72",
+      "5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems",
+      "how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy"
+    ]
+  },
+  {
+    "slug": "warning-signs-of-right-heart-strain-that-appear-before-neck-vein-distension-detected-via-subcostal-echocardiographic-view-in-adults-77-with-copd-and-mild-pulmonary-hypertension",
+    "title": "Warning Signs of Right Heart Strain That Appear *Before* Neck Vein Distension — Detected via Subcostal Echocardiographic View in Adults 77+ With COPD and Mild Pulmonary Hypertension",
+    "description": "Highlights early echocardiographic signs (e.g., RV free wall longitudinal strain <−17%, hepatic vein flow reversal) preceding classic physical exam findings in cor pulmonale.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "right heart strain early echocardiographic signs",
+      "heart disease",
+      "right-heart-early-detection"
+    ],
+    "primaryKeyword": "right heart strain early echocardiographic signs",
+    "topicCluster": "right-heart-early-detection",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears",
+      "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms",
+      "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath",
+      "warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate",
+      "warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis"
+    ]
+  },
+  {
+    "slug": "the-truth-about-low-sugar-store-bought-pumpkin-pie-fillings-why-91-still-contain-high-fructose-corn-syrup-derivatives-that-bypass-first-pass-metabolism-in-adults-70-with-nafld",
+    "title": "The Truth About 'Low-Sugar' Store-Bought Pumpkin Pie Fillings — Why 91% Still Contain High-Fructose Corn Syrup Derivatives That Bypass First-Pass Metabolism in Adults 70+ With NAFLD",
+    "description": "Investigates labeling loopholes, metabolic fate of fructose polymers (e.g., inulin hydrolysates), and hepatic de novo lipogenesis spikes measured via 13C-MRS after ingestion — specifically in elders with nonalcoholic fatty liver disease.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "low-sugar pumpkin pie fructose metabolism NAFLD",
+      "healthy eating during family gatherings",
+      "food-labeling-metabolic-consequences"
+    ],
+    "primaryKeyword": "low-sugar pumpkin pie fructose metabolism NAFLD",
+    "topicCluster": "food-labeling-metabolic-consequences",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld",
+      "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60",
+      "the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60",
+      "myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia",
+      "the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms"
+    ]
+  },
+  {
+    "slug": "the-truth-about-heart-healthy-oat-milk-creamers-why-86-of-brands-contain-emulsifiers-that-impair-endothelial-nitric-oxide-synthase-activity-in-adults-63-with-subclinical-atherosclerosis",
+    "title": "The Truth About 'Heart-Healthy' Oat Milk Creamers — Why 86% of Brands Contain Emulsifiers That Impair Endothelial Nitric Oxide Synthase Activity in Adults 63+ With Subclinical Atherosclerosis",
+    "description": "Investigates non-dairy creamer additives (e.g., gellan gum, sunflower lecithin) linked to acute endothelial dysfunction — measured via flow-mediated dilation — in older adults with carotid plaque.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "oat milk creamer endothelial dysfunction",
+      "heart disease",
+      "functional-food-safety"
+    ],
+    "primaryKeyword": "oat milk creamer endothelial dysfunction",
+    "topicCluster": "functional-food-safety",
+    "image": "",
+    "relatedSlugs": [
+      "what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis",
+      "the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr",
+      "10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl",
+      "10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction",
+      "the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout",
+    "title": "The Complete Guide to Managing Diabetes While Caring for a Spouse With Advanced Dementia — For Adults 74+ With Type 2 Diabetes and Caregiver Burnout",
+    "description": "Offers integrated strategies: glucose-safe meal prep for two, low-cognition medication reminders, stress-buffering routines, and CGM alerts synced to caregiver sleep cycles.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "diabetes management dementia caregiver seniors",
+      "diabetes",
+      "caregiver-diabetes-integration"
+    ],
+    "primaryKeyword": "diabetes management dementia caregiver seniors",
+    "topicCluster": "caregiver-diabetes-integration",
+    "image": "",
+    "relatedSlugs": [
+      "the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction",
+      "10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit",
+      "how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do",
+      "the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations",
+      "the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-interpreting-your-coronary-artery-calcium-score-with-ct-lung-screening-avoiding-misattribution-of-calcified-nodules-in-adults-63-with-emphysema",
+    "title": "The Complete Guide to Interpreting Your Coronary Artery Calcium Score *With* CT Lung Screening — Avoiding Misattribution of Calcified Nodules in Adults 63+ With Emphysema",
+    "description": "Clarifies imaging pitfalls (e.g., distinguishing bronchial vs. coronary calcification on low-dose CT) and provides radiologist-vetted decision trees for CAC score contextualization.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "coronary calcium score ct lung screening",
+      "heart disease",
+      "imaging-interpretation-guide"
+    ],
+    "primaryKeyword": "coronary calcium score ct lung screening",
+    "topicCluster": "imaging-interpretation-guide",
+    "image": "",
+    "relatedSlugs": [
+      "the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks",
+      "the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-interpreting-home-blood-pressure-logs-for-adults-74-with-hearing-loss-and-mild-tremor-without-smartphone-apps-or-voice-assistants",
+    "title": "The Complete Guide to Interpreting *Home* Blood Pressure Logs for Adults 74+ With Hearing Loss and Mild Tremor — Without Smartphone Apps or Voice Assistants",
+    "description": "Provides a tactile, low-vision, tremor-adapted logging system — color-coded pressure bands, embossed date grids, and pressure-triggered tactile feedback charts — validated for accuracy and adherence in geriatric OT trials.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "home blood pressure log hearing loss tremor",
+      "blood pressure",
+      "accessibility-monitoring-tools"
+    ],
+    "primaryKeyword": "home blood pressure log hearing loss tremor",
+    "topicCluster": "accessibility-monitoring-tools",
+    "image": "",
+    "relatedSlugs": [
+      "the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors",
+      "the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist",
+      "the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings",
+      "the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings",
+      "a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor"
+    ]
+  },
+  {
+    "slug": "simple-steps-to-reduce-aortic-pulse-wave-velocity-using-only-a-blood-pressure-cuff-a-smartphone-mic-and-your-evening-walk-for-adults-65-with-isolated-systolic-hypertension",
+    "title": "Simple Steps to Reduce Aortic Pulse Wave Velocity Using Only a Blood Pressure Cuff, a Smartphone Mic, and Your Evening Walk — For Adults 65+ With Isolated Systolic Hypertension",
+    "description": "Teaches self-measured pulse wave analysis via phonocardiography + oscillometric cuff timing to track arterial stiffness reduction over 14 days — validated against tonometry.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "aortic pulse wave velocity reduction",
+      "heart disease",
+      "self-monitoring-arterial-stiffness"
+    ],
+    "primaryKeyword": "aortic pulse wave velocity reduction",
+    "topicCluster": "self-monitoring-arterial-stiffness",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+      "natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80",
+      "12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings",
+      "a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension",
+      "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia",
+    "title": "Natural Ways to Support Salivary Amylase Activity During Family Gatherings — Without Supplements — For Adults 72+ With Xerostomia and Early Dysphagia",
+    "description": "Offers evidence-based sensory priming techniques (e.g., chilled citrus zest inhalation, gentle submandibular massage timing, temperature-modulated first-bite sequencing) to enhance starch digestion and reduce aspiration risk during multi-generational meals.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "salivary amylase support xerostomia dysphagia",
+      "healthy eating during family gatherings",
+      "oral-digestive-physiology"
+    ],
+    "primaryKeyword": "salivary amylase support xerostomia dysphagia",
+    "topicCluster": "oral-digestive-physiology",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia",
+      "natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd",
+      "natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear",
+      "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes",
+      "natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69",
+    "title": "Natural Ways to Support Postprandial Vagal Tone *Without* Supplements — Using Only Holiday Meal Timing, Seating Posture, and Breath Counting in Adults 69+",
+    "description": "A practical, non-pharmacologic protocol to enhance parasympathetic meal response using evidence-based behavioral levers: pre-meal vagal priming, upright posture duration, and paced exhalation ratios.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "natural vagal tone support seniors holiday",
+      "healthy holiday eating for seniors",
+      "neuro-gastro-physiology"
+    ],
+    "primaryKeyword": "natural vagal tone support seniors holiday",
+    "topicCluster": "neuro-gastro-physiology",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices",
+      "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance",
+      "natural-ways-to-support-baroreflex-sensitivity-without-supplements-using-only-ambient-temperature-shifts-and-postprandial-posture-in-adults-66-with-white-coat-hypertension",
+      "quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd",
+      "can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-beta-cell-resilience-during-spring-allergy-season-without-antihistamines-or-corticosteroids-in-adults-55-65-with-recent-onset-type-1-diabetes",
+    "title": "Natural Ways to Support Beta-Cell Resilience During Spring Allergy Season — Without Antihistamines or Corticosteroids — in Adults 55–65 With Recent-Onset Type 1 Diabetes",
+    "description": "Focuses on quercetin-rich local honey timing, nasal saline pulsing frequency, and mast-cell–stabilizing breathing patterns proven to reduce islet inflammation without suppressing immune surveillance.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "beta-cell resilience spring allergies type 1",
+      "diabetes",
+      "immune-metabolic-interface"
+    ],
+    "primaryKeyword": "beta-cell resilience spring allergies type 1",
+    "topicCluster": "immune-metabolic-interface",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks",
+      "natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia",
+      "natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing",
+      "natural-ways-to-support-glycemic-resilience-during-holiday-social-events-without-supplements-or-diet-pills-for-adults-55-64-newly-diagnosed-with-type-2-diabetes",
+      "natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements"
+    ]
+  },
+  {
+    "slug": "how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome",
+    "title": "How Intergenerational Gift-Giving of Homemade Cookies Affects Postprandial Triglycerides in Adults 68+ With Metabolic Syndrome",
+    "description": "Explores the lipid-metabolic impact of culturally embedded food gifting during holidays, focusing on saturated fat bioavailability in aged pancreas and delayed chylomicron clearance.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "homemade cookies postprandial triglycerides seniors",
+      "healthy holiday eating for seniors",
+      "metabolic-diet-gifting-behavior"
+    ],
+    "primaryKeyword": "homemade cookies postprandial triglycerides seniors",
+    "topicCluster": "metabolic-diet-gifting-behavior",
+    "image": "",
+    "relatedSlugs": [
+      "how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia",
+      "how-intergenerational-gift-giving-of-homemade-treats-affects-blood-glucose-variability-in-adults-55-69-with-prediabetes-and-slow-gastric-emptying",
+      "myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia",
+      "why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69",
+      "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle"
+    ]
+  },
+  {
+    "slug": "how-chronic-low-grade-dehydration-from-holiday-travel-disrupts-salivary-amylase-activity-and-why-that-slows-carb-digestion-in-adults-65",
+    "title": "How Chronic Low-Grade Dehydration From Holiday Travel Disrupts Salivary Amylase Activity — And Why That Slows Carb Digestion in Adults 65+",
+    "description": "Explains the cascade from air travel-induced xerostomia to reduced starch hydrolysis, delayed gastric emptying, and erratic glucose curves — with saliva-friendly snack recommendations.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "holiday travel dehydration salivary amylase",
+      "healthy holiday eating for seniors",
+      "digestive-physiology-travel"
+    ],
+    "primaryKeyword": "holiday travel dehydration salivary amylase",
+    "topicCluster": "digestive-physiology-travel",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia",
+      "natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd",
+      "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes",
+      "natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear",
+      "what-causes-sudden-dry-mouth-during-holiday-dessert-consumption-in-adults-75-with-sj-gren-s-syndrome-and-xerostomia-related-dysphagia"
+    ]
+  },
+  {
+    "slug": "how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes",
+    "title": "How Chronic Exposure to Blue Light From Nighttime Tablet Use Disrupts Melatonin-Mediated Insulin Secretion in Adults 65+ With Prediabetes",
+    "description": "Examines the photobiological pathway linking evening screen time to impaired first-phase insulin response — supported by actigraphy and continuous glucose monitoring data from a 2023 geriatric cohort study.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "blue light insulin secretion prediabetes seniors",
+      "diabetes",
+      "circadian-metabolism"
+    ],
+    "primaryKeyword": "blue light insulin secretion prediabetes seniors",
+    "topicCluster": "circadian-metabolism",
+    "image": "",
+    "relatedSlugs": [
+      "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation",
+      "how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes",
+      "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it",
+      "how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment",
+      "does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression"
+    ]
+  },
+  {
+    "slug": "does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque",
+    "title": "Does Daily 10-Minute Post-Dinner Walking *Really* Reduce Holiday-Induced Postprandial Endothelial Dysfunction in Adults 72+ With Mild Carotid Plaque?",
+    "description": "Reviews RCT data on acute flow-mediated dilation improvement after low-intensity ambulation, factoring in gait speed, terrain, and ambient temperature effects on microvascular reactivity.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "post-dinner walking endothelial function seniors",
+      "healthy holiday eating for seniors",
+      "vascular-exercise-physiology"
+    ],
+    "primaryKeyword": "post-dinner walking endothelial function seniors",
+    "topicCluster": "vascular-exercise-physiology",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis",
+      "12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma",
+      "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension",
+      "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+      "a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea"
+    ]
+  },
+  {
+    "slug": "can-you-safely-skip-dessert-after-a-high-protein-holiday-dinner-without-triggering-reactive-hypoglycemia-in-adults-62-with-adrenal-insufficiency",
+    "title": "Can You Safely Skip Dessert After a High-Protein Holiday Dinner Without Triggering Reactive Hypoglycemia in Adults 62+ With Adrenal Insufficiency?",
+    "description": "Examines the cortisol-glucose axis disruption risk when omitting carbohydrate-rich desserts after protein-heavy meals in older adults with age-related HPA axis blunting.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "skip dessert reactive hypoglycemia seniors",
+      "healthy holiday eating for seniors",
+      "endocrine-diet-reactive-hypoglycemia"
+    ],
+    "primaryKeyword": "skip dessert reactive hypoglycemia seniors",
+    "topicCluster": "endocrine-diet-reactive-hypoglycemia",
+    "image": "",
+    "relatedSlugs": [
+      "7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels",
+      "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes",
+      "myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74",
+      "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts",
+      "10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting"
+    ]
+  },
+  {
+    "slug": "best-low-tannin-herbal-teas-for-adults-71-with-diabetic-nephropathy-and-stage-3-ckd-avoiding-potassium-and-oxalate-accumulation",
+    "title": "Best Low-Tannin Herbal Teas for Adults 71+ With Diabetic Nephropathy and Stage 3 CKD — Avoiding Potassium and Oxalate Accumulation",
+    "description": "Compares infusion time, temperature, and leaf grade effects on mineral leaching — with lab-tested potassium/oxalate profiles for 8 widely available herbal teas safe for advanced kidney disease.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "low-tannin herbal tea diabetic nephropathy",
+      "diabetes",
+      "renal-safe-hydration"
+    ],
+    "primaryKeyword": "low-tannin herbal tea diabetic nephropathy",
+    "topicCluster": "renal-safe-hydration",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy",
+      "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd",
+      "the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk",
+      "simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia",
+      "the-truth-about-diabetes-friendly-holiday-hot-chocolate-why-low-sugar-labels-hide-3-hidden-risks-for-adults-74-with-mild-ckd-and-metformin-use"
+    ]
+  },
+  {
+    "slug": "best-breathing-patterns-for-reducing-left-atrial-pressure-during-atrial-fibrillation-episodes-validated-via-invasive-hemodynamic-monitoring-in-adults-70-with-persistent-af",
+    "title": "Best Breathing Patterns for Reducing Left Atrial Pressure *During* Atrial Fibrillation Episodes — Validated via Invasive Hemodynamic Monitoring in Adults 70+ With Persistent AF",
+    "description": "Details diaphragmatic breath-hold ratios (e.g., 4-7-8 with 3-sec apnea) that acutely lower PAWP by ≥4 mmHg — tested during electrophysiology studies.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "breathing patterns left atrial pressure af",
+      "heart disease",
+      "acute-af-physiology-modulation"
+    ],
+    "primaryKeyword": "breathing patterns left atrial pressure af",
+    "topicCluster": "acute-af-physiology-modulation",
+    "image": "",
+    "relatedSlugs": [
+      "best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea",
+      "best-breathing-patterns-to-reduce-right-atrial-pressure-during-stair-climbing-in-adults-68-with-tricuspid-regurgitation-and-elevated-jugular-venous-pressure",
+      "best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia",
+      "best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio",
+      "quick-ways-to-normalize-left-atrial-appendage-flow-velocity-using-diaphragmatic-breathing-and-postural-sequencing-especially-in-adults-65-with-cha-ds-vasc-3"
+    ]
+  },
+  {
+    "slug": "a-vs-b-5-minute-dynamic-chair-yoga-vs-5-minute-isometric-wall-sit-impact-on-1-hour-postprandial-glucose-in-adults-76-with-severe-knee-osteoarthritis",
+    "title": "A vs B: 5-Minute Dynamic Chair Yoga vs. 5-Minute Isometric Wall Sit — Impact on 1-Hour Postprandial Glucose in Adults 76+ With Severe Knee Osteoarthritis",
+    "description": "Compares real-world glycemic responses to two ultra-low-impact movement protocols in mobility-limited seniors, using blinded CGM data collected during standard lunch meals.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "chair yoga vs wall sit postprandial glucose",
+      "diabetes",
+      "low-impact-movement-comparison"
+    ],
+    "primaryKeyword": "chair yoga vs wall sit postprandial glucose",
+    "topicCluster": "low-impact-movement-comparison",
+    "image": "",
+    "relatedSlugs": [
+      "can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis",
+      "a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity",
+      "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis",
+      "a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms",
+      "a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea"
+    ]
+  },
+  {
+    "slug": "a-vs-b-12-minute-tai-chi-qigong-flow-vs-guided-4-7-8-breathing-with-biofeedback-impact-on-central-aortic-systolic-pressure-in-women-69-with-isolated-systolic-hypertension",
+    "title": "A vs B: 12-Minute Tai Chi Qigong Flow vs. Guided 4-7-8 Breathing With Biofeedback — Impact on Central Aortic Systolic Pressure in Women 69+ With Isolated Systolic Hypertension",
+    "description": "Compares two non-pharmacologic interventions using carotid-femoral pulse wave velocity and central aortic tonometry outcomes over 4 weeks, highlighting differential effects on wave reflection and arterial stiffness.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "tai chi vs breathing central aortic pressure",
+      "blood pressure",
+      "comparative-nonpharmacologic-interventions"
+    ],
+    "primaryKeyword": "tai chi vs breathing central aortic pressure",
+    "topicCluster": "comparative-nonpharmacologic-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension",
+      "does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability",
+      "a-vs-b-daily-10-minute-tai-chi-flow-vs-guided-heart-coherence-biofeedback-for-improving-24-hour-hrv-in-women-64-78-with-hypertension-and-perimenopausal-vasomotor-symptoms",
+      "can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity",
+      "a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension"
+    ]
+  },
+  {
+    "slug": "7-common-mistakes-that-worsen-post-holiday-joint-stiffness-in-adults-67-with-radiographic-osteoarthritis-even-without-weight-gain",
+    "title": "7 Common Mistakes That Worsen Post-Holiday Joint Stiffness in Adults 67+ With Radiographic Osteoarthritis — Even Without Weight Gain",
+    "description": "Highlights overlooked triggers: prolonged static sitting during gift-wrapping, high-oxalate holiday sides, and nighttime ambient temperature drops that amplify synovial viscosity.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "holiday joint stiffness mistakes seniors",
+      "healthy holiday eating for seniors",
+      "musculoskeletal-diet-behavior"
+    ],
+    "primaryKeyword": "holiday joint stiffness mistakes seniors",
+    "topicCluster": "musculoskeletal-diet-behavior",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation",
+      "5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58",
+      "how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia",
+      "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+      "why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease"
+    ]
+  },
+  {
+    "slug": "5-things-everyone-over-75-should-know-about-blood-pressure-medication-timing-especially-if-you-take-a-diuretic-and-a-calcium-channel-blocker",
+    "title": "5 Things Everyone Over 75 Should Know About Blood Pressure Medication Timing — Especially If You Take a Diuretic and a Calcium Channel Blocker",
+    "description": "Explains chronopharmacokinetic principles behind optimal dosing windows, how circadian renin-angiotensin shifts interact with diuretic-induced volume depletion, and why evening dosing of amlodipine may reduce nocturnal non-dipping.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "blood pressure medication timing over 75",
+      "blood pressure",
+      "pharmacology-chronobiology-elderly"
+    ],
+    "primaryKeyword": "blood pressure medication timing over 75",
+    "topicCluster": "pharmacology-chronobiology-elderly",
+    "image": "",
+    "relatedSlugs": [
+      "why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62",
+      "5-things-everyone-over-70-should-know-about-blood-pressure-medication-timing-when-taking-levothyroxine-and-calcium-supplements",
+      "12-science-backed-times-of-day-to-take-your-blood-pressure-based-on-circadian-endothelial-no-synthase-rhythms",
+      "a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension",
+      "how-chronic-low-dose-cortisol-elevation-from-night-shift-work-alters-renin-angiotensin-feedback-loops-in-men-52-64-with-nocturnal-hypertension"
+    ]
+  },
+  {
+    "slug": "10-foods-that-delay-coronary-artery-calcification-progression-not-just-slow-it-in-adults-66-with-cac-score-100-400-and-metabolic-syndrome",
+    "title": "10 Foods That *Delay* Coronary Artery Calcification Progression — Not Just Slow It — in Adults 66+ With CAC Score 100–400 and Metabolic Syndrome",
+    "description": "Focuses on foods with matrix Gla protein (MGP) activation properties (e.g., natto, fermented cheeses, pasture-raised egg yolks) and their impact on CAC Δ-score over 2 years.",
+    "date": "2026-02-05",
+    "updated": "2026-02-05",
+    "tags": [
+      "foods delay coronary artery calcification",
+      "heart disease",
+      "calcification-modulation-nutrition"
+    ],
+    "primaryKeyword": "foods delay coronary artery calcification",
+    "topicCluster": "calcification-modulation-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a",
+      "10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers",
+      "12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300",
+      "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance",
+      "10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score"
+    ]
+  },
+  {
     "slug": "why-does-blood-sugar-spike-after-morning-coffee-even-without-sugar-or-cream-in-adults-58-with-early-stage-type-2-diabetes",
     "title": "Why Does Blood Sugar Spike After Morning Coffee — Even Without Sugar or Cream — in Adults 58+ With Early-Stage Type 2 Diabetes?",
     "description": "Explores how caffeine, circadian cortisol surges, and delayed gastric emptying interact to elevate fasting glucose in older adults newly diagnosed with diabetes — with actionable timing and preparation strategies.",
@@ -11355,7 +12012,8 @@
       "does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd",
       "when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use",
       "how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy",
-      "when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use"
+      "when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use",
+      "when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium"
     ]
   },
   {
@@ -11970,7 +12628,8 @@
       "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension",
       "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes",
       "dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery",
-      "when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension"
+      "when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension",
+      "what-causes-sudden-orthostatic-hypotension-after-morning-tea-in-adults-68-with-mild-parkinsonism-even-without-caffeine"
     ]
   },
   {
@@ -17329,7 +17988,8 @@
       "a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100",
       "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55",
       "how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone",
-      "the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks"
+      "the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks",
+      "the-complete-guide-to-interpreting-your-coronary-artery-calcium-score-with-ct-lung-screening-avoiding-misattribution-of-calcified-nodules-in-adults-63-with-emphysema"
     ]
   },
   {

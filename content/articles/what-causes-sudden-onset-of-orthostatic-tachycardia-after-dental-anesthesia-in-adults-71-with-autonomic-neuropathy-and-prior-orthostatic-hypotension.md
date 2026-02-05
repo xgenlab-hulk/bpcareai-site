@@ -1,14 +1,33 @@
 ---
-title: "What Causes Sudden Onset of Orthostatic Tachycardia After Dental Anesthesia in Adults 71+ With Autonomic Neuropathy and Prior Orthostatic Hypotension"
-slug: "what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension"
-description: "Investigates the interplay of local anesthetics (e.g., epinephrine-containing formulations), baroreflex blunting, and delayed sympathetic reactivation — with actionable pre- and post-procedure safeguards."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["orthostatic tachycardia after dental anesthesia seniors", "heart health", "procedure-specific-cardiac-autonomic-risks"]
-primaryKeyword: "orthostatic tachycardia after dental anesthesia seniors"
-topicCluster: "procedure-specific-cardiac-autonomic-risks"
-image: ""
-relatedSlugs: ["what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension", "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes", "dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery", "when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension"]
+title: >-
+  What Causes Sudden Onset of Orthostatic Tachycardia After Dental Anesthesia in
+  Adults 71+ With Autonomic Neuropathy and Prior Orthostatic Hypotension
+slug: >-
+  what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
+description: >-
+  Investigates the interplay of local anesthetics (e.g., epinephrine-containing
+  formulations), baroreflex blunting, and delayed sympathetic reactivation —
+  with actionable pre- and post-procedure safeguards.
+date: '2026-01-17'
+updated: '2026-01-17'
+tags:
+  - orthostatic tachycardia after dental anesthesia seniors
+  - heart health
+  - procedure-specific-cardiac-autonomic-risks
+primaryKeyword: orthostatic tachycardia after dental anesthesia seniors
+topicCluster: procedure-specific-cardiac-autonomic-risks
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+  - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
+  - >-
+    dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
+  - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
+  - >-
+    what-causes-sudden-orthostatic-hypotension-after-morning-tea-in-adults-68-with-mild-parkinsonism-even-without-caffeine
 ---
 
 # Why Some Seniors Experience Orthostatic Tachycardia After Dental Anesthesia — And What You Can Do About It
