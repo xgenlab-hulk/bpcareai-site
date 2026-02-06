@@ -8,91 +8,11 @@
     "createdAt": "2026-02-05T04:23:34.373Z"
   },
   {
-    "title": "How Chronic Low-Dose Proton Pump Inhibitor Use Alters Gut Microbiome-Derived Trimethylamine N-Oxide (TMAO) Production — And Accelerates Coronary Artery Calcification in Adults 70+ With GERD and Stable CAD",
-    "description": "Analyzes the gut-heart axis link between long-term PPI use, microbial TMAO generation, and CAC progression — with dietary mitigation strategies validated in cohort studies.",
-    "primaryKeyword": "pom inhibitor tmao coronary calcification",
-    "topicCluster": "pharmacology-gut-heart-axis",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-05T04:23:36.328Z"
-  },
-  {
-    "title": "A vs B: Daily 12-Minute Tai Chi Flow vs. Supervised Treadmill Walking — Impact on Myocardial Perfusion Reserve Index in Adults 67+ With Microvascular Angina and Normal Coronary Angiograms",
-    "description": "Compares non-invasive cardiac MRI outcomes between mind-body and aerobic modalities for microvascular dysfunction — highlighting autonomic and capillary density biomarkers.",
-    "primaryKeyword": "tai chi vs treadmill microvascular angina",
-    "topicCluster": "exercise-modality-comparison",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-05T04:23:40.340Z"
-  },
-  {
-    "title": "12 Science-Backed Times to Check NT-proBNP — Not Just BNP — in Adults 65+ With Chronic Kidney Disease Stage 2 and New-Onset Exertional Dyspnea",
-    "description": "Guides optimal NT-proBNP timing (e.g., post-dialysis, pre-antihypertensive dose, after 30-min upright posture) to distinguish volume overload from incipient heart failure in CKD.",
-    "primaryKeyword": "nt-probnp timing chronic kidney disease",
-    "topicCluster": "biomarker-timing-strategy",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-05T04:23:44.300Z"
-  },
-  {
-    "title": "Natural Ways to Improve Cardiac Mitochondrial Biogenesis *Without* Supplements — Using Postprandial Cold Exposure and Time-Restricted Eating Windows in Adults 61+ With Diastolic Stiffness",
-    "description": "Examines how non-pharmacologic metabolic triggers (e.g., 10°C ambient post-meal exposure + 8-h feeding window) activate PGC-1α pathways and improve diastolic relaxation on echocardiography.",
-    "primaryKeyword": "mitochondrial biogenesis natural diastolic stiffness",
-    "topicCluster": "cellular-metabolism-intervention",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-05T04:23:46.269Z"
-  },
-  {
-    "title": "5 Things Everyone Over 72 Should Know About Dual Antiplatelet Therapy After PCI — Especially If You Take OTC NSAIDs or Eat Natto Daily",
-    "description": "Covers bleeding risk modifiers, food-drug interactions (vitamin K2 in natto), and platelet function testing alternatives for frail seniors on aspirin + ticagrelor.",
-    "primaryKeyword": "dual antiplatelet therapy over 72",
-    "topicCluster": "post-pci-pharmacovigilance",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-05T04:23:49.635Z"
-  },
-  {
-    "title": "Does Daily 4-Minute Sauna Exposure *Really* Improve Coronary Flow Reserve in Adults 69+ With Endothelial Dysfunction and No Structural Heart Disease?",
-    "description": "Reviews randomized trials using transthoracic Doppler echocardiography to measure coronary flow reserve changes after repeated sauna — comparing Finnish-style vs. infrared protocols.",
-    "primaryKeyword": "sauna coronary flow reserve endothelial",
-    "topicCluster": "thermal-therapy-efficacy",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-05T04:23:51.605Z"
-  },
-  {
-    "title": "Myths vs Facts: 'Normal' Troponin I Levels in Adults 76+ — Why Age-Adjusted Cutoffs Miss Myocardial Injury in 41% of Acute HF Admissions",
-    "description": "Debunks the 'normal troponin' misconception by presenting age-stratified 99th percentile thresholds and clinical outcomes data linking subthreshold elevations to 30-day mortality.",
-    "primaryKeyword": "age-adjusted troponin i myths",
-    "topicCluster": "biomarker-interpretation-myths",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-05T04:23:55.522Z"
-  },
-  {
-    "title": "How Late-Night Smartphone Use Alters Nocturnal Atrial Fibrillation Burden — Not Just Onset — in Adults 71+ With Paroxysmal AF and Mild Obstructive Sleep Apnea",
-    "description": "Analyzes how blue light–mediated melatonin suppression increases AF episode duration and recurrence frequency during sleep, per implantable loop recorder data.",
-    "primaryKeyword": "smartphone use nocturnal af burden",
-    "topicCluster": "digital-exposure-arrhythmia-link",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-05T04:24:01.653Z"
-  },
-  {
-    "title": "Can You Safely Resume Resistance Training After Aortic Valve Replacement? — Evidence-Based Thresholds for Systolic Pressure Response and LVOT Velocity in Adults 67+ With Mechanical Valves",
-    "description": "Defines safe lifting parameters (e.g., peak SBP <160 mmHg, LVOT Vmax <2.0 m/s on echo stress test) and phased return protocols validated in post-AVR rehab cohorts.",
-    "primaryKeyword": "resistance training after aortic valve replacement",
-    "topicCluster": "post-valve-rehab-guidance",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-05T04:24:05.562Z"
-  },
-  {
     "title": "What Are the Earliest Signs of Cardiac Sarcoidosis in Adults 59+ With Unexplained AV Block and Normal Ejection Fraction — Before FDG-PET Uptake Becomes Diffuse?",
     "description": "Identifies prodromal clues: asymmetric septal thickening on strain imaging, elevated serum angiotensin-converting enzyme *with* low-normal vitamin D, and skin biopsy correlations.",
     "primaryKeyword": "cardiac sarcoidosis early signs av block",
     "topicCluster": "inflammatory-cardiomyopathy-detection",
     "coreKeyword": "heart disease",
     "createdAt": "2026-02-05T04:24:07.479Z"
-  },
-  {
-    "title": "How Chronic Exposure to Urban Roadway Noise >55 dB Increases Nighttime Sympathetic Tone — And Predicts New-Onset Heart Failure in Adults 64+ With Borderline Hypertension",
-    "description": "Presents longitudinal data linking residential noise exposure to HRV metrics (LF/HF ratio), nocturnal BP non-dipping, and incident HF — with mitigation strategies shown to reverse trends.",
-    "primaryKeyword": "roadway noise sympathetic tone heart failure",
-    "topicCluster": "environmental-cardiovascular-risk",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-05T04:24:09.433Z"
   }
 ]
