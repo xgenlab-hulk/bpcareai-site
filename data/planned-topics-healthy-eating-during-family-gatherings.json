@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "title": "How Grandchildren’s Candy Requests Alter Postprandial Glucose Trajectories in Adults 62+ With Early Prediabetes — And What to Serve Instead of Chocolate-Covered Almonds",
+    "description": "Explores the intergenerational behavioral triggers that spike blood sugar during holiday meals, with practical, low-glycemic alternatives backed by glycemic index data and real-world family testing.",
+    "primaryKeyword": "postprandial glucose family gatherings prediabetes",
+    "topicCluster": "behavioral-nutrition-glucose",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-07T04:15:03.161Z"
+  },
+  {
+    "title": "When to Pause Mid-Dessert for Vagal Reset — Not Just Portion Control — in Adults 69+ With Postprandial Hypotension and Orthostatic Dizziness",
+    "description": "Details evidence-based timing cues (e.g., after first bite of pie, before coffee) to activate vagal tone and stabilize blood pressure—not just reduce sugar intake.",
+    "primaryKeyword": "vagal reset dessert postprandial hypotension",
+    "topicCluster": "autonomic-nutrition-timing",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-07T04:15:07.106Z"
+  },
+  {
+    "title": "The Truth About 'Low-Sugar' Holiday Cookies Labeled for Seniors — Why 73% Contain Maltitol-Induced Osmotic Diarrhea Triggers in Adults 71+ With IBS-C",
+    "description": "Debunks marketing claims around sugar alcohols, explains osmotic mechanisms in aging gut motility, and provides a certified low-FODMAP cookie swap list.",
+    "primaryKeyword": "low-sugar cookies maltitol seniors ibs",
+    "topicCluster": "gastrointestinal-label-deception",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-07T04:15:11.138Z"
+  },
+  {
+    "title": "How Intergenerational Plate-Sharing (Grandparent → Grandchild → Parent) Disrupts Glycemic Buffering in Adults 59–64 With New-Onset Insulin Resistance",
+    "description": "Analyzes how repeated micro-portions of high-carb foods across shared plates erode postprandial metabolic resilience—and offers a 'buffer plate' strategy with resistant starch pairing.",
+    "primaryKeyword": "plate-sharing insulin resistance glycemic buffering",
+    "topicCluster": "intergenerational-metabolic-dynamics",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-07T04:15:15.138Z"
+  },
+  {
+    "title": "Natural Ways to Support Pancreatic Beta-Cell Rest During Holiday Meals — Using Cold-Pressed Apple-Cinnamon Chutney and Pre-Meal Seated Breathing in Adults 63+",
+    "description": "Focuses on non-pharmacologic beta-cell protection: polyphenol timing, vagal priming, and circadian-aligned fruit enzyme delivery to reduce acute insulin demand.",
+    "primaryKeyword": "beta-cell rest holiday meals natural support",
+    "topicCluster": "pancreatic-resilience-nutrition",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-07T04:15:17.118Z"
+  },
+  {
+    "title": "What Are the Hidden Risks of 'Gluten-Free' Holiday Rolls for Adults 77+ With Undiagnosed Celiac Disease and Atrophic Gastritis?",
+    "description": "Uncovers cross-contamination risks in shared ovens, gluten-degrading enzyme deficiencies in aging stomachs, and iron/B12 absorption interference from GF flours.",
+    "primaryKeyword": "gluten-free rolls celiac atrophic gastritis",
+    "topicCluster": "celiac-aging-gastric-absorption",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-07T04:15:19.020Z"
+  },
+  {
+    "title": "Does Daily 10-Minute Post-Dinner Walking *Really* Lower Next-Morning Fasting Glucose in Adults 64+ With Morning-Only Hyperglycemia?",
+    "description": "Reviews RCT data on timing-specific glycemic benefits, compares walking pace/duration thresholds, and explains why this works *only* when done barefoot on carpeted surfaces.",
+    "primaryKeyword": "post-dinner walking fasting glucose seniors",
+    "topicCluster": "activity-timing-glycemic-response",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-07T04:15:24.814Z"
+  },
+  {
+    "title": "The Complete Guide to Navigating a Potluck When You’re the Only One with Newly Diagnosed Heart Failure — Age 58–65, Ejection Fraction 45%, No Edema Yet",
+    "description": "Covers RSVP language, dish-label negotiation tactics, sodium-aware substitutions, and how to tactfully decline ‘just one bite’ without social friction.",
+    "primaryKeyword": "potluck heart failure newly diagnosed guide",
+    "topicCluster": "social-nutrition-heart-failure",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-07T04:15:30.636Z"
+  }
+]

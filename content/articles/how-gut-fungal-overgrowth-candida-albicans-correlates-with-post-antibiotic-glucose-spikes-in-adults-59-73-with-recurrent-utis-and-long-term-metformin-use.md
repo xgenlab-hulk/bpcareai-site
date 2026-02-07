@@ -1,14 +1,31 @@
 ---
-title: "How Gut Fungal Overgrowth (Candida albicans) Correlates With Post-Antibiotic Glucose Spikes in Adults 59–73 With Recurrent UTIs and Long-Term Metformin Use"
-slug: "how-gut-fungal-overgrowth-candida-albicans-correlates-with-post-antibiotic-glucose-spikes-in-adults-59-73-with-recurrent-utis-and-long-term-metformin-use"
-description: "Examines fungal D-lactic acid production, TLR2-mediated systemic inflammation, and metformin’s impact on gut mycobiome diversity — with stool PCR testing insights and non-antifungal microbial balancing strategies."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["gut fungi post-antibiotic glucose spikes", "diabetes", "microbiome-fungal-metabolic-crosstalk"]
-primaryKeyword: "gut fungi post-antibiotic glucose spikes"
-topicCluster: "microbiome-fungal-metabolic-crosstalk"
-image: ""
-relatedSlugs: ["how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough", "12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64", "how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs"]
+title: >-
+  How Gut Fungal Overgrowth (Candida albicans) Correlates With Post-Antibiotic
+  Glucose Spikes in Adults 59–73 With Recurrent UTIs and Long-Term Metformin Use
+slug: >-
+  how-gut-fungal-overgrowth-candida-albicans-correlates-with-post-antibiotic-glucose-spikes-in-adults-59-73-with-recurrent-utis-and-long-term-metformin-use
+description: >-
+  Examines fungal D-lactic acid production, TLR2-mediated systemic inflammation,
+  and metformin’s impact on gut mycobiome diversity — with stool PCR testing
+  insights and non-antifungal microbial balancing strategies.
+date: '2026-01-30'
+updated: '2026-01-30'
+tags:
+  - gut fungi post-antibiotic glucose spikes
+  - diabetes
+  - microbiome-fungal-metabolic-crosstalk
+primaryKeyword: gut fungi post-antibiotic glucose spikes
+topicCluster: microbiome-fungal-metabolic-crosstalk
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
+  - >-
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
+  - >-
+    how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs
+  - >-
+    10-unexpected-medication-interactions-that-spike-blood-glucose-in-adults-62-taking-metformin-and-probiotics
 ---
 
 # Understanding Gut Fungi Post-Antibiotic Glucose Spikes in Adults 59–73 With Recurrent UTIs and Long-Term Metformin Use

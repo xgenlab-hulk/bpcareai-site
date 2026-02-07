@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": "How Holiday Travel Disrupts Circadian Glucose Rhythms in Adults 58–65 With Insulin-Treated Type 2 Diabetes — And 3 Jet-Lag-Proof Timing Strategies",
+    "description": "Explores the science behind circadian misalignment during holiday flights and road trips, and delivers evidence-based timing rules for insulin dosing, meal scheduling, and light exposure to prevent dangerous glucose volatility.",
+    "primaryKeyword": "holiday travel circadian glucose rhythms insulin",
+    "topicCluster": "circadian-timing-strategies",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-07T04:16:18.961Z"
+  },
+  {
+    "title": "7 Silent Signs Your Holiday Eggnog Is Triggering Postprandial Endothelial Dysfunction in Adults 67+ With Preexisting Microalbuminuria",
+    "description": "Identifies subtle but clinically meaningful vascular stress markers—like delayed capillary refill and transient speech latency—that signal endothelial injury after high-fat, high-sugar holiday beverages in older adults with early kidney involvement.",
+    "primaryKeyword": "holiday eggnog endothelial dysfunction microalbuminuria",
+    "topicCluster": "vascular-stress-signs",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-07T04:16:20.962Z"
+  },
+  {
+    "title": "Can You Safely Skip Your Evening Metformin Dose Before a Holiday Potluck? — A Risk-Benefit Analysis for Adults 71+ With eGFR 48–59 mL/min",
+    "description": "Analyzes real-world pharmacokinetics and renal clearance thresholds to guide safe, individualized metformin interruption—weighing hypoglycemia risk, lactic acidosis probability, and meal composition variables.",
+    "primaryKeyword": "skip metformin holiday potluck eGFR safety",
+    "topicCluster": "medication-safety-analysis",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-07T04:16:22.856Z"
+  },
+  {
+    "title": "When to Suspect Holiday-Induced Glycemic Amnesia in Adults 74+ With Mild Cognitive Impairment — And Why It’s Not Just 'Forgetfulness'",
+    "description": "Defines glycemic amnesia as transient hippocampal hypometabolism caused by acute glucose spikes, outlining 5 behavioral red flags (e.g., misplaced insulin pens, repeated carb-counting errors) distinct from dementia progression.",
+    "primaryKeyword": "holiday glycemic amnesia mild cognitive impairment",
+    "topicCluster": "cognitive-glucose-interaction",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-07T04:16:28.815Z"
+  },
+  {
+    "title": "12 Science-Backed Times to Measure Fasting Glucose *Before* Breakfast — Not Just Upon Waking — for Adults 65+ With Dawn Phenomenon and Shift Work History",
+    "description": "Maps optimal glucose sampling windows aligned with cortisol pulses, melatonin clearance, and hepatic glycogenolysis peaks—using real-world shift-worker data to refine 'fasting' definition beyond clock time.",
+    "primaryKeyword": "fasting glucose measurement timing dawn phenomenon",
+    "topicCluster": "precision-glucose-monitoring-timing",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-07T04:16:32.303Z"
+  },
+  {
+    "title": "What Causes Sudden Glucose Spikes *Only* During Family Photos? — The Role of Acute Social Stress, Facial Muscle Tension, and Sympathetic Surges in Adults 57–64 With Long-Standing Type 2 Diabetes",
+    "description": "Investigates the underrecognized link between posed smiling, vagal inhibition, and catecholamine-driven hepatic glucose output—validated via salivary alpha-amylase and real-time CGM during holiday gatherings.",
+    "primaryKeyword": "glucose spikes family photos social stress",
+    "topicCluster": "social-stress-glucose-response",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-07T04:16:34.403Z"
+  }
+]

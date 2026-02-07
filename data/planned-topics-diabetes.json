@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "title": "How Chronic Low-Grade Gum Inflammation Alters Insulin Clearance in Adults 57–69 With Well-Controlled Type 2 Diabetes",
+    "description": "Examines the oral-systemic link between periodontitis, hepatic insulin degradation, and postprandial hyperinsulinemia — with actionable dental hygiene strategies tailored for aging metabolisms.",
+    "primaryKeyword": "gum inflammation insulin clearance diabetes",
+    "topicCluster": "oral-systemic-metabolic-link",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:19.930Z"
+  },
+  {
+    "title": "Can You Safely Use Sauna Therapy After a Recent Diabetic Foot Ulcer Closure? — Evidence-Based Temperature, Duration, and Hydration Thresholds for Adults 68+ With Peripheral Neuropathy",
+    "description": "Reviews thermal injury risk, autonomic response thresholds, and wound perfusion studies to define safe sauna parameters for post-ulcer recovery in high-neuropathy populations.",
+    "primaryKeyword": "sauna therapy diabetic foot ulcer recovery",
+    "topicCluster": "thermal-therapy-safety",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:25.396Z"
+  },
+  {
+    "title": "What Are the Earliest Signs Your Morning Cortisol Rhythm Is Driving Insulin Resistance — Even With Normal A1C in Adults 55–64?",
+    "description": "Discusses circadian cortisol dysregulation, salivary diurnal testing protocols, and behavioral interventions (light exposure timing, breakfast macronutrient sequencing) to restore HPA-glucose axis harmony.",
+    "primaryKeyword": "morning cortisol insulin resistance A1C",
+    "topicCluster": "circadian-hormone-glucose-link",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:27.314Z"
+  },
+  {
+    "title": "How Nighttime Light Exposure From Smart Clocks Disrupts Melatonin-Mediated GLP-1 Secretion — And Elevates Fasting Glucose in Adults 59+ With Shift Work History",
+    "description": "Analyzes blue-enriched light’s suppression of enteroendocrine L-cells, real-world bedroom light mapping, and melatonin-sparing lighting alternatives for metabolic resilience.",
+    "primaryKeyword": "nighttime light GLP-1 secretion fasting glucose",
+    "topicCluster": "circadian-light-metabolism-link",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:33.109Z"
+  },
+  {
+    "title": "Natural Ways to Restore Beta-Cell Responsiveness *Without* GLP-1 Agonists — Using Fasting-Mimicking Cycles and Polyphenol-Rich Fermented Foods in Adults 63+ With Long-Standing Type 2 Diabetes",
+    "description": "Details clinically tested fasting-mimicking protocols (e.g., ProLon®-adjacent), gut-microbiome-mediated beta-cell regeneration markers, and food-based polyphenol dosing for older adults avoiding injectables.",
+    "primaryKeyword": "beta-cell responsiveness fasting-mimicking foods",
+    "topicCluster": "beta-cell-regeneration-natural",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:35.046Z"
+  },
+  {
+    "title": "Warning Signs Your Winter Indoor Humidity <30% Is Accelerating Corneal Nerve Damage — Even With Stable HbA1c in Adults 77+ With Diabetic Neuropathy",
+    "description": "Connects dry air-induced ocular surface stress, corneal confocal microscopy findings, tear osmolarity changes, and humidifier-based neuroprotection strategies for frail older adults.",
+    "primaryKeyword": "indoor humidity corneal nerve damage",
+    "topicCluster": "environmental-neuropathy-risk",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:36.974Z"
+  },
+  {
+    "title": "The Complete Guide to Managing Diabetes While Caring for a Spouse With Late-Stage Dementia — Practical Strategies for Adults 72+ With Limited Caregiver Support",
+    "description": "Addresses insulin administration logistics, hypoglycemia emergency planning, meal prep delegation, and cognitive load management during dual chronic disease caregiving.",
+    "primaryKeyword": "diabetes management dementia caregiver support",
+    "topicCluster": "dual-chronic-disease-caregiving",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:42.732Z"
+  },
+  {
+    "title": "Best Footwear Modifications for Adults 65+ With Charcot Neuroarthropathy *and* Mild COPD — Balancing Offloading, Oxygen Conservation, and Fall Prevention",
+    "description": "Compares custom orthotic designs, energy-return sole technology, and breathability-performance tradeoffs in footwear engineered for comorbid respiratory and skeletal neuropathic compromise.",
+    "primaryKeyword": "charcot footwear COPD oxygen conservation",
+    "topicCluster": "comorbid-footwear-engineering",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:46.709Z"
+  },
+  {
+    "title": "How Chronic Low-Dose NSAID Use Alters Renal Prostaglandin-Mediated Glucose Reabsorption — And Accelerates eGFR Decline in Adults 70+ With Stage 3 CKD and Diabetes",
+    "description": "Explains COX-2 inhibition’s effect on SGLT2 regulation, urine glucose excretion paradoxes, and NSAID-sparing pain strategies validated in renal-metabolic cohort studies.",
+    "primaryKeyword": "NSAID renal glucose reabsorption CKD",
+    "topicCluster": "renal-prostaglandin-glucose-link",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:48.636Z"
+  },
+  {
+    "title": "Simple Steps to Reduce Glucose Variability *During* Air Travel — Not Just Before or After — for Adults 61+ With Insulin-Dependent Diabetes",
+    "description": "Provides in-flight insulin adjustment algorithms, cabin pressure–glucose interaction data, hydration-electrolyte pairing strategies, and TSA-compliant device carrying solutions.",
+    "primaryKeyword": "air travel glucose variability insulin",
+    "topicCluster": "travel-metabolic-stability",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:52.528Z"
+  },
+  {
+    "title": "How Intermittent Fasting Affects Hepatic Glycogen Resynthesis *Differently* in Women 58–66 vs Men 60–68 With Prediabetes — Hormone-Sensitive Timing Windows",
+    "description": "Analyzes estradiol-progesterone modulation of glycogen synthase activity, sex-specific fasting window tolerability, and menstrual-phase–adjusted protocols for metabolic flexibility.",
+    "primaryKeyword": "intermittent fasting gender glycogen resynthesis",
+    "topicCluster": "sex-differences-metabolic-timing",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-07T04:13:56.492Z"
+  }
+]
