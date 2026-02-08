@@ -1,14 +1,32 @@
 ---
-title: "When to Worry About ‘Just One More Slice’ of Holiday Bread—Especially If You’re a Woman Over 64 With Silent Celiac Disease"
-slug: "when-to-worry-about-just-one-more-slice-of-holiday-bread-especially-if-you-re-a-woman-over-64-with-silent-celiac-disease"
-description: "Highlights non-GI red flags of gluten exposure in aging women—including unexplained fatigue, iron-deficiency anemia, and rapid bone density loss—and explains why serology testing often fails after age 60 without intestinal biopsy confirmation."
-date: "2026-01-10"
-updated: "2026-01-10"
-tags: ["silent celiac symptoms in older women", "healthy eating during family gatherings", "celiac-disease-aging-women"]
-primaryKeyword: "silent celiac symptoms in older women"
-topicCluster: "celiac-disease-aging-women"
-image: ""
-relatedSlugs: ["the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12", "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60", "warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines"]
+title: >-
+  When to Worry About ‘Just One More Slice’ of Holiday Bread—Especially If
+  You’re a Woman Over 64 With Silent Celiac Disease
+slug: >-
+  when-to-worry-about-just-one-more-slice-of-holiday-bread-especially-if-you-re-a-woman-over-64-with-silent-celiac-disease
+description: >-
+  Highlights non-GI red flags of gluten exposure in aging women—including
+  unexplained fatigue, iron-deficiency anemia, and rapid bone density loss—and
+  explains why serology testing often fails after age 60 without intestinal
+  biopsy confirmation.
+date: '2026-01-10'
+updated: '2026-01-10'
+tags:
+  - silent celiac symptoms in older women
+  - healthy eating during family gatherings
+  - celiac-disease-aging-women
+primaryKeyword: silent celiac symptoms in older women
+topicCluster: celiac-disease-aging-women
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
+  - >-
+    what-are-the-hidden-risks-of-gluten-free-holiday-rolls-for-adults-77-with-undiagnosed-celiac-disease-and-atrophic-gastritis
 ---
 
 # Recognizing Silent Celiac Symptoms in Older Women—Especially During the Holidays
