@@ -1,14 +1,34 @@
 ---
-title: "The Complete Guide to Interpreting Your Coronary Artery Calcium Score *With* CT Lung Screening — Avoiding Misattribution of Calcified Nodules in Adults 63+ With Emphysema"
-slug: "the-complete-guide-to-interpreting-your-coronary-artery-calcium-score-with-ct-lung-screening-avoiding-misattribution-of-calcified-nodules-in-adults-63-with-emphysema"
-description: "Clarifies imaging pitfalls (e.g., distinguishing bronchial vs. coronary calcification on low-dose CT) and provides radiologist-vetted decision trees for CAC score contextualization."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["coronary calcium score ct lung screening", "heart disease", "imaging-interpretation-guide"]
-primaryKeyword: "coronary calcium score ct lung screening"
-topicCluster: "imaging-interpretation-guide"
-image: ""
-relatedSlugs: ["the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks", "the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning"]
+title: >-
+  The Complete Guide to Interpreting Your Coronary Artery Calcium Score *With*
+  CT Lung Screening — Avoiding Misattribution of Calcified Nodules in Adults 63+
+  With Emphysema
+slug: >-
+  the-complete-guide-to-interpreting-your-coronary-artery-calcium-score-with-ct-lung-screening-avoiding-misattribution-of-calcified-nodules-in-adults-63-with-emphysema
+description: >-
+  Clarifies imaging pitfalls (e.g., distinguishing bronchial vs. coronary
+  calcification on low-dose CT) and provides radiologist-vetted decision trees
+  for CAC score contextualization.
+date: '2026-02-05'
+updated: '2026-02-05'
+tags:
+  - coronary calcium score ct lung screening
+  - heart disease
+  - imaging-interpretation-guide
+primaryKeyword: coronary calcium score ct lung screening
+topicCluster: imaging-interpretation-guide
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
+  - >-
+    the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-men-76-with-unexplained-low-voltage-ecg-bilateral-carpal-tunnel-and-progressive-fatigue-even-with-normal-echocardiogram
 ---
 
 # Understanding Your Coronary Calcium Score CT Lung Screening — Especially With Emphysema

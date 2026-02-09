@@ -1,14 +1,33 @@
 ---
-title: "5 Things Every Woman Over 67 Should Know About Lipoprotein(a) Testing — Especially After a Family History of Premature Aortic Valve Stenosis"
-slug: "5-things-every-woman-over-67-should-know-about-lipoprotein-a-testing-especially-after-a-family-history-of-premature-aortic-valve-stenosis"
-description: "Explains why Lp(a) is under-tested in postmenopausal women, its estrogen-loss linkage, interpretation nuances at older ages, and implications for valve disease prevention."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["lipoprotein a testing women over 67", "heart health", "genetic-lipid-women-aging"]
-primaryKeyword: "lipoprotein a testing women over 67"
-topicCluster: "genetic-lipid-women-aging"
-image: ""
-relatedSlugs: ["myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio", "why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol"]
+title: >-
+  5 Things Every Woman Over 67 Should Know About Lipoprotein(a) Testing —
+  Especially After a Family History of Premature Aortic Valve Stenosis
+slug: >-
+  5-things-every-woman-over-67-should-know-about-lipoprotein-a-testing-especially-after-a-family-history-of-premature-aortic-valve-stenosis
+description: >-
+  Explains why Lp(a) is under-tested in postmenopausal women, its estrogen-loss
+  linkage, interpretation nuances at older ages, and implications for valve
+  disease prevention.
+date: '2026-02-08'
+updated: '2026-02-08'
+tags:
+  - lipoprotein a testing women over 67
+  - heart health
+  - genetic-lipid-women-aging
+primaryKeyword: lipoprotein a testing women over 67
+topicCluster: genetic-lipid-women-aging
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
+  - >-
+    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
+  - >-
+    5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction
+  - >-
+    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
+  - >-
+    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
 ---
 
 # What Every Woman Over 67 Should Know About Lipoprotein(a) Testing — Especially With a Family History of Early Aortic Valve Stenosis

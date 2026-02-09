@@ -1,14 +1,33 @@
 ---
-title: "5 Things Everyone Over 72 Should Know About Dual Antiplatelet Therapy After PCI — Especially If You Take OTC NSAIDs or Eat Natto Daily"
-slug: "5-things-everyone-over-72-should-know-about-dual-antiplatelet-therapy-after-pci-especially-if-you-take-otc-nsaids-or-eat-natto-daily"
-description: "Covers bleeding risk modifiers, food-drug interactions (vitamin K2 in natto), and platelet function testing alternatives for frail seniors on aspirin + ticagrelor."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["dual antiplatelet therapy over 72", "heart disease", "post-pci-pharmacovigilance"]
-primaryKeyword: "dual antiplatelet therapy over 72"
-topicCluster: "post-pci-pharmacovigilance"
-image: ""
-relatedSlugs: ["does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use"]
+title: >-
+  5 Things Everyone Over 72 Should Know About Dual Antiplatelet Therapy After
+  PCI — Especially If You Take OTC NSAIDs or Eat Natto Daily
+slug: >-
+  5-things-everyone-over-72-should-know-about-dual-antiplatelet-therapy-after-pci-especially-if-you-take-otc-nsaids-or-eat-natto-daily
+description: >-
+  Covers bleeding risk modifiers, food-drug interactions (vitamin K2 in natto),
+  and platelet function testing alternatives for frail seniors on aspirin +
+  ticagrelor.
+date: '2026-02-06'
+updated: '2026-02-06'
+tags:
+  - dual antiplatelet therapy over 72
+  - heart disease
+  - post-pci-pharmacovigilance
+primaryKeyword: dual antiplatelet therapy over 72
+topicCluster: post-pci-pharmacovigilance
+image: ''
+relatedSlugs:
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - >-
+    the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
+  - >-
+    does-daily-low-dose-aspirin-increase-holiday-heart-syndrome-risk-in-adults-65-with-atrial-enlargement-and-unrecognized-microbleeds
+  - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
+  - >-
+    the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
 ---
 
 # What Everyone Over 72 Needs to Know About Dual Antiplatelet Therapy After PCI — Especially With NSAIDs or Natto in the Mix
