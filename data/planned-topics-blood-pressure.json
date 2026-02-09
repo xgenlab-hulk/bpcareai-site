@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": "7 Silent Signs Your Blood Pressure Is Spiking During Morning Commute — Even With Normal Clinic Readings in Adults 58–66 With White-Coat Normotension",
+    "description": "Explores situational hypertension triggers like traffic stress, seat vibration, and delayed caffeine withdrawal that evade office measurement — with home monitoring protocols for working-age adults.",
+    "primaryKeyword": "morning commute blood pressure spike",
+    "topicCluster": "situational-hypertension-detection",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-09T04:33:29.266Z"
+  },
+  {
+    "title": "Natural Ways to Support Arterial Stiffness Reduction *Without* Nitrate-Rich Greens — Using Cold-Pressed Pomegranate-Ginger Syrup and Diaphragmatic Breathing Cycles in Adults 67+ With Elevated Pulse Wave Velocity",
+    "description": "Offers alternatives for seniors with renal concerns or medication interactions, focusing on endothelial shear stress modulation and pulse wave reflection damping.",
+    "primaryKeyword": "arterial-stiffness-reduction-without-nitrates",
+    "topicCluster": "vascular-elasticity-alternatives",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-09T04:33:41.090Z"
+  },
+  {
+    "title": "5 Things Every Woman Over 68 Should Know About Central Aortic Pressure — Especially After Menopause and Long-Term Beta-Blocker Use",
+    "description": "Explains why brachial cuff readings underestimate cardiac afterload in postmenopausal women, how beta-blockers mask central pressure elevation, and non-invasive assessment options.",
+    "primaryKeyword": "central-aortic-pressure-women-menopause",
+    "topicCluster": "gender-specific-central-hemodynamics",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-09T04:33:43.096Z"
+  },
+  {
+    "title": "Can You Safely Use Infrared Heating Pads for Chronic Back Pain *While* Taking ACE Inhibitors? — Evidence-Based Thermal Thresholds for Adults 72+ With Stage 2 Hypertension and Mild CKD",
+    "description": "Reviews renal perfusion risks, local vasodilation interactions, and safe surface temperature/duration limits validated in geriatric pharmacokinetic studies.",
+    "primaryKeyword": "infrared-pad-ace-inhibitor-safety",
+    "topicCluster": "thermal-therapy-drug-interaction",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-09T04:33:46.934Z"
+  },
+  {
+    "title": "Does Daily 4-Minute Cold-Water Face Immersion *Really* Lower 24-Hour Mean Arterial Pressure in Adults 61+ With Early Autonomic Dysfunction?",
+    "description": "Synthesizes ambulatory BP data from 8-week RCTs showing vagal tone restoration effects — with safety thresholds for atrial fibrillation history and carotid sinus sensitivity.",
+    "primaryKeyword": "cold-face-immersion-mean-arterial-pressure",
+    "topicCluster": "vagal-toning-intervention-efficacy",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-09T04:33:52.841Z"
+  },
+  {
+    "title": "Myths vs Facts: 'Salt Sensitivity' in Adults 74+ With Long-Standing Hypertension — Why 82% of 'Salt-Sensitive' Diagnoses Are Based on Outdated Protocols",
+    "description": "Debunks outdated dietary sodium challenge methods, highlights renal sodium handling decline, and presents modern fractional excretion of sodium (FeNa) interpretation for geriatrics.",
+    "primaryKeyword": "salt-sensitivity-myths-elderly-hypertension",
+    "topicCluster": "sodium-sensitivity-assessment",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-09T04:34:02.697Z"
+  }
+]
