@@ -1,14 +1,31 @@
 ---
-title: "7 Silent Signs Your Hearing Aid Batteries Are Leaching Zinc Into Oral Mucosa — And Why That Matters for Adults 74+ With Diabetic Retinopathy and Poor Wound Healing"
-slug: "7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-oral-mucosa-and-why-that-matters-for-adults-74-with-diabetic-retinopathy-and-poor-wound-healing"
-description: "Explores zinc-induced oxidative stress in ocular and dermal microvasculature, salivary zinc testing, and safer battery-handling protocols for visually impaired older adults on long-term insulin."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["zinc hearing aid batteries diabetic retinopathy", "diabetes", "environmental-toxin-microvascular-risk"]
-primaryKeyword: "zinc hearing aid batteries diabetic retinopathy"
-topicCluster: "environmental-toxin-microvascular-risk"
-image: ""
-relatedSlugs: ["7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64", "blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70", "12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication"]
+title: >-
+  7 Silent Signs Your Hearing Aid Batteries Are Leaching Zinc Into Oral Mucosa —
+  And Why That Matters for Adults 74+ With Diabetic Retinopathy and Poor Wound
+  Healing
+slug: >-
+  7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-oral-mucosa-and-why-that-matters-for-adults-74-with-diabetic-retinopathy-and-poor-wound-healing
+description: >-
+  Explores zinc-induced oxidative stress in ocular and dermal microvasculature,
+  salivary zinc testing, and safer battery-handling protocols for visually
+  impaired older adults on long-term insulin.
+date: '2026-02-07'
+updated: '2026-02-07'
+tags:
+  - zinc hearing aid batteries diabetic retinopathy
+  - diabetes
+  - environmental-toxin-microvascular-risk
+primaryKeyword: zinc hearing aid batteries diabetic retinopathy
+topicCluster: environmental-toxin-microvascular-risk
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
+  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - >-
+    12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication
+  - >-
+    7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes
 ---
 
 # Zinc Hearing Aid Batteries and Diabetic Retinopathy: What Older Adults Should Know — Gently and Clearly

@@ -26,6 +26,8 @@ relatedSlugs:
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
   - >-
     does-daily-10-minute-resistance-band-training-lower-fasting-glucose-and-increase-skeletal-muscle-glut4-translocation-in-adults-67-79-with-sarcopenic-obesity
+  - >-
+    5-things-every-man-over-72-should-know-about-testosterone-replacement-therapy-and-its-effect-on-hepatic-glucose-production-especially-with-concomitant-nafld
 ---
 
 # What Every Man Over 68 with Low Testosterone and Type 2 Diabetes Needs to Know About Testosterone, Muscle, and Glucose Uptake

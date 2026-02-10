@@ -1,13 +1,5 @@
 [
   {
-    "title": "7 Silent Signs Your Hearing Aid Batteries Are Leaching Zinc Into Your Diet — And How That Alters Insulin Signaling in Adults 73+ With Long-Term Type 2 Diabetes",
-    "description": "Investigates unintended zinc exposure from worn hearing aid batteries, its impact on beta-cell zinc transporters and insulin crystallization, and safe handling protocols for older adults.",
-    "primaryKeyword": "zinc exposure from hearing aids and insulin resistance",
-    "topicCluster": "environmental-toxins-diabetes",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-09T04:35:20.581Z"
-  },
-  {
     "title": "How Daily Use of Fabric Softener Sheets Alters Skin Microbiome Diversity — And Why That Worsens Diabetic Foot Ulcer Healing in Adults 68+ With Peripheral Neuropathy",
     "description": "Analyzes quaternary ammonium compounds (QACs) in dryer sheets, their suppression of commensal skin flora, and impaired antimicrobial peptide expression in chronic wounds.",
     "primaryKeyword": "fabric softener and diabetic foot ulcer healing",
@@ -24,14 +16,6 @@
     "createdAt": "2026-02-09T04:35:28.521Z"
   },
   {
-    "title": "12 Science-Backed Times to Measure Postprandial Glucose *After* Dinner — Not Just at 2 Hours — for Adults 67+ With Gastroparesis-Like Symptoms and Variable Gastric Emptying",
-    "description": "Introduces gastric emptying–adjusted glucose sampling windows using symptom diaries and breath acetone correlations to capture true peak excursions in delayed digestion.",
-    "primaryKeyword": "postprandial glucose timing gastroparesis seniors",
-    "topicCluster": "glucose-monitoring-timing-gastroparesis",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-09T04:35:32.576Z"
-  },
-  {
     "title": "When to Suspect 'Silent' Hypoglycemia During Routine Dental Scaling — And Why Gingival Blood Flow Changes Alter Interstitial Glucose Kinetics in Adults 69+ With Hypoglycemia-Associated Autonomic Failure",
     "description": "Identifies hemodynamic shifts during periodontal instrumentation that mask neuroglycopenic symptoms and alter CGM lag time — with pre-procedure glucose stabilization protocols.",
     "primaryKeyword": "dental scaling silent hypoglycemia seniors",
@@ -40,27 +24,11 @@
     "createdAt": "2026-02-09T04:35:36.626Z"
   },
   {
-    "title": "5 Things Every Man Over 72 Should Know About Testosterone Replacement Therapy and Its Effect on Hepatic Glucose Production — Especially With Concomitant NAFLD",
-    "description": "Clarifies testosterone’s dual role in suppressing gluconeogenic enzymes while exacerbating hepatic fat accumulation, with liver enzyme–guided dosing thresholds.",
-    "primaryKeyword": "testosterone therapy hepatic glucose production seniors",
-    "topicCluster": "endocrine-glucose-liver-interaction",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-09T04:35:40.478Z"
-  },
-  {
     "title": "How Intermittent Use of Over-the-Counter Eye Drops With Benzalkonium Chloride Alters Corneal Nerve Regeneration — And Delays Wound Healing in Adults 76+ With Diabetic Keratopathy",
     "description": "Documents preservative-induced TRPV1 receptor desensitization, reduced substance P release, and impaired epithelial migration — with preservative-free alternatives and re-epithelialization accelerants.",
     "primaryKeyword": "benzalkonium chloride corneal nerve regeneration",
     "topicCluster": "ophthalmic-preservative-neuropathy",
     "coreKeyword": "diabetes",
     "createdAt": "2026-02-09T04:35:44.426Z"
-  },
-  {
-    "title": "Does Daily 5-Minute Diaphragmatic Breathing *Before* Morning Coffee Lower Post-Caffeine Glucose Spikes in Adults 60–65 With Adrenal Hyperreactivity?",
-    "description": "Evaluates pre-caffeine vagal priming on catecholamine buffering and hepatic glucose output — with HRV-guided breathing protocols and caffeine timing thresholds.",
-    "primaryKeyword": "diaphragmatic breathing before coffee glucose spikes",
-    "topicCluster": "stress-buffering-caffeine-response",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-09T04:35:48.331Z"
   }
 ]

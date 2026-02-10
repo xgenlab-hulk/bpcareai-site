@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "title": "How Late-Night Pie Eating Disrupts Nocturnal Glucose Rhythms in Adults 65+ With Early-Stage Diabetic Neuropathy",
+    "description": "Explores the circadian and autonomic mechanisms linking post-dinner dessert consumption to impaired overnight glycemic control—and why timing matters more than sugar content alone.",
+    "primaryKeyword": "late-night pie eating glucose rhythms seniors",
+    "topicCluster": "diabetic-diet-circadian",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:36:45.578Z"
+  },
+  {
+    "title": "What Causes Sudden Post-Holiday Constipation *Only* When Visiting Your Son’s House? — The Role of Travel-Induced Circadian Misalignment, Reduced Fiber Variety, and Toilet Posture Shifts in Adults 71+",
+    "description": "Analyzes how temporary environmental and behavioral changes during holiday travel disrupt colonic transit—focusing on non-medicinal, home-adjustable levers for constipation prevention.",
+    "primaryKeyword": "post-holiday constipation travel circadian seniors",
+    "topicCluster": "gastrointestinal-lifestyle",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:36:53.466Z"
+  },
+  {
+    "title": "Best Low-Sodium, High-Potassium Side Dishes for Adults 75+ With Heart Failure and Mild Cognitive Impairment — Ready in Under 20 Minutes",
+    "description": "Presents five no-chop, one-pan, nutritionally optimized side dishes that support cardiac output and potassium balance—designed for reduced executive function and limited kitchen stamina.",
+    "primaryKeyword": "low-sodium high-potassium sides heart failure seniors",
+    "topicCluster": "cardiac-diet-heart-failure",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:36:55.652Z"
+  },
+  {
+    "title": "A vs B: Roasted Sweet Potatoes vs. Mashed Cauliflower for Postprandial Glucose Stability in Adults 63+ With Prediabetes and Mild Dysphagia",
+    "description": "Compares glycemic index, chewing effort, gastric retention time, and micronutrient bioavailability between two popular holiday starch alternatives—tailored for early swallowing changes.",
+    "primaryKeyword": "roasted sweet potatoes vs mashed cauliflower seniors",
+    "topicCluster": "diabetic-diet-dysphagia",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:36:57.633Z"
+  },
+  {
+    "title": "When to Worry About Holiday-Induced 'Brain Fog' After Eating — Especially With Concurrent ACE Inhibitor Use and Orthostatic Hypotension in Adults 67+",
+    "description": "Distinguishes between benign postprandial fatigue and concerning neurocognitive dips linked to cerebral hypoperfusion, medication timing, and meal composition in vulnerable older adults.",
+    "primaryKeyword": "holiday brain fog orthostatic hypotension seniors",
+    "topicCluster": "neurocognitive-perfusion",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:37:01.096Z"
+  },
+  {
+    "title": "How Holiday Table Seating Arrangements Affect Swallowing Safety and Aspiration Risk in Adults 82+ With Mild Parkinsonian Tremor",
+    "description": "Reviews ergonomic, visual, and auditory variables—lighting, chair height, table distance, and conversation load—that independently alter pharyngeal phase efficiency during festive meals.",
+    "primaryKeyword": "holiday seating swallowing safety parkinsonian seniors",
+    "topicCluster": "swallowing-safety-parkinsonism",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:37:05.168Z"
+  },
+  {
+    "title": "The Complete Guide to Managing Holiday Eating While Recovering From a Recent Percutaneous Coronary Intervention — Practical Strategies for Adults 66–70 With Dual Antiplatelet Therapy",
+    "description": "Covers food-drug interactions (vitamin K, ginger, garlic), bleeding-safe seasoning strategies, portion pacing, and fatigue-aware meal planning for post-PCI seniors navigating holiday gatherings.",
+    "primaryKeyword": "holiday eating post-pci dual antiplatelet therapy",
+    "topicCluster": "cardiac-recovery-diet",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:37:11.040Z"
+  },
+  {
+    "title": "Does 'Sugar-Free' Holiday Candy Really Protect Your Teeth in Adults 70+ With Reduced Salivary Flow and Early Root Caries?",
+    "description": "Evaluates xylitol, erythritol, and isomalt content in common sugar-free holiday treats—and their real-world impact on biofilm pH, remineralization potential, and oral microbiome shifts.",
+    "primaryKeyword": "sugar-free holiday candy dental health seniors",
+    "topicCluster": "oral-health-caries",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:37:12.992Z"
+  },
+  {
+    "title": "How Holiday Music Volume and Tempo Affect Post-Meal Satiety Hormone Release in Adults 65+ With Mild Cognitive Impairment",
+    "description": "Investigates the neuroendocrine link between ambient auditory stimulation, vagal tone, and peptide YY/GLP-1 secretion—providing actionable sound environment tips to reduce overeating.",
+    "primaryKeyword": "holiday music satiety hormones seniors",
+    "topicCluster": "neuroendocrine-diet",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:37:18.743Z"
+  },
+  {
+    "title": "10 Foods That Stabilize Postprandial Systolic-Diastolic Gap *Without* Reducing Overall Blood Pressure — For Adults 76+ With Wide Pulse Pressure and Mild Orthostasis",
+    "description": "Features foods rich in specific polyphenols, nitrates, and magnesium isoforms that improve arterial elasticity and ventricular-arterial coupling—without triggering hypotension in fragile older adults.",
+    "primaryKeyword": "foods stabilize pulse pressure seniors orthostasis",
+    "topicCluster": "arterial-elasticity-diet",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:37:20.673Z"
+  },
+  {
+    "title": "What Causes Sudden Post-Holiday Joint Swelling *Only* After Eating Your Daughter’s Homemade Gravy? — The Role of Histamine-Rich Fermented Ingredients, Mast Cell Priming, and Age-Related DAO Decline",
+    "description": "Connects food-derived histamine, enzymatic deficiency, and immune sensitization to acute arthritic flares triggered by traditional holiday condiments—and offers low-histamine preparation alternatives.",
+    "primaryKeyword": "post-holiday joint swelling gravy histamine seniors",
+    "topicCluster": "inflammatory-diet-arthritis",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-10T04:37:22.609Z"
+  }
+]
