@@ -1,83 +1,11 @@
 [
   {
-    "title": "7 Hidden Environmental Triggers That Worsen Coronary Artery Calcification in Adults 62+ With Long-Term Statin Use",
-    "description": "Explores overlooked non-dietary, non-genetic factors — including indoor air particulate exposure, chronic low-level noise pollution, and seasonal humidity shifts — that accelerate vascular calcification despite medication adherence.",
-    "primaryKeyword": "coronary artery calcification triggers seniors",
-    "topicCluster": "environmental-risk-factors",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-10T04:38:37.105Z"
-  },
-  {
-    "title": "How Chronic Use of 'Calm-Inducing' White Noise Machines Alters Endothelial Nitric Oxide Synthase Expression — And Why That Accelerates Atherosclerosis in Adults 74+ With Mild Cognitive Impairment",
-    "description": "Examines the underrecognized vascular impact of long-term low-frequency sound exposure on endothelial function, particularly in aging brains with compromised NO bioavailability.",
-    "primaryKeyword": "white noise machines atherosclerosis seniors",
-    "topicCluster": "auditory-environmental-impact",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-10T04:38:41.042Z"
-  },
-  {
-    "title": "5 Things Every Man Over 55 Should Know About 'Normal' Morning Heart Rate Variability — Especially With Untreated Mild Sleep-Disordered Breathing",
-    "description": "Breaks down why HRV trends often mislead clinicians and patients alike when nocturnal respiratory events subtly impair cardiac autonomic recovery — even without apnea-hypopnea index elevation.",
-    "primaryKeyword": "morning heart rate variability men 55+",
-    "topicCluster": "autonomic-monitoring",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-10T04:38:43.169Z"
-  },
-  {
-    "title": "The Truth About 'Heart-Healthy' Instant Oatmeal Packets Marketed to Seniors — Why 91% Contain Unlabeled Beta-Glucan Degradation Byproducts That Blunt Cholesterol-Lowering Efficacy in Adults 68+ With Familial Hypercholesterolemia",
-    "description": "Reveals how industrial processing compromises the functional integrity of soluble fiber in convenience foods — undermining a cornerstone non-pharmacologic intervention for high-risk genetics.",
-    "primaryKeyword": "instant oatmeal beta-glucan degradation",
-    "topicCluster": "functional-food-integrity",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-10T04:38:45.115Z"
-  },
-  {
-    "title": "Warning Signs Your Evening Zinc Picolinate Supplement Is Disrupting Copper-Dependent Superoxide Dismutase Activity — And Accelerating Endothelial Oxidative Stress in Adults 63+ With Early Coronary Microvascular Dysfunction",
-    "description": "Details a subtle, supplement-induced micronutrient imbalance that worsens vascular redox balance — clinically silent until advanced microvascular angina or impaired coronary flow reserve emerges.",
-    "primaryKeyword": "zinc picolinate endothelial oxidative stress",
-    "topicCluster": "supplement-interference",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-10T04:38:52.586Z"
-  },
-  {
-    "title": "How Intermittent Cold-Water Hand Immersion (30-Second Bursts) Modulates Coronary Blood Flow Reserve in Adults 57–64 With Stable Angina and Normal Coronary Anatomy",
-    "description": "Presents emerging data on non-invasive, self-administered thermal modulation to improve microvascular perfusion — a novel adjunct for patients with INOCA (Ischemia with No Obstructive Coronary Artery disease).",
-    "primaryKeyword": "cold hand immersion coronary flow reserve",
-    "topicCluster": "non-invasive-microvascular-modulation",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-10T04:38:54.552Z"
-  },
-  {
     "title": "What Are the Earliest Signs Your 'Mild' Orthostatic Tachycardia Is Actually Masking Early Cardiac Sarcoidosis — Especially With Concurrent Uveitis and Subtle Skin Lesions in Adults 54–61?",
     "description": "Highlights atypical presentations of inflammatory cardiomyopathy where autonomic testing misleads, and dermatologic/ophthalmologic clues precede cardiac MRI confirmation.",
     "primaryKeyword": "orthostatic tachycardia cardiac sarcoidosis",
     "topicCluster": "inflammatory-cardiomyopathy-clues",
     "coreKeyword": "heart disease",
     "createdAt": "2026-02-10T04:39:01.337Z"
-  },
-  {
-    "title": "How Chronic Exposure to 'Quiet' HVAC Duct Vibration Alters Aortic Root Motion Dynamics — And Why That Masks Early Aortic Stiffness on Standard PWV Testing in Adults 76+",
-    "description": "Uncovers a mechanical interference artifact in vascular testing caused by building infrastructure — leading to false reassurance in early aortopathy detection.",
-    "primaryKeyword": "hvac vibration aortic stiffness testing",
-    "topicCluster": "testing-artifact-awareness",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-10T04:39:05.426Z"
-  },
-  {
-    "title": "10 Foods That *Stabilize* Coronary Microvascular Reactivity — Not Just Lower Cholesterol — For Adults 61+ With INOCA and No Obstructive Disease",
-    "description": "Highlights dietary compounds (e.g., epicatechin-rich cocoa, fermented soy isoflavones, low-temperature roasted walnuts) that improve endothelial-dependent and -independent vasodilation in microvessels.",
-    "primaryKeyword": "foods coronary microvascular reactivity",
-    "topicCluster": "microvascular-diet",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-10T04:39:11.388Z"
-  },
-  {
-    "title": "What Causes Sudden Mid-Afternoon Chest Pressure *Only* When Sitting on Your Granddaughter’s Memory Foam Couch? — The Role of Pelvic Rotation, Diaphragmatic Restriction, and Inferior Vena Cava Compression in Adults 64+ With Diastolic Dysfunction",
-    "description": "Links a highly specific environmental trigger to mechanical impediments in venous return and ventricular filling — a non-ischemic yet symptomatic mechanism often misdiagnosed as anxiety.",
-    "primaryKeyword": "chest pressure memory foam couch",
-    "topicCluster": "postural-hemodynamic-impact",
-    "coreKeyword": "heart disease",
-    "createdAt": "2026-02-10T04:39:13.413Z"
   },
   {
     "title": "Myths vs Facts: 'Stable' Heart Disease Means No Progression — What 2024 Imaging Studies Reveal About Silent Plaque Erosion in Adults 58–66 With Controlled BP and LDL",

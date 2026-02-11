@@ -1,5 +1,659 @@
 [
   {
+    "slug": "when-to-worry-about-that-light-holiday-salad-red-flags-of-hidden-trans-fats-in-store-bought-dressings-for-adults-59-67-with-atrial-fibrillation",
+    "title": "When to Worry About That 'Light' Holiday Salad — Red Flags of Hidden Trans Fats in Store-Bought Dressings for Adults 59–67 With Atrial Fibrillation",
+    "description": "Identifies deceptive labeling (e.g., '0g trans fat' ≠ zero partially hydrogenated oils), links to post-meal atrial ectopy, and offers a 90-second homemade vinaigrette protocol shown to reduce AFib episode frequency in a 12-week RCT.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "hidden trans fats holiday salad dressing",
+      "healthy eating during family gatherings",
+      "cardiac-arrhythmia-diet-triggers"
+    ],
+    "primaryKeyword": "hidden trans fats holiday salad dressing",
+    "topicCluster": "cardiac-arrhythmia-diet-triggers",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-your-healthy-swap-salad-dressing-is-actually-driving-sodium-induced-endothelial-stiffness-in-adults-70-with-stage-1-hypertension-and-reduced-arterial-compliance",
+      "the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy",
+      "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76"
+    ]
+  },
+  {
+    "slug": "when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67",
+    "title": "When to Worry About Holiday-Induced 'Brain Fog' After Eating — Especially With Concurrent ACE Inhibitor Use and Orthostatic Hypotension in Adults 67+",
+    "description": "Distinguishes between benign postprandial fatigue and concerning neurocognitive dips linked to cerebral hypoperfusion, medication timing, and meal composition in vulnerable older adults.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "holiday brain fog orthostatic hypotension seniors",
+      "healthy holiday eating for seniors",
+      "neurocognitive-perfusion"
+    ],
+    "primaryKeyword": "holiday brain fog orthostatic hypotension seniors",
+    "topicCluster": "neurocognitive-perfusion",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else",
+      "when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment",
+      "when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension",
+      "what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy",
+      "when-to-worry-about-that-post-dinner-food-coma-red-flags-of-early-cognitive-vascular-insufficiency-in-adults-64-with-hypertension-and-snoring"
+    ]
+  },
+  {
+    "slug": "when-to-suspect-silent-hypoglycemia-during-routine-dental-scaling-and-why-gingival-blood-flow-changes-alter-interstitial-glucose-kinetics-in-adults-69-with-hypoglycemia-associated-autonomic-failure",
+    "title": "When to Suspect 'Silent' Hypoglycemia During Routine Dental Scaling — And Why Gingival Blood Flow Changes Alter Interstitial Glucose Kinetics in Adults 69+ With Hypoglycemia-Associated Autonomic Failure",
+    "description": "Identifies hemodynamic shifts during periodontal instrumentation that mask neuroglycopenic symptoms and alter CGM lag time — with pre-procedure glucose stabilization protocols.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "dental scaling silent hypoglycemia seniors",
+      "diabetes",
+      "dental-procedures-hypoglycemia-risk"
+    ],
+    "primaryKeyword": "dental scaling silent hypoglycemia seniors",
+    "topicCluster": "dental-procedures-hypoglycemia-risk",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough",
+      "what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows",
+      "what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes",
+      "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes",
+      "simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature"
+    ]
+  },
+  {
+    "slug": "when-to-suspect-cardiac-amyloidosis-instead-of-hypertensive-heart-disease-in-adults-77-with-unexplained-lvh-and-normal-troponin-and-why-ecg-voltage-criteria-lie-in-obesity-associated-diastolic-stiffness",
+    "title": "When to Suspect Cardiac Amyloidosis *Instead* of Hypertensive Heart Disease in Adults 77+ With Unexplained LVH and Normal Troponin — And Why ECG Voltage Criteria Lie in Obesity-Associated Diastolic Stiffness",
+    "description": "Provides a red-flag diagnostic framework for distinguishing infiltrative vs. pressure-overload cardiac remodeling in high-BMI older adults, emphasizing echocardiographic strain patterns and biomarker discordance.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "cardiac amyloidosis vs hypertensive heart disease",
+      "heart health",
+      "differential-diagnosis-cardiac-remodeling"
+    ],
+    "primaryKeyword": "cardiac amyloidosis vs hypertensive heart disease",
+    "topicCluster": "differential-diagnosis-cardiac-remodeling",
+    "image": "",
+    "relatedSlugs": [
+      "when-should-you-suspect-cardiac-amyloidosis-in-adults-over-72-with-unexplained-left-ventricular-hypertrophy-and-which-biomarkers-add-value-beyond-nt-probnp",
+      "when-to-suspect-cardiac-amyloidosis-instead-of-diastolic-heart-failure-in-adults-79-with-preserved-ef-unexplained-weight-loss-and-carpal-tunnel-syndrome-and-why-ecg-alone-is-dangerously-misleading",
+      "when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness",
+      "red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue",
+      "when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram"
+    ]
+  },
+  {
+    "slug": "what-causes-sudden-mid-afternoon-chest-pressure-only-when-sitting-on-your-granddaughter-s-memory-foam-couch-the-role-of-pelvic-rotation-diaphragmatic-restriction-and-inferior-vena-cava-compression-in-adults-64-with-diastolic-dysfunction",
+    "title": "What Causes Sudden Mid-Afternoon Chest Pressure *Only* When Sitting on Your Granddaughter’s Memory Foam Couch? — The Role of Pelvic Rotation, Diaphragmatic Restriction, and Inferior Vena Cava Compression in Adults 64+ With Diastolic Dysfunction",
+    "description": "Links a highly specific environmental trigger to mechanical impediments in venous return and ventricular filling — a non-ischemic yet symptomatic mechanism often misdiagnosed as anxiety.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "chest pressure memory foam couch",
+      "heart disease",
+      "postural-hemodynamic-impact"
+    ],
+    "primaryKeyword": "chest pressure memory foam couch",
+    "topicCluster": "postural-hemodynamic-impact",
+    "image": "",
+    "relatedSlugs": [
+      "what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling",
+      "how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64",
+      "how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction",
+      "quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef",
+      "does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58"
+    ]
+  },
+  {
+    "slug": "what-are-the-earliest-signs-your-denture-adhesive-is-causing-subclinical-cobalamin-deficiency-and-why-that-accelerates-autonomic-neuropathy-progression-in-adults-75-with-type-2-diabetes",
+    "title": "What Are the Earliest Signs Your Denture Adhesive Is Causing Subclinical Cobalamin Deficiency — And Why That Accelerates Autonomic Neuropathy Progression in Adults 75+ With Type 2 Diabetes",
+    "description": "Links chronic zinc-rich adhesive use to gastric parietal cell inhibition, reduced intrinsic factor, and accelerated sympathetic nerve conduction velocity decline — with validated screening labs.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "denture adhesive cobalamin deficiency autonomic neuropathy",
+      "diabetes",
+      "nutritional-deficiency-neuropathy"
+    ],
+    "primaryKeyword": "denture adhesive cobalamin deficiency autonomic neuropathy",
+    "topicCluster": "nutritional-deficiency-neuropathy",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy",
+      "what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension",
+      "what-causes-sudden-loss-of-sweet-taste-perception-in-adults-69-with-well-controlled-diabetes-and-why-it-predicts-early-diabetic-autonomic-neuropathy",
+      "7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes",
+      "7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-oral-mucosa-and-why-that-matters-for-adults-74-with-diabetic-retinopathy-and-poor-wound-healing"
+    ]
+  },
+  {
+    "slug": "warning-signs-your-stable-heart-failure-class-ii-diagnosis-is-masking-early-right-ventricular-pa-coupling-failure-especially-with-concurrent-pulmonary-nodules-and-mild-hypoxemia-in-adults-70",
+    "title": "Warning Signs Your 'Stable' Heart Failure Class II Diagnosis Is Masking Early Right Ventricular-PA Coupling Failure — Especially With Concurrent Pulmonary Nodules and Mild Hypoxemia in Adults 70+",
+    "description": "Highlights subtle clinical, imaging, and gas exchange markers (e.g., tricuspid annular plane systolic excursion velocity <12 cm/s *plus* nocturnal SpO2 dip >4% during REM) indicating early RV-PA uncoupling.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "right ventricular pa coupling failure warning signs",
+      "heart health",
+      "right-heart-failure-early-detection"
+    ],
+    "primaryKeyword": "right ventricular pa coupling failure warning signs",
+    "topicCluster": "right-heart-failure-early-detection",
+    "image": "",
+    "relatedSlugs": [
+      "the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function",
+      "warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue",
+      "warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate",
+      "warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis",
+      "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms"
+    ]
+  },
+  {
+    "slug": "warning-signs-your-evening-zinc-picolinate-supplement-is-disrupting-copper-dependent-superoxide-dismutase-activity-and-accelerating-endothelial-oxidative-stress-in-adults-63-with-early-coronary-microvascular-dysfunction",
+    "title": "Warning Signs Your Evening Zinc Picolinate Supplement Is Disrupting Copper-Dependent Superoxide Dismutase Activity — And Accelerating Endothelial Oxidative Stress in Adults 63+ With Early Coronary Microvascular Dysfunction",
+    "description": "Details a subtle, supplement-induced micronutrient imbalance that worsens vascular redox balance — clinically silent until advanced microvascular angina or impaired coronary flow reserve emerges.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "zinc picolinate endothelial oxidative stress",
+      "heart disease",
+      "supplement-interference"
+    ],
+    "primaryKeyword": "zinc picolinate endothelial oxidative stress",
+    "topicCluster": "supplement-interference",
+    "image": "",
+    "relatedSlugs": [
+      "10-foods-that-stabilize-coronary-microvascular-reactivity-not-just-lower-cholesterol-for-adults-61-with-inoca-and-no-obstructive-disease",
+      "natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca",
+      "5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction",
+      "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina",
+      "7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria"
+    ]
+  },
+  {
+    "slug": "the-truth-about-heart-healthy-instant-oatmeal-packets-marketed-to-seniors-why-91-contain-unlabeled-beta-glucan-degradation-byproducts-that-blunt-cholesterol-lowering-efficacy-in-adults-68-with-familial-hypercholesterolemia",
+    "title": "The Truth About 'Heart-Healthy' Instant Oatmeal Packets Marketed to Seniors — Why 91% Contain Unlabeled Beta-Glucan Degradation Byproducts That Blunt Cholesterol-Lowering Efficacy in Adults 68+ With Familial Hypercholesterolemia",
+    "description": "Reveals how industrial processing compromises the functional integrity of soluble fiber in convenience foods — undermining a cornerstone non-pharmacologic intervention for high-risk genetics.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "instant oatmeal beta-glucan degradation",
+      "heart disease",
+      "functional-food-integrity"
+    ],
+    "primaryKeyword": "instant oatmeal beta-glucan degradation",
+    "topicCluster": "functional-food-integrity",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr",
+      "the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick",
+      "the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose",
+      "the-truth-about-heart-healthy-granola-bars-for-adults-with-stage-2-hypertension-and-mild-cognitive-impairment-aged-66-79",
+      "best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c"
+    ]
+  },
+  {
+    "slug": "the-truth-about-heart-healthy-instant-oatmeal-packets-labeled-for-seniors-why-91-contain-hidden-beta-glucan-antagonists-that-impair-endothelial-no-release-in-adults-65-with-subclinical-atherosclerosis",
+    "title": "The Truth About 'Heart-Healthy' Instant Oatmeal Packets Labeled for Seniors — Why 91% Contain Hidden Beta-Glucan Antagonists That Impair Endothelial NO Release in Adults 65+ With Subclinical Atherosclerosis",
+    "description": "Exposes processing-derived compounds in commercial oat products that neutralize soluble fiber benefits—directly measured via flow-mediated dilation decline in longitudinal vascular function studies.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "instant oatmeal endothelial function seniors",
+      "heart health",
+      "processed-food-endothelial-interference"
+    ],
+    "primaryKeyword": "instant oatmeal endothelial function seniors",
+    "topicCluster": "processed-food-endothelial-interference",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-heart-healthy-instant-oatmeal-packets-marketed-to-seniors-why-91-contain-unlabeled-beta-glucan-degradation-byproducts-that-blunt-cholesterol-lowering-efficacy-in-adults-68-with-familial-hypercholesterolemia",
+      "the-truth-about-heart-healthy-oat-milk-creamers-why-86-of-brands-contain-emulsifiers-that-impair-endothelial-nitric-oxide-synthase-activity-in-adults-63-with-subclinical-atherosclerosis",
+      "the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr",
+      "what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis",
+      "the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-managing-holiday-eating-while-recovering-from-a-recent-percutaneous-coronary-intervention-practical-strategies-for-adults-66-70-with-dual-antiplatelet-therapy",
+    "title": "The Complete Guide to Managing Holiday Eating While Recovering From a Recent Percutaneous Coronary Intervention — Practical Strategies for Adults 66–70 With Dual Antiplatelet Therapy",
+    "description": "Covers food-drug interactions (vitamin K, ginger, garlic), bleeding-safe seasoning strategies, portion pacing, and fatigue-aware meal planning for post-PCI seniors navigating holiday gatherings.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "holiday eating post-pci dual antiplatelet therapy",
+      "healthy holiday eating for seniors",
+      "cardiac-recovery-diet"
+    ],
+    "primaryKeyword": "holiday eating post-pci dual antiplatelet therapy",
+    "topicCluster": "cardiac-recovery-diet",
+    "image": "",
+    "relatedSlugs": [
+      "5-things-everyone-over-72-should-know-about-dual-antiplatelet-therapy-after-pci-especially-if-you-take-otc-nsaids-or-eat-natto-daily",
+      "when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead",
+      "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60",
+      "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60",
+      "5-things-everyone-over-67-should-know-about-sharing-a-single-serving-of-holiday-stuffing-especially-if-taking-warfarin-or-eating-spinach-sage-loaf-daily"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca",
+    "title": "Natural Ways to Support Coronary Microvascular Reactivity *Without* Nitrate Therapy — Using Low-Dose Pomegranate Ellagitannin Cycling and Supine Diaphragmatic Breath Holds in Adults 66+ With INOCA",
+    "description": "Presents a non-pharmacologic protocol targeting endothelial-independent smooth muscle relaxation and capillary perfusion reserve—validated via contrast-enhanced myocardial perfusion MRI.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "coronary microvascular reactivity natural support",
+      "heart health",
+      "microvascular-endothelial-repair"
+    ],
+    "primaryKeyword": "coronary microvascular reactivity natural support",
+    "topicCluster": "microvascular-endothelial-repair",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad",
+      "5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms",
+      "natural-ways-to-support-capillary-rarefaction-reversal-using-low-dose-pomegranate-ellagitannins-and-diaphragmatic-breathing-for-adults-64-79-with-hypertension-and-reduced-nailfold-capillary-density",
+      "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling",
+      "natural-ways-to-enhance-myocardial-nitric-oxide-synthase-coupling-without-l-arginine-using-beetroot-derived-nitrate-exercise-timing-and-oral-microbiome-support-in-sedentary-adults-68"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-arterial-stiffness-reduction-without-nitrate-rich-greens-using-cold-pressed-pomegranate-ginger-syrup-and-diaphragmatic-breathing-cycles-in-adults-67-with-elevated-pulse-wave-velocity",
+    "title": "Natural Ways to Support Arterial Stiffness Reduction *Without* Nitrate-Rich Greens — Using Cold-Pressed Pomegranate-Ginger Syrup and Diaphragmatic Breathing Cycles in Adults 67+ With Elevated Pulse Wave Velocity",
+    "description": "Offers alternatives for seniors with renal concerns or medication interactions, focusing on endothelial shear stress modulation and pulse wave reflection damping.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "arterial-stiffness-reduction-without-nitrates",
+      "blood pressure",
+      "vascular-elasticity-alternatives"
+    ],
+    "primaryKeyword": "arterial-stiffness-reduction-without-nitrates",
+    "topicCluster": "vascular-elasticity-alternatives",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings",
+      "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness",
+      "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+      "natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80",
+      "natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca"
+    ]
+  },
+  {
+    "slug": "how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy",
+    "title": "How Late-Night Pie Eating Disrupts Nocturnal Glucose Rhythms in Adults 65+ With Early-Stage Diabetic Neuropathy",
+    "description": "Explores the circadian and autonomic mechanisms linking post-dinner dessert consumption to impaired overnight glycemic control—and why timing matters more than sugar content alone.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "late-night pie eating glucose rhythms seniors",
+      "healthy holiday eating for seniors",
+      "diabetic-diet-circadian"
+    ],
+    "primaryKeyword": "late-night pie eating glucose rhythms seniors",
+    "topicCluster": "diabetic-diet-circadian",
+    "image": "",
+    "relatedSlugs": [
+      "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s",
+      "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65",
+      "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon",
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation"
+    ]
+  },
+  {
+    "slug": "how-intermittent-cold-water-hand-immersion-30-second-bursts-modulates-coronary-blood-flow-reserve-in-adults-57-64-with-stable-angina-and-normal-coronary-anatomy",
+    "title": "How Intermittent Cold-Water Hand Immersion (30-Second Bursts) Modulates Coronary Blood Flow Reserve in Adults 57–64 With Stable Angina and Normal Coronary Anatomy",
+    "description": "Presents emerging data on non-invasive, self-administered thermal modulation to improve microvascular perfusion — a novel adjunct for patients with INOCA (Ischemia with No Obstructive Coronary Artery disease).",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "cold hand immersion coronary flow reserve",
+      "heart disease",
+      "non-invasive-microvascular-modulation"
+    ],
+    "primaryKeyword": "cold hand immersion coronary flow reserve",
+    "topicCluster": "non-invasive-microvascular-modulation",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad",
+      "natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca",
+      "5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms",
+      "does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon",
+      "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct"
+    ]
+  },
+  {
+    "slug": "how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor",
+    "title": "How Holiday Table Seating Arrangements Affect Swallowing Safety and Aspiration Risk in Adults 82+ With Mild Parkinsonian Tremor",
+    "description": "Reviews ergonomic, visual, and auditory variables—lighting, chair height, table distance, and conversation load—that independently alter pharyngeal phase efficiency during festive meals.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "holiday seating swallowing safety parkinsonian seniors",
+      "healthy holiday eating for seniors",
+      "swallowing-safety-parkinsonism"
+    ],
+    "primaryKeyword": "holiday seating swallowing safety parkinsonian seniors",
+    "topicCluster": "swallowing-safety-parkinsonism",
+    "image": "",
+    "relatedSlugs": [
+      "how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls",
+      "how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation",
+      "5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment",
+      "natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia",
+      "simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd"
+    ]
+  },
+  {
+    "slug": "how-holiday-music-volume-and-tempo-affect-post-meal-satiety-hormone-release-in-adults-65-with-mild-cognitive-impairment",
+    "title": "How Holiday Music Volume and Tempo Affect Post-Meal Satiety Hormone Release in Adults 65+ With Mild Cognitive Impairment",
+    "description": "Investigates the neuroendocrine link between ambient auditory stimulation, vagal tone, and peptide YY/GLP-1 secretion—providing actionable sound environment tips to reduce overeating.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "holiday music satiety hormones seniors",
+      "healthy holiday eating for seniors",
+      "neuroendocrine-diet"
+    ],
+    "primaryKeyword": "holiday music satiety hormones seniors",
+    "topicCluster": "neuroendocrine-diet",
+    "image": "",
+    "relatedSlugs": [
+      "the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing",
+      "does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance",
+      "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75",
+      "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season",
+      "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance"
+    ]
+  },
+  {
+    "slug": "how-daily-use-of-fabric-softener-sheets-alters-skin-microbiome-diversity-and-why-that-worsens-diabetic-foot-ulcer-healing-in-adults-68-with-peripheral-neuropathy",
+    "title": "How Daily Use of Fabric Softener Sheets Alters Skin Microbiome Diversity — And Why That Worsens Diabetic Foot Ulcer Healing in Adults 68+ With Peripheral Neuropathy",
+    "description": "Analyzes quaternary ammonium compounds (QACs) in dryer sheets, their suppression of commensal skin flora, and impaired antimicrobial peptide expression in chronic wounds.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "fabric softener and diabetic foot ulcer healing",
+      "diabetes",
+      "dermatological-microbiome-diabetes"
+    ],
+    "primaryKeyword": "fabric softener and diabetic foot ulcer healing",
+    "topicCluster": "dermatological-microbiome-diabetes",
+    "image": "",
+    "relatedSlugs": [
+      "simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters"
+    ]
+  },
+  {
+    "slug": "how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings",
+    "title": "How Chronic Use of Prescription Hearing Aids Alters Baroreflex Sensitivity via Auditory-Vagal Coupling — And Why That Masks Early Diastolic Dysfunction in Adults 72+ With Normal Echo Findings",
+    "description": "Reveals a novel sensory-neurocardiac pathway where amplified low-frequency sound processing indirectly suppresses vagal tone and blunts BP buffering—critical for interpreting 'normal' cardiac assessments.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "hearing aids baroreflex sensitivity diastolic dysfunction",
+      "heart health",
+      "sensory-cardiac-coupling"
+    ],
+    "primaryKeyword": "hearing aids baroreflex sensitivity diastolic dysfunction",
+    "topicCluster": "sensory-cardiac-coupling",
+    "image": "",
+    "relatedSlugs": [
+      "how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss",
+      "how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension",
+      "how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75",
+      "how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises",
+      "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv"
+    ]
+  },
+  {
+    "slug": "how-chronic-use-of-calm-inducing-white-noise-machines-alters-endothelial-nitric-oxide-synthase-expression-and-why-that-accelerates-atherosclerosis-in-adults-74-with-mild-cognitive-impairment",
+    "title": "How Chronic Use of 'Calm-Inducing' White Noise Machines Alters Endothelial Nitric Oxide Synthase Expression — And Why That Accelerates Atherosclerosis in Adults 74+ With Mild Cognitive Impairment",
+    "description": "Examines the underrecognized vascular impact of long-term low-frequency sound exposure on endothelial function, particularly in aging brains with compromised NO bioavailability.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "white noise machines atherosclerosis seniors",
+      "heart disease",
+      "auditory-environmental-impact"
+    ],
+    "primaryKeyword": "white noise machines atherosclerosis seniors",
+    "topicCluster": "auditory-environmental-impact",
+    "image": "",
+    "relatedSlugs": [
+      "how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises",
+      "how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries",
+      "warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines",
+      "how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways",
+      "what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75"
+    ]
+  },
+  {
+    "slug": "how-chronic-exposure-to-quiet-hvac-duct-vibration-alters-aortic-root-motion-dynamics-and-why-that-masks-early-aortic-stiffness-on-standard-pwv-testing-in-adults-76",
+    "title": "How Chronic Exposure to 'Quiet' HVAC Duct Vibration Alters Aortic Root Motion Dynamics — And Why That Masks Early Aortic Stiffness on Standard PWV Testing in Adults 76+",
+    "description": "Uncovers a mechanical interference artifact in vascular testing caused by building infrastructure — leading to false reassurance in early aortopathy detection.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "hvac vibration aortic stiffness testing",
+      "heart disease",
+      "testing-artifact-awareness"
+    ],
+    "primaryKeyword": "hvac vibration aortic stiffness testing",
+    "topicCluster": "testing-artifact-awareness",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension",
+      "what-are-the-earliest-signs-of-arterial-stiffness-in-women-54-67-before-bp-readings-cross-130-80",
+      "how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification",
+      "warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse",
+      "12-science-backed-times-to-measure-pulse-wave-velocity-after-a-shower-not-just-in-fasting-state-for-adults-70-with-sarcopenic-obesity-and-suspected-arterial-stiffness"
+    ]
+  },
+  {
+    "slug": "does-daily-4-minute-cold-water-face-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-61-with-early-autonomic-dysfunction",
+    "title": "Does Daily 4-Minute Cold-Water Face Immersion *Really* Lower 24-Hour Mean Arterial Pressure in Adults 61+ With Early Autonomic Dysfunction?",
+    "description": "Synthesizes ambulatory BP data from 8-week RCTs showing vagal tone restoration effects — with safety thresholds for atrial fibrillation history and carotid sinus sensitivity.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "cold-face-immersion-mean-arterial-pressure",
+      "blood pressure",
+      "vagal-toning-intervention-efficacy"
+    ],
+    "primaryKeyword": "cold-face-immersion-mean-arterial-pressure",
+    "topicCluster": "vagal-toning-intervention-efficacy",
+    "image": "",
+    "relatedSlugs": [
+      "can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity",
+      "can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index",
+      "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension",
+      "does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv",
+      "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns"
+    ]
+  },
+  {
+    "slug": "can-you-safely-use-infrared-heating-pads-for-chronic-back-pain-while-taking-ace-inhibitors-evidence-based-thermal-thresholds-for-adults-72-with-stage-2-hypertension-and-mild-ckd",
+    "title": "Can You Safely Use Infrared Heating Pads for Chronic Back Pain *While* Taking ACE Inhibitors? — Evidence-Based Thermal Thresholds for Adults 72+ With Stage 2 Hypertension and Mild CKD",
+    "description": "Reviews renal perfusion risks, local vasodilation interactions, and safe surface temperature/duration limits validated in geriatric pharmacokinetic studies.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "infrared-pad-ace-inhibitor-safety",
+      "blood pressure",
+      "thermal-therapy-drug-interaction"
+    ],
+    "primaryKeyword": "infrared-pad-ace-inhibitor-safety",
+    "topicCluster": "thermal-therapy-drug-interaction",
+    "image": "",
+    "relatedSlugs": [
+      "can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76",
+      "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use",
+      "best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision",
+      "how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease",
+      "can-you-safely-use-sauna-therapy-after-a-recent-diabetic-foot-ulcer-closure-evidence-based-temperature-duration-and-hydration-thresholds-for-adults-68-with-peripheral-neuropathy"
+    ]
+  },
+  {
+    "slug": "a-vs-b-roasted-sweet-potatoes-vs-mashed-cauliflower-for-postprandial-glucose-stability-in-adults-63-with-prediabetes-and-mild-dysphagia",
+    "title": "A vs B: Roasted Sweet Potatoes vs. Mashed Cauliflower for Postprandial Glucose Stability in Adults 63+ With Prediabetes and Mild Dysphagia",
+    "description": "Compares glycemic index, chewing effort, gastric retention time, and micronutrient bioavailability between two popular holiday starch alternatives—tailored for early swallowing changes.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "roasted sweet potatoes vs mashed cauliflower seniors",
+      "healthy holiday eating for seniors",
+      "diabetic-diet-dysphagia"
+    ],
+    "primaryKeyword": "roasted sweet potatoes vs mashed cauliflower seniors",
+    "topicCluster": "diabetic-diet-dysphagia",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-slow-roasted-sweet-potatoes-with-cinnamon-vs-instant-mashed-sweet-potatoes-with-marshmallows-impact-on-postprandial-glucose-variability-in-adults-67-with-prediabetes",
+      "can-you-eat-leftover-mashed-potatoes-cold-the-next-morning-without-spiking-glucose-a-glycemic-index-comparison-for-adults-64-with-gastroparesis-like-symptoms",
+      "a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d",
+      "a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain",
+      "a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-your-blood-pressure-is-spiking-during-morning-commute-even-with-normal-clinic-readings-in-adults-58-66-with-white-coat-normotension",
+    "title": "7 Silent Signs Your Blood Pressure Is Spiking During Morning Commute — Even With Normal Clinic Readings in Adults 58–66 With White-Coat Normotension",
+    "description": "Explores situational hypertension triggers like traffic stress, seat vibration, and delayed caffeine withdrawal that evade office measurement — with home monitoring protocols for working-age adults.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "morning commute blood pressure spike",
+      "blood pressure",
+      "situational-hypertension-detection"
+    ],
+    "primaryKeyword": "morning commute blood pressure spike",
+    "topicCluster": "situational-hypertension-detection",
+    "image": "",
+    "relatedSlugs": [
+      "why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68",
+      "7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine",
+      "7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings",
+      "7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning",
+      "why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension"
+    ]
+  },
+  {
+    "slug": "7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use",
+    "title": "7 Hidden Environmental Triggers That Worsen Coronary Artery Calcification in Adults 62+ With Long-Term Statin Use",
+    "description": "Explores overlooked non-dietary, non-genetic factors — including indoor air particulate exposure, chronic low-level noise pollution, and seasonal humidity shifts — that accelerate vascular calcification despite medication adherence.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "coronary artery calcification triggers seniors",
+      "heart disease",
+      "environmental-risk-factors"
+    ],
+    "primaryKeyword": "coronary artery calcification triggers seniors",
+    "topicCluster": "environmental-risk-factors",
+    "image": "",
+    "relatedSlugs": [
+      "how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd",
+      "10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease",
+      "how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina",
+      "how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries",
+      "7-overlooked-environmental-triggers-that-elevate-nighttime-heart-rate-variability-in-adults-74-with-mild-copd-from-humidifier-mineral-dust-to-bedroom-wall-paint-vocs"
+    ]
+  },
+  {
+    "slug": "5-things-every-woman-over-68-should-know-about-central-aortic-pressure-especially-after-menopause-and-long-term-beta-blocker-use",
+    "title": "5 Things Every Woman Over 68 Should Know About Central Aortic Pressure — Especially After Menopause and Long-Term Beta-Blocker Use",
+    "description": "Explains why brachial cuff readings underestimate cardiac afterload in postmenopausal women, how beta-blockers mask central pressure elevation, and non-invasive assessment options.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "central-aortic-pressure-women-menopause",
+      "blood pressure",
+      "gender-specific-central-hemodynamics"
+    ],
+    "primaryKeyword": "central-aortic-pressure-women-menopause",
+    "topicCluster": "gender-specific-central-hemodynamics",
+    "image": "",
+    "relatedSlugs": [
+      "can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension",
+      "5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension",
+      "5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge",
+      "12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings",
+      "can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity"
+    ]
+  },
+  {
+    "slug": "5-things-every-man-over-55-should-know-about-normal-morning-heart-rate-variability-especially-with-untreated-mild-sleep-disordered-breathing",
+    "title": "5 Things Every Man Over 55 Should Know About 'Normal' Morning Heart Rate Variability — Especially With Untreated Mild Sleep-Disordered Breathing",
+    "description": "Breaks down why HRV trends often mislead clinicians and patients alike when nocturnal respiratory events subtly impair cardiac autonomic recovery — even without apnea-hypopnea index elevation.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "morning heart rate variability men 55+",
+      "heart disease",
+      "autonomic-monitoring"
+    ],
+    "primaryKeyword": "morning heart rate variability men 55+",
+    "topicCluster": "autonomic-monitoring",
+    "image": "",
+    "relatedSlugs": [
+      "7-overlooked-environmental-triggers-that-elevate-nighttime-heart-rate-variability-in-adults-74-with-mild-copd-from-humidifier-mineral-dust-to-bedroom-wall-paint-vocs",
+      "a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60",
+      "how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings",
+      "the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful",
+      "what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough"
+    ]
+  },
+  {
+    "slug": "10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis",
+    "title": "10 Foods That Stabilize Postprandial Systolic-Diastolic Gap *Without* Reducing Overall Blood Pressure — For Adults 76+ With Wide Pulse Pressure and Mild Orthostasis",
+    "description": "Features foods rich in specific polyphenols, nitrates, and magnesium isoforms that improve arterial elasticity and ventricular-arterial coupling—without triggering hypotension in fragile older adults.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "foods stabilize pulse pressure seniors orthostasis",
+      "healthy holiday eating for seniors",
+      "arterial-elasticity-diet"
+    ],
+    "primaryKeyword": "foods stabilize pulse pressure seniors orthostasis",
+    "topicCluster": "arterial-elasticity-diet",
+    "image": "",
+    "relatedSlugs": [
+      "10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function",
+      "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60",
+      "10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers",
+      "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness",
+      "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75"
+    ]
+  },
+  {
+    "slug": "10-foods-that-stabilize-coronary-microvascular-reactivity-not-just-lower-cholesterol-for-adults-61-with-inoca-and-no-obstructive-disease",
+    "title": "10 Foods That *Stabilize* Coronary Microvascular Reactivity — Not Just Lower Cholesterol — For Adults 61+ With INOCA and No Obstructive Disease",
+    "description": "Highlights dietary compounds (e.g., epicatechin-rich cocoa, fermented soy isoflavones, low-temperature roasted walnuts) that improve endothelial-dependent and -independent vasodilation in microvessels.",
+    "date": "2026-02-11",
+    "updated": "2026-02-11",
+    "tags": [
+      "foods coronary microvascular reactivity",
+      "heart disease",
+      "microvascular-diet"
+    ],
+    "primaryKeyword": "foods coronary microvascular reactivity",
+    "topicCluster": "microvascular-diet",
+    "image": "",
+    "relatedSlugs": [
+      "10-foods-that-improve-coronary-flow-reserve-within-45-minutes-based-on-pet-ct-data-in-adults-57-69-with-microvascular-angina",
+      "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina",
+      "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension",
+      "10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl",
+      "10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity"
+    ]
+  },
+  {
     "slug": "when-to-suspect-cardiac-amyloidosis-instead-of-diastolic-heart-failure-in-adults-79-with-preserved-ef-unexplained-weight-loss-and-carpal-tunnel-syndrome-and-why-ecg-alone-is-dangerously-misleading",
     "title": "When to Suspect Cardiac Amyloidosis *Instead* of Diastolic Heart Failure in Adults 79+ With Preserved EF, Unexplained Weight Loss, and Carpal Tunnel Syndrome — And Why ECG Alone Is Dangerously Misleading",
     "description": "Guides clinicians and caregivers through red-flag symptom triads and underused diagnostic windows (e.g., bone scan uptake patterns, serum free light chains) for early identification of infiltrative heart disease.",
@@ -2491,7 +3145,8 @@
       "7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64",
       "blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70",
       "12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication",
-      "7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes"
+      "7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes",
+      "what-are-the-earliest-signs-your-denture-adhesive-is-causing-subclinical-cobalamin-deficiency-and-why-that-accelerates-autonomic-neuropathy-progression-in-adults-75-with-type-2-diabetes"
     ]
   },
   {
