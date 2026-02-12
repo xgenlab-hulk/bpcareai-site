@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "title": "7 Hidden Holiday Stress Triggers That Spike Postprandial Glucose in Adults 58–65 With Early Insulin Resistance",
+    "description": "Explores overlooked seasonal stressors — like gift-wrapping marathons, last-minute travel logistics, and family conflict anticipation — and their direct impact on insulin sensitivity and glucose excursions after meals.",
+    "primaryKeyword": "holiday stress and blood sugar spikes",
+    "topicCluster": "stress-glucose-dynamics",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:32:35.099Z"
+  },
+  {
+    "title": "How Late-Night Eggnog Consumption Alters Circadian Insulin Secretion Patterns in Adults 67+ With Long-Standing Type 2 Diabetes",
+    "description": "Examines the chronobiological disruption caused by high-fat, high-sugar nocturnal beverages — including effects on beta-cell pulsatility, melatonin-glucose crosstalk, and next-morning fasting hyperglycemia.",
+    "primaryKeyword": "late-night eggnog and insulin secretion",
+    "topicCluster": "circadian-metabolism",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:32:37.236Z"
+  },
+  {
+    "title": "A vs B: Gluten-Free Holiday Cookies vs. Low-Glycemic Oat-Based Bars for Post-Meal Glucose Stability in Adults 71+ With Celiac-Associated Diabetes",
+    "description": "Directly compares two popular 'healthier' holiday snack options using continuous glucose monitoring (CGM) data from older adults with dual diagnoses, factoring in fiber solubility, starch retrogradation, and gastric emptying time.",
+    "primaryKeyword": "gluten-free cookies vs oat bars diabetes",
+    "topicCluster": "diabetic-snack-comparison",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:32:39.252Z"
+  },
+  {
+    "title": "The Truth About 'Sugar-Free' Holiday Candies Marketed to Seniors — Why 83% Contain Maltitol-Induced Osmotic Diarrhea and Secondary Hyperglycemia in Adults 69+ With Gastroparesis",
+    "description": "Debunks marketing claims around sugar alcohols, revealing how maltitol and sorbitol exacerbate delayed gastric motility, cause rapid colonic fermentation, and trigger reactive glucose spikes via GLP-1 and catecholamine surges.",
+    "primaryKeyword": "sugar-free candies and gastroparesis",
+    "topicCluster": "gut-metabolism-interaction",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:32:43.380Z"
+  },
+  {
+    "title": "Natural Ways to Support Postprandial Glucose Clearance *Without* Increasing Insulin Dose — Using Post-Meal Walking Intensity Gradients and Diaphragmatic Breath Timing in Adults 64+ With Mild CKD",
+    "description": "Presents a kidney-safe, non-pharmacologic protocol combining graded ambulation (0–3 METs), timed diaphragmatic breathing (4-7-8 pattern), and positional shifts to enhance skeletal muscle glucose uptake and reduce renal gluconeogenic load.",
+    "primaryKeyword": "natural postprandial glucose control kidney disease",
+    "topicCluster": "renal-safe-glucose-management",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:32:47.571Z"
+  },
+  {
+    "title": "Does Daily Use of Holiday-Scented Candles Alter Postprandial Insulin Sensitivity via TRPA1 Channel Activation in Adults 65+ With Obesity and T2D?",
+    "description": "Investigates emerging evidence linking volatile organic compounds (e.g., cinnamaldehyde, eugenol) in seasonal fragrances to transient TRP channel-mediated inflammation, adipose tissue IRF3 signaling, and acute insulin resistance.",
+    "primaryKeyword": "scented candles insulin sensitivity",
+    "topicCluster": "environmental-endocrine-disruption",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:32:57.971Z"
+  },
+  {
+    "title": "The Complete Guide to Managing Diabetes During Intergenerational Holiday Hosting — Practical Strategies for Adults 61–74 With Mild Cognitive Load and Caregiver Fatigue",
+    "description": "Covers cognitive load mitigation, simplified meal planning, automated glucose logging, delegation frameworks, and energy-preserving routines specifically for older adults managing both their own diabetes and family caregiving demands.",
+    "primaryKeyword": "diabetes management intergenerational hosting",
+    "topicCluster": "caregiver-diabetes-balance",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:32:59.990Z"
+  },
+  {
+    "title": "Myths vs Facts: 'I Can Skip My Medication Just This One Day' During the Holidays — Risks for Adults 70+ With Long-Term Metformin Use and Vitamin B12 Deficiency",
+    "description": "Debunks common holiday medication misconceptions using pharmacokinetic data, highlighting risks of lactic acidosis priming, homocysteine surges, and acute neuropathic exacerbation — especially in B12-depleted older adults.",
+    "primaryKeyword": "holiday metformin skipping risks",
+    "topicCluster": "medication-adherence-myths",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:33:02.088Z"
+  },
+  {
+    "title": "How Holiday Light Displays Affect Evening Melatonin Onset and Nocturnal Glucose Homeostasis in Adults 68+ With Shift-Work History and Mild Sleep Fragmentation",
+    "description": "Explores blue-enriched LED exposure from indoor/outdoor decorations disrupting circadian melatonin release, delaying glucose clearance, and elevating overnight insulin resistance — even without screen use.",
+    "primaryKeyword": "holiday lights melatonin glucose",
+    "topicCluster": "circadian-light-exposure",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:33:04.168Z"
+  },
+  {
+    "title": "Can You Safely Use Warm Holiday Baths *While* Taking SGLT2 Inhibitors? — Evidence-Based Water Temperature Thresholds and Hydration Protocols for Adults 63+ With Mild Orthostasis",
+    "description": "Addresses risks of volume depletion, orthostatic intolerance, and ketoacidosis triggers during prolonged warm immersion — with specific guidance on bath duration, core temperature limits, and real-time hydration biomarkers.",
+    "primaryKeyword": "warm baths sglt2 inhibitors safety",
+    "topicCluster": "sglt2-inhibitor-safety-hydration",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:33:10.380Z"
+  },
+  {
+    "title": "Why Your Holiday Glucose Readings Are Higher *Only* When Visiting Your Son’s House — The Role of Pet Dander-Induced Systemic Inflammation in Adults 66+ With Subclinical Asthma and T2D",
+    "description": "Links allergen-triggered IL-6 and TNF-alpha surges to transient insulin resistance and impaired GLUT4 translocation — explaining location-specific glucose dysregulation not attributable to diet or activity changes.",
+    "primaryKeyword": "pet dander holiday glucose spikes",
+    "topicCluster": "allergen-metabolism-interaction",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-12T04:33:12.473Z"
+  }
+]
