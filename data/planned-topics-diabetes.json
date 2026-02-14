@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "title": "7 Silent Signs Your Feet Are Sending Early Warnings of Diabetic Neuropathy — Especially If You’ve Had T2D for 12+ Years",
+    "description": "A clinically grounded guide to recognizing subtle, often-missed sensory and vascular changes in the feet that precede painful neuropathy—focused on adults 60–75 with long-standing type 2 diabetes and preserved mobility.",
+    "primaryKeyword": "early signs diabetic neuropathy feet",
+    "topicCluster": "neuropathy-early-detection",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:18:29.016Z"
+  },
+  {
+    "title": "How Chronic Low-Grade Dehydration Alters Renal Glucose Reabsorption in Adults 72+ With Stage 2 CKD and Well-Controlled A1c",
+    "description": "Explores the understudied link between subclinical dehydration, SGLT2 transporter upregulation, and paradoxical postprandial spikes—even in seniors with 'normal' A1c and no overt kidney failure.",
+    "primaryKeyword": "dehydration and glucose reabsorption ckid",
+    "topicCluster": "renal-glucose-dynamics",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:18:31.046Z"
+  },
+  {
+    "title": "What Research Says About Intermittent Fasting for Women Over 65 With Postmenopausal Insulin Resistance — Not Just Weight Loss",
+    "description": "Synthesizes 2022–2024 RCTs and mechanistic studies on how IF affects hepatic insulin clearance, ovarian-adrenal axis crosstalk, and lean mass preservation in older women with prediabetes or early T2D.",
+    "primaryKeyword": "intermittent fasting women over 65 insulin resistance",
+    "topicCluster": "gender-specific-fasting-effects",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:18:33.036Z"
+  },
+  {
+    "title": "When to Worry About Sudden Nighttime Hunger That Wakes You Up — Differentiating Reactive Hypoglycemia, Nocturnal Somogyi Effect, and Early Autonomic Failure in Adults 70+",
+    "description": "A diagnostic decision tree for clinicians and patients, distinguishing metabolic, pharmacologic, and neurodegenerative causes of nocturnal awakenings with hunger—tailored to frailty and polypharmacy.",
+    "primaryKeyword": "sudden nighttime hunger diabetes diagnosis",
+    "topicCluster": "nocturnal-hypoglycemia-differentiation",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:18:41.197Z"
+  },
+  {
+    "title": "5 Things Every Man Over 74 Should Know About Testosterone Deficiency and Its Impact on Skeletal Muscle Glucose Uptake — Especially With Concurrent Statin Use",
+    "description": "Explains how age-related hypogonadism, statin-induced myotoxicity, and sarcopenic insulin resistance interact—and what actionable, lab-guided interventions exist beyond hormone replacement.",
+    "primaryKeyword": "testosterone deficiency muscle glucose uptake men",
+    "topicCluster": "male-hormone-muscle-metabolism",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:18:47.468Z"
+  },
+  {
+    "title": "The Dangers of Overcorrecting ‘Normal’ Fasting Glucose in Adults 82+ With Mild Cognitive Impairment — Why <90 mg/dL May Increase Fall Risk and Delirium Episodes",
+    "description": "Challenges aggressive glycemic targets in the oldest-old, reviewing falls epidemiology, cerebral glucose transport efficiency, and the safety margin for asymptomatic hypoglycemia in neurodegenerative contexts.",
+    "primaryKeyword": "overcorrecting fasting glucose oldest old",
+    "topicCluster": "geriatric-glycemic-targeting",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:18:51.562Z"
+  },
+  {
+    "title": "Does Daily 10-Minute Cold-Water Face Immersion Improve First-Phase Insulin Secretion in Adults 58–65 With Prediabetes and Normal Weight?",
+    "description": "Presents emerging evidence on trigeminal-vagal reflex modulation of pancreatic beta-cell responsiveness—testing a simple, non-pharmacologic intervention for early-phase insulin recovery.",
+    "primaryKeyword": "cold water face immersion insulin secretion",
+    "topicCluster": "trigeminal-vagal-metabolism",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:18:53.635Z"
+  },
+  {
+    "title": "Best Walking Surfaces for Adults 69+ With Diabetic Foot Ulcers in Remission — Concrete, Asphalt, Gravel, or Grass? Evidence-Based Impact on Plantar Pressure Redistribution",
+    "description": "Compares biomechanical load distribution across common outdoor surfaces using in-shoe pressure mapping data—prioritizing ulcer recurrence prevention in ambulatory seniors with healed neuropathic wounds.",
+    "primaryKeyword": "best walking surfaces diabetic foot ulcers",
+    "topicCluster": "foot-biomechanics-rehabilitation",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:18:55.614Z"
+  },
+  {
+    "title": "Quick Ways to Normalize Postprandial Glucose Spikes *Within 45 Minutes* — Using Sequential Protein-First Eating, Isometric Handgrip, and Nasal Breathing in Adults 60–68",
+    "description": "Actionable, time-bound protocol validated in ambulatory CGM studies—designed for real-world meals and feasible for those with mild arthritis or balance concerns.",
+    "primaryKeyword": "normalize postprandial glucose within 45 minutes",
+    "topicCluster": "acute-glucose-intervention",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:19:01.776Z"
+  },
+  {
+    "title": "What Are the Earliest Blood Biomarkers of Pancreatic Beta-Cell Stress *Before* Fasting Glucose Rises — For Adults 52–59 With Strong Family History and Normal Weight?",
+    "description": "Highlights emerging markers (proinsulin/C-peptide ratio, unmethylated INS DNA, GAD65 epitope profiles) and contextualizes them with lifestyle triggers—aimed at true pre-prediabetes risk stratification.",
+    "primaryKeyword": "earliest biomarkers beta cell stress",
+    "topicCluster": "beta-cell-stress-biomarkers",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:19:03.789Z"
+  },
+  {
+    "title": "The Complete Guide to Managing Diabetes During Winter Power Outages — Food Storage, Insulin Refrigeration Alternatives, and CGM Battery Survival for Adults 65+ in Rural Areas",
+    "description": "Practical, scenario-tested protocols for maintaining glycemic safety during extended infrastructure failure—prioritizing low-tech, low-cost, and mobility-limited adaptations.",
+    "primaryKeyword": "diabetes management winter power outage",
+    "topicCluster": "disaster-preparedness-diabetes",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-14T04:19:07.828Z"
+  }
+]
