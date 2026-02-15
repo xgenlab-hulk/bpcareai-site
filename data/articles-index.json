@@ -1,5 +1,664 @@
 [
   {
+    "slug": "why-eating-standing-up-at-holiday-buffets-raises-aspiration-risk-in-adults-80-with-subclinical-dysphagia",
+    "title": "Why Eating Standing Up at Holiday Buffets Raises Aspiration Risk in Adults 80+ With Subclinical Dysphagia",
+    "description": "Examines the biomechanics of upright eating, delayed pharyngeal transit, and how festive distractions compound aspiration vulnerability—plus evidence-based positioning strategies.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "standing eating aspiration risk seniors",
+      "healthy holiday eating for seniors",
+      "swallowing-safety-dynamics"
+    ],
+    "primaryKeyword": "standing eating aspiration risk seniors",
+    "topicCluster": "swallowing-safety-dynamics",
+    "image": "",
+    "relatedSlugs": [
+      "how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls",
+      "how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation",
+      "when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia",
+      "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70",
+      "how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor"
+    ]
+  },
+  {
+    "slug": "when-to-worry-about-sudden-nighttime-hunger-that-wakes-you-up-differentiating-reactive-hypoglycemia-nocturnal-somogyi-effect-and-early-autonomic-failure-in-adults-70",
+    "title": "When to Worry About Sudden Nighttime Hunger That Wakes You Up — Differentiating Reactive Hypoglycemia, Nocturnal Somogyi Effect, and Early Autonomic Failure in Adults 70+",
+    "description": "A diagnostic decision tree for clinicians and patients, distinguishing metabolic, pharmacologic, and neurodegenerative causes of nocturnal awakenings with hunger—tailored to frailty and polypharmacy.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "sudden nighttime hunger diabetes diagnosis",
+      "diabetes",
+      "nocturnal-hypoglycemia-differentiation"
+    ],
+    "primaryKeyword": "sudden nighttime hunger diabetes diagnosis",
+    "topicCluster": "nocturnal-hypoglycemia-differentiation",
+    "image": "",
+    "relatedSlugs": [
+      "what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance",
+      "what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows",
+      "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes",
+      "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks",
+      "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68"
+    ]
+  },
+  {
+    "slug": "when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75",
+    "title": "When to Worry About Sudden Drowsiness After Christmas Dinner — Linking Postprandial Hypoglycemia, Autonomic Blunting, and Late-Night Falls in Adults 75+",
+    "description": "Details how delayed insulin response + reduced catecholamine reserve can cause dangerous late-onset hypoglycemia masked as 'just tired'—with actionable monitoring windows and fall-prevention tactics.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "post-dinner drowsiness hypoglycemia seniors",
+      "healthy holiday eating for seniors",
+      "hypoglycemia-safety-alerts"
+    ],
+    "primaryKeyword": "post-dinner drowsiness hypoglycemia seniors",
+    "topicCluster": "hypoglycemia-safety-alerts",
+    "image": "",
+    "relatedSlugs": [
+      "when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea",
+      "when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction",
+      "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks",
+      "when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension",
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75"
+    ]
+  },
+  {
+    "slug": "when-to-worry-about-normal-troponin-i-levels-after-a-fall-understanding-age-adjusted-cutoffs-and-myocardial-contusion-risk-in-adults-82-with-osteoporosis",
+    "title": "When to Worry About 'Normal' Troponin I Levels After a Fall — Understanding Age-Adjusted Cutoffs and Myocardial Contusion Risk in Adults 82+ With Osteoporosis",
+    "description": "Guides clinicians and families on interpreting troponin in frail older adults after trauma — including false-negative risk, assay limitations, and echocardiographic triage criteria.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "troponin after fall in elderly",
+      "heart disease",
+      "trauma-diagnostic-interpretation"
+    ],
+    "primaryKeyword": "troponin after fall in elderly",
+    "topicCluster": "trauma-diagnostic-interpretation",
+    "image": "",
+    "relatedSlugs": [
+      "myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions",
+      "the-complete-guide-to-interpreting-nt-probnp-in-adults-76-with-ckd-stage-3b-and-anemia-why-standard-cutpoints-fail-and-what-adjusted-thresholds-to-use",
+      "the-complete-guide-to-interpreting-your-cgm-s-time-in-range-metric-for-adults-75-with-fragile-glycemic-control-and-frequent-falls",
+      "the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure",
+      "the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance"
+    ]
+  },
+  {
+    "slug": "what-are-the-earliest-ecg-clues-of-right-ventricular-strain-in-adults-58-69-with-obesity-mild-sleep-apnea-and-normal-bnp",
+    "title": "What Are the Earliest ECG Clues of Right Ventricular Strain in Adults 58–69 With Obesity, Mild Sleep Apnea, and Normal BNP?",
+    "description": "Pinpoints subtle but actionable ECG features (e.g., P-wave axis shift, S-wave persistence in V6, R/S ratio changes) preceding overt pulmonary hypertension in midlife metabolic syndrome.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "ecg clues right ventricular strain",
+      "heart disease",
+      "electrocardiographic-early-signs"
+    ],
+    "primaryKeyword": "ecg clues right ventricular strain",
+    "topicCluster": "electrocardiographic-early-signs",
+    "image": "",
+    "relatedSlugs": [
+      "warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears",
+      "warning-signs-of-right-heart-strain-that-appear-before-neck-vein-distension-detected-via-subcostal-echocardiographic-view-in-adults-77-with-copd-and-mild-pulmonary-hypertension",
+      "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms",
+      "warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis",
+      "warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue"
+    ]
+  },
+  {
+    "slug": "what-are-the-earliest-blood-biomarkers-of-pancreatic-beta-cell-stress-before-fasting-glucose-rises-for-adults-52-59-with-strong-family-history-and-normal-weight",
+    "title": "What Are the Earliest Blood Biomarkers of Pancreatic Beta-Cell Stress *Before* Fasting Glucose Rises — For Adults 52–59 With Strong Family History and Normal Weight?",
+    "description": "Highlights emerging markers (proinsulin/C-peptide ratio, unmethylated INS DNA, GAD65 epitope profiles) and contextualizes them with lifestyle triggers—aimed at true pre-prediabetes risk stratification.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "earliest biomarkers beta cell stress",
+      "diabetes",
+      "beta-cell-stress-biomarkers"
+    ],
+    "primaryKeyword": "earliest biomarkers beta cell stress",
+    "topicCluster": "beta-cell-stress-biomarkers",
+    "image": "",
+    "relatedSlugs": [
+      "how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show",
+      "warning-signs-your-holiday-weight-gain-is-triggering-silent-beta-cell-exhaustion-even-with-normal-a1c-in-adults-55-64-with-family-history-of-early-onset-t2d",
+      "when-to-suspect-mitochondrial-myopathy-before-muscle-cramps-appear-red-flags-in-adults-65-with-rapid-onset-insulin-resistance-and-unexplained-fatigue",
+      "the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia",
+      "myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes"
+    ]
+  },
+  {
+    "slug": "warning-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-due-to-arm-cuff-misalignment-especially-if-you-have-lymphedema-or-post-mastectomy-swelling",
+    "title": "Warning Signs Your Home Blood Pressure Monitor Is Giving False-Low Readings Due to Arm Cuff Misalignment — Especially If You Have Lymphedema or Post-Mastectomy Swelling",
+    "description": "Identifies cuff fit errors, tissue density interference, and oscillometric algorithm limitations in patients with asymmetric upper limb volume — plus validation protocols.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "false low blood pressure readings lymphedema",
+      "blood pressure",
+      "monitoring-testing"
+    ],
+    "primaryKeyword": "false low blood pressure readings lymphedema",
+    "topicCluster": "monitoring-testing",
+    "image": "",
+    "relatedSlugs": [
+      "12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring",
+      "warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation",
+      "warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema",
+      "7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema",
+      "warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse"
+    ]
+  },
+  {
+    "slug": "the-truth-about-heart-healthy-omega-3-supplements-marketed-to-seniors-why-82-fail-to-deliver-epa-dha-in-bioavailable-form-due-to-oxidation-and-enteric-coating-defects",
+    "title": "The Truth About 'Heart-Healthy' Omega-3 Supplements Marketed to Seniors — Why 82% Fail to Deliver EPA/DHA in Bioavailable Form Due to Oxidation and Enteric Coating Defects",
+    "description": "Investigates stability testing, third-party assay data, and absorption studies in older adults, revealing formulation flaws that compromise anti-inflammatory and triglyceride-lowering efficacy.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "omega-3 supplement bioavailability seniors",
+      "heart health",
+      "supplement-quality-evaluation"
+    ],
+    "primaryKeyword": "omega-3 supplement bioavailability seniors",
+    "topicCluster": "supplement-quality-evaluation",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction",
+      "the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque",
+      "the-truth-about-heart-healthy-instant-oatmeal-packets-labeled-for-seniors-why-91-contain-hidden-beta-glucan-antagonists-that-impair-endothelial-no-release-in-adults-65-with-subclinical-atherosclerosis",
+      "the-role-of-omega-3-fatty-acids-in-preventing-heart-disease"
+    ]
+  },
+  {
+    "slug": "the-truth-about-heart-healthy-frozen-dinners-marketed-to-seniors-why-74-contain-hidden-sodium-potassium-imbalance-triggers-in-adults-78-with-mild-diastolic-dysfunction",
+    "title": "The Truth About 'Heart-Healthy' Frozen Dinners Marketed to Seniors — Why 74% Contain Hidden Sodium-Potassium Imbalance Triggers in Adults 78+ With Mild Diastolic Dysfunction",
+    "description": "Investigates how commercially labeled 'low-sodium' frozen meals use potassium chloride substitutes that disrupt RAAS balance in older adults with preserved EF but impaired ventricular relaxation.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "frozen dinners and blood pressure seniors",
+      "blood pressure",
+      "diet-nutrition"
+    ],
+    "primaryKeyword": "frozen dinners and blood pressure seniors",
+    "topicCluster": "diet-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease",
+      "the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy",
+      "the-truth-about-heart-healthy-frozen-dinners-for-adults-73-with-stage-3-ckd-and-systolic-heart-failure",
+      "the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims",
+      "the-truth-about-low-sodium-canned-soups-marketed-to-seniors-why-83-contain-unlabeled-potassium-chloride-blends-that-trigger-hyperkalemic-bradycardia-in-adults-76-with-ckd-stage-3"
+    ]
+  },
+  {
+    "slug": "the-complete-guide-to-interpreting-nt-probnp-in-adults-76-with-ckd-stage-3b-and-anemia-why-standard-cutpoints-fail-and-what-adjusted-thresholds-to-use",
+    "title": "The Complete Guide to Interpreting NT-proBNP in Adults 76+ With CKD Stage 3b and Anemia — Why Standard Cutpoints Fail and What Adjusted Thresholds to Use",
+    "description": "Provides a step-by-step framework for contextualizing NT-proBNP results in older adults with overlapping renal and hematologic confounders — including age- and eGFR-adjusted interpretation tables.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "nt-probnp interpretation in elderly ckd",
+      "heart disease",
+      "biomarker-interpretation-guide"
+    ],
+    "primaryKeyword": "nt-probnp interpretation in elderly ckd",
+    "topicCluster": "biomarker-interpretation-guide",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-times-to-check-nt-probnp-not-just-bnp-in-adults-65-with-chronic-kidney-disease-stage-2-and-new-onset-exertional-dyspnea",
+      "myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions",
+      "why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin",
+      "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use",
+      "how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation"
+    ]
+  },
+  {
+    "slug": "natural-ways-to-support-salivary-amylase-activity-without-increasing-carbohydrate-load-using-chilled-cucumber-ribbons-and-zinc-enhanced-herbs-in-adults-70-with-dry-mouth-and-dysphagia",
+    "title": "Natural Ways to Support Salivary Amylase Activity *Without* Increasing Carbohydrate Load — Using Chilled Cucumber Ribbons and Zinc-Enhanced Herbs in Adults 70+ With Dry Mouth and Dysphagia",
+    "description": "Focuses on oral-phase digestion optimization for older adults with xerostomia—detailing food textures, mineral co-factors, and hydration timing that enhance starch breakdown *before* swallowing.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "salivary amylase support dry mouth elderly",
+      "healthy eating during family gatherings",
+      "oral-digestion-nutrition"
+    ],
+    "primaryKeyword": "salivary amylase support dry mouth elderly",
+    "topicCluster": "oral-digestion-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia",
+      "natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear",
+      "natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia",
+      "natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia",
+      "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes"
+    ]
+  },
+  {
+    "slug": "how-living-near-high-traffic-urban-corridors-alters-carotid-intima-media-thickness-progression-in-adults-66-with-controlled-hypertension-and-no-prior-cvd",
+    "title": "How Living Near High-Traffic Urban Corridors Alters Carotid Intima-Media Thickness Progression in Adults 66+ With Controlled Hypertension and No Prior CVD",
+    "description": "Examines longitudinal IMT data linked to PM2.5/NO2 exposure modeling, highlighting epigenetic drivers (e.g., LINE-1 methylation, miR-146a suppression) and neighborhood-level mitigation tactics.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "traffic pollution carotid thickness progression",
+      "heart health",
+      "environmental-cardiovascular-risk"
+    ],
+    "primaryKeyword": "traffic pollution carotid thickness progression",
+    "topicCluster": "environmental-cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries",
+      "how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways",
+      "how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55",
+      "how-chronic-exposure-to-urban-roadway-noise-55-db-increases-nighttime-sympathetic-tone-and-predicts-new-onset-heart-failure-in-adults-64-with-borderline-hypertension",
+      "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments"
+    ]
+  },
+  {
+    "slug": "how-holiday-stress-hormones-disrupt-blood-sugar-control-in-adults-65-with-long-standing-type-2-diabetes",
+    "title": "How Holiday Stress Hormones Disrupt Blood Sugar Control in Adults 65+ With Long-Standing Type 2 Diabetes",
+    "description": "Explores the cortisol-epinephrine cascade triggered by family gatherings, travel, and disrupted routines—and how it directly impairs insulin sensitivity and hepatic glucose output in older adults with T2D.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "holiday stress blood sugar seniors",
+      "healthy holiday eating for seniors",
+      "stress-metabolism-interaction"
+    ],
+    "primaryKeyword": "holiday stress blood sugar seniors",
+    "topicCluster": "stress-metabolism-interaction",
+    "image": "",
+    "relatedSlugs": [
+      "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65",
+      "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes",
+      "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50",
+      "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes",
+      "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope"
+    ]
+  },
+  {
+    "slug": "how-hearing-loss-alters-flavor-perception-and-drives-excessive-salt-use-at-holiday-meals-in-adults-79-with-presbycusis",
+    "title": "How Hearing Loss Alters Flavor Perception and Drives Excessive Salt Use at Holiday Meals in Adults 79+ With Presbycusis",
+    "description": "Links auditory-cognitive load to diminished taste bud sensitivity, showing how reduced sound input lowers perceived umami/sweetness—leading to compensatory sodium overuse and hypertension risk.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "hearing loss salt use holiday meals",
+      "healthy holiday eating for seniors",
+      "sensory-cognition-nutrition"
+    ],
+    "primaryKeyword": "hearing loss salt use holiday meals",
+    "topicCluster": "sensory-cognition-nutrition",
+    "image": "",
+    "relatedSlugs": [
+      "13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps",
+      "how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension",
+      "how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression",
+      "what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68",
+      "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension"
+    ]
+  },
+  {
+    "slug": "how-family-meal-timing-disrupts-nocturnal-growth-hormone-pulses-in-adults-59-66-with-sarcopenia-and-what-to-eat-instead-of-midnight-snacks",
+    "title": "How Family Meal Timing Disrupts Nocturnal Growth Hormone Pulses in Adults 59–66 With Sarcopenia — And What to Eat *Instead* of Midnight Snacks",
+    "description": "Explains GH’s role in muscle protein synthesis during slow-wave sleep, how late eating suppresses its amplitude, and provides pre-dinner protein timing protocols to preserve anabolic signaling.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "family meal timing growth hormone sarcopenia",
+      "healthy holiday eating for seniors",
+      "anabolic-timing-strategies"
+    ],
+    "primaryKeyword": "family meal timing growth hormone sarcopenia",
+    "topicCluster": "anabolic-timing-strategies",
+    "image": "",
+    "relatedSlugs": [
+      "how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65",
+      "how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70",
+      "5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily",
+      "how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea",
+      "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75"
+    ]
+  },
+  {
+    "slug": "how-chronic-low-grade-dental-inflammation-alters-endothelial-glycocalyx-thickness-and-why-that-matters-for-microvascular-coronary-flow-reserve-in-adults-64-with-stable-angina",
+    "title": "How Chronic Low-Grade Dental Inflammation Alters Endothelial Glycocalyx Thickness — And Why That Matters for Microvascular Coronary Flow Reserve in Adults 64+ With Stable Angina",
+    "description": "Connects periodontal disease biomarkers (e.g., sialyl Lewis X, hyaluronan fragments) to coronary microvascular dysfunction via glycocalyx degradation, with clinical implications for non-invasive FFRct interpretation.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "dental inflammation coronary microvascular flow",
+      "heart health",
+      "oral-systemic-cardiovascular-link"
+    ],
+    "primaryKeyword": "dental inflammation coronary microvascular flow",
+    "topicCluster": "oral-systemic-cardiovascular-link",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial",
+      "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense",
+      "how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis",
+      "how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension",
+      "how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession"
+    ]
+  },
+  {
+    "slug": "how-chronic-low-grade-dehydration-alters-renal-glucose-reabsorption-in-adults-72-with-stage-2-ckd-and-well-controlled-a1c",
+    "title": "How Chronic Low-Grade Dehydration Alters Renal Glucose Reabsorption in Adults 72+ With Stage 2 CKD and Well-Controlled A1c",
+    "description": "Explores the understudied link between subclinical dehydration, SGLT2 transporter upregulation, and paradoxical postprandial spikes—even in seniors with 'normal' A1c and no overt kidney failure.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "dehydration and glucose reabsorption ckid",
+      "diabetes",
+      "renal-glucose-dynamics"
+    ],
+    "primaryKeyword": "dehydration and glucose reabsorption ckid",
+    "topicCluster": "renal-glucose-dynamics",
+    "image": "",
+    "relatedSlugs": [
+      "how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation",
+      "how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-mediated-glucose-reabsorption-and-accelerates-egfr-decline-in-adults-70-with-stage-3-ckd-and-diabetes",
+      "how-dehydration-affects-blood-sugar-readings-in-older-diabetics",
+      "how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68",
+      "what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin"
+    ]
+  },
+  {
+    "slug": "does-daily-10-minute-cold-water-face-immersion-improve-first-phase-insulin-secretion-in-adults-58-65-with-prediabetes-and-normal-weight",
+    "title": "Does Daily 10-Minute Cold-Water Face Immersion Improve First-Phase Insulin Secretion in Adults 58–65 With Prediabetes and Normal Weight?",
+    "description": "Presents emerging evidence on trigeminal-vagal reflex modulation of pancreatic beta-cell responsiveness—testing a simple, non-pharmacologic intervention for early-phase insulin recovery.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "cold water face immersion insulin secretion",
+      "diabetes",
+      "trigeminal-vagal-metabolism"
+    ],
+    "primaryKeyword": "cold water face immersion insulin secretion",
+    "topicCluster": "trigeminal-vagal-metabolism",
+    "image": "",
+    "relatedSlugs": [
+      "does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss",
+      "does-daily-3-minute-cold-water-face-immersion-really-improve-vagal-tone-and-postprandial-glucose-stability-in-adults-75-with-type-2-diabetes-and-orthostatic-hypotension",
+      "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct",
+      "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns",
+      "can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity"
+    ]
+  },
+  {
+    "slug": "can-you-safely-eat-leftover-gravy-on-day-3-if-you-have-stage-3-ckd-a-food-safety-phosphorus-stability-guide-for-adults-74",
+    "title": "Can You Safely Eat Leftover Gravy on Day 3 If You Have Stage 3 CKD? — A Food Safety + Phosphorus Stability Guide for Adults 74+",
+    "description": "Analyzes microbial risk, phosphate leaching from bones into reheated gravies, and safe storage/reheating protocols tailored for seniors with chronic kidney disease and reduced gastric acidity.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "leftover gravy safety stage 3 ckd",
+      "healthy holiday eating for seniors",
+      "food-safety-renal-health"
+    ],
+    "primaryKeyword": "leftover gravy safety stage 3 ckd",
+    "topicCluster": "food-safety-renal-health",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-your-holiday-gravy-contains-hidden-phosphate-additives-and-why-that-matters-for-adults-74-with-stage-3-ckd",
+      "5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems",
+      "how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy",
+      "can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide",
+      "a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis"
+    ]
+  },
+  {
+    "slug": "a-vs-b-traditional-mashed-potatoes-vs-cauliflower-parsnip-blend-for-satiety-glycemic-response-in-adults-61-73-with-mild-ckd-and-hypertension",
+    "title": "A vs B: Traditional Mashed Potatoes vs. Cauliflower-Parsnip Blend for Satiety & Glycemic Response in Adults 61–73 With Mild CKD and Hypertension",
+    "description": "Compares potassium bioavailability, resistant starch formation upon cooling, and sodium-binding capacity—plus includes prep tips to maximize renal-protective phytonutrients without sacrificing creaminess.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "mashed potatoes vs cauliflower parsnip CKD",
+      "healthy eating during family gatherings",
+      "renal-diet-comparison"
+    ],
+    "primaryKeyword": "mashed potatoes vs cauliflower parsnip CKD",
+    "topicCluster": "renal-diet-comparison",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd",
+      "a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd",
+      "a-vs-b-roasted-sweet-potatoes-vs-mashed-cauliflower-for-postprandial-glucose-stability-in-adults-63-with-prediabetes-and-mild-dysphagia",
+      "a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd",
+      "can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-your-sodium-intake-spiked-at-thanksgiving-dinner-especially-if-you-re-on-an-arb-and-over-72",
+    "title": "7 Silent Signs Your Sodium Intake Spiked at Thanksgiving Dinner — Especially If You’re on an ARB and Over 72",
+    "description": "Identifies subtle, often-missed physiological cues (e.g., morning ankle edema + midday mental fog) signaling acute sodium overload in seniors on renin-angiotensin system inhibitors.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "silent sodium overload signs seniors",
+      "healthy holiday eating for seniors",
+      "electrolyte-symptom-recognition"
+    ],
+    "primaryKeyword": "silent sodium overload signs seniors",
+    "topicCluster": "electrolyte-symptom-recognition",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction",
+      "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents",
+      "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62",
+      "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs",
+      "warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-your-left-ventricular-diastolic-function-is-declining-especially-if-you-still-pass-standard-ekgs-and-walk-5-000-steps-daily",
+    "title": "7 Silent Signs Your Left Ventricular Diastolic Function Is Declining — Especially If You Still Pass Standard EKGs and Walk 5,000 Steps Daily",
+    "description": "Highlights subtle, non-acute indicators of early diastolic dysfunction (e.g., unexplained exertional dyspnea on level ground, prolonged recovery HR, nocturnal cough) in high-functioning adults 60–75.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "silent signs of diastolic dysfunction",
+      "heart disease",
+      "early-detection-symptoms"
+    ],
+    "primaryKeyword": "silent signs of diastolic dysfunction",
+    "topicCluster": "early-detection-symptoms",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction",
+      "7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older",
+      "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily",
+      "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity",
+      "7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg"
+    ]
+  },
+  {
+    "slug": "7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years",
+    "title": "7 Silent Signs Your Feet Are Sending Early Warnings of Diabetic Neuropathy — Especially If You’ve Had T2D for 12+ Years",
+    "description": "A clinically grounded guide to recognizing subtle, often-missed sensory and vascular changes in the feet that precede painful neuropathy—focused on adults 60–75 with long-standing type 2 diabetes and preserved mobility.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "early signs diabetic neuropathy feet",
+      "diabetes",
+      "neuropathy-early-detection"
+    ],
+    "primaryKeyword": "early signs diabetic neuropathy feet",
+    "topicCluster": "neuropathy-early-detection",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy",
+      "7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older",
+      "warning-signs-of-diabetic-foot-osteomyelitis-that-appear-before-ulcer-formation-in-adults-71-with-peripheral-neuropathy-and-chronic-edema",
+      "7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c",
+      "recognizing-silent-heart-attacks-in-diabetics-over-60"
+    ]
+  },
+  {
+    "slug": "5-things-every-man-over-74-should-know-about-testosterone-deficiency-and-its-impact-on-skeletal-muscle-glucose-uptake-especially-with-concurrent-statin-use",
+    "title": "5 Things Every Man Over 74 Should Know About Testosterone Deficiency and Its Impact on Skeletal Muscle Glucose Uptake — Especially With Concurrent Statin Use",
+    "description": "Explains how age-related hypogonadism, statin-induced myotoxicity, and sarcopenic insulin resistance interact—and what actionable, lab-guided interventions exist beyond hormone replacement.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "testosterone deficiency muscle glucose uptake men",
+      "diabetes",
+      "male-hormone-muscle-metabolism"
+    ],
+    "primaryKeyword": "testosterone deficiency muscle glucose uptake men",
+    "topicCluster": "male-hormone-muscle-metabolism",
+    "image": "",
+    "relatedSlugs": [
+      "5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake",
+      "5-things-every-man-over-72-should-know-about-testosterone-replacement-therapy-and-its-effect-on-hepatic-glucose-production-especially-with-concomitant-nafld",
+      "5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65",
+      "natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement",
+      "5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration"
+    ]
+  },
+  {
+    "slug": "5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia",
+    "title": "5 Foods That Support Salivary Amylase Activity *Without* Increasing Carbohydrate Load — For Adults 77+ With Xerostomia and Mild Dysphagia",
+    "description": "Highlights nutrient-dense, low-glycemic foods that gently stimulate saliva and oral starch digestion—critical for safe swallowing and postprandial glucose stability in seniors with dry mouth.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "salivary amylase support xerostomia seniors",
+      "healthy holiday eating for seniors",
+      "oral-digestion-support"
+    ],
+    "primaryKeyword": "salivary amylase support xerostomia seniors",
+    "topicCluster": "oral-digestion-support",
+    "image": "",
+    "relatedSlugs": [
+      "natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear",
+      "natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia",
+      "natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia",
+      "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes",
+      "natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd"
+    ]
+  },
+  {
+    "slug": "12-things-every-man-over-70-should-know-about-isolated-systolic-hypertension-especially-if-he-s-taking-daily-aspirin-and-has-a-history-of-gout",
+    "title": "12 Things Every Man Over 70 Should Know About Isolated Systolic Hypertension — Especially If He’s Taking Daily Aspirin and Has a History of Gout",
+    "description": "Covers ISH-specific risks (pulse wave velocity, aortic stiffness), aspirin’s impact on uric acid clearance and RAAS, and gout-hypertension drug interaction pitfalls.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "isolated systolic hypertension men over 70",
+      "blood pressure",
+      "gender-specific-concerns"
+    ],
+    "primaryKeyword": "isolated systolic hypertension men over 70",
+    "topicCluster": "gender-specific-concerns",
+    "image": "",
+    "relatedSlugs": [
+      "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+      "does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability",
+      "myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65",
+      "what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease",
+      "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness"
+    ]
+  },
+  {
+    "slug": "12-quick-swaps-to-make-your-granddaughter-s-vegan-holiday-cookies-heart-safe-tested-by-cardiac-dietitians-for-adults-69-with-atrial-fibrillation",
+    "title": "12 Quick Swaps to Make Your Granddaughter’s Vegan Holiday Cookies Heart-Safe — Tested by Cardiac Dietitians for Adults 69+ With Atrial Fibrillation",
+    "description": "Offers practical, flavor-preserving ingredient substitutions (e.g., flax gel vs. chia for omega-3 stability, erythritol blends for potassium-sparing sweetness) validated for AFib-safe electrolyte balance.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "vegan cookies heart-safe seniors afib",
+      "healthy holiday eating for seniors",
+      "plant-based-cardiac-safety"
+    ],
+    "primaryKeyword": "vegan cookies heart-safe seniors afib",
+    "topicCluster": "plant-based-cardiac-safety",
+    "image": "",
+    "relatedSlugs": [
+      "the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy",
+      "the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr",
+      "12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72",
+      "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension",
+      "5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor"
+    ]
+  },
+  {
+    "slug": "12-foods-that-support-cardiac-fibroblast-quiescence-without-inhibiting-wound-healing-for-adults-69-with-prior-myocardial-infarction-and-stable-scar",
+    "title": "12 Foods That Support Cardiac Fibroblast Quiescence *Without* Inhibiting Wound Healing — For Adults 69+ With Prior Myocardial Infarction and Stable Scar",
+    "description": "Highlights dietary compounds (e.g., epigallocatechin gallate, urolithin A, apigenin) that modulate fibroblast activation while preserving collagen integrity in healed myocardium.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "foods for cardiac fibroblast quiescence",
+      "heart disease",
+      "post-mi-tissue-maintenance"
+    ],
+    "primaryKeyword": "foods for cardiac fibroblast quiescence",
+    "topicCluster": "post-mi-tissue-maintenance",
+    "image": "",
+    "relatedSlugs": [
+      "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib",
+      "natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79",
+      "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy",
+      "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension",
+      "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max"
+    ]
+  },
+  {
+    "slug": "10-hidden-sources-of-arsenic-exposure-in-well-water-dependent-senior-communities-and-how-low-dose-chronic-exposure-may-accelerate-vascular-calcification-in-adults-67",
+    "title": "10 Hidden Sources of Arsenic Exposure in Well Water-Dependent Senior Communities — And How Low-Dose Chronic Exposure May Accelerate Vascular Calcification in Adults 67+",
+    "description": "Identifies geographic and infrastructural arsenic risks in rural senior populations, linking exposure to medial calcification, pulse wave velocity, and HFpEF incidence.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "arsenic exposure and vascular calcification",
+      "heart disease",
+      "environmental-toxin-cardiovascular-risk"
+    ],
+    "primaryKeyword": "arsenic exposure and vascular calcification",
+    "topicCluster": "environmental-toxin-cardiovascular-risk",
+    "image": "",
+    "relatedSlugs": [
+      "7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use",
+      "10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease",
+      "how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd",
+      "what-are-the-earliest-signs-of-arterial-stiffness-before-bp-rises-especially-in-women-over-63-with-a-history-of-preeclampsia-and-now-on-aromatase-inhibitors",
+      "how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries"
+    ]
+  },
+  {
+    "slug": "10-foods-that-enhance-satiety-signaling-without-increasing-cholecystokinin-load-for-adults-73-with-chronic-gallbladder-sluggishness",
+    "title": "10 Foods That Enhance Satiety Signaling *Without* Increasing Cholecystokinin Load — For Adults 73+ With Chronic Gallbladder Sluggishness",
+    "description": "Focuses on low-fat, high-fiber, high-viscosity foods (e.g., okra mucilage, konjac noodles) that promote fullness via gastric distension and GLP-1—not CCK—reducing biliary stress.",
+    "date": "2026-02-15",
+    "updated": "2026-02-15",
+    "tags": [
+      "satiety without cholecystokinin seniors",
+      "healthy holiday eating for seniors",
+      "gallbladder-friendly-satiety"
+    ],
+    "primaryKeyword": "satiety without cholecystokinin seniors",
+    "topicCluster": "gallbladder-friendly-satiety",
+    "image": "",
+    "relatedSlugs": [
+      "a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia",
+      "natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history",
+      "10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes",
+      "7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68",
+      "best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux"
+    ]
+  },
+  {
     "slug": "when-to-worry-about-sudden-fatigue-after-dinner-at-your-daughter-s-house-linking-postprandial-hypotension-autonomic-testing-and-family-meal-timing-in-adults-76",
     "title": "When to Worry About Sudden Fatigue After Dinner at Your Daughter’s House — Linking Postprandial Hypotension, Autonomic Testing, and Family Meal Timing in Adults 76+",
     "description": "Connects timing of meals, ambient temperature, seating posture, and intergenerational caregiving load to orthostatic symptoms—and outlines a home-based '3-Minute Post-Meal BP Snapshot' protocol.",

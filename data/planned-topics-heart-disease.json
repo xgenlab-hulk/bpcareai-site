@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "title": "Why Does Heart Disease Progress Faster in Women After Menopause — And What Hormone-Modulated Endothelial Pathways Are Involved?",
+    "description": "Explores the biological mechanisms linking estrogen decline to accelerated atherosclerosis, microvascular dysfunction, and diagnostic delays in women aged 55–72.",
+    "primaryKeyword": "heart disease progression after menopause",
+    "topicCluster": "gender-specific-pathophysiology",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:16.959Z"
+  },
+  {
+    "title": "How Chronic Low-Grade Dental Inflammation Alters Plaque Stability in Adults 68+ With Stable CAD — Evidence from Serial IVUS-OCT Imaging",
+    "description": "Examines the oral-systemic link between periodontitis, circulating IL-6/TNF-α, and vulnerable coronary plaque morphology in older adults with known heart disease.",
+    "primaryKeyword": "dental inflammation and coronary plaque stability",
+    "topicCluster": "infection-inflammation-link",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:19.092Z"
+  },
+  {
+    "title": "Can You Safely Use a Portable Oxygen Concentrator *During* Cardiac Rehab Sessions? — Safety Thresholds for SpO₂, HRV, and Exercise Tolerance in Adults 71+ With HFpEF",
+    "description": "Reviews evidence on supplemental O₂ use during monitored exercise in older adults with preserved ejection fraction heart failure — including titration protocols and red-flag parameters.",
+    "primaryKeyword": "oxygen concentrator during cardiac rehab",
+    "topicCluster": "intervention-safety",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:23.261Z"
+  },
+  {
+    "title": "The Truth About 'Heart-Healthy' Seed Oils Marketed to Seniors — Why High-Linoleic Safflower and Sunflower Oils May Promote Endothelial Oxidative Stress in Adults 64+ With Elevated Lp(a)",
+    "description": "Debunks marketing claims around refined polyunsaturated oils, focusing on lipid peroxidation risk in genetically susceptible older adults with high lipoprotein(a).",
+    "primaryKeyword": "seed oils and endothelial oxidative stress",
+    "topicCluster": "nutritional-science-mythbusting",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:25.365Z"
+  },
+  {
+    "title": "What Research Says About Circadian Misalignment and Myocardial Fibrosis in Adults 59–67 With Shift-Work History and Normal Ejection Fraction",
+    "description": "Analyzes longitudinal data linking chronic circadian disruption to subclinical myocardial remodeling, independent of hypertension or diabetes, in midlife shift workers.",
+    "primaryKeyword": "circadian misalignment and myocardial fibrosis",
+    "topicCluster": "chronobiology-cardiac-remodeling",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:27.502Z"
+  },
+  {
+    "title": "A vs B: Daily 10-Minute Resistance Band Workouts vs. Brisk Walking for Improving Coronary Flow Reserve in Adults 63+ With Nonobstructive CAD",
+    "description": "Compares microvascular benefits of low-load resistance training versus aerobic walking using contrast echocardiography metrics in older adults with INOCA.",
+    "primaryKeyword": "resistance band vs walking coronary flow",
+    "topicCluster": "exercise-modality-comparison",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:29.685Z"
+  },
+  {
+    "title": "How Living Near High-Traffic Urban Corridors Alters Autonomic Modulation of Ventricular Repolarization in Adults 57–65 With Borderline QTc Prolongation",
+    "description": "Investigates PM2.5 and NO₂ exposure effects on T-wave morphology, HRV indices, and arrhythmic risk in pre-symptomatic adults with borderline QTc.",
+    "primaryKeyword": "traffic pollution and ventricular repolarization",
+    "topicCluster": "environmental-cardiac-electrophysiology",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:34.001Z"
+  },
+  {
+    "title": "Natural Ways to Support Mitochondrial Quality Control in Cardiomyocytes *Without* Activating mTOR — Using Fasting-Mimicking Diets and Urolithin A in Adults 66+ With Preserved EF and Low VO₂ Peak",
+    "description": "Focuses on mitophagy-enhancing nutrition strategies that avoid growth pathway overstimulation in aging heart muscle — with dosing, timing, and biomarker monitoring guidance.",
+    "primaryKeyword": "mitochondrial quality control in cardiomyocytes",
+    "topicCluster": "cellular-aging-nutrition",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:38.298Z"
+  },
+  {
+    "title": "5 Things Everyone Over 70 Should Know About Coronary Artery Calcium (CAC) Scoring — Especially If You're Taking Statins but Have Zero Symptoms",
+    "description": "Clarifies clinical utility, progression thresholds, and implications of CAC scoring in asymptomatic older adults on primary prevention statins — beyond risk calculators.",
+    "primaryKeyword": "coronary calcium scoring over 70",
+    "topicCluster": "preventive-testing-interpretation",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:40.411Z"
+  },
+  {
+    "title": "How Chronic Constipation Alters Vagal Tone and Triggers Nocturnal ST-Segment Variability in Adults 61+ With Known Vasovagal Syncope History",
+    "description": "Details the gut-brain-heart axis in older adults — linking colonic distension, vagal hyperactivity, and transient ischemic-like ECG changes during sleep.",
+    "primaryKeyword": "constipation and nocturnal ST variability",
+    "topicCluster": "gastro-cardiac-autonomic-link",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:42.579Z"
+  },
+  {
+    "title": "Myths vs Facts: 'My Heart Is Strong Because I Climb Stairs Easily' — What Stress Echocardiography Reveals About Subclinical Ischemia in Adults 55–64 With Family History",
+    "description": "Debunks fitness-as-protection assumptions using stress echo data showing inducible ischemia in metabolically healthy, physically active adults with genetic risk.",
+    "primaryKeyword": "stairs fitness and subclinical ischemia",
+    "topicCluster": "fitness-risk-misconception",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:44.758Z"
+  },
+  {
+    "title": "Best Breathing Techniques for Reducing Left Atrial Pressure *Without* Valsalva — Evidence-Based Paced Respiration Protocols for Adults 73+ With Paroxysmal AFib and Mild Pulmonary Hypertension",
+    "description": "Teaches non-invasive, hemodynamically safe breathing patterns that lower LA pressure via reduced intrathoracic pressure swings — validated by invasive wedge pressure monitoring.",
+    "primaryKeyword": "breathing techniques for left atrial pressure",
+    "topicCluster": "non-pharmacologic-hemodynamic-modulation",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:46.870Z"
+  },
+  {
+    "title": "How Long-Term Use of Proton Pump Inhibitors Alters Gut Microbiome-Derived TMAO Production and Coronary Plaque Burden in Adults 65+ With Stable Angina",
+    "description": "Reviews clinical and mechanistic evidence on PPI-induced dysbiosis, TMAO elevation, and associations with plaque progression on serial CCTA in older angina patients.",
+    "primaryKeyword": "pills and tmao coronary plaque",
+    "topicCluster": "pharmacotherapy-microbiome-link",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:53.381Z"
+  },
+  {
+    "title": "Does Daily Tart Cherry Juice *Really* Reduce Endothelial Microparticle Release in Adults 70+ With Stage 1 Hypertension and Mild Hyperuricemia?",
+    "description": "Evaluates clinical trial data on anthocyanin-rich tart cherry interventions — focusing on endothelial-derived microparticles (CD31+/CD42b−), uric acid interaction, and dosing precision.",
+    "primaryKeyword": "tart cherry juice endothelial microparticles",
+    "topicCluster": "phytonutrient-intervention-evidence",
+    "coreKeyword": "heart disease",
+    "createdAt": "2026-02-15T04:30:57.628Z"
+  }
+]
