@@ -1,14 +1,34 @@
 ---
-title: "What Are the Hidden Risks of 'Non-Stick' Ceramic Cookware Coated With Titanium Dioxide Nanoparticles — And How That Alters Glucose Uptake in Skeletal Muscle in Adults 59–67 With Insulin Resistance?"
-slug: "what-are-the-hidden-risks-of-non-stick-ceramic-cookware-coated-with-titanium-dioxide-nanoparticles-and-how-that-alters-glucose-uptake-in-skeletal-muscle-in-adults-59-67-with-insulin-resistance"
-description: "Examines nanoparticle translocation during high-heat cooking, mitochondrial uncoupling in myocytes, and safer cookware validation standards for metabolic health."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["titanium dioxide cookware glucose uptake", "diabetes", "nanomaterials-metabolic-function"]
-primaryKeyword: "titanium dioxide cookware glucose uptake"
-topicCluster: "nanomaterials-metabolic-function"
-image: ""
-relatedSlugs: ["how-indoor-fireplace-smoke-alters-endothelial-nitric-oxide-synthase-activity-and-worsens-post-meal-glucose-uptake-in-adults-71-with-type-2-diabetes-and-copd"]
+title: >-
+  What Are the Hidden Risks of 'Non-Stick' Ceramic Cookware Coated With Titanium
+  Dioxide Nanoparticles — And How That Alters Glucose Uptake in Skeletal Muscle
+  in Adults 59–67 With Insulin Resistance?
+slug: >-
+  what-are-the-hidden-risks-of-non-stick-ceramic-cookware-coated-with-titanium-dioxide-nanoparticles-and-how-that-alters-glucose-uptake-in-skeletal-muscle-in-adults-59-67-with-insulin-resistance
+description: >-
+  Examines nanoparticle translocation during high-heat cooking, mitochondrial
+  uncoupling in myocytes, and safer cookware validation standards for metabolic
+  health.
+date: '2026-02-09'
+updated: '2026-02-09'
+tags:
+  - titanium dioxide cookware glucose uptake
+  - diabetes
+  - nanomaterials-metabolic-function
+primaryKeyword: titanium dioxide cookware glucose uptake
+topicCluster: nanomaterials-metabolic-function
+image: ''
+relatedSlugs:
+  - >-
+    how-indoor-fireplace-smoke-alters-endothelial-nitric-oxide-synthase-activity-and-worsens-post-meal-glucose-uptake-in-adults-71-with-type-2-diabetes-and-copd
+  - >-
+    12-foods-that-support-mitochondrial-biogenesis-in-skeletal-muscle-without-increasing-oxidative-stress-for-adults-63-with-t2d-and-low-vo2-max
+  - >-
+    best-low-heat-cooking-methods-for-preserving-polyphenol-bioavailability-in-berries-and-onions-for-adults-64-with-type-2-diabetes-and-mild-cerebral-hypoperfusion
+  - >-
+    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
+  - >-
+    7-silent-signs-your-holiday-turkey-was-cooked-in-an-aluminum-pan-and-why-that-matters-for-adults-67-with-early-stage-alzheimer-s-disease
 ---
 
 # What You Should Know About Titanium Dioxide Cookware Glucose Uptake — Especially With Insulin Resistance After Age 59
