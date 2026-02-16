@@ -1,58 +1,10 @@
 [
   {
-    "title": "Why Does Heart Rate Variability Decline After 65 — And What Simple Breathing Protocols Can Restore It Without Medication?",
-    "description": "Explores age-related autonomic nervous system changes affecting HRV, backed by recent geriatric physiology studies, and details evidence-based paced breathing routines validated in adults 65+ with preserved ejection fraction.",
-    "primaryKeyword": "heart rate variability after 65",
-    "topicCluster": "autonomic-function-breathing",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-02-15T04:31:43.751Z"
-  },
-  {
     "title": "7 Hidden Stressors That Elevate Nighttime Systolic Pressure in Women Over 68 — Even With Normal Daytime Readings",
     "description": "Identifies under-recognized contributors like nocturnal light exposure, evening caffeine metabolites, and supine GERD reflex that disrupt circadian BP dipping in postmenopausal women, with actionable mitigation strategies.",
     "primaryKeyword": "nighttime systolic pressure women over 68",
     "topicCluster": "circadian-blood-pressure-stressors",
     "coreKeyword": "heart health",
     "createdAt": "2026-02-15T04:31:45.896Z"
-  },
-  {
-    "title": "Can You Safely Take Magnesium Threonate While on a Beta-Blocker? — Safety Thresholds, QT Interval Monitoring, and Cognitive Benefits in Adults 71+ With Mild Heart Failure",
-    "description": "Analyzes drug–nutrient interactions, electrocardiographic safety data, and cognitive outcomes from pilot trials in older adults using beta-blockers and magnesium threonate for dual cardiovascular and neuroprotective support.",
-    "primaryKeyword": "magnesium threonate beta blocker safety",
-    "topicCluster": "supplement-medication-interactions",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-02-15T04:31:47.995Z"
-  },
-  {
-    "title": "What Are the Earliest ECG Signs of Left Atrial Myopathy — Before AFib or Elevated NT-proBNP in Adults 59+ With Long-Standing Hypertension and Normal Echo?",
-    "description": "Focuses on subtle P-wave abnormalities (e.g., fragmented P-wave, prolonged P-wave dispersion, terminal force in V1) as precursors to atrial remodeling, validated in longitudinal cohorts with high-resolution ECG mapping.",
-    "primaryKeyword": "earliest ECG signs left atrial myopathy",
-    "topicCluster": "electrophysiology-early-detection",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-02-15T04:31:54.320Z"
-  },
-  {
-    "title": "A vs B: Daily 10-Minute Resistance Band Routine vs. Nordic Walking for Improving Stroke Volume Index in Adults 73+ With Preserved Ejection Fraction",
-    "description": "Compares hemodynamic outcomes (via portable impedance cardiography), adherence rates, and fall-risk impact across two low-barrier modalities specifically adapted for frailty-limited older adults.",
-    "primaryKeyword": "resistance band vs nordic walking stroke volume",
-    "topicCluster": "exercise-modality-comparison",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-02-15T04:31:56.418Z"
-  },
-  {
-    "title": "5 Foods That Support Cardiac Fibroblast Quiescence *Without* Suppressing Collagen Turnover — For Adults 70+ With Early Diastolic Dysfunction and Normal Troponin",
-    "description": "Highlights nutrient compounds (e.g., luteolin, epigallocatechin-3-gallate, taurine) that modulate TGF-β1 signaling and LOXL2 activity to prevent maladaptive fibrosis while preserving structural integrity.",
-    "primaryKeyword": "foods for cardiac fibroblast quiescence",
-    "topicCluster": "cardiac-fibrosis-nutrition",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-02-15T04:32:00.586Z"
-  },
-  {
-    "title": "When to Worry About Intermittent Palpitations During Morning Yoga — Distinguishing Benign PVC Clusters From Early RVOT VT in Adults 61+ With Mild Pulmonary Hypertension",
-    "description": "Provides a stepwise clinical decision tree using symptom timing, vagal response patterns, and portable 14-lead ECG capture to differentiate benign ectopy from arrhythmogenic right ventricular outflow tract tachycardia.",
-    "primaryKeyword": "palpitations during yoga RVOT VT",
-    "topicCluster": "arrhythmia-differential-diagnosis",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-02-15T04:32:02.771Z"
   }
 ]
