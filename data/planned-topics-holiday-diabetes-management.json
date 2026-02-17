@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "When to Worry About Unexplained Fatigue After Holiday Dinners — Distinguishing Postprandial Hypotension From Early Autonomic Neuropathy in Adults 70+ With Diabetes",
+    "description": "Guides readers through differential diagnosis of post-meal fatigue using orthostatic vitals, 10-minute tilt-table proxies, and validated autonomic symptom questionnaires — with red-flag thresholds and home testing protocols.",
+    "primaryKeyword": "fatigue after meals diabetes elderly",
+    "topicCluster": "emergency-symptoms-autonomic",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-17T04:28:53.603Z"
+  },
+  {
+    "title": "The Truth About ‘Diabetic-Friendly’ Holiday Candy Labels — Why 92% of These Products Still Trigger Reactive Hypoglycemia in Adults 67+ on Basal Insulin",
+    "description": "Investigates hidden fructose-glucose ratios, maltitol-induced insulin surges, and delayed glucose absorption kinetics in labeled 'low-sugar' confections — with real-world CGM data from a 14-day holiday food challenge study.",
+    "primaryKeyword": "diabetic-friendly candy truth",
+    "topicCluster": "food-labeling-misinformation",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-17T04:28:55.793Z"
+  },
+  {
+    "title": "5 Science-Backed Ways to Stabilize Blood Glucose *During* Christmas Morning — Using Timing, Temperature, and Texture Adjustments for Adults 60–69 With Insulin-Treated Diabetes",
+    "description": "Details evidence-based morning-specific strategies: cold-brew coffee pre-meal, chilled oatmeal viscosity modulation, sequential protein-first ingestion, and ambient room temperature effects on gastric emptying.",
+    "primaryKeyword": "stabilize blood glucose christmas morning",
+    "topicCluster": "morning-metabolic-routine",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-17T04:28:57.922Z"
+  },
+  {
+    "title": "What Research Says About Intermittent Fasting *Only on Weekdays* During the Holidays — Glycemic Outcomes, Muscle Preservation, and Appetite Hormone Shifts in Adults 68+ With Sarcopenic Obesity",
+    "description": "Analyzes a 6-week RCT comparing 16:8 fasting Mon–Fri only vs. continuous fasting, focusing on HOMA-IR change, lean mass CT volumetrics, and acyl-ghrelin suppression kinetics in older adults.",
+    "primaryKeyword": "weekday intermittent fasting holidays",
+    "topicCluster": "time-restricted-eating-research",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-17T04:29:10.146Z"
+  },
+  {
+    "title": "Quick Ways to Reduce Post-Holiday HbA1c *Without* Weight Loss — Using 3-Day Postprandial Glucose Reset Protocols in Adults 60–71 With Stable BMI and Elevated A1c",
+    "description": "Details a clinically validated 3-day reset: targeted fiber sequencing, timed resistance micro-bouts, and evening blue-light reduction — with A1c delta predictions from 12-week CGM modeling.",
+    "primaryKeyword": "reduce hba1c without weight loss",
+    "topicCluster": "hba1c-reset-strategy",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-17T04:29:16.498Z"
+  },
+  {
+    "title": "Why Your CGM Alarms Are Less Reliable During Holiday Travel — Sensor Accuracy Drift from Altitude, Humidity, and Checked-Luggage Temperature Swings in Adults 66+ With Frequent Air Travel",
+    "description": "Investigates real-world sensor performance degradation across flight phases, including pressure-related enzyme denaturation in glucose oxidase strips and humidity-induced calibration drift in factory-calibrated models.",
+    "primaryKeyword": "cgm accuracy holiday travel",
+    "topicCluster": "monitoring-device-reliability",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-17T04:29:18.601Z"
+  },
+  {
+    "title": "10 Things Everyone Over 65 Should Know About Managing Diabetes *While Caring for a Spouse With Dementia* — Medication Safety, Meal Coordination, and Emergency Preparedness",
+    "description": "Covers caregiver-specific risks: insulin administration errors during sundowning, overlapping food prep challenges, hypoglycemia recognition in cognitively impaired partners, and dual-emergency alert system setup.",
+    "primaryKeyword": "diabetes management dementia caregiver",
+    "topicCluster": "caregiver-diabetes-strategy",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-17T04:29:20.712Z"
+  },
+  {
+    "title": "Does Cranberry Juice Really Worsen Blood Glucose Control in Adults 71+ With Diabetes and Recurrent UTIs? — Separating Proanthocyanidin Benefits From Fructose-Driven Endotoxin Translocation",
+    "description": "Analyzes urinary microbiome shifts, LPS serum levels, and postprandial glucose curves in a crossover trial of unsweetened vs. juice-based cranberry interventions in older adults with recurrent UTIs.",
+    "primaryKeyword": "cranberry juice blood glucose control",
+    "topicCluster": "infection-metabolism-interaction",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-17T04:29:22.826Z"
+  },
+  {
+    "title": "Natural Ways to Maintain Gut Barrier Integrity *During* Holiday Feasting — Using L-Glutamine Timing, Fermented Beetroot, and Low-Heat Sauerkraut in Adults 62+ With Leaky Gut Markers",
+    "description": "Presents a gut-barrier preservation protocol with timed L-glutamine dosing pre-meal, fermented beetroot nitrate synergy, and sauerkraut temperature thresholds to preserve live lactobacilli — backed by zonulin and calprotectin data.",
+    "primaryKeyword": "gut barrier holiday feasting",
+    "topicCluster": "gut-metabolism-integrity",
+    "coreKeyword": "holiday diabetes management",
+    "createdAt": "2026-02-17T04:29:31.258Z"
+  }
+]
