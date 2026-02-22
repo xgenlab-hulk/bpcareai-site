@@ -1,14 +1,30 @@
 ---
-title: "How Intermittent Fasting During Hanukkah or Christmas Week Affects Circulating IGF-1 Levels in Adults 55–69 With Early-Stage Breast Cancer"
-slug: "how-intermittent-fasting-during-hanukkah-or-christmas-week-affects-circulating-igf-1-levels-in-adults-55-69-with-early-stage-breast-cancer"
-description: "Reviews emerging oncology-nutrition data on how shortened feeding windows during multi-day religious celebrations influence growth factor signaling in hormone-receptor-positive survivors on aromatase inhibitors."
-date: "2025-12-31"
-updated: "2025-12-31"
-tags: ["intermittent fasting holiday igf-1 breast cancer", "healthy holiday eating for seniors", "oncology-nutrition-fasting"]
-primaryKeyword: "intermittent fasting holiday igf-1 breast cancer"
-topicCluster: "oncology-nutrition-fasting"
-image: ""
-relatedSlugs: ["can-intermittent-fasting-help-reset-blood-sugar-after-christmas", "what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time", "can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes"]
+title: >-
+  How Intermittent Fasting During Hanukkah or Christmas Week Affects Circulating
+  IGF-1 Levels in Adults 55–69 With Early-Stage Breast Cancer
+slug: >-
+  how-intermittent-fasting-during-hanukkah-or-christmas-week-affects-circulating-igf-1-levels-in-adults-55-69-with-early-stage-breast-cancer
+description: >-
+  Reviews emerging oncology-nutrition data on how shortened feeding windows
+  during multi-day religious celebrations influence growth factor signaling in
+  hormone-receptor-positive survivors on aromatase inhibitors.
+date: '2025-12-31'
+updated: '2025-12-31'
+tags:
+  - intermittent fasting holiday igf-1 breast cancer
+  - healthy holiday eating for seniors
+  - oncology-nutrition-fasting
+primaryKeyword: intermittent fasting holiday igf-1 breast cancer
+topicCluster: oncology-nutrition-fasting
+image: ''
+relatedSlugs:
+  - can-intermittent-fasting-help-reset-blood-sugar-after-christmas
+  - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
+  - can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - >-
+    what-research-says-about-intermittent-fasting-only-on-weekdays-during-the-holidays-glycemic-outcomes-muscle-preservation-and-appetite-hormone-shifts-in-adults-68-with-sarcopenic-obesity
 ---
 
 # How Intermittent Fasting During Holiday Weeks Affects IGF-1 in Older Adults With Early-Stage Breast Cancer  
