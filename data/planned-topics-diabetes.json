@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "title": "7 Hidden Medication Interactions That Sabotage Glycemic Control in Women Over 65 Taking Aromatase Inhibitors — Tamoxifen, Letrozole, and Insulin Resistance Pathways",
+    "description": "Details clinically underrecognized pharmacodynamic clashes between breast cancer adjuvant therapies and diabetes medications, with actionable timing and monitoring guidance for oncology-aware endocrinology care.",
+    "primaryKeyword": "aromatase-inhibitors diabetes interaction seniors",
+    "topicCluster": "medication-interactions-women",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-23T04:33:44.547Z"
+  },
+  {
+    "title": "Natural Ways to Restore Circadian Rhythm–Driven Insulin Secretion *Without* Melatonin — Using Blue-Light-Filtered Evening Lenses + Fixed-Dose Zinc-Carnosine Timing in Adults 64+ With Evening Hyperglycemia",
+    "description": "Presents a non-hormonal, time-of-day–targeted protocol to resynchronize beta-cell clock genes (e.g., BMAL1, CLOCK) and improve first-phase insulin release—validated in a 2023 RCT of older adults with delayed glucose peak.",
+    "primaryKeyword": "restore insulin rhythm without melatonin",
+    "topicCluster": "circadian-beta-cell-function",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-23T04:33:52.904Z"
+  },
+  {
+    "title": "A vs B: 12-Week Time-Restricted Eating Starting at 6 a.m. vs. 10 a.m. — Impact on Fasting Triglycerides, Hepatic Fat Fraction, and Postprandial GLP-1 in Adults 55–62 With NAFLD and Prediabetes",
+    "description": "Compares two early-morning TRF windows using MRI-PDFF, oral fat tolerance tests, and multiplex gut hormone assays—revealing how earlier feeding preserves diurnal GLP-1 amplitude better than late-morning onset.",
+    "primaryKeyword": "trf window timing nafld prediabetes",
+    "topicCluster": "trf-timing-metabolic-outcomes",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-23T04:33:55.005Z"
+  },
+  {
+    "title": "Quick Ways to Normalize Post-Meal Urinary Albumin-to-Creatinine Ratio *Within 72 Hours* — Using Targeted Evening Magnesium Glycinate + Cold-Water Hand Immersion in Adults 67+ With Microalbuminuria",
+    "description": "Outlines a rapid, non-pharmacologic intervention protocol that acutely reduces glomerular endothelial shear stress and podocyte cytoskeletal tension—supported by pilot data showing 31% median ACR reduction in 3 days.",
+    "primaryKeyword": "lower albuminuria quickly seniors",
+    "topicCluster": "rapid-kidney-protection",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-23T04:33:57.119Z"
+  },
+  {
+    "title": "What Research Says About Weekly High-Intensity Interval Training (HIIT) *Only on Tuesdays* — Mitochondrial Biogenesis, Glycemic Variability, and Skeletal Muscle Capillarization in Adults 71+ With Sarcopenia and Type 2 Diabetes",
+    "description": "Analyzes findings from the 2024 SPRINT-HIIT trial: how single-day weekly HIIT, even at low volume (2 x 4 min @ 85% HRmax), induces PGC-1α–driven angiogenesis and reduces CGM SD by 22% over 12 weeks.",
+    "primaryKeyword": "weekly-hiit once sarcopenia diabetes",
+    "topicCluster": "exercise-frequency-mitochondria",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-23T04:33:59.239Z"
+  },
+  {
+    "title": "5 Things Everyone Over 75 Should Know About Continuous Glucose Monitoring *Without* a Smartphone — Including Manual Data Extraction, Analog Alert Alternatives, and Battery-Life Extension Hacks",
+    "description": "Practical, low-tech CGM guidance for older adults with vision or dexterity limitations—including how to use legacy Bluetooth readers, tactile alarm systems, and analog logbooks synced to clinic visits.",
+    "primaryKeyword": "cgms for seniors without smartphones",
+    "topicCluster": "low-tech-cgm-accessibility",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-23T04:34:01.326Z"
+  },
+  {
+    "title": "12 Medication Adjustments You Should Discuss With Your Pharmacist *Before* Starting a Community Garden — Especially If You’re 60+ With Diabetes, Peripheral Neuropathy, and Topical NSAID Use",
+    "description": "Covers plant-specific herb–drug interactions (e.g., rosemary + warfarin), sun-sensitizing effects of sulfonylureas + garden chemicals, and foot-safety modifications for neuropathic gardeners.",
+    "primaryKeyword": "gardening diabetes medication safety",
+    "topicCluster": "horticultural-therapy-safety",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-23T04:34:07.582Z"
+  },
+  {
+    "title": "Does Daily Fermented Kefir *Really* Reduce Intestinal Permeability–Driven Endotoxemia in Adults 70+ With Type 2 Diabetes and Recurrent UTIs? — Separating Strain-Specific Lactobacillus Effects From Fructose Content",
+    "description": "Evidence review of kefir’s dual role: how L. kefiranofaciens lowers LPS translocation but high-fructose commercial kefirs worsen postprandial endotoxin release—plus guidance on low-fructose, home-fermented alternatives.",
+    "primaryKeyword": "kefir endotoxemia diabetes seniors",
+    "topicCluster": "fermented-dairy-endotoxin-effects",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-23T04:34:09.674Z"
+  },
+  {
+    "title": "10 Foods That Modulate Hepatic FXR Signaling *Without* Activating SREBP-1c — For Adults 61+ With Type 2 Diabetes and Rising ALT Despite Stable Weight",
+    "description": "Highlights foods rich in FXR-selective agonists (e.g., guggulsterone in myrrh, taurine-conjugated bile acids in grass-fed liver) that improve bile acid recycling while avoiding lipogenic gene upregulation.",
+    "primaryKeyword": "fxr-activating foods without fat gain",
+    "topicCluster": "hepatic-fxr-nutrition",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-23T04:34:20.208Z"
+  },
+  {
+    "title": "How Chronic Low-Dose Lithium (0.3 mg/day) Affects Beta-Cell Autophagy and Mitochondrial Turnover in Adults 59–67 With Long-Standing Type 2 Diabetes — A 2024 Pilot Study Update",
+    "description": "Reviews emerging data on ultra-low-dose lithium’s role in enhancing beta-cell mitophagy and reducing amyloid deposition—without mood effects or renal toxicity—highlighting optimal dosing and monitoring parameters.",
+    "primaryKeyword": "low-dose lithium beta-cell function",
+    "topicCluster": "micronutrient-beta-cell-regulation",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-23T04:34:22.266Z"
+  }
+]
