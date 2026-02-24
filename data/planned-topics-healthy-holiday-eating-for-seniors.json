@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "The Truth About 'Senior-Friendly' Holiday Meal Kits — Why 92% Fail to Meet ADA-Recommended Sodium & Fiber Targets for Hypertensive Adults 75+",
+    "description": "Investigates marketing claims vs. actual nutrient profiling in subscription meal kits, with lab-tested sodium, fiber, and potassium data for cardiac-safe holiday eating.",
+    "primaryKeyword": "senior-friendly meal kits sodium fiber analysis",
+    "topicCluster": "commercial-product-evaluation",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-24T04:25:44.226Z"
+  },
+  {
+    "title": "A vs B: Traditional Roast Turkey With Gravy vs. Herb-Roasted Turkey Breast With Mushroom Reduction — Impact on Postprandial Systolic Pressure in Adults 62+ With Isolated Systolic Hypertension",
+    "description": "Compares real-world blood pressure responses to two common holiday protein preparations, factoring in sodium load, AGE content, and nitric oxide bioavailability.",
+    "primaryKeyword": "turkey preparation postprandial systolic pressure",
+    "topicCluster": "culinary-cardiovascular-comparison",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-24T04:25:48.428Z"
+  },
+  {
+    "title": "5 Things Every Senior Living Alone Should Know Before Attending Their First Post-Pandemic Holiday Party — From Portion Control to Social Glucose Triggers",
+    "description": "Covers practical, safety-first strategies for isolated seniors returning to group meals: food navigation, hypoglycemia preparedness, hydration timing, and exit-plan empowerment.",
+    "primaryKeyword": "seniors living alone holiday party preparedness",
+    "topicCluster": "social-isolation-nutrition",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-24T04:25:50.491Z"
+  },
+  {
+    "title": "What Are the Earliest Signs Your Holiday Weight Gain Is Actually Fluid Retention — Not Fat — in Women Over 65 With Atrial Fibrillation?",
+    "description": "Helps differentiate cardiorenal fluid shifts from adipose accumulation using pulse pressure trends, ankle pitting patterns, and nocturnal orthopnea cues.",
+    "primaryKeyword": "holiday weight gain fluid retention afib seniors",
+    "topicCluster": "cardiorenal-fluid-assessment",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-24T04:25:58.249Z"
+  },
+  {
+    "title": "12 Holiday-Safe Herbs and Spices That Boost Endothelial NO Production *Without* Interfering With Warfarin — For Adults 74+ on Anticoagulation Therapy",
+    "description": "Curates a vetted list of vasodilatory seasonings with INR-safe phytochemical profiles, plus usage thresholds and preparation methods to maximize nitric oxide bioavailability.",
+    "primaryKeyword": "holiday herbs endothelial no warfarin safe",
+    "topicCluster": "anticoagulation-nutrition",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-24T04:26:02.413Z"
+  },
+  {
+    "title": "What Research Says About 'Plate Mapping' for Seniors With Macular Degeneration — Using Color Contrast, Texture Cues, and Portion-Size Landmarks to Prevent Overeating",
+    "description": "Details vision-adapted plate composition techniques validated in low-vision dining studies, with printable templates and lighting recommendations for holiday tables.",
+    "primaryKeyword": "plate mapping macular degeneration seniors",
+    "topicCluster": "vision-adapted-nutrition",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-24T04:26:12.180Z"
+  },
+  {
+    "title": "Simple Steps to Modify Grandma’s Pie Recipe for Diabetic Retinopathy Risk Reduction — Without Sacrificing Flavor or Texture",
+    "description": "Walks through evidence-based substitutions (anthocyanin-rich berries, resistant starch flour blends, low-AGE baking temps) validated in ophthalmic nutrition trials.",
+    "primaryKeyword": "grandma pie recipe diabetic retinopathy",
+    "topicCluster": "culinary-adaptation-eye-health",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-24T04:26:18.534Z"
+  },
+  {
+    "title": "9 Hidden Sources of Holiday-Related Magnesium Depletion in Adults 65+ With Chronic Migraines — And How to Replenish Without Diarrhea",
+    "description": "Identifies festive magnesium sinks (alcohol, high-sugar desserts, stress, diuretic herbs) and introduces timed, low-osmolar replenishment protocols using glycinate and malate forms.",
+    "primaryKeyword": "holiday magnesium depletion migraine seniors",
+    "topicCluster": "micronutrient-depletion-mitigation",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-24T04:26:20.629Z"
+  },
+  {
+    "title": "When Should You Skip the Holiday Buffet Entirely? — 4 Clinical Red Flags That Signal High-Risk Eating for Adults 76+ With Stage 4 CKD",
+    "description": "Defines objective thresholds (eGFR <25, serum phosphorus >5.0, potassium >4.8, albumin <3.2) and provides actionable alternatives for safe social participation.",
+    "primaryKeyword": "skip holiday buffet stage 4 ckd seniors",
+    "topicCluster": "renal-dietary-contraindications",
+    "coreKeyword": "healthy holiday eating for seniors",
+    "createdAt": "2026-02-24T04:26:22.736Z"
+  }
+]

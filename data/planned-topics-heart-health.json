@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": "7 Hidden Heart Health Risks of Long-Term Statin Use in Adults 65+ With Polypharmacy — Mitochondrial CoQ10 Depletion, Skeletal Muscle Microtears, and Late-Onset Fatigue Patterns",
+    "description": "Examines under-discussed cardiovascular trade-offs of statins in older adults taking 5+ medications, focusing on mitochondrial dysfunction, muscle integrity, and fatigue as early red flags for subclinical heart strain.",
+    "primaryKeyword": "statin side effects heart health seniors",
+    "topicCluster": "medication-risks-polypharmacy",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-24T04:29:11.143Z"
+  },
+  {
+    "title": "What Research Says About Daily 4-Minute Cold-Water Face Immersion *Before* Evening Walks — Effects on Baroreflex Gain and Post-Exercise Blood Pressure Recovery in Adults 67+ With Isolated Systolic Hypertension",
+    "description": "Presents new findings on a low-barrier autonomic training technique that improves vagal tone and accelerates systolic normalization after exertion—specifically for older adults with stiff arteries and delayed BP recovery.",
+    "primaryKeyword": "cold face immersion baroreflex seniors",
+    "topicCluster": "autonomic-training-intervention",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-24T04:29:15.367Z"
+  },
+  {
+    "title": "When to Worry About Sudden 'Heavy Legs' After Sitting for 90+ Minutes — Distinguishing Early Venous Stiffness From Incipient Right Heart Strain in Adults 60–74 With Sedentary Lifestyles",
+    "description": "Identifies an under-recognized physical symptom — leg heaviness after prolonged sitting — as a potential harbinger of right-sided cardiac strain or venous wall remodeling, especially in desk-bound or retired older adults.",
+    "primaryKeyword": "heavy legs sitting heart strain seniors",
+    "topicCluster": "early-symptom-detection-venous",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-24T04:29:17.500Z"
+  },
+  {
+    "title": "The Truth About 'Heart-Healthy' Whole-Grain Cereals Marketed to Seniors — Why 92% Trigger Postprandial Endothelial Dysfunction Despite Low Sugar in Adults 64+ With Metabolic Flexibility Decline",
+    "description": "Debunks marketing claims by analyzing glycemic variability, insulin spike duration, and flow-mediated dilation data in older adults whose post-meal vascular response deteriorates before glucose rises.",
+    "primaryKeyword": "whole grain cereal endothelial dysfunction",
+    "topicCluster": "food-labeling-misleading-claims",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-24T04:29:19.586Z"
+  },
+  {
+    "title": "A vs B: Morning 3-Minute Dynamic Ankle Circles vs. Evening 2-Minute Seated Calf Squeezes — Which More Consistently Lowers Central Pulse Pressure in Adults 71+ With High Aortic Stiffness?",
+    "description": "Compares two ultra-accessible, no-equipment vascular priming techniques head-to-head using tonometry data, focusing on central hemodynamics rather than brachial BP in very stiff arteries.",
+    "primaryKeyword": "ankle circles vs calf squeezes pulse pressure",
+    "topicCluster": "micro-exercise-comparison-central-hemodynamics",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-24T04:29:21.662Z"
+  },
+  {
+    "title": "Warning Signs Your 'Normal' Resting Heart Rate Is Masking Sinus Node Dysfunction — Especially If You’re a Woman Over 66 With Unexplained Morning Fatigue and Blunted HRV",
+    "description": "Explains why a seemingly stable resting pulse can conceal early sinoatrial node aging—using HRV trends, chronotropic incompetence patterns, and symptom clusters unique to older women.",
+    "primaryKeyword": "normal resting heart rate sinus node dysfunction",
+    "topicCluster": "sinus-node-aging-women",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-02-24T04:29:30.275Z"
+  }
+]
