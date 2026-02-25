@@ -1,21 +1,5 @@
 [
   {
-    "title": "7 Hidden Medication Interactions That Sabotage Glycemic Control in Women Over 65 Taking Aromatase Inhibitors — Tamoxifen, Letrozole, and Insulin Resistance Pathways",
-    "description": "Details clinically underrecognized pharmacodynamic clashes between breast cancer adjuvant therapies and diabetes medications, with actionable timing and monitoring guidance for oncology-aware endocrinology care.",
-    "primaryKeyword": "aromatase-inhibitors diabetes interaction seniors",
-    "topicCluster": "medication-interactions-women",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-23T04:33:44.547Z"
-  },
-  {
-    "title": "What Research Says About Weekly High-Intensity Interval Training (HIIT) *Only on Tuesdays* — Mitochondrial Biogenesis, Glycemic Variability, and Skeletal Muscle Capillarization in Adults 71+ With Sarcopenia and Type 2 Diabetes",
-    "description": "Analyzes findings from the 2024 SPRINT-HIIT trial: how single-day weekly HIIT, even at low volume (2 x 4 min @ 85% HRmax), induces PGC-1α–driven angiogenesis and reduces CGM SD by 22% over 12 weeks.",
-    "primaryKeyword": "weekly-hiit once sarcopenia diabetes",
-    "topicCluster": "exercise-frequency-mitochondria",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-23T04:33:59.239Z"
-  },
-  {
     "title": "5 Things Everyone Over 75 Should Know About Continuous Glucose Monitoring *Without* a Smartphone — Including Manual Data Extraction, Analog Alert Alternatives, and Battery-Life Extension Hacks",
     "description": "Practical, low-tech CGM guidance for older adults with vision or dexterity limitations—including how to use legacy Bluetooth readers, tactile alarm systems, and analog logbooks synced to clinic visits.",
     "primaryKeyword": "cgms for seniors without smartphones",
@@ -30,13 +14,5 @@
     "topicCluster": "fermented-dairy-endotoxin-effects",
     "coreKeyword": "diabetes",
     "createdAt": "2026-02-23T04:34:09.674Z"
-  },
-  {
-    "title": "How Chronic Low-Dose Lithium (0.3 mg/day) Affects Beta-Cell Autophagy and Mitochondrial Turnover in Adults 59–67 With Long-Standing Type 2 Diabetes — A 2024 Pilot Study Update",
-    "description": "Reviews emerging data on ultra-low-dose lithium’s role in enhancing beta-cell mitophagy and reducing amyloid deposition—without mood effects or renal toxicity—highlighting optimal dosing and monitoring parameters.",
-    "primaryKeyword": "low-dose lithium beta-cell function",
-    "topicCluster": "micronutrient-beta-cell-regulation",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-02-23T04:34:22.266Z"
   }
 ]

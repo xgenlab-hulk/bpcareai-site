@@ -1,14 +1,31 @@
 ---
-title: "What Causes Sudden Onset of Palpitations After Starting a New Antidepressant in Adults 66+ With Long-Standing Hypothyroidism?"
-slug: "what-causes-sudden-onset-of-palpitations-after-starting-a-new-antidepressant-in-adults-66-with-long-standing-hypothyroidism"
-description: "Analyzes serotonin transporter inhibition, thyroid hormone conversion interference, and QT prolongation synergy — plus safer pharmacologic alternatives with cardiac safety data."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["antidepressant palpitations hypothyroidism seniors 66+", "heart disease", "polypharmacy-cardiac-risks"]
-primaryKeyword: "antidepressant palpitations hypothyroidism seniors 66+"
-topicCluster: "polypharmacy-cardiac-risks"
-image: ""
-relatedSlugs: ["7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens", "7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics", "when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism"]
+title: >-
+  What Causes Sudden Onset of Palpitations After Starting a New Antidepressant
+  in Adults 66+ With Long-Standing Hypothyroidism?
+slug: >-
+  what-causes-sudden-onset-of-palpitations-after-starting-a-new-antidepressant-in-adults-66-with-long-standing-hypothyroidism
+description: >-
+  Analyzes serotonin transporter inhibition, thyroid hormone conversion
+  interference, and QT prolongation synergy — plus safer pharmacologic
+  alternatives with cardiac safety data.
+date: '2026-02-01'
+updated: '2026-02-01'
+tags:
+  - antidepressant palpitations hypothyroidism seniors 66+
+  - heart disease
+  - polypharmacy-cardiac-risks
+primaryKeyword: antidepressant palpitations hypothyroidism seniors 66+
+topicCluster: polypharmacy-cardiac-risks
+image: ''
+relatedSlugs:
+  - >-
+    7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics
+  - >-
+    when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism
+  - >-
+    7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers
 ---
 
 # Why Antidepressant Palpitations Happen in Seniors 66+ With Hypothyroidism — And What’s Safer
