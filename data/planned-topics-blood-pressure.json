@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "Warning Signs Your 'Normal' Blood Pressure Reading Is Actually Masked Hypertension — Especially During Routine Dental Visits in Adults 62+",
+    "description": "Identifies contextual BP elevation triggers (e.g., supine position, local anesthetic vasoconstrictors, dental anxiety) that unmask hypertension missed by standard office readings.",
+    "primaryKeyword": "masked hypertension during dental procedures",
+    "topicCluster": "contextual-hypertension-detection",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-26T04:23:31.143Z"
+  },
+  {
+    "title": "9 Simple Steps to Adjust Your CPAP Humidifier Settings *Without* Raising Overnight Systolic Pressure — For Adults 67+ With OSA and Nocturnal Hypertension",
+    "description": "Provides evidence-based humidification protocols that prevent airway drying-induced sympathetic activation and avoid inadvertent BP elevation during PAP therapy.",
+    "primaryKeyword": "cpap humidifier settings and nocturnal bp",
+    "topicCluster": "sleep-device-physiology-optimization",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-26T04:23:42.325Z"
+  },
+  {
+    "title": "Does Daily 200 mg Quercetin Supplementation *Really* Improve Microvascular Reactivity in Adults 59–66 With Hypertensive Retinopathy? — A 12-Week RCT Analysis",
+    "description": "Presents original clinical trial data on flavonoid dosing, retinal arteriolar response, and central augmentation index changes in early end-organ damage.",
+    "primaryKeyword": "quercetin and hypertensive retinopathy microvascular",
+    "topicCluster": "flavonoid-microvascular-rct",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-26T04:23:44.573Z"
+  },
+  {
+    "title": "5 Things Every Woman Over 65 Taking Oral Estradiol Should Know About Its Effect on Renin–Angiotensin–Aldosterone System Activation and Systolic Drift",
+    "description": "Breaks down hormone-replacement–induced RAAS modulation, fluid retention patterns, and longitudinal BP trends in postmenopausal women on transdermal vs. oral estrogen.",
+    "primaryKeyword": "oral estradiol and systolic blood pressure drift",
+    "topicCluster": "hormone-therapy-raas-impact",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-26T04:23:46.815Z"
+  },
+  {
+    "title": "When to Worry About 'Normal-Looking' Blood Pressure Readings in Adults 78+ With Advanced CKD Stage 4 — Why Brachial Cuff Readings Systematically Underestimate Central Aortic Pressure",
+    "description": "Explains why standard sphygmomanometry fails in severe renal impairment due to arterial calcification, pulse wave reflection distortion, and cuff–artery mismatch.",
+    "primaryKeyword": "blood pressure underestimation in advanced ckid",
+    "topicCluster": "renal-vascular-measurement-limitation",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-26T04:23:49.043Z"
+  },
+  {
+    "title": "Natural Ways to Modulate the Gut–Kidney Axis *Without* Probiotic Strain Overload — Using Fermented Oat Bran + Low-Dose Betaine to Reduce Renal Sympathetic Drive in Adults 63+ With Mild Hypertension",
+    "description": "Details a targeted prebiotic–methyl donor combo that lowers renal norepinephrine spillover and improves sodium excretion efficiency in early-stage hypertension.",
+    "primaryKeyword": "gut-kidney axis modulation for bp control",
+    "topicCluster": "gut-kidney-sympathetic-modulation",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-26T04:23:51.270Z"
+  },
+  {
+    "title": "How Frequent Use of Over-the-Counter Nasal Decongestant Sprays *Without* Prescription Oversight Elevates 24-Hour Pulse Pressure in Adults 55–64 With Mild Asthma",
+    "description": "Links topical alpha-agonist rebound, endothelial oxidative stress, and large-artery stiffening — particularly in adults with coexisting airway hyperreactivity.",
+    "primaryKeyword": "nasal decongestants and pulse pressure in asthma",
+    "topicCluster": "respiratory-pharmacology-vascular-effect",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-26T04:23:55.777Z"
+  },
+  {
+    "title": "Best Seated Resistance Band Exercises *With Real-Time BP Feedback* for Adults 80+ With Orthostatic Intolerance and Severe Knee Osteoarthritis",
+    "description": "Presents a safety-validated, blood-pressure–monitored resistance protocol that improves peripheral resistance without orthostatic challenge or joint loading.",
+    "primaryKeyword": "seated resistance band exercises with bp feedback",
+    "topicCluster": "orthostatic-safe-resistance-training",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-26T04:24:00.211Z"
+  },
+  {
+    "title": "Why Your Blood Pressure Dips *Too Much* After Walking — Not Just 'Normal Recovery' — In Adults 74+ With Early Cardiac Amyloidosis",
+    "description": "Distinguishes pathological post-exercise hypotension due to impaired myocardial compliance and autonomic neuropathy from benign vasodilation in aging hearts.",
+    "primaryKeyword": "post-walk hypotension in cardiac amyloidosis",
+    "topicCluster": "amyloid-cardiac-autonomic-dysfunction",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-26T04:24:02.458Z"
+  }
+]

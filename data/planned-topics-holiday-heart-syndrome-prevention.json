@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": "How Alcohol Metabolism Changes After Age 55 — And Why That Raises Holiday Heart Syndrome Risk in Adults 55–69 With Mild Liver Steatosis",
+    "description": "Explores age-related declines in ALDH2 enzyme activity and acetaldehyde clearance, explaining why even moderate holiday drinking triggers arrhythmias in older adults with early fatty liver changes.",
+    "primaryKeyword": "alcohol metabolism age 55 holiday heart",
+    "topicCluster": "alcohol-metabolism-aging",
+    "coreKeyword": "holiday heart syndrome prevention",
+    "createdAt": "2026-02-26T04:27:04.375Z"
+  },
+  {
+    "title": "When to Worry About 'Just One More Glass' — Early QTc Prolongation Signs After Holiday Wine Consumption in Women 62+ on SSRIs",
+    "description": "Identifies subtle symptoms like morning lightheadedness, delayed sinus recovery after standing, and nocturnal PVC clustering as red flags for drug-alcohol QT prolongation in older women on antidepressants.",
+    "primaryKeyword": "holiday wine qt prolongation ssri women",
+    "topicCluster": "electrophysiology-alerts",
+    "coreKeyword": "holiday heart syndrome prevention",
+    "createdAt": "2026-02-26T04:27:08.836Z"
+  },
+  {
+    "title": "Why Your Holiday 'Heart Palpitations' Might Be Caused by Cold-Induced Coronary Vasoconstriction — Not Alcohol — In Adults 59+ With Raynaud’s Phenomenon",
+    "description": "Explains how outdoor festivities, unheated porches, or even cold beverages trigger coronary artery spasm in temperature-sensitive individuals—mimicking or compounding alcohol-related arrhythmias.",
+    "primaryKeyword": "cold-induced palpitations raynaud holiday heart",
+    "topicCluster": "temperature-physiology",
+    "coreKeyword": "holiday heart syndrome prevention",
+    "createdAt": "2026-02-26T04:27:18.006Z"
+  },
+  {
+    "title": "Natural Ways to Support Atrial Myocyte Calcium Handling *Without* Increasing SERCA2a Oxidation — Using Taurine + Vitamin B6 Timing in Adults 63+ With Early Diastolic Stiffness",
+    "description": "Presents a targeted, antioxidant-sparing nutritional protocol to improve calcium reuptake in aging atrial cells—reducing ectopy risk without promoting oxidative stress.",
+    "primaryKeyword": "taurine vitamin b6 atrial calcium handling",
+    "topicCluster": "myocyte-calcium-nutrition",
+    "coreKeyword": "holiday heart syndrome prevention",
+    "createdAt": "2026-02-26T04:27:20.376Z"
+  },
+  {
+    "title": "How Late-Night Holiday Movie Marathons Elevate Sympathetic Tone — And Why That Increases AFib Burden in Adults 65+ With Nocturnal Hypertension",
+    "description": "Links blue-light exposure, supine posture, and delayed melatonin onset to sustained norepinephrine elevation—and demonstrates how this creates a pro-arrhythmic milieu overnight.",
+    "primaryKeyword": "late-night movies sympathetic tone afib",
+    "topicCluster": "circadian-arrhythmia-link",
+    "coreKeyword": "holiday heart syndrome prevention",
+    "createdAt": "2026-02-26T04:27:22.618Z"
+  },
+  {
+    "title": "12 Foods That *Stabilize* Atrial Electrophysiology — Not Just 'Heart-Healthy' — Including Fermented Kimchi, Roasted Walnuts, and Low-Histamine Pear Compote for Adults 57–71",
+    "description": "Highlights specific foods with documented effects on atrial connexin-40 expression, potassium channel modulation, and mast-cell stabilization—curated for arrhythmia-prone aging atria.",
+    "primaryKeyword": "atrial-stabilizing foods holiday heart",
+    "topicCluster": "atrial-electrophysiology-foods",
+    "coreKeyword": "holiday heart syndrome prevention",
+    "createdAt": "2026-02-26T04:27:24.870Z"
+  }
+]
