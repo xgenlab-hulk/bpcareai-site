@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "title": "How to Eat Mindfully at Thanksgiving Dinner Without Triggering Postprandial Hypotension — A Step-by-Step Guide for Adults 72+ With Autonomic Neuropathy",
+    "description": "A practical, clinically grounded protocol for pacing food intake, strategic seating, and real-time BP-aware chewing techniques to prevent dangerous blood pressure drops after large holiday meals.",
+    "primaryKeyword": "mindful eating postprandial hypotension seniors",
+    "topicCluster": "neurovascular-diet-integration",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-28T04:04:21.243Z"
+  },
+  {
+    "title": "When to Skip the Family Dessert Table Entirely — 5 Clinical Indicators That Signal High-Risk Carbohydrate Load for Adults 69+ With Diabetic Gastroparesis",
+    "description": "Identifies subtle but critical signs — including pre-meal gastric rumbling, delayed satiety cues, and post-caffeine nausea — that predict severe delayed gastric emptying and glucose volatility after dessert.",
+    "primaryKeyword": "skip dessert diabetic gastroparesis seniors",
+    "topicCluster": "gastrovascular-risk-assessment",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-28T04:04:24.900Z"
+  },
+  {
+    "title": "The Truth About 'Heart-Healthy' Holiday Nuts: Why Roasted, Salted, and Oil-Coated Varieties Can Spike Central Aortic Systolic Pressure in Adults 75+ With Arterial Stiffness",
+    "description": "Breaks down how processing methods alter nitric oxide bioavailability and endothelial shear stress response — with lab-validated alternatives that support vascular compliance without sacrificing crunch or tradition.",
+    "primaryKeyword": "holiday nuts arterial stiffness seniors",
+    "topicCluster": "vascular-nutrient-bioavailability",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-28T04:04:27.097Z"
+  },
+  {
+    "title": "A vs B: Cranberry Sauce Made With Erythritol + Apple Cider Vinegar vs. Traditional Sucrose-Based Version — Impact on Postprandial Endothelial Function in Adults 61+ With Metabolic Syndrome",
+    "description": "Compares endothelial reactivity (via reactive hyperemia index) and IL-6 surge after each version, revealing how organic acid co-ingestion modulates polyphenol absorption and acute vascular inflammation.",
+    "primaryKeyword": "cranberry sauce endothelial function metabolic syndrome",
+    "topicCluster": "polyphenol-bioactivation-comparison",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-28T04:04:29.303Z"
+  },
+  {
+    "title": "Natural Ways to Support Postprandial Glucagon-Like Peptide-1 (GLP-1) Secretion *Without* GLP-1 Agonists — Using Cold-Pressed Flaxseed + Fermented Pear Puree Timing in Adults 55–63 With Early Insulin Resistance",
+    "description": "Details a clinically observed synergistic effect: cold-pressed flax mucilage delaying gastric emptying + fermented pear polyphenols stimulating L-cell receptor activation — measured via 4-hour GLP-1 AUC in pilot data.",
+    "primaryKeyword": "natural glp-1 stimulation insulin resistance",
+    "topicCluster": "gut-hormone-nutrient-timing",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-28T04:04:33.649Z"
+  },
+  {
+    "title": "What Research Says About Chewing Speed and Its Effect on Gastric Emptying Rate During Multi-Course Holiday Meals — New Data From the GASTRO-Feast Trial in Adults 67+",
+    "description": "Presents findings from a 2024 randomized crossover trial showing that chewing <12 times per bite increases gastric emptying velocity by 37% — and how this amplifies glucose and triglyceride excursions in older adults.",
+    "primaryKeyword": "chewing speed gastric emptying seniors",
+    "topicCluster": "oropharyngeal-metabolic-signaling",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-28T04:04:35.805Z"
+  },
+  {
+    "title": "How Sitting Position During Dinner Affects Splanchnic Blood Flow — And Why Leaning Back Increases Postprandial Hypotension Risk in Adults 79+ With Aortic Stiffness",
+    "description": "Uses Doppler ultrasound evidence to show how 15° recline reduces mesenteric perfusion pressure by 22% — and demonstrates a seated-forward posture that preserves splanchnic autoregulation without discomfort.",
+    "primaryKeyword": "sitting position splanchnic blood flow seniors",
+    "topicCluster": "postural-hemodynamic-modulation",
+    "coreKeyword": "healthy eating during family gatherings",
+    "createdAt": "2026-02-28T04:04:40.258Z"
+  }
+]

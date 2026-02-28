@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "title": "Why Does Blood Pressure Spike During Morning Commutes — Not Just 'Stress' — In Adults 58–67 With Subclinical Carotid Plaque?",
+    "description": "Explores the mechanistic link between urban traffic exposure, endothelial shear stress, and transient systolic surges in early-atherosclerotic adults, with real-time ambulatory BP data correlations.",
+    "primaryKeyword": "morning blood pressure spike traffic exposure",
+    "topicCluster": "environmental-triggers",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:00:47.933Z"
+  },
+  {
+    "title": "7 Hidden Medication Interactions That Raise Blood Pressure *After* Age 60 — Including Common Antidepressants, Antihistamines, and Topical NSAIDs",
+    "description": "Identifies clinically underrecognized pharmacologic culprits of secondary hypertension in older adults, with emphasis on receptor-level mechanisms (e.g., H1-antagonist–induced α1-adrenergic potentiation).",
+    "primaryKeyword": "medication-induced hypertension over 60",
+    "topicCluster": "pharmacology-interactions",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:00:50.187Z"
+  },
+  {
+    "title": "How Chronic Low-Grade Dehydration Alters Renal Sodium Handling *Without* Thirst Signals — A Key Driver of Isolated Systolic Hypertension in Adults 72+",
+    "description": "Explains age-related thirst dysregulation, tubular aquaporin-2 downregulation, and the resulting pressure-natriuresis shift — with actionable hydration timing strategies validated in geriatric RCTs.",
+    "primaryKeyword": "dehydration and isolated systolic hypertension",
+    "topicCluster": "renal-physiology",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:00:52.319Z"
+  },
+  {
+    "title": "A vs B: Home Cuff Monitoring *With* Arm Support vs *Without* — Impact on Brachial-Aortic Pressure Gradient in Adults 65+ With Stiffened Aortas",
+    "description": "Compares measurement technique effects on systolic overestimation in arterial stiffness, using simultaneous tonometry and cuff data from a 2023 multicenter validation study.",
+    "primaryKeyword": "home blood pressure measurement technique accuracy",
+    "topicCluster": "monitoring-methodology",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:00:54.510Z"
+  },
+  {
+    "title": "The Truth About 'Normal' BP Variability: Why 24-Hour SD >15 mmHg Predicts Microinfarct Burden in Adults 69+ With White Matter Hyperintensities",
+    "description": "Debunks the myth of benign BP lability in aging brains, linking excessive circadian amplitude to cerebral small-vessel endothelial injury and silent infarct progression.",
+    "primaryKeyword": "blood pressure variability and brain health",
+    "topicCluster": "cerebrovascular-link",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:00:56.713Z"
+  },
+  {
+    "title": "What Research Says About 'Cold-Water Face Immersion' for Acute BP Reduction — Effects on Baroreflex Sensitivity in Adults 55–64 With Borderline Hypertension",
+    "description": "Reviews 12 RCTs on trigeminal-vagal stimulation protocols, including optimal timing (pre-meal vs post-stress), duration thresholds, and contraindications in early autonomic dysfunction.",
+    "primaryKeyword": "cold-water immersion blood pressure reduction",
+    "topicCluster": "neurophysiological-interventions",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:00:58.872Z"
+  },
+  {
+    "title": "When to Worry About 'Perfect' BP Readings *After* Starting SGLT2 Inhibitors — Recognizing Volume-Depletion-Induced Pseudonormalization in Adults 63+ With CKD Stage 3a",
+    "description": "Highlights how euvolemic misclassification masks orthostatic vulnerability and increases fall risk — with practical bedside assessment tools beyond cuff readings.",
+    "primaryKeyword": "sodium-glucose cotransporter inhibitor bp paradox",
+    "topicCluster": "medication-paradoxes",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:01.113Z"
+  },
+  {
+    "title": "5 Things Every Man Over 70 Taking Testosterone Therapy Should Know About Its Effect on Endothelial NO Synthase Coupling and Nocturnal Systolic Drift",
+    "description": "Details testosterone’s biphasic impact on vascular redox balance, distinguishing beneficial AR-mediated eNOS upregulation from harmful NADPH oxidase activation in aging vasculature.",
+    "primaryKeyword": "testosterone therapy and nocturnal hypertension",
+    "topicCluster": "hormonal-modulation-men",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:03.341Z"
+  },
+  {
+    "title": "Natural Ways to Enhance Vascular Smooth Muscle K+ Channel Function *Without* Potassium Supplementation — Using Magnesium Threonate + Evening Primrose Timing in Adults 61+ With Salt-Sensitive Hypertension",
+    "description": "Focuses on ion channel pharmacodynamics — not electrolyte loading — to improve vasodilatory reserve and reduce morning BP surge via BKCa and Kv7.4 modulation.",
+    "primaryKeyword": "potassium channel modulation natural hypertension",
+    "topicCluster": "ion-channel-physiology",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:05.437Z"
+  },
+  {
+    "title": "How Indoor Air Pollution From Gas Stoves Elevates 24-Hour Pulse Pressure — Especially in Adults 57–68 With Preexisting Endothelial Dysfunction",
+    "description": "Analyzes NO bioavailability suppression by nitrogen dioxide, with real-world exposure modeling and mitigation strategies proven to reduce systolic variability in urban cohorts.",
+    "primaryKeyword": "gas stove air pollution pulse pressure",
+    "topicCluster": "indoor-environmental-health",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:07.614Z"
+  },
+  {
+    "title": "Does Daily 1,000 mg L-Citrulline *Really* Improve Central Augmentation Index in Adults 65+ With High-Normal BP and Low CAC Scores? — A 16-Week RCT Analysis",
+    "description": "Evaluates citrulline’s effect on wave reflection dynamics and aortic stiffness biomarkers — independent of peripheral BP change — in pre-hypertensive, low-atherosclerosis-risk adults.",
+    "primaryKeyword": "l-citrulline central augmentation index",
+    "topicCluster": "supplement-efficacy-research",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:12.039Z"
+  },
+  {
+    "title": "Quick Ways to Reduce BP *Within 90 Seconds* During Panic Episodes — Using Diaphragmatic Breath-Hold + Tongue Pressure Biofeedback in Adults 54–62 With White-Coat Hypertension",
+    "description": "Presents a field-tested, non-pharmacologic protocol combining vagal afferent stimulation and cerebral autoregulation optimization for acute sympathetic override.",
+    "primaryKeyword": "rapid blood pressure reduction panic attack",
+    "topicCluster": "acute-sympathetic-intervention",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:14.237Z"
+  },
+  {
+    "title": "Warning Signs Your 'Stable' BP Is Masking Diastolic Dysfunction — Especially During Supine Breathing Tests in Adults 68+ With Unexplained Fatigue",
+    "description": "Links abnormal E/A ratio surrogates (e.g., postural diastolic overshoot, Valsalva deceleration time) to early left ventricular stiffness — before echo confirmation is needed.",
+    "primaryKeyword": "diastolic dysfunction masked hypertension",
+    "topicCluster": "cardiac-dysfunction-link",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:16.458Z"
+  },
+  {
+    "title": "What Are the Silent Signs of *Pulmonary* Hypertension Masquerading as 'Just High BP' in Adults 71+ With Interstitial Lung Disease?",
+    "description": "Differentiates right-heart strain patterns (e.g., isolated RV pressure load, exaggerated P2, tricuspid regurgitation velocity drift) from systemic hypertension in fibrotic lung disease.",
+    "primaryKeyword": "pulmonary hypertension misdiagnosed systemic",
+    "topicCluster": "pulmonary-systemic-differentiation",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:20.770Z"
+  },
+  {
+    "title": "How Sleep Apnea Severity *Changes* Blood Pressure Trajectory — Not Just Raises It — In Adults 59–66 With Non-Dipping Nocturnal Patterns",
+    "description": "Examines how AHI magnitude correlates with loss of circadian dipping *and* emergence of reverse-dipping, predicting renal hyperfiltration progression over 3 years.",
+    "primaryKeyword": "sleep apnea blood pressure trajectory change",
+    "topicCluster": "circadian-rhythm-disruption",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:22.960Z"
+  },
+  {
+    "title": "Myths vs Facts About 'Salt Sensitivity' After 60 — Why 3,000 mg Sodium *Can* Be Safe (or Harmful) Depending on Your ENaC Genotype and Gut Microbiome Profile",
+    "description": "Deconstructs monolithic sodium advice using pharmacogenomics (SCNN1B variants) and microbial TMAO–butyrate ratios to define personalized sodium thresholds.",
+    "primaryKeyword": "salt sensitivity genetics microbiome aging",
+    "topicCluster": "precision-nutrition",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:25.122Z"
+  },
+  {
+    "title": "9 Simple Steps to Adjust Your Hearing Aid Settings *Without* Raising Sympathetic Tone — For Adults 75+ With Hypertension and Moderate Sensorineural Loss",
+    "description": "Explains how auditory gain compression amplifies low-frequency noise (e.g., HVAC hum), triggering baroreflex suppression — and how to reprogram algorithms to preserve autonomic balance.",
+    "primaryKeyword": "hearing aid settings sympathetic tone",
+    "topicCluster": "sensory-autonomic-link",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:27.284Z"
+  },
+  {
+    "title": "Best Seated Breathing Patterns *With Real-Time HRV Feedback* for Adults 79+ With Frailty, Orthostatic Intolerance, and Mild Pulmonary Hypertension",
+    "description": "Validates resonant frequency breathing protocols (4.5–5.5 breaths/min) coupled with HRV-guided pacing to lower pulmonary vascular resistance without orthostatic risk.",
+    "primaryKeyword": "seated breathing hrv feedback frailty",
+    "topicCluster": "frailty-respiratory-integration",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-02-28T04:01:29.454Z"
+  }
+]

@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "title": "Why Your 'Normal' Fasting Glucose Readings Might Mask Dawn Phenomenon-Driven Hyperglycemia — Especially in Adults 68+ With Long-Term Type 2 Diabetes",
+    "description": "Explains how overnight hormonal surges can falsely normalize morning glucose tests — and why continuous glucose monitoring (CGM) reveals hidden glycemic spikes missed by standard fingersticks in older adults.",
+    "primaryKeyword": "dawn phenomenon in older adults",
+    "topicCluster": "glucose-monitoring-interpretation",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:02:50.258Z"
+  },
+  {
+    "title": "7 Hidden Ways Your Morning Coffee Routine Raises Postprandial Glucose — Even Without Sugar or Cream — In Adults 55–67 With Insulin Resistance",
+    "description": "Breaks down how caffeine timing, brewing method, and circadian cortisol interaction amplify glucose excursions after breakfast — with evidence-based timing and preparation adjustments.",
+    "primaryKeyword": "coffee and blood sugar spikes",
+    "topicCluster": "diet-nutrition-timing",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:02:52.444Z"
+  },
+  {
+    "title": "When to Worry About 'Just a Little Tingling' in Your Feet — Distinguishing Early Diabetic Neuropathy From Lumbar Radiculopathy in Adults 61+ With BMI >28",
+    "description": "Guides readers through clinical red flags, simple at-home assessments, and when urgent neurology referral is warranted — avoiding misattribution of nerve symptoms in midlife and older adults.",
+    "primaryKeyword": "early diabetic neuropathy signs",
+    "topicCluster": "neuropathy-differential-diagnosis",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:02:54.608Z"
+  },
+  {
+    "title": "How Chronic Low-Grade Dehydration Elevates HbA1c *Without* Raising Fasting Glucose — And Why Adults 72+ Are Most Vulnerable",
+    "description": "Explores the hemoglobin glycation artifact caused by hemoconcentration, renal sodium handling shifts, and age-related thirst dysregulation — with practical hydration benchmarks beyond '8 glasses a day'.",
+    "primaryKeyword": "dehydration and false high hba1c",
+    "topicCluster": "lab-test-artifacts",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:02:58.366Z"
+  },
+  {
+    "title": "12 Science-Backed Ways to Reduce Glucose Variability *Without* Reducing Carb Intake — Using Chewing Duration, Ambient Temperature, and Post-Meal Posture in Adults 54–69",
+    "description": "Presents novel, non-dietary interventions proven in RCTs to blunt glucose spikes — including cold exposure pre-meal, upright vs. reclined digestion, and mandibular kinematics.",
+    "primaryKeyword": "reduce glucose variability naturally",
+    "topicCluster": "non-diet-glucose-modulation",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:00.520Z"
+  },
+  {
+    "title": "A vs B: 10-Minute Post-Dinner Walk vs. 5-Minute Seated Ankle Pumps — Impact on 2-Hour Glucose Clearance in Adults 75+ With Knee Osteoarthritis and Type 2 Diabetes",
+    "description": "Compares real-world mobility adaptations for glucose control in frail older adults — with data on muscle perfusion, GLUT4 translocation, and fall-risk tradeoffs.",
+    "primaryKeyword": "exercise alternatives for elderly diabetes",
+    "topicCluster": "mobility-adapted-exercise",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:02.673Z"
+  },
+  {
+    "title": "What Research Says About Late-Night Protein Timing — Effects on Overnight Glucose Stability and Growth Hormone Pulses in Adults 63+ With Prediabetes",
+    "description": "Reviews 2023–2024 trials on casein vs. whey timing, nocturnal insulin sensitivity windows, and how protein intake shifts hepatic gluconeogenesis rhythms in aging livers.",
+    "primaryKeyword": "late-night protein and blood sugar",
+    "topicCluster": "circadian-nutrition",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:04.921Z"
+  },
+  {
+    "title": "5 Things Every Man Over 65 Taking Testosterone Replacement Should Know About Its Effect on Insulin Receptor Tyrosine Kinase Activity and Glucose Uptake Efficiency",
+    "description": "Details the molecular interplay between androgen therapy, skeletal muscle insulin signaling, and paradoxical hyperglycemia — plus biomarkers to monitor beyond A1c.",
+    "primaryKeyword": "testosterone therapy and insulin resistance",
+    "topicCluster": "hormone-therapy-interactions",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:07.091Z"
+  },
+  {
+    "title": "Warning Signs Your 'Stable' Diabetes Is Accelerating Silent Coronary Microvascular Dysfunction — Even With Normal Stress Tests in Adults 67+",
+    "description": "Identifies subtle but critical indicators — like exertional dyspnea without angina, diurnal BP variability patterns, and abnormal heart rate recovery — that precede macrovascular events.",
+    "primaryKeyword": "coronary microvascular dysfunction diabetes",
+    "topicCluster": "cardiac-microvascular-risk",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:09.336Z"
+  },
+  {
+    "title": "How Gut Mycobiome Shifts (Candida albicans Dominance) Disrupt Postprandial Glucose Homeostasis — And Why Standard Probiotics Often Worsen It in Adults 58+",
+    "description": "Explains fungal-bacterial cross-talk, SCFA production imbalances, and targeted antifungal dietary strategies — moving beyond 'probiotic overload' misconceptions.",
+    "primaryKeyword": "gut fungi and blood sugar control",
+    "topicCluster": "gut-mycobiome-metabolism",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:11.484Z"
+  },
+  {
+    "title": "Natural Ways to Support Pancreatic Beta-Cell Resilience *Without* Stimulating Insulin Secretion — Using Sulforaphane Timing + Low-Dose Lithium in Adults 56–64 With Early Beta-Cell Decline",
+    "description": "Focuses on cytoprotective, not secretagogue, approaches — Nrf2 activation, autophagy enhancement, and epigenetic modulation to preserve residual function.",
+    "primaryKeyword": "beta-cell protection natural methods",
+    "topicCluster": "pancreatic-cell-resilience",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:13.701Z"
+  },
+  {
+    "title": "Does Daily 250 mg Magnesium L-Threonate *Really* Improve Glycemic Memory Encoding in Adults 61+ With Diabetes-Associated Mild Cognitive Impairment?",
+    "description": "Analyzes emerging neuro-metabolic data on magnesium transport across the BBB, hippocampal insulin signaling, and functional MRI correlates of 'glycemic memory'.",
+    "primaryKeyword": "magnesium l-threonate and cognition diabetes",
+    "topicCluster": "neuro-metabolic-cognition",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:15.942Z"
+  },
+  {
+    "title": "10 Foods That *Stabilize* Postprandial Triglyceride-Rich Lipoproteins — Not Just 'Low-Glycemic' — Including Black Cumin Seed, Roasted Fennel, and Fermented Teff for Adults 60+ With Diabetic Dyslipidemia",
+    "description": "Moves beyond glucose-centric food lists to target remnant lipoprotein clearance — with mechanisms tied to LPL activation, apoC-III inhibition, and hepatic VLDL assembly.",
+    "primaryKeyword": "foods for triglyceride-rich lipoproteins",
+    "topicCluster": "diabetic-dyslipidemia-foods",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:18.110Z"
+  },
+  {
+    "title": "Quick Ways to Normalize Postprandial Glucose *Within 90 Seconds* — Using Nasal Breathing + Tongue-to-Roof Posture in Adults 57–73 With Autonomic Dysregulation",
+    "description": "Introduces underutilized vagal tone modulation techniques that acutely shift parasympathetic dominance and blunt catecholamine-driven hepatic glucose output.",
+    "primaryKeyword": "fast postprandial glucose reduction",
+    "topicCluster": "acute-glucose-modulation",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:20.298Z"
+  },
+  {
+    "title": "Myths vs Facts: 'You Can Reverse Type 2 Diabetes With Diet Alone' — What 15-Year Remission Data Shows for Adults Diagnosed After Age 55",
+    "description": "Deconstructs long-term durability of remission, differences in beta-cell recovery windows, and why 'reversal' definitions mislead older adults with age-related metabolic inflexibility.",
+    "primaryKeyword": "type 2 diabetes reversal after 55",
+    "topicCluster": "remission-realism",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:22.445Z"
+  },
+  {
+    "title": "The Complete Guide to Managing Diabetes While Caring for a Spouse With Early-Stage Dementia — From Medication Syncing to Hypo-Response Protocols for Dual-Caregiver Households",
+    "description": "Addresses the unique stressors, decision fatigue, and safety adaptations required when managing one’s own diabetes amid high-cognitive-load caregiving roles.",
+    "primaryKeyword": "diabetes management dementia caregiver",
+    "topicCluster": "dual-role-caregiving",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:24.612Z"
+  },
+  {
+    "title": "How Seasonal Vitamin D3 Deficiency Worsens Insulin Resistance *Before* Fasting Glucose Rises — Especially in Adults 66+ With Limited Sun Exposure and BMI >30",
+    "description": "Links vitamin D receptor polymorphisms, pancreatic beta-cell VDR expression, and the pre-hyperglycemic window where intervention prevents progression.",
+    "primaryKeyword": "vitamin d deficiency insulin resistance",
+    "topicCluster": "micronutrient-metabolic-window",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:26.787Z"
+  },
+  {
+    "title": "What Are the Earliest Signs of Diabetic Retinopathy *Before* Vision Changes? — Detecting Microaneurysms via Smartphone Fundus Imaging in Adults 59+ With HbA1c 6.8–7.5%",
+    "description": "Focuses on accessible, at-home detection methods, AI-assisted image interpretation, and why retinal changes often precede systemic microvascular biomarkers.",
+    "primaryKeyword": "early diabetic retinopathy detection",
+    "topicCluster": "retinal-early-detection",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:29.058Z"
+  },
+  {
+    "title": "14 Hidden Glycemic Traps in 'Keto-Friendly' Restaurant Menus — Why Grilled Salmon With Lemon Butter, Cauliflower Rice, and Arugula Salad Often Spikes Glucose More Than Pasta in Adults 62+",
+    "description": "Uncovers high-fat, low-carb pitfalls: endogenous glucose production triggers, delayed gastric emptying, and fat-induced insulin resistance in aging metabolisms.",
+    "primaryKeyword": "keto restaurant menu blood sugar spikes",
+    "topicCluster": "low-carb-diet-pitfalls",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:31.220Z"
+  },
+  {
+    "title": "When Should You Switch From Fingerstick Monitoring to CGM? — 6 Clinical Indicators That Signal Real-Time Glucose Insights Are Now Essential for Adults 70+",
+    "description": "Highlights decision points like unexplained hypoglycemia, recurrent nocturnal lows, or progressive autonomic neuropathy — where CGM prevents adverse events better than episodic checks.",
+    "primaryKeyword": "when to start cgms for seniors",
+    "topicCluster": "glucose-monitoring-transition",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-02-28T04:03:33.444Z"
+  }
+]
