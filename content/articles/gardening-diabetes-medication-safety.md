@@ -1,14 +1,31 @@
 ---
-title: "12 Medication Adjustments You Should Discuss With Your Pharmacist *Before* Starting a Community Garden — Especially If You’re 60+ With Diabetes, Peripheral Neuropathy, and Topical NSAID Use"
-slug: "12-medication-adjustments-you-should-discuss-with-your-pharmacist-before-starting-a-community-garden-especially-if-you-re-60-with-diabetes-peripheral-neuropathy-and-topical-nsaid-use"
-description: "Covers plant-specific herb–drug interactions (e.g., rosemary + warfarin), sun-sensitizing effects of sulfonylureas + garden chemicals, and foot-safety modifications for neuropathic gardeners."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["gardening diabetes medication safety", "diabetes", "horticultural-therapy-safety"]
-primaryKeyword: "gardening diabetes medication safety"
-topicCluster: "horticultural-therapy-safety"
-image: ""
-relatedSlugs: ["12-medication-adjustments-you-should-discuss-with-your-doctor-before-starting-a-walking-group-especially-if-you-re-63-with-type-2-diabetes-mild-ckd-and-diuretic-use", "the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications"]
+title: >-
+  12 Medication Adjustments You Should Discuss With Your Pharmacist *Before*
+  Starting a Community Garden — Especially If You’re 60+ With Diabetes,
+  Peripheral Neuropathy, and Topical NSAID Use
+slug: >-
+  12-medication-adjustments-you-should-discuss-with-your-pharmacist-before-starting-a-community-garden-especially-if-you-re-60-with-diabetes-peripheral-neuropathy-and-topical-nsaid-use
+description: >-
+  Covers plant-specific herb–drug interactions (e.g., rosemary + warfarin),
+  sun-sensitizing effects of sulfonylureas + garden chemicals, and foot-safety
+  modifications for neuropathic gardeners.
+date: '2026-02-24'
+updated: '2026-02-24'
+tags:
+  - gardening diabetes medication safety
+  - diabetes
+  - horticultural-therapy-safety
+primaryKeyword: gardening diabetes medication safety
+topicCluster: horticultural-therapy-safety
+image: ''
+relatedSlugs:
+  - >-
+    12-medication-adjustments-you-should-discuss-with-your-doctor-before-starting-a-walking-group-especially-if-you-re-63-with-type-2-diabetes-mild-ckd-and-diuretic-use
+  - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+  - diabetes-medication-walking-group-seniors-ckda
+  - medication-interactions-heart-failure-readmission
+  - diabetes-management-dementia-caregiver
 ---
 
 # Gardening with Diabetes: 12 Medication Safety Adjustments to Review Before Planting Your First Community Garden — Especially After Age 60

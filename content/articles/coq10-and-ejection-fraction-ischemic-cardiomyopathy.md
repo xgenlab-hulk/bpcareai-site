@@ -1,14 +1,31 @@
 ---
-title: "Does Daily 400 mg Coenzyme Q10 *Really* Improve Ejection Fraction in Adults 66+ With Ischemic Cardiomyopathy on Max-Tolerated GDMT? — New Data From the Q-CORE Trial"
-slug: "does-daily-400-mg-coenzyme-q10-really-improve-ejection-fraction-in-adults-66-with-ischemic-cardiomyopathy-on-max-tolerated-gdmt-new-data-from-the-q-core-trial"
-description: "Reviews blinded RCT findings on CoQ10’s impact on LVEF, peak VO2, and hospitalization rates in advanced ischemic heart failure patients already on guideline-directed therapy."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["coq10 and ejection fraction ischemic cardiomyopathy", "heart disease", "supplements-clinical-trial"]
-primaryKeyword: "coq10 and ejection fraction ischemic cardiomyopathy"
-topicCluster: "supplements-clinical-trial"
-image: ""
-relatedSlugs: ["can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure", "what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max"]
+title: >-
+  Does Daily 400 mg Coenzyme Q10 *Really* Improve Ejection Fraction in Adults
+  66+ With Ischemic Cardiomyopathy on Max-Tolerated GDMT? — New Data From the
+  Q-CORE Trial
+slug: >-
+  does-daily-400-mg-coenzyme-q10-really-improve-ejection-fraction-in-adults-66-with-ischemic-cardiomyopathy-on-max-tolerated-gdmt-new-data-from-the-q-core-trial
+description: >-
+  Reviews blinded RCT findings on CoQ10’s impact on LVEF, peak VO2, and
+  hospitalization rates in advanced ischemic heart failure patients already on
+  guideline-directed therapy.
+date: '2026-02-27'
+updated: '2026-02-27'
+tags:
+  - coq10 and ejection fraction ischemic cardiomyopathy
+  - heart disease
+  - supplements-clinical-trial
+primaryKeyword: coq10 and ejection fraction ischemic cardiomyopathy
+topicCluster: supplements-clinical-trial
+image: ''
+relatedSlugs:
+  - >-
+    can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure
+  - >-
+    what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
+  - metformin-mitochondrial-dna-copy-number
+  - foods-cardiac-fibroblast-quiescence-seniors
+  - mitochondrial-quality-control-in-cardiomyocytes
 ---
 
 # Does CoQ10 Improve Ejection Fraction in Older Adults with Ischemic Cardiomyopathy? Insights from the Q-CORE Trial
