@@ -1,13 +1,5 @@
 [
   {
-    "title": "7 Hidden Medication Interactions That Raise Blood Pressure *After* Age 60 — Including Common Antidepressants, Antihistamines, and Topical NSAIDs",
-    "description": "Identifies clinically underrecognized pharmacologic culprits of secondary hypertension in older adults, with emphasis on receptor-level mechanisms (e.g., H1-antagonist–induced α1-adrenergic potentiation).",
-    "primaryKeyword": "medication-induced hypertension over 60",
-    "topicCluster": "pharmacology-interactions",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-02-28T04:00:50.187Z"
-  },
-  {
     "title": "How Chronic Low-Grade Dehydration Alters Renal Sodium Handling *Without* Thirst Signals — A Key Driver of Isolated Systolic Hypertension in Adults 72+",
     "description": "Explains age-related thirst dysregulation, tubular aquaporin-2 downregulation, and the resulting pressure-natriuresis shift — with actionable hydration timing strategies validated in geriatric RCTs.",
     "primaryKeyword": "dehydration and isolated systolic hypertension",
@@ -22,14 +14,6 @@
     "topicCluster": "monitoring-methodology",
     "coreKeyword": "blood pressure",
     "createdAt": "2026-02-28T04:00:54.510Z"
-  },
-  {
-    "title": "The Truth About 'Normal' BP Variability: Why 24-Hour SD >15 mmHg Predicts Microinfarct Burden in Adults 69+ With White Matter Hyperintensities",
-    "description": "Debunks the myth of benign BP lability in aging brains, linking excessive circadian amplitude to cerebral small-vessel endothelial injury and silent infarct progression.",
-    "primaryKeyword": "blood pressure variability and brain health",
-    "topicCluster": "cerebrovascular-link",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-02-28T04:00:56.713Z"
   },
   {
     "title": "What Research Says About 'Cold-Water Face Immersion' for Acute BP Reduction — Effects on Baroreflex Sensitivity in Adults 55–64 With Borderline Hypertension",
@@ -112,27 +96,11 @@
     "createdAt": "2026-02-28T04:01:22.960Z"
   },
   {
-    "title": "Myths vs Facts About 'Salt Sensitivity' After 60 — Why 3,000 mg Sodium *Can* Be Safe (or Harmful) Depending on Your ENaC Genotype and Gut Microbiome Profile",
-    "description": "Deconstructs monolithic sodium advice using pharmacogenomics (SCNN1B variants) and microbial TMAO–butyrate ratios to define personalized sodium thresholds.",
-    "primaryKeyword": "salt sensitivity genetics microbiome aging",
-    "topicCluster": "precision-nutrition",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-02-28T04:01:25.122Z"
-  },
-  {
     "title": "9 Simple Steps to Adjust Your Hearing Aid Settings *Without* Raising Sympathetic Tone — For Adults 75+ With Hypertension and Moderate Sensorineural Loss",
     "description": "Explains how auditory gain compression amplifies low-frequency noise (e.g., HVAC hum), triggering baroreflex suppression — and how to reprogram algorithms to preserve autonomic balance.",
     "primaryKeyword": "hearing aid settings sympathetic tone",
     "topicCluster": "sensory-autonomic-link",
     "coreKeyword": "blood pressure",
     "createdAt": "2026-02-28T04:01:27.284Z"
-  },
-  {
-    "title": "Best Seated Breathing Patterns *With Real-Time HRV Feedback* for Adults 79+ With Frailty, Orthostatic Intolerance, and Mild Pulmonary Hypertension",
-    "description": "Validates resonant frequency breathing protocols (4.5–5.5 breaths/min) coupled with HRV-guided pacing to lower pulmonary vascular resistance without orthostatic risk.",
-    "primaryKeyword": "seated breathing hrv feedback frailty",
-    "topicCluster": "frailty-respiratory-integration",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-02-28T04:01:29.454Z"
   }
 ]
