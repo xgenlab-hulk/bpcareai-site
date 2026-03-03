@@ -41,7 +41,6 @@ function frontmatterToYAML(frontmatter: ArticleFrontmatter): string {
     `description: "${frontmatter.description.replace(/"/g, '\\"')}"`,
     `date: "${frontmatter.date}"`,
     `updated: "${frontmatter.updated}"`,
-    `tags: [${frontmatter.tags.map(t => `"${t}"`).join(', ')}]`,
     `primaryKeyword: "${frontmatter.primaryKeyword}"`,
     `topicCluster: "${frontmatter.topicCluster}"`,
     `image: "${frontmatter.image}"`,
