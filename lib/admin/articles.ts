@@ -74,8 +74,7 @@ export async function searchArticles(query: string): Promise<ArticleMeta[]> {
   return articles.filter(article =>
     article.title.toLowerCase().includes(lowerQuery) ||
     article.description?.toLowerCase().includes(lowerQuery) ||
-    article.primaryKeyword?.toLowerCase().includes(lowerQuery) ||
-    article.tags?.some(tag => tag.toLowerCase().includes(lowerQuery))
+    article.primaryKeyword?.toLowerCase().includes(lowerQuery)
   );
 }
 
