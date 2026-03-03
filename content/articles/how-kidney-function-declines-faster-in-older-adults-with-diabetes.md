@@ -6,12 +6,8 @@ description: >-
   kidney health.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - diabetes and kidney function decline in seniors
-  - diabetes
-  - diabetes-complications
 primaryKeyword: diabetes and kidney function decline in seniors
-topicCluster: complications-comorbidities
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - blood-pressure-and-kidney-health-what-seniors-need-to-know

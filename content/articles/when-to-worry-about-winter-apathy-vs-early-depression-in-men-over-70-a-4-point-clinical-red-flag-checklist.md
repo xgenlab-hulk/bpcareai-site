@@ -1,14 +1,26 @@
 ---
-title: "When to Worry About Winter Apathy vs. Early Depression in Men Over 70: A 4-Point Clinical Red-Flag Checklist"
-slug: "when-to-worry-about-winter-apathy-vs-early-depression-in-men-over-70-a-4-point-clinical-red-flag-checklist"
-description: "A clinician-vetted, behaviorally anchored tool to distinguish motivational decline from neurological or psychiatric causes—focused specifically on male-pattern emotional withdrawal in late life."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["winter apathy vs depression in men over 70", "seasonal depression in older adults", "differential-diagnosis-male-aging"]
-primaryKeyword: "winter apathy vs depression in men over 70"
-topicCluster: "differential-diagnosis-male-aging"
-image: ""
-relatedSlugs: ["is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression", "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75", "7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know", "why-older-men-often-hide-their-seasonal-depression-symptoms"]
+title: >-
+  When to Worry About Winter Apathy vs. Early Depression in Men Over 70: A
+  4-Point Clinical Red-Flag Checklist
+slug: >-
+  when-to-worry-about-winter-apathy-vs-early-depression-in-men-over-70-a-4-point-clinical-red-flag-checklist
+description: >-
+  A clinician-vetted, behaviorally anchored tool to distinguish motivational
+  decline from neurological or psychiatric causes—focused specifically on
+  male-pattern emotional withdrawal in late life.
+date: '2025-12-25'
+updated: '2025-12-25'
+primaryKeyword: winter apathy vs depression in men over 70
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
+  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - why-older-men-often-hide-their-seasonal-depression-symptoms
 ---
 
 # Understanding Winter Apathy vs Depression in Men Over 70: A Gentle, Practical Guide

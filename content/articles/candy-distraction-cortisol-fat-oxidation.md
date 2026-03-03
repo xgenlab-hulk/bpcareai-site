@@ -1,14 +1,30 @@
 ---
-title: "How Grandchildren’s Candy-Driven Mealtime Distraction Elevates Evening Cortisol and Impairs Overnight Fat Oxidation in Adults 66+ With Abdominal Obesity"
-slug: "how-grandchildren-s-candy-driven-mealtime-distraction-elevates-evening-cortisol-and-impairs-overnight-fat-oxidation-in-adults-66-with-abdominal-obesity"
-description: "Connects environmental stressors (e.g., sugar-fueled chaos, disrupted eating pace) to salivary cortisol AUC and nocturnal RER shifts measured in ambulatory metabolic studies."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["candy distraction cortisol fat oxidation", "healthy eating during family gatherings", "stress-metabolism-interference"]
-primaryKeyword: "candy distraction cortisol fat oxidation"
-topicCluster: "stress-metabolism-interference"
-image: ""
-relatedSlugs: ["how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance", "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70", "how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60", "5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing", "what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp"]
+title: >-
+  How Grandchildren’s Candy-Driven Mealtime Distraction Elevates Evening
+  Cortisol and Impairs Overnight Fat Oxidation in Adults 66+ With Abdominal
+  Obesity
+slug: >-
+  how-grandchildren-s-candy-driven-mealtime-distraction-elevates-evening-cortisol-and-impairs-overnight-fat-oxidation-in-adults-66-with-abdominal-obesity
+description: >-
+  Connects environmental stressors (e.g., sugar-fueled chaos, disrupted eating
+  pace) to salivary cortisol AUC and nocturnal RER shifts measured in ambulatory
+  metabolic studies.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: candy distraction cortisol fat oxidation
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
+  - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+  - >-
+    how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
+  - >-
+    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
+  - >-
+    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
 ---
 
 # How Candy Distraction, Cortisol Spikes, and Fat Oxidation Interfere With Healthy Eating During Family Gatherings

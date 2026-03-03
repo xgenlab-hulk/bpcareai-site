@@ -11,12 +11,8 @@ description: >-
   prostacyclin synthesis in patients with PAD and hypertension.
 date: '2026-01-14'
 updated: '2026-01-14'
-tags:
-  - low-dose aspirin prostacyclin thromboxane vasoconstriction
-  - blood pressure
-  - medication-interactions-vascular
 primaryKeyword: low-dose aspirin prostacyclin thromboxane vasoconstriction
-topicCluster: medication-interactions-vascular
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

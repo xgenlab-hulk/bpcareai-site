@@ -1,14 +1,28 @@
 ---
-title: "Can Holiday Leftovers Increase Fall Risk in Adults 77+ With Vitamin D Deficiency and Mild Postural Instability?"
-slug: "can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability"
-description: "Analyzes how high-sodium, high-carb reheated meals affect orthostatic blood pressure and muscle glycogen recovery—and why meal timing and potassium pairing matter more than portion size for fall prevention."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["holiday leftovers and fall risk in elderly", "healthy holiday eating for seniors", "nutritional-fall-prevention"]
-primaryKeyword: "holiday leftovers and fall risk in elderly"
-topicCluster: "nutritional-fall-prevention"
-image: ""
-relatedSlugs: ["why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75", "warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk", "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems", "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60"]
+title: >-
+  Can Holiday Leftovers Increase Fall Risk in Adults 77+ With Vitamin D
+  Deficiency and Mild Postural Instability?
+slug: >-
+  can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
+description: >-
+  Analyzes how high-sodium, high-carb reheated meals affect orthostatic blood
+  pressure and muscle glycogen recovery—and why meal timing and potassium
+  pairing matter more than portion size for fall prevention.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: holiday leftovers and fall risk in elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
+  - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 
 # How Holiday Leftovers and Fall Risk in Elderly Adults Are Connected—And What You Can Do

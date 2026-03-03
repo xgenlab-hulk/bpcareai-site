@@ -1,14 +1,30 @@
 ---
-title: "The Complete Guide to Interpreting Ambulatory Blood Pressure Reports—Especially for Adults 64+ With Nocturnal Non-Dipping, Sleep Apnea, and Fragmented REM Cycles"
-slug: "the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles"
-description: "Breaks down ABPM metrics beyond averages: sleep-trough timing, morning surge slope, load area, reverse dipping, and how polysomnography correlates with each abnormal pattern in aging patients."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["interpreting ambulatory blood pressure reports sleep apnea", "blood pressure", "diagnostic-report-literacy"]
-primaryKeyword: "interpreting ambulatory blood pressure reports sleep apnea"
-topicCluster: "diagnostic-report-literacy"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72", "the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful", "the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist", "myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers", "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night"]
+title: >-
+  The Complete Guide to Interpreting Ambulatory Blood Pressure
+  Reports—Especially for Adults 64+ With Nocturnal Non-Dipping, Sleep Apnea, and
+  Fragmented REM Cycles
+slug: >-
+  the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
+description: >-
+  Breaks down ABPM metrics beyond averages: sleep-trough timing, morning surge
+  slope, load area, reverse dipping, and how polysomnography correlates with
+  each abnormal pattern in aging patients.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: interpreting ambulatory blood pressure reports sleep apnea
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
+  - >-
+    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
+  - >-
+    the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
 ---
 
 # A Practical Guide to Interpreting Ambulatory Blood Pressure Reports in Older Adults With Sleep Apnea

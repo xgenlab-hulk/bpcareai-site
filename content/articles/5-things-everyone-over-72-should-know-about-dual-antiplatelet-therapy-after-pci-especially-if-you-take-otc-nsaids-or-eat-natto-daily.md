@@ -10,12 +10,8 @@ description: >-
   ticagrelor.
 date: '2026-02-06'
 updated: '2026-02-06'
-tags:
-  - dual antiplatelet therapy over 72
-  - heart disease
-  - post-pci-pharmacovigilance
 primaryKeyword: dual antiplatelet therapy over 72
-topicCluster: post-pci-pharmacovigilance
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

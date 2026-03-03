@@ -1,14 +1,30 @@
 ---
-title: "5 Things Everyone Over 70 Should Know About Sulfonylurea Use — Especially If You’re Taking Gliclazide and Have Age-Related Decline in CYP2C9 and Renal Function"
-slug: "5-things-everyone-over-70-should-know-about-sulfonylurea-use-especially-if-you-re-taking-gliclazide-and-have-age-related-decline-in-cyp2c9-and-renal-function"
-description: "Addresses pharmacogenomic and pharmacokinetic risks: prolonged half-life, increased hypoglycemia duration, impaired counterregulatory hormone response, and safer alternatives like glimepiride dose tapering with weekly CGM review."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["sulfonylurea use over 70 cyp2c9 decline", "diabetes", "medication-safety-aging"]
-primaryKeyword: "sulfonylurea use over 70 cyp2c9 decline"
-topicCluster: "medication-safety-aging"
-image: ""
-relatedSlugs: ["5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily", "what-causes-sudden-post-brunch-hypoglycemia-in-adults-73-with-sulfonylurea-use-and-mild-cognitive-impairment", "when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use", "can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment", "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone"]
+title: >-
+  5 Things Everyone Over 70 Should Know About Sulfonylurea Use — Especially If
+  You’re Taking Gliclazide and Have Age-Related Decline in CYP2C9 and Renal
+  Function
+slug: >-
+  5-things-everyone-over-70-should-know-about-sulfonylurea-use-especially-if-you-re-taking-gliclazide-and-have-age-related-decline-in-cyp2c9-and-renal-function
+description: >-
+  Addresses pharmacogenomic and pharmacokinetic risks: prolonged half-life,
+  increased hypoglycemia duration, impaired counterregulatory hormone response,
+  and safer alternatives like glimepiride dose tapering with weekly CGM review.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: sulfonylurea use over 70 cyp2c9 decline
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily
+  - >-
+    what-causes-sudden-post-brunch-hypoglycemia-in-adults-73-with-sulfonylurea-use-and-mild-cognitive-impairment
+  - >-
+    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
+  - >-
+    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
+  - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
 ---
 
 # What Everyone Over 70 Should Know About Sulfonylurea Use and CYP2C9 Decline

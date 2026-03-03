@@ -10,12 +10,8 @@ description: >-
   lab monitoring thresholds and safer alternatives.
 date: '2026-01-07'
 updated: '2026-01-07'
-tags:
-  - hawthorn berberine and afib in ckid
-  - heart disease
-  - supplement-safety-ckd
 primaryKeyword: hawthorn berberine and afib in ckid
-topicCluster: supplement-safety-ckd
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

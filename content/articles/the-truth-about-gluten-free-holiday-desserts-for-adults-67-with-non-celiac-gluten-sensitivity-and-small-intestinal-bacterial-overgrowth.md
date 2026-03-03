@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Gluten-Free' Holiday Desserts for Adults 67+ With Non-Celiac Gluten Sensitivity and Small Intestinal Bacterial Overgrowth"
-slug: "the-truth-about-gluten-free-holiday-desserts-for-adults-67-with-non-celiac-gluten-sensitivity-and-small-intestinal-bacterial-overgrowth"
-description: "Examines how commercial GF labels mislead—focusing on FODMAP load, starch retrogradation effects on fermentation, and hidden fructan sources in almond flour and chicory root–sweetened treats."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["gluten-free desserts sibo non-celiac sensitivity", "healthy eating during family gatherings", "gut-microbiome-nutrition"]
-primaryKeyword: "gluten-free desserts sibo non-celiac sensitivity"
-topicCluster: "gut-microbiome-nutrition"
-image: ""
-relatedSlugs: ["best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue", "the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging", "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose"]
+title: >-
+  The Truth About 'Gluten-Free' Holiday Desserts for Adults 67+ With Non-Celiac
+  Gluten Sensitivity and Small Intestinal Bacterial Overgrowth
+slug: >-
+  the-truth-about-gluten-free-holiday-desserts-for-adults-67-with-non-celiac-gluten-sensitivity-and-small-intestinal-bacterial-overgrowth
+description: >-
+  Examines how commercial GF labels mislead—focusing on FODMAP load, starch
+  retrogradation effects on fermentation, and hidden fructan sources in almond
+  flour and chicory root–sweetened treats.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: gluten-free desserts sibo non-celiac sensitivity
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
+  - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
 ---
 
 # Navigating Gluten-Free Desserts Safely: What Adults 67+ with SIBO and Non-Celiac Gluten Sensitivity Really Need to Know  

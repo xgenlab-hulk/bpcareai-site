@@ -6,10 +6,6 @@ description: >-
   adults over 50, and learn tips to improve both.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - sleep and heart health after 50
-  - heart health
-  - heart-health
 primaryKeyword: sleep and heart health after 50
 topicCluster: cardiovascular-health
 image: ''

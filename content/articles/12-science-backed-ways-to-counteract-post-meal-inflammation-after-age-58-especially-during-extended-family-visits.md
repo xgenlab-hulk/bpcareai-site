@@ -1,14 +1,27 @@
 ---
-title: "12 Science-Backed Ways to Counteract Post-Meal Inflammation After Age 58—Especially During Extended Family Visits"
-slug: "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits"
-description: "Evidence-based, non-pharmaceutical tactics—including timing of movement, strategic spice use, hydration pacing, and postprandial breathing—to blunt IL-6 and CRP spikes linked to prolonged social meals."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["reduce post-meal inflammation seniors 58+", "healthy eating during family gatherings", "inflammation-modulation"]
-primaryKeyword: "reduce post-meal inflammation seniors 58+"
-topicCluster: "inflammation-modulation"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings", "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75"]
+title: >-
+  12 Science-Backed Ways to Counteract Post-Meal Inflammation After Age
+  58—Especially During Extended Family Visits
+slug: >-
+  12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
+description: >-
+  Evidence-based, non-pharmaceutical tactics—including timing of movement,
+  strategic spice use, hydration pacing, and postprandial breathing—to blunt
+  IL-6 and CRP spikes linked to prolonged social meals.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: reduce post-meal inflammation seniors 58+
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 ---
 
 # 12 Science-Backed Strategies to Reduce Post-Meal Inflammation Seniors 58+ Can Use—Especially During Family Gatherings

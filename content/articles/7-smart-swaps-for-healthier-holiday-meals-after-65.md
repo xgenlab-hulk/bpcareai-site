@@ -7,12 +7,8 @@ description: >-
   managing chronic conditions.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - healthy holiday swaps for seniors
-  - healthy holiday eating for seniors
-  - diet-nutrition
 primaryKeyword: healthy holiday swaps for seniors
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals

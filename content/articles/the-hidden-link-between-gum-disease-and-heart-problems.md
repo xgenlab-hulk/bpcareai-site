@@ -6,10 +6,6 @@ description: >-
   older adults can do to protect themselves.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - gum disease and heart health connection
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: gum disease and heart health connection
 topicCluster: cardiovascular-health
 image: ''

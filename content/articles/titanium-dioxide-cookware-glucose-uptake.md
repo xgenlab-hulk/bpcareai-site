@@ -11,12 +11,8 @@ description: >-
   health.
 date: '2026-02-09'
 updated: '2026-02-09'
-tags:
-  - titanium dioxide cookware glucose uptake
-  - diabetes
-  - nanomaterials-metabolic-function
 primaryKeyword: titanium dioxide cookware glucose uptake
-topicCluster: nanomaterials-metabolic-function
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

@@ -11,12 +11,8 @@ description: >-
   expression in chronic wounds.
 date: '2026-02-11'
 updated: '2026-02-11'
-tags:
-  - fabric softener and diabetic foot ulcer healing
-  - diabetes
-  - dermatological-microbiome-diabetes
 primaryKeyword: fabric softener and diabetic foot ulcer healing
-topicCluster: dermatological-microbiome-diabetes
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

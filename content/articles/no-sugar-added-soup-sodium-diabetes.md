@@ -1,14 +1,30 @@
 ---
-title: "The Truth About 'No-Sugar-Added' Canned Soups Marketed to Seniors — Why 83% Contain Hidden Sodium-Induced Sympathetic Activation and Nighttime Glucose Spikes in Adults 69+ With Hypertension"
-slug: "the-truth-about-no-sugar-added-canned-soups-marketed-to-seniors-why-83-contain-hidden-sodium-induced-sympathetic-activation-and-nighttime-glucose-spikes-in-adults-69-with-hypertension"
-description: "Investigates how high sodium (often >800mg/serving) in 'healthy' soups triggers catecholamine release, impairs nocturnal insulin sensitivity, and worsens dawn phenomenon—despite zero added sugar."
-date: "2026-02-23"
-updated: "2026-02-23"
-tags: ["no-sugar-added soup sodium diabetes", "diabetes", "processed-food-sodium-effects"]
-primaryKeyword: "no-sugar-added soup sodium diabetes"
-topicCluster: "processed-food-sodium-effects"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension", "the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension", "the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65", "the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72", "the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims"]
+title: >-
+  The Truth About 'No-Sugar-Added' Canned Soups Marketed to Seniors — Why 83%
+  Contain Hidden Sodium-Induced Sympathetic Activation and Nighttime Glucose
+  Spikes in Adults 69+ With Hypertension
+slug: >-
+  the-truth-about-no-sugar-added-canned-soups-marketed-to-seniors-why-83-contain-hidden-sodium-induced-sympathetic-activation-and-nighttime-glucose-spikes-in-adults-69-with-hypertension
+description: >-
+  Investigates how high sodium (often >800mg/serving) in 'healthy' soups
+  triggers catecholamine release, impairs nocturnal insulin sensitivity, and
+  worsens dawn phenomenon—despite zero added sugar.
+date: '2026-02-23'
+updated: '2026-02-23'
+primaryKeyword: no-sugar-added soup sodium diabetes
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension
+  - >-
+    the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
+  - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
 ---
 
 # What You Should Know About No-Sugar-Added Soup Sodium Diabetes Risks — Especially After Age 65

@@ -6,12 +6,8 @@ description: >-
   early detection.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - blood pressure and kidney disease in older adults
-  - blood pressure
-  - cardiovascular-risk
 primaryKeyword: blood pressure and kidney disease in older adults
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection

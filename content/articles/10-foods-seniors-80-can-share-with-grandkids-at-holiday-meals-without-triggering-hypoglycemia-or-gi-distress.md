@@ -1,14 +1,25 @@
 ---
-title: "10 Foods Seniors 80+ Can Share With Grandkids at Holiday Meals — Without Triggering Hypoglycemia or GI Distress"
-slug: "10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress"
-description: "Curated list prioritizing low-osmolar load, minimal fermentable carbs, balanced protein/fat, and easy mastication — validated by geriatric dietitians and GI motility specialists for frail elders."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["holiday foods seniors 80+ grandkids", "holiday diabetes management", "geriatric-feeding-safety"]
-primaryKeyword: "holiday foods seniors 80+ grandkids"
-topicCluster: "geriatric-feeding-safety"
-image: ""
-relatedSlugs: ["12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure", "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70", "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd", "10-high-fiber-holiday-foods-that-support-digestion-after-50", "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60"]
+title: >-
+  10 Foods Seniors 80+ Can Share With Grandkids at Holiday Meals — Without
+  Triggering Hypoglycemia or GI Distress
+slug: >-
+  10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress
+description: >-
+  Curated list prioritizing low-osmolar load, minimal fermentable carbs,
+  balanced protein/fat, and easy mastication — validated by geriatric dietitians
+  and GI motility specialists for frail elders.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: holiday foods seniors 80+ grandkids
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
+  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 
 # Holiday Foods Seniors 80+ Can Share With Grandkids — Safe, Satisfying, and Science-Supported

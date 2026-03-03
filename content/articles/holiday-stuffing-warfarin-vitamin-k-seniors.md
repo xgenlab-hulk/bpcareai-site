@@ -1,14 +1,30 @@
 ---
-title: "5 Things Everyone Over 67 Should Know About Sharing a Single Serving of Holiday Stuffing — Especially If Taking Warfarin or Eating Spinach-Sage Loaf Daily"
-slug: "5-things-everyone-over-67-should-know-about-sharing-a-single-serving-of-holiday-stuffing-especially-if-taking-warfarin-or-eating-spinach-sage-loaf-daily"
-description: "Addresses vitamin K variability in herb-infused stuffing, warfarin dosing stability, and real-world INR drift risks when portion-sharing across generations."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["holiday stuffing warfarin vitamin k seniors", "healthy eating during family gatherings", "anticoagulant-diet-interactions"]
-primaryKeyword: "holiday stuffing warfarin vitamin k seniors"
-topicCluster: "anticoagulant-diet-interactions"
-image: ""
-relatedSlugs: ["when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead", "the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban", "can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking", "the-truth-about-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-postprandial-hypotension-in-adults-68-with-carotid-stenosis", "the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy"]
+title: >-
+  5 Things Everyone Over 67 Should Know About Sharing a Single Serving of
+  Holiday Stuffing — Especially If Taking Warfarin or Eating Spinach-Sage Loaf
+  Daily
+slug: >-
+  5-things-everyone-over-67-should-know-about-sharing-a-single-serving-of-holiday-stuffing-especially-if-taking-warfarin-or-eating-spinach-sage-loaf-daily
+description: >-
+  Addresses vitamin K variability in herb-infused stuffing, warfarin dosing
+  stability, and real-world INR drift risks when portion-sharing across
+  generations.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: holiday stuffing warfarin vitamin k seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
+  - >-
+    the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
+  - >-
+    can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
+  - >-
+    the-truth-about-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-postprandial-hypotension-in-adults-68-with-carotid-stenosis
+  - >-
+    the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
 ---
 
 # What Every Senior Over 67 Should Know About Holiday Stuffing, Warfarin, and Vitamin K — Especially During Family Meals

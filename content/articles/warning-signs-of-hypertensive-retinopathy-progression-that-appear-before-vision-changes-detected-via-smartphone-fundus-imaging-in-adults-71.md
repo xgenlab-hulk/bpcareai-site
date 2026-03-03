@@ -1,14 +1,30 @@
 ---
-title: "Warning Signs of Hypertensive Retinopathy Progression That Appear *Before* Vision Changes — Detected via Smartphone Fundus Imaging in Adults 71+"
-slug: "warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71"
-description: "Identifies pre-symptomatic retinal markers — such as venular narrowing index shift >12%, focal arteriolar light reflex intensification, and microvascular tortuosity acceleration — validated against OCT-A in community-dwelling seniors."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["hypertensive retinopathy early warning signs", "blood pressure", "ophthalmic-early-detection"]
-primaryKeyword: "hypertensive retinopathy early warning signs"
-topicCluster: "ophthalmic-early-detection"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-hypertensive-retinopathy-on-home-fundus-photos-and-when-to-see-a-retinal-specialist-if-you-re-68-with-uncontrolled-bp", "what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80", "what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65", "7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints", "warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71"]
+title: >-
+  Warning Signs of Hypertensive Retinopathy Progression That Appear *Before*
+  Vision Changes — Detected via Smartphone Fundus Imaging in Adults 71+
+slug: >-
+  warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
+description: >-
+  Identifies pre-symptomatic retinal markers — such as venular narrowing index
+  shift >12%, focal arteriolar light reflex intensification, and microvascular
+  tortuosity acceleration — validated against OCT-A in community-dwelling
+  seniors.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: hypertensive retinopathy early warning signs
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-hypertensive-retinopathy-on-home-fundus-photos-and-when-to-see-a-retinal-specialist-if-you-re-68-with-uncontrolled-bp
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
+  - >-
+    7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
 ---
 
 # Hypertensive Retinopathy Early Warning Signs You Can Detect *Before* Vision Fails — Especially After Age 71

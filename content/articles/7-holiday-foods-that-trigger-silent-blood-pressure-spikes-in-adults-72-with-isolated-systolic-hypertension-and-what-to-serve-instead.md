@@ -1,14 +1,28 @@
 ---
-title: "7 Holiday Foods That Trigger Silent Blood Pressure Spikes in Adults 72+ With Isolated Systolic Hypertension — And What to Serve Instead"
-slug: "7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead"
-description: "Identifies commonly served holiday foods that cause delayed, asymptomatic systolic surges in older adults with stiffened arteries—and offers clinically appropriate swaps that maintain flavor and tradition."
-date: "2026-02-10"
-updated: "2026-02-10"
-tags: ["holiday foods blood pressure spikes seniors", "healthy holiday eating for seniors", "cardiac-diet-hypertension"]
-primaryKeyword: "holiday foods blood pressure spikes seniors"
-topicCluster: "cardiac-diet-hypertension"
-image: ""
-relatedSlugs: ["7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-seniors-70-with-nocturnal-hypertension", "12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead", "how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline"]
+title: >-
+  7 Holiday Foods That Trigger Silent Blood Pressure Spikes in Adults 72+ With
+  Isolated Systolic Hypertension — And What to Serve Instead
+slug: >-
+  7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
+description: >-
+  Identifies commonly served holiday foods that cause delayed, asymptomatic
+  systolic surges in older adults with stiffened arteries—and offers clinically
+  appropriate swaps that maintain flavor and tradition.
+date: '2026-02-10'
+updated: '2026-02-10'
+primaryKeyword: holiday foods blood pressure spikes seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-seniors-70-with-nocturnal-hypertension
+  - >-
+    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
+  - >-
+    how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
 ---
 
 # Holiday Foods Blood Pressure Spikes Seniors: 7 Common Culprits & Heart-Smart Swaps for Adults 72+

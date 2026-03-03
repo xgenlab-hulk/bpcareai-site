@@ -10,12 +10,8 @@ description: >-
   alternatives with cardiac safety data.
 date: '2026-02-01'
 updated: '2026-02-01'
-tags:
-  - antidepressant palpitations hypothyroidism seniors 66+
-  - heart disease
-  - polypharmacy-cardiac-risks
 primaryKeyword: antidepressant palpitations hypothyroidism seniors 66+
-topicCluster: polypharmacy-cardiac-risks
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

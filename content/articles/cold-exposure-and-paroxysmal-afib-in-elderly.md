@@ -1,14 +1,28 @@
 ---
-title: "Why Sudden Cold Exposure at Holiday Open Houses Can Trigger Paroxysmal AFib in Adults With Subclinical Aortic Stiffness—And What to Do Within 90 Seconds"
-slug: "why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds"
-description: "Explains the baroreflex-mediated sympathetic burst triggered by rapid ambient temperature drops, links it to pulse wave velocity data, and prescribes an immediate, seated counter-maneuver proven to abort 68% of early episodes."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["cold exposure and paroxysmal afib in elderly", "holiday heart syndrome prevention", "environmental-triggers"]
-primaryKeyword: "cold exposure and paroxysmal afib in elderly"
-topicCluster: "environmental-triggers"
-image: ""
-relatedSlugs: ["natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81", "can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65", "natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices", "7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55", "quick-ways-to-calm-a-racing-heart-during-a-holiday-event"]
+title: >-
+  Why Sudden Cold Exposure at Holiday Open Houses Can Trigger Paroxysmal AFib in
+  Adults With Subclinical Aortic Stiffness—And What to Do Within 90 Seconds
+slug: >-
+  why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
+description: >-
+  Explains the baroreflex-mediated sympathetic burst triggered by rapid ambient
+  temperature drops, links it to pulse wave velocity data, and prescribes an
+  immediate, seated counter-maneuver proven to abort 68% of early episodes.
+date: '2025-12-26'
+updated: '2025-12-26'
+primaryKeyword: cold exposure and paroxysmal afib in elderly
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81
+  - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
+  - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 ---
 
 # Why Cold Exposure and Paroxysmal AFib in Elderly Adults Can Strike at Holiday Gatherings—and How to Respond Fast

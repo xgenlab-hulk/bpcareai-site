@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: 'My BP Is Fine Because My Doctor Never Mentioned It' in Adults 54–67 With Elevated Pulse Pressure and Normal Office SBP/DBP"
-slug: "myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp"
-description: "Exposes the clinical blind spot of isolated pulse pressure elevation — linking it to aortic stiffness, microvascular damage, and silent cerebral hypoperfusion."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["pulse pressure myth doctor not mentioning", "blood pressure", "pulse-pressure-awareness"]
-primaryKeyword: "pulse pressure myth doctor not mentioning"
-topicCluster: "pulse-pressure-awareness"
-image: ""
-relatedSlugs: ["myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65", "blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75", "the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis", "myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge"]
+title: >-
+  Myths vs Facts: 'My BP Is Fine Because My Doctor Never Mentioned It' in Adults
+  54–67 With Elevated Pulse Pressure and Normal Office SBP/DBP
+slug: >-
+  myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
+description: >-
+  Exposes the clinical blind spot of isolated pulse pressure elevation — linking
+  it to aortic stiffness, microvascular damage, and silent cerebral
+  hypoperfusion.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: pulse pressure myth doctor not mentioning
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+  - >-
+    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  - >-
+    the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
 ---
 
 # “My BP Is Fine Because My Doctor Never Mentioned It” — Understanding the Pulse Pressure Myth Doctor Not Mentioning

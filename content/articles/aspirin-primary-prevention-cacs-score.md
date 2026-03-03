@@ -11,12 +11,8 @@ description: >-
   mortality—using decision curve analysis visuals.
 date: '2025-12-28'
 updated: '2025-12-28'
-tags:
-  - aspirin primary prevention cacs score
-  - heart disease
-  - aspirin-risk-benefit-decision
 primaryKeyword: aspirin primary prevention cacs score
-topicCluster: aspirin-risk-benefit-decision
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

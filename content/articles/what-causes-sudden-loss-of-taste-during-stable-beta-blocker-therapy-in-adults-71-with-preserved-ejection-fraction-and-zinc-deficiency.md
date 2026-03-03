@@ -10,12 +10,8 @@ description: >-
   taste distortion in older adults on heart failure meds.
 date: '2026-01-16'
 updated: '2026-01-16'
-tags:
-  - loss of taste beta blocker therapy seniors
-  - heart disease
-  - medication-side-effects-sensory
 primaryKeyword: loss of taste beta blocker therapy seniors
-topicCluster: medication-side-effects-sensory
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-

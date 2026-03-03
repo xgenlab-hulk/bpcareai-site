@@ -10,12 +10,8 @@ description: >-
   reduction.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - gut microbiome and heart failure prediction
-  - heart disease
-  - gut-heart-axis-prevention
 primaryKeyword: gut microbiome and heart failure prediction
-topicCluster: gut-heart-axis-prevention
+topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-

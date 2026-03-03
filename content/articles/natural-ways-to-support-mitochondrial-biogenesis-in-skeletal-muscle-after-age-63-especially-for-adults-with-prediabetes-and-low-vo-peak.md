@@ -1,14 +1,29 @@
 ---
-title: "Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle After Age 63 — Especially for Adults With Prediabetes and Low VO₂ Peak"
-slug: "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak"
-description: "Covers targeted nutritional co-factors (e.g., PQQ + ALA timing), cold exposure windows, and resistance training intensity thresholds shown to upregulate PGC-1α in aging muscle — with home-based feasibility tips."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["mitochondrial biogenesis prediabetes over 63", "diabetes", "cellular-aging-metabolism"]
-primaryKeyword: "mitochondrial biogenesis prediabetes over 63"
-topicCluster: "cellular-aging-metabolism"
-image: ""
-relatedSlugs: ["natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing", "how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study", "natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70"]
+title: >-
+  Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle After Age
+  63 — Especially for Adults With Prediabetes and Low VO₂ Peak
+slug: >-
+  natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
+description: >-
+  Covers targeted nutritional co-factors (e.g., PQQ + ALA timing), cold exposure
+  windows, and resistance training intensity thresholds shown to upregulate
+  PGC-1α in aging muscle — with home-based feasibility tips.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: mitochondrial biogenesis prediabetes over 63
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
+  - >-
+    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
 ---
 
 # Supporting Mitochondrial Biogenesis in Skeletal Muscle After 63 — Especially With Prediabetes and Low VO₂ Peak

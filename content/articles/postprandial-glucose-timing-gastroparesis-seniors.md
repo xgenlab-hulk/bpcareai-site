@@ -1,14 +1,30 @@
 ---
-title: "12 Science-Backed Times to Measure Postprandial Glucose *After* Dinner — Not Just at 2 Hours — for Adults 67+ With Gastroparesis-Like Symptoms and Variable Gastric Emptying"
-slug: "12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying"
-description: "Introduces gastric emptying–adjusted glucose sampling windows using symptom diaries and breath acetone correlations to capture true peak excursions in delayed digestion."
-date: "2026-02-10"
-updated: "2026-02-10"
-tags: ["postprandial glucose timing gastroparesis seniors", "diabetes", "glucose-monitoring-timing-gastroparesis"]
-primaryKeyword: "postprandial glucose timing gastroparesis seniors"
-topicCluster: "glucose-monitoring-timing-gastroparesis"
-image: ""
-relatedSlugs: ["12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia", "12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms", "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists", "how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying", "how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment"]
+title: >-
+  12 Science-Backed Times to Measure Postprandial Glucose *After* Dinner — Not
+  Just at 2 Hours — for Adults 67+ With Gastroparesis-Like Symptoms and Variable
+  Gastric Emptying
+slug: >-
+  12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying
+description: >-
+  Introduces gastric emptying–adjusted glucose sampling windows using symptom
+  diaries and breath acetone correlations to capture true peak excursions in
+  delayed digestion.
+date: '2026-02-10'
+updated: '2026-02-10'
+primaryKeyword: postprandial glucose timing gastroparesis seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia
+  - >-
+    12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms
+  - >-
+    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
+  - >-
+    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
+  - >-
+    how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment
 ---
 
 # When to Check Your Blood Sugar After Dinner: A Smarter Approach for Seniors With Sluggish Digestion

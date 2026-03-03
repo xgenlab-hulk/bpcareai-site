@@ -6,12 +6,8 @@ description: >-
   tests and lifestyle changes can help manage it.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - inflammation and heart disease in seniors
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: inflammation and heart disease in seniors
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart

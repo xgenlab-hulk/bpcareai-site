@@ -1,14 +1,29 @@
 ---
-title: "Simple Steps to Reduce Holiday Meal-Related Microaspiration Risk in Adults 76+ With Mild Vocal Fold Atrophy and Silent GERD"
-slug: "simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd"
-description: "Offers voice-preserving, texture-modified holiday food prep techniques (e.g., moisture-locking methods, safe swallowing cues, ambient humidity management) tailored to age-related laryngeal changes."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["reduce microaspiration holiday meals seniors", "healthy holiday eating for seniors", "swallowing-safety-vocal-atrophy"]
-primaryKeyword: "reduce microaspiration holiday meals seniors"
-topicCluster: "swallowing-safety-vocal-atrophy"
-image: ""
-relatedSlugs: ["how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation", "5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment", "10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia", "simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning", "when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia"]
+title: >-
+  Simple Steps to Reduce Holiday Meal-Related Microaspiration Risk in Adults 76+
+  With Mild Vocal Fold Atrophy and Silent GERD
+slug: >-
+  simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
+description: >-
+  Offers voice-preserving, texture-modified holiday food prep techniques (e.g.,
+  moisture-locking methods, safe swallowing cues, ambient humidity management)
+  tailored to age-related laryngeal changes.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: reduce microaspiration holiday meals seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
+  - >-
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
+  - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
+  - >-
+    simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
+  - >-
+    when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia
 ---
 
 # Gentle, Joyful Ways to Reduce Microaspiration Holiday Meals Seniors Can Enjoy Safely

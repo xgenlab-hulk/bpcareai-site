@@ -6,12 +6,8 @@ description: >-
   long-term health issues in aging populations.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - food traditions and disease risk
-  - healthy eating during family gatherings
-  - cultural-diet-impact
 primaryKeyword: food traditions and disease risk
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor

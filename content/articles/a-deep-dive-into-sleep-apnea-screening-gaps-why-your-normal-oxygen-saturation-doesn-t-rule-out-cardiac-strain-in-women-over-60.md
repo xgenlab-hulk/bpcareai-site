@@ -10,12 +10,8 @@ description: >-
   more for HF risk.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - sleep apnea screening women heart strain
-  - heart health
-  - diagnostic-gaps-gender-specific
 primaryKeyword: sleep apnea screening women heart strain
-topicCluster: diagnostic-gaps-gender-specific
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50

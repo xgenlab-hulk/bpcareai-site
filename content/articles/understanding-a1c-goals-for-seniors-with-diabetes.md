@@ -6,12 +6,8 @@ description: >-
   health and comorbidities.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - A1C targets for elderly with diabetes
-  - diabetes
-  - diabetes-management
 primaryKeyword: A1C targets for elderly with diabetes
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics

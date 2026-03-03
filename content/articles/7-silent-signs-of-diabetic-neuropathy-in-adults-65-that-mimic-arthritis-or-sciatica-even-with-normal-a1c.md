@@ -1,14 +1,27 @@
 ---
-title: "7 Silent Signs of Diabetic Neuropathy in Adults 65+ That Mimic Arthritis or Sciatica — Even With Normal A1c"
-slug: "7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c"
-description: "Explores subtle, often misdiagnosed early symptoms of nerve damage in older adults with well-controlled blood sugar, emphasizing differential diagnosis from musculoskeletal pain."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["diabetic neuropathy silent signs older adults", "diabetes", "complications-differential-diagnosis"]
-primaryKeyword: "diabetic neuropathy silent signs older adults"
-topicCluster: "complications-differential-diagnosis"
-image: ""
-relatedSlugs: ["7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older", "recognizing-silent-heart-attacks-in-diabetics-over-60", "7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy", "diabetes-and-joint-pain-is-there-a-connection", "7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin"]
+title: >-
+  7 Silent Signs of Diabetic Neuropathy in Adults 65+ That Mimic Arthritis or
+  Sciatica — Even With Normal A1c
+slug: >-
+  7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
+description: >-
+  Explores subtle, often misdiagnosed early symptoms of nerve damage in older
+  adults with well-controlled blood sugar, emphasizing differential diagnosis
+  from musculoskeletal pain.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: diabetic neuropathy silent signs older adults
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
+  - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
+  - diabetes-and-joint-pain-is-there-a-connection
+  - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
 ---
 
 # 7 Subtle Early Signs of Diabetic Neuropathy in Older Adults — Often Mistaken for Arthritis or Sciatica

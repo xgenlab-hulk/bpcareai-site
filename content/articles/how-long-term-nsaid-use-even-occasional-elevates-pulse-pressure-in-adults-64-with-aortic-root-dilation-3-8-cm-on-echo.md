@@ -1,14 +1,29 @@
 ---
-title: "How Long-Term NSAID Use (Even Occasional) Elevates Pulse Pressure in Adults 64+ With Aortic Root Dilation >3.8 cm on Echo"
-slug: "how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo"
-description: "Links COX-2 inhibition to impaired elastin repair, MMP-9 upregulation, and reduced aortic compliance—highlighting pulse pressure >65 mmHg as an early marker of aortopathy progression."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["nsaid use pulse pressure aortic root dilation", "blood pressure", "medications-supplements"]
-primaryKeyword: "nsaid use pulse pressure aortic root dilation"
-topicCluster: "medications-supplements"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness", "the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis", "myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75", "how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication"]
+title: >-
+  How Long-Term NSAID Use (Even Occasional) Elevates Pulse Pressure in Adults
+  64+ With Aortic Root Dilation >3.8 cm on Echo
+slug: >-
+  how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo
+description: >-
+  Links COX-2 inhibition to impaired elastin repair, MMP-9 upregulation, and
+  reduced aortic compliance—highlighting pulse pressure >65 mmHg as an early
+  marker of aortopathy progression.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: nsaid use pulse pressure aortic root dilation
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
+  - >-
+    the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  - >-
+    how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication
 ---
 
 # How NSAID Use Affects Pulse Pressure in Older Adults With Aortic Root Dilation

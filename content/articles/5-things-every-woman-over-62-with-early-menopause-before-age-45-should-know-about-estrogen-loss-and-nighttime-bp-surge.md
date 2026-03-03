@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Woman Over 62 With Early Menopause (Before Age 45) Should Know About Estrogen Loss and Nighttime BP Surge"
-slug: "5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge"
-description: "Explains how premature ovarian insufficiency accelerates sympathetic hyperactivity and impairs nocturnal renin suppression—and why nighttime ambulatory monitoring is non-negotiable post-menopause."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["early menopause nighttime blood pressure surge", "blood pressure", "gender-specific-concerns"]
-primaryKeyword: "early menopause nighttime blood pressure surge"
-topicCluster: "gender-specific-concerns"
-image: ""
-relatedSlugs: ["5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know", "what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine", "5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension", "how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance", "blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short"]
+title: >-
+  5 Things Every Woman Over 62 With Early Menopause (Before Age 45) Should Know
+  About Estrogen Loss and Nighttime BP Surge
+slug: >-
+  5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
+description: >-
+  Explains how premature ovarian insufficiency accelerates sympathetic
+  hyperactivity and impairs nocturnal renin suppression—and why nighttime
+  ambulatory monitoring is non-negotiable post-menopause.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: early menopause nighttime blood pressure surge
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know
+  - >-
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
+  - >-
+    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
+  - >-
+    how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
+  - >-
+    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
 ---
 
 # What Every Woman Over 62 with Early Menopause Needs to Know About the Early Menopause Nighttime Blood Pressure Surge

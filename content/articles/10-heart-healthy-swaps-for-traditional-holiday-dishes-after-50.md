@@ -6,10 +6,6 @@ description: >-
   and sugar in classic holiday recipes for better heart outcomes.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - heart-healthy holiday recipe swaps
-  - holiday heart syndrome prevention
-  - cardiac-diet
 primaryKeyword: heart-healthy holiday recipe swaps
 topicCluster: cardiovascular-health
 image: ''

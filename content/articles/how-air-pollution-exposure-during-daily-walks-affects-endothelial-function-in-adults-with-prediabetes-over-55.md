@@ -9,12 +9,8 @@ description: >-
   real-world walking route optimization tools for urban seniors.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - air pollution endothelial function prediabetes
-  - heart health
-  - environmental-risk-factors
 primaryKeyword: air pollution endothelial function prediabetes
-topicCluster: environmental-risk-factors
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults

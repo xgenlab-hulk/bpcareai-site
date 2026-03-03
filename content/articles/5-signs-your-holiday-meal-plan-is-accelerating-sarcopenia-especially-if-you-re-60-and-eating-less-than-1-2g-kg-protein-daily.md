@@ -1,14 +1,27 @@
 ---
-title: "5 Signs Your Holiday Meal Plan Is Accelerating Sarcopenia—Especially If You're 60+ and Eating Less Than 1.2g/kg Protein Daily"
-slug: "5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily"
-description: "Identifies subtle behavioral and physiological red flags (e.g., prolonged chewing time, postprandial fatigue duration) linked to inadequate protein distribution and muscle protein synthesis suppression during festive weeks."
-date: "2025-12-31"
-updated: "2025-12-31"
-tags: ["sarcopenia warning signs holiday eating", "healthy holiday eating for seniors", "muscle-health-protein-distribution"]
-primaryKeyword: "sarcopenia warning signs holiday eating"
-topicCluster: "muscle-health-protein-distribution"
-image: ""
-relatedSlugs: ["5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60", "warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines", "what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors", "myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors", "simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease"]
+title: >-
+  5 Signs Your Holiday Meal Plan Is Accelerating Sarcopenia—Especially If You're
+  60+ and Eating Less Than 1.2g/kg Protein Daily
+slug: >-
+  5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
+description: >-
+  Identifies subtle behavioral and physiological red flags (e.g., prolonged
+  chewing time, postprandial fatigue duration) linked to inadequate protein
+  distribution and muscle protein synthesis suppression during festive weeks.
+date: '2025-12-31'
+updated: '2025-12-31'
+primaryKeyword: sarcopenia warning signs holiday eating
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
+  - what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
+  - >-
+    myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
 ---
 
 # 5 Subtle Sarcopenia Warning Signs Holiday Eating Might Be Triggering—Especially After 60

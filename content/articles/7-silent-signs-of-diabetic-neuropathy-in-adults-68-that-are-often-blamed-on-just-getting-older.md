@@ -1,14 +1,27 @@
 ---
-title: "7 Silent Signs of Diabetic Neuropathy in Adults 68+ That Are Often Blamed on 'Just Getting Older'"
-slug: "7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older"
-description: "This article identifies subtle, easily overlooked early symptoms of nerve damage in older adults with type 2 diabetes — and explains why mistaking them for normal aging delays diagnosis and accelerates disability."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["silent signs diabetic neuropathy elderly", "diabetes", "neurological-complications-elderly"]
-primaryKeyword: "silent signs diabetic neuropathy elderly"
-topicCluster: "neurological-complications-elderly"
-image: ""
-relatedSlugs: ["recognizing-silent-heart-attacks-in-diabetics-over-60", "7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy", "7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin", "what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes", "how-kidney-function-declines-faster-in-older-adults-with-diabetes"]
+title: >-
+  7 Silent Signs of Diabetic Neuropathy in Adults 68+ That Are Often Blamed on
+  'Just Getting Older'
+slug: >-
+  7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older
+description: >-
+  This article identifies subtle, easily overlooked early symptoms of nerve
+  damage in older adults with type 2 diabetes — and explains why mistaking them
+  for normal aging delays diagnosis and accelerates disability.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: silent signs diabetic neuropathy elderly
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
+  - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
+  - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
+  - >-
+    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
+  - how-kidney-function-declines-faster-in-older-adults-with-diabetes
 ---
 
 # 7 Silent Signs of Diabetic Neuropathy in Older Adults — Why These “Just Getting Older” Symptoms Might Actually Be Early Nerve Damage  

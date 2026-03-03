@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Activate Endothelial K+ Channels (KCa2.3/KCa3.1) to Promote Vasodilation — For Adults 60+ With Endothelial Dysfunction Confirmed by FMD"
-slug: "10-foods-that-activate-endothelial-k-channels-kca2-3-kca3-1-to-promote-vasodilation-for-adults-60-with-endothelial-dysfunction-confirmed-by-fmd"
-description: "Highlights potassium-channel-activating phytochemicals (e.g., apigenin, quercetin glycosides) and synergistic food matrices — with bioavailability optimization tips."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["foods activate endothelial potassium channels", "blood pressure", "endothelial-ion-channel-nutrition"]
-primaryKeyword: "foods activate endothelial potassium channels"
-topicCluster: "endothelial-ion-channel-nutrition"
-image: ""
-relatedSlugs: ["10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl", "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina", "10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes", "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling"]
+title: >-
+  10 Foods That Activate Endothelial K+ Channels (KCa2.3/KCa3.1) to Promote
+  Vasodilation — For Adults 60+ With Endothelial Dysfunction Confirmed by FMD
+slug: >-
+  10-foods-that-activate-endothelial-k-channels-kca2-3-kca3-1-to-promote-vasodilation-for-adults-60-with-endothelial-dysfunction-confirmed-by-fmd
+description: >-
+  Highlights potassium-channel-activating phytochemicals (e.g., apigenin,
+  quercetin glycosides) and synergistic food matrices — with bioavailability
+  optimization tips.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: foods activate endothelial potassium channels
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+  - >-
+    10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
 ---
 
 # Foods That Activate Endothelial Potassium Channels — A Gentle, Science-Supported Approach for Adults 60+ With Verified Endothelial Dysfunction

@@ -1,14 +1,28 @@
 ---
-title: "5 Foods That Support Gut Microbiome Resilience *During* Multi-Day Family Gatherings — For Adults 55–69 With IBS-D and Seasonal Stress-Induced Flares"
-slug: "5-foods-that-support-gut-microbiome-resilience-during-multi-day-family-gatherings-for-adults-55-69-with-ibs-d-and-seasonal-stress-induced-flares"
-description: "Highlights clinically studied, travel-friendly whole foods (e.g., cold-pressed sauerkraut, roasted fennel, pear skin) that modulate bile acid metabolism and reduce stress-related motilin spikes."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["gut health foods for holiday IBS", "healthy eating during family gatherings", "gut-microbiome-diet"]
-primaryKeyword: "gut health foods for holiday IBS"
-topicCluster: "gut-microbiome-diet"
-image: ""
-relatedSlugs: ["best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption", "quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs", "quick-ways-to-reset-gut-microbiome-after-a-weekend-of-family-feasting-for-adults-63-with-history-of-antibiotic-use-and-low-fiber-diets", "10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia", "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd"]
+title: >-
+  5 Foods That Support Gut Microbiome Resilience *During* Multi-Day Family
+  Gatherings — For Adults 55–69 With IBS-D and Seasonal Stress-Induced Flares
+slug: >-
+  5-foods-that-support-gut-microbiome-resilience-during-multi-day-family-gatherings-for-adults-55-69-with-ibs-d-and-seasonal-stress-induced-flares
+description: >-
+  Highlights clinically studied, travel-friendly whole foods (e.g., cold-pressed
+  sauerkraut, roasted fennel, pear skin) that modulate bile acid metabolism and
+  reduce stress-related motilin spikes.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: gut health foods for holiday IBS
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption
+  - >-
+    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
+  - >-
+    quick-ways-to-reset-gut-microbiome-after-a-weekend-of-family-feasting-for-adults-63-with-history-of-antibiotic-use-and-low-fiber-diets
+  - >-
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
 ---
 
 # Gut Health Foods for Holiday IBS: 5 Science-Supported Choices to Support Microbiome Resilience During Family Gatherings

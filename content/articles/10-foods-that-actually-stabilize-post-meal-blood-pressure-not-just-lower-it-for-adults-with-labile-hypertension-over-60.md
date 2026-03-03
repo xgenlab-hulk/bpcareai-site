@@ -1,14 +1,26 @@
 ---
-title: "10 Foods That Actually *Stabilize* Post-Meal Blood Pressure—Not Just Lower It—For Adults With Labile Hypertension Over 60"
-slug: "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60"
-description: "A nutrient-focused list highlighting foods with synergistic potassium-magnesium-calcium ratios, nitrates, and polyphenols shown in ambulatory BP studies to reduce *variability*, not just mean values."
-date: "2025-12-23"
-updated: "2025-12-23"
-tags: ["stabilize post-meal blood pressure seniors", "healthy eating during family gatherings", "blood-pressure-variability-nutrition"]
-primaryKeyword: "stabilize post-meal blood pressure seniors"
-topicCluster: "blood-pressure-variability-nutrition"
-image: ""
-relatedSlugs: ["top-5-winter-superfoods-that-naturally-lower-blood-pressure", "the-role-of-potassium-in-managing-blood-pressure-after-50", "5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium", "how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors", "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension"]
+title: >-
+  10 Foods That Actually *Stabilize* Post-Meal Blood Pressure—Not Just Lower
+  It—For Adults With Labile Hypertension Over 60
+slug: >-
+  10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
+description: >-
+  A nutrient-focused list highlighting foods with synergistic
+  potassium-magnesium-calcium ratios, nitrates, and polyphenols shown in
+  ambulatory BP studies to reduce *variability*, not just mean values.
+date: '2025-12-23'
+updated: '2025-12-23'
+primaryKeyword: stabilize post-meal blood pressure seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - top-5-winter-superfoods-that-naturally-lower-blood-pressure
+  - the-role-of-potassium-in-managing-blood-pressure-after-50
+  - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
+  - >-
+    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
+  - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
 ---
 
 # 10 Foods That Help Stabilize Post-Meal Blood Pressure in Seniors—Especially With Labile Hypertension

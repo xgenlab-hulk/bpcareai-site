@@ -1,14 +1,29 @@
 ---
-title: "Simple Steps to Adjust Your Holiday Meal Timing for Optimal Circadian Glucose Rhythms in Adults 73+ With Advanced Sleep Phase Syndrome"
-slug: "simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome"
-description: "Guidance on shifting dinner 90 minutes earlier, pairing with morning light exposure, and selecting time-restricted eating windows that align with endogenous melatonin onset."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["meal timing circadian glucose seniors", "healthy holiday eating for seniors", "chrononutrition-elderly"]
-primaryKeyword: "meal timing circadian glucose seniors"
-topicCluster: "chrononutrition-elderly"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols", "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70", "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it", "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia"]
+title: >-
+  Simple Steps to Adjust Your Holiday Meal Timing for Optimal Circadian Glucose
+  Rhythms in Adults 73+ With Advanced Sleep Phase Syndrome
+slug: >-
+  simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
+description: >-
+  Guidance on shifting dinner 90 minutes earlier, pairing with morning light
+  exposure, and selecting time-restricted eating windows that align with
+  endogenous melatonin onset.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: meal timing circadian glucose seniors
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
+  - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+  - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
 ---
 
 # How Adjusting Meal Timing Can Support Circadian Glucose Rhythms in Seniors 73+ — A Gentle Guide to Healthy Holiday Eating for Seniors

@@ -8,12 +8,8 @@ description: >-
   wellness tool for older adults with hypertension.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - sauna and blood pressure
-  - senior blood pressure control in winter
-  - alternative-therapies
 primaryKeyword: sauna and blood pressure
-topicCluster: treatment-interventions
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - blood-pressure-management-for-sedentary-seniors-in-winter-months

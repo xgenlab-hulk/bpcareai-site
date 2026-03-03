@@ -6,12 +6,8 @@ description: >-
   long-term health, especially for people with diabetes or heart concerns.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - cheating on diet occasional basis
-  - healthy eating during family gatherings
-  - diet-myths-facts
 primaryKeyword: cheating on diet occasional basis
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

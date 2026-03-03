@@ -1,14 +1,27 @@
 ---
-title: "5 Things Every Woman Over 65 With Menopause-Related Vasomotor Symptoms and Nighttime BP Surge Should Know"
-slug: "5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know"
-description: "Connects hot flash frequency, nocturnal sympathetic surges, and non-dipping BP — with evidence-based cooling, breathing, and hormonal context strategies."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["menopause nighttime blood pressure surge", "blood pressure", "menopause-bp-symptoms"]
-primaryKeyword: "menopause nighttime blood pressure surge"
-topicCluster: "menopause-bp-symptoms"
-image: ""
-relatedSlugs: ["5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension", "quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp", "blood-pressure-changes-during-menopause-what-women-should-know", "what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension", "quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns"]
+title: >-
+  5 Things Every Woman Over 65 With Menopause-Related Vasomotor Symptoms and
+  Nighttime BP Surge Should Know
+slug: >-
+  5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know
+description: >-
+  Connects hot flash frequency, nocturnal sympathetic surges, and non-dipping BP
+  — with evidence-based cooling, breathing, and hormonal context strategies.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: menopause nighttime blood pressure surge
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
+  - >-
+    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
+  - blood-pressure-changes-during-menopause-what-women-should-know
+  - >-
+    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
+  - >-
+    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
 ---
 
 # What Every Woman Over 65 Should Know About Menopause Nighttime Blood Pressure Surge

@@ -1,14 +1,29 @@
 ---
-title: "How Late-Night Eggnog Consumption Alters Circadian Insulin Secretion Patterns in Adults 67+ With Long-Standing Type 2 Diabetes"
-slug: "how-late-night-eggnog-consumption-alters-circadian-insulin-secretion-patterns-in-adults-67-with-long-standing-type-2-diabetes"
-description: "Examines the chronobiological disruption caused by high-fat, high-sugar nocturnal beverages — including effects on beta-cell pulsatility, melatonin-glucose crosstalk, and next-morning fasting hyperglycemia."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["late-night eggnog and insulin secretion", "holiday diabetes management", "circadian-metabolism"]
-primaryKeyword: "late-night eggnog and insulin secretion"
-topicCluster: "circadian-metabolism"
-image: ""
-relatedSlugs: ["how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history", "how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes", "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s", "how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance", "how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms"]
+title: >-
+  How Late-Night Eggnog Consumption Alters Circadian Insulin Secretion Patterns
+  in Adults 67+ With Long-Standing Type 2 Diabetes
+slug: >-
+  how-late-night-eggnog-consumption-alters-circadian-insulin-secretion-patterns-in-adults-67-with-long-standing-type-2-diabetes
+description: >-
+  Examines the chronobiological disruption caused by high-fat, high-sugar
+  nocturnal beverages — including effects on beta-cell pulsatility,
+  melatonin-glucose crosstalk, and next-morning fasting hyperglycemia.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: late-night eggnog and insulin secretion
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history
+  - >-
+    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+  - >-
+    how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance
+  - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
 ---
 
 # How Late-Night Eggnog Affects Insulin Secretion and Circadian Rhythms in Older Adults With Type 2 Diabetes

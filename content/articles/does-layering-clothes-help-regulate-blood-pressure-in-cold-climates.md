@@ -6,12 +6,8 @@ description: >-
   pressure stability in seniors exposed to winter conditions.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - layering clothes and blood pressure
-  - senior blood pressure control in winter
-  - seasonal-prevention
 primaryKeyword: layering clothes and blood pressure
-topicCluster: preventive-care
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know

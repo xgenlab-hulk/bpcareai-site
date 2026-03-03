@@ -9,12 +9,8 @@ description: >-
   supplementation may improve mood outcomes.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - vitamin d deficiency in nursing homes
-  - seasonal depression in older adults
-  - diet-nutrition
 primaryKeyword: vitamin d deficiency in nursing homes
-topicCluster: nutrition-diet
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter

@@ -9,12 +9,8 @@ description: >-
   relatives who may not understand health-based diets.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - discussing dietary limits with family
-  - healthy eating during family gatherings
-  - social-emotional-health
 primaryKeyword: discussing dietary limits with family
-topicCluster: mental-wellness
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices

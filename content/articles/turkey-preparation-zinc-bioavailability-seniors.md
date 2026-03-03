@@ -11,12 +11,8 @@ description: >-
   aged 65–85 with subclinical zinc deficiency.
 date: '2025-12-31'
 updated: '2025-12-31'
-tags:
-  - turkey preparation zinc bioavailability seniors
-  - healthy holiday eating for seniors
-  - micronutrient-bioavailability
 primaryKeyword: turkey preparation zinc bioavailability seniors
-topicCluster: micronutrient-bioavailability
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-

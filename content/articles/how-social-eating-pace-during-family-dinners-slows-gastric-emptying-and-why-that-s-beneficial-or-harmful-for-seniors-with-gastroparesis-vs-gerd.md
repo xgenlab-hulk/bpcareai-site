@@ -1,14 +1,29 @@
 ---
-title: "How Social Eating Pace During Family Dinners Slows Gastric Emptying — And Why That’s Beneficial (or Harmful) for Seniors With Gastroparesis vs. GERD"
-slug: "how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd"
-description: "Analyzes how conversational meal rhythm modulates gastric motilin release and vagal tone, with actionable guidance for pacing based on upper GI comorbidity profiles."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["social eating pace seniors gastroparesis", "healthy holiday eating for seniors", "gastric-motility-behavior"]
-primaryKeyword: "social eating pace seniors gastroparesis"
-topicCluster: "gastric-motility-behavior"
-image: ""
-relatedSlugs: ["natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms", "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70", "how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65"]
+title: >-
+  How Social Eating Pace During Family Dinners Slows Gastric Emptying — And Why
+  That’s Beneficial (or Harmful) for Seniors With Gastroparesis vs. GERD
+slug: >-
+  how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd
+description: >-
+  Analyzes how conversational meal rhythm modulates gastric motilin release and
+  vagal tone, with actionable guidance for pacing based on upper GI comorbidity
+  profiles.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: social eating pace seniors gastroparesis
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
+  - >-
+    how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
 ---
 
 # How Social Eating Pace in Seniors Affects Digestion — What It Means for Gastroparesis, GERD, and Healthy Holiday Eating

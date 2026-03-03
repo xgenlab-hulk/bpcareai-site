@@ -39,7 +39,6 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: article.description,
       type: 'article',
       publishedTime: article.date,
-      tags: article.tags,
     },
   };
 }
@@ -129,19 +128,6 @@ export default async function ArticlePage({ params }: PageProps) {
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
             {article.description}
           </p>
-
-          {article.tags.length > 0 && (
-            <div className="flex gap-2 flex-wrap">
-              {article.tags.map((tag) => (
-                <span
-                  key={tag}
-                  className="px-4 py-2 bg-brand-blue-light text-brand-blue-dark rounded-full"
-                >
-                  {tag}
-                </span>
-              ))}
-            </div>
-          )}
         </header>
 
         {/* Article Content */}

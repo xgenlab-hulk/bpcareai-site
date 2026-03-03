@@ -1,14 +1,28 @@
 ---
-title: "Best Low-FODMAP, High-Protein Holiday Snacks for Women 58+ With IBS-D and Post-Cholecystectomy Bile Acid Malabsorption"
-slug: "best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption"
-description: "Curated list of festive, non-fermentable, bile-tolerant options—like smoked salmon roll-ups with dill cream cheese and roasted chestnuts—that prevent cramping and diarrhea flare-ups."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["low-fodmap holiday snacks seniors ibs", "healthy holiday eating for seniors", "gastrointestinal-diet-snacks"]
-primaryKeyword: "low-fodmap holiday snacks seniors ibs"
-topicCluster: "gastrointestinal-diet-snacks"
-image: ""
-relatedSlugs: ["best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd", "best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation", "best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption", "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs", "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation"]
+title: >-
+  Best Low-FODMAP, High-Protein Holiday Snacks for Women 58+ With IBS-D and
+  Post-Cholecystectomy Bile Acid Malabsorption
+slug: >-
+  best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption
+description: >-
+  Curated list of festive, non-fermentable, bile-tolerant options—like smoked
+  salmon roll-ups with dill cream cheese and roasted chestnuts—that prevent
+  cramping and diarrhea flare-ups.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: low-fodmap holiday snacks seniors ibs
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+  - >-
+    best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 ---
 
 # Low-FODMAP Holiday Snacks for Seniors with IBS: Gentle, Festive & Gut-Friendly Bites

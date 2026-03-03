@@ -1,14 +1,28 @@
 ---
-title: "What Are the Earliest Signs of Holiday-Induced Hypercoagulability in Adults 71+ With Atrial Fibrillation and Sedentary Winter Habits?"
-slug: "what-are-the-earliest-signs-of-holiday-induced-hypercoagulability-in-adults-71-with-atrial-fibrillation-and-sedentary-winter-habits"
-description: "Identifies subtle clinical clues (e.g., unilateral calf tightness, worsening varicose discomfort, morning finger swelling) and safe, mobility-integrated thromboprophylaxis strategies."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["holiday hypercoagulability afib seniors", "healthy holiday eating for seniors", "early-symptoms-coagulation-risk"]
-primaryKeyword: "holiday hypercoagulability afib seniors"
-topicCluster: "early-symptoms-coagulation-risk"
-image: ""
-relatedSlugs: ["how-cold-weather-and-holiday-feasting-jointly-elevate-stroke-risk-in-seniors-with-atrial-fibrillation", "natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp"]
+title: >-
+  What Are the Earliest Signs of Holiday-Induced Hypercoagulability in Adults
+  71+ With Atrial Fibrillation and Sedentary Winter Habits?
+slug: >-
+  what-are-the-earliest-signs-of-holiday-induced-hypercoagulability-in-adults-71-with-atrial-fibrillation-and-sedentary-winter-habits
+description: >-
+  Identifies subtle clinical clues (e.g., unilateral calf tightness, worsening
+  varicose discomfort, morning finger swelling) and safe, mobility-integrated
+  thromboprophylaxis strategies.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: holiday hypercoagulability afib seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    how-cold-weather-and-holiday-feasting-jointly-elevate-stroke-risk-in-seniors-with-atrial-fibrillation
+  - >-
+    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
 ---
 
 # Recognizing Early Signs of Holiday Hypercoagulability in Seniors with Atrial Fibrillation

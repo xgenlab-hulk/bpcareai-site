@@ -1,14 +1,30 @@
 ---
-title: "How Grandchildren’s Candy Requests Alter Postprandial Glucose Trajectories in Adults 62+ With Early Prediabetes — And What to Serve Instead of Chocolate-Covered Almonds"
-slug: "how-grandchildren-s-candy-requests-alter-postprandial-glucose-trajectories-in-adults-62-with-early-prediabetes-and-what-to-serve-instead-of-chocolate-covered-almonds"
-description: "Explores the intergenerational behavioral triggers that spike blood sugar during holiday meals, with practical, low-glycemic alternatives backed by glycemic index data and real-world family testing."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["postprandial glucose family gatherings prediabetes", "healthy eating during family gatherings", "behavioral-nutrition-glucose"]
-primaryKeyword: "postprandial glucose family gatherings prediabetes"
-topicCluster: "behavioral-nutrition-glucose"
-image: ""
-relatedSlugs: ["how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes", "7-hidden-triggers-of-after-dinner-blood-sugar-spikes-at-family-dinners-and-how-to-neutralize-them-without-skipping-dessert", "how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58", "how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55", "7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels"]
+title: >-
+  How Grandchildren’s Candy Requests Alter Postprandial Glucose Trajectories in
+  Adults 62+ With Early Prediabetes — And What to Serve Instead of
+  Chocolate-Covered Almonds
+slug: >-
+  how-grandchildren-s-candy-requests-alter-postprandial-glucose-trajectories-in-adults-62-with-early-prediabetes-and-what-to-serve-instead-of-chocolate-covered-almonds
+description: >-
+  Explores the intergenerational behavioral triggers that spike blood sugar
+  during holiday meals, with practical, low-glycemic alternatives backed by
+  glycemic index data and real-world family testing.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: postprandial glucose family gatherings prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
+  - >-
+    7-hidden-triggers-of-after-dinner-blood-sugar-spikes-at-family-dinners-and-how-to-neutralize-them-without-skipping-dessert
+  - >-
+    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
 ---
 
 # How Holiday Candy Requests Affect Postprandial Glucose in Adults 62+ With Prediabetes — And What to Serve Instead

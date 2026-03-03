@@ -6,10 +6,6 @@ description: >-
   issues in older adults.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - fingernail health and heart disease signs
-  - heart health
-  - heart-health
 primaryKeyword: fingernail health and heart disease signs
 topicCluster: cardiovascular-health
 image: ''

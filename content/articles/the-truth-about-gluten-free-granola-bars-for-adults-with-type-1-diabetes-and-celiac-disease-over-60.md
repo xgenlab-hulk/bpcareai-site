@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Gluten-Free' Granola Bars for Adults With Type 1 Diabetes and Celiac Disease Over 60"
-slug: "the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60"
-description: "Debunks hidden glycemic pitfalls in certified GF snacks — including maltodextrin sourcing, resistant starch masking, and postprandial glucose spikes — with label-reading hacks and 3 safer homemade alternatives."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["gluten free granola bars type 1 diabetes", "diabetes", "diet-nutrition-label-literacy"]
-primaryKeyword: "gluten free granola bars type 1 diabetes"
-topicCluster: "diet-nutrition-label-literacy"
-image: ""
-relatedSlugs: ["the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging", "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70", "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose", "the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia"]
+title: >-
+  The Truth About 'Gluten-Free' Granola Bars for Adults With Type 1 Diabetes and
+  Celiac Disease Over 60
+slug: >-
+  the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
+description: >-
+  Debunks hidden glycemic pitfalls in certified GF snacks — including
+  maltodextrin sourcing, resistant starch masking, and postprandial glucose
+  spikes — with label-reading hacks and 3 safer homemade alternatives.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: gluten free granola bars type 1 diabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+  - >-
+    the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia
 ---
 
 # Choosing Safer Gluten-Free Granola Bars for Adults With Type 1 Diabetes and Celiac Disease Over 60

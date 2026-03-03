@@ -6,12 +6,8 @@ description: >-
   increase cardiac workload in aging individuals.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - winter weight gain heart
-  - winter heart health for seniors
-  - myths-vs-facts
 primaryKeyword: winter weight gain heart
-topicCluster: education-awareness
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease

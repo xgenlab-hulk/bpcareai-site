@@ -6,12 +6,8 @@ description: >-
   diabetes type and treatment plan.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - blood sugar monitoring frequency for seniors with diabetes
-  - diabetes
-  - diabetes-management
 primaryKeyword: blood sugar monitoring frequency for seniors with diabetes
-topicCluster: diabetes-care
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - how-often-should-adults-over-50-check-their-blood-pressure

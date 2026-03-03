@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Managing Diabetes During a Heatwave — For Adults 70+ With Diabetic Nephropathy and Reduced Thirst Drive"
-slug: "the-complete-guide-to-managing-diabetes-during-a-heatwave-for-adults-70-with-diabetic-nephropathy-and-reduced-thirst-drive"
-description: "Covers sodium-potassium shifts from profuse sweating, accelerated insulin degradation in unrefrigerated pens, dehydration-induced hyperosmolar state risk, and safe hydration formulas (with electrolyte ratios) — plus indoor cooling hacks for low-income seniors."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["diabetes heatwave management elderly", "diabetes", "environmental-stress-diabetes-safety"]
-primaryKeyword: "diabetes heatwave management elderly"
-topicCluster: "environmental-stress-diabetes-safety"
-image: ""
-relatedSlugs: ["the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation", "5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors", "how-dehydration-affects-blood-sugar-readings-in-older-diabetics", "10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk", "warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history"]
+title: >-
+  The Complete Guide to Managing Diabetes During a Heatwave — For Adults 70+
+  With Diabetic Nephropathy and Reduced Thirst Drive
+slug: >-
+  the-complete-guide-to-managing-diabetes-during-a-heatwave-for-adults-70-with-diabetic-nephropathy-and-reduced-thirst-drive
+description: >-
+  Covers sodium-potassium shifts from profuse sweating, accelerated insulin
+  degradation in unrefrigerated pens, dehydration-induced hyperosmolar state
+  risk, and safe hydration formulas (with electrolyte ratios) — plus indoor
+  cooling hacks for low-income seniors.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: diabetes heatwave management elderly
+topicCluster: prevention-risk-assessment
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
+  - >-
+    5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - >-
+    10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
+  - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
 ---
 
 # Staying Safe and Steady: Diabetes Heatwave Management Elderly Edition — A Gentle Guide for Seniors 70+

@@ -12,12 +12,8 @@ description: >-
   stratification.
 date: '2026-01-07'
 updated: '2026-01-07'
-tags:
-  - ECG patch vs holter asymptomatic afib
-  - heart health
-  - arrhythmia-monitoring-comparison
 primaryKeyword: ECG patch vs holter asymptomatic afib
-topicCluster: arrhythmia-monitoring-comparison
+topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-

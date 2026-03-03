@@ -1,0 +1,234 @@
+{
+  "round": 2,
+  "batch_id": 2,
+  "input_clusters": 47,
+  "output_clusters": 12,
+  "total_articles": 573,
+  "clustered_results": [
+    {
+      "core_cluster_name": "nutrition-diet-management",
+      "description": "营养和饮食管理的全面策略,包括饮食优化、营养素选择、膳食模式、循证营养科学和食品安全",
+      "rationale": "合并了营养优化、膳食管理和营养科学等高度相关的中间clusters,形成完整的营养饮食管理体系,涵盖从食物选择到营养证据的各个方面",
+      "merged_from": [
+        "nutrition-diet-optimization (91篇)",
+        "nutrition-dietary-management (40篇)",
+        "nutritional-science-evidence (9篇)",
+        "food-safety-labeling (4篇)"
+      ],
+      "total_articles": 144
+    },
+    {
+      "core_cluster_name": "diabetes-management",
+      "description": "糖尿病的综合管理,包括血糖控制、代谢支持、并发症预防和胰岛素治疗",
+      "rationale": "整合了糖尿病相关的代谢管理、血糖监测、并发症预防和胰岛素治疗,形成完整的糖尿病管理体系",
+      "merged_from": [
+        "metabolic-diabetes-management (23篇)",
+        "diabetes-glucose-management (17篇)",
+        "diabetic-complications (11篇)",
+        "insulin-therapy-management (4篇)"
+      ],
+      "total_articles": 55
+    },
+    {
+      "core_cluster_name": "treatment-interventions",
+      "description": "治疗干预措施,包括药物和非药物治疗、整合生理干预、自然疗法和治疗安全性评估",
+      "rationale": "合并了各类治疗干预措施,包括传统治疗、整合疗法和非药物干预,形成全面的治疗选择体系",
+      "merged_from": [
+        "treatment-interventions (32篇)",
+        "integrative-physiology-interventions (19篇)",
+        "nonpharmacologic-interventions (3篇)"
+      ],
+      "total_articles": 54
+    },
+    {
+      "core_cluster_name": "cardiovascular-health",
+      "description": "心血管系统整体健康,包括心脏功能、血管健康、内皮功能、血管老化和心血管疾病监测管理",
+      "rationale": "整合了心血管监测、心血管功能和血管内皮健康等高度相关内容,形成完整的心血管健康体系",
+      "merged_from": [
+        "cardiovascular-monitoring-health (17篇)",
+        "cardiovascular-function-health (15篇)",
+        "vascular-endothelial-health (15篇)"
+      ],
+      "total_articles": 47
+    },
+    {
+      "core_cluster_name": "hypertension-management",
+      "description": "高血压的全面管理,包括血压监测、血压波动控制、钠摄入管理、生活方式干预和症状识别",
+      "rationale": "合并了三个高血压相关的重复和相似clusters,避免过度细分,形成统一的高血压管理类别",
+      "merged_from": [
+        "hypertension-management (26篇)",
+        "blood-pressure-hypertension-care (12篇)",
+        "hypertension-comprehensive-management (9篇)"
+      ],
+      "total_articles": 47
+    },
+    {
+      "core_cluster_name": "complications-management",
+      "description": "疾病并发症和合并症管理,包括多器官系统影响、神经病变、感染炎症和多系统疾病",
+      "rationale": "整合了各类并发症和合并症管理,包括神经病变、多器官影响和感染炎症,形成全面的并发症管理体系",
+      "merged_from": [
+        "complications-comorbidities (20篇)",
+        "comorbidities-complications (8篇)",
+        "neuropathy-complications (5篇)",
+        "infection-inflammation-immunity (3篇)"
+      ],
+      "total_articles": 36
+    },
+    {
+      "core_cluster_name": "cardiac-disease-management",
+      "description": "特定心脏疾病管理,包括心肌病、心力衰竭、心律失常、电生理异常和心脏疾病的营养治疗",
+      "rationale": "合并了心脏并发症、心脏电生理异常和心脏营养治疗等相关内容,形成完整的心脏疾病管理体系",
+      "merged_from": [
+        "cardiac-complications-conditions (15篇)",
+        "cardiac-electrophysiology-disorders (10篇)",
+        "cardiac-nutrition-hemodynamics (8篇)"
+      ],
+      "total_articles": 33
+    },
+    {
+      "core_cluster_name": "environmental-health-factors",
+      "description": "环境因素对健康的影响,包括季节变化、温度、湿度、噪音、光照和环境毒素等外部压力源",
+      "rationale": "整合了所有环境相关的中间clusters,避免重复,形成统一的环境健康影响类别",
+      "merged_from": [
+        "environmental-stress-factors (14篇)",
+        "environmental-health-factors (7篇)",
+        "environmental-seasonal-factors (7篇)"
+      ],
+      "total_articles": 28
+    },
+    {
+      "core_cluster_name": "monitoring-diagnosis",
+      "description": "健康监测和疾病诊断,包括实验室检测、诊断技术、数据解读、症状识别和早期预警信号",
+      "rationale": "合并了监测检测和症状诊断两个密切相关的领域,形成完整的监测诊断体系",
+      "merged_from": [
+        "monitoring-testing-diagnosis (13篇)",
+        "symptom-diagnosis-recognition (13篇)"
+      ],
+      "total_articles": 26
+    },
+    {
+      "core_cluster_name": "circadian-metabolic-health",
+      "description": "昼夜节律和睡眠对代谢、心血管健康的影响,包括节律调节、睡眠质量和时间生物学优化策略",
+      "rationale": "整合了昼夜节律和睡眠相关的代谢心血管影响,形成完整的时间生物学健康管理类别",
+      "merged_from": [
+        "circadian-metabolic-regulation (11篇)",
+        "sleep-circadian-cardiology (6篇)"
+      ],
+      "total_articles": 17
+    },
+    {
+      "core_cluster_name": "autonomic-nervous-regulation",
+      "description": "自主神经系统调节,包括迷走神经功能、交感副交感平衡、自主功能障碍及其对心血管代谢的影响",
+      "rationale": "合并了两个重复的自主神经系统相关clusters,避免命名差异导致的分散",
+      "merged_from": [
+        "autonomic-nervous-system-regulation (9篇)",
+        "autonomic-nervous-regulation (6篇)"
+      ],
+      "total_articles": 15
+    },
+    {
+      "core_cluster_name": "metabolic-syndrome-management",
+      "description": "代谢综合征的预防和管理,包括多重代谢风险控制、胰岛素敏感性改善和β细胞功能保护",
+      "rationale": "保持独立的代谢综合征管理类别,因其涉及多重代谢风险因素的综合管理,与单一疾病管理有明显区别",
+      "merged_from": [
+        "metabolic-syndrome-prevention (12篇)"
+      ],
+      "total_articles": 12
+    }
+  ],
+  "remaining_small_clusters": [
+    {
+      "cluster_name": "medication-safety-interactions",
+      "description": "药物安全、药物相互作用、补充剂干扰和药物警戒",
+      "total_articles": 10,
+      "note": "文章数较少但主题明确,建议在后续批次中与其他medication相关clusters合并"
+    },
+    {
+      "cluster_name": "stress-mental-health-metabolism",
+      "description": "心理压力、精神健康与代谢、心血管系统的相互作用",
+      "total_articles": 8,
+      "note": "文章数较少,建议在后续批次中与behavioral-health类clusters合并"
+    },
+    {
+      "cluster_name": "gut-microbiome-metabolic-axis",
+      "description": "肠道微生物组与心血管代谢健康的关联,包括肠心轴和肠道健康",
+      "total_articles": 8,
+      "note": "文章数较少但主题特殊,建议在后续批次中评估是否与其他microbiome clusters合并"
+    },
+    {
+      "cluster_name": "lifestyle-integrative-approaches",
+      "description": "综合生活方式干预、呼吸训练、社会互动、节日适应和体重管理线索",
+      "total_articles": 6,
+      "note": "文章数较少,建议在后续批次中与lifestyle-interventions合并"
+    },
+    {
+      "cluster_name": "exercise-physical-activity",
+      "description": "运动和身体活动对代谢和心血管健康的影响,包括运动类型、强度、时机和康复",
+      "total_articles": 5,
+      "note": "文章数较少,建议在后续批次中与其他exercise clusters合并"
+    },
+    {
+      "cluster_name": "musculoskeletal-metabolic-health",
+      "description": "肌肉骨骼健康与代谢疾病的相互影响",
+      "total_articles": 5,
+      "note": "文章数较少,建议在后续批次中评估合并可能性"
+    },
+    {
+      "cluster_name": "special-populations",
+      "description": "特殊人群的健康管理,包括老年人、女性、低视力人群和双重饮食家庭",
+      "total_articles": 4,
+      "note": "文章数较少,建议在后续批次中与其他special-populations clusters合并"
+    },
+    {
+      "cluster_name": "mitochondrial-cellular-health",
+      "description": "线粒体功能、细胞代谢和能量调节",
+      "total_articles": 4,
+      "note": "文章数较少但主题专业,建议在后续批次中评估"
+    },
+    {
+      "cluster_name": "renal-cardiovascular-interface",
+      "description": "肾脏心血管相互作用、肾脏钠处理、肾脏高血压和心肾综合征",
+      "total_articles": 3,
+      "note": "文章数较少,建议在后续批次中与renal-health clusters合并"
+    },
+    {
+      "cluster_name": "metabolic-liver-dysfunction",
+      "description": "肝脏代谢功能障碍和肝脏-代谢互动",
+      "total_articles": 2,
+      "note": "文章数太少,建议在后续批次中与metabolic-health或liver clusters合并"
+    },
+    {
+      "cluster_name": "microvascular-health",
+      "description": "微血管健康与微循环功能",
+      "total_articles": 2,
+      "note": "文章数太少,建议在后续批次中与vascular-health合并"
+    },
+    {
+      "cluster_name": "topical-adipose-interventions",
+      "description": "外用制剂对脂肪组织功能的影响",
+      "total_articles": 1,
+      "note": "文章数太少,建议在后续批次中重新分配"
+    },
+    {
+      "cluster_name": "hypoglycemia-frailty-prevention",
+      "description": "虚弱老年人的低血糖预防策略",
+      "total_articles": 1,
+      "note": "文章数太少,建议在后续批次中与diabetes-management或special-populations合并"
+    }
+  ],
+  "clustering_summary": {
+    "core_clusters_count": 12,
+    "core_clusters_articles": 514,
+    "remaining_small_clusters_count": 13,
+    "remaining_small_clusters_articles": 59,
+    "avg_articles_per_core_cluster": 42.8,
+    "largest_cluster": "nutrition-diet-management (144篇)",
+    "top_3_clusters": [
+      "nutrition-diet-management (144篇)",
+      "diabetes-management (55篇)",
+      "treatment-interventions (54篇)"
+    ],
+    "merging_approach": "基于语义去重和命名规范化的深度聚类,识别并合并了nutrition、hypertension、cardiovascular、diabetes等领域的重复和相似clusters",
+    "notes": "保留了13个文章数较少的小clusters作为待处理项,建议在跨批次合并时重新评估和分配"
+  }
+}

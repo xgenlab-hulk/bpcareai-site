@@ -1,14 +1,29 @@
 ---
-title: "What Causes Sudden Orthostatic Hypotension *After* Morning Tea in Adults 68+ With Mild Parkinsonism — Even Without Caffeine?"
-slug: "what-causes-sudden-orthostatic-hypotension-after-morning-tea-in-adults-68-with-mild-parkinsonism-even-without-caffeine"
-description: "Investigates non-caffeinated tea compounds, gastric motility delays, and baroreflex blunting as contributors to postural BP drops in early neurodegenerative aging."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["orthostatic hypotension after tea seniors", "heart health", "medication-interaction-gastric-neurology"]
-primaryKeyword: "orthostatic hypotension after tea seniors"
-topicCluster: "medication-interaction-gastric-neurology"
-image: ""
-relatedSlugs: ["what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef", "what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria", "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension", "quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness", "what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension"]
+title: >-
+  What Causes Sudden Orthostatic Hypotension *After* Morning Tea in Adults 68+
+  With Mild Parkinsonism — Even Without Caffeine?
+slug: >-
+  what-causes-sudden-orthostatic-hypotension-after-morning-tea-in-adults-68-with-mild-parkinsonism-even-without-caffeine
+description: >-
+  Investigates non-caffeinated tea compounds, gastric motility delays, and
+  baroreflex blunting as contributors to postural BP drops in early
+  neurodegenerative aging.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: orthostatic hypotension after tea seniors
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef
+  - >-
+    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
+  - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+  - >-
+    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
+  - >-
+    what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
 ---
 
 # Orthostatic Hypotension After Tea in Seniors: Understanding the Morning Drop in Blood Pressure

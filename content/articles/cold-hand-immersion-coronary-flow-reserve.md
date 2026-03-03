@@ -1,14 +1,30 @@
 ---
-title: "How Intermittent Cold-Water Hand Immersion (30-Second Bursts) Modulates Coronary Blood Flow Reserve in Adults 57–64 With Stable Angina and Normal Coronary Anatomy"
-slug: "how-intermittent-cold-water-hand-immersion-30-second-bursts-modulates-coronary-blood-flow-reserve-in-adults-57-64-with-stable-angina-and-normal-coronary-anatomy"
-description: "Presents emerging data on non-invasive, self-administered thermal modulation to improve microvascular perfusion — a novel adjunct for patients with INOCA (Ischemia with No Obstructive Coronary Artery disease)."
-date: "2026-02-11"
-updated: "2026-02-11"
-tags: ["cold hand immersion coronary flow reserve", "heart disease", "non-invasive-microvascular-modulation"]
-primaryKeyword: "cold hand immersion coronary flow reserve"
-topicCluster: "non-invasive-microvascular-modulation"
-image: ""
-relatedSlugs: ["natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad", "natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca", "5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms", "does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon", "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct"]
+title: >-
+  How Intermittent Cold-Water Hand Immersion (30-Second Bursts) Modulates
+  Coronary Blood Flow Reserve in Adults 57–64 With Stable Angina and Normal
+  Coronary Anatomy
+slug: >-
+  how-intermittent-cold-water-hand-immersion-30-second-bursts-modulates-coronary-blood-flow-reserve-in-adults-57-64-with-stable-angina-and-normal-coronary-anatomy
+description: >-
+  Presents emerging data on non-invasive, self-administered thermal modulation
+  to improve microvascular perfusion — a novel adjunct for patients with INOCA
+  (Ischemia with No Obstructive Coronary Artery disease).
+date: '2026-02-11'
+updated: '2026-02-11'
+primaryKeyword: cold hand immersion coronary flow reserve
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad
+  - >-
+    natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca
+  - >-
+    5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
+  - >-
+    does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
+  - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
 ---
 
 # Can Cold Hand Immersion Coronary Flow Reserve Help Adults With Stable Angina and No Blocked Arteries?

@@ -1,14 +1,29 @@
 ---
-title: "How Intermittent Fasting Alters Cardiac Autophagy Flux in Men 58–67 With Left Ventricular Diastolic Dysfunction and Elevated Galectin-3"
-slug: "how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3"
-description: "Analyzes time-restricted eating’s impact on lysosomal clearance of misfolded proteins in cardiomyocytes — with MRI-T1 mapping and plasma LC3-II/Bnip3 ratios as functional biomarkers."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["intermittent fasting cardiac autophagy diastolic dysfunction", "heart disease", "metabolic-therapy-diastolic-function"]
-primaryKeyword: "intermittent fasting cardiac autophagy diastolic dysfunction"
-topicCluster: "metabolic-therapy-diastolic-function"
-image: ""
-relatedSlugs: ["how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study", "how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort", "what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension", "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy"]
+title: >-
+  How Intermittent Fasting Alters Cardiac Autophagy Flux in Men 58–67 With Left
+  Ventricular Diastolic Dysfunction and Elevated Galectin-3
+slug: >-
+  how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
+description: >-
+  Analyzes time-restricted eating’s impact on lysosomal clearance of misfolded
+  proteins in cardiomyocytes — with MRI-T1 mapping and plasma LC3-II/Bnip3
+  ratios as functional biomarkers.
+date: '2026-01-16'
+updated: '2026-01-16'
+primaryKeyword: intermittent fasting cardiac autophagy diastolic dysfunction
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
+  - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+  - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
+  - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
 ---
 
 # How Intermittent Fasting Influences Cardiac Autophagy in Men With Diastolic Dysfunction

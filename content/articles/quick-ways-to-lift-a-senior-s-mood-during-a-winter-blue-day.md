@@ -6,12 +6,8 @@ description: >-
   favorite foods to interrupt low mood episodes.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - quick mood boosters for seniors
-  - seasonal depression in older adults
-  - immediate-interventions
 primaryKeyword: quick mood boosters for seniors
-topicCluster: symptoms-emergencies
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70

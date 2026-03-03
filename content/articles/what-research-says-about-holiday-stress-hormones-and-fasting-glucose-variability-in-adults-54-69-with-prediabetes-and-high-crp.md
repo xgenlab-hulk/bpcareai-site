@@ -1,14 +1,28 @@
 ---
-title: "What Research Says About Holiday Stress Hormones and Fasting Glucose Variability in Adults 54–69 With Prediabetes and High CRP"
-slug: "what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp"
-description: "Synthesizes findings from longitudinal cortisol/alpha-amylase saliva studies and 7-day fasting glucose SD analysis showing how anticipatory social stress—not just acute events—drives sustained hepatic glucose output in midlife prediabetics."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["holiday stress fasting glucose variability prediabetes", "holiday diabetes management", "stress-metabolism-research"]
-primaryKeyword: "holiday stress fasting glucose variability prediabetes"
-topicCluster: "stress-metabolism-research"
-image: ""
-relatedSlugs: ["5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50"]
+title: >-
+  What Research Says About Holiday Stress Hormones and Fasting Glucose
+  Variability in Adults 54–69 With Prediabetes and High CRP
+slug: >-
+  what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
+description: >-
+  Synthesizes findings from longitudinal cortisol/alpha-amylase saliva studies
+  and 7-day fasting glucose SD analysis showing how anticipatory social
+  stress—not just acute events—drives sustained hepatic glucose output in
+  midlife prediabetics.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: holiday stress fasting glucose variability prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
 ---
 
 # How Holiday Stress Fasting Glucose Variability Affects Prediabetes in Midlife Adults

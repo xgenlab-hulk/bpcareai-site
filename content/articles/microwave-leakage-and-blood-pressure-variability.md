@@ -1,14 +1,30 @@
 ---
-title: "How Long-Term Exposure to Residential Microwave Oven Leakage (Even Below FCC Limits) Correlates With 24-Hour Mean Arterial Pressure Variability in Adults 75+ Living Alone"
-slug: "how-long-term-exposure-to-residential-microwave-oven-leakage-even-below-fcc-limits-correlates-with-24-hour-mean-arterial-pressure-variability-in-adults-75-living-alone"
-description: "Examines real-world electromagnetic field exposure from aging kitchen appliances and its association with autonomic dysregulation and BP lability in homebound seniors."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["microwave leakage and blood pressure variability", "blood pressure", "environmental-emf-physiology"]
-primaryKeyword: "microwave leakage and blood pressure variability"
-topicCluster: "environmental-emf-physiology"
-image: ""
-relatedSlugs: ["can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81", "how-chronic-low-volume-air-conditioning-use-alters-baroreflex-sensitivity-in-adults-73-with-isolated-systolic-hypertension-and-why-just-turning-it-up-makes-it-worse", "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments", "how-chronic-exposure-to-low-frequency-vibration-e-g-from-walking-aids-or-mobility-scooters-alters-baroreflex-sensitivity-in-adults-79-with-severe-peripheral-neuropathy", "how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension"]
+title: >-
+  How Long-Term Exposure to Residential Microwave Oven Leakage (Even Below FCC
+  Limits) Correlates With 24-Hour Mean Arterial Pressure Variability in Adults
+  75+ Living Alone
+slug: >-
+  how-long-term-exposure-to-residential-microwave-oven-leakage-even-below-fcc-limits-correlates-with-24-hour-mean-arterial-pressure-variability-in-adults-75-living-alone
+description: >-
+  Examines real-world electromagnetic field exposure from aging kitchen
+  appliances and its association with autonomic dysregulation and BP lability in
+  homebound seniors.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: microwave leakage and blood pressure variability
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
+  - >-
+    how-chronic-low-volume-air-conditioning-use-alters-baroreflex-sensitivity-in-adults-73-with-isolated-systolic-hypertension-and-why-just-turning-it-up-makes-it-worse
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+  - >-
+    how-chronic-exposure-to-low-frequency-vibration-e-g-from-walking-aids-or-mobility-scooters-alters-baroreflex-sensitivity-in-adults-79-with-severe-peripheral-neuropathy
+  - >-
+    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
 ---
 
 # Microwave Leakage and Blood Pressure Variability: What Homebound Seniors 75+ Should Know

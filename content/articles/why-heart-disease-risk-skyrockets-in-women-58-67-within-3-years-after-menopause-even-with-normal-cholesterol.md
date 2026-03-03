@@ -1,14 +1,25 @@
 ---
-title: "Why Heart Disease Risk Skyrockets in Women 58–67 Within 3 Years After Menopause — Even With Normal Cholesterol"
-slug: "why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol"
-description: "Explores the hormonal, vascular, and metabolic shifts post-menopause that accelerate atherosclerosis independent of traditional lipid markers, with data from the SWAN and GENOA studies."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["heart disease after menopause women 58-67", "heart disease", "gender-hormonal-transitions"]
-primaryKeyword: "heart disease after menopause women 58-67"
-topicCluster: "gender-hormonal-transitions"
-image: ""
-relatedSlugs: ["how-menopause-affects-heart-disease-risk-in-women", "why-older-women-are-more-vulnerable-to-winter-heart-events", "why-women-s-heart-attack-symptoms-differ-after-menopause", "why-older-women-gain-weight-faster-during-the-holidays-after-menopause", "holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af"]
+title: >-
+  Why Heart Disease Risk Skyrockets in Women 58–67 Within 3 Years After
+  Menopause — Even With Normal Cholesterol
+slug: >-
+  why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
+description: >-
+  Explores the hormonal, vascular, and metabolic shifts post-menopause that
+  accelerate atherosclerosis independent of traditional lipid markers, with data
+  from the SWAN and GENOA studies.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: heart disease after menopause women 58-67
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - how-menopause-affects-heart-disease-risk-in-women
+  - why-older-women-are-more-vulnerable-to-winter-heart-events
+  - why-women-s-heart-attack-symptoms-differ-after-menopause
+  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
+  - >-
+    holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
 ---
 
 # Why Heart Disease After Menopause Rises Sharply for Women 58–67 — Even With Healthy Cholesterol

@@ -10,12 +10,8 @@ description: >-
   traditional stress imaging in younger seniors.
 date: '2026-02-24'
 updated: '2026-02-24'
-tags:
-  - coronary cta vs stress test atypical chest pain
-  - heart disease
-  - diagnostic-testing-decision
 primaryKeyword: coronary cta vs stress test atypical chest pain
-topicCluster: diagnostic-testing-decision
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

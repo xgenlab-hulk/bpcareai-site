@@ -6,12 +6,8 @@ description: >-
   aging adults.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - artificial sweeteners and insulin response in elderly diabetics
-  - diabetes
-  - diabetes-nutrition
 primaryKeyword: artificial sweeteners and insulin response in elderly diabetics
-topicCluster: diabetes-care
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

@@ -1,14 +1,29 @@
 ---
-title: "How Holiday Candlelight Dinners Alter Circadian-Driven Insulin Sensitivity in Adults 66+ With Mild Insulin Resistance — And What to Serve Instead of Rolls"
-slug: "how-holiday-candlelight-dinners-alter-circadian-driven-insulin-sensitivity-in-adults-66-with-mild-insulin-resistance-and-what-to-serve-instead-of-rolls"
-description: "Links dim-light evening meals to delayed melatonin onset, reduced skeletal muscle GLUT4 translocation, and increased post-carb glucose AUC — with texture-modified carb alternatives."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["candlelight dinners insulin sensitivity seniors", "healthy holiday eating for seniors", "circadian-metabolism-diet"]
-primaryKeyword: "candlelight dinners insulin sensitivity seniors"
-topicCluster: "circadian-metabolism-diet"
-image: ""
-relatedSlugs: ["how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it", "simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome", "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation", "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s", "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72"]
+title: >-
+  How Holiday Candlelight Dinners Alter Circadian-Driven Insulin Sensitivity in
+  Adults 66+ With Mild Insulin Resistance — And What to Serve Instead of Rolls
+slug: >-
+  how-holiday-candlelight-dinners-alter-circadian-driven-insulin-sensitivity-in-adults-66-with-mild-insulin-resistance-and-what-to-serve-instead-of-rolls
+description: >-
+  Links dim-light evening meals to delayed melatonin onset, reduced skeletal
+  muscle GLUT4 translocation, and increased post-carb glucose AUC — with
+  texture-modified carb alternatives.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: candlelight dinners insulin sensitivity seniors
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
+  - >-
+    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
 ---
 
 # How Candlelight Dinners Impact Insulin Sensitivity in Seniors — And Smarter Holiday Meal Choices

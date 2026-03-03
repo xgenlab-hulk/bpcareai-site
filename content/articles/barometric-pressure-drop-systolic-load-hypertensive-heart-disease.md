@@ -1,14 +1,31 @@
 ---
-title: "How Indoor Barometric Pressure Drops Below 1005 hPa Increase Ambulatory Systolic Load in Adults 63–82 With Hypertensive Heart Disease and Left Atrial Enlargement"
-slug: "how-indoor-barometric-pressure-drops-below-1005-hpa-increase-ambulatory-systolic-load-in-adults-63-82-with-hypertensive-heart-disease-and-left-atrial-enlargement"
-description: "Links atmospheric pressure shifts to sympathetic activation, RAAS modulation, and pulmonary capillary wedge pressure elevation—demonstrating how weather-related BP surges precede decompensation events in structurally vulnerable hearts."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["barometric pressure drop systolic load hypertensive heart disease", "blood pressure", "environmental-triggers-weather"]
-primaryKeyword: "barometric pressure drop systolic load hypertensive heart disease"
-topicCluster: "environmental-triggers-weather"
-image: ""
-relatedSlugs: ["how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62", "when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67", "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease", "why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds", "myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65"]
+title: >-
+  How Indoor Barometric Pressure Drops Below 1005 hPa Increase Ambulatory
+  Systolic Load in Adults 63–82 With Hypertensive Heart Disease and Left Atrial
+  Enlargement
+slug: >-
+  how-indoor-barometric-pressure-drops-below-1005-hpa-increase-ambulatory-systolic-load-in-adults-63-82-with-hypertensive-heart-disease-and-left-atrial-enlargement
+description: >-
+  Links atmospheric pressure shifts to sympathetic activation, RAAS modulation,
+  and pulmonary capillary wedge pressure elevation—demonstrating how
+  weather-related BP surges precede decompensation events in structurally
+  vulnerable hearts.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: barometric pressure drop systolic load hypertensive heart disease
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
+  - >-
+    when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
+  - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
+  - >-
+    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
 ---
 
 # How Falling Barometric Pressure Triggers Systolic Load Increases in Older Adults With Hypertensive Heart Disease

@@ -6,12 +6,8 @@ description: >-
   when routines are disrupted.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - holiday blood sugar monitoring tips
-  - holiday diabetes management
-  - monitoring-testing-routines
 primaryKeyword: holiday blood sugar monitoring tips
-topicCluster: health-monitoring
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

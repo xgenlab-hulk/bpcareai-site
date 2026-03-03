@@ -6,12 +6,8 @@ description: >-
   advice tailored for older adults.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - traveling with diabetes tips for seniors
-  - diabetes
-  - diabetes-lifestyle
 primaryKeyword: traveling with diabetes tips for seniors
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

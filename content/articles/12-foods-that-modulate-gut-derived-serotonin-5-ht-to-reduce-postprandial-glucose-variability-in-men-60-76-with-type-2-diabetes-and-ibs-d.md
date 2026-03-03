@@ -1,14 +1,28 @@
 ---
-title: "12 Foods That Modulate Gut-Derived Serotonin (5-HT) to Reduce Postprandial Glucose Variability in Men 60–76 With Type 2 Diabetes and IBS-D"
-slug: "12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d"
-description: "Highlights specific prebiotic fibers, polyphenol-rich berries, and fermented legumes that temper colonic serotonin release—lowering vagally mediated hepatic glucose output after meals."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["foods that reduce serotonin glucose spike", "diabetes", "diet-gut-serotonin"]
-primaryKeyword: "foods that reduce serotonin glucose spike"
-topicCluster: "diet-gut-serotonin"
-image: ""
-relatedSlugs: ["10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome", "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy", "the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners", "how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it"]
+title: >-
+  12 Foods That Modulate Gut-Derived Serotonin (5-HT) to Reduce Postprandial
+  Glucose Variability in Men 60–76 With Type 2 Diabetes and IBS-D
+slug: >-
+  12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d
+description: >-
+  Highlights specific prebiotic fibers, polyphenol-rich berries, and fermented
+  legumes that temper colonic serotonin release—lowering vagally mediated
+  hepatic glucose output after meals.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: foods that reduce serotonin glucose spike
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
+  - >-
+    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
 ---
 
 # Foods That Reduce Serotonin Glucose Spike: A Gentle Guide for Men 60–76 With Type 2 Diabetes and IBS-D

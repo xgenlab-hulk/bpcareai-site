@@ -10,12 +10,8 @@ description: >-
   pre-therapy BP phenotyping.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - menopause hormone therapy blood pressure women
-  - blood pressure
-  - gender-hormone-blood-pressure
 primaryKeyword: menopause hormone therapy blood pressure women
-topicCluster: gender-hormone-blood-pressure
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - blood-pressure-changes-during-menopause-what-women-should-know

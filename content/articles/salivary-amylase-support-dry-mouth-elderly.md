@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Salivary Amylase Activity *Without* Increasing Carbohydrate Load — Using Chilled Cucumber Ribbons and Zinc-Enhanced Herbs in Adults 70+ With Dry Mouth and Dysphagia"
-slug: "natural-ways-to-support-salivary-amylase-activity-without-increasing-carbohydrate-load-using-chilled-cucumber-ribbons-and-zinc-enhanced-herbs-in-adults-70-with-dry-mouth-and-dysphagia"
-description: "Focuses on oral-phase digestion optimization for older adults with xerostomia—detailing food textures, mineral co-factors, and hydration timing that enhance starch breakdown *before* swallowing."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["salivary amylase support dry mouth elderly", "healthy eating during family gatherings", "oral-digestion-nutrition"]
-primaryKeyword: "salivary amylase support dry mouth elderly"
-topicCluster: "oral-digestion-nutrition"
-image: ""
-relatedSlugs: ["5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia", "natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear", "natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia", "natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia", "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes"]
+title: >-
+  Natural Ways to Support Salivary Amylase Activity *Without* Increasing
+  Carbohydrate Load — Using Chilled Cucumber Ribbons and Zinc-Enhanced Herbs in
+  Adults 70+ With Dry Mouth and Dysphagia
+slug: >-
+  natural-ways-to-support-salivary-amylase-activity-without-increasing-carbohydrate-load-using-chilled-cucumber-ribbons-and-zinc-enhanced-herbs-in-adults-70-with-dry-mouth-and-dysphagia
+description: >-
+  Focuses on oral-phase digestion optimization for older adults with
+  xerostomia—detailing food textures, mineral co-factors, and hydration timing
+  that enhance starch breakdown *before* swallowing.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: salivary amylase support dry mouth elderly
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia
+  - >-
+    natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear
+  - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+  - >-
+    natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia
+  - >-
+    quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
 ---
 
 # Natural Salivary Amylase Support for Dry Mouth in Elderly Adults — Safe, Low-Carb Strategies for Better Oral Digestion

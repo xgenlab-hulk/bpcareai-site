@@ -1,14 +1,30 @@
 ---
-title: "How Nighttime Light Exposure From Smart Clocks Disrupts Melatonin-Mediated GLP-1 Secretion — And Elevates Fasting Glucose in Adults 59+ With Shift Work History"
-slug: "how-nighttime-light-exposure-from-smart-clocks-disrupts-melatonin-mediated-glp-1-secretion-and-elevates-fasting-glucose-in-adults-59-with-shift-work-history"
-description: "Analyzes blue-enriched light’s suppression of enteroendocrine L-cells, real-world bedroom light mapping, and melatonin-sparing lighting alternatives for metabolic resilience."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["nighttime light GLP-1 secretion fasting glucose", "diabetes", "circadian-light-metabolism-link"]
-primaryKeyword: "nighttime light GLP-1 secretion fasting glucose"
-topicCluster: "circadian-light-metabolism-link"
-image: ""
-relatedSlugs: ["how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase", "how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes", "12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols", "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it", "does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression"]
+title: >-
+  How Nighttime Light Exposure From Smart Clocks Disrupts Melatonin-Mediated
+  GLP-1 Secretion — And Elevates Fasting Glucose in Adults 59+ With Shift Work
+  History
+slug: >-
+  how-nighttime-light-exposure-from-smart-clocks-disrupts-melatonin-mediated-glp-1-secretion-and-elevates-fasting-glucose-in-adults-59-with-shift-work-history
+description: >-
+  Analyzes blue-enriched light’s suppression of enteroendocrine L-cells,
+  real-world bedroom light mapping, and melatonin-sparing lighting alternatives
+  for metabolic resilience.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: nighttime light GLP-1 secretion fasting glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
+  - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
+  - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+  - >-
+    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
 ---
 
 # How Nighttime Light Exposure Affects GLP-1, Fasting Glucose, and Metabolic Health in Adults 59+ With Shift Work History

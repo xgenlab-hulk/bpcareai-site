@@ -6,12 +6,8 @@ description: >-
   recovery after transient alcohol-induced arrhythmias.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - research holiday heart syndrome aging
-  - holiday heart syndrome prevention
-  - scientific-evidence
 primaryKeyword: research holiday heart syndrome aging
-topicCluster: evidence-research
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat

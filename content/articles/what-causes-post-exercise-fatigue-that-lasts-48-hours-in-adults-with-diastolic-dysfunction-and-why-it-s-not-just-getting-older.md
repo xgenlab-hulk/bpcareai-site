@@ -1,14 +1,29 @@
 ---
-title: "What Causes ‘Post-Exercise Fatigue That Lasts 48+ Hours’ in Adults With Diastolic Dysfunction—And Why It’s Not Just ‘Getting Older’"
-slug: "what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older"
-description: "Analyzes mitochondrial inefficiency, delayed lactate clearance, and impaired nitric oxide bioavailability in preserved EF heart disease—distinct from deconditioning."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["post-exercise fatigue diastolic dysfunction older adults", "heart disease", "exercise-recovery-pathophysiology"]
-primaryKeyword: "post-exercise fatigue diastolic dysfunction older adults"
-topicCluster: "exercise-recovery-pathophysiology"
-image: ""
-relatedSlugs: ["natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear", "when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction", "why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction", "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease"]
+title: >-
+  What Causes ‘Post-Exercise Fatigue That Lasts 48+ Hours’ in Adults With
+  Diastolic Dysfunction—And Why It’s Not Just ‘Getting Older’
+slug: >-
+  what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
+description: >-
+  Analyzes mitochondrial inefficiency, delayed lactate clearance, and impaired
+  nitric oxide bioavailability in preserved EF heart disease—distinct from
+  deconditioning.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: post-exercise fatigue diastolic dysfunction older adults
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
+  - >-
+    when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
+  - >-
+    why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction
+  - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
 ---
 
 # Why Post-Exercise Fatigue in Diastolic Dysfunction Isn’t Just “Slowing Down with Age”

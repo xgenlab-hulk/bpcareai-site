@@ -1,14 +1,29 @@
 ---
-title: "How Intermittent Silence Exposure (Not Just Meditation) Modulates Vagal Tone and Reduces Nighttime BP Surge in Adults 61–77 With Non-Dipping Hypertension"
-slug: "how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension"
-description: "Investigates 30-minute daily silent intervals—without guided audio or breathwork—on HRV, salivary alpha-amylase, and nocturnal systolic BP dipping patterns in a double-blind crossover trial."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["intermittent silence and non-dipping bp", "heart disease", "sensory-environment-autonomic"]
-primaryKeyword: "intermittent silence and non-dipping bp"
-topicCluster: "sensory-environment-autonomic"
-image: ""
-relatedSlugs: ["12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults", "quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension", "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension", "quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety", "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea"]
+title: >-
+  How Intermittent Silence Exposure (Not Just Meditation) Modulates Vagal Tone
+  and Reduces Nighttime BP Surge in Adults 61–77 With Non-Dipping Hypertension
+slug: >-
+  how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension
+description: >-
+  Investigates 30-minute daily silent intervals—without guided audio or
+  breathwork—on HRV, salivary alpha-amylase, and nocturnal systolic BP dipping
+  patterns in a double-blind crossover trial.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: intermittent silence and non-dipping bp
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
+  - >-
+    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+  - >-
+    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
 ---
 
 # How Intermittent Silence and Non-Dipping BP Are Connected — And What You Can Gently Do About It

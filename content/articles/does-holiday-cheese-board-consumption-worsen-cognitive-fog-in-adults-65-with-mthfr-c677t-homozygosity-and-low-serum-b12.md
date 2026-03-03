@@ -1,14 +1,29 @@
 ---
-title: "Does Holiday Cheese Board Consumption Worsen Cognitive Fog in Adults 65+ With MTHFR C677T Homozygosity and Low Serum B12?"
-slug: "does-holiday-cheese-board-consumption-worsen-cognitive-fog-in-adults-65-with-mthfr-c677t-homozygosity-and-low-serum-b12"
-description: "Examines how high-histamine, aged cheeses interact with impaired folate metabolism and cobalamin transport—detailing histamine load thresholds, safer cheese alternatives, and timing-based mitigation."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["cheese board cognitive fog mthfr seniors", "healthy holiday eating for seniors", "neurocognitive-histamine-mthfr"]
-primaryKeyword: "cheese board cognitive fog mthfr seniors"
-topicCluster: "neurocognitive-histamine-mthfr"
-image: ""
-relatedSlugs: ["what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy", "natural-ways-to-counteract-holiday-induced-histamine-load-in-seniors-with-chronic-urticaria-and-dao-deficiency", "when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals", "5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely", "5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates"]
+title: >-
+  Does Holiday Cheese Board Consumption Worsen Cognitive Fog in Adults 65+ With
+  MTHFR C677T Homozygosity and Low Serum B12?
+slug: >-
+  does-holiday-cheese-board-consumption-worsen-cognitive-fog-in-adults-65-with-mthfr-c677t-homozygosity-and-low-serum-b12
+description: >-
+  Examines how high-histamine, aged cheeses interact with impaired folate
+  metabolism and cobalamin transport—detailing histamine load thresholds, safer
+  cheese alternatives, and timing-based mitigation.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: cheese board cognitive fog mthfr seniors
+topicCluster: natural-remedies
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy
+  - >-
+    natural-ways-to-counteract-holiday-induced-histamine-load-in-seniors-with-chronic-urticaria-and-dao-deficiency
+  - >-
+    when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
+  - >-
+    5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely
+  - >-
+    5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
 ---
 
 # Cheese Board Cognitive Fog in MTHFR Seniors: What Holiday Indulgences Mean for Brain Clarity

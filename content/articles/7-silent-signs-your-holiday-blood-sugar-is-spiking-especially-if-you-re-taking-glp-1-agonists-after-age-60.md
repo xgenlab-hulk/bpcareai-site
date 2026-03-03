@@ -1,14 +1,24 @@
 ---
-title: "7 Silent Signs Your Holiday Blood Sugar Is Spiking—Especially If You’re Taking GLP-1 Agonists After Age 60"
-slug: "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60"
-description: "Identifies subtle, non-classic hyperglycemia indicators (e.g., unexplained fatigue, blurred vision resolution delay, nocturia frequency shift) in older adults using semaglutide or tirzepatide."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["silent blood sugar spikes on GLP-1 drugs", "holiday diabetes management", "symptom-recognition-glp1-users"]
-primaryKeyword: "silent blood sugar spikes on GLP-1 drugs"
-topicCluster: "symptom-recognition-glp1-users"
-image: ""
-relatedSlugs: ["what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes", "recognizing-silent-heart-attacks-in-diabetics-over-60"]
+title: >-
+  7 Silent Signs Your Holiday Blood Sugar Is Spiking—Especially If You’re Taking
+  GLP-1 Agonists After Age 60
+slug: >-
+  7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+description: >-
+  Identifies subtle, non-classic hyperglycemia indicators (e.g., unexplained
+  fatigue, blurred vision resolution delay, nocturia frequency shift) in older
+  adults using semaglutide or tirzepatide.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: silent blood sugar spikes on GLP-1 drugs
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
 ---
 
 # 7 Subtle Clues Your Blood Sugar Is Rising During the Holidays—Especially on GLP-1 Drugs After 60

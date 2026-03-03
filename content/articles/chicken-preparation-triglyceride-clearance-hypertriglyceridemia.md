@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Slow-Cooked Herb-Roasted Chicken Breast (Skinless, No Broth) vs. Holiday-Style Chicken Pot Pie (Frozen, Pre-Portioned) — Impact on 4-Hour Postprandial Triglyceride Clearance in Adults 60–72 With Hypertriglyceridemia"
-slug: "a-vs-b-slow-cooked-herb-roasted-chicken-breast-skinless-no-broth-vs-holiday-style-chicken-pot-pie-frozen-pre-portioned-impact-on-4-hour-postprandial-triglyceride-clearance-in-adults-60-72-with-hypertriglyceridemia"
-description: "Compares real-world lipid panel shifts after standardized meals using capillary triglyceride point-of-care testing at 1, 2, and 4 hours—highlighting the role of fat matrix structure and thermal oxidation byproducts."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["chicken preparation triglyceride clearance hypertriglyceridemia", "healthy eating during family gatherings", "lipid-metabolism-comparison"]
-primaryKeyword: "chicken preparation triglyceride clearance hypertriglyceridemia"
-topicCluster: "lipid-metabolism-comparison"
-image: ""
-relatedSlugs: ["quick-ways-to-normalize-postprandial-triglyceride-clearance-using-meal-order-and-chewing-duration-especially-in-adults-56-69-with-diabetic-dyslipidemia-and-pancreatic-steatosis", "why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69", "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle", "warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55", "quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia"]
+title: >-
+  A vs B: Slow-Cooked Herb-Roasted Chicken Breast (Skinless, No Broth) vs.
+  Holiday-Style Chicken Pot Pie (Frozen, Pre-Portioned) — Impact on 4-Hour
+  Postprandial Triglyceride Clearance in Adults 60–72 With Hypertriglyceridemia
+slug: >-
+  a-vs-b-slow-cooked-herb-roasted-chicken-breast-skinless-no-broth-vs-holiday-style-chicken-pot-pie-frozen-pre-portioned-impact-on-4-hour-postprandial-triglyceride-clearance-in-adults-60-72-with-hypertriglyceridemia
+description: >-
+  Compares real-world lipid panel shifts after standardized meals using
+  capillary triglyceride point-of-care testing at 1, 2, and 4 hours—highlighting
+  the role of fat matrix structure and thermal oxidation byproducts.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: chicken preparation triglyceride clearance hypertriglyceridemia
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-normalize-postprandial-triglyceride-clearance-using-meal-order-and-chewing-duration-especially-in-adults-56-69-with-diabetic-dyslipidemia-and-pancreatic-steatosis
+  - >-
+    why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
+  - >-
+    warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
+  - >-
+    quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
 ---
 
 # How Chicken Preparation Affects Triglyceride Clearance in Adults With Hypertriglyceridemia: Slow-Roasted Breast vs. Frozen Pot Pie

@@ -6,12 +6,8 @@ description: >-
   do to stay safe during winter months.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - cold weather effect on blood pressure elderly
-  - blood pressure
-  - cardiovascular-risk
 primaryKeyword: cold weather effect on blood pressure elderly
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - why-winter-increases-heart-attack-risk-in-seniors-over-70

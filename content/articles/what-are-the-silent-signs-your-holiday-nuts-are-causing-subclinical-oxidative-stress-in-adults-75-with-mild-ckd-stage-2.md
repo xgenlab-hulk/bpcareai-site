@@ -1,14 +1,29 @@
 ---
-title: "What Are the Silent Signs Your Holiday Nuts Are Causing Subclinical Oxidative Stress in Adults 75+ With Mild CKD Stage 2?"
-slug: "what-are-the-silent-signs-your-holiday-nuts-are-causing-subclinical-oxidative-stress-in-adults-75-with-mild-ckd-stage-2"
-description: "Links rancid nut oils and AGE formation in roasted mixes to elevated urinary 8-OHdG and reduced glutathione peroxidase activity — with freshness-testing tips and safe storage guides."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["holiday nuts oxidative stress seniors ckd", "healthy holiday eating for seniors", "renal-diet-oxidative-stress"]
-primaryKeyword: "holiday nuts oxidative stress seniors ckd"
-topicCluster: "renal-diet-oxidative-stress"
-image: ""
-relatedSlugs: ["7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60", "a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-collards-with-liquid-smoke-impact-on-urinary-8-ohdg-levels-in-adults-76-with-chronic-kidney-disease-stage-3", "5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely", "quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp", "10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy"]
+title: >-
+  What Are the Silent Signs Your Holiday Nuts Are Causing Subclinical Oxidative
+  Stress in Adults 75+ With Mild CKD Stage 2?
+slug: >-
+  what-are-the-silent-signs-your-holiday-nuts-are-causing-subclinical-oxidative-stress-in-adults-75-with-mild-ckd-stage-2
+description: >-
+  Links rancid nut oils and AGE formation in roasted mixes to elevated urinary
+  8-OHdG and reduced glutathione peroxidase activity — with freshness-testing
+  tips and safe storage guides.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: holiday nuts oxidative stress seniors ckd
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60
+  - >-
+    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-collards-with-liquid-smoke-impact-on-urinary-8-ohdg-levels-in-adults-76-with-chronic-kidney-disease-stage-3
+  - >-
+    5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely
+  - >-
+    quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp
+  - >-
+    10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy
 ---
 
 # What Holiday Nuts Oxidative Stress in Seniors With CKD Really Means — And How to Enjoy Them Safely

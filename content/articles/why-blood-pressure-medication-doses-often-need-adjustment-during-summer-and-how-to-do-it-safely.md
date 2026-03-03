@@ -10,12 +10,8 @@ description: >-
   protocols for ACE inhibitors and CCBs.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - blood pressure meds summer adjustment
-  - blood pressure
-  - seasonal-medication-management
 primaryKeyword: blood pressure meds summer adjustment
-topicCluster: seasonal-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - 5-common-medication-adjustments-seniors-need-in-winter

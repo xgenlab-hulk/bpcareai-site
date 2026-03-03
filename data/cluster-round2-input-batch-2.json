@@ -1,0 +1,290 @@
+{
+  "round": 2,
+  "batch_id": 2,
+  "total_clusters": 47,
+  "total_articles": 573,
+  "clusters": [
+    {
+      "cluster_name": "nutrition-diet-optimization",
+      "description": "营养和饮食优化策略,包括特殊饮食比较、食物标签识别、烹饪方法和营养时间控制",
+      "total_articles": 91,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "nutrition-dietary-management",
+      "description": "饮食营养对代谢和心血管健康的影响，包括食物选择、营养素、膳食模式和进食策略",
+      "total_articles": 40,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "treatment-interventions",
+      "description": "治疗选择、非药物干预和治疗安全性评估",
+      "total_articles": 32,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "hypertension-management",
+      "description": "高血压的全面管理,包括血压监测、非药物干预、饮食控制和环境因素",
+      "total_articles": 26,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "metabolic-diabetes-management",
+      "description": "代谢疾病和糖尿病的全面管理,包括血糖控制、代谢支持和并发症预防",
+      "total_articles": 23,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "complications-comorbidities",
+      "description": "疾病并发症、相关疾病和多器官系统影响",
+      "total_articles": 20,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "integrative-physiology-interventions",
+      "description": "整合生理学和快速干预措施，包括自然疗法、生理触发因素、快速生理干预和环境因素",
+      "total_articles": 19,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "cardiovascular-monitoring-health",
+      "description": "心血管健康监测、心脏功能评估、心血管疾病的诊断和管理",
+      "total_articles": 17,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "diabetes-glucose-management",
+      "description": "糖尿病的血糖监测、饮食控制、运动管理和并发症预防",
+      "total_articles": 17,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "cardiac-complications-conditions",
+      "description": "心脏并发症和特定心脏疾病,包括心肌病、心力衰竭、心律失常等",
+      "total_articles": 15,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "vascular-endothelial-health",
+      "description": "血管和内皮功能健康，包括微循环、血管老化、动脉僵硬度、血管再生和内皮保护",
+      "total_articles": 15,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "cardiovascular-function-health",
+      "description": "心血管功能、血管健康、内皮功能、心律异常和心脏结构改变",
+      "total_articles": 15,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "environmental-stress-factors",
+      "description": "环境因素对心血管和代谢的影响，包括温度、湿度、噪音、季节变化等外部压力源",
+      "total_articles": 14,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "monitoring-testing-diagnosis",
+      "description": "健康监测、实验室检测、诊断技术和数据解读",
+      "total_articles": 13,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "symptom-diagnosis-recognition",
+      "description": "症状识别、早期诊断和疾病检测,包括亚临床表现和预警信号",
+      "total_articles": 13,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "blood-pressure-hypertension-care",
+      "description": "高血压的诊断、监测、治疗和管理，包括血压变异性、家庭监测和生活方式干预",
+      "total_articles": 12,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "metabolic-syndrome-prevention",
+      "description": "代谢综合征预防、多重代谢风险管理、胰岛素敏感性和β细胞功能",
+      "total_articles": 12,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "circadian-metabolic-regulation",
+      "description": "昼夜节律对代谢、血压、脂质代谢和激素调节的影响及优化策略",
+      "total_articles": 11,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "diabetic-complications",
+      "description": "糖尿病并发症,包括神经病变、视网膜病变和肾病",
+      "total_articles": 11,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "cardiac-electrophysiology-disorders",
+      "description": "心脏电生理异常、心律失常的识别和管理",
+      "total_articles": 10,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "medication-safety-interactions",
+      "description": "药物安全、药物相互作用、补充剂干扰和药物警戒",
+      "total_articles": 10,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "nutritional-science-evidence",
+      "description": "营养科学的循证证据、营养基因组学和个性化营养",
+      "total_articles": 9,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "autonomic-nervous-system-regulation",
+      "description": "自主神经系统调节、迷走神经功能、交感副交感平衡及其对心血管和代谢的影响",
+      "total_articles": 9,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "hypertension-comprehensive-management",
+      "description": "高血压的全面管理，包括钠摄入控制、饮食干预、血压波动管理和症状识别",
+      "total_articles": 9,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "cardiac-nutrition-hemodynamics",
+      "description": "心血管疾病的饮食干预、血流动力学调节和营养治疗",
+      "total_articles": 8,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "stress-mental-health-metabolism",
+      "description": "心理压力、精神健康与代谢、心血管系统的相互作用",
+      "total_articles": 8,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "gut-microbiome-metabolic-axis",
+      "description": "肠道微生物组与心血管代谢健康的关联,包括肠心轴和肠道健康",
+      "total_articles": 8,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "comorbidities-complications",
+      "description": "合并症和并发症管理，包括肾脏血管风险、睡眠呼吸暂停、口腔系统炎症和多系统疾病",
+      "total_articles": 8,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "environmental-health-factors",
+      "description": "环境因素对健康的影响，包括季节、温度、环境毒素等",
+      "total_articles": 7,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "environmental-seasonal-factors",
+      "description": "环境因素、季节性变化、温度、光照和外部环境对健康的影响",
+      "total_articles": 7,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "autonomic-nervous-regulation",
+      "description": "自主神经系统调节、自主功能障碍和相关症状",
+      "total_articles": 6,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "sleep-circadian-cardiology",
+      "description": "睡眠和昼夜节律对心血管代谢健康的影响及干预策略",
+      "total_articles": 6,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "lifestyle-integrative-approaches",
+      "description": "综合生活方式干预、呼吸训练、社会互动、节日适应和体重管理线索",
+      "total_articles": 6,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "neuropathy-complications",
+      "description": "神经病变的营养因素、早期征兆和感觉功能障碍",
+      "total_articles": 5,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "musculoskeletal-metabolic-health",
+      "description": "肌肉骨骼健康与代谢疾病的相互影响",
+      "total_articles": 5,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "exercise-physical-activity",
+      "description": "运动和身体活动对代谢和心血管健康的影响，包括运动类型、强度、时机和康复",
+      "total_articles": 5,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "insulin-therapy-management",
+      "description": "胰岛素治疗的使用、安全性和优化策略",
+      "total_articles": 4,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "food-safety-labeling",
+      "description": "食品安全、食品标签和食品误导信息",
+      "total_articles": 4,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "mitochondrial-cellular-health",
+      "description": "线粒体功能、细胞代谢和能量调节",
+      "total_articles": 4,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "special-populations",
+      "description": "特殊人群的健康管理,包括老年人、女性、低视力人群和双重饮食家庭",
+      "total_articles": 4,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "infection-inflammation-immunity",
+      "description": "感染、炎症和免疫系统的代谢影响",
+      "total_articles": 3,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "nonpharmacologic-interventions",
+      "description": "非药物干预方法的比较和有效性评估",
+      "total_articles": 3,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "renal-cardiovascular-interface",
+      "description": "肾脏心血管相互作用、肾脏钠处理、肾脏高血压和心肾综合征",
+      "total_articles": 3,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "metabolic-liver-dysfunction",
+      "description": "肝脏代谢功能障碍和肝脏-代谢互动",
+      "total_articles": 2,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "microvascular-health",
+      "description": "微血管健康与微循环功能",
+      "total_articles": 2,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "topical-adipose-interventions",
+      "description": "外用制剂对脂肪组织功能的影响",
+      "total_articles": 1,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "hypoglycemia-frailty-prevention",
+      "description": "虚弱老年人的低血糖预防策略",
+      "total_articles": 1,
+      "source_batch": 3
+    }
+  ]
+}

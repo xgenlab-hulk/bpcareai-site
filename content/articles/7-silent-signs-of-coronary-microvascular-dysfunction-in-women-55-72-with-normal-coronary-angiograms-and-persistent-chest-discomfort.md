@@ -1,14 +1,28 @@
 ---
-title: "7 Silent Signs of Coronary Microvascular Dysfunction in Women 55–72 With Normal Coronary Angiograms and Persistent Chest Discomfort"
-slug: "7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort"
-description: "Explores subtle, often-missed symptoms of small-vessel heart disease in midlife and older women—despite 'clean' catheterization results—and when to pursue advanced diagnostics like CFR or PET imaging."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["coronary microvascular dysfunction symptoms women", "heart disease", "gender-specific-symptoms"]
-primaryKeyword: "coronary microvascular dysfunction symptoms women"
-topicCluster: "gender-specific-symptoms"
-image: ""
-relatedSlugs: ["7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis", "heart-disease-symptoms-in-women-over-50-what-s-often-missed", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "when-to-worry-about-normal-chest-discomfort-while-gardening-a-5-point-field-assessment-for-women-65-80-with-atypical-angina-presentation"]
+title: >-
+  7 Silent Signs of Coronary Microvascular Dysfunction in Women 55–72 With
+  Normal Coronary Angiograms and Persistent Chest Discomfort
+slug: >-
+  7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
+description: >-
+  Explores subtle, often-missed symptoms of small-vessel heart disease in
+  midlife and older women—despite 'clean' catheterization results—and when to
+  pursue advanced diagnostics like CFR or PET imaging.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: coronary microvascular dysfunction symptoms women
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    when-to-worry-about-normal-chest-discomfort-while-gardening-a-5-point-field-assessment-for-women-65-80-with-atypical-angina-presentation
 ---
 
 # 7 Subtle but Important Coronary Microvascular Dysfunction Symptoms in Women Ages 55–72—Even With Normal Angiograms

@@ -1,14 +1,29 @@
 ---
-title: "Does Daily 20-Minute Resistance Band Training Lower HbA1c in Sedentary Adults 63–77 With Type 2 Diabetes—Without Weight Loss?"
-slug: "does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss"
-description: "Breaks down a 16-week RCT showing glycemic improvements independent of BMI change, emphasizing muscle glucose uptake, GLUT4 translocation, and sarcopenia mitigation."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["resistance band training and hba1c in seniors", "diabetes", "muscle-glucose-uptake"]
-primaryKeyword: "resistance band training and hba1c in seniors"
-topicCluster: "muscle-glucose-uptake"
-image: ""
-relatedSlugs: ["natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70", "how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70", "how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension", "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats", "best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60"]
+title: >-
+  Does Daily 20-Minute Resistance Band Training Lower HbA1c in Sedentary Adults
+  63–77 With Type 2 Diabetes—Without Weight Loss?
+slug: >-
+  does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
+description: >-
+  Breaks down a 16-week RCT showing glycemic improvements independent of BMI
+  change, emphasizing muscle glucose uptake, GLUT4 translocation, and sarcopenia
+  mitigation.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: resistance band training and hba1c in seniors
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+  - >-
+    how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
 ---
 
 # Can Resistance Band Training and Hba1c in Seniors Improve Blood Sugar—Even Without Weight Loss?

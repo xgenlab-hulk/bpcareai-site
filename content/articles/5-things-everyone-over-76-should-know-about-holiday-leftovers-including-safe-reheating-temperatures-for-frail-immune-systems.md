@@ -1,14 +1,28 @@
 ---
-title: "5 Things Everyone Over 76 Should Know About Holiday Leftovers — Including Safe Reheating Temperatures for Frail Immune Systems"
-slug: "5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems"
-description: "Details food safety thresholds, storage timelines, and reheating protocols tailored to immunosenescence, focusing on high-risk items like stuffing, gravy, and dairy-based pies."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["holiday leftovers food safety seniors", "healthy holiday eating for seniors", "food-safety-immunology"]
-primaryKeyword: "holiday leftovers food safety seniors"
-topicCluster: "food-safety-immunology"
-image: ""
-relatedSlugs: ["the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis", "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis", "easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors", "5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates"]
+title: >-
+  5 Things Everyone Over 76 Should Know About Holiday Leftovers — Including Safe
+  Reheating Temperatures for Frail Immune Systems
+slug: >-
+  5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
+description: >-
+  Details food safety thresholds, storage timelines, and reheating protocols
+  tailored to immunosenescence, focusing on high-risk items like stuffing,
+  gravy, and dairy-based pies.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: holiday leftovers food safety seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis
+  - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
+  - >-
+    5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
 ---
 
 # Holiday Leftovers Food Safety for Seniors: 5 Essential Tips Everyone Over 76 Needs to Know

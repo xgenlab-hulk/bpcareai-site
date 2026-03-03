@@ -6,10 +6,6 @@ description: >-
   the progression of heart disease in adults over 50.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - reversing heart disease after 50
-  - heart disease
-  - heart-health
 primaryKeyword: reversing heart disease after 50
 topicCluster: cardiovascular-health
 image: ''

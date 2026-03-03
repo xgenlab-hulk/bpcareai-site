@@ -10,12 +10,8 @@ description: >-
   voice-navigated timers—for safe, independent participation.
 date: '2026-01-01'
 updated: '2026-01-01'
-tags:
-  - cookie decorating diabetic retinopathy contrast sensitivity
-  - holiday diabetes management
-  - vision-adapted-holiday-activities
 primaryKeyword: cookie decorating diabetic retinopathy contrast sensitivity
-topicCluster: vision-adapted-holiday-activities
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

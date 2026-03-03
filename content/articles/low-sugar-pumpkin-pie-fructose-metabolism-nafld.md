@@ -1,14 +1,31 @@
 ---
-title: "The Truth About 'Low-Sugar' Store-Bought Pumpkin Pie Fillings — Why 91% Still Contain High-Fructose Corn Syrup Derivatives That Bypass First-Pass Metabolism in Adults 70+ With NAFLD"
-slug: "the-truth-about-low-sugar-store-bought-pumpkin-pie-fillings-why-91-still-contain-high-fructose-corn-syrup-derivatives-that-bypass-first-pass-metabolism-in-adults-70-with-nafld"
-description: "Investigates labeling loopholes, metabolic fate of fructose polymers (e.g., inulin hydrolysates), and hepatic de novo lipogenesis spikes measured via 13C-MRS after ingestion — specifically in elders with nonalcoholic fatty liver disease."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["low-sugar pumpkin pie fructose metabolism NAFLD", "healthy eating during family gatherings", "food-labeling-metabolic-consequences"]
-primaryKeyword: "low-sugar pumpkin pie fructose metabolism NAFLD"
-topicCluster: "food-labeling-metabolic-consequences"
-image: ""
-relatedSlugs: ["the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld", "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60", "the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60", "myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia", "the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms"]
+title: >-
+  The Truth About 'Low-Sugar' Store-Bought Pumpkin Pie Fillings — Why 91% Still
+  Contain High-Fructose Corn Syrup Derivatives That Bypass First-Pass Metabolism
+  in Adults 70+ With NAFLD
+slug: >-
+  the-truth-about-low-sugar-store-bought-pumpkin-pie-fillings-why-91-still-contain-high-fructose-corn-syrup-derivatives-that-bypass-first-pass-metabolism-in-adults-70-with-nafld
+description: >-
+  Investigates labeling loopholes, metabolic fate of fructose polymers (e.g.,
+  inulin hydrolysates), and hepatic de novo lipogenesis spikes measured via
+  13C-MRS after ingestion — specifically in elders with nonalcoholic fatty liver
+  disease.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: low-sugar pumpkin pie fructose metabolism NAFLD
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld
+  - >-
+    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
+  - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+  - >-
+    myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
+  - >-
+    the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms
 ---
 
 # What “Low-Sugar” Pumpkin Pie Fillings *Really* Do to Your Liver — Especially If You’re 70+ and Managing NAFLD

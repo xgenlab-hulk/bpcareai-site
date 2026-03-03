@@ -11,12 +11,8 @@ description: >-
   without calorie counting.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - reverse insulin resistance holiday meals study
-  - healthy eating during family gatherings
-  - diabetic-diet-intervention-research
 primaryKeyword: reverse insulin resistance holiday meals study
-topicCluster: diabetes-care
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 5-science-backed-ways-to-reduce-holiday-related-insulin-resistance

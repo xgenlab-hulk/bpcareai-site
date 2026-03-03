@@ -1,14 +1,29 @@
 ---
-title: "Best Low-GI, High-Satiety Holiday Breakfasts for Adults 60–75 With Morning Hyperglycemia and GERD"
-slug: "best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd"
-description: "Curates breakfast options balancing glycemic index, gastric retention time, esophageal pH neutrality, and protein quality — with emphasis on overnight glucose stabilization."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["low-GI holiday breakfast morning hyperglycemia GERD", "holiday diabetes management", "morning-glycemic-control"]
-primaryKeyword: "low-GI holiday breakfast morning hyperglycemia GERD"
-topicCluster: "morning-glycemic-control"
-image: ""
-relatedSlugs: ["the-truth-about-low-glycemic-breakfast-cereals-for-adults-55-with-prediabetes-and-gastric-bypass-history", "7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68", "10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress", "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks", "12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65"]
+title: >-
+  Best Low-GI, High-Satiety Holiday Breakfasts for Adults 60–75 With Morning
+  Hyperglycemia and GERD
+slug: >-
+  best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd
+description: >-
+  Curates breakfast options balancing glycemic index, gastric retention time,
+  esophageal pH neutrality, and protein quality — with emphasis on overnight
+  glucose stabilization.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: low-GI holiday breakfast morning hyperglycemia GERD
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-glycemic-breakfast-cereals-for-adults-55-with-prediabetes-and-gastric-bypass-history
+  - >-
+    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
+  - >-
+    10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - >-
+    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
 ---
 
 # Low-GI Holiday Breakfasts for Morning Hyperglycemia and GERD in Adults 60–75

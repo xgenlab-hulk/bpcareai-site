@@ -10,12 +10,8 @@ description: >-
   home assessments.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - dizziness standing up orthostatic hypotension
-  - heart health
-  - emergency-symptoms
 primaryKeyword: dizziness standing up orthostatic hypotension
-topicCluster: emergency-symptoms
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults

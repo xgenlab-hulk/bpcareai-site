@@ -1,14 +1,29 @@
 ---
-title: "How Alcohol Timing Affects Atrial Fibrillation Risk During Holiday Gatherings in Adults 55–68 With Occult AF and High-Functioning Lifestyle"
-slug: "how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle"
-description: "Explores why drinking alcohol earlier in the day — versus late-night toasting — significantly alters arrhythmia risk in middle-aged adults with undiagnosed paroxysmal AF, based on circadian autonomic modulation and postprandial hemodynamics."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["alcohol timing atrial fibrillation holiday risk", "holiday heart syndrome prevention", "alcohol-timing-arrhythmia"]
-primaryKeyword: "alcohol timing atrial fibrillation holiday risk"
-topicCluster: "alcohol-timing-arrhythmia"
-image: ""
-relatedSlugs: ["the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60", "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults", "how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension", "how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults"]
+title: >-
+  How Alcohol Timing Affects Atrial Fibrillation Risk During Holiday Gatherings
+  in Adults 55–68 With Occult AF and High-Functioning Lifestyle
+slug: >-
+  how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
+description: >-
+  Explores why drinking alcohol earlier in the day — versus late-night toasting
+  — significantly alters arrhythmia risk in middle-aged adults with undiagnosed
+  paroxysmal AF, based on circadian autonomic modulation and postprandial
+  hemodynamics.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: alcohol timing atrial fibrillation holiday risk
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - >-
+    how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
+  - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 
 # How Alcohol Timing Atrial Fibrillation Holiday Risk Shifts for Active Adults Over 55

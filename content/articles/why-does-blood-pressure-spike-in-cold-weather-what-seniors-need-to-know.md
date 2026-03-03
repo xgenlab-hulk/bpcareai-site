@@ -7,10 +7,6 @@ description: >-
   during colder months.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - blood pressure in cold weather
-  - senior blood pressure control in winter
-  - seasonal-blood-pressure-changes
 primaryKeyword: blood pressure in cold weather
 topicCluster: hypertension-management
 image: ''

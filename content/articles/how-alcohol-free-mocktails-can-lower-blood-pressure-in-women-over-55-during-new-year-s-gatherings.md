@@ -11,12 +11,8 @@ description: >-
   options.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - alcohol-free mocktails blood pressure women over 55
-  - healthy eating during family gatherings
-  - cardiac-diet-beverage-science
 primaryKeyword: alcohol-free mocktails blood pressure women over 55
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50

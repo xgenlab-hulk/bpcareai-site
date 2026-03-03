@@ -10,12 +10,8 @@ description: >-
   postprandial FMD and oxLDL changes in real-world metabolic phenotypes.
 date: '2025-12-31'
 updated: '2025-12-31'
-tags:
-  - plant-based burgers endothelial function prediabetes
-  - heart disease
-  - ultra-processed-foods-endothelium
 primaryKeyword: plant-based burgers endothelial function prediabetes
-topicCluster: ultra-processed-foods-endothelium
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

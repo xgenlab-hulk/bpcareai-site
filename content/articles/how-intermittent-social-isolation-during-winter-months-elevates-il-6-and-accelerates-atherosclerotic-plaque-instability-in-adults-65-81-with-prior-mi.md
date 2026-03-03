@@ -1,14 +1,30 @@
 ---
-title: "How Intermittent Social Isolation During Winter Months Elevates IL-6 and Accelerates Atherosclerotic Plaque Instability in Adults 65–81 With Prior MI"
-slug: "how-intermittent-social-isolation-during-winter-months-elevates-il-6-and-accelerates-atherosclerotic-plaque-instability-in-adults-65-81-with-prior-mi"
-description: "Links seasonal loneliness to proinflammatory cytokine surges, endothelial microparticle release, and plaque vulnerability—plus evidence-based social rhythm interventions that reduced recurrent event rates in the WINTER-HEART trial."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["social isolation winter atherosclerosis", "heart disease", "psychocardiology-seasonal"]
-primaryKeyword: "social isolation winter atherosclerosis"
-topicCluster: "psychocardiology-seasonal"
-image: ""
-relatedSlugs: ["how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone", "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone", "how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79", "why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression", "how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone"]
+title: >-
+  How Intermittent Social Isolation During Winter Months Elevates IL-6 and
+  Accelerates Atherosclerotic Plaque Instability in Adults 65–81 With Prior MI
+slug: >-
+  how-intermittent-social-isolation-during-winter-months-elevates-il-6-and-accelerates-atherosclerotic-plaque-instability-in-adults-65-81-with-prior-mi
+description: >-
+  Links seasonal loneliness to proinflammatory cytokine surges, endothelial
+  microparticle release, and plaque vulnerability—plus evidence-based social
+  rhythm interventions that reduced recurrent event rates in the WINTER-HEART
+  trial.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: social isolation winter atherosclerosis
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
+  - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - >-
+    how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79
+  - >-
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
 ---
 
 # How Seasonal Social Isolation Worsens Atherosclerosis in Older Adults After a Heart Attack

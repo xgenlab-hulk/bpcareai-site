@@ -1,14 +1,25 @@
 ---
-title: "A vs B: Gingerbread House Decorating With Sugar-Free Icing vs. Traditional Royal Icing—Impact on Postprandial Glucose Spikes in Adults 58–74"
-slug: "a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74"
-description: "Compares real-world CGM data from 22 participants during a festive activity, analyzing glycemic response, satiety, and perceived enjoyment."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["gingerbread house blood sugar comparison", "managing blood sugar during christmas and new year", "diet-nutrition-activity-based-comparison"]
-primaryKeyword: "gingerbread house blood sugar comparison"
-topicCluster: "diet-nutrition-activity-based-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal"]
+title: >-
+  A vs B: Gingerbread House Decorating With Sugar-Free Icing vs. Traditional
+  Royal Icing—Impact on Postprandial Glucose Spikes in Adults 58–74
+slug: >-
+  a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74
+description: >-
+  Compares real-world CGM data from 22 participants during a festive activity,
+  analyzing glycemic response, satiety, and perceived enjoyment.
+date: '2026-01-01'
+updated: '2026-01-01'
+primaryKeyword: gingerbread house blood sugar comparison
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 
 # Gingerbread House Blood Sugar Comparison: What Real-World Data Reveals for Adults 58–74

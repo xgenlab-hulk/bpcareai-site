@@ -1,14 +1,27 @@
 ---
-title: "7 Hidden Heart Disease Risk Factors Your Primary Care Doctor Might Miss — Especially If You’re a Woman Over 65 With Migraines"
-slug: "7-hidden-heart-disease-risk-factors-your-primary-care-doctor-might-miss-especially-if-you-re-a-woman-over-65-with-migraines"
-description: "Explores under-recognized cardiovascular risk markers like migraine with aura, autoimmune thyroiditis, and microvascular angina that are frequently overlooked in routine screenings for older women."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["hidden heart disease risk factors women over 65", "heart disease", "risk-factors-gender-specific"]
-primaryKeyword: "hidden heart disease risk factors women over 65"
-topicCluster: "risk-factors-gender-specific"
-image: ""
-relatedSlugs: ["heart-disease-symptoms-in-women-over-50-what-s-often-missed", "7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening", "7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis", "why-arm-pain-shouldn-t-be-ignored-in-women-over-50", "why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol"]
+title: >-
+  7 Hidden Heart Disease Risk Factors Your Primary Care Doctor Might Miss —
+  Especially If You’re a Woman Over 65 With Migraines
+slug: >-
+  7-hidden-heart-disease-risk-factors-your-primary-care-doctor-might-miss-especially-if-you-re-a-woman-over-65-with-migraines
+description: >-
+  Explores under-recognized cardiovascular risk markers like migraine with aura,
+  autoimmune thyroiditis, and microvascular angina that are frequently
+  overlooked in routine screenings for older women.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: hidden heart disease risk factors women over 65
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
+  - >-
+    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
+  - >-
+    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
 ---
 
 # 7 Hidden Heart Disease Risk Factors Women Over 65 Should Know About — Especially With Migraines

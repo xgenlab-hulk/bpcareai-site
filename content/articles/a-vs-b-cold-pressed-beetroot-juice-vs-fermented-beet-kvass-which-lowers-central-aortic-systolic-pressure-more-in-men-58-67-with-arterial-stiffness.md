@@ -10,12 +10,8 @@ description: >-
   RCT.
 date: '2025-12-30'
 updated: '2025-12-30'
-tags:
-  - beetroot juice vs fermented beet kvass
-  - blood pressure
-  - nitrate-therapy-comparison
 primaryKeyword: beetroot juice vs fermented beet kvass
-topicCluster: nitrate-therapy-comparison
+topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-

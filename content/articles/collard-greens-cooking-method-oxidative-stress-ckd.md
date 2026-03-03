@@ -1,14 +1,31 @@
 ---
-title: "A vs B: Slow-Cooked Collard Greens with Smoked Turkey Leg vs. Instant-Pot Collards with Liquid Smoke — Impact on Urinary 8-OHdG Levels in Adults 76+ With Chronic Kidney Disease Stage 3"
-slug: "a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-collards-with-liquid-smoke-impact-on-urinary-8-ohdg-levels-in-adults-76-with-chronic-kidney-disease-stage-3"
-description: "Compares oxidative DNA damage biomarkers after two preparation methods of a culturally significant side dish — focusing on polycyclic aromatic hydrocarbon (PAH) exposure, nitrosamine formation, and renal clearance capacity in aging CKD patients."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["collard greens cooking method oxidative stress CKD", "healthy eating during family gatherings", "culinary-methods-oxidative-damage"]
-primaryKeyword: "collard greens cooking method oxidative stress CKD"
-topicCluster: "culinary-methods-oxidative-damage"
-image: ""
-relatedSlugs: ["a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd", "a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics", "a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension", "a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd", "quick-ways-to-reduce-post-meal-oxidative-stress-within-45-minutes-for-adults-68-with-copd-and-long-standing-smoking-history"]
+title: >-
+  A vs B: Slow-Cooked Collard Greens with Smoked Turkey Leg vs. Instant-Pot
+  Collards with Liquid Smoke — Impact on Urinary 8-OHdG Levels in Adults 76+
+  With Chronic Kidney Disease Stage 3
+slug: >-
+  a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-collards-with-liquid-smoke-impact-on-urinary-8-ohdg-levels-in-adults-76-with-chronic-kidney-disease-stage-3
+description: >-
+  Compares oxidative DNA damage biomarkers after two preparation methods of a
+  culturally significant side dish — focusing on polycyclic aromatic hydrocarbon
+  (PAH) exposure, nitrosamine formation, and renal clearance capacity in aging
+  CKD patients.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: collard greens cooking method oxidative stress CKD
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd
+  - >-
+    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
+  - >-
+    a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension
+  - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
+  - >-
+    quick-ways-to-reduce-post-meal-oxidative-stress-within-45-minutes-for-adults-68-with-copd-and-long-standing-smoking-history
 ---
 
 # Collard Greens Cooking Method and Oxidative Stress in CKD: What Matters Most for Healthy Aging

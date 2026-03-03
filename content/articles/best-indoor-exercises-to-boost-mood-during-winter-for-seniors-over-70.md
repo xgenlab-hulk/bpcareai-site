@@ -6,12 +6,8 @@ description: >-
   and improve emotional well-being at home.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - indoor exercises for seasonal depression
-  - seasonal depression in older adults
-  - exercise-physical-activity
 primaryKeyword: indoor exercises for seasonal depression
-topicCluster: physical-activity
+topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter

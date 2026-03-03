@@ -1,14 +1,28 @@
 ---
-title: "5 Things Every Woman Over 67 Should Know About Holiday Heart Syndrome — Especially With Concurrent Perimenopausal Estrogen Decline and Subclinical Coronary Microvascular Dysfunction"
-slug: "5-things-every-woman-over-67-should-know-about-holiday-heart-syndrome-especially-with-concurrent-perimenopausal-estrogen-decline-and-subclinical-coronary-microvascular-dysfunction"
-description: "Gender-specific breakdown of hormonal, microvascular, and inflammatory intersections that uniquely predispose postmenopausal women to alcohol-triggered arrhythmias during festive periods."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["women holiday heart syndrome menopause", "holiday heart syndrome prevention", "gender-hormonal-cardiac-risk"]
-primaryKeyword: "women holiday heart syndrome menopause"
-topicCluster: "gender-hormonal-cardiac-risk"
-image: ""
-relatedSlugs: ["holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af", "holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips", "why-older-women-are-more-vulnerable-to-winter-heart-events", "7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55", "why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol"]
+title: >-
+  5 Things Every Woman Over 67 Should Know About Holiday Heart Syndrome —
+  Especially With Concurrent Perimenopausal Estrogen Decline and Subclinical
+  Coronary Microvascular Dysfunction
+slug: >-
+  5-things-every-woman-over-67-should-know-about-holiday-heart-syndrome-especially-with-concurrent-perimenopausal-estrogen-decline-and-subclinical-coronary-microvascular-dysfunction
+description: >-
+  Gender-specific breakdown of hormonal, microvascular, and inflammatory
+  intersections that uniquely predispose postmenopausal women to
+  alcohol-triggered arrhythmias during festive periods.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: women holiday heart syndrome menopause
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
+  - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
+  - why-older-women-are-more-vulnerable-to-winter-heart-events
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+  - >-
+    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
 ---
 
 # What Every Woman Over 67 Should Know About Women Holiday Heart Syndrome and Menopause

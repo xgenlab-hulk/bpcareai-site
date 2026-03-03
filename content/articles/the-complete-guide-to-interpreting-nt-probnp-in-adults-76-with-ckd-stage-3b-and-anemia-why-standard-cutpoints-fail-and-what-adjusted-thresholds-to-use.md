@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Interpreting NT-proBNP in Adults 76+ With CKD Stage 3b and Anemia — Why Standard Cutpoints Fail and What Adjusted Thresholds to Use"
-slug: "the-complete-guide-to-interpreting-nt-probnp-in-adults-76-with-ckd-stage-3b-and-anemia-why-standard-cutpoints-fail-and-what-adjusted-thresholds-to-use"
-description: "Provides a step-by-step framework for contextualizing NT-proBNP results in older adults with overlapping renal and hematologic confounders — including age- and eGFR-adjusted interpretation tables."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["nt-probnp interpretation in elderly ckd", "heart disease", "biomarker-interpretation-guide"]
-primaryKeyword: "nt-probnp interpretation in elderly ckd"
-topicCluster: "biomarker-interpretation-guide"
-image: ""
-relatedSlugs: ["12-science-backed-times-to-check-nt-probnp-not-just-bnp-in-adults-65-with-chronic-kidney-disease-stage-2-and-new-onset-exertional-dyspnea", "myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions", "why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin", "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use", "how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation"]
+title: >-
+  The Complete Guide to Interpreting NT-proBNP in Adults 76+ With CKD Stage 3b
+  and Anemia — Why Standard Cutpoints Fail and What Adjusted Thresholds to Use
+slug: >-
+  the-complete-guide-to-interpreting-nt-probnp-in-adults-76-with-ckd-stage-3b-and-anemia-why-standard-cutpoints-fail-and-what-adjusted-thresholds-to-use
+description: >-
+  Provides a step-by-step framework for contextualizing NT-proBNP results in
+  older adults with overlapping renal and hematologic confounders — including
+  age- and eGFR-adjusted interpretation tables.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: nt-probnp interpretation in elderly ckd
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-times-to-check-nt-probnp-not-just-bnp-in-adults-65-with-chronic-kidney-disease-stage-2-and-new-onset-exertional-dyspnea
+  - >-
+    myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions
+  - >-
+    why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - >-
+    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
 ---
 
 # A Practical Guide to NT-proBNP Interpretation in Elderly CKD: Why Age and Kidney Function Change the Numbers

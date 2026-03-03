@@ -10,12 +10,8 @@ description: >-
   residual C-peptide preservation.
 date: '2026-01-15'
 updated: '2026-01-15'
-tags:
-  - ldn type 1 diabetes hashimoto's
-  - diabetes
-  - autoimmunity-immunomodulation
 primaryKeyword: ldn type 1 diabetes hashimoto's
-topicCluster: autoimmunity-immunomodulation
+topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-

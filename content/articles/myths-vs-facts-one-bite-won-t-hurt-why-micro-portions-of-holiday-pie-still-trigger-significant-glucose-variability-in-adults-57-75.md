@@ -1,14 +1,28 @@
 ---
-title: "Myths vs Facts: 'One Bite Won’t Hurt'—Why Micro-Portions of Holiday Pie Still Trigger Significant Glucose Variability in Adults 57–75"
-slug: "myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75"
-description: "Uses CGM data overlays to debunk 'just one bite' assumptions, illustrating insulin demand, beta-cell strain, and cumulative postprandial burden over 3 hours."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["one bite holiday pie blood sugar myth", "managing blood sugar during christmas and new year", "myths-vs-facts-cgm-evidence"]
-primaryKeyword: "one bite holiday pie blood sugar myth"
-topicCluster: "myths-vs-facts-cgm-evidence"
-image: ""
-relatedSlugs: ["myths-vs-facts-holiday-eating-with-diabetes-after-50", "myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome", "a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74", "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65", "how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55"]
+title: >-
+  Myths vs Facts: 'One Bite Won’t Hurt'—Why Micro-Portions of Holiday Pie Still
+  Trigger Significant Glucose Variability in Adults 57–75
+slug: >-
+  myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
+description: >-
+  Uses CGM data overlays to debunk 'just one bite' assumptions, illustrating
+  insulin demand, beta-cell strain, and cumulative postprandial burden over 3
+  hours.
+date: '2026-01-01'
+updated: '2026-01-01'
+primaryKeyword: one bite holiday pie blood sugar myth
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
+  - >-
+    a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74
+  - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 ---
 
 # Debunking the “One Bite Holiday Pie Blood Sugar Myth”: What CGM Data Really Shows for Adults 57–75

@@ -1,14 +1,31 @@
 ---
-title: "What Causes Sudden Post-Dinner Fatigue *Only* When Eating at Your Daughter’s House? — The Role of Ambient VOCs, Carpet Off-Gassing, and Mitochondrial Stress in Adults 64+ With Fibromyalgia"
-slug: "what-causes-sudden-post-dinner-fatigue-only-when-eating-at-your-daughter-s-house-the-role-of-ambient-vocs-carpet-off-gassing-and-mitochondrial-stress-in-adults-64-with-fibromyalgia"
-description: "Links holiday-specific indoor air pollutants (from new rugs, scented candles, and synthetic wreaths) to postprandial mitochondrial dysfunction — with low-cost air quality mitigation and meal-timing buffers to preserve energy homeostasis."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["post dinner fatigue holiday indoor air", "healthy eating during family gatherings", "environmental-mitochondrial-fatigue"]
-primaryKeyword: "post dinner fatigue holiday indoor air"
-topicCluster: "environmental-mitochondrial-fatigue"
-image: ""
-relatedSlugs: ["what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals", "what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings", "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it", "when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea", "natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max"]
+title: >-
+  What Causes Sudden Post-Dinner Fatigue *Only* When Eating at Your Daughter’s
+  House? — The Role of Ambient VOCs, Carpet Off-Gassing, and Mitochondrial
+  Stress in Adults 64+ With Fibromyalgia
+slug: >-
+  what-causes-sudden-post-dinner-fatigue-only-when-eating-at-your-daughter-s-house-the-role-of-ambient-vocs-carpet-off-gassing-and-mitochondrial-stress-in-adults-64-with-fibromyalgia
+description: >-
+  Links holiday-specific indoor air pollutants (from new rugs, scented candles,
+  and synthetic wreaths) to postprandial mitochondrial dysfunction — with
+  low-cost air quality mitigation and meal-timing buffers to preserve energy
+  homeostasis.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: post dinner fatigue holiday indoor air
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
+  - >-
+    what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
+  - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+  - >-
+    when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
 ---
 
 # Why You Feel Drained After Dinner Only at Your Daughter’s House — Understanding Post-Dinner Fatigue, Holiday Indoor Air, and Gentle Mitigation Strategies

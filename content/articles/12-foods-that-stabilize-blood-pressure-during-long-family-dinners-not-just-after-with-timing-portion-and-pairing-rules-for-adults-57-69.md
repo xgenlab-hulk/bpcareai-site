@@ -10,12 +10,8 @@ description: >-
   during simulated 3-hour meals.
 date: '2025-12-31'
 updated: '2025-12-31'
-tags:
-  - foods stabilize blood pressure during meal
-  - healthy eating during family gatherings
-  - intra-meal-blood-pressure-modulation
 primaryKeyword: foods stabilize blood pressure during meal
-topicCluster: intra-meal-blood-pressure-modulation
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,28 @@
 ---
-title: "Simple Steps to Reduce Holiday Meal-Induced Gastric Reflux in Women 63+ With Hiatal Hernia — Without PPIs or Antacids"
-slug: "simple-steps-to-reduce-holiday-meal-induced-gastric-reflux-in-women-63-with-hiatal-hernia-without-ppis-or-antacids"
-description: "Offers posture-modulated eating (e.g., 22° recline during dessert), timed ginger-chamomile infusion, and diaphragmatic breathing cues calibrated to hernia size."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["gastric reflux hiatal hernia women seniors", "healthy eating during family gatherings", "reflux-management-women-aging"]
-primaryKeyword: "gastric reflux hiatal hernia women seniors"
-topicCluster: "reflux-management-women-aging"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia", "natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms", "can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd", "7-often-overlooked-signs-your-holiday-meal-is-triggering-silent-reflux-especially-if-you-re-65-and-take-calcium-channel-blockers", "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60"]
+title: >-
+  Simple Steps to Reduce Holiday Meal-Induced Gastric Reflux in Women 63+ With
+  Hiatal Hernia — Without PPIs or Antacids
+slug: >-
+  simple-steps-to-reduce-holiday-meal-induced-gastric-reflux-in-women-63-with-hiatal-hernia-without-ppis-or-antacids
+description: >-
+  Offers posture-modulated eating (e.g., 22° recline during dessert), timed
+  ginger-chamomile infusion, and diaphragmatic breathing cues calibrated to
+  hernia size.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: gastric reflux hiatal hernia women seniors
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+  - >-
+    can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
+  - >-
+    7-often-overlooked-signs-your-holiday-meal-is-triggering-silent-reflux-especially-if-you-re-65-and-take-calcium-channel-blockers
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 
 # Gentle, Effective Ways to Ease Gastric Reflux Hiatal Hernia in Women Seniors During the Holidays

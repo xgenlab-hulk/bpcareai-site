@@ -6,12 +6,8 @@ description: >-
   glycemic control during peak season.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - managing diabetes at holiday parties
-  - holiday diabetes management
-  - social-situation-management
 primaryKeyword: managing diabetes at holiday parties
-topicCluster: social-environmental
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes

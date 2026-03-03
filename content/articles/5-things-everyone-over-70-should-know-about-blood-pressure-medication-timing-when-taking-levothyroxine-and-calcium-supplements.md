@@ -1,14 +1,27 @@
 ---
-title: "5 Things Everyone Over 70 Should Know About Blood Pressure Medication Timing When Taking Levothyroxine and Calcium Supplements"
-slug: "5-things-everyone-over-70-should-know-about-blood-pressure-medication-timing-when-taking-levothyroxine-and-calcium-supplements"
-description: "Clarifies absorption interference windows, optimal dosing sequences, and BP monitoring windows to avoid misattributing variability to medication failure."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["bp medication timing levothyroxine calcium", "blood pressure", "polypharmacy-timing"]
-primaryKeyword: "bp medication timing levothyroxine calcium"
-topicCluster: "polypharmacy-timing"
-image: ""
-relatedSlugs: ["why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62", "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use", "7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60"]
+title: >-
+  5 Things Everyone Over 70 Should Know About Blood Pressure Medication Timing
+  When Taking Levothyroxine and Calcium Supplements
+slug: >-
+  5-things-everyone-over-70-should-know-about-blood-pressure-medication-timing-when-taking-levothyroxine-and-calcium-supplements
+description: >-
+  Clarifies absorption interference windows, optimal dosing sequences, and BP
+  monitoring windows to avoid misattributing variability to medication failure.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: bp medication timing levothyroxine calcium
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
 ---
 
 # What You Need to Know About BP Medication Timing With Levothyroxine and Calcium After 70

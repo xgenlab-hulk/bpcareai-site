@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your ‘Stable’ Beta-Blocker Regimen Is Masking Early Diastolic Dysfunction Progression in Women 66–79 With Obesity"
-slug: "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity"
-description: "Highlights subtle clinical red flags—including exercise-induced dyspnea despite normal EF, unexplained orthopnea with minimal fluid retention, and abnormal E/e′ ratio discordance with symptom severity."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["beta blocker masking diastolic dysfunction", "heart disease", "medication-masking-signs"]
-primaryKeyword: "beta blocker masking diastolic dysfunction"
-topicCluster: "medication-masking-signs"
-image: ""
-relatedSlugs: ["7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction", "warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71", "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease"]
+title: >-
+  Warning Signs Your ‘Stable’ Beta-Blocker Regimen Is Masking Early Diastolic
+  Dysfunction Progression in Women 66–79 With Obesity
+slug: >-
+  warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
+description: >-
+  Highlights subtle clinical red flags—including exercise-induced dyspnea
+  despite normal EF, unexplained orthopnea with minimal fluid retention, and
+  abnormal E/e′ ratio discordance with symptom severity.
+date: '2026-01-06'
+updated: '2026-01-06'
+primaryKeyword: beta blocker masking diastolic dysfunction
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+  - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
 ---
 
 # When Beta Blocker Masking Diastolic Dysfunction Hides Early Heart Changes in Older Women with Obesity

@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Times to Check Ketones — Not Just Glucose — in Adults 67+ With Type 2 Diabetes Starting Ketogenic Diet After Weight-Loss Surgery"
-slug: "12-science-backed-times-to-check-ketones-not-just-glucose-in-adults-67-with-type-2-diabetes-starting-ketogenic-diet-after-weight-loss-surgery"
-description: "Guides safe ketone monitoring windows tied to renal perfusion rhythms, insulin clearance half-life, and post-bariatric malabsorption peaks — with red-flag thresholds specific to older adults."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["ketone testing timing post-bariatric diabetes", "diabetes", "ketosis-monitoring-strategy"]
-primaryKeyword: "ketone testing timing post-bariatric diabetes"
-topicCluster: "ketosis-monitoring-strategy"
-image: ""
-relatedSlugs: ["12-science-backed-times-to-check-your-glucose-during-the-holidays-based-on-circadian-ampk-activation-peaks-in-adults-70-with-sarcopenia-and-insulin-resistance", "12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon", "what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery", "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists", "what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62"]
+title: >-
+  12 Science-Backed Times to Check Ketones — Not Just Glucose — in Adults 67+
+  With Type 2 Diabetes Starting Ketogenic Diet After Weight-Loss Surgery
+slug: >-
+  12-science-backed-times-to-check-ketones-not-just-glucose-in-adults-67-with-type-2-diabetes-starting-ketogenic-diet-after-weight-loss-surgery
+description: >-
+  Guides safe ketone monitoring windows tied to renal perfusion rhythms, insulin
+  clearance half-life, and post-bariatric malabsorption peaks — with red-flag
+  thresholds specific to older adults.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: ketone testing timing post-bariatric diabetes
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-times-to-check-your-glucose-during-the-holidays-based-on-circadian-ampk-activation-peaks-in-adults-70-with-sarcopenia-and-insulin-resistance
+  - >-
+    12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon
+  - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
+  - >-
+    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
+  - >-
+    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
 ---
 
 # When to Test Ketones — Not Just Glucose — After Weight-Loss Surgery and Type 2 Diabetes: A Smart, Science-Supported Guide for Adults 67+

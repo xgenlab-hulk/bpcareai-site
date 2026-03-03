@@ -10,12 +10,8 @@ description: >-
   (VOC) and quaternary ammonium data in adults 55–78.
 date: '2025-12-29'
 updated: '2025-12-29'
-tags:
-  - household products that raise blood pressure
-  - blood pressure
-  - environmental-exposures
 primaryKeyword: household products that raise blood pressure
-topicCluster: environmental-exposures
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,27 @@
 ---
-title: "Warning Signs Your Holiday Weight Gain Is Masking Early Diabetic Kidney Disease Progression — Especially If You’re 64+ With eGFR 60–89"
-slug: "warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89"
-description: "Identifies atypical markers — like unexplained nocturia despite stable A1c, subtle ankle edema post-feast, or disproportionate fatigue — that signal early DKD in high-functioning older adults."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["holiday weight gain early diabetic kidney disease", "holiday diabetes management", "complication-detection-dkd"]
-primaryKeyword: "holiday weight gain early diabetic kidney disease"
-topicCluster: "complication-detection-dkd"
-image: ""
-relatedSlugs: ["when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction", "warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks", "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60"]
+title: >-
+  Warning Signs Your Holiday Weight Gain Is Masking Early Diabetic Kidney
+  Disease Progression — Especially If You’re 64+ With eGFR 60–89
+slug: >-
+  warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
+description: >-
+  Identifies atypical markers — like unexplained nocturia despite stable A1c,
+  subtle ankle edema post-feast, or disproportionate fatigue — that signal early
+  DKD in high-functioning older adults.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: holiday weight gain early diabetic kidney disease
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
+  - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
+  - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
 ---
 
 # When Holiday Weight Gain Early Diabetic Kidney Disease Might Be Whispering — Not Shouting

@@ -10,12 +10,8 @@ description: >-
   early changes.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - loneliness left ventricular hypertrophy aging
-  - heart health
-  - emotional-health-physiology
 primaryKeyword: loneliness left ventricular hypertrophy aging
-topicCluster: emotional-health-physiology
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults

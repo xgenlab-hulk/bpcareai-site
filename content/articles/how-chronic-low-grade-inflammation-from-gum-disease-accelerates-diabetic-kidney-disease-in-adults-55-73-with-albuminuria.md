@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Low-Grade Inflammation From Gum Disease Accelerates Diabetic Kidney Disease in Adults 55–73 With Albuminuria"
-slug: "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria"
-description: "Connects periodontal pathogen load (e.g., P. gingivalis), systemic IL-6/TNF-α elevation, and glomerular endothelial injury—plus practical dental-integration protocols for nephrology clinics."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["gum disease and diabetic kidney disease progression", "diabetes", "periodontal-kidney-link"]
-primaryKeyword: "gum disease and diabetic kidney disease progression"
-topicCluster: "periodontal-kidney-link"
-image: ""
-relatedSlugs: ["how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense", "how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp", "how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough", "how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial"]
+title: >-
+  How Chronic Low-Grade Inflammation From Gum Disease Accelerates Diabetic
+  Kidney Disease in Adults 55–73 With Albuminuria
+slug: >-
+  how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
+description: >-
+  Connects periodontal pathogen load (e.g., P. gingivalis), systemic IL-6/TNF-α
+  elevation, and glomerular endothelial injury—plus practical dental-integration
+  protocols for nephrology clinics.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: gum disease and diabetic kidney disease progression
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+  - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
+  - >-
+    how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial
 ---
 
 # How Gum Disease Fuels Diabetic Kidney Disease Progression in Adults 55–73 With Albuminuria

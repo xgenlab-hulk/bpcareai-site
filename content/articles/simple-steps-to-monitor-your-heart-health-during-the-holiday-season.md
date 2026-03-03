@@ -6,12 +6,8 @@ description: >-
   symptom tracking, and wearable use.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - monitor heart health holidays
-  - holiday heart syndrome prevention
-  - monitoring-testing
 primaryKeyword: monitor heart health holidays
-topicCluster: health-monitoring
+topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

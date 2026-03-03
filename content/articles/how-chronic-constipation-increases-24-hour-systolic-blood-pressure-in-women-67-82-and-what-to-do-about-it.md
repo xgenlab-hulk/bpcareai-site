@@ -10,12 +10,8 @@ description: >-
   early-morning hypertension spikes.
 date: '2026-01-10'
 updated: '2026-01-10'
-tags:
-  - constipation and high blood pressure women
-  - blood pressure
-  - gut-cardiovascular-axis
 primaryKeyword: constipation and high blood pressure women
-topicCluster: gut-cardiovascular-axis
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

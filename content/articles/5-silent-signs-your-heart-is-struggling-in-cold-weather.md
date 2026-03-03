@@ -6,12 +6,8 @@ description: >-
   dizziness that may indicate cardiac stress during winter months.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - silent heart signs winter
-  - winter heart health for seniors
-  - early-warning-signs
 primaryKeyword: silent heart signs winter
-topicCluster: symptoms-emergencies
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women

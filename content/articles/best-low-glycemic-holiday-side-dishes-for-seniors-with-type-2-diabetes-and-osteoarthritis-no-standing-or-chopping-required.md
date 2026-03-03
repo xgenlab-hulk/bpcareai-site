@@ -1,14 +1,25 @@
 ---
-title: "Best Low-Glycemic Holiday Side Dishes for Seniors With Type 2 Diabetes *and* Osteoarthritis (No Standing or Chopping Required)"
-slug: "best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required"
-description: "Features 4 fully prepped, no-cook or one-pot recipes optimized for glycemic load *and* joint-friendly prep—designed for those with hand/wrist pain or fatigue limiting kitchen stamina."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["low-glycemic holiday sides arthritis", "holiday diabetes management", "joint-friendly-diabetic-cooking"]
-primaryKeyword: "low-glycemic holiday sides arthritis"
-topicCluster: "joint-friendly-diabetic-cooking"
-image: ""
-relatedSlugs: ["low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar", "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs", "best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season"]
+title: >-
+  Best Low-Glycemic Holiday Side Dishes for Seniors With Type 2 Diabetes *and*
+  Osteoarthritis (No Standing or Chopping Required)
+slug: >-
+  best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
+description: >-
+  Features 4 fully prepped, no-cook or one-pot recipes optimized for glycemic
+  load *and* joint-friendly prep—designed for those with hand/wrist pain or
+  fatigue limiting kitchen stamina.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: low-glycemic holiday sides arthritis
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
 ---
 
 # Low-Glycemic Holiday Sides for Arthritis & Diabetes: Easy, Joint-Friendly Recipes for Older Adults

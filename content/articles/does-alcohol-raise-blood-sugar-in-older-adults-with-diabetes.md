@@ -6,12 +6,8 @@ description: >-
   diabetes medications.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - alcohol effects on blood sugar in seniors with diabetes
-  - diabetes
-  - diabetes-lifestyle
 primaryKeyword: alcohol effects on blood sugar in seniors with diabetes
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Evening Walk After Dinner vs. 15-Minute Seated Breathing (4-7-8 Method) — Impact on Nocturnal Systolic BP Dip in Adults 68+ With Non-Dipping Pattern"
-slug: "a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern"
-description: "Compares two accessible, non-pharmacologic evening interventions head-to-head for restoring circadian BP rhythm—using 24-hour ABPM outcomes from a 2024 pragmatic trial."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["evening walk vs breathing nocturnal bp dip", "heart health", "circadian-intervention-comparison"]
-primaryKeyword: "evening walk vs breathing nocturnal bp dip"
-topicCluster: "circadian-intervention-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-morning-walking-pre-coffee-fasted-15-min-vs-evening-resistance-band-routine-post-dinner-12-min-impact-on-24-hour-ambulatory-bp-variability-in-adults-66-79-with-nocturnal-hypertension", "a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension", "quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns", "a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension", "what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring"]
+title: >-
+  A vs B: Evening Walk After Dinner vs. 15-Minute Seated Breathing (4-7-8
+  Method) — Impact on Nocturnal Systolic BP Dip in Adults 68+ With Non-Dipping
+  Pattern
+slug: >-
+  a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
+description: >-
+  Compares two accessible, non-pharmacologic evening interventions head-to-head
+  for restoring circadian BP rhythm—using 24-hour ABPM outcomes from a 2024
+  pragmatic trial.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: evening walk vs breathing nocturnal bp dip
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-morning-walking-pre-coffee-fasted-15-min-vs-evening-resistance-band-routine-post-dinner-12-min-impact-on-24-hour-ambulatory-bp-variability-in-adults-66-79-with-nocturnal-hypertension
+  - >-
+    a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension
+  - >-
+    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
+  - >-
+    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
+  - >-
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
 ---
 
 # Evening Walk vs Breathing for Nocturnal BP Dip: What Works Best After Dinner for Heart Health in Adults 68+

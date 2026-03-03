@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Traditional Holiday Fruitcake vs. Almond-Flour Citrus Loaf — Impact on 2-Hour Postprandial Triglyceride-Rich Lipoprotein Clearance in Adults 60+ With Diabetic Dyslipidemia"
-slug: "a-vs-b-traditional-holiday-fruitcake-vs-almond-flour-citrus-loaf-impact-on-2-hour-postprandial-triglyceride-rich-lipoprotein-clearance-in-adults-60-with-diabetic-dyslipidemia"
-description: "Compares two festive baked goods using postprandial lipoprotein particle profiling data to show how saturated fat source and fiber matrix affect chylomicron remnant clearance."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["fruitcake vs almond flour loaf diabetes", "holiday diabetes management", "postprandial-lipid-dynamics"]
-primaryKeyword: "fruitcake vs almond flour loaf diabetes"
-topicCluster: "postprandial-lipid-dynamics"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia", "a-vs-b-cold-pressed-flaxseed-oil-refrigerated-30-days-old-vs-ground-flaxseed-pre-soaked-12-hours-impact-on-postprandial-triglyceride-spikes-in-adults-62-78-with-diabetic-dyslipidemia", "myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia", "how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome", "a-vs-b-slow-cooked-herb-roasted-chicken-breast-skinless-no-broth-vs-holiday-style-chicken-pot-pie-frozen-pre-portioned-impact-on-4-hour-postprandial-triglyceride-clearance-in-adults-60-72-with-hypertriglyceridemia"]
+title: >-
+  A vs B: Traditional Holiday Fruitcake vs. Almond-Flour Citrus Loaf — Impact on
+  2-Hour Postprandial Triglyceride-Rich Lipoprotein Clearance in Adults 60+ With
+  Diabetic Dyslipidemia
+slug: >-
+  a-vs-b-traditional-holiday-fruitcake-vs-almond-flour-citrus-loaf-impact-on-2-hour-postprandial-triglyceride-rich-lipoprotein-clearance-in-adults-60-with-diabetic-dyslipidemia
+description: >-
+  Compares two festive baked goods using postprandial lipoprotein particle
+  profiling data to show how saturated fat source and fiber matrix affect
+  chylomicron remnant clearance.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: fruitcake vs almond flour loaf diabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
+  - >-
+    a-vs-b-cold-pressed-flaxseed-oil-refrigerated-30-days-old-vs-ground-flaxseed-pre-soaked-12-hours-impact-on-postprandial-triglyceride-spikes-in-adults-62-78-with-diabetic-dyslipidemia
+  - >-
+    myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
+  - >-
+    how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome
+  - >-
+    a-vs-b-slow-cooked-herb-roasted-chicken-breast-skinless-no-broth-vs-holiday-style-chicken-pot-pie-frozen-pre-portioned-impact-on-4-hour-postprandial-triglyceride-clearance-in-adults-60-72-with-hypertriglyceridemia
 ---
 
 # Fruitcake vs Almond-Flour Loaf for Diabetes: What Your Holiday Treat Says About Post-Meal Fat Clearance

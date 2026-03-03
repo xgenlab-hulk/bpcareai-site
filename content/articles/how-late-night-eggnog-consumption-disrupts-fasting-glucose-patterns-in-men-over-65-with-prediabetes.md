@@ -1,14 +1,28 @@
 ---
-title: "How Late-Night Eggnog Consumption Disrupts Fasting Glucose Patterns in Men Over 65 With Prediabetes"
-slug: "how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes"
-description: "Explores the circadian and metabolic impact of alcohol, fat, and added sugar in traditional eggnog on overnight glucose stability—and offers safer, sensor-validated alternatives."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["eggnog fasting glucose prediabetes", "managing blood sugar during christmas and new year", "metabolic-timing-alcohol-impact"]
-primaryKeyword: "eggnog fasting glucose prediabetes"
-topicCluster: "metabolic-timing-alcohol-impact"
-image: ""
-relatedSlugs: ["the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70", "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s", "how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns", "why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary"]
+title: >-
+  How Late-Night Eggnog Consumption Disrupts Fasting Glucose Patterns in Men
+  Over 65 With Prediabetes
+slug: >-
+  how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
+description: >-
+  Explores the circadian and metabolic impact of alcohol, fat, and added sugar
+  in traditional eggnog on overnight glucose stability—and offers safer,
+  sensor-validated alternatives.
+date: '2026-01-01'
+updated: '2026-01-01'
+primaryKeyword: eggnog fasting glucose prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+  - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+  - >-
+    why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
 ---
 
 # How Eggnog Fasting Glucose Prediabetes Interacts—Especially for Men Over 65

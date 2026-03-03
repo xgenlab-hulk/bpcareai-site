@@ -1,14 +1,28 @@
 ---
-title: "5 Things Everyone Over 60 Should Know About Family-Style Serving and Its Impact on Postprandial Blood Pressure Variability"
-slug: "5-things-everyone-over-60-should-know-about-family-style-serving-and-its-impact-on-postprandial-blood-pressure-variability"
-description: "Explains how communal platters, delayed satiety signaling, and social eating pace contribute to exaggerated systolic spikes and delayed diastolic recovery—especially in those with isolated systolic hypertension."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["family-style serving blood pressure variability", "healthy eating during family gatherings", "meal-structure-hemodynamics"]
-primaryKeyword: "family-style serving blood pressure variability"
-topicCluster: "meal-structure-hemodynamics"
-image: ""
-relatedSlugs: ["how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55", "how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65", "what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85", "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60", "how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes"]
+title: >-
+  5 Things Everyone Over 60 Should Know About Family-Style Serving and Its
+  Impact on Postprandial Blood Pressure Variability
+slug: >-
+  5-things-everyone-over-60-should-know-about-family-style-serving-and-its-impact-on-postprandial-blood-pressure-variability
+description: >-
+  Explains how communal platters, delayed satiety signaling, and social eating
+  pace contribute to exaggerated systolic spikes and delayed diastolic
+  recovery—especially in those with isolated systolic hypertension.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: family-style serving blood pressure variability
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
+  - >-
+    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
+  - how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
 ---
 
 # How Family-Style Serving Blood Pressure Variability Affects Older Adults—and What You Can Do About It

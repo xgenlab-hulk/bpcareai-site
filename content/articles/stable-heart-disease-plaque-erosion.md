@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: 'Stable' Heart Disease Means No Progression — What 2024 Imaging Studies Reveal About Silent Plaque Erosion in Adults 58–66 With Controlled BP and LDL"
-slug: "myths-vs-facts-stable-heart-disease-means-no-progression-what-2024-imaging-studies-reveal-about-silent-plaque-erosion-in-adults-58-66-with-controlled-bp-and-ldl"
-description: "Debunks the false safety of clinical stability using recent intravascular ultrasound and OCT data showing active microerosion even with optimal conventional metrics."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["stable heart disease plaque erosion", "heart disease", "disease-progression-myths"]
-primaryKeyword: "stable heart disease plaque erosion"
-topicCluster: "disease-progression-myths"
-image: ""
-relatedSlugs: ["myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo", "myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55", "myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp", "warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71", "warning-signs-your-stable-blood-pressure-readings-are-masking-subclinical-aortic-valve-stenosis-progression-especially-with-concurrent-elevated-nt-probnp-and-normal-echocardiographic-gradient-in-adults-75"]
+title: >-
+  Myths vs Facts: 'Stable' Heart Disease Means No Progression — What 2024
+  Imaging Studies Reveal About Silent Plaque Erosion in Adults 58–66 With
+  Controlled BP and LDL
+slug: >-
+  myths-vs-facts-stable-heart-disease-means-no-progression-what-2024-imaging-studies-reveal-about-silent-plaque-erosion-in-adults-58-66-with-controlled-bp-and-ldl
+description: >-
+  Debunks the false safety of clinical stability using recent intravascular
+  ultrasound and OCT data showing active microerosion even with optimal
+  conventional metrics.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: stable heart disease plaque erosion
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
+  - >-
+    myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+  - >-
+    warning-signs-your-stable-blood-pressure-readings-are-masking-subclinical-aortic-valve-stenosis-progression-especially-with-concurrent-elevated-nt-probnp-and-normal-echocardiographic-gradient-in-adults-75
 ---
 
 # What “Stable” Heart Disease Really Means: Understanding Silent Plaque Erosion in Adults 58–66

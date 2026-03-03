@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Warm Herbal Chai (Caffeine-Free) vs Sparkling Pomegranate Mocktail for Preventing Post-Meal Atrial Ectopy in Women Over 70"
-slug: "a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70"
-description: "Compares electrophysiologic impact of polyphenol bioavailability, osmotic load, and thermal stimulation on atrial refractoriness using data from 2023 pilot RCTs in postmenopausal cohorts."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["herbal chai vs pomegranate mocktail for atrial ectopy", "holiday heart syndrome prevention", "beverage-comparison"]
-primaryKeyword: "herbal chai vs pomegranate mocktail for atrial ectopy"
-topicCluster: "beverage-comparison"
-image: ""
-relatedSlugs: ["12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib", "a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance", "how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns", "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60"]
+title: >-
+  A vs B: Warm Herbal Chai (Caffeine-Free) vs Sparkling Pomegranate Mocktail for
+  Preventing Post-Meal Atrial Ectopy in Women Over 70
+slug: >-
+  a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
+description: >-
+  Compares electrophysiologic impact of polyphenol bioavailability, osmotic
+  load, and thermal stimulation on atrial refractoriness using data from 2023
+  pilot RCTs in postmenopausal cohorts.
+date: '2025-12-27'
+updated: '2025-12-27'
+primaryKeyword: herbal chai vs pomegranate mocktail for atrial ectopy
+topicCluster: natural-remedies
+image: ''
+relatedSlugs:
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+  - >-
+    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
+  - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 ---
 
 # Herbal Chai vs Pomegranate Mocktail for Atrial Ectopy: What the Latest Research Suggests for Women Over 70

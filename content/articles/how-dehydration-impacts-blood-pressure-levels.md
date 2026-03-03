@@ -6,10 +6,6 @@ description: >-
   what seniors should do to stay hydrated.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - dehydration effects on blood pressure
-  - blood pressure
-  - blood-pressure-basics
 primaryKeyword: dehydration effects on blood pressure
 topicCluster: hypertension-management
 image: ''

@@ -1,14 +1,25 @@
 ---
-title: "How Cold Weather and Holiday Feasting Jointly Elevate Stroke Risk in Seniors With Atrial Fibrillation"
-slug: "how-cold-weather-and-holiday-feasting-jointly-elevate-stroke-risk-in-seniors-with-atrial-fibrillation"
-description: "Explains the synergistic effects of vasoconstriction, hemoconcentration, and postprandial hypercoagulability—plus a step-by-step winter stroke prevention checklist."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["cold weather stroke risk afib seniors", "healthy holiday eating for seniors", "environmental-thrombosis-risk"]
-primaryKeyword: "cold weather stroke risk afib seniors"
-topicCluster: "environmental-thrombosis-risk"
-image: ""
-relatedSlugs: ["how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults", "why-winter-increases-heart-attack-risk-in-seniors-over-70", "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "why-morning-blood-pressure-surges-are-more-dangerous-in-winter"]
+title: >-
+  How Cold Weather and Holiday Feasting Jointly Elevate Stroke Risk in Seniors
+  With Atrial Fibrillation
+slug: >-
+  how-cold-weather-and-holiday-feasting-jointly-elevate-stroke-risk-in-seniors-with-atrial-fibrillation
+description: >-
+  Explains the synergistic effects of vasoconstriction, hemoconcentration, and
+  postprandial hypercoagulability—plus a step-by-step winter stroke prevention
+  checklist.
+date: '2025-12-27'
+updated: '2025-12-27'
+primaryKeyword: cold weather stroke risk afib seniors
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
 ---
 
 # How Cold Weather and Holiday Feasting Raise Stroke Risk in Seniors With Atrial Fibrillation — And What You Can Do

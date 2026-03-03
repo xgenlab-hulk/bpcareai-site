@@ -6,10 +6,6 @@ description: >-
   pattern. When to relax, when to monitor, and when to call your doctor.
 date: '2024-11-05'
 updated: '2024-11-05'
-tags:
-  - blood pressure
-  - health guidance
-  - peace of mind
 primaryKeyword: high blood pressure reading
 topicCluster: hypertension-management
 image: ''

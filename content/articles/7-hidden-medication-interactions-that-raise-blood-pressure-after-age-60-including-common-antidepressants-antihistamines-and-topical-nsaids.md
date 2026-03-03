@@ -1,14 +1,29 @@
 ---
-title: "7 Hidden Medication Interactions That Raise Blood Pressure *After* Age 60 — Including Common Antidepressants, Antihistamines, and Topical NSAIDs"
-slug: "7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids"
-description: "Identifies clinically underrecognized pharmacologic culprits of secondary hypertension in older adults, with emphasis on receptor-level mechanisms (e.g., H1-antagonist–induced α1-adrenergic potentiation)."
-date: "2026-03-02"
-updated: "2026-03-02"
-tags: ["medication-induced hypertension over 60", "blood pressure", "pharmacology-interactions"]
-primaryKeyword: "medication-induced hypertension over 60"
-topicCluster: "pharmacology-interactions"
-image: ""
-relatedSlugs: ["7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics", "7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants", "7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids", "14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors", "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use"]
+title: >-
+  7 Hidden Medication Interactions That Raise Blood Pressure *After* Age 60 —
+  Including Common Antidepressants, Antihistamines, and Topical NSAIDs
+slug: >-
+  7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
+description: >-
+  Identifies clinically underrecognized pharmacologic culprits of secondary
+  hypertension in older adults, with emphasis on receptor-level mechanisms
+  (e.g., H1-antagonist–induced α1-adrenergic potentiation).
+date: '2026-03-02'
+updated: '2026-03-02'
+primaryKeyword: medication-induced hypertension over 60
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids
+  - >-
+    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
 ---
 
 # 7 Surprising Medications That Can Raise Blood Pressure After Age 60 — And What You Can Do About It

@@ -1,14 +1,30 @@
 ---
-title: "The Ultimate Guide to Interpreting Late-Night Home Blood Pressure Dips in Adults With Sleep Apnea and Mild Cognitive Impairment—Including When 'Normal' Dipping Is Actually Harmful"
-slug: "the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful"
-description: "Clarifies paradoxical autonomic failure: why >20% nocturnal BP drop in OSA + MCI may signal baroreflex exhaustion—not health—and how to recalibrate targets using HRV trends."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["nocturnal BP dip sleep apnea mild cognitive impairment", "heart disease", "nocturnal-dip-paradox"]
-primaryKeyword: "nocturnal BP dip sleep apnea mild cognitive impairment"
-topicCluster: "nocturnal-dip-paradox"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71", "myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge", "the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72", "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night", "quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns"]
+title: >-
+  The Ultimate Guide to Interpreting Late-Night Home Blood Pressure Dips in
+  Adults With Sleep Apnea and Mild Cognitive Impairment—Including When 'Normal'
+  Dipping Is Actually Harmful
+slug: >-
+  the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
+description: >-
+  Clarifies paradoxical autonomic failure: why >20% nocturnal BP drop in OSA +
+  MCI may signal baroreflex exhaustion—not health—and how to recalibrate targets
+  using HRV trends.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: nocturnal BP dip sleep apnea mild cognitive impairment
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
+  - >-
+    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+  - >-
+    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
 ---
 
 # Why a “Normal” Late-Night Blood Pressure Drop Might Be a Red Flag in Sleep Apnea and Mild Cognitive Impairment

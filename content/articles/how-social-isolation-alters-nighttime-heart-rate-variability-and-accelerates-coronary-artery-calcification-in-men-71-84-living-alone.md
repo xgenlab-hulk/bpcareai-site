@@ -1,14 +1,29 @@
 ---
-title: "How Social Isolation Alters Nighttime Heart Rate Variability and Accelerates Coronary Artery Calcification in Men 71–84 Living Alone"
-slug: "how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone"
-description: "Presents longitudinal data linking loneliness scores, vagal withdrawal during sleep, and annual CAC progression rate—adjusted for physical activity, depression, and sleep apnea severity."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["social isolation and coronary artery calcification", "heart disease", "psychosocial-calcification"]
-primaryKeyword: "social isolation and coronary artery calcification"
-topicCluster: "psychosocial-calcification"
-image: ""
-relatedSlugs: ["how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk", "how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone", "how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75", "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone", "how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74"]
+title: >-
+  How Social Isolation Alters Nighttime Heart Rate Variability and Accelerates
+  Coronary Artery Calcification in Men 71–84 Living Alone
+slug: >-
+  how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
+description: >-
+  Presents longitudinal data linking loneliness scores, vagal withdrawal during
+  sleep, and annual CAC progression rate—adjusted for physical activity,
+  depression, and sleep apnea severity.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: social isolation and coronary artery calcification
+topicCluster: autonomic-nervous-regulation
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
+  - >-
+    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
+  - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - >-
+    how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
 ---
 
 # How Social Isolation and Coronary Artery Calcification Are Linked in Older Men Living Alone

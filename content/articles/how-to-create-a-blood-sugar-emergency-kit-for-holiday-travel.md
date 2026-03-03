@@ -6,12 +6,8 @@ description: >-
   managing hypo- or hyperglycemia while away from home.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - blood sugar emergency kit travel
-  - managing blood sugar during Christmas and New Year
-  - emergency-preparedness
 primaryKeyword: blood sugar emergency kit travel
-topicCluster: symptoms-emergencies
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

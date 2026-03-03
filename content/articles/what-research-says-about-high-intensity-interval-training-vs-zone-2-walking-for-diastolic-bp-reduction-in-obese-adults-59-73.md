@@ -10,12 +10,8 @@ description: >-
   sustainability.
 date: '2026-01-05'
 updated: '2026-01-05'
-tags:
-  - hiit vs zone 2 walking diastolic bp
-  - blood pressure
-  - exercise-modality-comparison
 primaryKeyword: hiit vs zone 2 walking diastolic bp
-topicCluster: exercise-modality-comparison
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,27 @@
 ---
-title: "The Truth About 'Heart-Healthy' Holiday Wine Labels—What the 2024 FDA Draft Guidance Says About Alcohol Dose Thresholds for Atrial Fibrillation Risk"
-slug: "the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk"
-description: "Breaks down new regulatory language on alcohol labeling, clarifies safe vs. arrhythmogenic thresholds for seniors, and decodes marketing terms like 'moderate' and 'resveratrol-enriched' in context of cardiac vulnerability."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["holiday wine labels and atrial fibrillation risk", "holiday heart syndrome prevention", "regulatory-clarity"]
-primaryKeyword: "holiday wine labels and atrial fibrillation risk"
-topicCluster: "regulatory-clarity"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues", "the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you", "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60"]
+title: >-
+  The Truth About 'Heart-Healthy' Holiday Wine Labels—What the 2024 FDA Draft
+  Guidance Says About Alcohol Dose Thresholds for Atrial Fibrillation Risk
+slug: >-
+  the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk
+description: >-
+  Breaks down new regulatory language on alcohol labeling, clarifies safe vs.
+  arrhythmogenic thresholds for seniors, and decodes marketing terms like
+  'moderate' and 'resveratrol-enriched' in context of cardiac vulnerability.
+date: '2025-12-25'
+updated: '2025-12-25'
+primaryKeyword: holiday wine labels and atrial fibrillation risk
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
+  - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
 ---
 
 # What Holiday Wine Labels and Atrial Fibrillation Risk Really Mean—A Calm, Clear Look at the 2024 FDA Guidance

@@ -6,12 +6,8 @@ description: >-
   glucose spikes after large meals.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - quick workouts after holiday meals
-  - managing blood sugar during Christmas and New Year
-  - exercise-physical-activity
 primaryKeyword: quick workouts after holiday meals
-topicCluster: physical-activity
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal

@@ -1,14 +1,30 @@
 ---
-title: "When to Suspect Silent Aspiration After Holiday Roast Beef — Especially in Adults 76+ With Mild Dysphagia and Early-Stage Lewy Body Dementia"
-slug: "when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia"
-description: "Details subtle, non-coughing signs of aspiration (e.g., delayed swallow initiation, post-swallow vocal quality change, subtle desaturation) and outlines a home-based screening checklist validated in geriatric neurology clinics."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["silent aspiration holiday meals lewy body dementia", "healthy eating during family gatherings", "swallowing-safety"]
-primaryKeyword: "silent aspiration holiday meals lewy body dementia"
-topicCluster: "swallowing-safety"
-image: ""
-relatedSlugs: ["5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment", "how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation", "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72", "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70", "10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia"]
+title: >-
+  When to Suspect Silent Aspiration After Holiday Roast Beef — Especially in
+  Adults 76+ With Mild Dysphagia and Early-Stage Lewy Body Dementia
+slug: >-
+  when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia
+description: >-
+  Details subtle, non-coughing signs of aspiration (e.g., delayed swallow
+  initiation, post-swallow vocal quality change, subtle desaturation) and
+  outlines a home-based screening checklist validated in geriatric neurology
+  clinics.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: silent aspiration holiday meals lewy body dementia
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
+  - >-
+    how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
+  - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
+  - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
+  - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
 ---
 
 # Silent Aspiration During Holiday Meals in Lewy Body Dementia: What Families Should Watch For

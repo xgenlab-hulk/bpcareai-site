@@ -6,10 +6,6 @@ description: >-
   practical ways to reduce its impact.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - chronic stress and high blood pressure aging
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: chronic stress and high blood pressure aging
 topicCluster: hypertension-management
 image: ''

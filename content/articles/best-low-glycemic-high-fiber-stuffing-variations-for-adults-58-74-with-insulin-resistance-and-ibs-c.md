@@ -1,14 +1,29 @@
 ---
-title: "Best Low-Glycemic, High-Fiber Stuffing Variations for Adults 58–74 With Insulin Resistance and IBS-C"
-slug: "best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c"
-description: "A recipe-science deep dive comparing fiber sources (psyllium-enriched oats vs. roasted cauliflower-rice blends), fermentation potential, and osmotic tolerance — optimized for blood sugar control *and* chronic constipation relief during holiday feasts."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["low-glycemic stuffing insulin resistance ibs-c", "managing blood sugar during christmas and new year", "gastro-metabolic-diet"]
-primaryKeyword: "low-glycemic stuffing insulin resistance ibs-c"
-topicCluster: "gastro-metabolic-diet"
-image: ""
-relatedSlugs: ["best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation", "the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture", "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs", "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd", "why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead"]
+title: >-
+  Best Low-Glycemic, High-Fiber Stuffing Variations for Adults 58–74 With
+  Insulin Resistance and IBS-C
+slug: >-
+  best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
+description: >-
+  A recipe-science deep dive comparing fiber sources (psyllium-enriched oats vs.
+  roasted cauliflower-rice blends), fermentation potential, and osmotic
+  tolerance — optimized for blood sugar control *and* chronic constipation
+  relief during holiday feasts.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: low-glycemic stuffing insulin resistance ibs-c
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead
 ---
 
 # Low-Glycemic Stuffing for Insulin Resistance and IBS-C: A Gentle, Science-Savvy Guide for Holiday Feasting (Ages 58–74)

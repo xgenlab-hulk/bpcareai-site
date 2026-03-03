@@ -11,12 +11,8 @@ description: >-
   call a provider.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - bloating after holiday meal warning signs
-  - healthy eating during family gatherings
-  - emergency-symptoms-gi-cardiac
 primaryKeyword: bloating after holiday meal warning signs
-topicCluster: cardiovascular-health
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal

@@ -1,14 +1,31 @@
 ---
-title: "What Causes Sudden Morning Blood Pressure Spikes After Starting a Low-Carb Diet in Adults 65+ With Long-Standing Hypertension and Mild Diastolic Dysfunction?"
-slug: "what-causes-sudden-morning-blood-pressure-spikes-after-starting-a-low-carb-diet-in-adults-65-with-long-standing-hypertension-and-mild-diastolic-dysfunction"
-description: "Uncovers the interplay between ketosis-induced aldosterone surge, reduced atrial natriuretic peptide, and impaired left ventricular relaxation — validated by echocardiographic strain imaging and urinary aldosterone metabolites."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["low carb diet morning bp spike elderly", "blood pressure", "dietary-transition-cardiac-physiology"]
-primaryKeyword: "low carb diet morning bp spike elderly"
-topicCluster: "dietary-transition-cardiac-physiology"
-image: ""
-relatedSlugs: ["what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria", "how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension", "quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa"]
+title: >-
+  What Causes Sudden Morning Blood Pressure Spikes After Starting a Low-Carb
+  Diet in Adults 65+ With Long-Standing Hypertension and Mild Diastolic
+  Dysfunction?
+slug: >-
+  what-causes-sudden-morning-blood-pressure-spikes-after-starting-a-low-carb-diet-in-adults-65-with-long-standing-hypertension-and-mild-diastolic-dysfunction
+description: >-
+  Uncovers the interplay between ketosis-induced aldosterone surge, reduced
+  atrial natriuretic peptide, and impaired left ventricular relaxation —
+  validated by echocardiographic strain imaging and urinary aldosterone
+  metabolites.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: low carb diet morning bp spike elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
+  - >-
+    how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
+  - >-
+    quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa
 ---
 
 # Why Some Older Adults Experience a low carb diet morning bp spike elderly — And What It Really Means for Heart Health

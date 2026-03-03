@@ -1,14 +1,29 @@
 ---
-title: "When to Suspect Early Diabetic Cardiomyopathy — Before Echocardiogram Changes — in Women 64+ With Normal Ejection Fraction and Unexplained Fatigue"
-slug: "when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue"
-description: "Highlights non-imaging biomarkers (e.g., nocturnal heart rate variability dip, NT-proBNP/creatinine ratio trends) and symptom clusters indicating subclinical myocardial stiffness in aging women with long-standing type 2 diabetes."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["early diabetic cardiomyopathy fatigue women", "diabetes", "cardiac-early-detection"]
-primaryKeyword: "early diabetic cardiomyopathy fatigue women"
-topicCluster: "cardiac-early-detection"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear", "warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability"]
+title: >-
+  When to Suspect Early Diabetic Cardiomyopathy — Before Echocardiogram Changes
+  — in Women 64+ With Normal Ejection Fraction and Unexplained Fatigue
+slug: >-
+  when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue
+description: >-
+  Highlights non-imaging biomarkers (e.g., nocturnal heart rate variability dip,
+  NT-proBNP/creatinine ratio trends) and symptom clusters indicating subclinical
+  myocardial stiffness in aging women with long-standing type 2 diabetes.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: early diabetic cardiomyopathy fatigue women
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability
 ---
 
 # Recognizing Early Diabetic Cardiomyopathy Fatigue in Women 64+ — Before Structural Changes Appear

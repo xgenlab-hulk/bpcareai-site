@@ -6,12 +6,8 @@ description: >-
   2 diabetes and how to make safer choices.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - alcohol effect on blood sugar holidays
-  - holiday diabetes management
-  - lifestyle-diet-interactions
 primaryKeyword: alcohol effect on blood sugar holidays
-topicCluster: lifestyle-changes
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,26 @@
 ---
-title: "Best High-Fiber, Low-FODMAP Holiday Desserts for Adults 63–76 With IBS-D and Fructose Malabsorption"
-slug: "best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption"
-description: "Features clinically tested options (e.g., pear-ginger poach with maple, gluten-free almond cake with glucose syrup), portion guidance, and gut-microbiome-friendly cooling protocols."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["low fodmap holiday desserts seniors", "healthy holiday eating for seniors", "diet-nutrition-ibs-diet"]
-primaryKeyword: "low fodmap holiday desserts seniors"
-topicCluster: "diet-nutrition-ibs-diet"
-image: ""
-relatedSlugs: ["best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd", "10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress", "best-low-carb-desserts-for-diabetics-over-60-this-holiday-season", "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation", "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70"]
+title: >-
+  Best High-Fiber, Low-FODMAP Holiday Desserts for Adults 63–76 With IBS-D and
+  Fructose Malabsorption
+slug: >-
+  best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
+description: >-
+  Features clinically tested options (e.g., pear-ginger poach with maple,
+  gluten-free almond cake with glucose syrup), portion guidance, and
+  gut-microbiome-friendly cooling protocols.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: low fodmap holiday desserts seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress
+  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
 ---
 
 # Low FODMAP Holiday Desserts for Seniors: Gentle, Fiber-Rich Treats That Support Digestive Calm

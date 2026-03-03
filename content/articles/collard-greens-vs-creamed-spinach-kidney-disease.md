@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Slow-Cooked Collard Greens (Vinegar-Brined, No Bacon) vs. Creamed Spinach (Low-Fat Milk, No Cream Cheese) — Impact on Post-Meal Potassium and eGFR Stability in Adults 73+ With Stage 3 CKD"
-slug: "a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd"
-description: "Compares bioavailability, sodium-potassium ratios, and phosphorus load of two popular sides — with lab-based rationale for kidney-safe holiday plating."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["collard greens vs creamed spinach kidney disease", "healthy holiday eating for seniors", "a-vs-b-renal-nutrition"]
-primaryKeyword: "collard greens vs creamed spinach kidney disease"
-topicCluster: "a-vs-b-renal-nutrition"
-image: ""
-relatedSlugs: ["a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics", "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd", "the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension", "can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension"]
+title: >-
+  A vs B: Slow-Cooked Collard Greens (Vinegar-Brined, No Bacon) vs. Creamed
+  Spinach (Low-Fat Milk, No Cream Cheese) — Impact on Post-Meal Potassium and
+  eGFR Stability in Adults 73+ With Stage 3 CKD
+slug: >-
+  a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd
+description: >-
+  Compares bioavailability, sodium-potassium ratios, and phosphorus load of two
+  popular sides — with lab-based rationale for kidney-safe holiday plating.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: collard greens vs creamed spinach kidney disease
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
+  - >-
+    can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
 ---
 
 # Collard Greens vs Creamed Spinach for Kidney Health: A Gentle Guide for Seniors with Stage 3 CKD

@@ -10,12 +10,8 @@ description: >-
   unnecessary anticoagulation.
 date: '2026-01-28'
 updated: '2026-01-28'
-tags:
-  - diabetic myonecrosis thigh pain warning signs
-  - diabetes
-  - rare-acute-complications
 primaryKeyword: diabetic myonecrosis thigh pain warning signs
-topicCluster: rare-acute-complications
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-

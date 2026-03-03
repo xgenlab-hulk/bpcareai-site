@@ -1,14 +1,28 @@
 ---
-title: "7 Silent Signs Your Feet Are Sending Early Warnings of Diabetic Neuropathy — Especially If You’ve Had T2D for 12+ Years"
-slug: "7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years"
-description: "A clinically grounded guide to recognizing subtle, often-missed sensory and vascular changes in the feet that precede painful neuropathy—focused on adults 60–75 with long-standing type 2 diabetes and preserved mobility."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["early signs diabetic neuropathy feet", "diabetes", "neuropathy-early-detection"]
-primaryKeyword: "early signs diabetic neuropathy feet"
-topicCluster: "neuropathy-early-detection"
-image: ""
-relatedSlugs: ["7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy", "7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older", "warning-signs-of-diabetic-foot-osteomyelitis-that-appear-before-ulcer-formation-in-adults-71-with-peripheral-neuropathy-and-chronic-edema", "7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c", "recognizing-silent-heart-attacks-in-diabetics-over-60"]
+title: >-
+  7 Silent Signs Your Feet Are Sending Early Warnings of Diabetic Neuropathy —
+  Especially If You’ve Had T2D for 12+ Years
+slug: >-
+  7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
+description: >-
+  A clinically grounded guide to recognizing subtle, often-missed sensory and
+  vascular changes in the feet that precede painful neuropathy—focused on adults
+  60–75 with long-standing type 2 diabetes and preserved mobility.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: early signs diabetic neuropathy feet
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
+  - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older
+  - >-
+    warning-signs-of-diabetic-foot-osteomyelitis-that-appear-before-ulcer-formation-in-adults-71-with-peripheral-neuropathy-and-chronic-edema
+  - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
 ---
 
 # 7 Subtle Early Signs Diabetic Neuropathy Feet May Be Showing You — Especially After 12+ Years with Type 2 Diabetes

@@ -1,14 +1,30 @@
 ---
-title: "Simple Steps to Convert Your Holiday Cookie Swap Into a Glucose-Responsive Event — With Real-Time CGM Feedback, Portion Mapping, and Peer Accountability Frameworks"
-slug: "simple-steps-to-convert-your-holiday-cookie-swap-into-a-glucose-responsive-event-with-real-time-cgm-feedback-portion-mapping-and-peer-accountability-frameworks"
-description: "A practical, behaviorally grounded guide for turning social baking traditions into diabetes-friendly rituals using continuous glucose monitoring, visual portion tools, and shared goal tracking."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["holiday cookie swap glucose management", "holiday diabetes management", "social-behavioral-intervention"]
-primaryKeyword: "holiday cookie swap glucose management"
-topicCluster: "social-behavioral-intervention"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry", "5-things-you-should-know-before-accepting-a-holiday-cookie-swap-especially-if-you-re-81-with-severe-peripheral-neuropathy-and-nocturnal-hypoglycemia-history", "5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck", "12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72", "a-vs-b-gluten-free-holiday-cookies-vs-low-glycemic-oat-based-bars-for-post-meal-glucose-stability-in-adults-71-with-celiac-associated-diabetes"]
+title: >-
+  Simple Steps to Convert Your Holiday Cookie Swap Into a Glucose-Responsive
+  Event — With Real-Time CGM Feedback, Portion Mapping, and Peer Accountability
+  Frameworks
+slug: >-
+  simple-steps-to-convert-your-holiday-cookie-swap-into-a-glucose-responsive-event-with-real-time-cgm-feedback-portion-mapping-and-peer-accountability-frameworks
+description: >-
+  A practical, behaviorally grounded guide for turning social baking traditions
+  into diabetes-friendly rituals using continuous glucose monitoring, visual
+  portion tools, and shared goal tracking.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: holiday cookie swap glucose management
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+  - >-
+    5-things-you-should-know-before-accepting-a-holiday-cookie-swap-especially-if-you-re-81-with-severe-peripheral-neuropathy-and-nocturnal-hypoglycemia-history
+  - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
+  - >-
+    12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
+  - >-
+    a-vs-b-gluten-free-holiday-cookies-vs-low-glycemic-oat-based-bars-for-post-meal-glucose-stability-in-adults-71-with-celiac-associated-diabetes
 ---
 
 # Turning Your Holiday Cookie Swap Into a Glucose-Smart Celebration: A Practical Guide to Holiday Cookie Swap Glucose Management

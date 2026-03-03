@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Low-Grade Dehydration From Nocturnal Polyuria Elevates Plasma Endothelin-1 — And Accelerates Microvascular Damage in Adults 66+ With Retinopathy and Normal BP"
-slug: "how-chronic-low-grade-dehydration-from-nocturnal-polyuria-elevates-plasma-endothelin-1-and-accelerates-microvascular-damage-in-adults-66-with-retinopathy-and-normal-bp"
-description: "Links overnight fluid loss to endothelial dysfunction via neurohormonal upregulation — with practical hydration timing strategies validated in a 2024 RCT of adults with early retinal changes."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["nocturnal polyuria endothelin-1 microvascular damage", "diabetes", "fluid-balance-microvasculature"]
-primaryKeyword: "nocturnal polyuria endothelin-1 microvascular damage"
-topicCluster: "fluid-balance-microvasculature"
-image: ""
-relatedSlugs: ["what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria", "best-non-pharmacologic-strategies-for-nighttime-hypertension-in-men-57-68-with-high-volume-nocturnal-urination-and-low-testosterone", "how-frequent-urination-at-night-could-signal-heart-problems", "natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers", "how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints"]
+title: >-
+  How Chronic Low-Grade Dehydration From Nocturnal Polyuria Elevates Plasma
+  Endothelin-1 — And Accelerates Microvascular Damage in Adults 66+ With
+  Retinopathy and Normal BP
+slug: >-
+  how-chronic-low-grade-dehydration-from-nocturnal-polyuria-elevates-plasma-endothelin-1-and-accelerates-microvascular-damage-in-adults-66-with-retinopathy-and-normal-bp
+description: >-
+  Links overnight fluid loss to endothelial dysfunction via neurohormonal
+  upregulation — with practical hydration timing strategies validated in a 2024
+  RCT of adults with early retinal changes.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: nocturnal polyuria endothelin-1 microvascular damage
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
+  - >-
+    best-non-pharmacologic-strategies-for-nighttime-hypertension-in-men-57-68-with-high-volume-nocturnal-urination-and-low-testosterone
+  - how-frequent-urination-at-night-could-signal-heart-problems
+  - >-
+    natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers
+  - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # How Nocturnal Polyuria Elevates Endothelin-1 and Drives Microvascular Damage in Older Adults With Retinopathy — Even at Normal Blood Pressure

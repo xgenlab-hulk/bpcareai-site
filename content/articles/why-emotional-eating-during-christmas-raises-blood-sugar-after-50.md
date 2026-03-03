@@ -6,12 +6,8 @@ description: >-
   glucose spikes in adults over 50 with prediabetes or diabetes.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - emotional eating blood sugar over 50
-  - managing blood sugar during Christmas and New Year
-  - mental-health-nutrition-link
 primaryKeyword: emotional eating blood sugar over 50
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope

@@ -11,12 +11,8 @@ description: >-
   ≥41%.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - charcot arthropathy footwear modifications
-  - diabetes
-  - foot-health-engineering
 primaryKeyword: charcot arthropathy footwear modifications
-topicCluster: foot-health-engineering
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

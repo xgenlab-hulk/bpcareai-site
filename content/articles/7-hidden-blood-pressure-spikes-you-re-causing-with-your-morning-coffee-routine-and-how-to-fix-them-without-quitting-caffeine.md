@@ -1,14 +1,28 @@
 ---
-title: "7 Hidden Blood Pressure Spikes You’re Causing With Your Morning Coffee Routine — And How to Fix Them Without Quitting Caffeine"
-slug: "7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine"
-description: "Explores how timing, brewing method, and additives (e.g., creamer, sugar substitutes) in morning coffee can trigger transient hypertension in adults 55–72, especially those with morning surge patterns or adrenal sensitivity."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["morning coffee blood pressure spike", "blood pressure", "caffeine-timing-physiology"]
-primaryKeyword: "morning coffee blood pressure spike"
-topicCluster: "caffeine-timing-physiology"
-image: ""
-relatedSlugs: ["why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension", "7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning", "why-blood-pressure-readings-jump-after-morning-coffee-especially-in-adults-58-72-with-slow-cyp1a2-metabolism-and-high-sodium-breakfasts", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68"]
+title: >-
+  7 Hidden Blood Pressure Spikes You’re Causing With Your Morning Coffee Routine
+  — And How to Fix Them Without Quitting Caffeine
+slug: >-
+  7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine
+description: >-
+  Explores how timing, brewing method, and additives (e.g., creamer, sugar
+  substitutes) in morning coffee can trigger transient hypertension in adults
+  55–72, especially those with morning surge patterns or adrenal sensitivity.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: morning coffee blood pressure spike
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension
+  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
+  - >-
+    why-blood-pressure-readings-jump-after-morning-coffee-especially-in-adults-58-72-with-slow-cyp1a2-metabolism-and-high-sodium-breakfasts
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
 ---
 
 # Why Your Morning Coffee Might Be Causing a Blood Pressure Spike — And How to Enjoy It Safely After 55

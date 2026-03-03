@@ -1,14 +1,25 @@
 ---
-title: "12 Science-Backed Ways to Prevent Post-Meal Blood Sugar Spikes During Multigenerational Gatherings"
-slug: "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings"
-description: "Evidence-based strategies—ranging from pre-meal vinegar shots and strategic food order sequencing to timed light walking—tested in older adults with insulin resistance, with implementation tips for mobility-limited or homebound individuals."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["prevent post-meal blood sugar spikes seniors", "healthy eating during family gatherings", "diabetic-diet-intervention"]
-primaryKeyword: "prevent post-meal blood sugar spikes seniors"
-topicCluster: "diabetic-diet-intervention"
-image: ""
-relatedSlugs: ["how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60", "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes", "can-walking-after-meals-lower-blood-sugar-in-older-adults"]
+title: >-
+  12 Science-Backed Ways to Prevent Post-Meal Blood Sugar Spikes During
+  Multigenerational Gatherings
+slug: >-
+  12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+description: >-
+  Evidence-based strategies—ranging from pre-meal vinegar shots and strategic
+  food order sequencing to timed light walking—tested in older adults with
+  insulin resistance, with implementation tips for mobility-limited or homebound
+  individuals.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: prevent post-meal blood sugar spikes seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 
 # 12 Science-Backed Ways to Prevent Post-Meal Blood Sugar Spikes in Seniors During Family Gatherings

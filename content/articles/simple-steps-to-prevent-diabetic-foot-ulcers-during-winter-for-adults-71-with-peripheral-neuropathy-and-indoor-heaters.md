@@ -1,14 +1,30 @@
 ---
-title: "Simple Steps to Prevent Diabetic Foot Ulcers During Winter — For Adults 71+ With Peripheral Neuropathy and Indoor Heaters"
-slug: "simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters"
-description: "Addresses dry skin cracking from forced-air heating, thermal injury from electric blankets, reduced foot inspection due to bulky socks, and indoor slip hazards — with moisturizer formulation specs and non-contact temperature monitoring tools."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["diabetic foot ulcers winter prevention", "diabetes", "seasonal-foot-complication-prevention"]
-primaryKeyword: "diabetic foot ulcers winter prevention"
-topicCluster: "seasonal-foot-complication-prevention"
-image: ""
-relatedSlugs: ["5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house", "5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers", "best-foot-protective-sock-materials-for-men-74-with-diabetic-neuropathy-edema-and-stage-2-venous-insufficiency", "best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers", "best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60"]
+title: >-
+  Simple Steps to Prevent Diabetic Foot Ulcers During Winter — For Adults 71+
+  With Peripheral Neuropathy and Indoor Heaters
+slug: >-
+  simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
+description: >-
+  Addresses dry skin cracking from forced-air heating, thermal injury from
+  electric blankets, reduced foot inspection due to bulky socks, and indoor slip
+  hazards — with moisturizer formulation specs and non-contact temperature
+  monitoring tools.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: diabetic foot ulcers winter prevention
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
+  - >-
+    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
+  - >-
+    best-foot-protective-sock-materials-for-men-74-with-diabetic-neuropathy-edema-and-stage-2-venous-insufficiency
+  - >-
+    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
+  - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
 ---
 
 # Gentle, Practical Diabetic Foot Ulcers Winter Prevention for Older Adults

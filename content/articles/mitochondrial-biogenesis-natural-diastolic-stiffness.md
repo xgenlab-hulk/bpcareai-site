@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Improve Cardiac Mitochondrial Biogenesis *Without* Supplements — Using Postprandial Cold Exposure and Time-Restricted Eating Windows in Adults 61+ With Diastolic Stiffness"
-slug: "natural-ways-to-improve-cardiac-mitochondrial-biogenesis-without-supplements-using-postprandial-cold-exposure-and-time-restricted-eating-windows-in-adults-61-with-diastolic-stiffness"
-description: "Examines how non-pharmacologic metabolic triggers (e.g., 10°C ambient post-meal exposure + 8-h feeding window) activate PGC-1α pathways and improve diastolic relaxation on echocardiography."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["mitochondrial biogenesis natural diastolic stiffness", "heart disease", "cellular-metabolism-intervention"]
-primaryKeyword: "mitochondrial biogenesis natural diastolic stiffness"
-topicCluster: "cellular-metabolism-intervention"
-image: ""
-relatedSlugs: ["natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing", "natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max", "natural-ways-to-support-cardiac-mitochondrial-biogenesis-using-time-restricted-eating-with-late-afternoon-polyphenol-timing-for-adults-59-74-with-diastolic-heart-failure-and-low-peak-vo2"]
+title: >-
+  Natural Ways to Improve Cardiac Mitochondrial Biogenesis *Without* Supplements
+  — Using Postprandial Cold Exposure and Time-Restricted Eating Windows in
+  Adults 61+ With Diastolic Stiffness
+slug: >-
+  natural-ways-to-improve-cardiac-mitochondrial-biogenesis-without-supplements-using-postprandial-cold-exposure-and-time-restricted-eating-windows-in-adults-61-with-diastolic-stiffness
+description: >-
+  Examines how non-pharmacologic metabolic triggers (e.g., 10°C ambient
+  post-meal exposure + 8-h feeding window) activate PGC-1α pathways and improve
+  diastolic relaxation on echocardiography.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: mitochondrial biogenesis natural diastolic stiffness
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
+  - >-
+    natural-ways-to-support-cardiac-mitochondrial-biogenesis-using-time-restricted-eating-with-late-afternoon-polyphenol-timing-for-adults-59-74-with-diastolic-heart-failure-and-low-peak-vo2
 ---
 
 # Natural Ways to Support Mitochondrial Biogenesis and Ease Diastolic Stiffness After 60

@@ -1,14 +1,29 @@
 ---
-title: "Why Your Blood Pressure Spikes During Video Calls — And How to Stabilize It With Micro-Breathing Anchors for Adults 60–73 With Social Anxiety"
-slug: "why-your-blood-pressure-spikes-during-video-calls-and-how-to-stabilize-it-with-micro-breathing-anchors-for-adults-60-73-with-social-anxiety"
-description: "Investigates 'Zoom hypertension' as a form of acute psychogenic stress response, and introduces 3-second breath-hold + exhale techniques validated for real-time BP modulation during virtual interactions."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["blood pressure spikes during video calls", "blood pressure", "digital-stress-response"]
-primaryKeyword: "blood pressure spikes during video calls"
-topicCluster: "digital-stress-response"
-image: ""
-relatedSlugs: ["quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85", "quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety", "12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults", "quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension", "can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity"]
+title: >-
+  Why Your Blood Pressure Spikes During Video Calls — And How to Stabilize It
+  With Micro-Breathing Anchors for Adults 60–73 With Social Anxiety
+slug: >-
+  why-your-blood-pressure-spikes-during-video-calls-and-how-to-stabilize-it-with-micro-breathing-anchors-for-adults-60-73-with-social-anxiety
+description: >-
+  Investigates 'Zoom hypertension' as a form of acute psychogenic stress
+  response, and introduces 3-second breath-hold + exhale techniques validated
+  for real-time BP modulation during virtual interactions.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: blood pressure spikes during video calls
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+  - >-
+    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+  - >-
+    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
+  - >-
+    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
+  - >-
+    can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity
 ---
 
 # Why Blood Pressure Spikes During Video Calls Happen — And How Gentle Breathing Can Help You Stay Steady

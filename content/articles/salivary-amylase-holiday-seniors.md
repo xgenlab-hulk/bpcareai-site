@@ -1,14 +1,28 @@
 ---
-title: "Quick Ways to Normalize Post-Meal Salivary Amylase Activity — A Forgotten Lever for Starch Digestion in Adults Over 71 With Denture-Related Chewing Changes"
-slug: "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes"
-description: "Offers practical, 90-second interventions (chew timing, vinegar pre-rinse, apple cider dosage) to support oral-phase starch breakdown in seniors with altered mastication and oral pH."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["salivary amylase holiday seniors", "healthy holiday eating for seniors", "oral-digestion-support"]
-primaryKeyword: "salivary amylase holiday seniors"
-topicCluster: "oral-digestion-support"
-image: ""
-relatedSlugs: ["natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues", "natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals", "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension"]
+title: >-
+  Quick Ways to Normalize Post-Meal Salivary Amylase Activity — A Forgotten
+  Lever for Starch Digestion in Adults Over 71 With Denture-Related Chewing
+  Changes
+slug: >-
+  quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
+description: >-
+  Offers practical, 90-second interventions (chew timing, vinegar pre-rinse,
+  apple cider dosage) to support oral-phase starch breakdown in seniors with
+  altered mastication and oral pH.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: salivary amylase holiday seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
+  - >-
+    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
 ---
 
 # Supporting Salivary Amylase Activity During the Holidays: Gentle, Effective Strategies for Seniors Over 71

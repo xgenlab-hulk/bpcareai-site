@@ -10,10 +10,6 @@ description: >-
   targets for those with dementia or mobility issues.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - low blood pressure risks elderly 75+
-  - blood pressure
-  - hypotension-elderly-frailty
 primaryKeyword: low blood pressure risks elderly 75+
 topicCluster: hypertension-management
 image: ''

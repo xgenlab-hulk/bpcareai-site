@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Beta-Cell Resilience *During* High-Carb Holiday Eating — Using Polyphenol Timing, Cold Exposure Windows, and Breath-Hold Protocols in Adults 57–65 With Recent-Onset Type 2 Diabetes"
-slug: "natural-ways-to-support-beta-cell-resilience-during-high-carb-holiday-eating-using-polyphenol-timing-cold-exposure-windows-and-breath-hold-protocols-in-adults-57-65-with-recent-onset-type-2-diabetes"
-description: "Presents a protocol integrating timed quercetin intake (pre-dinner), 90-second cold face immersion, and CO₂-tolerant breath-hold intervals — all shown to reduce ER stress markers in human islet organoid studies."
-date: "2026-02-17"
-updated: "2026-02-17"
-tags: ["beta-cell resilience holiday eating", "holiday diabetes management", "pancreatic-protection"]
-primaryKeyword: "beta-cell resilience holiday eating"
-topicCluster: "pancreatic-protection"
-image: ""
-relatedSlugs: ["natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks", "natural-ways-to-support-pancreatic-beta-cell-rest-during-holiday-meals-using-cold-pressed-apple-cinnamon-chutney-and-pre-meal-seated-breathing-in-adults-63", "natural-ways-to-support-beta-cell-resilience-during-spring-allergy-season-without-antihistamines-or-corticosteroids-in-adults-55-65-with-recent-onset-type-1-diabetes", "natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia", "natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing"]
+title: >-
+  Natural Ways to Support Beta-Cell Resilience *During* High-Carb Holiday Eating
+  — Using Polyphenol Timing, Cold Exposure Windows, and Breath-Hold Protocols in
+  Adults 57–65 With Recent-Onset Type 2 Diabetes
+slug: >-
+  natural-ways-to-support-beta-cell-resilience-during-high-carb-holiday-eating-using-polyphenol-timing-cold-exposure-windows-and-breath-hold-protocols-in-adults-57-65-with-recent-onset-type-2-diabetes
+description: >-
+  Presents a protocol integrating timed quercetin intake (pre-dinner), 90-second
+  cold face immersion, and CO₂-tolerant breath-hold intervals — all shown to
+  reduce ER stress markers in human islet organoid studies.
+date: '2026-02-17'
+updated: '2026-02-17'
+primaryKeyword: beta-cell resilience holiday eating
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-rest-during-holiday-meals-using-cold-pressed-apple-cinnamon-chutney-and-pre-meal-seated-breathing-in-adults-63
+  - >-
+    natural-ways-to-support-beta-cell-resilience-during-spring-allergy-season-without-antihistamines-or-corticosteroids-in-adults-55-65-with-recent-onset-type-1-diabetes
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
 ---
 
 # Supporting Beta-Cell Resilience During Holiday Eating — Gentle, Science-Informed Strategies for Adults 57–65 With New-Onset Type 2 Diabetes

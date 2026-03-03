@@ -1,14 +1,30 @@
 ---
-title: "Quick Ways to Reset Gut Microbiome After a Weekend of Family Feasting — For Adults 63+ With History of Antibiotic Use and Low-Fiber Diets"
-slug: "quick-ways-to-reset-gut-microbiome-after-a-weekend-of-family-feasting-for-adults-63-with-history-of-antibiotic-use-and-low-fiber-diets"
-description: "Offers time-bound, clinically plausible microbiome-supportive strategies (e.g., targeted prebiotic timing, fermented food sequencing, polyphenol diversity windows) to accelerate recovery from dietary disruption — avoiding probiotic overuse or fiber overload."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["reset gut microbiome after holiday feasting", "healthy eating during family gatherings", "microbiome-recovery"]
-primaryKeyword: "reset gut microbiome after holiday feasting"
-topicCluster: "microbiome-recovery"
-image: ""
-relatedSlugs: ["quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs", "12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64", "natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy", "best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation", "how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80"]
+title: >-
+  Quick Ways to Reset Gut Microbiome After a Weekend of Family Feasting — For
+  Adults 63+ With History of Antibiotic Use and Low-Fiber Diets
+slug: >-
+  quick-ways-to-reset-gut-microbiome-after-a-weekend-of-family-feasting-for-adults-63-with-history-of-antibiotic-use-and-low-fiber-diets
+description: >-
+  Offers time-bound, clinically plausible microbiome-supportive strategies
+  (e.g., targeted prebiotic timing, fermented food sequencing, polyphenol
+  diversity windows) to accelerate recovery from dietary disruption — avoiding
+  probiotic overuse or fiber overload.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: reset gut microbiome after holiday feasting
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
+  - >-
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
+  - >-
+    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
+  - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+  - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
 ---
 
 # Gentle, Smart Ways to Reset Gut Microbiome After Holiday Feasting — Especially If You’re 63+ and Have Taken Antibiotics

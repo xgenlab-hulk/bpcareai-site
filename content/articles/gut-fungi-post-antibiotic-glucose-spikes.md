@@ -10,12 +10,8 @@ description: >-
   insights and non-antifungal microbial balancing strategies.
 date: '2026-01-30'
 updated: '2026-01-30'
-tags:
-  - gut fungi post-antibiotic glucose spikes
-  - diabetes
-  - microbiome-fungal-metabolic-crosstalk
 primaryKeyword: gut fungi post-antibiotic glucose spikes
-topicCluster: microbiome-fungal-metabolic-crosstalk
+topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-

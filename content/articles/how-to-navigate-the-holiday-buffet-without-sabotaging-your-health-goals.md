@@ -6,12 +6,8 @@ description: >-
   meals, especially for older adults managing chronic conditions.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - holiday buffet healthy eating tips
-  - healthy eating during family gatherings
-  - lifestyle-modification
 primaryKeyword: holiday buffet healthy eating tips
-topicCluster: lifestyle-changes
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar

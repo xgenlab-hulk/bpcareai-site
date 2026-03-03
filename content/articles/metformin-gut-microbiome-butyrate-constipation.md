@@ -1,14 +1,30 @@
 ---
-title: "How Long-Term Metformin Use Alters Gut Microbiome Diversity and Butyrate Production in Adults 67–81 With Type 2 Diabetes and Constipation-Predominant IBS"
-slug: "how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs"
-description: "Reviews metagenomic data linking metformin to *Akkermansia* enrichment and *Roseburia* suppression—and practical dietary co-interventions to restore butyrogenesis and colonic motility."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["metformin gut microbiome butyrate constipation", "diabetes", "medication-gut-interactions"]
-primaryKeyword: "metformin gut microbiome butyrate constipation"
-topicCluster: "medication-gut-interactions"
-image: ""
-relatedSlugs: ["how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes", "10-foods-that-disrupt-gut-microbiota-diversity-and-worsen-insulin-resistance-in-adults-54-66-with-type-2-diabetes-and-chronic-constipation", "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now", "what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max", "how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction"]
+title: >-
+  How Long-Term Metformin Use Alters Gut Microbiome Diversity and Butyrate
+  Production in Adults 67–81 With Type 2 Diabetes and Constipation-Predominant
+  IBS
+slug: >-
+  how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs
+description: >-
+  Reviews metagenomic data linking metformin to *Akkermansia* enrichment and
+  *Roseburia* suppression—and practical dietary co-interventions to restore
+  butyrogenesis and colonic motility.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: metformin gut microbiome butyrate constipation
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
+  - >-
+    10-foods-that-disrupt-gut-microbiota-diversity-and-worsen-insulin-resistance-in-adults-54-66-with-type-2-diabetes-and-chronic-constipation
+  - >-
+    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
+  - >-
+    what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
+  - >-
+    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
 ---
 
 # How Metformin Affects the Gut Microbiome, Butyrate Levels, and Constipation in Older Adults with Type 2 Diabetes

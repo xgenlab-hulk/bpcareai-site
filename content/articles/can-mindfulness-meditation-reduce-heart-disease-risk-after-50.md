@@ -6,12 +6,8 @@ description: >-
   and improves outcomes.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - mindfulness meditation and heart disease prevention
-  - heart health
-  - hypertension-lifestyle
 primaryKeyword: mindfulness meditation and heart disease prevention
-topicCluster: hypertension-management
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - can-meditation-reduce-heart-disease-risk-after-50

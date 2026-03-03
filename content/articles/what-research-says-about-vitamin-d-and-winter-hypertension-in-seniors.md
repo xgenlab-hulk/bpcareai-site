@@ -6,12 +6,8 @@ description: >-
   blood pressure and cardiovascular risk.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - vitamin d and winter hypertension
-  - senior blood pressure control in winter
-  - science-research
 primaryKeyword: vitamin d and winter hypertension
-topicCluster: evidence-research
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter

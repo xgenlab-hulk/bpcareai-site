@@ -1,14 +1,29 @@
 ---
-title: "How Late-Night Eggnog Consumption Affects Fasting Glucose in Adults 55–68 With Metabolic Syndrome and Shift-Work History"
-slug: "how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history"
-description: "Explores the circadian and metabolic impact of high-fat, high-sugar nighttime beverages on overnight insulin resistance — with data on glucose variability, cortisol rhythm disruption, and practical timing adjustments for shift workers during holidays."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["late-night eggnog fasting glucose metabolic syndrome", "managing blood sugar during christmas and new year", "circadian-metabolism"]
-primaryKeyword: "late-night eggnog fasting glucose metabolic syndrome"
-topicCluster: "circadian-metabolism"
-image: ""
-relatedSlugs: ["how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes", "how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon"]
+title: >-
+  How Late-Night Eggnog Consumption Affects Fasting Glucose in Adults 55–68 With
+  Metabolic Syndrome and Shift-Work History
+slug: >-
+  how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history
+description: >-
+  Explores the circadian and metabolic impact of high-fat, high-sugar nighttime
+  beverages on overnight insulin resistance — with data on glucose variability,
+  cortisol rhythm disruption, and practical timing adjustments for shift workers
+  during holidays.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: late-night eggnog fasting glucose metabolic syndrome
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
+  - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # How Late-Night Eggnog Affects Fasting Glucose in Adults 55–68 With Metabolic Syndrome and Shift-Work History  

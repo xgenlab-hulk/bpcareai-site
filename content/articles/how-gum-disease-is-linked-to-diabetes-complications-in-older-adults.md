@@ -6,12 +6,8 @@ description: >-
   aging populations.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - gum disease and diabetes complications in seniors
-  - diabetes
-  - diabetes-complications
 primaryKeyword: gum disease and diabetes complications in seniors
-topicCluster: complications-comorbidities
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - the-hidden-link-between-gum-disease-and-heart-problems

@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Home Oscillometric Cuffs vs Clinic-Auscultatory Readings in Adults With Obesity Class II+ Over 60—Which Predicts Stroke Risk Better?"
-slug: "a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better"
-description: "Compares real-world stroke prediction validity using NHANES and SPRINT subanalyses—highlighting arm-cuff fit errors, hydrostatic pressure miscalculation, and why clinic readings may be *more* prognostic in high-BMI older adults."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["home vs clinic blood pressure accuracy obesity", "blood pressure", "measurement-comparative-validity"]
-primaryKeyword: "home vs clinic blood pressure accuracy obesity"
-topicCluster: "measurement-comparative-validity"
-image: ""
-relatedSlugs: ["blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think", "why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70", "the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors", "blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ", "5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy"]
+title: >-
+  A vs B: Home Oscillometric Cuffs vs Clinic-Auscultatory Readings in Adults
+  With Obesity Class II+ Over 60—Which Predicts Stroke Risk Better?
+slug: >-
+  a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
+description: >-
+  Compares real-world stroke prediction validity using NHANES and SPRINT
+  subanalyses—highlighting arm-cuff fit errors, hydrostatic pressure
+  miscalculation, and why clinic readings may be *more* prognostic in high-BMI
+  older adults.
+date: '2025-12-24'
+updated: '2025-12-24'
+primaryKeyword: home vs clinic blood pressure accuracy obesity
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
+  - >-
+    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
+  - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
+  - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
+  - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
 ---
 
 # Home vs Clinic Blood Pressure Accuracy in Obesity: What Really Predicts Stroke Risk After 60?

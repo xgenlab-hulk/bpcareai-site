@@ -1,14 +1,27 @@
 ---
-title: "A vs B: Pre-Meal Walks at 4 PM vs. 8 PM for Blunting Post-Holiday-Dinner Glucose Spikes in Women With Menopause-Associated Insulin Resistance"
-slug: "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance"
-description: "Compares acute glucose AUC reduction, adiponectin response, and hepatic glucose output suppression between early vs. late pre-dinner activity windows in 59 postmenopausal women."
-date: "2026-01-04"
-updated: "2026-01-04"
-tags: ["pre-meal walk timing postprandial glucose women", "holiday diabetes management", "exercise-timing-gender-specific"]
-primaryKeyword: "pre-meal walk timing postprandial glucose women"
-topicCluster: "exercise-timing-gender-specific"
-image: ""
-relatedSlugs: ["a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes", "best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts"]
+title: >-
+  A vs B: Pre-Meal Walks at 4 PM vs. 8 PM for Blunting Post-Holiday-Dinner
+  Glucose Spikes in Women With Menopause-Associated Insulin Resistance
+slug: >-
+  a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+description: >-
+  Compares acute glucose AUC reduction, adiponectin response, and hepatic
+  glucose output suppression between early vs. late pre-dinner activity windows
+  in 59 postmenopausal women.
+date: '2026-01-04'
+updated: '2026-01-04'
+primaryKeyword: pre-meal walk timing postprandial glucose women
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+  - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---
 
 # When to Walk Before Dinner: How Pre-Meal Walk Timing Affects Postprandial Glucose in Women Over 50

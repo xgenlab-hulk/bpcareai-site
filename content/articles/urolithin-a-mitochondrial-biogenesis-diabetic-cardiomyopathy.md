@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Mitochondrial Biogenesis in Cardiomyocytes Using Pomegranate-Derived Urolithin A and Time-Restricted Feeding — For Adults 63–79 With Diabetic Cardiomyopathy"
-slug: "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy"
-description: "Details Urolithin A’s activation of PGC-1α/AMPK pathways, optimal fasting windows to amplify mitophagy, and clinical correlation with 6MWT improvement and global longitudinal strain."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["urolithin a mitochondrial biogenesis diabetic cardiomyopathy", "heart disease", "nutraceutical-mitochondrial-therapy"]
-primaryKeyword: "urolithin a mitochondrial biogenesis diabetic cardiomyopathy"
-topicCluster: "nutraceutical-mitochondrial-therapy"
-image: ""
-relatedSlugs: ["natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak", "how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study"]
+title: >-
+  Natural Ways to Support Mitochondrial Biogenesis in Cardiomyocytes Using
+  Pomegranate-Derived Urolithin A and Time-Restricted Feeding — For Adults 63–79
+  With Diabetic Cardiomyopathy
+slug: >-
+  natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
+description: >-
+  Details Urolithin A’s activation of PGC-1α/AMPK pathways, optimal fasting
+  windows to amplify mitophagy, and clinical correlation with 6MWT improvement
+  and global longitudinal strain.
+date: '2026-01-16'
+updated: '2026-01-16'
+primaryKeyword: urolithin a mitochondrial biogenesis diabetic cardiomyopathy
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
 ---
 
 # Supporting Heart Cell Energy: Urolithin A, Time-Restricted Feeding, and Diabetic Cardiomyopathy in Adults 63–79

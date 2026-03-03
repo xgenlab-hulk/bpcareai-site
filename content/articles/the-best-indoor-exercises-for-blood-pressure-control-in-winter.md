@@ -6,12 +6,8 @@ description: >-
   cardiovascular fitness and stable blood pressure during winter months.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - indoor exercises for seniors
-  - senior blood pressure control in winter
-  - physical-activity
 primaryKeyword: indoor exercises for seniors
-topicCluster: physical-activity
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - blood-pressure-management-for-sedentary-seniors-in-winter-months

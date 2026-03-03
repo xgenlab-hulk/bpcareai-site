@@ -10,12 +10,8 @@ description: >-
   high-risk predialysis diabetic cohorts.
 date: '2025-12-30'
 updated: '2025-12-30'
-tags:
-  - ecg changes sudden cardiac death diabetes
-  - heart health
-  - monitoring-testing-electrophysiology
 primaryKeyword: ecg changes sudden cardiac death diabetes
-topicCluster: monitoring-testing-electrophysiology
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

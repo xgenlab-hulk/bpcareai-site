@@ -1,14 +1,28 @@
 ---
-title: "The Truth About 'Non-Alcoholic' Holiday Drinks and Their Hidden Cardiac Stressors for Adults 68+ With Stage 2 Hypertension"
-slug: "the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension"
-description: "Debunks marketing claims around zero-proof cocktails by analyzing glycemic load, artificial sweetener-induced sympathetic activation, caffeine synergy, and sodium content — with real-time BP and HRV data from ambulatory monitoring trials."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["non-alcoholic drinks holiday heart risk", "holiday heart syndrome prevention", "beverage-safety-hypertension"]
-primaryKeyword: "non-alcoholic drinks holiday heart risk"
-topicCluster: "beverage-safety-hypertension"
-image: ""
-relatedSlugs: ["best-non-alcoholic-holiday-drinks-for-heart-health-after-50", "myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs", "can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors", "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60", "the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver"]
+title: >-
+  The Truth About 'Non-Alcoholic' Holiday Drinks and Their Hidden Cardiac
+  Stressors for Adults 68+ With Stage 2 Hypertension
+slug: >-
+  the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+description: >-
+  Debunks marketing claims around zero-proof cocktails by analyzing glycemic
+  load, artificial sweetener-induced sympathetic activation, caffeine synergy,
+  and sodium content — with real-time BP and HRV data from ambulatory monitoring
+  trials.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: non-alcoholic drinks holiday heart risk
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
+  - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
+  - >-
+    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
+  - >-
+    the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver
 ---
 
 # Non-Alcoholic Drinks and Holiday Heart Risk: What Adults 68+ with Stage 2 Hypertension Should Know

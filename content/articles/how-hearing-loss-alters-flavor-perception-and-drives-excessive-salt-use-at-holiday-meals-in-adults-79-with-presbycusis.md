@@ -1,14 +1,29 @@
 ---
-title: "How Hearing Loss Alters Flavor Perception and Drives Excessive Salt Use at Holiday Meals in Adults 79+ With Presbycusis"
-slug: "how-hearing-loss-alters-flavor-perception-and-drives-excessive-salt-use-at-holiday-meals-in-adults-79-with-presbycusis"
-description: "Links auditory-cognitive load to diminished taste bud sensitivity, showing how reduced sound input lowers perceived umami/sweetness—leading to compensatory sodium overuse and hypertension risk."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["hearing loss salt use holiday meals", "healthy holiday eating for seniors", "sensory-cognition-nutrition"]
-primaryKeyword: "hearing loss salt use holiday meals"
-topicCluster: "sensory-cognition-nutrition"
-image: ""
-relatedSlugs: ["13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps", "how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension", "how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression", "what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68", "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension"]
+title: >-
+  How Hearing Loss Alters Flavor Perception and Drives Excessive Salt Use at
+  Holiday Meals in Adults 79+ With Presbycusis
+slug: >-
+  how-hearing-loss-alters-flavor-perception-and-drives-excessive-salt-use-at-holiday-meals-in-adults-79-with-presbycusis
+description: >-
+  Links auditory-cognitive load to diminished taste bud sensitivity, showing how
+  reduced sound input lowers perceived umami/sweetness—leading to compensatory
+  sodium overuse and hypertension risk.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: hearing loss salt use holiday meals
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps
+  - >-
+    how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension
+  - >-
+    how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression
+  - >-
+    what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68
+  - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
 ---
 
 # How Hearing Loss, Salt Use, and Holiday Meals Interact in Older Adults—And What You Can Do

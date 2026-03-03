@@ -1,14 +1,29 @@
 ---
-title: "How Holiday Table Seating Arrangements Affect Swallowing Safety and Aspiration Risk in Adults 82+ With Mild Parkinsonian Tremor"
-slug: "how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor"
-description: "Reviews ergonomic, visual, and auditory variables—lighting, chair height, table distance, and conversation load—that independently alter pharyngeal phase efficiency during festive meals."
-date: "2026-02-11"
-updated: "2026-02-11"
-tags: ["holiday seating swallowing safety parkinsonian seniors", "healthy holiday eating for seniors", "swallowing-safety-parkinsonism"]
-primaryKeyword: "holiday seating swallowing safety parkinsonian seniors"
-topicCluster: "swallowing-safety-parkinsonism"
-image: ""
-relatedSlugs: ["how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls", "how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation", "5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment", "natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia", "simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd"]
+title: >-
+  How Holiday Table Seating Arrangements Affect Swallowing Safety and Aspiration
+  Risk in Adults 82+ With Mild Parkinsonian Tremor
+slug: >-
+  how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor
+description: >-
+  Reviews ergonomic, visual, and auditory variables—lighting, chair height,
+  table distance, and conversation load—that independently alter pharyngeal
+  phase efficiency during festive meals.
+date: '2026-02-11'
+updated: '2026-02-11'
+primaryKeyword: holiday seating swallowing safety parkinsonian seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
+  - >-
+    how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
+  - >-
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
+  - >-
+    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
+  - >-
+    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
 ---
 
 # How Holiday Seating Affects Swallowing Safety in Seniors With Mild Parkinsonian Tremor

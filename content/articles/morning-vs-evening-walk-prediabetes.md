@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Morning 7 a.m. Walking on an Empty Stomach vs. 30-Minute Post-Dinner Walk for Reducing Nocturnal Glucose Spikes in Men 59–68 With Prediabetes and Visceral Adiposity"
-slug: "a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity"
-description: "Compares timing-specific effects on hepatic glucose output, adipose lipolysis suppression, and overnight insulin resistance—backed by continuous glucose monitoring studies."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["morning vs evening walk prediabetes", "diabetes", "exercise-timing"]
-primaryKeyword: "morning vs evening walk prediabetes"
-topicCluster: "exercise-timing"
-image: ""
-relatedSlugs: ["a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance", "a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes", "why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66", "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis", "best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67"]
+title: >-
+  A vs B: Morning 7 a.m. Walking on an Empty Stomach vs. 30-Minute Post-Dinner
+  Walk for Reducing Nocturnal Glucose Spikes in Men 59–68 With Prediabetes and
+  Visceral Adiposity
+slug: >-
+  a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity
+description: >-
+  Compares timing-specific effects on hepatic glucose output, adipose lipolysis
+  suppression, and overnight insulin resistance—backed by continuous glucose
+  monitoring studies.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: morning vs evening walk prediabetes
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+  - >-
+    why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
+  - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+  - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
 ---
 
 # Morning vs Evening Walk for Prediabetes: Which Timing Best Curbs Nocturnal Glucose Spikes?

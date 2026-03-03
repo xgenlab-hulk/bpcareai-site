@@ -1,14 +1,30 @@
 ---
-title: "The Complete Guide to Interpreting *Home* Blood Pressure Logs for Adults 74+ With Hearing Loss and Mild Tremor — Without Smartphone Apps or Voice Assistants"
-slug: "the-complete-guide-to-interpreting-home-blood-pressure-logs-for-adults-74-with-hearing-loss-and-mild-tremor-without-smartphone-apps-or-voice-assistants"
-description: "Provides a tactile, low-vision, tremor-adapted logging system — color-coded pressure bands, embossed date grids, and pressure-triggered tactile feedback charts — validated for accuracy and adherence in geriatric OT trials."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["home blood pressure log hearing loss tremor", "blood pressure", "accessibility-monitoring-tools"]
-primaryKeyword: "home blood pressure log hearing loss tremor"
-topicCluster: "accessibility-monitoring-tools"
-image: ""
-relatedSlugs: ["the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors", "the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist", "the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings", "the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings", "a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor"]
+title: >-
+  The Complete Guide to Interpreting *Home* Blood Pressure Logs for Adults 74+
+  With Hearing Loss and Mild Tremor — Without Smartphone Apps or Voice
+  Assistants
+slug: >-
+  the-complete-guide-to-interpreting-home-blood-pressure-logs-for-adults-74-with-hearing-loss-and-mild-tremor-without-smartphone-apps-or-voice-assistants
+description: >-
+  Provides a tactile, low-vision, tremor-adapted logging system — color-coded
+  pressure bands, embossed date grids, and pressure-triggered tactile feedback
+  charts — validated for accuracy and adherence in geriatric OT trials.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: home blood pressure log hearing loss tremor
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
+  - >-
+    the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
+  - >-
+    the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings
+  - >-
+    the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
+  - >-
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
 ---
 
 # A Gentle, Hands-On Guide to Your Home Blood Pressure Log With Hearing Loss and Tremor

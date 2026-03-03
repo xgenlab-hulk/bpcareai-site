@@ -1,14 +1,30 @@
 ---
-title: "Does Adding 2 Grams of Inulin-FOS Daily Improve Postprandial GLP-1 and PYY Secretion in Adults 59–71 With Prediabetes, Low-Fiber Diets, and Recent Weight Regain?"
-slug: "does-adding-2-grams-of-inulin-fos-daily-improve-postprandial-glp-1-and-pyy-secretion-in-adults-59-71-with-prediabetes-low-fiber-diets-and-recent-weight-regain"
-description: "Reviews randomized crossover data on prebiotic dosing windows, microbiome response variability, and why baseline butyrate-producing flora determines efficacy—plus how to test responsiveness at home."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["inulin FOS for GLP-1 in prediabetes", "diabetes", "diet-prebiotics-glp1"]
-primaryKeyword: "inulin FOS for GLP-1 in prediabetes"
-topicCluster: "diet-prebiotics-glp1"
-image: ""
-relatedSlugs: ["how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes", "12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d", "natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes", "a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes", "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists"]
+title: >-
+  Does Adding 2 Grams of Inulin-FOS Daily Improve Postprandial GLP-1 and PYY
+  Secretion in Adults 59–71 With Prediabetes, Low-Fiber Diets, and Recent Weight
+  Regain?
+slug: >-
+  does-adding-2-grams-of-inulin-fos-daily-improve-postprandial-glp-1-and-pyy-secretion-in-adults-59-71-with-prediabetes-low-fiber-diets-and-recent-weight-regain
+description: >-
+  Reviews randomized crossover data on prebiotic dosing windows, microbiome
+  response variability, and why baseline butyrate-producing flora determines
+  efficacy—plus how to test responsiveness at home.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: inulin FOS for GLP-1 in prediabetes
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
+  - >-
+    12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d
+  - >-
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
+  - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+  - >-
+    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
 ---
 
 # Can Inulin-FOS for GLP-1 in Prediabetes Support Gut Hormone Balance After Weight Regain?

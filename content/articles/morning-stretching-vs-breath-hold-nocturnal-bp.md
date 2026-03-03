@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Morning 10-Minute Dynamic Stretching vs. Evening 8-Minute Guided Breath-Hold Sequencing — Which Better Lowers Nocturnal Systolic in Adults 69+ With Non-Dipping Patterns?"
-slug: "a-vs-b-morning-10-minute-dynamic-stretching-vs-evening-8-minute-guided-breath-hold-sequencing-which-better-lowers-nocturnal-systolic-in-adults-69-with-non-dipping-patterns"
-description: "Compares two time-of-day–specific nonpharmacologic interventions using ambulatory BP monitoring data across 4 weeks, focusing on autonomic reset efficacy in confirmed non-dippers."
-date: "2026-02-23"
-updated: "2026-02-23"
-tags: ["morning stretching vs breath-hold nocturnal bp", "blood pressure", "nonpharmacologic-timing"]
-primaryKeyword: "morning stretching vs breath-hold nocturnal bp"
-topicCluster: "nonpharmacologic-timing"
-image: ""
-relatedSlugs: ["a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern", "a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension", "a-vs-b-morning-walking-pre-coffee-fasted-15-min-vs-evening-resistance-band-routine-post-dinner-12-min-impact-on-24-hour-ambulatory-bp-variability-in-adults-66-79-with-nocturnal-hypertension", "a-vs-b-morning-sunlight-exposure-before-10-am-vs-evening-blue-light-blocking-lenses-for-nocturnal-systolic-control-in-adults-63-with-mild-circadian-phase-delay", "quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns"]
+title: >-
+  A vs B: Morning 10-Minute Dynamic Stretching vs. Evening 8-Minute Guided
+  Breath-Hold Sequencing — Which Better Lowers Nocturnal Systolic in Adults 69+
+  With Non-Dipping Patterns?
+slug: >-
+  a-vs-b-morning-10-minute-dynamic-stretching-vs-evening-8-minute-guided-breath-hold-sequencing-which-better-lowers-nocturnal-systolic-in-adults-69-with-non-dipping-patterns
+description: >-
+  Compares two time-of-day–specific nonpharmacologic interventions using
+  ambulatory BP monitoring data across 4 weeks, focusing on autonomic reset
+  efficacy in confirmed non-dippers.
+date: '2026-02-23'
+updated: '2026-02-23'
+primaryKeyword: morning stretching vs breath-hold nocturnal bp
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
+  - >-
+    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
+  - >-
+    a-vs-b-morning-walking-pre-coffee-fasted-15-min-vs-evening-resistance-band-routine-post-dinner-12-min-impact-on-24-hour-ambulatory-bp-variability-in-adults-66-79-with-nocturnal-hypertension
+  - >-
+    a-vs-b-morning-sunlight-exposure-before-10-am-vs-evening-blue-light-blocking-lenses-for-nocturnal-systolic-control-in-adults-63-with-mild-circadian-phase-delay
+  - >-
+    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
 ---
 
 # Morning Stretching vs Breath-Hold for Nocturnal BP: Which Works Better for Adults 69+ With Non-Dipping Patterns?

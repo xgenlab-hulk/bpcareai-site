@@ -1,14 +1,29 @@
 ---
-title: "Simple Steps to Adjust Your Insulin-to-Carb Ratio When Starting a New Walking Routine—If You’re 70+ and on Rapid-Acting Analogues"
-slug: "simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues"
-description: "Provides step-by-step carb-ratio recalibration guidance based on real-world activity logs, timing relative to meals, and fall-risk–informed safety margins."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["insulin-to-carb ratio adjustment for walking seniors", "diabetes", "exercise-insulin-dosing"]
-primaryKeyword: "insulin-to-carb ratio adjustment for walking seniors"
-topicCluster: "exercise-insulin-dosing"
-image: ""
-relatedSlugs: ["when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension", "can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment", "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone", "the-ultimate-guide-to-adjusting-rapid-acting-insulin-dosing-for-multi-course-holiday-dinners-with-carb-counting-fat-protein-factor-and-alcohol-adjustment-rules", "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings"]
+title: >-
+  Simple Steps to Adjust Your Insulin-to-Carb Ratio When Starting a New Walking
+  Routine—If You’re 70+ and on Rapid-Acting Analogues
+slug: >-
+  simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
+description: >-
+  Provides step-by-step carb-ratio recalibration guidance based on real-world
+  activity logs, timing relative to meals, and fall-risk–informed safety
+  margins.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: insulin-to-carb ratio adjustment for walking seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+  - >-
+    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
+  - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
+  - >-
+    the-ultimate-guide-to-adjusting-rapid-acting-insulin-dosing-for-multi-course-holiday-dinners-with-carb-counting-fat-protein-factor-and-alcohol-adjustment-rules
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
 ---
 
 # Gentle, Safe Insulin-to-Carb Ratio Adjustment for Walking Seniors Over 70

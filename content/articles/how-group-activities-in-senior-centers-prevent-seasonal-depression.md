@@ -6,12 +6,8 @@ description: >-
   during dark months.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - senior center activities and depression
-  - seasonal depression in older adults
-  - community-engagement
 primaryKeyword: senior center activities and depression
-topicCluster: social-environmental
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70

@@ -6,12 +6,8 @@ description: >-
   sugar control and long-term metabolic health.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - holiday weight gain diabetics over 60
-  - managing blood sugar during Christmas and New Year
-  - prevention-strategies
 primaryKeyword: holiday weight gain diabetics over 60
-topicCluster: preventive-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes

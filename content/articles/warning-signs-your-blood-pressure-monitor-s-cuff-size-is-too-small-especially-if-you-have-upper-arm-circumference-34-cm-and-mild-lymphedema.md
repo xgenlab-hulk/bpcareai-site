@@ -9,12 +9,8 @@ description: >-
   and interacts with interstitial fluid shifts in lymphedematous tissue.
 date: '2026-01-09'
 updated: '2026-01-09'
-tags:
-  - blood pressure cuff size lymphedema
-  - blood pressure
-  - measurement-error-red-flags
 primaryKeyword: blood pressure cuff size lymphedema
-topicCluster: measurement-error-red-flags
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

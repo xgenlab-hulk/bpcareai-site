@@ -10,12 +10,8 @@ description: >-
   with lab-tested alternatives for kidney-impaired seniors.
 date: '2026-01-16'
 updated: '2026-01-16'
-tags:
-  - household chemicals coronary artery calcification seniors
-  - heart disease
-  - environmental-toxins-cardiovascular-risk
 primaryKeyword: household chemicals coronary artery calcification seniors
-topicCluster: environmental-toxins-cardiovascular-risk
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

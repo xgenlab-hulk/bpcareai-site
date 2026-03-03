@@ -1,14 +1,29 @@
 ---
-title: "How Gut-Derived Trimethylamine N-Oxide (TMAO) Alters Vascular Smooth Muscle Phenotype Transition in Adults 68–82 With Hypertension and Low-Fiber Diets"
-slug: "how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets"
-description: "Explains TMAO’s role in promoting synthetic VSMC migration and collagen deposition — and how prebiotic fiber timing shifts microbial enzyme expression to lower TMAO."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["tmao vascular smooth muscle phenotype", "blood pressure", "gut-vascular-phenotype"]
-primaryKeyword: "tmao vascular smooth muscle phenotype"
-topicCluster: "gut-vascular-phenotype"
-image: ""
-relatedSlugs: ["how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history", "how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65", "how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it", "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals", "does-adding-1-gram-of-cocoa-flavanols-daily-improve-endothelial-dependent-vasodilation-in-adults-63-79-with-metabolic-syndrome-and-non-alcoholic-fatty-liver"]
+title: >-
+  How Gut-Derived Trimethylamine N-Oxide (TMAO) Alters Vascular Smooth Muscle
+  Phenotype Transition in Adults 68–82 With Hypertension and Low-Fiber Diets
+slug: >-
+  how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
+description: >-
+  Explains TMAO’s role in promoting synthetic VSMC migration and collagen
+  deposition — and how prebiotic fiber timing shifts microbial enzyme expression
+  to lower TMAO.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: tmao vascular smooth muscle phenotype
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
+  - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
+  - >-
+    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
+  - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
+  - >-
+    does-adding-1-gram-of-cocoa-flavanols-daily-improve-endothelial-dependent-vasodilation-in-adults-63-79-with-metabolic-syndrome-and-non-alcoholic-fatty-liver
 ---
 
 # How Gut-Derived TMAO Influences Vascular Smooth Muscle Phenotype in Older Adults With Hypertension

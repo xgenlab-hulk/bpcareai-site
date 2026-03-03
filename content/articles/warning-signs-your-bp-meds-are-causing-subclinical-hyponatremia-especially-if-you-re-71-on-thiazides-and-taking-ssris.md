@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your BP Meds Are Causing Subclinical Hyponatremia — Especially If You’re 71+ on Thiazides and Taking SSRIs"
-slug: "warning-signs-your-bp-meds-are-causing-subclinical-hyponatremia-especially-if-you-re-71-on-thiazides-and-taking-ssris"
-description: "Highlights subtle, often-missed neuropsychiatric and gait-related symptoms of mild hyponatremia, lab interpretation pitfalls, and safer diuretic alternatives for frail older adults."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["thiazide hyponatremia warning signs elderly", "blood pressure", "medication-safety-alert"]
-primaryKeyword: "thiazide hyponatremia warning signs elderly"
-topicCluster: "medication-safety-alert"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68", "warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics", "warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history", "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications", "when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use"]
+title: >-
+  Warning Signs Your BP Meds Are Causing Subclinical Hyponatremia — Especially
+  If You’re 71+ on Thiazides and Taking SSRIs
+slug: >-
+  warning-signs-your-bp-meds-are-causing-subclinical-hyponatremia-especially-if-you-re-71-on-thiazides-and-taking-ssris
+description: >-
+  Highlights subtle, often-missed neuropsychiatric and gait-related symptoms of
+  mild hyponatremia, lab interpretation pitfalls, and safer diuretic
+  alternatives for frail older adults.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: thiazide hyponatremia warning signs elderly
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
+  - >-
+    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
+  - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
+  - >-
+    when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
 ---
 
 # Subtle Thiazide Hyponatremia Warning Signs in Older Adults — What to Watch For After Age 71

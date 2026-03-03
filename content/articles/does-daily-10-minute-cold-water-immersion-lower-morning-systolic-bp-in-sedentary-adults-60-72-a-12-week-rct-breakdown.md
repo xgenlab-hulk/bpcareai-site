@@ -1,14 +1,29 @@
 ---
-title: "Does Daily 10-Minute Cold Water Immersion Lower Morning Systolic BP in Sedentary Adults 60–72? A 12-Week RCT Breakdown"
-slug: "does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown"
-description: "Analyzes thermoregulatory vasoconstriction rebound, baroreflex sensitivity shifts, and sympathetic tone modulation—separating transient spikes from sustained reductions."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["cold water immersion systolic blood pressure rct", "blood pressure", "cold-therapy-blood-pressure"]
-primaryKeyword: "cold water immersion systolic blood pressure rct"
-topicCluster: "cold-therapy-blood-pressure"
-image: ""
-relatedSlugs: ["can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension", "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct", "why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds", "natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension", "how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62"]
+title: >-
+  Does Daily 10-Minute Cold Water Immersion Lower Morning Systolic BP in
+  Sedentary Adults 60–72? A 12-Week RCT Breakdown
+slug: >-
+  does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
+description: >-
+  Analyzes thermoregulatory vasoconstriction rebound, baroreflex sensitivity
+  shifts, and sympathetic tone modulation—separating transient spikes from
+  sustained reductions.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: cold water immersion systolic blood pressure rct
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+  - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+  - >-
+    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
+  - >-
+    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
+  - >-
+    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
 ---
 
 # Does Cold Water Immersion Systolic Blood Pressure RCT Evidence Support Morning BP Drops in Adults 60–72?

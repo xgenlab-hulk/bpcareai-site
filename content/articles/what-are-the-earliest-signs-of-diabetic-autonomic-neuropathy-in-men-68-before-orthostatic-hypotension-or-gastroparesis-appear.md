@@ -1,14 +1,29 @@
 ---
-title: "What Are the Earliest Signs of Diabetic Autonomic Neuropathy in Men 68+ — Before Orthostatic Hypotension or Gastroparesis Appear?"
-slug: "what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear"
-description: "Identifies prodromal markers including pupillary light reflex latency, heart rate recovery asymmetry after standing, and altered thermal pain thresholds — validated in a longitudinal autonomic screening registry."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["early diabetic autonomic neuropathy signs men", "diabetes", "autonomic-prodrome-detection"]
-primaryKeyword: "early diabetic autonomic neuropathy signs men"
-topicCluster: "autonomic-prodrome-detection"
-image: ""
-relatedSlugs: ["7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin", "what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes", "what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance", "what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear", "7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy"]
+title: >-
+  What Are the Earliest Signs of Diabetic Autonomic Neuropathy in Men 68+ —
+  Before Orthostatic Hypotension or Gastroparesis Appear?
+slug: >-
+  what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear
+description: >-
+  Identifies prodromal markers including pupillary light reflex latency, heart
+  rate recovery asymmetry after standing, and altered thermal pain thresholds —
+  validated in a longitudinal autonomic screening registry.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: early diabetic autonomic neuropathy signs men
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
+  - >-
+    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
+  - >-
+    what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
+  - >-
+    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
+  - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
 ---
 
 # Early Diabetic Autonomic Neuropathy Signs in Men Over 68 — What to Notice Before Major Symptoms Appear

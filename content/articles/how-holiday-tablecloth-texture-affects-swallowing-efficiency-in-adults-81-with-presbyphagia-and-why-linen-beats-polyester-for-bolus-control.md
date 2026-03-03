@@ -1,14 +1,28 @@
 ---
-title: "How Holiday Tablecloth Texture Affects Swallowing Efficiency in Adults 81+ With Presbyphagia — And Why Linen Beats Polyester for Bolus Control"
-slug: "how-holiday-tablecloth-texture-affects-swallowing-efficiency-in-adults-81-with-presbyphagia-and-why-linen-beats-polyester-for-bolus-control"
-description: "Links fabric friction coefficients to oral-phase swallow initiation, jaw stability, and aspiration risk—backed by videofluoroscopic swallow studies."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["tablecloth texture swallowing presbyphagia seniors", "healthy eating during family gatherings", "sensory-dysphagia-environment"]
-primaryKeyword: "tablecloth texture swallowing presbyphagia seniors"
-topicCluster: "sensory-dysphagia-environment"
-image: ""
-relatedSlugs: ["how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls", "natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia", "simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd", "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70", "simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning"]
+title: >-
+  How Holiday Tablecloth Texture Affects Swallowing Efficiency in Adults 81+
+  With Presbyphagia — And Why Linen Beats Polyester for Bolus Control
+slug: >-
+  how-holiday-tablecloth-texture-affects-swallowing-efficiency-in-adults-81-with-presbyphagia-and-why-linen-beats-polyester-for-bolus-control
+description: >-
+  Links fabric friction coefficients to oral-phase swallow initiation, jaw
+  stability, and aspiration risk—backed by videofluoroscopic swallow studies.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: tablecloth texture swallowing presbyphagia seniors
+topicCluster: prevention-risk-assessment
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
+  - >-
+    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
+  - >-
+    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
+  - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
+  - >-
+    simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
 ---
 
 # How Tablecloth Texture Affects Swallowing in Older Adults — What Seniors with Presbyphagia Should Know About Their Holiday Table Settings

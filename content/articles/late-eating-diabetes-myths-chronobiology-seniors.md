@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: 'Eating Late Causes Diabetes' — What Chronobiology Research Actually Shows About Meal Timing, Insulin Sensitivity, and Clock Gene Methylation in Adults 57–65"
-slug: "myths-vs-facts-eating-late-causes-diabetes-what-chronobiology-research-actually-shows-about-meal-timing-insulin-sensitivity-and-clock-gene-methylation-in-adults-57-65"
-description: "Debunks the blanket 'no late meals' rule using data on PER2 methylation shifts, melatonin’s inhibition of insulin secretion, and optimal late-evening snack composition (e.g., casein + resistant starch) for metabolic resilience."
-date: "2026-02-17"
-updated: "2026-02-17"
-tags: ["late eating diabetes myths chronobiology seniors", "diabetes", "meal-timing-myth-busting"]
-primaryKeyword: "late eating diabetes myths chronobiology seniors"
-topicCluster: "meal-timing-myth-busting"
-image: ""
-relatedSlugs: ["how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea", "how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history", "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65", "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72", "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s"]
+title: >-
+  Myths vs Facts: 'Eating Late Causes Diabetes' — What Chronobiology Research
+  Actually Shows About Meal Timing, Insulin Sensitivity, and Clock Gene
+  Methylation in Adults 57–65
+slug: >-
+  myths-vs-facts-eating-late-causes-diabetes-what-chronobiology-research-actually-shows-about-meal-timing-insulin-sensitivity-and-clock-gene-methylation-in-adults-57-65
+description: >-
+  Debunks the blanket 'no late meals' rule using data on PER2 methylation
+  shifts, melatonin’s inhibition of insulin secretion, and optimal late-evening
+  snack composition (e.g., casein + resistant starch) for metabolic resilience.
+date: '2026-02-17'
+updated: '2026-02-17'
+primaryKeyword: late eating diabetes myths chronobiology seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
+  - >-
+    how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
 ---
 
 # Late Eating, Diabetes Risk, and Chronobiology in Seniors: What the Science Really Says

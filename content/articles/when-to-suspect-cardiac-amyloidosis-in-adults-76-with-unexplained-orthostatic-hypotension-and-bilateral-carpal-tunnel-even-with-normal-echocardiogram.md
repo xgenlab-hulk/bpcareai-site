@@ -1,14 +1,29 @@
 ---
-title: "When to Suspect Cardiac Amyloidosis in Adults 76+ With Unexplained Orthostatic Hypotension and Bilateral Carpal Tunnel — Even With Normal Echocardiogram"
-slug: "when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram"
-description: "Guides recognition of this underdiagnosed infiltrative cardiomyopathy through red-flag symptom clusters, tissue-agnostic biomarkers (serum free light chains), and the role of bone-avid radiotracers."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["cardiac amyloidosis orthostatic hypotension seniors", "heart disease", "infiltrative-cardiomyopathy"]
-primaryKeyword: "cardiac amyloidosis orthostatic hypotension seniors"
-topicCluster: "infiltrative-cardiomyopathy"
-image: ""
-relatedSlugs: ["when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness", "when-to-suspect-cardiac-amyloidosis-in-men-76-with-unexplained-low-voltage-ecg-bilateral-carpal-tunnel-and-progressive-fatigue-even-with-normal-echocardiogram", "when-to-suspect-cardiac-amyloidosis-in-women-75-with-unexplained-fatigue-bilateral-carpal-tunnel-surgery-history-and-preserved-ef-on-echo", "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction", "when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction"]
+title: >-
+  When to Suspect Cardiac Amyloidosis in Adults 76+ With Unexplained Orthostatic
+  Hypotension and Bilateral Carpal Tunnel — Even With Normal Echocardiogram
+slug: >-
+  when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram
+description: >-
+  Guides recognition of this underdiagnosed infiltrative cardiomyopathy through
+  red-flag symptom clusters, tissue-agnostic biomarkers (serum free light
+  chains), and the role of bone-avid radiotracers.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: cardiac amyloidosis orthostatic hypotension seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-men-76-with-unexplained-low-voltage-ecg-bilateral-carpal-tunnel-and-progressive-fatigue-even-with-normal-echocardiogram
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-75-with-unexplained-fatigue-bilateral-carpal-tunnel-surgery-history-and-preserved-ef-on-echo
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
 ---
 
 # When Cardiac Amyloidosis Might Be Hiding Behind Orthostatic Hypotension and Carpal Tunnel in Seniors 76+

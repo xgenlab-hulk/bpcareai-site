@@ -10,12 +10,8 @@ description: >-
   mineralization in postmenopausal women.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - holiday baking fat swaps osteopenia women 68+
-  - healthy holiday eating for seniors
-  - bone-health-nutrition-women
 primaryKeyword: holiday baking fat swaps osteopenia women 68+
-topicCluster: bone-health-nutrition-women
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause

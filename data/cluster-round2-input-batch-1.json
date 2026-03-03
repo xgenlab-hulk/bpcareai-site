@@ -1,0 +1,290 @@
+{
+  "round": 2,
+  "batch_id": 1,
+  "total_clusters": 47,
+  "total_articles": 592,
+  "clusters": [
+    {
+      "cluster_name": "cardiovascular-health",
+      "description": "心血管系统健康的全面管理,包括心脏健康、血管功能、内皮功能和心血管并发症",
+      "total_articles": 110,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "medication-safety-interactions",
+      "description": "药物安全、药物相互作用和多重用药管理",
+      "total_articles": 38,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "nutrition-diet-interventions",
+      "description": "营养和饮食干预策略,包括各种饮食模式、食物选择和营养优化",
+      "total_articles": 33,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "cardiovascular-health",
+      "description": "心血管健康的全面管理,包括心脏结构、血管功能、心律失常和心力衰竭",
+      "total_articles": 26,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "circadian-sleep-metabolism",
+      "description": "昼夜节律、睡眠质量与代谢功能的相互影响",
+      "total_articles": 24,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "cardiovascular-monitoring-diagnosis",
+      "description": "心血管疾病的监测、诊断、早期检测和生物标志物解读",
+      "total_articles": 20,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "glucose-metabolism-management",
+      "description": "血糖代谢、监测、稳定性和调节的综合管理，包括昼夜节律、生理机制和干预策略",
+      "total_articles": 19,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "hypertension-comprehensive-management",
+      "description": "高血压的全面管理,包括监测、诊断、治疗和生活方式干预",
+      "total_articles": 17,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "glucose-diabetes-management",
+      "description": "糖尿病和血糖管理的各个方面，包括监测、治疗、并发症预防和生活方式干预",
+      "total_articles": 17,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "natural-remedies-supplements",
+      "description": "天然疗法、营养补充剂和非药物干预对代谢和心血管健康的影响",
+      "total_articles": 15,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "cardiovascular-physiology-mechanisms",
+      "description": "心血管系统的生理机制和病理生理，包括血流动力学、自主神经调节、心律失常机制",
+      "total_articles": 15,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "diabetes-nutrition-management",
+      "description": "糖尿病的饮食管理、营养干预和血糖控制策略",
+      "total_articles": 14,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "circadian-metabolic-regulation",
+      "description": "昼夜节律对代谢、血糖、激素和生理功能的影响",
+      "total_articles": 14,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "specialized-therapeutic-interventions",
+      "description": "特殊治疗干预、非药物疗法、营养治疗和功能性干预措施",
+      "total_articles": 13,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "lifestyle-practical-strategies",
+      "description": "日常生活实用策略，包括餐饮计划、社交场合管理、视觉辅助和无障碍策略",
+      "total_articles": 13,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "metabolic-syndrome-connections",
+      "description": "代谢综合征及多系统代谢关联，包括肝脏代谢、肾脏-代谢联系、肠道-代谢轴",
+      "total_articles": 12,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "neurological-complications",
+      "description": "神经系统并发症,包括神经病变、自主神经功能障碍、认知功能和神经血管调节",
+      "total_articles": 12,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "medication-safety-interactions",
+      "description": "药物安全、药物相互作用、药物生理学效应及特殊人群用药",
+      "total_articles": 11,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "medication-pharmacology-safety",
+      "description": "药物治疗、药物相互作用、副作用管理和用药安全监测",
+      "total_articles": 11,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "gut-microbiome-metabolism",
+      "description": "肠道微生物组与代谢健康的关联",
+      "total_articles": 10,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "metabolic-nutrition-optimization",
+      "description": "代谢优化的营养策略和饮食干预",
+      "total_articles": 10,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "microvascular-endothelial-health",
+      "description": "微血管健康、内皮功能、血管弹性和修复机制",
+      "total_articles": 9,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "food-safety-labeling",
+      "description": "食品安全、标签解读、功能性食品完整性评估",
+      "total_articles": 9,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "lifestyle-behavioral-interventions",
+      "description": "生活方式和行为干预，包括运动、压力管理、睡眠、呼吸技术和心律变异性",
+      "total_articles": 9,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "glucose-monitoring-technology",
+      "description": "血糖监测设备的准确性、可靠性和正确使用",
+      "total_articles": 8,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "exercise-physical-activity",
+      "description": "运动处方、身体活动对心血管和代谢的影响及安全策略",
+      "total_articles": 8,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "complications-emergency-recognition",
+      "description": "并发症识别、急症症状、预警信号和鉴别诊断",
+      "total_articles": 8,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "hypertension-risk-factors",
+      "description": "高血压的风险因素识别、评估和管理",
+      "total_articles": 7,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "pharmacology-mechanisms",
+      "description": "药物作用机制、药理学和药物代谢",
+      "total_articles": 7,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "cardiac-nutrition-interventions",
+      "description": "心脏健康的饮食营养干预，包括心脏病饮食修改、心力衰竭饮食比较、肠道心脏轴和饮食社交策略",
+      "total_articles": 7,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "prevention-risk-assessment",
+      "description": "疾病预防和风险评估，包括代谢预防、冠状动脉钙化预防、早期检测和风险预测模型",
+      "total_articles": 7,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "renal-cardiovascular-complications",
+      "description": "肾脏疾病和心肾综合征的管理,包括肾脏并发症、肾脏营养和肾脏保护",
+      "total_articles": 6,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "vision-eye-health",
+      "description": "视网膜健康、眼部并发症、视力保护营养和视觉辅助适应",
+      "total_articles": 6,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "glucose-monitoring-accuracy",
+      "description": "血糖监测技术、准确性、干扰因素和精准监测策略",
+      "total_articles": 5,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "cognitive-metabolic-linkage",
+      "description": "认知功能与代谢健康的相互作用、神经认知灌注",
+      "total_articles": 5,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "gender-specific-health",
+      "description": "性别特异性健康问题、女性心血管健康、激素影响和性别差异",
+      "total_articles": 5,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "advanced-biomarkers-research",
+      "description": "新兴生物标志物、多系统评估、科学研究进展和前沿诊断技术",
+      "total_articles": 5,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "neurological-sensory-health",
+      "description": "神经系统和感觉健康，包括神经功能、呼吸、感觉障碍等",
+      "total_articles": 4,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "thermal-therapy-applications",
+      "description": "热疗法在心血管代谢疾病中的应用和安全性",
+      "total_articles": 4,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "special-populations-care",
+      "description": "特殊人群护理,包括老年人、照护者、认知障碍患者和多病共存管理",
+      "total_articles": 4,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "oral-systemic-health-connections",
+      "description": "口腔健康与全身健康的联系",
+      "total_articles": 3,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "medical-device-safety",
+      "description": "医疗设备干扰、安全性和设备相关问题",
+      "total_articles": 3,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "vascular-calcification-modulation",
+      "description": "血管钙化的营养调控和干预",
+      "total_articles": 3,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "nutritional-deficiency-detection",
+      "description": "微量营养素缺乏的早期征兆和检测",
+      "total_articles": 2,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "sleep-breathing-disorders",
+      "description": "睡眠呼吸障碍对心肺血流动力学的影响",
+      "total_articles": 2,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "supplement-hemodynamic-effects",
+      "description": "补充剂引起的血流动力学变化",
+      "total_articles": 1,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "cooking-neurotoxicity-risk",
+      "description": "烹饪方法与神经毒性风险",
+      "total_articles": 1,
+      "source_batch": 3
+    }
+  ]
+}

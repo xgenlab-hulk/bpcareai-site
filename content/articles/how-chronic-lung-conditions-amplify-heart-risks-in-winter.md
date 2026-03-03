@@ -6,12 +6,8 @@ description: >-
   colder months in adults over 65.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - lung disease winter heart risk
-  - winter heart health for seniors
-  - comorbidities
 primaryKeyword: lung disease winter heart risk
-topicCluster: complications-comorbidities
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - why-winter-increases-heart-attack-risk-in-seniors-over-70

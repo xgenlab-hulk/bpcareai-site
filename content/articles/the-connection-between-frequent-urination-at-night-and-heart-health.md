@@ -6,10 +6,6 @@ description: >-
   older adults.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - frequent urination at night and heart problems
-  - heart health
-  - heart-health
 primaryKeyword: frequent urination at night and heart problems
 topicCluster: cardiovascular-health
 image: ''

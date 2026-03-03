@@ -1,14 +1,30 @@
 ---
-title: "When to Suspect Mitochondrial Myopathy *Before* Muscle Cramps Appear — Red Flags in Adults 65+ With Rapid-Onset Insulin Resistance and Unexplained Fatigue"
-slug: "when-to-suspect-mitochondrial-myopathy-before-muscle-cramps-appear-red-flags-in-adults-65-with-rapid-onset-insulin-resistance-and-unexplained-fatigue"
-description: "Identifies subtle pre-symptomatic biomarkers (e.g., lactate/pyruvate ratios, urinary organic acids) and functional testing windows for early mitochondrial dysfunction in older adults with new glucose dysregulation."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["mitochondrial myopathy insulin resistance fatigue", "diabetes", "mitochondrial-dysfunction-early-detection"]
-primaryKeyword: "mitochondrial myopathy insulin resistance fatigue"
-topicCluster: "mitochondrial-dysfunction-early-detection"
-image: ""
-relatedSlugs: ["what-are-the-earliest-lab-clues-of-mitochondrial-dysfunction-in-skeletal-muscle-in-adults-54-65-with-type-2-diabetes-and-persistent-exercise-intolerance", "when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear", "how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study", "what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older"]
+title: >-
+  When to Suspect Mitochondrial Myopathy *Before* Muscle Cramps Appear — Red
+  Flags in Adults 65+ With Rapid-Onset Insulin Resistance and Unexplained
+  Fatigue
+slug: >-
+  when-to-suspect-mitochondrial-myopathy-before-muscle-cramps-appear-red-flags-in-adults-65-with-rapid-onset-insulin-resistance-and-unexplained-fatigue
+description: >-
+  Identifies subtle pre-symptomatic biomarkers (e.g., lactate/pyruvate ratios,
+  urinary organic acids) and functional testing windows for early mitochondrial
+  dysfunction in older adults with new glucose dysregulation.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: mitochondrial myopathy insulin resistance fatigue
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-lab-clues-of-mitochondrial-dysfunction-in-skeletal-muscle-in-adults-54-65-with-type-2-diabetes-and-persistent-exercise-intolerance
+  - >-
+    when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
+  - >-
+    what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
 ---
 
 # Early Clues of Mitochondrial Myopathy in Older Adults: Recognizing Insulin Resistance and Fatigue Before Muscle Cramps Begin

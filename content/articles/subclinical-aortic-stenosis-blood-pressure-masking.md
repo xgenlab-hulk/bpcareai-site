@@ -1,14 +1,30 @@
 ---
-title: "Warning Signs Your 'Stable' Blood Pressure Readings Are Masking Subclinical Aortic Valve Stenosis Progression — Especially With Concurrent Elevated NT-proBNP and Normal Echocardiographic Gradient in Adults 75+"
-slug: "warning-signs-your-stable-blood-pressure-readings-are-masking-subclinical-aortic-valve-stenosis-progression-especially-with-concurrent-elevated-nt-probnp-and-normal-echocardiographic-gradient-in-adults-75"
-description: "Highlights discordant clinical signals (e.g., preserved gradient despite rising biomarkers) that indicate early valvular obstruction altering central hemodynamics."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["subclinical aortic stenosis blood pressure masking", "blood pressure", "valvular-hemodynamic-misinterpretation"]
-primaryKeyword: "subclinical aortic stenosis blood pressure masking"
-topicCluster: "valvular-hemodynamic-misinterpretation"
-image: ""
-relatedSlugs: ["when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp", "5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring", "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity", "what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction", "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear"]
+title: >-
+  Warning Signs Your 'Stable' Blood Pressure Readings Are Masking Subclinical
+  Aortic Valve Stenosis Progression — Especially With Concurrent Elevated
+  NT-proBNP and Normal Echocardiographic Gradient in Adults 75+
+slug: >-
+  warning-signs-your-stable-blood-pressure-readings-are-masking-subclinical-aortic-valve-stenosis-progression-especially-with-concurrent-elevated-nt-probnp-and-normal-echocardiographic-gradient-in-adults-75
+description: >-
+  Highlights discordant clinical signals (e.g., preserved gradient despite
+  rising biomarkers) that indicate early valvular obstruction altering central
+  hemodynamics.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: subclinical aortic stenosis blood pressure masking
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
+  - >-
+    5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
+  - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
+  - >-
+    what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction
+  - >-
+    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
 ---
 
 # When “Stable” Blood Pressure May Be Hiding Early Aortic Valve Changes — Especially After Age 75

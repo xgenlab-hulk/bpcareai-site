@@ -10,10 +10,6 @@ description: >-
   interpret it alongside standard BP readings.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - pulse pressure vs blood pressure aging
-  - blood pressure
-  - vital-signs-interpretation
 primaryKeyword: pulse pressure vs blood pressure aging
 topicCluster: hypertension-management
 image: ''

@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: 'High Normal' Blood Pressure in Adults 54–62 — Why 'Prehypertension' Is Obsolete and What the New ACC/AHA Staging *Really* Means for Your Heart"
-slug: "myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart"
-description: "Debunks outdated terminology and explains Stage 1 Hypertension staging using individualized 10-year ASCVD risk, coronary calcium scoring thresholds, and microvascular resistance metrics — not just cuff numbers."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["prehypertension myth vs fact acc aha", "blood pressure", "guideline-interpretation-risk-stratification"]
-primaryKeyword: "prehypertension myth vs fact acc aha"
-topicCluster: "guideline-interpretation-risk-stratification"
-image: ""
-relatedSlugs: ["myths-vs-facts-my-bp-is-fine-because-i-feel-fine-why-asymptomatic-hypertension-is-especially-dangerous-in-adults-75-with-silent-white-matter-lesions", "myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65", "myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp", "myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries", "the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance"]
+title: >-
+  Myths vs Facts: 'High Normal' Blood Pressure in Adults 54–62 — Why
+  'Prehypertension' Is Obsolete and What the New ACC/AHA Staging *Really* Means
+  for Your Heart
+slug: >-
+  myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart
+description: >-
+  Debunks outdated terminology and explains Stage 1 Hypertension staging using
+  individualized 10-year ASCVD risk, coronary calcium scoring thresholds, and
+  microvascular resistance metrics — not just cuff numbers.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: prehypertension myth vs fact acc aha
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-i-feel-fine-why-asymptomatic-hypertension-is-especially-dangerous-in-adults-75-with-silent-white-matter-lesions
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
+  - >-
+    myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries
+  - >-
+    the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance
 ---
 
 # Prehypertension Myth vs Fact ACC AHA: What “High Normal” Blood Pressure *Really* Means for Adults 54–62

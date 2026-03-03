@@ -1,14 +1,29 @@
 ---
-title: "5 Things Everyone Over 65 Should Know About Blood Pressure Medication Tapering — Especially If You’re On Dual RAS Blockade and Have Declining eGFR"
-slug: "5-things-everyone-over-65-should-know-about-blood-pressure-medication-tapering-especially-if-you-re-on-dual-ras-blockade-and-have-declining-egfr"
-description: "Covers evidence-based deprescribing criteria, rebound hypertension risks, RAAS adaptation timelines, and monitoring windows for renal and cerebral perfusion stability."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["blood pressure medication tapering elderly", "blood pressure", "pharmacologic-deprescribing"]
-primaryKeyword: "blood pressure medication tapering elderly"
-topicCluster: "pharmacologic-deprescribing"
-image: ""
-relatedSlugs: ["can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76", "why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely", "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use", "7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants", "when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68"]
+title: >-
+  5 Things Everyone Over 65 Should Know About Blood Pressure Medication Tapering
+  — Especially If You’re On Dual RAS Blockade and Have Declining eGFR
+slug: >-
+  5-things-everyone-over-65-should-know-about-blood-pressure-medication-tapering-especially-if-you-re-on-dual-ras-blockade-and-have-declining-egfr
+description: >-
+  Covers evidence-based deprescribing criteria, rebound hypertension risks, RAAS
+  adaptation timelines, and monitoring windows for renal and cerebral perfusion
+  stability.
+date: '2026-01-16'
+updated: '2026-01-16'
+primaryKeyword: blood pressure medication tapering elderly
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
+  - >-
+    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
 ---
 
 # What Older Adults Should Know About Blood pressure medication tapering elderly — Especially With Dual RAS Blockade and Falling Kidney Function

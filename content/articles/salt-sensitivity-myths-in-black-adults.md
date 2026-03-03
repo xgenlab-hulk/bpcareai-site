@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: ‘Salt Sensitivity’ in Black Adults 55–72 — What Genomic Studies Reveal About ENaC Variants, Potassium Excretion, and Real-World Dietary Response"
-slug: "myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response"
-description: "Debunks oversimplified salt narratives using ancestry-informed physiology — explaining why some respond dramatically to potassium-rich diets alone, while others need dual RAAS + ENaC targeting."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["salt sensitivity myths in Black adults", "blood pressure", "ancestry-physiology"]
-primaryKeyword: "salt sensitivity myths in Black adults"
-topicCluster: "ancestry-physiology"
-image: ""
-relatedSlugs: ["myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions", "the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors", "the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims", "the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a", "how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension"]
+title: >-
+  Myths vs Facts: ‘Salt Sensitivity’ in Black Adults 55–72 — What Genomic
+  Studies Reveal About ENaC Variants, Potassium Excretion, and Real-World
+  Dietary Response
+slug: >-
+  myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response
+description: >-
+  Debunks oversimplified salt narratives using ancestry-informed physiology —
+  explaining why some respond dramatically to potassium-rich diets alone, while
+  others need dual RAAS + ENaC targeting.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: salt sensitivity myths in Black adults
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions
+  - >-
+    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
+  - >-
+    the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a
+  - >-
+    how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
 ---
 
 # Understanding Salt Sensitivity Myths in Black Adults: What Science—and Your Body—Really Tell Us

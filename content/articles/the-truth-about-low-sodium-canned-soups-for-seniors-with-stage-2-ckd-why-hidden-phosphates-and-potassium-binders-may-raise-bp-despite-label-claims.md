@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Low-Sodium' Canned Soups for Seniors With Stage 2 CKD—Why Hidden Phosphates and Potassium Binders May Raise BP Despite Label Claims"
-slug: "the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims"
-description: "Debunks misleading sodium labeling in renal-friendly foods, analyzing electrolyte load, acid-base balance, and RAAS activation in older adults with mild kidney impairment."
-date: "2026-01-04"
-updated: "2026-01-04"
-tags: ["low-sodium soups kidney disease blood pressure", "blood pressure", "renal-diet-blood-pressure"]
-primaryKeyword: "low-sodium soups kidney disease blood pressure"
-topicCluster: "renal-diet-blood-pressure"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease", "the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors", "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72", "the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension"]
+title: >-
+  The Truth About 'Low-Sodium' Canned Soups for Seniors With Stage 2 CKD—Why
+  Hidden Phosphates and Potassium Binders May Raise BP Despite Label Claims
+slug: >-
+  the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
+description: >-
+  Debunks misleading sodium labeling in renal-friendly foods, analyzing
+  electrolyte load, acid-base balance, and RAAS activation in older adults with
+  mild kidney impairment.
+date: '2026-01-04'
+updated: '2026-01-04'
+primaryKeyword: low-sodium soups kidney disease blood pressure
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
+  - >-
+    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
 ---
 
 # What Seniors With Stage 2 CKD Should Know About Low-Sodium Soups and Blood Pressure

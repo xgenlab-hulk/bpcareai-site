@@ -1,0 +1,180 @@
+{
+  "round": 2,
+  "batch_id": 1,
+  "input_clusters": 47,
+  "output_clusters": 12,
+  "total_articles": 592,
+  "clustered_results": [
+    {
+      "core_cluster_name": "cardiovascular-health",
+      "description": "心血管系统整体健康,包括心脏功能、血管健康、内皮功能、微血管健康和心血管生理机制",
+      "rationale": "合并了所有cardiovascular相关的中间clusters,包括cardiovascular-health(136篇,来自重复合并)、cardiovascular-monitoring-diagnosis(20篇)、cardiovascular-physiology-mechanisms(15篇)、microvascular-endothelial-health(9篇),形成完整的心血管健康体系",
+      "merged_from": [
+        "cardiovascular-health (110篇, batch 1)",
+        "cardiovascular-health (26篇, batch 7)",
+        "cardiovascular-monitoring-diagnosis (20篇, batch 3)",
+        "cardiovascular-physiology-mechanisms (15篇, batch 6)",
+        "microvascular-endothelial-health (9篇, batch 3)"
+      ],
+      "total_articles": 180
+    },
+    {
+      "core_cluster_name": "nutrition-diet-management",
+      "description": "营养和饮食管理的综合策略,包括通用饮食干预、疾病特异性营养(糖尿病、心脏病)、代谢优化和心脏营养",
+      "rationale": "合并了nutrition-diet-interventions(33篇)、diabetes-nutrition-management(14篇)、metabolic-nutrition-optimization(10篇)、cardiac-nutrition-interventions(7篇),避免过度细分营养主题",
+      "merged_from": [
+        "nutrition-diet-interventions (33篇, batch 5)",
+        "diabetes-nutrition-management (14篇, batch 2)",
+        "metabolic-nutrition-optimization (10篇, batch 2)",
+        "cardiac-nutrition-interventions (7篇, batch 9)"
+      ],
+      "total_articles": 64
+    },
+    {
+      "core_cluster_name": "glucose-diabetes-management",
+      "description": "糖尿病和血糖管理的全面体系,包括血糖代谢、监测技术、糖尿病治疗、并发症预防和生活方式干预",
+      "rationale": "合并了glucose-metabolism-management(19篇)、glucose-diabetes-management(17篇)、glucose-monitoring-technology(8篇)、glucose-monitoring-accuracy(5篇),形成完整的糖尿病管理核心类别",
+      "merged_from": [
+        "glucose-metabolism-management (19篇, batch 4)",
+        "glucose-diabetes-management (17篇, batch 6)",
+        "glucose-monitoring-technology (8篇, batch 2)",
+        "glucose-monitoring-accuracy (5篇, batch 3)"
+      ],
+      "total_articles": 49
+    },
+    {
+      "core_cluster_name": "medication-safety",
+      "description": "药物安全、药物相互作用、药理学机制、副作用管理和多重用药监测",
+      "rationale": "合并了medication-safety-interactions(38+11=49篇,重复合并)、medication-pharmacology-safety(11篇)、pharmacology-mechanisms(7篇),整合所有medication相关主题",
+      "merged_from": [
+        "medication-safety-interactions (38篇, batch 1)",
+        "medication-safety-interactions (11篇, batch 4)",
+        "medication-pharmacology-safety (11篇, batch 6)",
+        "pharmacology-mechanisms (7篇, batch 2)"
+      ],
+      "total_articles": 67
+    },
+    {
+      "core_cluster_name": "circadian-sleep-health",
+      "description": "昼夜节律、睡眠质量与代谢功能的相互影响,包括睡眠呼吸障碍对心肺血流动力学的影响",
+      "rationale": "合并了circadian-sleep-metabolism(24篇)、circadian-metabolic-regulation(14篇)、sleep-breathing-disorders(2篇),形成完整的昼夜节律与睡眠健康主题",
+      "merged_from": [
+        "circadian-sleep-metabolism (24篇, batch 1)",
+        "circadian-metabolic-regulation (14篇, batch 3)",
+        "sleep-breathing-disorders (2篇, batch 3)"
+      ],
+      "total_articles": 40
+    },
+    {
+      "core_cluster_name": "hypertension-management",
+      "description": "高血压的全面管理,包括监测、诊断、治疗、风险因素识别和生活方式干预",
+      "rationale": "合并了hypertension-comprehensive-management(17篇)和hypertension-risk-factors(7篇),简化命名并整合高血压所有方面",
+      "merged_from": [
+        "hypertension-comprehensive-management (17篇, batch 5)",
+        "hypertension-risk-factors (7篇, batch 2)"
+      ],
+      "total_articles": 24
+    },
+    {
+      "core_cluster_name": "metabolic-health",
+      "description": "代谢综合征及多系统代谢关联,包括肝脏代谢、肾脏-代谢联系、肠道-代谢轴和认知-代谢联系",
+      "rationale": "合并了metabolic-syndrome-connections(12篇)、gut-microbiome-metabolism(10篇)、cognitive-metabolic-linkage(5篇),形成完整的代谢健康生态系统",
+      "merged_from": [
+        "metabolic-syndrome-connections (12篇, batch 6)",
+        "gut-microbiome-metabolism (10篇, batch 2)",
+        "cognitive-metabolic-linkage (5篇, batch 3)"
+      ],
+      "total_articles": 27
+    },
+    {
+      "core_cluster_name": "lifestyle-interventions",
+      "description": "生活方式和行为干预,包括运动处方、身体活动、压力管理、呼吸技术、日常实用策略和社交场合管理",
+      "rationale": "合并了lifestyle-behavioral-interventions(9篇)、exercise-physical-activity(8篇)、lifestyle-practical-strategies(13篇),整合所有非药物生活方式干预",
+      "merged_from": [
+        "lifestyle-practical-strategies (13篇, batch 4)",
+        "lifestyle-behavioral-interventions (9篇, batch 9)",
+        "exercise-physical-activity (8篇, batch 4)"
+      ],
+      "total_articles": 30
+    },
+    {
+      "core_cluster_name": "complications-management",
+      "description": "并发症识别与管理,包括神经系统并发症、肾脏并发症、急症识别、预警信号和鉴别诊断",
+      "rationale": "合并了neurological-complications(12篇)、complications-emergency-recognition(8篇)、renal-cardiovascular-complications(6篇),形成完整的并发症管理体系",
+      "merged_from": [
+        "neurological-complications (12篇, batch 8)",
+        "complications-emergency-recognition (8篇, batch 4)",
+        "renal-cardiovascular-complications (6篇, batch 5)"
+      ],
+      "total_articles": 26
+    },
+    {
+      "core_cluster_name": "natural-remedies",
+      "description": "天然疗法、营养补充剂、非药物干预和功能性食品对代谢和心血管健康的影响",
+      "rationale": "合并了natural-remedies-supplements(15篇)、food-safety-labeling(9篇)、supplement-hemodynamic-effects(1篇),整合所有自然疗法和补充剂主题",
+      "merged_from": [
+        "natural-remedies-supplements (15篇, batch 6)",
+        "food-safety-labeling (9篇, batch 3)",
+        "supplement-hemodynamic-effects (1篇, batch 3)"
+      ],
+      "total_articles": 25
+    },
+    {
+      "core_cluster_name": "prevention-risk-assessment",
+      "description": "疾病预防和风险评估,包括代谢预防、冠状动脉钙化预防、早期检测、风险预测模型和血管钙化调控",
+      "rationale": "合并了prevention-risk-assessment(7篇)和vascular-calcification-modulation(3篇),形成完整的预防和风险管理主题",
+      "merged_from": [
+        "prevention-risk-assessment (7篇, batch 9)",
+        "vascular-calcification-modulation (3篇, batch 3)"
+      ],
+      "total_articles": 10
+    },
+    {
+      "core_cluster_name": "special-populations",
+      "description": "特殊人群护理和健康管理,包括老年人、性别特异性健康、女性心血管健康、照护者支持、认知障碍患者和多病共存管理",
+      "rationale": "合并了specialized-therapeutic-interventions(13篇)、gender-specific-health(5篇)、special-populations-care(4篇)、vision-eye-health(6篇)、neurological-sensory-health(4篇)、advanced-biomarkers-research(5篇)、oral-systemic-health-connections(3篇)、medical-device-safety(3篇)、nutritional-deficiency-detection(2篇)、thermal-therapy-applications(4篇)、cooking-neurotoxicity-risk(1篇),整合所有特殊人群、特殊治疗和前沿主题",
+      "merged_from": [
+        "specialized-therapeutic-interventions (13篇, batch 4)",
+        "vision-eye-health (6篇, batch 8)",
+        "gender-specific-health (5篇, batch 8)",
+        "advanced-biomarkers-research (5篇, batch 8)",
+        "special-populations-care (4篇, batch 8)",
+        "neurological-sensory-health (4篇, batch 2)",
+        "thermal-therapy-applications (4篇, batch 3)",
+        "oral-systemic-health-connections (3篇, batch 2)",
+        "medical-device-safety (3篇, batch 3)",
+        "nutritional-deficiency-detection (2篇, batch 3)",
+        "cooking-neurotoxicity-risk (1篇, batch 3)"
+      ],
+      "total_articles": 50
+    }
+  ],
+  "clustering_summary": {
+    "core_clusters_count": 12,
+    "avg_articles_per_cluster": 49.3,
+    "largest_clusters": [
+      "cardiovascular-health (180篇)",
+      "medication-safety (67篇)",
+      "nutrition-diet-management (64篇)"
+    ],
+    "merging_approach": "基于语义去重和命名规范化的深度聚类,识别并合并了重复clusters(cardiovascular-health, medication-safety-interactions),大胆合并语义高度相似的clusters(nutrition相关4个→1个, glucose/diabetes相关4个→1个, circadian/sleep相关3个→1个),优化命名至2-3个词",
+    "duplicate_merges": [
+      "cardiovascular-health: 110篇(batch 1) + 26篇(batch 7) = 136篇",
+      "medication-safety-interactions: 38篇(batch 1) + 11篇(batch 4) = 49篇"
+    ],
+    "semantic_merges": [
+      "nutrition相关: 4个clusters → nutrition-diet-management (64篇)",
+      "glucose/diabetes相关: 4个clusters → glucose-diabetes-management (49篇)",
+      "medication相关: 3个clusters → medication-safety (67篇)",
+      "circadian/sleep相关: 3个clusters → circadian-sleep-health (40篇)",
+      "cardiovascular相关: 4个clusters → cardiovascular-health (180篇)",
+      "metabolic相关: 3个clusters → metabolic-health (27篇)",
+      "lifestyle相关: 3个clusters → lifestyle-interventions (30篇)",
+      "complications相关: 3个clusters → complications-management (26篇)",
+      "natural remedies相关: 3个clusters → natural-remedies (25篇)",
+      "hypertension相关: 2个clusters → hypertension-management (24篇)",
+      "prevention相关: 2个clusters → prevention-risk-assessment (10篇)",
+      "特殊人群和前沿主题: 11个小clusters → special-populations (50篇)"
+    ]
+  }
+}

@@ -1,14 +1,28 @@
 ---
-title: "How Late-Night Leftovers Affect Circadian Glucose Rhythms in Adults With Shift Work History (Age 58–72)"
-slug: "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72"
-description: "Explaining why eating at 10 p.m. post-gathering disrupts melatonin-mediated insulin sensitivity—especially in those with prior rotating shifts—and offering circadian-aligned snack alternatives that won’t derail overnight metabolism."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["late-night leftovers circadian glucose shift work", "healthy eating during family gatherings", "chronobiology-nutrition"]
-primaryKeyword: "late-night leftovers circadian glucose shift work"
-topicCluster: "chronobiology-nutrition"
-image: ""
-relatedSlugs: ["how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75", "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts"]
+title: >-
+  How Late-Night Leftovers Affect Circadian Glucose Rhythms in Adults With Shift
+  Work History (Age 58–72)
+slug: >-
+  how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+description: >-
+  Explaining why eating at 10 p.m. post-gathering disrupts melatonin-mediated
+  insulin sensitivity—especially in those with prior rotating shifts—and
+  offering circadian-aligned snack alternatives that won’t derail overnight
+  metabolism.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: late-night leftovers circadian glucose shift work
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
+  - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---
 
 # How Late-Night Leftovers Disrupt Circadian Glucose Rhythms in Adults With Shift Work History (Age 58–72)

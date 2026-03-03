@@ -6,12 +6,8 @@ description: >-
   overall heart resilience.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - strength training to reduce heart disease risk after 60
-  - heart disease
-  - hypertension-lifestyle
 primaryKeyword: strength training to reduce heart disease risk after 60
-topicCluster: hypertension-management
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - can-meditation-reduce-heart-disease-risk-after-50

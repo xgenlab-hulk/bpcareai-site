@@ -6,12 +6,8 @@ description: >-
   sugar for people over 50 with diabetes.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - low-sugar holiday recipe swaps
-  - holiday diabetes management
-  - diabetic-diet-cooking
 primaryKeyword: low-sugar holiday recipe swaps
-topicCluster: diabetes-care
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

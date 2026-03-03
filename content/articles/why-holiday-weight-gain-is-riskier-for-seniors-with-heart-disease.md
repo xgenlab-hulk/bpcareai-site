@@ -7,12 +7,8 @@ description: >-
   conditions.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - holiday weight gain heart risk seniors
-  - healthy holiday eating for seniors
-  - complications-related-conditions
 primaryKeyword: holiday weight gain heart risk seniors
-topicCluster: complications-comorbidities
+topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults

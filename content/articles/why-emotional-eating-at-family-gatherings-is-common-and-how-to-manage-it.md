@@ -6,12 +6,8 @@ description: >-
   offers tools to cope with stress, nostalgia, and pressure.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - emotional eating at family events
-  - healthy eating during family gatherings
-  - mental-health-nutrition
 primaryKeyword: emotional eating at family events
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners

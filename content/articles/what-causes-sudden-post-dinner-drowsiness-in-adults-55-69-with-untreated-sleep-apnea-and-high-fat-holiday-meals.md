@@ -1,14 +1,29 @@
 ---
-title: "What Causes Sudden Post-Dinner Drowsiness in Adults 55–69 With Untreated Sleep Apnea and High-Fat Holiday Meals?"
-slug: "what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals"
-description: "Explains the triad of vagal overstimulation, postprandial hypotension, and REM pressure shifts triggered by evening fat intake — and how this differs from normal 'food coma' in neurovascular aging."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["post-dinner drowsiness sleep apnea cause", "healthy eating during family gatherings", "neurovascular-symptom"]
-primaryKeyword: "post-dinner drowsiness sleep apnea cause"
-topicCluster: "neurovascular-symptom"
-image: ""
-relatedSlugs: ["when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension", "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else", "when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment", "what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65", "what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings"]
+title: >-
+  What Causes Sudden Post-Dinner Drowsiness in Adults 55–69 With Untreated Sleep
+  Apnea and High-Fat Holiday Meals?
+slug: >-
+  what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
+description: >-
+  Explains the triad of vagal overstimulation, postprandial hypotension, and REM
+  pressure shifts triggered by evening fat intake — and how this differs from
+  normal 'food coma' in neurovascular aging.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: post-dinner drowsiness sleep apnea cause
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
+  - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
+  - >-
+    what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
 ---
 
 # Why Post-Dinner Drowsiness Sleep Apnea Cause Is More Than Just “Feeling Full” After Holiday Dinners

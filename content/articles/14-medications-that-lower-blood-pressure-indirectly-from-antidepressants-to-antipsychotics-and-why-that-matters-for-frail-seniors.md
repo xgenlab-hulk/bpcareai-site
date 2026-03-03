@@ -1,14 +1,27 @@
 ---
-title: "14 Medications That Lower Blood Pressure *Indirectly*—From Antidepressants to Antipsychotics, and Why That Matters for Frail Seniors"
-slug: "14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors"
-description: "Catalogs off-target antihypertensive effects (e.g., mirtazapine’s α2-blockade, quetiapine’s vasodilation), with fall-risk and orthostasis implications in adults 70+ on ≥5 medications."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["medications that lower blood pressure indirectly", "blood pressure", "pharmacologic-side-effects"]
-primaryKeyword: "medications that lower blood pressure indirectly"
-topicCluster: "pharmacologic-side-effects"
-image: ""
-relatedSlugs: ["could-your-medications-be-raising-your-blood-pressure", "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75", "when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68", "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use", "how-standing-up-too-fast-affects-blood-pressure-in-older-adults"]
+title: >-
+  14 Medications That Lower Blood Pressure *Indirectly*—From Antidepressants to
+  Antipsychotics, and Why That Matters for Frail Seniors
+slug: >-
+  14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
+description: >-
+  Catalogs off-target antihypertensive effects (e.g., mirtazapine’s α2-blockade,
+  quetiapine’s vasodilation), with fall-risk and orthostasis implications in
+  adults 70+ on ≥5 medications.
+date: '2025-12-29'
+updated: '2025-12-29'
+primaryKeyword: medications that lower blood pressure indirectly
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - could-your-medications-be-raising-your-blood-pressure
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
 ---
 
 # 14 Medications That Lower Blood Pressure Indirectly—What Every Senior Should Know

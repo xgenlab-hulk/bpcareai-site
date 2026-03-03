@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Navigating Potluck Contributions When You’re Managing Heart Failure After 70"
-slug: "the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70"
-description: "Practical, stigma-free framework for selecting, labeling, and explaining heart-healthy dishes—including sodium-free seasoning blends, portion-controlled serving guides, and polite scripts for navigating questions from relatives."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["potluck contributions heart failure seniors", "healthy eating during family gatherings", "cardiac-diet-social-navigation"]
-primaryKeyword: "potluck contributions heart failure seniors"
-topicCluster: "cardiac-diet-social-navigation"
-image: ""
-relatedSlugs: ["5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor", "a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease", "7-smart-swaps-for-healthier-holiday-meals-after-65", "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors"]
+title: >-
+  The Complete Guide to Navigating Potluck Contributions When You’re Managing
+  Heart Failure After 70
+slug: >-
+  the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
+description: >-
+  Practical, stigma-free framework for selecting, labeling, and explaining
+  heart-healthy dishes—including sodium-free seasoning blends,
+  portion-controlled serving guides, and polite scripts for navigating questions
+  from relatives.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: potluck contributions heart failure seniors
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
+  - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # Heart-Healthy Potluck Contributions for Seniors Managing Heart Failure: A Compassionate, Practical Guide

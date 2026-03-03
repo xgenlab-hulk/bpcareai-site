@@ -10,12 +10,8 @@ description: >-
   shown to reduce ulcer risk while building muscle.
 date: '2026-01-02'
 updated: '2026-01-02'
-tags:
-  - strength training peripheral neuropathy seniors
-  - diabetes
-  - neuropathy-safe-strength-training
 primaryKeyword: strength training peripheral neuropathy seniors
-topicCluster: neuropathy-safe-strength-training
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - best-low-impact-exercises-for-managing-diabetes-after-60

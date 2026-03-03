@@ -6,12 +6,8 @@ description: >-
   diet, and mindfulness for mild cases.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - natural remedies for seasonal depression
-  - seasonal depression in older adults
-  - natural-remedies
 primaryKeyword: natural remedies for seasonal depression
-topicCluster: treatment-interventions
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70

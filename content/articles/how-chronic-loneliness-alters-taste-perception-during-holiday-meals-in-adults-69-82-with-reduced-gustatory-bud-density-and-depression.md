@@ -1,14 +1,27 @@
 ---
-title: "How Chronic Loneliness Alters Taste Perception During Holiday Meals in Adults 69–82 With Reduced Gustatory Bud Density and Depression"
-slug: "how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression"
-description: "Explains neuroendocrine mechanisms linking social isolation to dulled sweet/savory detection, and offers sensory-enhancement strategies (umami layering, aroma-boosted herbs, texture variation)."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["loneliness taste perception holiday meals", "healthy holiday eating for seniors", "emotional-health-sensory-diet"]
-primaryKeyword: "loneliness taste perception holiday meals"
-topicCluster: "emotional-health-sensory-diet"
-image: ""
-relatedSlugs: ["the-link-between-loneliness-during-holidays-and-poor-diabetes-control", "simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification", "how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80", "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults", "13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps"]
+title: >-
+  How Chronic Loneliness Alters Taste Perception During Holiday Meals in Adults
+  69–82 With Reduced Gustatory Bud Density and Depression
+slug: >-
+  how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression
+description: >-
+  Explains neuroendocrine mechanisms linking social isolation to dulled
+  sweet/savory detection, and offers sensory-enhancement strategies (umami
+  layering, aroma-boosted herbs, texture variation).
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: loneliness taste perception holiday meals
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - the-link-between-loneliness-during-holidays-and-poor-diabetes-control
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
+  - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - >-
+    13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps
 ---
 
 # How Loneliness Alters Taste Perception During Holiday Meals in Older Adults—and What You Can Do About It

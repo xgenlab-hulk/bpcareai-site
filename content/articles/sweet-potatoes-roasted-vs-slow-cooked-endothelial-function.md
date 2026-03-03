@@ -1,14 +1,31 @@
 ---
-title: "A vs B: Slow-Cooked Sweet Potatoes (With Brown Sugar & Butter) vs. Roasted with Cinnamon & Pecans — Impact on Postprandial Endothelial Function in Adults 58–69 With Metabolic Syndrome"
-slug: "a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome"
-description: "Compares two common holiday prep methods for sweet potatoes using vascular reactivity biomarkers, focusing on AGE formation, polyphenol retention, and insulin-mediated NO release — with lab-validated takeaways for real-world cooking."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["sweet potatoes roasted vs slow-cooked endothelial function", "healthy eating during family gatherings", "cooking-method-physiology"]
-primaryKeyword: "sweet potatoes roasted vs slow-cooked endothelial function"
-topicCluster: "cooking-method-physiology"
-image: ""
-relatedSlugs: ["a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain", "a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy", "a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis", "a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d", "a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension"]
+title: >-
+  A vs B: Slow-Cooked Sweet Potatoes (With Brown Sugar & Butter) vs. Roasted
+  with Cinnamon & Pecans — Impact on Postprandial Endothelial Function in Adults
+  58–69 With Metabolic Syndrome
+slug: >-
+  a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
+description: >-
+  Compares two common holiday prep methods for sweet potatoes using vascular
+  reactivity biomarkers, focusing on AGE formation, polyphenol retention, and
+  insulin-mediated NO release — with lab-validated takeaways for real-world
+  cooking.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: sweet potatoes roasted vs slow-cooked endothelial function
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
+  - >-
+    a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
+  - >-
+    a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
+  - >-
+    a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d
+  - >-
+    a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension
 ---
 
 # Sweet Potatoes Roasted vs Slow-Cooked Endothelial Function: What Holiday Cooking Really Does to Your Arteries

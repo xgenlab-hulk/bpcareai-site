@@ -6,12 +6,8 @@ description: >-
   sugar levels.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - intermittent fasting for type 2 diabetes over 60
-  - diabetes
-  - diabetes-lifestyle
 primaryKeyword: intermittent fasting for type 2 diabetes over 60
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - meal-timing-strategies-for-better-blood-sugar-control-after-50

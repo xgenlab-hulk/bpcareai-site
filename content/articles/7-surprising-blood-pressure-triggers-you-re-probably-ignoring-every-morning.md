@@ -1,14 +1,21 @@
 ---
-title: "7 Surprising Blood Pressure Triggers You’re Probably Ignoring Every Morning"
-slug: "7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning"
-description: "Explores overlooked daily habits—like caffeine timing, rushed breakfasts, and morning medication errors—that spike BP before noon, with science-backed fixes for adults over 55."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["morning blood pressure triggers seniors", "blood pressure", "lifestyle-habits-morning"]
-primaryKeyword: "morning blood pressure triggers seniors"
-topicCluster: "lifestyle-habits-morning"
-image: ""
-relatedSlugs: ["how-morning-blood-pressure-spikes-affect-your-heart", "why-morning-blood-pressure-surges-are-more-dangerous-in-winter", "hidden-salt-10-surprising-foods-that-spike-blood-pressure", "does-caffeine-raise-blood-pressure-after-age-60", "could-your-medications-be-raising-your-blood-pressure"]
+title: 7 Surprising Blood Pressure Triggers You’re Probably Ignoring Every Morning
+slug: 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
+description: >-
+  Explores overlooked daily habits—like caffeine timing, rushed breakfasts, and
+  morning medication errors—that spike BP before noon, with science-backed fixes
+  for adults over 55.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: morning blood pressure triggers seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - how-morning-blood-pressure-spikes-affect-your-heart
+  - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - does-caffeine-raise-blood-pressure-after-age-60
+  - could-your-medications-be-raising-your-blood-pressure
 ---
 
 # 7 Morning Blood Pressure Triggers Seniors Often Overlook—And How to Tame Them

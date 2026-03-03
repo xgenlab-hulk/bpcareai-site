@@ -1,14 +1,26 @@
 ---
-title: "7 Hidden Sources of Sodium Lurking in Holiday Gravies, Stuffings, and Casseroles—Especially Dangerous for Adults With Stage 2 Hypertension Over 62"
-slug: "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62"
-description: "A deep-dive exposé of unexpected sodium hotspots in classic family gathering dishes, with label-reading tips and low-sodium swap strategies validated by ADA and AHA dietary guidelines."
-date: "2025-12-28"
-updated: "2025-12-28"
-tags: ["hidden sodium in holiday food hypertension", "healthy eating during family gatherings", "diet-nutrition-sodium-awareness"]
-primaryKeyword: "hidden sodium in holiday food hypertension"
-topicCluster: "diet-nutrition-sodium-awareness"
-image: ""
-relatedSlugs: ["5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure", "7-smart-swaps-for-healthier-holiday-meals-after-65", "can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown"]
+title: >-
+  7 Hidden Sources of Sodium Lurking in Holiday Gravies, Stuffings, and
+  Casseroles—Especially Dangerous for Adults With Stage 2 Hypertension Over 62
+slug: >-
+  7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+description: >-
+  A deep-dive exposé of unexpected sodium hotspots in classic family gathering
+  dishes, with label-reading tips and low-sodium swap strategies validated by
+  ADA and AHA dietary guidelines.
+date: '2025-12-28'
+updated: '2025-12-28'
+primaryKeyword: hidden sodium in holiday food hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - >-
+    can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
 ---
 
 # Hidden Sodium in Holiday Food Hypertension: What Your Favorite Casseroles, Gravies, and Stuffings Might Be Hiding

@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Managing 'Brittle' Glucose Patterns in Adults 55–69 With Type 1 Diabetes, Autonomic Neuropathy, and Frequent Unexplained Hypoglycemia"
-slug: "the-complete-guide-to-managing-brittle-glucose-patterns-in-adults-55-69-with-type-1-diabetes-autonomic-neuropathy-and-frequent-unexplained-hypoglycemia"
-description: "Covers autonomic testing interpretation, counterregulatory hormone assessment, CGM-based pattern recognition algorithms, and non-insulin stabilization strategies—including timed glucagon analogs and vagal tone training."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["brittle diabetes autonomic neuropathy guide", "diabetes", "treatment-brittle-patterns"]
-primaryKeyword: "brittle diabetes autonomic neuropathy guide"
-topicCluster: "treatment-brittle-patterns"
-image: ""
-relatedSlugs: ["a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy", "best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes", "the-ultimate-guide-to-interpreting-postprandial-glucose-trends-on-your-cgm-including-what-flatline-spike-and-drop-and-delayed-rise-really-mean-for-your-beta-cell-reserve", "simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature", "what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance"]
+title: >-
+  The Complete Guide to Managing 'Brittle' Glucose Patterns in Adults 55–69 With
+  Type 1 Diabetes, Autonomic Neuropathy, and Frequent Unexplained Hypoglycemia
+slug: >-
+  the-complete-guide-to-managing-brittle-glucose-patterns-in-adults-55-69-with-type-1-diabetes-autonomic-neuropathy-and-frequent-unexplained-hypoglycemia
+description: >-
+  Covers autonomic testing interpretation, counterregulatory hormone assessment,
+  CGM-based pattern recognition algorithms, and non-insulin stabilization
+  strategies—including timed glucagon analogs and vagal tone training.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: brittle diabetes autonomic neuropathy guide
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
+  - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
+  - >-
+    the-ultimate-guide-to-interpreting-postprandial-glucose-trends-on-your-cgm-including-what-flatline-spike-and-drop-and-delayed-rise-really-mean-for-your-beta-cell-reserve
+  - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
+  - >-
+    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
 ---
 
 # A Practical Brittle Diabetes Autonomic Neuropathy Guide for Adults 55–69 With Type 1 Diabetes

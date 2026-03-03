@@ -1,14 +1,29 @@
 ---
-title: "Best Low-Impact Resistance Exercises for Adults 82+ With Severe Osteoporosis and Atrial Fibrillation on Apixaban"
-slug: "best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban"
-description: "Prioritizes axial-loading safety, anti-arrhythmic breathing integration, and bleeding-risk-aware progression — with modifications for kyphosis, fall history, and anticoagulation protocols."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["low-impact resistance osteoporosis afib seniors 82+", "heart disease", "frailty-exercise-safety"]
-primaryKeyword: "low-impact resistance osteoporosis afib seniors 82+"
-topicCluster: "frailty-exercise-safety"
-image: ""
-relatedSlugs: ["best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension", "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats", "best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension", "best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options", "best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension"]
+title: >-
+  Best Low-Impact Resistance Exercises for Adults 82+ With Severe Osteoporosis
+  and Atrial Fibrillation on Apixaban
+slug: >-
+  best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
+description: >-
+  Prioritizes axial-loading safety, anti-arrhythmic breathing integration, and
+  bleeding-risk-aware progression — with modifications for kyphosis, fall
+  history, and anticoagulation protocols.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: low-impact resistance osteoporosis afib seniors 82+
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - >-
+    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
+  - >-
+    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
+  - >-
+    best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
 ---
 
 # Gentle Strength: Safe Low-Impact Resistance Exercises for Seniors 82+ With Osteoporosis and Atrial Fibrillation

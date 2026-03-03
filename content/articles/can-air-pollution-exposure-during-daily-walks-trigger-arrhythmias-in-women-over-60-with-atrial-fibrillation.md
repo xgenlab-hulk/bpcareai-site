@@ -10,12 +10,8 @@ description: >-
   arrhythmia.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - air pollution and afib in women over 60
-  - heart disease
-  - environmental-triggers-arrhythmia
 primaryKeyword: air pollution and afib in women over 60
-topicCluster: environmental-triggers-arrhythmia
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults

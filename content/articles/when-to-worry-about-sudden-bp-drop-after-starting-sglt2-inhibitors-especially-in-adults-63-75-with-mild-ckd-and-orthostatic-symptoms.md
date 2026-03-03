@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About Sudden BP Drop After Starting SGLT2 Inhibitors — Especially in Adults 63–75 With Mild CKD and Orthostatic Symptoms"
-slug: "when-to-worry-about-sudden-bp-drop-after-starting-sglt2-inhibitors-especially-in-adults-63-75-with-mild-ckd-and-orthostatic-symptoms"
-description: "Details the hemodynamic timeline of SGLT2i-induced natriuresis, volume-sensitive hypotension risk windows, and how to distinguish true volume depletion from autonomic-mediated drops."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["SGLT2 inhibitor blood pressure drop", "blood pressure", "pharmacodynamic-alert"]
-primaryKeyword: "SGLT2 inhibitor blood pressure drop"
-topicCluster: "pharmacodynamic-alert"
-image: ""
-relatedSlugs: ["when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction", "7-silent-signs-your-blood-pressure-is-too-low-after-starting-sglt2-inhibitors-especially-if-you-re-on-dialysis-or-have-orthostatic-tremor", "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes", "when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67", "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone"]
+title: >-
+  When to Worry About Sudden BP Drop After Starting SGLT2 Inhibitors —
+  Especially in Adults 63–75 With Mild CKD and Orthostatic Symptoms
+slug: >-
+  when-to-worry-about-sudden-bp-drop-after-starting-sglt2-inhibitors-especially-in-adults-63-75-with-mild-ckd-and-orthostatic-symptoms
+description: >-
+  Details the hemodynamic timeline of SGLT2i-induced natriuresis,
+  volume-sensitive hypotension risk windows, and how to distinguish true volume
+  depletion from autonomic-mediated drops.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: SGLT2 inhibitor blood pressure drop
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction
+  - >-
+    7-silent-signs-your-blood-pressure-is-too-low-after-starting-sglt2-inhibitors-especially-if-you-re-on-dialysis-or-have-orthostatic-tremor
+  - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
+  - >-
+    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
+  - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
 ---
 
 # When to Be Concerned About SGLT2 Inhibitor Blood Pressure Drop — A Practical Guide for Adults 63–75 With Mild CKD and Orthostatic Symptoms

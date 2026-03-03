@@ -9,12 +9,8 @@ description: >-
   without medication, tailored for aging metabolisms.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - natural appetite suppressants for seniors holidays
-  - healthy holiday eating for seniors
-  - natural-remedies
 primaryKeyword: natural appetite suppressants for seniors holidays
-topicCluster: treatment-interventions
+topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60

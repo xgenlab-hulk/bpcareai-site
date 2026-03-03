@@ -1,14 +1,29 @@
 ---
-title: "Simple Steps to Reduce Post-Transfusion Hypertension in Adults 71+ With Iron Overload, Elevated Hepcidin, and Prior Hypertensive Crisis"
-slug: "simple-steps-to-reduce-post-transfusion-hypertension-in-adults-71-with-iron-overload-elevated-hepcidin-and-prior-hypertensive-crisis"
-description: "Outlines pre-transfusion phlebotomy timing, IV ascorbate dosing, and post-transfusion low-dose nitroglycerin protocols to prevent acute endothelial ROS burst and vasoconstriction."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["post-transfusion hypertension adults 71+ iron overload", "blood pressure", "treatment-options"]
-primaryKeyword: "post-transfusion hypertension adults 71+ iron overload"
-topicCluster: "treatment-options"
-image: ""
-relatedSlugs: ["natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria", "why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin", "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling", "12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma", "natural-ways-to-support-capillary-perfusion-without-vasodilators-for-adults-67-79-with-hypertension-mild-peripheral-artery-disease-and-cold-hands-feet"]
+title: >-
+  Simple Steps to Reduce Post-Transfusion Hypertension in Adults 71+ With Iron
+  Overload, Elevated Hepcidin, and Prior Hypertensive Crisis
+slug: >-
+  simple-steps-to-reduce-post-transfusion-hypertension-in-adults-71-with-iron-overload-elevated-hepcidin-and-prior-hypertensive-crisis
+description: >-
+  Outlines pre-transfusion phlebotomy timing, IV ascorbate dosing, and
+  post-transfusion low-dose nitroglycerin protocols to prevent acute endothelial
+  ROS burst and vasoconstriction.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: post-transfusion hypertension adults 71+ iron overload
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria
+  - >-
+    why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma
+  - >-
+    natural-ways-to-support-capillary-perfusion-without-vasodilators-for-adults-67-79-with-hypertension-mild-peripheral-artery-disease-and-cold-hands-feet
 ---
 
 # Managing Post-Transfusion Hypertension in Adults 71+ With Iron Overload

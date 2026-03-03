@@ -6,10 +6,6 @@ description: >-
   cardiovascular efficiency.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - posture and heart health in seniors
-  - heart health
-  - heart-health
 primaryKeyword: posture and heart health in seniors
 topicCluster: cardiovascular-health
 image: ''

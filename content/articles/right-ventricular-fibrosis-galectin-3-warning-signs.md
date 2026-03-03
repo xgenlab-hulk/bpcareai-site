@@ -1,14 +1,30 @@
 ---
-title: "Warning Signs Your ‘Stable’ Heart Failure Is Masking Early Right Ventricular Fibrosis — Especially With Elevated Serum Galectin-3 and Reduced RV Strain Rate"
-slug: "warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate"
-description: "Identifies subtle markers like exertional desaturation without dyspnea, disproportionate ankle edema vs. jugular pressure, and strain-echo discordance as early RV fibrosis signals."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["right ventricular fibrosis galectin-3 warning signs", "heart disease", "right-heart-fibrosis-early-detection"]
-primaryKeyword: "right ventricular fibrosis galectin-3 warning signs"
-topicCluster: "right-heart-fibrosis-early-detection"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71", "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear", "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath", "what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises"]
+title: >-
+  Warning Signs Your ‘Stable’ Heart Failure Is Masking Early Right Ventricular
+  Fibrosis — Especially With Elevated Serum Galectin-3 and Reduced RV Strain
+  Rate
+slug: >-
+  warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate
+description: >-
+  Identifies subtle markers like exertional desaturation without dyspnea,
+  disproportionate ankle edema vs. jugular pressure, and strain-echo discordance
+  as early RV fibrosis signals.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: right ventricular fibrosis galectin-3 warning signs
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - >-
+    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
+  - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
+  - >-
+    what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 ---
 
 # Early Warning Signs of Right Ventricular Fibrosis — Especially When Galectin-3 Is Elevated and RV Strain Is Reduced

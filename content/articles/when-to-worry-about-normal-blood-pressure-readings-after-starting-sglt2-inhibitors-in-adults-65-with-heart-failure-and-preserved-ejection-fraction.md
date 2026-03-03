@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About 'Normal' Blood Pressure Readings After Starting SGLT2 Inhibitors in Adults 65+ With Heart Failure and Preserved Ejection Fraction"
-slug: "when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction"
-description: "Highlights paradoxical hypotension risk, volume depletion misinterpretation, and the danger of ignoring orthostatic BP drops or postprandial dips masked by stable seated readings in this high-risk cohort."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["sglt2 inhibitors normal blood pressure heart failure", "blood pressure", "medication-safety-monitoring"]
-primaryKeyword: "sglt2 inhibitors normal blood pressure heart failure"
-topicCluster: "medication-safety-monitoring"
-image: ""
-relatedSlugs: ["7-silent-signs-your-blood-pressure-is-too-low-after-starting-sglt2-inhibitors-especially-if-you-re-on-dialysis-or-have-orthostatic-tremor", "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes", "warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather", "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75", "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone"]
+title: >-
+  When to Worry About 'Normal' Blood Pressure Readings After Starting SGLT2
+  Inhibitors in Adults 65+ With Heart Failure and Preserved Ejection Fraction
+slug: >-
+  when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction
+description: >-
+  Highlights paradoxical hypotension risk, volume depletion misinterpretation,
+  and the danger of ignoring orthostatic BP drops or postprandial dips masked by
+  stable seated readings in this high-risk cohort.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: sglt2 inhibitors normal blood pressure heart failure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-blood-pressure-is-too-low-after-starting-sglt2-inhibitors-especially-if-you-re-on-dialysis-or-have-orthostatic-tremor
+  - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
+  - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
 ---
 
 # When “Normal” Blood Pressure Readings Can Be Misleading After Starting SGLT2 Inhibitors in Older Adults With Heart Failure and Preserved Ejection Fraction

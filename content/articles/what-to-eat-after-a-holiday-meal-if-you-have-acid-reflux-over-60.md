@@ -6,12 +6,8 @@ description: >-
   seniors prone to GERD during festive overindulgence.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - post-holiday meal foods for acid reflux seniors
-  - healthy holiday eating for seniors
-  - gastrointestinal-issues
 primaryKeyword: post-holiday meal foods for acid reflux seniors
-topicCluster: social-environmental
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50

@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Grandma’s Slow-Cooked Collards (With Ham Hock) vs. Modern Low-Sodium Sautéed Version — Impact on Endothelial Function in Adults 61–75 With Stage 2 Hypertension"
-slug: "a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension"
-description: "Compares traditional preparation methods using flow-mediated dilation (FMD) data and nitric oxide bioavailability metrics, factoring in heme iron, sodium load, and glucosinolate preservation — with personalized prep recommendations."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["collard greens endothelial function comparison", "healthy eating during family gatherings", "vegetable-prep-endothelial-impact"]
-primaryKeyword: "collard greens endothelial function comparison"
-topicCluster: "vegetable-prep-endothelial-impact"
-image: ""
-relatedSlugs: ["a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics", "a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd", "warning-signs-your-healthy-swap-salad-dressing-is-actually-driving-sodium-induced-endothelial-stiffness-in-adults-70-with-stage-1-hypertension-and-reduced-arterial-compliance", "what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes", "a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension"]
+title: >-
+  A vs B: Grandma’s Slow-Cooked Collards (With Ham Hock) vs. Modern Low-Sodium
+  Sautéed Version — Impact on Endothelial Function in Adults 61–75 With Stage 2
+  Hypertension
+slug: >-
+  a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension
+description: >-
+  Compares traditional preparation methods using flow-mediated dilation (FMD)
+  data and nitric oxide bioavailability metrics, factoring in heme iron, sodium
+  load, and glucosinolate preservation — with personalized prep recommendations.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: collard greens endothelial function comparison
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
+  - >-
+    a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd
+  - >-
+    warning-signs-your-healthy-swap-salad-dressing-is-actually-driving-sodium-induced-endothelial-stiffness-in-adults-70-with-stage-1-hypertension-and-reduced-arterial-compliance
+  - >-
+    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
+  - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
 ---
 
 # Collard Greens Endothelial Function Comparison: Traditional Ham Hock vs. Low-Sodium Sautéed — What Matters Most for Heart Health After 60

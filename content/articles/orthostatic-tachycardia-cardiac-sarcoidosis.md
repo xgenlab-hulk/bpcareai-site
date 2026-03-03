@@ -1,14 +1,30 @@
 ---
-title: "What Are the Earliest Signs Your 'Mild' Orthostatic Tachycardia Is Actually Masking Early Cardiac Sarcoidosis — Especially With Concurrent Uveitis and Subtle Skin Lesions in Adults 54–61?"
-slug: "what-are-the-earliest-signs-your-mild-orthostatic-tachycardia-is-actually-masking-early-cardiac-sarcoidosis-especially-with-concurrent-uveitis-and-subtle-skin-lesions-in-adults-54-61"
-description: "Highlights atypical presentations of inflammatory cardiomyopathy where autonomic testing misleads, and dermatologic/ophthalmologic clues precede cardiac MRI confirmation."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["orthostatic tachycardia cardiac sarcoidosis", "heart disease", "inflammatory-cardiomyopathy-clues"]
-primaryKeyword: "orthostatic tachycardia cardiac sarcoidosis"
-topicCluster: "inflammatory-cardiomyopathy-clues"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-cardiac-sarcoidosis-in-adults-59-with-unexplained-av-block-and-normal-ejection-fraction-before-fdg-pet-uptake-becomes-diffuse", "7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate", "when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-worsens-using-serum-free-light-chains-and-strain-echocardiography-in-adults-79-with-unexplained-orthostatic-hypotension-and-carpal-tunnel-syndrome", "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction", "when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram"]
+title: >-
+  What Are the Earliest Signs Your 'Mild' Orthostatic Tachycardia Is Actually
+  Masking Early Cardiac Sarcoidosis — Especially With Concurrent Uveitis and
+  Subtle Skin Lesions in Adults 54–61?
+slug: >-
+  what-are-the-earliest-signs-your-mild-orthostatic-tachycardia-is-actually-masking-early-cardiac-sarcoidosis-especially-with-concurrent-uveitis-and-subtle-skin-lesions-in-adults-54-61
+description: >-
+  Highlights atypical presentations of inflammatory cardiomyopathy where
+  autonomic testing misleads, and dermatologic/ophthalmologic clues precede
+  cardiac MRI confirmation.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: orthostatic tachycardia cardiac sarcoidosis
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-cardiac-sarcoidosis-in-adults-59-with-unexplained-av-block-and-normal-ejection-fraction-before-fdg-pet-uptake-becomes-diffuse
+  - >-
+    7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate
+  - >-
+    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-worsens-using-serum-free-light-chains-and-strain-echocardiography-in-adults-79-with-unexplained-orthostatic-hypotension-and-carpal-tunnel-syndrome
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram
 ---
 
 # When “Just a Little Dizzy” Might Be Orthostatic Tachycardia Cardiac Sarcoidosis — Especially With Eye or Skin Clues in Your 50s

@@ -1,0 +1,1007 @@
+{
+  "batch_id": 7,
+  "clusters": [
+    {
+      "cluster": "ckd-specific-hypertension-management",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "medications-mitochondrial-effects",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diagnosis-autoimmune-dm",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "prediabetes-glucose-management",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "monitoring-technology-practicality",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "monitoring-cgm-myths",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "non-pharmacological-interventions-vagal",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "exercise-plantar-stimulation",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "environmental-triggers-weather",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "vascular-structure-renewal",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diet-ampk-adipose",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "exercise-physiology-comparison",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "complications-neuropathy",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "gastrointestinal-warning-signs",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "early-organ-damage-ophthalmic",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "monitoring-device-limitations",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "monitoring-cgm-edema",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diet-gut-serotonin",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "exercise-timing-physiology",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "amyloidosis-red-flag-triad",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "rare-disease-detection-elderly-heart-failure",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "structural-heart-reversal-nutrition-timing",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "myocardial-compliance-modulation",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "daily-activity-safety-autonomic-stability",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "pseudohypertension-diagnosis-errors",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "endothelial-oxidative-stress-nutrition",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "circadian-cardiac-gene-disruption",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cellular-aging-metabolism",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "lipid-panel-limitations",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "environmental-vasospasm-triggers",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "seasonal-environmental-impact",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "hydration-taste-connection",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "gut-endocrine-connection",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "remote-monitoring-device-safety",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "neuromodulation-ckd-cardiovascular-risk",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "polyphenol-microbiome-cardiology",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "wearable-diagnostics-altitude",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "gerd-meal-timing",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "non-aerobic-vascular-training",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "emerging-therapeutics-endothelial-health",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "pulmonary-hypertension-breathing",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "arrhythmia-diet-comparison",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "seasonal-symptom-masking",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diagnostic-clues-oral-health",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "sodium-reduction-science",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "lipid-metabolism-misconceptions",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "caffeine-chronobiology-response",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "hepatic-metabolism-alert",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "exercise-recovery-pathophysiology",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "neurocognitive-early-detection",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diagnostic-gap-arrhythmia",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "orthostatic-blood-pressure-paradox",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cardiac-diet-hyponatremia",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diet-nutrition-label-literacy",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "nonpharmacologic-interventions-nocturnal-bp",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "autonomic-respiratory-modulation",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "travel-glucose-management",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "exercise-physiology-autonomic-dysregulation",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "social-circadian-metabolism",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "gastric-motility-behavior",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "oral-systemic-cardiology",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "appetite-regulation-strategy",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "mind-body-atrial-remodeling",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "micronutrient-toxicity-alert",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cgm-interpretation-guide",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "ocular-nutrition-optimization",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "electrolyte-safety-comparison",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "hypertension-diet-sodium",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "food-safety-immunology",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "inflammation-recovery",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "pulse-pressure-reduction-strategies",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "celiac-disease-aging-women",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "secondary-hypertension-fmd-women",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "differential-diagnosis-alert",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "ckd-diet-culture",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "circadian-eating-bp-dipping",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "medication-complication-interaction",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "hypoglycemia-rebound-mechanism",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "meal-induced-hypertension",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "home-bp-log-interpretation",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cardiac-diet-labeling-truth",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "liver-health-alcohol",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "non-pharmacologic-glucose-control",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "nocturnal-bp-dipping-optimization",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "neuropathy-self-assessment",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "fasting-circadian-rhythm",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "psychosocial-vascular-aging",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "environmental-hypertension-triggers",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "thermal-intervention-research",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "functional-food-blood-pressure",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "thermal-biofeedback-hypertension",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "acute-breathing-interventions",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diabetic-retinopathy-cooking-methods",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "polypharmacy-hypertension-risk",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "wearable-bp-accuracy-limitations",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "medical-device-safety",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cardiac-arrhythmia-nutrition",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "nutrient-signaling-pathways",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "glycemic-impact-holiday-foods",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "anticoagulation-nutrition-safety",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "plaque-stabilization-nutrition",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diagnostic-paradox",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "gastrointestinal-complications",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "measurement-error-red-flags",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cac-score-interpretation",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "renal-diet-sweeteners",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "otc-medications",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "muscle-preserving-nutrition",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "vascular-compliance-intervention",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "myth-busting-symptom-perception",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "sleep-apnea-metabolism",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "microbiome-hypertension-link",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "periodontal-kidney-link",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "functional-testing-prognosis",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "mind-body-intervention",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "herb-drug-interactions",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "exercise-intervention",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "neuropathy-food-prep-comparison",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diet-neuropathy",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "dental-oral-health",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "gastroesophageal-reflux-diet",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "swallowing-safety-and-toxicity",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "polypharmacy-timing",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "morning-hypertension-management",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "nerve-oxygenation",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "glucose-monitoring",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "thermal-physiology-safety",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "ocular-emergencies",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "testing-strategy-evolution",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "ophthalmic-biomarkers",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "neuro-cognitive-early-signs",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diet-nutrition-ckd",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cold-climate-monitoring",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "dermal-microvascular",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "exercise-insulin-dosing",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "endothelial-nitric-oxide",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "digestive-motility-natural-support",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "circulatory-support-sedentary",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "digestive-function-gastric-emptying",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "alcohol-blood-pressure-dynamics",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "sensory-cognitive-hypertension-link",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "caregiver-metabolism",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "monitoring-accessibility",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "muscle-glucose-uptake",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "fasting-risk-assessment",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "exercise-osteoarthritis",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cardiac-fluid-management",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "nocturnal-ischemia-triggers",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "extreme-weather-safety",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "inflammation-diet-rheumatology",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "gut-microbiome",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "medication-nutrition-timing",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "sensory-nutrition-aging",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "lipid-metabolism-aging",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "lipid-oxidation-nutrition",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "nutrient-absorption-gluten",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "swallowing-safety-culinary-adaptation",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "light-angina-physiology",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "stress-physiology-intervention",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "circadian-bp-coupling",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cardiac-mitochondria-aging-interventions",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "sensory-environment-autonomic",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "endothelial-repair-nonpharmacologic",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "psychosocial-calcification",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "circadian-rhythm-glucose-regulation",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "gastrointestinal-psychophysiology",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "psychosocial-eating-behavior",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "medication-adjustment-travel",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "electrolyte-balance-hydration",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "arrhythmia-monitoring-comparison",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cold-therapy-blood-pressure",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "supplement-safety-ckd",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diagnostic-algorithm-elderly",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "dual-diet-household-strategies",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "circadian-rhythm-blood-pressure",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "antiinflammatory-prevention",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cardiac-diet-endocrine-interaction",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "afib-travel-physiology",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "mitochondrial-nutrition-fatigue",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "gender-specific-cardiac-amyloidosis",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cognitive-health-meal-patterns",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "ophthalmic-biomarkers-cardiovascular-risk",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "medication-masking-signs",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "cooking-methods-anticoagulant-interactions",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "insulin-omission-myth-busting",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "ecg-limitations-elderly",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "dementia-mealtime-myths",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "behavioral-nutrition-environment",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "low-vision-nutrition-strategy",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "inflammation-microvascular-link",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "monitoring-myths",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "urinary-tract-nutrition",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "electrolyte-drinks-hfpef-safety",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "medication-food-safety-renal",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "autonomic-modulation",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diet-nutrition-beverage-science",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "diabetic-diet-ingredients",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "valvular-dental-safety",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "movement-neurochemistry-frail",
+      "article_count": 1,
+      "percentage": 0.045
+    },
+    {
+      "cluster": "acute-illness-bp-monitoring",
+      "article_count": 1,
+      "percentage": 0.045
+    }
+  ],
+  "count": 200,
+  "article_total": 200
+}

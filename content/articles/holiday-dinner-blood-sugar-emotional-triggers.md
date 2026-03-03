@@ -1,14 +1,28 @@
 ---
-title: "Why Your Blood Sugar Spikes Higher After a Holiday Dinner at Your Daughter’s House — The Role of Emotional Eating Triggers and Cortisol-Enhanced Gluconeogenesis in Adults 64+"
-slug: "why-your-blood-sugar-spikes-higher-after-a-holiday-dinner-at-your-daughter-s-house-the-role-of-emotional-eating-triggers-and-cortisol-enhanced-gluconeogenesis-in-adults-64"
-description: "Examines intergenerational stress dynamics, ambient kitchen cues, and neuroendocrine amplification of glucose production during emotionally charged family meals."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["holiday dinner blood sugar emotional triggers", "healthy holiday eating for seniors", "psychoneuroendocrine-nutrition"]
-primaryKeyword: "holiday dinner blood sugar emotional triggers"
-topicCluster: "psychoneuroendocrine-nutrition"
-image: ""
-relatedSlugs: ["how-holiday-stress-hormones-sabotage-blood-sugar-control-during-family-dinners-cortisol-induced-insulin-resistance-patterns-in-adults-58-65-with-prediabetes", "how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes", "7-hidden-holiday-stress-triggers-that-spike-postprandial-glucose-in-adults-58-65-with-early-insulin-resistance", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope"]
+title: >-
+  Why Your Blood Sugar Spikes Higher After a Holiday Dinner at Your Daughter’s
+  House — The Role of Emotional Eating Triggers and Cortisol-Enhanced
+  Gluconeogenesis in Adults 64+
+slug: >-
+  why-your-blood-sugar-spikes-higher-after-a-holiday-dinner-at-your-daughter-s-house-the-role-of-emotional-eating-triggers-and-cortisol-enhanced-gluconeogenesis-in-adults-64
+description: >-
+  Examines intergenerational stress dynamics, ambient kitchen cues, and
+  neuroendocrine amplification of glucose production during emotionally charged
+  family meals.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: holiday dinner blood sugar emotional triggers
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-stress-hormones-sabotage-blood-sugar-control-during-family-dinners-cortisol-induced-insulin-resistance-patterns-in-adults-58-65-with-prediabetes
+  - >-
+    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
+  - >-
+    7-hidden-holiday-stress-triggers-that-spike-postprandial-glucose-in-adults-58-65-with-early-insulin-resistance
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
 ---
 
 # Why Holiday Dinner Blood Sugar Emotional Triggers Hit Harder After 64 — And What You Can Gently Do About It

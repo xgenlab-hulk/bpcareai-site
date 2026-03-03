@@ -1,14 +1,29 @@
 ---
-title: "Does Daily 4-Minute Cold-Water Face Immersion *Really* Lower 24-Hour Mean Arterial Pressure in Adults 61+ With Early Autonomic Dysfunction?"
-slug: "does-daily-4-minute-cold-water-face-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-61-with-early-autonomic-dysfunction"
-description: "Synthesizes ambulatory BP data from 8-week RCTs showing vagal tone restoration effects — with safety thresholds for atrial fibrillation history and carotid sinus sensitivity."
-date: "2026-02-11"
-updated: "2026-02-11"
-tags: ["cold-face-immersion-mean-arterial-pressure", "blood pressure", "vagal-toning-intervention-efficacy"]
-primaryKeyword: "cold-face-immersion-mean-arterial-pressure"
-topicCluster: "vagal-toning-intervention-efficacy"
-image: ""
-relatedSlugs: ["can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity", "can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index", "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension", "does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv", "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns"]
+title: >-
+  Does Daily 4-Minute Cold-Water Face Immersion *Really* Lower 24-Hour Mean
+  Arterial Pressure in Adults 61+ With Early Autonomic Dysfunction?
+slug: >-
+  does-daily-4-minute-cold-water-face-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-61-with-early-autonomic-dysfunction
+description: >-
+  Synthesizes ambulatory BP data from 8-week RCTs showing vagal tone restoration
+  effects — with safety thresholds for atrial fibrillation history and carotid
+  sinus sensitivity.
+date: '2026-02-11'
+updated: '2026-02-11'
+primaryKeyword: cold-face-immersion-mean-arterial-pressure
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
+  - >-
+    can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+  - >-
+    does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
 ---
 
 # Can Daily 4-Minute Cold-Face Immersion Gently Support Mean Arterial Pressure in Adults 61+ With Early Autonomic Changes?

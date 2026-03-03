@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Low-Dose Aspirin Use Alters Nighttime Blood Pressure Dipping Patterns in Adults 72+ With Atrial Fibrillation and Mild CKD"
-slug: "how-chronic-low-dose-aspirin-use-alters-nighttime-blood-pressure-dipping-patterns-in-adults-72-with-atrial-fibrillation-and-mild-ckd"
-description: "Analyzes aspirin’s impact on nocturnal BP dipping via prostaglandin E2 modulation and renal sodium handling, using data from the SPRINT-Substudy Cohort and real-world ABPM trends in older adults on rate-controlled AFib."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["aspirin nighttime blood pressure dipping", "blood pressure", "medication-physiology-renal-interaction"]
-primaryKeyword: "aspirin nighttime blood pressure dipping"
-topicCluster: "medication-physiology-renal-interaction"
-image: ""
-relatedSlugs: ["how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication", "what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring", "how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr", "a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern", "why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh"]
+title: >-
+  How Chronic Low-Dose Aspirin Use Alters Nighttime Blood Pressure Dipping
+  Patterns in Adults 72+ With Atrial Fibrillation and Mild CKD
+slug: >-
+  how-chronic-low-dose-aspirin-use-alters-nighttime-blood-pressure-dipping-patterns-in-adults-72-with-atrial-fibrillation-and-mild-ckd
+description: >-
+  Analyzes aspirin’s impact on nocturnal BP dipping via prostaglandin E2
+  modulation and renal sodium handling, using data from the SPRINT-Substudy
+  Cohort and real-world ABPM trends in older adults on rate-controlled AFib.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: aspirin nighttime blood pressure dipping
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication
+  - >-
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
+  - >-
+    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
+  - >-
+    a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
+  - >-
+    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
 ---
 
 # How Low-Dose Aspirin May Influence Aspirin Nighttime Blood Pressure Dipping in Older Adults With Atrial Fibrillation and Mild Kidney Disease

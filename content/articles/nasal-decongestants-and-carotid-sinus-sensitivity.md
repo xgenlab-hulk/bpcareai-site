@@ -1,14 +1,29 @@
 ---
-title: "How Long-Term Use of Over-the-Counter Nasal Decongestants Alters Carotid Sinus Sensitivity in Adults 64+ With Early Autonomic Neuropathy and Mild Orthostasis"
-slug: "how-long-term-use-of-over-the-counter-nasal-decongestants-alters-carotid-sinus-sensitivity-in-adults-64-with-early-autonomic-neuropathy-and-mild-orthostasis"
-description: "Explains α-adrenergic overstimulation’s effect on baroreceptor desensitization, linking chronic OTC decongestant use to delayed BP recovery and increased fall risk."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["nasal decongestants and carotid sinus sensitivity", "blood pressure", "medications-supplements"]
-primaryKeyword: "nasal decongestants and carotid sinus sensitivity"
-topicCluster: "medications-supplements"
-image: ""
-relatedSlugs: ["7-hidden-risks-of-over-the-counter-nasal-decongestants-for-adults-62-with-atrial-fibrillation-and-controlled-hypertension", "7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension", "how-intermittent-use-of-magnetic-mattress-pads-alters-baroreflex-gain-in-adults-63-with-mild-orthostatic-intolerance-and-early-autonomic-neuropathy", "what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension", "how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings"]
+title: >-
+  How Long-Term Use of Over-the-Counter Nasal Decongestants Alters Carotid Sinus
+  Sensitivity in Adults 64+ With Early Autonomic Neuropathy and Mild Orthostasis
+slug: >-
+  how-long-term-use-of-over-the-counter-nasal-decongestants-alters-carotid-sinus-sensitivity-in-adults-64-with-early-autonomic-neuropathy-and-mild-orthostasis
+description: >-
+  Explains α-adrenergic overstimulation’s effect on baroreceptor
+  desensitization, linking chronic OTC decongestant use to delayed BP recovery
+  and increased fall risk.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: nasal decongestants and carotid sinus sensitivity
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-risks-of-over-the-counter-nasal-decongestants-for-adults-62-with-atrial-fibrillation-and-controlled-hypertension
+  - >-
+    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
+  - >-
+    how-intermittent-use-of-magnetic-mattress-pads-alters-baroreflex-gain-in-adults-63-with-mild-orthostatic-intolerance-and-early-autonomic-neuropathy
+  - >-
+    what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
+  - >-
+    how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings
 ---
 
 # How Nasal Decongestants and Carotid Sinus Sensitivity Interact in Older Adults With Early Autonomic Changes

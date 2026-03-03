@@ -10,12 +10,8 @@ description: >-
   impairment—and how whole-food swaps restore flow-mediated dilation.
 date: '2025-12-26'
 updated: '2025-12-26'
-tags:
-  - ultra-processed foods endothelial function prediabetes
-  - healthy eating during family gatherings
-  - cardiovascular-physiology-research
 primaryKeyword: ultra-processed foods endothelial function prediabetes
-topicCluster: cardiovascular-physiology-research
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

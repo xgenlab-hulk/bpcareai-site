@@ -1,14 +1,29 @@
 ---
-title: "12 Foods That Stabilize Postprandial Cholinergic Tone — Not Just 'Digestive Aids' — Including Slow-Roasted Fennel, Lacto-Fermented Beets, and Toasted Caraway Seeds for Adults 60–74"
-slug: "12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74"
-description: "Highlights foods that directly modulate vagal efferent signaling to the gut and heart — reducing tachycardia, nausea, and reflux after meals — validated via heart rate variability (HRV) and gastric motility mapping."
-date: "2026-02-28"
-updated: "2026-02-28"
-tags: ["cholinergic-stabilizing foods seniors", "healthy eating during family gatherings", "neurogastrointestinal-nutrition"]
-primaryKeyword: "cholinergic-stabilizing foods seniors"
-topicCluster: "neurogastrointestinal-nutrition"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia", "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance", "10-foods-that-lower-post-exercise-heart-rate-recovery-time-for-adults-59-73-with-hypertension-and-sluggish-hrv", "cholinergic-tone-family-dinner-natural", "natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69"]
+title: >-
+  12 Foods That Stabilize Postprandial Cholinergic Tone — Not Just 'Digestive
+  Aids' — Including Slow-Roasted Fennel, Lacto-Fermented Beets, and Toasted
+  Caraway Seeds for Adults 60–74
+slug: >-
+  12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74
+description: >-
+  Highlights foods that directly modulate vagal efferent signaling to the gut
+  and heart — reducing tachycardia, nausea, and reflux after meals — validated
+  via heart rate variability (HRV) and gastric motility mapping.
+date: '2026-02-28'
+updated: '2026-02-28'
+primaryKeyword: cholinergic-stabilizing foods seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
+  - >-
+    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+  - >-
+    10-foods-that-lower-post-exercise-heart-rate-recovery-time-for-adults-59-73-with-hypertension-and-sluggish-hrv
+  - cholinergic-tone-family-dinner-natural
+  - >-
+    natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69
 ---
 
 # Cholinergic-Stabilizing Foods for Seniors: Gentle, Evidence-Based Support for Digestion and Heart Rhythm After Meals

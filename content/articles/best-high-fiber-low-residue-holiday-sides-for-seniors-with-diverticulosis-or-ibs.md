@@ -1,14 +1,26 @@
 ---
-title: "Best High-Fiber, Low-Residue Holiday Sides for Seniors With Diverticulosis or IBS"
-slug: "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs"
-description: "Evidence-based recipe adaptations (e.g., peeled roasted carrots, refined grain stuffing) that balance fiber needs with digestive tolerance during high-fat, high-fiber holiday meals."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["high-fiber low-residue holiday sides", "healthy holiday eating for seniors", "gastrointestinal-diet-modifications"]
-primaryKeyword: "high-fiber low-residue holiday sides"
-topicCluster: "gastrointestinal-diet-modifications"
-image: ""
-relatedSlugs: ["10-high-fiber-holiday-foods-that-support-digestion-after-50", "best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods", "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat", "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar", "top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table"]
+title: >-
+  Best High-Fiber, Low-Residue Holiday Sides for Seniors With Diverticulosis or
+  IBS
+slug: >-
+  best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+description: >-
+  Evidence-based recipe adaptations (e.g., peeled roasted carrots, refined grain
+  stuffing) that balance fiber needs with digestive tolerance during high-fat,
+  high-fiber holiday meals.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: high-fiber low-residue holiday sides
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
+  - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
+  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+  - >-
+    top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
 ---
 
 # Gentle, Gut-Friendly Holiday Sides: High-Fiber Low-Residue Holiday Sides for Comfort and Confidence

@@ -10,12 +10,8 @@ description: >-
   urgent electrophysiology referral.
 date: '2026-01-17'
 updated: '2026-01-17'
-tags:
-  - resting heart rate high-grade av block seniors
-  - heart health
-  - warning-signs-conduction-system-disease
 primaryKeyword: resting heart rate high-grade av block seniors
-topicCluster: warning-signs-conduction-system-disease
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-

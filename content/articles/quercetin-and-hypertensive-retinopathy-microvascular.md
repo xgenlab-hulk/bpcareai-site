@@ -1,14 +1,29 @@
 ---
-title: "Does Daily 200 mg Quercetin Supplementation *Really* Improve Microvascular Reactivity in Adults 59–66 With Hypertensive Retinopathy? — A 12-Week RCT Analysis"
-slug: "does-daily-200-mg-quercetin-supplementation-really-improve-microvascular-reactivity-in-adults-59-66-with-hypertensive-retinopathy-a-12-week-rct-analysis"
-description: "Presents original clinical trial data on flavonoid dosing, retinal arteriolar response, and central augmentation index changes in early end-organ damage."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["quercetin and hypertensive retinopathy microvascular", "blood pressure", "flavonoid-microvascular-rct"]
-primaryKeyword: "quercetin and hypertensive retinopathy microvascular"
-topicCluster: "flavonoid-microvascular-rct"
-image: ""
-relatedSlugs: ["science-backed-ways-to-reverse-early-diabetic-retinopathy-without-laser-or-anti-vegf-using-targeted-flavonoid-bioavailability-and-retinal-capillary-pericyte-protection-in-adults-58-67", "does-daily-tart-cherry-juice-really-reduce-endothelial-microparticle-release-in-adults-70-with-stage-1-hypertension-and-mild-hyperuricemia", "warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71", "does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome", "what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80"]
+title: >-
+  Does Daily 200 mg Quercetin Supplementation *Really* Improve Microvascular
+  Reactivity in Adults 59–66 With Hypertensive Retinopathy? — A 12-Week RCT
+  Analysis
+slug: >-
+  does-daily-200-mg-quercetin-supplementation-really-improve-microvascular-reactivity-in-adults-59-66-with-hypertensive-retinopathy-a-12-week-rct-analysis
+description: >-
+  Presents original clinical trial data on flavonoid dosing, retinal arteriolar
+  response, and central augmentation index changes in early end-organ damage.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: quercetin and hypertensive retinopathy microvascular
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    science-backed-ways-to-reverse-early-diabetic-retinopathy-without-laser-or-anti-vegf-using-targeted-flavonoid-bioavailability-and-retinal-capillary-pericyte-protection-in-adults-58-67
+  - >-
+    does-daily-tart-cherry-juice-really-reduce-endothelial-microparticle-release-in-adults-70-with-stage-1-hypertension-and-mild-hyperuricemia
+  - >-
+    warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
+  - >-
+    does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
 ---
 
 # Can Quercetin Support Microvascular Health in Adults with Hypertensive Retinopathy? Insights from a New 12-Week Trial

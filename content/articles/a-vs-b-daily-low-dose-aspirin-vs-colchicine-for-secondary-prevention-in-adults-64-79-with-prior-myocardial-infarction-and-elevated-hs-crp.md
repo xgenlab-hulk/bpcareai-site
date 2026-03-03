@@ -10,12 +10,8 @@ description: >-
   in a high-inflammation MI subgroup.
 date: '2026-01-07'
 updated: '2026-01-07'
-tags:
-  - aspirin vs colchicine secondary prevention
-  - heart disease
-  - antiinflammatory-prevention
 primaryKeyword: aspirin vs colchicine secondary prevention
-topicCluster: antiinflammatory-prevention
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

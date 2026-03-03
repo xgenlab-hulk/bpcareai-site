@@ -10,12 +10,8 @@ description: >-
   glucose mitigation strategies.
 date: '2026-01-01'
 updated: '2026-01-01'
-tags:
-  - metformin holiday pie lactic acidosis
-  - healthy holiday eating for seniors
-  - medication-safety-ckd
 primaryKeyword: metformin holiday pie lactic acidosis
-topicCluster: medication-safety-ckd
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-

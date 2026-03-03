@@ -1,14 +1,26 @@
 ---
-title: "When to Worry About Holiday Weight Gain If You’re 75+ With Heart Failure and Preserved Ejection Fraction"
-slug: "when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction"
-description: "Explains why even 3–4 lbs gained over December can trigger subtle decompensation—like increased nocturnal urination, new supine dyspnea, or unexplained falls—and when to call your clinician."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["holiday weight gain heart failure preserved ejection fraction", "healthy holiday eating for seniors", "when-to-worry-cardiac-risk"]
-primaryKeyword: "holiday weight gain heart failure preserved ejection fraction"
-topicCluster: "when-to-worry-cardiac-risk"
-image: ""
-relatedSlugs: ["does-holiday-weight-gain-in-adults-with-obesity-class-ii-predict-90-day-atrial-fibrillation-recurrence-a-2024-retrospective-analysis", "myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81", "when-to-worry-about-weight-gain-after-a-family-gathering", "why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease", "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart"]
+title: >-
+  When to Worry About Holiday Weight Gain If You’re 75+ With Heart Failure and
+  Preserved Ejection Fraction
+slug: >-
+  when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
+description: >-
+  Explains why even 3–4 lbs gained over December can trigger subtle
+  decompensation—like increased nocturnal urination, new supine dyspnea, or
+  unexplained falls—and when to call your clinician.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: holiday weight gain heart failure preserved ejection fraction
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    does-holiday-weight-gain-in-adults-with-obesity-class-ii-predict-90-day-atrial-fibrillation-recurrence-a-2024-retrospective-analysis
+  - >-
+    myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
+  - when-to-worry-about-weight-gain-after-a-family-gathering
+  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
 ---
 
 # When Holiday Weight Gain Heart Failure Preserved Ejection Fraction Becomes a Concern—And What to Do About It

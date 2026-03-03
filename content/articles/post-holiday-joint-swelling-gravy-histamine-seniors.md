@@ -1,14 +1,30 @@
 ---
-title: "What Causes Sudden Post-Holiday Joint Swelling *Only* After Eating Your Daughter’s Homemade Gravy? — The Role of Histamine-Rich Fermented Ingredients, Mast Cell Priming, and Age-Related DAO Decline"
-slug: "what-causes-sudden-post-holiday-joint-swelling-only-after-eating-your-daughter-s-homemade-gravy-the-role-of-histamine-rich-fermented-ingredients-mast-cell-priming-and-age-related-dao-decline"
-description: "Connects food-derived histamine, enzymatic deficiency, and immune sensitization to acute arthritic flares triggered by traditional holiday condiments—and offers low-histamine preparation alternatives."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["post-holiday joint swelling gravy histamine seniors", "healthy holiday eating for seniors", "inflammatory-diet-arthritis"]
-primaryKeyword: "post-holiday joint swelling gravy histamine seniors"
-topicCluster: "inflammatory-diet-arthritis"
-image: ""
-relatedSlugs: ["natural-ways-to-counteract-holiday-induced-histamine-load-in-seniors-with-chronic-urticaria-and-dao-deficiency", "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis", "natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation", "7-common-mistakes-that-worsen-post-holiday-joint-stiffness-in-adults-67-with-radiographic-osteoarthritis-even-without-weight-gain", "what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit"]
+title: >-
+  What Causes Sudden Post-Holiday Joint Swelling *Only* After Eating Your
+  Daughter’s Homemade Gravy? — The Role of Histamine-Rich Fermented Ingredients,
+  Mast Cell Priming, and Age-Related DAO Decline
+slug: >-
+  what-causes-sudden-post-holiday-joint-swelling-only-after-eating-your-daughter-s-homemade-gravy-the-role-of-histamine-rich-fermented-ingredients-mast-cell-priming-and-age-related-dao-decline
+description: >-
+  Connects food-derived histamine, enzymatic deficiency, and immune
+  sensitization to acute arthritic flares triggered by traditional holiday
+  condiments—and offers low-histamine preparation alternatives.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: post-holiday joint swelling gravy histamine seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-counteract-holiday-induced-histamine-load-in-seniors-with-chronic-urticaria-and-dao-deficiency
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
+  - >-
+    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
+  - >-
+    7-common-mistakes-that-worsen-post-holiday-joint-stiffness-in-adults-67-with-radiographic-osteoarthritis-even-without-weight-gain
+  - >-
+    what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit
 ---
 
 # Why You Might Get Sudden Joint Swelling After Holiday Gravy — And What Seniors Can Do About It

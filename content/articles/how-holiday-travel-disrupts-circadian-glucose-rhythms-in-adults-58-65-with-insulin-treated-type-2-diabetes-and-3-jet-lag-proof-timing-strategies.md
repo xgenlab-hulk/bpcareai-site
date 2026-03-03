@@ -1,14 +1,28 @@
 ---
-title: "How Holiday Travel Disrupts Circadian Glucose Rhythms in Adults 58–65 With Insulin-Treated Type 2 Diabetes — And 3 Jet-Lag-Proof Timing Strategies"
-slug: "how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies"
-description: "Explores the science behind circadian misalignment during holiday flights and road trips, and delivers evidence-based timing rules for insulin dosing, meal scheduling, and light exposure to prevent dangerous glucose volatility."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["holiday travel circadian glucose rhythms insulin", "holiday diabetes management", "circadian-timing-strategies"]
-primaryKeyword: "holiday travel circadian glucose rhythms insulin"
-topicCluster: "circadian-timing-strategies"
-image: ""
-relatedSlugs: ["how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes", "how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia", "the-connection-between-holiday-light-exposure-and-blood-sugar-regulation", "simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome"]
+title: >-
+  How Holiday Travel Disrupts Circadian Glucose Rhythms in Adults 58–65 With
+  Insulin-Treated Type 2 Diabetes — And 3 Jet-Lag-Proof Timing Strategies
+slug: >-
+  how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
+description: >-
+  Explores the science behind circadian misalignment during holiday flights and
+  road trips, and delivers evidence-based timing rules for insulin dosing, meal
+  scheduling, and light exposure to prevent dangerous glucose volatility.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: holiday travel circadian glucose rhythms insulin
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
+  - >-
+    how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
+  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
 ---
 
 # Protecting Your Glucose Rhythms During Holiday Travel: Smart Timing Strategies for Adults 58–65 on Insulin

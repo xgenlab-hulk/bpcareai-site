@@ -1,14 +1,31 @@
 ---
-title: "When to Worry About Sudden Fatigue After Holiday Meals — Distinguishing Normal Fullness From Early Cardiac Diastolic Dysfunction in Women 65+ With Obesity and Sleep Apnea"
-slug: "when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea"
-description: "Helps readers differentiate benign postprandial lethargy from red-flag symptoms (e.g., orthopnea onset, exertional dyspnea post-dinner, nocturnal awakenings) linked to diastolic impairment — with validated screening cues for home use."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["sudden fatigue after holiday meals cardiac diastolic dysfunction", "healthy eating during family gatherings", "symptom-discrimination"]
-primaryKeyword: "sudden fatigue after holiday meals cardiac diastolic dysfunction"
-topicCluster: "symptom-discrimination"
-image: ""
-relatedSlugs: ["when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea", "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else", "when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension", "what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals", "when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction"]
+title: >-
+  When to Worry About Sudden Fatigue After Holiday Meals — Distinguishing Normal
+  Fullness From Early Cardiac Diastolic Dysfunction in Women 65+ With Obesity
+  and Sleep Apnea
+slug: >-
+  when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea
+description: >-
+  Helps readers differentiate benign postprandial lethargy from red-flag
+  symptoms (e.g., orthopnea onset, exertional dyspnea post-dinner, nocturnal
+  awakenings) linked to diastolic impairment — with validated screening cues for
+  home use.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: sudden fatigue after holiday meals cardiac diastolic dysfunction
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
+  - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
+  - >-
+    what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
+  - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
 ---
 
 # When Sudden Fatigue After Holiday Meals Might Signal Early Diastolic Dysfunction — A Gentle Guide for Women 65+ with Obesity and Sleep Apnea

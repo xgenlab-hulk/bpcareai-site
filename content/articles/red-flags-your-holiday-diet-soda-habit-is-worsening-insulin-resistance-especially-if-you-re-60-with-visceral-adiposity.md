@@ -1,14 +1,26 @@
 ---
-title: "Red Flags Your Holiday ‘Diet Soda’ Habit Is Worsening Insulin Resistance — Especially If You’re 60+ With Visceral Adiposity"
-slug: "red-flags-your-holiday-diet-soda-habit-is-worsening-insulin-resistance-especially-if-you-re-60-with-visceral-adiposity"
-description: "Connects artificial sweetener exposure to altered gut microbiota, incretin hormone dysregulation, and cephalic phase insulin release — with metabolic consequences amplified by age-related adipose dysfunction."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["diet soda insulin resistance visceral adiposity", "holiday diabetes management", "beverage-metabolism"]
-primaryKeyword: "diet soda insulin resistance visceral adiposity"
-topicCluster: "beverage-metabolism"
-image: ""
-relatedSlugs: ["the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors", "warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks", "how-sleep-apnea-impacts-type-2-diabetes-control-after-50", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76"]
+title: >-
+  Red Flags Your Holiday ‘Diet Soda’ Habit Is Worsening Insulin Resistance —
+  Especially If You’re 60+ With Visceral Adiposity
+slug: >-
+  red-flags-your-holiday-diet-soda-habit-is-worsening-insulin-resistance-especially-if-you-re-60-with-visceral-adiposity
+description: >-
+  Connects artificial sweetener exposure to altered gut microbiota, incretin
+  hormone dysregulation, and cephalic phase insulin release — with metabolic
+  consequences amplified by age-related adipose dysfunction.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: diet soda insulin resistance visceral adiposity
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
+  - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
+  - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # Is Your Holiday Diet Soda Habit Fueling Insulin Resistance—Especially With Visceral Adiposity After Age 60?

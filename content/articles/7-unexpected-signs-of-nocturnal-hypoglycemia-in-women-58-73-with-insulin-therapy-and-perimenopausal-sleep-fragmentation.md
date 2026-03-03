@@ -1,14 +1,29 @@
 ---
-title: "7 Unexpected Signs of Nocturnal Hypoglycemia in Women 58–73 With Insulin Therapy and Perimenopausal Sleep Fragmentation"
-slug: "7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation"
-description: "Identifies under-recognized nighttime symptoms—including morning migraines, unexplained nocturia, and REM-sleep behavior changes—linked to undetected overnight glucose dips in perimenopausal women on insulin."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["nocturnal hypoglycemia signs perimenopausal women", "diabetes", "symptoms-silent-signs"]
-primaryKeyword: "nocturnal hypoglycemia signs perimenopausal women"
-topicCluster: "symptoms-silent-signs"
-image: ""
-relatedSlugs: ["warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68", "7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis", "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks", "when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction", "what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine"]
+title: >-
+  7 Unexpected Signs of Nocturnal Hypoglycemia in Women 58–73 With Insulin
+  Therapy and Perimenopausal Sleep Fragmentation
+slug: >-
+  7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation
+description: >-
+  Identifies under-recognized nighttime symptoms—including morning migraines,
+  unexplained nocturia, and REM-sleep behavior changes—linked to undetected
+  overnight glucose dips in perimenopausal women on insulin.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: nocturnal hypoglycemia signs perimenopausal women
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
+  - >-
+    7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+  - >-
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
 ---
 
 # What Your Sleep Might Be Telling You: Recognizing Nocturnal Hypoglycemia Signs Perimenopausal Women Often Miss

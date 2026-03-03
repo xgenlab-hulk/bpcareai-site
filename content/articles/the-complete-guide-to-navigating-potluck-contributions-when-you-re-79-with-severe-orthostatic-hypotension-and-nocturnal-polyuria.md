@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Navigating Potluck Contributions When You’re 79+ With Severe Orthostatic Hypotension and Nocturnal Polyuria"
-slug: "the-complete-guide-to-navigating-potluck-contributions-when-you-re-79-with-severe-orthostatic-hypotension-and-nocturnal-polyuria"
-description: "Covers safe transport temps, low-sodium/low-caffeine dish selection, timing of contribution drop-off to avoid BP crashes, and discreet hydration integration into shared dishes."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["potluck contributions orthostatic hypotension", "healthy eating during family gatherings", "orthostatic-potluck-strategy"]
-primaryKeyword: "potluck contributions orthostatic hypotension"
-topicCluster: "orthostatic-potluck-strategy"
-image: ""
-relatedSlugs: ["the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70", "what-are-the-safest-holiday-dessert-swaps-for-adults-80-with-severe-orthostatic-hypotension-and-nocturnal-polyuria", "can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability", "the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72", "5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74"]
+title: >-
+  The Complete Guide to Navigating Potluck Contributions When You’re 79+ With
+  Severe Orthostatic Hypotension and Nocturnal Polyuria
+slug: >-
+  the-complete-guide-to-navigating-potluck-contributions-when-you-re-79-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
+description: >-
+  Covers safe transport temps, low-sodium/low-caffeine dish selection, timing of
+  contribution drop-off to avoid BP crashes, and discreet hydration integration
+  into shared dishes.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: potluck contributions orthostatic hypotension
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
+  - >-
+    what-are-the-safest-holiday-dessert-swaps-for-adults-80-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
+  - >-
+    can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
+  - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
+  - >-
+    5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
 ---
 
 # Smart, Safe Potluck Contributions for Older Adults With Orthostatic Hypotension and Nocturnal Polyuria

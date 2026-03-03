@@ -1,14 +1,27 @@
 ---
-title: "10 Medication Interactions That Raise BP Without Warning—From OTC Decongestants to Topical Testosterone in Men Over 68"
-slug: "10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68"
-description: "Catalogs underrecognized pharmacodynamic and pharmacokinetic interactions (e.g., pseudoephedrine + amitriptyline, testosterone + finasteride), with dose-adjustment guidance."
-date: "2026-01-04"
-updated: "2026-01-04"
-tags: ["medication interactions raise blood pressure", "blood pressure", "pharmacologic-risks"]
-primaryKeyword: "medication interactions raise blood pressure"
-topicCluster: "pharmacologic-risks"
-image: ""
-relatedSlugs: ["does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use", "could-your-medications-be-raising-your-blood-pressure", "7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens", "the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications", "is-your-medication-causing-high-blood-pressure"]
+title: >-
+  10 Medication Interactions That Raise BP Without Warning—From OTC
+  Decongestants to Topical Testosterone in Men Over 68
+slug: >-
+  10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
+description: >-
+  Catalogs underrecognized pharmacodynamic and pharmacokinetic interactions
+  (e.g., pseudoephedrine + amitriptyline, testosterone + finasteride), with
+  dose-adjustment guidance.
+date: '2026-01-04'
+updated: '2026-01-04'
+primaryKeyword: medication interactions raise blood pressure
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - could-your-medications-be-raising-your-blood-pressure
+  - >-
+    7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens
+  - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+  - is-your-medication-causing-high-blood-pressure
 ---
 
 # 10 Surprising Medication Interactions That Raise Blood Pressure—Especially in Adults Over 68

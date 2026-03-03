@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Stabilize Postprandial Glucose Variability in Adults 64+ With Gastroparesis and Type 2 Diabetes"
-slug: "10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes"
-description: "Curates low-FODMAP, low-viscosity, fiber-modulated foods clinically shown to reduce glucose lability in delayed gastric emptying — with texture-modification tips and meal sequencing rules."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["foods stabilize glucose gastroparesis elderly", "diabetes", "gastrointestinal-comorbidity-diet"]
-primaryKeyword: "foods stabilize glucose gastroparesis elderly"
-topicCluster: "gastrointestinal-comorbidity-diet"
-image: ""
-relatedSlugs: ["can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide", "12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65", "10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia", "12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation", "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis"]
+title: >-
+  10 Foods That Stabilize Postprandial Glucose Variability in Adults 64+ With
+  Gastroparesis and Type 2 Diabetes
+slug: >-
+  10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
+description: >-
+  Curates low-FODMAP, low-viscosity, fiber-modulated foods clinically shown to
+  reduce glucose lability in delayed gastric emptying — with
+  texture-modification tips and meal sequencing rules.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: foods stabilize glucose gastroparesis elderly
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
+  - >-
+    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
+  - >-
+    10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
 ---
 
 # 10 Evidence-Based Foods That Help Stabilize Glucose in Older Adults With Gastroparesis and Type 2 Diabetes

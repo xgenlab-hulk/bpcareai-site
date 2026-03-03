@@ -1,14 +1,29 @@
 ---
-title: "Natural Ways to Support Renal Sodium Excretion via TRPV4 Channel Activation — For Adults 59–73 With Salt-Sensitive Hypertension and Low Urinary Citrate"
-slug: "natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate"
-description: "Details dietary (citrus peel polyphenols, cold-pressed olive oil phenolics), thermal (contrast foot soaks), and mechanical (diaphragmatic breathing rhythm) strategies to enhance tubular sodium clearance."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["renal sodium excretion TRPV4 activation adults 59-73", "blood pressure", "natural-remedies"]
-primaryKeyword: "renal sodium excretion TRPV4 activation adults 59-73"
-topicCluster: "natural-remedies"
-image: ""
-relatedSlugs: ["how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction", "myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension", "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension", "natural-remedies-for-high-blood-pressure-in-adults-with-chronic-kidney-disease-stage-3-focusing-on-uremic-toxin-clearance-klotho-enhancement-and-gut-microbiome-derived-tmao-modulation", "12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing"]
+title: >-
+  Natural Ways to Support Renal Sodium Excretion via TRPV4 Channel Activation —
+  For Adults 59–73 With Salt-Sensitive Hypertension and Low Urinary Citrate
+slug: >-
+  natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate
+description: >-
+  Details dietary (citrus peel polyphenols, cold-pressed olive oil phenolics),
+  thermal (contrast foot soaks), and mechanical (diaphragmatic breathing rhythm)
+  strategies to enhance tubular sodium clearance.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: renal sodium excretion TRPV4 activation adults 59-73
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
+  - >-
+    myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
+  - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+  - >-
+    natural-remedies-for-high-blood-pressure-in-adults-with-chronic-kidney-disease-stage-3-focusing-on-uremic-toxin-clearance-klotho-enhancement-and-gut-microbiome-derived-tmao-modulation
+  - >-
+    12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing
 ---
 
 # Supporting Renal Sodium Excretion TRPV4 Activation in Adults 59–73: Gentle, Evidence-Informed Strategies for Salt-Sensitive Blood Pressure

@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About Asymptomatic Diastolic Dysfunction on Echo — Especially If You’re 67+ With Normal-LVEF Hypertension and Elevated NT-proBNP"
-slug: "when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp"
-description: "Explains the prognostic significance of E/e′ ratio, left atrial strain, and pulmonary venous flow patterns in identifying preclinical heart failure masked by preserved ejection fraction."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["asymptomatic diastolic dysfunction hypertension echo", "blood pressure", "echocardiography-risk"]
-primaryKeyword: "asymptomatic diastolic dysfunction hypertension echo"
-topicCluster: "echocardiography-risk"
-image: ""
-relatedSlugs: ["warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear", "warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction", "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction"]
+title: >-
+  When to Worry About Asymptomatic Diastolic Dysfunction on Echo — Especially If
+  You’re 67+ With Normal-LVEF Hypertension and Elevated NT-proBNP
+slug: >-
+  when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
+description: >-
+  Explains the prognostic significance of E/e′ ratio, left atrial strain, and
+  pulmonary venous flow patterns in identifying preclinical heart failure masked
+  by preserved ejection fraction.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: asymptomatic diastolic dysfunction hypertension echo
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
+  - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
 ---
 
 # When Asymptomatic Diastolic Dysfunction Hypertension Echo Findings Signal Early Heart Strain — Especially After 67

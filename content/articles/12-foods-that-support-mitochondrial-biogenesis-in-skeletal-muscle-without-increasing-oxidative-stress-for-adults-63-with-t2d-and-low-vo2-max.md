@@ -1,14 +1,29 @@
 ---
-title: "12 Foods That Support Mitochondrial Biogenesis in Skeletal Muscle *Without* Increasing Oxidative Stress — For Adults 63+ With T2D and Low VO2 Max"
-slug: "12-foods-that-support-mitochondrial-biogenesis-in-skeletal-muscle-without-increasing-oxidative-stress-for-adults-63-with-t2d-and-low-vo2-max"
-description: "Evidence-based list prioritizing bioavailable polyphenols, urolithin-A precursors, and mitochondrial co-factors—curated for aging muscle with reduced antioxidant reserve and insulin-resistant myocytes."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["foods mitochondrial biogenesis t2d muscle", "diabetes", "mitochondrial-nutrition"]
-primaryKeyword: "foods mitochondrial biogenesis t2d muscle"
-topicCluster: "mitochondrial-nutrition"
-image: ""
-relatedSlugs: ["10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes"]
+title: >-
+  12 Foods That Support Mitochondrial Biogenesis in Skeletal Muscle *Without*
+  Increasing Oxidative Stress — For Adults 63+ With T2D and Low VO2 Max
+slug: >-
+  12-foods-that-support-mitochondrial-biogenesis-in-skeletal-muscle-without-increasing-oxidative-stress-for-adults-63-with-t2d-and-low-vo2-max
+description: >-
+  Evidence-based list prioritizing bioavailable polyphenols, urolithin-A
+  precursors, and mitochondrial co-factors—curated for aging muscle with reduced
+  antioxidant reserve and insulin-resistant myocytes.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: foods mitochondrial biogenesis t2d muscle
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes
 ---
 
 # 12 Evidence-Based Foods That Support Mitochondrial Biogenesis in Skeletal Muscle for Adults 63+ With Type 2 Diabetes

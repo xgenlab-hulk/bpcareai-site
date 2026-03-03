@@ -1,14 +1,29 @@
 ---
-title: "Does Adding 1 Gram of Ground Flaxseed to Breakfast Lower Central Systolic Pressure in Adults 56–69 With Hypertension and Elevated LDL-P?"
-slug: "does-adding-1-gram-of-ground-flaxseed-to-breakfast-lower-central-systolic-pressure-in-adults-56-69-with-hypertension-and-elevated-ldl-p"
-description: "Evaluates flax lignan (secoisolariciresinol) effects on arterial stiffness, LDL particle oxidation, and endothelial-derived hyperpolarizing factor in a 6-week crossover RCT."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["flaxseed central systolic pressure ldl-p", "blood pressure", "functional-food-intervention"]
-primaryKeyword: "flaxseed central systolic pressure ldl-p"
-topicCluster: "functional-food-intervention"
-image: ""
-relatedSlugs: ["does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome", "a-vs-b-cold-pressed-flaxseed-oil-refrigerated-30-days-old-vs-ground-flaxseed-pre-soaked-12-hours-impact-on-postprandial-triglyceride-spikes-in-adults-62-78-with-diabetic-dyslipidemia", "the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75", "the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction"]
+title: >-
+  Does Adding 1 Gram of Ground Flaxseed to Breakfast Lower Central Systolic
+  Pressure in Adults 56–69 With Hypertension and Elevated LDL-P?
+slug: >-
+  does-adding-1-gram-of-ground-flaxseed-to-breakfast-lower-central-systolic-pressure-in-adults-56-69-with-hypertension-and-elevated-ldl-p
+description: >-
+  Evaluates flax lignan (secoisolariciresinol) effects on arterial stiffness,
+  LDL particle oxidation, and endothelial-derived hyperpolarizing factor in a
+  6-week crossover RCT.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: flaxseed central systolic pressure ldl-p
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
+  - >-
+    a-vs-b-cold-pressed-flaxseed-oil-refrigerated-30-days-old-vs-ground-flaxseed-pre-soaked-12-hours-impact-on-postprandial-triglyceride-spikes-in-adults-62-78-with-diabetic-dyslipidemia
+  - >-
+    the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  - >-
+    the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
 ---
 
 # Can a Spoonful of Flaxseed Help Lower Central Systolic Pressure and LDL-P in Adults 56–69 with Hypertension?

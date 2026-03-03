@@ -10,12 +10,8 @@ description: >-
   normotensive adults 55–69 with strong family history.
 date: '2025-12-31'
 updated: '2025-12-31'
-tags:
-  - retinal changes before hypertension diagnosis
-  - blood pressure
-  - early-biomarkers-ophthalmic
 primaryKeyword: retinal changes before hypertension diagnosis
-topicCluster: early-biomarkers-ophthalmic
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

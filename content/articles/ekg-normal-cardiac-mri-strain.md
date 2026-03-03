@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: 'My Heart Is Fine Because My EKG Is Normal' — What Cardiac MRI Strain Mapping Reveals in Adults 56–68 With Recurrent Palpitations and No Structural Disease"
-slug: "myths-vs-facts-my-heart-is-fine-because-my-ekg-is-normal-what-cardiac-mri-strain-mapping-reveals-in-adults-56-68-with-recurrent-palpitations-and-no-structural-disease"
-description: "Debunks the EKG-only reassurance myth by showing how global longitudinal strain, twist mechanics, and extracellular volume mapping detect subtle contractile dysfunction missed by standard EKG and echo."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["ekg normal cardiac mri strain", "heart disease", "advanced-imaging-myths"]
-primaryKeyword: "ekg normal cardiac mri strain"
-topicCluster: "advanced-imaging-myths"
-image: ""
-relatedSlugs: ["myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65", "warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd", "the-complete-guide-to-interpreting-cardiac-mri-t1-mapping-and-ecv-in-adults-63-77-with-unexplained-dyspnea-and-normal-echocardiograms", "myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t", "warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction"]
+title: >-
+  Myths vs Facts: 'My Heart Is Fine Because My EKG Is Normal' — What Cardiac MRI
+  Strain Mapping Reveals in Adults 56–68 With Recurrent Palpitations and No
+  Structural Disease
+slug: >-
+  myths-vs-facts-my-heart-is-fine-because-my-ekg-is-normal-what-cardiac-mri-strain-mapping-reveals-in-adults-56-68-with-recurrent-palpitations-and-no-structural-disease
+description: >-
+  Debunks the EKG-only reassurance myth by showing how global longitudinal
+  strain, twist mechanics, and extracellular volume mapping detect subtle
+  contractile dysfunction missed by standard EKG and echo.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: ekg normal cardiac mri strain
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
+  - >-
+    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
+  - >-
+    the-complete-guide-to-interpreting-cardiac-mri-t1-mapping-and-ecv-in-adults-63-77-with-unexplained-dyspnea-and-normal-echocardiograms
+  - >-
+    myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
 ---
 
 # When Your EKG Is Normal But Your Heart Still Feels Off: What Cardiac MRI Strain Mapping Reveals in Adults 56–68 With Palpitations

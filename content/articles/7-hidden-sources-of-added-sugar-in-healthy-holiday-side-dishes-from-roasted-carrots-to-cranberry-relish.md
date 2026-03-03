@@ -1,14 +1,26 @@
 ---
-title: "7 Hidden Sources of Added Sugar in 'Healthy' Holiday Side Dishes—From Roasted Carrots to Cranberry Relish"
-slug: "7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish"
-description: "Identifies surprising sugar culprits in seemingly wholesome holiday staples, with glycemic load comparisons and low-sugar preparation alternatives for adults 60+."
-date: "2026-01-02"
-updated: "2026-01-02"
-tags: ["hidden sugar holiday side dishes", "managing blood sugar during christmas and new year", "diet-nutrition-label-reading"]
-primaryKeyword: "hidden sugar holiday side dishes"
-topicCluster: "diet-nutrition-label-reading"
-image: ""
-relatedSlugs: ["7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid", "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control", "7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose", "7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about", "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar"]
+title: >-
+  7 Hidden Sources of Added Sugar in 'Healthy' Holiday Side Dishes—From Roasted
+  Carrots to Cranberry Relish
+slug: >-
+  7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
+description: >-
+  Identifies surprising sugar culprits in seemingly wholesome holiday staples,
+  with glycemic load comparisons and low-sugar preparation alternatives for
+  adults 60+.
+date: '2026-01-02'
+updated: '2026-01-02'
+primaryKeyword: hidden sugar holiday side dishes
+topicCluster: natural-remedies
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
+  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
+  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
 ---
 
 # Hidden Sugar in Holiday Side Dishes: What 60+ Adults Should Know About “Healthy” Favorites

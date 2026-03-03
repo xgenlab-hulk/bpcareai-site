@@ -6,10 +6,6 @@ description: >-
   strain in seniors.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - air pollution effects on heart health elderly
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: air pollution effects on heart health elderly
 topicCluster: cardiovascular-health
 image: ''

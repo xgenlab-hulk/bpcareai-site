@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About Unexplained Fatigue After Age 68 — Distinguishing Early Heart Failure From Anemia, Thyroid Dysfunction, and Medication Side Effects"
-slug: "when-to-worry-about-unexplained-fatigue-after-age-68-distinguishing-early-heart-failure-from-anemia-thyroid-dysfunction-and-medication-side-effects"
-description: "Provides a clinical decision tree for differentiating cardiac fatigue from non-cardiac causes using symptom timing, orthostatic response, and NT-proBNP interpretation in older adults."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["unexplained fatigue heart failure over 68", "heart disease", "symptoms-differential-diagnosis"]
-primaryKeyword: "unexplained fatigue heart failure over 68"
-topicCluster: "symptoms-differential-diagnosis"
-image: ""
-relatedSlugs: ["when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68", "when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction", "7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction", "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily"]
+title: >-
+  When to Worry About Unexplained Fatigue After Age 68 — Distinguishing Early
+  Heart Failure From Anemia, Thyroid Dysfunction, and Medication Side Effects
+slug: >-
+  when-to-worry-about-unexplained-fatigue-after-age-68-distinguishing-early-heart-failure-from-anemia-thyroid-dysfunction-and-medication-side-effects
+description: >-
+  Provides a clinical decision tree for differentiating cardiac fatigue from
+  non-cardiac causes using symptom timing, orthostatic response, and NT-proBNP
+  interpretation in older adults.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: unexplained fatigue heart failure over 68
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
+  - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+  - >-
+    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
+  - >-
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
 ---
 
 # When Unexplained Fatigue After Age 68 Might Signal Heart Failure — And What Else Could Be Going On

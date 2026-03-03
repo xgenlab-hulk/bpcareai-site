@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Woman Over 65 With Osteoporosis Should Know Before Eating Holiday Roast Beef and Gravy"
-slug: "5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy"
-description: "Covers iron-mediated oxidative stress on bone collagen, sodium’s calcium-leaching effect, gravy’s hidden phosphorus, and how pairing with vitamin C-rich sides improves absorption — all grounded in bone turnover markers."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["holiday roast beef osteoporosis women seniors", "healthy holiday eating for seniors", "gender-specific-bone-nutrition"]
-primaryKeyword: "holiday roast beef osteoporosis women seniors"
-topicCluster: "gender-specific-bone-nutrition"
-image: ""
-relatedSlugs: ["7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60", "5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking", "a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc", "12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis", "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60"]
+title: >-
+  5 Things Every Woman Over 65 With Osteoporosis Should Know Before Eating
+  Holiday Roast Beef and Gravy
+slug: >-
+  5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy
+description: >-
+  Covers iron-mediated oxidative stress on bone collagen, sodium’s
+  calcium-leaching effect, gravy’s hidden phosphorus, and how pairing with
+  vitamin C-rich sides improves absorption — all grounded in bone turnover
+  markers.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: holiday roast beef osteoporosis women seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60
+  - >-
+    5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
+  - >-
+    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
+  - >-
+    12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 
 # What Women Over 65 with Osteoporosis Should Know About Holiday Roast Beef and Gravy — Healthy Holiday Eating for Seniors

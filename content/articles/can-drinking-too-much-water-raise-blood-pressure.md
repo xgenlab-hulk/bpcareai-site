@@ -6,10 +6,6 @@ description: >-
   pressure fluctuations in middle-aged and older adults.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - drinking too much water and blood pressure
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: drinking too much water and blood pressure
 topicCluster: hypertension-management
 image: ''

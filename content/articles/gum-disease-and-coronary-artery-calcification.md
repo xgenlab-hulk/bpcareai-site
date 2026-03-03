@@ -12,12 +12,8 @@ description: >-
   providers.
 date: '2025-12-28'
 updated: '2025-12-28'
-tags:
-  - gum disease and coronary artery calcification
-  - heart disease
-  - inflammation-oral-systemic-link
 primaryKeyword: gum disease and coronary artery calcification
-topicCluster: inflammation-oral-systemic-link
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-

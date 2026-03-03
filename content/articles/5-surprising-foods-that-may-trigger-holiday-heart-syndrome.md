@@ -6,12 +6,8 @@ description: >-
   that could provoke arrhythmias in susceptible individuals.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - festive foods heart rhythm
-  - holiday heart syndrome prevention
-  - diet-nutrition
 primaryKeyword: festive foods heart rhythm
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

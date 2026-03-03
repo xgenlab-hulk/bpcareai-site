@@ -1,14 +1,25 @@
 ---
-title: "7 Silent Signs Your Heart’s Struggling During Winter—Especially If You’re a Woman Over 62 With Early Osteoarthritis"
-slug: "7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis"
-description: "Explores cold-weather–induced cardiovascular strain masked as joint pain or fatigue, with emphasis on delayed symptom recognition and gender-specific physiological shifts in microvascular resistance."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["silent heart disease signs winter women over 60", "heart disease", "seasonal-symptom-masking"]
-primaryKeyword: "silent heart disease signs winter women over 60"
-topicCluster: "seasonal-symptom-masking"
-image: ""
-relatedSlugs: ["5-silent-signs-your-heart-is-struggling-in-cold-weather", "why-older-women-are-more-vulnerable-to-winter-heart-events", "what-are-the-first-signs-of-holiday-heart-syndrome-in-women", "why-arm-pain-shouldn-t-be-ignored-in-women-over-50", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily"]
+title: >-
+  7 Silent Signs Your Heart’s Struggling During Winter—Especially If You’re a
+  Woman Over 62 With Early Osteoarthritis
+slug: >-
+  7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+description: >-
+  Explores cold-weather–induced cardiovascular strain masked as joint pain or
+  fatigue, with emphasis on delayed symptom recognition and gender-specific
+  physiological shifts in microvascular resistance.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: silent heart disease signs winter women over 60
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - 5-silent-signs-your-heart-is-struggling-in-cold-weather
+  - why-older-women-are-more-vulnerable-to-winter-heart-events
+  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
+  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
 ---
 
 # Silent Heart Disease Signs in Winter: What Women Over 60 Need to Know—Especially With Osteoarthritis

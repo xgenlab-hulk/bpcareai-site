@@ -1,14 +1,29 @@
 ---
-title: "Natural Ways to Support Gastric Emptying After a Heavy Holiday Meal—Without Medication—for Adults 66–81 With Gastroparesis-Like Symptoms"
-slug: "natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms"
-description: "Evidence-based nonpharmacologic methods including positional sequencing, ginger-cumin infusion timing, and paced chewing protocols tested in older adults with delayed gastric motility."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["gastric emptying after holiday meal", "healthy eating during family gatherings", "digestive-motility-natural-support"]
-primaryKeyword: "gastric emptying after holiday meal"
-topicCluster: "digestive-motility-natural-support"
-image: ""
-relatedSlugs: ["natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide", "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75", "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits", "12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65"]
+title: >-
+  Natural Ways to Support Gastric Emptying After a Heavy Holiday Meal—Without
+  Medication—for Adults 66–81 With Gastroparesis-Like Symptoms
+slug: >-
+  natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+description: >-
+  Evidence-based nonpharmacologic methods including positional sequencing,
+  ginger-cumin infusion timing, and paced chewing protocols tested in older
+  adults with delayed gastric motility.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: gastric emptying after holiday meal
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
+  - >-
+    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
 ---
 
 # Gentle, Evidence-Based Ways to Support Gastric Emptying After Holiday Meal for Older Adults

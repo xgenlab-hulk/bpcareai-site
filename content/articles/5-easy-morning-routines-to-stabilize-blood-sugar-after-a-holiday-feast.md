@@ -6,12 +6,8 @@ description: >-
   glucose levels the day after overindulgence.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - morning routine after holiday feast
-  - managing blood sugar during Christmas and New Year
-  - lifestyle-modifications
 primaryKeyword: morning routine after holiday feast
-topicCluster: lifestyle-changes
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal

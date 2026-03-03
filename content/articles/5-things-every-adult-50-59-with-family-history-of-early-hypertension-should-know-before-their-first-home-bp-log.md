@@ -10,12 +10,8 @@ description: >-
   and when to consult a hypertension specialist.
 date: '2026-01-20'
 updated: '2026-01-20'
-tags:
-  - early hypertension family history prevention
-  - blood pressure
-  - genetic-risk-prevention
 primaryKeyword: early hypertension family history prevention
-topicCluster: genetic-risk-prevention
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

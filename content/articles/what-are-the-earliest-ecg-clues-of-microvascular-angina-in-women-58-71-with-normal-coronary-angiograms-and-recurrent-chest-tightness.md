@@ -1,14 +1,29 @@
 ---
-title: "What Are the Earliest ECG Clues of Microvascular Angina in Women 58–71 With Normal Coronary Angiograms and Recurrent Chest Tightness?"
-slug: "what-are-the-earliest-ecg-clues-of-microvascular-angina-in-women-58-71-with-normal-coronary-angiograms-and-recurrent-chest-tightness"
-description: "Details subtle but reproducible ECG patterns — including transient T-wave inversions during mental stress and abnormal QT hysteresis — that suggest ischemic microvascular dysfunction despite 'clean' cath labs."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["microvascular angina ekg signs women", "heart disease", "diagnostic-clues-women"]
-primaryKeyword: "microvascular angina ekg signs women"
-topicCluster: "diagnostic-clues-women"
-image: ""
-relatedSlugs: ["7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis", "5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction"]
+title: >-
+  What Are the Earliest ECG Clues of Microvascular Angina in Women 58–71 With
+  Normal Coronary Angiograms and Recurrent Chest Tightness?
+slug: >-
+  what-are-the-earliest-ecg-clues-of-microvascular-angina-in-women-58-71-with-normal-coronary-angiograms-and-recurrent-chest-tightness
+description: >-
+  Details subtle but reproducible ECG patterns — including transient T-wave
+  inversions during mental stress and abnormal QT hysteresis — that suggest
+  ischemic microvascular dysfunction despite 'clean' cath labs.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: microvascular angina ekg signs women
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+  - >-
+    5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction
 ---
 
 # What to Look For on Your ECG: Early microvascular angina ekg signs women 58–71 May Miss

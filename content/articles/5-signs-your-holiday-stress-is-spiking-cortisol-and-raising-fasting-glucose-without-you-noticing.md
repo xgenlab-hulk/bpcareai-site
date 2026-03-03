@@ -1,14 +1,26 @@
 ---
-title: "5 Signs Your Holiday Stress Is Spiking Cortisol—and Raising Fasting Glucose Without You Noticing"
-slug: "5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing"
-description: "Links non-obvious stress markers (e.g., restless legs at night, delayed wound healing, afternoon fatigue) to cortisol-driven insulin resistance in adults 60+."
-date: "2026-01-02"
-updated: "2026-01-02"
-tags: ["holiday stress fasting glucose signs", "managing blood sugar during christmas and new year", "lifestyle-stress-metabolic-link"]
-primaryKeyword: "holiday stress fasting glucose signs"
-topicCluster: "lifestyle-stress-metabolic-link"
-image: ""
-relatedSlugs: ["7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70", "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do"]
+title: >-
+  5 Signs Your Holiday Stress Is Spiking Cortisol—and Raising Fasting Glucose
+  Without You Noticing
+slug: >-
+  5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
+description: >-
+  Links non-obvious stress markers (e.g., restless legs at night, delayed wound
+  healing, afternoon fatigue) to cortisol-driven insulin resistance in adults
+  60+.
+date: '2026-01-02'
+updated: '2026-01-02'
+primaryKeyword: holiday stress fasting glucose signs
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 ---
 
 # 5 Subtle Signs Holiday Stress Is Raising Your Fasting Glucose—And What to Do About It

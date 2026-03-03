@@ -1,14 +1,28 @@
 ---
-title: "7 Hidden Electrolyte Shifts That Happen *During* Holiday Cooking — And How They Trigger Atrial Fibrillation in Adults 60+ With Mild Hypokalemia"
-slug: "7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia"
-description: "Details how prolonged standing, salt-heavy seasoning, and dehydration while preparing meals disrupt potassium/magnesium balance—leading to acute AFib episodes before dinner is served."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["holiday cooking electrolyte shifts atrial fibrillation", "holiday heart syndrome prevention", "cooking-physiology"]
-primaryKeyword: "holiday cooking electrolyte shifts atrial fibrillation"
-topicCluster: "cooking-physiology"
-image: ""
-relatedSlugs: ["quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension", "when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use", "5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults"]
+title: >-
+  7 Hidden Electrolyte Shifts That Happen *During* Holiday Cooking — And How
+  They Trigger Atrial Fibrillation in Adults 60+ With Mild Hypokalemia
+slug: >-
+  7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia
+description: >-
+  Details how prolonged standing, salt-heavy seasoning, and dehydration while
+  preparing meals disrupt potassium/magnesium balance—leading to acute AFib
+  episodes before dinner is served.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: holiday cooking electrolyte shifts atrial fibrillation
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
+  - >-
+    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
+  - >-
+    5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 
 # How Holiday Cooking Electrolyte Shifts Can Quietly Trigger Atrial Fibrillation in Adults 60+ — And What You Can Do About It

@@ -6,12 +6,8 @@ description: >-
   older patients.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - metformin safety for elderly with diabetes
-  - diabetes
-  - diabetes-treatment
 primaryKeyword: metformin safety for elderly with diabetes
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - managing-diabetes-while-traveling-tips-for-seniors

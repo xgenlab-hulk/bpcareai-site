@@ -1,14 +1,28 @@
 ---
-title: "Natural Ways to Support Gastric Acid Resilience During Multi-Course Holiday Meals — For Adults 67+ on Long-Term PPI Therapy and Low Pepsinogen I/II Ratios"
-slug: "natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios"
-description: "Offers non-pharmacologic, meal-integrated strategies (temperature, timing, synergistic foods) to mitigate reflux, nutrient malabsorption, and post-meal fatigue without discontinuing prescribed therapy."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["gastric acid resilience ppi therapy holiday meals", "healthy eating during family gatherings", "gastrointestinal-resilience"]
-primaryKeyword: "gastric acid resilience ppi therapy holiday meals"
-topicCluster: "gastrointestinal-resilience"
-image: ""
-relatedSlugs: ["natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms", "natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78", "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60", "can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd"]
+title: >-
+  Natural Ways to Support Gastric Acid Resilience During Multi-Course Holiday
+  Meals — For Adults 67+ on Long-Term PPI Therapy and Low Pepsinogen I/II Ratios
+slug: >-
+  natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
+description: >-
+  Offers non-pharmacologic, meal-integrated strategies (temperature, timing,
+  synergistic foods) to mitigate reflux, nutrient malabsorption, and post-meal
+  fatigue without discontinuing prescribed therapy.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: gastric acid resilience ppi therapy holiday meals
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+  - >-
+    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - >-
+    can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
 ---
 
 # Gentle Strategies for Gastric Acid Resilience During Holiday Meals — Especially for Adults 67+ on Long-Term PPI Therapy

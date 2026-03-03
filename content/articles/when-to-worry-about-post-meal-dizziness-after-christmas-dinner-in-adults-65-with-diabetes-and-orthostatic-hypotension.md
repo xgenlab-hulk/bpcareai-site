@@ -1,14 +1,28 @@
 ---
-title: "When to Worry About Post-Meal Dizziness After Christmas Dinner in Adults 65+ With Diabetes and Orthostatic Hypotension"
-slug: "when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension"
-description: "Distinguishes between benign postprandial hypotension and dangerous autonomic failure — with red-flag symptoms, home BP monitoring protocols, and when to adjust antihypertensives or GLP-1 agonists during seasonal routines."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["post-meal dizziness christmas diabetes orthostatic hypotension", "managing blood sugar during christmas and new year", "emergency-symptoms"]
-primaryKeyword: "post-meal dizziness christmas diabetes orthostatic hypotension"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes", "what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75", "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension"]
+title: >-
+  When to Worry About Post-Meal Dizziness After Christmas Dinner in Adults 65+
+  With Diabetes and Orthostatic Hypotension
+slug: >-
+  when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
+description: >-
+  Distinguishes between benign postprandial hypotension and dangerous autonomic
+  failure — with red-flag symptoms, home BP monitoring protocols, and when to
+  adjust antihypertensives or GLP-1 agonists during seasonal routines.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: post-meal dizziness christmas diabetes orthostatic hypotension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
+  - >-
+    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
 ---
 
 # When Post-Meal Dizziness After Christmas Dinner Signals Something More—Especially With Diabetes and Orthostatic Hypotension

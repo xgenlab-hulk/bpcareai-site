@@ -9,12 +9,8 @@ description: >-
   QTc change data in patients with drug-induced long QT syndrome.
 date: '2025-12-21'
 updated: '2025-12-21'
-tags:
-  - magnesium glycinate vs oxide amiodarone qt
-  - heart disease
-  - supplements-qtc-stability
 primaryKeyword: magnesium glycinate vs oxide amiodarone qt
-topicCluster: supplements-qtc-stability
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias

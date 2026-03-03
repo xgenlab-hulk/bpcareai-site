@@ -1,14 +1,29 @@
 ---
-title: "13 Science-Backed Ways to Reduce Holiday Sodium Load Without Losing Flavor — Focused on Umami Layering, Herb Infusion Timing, and Potassium-Rich Swaps"
-slug: "13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps"
-description: "Goes beyond ‘use less salt’ to evidence-based flavor engineering: synergistic umami pairings, volatile oil release windows, and potassium-dense garnishes that suppress salt craving neurologically."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["reduce sodium holiday seniors flavor", "healthy holiday eating for seniors", "sodium-reduction-science"]
-primaryKeyword: "reduce sodium holiday seniors flavor"
-topicCluster: "sodium-reduction-science"
-image: ""
-relatedSlugs: ["simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension", "best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60", "does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings", "the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72"]
+title: >-
+  13 Science-Backed Ways to Reduce Holiday Sodium Load Without Losing Flavor —
+  Focused on Umami Layering, Herb Infusion Timing, and Potassium-Rich Swaps
+slug: >-
+  13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps
+description: >-
+  Goes beyond ‘use less salt’ to evidence-based flavor engineering: synergistic
+  umami pairings, volatile oil release windows, and potassium-dense garnishes
+  that suppress salt craving neurologically.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: reduce sodium holiday seniors flavor
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+  - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
+  - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
+  - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 ---
 
 # 13 Science-Backed Ways to Reduce Sodium Holiday Seniors Flavor — Flavor-First Strategies for Healthier Celebrations

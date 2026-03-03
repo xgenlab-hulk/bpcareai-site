@@ -11,12 +11,8 @@ description: >-
   co-supplementation restores bioenergetic capacity.
 date: '2026-01-13'
 updated: '2026-01-13'
-tags:
-  - metformin mitochondrial DNA copy number
-  - diabetes
-  - medications-mitochondrial-effects
 primaryKeyword: metformin mitochondrial DNA copy number
-topicCluster: medications-mitochondrial-effects
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

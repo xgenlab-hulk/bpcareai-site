@@ -1,14 +1,24 @@
 ---
-title: "How Emotional Eating Patterns Shift During Multigenerational Gatherings—and Why That Matters for Adults With Long-Standing Type 2 Diabetes"
-slug: "how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes"
-description: "Analyzes intergenerational triggers (nostalgia, caregiving stress, identity reinforcement), cortisol-mediated glucose dysregulation, and real-world behavioral interventions."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["emotional eating multigenerational gatherings", "healthy eating during family gatherings", "psychosocial-eating-behavior"]
-primaryKeyword: "emotional eating multigenerational gatherings"
-topicCluster: "psychosocial-eating-behavior"
-image: ""
-relatedSlugs: ["why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope", "why-emotional-eating-during-christmas-raises-blood-sugar-after-50", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes"]
+title: >-
+  How Emotional Eating Patterns Shift During Multigenerational Gatherings—and
+  Why That Matters for Adults With Long-Standing Type 2 Diabetes
+slug: >-
+  how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
+description: >-
+  Analyzes intergenerational triggers (nostalgia, caregiving stress, identity
+  reinforcement), cortisol-mediated glucose dysregulation, and real-world
+  behavioral interventions.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: emotional eating multigenerational gatherings
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
+  - why-emotional-eating-during-christmas-raises-blood-sugar-after-50
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
 ---
 
 # Understanding Emotional Eating Multigenerational Gatherings—and What It Means for Adults With Long-Standing Type 2 Diabetes

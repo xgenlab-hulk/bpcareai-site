@@ -1,14 +1,30 @@
 ---
-title: "Why Heart Failure With Preserved Ejection Fraction (HFpEF) Often Masquerades as 'Just Aging' in Women 70+ — And How a 3-Minute Sitting-to-Standing Test Can Reveal It"
-slug: "why-heart-failure-with-preserved-ejection-fraction-hfpef-often-masquerades-as-just-aging-in-women-70-and-how-a-3-minute-sitting-to-standing-test-can-reveal-it"
-description: "Uncovers the diagnostic blind spot: how HFpEF mimics frailty, and how simple orthostatic tolerance metrics (HR recovery, O2 desaturation, symptom lag) outperform echo in early detection."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["hfpref misdiagnosed as aging women", "heart disease", "hfpef-detection-women"]
-primaryKeyword: "hfpref misdiagnosed as aging women"
-topicCluster: "hfpef-detection-women"
-image: ""
-relatedSlugs: ["7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction", "why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction", "a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79", "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity"]
+title: >-
+  Why Heart Failure With Preserved Ejection Fraction (HFpEF) Often Masquerades
+  as 'Just Aging' in Women 70+ — And How a 3-Minute Sitting-to-Standing Test Can
+  Reveal It
+slug: >-
+  why-heart-failure-with-preserved-ejection-fraction-hfpef-often-masquerades-as-just-aging-in-women-70-and-how-a-3-minute-sitting-to-standing-test-can-reveal-it
+description: >-
+  Uncovers the diagnostic blind spot: how HFpEF mimics frailty, and how simple
+  orthostatic tolerance metrics (HR recovery, O2 desaturation, symptom lag)
+  outperform echo in early detection.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: hfpref misdiagnosed as aging women
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
+  - >-
+    why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction
+  - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
+  - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
 ---
 
 # Why HFpEF in Women 70+ Is So Often Misdiagnosed as Aging — And What a Simple Sitting-to-Standing Test Can Reveal

@@ -1,14 +1,28 @@
 ---
-title: "The Ultimate Guide to Pre-Loading Your Plate Before a Family Feast: A 3-Step Strategy for Adults With Metabolic Syndrome"
-slug: "the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome"
-description: "A tactical, timing-based framework—using fiber, protein, and healthy fat sequencing—to blunt glucose and triglyceride surges *before* entering the dining room, backed by postprandial metabolism studies."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["pre-load plate metabolic syndrome family feast", "healthy eating during family gatherings", "metabolic-syndrome-prevention"]
-primaryKeyword: "pre-load plate metabolic syndrome family feast"
-topicCluster: "metabolic-syndrome-prevention"
-image: ""
-relatedSlugs: ["how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55", "the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners", "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle", "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings", "12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years"]
+title: >-
+  The Ultimate Guide to Pre-Loading Your Plate Before a Family Feast: A 3-Step
+  Strategy for Adults With Metabolic Syndrome
+slug: >-
+  the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
+description: >-
+  A tactical, timing-based framework—using fiber, protein, and healthy fat
+  sequencing—to blunt glucose and triglyceride surges *before* entering the
+  dining room, backed by postprandial metabolism studies.
+date: '2025-12-26'
+updated: '2025-12-26'
+primaryKeyword: pre-load plate metabolic syndrome family feast
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # A Smart Pre-Load Plate Strategy for Adults With Metabolic Syndrome Facing a Family Feast

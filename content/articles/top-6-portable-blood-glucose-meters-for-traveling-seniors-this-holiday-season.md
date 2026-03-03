@@ -6,12 +6,8 @@ description: >-
   diabetes on the go during winter holidays.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - best glucose meters for seniors travel
-  - holiday diabetes management
-  - diabetes-tools-technology
 primaryKeyword: best glucose meters for seniors travel
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - managing-diabetes-while-traveling-tips-for-seniors

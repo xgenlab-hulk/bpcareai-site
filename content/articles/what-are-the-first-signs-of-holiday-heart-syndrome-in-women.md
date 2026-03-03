@@ -6,12 +6,8 @@ description: >-
   that may indicate arrhythmia in women over 50.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - holiday heart syndrome symptoms women
-  - holiday heart syndrome prevention
-  - warning-signs
 primaryKeyword: holiday heart syndrome symptoms women
-topicCluster: symptoms-emergencies
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed

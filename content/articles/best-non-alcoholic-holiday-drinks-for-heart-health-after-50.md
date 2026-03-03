@@ -6,10 +6,6 @@ description: >-
   cardiovascular stability during festive gatherings.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - non-alcoholic drinks heart health
-  - holiday heart syndrome prevention
-  - cardiac-diet
 primaryKeyword: non-alcoholic drinks heart health
 topicCluster: cardiovascular-health
 image: ''

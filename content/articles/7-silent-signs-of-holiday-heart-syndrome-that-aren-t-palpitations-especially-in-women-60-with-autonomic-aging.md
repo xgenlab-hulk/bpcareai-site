@@ -1,14 +1,29 @@
 ---
-title: "7 Silent Signs of Holiday Heart Syndrome That Aren’t Palpitations — Especially in Women 60+ With Autonomic Aging"
-slug: "7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging"
-description: "Highlights non-classical early indicators (e.g., unexplained fatigue after dessert, post-dinner dyspnea on exertion, nocturnal confusion) tied to vagal withdrawal and nocturnal BP lability in aging women — validated in the 2023 Women’s Heart Health Registry."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["silent signs holiday heart syndrome women", "holiday heart syndrome prevention", "symptom-recognition-women"]
-primaryKeyword: "silent signs holiday heart syndrome women"
-topicCluster: "symptom-recognition-women"
-image: ""
-relatedSlugs: ["what-are-the-first-signs-of-holiday-heart-syndrome-in-women", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis", "7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55", "when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction"]
+title: >-
+  7 Silent Signs of Holiday Heart Syndrome That Aren’t Palpitations — Especially
+  in Women 60+ With Autonomic Aging
+slug: >-
+  7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
+description: >-
+  Highlights non-classical early indicators (e.g., unexplained fatigue after
+  dessert, post-dinner dyspnea on exertion, nocturnal confusion) tied to vagal
+  withdrawal and nocturnal BP lability in aging women — validated in the 2023
+  Women’s Heart Health Registry.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: silent signs holiday heart syndrome women
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+  - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
 ---
 
 # 7 Quiet Early Clues of Holiday Heart Syndrome in Women 60+ — Beyond Palpitations

@@ -1,14 +1,30 @@
 ---
-title: "Best Walking Surfaces for Adults 69+ With Diabetic Foot Ulcers in Remission — Concrete, Asphalt, Gravel, or Grass? Evidence-Based Impact on Plantar Pressure Redistribution"
-slug: "best-walking-surfaces-for-adults-69-with-diabetic-foot-ulcers-in-remission-concrete-asphalt-gravel-or-grass-evidence-based-impact-on-plantar-pressure-redistribution"
-description: "Compares biomechanical load distribution across common outdoor surfaces using in-shoe pressure mapping data—prioritizing ulcer recurrence prevention in ambulatory seniors with healed neuropathic wounds."
-date: "2026-02-16"
-updated: "2026-02-16"
-tags: ["best walking surfaces diabetic foot ulcers", "diabetes", "foot-biomechanics-rehabilitation"]
-primaryKeyword: "best walking surfaces diabetic foot ulcers"
-topicCluster: "foot-biomechanics-rehabilitation"
-image: ""
-relatedSlugs: ["best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception", "best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers", "myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity", "best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60", "best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65"]
+title: >-
+  Best Walking Surfaces for Adults 69+ With Diabetic Foot Ulcers in Remission —
+  Concrete, Asphalt, Gravel, or Grass? Evidence-Based Impact on Plantar Pressure
+  Redistribution
+slug: >-
+  best-walking-surfaces-for-adults-69-with-diabetic-foot-ulcers-in-remission-concrete-asphalt-gravel-or-grass-evidence-based-impact-on-plantar-pressure-redistribution
+description: >-
+  Compares biomechanical load distribution across common outdoor surfaces using
+  in-shoe pressure mapping data—prioritizing ulcer recurrence prevention in
+  ambulatory seniors with healed neuropathic wounds.
+date: '2026-02-16'
+updated: '2026-02-16'
+primaryKeyword: best walking surfaces diabetic foot ulcers
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception
+  - >-
+    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
+  - >-
+    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
+  - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
+  - >-
+    best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
 ---
 
 # Best Walking Surfaces for Diabetic Foot Ulcers: Evidence-Based Guidance for Adults 69+ in Remission

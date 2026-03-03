@@ -11,12 +11,8 @@ description: >-
   insulin resistance.
 date: '2026-02-13'
 updated: '2026-02-13'
-tags:
-  - scented candles insulin sensitivity
-  - holiday diabetes management
-  - environmental-endocrine-disruption
 primaryKeyword: scented candles insulin sensitivity
-topicCluster: environmental-endocrine-disruption
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

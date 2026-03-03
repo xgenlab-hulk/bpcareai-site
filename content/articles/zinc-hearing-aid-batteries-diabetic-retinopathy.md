@@ -11,12 +11,8 @@ description: >-
   impaired older adults on long-term insulin.
 date: '2026-02-07'
 updated: '2026-02-07'
-tags:
-  - zinc hearing aid batteries diabetic retinopathy
-  - diabetes
-  - environmental-toxin-microvascular-risk
 primaryKeyword: zinc hearing aid batteries diabetic retinopathy
-topicCluster: environmental-toxin-microvascular-risk
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

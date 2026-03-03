@@ -1,14 +1,26 @@
 ---
-title: "The Connection Between Holiday Alcohol Consumption and Nocturnal Atrial Fibrillation Episodes in Women Over 60"
-slug: "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60"
-description: "Analyzes how ethanol-induced vagal tone shifts and nocturnal QT prolongation interact with age-related atrial fibrosis—plus real-world AF burden data from wearable ECG studies."
-date: "2025-12-23"
-updated: "2025-12-23"
-tags: ["alcohol atrial fibrillation seniors", "healthy holiday eating for seniors", "arrhythmia-trigger-analysis"]
-primaryKeyword: "alcohol atrial fibrillation seniors"
-topicCluster: "arrhythmia-trigger-analysis"
-image: ""
-relatedSlugs: ["can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults", "can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation", "what-research-says-about-holiday-heart-syndrome-and-aging-hearts", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults"]
+title: >-
+  The Connection Between Holiday Alcohol Consumption and Nocturnal Atrial
+  Fibrillation Episodes in Women Over 60
+slug: >-
+  the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
+description: >-
+  Analyzes how ethanol-induced vagal tone shifts and nocturnal QT prolongation
+  interact with age-related atrial fibrosis—plus real-world AF burden data from
+  wearable ECG studies.
+date: '2025-12-23'
+updated: '2025-12-23'
+primaryKeyword: alcohol atrial fibrillation seniors
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
+  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 
 # How Alcohol and Atrial Fibrillation Interact in Seniors — Especially During the Holidays

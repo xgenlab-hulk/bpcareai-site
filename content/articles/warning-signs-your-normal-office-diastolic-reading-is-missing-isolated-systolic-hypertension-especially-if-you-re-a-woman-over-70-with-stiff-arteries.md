@@ -1,14 +1,30 @@
 ---
-title: "Warning Signs Your 'Normal' Office Diastolic Reading Is Missing Isolated Systolic Hypertension — Especially If You’re a Woman Over 70 With Stiff Arteries"
-slug: "warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries"
-description: "Highlights clinical red flags (pulse pressure >65 mmHg, absent Korotkoff phase V, delayed radial pulse) indicating missed ISH in women with arterial calcification, and explains why home oscillometric devices may under-read."
-date: "2026-02-23"
-updated: "2026-02-23"
-tags: ["missed isolated systolic hypertension women", "blood pressure", "diagnostic-gaps"]
-primaryKeyword: "missed isolated systolic hypertension women"
-topicCluster: "diagnostic-gaps"
-image: ""
-relatedSlugs: ["myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65", "what-are-the-earliest-signs-of-arterial-stiffness-in-women-54-67-before-bp-readings-cross-130-80", "the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance", "5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75"]
+title: >-
+  Warning Signs Your 'Normal' Office Diastolic Reading Is Missing Isolated
+  Systolic Hypertension — Especially If You’re a Woman Over 70 With Stiff
+  Arteries
+slug: >-
+  warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries
+description: >-
+  Highlights clinical red flags (pulse pressure >65 mmHg, absent Korotkoff phase
+  V, delayed radial pulse) indicating missed ISH in women with arterial
+  calcification, and explains why home oscillometric devices may under-read.
+date: '2026-02-23'
+updated: '2026-02-23'
+primaryKeyword: missed isolated systolic hypertension women
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+  - >-
+    what-are-the-earliest-signs-of-arterial-stiffness-in-women-54-67-before-bp-readings-cross-130-80
+  - >-
+    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
+  - >-
+    5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
 ---
 
 # Is Your “Normal” Blood Pressure Hiding Missed Isolated Systolic Hypertension in Women Over 70?

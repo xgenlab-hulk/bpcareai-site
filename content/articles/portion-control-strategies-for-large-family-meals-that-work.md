@@ -6,12 +6,8 @@ description: >-
   older adults avoid overeating at shared dinners.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - portion control at family meals
-  - healthy eating during family gatherings
-  - eating-habits
 primaryKeyword: portion control at family meals
-topicCluster: lifestyle-changes
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60

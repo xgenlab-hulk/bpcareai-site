@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'No-Sugar-Added' Protein Bars for Men 69+ With Diabetic Gastroparesis and Early Autonomic Neuropathy"
-slug: "the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy"
-description: "Debunks misleading labeling by analyzing polyol content (maltitol, erythritol), osmotic load effects on gastric motilin, and delayed gastric emptying triggers — plus 3 safer alternatives with real-food protein sources."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["no-sugar-added protein bars gastroparesis", "diabetes", "food-labeling-gastrointestinal-safety"]
-primaryKeyword: "no-sugar-added protein bars gastroparesis"
-topicCluster: "food-labeling-gastrointestinal-safety"
-image: ""
-relatedSlugs: ["the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75", "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70", "the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes", "the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue"]
+title: >-
+  The Truth About 'No-Sugar-Added' Protein Bars for Men 69+ With Diabetic
+  Gastroparesis and Early Autonomic Neuropathy
+slug: >-
+  the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy
+description: >-
+  Debunks misleading labeling by analyzing polyol content (maltitol,
+  erythritol), osmotic load effects on gastric motilin, and delayed gastric
+  emptying triggers — plus 3 safer alternatives with real-food protein sources.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: no-sugar-added protein bars gastroparesis
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
 ---
 
 # What You Should Know About “No-Sugar-Added” Protein Bars If You Have Gastroparesis and Diabetes

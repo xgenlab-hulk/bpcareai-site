@@ -1,14 +1,26 @@
 ---
-title: "Best Low-Sodium, High-Flavor Herbs and Spices for Holiday Cooking—Clinically Vetted for Adults With Heart Failure and Hyponatremia Risk"
-slug: "best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk"
-description: "A curated list of sodium-free seasonings (with preparation tips and contraindications) that enhance palatability *without* triggering thirst, fluid retention, or interfering with vasopressin regulation."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["low-sodium herbs heart failure hyponatremia", "healthy eating during family gatherings", "heart-failure-flavor-science"]
-primaryKeyword: "low-sodium herbs heart failure hyponatremia"
-topicCluster: "heart-failure-flavor-science"
-image: ""
-relatedSlugs: ["simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure", "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension", "low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"]
+title: >-
+  Best Low-Sodium, High-Flavor Herbs and Spices for Holiday Cooking—Clinically
+  Vetted for Adults With Heart Failure and Hyponatremia Risk
+slug: >-
+  best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
+description: >-
+  A curated list of sodium-free seasonings (with preparation tips and
+  contraindications) that enhance palatability *without* triggering thirst,
+  fluid retention, or interfering with vasopressin regulation.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: low-sodium herbs heart failure hyponatremia
+topicCluster: prevention-risk-assessment
+image: ''
+relatedSlugs:
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
+  - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+  - low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Best Low-Sodium Herbs and Spices for Heart Health During the Holidays—Clinically Supported for Adults With Heart Failure and Hyponatremia Risk  

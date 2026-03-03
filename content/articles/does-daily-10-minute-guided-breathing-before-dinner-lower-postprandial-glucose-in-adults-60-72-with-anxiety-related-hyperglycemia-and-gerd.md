@@ -1,14 +1,29 @@
 ---
-title: "Does Daily 10-Minute Guided Breathing Before Dinner Lower Postprandial Glucose in Adults 60–72 With Anxiety-Related Hyperglycemia and GERD?"
-slug: "does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd"
-description: "Reviews pilot RCT data on vagal tone modulation, cortisol suppression, and gastric motility effects — plus a step-by-step pre-meal protocol adapted for hearing-impaired seniors."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["guided breathing before dinner glucose seniors", "healthy holiday eating for seniors", "science-backed-stress-glucose"]
-primaryKeyword: "guided breathing before dinner glucose seniors"
-topicCluster: "science-backed-stress-glucose"
-image: ""
-relatedSlugs: ["quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76", "can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes", "can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history", "does-daily-10-minute-guided-vagal-breathing-lower-central-systolic-pressure-in-adults-60-73-with-elevated-aortic-augmentation-index-and-high-job-stress", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy"]
+title: >-
+  Does Daily 10-Minute Guided Breathing Before Dinner Lower Postprandial Glucose
+  in Adults 60–72 With Anxiety-Related Hyperglycemia and GERD?
+slug: >-
+  does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
+description: >-
+  Reviews pilot RCT data on vagal tone modulation, cortisol suppression, and
+  gastric motility effects — plus a step-by-step pre-meal protocol adapted for
+  hearing-impaired seniors.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: guided breathing before dinner glucose seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+  - >-
+    can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes
+  - >-
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
+  - >-
+    does-daily-10-minute-guided-vagal-breathing-lower-central-systolic-pressure-in-adults-60-73-with-elevated-aortic-augmentation-index-and-high-job-stress
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
 ---
 
 # Can Guided Breathing Before Dinner Help Glucose Control in Seniors with Anxiety and GERD?

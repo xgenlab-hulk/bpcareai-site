@@ -1,14 +1,30 @@
 ---
-title: "When to Worry About Post-Dinner 'Brain Fog' — Distinguishing Carbohydrate-Induced Neuroglycopenia From Early Cerebral Microvascular Dysregulation in Adults 65+ With Long-Standing Diabetes"
-slug: "when-to-worry-about-post-dinner-brain-fog-distinguishing-carbohydrate-induced-neuroglycopenia-from-early-cerebral-microvascular-dysregulation-in-adults-65-with-long-standing-diabetes"
-description: "Guides readers in differentiating transient low-brain-glucose symptoms from subtle cerebrovascular changes triggered by high-glycemic holiday meals using timing, posture, and cognitive testing cues."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["post-dinner brain fog diabetes 65+", "holiday diabetes management", "neurocognitive-symptoms"]
-primaryKeyword: "post-dinner brain fog diabetes 65+"
-topicCluster: "neurocognitive-symptoms"
-image: ""
-relatedSlugs: ["when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment", "when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67", "when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea", "what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes", "7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits"]
+title: >-
+  When to Worry About Post-Dinner 'Brain Fog' — Distinguishing
+  Carbohydrate-Induced Neuroglycopenia From Early Cerebral Microvascular
+  Dysregulation in Adults 65+ With Long-Standing Diabetes
+slug: >-
+  when-to-worry-about-post-dinner-brain-fog-distinguishing-carbohydrate-induced-neuroglycopenia-from-early-cerebral-microvascular-dysregulation-in-adults-65-with-long-standing-diabetes
+description: >-
+  Guides readers in differentiating transient low-brain-glucose symptoms from
+  subtle cerebrovascular changes triggered by high-glycemic holiday meals using
+  timing, posture, and cognitive testing cues.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: post-dinner brain fog diabetes 65+
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67
+  - >-
+    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
+  - >-
+    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
+  - >-
+    7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
 ---
 
 # When Post-Dinner Brain Fog in Diabetes 65+ Isn’t Just “Too Much Pie” — What Your Timing, Posture, and Thinking Patterns Might Be Telling You

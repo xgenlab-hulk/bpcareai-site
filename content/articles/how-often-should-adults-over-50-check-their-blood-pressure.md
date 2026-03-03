@@ -6,10 +6,6 @@ description: >-
   and overall health status.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - how often to check blood pressure after 50
-  - blood pressure
-  - blood-pressure-basics
 primaryKeyword: how often to check blood pressure after 50
 topicCluster: hypertension-management
 image: ''

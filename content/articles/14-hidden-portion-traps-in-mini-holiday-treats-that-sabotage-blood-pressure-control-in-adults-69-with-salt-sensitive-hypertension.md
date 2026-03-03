@@ -1,14 +1,27 @@
 ---
-title: "14 Hidden Portion Traps in ‘Mini’ Holiday Treats That Sabotage Blood Pressure Control in Adults 69+ With Salt-Sensitive Hypertension"
-slug: "14-hidden-portion-traps-in-mini-holiday-treats-that-sabotage-blood-pressure-control-in-adults-69-with-salt-sensitive-hypertension"
-description: "Debunks the myth of ‘portion control’ in bite-sized candies, mini muffins, and sampler platters—revealing actual sodium load per ‘single serving’ and how cumulative intake exceeds daily limits."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["mini holiday treats salt-sensitive hypertension", "healthy holiday eating for seniors", "portion-distortion-sodium"]
-primaryKeyword: "mini holiday treats salt-sensitive hypertension"
-topicCluster: "portion-distortion-sodium"
-image: ""
-relatedSlugs: ["the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now", "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62", "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension"]
+title: >-
+  14 Hidden Portion Traps in ‘Mini’ Holiday Treats That Sabotage Blood Pressure
+  Control in Adults 69+ With Salt-Sensitive Hypertension
+slug: >-
+  14-hidden-portion-traps-in-mini-holiday-treats-that-sabotage-blood-pressure-control-in-adults-69-with-salt-sensitive-hypertension
+description: >-
+  Debunks the myth of ‘portion control’ in bite-sized candies, mini muffins, and
+  sampler platters—revealing actual sodium load per ‘single serving’ and how
+  cumulative intake exceeds daily limits.
+date: '2026-01-16'
+updated: '2026-01-16'
+primaryKeyword: mini holiday treats salt-sensitive hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
 ---
 
 # Hidden Sodium Pitfalls in Mini Holiday Treats: What Adults 69+ with Salt-Sensitive Hypertension Need to Know

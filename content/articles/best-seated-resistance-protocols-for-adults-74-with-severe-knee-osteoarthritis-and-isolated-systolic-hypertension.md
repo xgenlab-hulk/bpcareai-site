@@ -1,14 +1,29 @@
 ---
-title: "Best Seated Resistance Protocols for Adults 74+ With Severe Knee Osteoarthritis and Isolated Systolic Hypertension"
-slug: "best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension"
-description: "Presents evidence-based isometric and eccentric-only regimens using resistance bands and bodyweight — with real-time BP monitoring to avoid pressor response overshoot."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["seated resistance training isolated systolic", "blood pressure", "low-impact-exercise-hypertension"]
-primaryKeyword: "seated resistance training isolated systolic"
-topicCluster: "low-impact-exercise-hypertension"
-image: ""
-relatedSlugs: ["best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension", "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats", "best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension", "a-vs-b-home-based-isometric-handgrip-training-vs-supervised-interval-cycling-impact-on-central-aortic-pressure-in-men-64-76-with-isolated-systolic-hypertension", "can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension"]
+title: >-
+  Best Seated Resistance Protocols for Adults 74+ With Severe Knee
+  Osteoarthritis and Isolated Systolic Hypertension
+slug: >-
+  best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
+description: >-
+  Presents evidence-based isometric and eccentric-only regimens using resistance
+  bands and bodyweight — with real-time BP monitoring to avoid pressor response
+  overshoot.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: seated resistance training isolated systolic
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - >-
+    best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
+  - >-
+    a-vs-b-home-based-isometric-handgrip-training-vs-supervised-interval-cycling-impact-on-central-aortic-pressure-in-men-64-76-with-isolated-systolic-hypertension
+  - >-
+    can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension
 ---
 
 # Gentle Seated Resistance Training for Older Adults with Isolated Systolic Hypertension and Knee Osteoarthritis

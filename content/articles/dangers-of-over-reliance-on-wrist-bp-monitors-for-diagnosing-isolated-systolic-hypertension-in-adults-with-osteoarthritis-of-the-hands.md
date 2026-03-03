@@ -1,14 +1,29 @@
 ---
-title: "Dangers of Over-Reliance on Wrist BP Monitors for Diagnosing Isolated Systolic Hypertension in Adults With Osteoarthritis of the Hands"
-slug: "dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands"
-description: "Details measurement error sources (arterial calcification, radial pulse dampening, positioning artifacts) and offers validation protocols for home use."
-date: "2026-01-04"
-updated: "2026-01-04"
-tags: ["wrist blood pressure monitor accuracy osteoarthritis", "blood pressure", "bp-device-accuracy"]
-primaryKeyword: "wrist blood pressure monitor accuracy osteoarthritis"
-topicCluster: "bp-device-accuracy"
-image: ""
-relatedSlugs: ["the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors", "warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation", "a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better", "the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you", "does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension"]
+title: >-
+  Dangers of Over-Reliance on Wrist BP Monitors for Diagnosing Isolated Systolic
+  Hypertension in Adults With Osteoarthritis of the Hands
+slug: >-
+  dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+description: >-
+  Details measurement error sources (arterial calcification, radial pulse
+  dampening, positioning artifacts) and offers validation protocols for home
+  use.
+date: '2026-01-04'
+updated: '2026-01-04'
+primaryKeyword: wrist blood pressure monitor accuracy osteoarthritis
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
+  - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
+  - >-
+    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
+  - >-
+    does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension
 ---
 
 # Understanding Wrist Blood Pressure Monitor Accuracy in Adults With Osteoarthritis

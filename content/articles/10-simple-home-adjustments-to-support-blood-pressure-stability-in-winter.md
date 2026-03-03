@@ -6,12 +6,8 @@ description: >-
   control—that promote cardiovascular health indoors.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - home environment and blood pressure
-  - senior blood pressure control in winter
-  - lifestyle-modifications
 primaryKeyword: home environment and blood pressure
-topicCluster: lifestyle-changes
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter

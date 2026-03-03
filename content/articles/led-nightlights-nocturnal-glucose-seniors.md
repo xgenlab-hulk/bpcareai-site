@@ -1,14 +1,30 @@
 ---
-title: "How Chronic Exposure to LED Nightlights in Hallways Disrupts Retinal Melanopsin Signaling — And Elevates Nocturnal Glucose in Adults 70+ With Nocturia and Poor Sleep Efficiency"
-slug: "how-chronic-exposure-to-led-nightlights-in-hallways-disrupts-retinal-melanopsin-signaling-and-elevates-nocturnal-glucose-in-adults-70-with-nocturia-and-poor-sleep-efficiency"
-description: "Examines melanopsin-driven suppression of nocturnal melatonin, subsequent loss of insulin pulsatility, and real-world light-spectrum mitigation strategies for bedroom-adjacent spaces."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["led nightlights nocturnal glucose seniors", "diabetes", "light-exposure-glucose-regulation"]
-primaryKeyword: "led nightlights nocturnal glucose seniors"
-topicCluster: "light-exposure-glucose-regulation"
-image: ""
-relatedSlugs: ["how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes", "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation", "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it", "how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment", "how-nighttime-light-exposure-from-smart-clocks-disrupts-melatonin-mediated-glp-1-secretion-and-elevates-fasting-glucose-in-adults-59-with-shift-work-history"]
+title: >-
+  How Chronic Exposure to LED Nightlights in Hallways Disrupts Retinal
+  Melanopsin Signaling — And Elevates Nocturnal Glucose in Adults 70+ With
+  Nocturia and Poor Sleep Efficiency
+slug: >-
+  how-chronic-exposure-to-led-nightlights-in-hallways-disrupts-retinal-melanopsin-signaling-and-elevates-nocturnal-glucose-in-adults-70-with-nocturia-and-poor-sleep-efficiency
+description: >-
+  Examines melanopsin-driven suppression of nocturnal melatonin, subsequent loss
+  of insulin pulsatility, and real-world light-spectrum mitigation strategies
+  for bedroom-adjacent spaces.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: led nightlights nocturnal glucose seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
+  - >-
+    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
+  - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+  - >-
+    how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment
+  - >-
+    how-nighttime-light-exposure-from-smart-clocks-disrupts-melatonin-mediated-glp-1-secretion-and-elevates-fasting-glucose-in-adults-59-with-shift-work-history
 ---
 
 # How LED Nightlights in Hallways May Affect Nocturnal Glucose in Seniors — And What You Can Do

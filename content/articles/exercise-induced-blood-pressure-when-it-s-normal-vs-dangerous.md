@@ -6,12 +6,8 @@ description: >-
   recognize warning signs of abnormal responses.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - exercise and temporary blood pressure increase
-  - blood pressure
-  - heart-health
 primaryKeyword: exercise and temporary blood pressure increase
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - when-to-worry-about-high-readings

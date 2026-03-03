@@ -10,10 +10,6 @@ description: >-
   sedentary professionals managing stage 1 hypertension.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - standing desk blood pressure research 60+
-  - blood pressure
-  - workplace-activity-hypertension
 primaryKeyword: standing desk blood pressure research 60+
 topicCluster: hypertension-management
 image: ''

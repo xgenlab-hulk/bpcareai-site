@@ -11,12 +11,8 @@ description: >-
   guidelines.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - low-fat desserts triglycerides men over 60
-  - healthy eating during family gatherings
-  - lipid-diet-myths
 primaryKeyword: low-fat desserts triglycerides men over 60
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season

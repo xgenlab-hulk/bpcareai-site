@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Ways to Buffer the Glycemic Impact of Holiday Pie Crust in Adults 64+ With Prediabetes and High Fasting Insulin"
-slug: "12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin"
-description: "From pre-meal vinegar gel caps to strategic crust-to-filling ratio adjustments—each method validated by continuous glucose monitoring studies in adults 60–75."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["buffer pie crust glycemic impact seniors", "healthy holiday eating for seniors", "glycemic-buffering-strategies"]
-primaryKeyword: "buffer pie crust glycemic impact seniors"
-topicCluster: "glycemic-buffering-strategies"
-image: ""
-relatedSlugs: ["does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension", "how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy", "12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides", "12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65"]
+title: >-
+  12 Science-Backed Ways to Buffer the Glycemic Impact of Holiday Pie Crust in
+  Adults 64+ With Prediabetes and High Fasting Insulin
+slug: >-
+  12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin
+description: >-
+  From pre-meal vinegar gel caps to strategic crust-to-filling ratio
+  adjustments—each method validated by continuous glucose monitoring studies in
+  adults 60–75.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: buffer pie crust glycemic impact seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension
+  - >-
+    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - >-
+    12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides
+  - >-
+    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
 ---
 
 # 12 Science-Backed Strategies to Buffer Pie Crust Glycemic Impact in Seniors With Prediabetes

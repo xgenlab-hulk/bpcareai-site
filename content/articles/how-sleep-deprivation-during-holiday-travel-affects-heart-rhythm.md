@@ -6,12 +6,8 @@ description: >-
   may trigger arrhythmias in older travelers.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - holiday travel heart rhythm
-  - holiday heart syndrome prevention
-  - lifestyle-modifications
 primaryKeyword: holiday travel heart rhythm
-topicCluster: lifestyle-changes
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat

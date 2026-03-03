@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Boost Endothelial NO Synthase Activity in Adults 54–69 With Elevated ADMA and Normal LDL-C"
-slug: "10-foods-that-boost-endothelial-no-synthase-activity-in-adults-54-69-with-elevated-adma-and-normal-ldl-c"
-description: "Highlights underutilized foods (black garlic, fermented soy, wild blueberries) and preparation methods that upregulate eNOS expression—separate from general 'heart-healthy' lists."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["foods boost endothelial NO synthase adults 54-69", "blood pressure", "diet-nutrition"]
-primaryKeyword: "foods boost endothelial NO synthase adults 54-69"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl", "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling", "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina", "natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60"]
+title: >-
+  10 Foods That Boost Endothelial NO Synthase Activity in Adults 54–69 With
+  Elevated ADMA and Normal LDL-C
+slug: >-
+  10-foods-that-boost-endothelial-no-synthase-activity-in-adults-54-69-with-elevated-adma-and-normal-ldl-c
+description: >-
+  Highlights underutilized foods (black garlic, fermented soy, wild blueberries)
+  and preparation methods that upregulate eNOS expression—separate from general
+  'heart-healthy' lists.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: foods boost endothelial NO synthase adults 54-69
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+  - >-
+    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+  - >-
+    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
 ---
 
 # 10 Foods That Help Boost Endothelial NO Synthase in Adults 54–69—Especially When ADMA Is Elevated

@@ -1,14 +1,30 @@
 ---
-title: "5 Things Everyone Over 70 Should Know About Sulfonylureas — Especially If They Live Alone and Take Them Daily"
-slug: "5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily"
-description: "Highlights delayed hypoglycemia onset, impaired counterregulatory response, fall risk amplification, cognitive fog mimicking dementia, and why gliclazide MR may be safer than glimepiride in frail elders — plus home safety adaptations."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["sulfonylurea risks for elderly living alone", "diabetes", "medication-safety-frail-elderly"]
-primaryKeyword: "sulfonylurea risks for elderly living alone"
-topicCluster: "medication-safety-frail-elderly"
-image: ""
-relatedSlugs: ["what-causes-sudden-post-brunch-hypoglycemia-in-adults-73-with-sulfonylurea-use-and-mild-cognitive-impairment", "can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment", "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone", "when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use", "a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia"]
+title: >-
+  5 Things Everyone Over 70 Should Know About Sulfonylureas — Especially If They
+  Live Alone and Take Them Daily
+slug: >-
+  5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily
+description: >-
+  Highlights delayed hypoglycemia onset, impaired counterregulatory response,
+  fall risk amplification, cognitive fog mimicking dementia, and why gliclazide
+  MR may be safer than glimepiride in frail elders — plus home safety
+  adaptations.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: sulfonylurea risks for elderly living alone
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-sudden-post-brunch-hypoglycemia-in-adults-73-with-sulfonylurea-use-and-mild-cognitive-impairment
+  - >-
+    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
+  - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
+  - >-
+    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia
 ---
 
 # What Everyone Over 70 Needs to Know About Sulfonylurea Risks for Elderly Living Alone

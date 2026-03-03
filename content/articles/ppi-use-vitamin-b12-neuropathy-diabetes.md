@@ -11,12 +11,8 @@ description: >-
   food-first repletion strategies.
 date: '2026-01-14'
 updated: '2026-01-14'
-tags:
-  - PPI use vitamin B12 neuropathy diabetes
-  - diabetes
-  - medications-gut-absorption
 primaryKeyword: PPI use vitamin B12 neuropathy diabetes
-topicCluster: medications-gut-absorption
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,28 @@
 ---
-title: "Why Does Blood Sugar Spike After a 10-Minute Walk in Adults 62–78 With Type 2 Diabetes and Diabetic Retinopathy?"
-slug: "why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy"
-description: "Explores the paradoxical post-exercise hyperglycemia phenomenon in older adults with advanced microvascular complications, examining catecholamine surges, hepatic glucose output, and timing nuances."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["post-exercise blood sugar spike older adults", "diabetes", "exercise-physiology-paradoxes"]
-primaryKeyword: "post-exercise blood sugar spike older adults"
-topicCluster: "exercise-physiology-paradoxes"
-image: ""
-relatedSlugs: ["can-walking-after-meals-lower-blood-sugar-in-older-adults", "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes", "when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment", "why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals", "myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity"]
+title: >-
+  Why Does Blood Sugar Spike After a 10-Minute Walk in Adults 62–78 With Type 2
+  Diabetes and Diabetic Retinopathy?
+slug: >-
+  why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
+description: >-
+  Explores the paradoxical post-exercise hyperglycemia phenomenon in older
+  adults with advanced microvascular complications, examining catecholamine
+  surges, hepatic glucose output, and timing nuances.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: post-exercise blood sugar spike older adults
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
+  - >-
+    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
 ---
 
 # Why Some Older Adults Experience a Post-Exercise Blood Sugar Spike — And What It Really Means

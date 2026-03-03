@@ -1,14 +1,27 @@
 ---
-title: "How Holiday Table Settings Affect Portion Control in Adults 55–72 With Prediabetes"
-slug: "how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes"
-description: "Explores how plate size, color contrast, utensil placement, and seating arrangement subtly influence bite frequency and satiety signaling—backed by behavioral nutrition studies in midlife and older adults."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["holiday table settings portion control prediabetes", "healthy eating during family gatherings", "behavioral-nutrition-environment"]
-primaryKeyword: "holiday table settings portion control prediabetes"
-topicCluster: "behavioral-nutrition-environment"
-image: ""
-relatedSlugs: ["how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75", "how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55", "the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies", "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60"]
+title: >-
+  How Holiday Table Settings Affect Portion Control in Adults 55–72 With
+  Prediabetes
+slug: >-
+  how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
+description: >-
+  Explores how plate size, color contrast, utensil placement, and seating
+  arrangement subtly influence bite frequency and satiety signaling—backed by
+  behavioral nutrition studies in midlife and older adults.
+date: '2026-01-06'
+updated: '2026-01-06'
+primaryKeyword: holiday table settings portion control prediabetes
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
 ---
 
 # How Holiday Table Settings Shape Portion Control for Adults 55–72 With Prediabetes

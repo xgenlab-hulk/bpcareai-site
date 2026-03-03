@@ -1,14 +1,28 @@
 ---
-title: "How Late-Night Dessert Snacking Disrupts Circadian Glucose Rhythms in Adults 75+ With Early Alzheimer’s"
-slug: "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s"
-description: "Explores the neuroendocrine impact of after-dinner sweets on melatonin-mediated insulin sensitivity and amyloid-beta clearance in cognitively vulnerable seniors—backed by 2024 chronobiology data."
-date: "2025-12-30"
-updated: "2025-12-30"
-tags: ["late-night dessert and dementia glucose", "healthy holiday eating for seniors", "neuro-metabolic-diet"]
-primaryKeyword: "late-night dessert and dementia glucose"
-topicCluster: "neuro-metabolic-diet"
-image: ""
-relatedSlugs: ["how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65", "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia", "how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes"]
+title: >-
+  How Late-Night Dessert Snacking Disrupts Circadian Glucose Rhythms in Adults
+  75+ With Early Alzheimer’s
+slug: >-
+  how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+description: >-
+  Explores the neuroendocrine impact of after-dinner sweets on
+  melatonin-mediated insulin sensitivity and amyloid-beta clearance in
+  cognitively vulnerable seniors—backed by 2024 chronobiology data.
+date: '2025-12-30'
+updated: '2025-12-30'
+primaryKeyword: late-night dessert and dementia glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
+  - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # How Late-Night Dessert and Dementia Glucose Patterns Interact in Older Adults with Early Alzheimer’s

@@ -6,12 +6,8 @@ description: >-
   control or contain hidden glycemic risks.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - truth about sugar-free holiday foods
-  - managing blood sugar during Christmas and New Year
-  - diet-nutrition
 primaryKeyword: truth about sugar-free holiday foods
-topicCluster: nutrition-diet
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

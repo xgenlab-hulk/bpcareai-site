@@ -1,14 +1,29 @@
 ---
-title: "What Causes Morning Blood Pressure Spikes in Adults 62+ With Chronic Kidney Disease and Nocturnal Polyuria?"
-slug: "what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria"
-description: "Explores renal nocturnal sodium handling, sympathetic nervous system activation, and circadian renin-angiotensin shifts as drivers of early-morning hypertension surges in older adults with stage 3 CKD."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["morning blood pressure spikes chronic kidney disease", "blood pressure", "circadian-rhythm-ckd"]
-primaryKeyword: "morning blood pressure spikes chronic kidney disease"
-topicCluster: "circadian-rhythm-ckd"
-image: ""
-relatedSlugs: ["7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "how-chronic-low-dose-cortisol-elevation-from-night-shift-work-alters-renin-angiotensin-feedback-loops-in-men-52-64-with-nocturnal-hypertension", "why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension", "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes", "quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp"]
+title: >-
+  What Causes Morning Blood Pressure Spikes in Adults 62+ With Chronic Kidney
+  Disease and Nocturnal Polyuria?
+slug: >-
+  what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
+description: >-
+  Explores renal nocturnal sodium handling, sympathetic nervous system
+  activation, and circadian renin-angiotensin shifts as drivers of early-morning
+  hypertension surges in older adults with stage 3 CKD.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: morning blood pressure spikes chronic kidney disease
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    how-chronic-low-dose-cortisol-elevation-from-night-shift-work-alters-renin-angiotensin-feedback-loops-in-men-52-64-with-nocturnal-hypertension
+  - >-
+    why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+  - >-
+    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
 ---
 
 # Understanding Morning Blood Pressure Spikes in Older Adults With Chronic Kidney Disease

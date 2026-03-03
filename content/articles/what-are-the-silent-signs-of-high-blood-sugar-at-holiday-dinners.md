@@ -6,12 +6,8 @@ description: >-
   suggest glucose is rising, even when you feel fine.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - silent signs high blood sugar
-  - managing blood sugar during Christmas and New Year
-  - symptoms-warning-signs
 primaryKeyword: silent signs high blood sugar
-topicCluster: symptoms-emergencies
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes

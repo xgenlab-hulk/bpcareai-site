@@ -1,14 +1,30 @@
 ---
-title: "Does Daily 5-Minute Diaphragmatic Breathing Lower Postprandial Glucose Spikes in Adults 64+ With High LF/HF Ratio and Type 2 Diabetes?"
-slug: "does-daily-5-minute-diaphragmatic-breathing-lower-postprandial-glucose-spikes-in-adults-64-with-high-lf-hf-ratio-and-type-2-diabetes"
-description: "Analyzes vagally mediated suppression of hepatic glucose production, pancreatic beta-cell perfusion improvement, and reduced catecholamine-driven glycogenolysis — with protocol specifics (4-7-8 rhythm, supine vs seated) and 7-day trial tracker."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["diaphragmatic breathing postprandial glucose", "diabetes", "autonomic-modulation-glucose-control"]
-primaryKeyword: "diaphragmatic breathing postprandial glucose"
-topicCluster: "autonomic-modulation-glucose-control"
-image: ""
-relatedSlugs: ["does-daily-8-minute-diaphragmatic-breathing-lower-fasting-glucose-and-homa-ir-in-adults-59-69-with-stress-induced-hyperglycemia-and-high-salivary-alpha-amylase", "quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76", "does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy", "does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension"]
+title: >-
+  Does Daily 5-Minute Diaphragmatic Breathing Lower Postprandial Glucose Spikes
+  in Adults 64+ With High LF/HF Ratio and Type 2 Diabetes?
+slug: >-
+  does-daily-5-minute-diaphragmatic-breathing-lower-postprandial-glucose-spikes-in-adults-64-with-high-lf-hf-ratio-and-type-2-diabetes
+description: >-
+  Analyzes vagally mediated suppression of hepatic glucose production,
+  pancreatic beta-cell perfusion improvement, and reduced catecholamine-driven
+  glycogenolysis — with protocol specifics (4-7-8 rhythm, supine vs seated) and
+  7-day trial tracker.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: diaphragmatic breathing postprandial glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-8-minute-diaphragmatic-breathing-lower-fasting-glucose-and-homa-ir-in-adults-59-69-with-stress-induced-hyperglycemia-and-high-salivary-alpha-amylase
+  - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+  - >-
+    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - >-
+    does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
 ---
 
 # Can Diaphragmatic Breathing Postprandial Glucose Responses in Adults 64+ With Type 2 Diabetes and Autonomic Imbalance?

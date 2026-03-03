@@ -10,12 +10,8 @@ description: >-
   adults, plus safer monitoring strategies.
 date: '2025-12-21'
 updated: '2025-12-21'
-tags:
-  - statin side effects after age 65
-  - heart disease
-  - medications-statin-safety
 primaryKeyword: statin side effects after age 65
-topicCluster: medications-statin-safety
+topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-

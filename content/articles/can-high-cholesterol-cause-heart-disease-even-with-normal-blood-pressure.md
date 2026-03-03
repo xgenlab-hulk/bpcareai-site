@@ -6,12 +6,8 @@ description: >-
   when blood pressure is under control.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - high cholesterol and heart disease with normal blood pressure
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: high cholesterol and heart disease with normal blood pressure
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms

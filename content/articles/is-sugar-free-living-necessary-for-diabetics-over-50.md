@@ -6,12 +6,8 @@ description: >-
   required for good glucose control.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - do diabetics need to avoid all sugar after 50
-  - diabetes
-  - diabetes-nutrition
 primaryKeyword: do diabetics need to avoid all sugar after 50
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

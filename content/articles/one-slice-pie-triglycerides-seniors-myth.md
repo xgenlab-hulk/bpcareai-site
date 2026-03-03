@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: ‘Just One Slice’ of Holiday Pie Won’t Raise My Triglycerides — What Fasting Chylomicron Clearance Testing Reveals in Adults 61–75 With Hypertriglyceridemia"
-slug: "myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia"
-description: "Uses clinical lipid kinetics data to debunk portion-size assumptions—showing how even single servings of fructose-glucose syrups disrupt lipoprotein lipase activity in aging adipose tissue."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["one slice pie triglycerides seniors myth", "healthy holiday eating for seniors", "lipid-kinetics-diet-myth-busting"]
-primaryKeyword: "one slice pie triglycerides seniors myth"
-topicCluster: "lipid-kinetics-diet-myth-busting"
-image: ""
-relatedSlugs: ["why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69", "how-late-night-dessert-sharing-with-grandchildren-affects-overnight-triglyceride-clearance-in-adults-60-71-with-metabolic-syndrome", "the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60", "myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75", "warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55"]
+title: >-
+  Myths vs Facts: ‘Just One Slice’ of Holiday Pie Won’t Raise My Triglycerides —
+  What Fasting Chylomicron Clearance Testing Reveals in Adults 61–75 With
+  Hypertriglyceridemia
+slug: >-
+  myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
+description: >-
+  Uses clinical lipid kinetics data to debunk portion-size assumptions—showing
+  how even single servings of fructose-glucose syrups disrupt lipoprotein lipase
+  activity in aging adipose tissue.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: one slice pie triglycerides seniors myth
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
+  - >-
+    how-late-night-dessert-sharing-with-grandchildren-affects-overnight-triglyceride-clearance-in-adults-60-71-with-metabolic-syndrome
+  - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+  - >-
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
+  - >-
+    warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
 ---
 
 # “One Slice Pie Triglycerides Seniors Myth” — What Science Really Says About Holiday Desserts and Your Lipids

@@ -1,14 +1,29 @@
 ---
-title: "A vs B: 5-Minute Morning Sunlight Exposure vs. 10-Minute Evening Red Light Therapy for Modulating Circadian BP Variability in Women 60–74"
-slug: "a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74"
-description: "Compares photobiomodulation timing strategies for improving autonomic balance and reducing morning SBP surge — grounded in melanopsin receptor kinetics and cortisol rhythm data."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["sunlight vs red light for blood pressure", "blood pressure", "light-therapy-comparison"]
-primaryKeyword: "sunlight vs red light for blood pressure"
-topicCluster: "light-therapy-comparison"
-image: ""
-relatedSlugs: ["how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension", "a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension", "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension", "a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome"]
+title: >-
+  A vs B: 5-Minute Morning Sunlight Exposure vs. 10-Minute Evening Red Light
+  Therapy for Modulating Circadian BP Variability in Women 60–74
+slug: >-
+  a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74
+description: >-
+  Compares photobiomodulation timing strategies for improving autonomic balance
+  and reducing morning SBP surge — grounded in melanopsin receptor kinetics and
+  cortisol rhythm data.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: sunlight vs red light for blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
+  - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+  - >-
+    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
 ---
 
 # Sunlight vs Red Light for Blood Pressure: A Gentle Comparison for Women 60–74

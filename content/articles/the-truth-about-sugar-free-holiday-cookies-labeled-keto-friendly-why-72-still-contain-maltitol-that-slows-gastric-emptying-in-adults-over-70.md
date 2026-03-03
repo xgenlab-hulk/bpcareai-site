@@ -1,14 +1,29 @@
 ---
-title: "The Truth About ‘Sugar-Free’ Holiday Cookies Labeled ‘Keto-Friendly’—Why 72% Still Contain Maltitol That Slows Gastric Emptying in Adults Over 70"
-slug: "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70"
-description: "Debunks marketing claims using FDA-label audit data and explains delayed gastric motility risks in aging GI tracts, with safer sweetener alternatives ranked by tolerance evidence."
-date: "2025-12-28"
-updated: "2025-12-28"
-tags: ["sugar-free cookies maltitol gastroparesis", "healthy eating during family gatherings", "gastrointestinal-diet-safety"]
-primaryKeyword: "sugar-free cookies maltitol gastroparesis"
-topicCluster: "gastrointestinal-diet-safety"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging", "the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75", "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely"]
+title: >-
+  The Truth About ‘Sugar-Free’ Holiday Cookies Labeled ‘Keto-Friendly’—Why 72%
+  Still Contain Maltitol That Slows Gastric Emptying in Adults Over 70
+slug: >-
+  the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
+description: >-
+  Debunks marketing claims using FDA-label audit data and explains delayed
+  gastric motility risks in aging GI tracts, with safer sweetener alternatives
+  ranked by tolerance evidence.
+date: '2025-12-28'
+updated: '2025-12-28'
+primaryKeyword: sugar-free cookies maltitol gastroparesis
+topicCluster: natural-remedies
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+  - >-
+    the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
 ---
 
 # The Hidden Risk in ‘Keto’ Holiday Cookies: How Sugar-Free Cookies Maltitol Gastroparesis Affects Older Adults

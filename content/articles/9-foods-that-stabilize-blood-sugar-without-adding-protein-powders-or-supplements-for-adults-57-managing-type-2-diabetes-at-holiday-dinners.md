@@ -1,14 +1,28 @@
 ---
-title: "9 Foods That Stabilize Blood Sugar *Without* Adding Protein Powders or Supplements — For Adults 57+ Managing Type 2 Diabetes at Holiday Dinners"
-slug: "9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners"
-description: "Highlights whole-food, non-processed stabilizers (e.g., roasted chestnuts, pickled red onions, toasted fennel seeds) with clinical data on delayed gastric emptying and alpha-glucosidase inhibition."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["blood sugar stabilizing holiday foods", "healthy eating during family gatherings", "whole-food-glycemic-stabilizers"]
-primaryKeyword: "blood sugar stabilizing holiday foods"
-topicCluster: "whole-food-glycemic-stabilizers"
-image: ""
-relatedSlugs: ["12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65", "10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress", "7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid", "5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties", "7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish"]
+title: >-
+  9 Foods That Stabilize Blood Sugar *Without* Adding Protein Powders or
+  Supplements — For Adults 57+ Managing Type 2 Diabetes at Holiday Dinners
+slug: >-
+  9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners
+description: >-
+  Highlights whole-food, non-processed stabilizers (e.g., roasted chestnuts,
+  pickled red onions, toasted fennel seeds) with clinical data on delayed
+  gastric emptying and alpha-glucosidase inhibition.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: blood sugar stabilizing holiday foods
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
+  - >-
+    10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
+  - >-
+    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
 ---
 
 # 9 Blood Sugar Stabilizing Holiday Foods That Work Naturally — For Adults 57+ Managing Type 2 Diabetes

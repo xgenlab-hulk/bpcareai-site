@@ -1,14 +1,26 @@
 ---
-title: "7 Silent Signs Your Hearing Loss May Be Linked to Poor Glycemic Control—Especially If You’re a Woman Over 64"
-slug: "7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64"
-description: "Details the bidirectional relationship between diabetic sensorineural hearing loss and HbA1c stability, including audiogram red flags and when to request otologic referral alongside endocrinology follow-up."
-date: "2026-01-10"
-updated: "2026-01-10"
-tags: ["hearing loss diabetes women over 64", "diabetes", "neurological-complications"]
-primaryKeyword: "hearing loss diabetes women over 64"
-topicCluster: "neurological-complications"
-image: ""
-relatedSlugs: ["blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70", "the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70", "7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62", "diabetes-and-vision-changes-what-seniors-need-to-know", "how-gum-disease-is-linked-to-diabetes-complications-in-older-adults"]
+title: >-
+  7 Silent Signs Your Hearing Loss May Be Linked to Poor Glycemic
+  Control—Especially If You’re a Woman Over 64
+slug: >-
+  7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
+description: >-
+  Details the bidirectional relationship between diabetic sensorineural hearing
+  loss and HbA1c stability, including audiogram red flags and when to request
+  otologic referral alongside endocrinology follow-up.
+date: '2026-01-10'
+updated: '2026-01-10'
+primaryKeyword: hearing loss diabetes women over 64
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - >-
+    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
+  - >-
+    7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62
+  - diabetes-and-vision-changes-what-seniors-need-to-know
+  - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
 ---
 
 # What Your Ears Might Be Telling You About Your Blood Sugar—Especially If You’re a Woman Over 64 with Hearing Loss and Diabetes

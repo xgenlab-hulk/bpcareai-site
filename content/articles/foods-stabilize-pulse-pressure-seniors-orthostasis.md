@@ -1,14 +1,30 @@
 ---
-title: "10 Foods That Stabilize Postprandial Systolic-Diastolic Gap *Without* Reducing Overall Blood Pressure — For Adults 76+ With Wide Pulse Pressure and Mild Orthostasis"
-slug: "10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis"
-description: "Features foods rich in specific polyphenols, nitrates, and magnesium isoforms that improve arterial elasticity and ventricular-arterial coupling—without triggering hypotension in fragile older adults."
-date: "2026-02-11"
-updated: "2026-02-11"
-tags: ["foods stabilize pulse pressure seniors orthostasis", "healthy holiday eating for seniors", "arterial-elasticity-diet"]
-primaryKeyword: "foods stabilize pulse pressure seniors orthostasis"
-topicCluster: "arterial-elasticity-diet"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function", "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60", "10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers", "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75"]
+title: >-
+  10 Foods That Stabilize Postprandial Systolic-Diastolic Gap *Without* Reducing
+  Overall Blood Pressure — For Adults 76+ With Wide Pulse Pressure and Mild
+  Orthostasis
+slug: >-
+  10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis
+description: >-
+  Features foods rich in specific polyphenols, nitrates, and magnesium isoforms
+  that improve arterial elasticity and ventricular-arterial coupling—without
+  triggering hypotension in fragile older adults.
+date: '2026-02-11'
+updated: '2026-02-11'
+primaryKeyword: foods stabilize pulse pressure seniors orthostasis
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
+  - >-
+    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
 ---
 
 # Foods That Help Stabilize Pulse Pressure in Seniors with Orthostasis — A Gentle, Evidence-Informed Guide

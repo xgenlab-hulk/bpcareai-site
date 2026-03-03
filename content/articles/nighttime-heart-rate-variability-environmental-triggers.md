@@ -1,14 +1,30 @@
 ---
-title: "7 Overlooked Environmental Triggers That Elevate Nighttime Heart Rate Variability in Adults 74+ With Mild COPD — From Humidifier Mineral Dust to Bedroom Wall Paint VOCs"
-slug: "7-overlooked-environmental-triggers-that-elevate-nighttime-heart-rate-variability-in-adults-74-with-mild-copd-from-humidifier-mineral-dust-to-bedroom-wall-paint-vocs"
-description: "Identifies non-clinical, home-environmental factors that dysregulate autonomic cardiac output overnight in aging lungs, with actionable mitigation strategies validated in pulmonology-geriatric crossover studies."
-date: "2026-02-10"
-updated: "2026-02-10"
-tags: ["nighttime heart rate variability environmental triggers", "heart health", "environmental-autonomic-interference"]
-primaryKeyword: "nighttime heart rate variability environmental triggers"
-topicCluster: "environmental-autonomic-interference"
-image: ""
-relatedSlugs: ["how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd", "7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring", "quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns", "how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study", "how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd"]
+title: >-
+  7 Overlooked Environmental Triggers That Elevate Nighttime Heart Rate
+  Variability in Adults 74+ With Mild COPD — From Humidifier Mineral Dust to
+  Bedroom Wall Paint VOCs
+slug: >-
+  7-overlooked-environmental-triggers-that-elevate-nighttime-heart-rate-variability-in-adults-74-with-mild-copd-from-humidifier-mineral-dust-to-bedroom-wall-paint-vocs
+description: >-
+  Identifies non-clinical, home-environmental factors that dysregulate autonomic
+  cardiac output overnight in aging lungs, with actionable mitigation strategies
+  validated in pulmonology-geriatric crossover studies.
+date: '2026-02-10'
+updated: '2026-02-10'
+primaryKeyword: nighttime heart rate variability environmental triggers
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd
+  - >-
+    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
+  - >-
+    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
+  - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
+  - >-
+    how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
 ---
 
 # Environmental Triggers That Disrupt Nighttime Heart Rate Variability in Older Adults With Mild COPD

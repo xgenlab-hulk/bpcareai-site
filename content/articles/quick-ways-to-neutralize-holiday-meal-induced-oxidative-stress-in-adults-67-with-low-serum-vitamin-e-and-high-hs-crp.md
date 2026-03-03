@@ -1,14 +1,29 @@
 ---
-title: "Quick Ways to Neutralize Holiday Meal-Induced Oxidative Stress in Adults 67+ With Low Serum Vitamin E and High hs-CRP"
-slug: "quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp"
-description: "Three clinically tested, food-first interventions—timing of rosemary-infused olive oil, roasted walnut garnish, and post-meal tart cherry juice—delivered in under 90 seconds of prep time."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["neutralize oxidative stress holiday meals", "healthy holiday eating for seniors", "antioxidant-interventions"]
-primaryKeyword: "neutralize oxidative stress holiday meals"
-topicCluster: "antioxidant-interventions"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis", "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration", "quick-ways-to-reduce-post-meal-oxidative-stress-within-45-minutes-for-adults-68-with-copd-and-long-standing-smoking-history", "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis", "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80"]
+title: >-
+  Quick Ways to Neutralize Holiday Meal-Induced Oxidative Stress in Adults 67+
+  With Low Serum Vitamin E and High hs-CRP
+slug: >-
+  quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp
+description: >-
+  Three clinically tested, food-first interventions—timing of rosemary-infused
+  olive oil, roasted walnut garnish, and post-meal tart cherry juice—delivered
+  in under 90 seconds of prep time.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: neutralize oxidative stress holiday meals
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
+  - >-
+    quick-ways-to-reduce-post-meal-oxidative-stress-within-45-minutes-for-adults-68-with-copd-and-long-standing-smoking-history
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
+  - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
 ---
 
 # Simple, Science-Backed Ways to Neutralize Oxidative Stress Holiday Meals—Especially After 67

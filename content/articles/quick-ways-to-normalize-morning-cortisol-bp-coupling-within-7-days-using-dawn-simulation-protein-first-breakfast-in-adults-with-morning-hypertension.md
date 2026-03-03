@@ -1,14 +1,29 @@
 ---
-title: "Quick Ways to Normalize Morning Cortisol–BP Coupling Within 7 Days Using Dawn Simulation + Protein-First Breakfast in Adults With Morning Hypertension"
-slug: "quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension"
-description: "Describes a 7-day protocol combining timed 250-lux light exposure, 30g morning protein intake, and delayed caffeine use to restore circadian cortisol-BP phase alignment in non-dippers."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["morning cortisol bp coupling normalization", "heart disease", "circadian-bp-coupling"]
-primaryKeyword: "morning cortisol bp coupling normalization"
-topicCluster: "circadian-bp-coupling"
-image: ""
-relatedSlugs: ["can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77", "how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension", "a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension", "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension"]
+title: >-
+  Quick Ways to Normalize Morning Cortisol–BP Coupling Within 7 Days Using Dawn
+  Simulation + Protein-First Breakfast in Adults With Morning Hypertension
+slug: >-
+  quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
+description: >-
+  Describes a 7-day protocol combining timed 250-lux light exposure, 30g morning
+  protein intake, and delayed caffeine use to restore circadian cortisol-BP
+  phase alignment in non-dippers.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: morning cortisol bp coupling normalization
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77
+  - >-
+    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
+  - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+  - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
 ---
 
 # How to Support Morning Cortisol–BP Coupling Normalization in Just 7 Days (Especially After Age 50)

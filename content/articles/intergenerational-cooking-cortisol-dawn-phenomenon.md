@@ -1,14 +1,30 @@
 ---
-title: "How Intergenerational Cooking Stress Elevates Cortisol-Driven Dawn Phenomenon in Men 62+ With Long-Term Type 2 Diabetes and Untreated Sleep Disordered Breathing"
-slug: "how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing"
-description: "Analyzes the hormonal cascade triggered by holiday kitchen demands — linking elevated overnight cortisol, blunted melatonin, and amplified morning glucose spikes — with low-barrier mitigation strategies."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["intergenerational cooking cortisol dawn phenomenon", "holiday diabetes management", "stress-hormone-glucose-link"]
-primaryKeyword: "intergenerational cooking cortisol dawn phenomenon"
-topicCluster: "stress-hormone-glucose-link"
-image: ""
-relatedSlugs: ["how-grandparenting-induced-sleep-fragmentation-alters-nocturnal-cortisol-rhythms-and-why-that-elevates-fasting-glucose-in-adults-66-with-type-2-diabetes", "how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance", "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70", "why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms", "how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60"]
+title: >-
+  How Intergenerational Cooking Stress Elevates Cortisol-Driven Dawn Phenomenon
+  in Men 62+ With Long-Term Type 2 Diabetes and Untreated Sleep Disordered
+  Breathing
+slug: >-
+  how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing
+description: >-
+  Analyzes the hormonal cascade triggered by holiday kitchen demands — linking
+  elevated overnight cortisol, blunted melatonin, and amplified morning glucose
+  spikes — with low-barrier mitigation strategies.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: intergenerational cooking cortisol dawn phenomenon
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-grandparenting-induced-sleep-fragmentation-alters-nocturnal-cortisol-rhythms-and-why-that-elevates-fasting-glucose-in-adults-66-with-type-2-diabetes
+  - >-
+    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
+  - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+  - >-
+    why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
+  - >-
+    how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
 ---
 
 # How Intergenerational Cooking Stress Fuels the Cortisol-Driven Dawn Phenomenon in Older Men With Long-Standing Type 2 Diabetes

@@ -1,14 +1,30 @@
 ---
-title: "Warning Signs Your 'Stable' Heart Failure Class II Diagnosis Is Masking Early Right Ventricular-PA Coupling Failure — Especially With Concurrent Pulmonary Nodules and Mild Hypoxemia in Adults 70+"
-slug: "warning-signs-your-stable-heart-failure-class-ii-diagnosis-is-masking-early-right-ventricular-pa-coupling-failure-especially-with-concurrent-pulmonary-nodules-and-mild-hypoxemia-in-adults-70"
-description: "Highlights subtle clinical, imaging, and gas exchange markers (e.g., tricuspid annular plane systolic excursion velocity <12 cm/s *plus* nocturnal SpO2 dip >4% during REM) indicating early RV-PA uncoupling."
-date: "2026-02-11"
-updated: "2026-02-11"
-tags: ["right ventricular pa coupling failure warning signs", "heart health", "right-heart-failure-early-detection"]
-primaryKeyword: "right ventricular pa coupling failure warning signs"
-topicCluster: "right-heart-failure-early-detection"
-image: ""
-relatedSlugs: ["the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function", "warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue", "warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate", "warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis", "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms"]
+title: >-
+  Warning Signs Your 'Stable' Heart Failure Class II Diagnosis Is Masking Early
+  Right Ventricular-PA Coupling Failure — Especially With Concurrent Pulmonary
+  Nodules and Mild Hypoxemia in Adults 70+
+slug: >-
+  warning-signs-your-stable-heart-failure-class-ii-diagnosis-is-masking-early-right-ventricular-pa-coupling-failure-especially-with-concurrent-pulmonary-nodules-and-mild-hypoxemia-in-adults-70
+description: >-
+  Highlights subtle clinical, imaging, and gas exchange markers (e.g., tricuspid
+  annular plane systolic excursion velocity <12 cm/s *plus* nocturnal SpO2 dip
+  >4% during REM) indicating early RV-PA uncoupling.
+date: '2026-02-11'
+updated: '2026-02-11'
+primaryKeyword: right ventricular pa coupling failure warning signs
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function
+  - >-
+    warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue
+  - >-
+    warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate
+  - >-
+    warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis
+  - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
 ---
 
 # Recognizing Early right ventricular pa coupling failure warning signs — Especially in Adults 70+ with Stable Heart Failure Class II

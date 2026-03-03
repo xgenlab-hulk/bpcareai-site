@@ -1,14 +1,26 @@
 ---
-title: "The Complete Guide to Holiday Eating for Adults 58–63 With New-Onset Prediabetes and High-Functioning Careers"
-slug: "the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers"
-description: "A time-efficient, office-compatible strategy covering lunchbox prep, smart restaurant ordering, and after-work social event navigation — without calorie counting or meal logging."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["holiday eating prediabetes working adults", "healthy holiday eating for seniors", "prediabetes-career-lifestyle"]
-primaryKeyword: "holiday eating prediabetes working adults"
-topicCluster: "prediabetes-career-lifestyle"
-image: ""
-relatedSlugs: ["5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck", "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes", "how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes", "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60", "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes"]
+title: >-
+  The Complete Guide to Holiday Eating for Adults 58–63 With New-Onset
+  Prediabetes and High-Functioning Careers
+slug: >-
+  the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
+description: >-
+  A time-efficient, office-compatible strategy covering lunchbox prep, smart
+  restaurant ordering, and after-work social event navigation — without calorie
+  counting or meal logging.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: holiday eating prediabetes working adults
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
+  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
+  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # Smart Holiday Eating for Adults 58–63 with Prediabetes and Demanding Careers  

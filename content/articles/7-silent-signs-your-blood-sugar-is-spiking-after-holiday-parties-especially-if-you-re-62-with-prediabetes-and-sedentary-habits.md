@@ -1,14 +1,28 @@
 ---
-title: "7 Silent Signs Your Blood Sugar Is Spiking After Holiday Parties — Especially If You’re 62+ With Prediabetes and Sedentary Habits"
-slug: "7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits"
-description: "A symptom-focused guide identifying subtle, often-missed physiological cues (e.g., blurred vision post-dinner, unexplained fatigue after dessert, delayed wound healing) that signal acute hyperglycemia during festive periods in older adults with prediabetes and low daily movement."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["silent blood sugar spikes holiday prediabetes", "managing blood sugar during christmas and new year", "symptom-recognition"]
-primaryKeyword: "silent blood sugar spikes holiday prediabetes"
-topicCluster: "symptom-recognition"
-image: ""
-relatedSlugs: ["7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them", "when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction", "what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners"]
+title: >-
+  7 Silent Signs Your Blood Sugar Is Spiking After Holiday Parties — Especially
+  If You’re 62+ With Prediabetes and Sedentary Habits
+slug: >-
+  7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
+description: >-
+  A symptom-focused guide identifying subtle, often-missed physiological cues
+  (e.g., blurred vision post-dinner, unexplained fatigue after dessert, delayed
+  wound healing) that signal acute hyperglycemia during festive periods in older
+  adults with prediabetes and low daily movement.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: silent blood sugar spikes holiday prediabetes
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - >-
+    7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them
+  - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+  - what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
 ---
 
 # 7 Subtle Signs Your Blood Sugar Is Spiking After Holiday Parties — Especially If You’re 62+ With Prediabetes and Low Daily Activity  

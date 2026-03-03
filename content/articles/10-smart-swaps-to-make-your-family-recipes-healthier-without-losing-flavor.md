@@ -7,12 +7,8 @@ description: >-
   familiar.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - healthy recipe swaps for families
-  - healthy eating during family gatherings
-  - diet-nutrition
 primaryKeyword: healthy recipe swaps for families
-topicCluster: nutrition-diet
+topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - 7-smart-swaps-for-healthier-holiday-meals-after-65

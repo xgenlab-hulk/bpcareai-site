@@ -6,12 +6,8 @@ description: >-
   increase cardiac strain at the end of the year.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - New Year's heart risk
-  - holiday heart syndrome prevention
-  - seasonal-factors
 primaryKeyword: New Year's heart risk
-topicCluster: seasonal-health
+topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat

@@ -11,12 +11,8 @@ description: >-
   true insulin resistance.
 date: '2025-12-27'
 updated: '2025-12-27'
-tags:
-  - fasting glucose CKD stage 3a diabetes
-  - diabetes
-  - renal-glycemic-misinterpretation
 primaryKeyword: fasting glucose CKD stage 3a diabetes
-topicCluster: renal-glycemic-misinterpretation
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes

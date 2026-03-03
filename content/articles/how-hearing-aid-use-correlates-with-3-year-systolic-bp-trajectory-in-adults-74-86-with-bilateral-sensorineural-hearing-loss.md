@@ -1,14 +1,27 @@
 ---
-title: "How Hearing Aid Use Correlates With 3-Year Systolic BP Trajectory in Adults 74–86 With Bilateral Sensorineural Hearing Loss"
-slug: "how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss"
-description: "Examines longitudinal data on auditory-cognitive load reduction, social re-engagement, and its downstream effect on chronic sympathetic activation."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["hearing aid systolic bp trajectory hearing loss", "blood pressure", "sensory-cognitive-hypertension-link"]
-primaryKeyword: "hearing aid systolic bp trajectory hearing loss"
-topicCluster: "sensory-cognitive-hypertension-link"
-image: ""
-relatedSlugs: ["blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70", "how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75", "what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75", "the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70", "how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74"]
+title: >-
+  How Hearing Aid Use Correlates With 3-Year Systolic BP Trajectory in Adults
+  74–86 With Bilateral Sensorineural Hearing Loss
+slug: >-
+  how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
+description: >-
+  Examines longitudinal data on auditory-cognitive load reduction, social
+  re-engagement, and its downstream effect on chronic sympathetic activation.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: hearing aid systolic bp trajectory hearing loss
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - >-
+    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
+  - >-
+    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
+  - >-
+    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
+  - >-
+    how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
 ---
 
 # How Hearing Aid Use May Influence Your Systolic Blood Pressure Over Time — Especially With Age-Related Hearing Loss

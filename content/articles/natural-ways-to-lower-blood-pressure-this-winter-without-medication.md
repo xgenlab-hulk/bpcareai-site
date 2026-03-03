@@ -6,12 +6,8 @@ description: >-
   techniques, diet, and routine adjustments.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - natural blood pressure control
-  - senior blood pressure control in winter
-  - natural-remedies
 primaryKeyword: natural blood pressure control
-topicCluster: treatment-interventions
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-meditation-lower-blood-pressure-naturally

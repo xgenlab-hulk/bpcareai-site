@@ -1,14 +1,29 @@
 ---
-title: "When Should You Switch From Fasting Glucose to 2-Hour Postprandial Testing—Especially If You’re Over 72 and Taking GLP-1 Agonists?"
-slug: "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists"
-description: "Guides clinical decision-making using time-in-range data, gastric emptying delays, and pharmacodynamic curves of semaglutide/tirzepatide to optimize monitoring strategy."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["postprandial testing timing for glp1 users over 72", "diabetes", "testing-strategy-evolution"]
-primaryKeyword: "postprandial testing timing for glp1 users over 72"
-topicCluster: "testing-strategy-evolution"
-image: ""
-relatedSlugs: ["when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68", "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60", "how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes", "when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69"]
+title: >-
+  When Should You Switch From Fasting Glucose to 2-Hour Postprandial
+  Testing—Especially If You’re Over 72 and Taking GLP-1 Agonists?
+slug: >-
+  when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
+description: >-
+  Guides clinical decision-making using time-in-range data, gastric emptying
+  delays, and pharmacodynamic curves of semaglutide/tirzepatide to optimize
+  monitoring strategy.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: postprandial testing timing for glp1 users over 72
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - >-
+    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
+  - >-
+    when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
 ---
 
 # Optimizing Postprandial Testing Timing for GLP-1 Users Over 72: When Fasting Glucose Isn’t Enough

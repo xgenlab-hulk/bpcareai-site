@@ -1,14 +1,29 @@
 ---
-title: "5 Foods That Support Salivary Amylase Activity *Without* Increasing Carbohydrate Load — For Adults 77+ With Xerostomia and Mild Dysphagia"
-slug: "5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia"
-description: "Highlights nutrient-dense, low-glycemic foods that gently stimulate saliva and oral starch digestion—critical for safe swallowing and postprandial glucose stability in seniors with dry mouth."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["salivary amylase support xerostomia seniors", "healthy holiday eating for seniors", "oral-digestion-support"]
-primaryKeyword: "salivary amylase support xerostomia seniors"
-topicCluster: "oral-digestion-support"
-image: ""
-relatedSlugs: ["natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear", "natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia", "natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia", "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes", "natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd"]
+title: >-
+  5 Foods That Support Salivary Amylase Activity *Without* Increasing
+  Carbohydrate Load — For Adults 77+ With Xerostomia and Mild Dysphagia
+slug: >-
+  5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia
+description: >-
+  Highlights nutrient-dense, low-glycemic foods that gently stimulate saliva and
+  oral starch digestion—critical for safe swallowing and postprandial glucose
+  stability in seniors with dry mouth.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: salivary amylase support xerostomia seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear
+  - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+  - >-
+    natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia
+  - >-
+    quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
+  - >-
+    natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd
 ---
 
 # 5 Nutrient-Dense Foods That Support Salivary Amylase Activity in Seniors With Xerostomia and Mild Dysphagia

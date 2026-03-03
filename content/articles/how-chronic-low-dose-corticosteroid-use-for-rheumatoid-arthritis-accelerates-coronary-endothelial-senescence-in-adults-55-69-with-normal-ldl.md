@@ -10,12 +10,8 @@ description: >-
   in normolipidemic patients—plus protective antioxidant timing strategies.
 date: '2026-01-21'
 updated: '2026-01-21'
-tags:
-  - corticosteroids endothelial senescence ra
-  - heart disease
-  - medication-aging-cardio
 primaryKeyword: corticosteroids endothelial senescence ra
-topicCluster: medication-aging-cardio
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

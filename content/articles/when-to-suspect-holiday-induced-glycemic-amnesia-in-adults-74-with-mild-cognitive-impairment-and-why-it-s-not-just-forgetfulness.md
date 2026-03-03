@@ -1,14 +1,30 @@
 ---
-title: "When to Suspect Holiday-Induced Glycemic Amnesia in Adults 74+ With Mild Cognitive Impairment — And Why It’s Not Just 'Forgetfulness'"
-slug: "when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness"
-description: "Defines glycemic amnesia as transient hippocampal hypometabolism caused by acute glucose spikes, outlining 5 behavioral red flags (e.g., misplaced insulin pens, repeated carb-counting errors) distinct from dementia progression."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["holiday glycemic amnesia mild cognitive impairment", "holiday diabetes management", "cognitive-glucose-interaction"]
-primaryKeyword: "holiday glycemic amnesia mild cognitive impairment"
-topicCluster: "cognitive-glucose-interaction"
-image: ""
-relatedSlugs: ["warning-signs-of-holiday-induced-ketosis-in-adults-77-with-type-1-diabetes-and-early-cognitive-decline-that-mimic-delirium-or-uti", "warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4", "what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes", "warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine", "when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction"]
+title: >-
+  When to Suspect Holiday-Induced Glycemic Amnesia in Adults 74+ With Mild
+  Cognitive Impairment — And Why It’s Not Just 'Forgetfulness'
+slug: >-
+  when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness
+description: >-
+  Defines glycemic amnesia as transient hippocampal hypometabolism caused by
+  acute glucose spikes, outlining 5 behavioral red flags (e.g., misplaced
+  insulin pens, repeated carb-counting errors) distinct from dementia
+  progression.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: holiday glycemic amnesia mild cognitive impairment
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-of-holiday-induced-ketosis-in-adults-77-with-type-1-diabetes-and-early-cognitive-decline-that-mimic-delirium-or-uti
+  - >-
+    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
+  - >-
+    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
+  - >-
+    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
+  - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
 ---
 
 # When Holiday Glycemic Amnesia in Mild Cognitive Impairment Isn’t Just “Getting Forgetful”

@@ -6,12 +6,8 @@ description: >-
   discontinuing treatment too early.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - mistakes worsening seasonal depression
-  - seasonal depression in older adults
-  - prevention-strategies
 primaryKeyword: mistakes worsening seasonal depression
-topicCluster: preventive-care
+topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

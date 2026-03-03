@@ -1,14 +1,29 @@
 ---
-title: "What Research Says About Intermittent Fasting Windows and Left Ventricular Stiffness in Men 58–67 With Early Diastolic Impairment"
-slug: "what-research-says-about-intermittent-fasting-windows-and-left-ventricular-stiffness-in-men-58-67-with-early-diastolic-impairment"
-description: "Reviews clinical and imaging evidence on how timing and duration of fasting affect myocardial relaxation, collagen turnover, and E/e' ratios — with emphasis on sex- and age-specific thresholds."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["intermittent fasting and diastolic stiffness men", "heart health", "science-research-diet-timing-cardiac-structure"]
-primaryKeyword: "intermittent fasting and diastolic stiffness men"
-topicCluster: "science-research-diet-timing-cardiac-structure"
-image: ""
-relatedSlugs: ["what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension", "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease", "how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort", "how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3", "12-science-backed-ways-to-reduce-left-ventricular-stiffness-without-medication-focusing-on-titin-phosphorylation-sodium-intake-timing-and-deep-exhalation-duration"]
+title: >-
+  What Research Says About Intermittent Fasting Windows and Left Ventricular
+  Stiffness in Men 58–67 With Early Diastolic Impairment
+slug: >-
+  what-research-says-about-intermittent-fasting-windows-and-left-ventricular-stiffness-in-men-58-67-with-early-diastolic-impairment
+description: >-
+  Reviews clinical and imaging evidence on how timing and duration of fasting
+  affect myocardial relaxation, collagen turnover, and E/e' ratios — with
+  emphasis on sex- and age-specific thresholds.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: intermittent fasting and diastolic stiffness men
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
+  - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
+  - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+  - >-
+    how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
+  - >-
+    12-science-backed-ways-to-reduce-left-ventricular-stiffness-without-medication-focusing-on-titin-phosphorylation-sodium-intake-timing-and-deep-exhalation-duration
 ---
 
 # What Science Says About Intermittent Fasting and Diastolic Stiffness in Men 58–67 With Early Diastolic Impairment

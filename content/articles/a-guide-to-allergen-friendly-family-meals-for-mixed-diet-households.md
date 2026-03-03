@@ -6,12 +6,8 @@ description: >-
   maintaining a cohesive, enjoyable meal experience.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - allergen-friendly family gatherings
-  - healthy eating during family gatherings
-  - inclusive-dining
 primaryKeyword: allergen-friendly family gatherings
-topicCluster: social-environmental
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar

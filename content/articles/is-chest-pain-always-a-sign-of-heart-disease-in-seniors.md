@@ -6,12 +6,8 @@ description: >-
   seek immediate medical attention.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - chest pain not related to heart disease in seniors
-  - heart disease
-  - heart-health
 primaryKeyword: chest pain not related to heart disease in seniors
-topicCluster: cardiovascular-health
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal

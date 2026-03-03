@@ -11,12 +11,8 @@ description: >-
   for CAC score contextualization.
 date: '2026-02-05'
 updated: '2026-02-05'
-tags:
-  - coronary calcium score ct lung screening
-  - heart disease
-  - imaging-interpretation-guide
 primaryKeyword: coronary calcium score ct lung screening
-topicCluster: imaging-interpretation-guide
+topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - >-

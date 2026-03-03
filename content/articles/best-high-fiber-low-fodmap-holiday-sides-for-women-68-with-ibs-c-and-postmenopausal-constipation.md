@@ -1,14 +1,27 @@
 ---
-title: "Best High-Fiber, Low-FODMAP Holiday Sides for Women 68+ With IBS-C and Postmenopausal Constipation"
-slug: "best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation"
-description: "Curates and explains 5 science-aligned, festive side dishes that boost fiber without fermentable triggers—designed for aging female digestive systems experiencing hormonal slowing and microbiome shifts."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["low fodmap holiday sides for seniors with ibs", "healthy holiday eating for seniors", "ibs-c-fiber-nutrition-women"]
-primaryKeyword: "low fodmap holiday sides for seniors with ibs"
-topicCluster: "ibs-c-fiber-nutrition-women"
-image: ""
-relatedSlugs: ["best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd", "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation", "best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption", "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs", "10-high-fiber-holiday-foods-that-support-digestion-after-50"]
+title: >-
+  Best High-Fiber, Low-FODMAP Holiday Sides for Women 68+ With IBS-C and
+  Postmenopausal Constipation
+slug: >-
+  best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+description: >-
+  Curates and explains 5 science-aligned, festive side dishes that boost fiber
+  without fermentable triggers—designed for aging female digestive systems
+  experiencing hormonal slowing and microbiome shifts.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: low fodmap holiday sides for seniors with ibs
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
 ---
 
 # Low FODMAP Holiday Sides for Seniors with IBS: Gentle, Festive Fiber for Women 68+  

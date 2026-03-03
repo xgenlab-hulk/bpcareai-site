@@ -1,14 +1,30 @@
 ---
-title: "When to Worry About 'Normal' Troponin I Levels After a Fall — Understanding Age-Adjusted Cutoffs and Myocardial Contusion Risk in Adults 82+ With Osteoporosis"
-slug: "when-to-worry-about-normal-troponin-i-levels-after-a-fall-understanding-age-adjusted-cutoffs-and-myocardial-contusion-risk-in-adults-82-with-osteoporosis"
-description: "Guides clinicians and families on interpreting troponin in frail older adults after trauma — including false-negative risk, assay limitations, and echocardiographic triage criteria."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["troponin after fall in elderly", "heart disease", "trauma-diagnostic-interpretation"]
-primaryKeyword: "troponin after fall in elderly"
-topicCluster: "trauma-diagnostic-interpretation"
-image: ""
-relatedSlugs: ["myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions", "the-complete-guide-to-interpreting-nt-probnp-in-adults-76-with-ckd-stage-3b-and-anemia-why-standard-cutpoints-fail-and-what-adjusted-thresholds-to-use", "the-complete-guide-to-interpreting-your-cgm-s-time-in-range-metric-for-adults-75-with-fragile-glycemic-control-and-frequent-falls", "the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure", "the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance"]
+title: >-
+  When to Worry About 'Normal' Troponin I Levels After a Fall — Understanding
+  Age-Adjusted Cutoffs and Myocardial Contusion Risk in Adults 82+ With
+  Osteoporosis
+slug: >-
+  when-to-worry-about-normal-troponin-i-levels-after-a-fall-understanding-age-adjusted-cutoffs-and-myocardial-contusion-risk-in-adults-82-with-osteoporosis
+description: >-
+  Guides clinicians and families on interpreting troponin in frail older adults
+  after trauma — including false-negative risk, assay limitations, and
+  echocardiographic triage criteria.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: troponin after fall in elderly
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions
+  - >-
+    the-complete-guide-to-interpreting-nt-probnp-in-adults-76-with-ckd-stage-3b-and-anemia-why-standard-cutpoints-fail-and-what-adjusted-thresholds-to-use
+  - >-
+    the-complete-guide-to-interpreting-your-cgm-s-time-in-range-metric-for-adults-75-with-fragile-glycemic-control-and-frequent-falls
+  - >-
+    the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
+  - >-
+    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
 ---
 
 # When to Take Troponin After Fall in Elderly Seriously — Age-Adjusted Interpretation and Cardiac Risk in Frail Adults 82+

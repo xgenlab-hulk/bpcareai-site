@@ -6,12 +6,8 @@ description: >-
   lower arrhythmia risk during high-pressure times.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - stress reduction holiday heart
-  - holiday heart syndrome prevention
-  - emotional-mental-health
 primaryKeyword: stress reduction holiday heart
-topicCluster: mental-wellness
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally

@@ -6,12 +6,8 @@ description: >-
   straining aging joints.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - low-impact exercise for diabetes over 60
-  - diabetes
-  - diabetes-lifestyle
 primaryKeyword: low-impact exercise for diabetes over 60
-topicCluster: diabetes-care
+topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - can-walking-after-meals-lower-blood-sugar-in-older-adults

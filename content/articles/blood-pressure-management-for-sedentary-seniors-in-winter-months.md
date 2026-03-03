@@ -6,12 +6,8 @@ description: >-
   cardiovascular strain during colder, less active seasons.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - sedentary seniors blood pressure
-  - senior blood pressure control in winter
-  - audience-specific-care
 primaryKeyword: sedentary seniors blood pressure
-topicCluster: age-gender-specific
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know

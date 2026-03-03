@@ -1,14 +1,27 @@
 ---
-title: "12 Holiday Foods Seniors With Heart Failure Should Avoid—And What to Eat Instead"
-slug: "12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead"
-description: "A clinically grounded list of common holiday dishes that exacerbate fluid retention and ventricular strain in older adults with NYHA Class II–III heart failure, paired with safer, flavorful alternatives validated by cardiac dietitians."
-date: "2025-12-31"
-updated: "2025-12-31"
-tags: ["holiday foods for heart failure seniors", "healthy holiday eating for seniors", "cardiac-diet-heart-failure"]
-primaryKeyword: "holiday foods for heart failure seniors"
-topicCluster: "cardiac-diet-heart-failure"
-image: ""
-relatedSlugs: ["5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease", "the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70", "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors", "7-smart-swaps-for-healthier-holiday-meals-after-65"]
+title: >-
+  12 Holiday Foods Seniors With Heart Failure Should Avoid—And What to Eat
+  Instead
+slug: >-
+  12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
+description: >-
+  A clinically grounded list of common holiday dishes that exacerbate fluid
+  retention and ventricular strain in older adults with NYHA Class II–III heart
+  failure, paired with safer, flavorful alternatives validated by cardiac
+  dietitians.
+date: '2025-12-31'
+updated: '2025-12-31'
+primaryKeyword: holiday foods for heart failure seniors
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
 ---
 
 # Holiday Foods for Heart Failure Seniors: What to Skip—and What to Savor Instead

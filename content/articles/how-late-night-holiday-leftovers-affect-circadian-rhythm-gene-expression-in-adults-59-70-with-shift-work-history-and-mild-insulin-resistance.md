@@ -1,14 +1,29 @@
 ---
-title: "How Late-Night Holiday Leftovers Affect Circadian Rhythm Gene Expression in Adults 59–70 With Shift-Work History and Mild Insulin Resistance"
-slug: "how-late-night-holiday-leftovers-affect-circadian-rhythm-gene-expression-in-adults-59-70-with-shift-work-history-and-mild-insulin-resistance"
-description: "Draws on salivary cortisol, melatonin, and PER3 mRNA expression data from a 2023 chrononutrition trial examining timing effects of post-10 p.m. meals on metabolic flexibility and next-day glucose tolerance."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["late-night leftovers circadian gene expression", "healthy eating during family gatherings", "chrononutrition"]
-primaryKeyword: "late-night leftovers circadian gene expression"
-topicCluster: "chrononutrition"
-image: ""
-relatedSlugs: ["how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72", "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65", "how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history", "how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65", "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70"]
+title: >-
+  How Late-Night Holiday Leftovers Affect Circadian Rhythm Gene Expression in
+  Adults 59–70 With Shift-Work History and Mild Insulin Resistance
+slug: >-
+  how-late-night-holiday-leftovers-affect-circadian-rhythm-gene-expression-in-adults-59-70-with-shift-work-history-and-mild-insulin-resistance
+description: >-
+  Draws on salivary cortisol, melatonin, and PER3 mRNA expression data from a
+  2023 chrononutrition trial examining timing effects of post-10 p.m. meals on
+  metabolic flexibility and next-day glucose tolerance.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: late-night leftovers circadian gene expression
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history
+  - >-
+    how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65
+  - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
 ---
 
 # How Late-Night Leftovers Influence Circadian Gene Expression in Adults 59–70 With Shift-Work History and Mild Insulin Resistance

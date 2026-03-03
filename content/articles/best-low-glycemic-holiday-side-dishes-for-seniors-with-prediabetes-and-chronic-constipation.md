@@ -1,14 +1,26 @@
 ---
-title: "Best Low-Glycemic Holiday Side Dishes for Seniors With Prediabetes and Chronic Constipation"
-slug: "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation"
-description: "Curates 8 fiber-forward, low-GL sides (e.g., roasted fennel with lemon zest, barley-stuffed mushrooms) that balance fermentable vs. bulking fiber to optimize both glycemic control and colonic motility."
-date: "2025-12-30"
-updated: "2025-12-30"
-tags: ["low glycemic holiday sides constipation", "healthy holiday eating for seniors", "gastro-glycemic-diet"]
-primaryKeyword: "low glycemic holiday sides constipation"
-topicCluster: "gastro-glycemic-diet"
-image: ""
-relatedSlugs: ["best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd", "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs", "best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required", "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar", "10-high-fiber-holiday-foods-that-support-digestion-after-50"]
+title: >-
+  Best Low-Glycemic Holiday Side Dishes for Seniors With Prediabetes and Chronic
+  Constipation
+slug: >-
+  best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+description: >-
+  Curates 8 fiber-forward, low-GL sides (e.g., roasted fennel with lemon zest,
+  barley-stuffed mushrooms) that balance fermentable vs. bulking fiber to
+  optimize both glycemic control and colonic motility.
+date: '2025-12-30'
+updated: '2025-12-30'
+primaryKeyword: low glycemic holiday sides constipation
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
+  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
 ---
 
 # Low-Glycemic Holiday Sides for Constipation Relief & Blood Sugar Support in Seniors

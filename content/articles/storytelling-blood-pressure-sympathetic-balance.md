@@ -1,14 +1,30 @@
 ---
-title: "How Intergenerational Storytelling (Grandparent → Grandchild → Teen) Alters Sympathetic-Vagal Balance and Diastolic Pressure Trajectories in Adults 64+ With Prehypertension"
-slug: "how-intergenerational-storytelling-grandparent-grandchild-teen-alters-sympathetic-vagal-balance-and-diastolic-pressure-trajectories-in-adults-64-with-prehypertension"
-description: "Investigates vocal effort, emotional recall intensity, and post-activity HRV recovery patterns — with micro-interventions to preserve BP stability during family bonding."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["storytelling-blood-pressure-sympathetic-balance", "blood pressure", "social-engagement-autonomic-impact"]
-primaryKeyword: "storytelling-blood-pressure-sympathetic-balance"
-topicCluster: "social-engagement-autonomic-impact"
-image: ""
-relatedSlugs: ["how-long-distance-grandparenting-driving-lifting-and-managing-meltdowns-elevates-systolic-load-in-adults-65-with-stage-1-hypertension", "does-daily-10-minute-guided-vagal-breathing-lower-central-systolic-pressure-in-adults-60-73-with-elevated-aortic-augmentation-index-and-high-job-stress", "how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study", "a-vs-b-3-minute-chair-yoga-vs-3-minute-guided-breath-hold-4-7-8-for-immediate-systolic-reduction-in-adults-71-with-anxiety-driven-hypertension", "quick-ways-to-stabilize-heart-rate-variability-hrv-after-a-sudden-startle-for-adults-71-with-post-viral-autonomic-dysfunction"]
+title: >-
+  How Intergenerational Storytelling (Grandparent → Grandchild → Teen) Alters
+  Sympathetic-Vagal Balance and Diastolic Pressure Trajectories in Adults 64+
+  With Prehypertension
+slug: >-
+  how-intergenerational-storytelling-grandparent-grandchild-teen-alters-sympathetic-vagal-balance-and-diastolic-pressure-trajectories-in-adults-64-with-prehypertension
+description: >-
+  Investigates vocal effort, emotional recall intensity, and post-activity HRV
+  recovery patterns — with micro-interventions to preserve BP stability during
+  family bonding.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: storytelling-blood-pressure-sympathetic-balance
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-long-distance-grandparenting-driving-lifting-and-managing-meltdowns-elevates-systolic-load-in-adults-65-with-stage-1-hypertension
+  - >-
+    does-daily-10-minute-guided-vagal-breathing-lower-central-systolic-pressure-in-adults-60-73-with-elevated-aortic-augmentation-index-and-high-job-stress
+  - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
+  - >-
+    a-vs-b-3-minute-chair-yoga-vs-3-minute-guided-breath-hold-4-7-8-for-immediate-systolic-reduction-in-adults-71-with-anxiety-driven-hypertension
+  - >-
+    quick-ways-to-stabilize-heart-rate-variability-hrv-after-a-sudden-startle-for-adults-71-with-post-viral-autonomic-dysfunction
 ---
 
 # How Intergenerational Storytelling Supports Blood Pressure Stability and Autonomic Balance in Adults 64+

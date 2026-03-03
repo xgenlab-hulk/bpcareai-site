@@ -1,14 +1,30 @@
 ---
-title: "Warning Signs Your Home Blood Pressure Monitor Is Giving False-Low Readings Due to Arm Cuff Misalignment — Especially If You Have Lymphedema or Post-Mastectomy Swelling"
-slug: "warning-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-due-to-arm-cuff-misalignment-especially-if-you-have-lymphedema-or-post-mastectomy-swelling"
-description: "Identifies cuff fit errors, tissue density interference, and oscillometric algorithm limitations in patients with asymmetric upper limb volume — plus validation protocols."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["false low blood pressure readings lymphedema", "blood pressure", "monitoring-testing"]
-primaryKeyword: "false low blood pressure readings lymphedema"
-topicCluster: "monitoring-testing"
-image: ""
-relatedSlugs: ["12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring", "warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation", "warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema", "7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema", "warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse"]
+title: >-
+  Warning Signs Your Home Blood Pressure Monitor Is Giving False-Low Readings
+  Due to Arm Cuff Misalignment — Especially If You Have Lymphedema or
+  Post-Mastectomy Swelling
+slug: >-
+  warning-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-due-to-arm-cuff-misalignment-especially-if-you-have-lymphedema-or-post-mastectomy-swelling
+description: >-
+  Identifies cuff fit errors, tissue density interference, and oscillometric
+  algorithm limitations in patients with asymmetric upper limb volume — plus
+  validation protocols.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: false low blood pressure readings lymphedema
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
+  - >-
+    warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema
+  - >-
+    7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
 ---
 
 # Why You Might Be Getting False Low Blood Pressure Readings With Lymphedema — And How to Fix It

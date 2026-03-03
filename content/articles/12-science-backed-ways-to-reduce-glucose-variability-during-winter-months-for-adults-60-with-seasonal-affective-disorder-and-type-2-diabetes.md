@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Ways to Reduce Glucose Variability During Winter Months — For Adults 60+ With Seasonal Affective Disorder and Type 2 Diabetes"
-slug: "12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes"
-description: "Addresses circadian disruption, reduced daylight exposure, altered physical activity, and carb cravings — with circadian-light strategies, timed protein intake, and mood-supportive nutrition."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["reduce glucose variability winter older adults", "diabetes", "seasonal-glucose-management"]
-primaryKeyword: "reduce glucose variability winter older adults"
-topicCluster: "seasonal-glucose-management"
-image: ""
-relatedSlugs: ["how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70", "how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms", "12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols", "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes"]
+title: >-
+  12 Science-Backed Ways to Reduce Glucose Variability During Winter Months —
+  For Adults 60+ With Seasonal Affective Disorder and Type 2 Diabetes
+slug: >-
+  12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
+description: >-
+  Addresses circadian disruption, reduced daylight exposure, altered physical
+  activity, and carb cravings — with circadian-light strategies, timed protein
+  intake, and mood-supportive nutrition.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: reduce glucose variability winter older adults
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
+  - >-
+    how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
 ---
 
 # 12 Science-Backed Ways to Reduce Glucose Variability in Winter for Older Adults with Type 2 Diabetes and Seasonal Affective Disorder

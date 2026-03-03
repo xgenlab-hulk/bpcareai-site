@@ -10,12 +10,8 @@ description: >-
   without increasing afterload.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - aortic stenosis resistance exercises seniors
-  - heart disease
-  - exercise-aortic-stenosis
 primaryKeyword: aortic stenosis resistance exercises seniors
-topicCluster: exercise-aortic-stenosis
+topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter

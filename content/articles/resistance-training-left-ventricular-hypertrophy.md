@@ -11,12 +11,8 @@ description: >-
   tolerance—comparing outcomes to standard aerobic-only protocols.
 date: '2025-12-28'
 updated: '2025-12-28'
-tags:
-  - resistance training left ventricular hypertrophy
-  - heart disease
-  - exercise-cardiac-remodeling
 primaryKeyword: resistance training left ventricular hypertrophy
-topicCluster: exercise-cardiac-remodeling
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

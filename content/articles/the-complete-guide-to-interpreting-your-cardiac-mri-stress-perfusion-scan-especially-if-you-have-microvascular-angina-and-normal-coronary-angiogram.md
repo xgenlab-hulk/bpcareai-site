@@ -10,12 +10,8 @@ description: >-
   in women and diabetic patients.
 date: '2026-01-17'
 updated: '2026-01-17'
-tags:
-  - cardiac mri stress perfusion interpretation guide
-  - heart disease
-  - mri-perfusion-microvascular-angina
 primaryKeyword: cardiac mri stress perfusion interpretation guide
-topicCluster: mri-perfusion-microvascular-angina
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

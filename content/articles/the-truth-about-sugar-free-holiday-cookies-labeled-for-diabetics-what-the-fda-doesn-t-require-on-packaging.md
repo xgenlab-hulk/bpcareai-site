@@ -1,14 +1,27 @@
 ---
-title: "The Truth About 'Sugar-Free' Holiday Cookies Labeled for Diabetics—What the FDA Doesn’t Require on Packaging"
-slug: "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging"
-description: "Exposes hidden glycemic risks in maltitol-sweetened treats, explains why GI testing isn’t mandated for 'sugar-free' claims, and offers 4 lab-verified low-glycemic dessert alternatives."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["sugar-free cookies glycemic impact seniors", "healthy holiday eating for seniors", "food-labeling-transparency"]
-primaryKeyword: "sugar-free cookies glycemic impact seniors"
-topicCluster: "food-labeling-transparency"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels", "does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you", "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60"]
+title: >-
+  The Truth About 'Sugar-Free' Holiday Cookies Labeled for Diabetics—What the
+  FDA Doesn’t Require on Packaging
+slug: >-
+  the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+description: >-
+  Exposes hidden glycemic risks in maltitol-sweetened treats, explains why GI
+  testing isn’t mandated for 'sugar-free' claims, and offers 4 lab-verified
+  low-glycemic dessert alternatives.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: sugar-free cookies glycemic impact seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
+  - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - >-
+    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
 ---
 
 # What You Need to Know About Sugar-Free Cookies and Their Glycemic Impact on Seniors This Holiday Season

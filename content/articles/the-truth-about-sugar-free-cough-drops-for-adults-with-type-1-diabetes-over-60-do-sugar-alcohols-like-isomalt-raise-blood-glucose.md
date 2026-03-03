@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Sugar-Free' Cough Drops for Adults With Type 1 Diabetes Over 60—Do Sugar Alcohols Like Isomalt Raise Blood Glucose?"
-slug: "the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose"
-description: "Analyzes glycemic impact, laxative thresholds, and insulin dosing considerations for common OTC cough suppressants containing maltitol, isomalt, and erythritol in aging T1D."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["sugar-free cough drops and blood sugar in seniors", "diabetes", "otc-medications"]
-primaryKeyword: "sugar-free cough drops and blood sugar in seniors"
-topicCluster: "otc-medications"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors", "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose", "the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging", "does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely"]
+title: >-
+  The Truth About 'Sugar-Free' Cough Drops for Adults With Type 1 Diabetes Over
+  60—Do Sugar Alcohols Like Isomalt Raise Blood Glucose?
+slug: >-
+  the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
+description: >-
+  Analyzes glycemic impact, laxative thresholds, and insulin dosing
+  considerations for common OTC cough suppressants containing maltitol, isomalt,
+  and erythritol in aging T1D.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: sugar-free cough drops and blood sugar in seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+  - >-
+    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+  - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
 ---
 
 # Sugar-Free Cough Drops and Blood Sugar in Seniors: What Adults With Type 1 Diabetes Over 60 Really Need to Know

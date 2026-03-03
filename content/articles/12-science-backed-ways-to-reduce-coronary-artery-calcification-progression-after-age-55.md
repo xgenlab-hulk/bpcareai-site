@@ -10,12 +10,8 @@ description: >-
   RCTs.
 date: '2025-12-21'
 updated: '2025-12-21'
-tags:
-  - reduce coronary artery calcification progression
-  - heart disease
-  - prevention-coronary-calcification
 primaryKeyword: reduce coronary artery calcification progression
-topicCluster: prevention-coronary-calcification
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

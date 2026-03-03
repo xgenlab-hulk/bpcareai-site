@@ -1,14 +1,31 @@
 ---
-title: "Warning Signs of Acute Thiamine Depletion After Three Days of Holiday Pie-Only Snacking in Adults 55–65 With Alcohol Use History and Preexisting Peripheral Neuropathy"
-slug: "warning-signs-of-acute-thiamine-depletion-after-three-days-of-holiday-pie-only-snacking-in-adults-55-65-with-alcohol-use-history-and-preexisting-peripheral-neuropathy"
-description: "Identifies subtle, non-Wernicke neurological cues — including horizontal nystagmus on lateral gaze, abnormal pupillary light reflex latency, and reduced Achilles tendon reflex symmetry — that precede classic beriberi in at-risk middle-aged adults."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["holiday pie snacking thiamine depletion neuropathy", "healthy eating during family gatherings", "micronutrient-deficiency-early-signs"]
-primaryKeyword: "holiday pie snacking thiamine depletion neuropathy"
-topicCluster: "micronutrient-deficiency-early-signs"
-image: ""
-relatedSlugs: ["warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines", "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72", "when-to-suspect-holiday-induced-hyponatremia-in-adults-79-with-mild-cognitive-impairment-before-confusion-or-gait-instability-appears", "warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis", "best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes"]
+title: >-
+  Warning Signs of Acute Thiamine Depletion After Three Days of Holiday Pie-Only
+  Snacking in Adults 55–65 With Alcohol Use History and Preexisting Peripheral
+  Neuropathy
+slug: >-
+  warning-signs-of-acute-thiamine-depletion-after-three-days-of-holiday-pie-only-snacking-in-adults-55-65-with-alcohol-use-history-and-preexisting-peripheral-neuropathy
+description: >-
+  Identifies subtle, non-Wernicke neurological cues — including horizontal
+  nystagmus on lateral gaze, abnormal pupillary light reflex latency, and
+  reduced Achilles tendon reflex symmetry — that precede classic beriberi in
+  at-risk middle-aged adults.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: holiday pie snacking thiamine depletion neuropathy
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
+  - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
+  - >-
+    when-to-suspect-holiday-induced-hyponatremia-in-adults-79-with-mild-cognitive-impairment-before-confusion-or-gait-instability-appears
+  - >-
+    warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis
+  - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
 ---
 
 # Early Clues of Thiamine Depletion After Holiday Pie Snacking in Adults 55–65 With Neuropathy and Alcohol History

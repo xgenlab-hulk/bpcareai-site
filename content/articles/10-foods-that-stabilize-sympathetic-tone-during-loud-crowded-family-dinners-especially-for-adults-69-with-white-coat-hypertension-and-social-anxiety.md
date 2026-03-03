@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Stabilize Sympathetic Tone During Loud, Crowded Family Dinners — Especially for Adults 69+ With White-Coat Hypertension and Social Anxiety"
-slug: "10-foods-that-stabilize-sympathetic-tone-during-loud-crowded-family-dinners-especially-for-adults-69-with-white-coat-hypertension-and-social-anxiety"
-description: "Features magnesium- and GABA-rich foods with precise serving temps (e.g., warm roasted pumpkin seeds at 102°F) to blunt catecholamine surges during high-stimulus meals."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["foods sympathetic tone family gatherings anxiety", "healthy eating during family gatherings", "neuroendocrine-nutrition-stress"]
-primaryKeyword: "foods sympathetic tone family gatherings anxiety"
-topicCluster: "neuroendocrine-nutrition-stress"
-image: ""
-relatedSlugs: ["natural-ways-to-support-postprandial-cholinergic-tone-without-supplements-for-adults-66-79-with-mild-cognitive-impairment-and-family-dinner-overstimulation", "10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia", "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance", "10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress", "10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers"]
+title: >-
+  10 Foods That Stabilize Sympathetic Tone During Loud, Crowded Family Dinners —
+  Especially for Adults 69+ With White-Coat Hypertension and Social Anxiety
+slug: >-
+  10-foods-that-stabilize-sympathetic-tone-during-loud-crowded-family-dinners-especially-for-adults-69-with-white-coat-hypertension-and-social-anxiety
+description: >-
+  Features magnesium- and GABA-rich foods with precise serving temps (e.g., warm
+  roasted pumpkin seeds at 102°F) to blunt catecholamine surges during
+  high-stimulus meals.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: foods sympathetic tone family gatherings anxiety
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-postprandial-cholinergic-tone-without-supplements-for-adults-66-79-with-mild-cognitive-impairment-and-family-dinner-overstimulation
+  - >-
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
+  - >-
+    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+  - >-
+    10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress
+  - >-
+    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
 ---
 
 # Foods That Support Sympathetic Tone During Family Gatherings — A Calming Nutrition Guide for Adults 69+ With Social Anxiety and White-Coat Hypertension

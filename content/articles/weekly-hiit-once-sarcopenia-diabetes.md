@@ -1,14 +1,30 @@
 ---
-title: "What Research Says About Weekly High-Intensity Interval Training (HIIT) *Only on Tuesdays* — Mitochondrial Biogenesis, Glycemic Variability, and Skeletal Muscle Capillarization in Adults 71+ With Sarcopenia and Type 2 Diabetes"
-slug: "what-research-says-about-weekly-high-intensity-interval-training-hiit-only-on-tuesdays-mitochondrial-biogenesis-glycemic-variability-and-skeletal-muscle-capillarization-in-adults-71-with-sarcopenia-and-type-2-diabetes"
-description: "Analyzes findings from the 2024 SPRINT-HIIT trial: how single-day weekly HIIT, even at low volume (2 x 4 min @ 85% HRmax), induces PGC-1α–driven angiogenesis and reduces CGM SD by 22% over 12 weeks."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["weekly-hiit once sarcopenia diabetes", "diabetes", "exercise-frequency-mitochondria"]
-primaryKeyword: "weekly-hiit once sarcopenia diabetes"
-topicCluster: "exercise-frequency-mitochondria"
-image: ""
-relatedSlugs: ["natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes", "what-research-says-about-high-intensity-interval-training-vs-zone-2-walking-for-diastolic-bp-reduction-in-obese-adults-59-73", "what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension", "does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65"]
+title: >-
+  What Research Says About Weekly High-Intensity Interval Training (HIIT) *Only
+  on Tuesdays* — Mitochondrial Biogenesis, Glycemic Variability, and Skeletal
+  Muscle Capillarization in Adults 71+ With Sarcopenia and Type 2 Diabetes
+slug: >-
+  what-research-says-about-weekly-high-intensity-interval-training-hiit-only-on-tuesdays-mitochondrial-biogenesis-glycemic-variability-and-skeletal-muscle-capillarization-in-adults-71-with-sarcopenia-and-type-2-diabetes
+description: >-
+  Analyzes findings from the 2024 SPRINT-HIIT trial: how single-day weekly HIIT,
+  even at low volume (2 x 4 min @ 85% HRmax), induces PGC-1α–driven angiogenesis
+  and reduces CGM SD by 22% over 12 weeks.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: weekly-hiit once sarcopenia diabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes
+  - >-
+    what-research-says-about-high-intensity-interval-training-vs-zone-2-walking-for-diastolic-bp-reduction-in-obese-adults-59-73
+  - >-
+    what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
+  - >-
+    does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
 ---
 
 # Can Weekly HIIT—Just Once a Week—Support Muscle, Metabolism, and Blood Sugar in Older Adults with Sarcopenia and Type 2 Diabetes?

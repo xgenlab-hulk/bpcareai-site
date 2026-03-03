@@ -1,14 +1,26 @@
 ---
-title: "How Holiday Travel Disrupts Circadian Rhythms—and Why That Worsens Postprandial Glucose Spikes in Adults 65+ With Prediabetes"
-slug: "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes"
-description: "Explores the underrecognized link between jet lag, meal timing misalignment, and impaired glucose tolerance during holiday trips, with evidence-based re-synchronization strategies for older adults."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["holiday travel circadian glucose spikes seniors", "healthy holiday eating for seniors", "circadian-rhythm-glucose-regulation"]
-primaryKeyword: "holiday travel circadian glucose spikes seniors"
-topicCluster: "circadian-rhythm-glucose-regulation"
-image: ""
-relatedSlugs: ["how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes", "how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes", "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50", "the-connection-between-holiday-light-exposure-and-blood-sugar-regulation", "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks"]
+title: >-
+  How Holiday Travel Disrupts Circadian Rhythms—and Why That Worsens
+  Postprandial Glucose Spikes in Adults 65+ With Prediabetes
+slug: >-
+  how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+description: >-
+  Explores the underrecognized link between jet lag, meal timing misalignment,
+  and impaired glucose tolerance during holiday trips, with evidence-based
+  re-synchronization strategies for older adults.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: holiday travel circadian glucose spikes seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+  - >-
+    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
+  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
+  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
 ---
 
 # How Holiday Travel Disrupts Circadian Rhythms—and Why That Elevates Post-Meal Glucose Spikes in Seniors with Prediabetes

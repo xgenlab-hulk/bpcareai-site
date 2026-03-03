@@ -1,14 +1,26 @@
 ---
-title: "The Complete Guide to Managing Blood Pressure *While* Caring for a Spouse With Dementia — Stress Resilience, Sleep Fragmentation, and Medication Adherence Trade-Offs in Adults 65–79"
-slug: "the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79"
-description: "Addresses the unique hypertensive burden of spousal caregivers, including cortisol–renin dysrhythmia, missed dosing windows, and adaptive home BP tracking protocols."
-date: "2026-02-28"
-updated: "2026-02-28"
-tags: ["blood pressure management dementia caregiver", "blood pressure", "caregiver-health"]
-primaryKeyword: "blood pressure management dementia caregiver"
-topicCluster: "caregiver-health"
-image: ""
-relatedSlugs: ["blood-pressure-caregiver-parkinsons-spouse", "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout", "diabetes-management-dementia-caregiver-seniors", "diabetes-management-dementia-caregiver", "diabetes-management-dementia-caregiver-support"]
+title: >-
+  The Complete Guide to Managing Blood Pressure *While* Caring for a Spouse With
+  Dementia — Stress Resilience, Sleep Fragmentation, and Medication Adherence
+  Trade-Offs in Adults 65–79
+slug: >-
+  the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79
+description: >-
+  Addresses the unique hypertensive burden of spousal caregivers, including
+  cortisol–renin dysrhythmia, missed dosing windows, and adaptive home BP
+  tracking protocols.
+date: '2026-02-28'
+updated: '2026-02-28'
+primaryKeyword: blood pressure management dementia caregiver
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - blood-pressure-caregiver-parkinsons-spouse
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
+  - diabetes-management-dementia-caregiver-seniors
+  - diabetes-management-dementia-caregiver
+  - diabetes-management-dementia-caregiver-support
 ---
 
 # Blood Pressure Management for Dementia Caregivers: A Gentle, Practical Guide for Spouses Ages 65–79

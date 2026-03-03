@@ -1,14 +1,29 @@
 ---
-title: "Why Your Blood Pressure Dips *Too Much* After Walking — Not Just 'Normal Recovery' — In Adults 74+ With Early Cardiac Amyloidosis"
-slug: "why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis"
-description: "Distinguishes pathological post-exercise hypotension due to impaired myocardial compliance and autonomic neuropathy from benign vasodilation in aging hearts."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["post-walk hypotension in cardiac amyloidosis", "blood pressure", "amyloid-cardiac-autonomic-dysfunction"]
-primaryKeyword: "post-walk hypotension in cardiac amyloidosis"
-topicCluster: "amyloid-cardiac-autonomic-dysfunction"
-image: ""
-relatedSlugs: ["what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension", "when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67", "when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram", "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction", "when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness"]
+title: >-
+  Why Your Blood Pressure Dips *Too Much* After Walking — Not Just 'Normal
+  Recovery' — In Adults 74+ With Early Cardiac Amyloidosis
+slug: >-
+  why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis
+description: >-
+  Distinguishes pathological post-exercise hypotension due to impaired
+  myocardial compliance and autonomic neuropathy from benign vasodilation in
+  aging hearts.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: post-walk hypotension in cardiac amyloidosis
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+  - >-
+    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
 ---
 
 # Understanding Post-Walk Hypotension in Cardiac Amyloidosis: When Blood Pressure Drops Too Far After Gentle Exercise in Adults 74+

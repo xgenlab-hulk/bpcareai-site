@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Improve Coronary Flow Reserve Within 45 Minutes — Based on PET-CT Data in Adults 57–69 With Microvascular Angina"
-slug: "10-foods-that-improve-coronary-flow-reserve-within-45-minutes-based-on-pet-ct-data-in-adults-57-69-with-microvascular-angina"
-description: "Features acute vasodilatory foods (e.g., dark cacao 85%, pomegranate arils, fermented garlic) with quantified CFR % increases and ideal dosing windows pre-stress testing."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["foods improve coronary flow reserve microvascular angina", "heart disease", "microvascular-vasodilation"]
-primaryKeyword: "foods improve coronary flow reserve microvascular angina"
-topicCluster: "microvascular-vasodilation"
-image: ""
-relatedSlugs: ["5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms", "10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity", "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina", "10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl", "natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad"]
+title: >-
+  10 Foods That Improve Coronary Flow Reserve Within 45 Minutes — Based on
+  PET-CT Data in Adults 57–69 With Microvascular Angina
+slug: >-
+  10-foods-that-improve-coronary-flow-reserve-within-45-minutes-based-on-pet-ct-data-in-adults-57-69-with-microvascular-angina
+description: >-
+  Features acute vasodilatory foods (e.g., dark cacao 85%, pomegranate arils,
+  fermented garlic) with quantified CFR % increases and ideal dosing windows
+  pre-stress testing.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: foods improve coronary flow reserve microvascular angina
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
+  - >-
+    10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
+  - >-
+    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+  - >-
+    10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
+  - >-
+    natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad
 ---
 
 # 10 Foods That Support Coronary Flow Reserve in Microvascular Angina — Evidence from PET-CT Studies in Adults 57–69

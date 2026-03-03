@@ -12,12 +12,8 @@ description: >-
   cardiology teams.
 date: '2026-01-28'
 updated: '2026-01-28'
-tags:
-  - weight loss heart failure elderly prognosis
-  - heart health
-  - frailty-cachexia-cardiovascular-prognosis
 primaryKeyword: weight loss heart failure elderly prognosis
-topicCluster: frailty-cachexia-cardiovascular-prognosis
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

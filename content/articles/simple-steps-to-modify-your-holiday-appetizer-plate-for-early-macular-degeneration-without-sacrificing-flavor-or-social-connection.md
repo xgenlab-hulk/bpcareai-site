@@ -1,14 +1,29 @@
 ---
-title: "Simple Steps to Modify Your Holiday Appetizer Plate for Early Macular Degeneration—Without Sacrificing Flavor or Social Connection"
-slug: "simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection"
-description: "Offers evidence-based visual and sensory adaptations—including lutein-rich garnishes, contrast-enhancing plating, and texture-modified dips—designed specifically for age-related vision loss and dining autonomy."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["holiday appetizers macular degeneration", "healthy holiday eating for seniors", "vision-accessible-diet"]
-primaryKeyword: "holiday appetizers macular degeneration"
-topicCluster: "vision-accessible-diet"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68", "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration", "simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease", "10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia", "5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps"]
+title: >-
+  Simple Steps to Modify Your Holiday Appetizer Plate for Early Macular
+  Degeneration—Without Sacrificing Flavor or Social Connection
+slug: >-
+  simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
+description: >-
+  Offers evidence-based visual and sensory adaptations—including lutein-rich
+  garnishes, contrast-enhancing plating, and texture-modified dips—designed
+  specifically for age-related vision loss and dining autonomy.
+date: '2025-12-29'
+updated: '2025-12-29'
+primaryKeyword: holiday appetizers macular degeneration
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
+  - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
+  - >-
+    5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
 ---
 
 # Holiday Appetizers for Macular Degeneration: Flavorful, Vision-Friendly Tweaks That Keep You at the Table

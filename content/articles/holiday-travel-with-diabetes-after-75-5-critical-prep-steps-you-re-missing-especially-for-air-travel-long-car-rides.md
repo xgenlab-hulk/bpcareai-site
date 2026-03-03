@@ -1,14 +1,26 @@
 ---
-title: "Holiday Travel With Diabetes After 75: 5 Critical Prep Steps You’re Missing (Especially for Air Travel & Long Car Rides)"
-slug: "holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides"
-description: "Covers temperature-sensitive insulin storage, time-zone–adjusted dosing, emergency carb access protocols, and TSA-compliant documentation for older adults with reduced mobility or mild cognitive changes."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["diabetes travel prep after 75", "holiday diabetes management", "travel-logistics-older-adults"]
-primaryKeyword: "diabetes travel prep after 75"
-topicCluster: "travel-logistics-older-adults"
-image: ""
-relatedSlugs: ["managing-diabetes-while-traveling-tips-for-seniors", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide", "10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes", "top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season"]
+title: >-
+  Holiday Travel With Diabetes After 75: 5 Critical Prep Steps You’re Missing
+  (Especially for Air Travel & Long Car Rides)
+slug: >-
+  holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
+description: >-
+  Covers temperature-sensitive insulin storage, time-zone–adjusted dosing,
+  emergency carb access protocols, and TSA-compliant documentation for older
+  adults with reduced mobility or mild cognitive changes.
+date: '2025-12-24'
+updated: '2025-12-24'
+primaryKeyword: diabetes travel prep after 75
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+  - >-
+    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
 ---
 
 # Holiday Travel With Diabetes After 75: Smart, Stress-Free Diabetes Travel Prep After 75

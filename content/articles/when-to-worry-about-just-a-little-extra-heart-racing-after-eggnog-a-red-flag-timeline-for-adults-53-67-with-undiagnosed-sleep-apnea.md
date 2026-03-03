@@ -1,14 +1,30 @@
 ---
-title: "When to Worry About 'Just a Little Extra Heart Racing' After Eggnog — A Red Flag Timeline for Adults 53–67 With Undiagnosed Sleep Apnea"
-slug: "when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea"
-description: "Presents a symptom-duration progression model (0–2 hrs → 2–6 hrs → >6 hrs) linking transient tachycardia post-holiday drink to apnea-related hypoxia, catecholamine surges, and atrial remodeling — with actionable thresholds for ECG patch referral."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["holiday heart racing sleep apnea red flags", "holiday heart syndrome prevention", "emergency-symptom-timing"]
-primaryKeyword: "holiday heart racing sleep apnea red flags"
-topicCluster: "emergency-symptom-timing"
-image: ""
-relatedSlugs: ["when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension", "warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71", "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else", "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60", "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve"]
+title: >-
+  When to Worry About 'Just a Little Extra Heart Racing' After Eggnog — A Red
+  Flag Timeline for Adults 53–67 With Undiagnosed Sleep Apnea
+slug: >-
+  when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea
+description: >-
+  Presents a symptom-duration progression model (0–2 hrs → 2–6 hrs → >6 hrs)
+  linking transient tachycardia post-holiday drink to apnea-related hypoxia,
+  catecholamine surges, and atrial remodeling — with actionable thresholds for
+  ECG patch referral.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: holiday heart racing sleep apnea red flags
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
 ---
 
 # When Holiday Heart Racing Sleep Apnea Red Flags Demand Your Attention — A Timely Guide for Adults 53–67

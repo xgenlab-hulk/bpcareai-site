@@ -6,12 +6,8 @@ description: >-
   holiday-related arrhythmias for midlife and older adults.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - complete guide holiday heart syndrome
-  - holiday heart syndrome prevention
-  - prevention-strategies
 primaryKeyword: complete guide holiday heart syndrome
-topicCluster: preventive-care
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat

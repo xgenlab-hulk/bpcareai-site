@@ -1,14 +1,26 @@
 ---
-title: "How Indoor Air Quality Changes During Winter Affect Fasting Glucose in Adults 65+ With Type 2 Diabetes"
-slug: "how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes"
-description: "Explores the underrecognized link between seasonal indoor pollutants (e.g., CO₂ buildup, VOCs from heating systems) and overnight glycemic variability — with actionable ventilation and monitoring strategies for colder months."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["winter indoor air glucose control seniors", "diabetes", "seasonal-environmental-impact"]
-primaryKeyword: "winter indoor air glucose control seniors"
-topicCluster: "seasonal-environmental-impact"
-image: ""
-relatedSlugs: ["how-indoor-air-quality-affects-heart-health-in-winter", "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity", "how-cold-weather-affects-blood-sugar-in-people-with-diabetes"]
+title: >-
+  How Indoor Air Quality Changes During Winter Affect Fasting Glucose in Adults
+  65+ With Type 2 Diabetes
+slug: >-
+  how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
+description: >-
+  Explores the underrecognized link between seasonal indoor pollutants (e.g.,
+  CO₂ buildup, VOCs from heating systems) and overnight glycemic variability —
+  with actionable ventilation and monitoring strategies for colder months.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: winter indoor air glucose control seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - how-indoor-air-quality-affects-heart-health-in-winter
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
 ---
 
 # How Winter Indoor Air Quality Impacts Glucose Control in Seniors With Type 2 Diabetes

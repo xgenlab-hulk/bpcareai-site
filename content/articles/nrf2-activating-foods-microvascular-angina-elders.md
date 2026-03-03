@@ -1,14 +1,30 @@
 ---
-title: "10 Foods That Activate Nrf2 Pathway to Reduce Oxidative Stress in Coronary Endothelium—Backed by Microvascular Reactivity Testing in Adults 62–76 With Microvascular Angina"
-slug: "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina"
-description: "Highlights sulforaphane, allicin, and ellagic acid sources—and why timing (e.g., raw vs cooked broccoli) and gut-microbiome compatibility determine efficacy."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["Nrf2-activating foods microvascular angina elders", "heart disease", "endothelial-oxidative-stress-nutrition"]
-primaryKeyword: "Nrf2-activating foods microvascular angina elders"
-topicCluster: "endothelial-oxidative-stress-nutrition"
-image: ""
-relatedSlugs: ["12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration", "5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms", "10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max"]
+title: >-
+  10 Foods That Activate Nrf2 Pathway to Reduce Oxidative Stress in Coronary
+  Endothelium—Backed by Microvascular Reactivity Testing in Adults 62–76 With
+  Microvascular Angina
+slug: >-
+  10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+description: >-
+  Highlights sulforaphane, allicin, and ellagic acid sources—and why timing
+  (e.g., raw vs cooked broccoli) and gut-microbiome compatibility determine
+  efficacy.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: Nrf2-activating foods microvascular angina elders
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
+  - >-
+    5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
+  - >-
+    10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
 ---
 
 # 10 Nrf2-Activating Foods for Microvascular Angina in Elders: Supporting Coronary Endothelial Health Through Nutrition

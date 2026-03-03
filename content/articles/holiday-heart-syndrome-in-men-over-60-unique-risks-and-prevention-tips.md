@@ -6,12 +6,8 @@ description: >-
   holiday season and tailored prevention approaches.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - holiday heart syndrome men
-  - holiday heart syndrome prevention
-  - gender-specific-concerns
 primaryKeyword: holiday heart syndrome men
-topicCluster: age-gender-specific
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

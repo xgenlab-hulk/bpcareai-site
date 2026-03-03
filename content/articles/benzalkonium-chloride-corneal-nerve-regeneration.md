@@ -11,12 +11,8 @@ description: >-
   preservative-free alternatives and re-epithelialization accelerants.
 date: '2026-02-12'
 updated: '2026-02-12'
-tags:
-  - benzalkonium chloride corneal nerve regeneration
-  - diabetes
-  - ophthalmic-preservative-neuropathy
 primaryKeyword: benzalkonium chloride corneal nerve regeneration
-topicCluster: ophthalmic-preservative-neuropathy
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

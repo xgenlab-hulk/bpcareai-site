@@ -1,14 +1,25 @@
 ---
-title: "12 Holiday Foods Seniors 70+ Can Eat Without Spiking Blood Sugar or Blood Pressure"
-slug: "12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure"
-description: "A practical, plate-by-plate guide to festive foods that align with common age-related metabolic and vascular constraints—including sodium sensitivity, delayed gastric emptying, and postprandial glucose dysregulation."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["holiday foods for seniors 70+", "healthy holiday eating for seniors", "diet-nutrition-safe-foods"]
-primaryKeyword: "holiday foods for seniors 70+"
-topicCluster: "diet-nutrition-safe-foods"
-image: ""
-relatedSlugs: ["how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75", "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"]
+title: >-
+  12 Holiday Foods Seniors 70+ Can Eat Without Spiking Blood Sugar or Blood
+  Pressure
+slug: >-
+  12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
+description: >-
+  A practical, plate-by-plate guide to festive foods that align with common
+  age-related metabolic and vascular constraints—including sodium sensitivity,
+  delayed gastric emptying, and postprandial glucose dysregulation.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: holiday foods for seniors 70+
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # 12 Holiday Foods for Seniors 70+ That Support Stable Blood Sugar and Healthy Blood Pressure

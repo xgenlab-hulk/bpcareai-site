@@ -1,14 +1,26 @@
 ---
-title: "5 Things Everyone Over 60 Should Know About Insulin Titration During Winter — When Basal Needs Shift Due to Reduced Cutaneous Blood Flow"
-slug: "5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow"
-description: "Explains cold-induced peripheral vasoconstriction effects on insulin absorption kinetics, with seasonal dose-adjustment algorithms and site-rotation strategies for older adults on basal insulin."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["insulin titration winter seniors cutaneous blood flow", "diabetes", "seasonal-insulin-physiology"]
-primaryKeyword: "insulin titration winter seniors cutaneous blood flow"
-topicCluster: "seasonal-insulin-physiology"
-image: ""
-relatedSlugs: ["how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity", "simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69", "does-layering-clothes-help-regulate-blood-pressure-in-cold-climates", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "5-common-medication-adjustments-seniors-need-in-winter"]
+title: >-
+  5 Things Everyone Over 60 Should Know About Insulin Titration During Winter —
+  When Basal Needs Shift Due to Reduced Cutaneous Blood Flow
+slug: >-
+  5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
+description: >-
+  Explains cold-induced peripheral vasoconstriction effects on insulin
+  absorption kinetics, with seasonal dose-adjustment algorithms and
+  site-rotation strategies for older adults on basal insulin.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: insulin titration winter seniors cutaneous blood flow
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - >-
+    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
+  - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - 5-common-medication-adjustments-seniors-need-in-winter
 ---
 
 # What Seniors Need to Know About Insulin Titration in Winter: How Cold Weather Affects Absorption and What to Do

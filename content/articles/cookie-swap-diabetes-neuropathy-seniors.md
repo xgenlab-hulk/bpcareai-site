@@ -1,14 +1,29 @@
 ---
-title: "5 Things You Should Know Before Accepting a Holiday Cookie Swap — Especially If You’re 81+ With Severe Peripheral Neuropathy and Nocturnal Hypoglycemia History"
-slug: "5-things-you-should-know-before-accepting-a-holiday-cookie-swap-especially-if-you-re-81-with-severe-peripheral-neuropathy-and-nocturnal-hypoglycemia-history"
-description: "Addresses real-world social pressure, hidden carb counts in 'healthy' swaps (oat-based, fruit-sweetened), and how neuropathy masks hypoglycemia warning signs — with safe refusal scripts and alternatives."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["cookie swap diabetes neuropathy seniors", "holiday diabetes management", "social-nutrition-safety"]
-primaryKeyword: "cookie swap diabetes neuropathy seniors"
-topicCluster: "social-nutrition-safety"
-image: ""
-relatedSlugs: ["5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy", "12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72", "the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature"]
+title: >-
+  5 Things You Should Know Before Accepting a Holiday Cookie Swap — Especially
+  If You’re 81+ With Severe Peripheral Neuropathy and Nocturnal Hypoglycemia
+  History
+slug: >-
+  5-things-you-should-know-before-accepting-a-holiday-cookie-swap-especially-if-you-re-81-with-severe-peripheral-neuropathy-and-nocturnal-hypoglycemia-history
+description: >-
+  Addresses real-world social pressure, hidden carb counts in 'healthy' swaps
+  (oat-based, fruit-sweetened), and how neuropathy masks hypoglycemia warning
+  signs — with safe refusal scripts and alternatives.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: cookie swap diabetes neuropathy seniors
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+  - >-
+    12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
 ---
 
 # What You Should Know Before Joining a Holiday Cookie Swap — Especially If You’re 81+ With Peripheral Neuropathy and Nocturnal Hypoglycemia (cookie swap diabetes neuropathy seniors)

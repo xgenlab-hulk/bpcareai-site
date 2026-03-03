@@ -6,12 +6,8 @@ description: >-
   infection risks.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - diabetes and slow wound healing in elderly
-  - diabetes
-  - diabetes-complications
 primaryKeyword: diabetes and slow wound healing in elderly
-topicCluster: complications-comorbidities
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - diabetes-and-vision-changes-what-seniors-need-to-know

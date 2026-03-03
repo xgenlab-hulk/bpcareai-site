@@ -1,14 +1,29 @@
 ---
-title: "What Are the Earliest Signs of Hypertensive Retinopathy on Home Fundus Photos — And When to See a Retinal Specialist If You’re 68+ With Uncontrolled BP"
-slug: "what-are-the-earliest-signs-of-hypertensive-retinopathy-on-home-fundus-photos-and-when-to-see-a-retinal-specialist-if-you-re-68-with-uncontrolled-bp"
-description: "Guides users on interpreting smartphone-captured retinal images for arteriolar narrowing, AV nicking, and microhemorrhages — with red-flag thresholds and tele-ophthalmology triage pathways."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["hypertensive retinopathy home detection", "blood pressure", "early-organ-damage"]
-primaryKeyword: "hypertensive retinopathy home detection"
-topicCluster: "early-organ-damage"
-image: ""
-relatedSlugs: ["what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65", "7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints", "what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80", "what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease", "what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose"]
+title: >-
+  What Are the Earliest Signs of Hypertensive Retinopathy on Home Fundus Photos
+  — And When to See a Retinal Specialist If You’re 68+ With Uncontrolled BP
+slug: >-
+  what-are-the-earliest-signs-of-hypertensive-retinopathy-on-home-fundus-photos-and-when-to-see-a-retinal-specialist-if-you-re-68-with-uncontrolled-bp
+description: >-
+  Guides users on interpreting smartphone-captured retinal images for arteriolar
+  narrowing, AV nicking, and microhemorrhages — with red-flag thresholds and
+  tele-ophthalmology triage pathways.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: hypertensive retinopathy home detection
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
+  - >-
+    7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
+  - >-
+    what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose
 ---
 
 # Early Hypertensive Retinopathy Home Detection: What to Look for in Smartphone Retinal Photos — And When to Act at Age 68+

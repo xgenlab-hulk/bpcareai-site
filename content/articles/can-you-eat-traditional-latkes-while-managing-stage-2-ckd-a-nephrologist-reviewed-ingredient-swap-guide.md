@@ -1,14 +1,29 @@
 ---
-title: "Can You Eat Traditional Latkes While Managing Stage 2 CKD? A Nephrologist-Reviewed Ingredient Swap Guide"
-slug: "can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide"
-description: "Step-by-step modification of classic potato pancakes for adults with early chronic kidney disease—focusing on potassium, phosphorus, and sodium control without sacrificing flavor or cultural meaning."
-date: "2025-12-23"
-updated: "2025-12-23"
-tags: ["kidney-friendly latkes stage 2 ckd", "healthy eating during family gatherings", "renal-diet-modification"]
-primaryKeyword: "kidney-friendly latkes stage 2 ckd"
-topicCluster: "renal-diet-modification"
-image: ""
-relatedSlugs: ["a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension", "a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease", "the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease", "5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor"]
+title: >-
+  Can You Eat Traditional Latkes While Managing Stage 2 CKD? A
+  Nephrologist-Reviewed Ingredient Swap Guide
+slug: >-
+  can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
+description: >-
+  Step-by-step modification of classic potato pancakes for adults with early
+  chronic kidney disease—focusing on potassium, phosphorus, and sodium control
+  without sacrificing flavor or cultural meaning.
+date: '2025-12-23'
+updated: '2025-12-23'
+primaryKeyword: kidney-friendly latkes stage 2 ckd
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
+  - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
+  - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
+  - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
 ---
 
 # Kidney-Friendly Latkes for Stage 2 CKD: A Warm, Flavorful Guide to Enjoying Tradition Safely

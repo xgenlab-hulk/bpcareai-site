@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Diabetes-Friendly' Breakfast Cereals Marketed to Seniors — Hidden Glycemic Load, Added Maltodextrin, and the 3-Ingredient Label Trick"
-slug: "the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick"
-description: "Debunks marketing claims on popular shelf-stable cereals sold in pharmacies and senior centers, revealing how formulation choices spike postprandial glucose despite 'no added sugar' labeling."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["diabetes-friendly cereal hidden sugars seniors", "diabetes", "food-labeling-deception"]
-primaryKeyword: "diabetes-friendly cereal hidden sugars seniors"
-topicCluster: "food-labeling-deception"
-image: ""
-relatedSlugs: ["the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60", "the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you", "the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal", "the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging"]
+title: >-
+  The Truth About 'Diabetes-Friendly' Breakfast Cereals Marketed to Seniors —
+  Hidden Glycemic Load, Added Maltodextrin, and the 3-Ingredient Label Trick
+slug: >-
+  the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick
+description: >-
+  Debunks marketing claims on popular shelf-stable cereals sold in pharmacies
+  and senior centers, revealing how formulation choices spike postprandial
+  glucose despite 'no added sugar' labeling.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: diabetes-friendly cereal hidden sugars seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
+  - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - >-
+    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
 ---
 
 # What Seniors Need to Know About ‘Diabetes-Friendly’ Cereal Labels — Unmasking Hidden Sugars and Glycemic Traps

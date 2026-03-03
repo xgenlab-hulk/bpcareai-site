@@ -1,14 +1,29 @@
 ---
-title: "How Sudden Hearing Loss Triggers Acute Hyperglycemia in Adults 63+ With Prediabetes — And Why It’s Not Just Stress"
-slug: "how-sudden-hearing-loss-triggers-acute-hyperglycemia-in-adults-63-with-prediabetes-and-why-it-s-not-just-stress"
-description: "Explores the cochlear-inflammatory–HPA axis cascade, glucocorticoid-mediated GLUT4 downregulation in skeletal muscle, and transient insulin resistance following acute sensorineural injury — with 72-hour glucose monitoring guidance."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["sudden hearing loss hyperglycemia prediabetes", "diabetes", "acute-condition-glucose-dysregulation"]
-primaryKeyword: "sudden hearing loss hyperglycemia prediabetes"
-topicCluster: "acute-condition-glucose-dysregulation"
-image: ""
-relatedSlugs: ["7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64", "what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response", "how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70", "blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70", "why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression"]
+title: >-
+  How Sudden Hearing Loss Triggers Acute Hyperglycemia in Adults 63+ With
+  Prediabetes — And Why It’s Not Just Stress
+slug: >-
+  how-sudden-hearing-loss-triggers-acute-hyperglycemia-in-adults-63-with-prediabetes-and-why-it-s-not-just-stress
+description: >-
+  Explores the cochlear-inflammatory–HPA axis cascade, glucocorticoid-mediated
+  GLUT4 downregulation in skeletal muscle, and transient insulin resistance
+  following acute sensorineural injury — with 72-hour glucose monitoring
+  guidance.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: sudden hearing loss hyperglycemia prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
+  - >-
+    what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - >-
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
 ---
 
 # Sudden Hearing Loss, Hyperglycemia, and Prediabetes in Adults 63+: What’s Really Happening

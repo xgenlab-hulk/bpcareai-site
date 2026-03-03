@@ -1,14 +1,27 @@
 ---
-title: "The Complete Guide to Safe Holiday Baking for Adults 58+ With Latex-Food Cross-Reactivity (e.g., Banana, Avocado, Kiwi Sensitivities)"
-slug: "the-complete-guide-to-safe-holiday-baking-for-adults-58-with-latex-food-cross-reactivity-e-g-banana-avocado-kiwi-sensitivities"
-description: "A step-by-step allergen-aware baking protocol—including safe egg/milk/nut substitutes, cross-contact prevention in shared kitchens, and label-reading hacks for festive food gifts."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["safe holiday baking latex food allergy seniors", "healthy holiday eating for seniors", "food-allergy-baking-safety"]
-primaryKeyword: "safe holiday baking latex food allergy seniors"
-topicCluster: "food-allergy-baking-safety"
-image: ""
-relatedSlugs: ["easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis", "the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration", "simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity", "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors"]
+title: >-
+  The Complete Guide to Safe Holiday Baking for Adults 58+ With Latex-Food
+  Cross-Reactivity (e.g., Banana, Avocado, Kiwi Sensitivities)
+slug: >-
+  the-complete-guide-to-safe-holiday-baking-for-adults-58-with-latex-food-cross-reactivity-e-g-banana-avocado-kiwi-sensitivities
+description: >-
+  A step-by-step allergen-aware baking protocol—including safe egg/milk/nut
+  substitutes, cross-contact prevention in shared kitchens, and label-reading
+  hacks for festive food gifts.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: safe holiday baking latex food allergy seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis
+  - >-
+    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
+  - >-
+    simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # Safe Holiday Baking for Seniors with Latex-Food Cross-Reactivity: A Gentle, Step-by-Step Guide

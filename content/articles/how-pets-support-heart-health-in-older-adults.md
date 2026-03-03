@@ -6,10 +6,6 @@ description: >-
   improve cardiovascular outcomes.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - pets and heart health in seniors
-  - heart health
-  - heart-health
 primaryKeyword: pets and heart health in seniors
 topicCluster: cardiovascular-health
 image: ''

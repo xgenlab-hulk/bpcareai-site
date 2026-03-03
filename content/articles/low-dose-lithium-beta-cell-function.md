@@ -1,14 +1,28 @@
 ---
-title: "How Chronic Low-Dose Lithium (0.3 mg/day) Affects Beta-Cell Autophagy and Mitochondrial Turnover in Adults 59–67 With Long-Standing Type 2 Diabetes — A 2024 Pilot Study Update"
-slug: "how-chronic-low-dose-lithium-0-3-mg-day-affects-beta-cell-autophagy-and-mitochondrial-turnover-in-adults-59-67-with-long-standing-type-2-diabetes-a-2024-pilot-study-update"
-description: "Reviews emerging data on ultra-low-dose lithium’s role in enhancing beta-cell mitophagy and reducing amyloid deposition—without mood effects or renal toxicity—highlighting optimal dosing and monitoring parameters."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["low-dose lithium beta-cell function", "diabetes", "micronutrient-beta-cell-regulation"]
-primaryKeyword: "low-dose lithium beta-cell function"
-topicCluster: "micronutrient-beta-cell-regulation"
-image: ""
-relatedSlugs: ["natural-ways-to-improve-insulin-receptor-tyrosine-kinase-activity-without-increasing-oxidative-burden-using-low-dose-lithium-orotate-alpha-lipoic-acid-in-adults-65-with-long-standing-diabetes-and-elevated-8-ohdg", "natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia", "how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis", "natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements"]
+title: >-
+  How Chronic Low-Dose Lithium (0.3 mg/day) Affects Beta-Cell Autophagy and
+  Mitochondrial Turnover in Adults 59–67 With Long-Standing Type 2 Diabetes — A
+  2024 Pilot Study Update
+slug: >-
+  how-chronic-low-dose-lithium-0-3-mg-day-affects-beta-cell-autophagy-and-mitochondrial-turnover-in-adults-59-67-with-long-standing-type-2-diabetes-a-2024-pilot-study-update
+description: >-
+  Reviews emerging data on ultra-low-dose lithium’s role in enhancing beta-cell
+  mitophagy and reducing amyloid deposition—without mood effects or renal
+  toxicity—highlighting optimal dosing and monitoring parameters.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: low-dose lithium beta-cell function
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-improve-insulin-receptor-tyrosine-kinase-activity-without-increasing-oxidative-burden-using-low-dose-lithium-orotate-alpha-lipoic-acid-in-adults-65-with-long-standing-diabetes-and-elevated-8-ohdg
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia
+  - >-
+    how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
+  - >-
+    natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements
 ---
 
 # How Ultra-Low-Dose Lithium (0.3 mg/day) May Support Low-Dose Lithium Beta-Cell Function in Adults 59–67 With Long-Standing Type 2 Diabetes

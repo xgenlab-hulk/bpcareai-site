@@ -1,14 +1,20 @@
 ---
-title: "Does Relocating to a Sunnier Climate Improve Seasonal Depression After 70?"
-slug: "does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70"
-description: "Weigh the pros and cons of moving south for retirement based on mental health outcomes and adaptation challenges."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["relocating for seasonal depression relief", "seasonal depression in older adults", "geographic-impact"]
-primaryKeyword: "relocating for seasonal depression relief"
-topicCluster: "geographic-impact"
-image: ""
-relatedSlugs: ["the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees", "natural-ways-to-manage-seasonal-depression-in-seniors-without-medication", "how-winter-depression-affects-heart-health-in-retired-adults", "why-older-men-often-hide-their-seasonal-depression-symptoms", "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults"]
+title: Does Relocating to a Sunnier Climate Improve Seasonal Depression After 70?
+slug: does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70
+description: >-
+  Weigh the pros and cons of moving south for retirement based on mental health
+  outcomes and adaptation challenges.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: relocating for seasonal depression relief
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - how-winter-depression-affects-heart-health-in-retired-adults
+  - why-older-men-often-hide-their-seasonal-depression-symptoms
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 ---
 
 # Does Moving to a Sunnier Climate Help With Seasonal Depression After Age 70? Weighing Relocating for Seasonal Depression Relief

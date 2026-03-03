@@ -1,14 +1,26 @@
 ---
-title: "7 Common Medication Interactions That Worsen Seasonal Depression Symptoms in Older Adults on Polypharmacy Regimens"
-slug: "7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens"
-description: "Identifies high-risk drug combinations (e.g., beta-blockers + SSRIs, anticholinergics + vitamin D insufficiency) that amplify fatigue, anhedonia, and psychomotor slowing in adults 60+."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["medication interactions seasonal depression older adults", "seasonal depression in older adults", "pharmacotherapy-risks"]
-primaryKeyword: "medication interactions seasonal depression older adults"
-topicCluster: "pharmacotherapy-risks"
-image: ""
-relatedSlugs: ["7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging", "7-hidden-medication-interactions-that-elevate-heart-failure-readmission-risk-within-30-days-of-hospital-discharge-especially-in-adults-75-with-polypharmacy", "the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees", "how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60", "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults"]
+title: >-
+  7 Common Medication Interactions That Worsen Seasonal Depression Symptoms in
+  Older Adults on Polypharmacy Regimens
+slug: >-
+  7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens
+description: >-
+  Identifies high-risk drug combinations (e.g., beta-blockers + SSRIs,
+  anticholinergics + vitamin D insufficiency) that amplify fatigue, anhedonia,
+  and psychomotor slowing in adults 60+.
+date: '2026-01-01'
+updated: '2026-01-01'
+primaryKeyword: medication interactions seasonal depression older adults
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - >-
+    7-hidden-medication-interactions-that-elevate-heart-failure-readmission-risk-within-30-days-of-hospital-discharge-especially-in-adults-75-with-polypharmacy
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+  - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 ---
 
 # How Medication Interactions Can Worsen Seasonal Depression in Older Adults

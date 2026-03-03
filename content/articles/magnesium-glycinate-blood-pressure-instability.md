@@ -1,14 +1,30 @@
 ---
-title: "What Are the Earliest Signs Your Evening Magnesium Glycinate Dose Is Causing *Subclinical* BP Instability — Even With Normal Serum Levels in Adults 66+ With Mild Diastolic Dysfunction?"
-slug: "what-are-the-earliest-signs-your-evening-magnesium-glycinate-dose-is-causing-subclinical-bp-instability-even-with-normal-serum-levels-in-adults-66-with-mild-diastolic-dysfunction"
-description: "Identifies subtle indicators (e.g., morning fatigue despite normal BP, nocturnal heart rate variability loss, post-void SBP overshoot) linked to magnesium’s calcium-channel modulation."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["magnesium-glycinate-blood-pressure-instability", "blood pressure", "supplement-induced-hemodynamic-shift"]
-primaryKeyword: "magnesium-glycinate-blood-pressure-instability"
-topicCluster: "supplement-induced-hemodynamic-shift"
-image: ""
-relatedSlugs: ["does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium", "a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation", "does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment", "quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81", "5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75"]
+title: >-
+  What Are the Earliest Signs Your Evening Magnesium Glycinate Dose Is Causing
+  *Subclinical* BP Instability — Even With Normal Serum Levels in Adults 66+
+  With Mild Diastolic Dysfunction?
+slug: >-
+  what-are-the-earliest-signs-your-evening-magnesium-glycinate-dose-is-causing-subclinical-bp-instability-even-with-normal-serum-levels-in-adults-66-with-mild-diastolic-dysfunction
+description: >-
+  Identifies subtle indicators (e.g., morning fatigue despite normal BP,
+  nocturnal heart rate variability loss, post-void SBP overshoot) linked to
+  magnesium’s calcium-channel modulation.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: magnesium-glycinate-blood-pressure-instability
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
+  - >-
+    a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
+  - >-
+    does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
+  - >-
+    quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
+  - >-
+    5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
 ---
 
 # Early Clues Your Evening Magnesium Glycinate May Be Contributing to Subclinical Blood Pressure Instability — Even With Normal Labs

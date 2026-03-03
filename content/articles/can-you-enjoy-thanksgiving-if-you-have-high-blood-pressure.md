@@ -6,12 +6,8 @@ description: >-
   individuals and how to modify portions and ingredients accordingly.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - thanksgiving with high blood pressure
-  - healthy eating during family gatherings
-  - cardiac-diet
 primaryKeyword: thanksgiving with high blood pressure
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure

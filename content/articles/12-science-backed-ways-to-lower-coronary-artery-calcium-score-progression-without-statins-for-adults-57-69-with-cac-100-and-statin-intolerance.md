@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Ways to Lower Coronary Artery Calcium Score Progression Without Statins — For Adults 57–69 With CAC >100 and Statin Intolerance"
-slug: "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance"
-description: "Covers magnesium threonate, berberine-policosanol combos, apoB-targeted nutraceuticals, and vascular calcification inhibitors like pyrophosphate analogs and fetuin-A modulators."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["lower cac score without statins seniors", "heart disease", "coronary-calcium-non-statin-strategies"]
-primaryKeyword: "lower cac score without statins seniors"
-topicCluster: "coronary-calcium-non-statin-strategies"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55", "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75", "how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history", "best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl"]
+title: >-
+  12 Science-Backed Ways to Lower Coronary Artery Calcium Score Progression
+  Without Statins — For Adults 57–69 With CAC >100 and Statin Intolerance
+slug: >-
+  12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
+description: >-
+  Covers magnesium threonate, berberine-policosanol combos, apoB-targeted
+  nutraceuticals, and vascular calcification inhibitors like pyrophosphate
+  analogs and fetuin-A modulators.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: lower cac score without statins seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  - >-
+    how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
+  - >-
+    best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl
 ---
 
 # 12 Science-Backed Ways to Lower CAC Score Without Statins for Seniors — Especially If You’re 57–69 and Have a CAC >100

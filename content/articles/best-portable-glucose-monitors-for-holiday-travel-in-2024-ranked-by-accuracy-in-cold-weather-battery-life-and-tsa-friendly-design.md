@@ -1,14 +1,28 @@
 ---
-title: "Best Portable Glucose Monitors for Holiday Travel in 2024 — Ranked by Accuracy in Cold Weather, Battery Life, and TSA-Friendly Design"
-slug: "best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design"
-description: "Side-by-side comparison of 7 FDA-cleared CGM and BGM systems under real-world holiday conditions: subzero airport tarmacs, checked luggage temperature swings, and multi-day battery performance."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["best portable glucose monitor holiday travel", "holiday diabetes management", "device-selection-travel"]
-primaryKeyword: "best portable glucose monitor holiday travel"
-topicCluster: "device-selection-travel"
-image: ""
-relatedSlugs: ["5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes", "top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season", "can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures", "how-to-monitor-blood-sugar-more-effectively-during-festive-travel", "the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79"]
+title: >-
+  Best Portable Glucose Monitors for Holiday Travel in 2024 — Ranked by Accuracy
+  in Cold Weather, Battery Life, and TSA-Friendly Design
+slug: >-
+  best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
+description: >-
+  Side-by-side comparison of 7 FDA-cleared CGM and BGM systems under real-world
+  holiday conditions: subzero airport tarmacs, checked luggage temperature
+  swings, and multi-day battery performance.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: best portable glucose monitor holiday travel
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
+  - >-
+    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
+  - >-
+    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
+  - how-to-monitor-blood-sugar-more-effectively-during-festive-travel
+  - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
 ---
 
 # Best Portable Glucose Monitors for Holiday Travel in 2024: A Practical Guide for Safe, Accurate Monitoring on the Go

@@ -10,12 +10,8 @@ description: >-
   2023–2024 cohort studies.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - sleep apnea and heart disease progression in men
-  - heart disease
-  - comorbidities-sleep-apnea
 primaryKeyword: sleep apnea and heart disease progression in men
-topicCluster: comorbidities-sleep-apnea
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50

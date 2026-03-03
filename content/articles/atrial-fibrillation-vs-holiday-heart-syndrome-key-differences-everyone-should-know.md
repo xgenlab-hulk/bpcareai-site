@@ -9,12 +9,8 @@ description: >-
   help readers understand diagnosis and prognosis.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - AFib vs holiday heart syndrome
-  - holiday heart syndrome prevention
-  - comparison-analysis
 primaryKeyword: AFib vs holiday heart syndrome
-topicCluster: evidence-research
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

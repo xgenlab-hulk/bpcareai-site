@@ -1,14 +1,29 @@
 ---
-title: "How Intermittent Fasting Affects Hepatic Glycogen Resynthesis *Differently* in Women 58–66 vs Men 60–68 With Prediabetes — Hormone-Sensitive Timing Windows"
-slug: "how-intermittent-fasting-affects-hepatic-glycogen-resynthesis-differently-in-women-58-66-vs-men-60-68-with-prediabetes-hormone-sensitive-timing-windows"
-description: "Analyzes estradiol-progesterone modulation of glycogen synthase activity, sex-specific fasting window tolerability, and menstrual-phase–adjusted protocols for metabolic flexibility."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["intermittent fasting gender glycogen resynthesis", "diabetes", "sex-differences-metabolic-timing"]
-primaryKeyword: "intermittent fasting gender glycogen resynthesis"
-topicCluster: "sex-differences-metabolic-timing"
-image: ""
-relatedSlugs: ["how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin", "how-intermittent-fasting-windows-shift-during-family-gatherings-and-why-a-10-a-m-to-6-p-m-schedule-may-backfire-for-women-59-69-with-insulin-resistance", "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance", "what-research-says-about-intermittent-fasting-windows-and-left-ventricular-stiffness-in-men-58-67-with-early-diastolic-impairment", "how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance"]
+title: >-
+  How Intermittent Fasting Affects Hepatic Glycogen Resynthesis *Differently* in
+  Women 58–66 vs Men 60–68 With Prediabetes — Hormone-Sensitive Timing Windows
+slug: >-
+  how-intermittent-fasting-affects-hepatic-glycogen-resynthesis-differently-in-women-58-66-vs-men-60-68-with-prediabetes-hormone-sensitive-timing-windows
+description: >-
+  Analyzes estradiol-progesterone modulation of glycogen synthase activity,
+  sex-specific fasting window tolerability, and menstrual-phase–adjusted
+  protocols for metabolic flexibility.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: intermittent fasting gender glycogen resynthesis
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
+  - >-
+    how-intermittent-fasting-windows-shift-during-family-gatherings-and-why-a-10-a-m-to-6-p-m-schedule-may-backfire-for-women-59-69-with-insulin-resistance
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-stiffness-in-men-58-67-with-early-diastolic-impairment
+  - >-
+    how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance
 ---
 
 # How Intermittent Fasting Affects Liver Glycogen Rebuilding Differently in Women 58–66 vs. Men 60–68 With Prediabetes — Understanding Hormone-Sensitive Timing

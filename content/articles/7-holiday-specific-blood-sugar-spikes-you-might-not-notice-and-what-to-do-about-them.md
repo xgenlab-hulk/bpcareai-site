@@ -1,14 +1,25 @@
 ---
-title: "7 Holiday-Specific Blood Sugar Spikes You Might Not Notice — And What to Do About Them"
-slug: "7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them"
-description: "Explores subtle, non-classic hyperglycemic patterns triggered by festive routines (e.g., delayed meals, alcohol timing, disrupted sleep), with actionable detection and response strategies for adults 55–74 with type 2 diabetes."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["holiday blood sugar spikes unnoticed", "holiday diabetes management", "glycemic-patterns-symptom-recognition"]
-primaryKeyword: "holiday blood sugar spikes unnoticed"
-topicCluster: "glycemic-patterns-symptom-recognition"
-image: ""
-relatedSlugs: ["how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes", "managing-type-2-diabetes-while-attending-back-to-back-holiday-parties", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "the-truth-about-alcohol-and-blood-sugar-during-holiday-parties", "best-blood-sugar-monitoring-practices-during-the-holiday-season"]
+title: >-
+  7 Holiday-Specific Blood Sugar Spikes You Might Not Notice — And What to Do
+  About Them
+slug: >-
+  7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them
+description: >-
+  Explores subtle, non-classic hyperglycemic patterns triggered by festive
+  routines (e.g., delayed meals, alcohol timing, disrupted sleep), with
+  actionable detection and response strategies for adults 55–74 with type 2
+  diabetes.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: holiday blood sugar spikes unnoticed
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # 7 Holiday Blood Sugar Spikes You Might Not Notice — And How to Stay Steady

@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Slow-Chewed Roast Turkey vs. Ground Turkey Patties — Impact on Satiety Hormone Release and Post-Meal Fullness in Adults 55–69 With Mild Gastroparesis and Early Sarcopenia"
-slug: "a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia"
-description: "Compares chewing-dependent gastric distension cues and GLP-1/CCK response curves between whole-muscle and processed poultry formats using real-time gastric ultrasound and satiety diaries."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["chewing turkey satiety gastroparesis", "healthy eating during family gatherings", "food-texture-physiology"]
-primaryKeyword: "chewing turkey satiety gastroparesis"
-topicCluster: "food-texture-physiology"
-image: ""
-relatedSlugs: ["natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms", "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd", "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75", "quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues"]
+title: >-
+  A vs B: Slow-Chewed Roast Turkey vs. Ground Turkey Patties — Impact on Satiety
+  Hormone Release and Post-Meal Fullness in Adults 55–69 With Mild Gastroparesis
+  and Early Sarcopenia
+slug: >-
+  a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia
+description: >-
+  Compares chewing-dependent gastric distension cues and GLP-1/CCK response
+  curves between whole-muscle and processed poultry formats using real-time
+  gastric ultrasound and satiety diaries.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: chewing turkey satiety gastroparesis
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - >-
+    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
 ---
 
 # How Chewing Turkey Satiety Gastroparesis Affects Fullness and Hormone Response in Adults 55–69

@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs of Right-Sided Heart Strain in Adults 75+ With Untreated Sleep Apnea and Pulmonary Hypertension — Before Edema Appears"
-slug: "warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears"
-description: "Identifies pre-venous congestion markers: jugular venous waveform abnormalities, isolated tricuspid regurgitation velocity ≥2.8 m/s, and progressive fatigue with supine positioning."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["right heart strain sleep apnea seniors 75+", "heart disease", "right-heart-hemodynamics"]
-primaryKeyword: "right heart strain sleep apnea seniors 75+"
-topicCluster: "right-heart-hemodynamics"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath", "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80", "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms", "7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea", "when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction"]
+title: >-
+  Warning Signs of Right-Sided Heart Strain in Adults 75+ With Untreated Sleep
+  Apnea and Pulmonary Hypertension — Before Edema Appears
+slug: >-
+  warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
+description: >-
+  Identifies pre-venous congestion markers: jugular venous waveform
+  abnormalities, isolated tricuspid regurgitation velocity ≥2.8 m/s, and
+  progressive fatigue with supine positioning.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: right heart strain sleep apnea seniors 75+
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
+  - >-
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
+  - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
+  - >-
+    7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
+  - >-
+    when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
 ---
 
 # Early Clues of Right Heart Strain in Seniors 75+ With Untreated Sleep Apnea and Pulmonary Hypertension — Before Swelling Begins

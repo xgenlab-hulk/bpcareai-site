@@ -6,12 +6,8 @@ description: >-
   over 50.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - chronic kidney disease and heart disease link
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: chronic kidney disease and heart disease link
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - how-type-2-diabetes-increases-heart-disease-risk-after-50

@@ -1,14 +1,29 @@
 ---
-title: "What Causes Sudden Dry Mouth During Holiday Dessert Consumption in Adults 75+ With Sjögren’s Syndrome and Xerostomia-Related Dysphagia?"
-slug: "what-causes-sudden-dry-mouth-during-holiday-dessert-consumption-in-adults-75-with-sj-gren-s-syndrome-and-xerostomia-related-dysphagia"
-description: "Analyzes sugar-alcohol interactions with salivary gland autoimmunity, role of alcohol-based extracts (vanilla, rum), and practical saliva-preserving substitutions for safe holiday eating."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["dry mouth holiday dessert sjogrens syndrome", "healthy holiday eating for seniors", "symptom-causes-autoimmune-diet"]
-primaryKeyword: "dry mouth holiday dessert sjogrens syndrome"
-topicCluster: "symptom-causes-autoimmune-diet"
-image: ""
-relatedSlugs: ["natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia", "how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68", "the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors", "the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia", "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose"]
+title: >-
+  What Causes Sudden Dry Mouth During Holiday Dessert Consumption in Adults 75+
+  With Sjögren’s Syndrome and Xerostomia-Related Dysphagia?
+slug: >-
+  what-causes-sudden-dry-mouth-during-holiday-dessert-consumption-in-adults-75-with-sj-gren-s-syndrome-and-xerostomia-related-dysphagia
+description: >-
+  Analyzes sugar-alcohol interactions with salivary gland autoimmunity, role of
+  alcohol-based extracts (vanilla, rum), and practical saliva-preserving
+  substitutions for safe holiday eating.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: dry mouth holiday dessert sjogrens syndrome
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+  - >-
+    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+  - >-
+    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
 ---
 
 # Why Dry Mouth Holiday Dessert Sjögrens Syndrome Hits Harder — And What You Can Do

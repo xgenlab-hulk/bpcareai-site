@@ -1,14 +1,24 @@
 ---
-title: "How Late-Night Holiday Snacking Disrupts Circadian Rhythms and Sleep Quality in Adults 65+"
-slug: "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65"
-description: "Explains the impact of nocturnal eating on melatonin release, insulin sensitivity, and REM sleep architecture—and offers circadian-aligned timing strategies for festive snacking."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["late-night snacking seniors circadian rhythm", "healthy holiday eating for seniors", "chronobiology-sleep-nutrition"]
-primaryKeyword: "late-night snacking seniors circadian rhythm"
-topicCluster: "chronobiology-sleep-nutrition"
-image: ""
-relatedSlugs: ["the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "can-late-night-holiday-parties-disrupt-heart-rhythm-after-60", "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50", "the-connection-between-holiday-light-exposure-and-blood-sugar-regulation", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts"]
+title: >-
+  How Late-Night Holiday Snacking Disrupts Circadian Rhythms and Sleep Quality
+  in Adults 65+
+slug: >-
+  how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+description: >-
+  Explains the impact of nocturnal eating on melatonin release, insulin
+  sensitivity, and REM sleep architecture—and offers circadian-aligned timing
+  strategies for festive snacking.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: late-night snacking seniors circadian rhythm
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
+  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
+  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---
 
 # How Late-Night Snacking Disrupts Seniors’ Circadian Rhythm—and What to Do Instead

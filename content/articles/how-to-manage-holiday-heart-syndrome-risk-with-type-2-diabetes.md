@@ -6,12 +6,8 @@ description: >-
   during the holidays for diabetic adults over 50.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - diabetes holiday heart risk
-  - holiday heart syndrome prevention
-  - comorbidity-management
 primaryKeyword: diabetes holiday heart risk
-topicCluster: complications-comorbidities
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes

@@ -10,12 +10,8 @@ description: >-
   microbial-heart axis health.
 date: '2025-12-22'
 updated: '2025-12-22'
-tags:
-  - gut microbiome and arterial stiffness aging
-  - heart health
-  - causes-research-link
 primaryKeyword: gut microbiome and arterial stiffness aging
-topicCluster: causes-research-link
+topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-

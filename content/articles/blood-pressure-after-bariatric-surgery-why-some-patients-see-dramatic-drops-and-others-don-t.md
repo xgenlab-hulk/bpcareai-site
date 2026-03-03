@@ -10,12 +10,8 @@ description: >-
   of persistent hypertension in obese adults 55–70.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - blood pressure after bariatric surgery
-  - blood pressure
-  - comorbidity-weight-loss-surgery
 primaryKeyword: blood pressure after bariatric surgery
-topicCluster: complications-comorbidities
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - how-belly-fat-increases-blood-pressure-risk-after-middle-age

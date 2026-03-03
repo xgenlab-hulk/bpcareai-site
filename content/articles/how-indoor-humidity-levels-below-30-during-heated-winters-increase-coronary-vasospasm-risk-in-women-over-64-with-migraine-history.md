@@ -1,14 +1,25 @@
 ---
-title: "How Indoor Humidity Levels Below 30% During Heated Winters Increase Coronary Vasospasm Risk in Women Over 64 With Migraine History"
-slug: "how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history"
-description: "Links dry-air–induced endothelin-1 surges, TRPV1 activation, and cortical spreading depression overlap—explaining winter angina mimics in non-obstructive CAD."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["indoor humidity coronary vasospasm women migraine", "heart disease", "environmental-vasospasm-triggers"]
-primaryKeyword: "indoor humidity coronary vasospasm women migraine"
-topicCluster: "environmental-vasospasm-triggers"
-image: ""
-relatedSlugs: ["how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62", "how-indoor-air-quality-affects-heart-health-in-winter", "how-staying-hydrated-in-winter-protects-your-heart-after-70", "what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors", "the-hidden-dangers-of-indoor-heating-on-blood-pressure"]
+title: >-
+  How Indoor Humidity Levels Below 30% During Heated Winters Increase Coronary
+  Vasospasm Risk in Women Over 64 With Migraine History
+slug: >-
+  how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history
+description: >-
+  Links dry-air–induced endothelin-1 surges, TRPV1 activation, and cortical
+  spreading depression overlap—explaining winter angina mimics in
+  non-obstructive CAD.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: indoor humidity coronary vasospasm women migraine
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
+  - how-indoor-air-quality-affects-heart-health-in-winter
+  - how-staying-hydrated-in-winter-protects-your-heart-after-70
+  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
 ---
 
 # How Low Indoor Humidity in Winter May Trigger Coronary Vasospasm in Women Over 64 With Migraine History

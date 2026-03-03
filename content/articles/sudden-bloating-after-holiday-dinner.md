@@ -1,14 +1,30 @@
 ---
-title: "When to Worry About Sudden Bloating After Thanksgiving Dinner — Distinguishing Food Intolerance From Early Small Intestinal Bacterial Overgrowth (SIBO) in Adults 63+ With Long-Term PPI Use"
-slug: "when-to-worry-about-sudden-bloating-after-thanksgiving-dinner-distinguishing-food-intolerance-from-early-small-intestinal-bacterial-overgrowth-sibo-in-adults-63-with-long-term-ppi-use"
-description: "Helps readers differentiate transient digestive discomfort from clinically significant SIBO triggers, including breath test indications and low-FODMAP timing strategies."
-date: "2026-02-23"
-updated: "2026-02-23"
-tags: ["sudden bloating after holiday dinner", "healthy eating during family gatherings", "gastrointestinal-symptoms"]
-primaryKeyword: "sudden bloating after holiday dinner"
-topicCluster: "gastrointestinal-symptoms"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-your-holiday-leftovers-are-causing-subclinical-small-intestinal-bacterial-overgrowth-sibo-in-adults-69-with-chronic-bloating", "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71", "when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d", "when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults", "when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70"]
+title: >-
+  When to Worry About Sudden Bloating After Thanksgiving Dinner — Distinguishing
+  Food Intolerance From Early Small Intestinal Bacterial Overgrowth (SIBO) in
+  Adults 63+ With Long-Term PPI Use
+slug: >-
+  when-to-worry-about-sudden-bloating-after-thanksgiving-dinner-distinguishing-food-intolerance-from-early-small-intestinal-bacterial-overgrowth-sibo-in-adults-63-with-long-term-ppi-use
+description: >-
+  Helps readers differentiate transient digestive discomfort from clinically
+  significant SIBO triggers, including breath test indications and low-FODMAP
+  timing strategies.
+date: '2026-02-23'
+updated: '2026-02-23'
+primaryKeyword: sudden bloating after holiday dinner
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-your-holiday-leftovers-are-causing-subclinical-small-intestinal-bacterial-overgrowth-sibo-in-adults-69-with-chronic-bloating
+  - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
+  - >-
+    when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
+  - >-
+    when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults
+  - >-
+    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
 ---
 
 # When Sudden Bloating After Holiday Dinner Isn’t Just Overeating — What Adults 63+ on Long-Term PPIs Should Know

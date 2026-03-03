@@ -10,12 +10,8 @@ description: >-
   access.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - non statin cholesterol modulators myopathy
-  - heart health
-  - treatment-alternatives
 primaryKeyword: non statin cholesterol modulators myopathy
-topicCluster: treatment-alternatives
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-

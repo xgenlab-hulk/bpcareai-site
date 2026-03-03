@@ -1,14 +1,28 @@
 ---
-title: "How Sleep Apnea Severity Modulates Insulin Clearance in Adults With Type 2 Diabetes and BMI >30—A Mechanistic Breakdown for Ages 54–71"
-slug: "how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71"
-description: "Explains how intermittent hypoxia reduces hepatic insulin degradation, increases insulin resistance, and blunts GLP-1 response—plus CPAP adherence impact on glycemic variability."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["sleep apnea and insulin clearance in diabetics", "diabetes", "sleep-apnea-metabolism"]
-primaryKeyword: "sleep apnea and insulin clearance in diabetics"
-topicCluster: "sleep-apnea-metabolism"
-image: ""
-relatedSlugs: ["5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin", "how-sleep-apnea-impacts-type-2-diabetes-control-after-50", "7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis", "when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension", "how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough"]
+title: >-
+  How Sleep Apnea Severity Modulates Insulin Clearance in Adults With Type 2
+  Diabetes and BMI >30—A Mechanistic Breakdown for Ages 54–71
+slug: >-
+  how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
+description: >-
+  Explains how intermittent hypoxia reduces hepatic insulin degradation,
+  increases insulin resistance, and blunts GLP-1 response—plus CPAP adherence
+  impact on glycemic variability.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: sleep apnea and insulin clearance in diabetics
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
+  - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
+  - >-
+    7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
+  - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
 ---
 
 # How Sleep Apnea Affects Insulin Clearance in Adults With Type 2 Diabetes—What Happens When Breathing Stops at Night

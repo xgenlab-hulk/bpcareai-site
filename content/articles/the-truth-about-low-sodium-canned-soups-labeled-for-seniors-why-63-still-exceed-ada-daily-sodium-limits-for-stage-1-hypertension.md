@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Low-Sodium' Canned Soups Labeled for Seniors — Why 63% Still Exceed ADA Daily Sodium Limits for Stage 1 Hypertension"
-slug: "the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension"
-description: "Investigates label loopholes, hidden sodium sources (e.g., yeast extract, sodium citrate), and real-world sodium content vs. claims — with lab-tested data across 42 national brands marketed to adults 60+."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["low sodium canned soup sodium truth", "blood pressure", "food-labeling-sodium-misleading-claims"]
-primaryKeyword: "low sodium canned soup sodium truth"
-topicCluster: "food-labeling-sodium-misleading-claims"
-image: ""
-relatedSlugs: ["the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65", "the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk", "the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62", "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs"]
+title: >-
+  The Truth About 'Low-Sodium' Canned Soups Labeled for Seniors — Why 63% Still
+  Exceed ADA Daily Sodium Limits for Stage 1 Hypertension
+slug: >-
+  the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension
+description: >-
+  Investigates label loopholes, hidden sodium sources (e.g., yeast extract,
+  sodium citrate), and real-world sodium content vs. claims — with lab-tested
+  data across 42 national brands marketed to adults 60+.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: low sodium canned soup sodium truth
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+  - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
 ---
 
 # The Low Sodium Canned Soup Sodium Truth: What “Senior-Friendly” Labels *Really* Mean for Your Blood Pressure

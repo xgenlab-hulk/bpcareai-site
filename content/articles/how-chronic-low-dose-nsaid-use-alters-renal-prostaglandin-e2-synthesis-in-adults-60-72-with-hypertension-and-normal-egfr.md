@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Low-Dose NSAID Use Alters Renal Prostaglandin E2 Synthesis in Adults 60–72 With Hypertension and Normal eGFR"
-slug: "how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr"
-description: "Explains COX-2–mediated sodium retention, blunted diuretic response, and why BP spikes may precede renal function decline — plus NSAID-sparing alternatives with vascular safety data."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["nsaid prostaglandin e2 hypertension", "blood pressure", "pharmacologic-renal-vascular-interaction"]
-primaryKeyword: "nsaid prostaglandin e2 hypertension"
-topicCluster: "pharmacologic-renal-vascular-interaction"
-image: ""
-relatedSlugs: ["how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo", "how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication", "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use", "what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria", "7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids"]
+title: >-
+  How Chronic Low-Dose NSAID Use Alters Renal Prostaglandin E2 Synthesis in
+  Adults 60–72 With Hypertension and Normal eGFR
+slug: >-
+  how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
+description: >-
+  Explains COX-2–mediated sodium retention, blunted diuretic response, and why
+  BP spikes may precede renal function decline — plus NSAID-sparing alternatives
+  with vascular safety data.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: nsaid prostaglandin e2 hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo
+  - >-
+    how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - >-
+    what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids
 ---
 
 # How NSAID Use Affects Prostaglandin E2, Blood Pressure, and Kidney Health in Adults 60–72 With Hypertension

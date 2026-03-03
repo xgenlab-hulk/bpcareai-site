@@ -1,14 +1,30 @@
 ---
-title: "12 Foods That Reduce Aortic Pulse Wave Velocity *Without* Lowering Diastolic Pressure Excessively — For Adults 64+ With Isolated Systolic Hypertension and Orthostatic Tendency"
-slug: "12-foods-that-reduce-aortic-pulse-wave-velocity-without-lowering-diastolic-pressure-excessively-for-adults-64-with-isolated-systolic-hypertension-and-orthostatic-tendency"
-description: "Highlights nutrient-dense, low-sodium, high-potassium-magnesium foods that improve central arterial compliance while preserving perfusion pressure in frail older adults."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["foods for aortic stiffness without orthostasis", "blood pressure", "vascular-compliance-nutrition"]
-primaryKeyword: "foods for aortic stiffness without orthostasis"
-topicCluster: "vascular-compliance-nutrition"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis", "10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers", "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness", "10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function", "5-foods-that-lower-central-aortic-systolic-pressure-without-reducing-brachial-diastolic-for-adults-70-with-wide-pulse-pressure-and-mild-cognitive-impairment"]
+title: >-
+  12 Foods That Reduce Aortic Pulse Wave Velocity *Without* Lowering Diastolic
+  Pressure Excessively — For Adults 64+ With Isolated Systolic Hypertension and
+  Orthostatic Tendency
+slug: >-
+  12-foods-that-reduce-aortic-pulse-wave-velocity-without-lowering-diastolic-pressure-excessively-for-adults-64-with-isolated-systolic-hypertension-and-orthostatic-tendency
+description: >-
+  Highlights nutrient-dense, low-sodium, high-potassium-magnesium foods that
+  improve central arterial compliance while preserving perfusion pressure in
+  frail older adults.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: foods for aortic stiffness without orthostasis
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis
+  - >-
+    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
+  - >-
+    10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
+  - >-
+    5-foods-that-lower-central-aortic-systolic-pressure-without-reducing-brachial-diastolic-for-adults-70-with-wide-pulse-pressure-and-mild-cognitive-impairment
 ---
 
 # Foods for Aortic Stiffness Without Orthostasis: Nutrient-Smart Choices for Adults 64+ With Isolated Systolic Hypertension

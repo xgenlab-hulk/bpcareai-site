@@ -10,12 +10,8 @@ description: >-
   perimenopausal women.
 date: '2026-01-10'
 updated: '2026-01-10'
-tags:
-  - fibromuscular dysplasia resistant hypertension women
-  - blood pressure
-  - secondary-hypertension-fmd-women
 primaryKeyword: fibromuscular dysplasia resistant hypertension women
-topicCluster: secondary-hypertension-fmd-women
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

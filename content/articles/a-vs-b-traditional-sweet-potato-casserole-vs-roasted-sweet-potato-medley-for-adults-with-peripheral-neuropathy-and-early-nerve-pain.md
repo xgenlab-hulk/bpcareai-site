@@ -10,12 +10,8 @@ description: >-
   choices.
 date: '2026-01-09'
 updated: '2026-01-09'
-tags:
-  - sweet potato casserole vs roasted neuropathy
-  - healthy eating during family gatherings
-  - neuropathy-food-prep-comparison
 primaryKeyword: sweet potato casserole vs roasted neuropathy
-topicCluster: neuropathy-food-prep-comparison
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

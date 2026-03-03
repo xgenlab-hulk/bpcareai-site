@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That *Stabilize* Coronary Microvascular Reactivity — Not Just Lower Cholesterol — For Adults 61+ With INOCA and No Obstructive Disease"
-slug: "10-foods-that-stabilize-coronary-microvascular-reactivity-not-just-lower-cholesterol-for-adults-61-with-inoca-and-no-obstructive-disease"
-description: "Highlights dietary compounds (e.g., epicatechin-rich cocoa, fermented soy isoflavones, low-temperature roasted walnuts) that improve endothelial-dependent and -independent vasodilation in microvessels."
-date: "2026-02-11"
-updated: "2026-02-11"
-tags: ["foods coronary microvascular reactivity", "heart disease", "microvascular-diet"]
-primaryKeyword: "foods coronary microvascular reactivity"
-topicCluster: "microvascular-diet"
-image: ""
-relatedSlugs: ["10-foods-that-improve-coronary-flow-reserve-within-45-minutes-based-on-pet-ct-data-in-adults-57-69-with-microvascular-angina", "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina", "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl", "10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity"]
+title: >-
+  10 Foods That *Stabilize* Coronary Microvascular Reactivity — Not Just Lower
+  Cholesterol — For Adults 61+ With INOCA and No Obstructive Disease
+slug: >-
+  10-foods-that-stabilize-coronary-microvascular-reactivity-not-just-lower-cholesterol-for-adults-61-with-inoca-and-no-obstructive-disease
+description: >-
+  Highlights dietary compounds (e.g., epicatechin-rich cocoa, fermented soy
+  isoflavones, low-temperature roasted walnuts) that improve
+  endothelial-dependent and -independent vasodilation in microvessels.
+date: '2026-02-11'
+updated: '2026-02-11'
+primaryKeyword: foods coronary microvascular reactivity
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-improve-coronary-flow-reserve-within-45-minutes-based-on-pet-ct-data-in-adults-57-69-with-microvascular-angina
+  - >-
+    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
+  - >-
+    10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
 ---
 
 # 10 Foods That Support Coronary Microvascular Reactivity — Especially for Adults 61+ With INOCA

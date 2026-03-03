@@ -1,14 +1,28 @@
 ---
-title: "Best Non-Pharmacologic Strategies to Prevent Ventricular Arrhythmias During Holiday Travel in Adults 65–79 With ICDs and History of Stress-Induced VT"
-slug: "best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt"
-description: "Focuses on travel-specific triggers: cabin pressure changes, sleep disruption, dehydration, and emotional load — with evidence-based mitigation including pre-travel HRV priming and portable vagal stimulation."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["prevent vt during travel icd elderly", "heart disease", "arrhythmia-travel-safety"]
-primaryKeyword: "prevent vt during travel icd elderly"
-topicCluster: "arrhythmia-travel-safety"
-image: ""
-relatedSlugs: ["best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs", "can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history", "how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm", "best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air", "the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips"]
+title: >-
+  Best Non-Pharmacologic Strategies to Prevent Ventricular Arrhythmias During
+  Holiday Travel in Adults 65–79 With ICDs and History of Stress-Induced VT
+slug: >-
+  best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
+description: >-
+  Focuses on travel-specific triggers: cabin pressure changes, sleep disruption,
+  dehydration, and emotional load — with evidence-based mitigation including
+  pre-travel HRV priming and portable vagal stimulation.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: prevent vt during travel icd elderly
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
+  - >-
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
+  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+  - >-
+    the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
 ---
 
 # How to Prevent VT During Travel With an ICD: Gentle, Evidence-Based Strategies for Adults 65–79

@@ -6,12 +6,8 @@ description: >-
   glucose.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - healthy carbs for older adults with diabetes
-  - diabetes
-  - diabetes-nutrition
 primaryKeyword: healthy carbs for older adults with diabetes
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - best-fruits-for-diabetics-over-50-and-which-to-limit

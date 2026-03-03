@@ -1,14 +1,29 @@
 ---
-title: "What Are the Earliest Signs of Diabetic Cardiomyopathy in Women 55–69—Before Ejection Fraction Drops or NT-proBNP Rises?"
-slug: "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises"
-description: "Highlights subtle echocardiographic, ECG, and symptom-based red flags—including diastolic strain patterns, heart rate variability loss, and exertional dyspnea on flat terrain."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["early diabetic cardiomyopathy signs women", "diabetes", "cardiac-complications"]
-primaryKeyword: "early diabetic cardiomyopathy signs women"
-topicCluster: "cardiac-complications"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction", "red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue", "what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70"]
+title: >-
+  What Are the Earliest Signs of Diabetic Cardiomyopathy in Women 55–69—Before
+  Ejection Fraction Drops or NT-proBNP Rises?
+slug: >-
+  what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+description: >-
+  Highlights subtle echocardiographic, ECG, and symptom-based red
+  flags—including diastolic strain patterns, heart rate variability loss, and
+  exertional dyspnea on flat terrain.
+date: '2026-01-05'
+updated: '2026-01-05'
+primaryKeyword: early diabetic cardiomyopathy signs women
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
 ---
 
 # Early Diabetic Cardiomyopathy Signs in Women Ages 55–69—Before the Heart “Shows” Damage

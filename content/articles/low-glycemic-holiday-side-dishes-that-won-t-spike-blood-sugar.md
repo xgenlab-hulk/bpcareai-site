@@ -6,12 +6,8 @@ description: >-
   stuffing, and desserts that are diabetes-friendly.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - low-glycemic holiday side dishes
-  - managing blood sugar during Christmas and New Year
-  - diabetic-diet
 primaryKeyword: low-glycemic holiday side dishes
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

@@ -10,12 +10,8 @@ description: >-
   managing both CVD and chronic kidney disease.
 date: '2026-01-26'
 updated: '2026-01-26'
-tags:
-  - oat milk heart health kidney disease
-  - heart health
-  - nutritional-bioavailability-renal-comorbidity
 primaryKeyword: oat milk heart health kidney disease
-topicCluster: nutritional-bioavailability-renal-comorbidity
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-

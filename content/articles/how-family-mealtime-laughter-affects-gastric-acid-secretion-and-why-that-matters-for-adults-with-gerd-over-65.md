@@ -1,14 +1,28 @@
 ---
-title: "How Family Mealtime Laughter Affects Gastric Acid Secretion—and Why That Matters for Adults With GERD Over 65"
-slug: "how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65"
-description: "Explores vagal modulation, diaphragmatic pressure shifts, and real-time pH monitoring data linking social joy to transient acid reflux reduction or exacerbation."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["laughter gastric acid gerd family meals", "healthy eating during family gatherings", "gastrointestinal-psychophysiology"]
-primaryKeyword: "laughter gastric acid gerd family meals"
-topicCluster: "gastrointestinal-psychophysiology"
-image: ""
-relatedSlugs: ["what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60", "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits", "how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80", "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75", "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70"]
+title: >-
+  How Family Mealtime Laughter Affects Gastric Acid Secretion—and Why That
+  Matters for Adults With GERD Over 65
+slug: >-
+  how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
+description: >-
+  Explores vagal modulation, diaphragmatic pressure shifts, and real-time pH
+  monitoring data linking social joy to transient acid reflux reduction or
+  exacerbation.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: laughter gastric acid gerd family meals
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
+  - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
 ---
 
 # How Laughter During Family Meals Affects Gastric Acid—and What It Means for Older Adults with GERD

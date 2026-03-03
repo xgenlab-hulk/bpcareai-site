@@ -1,14 +1,27 @@
 ---
-title: "Warning Signs Your Holiday Medication Routine Is Failing — Even If Your A1C Looks 'Fine'"
-slug: "warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine"
-description: "Highlights discordant metrics: rising glucose variability, increased hypoglycemia frequency, CGM time-in-range erosion, and post-holiday HOMA-IR spikes — with early intervention thresholds for adults 55–78."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["holiday medication routine failure signs", "holiday diabetes management", "medication-monitoring-red-flags"]
-primaryKeyword: "holiday medication routine failure signs"
-topicCluster: "medication-monitoring-red-flags"
-image: ""
-relatedSlugs: ["when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69", "when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction", "the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes", "best-blood-sugar-monitoring-practices-during-the-holiday-season"]
+title: >-
+  Warning Signs Your Holiday Medication Routine Is Failing — Even If Your A1C
+  Looks 'Fine'
+slug: >-
+  warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
+description: >-
+  Highlights discordant metrics: rising glucose variability, increased
+  hypoglycemia frequency, CGM time-in-range erosion, and post-holiday HOMA-IR
+  spikes — with early intervention thresholds for adults 55–78.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: holiday medication routine failure signs
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
+  - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+  - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # Early Warning Signs Your Holiday Medication Routine Is Failing — Even With a ‘Good’ A1C

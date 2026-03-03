@@ -1,14 +1,22 @@
 ---
-title: "5 Signs Your Holiday Eating Habits Are Accelerating Muscle Loss After Age 60"
-slug: "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60"
-description: "Highlights under-recognized nutritional red flags—like low protein distribution, excessive refined carbs, and skipped meals—that contribute to sarcopenia during festive periods."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["holiday eating muscle loss seniors", "healthy holiday eating for seniors", "nutrition-sarcopenia-prevention"]
-primaryKeyword: "holiday eating muscle loss seniors"
-topicCluster: "nutrition-sarcopenia-prevention"
-image: ""
-relatedSlugs: ["what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors", "5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58", "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults", "warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness", "why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease"]
+title: 5 Signs Your Holiday Eating Habits Are Accelerating Muscle Loss After Age 60
+slug: 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+description: >-
+  Highlights under-recognized nutritional red flags—like low protein
+  distribution, excessive refined carbs, and skipped meals—that contribute to
+  sarcopenia during festive periods.
+date: '2025-12-19'
+updated: '2025-12-19'
+primaryKeyword: holiday eating muscle loss seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
+  - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
+  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - >-
+    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
+  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
 ---
 
 # How Holiday Eating Muscle Loss Seniors Can Sneak Up—And What to Do About It

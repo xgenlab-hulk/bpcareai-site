@@ -1,14 +1,29 @@
 ---
-title: "Can Morning Light Exposure Before 8 a.m. Reduce Nocturnal Systolic BP Surges in Adults With Stage 1 Hypertension and Mild Sleep Apnea?"
-slug: "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea"
-description: "Reviews emerging chronobiology trials showing timed bright-light exposure resets circadian BP rhythm, dampens sympathetic nocturnal activity, and improves dipping status—without medication adjustments."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["morning light exposure nocturnal blood pressure", "heart health", "circadian-rhythm-blood-pressure"]
-primaryKeyword: "morning light exposure nocturnal blood pressure"
-topicCluster: "circadian-rhythm-blood-pressure"
-image: ""
-relatedSlugs: ["how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension", "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension", "a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension", "a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome", "simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia"]
+title: >-
+  Can Morning Light Exposure Before 8 a.m. Reduce Nocturnal Systolic BP Surges
+  in Adults With Stage 1 Hypertension and Mild Sleep Apnea?
+slug: >-
+  can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+description: >-
+  Reviews emerging chronobiology trials showing timed bright-light exposure
+  resets circadian BP rhythm, dampens sympathetic nocturnal activity, and
+  improves dipping status—without medication adjustments.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: morning light exposure nocturnal blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
+  - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+  - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+  - >-
+    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
+  - >-
+    simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
 ---
 
 # Can Early Morning Light Help Calm Your Nocturnal Blood Pressure? What New Science Says About Morning Light Exposure Nocturnal Blood Pressure

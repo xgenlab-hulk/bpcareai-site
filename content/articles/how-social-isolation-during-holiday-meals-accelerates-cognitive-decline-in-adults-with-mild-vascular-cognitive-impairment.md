@@ -1,14 +1,29 @@
 ---
-title: "How Social Isolation During Holiday Meals Accelerates Cognitive Decline in Adults With Mild Vascular Cognitive Impairment"
-slug: "how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment"
-description: "Explores the neurovascular impact of reduced mealtime conversation, decreased masticatory stimulation, and circadian desynchrony on white matter integrity—supported by 2024 fNIRS data."
-date: "2025-12-30"
-updated: "2025-12-30"
-tags: ["holiday isolation vascular cognitive decline", "healthy holiday eating for seniors", "cognitive-social-nutrition"]
-primaryKeyword: "holiday isolation vascular cognitive decline"
-topicCluster: "cognitive-social-nutrition"
-image: ""
-relatedSlugs: ["what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80", "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia", "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70", "can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown", "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season"]
+title: >-
+  How Social Isolation During Holiday Meals Accelerates Cognitive Decline in
+  Adults With Mild Vascular Cognitive Impairment
+slug: >-
+  how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
+description: >-
+  Explores the neurovascular impact of reduced mealtime conversation, decreased
+  masticatory stimulation, and circadian desynchrony on white matter
+  integrity—supported by 2024 fNIRS data.
+date: '2025-12-30'
+updated: '2025-12-30'
+primaryKeyword: holiday isolation vascular cognitive decline
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
+  - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
+  - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
+  - >-
+    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # How Holiday Isolation Worsens Vascular Cognitive Decline in Older Adults

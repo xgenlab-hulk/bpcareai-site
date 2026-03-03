@@ -6,12 +6,8 @@ description: >-
   during festive dinners.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - lower blood sugar after holiday meal
-  - holiday diabetes management
-  - emergency-response-tactics
 primaryKeyword: lower blood sugar after holiday meal
-topicCluster: symptoms-emergencies
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

@@ -10,12 +10,8 @@ description: >-
   prevention.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - statins after 75 myths vs facts
-  - heart health
-  - medications-myths
 primaryKeyword: statins after 75 myths vs facts
-topicCluster: medications-myths
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-

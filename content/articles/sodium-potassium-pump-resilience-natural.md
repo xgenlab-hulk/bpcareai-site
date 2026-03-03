@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Cardiac Sodium-Potassium Pump Resilience *Without* Increasing Dietary Potassium — Using Targeted Magnesium-L-Threonate + Cold-Air Nasal Breathing in Adults 66+ With Diuretic-Induced Hypokalemia"
-slug: "natural-ways-to-support-cardiac-sodium-potassium-pump-resilience-without-increasing-dietary-potassium-using-targeted-magnesium-l-threonate-cold-air-nasal-breathing-in-adults-66-with-diuretic-induced-hypokalemia"
-description: "Presents a non-potassium-dependent strategy to stabilize myocardial excitability during high-alcohol/high-sugar exposure, emphasizing ion channel cofactor optimization and vagal cooling."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["sodium-potassium pump resilience natural", "holiday heart syndrome prevention", "electrolyte-channel-support"]
-primaryKeyword: "sodium-potassium pump resilience natural"
-topicCluster: "electrolyte-channel-support"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak", "12-science-backed-ways-to-reduce-left-ventricular-stiffness-without-medication-focusing-on-titin-phosphorylation-sodium-intake-timing-and-deep-exhalation-duration", "natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate", "12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing"]
+title: >-
+  Natural Ways to Support Cardiac Sodium-Potassium Pump Resilience *Without*
+  Increasing Dietary Potassium — Using Targeted Magnesium-L-Threonate + Cold-Air
+  Nasal Breathing in Adults 66+ With Diuretic-Induced Hypokalemia
+slug: >-
+  natural-ways-to-support-cardiac-sodium-potassium-pump-resilience-without-increasing-dietary-potassium-using-targeted-magnesium-l-threonate-cold-air-nasal-breathing-in-adults-66-with-diuretic-induced-hypokalemia
+description: >-
+  Presents a non-potassium-dependent strategy to stabilize myocardial
+  excitability during high-alcohol/high-sugar exposure, emphasizing ion channel
+  cofactor optimization and vagal cooling.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: sodium-potassium pump resilience natural
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
+  - >-
+    12-science-backed-ways-to-reduce-left-ventricular-stiffness-without-medication-focusing-on-titin-phosphorylation-sodium-intake-timing-and-deep-exhalation-duration
+  - >-
+    natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate
+  - >-
+    12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing
 ---
 
 # Natural Ways to Strengthen Sodium-Potassium Pump Resilience — Especially After Diuretics & Holiday Indulgences

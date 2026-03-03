@@ -10,12 +10,8 @@ description: >-
   perform at home.
 date: '2025-12-30'
 updated: '2025-12-30'
-tags:
-  - false low blood pressure readings
-  - blood pressure
-  - device-accuracy-troubleshooting
 primaryKeyword: false low blood pressure readings
-topicCluster: device-accuracy-troubleshooting
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

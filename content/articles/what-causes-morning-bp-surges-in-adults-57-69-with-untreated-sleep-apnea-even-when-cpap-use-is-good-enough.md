@@ -1,14 +1,29 @@
 ---
-title: "What Causes Morning BP Surges in Adults 57–69 With Untreated Sleep Apnea — Even When CPAP Use Is ‘Good Enough’"
-slug: "what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough"
-description: "Investigates residual upper airway resistance, nocturnal swallowing events, and microarousal-induced norepinephrine spikes — plus how pulse transit time (PTT) monitoring reveals hidden instability."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["morning bp surge residual sleep apnea", "blood pressure", "nocturnal-respiratory-hemodynamics"]
-primaryKeyword: "morning bp surge residual sleep apnea"
-topicCluster: "nocturnal-respiratory-hemodynamics"
-image: ""
-relatedSlugs: ["quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp", "how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings", "why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles"]
+title: >-
+  What Causes Morning BP Surges in Adults 57–69 With Untreated Sleep Apnea —
+  Even When CPAP Use Is ‘Good Enough’
+slug: >-
+  what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
+description: >-
+  Investigates residual upper airway resistance, nocturnal swallowing events,
+  and microarousal-induced norepinephrine spikes — plus how pulse transit time
+  (PTT) monitoring reveals hidden instability.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: morning bp surge residual sleep apnea
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
+  - >-
+    how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
+  - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
 ---
 
 # Understanding Morning BP Surge Residual Sleep Apnea in Adults 57–69

@@ -10,12 +10,8 @@ description: >-
   neuropathic progression and falls risk.
 date: '2025-12-28'
 updated: '2025-12-28'
-tags:
-  - night muscle cramps diabetes diuretics
-  - diabetes
-  - neuromuscular-red-flags
 primaryKeyword: night muscle cramps diabetes diuretics
-topicCluster: neuromuscular-red-flags
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

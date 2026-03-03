@@ -1,14 +1,27 @@
 ---
-title: "Natural Ways to Support Digestive Enzyme Production After Age 60—Especially During Heavy Holiday Meals"
-slug: "natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals"
-description: "Explores age-related pancreatic enzyme decline and how targeted whole foods (fermented vegetables, ginger, pineapple), meal pacing, and bitters can improve fat/protein digestion—reducing postprandial fatigue and reflux in older adults."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["natural digestive enzymes seniors holiday meals", "healthy eating during family gatherings", "geriatric-digestion-natural"]
-primaryKeyword: "natural digestive enzymes seniors holiday meals"
-topicCluster: "geriatric-digestion-natural"
-image: ""
-relatedSlugs: ["quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60", "10-high-fiber-holiday-foods-that-support-digestion-after-50", "4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts", "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season"]
+title: >-
+  Natural Ways to Support Digestive Enzyme Production After Age 60—Especially
+  During Heavy Holiday Meals
+slug: >-
+  natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
+description: >-
+  Explores age-related pancreatic enzyme decline and how targeted whole foods
+  (fermented vegetables, ginger, pineapple), meal pacing, and bitters can
+  improve fat/protein digestion—reducing postprandial fatigue and reflux in
+  older adults.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: natural digestive enzymes seniors holiday meals
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - >-
+    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # Natural Digestive Enzyme Support for Seniors During Holiday Meals  

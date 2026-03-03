@@ -10,12 +10,8 @@ description: >-
   cardiac-brain symptoms in migraine-prone older adults.
 date: '2026-01-23'
 updated: '2026-01-23'
-tags:
-  - wine headache palpitations migraine cortical
-  - holiday heart syndrome prevention
-  - neurocardiac-symptoms
 primaryKeyword: wine headache palpitations migraine cortical
-topicCluster: neurocardiac-symptoms
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

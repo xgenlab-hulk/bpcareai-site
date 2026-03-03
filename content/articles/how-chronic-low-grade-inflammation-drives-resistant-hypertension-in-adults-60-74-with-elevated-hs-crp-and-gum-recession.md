@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Low-Grade Inflammation Drives Resistant Hypertension in Adults 60–74 With Elevated hs-CRP and Gum Recession"
-slug: "how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession"
-description: "Examines the oral-systemic link between periodontitis, IL-6 elevation, and endothelial dysfunction—and how treating gum disease may lower systolic BP by 8–12 mmHg in this cohort."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["inflammation and resistant hypertension adults 60-74", "blood pressure", "causes-risk-factors"]
-primaryKeyword: "inflammation and resistant hypertension adults 60-74"
-topicCluster: "causes-risk-factors"
-image: ""
-relatedSlugs: ["how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp", "how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension", "how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense", "how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis"]
+title: >-
+  How Chronic Low-Grade Inflammation Drives Resistant Hypertension in Adults
+  60–74 With Elevated hs-CRP and Gum Recession
+slug: >-
+  how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
+description: >-
+  Examines the oral-systemic link between periodontitis, IL-6 elevation, and
+  endothelial dysfunction—and how treating gum disease may lower systolic BP by
+  8–12 mmHg in this cohort.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: inflammation and resistant hypertension adults 60-74
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+  - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
+  - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
+  - >-
+    how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
 ---
 
 # How Chronic Inflammation Fuels Resistant Hypertension in Adults 60–74—And What You Can Do About It

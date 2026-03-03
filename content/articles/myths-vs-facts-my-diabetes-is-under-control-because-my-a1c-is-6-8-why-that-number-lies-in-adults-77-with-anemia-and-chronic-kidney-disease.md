@@ -1,14 +1,28 @@
 ---
-title: "Myths vs Facts: 'My Diabetes Is Under Control Because My A1c Is 6.8' — Why That Number Lies in Adults 77+ With Anemia and Chronic Kidney Disease"
-slug: "myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease"
-description: "Debunks A1c reliability in presence of hemoglobin variants, iron deficiency, uremia, and shortened RBC lifespan — compares with fructosamine, GA, and CGM-derived eA1c; includes calculator for adjusted targets."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["A1c inaccuracy anemia CKD elderly", "diabetes", "glycemic-marker-reliability"]
-primaryKeyword: "A1c inaccuracy anemia CKD elderly"
-topicCluster: "glycemic-marker-reliability"
-image: ""
-relatedSlugs: ["when-to-worry-about-stable-a1c-and-rising-fasting-glucose-especially-in-adults-68-84-with-type-2-diabetes-chronic-kidney-disease-stage-3-and-declining-albumin", "why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals", "how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation", "understanding-a1c-goals-for-seniors-with-diabetes", "does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin"]
+title: >-
+  Myths vs Facts: 'My Diabetes Is Under Control Because My A1c Is 6.8' — Why
+  That Number Lies in Adults 77+ With Anemia and Chronic Kidney Disease
+slug: >-
+  myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
+description: >-
+  Debunks A1c reliability in presence of hemoglobin variants, iron deficiency,
+  uremia, and shortened RBC lifespan — compares with fructosamine, GA, and
+  CGM-derived eA1c; includes calculator for adjusted targets.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: A1c inaccuracy anemia CKD elderly
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-stable-a1c-and-rising-fasting-glucose-especially-in-adults-68-84-with-type-2-diabetes-chronic-kidney-disease-stage-3-and-declining-albumin
+  - >-
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
+  - >-
+    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
+  - understanding-a1c-goals-for-seniors-with-diabetes
+  - >-
+    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
 ---
 
 # Why Your A1c Might Be Lying: Understanding A1c Inaccuracy in Anemia, CKD, and Older Adults

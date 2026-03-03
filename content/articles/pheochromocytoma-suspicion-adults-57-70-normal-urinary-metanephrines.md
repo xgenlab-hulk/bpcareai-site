@@ -11,12 +11,8 @@ description: >-
   timing to avoid false negatives.
 date: '2026-01-29'
 updated: '2026-01-29'
-tags:
-  - pheochromocytoma suspicion adults 57-70 normal urinary metanephrines
-  - blood pressure
-  - diagnosis-testing
 primaryKeyword: pheochromocytoma suspicion adults 57-70 normal urinary metanephrines
-topicCluster: diagnosis-testing
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-

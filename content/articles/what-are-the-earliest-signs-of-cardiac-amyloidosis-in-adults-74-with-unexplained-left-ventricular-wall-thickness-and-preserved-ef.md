@@ -1,14 +1,29 @@
 ---
-title: "What Are the Earliest Signs of Cardiac Amyloidosis in Adults 74+ With Unexplained Left Ventricular Wall Thickness and Preserved EF?"
-slug: "what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef"
-description: "Highlights low-voltage ECG despite thick walls, abnormal global longitudinal strain ‘apical sparing’ pattern, and urinary SAP/AL amyloid biomarkers before biopsy confirmation."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["cardiac amyloidosis early signs lv thickness", "heart disease", "infiltrative-cardiomyopathy-detection"]
-primaryKeyword: "cardiac amyloidosis early signs lv thickness"
-topicCluster: "infiltrative-cardiomyopathy-detection"
-image: ""
-relatedSlugs: ["when-should-you-suspect-cardiac-amyloidosis-in-adults-over-72-with-unexplained-left-ventricular-hypertrophy-and-which-biomarkers-add-value-beyond-nt-probnp", "when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings", "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction", "red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue", "when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction"]
+title: >-
+  What Are the Earliest Signs of Cardiac Amyloidosis in Adults 74+ With
+  Unexplained Left Ventricular Wall Thickness and Preserved EF?
+slug: >-
+  what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef
+description: >-
+  Highlights low-voltage ECG despite thick walls, abnormal global longitudinal
+  strain ‘apical sparing’ pattern, and urinary SAP/AL amyloid biomarkers before
+  biopsy confirmation.
+date: '2026-01-16'
+updated: '2026-01-16'
+primaryKeyword: cardiac amyloidosis early signs lv thickness
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    when-should-you-suspect-cardiac-amyloidosis-in-adults-over-72-with-unexplained-left-ventricular-hypertrophy-and-which-biomarkers-add-value-beyond-nt-probnp
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
 ---
 
 # Recognizing Cardiac Amyloidosis Early Signs in Older Adults With Unexplained LV Thickness

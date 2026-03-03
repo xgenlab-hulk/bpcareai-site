@@ -1,14 +1,27 @@
 ---
-title: "Does Daily 2000 IU Vitamin D3 Actually Reduce Myocardial Fibrosis in Adults 59–73 With Type 2 Diabetes and Elevated Galectin-3?"
-slug: "does-daily-2000-iu-vitamin-d3-actually-reduce-myocardial-fibrosis-in-adults-59-73-with-type-2-diabetes-and-elevated-galectin-3"
-description: "Reviews VITAL-DKD, D-Health, and fibrosis imaging trials to clarify dose-response relationships, optimal serum 25(OH)D targets (>40 ng/mL), and synergistic nutrients (vitamin K2, magnesium)."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["vitamin d3 myocardial fibrosis type 2 diabetes", "heart disease", "nutrient-fibrosis-modulation"]
-primaryKeyword: "vitamin d3 myocardial fibrosis type 2 diabetes"
-topicCluster: "nutrient-fibrosis-modulation"
-image: ""
-relatedSlugs: ["does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency", "the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65", "can-vitamin-d-deficiency-make-diabetes-worse-in-seniors", "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease", "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55"]
+title: >-
+  Does Daily 2000 IU Vitamin D3 Actually Reduce Myocardial Fibrosis in Adults
+  59–73 With Type 2 Diabetes and Elevated Galectin-3?
+slug: >-
+  does-daily-2000-iu-vitamin-d3-actually-reduce-myocardial-fibrosis-in-adults-59-73-with-type-2-diabetes-and-elevated-galectin-3
+description: >-
+  Reviews VITAL-DKD, D-Health, and fibrosis imaging trials to clarify
+  dose-response relationships, optimal serum 25(OH)D targets (>40 ng/mL), and
+  synergistic nutrients (vitamin K2, magnesium).
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: vitamin d3 myocardial fibrosis type 2 diabetes
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency
+  - >-
+    the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
+  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 ---
 
 # Can Vitamin D3 Supplementation Help Reduce Myocardial Fibrosis in Adults With Type 2 Diabetes?

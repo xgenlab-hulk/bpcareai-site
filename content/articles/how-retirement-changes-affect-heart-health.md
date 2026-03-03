@@ -6,10 +6,6 @@ description: >-
   cardiovascular wellness.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - retirement lifestyle changes and heart health
-  - heart health
-  - heart-health
 primaryKeyword: retirement lifestyle changes and heart health
 topicCluster: cardiovascular-health
 image: ''

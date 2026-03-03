@@ -6,12 +6,8 @@ description: >-
   breath—that may signal future heart issues.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - early warning signs of heart disease years in advance
-  - heart disease
-  - heart-health
 primaryKeyword: early warning signs of heart disease years in advance
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart

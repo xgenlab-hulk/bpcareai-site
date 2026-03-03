@@ -1,14 +1,28 @@
 ---
-title: "Best Hydration Strategies *During* Holiday Travel for Adults 71+ With Stage 3 CKD and Diuretic Use — To Prevent Hypovolemia-Induced Arrhythmias"
-slug: "best-hydration-strategies-during-holiday-travel-for-adults-71-with-stage-3-ckd-and-diuretic-use-to-prevent-hypovolemia-induced-arrhythmias"
-description: "Practical, kidney-safe hydration protocols tailored for air travel and road trips, balancing fluid needs with sodium, potassium, and diuretic timing."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["holiday travel hydration arrhythmia prevention", "holiday heart syndrome prevention", "travel-hydration"]
-primaryKeyword: "holiday travel hydration arrhythmia prevention"
-topicCluster: "travel-hydration"
-image: ""
-relatedSlugs: ["best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air", "warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history", "quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups", "the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use", "12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation"]
+title: >-
+  Best Hydration Strategies *During* Holiday Travel for Adults 71+ With Stage 3
+  CKD and Diuretic Use — To Prevent Hypovolemia-Induced Arrhythmias
+slug: >-
+  best-hydration-strategies-during-holiday-travel-for-adults-71-with-stage-3-ckd-and-diuretic-use-to-prevent-hypovolemia-induced-arrhythmias
+description: >-
+  Practical, kidney-safe hydration protocols tailored for air travel and road
+  trips, balancing fluid needs with sodium, potassium, and diuretic timing.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: holiday travel hydration arrhythmia prevention
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+  - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
+  - >-
+    quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
+  - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
+  - >-
+    12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
 ---
 
 # Safe Holiday Travel Hydration for Adults 71+ With Stage 3 CKD and Diuretic Use: A Practical Guide to Holiday Travel Hydration Arrhythmia Prevention

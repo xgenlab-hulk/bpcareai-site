@@ -1,14 +1,30 @@
 ---
-title: "Does Daily 10-Minute Resistance Band Training Lower Fasting Glucose and Increase Skeletal Muscle GLUT4 Translocation in Adults 67–79 With Sarcopenic Obesity?"
-slug: "does-daily-10-minute-resistance-band-training-lower-fasting-glucose-and-increase-skeletal-muscle-glut4-translocation-in-adults-67-79-with-sarcopenic-obesity"
-description: "Presents mechanistic data from a 12-week trial showing muscle fiber-type shifts, capillary density changes, and real-time glucose flux imaging pre/post intervention."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["resistance band training fasting glucose elderly", "diabetes", "exercise-physiology-mechanisms"]
-primaryKeyword: "resistance band training fasting glucose elderly"
-topicCluster: "exercise-physiology-mechanisms"
-image: ""
-relatedSlugs: ["does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss", "a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71", "does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis", "5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake", "natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70"]
+title: >-
+  Does Daily 10-Minute Resistance Band Training Lower Fasting Glucose and
+  Increase Skeletal Muscle GLUT4 Translocation in Adults 67–79 With Sarcopenic
+  Obesity?
+slug: >-
+  does-daily-10-minute-resistance-band-training-lower-fasting-glucose-and-increase-skeletal-muscle-glut4-translocation-in-adults-67-79-with-sarcopenic-obesity
+description: >-
+  Presents mechanistic data from a 12-week trial showing muscle fiber-type
+  shifts, capillary density changes, and real-time glucose flux imaging pre/post
+  intervention.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: resistance band training fasting glucose elderly
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
+  - >-
+    a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71
+  - >-
+    does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis
+  - >-
+    5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake
+  - >-
+    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
 ---
 
 # Can Daily Resistance Band Training Lower Fasting Glucose in Older Adults with Sarcopenic Obesity?

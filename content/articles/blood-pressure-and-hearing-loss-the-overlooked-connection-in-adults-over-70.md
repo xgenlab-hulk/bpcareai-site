@@ -7,12 +7,8 @@ description: >-
   risk indicators in aging populations.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - blood pressure and hearing loss elderly
-  - blood pressure
-  - sensory-vascular-link
 primaryKeyword: blood pressure and hearing loss elderly
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - blood-pressure-and-kidney-health-what-seniors-need-to-know

@@ -11,12 +11,8 @@ description: >-
   mid-flight.
 date: '2026-01-07'
 updated: '2026-01-07'
-tags:
-  - left atrial strain during air travel
-  - heart disease
-  - afib-travel-physiology
 primaryKeyword: left atrial strain during air travel
-topicCluster: afib-travel-physiology
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-

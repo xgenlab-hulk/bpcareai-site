@@ -10,12 +10,8 @@ description: >-
   this is often misdiagnosed as 'burnout' or 'aging'.
 date: '2026-01-10'
 updated: '2026-01-10'
-tags:
-  - autoimmune polyglandular syndrome diabetes fatigue
-  - diabetes
-  - differential-diagnosis-alert
 primaryKeyword: autoimmune polyglandular syndrome diabetes fatigue
-topicCluster: differential-diagnosis-alert
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,30 @@
 ---
-title: "Warning Signs Your 'Well-Controlled' A1c Is Masking Severe Nocturnal Hypoglycemia — Even With Normal CGM Time-in-Range in Adults 68+ on Once-Daily GLP-1 Agonists"
-slug: "warning-signs-your-well-controlled-a1c-is-masking-severe-nocturnal-hypoglycemia-even-with-normal-cgm-time-in-range-in-adults-68-on-once-daily-glp-1-agonists"
-description: "Identifies paradoxical biomarkers—e.g., elevated evening cortisol, suppressed nocturnal growth hormone, and morning 8-amino acid panel shifts—that signal recurrent hypoglycemia missed by daytime-only metrics."
-date: "2026-02-23"
-updated: "2026-02-23"
-tags: ["nocturnal hypoglycemia masked a1c", "diabetes", "hypoglycemia-detection-gaps"]
-primaryKeyword: "nocturnal hypoglycemia masked a1c"
-topicCluster: "hypoglycemia-detection-gaps"
-image: ""
-relatedSlugs: ["what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance", "what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71", "when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use", "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68", "7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation"]
+title: >-
+  Warning Signs Your 'Well-Controlled' A1c Is Masking Severe Nocturnal
+  Hypoglycemia — Even With Normal CGM Time-in-Range in Adults 68+ on Once-Daily
+  GLP-1 Agonists
+slug: >-
+  warning-signs-your-well-controlled-a1c-is-masking-severe-nocturnal-hypoglycemia-even-with-normal-cgm-time-in-range-in-adults-68-on-once-daily-glp-1-agonists
+description: >-
+  Identifies paradoxical biomarkers—e.g., elevated evening cortisol, suppressed
+  nocturnal growth hormone, and morning 8-amino acid panel shifts—that signal
+  recurrent hypoglycemia missed by daytime-only metrics.
+date: '2026-02-23'
+updated: '2026-02-23'
+primaryKeyword: nocturnal hypoglycemia masked a1c
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
+  - >-
+    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
+  - >-
+    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
+  - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
+  - >-
+    7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation
 ---
 
 # When “Well-Controlled” A1c Hides Nocturnal Hypoglycemia in Older Adults on GLP-1s  

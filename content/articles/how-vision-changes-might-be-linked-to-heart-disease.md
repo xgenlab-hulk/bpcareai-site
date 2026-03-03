@@ -6,12 +6,8 @@ description: >-
   health issues.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - vision changes and heart disease connection
-  - heart disease
-  - heart-health
 primaryKeyword: vision changes and heart disease connection
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - diabetes-and-vision-changes-what-seniors-need-to-know

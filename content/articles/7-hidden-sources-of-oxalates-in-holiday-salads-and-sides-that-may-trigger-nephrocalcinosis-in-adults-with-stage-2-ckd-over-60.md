@@ -1,14 +1,27 @@
 ---
-title: "7 Hidden Sources of Oxalates in Holiday Salads and Sides That May Trigger Nephrocalcinosis in Adults With Stage 2 CKD Over 60"
-slug: "7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60"
-description: "Uncovers oxalate-rich but rarely flagged ingredients—like roasted beetroot, spinach-topped crostini, and candied ginger—common in festive meals and dangerous for seniors with declining renal oxalate excretion."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["holiday oxalates ckid nephrocalcinosis", "healthy holiday eating for seniors", "renal-diet-oxalate-safety"]
-primaryKeyword: "holiday oxalates ckid nephrocalcinosis"
-topicCluster: "renal-diet-oxalate-safety"
-image: ""
-relatedSlugs: ["a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease", "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome"]
+title: >-
+  7 Hidden Sources of Oxalates in Holiday Salads and Sides That May Trigger
+  Nephrocalcinosis in Adults With Stage 2 CKD Over 60
+slug: >-
+  7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60
+description: >-
+  Uncovers oxalate-rich but rarely flagged ingredients—like roasted beetroot,
+  spinach-topped crostini, and candied ginger—common in festive meals and
+  dangerous for seniors with declining renal oxalate excretion.
+date: '2025-12-29'
+updated: '2025-12-29'
+primaryKeyword: holiday oxalates ckid nephrocalcinosis
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # Holiday Oxalates, CKD, and Nephrocalcinosis: A Gentle Guide for Healthy Holiday Eating for Seniors

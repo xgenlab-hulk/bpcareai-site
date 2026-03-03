@@ -1,14 +1,28 @@
 ---
-title: "7 Silent Signs Your Nerve Health Is Declining — Especially If You’re Over 65 With Type 2 Diabetes and No Painful Neuropathy"
-slug: "7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy"
-description: "Explores early, non-painful indicators of diabetic peripheral neuropathy—including reduced vibration sense, unexplained skin dryness, and abnormal foot temperature asymmetry—often missed before numbness or burning begins."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["silent signs of diabetic neuropathy", "diabetes", "complications-neuropathy"]
-primaryKeyword: "silent signs of diabetic neuropathy"
-topicCluster: "complications-neuropathy"
-image: ""
-relatedSlugs: ["recognizing-silent-heart-attacks-in-diabetics-over-60", "myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain", "5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house", "warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78", "7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62"]
+title: >-
+  7 Silent Signs Your Nerve Health Is Declining — Especially If You’re Over 65
+  With Type 2 Diabetes and No Painful Neuropathy
+slug: >-
+  7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
+description: >-
+  Explores early, non-painful indicators of diabetic peripheral
+  neuropathy—including reduced vibration sense, unexplained skin dryness, and
+  abnormal foot temperature asymmetry—often missed before numbness or burning
+  begins.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: silent signs of diabetic neuropathy
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
+  - myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
+  - >-
+    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
+  - >-
+    7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62
 ---
 
 # 7 Early, Silent Signs of Diabetic Neuropathy You Might Overlook — Especially After Age 65

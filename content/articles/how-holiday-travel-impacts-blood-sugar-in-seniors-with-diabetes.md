@@ -6,12 +6,8 @@ description: >-
   in older adults and what proactive steps can help maintain stability.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - holiday travel blood sugar seniors
-  - managing blood sugar during Christmas and New Year
-  - lifestyle-modification-during-travel
 primaryKeyword: holiday travel blood sugar seniors
-topicCluster: lifestyle-changes
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

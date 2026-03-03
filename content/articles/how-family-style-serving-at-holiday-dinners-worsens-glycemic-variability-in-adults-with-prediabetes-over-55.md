@@ -1,14 +1,27 @@
 ---
-title: "How Family-Style Serving at Holiday Dinners Worsens Glycemic Variability in Adults With Prediabetes Over 55"
-slug: "how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55"
-description: "Examines the impact of unmeasured portions, delayed eating, and mixed-macronutrient sequencing on 2-hour postprandial glucose spikes—and provides a 'plate-first' serving protocol."
-date: "2025-12-23"
-updated: "2025-12-23"
-tags: ["family-style serving prediabetes seniors", "healthy holiday eating for seniors", "meal-structure-glycemic-control"]
-primaryKeyword: "family-style serving prediabetes seniors"
-topicCluster: "meal-structure-glycemic-control"
-image: ""
-relatedSlugs: ["how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60", "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control", "how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes", "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings", "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes"]
+title: >-
+  How Family-Style Serving at Holiday Dinners Worsens Glycemic Variability in
+  Adults With Prediabetes Over 55
+slug: >-
+  how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+description: >-
+  Examines the impact of unmeasured portions, delayed eating, and
+  mixed-macronutrient sequencing on 2-hour postprandial glucose spikes—and
+  provides a 'plate-first' serving protocol.
+date: '2025-12-23'
+updated: '2025-12-23'
+primaryKeyword: family-style serving prediabetes seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+  - >-
+    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---
 
 # How Family-Style Serving Affects Blood Sugar in Seniors with Prediabetes—and Simple Ways to Stay Steady

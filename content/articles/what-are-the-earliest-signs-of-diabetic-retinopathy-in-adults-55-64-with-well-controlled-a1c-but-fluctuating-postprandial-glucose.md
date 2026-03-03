@@ -1,14 +1,29 @@
 ---
-title: "What Are the Earliest Signs of Diabetic Retinopathy in Adults 55–64 With Well-Controlled A1c But Fluctuating Postprandial Glucose?"
-slug: "what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose"
-description: "Explores subtle, pre-symptomatic retinal microvascular changes detectable via ultra-widefield imaging—and how glycemic variability, not just mean glucose, drives early damage."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["early diabetic retinopathy signs fluctuating glucose", "diabetes", "complications-eyes"]
-primaryKeyword: "early diabetic retinopathy signs fluctuating glucose"
-topicCluster: "complications-eyes"
-image: ""
-relatedSlugs: ["warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71", "what-are-the-earliest-changes-in-skin-elasticity-and-wound-healing-that-signal-subclinical-microvascular-damage-in-women-over-65-with-long-standing-diabetes", "what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease", "when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy", "what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65"]
+title: >-
+  What Are the Earliest Signs of Diabetic Retinopathy in Adults 55–64 With
+  Well-Controlled A1c But Fluctuating Postprandial Glucose?
+slug: >-
+  what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose
+description: >-
+  Explores subtle, pre-symptomatic retinal microvascular changes detectable via
+  ultra-widefield imaging—and how glycemic variability, not just mean glucose,
+  drives early damage.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: early diabetic retinopathy signs fluctuating glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+  - >-
+    what-are-the-earliest-changes-in-skin-elasticity-and-wound-healing-that-signal-subclinical-microvascular-damage-in-women-over-65-with-long-standing-diabetes
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
+  - >-
+    when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
 ---
 
 # Early Diabetic Retinopathy Signs in Adults 55–64: Why Fluctuating Glucose Matters Even With Good A1c

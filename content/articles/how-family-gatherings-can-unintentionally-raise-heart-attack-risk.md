@@ -6,12 +6,8 @@ description: >-
   disruption that may contribute to cardiac incidents.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - family gatherings heart attack risk
-  - holiday heart syndrome prevention
-  - social-behavioral-factors
 primaryKeyword: family gatherings heart attack risk
-topicCluster: mental-wellness
+topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it

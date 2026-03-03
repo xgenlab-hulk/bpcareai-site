@@ -1,14 +1,26 @@
 ---
-title: "What Are the Earliest Behavioral Red Flags of Seasonal Depression in Women Over 65—Before Mood Changes Appear?"
-slug: "what-are-the-earliest-behavioral-red-flags-of-seasonal-depression-in-women-over-65-before-mood-changes-appear"
-description: "Explores subtle, pre-mood-based indicators like altered social rhythm, light-seeking avoidance, and circadian drift in older women, validated by longitudinal geriatric psychiatry studies."
-date: "2026-01-02"
-updated: "2026-01-02"
-tags: ["early signs seasonal depression women over 65", "seasonal depression in older adults", "behavioral-red-flags-preclinical"]
-primaryKeyword: "early signs seasonal depression women over 65"
-topicCluster: "behavioral-red-flags-preclinical"
-image: ""
-relatedSlugs: ["10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore", "why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter", "7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging", "why-sad-screening-tools-like-the-phq-9-often-miss-seasonal-depression-in-women-over-65-and-what-to-use-instead", "the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees"]
+title: >-
+  What Are the Earliest Behavioral Red Flags of Seasonal Depression in Women
+  Over 65—Before Mood Changes Appear?
+slug: >-
+  what-are-the-earliest-behavioral-red-flags-of-seasonal-depression-in-women-over-65-before-mood-changes-appear
+description: >-
+  Explores subtle, pre-mood-based indicators like altered social rhythm,
+  light-seeking avoidance, and circadian drift in older women, validated by
+  longitudinal geriatric psychiatry studies.
+date: '2026-01-02'
+updated: '2026-01-02'
+primaryKeyword: early signs seasonal depression women over 65
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - 10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - >-
+    why-sad-screening-tools-like-the-phq-9-often-miss-seasonal-depression-in-women-over-65-and-what-to-use-instead
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
 ---
 
 # Early Signs of Seasonal Depression in Women Over 65—Before the Sadness Sets In

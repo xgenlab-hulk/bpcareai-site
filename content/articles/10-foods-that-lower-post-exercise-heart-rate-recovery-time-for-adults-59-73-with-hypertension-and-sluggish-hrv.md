@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Lower Post-Exercise Heart Rate Recovery Time — For Adults 59–73 With Hypertension and Sluggish HRV"
-slug: "10-foods-that-lower-post-exercise-heart-rate-recovery-time-for-adults-59-73-with-hypertension-and-sluggish-hrv"
-description: "Highlights foods with rapid vagotonic and nitric oxide–modulating effects — including fermented kimchi (pre-dosed), roasted beetroot powder timing, and roasted walnuts with dark chocolate — validated by HRV recovery metrics."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["foods lower heart rate recovery", "heart disease", "recovery-nutrition"]
-primaryKeyword: "foods lower heart rate recovery"
-topicCluster: "recovery-nutrition"
-image: ""
-relatedSlugs: ["10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity", "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance", "10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia", "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness"]
+title: >-
+  10 Foods That Lower Post-Exercise Heart Rate Recovery Time — For Adults 59–73
+  With Hypertension and Sluggish HRV
+slug: >-
+  10-foods-that-lower-post-exercise-heart-rate-recovery-time-for-adults-59-73-with-hypertension-and-sluggish-hrv
+description: >-
+  Highlights foods with rapid vagotonic and nitric oxide–modulating effects —
+  including fermented kimchi (pre-dosed), roasted beetroot powder timing, and
+  roasted walnuts with dark chocolate — validated by HRV recovery metrics.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: foods lower heart rate recovery
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
+  - >-
+    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+  - >-
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness
 ---
 
 # 10 Foods That Help Lower Heart Rate Recovery — Especially for Adults 59–73 with High Blood Pressure and Sluggish HRV

@@ -11,12 +11,8 @@ description: >-
   aneurysm rupture.
 date: '2026-01-13'
 updated: '2026-01-13'
-tags:
-  - aortic strain warning signs marfanoid features back pain
-  - blood pressure
-  - aortic-structural-risk-signs
 primaryKeyword: aortic strain warning signs marfanoid features back pain
-topicCluster: aortic-structural-risk-signs
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

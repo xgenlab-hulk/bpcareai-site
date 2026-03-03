@@ -1,14 +1,30 @@
 ---
-title: "Why Your Blood Glucose Monitor Readings Jump After a 15-Minute Hot Bath — And What to Do Instead for Accurate Tracking in Adults 67–83 With Peripheral Neuropathy and Poor Capillary Flow"
-slug: "why-your-blood-glucose-monitor-readings-jump-after-a-15-minute-hot-bath-and-what-to-do-instead-for-accurate-tracking-in-adults-67-83-with-peripheral-neuropathy-and-poor-capillary-flow"
-description: "Explains thermal vasodilation–induced interstitial fluid shifts and hematocrit changes that falsely elevate fingerstick readings—and provides validated alternative monitoring protocols."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["hot bath affects glucose monitor accuracy", "diabetes", "monitoring-accuracy-factors"]
-primaryKeyword: "hot bath affects glucose monitor accuracy"
-topicCluster: "monitoring-accuracy-factors"
-image: ""
-relatedSlugs: ["myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal", "the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79", "why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72", "myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction", "does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin"]
+title: >-
+  Why Your Blood Glucose Monitor Readings Jump After a 15-Minute Hot Bath — And
+  What to Do Instead for Accurate Tracking in Adults 67–83 With Peripheral
+  Neuropathy and Poor Capillary Flow
+slug: >-
+  why-your-blood-glucose-monitor-readings-jump-after-a-15-minute-hot-bath-and-what-to-do-instead-for-accurate-tracking-in-adults-67-83-with-peripheral-neuropathy-and-poor-capillary-flow
+description: >-
+  Explains thermal vasodilation–induced interstitial fluid shifts and hematocrit
+  changes that falsely elevate fingerstick readings—and provides validated
+  alternative monitoring protocols.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: hot bath affects glucose monitor accuracy
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal
+  - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
+  - >-
+    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+  - >-
+    myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction
+  - >-
+    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
 ---
 
 # Why a Hot Bath Affects Glucose Monitor Accuracy — And How to Get Reliable Readings After Age 67

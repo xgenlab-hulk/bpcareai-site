@@ -6,10 +6,6 @@ description: >-
   managed differently.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - isolated systolic hypertension in elderly
-  - blood pressure
-  - blood-pressure-basics
 primaryKeyword: isolated systolic hypertension in elderly
 topicCluster: hypertension-management
 image: ''

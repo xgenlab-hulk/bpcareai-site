@@ -1,14 +1,25 @@
 ---
-title: "When to Worry About Palpitations After Midnight Mass—A 3-Stage Red-Flag Timeline for Women Over 68 With Diastolic Dysfunction"
-slug: "when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction"
-description: "Provides a clinically grounded, time-based decision tree (0–2 hrs, 2–6 hrs, >6 hrs post-event) to distinguish benign holiday stress responses from early decompensated diastolic heart failure."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["palpitations after midnight mass in elderly women", "holiday heart syndrome prevention", "emergency-symptoms-timeline"]
-primaryKeyword: "palpitations after midnight mass in elderly women"
-topicCluster: "emergency-symptoms-timeline"
-image: ""
-relatedSlugs: ["when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60", "when-to-worry-about-palpitations-after-christmas-dinner", "can-late-night-holiday-parties-disrupt-heart-rhythm-after-60", "can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes", "how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm"]
+title: >-
+  When to Worry About Palpitations After Midnight Mass—A 3-Stage Red-Flag
+  Timeline for Women Over 68 With Diastolic Dysfunction
+slug: >-
+  when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+description: >-
+  Provides a clinically grounded, time-based decision tree (0–2 hrs, 2–6 hrs, >6
+  hrs post-event) to distinguish benign holiday stress responses from early
+  decompensated diastolic heart failure.
+date: '2025-12-25'
+updated: '2025-12-25'
+primaryKeyword: palpitations after midnight mass in elderly women
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+  - when-to-worry-about-palpitations-after-christmas-dinner
+  - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
+  - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
+  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # When Palpitations After Midnight Mass in Elderly Women Might Signal Something More—A Gentle, Time-Based Guide

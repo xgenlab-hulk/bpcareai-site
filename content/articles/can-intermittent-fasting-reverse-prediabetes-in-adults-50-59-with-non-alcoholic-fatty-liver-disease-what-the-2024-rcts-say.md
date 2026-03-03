@@ -1,14 +1,29 @@
 ---
-title: "Can Intermittent Fasting Reverse Prediabetes in Adults 50–59 With Non-Alcoholic Fatty Liver Disease? What the 2024 RCTs Say"
-slug: "can-intermittent-fasting-reverse-prediabetes-in-adults-50-59-with-non-alcoholic-fatty-liver-disease-what-the-2024-rcts-say"
-description: "Synthesizes findings from three recent randomized trials testing 16:8 and 5:2 protocols in middle-aged adults with NAFLD and prediabetes — focusing on hepatic insulin sensitivity, ALT normalization, and sustainability."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["intermittent fasting prediabetes NAFLD adults", "diabetes", "intervention-evidence-review"]
-primaryKeyword: "intermittent fasting prediabetes NAFLD adults"
-topicCluster: "intervention-evidence-review"
-image: ""
-relatedSlugs: ["how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin", "does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis", "what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide", "what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension", "what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62"]
+title: >-
+  Can Intermittent Fasting Reverse Prediabetes in Adults 50–59 With
+  Non-Alcoholic Fatty Liver Disease? What the 2024 RCTs Say
+slug: >-
+  can-intermittent-fasting-reverse-prediabetes-in-adults-50-59-with-non-alcoholic-fatty-liver-disease-what-the-2024-rcts-say
+description: >-
+  Synthesizes findings from three recent randomized trials testing 16:8 and 5:2
+  protocols in middle-aged adults with NAFLD and prediabetes — focusing on
+  hepatic insulin sensitivity, ALT normalization, and sustainability.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: intermittent fasting prediabetes NAFLD adults
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
+  - >-
+    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
+  - >-
+    what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide
+  - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
+  - >-
+    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
 ---
 
 # Can Intermittent Fasting Help Adults 50–59 Reverse Prediabetes and NAFLD? What the 2024 RCTs Tell Us

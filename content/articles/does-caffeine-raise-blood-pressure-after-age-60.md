@@ -6,10 +6,6 @@ description: >-
   adults and whether moderation is key.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - caffeine effect on blood pressure over 60
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: caffeine effect on blood pressure over 60
 topicCluster: hypertension-management
 image: ''

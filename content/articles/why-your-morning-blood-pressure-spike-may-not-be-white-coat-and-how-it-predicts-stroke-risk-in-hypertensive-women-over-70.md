@@ -10,12 +10,8 @@ description: >-
   single readings.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - morning blood pressure spike stroke risk
-  - heart health
-  - causes-gender-specific
 primaryKeyword: morning blood pressure spike stroke risk
-topicCluster: causes-gender-specific
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - why-morning-blood-pressure-surges-are-more-dangerous-in-winter

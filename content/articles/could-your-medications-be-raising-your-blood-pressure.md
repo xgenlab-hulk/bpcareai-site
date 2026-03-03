@@ -6,12 +6,8 @@ description: >-
   especially in older adults.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - medications that raise blood pressure seniors
-  - blood pressure
-  - cardiovascular-risk
 primaryKeyword: medications that raise blood pressure seniors
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - is-your-medication-causing-high-blood-pressure

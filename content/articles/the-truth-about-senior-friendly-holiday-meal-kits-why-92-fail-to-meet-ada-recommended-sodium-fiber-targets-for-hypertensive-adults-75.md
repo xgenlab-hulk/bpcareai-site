@@ -1,14 +1,28 @@
 ---
-title: "The Truth About 'Senior-Friendly' Holiday Meal Kits — Why 92% Fail to Meet ADA-Recommended Sodium & Fiber Targets for Hypertensive Adults 75+"
-slug: "the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75"
-description: "Investigates marketing claims vs. actual nutrient profiling in subscription meal kits, with lab-tested sodium, fiber, and potassium data for cardiac-safe holiday eating."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["senior-friendly meal kits sodium fiber analysis", "healthy holiday eating for seniors", "commercial-product-evaluation"]
-primaryKeyword: "senior-friendly meal kits sodium fiber analysis"
-topicCluster: "commercial-product-evaluation"
-image: ""
-relatedSlugs: ["the-truth-about-senior-friendly-holiday-meal-kits-why-81-fail-sodium-fiber-and-texture-safety-standards-for-adults-75", "the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension", "the-truth-about-healthy-store-bought-holiday-meals-for-older-adults", "the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy", "the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension"]
+title: >-
+  The Truth About 'Senior-Friendly' Holiday Meal Kits — Why 92% Fail to Meet
+  ADA-Recommended Sodium & Fiber Targets for Hypertensive Adults 75+
+slug: >-
+  the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75
+description: >-
+  Investigates marketing claims vs. actual nutrient profiling in subscription
+  meal kits, with lab-tested sodium, fiber, and potassium data for cardiac-safe
+  holiday eating.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: senior-friendly meal kits sodium fiber analysis
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-senior-friendly-holiday-meal-kits-why-81-fail-sodium-fiber-and-texture-safety-standards-for-adults-75
+  - >-
+    the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension
+  - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - >-
+    the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
+  - >-
+    the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension
 ---
 
 # What the Data Reveals: A Senior-Friendly Meal Kits Sodium Fiber Analysis for Heart-Healthy Holiday Eating

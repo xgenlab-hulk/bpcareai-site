@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: 'I Don’t Need Eye Exams Because My Vision Is Fine' — What OCT Angiography Reveals About Early Retinal Capillary Dropout in Adults 61+ With 8-Year T2D History"
-slug: "myths-vs-facts-i-don-t-need-eye-exams-because-my-vision-is-fine-what-oct-angiography-reveals-about-early-retinal-capillary-dropout-in-adults-61-with-8-year-t2d-history"
-description: "Debunks vision-based assumptions using objective microvascular imaging—showing how retinal non-perfusion precedes symptoms by years, especially in those with suboptimal BP control and sleep apnea."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["diabetic retinopathy oct angiography myths", "diabetes", "retinal-microvascular-early-detection"]
-primaryKeyword: "diabetic retinopathy oct angiography myths"
-topicCluster: "retinal-microvascular-early-detection"
-image: ""
-relatedSlugs: ["what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80", "how-sleep-apnea-severity-predicts-diabetic-retinopathy-progression-rate-in-adults-64-80-with-non-proliferative-dr-and-ahi-15", "warning-signs-of-asymptomatic-diabetic-retinopathy-in-adults-66-with-10-years-of-controlled-a1c-that-aren-t-detected-on-annual-dilated-exam", "warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71", "what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose"]
+title: >-
+  Myths vs Facts: 'I Don’t Need Eye Exams Because My Vision Is Fine' — What OCT
+  Angiography Reveals About Early Retinal Capillary Dropout in Adults 61+ With
+  8-Year T2D History
+slug: >-
+  myths-vs-facts-i-don-t-need-eye-exams-because-my-vision-is-fine-what-oct-angiography-reveals-about-early-retinal-capillary-dropout-in-adults-61-with-8-year-t2d-history
+description: >-
+  Debunks vision-based assumptions using objective microvascular imaging—showing
+  how retinal non-perfusion precedes symptoms by years, especially in those with
+  suboptimal BP control and sleep apnea.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: diabetic retinopathy oct angiography myths
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
+  - >-
+    how-sleep-apnea-severity-predicts-diabetic-retinopathy-progression-rate-in-adults-64-80-with-non-proliferative-dr-and-ahi-15
+  - >-
+    warning-signs-of-asymptomatic-diabetic-retinopathy-in-adults-66-with-10-years-of-controlled-a1c-that-aren-t-detected-on-annual-dilated-exam
+  - >-
+    warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
+  - >-
+    what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose
 ---
 
 # Seeing Beyond Clarity: Why “My Vision Is Fine” Doesn’t Rule Out Early Diabetic Retinopathy — And What OCT Angiography Reveals

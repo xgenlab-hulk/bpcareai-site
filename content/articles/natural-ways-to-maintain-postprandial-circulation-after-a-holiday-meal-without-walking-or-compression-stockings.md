@@ -1,14 +1,29 @@
 ---
-title: "Natural Ways to Maintain Postprandial Circulation After a Holiday Meal—Without Walking or Compression Stockings"
-slug: "natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings"
-description: "Evidence-based, low-mobility techniques—including timed diaphragmatic breathing, seated calf pumping, and targeted acupressure—to counteract venous stasis and orthostatic intolerance in sedentary or mobility-limited adults over 60."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["postprandial circulation seniors no walking", "healthy holiday eating for seniors", "circulatory-support-sedentary"]
-primaryKeyword: "postprandial circulation seniors no walking"
-topicCluster: "circulatory-support-sedentary"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings", "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension", "quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85"]
+title: >-
+  Natural Ways to Maintain Postprandial Circulation After a Holiday Meal—Without
+  Walking or Compression Stockings
+slug: >-
+  natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
+description: >-
+  Evidence-based, low-mobility techniques—including timed diaphragmatic
+  breathing, seated calf pumping, and targeted acupressure—to counteract venous
+  stasis and orthostatic intolerance in sedentary or mobility-limited adults
+  over 60.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: postprandial circulation seniors no walking
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+  - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
 ---
 
 # Gentle Ways to Support Postprandial Circulation in Seniors—Without Walking or Compression Stockings  

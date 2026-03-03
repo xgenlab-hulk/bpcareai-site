@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Sugar-Free' Holiday Desserts for Men 70+ With Fructose Malabsorption and Early NAFLD"
-slug: "the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld"
-description: "Debunks labeling myths around sugar alcohols and artificial sweeteners in festive treats, explaining osmotic diarrhea risks, liver fat accumulation mechanisms, and safer whole-food dessert alternatives."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["sugar free desserts for fructose malabsorption seniors", "healthy holiday eating for seniors", "hepatic-digestive-sweetener-safety"]
-primaryKeyword: "sugar free desserts for fructose malabsorption seniors"
-topicCluster: "hepatic-digestive-sweetener-safety"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue", "the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment", "the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes", "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose", "the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk"]
+title: >-
+  The Truth About 'Sugar-Free' Holiday Desserts for Men 70+ With Fructose
+  Malabsorption and Early NAFLD
+slug: >-
+  the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
+description: >-
+  Debunks labeling myths around sugar alcohols and artificial sweeteners in
+  festive treats, explaining osmotic diarrhea risks, liver fat accumulation
+  mechanisms, and safer whole-food dessert alternatives.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: sugar free desserts for fructose malabsorption seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+  - >-
+    the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
 ---
 
 # Safer Holiday Sweets: Understanding Sugar-Free Desserts for Fructose Malabsorption Seniors

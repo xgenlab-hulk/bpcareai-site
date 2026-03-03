@@ -1,14 +1,26 @@
 ---
-title: "Warning Signs Your Home Air Purifier’s Ionizer Is Generating Ozone That Impairs Pancreatic Islet Oxygenation — Even With Normal SpO2 in Adults 70+ With Type 1 Diabetes"
-slug: "warning-signs-your-home-air-purifier-s-ionizer-is-generating-ozone-that-impairs-pancreatic-islet-oxygenation-even-with-normal-spo2-in-adults-70-with-type-1-diabetes"
-description: "Highlights subclinical ozone-induced mitochondrial ROS in beta cells, altered insulin secretory kinetics, and validated ozone-free air purification alternatives."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["air purifier ozone pancreatic islet oxygenation", "diabetes", "environmental-ozone-beta-cell-function"]
-primaryKeyword: "air purifier ozone pancreatic islet oxygenation"
-topicCluster: "environmental-ozone-beta-cell-function"
-image: ""
-relatedSlugs: ["how-indoor-air-pollutants-pm2-5-no2-disrupt-pancreatic-islet-mitochondrial-respiration-and-exacerbate-glucose-variability-in-adults-60-74-with-type-2-diabetes-and-urban-residency", "natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia", "natural-ways-to-support-beta-cell-resilience-during-spring-allergy-season-without-antihistamines-or-corticosteroids-in-adults-55-65-with-recent-onset-type-1-diabetes"]
+title: >-
+  Warning Signs Your Home Air Purifier’s Ionizer Is Generating Ozone That
+  Impairs Pancreatic Islet Oxygenation — Even With Normal SpO2 in Adults 70+
+  With Type 1 Diabetes
+slug: >-
+  warning-signs-your-home-air-purifier-s-ionizer-is-generating-ozone-that-impairs-pancreatic-islet-oxygenation-even-with-normal-spo2-in-adults-70-with-type-1-diabetes
+description: >-
+  Highlights subclinical ozone-induced mitochondrial ROS in beta cells, altered
+  insulin secretory kinetics, and validated ozone-free air purification
+  alternatives.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: air purifier ozone pancreatic islet oxygenation
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-indoor-air-pollutants-pm2-5-no2-disrupt-pancreatic-islet-mitochondrial-respiration-and-exacerbate-glucose-variability-in-adults-60-74-with-type-2-diabetes-and-urban-residency
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia
+  - >-
+    natural-ways-to-support-beta-cell-resilience-during-spring-allergy-season-without-antihistamines-or-corticosteroids-in-adults-55-65-with-recent-onset-type-1-diabetes
 ---
 
 # Could Your Air Purifier’s Ionizer Be Affecting Pancreatic Islet Oxygenation? Understanding Air Purifier Ozone and Diabetes Health in Adults 70+

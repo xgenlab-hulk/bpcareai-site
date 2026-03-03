@@ -1,14 +1,28 @@
 ---
-title: "7 Hidden Medication Interactions That Raise Blood Pressure in Seniors Taking Antidepressants, Antihistamines, or NSAIDs"
-slug: "7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids"
-description: "Details how commonly prescribed non-cardiac drugs unintentionally increase peripheral resistance or fluid retention — with safer alternatives and monitoring cues."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["blood pressure raising medication interactions", "blood pressure", "polypharmacy-risks"]
-primaryKeyword: "blood pressure raising medication interactions"
-topicCluster: "polypharmacy-risks"
-image: ""
-relatedSlugs: ["7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants", "could-your-medications-be-raising-your-blood-pressure", "10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68", "14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors", "7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension"]
+title: >-
+  7 Hidden Medication Interactions That Raise Blood Pressure in Seniors Taking
+  Antidepressants, Antihistamines, or NSAIDs
+slug: >-
+  7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids
+description: >-
+  Details how commonly prescribed non-cardiac drugs unintentionally increase
+  peripheral resistance or fluid retention — with safer alternatives and
+  monitoring cues.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: blood pressure raising medication interactions
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
+  - could-your-medications-be-raising-your-blood-pressure
+  - >-
+    10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
+  - >-
+    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
+  - >-
+    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
 ---
 
 # Hidden Blood Pressure Raising Medication Interactions in Seniors: What Your Antidepressants, Allergy Meds, and Pain Relievers Might Be Doing

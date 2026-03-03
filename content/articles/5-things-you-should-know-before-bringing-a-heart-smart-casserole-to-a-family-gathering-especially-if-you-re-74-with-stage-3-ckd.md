@@ -1,14 +1,29 @@
 ---
-title: "5 Things You Should Know Before Bringing a 'Heart-Smart' Casserole to a Family Gathering — Especially If You’re 74+ With Stage 3 CKD"
-slug: "5-things-you-should-know-before-bringing-a-heart-smart-casserole-to-a-family-gathering-especially-if-you-re-74-with-stage-3-ckd"
-description: "Covers potassium-phosphorus balancing, hidden phosphate additives in premade ingredients, safe reheating protocols for renal diets, and label-reading red flags often missed by home cooks."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["heart smart casserole for kidney disease", "healthy eating during family gatherings", "renal-cardiac-cooking"]
-primaryKeyword: "heart smart casserole for kidney disease"
-topicCluster: "renal-cardiac-cooking"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole", "5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74", "a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease", "the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease", "simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia"]
+title: >-
+  5 Things You Should Know Before Bringing a 'Heart-Smart' Casserole to a Family
+  Gathering — Especially If You’re 74+ With Stage 3 CKD
+slug: >-
+  5-things-you-should-know-before-bringing-a-heart-smart-casserole-to-a-family-gathering-especially-if-you-re-74-with-stage-3-ckd
+description: >-
+  Covers potassium-phosphorus balancing, hidden phosphate additives in premade
+  ingredients, safe reheating protocols for renal diets, and label-reading red
+  flags often missed by home cooks.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: heart smart casserole for kidney disease
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole
+  - >-
+    5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
+  - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
+  - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
+  - >-
+    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
 ---
 
 # What to Know Before Bringing a Heart-Smart Casserole for Kidney Disease to Your Next Family Gathering

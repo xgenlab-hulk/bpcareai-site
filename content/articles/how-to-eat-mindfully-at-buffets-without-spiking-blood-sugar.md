@@ -6,12 +6,8 @@ description: >-
   carb limits and avoiding overeating triggers.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - mindful eating at holiday buffets
-  - managing blood sugar during Christmas and New Year
-  - behavioral-strategies
 primaryKeyword: mindful eating at holiday buffets
-topicCluster: lifestyle-changes
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

@@ -1,14 +1,30 @@
 ---
-title: "How Social Isolation After Age 70 Alters Circadian Cortisol Rhythms and Elevates Nighttime Systolic Pressure—Independent of Loneliness"
-slug: "how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness"
-description: "Distinguishes objective isolation (living alone, <1 weekly contact) from subjective loneliness using cortisol awakening response (CAR) and 24-h BP mapping data—revealing direct neuroendocrine pathways to nocturnal hypertension."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["social isolation cortisol nighttime bp over 70", "blood pressure", "social-neuroendocrine-hypertension"]
-primaryKeyword: "social isolation cortisol nighttime bp over 70"
-topicCluster: "social-neuroendocrine-hypertension"
-image: ""
-relatedSlugs: ["the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone", "how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk", "how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints", "can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65", "how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood"]
+title: >-
+  How Social Isolation After Age 70 Alters Circadian Cortisol Rhythms and
+  Elevates Nighttime Systolic Pressure—Independent of Loneliness
+slug: >-
+  how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
+description: >-
+  Distinguishes objective isolation (living alone, <1 weekly contact) from
+  subjective loneliness using cortisol awakening response (CAR) and 24-h BP
+  mapping data—revealing direct neuroendocrine pathways to nocturnal
+  hypertension.
+date: '2025-12-26'
+updated: '2025-12-26'
+primaryKeyword: social isolation cortisol nighttime bp over 70
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
+  - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
+  - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
+  - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
 ---
 
 # How Social Isolation After 70 Rewires Your Body’s Clock—And Raises Nighttime Blood Pressure (Even Without Feeling Lonely)

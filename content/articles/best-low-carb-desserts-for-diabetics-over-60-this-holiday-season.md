@@ -6,12 +6,8 @@ description: >-
   satisfy cravings without spiking glucose levels.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - low-carb desserts for seniors
-  - managing blood sugar during Christmas and New Year
-  - diabetic-diet
 primaryKeyword: low-carb desserts for seniors
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - top-10-diabetes-friendly-snacks-for-people-over-60

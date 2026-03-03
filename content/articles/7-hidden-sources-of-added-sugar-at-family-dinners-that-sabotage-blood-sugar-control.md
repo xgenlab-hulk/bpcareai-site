@@ -1,14 +1,25 @@
 ---
-title: "7 Hidden Sources of Added Sugar at Family Dinners That Sabotage Blood Sugar Control"
-slug: "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control"
-description: "Reveals unexpected holiday foods—like stuffing, cranberry sauce, and savory dips—that spike glucose levels, with practical label-reading tips and swaps for adults over 55 with prediabetes or type 2 diabetes."
-date: "2025-12-21"
-updated: "2025-12-21"
-tags: ["hidden added sugar family dinners", "healthy eating during family gatherings", "diabetic-diet-identification"]
-primaryKeyword: "hidden added sugar family dinners"
-topicCluster: "diabetic-diet-identification"
-image: ""
-relatedSlugs: ["7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid", "7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose", "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes"]
+title: >-
+  7 Hidden Sources of Added Sugar at Family Dinners That Sabotage Blood Sugar
+  Control
+slug: >-
+  7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+description: >-
+  Reveals unexpected holiday foods—like stuffing, cranberry sauce, and savory
+  dips—that spike glucose levels, with practical label-reading tips and swaps
+  for adults over 55 with prediabetes or type 2 diabetes.
+date: '2025-12-21'
+updated: '2025-12-21'
+primaryKeyword: hidden added sugar family dinners
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
+  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---
 
 # 7 Surprising Sources of Hidden Added Sugar at Family Dinners That Affect Blood Sugar Control

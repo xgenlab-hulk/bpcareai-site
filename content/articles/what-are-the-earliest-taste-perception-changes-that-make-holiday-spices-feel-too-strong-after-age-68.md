@@ -10,12 +10,8 @@ description: >-
   compensation behaviors.
 date: '2026-01-07'
 updated: '2026-01-07'
-tags:
-  - taste perception changes holiday spices
-  - healthy eating during family gatherings
-  - sensory-nutrition-aging
 primaryKeyword: taste perception changes holiday spices
-topicCluster: sensory-nutrition-aging
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

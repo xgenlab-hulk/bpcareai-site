@@ -6,12 +6,8 @@ description: >-
   medical attention.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - leg swelling and heart failure symptoms after 50
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: leg swelling and heart failure symptoms after 50
-topicCluster: cardiovascular-health
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - heart-disease-warning-signs-that-appear-years-in-advance

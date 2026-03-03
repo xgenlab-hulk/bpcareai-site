@@ -10,12 +10,8 @@ description: >-
   amyloid infiltration, and iron overload in real-world clinical ambiguity.
 date: '2026-01-21'
 updated: '2026-01-21'
-tags:
-  - cardiac mri t1 mapping interpretation
-  - heart disease
-  - advanced-imaging-literacy
 primaryKeyword: cardiac mri t1 mapping interpretation
-topicCluster: advanced-imaging-literacy
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

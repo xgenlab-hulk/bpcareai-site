@@ -6,12 +6,8 @@ description: >-
   cravings.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - healthy diabetic snacks for seniors
-  - diabetes
-  - diabetes-nutrition
 primaryKeyword: healthy diabetic snacks for seniors
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s

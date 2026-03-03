@@ -1,14 +1,29 @@
 ---
-title: "Why Morning Cortisol Spikes Worsen Dawn Phenomenon in Adults 62+ With Long-Standing Type 2 Diabetes and Adrenal Fatigue Symptoms"
-slug: "why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms"
-description: "Explains the HPA axis–glucose dysregulation loop, links salivary cortisol rhythm testing to insulin titration decisions, and offers non-pharmacologic circadian reset strategies."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["cortisol dawn phenomenon type 2 diabetes", "diabetes", "endocrine-circadian-interplay"]
-primaryKeyword: "cortisol dawn phenomenon type 2 diabetes"
-topicCluster: "endocrine-circadian-interplay"
-image: ""
-relatedSlugs: ["what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71", "what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response", "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70", "why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66", "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes"]
+title: >-
+  Why Morning Cortisol Spikes Worsen Dawn Phenomenon in Adults 62+ With
+  Long-Standing Type 2 Diabetes and Adrenal Fatigue Symptoms
+slug: >-
+  why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
+description: >-
+  Explains the HPA axis–glucose dysregulation loop, links salivary cortisol
+  rhythm testing to insulin titration decisions, and offers non-pharmacologic
+  circadian reset strategies.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: cortisol dawn phenomenon type 2 diabetes
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
+  - >-
+    what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response
+  - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
+  - >-
+    why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
 ---
 
 # How Morning Cortisol Spikes Fuel the Cortisol Dawn Phenomenon in Older Adults With Type 2 Diabetes and Adrenal Symptoms

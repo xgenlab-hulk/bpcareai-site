@@ -1,14 +1,31 @@
 ---
-title: "Natural Ways to Support Gastric Acid Production During Holiday Feasts — Without PPIs or Supplements — For Adults 63–78 With Age-Related Hypochlorhydria"
-slug: "natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria"
-description: "Details evidence-backed, non-pharmacologic strategies — including pre-meal bitter herbs, chewing pace, temperature modulation of beverages, and timed protein distribution — to enhance digestion and reduce bloating, reflux, and micronutrient malabsorption."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["natural gastric acid support holiday meals", "healthy eating during family gatherings", "digestive-physiology"]
-primaryKeyword: "natural gastric acid support holiday meals"
-topicCluster: "digestive-physiology"
-image: ""
-relatedSlugs: ["natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios", "natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78", "natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms", "natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals", "natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements"]
+title: >-
+  Natural Ways to Support Gastric Acid Production During Holiday Feasts —
+  Without PPIs or Supplements — For Adults 63–78 With Age-Related
+  Hypochlorhydria
+slug: >-
+  natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
+description: >-
+  Details evidence-backed, non-pharmacologic strategies — including pre-meal
+  bitter herbs, chewing pace, temperature modulation of beverages, and timed
+  protein distribution — to enhance digestion and reduce bloating, reflux, and
+  micronutrient malabsorption.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: natural gastric acid support holiday meals
+topicCluster: natural-remedies
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
+  - >-
+    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+  - >-
+    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
+  - >-
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
 ---
 
 # Natural Gastric Acid Support for Holiday Meals: Gentle, Evidence-Backed Strategies for Adults 63–78

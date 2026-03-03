@@ -6,12 +6,8 @@ description: >-
   cardiovascular health, especially for people over 50.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - morning blood pressure spike causes
-  - blood pressure
-  - cardiovascular-risk
 primaryKeyword: morning blood pressure spike causes
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50

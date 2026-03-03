@@ -1,14 +1,29 @@
 ---
-title: "How Seasonal Air Pollution Peaks Alter ST-Segment Variability — And Why That Increases Acute Coronary Syndrome Risk in Adults 59+ With Stable Angina"
-slug: "how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina"
-description: "Analyzes real-world ECG monitoring data showing seasonal PM2.5 exposure correlates with increased ST-segment depression variability and plaque destabilization biomarkers."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["air pollution and angina stability seasonal", "heart disease", "environmental-triggers"]
-primaryKeyword: "air pollution and angina stability seasonal"
-topicCluster: "environmental-triggers"
-image: ""
-relatedSlugs: ["how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina", "can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation", "how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries", "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments", "how-living-near-high-traffic-urban-corridors-alters-autonomic-modulation-of-ventricular-repolarization-in-adults-57-65-with-borderline-qtc-prolongation"]
+title: >-
+  How Seasonal Air Pollution Peaks Alter ST-Segment Variability — And Why That
+  Increases Acute Coronary Syndrome Risk in Adults 59+ With Stable Angina
+slug: >-
+  how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina
+description: >-
+  Analyzes real-world ECG monitoring data showing seasonal PM2.5 exposure
+  correlates with increased ST-segment depression variability and plaque
+  destabilization biomarkers.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: air pollution and angina stability seasonal
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - >-
+    how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina
+  - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
+  - >-
+    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+  - >-
+    how-living-near-high-traffic-urban-corridors-alters-autonomic-modulation-of-ventricular-repolarization-in-adults-57-65-with-borderline-qtc-prolongation
 ---
 
 # How Seasonal Air Pollution Affects Angina Stability — What Adults 59+ Should Know

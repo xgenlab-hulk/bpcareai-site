@@ -11,12 +11,8 @@ description: >-
   fasting glucose despite low systemic bioavailability.
 date: '2026-01-16'
 updated: '2026-01-16'
-tags:
-  - inhaled steroids gluconeogenesis diabetes
-  - diabetes
-  - medications-lung-liver
 primaryKeyword: inhaled steroids gluconeogenesis diabetes
-topicCluster: medications-lung-liver
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

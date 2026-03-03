@@ -6,12 +6,8 @@ description: >-
   diabetes management.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - menopause and blood sugar fluctuations in women with diabetes
-  - diabetes
-  - diabetes-women-health
 primaryKeyword: menopause and blood sugar fluctuations in women with diabetes
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - blood-pressure-changes-during-menopause-what-women-should-know

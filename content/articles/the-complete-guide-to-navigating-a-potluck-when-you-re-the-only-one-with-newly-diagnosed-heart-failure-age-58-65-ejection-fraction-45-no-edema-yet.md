@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Navigating a Potluck When You’re the Only One with Newly Diagnosed Heart Failure — Age 58–65, Ejection Fraction 45%, No Edema Yet"
-slug: "the-complete-guide-to-navigating-a-potluck-when-you-re-the-only-one-with-newly-diagnosed-heart-failure-age-58-65-ejection-fraction-45-no-edema-yet"
-description: "Covers RSVP language, dish-label negotiation tactics, sodium-aware substitutions, and how to tactfully decline ‘just one bite’ without social friction."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["potluck heart failure newly diagnosed guide", "healthy eating during family gatherings", "social-nutrition-heart-failure"]
-primaryKeyword: "potluck heart failure newly diagnosed guide"
-topicCluster: "social-nutrition-heart-failure"
-image: ""
-relatedSlugs: ["the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70", "the-complete-guide-to-navigating-potluck-contributions-when-you-re-79-with-severe-orthostatic-hypotension-and-nocturnal-polyuria", "what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions", "how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82", "5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck"]
+title: >-
+  The Complete Guide to Navigating a Potluck When You’re the Only One with Newly
+  Diagnosed Heart Failure — Age 58–65, Ejection Fraction 45%, No Edema Yet
+slug: >-
+  the-complete-guide-to-navigating-a-potluck-when-you-re-the-only-one-with-newly-diagnosed-heart-failure-age-58-65-ejection-fraction-45-no-edema-yet
+description: >-
+  Covers RSVP language, dish-label negotiation tactics, sodium-aware
+  substitutions, and how to tactfully decline ‘just one bite’ without social
+  friction.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: potluck heart failure newly diagnosed guide
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
+  - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-79-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
+  - >-
+    what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
+  - >-
+    how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82
+  - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
 ---
 
 # Your Potluck Heart Failure Newly Diagnosed Guide: Navigating Social Gatherings with Confidence (Age 58–65, EF 45%)

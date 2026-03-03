@@ -1,14 +1,30 @@
 ---
-title: "What Research Says About 'Intermittent Fasting Windows' *Before* Cardiac Catheterization — Impact on Contrast-Induced Nephropathy Risk in Adults 71+ With CKD Stage 3"
-slug: "what-research-says-about-intermittent-fasting-windows-before-cardiac-catheterization-impact-on-contrast-induced-nephropathy-risk-in-adults-71-with-ckd-stage-3"
-description: "Synthesizes recent nephro-cardiology studies on pre-procedure fasting duration, hydration timing, and bicarbonate protocols to reduce contrast toxicity in older adults with kidney disease."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["intermittent fasting before cardiac catheterization", "heart disease", "procedural-preparation"]
-primaryKeyword: "intermittent fasting before cardiac catheterization"
-topicCluster: "procedural-preparation"
-image: ""
-relatedSlugs: ["quick-ways-to-neutralize-excess-holiday-sodium-within-20-minutes-using-targeted-potassium-rich-bite-sized-foods-and-post-meal-hydration-sequencing-in-adults-71-with-ckd-stage-3", "how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort", "what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45", "what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension", "quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups"]
+title: >-
+  What Research Says About 'Intermittent Fasting Windows' *Before* Cardiac
+  Catheterization — Impact on Contrast-Induced Nephropathy Risk in Adults 71+
+  With CKD Stage 3
+slug: >-
+  what-research-says-about-intermittent-fasting-windows-before-cardiac-catheterization-impact-on-contrast-induced-nephropathy-risk-in-adults-71-with-ckd-stage-3
+description: >-
+  Synthesizes recent nephro-cardiology studies on pre-procedure fasting
+  duration, hydration timing, and bicarbonate protocols to reduce contrast
+  toxicity in older adults with kidney disease.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: intermittent fasting before cardiac catheterization
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-neutralize-excess-holiday-sodium-within-20-minutes-using-targeted-potassium-rich-bite-sized-foods-and-post-meal-hydration-sequencing-in-adults-71-with-ckd-stage-3
+  - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+  - >-
+    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
+  - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
+  - >-
+    quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
 ---
 
 # What the Evidence Shows About Intermittent Fasting Before Cardiac Catheterization in Older Adults With Chronic Kidney Disease

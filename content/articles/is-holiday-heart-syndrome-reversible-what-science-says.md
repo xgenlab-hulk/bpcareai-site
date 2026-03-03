@@ -6,12 +6,8 @@ description: >-
   holiday triggers cause lasting damage or resolve completely.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - holiday heart syndrome reversible
-  - holiday heart syndrome prevention
-  - treatment-options
 primaryKeyword: holiday heart syndrome reversible
-topicCluster: medications-supplements
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - what-research-says-about-holiday-heart-syndrome-and-aging-hearts

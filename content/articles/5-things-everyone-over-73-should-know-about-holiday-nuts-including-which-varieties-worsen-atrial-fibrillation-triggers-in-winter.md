@@ -1,14 +1,29 @@
 ---
-title: "5 Things Everyone Over 73 Should Know About Holiday Nuts—Including Which Varieties Worsen Atrial Fibrillation Triggers in Winter"
-slug: "5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter"
-description: "Covers magnesium-to-potassium ratios in common holiday nuts, how cold-induced vagal tone interacts with nut-induced arrhythmia risk, and safe serving sizes for seniors with paroxysmal AFib—plus a quick-reference ‘AFib-Friendly Nut Chart’."
-date: "2026-01-10"
-updated: "2026-01-10"
-tags: ["holiday nuts and atrial fibrillation risk", "healthy eating during family gatherings", "cardiac-arrhythmia-nutrition"]
-primaryKeyword: "holiday nuts and atrial fibrillation risk"
-topicCluster: "cardiac-arrhythmia-nutrition"
-image: ""
-relatedSlugs: ["quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults", "best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes", "10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone"]
+title: >-
+  5 Things Everyone Over 73 Should Know About Holiday Nuts—Including Which
+  Varieties Worsen Atrial Fibrillation Triggers in Winter
+slug: >-
+  5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
+description: >-
+  Covers magnesium-to-potassium ratios in common holiday nuts, how cold-induced
+  vagal tone interacts with nut-induced arrhythmia risk, and safe serving sizes
+  for seniors with paroxysmal AFib—plus a quick-reference ‘AFib-Friendly Nut
+  Chart’.
+date: '2026-01-10'
+updated: '2026-01-10'
+primaryKeyword: holiday nuts and atrial fibrillation risk
+topicCluster: autonomic-nervous-regulation
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
+  - >-
+    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
 ---
 
 # What Seniors Over 73 Should Know About Holiday Nuts and Atrial Fibrillation Risk

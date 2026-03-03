@@ -10,12 +10,8 @@ description: >-
   metabolic health.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - low-carb restaurant menu truth
-  - diabetes
-  - nutrition-labeling
 primaryKeyword: low-carb restaurant menu truth
-topicCluster: nutrition-labeling
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

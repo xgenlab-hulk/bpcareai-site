@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Times of Day to Test Fasting Glucose — Based on Circadian Rhythms of Hepatic Gluconeogenesis in Adults 63+ With Dawn Phenomenon"
-slug: "12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon"
-description: "Moves beyond 'first thing in the morning' advice by aligning home glucose monitoring with liver enzyme cycles, cortisol surges, and age-related circadian shifts."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["best time to test fasting glucose seniors", "diabetes", "monitoring-circadian-rhythms"]
-primaryKeyword: "best time to test fasting glucose seniors"
-topicCluster: "monitoring-circadian-rhythms"
-image: ""
-relatedSlugs: ["why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner", "simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon", "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70"]
+title: >-
+  12 Science-Backed Times of Day to Test Fasting Glucose — Based on Circadian
+  Rhythms of Hepatic Gluconeogenesis in Adults 63+ With Dawn Phenomenon
+slug: >-
+  12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon
+description: >-
+  Moves beyond 'first thing in the morning' advice by aligning home glucose
+  monitoring with liver enzyme cycles, cortisol surges, and age-related
+  circadian shifts.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: best time to test fasting glucose seniors
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
 ---
 
 # Finding the Best Time to Test Fasting Glucose for Seniors — Aligning with Your Body’s Natural Rhythms

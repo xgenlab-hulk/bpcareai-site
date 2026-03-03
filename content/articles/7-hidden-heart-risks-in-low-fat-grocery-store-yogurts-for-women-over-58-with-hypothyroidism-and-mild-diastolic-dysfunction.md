@@ -10,12 +10,8 @@ description: >-
   diastolic impairment—especially in estrogen-deficient, thyroid-treated women.
 date: '2026-01-07'
 updated: '2026-01-07'
-tags:
-  - low-fat yogurt heart risks hypothyroid women
-  - heart health
-  - cardiac-diet-endocrine-interaction
 primaryKeyword: low-fat yogurt heart risks hypothyroid women
-topicCluster: cardiac-diet-endocrine-interaction
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

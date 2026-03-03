@@ -1,14 +1,30 @@
 ---
-title: "How Chronic Low-Grade Dental Inflammation Alters Endothelial Glycocalyx Thickness — And Why That Matters for Microvascular Coronary Flow Reserve in Adults 64+ With Stable Angina"
-slug: "how-chronic-low-grade-dental-inflammation-alters-endothelial-glycocalyx-thickness-and-why-that-matters-for-microvascular-coronary-flow-reserve-in-adults-64-with-stable-angina"
-description: "Connects periodontal disease biomarkers (e.g., sialyl Lewis X, hyaluronan fragments) to coronary microvascular dysfunction via glycocalyx degradation, with clinical implications for non-invasive FFRct interpretation."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["dental inflammation coronary microvascular flow", "heart health", "oral-systemic-cardiovascular-link"]
-primaryKeyword: "dental inflammation coronary microvascular flow"
-topicCluster: "oral-systemic-cardiovascular-link"
-image: ""
-relatedSlugs: ["how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense", "how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis", "how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension", "how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession"]
+title: >-
+  How Chronic Low-Grade Dental Inflammation Alters Endothelial Glycocalyx
+  Thickness — And Why That Matters for Microvascular Coronary Flow Reserve in
+  Adults 64+ With Stable Angina
+slug: >-
+  how-chronic-low-grade-dental-inflammation-alters-endothelial-glycocalyx-thickness-and-why-that-matters-for-microvascular-coronary-flow-reserve-in-adults-64-with-stable-angina
+description: >-
+  Connects periodontal disease biomarkers (e.g., sialyl Lewis X, hyaluronan
+  fragments) to coronary microvascular dysfunction via glycocalyx degradation,
+  with clinical implications for non-invasive FFRct interpretation.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: dental inflammation coronary microvascular flow
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
+  - >-
+    how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
+  - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
+  - >-
+    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
 ---
 
 # How Dental Inflammation Coronary Microvascular Flow Connects Your Gums to Heart Health

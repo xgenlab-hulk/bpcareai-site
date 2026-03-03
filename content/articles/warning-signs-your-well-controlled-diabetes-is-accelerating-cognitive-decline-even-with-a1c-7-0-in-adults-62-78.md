@@ -1,14 +1,28 @@
 ---
-title: "Warning Signs Your 'Well-Controlled' Diabetes Is Accelerating Cognitive Decline—Even With A1c <7.0% in Adults 62–78"
-slug: "warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78"
-description: "Identifies early neurocognitive markers: slowed processing speed on digit symbol tests, reduced hippocampal volume on MRI, and elevated CSF tau/β-amyloid ratios."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["diabetes cognitive decline warning signs", "diabetes", "neurocognitive-risk"]
-primaryKeyword: "diabetes cognitive decline warning signs"
-topicCluster: "neurocognitive-risk"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you", "how-kidney-function-declines-faster-in-older-adults-with-diabetes", "10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63", "warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71", "warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks"]
+title: >-
+  Warning Signs Your 'Well-Controlled' Diabetes Is Accelerating Cognitive
+  Decline—Even With A1c <7.0% in Adults 62–78
+slug: >-
+  warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
+description: >-
+  Identifies early neurocognitive markers: slowed processing speed on digit
+  symbol tests, reduced hippocampal volume on MRI, and elevated CSF
+  tau/β-amyloid ratios.
+date: '2026-01-05'
+updated: '2026-01-05'
+primaryKeyword: diabetes cognitive decline warning signs
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+  - how-kidney-function-declines-faster-in-older-adults-with-diabetes
+  - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+  - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
 ---
 
 # Early Diabetes Cognitive Decline Warning Signs—Even With “Good” A1c in Adults 62–78

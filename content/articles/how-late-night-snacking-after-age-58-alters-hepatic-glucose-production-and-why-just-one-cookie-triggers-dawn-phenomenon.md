@@ -1,14 +1,28 @@
 ---
-title: "How Late-Night Snacking After Age 58 Alters Hepatic Glucose Production—And Why 'Just One Cookie' Triggers Dawn Phenomenon"
-slug: "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon"
-description: "Explores the circadian disruption of liver metabolism in midlife+ adults with prediabetes or type 2 diabetes, linking nocturnal eating to elevated fasting glucose and insulin resistance."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["late-night snacking and fasting glucose over 58", "diabetes", "circadian-metabolism"]
-primaryKeyword: "late-night snacking and fasting glucose over 58"
-topicCluster: "circadian-metabolism"
-image: ""
-relatedSlugs: ["the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72", "7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis", "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65", "how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes"]
+title: >-
+  How Late-Night Snacking After Age 58 Alters Hepatic Glucose Production—And Why
+  'Just One Cookie' Triggers Dawn Phenomenon
+slug: >-
+  how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+description: >-
+  Explores the circadian disruption of liver metabolism in midlife+ adults with
+  prediabetes or type 2 diabetes, linking nocturnal eating to elevated fasting
+  glucose and insulin resistance.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: late-night snacking and fasting glucose over 58
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+  - >-
+    7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
 ---
 
 # How Late-Night Snacking After 58 Affects Fasting Glucose—And What Your Liver Is Really Doing Overnight

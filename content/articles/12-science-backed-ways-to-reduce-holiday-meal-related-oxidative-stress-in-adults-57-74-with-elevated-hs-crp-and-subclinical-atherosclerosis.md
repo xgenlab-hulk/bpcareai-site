@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Ways to Reduce Holiday Meal-Related Oxidative Stress in Adults 57–74 With Elevated hs-CRP and Subclinical Atherosclerosis"
-slug: "12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis"
-description: "Focuses on antioxidant-rich food pairings, cooking method swaps (e.g., air-fry vs. deep-fry), timing of polyphenol intake, and meal sequencing to lower postprandial ROS and endothelial adhesion molecule expression."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["reduce oxidative stress holiday meals", "healthy eating during family gatherings", "inflammatory-diet"]
-primaryKeyword: "reduce oxidative stress holiday meals"
-topicCluster: "inflammatory-diet"
-image: ""
-relatedSlugs: ["quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration", "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis", "natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation", "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72", "quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks"]
+title: >-
+  12 Science-Backed Ways to Reduce Holiday Meal-Related Oxidative Stress in
+  Adults 57–74 With Elevated hs-CRP and Subclinical Atherosclerosis
+slug: >-
+  12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis
+description: >-
+  Focuses on antioxidant-rich food pairings, cooking method swaps (e.g., air-fry
+  vs. deep-fry), timing of polyphenol intake, and meal sequencing to lower
+  postprandial ROS and endothelial adhesion molecule expression.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: reduce oxidative stress holiday meals
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
+  - >-
+    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
+  - >-
+    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
 ---
 
 # 12 Science-Backed Ways to Reduce Oxidative Stress During Holiday Meals—Especially After Age 57

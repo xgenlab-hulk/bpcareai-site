@@ -1,14 +1,29 @@
 ---
-title: "How Late-Night Holiday Snacking Alters Hepatic Gluconeogenesis Gene Expression — Evidence from Liver Biopsy Transcriptomics in Adults 52–61 With Insulin Resistance"
-slug: "how-late-night-holiday-snacking-alters-hepatic-gluconeogenesis-gene-expression-evidence-from-liver-biopsy-transcriptomics-in-adults-52-61-with-insulin-resistance"
-description: "Breaks down human molecular data showing how midnight eating shifts FOXO1, PCK1, and G6PC expression — and why timing matters more than total calories for overnight glucose control."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["late-night snacking hepatic gluconeogenesis", "holiday diabetes management", "molecular-nutrition-timing"]
-primaryKeyword: "late-night snacking hepatic gluconeogenesis"
-topicCluster: "molecular-nutrition-timing"
-image: ""
-relatedSlugs: ["how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon", "10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "how-late-night-pie-cravings-alter-circadian-clock-gene-expression-in-the-liver-and-why-that-matters-for-fasting-triglycerides-in-adults-58-67"]
+title: >-
+  How Late-Night Holiday Snacking Alters Hepatic Gluconeogenesis Gene Expression
+  — Evidence from Liver Biopsy Transcriptomics in Adults 52–61 With Insulin
+  Resistance
+slug: >-
+  how-late-night-holiday-snacking-alters-hepatic-gluconeogenesis-gene-expression-evidence-from-liver-biopsy-transcriptomics-in-adults-52-61-with-insulin-resistance
+description: >-
+  Breaks down human molecular data showing how midnight eating shifts FOXO1,
+  PCK1, and G6PC expression — and why timing matters more than total calories
+  for overnight glucose control.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: late-night snacking hepatic gluconeogenesis
+topicCluster: metabolic-syndrome-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+  - >-
+    10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-late-night-pie-cravings-alter-circadian-clock-gene-expression-in-the-liver-and-why-that-matters-for-fasting-triglycerides-in-adults-58-67
 ---
 
 # How Late-Night Snacking Affects Liver Glucose Production — What the Science Says for Adults Over 50

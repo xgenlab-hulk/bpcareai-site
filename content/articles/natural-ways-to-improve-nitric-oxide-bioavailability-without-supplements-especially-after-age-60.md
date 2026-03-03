@@ -10,12 +10,8 @@ description: >-
   nitrates.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - natural nitric oxide bioavailability aging
-  - heart health
-  - natural-remedies-physiology
 primaryKeyword: natural nitric oxide bioavailability aging
-topicCluster: natural-remedies-physiology
+topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-

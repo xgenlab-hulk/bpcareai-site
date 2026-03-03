@@ -10,12 +10,8 @@ description: >-
   disease prevention.
 date: '2026-02-08'
 updated: '2026-02-08'
-tags:
-  - lipoprotein a testing women over 67
-  - heart health
-  - genetic-lipid-women-aging
 primaryKeyword: lipoprotein a testing women over 67
-topicCluster: genetic-lipid-women-aging
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-

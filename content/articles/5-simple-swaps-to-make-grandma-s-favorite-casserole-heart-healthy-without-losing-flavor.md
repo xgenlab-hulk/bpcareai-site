@@ -11,12 +11,8 @@ description: >-
   managing hypertension or heart failure.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - heart-healthy casserole swaps seniors
-  - healthy eating during family gatherings
-  - cardiac-diet-cooking
 primaryKeyword: heart-healthy casserole swaps seniors
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - 7-smart-swaps-for-healthier-holiday-meals-after-65

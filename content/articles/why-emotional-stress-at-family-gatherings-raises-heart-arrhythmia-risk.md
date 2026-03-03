@@ -6,12 +6,8 @@ description: >-
   sudden cardiac rhythm disturbances in midlife and older adults.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - emotional stress and heart arrhythmia
-  - holiday heart syndrome prevention
-  - mental-emotional-health
 primaryKeyword: emotional stress and heart arrhythmia
-topicCluster: mental-wellness
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat

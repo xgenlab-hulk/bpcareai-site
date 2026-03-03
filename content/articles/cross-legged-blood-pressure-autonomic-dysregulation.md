@@ -1,14 +1,30 @@
 ---
-title: "When to Worry About 'Normal' Blood Pressure Readings That Occur *Only* While Sitting Cross-Legged — A Red Flag for Autonomic Dysregulation in Adults 61+ With Early Diabetes"
-slug: "when-to-worry-about-normal-blood-pressure-readings-that-occur-only-while-sitting-cross-legged-a-red-flag-for-autonomic-dysregulation-in-adults-61-with-early-diabetes"
-description: "Details how cross-legged posture masks orthostatic intolerance and amplifies sympathetic drive — revealing abnormal BP lability upon standing or during Valsalva — with diagnostic criteria from the 2024 Autonomic Testing Consensus."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["cross legged blood pressure autonomic dysregulation", "blood pressure", "postural-autonomic-diagnostic-clue"]
-primaryKeyword: "cross legged blood pressure autonomic dysregulation"
-topicCluster: "postural-autonomic-diagnostic-clue"
-image: ""
-relatedSlugs: ["does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58", "what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance", "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension", "when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss", "when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67"]
+title: >-
+  When to Worry About 'Normal' Blood Pressure Readings That Occur *Only* While
+  Sitting Cross-Legged — A Red Flag for Autonomic Dysregulation in Adults 61+
+  With Early Diabetes
+slug: >-
+  when-to-worry-about-normal-blood-pressure-readings-that-occur-only-while-sitting-cross-legged-a-red-flag-for-autonomic-dysregulation-in-adults-61-with-early-diabetes
+description: >-
+  Details how cross-legged posture masks orthostatic intolerance and amplifies
+  sympathetic drive — revealing abnormal BP lability upon standing or during
+  Valsalva — with diagnostic criteria from the 2024 Autonomic Testing Consensus.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: cross legged blood pressure autonomic dysregulation
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
+  - >-
+    what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
+  - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+  - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
+  - >-
+    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
 ---
 
 # When Cross-Legged Blood Pressure Readings Hide Autonomic Dysregulation in Adults 61+ With Early Diabetes

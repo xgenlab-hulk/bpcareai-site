@@ -10,12 +10,8 @@ description: >-
   '8-glasses-a-day' advice fails this demographic.
 date: '2025-12-24'
 updated: '2025-12-24'
-tags:
-  - dehydration and arterial stiffness hypertension
-  - blood pressure
-  - fluid-balance-vascular-health
 primaryKeyword: dehydration and arterial stiffness hypertension
-topicCluster: fluid-balance-vascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70

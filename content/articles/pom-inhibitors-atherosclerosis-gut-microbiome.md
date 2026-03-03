@@ -1,14 +1,30 @@
 ---
-title: "How Long-Term Proton Pump Inhibitor Use Elevates Risk of Subclinical Atherosclerosis in Adults 59–71 With GERD and Low HDL-C — Independent of Magnesium Levels"
-slug: "how-long-term-proton-pump-inhibitor-use-elevates-risk-of-subclinical-atherosclerosis-in-adults-59-71-with-gerd-and-low-hdl-c-independent-of-magnesium-levels"
-description: "Examines PPI-associated gut microbiome shifts and TMAO elevation as novel atherogenic pathways—separate from known electrolyte effects—using carotid intima-media thickness and coronary calcium scoring data."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["pom inhibitors atherosclerosis gut microbiome", "heart health", "pharmacotherapy-gut-heart-axis"]
-primaryKeyword: "pom inhibitors atherosclerosis gut microbiome"
-topicCluster: "pharmacotherapy-gut-heart-axis"
-image: ""
-relatedSlugs: ["how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals", "does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd", "how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history", "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now", "how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets"]
+title: >-
+  How Long-Term Proton Pump Inhibitor Use Elevates Risk of Subclinical
+  Atherosclerosis in Adults 59–71 With GERD and Low HDL-C — Independent of
+  Magnesium Levels
+slug: >-
+  how-long-term-proton-pump-inhibitor-use-elevates-risk-of-subclinical-atherosclerosis-in-adults-59-71-with-gerd-and-low-hdl-c-independent-of-magnesium-levels
+description: >-
+  Examines PPI-associated gut microbiome shifts and TMAO elevation as novel
+  atherogenic pathways—separate from known electrolyte effects—using carotid
+  intima-media thickness and coronary calcium scoring data.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: pom inhibitors atherosclerosis gut microbiome
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
+  - >-
+    does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
+  - >-
+    how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
+  - >-
+    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
+  - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
 ---
 
 # How Proton Pump Inhibitors, Gut Microbiome Shifts, and Silent Artery Changes Connect in Midlife Adults with GERD

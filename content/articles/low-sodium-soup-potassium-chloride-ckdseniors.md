@@ -1,14 +1,30 @@
 ---
-title: "The Truth About 'Low-Sodium' Canned Soups Marketed to Seniors — Why 83% Contain Unlabeled Potassium Chloride Blends That Trigger Hyperkalemic Bradycardia in Adults 76+ With CKD Stage 3"
-slug: "the-truth-about-low-sodium-canned-soups-marketed-to-seniors-why-83-contain-unlabeled-potassium-chloride-blends-that-trigger-hyperkalemic-bradycardia-in-adults-76-with-ckd-stage-3"
-description: "Investigates hidden electrolyte risks in commercially labeled heart-healthy foods, emphasizing potassium-related arrhythmia vulnerability in age-related renal decline."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["low-sodium soup potassium chloride ckdseniors", "blood pressure", "food-labeling-safety-gaps"]
-primaryKeyword: "low-sodium soup potassium chloride ckdseniors"
-topicCluster: "food-labeling-safety-gaps"
-image: ""
-relatedSlugs: ["the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk", "the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims", "the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65", "the-truth-about-low-sodium-holiday-soups-sold-in-senior-grocery-aisles-why-83-contain-unlabeled-potassium-binding-excipients-that-impair-cardiac-conduction-in-adults-71-on-spironolactone", "the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension"]
+title: >-
+  The Truth About 'Low-Sodium' Canned Soups Marketed to Seniors — Why 83%
+  Contain Unlabeled Potassium Chloride Blends That Trigger Hyperkalemic
+  Bradycardia in Adults 76+ With CKD Stage 3
+slug: >-
+  the-truth-about-low-sodium-canned-soups-marketed-to-seniors-why-83-contain-unlabeled-potassium-chloride-blends-that-trigger-hyperkalemic-bradycardia-in-adults-76-with-ckd-stage-3
+description: >-
+  Investigates hidden electrolyte risks in commercially labeled heart-healthy
+  foods, emphasizing potassium-related arrhythmia vulnerability in age-related
+  renal decline.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: low-sodium soup potassium chloride ckdseniors
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
+  - >-
+    the-truth-about-low-sodium-holiday-soups-sold-in-senior-grocery-aisles-why-83-contain-unlabeled-potassium-binding-excipients-that-impair-cardiac-conduction-in-adults-71-on-spironolactone
+  - >-
+    the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension
 ---
 
 # Hidden Electrolyte Risks in Low-Sodium Soup for Seniors with CKD — What You Need to Know About Potassium Chloride

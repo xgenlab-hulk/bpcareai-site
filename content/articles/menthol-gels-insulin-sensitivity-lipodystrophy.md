@@ -11,12 +11,8 @@ description: >-
   imaging alternatives.
 date: '2026-02-09'
 updated: '2026-02-09'
-tags:
-  - menthol gels insulin sensitivity lipodystrophy
-  - diabetes
-  - topical-agents-adipose-function
 primaryKeyword: menthol gels insulin sensitivity lipodystrophy
-topicCluster: topical-agents-adipose-function
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-

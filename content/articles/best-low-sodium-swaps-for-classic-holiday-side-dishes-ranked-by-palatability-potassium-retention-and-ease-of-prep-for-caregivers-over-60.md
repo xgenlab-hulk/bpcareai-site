@@ -1,14 +1,27 @@
 ---
-title: "Best Low-Sodium Swaps for Classic Holiday Side Dishes—Ranked by Palatability, Potassium Retention, and Ease of Prep for Caregivers Over 60"
-slug: "best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60"
-description: "A comparative ranking (1–10) of 12 swaps (e.g., nutritional yeast for Parmesan, tamari for gravy base), weighted for sensory appeal, renal safety, and one-handed prep feasibility."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["low sodium holiday side dish swaps", "healthy eating during family gatherings", "caregiver-friendly-diet-swaps"]
-primaryKeyword: "low sodium holiday side dish swaps"
-topicCluster: "caregiver-friendly-diet-swaps"
-image: ""
-relatedSlugs: ["simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "7-smart-swaps-for-healthier-holiday-meals-after-65", "does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings", "10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50", "a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease"]
+title: >-
+  Best Low-Sodium Swaps for Classic Holiday Side Dishes—Ranked by Palatability,
+  Potassium Retention, and Ease of Prep for Caregivers Over 60
+slug: >-
+  best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
+description: >-
+  A comparative ranking (1–10) of 12 swaps (e.g., nutritional yeast for
+  Parmesan, tamari for gravy base), weighted for sensory appeal, renal safety,
+  and one-handed prep feasibility.
+date: '2025-12-27'
+updated: '2025-12-27'
+primaryKeyword: low sodium holiday side dish swaps
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
+  - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
+  - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
 ---
 
 # Best Low-Sodium Holiday Side Dish Swaps for Older Adults—Practical, Tasty & Kidney-Safe

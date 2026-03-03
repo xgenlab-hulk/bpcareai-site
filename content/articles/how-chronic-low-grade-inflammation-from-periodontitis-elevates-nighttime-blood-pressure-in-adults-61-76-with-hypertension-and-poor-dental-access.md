@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Low-Grade Inflammation From Periodontitis Elevates Nighttime Blood Pressure in Adults 61–76 With Hypertension and Poor Dental Access"
-slug: "how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access"
-description: "Links gingival IL-6, CRP, and TNF-α spillover to nocturnal endothelial nitric oxide synthase uncoupling and blunted dipping—supported by interventional studies on scaling/root planing and BP trajectory."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["periodontitis nighttime blood pressure inflammation", "blood pressure", "oral-systemic-hypertension"]
-primaryKeyword: "periodontitis nighttime blood pressure inflammation"
-topicCluster: "oral-systemic-hypertension"
-image: ""
-relatedSlugs: ["how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp", "how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis", "how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension", "how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria"]
+title: >-
+  How Chronic Low-Grade Inflammation From Periodontitis Elevates Nighttime Blood
+  Pressure in Adults 61–76 With Hypertension and Poor Dental Access
+slug: >-
+  how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
+description: >-
+  Links gingival IL-6, CRP, and TNF-α spillover to nocturnal endothelial nitric
+  oxide synthase uncoupling and blunted dipping—supported by interventional
+  studies on scaling/root planing and BP trajectory.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: periodontitis nighttime blood pressure inflammation
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+  - >-
+    how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
+  - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
+  - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
 ---
 
 # How Periodontitis Nighttime Blood Pressure Inflammation Affects Older Adults—and What You Can Do

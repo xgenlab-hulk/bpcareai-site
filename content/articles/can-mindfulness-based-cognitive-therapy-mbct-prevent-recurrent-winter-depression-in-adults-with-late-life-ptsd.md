@@ -1,14 +1,23 @@
 ---
-title: "Can Mindfulness-Based Cognitive Therapy (MBCT) Prevent Recurrent Winter Depression in Adults With Late-Life PTSD?"
-slug: "can-mindfulness-based-cognitive-therapy-mbct-prevent-recurrent-winter-depression-in-adults-with-late-life-ptsd"
-description: "Reviews 2023–2024 RCT data on MBCT adaptation for trauma-exposed older adults, emphasizing neural plasticity changes and relapse reduction in seasonal episodes."
-date: "2025-12-30"
-updated: "2025-12-30"
-tags: ["MBCT for seasonal depression with late-life PTSD", "seasonal depression in older adults", "trauma-informed-prevention"]
-primaryKeyword: "MBCT for seasonal depression with late-life PTSD"
-topicCluster: "trauma-informed-prevention"
-image: ""
-relatedSlugs: ["can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression", "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults", "does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70"]
+title: >-
+  Can Mindfulness-Based Cognitive Therapy (MBCT) Prevent Recurrent Winter
+  Depression in Adults With Late-Life PTSD?
+slug: >-
+  can-mindfulness-based-cognitive-therapy-mbct-prevent-recurrent-winter-depression-in-adults-with-late-life-ptsd
+description: >-
+  Reviews 2023–2024 RCT data on MBCT adaptation for trauma-exposed older adults,
+  emphasizing neural plasticity changes and relapse reduction in seasonal
+  episodes.
+date: '2025-12-30'
+updated: '2025-12-30'
+primaryKeyword: MBCT for seasonal depression with late-life PTSD
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
+  - does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70
 ---
 
 # Can MBCT for Seasonal Depression With Late-Life PTSD Help Older Adults Stay Steady Through Winter?

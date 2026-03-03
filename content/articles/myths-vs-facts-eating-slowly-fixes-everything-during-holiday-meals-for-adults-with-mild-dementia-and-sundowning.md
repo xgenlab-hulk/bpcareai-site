@@ -1,14 +1,28 @@
 ---
-title: "Myths vs Facts: 'Eating Slowly Fixes Everything' During Holiday Meals for Adults With Mild Dementia and Sundowning"
-slug: "myths-vs-facts-eating-slowly-fixes-everything-during-holiday-meals-for-adults-with-mild-dementia-and-sundowning"
-description: "Debunks timing myths and clarifies why paced eating alone fails without sensory anchoring, environmental cues, and caregiver co-regulation—based on dementia care trial data."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["eating slowly holiday meals dementia", "healthy eating during family gatherings", "dementia-mealtime-myths"]
-primaryKeyword: "eating slowly holiday meals dementia"
-topicCluster: "dementia-mealtime-myths"
-image: ""
-relatedSlugs: ["how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia", "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season", "simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification", "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70", "5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners"]
+title: >-
+  Myths vs Facts: 'Eating Slowly Fixes Everything' During Holiday Meals for
+  Adults With Mild Dementia and Sundowning
+slug: >-
+  myths-vs-facts-eating-slowly-fixes-everything-during-holiday-meals-for-adults-with-mild-dementia-and-sundowning
+description: >-
+  Debunks timing myths and clarifies why paced eating alone fails without
+  sensory anchoring, environmental cues, and caregiver co-regulation—based on
+  dementia care trial data.
+date: '2026-01-06'
+updated: '2026-01-06'
+primaryKeyword: eating slowly holiday meals dementia
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
+  - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
+  - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
 ---
 
 # Does Eating Slowly Holiday Meals Dementia Really Help? What the Research Says

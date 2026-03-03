@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Mitochondrial Biogenesis in Cardiomyocytes Without Supplements — For Adults 63–80 With Long-Standing Hypertension and Low VO₂ Peak"
-slug: "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak"
-description: "Focuses on non-supplement strategies — like cold-water facial immersion timing, post-exercise protein pulsing, and blue-light–timed meal spacing — shown to activate PGC-1α and improve cardiac energetics."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["mitochondrial biogenesis heart natural", "heart disease", "cardiac-metabolism"]
-primaryKeyword: "mitochondrial biogenesis heart natural"
-topicCluster: "cardiac-metabolism"
-image: ""
-relatedSlugs: ["natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction", "natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak", "natural-ways-to-support-cardiac-mitochondrial-biogenesis-using-time-restricted-eating-with-late-afternoon-polyphenol-timing-for-adults-59-74-with-diastolic-heart-failure-and-low-peak-vo2"]
+title: >-
+  Natural Ways to Support Mitochondrial Biogenesis in Cardiomyocytes Without
+  Supplements — For Adults 63–80 With Long-Standing Hypertension and Low VO₂
+  Peak
+slug: >-
+  natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
+description: >-
+  Focuses on non-supplement strategies — like cold-water facial immersion
+  timing, post-exercise protein pulsing, and blue-light–timed meal spacing —
+  shown to activate PGC-1α and improve cardiac energetics.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: mitochondrial biogenesis heart natural
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
+  - >-
+    natural-ways-to-support-cardiac-mitochondrial-biogenesis-using-time-restricted-eating-with-late-afternoon-polyphenol-timing-for-adults-59-74-with-diastolic-heart-failure-and-low-peak-vo2
 ---
 
 # Natural Ways to Support Mitochondrial Biogenesis in Heart Cells — For Adults 63–80 With Long-Standing Hypertension and Low VO₂ Peak

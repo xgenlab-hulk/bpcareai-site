@@ -6,12 +6,8 @@ description: >-
   schedules.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - meal timing for blood sugar control over 50
-  - diabetes
-  - diabetes-nutrition
 primaryKeyword: meal timing for blood sugar control over 50
-topicCluster: diabetes-care
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

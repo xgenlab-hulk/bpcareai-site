@@ -1,14 +1,29 @@
 ---
-title: "Can Daily 3-Minute Guided Vagal Breathing Before Dinner Reduce AFib Episodes in Adults 59–74 With Holiday Heart Syndrome History?"
-slug: "can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history"
-description: "Examines feasibility and 4-week efficacy of pre-prandial vagal priming on postprandial heart rate variability, QTc stability, and AFib burden — using wearable ECG validation and intention-to-treat analysis from a pilot RCT."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["vagal breathing holiday heart prevention", "holiday heart syndrome prevention", "non-pharmacologic-intervention"]
-primaryKeyword: "vagal breathing holiday heart prevention"
-topicCluster: "non-pharmacologic-intervention"
-image: ""
-relatedSlugs: ["quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance", "best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp", "how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study", "simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction"]
+title: >-
+  Can Daily 3-Minute Guided Vagal Breathing Before Dinner Reduce AFib Episodes
+  in Adults 59–74 With Holiday Heart Syndrome History?
+slug: >-
+  can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
+description: >-
+  Examines feasibility and 4-week efficacy of pre-prandial vagal priming on
+  postprandial heart rate variability, QTc stability, and AFib burden — using
+  wearable ECG validation and intention-to-treat analysis from a pilot RCT.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: vagal breathing holiday heart prevention
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+  - >-
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
+  - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
+  - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 ---
 
 # Can 3-Minute Vagal Breathing Before Dinner Help with Vagal Breathing Holiday Heart Prevention?

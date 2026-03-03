@@ -6,12 +6,8 @@ description: >-
   salt—perfect for preparing a centerpiece that’s kind to arteries.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - low-sodium turkey brine for seniors
-  - healthy holiday eating for seniors
-  - cardiac-diet
 primaryKeyword: low-sodium turkey brine for seniors
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid

@@ -1,14 +1,29 @@
 ---
-title: "Quick Ways to Stabilize Post-Meal Blood Flow to the Brain in Adults 64+ With Carotid Stenosis >50% and Orthostatic Dizziness"
-slug: "quick-ways-to-stabilize-post-meal-blood-flow-to-the-brain-in-adults-64-with-carotid-stenosis-50-and-orthostatic-dizziness"
-description: "Presents 3 evidence-based, 90-second interventions—seated leg elevation timing, targeted breathing patterns, and postprandial sodium distribution—that improve cerebral perfusion without raising systolic pressure."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["stabilize brain blood flow after meals seniors", "healthy holiday eating for seniors", "cerebrovascular-perfusion-strategies"]
-primaryKeyword: "stabilize brain blood flow after meals seniors"
-topicCluster: "cerebrovascular-perfusion-strategies"
-image: ""
-relatedSlugs: ["natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings", "quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension", "quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness", "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension", "what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75"]
+title: >-
+  Quick Ways to Stabilize Post-Meal Blood Flow to the Brain in Adults 64+ With
+  Carotid Stenosis >50% and Orthostatic Dizziness
+slug: >-
+  quick-ways-to-stabilize-post-meal-blood-flow-to-the-brain-in-adults-64-with-carotid-stenosis-50-and-orthostatic-dizziness
+description: >-
+  Presents 3 evidence-based, 90-second interventions—seated leg elevation
+  timing, targeted breathing patterns, and postprandial sodium distribution—that
+  improve cerebral perfusion without raising systolic pressure.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: stabilize brain blood flow after meals seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
+  - >-
+    quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
+  - >-
+    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+  - >-
+    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
 ---
 
 # Gentle, Effective Ways to Stabilize Brain Blood Flow After Meals for Seniors With Carotid Stenosis

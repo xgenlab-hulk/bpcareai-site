@@ -10,12 +10,8 @@ description: >-
   and inflammation post-antibiotics.
 date: '2026-01-08'
 updated: '2026-01-08'
-tags:
-  - antibiotics and gut microbiome in older diabetics
-  - diabetes
-  - gut-microbiome
 primaryKeyword: antibiotics and gut microbiome in older diabetics
-topicCluster: gut-microbiome
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

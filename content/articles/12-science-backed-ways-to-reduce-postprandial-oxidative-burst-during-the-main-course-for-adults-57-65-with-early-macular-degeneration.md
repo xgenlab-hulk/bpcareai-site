@@ -1,14 +1,30 @@
 ---
-title: "12 Science-Backed Ways to Reduce Postprandial Oxidative Burst *During* the Main Course — For Adults 57–65 With Early Macular Degeneration"
-slug: "12-science-backed-ways-to-reduce-postprandial-oxidative-burst-during-the-main-course-for-adults-57-65-with-early-macular-degeneration"
-description: "Details real-time antioxidant co-ingestion timing (e.g., lutein + saffron + cold-pressed olive oil), chewing pace targets, and plate-color contrast techniques shown to lower retinal oxidative markers within 90 minutes of meal onset."
-date: "2026-02-10"
-updated: "2026-02-10"
-tags: ["reduce oxidative burst during meal", "healthy eating during family gatherings", "eye-health-diet-timing"]
-primaryKeyword: "reduce oxidative burst during meal"
-topicCluster: "eye-health-diet-timing"
-image: ""
-relatedSlugs: ["quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration", "quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks", "quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp", "12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis", "best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress"]
+title: >-
+  12 Science-Backed Ways to Reduce Postprandial Oxidative Burst *During* the
+  Main Course — For Adults 57–65 With Early Macular Degeneration
+slug: >-
+  12-science-backed-ways-to-reduce-postprandial-oxidative-burst-during-the-main-course-for-adults-57-65-with-early-macular-degeneration
+description: >-
+  Details real-time antioxidant co-ingestion timing (e.g., lutein + saffron +
+  cold-pressed olive oil), chewing pace targets, and plate-color contrast
+  techniques shown to lower retinal oxidative markers within 90 minutes of meal
+  onset.
+date: '2026-02-10'
+updated: '2026-02-10'
+primaryKeyword: reduce oxidative burst during meal
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
+  - >-
+    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
+  - >-
+    quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp
+  - >-
+    12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis
+  - >-
+    best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress
 ---
 
 # 12 Science-Backed Strategies to Reduce Oxidative Burst During Meal for Adults 57–65 with Early Macular Degeneration

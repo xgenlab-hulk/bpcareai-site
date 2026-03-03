@@ -1,14 +1,26 @@
 ---
-title: "7 Holiday Foods That Trigger Silent Blood Pressure Spikes in Seniors 70+ With Nocturnal Hypertension"
-slug: "7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-seniors-70-with-nocturnal-hypertension"
-description: "A science-backed list of seemingly innocent holiday staples — from glazed ham to spiced cider — that acutely elevate nocturnal systolic pressure in older adults with undiagnosed non-dipping patterns, based on ambulatory BP studies."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["holiday foods blood pressure spikes seniors", "healthy holiday eating for seniors", "cardiac-diet-nocturnal-hypertension"]
-primaryKeyword: "holiday foods blood pressure spikes seniors"
-topicCluster: "cardiac-diet-nocturnal-hypertension"
-image: ""
-relatedSlugs: ["12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure", "how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "7-hidden-winter-habits-that-worsen-hypertension-after-60"]
+title: >-
+  7 Holiday Foods That Trigger Silent Blood Pressure Spikes in Seniors 70+ With
+  Nocturnal Hypertension
+slug: >-
+  7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-seniors-70-with-nocturnal-hypertension
+description: >-
+  A science-backed list of seemingly innocent holiday staples — from glazed ham
+  to spiced cider — that acutely elevate nocturnal systolic pressure in older
+  adults with undiagnosed non-dipping patterns, based on ambulatory BP studies.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: holiday foods blood pressure spikes seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
+  - >-
+    how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - 7-hidden-winter-habits-that-worsen-hypertension-after-60
 ---
 
 # Holiday Foods That May Cause Blood Pressure Spikes in Seniors 70+ — What to Know About Nocturnal Hypertension

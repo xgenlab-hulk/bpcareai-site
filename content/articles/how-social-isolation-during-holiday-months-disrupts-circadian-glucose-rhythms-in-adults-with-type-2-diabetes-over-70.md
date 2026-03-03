@@ -1,14 +1,29 @@
 ---
-title: "How Social Isolation During Holiday Months Disrupts Circadian Glucose Rhythms in Adults With Type 2 Diabetes Over 70"
-slug: "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70"
-description: "Examines cortisol/melatonin dysregulation, meal timing drift, and reduced non-exercise activity thermogenesis (NEAT) in solo-living seniors — plus simple behavioral anchors to re-synchronize metabolic clocks."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["social isolation circadian glucose rhythms seniors", "diabetes", "social-circadian-metabolism"]
-primaryKeyword: "social isolation circadian glucose rhythms seniors"
-topicCluster: "social-circadian-metabolism"
-image: ""
-relatedSlugs: ["how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65", "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s", "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia", "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72"]
+title: >-
+  How Social Isolation During Holiday Months Disrupts Circadian Glucose Rhythms
+  in Adults With Type 2 Diabetes Over 70
+slug: >-
+  how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
+description: >-
+  Examines cortisol/melatonin dysregulation, meal timing drift, and reduced
+  non-exercise activity thermogenesis (NEAT) in solo-living seniors — plus
+  simple behavioral anchors to re-synchronize metabolic clocks.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: social isolation circadian glucose rhythms seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+  - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
 ---
 
 # How Social Isolation During the Holidays Affects Circadian Glucose Rhythms in Seniors With Type 2 Diabetes

@@ -6,10 +6,6 @@ description: >-
   falls or dizziness in older individuals.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - low blood pressure risks in seniors
-  - blood pressure
-  - blood-pressure-basics
 primaryKeyword: low blood pressure risks in seniors
 topicCluster: hypertension-management
 image: ''

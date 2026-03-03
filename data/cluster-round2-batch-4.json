@@ -1,0 +1,162 @@
+{
+  "round": 2,
+  "batch_id": 4,
+  "input_clusters": 47,
+  "output_clusters": 12,
+  "total_articles": 559,
+  "clustered_results": [
+    {
+      "core_cluster_name": "hypertension-management",
+      "description": "高血压的全面管理,包括检测、监测、治疗、饮食干预和生活方式调整",
+      "rationale": "保持原有的综合性高血压管理cluster,已经是完整的主题领域,无需进一步合并",
+      "merged_from": [
+        "hypertension-management (57篇, batch 1)"
+      ],
+      "total_articles": 57
+    },
+    {
+      "core_cluster_name": "symptoms-diagnosis",
+      "description": "症状识别、早期检测、诊断技术、生物标志物解读和并发症检测",
+      "rationale": "合并所有诊断相关clusters,包括一般症状诊断、糖尿病并发症检测、诊断技术和检测解读,形成完整的诊断评估体系",
+      "merged_from": [
+        "symptoms-diagnosis-detection (57篇, batch 1)",
+        "diabetes-complications-detection (13篇, batch 2)",
+        "diagnostic-monitoring-technologies (7篇, batch 6)",
+        "diagnostic-testing-interpretation (4篇, batch 2)",
+        "emergency-acute-symptoms (5篇, batch 2)"
+      ],
+      "total_articles": 86
+    },
+    {
+      "core_cluster_name": "nutrition-diet-management",
+      "description": "综合性营养和饮食管理,包括餐食计划、疾病特异性饮食治疗、糖尿病营养、肾脏营养和消化健康饮食",
+      "rationale": "大胆合并所有营养相关clusters,包括通用饮食策略、特殊疾病饮食治疗、餐食计划和各种营养干预,避免过度细分营养主题",
+      "merged_from": [
+        "nutrition-meal-planning (16篇, batch 8)",
+        "specialized-dietary-therapy (15篇, batch 8)",
+        "comprehensive-dietary-strategies (13篇, batch 9)",
+        "diabetes-nutrition-strategies (8篇, batch 3)",
+        "digestive-health-nutrition (11篇, batch 2)",
+        "renal-metabolic-nutrition (8篇, batch 3)"
+      ],
+      "total_articles": 71
+    },
+    {
+      "core_cluster_name": "diabetes-glucose-management",
+      "description": "糖尿病和血糖管理的全面内容,包括风险因素、早期检测、监测技术、CGM使用、血糖控制和胰岛素管理",
+      "rationale": "合并糖尿病综合管理和血糖监测,形成完整的糖尿病管理体系,包括监测技术和血糖稳定策略",
+      "merged_from": [
+        "diabetes-glucose-comprehensive (14篇, batch 9)",
+        "glucose-monitoring-management (8篇, batch 8)"
+      ],
+      "total_articles": 22
+    },
+    {
+      "core_cluster_name": "lifestyle-interventions",
+      "description": "生活方式和行为干预,包括运动、体力活动、压力管理、心理健康和非药物干预",
+      "rationale": "合并所有生活方式相关clusters,包括运动(合并两个重复的exercise-physical-activity)、行为干预和非药物治疗",
+      "merged_from": [
+        "lifestyle-behavioral-interventions (18篇, batch 5)",
+        "exercise-physical-activity (11篇, batch 8)",
+        "exercise-physical-activity (10篇, batch 7)",
+        "lifestyle-nonpharmacologic-interventions (4篇, batch 2)"
+      ],
+      "total_articles": 43
+    },
+    {
+      "core_cluster_name": "environmental-factors",
+      "description": "环境和社会因素对健康的影响,包括季节影响、温度、毒素、旅行、社会行为和生活方式环境因素",
+      "rationale": "合并所有环境相关clusters(4个重复和相似的environmental clusters),形成统一的环境健康影响主题",
+      "merged_from": [
+        "environmental-social-factors (30篇, batch 1)",
+        "environmental-health-factors (15篇, batch 3)",
+        "environmental-lifestyle-factors (9篇, batch 7)",
+        "environmental-lifestyle-factors (7篇, batch 6)",
+        "environmental-seasonal-factors (5篇, batch 5)"
+      ],
+      "total_articles": 66
+    },
+    {
+      "core_cluster_name": "special-populations",
+      "description": "特殊人群的健康管理,包括老年人、性别差异、激素影响、更年期和旅行物流",
+      "rationale": "合并所有特殊人群相关clusters,包括一般特殊人群、老年人专项护理、性别特异性健康和激素相关健康",
+      "merged_from": [
+        "special-populations (21篇, batch 1)",
+        "geriatric-special-populations (13篇, batch 9)",
+        "gender-specific-health (6篇, batch 2)",
+        "gender-hormonal-cardiovascular (5篇, batch 5)"
+      ],
+      "total_articles": 45
+    },
+    {
+      "core_cluster_name": "mental-health-stress",
+      "description": "心理健康、压力管理、情绪健康与生理功能的关联",
+      "rationale": "保持原有的心理健康和压力管理cluster,主题清晰完整",
+      "merged_from": [
+        "mental-health-stress (30篇, batch 1)"
+      ],
+      "total_articles": 30
+    },
+    {
+      "core_cluster_name": "sleep-circadian-health",
+      "description": "睡眠与代谢健康、昼夜节律调节、光照疗法、睡眠障碍和睡眠-血糖-血压相互作用",
+      "rationale": "合并所有睡眠相关clusters,包括睡眠-昼夜节律-代谢、睡眠-昼夜节律和睡眠障碍,形成完整的睡眠健康体系",
+      "merged_from": [
+        "sleep-circadian-health (18篇, batch 8)",
+        "sleep-circadian-metabolism (5篇, batch 2)",
+        "sleep-disorders (1篇, batch 7)"
+      ],
+      "total_articles": 24
+    },
+    {
+      "core_cluster_name": "gastrointestinal-health",
+      "description": "胃肠功能、微生物组、消化生理与代谢疾病的相互作用,包括肠-脑-心血管轴",
+      "rationale": "合并两个高度相似的胃肠相关clusters,形成统一的胃肠健康和微生物组主题",
+      "merged_from": [
+        "gastrointestinal-metabolic-interface (21篇, batch 3)",
+        "gastrointestinal-microbiome (8篇, batch 8)"
+      ],
+      "total_articles": 29
+    },
+    {
+      "core_cluster_name": "monitoring-technology",
+      "description": "血压监测、血糖监测、家庭监测技术、设备准确性和24小时动态监测",
+      "rationale": "保持血压监测cluster,已经是完整的监测技术主题(血糖监测已合并到diabetes-glucose-management)",
+      "merged_from": [
+        "blood-pressure-monitoring (15篇, batch 8)"
+      ],
+      "total_articles": 15
+    },
+    {
+      "core_cluster_name": "comprehensive-health-topics",
+      "description": "综合健康主题,包括代谢-脂质-能量管理、心血管生理机制、神经认知健康、口腔健康、内分泌相互作用、药物补充剂安全、并发症管理、心律失常、天然疗法和医学误区澄清",
+      "rationale": "合并所有剩余的小型和特殊主题clusters,包括代谢、心血管机制、神经认知、口腔健康、内分泌、药物安全、并发症、心律失常、补充剂和证据回顾,形成综合性健康知识库",
+      "merged_from": [
+        "metabolic-lipid-energy (11篇, batch 1)",
+        "cardiovascular-physiology-mechanisms (11篇, batch 9)",
+        "neurocardiac-cognitive-health (9篇, batch 5)",
+        "neurological-cognitive-health (3篇, batch 7)",
+        "medication-supplement-safety (10篇, batch 9)",
+        "endocrine-metabolic-interactions (6篇, batch 3)",
+        "complications-comorbidities (4篇, batch 6)",
+        "cardiac-arrhythmia-management (3篇, batch 3)",
+        "dental-oral-systemic-health (3篇, batch 3)",
+        "oral-dental-health (3篇, batch 7)",
+        "micronutrients-supplements (2篇, batch 7)",
+        "natural-remedies-supplements (2篇, batch 8)",
+        "myths-facts-evidence-review (4篇, batch 5)"
+      ],
+      "total_articles": 71
+    }
+  ],
+  "clustering_summary": {
+    "core_clusters_count": 12,
+    "avg_articles_per_cluster": 46.6,
+    "largest_clusters": [
+      "symptoms-diagnosis (86篇)",
+      "nutrition-diet-management (71篇)",
+      "comprehensive-health-topics (71篇)"
+    ],
+    "merging_approach": "基于语义去重和大胆合并的深度聚类,识别并合并了完全重复的clusters(如exercise-physical-activity出现2次,environmental-lifestyle-factors出现2次),合并了高度相似的主题(如4个环境相关、3个睡眠相关、2个胃肠相关、多个营养相关等),将47个中间clusters提纯为12个核心clusters"
+  }
+}

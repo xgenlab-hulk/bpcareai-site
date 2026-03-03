@@ -1,14 +1,29 @@
 ---
-title: "5 Things Everyone Over 67 Should Know About Using Continuous Glucose Monitors With Pacemakers — Especially If You Sleep in a Magnetic Mattress Pad"
-slug: "5-things-everyone-over-67-should-know-about-using-continuous-glucose-monitors-with-pacemakers-especially-if-you-sleep-in-a-magnetic-mattress-pad"
-description: "Covers electromagnetic interference risks, sensor placement alternatives, Bluetooth shielding techniques, and pacemaker telemetry compatibility testing protocols for older adults with implanted devices."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["CGM pacemaker magnetic mattress pad", "diabetes", "medical-device-interference-safety"]
-primaryKeyword: "CGM pacemaker magnetic mattress pad"
-topicCluster: "medical-device-interference-safety"
-image: ""
-relatedSlugs: ["5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds", "5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss", "can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures", "5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery", "5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes"]
+title: >-
+  5 Things Everyone Over 67 Should Know About Using Continuous Glucose Monitors
+  With Pacemakers — Especially If You Sleep in a Magnetic Mattress Pad
+slug: >-
+  5-things-everyone-over-67-should-know-about-using-continuous-glucose-monitors-with-pacemakers-especially-if-you-sleep-in-a-magnetic-mattress-pad
+description: >-
+  Covers electromagnetic interference risks, sensor placement alternatives,
+  Bluetooth shielding techniques, and pacemaker telemetry compatibility testing
+  protocols for older adults with implanted devices.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: CGM pacemaker magnetic mattress pad
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
+  - >-
+    5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss
+  - >-
+    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
+  - >-
+    5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery
+  - >-
+    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
 ---
 
 # What Seniors Over 67 Need to Know About CGM Pacemaker Magnetic Mattress Pad Interactions

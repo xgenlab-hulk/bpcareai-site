@@ -6,12 +6,8 @@ description: >-
   healthy aging for people over 60.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - fruit consumption and heart disease prevention seniors
-  - heart health
-  - heart-health
 primaryKeyword: fruit consumption and heart disease prevention seniors
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - best-fruits-for-diabetics-over-50-and-which-to-limit

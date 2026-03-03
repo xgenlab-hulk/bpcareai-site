@@ -1,14 +1,29 @@
 ---
-title: "What to Eat Before Opening Gifts — A 12-Minute Pre-Event Strategy to Prevent Postprandial Hypotension in Adults 75+"
-slug: "what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75"
-description: "Offers a precise, time-bound pre-holiday-meal protocol (protein + electrolyte-rich bite + seated breathing) proven to blunt orthostatic BP drops triggered by excitement and rich food."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["prevent postprandial hypotension seniors", "healthy holiday eating for seniors", "blood-pressure-prevention"]
-primaryKeyword: "prevent postprandial hypotension seniors"
-topicCluster: "blood-pressure-prevention"
-image: ""
-relatedSlugs: ["when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension", "best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes", "natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings", "the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing", "what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65"]
+title: >-
+  What to Eat Before Opening Gifts — A 12-Minute Pre-Event Strategy to Prevent
+  Postprandial Hypotension in Adults 75+
+slug: >-
+  what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
+description: >-
+  Offers a precise, time-bound pre-holiday-meal protocol (protein +
+  electrolyte-rich bite + seated breathing) proven to blunt orthostatic BP drops
+  triggered by excitement and rich food.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: prevent postprandial hypotension seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+  - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
+  - >-
+    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
+  - >-
+    the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing
+  - >-
+    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
 ---
 
 # A Smart 12-Minute Pre-Gift Strategy to Prevent Postprandial Hypotension in Seniors

@@ -6,10 +6,6 @@ description: >-
   cardiovascular wellness in middle-aged and older adults.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - gardening and heart health after 50
-  - heart health
-  - heart-health
 primaryKeyword: gardening and heart health after 50
 topicCluster: cardiovascular-health
 image: ''

@@ -1,14 +1,30 @@
 ---
-title: "Quick Ways to Counteract 'Dinner-Lunch Gap Hypoglycemia' in Adults 72+ With Type 2 Diabetes, Gastroparesis-Like Symptoms, and Long Overnight Fasts"
-slug: "quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts"
-description: "Offers time-tested, meal-timing–based strategies—including targeted protein-snack sequencing, bedtime resistant starch dosing, and delayed caffeine intake—to prevent pre-breakfast lows without increasing medication risk."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["dinner-lunch gap hypoglycemia", "diabetes", "meal-timing-hypoglycemia"]
-primaryKeyword: "dinner-lunch gap hypoglycemia"
-topicCluster: "meal-timing-hypoglycemia"
-image: ""
-relatedSlugs: ["why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks", "12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75", "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68", "12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years"]
+title: >-
+  Quick Ways to Counteract 'Dinner-Lunch Gap Hypoglycemia' in Adults 72+ With
+  Type 2 Diabetes, Gastroparesis-Like Symptoms, and Long Overnight Fasts
+slug: >-
+  quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts
+description: >-
+  Offers time-tested, meal-timing–based strategies—including targeted
+  protein-snack sequencing, bedtime resistant starch dosing, and delayed
+  caffeine intake—to prevent pre-breakfast lows without increasing medication
+  risk.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: dinner-lunch gap hypoglycemia
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
+  - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # Managing Dinner-Lunch Gap Hypoglycemia in Older Adults With Type 2 Diabetes and Digestive Slowing

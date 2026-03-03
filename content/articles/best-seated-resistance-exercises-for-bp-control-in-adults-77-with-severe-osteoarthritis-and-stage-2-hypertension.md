@@ -1,14 +1,28 @@
 ---
-title: "Best Seated Resistance Exercises for BP Control in Adults 77+ With Severe Osteoarthritis and Stage 2 Hypertension"
-slug: "best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension"
-description: "Presents evidence-based, low-impact strength routines (using resistance bands and bodyweight only) proven to reduce peripheral resistance and improve endothelial function without joint strain."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["seated exercises for blood pressure elderly", "blood pressure", "low-impact-fitness"]
-primaryKeyword: "seated exercises for blood pressure elderly"
-topicCluster: "low-impact-fitness"
-image: ""
-relatedSlugs: ["best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats", "best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension", "best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options", "the-best-indoor-exercises-for-blood-pressure-control-in-winter", "a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71"]
+title: >-
+  Best Seated Resistance Exercises for BP Control in Adults 77+ With Severe
+  Osteoarthritis and Stage 2 Hypertension
+slug: >-
+  best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
+description: >-
+  Presents evidence-based, low-impact strength routines (using resistance bands
+  and bodyweight only) proven to reduce peripheral resistance and improve
+  endothelial function without joint strain.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: seated exercises for blood pressure elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - >-
+    best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
+  - >-
+    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
+  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - >-
+    a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71
 ---
 
 # Seated Exercises for Blood Pressure Elderly: Safe, Effective Strength Training for Adults 77+ With Osteoarthritis and Hypertension

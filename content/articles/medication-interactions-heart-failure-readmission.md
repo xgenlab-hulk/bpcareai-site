@@ -11,12 +11,8 @@ description: >-
   pharmacist-led review checklists for caregivers.
 date: '2025-12-28'
 updated: '2025-12-28'
-tags:
-  - medication interactions heart failure readmission
-  - heart disease
-  - polypharmacy-safety
 primaryKeyword: medication interactions heart failure readmission
-topicCluster: polypharmacy-safety
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-

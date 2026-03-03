@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: 'Salt Sensitivity' in Adults 74+ With Long-Standing Hypertension — Why 82% of 'Salt-Sensitive' Diagnoses Are Based on Outdated Protocols"
-slug: "myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols"
-description: "Debunks outdated dietary sodium challenge methods, highlights renal sodium handling decline, and presents modern fractional excretion of sodium (FeNa) interpretation for geriatrics."
-date: "2026-02-10"
-updated: "2026-02-10"
-tags: ["salt-sensitivity-myths-elderly-hypertension", "blood pressure", "sodium-sensitivity-assessment"]
-primaryKeyword: "salt-sensitivity-myths-elderly-hypertension"
-topicCluster: "sodium-sensitivity-assessment"
-image: ""
-relatedSlugs: ["myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions", "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now", "myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension", "how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension", "myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response"]
+title: >-
+  Myths vs Facts: 'Salt Sensitivity' in Adults 74+ With Long-Standing
+  Hypertension — Why 82% of 'Salt-Sensitive' Diagnoses Are Based on Outdated
+  Protocols
+slug: >-
+  myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
+description: >-
+  Debunks outdated dietary sodium challenge methods, highlights renal sodium
+  handling decline, and presents modern fractional excretion of sodium (FeNa)
+  interpretation for geriatrics.
+date: '2026-02-10'
+updated: '2026-02-10'
+primaryKeyword: salt-sensitivity-myths-elderly-hypertension
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions
+  - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
+  - >-
+    how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension
+  - >-
+    myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response
 ---
 
 # Salt-Sensitivity Myths in Older Adults: What Really Matters for Blood Pressure After 74

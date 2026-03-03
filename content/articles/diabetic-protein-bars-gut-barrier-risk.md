@@ -1,14 +1,30 @@
 ---
-title: "The Truth About 'Diabetic-Friendly' Protein Bars Marketed to Seniors — Why 68% Contain Hidden Maltodextrin + Propylene Glycol Esters That Disrupt Gut Barrier Integrity"
-slug: "the-truth-about-diabetic-friendly-protein-bars-marketed-to-seniors-why-68-contain-hidden-maltodextrin-propylene-glycol-esters-that-disrupt-gut-barrier-integrity"
-description: "Investigates label loopholes, digestibility challenges in aging gut mucosa, and postprandial endotoxin translocation risk in adults 67+ with T2D and mild SIBO history."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["diabetic protein bars gut barrier risk", "diabetes", "processed-food-gut-dysfunction"]
-primaryKeyword: "diabetic protein bars gut barrier risk"
-topicCluster: "processed-food-gut-dysfunction"
-image: ""
-relatedSlugs: ["the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose", "the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75", "the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis", "the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy", "the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk"]
+title: >-
+  The Truth About 'Diabetic-Friendly' Protein Bars Marketed to Seniors — Why 68%
+  Contain Hidden Maltodextrin + Propylene Glycol Esters That Disrupt Gut Barrier
+  Integrity
+slug: >-
+  the-truth-about-diabetic-friendly-protein-bars-marketed-to-seniors-why-68-contain-hidden-maltodextrin-propylene-glycol-esters-that-disrupt-gut-barrier-integrity
+description: >-
+  Investigates label loopholes, digestibility challenges in aging gut mucosa,
+  and postprandial endotoxin translocation risk in adults 67+ with T2D and mild
+  SIBO history.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: diabetic protein bars gut barrier risk
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose
+  - >-
+    the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
+  - >-
+    the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis
+  - >-
+    the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy
+  - >-
+    the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk
 ---
 
 # What Seniors Need to Know About Diabetic Protein Bars and Gut Barrier Risk

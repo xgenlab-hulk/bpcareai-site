@@ -1,14 +1,30 @@
 ---
-title: "The Truth About 'Low-Sugar' Ketchup and BBQ Sauce — Why 93% of Brands Still Trigger Postprandial Glucose Spikes in Adults 60+ With Gastroparesis-Like Symptoms"
-slug: "the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms"
-description: "Breaks down hidden fructose-glucose ratios, preservative-induced GLP-1 suppression, and pH-dependent amylase inhibition that undermine 'sugar-free' claims in condiments for older adults with delayed gastric motility."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["low-sugar ketchup blood sugar spike gastroparesis", "diabetes", "processed-condiment-metabolism"]
-primaryKeyword: "low-sugar ketchup blood sugar spike gastroparesis"
-topicCluster: "processed-condiment-metabolism"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes", "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70", "the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes", "a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes", "the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy"]
+title: >-
+  The Truth About 'Low-Sugar' Ketchup and BBQ Sauce — Why 93% of Brands Still
+  Trigger Postprandial Glucose Spikes in Adults 60+ With Gastroparesis-Like
+  Symptoms
+slug: >-
+  the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms
+description: >-
+  Breaks down hidden fructose-glucose ratios, preservative-induced GLP-1
+  suppression, and pH-dependent amylase inhibition that undermine 'sugar-free'
+  claims in condiments for older adults with delayed gastric motility.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: low-sugar ketchup blood sugar spike gastroparesis
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
+  - >-
+    a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes
+  - >-
+    the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy
 ---
 
 # Why “Low-Sugar” Ketchup and BBQ Sauce Still Raise Blood Sugar in Adults 60+ — Unpacking the Low-Sugar Ketchup Blood Sugar Spike Gastroparesis Connection

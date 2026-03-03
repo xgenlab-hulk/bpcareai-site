@@ -11,12 +11,8 @@ description: >-
   reduce endothelial microparticles in aging vasculature.
 date: '2026-01-17'
 updated: '2026-01-17'
-tags:
-  - olive oil polyphenols endothelial repair seniors
-  - heart health
-  - truth-verification-food-quality-vascular-function
 primaryKeyword: olive oil polyphenols endothelial repair seniors
-topicCluster: truth-verification-food-quality-vascular-function
+topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,29 @@
 ---
-title: "How Family Meal Timing Disrupts Nocturnal Growth Hormone Pulses in Adults 59–66 With Sarcopenia — And What to Eat *Instead* of Midnight Snacks"
-slug: "how-family-meal-timing-disrupts-nocturnal-growth-hormone-pulses-in-adults-59-66-with-sarcopenia-and-what-to-eat-instead-of-midnight-snacks"
-description: "Explains GH’s role in muscle protein synthesis during slow-wave sleep, how late eating suppresses its amplitude, and provides pre-dinner protein timing protocols to preserve anabolic signaling."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["family meal timing growth hormone sarcopenia", "healthy holiday eating for seniors", "anabolic-timing-strategies"]
-primaryKeyword: "family meal timing growth hormone sarcopenia"
-topicCluster: "anabolic-timing-strategies"
-image: ""
-relatedSlugs: ["how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65", "how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70", "5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily", "how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75"]
+title: >-
+  How Family Meal Timing Disrupts Nocturnal Growth Hormone Pulses in Adults
+  59–66 With Sarcopenia — And What to Eat *Instead* of Midnight Snacks
+slug: >-
+  how-family-meal-timing-disrupts-nocturnal-growth-hormone-pulses-in-adults-59-66-with-sarcopenia-and-what-to-eat-instead-of-midnight-snacks
+description: >-
+  Explains GH’s role in muscle protein synthesis during slow-wave sleep, how
+  late eating suppresses its amplitude, and provides pre-dinner protein timing
+  protocols to preserve anabolic signaling.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: family meal timing growth hormone sarcopenia
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65
+  - >-
+    how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
+  - >-
+    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
+  - >-
+    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 ---
 
 # How Family Meal Timing Affects Growth Hormone, Muscle Health, and Sarcopenia in Adults 59–66

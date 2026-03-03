@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Home Oscillometric Cuffs vs. Ambulatory Monitoring for Detecting Nocturnal Hypertension in Adults 71+ With Mild Sleep Apnea and Mild Cognitive Impairment"
-slug: "a-vs-b-home-oscillometric-cuffs-vs-ambulatory-monitoring-for-detecting-nocturnal-hypertension-in-adults-71-with-mild-sleep-apnea-and-mild-cognitive-impairment"
-description: "Compares accuracy, adherence barriers, artifact susceptibility, and clinical utility — with decision trees for choosing based on cognitive load, dexterity, and apnea severity."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["home-cuff-vs-ambulatory-nocturnal-hypertension", "blood pressure", "monitoring-method-comparison"]
-primaryKeyword: "home-cuff-vs-ambulatory-nocturnal-hypertension"
-topicCluster: "monitoring-method-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea", "a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79", "a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor", "a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better", "the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful"]
+title: >-
+  A vs B: Home Oscillometric Cuffs vs. Ambulatory Monitoring for Detecting
+  Nocturnal Hypertension in Adults 71+ With Mild Sleep Apnea and Mild Cognitive
+  Impairment
+slug: >-
+  a-vs-b-home-oscillometric-cuffs-vs-ambulatory-monitoring-for-detecting-nocturnal-hypertension-in-adults-71-with-mild-sleep-apnea-and-mild-cognitive-impairment
+description: >-
+  Compares accuracy, adherence barriers, artifact susceptibility, and clinical
+  utility — with decision trees for choosing based on cognitive load, dexterity,
+  and apnea severity.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: home-cuff-vs-ambulatory-nocturnal-hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea
+  - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
+  - >-
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
+  - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
+  - >-
+    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
 ---
 
 # Home Cuff vs. Ambulatory Monitoring for Nocturnal Hypertension in Older Adults: What’s Right for You?

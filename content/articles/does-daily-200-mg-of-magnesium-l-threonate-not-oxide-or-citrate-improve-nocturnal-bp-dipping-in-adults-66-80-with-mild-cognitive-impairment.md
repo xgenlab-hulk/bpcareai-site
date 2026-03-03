@@ -1,14 +1,29 @@
 ---
-title: "Does Daily 200 mg of Magnesium L-Threonate (Not Oxide or Citrate) Improve Nocturnal BP Dipping in Adults 66–80 With Mild Cognitive Impairment?"
-slug: "does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment"
-description: "Evaluates brain-penetrant magnesium’s effect on central autonomic nuclei, sleep architecture, and BP circadian rhythm — based on CSF biomarker and ABPM data."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["magnesium l-threonate nocturnal bp", "blood pressure", "neuro-magnesium-bp"]
-primaryKeyword: "magnesium l-threonate nocturnal bp"
-topicCluster: "neuro-magnesium-bp"
-image: ""
-relatedSlugs: ["a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation", "a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome", "the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful", "best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl", "quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81"]
+title: >-
+  Does Daily 200 mg of Magnesium L-Threonate (Not Oxide or Citrate) Improve
+  Nocturnal BP Dipping in Adults 66–80 With Mild Cognitive Impairment?
+slug: >-
+  does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
+description: >-
+  Evaluates brain-penetrant magnesium’s effect on central autonomic nuclei,
+  sleep architecture, and BP circadian rhythm — based on CSF biomarker and ABPM
+  data.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: magnesium l-threonate nocturnal bp
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
+  - >-
+    a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome
+  - >-
+    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
+  - >-
+    best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl
+  - >-
+    quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
 ---
 
 # Can Magnesium L-Threonate Support Healthier Nocturnal Blood Pressure in Older Adults With Mild Cognitive Impairment?

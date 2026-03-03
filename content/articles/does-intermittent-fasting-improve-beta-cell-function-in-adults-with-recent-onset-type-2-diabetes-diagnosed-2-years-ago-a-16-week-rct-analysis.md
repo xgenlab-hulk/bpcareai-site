@@ -1,14 +1,29 @@
 ---
-title: "Does Intermittent Fasting Improve Beta-Cell Function in Adults With Recent-Onset Type 2 Diabetes (Diagnosed <2 Years Ago)? A 16-Week RCT Analysis"
-slug: "does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis"
-description: "Evaluates C-peptide responses, proinsulin/C-peptide ratios, and first-phase insulin secretion during hyperglycemic clamps before and after 14:10 fasting protocols."
-date: "2026-01-03"
-updated: "2026-01-03"
-tags: ["intermittent fasting beta-cell function", "diabetes", "beta-cell-recovery"]
-primaryKeyword: "intermittent fasting beta-cell function"
-topicCluster: "beta-cell-recovery"
-image: ""
-relatedSlugs: ["what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery", "what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension", "how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort", "how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study", "does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression"]
+title: >-
+  Does Intermittent Fasting Improve Beta-Cell Function in Adults With
+  Recent-Onset Type 2 Diabetes (Diagnosed <2 Years Ago)? A 16-Week RCT Analysis
+slug: >-
+  does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
+description: >-
+  Evaluates C-peptide responses, proinsulin/C-peptide ratios, and first-phase
+  insulin secretion during hyperglycemic clamps before and after 14:10 fasting
+  protocols.
+date: '2026-01-03'
+updated: '2026-01-03'
+primaryKeyword: intermittent fasting beta-cell function
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
+  - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
+  - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
+  - >-
+    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
 ---
 
 # Can Intermittent Fasting Support Beta-Cell Function in Adults With Early-Stage Type 2 Diabetes?

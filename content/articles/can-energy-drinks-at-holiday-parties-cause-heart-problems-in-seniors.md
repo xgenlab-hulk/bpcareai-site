@@ -1,14 +1,20 @@
 ---
-title: "Can Energy Drinks at Holiday Parties Cause Heart Problems in Seniors?"
-slug: "can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors"
-description: "Analyze the cardiac risks of combining caffeine-laden beverages with alcohol and rich foods during seasonal celebrations."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["energy drinks holiday heart", "holiday heart syndrome prevention", "diet-nutrition"]
-primaryKeyword: "energy drinks holiday heart"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk", "best-non-alcoholic-holiday-drinks-for-heart-health-after-50", "the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50", "why-dehydration-at-holiday-events-may-worsen-heart-palpitations", "why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55"]
+title: Can Energy Drinks at Holiday Parties Cause Heart Problems in Seniors?
+slug: can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
+description: >-
+  Analyze the cardiac risks of combining caffeine-laden beverages with alcohol
+  and rich foods during seasonal celebrations.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: energy drinks holiday heart
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
+  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
+  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
 ---
 
 # Can Energy Drinks at Holiday Parties Trigger Heart Concerns in Older Adults? Understanding Energy Drinks Holiday Heart

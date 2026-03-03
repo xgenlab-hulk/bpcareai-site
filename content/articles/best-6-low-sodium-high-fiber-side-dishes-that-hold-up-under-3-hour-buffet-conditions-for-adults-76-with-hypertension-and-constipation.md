@@ -1,14 +1,28 @@
 ---
-title: "Best 6 Low-Sodium, High-Fiber Side Dishes That Hold Up Under 3-Hour Buffet Conditions — For Adults 76+ With Hypertension and Constipation"
-slug: "best-6-low-sodium-high-fiber-side-dishes-that-hold-up-under-3-hour-buffet-conditions-for-adults-76-with-hypertension-and-constipation"
-description: "Tests real-world holding stability (texture, moisture, microbial load) for fiber-rich sides like roasted beet-kale slaw and lentil-mushroom pilaf—plus cooling curve data."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["low-sodium high-fiber buffet sides seniors", "healthy eating during family gatherings", "buffet-nutrition-holding-stability"]
-primaryKeyword: "low-sodium high-fiber buffet sides seniors"
-topicCluster: "buffet-nutrition-holding-stability"
-image: ""
-relatedSlugs: ["best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods", "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation", "best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation", "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs", "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd"]
+title: >-
+  Best 6 Low-Sodium, High-Fiber Side Dishes That Hold Up Under 3-Hour Buffet
+  Conditions — For Adults 76+ With Hypertension and Constipation
+slug: >-
+  best-6-low-sodium-high-fiber-side-dishes-that-hold-up-under-3-hour-buffet-conditions-for-adults-76-with-hypertension-and-constipation
+description: >-
+  Tests real-world holding stability (texture, moisture, microbial load) for
+  fiber-rich sides like roasted beet-kale slaw and lentil-mushroom pilaf—plus
+  cooling curve data.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: low-sodium high-fiber buffet sides seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
 ---
 
 # 6 Low-Sodium, High-Fiber Buffet Sides That Stay Delicious & Safe for Seniors 76+ With Hypertension and Constipation  

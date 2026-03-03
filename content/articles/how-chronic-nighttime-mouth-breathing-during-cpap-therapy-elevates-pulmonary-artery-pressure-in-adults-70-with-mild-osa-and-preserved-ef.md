@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Nighttime Mouth Breathing During CPAP Therapy Elevates Pulmonary Artery Pressure in Adults 70+ With Mild OSA and Preserved EF"
-slug: "how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef"
-description: "Links upper airway resistance, nocturnal hypoxemia microbursts, and right ventricular afterload changes—even with compliant CPAP use and normal daytime saturation."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["mouth breathing cpap pulmonary artery pressure", "heart health", "sleep-breathing-cardiopulmonary-hemodynamics"]
-primaryKeyword: "mouth breathing cpap pulmonary artery pressure"
-topicCluster: "sleep-breathing-cardiopulmonary-hemodynamics"
-image: ""
-relatedSlugs: ["what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough", "7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea", "best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia", "best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea", "quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef"]
+title: >-
+  How Chronic Nighttime Mouth Breathing During CPAP Therapy Elevates Pulmonary
+  Artery Pressure in Adults 70+ With Mild OSA and Preserved EF
+slug: >-
+  how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef
+description: >-
+  Links upper airway resistance, nocturnal hypoxemia microbursts, and right
+  ventricular afterload changes—even with compliant CPAP use and normal daytime
+  saturation.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: mouth breathing cpap pulmonary artery pressure
+topicCluster: treatment-interventions
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
+  - >-
+    7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
+  - >-
+    best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
+  - >-
+    best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
+  - >-
+    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
 ---
 
 # How Mouth Breathing During CPAP Therapy Can Raise Pulmonary Artery Pressure in Older Adults With Mild Sleep Apnea

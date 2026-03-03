@@ -1,14 +1,29 @@
 ---
-title: "How Intermittent Fasting During Thanksgiving Week Affects Gastric Emptying in Adults 64–78 With Diabetic Gastroparesis and Chronic Constipation"
-slug: "how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation"
-description: "Explores the physiological impact of time-restricted eating around major holiday meals on stomach motility, using gastric scintigraphy and symptom diaries from a 2023 pilot cohort study."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["intermittent fasting gastroparesis holiday meals", "healthy eating during family gatherings", "meal-timing-physiology"]
-primaryKeyword: "intermittent fasting gastroparesis holiday meals"
-topicCluster: "meal-timing-physiology"
-image: ""
-relatedSlugs: ["how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms", "how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd", "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear"]
+title: >-
+  How Intermittent Fasting During Thanksgiving Week Affects Gastric Emptying in
+  Adults 64–78 With Diabetic Gastroparesis and Chronic Constipation
+slug: >-
+  how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
+description: >-
+  Explores the physiological impact of time-restricted eating around major
+  holiday meals on stomach motility, using gastric scintigraphy and symptom
+  diaries from a 2023 pilot cohort study.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: intermittent fasting gastroparesis holiday meals
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+  - >-
+    how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
 ---
 
 # How Intermittent Fasting During Holiday Meals Affects Stomach Motility in Adults With Diabetic Gastroparesis and Constipation

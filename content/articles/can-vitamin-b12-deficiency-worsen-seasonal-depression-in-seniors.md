@@ -6,12 +6,8 @@ description: >-
   adults, especially during darker months.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - vitamin b12 and seasonal depression
-  - seasonal depression in older adults
-  - nutrient-deficiencies
 primaryKeyword: vitamin b12 and seasonal depression
-topicCluster: nutrition-diet
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter

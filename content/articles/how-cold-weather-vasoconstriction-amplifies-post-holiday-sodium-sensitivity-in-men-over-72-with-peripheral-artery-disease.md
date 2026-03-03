@@ -1,14 +1,27 @@
 ---
-title: "How Cold-Weather Vasoconstriction Amplifies Post-Holiday Sodium Sensitivity in Men Over 72 With Peripheral Artery Disease"
-slug: "how-cold-weather-vasoconstriction-amplifies-post-holiday-sodium-sensitivity-in-men-over-72-with-peripheral-artery-disease"
-description: "Explains seasonal sympathetic upregulation, renal perfusion shifts, and why sodium thresholds drop 30% in winter — with practical cold-adapted hydration and seasoning guidance."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["cold-weather sodium sensitivity pad seniors", "healthy holiday eating for seniors", "seasonal-vascular-sensitivity"]
-primaryKeyword: "cold-weather sodium sensitivity pad seniors"
-topicCluster: "seasonal-vascular-sensitivity"
-image: ""
-relatedSlugs: ["how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease", "how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction", "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow"]
+title: >-
+  How Cold-Weather Vasoconstriction Amplifies Post-Holiday Sodium Sensitivity in
+  Men Over 72 With Peripheral Artery Disease
+slug: >-
+  how-cold-weather-vasoconstriction-amplifies-post-holiday-sodium-sensitivity-in-men-over-72-with-peripheral-artery-disease
+description: >-
+  Explains seasonal sympathetic upregulation, renal perfusion shifts, and why
+  sodium thresholds drop 30% in winter — with practical cold-adapted hydration
+  and seasoning guidance.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: cold-weather sodium sensitivity pad seniors
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
+  - >-
+    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
+  - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - >-
+    5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
 ---
 
 # Why Cold-Weather Sodium Sensitivity Pad Seniors Needs Gentle Attention This Winter

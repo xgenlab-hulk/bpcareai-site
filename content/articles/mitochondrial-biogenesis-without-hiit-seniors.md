@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle *Without* High-Intensity Interval Training — Using Cold-Adapted Green Tea Polyphenols and Seated Resistance Band Cycles in Adults 71+ With Sarcopenia and Prediabetes"
-slug: "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes"
-description: "Presents low-impact, temperature-modulated mitochondrial activation protocols validated in frail older adults with insulin resistance and low lean mass."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["mitochondrial biogenesis without hiit seniors", "diabetes", "mitochondrial-health-sarcopenia"]
-primaryKeyword: "mitochondrial biogenesis without hiit seniors"
-topicCluster: "mitochondrial-health-sarcopenia"
-image: ""
-relatedSlugs: ["natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-supplements-for-adults-56-70-with-insulin-resistance-and-sedentary-desk-jobs", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd", "natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max"]
+title: >-
+  Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle *Without*
+  High-Intensity Interval Training — Using Cold-Adapted Green Tea Polyphenols
+  and Seated Resistance Band Cycles in Adults 71+ With Sarcopenia and
+  Prediabetes
+slug: >-
+  natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes
+description: >-
+  Presents low-impact, temperature-modulated mitochondrial activation protocols
+  validated in frail older adults with insulin resistance and low lean mass.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: mitochondrial biogenesis without hiit seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-supplements-for-adults-56-70-with-insulin-resistance-and-sedentary-desk-jobs
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
 ---
 
 # Gentle Ways to Support Mitochondrial Biogenesis Without HIIT in Seniors — Especially for Those 71+ With Sarcopenia and Prediabetes

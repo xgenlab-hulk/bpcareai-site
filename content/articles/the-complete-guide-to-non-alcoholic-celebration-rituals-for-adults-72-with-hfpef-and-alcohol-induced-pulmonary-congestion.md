@@ -1,14 +1,28 @@
 ---
-title: "The Complete Guide to Non-Alcoholic Celebration Rituals for Adults 72+ With HFpEF and Alcohol-Induced Pulmonary Congestion"
-slug: "the-complete-guide-to-non-alcoholic-celebration-rituals-for-adults-72-with-hfpef-and-alcohol-induced-pulmonary-congestion"
-description: "Offers a holistic, culturally resonant framework — including sensory substitution (aromatic teas, effervescent tonics), ritual pacing, and social scripting — to maintain joy and belonging without triggering interstitial edema or dyspnea."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["non-alcoholic celebration rituals hfpef", "holiday heart syndrome prevention", "ritual-substitution-hfpef"]
-primaryKeyword: "non-alcoholic celebration rituals hfpef"
-topicCluster: "ritual-substitution-hfpef"
-image: ""
-relatedSlugs: ["best-non-alcoholic-holiday-drinks-for-heart-health-after-50", "the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement", "myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs", "the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension", "why-dehydration-at-holiday-events-may-worsen-heart-palpitations"]
+title: >-
+  The Complete Guide to Non-Alcoholic Celebration Rituals for Adults 72+ With
+  HFpEF and Alcohol-Induced Pulmonary Congestion
+slug: >-
+  the-complete-guide-to-non-alcoholic-celebration-rituals-for-adults-72-with-hfpef-and-alcohol-induced-pulmonary-congestion
+description: >-
+  Offers a holistic, culturally resonant framework — including sensory
+  substitution (aromatic teas, effervescent tonics), ritual pacing, and social
+  scripting — to maintain joy and belonging without triggering interstitial
+  edema or dyspnea.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: non-alcoholic celebration rituals hfpef
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
+  - >-
+    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
 ---
 
 # Joyful, Heart-Safe Celebrations: A Thoughtful Guide to Non-Alcoholic Celebration Rituals for Adults 72+ With HFpEF

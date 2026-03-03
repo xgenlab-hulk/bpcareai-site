@@ -1,14 +1,30 @@
 ---
-title: "5 Things Everyone Over 72 Should Know About Using Chest-Worn ECG Devices During Air Travel—Especially With Pacemaker-Dependent Bradycardia and Frequent Cabin Pressure Changes"
-slug: "5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes"
-description: "Covers altitude-induced impedance shifts, motion artifact during turbulence, and why wrist-based readings fail during hypobaric stress in elderly pacemaker users."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["chest ECG devices air travel pacemaker dependent", "heart disease", "wearable-diagnostics-altitude"]
-primaryKeyword: "chest ECG devices air travel pacemaker dependent"
-topicCluster: "wearable-diagnostics-altitude"
-image: ""
-relatedSlugs: ["5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds", "the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips", "5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema", "12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd", "best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air"]
+title: >-
+  5 Things Everyone Over 72 Should Know About Using Chest-Worn ECG Devices
+  During Air Travel—Especially With Pacemaker-Dependent Bradycardia and Frequent
+  Cabin Pressure Changes
+slug: >-
+  5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes
+description: >-
+  Covers altitude-induced impedance shifts, motion artifact during turbulence,
+  and why wrist-based readings fail during hypobaric stress in elderly pacemaker
+  users.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: chest ECG devices air travel pacemaker dependent
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
+  - >-
+    the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
+  - >-
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
+  - >-
+    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
+  - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
 ---
 
 # What Every Person Over 72 Should Know About Chest ECG Devices Air Travel Pacemaker Dependent Situations

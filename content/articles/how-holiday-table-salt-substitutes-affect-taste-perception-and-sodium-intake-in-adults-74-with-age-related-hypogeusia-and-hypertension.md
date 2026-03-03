@@ -1,14 +1,29 @@
 ---
-title: "How Holiday Table Salt Substitutes Affect Taste Perception and Sodium Intake in Adults 74+ With Age-Related Hypogeusia and Hypertension"
-slug: "how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension"
-description: "Explores why potassium chloride blends fail for many seniors with dulled salt taste receptors—and offers zinc- and glutamate-enhanced seasoning strategies that improve adherence without raising BP."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["salt substitutes taste perception seniors hypertension", "healthy holiday eating for seniors", "sensory-nutrition-sodium-adherence"]
-primaryKeyword: "salt substitutes taste perception seniors hypertension"
-topicCluster: "sensory-nutrition-sodium-adherence"
-image: ""
-relatedSlugs: ["the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a", "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension", "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk", "13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps"]
+title: >-
+  How Holiday Table Salt Substitutes Affect Taste Perception and Sodium Intake
+  in Adults 74+ With Age-Related Hypogeusia and Hypertension
+slug: >-
+  how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension
+description: >-
+  Explores why potassium chloride blends fail for many seniors with dulled salt
+  taste receptors—and offers zinc- and glutamate-enhanced seasoning strategies
+  that improve adherence without raising BP.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: salt substitutes taste perception seniors hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a
+  - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
+  - >-
+    13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps
 ---
 
 # How Salt Substitutes Taste Perception Affects Seniors With Hypertension During the Holidays

@@ -6,12 +6,8 @@ description: >-
   struggle with chewing due to dentures, dry mouth, or recent dental work.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - soft food diet holiday meals seniors
-  - healthy holiday eating for seniors
-  - dental-health-diet
 primaryKeyword: soft food diet holiday meals seniors
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

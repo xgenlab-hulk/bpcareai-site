@@ -10,12 +10,8 @@ description: >-
   disproportionate troponin elevation.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - cardiac amyloidosis red flags in elderly men
-  - heart disease
-  - diagnostic-mimickers-amyloidosis
 primaryKeyword: cardiac amyloidosis red flags in elderly men
-topicCluster: diagnostic-mimickers-amyloidosis
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

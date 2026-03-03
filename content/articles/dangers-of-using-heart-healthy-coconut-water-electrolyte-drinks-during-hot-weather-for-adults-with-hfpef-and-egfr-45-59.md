@@ -10,12 +10,8 @@ description: >-
   HFpEF—especially during summer heat stress and diuretic use.
 date: '2026-01-06'
 updated: '2026-01-06'
-tags:
-  - coconut water hfpef kidney function risk
-  - heart health
-  - electrolyte-drinks-hfpef-safety
 primaryKeyword: coconut water hfpef kidney function risk
-topicCluster: electrolyte-drinks-hfpef-safety
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

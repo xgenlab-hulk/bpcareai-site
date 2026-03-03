@@ -10,12 +10,8 @@ description: >-
   how to test freshness at home.
 date: '2026-02-01'
 updated: '2026-02-01'
-tags:
-  - olive oil heart health carotid plaque seniors
-  - heart disease
-  - nutritional-quality-assessment
 primaryKeyword: olive oil heart health carotid plaque seniors
-topicCluster: nutritional-quality-assessment
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

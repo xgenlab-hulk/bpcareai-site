@@ -1,14 +1,28 @@
 ---
-title: "Natural Ways to Reduce Post-Holiday Joint Stiffness in Adults 64–81 With Osteoarthritis and High-Resolution CRP Elevation"
-slug: "natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation"
-description: "Focuses on anti-inflammatory meal sequencing, timing of omega-3-rich foods relative to high-AGE holiday meals, and low-impact movement ‘anchors’ to interrupt inflammatory cascades."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["reduce joint stiffness post-holiday seniors", "healthy holiday eating for seniors", "natural-remedies-inflammation"]
-primaryKeyword: "reduce joint stiffness post-holiday seniors"
-topicCluster: "natural-remedies-inflammation"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis", "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits", "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72", "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis", "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60"]
+title: >-
+  Natural Ways to Reduce Post-Holiday Joint Stiffness in Adults 64–81 With
+  Osteoarthritis and High-Resolution CRP Elevation
+slug: >-
+  natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
+description: >-
+  Focuses on anti-inflammatory meal sequencing, timing of omega-3-rich foods
+  relative to high-AGE holiday meals, and low-impact movement ‘anchors’ to
+  interrupt inflammatory cascades.
+date: '2026-01-16'
+updated: '2026-01-16'
+primaryKeyword: reduce joint stiffness post-holiday seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
+  - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
+  - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 
 # Gentle, Natural Ways to Reduce Joint Stiffness Post-Holiday Seniors With Osteoarthritis

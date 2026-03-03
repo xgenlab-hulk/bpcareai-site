@@ -1,14 +1,25 @@
 ---
-title: "7 Hidden Heart Disease Risks in Adults 55–64 Who Still Feel 'Too Young' for Cardiac Screening"
-slug: "7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening"
-description: "Explores under-recognized risk accelerators — like chronic job stress, silent sleep-disordered breathing, and midlife sarcopenia — that silently damage vasculature before traditional risk calculators flag concern."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["hidden heart disease risks age 55-64", "heart disease", "risk-factors-midlife"]
-primaryKeyword: "hidden heart disease risks age 55-64"
-topicCluster: "risk-factors-midlife"
-image: ""
-relatedSlugs: ["7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55", "why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55", "can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55", "why-men-over-50-should-monitor-cholesterol-even-without-symptoms", "how-obesity-contributes-to-heart-disease-in-middle-age"]
+title: >-
+  7 Hidden Heart Disease Risks in Adults 55–64 Who Still Feel 'Too Young' for
+  Cardiac Screening
+slug: >-
+  7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
+description: >-
+  Explores under-recognized risk accelerators — like chronic job stress, silent
+  sleep-disordered breathing, and midlife sarcopenia — that silently damage
+  vasculature before traditional risk calculators flag concern.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: hidden heart disease risks age 55-64
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
+  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
+  - how-obesity-contributes-to-heart-disease-in-middle-age
 ---
 
 # Hidden Heart Disease Risks Age 55–64: Why “Feeling Fine” Isn’t Enough Anymore

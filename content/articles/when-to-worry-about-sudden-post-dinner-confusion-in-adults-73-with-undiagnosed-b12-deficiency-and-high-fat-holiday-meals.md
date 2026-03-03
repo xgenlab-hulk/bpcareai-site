@@ -1,14 +1,28 @@
 ---
-title: "When to Worry About Sudden Post-Dinner Confusion in Adults 73+ With Undiagnosed B12 Deficiency and High-Fat Holiday Meals"
-slug: "when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals"
-description: "Explores how fat-induced cholecystokinin release can transiently worsen cerebral cobalamin delivery in aging brains—and what cognitive red flags warrant urgent labs."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["post-dinner confusion b12 deficiency seniors", "healthy holiday eating for seniors", "when-to-worry-neurological"]
-primaryKeyword: "post-dinner confusion b12 deficiency seniors"
-topicCluster: "when-to-worry-neurological"
-image: ""
-relatedSlugs: ["what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings", "what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy", "when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70", "can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors", "7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing"]
+title: >-
+  When to Worry About Sudden Post-Dinner Confusion in Adults 73+ With
+  Undiagnosed B12 Deficiency and High-Fat Holiday Meals
+slug: >-
+  when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
+description: >-
+  Explores how fat-induced cholecystokinin release can transiently worsen
+  cerebral cobalamin delivery in aging brains—and what cognitive red flags
+  warrant urgent labs.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: post-dinner confusion b12 deficiency seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
+  - >-
+    what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy
+  - >-
+    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
+  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
+  - >-
+    7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing
 ---
 
 # When Post-Dinner Confusion in Seniors Might Signal an Undiagnosed B12 Deficiency

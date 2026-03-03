@@ -6,12 +6,8 @@ description: >-
   guidelines for those over 60 with heart concerns.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - shoveling snow heart risk
-  - winter heart health for seniors
-  - emergency-symptoms
 primaryKeyword: shoveling snow heart risk
-topicCluster: symptoms-emergencies
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - 10-winter-safe-exercises-for-heart-health-after-65

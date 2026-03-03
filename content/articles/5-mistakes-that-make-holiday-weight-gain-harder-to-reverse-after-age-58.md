@@ -7,12 +7,8 @@ description: >-
   and overestimating post-feast activity—backed by metabolic aging research.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - holiday weight gain reversal mistakes age 58
-  - healthy eating during family gatherings
-  - weight-management-aging-metabolism
 primaryKeyword: holiday weight gain reversal mistakes age 58
-topicCluster: age-gender-specific
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause

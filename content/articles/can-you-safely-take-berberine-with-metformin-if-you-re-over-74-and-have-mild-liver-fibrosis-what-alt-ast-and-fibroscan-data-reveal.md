@@ -10,12 +10,8 @@ description: >-
   clinical trial exclusions.
 date: '2026-01-09'
 updated: '2026-01-09'
-tags:
-  - berberine and metformin in elderly with liver fibrosis
-  - diabetes
-  - herb-drug-interactions
 primaryKeyword: berberine and metformin in elderly with liver fibrosis
-topicCluster: herb-drug-interactions
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-

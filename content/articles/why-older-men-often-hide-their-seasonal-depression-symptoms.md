@@ -6,12 +6,8 @@ description: >-
   acknowledging mood changes in winter.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - men and hidden seasonal depression
-  - seasonal depression in older adults
-  - gender-expression-barriers
 primaryKeyword: men and hidden seasonal depression
-topicCluster: age-gender-specific
+topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

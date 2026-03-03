@@ -1,14 +1,30 @@
 ---
-title: "What Research Says About Intermittent Fasting *Only on Weekdays* During the Holidays — Glycemic Outcomes, Muscle Preservation, and Appetite Hormone Shifts in Adults 68+ With Sarcopenic Obesity"
-slug: "what-research-says-about-intermittent-fasting-only-on-weekdays-during-the-holidays-glycemic-outcomes-muscle-preservation-and-appetite-hormone-shifts-in-adults-68-with-sarcopenic-obesity"
-description: "Analyzes a 6-week RCT comparing 16:8 fasting Mon–Fri only vs. continuous fasting, focusing on HOMA-IR change, lean mass CT volumetrics, and acyl-ghrelin suppression kinetics in older adults."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["weekday intermittent fasting holidays", "holiday diabetes management", "time-restricted-eating-research"]
-primaryKeyword: "weekday intermittent fasting holidays"
-topicCluster: "time-restricted-eating-research"
-image: ""
-relatedSlugs: ["what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment", "what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time", "how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation", "what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss", "how-intermittent-fasting-during-hanukkah-or-christmas-week-affects-circulating-igf-1-levels-in-adults-55-69-with-early-stage-breast-cancer"]
+title: >-
+  What Research Says About Intermittent Fasting *Only on Weekdays* During the
+  Holidays — Glycemic Outcomes, Muscle Preservation, and Appetite Hormone Shifts
+  in Adults 68+ With Sarcopenic Obesity
+slug: >-
+  what-research-says-about-intermittent-fasting-only-on-weekdays-during-the-holidays-glycemic-outcomes-muscle-preservation-and-appetite-hormone-shifts-in-adults-68-with-sarcopenic-obesity
+description: >-
+  Analyzes a 6-week RCT comparing 16:8 fasting Mon–Fri only vs. continuous
+  fasting, focusing on HOMA-IR change, lean mass CT volumetrics, and
+  acyl-ghrelin suppression kinetics in older adults.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: weekday intermittent fasting holidays
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
+  - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
+  - >-
+    how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
+  - >-
+    what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss
+  - >-
+    how-intermittent-fasting-during-hanukkah-or-christmas-week-affects-circulating-igf-1-levels-in-adults-55-69-with-early-stage-breast-cancer
 ---
 
 # What the Science Says About Weekday Intermittent Fasting Holidays for Older Adults With Sarcopenic Obesity

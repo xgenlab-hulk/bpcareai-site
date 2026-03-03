@@ -1,0 +1,290 @@
+{
+  "round": 2,
+  "batch_id": 3,
+  "total_clusters": 47,
+  "total_articles": 560,
+  "clusters": [
+    {
+      "cluster_name": "diabetes-comprehensive",
+      "description": "糖尿病的综合管理,包括血糖监测、饮食策略、胰岛功能保护和并发症预防",
+      "total_articles": 67,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "lifestyle-modifications",
+      "description": "生活方式改变和行为干预,包括运动、体力活动、正念运动和社会参与",
+      "total_articles": 53,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "diet-nutrition-science",
+      "description": "饮食营养的科学原理,包括营养素代谢、膳食时机、功能性食物和肠道健康",
+      "total_articles": 31,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "monitoring-technology",
+      "description": "健康监测技术、设备比较、准确性评估和数字工具使用",
+      "total_articles": 27,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "circadian-metabolic-health",
+      "description": "生物节律对代谢、血压和心血管功能的影响，包括睡眠、昼夜周期、时间生物学",
+      "total_articles": 22,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "gastrointestinal-health-nutrition",
+      "description": "消化系统健康、肠道微生物、消化生理和胃肠道营养管理",
+      "total_articles": 21,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "research-evidence-education",
+      "description": "科学研究证据、临床试验和健康教育意识",
+      "total_articles": 18,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "natural-remedies-supplements",
+      "description": "天然疗法、补充剂临床试验和植物活性物质",
+      "total_articles": 17,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "diet-nutrition-cooking-methods",
+      "description": "饮食营养、烹饪方法对健康的影响，包括食物制备、加工方式和营养保护",
+      "total_articles": 16,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "cardiovascular-physiology-mechanisms",
+      "description": "心血管系统的生理机制、血流动力学、血管功能和结构变化",
+      "total_articles": 15,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "symptoms-warning-signs",
+      "description": "症状识别、危险信号和急症预警，包括性别差异、神经系统和心血管急症识别",
+      "total_articles": 15,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "medication-safety-management",
+      "description": "药物安全、药物相互作用、用药时机、多重用药管理和药物减量",
+      "total_articles": 15,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "monitoring-diagnostics",
+      "description": "医学监测与诊断技术,包括设备准确性、误诊风险、远程监测和新型生物标志物",
+      "total_articles": 14,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "special-populations-care",
+      "description": "特殊人群的疾病管理(老年、女性、照护者)",
+      "total_articles": 13,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "gastrointestinal-health",
+      "description": "消化系统健康,包括胃食管反流、胃肠动力、吞咽安全和消化系统并发症",
+      "total_articles": 13,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "oral-systemic-connections",
+      "description": "口腔健康与系统性疾病的关联,包括口腔运动营养和消化支持",
+      "total_articles": 12,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "symptom-recognition-diagnosis",
+      "description": "各类疾病的症状识别和诊断挑战，特别关注老年人、性别差异和非典型表现",
+      "total_articles": 12,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "autonomic-nervous-dysfunction",
+      "description": "自主神经系统功能障碍、迷走神经调节与心血管代谢影响",
+      "total_articles": 11,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "medication-management",
+      "description": "药物管理,包括药物相互作用、用药时机、多重用药风险和药物-食物相互作用",
+      "total_articles": 11,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "cardiovascular-nutrition-intervention",
+      "description": "心血管疾病的饮食干预和营养支持策略",
+      "total_articles": 10,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "specialized-physiology-mechanisms",
+      "description": "专业生理机制和病理生理学研究,包括特殊代谢途径和生理现象",
+      "total_articles": 10,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "medication-safety-interactions",
+      "description": "药物安全性、药物相互作用和用药管理",
+      "total_articles": 9,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "food-labeling-nutrition-literacy",
+      "description": "食品标签、营养声明、消费者教育和食品安全认知",
+      "total_articles": 9,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "stress-psychosocial-factors",
+      "description": "压力、心理社会因素、情绪健康对代谢和心血管健康的影响",
+      "total_articles": 9,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "exercise-hemodynamic-response",
+      "description": "运动对血流动力学的影响、低强度运动和运动安全",
+      "total_articles": 8,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "lifestyle-situational-factors",
+      "description": "生活方式、情境因素和社会行为对健康的影响",
+      "total_articles": 8,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "autonomic-nervous-system",
+      "description": "自主神经系统调节,包括迷走神经刺激、呼吸调节和心理生理干预",
+      "total_articles": 8,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "emergency-acute-care",
+      "description": "急症识别、紧急干预、症状时间线和快速血压/血糖稳定",
+      "total_articles": 8,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "nutrition-timing-precision",
+      "description": "精准营养时间策略、餐食时机、营养素时序与代谢优化",
+      "total_articles": 7,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "chronic-kidney-disease",
+      "description": "慢性肾病的饮食管理、补充剂安全和肾脏保护策略",
+      "total_articles": 7,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "stress-mental-health-metabolism",
+      "description": "压力、心理健康与代谢的相互影响",
+      "total_articles": 6,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "perioperative-surgical-care",
+      "description": "围手术期管理、手术恢复和术后代谢管理",
+      "total_articles": 6,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "renal-health-protection",
+      "description": "肾脏健康保护、肾功能监测和肾病管理",
+      "total_articles": 5,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "physical-activity-exercise",
+      "description": "运动、身体活动和康复训练",
+      "total_articles": 5,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "elderly-geriatric-care",
+      "description": "老年人特殊健康需求、衰弱、多病共存和老年综合征管理",
+      "total_articles": 5,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "beverage-nutrition-metabolism",
+      "description": "饮料对代谢和心血管健康的影响,包括酒精、咖啡因和其他饮料",
+      "total_articles": 5,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "aging-geriatric-care",
+      "description": "老年人群的健康管理、老化相关问题和老年医学",
+      "total_articles": 4,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "special-populations-care",
+      "description": "特殊人群的健康管理，包括旅行、社区生活、护理者等",
+      "total_articles": 4,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "medication-pharmacology-safety",
+      "description": "药物治疗、药物相互作用和用药安全,包括多药治疗和药物副作用",
+      "total_articles": 4,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "special-populations-care",
+      "description": "特殊人群的健康管理，包括老年人、女性、照护者和特殊场景下的护理策略",
+      "total_articles": 4,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "health-myths-misconceptions",
+      "description": "健康误区、常见谬误和事实澄清",
+      "total_articles": 3,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "immune-metabolic-interface",
+      "description": "免疫系统与代谢健康的相互作用",
+      "total_articles": 3,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "special-populations-gender-age",
+      "description": "特殊人群健康管理，包括性别差异、激素转变、年龄特定需求",
+      "total_articles": 3,
+      "source_batch": 4
+    },
+    {
+      "cluster_name": "renal-kidney-health",
+      "description": "肾脏健康、慢性肾病管理、肾功能保护和肾病相关代谢异常",
+      "total_articles": 3,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "hepatic-health",
+      "description": "肝脏健康与代谢",
+      "total_articles": 2,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "sodium-sensitivity-assessment",
+      "description": "钠敏感性评估和盐摄入个体化管理",
+      "total_articles": 1,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "microvascular-protection",
+      "description": "微血管保护和血管功能优化",
+      "total_articles": 1,
+      "source_batch": 5
+    }
+  ]
+}

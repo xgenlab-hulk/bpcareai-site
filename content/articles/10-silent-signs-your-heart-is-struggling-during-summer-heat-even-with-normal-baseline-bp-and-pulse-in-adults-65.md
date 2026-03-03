@@ -1,14 +1,28 @@
 ---
-title: "10 Silent Signs Your Heart Is Struggling During Summer Heat — Even With Normal Baseline BP and Pulse in Adults 65+"
-slug: "10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65"
-description: "Lists subtle heat-exacerbated indicators like unexplained confusion, worsening nocturia, and delayed capillary refill — all tied to thermoregulatory strain on cardiac output and renal perfusion."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["heart strain signs during summer heat seniors", "heart disease", "seasonal-symptoms"]
-primaryKeyword: "heart strain signs during summer heat seniors"
-topicCluster: "seasonal-symptoms"
-image: ""
-relatedSlugs: ["7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings", "7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia", "7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "5-silent-signs-your-heart-is-struggling-in-cold-weather"]
+title: >-
+  10 Silent Signs Your Heart Is Struggling During Summer Heat — Even With Normal
+  Baseline BP and Pulse in Adults 65+
+slug: >-
+  10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65
+description: >-
+  Lists subtle heat-exacerbated indicators like unexplained confusion, worsening
+  nocturia, and delayed capillary refill — all tied to thermoregulatory strain
+  on cardiac output and renal perfusion.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: heart strain signs during summer heat seniors
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
+  - >-
+    7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
+  - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - 5-silent-signs-your-heart-is-struggling-in-cold-weather
 ---
 
 # 10 Subtle Heart Strain Signs During Summer Heat in Seniors — Even With Normal Blood Pressure and Pulse

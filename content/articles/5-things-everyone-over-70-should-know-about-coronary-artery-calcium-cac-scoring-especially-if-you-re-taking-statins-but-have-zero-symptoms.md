@@ -1,14 +1,29 @@
 ---
-title: "5 Things Everyone Over 70 Should Know About Coronary Artery Calcium (CAC) Scoring — Especially If You're Taking Statins but Have Zero Symptoms"
-slug: "5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms"
-description: "Clarifies clinical utility, progression thresholds, and implications of CAC scoring in asymptomatic older adults on primary prevention statins — beyond risk calculators."
-date: "2026-02-16"
-updated: "2026-02-16"
-tags: ["coronary calcium scoring over 70", "heart disease", "preventive-testing-interpretation"]
-primaryKeyword: "coronary calcium scoring over 70"
-topicCluster: "preventive-testing-interpretation"
-image: ""
-relatedSlugs: ["the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks", "the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning", "12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300", "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance", "myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75"]
+title: >-
+  5 Things Everyone Over 70 Should Know About Coronary Artery Calcium (CAC)
+  Scoring — Especially If You're Taking Statins but Have Zero Symptoms
+slug: >-
+  5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms
+description: >-
+  Clarifies clinical utility, progression thresholds, and implications of CAC
+  scoring in asymptomatic older adults on primary prevention statins — beyond
+  risk calculators.
+date: '2026-02-16'
+updated: '2026-02-16'
+primaryKeyword: coronary calcium scoring over 70
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
+  - >-
+    the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
+  - >-
+    12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
+  - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
 ---
 
 # What Everyone Over 70 Should Know About Coronary Calcium Scoring — Especially If You're on Statins and Feel Fine  

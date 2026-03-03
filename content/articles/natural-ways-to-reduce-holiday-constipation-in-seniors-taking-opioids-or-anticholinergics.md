@@ -10,12 +10,8 @@ description: >-
   supplementation—backed by geriatric GI studies.
 date: '2025-12-26'
 updated: '2025-12-26'
-tags:
-  - natural constipation relief seniors opioids
-  - healthy holiday eating for seniors
-  - gastrointestinal-motility-support
 primaryKeyword: natural constipation relief seniors opioids
-topicCluster: gastrointestinal-motility-support
+topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-

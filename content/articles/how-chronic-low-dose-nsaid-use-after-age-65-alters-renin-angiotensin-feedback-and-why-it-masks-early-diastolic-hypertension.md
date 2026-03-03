@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Low-Dose NSAID Use After Age 65 Alters Renin-Angiotensin Feedback — And Why It Masks Early Diastolic Hypertension"
-slug: "how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension"
-description: "Examines how daily ibuprofen or naproxen disrupts intrarenal RAAS signaling in aging kidneys, leading to 'white-coat resistant' diastolic elevation undetectable via standard office BP cuffs."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["nsaid diastolic hypertension aging kidneys", "blood pressure", "medication-physiology"]
-primaryKeyword: "nsaid diastolic hypertension aging kidneys"
-topicCluster: "medication-physiology"
-image: ""
-relatedSlugs: ["how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr", "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use", "how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy", "how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo", "how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-mediated-glucose-reabsorption-and-accelerates-egfr-decline-in-adults-70-with-stage-3-ckd-and-diabetes"]
+title: >-
+  How Chronic Low-Dose NSAID Use After Age 65 Alters Renin-Angiotensin Feedback
+  — And Why It Masks Early Diastolic Hypertension
+slug: >-
+  how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
+description: >-
+  Examines how daily ibuprofen or naproxen disrupts intrarenal RAAS signaling in
+  aging kidneys, leading to 'white-coat resistant' diastolic elevation
+  undetectable via standard office BP cuffs.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: nsaid diastolic hypertension aging kidneys
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - >-
+    how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy
+  - >-
+    how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo
+  - >-
+    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-mediated-glucose-reabsorption-and-accelerates-egfr-decline-in-adults-70-with-stage-3-ckd-and-diabetes
 ---
 
 # How Daily NSAIDs After 65 Can Quietly Raise Diastolic Pressure — And Why Your Kidneys Might Not Tell You

@@ -1,14 +1,30 @@
 ---
-title: "7 Hidden Portion Distortions That Sabotage Blood Sugar Control at Family Dinners — Especially for Adults 58–74 With Prediabetes and Slow Gastric Emptying"
-slug: "7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying"
-description: "Explores how visual cues, plate size, serving traditions, and generational habits unintentionally inflate carb and calorie intake during holiday meals—and offers practical, physiology-aware recalibration strategies."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["portion distortion family dinner prediabetes", "healthy eating during family gatherings", "diet-nutrition-portion-cognition"]
-primaryKeyword: "portion distortion family dinner prediabetes"
-topicCluster: "diet-nutrition-portion-cognition"
-image: ""
-relatedSlugs: ["how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55", "how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes", "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control", "how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58", "how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65"]
+title: >-
+  7 Hidden Portion Distortions That Sabotage Blood Sugar Control at Family
+  Dinners — Especially for Adults 58–74 With Prediabetes and Slow Gastric
+  Emptying
+slug: >-
+  7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying
+description: >-
+  Explores how visual cues, plate size, serving traditions, and generational
+  habits unintentionally inflate carb and calorie intake during holiday
+  meals—and offers practical, physiology-aware recalibration strategies.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: portion distortion family dinner prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - >-
+    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+  - >-
+    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
+  - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
 ---
 
 # How Portion Distortion at Family Dinners Undermines Blood Sugar Control — Especially for Adults 58–74 With Prediabetes

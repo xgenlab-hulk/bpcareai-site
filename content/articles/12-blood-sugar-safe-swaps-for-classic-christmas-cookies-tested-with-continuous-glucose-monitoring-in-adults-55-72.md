@@ -1,14 +1,26 @@
 ---
-title: "12 Blood Sugar-Safe Swaps for Classic Christmas Cookies—Tested With Continuous Glucose Monitoring in Adults 55–72"
-slug: "12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72"
-description: "A practical, evidence-informed guide to modifying holiday cookie recipes using low-glycemic flours, fiber-rich add-ins, and smart sweeteners—without sacrificing texture or tradition."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["christmas cookies blood sugar swaps", "managing blood sugar during christmas and new year", "diet-nutrition-recipe-modification"]
-primaryKeyword: "christmas cookies blood sugar swaps"
-topicCluster: "diet-nutrition-recipe-modification"
-image: ""
-relatedSlugs: ["12-smart-swaps-to-manage-blood-sugar-during-holiday-meals", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish", "7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose", "can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide"]
+title: >-
+  12 Blood Sugar-Safe Swaps for Classic Christmas Cookies—Tested With Continuous
+  Glucose Monitoring in Adults 55–72
+slug: >-
+  12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
+description: >-
+  A practical, evidence-informed guide to modifying holiday cookie recipes using
+  low-glycemic flours, fiber-rich add-ins, and smart sweeteners—without
+  sacrificing texture or tradition.
+date: '2026-01-05'
+updated: '2026-01-05'
+primaryKeyword: christmas cookies blood sugar swaps
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
+  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
+  - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
 ---
 
 # 12 Blood Sugar–Friendly Swaps for Classic Christmas Cookies—Backed by Real Data from Adults 55–72

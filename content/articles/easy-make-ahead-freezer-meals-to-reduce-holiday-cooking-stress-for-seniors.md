@@ -6,12 +6,8 @@ description: >-
   strain and ensure nutritious options are always available.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - make-ahead freezer meals for seniors holidays
-  - healthy holiday eating for seniors
-  - meal-preparation
 primaryKeyword: make-ahead freezer meals for seniors holidays
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60

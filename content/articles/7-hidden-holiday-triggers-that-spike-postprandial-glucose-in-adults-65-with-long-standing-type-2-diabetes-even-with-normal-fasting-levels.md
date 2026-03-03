@@ -1,14 +1,27 @@
 ---
-title: "7 Hidden Holiday Triggers That Spike Postprandial Glucose in Adults 65+ With Long-Standing Type 2 Diabetes — Even With Normal Fasting Levels"
-slug: "7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels"
-description: "Explores overlooked seasonal factors — from artificial sweetener-laden 'sugar-free' candies to delayed insulin timing during travel — that cause dangerous glucose surges after meals in older adults with well-managed baseline readings."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["holiday postprandial glucose spikes seniors", "holiday diabetes management", "glucose-monitoring-triggers"]
-primaryKeyword: "holiday postprandial glucose spikes seniors"
-topicCluster: "glucose-monitoring-triggers"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes", "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them", "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50"]
+title: >-
+  7 Hidden Holiday Triggers That Spike Postprandial Glucose in Adults 65+ With
+  Long-Standing Type 2 Diabetes — Even With Normal Fasting Levels
+slug: >-
+  7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+description: >-
+  Explores overlooked seasonal factors — from artificial sweetener-laden
+  'sugar-free' candies to delayed insulin timing during travel — that cause
+  dangerous glucose surges after meals in older adults with well-managed
+  baseline readings.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: holiday postprandial glucose spikes seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them
+  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
 ---
 
 # Why Holiday Postprandial Glucose Spikes in Seniors Deserve Gentle Attention — Even With Stable Fasting Numbers

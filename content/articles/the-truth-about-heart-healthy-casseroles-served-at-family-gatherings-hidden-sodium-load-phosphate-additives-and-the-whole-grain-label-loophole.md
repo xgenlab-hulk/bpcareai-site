@@ -1,14 +1,30 @@
 ---
-title: "The Truth About ‘Heart-Healthy’ Casseroles Served at Family Gatherings — Hidden Sodium Load, Phosphate Additives, and the ‘Whole Grain’ Label Loophole"
-slug: "the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole"
-description: "Debunks marketing claims on popular holiday casserole ingredients (e.g., canned soups, pre-shredded cheese, frozen crusts), revealing how hidden sodium, phosphates, and refined starches undermine cardiovascular safety for adults 60–79 with stage 1 hypertension or CKD."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["heart-healthy casserole hidden sodium phosphate", "healthy eating during family gatherings", "processed-food-labeling"]
-primaryKeyword: "heart-healthy casserole hidden sodium phosphate"
-topicCluster: "processed-food-labeling"
-image: ""
-relatedSlugs: ["7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62", "the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease", "warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy", "7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension", "5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor"]
+title: >-
+  The Truth About ‘Heart-Healthy’ Casseroles Served at Family Gatherings —
+  Hidden Sodium Load, Phosphate Additives, and the ‘Whole Grain’ Label Loophole
+slug: >-
+  the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole
+description: >-
+  Debunks marketing claims on popular holiday casserole ingredients (e.g.,
+  canned soups, pre-shredded cheese, frozen crusts), revealing how hidden
+  sodium, phosphates, and refined starches undermine cardiovascular safety for
+  adults 60–79 with stage 1 hypertension or CKD.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: heart-healthy casserole hidden sodium phosphate
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+  - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
+  - >-
+    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
+  - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
+  - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
 ---
 
 # What Your “Heart-Healthy” Casserole *Really* Contains — Hidden Sodium, Phosphates, and the Whole Grain Trap

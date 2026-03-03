@@ -1,14 +1,28 @@
 ---
-title: "5 Things Everyone Over 66 Should Know About Managing Diabetes During a Heatwave—Especially If on SGLT2 Inhibitors"
-slug: "5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors"
-description: "Covers dehydration risks, ketoacidosis triggers, medication stability, insulin storage safety, and hydration monitoring tactics during extreme ambient heat exposure."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["diabetes management during heatwave over 66", "diabetes", "extreme-weather-safety"]
-primaryKeyword: "diabetes management during heatwave over 66"
-topicCluster: "extreme-weather-safety"
-image: ""
-relatedSlugs: ["simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone", "10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk", "how-dehydration-affects-blood-sugar-readings-in-older-diabetics", "holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides", "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications"]
+title: >-
+  5 Things Everyone Over 66 Should Know About Managing Diabetes During a
+  Heatwave—Especially If on SGLT2 Inhibitors
+slug: >-
+  5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
+description: >-
+  Covers dehydration risks, ketoacidosis triggers, medication stability, insulin
+  storage safety, and hydration monitoring tactics during extreme ambient heat
+  exposure.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: diabetes management during heatwave over 66
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
+  - >-
+    10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - >-
+    holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
 ---
 
 # What Everyone Over 66 Needs to Know About Diabetes Management During a Heatwave—Especially on SGLT2 Inhibitors

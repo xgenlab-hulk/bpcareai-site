@@ -11,12 +11,8 @@ description: >-
   diabetes in parents aged 80+.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - caregiver diabetic meal packing seniors
-  - healthy eating during family gatherings
-  - caregiver-diet-logistics
 primaryKeyword: caregiver diabetic meal packing seniors
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - managing-diabetes-while-traveling-tips-for-seniors

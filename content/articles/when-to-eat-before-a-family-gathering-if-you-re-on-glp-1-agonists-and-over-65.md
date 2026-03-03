@@ -1,14 +1,26 @@
 ---
-title: "When to Eat Before a Family Gathering If You’re on GLP-1 Agonists and Over 65"
-slug: "when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65"
-description: "Guidance on optimal pre-event meal timing, macronutrient composition, and hydration to prevent nausea, delayed gastric emptying, and postprandial hypoglycemia in older GLP-1 users."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["glp-1 agonist meal timing family gathering", "healthy eating during family gatherings", "medication-nutrition-timing"]
-primaryKeyword: "glp-1 agonist meal timing family gathering"
-topicCluster: "medication-nutrition-timing"
-image: ""
-relatedSlugs: ["how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68", "the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75", "how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55"]
+title: When to Eat Before a Family Gathering If You’re on GLP-1 Agonists and Over 65
+slug: when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
+description: >-
+  Guidance on optimal pre-event meal timing, macronutrient composition, and
+  hydration to prevent nausea, delayed gastric emptying, and postprandial
+  hypoglycemia in older GLP-1 users.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: glp-1 agonist meal timing family gathering
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+  - >-
+    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 ---
 
 # Smart GLP-1 Agonist Meal Timing for Family Gatherings: A Practical Guide for Adults 65 and Older

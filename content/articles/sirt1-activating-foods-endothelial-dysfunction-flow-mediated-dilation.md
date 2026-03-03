@@ -1,14 +1,30 @@
 ---
-title: "10 Foods That Activate SIRT1 to Enhance eNOS Acetylation and Improve Flow-Mediated Dilation in Adults 65–80 With Endothelial Dysfunction and Normal LDL"
-slug: "10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl"
-description: "Highlights underutilized SIRT1-activating foods (black garlic, raw cocoa, fermented soy, pomegranate ellagitannins) and explains how deacetylation of eNOS boosts nitric oxide bioavailability independent of cholesterol status."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["sirt1 activating foods endothelial dysfunction flow-mediated dilation", "blood pressure", "epigenetic-endothelial-support"]
-primaryKeyword: "sirt1 activating foods endothelial dysfunction flow-mediated dilation"
-topicCluster: "epigenetic-endothelial-support"
-image: ""
-relatedSlugs: ["12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina", "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling", "natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74", "12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp"]
+title: >-
+  10 Foods That Activate SIRT1 to Enhance eNOS Acetylation and Improve
+  Flow-Mediated Dilation in Adults 65–80 With Endothelial Dysfunction and Normal
+  LDL
+slug: >-
+  10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
+description: >-
+  Highlights underutilized SIRT1-activating foods (black garlic, raw cocoa,
+  fermented soy, pomegranate ellagitannins) and explains how deacetylation of
+  eNOS boosts nitric oxide bioavailability independent of cholesterol status.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: sirt1 activating foods endothelial dysfunction flow-mediated dilation
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+  - >-
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+  - >-
+    12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp
 ---
 
 # Sirt1-Activating Foods for Endothelial Health: Boosting Flow-Mediated Dilation Naturally in Adults 65–80

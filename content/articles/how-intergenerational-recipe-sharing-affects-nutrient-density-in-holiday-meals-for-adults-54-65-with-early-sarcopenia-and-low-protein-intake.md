@@ -1,14 +1,27 @@
 ---
-title: "How Intergenerational Recipe Sharing Affects Nutrient Density in Holiday Meals for Adults 54–65 With Early Sarcopenia and Low Protein Intake"
-slug: "how-intergenerational-recipe-sharing-affects-nutrient-density-in-holiday-meals-for-adults-54-65-with-early-sarcopenia-and-low-protein-intake"
-description: "Examines generational shifts in cooking methods (e.g., pressure-cooked beans vs canned), protein fortification opportunities (lentil-stuffed mushrooms, collagen-enriched gravy), and engagement-based adherence tools."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["intergenerational recipes sarcopenia seniors", "healthy holiday eating for seniors", "lifestyle-engagement-nutrition"]
-primaryKeyword: "intergenerational recipes sarcopenia seniors"
-topicCluster: "lifestyle-engagement-nutrition"
-image: ""
-relatedSlugs: ["quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook", "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60", "5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily", "how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying", "the-link-between-family-food-traditions-and-chronic-disease-risk"]
+title: >-
+  How Intergenerational Recipe Sharing Affects Nutrient Density in Holiday Meals
+  for Adults 54–65 With Early Sarcopenia and Low Protein Intake
+slug: >-
+  how-intergenerational-recipe-sharing-affects-nutrient-density-in-holiday-meals-for-adults-54-65-with-early-sarcopenia-and-low-protein-intake
+description: >-
+  Examines generational shifts in cooking methods (e.g., pressure-cooked beans
+  vs canned), protein fortification opportunities (lentil-stuffed mushrooms,
+  collagen-enriched gravy), and engagement-based adherence tools.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: intergenerational recipes sarcopenia seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
+  - >-
+    how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
+  - the-link-between-family-food-traditions-and-chronic-disease-risk
 ---
 
 # How Intergenerational Recipe Sharing Supports Nutrient Density in Holiday Meals for Adults 54–65 With Early Sarcopenia

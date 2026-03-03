@@ -11,12 +11,8 @@ description: >-
   variability, and gut-brain axis disruption.
 date: '2025-12-27'
 updated: '2025-12-27'
-tags:
-  - diabetes-friendly protein bars hidden ingredients
-  - diabetes
-  - processed-food-mislabeling
 primaryKeyword: diabetes-friendly protein bars hidden ingredients
-topicCluster: processed-food-mislabeling
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

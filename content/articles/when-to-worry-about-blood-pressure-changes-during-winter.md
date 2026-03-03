@@ -6,12 +6,8 @@ description: >-
   attention due to dangerous winter blood pressure fluctuations.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - dangerous blood pressure levels
-  - senior blood pressure control in winter
-  - emergency-symptoms
 primaryKeyword: dangerous blood pressure levels
-topicCluster: symptoms-emergencies
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-cold-weather-raise-your-blood-pressure

@@ -1,14 +1,30 @@
 ---
-title: "A vs B: 4-Minute Morning Cold Face Immersion (Diving Reflex) vs. 5-Minute Evening Vagus Nerve Stimulation via Humming — Impact on 24-Hour HRV in Adults 60–79 With Chronic Stress and Elevated CRP"
-slug: "a-vs-b-4-minute-morning-cold-face-immersion-diving-reflex-vs-5-minute-evening-vagus-nerve-stimulation-via-humming-impact-on-24-hour-hrv-in-adults-60-79-with-chronic-stress-and-elevated-crp"
-description: "Head-to-head comparison using wearable HRV metrics (RMSSD, SDNN), showing which technique sustains parasympathetic tone longer—and why timing matters more than modality for inflammatory aging."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["cold face immersion vs vagus humming hrvar", "heart health", "vagal-toning-timing-comparison"]
-primaryKeyword: "cold face immersion vs vagus humming hrvar"
-topicCluster: "vagal-toning-timing-comparison"
-image: ""
-relatedSlugs: ["can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension", "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns", "does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv", "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct", "can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity"]
+title: >-
+  A vs B: 4-Minute Morning Cold Face Immersion (Diving Reflex) vs. 5-Minute
+  Evening Vagus Nerve Stimulation via Humming — Impact on 24-Hour HRV in Adults
+  60–79 With Chronic Stress and Elevated CRP
+slug: >-
+  a-vs-b-4-minute-morning-cold-face-immersion-diving-reflex-vs-5-minute-evening-vagus-nerve-stimulation-via-humming-impact-on-24-hour-hrv-in-adults-60-79-with-chronic-stress-and-elevated-crp
+description: >-
+  Head-to-head comparison using wearable HRV metrics (RMSSD, SDNN), showing
+  which technique sustains parasympathetic tone longer—and why timing matters
+  more than modality for inflammatory aging.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: cold face immersion vs vagus humming hrvar
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
+  - >-
+    does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv
+  - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+  - >-
+    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
 ---
 
 # Cold Face Immersion vs Vagus Humming HRV: Which Morning or Evening Practice Better Supports Heart Health After 60?

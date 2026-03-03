@@ -1,14 +1,30 @@
 ---
-title: "What Causes Sudden Glucose Drops *Only* While Folding Laundry? — The Role of Repetitive Shoulder Girdle Compression, Vagal Tone Shifts, and Hepatic Glycogen Release in Adults 58–63 With Early Autonomic Dysfunction"
-slug: "what-causes-sudden-glucose-drops-only-while-folding-laundry-the-role-of-repetitive-shoulder-girdle-compression-vagal-tone-shifts-and-hepatic-glycogen-release-in-adults-58-63-with-early-autonomic-dysfunction"
-description: "Links sustained postural compression of the celiac plexus during common household tasks to transient insulin sensitization and glycogenolysis dysregulation."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["glucose drops folding laundry autonomic dysfunction", "diabetes", "postural-glucose-dysregulation"]
-primaryKeyword: "glucose drops folding laundry autonomic dysfunction"
-topicCluster: "postural-glucose-dysregulation"
-image: ""
-relatedSlugs: ["does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss", "does-daily-10-minute-barefoot-walking-on-morning-grass-really-improve-glycemic-variability-in-adults-68-with-sedentary-lifestyle-and-peripheral-neuropathy", "how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension", "what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows", "does-daily-8-minute-diaphragmatic-breathing-lower-fasting-glucose-and-homa-ir-in-adults-59-69-with-stress-induced-hyperglycemia-and-high-salivary-alpha-amylase"]
+title: >-
+  What Causes Sudden Glucose Drops *Only* While Folding Laundry? — The Role of
+  Repetitive Shoulder Girdle Compression, Vagal Tone Shifts, and Hepatic
+  Glycogen Release in Adults 58–63 With Early Autonomic Dysfunction
+slug: >-
+  what-causes-sudden-glucose-drops-only-while-folding-laundry-the-role-of-repetitive-shoulder-girdle-compression-vagal-tone-shifts-and-hepatic-glycogen-release-in-adults-58-63-with-early-autonomic-dysfunction
+description: >-
+  Links sustained postural compression of the celiac plexus during common
+  household tasks to transient insulin sensitization and glycogenolysis
+  dysregulation.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: glucose drops folding laundry autonomic dysfunction
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss
+  - >-
+    does-daily-10-minute-barefoot-walking-on-morning-grass-really-improve-glycemic-variability-in-adults-68-with-sedentary-lifestyle-and-peripheral-neuropathy
+  - >-
+    how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
+  - >-
+    what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
+  - >-
+    does-daily-8-minute-diaphragmatic-breathing-lower-fasting-glucose-and-homa-ir-in-adults-59-69-with-stress-induced-hyperglycemia-and-high-salivary-alpha-amylase
 ---
 
 # Why You Might Notice Glucose Drops While Folding Laundry — Understanding Autonomic Changes After Age 58

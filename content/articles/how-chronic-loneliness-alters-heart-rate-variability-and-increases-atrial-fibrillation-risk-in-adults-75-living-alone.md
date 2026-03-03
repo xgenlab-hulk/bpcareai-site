@@ -1,14 +1,27 @@
 ---
-title: "How Chronic Loneliness Alters Heart Rate Variability and Increases Atrial Fibrillation Risk in Adults 75+ Living Alone"
-slug: "how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone"
-description: "Explores the autonomic nervous system impact of social isolation on cardiac rhythm stability, backed by longitudinal data from the Framingham Offspring Study and 2024 NHANES analyses."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["loneliness and atrial fibrillation risk", "heart health", "emotional-mental-health-cardiac-rhythm"]
-primaryKeyword: "loneliness and atrial fibrillation risk"
-topicCluster: "emotional-mental-health-cardiac-rhythm"
-image: ""
-relatedSlugs: ["how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk", "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone", "how-social-isolation-impacts-heart-disease-risk-in-older-adults", "how-social-isolation-increases-heart-disease-risk-after-60", "how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study"]
+title: >-
+  How Chronic Loneliness Alters Heart Rate Variability and Increases Atrial
+  Fibrillation Risk in Adults 75+ Living Alone
+slug: >-
+  how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
+description: >-
+  Explores the autonomic nervous system impact of social isolation on cardiac
+  rhythm stability, backed by longitudinal data from the Framingham Offspring
+  Study and 2024 NHANES analyses.
+date: '2025-12-29'
+updated: '2025-12-29'
+primaryKeyword: loneliness and atrial fibrillation risk
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
+  - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - how-social-isolation-increases-heart-disease-risk-after-60
+  - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
 ---
 
 # How Loneliness and Atrial Fibrillation Risk Are Connected in Older Adults Living Alone

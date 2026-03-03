@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About Post-Holiday Constipation in Women 63+ With Chronic Opioid Use and Pelvic Floor Dysfunction"
-slug: "when-to-worry-about-post-holiday-constipation-in-women-63-with-chronic-opioid-use-and-pelvic-floor-dysfunction"
-description: "Distinguishes benign transit delay from fecal impaction-related autonomic dysreflexia, urinary retention, or pre-syncope—and outlines safe, non-laxative escalation protocols."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["post-holiday constipation seniors opioids", "healthy holiday eating for seniors", "gastrointestinal-emergency-signs"]
-primaryKeyword: "post-holiday constipation seniors opioids"
-topicCluster: "gastrointestinal-emergency-signs"
-image: ""
-relatedSlugs: ["when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history", "how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction", "natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics", "natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy", "how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors"]
+title: >-
+  When to Worry About Post-Holiday Constipation in Women 63+ With Chronic Opioid
+  Use and Pelvic Floor Dysfunction
+slug: >-
+  when-to-worry-about-post-holiday-constipation-in-women-63-with-chronic-opioid-use-and-pelvic-floor-dysfunction
+description: >-
+  Distinguishes benign transit delay from fecal impaction-related autonomic
+  dysreflexia, urinary retention, or pre-syncope—and outlines safe, non-laxative
+  escalation protocols.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: post-holiday constipation seniors opioids
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history
+  - >-
+    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
+  - >-
+    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
+  - >-
+    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
+  - >-
+    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
 ---
 
 # When Post-Holiday Constipation in Seniors on Opioids Needs Gentle Attention

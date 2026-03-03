@@ -1,14 +1,29 @@
 ---
-title: "5 Things Everyone Over 65 Should Know Before Eating a Traditional Holiday Ham—Including Nitrate Sensitivity, Sulfite Reactions, and Renal Clearance Rates"
-slug: "5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates"
-description: "Covers renal, immunologic, and enzymatic factors affecting processed meat tolerance in older adults, with lab-reference ranges and real-time symptom tracking cues."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["holiday ham safety over 65", "healthy eating during family gatherings", "renal-diet-safety"]
-primaryKeyword: "holiday ham safety over 65"
-topicCluster: "renal-diet-safety"
-image: ""
-relatedSlugs: ["the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis", "when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70", "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60", "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75", "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season"]
+title: >-
+  5 Things Everyone Over 65 Should Know Before Eating a Traditional Holiday
+  Ham—Including Nitrate Sensitivity, Sulfite Reactions, and Renal Clearance
+  Rates
+slug: >-
+  5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
+description: >-
+  Covers renal, immunologic, and enzymatic factors affecting processed meat
+  tolerance in older adults, with lab-reference ranges and real-time symptom
+  tracking cues.
+date: '2025-12-27'
+updated: '2025-12-27'
+primaryKeyword: holiday ham safety over 65
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
+  - >-
+    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # What Everyone Over 65 Needs to Know About Holiday Ham Safety Over 65—Before the First Slice

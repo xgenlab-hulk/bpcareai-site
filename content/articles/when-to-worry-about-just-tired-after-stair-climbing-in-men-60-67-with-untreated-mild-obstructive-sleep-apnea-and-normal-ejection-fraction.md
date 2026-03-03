@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About 'Just Tired' After Stair Climbing in Men 60–67 With Untreated Mild Obstructive Sleep Apnea and Normal Ejection Fraction"
-slug: "when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction"
-description: "Presents a 4-stage functional decline timeline linking exertional fatigue to masked nocturnal hypoxemia, pulmonary vascular resistance shifts, and early RV-PA coupling mismatch—before echo Doppler abnormalities emerge."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["exertional fatigue stair climbing sleep apnea", "heart health", "early-warning-signs-sleep-apnea-cardiac"]
-primaryKeyword: "exertional fatigue stair climbing sleep apnea"
-topicCluster: "early-warning-signs-sleep-apnea-cardiac"
-image: ""
-relatedSlugs: ["when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension", "warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71", "a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60", "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms", "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else"]
+title: >-
+  When to Worry About 'Just Tired' After Stair Climbing in Men 60–67 With
+  Untreated Mild Obstructive Sleep Apnea and Normal Ejection Fraction
+slug: >-
+  when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
+description: >-
+  Presents a 4-stage functional decline timeline linking exertional fatigue to
+  masked nocturnal hypoxemia, pulmonary vascular resistance shifts, and early
+  RV-PA coupling mismatch—before echo Doppler abnormalities emerge.
+date: '2025-12-29'
+updated: '2025-12-29'
+primaryKeyword: exertional fatigue stair climbing sleep apnea
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - >-
+    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
+  - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
+  - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
 ---
 
 # When Exertional Fatigue Stair Climbing Sleep Apnea Might Be Your Body’s Gentle Nudge—Not Just “Getting Older”

@@ -1,14 +1,30 @@
 ---
-title: "The Truth About 'Low-Sodium' Holiday Soups Sold in Senior Grocery Aisles — Why 83% Contain Unlabeled Potassium-Binding Excipients That Impair Cardiac Conduction in Adults 71+ on Spironolactone"
-slug: "the-truth-about-low-sodium-holiday-soups-sold-in-senior-grocery-aisles-why-83-contain-unlabeled-potassium-binding-excipients-that-impair-cardiac-conduction-in-adults-71-on-spironolactone"
-description: "Investigates hidden formulation risks in commercially marketed 'heart-healthy' convenience foods, focusing on potassium-antagonist additives and their interaction with common diuretic therapy."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["low-sodium soup potassium excipients", "holiday heart syndrome prevention", "pharmaco-nutritional-interactions"]
-primaryKeyword: "low-sodium soup potassium excipients"
-topicCluster: "pharmaco-nutritional-interactions"
-image: ""
-relatedSlugs: ["the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65", "the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims", "the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension", "the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk", "the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72"]
+title: >-
+  The Truth About 'Low-Sodium' Holiday Soups Sold in Senior Grocery Aisles — Why
+  83% Contain Unlabeled Potassium-Binding Excipients That Impair Cardiac
+  Conduction in Adults 71+ on Spironolactone
+slug: >-
+  the-truth-about-low-sodium-holiday-soups-sold-in-senior-grocery-aisles-why-83-contain-unlabeled-potassium-binding-excipients-that-impair-cardiac-conduction-in-adults-71-on-spironolactone
+description: >-
+  Investigates hidden formulation risks in commercially marketed 'heart-healthy'
+  convenience foods, focusing on potassium-antagonist additives and their
+  interaction with common diuretic therapy.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: low-sodium soup potassium excipients
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
+  - >-
+    the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
+  - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 ---
 
 # What You Should Know About Low-Sodium Soup Potassium Excipients — Especially During the Holidays

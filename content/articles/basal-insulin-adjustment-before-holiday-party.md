@@ -1,14 +1,31 @@
 ---
-title: "When to Adjust Your Basal Insulin Dose *Before* the First Holiday Party — Not After — Using Pre-Event CGM Trend Analysis in Adults 59–68 With Variable Activity Levels"
-slug: "when-to-adjust-your-basal-insulin-dose-before-the-first-holiday-party-not-after-using-pre-event-cgm-trend-analysis-in-adults-59-68-with-variable-activity-levels"
-description: "Offers a proactive, data-driven framework for anticipatory insulin titration using 72-hour pre-holiday CGM patterns, meal composition logs, and anticipated activity disruption — shifting from reactive correction to predictive adaptation."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["basal insulin adjustment before holiday party", "holiday diabetes management", "predictive-insulin-management"]
-primaryKeyword: "basal insulin adjustment before holiday party"
-topicCluster: "predictive-insulin-management"
-image: ""
-relatedSlugs: ["can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65", "how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia", "12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry", "quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin", "how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes"]
+title: >-
+  When to Adjust Your Basal Insulin Dose *Before* the First Holiday Party — Not
+  After — Using Pre-Event CGM Trend Analysis in Adults 59–68 With Variable
+  Activity Levels
+slug: >-
+  when-to-adjust-your-basal-insulin-dose-before-the-first-holiday-party-not-after-using-pre-event-cgm-trend-analysis-in-adults-59-68-with-variable-activity-levels
+description: >-
+  Offers a proactive, data-driven framework for anticipatory insulin titration
+  using 72-hour pre-holiday CGM patterns, meal composition logs, and anticipated
+  activity disruption — shifting from reactive correction to predictive
+  adaptation.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: basal insulin adjustment before holiday party
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
+  - >-
+    how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
+  - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+  - >-
+    quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin
+  - >-
+    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
 ---
 
 # Proactive Basal Insulin Adjustment Before the Holiday Party: A Predictive Approach for Adults 59–68

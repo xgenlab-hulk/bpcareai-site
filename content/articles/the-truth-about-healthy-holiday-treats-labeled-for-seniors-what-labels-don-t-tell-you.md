@@ -1,14 +1,24 @@
 ---
-title: "The Truth About 'Healthy' Holiday Treats Labeled for Seniors: What Labels Don’t Tell You"
-slug: "the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you"
-description: "Debunks misleading marketing claims on senior-targeted holiday snacks (e.g., 'heart-healthy,' 'low-sodium,' 'diabetic-friendly') using FDA labeling rules and clinical nutrition standards."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["healthy holiday treats seniors labels", "healthy holiday eating for seniors", "food-labeling-literacy"]
-primaryKeyword: "healthy holiday treats seniors labels"
-topicCluster: "food-labeling-literacy"
-image: ""
-relatedSlugs: ["are-sugar-free-treats-actually-safe-for-diabetics-over-65", "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70", "the-truth-about-healthy-store-bought-holiday-meals-for-older-adults", "7-smart-swaps-for-healthier-holiday-meals-after-65", "myths-vs-facts-holiday-eating-with-diabetes-after-50"]
+title: >-
+  The Truth About 'Healthy' Holiday Treats Labeled for Seniors: What Labels
+  Don’t Tell You
+slug: >-
+  the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+description: >-
+  Debunks misleading marketing claims on senior-targeted holiday snacks (e.g.,
+  'heart-healthy,' 'low-sodium,' 'diabetic-friendly') using FDA labeling rules
+  and clinical nutrition standards.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: healthy holiday treats seniors labels
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
+  - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - myths-vs-facts-holiday-eating-with-diabetes-after-50
 ---
 
 # What “Healthy” Holiday Treats for Seniors Really Mean: A Clear Look at Labels and Truths

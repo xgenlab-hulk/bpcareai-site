@@ -1,14 +1,29 @@
 ---
-title: "Why Your Holiday 'Energy Crash' May Be Postprandial Hypoglycemia — Not Just Fatigue — In Adults 50–59 With Reactive Hypoglycemia History"
-slug: "why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history"
-description: "Helps newly diagnosed or early-stage diabetics differentiate between normal tiredness and pathologic glucose dips using symptom clusters, timing windows, and self-testing protocols."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["holiday energy crash postprandial hypoglycemia", "holiday diabetes management", "reactive-hypoglycemia-differentiation"]
-primaryKeyword: "holiday energy crash postprandial hypoglycemia"
-topicCluster: "reactive-hypoglycemia-differentiation"
-image: ""
-relatedSlugs: ["when-to-worry-about-unexplained-fatigue-after-holiday-dinners-distinguishing-postprandial-hypotension-from-early-autonomic-neuropathy-in-adults-70-with-diabetes", "when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction", "when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75", "7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits", "when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea"]
+title: >-
+  Why Your Holiday 'Energy Crash' May Be Postprandial Hypoglycemia — Not Just
+  Fatigue — In Adults 50–59 With Reactive Hypoglycemia History
+slug: >-
+  why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history
+description: >-
+  Helps newly diagnosed or early-stage diabetics differentiate between normal
+  tiredness and pathologic glucose dips using symptom clusters, timing windows,
+  and self-testing protocols.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: holiday energy crash postprandial hypoglycemia
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-unexplained-fatigue-after-holiday-dinners-distinguishing-postprandial-hypotension-from-early-autonomic-neuropathy-in-adults-70-with-diabetes
+  - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+  - >-
+    when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75
+  - >-
+    7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
+  - >-
+    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
 ---
 
 # Understanding Your Holiday Energy Crash Postprandial Hypoglycemia — A Key Clue for Adults 50–59

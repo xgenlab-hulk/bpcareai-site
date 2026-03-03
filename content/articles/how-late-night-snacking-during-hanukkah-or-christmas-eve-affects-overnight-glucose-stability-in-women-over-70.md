@@ -1,14 +1,27 @@
 ---
-title: "How Late-Night Snacking During Hanukkah or Christmas Eve Affects Overnight Glucose Stability in Women Over 70"
-slug: "how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70"
-description: "Analyzes circadian insulin resistance shifts, melatonin-glucose crosstalk, and optimal pre-sleep carb-protein ratios for older women with prediabetes."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["late-night snacking overnight glucose stability seniors", "healthy holiday eating for seniors", "circadian-metabolism"]
-primaryKeyword: "late-night snacking overnight glucose stability seniors"
-topicCluster: "circadian-metabolism"
-image: ""
-relatedSlugs: ["the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance", "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65", "how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon"]
+title: >-
+  How Late-Night Snacking During Hanukkah or Christmas Eve Affects Overnight
+  Glucose Stability in Women Over 70
+slug: >-
+  how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
+description: >-
+  Analyzes circadian insulin resistance shifts, melatonin-glucose crosstalk, and
+  optimal pre-sleep carb-protein ratios for older women with prediabetes.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: late-night snacking overnight glucose stability seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # How Late-Night Snacking Affects Overnight Glucose Stability in Women Over 70 During the Holidays

@@ -6,12 +6,8 @@ description: >-
   blood glucose levels in older adults managing diabetes.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - holiday blood sugar triggers seniors
-  - holiday diabetes management
-  - risk-factors-prevention
 primaryKeyword: holiday blood sugar triggers seniors
-topicCluster: preventive-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do

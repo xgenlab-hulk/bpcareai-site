@@ -11,12 +11,8 @@ description: >-
   adults 65+.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - holiday grief emotional eating seniors
-  - healthy eating during family gatherings
-  - mental-health-diet-behavior
 primaryKeyword: holiday grief emotional eating seniors
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults

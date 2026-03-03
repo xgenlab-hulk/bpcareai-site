@@ -1,14 +1,28 @@
 ---
-title: "7 Hidden Medication Interactions That Sabotage Glycemic Control in Women Over 65 Taking Aromatase Inhibitors — Tamoxifen, Letrozole, and Insulin Resistance Pathways"
-slug: "7-hidden-medication-interactions-that-sabotage-glycemic-control-in-women-over-65-taking-aromatase-inhibitors-tamoxifen-letrozole-and-insulin-resistance-pathways"
-description: "Details clinically underrecognized pharmacodynamic clashes between breast cancer adjuvant therapies and diabetes medications, with actionable timing and monitoring guidance for oncology-aware endocrinology care."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["aromatase-inhibitors diabetes interaction seniors", "diabetes", "medication-interactions-women"]
-primaryKeyword: "aromatase-inhibitors diabetes interaction seniors"
-topicCluster: "medication-interactions-women"
-image: ""
-relatedSlugs: ["what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss", "5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction", "5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration", "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-dementia-practical-strategies-for-medication-adherence-meal-timing-conflicts-and-cgm-data-sharing-in-adults-66"]
+title: >-
+  7 Hidden Medication Interactions That Sabotage Glycemic Control in Women Over
+  65 Taking Aromatase Inhibitors — Tamoxifen, Letrozole, and Insulin Resistance
+  Pathways
+slug: >-
+  7-hidden-medication-interactions-that-sabotage-glycemic-control-in-women-over-65-taking-aromatase-inhibitors-tamoxifen-letrozole-and-insulin-resistance-pathways
+description: >-
+  Details clinically underrecognized pharmacodynamic clashes between breast
+  cancer adjuvant therapies and diabetes medications, with actionable timing and
+  monitoring guidance for oncology-aware endocrinology care.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: aromatase-inhibitors diabetes interaction seniors
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss
+  - >-
+    5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction
+  - >-
+    5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-dementia-practical-strategies-for-medication-adherence-meal-timing-conflicts-and-cgm-data-sharing-in-adults-66
 ---
 
 # 7 Surprising Medication Interactions That Can Disrupt Blood Sugar Control in Women Over 65 on Aromatase Inhibitors — What Your Endocrinologist and Oncologist May Not Be Discussing

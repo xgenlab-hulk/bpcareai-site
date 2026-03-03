@@ -6,12 +6,8 @@ description: >-
   problems like diabetic retinopathy.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - diabetes-related vision changes in seniors
-  - diabetes
-  - diabetes-complications
 primaryKeyword: diabetes-related vision changes in seniors
-topicCluster: complications-comorbidities
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - how-vision-changes-might-be-linked-to-heart-disease

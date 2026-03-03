@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Home Oscillometric Cuff (Upper Arm) vs. Wrist-Based Monitor — Accuracy in Adults 65+ With Severe Arterial Calcification and Tremor"
-slug: "a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor"
-description: "Compares clinical validation data, error margins during diastolic decay, and real-world usability for hypertensive seniors with medial arterial calcification and essential tremor."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["blood pressure cuff accuracy arterial calcification", "blood pressure", "monitoring-accuracy"]
-primaryKeyword: "blood pressure cuff accuracy arterial calcification"
-topicCluster: "monitoring-accuracy"
-image: ""
-relatedSlugs: ["dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands", "5-things-everyone-over-70-should-know-about-using-wrist-based-blood-pressure-monitors-with-atrial-fibrillation-and-radial-artery-calcification", "5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema", "a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better", "12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring"]
+title: >-
+  A vs B: Home Oscillometric Cuff (Upper Arm) vs. Wrist-Based Monitor — Accuracy
+  in Adults 65+ With Severe Arterial Calcification and Tremor
+slug: >-
+  a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
+description: >-
+  Compares clinical validation data, error margins during diastolic decay, and
+  real-world usability for hypertensive seniors with medial arterial
+  calcification and essential tremor.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: blood pressure cuff accuracy arterial calcification
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+  - >-
+    5-things-everyone-over-70-should-know-about-using-wrist-based-blood-pressure-monitors-with-atrial-fibrillation-and-radial-artery-calcification
+  - >-
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
+  - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
+  - >-
+    12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
 ---
 
 # Home Blood Pressure Cuff Accuracy: Upper Arm vs. Wrist Monitors for Seniors With Arterial Calcification and Tremor

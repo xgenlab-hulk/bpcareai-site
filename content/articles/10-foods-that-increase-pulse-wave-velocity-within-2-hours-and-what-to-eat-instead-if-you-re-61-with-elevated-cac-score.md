@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Increase Pulse Wave Velocity Within 2 Hours — And What to Eat Instead If You’re 61+ With Elevated CAC Score"
-slug: "10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score"
-description: "Identifies specific pro-arteriosclerotic foods (e.g., ultra-processed wheat starches, oxidized fats), their mechanistic pathways, and clinically tested replacements that improve arterial elasticity."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["foods that increase pulse wave velocity", "blood pressure", "arterial-elasticity-diet"]
-primaryKeyword: "foods that increase pulse wave velocity"
-topicCluster: "arterial-elasticity-diet"
-image: ""
-relatedSlugs: ["natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80", "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness", "what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes", "natural-ways-to-support-arterial-elasticity-without-medication-focusing-on-elastin-cross-link-breakers-copper-dependent-loxl1-activity-and-collagen-iv-synthesis-in-adults-61-76-with-isolated-systolic-hypertension", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75"]
+title: >-
+  10 Foods That Increase Pulse Wave Velocity Within 2 Hours — And What to Eat
+  Instead If You’re 61+ With Elevated CAC Score
+slug: >-
+  10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score
+description: >-
+  Identifies specific pro-arteriosclerotic foods (e.g., ultra-processed wheat
+  starches, oxidized fats), their mechanistic pathways, and clinically tested
+  replacements that improve arterial elasticity.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: foods that increase pulse wave velocity
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
+  - >-
+    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
+  - >-
+    natural-ways-to-support-arterial-elasticity-without-medication-focusing-on-elastin-cross-link-breakers-copper-dependent-loxl1-activity-and-collagen-iv-synthesis-in-adults-61-76-with-isolated-systolic-hypertension
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
 ---
 
 # Foods That Increase Pulse Wave Velocity — And What to Eat Instead After 61 (Especially With a High CAC Score)

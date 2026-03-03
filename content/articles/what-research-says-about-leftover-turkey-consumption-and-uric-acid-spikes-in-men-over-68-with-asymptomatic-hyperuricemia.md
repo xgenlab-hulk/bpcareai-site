@@ -10,12 +10,8 @@ description: >-
   after gatherings.
 date: '2026-01-05'
 updated: '2026-01-05'
-tags:
-  - leftover turkey uric acid men over 68
-  - healthy eating during family gatherings
-  - gout-risk-prevention
 primaryKeyword: leftover turkey uric acid men over 68
-topicCluster: gout-risk-prevention
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-

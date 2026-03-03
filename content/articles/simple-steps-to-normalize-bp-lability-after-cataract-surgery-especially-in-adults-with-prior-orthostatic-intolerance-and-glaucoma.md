@@ -9,12 +9,8 @@ description: >-
   vestibular-visual recalibration affecting baroreceptor sensitivity.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - blood pressure lability after cataract surgery
-  - blood pressure
-  - post-surgical-bp-stabilization
 primaryKeyword: blood pressure lability after cataract surgery
-topicCluster: post-surgical-bp-stabilization
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,30 @@
 ---
-title: "Best Hydration Patterns for Glucose Homeostasis During Holiday Parties — Not Just 'Drink More Water' — For Adults 69+ With Polypharmacy and Reduced Thirst Perception"
-slug: "best-hydration-patterns-for-glucose-homeostasis-during-holiday-parties-not-just-drink-more-water-for-adults-69-with-polypharmacy-and-reduced-thirst-perception"
-description: "Offers a stepwise hydration protocol calibrated to diuretic burden, anticholinergic load, and osmotic threshold shifts—featuring timed electrolyte sips, temperature-modulated fluids, and thirst-proxy cues."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["holiday hydration glucose homeostasis polypharmacy", "holiday diabetes management", "precision-hydration-strategy"]
-primaryKeyword: "holiday hydration glucose homeostasis polypharmacy"
-topicCluster: "precision-hydration-strategy"
-image: ""
-relatedSlugs: ["the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use", "best-hydration-strategies-for-blood-pressure-stability-during-winter-not-just-drink-more-water-for-adults-76-with-reduced-thirst-perception-and-chronic-constipation", "warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history", "best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air", "12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation"]
+title: >-
+  Best Hydration Patterns for Glucose Homeostasis During Holiday Parties — Not
+  Just 'Drink More Water' — For Adults 69+ With Polypharmacy and Reduced Thirst
+  Perception
+slug: >-
+  best-hydration-patterns-for-glucose-homeostasis-during-holiday-parties-not-just-drink-more-water-for-adults-69-with-polypharmacy-and-reduced-thirst-perception
+description: >-
+  Offers a stepwise hydration protocol calibrated to diuretic burden,
+  anticholinergic load, and osmotic threshold shifts—featuring timed electrolyte
+  sips, temperature-modulated fluids, and thirst-proxy cues.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: holiday hydration glucose homeostasis polypharmacy
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
+  - >-
+    best-hydration-strategies-for-blood-pressure-stability-during-winter-not-just-drink-more-water-for-adults-76-with-reduced-thirst-perception-and-chronic-constipation
+  - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
+  - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+  - >-
+    12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
 ---
 
 # Smart Holiday Hydration for Stable Blood Sugar and Medication Safety — A Precision Plan for Adults 69+ on Multiple Medications

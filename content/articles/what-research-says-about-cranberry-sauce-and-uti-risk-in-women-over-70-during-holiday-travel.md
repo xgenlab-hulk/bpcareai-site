@@ -10,12 +10,8 @@ description: >-
   negates any protective effect.
 date: '2025-12-23'
 updated: '2025-12-23'
-tags:
-  - cranberry sauce uti prevention seniors
-  - healthy holiday eating for seniors
-  - infectious-disease-prevention
 primaryKeyword: cranberry sauce uti prevention seniors
-topicCluster: infectious-disease-prevention
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-

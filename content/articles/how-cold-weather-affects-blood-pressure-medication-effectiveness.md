@@ -6,12 +6,8 @@ description: >-
   and when dosage adjustments might be needed.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - blood pressure medication in winter
-  - senior blood pressure control in winter
-  - medication-management
 primaryKeyword: blood pressure medication in winter
-topicCluster: medications-supplements
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-cold-weather-raise-your-blood-pressure

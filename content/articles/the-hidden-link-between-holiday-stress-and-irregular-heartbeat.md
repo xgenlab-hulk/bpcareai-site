@@ -6,12 +6,8 @@ description: >-
   contribute to transient arrhythmias in middle-aged and older adults.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - holiday stress irregular heartbeat
-  - holiday heart syndrome prevention
-  - emotional-mental-health
 primaryKeyword: holiday stress irregular heartbeat
-topicCluster: mental-wellness
+topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - >-

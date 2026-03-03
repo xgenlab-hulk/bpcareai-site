@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Heart-Healthy' Frozen Dinners Labeled for Seniors — Why 81% Exceed 2023 AHA Sodium Limits for Left Ventricular Hypertrophy"
-slug: "the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy"
-description: "Analyzes label claims vs. actual sodium load, ingredient-derived sodium (e.g., sodium phosphates), and impact on myocardial stiffness biomarkers in older adults."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["frozen dinners sodium left ventricular hypertrophy", "heart health", "processed-food-sodium-cardiac-structure"]
-primaryKeyword: "frozen dinners sodium left ventricular hypertrophy"
-topicCluster: "processed-food-sodium-cardiac-structure"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease", "the-truth-about-heart-healthy-frozen-dinners-for-adults-73-with-stage-3-ckd-and-systolic-heart-failure", "the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole", "the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65", "7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction"]
+title: >-
+  The Truth About 'Heart-Healthy' Frozen Dinners Labeled for Seniors — Why 81%
+  Exceed 2023 AHA Sodium Limits for Left Ventricular Hypertrophy
+slug: >-
+  the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
+description: >-
+  Analyzes label claims vs. actual sodium load, ingredient-derived sodium (e.g.,
+  sodium phosphates), and impact on myocardial stiffness biomarkers in older
+  adults.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: frozen dinners sodium left ventricular hypertrophy
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
+  - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-adults-73-with-stage-3-ckd-and-systolic-heart-failure
+  - >-
+    the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
+  - >-
+    7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
 ---
 
 # What You Should Know About Frozen Dinners, Sodium, and Heart Health—Especially After 50

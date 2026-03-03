@@ -1,14 +1,29 @@
 ---
-title: "Best Holiday Snacks for Seniors With Early Macular Degeneration — Ranked by Lutein Bioavailability, Fat Co-Ingestion, and Light-Induced Oxidative Stress"
-slug: "best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress"
-description: "Ranks 9 festive snacks by ocular nutrient delivery efficiency under winter light conditions, emphasizing fat-combined lutein sources and antioxidant synergy in low-light environments."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["holiday snacks macular degeneration seniors", "healthy holiday eating for seniors", "ocular-nutrition-optimization"]
-primaryKeyword: "holiday snacks macular degeneration seniors"
-topicCluster: "ocular-nutrition-optimization"
-image: ""
-relatedSlugs: ["quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks", "the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations", "simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection", "warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68", "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration"]
+title: >-
+  Best Holiday Snacks for Seniors With Early Macular Degeneration — Ranked by
+  Lutein Bioavailability, Fat Co-Ingestion, and Light-Induced Oxidative Stress
+slug: >-
+  best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress
+description: >-
+  Ranks 9 festive snacks by ocular nutrient delivery efficiency under winter
+  light conditions, emphasizing fat-combined lutein sources and antioxidant
+  synergy in low-light environments.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: holiday snacks macular degeneration seniors
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
+  - >-
+    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
+  - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
+  - >-
+    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
 ---
 
 # Best Holiday Snacks for Seniors With Early Macular Degeneration — Nutrient-Smart Choices for Eye Health

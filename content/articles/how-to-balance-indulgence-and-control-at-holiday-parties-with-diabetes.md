@@ -6,12 +6,8 @@ description: >-
   levels in check, especially for adults over 50 managing type 2 diabetes.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - diabetes holiday party tips
-  - managing blood sugar during Christmas and New Year
-  - lifestyle-modifications
 primaryKeyword: diabetes holiday party tips
-topicCluster: lifestyle-changes
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

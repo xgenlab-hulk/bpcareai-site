@@ -11,12 +11,8 @@ description: >-
   with heart failure.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - reduce alcohol-induced cardiac stress non-drinkers
-  - holiday heart syndrome prevention
-  - non-alcoholic-cardiac-stressors
 primaryKeyword: reduce alcohol-induced cardiac stress non-drinkers
-topicCluster: non-alcoholic-cardiac-stressors
+topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50

@@ -6,12 +6,8 @@ description: >-
   metabolic balance.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - dehydration and blood sugar levels in seniors with diabetes
-  - diabetes
-  - diabetes-management
 primaryKeyword: dehydration and blood sugar levels in seniors with diabetes
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70

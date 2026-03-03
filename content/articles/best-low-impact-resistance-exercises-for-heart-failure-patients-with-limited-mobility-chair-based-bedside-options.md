@@ -10,12 +10,8 @@ description: >-
   fatigue easily.
 date: '2025-12-21'
 updated: '2025-12-21'
-tags:
-  - low impact resistance exercises heart failure
-  - heart health
-  - exercise-comorbidity
 primaryKeyword: low impact resistance exercises heart failure
-topicCluster: exercise-comorbidity
+topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-

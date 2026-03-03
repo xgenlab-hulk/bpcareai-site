@@ -1,14 +1,28 @@
 ---
-title: "5 Things Everyone Over 70 Should Know About Alcohol-Free Holiday Punch — Especially If Taking ACE Inhibitors or ARBs"
-slug: "5-things-everyone-over-70-should-know-about-alcohol-free-holiday-punch-especially-if-taking-ace-inhibitors-or-arbs"
-description: "Explains how potassium-rich fruit blends (e.g., pomegranate-orange) in 'mocktails' interact with RAAS inhibitors, increasing hyperkalemia risk during holiday feasting in older kidneys."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["alcohol-free punch seniors ace inhibitors", "healthy holiday eating for seniors", "medication-diet-interactions"]
-primaryKeyword: "alcohol-free punch seniors ace inhibitors"
-topicCluster: "medication-diet-interactions"
-image: ""
-relatedSlugs: ["the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors", "myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs", "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74"]
+title: >-
+  5 Things Everyone Over 70 Should Know About Alcohol-Free Holiday Punch —
+  Especially If Taking ACE Inhibitors or ARBs
+slug: >-
+  5-things-everyone-over-70-should-know-about-alcohol-free-holiday-punch-especially-if-taking-ace-inhibitors-or-arbs
+description: >-
+  Explains how potassium-rich fruit blends (e.g., pomegranate-orange) in
+  'mocktails' interact with RAAS inhibitors, increasing hyperkalemia risk during
+  holiday feasting in older kidneys.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: alcohol-free punch seniors ace inhibitors
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
+  - >-
+    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
+  - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - >-
+    5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
 ---
 
 # What Every Senior Over 70 Needs to Know About Alcohol-Free Punch and ACE Inhibitors — Safe, Tasty Holiday Hydration

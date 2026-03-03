@@ -1,14 +1,28 @@
 ---
-title: "Myths vs Facts: 'Eating Light' at Holiday Dinners Prevents Glucose Spikes in Adults 62+ With Insulin Resistance"
-slug: "myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance"
-description: "Debunks five pervasive assumptions—including 'no dessert = safe' and 'vegetables first = automatic control'—with data on macronutrient sequencing, gastric emptying kinetics, and incretin timing."
-date: "2026-02-10"
-updated: "2026-02-10"
-tags: ["holiday eating light glucose myths facts seniors", "healthy holiday eating for seniors", "diabetic-diet-myths"]
-primaryKeyword: "holiday eating light glucose myths facts seniors"
-topicCluster: "diabetic-diet-myths"
-image: ""
-relatedSlugs: ["myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors", "myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74", "myths-vs-facts-holiday-eating-with-diabetes-after-50", "myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75", "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it"]
+title: >-
+  Myths vs Facts: 'Eating Light' at Holiday Dinners Prevents Glucose Spikes in
+  Adults 62+ With Insulin Resistance
+slug: >-
+  myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
+description: >-
+  Debunks five pervasive assumptions—including 'no dessert = safe' and
+  'vegetables first = automatic control'—with data on macronutrient sequencing,
+  gastric emptying kinetics, and incretin timing.
+date: '2026-02-10'
+updated: '2026-02-10'
+primaryKeyword: holiday eating light glucose myths facts seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
+  - >-
+    myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74
+  - myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
+  - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
 ---
 
 # Holiday Eating Light Glucose Myths vs. Facts: What Adults 62+ With Insulin Resistance *Really* Need to Know

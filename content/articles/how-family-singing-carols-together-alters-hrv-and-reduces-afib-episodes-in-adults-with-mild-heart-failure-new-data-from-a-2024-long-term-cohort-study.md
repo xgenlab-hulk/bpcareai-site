@@ -1,14 +1,28 @@
 ---
-title: "How Family Singing Carols Together Alters HRV and Reduces AFib Episodes in Adults With Mild Heart Failure—New Data From a 2024 Long-Term Cohort Study"
-slug: "how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study"
-description: "Examines the vagal-enhancing, rhythm-synchronizing, and cortisol-lowering effects of communal vocalization in home-based holiday settings, with longitudinal data on 142 adults aged 66–83."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["caroling and heart rate variability in elderly", "holiday heart syndrome prevention", "behavioral-cardiology"]
-primaryKeyword: "caroling and heart rate variability in elderly"
-topicCluster: "behavioral-cardiology"
-image: ""
-relatedSlugs: ["how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk", "can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65", "natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices", "what-research-says-about-holiday-heart-syndrome-and-aging-hearts", "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone"]
+title: >-
+  How Family Singing Carols Together Alters HRV and Reduces AFib Episodes in
+  Adults With Mild Heart Failure—New Data From a 2024 Long-Term Cohort Study
+slug: >-
+  how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
+description: >-
+  Examines the vagal-enhancing, rhythm-synchronizing, and cortisol-lowering
+  effects of communal vocalization in home-based holiday settings, with
+  longitudinal data on 142 adults aged 66–83.
+date: '2025-12-26'
+updated: '2025-12-26'
+primaryKeyword: caroling and heart rate variability in elderly
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
+  - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
+  - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
+  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
+  - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
 ---
 
 # How Caroling and Heart Rate Variability in Elderly Adults Supports Cardiac Resilience—Insights From a 2024 Long-Term Cohort Study

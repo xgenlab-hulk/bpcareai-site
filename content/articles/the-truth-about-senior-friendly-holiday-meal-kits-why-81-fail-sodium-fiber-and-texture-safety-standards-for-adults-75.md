@@ -1,14 +1,28 @@
 ---
-title: "The Truth About 'Senior-Friendly' Holiday Meal Kits — Why 81% Fail Sodium, Fiber, and Texture Safety Standards for Adults 75+"
-slug: "the-truth-about-senior-friendly-holiday-meal-kits-why-81-fail-sodium-fiber-and-texture-safety-standards-for-adults-75"
-description: "Investigates labeling claims vs. real-world nutritional and dysphagia-safety compliance in pre-packaged holiday meals marketed to older adults, with lab-tested sodium variability and viscosity analysis."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["senior-friendly holiday meal kits truth", "healthy holiday eating for seniors", "meal-kit-safety-dysphagia"]
-primaryKeyword: "senior-friendly holiday meal kits truth"
-topicCluster: "meal-kit-safety-dysphagia"
-image: ""
-relatedSlugs: ["the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you", "the-truth-about-healthy-store-bought-holiday-meals-for-older-adults", "10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia", "simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd", "5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment"]
+title: >-
+  The Truth About 'Senior-Friendly' Holiday Meal Kits — Why 81% Fail Sodium,
+  Fiber, and Texture Safety Standards for Adults 75+
+slug: >-
+  the-truth-about-senior-friendly-holiday-meal-kits-why-81-fail-sodium-fiber-and-texture-safety-standards-for-adults-75
+description: >-
+  Investigates labeling claims vs. real-world nutritional and dysphagia-safety
+  compliance in pre-packaged holiday meals marketed to older adults, with
+  lab-tested sodium variability and viscosity analysis.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: senior-friendly holiday meal kits truth
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
+  - >-
+    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
+  - >-
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
 ---
 
 # The Real Story Behind ‘Senior-Friendly’ Holiday Meal Kits — What the Labels Don’t Tell You  

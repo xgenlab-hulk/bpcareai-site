@@ -1,14 +1,28 @@
 ---
-title: "When to Worry About Sudden Appetite Suppression at Christmas Dinner — A Red Flag for Early Sarcopenia or Subclinical Hypothyroidism in Women 65–79"
-slug: "when-to-worry-about-sudden-appetite-suppression-at-christmas-dinner-a-red-flag-for-early-sarcopenia-or-subclinical-hypothyroidism-in-women-65-79"
-description: "Links acute loss of interest in food during festive meals to muscle mass decline, TSH/T3 ratio shifts, and inflammation markers — distinguishing it from normal aging or holiday stress."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["appetite suppression holiday dinner seniors", "healthy eating during family gatherings", "early-sarcopenia-detection"]
-primaryKeyword: "appetite suppression holiday dinner seniors"
-topicCluster: "early-sarcopenia-detection"
-image: ""
-relatedSlugs: ["5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60", "warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines", "5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily", "4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts", "warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness"]
+title: >-
+  When to Worry About Sudden Appetite Suppression at Christmas Dinner — A Red
+  Flag for Early Sarcopenia or Subclinical Hypothyroidism in Women 65–79
+slug: >-
+  when-to-worry-about-sudden-appetite-suppression-at-christmas-dinner-a-red-flag-for-early-sarcopenia-or-subclinical-hypothyroidism-in-women-65-79
+description: >-
+  Links acute loss of interest in food during festive meals to muscle mass
+  decline, TSH/T3 ratio shifts, and inflammation markers — distinguishing it
+  from normal aging or holiday stress.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: appetite suppression holiday dinner seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
+  - >-
+    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
+  - >-
+    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
+  - >-
+    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
 ---
 
 # When Appetite Suppression at Holiday Dinner Signals Something Deeper in Seniors 65–79

@@ -1,14 +1,25 @@
 ---
-title: "How Holiday Portion Sizes Affect Digestion and Blood Pressure in Adults Over 75"
-slug: "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75"
-description: "Explores the physiological changes in gastric motility, satiety signaling, and vascular response to oversized meals during the holidays—and offers age-tailored portion strategies."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["holiday portion sizes seniors digestion", "healthy holiday eating for seniors", "physiology-aging-digestion"]
-primaryKeyword: "holiday portion sizes seniors digestion"
-topicCluster: "physiology-aging-digestion"
-image: ""
-relatedSlugs: ["how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season", "10-high-fiber-holiday-foods-that-support-digestion-after-50", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes"]
+title: >-
+  How Holiday Portion Sizes Affect Digestion and Blood Pressure in Adults Over
+  75
+slug: >-
+  how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+description: >-
+  Explores the physiological changes in gastric motility, satiety signaling, and
+  vascular response to oversized meals during the holidays—and offers
+  age-tailored portion strategies.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: holiday portion sizes seniors digestion
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 
 # How Holiday Portion Sizes Impact Digestion and Blood Pressure in Adults Over 75 — A Gentle Guide to Healthy Holiday Eating for Seniors

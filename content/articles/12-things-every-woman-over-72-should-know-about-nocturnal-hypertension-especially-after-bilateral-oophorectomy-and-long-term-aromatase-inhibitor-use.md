@@ -1,14 +1,29 @@
 ---
-title: "12 Things Every Woman Over 72 Should Know About Nocturnal Hypertension — Especially After Bilateral Oophorectomy and Long-Term Aromatase Inhibitor Use"
-slug: "12-things-every-woman-over-72-should-know-about-nocturnal-hypertension-especially-after-bilateral-oophorectomy-and-long-term-aromatase-inhibitor-use"
-description: "Details estrogen-depletion effects on circadian BP rhythm, renal sodium handling, and endothelial nitric oxide bioavailability in postmenopausal oncology survivors."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["nocturnal hypertension women oophorectomy aromatase inhibitors", "blood pressure", "gender-hormone-circadian-links"]
-primaryKeyword: "nocturnal hypertension women oophorectomy aromatase inhibitors"
-topicCluster: "gender-hormone-circadian-links"
-image: ""
-relatedSlugs: ["what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine", "5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge", "5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension", "what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria", "5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know"]
+title: >-
+  12 Things Every Woman Over 72 Should Know About Nocturnal Hypertension —
+  Especially After Bilateral Oophorectomy and Long-Term Aromatase Inhibitor Use
+slug: >-
+  12-things-every-woman-over-72-should-know-about-nocturnal-hypertension-especially-after-bilateral-oophorectomy-and-long-term-aromatase-inhibitor-use
+description: >-
+  Details estrogen-depletion effects on circadian BP rhythm, renal sodium
+  handling, and endothelial nitric oxide bioavailability in postmenopausal
+  oncology survivors.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: nocturnal hypertension women oophorectomy aromatase inhibitors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
+  - >-
+    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
+  - >-
+    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
+  - >-
+    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
+  - >-
+    5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know
 ---
 
 # What Every Woman Over 72 Should Know About Nocturnal Hypertension After Oophorectomy and Aromatase Inhibitors

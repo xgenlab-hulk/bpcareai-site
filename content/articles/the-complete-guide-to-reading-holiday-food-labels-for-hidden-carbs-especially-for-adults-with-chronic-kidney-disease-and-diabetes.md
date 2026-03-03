@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Reading Holiday Food Labels for Hidden Carbs — Especially for Adults With Chronic Kidney Disease and Diabetes"
-slug: "the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes"
-description: "Teaches how to decode 'sugar alcohols', 'maltodextrin', 'modified food starch', and 'natural flavors' — with renal-safe carb-counting adaptations and phosphate load awareness for CKD Stage 3+ patients."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["holiday food labels hidden carbs kidney disease", "holiday diabetes management", "label-literacy-ckd-diabetes"]
-primaryKeyword: "holiday food labels hidden carbs kidney disease"
-topicCluster: "label-literacy-ckd-diabetes"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr", "the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy", "7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish", "dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd", "the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia"]
+title: >-
+  The Complete Guide to Reading Holiday Food Labels for Hidden Carbs —
+  Especially for Adults With Chronic Kidney Disease and Diabetes
+slug: >-
+  the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes
+description: >-
+  Teaches how to decode 'sugar alcohols', 'maltodextrin', 'modified food
+  starch', and 'natural flavors' — with renal-safe carb-counting adaptations and
+  phosphate load awareness for CKD Stage 3+ patients.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: holiday food labels hidden carbs kidney disease
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
+  - >-
+    the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
+  - >-
+    dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd
+  - >-
+    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
 ---
 
 # How to Spot Hidden Carbs on Holiday Food Labels—A Kidney-Safe Guide for Adults With Diabetes and CKD

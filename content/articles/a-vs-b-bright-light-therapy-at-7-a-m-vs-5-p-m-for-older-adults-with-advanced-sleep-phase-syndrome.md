@@ -10,12 +10,8 @@ description: >-
   treatment response.
 date: '2025-12-26'
 updated: '2025-12-26'
-tags:
-  - morning vs evening light therapy for ASPS
-  - seasonal depression in older adults
-  - chronotype-specific-light-timing
 primaryKeyword: morning vs evening light therapy for ASPS
-topicCluster: chronotype-specific-light-timing
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-

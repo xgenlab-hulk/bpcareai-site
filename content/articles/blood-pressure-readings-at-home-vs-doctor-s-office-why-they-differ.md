@@ -6,10 +6,6 @@ description: >-
   results at home.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - home blood pressure vs doctor office reading
-  - blood pressure
-  - blood-pressure-basics
 primaryKeyword: home blood pressure vs doctor office reading
 topicCluster: hypertension-management
 image: ''

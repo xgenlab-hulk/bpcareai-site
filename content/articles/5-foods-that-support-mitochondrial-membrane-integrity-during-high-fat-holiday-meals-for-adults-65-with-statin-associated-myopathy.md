@@ -1,14 +1,29 @@
 ---
-title: "5 Foods That Support Mitochondrial Membrane Integrity *During* High-Fat Holiday Meals — For Adults 65+ With Statin-Associated Myopathy"
-slug: "5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy"
-description: "Highlights coenzyme Q10-rich foods, phospholipid sources, and antioxidant pairings shown to protect mitochondrial membranes from statin-induced oxidative stress during festive feasting."
-date: "2026-02-16"
-updated: "2026-02-16"
-tags: ["mitochondrial membrane support statin myopathy", "healthy holiday eating for seniors", "statin-mitochondrial-protection"]
-primaryKeyword: "mitochondrial membrane support statin myopathy"
-topicCluster: "statin-mitochondrial-protection"
-image: ""
-relatedSlugs: ["10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue", "11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79", "can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure", "12-foods-that-support-mitochondrial-biogenesis-in-skeletal-muscle-without-increasing-oxidative-stress-for-adults-63-with-t2d-and-low-vo2-max", "12-science-backed-ways-to-protect-mitochondrial-cardiomyocyte-function-using-meal-timing-nutrient-synergy-and-circadian-light-exposure-for-adults-55-69-with-subclinical-lv-hypertrophy"]
+title: >-
+  5 Foods That Support Mitochondrial Membrane Integrity *During* High-Fat
+  Holiday Meals — For Adults 65+ With Statin-Associated Myopathy
+slug: >-
+  5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy
+description: >-
+  Highlights coenzyme Q10-rich foods, phospholipid sources, and antioxidant
+  pairings shown to protect mitochondrial membranes from statin-induced
+  oxidative stress during festive feasting.
+date: '2026-02-16'
+updated: '2026-02-16'
+primaryKeyword: mitochondrial membrane support statin myopathy
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue
+  - >-
+    11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79
+  - >-
+    can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure
+  - >-
+    12-foods-that-support-mitochondrial-biogenesis-in-skeletal-muscle-without-increasing-oxidative-stress-for-adults-63-with-t2d-and-low-vo2-max
+  - >-
+    12-science-backed-ways-to-protect-mitochondrial-cardiomyocyte-function-using-meal-timing-nutrient-synergy-and-circadian-light-exposure-for-adults-55-69-with-subclinical-lv-hypertrophy
 ---
 
 # Foods That Gently Support Mitochondrial Membrane Integrity During Holiday Meals — For Adults 65+ With Statin-Associated Myopathy

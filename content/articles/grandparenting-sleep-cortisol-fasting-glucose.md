@@ -1,14 +1,30 @@
 ---
-title: "How Grandparenting-Induced Sleep Fragmentation Alters Nocturnal Cortisol Rhythms — And Why That Elevates Fasting Glucose in Adults 66+ With Type 2 Diabetes"
-slug: "how-grandparenting-induced-sleep-fragmentation-alters-nocturnal-cortisol-rhythms-and-why-that-elevates-fasting-glucose-in-adults-66-with-type-2-diabetes"
-description: "Links caregiving-related sleep disruption to HPA axis dysregulation and dawn phenomenon, offering non-pharmacologic cortisol rhythm stabilization techniques."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["grandparenting sleep cortisol fasting glucose", "diabetes", "lifestyle-stress-sleep-metabolism"]
-primaryKeyword: "grandparenting sleep cortisol fasting glucose"
-topicCluster: "lifestyle-stress-sleep-metabolism"
-image: ""
-relatedSlugs: ["why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms", "how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension", "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70", "how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70", "why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner"]
+title: >-
+  How Grandparenting-Induced Sleep Fragmentation Alters Nocturnal Cortisol
+  Rhythms — And Why That Elevates Fasting Glucose in Adults 66+ With Type 2
+  Diabetes
+slug: >-
+  how-grandparenting-induced-sleep-fragmentation-alters-nocturnal-cortisol-rhythms-and-why-that-elevates-fasting-glucose-in-adults-66-with-type-2-diabetes
+description: >-
+  Links caregiving-related sleep disruption to HPA axis dysregulation and dawn
+  phenomenon, offering non-pharmacologic cortisol rhythm stabilization
+  techniques.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: grandparenting sleep cortisol fasting glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
+  - >-
+    how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
+  - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
+  - >-
+    how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
 ---
 
 # How Grandparenting-Induced Sleep Disruption Affects Cortisol Rhythms and Fasting Glucose in Adults 66+ With Type 2 Diabetes  

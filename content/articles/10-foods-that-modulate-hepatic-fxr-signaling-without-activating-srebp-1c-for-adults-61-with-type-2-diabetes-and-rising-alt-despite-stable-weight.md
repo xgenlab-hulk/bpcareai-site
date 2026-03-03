@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Modulate Hepatic FXR Signaling *Without* Activating SREBP-1c — For Adults 61+ With Type 2 Diabetes and Rising ALT Despite Stable Weight"
-slug: "10-foods-that-modulate-hepatic-fxr-signaling-without-activating-srebp-1c-for-adults-61-with-type-2-diabetes-and-rising-alt-despite-stable-weight"
-description: "Highlights foods rich in FXR-selective agonists (e.g., guggulsterone in myrrh, taurine-conjugated bile acids in grass-fed liver) that improve bile acid recycling while avoiding lipogenic gene upregulation."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["fxr-activating foods without fat gain", "diabetes", "hepatic-fxr-nutrition"]
-primaryKeyword: "fxr-activating foods without fat gain"
-topicCluster: "hepatic-fxr-nutrition"
-image: ""
-relatedSlugs: ["natural-ways-to-support-hepatic-mitochondrial-biogenesis-without-activating-mtor-using-berberine-urolithin-a-in-adults-65-with-nafld-and-type-2-diabetes", "natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history", "10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes", "natural-ways-to-support-bile-acid-recycling-after-rich-holiday-meals-without-supplements-for-adults-66-79-with-post-cholecystectomy-fat-malabsorption", "10-foods-that-activate-ampk-in-adipose-tissue-to-reduce-inflammatory-adipokine-release-backed-by-subcutaneous-fat-biopsy-data-in-adults-57-73-with-obesity-and-type-2-diabetes"]
+title: >-
+  10 Foods That Modulate Hepatic FXR Signaling *Without* Activating SREBP-1c —
+  For Adults 61+ With Type 2 Diabetes and Rising ALT Despite Stable Weight
+slug: >-
+  10-foods-that-modulate-hepatic-fxr-signaling-without-activating-srebp-1c-for-adults-61-with-type-2-diabetes-and-rising-alt-despite-stable-weight
+description: >-
+  Highlights foods rich in FXR-selective agonists (e.g., guggulsterone in myrrh,
+  taurine-conjugated bile acids in grass-fed liver) that improve bile acid
+  recycling while avoiding lipogenic gene upregulation.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: fxr-activating foods without fat gain
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-hepatic-mitochondrial-biogenesis-without-activating-mtor-using-berberine-urolithin-a-in-adults-65-with-nafld-and-type-2-diabetes
+  - >-
+    natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
+  - >-
+    10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes
+  - >-
+    natural-ways-to-support-bile-acid-recycling-after-rich-holiday-meals-without-supplements-for-adults-66-79-with-post-cholecystectomy-fat-malabsorption
+  - >-
+    10-foods-that-activate-ampk-in-adipose-tissue-to-reduce-inflammatory-adipokine-release-backed-by-subcutaneous-fat-biopsy-data-in-adults-57-73-with-obesity-and-type-2-diabetes
 ---
 
 # 10 Foods That Support Healthy Liver FXR Signaling—Without Promoting Fat Gain: A Gentle Guide for Adults 61+ with Type 2 Diabetes and Elevated ALT

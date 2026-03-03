@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs That Your Continuous Glucose Monitor Is Detecting Early Diabetic Cardiomyopathy — Not Just Glycemic Variability"
-slug: "warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability"
-description: "Teaches interpretation of CGM-derived metrics (e.g., overnight glucose volatility, dawn phenomenon amplitude, postprandial recovery slope) as proxies for subclinical left ventricular diastolic impairment."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["CGM signs diabetic cardiomyopathy", "diabetes", "monitoring-cardiac-early-detection"]
-primaryKeyword: "CGM signs diabetic cardiomyopathy"
-topicCluster: "monitoring-cardiac-early-detection"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear", "warning-signs-your-continuous-glucose-monitor-is-misreading-due-to-subcutaneous-edema-in-adults-70-with-chronic-heart-failure-and-diuretic-dependent-volume-control", "warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises"]
+title: >-
+  Warning Signs That Your Continuous Glucose Monitor Is Detecting Early Diabetic
+  Cardiomyopathy — Not Just Glycemic Variability
+slug: >-
+  warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability
+description: >-
+  Teaches interpretation of CGM-derived metrics (e.g., overnight glucose
+  volatility, dawn phenomenon amplitude, postprandial recovery slope) as proxies
+  for subclinical left ventricular diastolic impairment.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: CGM signs diabetic cardiomyopathy
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
+  - >-
+    warning-signs-your-continuous-glucose-monitor-is-misreading-due-to-subcutaneous-edema-in-adults-70-with-chronic-heart-failure-and-diuretic-dependent-volume-control
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 ---
 
 # What Your CGM Might Be Telling You About Early Diabetic Cardiomyopathy — Beyond Blood Sugar Swings

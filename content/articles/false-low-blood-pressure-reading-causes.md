@@ -1,14 +1,30 @@
 ---
-title: "12 Signs Your Home Blood Pressure Monitor Is Giving False-Low Readings — Especially If You Have Arm Lymphedema, Calcified Brachial Arteries, or Post-Mastectomy Scarring"
-slug: "12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring"
-description: "Details device calibration pitfalls, cuff fit errors, and vascular artifact sources unique to older adults with connective tissue changes — plus DIY validation techniques using Doppler and oscillometric cross-checks."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["false low blood pressure reading causes", "blood pressure", "home-monitoring-accuracy"]
-primaryKeyword: "false low blood pressure reading causes"
-topicCluster: "home-monitoring-accuracy"
-image: ""
-relatedSlugs: ["warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation", "dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands", "myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries", "5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema", "warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema"]
+title: >-
+  12 Signs Your Home Blood Pressure Monitor Is Giving False-Low Readings —
+  Especially If You Have Arm Lymphedema, Calcified Brachial Arteries, or
+  Post-Mastectomy Scarring
+slug: >-
+  12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
+description: >-
+  Details device calibration pitfalls, cuff fit errors, and vascular artifact
+  sources unique to older adults with connective tissue changes — plus DIY
+  validation techniques using Doppler and oscillometric cross-checks.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: false low blood pressure reading causes
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
+  - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+  - >-
+    myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries
+  - >-
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
+  - >-
+    warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema
 ---
 
 # 12 Reasons Your Home Blood Pressure Monitor Might Show False-Low Readings — And What You Can Do About It

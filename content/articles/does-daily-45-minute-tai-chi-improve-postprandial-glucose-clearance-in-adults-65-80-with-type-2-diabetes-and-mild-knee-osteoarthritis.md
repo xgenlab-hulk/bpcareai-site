@@ -1,14 +1,28 @@
 ---
-title: "Does Daily 45-Minute Tai Chi Improve Postprandial Glucose Clearance in Adults 65–80 With Type 2 Diabetes and Mild Knee Osteoarthritis?"
-slug: "does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis"
-description: "Summarizes 2023 RCT findings on tai chi’s impact on skeletal muscle perfusion, GLUT4 expression in aging muscle, and glycaemic response to mixed meals — with modifications for joint limitations."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["tai chi postprandial glucose older adults", "diabetes", "low-impact-exercise-glycemic-response"]
-primaryKeyword: "tai chi postprandial glucose older adults"
-topicCluster: "low-impact-exercise-glycemic-response"
-image: ""
-relatedSlugs: ["a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis", "can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis", "can-walking-after-meals-lower-blood-sugar-in-older-adults", "can-daily-2-minute-toe-tap-sequencing-improve-capillary-refill-time-and-postprandial-glucose-clearance-in-women-63-79-with-diabetic-foot-ulcer-history", "best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67"]
+title: >-
+  Does Daily 45-Minute Tai Chi Improve Postprandial Glucose Clearance in Adults
+  65–80 With Type 2 Diabetes and Mild Knee Osteoarthritis?
+slug: >-
+  does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis
+description: >-
+  Summarizes 2023 RCT findings on tai chi’s impact on skeletal muscle perfusion,
+  GLUT4 expression in aging muscle, and glycaemic response to mixed meals — with
+  modifications for joint limitations.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: tai chi postprandial glucose older adults
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+  - >-
+    can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    can-daily-2-minute-toe-tap-sequencing-improve-capillary-refill-time-and-postprandial-glucose-clearance-in-women-63-79-with-diabetic-foot-ulcer-history
+  - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
 ---
 
 # Can Daily Tai Chi Support Postprandial Glucose Clearance in Older Adults with Type 2 Diabetes and Knee Osteoarthritis?

@@ -1,14 +1,28 @@
 ---
-title: "How Chronic Low-Grade Inflammation Drives Insulin Resistance in Adults 55–64 With Abdominal Obesity and Elevated hs-CRP"
-slug: "how-chronic-low-grade-inflammation-drives-insulin-resistance-in-adults-55-64-with-abdominal-obesity-and-elevated-hs-crp"
-description: "Explores the mechanistic link between systemic inflammation, adipose tissue dysfunction, and progressive beta-cell stress — with actionable lab markers and lifestyle levers to break the cycle."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["inflammation insulin resistance abdominal obesity", "diabetes", "pathophysiology-mechanisms"]
-primaryKeyword: "inflammation insulin resistance abdominal obesity"
-topicCluster: "pathophysiology-mechanisms"
-image: ""
-relatedSlugs: ["how-chronic-low-grade-inflammation-drives-beta-cell-decline-in-adults-52-64-with-long-standing-prediabetes-and-elevated-hs-crp", "how-chronic-inflammation-worsens-type-2-diabetes-after-50", "how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access", "how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70", "how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation"]
+title: >-
+  How Chronic Low-Grade Inflammation Drives Insulin Resistance in Adults 55–64
+  With Abdominal Obesity and Elevated hs-CRP
+slug: >-
+  how-chronic-low-grade-inflammation-drives-insulin-resistance-in-adults-55-64-with-abdominal-obesity-and-elevated-hs-crp
+description: >-
+  Explores the mechanistic link between systemic inflammation, adipose tissue
+  dysfunction, and progressive beta-cell stress — with actionable lab markers
+  and lifestyle levers to break the cycle.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: inflammation insulin resistance abdominal obesity
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-low-grade-inflammation-drives-beta-cell-decline-in-adults-52-64-with-long-standing-prediabetes-and-elevated-hs-crp
+  - how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+  - >-
+    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
 ---
 
 # How Inflammation, Insulin Resistance, and Abdominal Obesity Interact in Your 50s and Early 60s

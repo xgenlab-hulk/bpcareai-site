@@ -6,10 +6,6 @@ description: >-
   lifestyle steps can help manage it.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - menopause and blood pressure changes in women
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: menopause and blood pressure changes in women
 topicCluster: hypertension-management
 image: ''

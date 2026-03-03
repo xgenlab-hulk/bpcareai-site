@@ -1,14 +1,29 @@
 ---
-title: "What Causes Sudden Cravings for Candy After Midnight During New Year’s Eve — In Adults 55+ With Night-Eating Syndrome and Untreated Obstructive Sleep Apnea?"
-slug: "what-causes-sudden-cravings-for-candy-after-midnight-during-new-year-s-eve-in-adults-55-with-night-eating-syndrome-and-untreated-obstructive-sleep-apnea"
-description: "Links nocturnal hypoxia, leptin/ghrelin dysregulation, and dopaminergic reward pathway overactivation — explaining why festive sugar binges peak at 1–3 a.m. and how CPAP adherence alters craving intensity."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["midnight candy cravings new year's eve sleep apnea", "managing blood sugar during christmas and new year", "neuroendocrine-cravings"]
-primaryKeyword: "midnight candy cravings new year's eve sleep apnea"
-topicCluster: "neuroendocrine-cravings"
-image: ""
-relatedSlugs: ["what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals", "what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing", "5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks"]
+title: >-
+  What Causes Sudden Cravings for Candy After Midnight During New Year’s Eve —
+  In Adults 55+ With Night-Eating Syndrome and Untreated Obstructive Sleep
+  Apnea?
+slug: >-
+  what-causes-sudden-cravings-for-candy-after-midnight-during-new-year-s-eve-in-adults-55-with-night-eating-syndrome-and-untreated-obstructive-sleep-apnea
+description: >-
+  Links nocturnal hypoxia, leptin/ghrelin dysregulation, and dopaminergic reward
+  pathway overactivation — explaining why festive sugar binges peak at 1–3 a.m.
+  and how CPAP adherence alters craving intensity.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: midnight candy cravings new year's eve sleep apnea
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
+  - >-
+    what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
+  - >-
+    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
 ---
 
 # Why Midnight Candy Cravings on New Year’s Eve Are Especially Strong in Adults 55+ With Untreated Sleep Apnea

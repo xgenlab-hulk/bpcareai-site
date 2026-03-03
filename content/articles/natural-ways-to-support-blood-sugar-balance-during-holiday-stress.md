@@ -6,12 +6,8 @@ description: >-
   exercises to aid glucose regulation.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - natural blood sugar support holidays
-  - managing blood sugar during Christmas and New Year
-  - natural-remedies
 primaryKeyword: natural blood sugar support holidays
-topicCluster: treatment-interventions
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

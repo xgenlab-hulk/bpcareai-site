@@ -10,12 +10,8 @@ description: >-
   fraction decline independent of BNP.
 date: '2026-01-17'
 updated: '2026-01-17'
-tags:
-  - heart failure nt-probnp iron deficiency seniors
-  - heart disease
-  - iron-metabolism-cardiac-function
 primaryKeyword: heart failure nt-probnp iron deficiency seniors
-topicCluster: iron-metabolism-cardiac-function
+topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-

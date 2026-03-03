@@ -10,12 +10,8 @@ description: >-
   safety profiles.
 date: '2026-01-17'
 updated: '2026-01-17'
-tags:
-  - tzds osteoporosis women over 65
-  - diabetes
-  - medications-bone-health
 primaryKeyword: tzds osteoporosis women over 65
-topicCluster: medications-bone-health
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

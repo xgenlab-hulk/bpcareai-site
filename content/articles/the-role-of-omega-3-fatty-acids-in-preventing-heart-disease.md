@@ -6,12 +6,8 @@ description: >-
   inflammation in aging individuals.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - omega-3 fatty acids for heart disease prevention
-  - heart disease
-  - hypertension-lifestyle
 primaryKeyword: omega-3 fatty acids for heart disease prevention
-topicCluster: hypertension-management
+topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - the-role-of-inflammation-in-heart-disease-for-older-adults

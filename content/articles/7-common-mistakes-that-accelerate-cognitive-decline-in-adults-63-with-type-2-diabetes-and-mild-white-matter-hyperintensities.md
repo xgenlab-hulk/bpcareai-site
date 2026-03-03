@@ -1,14 +1,29 @@
 ---
-title: "7 Common Mistakes That Accelerate Cognitive Decline in Adults 63+ With Type 2 Diabetes and Mild White Matter Hyperintensities"
-slug: "7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities"
-description: "Highlights modifiable errors — like over-treating nocturnal hypoglycemia with high-GI carbs, mis-timing antihypertensives, and ignoring sleep-disordered breathing — with neuroimaging correlates."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["mistakes cognitive decline diabetes elderly", "diabetes", "neurocognitive-protection"]
-primaryKeyword: "mistakes cognitive decline diabetes elderly"
-topicCluster: "neurocognitive-protection"
-image: ""
-relatedSlugs: ["warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4", "warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78", "when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment", "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes", "myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy"]
+title: >-
+  7 Common Mistakes That Accelerate Cognitive Decline in Adults 63+ With Type 2
+  Diabetes and Mild White Matter Hyperintensities
+slug: >-
+  7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities
+description: >-
+  Highlights modifiable errors — like over-treating nocturnal hypoglycemia with
+  high-GI carbs, mis-timing antihypertensives, and ignoring sleep-disordered
+  breathing — with neuroimaging correlates.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: mistakes cognitive decline diabetes elderly
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+  - >-
+    myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy
 ---
 
 # 7 Everyday Mistakes That Can Speed Up Cognitive Decline in Adults 63+ With Type 2 Diabetes and Mild White Matter Changes

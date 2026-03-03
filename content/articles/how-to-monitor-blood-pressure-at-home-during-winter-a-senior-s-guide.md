@@ -6,12 +6,8 @@ description: >-
   seasonal consistency and record-keeping.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - home blood pressure monitoring
-  - senior blood pressure control in winter
-  - monitoring-testing
 primaryKeyword: home blood pressure monitoring
-topicCluster: health-monitoring
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know

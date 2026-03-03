@@ -1,14 +1,28 @@
 ---
-title: "7 Hidden Blood Sugar Triggers in Holiday Baking Ingredients — Especially for Women 58–72 With Long-Standing Type 2 Diabetes"
-slug: "7-hidden-blood-sugar-triggers-in-holiday-baking-ingredients-especially-for-women-58-72-with-long-standing-type-2-diabetes"
-description: "Explores how seemingly 'safe' baking staples like almond flour, erythritol blends, and date paste can unexpectedly spike postprandial glucose due to insulin resistance patterns unique to aging women, with glycemic index comparisons and real-time CGM data insights."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["holiday baking blood sugar spikes women 60+", "holiday diabetes management", "diet-nutrition-glycemic-response"]
-primaryKeyword: "holiday baking blood sugar spikes women 60+"
-topicCluster: "diet-nutrition-glycemic-response"
-image: ""
-relatedSlugs: ["7-hidden-sugar-traps-in-healthy-family-style-salads-especially-for-women-over-60-with-insulin-resistance", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose", "myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75", "a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74"]
+title: >-
+  7 Hidden Blood Sugar Triggers in Holiday Baking Ingredients — Especially for
+  Women 58–72 With Long-Standing Type 2 Diabetes
+slug: >-
+  7-hidden-blood-sugar-triggers-in-holiday-baking-ingredients-especially-for-women-58-72-with-long-standing-type-2-diabetes
+description: >-
+  Explores how seemingly 'safe' baking staples like almond flour, erythritol
+  blends, and date paste can unexpectedly spike postprandial glucose due to
+  insulin resistance patterns unique to aging women, with glycemic index
+  comparisons and real-time CGM data insights.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: holiday baking blood sugar spikes women 60+
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sugar-traps-in-healthy-family-style-salads-especially-for-women-over-60-with-insulin-resistance
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
+  - >-
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
+  - >-
+    a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74
 ---
 
 # Hidden Holiday Baking Blood Sugar Triggers for Women 60+ With Type 2 Diabetes  

@@ -6,12 +6,8 @@ description: >-
   dining with non-diabetic relatives during holidays.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - diabetes-friendly plate strategy
-  - healthy eating during family gatherings
-  - diabetic-diet-planning
 primaryKeyword: diabetes-friendly plate strategy
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

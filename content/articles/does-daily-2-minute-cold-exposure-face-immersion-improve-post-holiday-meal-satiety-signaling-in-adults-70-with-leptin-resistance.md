@@ -1,14 +1,29 @@
 ---
-title: "Does Daily 2-Minute Cold Exposure (Face Immersion) Improve Post-Holiday Meal Satiety Signaling in Adults 70+ With Leptin Resistance?"
-slug: "does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance"
-description: "Reviews emerging data on trigeminal nerve–hypothalamic modulation, comparing effects on PYY/GLP-1 release versus traditional pre-meal walking in frail elders."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["cold exposure satiety signaling seniors", "healthy holiday eating for seniors", "neuroendocrine-appetite-regulation"]
-primaryKeyword: "cold exposure satiety signaling seniors"
-topicCluster: "neuroendocrine-appetite-regulation"
-image: ""
-relatedSlugs: ["natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements", "natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max", "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct", "the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing", "natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70"]
+title: >-
+  Does Daily 2-Minute Cold Exposure (Face Immersion) Improve Post-Holiday Meal
+  Satiety Signaling in Adults 70+ With Leptin Resistance?
+slug: >-
+  does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance
+description: >-
+  Reviews emerging data on trigeminal nerve–hypothalamic modulation, comparing
+  effects on PYY/GLP-1 release versus traditional pre-meal walking in frail
+  elders.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: cold exposure satiety signaling seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
+  - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+  - >-
+    the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing
+  - >-
+    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
 ---
 
 # Can Cold Exposure Satiety Signaling Seniors Support Comfortable Holiday Eating After 70?

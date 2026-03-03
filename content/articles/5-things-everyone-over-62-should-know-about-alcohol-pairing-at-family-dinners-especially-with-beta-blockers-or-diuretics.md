@@ -1,14 +1,27 @@
 ---
-title: "5 Things Everyone Over 62 Should Know About Alcohol Pairing at Family Dinners—Especially With Beta-Blockers or Diuretics"
-slug: "5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics"
-description: "Covers ethanol’s amplifying effect on orthostatic hypotension, diuretic-induced electrolyte shifts, and delayed hypoglycemia in older adults taking cardiovascular medications."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["alcohol pairing family dinner beta-blockers", "healthy eating during family gatherings", "medication-food-interactions"]
-primaryKeyword: "alcohol pairing family dinner beta-blockers"
-topicCluster: "medication-food-interactions"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes", "myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs", "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60"]
+title: >-
+  5 Things Everyone Over 62 Should Know About Alcohol Pairing at Family
+  Dinners—Especially With Beta-Blockers or Diuretics
+slug: >-
+  5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
+description: >-
+  Covers ethanol’s amplifying effect on orthostatic hypotension,
+  diuretic-induced electrolyte shifts, and delayed hypoglycemia in older adults
+  taking cardiovascular medications.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: alcohol pairing family dinner beta-blockers
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
+  - >-
+    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
 ---
 
 # What Everyone Over 62 Should Know About Alcohol Pairing at Family Dinners—Especially With Beta-Blockers or Diuretics

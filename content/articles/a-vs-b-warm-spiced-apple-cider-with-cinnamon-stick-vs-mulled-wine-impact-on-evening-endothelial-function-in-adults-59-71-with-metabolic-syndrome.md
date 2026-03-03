@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Warm Spiced Apple Cider (With Cinnamon Stick) vs. Mulled Wine — Impact on Evening Endothelial Function in Adults 59–71 With Metabolic Syndrome"
-slug: "a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome"
-description: "Compares flow-mediated dilation responses 90 minutes post-consumption using Doppler ultrasound data—focusing on polyphenol bioavailability, alcohol load, and thermal stress effects."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["apple cider vs mulled wine seniors", "healthy holiday eating for seniors", "beverage-comparison-endothelial-health"]
-primaryKeyword: "apple cider vs mulled wine seniors"
-topicCluster: "beverage-comparison-endothelial-health"
-image: ""
-relatedSlugs: ["a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance", "a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis", "a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome", "a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af", "10-things-you-should-know-about-alcohol-free-mulled-wine-for-blood-sugar-control-including-tannin-content-spice-synergy-and-serving-temperature-effects"]
+title: >-
+  A vs B: Warm Spiced Apple Cider (With Cinnamon Stick) vs. Mulled Wine — Impact
+  on Evening Endothelial Function in Adults 59–71 With Metabolic Syndrome
+slug: >-
+  a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
+description: >-
+  Compares flow-mediated dilation responses 90 minutes post-consumption using
+  Doppler ultrasound data—focusing on polyphenol bioavailability, alcohol load,
+  and thermal stress effects.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: apple cider vs mulled wine seniors
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
+  - >-
+    a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
+  - >-
+    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
+  - >-
+    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
+  - >-
+    10-things-you-should-know-about-alcohol-free-mulled-wine-for-blood-sugar-control-including-tannin-content-spice-synergy-and-serving-temperature-effects
 ---
 
 # Apple Cider vs Mulled Wine for Seniors: What Your Evening Drink *Really* Does for Your Arteries

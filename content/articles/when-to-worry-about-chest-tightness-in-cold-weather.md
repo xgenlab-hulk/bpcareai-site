@@ -6,12 +6,8 @@ description: >-
   cardiac symptoms requiring immediate attention.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - chest tightness winter cold
-  - winter heart health for seniors
-  - emergency-symptoms
 primaryKeyword: chest tightness winter cold
-topicCluster: symptoms-emergencies
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - 5-silent-signs-your-heart-is-struggling-in-cold-weather

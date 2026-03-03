@@ -1,14 +1,29 @@
 ---
-title: "Does Daily Cold-Water Face Immersion Improve Vagal Tone and Reduce Atrial Fibrillation Burden in Adults 67+ With Paroxysmal AF and Low HRV?"
-slug: "does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv"
-description: "Reviews randomized data on diving reflex activation, HRV metrics (RMSSD, HF power), and 30-day implantable loop recorder outcomes in AF patients not on antiarrhythmics."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["cold water face immersion afib vagal tone", "heart disease", "vagal-stimulation-arrhythmia"]
-primaryKeyword: "cold water face immersion afib vagal tone"
-topicCluster: "vagal-stimulation-arrhythmia"
-image: ""
-relatedSlugs: ["can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension", "can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index", "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct", "can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity", "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns"]
+title: >-
+  Does Daily Cold-Water Face Immersion Improve Vagal Tone and Reduce Atrial
+  Fibrillation Burden in Adults 67+ With Paroxysmal AF and Low HRV?
+slug: >-
+  does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv
+description: >-
+  Reviews randomized data on diving reflex activation, HRV metrics (RMSSD, HF
+  power), and 30-day implantable loop recorder outcomes in AF patients not on
+  antiarrhythmics.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: cold water face immersion afib vagal tone
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+  - >-
+    can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index
+  - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+  - >-
+    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
 ---
 
 # Can Cold Water Face Immersion Improve Vagal Tone and Lower Atrial Fibrillation Burden in Older Adults?

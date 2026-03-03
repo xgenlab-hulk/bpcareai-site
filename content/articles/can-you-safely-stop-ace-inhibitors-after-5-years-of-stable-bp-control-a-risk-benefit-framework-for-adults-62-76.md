@@ -10,12 +10,8 @@ description: >-
   (e.g., plasma renin activity) before deprescribing.
 date: '2025-12-26'
 updated: '2025-12-26'
-tags:
-  - stopping ace inhibitors safely over 60
-  - blood pressure
-  - medication-deprescribing
 primaryKeyword: stopping ace inhibitors safely over 60
-topicCluster: medication-deprescribing
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-

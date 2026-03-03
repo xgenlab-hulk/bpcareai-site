@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your Winter Indoor Humidity <30% Is Accelerating Corneal Nerve Damage — Even With Stable HbA1c in Adults 77+ With Diabetic Neuropathy"
-slug: "warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy"
-description: "Connects dry air-induced ocular surface stress, corneal confocal microscopy findings, tear osmolarity changes, and humidifier-based neuroprotection strategies for frail older adults."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["indoor humidity corneal nerve damage", "diabetes", "environmental-neuropathy-risk"]
-primaryKeyword: "indoor humidity corneal nerve damage"
-topicCluster: "environmental-neuropathy-risk"
-image: ""
-relatedSlugs: ["how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62", "how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification", "how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history", "simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters", "how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes"]
+title: >-
+  Warning Signs Your Winter Indoor Humidity <30% Is Accelerating Corneal Nerve
+  Damage — Even With Stable HbA1c in Adults 77+ With Diabetic Neuropathy
+slug: >-
+  warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
+description: >-
+  Connects dry air-induced ocular surface stress, corneal confocal microscopy
+  findings, tear osmolarity changes, and humidifier-based neuroprotection
+  strategies for frail older adults.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: indoor humidity corneal nerve damage
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
+  - >-
+    how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification
+  - >-
+    how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history
+  - >-
+    simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
+  - >-
+    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
 ---
 
 # How Low Indoor Humidity May Contribute to Corneal Nerve Damage in Older Adults With Diabetes

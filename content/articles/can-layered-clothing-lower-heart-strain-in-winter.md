@@ -6,12 +6,8 @@ description: >-
   maintaining core body temperature efficiently.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - layered clothing heart health
-  - winter heart health for seniors
-  - lifestyle-modifications
 primaryKeyword: layered clothing heart health
-topicCluster: lifestyle-changes
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates

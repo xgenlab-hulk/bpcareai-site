@@ -6,12 +6,8 @@ description: >-
   problems in later life.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - social isolation and heart disease risk after 60
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: social isolation and heart disease risk after 60
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - is-sitting-too-much-harming-your-heart-after-60

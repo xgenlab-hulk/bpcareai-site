@@ -1,14 +1,29 @@
 ---
-title: "Blood Pressure Management for Men Over 70 With Low Testosterone and Elevated Hematocrit — Why Standard Targets May Be Unsafe"
-slug: "blood-pressure-management-for-men-over-70-with-low-testosterone-and-elevated-hematocrit-why-standard-targets-may-be-unsafe"
-description: "Examines how testosterone deficiency + polycythemia alters vascular resistance and stroke volume, recommending individualized SBP goals and red-flag hematocrit thresholds for clinicians and patients."
-date: "2026-02-23"
-updated: "2026-02-23"
-tags: ["low testosterone hematocrit bp targets", "blood pressure", "endocrine-hemodynamic-interface"]
-primaryKeyword: "low testosterone hematocrit bp targets"
-topicCluster: "endocrine-hemodynamic-interface"
-image: ""
-relatedSlugs: ["the-truth-about-normal-blood-pressure-ranges-after-75-why-130-80-may-be-too-low-for-frail-elders-with-cerebral-hypoperfusion-risk", "5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring", "what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery", "blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor", "blood-pressure-management-for-adults-80-with-severe-orthostatic-hypotension-and-recurrent-syncope-not-just-sitting-sbp"]
+title: >-
+  Blood Pressure Management for Men Over 70 With Low Testosterone and Elevated
+  Hematocrit — Why Standard Targets May Be Unsafe
+slug: >-
+  blood-pressure-management-for-men-over-70-with-low-testosterone-and-elevated-hematocrit-why-standard-targets-may-be-unsafe
+description: >-
+  Examines how testosterone deficiency + polycythemia alters vascular resistance
+  and stroke volume, recommending individualized SBP goals and red-flag
+  hematocrit thresholds for clinicians and patients.
+date: '2026-02-23'
+updated: '2026-02-23'
+primaryKeyword: low testosterone hematocrit bp targets
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-normal-blood-pressure-ranges-after-75-why-130-80-may-be-too-low-for-frail-elders-with-cerebral-hypoperfusion-risk
+  - >-
+    5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
+  - >-
+    what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
+  - >-
+    blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor
+  - >-
+    blood-pressure-management-for-adults-80-with-severe-orthostatic-hypotension-and-recurrent-syncope-not-just-sitting-sbp
 ---
 
 # Rethinking Blood Pressure Goals in Older Men With Low Testosterone and High Hematocrit

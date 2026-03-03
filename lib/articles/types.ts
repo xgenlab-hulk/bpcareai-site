@@ -10,7 +10,6 @@ export interface ArticleMeta {
   primaryKeyword: string;
   topicCluster: string;
   image: string;
-  tags: string[];
   relatedSlugs: string[];
 }
 

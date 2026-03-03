@@ -6,10 +6,6 @@ description: >-
   and why the variation between heartbeats matters more than you think.
 date: '2024-11-10'
 updated: '2024-11-10'
-tags:
-  - HRV
-  - heart health
-  - stress
 primaryKeyword: heart rate variability
 topicCluster: cardiovascular-health
 image: ''

@@ -1,14 +1,29 @@
 ---
-title: "5 Things You Should Know Before Accepting a Holiday Potluck Dish If You’re on a Low-Potassium Renal Diet at Age 74+"
-slug: "5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74"
-description: "Practical guidance for vetting casseroles, salads, and desserts for hidden potassium sources like tomato paste, dried fruit, or salt substitutes—without offending hosts."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["low-potassium holiday potluck seniors", "healthy holiday eating for seniors", "renal-diet-practical-guidance"]
-primaryKeyword: "low-potassium holiday potluck seniors"
-topicCluster: "renal-diet-practical-guidance"
-image: ""
-relatedSlugs: ["a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease", "what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions", "7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd", "simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia", "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd"]
+title: >-
+  5 Things You Should Know Before Accepting a Holiday Potluck Dish If You’re on
+  a Low-Potassium Renal Diet at Age 74+
+slug: >-
+  5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
+description: >-
+  Practical guidance for vetting casseroles, salads, and desserts for hidden
+  potassium sources like tomato paste, dried fruit, or salt substitutes—without
+  offending hosts.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: low-potassium holiday potluck seniors
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
+  - >-
+    what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
+  - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
+  - >-
+    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
 ---
 
 # What Every Senior on a Renal Diet Needs to Know Before Taking That Holiday Potluck Dish  

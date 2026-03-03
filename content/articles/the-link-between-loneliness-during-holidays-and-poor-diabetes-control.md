@@ -6,12 +6,8 @@ description: >-
   sugar in older adults with diabetes.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - holiday loneliness diabetes control
-  - holiday diabetes management
-  - mental-health-behavioral-links
 primaryKeyword: holiday loneliness diabetes control
-topicCluster: mental-wellness
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults

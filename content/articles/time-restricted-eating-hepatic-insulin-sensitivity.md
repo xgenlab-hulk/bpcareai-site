@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Improve Hepatic Insulin Sensitivity Using Time-Restricted Eating With Early-Evening Protein — For Adults 61–75 With NAFLD and Elevated ALT"
-slug: "natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt"
-description: "Explores how aligning feeding windows with circadian liver clock genes (e.g., BMAL1) and prioritizing leucine-rich protein at 5–6 PM enhances insulin receptor tyrosine kinase activity."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["time-restricted eating hepatic insulin sensitivity", "diabetes", "circadian-liver-metabolism"]
-primaryKeyword: "time-restricted eating hepatic insulin sensitivity"
-topicCluster: "circadian-liver-metabolism"
-image: ""
-relatedSlugs: ["natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns", "what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history", "what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon", "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72"]
+title: >-
+  Natural Ways to Improve Hepatic Insulin Sensitivity Using Time-Restricted
+  Eating With Early-Evening Protein — For Adults 61–75 With NAFLD and Elevated
+  ALT
+slug: >-
+  natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt
+description: >-
+  Explores how aligning feeding windows with circadian liver clock genes (e.g.,
+  BMAL1) and prioritizing leucine-rich protein at 5–6 PM enhances insulin
+  receptor tyrosine kinase activity.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: time-restricted eating hepatic insulin sensitivity
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
+  - >-
+    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
+  - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
 ---
 
 # Boosting Liver Health Naturally: Time-Restricted Eating Hepatic Insulin Sensitivity for Adults 61–75 With NAFLD

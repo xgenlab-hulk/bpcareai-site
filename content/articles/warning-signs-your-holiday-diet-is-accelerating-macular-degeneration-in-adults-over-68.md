@@ -10,12 +10,8 @@ description: >-
   visual function checklist.
 date: '2025-12-22'
 updated: '2025-12-22'
-tags:
-  - macular degeneration dietary warning signs
-  - healthy holiday eating for seniors
-  - vision-health-nutrition
 primaryKeyword: macular degeneration dietary warning signs
-topicCluster: vision-health-nutrition
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60

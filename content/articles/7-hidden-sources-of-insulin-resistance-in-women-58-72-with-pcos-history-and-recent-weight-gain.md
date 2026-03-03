@@ -1,14 +1,30 @@
 ---
-title: "7 Hidden Sources of Insulin Resistance in Women 58–72 With PCOS History and Recent Weight Gain"
-slug: "7-hidden-sources-of-insulin-resistance-in-women-58-72-with-pcos-history-and-recent-weight-gain"
-description: "Identifies overlooked contributors like subclinical thyroid autoimmunity, low-grade endometrial inflammation, perimenopausal estrogen withdrawal effects on adipose tissue macrophages, and chronic low-dose corticosteroid use — with lab-based validation tips."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["insulin resistance sources in perimenopausal women", "diabetes", "hormonal-metabolic-interplay"]
-primaryKeyword: "insulin resistance sources in perimenopausal women"
-topicCluster: "hormonal-metabolic-interplay"
-image: ""
-relatedSlugs: ["5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration", "when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications", "blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short", "7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation", "how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance"]
+title: >-
+  7 Hidden Sources of Insulin Resistance in Women 58–72 With PCOS History and
+  Recent Weight Gain
+slug: >-
+  7-hidden-sources-of-insulin-resistance-in-women-58-72-with-pcos-history-and-recent-weight-gain
+description: >-
+  Identifies overlooked contributors like subclinical thyroid autoimmunity,
+  low-grade endometrial inflammation, perimenopausal estrogen withdrawal effects
+  on adipose tissue macrophages, and chronic low-dose corticosteroid use — with
+  lab-based validation tips.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: insulin resistance sources in perimenopausal women
+topicCluster: metabolic-health
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration
+  - >-
+    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
+  - >-
+    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
+  - >-
+    7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation
+  - >-
+    how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
 ---
 
 # Hidden Insulin Resistance Sources in Perimenopausal Women: What Your Blood Sugar Isn’t Telling You

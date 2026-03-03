@@ -1,14 +1,28 @@
 ---
-title: "When to Worry About Blood Pressure Dropping *Only* During Walking—A Red-Flag Pattern for Autonomic Neuropathy in Adults With Long-Standing Diabetes Over 67"
-slug: "when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67"
-description: "Details orthostatic + exertional hypotension differentiation, 6-minute walk test interpretation, and why this specific pattern predicts falls and dementia progression faster than resting BP alone."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["blood pressure drops walking diabetes neuropathy", "blood pressure", "autonomic-dysfunction"]
-primaryKeyword: "blood pressure drops walking diabetes neuropathy"
-topicCluster: "autonomic-dysfunction"
-image: ""
-relatedSlugs: ["how-standing-up-too-fast-affects-blood-pressure-in-older-adults", "when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension", "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension", "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75", "when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss"]
+title: >-
+  When to Worry About Blood Pressure Dropping *Only* During Walking—A Red-Flag
+  Pattern for Autonomic Neuropathy in Adults With Long-Standing Diabetes Over 67
+slug: >-
+  when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
+description: >-
+  Details orthostatic + exertional hypotension differentiation, 6-minute walk
+  test interpretation, and why this specific pattern predicts falls and dementia
+  progression faster than resting BP alone.
+date: '2025-12-25'
+updated: '2025-12-25'
+primaryKeyword: blood pressure drops walking diabetes neuropathy
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
+  - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
+  - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
 ---
 
 # When Blood Pressure Drops Walking in Diabetes: A Quiet Red Flag for Autonomic Neuropathy After Age 67

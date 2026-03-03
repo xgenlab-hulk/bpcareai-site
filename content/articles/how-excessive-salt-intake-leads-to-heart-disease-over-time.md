@@ -6,12 +6,8 @@ description: >-
   especially in older adults.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - salt intake and heart disease development
-  - heart disease
-  - hypertension-lifestyle
 primaryKeyword: salt intake and heart disease development
-topicCluster: hypertension-management
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-obesity-contributes-to-heart-disease-in-middle-age

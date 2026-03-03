@@ -1,14 +1,30 @@
 ---
-title: "Best Seated Resistance Band Exercises for Adults 75+ With Orthostatic Intolerance and Stage 1 Hypertension — Balancing Muscle Activation, BP Stability, and Fall Risk"
-slug: "best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk"
-description: "Features low-threshold, isometric-isotonic hybrid movements validated in cardiac rehab trials — with real-time BP response charts and chair stabilization cues."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["seated-resistance-band-hypertension-elderly", "blood pressure", "low-impact-exercise-hemodynamics"]
-primaryKeyword: "seated-resistance-band-hypertension-elderly"
-topicCluster: "low-impact-exercise-hemodynamics"
-image: ""
-relatedSlugs: ["best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension", "best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension", "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats", "a-vs-b-4-minute-daily-isometric-handgrip-vs-12-minute-weekly-hiit-impact-on-central-aortic-pressure-in-adults-69-with-white-coat-hypertension", "best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options"]
+title: >-
+  Best Seated Resistance Band Exercises for Adults 75+ With Orthostatic
+  Intolerance and Stage 1 Hypertension — Balancing Muscle Activation, BP
+  Stability, and Fall Risk
+slug: >-
+  best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk
+description: >-
+  Features low-threshold, isometric-isotonic hybrid movements validated in
+  cardiac rehab trials — with real-time BP response charts and chair
+  stabilization cues.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: seated-resistance-band-hypertension-elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
+  - >-
+    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - >-
+    a-vs-b-4-minute-daily-isometric-handgrip-vs-12-minute-weekly-hiit-impact-on-central-aortic-pressure-in-adults-69-with-white-coat-hypertension
+  - >-
+    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
 ---
 
 # Safe & Steady: Seated Resistance Band Workouts for Adults 75+ with Orthostatic Intolerance and Stage 1 Hypertension

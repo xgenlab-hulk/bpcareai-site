@@ -1,14 +1,31 @@
 ---
-title: "Natural Ways to Restore Circadian Rhythm of ANP Secretion in Adults 71+ With Nocturnal Polyuria and Stage 2 Hypertension — Without Melatonin or Beta-Blockers"
-slug: "natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers"
-description: "Explains how disrupted atrial natriuretic peptide release contributes to overnight sodium retention and BP surges—and outlines light exposure timing, meal macronutrient sequencing, and foot warming protocols proven to resynchronize ANP peaks."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["restore anp secretion circadian rhythm older adults", "heart health", "anp-circadian-rhythm-restoration"]
-primaryKeyword: "restore anp secretion circadian rhythm older adults"
-topicCluster: "anp-circadian-rhythm-restoration"
-image: ""
-relatedSlugs: ["can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria", "quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension", "what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring", "what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history"]
+title: >-
+  Natural Ways to Restore Circadian Rhythm of ANP Secretion in Adults 71+ With
+  Nocturnal Polyuria and Stage 2 Hypertension — Without Melatonin or
+  Beta-Blockers
+slug: >-
+  natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers
+description: >-
+  Explains how disrupted atrial natriuretic peptide release contributes to
+  overnight sodium retention and BP surges—and outlines light exposure timing,
+  meal macronutrient sequencing, and foot warming protocols proven to
+  resynchronize ANP peaks.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: restore anp secretion circadian rhythm older adults
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
+  - >-
+    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
+  - >-
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
+  - >-
+    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
 ---
 
 # Natural Ways to Restore ANP Secretion Circadian Rhythm in Older Adults — Especially After Age 71

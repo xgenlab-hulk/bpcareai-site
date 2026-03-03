@@ -1,14 +1,25 @@
 ---
-title: "Can Holiday Card Games Raise Blood Pressure Enough to Trigger Arrhythmia in Sedentary Adults Over 65?"
-slug: "can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65"
-description: "Investigates competitive stress physiology—cortisol surges, sympathetic dominance, and microvascular resistance spikes—during common low-movement activities, with data from ambulatory BP monitoring studies in community-living seniors."
-date: "2025-12-20"
-updated: "2025-12-20"
-tags: ["holiday card games blood pressure arrhythmia", "holiday heart syndrome prevention", "low-intensity-stress-physiology"]
-primaryKeyword: "holiday card games blood pressure arrhythmia"
-topicCluster: "low-intensity-stress-physiology"
-image: ""
-relatedSlugs: ["the-hidden-link-between-holiday-stress-and-irregular-heartbeat", "why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes"]
+title: >-
+  Can Holiday Card Games Raise Blood Pressure Enough to Trigger Arrhythmia in
+  Sedentary Adults Over 65?
+slug: >-
+  can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
+description: >-
+  Investigates competitive stress physiology—cortisol surges, sympathetic
+  dominance, and microvascular resistance spikes—during common low-movement
+  activities, with data from ambulatory BP monitoring studies in
+  community-living seniors.
+date: '2025-12-20'
+updated: '2025-12-20'
+primaryKeyword: holiday card games blood pressure arrhythmia
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
 ---
 
 # Can Holiday Card Games Affect Blood Pressure and Heart Rhythm in Adults Over 65?

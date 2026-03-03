@@ -10,12 +10,8 @@ description: >-
   reintegration milestones.
 date: '2025-12-21'
 updated: '2025-12-21'
-tags:
-  - sauna safety after heart attack over 60
-  - heart disease
-  - lifestyle-sauna-recovery
 primaryKeyword: sauna safety after heart attack over 60
-topicCluster: lifestyle-sauna-recovery
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-

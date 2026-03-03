@@ -6,12 +6,8 @@ description: >-
   mood disorders in aging populations.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - chronic pain and seasonal depression
-  - seasonal depression in older adults
-  - comorbidity-impact
 primaryKeyword: chronic pain and seasonal depression
-topicCluster: complications-comorbidities
+topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

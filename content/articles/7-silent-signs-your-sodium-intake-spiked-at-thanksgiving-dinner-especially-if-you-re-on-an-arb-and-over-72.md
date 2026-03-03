@@ -1,14 +1,29 @@
 ---
-title: "7 Silent Signs Your Sodium Intake Spiked at Thanksgiving Dinner — Especially If You’re on an ARB and Over 72"
-slug: "7-silent-signs-your-sodium-intake-spiked-at-thanksgiving-dinner-especially-if-you-re-on-an-arb-and-over-72"
-description: "Identifies subtle, often-missed physiological cues (e.g., morning ankle edema + midday mental fog) signaling acute sodium overload in seniors on renin-angiotensin system inhibitors."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["silent sodium overload signs seniors", "healthy holiday eating for seniors", "electrolyte-symptom-recognition"]
-primaryKeyword: "silent sodium overload signs seniors"
-topicCluster: "electrolyte-symptom-recognition"
-image: ""
-relatedSlugs: ["7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction", "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents", "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62", "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs", "warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy"]
+title: >-
+  7 Silent Signs Your Sodium Intake Spiked at Thanksgiving Dinner — Especially
+  If You’re on an ARB and Over 72
+slug: >-
+  7-silent-signs-your-sodium-intake-spiked-at-thanksgiving-dinner-especially-if-you-re-on-an-arb-and-over-72
+description: >-
+  Identifies subtle, often-missed physiological cues (e.g., morning ankle edema
+  + midday mental fog) signaling acute sodium overload in seniors on
+  renin-angiotensin system inhibitors.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: silent sodium overload signs seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
+  - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
+  - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+  - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
+  - >-
+    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
 ---
 
 # 7 Subtle Clues Your Sodium Intake Surged at Thanksgiving — Especially If You’re on an ARB and Over 72

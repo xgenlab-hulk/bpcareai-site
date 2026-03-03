@@ -6,12 +6,8 @@ description: >-
   medical attention versus normal transient responses.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - post-meal palpitations warning
-  - holiday heart syndrome prevention
-  - emergency-symptoms
 primaryKeyword: post-meal palpitations warning
-topicCluster: symptoms-emergencies
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal

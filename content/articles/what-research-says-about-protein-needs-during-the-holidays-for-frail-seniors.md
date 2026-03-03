@@ -6,12 +6,8 @@ description: >-
   muscle loss—here’s how much, when, and from which sources.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - holiday protein needs for frail seniors
-  - healthy holiday eating for seniors
-  - muscle-health-nutrition
 primaryKeyword: holiday protein needs for frail seniors
-topicCluster: nutrition-diet
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60

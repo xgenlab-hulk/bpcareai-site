@@ -10,12 +10,8 @@ description: >-
   still develop volume overload on modest sodium loads.
 date: '2025-12-25'
 updated: '2025-12-25'
-tags:
-  - salt sensitivity myth older adults sodium
-  - blood pressure
-  - sodium-physiology-aging
 primaryKeyword: salt sensitivity myth older adults sodium
-topicCluster: sodium-physiology-aging
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now

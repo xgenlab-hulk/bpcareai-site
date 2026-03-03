@@ -1,14 +1,29 @@
 ---
-title: "How Long-Term Exposure to Low-Frequency Noise (e.g., HVAC, Traffic Hum) Elevates 24-Hour Ambulatory BP in Adults 63+ Living in Urban High-Rises"
-slug: "how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises"
-description: "Examines infrasound-induced amygdala activation, sustained cortisol awakening response, and impaired nocturnal vagal rebound in hypertensive seniors exposed to chronic sub-30 Hz noise."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["low-frequency noise ambulatory blood pressure", "blood pressure", "environmental-hypertension"]
-primaryKeyword: "low-frequency noise ambulatory blood pressure"
-topicCluster: "environmental-hypertension"
-image: ""
-relatedSlugs: ["how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension", "how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62", "how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness", "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments", "how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss"]
+title: >-
+  How Long-Term Exposure to Low-Frequency Noise (e.g., HVAC, Traffic Hum)
+  Elevates 24-Hour Ambulatory BP in Adults 63+ Living in Urban High-Rises
+slug: >-
+  how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
+description: >-
+  Examines infrasound-induced amygdala activation, sustained cortisol awakening
+  response, and impaired nocturnal vagal rebound in hypertensive seniors exposed
+  to chronic sub-30 Hz noise.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: low-frequency noise ambulatory blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension
+  - >-
+    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
+  - >-
+    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+  - >-
+    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
 ---
 
 # How Low-Frequency Noise Ambulatory Blood Pressure Changes Over Time in Older Adults Living in Urban High-Rises

@@ -6,10 +6,6 @@ description: >-
   simple ways to break up sedentary time.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - sitting and high blood pressure risk
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: sitting and high blood pressure risk
 topicCluster: hypertension-management
 image: ''

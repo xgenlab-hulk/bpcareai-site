@@ -6,10 +6,6 @@ description: >-
   cardiovascular function in older adults.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - magnesium benefits for heart health over 50
-  - heart health
-  - heart-health
 primaryKeyword: magnesium benefits for heart health over 50
 topicCluster: cardiovascular-health
 image: ''

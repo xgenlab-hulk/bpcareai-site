@@ -1,14 +1,27 @@
 ---
-title: "7 Silent Signs Your Holiday Stress Is Raising Postprandial Glucose—Especially If You’re on GLP-1 RAs and Over 68"
-slug: "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68"
-description: "Identifies non-obvious physiological markers (e.g., delayed gastric emptying perception, nocturnal cortisol surges, pupil dilation changes) linked to stress-induced hyperglycemia in older GLP-1 users."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["holiday stress postprandial glucose GLP-1 RA", "holiday diabetes management", "stress-glucose-interaction"]
-primaryKeyword: "holiday stress postprandial glucose GLP-1 RA"
-topicCluster: "stress-glucose-interaction"
-image: ""
-relatedSlugs: ["7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60", "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear"]
+title: >-
+  7 Silent Signs Your Holiday Stress Is Raising Postprandial Glucose—Especially
+  If You’re on GLP-1 RAs and Over 68
+slug: >-
+  7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+description: >-
+  Identifies non-obvious physiological markers (e.g., delayed gastric emptying
+  perception, nocturnal cortisol surges, pupil dilation changes) linked to
+  stress-induced hyperglycemia in older GLP-1 users.
+date: '2026-01-01'
+updated: '2026-01-01'
+primaryKeyword: holiday stress postprandial glucose GLP-1 RA
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - >-
+    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
 ---
 
 # How Holiday Stress Postprandial Glucose GLP-1 RA Interactions Affect Older Adults—Gently and Understandably

@@ -6,12 +6,8 @@ description: >-
   misdiagnosed.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - women heart attack symptoms after menopause
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: women heart attack symptoms after menopause
-topicCluster: cardiovascular-health
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed

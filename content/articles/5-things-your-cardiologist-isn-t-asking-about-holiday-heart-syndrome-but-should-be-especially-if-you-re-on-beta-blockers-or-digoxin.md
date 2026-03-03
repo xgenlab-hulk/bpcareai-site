@@ -1,14 +1,26 @@
 ---
-title: "5 Things Your Cardiologist Isn’t Asking About Holiday Heart Syndrome—But Should Be (Especially If You’re on Beta-Blockers or Digoxin)"
-slug: "5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin"
-description: "Highlights under-assessed variables during pre-holiday visits: nocturnal vagal tone variability, ambient light exposure timing, postural sodium shifts, cold-air inhalation frequency, and polypharmacy-induced potassium flux."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["cardiologist questions for holiday heart prevention", "holiday heart syndrome prevention", "clinical-assessment-gaps"]
-primaryKeyword: "cardiologist questions for holiday heart prevention"
-topicCluster: "clinical-assessment-gaps"
-image: ""
-relatedSlugs: ["7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55", "how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm", "7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them", "how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk", "holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips"]
+title: >-
+  5 Things Your Cardiologist Isn’t Asking About Holiday Heart Syndrome—But
+  Should Be (Especially If You’re on Beta-Blockers or Digoxin)
+slug: >-
+  5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
+description: >-
+  Highlights under-assessed variables during pre-holiday visits: nocturnal vagal
+  tone variability, ambient light exposure timing, postural sodium shifts,
+  cold-air inhalation frequency, and polypharmacy-induced potassium flux.
+date: '2025-12-24'
+updated: '2025-12-24'
+primaryKeyword: cardiologist questions for holiday heart prevention
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
+  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 ---
 
 # What Your Cardiologist *Should* Be Asking: 5 Key Cardiologist Questions for Holiday Heart Prevention

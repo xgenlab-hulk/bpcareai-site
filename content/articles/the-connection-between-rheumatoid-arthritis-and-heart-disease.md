@@ -6,12 +6,8 @@ description: >-
   systemic inflammation.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - rheumatoid arthritis and heart disease link
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: rheumatoid arthritis and heart disease link
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart

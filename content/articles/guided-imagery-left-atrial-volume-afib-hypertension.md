@@ -1,14 +1,28 @@
 ---
-title: "What Research Says About Daily 12-Minute Guided Imagery Sessions and Left Atrial Volume Regression in Adults 60–74 With Persistent AFib and Hypertension"
-slug: "what-research-says-about-daily-12-minute-guided-imagery-sessions-and-left-atrial-volume-regression-in-adults-60-74-with-persistent-afib-and-hypertension"
-description: "Summarizes RCTs showing reduced fibrotic signaling (TGF-β, galectin-3) and improved vagal tone—leading to measurable LA size reduction over 6 months."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["guided imagery left atrial volume AFib hypertension", "heart disease", "mind-body-atrial-remodeling"]
-primaryKeyword: "guided imagery left atrial volume AFib hypertension"
-topicCluster: "mind-body-atrial-remodeling"
-image: ""
-relatedSlugs: ["does-daily-15-minute-guided-imagery-lower-24-hour-mean-arterial-pressure-in-adults-69-83-with-treatment-resistant-hypertension", "can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension", "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension", "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct"]
+title: >-
+  What Research Says About Daily 12-Minute Guided Imagery Sessions and Left
+  Atrial Volume Regression in Adults 60–74 With Persistent AFib and Hypertension
+slug: >-
+  what-research-says-about-daily-12-minute-guided-imagery-sessions-and-left-atrial-volume-regression-in-adults-60-74-with-persistent-afib-and-hypertension
+description: >-
+  Summarizes RCTs showing reduced fibrotic signaling (TGF-β, galectin-3) and
+  improved vagal tone—leading to measurable LA size reduction over 6 months.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: guided imagery left atrial volume AFib hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-15-minute-guided-imagery-lower-24-hour-mean-arterial-pressure-in-adults-69-83-with-treatment-resistant-hypertension
+  - >-
+    can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+  - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
 ---
 
 # Can Guided Imagery Help Shrink the Left Atrium in Adults 60–74 With AFib and Hypertension?

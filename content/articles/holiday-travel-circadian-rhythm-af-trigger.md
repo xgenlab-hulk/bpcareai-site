@@ -1,14 +1,28 @@
 ---
-title: "How Holiday Travel Disrupts Circadian Rhythm and Triggers Atrial Fibrillation in Adults 68+ With Diagnosed AF and Time-Zone-Shifted Medication Schedules"
-slug: "how-holiday-travel-disrupts-circadian-rhythm-and-triggers-atrial-fibrillation-in-adults-68-with-diagnosed-af-and-time-zone-shifted-medication-schedules"
-description: "Details how jet lag — especially eastward travel — desynchronizes sinoatrial node clocks, alters potassium channel expression, and misaligns anticoagulant dosing windows, increasing AF burden during holiday visits."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["holiday travel circadian rhythm af trigger", "holiday heart syndrome prevention", "travel-arrhythmia"]
-primaryKeyword: "holiday travel circadian rhythm af trigger"
-topicCluster: "travel-arrhythmia"
-image: ""
-relatedSlugs: ["how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm", "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle", "how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib", "holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa"]
+title: >-
+  How Holiday Travel Disrupts Circadian Rhythm and Triggers Atrial Fibrillation
+  in Adults 68+ With Diagnosed AF and Time-Zone-Shifted Medication Schedules
+slug: >-
+  how-holiday-travel-disrupts-circadian-rhythm-and-triggers-atrial-fibrillation-in-adults-68-with-diagnosed-af-and-time-zone-shifted-medication-schedules
+description: >-
+  Details how jet lag — especially eastward travel — desynchronizes sinoatrial
+  node clocks, alters potassium channel expression, and misaligns anticoagulant
+  dosing windows, increasing AF burden during holiday visits.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: holiday travel circadian rhythm af trigger
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
+  - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
+  - >-
+    holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
 ---
 
 # How Holiday Travel Disrupts Your Body Clock — and Why That Can Trigger Atrial Fibrillation in Adults 68+

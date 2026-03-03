@@ -1,14 +1,28 @@
 ---
-title: "Myths vs Facts: 'Eating Less Sugar' Alone Will Reverse Type 2 Diabetes in Adults 58–73 With 12+ Years Duration"
-slug: "myths-vs-facts-eating-less-sugar-alone-will-reverse-type-2-diabetes-in-adults-58-73-with-12-years-duration"
-description: "Debunks common beliefs using data from DiRECT and ReTUNE trials — clarifying why duration, beta-cell mass, and ectopic fat distribution matter more than sugar reduction alone."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["sugar reduction reverse type 2 diabetes myths", "diabetes", "diabetes-reversal-myths-facts"]
-primaryKeyword: "sugar reduction reverse type 2 diabetes myths"
-topicCluster: "diabetes-reversal-myths-facts"
-image: ""
-relatedSlugs: ["myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes", "what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide", "myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity", "myths-vs-facts-holiday-eating-with-diabetes-after-50", "what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery"]
+title: >-
+  Myths vs Facts: 'Eating Less Sugar' Alone Will Reverse Type 2 Diabetes in
+  Adults 58–73 With 12+ Years Duration
+slug: >-
+  myths-vs-facts-eating-less-sugar-alone-will-reverse-type-2-diabetes-in-adults-58-73-with-12-years-duration
+description: >-
+  Debunks common beliefs using data from DiRECT and ReTUNE trials — clarifying
+  why duration, beta-cell mass, and ectopic fat distribution matter more than
+  sugar reduction alone.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: sugar reduction reverse type 2 diabetes myths
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
+  - >-
+    what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide
+  - >-
+    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
+  - myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
 ---
 
 # Sugar Reduction Reverse Type 2 Diabetes Myths: What Really Works After 12+ Years

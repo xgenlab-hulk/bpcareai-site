@@ -1,14 +1,30 @@
 ---
-title: "5 Foods That Support Endothelial Nitric Oxide Bioavailability *Without* Increasing Dietary Nitrates — For Adults 66+ With Gastric Atrophy and Low Intrinsic Factor"
-slug: "5-foods-that-support-endothelial-nitric-oxide-bioavailability-without-increasing-dietary-nitrates-for-adults-66-with-gastric-atrophy-and-low-intrinsic-factor"
-description: "Highlights nitrate-independent endothelial support foods (e.g., pomegranate, hawthorn, cocoa flavanols) optimized for seniors with atrophic gastritis and suboptimal nitrate reduction capacity."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["endothelial support without nitrates seniors", "blood pressure", "natural-remedies"]
-primaryKeyword: "endothelial support without nitrates seniors"
-topicCluster: "natural-remedies"
-image: ""
-relatedSlugs: ["12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling", "10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl", "10-foods-that-boost-endothelial-no-synthase-activity-in-adults-54-69-with-elevated-adma-and-normal-ldl-c", "natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60"]
+title: >-
+  5 Foods That Support Endothelial Nitric Oxide Bioavailability *Without*
+  Increasing Dietary Nitrates — For Adults 66+ With Gastric Atrophy and Low
+  Intrinsic Factor
+slug: >-
+  5-foods-that-support-endothelial-nitric-oxide-bioavailability-without-increasing-dietary-nitrates-for-adults-66-with-gastric-atrophy-and-low-intrinsic-factor
+description: >-
+  Highlights nitrate-independent endothelial support foods (e.g., pomegranate,
+  hawthorn, cocoa flavanols) optimized for seniors with atrophic gastritis and
+  suboptimal nitrate reduction capacity.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: endothelial support without nitrates seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+  - >-
+    10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
+  - >-
+    10-foods-that-boost-endothelial-no-synthase-activity-in-adults-54-69-with-elevated-adma-and-normal-ldl-c
+  - >-
+    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
 ---
 
 # Endothelial Support Without Nitrates for Seniors: Safe, Effective Foods for Adults 66+ With Gastric Atrophy

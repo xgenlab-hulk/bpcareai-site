@@ -11,12 +11,8 @@ description: >-
   ultrasound-guided rotation mapping for clinical prevention.
 date: '2026-01-14'
 updated: '2026-01-14'
-tags:
-  - insulin pump lipohypertrophy warning signs
-  - diabetes
-  - treatment-pump-complications
 primaryKeyword: insulin pump lipohypertrophy warning signs
-topicCluster: treatment-pump-complications
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

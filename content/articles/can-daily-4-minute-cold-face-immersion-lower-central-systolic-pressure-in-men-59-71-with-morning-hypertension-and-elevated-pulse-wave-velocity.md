@@ -1,14 +1,29 @@
 ---
-title: "Can Daily 4-Minute Cold Face Immersion Lower Central Systolic Pressure in Men 59–71 With Morning Hypertension and Elevated Pulse Wave Velocity?"
-slug: "can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity"
-description: "Reviews emerging evidence on trigeminal-brainstem-vagal activation via cold water face immersion, its impact on aortic stiffness metrics, and practical protocols for safe implementation in early-stage arterial aging."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["cold face immersion central systolic pressure morning hypertension", "blood pressure", "non-pharmacological-interventions-vagal"]
-primaryKeyword: "cold face immersion central systolic pressure morning hypertension"
-topicCluster: "non-pharmacological-interventions-vagal"
-image: ""
-relatedSlugs: ["can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns", "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct", "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension", "does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown", "why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds"]
+title: >-
+  Can Daily 4-Minute Cold Face Immersion Lower Central Systolic Pressure in Men
+  59–71 With Morning Hypertension and Elevated Pulse Wave Velocity?
+slug: >-
+  can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
+description: >-
+  Reviews emerging evidence on trigeminal-brainstem-vagal activation via cold
+  water face immersion, its impact on aortic stiffness metrics, and practical
+  protocols for safe implementation in early-stage arterial aging.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: cold face immersion central systolic pressure morning hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
+  - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+  - >-
+    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
+  - >-
+    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
 ---
 
 # Can a 4-Minute Cold Face Dip Help Lower Central Systolic Pressure in Men with Morning Hypertension?

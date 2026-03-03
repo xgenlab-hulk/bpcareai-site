@@ -6,12 +6,8 @@ description: >-
   seasonal disruptions.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - diabetes medication schedule holidays
-  - holiday diabetes management
-  - medication-adherence-challenges
 primaryKeyword: diabetes medication schedule holidays
-topicCluster: medications-supplements
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide

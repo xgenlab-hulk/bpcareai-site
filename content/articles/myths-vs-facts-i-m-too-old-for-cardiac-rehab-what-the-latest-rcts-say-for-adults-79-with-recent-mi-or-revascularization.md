@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: 'I’m Too Old for Cardiac Rehab' — What the Latest RCTs Say for Adults 79+ With Recent MI or Revascularization"
-slug: "myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization"
-description: "Debunks ageist assumptions using data from the EXCITE and RENEW trials — covering mortality reduction (22% at 2 years), functional gains, and telehealth-enabled protocols."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["cardiac rehab myths seniors 79+ recent mi", "heart disease", "rehab-accessibility-barriers"]
-primaryKeyword: "cardiac rehab myths seniors 79+ recent mi"
-topicCluster: "rehab-accessibility-barriers"
-image: ""
-relatedSlugs: ["5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program", "myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75", "myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old", "myths-vs-facts-i-only-drink-red-wine-it-s-heart-healthy-in-adults-65-with-high-frequency-pacs-and-left-atrial-fibrosis", "simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation"]
+title: >-
+  Myths vs Facts: 'I’m Too Old for Cardiac Rehab' — What the Latest RCTs Say for
+  Adults 79+ With Recent MI or Revascularization
+slug: >-
+  myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization
+description: >-
+  Debunks ageist assumptions using data from the EXCITE and RENEW trials —
+  covering mortality reduction (22% at 2 years), functional gains, and
+  telehealth-enabled protocols.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: cardiac rehab myths seniors 79+ recent mi
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
+  - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
+  - >-
+    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+  - >-
+    myths-vs-facts-i-only-drink-red-wine-it-s-heart-healthy-in-adults-65-with-high-frequency-pacs-and-left-atrial-fibrosis
+  - >-
+    simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation
 ---
 
 # “I’m Too Old for Cardiac Rehab” — Debunking cardiac rehab myths seniors 79+ recent mi with Real Evidence

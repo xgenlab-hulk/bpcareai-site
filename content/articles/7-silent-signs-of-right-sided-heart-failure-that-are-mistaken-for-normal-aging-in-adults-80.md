@@ -10,12 +10,8 @@ description: >-
   misattributed to aging or liver disease.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - right-sided heart failure signs in octogenarians
-  - heart disease
-  - symptoms-aging-misdiagnosis
 primaryKeyword: right-sided heart failure signs in octogenarians
-topicCluster: symptoms-aging-misdiagnosis
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-

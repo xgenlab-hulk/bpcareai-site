@@ -1,14 +1,28 @@
 ---
-title: "Best Low-Residue, High-Fiber Side Dishes for Adults 75+ With Diverticular Disease *and* Mild Cognitive Impairment — No Chopping Required"
-slug: "best-low-residue-high-fiber-side-dishes-for-adults-75-with-diverticular-disease-and-mild-cognitive-impairment-no-chopping-required"
-description: "Features 5 fully prepped, no-cook or single-pot side dishes (including chia-pear compote and roasted beet hummus) designed to avoid mechanical irritation while supporting gut-brain axis integrity and satiety signaling."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["low residue high fiber holiday sides", "healthy eating during family gatherings", "gut-brain-diet-diverticular-disease"]
-primaryKeyword: "low residue high fiber holiday sides"
-topicCluster: "gut-brain-diet-diverticular-disease"
-image: ""
-relatedSlugs: ["best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs", "best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation", "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation", "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd", "best-6-low-sodium-high-fiber-side-dishes-that-hold-up-under-3-hour-buffet-conditions-for-adults-76-with-hypertension-and-constipation"]
+title: >-
+  Best Low-Residue, High-Fiber Side Dishes for Adults 75+ With Diverticular
+  Disease *and* Mild Cognitive Impairment — No Chopping Required
+slug: >-
+  best-low-residue-high-fiber-side-dishes-for-adults-75-with-diverticular-disease-and-mild-cognitive-impairment-no-chopping-required
+description: >-
+  Features 5 fully prepped, no-cook or single-pot side dishes (including
+  chia-pear compote and roasted beet hummus) designed to avoid mechanical
+  irritation while supporting gut-brain axis integrity and satiety signaling.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: low residue high fiber holiday sides
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    best-6-low-sodium-high-fiber-side-dishes-that-hold-up-under-3-hour-buffet-conditions-for-adults-76-with-hypertension-and-constipation
 ---
 
 # Low-Residue, High-Fiber Holiday Sides for Older Adults With Diverticular Disease and Mild Cognitive Impairment

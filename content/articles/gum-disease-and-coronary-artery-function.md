@@ -11,12 +11,8 @@ description: >-
   flow-mediated dilation data from a 2023 longitudinal cohort study.
 date: '2026-01-06'
 updated: '2026-01-06'
-tags:
-  - gum disease and coronary artery function
-  - heart disease
-  - inflammation-microvascular-link
 primaryKeyword: gum disease and coronary artery function
-topicCluster: inflammation-microvascular-link
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

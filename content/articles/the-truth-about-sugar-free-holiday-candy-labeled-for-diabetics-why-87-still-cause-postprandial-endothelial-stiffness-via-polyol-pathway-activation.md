@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Sugar-Free' Holiday Candy Labeled for Diabetics — Why 87% Still Cause Postprandial Endothelial Stiffness via Polyol Pathway Activation"
-slug: "the-truth-about-sugar-free-holiday-candy-labeled-for-diabetics-why-87-still-cause-postprandial-endothelial-stiffness-via-polyol-pathway-activation"
-description: "Investigates how sugar alcohols (maltitol, sorbitol) in festive 'diabetic-friendly' treats trigger oxidative stress and reduce nitric oxide bioavailability — especially in adults with 10+ years of diabetes duration."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["sugar-free candy endothelial stiffness", "holiday diabetes management", "diabetic-confectionery-science"]
-primaryKeyword: "sugar-free candy endothelial stiffness"
-topicCluster: "diabetic-confectionery-science"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-candies-marketed-to-seniors-why-83-contain-maltitol-induced-osmotic-diarrhea-and-secondary-hyperglycemia-in-adults-69-with-gastroparesis", "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue", "the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors", "the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes"]
+title: >-
+  The Truth About 'Sugar-Free' Holiday Candy Labeled for Diabetics — Why 87%
+  Still Cause Postprandial Endothelial Stiffness via Polyol Pathway Activation
+slug: >-
+  the-truth-about-sugar-free-holiday-candy-labeled-for-diabetics-why-87-still-cause-postprandial-endothelial-stiffness-via-polyol-pathway-activation
+description: >-
+  Investigates how sugar alcohols (maltitol, sorbitol) in festive
+  'diabetic-friendly' treats trigger oxidative stress and reduce nitric oxide
+  bioavailability — especially in adults with 10+ years of diabetes duration.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: sugar-free candy endothelial stiffness
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-candies-marketed-to-seniors-why-83-contain-maltitol-induced-osmotic-diarrhea-and-secondary-hyperglycemia-in-adults-69-with-gastroparesis
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
 ---
 
 # What You Need to Know About Sugar-Free Candy Endothelial Stiffness This Holiday Season

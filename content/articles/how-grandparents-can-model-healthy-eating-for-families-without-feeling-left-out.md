@@ -9,12 +9,8 @@ description: >-
   meals while setting a positive example for younger generations.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - diabetic grandparents holiday eating
-  - managing blood sugar during Christmas and New Year
-  - family-dynamics-nutrition
 primaryKeyword: diabetic grandparents holiday eating
-topicCluster: social-environmental
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

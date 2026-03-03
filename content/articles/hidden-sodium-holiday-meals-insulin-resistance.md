@@ -1,14 +1,29 @@
 ---
-title: "12 Hidden Sources of Sodium in Holiday Meals That Worsen Insulin Resistance — Especially for Adults 55–64 With Stage 1 Hypertension and Newly Diagnosed Diabetes"
-slug: "12-hidden-sources-of-sodium-in-holiday-meals-that-worsen-insulin-resistance-especially-for-adults-55-64-with-stage-1-hypertension-and-newly-diagnosed-diabetes"
-description: "Identifies non-obvious sodium vectors: turkey brine residues, canned broth additives, baking powder in gluten-free pies, and smoked cheese rinds — with sodium-to-insulin-resistance correlation data from NHANES subanalysis."
-date: "2026-02-17"
-updated: "2026-02-17"
-tags: ["hidden sodium holiday meals insulin resistance", "holiday diabetes management", "diet-nutrition-sodium-metabolism"]
-primaryKeyword: "hidden sodium holiday meals insulin resistance"
-topicCluster: "diet-nutrition-sodium-metabolism"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension", "7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker"]
+title: >-
+  12 Hidden Sources of Sodium in Holiday Meals That Worsen Insulin Resistance —
+  Especially for Adults 55–64 With Stage 1 Hypertension and Newly Diagnosed
+  Diabetes
+slug: >-
+  12-hidden-sources-of-sodium-in-holiday-meals-that-worsen-insulin-resistance-especially-for-adults-55-64-with-stage-1-hypertension-and-newly-diagnosed-diabetes
+description: >-
+  Identifies non-obvious sodium vectors: turkey brine residues, canned broth
+  additives, baking powder in gluten-free pies, and smoked cheese rinds — with
+  sodium-to-insulin-resistance correlation data from NHANES subanalysis.
+date: '2026-02-17'
+updated: '2026-02-17'
+primaryKeyword: hidden sodium holiday meals insulin resistance
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
+  - >-
+    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
 ---
 
 # Hidden Sodium in Holiday Meals That Fuel Insulin Resistance — What Adults 55–64 With Stage 1 Hypertension and New Diabetes Diagnosis Need to Know  

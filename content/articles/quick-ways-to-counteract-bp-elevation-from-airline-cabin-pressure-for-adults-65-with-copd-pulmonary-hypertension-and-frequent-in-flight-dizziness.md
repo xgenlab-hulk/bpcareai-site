@@ -1,14 +1,29 @@
 ---
-title: "Quick Ways to Counteract BP Elevation From Airline Cabin Pressure — For Adults 65+ With COPD, Pulmonary Hypertension, and Frequent In-Flight Dizziness"
-slug: "quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness"
-description: "Offers pre-flight, in-flight, and post-flight strategies — including nasal NO delivery, timed isometric handgrip, and hydration timing — validated in simulated hypobaric chamber studies."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["airplane cabin pressure and blood pressure", "blood pressure", "travel-physiology"]
-primaryKeyword: "airplane cabin pressure and blood pressure"
-topicCluster: "travel-physiology"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd", "how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt", "quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness", "how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension", "quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp"]
+title: >-
+  Quick Ways to Counteract BP Elevation From Airline Cabin Pressure — For Adults
+  65+ With COPD, Pulmonary Hypertension, and Frequent In-Flight Dizziness
+slug: >-
+  quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness
+description: >-
+  Offers pre-flight, in-flight, and post-flight strategies — including nasal NO
+  delivery, timed isometric handgrip, and hydration timing — validated in
+  simulated hypobaric chamber studies.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: airplane cabin pressure and blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
+  - >-
+    how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt
+  - >-
+    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
+  - >-
+    how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
+  - >-
+    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
 ---
 
 # How Airplane Cabin Pressure and Blood Pressure Interact — Gentle Strategies for Older Adults With COPD or Pulmonary Hypertension

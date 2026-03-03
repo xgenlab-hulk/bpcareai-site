@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Lower Post-Dinner Glucose Variability Without Raising LDL — For Adults 66–79 With Type 2 Diabetes and Familial Hypercholesterolemia"
-slug: "10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia"
-description: "Features LDL-neutral, high-fiber, low-AGE foods—including roasted seaweed, lupini beans, and shirataki noodles—with glucose-lowering effects confirmed by blinded CGM trials."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["foods lower glucose variability LDL safe", "diabetes", "diet-nutrition-lipid-glucose-balance"]
-primaryKeyword: "foods lower glucose variability LDL safe"
-topicCluster: "diet-nutrition-lipid-glucose-balance"
-image: ""
-relatedSlugs: ["10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome", "what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history", "12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d", "the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76", "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60"]
+title: >-
+  10 Foods That Lower Post-Dinner Glucose Variability Without Raising LDL — For
+  Adults 66–79 With Type 2 Diabetes and Familial Hypercholesterolemia
+slug: >-
+  10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia
+description: >-
+  Features LDL-neutral, high-fiber, low-AGE foods—including roasted seaweed,
+  lupini beans, and shirataki noodles—with glucose-lowering effects confirmed by
+  blinded CGM trials.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: foods lower glucose variability LDL safe
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
+  - >-
+    what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history
+  - >-
+    12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d
+  - >-
+    the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
 ---
 
 # 10 LDL-Safe Foods That Lower Glucose Variability After Dinner — For Adults 66–79 With Type 2 Diabetes and Familial Hypercholesterolemia

@@ -1,14 +1,29 @@
 ---
-title: "The Truth About ‘Diabetes-Friendly’ Holiday Cookies: What Label Claims Hide and What Real Ingredient Ratios Reveal"
-slug: "the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal"
-description: "Debunks marketing terms like 'low glycemic' and 'keto-approved' by comparing actual carbohydrate-to-fiber ratios, net carb calculation errors, and insulinogenic amino acid loads in 22 popular holiday cookie products tested in adults 55–79."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["diabetes-friendly holiday cookies truth", "holiday diabetes management", "food-labeling-literacy"]
-primaryKeyword: "diabetes-friendly holiday cookies truth"
-topicCluster: "food-labeling-literacy"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging", "12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72", "the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you", "the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels", "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70"]
+title: >-
+  The Truth About ‘Diabetes-Friendly’ Holiday Cookies: What Label Claims Hide
+  and What Real Ingredient Ratios Reveal
+slug: >-
+  the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
+description: >-
+  Debunks marketing terms like 'low glycemic' and 'keto-approved' by comparing
+  actual carbohydrate-to-fiber ratios, net carb calculation errors, and
+  insulinogenic amino acid loads in 22 popular holiday cookie products tested in
+  adults 55–79.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: diabetes-friendly holiday cookies truth
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+  - >-
+    12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
+  - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 ---
 
 # Unpacking the Diabetes-Friendly Holiday Cookies Truth: What Labels Won’t Tell You

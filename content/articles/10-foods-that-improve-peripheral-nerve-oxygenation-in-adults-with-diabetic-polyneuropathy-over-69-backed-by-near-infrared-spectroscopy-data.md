@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Improve Peripheral Nerve Oxygenation in Adults With Diabetic Polyneuropathy Over 69—Backed by Near-Infrared Spectroscopy Data"
-slug: "10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data"
-description: "Highlights nitrate-rich greens, heme iron sources, and flavonoid-dense berries shown to increase tissue oxygen saturation (StO₂) in lower-limb nerves via NIRS imaging."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["foods for nerve oxygenation in diabetic neuropathy", "diabetes", "nerve-oxygenation"]
-primaryKeyword: "foods for nerve oxygenation in diabetic neuropathy"
-topicCluster: "nerve-oxygenation"
-image: ""
-relatedSlugs: ["12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79", "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration", "natural-ways-to-enhance-myocardial-nitric-oxide-synthase-coupling-without-l-arginine-using-beetroot-derived-nitrate-exercise-timing-and-oral-microbiome-support-in-sedentary-adults-68", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max"]
+title: >-
+  10 Foods That Improve Peripheral Nerve Oxygenation in Adults With Diabetic
+  Polyneuropathy Over 69—Backed by Near-Infrared Spectroscopy Data
+slug: >-
+  10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data
+description: >-
+  Highlights nitrate-rich greens, heme iron sources, and flavonoid-dense berries
+  shown to increase tissue oxygen saturation (StO₂) in lower-limb nerves via
+  NIRS imaging.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: foods for nerve oxygenation in diabetic neuropathy
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
+  - >-
+    natural-ways-to-enhance-myocardial-nitric-oxide-synthase-coupling-without-l-arginine-using-beetroot-derived-nitrate-exercise-timing-and-oral-microbiome-support-in-sedentary-adults-68
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
 ---
 
 # Top Foods for Nerve Oxygenation in Diabetic Neuropathy—Supported by Real-Time Tissue Imaging

@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Improve Glycemic Response to White Rice in Adults 62+ With Asian Heritage and High Postprandial Glucose"
-slug: "10-foods-that-improve-glycemic-response-to-white-rice-in-adults-62-with-asian-heritage-and-high-postprandial-glucose"
-description: "Analyzes synergistic food pairing effects: black vinegar, shiitake mushrooms (ergosterol), fermented soy, and green tea catechins — with glycemic index reduction percentages and ideal order-of-eating sequence."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["white rice glycemic response food pairing", "diabetes", "culturally-adapted-glucose-modulation"]
-primaryKeyword: "white rice glycemic response food pairing"
-topicCluster: "culturally-adapted-glucose-modulation"
-image: ""
-relatedSlugs: ["10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome", "12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65", "12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy", "10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia"]
+title: >-
+  10 Foods That Improve Glycemic Response to White Rice in Adults 62+ With Asian
+  Heritage and High Postprandial Glucose
+slug: >-
+  10-foods-that-improve-glycemic-response-to-white-rice-in-adults-62-with-asian-heritage-and-high-postprandial-glucose
+description: >-
+  Analyzes synergistic food pairing effects: black vinegar, shiitake mushrooms
+  (ergosterol), fermented soy, and green tea catechins — with glycemic index
+  reduction percentages and ideal order-of-eating sequence.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: white rice glycemic response food pairing
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
+  - >-
+    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
+  - >-
+    12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - >-
+    10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia
 ---
 
 # 10 Culturally Familiar Foods That Support Healthier White Rice Glycemic Response Food Pairing for Adults 62+ With Asian Heritage

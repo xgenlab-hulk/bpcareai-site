@@ -6,12 +6,8 @@ description: >-
   and how timing affects insulin sensitivity during the holidays.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - napping after meals blood sugar
-  - managing blood sugar during Christmas and New Year
-  - postprandial-glucose-habits
 primaryKeyword: napping after meals blood sugar
-topicCluster: diabetes-care
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - can-walking-after-meals-lower-blood-sugar-in-older-adults

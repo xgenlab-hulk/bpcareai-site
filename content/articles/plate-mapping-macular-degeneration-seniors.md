@@ -1,14 +1,30 @@
 ---
-title: "What Research Says About 'Plate Mapping' for Seniors With Macular Degeneration — Using Color Contrast, Texture Cues, and Portion-Size Landmarks to Prevent Overeating"
-slug: "what-research-says-about-plate-mapping-for-seniors-with-macular-degeneration-using-color-contrast-texture-cues-and-portion-size-landmarks-to-prevent-overeating"
-description: "Details vision-adapted plate composition techniques validated in low-vision dining studies, with printable templates and lighting recommendations for holiday tables."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["plate mapping macular degeneration seniors", "healthy holiday eating for seniors", "vision-adapted-nutrition"]
-primaryKeyword: "plate mapping macular degeneration seniors"
-topicCluster: "vision-adapted-nutrition"
-image: ""
-relatedSlugs: ["how-holiday-tablecloth-patterns-and-low-light-centerpieces-impair-food-recognition-in-adults-78-with-early-macular-degeneration-and-what-to-serve-instead", "the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations", "simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection", "the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration", "simple-steps-to-adjust-your-holiday-dessert-portion-before-the-first-bite-using-visual-cues-that-work-for-adults-83-with-age-related-visual-processing-decline"]
+title: >-
+  What Research Says About 'Plate Mapping' for Seniors With Macular Degeneration
+  — Using Color Contrast, Texture Cues, and Portion-Size Landmarks to Prevent
+  Overeating
+slug: >-
+  what-research-says-about-plate-mapping-for-seniors-with-macular-degeneration-using-color-contrast-texture-cues-and-portion-size-landmarks-to-prevent-overeating
+description: >-
+  Details vision-adapted plate composition techniques validated in low-vision
+  dining studies, with printable templates and lighting recommendations for
+  holiday tables.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: plate mapping macular degeneration seniors
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-tablecloth-patterns-and-low-light-centerpieces-impair-food-recognition-in-adults-78-with-early-macular-degeneration-and-what-to-serve-instead
+  - >-
+    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
+  - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
+  - >-
+    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
+  - >-
+    simple-steps-to-adjust-your-holiday-dessert-portion-before-the-first-bite-using-visual-cues-that-work-for-adults-83-with-age-related-visual-processing-decline
 ---
 
 # Plate Mapping for Seniors With Macular Degeneration: Simple, Science-Backed Ways to Enjoy Holiday Meals Without Overeating

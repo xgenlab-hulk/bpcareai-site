@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Nighttime Cough From Untreated GERD Triggers Nocturnal Atrial Fibrillation in Men 70+ With Mild COPD"
-slug: "how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd"
-description: "Details the vagally mediated esophago-atrial reflex, autonomic dysregulation, and intrathoracic pressure swings linking reflux to arrhythmia — with practical airway positioning and pH-monitoring guidance."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["gerd-induced afib men 70+ copd", "heart disease", "gastro-cardiac-interactions"]
-primaryKeyword: "gerd-induced afib men 70+ copd"
-topicCluster: "gastro-cardiac-interactions"
-image: ""
-relatedSlugs: ["7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring", "best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp", "warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis", "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60", "how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65"]
+title: >-
+  How Chronic Nighttime Cough From Untreated GERD Triggers Nocturnal Atrial
+  Fibrillation in Men 70+ With Mild COPD
+slug: >-
+  how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd
+description: >-
+  Details the vagally mediated esophago-atrial reflex, autonomic dysregulation,
+  and intrathoracic pressure swings linking reflux to arrhythmia — with
+  practical airway positioning and pH-monitoring guidance.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: gerd-induced afib men 70+ copd
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
+  - >-
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
+  - >-
+    warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
+  - >-
+    how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
 ---
 
 # How GERD-Induced AFib in Men 70+ With Mild COPD Develops—and What You Can Do

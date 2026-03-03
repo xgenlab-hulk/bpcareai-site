@@ -6,12 +6,8 @@ description: >-
   and heart health.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - hearing loss as early sign of heart disease
-  - heart disease
-  - heart-health
 primaryKeyword: hearing loss as early sign of heart disease
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - is-your-posture-affecting-your-heart-what-older-adults-should-know

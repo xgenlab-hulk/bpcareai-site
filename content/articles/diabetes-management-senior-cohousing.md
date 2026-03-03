@@ -1,14 +1,30 @@
 ---
-title: "The Complete Guide to Managing Diabetes *While Living in a Senior Cohousing Community* — Meal Planning Coordination, Shared CGM Alerts, and Emergency Response Protocols for Adults 73+"
-slug: "the-complete-guide-to-managing-diabetes-while-living-in-a-senior-cohousing-community-meal-planning-coordination-shared-cgm-alerts-and-emergency-response-protocols-for-adults-73"
-description: "Step-by-step framework for collaborative diabetes care in intentional senior living—covering privacy-compliant shared monitoring, communal meal modifications, and co-resident emergency training."
-date: "2026-02-23"
-updated: "2026-02-23"
-tags: ["diabetes management senior cohousing", "diabetes", "communal-living-diabetes-care"]
-primaryKeyword: "diabetes management senior cohousing"
-topicCluster: "communal-living-diabetes-care"
-image: ""
-relatedSlugs: ["the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-dementia-practical-strategies-for-medication-adherence-meal-timing-conflicts-and-cgm-data-sharing-in-adults-66", "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout", "the-complete-guide-to-managing-diabetes-during-intergenerational-holiday-hosting-practical-strategies-for-adults-61-74-with-mild-cognitive-load-and-caregiver-fatigue", "the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations", "the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction"]
+title: >-
+  The Complete Guide to Managing Diabetes *While Living in a Senior Cohousing
+  Community* — Meal Planning Coordination, Shared CGM Alerts, and Emergency
+  Response Protocols for Adults 73+
+slug: >-
+  the-complete-guide-to-managing-diabetes-while-living-in-a-senior-cohousing-community-meal-planning-coordination-shared-cgm-alerts-and-emergency-response-protocols-for-adults-73
+description: >-
+  Step-by-step framework for collaborative diabetes care in intentional senior
+  living—covering privacy-compliant shared monitoring, communal meal
+  modifications, and co-resident emergency training.
+date: '2026-02-23'
+updated: '2026-02-23'
+primaryKeyword: diabetes management senior cohousing
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-dementia-practical-strategies-for-medication-adherence-meal-timing-conflicts-and-cgm-data-sharing-in-adults-66
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
+  - >-
+    the-complete-guide-to-managing-diabetes-during-intergenerational-holiday-hosting-practical-strategies-for-adults-61-74-with-mild-cognitive-load-and-caregiver-fatigue
+  - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
+  - >-
+    the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
 ---
 
 # Collaborative Diabetes Management in Senior Cohousing: A Practical Guide for Adults 73+

@@ -1,14 +1,30 @@
 ---
-title: "5 Things Every Woman Over 62 Should Know About Holiday Cortisol Surges and Their Impact on Visceral Fat Redistribution in Prediabetes"
-slug: "5-things-every-woman-over-62-should-know-about-holiday-cortisol-surges-and-their-impact-on-visceral-fat-redistribution-in-prediabetes"
-description: "Highlights sex-specific mechanisms linking holiday-related psychosocial stress to abdominal adipocyte hyperplasia, reduced adiponectin, and accelerated progression from prediabetes to overt T2D — especially during perimenopausal transition windows."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["women holiday cortisol and prediabetes", "holiday diabetes management", "gender-hormone-metabolism"]
-primaryKeyword: "women holiday cortisol and prediabetes"
-topicCluster: "gender-hormone-metabolism"
-image: ""
-relatedSlugs: ["what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp", "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70", "how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance", "how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing", "5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing"]
+title: >-
+  5 Things Every Woman Over 62 Should Know About Holiday Cortisol Surges and
+  Their Impact on Visceral Fat Redistribution in Prediabetes
+slug: >-
+  5-things-every-woman-over-62-should-know-about-holiday-cortisol-surges-and-their-impact-on-visceral-fat-redistribution-in-prediabetes
+description: >-
+  Highlights sex-specific mechanisms linking holiday-related psychosocial stress
+  to abdominal adipocyte hyperplasia, reduced adiponectin, and accelerated
+  progression from prediabetes to overt T2D — especially during perimenopausal
+  transition windows.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: women holiday cortisol and prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
+  - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+  - >-
+    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
+  - >-
+    how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing
+  - >-
+    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
 ---
 
 # What Women Over 62 Need to Know About Women Holiday Cortisol and Prediabetes

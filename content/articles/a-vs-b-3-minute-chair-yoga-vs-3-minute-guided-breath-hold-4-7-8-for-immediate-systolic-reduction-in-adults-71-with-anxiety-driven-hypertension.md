@@ -1,14 +1,29 @@
 ---
-title: "A vs B: 3-Minute Chair Yoga vs. 3-Minute Guided Breath-Hold (4-7-8) for Immediate Systolic Reduction in Adults 71+ With Anxiety-Driven Hypertension"
-slug: "a-vs-b-3-minute-chair-yoga-vs-3-minute-guided-breath-hold-4-7-8-for-immediate-systolic-reduction-in-adults-71-with-anxiety-driven-hypertension"
-description: "Compares acute autonomic effects — vagal activation, cerebral perfusion pressure shifts, and cortical arousal suppression — using real-time PPG and HRV metrics in frail seniors."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["chair yoga vs breath hold bp", "blood pressure", "acute-autonomic-interventions"]
-primaryKeyword: "chair yoga vs breath hold bp"
-topicCluster: "acute-autonomic-interventions"
-image: ""
-relatedSlugs: ["does-daily-10-minute-guided-vagal-breathing-lower-central-systolic-pressure-in-adults-60-73-with-elevated-aortic-augmentation-index-and-high-job-stress", "quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension", "best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety", "quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety", "12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults"]
+title: >-
+  A vs B: 3-Minute Chair Yoga vs. 3-Minute Guided Breath-Hold (4-7-8) for
+  Immediate Systolic Reduction in Adults 71+ With Anxiety-Driven Hypertension
+slug: >-
+  a-vs-b-3-minute-chair-yoga-vs-3-minute-guided-breath-hold-4-7-8-for-immediate-systolic-reduction-in-adults-71-with-anxiety-driven-hypertension
+description: >-
+  Compares acute autonomic effects — vagal activation, cerebral perfusion
+  pressure shifts, and cortical arousal suppression — using real-time PPG and
+  HRV metrics in frail seniors.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: chair yoga vs breath hold bp
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-10-minute-guided-vagal-breathing-lower-central-systolic-pressure-in-adults-60-73-with-elevated-aortic-augmentation-index-and-high-job-stress
+  - >-
+    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
+  - >-
+    best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
+  - >-
+    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+  - >-
+    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
 ---
 
 # Chair Yoga vs Breath Hold BP: Which 3-Minute Practice Offers Gentle, Immediate Support for Systolic Pressure in Adults 71+ With Anxiety-Driven Hypertension?

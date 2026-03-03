@@ -1,14 +1,30 @@
 ---
-title: "Does Daily 10-Minute Cold-Water Immersion (12°C) Improve HRV and Reduce NT-proBNP in Adults 59–70 With Stage B Heart Failure?"
-slug: "does-daily-10-minute-cold-water-immersion-12-c-improve-hrv-and-reduce-nt-probnp-in-adults-59-70-with-stage-b-heart-failure"
-description: "Reviews emerging RCT data on cold adaptation’s effect on vagal tone, myocardial stretch biomarkers, and sympathetic overactivity—plus safety thresholds, contraindications for PAD or Raynaud’s, and home protocol guidelines."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["cold water immersion heart failure hrv", "heart disease", "cold-therapy-cardiology"]
-primaryKeyword: "cold water immersion heart failure hrv"
-topicCluster: "cold-therapy-cardiology"
-image: ""
-relatedSlugs: ["can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension", "does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv", "does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown", "can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct", "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns"]
+title: >-
+  Does Daily 10-Minute Cold-Water Immersion (12°C) Improve HRV and Reduce
+  NT-proBNP in Adults 59–70 With Stage B Heart Failure?
+slug: >-
+  does-daily-10-minute-cold-water-immersion-12-c-improve-hrv-and-reduce-nt-probnp-in-adults-59-70-with-stage-b-heart-failure
+description: >-
+  Reviews emerging RCT data on cold adaptation’s effect on vagal tone,
+  myocardial stretch biomarkers, and sympathetic overactivity—plus safety
+  thresholds, contraindications for PAD or Raynaud’s, and home protocol
+  guidelines.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: cold water immersion heart failure hrv
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+  - >-
+    does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv
+  - >-
+    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
+  - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
 ---
 
 # Can Cold Water Immersion Heart Failure HRV Support Vagal Tone and Cardiac Biomarkers in Adults 59–70?

@@ -10,12 +10,8 @@ description: >-
   BP-tracking benchmarks for ages 55–80.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - breathing technique lower systolic bp
-  - blood pressure
-  - natural-remedies-breathing
 primaryKeyword: breathing technique lower systolic bp
-topicCluster: treatment-interventions
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-deep-breathing-exercises-reduce-high-blood-pressure

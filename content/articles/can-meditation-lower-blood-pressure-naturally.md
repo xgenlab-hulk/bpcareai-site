@@ -6,10 +6,6 @@ description: >-
   hypertension without medication.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - meditation to lower blood pressure naturally
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: meditation to lower blood pressure naturally
 topicCluster: hypertension-management
 image: ''

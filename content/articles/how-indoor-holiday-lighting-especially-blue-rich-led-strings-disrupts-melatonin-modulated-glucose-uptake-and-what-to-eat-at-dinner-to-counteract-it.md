@@ -1,14 +1,28 @@
 ---
-title: "How Indoor Holiday Lighting (Especially Blue-Rich LED Strings) Disrupts Melatonin-Modulated Glucose Uptake — And What to Eat at Dinner to Counteract It"
-slug: "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it"
-description: "Links circadian light exposure to insulin receptor sensitivity in aging muscle tissue, with a targeted pre-bedtime meal pattern to buffer metabolic disruption from festive lighting."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["holiday lighting glucose uptake seniors", "healthy holiday eating for seniors", "circadian-metabolism-link"]
-primaryKeyword: "holiday lighting glucose uptake seniors"
-topicCluster: "circadian-metabolism-link"
-image: ""
-relatedSlugs: ["the-connection-between-holiday-light-exposure-and-blood-sugar-regulation", "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65", "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s"]
+title: >-
+  How Indoor Holiday Lighting (Especially Blue-Rich LED Strings) Disrupts
+  Melatonin-Modulated Glucose Uptake — And What to Eat at Dinner to Counteract
+  It
+slug: >-
+  how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+description: >-
+  Links circadian light exposure to insulin receptor sensitivity in aging muscle
+  tissue, with a targeted pre-bedtime meal pattern to buffer metabolic
+  disruption from festive lighting.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: holiday lighting glucose uptake seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
 ---
 
 # How Holiday Lighting Glucose Uptake in Seniors Is Affected — And Simple, Soothing Dinner Strategies to Support Your Rhythm

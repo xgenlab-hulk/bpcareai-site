@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: 'My Blood Pressure Is Normal Because My Arm Cuff Reads Fine' in Adults With Severe Peripheral Artery Disease and Calcified Brachial Arteries"
-slug: "myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries"
-description: "Debunks cuff-based misdiagnosis in PAD patients—showing how calcified vessels cause pseudohypertension and why radial tonometry or oscillometric thigh cuffs are essential."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["pseudohypertension peripheral artery disease", "blood pressure", "pseudohypertension-diagnosis-errors"]
-primaryKeyword: "pseudohypertension peripheral artery disease"
-topicCluster: "pseudohypertension-diagnosis-errors"
-image: ""
-relatedSlugs: ["warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema", "warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation", "dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands", "myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65", "quick-ways-to-calibrate-your-home-blood-pressure-cuff-using-the-triple-reading-posture-reset-validated-in-adults-with-arthritis-and-limited-shoulder-mobility"]
+title: >-
+  Myths vs Facts: 'My Blood Pressure Is Normal Because My Arm Cuff Reads Fine'
+  in Adults With Severe Peripheral Artery Disease and Calcified Brachial
+  Arteries
+slug: >-
+  myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries
+description: >-
+  Debunks cuff-based misdiagnosis in PAD patients—showing how calcified vessels
+  cause pseudohypertension and why radial tonometry or oscillometric thigh cuffs
+  are essential.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: pseudohypertension peripheral artery disease
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
+  - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+  - >-
+    quick-ways-to-calibrate-your-home-blood-pressure-cuff-using-the-triple-reading-posture-reset-validated-in-adults-with-arthritis-and-limited-shoulder-mobility
 ---
 
 # Pseudohypertension in Peripheral Artery Disease: Why a Normal Arm Cuff Reading Can Be Misleading

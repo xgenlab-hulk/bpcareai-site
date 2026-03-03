@@ -1,14 +1,27 @@
 ---
-title: "Myths vs Facts: 'I Only Drink Wine — So I’m Safe From Holiday Heart Syndrome' in Adults 55–71 With Metabolic Syndrome"
-slug: "myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome"
-description: "Deconstructs 5 persistent wine-specific misconceptions (e.g., 'resveratrol protects', 'low ABV = low risk', 'food pairing neutralizes risk') using real-world data from the 2024 Holiday Heart Cohort on AFib incidence stratified by beverage type and metabolic phenotype."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["wine holiday heart syndrome myths", "holiday heart syndrome prevention", "beverage-myth-debunking"]
-primaryKeyword: "wine holiday heart syndrome myths"
-topicCluster: "beverage-myth-debunking"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers", "is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues", "the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk", "best-non-alcoholic-holiday-drinks-for-heart-health-after-50", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues"]
+title: >-
+  Myths vs Facts: 'I Only Drink Wine — So I’m Safe From Holiday Heart Syndrome'
+  in Adults 55–71 With Metabolic Syndrome
+slug: >-
+  myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
+description: >-
+  Deconstructs 5 persistent wine-specific misconceptions (e.g., 'resveratrol
+  protects', 'low ABV = low risk', 'food pairing neutralizes risk') using
+  real-world data from the 2024 Holiday Heart Cohort on AFib incidence
+  stratified by beverage type and metabolic phenotype.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: wine holiday heart syndrome myths
+topicCluster: metabolic-syndrome-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
+  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk
+  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
 ---
 
 # Wine Holiday Heart Syndrome Myths: What Adults 55–71 With Metabolic Syndrome *Really* Need to Know

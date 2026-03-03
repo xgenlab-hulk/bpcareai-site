@@ -6,12 +6,8 @@ description: >-
   in people aged 45–65.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - obesity and heart disease in middle age
-  - heart disease
-  - hypertension-lifestyle
 primaryKeyword: obesity and heart disease in middle age
-topicCluster: hypertension-management
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - how-type-2-diabetes-increases-heart-disease-risk-after-50

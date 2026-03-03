@@ -1,14 +1,26 @@
 ---
-title: "A vs B: Walking 10 Minutes After Each Meal vs. One 30-Minute Session Daily for Postprandial Glucose Control in Adults 55–69 With Prediabetes"
-slug: "a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes"
-description: "Compares real-world glycemic impact using continuous glucose monitoring (CGM) data from a 2024 pragmatic trial—highlighting timing, intensity, and individual variability in response."
-date: "2025-12-31"
-updated: "2025-12-31"
-tags: ["walking after meals vs daily walk prediabetes", "diabetes", "exercise-timing-glucose"]
-primaryKeyword: "walking after meals vs daily walk prediabetes"
-topicCluster: "exercise-timing-glucose"
-image: ""
-relatedSlugs: ["can-walking-after-meals-lower-blood-sugar-in-older-adults", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy", "how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts"]
+title: >-
+  A vs B: Walking 10 Minutes After Each Meal vs. One 30-Minute Session Daily for
+  Postprandial Glucose Control in Adults 55–69 With Prediabetes
+slug: >-
+  a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+description: >-
+  Compares real-world glycemic impact using continuous glucose monitoring (CGM)
+  data from a 2024 pragmatic trial—highlighting timing, intensity, and
+  individual variability in response.
+date: '2025-12-31'
+updated: '2025-12-31'
+primaryKeyword: walking after meals vs daily walk prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---
 
 # Walking After Meals vs Daily Walk for Prediabetes: What the Latest CGM Data Really Shows

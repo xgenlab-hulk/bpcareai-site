@@ -1,14 +1,29 @@
 ---
-title: "7 Silent Signs Your Holiday Indigestion Isn’t Just ‘Overeating’ — It Could Be Early Gastric Neuropathy in Adults Over 72"
-slug: "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72"
-description: "Identifies subtle, age-specific gastrointestinal red flags (e.g., early satiety, delayed nausea) that signal autonomic nerve involvement—not simple overindulgence—during festive meals."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["senior holiday indigestion warning signs", "healthy holiday eating for seniors", "gastrointestinal-warning-signs"]
-primaryKeyword: "senior holiday indigestion warning signs"
-topicCluster: "gastrointestinal-warning-signs"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear", "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75", "simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68"]
+title: >-
+  7 Silent Signs Your Holiday Indigestion Isn’t Just ‘Overeating’ — It Could Be
+  Early Gastric Neuropathy in Adults Over 72
+slug: >-
+  7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
+description: >-
+  Identifies subtle, age-specific gastrointestinal red flags (e.g., early
+  satiety, delayed nausea) that signal autonomic nerve involvement—not simple
+  overindulgence—during festive meals.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: senior holiday indigestion warning signs
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # 7 Subtle Senior Holiday Indigestion Warning Signs That May Signal Gastric Neuropathy—Not Just Overeating

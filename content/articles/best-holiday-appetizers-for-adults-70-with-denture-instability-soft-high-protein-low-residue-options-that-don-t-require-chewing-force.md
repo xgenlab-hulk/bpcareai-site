@@ -1,14 +1,28 @@
 ---
-title: "Best Holiday Appetizers for Adults 70+ With Denture Instability — Soft, High-Protein, Low-Residue Options That Don’t Require Chewing Force"
-slug: "best-holiday-appetizers-for-adults-70-with-denture-instability-soft-high-protein-low-residue-options-that-don-t-require-chewing-force"
-description: "Features 8 dentist-vetted, nutrient-dense finger foods optimized for oral motor safety, thermal tolerance, and satiety signaling without mechanical stress."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["holiday appetizers denture instability seniors", "healthy holiday eating for seniors", "oral-motor-nutrition"]
-primaryKeyword: "holiday appetizers denture instability seniors"
-topicCluster: "oral-motor-nutrition"
-image: ""
-relatedSlugs: ["holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues", "natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia", "10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress", "best-low-allergen-holiday-side-dishes-for-adults-75-with-late-onset-tree-nut-allergy-and-eosinophilic-esophagitis", "10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia"]
+title: >-
+  Best Holiday Appetizers for Adults 70+ With Denture Instability — Soft,
+  High-Protein, Low-Residue Options That Don’t Require Chewing Force
+slug: >-
+  best-holiday-appetizers-for-adults-70-with-denture-instability-soft-high-protein-low-residue-options-that-don-t-require-chewing-force
+description: >-
+  Features 8 dentist-vetted, nutrient-dense finger foods optimized for oral
+  motor safety, thermal tolerance, and satiety signaling without mechanical
+  stress.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: holiday appetizers denture instability seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
+  - >-
+    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
+  - >-
+    10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress
+  - >-
+    best-low-allergen-holiday-side-dishes-for-adults-75-with-late-onset-tree-nut-allergy-and-eosinophilic-esophagitis
+  - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
 ---
 
 # Soft & Satisfying Holiday Appetizers for Seniors With Denture Instability  

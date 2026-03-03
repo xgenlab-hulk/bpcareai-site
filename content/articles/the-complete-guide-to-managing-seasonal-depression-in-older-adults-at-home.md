@@ -6,12 +6,8 @@ description: >-
   to seek professional help.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - complete guide seasonal depression seniors
-  - seasonal depression in older adults
-  - comprehensive-management
 primaryKeyword: complete guide seasonal depression seniors
-topicCluster: complications-comorbidities
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication

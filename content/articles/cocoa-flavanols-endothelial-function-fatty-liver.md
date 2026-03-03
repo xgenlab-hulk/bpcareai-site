@@ -10,12 +10,8 @@ description: >-
   fat content predicts responsiveness more than BMI or HbA1c.
 date: '2026-01-12'
 updated: '2026-01-12'
-tags:
-  - cocoa flavanols endothelial function fatty liver
-  - heart disease
-  - polyphenol-microbiome-cardiology
 primaryKeyword: cocoa flavanols endothelial function fatty liver
-topicCluster: polyphenol-microbiome-cardiology
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

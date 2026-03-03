@@ -1,14 +1,28 @@
 ---
-title: "Warning Signs Your 'Stable' Diabetes Is Masking Early Cognitive Decline — Especially If You’re a Man Over 69 With HbA1c 6.8–7.4"
-slug: "warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4"
-description: "Highlights subtle neurobehavioral cues (e.g., medication timing errors, route-finding hesitancy, word substitution) linked to hippocampal glucose hypometabolism — plus validated screening tools for home use."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["diabetes cognitive decline warning signs men 69+", "diabetes", "neurocognitive-early-detection"]
-primaryKeyword: "diabetes cognitive decline warning signs men 69+"
-topicCluster: "neurocognitive-early-detection"
-image: ""
-relatedSlugs: ["warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78", "the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you", "7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64", "warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes"]
+title: >-
+  Warning Signs Your 'Stable' Diabetes Is Masking Early Cognitive Decline —
+  Especially If You’re a Man Over 69 With HbA1c 6.8–7.4
+slug: >-
+  warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
+description: >-
+  Highlights subtle neurobehavioral cues (e.g., medication timing errors,
+  route-finding hesitancy, word substitution) linked to hippocampal glucose
+  hypometabolism — plus validated screening tools for home use.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: diabetes cognitive decline warning signs men 69+
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
+  - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+  - >-
+    7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
+  - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
 ---
 
 # Early Diabetes Cognitive Decline Warning Signs in Men 69+: What Subtle Changes May Signal Brain Health Shifts

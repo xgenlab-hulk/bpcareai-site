@@ -1,14 +1,29 @@
 ---
-title: "12 Foods That Support Cardiac Fibroblast Quiescence *Without* Inhibiting Wound Healing — For Adults 69+ With Prior Myocardial Infarction and Stable Scar"
-slug: "12-foods-that-support-cardiac-fibroblast-quiescence-without-inhibiting-wound-healing-for-adults-69-with-prior-myocardial-infarction-and-stable-scar"
-description: "Highlights dietary compounds (e.g., epigallocatechin gallate, urolithin A, apigenin) that modulate fibroblast activation while preserving collagen integrity in healed myocardium."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["foods for cardiac fibroblast quiescence", "heart disease", "post-mi-tissue-maintenance"]
-primaryKeyword: "foods for cardiac fibroblast quiescence"
-topicCluster: "post-mi-tissue-maintenance"
-image: ""
-relatedSlugs: ["12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib", "natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy", "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max"]
+title: >-
+  12 Foods That Support Cardiac Fibroblast Quiescence *Without* Inhibiting Wound
+  Healing — For Adults 69+ With Prior Myocardial Infarction and Stable Scar
+slug: >-
+  12-foods-that-support-cardiac-fibroblast-quiescence-without-inhibiting-wound-healing-for-adults-69-with-prior-myocardial-infarction-and-stable-scar
+description: >-
+  Highlights dietary compounds (e.g., epigallocatechin gallate, urolithin A,
+  apigenin) that modulate fibroblast activation while preserving collagen
+  integrity in healed myocardium.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: foods for cardiac fibroblast quiescence
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+  - >-
+    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
 ---
 
 # Foods for Cardiac Fibroblast Quiescence: Gentle, Heart-Smart Choices After a Heart Attack  

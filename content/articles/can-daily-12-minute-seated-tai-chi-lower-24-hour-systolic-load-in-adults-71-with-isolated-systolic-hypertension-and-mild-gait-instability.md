@@ -1,14 +1,29 @@
 ---
-title: "Can Daily 12-Minute Seated Tai Chi Lower 24-Hour Systolic Load in Adults 71+ With Isolated Systolic Hypertension and Mild Gait Instability?"
-slug: "can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability"
-description: "Examines evidence on low-impact mind-body movement protocols that reduce arterial stiffness and sympathetic tone without requiring balance-intensive stances."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["seated tai chi isolated systolic hypertension", "blood pressure", "nonpharmacologic-interventions"]
-primaryKeyword: "seated tai chi isolated systolic hypertension"
-topicCluster: "nonpharmacologic-interventions"
-image: ""
-relatedSlugs: ["does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability", "a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension", "a-vs-b-12-minute-tai-chi-qigong-flow-vs-guided-4-7-8-breathing-with-biofeedback-impact-on-central-aortic-systolic-pressure-in-women-69-with-isolated-systolic-hypertension", "a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension", "best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension"]
+title: >-
+  Can Daily 12-Minute Seated Tai Chi Lower 24-Hour Systolic Load in Adults 71+
+  With Isolated Systolic Hypertension and Mild Gait Instability?
+slug: >-
+  can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
+description: >-
+  Examines evidence on low-impact mind-body movement protocols that reduce
+  arterial stiffness and sympathetic tone without requiring balance-intensive
+  stances.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: seated tai chi isolated systolic hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability
+  - >-
+    a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension
+  - >-
+    a-vs-b-12-minute-tai-chi-qigong-flow-vs-guided-4-7-8-breathing-with-biofeedback-impact-on-central-aortic-systolic-pressure-in-women-69-with-isolated-systolic-hypertension
+  - >-
+    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
+  - >-
+    best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
 ---
 
 # Can Seated Tai Chi Help Manage Isolated Systolic Hypertension in Older Adults With Mobility Concerns?

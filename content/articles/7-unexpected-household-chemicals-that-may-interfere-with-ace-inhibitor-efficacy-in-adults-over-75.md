@@ -10,12 +10,8 @@ description: >-
   inhibitors.
 date: '2026-01-08'
 updated: '2026-01-08'
-tags:
-  - household chemicals ace inhibitor interference
-  - blood pressure
-  - medication-interactions
 primaryKeyword: household chemicals ace inhibitor interference
-topicCluster: medication-interactions
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-

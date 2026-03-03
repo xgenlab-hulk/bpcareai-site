@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About Post-Dinner Fatigue After Holiday Gatherings — Distinguishing Normal Aging From Early Mitochondrial Decline in Men 68+"
-slug: "when-to-worry-about-post-dinner-fatigue-after-holiday-gatherings-distinguishing-normal-aging-from-early-mitochondrial-decline-in-men-68"
-description: "Guides recognition of fatigue patterns linked to age-related mitochondrial inefficiency vs. benign postprandial somnolence, with at-home functional screening cues."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["post-dinner fatigue mitochondrial decline seniors", "healthy holiday eating for seniors", "energy-metabolism"]
-primaryKeyword: "post-dinner fatigue mitochondrial decline seniors"
-topicCluster: "energy-metabolism"
-image: ""
-relatedSlugs: ["what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings", "when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea", "when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea", "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else", "what-causes-sudden-post-dinner-fatigue-only-when-eating-at-your-daughter-s-house-the-role-of-ambient-vocs-carpet-off-gassing-and-mitochondrial-stress-in-adults-64-with-fibromyalgia"]
+title: >-
+  When to Worry About Post-Dinner Fatigue After Holiday Gatherings —
+  Distinguishing Normal Aging From Early Mitochondrial Decline in Men 68+
+slug: >-
+  when-to-worry-about-post-dinner-fatigue-after-holiday-gatherings-distinguishing-normal-aging-from-early-mitochondrial-decline-in-men-68
+description: >-
+  Guides recognition of fatigue patterns linked to age-related mitochondrial
+  inefficiency vs. benign postprandial somnolence, with at-home functional
+  screening cues.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: post-dinner fatigue mitochondrial decline seniors
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
+  - >-
+    when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea
+  - >-
+    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
+  - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
+  - >-
+    what-causes-sudden-post-dinner-fatigue-only-when-eating-at-your-daughter-s-house-the-role-of-ambient-vocs-carpet-off-gassing-and-mitochondrial-stress-in-adults-64-with-fibromyalgia
 ---
 
 # When Post-Dinner Fatigue in Seniors Might Signal Mitochondrial Changes — And When It’s Just Holiday Warmth  

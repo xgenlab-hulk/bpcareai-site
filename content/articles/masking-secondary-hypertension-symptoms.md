@@ -1,14 +1,30 @@
 ---
-title: "Warning Signs Your 'Mild' Blood Pressure Elevation Is Actually Masking Secondary Hypertension — Especially With Concurrent Sleep Fragmentation and Unexplained Weight Gain in Adults 55–64"
-slug: "warning-signs-your-mild-blood-pressure-elevation-is-actually-masking-secondary-hypertension-especially-with-concurrent-sleep-fragmentation-and-unexplained-weight-gain-in-adults-55-64"
-description: "Highlights underrecognized red flags (e.g., resistant diastolic elevation, nocturnal polyuria, morning cortisol surge patterns) pointing to endocrine or renal causes in midlife adults."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["masking-secondary-hypertension-symptoms", "blood pressure", "secondary-hypertension-detection"]
-primaryKeyword: "masking-secondary-hypertension-symptoms"
-topicCluster: "secondary-hypertension-detection"
-image: ""
-relatedSlugs: ["when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium", "7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal", "7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "when-to-worry-about-white-coat-readings-that-persist-in-the-er-differentiating-acute-hypertensive-urgency-from-masked-stress-induced-surges-in-adults-68"]
+title: >-
+  Warning Signs Your 'Mild' Blood Pressure Elevation Is Actually Masking
+  Secondary Hypertension — Especially With Concurrent Sleep Fragmentation and
+  Unexplained Weight Gain in Adults 55–64
+slug: >-
+  warning-signs-your-mild-blood-pressure-elevation-is-actually-masking-secondary-hypertension-especially-with-concurrent-sleep-fragmentation-and-unexplained-weight-gain-in-adults-55-64
+description: >-
+  Highlights underrecognized red flags (e.g., resistant diastolic elevation,
+  nocturnal polyuria, morning cortisol surge patterns) pointing to endocrine or
+  renal causes in midlife adults.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: masking-secondary-hypertension-symptoms
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    when-to-worry-about-white-coat-readings-that-persist-in-the-er-differentiating-acute-hypertensive-urgency-from-masked-stress-induced-surges-in-adults-68
 ---
 
 # Recognizing Masking-Secondary-Hypertension-Symptoms in Midlife: What ‘Mild’ Blood Pressure Elevation Might Really Be Telling You

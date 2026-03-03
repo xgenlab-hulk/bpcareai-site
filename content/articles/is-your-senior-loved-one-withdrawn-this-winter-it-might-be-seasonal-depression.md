@@ -8,12 +8,8 @@ description: >-
   changes as possible clinical signs.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - withdrawn behavior in seniors winter
-  - seasonal depression in older adults
-  - behavioral-changes
 primaryKeyword: withdrawn behavior in seniors winter
-topicCluster: lifestyle-changes
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

@@ -1,14 +1,30 @@
 ---
-title: "Quick Ways to Reduce Post-Holiday HbA1c *Without* Weight Loss — Using 3-Day Postprandial Glucose Reset Protocols in Adults 60–71 With Stable BMI and Elevated A1c"
-slug: "quick-ways-to-reduce-post-holiday-hba1c-without-weight-loss-using-3-day-postprandial-glucose-reset-protocols-in-adults-60-71-with-stable-bmi-and-elevated-a1c"
-description: "Details a clinically validated 3-day reset: targeted fiber sequencing, timed resistance micro-bouts, and evening blue-light reduction — with A1c delta predictions from 12-week CGM modeling."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["reduce hba1c without weight loss", "holiday diabetes management", "hba1c-reset-strategy"]
-primaryKeyword: "reduce hba1c without weight loss"
-topicCluster: "hba1c-reset-strategy"
-image: ""
-relatedSlugs: ["3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes", "12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement", "12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-55-72-with-long-standing-type-2-diabetes", "12-science-backed-ways-to-reduce-glycemic-variability-not-just-lower-a1c-in-adults-55-71-with-type-2-diabetes-and-frequent-hypoglycemia", "12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years"]
+title: >-
+  Quick Ways to Reduce Post-Holiday HbA1c *Without* Weight Loss — Using 3-Day
+  Postprandial Glucose Reset Protocols in Adults 60–71 With Stable BMI and
+  Elevated A1c
+slug: >-
+  quick-ways-to-reduce-post-holiday-hba1c-without-weight-loss-using-3-day-postprandial-glucose-reset-protocols-in-adults-60-71-with-stable-bmi-and-elevated-a1c
+description: >-
+  Details a clinically validated 3-day reset: targeted fiber sequencing, timed
+  resistance micro-bouts, and evening blue-light reduction — with A1c delta
+  predictions from 12-week CGM modeling.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: reduce hba1c without weight loss
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
+  - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
+  - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-55-72-with-long-standing-type-2-diabetes
+  - >-
+    12-science-backed-ways-to-reduce-glycemic-variability-not-just-lower-a1c-in-adults-55-71-with-type-2-diabetes-and-frequent-hypoglycemia
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # Quick, Gentle Ways to Reduce HbA1c Without Weight Loss — A 3-Day Post-Holiday Reset for Adults 60–71

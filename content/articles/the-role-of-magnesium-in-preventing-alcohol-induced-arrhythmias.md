@@ -6,12 +6,8 @@ description: >-
   syndrome and whether supplementation helps.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - magnesium alcohol arrhythmias
-  - holiday heart syndrome prevention
-  - supplements
 primaryKeyword: magnesium alcohol arrhythmias
-topicCluster: medications-supplements
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol

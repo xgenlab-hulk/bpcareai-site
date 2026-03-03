@@ -1,14 +1,30 @@
 ---
-title: "What Causes Sudden Blood Pressure Dips *Only* While Reading Fine Print on Prescription Labels — And Why That Triggers Transient Cerebral Hypoperfusion in Adults 79+ With Presbyopia and Carotid Stenosis <50%"
-slug: "what-causes-sudden-blood-pressure-dips-only-while-reading-fine-print-on-prescription-labels-and-why-that-triggers-transient-cerebral-hypoperfusion-in-adults-79-with-presbyopia-and-carotid-stenosis-50"
-description: "Links visual accommodation strain to trigeminal-vagal reflex activation and downstream cerebral perfusion compromise in elderly with subclinical carotid disease."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["blood pressure dip reading prescription labels", "blood pressure", "sensory-triggered-hemodynamics"]
-primaryKeyword: "blood pressure dip reading prescription labels"
-topicCluster: "sensory-triggered-hemodynamics"
-image: ""
-relatedSlugs: ["warning-signs-your-bp-medication-is-causing-subclinical-cerebral-hypoperfusion-even-if-your-numbers-look-good-on-abpm", "warning-signs-of-cerebral-autoregulation-failure-masquerading-as-just-stress-in-adults-58-70-with-migraine-with-aura-and-labile-bp", "5-things-everyone-over-65-should-know-about-blood-pressure-medication-tapering-especially-if-you-re-on-dual-ras-blockade-and-have-declining-egfr", "quick-ways-to-stabilize-post-meal-blood-flow-to-the-brain-in-adults-64-with-carotid-stenosis-50-and-orthostatic-dizziness", "why-your-blood-pressure-reading-drops-after-a-10-minute-cold-shower-and-when-that-s-actually-dangerous-for-adults-68"]
+title: >-
+  What Causes Sudden Blood Pressure Dips *Only* While Reading Fine Print on
+  Prescription Labels — And Why That Triggers Transient Cerebral Hypoperfusion
+  in Adults 79+ With Presbyopia and Carotid Stenosis <50%
+slug: >-
+  what-causes-sudden-blood-pressure-dips-only-while-reading-fine-print-on-prescription-labels-and-why-that-triggers-transient-cerebral-hypoperfusion-in-adults-79-with-presbyopia-and-carotid-stenosis-50
+description: >-
+  Links visual accommodation strain to trigeminal-vagal reflex activation and
+  downstream cerebral perfusion compromise in elderly with subclinical carotid
+  disease.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: blood pressure dip reading prescription labels
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-bp-medication-is-causing-subclinical-cerebral-hypoperfusion-even-if-your-numbers-look-good-on-abpm
+  - >-
+    warning-signs-of-cerebral-autoregulation-failure-masquerading-as-just-stress-in-adults-58-70-with-migraine-with-aura-and-labile-bp
+  - >-
+    5-things-everyone-over-65-should-know-about-blood-pressure-medication-tapering-especially-if-you-re-on-dual-ras-blockade-and-have-declining-egfr
+  - >-
+    quick-ways-to-stabilize-post-meal-blood-flow-to-the-brain-in-adults-64-with-carotid-stenosis-50-and-orthostatic-dizziness
+  - >-
+    why-your-blood-pressure-reading-drops-after-a-10-minute-cold-shower-and-when-that-s-actually-dangerous-for-adults-68
 ---
 
 # Why You Might Feel Lightheaded While Reading Prescription Labels — And What That Blood Pressure Dip Reading Means for Adults 50+

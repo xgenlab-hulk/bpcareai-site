@@ -1,14 +1,29 @@
 ---
-title: "How Holiday Music Volume and Tempo Affect Post-Meal Satiety Hormone Release in Adults 65+ With Mild Cognitive Impairment"
-slug: "how-holiday-music-volume-and-tempo-affect-post-meal-satiety-hormone-release-in-adults-65-with-mild-cognitive-impairment"
-description: "Investigates the neuroendocrine link between ambient auditory stimulation, vagal tone, and peptide YY/GLP-1 secretion—providing actionable sound environment tips to reduce overeating."
-date: "2026-02-11"
-updated: "2026-02-11"
-tags: ["holiday music satiety hormones seniors", "healthy holiday eating for seniors", "neuroendocrine-diet"]
-primaryKeyword: "holiday music satiety hormones seniors"
-topicCluster: "neuroendocrine-diet"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing", "does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance", "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75", "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season", "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance"]
+title: >-
+  How Holiday Music Volume and Tempo Affect Post-Meal Satiety Hormone Release in
+  Adults 65+ With Mild Cognitive Impairment
+slug: >-
+  how-holiday-music-volume-and-tempo-affect-post-meal-satiety-hormone-release-in-adults-65-with-mild-cognitive-impairment
+description: >-
+  Investigates the neuroendocrine link between ambient auditory stimulation,
+  vagal tone, and peptide YY/GLP-1 secretion—providing actionable sound
+  environment tips to reduce overeating.
+date: '2026-02-11'
+updated: '2026-02-11'
+primaryKeyword: holiday music satiety hormones seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing
+  - >-
+    does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
+  - >-
+    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
 ---
 
 # How Holiday Music Volume and Tempo Influence Satiety Hormones in Seniors — A Gentle Guide to Healthy Holiday Eating for Seniors

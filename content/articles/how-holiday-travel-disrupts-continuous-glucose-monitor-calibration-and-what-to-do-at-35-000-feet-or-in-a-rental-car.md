@@ -1,14 +1,29 @@
 ---
-title: "How Holiday Travel Disrupts Continuous Glucose Monitor Calibration — And What to Do at 35,000 Feet or in a Rental Car"
-slug: "how-holiday-travel-disrupts-continuous-glucose-monitor-calibration-and-what-to-do-at-35-000-feet-or-in-a-rental-car"
-description: "Details environmental (cabin pressure, temperature swings), behavioral (hydration gaps, meal timing chaos), and device-specific issues — with real-world recalibration workarounds for CGM users."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["CGM calibration holiday travel disruption", "holiday diabetes management", "monitoring-technology-adaptation"]
-primaryKeyword: "CGM calibration holiday travel disruption"
-topicCluster: "monitoring-technology-adaptation"
-image: ""
-relatedSlugs: ["5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes", "best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design", "can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures", "how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia", "warning-signs-your-continuous-glucose-monitor-is-misreading-due-to-subcutaneous-edema-in-adults-70-with-chronic-heart-failure-and-diuretic-dependent-volume-control"]
+title: >-
+  How Holiday Travel Disrupts Continuous Glucose Monitor Calibration — And What
+  to Do at 35,000 Feet or in a Rental Car
+slug: >-
+  how-holiday-travel-disrupts-continuous-glucose-monitor-calibration-and-what-to-do-at-35-000-feet-or-in-a-rental-car
+description: >-
+  Details environmental (cabin pressure, temperature swings), behavioral
+  (hydration gaps, meal timing chaos), and device-specific issues — with
+  real-world recalibration workarounds for CGM users.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: CGM calibration holiday travel disruption
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
+  - >-
+    best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
+  - >-
+    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
+  - >-
+    how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
+  - >-
+    warning-signs-your-continuous-glucose-monitor-is-misreading-due-to-subcutaneous-edema-in-adults-70-with-chronic-heart-failure-and-diuretic-dependent-volume-control
 ---
 
 # Navigating CGM Calibration Holiday Travel Disruption: Practical Tips for Airports, Planes, and Road Trips

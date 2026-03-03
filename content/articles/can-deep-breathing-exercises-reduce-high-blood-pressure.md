@@ -6,10 +6,6 @@ description: >-
   improve relaxation response.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - deep breathing exercises to lower blood pressure
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: deep breathing exercises to lower blood pressure
 topicCluster: hypertension-management
 image: ''

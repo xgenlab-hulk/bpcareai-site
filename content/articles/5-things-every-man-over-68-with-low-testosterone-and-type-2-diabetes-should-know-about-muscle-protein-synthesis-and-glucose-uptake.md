@@ -10,12 +10,8 @@ description: >-
   protocols and leucine timing tips.
 date: '2026-01-20'
 updated: '2026-01-20'
-tags:
-  - testosterone muscle glucose uptake older men
-  - diabetes
-  - androgen-metabolic-synergy
 primaryKeyword: testosterone muscle glucose uptake older men
-topicCluster: androgen-metabolic-synergy
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

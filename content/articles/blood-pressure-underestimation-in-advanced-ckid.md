@@ -1,14 +1,30 @@
 ---
-title: "When to Worry About 'Normal-Looking' Blood Pressure Readings in Adults 78+ With Advanced CKD Stage 4 — Why Brachial Cuff Readings Systematically Underestimate Central Aortic Pressure"
-slug: "when-to-worry-about-normal-looking-blood-pressure-readings-in-adults-78-with-advanced-ckd-stage-4-why-brachial-cuff-readings-systematically-underestimate-central-aortic-pressure"
-description: "Explains why standard sphygmomanometry fails in severe renal impairment due to arterial calcification, pulse wave reflection distortion, and cuff–artery mismatch."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["blood pressure underestimation in advanced ckid", "blood pressure", "renal-vascular-measurement-limitation"]
-primaryKeyword: "blood pressure underestimation in advanced ckid"
-topicCluster: "renal-vascular-measurement-limitation"
-image: ""
-relatedSlugs: ["a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor", "myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries", "5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring", "12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring", "warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries"]
+title: >-
+  When to Worry About 'Normal-Looking' Blood Pressure Readings in Adults 78+
+  With Advanced CKD Stage 4 — Why Brachial Cuff Readings Systematically
+  Underestimate Central Aortic Pressure
+slug: >-
+  when-to-worry-about-normal-looking-blood-pressure-readings-in-adults-78-with-advanced-ckd-stage-4-why-brachial-cuff-readings-systematically-underestimate-central-aortic-pressure
+description: >-
+  Explains why standard sphygmomanometry fails in severe renal impairment due to
+  arterial calcification, pulse wave reflection distortion, and cuff–artery
+  mismatch.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: blood pressure underestimation in advanced ckid
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
+  - >-
+    myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries
+  - >-
+    5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
+  - >-
+    12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
+  - >-
+    warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries
 ---
 
 # When “Normal” Blood Pressure Readings Can Be Misleading in Adults 78+ With Advanced CKD Stage 4: Understanding Blood Pressure Underestimation in Advanced CKD

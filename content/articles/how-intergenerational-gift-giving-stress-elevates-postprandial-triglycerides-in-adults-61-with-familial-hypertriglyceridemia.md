@@ -1,14 +1,28 @@
 ---
-title: "How Intergenerational Gift-Giving Stress Elevates Postprandial Triglycerides in Adults 61+ With Familial Hypertriglyceridemia"
-slug: "how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia"
-description: "Analyzes cortisol–lipoprotein lipase inhibition dynamics during holiday gatherings, with actionable meal sequencing and breathing protocols shown to blunt TG spikes by >37% in RCTs."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["gift-giving stress triglycerides seniors", "healthy holiday eating for seniors", "stress-metabolism-connection"]
-primaryKeyword: "gift-giving stress triglycerides seniors"
-topicCluster: "stress-metabolism-connection"
-image: ""
-relatedSlugs: ["how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68", "how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60", "how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes"]
+title: >-
+  How Intergenerational Gift-Giving Stress Elevates Postprandial Triglycerides
+  in Adults 61+ With Familial Hypertriglyceridemia
+slug: >-
+  how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
+description: >-
+  Analyzes cortisol–lipoprotein lipase inhibition dynamics during holiday
+  gatherings, with actionable meal sequencing and breathing protocols shown to
+  blunt TG spikes by >37% in RCTs.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: gift-giving stress triglycerides seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+  - >-
+    how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
+  - >-
+    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
 ---
 
 # How Holiday Gift-Giving Stress Impacts Triglyceride Levels in Seniors With Familial Hypertriglyceridemia  

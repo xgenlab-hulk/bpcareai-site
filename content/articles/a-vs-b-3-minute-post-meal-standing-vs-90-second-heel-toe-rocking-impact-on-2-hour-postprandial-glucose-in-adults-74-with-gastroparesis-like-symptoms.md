@@ -1,14 +1,28 @@
 ---
-title: "A vs B: 3-Minute Post-Meal Standing vs. 90-Second Heel-Toe Rocking — Impact on 2-Hour Postprandial Glucose in Adults 74+ With Gastroparesis-Like Symptoms"
-slug: "a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms"
-description: "Compares two ultra-low-barrier physical interventions for glucose clearance in frail older adults with delayed gastric motility and orthostatic intolerance."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["post meal movement gastroparesis seniors", "diabetes", "a-vs-b-movement-interventions"]
-primaryKeyword: "post meal movement gastroparesis seniors"
-topicCluster: "a-vs-b-movement-interventions"
-image: ""
-relatedSlugs: ["a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis", "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension", "12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms", "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms"]
+title: >-
+  A vs B: 3-Minute Post-Meal Standing vs. 90-Second Heel-Toe Rocking — Impact on
+  2-Hour Postprandial Glucose in Adults 74+ With Gastroparesis-Like Symptoms
+slug: >-
+  a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms
+description: >-
+  Compares two ultra-low-barrier physical interventions for glucose clearance in
+  frail older adults with delayed gastric motility and orthostatic intolerance.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: post meal movement gastroparesis seniors
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+  - >-
+    12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
 ---
 
 # Post-Meal Movement for Gastroparesis Seniors: Comparing 3-Minute Standing vs. 90-Second Heel-Toe Rocking in Adults 74+

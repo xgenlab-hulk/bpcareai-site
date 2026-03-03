@@ -1,14 +1,30 @@
 ---
-title: "The Complete Guide to Managing Diabetes During Intergenerational Holiday Hosting — Practical Strategies for Adults 61–74 With Mild Cognitive Load and Caregiver Fatigue"
-slug: "the-complete-guide-to-managing-diabetes-during-intergenerational-holiday-hosting-practical-strategies-for-adults-61-74-with-mild-cognitive-load-and-caregiver-fatigue"
-description: "Covers cognitive load mitigation, simplified meal planning, automated glucose logging, delegation frameworks, and energy-preserving routines specifically for older adults managing both their own diabetes and family caregiving demands."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["diabetes management intergenerational hosting", "holiday diabetes management", "caregiver-diabetes-balance"]
-primaryKeyword: "diabetes management intergenerational hosting"
-topicCluster: "caregiver-diabetes-balance"
-image: ""
-relatedSlugs: ["the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations", "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout", "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support", "the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction", "the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work"]
+title: >-
+  The Complete Guide to Managing Diabetes During Intergenerational Holiday
+  Hosting — Practical Strategies for Adults 61–74 With Mild Cognitive Load and
+  Caregiver Fatigue
+slug: >-
+  the-complete-guide-to-managing-diabetes-during-intergenerational-holiday-hosting-practical-strategies-for-adults-61-74-with-mild-cognitive-load-and-caregiver-fatigue
+description: >-
+  Covers cognitive load mitigation, simplified meal planning, automated glucose
+  logging, delegation frameworks, and energy-preserving routines specifically
+  for older adults managing both their own diabetes and family caregiving
+  demands.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: diabetes management intergenerational hosting
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support
+  - >-
+    the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
+  - the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
 ---
 
 # A Practical Guide to Diabetes Management Intergenerational Hosting for Older Adults

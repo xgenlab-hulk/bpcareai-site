@@ -1,14 +1,26 @@
 ---
-title: "7 Common Mistakes That Worsen Post-Holiday Joint Stiffness in Adults 67+ With Radiographic Osteoarthritis — Even Without Weight Gain"
-slug: "7-common-mistakes-that-worsen-post-holiday-joint-stiffness-in-adults-67-with-radiographic-osteoarthritis-even-without-weight-gain"
-description: "Highlights overlooked triggers: prolonged static sitting during gift-wrapping, high-oxalate holiday sides, and nighttime ambient temperature drops that amplify synovial viscosity."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["holiday joint stiffness mistakes seniors", "healthy holiday eating for seniors", "musculoskeletal-diet-behavior"]
-primaryKeyword: "holiday joint stiffness mistakes seniors"
-topicCluster: "musculoskeletal-diet-behavior"
-image: ""
-relatedSlugs: ["natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation", "5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58", "how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease"]
+title: >-
+  7 Common Mistakes That Worsen Post-Holiday Joint Stiffness in Adults 67+ With
+  Radiographic Osteoarthritis — Even Without Weight Gain
+slug: >-
+  7-common-mistakes-that-worsen-post-holiday-joint-stiffness-in-adults-67-with-radiographic-osteoarthritis-even-without-weight-gain
+description: >-
+  Highlights overlooked triggers: prolonged static sitting during gift-wrapping,
+  high-oxalate holiday sides, and nighttime ambient temperature drops that
+  amplify synovial viscosity.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: holiday joint stiffness mistakes seniors
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
+  - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
+  - >-
+    how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
 ---
 
 # Common Holiday Joint Stiffness Mistakes Seniors Make — And How to Ease Them Gently

@@ -11,12 +11,8 @@ description: >-
   thresholds.
 date: '2025-12-30'
 updated: '2025-12-30'
-tags:
-  - smartwatch accuracy hypertensive crisis
-  - blood pressure
-  - digital-monitoring-validation
 primaryKeyword: smartwatch accuracy hypertensive crisis
-topicCluster: digital-monitoring-validation
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: 'I’ll Just Skip Breakfast to Save Calories for Dinner' — How Fasting-Induced Hyperglycemia and Cortisol Surges Worsen Holiday Glucose Control in Adults 67+"
-slug: "myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-dinner-how-fasting-induced-hyperglycemia-and-cortisol-surges-worsen-holiday-glucose-control-in-adults-67"
-description: "Debunks common calorie-shifting logic by explaining dawn phenomenon amplification, hepatic glucose overproduction, and counterregulatory hormone spikes in aging pancreas."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["skipping breakfast holiday hyperglycemia seniors", "healthy holiday eating for seniors", "intermittent-fasting-misconceptions"]
-primaryKeyword: "skipping breakfast holiday hyperglycemia seniors"
-topicCluster: "intermittent-fasting-misconceptions"
-image: ""
-relatedSlugs: ["dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70", "why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner", "myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome", "myths-vs-facts-i-can-just-skip-breakfast-to-offset-holiday-dinner-calories-why-this-backfires-on-circadian-lipid-metabolism-in-adults-64-with-mixed-dyslipidemia", "how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing"]
+title: >-
+  Myths vs Facts: 'I’ll Just Skip Breakfast to Save Calories for Dinner' — How
+  Fasting-Induced Hyperglycemia and Cortisol Surges Worsen Holiday Glucose
+  Control in Adults 67+
+slug: >-
+  myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-dinner-how-fasting-induced-hyperglycemia-and-cortisol-surges-worsen-holiday-glucose-control-in-adults-67
+description: >-
+  Debunks common calorie-shifting logic by explaining dawn phenomenon
+  amplification, hepatic glucose overproduction, and counterregulatory hormone
+  spikes in aging pancreas.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: skipping breakfast holiday hyperglycemia seniors
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+  - >-
+    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
+  - >-
+    myths-vs-facts-i-can-just-skip-breakfast-to-offset-holiday-dinner-calories-why-this-backfires-on-circadian-lipid-metabolism-in-adults-64-with-mixed-dyslipidemia
+  - >-
+    how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing
 ---
 
 # Why Skipping Breakfast Holiday Hyperglycemia Seniors Is a Common—and Risky—Holiday Habit

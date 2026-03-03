@@ -1,14 +1,30 @@
 ---
-title: "Why Your CGM Alarms Are Less Reliable During Holiday Travel — Sensor Accuracy Drift from Altitude, Humidity, and Checked-Luggage Temperature Swings in Adults 66+ With Frequent Air Travel"
-slug: "why-your-cgm-alarms-are-less-reliable-during-holiday-travel-sensor-accuracy-drift-from-altitude-humidity-and-checked-luggage-temperature-swings-in-adults-66-with-frequent-air-travel"
-description: "Investigates real-world sensor performance degradation across flight phases, including pressure-related enzyme denaturation in glucose oxidase strips and humidity-induced calibration drift in factory-calibrated models."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["cgm accuracy holiday travel", "holiday diabetes management", "monitoring-device-reliability"]
-primaryKeyword: "cgm accuracy holiday travel"
-topicCluster: "monitoring-device-reliability"
-image: ""
-relatedSlugs: ["5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes", "how-holiday-travel-disrupts-continuous-glucose-monitor-calibration-and-what-to-do-at-35-000-feet-or-in-a-rental-car", "best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design", "the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79", "warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine"]
+title: >-
+  Why Your CGM Alarms Are Less Reliable During Holiday Travel — Sensor Accuracy
+  Drift from Altitude, Humidity, and Checked-Luggage Temperature Swings in
+  Adults 66+ With Frequent Air Travel
+slug: >-
+  why-your-cgm-alarms-are-less-reliable-during-holiday-travel-sensor-accuracy-drift-from-altitude-humidity-and-checked-luggage-temperature-swings-in-adults-66-with-frequent-air-travel
+description: >-
+  Investigates real-world sensor performance degradation across flight phases,
+  including pressure-related enzyme denaturation in glucose oxidase strips and
+  humidity-induced calibration drift in factory-calibrated models.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: cgm accuracy holiday travel
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
+  - >-
+    how-holiday-travel-disrupts-continuous-glucose-monitor-calibration-and-what-to-do-at-35-000-feet-or-in-a-rental-car
+  - >-
+    best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
+  - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
+  - >-
+    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
 ---
 
 # Why CGM Accuracy Drops During Holiday Travel — What Adults 66+ Need to Know

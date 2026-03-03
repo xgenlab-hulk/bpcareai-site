@@ -6,12 +6,8 @@ description: >-
   of developing heart conditions.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - sleep duration and heart disease risk after 55
-  - heart disease
-  - hypertension-lifestyle
 primaryKeyword: sleep duration and heart disease risk after 55
-topicCluster: hypertension-management
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - how-sleep-affects-heart-health-after-50

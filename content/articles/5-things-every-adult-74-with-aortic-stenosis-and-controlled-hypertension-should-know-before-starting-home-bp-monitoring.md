@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Adult 74+ With Aortic Stenosis and Controlled Hypertension Should Know Before Starting Home BP Monitoring"
-slug: "5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring"
-description: "Highlights pitfalls including radial waveform distortion, cuff size errors in sarcopenic obesity, and misinterpretation of pulse pressure in fixed-outflow obstruction—plus safe targets for systolic and pulse pressure."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["aortic stenosis home blood pressure monitoring", "blood pressure", "valvular-disease-monitoring"]
-primaryKeyword: "aortic stenosis home blood pressure monitoring"
-topicCluster: "valvular-disease-monitoring"
-image: ""
-relatedSlugs: ["dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands", "the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance", "a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor", "a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better", "7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema"]
+title: >-
+  5 Things Every Adult 74+ With Aortic Stenosis and Controlled Hypertension
+  Should Know Before Starting Home BP Monitoring
+slug: >-
+  5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
+description: >-
+  Highlights pitfalls including radial waveform distortion, cuff size errors in
+  sarcopenic obesity, and misinterpretation of pulse pressure in fixed-outflow
+  obstruction—plus safe targets for systolic and pulse pressure.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: aortic stenosis home blood pressure monitoring
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+  - >-
+    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
+  - >-
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
+  - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
+  - >-
+    7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
 ---
 
 # What Adults 74+ With Aortic Stenosis and Controlled Hypertension Need to Know About aortic stenosis home blood pressure monitoring

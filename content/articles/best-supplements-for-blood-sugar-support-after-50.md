@@ -6,12 +6,8 @@ description: >-
   glucose regulation.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - blood sugar supplements for adults over 50
-  - diabetes
-  - diabetes-nutrition
 primaryKeyword: blood sugar supplements for adults over 50
-topicCluster: diabetes-care
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - best-fruits-for-diabetics-over-50-and-which-to-limit

@@ -1,14 +1,29 @@
 ---
-title: "What Are the Earliest Signs of Diabetic Cardiomyopathy in Women Over 65—Before Echocardiogram Changes Appear?"
-slug: "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear"
-description: "Details pre-structural biomarkers: heart rate recovery delay >20 sec, abnormal diastolic strain rate on speckle tracking, and serum GDF-15 elevation—tied to mitochondrial dysfunction in cardiomyocytes."
-date: "2025-12-31"
-updated: "2025-12-31"
-tags: ["early diabetic cardiomyopathy signs women", "diabetes", "pre-structural-cardiac-signs"]
-primaryKeyword: "early diabetic cardiomyopathy signs women"
-topicCluster: "pre-structural-cardiac-signs"
-image: ""
-relatedSlugs: ["what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective", "what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70", "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease", "when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction", "how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study"]
+title: >-
+  What Are the Earliest Signs of Diabetic Cardiomyopathy in Women Over 65—Before
+  Echocardiogram Changes Appear?
+slug: >-
+  what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
+description: >-
+  Details pre-structural biomarkers: heart rate recovery delay >20 sec, abnormal
+  diastolic strain rate on speckle tracking, and serum GDF-15 elevation—tied to
+  mitochondrial dysfunction in cardiomyocytes.
+date: '2025-12-31'
+updated: '2025-12-31'
+primaryKeyword: early diabetic cardiomyopathy signs women
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
+  - >-
+    what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
+  - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
+  - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
 ---
 
 # Early Diabetic Cardiomyopathy Signs in Women Over 65—Before Structural Changes Show Up

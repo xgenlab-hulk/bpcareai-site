@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That *Delay* Coronary Artery Calcification Progression — Not Just Slow It — in Adults 66+ With CAC Score 100–400 and Metabolic Syndrome"
-slug: "10-foods-that-delay-coronary-artery-calcification-progression-not-just-slow-it-in-adults-66-with-cac-score-100-400-and-metabolic-syndrome"
-description: "Focuses on foods with matrix Gla protein (MGP) activation properties (e.g., natto, fermented cheeses, pasture-raised egg yolks) and their impact on CAC Δ-score over 2 years."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["foods delay coronary artery calcification", "heart disease", "calcification-modulation-nutrition"]
-primaryKeyword: "foods delay coronary artery calcification"
-topicCluster: "calcification-modulation-nutrition"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a", "10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers", "12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300", "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance", "10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score"]
+title: >-
+  10 Foods That *Delay* Coronary Artery Calcification Progression — Not Just
+  Slow It — in Adults 66+ With CAC Score 100–400 and Metabolic Syndrome
+slug: >-
+  10-foods-that-delay-coronary-artery-calcification-progression-not-just-slow-it-in-adults-66-with-cac-score-100-400-and-metabolic-syndrome
+description: >-
+  Focuses on foods with matrix Gla protein (MGP) activation properties (e.g.,
+  natto, fermented cheeses, pasture-raised egg yolks) and their impact on CAC
+  Δ-score over 2 years.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: foods delay coronary artery calcification
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
+  - >-
+    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
+  - >-
+    12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
+  - >-
+    10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score
 ---
 
 # Foods That Delay Coronary Artery Calcification — Evidence-Based Choices for Adults 66+ With Metabolic Syndrome and Moderate CAC

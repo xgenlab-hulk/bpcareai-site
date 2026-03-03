@@ -1,14 +1,29 @@
 ---
-title: "7 Silent Signs Your Blood Pressure Is Too *Low* After Starting SGLT2 Inhibitors—Especially If You’re on Dialysis or Have Orthostatic Tremor"
-slug: "7-silent-signs-your-blood-pressure-is-too-low-after-starting-sglt2-inhibitors-especially-if-you-re-on-dialysis-or-have-orthostatic-tremor"
-description: "Identifies under-recognized hypotensive symptoms (e.g., postprandial cognitive fog, paradoxical fatigue after walking) in adults with CKD stages 4–5 initiating empagliflozin or dapagliflozin."
-date: "2025-12-31"
-updated: "2025-12-31"
-tags: ["low blood pressure on SGLT2 inhibitors", "blood pressure", "medication-hypotension-risks"]
-primaryKeyword: "low blood pressure on SGLT2 inhibitors"
-topicCluster: "medication-hypotension-risks"
-image: ""
-relatedSlugs: ["can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75", "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents", "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60", "when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68", "when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67"]
+title: >-
+  7 Silent Signs Your Blood Pressure Is Too *Low* After Starting SGLT2
+  Inhibitors—Especially If You’re on Dialysis or Have Orthostatic Tremor
+slug: >-
+  7-silent-signs-your-blood-pressure-is-too-low-after-starting-sglt2-inhibitors-especially-if-you-re-on-dialysis-or-have-orthostatic-tremor
+description: >-
+  Identifies under-recognized hypotensive symptoms (e.g., postprandial cognitive
+  fog, paradoxical fatigue after walking) in adults with CKD stages 4–5
+  initiating empagliflozin or dapagliflozin.
+date: '2025-12-31'
+updated: '2025-12-31'
+primaryKeyword: low blood pressure on SGLT2 inhibitors
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
+  - >-
+    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
 ---
 
 # Recognizing Low Blood Pressure on SGLT2 Inhibitors: 7 Subtle Clues You Shouldn’t Ignore—Especially With Advanced CKD or Orthostatic Tremor

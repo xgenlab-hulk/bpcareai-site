@@ -6,12 +6,8 @@ description: >-
   during high-risk festive meals.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - avoid overeating holiday diabetes
-  - holiday diabetes management
-  - behavioral-strategies-prevention
 primaryKeyword: avoid overeating holiday diabetes
-topicCluster: lifestyle-changes
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

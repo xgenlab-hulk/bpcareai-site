@@ -10,12 +10,8 @@ description: >-
   emerging nutraceutical evidence from prospective CT cohort studies.
 date: '2026-01-22'
 updated: '2026-01-22'
-tags:
-  - slow coronary artery calcification progression
-  - heart disease
-  - coronary-calcification
 primaryKeyword: slow coronary artery calcification progression
-topicCluster: coronary-calcification
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

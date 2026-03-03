@@ -1,14 +1,30 @@
 ---
-title: "The Truth About 'Sugar-Free' Desserts Labeled for Seniors — Why Erythritol-Only Formulations Still Disrupt Gut Microbiota-Derived Butyrate in Adults 69+ With Metabolic Syndrome"
-slug: "the-truth-about-sugar-free-desserts-labeled-for-seniors-why-erythritol-only-formulations-still-disrupt-gut-microbiota-derived-butyrate-in-adults-69-with-metabolic-syndrome"
-description: "Debunks marketing claims around sugar alcohols, citing 2023 gut-metabolome studies, and offers truly low-fermentable alternatives like monk fruit + acacia fiber blends."
-date: "2026-02-23"
-updated: "2026-02-23"
-tags: ["sugar-free desserts gut health seniors", "healthy eating during family gatherings", "gut-microbiome-nutrition"]
-primaryKeyword: "sugar-free desserts gut health seniors"
-topicCluster: "gut-microbiome-nutrition"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes", "the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld", "the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors", "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose", "the-truth-about-low-sugar-holiday-cookies-labeled-for-seniors-why-73-contain-maltitol-induced-osmotic-diarrhea-triggers-in-adults-71-with-ibs-c"]
+title: >-
+  The Truth About 'Sugar-Free' Desserts Labeled for Seniors — Why
+  Erythritol-Only Formulations Still Disrupt Gut Microbiota-Derived Butyrate in
+  Adults 69+ With Metabolic Syndrome
+slug: >-
+  the-truth-about-sugar-free-desserts-labeled-for-seniors-why-erythritol-only-formulations-still-disrupt-gut-microbiota-derived-butyrate-in-adults-69-with-metabolic-syndrome
+description: >-
+  Debunks marketing claims around sugar alcohols, citing 2023 gut-metabolome
+  studies, and offers truly low-fermentable alternatives like monk fruit +
+  acacia fiber blends.
+date: '2026-02-23'
+updated: '2026-02-23'
+primaryKeyword: sugar-free desserts gut health seniors
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
+  - >-
+    the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+  - >-
+    the-truth-about-low-sugar-holiday-cookies-labeled-for-seniors-why-73-contain-maltitol-induced-osmotic-diarrhea-triggers-in-adults-71-with-ibs-c
 ---
 
 # Sugar-Free Desserts, Gut Health, and Seniors: What You Really Need to Know

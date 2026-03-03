@@ -1,14 +1,29 @@
 ---
-title: "Why Your Morning Walk May Raise Blood Glucose Instead of Lowering It — Especially If You’re on Basal-Only Insulin and Over 66"
-slug: "why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66"
-description: "Explains dawn phenomenon amplification, cortisol–insulin mismatch, and glycogenolysis dominance during early-morning activity — with data-backed timing adjustments and pre-walk carb/insulin micro-adjustment protocols."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["morning walk raises blood glucose seniors", "diabetes", "exercise-timing-physiology"]
-primaryKeyword: "morning walk raises blood glucose seniors"
-topicCluster: "exercise-timing-physiology"
-image: ""
-relatedSlugs: ["a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance", "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes", "what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance", "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension", "simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues"]
+title: >-
+  Why Your Morning Walk May Raise Blood Glucose Instead of Lowering It —
+  Especially If You’re on Basal-Only Insulin and Over 66
+slug: >-
+  why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
+description: >-
+  Explains dawn phenomenon amplification, cortisol–insulin mismatch, and
+  glycogenolysis dominance during early-morning activity — with data-backed
+  timing adjustments and pre-walk carb/insulin micro-adjustment protocols.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: morning walk raises blood glucose seniors
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+  - >-
+    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+  - >-
+    simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
 ---
 
 # Why Your Morning Walk Might Raise Blood Glucose—Especially If You’re Over 66 and on Basal-Only Insulin  

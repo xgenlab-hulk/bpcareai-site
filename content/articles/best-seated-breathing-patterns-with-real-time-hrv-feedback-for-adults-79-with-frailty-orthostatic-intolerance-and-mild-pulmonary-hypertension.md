@@ -1,14 +1,28 @@
 ---
-title: "Best Seated Breathing Patterns *With Real-Time HRV Feedback* for Adults 79+ With Frailty, Orthostatic Intolerance, and Mild Pulmonary Hypertension"
-slug: "best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension"
-description: "Validates resonant frequency breathing protocols (4.5–5.5 breaths/min) coupled with HRV-guided pacing to lower pulmonary vascular resistance without orthostatic risk."
-date: "2026-03-02"
-updated: "2026-03-02"
-tags: ["seated breathing hrv feedback frailty", "blood pressure", "frailty-respiratory-integration"]
-primaryKeyword: "seated breathing hrv feedback frailty"
-topicCluster: "frailty-respiratory-integration"
-image: ""
-relatedSlugs: ["best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety", "best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression", "best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp", "vagal-breathing-central-systolic-pressure", "best-seated-resistance-band-exercises-with-real-time-bp-feedback-for-adults-80-with-orthostatic-intolerance-and-severe-knee-osteoarthritis"]
+title: >-
+  Best Seated Breathing Patterns *With Real-Time HRV Feedback* for Adults 79+
+  With Frailty, Orthostatic Intolerance, and Mild Pulmonary Hypertension
+slug: >-
+  best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension
+description: >-
+  Validates resonant frequency breathing protocols (4.5–5.5 breaths/min) coupled
+  with HRV-guided pacing to lower pulmonary vascular resistance without
+  orthostatic risk.
+date: '2026-03-02'
+updated: '2026-03-02'
+primaryKeyword: seated breathing hrv feedback frailty
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
+  - >-
+    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
+  - >-
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
+  - vagal-breathing-central-systolic-pressure
+  - >-
+    best-seated-resistance-band-exercises-with-real-time-bp-feedback-for-adults-80-with-orthostatic-intolerance-and-severe-knee-osteoarthritis
 ---
 
 # Gentle Seated Breathing with Real-Time HRV Feedback for Older Adults Living with Frailty

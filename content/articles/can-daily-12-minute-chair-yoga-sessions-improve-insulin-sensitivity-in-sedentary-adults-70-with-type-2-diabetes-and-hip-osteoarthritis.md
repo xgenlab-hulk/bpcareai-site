@@ -1,14 +1,29 @@
 ---
-title: "Can Daily 12-Minute Chair Yoga Sessions Improve Insulin Sensitivity in Sedentary Adults 70+ With Type 2 Diabetes and Hip Osteoarthritis?"
-slug: "can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis"
-description: "This article reviews clinical trial data and mechanistic pathways linking low-impact yoga to skeletal muscle GLUT4 translocation and postprandial glucose disposal in frail older adults with mobility limitations."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["chair yoga insulin sensitivity seniors", "diabetes", "exercise-mobility"]
-primaryKeyword: "chair yoga insulin sensitivity seniors"
-topicCluster: "exercise-mobility"
-image: ""
-relatedSlugs: ["a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity", "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis", "natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70", "does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss", "a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71"]
+title: >-
+  Can Daily 12-Minute Chair Yoga Sessions Improve Insulin Sensitivity in
+  Sedentary Adults 70+ With Type 2 Diabetes and Hip Osteoarthritis?
+slug: >-
+  can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis
+description: >-
+  This article reviews clinical trial data and mechanistic pathways linking
+  low-impact yoga to skeletal muscle GLUT4 translocation and postprandial
+  glucose disposal in frail older adults with mobility limitations.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: chair yoga insulin sensitivity seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity
+  - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+  - >-
+    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
+  - >-
+    does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
+  - >-
+    a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71
 ---
 
 # Can Gentle Chair Yoga Boost Insulin Sensitivity in Seniors with Diabetes and Joint Pain?

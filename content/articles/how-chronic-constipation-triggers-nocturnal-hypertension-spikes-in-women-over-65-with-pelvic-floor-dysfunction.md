@@ -10,12 +10,8 @@ description: >-
   mmHg—supported by 24-hr ABPM studies in geriatric GI clinics.
 date: '2025-12-29'
 updated: '2025-12-29'
-tags:
-  - constipation and nighttime high blood pressure
-  - blood pressure
-  - gastrointestinal-autonomic-link
 primaryKeyword: constipation and nighttime high blood pressure
-topicCluster: gastrointestinal-autonomic-link
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,29 @@
 ---
-title: "Natural Ways to Support Endothelial Repair After Acute Hypertensive Crisis — For Adults 65+ With Prior BP >220/120 and Microalbuminuria"
-slug: "natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria"
-description: "Details dietary nitrate loading, arginine-citrulline cycling, sulforaphane-induced Nrf2 activation, and avoidance of post-crisis NSAIDs or high-dose statins that impair endothelial progenitor cell function."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["endothelial repair hypertensive crisis microalbuminuria", "blood pressure", "post-crisis-recovery"]
-primaryKeyword: "endothelial repair hypertensive crisis microalbuminuria"
-topicCluster: "post-crisis-recovery"
-image: ""
-relatedSlugs: ["natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling", "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina", "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "natural-ways-to-support-capillary-perfusion-without-vasodilators-for-adults-67-79-with-hypertension-mild-peripheral-artery-disease-and-cold-hands-feet", "12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma"]
+title: >-
+  Natural Ways to Support Endothelial Repair After Acute Hypertensive Crisis —
+  For Adults 65+ With Prior BP >220/120 and Microalbuminuria
+slug: >-
+  natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria
+description: >-
+  Details dietary nitrate loading, arginine-citrulline cycling,
+  sulforaphane-induced Nrf2 activation, and avoidance of post-crisis NSAIDs or
+  high-dose statins that impair endothelial progenitor cell function.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: endothelial repair hypertensive crisis microalbuminuria
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+  - >-
+    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    natural-ways-to-support-capillary-perfusion-without-vasodilators-for-adults-67-79-with-hypertension-mild-peripheral-artery-disease-and-cold-hands-feet
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma
 ---
 
 # Supporting Endothelial Repair After Hypertensive Crisis — Especially With Microalbuminuria in Adults 65+

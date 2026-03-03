@@ -1,14 +1,30 @@
 ---
-title: "12 Science-Backed Ways to Reduce Glucose Variability in Shift Workers With Type 2 Diabetes—Based on Circadian Realignment, Meal Timing, and Light Exposure Protocols"
-slug: "12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols"
-description: "Presents a shift-specific protocol including timed melatonin, phase-advanced dinner, and blue-enriched morning light—validated across 3 night-shift cohorts."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["glucose variability shift workers", "diabetes", "circadian-metabolism"]
-primaryKeyword: "glucose variability shift workers"
-topicCluster: "circadian-metabolism"
-image: ""
-relatedSlugs: ["does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression", "simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69", "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72", "how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes", "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension"]
+title: >-
+  12 Science-Backed Ways to Reduce Glucose Variability in Shift Workers With
+  Type 2 Diabetes—Based on Circadian Realignment, Meal Timing, and Light
+  Exposure Protocols
+slug: >-
+  12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
+description: >-
+  Presents a shift-specific protocol including timed melatonin, phase-advanced
+  dinner, and blue-enriched morning light—validated across 3 night-shift
+  cohorts.
+date: '2026-01-05'
+updated: '2026-01-05'
+primaryKeyword: glucose variability shift workers
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
+  - >-
+    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+  - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
+  - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
 ---
 
 # 12 Science-Backed Strategies to Stabilize Glucose Variability in Shift Workers With Type 2 Diabetes

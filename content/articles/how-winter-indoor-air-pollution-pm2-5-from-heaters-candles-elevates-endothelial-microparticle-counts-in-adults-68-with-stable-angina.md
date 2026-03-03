@@ -1,14 +1,28 @@
 ---
-title: "How Winter Indoor Air Pollution (PM2.5 from Heaters & Candles) Elevates Endothelial Microparticle Counts in Adults 68+ With Stable Angina"
-slug: "how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina"
-description: "Links seasonal particulate exposure to acute endothelial injury biomarkers, offers real-time air quality threshold alerts (AQI >35), and evidence-based filtration strategies for older homes."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["indoor air pollution angina seniors 68+ winter", "heart disease", "environmental-cardiac-stressors"]
-primaryKeyword: "indoor air pollution angina seniors 68+ winter"
-topicCluster: "environmental-cardiac-stressors"
-image: ""
-relatedSlugs: ["how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries", "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments", "how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd", "how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55", "how-indoor-air-quality-affects-heart-health-in-winter"]
+title: >-
+  How Winter Indoor Air Pollution (PM2.5 from Heaters & Candles) Elevates
+  Endothelial Microparticle Counts in Adults 68+ With Stable Angina
+slug: >-
+  how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina
+description: >-
+  Links seasonal particulate exposure to acute endothelial injury biomarkers,
+  offers real-time air quality threshold alerts (AQI >35), and evidence-based
+  filtration strategies for older homes.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: indoor air pollution angina seniors 68+ winter
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+  - >-
+    how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd
+  - >-
+    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
+  - how-indoor-air-quality-affects-heart-health-in-winter
 ---
 
 # How Indoor Air Pollution in Winter Worsens Heart Health for Seniors 68+ With Stable Angina

@@ -10,12 +10,8 @@ description: >-
   distribution strategies.
 date: '2025-12-26'
 updated: '2025-12-26'
-tags:
-  - parkinsons disease holiday meal planning
-  - healthy holiday eating for seniors
-  - neurodegenerative-diet-adaptation
 primaryKeyword: parkinsons disease holiday meal planning
-topicCluster: neurodegenerative-diet-adaptation
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

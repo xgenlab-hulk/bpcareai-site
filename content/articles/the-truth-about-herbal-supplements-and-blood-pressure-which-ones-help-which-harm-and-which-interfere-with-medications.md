@@ -10,12 +10,8 @@ description: >-
   diuretics in adults over 60.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - herbal supplements blood pressure interactions
-  - blood pressure
-  - supplements-medications-safety
 primaryKeyword: herbal supplements blood pressure interactions
-topicCluster: supplements-medications-safety
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

@@ -9,12 +9,8 @@ description: >-
   and sudden arrhythmias, especially in people over 50.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - binge drinking atrial fibrillation
-  - holiday heart syndrome prevention
-  - risk-factors
 primaryKeyword: binge drinking atrial fibrillation
-topicCluster: risk-factors
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

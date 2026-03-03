@@ -10,12 +10,8 @@ description: >-
   time cues tailored for solo-living seniors.
 date: '2025-12-24'
 updated: '2025-12-24'
-tags:
-  - social rhythm therapy for isolated older adults
-  - seasonal depression in older adults
-  - social-rhythm-interventions-solo-living
 primaryKeyword: social rhythm therapy for isolated older adults
-topicCluster: social-rhythm-interventions-solo-living
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees

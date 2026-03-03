@@ -11,12 +11,8 @@ description: >-
   intensification, and optimal repeat intervals by baseline score.
 date: '2026-01-09'
 updated: '2026-01-09'
-tags:
-  - coronary calcium score interpretation guide
-  - heart disease
-  - cac-score-interpretation
 primaryKeyword: coronary calcium score interpretation guide
-topicCluster: cac-score-interpretation
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,30 @@
 ---
-title: "What Causes Sudden Sodium-Induced Edema in Adults 74+ With Heart Failure and Low Albumin — And Why the Holiday Turkey Gravy Is the Real Culprit"
-slug: "what-causes-sudden-sodium-induced-edema-in-adults-74-with-heart-failure-and-low-albumin-and-why-the-holiday-turkey-gravy-is-the-real-culprit"
-description: "Explains the albumin-sodium binding threshold shift in hypoalbuminemic HF, how gravy’s free sodium + gelatin matrix overwhelms capillary oncotic pressure, and safer thickening alternatives that preserve satiety without fluid retention."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["sodium edema heart failure gravy", "healthy eating during family gatherings", "fluid-balance-nutrition"]
-primaryKeyword: "sodium edema heart failure gravy"
-topicCluster: "fluid-balance-nutrition"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy", "warning-signs-your-holiday-turkey-gravy-is-causing-subclinical-hyperkalemia-especially-in-adults-73-with-stage-3-ckd-and-ace-inhibitor-use", "the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65", "a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62"]
+title: >-
+  What Causes Sudden Sodium-Induced Edema in Adults 74+ With Heart Failure and
+  Low Albumin — And Why the Holiday Turkey Gravy Is the Real Culprit
+slug: >-
+  what-causes-sudden-sodium-induced-edema-in-adults-74-with-heart-failure-and-low-albumin-and-why-the-holiday-turkey-gravy-is-the-real-culprit
+description: >-
+  Explains the albumin-sodium binding threshold shift in hypoalbuminemic HF, how
+  gravy’s free sodium + gelatin matrix overwhelms capillary oncotic pressure,
+  and safer thickening alternatives that preserve satiety without fluid
+  retention.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: sodium edema heart failure gravy
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
+  - >-
+    warning-signs-your-holiday-turkey-gravy-is-causing-subclinical-hyperkalemia-especially-in-adults-73-with-stage-3-ckd-and-ace-inhibitor-use
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
+  - >-
+    a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
 ---
 
 # Why Sodium Edema in Heart Failure Gets Worse with Holiday Gravy — And What You Can Do About It

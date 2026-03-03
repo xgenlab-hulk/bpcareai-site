@@ -1,14 +1,30 @@
 ---
-title: "What Causes Blood Pressure to Rise *Only* During Video Calls With Adult Children? — The Role of Subvocal Tension, Zoom Posture, and Anticipatory Sympathetic Priming in Adults 62–71"
-slug: "what-causes-blood-pressure-to-rise-only-during-video-calls-with-adult-children-the-role-of-subvocal-tension-zoom-posture-and-anticipatory-sympathetic-priming-in-adults-62-71"
-description: "Analyzes biometric data from telehealth studies showing BP spikes during family video calls — with real-time biofeedback breathing strategies calibrated for intergenerational communication stress."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["video-call-blood-pressure-spike-family", "blood pressure", "digital-communication-stress-physiology"]
-primaryKeyword: "video-call-blood-pressure-spike-family"
-topicCluster: "digital-communication-stress-physiology"
-image: ""
-relatedSlugs: ["why-your-blood-pressure-spikes-during-video-calls-and-how-to-stabilize-it-with-micro-breathing-anchors-for-adults-60-73-with-social-anxiety", "how-intergenerational-storytelling-grandparent-grandchild-teen-alters-sympathetic-vagal-balance-and-diastolic-pressure-trajectories-in-adults-64-with-prehypertension", "does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58", "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns", "how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64"]
+title: >-
+  What Causes Blood Pressure to Rise *Only* During Video Calls With Adult
+  Children? — The Role of Subvocal Tension, Zoom Posture, and Anticipatory
+  Sympathetic Priming in Adults 62–71
+slug: >-
+  what-causes-blood-pressure-to-rise-only-during-video-calls-with-adult-children-the-role-of-subvocal-tension-zoom-posture-and-anticipatory-sympathetic-priming-in-adults-62-71
+description: >-
+  Analyzes biometric data from telehealth studies showing BP spikes during
+  family video calls — with real-time biofeedback breathing strategies
+  calibrated for intergenerational communication stress.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: video-call-blood-pressure-spike-family
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    why-your-blood-pressure-spikes-during-video-calls-and-how-to-stabilize-it-with-micro-breathing-anchors-for-adults-60-73-with-social-anxiety
+  - >-
+    how-intergenerational-storytelling-grandparent-grandchild-teen-alters-sympathetic-vagal-balance-and-diastolic-pressure-trajectories-in-adults-64-with-prehypertension
+  - >-
+    does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
+  - >-
+    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
 ---
 
 # Why You Might Experience a video-call-blood-pressure-spike-family — Understanding Stress-Related BP Shifts in Intergenerational Video Conversations

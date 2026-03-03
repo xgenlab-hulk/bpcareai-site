@@ -6,12 +6,8 @@ description: >-
   choices for those concerned about cardiac arrhythmias.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - safe alcohol holiday heart
-  - holiday heart syndrome prevention
-  - prevention-strategies
 primaryKeyword: safe alcohol holiday heart
-topicCluster: preventive-care
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

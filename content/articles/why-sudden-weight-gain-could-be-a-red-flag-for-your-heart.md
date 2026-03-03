@@ -6,10 +6,6 @@ description: >-
   heart function.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - sudden weight gain and heart failure warning signs
-  - heart health
-  - heart-health
 primaryKeyword: sudden weight gain and heart failure warning signs
 topicCluster: cardiovascular-health
 image: ''

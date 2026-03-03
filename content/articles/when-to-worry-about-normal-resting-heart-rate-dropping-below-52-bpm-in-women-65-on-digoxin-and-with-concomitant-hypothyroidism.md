@@ -10,12 +10,8 @@ description: >-
   flags beyond bradycardia.
 date: '2026-01-16'
 updated: '2026-01-16'
-tags:
-  - resting heart rate digoxin hypothyroidism women
-  - heart disease
-  - electrophysiology-medication-interaction
 primaryKeyword: resting heart rate digoxin hypothyroidism women
-topicCluster: electrophysiology-medication-interaction
+topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-

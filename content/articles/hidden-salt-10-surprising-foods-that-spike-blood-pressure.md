@@ -6,10 +6,6 @@ description: >-
   especially dangerous for those over 50.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - hidden salt in food and blood pressure
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: hidden salt in food and blood pressure
 topicCluster: hypertension-management
 image: ''

@@ -1,14 +1,29 @@
 ---
-title: "7 Silent Signs of Diastolic Dysfunction You Might Miss at Home — Especially If You’re 65+ With Normal Ejection Fraction"
-slug: "7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction"
-description: "Explains subtle, non-classic symptoms like unexplained fatigue, orthopnea with minimal exertion, and nocturnal cough that signal early heart failure with preserved EF — and how to track them without imaging."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["silent signs diastolic dysfunction seniors", "heart health", "early-detection-symptoms"]
-primaryKeyword: "silent signs diastolic dysfunction seniors"
-topicCluster: "early-detection-symptoms"
-image: ""
-relatedSlugs: ["7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath", "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms", "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity", "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents"]
+title: >-
+  7 Silent Signs of Diastolic Dysfunction You Might Miss at Home — Especially If
+  You’re 65+ With Normal Ejection Fraction
+slug: >-
+  7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
+description: >-
+  Explains subtle, non-classic symptoms like unexplained fatigue, orthopnea with
+  minimal exertion, and nocturnal cough that signal early heart failure with
+  preserved EF — and how to track them without imaging.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: silent signs diastolic dysfunction seniors
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
+  - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
+  - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
+  - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # 7 Silent Signs of Diastolic Dysfunction You Might Overlook — Especially After 65 (Even With a “Normal” Heart Pump)

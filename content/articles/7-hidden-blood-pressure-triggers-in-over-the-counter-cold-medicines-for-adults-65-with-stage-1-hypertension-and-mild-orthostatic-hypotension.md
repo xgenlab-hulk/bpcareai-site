@@ -1,14 +1,28 @@
 ---
-title: "7 Hidden Blood Pressure Triggers in Over-the-Counter Cold Medicines for Adults 65+ With Stage 1 Hypertension and Mild Orthostatic Hypotension"
-slug: "7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension"
-description: "Identifies decongestants, NSAIDs, and herbal stimulants in common cold remedies that can acutely elevate systolic BP or destabilize autonomic regulation — with safer OTC alternatives and dosing cautions."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["cold medicine blood pressure elderly", "blood pressure", "medication-safety"]
-primaryKeyword: "cold medicine blood pressure elderly"
-topicCluster: "medication-safety"
-image: ""
-relatedSlugs: ["7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants", "could-your-medications-be-raising-your-blood-pressure", "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use", "10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68", "when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants"]
+title: >-
+  7 Hidden Blood Pressure Triggers in Over-the-Counter Cold Medicines for Adults
+  65+ With Stage 1 Hypertension and Mild Orthostatic Hypotension
+slug: >-
+  7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
+description: >-
+  Identifies decongestants, NSAIDs, and herbal stimulants in common cold
+  remedies that can acutely elevate systolic BP or destabilize autonomic
+  regulation — with safer OTC alternatives and dosing cautions.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: cold medicine blood pressure elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
+  - could-your-medications-be-raising-your-blood-pressure
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - >-
+    10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
+  - >-
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
 ---
 
 # Cold Medicine Blood Pressure Elderly: 7 Hidden Triggers in OTC Cold Remedies for Adults 65+ With Stage 1 Hypertension and Mild Orthostatic Hypotension

@@ -6,12 +6,8 @@ description: >-
   alcohol, indoor heating, and busy schedules reduce water intake.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - dehydration warning signs in seniors winter
-  - healthy holiday eating for seniors
-  - emergency-symptoms
 primaryKeyword: dehydration warning signs in seniors winter
-topicCluster: symptoms-emergencies
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70

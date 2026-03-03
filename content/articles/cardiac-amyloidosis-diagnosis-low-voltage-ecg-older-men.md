@@ -1,14 +1,30 @@
 ---
-title: "When to Suspect Cardiac Amyloidosis in Men 76+ With Unexplained Low-Voltage ECG, Bilateral Carpal Tunnel, and Progressive Fatigue — Even With Normal Echocardiogram"
-slug: "when-to-suspect-cardiac-amyloidosis-in-men-76-with-unexplained-low-voltage-ecg-bilateral-carpal-tunnel-and-progressive-fatigue-even-with-normal-echocardiogram"
-description: "A practical diagnostic roadmap for clinicians and patients, highlighting red-flag clinical triads, the limitations of standard echo, and when to pursue bone-avid tracer imaging."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["cardiac amyloidosis diagnosis low-voltage ecg older men", "heart health", "early-detection-cardiac-amyloidosis"]
-primaryKeyword: "cardiac amyloidosis diagnosis low-voltage ecg older men"
-topicCluster: "early-detection-cardiac-amyloidosis"
-image: ""
-relatedSlugs: ["red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue", "when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings", "when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction", "when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness", "warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue"]
+title: >-
+  When to Suspect Cardiac Amyloidosis in Men 76+ With Unexplained Low-Voltage
+  ECG, Bilateral Carpal Tunnel, and Progressive Fatigue — Even With Normal
+  Echocardiogram
+slug: >-
+  when-to-suspect-cardiac-amyloidosis-in-men-76-with-unexplained-low-voltage-ecg-bilateral-carpal-tunnel-and-progressive-fatigue-even-with-normal-echocardiogram
+description: >-
+  A practical diagnostic roadmap for clinicians and patients, highlighting
+  red-flag clinical triads, the limitations of standard echo, and when to pursue
+  bone-avid tracer imaging.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: cardiac amyloidosis diagnosis low-voltage ecg older men
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
+  - >-
+    warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue
 ---
 
 # When Cardiac Amyloidosis Diagnosis Low-Voltage ECG Older Men Should Raise a Red Flag — Even With a “Normal” Echo

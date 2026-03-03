@@ -6,12 +6,8 @@ description: >-
   won’t hurt' — with clinical insights.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - diabetes holiday myths vs facts
-  - managing blood sugar during Christmas and New Year
-  - education-awareness
 primaryKeyword: diabetes holiday myths vs facts
-topicCluster: education-awareness
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - the-truth-about-cheating-on-your-diet-during-family-celebrations

@@ -1,14 +1,28 @@
 ---
-title: "Does Your Blood Pressure Medication Interact With Common OTC Pain Relievers *Differently* After Age 68? A Safety Guide for NSAID and Acetaminophen Use"
-slug: "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use"
-description: "Clarifies age-specific pharmacokinetic shifts: reduced renal clearance of ARBs with ibuprofen, COX-2 selectivity pitfalls with celecoxib, and why acetaminophen’s BP effect intensifies in frail older adults with hepatic phase II decline."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["bp medication otc pain reliever interactions over 68", "blood pressure", "pharmacokinetic-safety"]
-primaryKeyword: "bp medication otc pain reliever interactions over 68"
-topicCluster: "pharmacokinetic-safety"
-image: ""
-relatedSlugs: ["the-impact-of-long-term-nsaid-use-on-heart-disease-risk", "why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62", "when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68", "could-your-medications-be-raising-your-blood-pressure", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing"]
+title: >-
+  Does Your Blood Pressure Medication Interact With Common OTC Pain Relievers
+  *Differently* After Age 68? A Safety Guide for NSAID and Acetaminophen Use
+slug: >-
+  does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+description: >-
+  Clarifies age-specific pharmacokinetic shifts: reduced renal clearance of ARBs
+  with ibuprofen, COX-2 selectivity pitfalls with celecoxib, and why
+  acetaminophen’s BP effect intensifies in frail older adults with hepatic phase
+  II decline.
+date: '2025-12-26'
+updated: '2025-12-26'
+primaryKeyword: bp medication otc pain reliever interactions over 68
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
+  - >-
+    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
+  - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
+  - could-your-medications-be-raising-your-blood-pressure
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
 ---
 
 # Understanding bp medication otc pain reliever interactions over 68: A Safety Guide for Older Adults

@@ -1,14 +1,27 @@
 ---
-title: "7 Silent Signs Your Holiday Meal Is Triggering Hidden Hypertension Fluctuations—Especially After Age 62"
-slug: "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62"
-description: "Subtle physiological cues (beyond BP readings) like facial flushing, morning fatigue, or post-meal brain fog that signal sodium- or alcohol-induced vascular stress in older adults."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["hidden hypertension signs after family meals", "healthy eating during family gatherings", "hypertension-symptom-recognition"]
-primaryKeyword: "hidden hypertension signs after family meals"
-topicCluster: "hypertension-symptom-recognition"
-image: ""
-relatedSlugs: ["what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65", "7-hidden-winter-habits-that-worsen-hypertension-after-60", "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60"]
+title: >-
+  7 Silent Signs Your Holiday Meal Is Triggering Hidden Hypertension
+  Fluctuations—Especially After Age 62
+slug: >-
+  7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+description: >-
+  Subtle physiological cues (beyond BP readings) like facial flushing, morning
+  fatigue, or post-meal brain fog that signal sodium- or alcohol-induced
+  vascular stress in older adults.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: hidden hypertension signs after family meals
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
+  - 7-hidden-winter-habits-that-worsen-hypertension-after-60
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
 ---
 
 # 7 Subtle Clues Your Holiday Meal Might Be Stirring Hidden Hypertension Signs After Family Meals

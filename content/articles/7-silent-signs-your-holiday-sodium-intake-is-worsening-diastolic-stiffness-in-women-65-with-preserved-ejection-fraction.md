@@ -1,14 +1,29 @@
 ---
-title: "7 Silent Signs Your Holiday Sodium Intake Is Worsening Diastolic Stiffness in Women 65+ With Preserved Ejection Fraction"
-slug: "7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction"
-description: "Identifies subtle, often-missed physiological cues—like morning ankle edema or midday brain fog—that signal sodium-induced ventricular rigidity during festive eating."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["silent signs sodium diastolic stiffness seniors", "healthy holiday eating for seniors", "cardiac-symptoms-warning-signs"]
-primaryKeyword: "silent signs sodium diastolic stiffness seniors"
-topicCluster: "cardiac-symptoms-warning-signs"
-image: ""
-relatedSlugs: ["7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62", "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents", "7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp", "warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy", "7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging"]
+title: >-
+  7 Silent Signs Your Holiday Sodium Intake Is Worsening Diastolic Stiffness in
+  Women 65+ With Preserved Ejection Fraction
+slug: >-
+  7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
+description: >-
+  Identifies subtle, often-missed physiological cues—like morning ankle edema or
+  midday brain fog—that signal sodium-induced ventricular rigidity during
+  festive eating.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: silent signs sodium diastolic stiffness seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+  - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
+  - >-
+    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
+  - >-
+    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
+  - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
 ---
 
 # 7 Quiet Clues Your Holiday Sodium Might Be Tightening Your Heart’s Diastolic Function—Especially If You’re a Woman 65+ With Preserved Ejection Fraction  

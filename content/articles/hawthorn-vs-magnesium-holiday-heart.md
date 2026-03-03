@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Warm Herbal Decoction (Chamomile + Hawthorn) vs. Standard Evening Magnesium Glycinate — Impact on Nocturnal AFib Burden in Men 61–75 With Holiday Heart Syndrome"
-slug: "a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome"
-description: "Compares two natural interventions using 7-day continuous ECG patch data, focusing on suppression of nocturnal atrial ectopy, parasympathetic tone restoration, and sleep architecture preservation — with pharmacokinetic and botanical synergy analysis."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["hawthorn vs magnesium holiday heart", "holiday heart syndrome prevention", "natural-remedy-comparison"]
-primaryKeyword: "hawthorn vs magnesium holiday heart"
-topicCluster: "natural-remedy-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation", "a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70", "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias", "quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81"]
+title: >-
+  A vs B: Warm Herbal Decoction (Chamomile + Hawthorn) vs. Standard Evening
+  Magnesium Glycinate — Impact on Nocturnal AFib Burden in Men 61–75 With
+  Holiday Heart Syndrome
+slug: >-
+  a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome
+description: >-
+  Compares two natural interventions using 7-day continuous ECG patch data,
+  focusing on suppression of nocturnal atrial ectopy, parasympathetic tone
+  restoration, and sleep architecture preservation — with pharmacokinetic and
+  botanical synergy analysis.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: hawthorn vs magnesium holiday heart
+topicCluster: natural-remedies
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
+  - >-
+    a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
+  - >-
+    quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
 ---
 
 # Chamomile-Hawthorn Decoction vs. Magnesium Glycinate for Nocturnal AFib in Men with Holiday Heart Syndrome: What the Data Shows

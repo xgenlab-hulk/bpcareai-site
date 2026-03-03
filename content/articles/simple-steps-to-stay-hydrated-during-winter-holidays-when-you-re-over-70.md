@@ -6,12 +6,8 @@ description: >-
   including non-caffeinated fluids and moisture-rich foods.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - staying hydrated in winter for seniors
-  - healthy holiday eating for seniors
-  - hydration-nutrition
 primaryKeyword: staying hydrated in winter for seniors
-topicCluster: nutrition-diet
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70

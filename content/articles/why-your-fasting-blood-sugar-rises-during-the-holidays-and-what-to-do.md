@@ -6,12 +6,8 @@ description: >-
   elevated morning glucose during Christmas and New Year celebrations.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - high fasting blood sugar holidays
-  - managing blood sugar during Christmas and New Year
-  - causes-risk-factors
 primaryKeyword: high fasting blood sugar holidays
-topicCluster: risk-factors
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - how-cold-weather-affects-blood-sugar-in-people-with-diabetes

@@ -6,12 +6,8 @@ description: >-
   fitness and blood pressure control.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - walking speed and blood pressure correlation
-  - blood pressure
-  - heart-health
 primaryKeyword: walking speed and blood pressure correlation
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-hearing-loss-be-an-early-sign-of-heart-disease

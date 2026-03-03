@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Ways to Reduce Coronary Artery Calcium (CAC) Progression — Without Statins — in Adults 55–64 With CAC Score 100–300"
-slug: "12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300"
-description: "Covers targeted lifestyle levers (e.g., vitamin K2-MK7 dosing, arterial pulse wave velocity biofeedback, magnesium threonate timing) validated in MESA, EPIC-Norfolk, and the K2-CAC trial."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["reduce coronary calcium without statins adults 55-64", "heart disease", "calcium-score-modification"]
-primaryKeyword: "reduce coronary calcium without statins adults 55-64"
-topicCluster: "calcium-score-modification"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55", "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a", "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance", "12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings", "natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80"]
+title: >-
+  12 Science-Backed Ways to Reduce Coronary Artery Calcium (CAC) Progression —
+  Without Statins — in Adults 55–64 With CAC Score 100–300
+slug: >-
+  12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
+description: >-
+  Covers targeted lifestyle levers (e.g., vitamin K2-MK7 dosing, arterial pulse
+  wave velocity biofeedback, magnesium threonate timing) validated in MESA,
+  EPIC-Norfolk, and the K2-CAC trial.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: reduce coronary calcium without statins adults 55-64
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
+  - >-
+    12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
+  - >-
+    12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings
+  - >-
+    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
 ---
 
 # 12 Science-Supported Ways to Reduce Coronary Calcium Without Statins in Adults 55–64

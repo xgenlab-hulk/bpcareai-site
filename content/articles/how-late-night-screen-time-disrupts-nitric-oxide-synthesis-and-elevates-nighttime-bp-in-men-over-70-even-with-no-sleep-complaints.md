@@ -1,14 +1,29 @@
 ---
-title: "How Late-Night Screen Time Disrupts Nitric Oxide Synthesis and Elevates Nighttime BP in Men Over 70—Even With No Sleep Complaints"
-slug: "how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints"
-description: "Explains blue-light–mediated suppression of endothelial nitric oxide synthase (eNOS) phosphorylation, independent of melatonin or sleep architecture—plus practical spectral-filtering interventions."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["screen time nitric oxide nighttime bp men 70", "blood pressure", "digital-environment-vascular-effects"]
-primaryKeyword: "screen time nitric oxide nighttime bp men 70"
-topicCluster: "digital-environment-vascular-effects"
-image: ""
-relatedSlugs: ["natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60", "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension", "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74"]
+title: >-
+  How Late-Night Screen Time Disrupts Nitric Oxide Synthesis and Elevates
+  Nighttime BP in Men Over 70—Even With No Sleep Complaints
+slug: >-
+  how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
+description: >-
+  Explains blue-light–mediated suppression of endothelial nitric oxide synthase
+  (eNOS) phosphorylation, independent of melatonin or sleep architecture—plus
+  practical spectral-filtering interventions.
+date: '2025-12-26'
+updated: '2025-12-26'
+primaryKeyword: screen time nitric oxide nighttime bp men 70
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
+  - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
 ---
 
 # How Late-Night Screen Use Affects Nitric Oxide and Nighttime Blood Pressure in Men Over 70—Even Without Sleep Issues

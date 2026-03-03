@@ -11,12 +11,8 @@ description: >-
   seniors.
 date: '2026-01-06'
 updated: '2026-01-06'
-tags:
-  - air fryer fries anticoagulant safety seniors
-  - heart health
-  - cooking-methods-anticoagulant-interactions
 primaryKeyword: air fryer fries anticoagulant safety seniors
-topicCluster: cooking-methods-anticoagulant-interactions
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

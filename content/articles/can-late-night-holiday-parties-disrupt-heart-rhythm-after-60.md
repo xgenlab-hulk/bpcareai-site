@@ -1,14 +1,20 @@
 ---
-title: "Can Late-Night Holiday Parties Disrupt Heart Rhythm After 60?"
-slug: "can-late-night-holiday-parties-disrupt-heart-rhythm-after-60"
-description: "Investigates how circadian disruption from extended festivities affects cardiac stability in older adults."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["late-night parties and heart rhythm", "holiday heart syndrome prevention", "sleep-lifestyle"]
-primaryKeyword: "late-night parties and heart rhythm"
-topicCluster: "sleep-lifestyle"
-image: ""
-relatedSlugs: ["how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm", "why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "the-connection-between-holiday-light-exposure-and-blood-sugar-regulation", "the-hidden-link-between-holiday-stress-and-irregular-heartbeat"]
+title: Can Late-Night Holiday Parties Disrupt Heart Rhythm After 60?
+slug: can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
+description: >-
+  Investigates how circadian disruption from extended festivities affects
+  cardiac stability in older adults.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: late-night parties and heart rhythm
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
+  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 
 # Can Late-Night Parties and Heart Rhythm Challenges Be Managed Safely After 60?

@@ -6,12 +6,8 @@ description: >-
   during high-risk festive periods.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - prevent holiday heart naturally
-  - holiday heart syndrome prevention
-  - natural-remedies
 primaryKeyword: prevent holiday heart naturally
-topicCluster: treatment-interventions
+topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

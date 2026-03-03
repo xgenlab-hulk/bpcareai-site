@@ -1,14 +1,29 @@
 ---
-title: "7 Silent Signs Your Left Ventricular Diastolic Function Is Declining — Especially If You Still Pass Standard EKGs and Walk 5,000 Steps Daily"
-slug: "7-silent-signs-your-left-ventricular-diastolic-function-is-declining-especially-if-you-still-pass-standard-ekgs-and-walk-5-000-steps-daily"
-description: "Highlights subtle, non-acute indicators of early diastolic dysfunction (e.g., unexplained exertional dyspnea on level ground, prolonged recovery HR, nocturnal cough) in high-functioning adults 60–75."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["silent signs of diastolic dysfunction", "heart disease", "early-detection-symptoms"]
-primaryKeyword: "silent signs of diastolic dysfunction"
-topicCluster: "early-detection-symptoms"
-image: ""
-relatedSlugs: ["7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction", "7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity", "7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg"]
+title: >-
+  7 Silent Signs Your Left Ventricular Diastolic Function Is Declining —
+  Especially If You Still Pass Standard EKGs and Walk 5,000 Steps Daily
+slug: >-
+  7-silent-signs-your-left-ventricular-diastolic-function-is-declining-especially-if-you-still-pass-standard-ekgs-and-walk-5-000-steps-daily
+description: >-
+  Highlights subtle, non-acute indicators of early diastolic dysfunction (e.g.,
+  unexplained exertional dyspnea on level ground, prolonged recovery HR,
+  nocturnal cough) in high-functioning adults 60–75.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: silent signs of diastolic dysfunction
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
+  - >-
+    7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
+  - >-
+    7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
 ---
 
 # 7 Quiet Clues Your Left Ventricular Diastolic Function May Be Slowing Down — Even With Normal EKGs and Daily Activity

@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Managing Diabetes While Caring for a Spouse With Advanced Dementia — For Adults 74+ With Type 2 Diabetes and Caregiver Burnout"
-slug: "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout"
-description: "Offers integrated strategies: glucose-safe meal prep for two, low-cognition medication reminders, stress-buffering routines, and CGM alerts synced to caregiver sleep cycles."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["diabetes management dementia caregiver seniors", "diabetes", "caregiver-diabetes-integration"]
-primaryKeyword: "diabetes management dementia caregiver seniors"
-topicCluster: "caregiver-diabetes-integration"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction", "10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit", "how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do", "the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations", "the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you"]
+title: >-
+  The Complete Guide to Managing Diabetes While Caring for a Spouse With
+  Advanced Dementia — For Adults 74+ With Type 2 Diabetes and Caregiver Burnout
+slug: >-
+  the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
+description: >-
+  Offers integrated strategies: glucose-safe meal prep for two, low-cognition
+  medication reminders, stress-buffering routines, and CGM alerts synced to
+  caregiver sleep cycles.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: diabetes management dementia caregiver seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
+  - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+  - >-
+    how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do
+  - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
+  - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
 ---
 
 # Integrated Diabetes Management for Seniors Caring for a Spouse With Advanced Dementia

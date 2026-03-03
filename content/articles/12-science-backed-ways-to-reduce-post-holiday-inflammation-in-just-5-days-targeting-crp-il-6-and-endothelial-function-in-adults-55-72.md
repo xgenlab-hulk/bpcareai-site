@@ -1,14 +1,30 @@
 ---
-title: "12 Science-Backed Ways to Reduce Post-Holiday Inflammation in Just 5 Days—Targeting CRP, IL-6, and Endothelial Function in Adults 55–72"
-slug: "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72"
-description: "A clinically grounded, action-oriented protocol—including specific polyphenol-rich foods, cold-water immersion timing, walking cadence targets, and breathwork intervals—validated in a pilot RCT measuring inflammatory biomarkers pre- and post-holiday season."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["reduce holiday inflammation in 5 days", "healthy eating during family gatherings", "inflammation-recovery"]
-primaryKeyword: "reduce holiday inflammation in 5 days"
-topicCluster: "inflammation-recovery"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis", "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits", "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp", "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80"]
+title: >-
+  12 Science-Backed Ways to Reduce Post-Holiday Inflammation in Just 5
+  Days—Targeting CRP, IL-6, and Endothelial Function in Adults 55–72
+slug: >-
+  12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
+description: >-
+  A clinically grounded, action-oriented protocol—including specific
+  polyphenol-rich foods, cold-water immersion timing, walking cadence targets,
+  and breathwork intervals—validated in a pilot RCT measuring inflammatory
+  biomarkers pre- and post-holiday season.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: reduce holiday inflammation in 5 days
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
+  - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp
+  - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
 ---
 
 # 12 Science-Backed Ways to Reduce Holiday Inflammation in Just 5 Days—A Gentle, Evidence-Informed Plan for Adults 55–72

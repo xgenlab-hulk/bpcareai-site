@@ -1,14 +1,29 @@
 ---
-title: "A vs B: 10-Minute Morning Sunlight Exposure vs. 6-Minute Evening Blue-Blocking Glasses — Impact on Circadian BP Dip in Adults 61–78 With Non-Dipping Pattern"
-slug: "a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern"
-description: "Compares two circadian interventions for restoring nocturnal BP decline, referencing RCT data on melatonin phase-shifting, cortisol rhythm normalization, and 24-hour systolic variability."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["sunlight vs blue-blocking glasses blood pressure dip", "blood pressure", "lifestyle-modifications"]
-primaryKeyword: "sunlight vs blue-blocking glasses blood pressure dip"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74", "how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension", "a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension", "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension"]
+title: >-
+  A vs B: 10-Minute Morning Sunlight Exposure vs. 6-Minute Evening Blue-Blocking
+  Glasses — Impact on Circadian BP Dip in Adults 61–78 With Non-Dipping Pattern
+slug: >-
+  a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern
+description: >-
+  Compares two circadian interventions for restoring nocturnal BP decline,
+  referencing RCT data on melatonin phase-shifting, cortisol rhythm
+  normalization, and 24-hour systolic variability.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: sunlight vs blue-blocking glasses blood pressure dip
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74
+  - >-
+    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
+  - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
 ---
 
 # Sunlight vs Blue-Blocking Glasses Blood Pressure Dip: Which Morning or Evening Habit Helps Restore Your Nighttime BP Drop?

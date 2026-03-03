@@ -10,12 +10,8 @@ description: >-
   shear stress — not stenosis severity.
 date: '2026-01-17'
 updated: '2026-01-17'
-tags:
-  - asymptomatic heart disease subclinical atherosclerosis
-  - heart disease
-  - asymptomatic-plaque-risk-misconceptions
 primaryKeyword: asymptomatic heart disease subclinical atherosclerosis
-topicCluster: asymptomatic-plaque-risk-misconceptions
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

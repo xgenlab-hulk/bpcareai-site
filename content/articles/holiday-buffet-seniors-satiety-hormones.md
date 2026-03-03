@@ -1,14 +1,28 @@
 ---
-title: "The Ultimate Guide to Navigating Holiday Buffets With Age-Related Satiety Hormone Decline — Including Visual Cues, Plate Size, and Protein-First Sequencing"
-slug: "the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing"
-description: "A step-by-step visual and behavioral framework for buffet-style events, grounded in leptin/ghrelin aging research and validated in community-dwelling adults 65–83."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["holiday buffet seniors satiety hormones", "healthy holiday eating for seniors", "appetite-regulation-strategy"]
-primaryKeyword: "holiday buffet seniors satiety hormones"
-topicCluster: "appetite-regulation-strategy"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies", "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75", "how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes", "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60"]
+title: >-
+  The Ultimate Guide to Navigating Holiday Buffets With Age-Related Satiety
+  Hormone Decline — Including Visual Cues, Plate Size, and Protein-First
+  Sequencing
+slug: >-
+  the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing
+description: >-
+  A step-by-step visual and behavioral framework for buffet-style events,
+  grounded in leptin/ghrelin aging research and validated in community-dwelling
+  adults 65–83.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: holiday buffet seniors satiety hormones
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - >-
+    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
+  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 ---
 
 # Navigating Holiday Buffets With Age-Related Satiety Hormone Changes: A Practical Guide for Seniors

@@ -1,14 +1,29 @@
 ---
-title: "5 Things You Should Know Before Starting a 'Heart-Smart' Walking Group — Especially If You’re 78+ With Spinal Stenosis and Mild Aortic Stenosis"
-slug: "5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis"
-description: "Addresses gait variability thresholds, safe incline limits, pacing strategies to avoid subaortic pressure overload, and how to spot subtle exertional presyncope masked by group energy."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["walking group safety aortic stenosis seniors 78+", "heart disease", "exercise-safety-comorbidities"]
-primaryKeyword: "walking group safety aortic stenosis seniors 78+"
-topicCluster: "exercise-safety-comorbidities"
-image: ""
-relatedSlugs: ["best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban", "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats", "5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program", "5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring", "quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension"]
+title: >-
+  5 Things You Should Know Before Starting a 'Heart-Smart' Walking Group —
+  Especially If You’re 78+ With Spinal Stenosis and Mild Aortic Stenosis
+slug: >-
+  5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis
+description: >-
+  Addresses gait variability thresholds, safe incline limits, pacing strategies
+  to avoid subaortic pressure overload, and how to spot subtle exertional
+  presyncope masked by group energy.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: walking group safety aortic stenosis seniors 78+
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - >-
+    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
+  - >-
+    5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
+  - >-
+    quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
 ---
 
 # Walking Group Safety for Seniors 78+ With Aortic Stenosis: What You Need to Know Before Stepping Out

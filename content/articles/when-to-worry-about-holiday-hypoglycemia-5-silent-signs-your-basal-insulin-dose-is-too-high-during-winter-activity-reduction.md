@@ -1,14 +1,27 @@
 ---
-title: "When to Worry About ‘Holiday Hypoglycemia’ — 5 Silent Signs Your Basal Insulin Dose Is Too High During Winter Activity Reduction"
-slug: "when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction"
-description: "Identifies under-recognized hypoglycemia patterns—including paradoxical fatigue, nocturnal sweating without tremor, and morning hyperglycemia due to rebound—that escalate when holiday routines reduce daily step count by >40%."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["holiday hypoglycemia warning signs seniors", "holiday diabetes management", "emergency-symptoms"]
-primaryKeyword: "holiday hypoglycemia warning signs seniors"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know", "dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70", "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity"]
+title: >-
+  When to Worry About ‘Holiday Hypoglycemia’ — 5 Silent Signs Your Basal Insulin
+  Dose Is Too High During Winter Activity Reduction
+slug: >-
+  when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+description: >-
+  Identifies under-recognized hypoglycemia patterns—including paradoxical
+  fatigue, nocturnal sweating without tremor, and morning hyperglycemia due to
+  rebound—that escalate when holiday routines reduce daily step count by >40%.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: holiday hypoglycemia warning signs seniors
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
+  - >-
+    dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # Holiday Hypoglycemia Warning Signs in Seniors: What to Watch For When Activity Drops

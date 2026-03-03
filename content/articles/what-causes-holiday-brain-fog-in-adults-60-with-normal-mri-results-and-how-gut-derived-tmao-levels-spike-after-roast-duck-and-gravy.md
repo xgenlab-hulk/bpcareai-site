@@ -1,14 +1,29 @@
 ---
-title: "What Causes ‘Holiday Brain Fog’ in Adults 60+ With Normal MRI Results — And How Gut-Derived TMAO Levels Spike After Roast Duck and Gravy"
-slug: "what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy"
-description: "Connects festive high-choline meals to gut microbiota shifts and TMAO elevation, explaining cognitive sluggishness as a metabolic phenomenon—not just fatigue or aging."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["holiday brain fog tmao seniors", "healthy holiday eating for seniors", "gut-brain-metabolism-link"]
-primaryKeyword: "holiday brain fog tmao seniors"
-topicCluster: "gut-brain-metabolism-link"
-image: ""
-relatedSlugs: ["when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion", "what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment", "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80", "how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment", "how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80"]
+title: >-
+  What Causes ‘Holiday Brain Fog’ in Adults 60+ With Normal MRI Results — And
+  How Gut-Derived TMAO Levels Spike After Roast Duck and Gravy
+slug: >-
+  what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy
+description: >-
+  Connects festive high-choline meals to gut microbiota shifts and TMAO
+  elevation, explaining cognitive sluggishness as a metabolic phenomenon—not
+  just fatigue or aging.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: holiday brain fog tmao seniors
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion
+  - >-
+    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
+  - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
+  - >-
+    how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
+  - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
 ---
 
 # Understanding Holiday Brain Fog TMAO Seniors: A Gentle Look at Festive Eating and Cognitive Clarity

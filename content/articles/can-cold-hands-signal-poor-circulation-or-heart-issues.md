@@ -6,10 +6,6 @@ description: >-
   cardiovascular concerns.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - cold hands and poor circulation heart health
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: cold hands and poor circulation heart health
 topicCluster: cardiovascular-health
 image: ''

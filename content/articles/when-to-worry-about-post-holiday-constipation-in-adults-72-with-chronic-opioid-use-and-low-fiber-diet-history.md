@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About Post-Holiday Constipation in Adults 72+ With Chronic Opioid Use and Low-Fiber Diet History"
-slug: "when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history"
-description: "Distinguishes functional constipation from opioid-induced colonic inertia, fecal impaction risk, and silent bowel obstruction — with red-flag symptoms, at-home assessment tools, and safe fiber reintroduction protocols."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["post-holiday constipation opioid warning signs", "healthy eating during family gatherings", "gastrointestinal-emergency"]
-primaryKeyword: "post-holiday constipation opioid warning signs"
-topicCluster: "gastrointestinal-emergency"
-image: ""
-relatedSlugs: ["what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65", "natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics", "natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy", "how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction", "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation"]
+title: >-
+  When to Worry About Post-Holiday Constipation in Adults 72+ With Chronic
+  Opioid Use and Low-Fiber Diet History
+slug: >-
+  when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history
+description: >-
+  Distinguishes functional constipation from opioid-induced colonic inertia,
+  fecal impaction risk, and silent bowel obstruction — with red-flag symptoms,
+  at-home assessment tools, and safe fiber reintroduction protocols.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: post-holiday constipation opioid warning signs
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
+  - >-
+    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
+  - >-
+    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
+  - >-
+    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 ---
 
 # When to Take Post-Holiday Constipation Opioid Warning Signs Seriously in Adults 72+

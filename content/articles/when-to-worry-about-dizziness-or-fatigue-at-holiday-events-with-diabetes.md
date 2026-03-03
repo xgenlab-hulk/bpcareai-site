@@ -6,12 +6,8 @@ description: >-
   fluctuations in adults over 60.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - holiday dizziness diabetes warning signs
-  - holiday diabetes management
-  - emergency-symptoms
 primaryKeyword: holiday dizziness diabetes warning signs
-topicCluster: symptoms-emergencies
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

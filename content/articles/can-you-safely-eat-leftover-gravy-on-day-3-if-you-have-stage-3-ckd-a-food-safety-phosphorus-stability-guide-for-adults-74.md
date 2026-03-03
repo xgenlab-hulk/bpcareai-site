@@ -1,14 +1,29 @@
 ---
-title: "Can You Safely Eat Leftover Gravy on Day 3 If You Have Stage 3 CKD? — A Food Safety + Phosphorus Stability Guide for Adults 74+"
-slug: "can-you-safely-eat-leftover-gravy-on-day-3-if-you-have-stage-3-ckd-a-food-safety-phosphorus-stability-guide-for-adults-74"
-description: "Analyzes microbial risk, phosphate leaching from bones into reheated gravies, and safe storage/reheating protocols tailored for seniors with chronic kidney disease and reduced gastric acidity."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["leftover gravy safety stage 3 ckd", "healthy holiday eating for seniors", "food-safety-renal-health"]
-primaryKeyword: "leftover gravy safety stage 3 ckd"
-topicCluster: "food-safety-renal-health"
-image: ""
-relatedSlugs: ["7-silent-signs-your-holiday-gravy-contains-hidden-phosphate-additives-and-why-that-matters-for-adults-74-with-stage-3-ckd", "5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems", "how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy", "can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide", "a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis"]
+title: >-
+  Can You Safely Eat Leftover Gravy on Day 3 If You Have Stage 3 CKD? — A Food
+  Safety + Phosphorus Stability Guide for Adults 74+
+slug: >-
+  can-you-safely-eat-leftover-gravy-on-day-3-if-you-have-stage-3-ckd-a-food-safety-phosphorus-stability-guide-for-adults-74
+description: >-
+  Analyzes microbial risk, phosphate leaching from bones into reheated gravies,
+  and safe storage/reheating protocols tailored for seniors with chronic kidney
+  disease and reduced gastric acidity.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: leftover gravy safety stage 3 ckd
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-holiday-gravy-contains-hidden-phosphate-additives-and-why-that-matters-for-adults-74-with-stage-3-ckd
+  - >-
+    5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
+  - >-
+    how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
+  - >-
+    can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
+  - >-
+    a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis
 ---
 
 # Leftover Gravy Safety Stage 3 CKD: A Practical Guide for Adults 74+ with Chronic Kidney Disease

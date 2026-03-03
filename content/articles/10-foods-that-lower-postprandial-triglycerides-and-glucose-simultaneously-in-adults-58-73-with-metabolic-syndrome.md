@@ -10,12 +10,8 @@ description: >-
   polyphenol-fiber synergy and delayed lipolysis.
 date: '2025-12-27'
 updated: '2025-12-27'
-tags:
-  - foods lower triglycerides and glucose metabolic syndrome
-  - diabetes
-  - dual-metabolic-targeting-foods
 primaryKeyword: foods lower triglycerides and glucose metabolic syndrome
-topicCluster: dual-metabolic-targeting-foods
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

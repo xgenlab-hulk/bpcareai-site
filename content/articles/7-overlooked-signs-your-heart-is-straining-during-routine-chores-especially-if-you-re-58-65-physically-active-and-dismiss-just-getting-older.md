@@ -1,14 +1,29 @@
 ---
-title: "7 Overlooked Signs Your Heart Is Straining During Routine Chores — Especially If You're 58–65, Physically Active, and Dismiss 'Just Getting Older'"
-slug: "7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older"
-description: "Identifies subtle but clinically meaningful exertional cues (e.g., delayed speech recovery after vacuuming, post-stairway jaw fatigue) that precede formal diastolic dysfunction diagnosis in high-functioning midlife adults."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["early heart strain signs routine activity", "heart health", "subclinical-symptom-recognition"]
-primaryKeyword: "early heart strain signs routine activity"
-topicCluster: "subclinical-symptom-recognition"
-image: ""
-relatedSlugs: ["7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear"]
+title: >-
+  7 Overlooked Signs Your Heart Is Straining During Routine Chores — Especially
+  If You're 58–65, Physically Active, and Dismiss 'Just Getting Older'
+slug: >-
+  7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
+description: >-
+  Identifies subtle but clinically meaningful exertional cues (e.g., delayed
+  speech recovery after vacuuming, post-stairway jaw fatigue) that precede
+  formal diastolic dysfunction diagnosis in high-functioning midlife adults.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: early heart strain signs routine activity
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
 ---
 
 # Early Heart Strain Signs During Routine Activity — What Active Adults 58–65 Should Notice *Before* Symptoms Escalate

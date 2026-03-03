@@ -10,12 +10,8 @@ description: >-
   stabilize early-stage diabetic eye disease.
 date: '2026-01-10'
 updated: '2026-01-10'
-tags:
-  - aspirin diabetic retinopathy men 68-80
-  - diabetes
-  - medication-complication-interaction
 primaryKeyword: aspirin diabetic retinopathy men 68-80
-topicCluster: medication-complication-interaction
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

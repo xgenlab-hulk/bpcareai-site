@@ -1,14 +1,24 @@
 ---
-title: "Simple Steps to Turn Your Grandchild’s Birthday Cake Into a Blood Sugar–Friendly Treat—Without Removing Joy or Tradition"
-slug: "simple-steps-to-turn-your-grandchild-s-birthday-cake-into-a-blood-sugar-friendly-treat-without-removing-joy-or-tradition"
-description: "A compassionate, child-inclusive approach to modifying celebratory desserts: swapping sweeteners, adjusting texture, rethinking frosting—and preserving emotional safety for both child and aging caregiver."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["blood sugar friendly birthday cake seniors", "healthy eating during family gatherings", "intergenerational-diet-modification"]
-primaryKeyword: "blood sugar friendly birthday cake seniors"
-topicCluster: "intergenerational-diet-modification"
-image: ""
-relatedSlugs: ["best-low-carb-desserts-for-diabetics-over-60-this-holiday-season", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season"]
+title: >-
+  Simple Steps to Turn Your Grandchild’s Birthday Cake Into a Blood
+  Sugar–Friendly Treat—Without Removing Joy or Tradition
+slug: >-
+  simple-steps-to-turn-your-grandchild-s-birthday-cake-into-a-blood-sugar-friendly-treat-without-removing-joy-or-tradition
+description: >-
+  A compassionate, child-inclusive approach to modifying celebratory desserts:
+  swapping sweeteners, adjusting texture, rethinking frosting—and preserving
+  emotional safety for both child and aging caregiver.
+date: '2025-12-24'
+updated: '2025-12-24'
+primaryKeyword: blood sugar friendly birthday cake seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
 ---
 
 # How to Make a Blood Sugar Friendly Birthday Cake for Seniors—Without Losing the Celebration

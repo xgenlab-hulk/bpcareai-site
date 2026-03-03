@@ -11,12 +11,8 @@ description: >-
   patients, controlling for frailty and sarcopenia metrics.
 date: '2026-01-09'
 updated: '2026-01-09'
-tags:
-  - heart rate recovery and hfpef mortality
-  - heart disease
-  - functional-testing-prognosis
 primaryKeyword: heart rate recovery and hfpef mortality
-topicCluster: functional-testing-prognosis
+topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-

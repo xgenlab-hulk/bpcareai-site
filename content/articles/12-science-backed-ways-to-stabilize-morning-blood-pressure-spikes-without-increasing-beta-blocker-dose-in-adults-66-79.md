@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Ways to Stabilize Morning Blood Pressure Spikes Without Increasing Beta-Blocker Dose in Adults 66–79"
-slug: "12-science-backed-ways-to-stabilize-morning-blood-pressure-spikes-without-increasing-beta-blocker-dose-in-adults-66-79"
-description: "Presents nonpharmacologic timing interventions—including pre-awakening hydration, timed light exposure, and targeted respiratory pacing—validated in morning-hypertension cohorts."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["stabilize morning blood pressure spikes nonpharmacologic", "blood pressure", "morning-hypertension-management"]
-primaryKeyword: "stabilize morning blood pressure spikes nonpharmacologic"
-topicCluster: "morning-hypertension-management"
-image: ""
-relatedSlugs: ["can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension", "how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60"]
+title: >-
+  12 Science-Backed Ways to Stabilize Morning Blood Pressure Spikes Without
+  Increasing Beta-Blocker Dose in Adults 66–79
+slug: >-
+  12-science-backed-ways-to-stabilize-morning-blood-pressure-spikes-without-increasing-beta-blocker-dose-in-adults-66-79
+description: >-
+  Presents nonpharmacologic timing interventions—including pre-awakening
+  hydration, timed light exposure, and targeted respiratory pacing—validated in
+  morning-hypertension cohorts.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: stabilize morning blood pressure spikes nonpharmacologic
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
+  - >-
+    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
 ---
 
 # 12 Science-Backed Ways to Stabilize Morning Blood Pressure Spikes Without Medication Changes in Adults 66–79

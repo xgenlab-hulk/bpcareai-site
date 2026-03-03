@@ -1,14 +1,30 @@
 ---
-title: "12 Foods That Support Cardiac Fibroblast Quiescence *Without* Activating TGF-β Signaling — For Adults 59–68 With Early Diastolic Stiffness and Normal Ejection Fraction"
-slug: "12-foods-that-support-cardiac-fibroblast-quiescence-without-activating-tgf-signaling-for-adults-59-68-with-early-diastolic-stiffness-and-normal-ejection-fraction"
-description: "Highlights nutritionally targeted foods that help maintain healthy heart tissue elasticity by modulating fibroblast behavior—addressing a preclinical stage of heart failure often missed by standard echo."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["foods cardiac fibroblast quiescence seniors", "heart health", "cardiac-tissue-remodeling-nutrition"]
-primaryKeyword: "foods cardiac fibroblast quiescence seniors"
-topicCluster: "cardiac-tissue-remodeling-nutrition"
-image: ""
-relatedSlugs: ["5-foods-that-support-cardiac-fibroblast-quiescence-without-suppressing-collagen-turnover-for-adults-70-with-early-diastolic-dysfunction-and-normal-troponin", "12-foods-that-support-cardiac-fibroblast-quiescence-without-inhibiting-wound-healing-for-adults-69-with-prior-myocardial-infarction-and-stable-scar", "10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis", "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib", "10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers"]
+title: >-
+  12 Foods That Support Cardiac Fibroblast Quiescence *Without* Activating TGF-β
+  Signaling — For Adults 59–68 With Early Diastolic Stiffness and Normal
+  Ejection Fraction
+slug: >-
+  12-foods-that-support-cardiac-fibroblast-quiescence-without-activating-tgf-signaling-for-adults-59-68-with-early-diastolic-stiffness-and-normal-ejection-fraction
+description: >-
+  Highlights nutritionally targeted foods that help maintain healthy heart
+  tissue elasticity by modulating fibroblast behavior—addressing a preclinical
+  stage of heart failure often missed by standard echo.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: foods cardiac fibroblast quiescence seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    5-foods-that-support-cardiac-fibroblast-quiescence-without-suppressing-collagen-turnover-for-adults-70-with-early-diastolic-dysfunction-and-normal-troponin
+  - >-
+    12-foods-that-support-cardiac-fibroblast-quiescence-without-inhibiting-wound-healing-for-adults-69-with-prior-myocardial-infarction-and-stable-scar
+  - >-
+    10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+  - >-
+    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
 ---
 
 # 12 Heart-Supportive Foods That Help Maintain Cardiac Fibroblast Quiescence—Especially for Adults 59–68

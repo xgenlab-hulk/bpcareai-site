@@ -1,14 +1,30 @@
 ---
-title: "7 Hidden Glycemic Traps in 'Healthy' Holiday Buffets — Why Roasted Brussels Sprouts with Balsamic Glaze, Lentil Salad, and Herb-Roasted Carrots Often Spike Glucose More Than Mashed Potatoes"
-slug: "7-hidden-glycemic-traps-in-healthy-holiday-buffets-why-roasted-brussels-sprouts-with-balsamic-glaze-lentil-salad-and-herb-roasted-carrots-often-spike-glucose-more-than-mashed-potatoes"
-description: "Reveals how cooking methods (caramelization), acid suppression (balsamic), and starch retrogradation loss in reheated legumes create unexpected glycemic loads in seemingly safe dishes."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["healthy holiday buffet glycemic traps", "holiday diabetes management", "buffet-glycemic-surprises"]
-primaryKeyword: "healthy holiday buffet glycemic traps"
-topicCluster: "buffet-glycemic-surprises"
-image: ""
-relatedSlugs: ["7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes", "7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish", "7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish", "how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy", "7-hidden-sugar-traps-in-healthy-family-style-salads-especially-for-women-over-60-with-insulin-resistance"]
+title: >-
+  7 Hidden Glycemic Traps in 'Healthy' Holiday Buffets — Why Roasted Brussels
+  Sprouts with Balsamic Glaze, Lentil Salad, and Herb-Roasted Carrots Often
+  Spike Glucose More Than Mashed Potatoes
+slug: >-
+  7-hidden-glycemic-traps-in-healthy-holiday-buffets-why-roasted-brussels-sprouts-with-balsamic-glaze-lentil-salad-and-herb-roasted-carrots-often-spike-glucose-more-than-mashed-potatoes
+description: >-
+  Reveals how cooking methods (caramelization), acid suppression (balsamic), and
+  starch retrogradation loss in reheated legumes create unexpected glycemic
+  loads in seemingly safe dishes.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: healthy holiday buffet glycemic traps
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
+  - >-
+    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
+  - >-
+    how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
+  - >-
+    7-hidden-sugar-traps-in-healthy-family-style-salads-especially-for-women-over-60-with-insulin-resistance
 ---
 
 # Hidden Glycemic Traps in ‘Healthy’ Holiday Buffets — What You Need to Know About Healthy Holiday Buffet Glycemic Traps

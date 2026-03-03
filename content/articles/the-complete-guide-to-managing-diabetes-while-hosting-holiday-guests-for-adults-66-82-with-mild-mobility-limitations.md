@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Managing Diabetes While Hosting Holiday Guests — For Adults 66–82 With Mild Mobility Limitations"
-slug: "the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations"
-description: "Practical, step-by-step planning covering food prep adaptations, guest communication scripts, safety net protocols for missed doses, and delegation frameworks — centered on autonomy and dignity."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["diabetes management hosting holiday guests elderly", "holiday diabetes management", "caregiving-hosting-strategy"]
-primaryKeyword: "diabetes management hosting holiday guests elderly"
-topicCluster: "caregiving-hosting-strategy"
-image: ""
-relatedSlugs: ["5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy", "10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit", "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors", "5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health"]
+title: >-
+  The Complete Guide to Managing Diabetes While Hosting Holiday Guests — For
+  Adults 66–82 With Mild Mobility Limitations
+slug: >-
+  the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
+description: >-
+  Practical, step-by-step planning covering food prep adaptations, guest
+  communication scripts, safety net protocols for missed doses, and delegation
+  frameworks — centered on autonomy and dignity.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: diabetes management hosting holiday guests elderly
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+  - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
+  - >-
+    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
 ---
 
 # A Thoughtful, Dignified Approach to Diabetes Management Hosting Holiday Guests Elderly

@@ -6,10 +6,6 @@ description: >-
   appear.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - annual heart screenings after 60
-  - heart disease
-  - heart-health
 primaryKeyword: annual heart screenings after 60
 topicCluster: cardiovascular-health
 image: ''

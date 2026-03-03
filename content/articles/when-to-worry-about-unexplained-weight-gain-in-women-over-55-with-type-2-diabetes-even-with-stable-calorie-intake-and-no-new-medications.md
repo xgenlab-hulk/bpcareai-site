@@ -9,12 +9,8 @@ description: >-
   tissue inflammation as drivers—and introduces targeted diagnostic thresholds.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - unexplained weight gain diabetes women 55+
-  - diabetes
-  - weight-gain-clues
 primaryKeyword: unexplained weight gain diabetes women 55+
-topicCluster: weight-gain-clues
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60

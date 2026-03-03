@@ -1,14 +1,25 @@
 ---
-title: "12 Science-Backed Ways to Stabilize Blood Glucose During Holiday Social Events — Without Skipping the Party or Going Hungry"
-slug: "12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry"
-description: "Evidence-based behavioral, nutritional, and biometric strategies: pre-event protein priming, 'plate mapping' for carb control, mindful sipping protocols, and real-time CGM nudges — tested in RCTs with adults 50–74."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["stabilize blood glucose holiday events", "holiday diabetes management", "behavioral-glucose-management"]
-primaryKeyword: "stabilize blood glucose holiday events"
-topicCluster: "behavioral-glucose-management"
-image: ""
-relatedSlugs: ["managing-type-2-diabetes-while-attending-back-to-back-holiday-parties", "5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes", "12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides"]
+title: >-
+  12 Science-Backed Ways to Stabilize Blood Glucose During Holiday Social Events
+  — Without Skipping the Party or Going Hungry
+slug: >-
+  12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+description: >-
+  Evidence-based behavioral, nutritional, and biometric strategies: pre-event
+  protein priming, 'plate mapping' for carb control, mindful sipping protocols,
+  and real-time CGM nudges — tested in RCTs with adults 50–74.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: stabilize blood glucose holiday events
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
+  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides
 ---
 
 # 12 Science-Backed Ways to Stabilize Blood Glucose During Holiday Social Events — Without Missing Out

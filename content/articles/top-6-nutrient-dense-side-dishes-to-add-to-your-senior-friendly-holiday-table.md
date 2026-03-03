@@ -6,12 +6,8 @@ description: >-
   that support immunity and energy in older adults.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - nutrient-dense holiday side dishes seniors
-  - healthy holiday eating for seniors
-  - diet-nutrition
 primaryKeyword: nutrient-dense holiday side dishes seniors
-topicCluster: nutrition-diet
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50

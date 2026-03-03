@@ -1,14 +1,20 @@
 ---
-title: "7 Hidden Winter Habits That Worsen Hypertension After 60"
-slug: "7-hidden-winter-habits-that-worsen-hypertension-after-60"
-description: "Identifies common but overlooked seasonal behaviors—like reduced activity and holiday salt intake—that can silently elevate blood pressure in seniors."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["winter habits and blood pressure", "senior blood pressure control in winter", "lifestyle-modifications"]
-primaryKeyword: "winter habits and blood pressure"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["the-link-between-winter-depression-and-high-blood-pressure-in-older-adults", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now"]
+title: 7 Hidden Winter Habits That Worsen Hypertension After 60
+slug: 7-hidden-winter-habits-that-worsen-hypertension-after-60
+description: >-
+  Identifies common but overlooked seasonal behaviors—like reduced activity and
+  holiday salt intake—that can silently elevate blood pressure in seniors.
+date: '2025-12-19'
+updated: '2025-12-19'
+primaryKeyword: winter habits and blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
 ---
 
 # How Winter Habits and Blood Pressure Interact in Adults Over 60

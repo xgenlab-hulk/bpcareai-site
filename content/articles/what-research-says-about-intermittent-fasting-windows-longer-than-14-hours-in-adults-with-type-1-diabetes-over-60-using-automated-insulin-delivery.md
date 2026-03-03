@@ -1,14 +1,27 @@
 ---
-title: "What Research Says About Intermittent Fasting Windows Longer Than 14 Hours in Adults With Type 1 Diabetes Over 60 Using Automated Insulin Delivery"
-slug: "what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery"
-description: "Synthesizes findings from 3 recent observational cohorts on time-in-range degradation, ketosis risk during fasting, and how aging beta-cell reserve (even in T1D) alters counterregulatory response."
-date: "2025-12-28"
-updated: "2025-12-28"
-tags: ["intermittent fasting type 1 diabetes seniors", "diabetes", "fasting-and-automated-delivery"]
-primaryKeyword: "intermittent fasting type 1 diabetes seniors"
-topicCluster: "fasting-and-automated-delivery"
-image: ""
-relatedSlugs: ["can-intermittent-fasting-help-manage-type-2-diabetes-after-60", "what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time", "how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes", "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes"]
+title: >-
+  What Research Says About Intermittent Fasting Windows Longer Than 14 Hours in
+  Adults With Type 1 Diabetes Over 60 Using Automated Insulin Delivery
+slug: >-
+  what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
+description: >-
+  Synthesizes findings from 3 recent observational cohorts on time-in-range
+  degradation, ketosis risk during fasting, and how aging beta-cell reserve
+  (even in T1D) alters counterregulatory response.
+date: '2025-12-28'
+updated: '2025-12-28'
+primaryKeyword: intermittent fasting type 1 diabetes seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
+  - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
 ---
 
 # Intermittent Fasting and Type 1 Diabetes in Seniors: What the Latest Research Shows for Adults Over 60 Using Automated Insulin Delivery

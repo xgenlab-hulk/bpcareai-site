@@ -1,14 +1,25 @@
 ---
-title: "Does Daily 1.5 g of Algal DHA (Without EPA) Improve Endothelial-Dependent Vasodilation in Women 59–75 With Hypertension and Low Omega-3 Index (<4%)?"
-slug: "does-daily-1-5-g-of-algal-dha-without-epa-improve-endothelial-dependent-vasodilation-in-women-59-75-with-hypertension-and-low-omega-3-index-4"
-description: "Evaluates DHA-specific effects on FMD, red blood cell membrane fluidity, and eNOS coupling — distinguishing outcomes from mixed omega-3 formulations in female-dominant cohorts."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["algal dha endothelial function women", "blood pressure", "omega-3-endpoint-specificity"]
-primaryKeyword: "algal dha endothelial function women"
-topicCluster: "omega-3-endpoint-specificity"
-image: ""
-relatedSlugs: ["can-daily-12-second-nitric-oxide-nasal-sprays-improve-endothelial-function-in-women-58-69-with-morning-hypertension-and-cold-induced-raynaud-s", "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling", "does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome"]
+title: >-
+  Does Daily 1.5 g of Algal DHA (Without EPA) Improve Endothelial-Dependent
+  Vasodilation in Women 59–75 With Hypertension and Low Omega-3 Index (<4%)?
+slug: >-
+  does-daily-1-5-g-of-algal-dha-without-epa-improve-endothelial-dependent-vasodilation-in-women-59-75-with-hypertension-and-low-omega-3-index-4
+description: >-
+  Evaluates DHA-specific effects on FMD, red blood cell membrane fluidity, and
+  eNOS coupling — distinguishing outcomes from mixed omega-3 formulations in
+  female-dominant cohorts.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: algal dha endothelial function women
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-12-second-nitric-oxide-nasal-sprays-improve-endothelial-function-in-women-58-69-with-morning-hypertension-and-cold-induced-raynaud-s
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+  - >-
+    does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
 ---
 
 # Can Algal DHA Alone Support Endothelial Function in Women 59–75 with High Blood Pressure and Low Omega-3 Levels?

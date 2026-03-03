@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Ways to Buffer Alcohol’s Glycemic & Vasodilatory Effects at Family Gatherings — For Adults 57–71 With Prediabetes and Orthostatic Hypotension"
-slug: "12-science-backed-ways-to-buffer-alcohol-s-glycemic-vasodilatory-effects-at-family-gatherings-for-adults-57-71-with-prediabetes-and-orthostatic-hypotension"
-description: "Presents evidence-based, non-pharmacologic tactics (e.g., co-ingestion timing, magnesium-rich snack pairings, post-drink movement windows) to mitigate alcohol’s dual impact on glucose stability and blood pressure lability in at-risk older adults."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["buffer alcohol glycemic vasodilatory effects", "healthy eating during family gatherings", "alcohol-physiology-modulation"]
-primaryKeyword: "buffer alcohol glycemic vasodilatory effects"
-topicCluster: "alcohol-physiology-modulation"
-image: ""
-relatedSlugs: ["5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics", "can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know", "the-truth-about-alcohol-and-blood-sugar-during-holiday-parties", "12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement", "what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays"]
+title: >-
+  12 Science-Backed Ways to Buffer Alcohol’s Glycemic & Vasodilatory Effects at
+  Family Gatherings — For Adults 57–71 With Prediabetes and Orthostatic
+  Hypotension
+slug: >-
+  12-science-backed-ways-to-buffer-alcohol-s-glycemic-vasodilatory-effects-at-family-gatherings-for-adults-57-71-with-prediabetes-and-orthostatic-hypotension
+description: >-
+  Presents evidence-based, non-pharmacologic tactics (e.g., co-ingestion timing,
+  magnesium-rich snack pairings, post-drink movement windows) to mitigate
+  alcohol’s dual impact on glucose stability and blood pressure lability in
+  at-risk older adults.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: buffer alcohol glycemic vasodilatory effects
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
+  - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
+  - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
+  - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
+  - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
 ---
 
 # 12 Evidence-Based Strategies to Buffer Alcohol’s Glycemic & Vasodilatory Effects at Family Gatherings — For Adults 57–71 With Prediabetes and Orthostatic Hypotension

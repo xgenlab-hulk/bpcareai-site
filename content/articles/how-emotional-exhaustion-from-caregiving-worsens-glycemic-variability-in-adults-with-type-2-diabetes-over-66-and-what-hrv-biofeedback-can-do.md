@@ -1,14 +1,26 @@
 ---
-title: "How Emotional Exhaustion From Caregiving Worsens Glycemic Variability in Adults With Type 2 Diabetes Over 66—And What HRV Biofeedback Can Do"
-slug: "how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do"
-description: "Links caregiver stress burden to autonomic dysregulation, cortisol surges, and increased mean amplitude of glucose excursions—plus a validated 5-minute daily HRV protocol."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["caregiver stress and glycemic variability seniors", "diabetes", "caregiver-metabolism"]
-primaryKeyword: "caregiver stress and glycemic variability seniors"
-topicCluster: "caregiver-metabolism"
-image: ""
-relatedSlugs: ["how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68"]
+title: >-
+  How Emotional Exhaustion From Caregiving Worsens Glycemic Variability in
+  Adults With Type 2 Diabetes Over 66—And What HRV Biofeedback Can Do
+slug: >-
+  how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do
+description: >-
+  Links caregiver stress burden to autonomic dysregulation, cortisol surges, and
+  increased mean amplitude of glucose excursions—plus a validated 5-minute daily
+  HRV protocol.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: caregiver stress and glycemic variability seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - >-
+    how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # How Caregiver Stress and Glycemic Variability in Seniors Interact—And What You Can Gently Do About It

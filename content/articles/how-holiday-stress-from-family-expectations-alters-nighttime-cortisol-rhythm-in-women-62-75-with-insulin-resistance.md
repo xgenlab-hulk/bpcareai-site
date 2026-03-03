@@ -1,14 +1,28 @@
 ---
-title: "How Holiday Stress From Family Expectations Alters Nighttime Cortisol Rhythm in Women 62–75 With Insulin Resistance"
-slug: "how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance"
-description: "Links emotional labor during holiday planning to blunted nocturnal cortisol decline, resulting in elevated fasting glucose and impaired fat oxidation—plus practical rhythm-resetting rituals."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["holiday stress cortisol rhythm insulin resistance", "healthy holiday eating for seniors", "stress-metabolism-link"]
-primaryKeyword: "holiday stress cortisol rhythm insulin resistance"
-topicCluster: "stress-metabolism-link"
-image: ""
-relatedSlugs: ["5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing", "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68"]
+title: >-
+  How Holiday Stress From Family Expectations Alters Nighttime Cortisol Rhythm
+  in Women 62–75 With Insulin Resistance
+slug: >-
+  how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
+description: >-
+  Links emotional labor during holiday planning to blunted nocturnal cortisol
+  decline, resulting in elevated fasting glucose and impaired fat oxidation—plus
+  practical rhythm-resetting rituals.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: holiday stress cortisol rhythm insulin resistance
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
+  - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - >-
+    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # How Holiday Stress Disrupts Cortisol Rhythm—and What Women 62–75 With Insulin Resistance Can Do About It

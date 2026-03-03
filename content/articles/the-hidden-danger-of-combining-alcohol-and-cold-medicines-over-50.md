@@ -6,12 +6,8 @@ description: >-
   increase the risk of holiday heart syndrome.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - alcohol and cold medicine risks
-  - holiday heart syndrome prevention
-  - medication-safety
 primaryKeyword: alcohol and cold medicine risks
-topicCluster: medications-supplements
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

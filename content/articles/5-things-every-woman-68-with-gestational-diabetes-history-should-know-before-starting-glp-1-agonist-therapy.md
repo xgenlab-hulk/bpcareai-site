@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Woman 68+ With Gestational Diabetes History Should Know Before Starting GLP-1 Agonist Therapy"
-slug: "5-things-every-woman-68-with-gestational-diabetes-history-should-know-before-starting-glp-1-agonist-therapy"
-description: "Highlights unique considerations—pancreatic fat deposition risk, postpartum thyroiditis overlap, bone mineral density trajectory, and GLP-1–induced gallstone formation in aging women with prior GDM."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["GLP-1 agonists gestational diabetes history", "diabetes", "treatment-women-specific"]
-primaryKeyword: "GLP-1 agonists gestational diabetes history"
-topicCluster: "treatment-women-specific"
-image: ""
-relatedSlugs: ["when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65", "how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes", "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60", "can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68"]
+title: >-
+  5 Things Every Woman 68+ With Gestational Diabetes History Should Know Before
+  Starting GLP-1 Agonist Therapy
+slug: >-
+  5-things-every-woman-68-with-gestational-diabetes-history-should-know-before-starting-glp-1-agonist-therapy
+description: >-
+  Highlights unique considerations—pancreatic fat deposition risk, postpartum
+  thyroiditis overlap, bone mineral density trajectory, and GLP-1–induced
+  gallstone formation in aging women with prior GDM.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: GLP-1 agonists gestational diabetes history
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
+  - >-
+    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - >-
+    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # What Women 68+ With a Gestational Diabetes History Need to Know Before Starting GLP-1 Agonist Therapy

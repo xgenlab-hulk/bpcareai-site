@@ -1,14 +1,29 @@
 ---
-title: "5 Things You Should Know Before Starting a Continuous Glucose Monitor (CGM) If You’re 67+ With Low Vision, Tremor, or Dexterity Loss"
-slug: "5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss"
-description: "Addresses real-world accessibility barriers — sensor placement alternatives, audio-alert customization, caregiver-sharing workflows, and Medicare coverage pitfalls."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["CGM for seniors with low vision", "diabetes", "technology-accessibility"]
-primaryKeyword: "CGM for seniors with low vision"
-topicCluster: "technology-accessibility"
-image: ""
-relatedSlugs: ["5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds", "5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery", "a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin", "5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes", "a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia"]
+title: >-
+  5 Things You Should Know Before Starting a Continuous Glucose Monitor (CGM) If
+  You’re 67+ With Low Vision, Tremor, or Dexterity Loss
+slug: >-
+  5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss
+description: >-
+  Addresses real-world accessibility barriers — sensor placement alternatives,
+  audio-alert customization, caregiver-sharing workflows, and Medicare coverage
+  pitfalls.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: CGM for seniors with low vision
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
+  - >-
+    5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
+  - >-
+    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia
 ---
 
 # What Seniors 67+ Need to Know Before Using a CGM for Seniors With Low Vision, Tremor, or Dexterity Challenges

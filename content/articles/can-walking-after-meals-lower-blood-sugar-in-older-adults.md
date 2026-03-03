@@ -6,12 +6,8 @@ description: >-
   diabetes over 50.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - walking after meals for blood sugar control over 50
-  - diabetes
-  - diabetes-lifestyle
 primaryKeyword: walking after meals for blood sugar control over 50
-topicCluster: diabetes-care
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food

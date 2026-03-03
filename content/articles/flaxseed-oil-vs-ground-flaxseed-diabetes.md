@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Cold-Pressed Flaxseed Oil (Refrigerated, <30 Days Old) vs. Ground Flaxseed (Pre-Soaked 12 Hours) — Impact on Postprandial Triglyceride Spikes in Adults 62–78 With Diabetic Dyslipidemia"
-slug: "a-vs-b-cold-pressed-flaxseed-oil-refrigerated-30-days-old-vs-ground-flaxseed-pre-soaked-12-hours-impact-on-postprandial-triglyceride-spikes-in-adults-62-78-with-diabetic-dyslipidemia"
-description: "Compares bioavailability of ALA, lignan stability, and chylomicron response in a 72-hour crossover study of two flax preparations in older adults with high TG and low HDL."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["flaxseed oil vs ground flaxseed diabetes", "diabetes", "diet-nutrition-lipid-management"]
-primaryKeyword: "flaxseed oil vs ground flaxseed diabetes"
-topicCluster: "diet-nutrition-lipid-management"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76", "does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome", "quick-ways-to-normalize-postprandial-triglyceride-clearance-using-meal-order-and-chewing-duration-especially-in-adults-56-69-with-diabetic-dyslipidemia-and-pancreatic-steatosis", "the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction", "warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia"]
+title: >-
+  A vs B: Cold-Pressed Flaxseed Oil (Refrigerated, <30 Days Old) vs. Ground
+  Flaxseed (Pre-Soaked 12 Hours) — Impact on Postprandial Triglyceride Spikes in
+  Adults 62–78 With Diabetic Dyslipidemia
+slug: >-
+  a-vs-b-cold-pressed-flaxseed-oil-refrigerated-30-days-old-vs-ground-flaxseed-pre-soaked-12-hours-impact-on-postprandial-triglyceride-spikes-in-adults-62-78-with-diabetic-dyslipidemia
+description: >-
+  Compares bioavailability of ALA, lignan stability, and chylomicron response in
+  a 72-hour crossover study of two flax preparations in older adults with high
+  TG and low HDL.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: flaxseed oil vs ground flaxseed diabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
+  - >-
+    does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
+  - >-
+    quick-ways-to-normalize-postprandial-triglyceride-clearance-using-meal-order-and-chewing-duration-especially-in-adults-56-69-with-diabetic-dyslipidemia-and-pancreatic-steatosis
+  - >-
+    the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
+  - >-
+    warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
 ---
 
 # Flaxseed Oil vs Ground Flaxseed for Diabetes: What’s Best for Triglyceride Control After Meals?

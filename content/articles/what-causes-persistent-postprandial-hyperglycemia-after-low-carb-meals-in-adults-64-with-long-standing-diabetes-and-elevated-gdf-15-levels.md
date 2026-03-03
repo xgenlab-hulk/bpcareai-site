@@ -1,14 +1,29 @@
 ---
-title: "What Causes Persistent Postprandial Hyperglycemia After Low-Carb Meals in Adults 64+ With Long-Standing Diabetes and Elevated GDF-15 Levels?"
-slug: "what-causes-persistent-postprandial-hyperglycemia-after-low-carb-meals-in-adults-64-with-long-standing-diabetes-and-elevated-gdf-15-levels"
-description: "Examines the role of mitochondrial stress signaling (GDF-15), impaired skeletal muscle glucose uptake, and gut-derived incretin resistance — moving beyond carb-counting alone."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["postprandial hyperglycemia low-carb long-standing diabetes", "diabetes", "mitochondrial-glycemic-dysregulation"]
-primaryKeyword: "postprandial hyperglycemia low-carb long-standing diabetes"
-topicCluster: "mitochondrial-glycemic-dysregulation"
-image: ""
-relatedSlugs: ["7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68", "myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction", "when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment", "how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction", "how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying"]
+title: >-
+  What Causes Persistent Postprandial Hyperglycemia After Low-Carb Meals in
+  Adults 64+ With Long-Standing Diabetes and Elevated GDF-15 Levels?
+slug: >-
+  what-causes-persistent-postprandial-hyperglycemia-after-low-carb-meals-in-adults-64-with-long-standing-diabetes-and-elevated-gdf-15-levels
+description: >-
+  Examines the role of mitochondrial stress signaling (GDF-15), impaired
+  skeletal muscle glucose uptake, and gut-derived incretin resistance — moving
+  beyond carb-counting alone.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: postprandial hyperglycemia low-carb long-standing diabetes
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+  - >-
+    myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
+  - >-
+    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
 ---
 
 # Why You Might Still See High Blood Sugar After Low-Carb Meals—Especially With Long-Standing Diabetes

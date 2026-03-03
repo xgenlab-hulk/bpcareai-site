@@ -10,12 +10,8 @@ description: >-
   renal monitoring should begin *immediately* post-diagnosis.
 date: '2025-12-25'
 updated: '2025-12-25'
-tags:
-  - white coat hypertension kidney risk over 55
-  - blood pressure
-  - renal-vascular-risk
 primaryKeyword: white coat hypertension kidney risk over 55
-topicCluster: renal-vascular-risk
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - why-blood-pressure-matters-even-if-you-feel-fine

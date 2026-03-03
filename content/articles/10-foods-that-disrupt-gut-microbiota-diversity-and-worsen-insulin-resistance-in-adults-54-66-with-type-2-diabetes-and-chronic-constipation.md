@@ -10,12 +10,8 @@ description: >-
   antiseptic mouthwashes — with microbiome-repair alternatives.
 date: '2026-01-20'
 updated: '2026-01-20'
-tags:
-  - foods disrupt gut microbiota insulin resistance
-  - diabetes
-  - microbiome-disruptors-diet
 primaryKeyword: foods disrupt gut microbiota insulin resistance
-topicCluster: microbiome-disruptors-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

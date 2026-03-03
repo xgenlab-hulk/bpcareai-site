@@ -10,12 +10,8 @@ description: >-
   preservation during high-stress holiday periods.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - polyphenol holiday foods cognitive health
-  - healthy holiday eating for seniors
-  - neuro-nutrition-aging
 primaryKeyword: polyphenol holiday foods cognitive health
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

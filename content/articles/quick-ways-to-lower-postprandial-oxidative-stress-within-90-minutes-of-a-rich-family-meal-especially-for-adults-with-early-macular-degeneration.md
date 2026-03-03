@@ -1,14 +1,29 @@
 ---
-title: "Quick Ways to Lower Postprandial Oxidative Stress Within 90 Minutes of a Rich Family Meal—Especially for Adults With Early Macular Degeneration"
-slug: "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration"
-description: "Targets ocular health via food-based antioxidants (lutein-rich microgreens, anthocyanin infusion), timed polyphenol dosing, and post-meal walking cadence prescriptions."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["lower oxidative stress after family meal", "healthy eating during family gatherings", "antioxidant-timing-ocular-health"]
-primaryKeyword: "lower oxidative stress after family meal"
-topicCluster: "antioxidant-timing-ocular-health"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits", "warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68", "can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown", "the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome", "what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65"]
+title: >-
+  Quick Ways to Lower Postprandial Oxidative Stress Within 90 Minutes of a Rich
+  Family Meal—Especially for Adults With Early Macular Degeneration
+slug: >-
+  quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
+description: >-
+  Targets ocular health via food-based antioxidants (lutein-rich microgreens,
+  anthocyanin infusion), timed polyphenol dosing, and post-meal walking cadence
+  prescriptions.
+date: '2025-12-27'
+updated: '2025-12-27'
+primaryKeyword: lower oxidative stress after family meal
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
+  - >-
+    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
+  - >-
+    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
+  - >-
+    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
+  - >-
+    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
 ---
 
 # Practical Strategies to Lower Oxidative Stress After Family Meal—Especially for Adults Managing Early Macular Degeneration

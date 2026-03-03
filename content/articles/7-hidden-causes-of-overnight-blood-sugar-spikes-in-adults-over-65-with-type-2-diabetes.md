@@ -1,14 +1,26 @@
 ---
-title: "7 Hidden Causes of Overnight Blood Sugar Spikes in Adults Over 65 With Type 2 Diabetes"
-slug: "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes"
-description: "Explores non-obvious physiological, medication-related, and circadian drivers—like nocturnal cortisol surges, bedtime protein intake, and delayed gastric emptying—that elevate fasting glucose despite daytime control."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["overnight blood sugar spikes in seniors", "diabetes", "nocturnal-glucose-dysregulation"]
-primaryKeyword: "overnight blood sugar spikes in seniors"
-topicCluster: "nocturnal-glucose-dysregulation"
-image: ""
-relatedSlugs: ["why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes"]
+title: >-
+  7 Hidden Causes of Overnight Blood Sugar Spikes in Adults Over 65 With Type 2
+  Diabetes
+slug: >-
+  7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+description: >-
+  Explores non-obvious physiological, medication-related, and circadian
+  drivers—like nocturnal cortisol surges, bedtime protein intake, and delayed
+  gastric emptying—that elevate fasting glucose despite daytime control.
+date: '2025-12-27'
+updated: '2025-12-27'
+primaryKeyword: overnight blood sugar spikes in seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 
 # Understanding Overnight Blood Sugar Spikes in Seniors With Type 2 Diabetes

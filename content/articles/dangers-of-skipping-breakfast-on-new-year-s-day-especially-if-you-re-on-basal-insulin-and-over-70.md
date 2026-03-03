@@ -1,14 +1,27 @@
 ---
-title: "Dangers of Skipping Breakfast on New Year’s Day—Especially If You’re on Basal Insulin and Over 70"
-slug: "dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70"
-description: "Explains how overnight insulin action + delayed first meal triggers counter-regulatory hormone surges, increasing risk of both hypoglycemia and rebound hyperglycemia."
-date: "2026-01-02"
-updated: "2026-01-02"
-tags: ["skipping breakfast new year basal insulin", "managing blood sugar during christmas and new year", "medication-timing-risk"]
-primaryKeyword: "skipping breakfast new year basal insulin"
-topicCluster: "medication-timing-risk"
-image: ""
-relatedSlugs: ["myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome", "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65", "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes", "why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do"]
+title: >-
+  Dangers of Skipping Breakfast on New Year’s Day—Especially If You’re on Basal
+  Insulin and Over 70
+slug: >-
+  dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70
+description: >-
+  Explains how overnight insulin action + delayed first meal triggers
+  counter-regulatory hormone surges, increasing risk of both hypoglycemia and
+  rebound hyperglycemia.
+date: '2026-01-02'
+updated: '2026-01-02'
+primaryKeyword: skipping breakfast new year basal insulin
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
+  - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 ---
 
 # Why Skipping Breakfast on New Year’s Day Is Risky—Especially With Basal Insulin After Age 70

@@ -6,12 +6,8 @@ description: >-
   fluid balance helps control hypertension.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - hydration and winter blood pressure
-  - senior blood pressure control in winter
-  - preventive-strategies
 primaryKeyword: hydration and winter blood pressure
-topicCluster: preventive-care
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70

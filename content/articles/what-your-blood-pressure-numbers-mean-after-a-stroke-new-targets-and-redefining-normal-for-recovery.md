@@ -10,10 +10,6 @@ description: >-
   acceptable variability, and neuroprotection vs. perfusion trade-offs.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - blood pressure after stroke recovery targets
-  - blood pressure
-  - post-stroke-hypertension
 primaryKeyword: blood pressure after stroke recovery targets
 topicCluster: hypertension-management
 image: ''

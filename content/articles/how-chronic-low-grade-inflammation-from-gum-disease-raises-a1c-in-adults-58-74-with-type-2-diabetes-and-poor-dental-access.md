@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Low-Grade Inflammation From Gum Disease Raises A1C in Adults 58–74 With Type 2 Diabetes and Poor Dental Access"
-slug: "how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access"
-description: "Connects periodontal pathogen load, systemic IL-6/TNF-α elevation, and insulin resistance — with practical guidance for managing oral health without regular dental visits."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["gum disease and A1C elevation older adults", "diabetes", "oral-systemic-diabetes-link"]
-primaryKeyword: "gum disease and A1C elevation older adults"
-topicCluster: "oral-systemic-diabetes-link"
-image: ""
-relatedSlugs: ["how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria", "how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough", "how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense"]
+title: >-
+  How Chronic Low-Grade Inflammation From Gum Disease Raises A1C in Adults 58–74
+  With Type 2 Diabetes and Poor Dental Access
+slug: >-
+  how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
+description: >-
+  Connects periodontal pathogen load, systemic IL-6/TNF-α elevation, and insulin
+  resistance — with practical guidance for managing oral health without regular
+  dental visits.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: gum disease and A1C elevation older adults
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
+  - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
 ---
 
 # How Gum Disease and A1C Elevation in Older Adults Are More Connected Than You Think  

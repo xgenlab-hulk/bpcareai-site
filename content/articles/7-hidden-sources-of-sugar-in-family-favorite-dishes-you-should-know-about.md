@@ -6,12 +6,8 @@ description: >-
   suggests lower-sugar alternatives for safer consumption.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - hidden sugar in family foods
-  - healthy eating during family gatherings
-  - diabetic-diet
 primaryKeyword: hidden sugar in family foods
-topicCluster: diabetes-care
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

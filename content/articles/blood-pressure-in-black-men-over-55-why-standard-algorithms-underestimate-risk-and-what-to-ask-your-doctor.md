@@ -10,10 +10,6 @@ description: >-
   responsive screening and treatment benchmarks.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - blood pressure black men over 55
-  - blood pressure
-  - racial-disparities-hypertension
 primaryKeyword: blood pressure black men over 55
 topicCluster: hypertension-management
 image: ''

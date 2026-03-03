@@ -1,0 +1,1506 @@
+{
+  "batch_id": 6,
+  "total_articles": 250,
+  "mappings": [
+    {
+      "slug": "the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging",
+      "old_cluster": "monitoring-paradoxes-vascular-aging",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia",
+      "old_cluster": "monitoring-beta-cell-function",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "restore-blood-pressure-variability-diabetes-sdnn",
+      "old_cluster": "autonomic-variability-rehabilitation",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on BP monitoring technology and variability tracking"
+    },
+    {
+      "slug": "quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts",
+      "old_cluster": "meal-timing-hypoglycemia",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "nocturnal-bp-dip-sleep-apnea-mild-cognitive-impairment",
+      "old_cluster": "nocturnal-dip-paradox",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements",
+      "old_cluster": "gut-hormone-activation",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "natural-remedies-high-blood-pressure-chronic-kidney-disease",
+      "old_cluster": "ckd-specific-hypertension-management",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "metformin-mitochondrial-dna-copy-number",
+      "old_cluster": "medications-mitochondrial-effects",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "lada-diagnosis-in-middle-aged-men",
+      "old_cluster": "diagnosis-autoimmune-dm",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on glucose monitoring and beta-cell function tracking"
+    },
+    {
+      "slug": "how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58",
+      "old_cluster": "prediabetes-glucose-management",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "cgm-travel-holiday-airport-seniors",
+      "old_cluster": "monitoring-technology-practicality",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on glucose monitoring and beta-cell function tracking"
+    },
+    {
+      "slug": "cgm-flat-line-myth-elderly",
+      "old_cluster": "monitoring-cgm-myths",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on glucose monitoring and beta-cell function tracking"
+    },
+    {
+      "slug": "can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity",
+      "old_cluster": "non-pharmacological-interventions-vagal",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "best-walking-surface-for-diabetic-glucose",
+      "old_cluster": "exercise-plantar-stimulation",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "Primary focus on physical activity for diabetes management"
+    },
+    {
+      "slug": "barometric-pressure-drop-systolic-load-hypertensive-heart-disease",
+      "old_cluster": "environmental-triggers-weather",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "arterial-elasticity-natural-support-isolated-systolic-hypertension",
+      "old_cluster": "vascular-structure-renewal",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "ampk-activating-foods-for-adipose-inflammation",
+      "old_cluster": "diet-ampk-adipose",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis",
+      "old_cluster": "exercise-physiology-comparison",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy",
+      "old_cluster": "complications-neuropathy",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72",
+      "old_cluster": "gastrointestinal-warning-signs",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints",
+      "old_cluster": "early-organ-damage-ophthalmic",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "5-things-everyone-over-70-should-know-about-using-wrist-based-blood-pressure-monitors-with-atrial-fibrillation-and-radial-artery-calcification",
+      "old_cluster": "monitoring-device-limitations",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on BP monitoring technology and variability tracking"
+    },
+    {
+      "slug": "5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery",
+      "old_cluster": "monitoring-cgm-edema",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on glucose monitoring and beta-cell function tracking"
+    },
+    {
+      "slug": "12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d",
+      "old_cluster": "diet-gut-serotonin",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79",
+      "old_cluster": "cellular-energy-nutrition",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66",
+      "old_cluster": "exercise-timing-physiology",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "Primary focus on physical activity for diabetes management"
+    },
+    {
+      "slug": "when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings",
+      "old_cluster": "amyloidosis-red-flag-triad",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction",
+      "old_cluster": "rare-disease-detection-elderly-heart-failure",
+      "new_cluster": "autonomic-nervous-regulation",
+      "rationale": "Focus on autonomic nervous system and HRV"
+    },
+    {
+      "slug": "salivary-amylase-holiday-seniors",
+      "old_cluster": "oral-digestion-support",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "reverse-left-ventricular-hypertrophy-without-medication",
+      "old_cluster": "structural-heart-reversal-nutrition-timing",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "reduce-left-ventricular-stiffness-without-medication",
+      "old_cluster": "myocardial-compliance-modulation",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension",
+      "old_cluster": "daily-activity-safety-autonomic-stability",
+      "new_cluster": "autonomic-nervous-regulation",
+      "rationale": "Focus on autonomic regulation and variability"
+    },
+    {
+      "slug": "pseudohypertension-peripheral-artery-disease",
+      "old_cluster": "pseudohypertension-diagnosis-errors",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "nrf2-activating-foods-microvascular-angina-elders",
+      "old_cluster": "endothelial-oxidative-stress-nutrition",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "nighttime-light-exposure-cardiac-clock-genes-elders",
+      "old_cluster": "circadian-cardiac-gene-disruption",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak",
+      "old_cluster": "cellular-aging-metabolism",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio",
+      "old_cluster": "lipid-panel-limitations",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81",
+      "old_cluster": "medication-adherence-myths",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history",
+      "old_cluster": "environmental-vasospasm-triggers",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it",
+      "old_cluster": "circadian-metabolism-link",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes",
+      "old_cluster": "seasonal-environmental-impact",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68",
+      "old_cluster": "hydration-taste-connection",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "General health topic not fitting specific clusters"
+    },
+    {
+      "slug": "how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes",
+      "old_cluster": "gut-endocrine-connection",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "home-ecg-devices-with-pacemakers-and-anticoagulants",
+      "old_cluster": "remote-monitoring-device-safety",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "Focus on sleep and circadian rhythm health"
+    },
+    {
+      "slug": "does-daily-5-minute-vagus-nerve-stimulation-via-tens-on-the-tragus-lower-morning-systolic-bp-in-men-65-77-with-chronic-kidney-disease-stage-3",
+      "old_cluster": "neuromodulation-ckd-cardiovascular-risk",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "cocoa-flavanols-endothelial-function-fatty-liver",
+      "old_cluster": "polyphenol-microbiome-cardiology",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "chest-ecg-devices-air-travel-pacemaker-dependent",
+      "old_cluster": "wearable-diagnostics-altitude",
+      "new_cluster": "mental-health-stress",
+      "rationale": "Focus on mental health and stress"
+    },
+    {
+      "slug": "can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd",
+      "old_cluster": "gerd-meal-timing",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "Focus on sleep and circadian rhythm health"
+    },
+    {
+      "slug": "can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension",
+      "old_cluster": "non-aerobic-vascular-training",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "can-daily-12-second-nitric-oxide-nasal-sprays-improve-endothelial-function-in-women-58-69-with-morning-hypertension-and-cold-induced-raynaud-s",
+      "old_cluster": "emerging-therapeutics-endothelial-health",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia",
+      "old_cluster": "pulmonary-hypertension-breathing",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "a-vs-b-morning-7-a-m-caffeinated-green-tea-vs-afternoon-3-p-m-decaf-black-tea-for-men-57-68-with-premature-ventricular-contractions",
+      "old_cluster": "arrhythmia-diet-comparison",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis",
+      "old_cluster": "seasonal-symptom-masking",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "7-hidden-ways-your-dentist-might-spot-early-heart-disease-especially-if-you-re-a-man-over-65-with-gum-recession-and-no-chest-pain",
+      "old_cluster": "diagnostic-clues-oral-health",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps",
+      "old_cluster": "sodium-reduction-science",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69",
+      "old_cluster": "lipid-metabolism-misconceptions",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "General health topic not fitting specific clusters"
+    },
+    {
+      "slug": "why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension",
+      "old_cluster": "caffeine-chronobiology-response",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion",
+      "old_cluster": "hepatic-metabolism-alert",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "Focus on symptom recognition and diagnosis"
+    },
+    {
+      "slug": "what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older",
+      "old_cluster": "exercise-recovery-pathophysiology",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4",
+      "old_cluster": "neurocognitive-early-detection",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd",
+      "old_cluster": "diagnostic-gap-arrhythmia",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather",
+      "old_cluster": "orthostatic-blood-pressure-paradox",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk",
+      "old_cluster": "medication-food-interactions",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia",
+      "old_cluster": "cardiac-diet-hyponatremia",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60",
+      "old_cluster": "diet-nutrition-label-literacy",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension",
+      "old_cluster": "nonpharmacologic-interventions-nocturnal-bp",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "sympathetic-parasympathetic-switch-point-heart-failure",
+      "old_cluster": "autonomic-respiratory-modulation",
+      "new_cluster": "autonomic-nervous-regulation",
+      "rationale": "Focus on autonomic nervous system and HRV"
+    },
+    {
+      "slug": "quick-ways-to-adjust-your-insulin-to-carb-ratio-when-traveling-across-3-time-zones-without-guessing-or-skipping-doses",
+      "old_cluster": "travel-glucose-management",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "post-exercise-blood-pressure-rebound-in-elderly",
+      "old_cluster": "exercise-physiology-autonomic-dysregulation",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70",
+      "old_cluster": "social-circadian-metabolism",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd",
+      "old_cluster": "gastric-motility-behavior",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension",
+      "old_cluster": "oral-systemic-cardiology",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "holiday-buffet-seniors-satiety-hormones",
+      "old_cluster": "appetite-regulation-strategy",
+      "new_cluster": "mental-health-stress",
+      "rationale": "Focus on mental health and stress"
+    },
+    {
+      "slug": "guided-imagery-left-atrial-volume-afib-hypertension",
+      "old_cluster": "mind-body-atrial-remodeling",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "dangers-of-just-one-more-cup-of-eggnog-for-adults-over-74-with-subclinical-vitamin-d-toxicity-and-how-to-spot-early-hypercalcemia-clues",
+      "old_cluster": "micronutrient-toxicity-alert",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "Focus on symptom recognition and diagnosis"
+    },
+    {
+      "slug": "cgm-postprandial-patterns-beta-cell-reserve",
+      "old_cluster": "cgm-interpretation-guide",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on glucose monitoring and beta-cell function tracking"
+    },
+    {
+      "slug": "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes",
+      "old_cluster": "treatment-safety-risk-assessment",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "boost-nitric-oxide-naturally-seniors",
+      "old_cluster": "endothelial-function-optimization",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "Focus on physical activity and lifestyle changes"
+    },
+    {
+      "slug": "best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress",
+      "old_cluster": "ocular-nutrition-optimization",
+      "new_cluster": "mental-health-stress",
+      "rationale": "Focus on mental health and stress"
+    },
+    {
+      "slug": "a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76",
+      "old_cluster": "nonpharmacologic-intervention-comparison",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "a-vs-b-grandma-s-fruitcake-soaked-in-brandy-vs-baked-pear-walnut-loaf-no-alcohol-lower-osmolality-for-seniors-with-mild-hyponatremia",
+      "old_cluster": "electrolyte-safety-comparison",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension",
+      "old_cluster": "hypertension-diet-sodium",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems",
+      "old_cluster": "food-safety-immunology",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72",
+      "old_cluster": "inflammation-recovery",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+      "old_cluster": "pulse-pressure-reduction-strategies",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "when-to-worry-about-just-one-more-slice-of-holiday-bread-especially-if-you-re-a-woman-over-64-with-silent-celiac-disease",
+      "old_cluster": "celiac-disease-aging-women",
+      "new_cluster": "gastrointestinal-health",
+      "rationale": "Focus on gastrointestinal and gut health"
+    },
+    {
+      "slug": "when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines",
+      "old_cluster": "secondary-hypertension-fmd-women",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving",
+      "old_cluster": "differential-diagnosis-alert",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions",
+      "old_cluster": "ckd-diet-culture",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history",
+      "old_cluster": "circadian-eating-bp-dipping",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease",
+      "old_cluster": "medication-complication-interaction",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance",
+      "old_cluster": "hypoglycemia-rebound-mechanism",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85",
+      "old_cluster": "meal-induced-hypertension",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings",
+      "old_cluster": "home-bp-log-interpretation",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65",
+      "old_cluster": "cardiac-diet-labeling-truth",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on BP monitoring technology and variability tracking"
+    },
+    {
+      "slug": "the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver",
+      "old_cluster": "liver-health-alcohol",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "Focus on sleep and circadian rhythm health"
+    },
+    {
+      "slug": "reduce-postprandial-glucose-without-medication",
+      "old_cluster": "non-pharmacologic-glucose-control",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "normalize-nocturnal-blood-pressure-dipping",
+      "old_cluster": "nocturnal-bp-dipping-optimization",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain",
+      "old_cluster": "neuropathy-self-assessment",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "intermittent-fasting-during-family-events",
+      "old_cluster": "fasting-circadian-rhythm",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79",
+      "old_cluster": "psychosocial-vascular-aging",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments",
+      "old_cluster": "environmental-hypertension-triggers",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it",
+      "old_cluster": "gut-cardiovascular-axis",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "does-daily-4-minute-cold-shower-exposure-improve-insulin-signaling-in-adults-with-abdominal-obesity-and-prediabetes-aged-55-67",
+      "old_cluster": "thermal-intervention-research",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome",
+      "old_cluster": "functional-food-blood-pressure",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns",
+      "old_cluster": "thermal-biofeedback-hypertension",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74",
+      "old_cluster": "acute-breathing-interventions",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy",
+      "old_cluster": "diabetic-retinopathy-cooking-methods",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71",
+      "old_cluster": "exercise-modality-comparison",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "Primary focus on physical activity for diabetes management"
+    },
+    {
+      "slug": "7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64",
+      "old_cluster": "neurological-complications",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants",
+      "old_cluster": "polypharmacy-hypertension-risk",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema",
+      "old_cluster": "wearable-bp-accuracy-limitations",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds",
+      "old_cluster": "medical-device-safety",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter",
+      "old_cluster": "cardiac-arrhythmia-nutrition",
+      "new_cluster": "autonomic-nervous-regulation",
+      "rationale": "Focus on autonomic nervous system and HRV"
+    },
+    {
+      "slug": "10-foods-that-enhance-skeletal-muscle-glucose-uptake-via-ampk-activation-backed-by-muscle-biopsy-data-in-adults-61-76",
+      "old_cluster": "nutrient-signaling-pathways",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "why-your-holiday-fruitcake-may-be-raising-your-fasting-glucose-even-if-it-s-no-sugar-added",
+      "old_cluster": "glycemic-impact-holiday-foods",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "when-to-suspect-pheochromocytoma-related-hypertension-fluctuations-in-adults-58-74-with-episodic-palpitations-and-normotensive-intervals",
+      "old_cluster": "secondary-hypertension-detection",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead",
+      "old_cluster": "anticoagulation-nutrition-safety",
+      "new_cluster": "natural-remedies",
+      "rationale": "Focus on natural remedies and supplements"
+    },
+    {
+      "slug": "what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl",
+      "old_cluster": "plaque-stabilization-nutrition",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75",
+      "old_cluster": "diagnostic-paradox",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68",
+      "old_cluster": "gastrointestinal-complications",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema",
+      "old_cluster": "measurement-error-red-flags",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning",
+      "old_cluster": "cac-score-interpretation",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr",
+      "old_cluster": "renal-diet-sweeteners",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose",
+      "old_cluster": "otc-medications",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook",
+      "old_cluster": "muscle-preserving-nutrition",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "General health topic not fitting specific clusters"
+    },
+    {
+      "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing",
+      "old_cluster": "beta-cell-protection",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80",
+      "old_cluster": "vascular-compliance-intervention",
+      "new_cluster": "natural-remedies",
+      "rationale": "Focus on natural remedies and supplements"
+    },
+    {
+      "slug": "myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65",
+      "old_cluster": "myth-busting-symptom-perception",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71",
+      "old_cluster": "sleep-apnea-metabolism",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension",
+      "old_cluster": "microbiome-hypertension-link",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria",
+      "old_cluster": "periodontal-kidney-link",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk",
+      "old_cluster": "emotional-health-autonomic-function",
+      "new_cluster": "autonomic-nervous-regulation",
+      "rationale": "Focus on autonomic nervous system and HRV"
+    },
+    {
+      "slug": "heart-rate-recovery-and-hfpef-mortality",
+      "old_cluster": "functional-testing-prognosis",
+      "new_cluster": "autonomic-nervous-regulation",
+      "rationale": "Focus on autonomic nervous system and HRV"
+    },
+    {
+      "slug": "does-daily-15-minute-guided-imagery-lower-24-hour-mean-arterial-pressure-in-adults-69-83-with-treatment-resistant-hypertension",
+      "old_cluster": "mind-body-intervention",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal",
+      "old_cluster": "herb-drug-interactions",
+      "new_cluster": "medication-safety",
+      "rationale": "Focus on medication management and safety"
+    },
+    {
+      "slug": "can-daily-5-minute-isometric-handgrip-training-lower-ambulatory-diastolic-bp-in-sedentary-women-63-71-within-10-days",
+      "old_cluster": "exercise-intervention",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain",
+      "old_cluster": "neuropathy-food-prep-comparison",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79",
+      "old_cluster": "diet-neuropathy",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62",
+      "old_cluster": "dental-oral-health",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68",
+      "old_cluster": "gastroesophageal-reflux-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely",
+      "old_cluster": "swallowing-safety-and-toxicity",
+      "new_cluster": "natural-remedies",
+      "rationale": "Focus on natural remedies and supplements"
+    },
+    {
+      "slug": "5-things-everyone-over-70-should-know-about-blood-pressure-medication-timing-when-taking-levothyroxine-and-calcium-supplements",
+      "old_cluster": "polypharmacy-timing",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on BP monitoring technology and variability tracking"
+    },
+    {
+      "slug": "12-science-backed-ways-to-stabilize-morning-blood-pressure-spikes-without-increasing-beta-blocker-dose-in-adults-66-79",
+      "old_cluster": "morning-hypertension-management",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data",
+      "old_cluster": "nerve-oxygenation",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals",
+      "old_cluster": "glucose-monitoring",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72",
+      "old_cluster": "thermal-physiology-safety",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy",
+      "old_cluster": "ocular-emergencies",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists",
+      "old_cluster": "testing-strategy-evolution",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65",
+      "old_cluster": "ophthalmic-biomarkers",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities",
+      "old_cluster": "neuro-cognitive-early-signs",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a",
+      "old_cluster": "diet-nutrition-ckd",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79",
+      "old_cluster": "cold-climate-monitoring",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "skin-elasticity-changes-in-elderly-diabetic-women",
+      "old_cluster": "dermal-microvascular",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues",
+      "old_cluster": "exercise-insulin-dosing",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "nitric-oxide-coupling-without-l-arginine",
+      "old_cluster": "endothelial-nitric-oxide",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms",
+      "old_cluster": "digestive-motility-natural-support",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings",
+      "old_cluster": "circulatory-support-sedentary",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon",
+      "old_cluster": "circadian-metabolism",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis",
+      "old_cluster": "digestive-function-gastric-emptying",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "how-holiday-champagne-toasts-affect-diastolic-blood-pressure-in-men-with-isolated-systolic-hypertension-over-65",
+      "old_cluster": "alcohol-blood-pressure-dynamics",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss",
+      "old_cluster": "sensory-cognitive-hypertension-link",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do",
+      "old_cluster": "caregiver-metabolism",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension",
+      "old_cluster": "travel-physiology",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "home-bp-cuff-calibration-arthritis-mobility",
+      "old_cluster": "monitoring-accessibility",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on BP monitoring technology and variability tracking"
+    },
+    {
+      "slug": "does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss",
+      "old_cluster": "muscle-glucose-uptake",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "Primary focus on physical activity for diabetes management"
+    },
+    {
+      "slug": "dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery",
+      "old_cluster": "fasting-risk-assessment",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension",
+      "old_cluster": "exercise-osteoarthritis",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms",
+      "old_cluster": "cardiac-fluid-management",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea",
+      "old_cluster": "monitoring-technology-comparison",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on BP monitoring technology and variability tracking"
+    },
+    {
+      "slug": "7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75",
+      "old_cluster": "medication-interactions",
+      "new_cluster": "medication-safety",
+      "rationale": "Focus on medication management and safety"
+    },
+    {
+      "slug": "7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring",
+      "old_cluster": "nocturnal-ischemia-triggers",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "Focus on sleep and circadian rhythm health"
+    },
+    {
+      "slug": "5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors",
+      "old_cluster": "extreme-weather-safety",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis",
+      "old_cluster": "inflammation-diet-rheumatology",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64",
+      "old_cluster": "gut-microbiome",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65",
+      "old_cluster": "medication-nutrition-timing",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68",
+      "old_cluster": "sensory-nutrition-aging",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear",
+      "old_cluster": "cardiac-complications",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55",
+      "old_cluster": "lipid-metabolism-aging",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76",
+      "old_cluster": "lipid-oxidation-nutrition",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12",
+      "old_cluster": "nutrient-absorption-gluten",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "Focus on prevention and risk assessment"
+    },
+    {
+      "slug": "simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning",
+      "old_cluster": "swallowing-safety-culinary-adaptation",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "General health topic not fitting specific clusters"
+    },
+    {
+      "slug": "simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia",
+      "old_cluster": "light-angina-physiology",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "quick-ways-to-normalize-post-gathering-cortisol-within-45-minutes-using-breathwork-cold-facial-immersion-validated-in-adults-60-75",
+      "old_cluster": "stress-physiology-intervention",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension",
+      "old_cluster": "circadian-bp-coupling",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "mitochondrial-biogenesis-heart-aging",
+      "old_cluster": "cardiac-mitochondria-aging-interventions",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "intermittent-silence-and-non-dipping-bp",
+      "old_cluster": "sensory-environment-autonomic",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "improve-endothelial-function-without-exercise",
+      "old_cluster": "endothelial-repair-nonpharmacologic",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone",
+      "old_cluster": "psychosocial-calcification",
+      "new_cluster": "autonomic-nervous-regulation",
+      "rationale": "Focus on autonomic nervous system and HRV"
+    },
+    {
+      "slug": "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes",
+      "old_cluster": "circadian-rhythm-glucose-regulation",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65",
+      "old_cluster": "gastrointestinal-psychophysiology",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes",
+      "old_cluster": "psychosocial-eating-behavior",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes",
+      "old_cluster": "medication-adjustment-travel",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "holiday-hydration-hyponatremia-seniors-diuretics",
+      "old_cluster": "electrolyte-balance-hydration",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "ecg-patch-vs-holter-asymptomatic-afib",
+      "old_cluster": "arrhythmia-monitoring-comparison",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on BP monitoring technology and variability tracking"
+    },
+    {
+      "slug": "does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown",
+      "old_cluster": "cold-therapy-blood-pressure",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation",
+      "old_cluster": "supplement-safety-ckd",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "cardiac-amyloidosis-diagnosis-in-elderly",
+      "old_cluster": "diagnostic-algorithm-elderly",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension",
+      "old_cluster": "dual-diet-household-strategies",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea",
+      "old_cluster": "circadian-rhythm-blood-pressure",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "a-vs-b-daily-low-dose-aspirin-vs-colchicine-for-secondary-prevention-in-adults-64-79-with-prior-myocardial-infarction-and-elevated-hs-crp",
+      "old_cluster": "antiinflammatory-prevention",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "7-hidden-heart-risks-in-low-fat-grocery-store-yogurts-for-women-over-58-with-hypothyroidism-and-mild-diastolic-dysfunction",
+      "old_cluster": "cardiac-diet-endocrine-interaction",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics",
+      "old_cluster": "medication-food-interactions",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd",
+      "old_cluster": "afib-travel-physiology",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "Focus on sleep and circadian rhythm health"
+    },
+    {
+      "slug": "10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue",
+      "old_cluster": "mitochondrial-nutrition-fatigue",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction",
+      "old_cluster": "gender-specific-cardiac-amyloidosis",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment",
+      "old_cluster": "cognitive-health-meal-patterns",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease",
+      "old_cluster": "ophthalmic-biomarkers-cardiovascular-risk",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity",
+      "old_cluster": "medication-masking-signs",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin",
+      "old_cluster": "cooking-methods-anticoagulant-interactions",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "skip-insulin-holiday-pie-beta-cell-stress",
+      "old_cluster": "insulin-omission-myth-busting",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65",
+      "old_cluster": "ecg-limitations-elderly",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "myths-vs-facts-eating-slowly-fixes-everything-during-holiday-meals-for-adults-with-mild-dementia-and-sundowning",
+      "old_cluster": "dementia-mealtime-myths",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes",
+      "old_cluster": "behavioral-nutrition-environment",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "holiday-eating-macular-degeneration",
+      "old_cluster": "low-vision-nutrition-strategy",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "gum-disease-and-coronary-artery-function",
+      "old_cluster": "inflammation-microvascular-link",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "Focus on specific cardiac diseases"
+    },
+    {
+      "slug": "fasting-glucose-myth-postprandial-risk",
+      "old_cluster": "monitoring-myths",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on glucose monitoring and beta-cell function tracking"
+    },
+    {
+      "slug": "does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis",
+      "old_cluster": "urinary-tract-nutrition",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "dangers-of-using-heart-healthy-coconut-water-electrolyte-drinks-during-hot-weather-for-adults-with-hfpef-and-egfr-45-59",
+      "old_cluster": "electrolyte-drinks-hfpef-safety",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide",
+      "old_cluster": "medication-food-safety-renal",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension",
+      "old_cluster": "autonomic-modulation",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on BP monitoring technology and variability tracking"
+    },
+    {
+      "slug": "alcohol-free-mulled-wine-blood-sugar",
+      "old_cluster": "diet-nutrition-beverage-science",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "7-hidden-sugar-traps-in-healthy-family-style-salads-especially-for-women-over-60-with-insulin-resistance",
+      "old_cluster": "diabetic-diet-ingredients",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "5-things-everyone-with-a-bicuspid-aortic-valve-should-know-before-getting-a-dental-procedure-including-antibiotic-timing-inr-targets-and-echo-timing",
+      "old_cluster": "valvular-dental-safety",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "Focus on prevention and risk assessment"
+    },
+    {
+      "slug": "12-low-intensity-movement-patterns-that-elevate-brain-derived-neurotrophic-factor-bdnf-in-sedentary-adults-60-80-with-seasonal-low-mood",
+      "old_cluster": "movement-neurochemistry-frail",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "Focus on physical activity and lifestyle changes"
+    },
+    {
+      "slug": "when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67",
+      "old_cluster": "acute-illness-bp-monitoring",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension",
+      "old_cluster": "exercise-glucose-bp-synergy",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "when-should-men-over-75-with-type-2-diabetes-stop-routine-hba1c-screening-a-risk-benefit-framework-for-deprescribing-glycemic-testing",
+      "old_cluster": "testing-decision-making",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia",
+      "old_cluster": "gout-risk-prevention",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "Focus on symptom recognition and diagnosis"
+    },
+    {
+      "slug": "what-research-says-about-high-intensity-interval-training-vs-zone-2-walking-for-diastolic-bp-reduction-in-obese-adults-59-73",
+      "old_cluster": "exercise-modality-comparison",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises",
+      "old_cluster": "cardiac-complications",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78",
+      "old_cluster": "neurocognitive-risk",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips",
+      "old_cluster": "device-safety",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "salivary-amylase-holiday-meals-xerostomia-seniors",
+      "old_cluster": "oral-digestive-function",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on diet and nutrition"
+    },
+    {
+      "slug": "quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76",
+      "old_cluster": "lifestyle-quick-interventions",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "Primary focus on physical activity for diabetes management"
+    },
+    {
+      "slug": "periodontitis-postprandial-hyperglycemia",
+      "old_cluster": "oral-systemic-link",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes",
+      "old_cluster": "non-pharmacologic-sensitivity-boost",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "glucose-variability-shift-workers",
+      "old_cluster": "circadian-metabolism",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "date-paste-desserts-glycemic-load-nafld-seniors",
+      "old_cluster": "hepatic-metabolism-diet",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd",
+      "old_cluster": "supplement-safety",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "can-bright-light-therapy-be-safely-used-with-age-related-macular-degeneration-a-risk-benefit-framework-for-adults-75",
+      "old_cluster": "light-therapy-safety-amd",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "Focus on prevention and risk assessment"
+    },
+    {
+      "slug": "can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81",
+      "old_cluster": "environmental-exposures-blood-pressure",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy",
+      "old_cluster": "monitoring-technology-comparison",
+      "new_cluster": "monitoring-technology",
+      "rationale": "Focus on glucose monitoring and beta-cell function tracking"
+    },
+    {
+      "slug": "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs",
+      "old_cluster": "cardiac-diet-sodium-safety",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "General cardiovascular health and function"
+    },
+    {
+      "slug": "12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72",
+      "old_cluster": "diet-nutrition-recipe-modification",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45",
+      "old_cluster": "fasting-renal-safety",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62",
+      "old_cluster": "science-research-holiday-fasting",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    },
+    {
+      "slug": "what-are-the-earliest-gait-changes-linked-to-orthostatic-hypotension-in-adults-with-parkinson-s-disease-stage-2",
+      "old_cluster": "neurological-bp-symptoms",
+      "new_cluster": "hypertension-management",
+      "rationale": "Primary focus on blood pressure and hypertension management"
+    },
+    {
+      "slug": "warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks",
+      "old_cluster": "complications-early-detection",
+      "new_cluster": "diabetes-management",
+      "rationale": "Core focus on diabetes and glucose management"
+    },
+    {
+      "slug": "type-1-diabetes-plant-based-diet-over-60",
+      "old_cluster": "diet-transition-guidance",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "Primary focus on dietary management for diabetes"
+    }
+  ]
+}

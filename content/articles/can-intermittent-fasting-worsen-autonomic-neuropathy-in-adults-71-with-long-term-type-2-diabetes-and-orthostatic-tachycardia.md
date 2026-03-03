@@ -1,14 +1,29 @@
 ---
-title: "Can Intermittent Fasting Worsen Autonomic Neuropathy in Adults 71+ With Long-Term Type 2 Diabetes and Orthostatic Tachycardia?"
-slug: "can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia"
-description: "Examines fasting-induced sympathetic surges, vagal withdrawal, and baroreflex dysfunction—assessing safety, monitoring thresholds, and contraindications for time-restricted eating in frail older adults."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["intermittent fasting autonomic neuropathy elderly", "diabetes", "treatment-safety-risk-assessment"]
-primaryKeyword: "intermittent fasting autonomic neuropathy elderly"
-topicCluster: "treatment-safety-risk-assessment"
-image: ""
-relatedSlugs: ["dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery", "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes", "how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort", "7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin", "how-intermittent-fasting-16-8-affects-nocturnal-sympathetic-tone-in-adults-57-69-with-hypertension-and-sleep-disordered-breathing"]
+title: >-
+  Can Intermittent Fasting Worsen Autonomic Neuropathy in Adults 71+ With
+  Long-Term Type 2 Diabetes and Orthostatic Tachycardia?
+slug: >-
+  can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
+description: >-
+  Examines fasting-induced sympathetic surges, vagal withdrawal, and baroreflex
+  dysfunction—assessing safety, monitoring thresholds, and contraindications for
+  time-restricted eating in frail older adults.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: intermittent fasting autonomic neuropathy elderly
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
+  - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
+  - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+  - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
+  - >-
+    how-intermittent-fasting-16-8-affects-nocturnal-sympathetic-tone-in-adults-57-69-with-hypertension-and-sleep-disordered-breathing
 ---
 
 # Intermittent Fasting and Autonomic Neuropathy in Older Adults With Long-Standing Type 2 Diabetes

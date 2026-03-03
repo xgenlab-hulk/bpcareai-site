@@ -6,12 +6,8 @@ description: >-
   environments, particularly among multigenerational households.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - family resistance to healthy eating
-  - healthy eating during family gatherings
-  - behavioral-change
 primaryKeyword: family resistance to healthy eating
-topicCluster: lifestyle-changes
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

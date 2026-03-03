@@ -6,12 +6,8 @@ description: >-
   over 55, especially those with underlying heart risks.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - holiday feasting and atrial fibrillation
-  - holiday heart syndrome prevention
-  - diet-nutrition
 primaryKeyword: holiday feasting and atrial fibrillation
-topicCluster: nutrition-diet
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-

@@ -6,12 +6,8 @@ description: >-
   cardiovascular health.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - social isolation and heart disease in seniors
-  - heart disease
-  - hypertension-lifestyle
 primaryKeyword: social isolation and heart disease in seniors
-topicCluster: hypertension-management
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - how-social-isolation-increases-heart-disease-risk-after-60

@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Postprandial GLP-1 Secretion During Holiday Meals — Without Medication or Supplements"
-slug: "natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements"
-description: "Details evidence-based, non-pharmacologic triggers—including cold-pressed bitter melon juice pre-meal, chewed mustard seed timing, and deliberate 20-second breath-holds before first bite—that enhance endogenous GLP-1 in adults 60+ with age-related L-cell decline."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["natural glp-1 support holiday meals seniors", "holiday diabetes management", "gut-hormone-activation"]
-primaryKeyword: "natural glp-1 support holiday meals seniors"
-topicCluster: "gut-hormone-activation"
-image: ""
-relatedSlugs: ["natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68", "12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation", "when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65", "natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia"]
+title: >-
+  Natural Ways to Support Postprandial GLP-1 Secretion During Holiday Meals —
+  Without Medication or Supplements
+slug: >-
+  natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
+description: >-
+  Details evidence-based, non-pharmacologic triggers—including cold-pressed
+  bitter melon juice pre-meal, chewed mustard seed timing, and deliberate
+  20-second breath-holds before first bite—that enhance endogenous GLP-1 in
+  adults 60+ with age-related L-cell decline.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: natural glp-1 support holiday meals seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
+  - >-
+    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
+  - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
 ---
 
 # Natural GLP-1 Support for Holiday Meals in Seniors — Simple, Science-Backed Habits That Work

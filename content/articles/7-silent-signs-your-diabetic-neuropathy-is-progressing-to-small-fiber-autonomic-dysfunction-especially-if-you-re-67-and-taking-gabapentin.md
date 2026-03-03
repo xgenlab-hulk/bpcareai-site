@@ -1,14 +1,28 @@
 ---
-title: "7 Silent Signs Your Diabetic Neuropathy Is Progressing to Small-Fiber Autonomic Dysfunction — Especially If You’re 67+ and Taking Gabapentin"
-slug: "7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin"
-description: "Highlights subtle, non-painful indicators (e.g., unexplained gastroparesis, orthostatic sweating patterns, pupil reflex delays) that signal autonomic involvement beyond peripheral nerve damage."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["silent signs autonomic neuropathy older adults", "diabetes", "neuropathy-progression-signs"]
-primaryKeyword: "silent signs autonomic neuropathy older adults"
-topicCluster: "neuropathy-progression-signs"
-image: ""
-relatedSlugs: ["7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72", "7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy", "recognizing-silent-heart-attacks-in-diabetics-over-60", "dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery", "7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging"]
+title: >-
+  7 Silent Signs Your Diabetic Neuropathy Is Progressing to Small-Fiber
+  Autonomic Dysfunction — Especially If You’re 67+ and Taking Gabapentin
+slug: >-
+  7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
+description: >-
+  Highlights subtle, non-painful indicators (e.g., unexplained gastroparesis,
+  orthostatic sweating patterns, pupil reflex delays) that signal autonomic
+  involvement beyond peripheral nerve damage.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: silent signs autonomic neuropathy older adults
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
+  - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
+  - recognizing-silent-heart-attacks-in-diabetics-over-60
+  - >-
+    dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
+  - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
 ---
 
 # Recognizing the Silent Signs Autonomic Neuropathy Older Adults May Overlook — Especially With Long-Standing Diabetes

@@ -6,12 +6,8 @@ description: >-
   while prioritizing nutrient-dense options on the table.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - balancing comfort food and health
-  - healthy eating during family gatherings
-  - balanced-diet-strategies
 primaryKeyword: balancing comfort food and health
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

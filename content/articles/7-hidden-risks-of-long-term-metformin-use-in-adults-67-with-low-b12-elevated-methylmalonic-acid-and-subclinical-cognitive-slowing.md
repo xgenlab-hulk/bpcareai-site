@@ -1,14 +1,29 @@
 ---
-title: "7 Hidden Risks of Long-Term Metformin Use in Adults 67+ With Low B12, Elevated Methylmalonic Acid, and Subclinical Cognitive Slowing"
-slug: "7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing"
-description: "Goes beyond anemia to explore mitochondrial complex I effects on hippocampal neurogenesis, homocysteine-independent epigenetic dysregulation, and CSF amyloid-beta clearance."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["metformin b12 cognitive slowing elderly", "diabetes", "medications-neurocognition"]
-primaryKeyword: "metformin b12 cognitive slowing elderly"
-topicCluster: "medications-neurocognition"
-image: ""
-relatedSlugs: ["how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy", "what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max", "warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78", "warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4", "what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment"]
+title: >-
+  7 Hidden Risks of Long-Term Metformin Use in Adults 67+ With Low B12, Elevated
+  Methylmalonic Acid, and Subclinical Cognitive Slowing
+slug: >-
+  7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing
+description: >-
+  Goes beyond anemia to explore mitochondrial complex I effects on hippocampal
+  neurogenesis, homocysteine-independent epigenetic dysregulation, and CSF
+  amyloid-beta clearance.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: metformin b12 cognitive slowing elderly
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
+  - >-
+    what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
+  - >-
+    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
+  - >-
+    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
 ---
 
 # Understanding Metformin, B12 Deficiency, and Cognitive Changes in Older Adults

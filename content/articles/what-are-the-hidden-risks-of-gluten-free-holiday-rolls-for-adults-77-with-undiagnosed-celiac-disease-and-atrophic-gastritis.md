@@ -1,14 +1,29 @@
 ---
-title: "What Are the Hidden Risks of 'Gluten-Free' Holiday Rolls for Adults 77+ With Undiagnosed Celiac Disease and Atrophic Gastritis?"
-slug: "what-are-the-hidden-risks-of-gluten-free-holiday-rolls-for-adults-77-with-undiagnosed-celiac-disease-and-atrophic-gastritis"
-description: "Uncovers cross-contamination risks in shared ovens, gluten-degrading enzyme deficiencies in aging stomachs, and iron/B12 absorption interference from GF flours."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["gluten-free rolls celiac atrophic gastritis", "healthy eating during family gatherings", "celiac-aging-gastric-absorption"]
-primaryKeyword: "gluten-free rolls celiac atrophic gastritis"
-topicCluster: "celiac-aging-gastric-absorption"
-image: ""
-relatedSlugs: ["the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12", "myths-vs-facts-gluten-free-holiday-stuffing-for-adults-66-with-celiac-disease-and-latent-autoimmune-thyroiditis", "easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis", "when-to-worry-about-just-one-more-slice-of-holiday-bread-especially-if-you-re-a-woman-over-64-with-silent-celiac-disease", "the-truth-about-gluten-free-holiday-desserts-for-adults-67-with-non-celiac-gluten-sensitivity-and-small-intestinal-bacterial-overgrowth"]
+title: >-
+  What Are the Hidden Risks of 'Gluten-Free' Holiday Rolls for Adults 77+ With
+  Undiagnosed Celiac Disease and Atrophic Gastritis?
+slug: >-
+  what-are-the-hidden-risks-of-gluten-free-holiday-rolls-for-adults-77-with-undiagnosed-celiac-disease-and-atrophic-gastritis
+description: >-
+  Uncovers cross-contamination risks in shared ovens, gluten-degrading enzyme
+  deficiencies in aging stomachs, and iron/B12 absorption interference from GF
+  flours.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: gluten-free rolls celiac atrophic gastritis
+topicCluster: prevention-risk-assessment
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
+  - >-
+    myths-vs-facts-gluten-free-holiday-stuffing-for-adults-66-with-celiac-disease-and-latent-autoimmune-thyroiditis
+  - >-
+    easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis
+  - >-
+    when-to-worry-about-just-one-more-slice-of-holiday-bread-especially-if-you-re-a-woman-over-64-with-silent-celiac-disease
+  - >-
+    the-truth-about-gluten-free-holiday-desserts-for-adults-67-with-non-celiac-gluten-sensitivity-and-small-intestinal-bacterial-overgrowth
 ---
 
 # Hidden Risks of Gluten-Free Holiday Rolls for Older Adults with Celiac Disease and Atrophic Gastritis  

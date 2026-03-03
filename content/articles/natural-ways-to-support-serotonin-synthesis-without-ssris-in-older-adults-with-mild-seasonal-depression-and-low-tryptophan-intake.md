@@ -10,12 +10,8 @@ description: >-
   supports—backed by geriatric nutritional neuroscience trials.
 date: '2026-01-02'
 updated: '2026-01-02'
-tags:
-  - serotonin synthesis natural ways seniors tryptophan intake
-  - seasonal depression in older adults
-  - neurotransmitter-nutrition
 primaryKeyword: serotonin synthesis natural ways seniors tryptophan intake
-topicCluster: neurotransmitter-nutrition
+topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-

@@ -10,12 +10,8 @@ description: >-
   timing, and motilin-targeted dietary triggers.
 date: '2026-01-12'
 updated: '2026-01-12'
-tags:
-  - constipation glp-1 secretion type 2 diabetes
-  - diabetes
-  - gut-endocrine-connection
 primaryKeyword: constipation glp-1 secretion type 2 diabetes
-topicCluster: gut-endocrine-connection
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

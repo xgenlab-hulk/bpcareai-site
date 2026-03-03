@@ -1,14 +1,27 @@
 ---
-title: "5 Things Your Endocrinologist Isn’t Asking About Your Sleep Apnea Diagnosis—But Should, If You’re Over 62 and on Basal Insulin"
-slug: "5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin"
-description: "Identifies critical gaps in clinical evaluation: CPAP adherence tracking, hypoxia-driven hepatic glucose overproduction, and why AHI alone fails to predict nocturnal hypoglycemia risk."
-date: "2025-12-27"
-updated: "2025-12-27"
-tags: ["sleep apnea and basal insulin in seniors", "diabetes", "cpap-insulin-interaction"]
-primaryKeyword: "sleep apnea and basal insulin in seniors"
-topicCluster: "cpap-insulin-interaction"
-image: ""
-relatedSlugs: ["how-sleep-apnea-impacts-type-2-diabetes-control-after-50", "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else", "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night", "the-link-between-sleep-apnea-and-high-blood-pressure-after-50", "a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60"]
+title: >-
+  5 Things Your Endocrinologist Isn’t Asking About Your Sleep Apnea
+  Diagnosis—But Should, If You’re Over 62 and on Basal Insulin
+slug: >-
+  5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
+description: >-
+  Identifies critical gaps in clinical evaluation: CPAP adherence tracking,
+  hypoxia-driven hepatic glucose overproduction, and why AHI alone fails to
+  predict nocturnal hypoglycemia risk.
+date: '2025-12-27'
+updated: '2025-12-27'
+primaryKeyword: sleep apnea and basal insulin in seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
+  - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - >-
+    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
 ---
 
 # What Your Endocrinologist *Should* Be Asking About Sleep Apnea and Basal Insulin in Seniors—But Often Isn’t

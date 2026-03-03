@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Evening Tart Cherry Juice (8 oz) vs. Standard Melatonin 1 mg — Impact on Nocturnal Systolic BP and Sleep Architecture in Adults 64–80 With Insomnia and Non-Dipping"
-slug: "a-vs-b-evening-tart-cherry-juice-8-oz-vs-standard-melatonin-1-mg-impact-on-nocturnal-systolic-bp-and-sleep-architecture-in-adults-64-80-with-insomnia-and-non-dipping"
-description: "Compares two natural sleep-support interventions head-to-head for their differential effects on melatonin receptor signaling, vagal tone, and nighttime BP trajectory via ambulatory monitoring data."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["tart cherry juice vs melatonin for blood pressure", "blood pressure", "sleep-intervention-comparison"]
-primaryKeyword: "tart cherry juice vs melatonin for blood pressure"
-topicCluster: "sleep-intervention-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes", "a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation", "a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome", "does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment", "a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension"]
+title: >-
+  A vs B: Evening Tart Cherry Juice (8 oz) vs. Standard Melatonin 1 mg — Impact
+  on Nocturnal Systolic BP and Sleep Architecture in Adults 64–80 With Insomnia
+  and Non-Dipping
+slug: >-
+  a-vs-b-evening-tart-cherry-juice-8-oz-vs-standard-melatonin-1-mg-impact-on-nocturnal-systolic-bp-and-sleep-architecture-in-adults-64-80-with-insomnia-and-non-dipping
+description: >-
+  Compares two natural sleep-support interventions head-to-head for their
+  differential effects on melatonin receptor signaling, vagal tone, and
+  nighttime BP trajectory via ambulatory monitoring data.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: tart cherry juice vs melatonin for blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes
+  - >-
+    a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
+  - >-
+    a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome
+  - >-
+    does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
+  - >-
+    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
 ---
 
 # Tart Cherry Juice vs Melatonin for Blood Pressure: What Older Adults With Insomnia and Non-Dipping Should Know

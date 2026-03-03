@@ -11,12 +11,8 @@ description: >-
   guidance for gastric atrophy patients.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - reheating holiday leftovers mineral bioavailability seniors
-  - healthy holiday eating for seniors
-  - micronutrient-retention-cooking
 primaryKeyword: reheating holiday leftovers mineral bioavailability seniors
-topicCluster: micronutrient-retention-cooking
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-

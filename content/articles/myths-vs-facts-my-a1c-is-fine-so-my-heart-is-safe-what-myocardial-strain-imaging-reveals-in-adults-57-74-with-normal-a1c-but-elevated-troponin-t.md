@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: 'My A1c Is Fine, So My Heart Is Safe' — What Myocardial Strain Imaging Reveals in Adults 57–74 With Normal A1c But Elevated Troponin T"
-slug: "myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t"
-description: "Debunks A1c-centric cardiac risk assessment using speckle-tracking echocardiography data showing subclinical systolic strain deficits despite 'well-controlled' HbA1c."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["A1c and heart safety myth diabetes", "diabetes", "myths-vs-facts-cardiac-risk"]
-primaryKeyword: "A1c and heart safety myth diabetes"
-topicCluster: "myths-vs-facts-cardiac-risk"
-image: ""
-relatedSlugs: ["why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals", "warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear", "myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55", "myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo"]
+title: >-
+  Myths vs Facts: 'My A1c Is Fine, So My Heart Is Safe' — What Myocardial Strain
+  Imaging Reveals in Adults 57–74 With Normal A1c But Elevated Troponin T
+slug: >-
+  myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
+description: >-
+  Debunks A1c-centric cardiac risk assessment using speckle-tracking
+  echocardiography data showing subclinical systolic strain deficits despite
+  'well-controlled' HbA1c.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: A1c and heart safety myth diabetes
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
+  - >-
+    myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55
+  - >-
+    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
 ---
 
 # “My A1c Is Fine, So My Heart Is Safe” — Why That’s a Dangerous Myth for Adults 57–74 with Diabetes

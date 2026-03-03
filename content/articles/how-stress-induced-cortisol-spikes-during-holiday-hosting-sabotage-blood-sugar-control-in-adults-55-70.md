@@ -1,14 +1,24 @@
 ---
-title: "How Stress-Induced Cortisol Spikes During Holiday Hosting Sabotage Blood Sugar Control in Adults 55–70"
-slug: "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70"
-description: "Explores the physiological link between emotional labor of holiday hosting, elevated cortisol, and postprandial hyperglycemia—backed by 2023 endocrinology studies on aging HPA axis response."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["cortisol and blood sugar during holidays", "holiday diabetes management", "stress-physiology-blood-sugar"]
-primaryKeyword: "cortisol and blood sugar during holidays"
-topicCluster: "stress-physiology-blood-sugar"
-image: ""
-relatedSlugs: ["how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope", "why-emotional-eating-during-christmas-raises-blood-sugar-after-50", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes"]
+title: >-
+  How Stress-Induced Cortisol Spikes During Holiday Hosting Sabotage Blood Sugar
+  Control in Adults 55–70
+slug: >-
+  how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+description: >-
+  Explores the physiological link between emotional labor of holiday hosting,
+  elevated cortisol, and postprandial hyperglycemia—backed by 2023 endocrinology
+  studies on aging HPA axis response.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: cortisol and blood sugar during holidays
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
+  - why-emotional-eating-during-christmas-raises-blood-sugar-after-50
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
 ---
 
 # How Holiday Hosting Affects Cortisol and Blood Sugar in Adults 55–70

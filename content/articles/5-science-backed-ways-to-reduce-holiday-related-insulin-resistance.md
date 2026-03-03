@@ -6,12 +6,8 @@ description: >-
   combat temporary increases in insulin resistance.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - reduce insulin resistance holidays
-  - managing blood sugar during Christmas and New Year
-  - scientific-evidence
 primaryKeyword: reduce insulin resistance holidays
-topicCluster: evidence-research
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

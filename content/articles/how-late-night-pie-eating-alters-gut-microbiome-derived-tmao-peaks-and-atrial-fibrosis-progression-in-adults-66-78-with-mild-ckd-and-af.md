@@ -1,14 +1,29 @@
 ---
-title: "How Late-Night Pie Eating Alters Gut Microbiome-Derived TMAO Peaks and Atrial Fibrosis Progression in Adults 66–78 With Mild CKD and AF"
-slug: "how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af"
-description: "Connects post-holiday dessert timing, microbial metabolite kinetics, and renal excretion capacity — explaining why late-night sweets may accelerate structural remodeling even without acute arrhythmia."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["late-night pie tmao atrial fibrosis", "holiday heart syndrome prevention", "microbiome-remodeling-link"]
-primaryKeyword: "late-night pie tmao atrial fibrosis"
-topicCluster: "microbiome-remodeling-link"
-image: ""
-relatedSlugs: ["how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle", "how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib", "myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2", "how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65", "can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd"]
+title: >-
+  How Late-Night Pie Eating Alters Gut Microbiome-Derived TMAO Peaks and Atrial
+  Fibrosis Progression in Adults 66–78 With Mild CKD and AF
+slug: >-
+  how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af
+description: >-
+  Connects post-holiday dessert timing, microbial metabolite kinetics, and renal
+  excretion capacity — explaining why late-night sweets may accelerate
+  structural remodeling even without acute arrhythmia.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: late-night pie tmao atrial fibrosis
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
+  - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
+  - >-
+    myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
+  - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
+  - >-
+    can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
 ---
 
 # How Late-Night Pie Eating May Influence TMAO Levels and Atrial Fibrosis in Older Adults With Mild Kidney Disease and Atrial Fibrillation

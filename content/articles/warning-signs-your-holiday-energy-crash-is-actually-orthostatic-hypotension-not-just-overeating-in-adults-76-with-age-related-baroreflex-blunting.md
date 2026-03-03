@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your Holiday 'Energy Crash' Is Actually Orthostatic Hypotension — Not Just Overeating — In Adults 76+ With Age-Related Baroreflex Blunting"
-slug: "warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting"
-description: "Differentiates true orthostatic drop from fatigue via seated-to-standing BP protocol, hydration status clues, and safe positioning techniques for frail elders."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["holiday energy crash orthostatic hypotension", "healthy eating during family gatherings", "autonomic-dysfunction-symptoms"]
-primaryKeyword: "holiday energy crash orthostatic hypotension"
-topicCluster: "autonomic-dysfunction-symptoms"
-image: ""
-relatedSlugs: ["when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67", "when-to-suspect-orthostatic-hypertension-instead-of-hypotension-in-adults-77-with-recurrent-falls-and-why-your-bp-cuff-may-be-lying-to-you", "warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather", "when-to-worry-about-unexplained-fatigue-after-holiday-dinners-distinguishing-postprandial-hypotension-from-early-autonomic-neuropathy-in-adults-70-with-diabetes", "what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75"]
+title: >-
+  Warning Signs Your Holiday 'Energy Crash' Is Actually Orthostatic Hypotension
+  — Not Just Overeating — In Adults 76+ With Age-Related Baroreflex Blunting
+slug: >-
+  warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting
+description: >-
+  Differentiates true orthostatic drop from fatigue via seated-to-standing BP
+  protocol, hydration status clues, and safe positioning techniques for frail
+  elders.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: holiday energy crash orthostatic hypotension
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67
+  - >-
+    when-to-suspect-orthostatic-hypertension-instead-of-hypotension-in-adults-77-with-recurrent-falls-and-why-your-bp-cuff-may-be-lying-to-you
+  - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
+  - >-
+    when-to-worry-about-unexplained-fatigue-after-holiday-dinners-distinguishing-postprandial-hypotension-from-early-autonomic-neuropathy-in-adults-70-with-diabetes
+  - >-
+    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
 ---
 
 # Is Your Holiday Energy Crash Orthostatic Hypotension? Recognizing the Real Cause in Adults 76+  

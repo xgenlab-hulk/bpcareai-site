@@ -9,12 +9,8 @@ description: >-
   sugar and hypoglycemia risk in seniors with diabetes.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - research on alcohol and blood sugar
-  - managing blood sugar during Christmas and New Year
-  - scientific-evidence
 primaryKeyword: research on alcohol and blood sugar
-topicCluster: evidence-research
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

@@ -11,12 +11,8 @@ description: >-
   dynamic workloads—based on 2023 ACC consensus pathways.
 date: '2025-12-28'
 updated: '2025-12-28'
-tags:
-  - cardiac rehab post-covid myocardial fatigue
-  - heart disease
-  - post-covid-cardiac-rehab
 primaryKeyword: cardiac rehab post-covid myocardial fatigue
-topicCluster: post-covid-cardiac-rehab
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

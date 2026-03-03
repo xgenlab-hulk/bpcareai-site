@@ -6,12 +6,8 @@ description: >-
   heart damage.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - cholesterol monitoring for men over 50 no symptoms
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: cholesterol monitoring for men over 50 no symptoms
-topicCluster: cardiovascular-health
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - why-blood-pressure-matters-even-if-you-feel-fine

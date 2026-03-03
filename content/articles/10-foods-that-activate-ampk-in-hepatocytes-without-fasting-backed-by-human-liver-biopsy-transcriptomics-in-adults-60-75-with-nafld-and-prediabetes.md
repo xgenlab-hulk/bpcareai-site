@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Activate AMPK in Hepatocytes Without Fasting—Backed by Human Liver Biopsy Transcriptomics in Adults 60–75 With NAFLD and Prediabetes"
-slug: "10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes"
-description: "Highlights specific phytochemicals (e.g., berberine analogs, apigenin glycosides) and their dose-dependent AMPK phosphorylation effects observed in ex vivo liver tissue studies."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["ampk-activating foods nafld prediabetes", "diabetes", "diet-molecular-pathways"]
-primaryKeyword: "ampk-activating foods nafld prediabetes"
-topicCluster: "diet-molecular-pathways"
-image: ""
-relatedSlugs: ["10-foods-that-enhance-skeletal-muscle-glucose-uptake-via-ampk-activation-backed-by-muscle-biopsy-data-in-adults-61-76", "10-foods-that-activate-ampk-in-adipose-tissue-to-reduce-inflammatory-adipokine-release-backed-by-subcutaneous-fat-biopsy-data-in-adults-57-73-with-obesity-and-type-2-diabetes", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd", "how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study"]
+title: >-
+  10 Foods That Activate AMPK in Hepatocytes Without Fasting—Backed by Human
+  Liver Biopsy Transcriptomics in Adults 60–75 With NAFLD and Prediabetes
+slug: >-
+  10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes
+description: >-
+  Highlights specific phytochemicals (e.g., berberine analogs, apigenin
+  glycosides) and their dose-dependent AMPK phosphorylation effects observed in
+  ex vivo liver tissue studies.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: ampk-activating foods nafld prediabetes
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-enhance-skeletal-muscle-glucose-uptake-via-ampk-activation-backed-by-muscle-biopsy-data-in-adults-61-76
+  - >-
+    10-foods-that-activate-ampk-in-adipose-tissue-to-reduce-inflammatory-adipokine-release-backed-by-subcutaneous-fat-biopsy-data-in-adults-57-73-with-obesity-and-type-2-diabetes
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
 ---
 
 # 10 Foods That Support Liver Health by Activating AMPK—Evidence from Real Human Liver Tissue in Adults 60–75 with NAFLD and Prediabetes

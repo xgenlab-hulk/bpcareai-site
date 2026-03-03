@@ -1,14 +1,28 @@
 ---
-title: "Can You Safely Enjoy Holiday Baking With Type 2 Diabetes and Gastroparesis? A Step-by-Step Ingredient Substitution Guide"
-slug: "can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide"
-description: "A practical, gastroenterology-informed protocol for modifying traditional cookie, pie, and bread recipes using low-FODMAP, low-viscosity, and enzymatically pre-digested ingredients to prevent delayed gastric emptying."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["holiday baking for gastroparesis diabetes", "healthy holiday eating for seniors", "gastro-diet-diabetes"]
-primaryKeyword: "holiday baking for gastroparesis diabetes"
-topicCluster: "gastro-diet-diabetes"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70", "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd", "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required", "the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia"]
+title: >-
+  Can You Safely Enjoy Holiday Baking With Type 2 Diabetes and Gastroparesis? A
+  Step-by-Step Ingredient Substitution Guide
+slug: >-
+  can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
+description: >-
+  A practical, gastroenterology-informed protocol for modifying traditional
+  cookie, pie, and bread recipes using low-FODMAP, low-viscosity, and
+  enzymatically pre-digested ingredients to prevent delayed gastric emptying.
+date: '2025-12-29'
+updated: '2025-12-29'
+primaryKeyword: holiday baking for gastroparesis diabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
+  - >-
+    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
 ---
 
 # Safe Holiday Baking for Gastroparesis and Type 2 Diabetes: A Practical, Gut-Friendly Guide

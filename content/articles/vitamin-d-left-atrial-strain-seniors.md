@@ -1,14 +1,27 @@
 ---
-title: "Does Daily 1,000 IU Vitamin D3 Supplementation *Really* Improve Left Atrial Strain in Adults 65+ With Subclinical Hypovitaminosis D and Preserved Ejection Fraction?"
-slug: "does-daily-1-000-iu-vitamin-d3-supplementation-really-improve-left-atrial-strain-in-adults-65-with-subclinical-hypovitaminosis-d-and-preserved-ejection-fraction"
-description: "Reviews 12-month strain echocardiography data from the D-HEART trial, assessing whether repletion affects atrial reservoir function—a sensitive marker of early diastolic burden."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["vitamin d left atrial strain seniors", "heart health", "nutrient-cardiac-strain-imaging"]
-primaryKeyword: "vitamin d left atrial strain seniors"
-topicCluster: "nutrient-cardiac-strain-imaging"
-image: ""
-relatedSlugs: ["how-vitamin-d-deficiency-impacts-heart-health-in-winter", "does-daily-2000-iu-vitamin-d3-actually-reduce-myocardial-fibrosis-in-adults-59-73-with-type-2-diabetes-and-elevated-galectin-3", "can-vitamin-d-deficiency-increase-your-risk-of-heart-disease", "does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency", "what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors"]
+title: >-
+  Does Daily 1,000 IU Vitamin D3 Supplementation *Really* Improve Left Atrial
+  Strain in Adults 65+ With Subclinical Hypovitaminosis D and Preserved Ejection
+  Fraction?
+slug: >-
+  does-daily-1-000-iu-vitamin-d3-supplementation-really-improve-left-atrial-strain-in-adults-65-with-subclinical-hypovitaminosis-d-and-preserved-ejection-fraction
+description: >-
+  Reviews 12-month strain echocardiography data from the D-HEART trial,
+  assessing whether repletion affects atrial reservoir function—a sensitive
+  marker of early diastolic burden.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: vitamin d left atrial strain seniors
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - >-
+    does-daily-2000-iu-vitamin-d3-actually-reduce-myocardial-fibrosis-in-adults-59-73-with-type-2-diabetes-and-elevated-galectin-3
+  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - >-
+    does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency
+  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
 ---
 
 # Can Vitamin D3 Supplementation Support Left Atrial Strain in Seniors? What the D-HEART Trial Tells Us

@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Gum Inflammation Alters Coronary Artery Plaque Stability in Adults 58–74 With Controlled Hypertension"
-slug: "how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension"
-description: "Examines the oral-systemic link via CRP, IL-6, and MMP-9 pathways—how periodontitis accelerates vulnerable plaque formation even when BP and LDL appear 'well managed'."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["gum disease and coronary plaque stability adults 60s", "heart disease", "oral-systemic-cardiology"]
-primaryKeyword: "gum disease and coronary plaque stability adults 60s"
-topicCluster: "oral-systemic-cardiology"
-image: ""
-relatedSlugs: ["how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense", "how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial", "how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria"]
+title: >-
+  How Chronic Gum Inflammation Alters Coronary Artery Plaque Stability in Adults
+  58–74 With Controlled Hypertension
+slug: >-
+  how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
+description: >-
+  Examines the oral-systemic link via CRP, IL-6, and MMP-9 pathways—how
+  periodontitis accelerates vulnerable plaque formation even when BP and LDL
+  appear 'well managed'.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: gum disease and coronary plaque stability adults 60s
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
+  - >-
+    how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
 ---
 
 # How Gum Disease and Coronary Plaque Stability in Adults 60s Are More Connected Than You Think

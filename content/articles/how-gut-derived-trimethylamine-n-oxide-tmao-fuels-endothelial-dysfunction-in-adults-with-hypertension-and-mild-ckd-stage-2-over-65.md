@@ -10,12 +10,8 @@ description: >-
   standard low-salt diets don’t address this axis.
 date: '2025-12-25'
 updated: '2025-12-25'
-tags:
-  - tmao endothelial dysfunction hypertension ck2
-  - blood pressure
-  - gut-vascular-axis
 primaryKeyword: tmao endothelial dysfunction hypertension ck2
-topicCluster: gut-vascular-axis
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-

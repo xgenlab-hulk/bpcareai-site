@@ -1,14 +1,28 @@
 ---
-title: "When to Use a Post-Meal Walk for Glucose Control—Not Just Duration, But Timing, Terrain, and Gait Speed in Adults 70+ With Mild Orthostatic Hypotension"
-slug: "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension"
-description: "Details the optimal 12–22 minute window post-holiday meal for glucose-lowering effect, adjusted for blood pressure stability, with terrain and pace recommendations validated in frail elders."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["post-meal walk timing seniors orthostatic hypotension", "healthy holiday eating for seniors", "exercise-glucose-bp-synergy"]
-primaryKeyword: "post-meal walk timing seniors orthostatic hypotension"
-topicCluster: "exercise-glucose-bp-synergy"
-image: ""
-relatedSlugs: ["best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance", "can-walking-after-meals-lower-blood-sugar-in-older-adults", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75"]
+title: >-
+  When to Use a Post-Meal Walk for Glucose Control—Not Just Duration, But
+  Timing, Terrain, and Gait Speed in Adults 70+ With Mild Orthostatic
+  Hypotension
+slug: >-
+  when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+description: >-
+  Details the optimal 12–22 minute window post-holiday meal for glucose-lowering
+  effect, adjusted for blood pressure stability, with terrain and pace
+  recommendations validated in frail elders.
+date: '2026-01-05'
+updated: '2026-01-05'
+primaryKeyword: post-meal walk timing seniors orthostatic hypotension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 ---
 
 # Optimizing Post-Meal Walk Timing for Seniors With Orthostatic Hypotension: A Gentle, Evidence-Based Guide

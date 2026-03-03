@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Adult 60–69 With Stage 1 Hypertension and Mild Cognitive Complaints Should Know Before Starting an ACE Inhibitor"
-slug: "5-things-every-adult-60-69-with-stage-1-hypertension-and-mild-cognitive-complaints-should-know-before-starting-an-ace-inhibitor"
-description: "Covers cerebral perfusion trade-offs, orthostatic cognition shifts, RAS genotype interactions, and how ACEi may unexpectedly improve or worsen subjective 'brain fog' in early-stage hypertensive neurovascular disease."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["ace inhibitors cognitive effects age 60-69", "heart disease", "medication-cognition"]
-primaryKeyword: "ace inhibitors cognitive effects age 60-69"
-topicCluster: "medication-cognition"
-image: ""
-relatedSlugs: ["what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities", "warning-signs-your-bp-medication-is-causing-subclinical-cerebral-hypoperfusion-even-if-your-numbers-look-good-on-abpm", "why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension", "can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76", "the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors"]
+title: >-
+  5 Things Every Adult 60–69 With Stage 1 Hypertension and Mild Cognitive
+  Complaints Should Know Before Starting an ACE Inhibitor
+slug: >-
+  5-things-every-adult-60-69-with-stage-1-hypertension-and-mild-cognitive-complaints-should-know-before-starting-an-ace-inhibitor
+description: >-
+  Covers cerebral perfusion trade-offs, orthostatic cognition shifts, RAS
+  genotype interactions, and how ACEi may unexpectedly improve or worsen
+  subjective 'brain fog' in early-stage hypertensive neurovascular disease.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: ace inhibitors cognitive effects age 60-69
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
+  - >-
+    warning-signs-your-bp-medication-is-causing-subclinical-cerebral-hypoperfusion-even-if-your-numbers-look-good-on-abpm
+  - >-
+    why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension
+  - >-
+    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
+  - >-
+    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
 ---
 
 # What Adults 60–69 With Stage 1 Hypertension and Mild Cognitive Concerns Need to Know About ACE Inhibitors and Brain Health

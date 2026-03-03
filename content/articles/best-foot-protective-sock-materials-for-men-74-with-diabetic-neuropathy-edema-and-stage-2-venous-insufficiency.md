@@ -10,12 +10,8 @@ description: >-
   thermal regulation, and ulcer prevention in high-risk male feet.
 date: '2026-01-25'
 updated: '2026-01-25'
-tags:
-  - diabetic socks venous insufficiency elderly men
-  - diabetes
-  - prevention-foot-care
 primaryKeyword: diabetic socks venous insufficiency elderly men
-topicCluster: prevention-foot-care
+topicCluster: complications-management
 image: ''
 relatedSlugs:
   - >-

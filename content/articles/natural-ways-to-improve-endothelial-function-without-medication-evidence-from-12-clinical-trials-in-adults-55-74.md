@@ -10,12 +10,8 @@ description: >-
   measurable FMD improvement.
 date: '2025-12-22'
 updated: '2025-12-22'
-tags:
-  - improve endothelial function without medication
-  - heart disease
-  - natural-remedies-endothelial-health
 primaryKeyword: improve endothelial function without medication
-topicCluster: natural-remedies-endothelial-health
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-

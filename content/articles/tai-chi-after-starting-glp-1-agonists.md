@@ -1,14 +1,30 @@
 ---
-title: "Can You Safely Resume Morning Tai Chi *After* Starting GLP-1 Agonists? — Evidence-Based Timing, Hydration, and Orthostatic Monitoring Protocols for Adults 59–71"
-slug: "can-you-safely-resume-morning-tai-chi-after-starting-glp-1-agonists-evidence-based-timing-hydration-and-orthostatic-monitoring-protocols-for-adults-59-71"
-description: "Addresses real-world safety questions around exercise initiation during pharmacologic transition—focusing on gastric emptying delays, hypotension risk, and autonomic recalibration windows."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["tai chi after starting glp-1 agonists", "diabetes", "exercise-pharmacology-safety"]
-primaryKeyword: "tai chi after starting glp-1 agonists"
-topicCluster: "exercise-pharmacology-safety"
-image: ""
-relatedSlugs: ["when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65", "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists", "a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms", "does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis", "12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms"]
+title: >-
+  Can You Safely Resume Morning Tai Chi *After* Starting GLP-1 Agonists? —
+  Evidence-Based Timing, Hydration, and Orthostatic Monitoring Protocols for
+  Adults 59–71
+slug: >-
+  can-you-safely-resume-morning-tai-chi-after-starting-glp-1-agonists-evidence-based-timing-hydration-and-orthostatic-monitoring-protocols-for-adults-59-71
+description: >-
+  Addresses real-world safety questions around exercise initiation during
+  pharmacologic transition—focusing on gastric emptying delays, hypotension
+  risk, and autonomic recalibration windows.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: tai chi after starting glp-1 agonists
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
+  - >-
+    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
+  - >-
+    a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms
+  - >-
+    does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis
+  - >-
+    12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms
 ---
 
 # Can You Safely Practice Tai Chi After Starting GLP-1 Agonists? A Gentle, Evidence-Informed Guide for Adults 59–71

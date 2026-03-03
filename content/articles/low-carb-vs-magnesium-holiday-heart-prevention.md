@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Pre-Holiday 3-Day Low-Carb Reset vs. Same-Duration Magnesium-Glycinate Loading — Which Better Stabilizes Heart Rate Variability in Adults 58+ With Subclinical Autonomic Dysfunction?"
-slug: "a-vs-b-pre-holiday-3-day-low-carb-reset-vs-same-duration-magnesium-glycinate-loading-which-better-stabilizes-heart-rate-variability-in-adults-58-with-subclinical-autonomic-dysfunction"
-description: "Compares two pre-festivity interventions for improving vagal tone and reducing AFib susceptibility, using HRV metrics and 72-hour wearable ECG data in early autonomic decline."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["low-carb vs magnesium holiday heart prevention", "holiday heart syndrome prevention", "pre-holiday-intervention-comparison"]
-primaryKeyword: "low-carb vs magnesium holiday heart prevention"
-topicCluster: "pre-holiday-intervention-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome", "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history", "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance", "how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort"]
+title: >-
+  A vs B: Pre-Holiday 3-Day Low-Carb Reset vs. Same-Duration Magnesium-Glycinate
+  Loading — Which Better Stabilizes Heart Rate Variability in Adults 58+ With
+  Subclinical Autonomic Dysfunction?
+slug: >-
+  a-vs-b-pre-holiday-3-day-low-carb-reset-vs-same-duration-magnesium-glycinate-loading-which-better-stabilizes-heart-rate-variability-in-adults-58-with-subclinical-autonomic-dysfunction
+description: >-
+  Compares two pre-festivity interventions for improving vagal tone and reducing
+  AFib susceptibility, using HRV metrics and 72-hour wearable ECG data in early
+  autonomic decline.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: low-carb vs magnesium holiday heart prevention
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
+  - >-
+    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+  - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
 ---
 
 # Low-Carb vs Magnesium Holiday Heart Prevention: Which 3-Day Strategy Supports Your Heart Best Before Festivities?

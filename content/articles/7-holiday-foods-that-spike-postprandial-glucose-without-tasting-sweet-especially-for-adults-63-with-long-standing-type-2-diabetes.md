@@ -1,14 +1,30 @@
 ---
-title: "7 Holiday Foods That Spike Postprandial Glucose *Without* Tasting Sweet — Especially for Adults 63+ With Long-Standing Type 2 Diabetes"
-slug: "7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes"
-description: "Explores unexpectedly high-glycemic holiday staples like stuffing, mashed potatoes, and cranberry sauce — analyzing resistant starch loss, thermal gelatinization, and AGE formation — with glycemic index comparisons and safer preparation alternatives."
-date: "2026-02-17"
-updated: "2026-02-17"
-tags: ["holiday foods that spike blood sugar", "holiday diabetes management", "diabetic-diet-glycemic-impact"]
-primaryKeyword: "holiday foods that spike blood sugar"
-topicCluster: "diabetic-diet-glycemic-impact"
-image: ""
-relatedSlugs: ["7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control", "7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish", "7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid", "9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners", "7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish"]
+title: >-
+  7 Holiday Foods That Spike Postprandial Glucose *Without* Tasting Sweet —
+  Especially for Adults 63+ With Long-Standing Type 2 Diabetes
+slug: >-
+  7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
+description: >-
+  Explores unexpectedly high-glycemic holiday staples like stuffing, mashed
+  potatoes, and cranberry sauce — analyzing resistant starch loss, thermal
+  gelatinization, and AGE formation — with glycemic index comparisons and safer
+  preparation alternatives.
+date: '2026-02-17'
+updated: '2026-02-17'
+primaryKeyword: holiday foods that spike blood sugar
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+  - >-
+    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - >-
+    9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
 ---
 
 # Holiday Foods That Spike Blood Sugar — Even When They Don’t Taste Sweet (Especially After Age 63)

@@ -11,12 +11,8 @@ description: >-
   safety thresholds and testing guidance.
 date: '2026-01-15'
 updated: '2026-01-15'
-tags:
-  - lead exposure resistant hypertension
-  - blood pressure
-  - environmental-toxicology-hypertension
 primaryKeyword: lead exposure resistant hypertension
-topicCluster: environmental-toxicology-hypertension
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

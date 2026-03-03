@@ -1,14 +1,26 @@
 ---
-title: "The Complete Guide to Holiday Heart Syndrome Prevention for Adults With Pacemakers or ICDs—Including Safe Gift Ideas and Travel Tips"
-slug: "the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips"
-description: "Covers electromagnetic interference risks (e.g., LED light strands, wireless chargers), battery management during cold weather travel, and safe engagement in holiday activities without compromising device function."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["holiday heart prevention for pacemaker patients", "holiday heart syndrome prevention", "device-safety"]
-primaryKeyword: "holiday heart prevention for pacemaker patients"
-topicCluster: "device-safety"
-image: ""
-relatedSlugs: ["12-simple-ways-to-prevent-holiday-heart-syndrome-naturally", "7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them", "how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk", "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin"]
+title: >-
+  The Complete Guide to Holiday Heart Syndrome Prevention for Adults With
+  Pacemakers or ICDs—Including Safe Gift Ideas and Travel Tips
+slug: >-
+  the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
+description: >-
+  Covers electromagnetic interference risks (e.g., LED light strands, wireless
+  chargers), battery management during cold weather travel, and safe engagement
+  in holiday activities without compromising device function.
+date: '2026-01-05'
+updated: '2026-01-05'
+primaryKeyword: holiday heart prevention for pacemaker patients
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
+  - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
+  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
 ---
 
 # A Reassuring Guide to Holiday Heart Prevention for Pacemaker Patients

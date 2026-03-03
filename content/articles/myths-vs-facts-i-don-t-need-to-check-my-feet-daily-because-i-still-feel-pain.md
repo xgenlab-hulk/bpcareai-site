@@ -9,12 +9,8 @@ description: >-
   how to perform a validated monofilament + vibration home assessment.
 date: '2026-01-10'
 updated: '2026-01-10'
-tags:
-  - diabetic foot care pain sensation myth
-  - diabetes
-  - neuropathy-self-assessment
 primaryKeyword: diabetic foot care pain sensation myth
-topicCluster: neuropathy-self-assessment
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - foot-care-basics-every-senior-with-diabetes-should-know

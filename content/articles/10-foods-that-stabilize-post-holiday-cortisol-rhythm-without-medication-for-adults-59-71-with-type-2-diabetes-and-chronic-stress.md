@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Stabilize Post-Holiday Cortisol Rhythm — Without Medication — for Adults 59–71 With Type 2 Diabetes and Chronic Stress"
-slug: "10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress"
-description: "Highlights foods with proven impact on HPA axis modulation (e.g., magnesium-rich roasted pumpkin seeds, fermented sauerkraut, L-theanine–rich white tea) and timing rules for optimal effect."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["foods stabilize cortisol rhythm holiday diabetes", "holiday diabetes management", "stress-metabolism-nutrition"]
-primaryKeyword: "foods stabilize cortisol rhythm holiday diabetes"
-topicCluster: "stress-metabolism-nutrition"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia", "best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes", "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70", "10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue", "quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs"]
+title: >-
+  10 Foods That Stabilize Post-Holiday Cortisol Rhythm — Without Medication —
+  for Adults 59–71 With Type 2 Diabetes and Chronic Stress
+slug: >-
+  10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress
+description: >-
+  Highlights foods with proven impact on HPA axis modulation (e.g.,
+  magnesium-rich roasted pumpkin seeds, fermented sauerkraut, L-theanine–rich
+  white tea) and timing rules for optimal effect.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: foods stabilize cortisol rhythm holiday diabetes
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
+  - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
+  - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+  - >-
+    10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue
+  - >-
+    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
 ---
 
 # 10 Foods That Help Stabilize Cortisol Rhythm After the Holidays — Naturally for Adults 59–71 With Type 2 Diabetes and Chronic Stress

@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Times to Measure Fasting Glucose *Before* Breakfast — Not Just Upon Waking — for Adults 65+ With Dawn Phenomenon and Shift Work History"
-slug: "12-science-backed-times-to-measure-fasting-glucose-before-breakfast-not-just-upon-waking-for-adults-65-with-dawn-phenomenon-and-shift-work-history"
-description: "Maps optimal glucose sampling windows aligned with cortisol pulses, melatonin clearance, and hepatic glycogenolysis peaks—using real-world shift-worker data to refine 'fasting' definition beyond clock time."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["fasting glucose measurement timing dawn phenomenon", "holiday diabetes management", "precision-glucose-monitoring-timing"]
-primaryKeyword: "fasting glucose measurement timing dawn phenomenon"
-topicCluster: "precision-glucose-monitoring-timing"
-image: ""
-relatedSlugs: ["12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon", "12-science-backed-times-to-check-your-glucose-during-the-holidays-based-on-circadian-ampk-activation-peaks-in-adults-70-with-sarcopenia-and-insulin-resistance", "why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner", "simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome", "quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history"]
+title: >-
+  12 Science-Backed Times to Measure Fasting Glucose *Before* Breakfast — Not
+  Just Upon Waking — for Adults 65+ With Dawn Phenomenon and Shift Work History
+slug: >-
+  12-science-backed-times-to-measure-fasting-glucose-before-breakfast-not-just-upon-waking-for-adults-65-with-dawn-phenomenon-and-shift-work-history
+description: >-
+  Maps optimal glucose sampling windows aligned with cortisol pulses, melatonin
+  clearance, and hepatic glycogenolysis peaks—using real-world shift-worker data
+  to refine 'fasting' definition beyond clock time.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: fasting glucose measurement timing dawn phenomenon
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon
+  - >-
+    12-science-backed-times-to-check-your-glucose-during-the-holidays-based-on-circadian-ampk-activation-peaks-in-adults-70-with-sarcopenia-and-insulin-resistance
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
+  - >-
+    quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
 ---
 
 # Optimizing Fasting Glucose Measurement Timing for Older Adults With Dawn Phenomenon and Shift Work History

@@ -1,14 +1,30 @@
 ---
-title: "When to Worry About ‘White-Coat’ Readings That Persist in the ER: Differentiating Acute Hypertensive Urgency From Masked Stress-Induced Surges in Adults 68+"
-slug: "when-to-worry-about-white-coat-readings-that-persist-in-the-er-differentiating-acute-hypertensive-urgency-from-masked-stress-induced-surges-in-adults-68"
-description: "Guides clinicians and patients on red-flag biomarkers (e.g., urine NGAL, retinal artery tortuosity), serial ED vitals patterns, and point-of-care fundoscopy clues for true end-organ risk."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["white-coat hypertension emergency room adults 68+", "blood pressure", "emergency-symptoms"]
-primaryKeyword: "white-coat hypertension emergency room adults 68+"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["the-complete-guide-to-interpreting-home-bp-logs-for-adults-58-72-with-white-coat-hypertension-and-high-work-stress", "5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk", "when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants", "why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68", "when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67"]
+title: >-
+  When to Worry About ‘White-Coat’ Readings That Persist in the ER:
+  Differentiating Acute Hypertensive Urgency From Masked Stress-Induced Surges
+  in Adults 68+
+slug: >-
+  when-to-worry-about-white-coat-readings-that-persist-in-the-er-differentiating-acute-hypertensive-urgency-from-masked-stress-induced-surges-in-adults-68
+description: >-
+  Guides clinicians and patients on red-flag biomarkers (e.g., urine NGAL,
+  retinal artery tortuosity), serial ED vitals patterns, and point-of-care
+  fundoscopy clues for true end-organ risk.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: white-coat hypertension emergency room adults 68+
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-interpreting-home-bp-logs-for-adults-58-72-with-white-coat-hypertension-and-high-work-stress
+  - >-
+    5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
+  - >-
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
+  - >-
+    when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
 ---
 
 # When White-Coat Hypertension in the Emergency Room Signals Real Risk for Adults 68+  

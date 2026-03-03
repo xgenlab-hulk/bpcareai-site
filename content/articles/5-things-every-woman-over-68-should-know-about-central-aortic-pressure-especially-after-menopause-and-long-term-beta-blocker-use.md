@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Woman Over 68 Should Know About Central Aortic Pressure — Especially After Menopause and Long-Term Beta-Blocker Use"
-slug: "5-things-every-woman-over-68-should-know-about-central-aortic-pressure-especially-after-menopause-and-long-term-beta-blocker-use"
-description: "Explains why brachial cuff readings underestimate cardiac afterload in postmenopausal women, how beta-blockers mask central pressure elevation, and non-invasive assessment options."
-date: "2026-02-11"
-updated: "2026-02-11"
-tags: ["central-aortic-pressure-women-menopause", "blood pressure", "gender-specific-central-hemodynamics"]
-primaryKeyword: "central-aortic-pressure-women-menopause"
-topicCluster: "gender-specific-central-hemodynamics"
-image: ""
-relatedSlugs: ["can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension", "5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension", "5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge", "12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings", "can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity"]
+title: >-
+  5 Things Every Woman Over 68 Should Know About Central Aortic Pressure —
+  Especially After Menopause and Long-Term Beta-Blocker Use
+slug: >-
+  5-things-every-woman-over-68-should-know-about-central-aortic-pressure-especially-after-menopause-and-long-term-beta-blocker-use
+description: >-
+  Explains why brachial cuff readings underestimate cardiac afterload in
+  postmenopausal women, how beta-blockers mask central pressure elevation, and
+  non-invasive assessment options.
+date: '2026-02-11'
+updated: '2026-02-11'
+primaryKeyword: central-aortic-pressure-women-menopause
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension
+  - >-
+    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
+  - >-
+    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
+  - >-
+    12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings
+  - >-
+    can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity
 ---
 
 # What Every Woman Over 68 Needs to Know About Central Aortic Pressure After Menopause — Especially on Beta-Blockers

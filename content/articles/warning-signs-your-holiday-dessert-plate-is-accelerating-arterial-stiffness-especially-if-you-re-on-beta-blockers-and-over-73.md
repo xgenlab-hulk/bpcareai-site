@@ -1,14 +1,24 @@
 ---
-title: "Warning Signs Your Holiday Dessert Plate Is Accelerating Arterial Stiffness—Especially If You’re on Beta-Blockers and Over 73"
-slug: "warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73"
-description: "Links repetitive high-glycemic dessert intake to pulse wave velocity changes, with at-home monitoring cues and a ‘stiffness-sparing’ dessert rotation plan."
-date: "2025-12-31"
-updated: "2025-12-31"
-tags: ["holiday dessert arterial stiffness warning signs", "healthy eating during family gatherings", "vascular-stiffness-monitoring"]
-primaryKeyword: "holiday dessert arterial stiffness warning signs"
-topicCluster: "vascular-stiffness-monitoring"
-image: ""
-relatedSlugs: ["warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes", "5-surprising-foods-that-may-trigger-holiday-heart-syndrome", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65"]
+title: >-
+  Warning Signs Your Holiday Dessert Plate Is Accelerating Arterial
+  Stiffness—Especially If You’re on Beta-Blockers and Over 73
+slug: >-
+  warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73
+description: >-
+  Links repetitive high-glycemic dessert intake to pulse wave velocity changes,
+  with at-home monitoring cues and a ‘stiffness-sparing’ dessert rotation plan.
+date: '2025-12-31'
+updated: '2025-12-31'
+primaryKeyword: holiday dessert arterial stiffness warning signs
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 ---
 
 # Holiday Dessert Arterial Stiffness Warning Signs — What Your Sweet Treats Might Be Telling You

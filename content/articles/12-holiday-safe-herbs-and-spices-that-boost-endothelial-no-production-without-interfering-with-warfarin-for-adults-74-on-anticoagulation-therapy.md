@@ -1,14 +1,30 @@
 ---
-title: "12 Holiday-Safe Herbs and Spices That Boost Endothelial NO Production *Without* Interfering With Warfarin — For Adults 74+ on Anticoagulation Therapy"
-slug: "12-holiday-safe-herbs-and-spices-that-boost-endothelial-no-production-without-interfering-with-warfarin-for-adults-74-on-anticoagulation-therapy"
-description: "Curates a vetted list of vasodilatory seasonings with INR-safe phytochemical profiles, plus usage thresholds and preparation methods to maximize nitric oxide bioavailability."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["holiday herbs endothelial no warfarin safe", "healthy holiday eating for seniors", "anticoagulation-nutrition"]
-primaryKeyword: "holiday herbs endothelial no warfarin safe"
-topicCluster: "anticoagulation-nutrition"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban", "can-you-safely-eat-stuffed-peppers-at-thanksgiving-if-you-re-on-warfarin-a-vitamin-k-consistency-guide-for-adults-65-with-atrial-fibrillation", "7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina", "when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead", "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling"]
+title: >-
+  12 Holiday-Safe Herbs and Spices That Boost Endothelial NO Production
+  *Without* Interfering With Warfarin — For Adults 74+ on Anticoagulation
+  Therapy
+slug: >-
+  12-holiday-safe-herbs-and-spices-that-boost-endothelial-no-production-without-interfering-with-warfarin-for-adults-74-on-anticoagulation-therapy
+description: >-
+  Curates a vetted list of vasodilatory seasonings with INR-safe phytochemical
+  profiles, plus usage thresholds and preparation methods to maximize nitric
+  oxide bioavailability.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: holiday herbs endothelial no warfarin safe
+topicCluster: treatment-interventions
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
+  - >-
+    can-you-safely-eat-stuffed-peppers-at-thanksgiving-if-you-re-on-warfarin-a-vitamin-k-consistency-guide-for-adults-65-with-atrial-fibrillation
+  - >-
+    7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
+  - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
 ---
 
 # Holiday Herbs Endothelial NO Warfarin Safe: 12 Seasonal Spices That Support Vascular Health Without Affecting INR

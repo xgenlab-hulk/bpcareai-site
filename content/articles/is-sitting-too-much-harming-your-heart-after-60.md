@@ -6,10 +6,6 @@ description: >-
   can reduce risks.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - sedentary lifestyle and heart health after 60
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: sedentary lifestyle and heart health after 60
 topicCluster: cardiovascular-health
 image: ''

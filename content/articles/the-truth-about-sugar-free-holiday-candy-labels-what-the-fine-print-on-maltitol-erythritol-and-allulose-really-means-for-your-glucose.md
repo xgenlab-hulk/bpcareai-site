@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Sugar-Free' Holiday Candy Labels—What the Fine Print on Maltitol, Erythritol, and Allulose Really Means for Your Glucose"
-slug: "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose"
-description: "Demystifies sugar alcohol metabolism, osmotic effects, and individual variability in glycemic response—especially for seniors with gastroparesis or IBS-D."
-date: "2026-01-02"
-updated: "2026-01-02"
-tags: ["sugar-free candy blood sugar truth", "managing blood sugar during christmas and new year", "supplements-sweeteners-metabolism"]
-primaryKeyword: "sugar-free candy blood sugar truth"
-topicCluster: "supplements-sweeteners-metabolism"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors", "the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76", "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging", "does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely"]
+title: >-
+  The Truth About 'Sugar-Free' Holiday Candy Labels—What the Fine Print on
+  Maltitol, Erythritol, and Allulose Really Means for Your Glucose
+slug: >-
+  the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+description: >-
+  Demystifies sugar alcohol metabolism, osmotic effects, and individual
+  variability in glycemic response—especially for seniors with gastroparesis or
+  IBS-D.
+date: '2026-01-02'
+updated: '2026-01-02'
+primaryKeyword: sugar-free candy blood sugar truth
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+  - >-
+    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+  - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
 ---
 
 # The Real Story Behind Sugar-Free Candy and Blood Sugar—What Seniors Need to Know

@@ -10,12 +10,8 @@ description: >-
   impact B12 absorption and neurological health.
 date: '2026-01-07'
 updated: '2026-01-07'
-tags:
-  - gluten-free holiday bread b12 deficiency
-  - healthy eating during family gatherings
-  - nutrient-absorption-gluten
 primaryKeyword: gluten-free holiday bread b12 deficiency
-topicCluster: nutrient-absorption-gluten
+topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - >-

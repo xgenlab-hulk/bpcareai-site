@@ -1,14 +1,29 @@
 ---
-title: "What Are the Earliest Signs of Holiday-Induced Diabetic Gastroparesis Flare-Ups—Before Nausea or Bloating Appear?"
-slug: "what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear"
-description: "Details subtle prodromal markers: abnormal gastric motilin spikes on breath tests, delayed salivary amylase response, and meal-associated heart rate variability flattening."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["early gastroparesis flare holiday symptoms", "holiday diabetes management", "gastrointestinal-early-warning"]
-primaryKeyword: "early gastroparesis flare holiday symptoms"
-topicCluster: "gastrointestinal-early-warning"
-image: ""
-relatedSlugs: ["can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide", "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60", "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70", "when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults"]
+title: >-
+  What Are the Earliest Signs of Holiday-Induced Diabetic Gastroparesis
+  Flare-Ups—Before Nausea or Bloating Appear?
+slug: >-
+  what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
+description: >-
+  Details subtle prodromal markers: abnormal gastric motilin spikes on breath
+  tests, delayed salivary amylase response, and meal-associated heart rate
+  variability flattening.
+date: '2026-01-01'
+updated: '2026-01-01'
+primaryKeyword: early gastroparesis flare holiday symptoms
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
+  - >-
+    when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults
 ---
 
 # Spotting the Very First Clues of a Holiday Gastroparesis Flare—Before Nausea or Bloating Show Up  

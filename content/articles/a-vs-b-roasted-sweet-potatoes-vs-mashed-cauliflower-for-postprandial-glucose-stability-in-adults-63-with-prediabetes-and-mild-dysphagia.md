@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Roasted Sweet Potatoes vs. Mashed Cauliflower for Postprandial Glucose Stability in Adults 63+ With Prediabetes and Mild Dysphagia"
-slug: "a-vs-b-roasted-sweet-potatoes-vs-mashed-cauliflower-for-postprandial-glucose-stability-in-adults-63-with-prediabetes-and-mild-dysphagia"
-description: "Compares glycemic index, chewing effort, gastric retention time, and micronutrient bioavailability between two popular holiday starch alternatives—tailored for early swallowing changes."
-date: "2026-02-11"
-updated: "2026-02-11"
-tags: ["roasted sweet potatoes vs mashed cauliflower seniors", "healthy holiday eating for seniors", "diabetic-diet-dysphagia"]
-primaryKeyword: "roasted sweet potatoes vs mashed cauliflower seniors"
-topicCluster: "diabetic-diet-dysphagia"
-image: ""
-relatedSlugs: ["a-vs-b-slow-roasted-sweet-potatoes-with-cinnamon-vs-instant-mashed-sweet-potatoes-with-marshmallows-impact-on-postprandial-glucose-variability-in-adults-67-with-prediabetes", "can-you-eat-leftover-mashed-potatoes-cold-the-next-morning-without-spiking-glucose-a-glycemic-index-comparison-for-adults-64-with-gastroparesis-like-symptoms", "a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d", "a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain", "a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome"]
+title: >-
+  A vs B: Roasted Sweet Potatoes vs. Mashed Cauliflower for Postprandial Glucose
+  Stability in Adults 63+ With Prediabetes and Mild Dysphagia
+slug: >-
+  a-vs-b-roasted-sweet-potatoes-vs-mashed-cauliflower-for-postprandial-glucose-stability-in-adults-63-with-prediabetes-and-mild-dysphagia
+description: >-
+  Compares glycemic index, chewing effort, gastric retention time, and
+  micronutrient bioavailability between two popular holiday starch
+  alternatives—tailored for early swallowing changes.
+date: '2026-02-11'
+updated: '2026-02-11'
+primaryKeyword: roasted sweet potatoes vs mashed cauliflower seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-slow-roasted-sweet-potatoes-with-cinnamon-vs-instant-mashed-sweet-potatoes-with-marshmallows-impact-on-postprandial-glucose-variability-in-adults-67-with-prediabetes
+  - >-
+    can-you-eat-leftover-mashed-potatoes-cold-the-next-morning-without-spiking-glucose-a-glycemic-index-comparison-for-adults-64-with-gastroparesis-like-symptoms
+  - >-
+    a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d
+  - >-
+    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
+  - >-
+    a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
 ---
 
 # Roasted Sweet Potatoes vs Mashed Cauliflower for Seniors: A Gentle Guide to Healthy Holiday Eating

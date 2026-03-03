@@ -1,14 +1,31 @@
 ---
-title: "A vs B: Continuous Glucose Monitoring With Real-Time Alerts vs. Intermittent Flash Glucose Monitoring for Preventing Nocturnal Hypoglycemia in Adults 75+ With Nocturnal Hypoglycemia-Associated Autonomic Failure"
-slug: "a-vs-b-continuous-glucose-monitoring-with-real-time-alerts-vs-intermittent-flash-glucose-monitoring-for-preventing-nocturnal-hypoglycemia-in-adults-75-with-nocturnal-hypoglycemia-associated-autonomic-failure"
-description: "Compares clinical outcomes (hypoglycemia duration <54 mg/dL, seizure incidence, next-day cognitive fog scores) and usability metrics (alarm adherence, skin tolerance, battery life during 14-day winter power outages) in 212 adults ≥75."
-date: "2026-02-17"
-updated: "2026-02-17"
-tags: ["cgms vs flash glucose monitoring seniors hypoglycemia", "diabetes", "glucose-monitoring-comparison"]
-primaryKeyword: "cgms vs flash glucose monitoring seniors hypoglycemia"
-topicCluster: "glucose-monitoring-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia", "a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy", "a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin", "a-vs-b-continuous-glucose-monitoring-cgm-vs-structured-self-monitoring-of-blood-glucose-smbg-for-detecting-dawn-phenomenon-in-adults-57-64-with-early-beta-cell-decline", "the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79"]
+title: >-
+  A vs B: Continuous Glucose Monitoring With Real-Time Alerts vs. Intermittent
+  Flash Glucose Monitoring for Preventing Nocturnal Hypoglycemia in Adults 75+
+  With Nocturnal Hypoglycemia-Associated Autonomic Failure
+slug: >-
+  a-vs-b-continuous-glucose-monitoring-with-real-time-alerts-vs-intermittent-flash-glucose-monitoring-for-preventing-nocturnal-hypoglycemia-in-adults-75-with-nocturnal-hypoglycemia-associated-autonomic-failure
+description: >-
+  Compares clinical outcomes (hypoglycemia duration <54 mg/dL, seizure
+  incidence, next-day cognitive fog scores) and usability metrics (alarm
+  adherence, skin tolerance, battery life during 14-day winter power outages) in
+  212 adults ≥75.
+date: '2026-02-17'
+updated: '2026-02-17'
+primaryKeyword: cgms vs flash glucose monitoring seniors hypoglycemia
+topicCluster: behavioral-mental-health
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-structured-self-monitoring-of-blood-glucose-smbg-for-detecting-dawn-phenomenon-in-adults-57-64-with-early-beta-cell-decline
+  - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
 ---
 
 # CGMs vs Flash Glucose Monitoring for Seniors: What’s Best for Preventing Nighttime Low Blood Sugar?

@@ -6,12 +6,8 @@ description: >-
   Christmas and New Year, including time zone and routine changes.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - monitoring blood sugar while traveling
-  - managing blood sugar during Christmas and New Year
-  - monitoring-testing
 primaryKeyword: monitoring blood sugar while traveling
-topicCluster: health-monitoring
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

@@ -6,12 +6,8 @@ description: >-
   impact circulation and blood pressure in seniors.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - indoor heating blood pressure
-  - winter heart health for seniors
-  - environmental-factors
 primaryKeyword: indoor heating blood pressure
-topicCluster: social-environmental
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - how-does-cold-weather-affect-blood-pressure-in-older-adults

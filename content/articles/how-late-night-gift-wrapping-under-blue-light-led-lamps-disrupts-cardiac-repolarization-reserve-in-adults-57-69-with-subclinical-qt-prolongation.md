@@ -1,14 +1,29 @@
 ---
-title: "How Late-Night Gift Wrapping Under Blue-Light LED Lamps Disrupts Cardiac Repolarization Reserve in Adults 57–69 With Subclinical QT Prolongation"
-slug: "how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation"
-description: "Connects circadian photoreceptor activation, melatonin suppression, and delayed IKs channel recovery to increased susceptibility to holiday-triggered ventricular arrhythmias — with ECG-derived T-wave morphology clustering evidence."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["blue light gift wrapping qt prolongation", "holiday heart syndrome prevention", "circadian-cardiac-rhythm"]
-primaryKeyword: "blue light gift wrapping qt prolongation"
-topicCluster: "circadian-cardiac-rhythm"
-image: ""
-relatedSlugs: ["how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib", "how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns", "how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp", "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it", "how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm"]
+title: >-
+  How Late-Night Gift Wrapping Under Blue-Light LED Lamps Disrupts Cardiac
+  Repolarization Reserve in Adults 57–69 With Subclinical QT Prolongation
+slug: >-
+  how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation
+description: >-
+  Connects circadian photoreceptor activation, melatonin suppression, and
+  delayed IKs channel recovery to increased susceptibility to holiday-triggered
+  ventricular arrhythmias — with ECG-derived T-wave morphology clustering
+  evidence.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: blue light gift wrapping qt prolongation
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
+  - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+  - >-
+    how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp
+  - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # How Late-Night Gift Wrapping Under Blue-Light LEDs May Worsen QT Prolongation in Adults 57–69

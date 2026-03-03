@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About Sudden Loss of Exercise Tolerance Despite Stable Weight and Resting BP in Adults 55–69 With Known Mitral Valve Prolapse"
-slug: "when-to-worry-about-sudden-loss-of-exercise-tolerance-despite-stable-weight-and-resting-bp-in-adults-55-69-with-known-mitral-valve-prolapse"
-description: "Details red-flag patterns — such as dyspnea at <2 METs, disproportionate fatigue, or new-onset PND — that suggest silent chordal rupture, ventricular remodeling, or evolving secondary mitral regurgitation."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["loss exercise tolerance mitral valve prolapse", "heart health", "structural-heart-red-flags"]
-primaryKeyword: "loss exercise tolerance mitral valve prolapse"
-topicCluster: "structural-heart-red-flags"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity", "warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71", "when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction", "when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings"]
+title: >-
+  When to Worry About Sudden Loss of Exercise Tolerance Despite Stable Weight
+  and Resting BP in Adults 55–69 With Known Mitral Valve Prolapse
+slug: >-
+  when-to-worry-about-sudden-loss-of-exercise-tolerance-despite-stable-weight-and-resting-bp-in-adults-55-69-with-known-mitral-valve-prolapse
+description: >-
+  Details red-flag patterns — such as dyspnea at <2 METs, disproportionate
+  fatigue, or new-onset PND — that suggest silent chordal rupture, ventricular
+  remodeling, or evolving secondary mitral regurgitation.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: loss exercise tolerance mitral valve prolapse
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
 ---
 
 # When Sudden Loss of Exercise Tolerance Happens in Mitral Valve Prolapse — Even With Stable Weight and Normal Resting BP

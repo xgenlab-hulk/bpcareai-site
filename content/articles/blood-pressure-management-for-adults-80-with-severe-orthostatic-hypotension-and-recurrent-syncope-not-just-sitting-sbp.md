@@ -1,14 +1,27 @@
 ---
-title: "Blood Pressure Management for Adults 80+ With Severe Orthostatic Hypotension and Recurrent Syncope — Not Just Sitting SBP"
-slug: "blood-pressure-management-for-adults-80-with-severe-orthostatic-hypotension-and-recurrent-syncope-not-just-sitting-sbp"
-description: "Focuses on upright hemodynamics, cerebral perfusion pressure, and non-pharmacologic volume modulation — avoiding over-treatment of supine hypertension."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["blood pressure management 80 plus orthostatic", "blood pressure", "frail-elderly-bp-strategy"]
-primaryKeyword: "blood pressure management 80 plus orthostatic"
-topicCluster: "frail-elderly-bp-strategy"
-image: ""
-relatedSlugs: ["warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather", "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75", "what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "isolated-systolic-hypertension-what-it-means-for-older-adults"]
+title: >-
+  Blood Pressure Management for Adults 80+ With Severe Orthostatic Hypotension
+  and Recurrent Syncope — Not Just Sitting SBP
+slug: >-
+  blood-pressure-management-for-adults-80-with-severe-orthostatic-hypotension-and-recurrent-syncope-not-just-sitting-sbp
+description: >-
+  Focuses on upright hemodynamics, cerebral perfusion pressure, and
+  non-pharmacologic volume modulation — avoiding over-treatment of supine
+  hypertension.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: blood pressure management 80 plus orthostatic
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - isolated-systolic-hypertension-what-it-means-for-older-adults
 ---
 
 # Blood Pressure Management 80 Plus Orthostatic: Prioritizing Upright Safety Over Sitting Numbers

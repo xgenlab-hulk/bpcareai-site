@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Salivary Amylase Activity During Holiday Meals — For Adults 75+ With Sjögren’s-Like Xerostomia and Denture Wear"
-slug: "natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear"
-description: "Offers evidence-informed, non-pharmacologic tactics—chewable acid stimulants, temperature-modulated foods, and enzyme-supportive spices—to improve carbohydrate digestion and reduce oral discomfort without increasing aspiration risk."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["support salivary amylase in dry mouth seniors", "healthy holiday eating for seniors", "oral-digestion-enzyme-support"]
-primaryKeyword: "support salivary amylase in dry mouth seniors"
-topicCluster: "oral-digestion-enzyme-support"
-image: ""
-relatedSlugs: ["natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia", "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes", "what-causes-sudden-dry-mouth-during-holiday-dessert-consumption-in-adults-75-with-sj-gren-s-syndrome-and-xerostomia-related-dysphagia", "natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria", "natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78"]
+title: >-
+  Natural Ways to Support Salivary Amylase Activity During Holiday Meals — For
+  Adults 75+ With Sjögren’s-Like Xerostomia and Denture Wear
+slug: >-
+  natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear
+description: >-
+  Offers evidence-informed, non-pharmacologic tactics—chewable acid stimulants,
+  temperature-modulated foods, and enzyme-supportive spices—to improve
+  carbohydrate digestion and reduce oral discomfort without increasing
+  aspiration risk.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: support salivary amylase in dry mouth seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+  - >-
+    quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
+  - >-
+    what-causes-sudden-dry-mouth-during-holiday-dessert-consumption-in-adults-75-with-sj-gren-s-syndrome-and-xerostomia-related-dysphagia
+  - >-
+    natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
+  - >-
+    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
 ---
 
 # Gentle, Natural Ways to Support Salivary Amylase in Dry Mouth Seniors During Holiday Meals

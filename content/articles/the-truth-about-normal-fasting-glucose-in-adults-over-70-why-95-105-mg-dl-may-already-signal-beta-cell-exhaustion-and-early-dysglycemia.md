@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Normal' Fasting Glucose in Adults Over 70: Why 95–105 mg/dL May Already Signal Beta-Cell Exhaustion and Early Dysglycemia"
-slug: "the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia"
-description: "Challenges age-normalized glucose thresholds using C-peptide kinetics and first-phase insulin response data—revealing why 'borderline normal' values often mask irreversible functional decline."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["fasting glucose normal range over 70", "diabetes", "monitoring-beta-cell-function"]
-primaryKeyword: "fasting glucose normal range over 70"
-topicCluster: "monitoring-beta-cell-function"
-image: ""
-relatedSlugs: ["myths-vs-facts-normal-fasting-glucose-readings-in-adults-with-diabetes-and-chronic-kidney-disease-stage-3a-why-your-lab-may-be-missing-early-glycemic-dysregulation", "what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery", "myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes", "does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis", "myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction"]
+title: >-
+  The Truth About 'Normal' Fasting Glucose in Adults Over 70: Why 95–105 mg/dL
+  May Already Signal Beta-Cell Exhaustion and Early Dysglycemia
+slug: >-
+  the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
+description: >-
+  Challenges age-normalized glucose thresholds using C-peptide kinetics and
+  first-phase insulin response data—revealing why 'borderline normal' values
+  often mask irreversible functional decline.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: fasting glucose normal range over 70
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-normal-fasting-glucose-readings-in-adults-with-diabetes-and-chronic-kidney-disease-stage-3a-why-your-lab-may-be-missing-early-glycemic-dysregulation
+  - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
+  - >-
+    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
+  - >-
+    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
+  - >-
+    myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction
 ---
 
 # Rethinking the “Normal” Fasting Glucose in Adults Over 70: What 95–105 mg/dL Really Reveals About Beta-Cell Health

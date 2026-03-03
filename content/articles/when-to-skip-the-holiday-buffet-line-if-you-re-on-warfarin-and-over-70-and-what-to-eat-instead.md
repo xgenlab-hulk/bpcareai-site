@@ -1,14 +1,27 @@
 ---
-title: "When to Skip the Holiday Buffet Line If You’re on Warfarin and Over 70—And What to Eat Instead"
-slug: "when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead"
-description: "Guidance on vitamin K–rich holiday dishes to avoid (or carefully portion) when anticoagulated, plus 5 plate-balanced alternatives that maintain INR stability and reduce fall-risk fatigue."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["warfarin holiday buffet seniors", "healthy holiday eating for seniors", "anticoagulation-nutrition-safety"]
-primaryKeyword: "warfarin holiday buffet seniors"
-topicCluster: "anticoagulation-nutrition-safety"
-image: ""
-relatedSlugs: ["12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead", "can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals", "the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies"]
+title: >-
+  When to Skip the Holiday Buffet Line If You’re on Warfarin and Over 70—And
+  What to Eat Instead
+slug: >-
+  when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
+description: >-
+  Guidance on vitamin K–rich holiday dishes to avoid (or carefully portion) when
+  anticoagulated, plus 5 plate-balanced alternatives that maintain INR stability
+  and reduce fall-risk fatigue.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: warfarin holiday buffet seniors
+topicCluster: natural-remedies
+image: ''
+relatedSlugs:
+  - >-
+    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
+  - >-
+    can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
 ---
 
 # What to Know About the Warfarin Holiday Buffet Seniors Should Navigate—Safely and Confidently

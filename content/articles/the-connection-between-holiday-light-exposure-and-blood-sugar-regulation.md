@@ -1,14 +1,20 @@
 ---
-title: "The Connection Between Holiday Light Exposure and Blood Sugar Regulation"
-slug: "the-connection-between-holiday-light-exposure-and-blood-sugar-regulation"
-description: "Explore how changes in circadian rhythm due to festive lighting and late nights may influence glucose control in people over 50 with diabetes."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["holiday lights blood sugar circadian", "managing blood sugar during Christmas and New Year", "circadian-rhythm-metabolism"]
-primaryKeyword: "holiday lights blood sugar circadian"
-topicCluster: "circadian-rhythm-metabolism"
-image: ""
-relatedSlugs: ["does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work"]
+title: The Connection Between Holiday Light Exposure and Blood Sugar Regulation
+slug: the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
+description: >-
+  Explore how changes in circadian rhythm due to festive lighting and late
+  nights may influence glucose control in people over 50 with diabetes.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: holiday lights blood sugar circadian
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
 ---
 
 # How Holiday Lights, Blood Sugar, and Circadian Rhythms Interact—Especially After Age 50

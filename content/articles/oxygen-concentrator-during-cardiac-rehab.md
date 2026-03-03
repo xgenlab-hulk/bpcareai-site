@@ -1,14 +1,30 @@
 ---
-title: "Can You Safely Use a Portable Oxygen Concentrator *During* Cardiac Rehab Sessions? — Safety Thresholds for SpO₂, HRV, and Exercise Tolerance in Adults 71+ With HFpEF"
-slug: "can-you-safely-use-a-portable-oxygen-concentrator-during-cardiac-rehab-sessions-safety-thresholds-for-spo-hrv-and-exercise-tolerance-in-adults-71-with-hfpef"
-description: "Reviews evidence on supplemental O₂ use during monitored exercise in older adults with preserved ejection fraction heart failure — including titration protocols and red-flag parameters."
-date: "2026-02-17"
-updated: "2026-02-17"
-tags: ["oxygen concentrator during cardiac rehab", "heart disease", "intervention-safety"]
-primaryKeyword: "oxygen concentrator during cardiac rehab"
-topicCluster: "intervention-safety"
-image: ""
-relatedSlugs: ["5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program", "simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation", "myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization", "can-you-safely-use-a-sauna-while-taking-an-ace-inhibitor-evidence-based-temperature-thresholds-and-recovery-protocols-for-adults-65-with-mild-lv-hypertrophy", "best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk"]
+title: >-
+  Can You Safely Use a Portable Oxygen Concentrator *During* Cardiac Rehab
+  Sessions? — Safety Thresholds for SpO₂, HRV, and Exercise Tolerance in Adults
+  71+ With HFpEF
+slug: >-
+  can-you-safely-use-a-portable-oxygen-concentrator-during-cardiac-rehab-sessions-safety-thresholds-for-spo-hrv-and-exercise-tolerance-in-adults-71-with-hfpef
+description: >-
+  Reviews evidence on supplemental O₂ use during monitored exercise in older
+  adults with preserved ejection fraction heart failure — including titration
+  protocols and red-flag parameters.
+date: '2026-02-17'
+updated: '2026-02-17'
+primaryKeyword: oxygen concentrator during cardiac rehab
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
+  - >-
+    simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation
+  - >-
+    myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization
+  - >-
+    can-you-safely-use-a-sauna-while-taking-an-ace-inhibitor-evidence-based-temperature-thresholds-and-recovery-protocols-for-adults-65-with-mild-lv-hypertrophy
+  - >-
+    best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk
 ---
 
 # Using a Portable Oxygen Concentrator During Cardiac Rehab: What Older Adults With HFpEF Need to Know

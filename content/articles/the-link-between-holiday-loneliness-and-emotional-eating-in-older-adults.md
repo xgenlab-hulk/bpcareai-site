@@ -6,12 +6,8 @@ description: >-
   patterns in seniors and what families can do to help.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - holiday loneliness and emotional eating seniors
-  - healthy holiday eating for seniors
-  - emotional-mental-health
 primaryKeyword: holiday loneliness and emotional eating seniors
-topicCluster: mental-wellness
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

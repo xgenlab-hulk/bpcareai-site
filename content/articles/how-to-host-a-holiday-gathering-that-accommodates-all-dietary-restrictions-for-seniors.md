@@ -9,12 +9,8 @@ description: >-
   heart health, swallowing issues, and allergies without sacrificing joy.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - hosting holiday meals for seniors with dietary restrictions
-  - healthy holiday eating for seniors
-  - social-dining-strategies
 primaryKeyword: hosting holiday meals for seniors with dietary restrictions
-topicCluster: social-environmental
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

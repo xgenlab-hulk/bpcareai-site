@@ -1,14 +1,28 @@
 ---
-title: "How Holiday Leftovers Affect Postprandial Glucose in Adults 72+ With Early-Stage Diabetic Nephropathy"
-slug: "how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy"
-description: "Explores the glycemic impact of reheated holiday meals—especially turkey, stuffing, and mashed potatoes—on kidney-protective glucose control in seniors with stage 1–2 CKD and diabetes."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["holiday leftovers postprandial glucose seniors", "healthy holiday eating for seniors", "glycemic-response-diet-nutrition"]
-primaryKeyword: "holiday leftovers postprandial glucose seniors"
-topicCluster: "glycemic-response-diet-nutrition"
-image: ""
-relatedSlugs: ["how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability", "simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia", "how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes"]
+title: >-
+  How Holiday Leftovers Affect Postprandial Glucose in Adults 72+ With
+  Early-Stage Diabetic Nephropathy
+slug: >-
+  how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
+description: >-
+  Explores the glycemic impact of reheated holiday meals—especially turkey,
+  stuffing, and mashed potatoes—on kidney-protective glucose control in seniors
+  with stage 1–2 CKD and diabetes.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: holiday leftovers postprandial glucose seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
+  - >-
+    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
+  - >-
+    how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 
 # How Holiday Leftovers Affect Postprandial Glucose in Seniors 72+ With Early Diabetic Nephropathy  

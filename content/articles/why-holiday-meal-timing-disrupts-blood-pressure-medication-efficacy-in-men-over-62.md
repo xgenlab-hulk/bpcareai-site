@@ -1,14 +1,27 @@
 ---
-title: "Why Holiday Meal Timing Disrupts Blood Pressure Medication Efficacy in Men Over 62"
-slug: "why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62"
-description: "Explains chronopharmacology mismatches—especially for ACE inhibitors and calcium channel blockers—when dosing windows collide with late-night desserts or skipped breakfasts."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["meal timing blood pressure meds seniors", "healthy holiday eating for seniors", "chronopharmacology-diet-interaction"]
-primaryKeyword: "meal timing blood pressure meds seniors"
-topicCluster: "chronopharmacology-diet-interaction"
-image: ""
-relatedSlugs: ["7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning", "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia", "meal-timing-strategies-for-better-blood-sugar-control-after-50", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75", "when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68"]
+title: >-
+  Why Holiday Meal Timing Disrupts Blood Pressure Medication Efficacy in Men
+  Over 62
+slug: >-
+  why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
+description: >-
+  Explains chronopharmacology mismatches—especially for ACE inhibitors and
+  calcium channel blockers—when dosing windows collide with late-night desserts
+  or skipped breakfasts.
+date: '2025-12-24'
+updated: '2025-12-24'
+primaryKeyword: meal timing blood pressure meds seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
+  - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
+  - meal-timing-strategies-for-better-blood-sugar-control-after-50
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
+  - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
 ---
 
 # How Meal Timing Affects Blood Pressure Meds in Seniors—Especially During the Holidays

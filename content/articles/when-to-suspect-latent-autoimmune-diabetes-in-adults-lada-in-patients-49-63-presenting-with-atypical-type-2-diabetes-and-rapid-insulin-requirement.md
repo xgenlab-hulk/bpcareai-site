@@ -10,12 +10,8 @@ description: >-
   autoantibody testing.
 date: '2026-01-25'
 updated: '2026-01-25'
-tags:
-  - LADA diagnosis atypical type 2 diabetes
-  - diabetes
-  - diagnosis-differential
 primaryKeyword: LADA diagnosis atypical type 2 diabetes
-topicCluster: diagnosis-differential
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,29 @@
 ---
-title: "What Causes Sudden Morning Hypotension in Adults 77+ With Parkinson’s Disease, Early Orthostatic Hypotension, and Nocturnal Polyuria?"
-slug: "what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria"
-description: "Investigates the circadian interplay between supine sodium retention, dopaminergic fluctuations, and nocturnal renal sodium handling — plus practical dawn-phase BP stabilization tactics."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["morning hypotension parkinsons elderly", "heart disease", "circadian-bp-parkinsons"]
-primaryKeyword: "morning hypotension parkinsons elderly"
-topicCluster: "circadian-bp-parkinsons"
-image: ""
-relatedSlugs: ["what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria", "what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use"]
+title: >-
+  What Causes Sudden Morning Hypotension in Adults 77+ With Parkinson’s Disease,
+  Early Orthostatic Hypotension, and Nocturnal Polyuria?
+slug: >-
+  what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
+description: >-
+  Investigates the circadian interplay between supine sodium retention,
+  dopaminergic fluctuations, and nocturnal renal sodium handling — plus
+  practical dawn-phase BP stabilization tactics.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: morning hypotension parkinsons elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
+  - >-
+    what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
 ---
 
 # Why Morning Hypotension in Parkinson’s Elderly Adults Needs Gentle, Timely Attention

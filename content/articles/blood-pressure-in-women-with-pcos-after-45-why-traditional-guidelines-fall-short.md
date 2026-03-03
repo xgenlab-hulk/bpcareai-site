@@ -10,12 +10,8 @@ description: >-
   with prior PCOS diagnosis.
 date: '2025-12-18'
 updated: '2025-12-18'
-tags:
-  - pcos blood pressure after 45 women
-  - blood pressure
-  - hormonal-women-pcos
 primaryKeyword: pcos blood pressure after 45 women
-topicCluster: hormonal-women-pcos
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - blood-pressure-changes-during-menopause-what-women-should-know

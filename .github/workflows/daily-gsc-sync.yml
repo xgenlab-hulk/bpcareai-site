@@ -1,9 +1,9 @@
 name: Daily GSC Data Sync
 
 on:
-  # 每天 UTC 3:00 自动运行
-  schedule:
-    - cron: '0 3 * * *'
+  # 每天 UTC 3:00 自动运行 - DISABLED
+  # schedule:
+  #   - cron: '0 3 * * *'
 
   # 支持手动触发
   workflow_dispatch:

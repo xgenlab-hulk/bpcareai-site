@@ -1,14 +1,30 @@
 ---
-title: "How Chronic Exposure to Low-Frequency Traffic Vibration (Below 10 Hz) Modulates Baroreceptor Sensitivity in Adults 65–70 With Stage 1 Hypertension and Mild Sleep Fragmentation"
-slug: "how-chronic-exposure-to-low-frequency-traffic-vibration-below-10-hz-modulates-baroreceptor-sensitivity-in-adults-65-70-with-stage-1-hypertension-and-mild-sleep-fragmentation"
-description: "Analyzes environmental biomechanics affecting autonomic regulation — focusing on sub-threshold vibrational stimuli that subtly impair pressure-sensing neural pathways."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["traffic vibration baroreceptor sensitivity hypertension", "blood pressure", "environmental-physiology-links"]
-primaryKeyword: "traffic vibration baroreceptor sensitivity hypertension"
-topicCluster: "environmental-physiology-links"
-image: ""
-relatedSlugs: ["how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension", "how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises", "how-chronic-low-volume-air-conditioning-use-alters-baroreflex-sensitivity-in-adults-73-with-isolated-systolic-hypertension-and-why-just-turning-it-up-makes-it-worse", "natural-ways-to-stabilize-baroreflex-sensitivity-after-stroke-in-adults-65-with-impaired-bp-response-to-standing-and-reduced-hrv", "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv"]
+title: >-
+  How Chronic Exposure to Low-Frequency Traffic Vibration (Below 10 Hz)
+  Modulates Baroreceptor Sensitivity in Adults 65–70 With Stage 1 Hypertension
+  and Mild Sleep Fragmentation
+slug: >-
+  how-chronic-exposure-to-low-frequency-traffic-vibration-below-10-hz-modulates-baroreceptor-sensitivity-in-adults-65-70-with-stage-1-hypertension-and-mild-sleep-fragmentation
+description: >-
+  Analyzes environmental biomechanics affecting autonomic regulation — focusing
+  on sub-threshold vibrational stimuli that subtly impair pressure-sensing
+  neural pathways.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: traffic vibration baroreceptor sensitivity hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
+  - >-
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
+  - >-
+    how-chronic-low-volume-air-conditioning-use-alters-baroreflex-sensitivity-in-adults-73-with-isolated-systolic-hypertension-and-why-just-turning-it-up-makes-it-worse
+  - >-
+    natural-ways-to-stabilize-baroreflex-sensitivity-after-stroke-in-adults-65-with-impaired-bp-response-to-standing-and-reduced-hrv
+  - >-
+    12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv
 ---
 
 # How Traffic Vibration Baroreceptor Sensitivity Hypertension Interacts in Older Adults With Early High Blood Pressure

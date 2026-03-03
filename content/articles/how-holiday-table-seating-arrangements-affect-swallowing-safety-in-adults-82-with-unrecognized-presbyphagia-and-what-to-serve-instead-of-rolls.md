@@ -1,14 +1,30 @@
 ---
-title: "How Holiday Table Seating Arrangements Affect Swallowing Safety in Adults 82+ With Unrecognized Presbyphagia — And What to Serve Instead of Rolls"
-slug: "how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls"
-description: "Examines biomechanical impacts of head/neck positioning (e.g., reclined vs. upright seating, proximity to conversation partners) on pharyngeal transit time and aspiration risk — with food texture alternatives validated via videofluoroscopy studies."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["holiday seating swallowing safety presbyphagia", "healthy eating during family gatherings", "geriatric-dysphagia-environment"]
-primaryKeyword: "holiday seating swallowing safety presbyphagia"
-topicCluster: "geriatric-dysphagia-environment"
-image: ""
-relatedSlugs: ["how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation", "simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd", "5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment", "10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia", "natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia"]
+title: >-
+  How Holiday Table Seating Arrangements Affect Swallowing Safety in Adults 82+
+  With Unrecognized Presbyphagia — And What to Serve Instead of Rolls
+slug: >-
+  how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
+description: >-
+  Examines biomechanical impacts of head/neck positioning (e.g., reclined vs.
+  upright seating, proximity to conversation partners) on pharyngeal transit
+  time and aspiration risk — with food texture alternatives validated via
+  videofluoroscopy studies.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: holiday seating swallowing safety presbyphagia
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
+  - >-
+    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
+  - >-
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
+  - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
+  - >-
+    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
 ---
 
 # Holiday Seating, Swallowing Safety, and Presbyphagia in Older Adults: Gentle Guidance for Safer Family Gatherings

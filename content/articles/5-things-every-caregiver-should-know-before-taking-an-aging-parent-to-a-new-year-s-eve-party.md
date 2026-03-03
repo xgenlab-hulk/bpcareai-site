@@ -1,14 +1,26 @@
 ---
-title: "5 Things Every Caregiver Should Know Before Taking an Aging Parent to a New Year’s Eve Party"
-slug: "5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party"
-description: "Practical, pre-event checklist covering ambient noise stressors, alcohol-free beverage access, emergency symptom recognition, mobility hazards, and real-time heart rate monitoring strategies for frail or cognitively impaired seniors."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["caregiver new year's eve party prep", "holiday heart syndrome prevention", "caregiver-event-preparation"]
-primaryKeyword: "caregiver new year's eve party prep"
-topicCluster: "caregiver-event-preparation"
-image: ""
-relatedSlugs: ["why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55", "warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know", "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties", "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals", "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors"]
+title: >-
+  5 Things Every Caregiver Should Know Before Taking an Aging Parent to a New
+  Year’s Eve Party
+slug: >-
+  5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party
+description: >-
+  Practical, pre-event checklist covering ambient noise stressors, alcohol-free
+  beverage access, emergency symptom recognition, mobility hazards, and
+  real-time heart rate monitoring strategies for frail or cognitively impaired
+  seniors.
+date: '2025-12-19'
+updated: '2025-12-19'
+primaryKeyword: caregiver new year's eve party prep
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # What Every Caregiver Needs to Know for Safe New Year’s Eve Party Prep

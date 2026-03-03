@@ -1,14 +1,26 @@
 ---
-title: "How Chronic Low-Grade Dehydration Alters Taste Bud Sensitivity and Drives Holiday Sugar Cravings in Adults Over 68"
-slug: "how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68"
-description: "Explains the age-related shift in thirst perception and oral mucosal dryness that falsely amplifies sweet preference—and how targeted hydration resets flavor perception before dessert."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["dehydration sugar cravings seniors", "healthy holiday eating for seniors", "hydration-taste-connection"]
-primaryKeyword: "dehydration sugar cravings seniors"
-topicCluster: "hydration-taste-connection"
-image: ""
-relatedSlugs: ["how-dehydration-affects-blood-sugar-readings-in-older-diabetics", "when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes", "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications", "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties", "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70"]
+title: >-
+  How Chronic Low-Grade Dehydration Alters Taste Bud Sensitivity and Drives
+  Holiday Sugar Cravings in Adults Over 68
+slug: >-
+  how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
+description: >-
+  Explains the age-related shift in thirst perception and oral mucosal dryness
+  that falsely amplifies sweet preference—and how targeted hydration resets
+  flavor perception before dessert.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: dehydration sugar cravings seniors
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - >-
+    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 
 # How Dehydration Sugar Cravings Seniors Interact—and What You Can Gently Do About It This Holiday Season

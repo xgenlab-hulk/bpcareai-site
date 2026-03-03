@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your 'Mild' Diabetic Gastroparesis Is Causing Nocturnal Hypoglycemia—Especially If You’re on Basal Insulin Over 68"
-slug: "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68"
-description: "Highlights delayed gastric emptying–induced mismatched insulin peaks, erratic post-meal glucose curves, and unrecognized nighttime lows masked by sleep or dementia-related apathy."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["gastroparesis and nocturnal hypoglycemia in seniors", "diabetes", "gastrointestinal-complications"]
-primaryKeyword: "gastroparesis and nocturnal hypoglycemia in seniors"
-topicCluster: "gastrointestinal-complications"
-image: ""
-relatedSlugs: ["why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75", "5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin", "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68"]
+title: >-
+  Warning Signs Your 'Mild' Diabetic Gastroparesis Is Causing Nocturnal
+  Hypoglycemia—Especially If You’re on Basal Insulin Over 68
+slug: >-
+  warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
+description: >-
+  Highlights delayed gastric emptying–induced mismatched insulin peaks, erratic
+  post-meal glucose curves, and unrecognized nighttime lows masked by sleep or
+  dementia-related apathy.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: gastroparesis and nocturnal hypoglycemia in seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
+  - >-
+    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # When Gastroparesis and Nocturnal Hypoglycemia in Seniors Go Unnoticed—Especially on Basal Insulin

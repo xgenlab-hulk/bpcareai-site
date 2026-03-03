@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Continuous Glucose Monitoring (CGM) vs Fingertip Glucose Testing for Detecting Nocturnal Hypoglycemia in Adults 75+ on Basal Insulin"
-slug: "a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin"
-description: "Compares detection sensitivity, clinical outcomes (falls, confusion episodes), cost-benefit ratios, and usability barriers — using real-world adherence data from 412 seniors over 6 months."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["CGM vs fingerstick nocturnal hypoglycemia elderly", "diabetes", "monitoring-technology-comparison"]
-primaryKeyword: "CGM vs fingerstick nocturnal hypoglycemia elderly"
-topicCluster: "monitoring-technology-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia", "a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy", "the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you", "myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal", "what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance"]
+title: >-
+  A vs B: Continuous Glucose Monitoring (CGM) vs Fingertip Glucose Testing for
+  Detecting Nocturnal Hypoglycemia in Adults 75+ on Basal Insulin
+slug: >-
+  a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
+description: >-
+  Compares detection sensitivity, clinical outcomes (falls, confusion episodes),
+  cost-benefit ratios, and usability barriers — using real-world adherence data
+  from 412 seniors over 6 months.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: CGM vs fingerstick nocturnal hypoglycemia elderly
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
+  - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+  - >-
+    myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal
+  - >-
+    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
 ---
 
 # CGM vs Fingerstick Nocturnal Hypoglycemia Elderly: What’s Really Better for Adults 75+ on Basal Insulin?

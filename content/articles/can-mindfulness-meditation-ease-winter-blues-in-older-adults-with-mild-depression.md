@@ -1,14 +1,23 @@
 ---
-title: "Can Mindfulness Meditation Ease Winter Blues in Older Adults with Mild Depression?"
-slug: "can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression"
-description: "Evaluate mindfulness practices tailored for seniors and their effectiveness in reducing seasonal anxiety and low mood."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["mindfulness for seasonal depression seniors", "seasonal depression in older adults", "mental-wellness-practices"]
-primaryKeyword: "mindfulness for seasonal depression seniors"
-topicCluster: "mental-wellness-practices"
-image: ""
-relatedSlugs: ["natural-ways-to-manage-seasonal-depression-in-seniors-without-medication", "the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees", "best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70", "how-group-activities-in-senior-centers-prevent-seasonal-depression", "can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors"]
+title: >-
+  Can Mindfulness Meditation Ease Winter Blues in Older Adults with Mild
+  Depression?
+slug: >-
+  can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+description: >-
+  Evaluate mindfulness practices tailored for seniors and their effectiveness in
+  reducing seasonal anxiety and low mood.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: mindfulness for seasonal depression seniors
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+  - how-group-activities-in-senior-centers-prevent-seasonal-depression
+  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
 ---
 
 # How Mindfulness for Seasonal Depression Seniors Can Gently Lift Winter Moods

@@ -1,14 +1,29 @@
 ---
-title: "9 Foods That Support Pancreatic Beta-Cell Resilience *During* High-Carb Holidays — Based on Human Islet Transcriptomics and Nrf2 Activation Studies"
-slug: "9-foods-that-support-pancreatic-beta-cell-resilience-during-high-carb-holidays-based-on-human-islet-transcriptomics-and-nrf2-activation-studies"
-description: "Highlights specific phytonutrient-rich foods (e.g., black cumin seed, fermented black garlic, roasted walnuts) shown to upregulate PDX1, MAFA, and antioxidant genes in human beta cells under glucose stress."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["beta-cell resilience holiday foods", "holiday diabetes management", "pancreatic-cell-protection"]
-primaryKeyword: "beta-cell resilience holiday foods"
-topicCluster: "pancreatic-cell-protection"
-image: ""
-relatedSlugs: ["natural-ways-to-support-pancreatic-beta-cell-resilience-during-festive-eating-using-post-meal-fenugreek-seed-infusion-cold-pressed-flax-oil-timing-in-adults-61-with-long-standing-type-2-diabetes", "natural-ways-to-support-beta-cell-resilience-during-high-carb-holiday-eating-using-polyphenol-timing-cold-exposure-windows-and-breath-hold-protocols-in-adults-57-65-with-recent-onset-type-2-diabetes", "natural-ways-to-support-pancreatic-beta-cell-resilience-using-polyphenol-rich-fermented-foods-for-adults-56-72-with-recent-onset-type-2-diabetes-and-high-hs-crp", "natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks", "natural-ways-to-support-pancreatic-beta-cell-rest-during-holiday-meals-using-cold-pressed-apple-cinnamon-chutney-and-pre-meal-seated-breathing-in-adults-63"]
+title: >-
+  9 Foods That Support Pancreatic Beta-Cell Resilience *During* High-Carb
+  Holidays — Based on Human Islet Transcriptomics and Nrf2 Activation Studies
+slug: >-
+  9-foods-that-support-pancreatic-beta-cell-resilience-during-high-carb-holidays-based-on-human-islet-transcriptomics-and-nrf2-activation-studies
+description: >-
+  Highlights specific phytonutrient-rich foods (e.g., black cumin seed,
+  fermented black garlic, roasted walnuts) shown to upregulate PDX1, MAFA, and
+  antioxidant genes in human beta cells under glucose stress.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: beta-cell resilience holiday foods
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-during-festive-eating-using-post-meal-fenugreek-seed-infusion-cold-pressed-flax-oil-timing-in-adults-61-with-long-standing-type-2-diabetes
+  - >-
+    natural-ways-to-support-beta-cell-resilience-during-high-carb-holiday-eating-using-polyphenol-timing-cold-exposure-windows-and-breath-hold-protocols-in-adults-57-65-with-recent-onset-type-2-diabetes
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-using-polyphenol-rich-fermented-foods-for-adults-56-72-with-recent-onset-type-2-diabetes-and-high-hs-crp
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-rest-during-holiday-meals-using-cold-pressed-apple-cinnamon-chutney-and-pre-meal-seated-breathing-in-adults-63
 ---
 
 # 9 Holiday Foods That Gently Support Beta-Cell Resilience — Backed by Human Islet Research

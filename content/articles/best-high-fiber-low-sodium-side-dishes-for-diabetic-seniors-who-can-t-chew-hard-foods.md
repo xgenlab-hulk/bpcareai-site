@@ -11,12 +11,8 @@ description: >-
   xerostomia.
 date: '2025-12-18'
 updated: '2025-12-18'
-tags:
-  - high-fiber low-sodium soft side dishes seniors
-  - healthy eating during family gatherings
-  - diabetic-diet-texture-adapted
 primaryKeyword: high-fiber low-sodium soft side dishes seniors
-topicCluster: diabetic-diet-texture-adapted
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues

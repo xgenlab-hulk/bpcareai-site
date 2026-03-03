@@ -1,14 +1,26 @@
 ---
-title: "7 Hidden Causes of Morning Blood Pressure Spikes in Adults Over 65—Even With Perfect Medication Timing"
-slug: "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing"
-description: "Explores non-obvious physiological, environmental, and behavioral triggers (e.g., nocturnal sodium retention, dawn phenomenon overlap, CPAP nonadherence) that elevate systolic pressure between 5–9 a.m. in older adults on antihypertensives."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["morning blood pressure spikes over 65", "blood pressure", "circadian-hypertension"]
-primaryKeyword: "morning blood pressure spikes over 65"
-topicCluster: "circadian-hypertension"
-image: ""
-relatedSlugs: ["7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning", "how-morning-blood-pressure-spikes-affect-your-heart", "why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes", "the-link-between-sleep-apnea-and-high-blood-pressure-after-50", "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve"]
+title: >-
+  7 Hidden Causes of Morning Blood Pressure Spikes in Adults Over 65—Even With
+  Perfect Medication Timing
+slug: >-
+  7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+description: >-
+  Explores non-obvious physiological, environmental, and behavioral triggers
+  (e.g., nocturnal sodium retention, dawn phenomenon overlap, CPAP nonadherence)
+  that elevate systolic pressure between 5–9 a.m. in older adults on
+  antihypertensives.
+date: '2025-12-25'
+updated: '2025-12-25'
+primaryKeyword: morning blood pressure spikes over 65
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
+  - how-morning-blood-pressure-spikes-affect-your-heart
+  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
 ---
 
 # Understanding Morning Blood Pressure Spikes Over 65—Even With Well-Timed Medication

@@ -10,12 +10,8 @@ description: >-
   motility—without triggering reflux or hypoglycemia.
 date: '2025-12-23'
 updated: '2025-12-23'
-tags:
-  - support gastric emptying diabetic gastroparesis seniors
-  - healthy eating during family gatherings
-  - gastrointestinal-motility-support
 primaryKeyword: support gastric emptying diabetic gastroparesis seniors
-topicCluster: gastrointestinal-motility-support
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food

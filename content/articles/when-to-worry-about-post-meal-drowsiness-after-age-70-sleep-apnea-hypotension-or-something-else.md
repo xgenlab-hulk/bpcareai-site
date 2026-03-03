@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About Post-Meal Drowsiness After Age 70: Sleep Apnea, Hypotension, or Something Else?"
-slug: "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else"
-description: "Distinguishes between benign postprandial somnolence and red-flag fatigue linked to nocturnal hypoxia, orthostatic drops, or early delirium—plus a 3-step home assessment guide."
-date: "2025-12-23"
-updated: "2025-12-23"
-tags: ["post-meal drowsiness seniors red flags", "healthy holiday eating for seniors", "neuro-cardio-symptom-differentiation"]
-primaryKeyword: "post-meal drowsiness seniors red flags"
-topicCluster: "neuro-cardio-symptom-differentiation"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65", "when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75", "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension", "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75"]
+title: >-
+  When to Worry About Post-Meal Drowsiness After Age 70: Sleep Apnea,
+  Hypotension, or Something Else?
+slug: >-
+  when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
+description: >-
+  Distinguishes between benign postprandial somnolence and red-flag fatigue
+  linked to nocturnal hypoxia, orthostatic drops, or early delirium—plus a
+  3-step home assessment guide.
+date: '2025-12-23'
+updated: '2025-12-23'
+primaryKeyword: post-meal drowsiness seniors red flags
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
+  - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
+  - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
 ---
 
 # When Post-Meal Drowsiness in Seniors Crosses the Line: Recognizing Red Flags After Age 70

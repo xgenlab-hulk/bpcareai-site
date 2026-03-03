@@ -6,12 +6,8 @@ description: >-
   impact blood pressure in older adults.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - indoor air quality heart health
-  - senior blood pressure control in winter
-  - environmental-factors
 primaryKeyword: indoor air quality heart health
-topicCluster: social-environmental
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - the-hidden-dangers-of-indoor-heating-on-blood-pressure

@@ -6,12 +6,8 @@ description: >-
   heart strain when breathing frigid winter air.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - cold air breathing techniques
-  - winter heart health for seniors
-  - natural-remedies
 primaryKeyword: cold air breathing techniques
-topicCluster: treatment-interventions
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - can-deep-breathing-exercises-lower-heart-disease-risk

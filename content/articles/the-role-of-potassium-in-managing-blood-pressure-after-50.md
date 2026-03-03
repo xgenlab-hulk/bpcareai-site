@@ -6,10 +6,6 @@ description: >-
   healthy blood pressure levels.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - potassium and blood pressure management over 50
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: potassium and blood pressure management over 50
 topicCluster: hypertension-management
 image: ''

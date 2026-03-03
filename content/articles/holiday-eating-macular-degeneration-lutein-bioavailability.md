@@ -11,12 +11,8 @@ description: >-
   leafy greens, and timing of antioxidant-rich foods.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - holiday eating macular degeneration lutein bioavailability
-  - healthy holiday eating for seniors
-  - eye-health-nutrition-aging
 primaryKeyword: holiday eating macular degeneration lutein bioavailability
-topicCluster: eye-health-nutrition-aging
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-

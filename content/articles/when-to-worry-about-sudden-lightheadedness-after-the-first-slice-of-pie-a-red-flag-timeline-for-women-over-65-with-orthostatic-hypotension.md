@@ -1,14 +1,28 @@
 ---
-title: "When to Worry About Sudden Lightheadedness After the First Slice of Pie: A Red Flag Timeline for Women Over 65 With Orthostatic Hypotension"
-slug: "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension"
-description: "A clinically grounded, symptom-timing guide distinguishing normal postprandial hypotension from dangerous vasovagal or autonomic triggers—specifically for older women managing BP meds or Parkinson’s-related dysautonomia."
-date: "2025-12-23"
-updated: "2025-12-23"
-tags: ["lightheadedness after pie orthostatic hypotension women 65+", "healthy eating during family gatherings", "autonomic-dysfunction-warning-signs"]
-primaryKeyword: "lightheadedness after pie orthostatic hypotension women 65+"
-topicCluster: "autonomic-dysfunction-warning-signs"
-image: ""
-relatedSlugs: ["when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension", "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60", "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75", "how-standing-up-too-fast-affects-blood-pressure-in-older-adults", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75"]
+title: >-
+  When to Worry About Sudden Lightheadedness After the First Slice of Pie: A Red
+  Flag Timeline for Women Over 65 With Orthostatic Hypotension
+slug: >-
+  when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+description: >-
+  A clinically grounded, symptom-timing guide distinguishing normal postprandial
+  hypotension from dangerous vasovagal or autonomic triggers—specifically for
+  older women managing BP meds or Parkinson’s-related dysautonomia.
+date: '2025-12-23'
+updated: '2025-12-23'
+primaryKeyword: lightheadedness after pie orthostatic hypotension women 65+
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 ---
 
 # When Lightheadedness After Pie Orthostatic Hypotension in Women 65+ Signals a Need for Gentle Attention

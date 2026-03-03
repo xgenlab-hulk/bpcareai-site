@@ -10,12 +10,8 @@ description: >-
   agonist regimens during sustained high-heat exposure in adults over 60.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - antihypertensive dosing summer heatwaves
-  - blood pressure
-  - seasonal-htn-management
 primaryKeyword: antihypertensive dosing summer heatwaves
-topicCluster: seasonal-htn-management
+topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-

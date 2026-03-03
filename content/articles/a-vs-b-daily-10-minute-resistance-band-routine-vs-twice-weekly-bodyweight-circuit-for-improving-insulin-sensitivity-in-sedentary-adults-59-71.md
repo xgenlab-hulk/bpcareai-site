@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Daily 10-Minute Resistance Band Routine vs. Twice-Weekly Bodyweight Circuit for Improving Insulin Sensitivity in Sedentary Adults 59–71"
-slug: "a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71"
-description: "Compares feasibility, adherence rates, and 12-week HOMA-IR changes between two low-barrier strength protocols — with video-linked form cues and progression benchmarks tailored for joint-safe implementation."
-date: "2026-01-10"
-updated: "2026-01-10"
-tags: ["resistance training insulin sensitivity sedentary 59-71", "diabetes", "exercise-modality-comparison"]
-primaryKeyword: "resistance training insulin sensitivity sedentary 59-71"
-topicCluster: "exercise-modality-comparison"
-image: ""
-relatedSlugs: ["does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss", "natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70", "best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension", "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats", "best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options"]
+title: >-
+  A vs B: Daily 10-Minute Resistance Band Routine vs. Twice-Weekly Bodyweight
+  Circuit for Improving Insulin Sensitivity in Sedentary Adults 59–71
+slug: >-
+  a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71
+description: >-
+  Compares feasibility, adherence rates, and 12-week HOMA-IR changes between two
+  low-barrier strength protocols — with video-linked form cues and progression
+  benchmarks tailored for joint-safe implementation.
+date: '2026-01-10'
+updated: '2026-01-10'
+primaryKeyword: resistance training insulin sensitivity sedentary 59-71
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
+  - >-
+    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
+  - >-
+    best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - >-
+    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
 ---
 
 # Which Strength Routine Supports Better Insulin Sensitivity? A Gentle Comparison for Adults 59–71 Starting Resistance Training

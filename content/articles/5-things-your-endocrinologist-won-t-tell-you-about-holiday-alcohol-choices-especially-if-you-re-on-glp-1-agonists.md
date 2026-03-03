@@ -1,14 +1,29 @@
 ---
-title: "5 Things Your Endocrinologist Won’t Tell You About Holiday Alcohol Choices — Especially If You’re on GLP-1 Agonists"
-slug: "5-things-your-endocrinologist-won-t-tell-you-about-holiday-alcohol-choices-especially-if-you-re-on-glp-1-agonists"
-description: "Uncovers under-discussed pharmacokinetic interactions between festive drinks and injectable diabetes medications, including delayed gastric emptying effects on ethanol absorption and hypoglycemia timing risks."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["alcohol and GLP-1 agonists holiday", "holiday diabetes management", "medication-alcohol-interactions"]
-primaryKeyword: "alcohol and GLP-1 agonists holiday"
-topicCluster: "medication-alcohol-interactions"
-image: ""
-relatedSlugs: ["7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68", "the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk", "when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65", "how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes", "why-your-grandchild-s-candy-stocking-may-trigger-reactive-hypoglycemia-especially-if-you-re-on-glp-1-ras-or-meglitinides"]
+title: >-
+  5 Things Your Endocrinologist Won’t Tell You About Holiday Alcohol Choices —
+  Especially If You’re on GLP-1 Agonists
+slug: >-
+  5-things-your-endocrinologist-won-t-tell-you-about-holiday-alcohol-choices-especially-if-you-re-on-glp-1-agonists
+description: >-
+  Uncovers under-discussed pharmacokinetic interactions between festive drinks
+  and injectable diabetes medications, including delayed gastric emptying
+  effects on ethanol absorption and hypoglycemia timing risks.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: alcohol and GLP-1 agonists holiday
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+  - >-
+    the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
+  - >-
+    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
+  - >-
+    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
+  - >-
+    why-your-grandchild-s-candy-stocking-may-trigger-reactive-hypoglycemia-especially-if-you-re-on-glp-1-ras-or-meglitinides
 ---
 
 # What You *Really* Need to Know About Alcohol and GLP-1 Agonists This Holiday Season

@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: ‘I Can Skip My Diuretic the Day After Thanksgiving’ — Why That Risks Acute Decompensated Heart Failure in Adults 67–81"
-slug: "myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81"
-description: "Debunks the dangerous assumption that one ‘off’ dose is harmless, citing real-world HF admissions data and explaining how high-sodium meals compound diuretic withdrawal effects."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["diuretic holiday heart failure seniors", "healthy holiday eating for seniors", "medication-adherence-myths"]
-primaryKeyword: "diuretic holiday heart failure seniors"
-topicCluster: "medication-adherence-myths"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history", "12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead", "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications", "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs", "warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68"]
+title: >-
+  Myths vs Facts: ‘I Can Skip My Diuretic the Day After Thanksgiving’ — Why That
+  Risks Acute Decompensated Heart Failure in Adults 67–81
+slug: >-
+  myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
+description: >-
+  Debunks the dangerous assumption that one ‘off’ dose is harmless, citing
+  real-world HF admissions data and explaining how high-sodium meals compound
+  diuretic withdrawal effects.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: diuretic holiday heart failure seniors
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
+  - >-
+    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
+  - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
+  - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
 ---
 
 # Diuretic Holiday Heart Failure in Seniors: Why Skipping Just One Dose After Thanksgiving Can Trigger Acute Decompensated Heart Failure

@@ -6,12 +6,8 @@ description: >-
   constipation and support blood sugar control in older adults.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - high-fiber holiday foods for seniors
-  - healthy holiday eating for seniors
-  - digestive-health
 primaryKeyword: high-fiber holiday foods for seniors
-topicCluster: social-environmental
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

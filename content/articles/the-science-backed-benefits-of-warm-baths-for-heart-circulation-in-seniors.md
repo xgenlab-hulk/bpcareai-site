@@ -6,12 +6,8 @@ description: >-
   and reduce blood pressure safely in older adults.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - warm baths heart circulation
-  - winter heart health for seniors
-  - science-research
 primaryKeyword: warm baths heart circulation
-topicCluster: evidence-research
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

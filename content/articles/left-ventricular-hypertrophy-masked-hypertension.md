@@ -1,14 +1,30 @@
 ---
-title: "What Causes 'Normal' Blood Pressure Readings to Mask Left Ventricular Hypertrophy in Adults 68+ With Long-Standing Hypertension and Preserved Ejection Fraction?"
-slug: "what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction"
-description: "Explores how standard office BP measurements can miss structural heart changes in older adults, focusing on echocardiographic red flags and ambulatory monitoring thresholds that precede symptom onset."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["left ventricular hypertrophy masked hypertension", "heart disease", "diagnostic-oversight"]
-primaryKeyword: "left ventricular hypertrophy masked hypertension"
-topicCluster: "diagnostic-oversight"
-image: ""
-relatedSlugs: ["7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg", "when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp", "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear", "why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh", "7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal"]
+title: >-
+  What Causes 'Normal' Blood Pressure Readings to Mask Left Ventricular
+  Hypertrophy in Adults 68+ With Long-Standing Hypertension and Preserved
+  Ejection Fraction?
+slug: >-
+  what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction
+description: >-
+  Explores how standard office BP measurements can miss structural heart changes
+  in older adults, focusing on echocardiographic red flags and ambulatory
+  monitoring thresholds that precede symptom onset.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: left ventricular hypertrophy masked hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
+  - >-
+    when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
+  - >-
+    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
+  - >-
+    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
 ---
 
 # When “Normal” Blood Pressure Readings Hide Heart Changes: Understanding Left Ventricular Hypertrophy Masked Hypertension in Older Adults

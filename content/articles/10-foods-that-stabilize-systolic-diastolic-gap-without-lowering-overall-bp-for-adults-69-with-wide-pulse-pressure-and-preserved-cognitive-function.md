@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That *Stabilize* Systolic-Diastolic Gap *Without* Lowering Overall BP — For Adults 69+ With Wide Pulse Pressure and Preserved Cognitive Function"
-slug: "10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function"
-description: "Focuses on arterial compliance support (e.g., collagen peptides, anthocyanin-rich berries, fermented soy) — avoiding hypotensive foods for seniors needing hemodynamic buffering."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["stabilize-pulse-pressure-without-lowering-bp", "blood pressure", "pulse-pressure-modulation-diet"]
-primaryKeyword: "stabilize-pulse-pressure-without-lowering-bp"
-topicCluster: "pulse-pressure-modulation-diet"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers", "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness", "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75", "10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity"]
+title: >-
+  10 Foods That *Stabilize* Systolic-Diastolic Gap *Without* Lowering Overall BP
+  — For Adults 69+ With Wide Pulse Pressure and Preserved Cognitive Function
+slug: >-
+  10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
+description: >-
+  Focuses on arterial compliance support (e.g., collagen peptides,
+  anthocyanin-rich berries, fermented soy) — avoiding hypotensive foods for
+  seniors needing hemodynamic buffering.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: stabilize-pulse-pressure-without-lowering-bp
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  - >-
+    10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
 ---
 
 # How to Stabilize Pulse Pressure Without Lowering BP — A Gentle, Science-Supported Guide for Adults 69+

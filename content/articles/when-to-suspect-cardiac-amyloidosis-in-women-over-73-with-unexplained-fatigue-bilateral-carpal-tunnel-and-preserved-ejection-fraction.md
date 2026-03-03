@@ -1,14 +1,28 @@
 ---
-title: "When to Suspect Cardiac Amyloidosis in Women Over 73 With Unexplained Fatigue, Bilateral Carpal Tunnel, and Preserved Ejection Fraction"
-slug: "when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction"
-description: "Guides recognition of underdiagnosed transthyretin amyloidosis using red-flag triad, red-flag ECG patterns (low voltage + pseudo-infarct), and cost-effective screening pathways—prioritizing gender-specific presentation."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["cardiac amyloidosis symptoms women 73+", "heart health", "gender-specific-cardiac-amyloidosis"]
-primaryKeyword: "cardiac amyloidosis symptoms women 73+"
-topicCluster: "gender-specific-cardiac-amyloidosis"
-image: ""
-relatedSlugs: ["red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "what-are-the-first-signs-of-holiday-heart-syndrome-in-women", "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60"]
+title: >-
+  When to Suspect Cardiac Amyloidosis in Women Over 73 With Unexplained Fatigue,
+  Bilateral Carpal Tunnel, and Preserved Ejection Fraction
+slug: >-
+  when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
+description: >-
+  Guides recognition of underdiagnosed transthyretin amyloidosis using red-flag
+  triad, red-flag ECG patterns (low voltage + pseudo-infarct), and
+  cost-effective screening pathways—prioritizing gender-specific presentation.
+date: '2026-01-06'
+updated: '2026-01-06'
+primaryKeyword: cardiac amyloidosis symptoms women 73+
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 ---
 
 # Recognizing Cardiac Amyloidosis Symptoms in Women 73+ — A Guide to Early Clues and Empowered Action

@@ -10,12 +10,8 @@ description: >-
   windows before clinical diabetes onset.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - gut microbiome prediabetes progression
-  - diabetes
-  - microbiome-biomarkers
 primaryKeyword: gut microbiome prediabetes progression
-topicCluster: microbiome-biomarkers
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

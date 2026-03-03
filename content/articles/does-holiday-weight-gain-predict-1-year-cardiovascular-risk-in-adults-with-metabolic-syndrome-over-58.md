@@ -1,14 +1,24 @@
 ---
-title: "Does Holiday Weight Gain Predict 1-Year Cardiovascular Risk in Adults With Metabolic Syndrome Over 58?"
-slug: "does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58"
-description: "Synthesizes longitudinal data linking seasonal weight fluctuations (≥2.5 kg) to accelerated carotid intima-media thickness progression—and when intervention changes long-term outcomes."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["holiday weight gain cardiovascular risk", "healthy holiday eating for seniors", "metabolic-risk-prognostication"]
-primaryKeyword: "holiday weight gain cardiovascular risk"
-topicCluster: "metabolic-risk-prognostication"
-image: ""
-relatedSlugs: ["why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease", "how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60", "when-to-worry-about-weight-gain-after-a-family-gathering", "the-truth-about-winter-weight-gain-and-heart-strain-after-60", "why-older-women-gain-weight-faster-during-the-holidays-after-menopause"]
+title: >-
+  Does Holiday Weight Gain Predict 1-Year Cardiovascular Risk in Adults With
+  Metabolic Syndrome Over 58?
+slug: >-
+  does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
+description: >-
+  Synthesizes longitudinal data linking seasonal weight fluctuations (≥2.5 kg)
+  to accelerated carotid intima-media thickness progression—and when
+  intervention changes long-term outcomes.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: holiday weight gain cardiovascular risk
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
+  - when-to-worry-about-weight-gain-after-a-family-gathering
+  - the-truth-about-winter-weight-gain-and-heart-strain-after-60
+  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 
 # Does Holiday Weight Gain Predict Long-Term Cardiovascular Risk in Adults With Metabolic Syndrome Over 58?

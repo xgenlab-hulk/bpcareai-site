@@ -1,14 +1,28 @@
 ---
-title: "When to Worry About Post-Meal Fatigue After Holiday Dinners — Especially If You’re 68+ With Type 2 Diabetes and Mild Cognitive Impairment"
-slug: "when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment"
-description: "Explains how postprandial hyperglycemia, cerebral glucose dysregulation, and neuroinflammation may manifest as mental fog or exhaustion — with actionable monitoring cues and intervention thresholds."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["post-meal fatigue diabetes elderly", "holiday diabetes management", "symptom-recognition-cognitive"]
-primaryKeyword: "post-meal fatigue diabetes elderly"
-topicCluster: "symptom-recognition-cognitive"
-image: ""
-relatedSlugs: ["myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68", "warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55"]
+title: >-
+  When to Worry About Post-Meal Fatigue After Holiday Dinners — Especially If
+  You’re 68+ With Type 2 Diabetes and Mild Cognitive Impairment
+slug: >-
+  when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
+description: >-
+  Explains how postprandial hyperglycemia, cerebral glucose dysregulation, and
+  neuroinflammation may manifest as mental fog or exhaustion — with actionable
+  monitoring cues and intervention thresholds.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: post-meal fatigue diabetes elderly
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+  - >-
+    warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
 ---
 
 # When Post-Meal Fatigue in Diabetes Elderly Adults Deserves Gentle Attention — Especially After Holiday Meals

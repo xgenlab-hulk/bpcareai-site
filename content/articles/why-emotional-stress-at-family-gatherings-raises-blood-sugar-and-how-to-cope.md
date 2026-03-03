@@ -6,12 +6,8 @@ description: >-
   hyperglycemia in older adults with diabetes.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - emotional stress blood sugar diabetes
-  - holiday diabetes management
-  - mental-health-physiology
 primaryKeyword: emotional stress blood sugar diabetes
-topicCluster: mental-wellness
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes

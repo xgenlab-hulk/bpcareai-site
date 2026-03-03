@@ -10,12 +10,8 @@ description: >-
   insulin-resistant adults with mixed dyslipidemia.
 date: '2026-01-07'
 updated: '2026-01-07'
-tags:
-  - seed oils and oxidized ldl in diabetes
-  - heart disease
-  - lipid-oxidation-nutrition
 primaryKeyword: seed oils and oxidized ldl in diabetes
-topicCluster: lipid-oxidation-nutrition
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,27 @@
 ---
-title: "12 Science-Backed Ways to Prevent Post-Holiday Delirium Episodes in Adults 78+ With Mild Dementia and Polypharmacy"
-slug: "12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy"
-description: "Addresses dehydration, glucose volatility, anticholinergic burden from holiday treats (e.g., eggnog with nutmeg), sleep fragmentation, and caregiver communication frameworks to preserve cognition."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["prevent delirium after holiday dementia seniors", "healthy holiday eating for seniors", "science-backed-cognitive-protection"]
-primaryKeyword: "prevent delirium after holiday dementia seniors"
-topicCluster: "science-backed-cognitive-protection"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68", "5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes", "5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning", "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties"]
+title: >-
+  12 Science-Backed Ways to Prevent Post-Holiday Delirium Episodes in Adults 78+
+  With Mild Dementia and Polypharmacy
+slug: >-
+  12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
+description: >-
+  Addresses dehydration, glucose volatility, anticholinergic burden from holiday
+  treats (e.g., eggnog with nutmeg), sleep fragmentation, and caregiver
+  communication frameworks to preserve cognition.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: prevent delirium after holiday dementia seniors
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
+  - >-
+    5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+  - >-
+    5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
 ---
 
 # Gentle, Science-Backed Ways to Prevent Delirium After Holiday in Seniors With Mild Dementia

@@ -1,14 +1,27 @@
 ---
-title: "How Portion Distortion at Thanksgiving Buffets Worsens Hypertension in Adults Over 65"
-slug: "how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65"
-description: "Explores the physiological and behavioral mechanisms linking oversized servings to acute blood pressure spikes—and how visual portion cues (like plate size and serving utensils) uniquely impact seniors’ cardiovascular stress."
-date: "2025-12-20"
-updated: "2025-12-20"
-tags: ["portion distortion hypertension seniors", "healthy eating during family gatherings", "cardiac-diet-behavioral"]
-primaryKeyword: "portion distortion hypertension seniors"
-topicCluster: "cardiac-diet-behavioral"
-image: ""
-relatedSlugs: ["how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60", "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure", "portion-control-strategies-for-large-family-meals-that-work", "can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65"]
+title: >-
+  How Portion Distortion at Thanksgiving Buffets Worsens Hypertension in Adults
+  Over 65
+slug: >-
+  how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
+description: >-
+  Explores the physiological and behavioral mechanisms linking oversized
+  servings to acute blood pressure spikes—and how visual portion cues (like
+  plate size and serving utensils) uniquely impact seniors’ cardiovascular
+  stress.
+date: '2025-12-20'
+updated: '2025-12-20'
+primaryKeyword: portion distortion hypertension seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
+  - portion-control-strategies-for-large-family-meals-that-work
+  - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
 ---
 
 # How Portion Distortion at Thanksgiving Buffets Fuels Hypertension in Seniors Over 65

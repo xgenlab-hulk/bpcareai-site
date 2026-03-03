@@ -10,12 +10,8 @@ description: >-
   older women with comorbidities.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - bloating after holiday meals seniors
-  - healthy holiday eating for seniors
-  - gastro-cardiac-symptom-differentiation
 primaryKeyword: bloating after holiday meals seniors
-topicCluster: cardiovascular-health
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-

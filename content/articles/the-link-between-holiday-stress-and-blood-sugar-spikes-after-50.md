@@ -6,12 +6,8 @@ description: >-
   resistance and glucose levels in middle-aged and older adults.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - stress and blood sugar holidays
-  - managing blood sugar during Christmas and New Year
-  - emotional-mental-health
 primaryKeyword: stress and blood sugar holidays
-topicCluster: mental-wellness
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope

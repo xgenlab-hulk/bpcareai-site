@@ -6,12 +6,8 @@ description: >-
   older adults eat intuitively during festive meals.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - mindful eating at gatherings
-  - healthy eating during family gatherings
-  - eating-behavior
 primaryKeyword: mindful eating at gatherings
-topicCluster: lifestyle-changes
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60

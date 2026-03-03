@@ -1,0 +1,290 @@
+{
+  "round": 2,
+  "batch_id": 4,
+  "total_clusters": 47,
+  "total_articles": 559,
+  "clusters": [
+    {
+      "cluster_name": "hypertension-management",
+      "description": "高血压的全面管理,包括检测、监测、治疗、饮食干预和生活方式调整",
+      "total_articles": 57,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "symptoms-diagnosis-detection",
+      "description": "症状识别、早期检测、鉴别诊断和诊断工具使用",
+      "total_articles": 57,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "mental-health-stress",
+      "description": "心理健康、压力管理、情绪健康与生理功能的关联",
+      "total_articles": 30,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "environmental-social-factors",
+      "description": "环境因素、季节影响和社会行为对健康的影响",
+      "total_articles": 30,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "special-populations",
+      "description": "特殊人群的健康管理,包括性别差异、年龄因素、看护者健康和旅行生理",
+      "total_articles": 21,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "gastrointestinal-metabolic-interface",
+      "description": "胃肠功能、微生物组、消化生理与代谢疾病的相互作用",
+      "total_articles": 21,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "lifestyle-behavioral-interventions",
+      "description": "生活方式和行为干预,包括运动、压力管理、心理健康和行为改变",
+      "total_articles": 18,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "sleep-circadian-health",
+      "description": "睡眠与代谢健康、昼夜节律调节、光照疗法和睡眠-血糖-血压相互作用",
+      "total_articles": 18,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "nutrition-meal-planning",
+      "description": "饮食营养策略、食物选择、餐食计划、食谱修改和健康烹饪方法",
+      "total_articles": 16,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "environmental-health-factors",
+      "description": "环境因素对代谢和心血管健康的影响",
+      "total_articles": 15,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "blood-pressure-monitoring",
+      "description": "血压监测方法、设备准确性、家庭监测技术和24小时动态血压监测",
+      "total_articles": 15,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "specialized-dietary-therapy",
+      "description": "特殊疾病状态下的饮食治疗,包括肾病饮食、心脏病饮食、神经病变饮食和代谢综合征营养支持",
+      "total_articles": 15,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "diabetes-glucose-comprehensive",
+      "description": "糖尿病和血糖管理的全面内容，包括风险因素、早期检测、昼夜节律影响、饮食控制和胰岛素管理",
+      "total_articles": 14,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "diabetes-complications-detection",
+      "description": "糖尿病并发症的早期检测、监测和诊断，包括神经病变、视网膜病变、肾病等",
+      "total_articles": 13,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "comprehensive-dietary-strategies",
+      "description": "综合性饮食策略和营养干预，涵盖多种健康状况的饮食选择、时间营养学和行为营养学",
+      "total_articles": 13,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "geriatric-special-populations",
+      "description": "老年人和特殊人群的专项护理，包括老年安全、营养、社交节律干预和旅行物流",
+      "total_articles": 13,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "metabolic-lipid-energy",
+      "description": "代谢功能、血脂管理和能量代谢",
+      "total_articles": 11,
+      "source_batch": 1
+    },
+    {
+      "cluster_name": "digestive-health-nutrition",
+      "description": "消化系统健康的营养支持和饮食管理",
+      "total_articles": 11,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "exercise-physical-activity",
+      "description": "运动对血糖和血压的影响、运动时机、运动类型选择和安全运动策略",
+      "total_articles": 11,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "cardiovascular-physiology-mechanisms",
+      "description": "心血管系统的生理机制，包括电生理、自主神经功能、神经心脏整合和细胞保护",
+      "total_articles": 11,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "exercise-physical-activity",
+      "description": "运动生理学和身体活动干预,包括不同运动类型的对比和特殊人群的运动安全",
+      "total_articles": 10,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "medication-supplement-safety",
+      "description": "药物和补充剂的安全性管理，包括药物警戒、药物相互作用、补充剂安全性和症状警报",
+      "total_articles": 10,
+      "source_batch": 9
+    },
+    {
+      "cluster_name": "neurocardiac-cognitive-health",
+      "description": "神经心脏联系和认知健康保护,包括神经心脏症状、认知功能和神经保护",
+      "total_articles": 9,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "environmental-lifestyle-factors",
+      "description": "环境和生活方式因素对心血管代谢健康的影响",
+      "total_articles": 9,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "renal-metabolic-nutrition",
+      "description": "肾脏健康、肾脏营养、水合策略和肾脏安全",
+      "total_articles": 8,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "diabetes-nutrition-strategies",
+      "description": "糖尿病饮食策略、血糖控制营养和非药物稳定",
+      "total_articles": 8,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "glucose-monitoring-management",
+      "description": "血糖监测技术、CGM使用、血糖稳定策略和实时血糖管理",
+      "total_articles": 8,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "gastrointestinal-microbiome",
+      "description": "肠道健康、微生物组、消化功能和肠-脑-心血管轴",
+      "total_articles": 8,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "environmental-lifestyle-factors",
+      "description": "环境因素和生活方式对心血管和代谢健康的影响，包括毒素、温度、旅行等",
+      "total_articles": 7,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "diagnostic-monitoring-technologies",
+      "description": "诊断技术、监测设备和新兴医疗技术，包括影像学、AI诊断和家庭监测",
+      "total_articles": 7,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "gender-specific-health",
+      "description": "性别特异性健康问题、激素影响和性别差异",
+      "total_articles": 6,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "endocrine-metabolic-interactions",
+      "description": "内分泌系统与代谢的相互作用、激素调节",
+      "total_articles": 6,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "sleep-circadian-metabolism",
+      "description": "睡眠、昼夜节律与代谢健康的关系",
+      "total_articles": 5,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "emergency-acute-symptoms",
+      "description": "急症识别、紧急症状和急性病症管理",
+      "total_articles": 5,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "gender-hormonal-cardiovascular",
+      "description": "性别特异性和激素相关的心血管健康,包括女性心脏病、更年期和激素影响",
+      "total_articles": 5,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "environmental-seasonal-factors",
+      "description": "环境因素和季节性影响对心血管代谢健康的作用",
+      "total_articles": 5,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "diagnostic-testing-interpretation",
+      "description": "诊断检测、生物标志物解读和检查准确性",
+      "total_articles": 4,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "lifestyle-nonpharmacologic-interventions",
+      "description": "非药物干预、生活方式改变和行为干预",
+      "total_articles": 4,
+      "source_batch": 2
+    },
+    {
+      "cluster_name": "myths-facts-evidence-review",
+      "description": "医学误区澄清和循证医学证据回顾",
+      "total_articles": 4,
+      "source_batch": 5
+    },
+    {
+      "cluster_name": "complications-comorbidities",
+      "description": "并发症和合并症的预防、识别和管理，包括器官损伤和多系统并发症",
+      "total_articles": 4,
+      "source_batch": 6
+    },
+    {
+      "cluster_name": "cardiac-arrhythmia-management",
+      "description": "心律失常的触发因素、管理和康复指导",
+      "total_articles": 3,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "dental-oral-systemic-health",
+      "description": "口腔健康与全身代谢的关联",
+      "total_articles": 3,
+      "source_batch": 3
+    },
+    {
+      "cluster_name": "neurological-cognitive-health",
+      "description": "神经认知健康,包括早期检测、认知衰退预防和痴呆管理",
+      "total_articles": 3,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "oral-dental-health",
+      "description": "口腔健康与全身疾病的关联",
+      "total_articles": 3,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "micronutrients-supplements",
+      "description": "微量营养素和补充剂的安全性与毒性",
+      "total_articles": 2,
+      "source_batch": 7
+    },
+    {
+      "cluster_name": "natural-remedies-supplements",
+      "description": "天然疗法、补充剂、草药治疗和非药物干预的安全性和有效性",
+      "total_articles": 2,
+      "source_batch": 8
+    },
+    {
+      "cluster_name": "sleep-disorders",
+      "description": "睡眠障碍对代谢和心血管健康的影响",
+      "total_articles": 1,
+      "source_batch": 7
+    }
+  ]
+}

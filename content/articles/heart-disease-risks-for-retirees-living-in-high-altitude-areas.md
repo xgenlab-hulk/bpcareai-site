@@ -6,12 +6,8 @@ description: >-
   system in older adults.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - heart disease risk at high altitude for seniors
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: heart disease risk at high altitude for seniors
-topicCluster: cardiovascular-health
+topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults

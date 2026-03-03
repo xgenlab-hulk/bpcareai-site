@@ -6,12 +6,8 @@ description: >-
   and routine shifts affecting glucose.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - why blood sugar higher in december
-  - holiday diabetes management
-  - seasonal-pattern-analysis
 primaryKeyword: why blood sugar higher in december
-topicCluster: seasonal-health
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do

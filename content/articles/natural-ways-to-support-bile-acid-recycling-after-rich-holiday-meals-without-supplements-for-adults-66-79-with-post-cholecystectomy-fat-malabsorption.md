@@ -1,14 +1,29 @@
 ---
-title: "Natural Ways to Support Bile Acid Recycling After Rich Holiday Meals — Without Supplements — for Adults 66–79 With Post-Cholecystectomy Fat Malabsorption"
-slug: "natural-ways-to-support-bile-acid-recycling-after-rich-holiday-meals-without-supplements-for-adults-66-79-with-post-cholecystectomy-fat-malabsorption"
-description: "Explains how fiber timing, bitter greens, and post-meal walking enhance enterohepatic circulation — with meal-planning templates using turkey giblet broth and roasted fennel."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["bile acid recycling after gallbladder removal", "healthy holiday eating for seniors", "natural-remedies-digestive-recovery"]
-primaryKeyword: "bile acid recycling after gallbladder removal"
-topicCluster: "natural-remedies-digestive-recovery"
-image: ""
-relatedSlugs: ["natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78", "natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals", "natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria", "natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements", "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle"]
+title: >-
+  Natural Ways to Support Bile Acid Recycling After Rich Holiday Meals — Without
+  Supplements — for Adults 66–79 With Post-Cholecystectomy Fat Malabsorption
+slug: >-
+  natural-ways-to-support-bile-acid-recycling-after-rich-holiday-meals-without-supplements-for-adults-66-79-with-post-cholecystectomy-fat-malabsorption
+description: >-
+  Explains how fiber timing, bitter greens, and post-meal walking enhance
+  enterohepatic circulation — with meal-planning templates using turkey giblet
+  broth and roasted fennel.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: bile acid recycling after gallbladder removal
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
+  - >-
+    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
+  - >-
+    natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
+  - >-
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # Supporting Bile Acid Recycling After Gallbladder Removal — Naturally and Gently for Adults 66–79

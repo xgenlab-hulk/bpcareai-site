@@ -1,14 +1,30 @@
 ---
-title: "The Truth About 'Gluten-Free' Stuffing Mixes Marketed to Seniors — Why 62% Contain Hidden Maltodextrin-Induced Glycemic Surges in Adults 67+ With Insulin Resistance"
-slug: "the-truth-about-gluten-free-stuffing-mixes-marketed-to-seniors-why-62-contain-hidden-maltodextrin-induced-glycemic-surges-in-adults-67-with-insulin-resistance"
-description: "Investigates labeling loopholes, hidden glycemic load drivers, and lab-tested alternatives—including a 3-ingredient homemade version that maintains texture and supports postprandial stability."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["gluten free stuffing glycemic impact", "healthy eating during family gatherings", "diabetic-diet-labeling"]
-primaryKeyword: "gluten free stuffing glycemic impact"
-topicCluster: "diabetic-diet-labeling"
-image: ""
-relatedSlugs: ["the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick", "the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60", "the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose", "best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c", "why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead"]
+title: >-
+  The Truth About 'Gluten-Free' Stuffing Mixes Marketed to Seniors — Why 62%
+  Contain Hidden Maltodextrin-Induced Glycemic Surges in Adults 67+ With Insulin
+  Resistance
+slug: >-
+  the-truth-about-gluten-free-stuffing-mixes-marketed-to-seniors-why-62-contain-hidden-maltodextrin-induced-glycemic-surges-in-adults-67-with-insulin-resistance
+description: >-
+  Investigates labeling loopholes, hidden glycemic load drivers, and lab-tested
+  alternatives—including a 3-ingredient homemade version that maintains texture
+  and supports postprandial stability.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: gluten free stuffing glycemic impact
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick
+  - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
+  - >-
+    the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose
+  - >-
+    best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
+  - >-
+    why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead
 ---
 
 # Understanding the Gluten Free Stuffing Glycemic Impact for Older Adults

@@ -1,14 +1,29 @@
 ---
-title: "5 Science-Backed Ways to Preserve Muscle Mass *While* Eating Holiday Meals — Leucine Timing, Post-Meal Walking Cadence, and Protein Distribution for Adults 74+ With Sarcopenia Risk"
-slug: "5-science-backed-ways-to-preserve-muscle-mass-while-eating-holiday-meals-leucine-timing-post-meal-walking-cadence-and-protein-distribution-for-adults-74-with-sarcopenia-risk"
-description: "Focuses on muscle protein synthesis optimization during feasting — not restriction — using age-specific leucine thresholds, ambulatory pacing, and real-time satiety cues."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["preserve muscle mass holiday meals", "healthy eating during family gatherings", "sarcopenia-nutrition"]
-primaryKeyword: "preserve muscle mass holiday meals"
-topicCluster: "sarcopenia-nutrition"
-image: ""
-relatedSlugs: ["5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily", "myths-vs-facts-eating-more-protein-at-holiday-meals-prevents-muscle-loss-in-adults-70-with-anabolic-resistance-and-low-physical-activity", "warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines", "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60", "12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years"]
+title: >-
+  5 Science-Backed Ways to Preserve Muscle Mass *While* Eating Holiday Meals —
+  Leucine Timing, Post-Meal Walking Cadence, and Protein Distribution for Adults
+  74+ With Sarcopenia Risk
+slug: >-
+  5-science-backed-ways-to-preserve-muscle-mass-while-eating-holiday-meals-leucine-timing-post-meal-walking-cadence-and-protein-distribution-for-adults-74-with-sarcopenia-risk
+description: >-
+  Focuses on muscle protein synthesis optimization during feasting — not
+  restriction — using age-specific leucine thresholds, ambulatory pacing, and
+  real-time satiety cues.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: preserve muscle mass holiday meals
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
+  - >-
+    myths-vs-facts-eating-more-protein-at-holiday-meals-prevents-muscle-loss-in-adults-70-with-anabolic-resistance-and-low-physical-activity
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # 5 Science-Backed Ways to Preserve Muscle Mass During Holiday Meals — Gentle Strategies for Adults 74+ at Sarcopenia Risk

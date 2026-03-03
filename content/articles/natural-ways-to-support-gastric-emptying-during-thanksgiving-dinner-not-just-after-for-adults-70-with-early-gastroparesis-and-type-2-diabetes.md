@@ -1,14 +1,29 @@
 ---
-title: "Natural Ways to Support Gastric Emptying *During* Thanksgiving Dinner — Not Just After — for Adults 70+ With Early Gastroparesis and Type 2 Diabetes"
-slug: "natural-ways-to-support-gastric-emptying-during-thanksgiving-dinner-not-just-after-for-adults-70-with-early-gastroparesis-and-type-2-diabetes"
-description: "Presents pre-plate, in-meal, and post-bite strategies — including timed ginger-chamomile infusion sips, strategic protein-first sequencing, and seated diaphragmatic breathing cues — validated in geriatric gastroparesis trials."
-date: "2026-02-10"
-updated: "2026-02-10"
-tags: ["support gastric emptying during meal", "healthy eating during family gatherings", "gastroparesis-diet-timing-strategies"]
-primaryKeyword: "support gastric emptying during meal"
-topicCluster: "gastroparesis-diet-timing-strategies"
-image: ""
-relatedSlugs: ["natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms", "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying", "12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms", "simple-steps-to-reduce-holiday-meal-induced-gastric-reflux-in-women-63-with-hiatal-hernia-without-ppis-or-antacids"]
+title: >-
+  Natural Ways to Support Gastric Emptying *During* Thanksgiving Dinner — Not
+  Just After — for Adults 70+ With Early Gastroparesis and Type 2 Diabetes
+slug: >-
+  natural-ways-to-support-gastric-emptying-during-thanksgiving-dinner-not-just-after-for-adults-70-with-early-gastroparesis-and-type-2-diabetes
+description: >-
+  Presents pre-plate, in-meal, and post-bite strategies — including timed
+  ginger-chamomile infusion sips, strategic protein-first sequencing, and seated
+  diaphragmatic breathing cues — validated in geriatric gastroparesis trials.
+date: '2026-02-10'
+updated: '2026-02-10'
+primaryKeyword: support gastric emptying during meal
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying
+  - >-
+    12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms
+  - >-
+    simple-steps-to-reduce-holiday-meal-induced-gastric-reflux-in-women-63-with-hiatal-hernia-without-ppis-or-antacids
 ---
 
 # Gentle, Realistic Ways to Support Gastric Emptying During Meal — Especially at Thanksgiving Dinner for Adults 70+ with Early Gastroparesis and Type 2 Diabetes

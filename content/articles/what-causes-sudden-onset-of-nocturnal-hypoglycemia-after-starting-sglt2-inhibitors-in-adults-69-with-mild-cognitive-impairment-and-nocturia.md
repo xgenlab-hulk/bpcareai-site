@@ -1,14 +1,29 @@
 ---
-title: "What Causes Sudden Onset of Nocturnal Hypoglycemia After Starting SGLT2 Inhibitors in Adults 69+ With Mild Cognitive Impairment and Nocturia?"
-slug: "what-causes-sudden-onset-of-nocturnal-hypoglycemia-after-starting-sglt2-inhibitors-in-adults-69-with-mild-cognitive-impairment-and-nocturia"
-description: "Investigates the intersection of renal glucose handling, sleep architecture disruption, and impaired hypoglycemia awareness — with overnight glucose prediction strategies."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["SGLT2 inhibitors nocturnal hypoglycemia seniors", "diabetes", "medications-side-effects"]
-primaryKeyword: "SGLT2 inhibitors nocturnal hypoglycemia seniors"
-topicCluster: "medications-side-effects"
-image: ""
-relatedSlugs: ["when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use", "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes", "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation", "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone", "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68"]
+title: >-
+  What Causes Sudden Onset of Nocturnal Hypoglycemia After Starting SGLT2
+  Inhibitors in Adults 69+ With Mild Cognitive Impairment and Nocturia?
+slug: >-
+  what-causes-sudden-onset-of-nocturnal-hypoglycemia-after-starting-sglt2-inhibitors-in-adults-69-with-mild-cognitive-impairment-and-nocturia
+description: >-
+  Investigates the intersection of renal glucose handling, sleep architecture
+  disruption, and impaired hypoglycemia awareness — with overnight glucose
+  prediction strategies.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: SGLT2 inhibitors nocturnal hypoglycemia seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+  - >-
+    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
+  - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
+  - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
 ---
 
 # Understanding SGLT2 Inhibitors Nocturnal Hypoglycemia in Seniors With Mild Cognitive Impairment

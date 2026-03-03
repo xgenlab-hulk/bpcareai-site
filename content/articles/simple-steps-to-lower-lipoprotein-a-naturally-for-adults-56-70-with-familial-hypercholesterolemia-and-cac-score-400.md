@@ -1,14 +1,29 @@
 ---
-title: "Simple Steps to Lower Lipoprotein(a) Naturally — For Adults 56–70 With Familial Hypercholesterolemia and CAC Score >400"
-slug: "simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400"
-description: "Focuses on clinically validated levers: niacin dosing windows, LDL apheresis eligibility, PCSK9-inhibitor alternatives, and novel nutraceuticals (berberine + red yeast rice combos)."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["lower lipoprotein a naturally familial hypercholesterolemia", "heart disease", "lipoprotein-a-modulation"]
-primaryKeyword: "lower lipoprotein a naturally familial hypercholesterolemia"
-topicCluster: "lipoprotein-a-modulation"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance", "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio", "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a", "can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50", "top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60"]
+title: >-
+  Simple Steps to Lower Lipoprotein(a) Naturally — For Adults 56–70 With
+  Familial Hypercholesterolemia and CAC Score >400
+slug: >-
+  simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400
+description: >-
+  Focuses on clinically validated levers: niacin dosing windows, LDL apheresis
+  eligibility, PCSK9-inhibitor alternatives, and novel nutraceuticals (berberine
+  + red yeast rice combos).
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: lower lipoprotein a naturally familial hypercholesterolemia
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
+  - >-
+    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
+  - >-
+    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
+  - >-
+    top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
 ---
 
 # Natural Ways to Lower Lipoprotein(a) in Adults With Familial Hypercholesterolemia — Especially After Age 56

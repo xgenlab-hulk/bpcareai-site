@@ -1,14 +1,30 @@
 ---
-title: "How Long-Distance Air Travel Alters Endothelial Glycocalyx Thickness and Microvascular Permeability in Adults 61–77 With Stage 2 Hypertension and Prior DVT"
-slug: "how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt"
-description: "Examines cabin hypoxia, dehydration, and prolonged sitting effects on syndecan-1 shedding, capillary leakage, and post-flight NT-proBNP spikes — with pre-flight hydration and compression protocols."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["air travel endothelial glycocalyx hypertension", "heart disease", "travel-hemodynamics-endothelium"]
-primaryKeyword: "air travel endothelial glycocalyx hypertension"
-topicCluster: "travel-hemodynamics-endothelium"
-image: ""
-relatedSlugs: ["how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension", "12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd", "best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air", "5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes", "5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes"]
+title: >-
+  How Long-Distance Air Travel Alters Endothelial Glycocalyx Thickness and
+  Microvascular Permeability in Adults 61–77 With Stage 2 Hypertension and Prior
+  DVT
+slug: >-
+  how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt
+description: >-
+  Examines cabin hypoxia, dehydration, and prolonged sitting effects on
+  syndecan-1 shedding, capillary leakage, and post-flight NT-proBNP spikes —
+  with pre-flight hydration and compression protocols.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: air travel endothelial glycocalyx hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
+  - >-
+    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
+  - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+  - >-
+    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
+  - >-
+    5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes
 ---
 
 # How Air Travel Affects Your Endothelial Glycocalyx—Especially With Hypertension and Past DVT

@@ -1,14 +1,28 @@
 ---
-title: "How Intermittent Use of Over-the-Counter NSAIDs for Back Pain Disrupts Renal Prostaglandin Balance — And Why That Raises Risk of Acute Kidney Injury in Adults 62+ With Stage 2 Diabetic Nephropathy"
-slug: "how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy"
-description: "Explains the pathophysiology behind NSAID-related AKI in early kidney disease, with safer analgesic sequencing and urine biomarker monitoring protocols."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["NSAIDs and kidney injury diabetes", "diabetes", "medications-renal-safety"]
-primaryKeyword: "NSAIDs and kidney injury diabetes"
-topicCluster: "medications-renal-safety"
-image: ""
-relatedSlugs: ["how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria", "how-kidney-function-declines-faster-in-older-adults-with-diabetes", "the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy", "what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45"]
+title: >-
+  How Intermittent Use of Over-the-Counter NSAIDs for Back Pain Disrupts Renal
+  Prostaglandin Balance — And Why That Raises Risk of Acute Kidney Injury in
+  Adults 62+ With Stage 2 Diabetic Nephropathy
+slug: >-
+  how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy
+description: >-
+  Explains the pathophysiology behind NSAID-related AKI in early kidney disease,
+  with safer analgesic sequencing and urine biomarker monitoring protocols.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: NSAIDs and kidney injury diabetes
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
+  - how-kidney-function-declines-faster-in-older-adults-with-diabetes
+  - >-
+    the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
+  - >-
+    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
 ---
 
 # How NSAIDs and Kidney Injury in Diabetes Affects Older Adults — And What You Can Safely Do

@@ -1,14 +1,27 @@
 ---
-title: "12 Quick Swaps to Make Any Holiday Casserole Heart-Healthy — Tested by Cardiac Rehab Dietitians for Adults 64+ With Stage 2 Hypertension"
-slug: "12-quick-swaps-to-make-any-holiday-casserole-heart-healthy-tested-by-cardiac-rehab-dietitians-for-adults-64-with-stage-2-hypertension"
-description: "Actionable, no-recipe-needed ingredient swaps (e.g., swapping half the cheese for nutritional yeast + white miso, using roasted garlic paste instead of butter) with real-world BP impact data from 28-day pilot trials."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["heart healthy holiday casserole swaps", "healthy eating during family gatherings", "hypertension-diet-intervention"]
-primaryKeyword: "heart healthy holiday casserole swaps"
-topicCluster: "hypertension-diet-intervention"
-image: ""
-relatedSlugs: ["5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor", "10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50", "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "7-smart-swaps-for-healthier-holiday-meals-after-65", "best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60"]
+title: >-
+  12 Quick Swaps to Make Any Holiday Casserole Heart-Healthy — Tested by Cardiac
+  Rehab Dietitians for Adults 64+ With Stage 2 Hypertension
+slug: >-
+  12-quick-swaps-to-make-any-holiday-casserole-heart-healthy-tested-by-cardiac-rehab-dietitians-for-adults-64-with-stage-2-hypertension
+description: >-
+  Actionable, no-recipe-needed ingredient swaps (e.g., swapping half the cheese
+  for nutritional yeast + white miso, using roasted garlic paste instead of
+  butter) with real-world BP impact data from 28-day pilot trials.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: heart healthy holiday casserole swaps
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
+  - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
 ---
 
 # 12 Heart-Healthy Holiday Casserole Swaps You Can Make Today — Backed by Cardiac Rehab Dietitians

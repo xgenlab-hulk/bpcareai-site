@@ -1,0 +1,381 @@
+{
+  "batch_id": 8,
+  "total_original_clusters": 200,
+  "total_articles": 200,
+  "clustered_results": [
+    {
+      "new_cluster_name": "blood-pressure-monitoring",
+      "description": "血压监测方法、设备准确性、家庭监测技术和24小时动态血压监测",
+      "rationale": "整合所有血压测量相关的clusters,包括设备选择、准确性验证、昼夜节律监测和数字化监测工具,形成完整的血压监测体系",
+      "original_clusters": [
+        "bp-monitoring-methods",
+        "bp-device-accuracy",
+        "device-accuracy-troubleshooting",
+        "device-safety",
+        "digital-monitoring-validation",
+        "monitoring-strategy-timing",
+        "monitoring-strategy-shift",
+        "monitoring-testing-circadian-bp",
+        "monitoring-bias",
+        "monitoring-testing-electrophysiology",
+        "monitoring-circadian-patterns",
+        "abpm-clinical-translation",
+        "measurement-reliability",
+        "vascular-stiffness-monitoring",
+        "assessment-accuracy-geriatric-women"
+      ],
+      "total_articles": 15
+    },
+    {
+      "new_cluster_name": "nutrition-meal-planning",
+      "description": "饮食营养策略、食物选择、餐食计划、食谱修改和健康烹饪方法",
+      "rationale": "合并所有与日常饮食规划、食物比较、营养标签阅读、食谱调整和烹饪技巧相关的内容,帮助患者做出更好的饮食选择",
+      "original_clusters": [
+        "diet-nutrition-recipe-modification",
+        "diet-nutrition-buffet-strategy",
+        "diet-nutrition-label-reading",
+        "diet-nutrition-activity-based-comparison",
+        "diet-nutrition-sodium-awareness",
+        "diet-transition-guidance",
+        "nutrition-labeling",
+        "micronutrient-retention-cooking",
+        "fiber-integration-cooking",
+        "food-comparison-renal-metabolic",
+        "dual-metabolic-targeting-foods",
+        "beverage-comparison",
+        "recipe-label-audit",
+        "processed-food-mislabeling",
+        "caregiver-friendly-diet-swaps",
+        "vision-accessible-diet"
+      ],
+      "total_articles": 16
+    },
+    {
+      "new_cluster_name": "specialized-dietary-therapy",
+      "description": "特殊疾病状态下的饮食治疗,包括肾病饮食、心脏病饮食、神经病变饮食和代谢综合征营养支持",
+      "rationale": "整合需要特殊饮食管理的复杂病情,如CKD、心血管疾病、神经退行性疾病的营养干预策略",
+      "original_clusters": [
+        "cardiac-diet-sodium-safety",
+        "cardiac-diet-ckd-specific",
+        "renal-diet-blood-pressure",
+        "renal-diet-safety",
+        "renal-diet-oxalate-safety",
+        "nutrient-metabolism-ckd",
+        "nutrient-supplementation-ckd",
+        "complications-neuropathy-diet",
+        "neurocognitive-diet-support",
+        "neurodegenerative-diet-adaptation",
+        "neuro-metabolic-diet",
+        "gastro-glycemic-diet",
+        "gastro-diet-diabetes",
+        "gastrointestinal-diet-safety",
+        "oncology-nutrition-fasting"
+      ],
+      "total_articles": 15
+    },
+    {
+      "new_cluster_name": "exercise-physical-activity",
+      "description": "运动对血糖和血压的影响、运动时机、运动类型选择和安全运动策略",
+      "rationale": "合并所有运动相关内容,包括餐后运动、运动时间优化、性别差异、神经病变患者安全运动和心脏重塑",
+      "original_clusters": [
+        "exercise-glucose-bp-synergy",
+        "exercise-glucose-response",
+        "exercise-timing-glucose",
+        "exercise-timing-gender-specific",
+        "exercise-postprandial-optimization",
+        "exercise-cardiac-remodeling",
+        "neuropathy-safe-strength-training",
+        "rhythmic-movement-glucose",
+        "non-exercise-sensitivity",
+        "mitochondrial-support-sedentary",
+        "mechanobiology-interventions"
+      ],
+      "total_articles": 11
+    },
+    {
+      "new_cluster_name": "glucose-monitoring-management",
+      "description": "血糖监测技术、CGM使用、血糖稳定策略和实时血糖管理",
+      "rationale": "整合连续血糖监测、血糖波动管理、监测干扰因素和认知障碍患者的CGM使用",
+      "original_clusters": [
+        "real-time-glucose-buffering",
+        "acute-glucose-stabilization",
+        "glucose-monitoring-interference",
+        "myths-vs-facts-cgm-evidence",
+        "cognitive-impairment-cgm",
+        "device-compatibility-lifestyle",
+        "renal-glycemic-misinterpretation",
+        "testing-decision-making"
+      ],
+      "total_articles": 8
+    },
+    {
+      "new_cluster_name": "sleep-circadian-health",
+      "description": "睡眠与代谢健康、昼夜节律调节、光照疗法和睡眠-血糖-血压相互作用",
+      "rationale": "合并睡眠质量、昼夜节律、光照干预、睡眠呼吸暂停和睡眠时间对代谢的影响",
+      "original_clusters": [
+        "sleep-glucose-interaction",
+        "sleep-glucose-dawn-phenomenon",
+        "circadian-behavior-modification",
+        "circadian-nutrition-blood-pressure",
+        "circadian-intervention-glucose",
+        "circadian-rhythms-endothelial-health",
+        "chronobiological-light-therapy",
+        "chronotype-specific-light-timing",
+        "light-environment-sleep",
+        "light-therapy-safety-amd",
+        "light-intervention-comparison",
+        "non-photic-interventions-vision-impaired",
+        "screen-light-dawn-phenomenon",
+        "nocturnal-glucose-dysregulation",
+        "nighttime-hypertension-symptoms",
+        "cpap-insulin-interaction",
+        "early-warning-signs-sleep-apnea-cardiac",
+        "seasonal-chronotherapy"
+      ],
+      "total_articles": 18
+    },
+    {
+      "new_cluster_name": "medication-safety-management",
+      "description": "药物安全、药物相互作用、用药时机、多重用药管理和药物减量",
+      "rationale": "整合药物治疗的所有安全性考虑,包括药物-食物相互作用、时间依赖性效应、老年人多药管理和药物减停",
+      "original_clusters": [
+        "medication-interaction",
+        "medication-timing-risk",
+        "medication-safety-intergenerational",
+        "medication-safety-ckd",
+        "medication-hypotension-risks",
+        "medication-transition-frailty",
+        "medication-deprescribing",
+        "pharmacologic-risks",
+        "pharmacotherapy-risks",
+        "pharmacologic-side-effects",
+        "pharmacodynamic-food-interaction",
+        "pharmacokinetic-safety",
+        "electrolyte-medication-safety",
+        "electrolyte-safety-polypharmacy",
+        "aspirin-risk-benefit-decision"
+      ],
+      "total_articles": 15
+    },
+    {
+      "new_cluster_name": "cardiovascular-function-health",
+      "description": "心血管功能、血管健康、内皮功能、心律异常和心脏结构改变",
+      "rationale": "合并心血管系统的生理功能、血管内皮健康、微血管功能、心律失常和心脏重塑相关内容",
+      "original_clusters": [
+        "endothelial-diet-therapeutics",
+        "cardiovascular-physiology-research",
+        "metabolic-cardiac-energetics",
+        "microvascular-dysfunction-natural",
+        "microvascular-angina-natural-interventions",
+        "ultra-processed-foods-endothelium",
+        "nitrate-therapy-comparison",
+        "pre-structural-cardiac-signs",
+        "structural-remodeling-signs",
+        "emotional-mental-health-cardiac-rhythm",
+        "nocturia-arrhythmia-link",
+        "post-covid-cardiac-rehab",
+        "fasting-cardiac-function",
+        "fasting-cardiac-autonomic-effects",
+        "behavioral-cardiology"
+      ],
+      "total_articles": 15
+    },
+    {
+      "new_cluster_name": "neurological-complications",
+      "description": "神经系统并发症,包括神经病变、自主神经功能障碍、认知功能和神经血管调节",
+      "rationale": "整合所有神经系统相关并发症,从周围神经病变到认知功能下降,包括自主神经调节和神经血管耦合",
+      "original_clusters": [
+        "neurocognitive-risk",
+        "neuropathy-environmental-risks",
+        "autonomic-misconceptions",
+        "autonomic-neuropathy-snacking",
+        "neurological-bp-symptoms",
+        "neurological-sleep-diet",
+        "neuromuscular-red-flags",
+        "neurotransmitter-nutrition",
+        "neurotransmitter-modulation-natural",
+        "neurovascular-modulation",
+        "natural-remedies-autonomic-modulation",
+        "swallowing-safety-neurology"
+      ],
+      "total_articles": 12
+    },
+    {
+      "new_cluster_name": "renal-kidney-health",
+      "description": "肾脏健康、慢性肾病管理、肾功能保护和肾病相关代谢异常",
+      "rationale": "合并CKD相关的所有内容,包括肾病饮食、药物安全、电解质管理和禁食安全性",
+      "original_clusters": [
+        "fasting-renal-safety",
+        "urological-diet-interactions",
+        "gastrointestinal-fiber-calcium"
+      ],
+      "total_articles": 3
+    },
+    {
+      "new_cluster_name": "metabolic-syndrome-prevention",
+      "description": "代谢综合征预防、多重代谢风险管理、胰岛素敏感性和β细胞功能",
+      "rationale": "整合代谢综合征的各个方面,包括胰岛素抵抗、β细胞恢复、代谢灵活性和综合干预策略",
+      "original_clusters": [
+        "metabolic-syndrome-prevention",
+        "non-pharmacologic-sensitivity-boost",
+        "beta-cell-recovery",
+        "insulin-dosing-complex-meals",
+        "fasting-and-automated-delivery",
+        "dietary-substitution-metabolic-risk",
+        "metabolic-timing-alcohol-impact",
+        "gender-specific-metabolic-response",
+        "supplements-sweeteners-metabolism",
+        "artificial-sweetener-physiology",
+        "micronutrient-bioavailability",
+        "gout-risk-prevention"
+      ],
+      "total_articles": 12
+    },
+    {
+      "new_cluster_name": "stress-psychosocial-factors",
+      "description": "压力、心理社会因素、情绪健康对代谢和心血管健康的影响",
+      "rationale": "合并压力、焦虑、社会因素、创伤和心理-代谢-心血管连接",
+      "original_clusters": [
+        "psychosocial-glucose-dynamics",
+        "stress-glucose-interaction",
+        "lifestyle-stress-metabolic-link",
+        "cognitive-lifestyle-eating-behavior",
+        "cognitive-social-nutrition",
+        "social-neuroendocrine-hypertension",
+        "trauma-informed-prevention",
+        "non-dietary-stressors",
+        "behavioral-red-flags-preclinical"
+      ],
+      "total_articles": 9
+    },
+    {
+      "new_cluster_name": "gastrointestinal-microbiome",
+      "description": "肠道健康、微生物组、消化功能和肠-脑-心血管轴",
+      "rationale": "整合肠道健康的所有方面,包括微生物组、肠-脑轴、消化功能和肠道-心血管连接",
+      "original_clusters": [
+        "gut-brain-social-nutrition",
+        "gut-brain-blood-pressure",
+        "microbiome-biomarkers",
+        "gastrointestinal-autonomic-link",
+        "gastrointestinal-early-warning",
+        "digestive-physiology-support",
+        "oral-digestive-function",
+        "inflammation-oral-systemic-link"
+      ],
+      "total_articles": 8
+    },
+    {
+      "new_cluster_name": "vision-eye-health",
+      "description": "视网膜健康、眼部并发症、视力保护营养和视觉辅助适应",
+      "rationale": "合并所有眼部健康相关内容,从早期视网膜损伤到营养支持和视力受损患者的生活适应",
+      "original_clusters": [
+        "early-retinal-damage",
+        "early-biomarkers-ophthalmic",
+        "eye-health-nutrition-aging",
+        "antioxidant-timing-ocular-health",
+        "vision-adapted-holiday-activities",
+        "post-surgical-light-rehab"
+      ],
+      "total_articles": 6
+    },
+    {
+      "new_cluster_name": "environmental-seasonal-factors",
+      "description": "环境因素、季节性变化、温度、光照和外部环境对健康的影响",
+      "rationale": "整合环境和季节对血压、血糖和整体健康的影响,包括温度、污染、季节变化",
+      "original_clusters": [
+        "environmental-exposures-blood-pressure",
+        "environmental-exposures",
+        "environmental-thrombosis-risk",
+        "seasonal-htn-management",
+        "seasonal-physiology",
+        "seasonal-environmental-triggers",
+        "digital-environment-vascular-effects"
+      ],
+      "total_articles": 7
+    },
+    {
+      "new_cluster_name": "emergency-acute-care",
+      "description": "急症识别、紧急干预、症状时间线和快速血压/血糖稳定",
+      "rationale": "合并所有急性情况的识别和处理,包括高血压急症、低血糖急救、症状识别和快速干预",
+      "original_clusters": [
+        "acute-bp-intervention",
+        "acute-nonpharmacologic-intervention",
+        "post-surgical-bp-stabilization",
+        "hypertensive-urgency-triage",
+        "rapid-intervention",
+        "emergency-symptoms-timeline",
+        "symptom-timing-red-flag",
+        "lifestyle-quick-interventions"
+      ],
+      "total_articles": 8
+    },
+    {
+      "new_cluster_name": "gender-specific-health",
+      "description": "性别特异性健康问题、女性心血管健康、激素影响和性别差异",
+      "rationale": "整合性别相关的健康差异,特别是女性心血管疾病、激素影响和症状识别差异",
+      "original_clusters": [
+        "early-symptoms-women-specific",
+        "gender-hormone-blood-pressure",
+        "symptom-discrimination-women",
+        "bone-health-nutrition-women",
+        "differential-diagnosis-male-aging"
+      ],
+      "total_articles": 5
+    },
+    {
+      "new_cluster_name": "special-populations-care",
+      "description": "特殊人群护理,包括老年人、照护者、认知障碍患者和多病共存管理",
+      "rationale": "合并需要特殊护理考虑的人群,包括虚弱老人、照护者支持、认知障碍和多重并发症管理",
+      "original_clusters": [
+        "caregiver-disease-management",
+        "foot-health-engineering",
+        "muscle-health-protein-distribution",
+        "muscle-health-nutrition"
+      ],
+      "total_articles": 4
+    },
+    {
+      "new_cluster_name": "natural-remedies-supplements",
+      "description": "天然疗法、补充剂、草药治疗和非药物干预的安全性和有效性",
+      "rationale": "整合所有天然和补充治疗方法,包括安全性评估、剂量考虑和与常规治疗的整合",
+      "original_clusters": [
+        "supplement-safety",
+        "natural-remedies-clinical-dosing"
+      ],
+      "total_articles": 2
+    },
+    {
+      "new_cluster_name": "advanced-biomarkers-research",
+      "description": "新兴生物标志物、多系统评估、科学研究进展和前沿诊断技术",
+      "rationale": "合并前沿科学研究、新型生物标志物、多系统风险评估和转化研究",
+      "original_clusters": [
+        "multisystem-biomarkers",
+        "science-research-holiday-fasting",
+        "differential-diagnosis-isolation",
+        "pulmonary-vascular-signs",
+        "regulatory-clarity"
+      ],
+      "total_articles": 5
+    },
+    {
+      "new_cluster_name": "lifestyle-integrative-approaches",
+      "description": "综合生活方式干预、呼吸训练、社会互动、节日适应和体重管理线索",
+      "rationale": "整合多维度生活方式干预,包括非常规但有效的方法如呼吸生物反馈、社会互动和综合行为改变",
+      "original_clusters": [
+        "respiratory-biofeedback",
+        "intra-meal-blood-pressure-modulation",
+        "weight-gain-clues",
+        "allergy-immunology-diet",
+        "hypertension-diet-myth-busting",
+        "sodium-safety-orthostasis"
+      ],
+      "total_articles": 6
+    }
+  ],
+  "clustering_summary": {
+    "new_clusters_count": 21,
+    "avg_articles_per_cluster": 9.5,
+    "largest_cluster": "sleep-circadian-health (18篇)",
+    "approach": "基于医学主题领域、治疗方式和患者管理需求的多维度语义聚类,强调临床实用性和GEO优化"
+  }
+}

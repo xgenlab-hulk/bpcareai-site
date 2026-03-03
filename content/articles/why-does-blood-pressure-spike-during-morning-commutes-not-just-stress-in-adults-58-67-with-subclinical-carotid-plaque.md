@@ -1,14 +1,27 @@
 ---
-title: "Why Does Blood Pressure Spike During Morning Commutes — Not Just 'Stress' — In Adults 58–67 With Subclinical Carotid Plaque?"
-slug: "why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque"
-description: "Explores the mechanistic link between urban traffic exposure, endothelial shear stress, and transient systolic surges in early-atherosclerotic adults, with real-time ambulatory BP data correlations."
-date: "2026-03-01"
-updated: "2026-03-01"
-tags: ["morning blood pressure spike traffic exposure", "blood pressure", "environmental-triggers"]
-primaryKeyword: "morning blood pressure spike traffic exposure"
-topicCluster: "environmental-triggers"
-image: ""
-relatedSlugs: ["why-does-blood-pressure-spike-during-morning-commute-stress-even-with-normal-readings-at-home-in-adults-58-67", "traffic-noise-morning-systolic-blood-pressure", "7-silent-signs-your-blood-pressure-is-spiking-during-morning-commute-even-with-normal-clinic-readings-in-adults-58-66-with-white-coat-normotension", "7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings", "traffic-pollution-carotid-thickness-progression"]
+title: >-
+  Why Does Blood Pressure Spike During Morning Commutes — Not Just 'Stress' — In
+  Adults 58–67 With Subclinical Carotid Plaque?
+slug: >-
+  why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque
+description: >-
+  Explores the mechanistic link between urban traffic exposure, endothelial
+  shear stress, and transient systolic surges in early-atherosclerotic adults,
+  with real-time ambulatory BP data correlations.
+date: '2026-03-01'
+updated: '2026-03-01'
+primaryKeyword: morning blood pressure spike traffic exposure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    why-does-blood-pressure-spike-during-morning-commute-stress-even-with-normal-readings-at-home-in-adults-58-67
+  - traffic-noise-morning-systolic-blood-pressure
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-during-morning-commute-even-with-normal-clinic-readings-in-adults-58-66-with-white-coat-normotension
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
+  - traffic-pollution-carotid-thickness-progression
 ---
 
 # Why Morning Blood Pressure Spike Traffic Exposure Happens — And What It Means for Adults with Early Carotid Plaque

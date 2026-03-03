@@ -1,14 +1,28 @@
 ---
-title: "How Chronic Loneliness Alters Heart Rate Variability in Adults 65+—And Why That Predicts 5-Year Cardiovascular Mortality Risk"
-slug: "how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk"
-description: "Explores the autonomic nervous system impact of social isolation on heart health, citing longitudinal data linking HRV decline to incident heart failure and sudden cardiac death in older adults without prior CVD."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["loneliness and heart rate variability seniors", "heart health", "emotional-health-autonomic-function"]
-primaryKeyword: "loneliness and heart rate variability seniors"
-topicCluster: "emotional-health-autonomic-function"
-image: ""
-relatedSlugs: ["how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone", "how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk", "how-social-isolation-impacts-heart-disease-risk-in-older-adults", "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone", "how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone"]
+title: >-
+  How Chronic Loneliness Alters Heart Rate Variability in Adults 65+—And Why
+  That Predicts 5-Year Cardiovascular Mortality Risk
+slug: >-
+  how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk
+description: >-
+  Explores the autonomic nervous system impact of social isolation on heart
+  health, citing longitudinal data linking HRV decline to incident heart failure
+  and sudden cardiac death in older adults without prior CVD.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: loneliness and heart rate variability seniors
+topicCluster: autonomic-nervous-regulation
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
+  - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
+  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - >-
+    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
 ---
 
 # How Loneliness and Heart Rate Variability in Seniors Reflects a Deeper Heart Health Connection

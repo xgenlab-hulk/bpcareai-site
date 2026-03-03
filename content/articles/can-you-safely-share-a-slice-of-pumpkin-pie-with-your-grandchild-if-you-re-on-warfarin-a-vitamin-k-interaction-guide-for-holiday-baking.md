@@ -10,12 +10,8 @@ description: >-
   anticoagulants.
 date: '2025-12-31'
 updated: '2025-12-31'
-tags:
-  - pumpkin pie warfarin vitamin k safety
-  - healthy eating during family gatherings
-  - anticoagulant-diet-interaction
 primaryKeyword: pumpkin pie warfarin vitamin k safety
-topicCluster: anticoagulant-diet-interaction
+topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-

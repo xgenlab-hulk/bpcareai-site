@@ -1,14 +1,26 @@
 ---
-title: "7 Foods That Support Satiety Without Triggering Nocturnal Acid Reflux in Women Over 68"
-slug: "7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68"
-description: "A science-backed list of low-acid, high-fiber, moderate-protein holiday-adjacent foods proven to sustain fullness while protecting esophageal integrity—especially for postmenopausal women with hiatal hernia or GERD."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["satiety foods nocturnal acid reflux seniors", "healthy holiday eating for seniors", "gastroesophageal-reflux-diet"]
-primaryKeyword: "satiety foods nocturnal acid reflux seniors"
-topicCluster: "gastroesophageal-reflux-diet"
-image: ""
-relatedSlugs: ["what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60", "10-high-fiber-holiday-foods-that-support-digestion-after-50", "4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts", "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70"]
+title: >-
+  7 Foods That Support Satiety Without Triggering Nocturnal Acid Reflux in Women
+  Over 68
+slug: >-
+  7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
+description: >-
+  A science-backed list of low-acid, high-fiber, moderate-protein
+  holiday-adjacent foods proven to sustain fullness while protecting esophageal
+  integrity—especially for postmenopausal women with hiatal hernia or GERD.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: satiety foods nocturnal acid reflux seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - >-
+    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
 ---
 
 # Satiety Foods for Nocturnal Acid Reflux in Seniors: Gentle, Holiday-Friendly Choices After 68

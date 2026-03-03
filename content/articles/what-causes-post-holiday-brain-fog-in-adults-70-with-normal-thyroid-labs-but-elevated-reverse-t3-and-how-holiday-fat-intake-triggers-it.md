@@ -1,14 +1,29 @@
 ---
-title: "What Causes Post-Holiday ‘Brain Fog’ in Adults 70+ With Normal Thyroid Labs But Elevated Reverse T3 — And How Holiday Fat Intake Triggers It"
-slug: "what-causes-post-holiday-brain-fog-in-adults-70-with-normal-thyroid-labs-but-elevated-reverse-t3-and-how-holiday-fat-intake-triggers-it"
-description: "Explains how saturated fat from gravy, pie crusts, and cheese platters inhibits T4-to-T3 conversion, elevates rT3, and impairs hippocampal glucose uptake."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["post-holiday brain fog reverse t3 seniors", "healthy eating during family gatherings", "thyroid-metabolism-fat-interaction"]
-primaryKeyword: "post-holiday brain fog reverse t3 seniors"
-topicCluster: "thyroid-metabolism-fat-interaction"
-image: ""
-relatedSlugs: ["what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy", "how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia", "how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome", "when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals", "when-to-worry-about-sudden-appetite-suppression-at-christmas-dinner-a-red-flag-for-early-sarcopenia-or-subclinical-hypothyroidism-in-women-65-79"]
+title: >-
+  What Causes Post-Holiday ‘Brain Fog’ in Adults 70+ With Normal Thyroid Labs
+  But Elevated Reverse T3 — And How Holiday Fat Intake Triggers It
+slug: >-
+  what-causes-post-holiday-brain-fog-in-adults-70-with-normal-thyroid-labs-but-elevated-reverse-t3-and-how-holiday-fat-intake-triggers-it
+description: >-
+  Explains how saturated fat from gravy, pie crusts, and cheese platters
+  inhibits T4-to-T3 conversion, elevates rT3, and impairs hippocampal glucose
+  uptake.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: post-holiday brain fog reverse t3 seniors
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy
+  - >-
+    how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
+  - >-
+    how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome
+  - >-
+    when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
+  - >-
+    when-to-worry-about-sudden-appetite-suppression-at-christmas-dinner-a-red-flag-for-early-sarcopenia-or-subclinical-hypothyroidism-in-women-65-79
 ---
 
 # Why Post-Holiday Brain Fog in Seniors Isn’t Just “Getting Older”—And How Reverse T3 Plays a Quiet Role

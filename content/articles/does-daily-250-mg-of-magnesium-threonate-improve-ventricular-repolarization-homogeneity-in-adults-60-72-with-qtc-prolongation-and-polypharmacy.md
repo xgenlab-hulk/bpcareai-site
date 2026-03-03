@@ -1,14 +1,29 @@
 ---
-title: "Does Daily 250 mg of Magnesium Threonate Improve Ventricular Repolarization Homogeneity in Adults 60–72 With QTc Prolongation and Polypharmacy?"
-slug: "does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy"
-description: "Examines magnesium threonate’s unique CNS and cardiac tissue penetration, its effect on T-wave morphology and Tp-e interval on digital ECGs, and interactions with common QT-prolonging drugs like citalopram or amiodarone."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["magnesium threonate qt prolongation", "heart disease", "electrophysiology-supplements"]
-primaryKeyword: "magnesium threonate qt prolongation"
-topicCluster: "electrophysiology-supplements"
-image: ""
-relatedSlugs: ["what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone", "does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment", "a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation", "a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome", "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib"]
+title: >-
+  Does Daily 250 mg of Magnesium Threonate Improve Ventricular Repolarization
+  Homogeneity in Adults 60–72 With QTc Prolongation and Polypharmacy?
+slug: >-
+  does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
+description: >-
+  Examines magnesium threonate’s unique CNS and cardiac tissue penetration, its
+  effect on T-wave morphology and Tp-e interval on digital ECGs, and
+  interactions with common QT-prolonging drugs like citalopram or amiodarone.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: magnesium threonate qt prolongation
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
+  - >-
+    does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
+  - >-
+    a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
+  - >-
+    a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
 ---
 
 # Can Magnesium Threonate Support Safer Heart Rhythms in Older Adults with QTc Prolongation?

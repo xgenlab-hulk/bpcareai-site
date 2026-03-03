@@ -1,14 +1,29 @@
 ---
-title: "Why Nighttime BP Dipping Disappears After Age 67 — And What It Reveals About Autonomic Neuropathy and LVH"
-slug: "why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh"
-description: "Explains the physiological shift in circadian BP regulation with aging, links non-dipping to subclinical left ventricular hypertrophy and early autonomic damage, and outlines 24-hour ABPM interpretation for primary care."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["non-dipping blood pressure aging", "heart disease", "circadian-cardiology"]
-primaryKeyword: "non-dipping blood pressure aging"
-topicCluster: "circadian-cardiology"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful", "myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge", "the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles", "how-chronic-loneliness-after-retirement-affects-24-hour-blood-pressure-patterns-in-adults-62-78-with-preserved-ejection-fraction", "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night"]
+title: >-
+  Why Nighttime BP Dipping Disappears After Age 67 — And What It Reveals About
+  Autonomic Neuropathy and LVH
+slug: >-
+  why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
+description: >-
+  Explains the physiological shift in circadian BP regulation with aging, links
+  non-dipping to subclinical left ventricular hypertrophy and early autonomic
+  damage, and outlines 24-hour ABPM interpretation for primary care.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: non-dipping blood pressure aging
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
+  - >-
+    the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
+  - >-
+    how-chronic-loneliness-after-retirement-affects-24-hour-blood-pressure-patterns-in-adults-62-78-with-preserved-ejection-fraction
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
 ---
 
 # Why Non-Dipping Blood Pressure Aging Is a Clue — Not Just a Quirk — After 67

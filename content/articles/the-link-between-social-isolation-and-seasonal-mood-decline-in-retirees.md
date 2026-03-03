@@ -6,12 +6,8 @@ description: >-
   older adults living alone or with limited mobility.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - social isolation and seasonal depression
-  - seasonal depression in older adults
-  - emotional-mental-health
 primaryKeyword: social isolation and seasonal depression
-topicCluster: mental-wellness
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - how-winter-depression-affects-heart-health-in-retired-adults

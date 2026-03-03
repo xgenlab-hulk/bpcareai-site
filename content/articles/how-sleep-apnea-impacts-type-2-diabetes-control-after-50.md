@@ -1,14 +1,21 @@
 ---
-title: "How Sleep Apnea Impacts Type 2 Diabetes Control After 50"
-slug: "how-sleep-apnea-impacts-type-2-diabetes-control-after-50"
-description: "Explore the bidirectional relationship between poor sleep and insulin resistance in midlife and beyond."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["sleep apnea and type 2 diabetes in older adults", "diabetes", "diabetes-risk-factors"]
-primaryKeyword: "sleep apnea and type 2 diabetes in older adults"
-topicCluster: "diabetes-risk-factors"
-image: ""
-relatedSlugs: ["how-type-2-diabetes-increases-heart-disease-risk-after-50", "the-link-between-sleep-apnea-and-high-blood-pressure-after-50", "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50", "how-chronic-inflammation-worsens-type-2-diabetes-after-50", "why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea"]
+title: How Sleep Apnea Impacts Type 2 Diabetes Control After 50
+slug: how-sleep-apnea-impacts-type-2-diabetes-control-after-50
+description: >-
+  Explore the bidirectional relationship between poor sleep and insulin
+  resistance in midlife and beyond.
+date: '2025-12-24'
+updated: '2025-12-24'
+primaryKeyword: sleep apnea and type 2 diabetes in older adults
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
+  - how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - >-
+    why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
 ---
 
 # How Sleep Apnea and Type 2 Diabetes in Older Adults Affect Each Other After 50

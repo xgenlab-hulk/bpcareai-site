@@ -11,12 +11,8 @@ description: >-
   safety practices.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - holiday leftovers antibiotic resistance UTI seniors
-  - healthy eating during family gatherings
-  - infection-diet-link
 primaryKeyword: holiday leftovers antibiotic resistance UTI seniors
-topicCluster: nutrition-diet
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60

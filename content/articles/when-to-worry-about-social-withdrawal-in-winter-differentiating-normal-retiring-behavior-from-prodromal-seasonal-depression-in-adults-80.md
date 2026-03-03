@@ -1,14 +1,27 @@
 ---
-title: "When to Worry About Social Withdrawal in Winter: Differentiating Normal Retiring Behavior From Prodromal Seasonal Depression in Adults 80+"
-slug: "when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80"
-description: "Provides a clinical decision tree for caregivers and PCPs to distinguish adaptive aging patterns (e.g., reduced social stamina) from pathological isolation linked to SAD onset in the oldest-old."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["social withdrawal winter seasonal depression adults 80+", "seasonal depression in older adults", "differential-diagnosis-isolation"]
-primaryKeyword: "social withdrawal winter seasonal depression adults 80+"
-topicCluster: "differential-diagnosis-isolation"
-image: ""
-relatedSlugs: ["the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees", "7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know", "is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression", "when-to-worry-about-winter-apathy-vs-early-depression-in-men-over-70-a-4-point-clinical-red-flag-checklist"]
+title: >-
+  When to Worry About Social Withdrawal in Winter: Differentiating Normal
+  Retiring Behavior From Prodromal Seasonal Depression in Adults 80+
+slug: >-
+  when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80
+description: >-
+  Provides a clinical decision tree for caregivers and PCPs to distinguish
+  adaptive aging patterns (e.g., reduced social stamina) from pathological
+  isolation linked to SAD onset in the oldest-old.
+date: '2026-01-01'
+updated: '2026-01-01'
+primaryKeyword: social withdrawal winter seasonal depression adults 80+
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - >-
+    is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
+  - >-
+    when-to-worry-about-winter-apathy-vs-early-depression-in-men-over-70-a-4-point-clinical-red-flag-checklist
 ---
 
 # When Social Withdrawal in Winter Signals Seasonal Depression in Adults 80+: A Guide for Caregivers and Primary Care Providers

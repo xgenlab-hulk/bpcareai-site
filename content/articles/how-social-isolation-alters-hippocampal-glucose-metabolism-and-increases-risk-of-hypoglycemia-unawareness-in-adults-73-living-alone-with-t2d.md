@@ -1,14 +1,29 @@
 ---
-title: "How Social Isolation Alters Hippocampal Glucose Metabolism and Increases Risk of Hypoglycemia Unawareness in Adults 73+ Living Alone With T2D"
-slug: "how-social-isolation-alters-hippocampal-glucose-metabolism-and-increases-risk-of-hypoglycemia-unawareness-in-adults-73-living-alone-with-t2d"
-description: "Links loneliness-associated neuroinflammation, FDG-PET findings, and real-world hypoglycemia detection failure—offering behavioral and tech-aided mitigation strategies for high-risk solo dwellers."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["social isolation hippocampal glucose metabolism", "diabetes", "neuro-social-metabolism"]
-primaryKeyword: "social isolation hippocampal glucose metabolism"
-topicCluster: "neuro-social-metabolism"
-image: ""
-relatedSlugs: ["why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression", "how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin", "how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70", "when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness", "how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80"]
+title: >-
+  How Social Isolation Alters Hippocampal Glucose Metabolism and Increases Risk
+  of Hypoglycemia Unawareness in Adults 73+ Living Alone With T2D
+slug: >-
+  how-social-isolation-alters-hippocampal-glucose-metabolism-and-increases-risk-of-hypoglycemia-unawareness-in-adults-73-living-alone-with-t2d
+description: >-
+  Links loneliness-associated neuroinflammation, FDG-PET findings, and
+  real-world hypoglycemia detection failure—offering behavioral and tech-aided
+  mitigation strategies for high-risk solo dwellers.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: social isolation hippocampal glucose metabolism
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
+  - >-
+    how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
+  - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
+  - >-
+    when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness
+  - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
 ---
 
 # How Social Isolation Affects Hippocampal Glucose Metabolism—and What You Can Do About It

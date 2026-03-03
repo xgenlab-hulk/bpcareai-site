@@ -1,14 +1,29 @@
 ---
-title: "A vs B: 15-Minute Post-Dinner Walk vs. 5-Minute Standing Desk Session for Reducing Post-Holiday Dinner Glucose Spikes in Adults 70+ With Osteoarthritis"
-slug: "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis"
-description: "Compares real-world glucose-lowering efficacy (via blinded CGM) of two mobility-friendly interventions, factoring in joint load tolerance, muscle perfusion differences, and timing sensitivity in sedentary seniors with knee degeneration."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["post-dinner walk vs standing seniors diabetes", "holiday diabetes management", "exercise-physiology-comparison"]
-primaryKeyword: "post-dinner walk vs standing seniors diabetes"
-topicCluster: "exercise-physiology-comparison"
-image: ""
-relatedSlugs: ["best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67", "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance", "a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes"]
+title: >-
+  A vs B: 15-Minute Post-Dinner Walk vs. 5-Minute Standing Desk Session for
+  Reducing Post-Holiday Dinner Glucose Spikes in Adults 70+ With Osteoarthritis
+slug: >-
+  a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+description: >-
+  Compares real-world glucose-lowering efficacy (via blinded CGM) of two
+  mobility-friendly interventions, factoring in joint load tolerance, muscle
+  perfusion differences, and timing sensitivity in sedentary seniors with knee
+  degeneration.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: post-dinner walk vs standing seniors diabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
 ---
 
 # Post-Dinner Walk vs Standing for Seniors with Diabetes: A Practical Guide to Managing Holiday Glucose Spikes

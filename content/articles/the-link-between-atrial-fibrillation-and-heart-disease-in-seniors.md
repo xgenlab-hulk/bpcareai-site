@@ -6,12 +6,8 @@ description: >-
   in older adults.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - atrial fibrillation and heart disease in elderly
-  - heart disease
-  - heart-health
 primaryKeyword: atrial fibrillation and heart disease in elderly
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults

@@ -6,12 +6,8 @@ description: >-
   and mobility issues.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - diabetes and joint pain in older adults
-  - diabetes
-  - diabetes-complications
 primaryKeyword: diabetes and joint pain in older adults
-topicCluster: complications-comorbidities
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults

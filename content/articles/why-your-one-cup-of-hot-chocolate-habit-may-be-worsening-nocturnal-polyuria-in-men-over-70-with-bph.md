@@ -10,12 +10,8 @@ description: >-
   alpha-adrenergic tone in aging male urinary systems.
 date: '2025-12-31'
 updated: '2025-12-31'
-tags:
-  - hot chocolate nocturnal polyuria bph
-  - healthy holiday eating for seniors
-  - urological-diet-interactions
 primaryKeyword: hot chocolate nocturnal polyuria bph
-topicCluster: urological-diet-interactions
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

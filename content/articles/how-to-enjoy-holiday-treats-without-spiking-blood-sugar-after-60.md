@@ -6,12 +6,8 @@ description: >-
   prediabetes or diabetes to savor sweets safely.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - enjoy holiday treats without spiking blood sugar
-  - healthy holiday eating for seniors
-  - diabetic-diet
 primaryKeyword: enjoy holiday treats without spiking blood sugar
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

@@ -6,10 +6,6 @@ description: >-
   pressure for middle-aged and older adults.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - alcohol and blood pressure limits
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: alcohol and blood pressure limits
 topicCluster: hypertension-management
 image: ''

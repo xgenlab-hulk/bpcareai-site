@@ -1,14 +1,27 @@
 ---
-title: "Dangers of ‘Just One More Cup’ of Eggnog for Adults Over 74 With Subclinical Vitamin D Toxicity — And How to Spot Early Hypercalcemia Clues"
-slug: "dangers-of-just-one-more-cup-of-eggnog-for-adults-over-74-with-subclinical-vitamin-d-toxicity-and-how-to-spot-early-hypercalcemia-clues"
-description: "Warns about cumulative vitamin D intake from fortified dairy, supplements, and high-dose eggnog in sun-deprived winter months—linking subtle symptoms (polyuria, constipation, apathy) to labs."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["eggnog vitamin d toxicity seniors", "healthy holiday eating for seniors", "micronutrient-toxicity-alert"]
-primaryKeyword: "eggnog vitamin d toxicity seniors"
-topicCluster: "micronutrient-toxicity-alert"
-image: ""
-relatedSlugs: ["how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns", "the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents", "why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary", "how-vitamin-d-deficiency-impacts-heart-health-in-winter", "what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors"]
+title: >-
+  Dangers of ‘Just One More Cup’ of Eggnog for Adults Over 74 With Subclinical
+  Vitamin D Toxicity — And How to Spot Early Hypercalcemia Clues
+slug: >-
+  dangers-of-just-one-more-cup-of-eggnog-for-adults-over-74-with-subclinical-vitamin-d-toxicity-and-how-to-spot-early-hypercalcemia-clues
+description: >-
+  Warns about cumulative vitamin D intake from fortified dairy, supplements, and
+  high-dose eggnog in sun-deprived winter months—linking subtle symptoms
+  (polyuria, constipation, apathy) to labs.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: eggnog vitamin d toxicity seniors
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+  - >-
+    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
+  - >-
+    why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
 ---
 
 # Eggnog Vitamin D Toxicity in Seniors: What Older Adults Over 74 Should Know This Holiday Season

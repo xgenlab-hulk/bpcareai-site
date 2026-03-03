@@ -1,14 +1,29 @@
 ---
-title: "Can Long-Term Statin Use Worsen Myocardial Energetics in Adults 72+ With Pre-Existing Mitochondrial Myopathy and Fatigue-Dominant Heart Failure?"
-slug: "can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure"
-description: "Analyzes case-based evidence and CoQ10 kinetics data on statin-induced respiratory chain disruption in aging mitochondria — including when discontinuation or dose modulation improves cardiac ATP flux."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["statins mitochondrial myopathy elderly", "heart disease", "medication-mitochondria"]
-primaryKeyword: "statins mitochondrial myopathy elderly"
-topicCluster: "medication-mitochondria"
-image: ""
-relatedSlugs: ["5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65", "what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing", "12-science-backed-ways-to-protect-mitochondrial-cardiomyocyte-function-using-meal-timing-nutrient-synergy-and-circadian-light-exposure-for-adults-55-69-with-subclinical-lv-hypertrophy", "what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older"]
+title: >-
+  Can Long-Term Statin Use Worsen Myocardial Energetics in Adults 72+ With
+  Pre-Existing Mitochondrial Myopathy and Fatigue-Dominant Heart Failure?
+slug: >-
+  can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure
+description: >-
+  Analyzes case-based evidence and CoQ10 kinetics data on statin-induced
+  respiratory chain disruption in aging mitochondria — including when
+  discontinuation or dose modulation improves cardiac ATP flux.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: statins mitochondrial myopathy elderly
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
+  - >-
+    what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
+  - >-
+    12-science-backed-ways-to-protect-mitochondrial-cardiomyocyte-function-using-meal-timing-nutrient-synergy-and-circadian-light-exposure-for-adults-55-69-with-subclinical-lv-hypertrophy
+  - >-
+    what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
 ---
 
 # Can Statins Worsen Heart Energy in Older Adults With Mitochondrial Myopathy and Fatigue-Dominant Heart Failure?

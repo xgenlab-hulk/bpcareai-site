@@ -1,14 +1,30 @@
 ---
-title: "How Chronic Nighttime Ambient Light Exposure From Smart Nightlights Disrupts Melatonin-Mediated NO Synthase Activity — And Elevates Nocturnal SBP in Adults 60+ With Sleep-Onset Insomnia"
-slug: "how-chronic-nighttime-ambient-light-exposure-from-smart-nightlights-disrupts-melatonin-mediated-no-synthase-activity-and-elevates-nocturnal-sbp-in-adults-60-with-sleep-onset-insomnia"
-description: "Links blue-enriched light exposure to reduced nitric oxide bioavailability and impaired nocturnal vasodilation — with validated spectrally-tuned lighting protocols."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["smart-nightlight-nocturnal-sbp-elevation", "blood pressure", "light-exposure-endothelial-function"]
-primaryKeyword: "smart-nightlight-nocturnal-sbp-elevation"
-topicCluster: "light-exposure-endothelial-function"
-image: ""
-relatedSlugs: ["how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment", "how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints", "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension", "a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension"]
+title: >-
+  How Chronic Nighttime Ambient Light Exposure From Smart Nightlights Disrupts
+  Melatonin-Mediated NO Synthase Activity — And Elevates Nocturnal SBP in Adults
+  60+ With Sleep-Onset Insomnia
+slug: >-
+  how-chronic-nighttime-ambient-light-exposure-from-smart-nightlights-disrupts-melatonin-mediated-no-synthase-activity-and-elevates-nocturnal-sbp-in-adults-60-with-sleep-onset-insomnia
+description: >-
+  Links blue-enriched light exposure to reduced nitric oxide bioavailability and
+  impaired nocturnal vasodilation — with validated spectrally-tuned lighting
+  protocols.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: smart-nightlight-nocturnal-sbp-elevation
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment
+  - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+  - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
 ---
 
 # How Smart Nightlights May Quietly Raise Nighttime Blood Pressure in Adults 60+ — And What You Can Do About It

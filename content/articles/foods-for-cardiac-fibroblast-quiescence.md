@@ -1,14 +1,30 @@
 ---
-title: "5 Foods That Support Cardiac Fibroblast Quiescence *Without* Suppressing Collagen Turnover — For Adults 70+ With Early Diastolic Dysfunction and Normal Troponin"
-slug: "5-foods-that-support-cardiac-fibroblast-quiescence-without-suppressing-collagen-turnover-for-adults-70-with-early-diastolic-dysfunction-and-normal-troponin"
-description: "Highlights nutrient compounds (e.g., luteolin, epigallocatechin-3-gallate, taurine) that modulate TGF-β1 signaling and LOXL2 activity to prevent maladaptive fibrosis while preserving structural integrity."
-date: "2026-02-16"
-updated: "2026-02-16"
-tags: ["foods for cardiac fibroblast quiescence", "heart health", "cardiac-fibrosis-nutrition"]
-primaryKeyword: "foods for cardiac fibroblast quiescence"
-topicCluster: "cardiac-fibrosis-nutrition"
-image: ""
-relatedSlugs: ["12-foods-that-support-cardiac-fibroblast-quiescence-without-inhibiting-wound-healing-for-adults-69-with-prior-myocardial-infarction-and-stable-scar", "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib", "natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79", "10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max"]
+title: >-
+  5 Foods That Support Cardiac Fibroblast Quiescence *Without* Suppressing
+  Collagen Turnover — For Adults 70+ With Early Diastolic Dysfunction and Normal
+  Troponin
+slug: >-
+  5-foods-that-support-cardiac-fibroblast-quiescence-without-suppressing-collagen-turnover-for-adults-70-with-early-diastolic-dysfunction-and-normal-troponin
+description: >-
+  Highlights nutrient compounds (e.g., luteolin, epigallocatechin-3-gallate,
+  taurine) that modulate TGF-β1 signaling and LOXL2 activity to prevent
+  maladaptive fibrosis while preserving structural integrity.
+date: '2026-02-16'
+updated: '2026-02-16'
+primaryKeyword: foods for cardiac fibroblast quiescence
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-foods-that-support-cardiac-fibroblast-quiescence-without-inhibiting-wound-healing-for-adults-69-with-prior-myocardial-infarction-and-stable-scar
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+  - >-
+    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
+  - >-
+    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
 ---
 
 # Foods for Cardiac Fibroblast Quiescence: Gentle Nutrition for Heart Resilience After 70

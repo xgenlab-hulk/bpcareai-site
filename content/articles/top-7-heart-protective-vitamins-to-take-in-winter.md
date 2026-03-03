@@ -6,12 +6,8 @@ description: >-
   help maintain heart function during winter months.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - winter heart supplements
-  - winter heart health for seniors
-  - supplements-nutrition
 primaryKeyword: winter heart supplements
-topicCluster: nutrition-diet
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health

@@ -1,14 +1,29 @@
 ---
-title: "11 Foods That Support Mitochondrial Resilience During Holiday Feasting — Backed by Skeletal Muscle Biopsy Data in Adults 63–79"
-slug: "11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79"
-description: "Highlights mitochondria-protective foods (e.g., roasted beets, toasted walnuts, slow-simmered bone broth) with human tissue-level evidence for sustaining energy metabolism amid high-calorie meals."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["mitochondrial foods holiday seniors", "healthy holiday eating for seniors", "cellular-energy-nutrition"]
-primaryKeyword: "mitochondrial foods holiday seniors"
-topicCluster: "cellular-energy-nutrition"
-image: ""
-relatedSlugs: ["10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max", "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib", "7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68", "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80"]
+title: >-
+  11 Foods That Support Mitochondrial Resilience During Holiday Feasting —
+  Backed by Skeletal Muscle Biopsy Data in Adults 63–79
+slug: >-
+  11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79
+description: >-
+  Highlights mitochondria-protective foods (e.g., roasted beets, toasted
+  walnuts, slow-simmered bone broth) with human tissue-level evidence for
+  sustaining energy metabolism amid high-calorie meals.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: mitochondrial foods holiday seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+  - >-
+    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
+  - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
 ---
 
 # 11 Mitochondrial Foods for Holiday Seniors — Evidence from Real Muscle Tissue Studies

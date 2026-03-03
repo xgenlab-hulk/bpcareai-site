@@ -11,12 +11,8 @@ description: >-
   adults with HFrEF managing volume status.
 date: '2025-12-22'
 updated: '2025-12-22'
-tags:
-  - collard greens heart failure diuretics comparison
-  - healthy eating during family gatherings
-  - heart-failure-diet-comparison
 primaryKeyword: collard greens heart failure diuretics comparison
-topicCluster: heart-failure-diet-comparison
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

@@ -6,12 +6,8 @@ description: >-
   with nerve damage.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - diabetic foot care for seniors
-  - diabetes
-  - diabetes-complications
 primaryKeyword: diabetic foot care for seniors
-topicCluster: complications-comorbidities
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - the-link-between-diabetes-and-slow-healing-in-older-adults

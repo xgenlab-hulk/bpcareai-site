@@ -1,14 +1,27 @@
 ---
-title: "5 Things Every Woman Over 64 Taking Low-Dose HRT Should Know About Holiday Alcohol Interactions and Hepatic CYP2C9 Saturation"
-slug: "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation"
-description: "Explains how estrogen replacement alters first-pass metabolism of ethanol and holiday cocktails — increasing acetaldehyde accumulation, oxidative stress markers, and late-night orthostatic risk in this specific demographic."
-date: "2026-02-28"
-updated: "2026-02-28"
-tags: ["hrt alcohol metabolism seniors women", "healthy eating during family gatherings", "hormonal-hepatic-interactions"]
-primaryKeyword: "hrt alcohol metabolism seniors women"
-topicCluster: "hormonal-hepatic-interactions"
-image: ""
-relatedSlugs: ["how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis", "holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af", "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "women-holiday-heart-syndrome-menopause"]
+title: >-
+  5 Things Every Woman Over 64 Taking Low-Dose HRT Should Know About Holiday
+  Alcohol Interactions and Hepatic CYP2C9 Saturation
+slug: >-
+  5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation
+description: >-
+  Explains how estrogen replacement alters first-pass metabolism of ethanol and
+  holiday cocktails — increasing acetaldehyde accumulation, oxidative stress
+  markers, and late-night orthostatic risk in this specific demographic.
+date: '2026-02-28'
+updated: '2026-02-28'
+primaryKeyword: hrt alcohol metabolism seniors women
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
+  - >-
+    holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - women-holiday-heart-syndrome-menopause
 ---
 
 # What Women Over 64 on Low-Dose HRT Should Know About Alcohol, Holidays, and Liver Health — A Gentle Guide to hrt alcohol metabolism seniors women

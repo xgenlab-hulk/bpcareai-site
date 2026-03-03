@@ -1,14 +1,27 @@
 ---
-title: "How Late-Night Eggnog Consumption Alters QT Interval Duration in Men Over 62—A Cardiologist’s Interpretation of Holiday ECG Patterns"
-slug: "how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns"
-description: "Analyzes how high-fat, high-sugar, calcium-rich nighttime beverages interact with age-related ion channel changes to prolong QT interval, increasing arrhythmia susceptibility during holiday weeks."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["eggnog and qt interval prolongation in older men", "holiday heart syndrome prevention", "electrophysiology-effects"]
-primaryKeyword: "eggnog and qt interval prolongation in older men"
-topicCluster: "electrophysiology-effects"
-image: ""
-relatedSlugs: ["can-late-night-holiday-parties-disrupt-heart-rhythm-after-60", "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60", "5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin", "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve", "what-research-says-about-holiday-heart-syndrome-and-aging-hearts"]
+title: >-
+  How Late-Night Eggnog Consumption Alters QT Interval Duration in Men Over 62—A
+  Cardiologist’s Interpretation of Holiday ECG Patterns
+slug: >-
+  how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+description: >-
+  Analyzes how high-fat, high-sugar, calcium-rich nighttime beverages interact
+  with age-related ion channel changes to prolong QT interval, increasing
+  arrhythmia susceptibility during holiday weeks.
+date: '2025-12-25'
+updated: '2025-12-25'
+primaryKeyword: eggnog and qt interval prolongation in older men
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
+  - >-
+    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
 ---
 
 # How Eggnog and QT Interval Prolongation in Older Men Interacts During the Holidays—What Your Heart Really Needs to Know

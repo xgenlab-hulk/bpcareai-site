@@ -1,14 +1,29 @@
 ---
-title: "The Truth About Blood Pressure ‘Normalization’ After Bariatric Surgery — Why Some Adults 55–67 See Late-Onset Hypotension 3+ Years Post-RYGB"
-slug: "the-truth-about-blood-pressure-normalization-after-bariatric-surgery-why-some-adults-55-67-see-late-onset-hypotension-3-years-post-rygb"
-description: "Examines long-term vascular adaptation, renin-angiotensin remodeling, and orthostatic risk in sustained weight-loss patients — including red-flag symptoms and when to taper antihypertensives."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["post-bariatric surgery low blood pressure", "blood pressure", "surgical-outcomes"]
-primaryKeyword: "post-bariatric surgery low blood pressure"
-topicCluster: "surgical-outcomes"
-image: ""
-relatedSlugs: ["blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t", "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension", "when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction", "the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance", "simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma"]
+title: >-
+  The Truth About Blood Pressure ‘Normalization’ After Bariatric Surgery — Why
+  Some Adults 55–67 See Late-Onset Hypotension 3+ Years Post-RYGB
+slug: >-
+  the-truth-about-blood-pressure-normalization-after-bariatric-surgery-why-some-adults-55-67-see-late-onset-hypotension-3-years-post-rygb
+description: >-
+  Examines long-term vascular adaptation, renin-angiotensin remodeling, and
+  orthostatic risk in sustained weight-loss patients — including red-flag
+  symptoms and when to taper antihypertensives.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: post-bariatric surgery low blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
+  - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+  - >-
+    when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction
+  - >-
+    the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance
+  - >-
+    simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma
 ---
 
 # Understanding Post-Bariatric Surgery Low Blood Pressure — What Adults 55–67 Should Know After RYGB

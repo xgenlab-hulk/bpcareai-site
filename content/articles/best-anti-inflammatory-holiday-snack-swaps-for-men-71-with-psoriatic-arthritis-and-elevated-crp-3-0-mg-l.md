@@ -1,14 +1,28 @@
 ---
-title: "Best Anti-Inflammatory Holiday Snack Swaps for Men 71+ With Psoriatic Arthritis and Elevated CRP >3.0 mg/L"
-slug: "best-anti-inflammatory-holiday-snack-swaps-for-men-71-with-psoriatic-arthritis-and-elevated-crp-3-0-mg-l"
-description: "Replaces common pro-inflammatory holiday snacks with low-glycemic, omega-3–rich, polyphenol-dense alternatives proven to reduce IL-17 and TNF-α spikes—without requiring cooking skill or supplement use."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["anti inflammatory holiday snacks psoriatic arthritis", "healthy holiday eating for seniors", "inflammatory-arthritis-nutrition"]
-primaryKeyword: "anti inflammatory holiday snacks psoriatic arthritis"
-topicCluster: "inflammatory-arthritis-nutrition"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis", "natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation", "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72", "best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required", "5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties"]
+title: >-
+  Best Anti-Inflammatory Holiday Snack Swaps for Men 71+ With Psoriatic
+  Arthritis and Elevated CRP >3.0 mg/L
+slug: >-
+  best-anti-inflammatory-holiday-snack-swaps-for-men-71-with-psoriatic-arthritis-and-elevated-crp-3-0-mg-l
+description: >-
+  Replaces common pro-inflammatory holiday snacks with low-glycemic,
+  omega-3–rich, polyphenol-dense alternatives proven to reduce IL-17 and TNF-α
+  spikes—without requiring cooking skill or supplement use.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: anti inflammatory holiday snacks psoriatic arthritis
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
+  - >-
+    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
+  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
 ---
 
 # Smart Anti-Inflammatory Holiday Snacks for Men 71+ With Psoriatic Arthritis and Elevated CRP

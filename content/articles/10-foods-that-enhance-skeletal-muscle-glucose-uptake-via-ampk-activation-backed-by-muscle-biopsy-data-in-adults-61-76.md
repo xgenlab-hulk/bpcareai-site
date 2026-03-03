@@ -10,12 +10,8 @@ description: >-
   phosphorylation evidence and optimal dosing windows relative to activity.
 date: '2026-01-10'
 updated: '2026-01-10'
-tags:
-  - foods ampk activation muscle glucose uptake
-  - diabetes
-  - nutrient-signaling-pathways
 primaryKeyword: foods ampk activation muscle glucose uptake
-topicCluster: nutrient-signaling-pathways
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

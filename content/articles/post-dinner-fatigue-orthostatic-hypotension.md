@@ -1,14 +1,30 @@
 ---
-title: "When to Worry About Sudden Fatigue After Dinner at Your Daughter’s House — Linking Postprandial Hypotension, Autonomic Testing, and Family Meal Timing in Adults 76+"
-slug: "when-to-worry-about-sudden-fatigue-after-dinner-at-your-daughter-s-house-linking-postprandial-hypotension-autonomic-testing-and-family-meal-timing-in-adults-76"
-description: "Connects timing of meals, ambient temperature, seating posture, and intergenerational caregiving load to orthostatic symptoms—and outlines a home-based '3-Minute Post-Meal BP Snapshot' protocol."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["post dinner fatigue orthostatic hypotension", "healthy eating during family gatherings", "autonomic-dysfunction-symptoms"]
-primaryKeyword: "post dinner fatigue orthostatic hypotension"
-topicCluster: "autonomic-dysfunction-symptoms"
-image: ""
-relatedSlugs: ["simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy", "when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension", "what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef", "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension", "when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea"]
+title: >-
+  When to Worry About Sudden Fatigue After Dinner at Your Daughter’s House —
+  Linking Postprandial Hypotension, Autonomic Testing, and Family Meal Timing in
+  Adults 76+
+slug: >-
+  when-to-worry-about-sudden-fatigue-after-dinner-at-your-daughter-s-house-linking-postprandial-hypotension-autonomic-testing-and-family-meal-timing-in-adults-76
+description: >-
+  Connects timing of meals, ambient temperature, seating posture, and
+  intergenerational caregiving load to orthostatic symptoms—and outlines a
+  home-based '3-Minute Post-Meal BP Snapshot' protocol.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: post dinner fatigue orthostatic hypotension
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy
+  - >-
+    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
+  - >-
+    what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef
+  - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+  - >-
+    when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea
 ---
 
 # When Post Dinner Fatigue Orthostatic Hypotension Might Be More Than Just “Feeling Tired” After Family Dinners

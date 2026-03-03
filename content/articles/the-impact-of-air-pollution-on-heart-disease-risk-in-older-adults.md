@@ -6,12 +6,8 @@ description: >-
   in aging populations.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - air pollution and heart disease in seniors
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: air pollution and heart disease in seniors
-topicCluster: cardiovascular-health
+topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - how-air-pollution-impacts-heart-health-in-older-adults

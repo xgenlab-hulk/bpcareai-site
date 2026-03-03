@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: ‘My BP Is Fine Because I Feel Fine’ — Why Asymptomatic Hypertension Is Especially Dangerous in Adults 75+ With Silent White Matter Lesions"
-slug: "myths-vs-facts-my-bp-is-fine-because-i-feel-fine-why-asymptomatic-hypertension-is-especially-dangerous-in-adults-75-with-silent-white-matter-lesions"
-description: "Debunks symptom-based reassurance using MRI-confirmed cerebral small vessel disease progression data—and explains how even stage 1 HTN accelerates lacunar infarct accumulation."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["asymptomatic hypertension myths adults 75+ white matter lesions", "blood pressure", "truth-verification"]
-primaryKeyword: "asymptomatic hypertension myths adults 75+ white matter lesions"
-topicCluster: "truth-verification"
-image: ""
-relatedSlugs: ["why-blood-pressure-matters-even-if-you-feel-fine", "myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65", "10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63", "myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp", "what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities"]
+title: >-
+  Myths vs Facts: ‘My BP Is Fine Because I Feel Fine’ — Why Asymptomatic
+  Hypertension Is Especially Dangerous in Adults 75+ With Silent White Matter
+  Lesions
+slug: >-
+  myths-vs-facts-my-bp-is-fine-because-i-feel-fine-why-asymptomatic-hypertension-is-especially-dangerous-in-adults-75-with-silent-white-matter-lesions
+description: >-
+  Debunks symptom-based reassurance using MRI-confirmed cerebral small vessel
+  disease progression data—and explains how even stage 1 HTN accelerates lacunar
+  infarct accumulation.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: asymptomatic hypertension myths adults 75+ white matter lesions
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - why-blood-pressure-matters-even-if-you-feel-fine
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+  - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
+  - >-
+    what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
 ---
 
 # “My Blood Pressure Feels Fine—So I Must Be Okay”: Why Asymptomatic Hypertension Myths Adults 75+ White Matter Lesions Are Especially Risky

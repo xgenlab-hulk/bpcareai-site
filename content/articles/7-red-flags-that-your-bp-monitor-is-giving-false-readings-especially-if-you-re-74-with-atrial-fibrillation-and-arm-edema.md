@@ -1,14 +1,29 @@
 ---
-title: "7 Red Flags That Your BP Monitor Is Giving False Readings — Especially If You’re 74+ With Atrial Fibrillation and Arm Edema"
-slug: "7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema"
-description: "Details device-specific pitfalls (cuff fit, arrhythmia interference, motion artifact) and validation strategies for older adults with comorbidities that compromise home BP accuracy."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["false blood pressure readings in elderly", "blood pressure", "monitoring-accuracy"]
-primaryKeyword: "false blood pressure readings in elderly"
-topicCluster: "monitoring-accuracy"
-image: ""
-relatedSlugs: ["12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring", "5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema", "warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation", "dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands", "the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you"]
+title: >-
+  7 Red Flags That Your BP Monitor Is Giving False Readings — Especially If
+  You’re 74+ With Atrial Fibrillation and Arm Edema
+slug: >-
+  7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
+description: >-
+  Details device-specific pitfalls (cuff fit, arrhythmia interference, motion
+  artifact) and validation strategies for older adults with comorbidities that
+  compromise home BP accuracy.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: false blood pressure readings in elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
+  - >-
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
+  - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+  - >-
+    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
 ---
 
 # 7 Warning Signs Your Blood Pressure Monitor May Be Giving False Readings — Especially After Age 74 With Atrial Fibrillation and Arm Edema

@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: 'Gluten-Free' Holiday Stuffing for Adults 66+ With Celiac Disease and Latent Autoimmune Thyroiditis"
-slug: "myths-vs-facts-gluten-free-holiday-stuffing-for-adults-66-with-celiac-disease-and-latent-autoimmune-thyroiditis"
-description: "Debunks five common assumptions—including cross-contamination thresholds, starch source immune reactivity, and TSH-fluctuation risks—backed by biopsy-confirmed outcomes data."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["gluten-free stuffing celiac seniors", "healthy holiday eating for seniors", "autoimmune-diet-myths-facts"]
-primaryKeyword: "gluten-free stuffing celiac seniors"
-topicCluster: "autoimmune-diet-myths-facts"
-image: ""
-relatedSlugs: ["easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis", "5-things-every-woman-58-67-with-autoimmune-thyroid-disease-should-know-before-sharing-a-holiday-buffet", "the-truth-about-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-postprandial-hypotension-in-adults-68-with-carotid-stenosis", "the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12", "the-truth-about-gluten-free-holiday-cookies-why-many-still-sabotage-blood-pressure-in-seniors-with-hypertension"]
+title: >-
+  Myths vs Facts: 'Gluten-Free' Holiday Stuffing for Adults 66+ With Celiac
+  Disease and Latent Autoimmune Thyroiditis
+slug: >-
+  myths-vs-facts-gluten-free-holiday-stuffing-for-adults-66-with-celiac-disease-and-latent-autoimmune-thyroiditis
+description: >-
+  Debunks five common assumptions—including cross-contamination thresholds,
+  starch source immune reactivity, and TSH-fluctuation risks—backed by
+  biopsy-confirmed outcomes data.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: gluten-free stuffing celiac seniors
+topicCluster: prevention-risk-assessment
+image: ''
+relatedSlugs:
+  - >-
+    easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis
+  - >-
+    5-things-every-woman-58-67-with-autoimmune-thyroid-disease-should-know-before-sharing-a-holiday-buffet
+  - >-
+    the-truth-about-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-postprandial-hypotension-in-adults-68-with-carotid-stenosis
+  - >-
+    the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
+  - >-
+    the-truth-about-gluten-free-holiday-cookies-why-many-still-sabotage-blood-pressure-in-seniors-with-hypertension
 ---
 
 # Gluten-Free Stuffing for Celiac Seniors: Sorting Holiday Myths from Medical Reality

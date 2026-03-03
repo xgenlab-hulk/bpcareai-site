@@ -1,14 +1,29 @@
 ---
-title: "Can You Enjoy Holiday Pie Without Triggering Acid Reflux at Night? A 3-Step Timing & Texture Strategy for Adults 65+ With GERD"
-slug: "can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd"
-description: "Explores the science of gastric emptying delays in aging, identifies pie ingredients most likely to cause nocturnal reflux, and outlines a precise pre- and post-pie protocol—including upright posture timing and texture-modified serving suggestions."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["prevent nighttime acid reflux after pie", "healthy eating during family gatherings", "gerd-meal-timing"]
-primaryKeyword: "prevent nighttime acid reflux after pie"
-topicCluster: "gerd-meal-timing"
-image: ""
-relatedSlugs: ["natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms", "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75", "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60", "7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68"]
+title: >-
+  Can You Enjoy Holiday Pie Without Triggering Acid Reflux at Night? A 3-Step
+  Timing & Texture Strategy for Adults 65+ With GERD
+slug: >-
+  can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
+description: >-
+  Explores the science of gastric emptying delays in aging, identifies pie
+  ingredients most likely to cause nocturnal reflux, and outlines a precise pre-
+  and post-pie protocol—including upright posture timing and texture-modified
+  serving suggestions.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: prevent nighttime acid reflux after pie
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
+  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - >-
+    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
 ---
 
 # Can You Enjoy Holiday Pie Without Triggering Nighttime Acid Reflux? A Gentle, Science-Backed Strategy for Adults 65+

@@ -6,10 +6,6 @@ description: >-
   underlying heart issue.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - heart palpitations while lying down over 50
-  - heart health
-  - heart-health
 primaryKeyword: heart palpitations while lying down over 50
 topicCluster: cardiovascular-health
 image: ''

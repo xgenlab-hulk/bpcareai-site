@@ -1,14 +1,28 @@
 ---
-title: "How Late-Night Gift Wrapping Affects Fasting Glucose in Adults 62–76 With Prediabetes and Shifted Circadian Rhythms"
-slug: "how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms"
-description: "Analyzes the metabolic impact of cognitively engaging, low-movement evening activities on overnight glucose regulation — especially in those with age-related circadian delay and insulin resistance."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["late-night activity fasting glucose prediabetes", "holiday diabetes management", "circadian-metabolism"]
-primaryKeyword: "late-night activity fasting glucose prediabetes"
-topicCluster: "circadian-metabolism"
-image: ""
-relatedSlugs: ["how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon", "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes", "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s"]
+title: >-
+  How Late-Night Gift Wrapping Affects Fasting Glucose in Adults 62–76 With
+  Prediabetes and Shifted Circadian Rhythms
+slug: >-
+  how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
+description: >-
+  Analyzes the metabolic impact of cognitively engaging, low-movement evening
+  activities on overnight glucose regulation — especially in those with
+  age-related circadian delay and insulin resistance.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: late-night activity fasting glucose prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+  - >-
+    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
 ---
 
 # How Late-Night Activity Affects Fasting Glucose in Older Adults with Prediabetes and Circadian Shifts

@@ -10,12 +10,8 @@ description: >-
   trends in aging men—with evidence from 12-week liver elastography trials.
 date: '2026-01-10'
 updated: '2026-01-10'
-tags:
-  - zero-calorie cocktails and fatty liver
-  - healthy eating during family gatherings
-  - liver-health-alcohol
 primaryKeyword: zero-calorie cocktails and fatty liver
-topicCluster: liver-health-alcohol
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-

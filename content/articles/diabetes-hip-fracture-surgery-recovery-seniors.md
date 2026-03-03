@@ -1,14 +1,28 @@
 ---
-title: "The Complete Guide to Managing Diabetes While Recovering From Hip Fracture Surgery — Practical Strategies for Adults 79+ With Preoperative HbA1c 7.8–8.9% and Limited Mobility"
-slug: "the-complete-guide-to-managing-diabetes-while-recovering-from-hip-fracture-surgery-practical-strategies-for-adults-79-with-preoperative-hba1c-7-8-8-9-and-limited-mobility"
-description: "Covers perioperative glucose targets, insulin titration during acute immobilization, pressure ulcer–prevention nutrition, and tele-rehab coordination for fracture recovery."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["diabetes hip fracture surgery recovery seniors", "diabetes", "orthopedic-recovery-glucose-management"]
-primaryKeyword: "diabetes hip fracture surgery recovery seniors"
-topicCluster: "orthopedic-recovery-glucose-management"
-image: ""
-relatedSlugs: ["managing-diabetes-while-traveling-tips-for-seniors", "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis", "the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation", "the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes"]
+title: >-
+  The Complete Guide to Managing Diabetes While Recovering From Hip Fracture
+  Surgery — Practical Strategies for Adults 79+ With Preoperative HbA1c 7.8–8.9%
+  and Limited Mobility
+slug: >-
+  the-complete-guide-to-managing-diabetes-while-recovering-from-hip-fracture-surgery-practical-strategies-for-adults-79-with-preoperative-hba1c-7-8-8-9-and-limited-mobility
+description: >-
+  Covers perioperative glucose targets, insulin titration during acute
+  immobilization, pressure ulcer–prevention nutrition, and tele-rehab
+  coordination for fracture recovery.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: diabetes hip fracture surgery recovery seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - managing-diabetes-while-traveling-tips-for-seniors
+  - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+  - >-
+    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
+  - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 
 # Managing Diabetes During Hip Fracture Surgery Recovery in Seniors: A Practical Guide for Adults 79+

@@ -10,12 +10,8 @@ description: >-
   three 5-day fasting-mimicking cycles.
 date: '2026-01-09'
 updated: '2026-01-09'
-tags:
-  - fasting mimicking diet and plaque stability
-  - heart disease
-  - plaque-stabilization-nutrition
 primaryKeyword: fasting mimicking diet and plaque stability
-topicCluster: plaque-stabilization-nutrition
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

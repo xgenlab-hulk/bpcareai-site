@@ -10,12 +10,8 @@ description: >-
   practical substitution guidance for holiday meals.
 date: '2025-12-24'
 updated: '2025-12-24'
-tags:
-  - holiday medication interactions for afib drugs
-  - holiday heart syndrome prevention
-  - pharmacovigilance
 primaryKeyword: holiday medication interactions for afib drugs
-topicCluster: pharmacovigilance
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-

@@ -6,12 +6,8 @@ description: >-
   especially for those with cardiovascular or metabolic risks.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - post-holiday weight gain concerns
-  - healthy eating during family gatherings
-  - weight-monitoring
 primaryKeyword: post-holiday weight gain concerns
-topicCluster: health-monitoring
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause

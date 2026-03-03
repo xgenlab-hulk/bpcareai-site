@@ -1,14 +1,29 @@
 ---
-title: "When to Pause Mid-Dessert for Vagal Reset — Not Just Portion Control — in Adults 69+ With Postprandial Hypotension and Orthostatic Dizziness"
-slug: "when-to-pause-mid-dessert-for-vagal-reset-not-just-portion-control-in-adults-69-with-postprandial-hypotension-and-orthostatic-dizziness"
-description: "Details evidence-based timing cues (e.g., after first bite of pie, before coffee) to activate vagal tone and stabilize blood pressure—not just reduce sugar intake."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["vagal reset dessert postprandial hypotension", "healthy eating during family gatherings", "autonomic-nutrition-timing"]
-primaryKeyword: "vagal reset dessert postprandial hypotension"
-topicCluster: "autonomic-nutrition-timing"
-image: ""
-relatedSlugs: ["natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69", "quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd", "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension", "what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75", "10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia"]
+title: >-
+  When to Pause Mid-Dessert for Vagal Reset — Not Just Portion Control — in
+  Adults 69+ With Postprandial Hypotension and Orthostatic Dizziness
+slug: >-
+  when-to-pause-mid-dessert-for-vagal-reset-not-just-portion-control-in-adults-69-with-postprandial-hypotension-and-orthostatic-dizziness
+description: >-
+  Details evidence-based timing cues (e.g., after first bite of pie, before
+  coffee) to activate vagal tone and stabilize blood pressure—not just reduce
+  sugar intake.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: vagal reset dessert postprandial hypotension
+topicCluster: autonomic-nervous-regulation
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69
+  - >-
+    quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
+  - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+  - >-
+    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
+  - >-
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
 ---
 
 # When to Pause Mid-Dessert for a Vagal Reset: A Practical Guide to Managing Postprandial Hypotension in Adults 69+

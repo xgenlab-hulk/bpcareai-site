@@ -6,10 +6,6 @@ description: >-
   heart disease.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - morning joint stiffness and heart inflammation link
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: morning joint stiffness and heart inflammation link
 topicCluster: cardiovascular-health
 image: ''

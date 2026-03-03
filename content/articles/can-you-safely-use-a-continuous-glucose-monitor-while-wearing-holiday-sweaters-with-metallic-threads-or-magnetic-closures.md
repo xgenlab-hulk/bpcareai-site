@@ -10,12 +10,8 @@ description: >-
   dexterity challenges.
 date: '2026-01-01'
 updated: '2026-01-01'
-tags:
-  - CGM interference holiday clothing metallic threads
-  - holiday diabetes management
-  - device-compatibility-lifestyle
 primaryKeyword: CGM interference holiday clothing metallic threads
-topicCluster: device-compatibility-lifestyle
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

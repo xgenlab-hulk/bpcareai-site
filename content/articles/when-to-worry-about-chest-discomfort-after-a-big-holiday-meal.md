@@ -6,12 +6,8 @@ description: >-
   eating—especially critical for older adults with heart disease history.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - chest pain after eating seniors warning signs
-  - healthy holiday eating for seniors
-  - emergency-symptoms
 primaryKeyword: chest pain after eating seniors warning signs
-topicCluster: symptoms-emergencies
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - when-to-worry-about-weight-gain-after-a-family-gathering

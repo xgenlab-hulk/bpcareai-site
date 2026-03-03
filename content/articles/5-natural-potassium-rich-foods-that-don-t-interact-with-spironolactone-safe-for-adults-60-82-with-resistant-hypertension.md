@@ -1,14 +1,29 @@
 ---
-title: "5 Natural Potassium-Rich Foods That *Don’t* Interact With Spironolactone—Safe for Adults 60–82 With Resistant Hypertension"
-slug: "5-natural-potassium-rich-foods-that-don-t-interact-with-spironolactone-safe-for-adults-60-82-with-resistant-hypertension"
-description: "Lists low-potassium-variability, low-oxalate, low-FODMAP options (e.g., roasted acorn squash, steamed bok choy) validated in nephrology nutrition trials to avoid hyperkalemic spikes."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["potassium foods safe with spironolactone", "blood pressure", "electrolyte-medication-safety"]
-primaryKeyword: "potassium foods safe with spironolactone"
-topicCluster: "electrolyte-medication-safety"
-image: ""
-relatedSlugs: ["a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd", "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60", "the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors", "can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide"]
+title: >-
+  5 Natural Potassium-Rich Foods That *Don’t* Interact With Spironolactone—Safe
+  for Adults 60–82 With Resistant Hypertension
+slug: >-
+  5-natural-potassium-rich-foods-that-don-t-interact-with-spironolactone-safe-for-adults-60-82-with-resistant-hypertension
+description: >-
+  Lists low-potassium-variability, low-oxalate, low-FODMAP options (e.g.,
+  roasted acorn squash, steamed bok choy) validated in nephrology nutrition
+  trials to avoid hyperkalemic spikes.
+date: '2025-12-29'
+updated: '2025-12-29'
+primaryKeyword: potassium foods safe with spironolactone
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
+  - >-
+    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
+  - >-
+    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
 ---
 
 # 5 Potassium-Rich Foods Safe With Spironolactone—Gentle, Evidence-Based Choices for Adults 60–82 Managing Resistant Hypertension

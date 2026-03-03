@@ -6,12 +6,8 @@ description: >-
   without compromising the taste of beloved dishes.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - low-sodium family meal ideas
-  - healthy eating during family gatherings
-  - heart-healthy-cooking
 primaryKeyword: low-sodium family meal ideas
-topicCluster: cardiovascular-health
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor

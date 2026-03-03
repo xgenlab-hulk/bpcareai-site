@@ -1,14 +1,27 @@
 ---
-title: "5 Things Every Caregiver Should Know Before Hosting a Holiday Gathering for Someone With Advanced Diabetic Neuropathy and Foot Ulcers"
-slug: "5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers"
-description: "Practical safety priorities: home hazard mapping, footwear logistics, offloading strategies, pain flare forecasting, and emergency wound response — based on IDF and Wound Ostomy Continence Nursing Society protocols."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["holiday hosting diabetic neuropathy caregiver", "holiday diabetes management", "caregiver-safety-neuropathy"]
-primaryKeyword: "holiday hosting diabetic neuropathy caregiver"
-topicCluster: "caregiver-safety-neuropathy"
-image: ""
-relatedSlugs: ["5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health", "foot-care-basics-every-senior-with-diabetes-should-know", "simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes"]
+title: >-
+  5 Things Every Caregiver Should Know Before Hosting a Holiday Gathering for
+  Someone With Advanced Diabetic Neuropathy and Foot Ulcers
+slug: >-
+  5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
+description: >-
+  Practical safety priorities: home hazard mapping, footwear logistics,
+  offloading strategies, pain flare forecasting, and emergency wound response —
+  based on IDF and Wound Ostomy Continence Nursing Society protocols.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: holiday hosting diabetic neuropathy caregiver
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - foot-care-basics-every-senior-with-diabetes-should-know
+  - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 
 # What Every Caregiver Needs to Know Before Holiday Hosting Diabetic Neuropathy Care

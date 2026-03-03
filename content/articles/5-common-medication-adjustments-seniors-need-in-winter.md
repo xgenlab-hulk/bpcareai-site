@@ -6,12 +6,8 @@ description: >-
   require dosage changes due to seasonal shifts.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - winter medication adjustments seniors
-  - winter heart health for seniors
-  - medications-treatment
 primaryKeyword: winter medication adjustments seniors
-topicCluster: medications-supplements
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - how-cold-weather-affects-blood-pressure-medication-effectiveness

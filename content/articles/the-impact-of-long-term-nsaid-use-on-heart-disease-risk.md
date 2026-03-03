@@ -6,12 +6,8 @@ description: >-
   cardiovascular risks in older adults.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - long-term NSAID use and heart disease risk
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: long-term NSAID use and heart disease risk
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease

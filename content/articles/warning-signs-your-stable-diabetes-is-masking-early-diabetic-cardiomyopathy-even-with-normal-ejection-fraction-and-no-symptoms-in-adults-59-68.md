@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your 'Stable' Diabetes Is Masking Early Diabetic Cardiomyopathy — Even With Normal Ejection Fraction and No Symptoms in Adults 59–68"
-slug: "warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68"
-description: "Identifies subclinical markers (e.g., reduced global longitudinal strain >−18%, elevated galectin-3, abnormal myocardial T1 mapping) and links them to glycemic variability metrics (MAGE, CONGA) rather than HbA1c alone."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["early diabetic cardiomyopathy warning signs", "diabetes", "cardiac-complication-early-signs"]
-primaryKeyword: "early diabetic cardiomyopathy warning signs"
-topicCluster: "cardiac-complication-early-signs"
-image: ""
-relatedSlugs: ["warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear", "warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability"]
+title: >-
+  Warning Signs Your 'Stable' Diabetes Is Masking Early Diabetic Cardiomyopathy
+  — Even With Normal Ejection Fraction and No Symptoms in Adults 59–68
+slug: >-
+  warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+description: >-
+  Identifies subclinical markers (e.g., reduced global longitudinal strain
+  >−18%, elevated galectin-3, abnormal myocardial T1 mapping) and links them to
+  glycemic variability metrics (MAGE, CONGA) rather than HbA1c alone.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: early diabetic cardiomyopathy warning signs
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
+  - >-
+    warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability
 ---
 
 # Early Diabetic Cardiomyopathy Warning Signs You Might Overlook—Even With “Normal” Heart Function and No Symptoms

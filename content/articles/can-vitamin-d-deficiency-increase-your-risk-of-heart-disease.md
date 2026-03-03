@@ -6,12 +6,8 @@ description: >-
   cardiovascular problems in older adults.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - vitamin d deficiency and heart disease risk
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: vitamin d deficiency and heart disease risk
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - the-hidden-link-between-gum-disease-and-heart-problems

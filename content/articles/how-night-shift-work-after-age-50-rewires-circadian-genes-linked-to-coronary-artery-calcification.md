@@ -9,12 +9,8 @@ description: >-
   calcium scoring serves as a biomarker of accelerated vascular aging.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - night shift circadian genes coronary calcification
-  - heart health
-  - lifestyle-chronobiology
 primaryKeyword: night shift circadian genes coronary calcification
-topicCluster: lifestyle-chronobiology
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60

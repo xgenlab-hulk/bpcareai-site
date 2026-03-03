@@ -1,14 +1,28 @@
 ---
-title: "The Truth About ‘Low-Sodium’ Canned Beans—Why 68% Still Contain Hidden Potassium Chloride That Blunts RAAS Inhibition in Adults on ACE Inhibitors"
-slug: "the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors"
-description: "Investigates how potassium-based salt substitutes interfere with angiotensin-converting enzyme inhibitor efficacy and increase hyperkalemia risk in stage 2 hypertension patients aged 60–74."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["low-sodium canned beans and ACE inhibitors", "blood pressure", "medication-diet-interactions"]
-primaryKeyword: "low-sodium canned beans and ACE inhibitors"
-topicCluster: "medication-diet-interactions"
-image: ""
-relatedSlugs: ["12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label", "natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62", "5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium", "the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension"]
+title: >-
+  The Truth About ‘Low-Sodium’ Canned Beans—Why 68% Still Contain Hidden
+  Potassium Chloride That Blunts RAAS Inhibition in Adults on ACE Inhibitors
+slug: >-
+  the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
+description: >-
+  Investigates how potassium-based salt substitutes interfere with
+  angiotensin-converting enzyme inhibitor efficacy and increase hyperkalemia
+  risk in stage 2 hypertension patients aged 60–74.
+date: '2025-12-29'
+updated: '2025-12-29'
+primaryKeyword: low-sodium canned beans and ACE inhibitors
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label
+  - >-
+    natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+  - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
 ---
 
 # What You Need to Know About Low-Sodium Canned Beans and ACE Inhibitors—Especially After Age 60

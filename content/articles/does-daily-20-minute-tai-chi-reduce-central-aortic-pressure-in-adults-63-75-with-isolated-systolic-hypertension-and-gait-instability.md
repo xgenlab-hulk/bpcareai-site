@@ -1,14 +1,29 @@
 ---
-title: "Does Daily 20-Minute Tai Chi Reduce Central Aortic Pressure in Adults 63–75 With Isolated Systolic Hypertension and Gait Instability?"
-slug: "does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability"
-description: "Reviews pulse wave velocity and central augmentation index outcomes from 12-week tai chi trials in older adults with ISH, emphasizing biomechanical load distribution and vagal tone modulation."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["tai chi central aortic pressure isolated systolic", "blood pressure", "mindful-exercise-hypertension"]
-primaryKeyword: "tai chi central aortic pressure isolated systolic"
-topicCluster: "mindful-exercise-hypertension"
-image: ""
-relatedSlugs: ["a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75", "a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension", "can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension", "a-vs-b-daily-10-minute-tai-chi-flow-vs-guided-heart-coherence-biofeedback-for-improving-24-hour-hrv-in-women-64-78-with-hypertension-and-perimenopausal-vasomotor-symptoms"]
+title: >-
+  Does Daily 20-Minute Tai Chi Reduce Central Aortic Pressure in Adults 63–75
+  With Isolated Systolic Hypertension and Gait Instability?
+slug: >-
+  does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability
+description: >-
+  Reviews pulse wave velocity and central augmentation index outcomes from
+  12-week tai chi trials in older adults with ISH, emphasizing biomechanical
+  load distribution and vagal tone modulation.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: tai chi central aortic pressure isolated systolic
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  - >-
+    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
+  - >-
+    can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension
+  - >-
+    a-vs-b-daily-10-minute-tai-chi-flow-vs-guided-heart-coherence-biofeedback-for-improving-24-hour-hrv-in-women-64-78-with-hypertension-and-perimenopausal-vasomotor-symptoms
 ---
 
 # Can Daily Tai Chi Lower Central Aortic Pressure in Older Adults with Isolated Systolic Hypertension?

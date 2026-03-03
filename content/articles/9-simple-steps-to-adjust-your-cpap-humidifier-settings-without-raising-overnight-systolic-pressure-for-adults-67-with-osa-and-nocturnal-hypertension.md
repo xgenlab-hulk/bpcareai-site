@@ -1,14 +1,30 @@
 ---
-title: "9 Simple Steps to Adjust Your CPAP Humidifier Settings *Without* Raising Overnight Systolic Pressure — For Adults 67+ With OSA and Nocturnal Hypertension"
-slug: "9-simple-steps-to-adjust-your-cpap-humidifier-settings-without-raising-overnight-systolic-pressure-for-adults-67-with-osa-and-nocturnal-hypertension"
-description: "Provides evidence-based humidification protocols that prevent airway drying-induced sympathetic activation and avoid inadvertent BP elevation during PAP therapy."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["cpap humidifier settings and nocturnal bp", "blood pressure", "sleep-device-physiology-optimization"]
-primaryKeyword: "cpap humidifier settings and nocturnal bp"
-topicCluster: "sleep-device-physiology-optimization"
-image: ""
-relatedSlugs: ["how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62", "quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp", "simple-steps-to-calibrate-your-home-blood-pressure-cuff-before-every-use-especially-when-ambient-humidity-exceeds-65-in-adults-69-with-salt-sensitive-hypertension", "how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef", "quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness"]
+title: >-
+  9 Simple Steps to Adjust Your CPAP Humidifier Settings *Without* Raising
+  Overnight Systolic Pressure — For Adults 67+ With OSA and Nocturnal
+  Hypertension
+slug: >-
+  9-simple-steps-to-adjust-your-cpap-humidifier-settings-without-raising-overnight-systolic-pressure-for-adults-67-with-osa-and-nocturnal-hypertension
+description: >-
+  Provides evidence-based humidification protocols that prevent airway
+  drying-induced sympathetic activation and avoid inadvertent BP elevation
+  during PAP therapy.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: cpap humidifier settings and nocturnal bp
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
+  - >-
+    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
+  - >-
+    simple-steps-to-calibrate-your-home-blood-pressure-cuff-before-every-use-especially-when-ambient-humidity-exceeds-65-in-adults-69-with-salt-sensitive-hypertension
+  - >-
+    how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef
+  - >-
+    quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness
 ---
 
 # How to Optimize Your CPAP Humidifier Settings and Support Healthy Nocturnal BP — A Gentle Guide for Adults 67+

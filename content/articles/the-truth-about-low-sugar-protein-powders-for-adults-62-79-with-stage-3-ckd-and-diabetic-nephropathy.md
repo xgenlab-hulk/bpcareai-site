@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Low-Sugar' Protein Powders for Adults 62–79 With Stage 3 CKD and Diabetic Nephropathy"
-slug: "the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy"
-description: "Analyzes hidden phosphorus load, glycemic index shifts from maltodextrin fillers, and amino acid profiles that may accelerate uremic toxin generation in compromised kidneys."
-date: "2026-01-16"
-updated: "2026-01-16"
-tags: ["low-sugar protein powder ckddiabetic nephropathy", "diabetes", "nutrition-renal"]
-primaryKeyword: "low-sugar protein powder ckddiabetic nephropathy"
-topicCluster: "nutrition-renal"
-image: ""
-relatedSlugs: ["dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd", "what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45", "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr", "the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives"]
+title: >-
+  The Truth About 'Low-Sugar' Protein Powders for Adults 62–79 With Stage 3 CKD
+  and Diabetic Nephropathy
+slug: >-
+  the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
+description: >-
+  Analyzes hidden phosphorus load, glycemic index shifts from maltodextrin
+  fillers, and amino acid profiles that may accelerate uremic toxin generation
+  in compromised kidneys.
+date: '2026-01-16'
+updated: '2026-01-16'
+primaryKeyword: low-sugar protein powder ckddiabetic nephropathy
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd
+  - >-
+    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
 ---
 
 # Choosing the Right Low-Sugar Protein Powder for Adults 62–79 With CKD Stage 3 and Diabetic Nephropathy

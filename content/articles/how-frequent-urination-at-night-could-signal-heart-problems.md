@@ -6,10 +6,6 @@ description: >-
   retention and reduced cardiac output.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - frequent urination at night and heart disease
-  - heart disease
-  - heart-health
 primaryKeyword: frequent urination at night and heart disease
 topicCluster: cardiovascular-health
 image: ''

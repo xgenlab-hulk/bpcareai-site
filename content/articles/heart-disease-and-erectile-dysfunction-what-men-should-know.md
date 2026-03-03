@@ -6,12 +6,8 @@ description: >-
   cardiovascular disease.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - erectile dysfunction as sign of heart disease
-  - heart disease
-  - heart-health
 primaryKeyword: erectile dysfunction as sign of heart disease
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - heart-disease-warning-signs-that-appear-years-in-advance

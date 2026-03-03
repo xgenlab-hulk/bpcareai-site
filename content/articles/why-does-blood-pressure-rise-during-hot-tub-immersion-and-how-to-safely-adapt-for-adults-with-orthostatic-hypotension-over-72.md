@@ -1,14 +1,27 @@
 ---
-title: "Why Does Blood Pressure Rise During Hot-Tub Immersion—And How to Safely Adapt for Adults With Orthostatic Hypotension Over 72?"
-slug: "why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72"
-description: "Explains thermoregulatory vasodilation, autonomic blunting, and baroreflex delay in aging—and offers stepwise acclimatization protocols for hydrotherapy use."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["hot-tub immersion blood pressure orthostatic hypotension", "blood pressure", "thermal-physiology-safety"]
-primaryKeyword: "hot-tub immersion blood pressure orthostatic hypotension"
-topicCluster: "thermal-physiology-safety"
-image: ""
-relatedSlugs: ["does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown", "why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely", "the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors", "can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors", "the-impact-of-hot-showers-on-blood-pressure-and-heart-rate"]
+title: >-
+  Why Does Blood Pressure Rise During Hot-Tub Immersion—And How to Safely Adapt
+  for Adults With Orthostatic Hypotension Over 72?
+slug: >-
+  why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+description: >-
+  Explains thermoregulatory vasodilation, autonomic blunting, and baroreflex
+  delay in aging—and offers stepwise acclimatization protocols for hydrotherapy
+  use.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: hot-tub immersion blood pressure orthostatic hypotension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
+  - >-
+    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
+  - the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
 ---
 
 # Understanding Hot-Tub Immersion Blood Pressure Changes in Adults With Orthostatic Hypotension Over 72

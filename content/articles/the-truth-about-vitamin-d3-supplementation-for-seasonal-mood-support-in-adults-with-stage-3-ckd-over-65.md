@@ -10,12 +10,8 @@ description: >-
   supplement marketing claims.
 date: '2025-12-26'
 updated: '2025-12-26'
-tags:
-  - vitamin d3 for seasonal depression with kidney disease
-  - seasonal depression in older adults
-  - nutrient-supplementation-ckd
 primaryKeyword: vitamin d3 for seasonal depression with kidney disease
-topicCluster: nutrient-supplementation-ckd
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter

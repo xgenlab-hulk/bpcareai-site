@@ -1,14 +1,29 @@
 ---
-title: "12 Foods That Support Endothelial Nitric Oxide Synthase Activity—Backed by RCTs in Adults 53–68 With Prehypertension"
-slug: "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension"
-description: "Lists dietary compounds (e.g., betaine-rich beets, epicatechin-dense cocoa, aged garlic) with mechanistic explanations and dosing thresholds shown to improve FMD and systolic dip."
-date: "2026-01-03"
-updated: "2026-01-03"
-tags: ["foods that boost nitric oxide synthase", "blood pressure", "endothelial-diet-therapeutics"]
-primaryKeyword: "foods that boost nitric oxide synthase"
-topicCluster: "endothelial-diet-therapeutics"
-image: ""
-relatedSlugs: ["natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60", "natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74", "7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max", "a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness"]
+title: >-
+  12 Foods That Support Endothelial Nitric Oxide Synthase Activity—Backed by
+  RCTs in Adults 53–68 With Prehypertension
+slug: >-
+  12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+description: >-
+  Lists dietary compounds (e.g., betaine-rich beets, epicatechin-dense cocoa,
+  aged garlic) with mechanistic explanations and dosing thresholds shown to
+  improve FMD and systolic dip.
+date: '2026-01-03'
+updated: '2026-01-03'
+primaryKeyword: foods that boost nitric oxide synthase
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
+  - >-
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+  - >-
+    7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+  - >-
+    a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness
 ---
 
 # 12 Science-Backed Foods That Boost Nitric Oxide Synthase—Especially for Adults 53–68 With Prehypertension

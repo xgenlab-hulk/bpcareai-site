@@ -1,0 +1,1506 @@
+{
+  "batch_id": 5,
+  "total_articles": 250,
+  "mappings": [
+    {
+      "slug": "5-things-every-caregiver-should-know-before-administering-nitroglycerin-to-someone-78-with-known-cad-and-mild-cognitive-impairment",
+      "old_cluster": "caregiver-safety",
+      "new_cluster": "medication-safety",
+      "rationale": "文章针对护理人员的药物管理安全"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a",
+      "old_cluster": "coronary-calcification",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "冠状动脉钙化是心血管健康的重要方面"
+    },
+    {
+      "slug": "12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy",
+      "old_cluster": "science-backed-cognitive-protection",
+      "new_cluster": "special-populations",
+      "rationale": "文章针对老年人的认知健康问题"
+    },
+    {
+      "slug": "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls",
+      "old_cluster": "autonomic-function-modulation",
+      "new_cluster": "hypertension-management",
+      "rationale": "高血压药物治疗是高血压管理的一部分"
+    },
+    {
+      "slug": "10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia",
+      "old_cluster": "diet-nutrition-autonomic-support",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "why-your-blood-pressure-spikes-during-video-calls-and-how-to-stabilize-it-with-micro-breathing-anchors-for-adults-60-73-with-social-anxiety",
+      "old_cluster": "digital-stress-response",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "when-to-worry-about-sudden-loss-of-exercise-tolerance-despite-stable-weight-and-resting-bp-in-adults-55-69-with-known-mitral-valve-prolapse",
+      "old_cluster": "structural-heart-red-flags",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "文章主题是运动和生活方式干预"
+    },
+    {
+      "slug": "when-to-worry-about-sudden-bp-drop-after-starting-sglt2-inhibitors-especially-in-adults-63-75-with-mild-ckd-and-orthostatic-symptoms",
+      "old_cluster": "pharmacodynamic-alert",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "when-to-worry-about-new-onset-palpitations-during-morning-meditation-in-adults-66-79-with-known-aortic-stenosis-and-mild-lvot-obstruction",
+      "old_cluster": "arrhythmia-triggers",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章主题是睡眠和昼夜节律健康"
+    },
+    {
+      "slug": "when-should-you-skip-the-holiday-ham-and-why-if-you-re-66-with-stage-2-chronic-kidney-disease-and-elevated-urea-nitrogen",
+      "old_cluster": "decision-making-renal-diet",
+      "new_cluster": "renal-health",
+      "rationale": "文章主题是肾脏健康"
+    },
+    {
+      "slug": "what-causes-recurrent-nighttime-palpitations-with-normal-ecgs-in-women-52-68-during-perimenopause-and-when-it-signals-early-atrial-fibrosis",
+      "old_cluster": "hormonal-cardiac-symptoms",
+      "new_cluster": "monitoring-technology",
+      "rationale": "文章主题是健康监测技术"
+    },
+    {
+      "slug": "warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction",
+      "old_cluster": "cardiac-remodeling-early-detection",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk",
+      "old_cluster": "warning-signs-hydration-risk",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别和诊断"
+    },
+    {
+      "slug": "vagal-breathing-central-systolic-pressure",
+      "old_cluster": "non-pharmacologic-hemodynamics",
+      "new_cluster": "mental-health-stress",
+      "rationale": "文章主题是心理健康和压力管理"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes",
+      "old_cluster": "truth-claims-digestive-diet",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration",
+      "old_cluster": "complete-guide-accessibility-diet",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "the-complete-guide-to-interpreting-cardiac-mri-t1-mapping-and-ecv-in-adults-63-77-with-unexplained-dyspnea-and-normal-echocardiograms",
+      "old_cluster": "advanced-imaging-literacy",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "tart-cherry-juice-vs-melatonin-for-blood-pressure",
+      "old_cluster": "sleep-intervention-comparison",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness",
+      "old_cluster": "morning-hemodynamics",
+      "new_cluster": "medication-safety",
+      "rationale": "文章针对护理人员的药物管理安全"
+    },
+    {
+      "slug": "myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55",
+      "old_cluster": "risk-stratification-myths",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "mitochondrial-biogenesis-diastolic-dysfunction",
+      "old_cluster": "cellular-cardiology",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "mitochondrial-biogenesis-after-overeating-seniors",
+      "old_cluster": "natural-remedies-metabolic-recovery",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes",
+      "old_cluster": "sleep-apnea-glycemic-progression",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-intermittent-social-isolation-during-winter-months-elevates-il-6-and-accelerates-atherosclerotic-plaque-instability-in-adults-65-81-with-prior-mi",
+      "old_cluster": "psychocardiology-seasonal",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章主题是睡眠和昼夜节律健康"
+    },
+    {
+      "slug": "how-intergenerational-recipe-sharing-affects-nutrient-density-in-holiday-meals-for-adults-54-65-with-early-sarcopenia-and-low-protein-intake",
+      "old_cluster": "lifestyle-engagement-nutrition",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "how-chronic-low-dose-corticosteroid-use-for-rheumatoid-arthritis-accelerates-coronary-endothelial-senescence-in-adults-55-69-with-normal-ldl",
+      "old_cluster": "medication-aging-cardio",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis",
+      "old_cluster": "easy-diet-modifications-autoimmune",
+      "new_cluster": "gastrointestinal-health",
+      "rationale": "文章主题是消化系统健康"
+    },
+    {
+      "slug": "does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy",
+      "old_cluster": "electrophysiology-supplements",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "cgm-vs-flash-glucose-monitoring-older-adults",
+      "old_cluster": "glucose-monitoring-comparison-geriatric",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision",
+      "old_cluster": "neuropathy-screening-tools",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别和诊断"
+    },
+    {
+      "slug": "ambulatory-blood-pressure-variability-interpretation",
+      "old_cluster": "advanced-monitoring-literacy",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy",
+      "old_cluster": "gender-specific-bone-nutrition",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program",
+      "old_cluster": "cognitive-cardiac-rehab",
+      "new_cluster": "special-populations",
+      "rationale": "文章针对老年人的认知健康问题"
+    },
+    {
+      "slug": "10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction",
+      "old_cluster": "vascular-glycocalyx",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score",
+      "old_cluster": "arterial-elasticity-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "when-to-worry-about-unexplained-weight-gain-despite-calorie-restriction-in-adults-53-69-with-new-onset-type-2-diabetes-and-subclinical-hypothyroidism",
+      "old_cluster": "endocrine-overlap-symptoms",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history",
+      "old_cluster": "gastrointestinal-emergency",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "what-causes-persistent-postprandial-hyperglycemia-after-low-carb-meals-in-adults-64-with-long-standing-diabetes-and-elevated-gdf-15-levels",
+      "old_cluster": "mitochondrial-glycemic-dysregulation",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-hypertensive-retinopathy-on-home-fundus-photos-and-when-to-see-a-retinal-specialist-if-you-re-68-with-uncontrolled-bp",
+      "old_cluster": "early-organ-damage",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别和诊断"
+    },
+    {
+      "slug": "warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy",
+      "old_cluster": "diet-nutrition-cardiac",
+      "new_cluster": "renal-health",
+      "rationale": "文章主题是肾脏健康"
+    },
+    {
+      "slug": "warning-signs-your-bp-meds-are-causing-subclinical-hyponatremia-especially-if-you-re-71-on-thiazides-and-taking-ssris",
+      "old_cluster": "medication-safety-alert",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别和诊断"
+    },
+    {
+      "slug": "turkey-preparation-gout-uric-acid-comparison",
+      "old_cluster": "renal-metabolic-comparison",
+      "new_cluster": "renal-health",
+      "rationale": "文章主题是肾脏健康"
+    },
+    {
+      "slug": "time-restricted-eating-hepatic-insulin-sensitivity",
+      "old_cluster": "circadian-liver-metabolism",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "the-truth-about-low-glycemic-breakfast-cereals-for-adults-55-with-prediabetes-and-gastric-bypass-history",
+      "old_cluster": "post-bariatric-glycemic-response",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "the-complete-guide-to-interpreting-your-cgm-s-time-in-range-metric-for-adults-75-with-fragile-glycemic-control-and-frequent-falls",
+      "old_cluster": "frailty-informed-cgm-interpretation",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history",
+      "old_cluster": "circadian-glucose-reset",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria",
+      "old_cluster": "digestive-physiology",
+      "new_cluster": "natural-remedies",
+      "rationale": "文章主题是天然疗法和补充剂"
+    },
+    {
+      "slug": "natural-ways-to-support-capillary-perfusion-without-vasodilators-for-adults-67-79-with-hypertension-mild-peripheral-artery-disease-and-cold-hands-feet",
+      "old_cluster": "microcirculation-support",
+      "new_cluster": "hypertension-management",
+      "rationale": "高血压药物治疗是高血压管理的一部分"
+    },
+    {
+      "slug": "myths-vs-facts-eating-less-sugar-alone-will-reverse-type-2-diabetes-in-adults-58-73-with-12-years-duration",
+      "old_cluster": "diabetes-reversal-myths-facts",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "low-dose-naltrexone-and-blood-pressure-arthritis",
+      "old_cluster": "immune-vascular-interface",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying",
+      "old_cluster": "lifestyle-metabolism",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access",
+      "old_cluster": "oral-systemic-diabetes-link",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-chronic-loneliness-after-retirement-affects-24-hour-blood-pressure-patterns-in-adults-62-78-with-preserved-ejection-fraction",
+      "old_cluster": "psychosocial-impact",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction",
+      "old_cluster": "gastrointestinal-metabolic-connection",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "fermented-foods-beta-cell-resilience-type-2-diabetes",
+      "old_cluster": "beta-cell-nutrition",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index",
+      "old_cluster": "nutraceutical-vascular-effects",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis",
+      "old_cluster": "low-impact-exercise-glycemic-response",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema",
+      "old_cluster": "monitoring-accuracy",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake",
+      "old_cluster": "androgen-metabolic-synergy",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment",
+      "old_cluster": "caregiver-nutrition-safety",
+      "new_cluster": "special-populations",
+      "rationale": "文章针对老年人的认知健康问题"
+    },
+    {
+      "slug": "5-things-every-adult-50-59-with-family-history-of-early-hypertension-should-know-before-their-first-home-bp-log",
+      "old_cluster": "genetic-risk-prevention",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis",
+      "old_cluster": "inflammatory-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes",
+      "old_cluster": "seasonal-glucose-management",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness",
+      "old_cluster": "arterial-stiffness-management",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "10-foods-that-disrupt-gut-microbiota-diversity-and-worsen-insulin-resistance-in-adults-54-66-with-type-2-diabetes-and-chronic-constipation",
+      "old_cluster": "microbiome-disruptors-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls",
+      "old_cluster": "thermoregulatory-safety",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring",
+      "old_cluster": "circadian-bp-rhythm",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71",
+      "old_cluster": "glucose-dysregulation-mechanisms",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine",
+      "old_cluster": "medication-monitoring-red-flags",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-baking-mixes-why-many-still-raise-a1c-in-adults-59-75-with-long-standing-diabetes",
+      "old_cluster": "food-labeling-misconceptions",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance",
+      "old_cluster": "masked-bp-risk",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension",
+      "old_cluster": "beverage-safety-hypertension",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes",
+      "old_cluster": "label-literacy-ckd-diabetes",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "the-complete-guide-to-managing-diabetic-gastroparesis-during-ramadan-fasting-in-adults-52-68-with-type-1-diabetes-and-autonomic-neuropathy",
+      "old_cluster": "religion-fasting",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "the-complete-guide-to-interpreting-your-home-bp-log-for-patterns-especially-if-you-re-60-and-tracking-after-antihypertensive-dose-changes",
+      "old_cluster": "bp-monitoring-literacy",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "right-ventricular-adaptation-copd-seniors",
+      "old_cluster": "natural-remedies-rv-pulmonary-vascular-function",
+      "new_cluster": "natural-remedies",
+      "rationale": "文章主题是天然疗法和补充剂"
+    },
+    {
+      "slug": "renin-angiotensin-balance-natural-support",
+      "old_cluster": "rns-system-nutrition",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa",
+      "old_cluster": "postprandial-bp-management",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养对血压的影响"
+    },
+    {
+      "slug": "quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin",
+      "old_cluster": "overnight-glucose-safety",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia",
+      "old_cluster": "medication-adjustment-time-zones",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying",
+      "old_cluster": "gastric-emptying-glucose-variability",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "hawthorn-vs-magnesium-holiday-heart",
+      "old_cluster": "natural-remedy-comparison",
+      "new_cluster": "natural-remedies",
+      "rationale": "文章主题是天然疗法和补充剂"
+    },
+    {
+      "slug": "does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency",
+      "old_cluster": "supplement-glucose-response",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment",
+      "old_cluster": "neuro-magnesium-bp",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history",
+      "old_cluster": "non-pharmacologic-intervention",
+      "new_cluster": "monitoring-technology",
+      "rationale": "文章主题是健康监测技术"
+    },
+    {
+      "slug": "best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design",
+      "old_cluster": "device-selection-travel",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio",
+      "old_cluster": "diastolic-bp-breathing",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia",
+      "old_cluster": "scenario-specific-travel-cardiac-risks",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging",
+      "old_cluster": "symptom-recognition-women",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish",
+      "old_cluster": "diet-nutrition-glycemic-triggers",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know",
+      "old_cluster": "menopause-bp-symptoms",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers",
+      "old_cluster": "caregiver-safety-neuropathy",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry",
+      "old_cluster": "behavioral-glucose-management",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv",
+      "old_cluster": "autonomic-regulation",
+      "new_cluster": "hypertension-management",
+      "rationale": "高血压药物治疗是高血压管理的一部分"
+    },
+    {
+      "slug": "12-holiday-foods-that-increase-cardiac-afterload-within-90-minutes-and-what-to-eat-instead-if-you-re-66-with-mild-lvh",
+      "old_cluster": "cardiac-diet-afterload",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression",
+      "old_cluster": "mental-health-glucose-link",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "why-blood-pressure-readings-jump-after-morning-coffee-especially-in-adults-58-72-with-slow-cyp1a2-metabolism-and-high-sodium-breakfasts",
+      "old_cluster": "caffeine-metabolism-and-bp",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals",
+      "old_cluster": "when-to-worry-neurological",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment",
+      "old_cluster": "symptom-recognition-cognitive",
+      "new_cluster": "special-populations",
+      "rationale": "文章针对老年人的认知健康问题"
+    },
+    {
+      "slug": "when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea",
+      "old_cluster": "emergency-symptom-timing",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别和诊断"
+    },
+    {
+      "slug": "warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term",
+      "old_cluster": "secondary-hypertension-clues",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "right-ventricular-fibrosis-galectin-3-warning-signs",
+      "old_cluster": "right-heart-fibrosis-early-detection",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别和诊断"
+    },
+    {
+      "slug": "quick-atrial-electrophysiology-normalization",
+      "old_cluster": "acute-intervention-protocol",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "one-bite-dessert-circadian-glucose-rhythm",
+      "old_cluster": "circadian-nutrition-disruption",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks",
+      "old_cluster": "pancreatic-resilience-stress",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp",
+      "old_cluster": "pulse-pressure-awareness",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome",
+      "old_cluster": "beverage-myth-debunking",
+      "new_cluster": "metabolic-syndrome-management",
+      "rationale": "文章主题是代谢综合征管理"
+    },
+    {
+      "slug": "myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity",
+      "old_cluster": "myths-vs-facts-sarcopenia",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "主题是运动对糖尿病的影响"
+    },
+    {
+      "slug": "how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64",
+      "old_cluster": "sedentary-work-physiology",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation",
+      "old_cluster": "circadian-cardiac-rhythm",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "文章讨论特定心脏疾病的管理"
+    },
+    {
+      "slug": "how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance",
+      "old_cluster": "stress-metabolism-link",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase",
+      "old_cluster": "circadian-glucose-light-therapy",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets",
+      "old_cluster": "gut-vascular-phenotype",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养对血压的影响"
+    },
+    {
+      "slug": "how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension",
+      "old_cluster": "alcohol-arrhythmia-mechanism",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv",
+      "old_cluster": "vagal-stimulation-arrhythmia",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章主题是睡眠和昼夜节律健康"
+    },
+    {
+      "slug": "can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes",
+      "old_cluster": "mindfulness-glucose-regulation",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index",
+      "old_cluster": "vagal-activation-protocols",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "cadmium-exposure-atrial-fibrillation-ryanodine-receptor",
+      "old_cluster": "heavy-metal-electrophysiology",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "文章讨论特定心脏疾病的管理"
+    },
+    {
+      "slug": "blood-pressure-management-for-adults-80-with-severe-orthostatic-hypotension-and-recurrent-syncope-not-just-sitting-sbp",
+      "old_cluster": "frail-elderly-bp-strategy",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome",
+      "old_cluster": "beverage-comparison-metabolic-response",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74",
+      "old_cluster": "light-therapy-comparison",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids",
+      "old_cluster": "polypharmacy-risks",
+      "new_cluster": "medication-safety",
+      "rationale": "文章针对护理人员的药物管理安全"
+    },
+    {
+      "slug": "10-quick-ways-to-reduce-sodium-load-in-traditional-holiday-side-dishes-without-losing-flavor-or-family-approval",
+      "old_cluster": "quick-fixes-sodium-management",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "10-foods-that-activate-endothelial-k-channels-kca2-3-kca3-1-to-promote-vasodilation-for-adults-60-with-endothelial-dysfunction-confirmed-by-fmd",
+      "old_cluster": "endothelial-ion-channel-nutrition",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress",
+      "old_cluster": "geriatric-feeding-safety",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin",
+      "old_cluster": "iron-metabolism-cardiac-function",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms",
+      "old_cluster": "warning-signs-conduction-system-disease",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别和诊断"
+    },
+    {
+      "slug": "when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction",
+      "old_cluster": "when-to-worry-cardiac-risk",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "what-research-says-about-intermittent-fasting-windows-and-left-ventricular-stiffness-in-men-58-67-with-early-diastolic-impairment",
+      "old_cluster": "science-research-diet-timing-cardiac-structure",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension",
+      "old_cluster": "procedure-specific-cardiac-autonomic-risks",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "the-complete-guide-to-interpreting-your-cardiac-mri-stress-perfusion-scan-especially-if-you-have-microvascular-angina-and-normal-coronary-angiogram",
+      "old_cluster": "mri-perfusion-microvascular-angina",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "silent-myocardial-infarction-ecg-patch-monitoring",
+      "old_cluster": "ai-diagnostics-silent-mi",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "quick-ways-to-restore-post-exercise-vascular-reactivity-after-cold-exposure-for-adults-68-with-raynaud-s-phenomenon-and-elevated-pulse-wave-velocity",
+      "old_cluster": "quick-recovery-cold-weather-vascular-function",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "文章主题是运动和生活方式干预"
+    },
+    {
+      "slug": "olive-oil-polyphenols-endothelial-repair-seniors",
+      "old_cluster": "truth-verification-food-quality-vascular-function",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd",
+      "old_cluster": "natural-remedies-mitochondria",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "主题是运动对糖尿病的影响"
+    },
+    {
+      "slug": "natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy",
+      "old_cluster": "natural-remedies-digestion",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "nasal-breathing-central-aortic-pressure",
+      "old_cluster": "respiratory-hemodynamics",
+      "new_cluster": "mental-health-stress",
+      "rationale": "文章主题是心理健康和压力管理"
+    },
+    {
+      "slug": "myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo",
+      "old_cluster": "asymptomatic-plaque-risk-misconceptions",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "morning-blood-pressure-surge-reduction",
+      "old_cluster": "circadian-morning-surge",
+      "new_cluster": "hypertension-management",
+      "rationale": "高血压药物治疗是高血压管理的一部分"
+    },
+    {
+      "slug": "mitochondrial-heart-health-meal-timing-seniors",
+      "old_cluster": "science-backed-mitochondrial-cardiac-energetics",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "left-atrial-appendage-flow-velocity-breathing",
+      "old_cluster": "laa-hemodynamics-thromboembolism",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "isometric-handgrip-tai-chi-central-aortic-pressure",
+      "old_cluster": "non-pharmacologic-blood-pressure-comparison",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "how-intergenerational-gift-giving-of-homemade-treats-affects-blood-glucose-variability-in-adults-55-69-with-prediabetes-and-slow-gastric-emptying",
+      "old_cluster": "family-dynamics-glycemic-impact",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history",
+      "old_cluster": "gut-vascular-axis",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养对血压的影响"
+    },
+    {
+      "slug": "how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation",
+      "old_cluster": "scenario-specific-swallowing-safety",
+      "new_cluster": "gastrointestinal-health",
+      "rationale": "文章主题是消化系统健康"
+    },
+    {
+      "slug": "does-daily-1-5-g-of-algal-dha-without-epa-improve-endothelial-dependent-vasodilation-in-women-59-75-with-hypertension-and-low-omega-3-index-4",
+      "old_cluster": "omega-3-endpoint-specificity",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "chewing-turkey-satiety-gastroparesis",
+      "old_cluster": "food-texture-physiology",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis",
+      "old_cluster": "exercise-mobility",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "air-travel-endothelial-glycocalyx-hypertension",
+      "old_cluster": "travel-hemodynamics-endothelium",
+      "new_cluster": "hypertension-management",
+      "rationale": "高血压药物治疗是高血压管理的一部分"
+    },
+    {
+      "slug": "7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea",
+      "old_cluster": "sleep-position-hemodynamics",
+      "new_cluster": "medication-safety",
+      "rationale": "文章主题是药物安全和管理"
+    },
+    {
+      "slug": "5-things-every-woman-over-65-with-type-2-diabetes-and-early-stage-osteoporosis-should-know-about-thiazolidinediones",
+      "old_cluster": "medications-bone-health",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning",
+      "old_cluster": "caregiver-support-cognitive-health",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance",
+      "old_cluster": "coronary-calcium-non-statin-strategies",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "冠状动脉钙化是心血管健康的重要指标"
+    },
+    {
+      "slug": "12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure",
+      "old_cluster": "diet-nutrition-safe-foods",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养对血压的影响"
+    },
+    {
+      "slug": "10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes",
+      "old_cluster": "diet-molecular-pathways",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism",
+      "old_cluster": "electrophysiology-medication-interaction",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "what-causes-sudden-loss-of-taste-during-stable-beta-blocker-therapy-in-adults-71-with-preserved-ejection-fraction-and-zinc-deficiency",
+      "old_cluster": "medication-side-effects-sensory",
+      "new_cluster": "medication-safety",
+      "rationale": "文章针对护理人员的药物管理安全"
+    },
+    {
+      "slug": "what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings",
+      "old_cluster": "causes-symptoms-fatigue",
+      "new_cluster": "natural-remedies",
+      "rationale": "文章主题是天然疗法和补充剂"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-holiday-induced-hydration-decline-in-adults-78-with-reduced-thirst-perception-and-chronic-constipation",
+      "old_cluster": "warning-signs-hydration",
+      "new_cluster": "medication-safety",
+      "rationale": "文章主题是药物安全和管理"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef",
+      "old_cluster": "infiltrative-cardiomyopathy-detection",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics",
+      "old_cluster": "warning-signs-electrolyte-risk",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别和诊断"
+    },
+    {
+      "slug": "warning-signs-your-bp-medication-is-causing-subclinical-cerebral-hypoperfusion-even-if-your-numbers-look-good-on-abpm",
+      "old_cluster": "cerebral-perfusion-risks",
+      "new_cluster": "hypertension-management",
+      "rationale": "高血压药物治疗是高血压管理的一部分"
+    },
+    {
+      "slug": "urolithin-a-mitochondrial-biogenesis-diabetic-cardiomyopathy",
+      "old_cluster": "nutraceutical-mitochondrial-therapy",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy",
+      "old_cluster": "nutrition-renal",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction",
+      "old_cluster": "dietary-fat-inflammatory-plaque",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis",
+      "old_cluster": "valvular-vascular-interaction",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety",
+      "old_cluster": "social-accessibility-dining",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "tai-chi-vs-heart-coherence-biofeedback-women",
+      "old_cluster": "comparison-lifestyle-interventions-women-heart-health",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia",
+      "old_cluster": "renal-diet-strategy",
+      "new_cluster": "renal-health",
+      "rationale": "文章主题是肾脏健康"
+    },
+    {
+      "slug": "natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation",
+      "old_cluster": "natural-remedies-inflammation",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy",
+      "old_cluster": "education-accessibility",
+      "new_cluster": "special-populations",
+      "rationale": "文章针对老年人的认知健康问题"
+    },
+    {
+      "slug": "intermittent-fasting-beta-cell-regeneration",
+      "old_cluster": "fasting-beta-cell",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "inhaled-steroids-gluconeogenesis-diabetes",
+      "old_cluster": "medications-lung-liver",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82",
+      "old_cluster": "scenario-specific-dining",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3",
+      "old_cluster": "metabolic-therapy-diastolic-function",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "breathing-patterns-right-atrial-pressure-seniors",
+      "old_cluster": "respiratory-cardiac-coupling",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "best-snack-pairings-to-stabilize-energy-and-mood-between-holiday-meals-for-men-60-72-with-late-onset-depression-and-low-testosterone",
+      "old_cluster": "nutrition-mental-health",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章主题是心血管健康"
+    },
+    {
+      "slug": "best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers",
+      "old_cluster": "footwear-biomechanics",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp",
+      "old_cluster": "lifestyle-modification-afib-management",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "冠状动脉钙化是心血管健康的重要方面"
+    },
+    {
+      "slug": "air-pollution-pancreatic-mitochondria-diabetes",
+      "old_cluster": "environment-endocrinology",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity",
+      "old_cluster": "a-vs-b-intervention-comparison",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp",
+      "old_cluster": "warning-signs-vascular-health",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "5-things-everyone-over-65-should-know-about-blood-pressure-medication-tapering-especially-if-you-re-on-dual-ras-blockade-and-have-declining-egfr",
+      "old_cluster": "pharmacologic-deprescribing",
+      "new_cluster": "medication-safety",
+      "rationale": "文章针对护理人员的药物管理安全"
+    },
+    {
+      "slug": "14-hidden-portion-traps-in-mini-holiday-treats-that-sabotage-blood-pressure-control-in-adults-69-with-salt-sensitive-hypertension",
+      "old_cluster": "portion-distortion-sodium",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease",
+      "old_cluster": "environmental-toxins-cardiovascular-risk",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "冠状动脉钙化是心血管健康的重要指标"
+    },
+    {
+      "slug": "wine-fasting-glucose-rebound-sleep-fragmentation",
+      "old_cluster": "alcohol-metabolic-sleep-interaction",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "why-blood-pressure-readings-vary-between-left-and-right-arms-in-adults-70-with-aortic-stiffness-and-asymmetric-carotid-intima-media-thickness",
+      "old_cluster": "vascular-aging-assessment",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use",
+      "old_cluster": "medication-safety",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing",
+      "old_cluster": "sleep-autonomic",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling",
+      "old_cluster": "positional-hemodynamics",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose",
+      "old_cluster": "complications-eyes",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities",
+      "old_cluster": "neurovascular-dysfunction",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk",
+      "old_cluster": "sodium-potassium-balance",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "salad-dressing-sodium-endothelial-stiffness",
+      "old_cluster": "hidden-ingredient-risk",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "pre-kitchen-glycemic-anchoring-insulin-resistance",
+      "old_cluster": "pre-exposure-metabolic-priming",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "post-dinner-snack-glucose-spike-prevention",
+      "old_cluster": "meal-timing-intervention",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "portion-distortion-family-dinner-prediabetes",
+      "old_cluster": "diet-nutrition-portion-cognition",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "nasal-breathing-baroreflex-diabetes",
+      "old_cluster": "breathing-autonomic",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "morning-vs-evening-walk-prediabetes",
+      "old_cluster": "exercise-timing",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "主题是运动对糖尿病的影响"
+    },
+    {
+      "slug": "mean-arterial-pressure-microalbuminuria-elderly",
+      "old_cluster": "subclinical-organ-damage",
+      "new_cluster": "renal-health",
+      "rationale": "文章主题是肾脏健康"
+    },
+    {
+      "slug": "meal-order-triglyceride-clearance-diabetes",
+      "old_cluster": "diet-mechanics",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "lead-exposure-resistant-hypertension",
+      "old_cluster": "environmental-toxicology-hypertension",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation",
+      "old_cluster": "stress-metabolism-interaction",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction",
+      "old_cluster": "seasonal-sympathetic-activation",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis",
+      "old_cluster": "autoimmunity-immunomodulation",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "主题是运动对糖尿病的影响"
+    },
+    {
+      "slug": "how-chronic-low-dose-cortisol-elevation-from-night-shift-work-alters-renin-angiotensin-feedback-loops-in-men-52-64-with-nocturnal-hypertension",
+      "old_cluster": "circadian-hypertension",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "gastric-acid-resilience-ppi-therapy-holiday-meals",
+      "old_cluster": "gastrointestinal-resilience",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "false-low-blood-pressure-reading-causes",
+      "old_cluster": "home-monitoring-accuracy",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "exercise-timing-blood-pressure-variability",
+      "old_cluster": "exercise-timing-comparison",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "cgm-edema-heart-failure-diuretics",
+      "old_cluster": "monitoring-accuracy",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "capillary-rarefaction-reversal-natural",
+      "old_cluster": "microvascular-regeneration",
+      "new_cluster": "hypertension-management",
+      "rationale": "高血压药物治疗是高血压管理的一部分"
+    },
+    {
+      "slug": "best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl",
+      "old_cluster": "arterial-compliance-support",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing",
+      "old_cluster": "medications-neurocognition",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension",
+      "old_cluster": "medication-safety",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "5-things-everyone-over-60-should-know-about-family-style-serving-and-its-impact-on-postprandial-blood-pressure-variability",
+      "old_cluster": "meal-structure-hemodynamics",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75",
+      "old_cluster": "blood-pressure-prevention",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp",
+      "old_cluster": "stress-metabolism-research",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy",
+      "old_cluster": "gut-brain-metabolism-link",
+      "new_cluster": "gastrointestinal-health",
+      "rationale": "文章主题是消化系统健康"
+    },
+    {
+      "slug": "what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension",
+      "old_cluster": "physiological-triggers-morning-routines",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-granola-bars-for-adults-with-stage-2-hypertension-and-mild-cognitive-impairment-aged-66-79",
+      "old_cluster": "food-labeling-cognitive-cardiac-overlap",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal",
+      "old_cluster": "food-labeling-literacy",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "tart-cherry-vs-melatonin-for-nighttime-glucose",
+      "old_cluster": "sleep-circadian-glucose",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation",
+      "old_cluster": "epigenetic-endothelial-support",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "quick-ways-to-reduce-post-exercise-diastolic-rebound-in-women-57-69-with-mild-diastolic-dysfunction-and-elevated-e-e-ratio",
+      "old_cluster": "exercise-recovery-safety",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "文章主题是运动和生活方式干预"
+    },
+    {
+      "slug": "quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues",
+      "old_cluster": "insulin-therapy-optimization",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "ppi-use-vitamin-b12-neuropathy-diabetes",
+      "old_cluster": "medications-gut-absorption",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "pancreatic-acinar-support-for-diabetics",
+      "old_cluster": "complications-exocrine-pancreas",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "natural-glucose-control-holiday-seniors",
+      "old_cluster": "non-pharmacologic-glucose-management",
+      "new_cluster": "medication-safety",
+      "rationale": "文章针对护理人员的药物管理安全"
+    },
+    {
+      "slug": "magnesium-threonate-vs-glycinate-nocturnal-bp-dipping",
+      "old_cluster": "supplement-timing-comparisons",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "lower-pulmonary-capillary-wedge-pressure-orthopnea",
+      "old_cluster": "acute-hemodynamic-posture",
+      "new_cluster": "medication-safety",
+      "rationale": "文章主题是药物安全和管理"
+    },
+    {
+      "slug": "low-dose-aspirin-prostacyclin-thromboxane-vasoconstriction",
+      "old_cluster": "medication-interactions-vascular",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "inulin-fos-for-glp-1-in-prediabetes",
+      "old_cluster": "diet-prebiotics-glp1",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "interpreting-ambulatory-blood-pressure-reports-sleep-apnea",
+      "old_cluster": "diagnostic-report-literacy",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "insulin-pump-lipohypertrophy-warning-signs",
+      "old_cluster": "treatment-pump-complications",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation",
+      "old_cluster": "circadian-metabolism",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "hot-bath-affects-glucose-monitor-accuracy",
+      "old_cluster": "monitoring-accuracy-factors",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "gum-inflammation-endothelial-nitric-oxide-synthase-coupling",
+      "old_cluster": "oral-systemic-vascular-link",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "forest-bathing-endothelial-progenitor-cells-hypertension",
+      "old_cluster": "nature-based-vascular-repair",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "fireplace-smoke-glucose-uptake-seniors-copd",
+      "old_cluster": "environmental-toxicity-metabolism",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是糖尿病饮食管理"
+    },
+    {
+      "slug": "can-daily-2-minute-toe-tap-sequencing-improve-capillary-refill-time-and-postprandial-glucose-clearance-in-women-63-79-with-diabetic-foot-ulcer-history",
+      "old_cluster": "exercise-microcirculation",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "brittle-diabetes-autonomic-neuropathy-guide",
+      "old_cluster": "treatment-brittle-patterns",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression",
+      "old_cluster": "respiratory-vascular-mechanics",
+      "new_cluster": "comprehensive-health-topics",
+      "rationale": "综合健康主题（无法明确分类）"
+    },
+    {
+      "slug": "a1c-reliability-with-low-albumin",
+      "old_cluster": "monitoring-a1c-limitations",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance",
+      "old_cluster": "neurocardiac-nutrition",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "7-hidden-blood-sugar-triggers-in-holiday-baking-ingredients-especially-for-women-58-72-with-long-standing-type-2-diabetes",
+      "old_cluster": "diet-nutrition-glycemic-response",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "winter-light-deprivation-glucose-rhythm",
+      "old_cluster": "seasonal-metabolic-rhythms",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主题是糖尿病管理"
+    },
+    {
+      "slug": "when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction",
+      "old_cluster": "medication-safety-monitoring",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction",
+      "old_cluster": "emergency-symptoms",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "主题是运动对糖尿病的影响"
+    },
+    {
+      "slug": "what-research-says-about-blood-pressure-variability-as-a-predictor-of-cognitive-decline-in-women-60-74-with-normal-mean-bp-but-high-visit-to-visit-sd",
+      "old_cluster": "neurovascular-cognitive-link",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    },
+    {
+      "slug": "warning-signs-your-blood-pressure-is-straining-your-aorta-especially-if-you-re-a-man-over-72-with-marfanoid-features-and-unexplained-back-pain",
+      "old_cluster": "aortic-structural-risk-signs",
+      "new_cluster": "hypertension-management",
+      "rationale": "文章主题是高血压管理"
+    }
+  ]
+}

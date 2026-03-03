@@ -33,7 +33,6 @@ export async function getAllArticlesMeta(): Promise<ArticleMeta[]> {
         primaryKeyword: matterResult.data.primaryKeyword || '',
         topicCluster: matterResult.data.topicCluster || '',
         image: matterResult.data.image || '',
-        tags: matterResult.data.tags || [],
         relatedSlugs: matterResult.data.relatedSlugs || [],
       } as ArticleMeta;
     });
@@ -73,7 +72,6 @@ export async function getArticleBySlug(slug: string): Promise<ArticleFull | null
       primaryKeyword: matterResult.data.primaryKeyword || '',
       topicCluster: matterResult.data.topicCluster || '',
       image: matterResult.data.image || '',
-      tags: matterResult.data.tags || [],
       relatedSlugs: matterResult.data.relatedSlugs || [],
       content: matterResult.content,
     };

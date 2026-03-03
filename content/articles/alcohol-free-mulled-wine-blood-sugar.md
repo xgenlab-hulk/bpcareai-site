@@ -1,14 +1,27 @@
 ---
-title: "10 Things You Should Know About Alcohol-Free Mulled Wine for Blood Sugar Control—Including Tannin Content, Spice Synergy, and Serving Temperature Effects"
-slug: "10-things-you-should-know-about-alcohol-free-mulled-wine-for-blood-sugar-control-including-tannin-content-spice-synergy-and-serving-temperature-effects"
-description: "Goes beyond 'no alcohol' to explore polyphenol bioavailability, glycemic index shifts with heat, and spice-driven AMPK activation in non-alcoholic holiday beverages."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["alcohol-free mulled wine blood sugar", "managing blood sugar during christmas and new year", "diet-nutrition-beverage-science"]
-primaryKeyword: "alcohol-free mulled wine blood sugar"
-topicCluster: "diet-nutrition-beverage-science"
-image: ""
-relatedSlugs: ["a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance", "the-truth-about-alcohol-and-blood-sugar-during-holiday-parties", "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose", "can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65"]
+title: >-
+  10 Things You Should Know About Alcohol-Free Mulled Wine for Blood Sugar
+  Control—Including Tannin Content, Spice Synergy, and Serving Temperature
+  Effects
+slug: >-
+  10-things-you-should-know-about-alcohol-free-mulled-wine-for-blood-sugar-control-including-tannin-content-spice-synergy-and-serving-temperature-effects
+description: >-
+  Goes beyond 'no alcohol' to explore polyphenol bioavailability, glycemic index
+  shifts with heat, and spice-driven AMPK activation in non-alcoholic holiday
+  beverages.
+date: '2026-01-06'
+updated: '2026-01-06'
+primaryKeyword: alcohol-free mulled wine blood sugar
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
+  - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+  - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
 ---
 
 # What You Need to Know About Alcohol-Free Mulled Wine and Blood Sugar—A Gentle Guide for the Holiday Season

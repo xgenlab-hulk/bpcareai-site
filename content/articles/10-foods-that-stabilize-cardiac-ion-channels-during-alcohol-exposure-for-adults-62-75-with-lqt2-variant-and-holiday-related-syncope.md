@@ -1,14 +1,28 @@
 ---
-title: "10 Foods That Stabilize Cardiac Ion Channels During Alcohol Exposure — For Adults 62–75 With LQT2 Variant and Holiday-Related Syncope"
-slug: "10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope"
-description: "Highlights potassium-, magnesium-, and omega-3-rich foods with proven effects on hERG channel kinetics and action potential duration — tailored to counteract alcohol’s QT-prolonging effects in genetically susceptible adults."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["foods stabilize cardiac ion channels alcohol", "holiday heart syndrome prevention", "ion-channel-nutrition"]
-primaryKeyword: "foods stabilize cardiac ion channels alcohol"
-topicCluster: "ion-channel-nutrition"
-image: ""
-relatedSlugs: ["the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias", "how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns", "10-foods-that-activate-endothelial-k-channels-kca2-3-kca3-1-to-promote-vasodilation-for-adults-60-with-endothelial-dysfunction-confirmed-by-fmd", "10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia", "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib"]
+title: >-
+  10 Foods That Stabilize Cardiac Ion Channels During Alcohol Exposure — For
+  Adults 62–75 With LQT2 Variant and Holiday-Related Syncope
+slug: >-
+  10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope
+description: >-
+  Highlights potassium-, magnesium-, and omega-3-rich foods with proven effects
+  on hERG channel kinetics and action potential duration — tailored to
+  counteract alcohol’s QT-prolonging effects in genetically susceptible adults.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: foods stabilize cardiac ion channels alcohol
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
+  - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+  - >-
+    10-foods-that-activate-endothelial-k-channels-kca2-3-kca3-1-to-promote-vasodilation-for-adults-60-with-endothelial-dysfunction-confirmed-by-fmd
+  - >-
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
 ---
 
 # Foods That Help Stabilize Cardiac Ion Channels During Alcohol Exposure — A Gentle Guide for Adults 62–75 With LQT2 and Holiday-Related Syncope

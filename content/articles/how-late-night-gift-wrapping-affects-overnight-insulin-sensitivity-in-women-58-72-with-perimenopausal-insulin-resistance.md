@@ -1,14 +1,28 @@
 ---
-title: "How Late-Night Gift Wrapping Affects Overnight Insulin Sensitivity in Women 58–72 With Perimenopausal Insulin Resistance"
-slug: "how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance"
-description: "Examines the circadian disruption caused by holiday-related nocturnal activity and its measurable impact on fasting glucose, HbA1c drift, and nocturnal hypoglycemia risk — with actionable timing adjustments."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["late-night activity insulin sensitivity women", "holiday diabetes management", "circadian-glucose-rhythms"]
-primaryKeyword: "late-night activity insulin sensitivity women"
-topicCluster: "circadian-glucose-rhythms"
-image: ""
-relatedSlugs: ["how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms", "how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation", "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks", "how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays"]
+title: >-
+  How Late-Night Gift Wrapping Affects Overnight Insulin Sensitivity in Women
+  58–72 With Perimenopausal Insulin Resistance
+slug: >-
+  how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance
+description: >-
+  Examines the circadian disruption caused by holiday-related nocturnal activity
+  and its measurable impact on fasting glucose, HbA1c drift, and nocturnal
+  hypoglycemia risk — with actionable timing adjustments.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: late-night activity insulin sensitivity women
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
+  - >-
+    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - >-
+    how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---
 
 # How Late-Night Activity Affects Insulin Sensitivity in Women 58–72 During the Holidays  

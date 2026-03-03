@@ -6,12 +6,8 @@ description: >-
   alcohol use after cardiac events or diagnoses.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - wine after heart issues holiday
-  - holiday heart syndrome prevention
-  - decision-guidance
 primaryKeyword: wine after heart issues holiday
-topicCluster: education-awareness
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

@@ -6,12 +6,8 @@ description: >-
   dizziness and falls in seniors.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - standing up fast and blood pressure drop elderly
-  - blood pressure
-  - cardiovascular-risk
 primaryKeyword: standing up fast and blood pressure drop elderly
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - is-low-blood-pressure-dangerous-for-seniors

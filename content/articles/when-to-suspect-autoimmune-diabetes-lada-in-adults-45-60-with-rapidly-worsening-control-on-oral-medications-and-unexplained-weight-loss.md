@@ -1,14 +1,29 @@
 ---
-title: "When to Suspect Autoimmune Diabetes (LADA) in Adults 45–60 With Rapidly Worsening Control on Oral Medications and Unexplained Weight Loss"
-slug: "when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss"
-description: "Guides primary care providers and patients through red-flag clinical patterns that differentiate late-onset autoimmune diabetes from typical type 2 — including GAD65 testing timing and insulin initiation rationale."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["LADA diagnosis adults 45 to 60", "diabetes", "diagnosis-differentiation"]
-primaryKeyword: "LADA diagnosis adults 45 to 60"
-topicCluster: "diagnosis-differentiation"
-image: ""
-relatedSlugs: ["when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement", "when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s", "when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving", "when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications", "how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis"]
+title: >-
+  When to Suspect Autoimmune Diabetes (LADA) in Adults 45–60 With Rapidly
+  Worsening Control on Oral Medications and Unexplained Weight Loss
+slug: >-
+  when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss
+description: >-
+  Guides primary care providers and patients through red-flag clinical patterns
+  that differentiate late-onset autoimmune diabetes from typical type 2 —
+  including GAD65 testing timing and insulin initiation rationale.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: LADA diagnosis adults 45 to 60
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement
+  - >-
+    when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
+  - >-
+    when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving
+  - >-
+    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
+  - >-
+    how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
 ---
 
 # When to Consider LADA Diagnosis Adults 45 to 60: A Gentle Guide for Patients and Providers

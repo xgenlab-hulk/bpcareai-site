@@ -6,12 +6,8 @@ description: >-
   blood pressure, with safer alternatives for heart-conscious seniors.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - hidden sodium in holiday foods seniors
-  - healthy holiday eating for seniors
-  - cardiac-diet
 primaryKeyword: hidden sodium in holiday foods seniors
-topicCluster: cardiovascular-health
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure

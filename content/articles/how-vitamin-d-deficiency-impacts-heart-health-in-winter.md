@@ -6,10 +6,6 @@ description: >-
   older adults.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - vitamin d deficiency and heart health winter seniors
-  - heart health
-  - heart-health
 primaryKeyword: vitamin d deficiency and heart health winter seniors
 topicCluster: cardiovascular-health
 image: ''

@@ -11,12 +11,8 @@ description: >-
   decline after 65 amplifies error margins.
 date: '2025-12-28'
 updated: '2025-12-28'
-tags:
-  - blood glucose monitor iron supplement interference
-  - diabetes
-  - glucose-monitoring-interference
 primaryKeyword: blood glucose monitor iron supplement interference
-topicCluster: glucose-monitoring-interference
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

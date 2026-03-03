@@ -1,14 +1,27 @@
 ---
-title: "10 Foods That Support Swallowing Safety During Holiday Meals for Seniors With Mild Dysphagia"
-slug: "10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia"
-description: "Highlights texture-modified, nutrient-dense options (e.g., velvety butternut bisque, gelatin-set fruit compote, moist herb-roasted chicken) aligned with ASHA’s IDDSI Level 4 guidelines."
-date: "2025-12-23"
-updated: "2025-12-23"
-tags: ["dysphagia-friendly holiday foods seniors", "healthy holiday eating for seniors", "swallowing-safety-nutrition"]
-primaryKeyword: "dysphagia-friendly holiday foods seniors"
-topicCluster: "swallowing-safety-nutrition"
-image: ""
-relatedSlugs: ["holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues", "best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods", "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors", "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70", "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd"]
+title: >-
+  10 Foods That Support Swallowing Safety During Holiday Meals for Seniors With
+  Mild Dysphagia
+slug: >-
+  10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
+description: >-
+  Highlights texture-modified, nutrient-dense options (e.g., velvety butternut
+  bisque, gelatin-set fruit compote, moist herb-roasted chicken) aligned with
+  ASHA’s IDDSI Level 4 guidelines.
+date: '2025-12-23'
+updated: '2025-12-23'
+primaryKeyword: dysphagia-friendly holiday foods seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
+  - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
+  - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
 ---
 
 # Dysphagia-Friendly Holiday Foods for Seniors: Safe, Flavorful, and Nutritious Celebrations

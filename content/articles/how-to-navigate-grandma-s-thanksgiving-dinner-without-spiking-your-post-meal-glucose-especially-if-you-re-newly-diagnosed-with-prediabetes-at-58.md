@@ -1,14 +1,28 @@
 ---
-title: "How to Navigate Grandma’s Thanksgiving Dinner Without Spiking Your Post-Meal Glucose—Especially If You’re Newly Diagnosed With Prediabetes at 58"
-slug: "how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58"
-description: "A step-by-step, plate-by-plate guide to making real-time food swaps, timing insulin or meds, and using fiber-first sequencing to blunt glucose spikes during multigenerational holiday meals."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["manage post-meal glucose at family dinners", "healthy eating during family gatherings", "prediabetes-glucose-management"]
-primaryKeyword: "manage post-meal glucose at family dinners"
-topicCluster: "prediabetes-glucose-management"
-image: ""
-relatedSlugs: ["how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55", "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings", "the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners", "the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome", "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control"]
+title: >-
+  How to Navigate Grandma’s Thanksgiving Dinner Without Spiking Your Post-Meal
+  Glucose—Especially If You’re Newly Diagnosed With Prediabetes at 58
+slug: >-
+  how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
+description: >-
+  A step-by-step, plate-by-plate guide to making real-time food swaps, timing
+  insulin or meds, and using fiber-first sequencing to blunt glucose spikes
+  during multigenerational holiday meals.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: manage post-meal glucose at family dinners
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+  - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
+  - >-
+    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
 ---
 
 # How to Manage Post-Meal Glucose at Family Dinners—A Calm, Confident Guide for Adults Newly Diagnosed with Prediabetes at 58

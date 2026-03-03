@@ -10,12 +10,8 @@ description: >-
   with actionable pre- and post-procedure safeguards.
 date: '2026-01-17'
 updated: '2026-01-17'
-tags:
-  - orthostatic tachycardia after dental anesthesia seniors
-  - heart health
-  - procedure-specific-cardiac-autonomic-risks
 primaryKeyword: orthostatic tachycardia after dental anesthesia seniors
-topicCluster: procedure-specific-cardiac-autonomic-risks
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

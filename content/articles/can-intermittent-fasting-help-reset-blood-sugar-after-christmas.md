@@ -6,12 +6,8 @@ description: >-
   recovering metabolic balance post-holiday.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - intermittent fasting after christmas
-  - managing blood sugar during Christmas and New Year
-  - treatment-options
 primaryKeyword: intermittent fasting after christmas
-topicCluster: medications-supplements
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal

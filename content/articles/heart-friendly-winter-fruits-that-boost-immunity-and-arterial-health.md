@@ -6,12 +6,8 @@ description: >-
   and fiber beneficial for heart and immune support.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - winter fruits heart health
-  - winter heart health for seniors
-  - cardiac-diet
 primaryKeyword: winter fruits heart health
-topicCluster: cardiovascular-health
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors

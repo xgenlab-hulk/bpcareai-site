@@ -6,12 +6,8 @@ description: >-
   impact on blood viscosity and cardiac output.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - winter hydration heart health
-  - winter heart health for seniors
-  - preventive-care
 primaryKeyword: winter hydration heart health
-topicCluster: preventive-care
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70

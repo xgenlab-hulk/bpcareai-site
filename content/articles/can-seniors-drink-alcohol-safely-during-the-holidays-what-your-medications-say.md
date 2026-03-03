@@ -8,12 +8,8 @@ description: >-
   during holiday celebrations and when it's safest to skip the toast.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - alcohol and medications for seniors holidays
-  - healthy holiday eating for seniors
-  - medications-supplements
 primaryKeyword: alcohol and medications for seniors holidays
-topicCluster: medications-supplements
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50

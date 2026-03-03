@@ -1,14 +1,28 @@
 ---
-title: "Natural Ways to Support Chewing Efficiency During Holiday Meals—Without Dentures or Supplements—for Adults 82+ With Sarcopenic Dysphagia"
-slug: "natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia"
-description: "Evidence-based texture-modification strategies, bite-size sequencing, and oral-motor priming techniques to maintain safe, satisfying holiday eating despite age-related masticatory decline."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["chewing efficiency holiday meals seniors", "healthy holiday eating for seniors", "oral-motor-nutrition"]
-primaryKeyword: "chewing efficiency holiday meals seniors"
-topicCluster: "oral-motor-nutrition"
-image: ""
-relatedSlugs: ["simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd", "natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia", "5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment", "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes", "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues"]
+title: >-
+  Natural Ways to Support Chewing Efficiency During Holiday Meals—Without
+  Dentures or Supplements—for Adults 82+ With Sarcopenic Dysphagia
+slug: >-
+  natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
+description: >-
+  Evidence-based texture-modification strategies, bite-size sequencing, and
+  oral-motor priming techniques to maintain safe, satisfying holiday eating
+  despite age-related masticatory decline.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: chewing efficiency holiday meals seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
+  - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+  - >-
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
+  - >-
+    quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
+  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
 ---
 
 # Supporting Chewing Efficiency During Holiday Meals for Seniors 82+—Gentle, Evidence-Based Strategies Without Dentures or Supplements

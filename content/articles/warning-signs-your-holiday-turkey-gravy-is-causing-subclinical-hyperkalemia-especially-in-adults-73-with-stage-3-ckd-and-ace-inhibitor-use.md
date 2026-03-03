@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your Holiday Turkey Gravy Is Causing Subclinical Hyperkalemia — Especially in Adults 73+ With Stage 3 CKD and ACE Inhibitor Use"
-slug: "warning-signs-your-holiday-turkey-gravy-is-causing-subclinical-hyperkalemia-especially-in-adults-73-with-stage-3-ckd-and-ace-inhibitor-use"
-description: "Details subtle neuromuscular red flags (e.g., muscle twitching after gravy, unexplained fatigue post-dinner) and explains why homemade gravy—despite no added salt—can concentrate potassium from drippings and thickeners."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["turkey gravy hyperkalemia warning signs seniors", "healthy holiday eating for seniors", "renal-potassium-toxicity-dietary"]
-primaryKeyword: "turkey gravy hyperkalemia warning signs seniors"
-topicCluster: "renal-potassium-toxicity-dietary"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy", "simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia", "when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion", "when-should-you-skip-the-holiday-ham-and-why-if-you-re-66-with-stage-2-chronic-kidney-disease-and-elevated-urea-nitrogen", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62"]
+title: >-
+  Warning Signs Your Holiday Turkey Gravy Is Causing Subclinical Hyperkalemia —
+  Especially in Adults 73+ With Stage 3 CKD and ACE Inhibitor Use
+slug: >-
+  warning-signs-your-holiday-turkey-gravy-is-causing-subclinical-hyperkalemia-especially-in-adults-73-with-stage-3-ckd-and-ace-inhibitor-use
+description: >-
+  Details subtle neuromuscular red flags (e.g., muscle twitching after gravy,
+  unexplained fatigue post-dinner) and explains why homemade gravy—despite no
+  added salt—can concentrate potassium from drippings and thickeners.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: turkey gravy hyperkalemia warning signs seniors
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
+  - >-
+    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
+  - >-
+    when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion
+  - >-
+    when-should-you-skip-the-holiday-ham-and-why-if-you-re-66-with-stage-2-chronic-kidney-disease-and-elevated-urea-nitrogen
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
 ---
 
 # Turkey Gravy Hyperkalemia Warning Signs in Seniors: What to Watch for During the Holidays

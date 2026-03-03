@@ -6,12 +6,8 @@ description: >-
   potential long-term implications if ignored.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - benign holiday palpitations truth
-  - holiday heart syndrome prevention
-  - myths-vs-facts
 primaryKeyword: benign holiday palpitations truth
-topicCluster: education-awareness
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

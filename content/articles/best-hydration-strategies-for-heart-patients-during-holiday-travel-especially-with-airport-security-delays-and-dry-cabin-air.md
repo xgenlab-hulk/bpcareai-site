@@ -1,14 +1,24 @@
 ---
-title: "Best Hydration Strategies for Heart Patients During Holiday Travel—Especially With Airport Security Delays and Dry Cabin Air"
-slug: "best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air"
-description: "Tailored hydration protocols accounting for diuretic timing, electrolyte balance, xerostomia risk, and TSA-compliant fluid access—designed for adults 60+ managing hypertension or heart failure across air, train, and car travel."
-date: "2025-12-19"
-updated: "2025-12-19"
-tags: ["hydration strategies heart patients holiday travel", "holiday heart syndrome prevention", "travel-hydration-cardiac-safety"]
-primaryKeyword: "hydration strategies heart patients holiday travel"
-topicCluster: "travel-hydration-cardiac-safety"
-image: ""
-relatedSlugs: ["simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70", "why-dehydration-at-holiday-events-may-worsen-heart-palpitations", "how-staying-hydrated-in-winter-protects-your-heart-after-70", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide", "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"]
+title: >-
+  Best Hydration Strategies for Heart Patients During Holiday Travel—Especially
+  With Airport Security Delays and Dry Cabin Air
+slug: >-
+  best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+description: >-
+  Tailored hydration protocols accounting for diuretic timing, electrolyte
+  balance, xerostomia risk, and TSA-compliant fluid access—designed for adults
+  60+ managing hypertension or heart failure across air, train, and car travel.
+date: '2025-12-19'
+updated: '2025-12-19'
+primaryKeyword: hydration strategies heart patients holiday travel
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
+  - how-staying-hydrated-in-winter-protects-your-heart-after-70
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
 ---
 
 # Smart Hydration Strategies for Heart Patients During Holiday Travel—Especially With Airport Delays and Dry Cabin Air

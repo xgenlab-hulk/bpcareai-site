@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Warm Spiced Apple Cider (Unsweetened, Stovetop Simmered) vs. Store-Bought ‘Diet’ Eggnog (Low-Fat, Sucralose-Sweetened) — Impact on Postprandial Endothelial Function in Adults 66–80 With Early Atherosclerosis"
-slug: "a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis"
-description: "Compares acute vascular reactivity responses (measured via fingertip pulse amplitude tonometry) after each beverage, highlighting polyphenol bioavailability vs. artificial sweetener–induced nitric oxide suppression."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["apple cider vs eggnog endothelial function seniors", "healthy holiday eating for seniors", "vascular-reactivity-beverage-comparison"]
-primaryKeyword: "apple cider vs eggnog endothelial function seniors"
-topicCluster: "vascular-reactivity-beverage-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance", "a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome", "a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af", "does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension", "what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes"]
+title: >-
+  A vs B: Warm Spiced Apple Cider (Unsweetened, Stovetop Simmered) vs.
+  Store-Bought ‘Diet’ Eggnog (Low-Fat, Sucralose-Sweetened) — Impact on
+  Postprandial Endothelial Function in Adults 66–80 With Early Atherosclerosis
+slug: >-
+  a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
+description: >-
+  Compares acute vascular reactivity responses (measured via fingertip pulse
+  amplitude tonometry) after each beverage, highlighting polyphenol
+  bioavailability vs. artificial sweetener–induced nitric oxide suppression.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: apple cider vs eggnog endothelial function seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
+  - >-
+    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
+  - >-
+    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
+  - >-
+    does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension
+  - >-
+    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
 ---
 
 # Apple Cider vs Eggnog Endothelial Function Seniors: What Your Holiday Drink Choice Really Does to Your Arteries

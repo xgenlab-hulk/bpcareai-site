@@ -1,14 +1,28 @@
 ---
-title: "7 Silent Signs Your Blood Pressure Is Spiking at Night—Especially If You’re on Beta-Blockers and Over 65"
-slug: "7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65"
-description: "Explores nocturnal hypertension red flags often missed during daytime checks, with focus on medication interactions, sleep-disordered breathing, and age-related autonomic changes."
-date: "2026-01-04"
-updated: "2026-01-04"
-tags: ["nocturnal blood pressure spikes signs", "blood pressure", "nighttime-hypertension-symptoms"]
-primaryKeyword: "nocturnal blood pressure spikes signs"
-topicCluster: "nighttime-hypertension-symptoms"
-image: ""
-relatedSlugs: ["7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night", "7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes", "when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss", "why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes"]
+title: >-
+  7 Silent Signs Your Blood Pressure Is Spiking at Night—Especially If You’re on
+  Beta-Blockers and Over 65
+slug: >-
+  7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
+description: >-
+  Explores nocturnal hypertension red flags often missed during daytime checks,
+  with focus on medication interactions, sleep-disordered breathing, and
+  age-related autonomic changes.
+date: '2026-01-04'
+updated: '2026-01-04'
+primaryKeyword: nocturnal blood pressure spikes signs
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+  - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+  - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
+  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 
 # What to Watch For: 7 Quiet Nocturnal Blood Pressure Spikes Signs—Especially After 65 and on Beta-Blockers

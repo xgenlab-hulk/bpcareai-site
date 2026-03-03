@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Pancreatic Beta-Cell Resilience Using Polyphenol-Rich Fermented Foods — For Adults 56–72 With Recent-Onset Type 2 Diabetes and High hs-CRP"
-slug: "natural-ways-to-support-pancreatic-beta-cell-resilience-using-polyphenol-rich-fermented-foods-for-adults-56-72-with-recent-onset-type-2-diabetes-and-high-hs-crp"
-description: "Reviews human and preclinical data on fermented black soybean, purple cabbage kimchi, and sourdough rye — focusing on Nrf2 activation, ER stress reduction, and postprandial insulin kinetics."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["fermented foods beta-cell resilience type 2 diabetes", "diabetes", "beta-cell-nutrition"]
-primaryKeyword: "fermented foods beta-cell resilience type 2 diabetes"
-topicCluster: "beta-cell-nutrition"
-image: ""
-relatedSlugs: ["natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing", "12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d", "natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks", "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina", "does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis"]
+title: >-
+  Natural Ways to Support Pancreatic Beta-Cell Resilience Using Polyphenol-Rich
+  Fermented Foods — For Adults 56–72 With Recent-Onset Type 2 Diabetes and High
+  hs-CRP
+slug: >-
+  natural-ways-to-support-pancreatic-beta-cell-resilience-using-polyphenol-rich-fermented-foods-for-adults-56-72-with-recent-onset-type-2-diabetes-and-high-hs-crp
+description: >-
+  Reviews human and preclinical data on fermented black soybean, purple cabbage
+  kimchi, and sourdough rye — focusing on Nrf2 activation, ER stress reduction,
+  and postprandial insulin kinetics.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: fermented foods beta-cell resilience type 2 diabetes
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
+  - >-
+    12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks
+  - >-
+    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+  - >-
+    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
 ---
 
 # Supporting Beta-Cell Resilience Naturally: How Fermented Foods Can Help Adults With Recent-Onset Type 2 Diabetes

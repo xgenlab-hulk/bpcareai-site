@@ -1,14 +1,23 @@
 ---
-title: "7 Hidden Causes of Nighttime Heart Palpitations in Women Over 55"
-slug: "7-hidden-causes-of-nighttime-heart-palpitations-in-women-over-55"
-description: "Explores lesser-known physiological, hormonal, and environmental triggers of nocturnal palpitations—especially during perimenopause and early postmenopause—beyond caffeine or anxiety."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["nighttime heart palpitations women over 55", "heart health", "symptoms-gender-specific"]
-primaryKeyword: "nighttime heart palpitations women over 55"
-topicCluster: "symptoms-gender-specific"
-image: ""
-relatedSlugs: ["should-you-worry-about-heart-palpitations-when-lying-down", "7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55", "heart-disease-symptoms-in-women-over-50-what-s-often-missed", "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60", "why-older-women-are-more-vulnerable-to-winter-heart-events"]
+title: 7 Hidden Causes of Nighttime Heart Palpitations in Women Over 55
+slug: 7-hidden-causes-of-nighttime-heart-palpitations-in-women-over-55
+description: >-
+  Explores lesser-known physiological, hormonal, and environmental triggers of
+  nocturnal palpitations—especially during perimenopause and early
+  postmenopause—beyond caffeine or anxiety.
+date: '2025-12-24'
+updated: '2025-12-24'
+primaryKeyword: nighttime heart palpitations women over 55
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - should-you-worry-about-heart-palpitations-when-lying-down
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+  - why-older-women-are-more-vulnerable-to-winter-heart-events
 ---
 
 # Understanding Nighttime Heart Palpitations in Women Over 55: Beyond the Usual Suspects

@@ -1,14 +1,29 @@
 ---
-title: "Why Your Afternoon Napping Habit Might Be Raising Fasting Glucose — Even With Normal Bedtime Snacks in Adults 65+ With Dawn Phenomenon"
-slug: "why-your-afternoon-napping-habit-might-be-raising-fasting-glucose-even-with-normal-bedtime-snacks-in-adults-65-with-dawn-phenomenon"
-description: "Explores how circadian misalignment from habitual afternoon naps disrupts hepatic glucose output and cortisol-glucagon crosstalk, with evidence-based timing adjustments for older adults."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["afternoon naps and fasting glucose in seniors", "diabetes", "circadian-rhythms-glucose"]
-primaryKeyword: "afternoon naps and fasting glucose in seniors"
-topicCluster: "circadian-rhythms-glucose"
-image: ""
-relatedSlugs: ["why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner", "12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon", "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "how-grandparenting-induced-sleep-fragmentation-alters-nocturnal-cortisol-rhythms-and-why-that-elevates-fasting-glucose-in-adults-66-with-type-2-diabetes"]
+title: >-
+  Why Your Afternoon Napping Habit Might Be Raising Fasting Glucose — Even With
+  Normal Bedtime Snacks in Adults 65+ With Dawn Phenomenon
+slug: >-
+  why-your-afternoon-napping-habit-might-be-raising-fasting-glucose-even-with-normal-bedtime-snacks-in-adults-65-with-dawn-phenomenon
+description: >-
+  Explores how circadian misalignment from habitual afternoon naps disrupts
+  hepatic glucose output and cortisol-glucagon crosstalk, with evidence-based
+  timing adjustments for older adults.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: afternoon naps and fasting glucose in seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+  - >-
+    12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    how-grandparenting-induced-sleep-fragmentation-alters-nocturnal-cortisol-rhythms-and-why-that-elevates-fasting-glucose-in-adults-66-with-type-2-diabetes
 ---
 
 # How Afternoon Naps and Fasting Glucose in Seniors Are Connected — Especially With Dawn Phenomenon

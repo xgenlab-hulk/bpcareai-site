@@ -1,14 +1,29 @@
 ---
-title: "Quick Ways to Prevent Overnight Hypoglycemia After Late-Night Holiday Dessert — For Adults 54–66 on Sulfonylureas or Basal Insulin"
-slug: "quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin"
-description: "Science-backed tactics: strategic protein+fat snacks, bedtime CGM alarms, delayed rapid-acting insulin dosing, and bedtime glucose thresholds — validated in ADA-endorsed overnight safety trials."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["prevent overnight hypoglycemia holiday dessert", "holiday diabetes management", "overnight-glucose-safety"]
-primaryKeyword: "prevent overnight hypoglycemia holiday dessert"
-topicCluster: "overnight-glucose-safety"
-image: ""
-relatedSlugs: ["why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks", "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65", "quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts", "what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history", "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone"]
+title: >-
+  Quick Ways to Prevent Overnight Hypoglycemia After Late-Night Holiday Dessert
+  — For Adults 54–66 on Sulfonylureas or Basal Insulin
+slug: >-
+  quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin
+description: >-
+  Science-backed tactics: strategic protein+fat snacks, bedtime CGM alarms,
+  delayed rapid-acting insulin dosing, and bedtime glucose thresholds —
+  validated in ADA-endorsed overnight safety trials.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: prevent overnight hypoglycemia holiday dessert
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
+  - >-
+    quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts
+  - >-
+    what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history
+  - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
 ---
 
 # Smart Strategies to Prevent Overnight Hypoglycemia After Holiday Dessert — For Adults 54–66 on Sulfonylureas or Basal Insulin

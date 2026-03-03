@@ -1,14 +1,30 @@
 ---
-title: "Does Cranberry Juice Really Worsen Blood Glucose Control in Adults 71+ With Diabetes and Recurrent UTIs? — Separating Proanthocyanidin Benefits From Fructose-Driven Endotoxin Translocation"
-slug: "does-cranberry-juice-really-worsen-blood-glucose-control-in-adults-71-with-diabetes-and-recurrent-utis-separating-proanthocyanidin-benefits-from-fructose-driven-endotoxin-translocation"
-description: "Analyzes urinary microbiome shifts, LPS serum levels, and postprandial glucose curves in a crossover trial of unsweetened vs. juice-based cranberry interventions in older adults with recurrent UTIs."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["cranberry juice blood glucose control", "holiday diabetes management", "infection-metabolism-interaction"]
-primaryKeyword: "cranberry juice blood glucose control"
-topicCluster: "infection-metabolism-interaction"
-image: ""
-relatedSlugs: ["does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk", "does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis", "what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel", "what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension", "a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes"]
+title: >-
+  Does Cranberry Juice Really Worsen Blood Glucose Control in Adults 71+ With
+  Diabetes and Recurrent UTIs? — Separating Proanthocyanidin Benefits From
+  Fructose-Driven Endotoxin Translocation
+slug: >-
+  does-cranberry-juice-really-worsen-blood-glucose-control-in-adults-71-with-diabetes-and-recurrent-utis-separating-proanthocyanidin-benefits-from-fructose-driven-endotoxin-translocation
+description: >-
+  Analyzes urinary microbiome shifts, LPS serum levels, and postprandial glucose
+  curves in a crossover trial of unsweetened vs. juice-based cranberry
+  interventions in older adults with recurrent UTIs.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: cranberry juice blood glucose control
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk
+  - >-
+    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
+  - >-
+    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
+  - >-
+    what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
+  - >-
+    a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes
 ---
 
 # Does Cranberry Juice Affect Blood Glucose Control in Adults 71+ With Diabetes and Recurrent UTIs?

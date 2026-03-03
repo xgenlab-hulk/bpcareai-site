@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Mitochondrial Biogenesis in Cardiac Myocytes After Age 65—Using Fasting-Mimicking Diets, Cold-Water Immersion Timing, and Specific Flavonoid Dosing"
-slug: "natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing"
-description: "Explains how age-related mitochondrial decline drives diastolic stiffness and energetic inefficiency—and how clinically tested non-pharmacologic strategies restore PGC-1α signaling and ATP turnover in aging heart muscle."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["mitochondrial biogenesis heart aging", "heart health", "cardiac-mitochondria-aging-interventions"]
-primaryKeyword: "mitochondrial biogenesis heart aging"
-topicCluster: "cardiac-mitochondria-aging-interventions"
-image: ""
-relatedSlugs: ["natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max", "how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study", "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib", "natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79"]
+title: >-
+  Natural Ways to Support Mitochondrial Biogenesis in Cardiac Myocytes After Age
+  65—Using Fasting-Mimicking Diets, Cold-Water Immersion Timing, and Specific
+  Flavonoid Dosing
+slug: >-
+  natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
+description: >-
+  Explains how age-related mitochondrial decline drives diastolic stiffness and
+  energetic inefficiency—and how clinically tested non-pharmacologic strategies
+  restore PGC-1α signaling and ATP turnover in aging heart muscle.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: mitochondrial biogenesis heart aging
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+  - >-
+    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
 ---
 
 # Supporting Mitochondrial Biogenesis in the Aging Heart: Gentle, Evidence-Inspired Strategies After 65

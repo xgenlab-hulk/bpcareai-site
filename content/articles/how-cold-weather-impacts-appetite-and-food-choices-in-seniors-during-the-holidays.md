@@ -9,12 +9,8 @@ description: >-
   for heavier foods—and how to eat mindfully despite it.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - cold weather appetite changes seniors
-  - healthy holiday eating for seniors
-  - seasonal-factors
 primaryKeyword: cold weather appetite changes seniors
-topicCluster: seasonal-health
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

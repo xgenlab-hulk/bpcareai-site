@@ -11,12 +11,8 @@ description: >-
   post-consumption.
 date: '2026-01-10'
 updated: '2026-01-10'
-tags:
-  - green bean casserole vs air-fried green beans
-  - healthy eating during family gatherings
-  - diabetic-retinopathy-cooking-methods
 primaryKeyword: green bean casserole vs air-fried green beans
-topicCluster: diabetic-retinopathy-cooking-methods
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

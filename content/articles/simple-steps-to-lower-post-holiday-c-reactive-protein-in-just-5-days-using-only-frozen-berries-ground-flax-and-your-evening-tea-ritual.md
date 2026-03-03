@@ -1,14 +1,29 @@
 ---
-title: "Simple Steps to Lower Post-Holiday C-Reactive Protein in Just 5 Days — Using Only Frozen Berries, Ground Flax, and Your Evening Tea Ritual"
-slug: "simple-steps-to-lower-post-holiday-c-reactive-protein-in-just-5-days-using-only-frozen-berries-ground-flax-and-your-evening-tea-ritual"
-description: "A clinically tested anti-inflammatory protocol leveraging polyphenol bioavailability, ALA conversion timing, and circadian-optimized polyphenol absorption windows."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["lower crp post-holiday seniors", "healthy holiday eating for seniors", "inflammation-diet-protocol"]
-primaryKeyword: "lower crp post-holiday seniors"
-topicCluster: "inflammation-diet-protocol"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72", "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis", "best-anti-inflammatory-holiday-snack-swaps-for-men-71-with-psoriatic-arthritis-and-elevated-crp-3-0-mg-l", "natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation", "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits"]
+title: >-
+  Simple Steps to Lower Post-Holiday C-Reactive Protein in Just 5 Days — Using
+  Only Frozen Berries, Ground Flax, and Your Evening Tea Ritual
+slug: >-
+  simple-steps-to-lower-post-holiday-c-reactive-protein-in-just-5-days-using-only-frozen-berries-ground-flax-and-your-evening-tea-ritual
+description: >-
+  A clinically tested anti-inflammatory protocol leveraging polyphenol
+  bioavailability, ALA conversion timing, and circadian-optimized polyphenol
+  absorption windows.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: lower crp post-holiday seniors
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
+  - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
+  - >-
+    best-anti-inflammatory-holiday-snack-swaps-for-men-71-with-psoriatic-arthritis-and-elevated-crp-3-0-mg-l
+  - >-
+    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
+  - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
 ---
 
 # How to Gently Lower CRP Post-Holiday Seniors — A 5-Day, Kitchen-First Approach

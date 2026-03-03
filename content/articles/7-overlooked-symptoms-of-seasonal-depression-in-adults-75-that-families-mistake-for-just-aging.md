@@ -1,14 +1,25 @@
 ---
-title: "7 Overlooked Symptoms of Seasonal Depression in Adults 75+ That Families Mistake for 'Just Aging'"
-slug: "7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging"
-description: "Explores subtle, atypical presentations of seasonal affective disorder in the oldest-old—including apathy, unexplained fatigue, and social withdrawal—distinct from normal aging or dementia progression."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["seasonal depression symptoms in adults 75+", "seasonal depression in older adults", "symptom-recognition-oldest-old"]
-primaryKeyword: "seasonal depression symptoms in adults 75+"
-topicCluster: "symptom-recognition-oldest-old"
-image: ""
-relatedSlugs: ["10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore", "the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know", "is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression", "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75"]
+title: >-
+  7 Overlooked Symptoms of Seasonal Depression in Adults 75+ That Families
+  Mistake for 'Just Aging'
+slug: >-
+  7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+description: >-
+  Explores subtle, atypical presentations of seasonal affective disorder in the
+  oldest-old—including apathy, unexplained fatigue, and social
+  withdrawal—distinct from normal aging or dementia progression.
+date: '2025-12-24'
+updated: '2025-12-24'
+primaryKeyword: seasonal depression symptoms in adults 75+
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - 10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - >-
+    is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
+  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
 ---
 
 # 7 Subtle Signs of Seasonal Depression in Adults 75+ That Families Often Mistake for “Just Getting Older”

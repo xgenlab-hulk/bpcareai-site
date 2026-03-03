@@ -1,14 +1,31 @@
 ---
-title: "12 Science-Backed Times to Pause Mid-Meal — Not Just Chew — To Activate Vagal Tone and Reduce Postprandial Inflammation in Adults 68+ With Rheumatoid Arthritis"
-slug: "12-science-backed-times-to-pause-mid-meal-not-just-chew-to-activate-vagal-tone-and-reduce-postprandial-inflammation-in-adults-68-with-rheumatoid-arthritis"
-description: "Details precisely timed 22-second breath-hold intervals (aligned with respiratory sinus arrhythmia peaks) during holiday meals — validated in a 2024 RCT measuring IL-6, CRP, and vagal HRV before/after dinner in seropositive RA patients."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["mid-meal pausing vagal tone rheumatoid arthritis", "healthy eating during family gatherings", "neuroimmunology-meal-timing"]
-primaryKeyword: "mid-meal pausing vagal tone rheumatoid arthritis"
-topicCluster: "neuroimmunology-meal-timing"
-image: ""
-relatedSlugs: ["natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69", "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance", "can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history", "quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76", "best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs"]
+title: >-
+  12 Science-Backed Times to Pause Mid-Meal — Not Just Chew — To Activate Vagal
+  Tone and Reduce Postprandial Inflammation in Adults 68+ With Rheumatoid
+  Arthritis
+slug: >-
+  12-science-backed-times-to-pause-mid-meal-not-just-chew-to-activate-vagal-tone-and-reduce-postprandial-inflammation-in-adults-68-with-rheumatoid-arthritis
+description: >-
+  Details precisely timed 22-second breath-hold intervals (aligned with
+  respiratory sinus arrhythmia peaks) during holiday meals — validated in a 2024
+  RCT measuring IL-6, CRP, and vagal HRV before/after dinner in seropositive RA
+  patients.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: mid-meal pausing vagal tone rheumatoid arthritis
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69
+  - >-
+    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+  - >-
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
+  - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+  - >-
+    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
 ---
 
 # When to Pause Mid-Meal for Calm, Clarity, and Joint Comfort: A Gentle Guide to Vagal Tone Support in Rheumatoid Arthritis

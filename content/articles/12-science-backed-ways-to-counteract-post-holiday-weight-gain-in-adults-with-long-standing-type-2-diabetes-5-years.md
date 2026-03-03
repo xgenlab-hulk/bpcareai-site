@@ -1,14 +1,25 @@
 ---
-title: "12 Science-Backed Ways to Counteract Post-Holiday Weight Gain in Adults With Long-Standing Type 2 Diabetes (5+ Years)"
-slug: "12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years"
-description: "Highlights strategies proven to preserve lean mass and metabolic flexibility—not just caloric restriction—including protein pacing, post-meal movement windows, and vagal tone support."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["prevent post-holiday weight gain diabetes", "holiday diabetes management", "metabolic-resilience-long-term-diabetes"]
-primaryKeyword: "prevent post-holiday weight gain diabetes"
-topicCluster: "metabolic-resilience-long-term-diabetes"
-image: ""
-relatedSlugs: ["how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60", "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes", "managing-type-2-diabetes-while-attending-back-to-back-holiday-parties", "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks", "how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes"]
+title: >-
+  12 Science-Backed Ways to Counteract Post-Holiday Weight Gain in Adults With
+  Long-Standing Type 2 Diabetes (5+ Years)
+slug: >-
+  12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+description: >-
+  Highlights strategies proven to preserve lean mass and metabolic
+  flexibility—not just caloric restriction—including protein pacing, post-meal
+  movement windows, and vagal tone support.
+date: '2025-12-25'
+updated: '2025-12-25'
+primaryKeyword: prevent post-holiday weight gain diabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
+  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # 12 Science-Backed Ways to Prevent Post-Holiday Weight Gain With Type 2 Diabetes (5+ Years)

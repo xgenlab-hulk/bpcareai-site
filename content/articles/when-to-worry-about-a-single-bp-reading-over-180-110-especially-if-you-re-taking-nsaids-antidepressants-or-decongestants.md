@@ -10,12 +10,8 @@ description: >-
   patients 55–79.
 date: '2025-12-29'
 updated: '2025-12-29'
-tags:
-  - single high blood pressure reading NSAIDs
-  - blood pressure
-  - hypertensive-urgency-triage
 primaryKeyword: single high blood pressure reading NSAIDs
-topicCluster: hypertensive-urgency-triage
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-

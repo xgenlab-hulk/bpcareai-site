@@ -11,12 +11,8 @@ description: >-
   >200g/day white rice.
 date: '2026-01-18'
 updated: '2026-01-18'
-tags:
-  - cadmium exposure atrial fibrillation ryanodine receptor
-  - heart disease
-  - heavy-metal-electrophysiology
 primaryKeyword: cadmium exposure atrial fibrillation ryanodine receptor
-topicCluster: heavy-metal-electrophysiology
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

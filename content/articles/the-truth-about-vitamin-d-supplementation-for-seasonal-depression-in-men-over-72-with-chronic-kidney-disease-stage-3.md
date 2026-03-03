@@ -1,14 +1,27 @@
 ---
-title: "The Truth About Vitamin D Supplementation for Seasonal Depression in Men Over 72 With Chronic Kidney Disease Stage 3"
-slug: "the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3"
-description: "Clarifies dosing thresholds, calcitriol conversion limitations, and PTH-driven mood correlations in CKD seniors—separating evidence from widespread supplementation myths."
-date: "2026-01-02"
-updated: "2026-01-02"
-tags: ["vitamin d supplementation seasonal depression kidney disease", "seasonal depression in older adults", "nutrient-metabolism-ckd"]
-primaryKeyword: "vitamin d supplementation seasonal depression kidney disease"
-topicCluster: "nutrient-metabolism-ckd"
-image: ""
-relatedSlugs: ["the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65", "the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents", "how-vitamin-d-deficiency-impacts-heart-health-in-winter", "can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors", "what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter"]
+title: >-
+  The Truth About Vitamin D Supplementation for Seasonal Depression in Men Over
+  72 With Chronic Kidney Disease Stage 3
+slug: >-
+  the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
+description: >-
+  Clarifies dosing thresholds, calcitriol conversion limitations, and PTH-driven
+  mood correlations in CKD seniors—separating evidence from widespread
+  supplementation myths.
+date: '2026-01-02'
+updated: '2026-01-02'
+primaryKeyword: vitamin d supplementation seasonal depression kidney disease
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
+  - >-
+    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
+  - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
 ---
 
 # Vitamin D Supplementation for Seasonal Depression in Men Over 72 With Chronic Kidney Disease: What the Science Really Says

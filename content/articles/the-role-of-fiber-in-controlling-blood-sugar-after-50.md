@@ -6,12 +6,8 @@ description: >-
   digestion in diabetics.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - high fiber diet for blood sugar control after 50
-  - diabetes
-  - diabetes-nutrition
 primaryKeyword: high fiber diet for blood sugar control after 50
-topicCluster: diabetes-care
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - meal-timing-strategies-for-better-blood-sugar-control-after-50

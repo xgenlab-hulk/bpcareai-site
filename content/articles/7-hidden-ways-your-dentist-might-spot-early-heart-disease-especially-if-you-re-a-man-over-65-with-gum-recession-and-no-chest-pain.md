@@ -1,14 +1,28 @@
 ---
-title: "7 Hidden Ways Your Dentist Might Spot Early Heart Disease—Especially If You’re a Man Over 65 With Gum Recession and No Chest Pain"
-slug: "7-hidden-ways-your-dentist-might-spot-early-heart-disease-especially-if-you-re-a-man-over-65-with-gum-recession-and-no-chest-pain"
-description: "Reveals oral-systemic connections including periodontal inflammation markers, carotid calcifications on dental X-rays, and microvascular changes detectable during routine exams."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["dentist detection of heart disease in men over 65", "heart health", "diagnostic-clues-oral-health"]
-primaryKeyword: "dentist detection of heart disease in men over 65"
-topicCluster: "diagnostic-clues-oral-health"
-image: ""
-relatedSlugs: ["how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense", "how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp", "the-hidden-link-between-gum-disease-and-heart-problems", "how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension", "7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62"]
+title: >-
+  7 Hidden Ways Your Dentist Might Spot Early Heart Disease—Especially If You’re
+  a Man Over 65 With Gum Recession and No Chest Pain
+slug: >-
+  7-hidden-ways-your-dentist-might-spot-early-heart-disease-especially-if-you-re-a-man-over-65-with-gum-recession-and-no-chest-pain
+description: >-
+  Reveals oral-systemic connections including periodontal inflammation markers,
+  carotid calcifications on dental X-rays, and microvascular changes detectable
+  during routine exams.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: dentist detection of heart disease in men over 65
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+  - the-hidden-link-between-gum-disease-and-heart-problems
+  - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
+  - >-
+    7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62
 ---
 
 # How Your Dentist Might Be the First to Notice Heart Trouble—Especially If You’re a Man Over 65 With Gum Recession

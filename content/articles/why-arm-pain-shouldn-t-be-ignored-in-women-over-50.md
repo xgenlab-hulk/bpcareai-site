@@ -6,12 +6,8 @@ description: >-
   women approaching menopause and beyond.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - arm pain and heart attack symptoms in women over 50
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: arm pain and heart attack symptoms in women over 50
-topicCluster: cardiovascular-health
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed

@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your 'Well-Controlled' Atrial Fibrillation Is Masking Early Cardiac Amyloidosis in Adults 68+ With Preserved EF and Unexplained Fatigue"
-slug: "warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue"
-description: "Identifies red-flag patterns—including disproportionate dyspnea vs. AF burden, low-voltage ECG despite normal LV thickness, and discordant TTR vs. NT-proBNP elevations—and explains next-step screening with bone-avid tracer imaging."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["atrial fibrillation cardiac amyloidosis signs", "heart disease", "rare-cardiomyopathy-detection"]
-primaryKeyword: "atrial fibrillation cardiac amyloidosis signs"
-topicCluster: "rare-cardiomyopathy-detection"
-image: ""
-relatedSlugs: ["red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue", "when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction", "what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef", "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction", "when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings"]
+title: >-
+  Warning Signs Your 'Well-Controlled' Atrial Fibrillation Is Masking Early
+  Cardiac Amyloidosis in Adults 68+ With Preserved EF and Unexplained Fatigue
+slug: >-
+  warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue
+description: >-
+  Identifies red-flag patterns—including disproportionate dyspnea vs. AF burden,
+  low-voltage ECG despite normal LV thickness, and discordant TTR vs. NT-proBNP
+  elevations—and explains next-step screening with bone-avid tracer imaging.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: atrial fibrillation cardiac amyloidosis signs
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
+  - >-
+    what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
 ---
 
 # Recognizing Early Cardiac Amyloidosis in Older Adults With Atrial Fibrillation — Even When EF Looks Normal

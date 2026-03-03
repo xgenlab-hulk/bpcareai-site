@@ -6,12 +6,8 @@ description: >-
   cardiovascular events.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - high fiber diet benefits for heart health over 60
-  - heart health
-  - heart-health
 primaryKeyword: high fiber diet benefits for heart health over 60
-topicCluster: cardiovascular-health
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

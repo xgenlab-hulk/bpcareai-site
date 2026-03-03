@@ -1,14 +1,28 @@
 ---
-title: "Why Your ‘Light’ Holiday Appetizer Plate May Be Raising Triglycerides More Than Dessert — The Hidden Fat Oxidation Block in Adults 58–69"
-slug: "why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69"
-description: "Reveals how low-protein, high-refined-fat appetizers (e.g., cheese boards, creamy dips) impair postprandial fat clearance in aging mitochondria—worse than moderate-sugar desserts for some."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["holiday appetizers triglycerides seniors", "healthy holiday eating for seniors", "lipid-metabolism-misconceptions"]
-primaryKeyword: "holiday appetizers triglycerides seniors"
-topicCluster: "lipid-metabolism-misconceptions"
-image: ""
-relatedSlugs: ["the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60", "warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55", "easy-heart-healthy-holiday-appetizers-under-150-calories", "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle"]
+title: >-
+  Why Your ‘Light’ Holiday Appetizer Plate May Be Raising Triglycerides More
+  Than Dessert — The Hidden Fat Oxidation Block in Adults 58–69
+slug: >-
+  why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
+description: >-
+  Reveals how low-protein, high-refined-fat appetizers (e.g., cheese boards,
+  creamy dips) impair postprandial fat clearance in aging mitochondria—worse
+  than moderate-sugar desserts for some.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: holiday appetizers triglycerides seniors
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+  - >-
+    warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
+  - easy-heart-healthy-holiday-appetizers-under-150-calories
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # Why Holiday Appetizers Triglycerides Seniors Deserve a Second Look This Season

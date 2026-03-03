@@ -6,12 +6,8 @@ description: >-
   dishes that help stabilize blood glucose without sacrificing flavor.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - holiday blood sugar swaps
-  - managing blood sugar during Christmas and New Year
-  - diabetic-diet
 primaryKeyword: holiday blood sugar swaps
-topicCluster: diabetes-care
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

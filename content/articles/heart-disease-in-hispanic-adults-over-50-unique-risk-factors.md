@@ -6,12 +6,8 @@ description: >-
   heart disease rates in this population.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - heart disease in Hispanic adults over 50
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: heart disease in Hispanic adults over 50
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection

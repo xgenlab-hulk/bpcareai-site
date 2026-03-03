@@ -1,14 +1,26 @@
 ---
-title: "5 Things Every Man Over 65 Taking Testosterone Replacement Should Know About Its Effect on Insulin Receptor Tyrosine Kinase Activity and Glucose Uptake Efficiency"
-slug: "5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency"
-description: "Details the molecular interplay between androgen therapy, skeletal muscle insulin signaling, and paradoxical hyperglycemia — plus biomarkers to monitor beyond A1c."
-date: "2026-03-01"
-updated: "2026-03-01"
-tags: ["testosterone therapy and insulin resistance", "diabetes", "hormone-therapy-interactions"]
-primaryKeyword: "testosterone therapy and insulin resistance"
-topicCluster: "hormone-therapy-interactions"
-image: ""
-relatedSlugs: ["testosterone-deficiency-muscle-glucose-uptake-men", "5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake", "testosterone-therapy-hepatic-glucose-production-seniors", "pcos-diabetes-menopause-androgen-decline", "insulin-receptor-kinase-natural-activation-seniors"]
+title: >-
+  5 Things Every Man Over 65 Taking Testosterone Replacement Should Know About
+  Its Effect on Insulin Receptor Tyrosine Kinase Activity and Glucose Uptake
+  Efficiency
+slug: >-
+  5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency
+description: >-
+  Details the molecular interplay between androgen therapy, skeletal muscle
+  insulin signaling, and paradoxical hyperglycemia — plus biomarkers to monitor
+  beyond A1c.
+date: '2026-03-01'
+updated: '2026-03-01'
+primaryKeyword: testosterone therapy and insulin resistance
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - testosterone-deficiency-muscle-glucose-uptake-men
+  - >-
+    5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake
+  - testosterone-therapy-hepatic-glucose-production-seniors
+  - pcos-diabetes-menopause-androgen-decline
+  - insulin-receptor-kinase-natural-activation-seniors
 ---
 
 # What Men Over 65 on Testosterone Therapy Need to Know About Insulin Resistance and Blood Sugar Control

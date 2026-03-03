@@ -10,12 +10,8 @@ description: >-
   numbers meaningfully.
 date: '2025-12-19'
 updated: '2025-12-19'
-tags:
-  - pharmacy blood pressure reading accuracy
-  - heart health
-  - monitoring-testing
 primaryKeyword: pharmacy blood pressure reading accuracy
-topicCluster: monitoring-testing
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ

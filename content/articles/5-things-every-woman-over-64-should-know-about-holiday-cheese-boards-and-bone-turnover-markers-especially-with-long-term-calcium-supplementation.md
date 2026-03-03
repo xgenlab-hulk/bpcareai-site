@@ -1,14 +1,28 @@
 ---
-title: "5 Things Every Woman Over 64 Should Know About Holiday Cheese Boards and Bone Turnover Markers — Especially With Long-Term Calcium Supplementation"
-slug: "5-things-every-woman-over-64-should-know-about-holiday-cheese-boards-and-bone-turnover-markers-especially-with-long-term-calcium-supplementation"
-description: "Examines how high-phosphorus, low-magnesium holiday cheeses interact with calcium metabolism, PTH, and bone resorption biomarkers in postmenopausal women with osteopenia."
-date: "2026-02-10"
-updated: "2026-02-10"
-tags: ["holiday cheese boards bone turnover markers women", "healthy holiday eating for seniors", "bone-health-women"]
-primaryKeyword: "holiday cheese boards bone turnover markers women"
-topicCluster: "bone-health-women"
-image: ""
-relatedSlugs: ["5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use", "5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking", "5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy", "when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use", "why-older-women-gain-weight-faster-during-the-holidays-after-menopause"]
+title: >-
+  5 Things Every Woman Over 64 Should Know About Holiday Cheese Boards and Bone
+  Turnover Markers — Especially With Long-Term Calcium Supplementation
+slug: >-
+  5-things-every-woman-over-64-should-know-about-holiday-cheese-boards-and-bone-turnover-markers-especially-with-long-term-calcium-supplementation
+description: >-
+  Examines how high-phosphorus, low-magnesium holiday cheeses interact with
+  calcium metabolism, PTH, and bone resorption biomarkers in postmenopausal
+  women with osteopenia.
+date: '2026-02-10'
+updated: '2026-02-10'
+primaryKeyword: holiday cheese boards bone turnover markers women
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use
+  - >-
+    5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
+  - >-
+    5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy
+  - >-
+    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
+  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 
 # What Holiday Cheese Boards Mean for Your Bones: Key Insights on Bone Turnover Markers for Women Over 64

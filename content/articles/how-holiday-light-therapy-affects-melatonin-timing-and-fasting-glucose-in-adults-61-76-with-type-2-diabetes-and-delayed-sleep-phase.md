@@ -1,14 +1,29 @@
 ---
-title: "How Holiday Light Therapy Affects Melatonin Timing and Fasting Glucose in Adults 61–76 With Type 2 Diabetes and Delayed Sleep Phase"
-slug: "how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase"
-description: "Examines blue-enriched light exposure timing, MTNR1B gene variants, and downstream effects on hepatic glucose production — with practical 30-minute protocol recommendations and safety cautions."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["holiday light therapy fasting glucose", "holiday diabetes management", "circadian-glucose-light-therapy"]
-primaryKeyword: "holiday light therapy fasting glucose"
-topicCluster: "circadian-glucose-light-therapy"
-image: ""
-relatedSlugs: ["does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression", "12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols", "how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it", "how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms", "how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes"]
+title: >-
+  How Holiday Light Therapy Affects Melatonin Timing and Fasting Glucose in
+  Adults 61–76 With Type 2 Diabetes and Delayed Sleep Phase
+slug: >-
+  how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
+description: >-
+  Examines blue-enriched light exposure timing, MTNR1B gene variants, and
+  downstream effects on hepatic glucose production — with practical 30-minute
+  protocol recommendations and safety cautions.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: holiday light therapy fasting glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
+  - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+  - >-
+    how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
+  - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # How Holiday Light Therapy Affects Fasting Glucose in Older Adults with Type 2 Diabetes and Delayed Sleep Phase

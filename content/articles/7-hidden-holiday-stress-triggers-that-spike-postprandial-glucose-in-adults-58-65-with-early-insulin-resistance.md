@@ -1,14 +1,25 @@
 ---
-title: "7 Hidden Holiday Stress Triggers That Spike Postprandial Glucose in Adults 58–65 With Early Insulin Resistance"
-slug: "7-hidden-holiday-stress-triggers-that-spike-postprandial-glucose-in-adults-58-65-with-early-insulin-resistance"
-description: "Explores overlooked seasonal stressors — like gift-wrapping marathons, last-minute travel logistics, and family conflict anticipation — and their direct impact on insulin sensitivity and glucose excursions after meals."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["holiday stress and blood sugar spikes", "holiday diabetes management", "stress-glucose-dynamics"]
-primaryKeyword: "holiday stress and blood sugar spikes"
-topicCluster: "stress-glucose-dynamics"
-image: ""
-relatedSlugs: ["the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes"]
+title: >-
+  7 Hidden Holiday Stress Triggers That Spike Postprandial Glucose in Adults
+  58–65 With Early Insulin Resistance
+slug: >-
+  7-hidden-holiday-stress-triggers-that-spike-postprandial-glucose-in-adults-58-65-with-early-insulin-resistance
+description: >-
+  Explores overlooked seasonal stressors — like gift-wrapping marathons,
+  last-minute travel logistics, and family conflict anticipation — and their
+  direct impact on insulin sensitivity and glucose excursions after meals.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: holiday stress and blood sugar spikes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
 ---
 
 # How Holiday Stress and Blood Sugar Spikes Interact in Adults 58–65 With Early Insulin Resistance

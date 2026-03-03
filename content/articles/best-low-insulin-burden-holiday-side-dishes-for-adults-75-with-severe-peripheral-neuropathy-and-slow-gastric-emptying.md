@@ -1,14 +1,30 @@
 ---
-title: "Best Low-Insulin-Burden Holiday Side Dishes for Adults 75+ With Severe Peripheral Neuropathy and Slow Gastric Emptying"
-slug: "best-low-insulin-burden-holiday-side-dishes-for-adults-75-with-severe-peripheral-neuropathy-and-slow-gastric-emptying"
-description: "Features 5 clinically optimized side dishes — emphasizing resistant starch, soluble fiber, low-FODMAP prep, and thermal stability — designed to minimize glycemic load while supporting gastric motilin signaling and nerve nutrient delivery."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["low insulin burden holiday sides neuropathy", "holiday diabetes management", "neuropathy-gastric-diet"]
-primaryKeyword: "low insulin burden holiday sides neuropathy"
-topicCluster: "neuropathy-gastric-diet"
-image: ""
-relatedSlugs: ["best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation", "best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c", "best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required", "best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation", "5-things-you-should-know-before-bringing-a-diabetes-safe-side-dish-to-thanksgiving-especially-if-you-re-cooking-for-someone-with-gastroparesis"]
+title: >-
+  Best Low-Insulin-Burden Holiday Side Dishes for Adults 75+ With Severe
+  Peripheral Neuropathy and Slow Gastric Emptying
+slug: >-
+  best-low-insulin-burden-holiday-side-dishes-for-adults-75-with-severe-peripheral-neuropathy-and-slow-gastric-emptying
+description: >-
+  Features 5 clinically optimized side dishes — emphasizing resistant starch,
+  soluble fiber, low-FODMAP prep, and thermal stability — designed to minimize
+  glycemic load while supporting gastric motilin signaling and nerve nutrient
+  delivery.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: low insulin burden holiday sides neuropathy
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
+  - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+  - >-
+    5-things-you-should-know-before-bringing-a-diabetes-safe-side-dish-to-thanksgiving-especially-if-you-re-cooking-for-someone-with-gastroparesis
 ---
 
 # Gentle Holiday Sides for Nerve Health & Digestive Comfort: Low Insulin Burden Holiday Sides Neuropathy Made Simple

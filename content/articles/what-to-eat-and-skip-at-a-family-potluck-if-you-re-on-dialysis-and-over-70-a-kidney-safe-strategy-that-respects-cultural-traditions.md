@@ -1,14 +1,30 @@
 ---
-title: "What to Eat (and Skip) at a Family Potluck If You’re on Dialysis and Over 70—A Kidney-Safe Strategy That Respects Cultural Traditions"
-slug: "what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions"
-description: "Practical, culturally intelligent guidance for navigating shared meals with chronic kidney disease—including safe portioning of holiday proteins, potassium-balanced swaps for sweet potatoes and greens, and how to politely decline without offending elders."
-date: "2026-01-10"
-updated: "2026-01-10"
-tags: ["kidney-friendly potluck food for seniors", "healthy eating during family gatherings", "ckd-diet-culture"]
-primaryKeyword: "kidney-friendly potluck food for seniors"
-topicCluster: "ckd-diet-culture"
-image: ""
-relatedSlugs: ["a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease", "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70", "can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide", "how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes"]
+title: >-
+  What to Eat (and Skip) at a Family Potluck If You’re on Dialysis and Over 70—A
+  Kidney-Safe Strategy That Respects Cultural Traditions
+slug: >-
+  what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
+description: >-
+  Practical, culturally intelligent guidance for navigating shared meals with
+  chronic kidney disease—including safe portioning of holiday proteins,
+  potassium-balanced swaps for sweet potatoes and greens, and how to politely
+  decline without offending elders.
+date: '2026-01-10'
+updated: '2026-01-10'
+primaryKeyword: kidney-friendly potluck food for seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
+  - >-
+    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
+  - >-
+    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
 ---
 
 # Kidney-Friendly Potluck Food for Seniors: A Warm, Wise Guide for Dialysis Patients Over 70

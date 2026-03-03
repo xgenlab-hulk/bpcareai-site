@@ -6,12 +6,8 @@ description: >-
   function without straining the heart in cold weather.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - safe winter exercises seniors
-  - winter heart health for seniors
-  - exercise-activity
 primaryKeyword: safe winter exercises seniors
-topicCluster: physical-activity
+topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter

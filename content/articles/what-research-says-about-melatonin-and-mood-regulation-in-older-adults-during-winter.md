@@ -9,12 +9,8 @@ description: >-
   its role in seasonal affective symptoms.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - melatonin and seasonal depression research
-  - seasonal depression in older adults
-  - science-research
 primaryKeyword: melatonin and seasonal depression research
-topicCluster: evidence-research
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60

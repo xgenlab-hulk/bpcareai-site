@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Warm Herbal Tea *Before* Dinner vs. *After* Dinner for Postprandial Glucose in Adults 61+ With Early Beta-Cell Decline"
-slug: "a-vs-b-warm-herbal-tea-before-dinner-vs-after-dinner-for-postprandial-glucose-in-adults-61-with-early-beta-cell-decline"
-description: "Compares timing effects of ginger-cinnamon tea on gastric emptying rate, GLP-1 secretion, and 2-hour glucose AUC—based on a 2023 pilot RCT in older prediabetic adults."
-date: "2026-02-17"
-updated: "2026-02-17"
-tags: ["herbal tea timing postprandial glucose", "healthy holiday eating for seniors", "meal-timing-interventions"]
-primaryKeyword: "herbal tea timing postprandial glucose"
-topicCluster: "meal-timing-interventions"
-image: ""
-relatedSlugs: ["12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia", "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance", "12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying", "a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia", "a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity"]
+title: >-
+  A vs B: Warm Herbal Tea *Before* Dinner vs. *After* Dinner for Postprandial
+  Glucose in Adults 61+ With Early Beta-Cell Decline
+slug: >-
+  a-vs-b-warm-herbal-tea-before-dinner-vs-after-dinner-for-postprandial-glucose-in-adults-61-with-early-beta-cell-decline
+description: >-
+  Compares timing effects of ginger-cinnamon tea on gastric emptying rate, GLP-1
+  secretion, and 2-hour glucose AUC—based on a 2023 pilot RCT in older
+  prediabetic adults.
+date: '2026-02-17'
+updated: '2026-02-17'
+primaryKeyword: herbal tea timing postprandial glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying
+  - >-
+    a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
+  - >-
+    a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity
 ---
 
 # Herbal Tea Timing Postprandial Glucose: Does Ginger-Cinnamon Tea Work Better Before or After Dinner for Adults 61+?

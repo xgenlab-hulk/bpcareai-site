@@ -6,12 +6,8 @@ description: >-
   the frequency of holiday-triggered palpitations.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - mindfulness holiday arrhythmia
-  - holiday heart syndrome prevention
-  - natural-remedies
 primaryKeyword: mindfulness holiday arrhythmia
-topicCluster: treatment-interventions
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday

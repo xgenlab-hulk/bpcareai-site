@@ -1,14 +1,30 @@
 ---
-title: "Quick Ways to Reduce Post-Meal Oxidative Stress Within 45 Minutes — For Adults 68+ With COPD and Long-Standing Smoking History"
-slug: "quick-ways-to-reduce-post-meal-oxidative-stress-within-45-minutes-for-adults-68-with-copd-and-long-standing-smoking-history"
-description: "Presents evidence-based, non-supplement interventions: targeted breathing sequences (4-7-8 with diaphragmatic engagement), chilled green tea rinse timing, and cold-exposed hand immersion — all tested via plasma 8-OHdG reduction."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["reduce oxidative stress post-meal copd", "healthy eating during family gatherings", "respiratory-oxidative-stress"]
-primaryKeyword: "reduce oxidative stress post-meal copd"
-topicCluster: "respiratory-oxidative-stress"
-image: ""
-relatedSlugs: ["quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration", "12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis", "quick-ways-to-normalize-post-gathering-cortisol-within-45-minutes-using-breathwork-cold-facial-immersion-validated-in-adults-60-75", "quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76", "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits"]
+title: >-
+  Quick Ways to Reduce Post-Meal Oxidative Stress Within 45 Minutes — For Adults
+  68+ With COPD and Long-Standing Smoking History
+slug: >-
+  quick-ways-to-reduce-post-meal-oxidative-stress-within-45-minutes-for-adults-68-with-copd-and-long-standing-smoking-history
+description: >-
+  Presents evidence-based, non-supplement interventions: targeted breathing
+  sequences (4-7-8 with diaphragmatic engagement), chilled green tea rinse
+  timing, and cold-exposed hand immersion — all tested via plasma 8-OHdG
+  reduction.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: reduce oxidative stress post-meal copd
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
+  - >-
+    12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis
+  - >-
+    quick-ways-to-normalize-post-gathering-cortisol-within-45-minutes-using-breathwork-cold-facial-immersion-validated-in-adults-60-75
+  - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+  - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
 ---
 
 # Quick, Gentle Ways to Reduce Oxidative Stress Post-Meal in COPD — Especially After Years of Smoking

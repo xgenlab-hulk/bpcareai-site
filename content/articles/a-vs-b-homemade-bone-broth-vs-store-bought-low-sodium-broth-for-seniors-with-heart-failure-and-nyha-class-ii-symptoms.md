@@ -1,14 +1,28 @@
 ---
-title: "A vs B: Homemade Bone Broth vs Store-Bought 'Low-Sodium' Broth for Seniors With Heart Failure and NYHA Class II Symptoms"
-slug: "a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms"
-description: "Head-to-head comparison of sodium load, collagen bioavailability, and histamine content—plus preparation tips to maximize cardiac and gut benefits without exacerbating fluid retention or orthostatic hypotension."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["bone broth heart failure seniors", "healthy holiday eating for seniors", "cardiac-fluid-management"]
-primaryKeyword: "bone broth heart failure seniors"
-topicCluster: "cardiac-fluid-management"
-image: ""
-relatedSlugs: ["the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72", "a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics", "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs", "can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown", "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure"]
+title: >-
+  A vs B: Homemade Bone Broth vs Store-Bought 'Low-Sodium' Broth for Seniors
+  With Heart Failure and NYHA Class II Symptoms
+slug: >-
+  a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
+description: >-
+  Head-to-head comparison of sodium load, collagen bioavailability, and
+  histamine content—plus preparation tips to maximize cardiac and gut benefits
+  without exacerbating fluid retention or orthostatic hypotension.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: bone broth heart failure seniors
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
+  - >-
+    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
+  - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
+  - >-
+    can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
+  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
 ---
 
 # Homemade Bone Broth vs. Store-Bought Low-Sodium Broth for Seniors With Heart Failure: What Matters Most for Cardiac-Fluid Management

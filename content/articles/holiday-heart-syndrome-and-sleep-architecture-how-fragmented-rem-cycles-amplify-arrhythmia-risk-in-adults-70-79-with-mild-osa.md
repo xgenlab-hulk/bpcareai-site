@@ -1,14 +1,28 @@
 ---
-title: "Holiday Heart Syndrome and Sleep Architecture: How Fragmented REM Cycles Amplify Arrhythmia Risk in Adults 70–79 With Mild OSA"
-slug: "holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa"
-description: "Examines the bidirectional link between disrupted rapid-eye-movement sleep and nocturnal vagal surges, explaining why even mild OSA increases susceptibility to alcohol-triggered AF during holiday travel or late-night celebrations."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["sleep architecture holiday heart syndrome oSA", "holiday heart syndrome prevention", "sleep-arrhythmia-link"]
-primaryKeyword: "sleep architecture holiday heart syndrome oSA"
-topicCluster: "sleep-arrhythmia-link"
-image: ""
-relatedSlugs: ["when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea", "how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm", "warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71", "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve", "how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension"]
+title: >-
+  Holiday Heart Syndrome and Sleep Architecture: How Fragmented REM Cycles
+  Amplify Arrhythmia Risk in Adults 70–79 With Mild OSA
+slug: >-
+  holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
+description: >-
+  Examines the bidirectional link between disrupted rapid-eye-movement sleep and
+  nocturnal vagal surges, explaining why even mild OSA increases susceptibility
+  to alcohol-triggered AF during holiday travel or late-night celebrations.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: sleep architecture holiday heart syndrome oSA
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea
+  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+  - >-
+    how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
 ---
 
 # How Sleep Architecture, Holiday Heart Syndrome, and Mild OSA Interact in Adults 70–79

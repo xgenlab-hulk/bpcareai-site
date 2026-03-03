@@ -1,14 +1,26 @@
 ---
-title: "5 Things Your Dietitian Isn’t Telling You About ‘Low-Sugar’ Holiday Beverages—and Why They May Still Worsen Fatty Liver in Men Over 60"
-slug: "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60"
-description: "Unpacking deceptive labeling (‘no added sugar’, ‘naturally sweetened’, ‘keto-friendly’) on eggnog alternatives, mulled cider, and sparkling punches—and their real-world metabolic impact on hepatic fat accumulation."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["low-sugar holiday drinks fatty liver men 60+", "healthy eating during family gatherings", "hepatic-metabolism-diet"]
-primaryKeyword: "low-sugar holiday drinks fatty liver men 60+"
-topicCluster: "hepatic-metabolism-diet"
-image: ""
-relatedSlugs: ["the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season", "can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60", "7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid"]
+title: >-
+  5 Things Your Dietitian Isn’t Telling You About ‘Low-Sugar’ Holiday
+  Beverages—and Why They May Still Worsen Fatty Liver in Men Over 60
+slug: >-
+  5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
+description: >-
+  Unpacking deceptive labeling (‘no added sugar’, ‘naturally sweetened’,
+  ‘keto-friendly’) on eggnog alternatives, mulled cider, and sparkling
+  punches—and their real-world metabolic impact on hepatic fat accumulation.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: low-sugar holiday drinks fatty liver men 60+
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
+  - can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
 ---
 
 # What Your Dietitian Might Not Mention About ‘Low-Sugar’ Holiday Drinks and Fatty Liver in Men 60+

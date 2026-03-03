@@ -6,12 +6,8 @@ description: >-
   disrupted sleep-wake cycles in older adults.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - sleep disruption and seasonal depression
-  - seasonal depression in older adults
-  - sleep-health
 primaryKeyword: sleep disruption and seasonal depression
-topicCluster: sleep-rest
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults

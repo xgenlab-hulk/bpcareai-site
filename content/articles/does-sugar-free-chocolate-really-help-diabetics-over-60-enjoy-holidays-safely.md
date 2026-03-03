@@ -6,12 +6,8 @@ description: >-
   sugar-free treats to determine if they’re worth the risk.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - sugar-free chocolate for diabetics over 60
-  - healthy holiday eating for seniors
-  - diabetic-diet
 primaryKeyword: sugar-free chocolate for diabetics over 60
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

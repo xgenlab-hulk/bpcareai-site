@@ -1,14 +1,26 @@
 ---
-title: "Why SAD Screening Tools Like the PHQ-9 Often Miss Seasonal Depression in Women Over 65—and What to Use Instead"
-slug: "why-sad-screening-tools-like-the-phq-9-often-miss-seasonal-depression-in-women-over-65-and-what-to-use-instead"
-description: "Analyzes cultural and cognitive biases in standard depression scales, and introduces a modified, seasonally weighted assessment validated in geriatric primary care settings."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["SAD screening tools for older women", "seasonal depression in older adults", "assessment-accuracy-geriatric-women"]
-primaryKeyword: "SAD screening tools for older women"
-topicCluster: "assessment-accuracy-geriatric-women"
-image: ""
-relatedSlugs: ["why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter", "7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging", "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know", "the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees", "can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression"]
+title: >-
+  Why SAD Screening Tools Like the PHQ-9 Often Miss Seasonal Depression in Women
+  Over 65—and What to Use Instead
+slug: >-
+  why-sad-screening-tools-like-the-phq-9-often-miss-seasonal-depression-in-women-over-65-and-what-to-use-instead
+description: >-
+  Analyzes cultural and cognitive biases in standard depression scales, and
+  introduces a modified, seasonally weighted assessment validated in geriatric
+  primary care settings.
+date: '2025-12-26'
+updated: '2025-12-26'
+primaryKeyword: SAD screening tools for older women
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
+  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
 ---
 
 # Why Standard SAD Screening Tools for Older Women Often Overlook Seasonal Depression—and What Works Better

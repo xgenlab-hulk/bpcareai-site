@@ -6,12 +6,8 @@ description: >-
   surges, with practical food examples.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - fiber to prevent blood sugar spikes
-  - managing blood sugar during Christmas and New Year
-  - diet-nutrition
 primaryKeyword: fiber to prevent blood sugar spikes
-topicCluster: nutrition-diet
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal

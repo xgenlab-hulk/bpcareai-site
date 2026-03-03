@@ -6,12 +6,8 @@ description: >-
   unique impact on glucose control in diabetics over 50.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - christmas vs new year blood sugar
-  - managing blood sugar during Christmas and New Year
-  - comparative-analysis
 primaryKeyword: christmas vs new year blood sugar
-topicCluster: evidence-research
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control

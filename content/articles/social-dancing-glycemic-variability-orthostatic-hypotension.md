@@ -1,14 +1,29 @@
 ---
-title: "How Social Dancing Twice Weekly Alters Cardiac Autonomic Tone and Reduces Glycemic Variability in Adults With Diabetes and Mild Orthostatic Hypotension"
-slug: "how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension"
-description: "Presents mechanistic data linking rhythmic movement, vestibular input, and vagal modulation—showing improved HRV and 23% less glucose swing in a 12-week cohort of adults 67–79."
-date: "2025-12-28"
-updated: "2025-12-28"
-tags: ["social dancing glycemic variability orthostatic hypotension", "diabetes", "rhythmic-movement-glucose"]
-primaryKeyword: "social dancing glycemic variability orthostatic hypotension"
-topicCluster: "rhythmic-movement-glucose"
-image: ""
-relatedSlugs: ["how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort", "how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy", "when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67", "12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years"]
+title: >-
+  How Social Dancing Twice Weekly Alters Cardiac Autonomic Tone and Reduces
+  Glycemic Variability in Adults With Diabetes and Mild Orthostatic Hypotension
+slug: >-
+  how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
+description: >-
+  Presents mechanistic data linking rhythmic movement, vestibular input, and
+  vagal modulation—showing improved HRV and 23% less glucose swing in a 12-week
+  cohort of adults 67–79.
+date: '2025-12-28'
+updated: '2025-12-28'
+primaryKeyword: social dancing glycemic variability orthostatic hypotension
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+  - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - >-
+    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # How Social Dancing Twice Weekly Supports Heart Rhythm, Blood Sugar Stability, and Postural Blood Pressure in Older Adults With Diabetes

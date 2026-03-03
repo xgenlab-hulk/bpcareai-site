@@ -1,14 +1,28 @@
 ---
-title: "What Causes Sudden Glucose Spikes *Only* During Family Photos? — The Role of Acute Social Stress, Facial Muscle Tension, and Sympathetic Surges in Adults 57–64 With Long-Standing Type 2 Diabetes"
-slug: "what-causes-sudden-glucose-spikes-only-during-family-photos-the-role-of-acute-social-stress-facial-muscle-tension-and-sympathetic-surges-in-adults-57-64-with-long-standing-type-2-diabetes"
-description: "Investigates the underrecognized link between posed smiling, vagal inhibition, and catecholamine-driven hepatic glucose output—validated via salivary alpha-amylase and real-time CGM during holiday gatherings."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["glucose spikes family photos social stress", "holiday diabetes management", "social-stress-glucose-response"]
-primaryKeyword: "glucose spikes family photos social stress"
-topicCluster: "social-stress-glucose-response"
-image: ""
-relatedSlugs: ["what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68", "how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50"]
+title: >-
+  What Causes Sudden Glucose Spikes *Only* During Family Photos? — The Role of
+  Acute Social Stress, Facial Muscle Tension, and Sympathetic Surges in Adults
+  57–64 With Long-Standing Type 2 Diabetes
+slug: >-
+  what-causes-sudden-glucose-spikes-only-during-family-photos-the-role-of-acute-social-stress-facial-muscle-tension-and-sympathetic-surges-in-adults-57-64-with-long-standing-type-2-diabetes
+description: >-
+  Investigates the underrecognized link between posed smiling, vagal inhibition,
+  and catecholamine-driven hepatic glucose output—validated via salivary
+  alpha-amylase and real-time CGM during holiday gatherings.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: glucose spikes family photos social stress
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+  - >-
+    how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
 ---
 
 # Why You Might See Glucose Spikes During Family Photos — And How Social Stress Plays a Surprising Role

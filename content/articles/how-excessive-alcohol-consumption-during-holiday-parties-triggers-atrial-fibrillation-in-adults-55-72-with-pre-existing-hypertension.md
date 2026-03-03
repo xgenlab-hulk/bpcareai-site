@@ -1,14 +1,27 @@
 ---
-title: "How Excessive Alcohol Consumption During Holiday Parties Triggers Atrial Fibrillation in Adults 55–72 With Pre-Existing Hypertension"
-slug: "how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension"
-description: "Explores the physiological cascade linking binge drinking at holiday gatherings to acute arrhythmia onset, with emphasis on BP-mediated atrial stretch, sympathetic surge, and electrolyte shifts — backed by 2023–2024 electrophysiology cohort studies."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["holiday heart syndrome alcohol atrial fibrillation", "holiday heart syndrome prevention", "alcohol-arrhythmia-mechanism"]
-primaryKeyword: "holiday heart syndrome alcohol atrial fibrillation"
-topicCluster: "alcohol-arrhythmia-mechanism"
-image: ""
-relatedSlugs: ["why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults", "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults", "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve", "why-dehydration-at-holiday-events-may-worsen-heart-palpitations"]
+title: >-
+  How Excessive Alcohol Consumption During Holiday Parties Triggers Atrial
+  Fibrillation in Adults 55–72 With Pre-Existing Hypertension
+slug: >-
+  how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
+description: >-
+  Explores the physiological cascade linking binge drinking at holiday
+  gatherings to acute arrhythmia onset, with emphasis on BP-mediated atrial
+  stretch, sympathetic surge, and electrolyte shifts — backed by 2023–2024
+  electrophysiology cohort studies.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: holiday heart syndrome alcohol atrial fibrillation
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
 ---
 
 # How Holiday Heart Syndrome Alcohol Atrial Fibrillation Affects Adults 55–72 With High Blood Pressure

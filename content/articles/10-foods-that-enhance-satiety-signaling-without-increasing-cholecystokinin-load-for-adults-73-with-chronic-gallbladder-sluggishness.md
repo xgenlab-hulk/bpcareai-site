@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Enhance Satiety Signaling *Without* Increasing Cholecystokinin Load — For Adults 73+ With Chronic Gallbladder Sluggishness"
-slug: "10-foods-that-enhance-satiety-signaling-without-increasing-cholecystokinin-load-for-adults-73-with-chronic-gallbladder-sluggishness"
-description: "Focuses on low-fat, high-fiber, high-viscosity foods (e.g., okra mucilage, konjac noodles) that promote fullness via gastric distension and GLP-1—not CCK—reducing biliary stress."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["satiety without cholecystokinin seniors", "healthy holiday eating for seniors", "gallbladder-friendly-satiety"]
-primaryKeyword: "satiety without cholecystokinin seniors"
-topicCluster: "gallbladder-friendly-satiety"
-image: ""
-relatedSlugs: ["a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia", "natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history", "10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes", "7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68", "best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux"]
+title: >-
+  10 Foods That Enhance Satiety Signaling *Without* Increasing Cholecystokinin
+  Load — For Adults 73+ With Chronic Gallbladder Sluggishness
+slug: >-
+  10-foods-that-enhance-satiety-signaling-without-increasing-cholecystokinin-load-for-adults-73-with-chronic-gallbladder-sluggishness
+description: >-
+  Focuses on low-fat, high-fiber, high-viscosity foods (e.g., okra mucilage,
+  konjac noodles) that promote fullness via gastric distension and GLP-1—not
+  CCK—reducing biliary stress.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: satiety without cholecystokinin seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia
+  - >-
+    natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
+  - >-
+    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
+  - >-
+    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
+  - >-
+    best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
 ---
 
 # Satiety Without Cholecystokinin Seniors: Gentle, Gallbladder-Friendly Fullness for Adults 73+

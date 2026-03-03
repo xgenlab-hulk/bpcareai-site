@@ -1,14 +1,29 @@
 ---
-title: "5 Things Everyone Over 70 Should Know About Using Wrist-Based Blood Pressure Monitors With Atrial Fibrillation and Radial Artery Calcification"
-slug: "5-things-everyone-over-70-should-know-about-using-wrist-based-blood-pressure-monitors-with-atrial-fibrillation-and-radial-artery-calcification"
-description: "Explains why wrist cuffs fail in AFib due to pulse amplitude variability and arterial calcification, compares validation standards (ESH-IP2 vs. ANSI/AAMI), and offers clinically reliable alternatives for home monitoring."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["wrist blood pressure monitor atrial fibrillation calcification", "blood pressure", "monitoring-device-limitations"]
-primaryKeyword: "wrist blood pressure monitor atrial fibrillation calcification"
-topicCluster: "monitoring-device-limitations"
-image: ""
-relatedSlugs: ["dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands", "5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema", "the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you", "warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation", "the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors"]
+title: >-
+  5 Things Everyone Over 70 Should Know About Using Wrist-Based Blood Pressure
+  Monitors With Atrial Fibrillation and Radial Artery Calcification
+slug: >-
+  5-things-everyone-over-70-should-know-about-using-wrist-based-blood-pressure-monitors-with-atrial-fibrillation-and-radial-artery-calcification
+description: >-
+  Explains why wrist cuffs fail in AFib due to pulse amplitude variability and
+  arterial calcification, compares validation standards (ESH-IP2 vs. ANSI/AAMI),
+  and offers clinically reliable alternatives for home monitoring.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: wrist blood pressure monitor atrial fibrillation calcification
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+  - >-
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
+  - >-
+    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
+  - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
 ---
 
 # Why Wrist Blood Pressure Monitors Can Mislead When You Have Atrial Fibrillation and Arterial Calcification

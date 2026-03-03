@@ -1,14 +1,28 @@
 ---
-title: "How Holiday Champagne Toasts Affect Diastolic Blood Pressure in Men With Isolated Systolic Hypertension Over 65"
-slug: "how-holiday-champagne-toasts-affect-diastolic-blood-pressure-in-men-with-isolated-systolic-hypertension-over-65"
-description: "Analyzes acute alcohol-induced vasodilation vs. rebound vasoconstriction—and why even one 4-oz glass can destabilize diastolic readings, worsen dizziness, and impair nocturnal BP dipping in aging vasculature."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["champagne diastolic blood pressure seniors", "healthy holiday eating for seniors", "alcohol-blood-pressure-dynamics"]
-primaryKeyword: "champagne diastolic blood pressure seniors"
-topicCluster: "alcohol-blood-pressure-dynamics"
-image: ""
-relatedSlugs: ["why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings", "how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65", "5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics", "what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays"]
+title: >-
+  How Holiday Champagne Toasts Affect Diastolic Blood Pressure in Men With
+  Isolated Systolic Hypertension Over 65
+slug: >-
+  how-holiday-champagne-toasts-affect-diastolic-blood-pressure-in-men-with-isolated-systolic-hypertension-over-65
+description: >-
+  Analyzes acute alcohol-induced vasodilation vs. rebound vasoconstriction—and
+  why even one 4-oz glass can destabilize diastolic readings, worsen dizziness,
+  and impair nocturnal BP dipping in aging vasculature.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: champagne diastolic blood pressure seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - >-
+    how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
+  - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
+  - >-
+    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
+  - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
 ---
 
 # How Champagne Affects Diastolic Blood Pressure in Seniors with Isolated Systolic Hypertension

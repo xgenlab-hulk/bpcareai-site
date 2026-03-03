@@ -1,14 +1,29 @@
 ---
-title: "7 Common Mistakes That Accelerate Diabetic Nephropathy Progression — Even With ACE Inhibitors and eGFR >60 — In Adults 67+ With Microalbuminuria"
-slug: "7-common-mistakes-that-accelerate-diabetic-nephropathy-progression-even-with-ace-inhibitors-and-egfr-60-in-adults-67-with-microalbuminuria"
-description: "Highlights overlooked contributors: nocturnal BP dipping loss, high-sodium breakfasts, unmonitored NSAID use, and delayed uric acid management — with practical correction steps."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["mistakes worsening diabetic nephropathy", "diabetes", "complications-prevention-mistakes"]
-primaryKeyword: "mistakes worsening diabetic nephropathy"
-topicCluster: "complications-prevention-mistakes"
-image: ""
-relatedSlugs: ["7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities", "what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria", "how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy", "warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing"]
+title: >-
+  7 Common Mistakes That Accelerate Diabetic Nephropathy Progression — Even With
+  ACE Inhibitors and eGFR >60 — In Adults 67+ With Microalbuminuria
+slug: >-
+  7-common-mistakes-that-accelerate-diabetic-nephropathy-progression-even-with-ace-inhibitors-and-egfr-60-in-adults-67-with-microalbuminuria
+description: >-
+  Highlights overlooked contributors: nocturnal BP dipping loss, high-sodium
+  breakfasts, unmonitored NSAID use, and delayed uric acid management — with
+  practical correction steps.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: mistakes worsening diabetic nephropathy
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities
+  - >-
+    what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
+  - >-
+    how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy
+  - >-
+    warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
 ---
 
 # 7 Everyday Mistakes Worsening Diabetic Nephropathy — Even With Good Medication and Stable Kidney Function

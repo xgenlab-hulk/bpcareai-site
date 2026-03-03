@@ -10,12 +10,8 @@ description: >-
   protocols.
 date: '2026-01-18'
 updated: '2026-01-18'
-tags:
-  - secondary hypertension ppi warning signs
-  - blood pressure
-  - secondary-hypertension-clues
 primaryKeyword: secondary hypertension ppi warning signs
-topicCluster: secondary-hypertension-clues
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,29 @@
 ---
-title: "Natural Ways to Enhance Alcohol Metabolism Without Supplements — For Adults 61–73 With ALDH2 Deficiency and Flushing-Associated Tachycardia"
-slug: "natural-ways-to-enhance-alcohol-metabolism-without-supplements-for-adults-61-73-with-aldh2-deficiency-and-flushing-associated-tachycardia"
-description: "Focuses on dietary co-factors (zinc, B6, magnesium), meal sequencing, and gastric pH modulation to support acetaldehyde clearance — reducing palpitations and flushing during holiday toasts in genetically susceptible adults."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["alcohol metabolism natural enhancement aldh2", "holiday heart syndrome prevention", "genetic-metabolism-support"]
-primaryKeyword: "alcohol metabolism natural enhancement aldh2"
-topicCluster: "genetic-metabolism-support"
-image: ""
-relatedSlugs: ["natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria", "the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias", "natural-ways-to-support-pancreatic-acinar-cell-function-and-reduce-postprandial-lipase-deficiency-in-adults-65-with-long-standing-type-2-diabetes-and-fatty-pancreas-imaging", "5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics", "natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-57-69-with-abdominal-obesity-and-mild-nafld"]
+title: >-
+  Natural Ways to Enhance Alcohol Metabolism Without Supplements — For Adults
+  61–73 With ALDH2 Deficiency and Flushing-Associated Tachycardia
+slug: >-
+  natural-ways-to-enhance-alcohol-metabolism-without-supplements-for-adults-61-73-with-aldh2-deficiency-and-flushing-associated-tachycardia
+description: >-
+  Focuses on dietary co-factors (zinc, B6, magnesium), meal sequencing, and
+  gastric pH modulation to support acetaldehyde clearance — reducing
+  palpitations and flushing during holiday toasts in genetically susceptible
+  adults.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: alcohol metabolism natural enhancement aldh2
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
+  - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
+  - >-
+    natural-ways-to-support-pancreatic-acinar-cell-function-and-reduce-postprandial-lipase-deficiency-in-adults-65-with-long-standing-type-2-diabetes-and-fatty-pancreas-imaging
+  - >-
+    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
+  - >-
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-57-69-with-abdominal-obesity-and-mild-nafld
 ---
 
 # Natural Alcohol Metabolism Enhancement for ALDH2 Deficiency — Gentle, Evidence-Informed Strategies for Adults 61–73

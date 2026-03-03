@@ -10,12 +10,8 @@ description: >-
   risk — especially with genetic risk scores.
 date: '2026-01-27'
 updated: '2026-01-27'
-tags:
-  - cardiac ct calcium score guide
-  - heart disease
-  - calcium-score-interpretation
 primaryKeyword: cardiac ct calcium score guide
-topicCluster: calcium-score-interpretation
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

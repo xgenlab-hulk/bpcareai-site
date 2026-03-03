@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Normal' Home BP Readings in Adults 70+ With Orthostatic Hypotension and White-Coat Resistance"
-slug: "the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance"
-description: "Debunks the myth that stable home readings = low risk — reveals how postural BP lability and masked resistance predict stroke risk independent of average values."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["normal home blood pressure readings risk", "blood pressure", "masked-bp-risk"]
-primaryKeyword: "normal home blood pressure readings risk"
-topicCluster: "masked-bp-risk"
-image: ""
-relatedSlugs: ["the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging", "warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather", "a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79", "a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better", "when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction"]
+title: >-
+  The Truth About 'Normal' Home BP Readings in Adults 70+ With Orthostatic
+  Hypotension and White-Coat Resistance
+slug: >-
+  the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance
+description: >-
+  Debunks the myth that stable home readings = low risk — reveals how postural
+  BP lability and masked resistance predict stroke risk independent of average
+  values.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: normal home blood pressure readings risk
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
+  - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
+  - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
+  - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
+  - >-
+    when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction
 ---
 
 # Why “Normal” Home Blood Pressure Readings Can Still Carry Risk—Especially After 70

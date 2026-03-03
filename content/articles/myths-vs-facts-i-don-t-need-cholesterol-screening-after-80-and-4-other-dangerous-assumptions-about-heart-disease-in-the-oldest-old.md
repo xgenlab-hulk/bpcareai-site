@@ -10,12 +10,8 @@ description: >-
   age 95.
 date: '2025-12-21'
 updated: '2025-12-21'
-tags:
-  - cholesterol screening myths after age 80
-  - heart disease
-  - myths-facts-oldest-old
 primaryKeyword: cholesterol screening myths after age 80
-topicCluster: myths-facts-oldest-old
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

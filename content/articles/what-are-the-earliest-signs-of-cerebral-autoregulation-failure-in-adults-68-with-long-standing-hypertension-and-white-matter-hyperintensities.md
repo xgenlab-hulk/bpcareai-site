@@ -1,14 +1,29 @@
 ---
-title: "What Are the Earliest Signs of Cerebral Autoregulation Failure in Adults 68+ With Long-Standing Hypertension and White Matter Hyperintensities?"
-slug: "what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities"
-description: "Identifies subtle neurovascular symptoms — including transient word-finding pauses, postural dizziness without hypotension, and slowed cognitive tempo — validated by dynamic autoregulation testing."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["cerebral autoregulation failure signs", "blood pressure", "neurovascular-dysfunction"]
-primaryKeyword: "cerebral autoregulation failure signs"
-topicCluster: "neurovascular-dysfunction"
-image: ""
-relatedSlugs: ["what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities", "10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63", "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension", "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62", "dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery"]
+title: >-
+  What Are the Earliest Signs of Cerebral Autoregulation Failure in Adults 68+
+  With Long-Standing Hypertension and White Matter Hyperintensities?
+slug: >-
+  what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities
+description: >-
+  Identifies subtle neurovascular symptoms — including transient word-finding
+  pauses, postural dizziness without hypotension, and slowed cognitive tempo —
+  validated by dynamic autoregulation testing.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: cerebral autoregulation failure signs
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
+  - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
+  - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+  - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+  - >-
+    dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
 ---
 
 # Early Cerebral Autoregulation Failure Signs in Older Adults With Hypertension and White Matter Changes

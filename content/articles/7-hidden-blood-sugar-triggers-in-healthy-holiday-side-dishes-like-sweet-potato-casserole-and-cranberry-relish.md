@@ -1,14 +1,27 @@
 ---
-title: "7 Hidden Blood Sugar Triggers in 'Healthy' Holiday Side Dishes — Like Sweet Potato Casserole and Cranberry Relish"
-slug: "7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish"
-description: "Analysis of glycemic impact from unexpected sources: added fruit juices, starch thickeners, and 'low-sugar' sweeteners that spike glucose in adults 60+ with insulin resistance."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["holiday side dishes blood sugar spikes", "holiday diabetes management", "diet-nutrition-glycemic-triggers"]
-primaryKeyword: "holiday side dishes blood sugar spikes"
-topicCluster: "diet-nutrition-glycemic-triggers"
-image: ""
-relatedSlugs: ["7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish", "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control", "7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid", "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar", "7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose"]
+title: >-
+  7 Hidden Blood Sugar Triggers in 'Healthy' Holiday Side Dishes — Like Sweet
+  Potato Casserole and Cranberry Relish
+slug: >-
+  7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
+description: >-
+  Analysis of glycemic impact from unexpected sources: added fruit juices,
+  starch thickeners, and 'low-sugar' sweeteners that spike glucose in adults 60+
+  with insulin resistance.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: holiday side dishes blood sugar spikes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
 ---
 
 # Hidden Blood Sugar Triggers in Holiday Side Dishes — What Raises Glucose in Adults 60+?

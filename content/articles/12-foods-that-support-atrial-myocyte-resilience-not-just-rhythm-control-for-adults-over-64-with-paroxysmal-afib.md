@@ -10,12 +10,8 @@ description: >-
   oxidative stress in atrial tissue—beyond simple electrolyte balancing.
 date: '2025-12-25'
 updated: '2025-12-25'
-tags:
-  - foods for atrial myocyte resilience in elderly
-  - holiday heart syndrome prevention
-  - cellular-cardioprotection
 primaryKeyword: foods for atrial myocyte resilience in elderly
-topicCluster: cellular-cardioprotection
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

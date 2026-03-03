@@ -1,14 +1,27 @@
 ---
-title: "The Ultimate Guide to ‘Stealth Fiber’ Additions for Holiday Mashed Potatoes, Stuffing, and Gravy—Without Changing Taste or Texture"
-slug: "the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture"
-description: "A chef-dietitian co-developed guide using resistant starch, psyllium integration, and vegetable puree layering techniques—tested for palatability across 5 age groups and 3 comorbidities."
-date: "2025-12-30"
-updated: "2025-12-30"
-tags: ["stealth fiber holiday side dishes", "healthy eating during family gatherings", "fiber-integration-cooking"]
-primaryKeyword: "stealth fiber holiday side dishes"
-topicCluster: "fiber-integration-cooking"
-image: ""
-relatedSlugs: ["best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs", "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation", "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd", "best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods", "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar"]
+title: >-
+  The Ultimate Guide to ‘Stealth Fiber’ Additions for Holiday Mashed Potatoes,
+  Stuffing, and Gravy—Without Changing Taste or Texture
+slug: >-
+  the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
+description: >-
+  A chef-dietitian co-developed guide using resistant starch, psyllium
+  integration, and vegetable puree layering techniques—tested for palatability
+  across 5 age groups and 3 comorbidities.
+date: '2025-12-30'
+updated: '2025-12-30'
+primaryKeyword: stealth fiber holiday side dishes
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
+  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
 ---
 
 # Smart, Seamless Ways to Boost Fiber in Holiday Sides—Without Anyone Noticing  

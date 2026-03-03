@@ -6,12 +6,8 @@ description: >-
   activity, and maximizing daylight exposure.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - daily routine for seasonal depression
-  - seasonal depression in older adults
-  - routine-optimization
 primaryKeyword: daily routine for seasonal depression
-topicCluster: lifestyle-changes
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70

@@ -1,14 +1,29 @@
 ---
-title: "5 Things Your Pharmacist Won’t Tell You About Blood Pressure Meds and Driving Safety in Adults 73+"
-slug: "5-things-your-pharmacist-won-t-tell-you-about-blood-pressure-meds-and-driving-safety-in-adults-73"
-description: "Uncovers under-discussed medication-related risks — including delayed sedation onset, visual field narrowing from alpha-blockers, and delayed reaction time from low-dose diuretics — with actionable mitigation strategies."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["bp meds driving safety elderly", "blood pressure", "medication-safety-behavioral"]
-primaryKeyword: "bp meds driving safety elderly"
-topicCluster: "medication-safety-behavioral"
-image: ""
-relatedSlugs: ["when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68", "14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors", "7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants", "7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics", "does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use"]
+title: >-
+  5 Things Your Pharmacist Won’t Tell You About Blood Pressure Meds and Driving
+  Safety in Adults 73+
+slug: >-
+  5-things-your-pharmacist-won-t-tell-you-about-blood-pressure-meds-and-driving-safety-in-adults-73
+description: >-
+  Uncovers under-discussed medication-related risks — including delayed sedation
+  onset, visual field narrowing from alpha-blockers, and delayed reaction time
+  from low-dose diuretics — with actionable mitigation strategies.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: bp meds driving safety elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
+  - >-
+    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
 ---
 
 # What Every 73+ Adult Should Know About BP Meds Driving Safety

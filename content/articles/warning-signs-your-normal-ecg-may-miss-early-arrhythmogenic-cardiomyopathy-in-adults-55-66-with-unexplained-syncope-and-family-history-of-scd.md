@@ -10,12 +10,8 @@ description: >-
   despite normal echo.
 date: '2026-01-11'
 updated: '2026-01-11'
-tags:
-  - ECG limitations arrhythmogenic cardiomyopathy syncope
-  - heart disease
-  - diagnostic-gap-arrhythmia
 primaryKeyword: ECG limitations arrhythmogenic cardiomyopathy syncope
-topicCluster: diagnostic-gap-arrhythmia
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

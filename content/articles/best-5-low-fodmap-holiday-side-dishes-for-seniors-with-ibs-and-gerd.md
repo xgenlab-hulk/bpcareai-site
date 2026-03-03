@@ -1,14 +1,24 @@
 ---
-title: "Best 5 Low-FODMAP Holiday Side Dishes for Seniors With IBS and GERD"
-slug: "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd"
-description: "Features gastroenterologist-approved, gut-soothing recipes—including roasted parsnips, quinoa-cranberry pilaf, and ginger-sweet potato purée—that avoid reflux triggers and fermentable carbs."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["low-fodmap holiday sides seniors", "healthy holiday eating for seniors", "gut-health-diet-modification"]
-primaryKeyword: "low-fodmap holiday sides seniors"
-topicCluster: "gut-health-diet-modification"
-image: ""
-relatedSlugs: ["best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs", "best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required", "best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods", "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar", "10-high-fiber-holiday-foods-that-support-digestion-after-50"]
+title: Best 5 Low-FODMAP Holiday Side Dishes for Seniors With IBS and GERD
+slug: best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+description: >-
+  Features gastroenterologist-approved, gut-soothing recipes—including roasted
+  parsnips, quinoa-cranberry pilaf, and ginger-sweet potato purée—that avoid
+  reflux triggers and fermentable carbs.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: low-fodmap holiday sides seniors
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
+  - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
+  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
 ---
 
 # 5 Gentle, Gut-Friendly Holiday Side Dishes for Seniors With IBS and GERD — Low-FODMAP Holiday Sides Seniors Can Enjoy Confidently

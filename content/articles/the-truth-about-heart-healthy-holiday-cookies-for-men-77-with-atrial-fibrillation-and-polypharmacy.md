@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Heart-Healthy' Holiday Cookies for Men 77+ With Atrial Fibrillation and Polypharmacy"
-slug: "the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy"
-description: "Debunks marketing claims around oat-based, low-sugar cookies by analyzing real-world interactions with warfarin, digoxin, and potassium-sparing diuretics."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["heart-healthy holiday cookies seniors afib", "healthy holiday eating for seniors", "food-safety-medication-interactions"]
-primaryKeyword: "heart-healthy holiday cookies seniors afib"
-topicCluster: "food-safety-medication-interactions"
-image: ""
-relatedSlugs: ["the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you", "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers", "5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter", "the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban", "the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal"]
+title: >-
+  The Truth About 'Heart-Healthy' Holiday Cookies for Men 77+ With Atrial
+  Fibrillation and Polypharmacy
+slug: >-
+  the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
+description: >-
+  Debunks marketing claims around oat-based, low-sugar cookies by analyzing
+  real-world interactions with warfarin, digoxin, and potassium-sparing
+  diuretics.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: heart-healthy holiday cookies seniors afib
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
+  - >-
+    5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
+  - >-
+    the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
+  - >-
+    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
 ---
 
 # What Really Makes “Heart-Healthy Holiday Cookies” Safe for Men 77+ With Atrial Fibrillation and Polypharmacy?

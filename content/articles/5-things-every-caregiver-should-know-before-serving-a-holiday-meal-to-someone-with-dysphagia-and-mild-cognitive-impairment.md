@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Caregiver Should Know Before Serving a Holiday Meal to Someone With Dysphagia and Mild Cognitive Impairment"
-slug: "5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment"
-description: "Covers texture-modified food safety, swallow-trigger cues, visual contrast strategies, pacing techniques, and silent aspiration red flags — all tailored to home-based holiday meals for adults 74+ with neurodegenerative risk."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["caregiver holiday meal dysphagia tips", "healthy eating during family gatherings", "caregiver-nutrition-safety"]
-primaryKeyword: "caregiver holiday meal dysphagia tips"
-topicCluster: "caregiver-nutrition-safety"
-image: ""
-relatedSlugs: ["10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia", "how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation", "5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning", "simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning", "the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia"]
+title: >-
+  5 Things Every Caregiver Should Know Before Serving a Holiday Meal to Someone
+  With Dysphagia and Mild Cognitive Impairment
+slug: >-
+  5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
+description: >-
+  Covers texture-modified food safety, swallow-trigger cues, visual contrast
+  strategies, pacing techniques, and silent aspiration red flags — all tailored
+  to home-based holiday meals for adults 74+ with neurodegenerative risk.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: caregiver holiday meal dysphagia tips
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
+  - >-
+    how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
+  - >-
+    5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning
+  - >-
+    simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
+  - >-
+    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
 ---
 
 # 5 Essential Caregiver Holiday Meal Dysphagia Tips for Safe, Joyful Celebrations

@@ -6,12 +6,8 @@ description: >-
   managing diabetes during festive gatherings.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - diabetic holiday snacks over 70
-  - holiday diabetes management
-  - senior-specific-nutrition
 primaryKeyword: diabetic holiday snacks over 70
-topicCluster: nutrition-diet
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season

@@ -10,12 +10,8 @@ description: >-
   anticoagulants.
 date: '2025-12-21'
 updated: '2025-12-21'
-tags:
-  - PPIs atrial fibrillation risk seniors GERD
-  - heart health
-  - medications-complications
 primaryKeyword: PPIs atrial fibrillation risk seniors GERD
-topicCluster: medications-complications
+topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - the-link-between-atrial-fibrillation-and-heart-disease-in-seniors

@@ -1,14 +1,30 @@
 ---
-title: "What Research Says About Blood Pressure Variability in Adults 58–67 With Early Parkinson’s Disease — Before Motor Symptoms Emerge"
-slug: "what-research-says-about-blood-pressure-variability-in-adults-58-67-with-early-parkinson-s-disease-before-motor-symptoms-emerge"
-description: "Synthesizes findings from longitudinal autonomic testing and 7-day home BP tracking showing increased short-term BP lability as a prodromal biomarker — distinct from orthostatic hypotension — and its predictive value for synucleinopathy progression."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["blood pressure variability early parkinsons", "blood pressure", "neurological-autonomic-early-detection"]
-primaryKeyword: "blood pressure variability early parkinsons"
-topicCluster: "neurological-autonomic-early-detection"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance", "what-are-the-earliest-gait-changes-linked-to-orthostatic-hypotension-in-adults-with-parkinson-s-disease-stage-2", "what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75", "what-research-says-about-blood-pressure-variability-as-a-predictor-of-cognitive-decline-in-women-60-74-with-normal-mean-bp-but-high-visit-to-visit-sd", "what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear"]
+title: >-
+  What Research Says About Blood Pressure Variability in Adults 58–67 With Early
+  Parkinson’s Disease — Before Motor Symptoms Emerge
+slug: >-
+  what-research-says-about-blood-pressure-variability-in-adults-58-67-with-early-parkinson-s-disease-before-motor-symptoms-emerge
+description: >-
+  Synthesizes findings from longitudinal autonomic testing and 7-day home BP
+  tracking showing increased short-term BP lability as a prodromal biomarker —
+  distinct from orthostatic hypotension — and its predictive value for
+  synucleinopathy progression.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: blood pressure variability early parkinsons
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
+  - >-
+    what-are-the-earliest-gait-changes-linked-to-orthostatic-hypotension-in-adults-with-parkinson-s-disease-stage-2
+  - >-
+    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
+  - >-
+    what-research-says-about-blood-pressure-variability-as-a-predictor-of-cognitive-decline-in-women-60-74-with-normal-mean-bp-but-high-visit-to-visit-sd
+  - >-
+    what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear
 ---
 
 # Blood Pressure Variability Early in Parkinson’s: What Science Is Learning About Subtle Changes Before Diagnosis

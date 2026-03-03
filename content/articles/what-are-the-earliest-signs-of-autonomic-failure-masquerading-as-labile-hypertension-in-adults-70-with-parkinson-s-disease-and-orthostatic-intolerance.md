@@ -1,14 +1,30 @@
 ---
-title: "What Are the Earliest Signs of Autonomic Failure Masquerading as Labile Hypertension in Adults 70+ With Parkinson’s Disease and Orthostatic Intolerance?"
-slug: "what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance"
-description: "Distinguishes neurogenic hypertension patterns—supine surges, postprandial lability, and loss of BP variability—from essential hypertension using beat-to-beat monitoring and Valsalva response analysis."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["autonomic failure labile hypertension parkinsons", "blood pressure", "neurogenic-hypertension"]
-primaryKeyword: "autonomic failure labile hypertension parkinsons"
-topicCluster: "neurogenic-hypertension"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities", "what-are-the-earliest-gait-changes-linked-to-orthostatic-hypotension-in-adults-with-parkinson-s-disease-stage-2", "when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss", "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension", "when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67"]
+title: >-
+  What Are the Earliest Signs of Autonomic Failure Masquerading as Labile
+  Hypertension in Adults 70+ With Parkinson’s Disease and Orthostatic
+  Intolerance?
+slug: >-
+  what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
+description: >-
+  Distinguishes neurogenic hypertension patterns—supine surges, postprandial
+  lability, and loss of BP variability—from essential hypertension using
+  beat-to-beat monitoring and Valsalva response analysis.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: autonomic failure labile hypertension parkinsons
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities
+  - >-
+    what-are-the-earliest-gait-changes-linked-to-orthostatic-hypotension-in-adults-with-parkinson-s-disease-stage-2
+  - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
+  - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+  - >-
+    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
 ---
 
 # Recognizing Autonomic Failure Labile Hypertension in Older Adults With Parkinson’s Disease

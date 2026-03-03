@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Adult 55–63 With Newly Diagnosed Hypertension Should Know Before Hosting Their First Holiday Dinner"
-slug: "5-things-every-adult-55-63-with-newly-diagnosed-hypertension-should-know-before-hosting-their-first-holiday-dinner"
-description: "Covers pre-event BP self-monitoring protocols, sodium-aware guest communication strategies, timing of antihypertensive doses around meal stress, and how to interpret 'white-coat' vs. 'event-triggered' readings."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["newly diagnosed hypertension holiday hosting", "healthy eating during family gatherings", "hypertension-onset-management"]
-primaryKeyword: "newly diagnosed hypertension holiday hosting"
-topicCluster: "hypertension-onset-management"
-image: ""
-relatedSlugs: ["5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party", "what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75", "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62", "when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension", "12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry"]
+title: >-
+  5 Things Every Adult 55–63 With Newly Diagnosed Hypertension Should Know
+  Before Hosting Their First Holiday Dinner
+slug: >-
+  5-things-every-adult-55-63-with-newly-diagnosed-hypertension-should-know-before-hosting-their-first-holiday-dinner
+description: >-
+  Covers pre-event BP self-monitoring protocols, sodium-aware guest
+  communication strategies, timing of antihypertensive doses around meal stress,
+  and how to interpret 'white-coat' vs. 'event-triggered' readings.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: newly diagnosed hypertension holiday hosting
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
+  - >-
+    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
+  - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+  - >-
+    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
+  - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
 ---
 
 # What Every Adult 55–63 Should Know About Newly Diagnosed Hypertension Holiday Hosting

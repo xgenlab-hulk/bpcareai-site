@@ -1,14 +1,29 @@
 ---
-title: "How Gut Microbial Metabolites (e.g., TMAO, Indole-3-Propionic Acid) Predict Subclinical Myocardial Fibrosis in Adults 59–75 With Metabolic Syndrome"
-slug: "how-gut-microbial-metabolites-e-g-tmao-indole-3-propionic-acid-predict-subclinical-myocardial-fibrosis-in-adults-59-75-with-metabolic-syndrome"
-description: "Breaks down the gut-heart axis by linking specific fecal metabolite profiles to cardiac MRI–confirmed interstitial fibrosis — and how dietary shifts alter metabolite production within 10 days."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["gut metabolites myocardial fibrosis", "heart disease", "gut-heart-axis"]
-primaryKeyword: "gut metabolites myocardial fibrosis"
-topicCluster: "gut-heart-axis"
-image: ""
-relatedSlugs: ["how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now", "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals", "how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af", "how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study", "how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it"]
+title: >-
+  How Gut Microbial Metabolites (e.g., TMAO, Indole-3-Propionic Acid) Predict
+  Subclinical Myocardial Fibrosis in Adults 59–75 With Metabolic Syndrome
+slug: >-
+  how-gut-microbial-metabolites-e-g-tmao-indole-3-propionic-acid-predict-subclinical-myocardial-fibrosis-in-adults-59-75-with-metabolic-syndrome
+description: >-
+  Breaks down the gut-heart axis by linking specific fecal metabolite profiles
+  to cardiac MRI–confirmed interstitial fibrosis — and how dietary shifts alter
+  metabolite production within 10 days.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: gut metabolites myocardial fibrosis
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
+  - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
+  - >-
+    how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
+  - >-
+    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
 ---
 
 # How Gut Metabolites Link to Early Heart Changes in Adults With Metabolic Syndrome

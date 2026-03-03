@@ -1,14 +1,30 @@
 ---
-title: "How Intergenerational Food Prep Affects Post-Meal Glucose Spikes in Adults 58–72 With Prediabetes and Slow Gastric Emptying"
-slug: "how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying"
-description: "Explores the metabolic impact of shared cooking tasks—like chopping, stirring, and timing—on glycemic response during holiday meals, with evidence on how physical activity intensity and meal sequencing interact in midlife and older adults."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["intergenerational cooking blood sugar spikes", "healthy eating during family gatherings", "lifestyle-metabolism"]
-primaryKeyword: "intergenerational cooking blood sugar spikes"
-topicCluster: "lifestyle-metabolism"
-image: ""
-relatedSlugs: ["how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying", "how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation", "how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58", "how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes", "how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55"]
+title: >-
+  How Intergenerational Food Prep Affects Post-Meal Glucose Spikes in Adults
+  58–72 With Prediabetes and Slow Gastric Emptying
+slug: >-
+  how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
+description: >-
+  Explores the metabolic impact of shared cooking tasks—like chopping, stirring,
+  and timing—on glycemic response during holiday meals, with evidence on how
+  physical activity intensity and meal sequencing interact in midlife and older
+  adults.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: intergenerational cooking blood sugar spikes
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
+  - >-
+    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
+  - >-
+    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
+  - >-
+    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 ---
 
 # How Intergenerational Cooking Affects Blood Sugar Spikes in Adults 58–72 With Prediabetes and Delayed Gastric Emptying

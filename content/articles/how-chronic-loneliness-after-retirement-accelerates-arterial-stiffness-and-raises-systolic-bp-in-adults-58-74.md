@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Loneliness After Retirement Accelerates Arterial Stiffness—and Raises Systolic BP in Adults 58–74"
-slug: "how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74"
-description: "Examines the psychosocial pathway from social isolation to endothelial dysfunction, citing longitudinal data on pulse wave velocity and 24-hour ambulatory BP trends."
-date: "2026-01-03"
-updated: "2026-01-03"
-tags: ["loneliness and arterial stiffness blood pressure", "blood pressure", "emotional-health-physiology"]
-primaryKeyword: "loneliness and arterial stiffness blood pressure"
-topicCluster: "emotional-health-physiology"
-image: ""
-relatedSlugs: ["how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75", "how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk", "how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness", "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone", "how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone"]
+title: >-
+  How Chronic Loneliness After Retirement Accelerates Arterial Stiffness—and
+  Raises Systolic BP in Adults 58–74
+slug: >-
+  how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
+description: >-
+  Examines the psychosocial pathway from social isolation to endothelial
+  dysfunction, citing longitudinal data on pulse wave velocity and 24-hour
+  ambulatory BP trends.
+date: '2026-01-03'
+updated: '2026-01-03'
+primaryKeyword: loneliness and arterial stiffness blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
+  - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
+  - >-
+    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
+  - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
 ---
 
 # How Chronic Loneliness After Retirement Affects Arterial Stiffness and Blood Pressure in Adults 58–74

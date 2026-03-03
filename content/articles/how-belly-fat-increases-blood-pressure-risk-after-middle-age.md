@@ -6,10 +6,6 @@ description: >-
   losing belly fat helps.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - belly fat and high blood pressure link
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: belly fat and high blood pressure link
 topicCluster: hypertension-management
 image: ''

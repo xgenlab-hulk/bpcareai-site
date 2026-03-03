@@ -11,12 +11,8 @@ description: >-
   insulin initiation preserves residual beta-cell mass.
 date: '2026-01-13'
 updated: '2026-01-13'
-tags:
-  - LADA diagnosis in middle-aged men
-  - diabetes
-  - diagnosis-autoimmune-dm
 primaryKeyword: LADA diagnosis in middle-aged men
-topicCluster: diagnosis-autoimmune-dm
+topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-

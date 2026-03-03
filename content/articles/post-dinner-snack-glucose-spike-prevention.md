@@ -1,14 +1,27 @@
 ---
-title: "What to Eat *After* the Main Course — A 90-Second Post-Dinner Strategy to Prevent Late-Night Glucose Spikes in Men 65+ With Type 2 Diabetes and Nocturnal Hypoglycemia History"
-slug: "what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history"
-description: "Introduces a timed, low-glycemic, protein-fiber combo snack proven in clinical observation to blunt late-phase glucose elevation without triggering rebound hypoglycemia."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["post-dinner snack glucose spike prevention", "healthy eating during family gatherings", "meal-timing-intervention"]
-primaryKeyword: "post-dinner snack glucose spike prevention"
-topicCluster: "meal-timing-intervention"
-image: ""
-relatedSlugs: ["quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts", "5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon", "the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays"]
+title: >-
+  What to Eat *After* the Main Course — A 90-Second Post-Dinner Strategy to
+  Prevent Late-Night Glucose Spikes in Men 65+ With Type 2 Diabetes and
+  Nocturnal Hypoglycemia History
+slug: >-
+  what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history
+description: >-
+  Introduces a timed, low-glycemic, protein-fiber combo snack proven in clinical
+  observation to blunt late-phase glucose elevation without triggering rebound
+  hypoglycemia.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: post-dinner snack glucose spike prevention
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts
+  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+  - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---
 
 # A Smart 90-Second Post-Dinner Strategy for Post-Dinner Snack Glucose Spike Prevention in Men 65+ With Type 2 Diabetes

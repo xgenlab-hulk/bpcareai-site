@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: ‘Just One Slice’ of Pumpkin Pie and Its Effect on Late-Night Melatonin Suppression in Adults 66+ With Sleep-Onset Insomnia"
-slug: "myths-vs-facts-just-one-slice-of-pumpkin-pie-and-its-effect-on-late-night-melatonin-suppression-in-adults-66-with-sleep-onset-insomnia"
-description: "Debunks the 'small portion' myth by analyzing fructose-induced cortisol spikes, circadian phase delay, and real polysomnography data from holiday sleep studies."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["pumpkin pie melatonin sleep onset insomnia", "healthy eating during family gatherings", "circadian-nutrition-sleep-physiology"]
-primaryKeyword: "pumpkin pie melatonin sleep onset insomnia"
-topicCluster: "circadian-nutrition-sleep-physiology"
-image: ""
-relatedSlugs: ["how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65", "the-truth-about-one-bite-dessert-sharing-how-micro-dosing-added-sugars-disrupts-circadian-glucose-rhythms-in-adults-63-80-with-shifted-melatonin-onset-and-evening-hyperglycemia", "the-truth-about-low-sugar-store-bought-pumpkin-pie-fillings-why-91-still-contain-high-fructose-corn-syrup-derivatives-that-bypass-first-pass-metabolism-in-adults-70-with-nafld", "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s", "a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes"]
+title: >-
+  Myths vs Facts: ‘Just One Slice’ of Pumpkin Pie and Its Effect on Late-Night
+  Melatonin Suppression in Adults 66+ With Sleep-Onset Insomnia
+slug: >-
+  myths-vs-facts-just-one-slice-of-pumpkin-pie-and-its-effect-on-late-night-melatonin-suppression-in-adults-66-with-sleep-onset-insomnia
+description: >-
+  Debunks the 'small portion' myth by analyzing fructose-induced cortisol
+  spikes, circadian phase delay, and real polysomnography data from holiday
+  sleep studies.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: pumpkin pie melatonin sleep onset insomnia
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    the-truth-about-one-bite-dessert-sharing-how-micro-dosing-added-sugars-disrupts-circadian-glucose-rhythms-in-adults-63-80-with-shifted-melatonin-onset-and-evening-hyperglycemia
+  - >-
+    the-truth-about-low-sugar-store-bought-pumpkin-pie-fillings-why-91-still-contain-high-fructose-corn-syrup-derivatives-that-bypass-first-pass-metabolism-in-adults-70-with-nafld
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+  - >-
+    a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes
 ---
 
 # Pumpkin Pie, Melatonin, and Sleep-Onset Insomnia in Adults 66+: Separating Holiday Myths from Sleep Science

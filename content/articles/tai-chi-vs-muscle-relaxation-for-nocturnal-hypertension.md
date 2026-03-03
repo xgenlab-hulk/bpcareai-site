@@ -1,14 +1,30 @@
 ---
-title: "A vs B: 10-Minute Seated Tai Chi vs. Guided Progressive Muscle Relaxation for Reducing Nighttime Systolic Spikes in Women 63–75 With Insomnia and Nocturnal Hypertension"
-slug: "a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension"
-description: "Compares two non-pharmacologic, low-barrier interventions for BP dipping failure, emphasizing neural mechanisms, feasibility for mobility-limited seniors, and 7-day ambulatory BP outcomes."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["tai chi vs muscle relaxation for nocturnal hypertension", "heart health", "nonpharmacologic-interventions-nocturnal-bp"]
-primaryKeyword: "tai chi vs muscle relaxation for nocturnal hypertension"
-topicCluster: "nonpharmacologic-interventions-nocturnal-bp"
-image: ""
-relatedSlugs: ["a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76", "how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension", "a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea", "quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns", "a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79"]
+title: >-
+  A vs B: 10-Minute Seated Tai Chi vs. Guided Progressive Muscle Relaxation for
+  Reducing Nighttime Systolic Spikes in Women 63–75 With Insomnia and Nocturnal
+  Hypertension
+slug: >-
+  a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
+description: >-
+  Compares two non-pharmacologic, low-barrier interventions for BP dipping
+  failure, emphasizing neural mechanisms, feasibility for mobility-limited
+  seniors, and 7-day ambulatory BP outcomes.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: tai chi vs muscle relaxation for nocturnal hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76
+  - >-
+    how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension
+  - >-
+    a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea
+  - >-
+    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
+  - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
 ---
 
 # Tai Chi vs Muscle Relaxation for Nocturnal Hypertension: What Works Best for Women 63–75 with Insomnia?

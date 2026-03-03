@@ -7,12 +7,8 @@ description: >-
   cues.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - signs of seasonal depression in seniors
-  - seasonal depression in older adults
-  - symptom-recognition
 primaryKeyword: signs of seasonal depression in seniors
-topicCluster: symptoms-emergencies
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home

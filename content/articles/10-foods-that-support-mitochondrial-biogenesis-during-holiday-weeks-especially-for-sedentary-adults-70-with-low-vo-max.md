@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Support Mitochondrial Biogenesis During Holiday Weeks—Especially for Sedentary Adults 70+ With Low VO₂ Max"
-slug: "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max"
-description: "Highlights mitochondria-targeted nutrients (e.g., urolithin A precursors, sulforaphane-rich sides, nitrate-dense greens) with demonstrated upregulation of PGC-1α in aging muscle—plus simple prep hacks."
-date: "2026-01-02"
-updated: "2026-01-02"
-tags: ["foods mitochondrial biogenesis seniors", "healthy holiday eating for seniors", "cellular-energy-nutrition"]
-primaryKeyword: "foods mitochondrial biogenesis seniors"
-topicCluster: "cellular-energy-nutrition"
-image: ""
-relatedSlugs: ["natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65", "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib", "natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60", "how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study", "quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration"]
+title: >-
+  10 Foods That Support Mitochondrial Biogenesis During Holiday Weeks—Especially
+  for Sedentary Adults 70+ With Low VO₂ Max
+slug: >-
+  10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+description: >-
+  Highlights mitochondria-targeted nutrients (e.g., urolithin A precursors,
+  sulforaphane-rich sides, nitrate-dense greens) with demonstrated upregulation
+  of PGC-1α in aging muscle—plus simple prep hacks.
+date: '2026-01-02'
+updated: '2026-01-02'
+primaryKeyword: foods mitochondrial biogenesis seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+  - >-
+    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
+  - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
+  - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
 ---
 
 # 10 Holiday Foods That Spark Mitochondrial Renewal—Especially for Seniors 70+ With Low VO₂ Max (foods mitochondrial biogenesis seniors)

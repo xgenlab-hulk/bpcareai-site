@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Morning Walk Before Breakfast vs. 30 Minutes After Dinner — Impact on 24-Hour Glucose Variability in Adults 60–76 With Postprandial Hyperglycemia"
-slug: "a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia"
-description: "Compares acute effects on hepatic glucose output, postprandial insulin sensitivity, and nocturnal hypoglycemia risk using CGM-derived MAGE and TAR metrics — with personalized timing recommendations based on baseline A1c and renal function."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["exercise timing postprandial glucose variability", "diabetes", "exercise-timing-glucose-response"]
-primaryKeyword: "exercise timing postprandial glucose variability"
-topicCluster: "exercise-timing-glucose-response"
-image: ""
-relatedSlugs: ["a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity", "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance", "a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes", "how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin", "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension"]
+title: >-
+  A vs B: Morning Walk Before Breakfast vs. 30 Minutes After Dinner — Impact on
+  24-Hour Glucose Variability in Adults 60–76 With Postprandial Hyperglycemia
+slug: >-
+  a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
+description: >-
+  Compares acute effects on hepatic glucose output, postprandial insulin
+  sensitivity, and nocturnal hypoglycemia risk using CGM-derived MAGE and TAR
+  metrics — with personalized timing recommendations based on baseline A1c and
+  renal function.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: exercise timing postprandial glucose variability
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+  - >-
+    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
 ---
 
 # Morning Walk Before Breakfast vs. 30 Minutes After Dinner: How Exercise Timing Postprandial Glucose Variability Affects Older Adults With Postprandial Hyperglycemia

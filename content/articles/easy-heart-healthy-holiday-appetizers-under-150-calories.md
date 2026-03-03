@@ -6,10 +6,6 @@ description: >-
   cholesterol, designed specifically for seniors watching their heart health.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - heart-healthy holiday appetizers under 150 calories
-  - healthy holiday eating for seniors
-  - cardiac-diet
 primaryKeyword: heart-healthy holiday appetizers under 150 calories
 topicCluster: cardiovascular-health
 image: ''

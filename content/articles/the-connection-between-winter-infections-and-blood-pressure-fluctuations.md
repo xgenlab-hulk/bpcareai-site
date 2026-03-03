@@ -1,14 +1,20 @@
 ---
-title: "The Connection Between Winter Infections and Blood Pressure Fluctuations"
-slug: "the-connection-between-winter-infections-and-blood-pressure-fluctuations"
-description: "Explores how common colds, flu, and respiratory illnesses can destabilize hypertension control in seniors."
-date: "2025-12-20"
-updated: "2025-12-20"
-tags: ["infections and blood pressure", "senior blood pressure control in winter", "complications-related-conditions"]
-primaryKeyword: "infections and blood pressure"
-topicCluster: "complications-related-conditions"
-image: ""
-relatedSlugs: ["the-link-between-winter-depression-and-high-blood-pressure-in-older-adults", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "winter-vs-summer-blood-pressure-what-seniors-need-to-know", "7-hidden-winter-habits-that-worsen-hypertension-after-60", "how-does-cold-weather-affect-blood-pressure-in-older-adults"]
+title: The Connection Between Winter Infections and Blood Pressure Fluctuations
+slug: the-connection-between-winter-infections-and-blood-pressure-fluctuations
+description: >-
+  Explores how common colds, flu, and respiratory illnesses can destabilize
+  hypertension control in seniors.
+date: '2025-12-20'
+updated: '2025-12-20'
+primaryKeyword: infections and blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
+  - 7-hidden-winter-habits-that-worsen-hypertension-after-60
+  - how-does-cold-weather-affect-blood-pressure-in-older-adults
 ---
 
 # How Winter Infections and Blood Pressure Interact—Especially for Adults 50+

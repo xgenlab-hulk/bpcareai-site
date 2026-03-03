@@ -6,12 +6,8 @@ description: >-
   control in older adults.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - vitamin D deficiency and diabetes progression in elderly
-  - diabetes
-  - diabetes-nutrition
 primaryKeyword: vitamin D deficiency and diabetes progression in elderly
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease

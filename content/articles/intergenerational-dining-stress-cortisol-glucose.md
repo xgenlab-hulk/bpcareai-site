@@ -1,14 +1,29 @@
 ---
-title: "How Intergenerational Dining Stress Activates the Amygdala-Hypothalamic Axis — And What to Eat Before the Gathering to Stabilize Cortisol and Glucose in Adults 60+"
-slug: "how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60"
-description: "Links social-cognitive load (e.g., caregiving, conflict avoidance, role expectations) to neuroendocrine meal responses, then prescribes pre-gathering nutrition to blunt cortisol-driven glycemic volatility and vagal withdrawal."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["intergenerational dining stress cortisol glucose", "healthy eating during family gatherings", "neurobehavioral-nutrition"]
-primaryKeyword: "intergenerational dining stress cortisol glucose"
-topicCluster: "neurobehavioral-nutrition"
-image: ""
-relatedSlugs: ["how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes", "how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation", "how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp"]
+title: >-
+  How Intergenerational Dining Stress Activates the Amygdala-Hypothalamic Axis —
+  And What to Eat Before the Gathering to Stabilize Cortisol and Glucose in
+  Adults 60+
+slug: >-
+  how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
+description: >-
+  Links social-cognitive load (e.g., caregiving, conflict avoidance, role
+  expectations) to neuroendocrine meal responses, then prescribes pre-gathering
+  nutrition to blunt cortisol-driven glycemic volatility and vagal withdrawal.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: intergenerational dining stress cortisol glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
+  - >-
+    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
+  - >-
+    how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - >-
+    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
 ---
 
 # How Intergenerational Dining Stress Triggers Cortisol and Glucose Swings — And What to Eat Before Family Gatherings (Age 60+)

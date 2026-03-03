@@ -6,12 +6,8 @@ description: >-
   activity — that can lead to dangerous glucose swings.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - holiday blood sugar mistakes
-  - managing blood sugar during Christmas and New Year
-  - warning-signs
 primaryKeyword: holiday blood sugar mistakes
-topicCluster: symptoms-emergencies
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

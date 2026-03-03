@@ -10,12 +10,8 @@ description: >-
   aging male urinary tracts.
 date: '2026-01-06'
 updated: '2026-01-06'
-tags:
-  - cranberry sauce urinary ph uti
-  - healthy eating during family gatherings
-  - urinary-tract-nutrition
 primaryKeyword: cranberry sauce urinary ph uti
-topicCluster: urinary-tract-nutrition
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

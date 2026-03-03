@@ -6,10 +6,6 @@ description: >-
   heart wellness.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - alcohol effects on heart health after 55
-  - heart health
-  - heart-health
 primaryKeyword: alcohol effects on heart health after 55
 topicCluster: cardiovascular-health
 image: ''

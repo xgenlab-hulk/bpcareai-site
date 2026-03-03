@@ -10,12 +10,8 @@ description: >-
   auscultatory methods.
 date: '2025-12-25'
 updated: '2025-12-25'
-tags:
-  - blood pressure cuff accuracy afib
-  - blood pressure
-  - measurement-reliability
 primaryKeyword: blood pressure cuff accuracy afib
-topicCluster: measurement-reliability
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

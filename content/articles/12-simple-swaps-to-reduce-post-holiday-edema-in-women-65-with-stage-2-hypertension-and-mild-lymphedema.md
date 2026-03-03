@@ -1,14 +1,28 @@
 ---
-title: "12 Simple Swaps to Reduce Post-Holiday Edema in Women 65+ With Stage 2 Hypertension and Mild Lymphedema"
-slug: "12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema"
-description: "Actionable, kitchen-based substitutions — from herb-infused broths to roasted veggie prep techniques — that lower capillary permeability and interstitial fluid retention without diuretics."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["reduce post-holiday edema seniors women", "healthy holiday eating for seniors", "fluid-balance-hypertension-women"]
-primaryKeyword: "reduce post-holiday edema seniors women"
-topicCluster: "fluid-balance-hypertension-women"
-image: ""
-relatedSlugs: ["7-smart-swaps-for-healthier-holiday-meals-after-65", "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor", "natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings", "warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics"]
+title: >-
+  12 Simple Swaps to Reduce Post-Holiday Edema in Women 65+ With Stage 2
+  Hypertension and Mild Lymphedema
+slug: >-
+  12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema
+description: >-
+  Actionable, kitchen-based substitutions — from herb-infused broths to roasted
+  veggie prep techniques — that lower capillary permeability and interstitial
+  fluid retention without diuretics.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: reduce post-holiday edema seniors women
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
+  - >-
+    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
+  - >-
+    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
 ---
 
 # 12 Kitchen-Based Swaps to Help Reduce Post-Holiday Edema in Seniors and Women Over 65

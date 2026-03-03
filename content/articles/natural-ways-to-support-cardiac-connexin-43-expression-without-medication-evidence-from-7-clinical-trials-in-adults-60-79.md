@@ -11,12 +11,8 @@ description: >-
   conduction stability.
 date: '2025-12-24'
 updated: '2025-12-24'
-tags:
-  - connexin-43 expression support in aging heart
-  - holiday heart syndrome prevention
-  - molecular-cardiology
 primaryKeyword: connexin-43 expression support in aging heart
-topicCluster: molecular-cardiology
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

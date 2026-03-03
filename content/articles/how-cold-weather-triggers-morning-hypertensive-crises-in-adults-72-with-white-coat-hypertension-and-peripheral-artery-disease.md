@@ -1,14 +1,28 @@
 ---
-title: "How Cold Weather Triggers Morning Hypertensive Crises in Adults 72+ With White-Coat Hypertension and Peripheral Artery Disease"
-slug: "how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease"
-description: "Explores the physiological cascade—vasoconstriction, sympathetic surge, and delayed BP dipping—that makes winter mornings uniquely dangerous for older adults with borderline office readings and PAD, backed by 2023 ambulatory BP registry data."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["cold weather morning hypertension elderly", "heart health", "environmental-triggers-seasonal-cardiovascular-risk"]
-primaryKeyword: "cold weather morning hypertension elderly"
-topicCluster: "environmental-triggers-seasonal-cardiovascular-risk"
-image: ""
-relatedSlugs: ["why-morning-blood-pressure-surges-are-more-dangerous-in-winter", "why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know", "how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction", "what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension", "the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging"]
+title: >-
+  How Cold Weather Triggers Morning Hypertensive Crises in Adults 72+ With
+  White-Coat Hypertension and Peripheral Artery Disease
+slug: >-
+  how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
+description: >-
+  Explores the physiological cascade—vasoconstriction, sympathetic surge, and
+  delayed BP dipping—that makes winter mornings uniquely dangerous for older
+  adults with borderline office readings and PAD, backed by 2023 ambulatory BP
+  registry data.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: cold weather morning hypertension elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
+  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+  - >-
+    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
+  - >-
+    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
+  - >-
+    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
 ---
 
 # Why Cold Weather Morning Hypertension Elderly Adults Need Extra Care in Winter

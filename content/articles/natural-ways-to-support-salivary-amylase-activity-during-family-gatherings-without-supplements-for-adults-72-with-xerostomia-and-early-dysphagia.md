@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Salivary Amylase Activity During Family Gatherings — Without Supplements — For Adults 72+ With Xerostomia and Early Dysphagia"
-slug: "natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia"
-description: "Offers evidence-based sensory priming techniques (e.g., chilled citrus zest inhalation, gentle submandibular massage timing, temperature-modulated first-bite sequencing) to enhance starch digestion and reduce aspiration risk during multi-generational meals."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["salivary amylase support xerostomia dysphagia", "healthy eating during family gatherings", "oral-digestive-physiology"]
-primaryKeyword: "salivary amylase support xerostomia dysphagia"
-topicCluster: "oral-digestive-physiology"
-image: ""
-relatedSlugs: ["natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia", "natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd", "natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear", "quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes", "natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia"]
+title: >-
+  Natural Ways to Support Salivary Amylase Activity During Family Gatherings —
+  Without Supplements — For Adults 72+ With Xerostomia and Early Dysphagia
+slug: >-
+  natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia
+description: >-
+  Offers evidence-based sensory priming techniques (e.g., chilled citrus zest
+  inhalation, gentle submandibular massage timing, temperature-modulated
+  first-bite sequencing) to enhance starch digestion and reduce aspiration risk
+  during multi-generational meals.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: salivary amylase support xerostomia dysphagia
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+  - >-
+    natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd
+  - >-
+    natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear
+  - >-
+    quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
+  - >-
+    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
 ---
 
 # Gentle, Evidence-Based Salivary Amylase Support for Older Adults With Xerostomia and Early Dysphagia During Family Gatherings

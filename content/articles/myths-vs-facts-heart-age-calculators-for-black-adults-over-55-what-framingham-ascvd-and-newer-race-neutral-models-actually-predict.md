@@ -10,12 +10,8 @@ description: >-
   stratification and clinical actionability.
 date: '2026-02-24'
 updated: '2026-02-24'
-tags:
-  - heart age calculator myths black adults over 55
-  - heart disease
-  - risk-assessment-race-specific
 primaryKeyword: heart age calculator myths black adults over 55
-topicCluster: risk-assessment-race-specific
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-

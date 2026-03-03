@@ -6,12 +6,8 @@ description: >-
   and glucose regulation in diabetics over 50.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - holiday environment sleep blood sugar
-  - holiday diabetes management
-  - sleep-environment-impact
 primaryKeyword: holiday environment sleep blood sugar
-topicCluster: sleep-rest
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do

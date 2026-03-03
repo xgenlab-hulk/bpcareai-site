@@ -10,12 +10,8 @@ description: >-
   satiety signaling—and how to gently reframe them without guilt or conflict.
 date: '2025-12-23'
 updated: '2025-12-23'
-tags:
-  - portion distortion intergenerational feeding scripts
-  - healthy eating during family gatherings
-  - behavioral-nutrition-psychology
 primaryKeyword: portion distortion intergenerational feeding scripts
-topicCluster: behavioral-nutrition-psychology
+topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-

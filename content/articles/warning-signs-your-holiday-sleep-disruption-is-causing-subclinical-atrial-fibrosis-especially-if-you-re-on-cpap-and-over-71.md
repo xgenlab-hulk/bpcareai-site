@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your Holiday Sleep Disruption Is Causing Subclinical Atrial Fibrosis—Especially If You’re on CPAP and Over 71"
-slug: "warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71"
-description: "Describes subtle but measurable indicators—nocturnal oxygen desaturation dips <88%, elevated morning NT-proBNP, and progressive loss of HRV complexity—that suggest structural remodeling, not just functional arrhythmia."
-date: "2025-12-26"
-updated: "2025-12-26"
-tags: ["sleep disruption and atrial fibrosis warning signs", "holiday heart syndrome prevention", "structural-remodeling-signs"]
-primaryKeyword: "sleep disruption and atrial fibrosis warning signs"
-topicCluster: "structural-remodeling-signs"
-image: ""
-relatedSlugs: ["a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60", "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath", "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else", "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60", "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve"]
+title: >-
+  Warning Signs Your Holiday Sleep Disruption Is Causing Subclinical Atrial
+  Fibrosis—Especially If You’re on CPAP and Over 71
+slug: >-
+  warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+description: >-
+  Describes subtle but measurable indicators—nocturnal oxygen desaturation dips
+  <88%, elevated morning NT-proBNP, and progressive loss of HRV complexity—that
+  suggest structural remodeling, not just functional arrhythmia.
+date: '2025-12-26'
+updated: '2025-12-26'
+primaryKeyword: sleep disruption and atrial fibrosis warning signs
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
+  - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
+  - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
 ---
 
 # Subtle Sleep Disruption and Atrial Fibrosis Warning Signs You Might Miss This Holiday Season—Especially If You’re Over 71 and Use CPAP

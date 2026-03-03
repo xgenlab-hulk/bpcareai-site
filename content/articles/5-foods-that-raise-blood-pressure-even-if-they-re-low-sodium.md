@@ -7,12 +7,8 @@ description: >-
   newly diagnosed patients over 50.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - foods that raise blood pressure low-sodium
-  - blood pressure
-  - cardiac-diet-pitfalls
 primaryKeyword: foods that raise blood pressure low-sodium
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure

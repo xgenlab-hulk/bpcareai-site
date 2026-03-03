@@ -1,14 +1,28 @@
 ---
-title: "How Chronic Air Pollution Exposure Alters Endothelial Function in Adults 60+ Living Within 1 Mile of High-Traffic Arteries"
-slug: "how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries"
-description: "Breaks down the mechanistic link between long-term PM2.5 exposure, nitric oxide depletion, and accelerated arterial stiffening—plus practical indoor air mitigation strategies validated in urban geriatric cohorts."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["air pollution endothelial function seniors", "heart disease", "environmental-risk-factors"]
-primaryKeyword: "air pollution endothelial function seniors"
-topicCluster: "environmental-risk-factors"
-image: ""
-relatedSlugs: ["how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55", "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments", "can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81", "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults", "does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors"]
+title: >-
+  How Chronic Air Pollution Exposure Alters Endothelial Function in Adults 60+
+  Living Within 1 Mile of High-Traffic Arteries
+slug: >-
+  how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
+description: >-
+  Breaks down the mechanistic link between long-term PM2.5 exposure, nitric
+  oxide depletion, and accelerated arterial stiffening—plus practical indoor air
+  mitigation strategies validated in urban geriatric cohorts.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: air pollution endothelial function seniors
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - >-
+    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+  - >-
+    can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
+  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
+  - >-
+    does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
 ---
 
 # How Air Pollution Affects Endothelial Function in Seniors Living Near Busy Roads  

@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Strategies to Prevent Post-Holiday Weight Regain in Adults 58–65 With Recent Bariatric Surgery — Focused on Social Eating Triggers and Adaptive Portion Cues"
-slug: "12-science-backed-strategies-to-prevent-post-holiday-weight-regain-in-adults-58-65-with-recent-bariatric-surgery-focused-on-social-eating-triggers-and-adaptive-portion-cues"
-description: "Presents behaviorally grounded, surgery-specific techniques to maintain weight loss during high-social-pressure seasons—emphasizing environmental cue modification over willpower."
-date: "2026-02-10"
-updated: "2026-02-10"
-tags: ["post-bariatric holiday weight regain prevention", "healthy holiday eating for seniors", "weight-management-surgery"]
-primaryKeyword: "post-bariatric holiday weight regain prevention"
-topicCluster: "weight-management-surgery"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years", "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes", "12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement", "natural-ways-to-support-glycemic-resilience-during-holiday-social-events-without-supplements-or-diet-pills-for-adults-55-64-newly-diagnosed-with-type-2-diabetes", "how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64"]
+title: >-
+  12 Science-Backed Strategies to Prevent Post-Holiday Weight Regain in Adults
+  58–65 With Recent Bariatric Surgery — Focused on Social Eating Triggers and
+  Adaptive Portion Cues
+slug: >-
+  12-science-backed-strategies-to-prevent-post-holiday-weight-regain-in-adults-58-65-with-recent-bariatric-surgery-focused-on-social-eating-triggers-and-adaptive-portion-cues
+description: >-
+  Presents behaviorally grounded, surgery-specific techniques to maintain weight
+  loss during high-social-pressure seasons—emphasizing environmental cue
+  modification over willpower.
+date: '2026-02-10'
+updated: '2026-02-10'
+primaryKeyword: post-bariatric holiday weight regain prevention
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
+  - >-
+    natural-ways-to-support-glycemic-resilience-during-holiday-social-events-without-supplements-or-diet-pills-for-adults-55-64-newly-diagnosed-with-type-2-diabetes
+  - >-
+    how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64
 ---
 
 # Science-Backed Strategies for Post-Bariatric Holiday Weight Regain Prevention in Adults 58–65

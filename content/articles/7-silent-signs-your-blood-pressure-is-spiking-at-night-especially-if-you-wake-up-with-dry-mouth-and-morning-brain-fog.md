@@ -1,14 +1,29 @@
 ---
-title: "7 Silent Signs Your Blood Pressure Is Spiking at Night — Especially If You Wake Up with Dry Mouth and Morning Brain Fog"
-slug: "7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog"
-description: "Explores nocturnal hypertension symptoms often missed in adults 65+, including dry mouth, nocturia, unrefreshing sleep, and morning cognitive lag — with actionable home detection tips."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["nocturnal hypertension signs in seniors", "blood pressure", "emergency-symptoms"]
-primaryKeyword: "nocturnal hypertension signs in seniors"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal", "7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65", "7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62"]
+title: >-
+  7 Silent Signs Your Blood Pressure Is Spiking at Night — Especially If You
+  Wake Up with Dry Mouth and Morning Brain Fog
+slug: >-
+  7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog
+description: >-
+  Explores nocturnal hypertension symptoms often missed in adults 65+, including
+  dry mouth, nocturia, unrefreshing sleep, and morning cognitive lag — with
+  actionable home detection tips.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: nocturnal hypertension signs in seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
 ---
 
 # 7 Quiet Clues Your Blood Pressure Is Rising at Night — Especially If You Wake Up with Dry Mouth and Morning Brain Fog (Nocturnal Hypertension Signs in Seniors)

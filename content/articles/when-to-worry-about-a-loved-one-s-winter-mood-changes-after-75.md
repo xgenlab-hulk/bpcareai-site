@@ -6,12 +6,8 @@ description: >-
   aging behaviors in cold months.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - when to worry about seasonal depression
-  - seasonal depression in older adults
-  - emergency-symptoms
 primaryKeyword: when to worry about seasonal depression
-topicCluster: symptoms-emergencies
+topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults

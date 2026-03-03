@@ -10,12 +10,8 @@ description: >-
   independently predicts lacunar stroke in octogenarians.
 date: '2025-12-26'
 updated: '2025-12-26'
-tags:
-  - ambulatory blood pressure report interpretation stroke risk
-  - blood pressure
-  - abpm-clinical-translation
 primaryKeyword: ambulatory blood pressure report interpretation stroke risk
-topicCluster: abpm-clinical-translation
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,30 @@
 ---
-title: "A vs B: 12-Week Time-Restricted Eating Starting at 6 a.m. vs. 10 a.m. — Impact on Fasting Triglycerides, Hepatic Fat Fraction, and Postprandial GLP-1 in Adults 55–62 With NAFLD and Prediabetes"
-slug: "a-vs-b-12-week-time-restricted-eating-starting-at-6-a-m-vs-10-a-m-impact-on-fasting-triglycerides-hepatic-fat-fraction-and-postprandial-glp-1-in-adults-55-62-with-nafld-and-prediabetes"
-description: "Compares two early-morning TRF windows using MRI-PDFF, oral fat tolerance tests, and multiplex gut hormone assays—revealing how earlier feeding preserves diurnal GLP-1 amplitude better than late-morning onset."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["trf window timing nafld prediabetes", "diabetes", "trf-timing-metabolic-outcomes"]
-primaryKeyword: "trf window timing nafld prediabetes"
-topicCluster: "trf-timing-metabolic-outcomes"
-image: ""
-relatedSlugs: ["how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin", "natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt", "what-research-says-about-time-restricted-eating-starting-at-4-p-m-for-adults-67-with-type-2-diabetes-and-early-diastolic-dysfunction-impact-on-cardiac-strain-and-nt-probnp-trajectories", "a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity", "12-science-backed-times-to-serve-a-protein-first-bite-not-just-eat-slowly-to-reduce-post-holiday-triglyceride-spikes-in-adults-68-with-metabolic-syndrome"]
+title: >-
+  A vs B: 12-Week Time-Restricted Eating Starting at 6 a.m. vs. 10 a.m. — Impact
+  on Fasting Triglycerides, Hepatic Fat Fraction, and Postprandial GLP-1 in
+  Adults 55–62 With NAFLD and Prediabetes
+slug: >-
+  a-vs-b-12-week-time-restricted-eating-starting-at-6-a-m-vs-10-a-m-impact-on-fasting-triglycerides-hepatic-fat-fraction-and-postprandial-glp-1-in-adults-55-62-with-nafld-and-prediabetes
+description: >-
+  Compares two early-morning TRF windows using MRI-PDFF, oral fat tolerance
+  tests, and multiplex gut hormone assays—revealing how earlier feeding
+  preserves diurnal GLP-1 amplitude better than late-morning onset.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: trf window timing nafld prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
+  - >-
+    natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt
+  - >-
+    what-research-says-about-time-restricted-eating-starting-at-4-p-m-for-adults-67-with-type-2-diabetes-and-early-diastolic-dysfunction-impact-on-cardiac-strain-and-nt-probnp-trajectories
+  - >-
+    a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity
+  - >-
+    12-science-backed-times-to-serve-a-protein-first-bite-not-just-eat-slowly-to-reduce-post-holiday-triglyceride-spikes-in-adults-68-with-metabolic-syndrome
 ---
 
 # How TRF Window Timing in NAFLD and Prediabetes Affects Liver Health and Gut Hormones

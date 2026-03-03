@@ -1,14 +1,29 @@
 ---
-title: "5 Things You Should Know Before Starting a Daily Magnesium Glycinate Protocol — Especially If You’re Taking Amiodarone or Digoxin and Are Over 75"
-slug: "5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75"
-description: "Covers critical drug–nutrient interactions, optimal dosing windows to avoid QT prolongation, interpreting RBC magnesium vs serum levels, and why glycinate may worsen nocturnal bradycardia in frail elders."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["magnesium glycinate amiodarone digoxin older adults", "heart health", "cardiac-medications-magnesium-interactions"]
-primaryKeyword: "magnesium glycinate amiodarone digoxin older adults"
-topicCluster: "cardiac-medications-magnesium-interactions"
-image: ""
-relatedSlugs: ["what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone", "does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy", "does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium", "when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use", "10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone"]
+title: >-
+  5 Things You Should Know Before Starting a Daily Magnesium Glycinate Protocol
+  — Especially If You’re Taking Amiodarone or Digoxin and Are Over 75
+slug: >-
+  5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
+description: >-
+  Covers critical drug–nutrient interactions, optimal dosing windows to avoid QT
+  prolongation, interpreting RBC magnesium vs serum levels, and why glycinate
+  may worsen nocturnal bradycardia in frail elders.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: magnesium glycinate amiodarone digoxin older adults
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
+  - >-
+    does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
+  - >-
+    does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
+  - >-
+    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
+  - >-
+    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
 ---
 
 # What You Need to Know Before Taking Magnesium Glycinate With Amiodarone or Digoxin After Age 75

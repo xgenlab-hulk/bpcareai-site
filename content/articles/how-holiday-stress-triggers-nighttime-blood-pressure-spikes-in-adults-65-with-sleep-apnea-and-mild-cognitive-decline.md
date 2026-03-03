@@ -1,14 +1,26 @@
 ---
-title: "How Holiday Stress Triggers Nighttime Blood Pressure Spikes in Adults 65+ With Sleep Apnea and Mild Cognitive Decline"
-slug: "how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline"
-description: "Explores the physiological link between festive stress, disrupted sleep architecture, and nocturnal hypertension in older adults with comorbid OSA and early cognitive changes — including practical non-pharmacologic mitigation strategies."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["holiday stress and nighttime blood pressure seniors", "healthy holiday eating for seniors", "stress-sleep-hypertension-link"]
-primaryKeyword: "holiday stress and nighttime blood pressure seniors"
-topicCluster: "stress-sleep-hypertension-link"
-image: ""
-relatedSlugs: ["can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65", "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50", "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol"]
+title: >-
+  How Holiday Stress Triggers Nighttime Blood Pressure Spikes in Adults 65+ With
+  Sleep Apnea and Mild Cognitive Decline
+slug: >-
+  how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
+description: >-
+  Explores the physiological link between festive stress, disrupted sleep
+  architecture, and nocturnal hypertension in older adults with comorbid OSA and
+  early cognitive changes — including practical non-pharmacologic mitigation
+  strategies.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: holiday stress and nighttime blood pressure seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
+  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
 ---
 
 # How Holiday Stress and Nighttime Blood Pressure in Seniors Interact—Especially With Sleep Apnea and Mild Cognitive Changes

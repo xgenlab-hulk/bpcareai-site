@@ -6,12 +6,8 @@ description: >-
   metabolism, especially in older adults with insulin resistance.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - late-night snacking blood sugar
-  - managing blood sugar during Christmas and New Year
-  - diet-nutrition
 primaryKeyword: late-night snacking blood sugar
-topicCluster: nutrition-diet
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts

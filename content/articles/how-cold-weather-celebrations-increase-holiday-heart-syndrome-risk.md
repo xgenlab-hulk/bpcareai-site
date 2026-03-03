@@ -6,12 +6,8 @@ description: >-
   elevate cardiovascular strain.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - cold weather holiday heart
-  - holiday heart syndrome prevention
-  - seasonal-factors
 primaryKeyword: cold weather holiday heart
-topicCluster: seasonal-health
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50

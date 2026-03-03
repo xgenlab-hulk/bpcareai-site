@@ -1,14 +1,27 @@
 ---
-title: "Best Walking Interventions After Christmas Dinner—10-Minute vs. 22-Minute vs. Split-Session for Adults With Type 2 Diabetes Over 67"
-slug: "best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67"
-description: "Synthesizes RCT data on postprandial walking duration, timing, and distribution to optimize 2-hour glucose clearance—accounting for orthostatic intolerance and joint limitations."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["walking after christmas dinner diabetes", "managing blood sugar during christmas and new year", "exercise-postprandial-optimization"]
-primaryKeyword: "walking after christmas dinner diabetes"
-topicCluster: "exercise-postprandial-optimization"
-image: ""
-relatedSlugs: ["a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "can-walking-after-meals-lower-blood-sugar-in-older-adults", "12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years", "quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75"]
+title: >-
+  Best Walking Interventions After Christmas Dinner—10-Minute vs. 22-Minute vs.
+  Split-Session for Adults With Type 2 Diabetes Over 67
+slug: >-
+  best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+description: >-
+  Synthesizes RCT data on postprandial walking duration, timing, and
+  distribution to optimize 2-hour glucose clearance—accounting for orthostatic
+  intolerance and joint limitations.
+date: '2026-01-01'
+updated: '2026-01-01'
+primaryKeyword: walking after christmas dinner diabetes
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+  - >-
+    quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
 ---
 
 # Best Post-Dinner Walking Strategies for Adults With Type 2 Diabetes Over 67—What the Evidence Says About Walking After Christmas Dinner Diabetes

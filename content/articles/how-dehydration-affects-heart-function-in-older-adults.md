@@ -6,10 +6,6 @@ description: >-
   heart disease symptoms.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - dehydration and heart function in seniors
-  - heart disease
-  - heart-health
 primaryKeyword: dehydration and heart function in seniors
 topicCluster: cardiovascular-health
 image: ''

@@ -1,14 +1,29 @@
 ---
-title: "Natural Ways to Support Post-Holiday Bile Acid Recycling Without Supplements — For Adults 65–81 With Chronic Constipation and Low-Fat Diet History"
-slug: "natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history"
-description: "Focuses on meal sequencing (bitter greens before fats), timed fiber intake (psyllium *after* fat consumption), and circadian-timed coffee consumption to stimulate CCK and FXR signaling—not just laxative effects."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["bile acid recycling natural constipation elderly", "healthy eating during family gatherings", "hepatic-gut-axis"]
-primaryKeyword: "bile acid recycling natural constipation elderly"
-topicCluster: "hepatic-gut-axis"
-image: ""
-relatedSlugs: ["natural-ways-to-support-bile-acid-recycling-after-rich-holiday-meals-without-supplements-for-adults-66-79-with-post-cholecystectomy-fat-malabsorption", "natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy", "natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics", "quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs", "what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65"]
+title: >-
+  Natural Ways to Support Post-Holiday Bile Acid Recycling Without Supplements —
+  For Adults 65–81 With Chronic Constipation and Low-Fat Diet History
+slug: >-
+  natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
+description: >-
+  Focuses on meal sequencing (bitter greens before fats), timed fiber intake
+  (psyllium *after* fat consumption), and circadian-timed coffee consumption to
+  stimulate CCK and FXR signaling—not just laxative effects.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: bile acid recycling natural constipation elderly
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-bile-acid-recycling-after-rich-holiday-meals-without-supplements-for-adults-66-79-with-post-cholecystectomy-fat-malabsorption
+  - >-
+    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
+  - >-
+    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
+  - >-
+    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
+  - >-
+    what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
 ---
 
 # Gentle, Natural Ways to Support Bile Acid Recycling in Older Adults with Constipation

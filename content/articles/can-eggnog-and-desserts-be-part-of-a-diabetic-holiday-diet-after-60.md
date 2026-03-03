@@ -1,14 +1,20 @@
 ---
-title: "Can Eggnog and Desserts Be Part of a Diabetic Holiday Diet After 60?"
-slug: "can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60"
-description: "An evidence-based look at whether traditional holiday treats can be safely included in a senior-friendly diabetic meal plan."
-date: "2025-12-21"
-updated: "2025-12-21"
-tags: ["diabetic holiday desserts over 60", "holiday diabetes management", "diet-nutrition-choices"]
-primaryKeyword: "diabetic holiday desserts over 60"
-topicCluster: "diet-nutrition-choices"
-image: ""
-relatedSlugs: ["best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60", "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70", "best-low-carb-desserts-for-diabetics-over-60-this-holiday-season"]
+title: Can Eggnog and Desserts Be Part of a Diabetic Holiday Diet After 60?
+slug: can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
+description: >-
+  An evidence-based look at whether traditional holiday treats can be safely
+  included in a senior-friendly diabetic meal plan.
+date: '2025-12-21'
+updated: '2025-12-21'
+primaryKeyword: diabetic holiday desserts over 60
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
+  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
 ---
 
 # Can Diabetic Holiday Desserts Over 60 Fit Joyfully Into Your Season?

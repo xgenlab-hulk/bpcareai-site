@@ -1,14 +1,28 @@
 ---
-title: "The Truth About 'Low-Glycemic' Holiday Desserts Made With Date Paste—Do They Really Reduce Glycemic Load, or Just Mask Rapid Fructose Absorption in Adults With NAFLD?"
-slug: "the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld"
-description: "Analyzes how date-sweetened treats impact hepatic fructose metabolism, triglyceride synthesis, and insulin sensitivity in older adults with non-alcoholic fatty liver disease—a common but undiagnosed comorbidity."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["date paste desserts glycemic load nafld seniors", "healthy holiday eating for seniors", "hepatic-metabolism-diet"]
-primaryKeyword: "date paste desserts glycemic load nafld seniors"
-topicCluster: "hepatic-metabolism-diet"
-image: ""
-relatedSlugs: ["the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60", "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76"]
+title: >-
+  The Truth About 'Low-Glycemic' Holiday Desserts Made With Date Paste—Do They
+  Really Reduce Glycemic Load, or Just Mask Rapid Fructose Absorption in Adults
+  With NAFLD?
+slug: >-
+  the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld
+description: >-
+  Analyzes how date-sweetened treats impact hepatic fructose metabolism,
+  triglyceride synthesis, and insulin sensitivity in older adults with
+  non-alcoholic fatty liver disease—a common but undiagnosed comorbidity.
+date: '2026-01-05'
+updated: '2026-01-05'
+primaryKeyword: date paste desserts glycemic load nafld seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+  - >-
+    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - >-
+    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # Do Date Paste Desserts Really Lower Glycemic Load for Seniors with NAFLD? Understanding Fructose, Liver Health, and Holiday Choices

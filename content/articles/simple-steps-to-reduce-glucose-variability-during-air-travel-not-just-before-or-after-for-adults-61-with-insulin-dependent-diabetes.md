@@ -1,14 +1,28 @@
 ---
-title: "Simple Steps to Reduce Glucose Variability *During* Air Travel — Not Just Before or After — for Adults 61+ With Insulin-Dependent Diabetes"
-slug: "simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes"
-description: "Provides in-flight insulin adjustment algorithms, cabin pressure–glucose interaction data, hydration-electrolyte pairing strategies, and TSA-compliant device carrying solutions."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["air travel glucose variability insulin", "diabetes", "travel-metabolic-stability"]
-primaryKeyword: "air travel glucose variability insulin"
-topicCluster: "travel-metabolic-stability"
-image: ""
-relatedSlugs: ["quick-ways-to-reduce-bp-variability-during-air-travel-in-adults-70-with-history-of-hypertensive-urgency", "holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides", "5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes", "how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia", "how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide"]
+title: >-
+  Simple Steps to Reduce Glucose Variability *During* Air Travel — Not Just
+  Before or After — for Adults 61+ With Insulin-Dependent Diabetes
+slug: >-
+  simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes
+description: >-
+  Provides in-flight insulin adjustment algorithms, cabin pressure–glucose
+  interaction data, hydration-electrolyte pairing strategies, and TSA-compliant
+  device carrying solutions.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: air travel glucose variability insulin
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-reduce-bp-variability-during-air-travel-in-adults-70-with-history-of-hypertensive-urgency
+  - >-
+    holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
+  - >-
+    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
+  - >-
+    how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
+  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 ---
 
 # Keeping Your Glucose Steady *During* the Flight: Practical Strategies for Air Travel Glucose Variability Insulin Management After 61

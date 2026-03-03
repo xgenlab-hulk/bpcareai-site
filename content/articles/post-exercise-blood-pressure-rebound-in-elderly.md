@@ -1,14 +1,30 @@
 ---
-title: "What Causes ‘Post-Exercise Blood Pressure Rebound’—A Sudden 25+ mmHg Systolic Rise 45 Minutes After Moderate Walking in Adults 71–84 With Orthostatic Hypotension?"
-slug: "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension"
-description: "Investigates autonomic dysregulation, baroreflex lag, and vascular stiffness as drivers of delayed hypertensive response post-ambulation in frail older adults."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["post-exercise blood pressure rebound in elderly", "heart health", "exercise-physiology-autonomic-dysregulation"]
-primaryKeyword: "post-exercise blood pressure rebound in elderly"
-topicCluster: "exercise-physiology-autonomic-dysregulation"
-image: ""
-relatedSlugs: ["why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72", "what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85", "when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67", "how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction", "why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds"]
+title: >-
+  What Causes ‘Post-Exercise Blood Pressure Rebound’—A Sudden 25+ mmHg Systolic
+  Rise 45 Minutes After Moderate Walking in Adults 71–84 With Orthostatic
+  Hypotension?
+slug: >-
+  what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+description: >-
+  Investigates autonomic dysregulation, baroreflex lag, and vascular stiffness
+  as drivers of delayed hypertensive response post-ambulation in frail older
+  adults.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: post-exercise blood pressure rebound in elderly
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+  - >-
+    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
+  - >-
+    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
+  - >-
+    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
+  - >-
+    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
 ---
 
 # Understanding Post-Exercise Blood Pressure Rebound in Elderly Adults: Why BP May Rise After a Gentle Walk

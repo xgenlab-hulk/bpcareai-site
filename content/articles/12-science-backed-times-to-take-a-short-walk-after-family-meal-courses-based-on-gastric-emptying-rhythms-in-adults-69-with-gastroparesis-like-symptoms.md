@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Times to Take a Short Walk *After* Family Meal Courses — Based on Gastric Emptying Rhythms in Adults 69+ With Gastroparesis-Like Symptoms"
-slug: "12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms"
-description: "Maps optimal 3–5 minute walk windows to gastric motilin surges and postprandial vagal tone shifts, validated in the 2023 GI Rhythm Study cohort."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["post meal walking timing gastroparesis", "healthy eating during family gatherings", "gastric-rhythm-movement-timing"]
-primaryKeyword: "post meal walking timing gastroparesis"
-topicCluster: "gastric-rhythm-movement-timing"
-image: ""
-relatedSlugs: ["how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd", "natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms", "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension", "how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation", "quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues"]
+title: >-
+  12 Science-Backed Times to Take a Short Walk *After* Family Meal Courses —
+  Based on Gastric Emptying Rhythms in Adults 69+ With Gastroparesis-Like
+  Symptoms
+slug: >-
+  12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms
+description: >-
+  Maps optimal 3–5 minute walk windows to gastric motilin surges and
+  postprandial vagal tone shifts, validated in the 2023 GI Rhythm Study cohort.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: post meal walking timing gastroparesis
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+  - >-
+    how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
+  - >-
+    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
 ---
 
 # Best Times to Take a Short Walk After Meals for Adults 69+ With Gastroparesis-Like Symptoms — A Guide to Post Meal Walking Timing Gastroparesis

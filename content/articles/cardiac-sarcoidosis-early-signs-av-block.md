@@ -1,14 +1,30 @@
 ---
-title: "What Are the Earliest Signs of Cardiac Sarcoidosis in Adults 59+ With Unexplained AV Block and Normal Ejection Fraction — Before FDG-PET Uptake Becomes Diffuse?"
-slug: "what-are-the-earliest-signs-of-cardiac-sarcoidosis-in-adults-59-with-unexplained-av-block-and-normal-ejection-fraction-before-fdg-pet-uptake-becomes-diffuse"
-description: "Identifies prodromal clues: asymmetric septal thickening on strain imaging, elevated serum angiotensin-converting enzyme *with* low-normal vitamin D, and skin biopsy correlations."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["cardiac sarcoidosis early signs av block", "heart disease", "inflammatory-cardiomyopathy-detection"]
-primaryKeyword: "cardiac sarcoidosis early signs av block"
-topicCluster: "inflammatory-cardiomyopathy-detection"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef", "7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate", "when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss", "warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises"]
+title: >-
+  What Are the Earliest Signs of Cardiac Sarcoidosis in Adults 59+ With
+  Unexplained AV Block and Normal Ejection Fraction — Before FDG-PET Uptake
+  Becomes Diffuse?
+slug: >-
+  what-are-the-earliest-signs-of-cardiac-sarcoidosis-in-adults-59-with-unexplained-av-block-and-normal-ejection-fraction-before-fdg-pet-uptake-becomes-diffuse
+description: >-
+  Identifies prodromal clues: asymmetric septal thickening on strain imaging,
+  elevated serum angiotensin-converting enzyme *with* low-normal vitamin D, and
+  skin biopsy correlations.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: cardiac sarcoidosis early signs av block
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef
+  - >-
+    7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate
+  - >-
+    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
+  - >-
+    warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 ---
 
 # Early Clues of Cardiac Sarcoidosis in Adults 59+ With Unexplained AV Block — Before Imaging Shows Widespread Inflammation

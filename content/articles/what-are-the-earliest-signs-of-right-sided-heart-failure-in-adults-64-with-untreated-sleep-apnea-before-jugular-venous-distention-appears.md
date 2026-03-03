@@ -1,14 +1,29 @@
 ---
-title: "What Are the Earliest Signs of Right-Sided Heart Failure in Adults 64+ With Untreated Sleep Apnea — Before Jugular Venous Distention Appears?"
-slug: "what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears"
-description: "Identifies subtle precursors like nocturnal polyuria, isolated lower-leg edema without weight gain, and worsening GERD symptoms linked to pulmonary hypertension and RV strain."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["early right-sided heart failure signs sleep apnea", "heart disease", "symptoms-early-detection"]
-primaryKeyword: "early right-sided heart failure signs sleep apnea"
-topicCluster: "symptoms-early-detection"
-image: ""
-relatedSlugs: ["warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears", "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath", "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80", "what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms", "warning-signs-of-right-heart-strain-that-appear-before-neck-vein-distension-detected-via-subcostal-echocardiographic-view-in-adults-77-with-copd-and-mild-pulmonary-hypertension"]
+title: >-
+  What Are the Earliest Signs of Right-Sided Heart Failure in Adults 64+ With
+  Untreated Sleep Apnea — Before Jugular Venous Distention Appears?
+slug: >-
+  what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears
+description: >-
+  Identifies subtle precursors like nocturnal polyuria, isolated lower-leg edema
+  without weight gain, and worsening GERD symptoms linked to pulmonary
+  hypertension and RV strain.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: early right-sided heart failure signs sleep apnea
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
+  - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
+  - >-
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
+  - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
+  - >-
+    warning-signs-of-right-heart-strain-that-appear-before-neck-vein-distension-detected-via-subcostal-echocardiographic-view-in-adults-77-with-copd-and-mild-pulmonary-hypertension
 ---
 
 # Early Right-Sided Heart Failure Signs in Adults 64+ With Untreated Sleep Apnea — Before the Obvious Ones Show Up

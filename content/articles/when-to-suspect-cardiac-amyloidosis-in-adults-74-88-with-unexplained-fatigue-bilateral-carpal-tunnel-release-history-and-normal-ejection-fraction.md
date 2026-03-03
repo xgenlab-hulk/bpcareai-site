@@ -1,14 +1,29 @@
 ---
-title: "When to Suspect Cardiac Amyloidosis in Adults 74–88 With Unexplained Fatigue, Bilateral Carpal Tunnel Release History, and Normal Ejection Fraction"
-slug: "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction"
-description: "Highlights under-recognized red flags—including disproportionate exertional intolerance, autonomic symptoms, and echo texture clues—that precede overt heart failure in wild-type ATTR amyloidosis."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["cardiac amyloidosis signs after carpal tunnel surgery", "heart health", "rare-disease-detection-elderly-heart-failure"]
-primaryKeyword: "cardiac amyloidosis signs after carpal tunnel surgery"
-topicCluster: "rare-disease-detection-elderly-heart-failure"
-image: ""
-relatedSlugs: ["when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction", "red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue", "7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd"]
+title: >-
+  When to Suspect Cardiac Amyloidosis in Adults 74–88 With Unexplained Fatigue,
+  Bilateral Carpal Tunnel Release History, and Normal Ejection Fraction
+slug: >-
+  when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
+description: >-
+  Highlights under-recognized red flags—including disproportionate exertional
+  intolerance, autonomic symptoms, and echo texture clues—that precede overt
+  heart failure in wild-type ATTR amyloidosis.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: cardiac amyloidosis signs after carpal tunnel surgery
+topicCluster: autonomic-nervous-regulation
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
 ---
 
 # When Cardiac Amyloidosis Signs After Carpal Tunnel Surgery Warrant Closer Look in Older Adults

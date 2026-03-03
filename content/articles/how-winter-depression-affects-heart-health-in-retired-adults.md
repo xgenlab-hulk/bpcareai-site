@@ -6,12 +6,8 @@ description: >-
   and increased cardiovascular risk in retirees.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - winter depression heart health
-  - winter heart health for seniors
-  - mental-emotional-health
 primaryKeyword: winter depression heart health
-topicCluster: mental-wellness
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter

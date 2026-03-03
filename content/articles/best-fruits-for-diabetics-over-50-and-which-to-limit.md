@@ -6,12 +6,8 @@ description: >-
   spiking glucose.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - best fruits for diabetics over 50
-  - diabetes
-  - diabetes-nutrition
 primaryKeyword: best fruits for diabetics over 50
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s

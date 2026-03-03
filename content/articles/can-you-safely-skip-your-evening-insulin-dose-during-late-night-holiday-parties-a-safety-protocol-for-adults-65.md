@@ -1,14 +1,24 @@
 ---
-title: "Can You Safely Skip Your Evening Insulin Dose During Late-Night Holiday Parties? A Safety Protocol for Adults 65+"
-slug: "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65"
-description: "Breaks down evidence-based dose-adjustment frameworks for basal and rapid-acting insulin during irregular meal timing, including CGM-informed decision trees and red-flag thresholds."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["skipping insulin during holiday parties", "holiday diabetes management", "insulin-dosing-flexibility"]
-primaryKeyword: "skipping insulin during holiday parties"
-topicCluster: "insulin-dosing-flexibility"
-image: ""
-relatedSlugs: ["should-you-adjust-your-diabetes-medication-during-the-holidays", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays", "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50", "best-blood-sugar-monitoring-practices-during-the-holiday-season"]
+title: >-
+  Can You Safely Skip Your Evening Insulin Dose During Late-Night Holiday
+  Parties? A Safety Protocol for Adults 65+
+slug: >-
+  can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
+description: >-
+  Breaks down evidence-based dose-adjustment frameworks for basal and
+  rapid-acting insulin during irregular meal timing, including CGM-informed
+  decision trees and red-flag thresholds.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: skipping insulin during holiday parties
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - should-you-adjust-your-diabetes-medication-during-the-holidays
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # Is It Safe to Skip Your Evening Insulin Dose at Late-Night Holiday Parties? A Gentle Guide for Adults 65+

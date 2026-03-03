@@ -6,12 +6,8 @@ description: >-
   increasing holiday heart syndrome susceptibility.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - hypertension festive alcohol risk
-  - holiday heart syndrome prevention
-  - comorbidity-management
 primaryKeyword: hypertension festive alcohol risk
-topicCluster: complications-comorbidities
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

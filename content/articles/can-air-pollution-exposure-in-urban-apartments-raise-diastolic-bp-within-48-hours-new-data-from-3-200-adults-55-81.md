@@ -1,14 +1,27 @@
 ---
-title: "Can Air Pollution Exposure in Urban Apartments Raise Diastolic BP Within 48 Hours? New Data From 3,200 Adults 55–81"
-slug: "can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81"
-description: "Synthesizes findings from real-time PM2.5 monitoring paired with home BP logs, highlighting differential susceptibility by APOE genotype and indoor ventilation habits."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["air pollution diastolic blood pressure urban seniors", "blood pressure", "environmental-exposures-blood-pressure"]
-primaryKeyword: "air pollution diastolic blood pressure urban seniors"
-topicCluster: "environmental-exposures-blood-pressure"
-image: ""
-relatedSlugs: ["does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors", "how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55", "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults", "can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation", "how-indoor-air-quality-affects-heart-health-in-winter"]
+title: >-
+  Can Air Pollution Exposure in Urban Apartments Raise Diastolic BP Within 48
+  Hours? New Data From 3,200 Adults 55–81
+slug: >-
+  can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
+description: >-
+  Synthesizes findings from real-time PM2.5 monitoring paired with home BP logs,
+  highlighting differential susceptibility by APOE genotype and indoor
+  ventilation habits.
+date: '2026-01-05'
+updated: '2026-01-05'
+primaryKeyword: air pollution diastolic blood pressure urban seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
+  - >-
+    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
+  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
+  - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
+  - how-indoor-air-quality-affects-heart-health-in-winter
 ---
 
 # Can Urban Apartment Living Raise Diastolic Blood Pressure in Just Two Days? What 3,200 Seniors Taught Us About Air Pollution and BP

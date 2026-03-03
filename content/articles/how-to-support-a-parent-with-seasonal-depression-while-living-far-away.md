@@ -6,12 +6,8 @@ description: >-
   checks, and technology use.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - supporting parent with seasonal depression
-  - seasonal depression in older adults
-  - family-caregiving
 primaryKeyword: supporting parent with seasonal depression
-topicCluster: social-environmental
+topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

@@ -1,14 +1,29 @@
 ---
-title: "7 Silent Signs of Left Ventricular Hypertrophy in Adults 65+ With Well-Controlled Hypertension — Missed on Routine EKG"
-slug: "7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg"
-description: "Highlights subtle clinical, auscultatory, and symptom-based red flags (e.g., delayed S2 splitting, nocturnal dyspnea with preserved SpO2) indicating structural remodeling despite 'normal' BP readings."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["left ventricular hypertrophy silent signs adults 65+", "heart disease", "structural-cardiac-changes"]
-primaryKeyword: "left ventricular hypertrophy silent signs adults 65+"
-topicCluster: "structural-cardiac-changes"
-image: ""
-relatedSlugs: ["warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear", "7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65", "7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal", "when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp", "7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction"]
+title: >-
+  7 Silent Signs of Left Ventricular Hypertrophy in Adults 65+ With
+  Well-Controlled Hypertension — Missed on Routine EKG
+slug: >-
+  7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
+description: >-
+  Highlights subtle clinical, auscultatory, and symptom-based red flags (e.g.,
+  delayed S2 splitting, nocturnal dyspnea with preserved SpO2) indicating
+  structural remodeling despite 'normal' BP readings.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: left ventricular hypertrophy silent signs adults 65+
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
+  - >-
+    when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
+  - >-
+    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
 ---
 
 # Silent Signs of Left Ventricular Hypertrophy in Older Adults — Even With Well-Controlled Blood Pressure

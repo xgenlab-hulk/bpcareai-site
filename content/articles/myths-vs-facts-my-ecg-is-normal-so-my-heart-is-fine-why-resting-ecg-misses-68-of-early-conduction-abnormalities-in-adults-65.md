@@ -10,12 +10,8 @@ description: >-
   Holter, EP study, or cardiac MRI.
 date: '2026-01-06'
 updated: '2026-01-06'
-tags:
-  - ecg normalcy and conduction disease
-  - heart disease
-  - ecg-limitations-elderly
 primaryKeyword: ecg normalcy and conduction disease
-topicCluster: ecg-limitations-elderly
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

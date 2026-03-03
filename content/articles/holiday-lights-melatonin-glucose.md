@@ -1,14 +1,29 @@
 ---
-title: "How Holiday Light Displays Affect Evening Melatonin Onset and Nocturnal Glucose Homeostasis in Adults 68+ With Shift-Work History and Mild Sleep Fragmentation"
-slug: "how-holiday-light-displays-affect-evening-melatonin-onset-and-nocturnal-glucose-homeostasis-in-adults-68-with-shift-work-history-and-mild-sleep-fragmentation"
-description: "Explores blue-enriched LED exposure from indoor/outdoor decorations disrupting circadian melatonin release, delaying glucose clearance, and elevating overnight insulin resistance — even without screen use."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["holiday lights melatonin glucose", "holiday diabetes management", "circadian-light-exposure"]
-primaryKeyword: "holiday lights melatonin glucose"
-topicCluster: "circadian-light-exposure"
-image: ""
-relatedSlugs: ["how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it", "how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase", "the-connection-between-holiday-light-exposure-and-blood-sugar-regulation", "how-chronic-exposure-to-led-nightlights-in-hallways-disrupts-retinal-melanopsin-signaling-and-elevates-nocturnal-glucose-in-adults-70-with-nocturia-and-poor-sleep-efficiency", "how-nighttime-light-exposure-from-smart-clocks-disrupts-melatonin-mediated-glp-1-secretion-and-elevates-fasting-glucose-in-adults-59-with-shift-work-history"]
+title: >-
+  How Holiday Light Displays Affect Evening Melatonin Onset and Nocturnal
+  Glucose Homeostasis in Adults 68+ With Shift-Work History and Mild Sleep
+  Fragmentation
+slug: >-
+  how-holiday-light-displays-affect-evening-melatonin-onset-and-nocturnal-glucose-homeostasis-in-adults-68-with-shift-work-history-and-mild-sleep-fragmentation
+description: >-
+  Explores blue-enriched LED exposure from indoor/outdoor decorations disrupting
+  circadian melatonin release, delaying glucose clearance, and elevating
+  overnight insulin resistance — even without screen use.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: holiday lights melatonin glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+  - >-
+    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
+  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
+  - >-
+    how-chronic-exposure-to-led-nightlights-in-hallways-disrupts-retinal-melanopsin-signaling-and-elevates-nocturnal-glucose-in-adults-70-with-nocturia-and-poor-sleep-efficiency
+  - >-
+    how-nighttime-light-exposure-from-smart-clocks-disrupts-melatonin-mediated-glp-1-secretion-and-elevates-fasting-glucose-in-adults-59-with-shift-work-history
 ---
 
 # How Holiday Light Displays Impact Melatonin Timing and Overnight Glucose in Older Adults with Shift-Work History

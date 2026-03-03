@@ -1,14 +1,27 @@
 ---
-title: "5 Things Everyone Over 70 With Diabetic Peripheral Neuropathy Should Know Before Attending a Holiday Open House"
-slug: "5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house"
-description: "Covers ambient temperature safety, footwear friction risks, alcohol-nerve interaction, lighting contrast needs, and fall-prevention navigation cues—based on ADA-ACR joint guidelines."
-date: "2026-01-02"
-updated: "2026-01-02"
-tags: ["diabetic neuropathy holiday open house safety", "holiday diabetes management", "neuropathy-environmental-risks"]
-primaryKeyword: "diabetic neuropathy holiday open house safety"
-topicCluster: "neuropathy-environmental-risks"
-image: ""
-relatedSlugs: ["simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature", "how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health", "when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes", "does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control", "best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60"]
+title: >-
+  5 Things Everyone Over 70 With Diabetic Peripheral Neuropathy Should Know
+  Before Attending a Holiday Open House
+slug: >-
+  5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
+description: >-
+  Covers ambient temperature safety, footwear friction risks, alcohol-nerve
+  interaction, lighting contrast needs, and fall-prevention navigation
+  cues—based on ADA-ACR joint guidelines.
+date: '2026-01-02'
+updated: '2026-01-02'
+primaryKeyword: diabetic neuropathy holiday open house safety
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+  - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
 ---
 
 # What Everyone Over 70 with Diabetic Peripheral Neuropathy Needs to Know About Diabetic Neuropathy Holiday Open House Safety

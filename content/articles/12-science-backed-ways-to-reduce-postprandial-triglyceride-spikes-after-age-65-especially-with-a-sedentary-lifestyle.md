@@ -1,14 +1,25 @@
 ---
-title: "12 Science-Backed Ways to Reduce Postprandial Triglyceride Spikes After Age 65—Especially With a Sedentary Lifestyle"
-slug: "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle"
-description: "Targets delayed lipid clearance in aging metabolism with timed movement, fiber sequencing, and meal composition—not just calorie or fat restriction."
-date: "2025-12-21"
-updated: "2025-12-21"
-tags: ["reduce postprandial triglycerides aging sedentary", "heart health", "prevention-metabolic"]
-primaryKeyword: "reduce postprandial triglycerides aging sedentary"
-topicCluster: "prevention-metabolic"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings", "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60", "can-walking-after-meals-lower-blood-sugar-in-older-adults"]
+title: >-
+  12 Science-Backed Ways to Reduce Postprandial Triglyceride Spikes After Age
+  65—Especially With a Sedentary Lifestyle
+slug: >-
+  12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
+description: >-
+  Targets delayed lipid clearance in aging metabolism with timed movement, fiber
+  sequencing, and meal composition—not just calorie or fat restriction.
+date: '2025-12-21'
+updated: '2025-12-21'
+primaryKeyword: reduce postprandial triglycerides aging sedentary
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+  - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 
 # 12 Gentle, Science-Supported Ways to Reduce Postprandial Triglycerides With Age—Especially When You're Less Active

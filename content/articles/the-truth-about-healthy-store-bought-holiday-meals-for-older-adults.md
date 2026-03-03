@@ -6,12 +6,8 @@ description: >-
   ones truly meet nutritional needs for seniors with diabetes or hypertension.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - healthy store-bought holiday meals seniors
-  - healthy holiday eating for seniors
-  - convenience-foods
 primaryKeyword: healthy store-bought holiday meals seniors
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors

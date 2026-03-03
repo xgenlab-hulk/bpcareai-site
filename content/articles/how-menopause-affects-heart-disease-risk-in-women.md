@@ -6,12 +6,8 @@ description: >-
   developing heart disease.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - menopause and increased heart disease risk
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: menopause and increased heart disease risk
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - blood-pressure-changes-during-menopause-what-women-should-know

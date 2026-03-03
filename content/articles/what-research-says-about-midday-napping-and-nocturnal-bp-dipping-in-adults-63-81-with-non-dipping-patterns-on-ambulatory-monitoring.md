@@ -1,14 +1,29 @@
 ---
-title: "What Research Says About Midday Napping and Nocturnal BP Dipping in Adults 63–81 With Non-Dipping Patterns on Ambulatory Monitoring"
-slug: "what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring"
-description: "Synthesizes recent RCTs and cohort data on nap duration, timing, and posture effects on reverse dipping — plus practical protocols for restoring healthy circadian BP rhythm."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["napping and nocturnal blood pressure dipping", "blood pressure", "circadian-bp-rhythm"]
-primaryKeyword: "napping and nocturnal blood pressure dipping"
-topicCluster: "circadian-bp-rhythm"
-image: ""
-relatedSlugs: ["quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns", "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history", "simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction", "the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful"]
+title: >-
+  What Research Says About Midday Napping and Nocturnal BP Dipping in Adults
+  63–81 With Non-Dipping Patterns on Ambulatory Monitoring
+slug: >-
+  what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
+description: >-
+  Synthesizes recent RCTs and cohort data on nap duration, timing, and posture
+  effects on reverse dipping — plus practical protocols for restoring healthy
+  circadian BP rhythm.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: napping and nocturnal blood pressure dipping
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
+  - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
+  - >-
+    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
 ---
 
 # How Midday Napping Might Help Restore Healthy Nocturnal Blood Pressure Dipping in Older Adults

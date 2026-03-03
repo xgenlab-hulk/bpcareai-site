@@ -1,14 +1,28 @@
 ---
-title: "Does Daily 15-Minute Guided Imagery Lower 24-Hour Mean Arterial Pressure in Adults 69–83 With Treatment-Resistant Hypertension?"
-slug: "does-daily-15-minute-guided-imagery-lower-24-hour-mean-arterial-pressure-in-adults-69-83-with-treatment-resistant-hypertension"
-description: "Breaks down a 2024 pragmatic trial assessing neural modulation of sympathetic outflow via structured mental visualization, independent of breathing cues."
-date: "2026-01-09"
-updated: "2026-01-09"
-tags: ["guided imagery mean arterial pressure resistant hypertension", "blood pressure", "mind-body-intervention"]
-primaryKeyword: "guided imagery mean arterial pressure resistant hypertension"
-topicCluster: "mind-body-intervention"
-image: ""
-relatedSlugs: ["quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension", "12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults", "quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety", "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension", "how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension"]
+title: >-
+  Does Daily 15-Minute Guided Imagery Lower 24-Hour Mean Arterial Pressure in
+  Adults 69–83 With Treatment-Resistant Hypertension?
+slug: >-
+  does-daily-15-minute-guided-imagery-lower-24-hour-mean-arterial-pressure-in-adults-69-83-with-treatment-resistant-hypertension
+description: >-
+  Breaks down a 2024 pragmatic trial assessing neural modulation of sympathetic
+  outflow via structured mental visualization, independent of breathing cues.
+date: '2026-01-09'
+updated: '2026-01-09'
+primaryKeyword: guided imagery mean arterial pressure resistant hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
+  - >-
+    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
+  - >-
+    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+  - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+  - >-
+    how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension
 ---
 
 # Can Daily Guided Imagery Lower Mean Arterial Pressure in Older Adults With Resistant Hypertension?

@@ -1,14 +1,29 @@
 ---
-title: "Does Daily 4-Minute Sauna Exposure *Really* Improve Coronary Flow Reserve in Adults 69+ With Endothelial Dysfunction and No Structural Heart Disease?"
-slug: "does-daily-4-minute-sauna-exposure-really-improve-coronary-flow-reserve-in-adults-69-with-endothelial-dysfunction-and-no-structural-heart-disease"
-description: "Reviews randomized trials using transthoracic Doppler echocardiography to measure coronary flow reserve changes after repeated sauna — comparing Finnish-style vs. infrared protocols."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["sauna coronary flow reserve endothelial", "heart disease", "thermal-therapy-efficacy"]
-primaryKeyword: "sauna coronary flow reserve endothelial"
-topicCluster: "thermal-therapy-efficacy"
-image: ""
-relatedSlugs: ["can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors", "is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus", "12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp", "does-daily-20-minute-forest-bathing-shinrin-yoku-improve-endothelial-progenitor-cell-mobilization-in-men-60-75-with-stage-1-hypertension-and-low-cd34-vegfr2-counts", "what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension"]
+title: >-
+  Does Daily 4-Minute Sauna Exposure *Really* Improve Coronary Flow Reserve in
+  Adults 69+ With Endothelial Dysfunction and No Structural Heart Disease?
+slug: >-
+  does-daily-4-minute-sauna-exposure-really-improve-coronary-flow-reserve-in-adults-69-with-endothelial-dysfunction-and-no-structural-heart-disease
+description: >-
+  Reviews randomized trials using transthoracic Doppler echocardiography to
+  measure coronary flow reserve changes after repeated sauna — comparing
+  Finnish-style vs. infrared protocols.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: sauna coronary flow reserve endothelial
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - >-
+    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
+  - >-
+    12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp
+  - >-
+    does-daily-20-minute-forest-bathing-shinrin-yoku-improve-endothelial-progenitor-cell-mobilization-in-men-60-75-with-stage-1-hypertension-and-low-cd34-vegfr2-counts
+  - >-
+    what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
 ---
 
 # Can Short Sauna Sessions Gently Support Coronary Flow Reserve in Older Adults With Endothelial Dysfunction?

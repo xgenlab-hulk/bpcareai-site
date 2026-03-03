@@ -10,12 +10,8 @@ description: >-
   blistering and ensure gut-safe texture.
 date: '2026-01-21'
 updated: '2026-01-21'
-tags:
-  - gluten free pie crust celiac seniors
-  - healthy holiday eating for seniors
-  - easy-diet-modifications-autoimmune
 primaryKeyword: gluten free pie crust celiac seniors
-topicCluster: easy-diet-modifications-autoimmune
+topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-

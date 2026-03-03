@@ -1,14 +1,20 @@
 ---
-title: "Why Older Women Are More Vulnerable to Winter Heart Events"
-slug: "why-older-women-are-more-vulnerable-to-winter-heart-events"
-description: "Discusses hormonal, physiological, and symptom-recognition differences that increase cardiac risk in postmenopausal women in winter."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["older women winter heart risk", "winter heart health for seniors", "gender-specific-concerns"]
-primaryKeyword: "older women winter heart risk"
-topicCluster: "gender-specific-concerns"
-image: ""
-relatedSlugs: ["why-winter-increases-heart-attack-risk-in-seniors-over-70", "why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter", "how-vitamin-d-deficiency-impacts-heart-health-in-winter", "how-menopause-affects-heart-disease-risk-in-women", "why-women-s-heart-attack-symptoms-differ-after-menopause"]
+title: Why Older Women Are More Vulnerable to Winter Heart Events
+slug: why-older-women-are-more-vulnerable-to-winter-heart-events
+description: >-
+  Discusses hormonal, physiological, and symptom-recognition differences that
+  increase cardiac risk in postmenopausal women in winter.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: older women winter heart risk
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
+  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - how-menopause-affects-heart-disease-risk-in-women
+  - why-women-s-heart-attack-symptoms-differ-after-menopause
 ---
 
 # Why Older Women Face Higher Winter Heart Risk—and What You Can Do

@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: 'Salt Sensitivity' in Black Adults Over 55 — What Genetics, Renal Sodium Handling, and Social Determinants *Really* Explain"
-slug: "myths-vs-facts-salt-sensitivity-in-black-adults-over-55-what-genetics-renal-sodium-handling-and-social-determinants-really-explain"
-description: "Debunks oversimplified race-based narratives while detailing APOL1 risk variants, neighborhood-level sodium exposure (processed food deserts), and epigenetic impacts of chronic stress on ENaC expression."
-date: "2026-02-23"
-updated: "2026-02-23"
-tags: ["salt sensitivity black adults genetics", "blood pressure", "health-equity-physiology"]
-primaryKeyword: "salt sensitivity black adults genetics"
-topicCluster: "health-equity-physiology"
-image: ""
-relatedSlugs: ["myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response", "myths-vs-facts-salt-sensitivity-in-older-adults-what-new-research-says-about-genetic-variants-gut-microbiome-diversity-and-dietary-sodium-thresholds-in-adults-69", "myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension", "myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions", "myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols"]
+title: >-
+  Myths vs Facts: 'Salt Sensitivity' in Black Adults Over 55 — What Genetics,
+  Renal Sodium Handling, and Social Determinants *Really* Explain
+slug: >-
+  myths-vs-facts-salt-sensitivity-in-black-adults-over-55-what-genetics-renal-sodium-handling-and-social-determinants-really-explain
+description: >-
+  Debunks oversimplified race-based narratives while detailing APOL1 risk
+  variants, neighborhood-level sodium exposure (processed food deserts), and
+  epigenetic impacts of chronic stress on ENaC expression.
+date: '2026-02-23'
+updated: '2026-02-23'
+primaryKeyword: salt sensitivity black adults genetics
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response
+  - >-
+    myths-vs-facts-salt-sensitivity-in-older-adults-what-new-research-says-about-genetic-variants-gut-microbiome-diversity-and-dietary-sodium-thresholds-in-adults-69
+  - >-
+    myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
+  - >-
+    myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions
+  - >-
+    myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
 ---
 
 # Understanding Salt Sensitivity in Black Adults Over 55: Genetics, Physiology, and Real-World Context

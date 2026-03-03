@@ -1,14 +1,28 @@
 ---
-title: "When to Worry About Blood Pressure Drops During Hot Showers — Especially in Adults 75+ With Carotid Sinus Hypersensitivity and Prior Falls"
-slug: "when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls"
-description: "Identifies the thermoregulatory-autonomic cascade that triggers syncope in frail older adults, with prevention strategies validated in geriatric fall clinics."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["blood pressure drop during hot shower", "blood pressure", "thermoregulatory-safety"]
-primaryKeyword: "blood pressure drop during hot shower"
-topicCluster: "thermoregulatory-safety"
-image: ""
-relatedSlugs: ["what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension", "why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72", "warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather", "the-impact-of-hot-showers-on-blood-pressure-and-heart-rate", "can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors"]
+title: >-
+  When to Worry About Blood Pressure Drops During Hot Showers — Especially in
+  Adults 75+ With Carotid Sinus Hypersensitivity and Prior Falls
+slug: >-
+  when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
+description: >-
+  Identifies the thermoregulatory-autonomic cascade that triggers syncope in
+  frail older adults, with prevention strategies validated in geriatric fall
+  clinics.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: blood pressure drop during hot shower
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
+  - >-
+    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+  - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
+  - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
 ---
 
 # When a Hot Shower Causes a Blood Pressure Drop During Hot Shower — What Older Adults and Caregivers Should Know

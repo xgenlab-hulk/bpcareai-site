@@ -6,12 +6,8 @@ description: >-
   boost energy naturally.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - diabetes fatigue in seniors
-  - diabetes
-  - diabetes-symptoms
 primaryKeyword: diabetes fatigue in seniors
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - managing-diabetes-while-traveling-tips-for-seniors

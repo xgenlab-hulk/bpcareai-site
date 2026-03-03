@@ -1,14 +1,30 @@
 ---
-title: "How Living Near High-Traffic Urban Corridors Alters Carotid Intima-Media Thickness Progression in Adults 66+ With Controlled Hypertension and No Prior CVD"
-slug: "how-living-near-high-traffic-urban-corridors-alters-carotid-intima-media-thickness-progression-in-adults-66-with-controlled-hypertension-and-no-prior-cvd"
-description: "Examines longitudinal IMT data linked to PM2.5/NO2 exposure modeling, highlighting epigenetic drivers (e.g., LINE-1 methylation, miR-146a suppression) and neighborhood-level mitigation tactics."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["traffic pollution carotid thickness progression", "heart health", "environmental-cardiovascular-risk"]
-primaryKeyword: "traffic pollution carotid thickness progression"
-topicCluster: "environmental-cardiovascular-risk"
-image: ""
-relatedSlugs: ["how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries", "how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways", "how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55", "how-chronic-exposure-to-urban-roadway-noise-55-db-increases-nighttime-sympathetic-tone-and-predicts-new-onset-heart-failure-in-adults-64-with-borderline-hypertension", "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments"]
+title: >-
+  How Living Near High-Traffic Urban Corridors Alters Carotid Intima-Media
+  Thickness Progression in Adults 66+ With Controlled Hypertension and No Prior
+  CVD
+slug: >-
+  how-living-near-high-traffic-urban-corridors-alters-carotid-intima-media-thickness-progression-in-adults-66-with-controlled-hypertension-and-no-prior-cvd
+description: >-
+  Examines longitudinal IMT data linked to PM2.5/NO2 exposure modeling,
+  highlighting epigenetic drivers (e.g., LINE-1 methylation, miR-146a
+  suppression) and neighborhood-level mitigation tactics.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: traffic pollution carotid thickness progression
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
+  - >-
+    how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways
+  - >-
+    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
+  - >-
+    how-chronic-exposure-to-urban-roadway-noise-55-db-increases-nighttime-sympathetic-tone-and-predicts-new-onset-heart-failure-in-adults-64-with-borderline-hypertension
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
 ---
 
 # How Traffic Pollution Carotid Thickness Progression Affects Older Adults With Well-Managed High Blood Pressure

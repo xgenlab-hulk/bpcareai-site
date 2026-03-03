@@ -1,14 +1,29 @@
 ---
-title: "What Research Says About Ultra-Processed Holiday Snacks and Endothelial Dysfunction in Adults 61–75 With Subclinical Atherosclerosis"
-slug: "what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis"
-description: "Synthesizes findings from the 2022–2024 ENDOTRACK cohort on postprandial flow-mediated dilation after consuming common holiday snacks (e.g., flavored popcorn, protein bars, spiced nuts), controlling for AGE and LDL-P."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["ultra-processed snacks endothelial function atherosclerosis", "healthy eating during family gatherings", "vascular-physiology-research"]
-primaryKeyword: "ultra-processed snacks endothelial function atherosclerosis"
-topicCluster: "vascular-physiology-research"
-image: ""
-relatedSlugs: ["what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes", "10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction", "the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58", "7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp", "best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes"]
+title: >-
+  What Research Says About Ultra-Processed Holiday Snacks and Endothelial
+  Dysfunction in Adults 61–75 With Subclinical Atherosclerosis
+slug: >-
+  what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis
+description: >-
+  Synthesizes findings from the 2022–2024 ENDOTRACK cohort on postprandial
+  flow-mediated dilation after consuming common holiday snacks (e.g., flavored
+  popcorn, protein bars, spiced nuts), controlling for AGE and LDL-P.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: ultra-processed snacks endothelial function atherosclerosis
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
+  - >-
+    10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
+  - >-
+    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
+  - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
 ---
 
 # How Ultra-Processed Holiday Snacks Affect Endothelial Function in Adults 61–75 With Early Atherosclerosis

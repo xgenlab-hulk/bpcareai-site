@@ -10,12 +10,8 @@ description: >-
   utensils, and how buffet-style eating disrupts TSH rhythm stability.
 date: '2026-01-28'
 updated: '2026-01-28'
-tags:
-  - hypothyroid buffet food safety women
-  - healthy eating during family gatherings
-  - autoimmune-thyroid-diet
 primaryKeyword: hypothyroid buffet food safety women
-topicCluster: autoimmune-thyroid-diet
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-

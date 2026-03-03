@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Homemade Bone Broth Soup (Simmered 24+ Hours) vs. Low-Sodium Canned Vegetable Soup — Impact on Endothelial Function in Adults 71+ With Mild Hypertension"
-slug: "a-vs-b-homemade-bone-broth-soup-simmered-24-hours-vs-low-sodium-canned-vegetable-soup-impact-on-endothelial-function-in-adults-71-with-mild-hypertension"
-description: "Compares nitric oxide bioavailability, glycine/arginine ratios, and advanced glycation end-product (AGE) content using data from the 2022 Endothelial Health Trial substudy."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["bone broth vs canned soup endothelial function", "healthy eating during family gatherings", "endothelial-nutrition-comparison"]
-primaryKeyword: "bone broth vs canned soup endothelial function"
-topicCluster: "endothelial-nutrition-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms", "a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome", "a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension", "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling", "a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis"]
+title: >-
+  A vs B: Homemade Bone Broth Soup (Simmered 24+ Hours) vs. Low-Sodium Canned
+  Vegetable Soup — Impact on Endothelial Function in Adults 71+ With Mild
+  Hypertension
+slug: >-
+  a-vs-b-homemade-bone-broth-soup-simmered-24-hours-vs-low-sodium-canned-vegetable-soup-impact-on-endothelial-function-in-adults-71-with-mild-hypertension
+description: >-
+  Compares nitric oxide bioavailability, glycine/arginine ratios, and advanced
+  glycation end-product (AGE) content using data from the 2022 Endothelial
+  Health Trial substudy.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: bone broth vs canned soup endothelial function
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
+  - >-
+    a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
+  - >-
+    a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+  - >-
+    a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
 ---
 
 # Bone Broth vs Canned Soup Endothelial Function: What Matters Most for Heart Health in Adults 71+ With Mild Hypertension

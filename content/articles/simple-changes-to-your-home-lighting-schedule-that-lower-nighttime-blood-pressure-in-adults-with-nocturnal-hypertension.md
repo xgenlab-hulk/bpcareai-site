@@ -10,12 +10,8 @@ description: >-
   and renin rhythms.
 date: '2025-12-23'
 updated: '2025-12-23'
-tags:
-  - home lighting and nighttime blood pressure
-  - heart disease
-  - environmental-lighting-hypertension
 primaryKeyword: home lighting and nighttime blood pressure
-topicCluster: environmental-lighting-hypertension
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation

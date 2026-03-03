@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About Sudden 'Heavy Legs' After Sitting for 90+ Minutes — Distinguishing Early Venous Stiffness From Incipient Right Heart Strain in Adults 60–74 With Sedentary Lifestyles"
-slug: "when-to-worry-about-sudden-heavy-legs-after-sitting-for-90-minutes-distinguishing-early-venous-stiffness-from-incipient-right-heart-strain-in-adults-60-74-with-sedentary-lifestyles"
-description: "Identifies an under-recognized physical symptom — leg heaviness after prolonged sitting — as a potential harbinger of right-sided cardiac strain or venous wall remodeling, especially in desk-bound or retired older adults."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["heavy legs sitting heart strain seniors", "heart health", "early-symptom-detection-venous"]
-primaryKeyword: "heavy legs sitting heart strain seniors"
-topicCluster: "early-symptom-detection-venous"
-image: ""
-relatedSlugs: ["warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears", "is-sitting-too-much-harming-your-heart-after-60", "7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older", "7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction", "7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia"]
+title: >-
+  When to Worry About Sudden 'Heavy Legs' After Sitting for 90+ Minutes —
+  Distinguishing Early Venous Stiffness From Incipient Right Heart Strain in
+  Adults 60–74 With Sedentary Lifestyles
+slug: >-
+  when-to-worry-about-sudden-heavy-legs-after-sitting-for-90-minutes-distinguishing-early-venous-stiffness-from-incipient-right-heart-strain-in-adults-60-74-with-sedentary-lifestyles
+description: >-
+  Identifies an under-recognized physical symptom — leg heaviness after
+  prolonged sitting — as a potential harbinger of right-sided cardiac strain or
+  venous wall remodeling, especially in desk-bound or retired older adults.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: heavy legs sitting heart strain seniors
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
+  - is-sitting-too-much-harming-your-heart-after-60
+  - >-
+    7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
+  - >-
+    7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
+  - >-
+    7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
 ---
 
 # When “Heavy Legs” After Sitting Might Be a Gentle Nudge from Your Heart — What Seniors 60–74 Should Know  

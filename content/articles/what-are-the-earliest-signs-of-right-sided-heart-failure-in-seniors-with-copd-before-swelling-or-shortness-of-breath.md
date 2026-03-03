@@ -9,12 +9,8 @@ description: >-
   JVP on self-exam, and jugular venous wave patterns detectable at home.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - early signs right sided heart failure COPD
-  - heart health
-  - symptoms-comorbidity
 primaryKeyword: early signs right sided heart failure COPD
-topicCluster: symptoms-comorbidity
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-

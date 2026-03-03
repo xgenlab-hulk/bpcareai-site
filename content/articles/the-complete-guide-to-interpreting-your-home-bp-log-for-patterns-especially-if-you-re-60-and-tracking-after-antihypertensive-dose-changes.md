@@ -10,12 +10,8 @@ description: >-
   spotting tips.
 date: '2026-01-19'
 updated: '2026-01-19'
-tags:
-  - interpreting home blood pressure log
-  - blood pressure
-  - bp-monitoring-literacy
 primaryKeyword: interpreting home blood pressure log
-topicCluster: bp-monitoring-literacy
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

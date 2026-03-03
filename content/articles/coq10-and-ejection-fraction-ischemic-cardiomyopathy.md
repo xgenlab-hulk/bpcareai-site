@@ -11,12 +11,8 @@ description: >-
   guideline-directed therapy.
 date: '2026-02-27'
 updated: '2026-02-27'
-tags:
-  - coq10 and ejection fraction ischemic cardiomyopathy
-  - heart disease
-  - supplements-clinical-trial
 primaryKeyword: coq10 and ejection fraction ischemic cardiomyopathy
-topicCluster: supplements-clinical-trial
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

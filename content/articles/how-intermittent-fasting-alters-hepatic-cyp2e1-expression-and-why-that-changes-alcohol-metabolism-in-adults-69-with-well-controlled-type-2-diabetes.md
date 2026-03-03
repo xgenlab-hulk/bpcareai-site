@@ -1,14 +1,29 @@
 ---
-title: "How Intermittent Fasting Alters Hepatic CYP2E1 Expression — And Why That Changes Alcohol Metabolism in Adults 69+ With Well-Controlled Type 2 Diabetes"
-slug: "how-intermittent-fasting-alters-hepatic-cyp2e1-expression-and-why-that-changes-alcohol-metabolism-in-adults-69-with-well-controlled-type-2-diabetes"
-description: "Explains how time-restricted eating amplifies alcohol-induced oxidative stress in the liver due to enzyme induction — with practical guidance on safe weekly ethanol limits during fasting windows."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["intermittent fasting alcohol metabolism diabetes", "diabetes", "hepatic-enzyme-diet-interaction"]
-primaryKeyword: "intermittent fasting alcohol metabolism diabetes"
-topicCluster: "hepatic-enzyme-diet-interaction"
-image: ""
-relatedSlugs: ["how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin", "what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62", "natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt", "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon"]
+title: >-
+  How Intermittent Fasting Alters Hepatic CYP2E1 Expression — And Why That
+  Changes Alcohol Metabolism in Adults 69+ With Well-Controlled Type 2 Diabetes
+slug: >-
+  how-intermittent-fasting-alters-hepatic-cyp2e1-expression-and-why-that-changes-alcohol-metabolism-in-adults-69-with-well-controlled-type-2-diabetes
+description: >-
+  Explains how time-restricted eating amplifies alcohol-induced oxidative stress
+  in the liver due to enzyme induction — with practical guidance on safe weekly
+  ethanol limits during fasting windows.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: intermittent fasting alcohol metabolism diabetes
+topicCluster: complications-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
+  - >-
+    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
+  - >-
+    natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt
+  - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # How Intermittent Fasting Alcohol Metabolism Changes in Older Adults With Diabetes — And What It Means for Your Liver

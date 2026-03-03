@@ -10,12 +10,8 @@ description: >-
   catecholamine-driven hyperglycemia.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - post-exercise glucose spike type 1
-  - diabetes
-  - exercise-glucose-response
 primaryKeyword: post-exercise glucose spike type 1
-topicCluster: exercise-glucose-response
+topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-

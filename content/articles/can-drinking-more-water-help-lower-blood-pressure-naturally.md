@@ -6,10 +6,6 @@ description: >-
   and heart function.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - drinking water and blood pressure reduction
-  - heart health
-  - hypertension-lifestyle
 primaryKeyword: drinking water and blood pressure reduction
 topicCluster: hypertension-management
 image: ''

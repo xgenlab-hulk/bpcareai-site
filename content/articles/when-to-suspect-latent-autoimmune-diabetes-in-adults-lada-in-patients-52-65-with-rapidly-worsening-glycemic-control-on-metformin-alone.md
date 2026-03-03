@@ -1,14 +1,29 @@
 ---
-title: "When to Suspect Latent Autoimmune Diabetes in Adults (LADA) in Patients 52–65 With Rapidly Worsening Glycemic Control on Metformin Alone"
-slug: "when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone"
-description: "Details clinical red flags (BMI <25, C-peptide discordance, GAD65 positivity without ketoacidosis), differentiation from classic T2D, and why early insulin initiation preserves beta-cell mass — with screening protocol flowchart."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["LADA diagnosis in middle-aged adults", "diabetes", "diabetes-typing-differential-diagnosis"]
-primaryKeyword: "LADA diagnosis in middle-aged adults"
-topicCluster: "diabetes-typing-differential-diagnosis"
-image: ""
-relatedSlugs: ["when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss", "when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s", "when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement", "myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2", "the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia"]
+title: >-
+  When to Suspect Latent Autoimmune Diabetes in Adults (LADA) in Patients 52–65
+  With Rapidly Worsening Glycemic Control on Metformin Alone
+slug: >-
+  when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone
+description: >-
+  Details clinical red flags (BMI <25, C-peptide discordance, GAD65 positivity
+  without ketoacidosis), differentiation from classic T2D, and why early insulin
+  initiation preserves beta-cell mass — with screening protocol flowchart.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: LADA diagnosis in middle-aged adults
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss
+  - >-
+    when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
+  - >-
+    when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement
+  - >-
+    myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
+  - >-
+    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
 ---
 
 # When to Consider LADA Diagnosis in Middle-Aged Adults: A Gentle Guide for Those Aged 52–65

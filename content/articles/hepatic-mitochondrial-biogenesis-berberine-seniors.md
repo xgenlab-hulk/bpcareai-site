@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Hepatic Mitochondrial Biogenesis *Without* Activating mTOR — Using Berberine + Urolithin A in Adults 65+ With NAFLD and Type 2 Diabetes"
-slug: "natural-ways-to-support-hepatic-mitochondrial-biogenesis-without-activating-mtor-using-berberine-urolithin-a-in-adults-65-with-nafld-and-type-2-diabetes"
-description: "Details synergistic PGC-1α activation via AMPK and TFAM upregulation, with emphasis on avoiding mTOR-driven fibrogenesis — including dosing windows, gut microbiome prerequisites, and ALT/AST monitoring schedules."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["hepatic mitochondrial biogenesis berberine seniors", "diabetes", "liver-mitochondrial-support"]
-primaryKeyword: "hepatic mitochondrial biogenesis berberine seniors"
-topicCluster: "liver-mitochondrial-support"
-image: ""
-relatedSlugs: ["can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal", "10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy", "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max"]
+title: >-
+  Natural Ways to Support Hepatic Mitochondrial Biogenesis *Without* Activating
+  mTOR — Using Berberine + Urolithin A in Adults 65+ With NAFLD and Type 2
+  Diabetes
+slug: >-
+  natural-ways-to-support-hepatic-mitochondrial-biogenesis-without-activating-mtor-using-berberine-urolithin-a-in-adults-65-with-nafld-and-type-2-diabetes
+description: >-
+  Details synergistic PGC-1α activation via AMPK and TFAM upregulation, with
+  emphasis on avoiding mTOR-driven fibrogenesis — including dosing windows, gut
+  microbiome prerequisites, and ALT/AST monitoring schedules.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: hepatic mitochondrial biogenesis berberine seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal
+  - >-
+    10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
 ---
 
 # Supporting Liver Mitochondria Naturally in Later Years: A Gentle, Science-Informed Approach for Seniors with NAFLD and Type 2 Diabetes  

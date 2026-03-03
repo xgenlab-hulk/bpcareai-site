@@ -6,12 +6,8 @@ description: >-
   and how seniors can mitigate them.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - morning blood pressure surge
-  - senior blood pressure control in winter
-  - daily-patterns
 primaryKeyword: morning blood pressure surge
-topicCluster: lifestyle-changes
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know

@@ -6,12 +6,8 @@ description: >-
   diabetes due to nerve damage.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - silent heart attack symptoms in elderly diabetics
-  - diabetes
-  - cardiovascular-risk
 primaryKeyword: silent heart attack symptoms in elderly diabetics
-topicCluster: cardiovascular-health
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - the-link-between-diabetes-and-slow-healing-in-older-adults

@@ -1,14 +1,30 @@
 ---
-title: "7 Hidden Sodium Traps in 'Healthy' Holiday Side Dishes — Why Roasted Sweet Potatoes, Quinoa Salad, and Herb-Infused Gravy Often Contain 420+ mg Per Serving for Adults 72+ With Stage 2 Hypertension"
-slug: "7-hidden-sodium-traps-in-healthy-holiday-side-dishes-why-roasted-sweet-potatoes-quinoa-salad-and-herb-infused-gravy-often-contain-420-mg-per-serving-for-adults-72-with-stage-2-hypertension"
-description: "Identifies unexpected high-sodium ingredients in seemingly low-salt dishes, with label-reading tips and low-sodium swaps validated by renal dietitian guidelines."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["hidden sodium holiday side dishes", "healthy eating during family gatherings", "hypertension-diet-nutrition"]
-primaryKeyword: "hidden sodium holiday side dishes"
-topicCluster: "hypertension-diet-nutrition"
-image: ""
-relatedSlugs: ["7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd", "7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62", "7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure", "7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker"]
+title: >-
+  7 Hidden Sodium Traps in 'Healthy' Holiday Side Dishes — Why Roasted Sweet
+  Potatoes, Quinoa Salad, and Herb-Infused Gravy Often Contain 420+ mg Per
+  Serving for Adults 72+ With Stage 2 Hypertension
+slug: >-
+  7-hidden-sodium-traps-in-healthy-holiday-side-dishes-why-roasted-sweet-potatoes-quinoa-salad-and-herb-infused-gravy-often-contain-420-mg-per-serving-for-adults-72-with-stage-2-hypertension
+description: >-
+  Identifies unexpected high-sodium ingredients in seemingly low-salt dishes,
+  with label-reading tips and low-sodium swaps validated by renal dietitian
+  guidelines.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: hidden sodium holiday side dishes
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
+  - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+  - >-
+    7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure
+  - >-
+    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
 ---
 
 # Hidden Sodium Holiday Side Dishes: What Your “Healthy” Casserole Might Be Hiding — Especially After Age 72

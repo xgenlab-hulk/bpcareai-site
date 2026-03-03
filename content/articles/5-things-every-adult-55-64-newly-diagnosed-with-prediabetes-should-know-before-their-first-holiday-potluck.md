@@ -1,14 +1,30 @@
 ---
-title: "5 Things Every Adult 55–64 Newly Diagnosed With Prediabetes Should Know Before Their First Holiday Potluck"
-slug: "5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck"
-description: "Practical, non-shaming guidance on navigating shared meals: glycemic load estimation, strategic plate-building, social scripting for pushback, and real-time glucose monitoring cues—geared toward newly health-conscious hosts and guests."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["prediabetes holiday potluck survival guide", "healthy holiday eating for seniors", "prediabetes-social-nutrition"]
-primaryKeyword: "prediabetes holiday potluck survival guide"
-topicCluster: "prediabetes-social-nutrition"
-image: ""
-relatedSlugs: ["how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes", "how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58", "how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82", "12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry", "7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying"]
+title: >-
+  5 Things Every Adult 55–64 Newly Diagnosed With Prediabetes Should Know Before
+  Their First Holiday Potluck
+slug: >-
+  5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
+description: >-
+  Practical, non-shaming guidance on navigating shared meals: glycemic load
+  estimation, strategic plate-building, social scripting for pushback, and
+  real-time glucose monitoring cues—geared toward newly health-conscious hosts
+  and guests.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: prediabetes holiday potluck survival guide
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
+  - >-
+    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
+  - >-
+    how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82
+  - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+  - >-
+    7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying
 ---
 
 # Your Prediabetes Holiday Potluck Survival Guide: Smart, Stress-Free Strategies for Adults 55–64

@@ -1,14 +1,27 @@
 ---
-title: "5 Things Every Adult 53–64 With Newly Diagnosed Hypertension Should Know Before Attending Their First Post-Diagnosis Holiday Party"
-slug: "5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party"
-description: "Actionable, non-alarmist guidance for recently diagnosed patients — covering safe drink substitutions, covert BP-monitoring tactics, when to excuse oneself, and how to navigate 'just one drink' social pressure without compromising cardiac stability."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["hypertension diagnosis holiday party preparation", "holiday heart syndrome prevention", "new-diagnosis-navigation"]
-primaryKeyword: "hypertension diagnosis holiday party preparation"
-topicCluster: "new-diagnosis-navigation"
-image: ""
-relatedSlugs: ["best-non-alcoholic-holiday-drinks-for-heart-health-after-50", "the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62"]
+title: >-
+  5 Things Every Adult 53–64 With Newly Diagnosed Hypertension Should Know
+  Before Attending Their First Post-Diagnosis Holiday Party
+slug: >-
+  5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
+description: >-
+  Actionable, non-alarmist guidance for recently diagnosed patients — covering
+  safe drink substitutions, covert BP-monitoring tactics, when to excuse
+  oneself, and how to navigate 'just one drink' social pressure without
+  compromising cardiac stability.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: hypertension diagnosis holiday party preparation
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
 ---
 
 # What to Know Before Your First Holiday Party After a Hypertension Diagnosis: Practical, Calm Guidance for Adults 53–64

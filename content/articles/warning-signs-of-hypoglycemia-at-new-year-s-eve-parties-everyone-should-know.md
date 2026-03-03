@@ -7,12 +7,8 @@ description: >-
   celebrations.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - hypoglycemia signs at parties seniors
-  - managing blood sugar during Christmas and New Year
-  - emergency-symptoms-recognition
 primaryKeyword: hypoglycemia signs at parties seniors
-topicCluster: symptoms-emergencies
+topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes

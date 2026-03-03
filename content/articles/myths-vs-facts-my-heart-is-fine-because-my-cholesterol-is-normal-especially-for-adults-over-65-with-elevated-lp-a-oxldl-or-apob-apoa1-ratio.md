@@ -1,14 +1,27 @@
 ---
-title: "Myths vs Facts: 'My Heart Is Fine Because My Cholesterol Is Normal'—Especially for Adults Over 65 With Elevated Lp(a), OxLDL, or ApoB/ApoA1 Ratio"
-slug: "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio"
-description: "Debunks LDL-centric thinking using data on residual inflammatory risk, particle number vs concentration, and why standard lipid panels miss 40% of high-risk elders."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["cholesterol normal but heart risk high elders", "heart disease", "lipid-panel-limitations"]
-primaryKeyword: "cholesterol normal but heart risk high elders"
-topicCluster: "lipid-panel-limitations"
-image: ""
-relatedSlugs: ["myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old", "myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75", "can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure", "can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50", "why-men-over-50-should-monitor-cholesterol-even-without-symptoms"]
+title: >-
+  Myths vs Facts: 'My Heart Is Fine Because My Cholesterol Is Normal'—Especially
+  for Adults Over 65 With Elevated Lp(a), OxLDL, or ApoB/ApoA1 Ratio
+slug: >-
+  myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
+description: >-
+  Debunks LDL-centric thinking using data on residual inflammatory risk,
+  particle number vs concentration, and why standard lipid panels miss 40% of
+  high-risk elders.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: cholesterol normal but heart risk high elders
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+  - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
+  - can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure
+  - >-
+    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
+  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
 ---
 
 # Cholesterol Normal But Heart Risk High Elders: Why “Fine Numbers” Don’t Always Mean a Healthy Heart

@@ -10,12 +10,8 @@ description: >-
   symptom burden over 6 months.
 date: '2026-01-09'
 updated: '2026-01-09'
-tags:
-  - plant-based vs mediterranean diet for diabetic neuropathy
-  - diabetes
-  - diet-neuropathy
 primaryKeyword: plant-based vs mediterranean diet for diabetic neuropathy
-topicCluster: diet-neuropathy
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

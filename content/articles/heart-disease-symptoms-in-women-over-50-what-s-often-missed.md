@@ -6,12 +6,8 @@ description: >-
   are frequently overlooked by patients and doctors.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - heart disease symptoms in women over 50
-  - heart disease
-  - heart-health
 primaryKeyword: heart disease symptoms in women over 50
-topicCluster: cardiovascular-health
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - recognizing-silent-heart-attacks-in-diabetics-over-60

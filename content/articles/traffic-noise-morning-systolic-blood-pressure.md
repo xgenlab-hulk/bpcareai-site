@@ -1,14 +1,30 @@
 ---
-title: "How Intermittent Exposure to Urban Traffic Noise Elevates Morning Systolic Pressure by 8–12 mmHg — Even With Bedroom Windows Closed — In Adults 63+ Living Near Freeways"
-slug: "how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways"
-description: "Connects nocturnal noise-induced cortical arousal (measured via EEG microarousals), delayed cortisol decline, and impaired endothelial-dependent vasodilation — with real-world BP tracking from the HEART-NOISE Cohort."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["traffic noise morning systolic blood pressure", "blood pressure", "environmental-noise-cardiovascular-impact"]
-primaryKeyword: "traffic noise morning systolic blood pressure"
-topicCluster: "environmental-noise-cardiovascular-impact"
-image: ""
-relatedSlugs: ["how-chronic-exposure-to-urban-roadway-noise-55-db-increases-nighttime-sympathetic-tone-and-predicts-new-onset-heart-failure-in-adults-64-with-borderline-hypertension", "how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises", "warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines", "how-intermittent-silence-not-just-quiet-lowers-central-aortic-systolic-pressure-in-adults-64-with-white-coat-hypertension-and-high-cortisol-awakening-response", "how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments"]
+title: >-
+  How Intermittent Exposure to Urban Traffic Noise Elevates Morning Systolic
+  Pressure by 8–12 mmHg — Even With Bedroom Windows Closed — In Adults 63+
+  Living Near Freeways
+slug: >-
+  how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways
+description: >-
+  Connects nocturnal noise-induced cortical arousal (measured via EEG
+  microarousals), delayed cortisol decline, and impaired endothelial-dependent
+  vasodilation — with real-world BP tracking from the HEART-NOISE Cohort.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: traffic noise morning systolic blood pressure
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-exposure-to-urban-roadway-noise-55-db-increases-nighttime-sympathetic-tone-and-predicts-new-onset-heart-failure-in-adults-64-with-borderline-hypertension
+  - >-
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
+  - >-
+    warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines
+  - >-
+    how-intermittent-silence-not-just-quiet-lowers-central-aortic-systolic-pressure-in-adults-64-with-white-coat-hypertension-and-high-cortisol-awakening-response
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
 ---
 
 # How Traffic Noise Morning Systolic Blood Pressure Rises — Even With Windows Closed — in Adults 63+

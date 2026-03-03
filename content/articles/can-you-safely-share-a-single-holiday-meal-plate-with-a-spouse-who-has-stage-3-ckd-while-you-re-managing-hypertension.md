@@ -1,14 +1,27 @@
 ---
-title: "Can You Safely Share a Single Holiday Meal Plate With a Spouse Who Has Stage 3 CKD While You’re Managing Hypertension?"
-slug: "can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension"
-description: "Evaluates shared-plate risks—including sodium, potassium, and phosphate load mismatches—and offers practical co-meal strategies for mixed-diet households."
-date: "2026-01-07"
-updated: "2026-01-07"
-tags: ["shared holiday meal hypertension ck3", "healthy eating during family gatherings", "dual-diet-household-strategies"]
-primaryKeyword: "shared holiday meal hypertension ck3"
-topicCluster: "dual-diet-household-strategies"
-image: ""
-relatedSlugs: ["a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62", "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure", "the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease"]
+title: >-
+  Can You Safely Share a Single Holiday Meal Plate With a Spouse Who Has Stage 3
+  CKD While You’re Managing Hypertension?
+slug: >-
+  can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
+description: >-
+  Evaluates shared-plate risks—including sodium, potassium, and phosphate load
+  mismatches—and offers practical co-meal strategies for mixed-diet households.
+date: '2026-01-07'
+updated: '2026-01-07'
+primaryKeyword: shared holiday meal hypertension ck3
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
+  - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
 ---
 
 # Shared Holiday Meal Hypertension CK3: Navigating Dual-Diet Needs at Family Gatherings

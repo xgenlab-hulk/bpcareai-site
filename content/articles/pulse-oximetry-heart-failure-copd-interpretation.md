@@ -1,14 +1,31 @@
 ---
-title: "The Complete Guide to Interpreting Home Pulse Oximetry Trends in Adults 70+ With Chronic Heart Failure and COPD — When Desaturation Patterns Signal Worsening RV Function"
-slug: "the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function"
-description: "Teaches patients and caregivers how to recognize clinically meaningful nocturnal desaturation signatures (e.g., delayed recovery post-cough, progressive nocturnal nadir drop) that precede right heart decompensation—even with stable SpO₂ averages."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["pulse oximetry heart failure copd interpretation", "heart health", "home-monitoring-pattern-recognition"]
-primaryKeyword: "pulse oximetry heart failure copd interpretation"
-topicCluster: "home-monitoring-pattern-recognition"
-image: ""
-relatedSlugs: ["what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms", "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath", "warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71", "what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65", "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80"]
+title: >-
+  The Complete Guide to Interpreting Home Pulse Oximetry Trends in Adults 70+
+  With Chronic Heart Failure and COPD — When Desaturation Patterns Signal
+  Worsening RV Function
+slug: >-
+  the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function
+description: >-
+  Teaches patients and caregivers how to recognize clinically meaningful
+  nocturnal desaturation signatures (e.g., delayed recovery post-cough,
+  progressive nocturnal nadir drop) that precede right heart decompensation—even
+  with stable SpO₂ averages.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: pulse oximetry heart failure copd interpretation
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
+  - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - >-
+    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
+  - >-
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
 ---
 
 # Understanding Pulse Oximetry Heart Failure COPD Interpretation: A Gentle Guide for Older Adults and Caregivers

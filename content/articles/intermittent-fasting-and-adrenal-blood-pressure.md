@@ -1,14 +1,30 @@
 ---
-title: "How Intermittent Fasting (14:10 Window) Affects Circadian Clock Gene Expression in the Adrenal Cortex — And Why That Matters for BP Rhythmicity in Adults 62+ With Mild Adrenal Insufficiency"
-slug: "how-intermittent-fasting-14-10-window-affects-circadian-clock-gene-expression-in-the-adrenal-cortex-and-why-that-matters-for-bp-rhythmicity-in-adults-62-with-mild-adrenal-insufficiency"
-description: "Connects time-restricted eating to PER1/PER2 regulation, aldosterone rhythm preservation, and reduced nocturnal renin surges — with cautionary notes for those on fludrocortisone."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["intermittent fasting and adrenal blood pressure", "blood pressure", "lifestyle-modifications"]
-primaryKeyword: "intermittent fasting and adrenal blood pressure"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["what-research-says-about-intermittent-fasting-windows-and-24-hour-bp-variability-in-adults-55-67-with-metabolic-syndrome-and-elevated-sdnn", "how-chronic-low-dose-cortisol-elevation-from-night-shift-work-alters-renin-angiotensin-feedback-loops-in-men-52-64-with-nocturnal-hypertension", "what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history", "can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show", "natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns"]
+title: >-
+  How Intermittent Fasting (14:10 Window) Affects Circadian Clock Gene
+  Expression in the Adrenal Cortex — And Why That Matters for BP Rhythmicity in
+  Adults 62+ With Mild Adrenal Insufficiency
+slug: >-
+  how-intermittent-fasting-14-10-window-affects-circadian-clock-gene-expression-in-the-adrenal-cortex-and-why-that-matters-for-bp-rhythmicity-in-adults-62-with-mild-adrenal-insufficiency
+description: >-
+  Connects time-restricted eating to PER1/PER2 regulation, aldosterone rhythm
+  preservation, and reduced nocturnal renin surges — with cautionary notes for
+  those on fludrocortisone.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: intermittent fasting and adrenal blood pressure
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-intermittent-fasting-windows-and-24-hour-bp-variability-in-adults-55-67-with-metabolic-syndrome-and-elevated-sdnn
+  - >-
+    how-chronic-low-dose-cortisol-elevation-from-night-shift-work-alters-renin-angiotensin-feedback-loops-in-men-52-64-with-nocturnal-hypertension
+  - >-
+    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
+  - >-
+    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
+  - >-
+    natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
 ---
 
 # How Intermittent Fasting and Adrenal Blood Pressure Interact in Older Adults — Insights on Circadian Rhythms, Aldosterone, and Safe Time-Restricted Eating

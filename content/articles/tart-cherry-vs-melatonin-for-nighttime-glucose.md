@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Evening 8 p.m. Tart Cherry Juice (Montmorency) vs. Nighttime 10 p.m. Low-Dose Melatonin (0.5 mg) for Improving Nocturnal Glucose Stability in Women 61–75 With Sleep Fragmentation and Type 2 Diabetes"
-slug: "a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes"
-description: "Compares two circadian-targeted interventions for overnight glycemic control—assessing impact on dawn phenomenon, hepatic glucose production, and next-day insulin sensitivity."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["tart cherry vs melatonin for nighttime glucose", "diabetes", "sleep-circadian-glucose"]
-primaryKeyword: "tart cherry vs melatonin for nighttime glucose"
-topicCluster: "sleep-circadian-glucose"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols", "how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes", "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s", "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon"]
+title: >-
+  A vs B: Evening 8 p.m. Tart Cherry Juice (Montmorency) vs. Nighttime 10 p.m.
+  Low-Dose Melatonin (0.5 mg) for Improving Nocturnal Glucose Stability in Women
+  61–75 With Sleep Fragmentation and Type 2 Diabetes
+slug: >-
+  a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes
+description: >-
+  Compares two circadian-targeted interventions for overnight glycemic
+  control—assessing impact on dawn phenomenon, hepatic glucose production, and
+  next-day insulin sensitivity.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: tart cherry vs melatonin for nighttime glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
+  - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # Tart Cherry vs Melatonin for Nighttime Glucose: A Gentle Comparison for Women 61–75 with Type 2 Diabetes and Sleep Fragmentation

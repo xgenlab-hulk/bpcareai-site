@@ -1,14 +1,28 @@
 ---
-title: "Best Portable Foot Thermometers for Early Neuropathy Detection in Adults 70+ With Limited Dexterity and Poor Vision"
-slug: "best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision"
-description: "Reviews infrared thermometers optimized for geriatric use: one-hand operation, large audio feedback, non-contact accuracy at 2cm, and validated sensitivity to 0.5°C skin temp asymmetry."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["portable foot thermometer geriatric neuropathy", "diabetes", "neuropathy-screening-tools"]
-primaryKeyword: "portable foot thermometer geriatric neuropathy"
-topicCluster: "neuropathy-screening-tools"
-image: ""
-relatedSlugs: ["5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house", "myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain", "the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors", "best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60", "7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy"]
+title: >-
+  Best Portable Foot Thermometers for Early Neuropathy Detection in Adults 70+
+  With Limited Dexterity and Poor Vision
+slug: >-
+  best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision
+description: >-
+  Reviews infrared thermometers optimized for geriatric use: one-hand operation,
+  large audio feedback, non-contact accuracy at 2cm, and validated sensitivity
+  to 0.5°C skin temp asymmetry.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: portable foot thermometer geriatric neuropathy
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
+  - myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
+  - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
+  - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
+  - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
 ---
 
 # Portable Foot Thermometers for Early Neuropathy Detection in Older Adults: A Gentle Guide for Those 70+

@@ -1,14 +1,28 @@
 ---
-title: "Warning Signs of Hidden Iron Overload After Holiday Red Meat Consumption in Men 69+ With HFE Gene Variant and Elevated Ferritin"
-slug: "warning-signs-of-hidden-iron-overload-after-holiday-red-meat-consumption-in-men-69-with-hfe-gene-variant-and-elevated-ferritin"
-description: "Highlights atypical red flags—like unexplained fatigue after roast beef, transient joint warmth, or worsening restless legs—not typically associated with hemochromatosis in aging males."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["iron overload holiday red meat seniors", "healthy holiday eating for seniors", "nutrient-toxicity-warning-signs"]
-primaryKeyword: "iron overload holiday red meat seniors"
-topicCluster: "nutrient-toxicity-warning-signs"
-image: ""
-relatedSlugs: ["when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion", "7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate", "does-holiday-caffeine-from-spiced-chai-or-eggnog-really-worsen-nocturnal-myoclonus-in-seniors-with-restless-legs-syndrome", "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72", "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60"]
+title: >-
+  Warning Signs of Hidden Iron Overload After Holiday Red Meat Consumption in
+  Men 69+ With HFE Gene Variant and Elevated Ferritin
+slug: >-
+  warning-signs-of-hidden-iron-overload-after-holiday-red-meat-consumption-in-men-69-with-hfe-gene-variant-and-elevated-ferritin
+description: >-
+  Highlights atypical red flags—like unexplained fatigue after roast beef,
+  transient joint warmth, or worsening restless legs—not typically associated
+  with hemochromatosis in aging males.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: iron overload holiday red meat seniors
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion
+  - >-
+    7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate
+  - >-
+    does-holiday-caffeine-from-spiced-chai-or-eggnog-really-worsen-nocturnal-myoclonus-in-seniors-with-restless-legs-syndrome
+  - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 
 # Hidden Iron Overload After Holiday Red Meat: What Seniors 69+ with HFE Variants Should Gently Notice

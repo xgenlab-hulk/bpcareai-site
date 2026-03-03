@@ -1,14 +1,28 @@
 ---
-title: "When to Worry About ‘Normal’ Office BP and Elevated Ambulatory Mean Arterial Pressure in Adults 72+ With White-Coat Resolved but Persistent Microalbuminuria"
-slug: "when-to-worry-about-normal-office-bp-and-elevated-ambulatory-mean-arterial-pressure-in-adults-72-with-white-coat-resolved-but-persistent-microalbuminuria"
-description: "Highlights MAP as an underused predictor of target organ damage — linking renal hyperfiltration, glomerular capillary pressure, and early CKD progression in normotensive-appearing elders."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["mean arterial pressure microalbuminuria elderly", "blood pressure", "subclinical-organ-damage"]
-primaryKeyword: "mean arterial pressure microalbuminuria elderly"
-topicCluster: "subclinical-organ-damage"
-image: ""
-relatedSlugs: ["5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk", "blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70", "what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80", "blood-pressure-and-kidney-health-what-seniors-need-to-know", "what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75"]
+title: >-
+  When to Worry About ‘Normal’ Office BP and Elevated Ambulatory Mean Arterial
+  Pressure in Adults 72+ With White-Coat Resolved but Persistent
+  Microalbuminuria
+slug: >-
+  when-to-worry-about-normal-office-bp-and-elevated-ambulatory-mean-arterial-pressure-in-adults-72-with-white-coat-resolved-but-persistent-microalbuminuria
+description: >-
+  Highlights MAP as an underused predictor of target organ damage — linking
+  renal hyperfiltration, glomerular capillary pressure, and early CKD
+  progression in normotensive-appearing elders.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: mean arterial pressure microalbuminuria elderly
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
+  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
+  - blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - >-
+    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
 ---
 
 # When Elevated Mean Arterial Pressure and Microalbuminuria Signal Early Kidney Changes in Adults 72+ — Even With “Normal” Office Blood Pressure

@@ -6,12 +6,8 @@ description: >-
   changed eating patterns during festive periods.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - adjust diabetes meds holidays
-  - managing blood sugar during Christmas and New Year
-  - treatment-options
 primaryKeyword: adjust diabetes meds holidays
-topicCluster: medications-supplements
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

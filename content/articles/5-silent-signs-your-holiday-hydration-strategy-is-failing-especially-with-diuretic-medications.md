@@ -1,14 +1,24 @@
 ---
-title: "5 Silent Signs Your Holiday Hydration Strategy Is Failing—Especially With Diuretic Medications"
-slug: "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications"
-description: "Identifies overlooked dehydration cues in seniors taking loop diuretics or thiazides, with practical hydration benchmarks adjusted for winter indoor heating and reduced thirst perception."
-date: "2025-12-23"
-updated: "2025-12-23"
-tags: ["dehydration signs seniors diuretics", "healthy holiday eating for seniors", "medication-hydration-safety"]
-primaryKeyword: "dehydration signs seniors diuretics"
-topicCluster: "medication-hydration-safety"
-image: ""
-relatedSlugs: ["warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties", "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70", "how-dehydration-affects-blood-sugar-readings-in-older-diabetics", "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70", "how-staying-hydrated-in-winter-protects-your-heart-after-70"]
+title: >-
+  5 Silent Signs Your Holiday Hydration Strategy Is Failing—Especially With
+  Diuretic Medications
+slug: >-
+  5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
+description: >-
+  Identifies overlooked dehydration cues in seniors taking loop diuretics or
+  thiazides, with practical hydration benchmarks adjusted for winter indoor
+  heating and reduced thirst perception.
+date: '2025-12-23'
+updated: '2025-12-23'
+primaryKeyword: dehydration signs seniors diuretics
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
+  - how-staying-hydrated-in-winter-protects-your-heart-after-70
 ---
 
 # 5 Quiet Clues Your Holiday Hydration Plan May Be Falling Short—Especially If You Take Diuretics  

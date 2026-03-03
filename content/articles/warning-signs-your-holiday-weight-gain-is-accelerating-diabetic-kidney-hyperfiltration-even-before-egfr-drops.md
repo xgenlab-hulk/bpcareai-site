@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your Holiday Weight Gain Is Accelerating Diabetic Kidney Hyperfiltration — Even Before eGFR Drops"
-slug: "warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops"
-description: "Identifies early clinical red flags (e.g., postprandial microalbuminuria spikes, reduced renal resistive index on Doppler ultrasound, nocturnal sodium retention) signaling glomerular stress before standard labs change."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["holiday weight gain diabetic kidney signs", "holiday diabetes management", "renal-hyperfiltration-early-signs"]
-primaryKeyword: "holiday weight gain diabetic kidney signs"
-topicCluster: "renal-hyperfiltration-early-signs"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89", "7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria", "warning-signs-your-holiday-weight-gain-is-triggering-silent-beta-cell-exhaustion-even-with-normal-a1c-in-adults-55-64-with-family-history-of-early-onset-t2d", "warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks", "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68"]
+title: >-
+  Warning Signs Your Holiday Weight Gain Is Accelerating Diabetic Kidney
+  Hyperfiltration — Even Before eGFR Drops
+slug: >-
+  warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops
+description: >-
+  Identifies early clinical red flags (e.g., postprandial microalbuminuria
+  spikes, reduced renal resistive index on Doppler ultrasound, nocturnal sodium
+  retention) signaling glomerular stress before standard labs change.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: holiday weight gain diabetic kidney signs
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
+  - >-
+    7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria
+  - >-
+    warning-signs-your-holiday-weight-gain-is-triggering-silent-beta-cell-exhaustion-even-with-normal-a1c-in-adults-55-64-with-family-history-of-early-onset-t2d
+  - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
+  - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # Early Holiday Weight Gain Diabetic Kidney Signs: What to Watch For Before Lab Values Shift

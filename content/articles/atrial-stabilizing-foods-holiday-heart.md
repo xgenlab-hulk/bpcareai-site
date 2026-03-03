@@ -1,14 +1,30 @@
 ---
-title: "12 Foods That *Stabilize* Atrial Electrophysiology — Not Just 'Heart-Healthy' — Including Fermented Kimchi, Roasted Walnuts, and Low-Histamine Pear Compote for Adults 57–71"
-slug: "12-foods-that-stabilize-atrial-electrophysiology-not-just-heart-healthy-including-fermented-kimchi-roasted-walnuts-and-low-histamine-pear-compote-for-adults-57-71"
-description: "Highlights specific foods with documented effects on atrial connexin-40 expression, potassium channel modulation, and mast-cell stabilization—curated for arrhythmia-prone aging atria."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["atrial-stabilizing foods holiday heart", "holiday heart syndrome prevention", "atrial-electrophysiology-foods"]
-primaryKeyword: "atrial-stabilizing foods holiday heart"
-topicCluster: "atrial-electrophysiology-foods"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope", "10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia", "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib", "natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79", "10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers"]
+title: >-
+  12 Foods That *Stabilize* Atrial Electrophysiology — Not Just 'Heart-Healthy'
+  — Including Fermented Kimchi, Roasted Walnuts, and Low-Histamine Pear Compote
+  for Adults 57–71
+slug: >-
+  12-foods-that-stabilize-atrial-electrophysiology-not-just-heart-healthy-including-fermented-kimchi-roasted-walnuts-and-low-histamine-pear-compote-for-adults-57-71
+description: >-
+  Highlights specific foods with documented effects on atrial connexin-40
+  expression, potassium channel modulation, and mast-cell stabilization—curated
+  for arrhythmia-prone aging atria.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: atrial-stabilizing foods holiday heart
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope
+  - >-
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
+  - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+  - >-
+    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
+  - >-
+    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
 ---
 
 # Atrial-Stabilizing Foods for Holiday Heart Support — Gentle, Evidence-Informed Choices for Adults 57–71

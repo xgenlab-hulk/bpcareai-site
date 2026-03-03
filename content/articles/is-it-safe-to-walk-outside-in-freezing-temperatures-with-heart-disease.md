@@ -6,12 +6,8 @@ description: >-
   in seniors managing heart conditions during winter.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - walking in cold heart disease
-  - winter heart health for seniors
-  - lifestyle-modifications
 primaryKeyword: walking in cold heart disease
-topicCluster: lifestyle-changes
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - 10-winter-safe-exercises-for-heart-health-after-65

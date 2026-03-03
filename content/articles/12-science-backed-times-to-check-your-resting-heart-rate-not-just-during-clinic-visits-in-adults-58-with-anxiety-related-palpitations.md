@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Times to Check Your Resting Heart Rate — Not Just During Clinic Visits — in Adults 58+ With Anxiety-Related Palpitations"
-slug: "12-science-backed-times-to-check-your-resting-heart-rate-not-just-during-clinic-visits-in-adults-58-with-anxiety-related-palpitations"
-description: "Identifies circadian, postprandial, post-activity, and medication-timing windows where RHR deviations most reliably predict subclinical atrial remodeling or vagal withdrawal."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["when to check resting heart rate seniors", "heart health", "monitoring-rhythm-anxiety-interface"]
-primaryKeyword: "when to check resting heart rate seniors"
-topicCluster: "monitoring-rhythm-anxiety-interface"
-image: ""
-relatedSlugs: ["when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction", "when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms", "the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure", "simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction", "best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp"]
+title: >-
+  12 Science-Backed Times to Check Your Resting Heart Rate — Not Just During
+  Clinic Visits — in Adults 58+ With Anxiety-Related Palpitations
+slug: >-
+  12-science-backed-times-to-check-your-resting-heart-rate-not-just-during-clinic-visits-in-adults-58-with-anxiety-related-palpitations
+description: >-
+  Identifies circadian, postprandial, post-activity, and medication-timing
+  windows where RHR deviations most reliably predict subclinical atrial
+  remodeling or vagal withdrawal.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: when to check resting heart rate seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+  - >-
+    when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms
+  - >-
+    the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
+  - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
+  - >-
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
 ---
 
 # When to Check Resting Heart Rate in Seniors: 12 Science-Backed Moments Beyond the Doctor’s Office

@@ -10,12 +10,8 @@ description: >-
   modulation, and renal sodium handling.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - intermittent fasting blood pressure no weight loss
-  - blood pressure
-  - dietary-timing-hypertension
 primaryKeyword: intermittent fasting blood pressure no weight loss
-topicCluster: dietary-timing-hypertension
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-

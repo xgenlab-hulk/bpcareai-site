@@ -6,12 +6,8 @@ description: >-
   age-related physiological vulnerability.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - one night heavy drinking heart
-  - holiday heart syndrome prevention
-  - acute-risk-events
 primaryKeyword: one night heavy drinking heart
-topicCluster: symptoms-emergencies
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,26 @@
 ---
-title: "Quick 7-Minute Breathing Protocol to Lower Sympathetic Tone in Adults With Stage 2 Hypertension and Anxiety"
-slug: "quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety"
-description: "Teaches paced diaphragmatic breathing with HRV biofeedback cues—validated in a 2024 RCT for reducing systolic BP ≥12 mmHg within 2 weeks."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["breathing protocol for hypertension and anxiety", "heart disease", "lifestyle-breathing-hrv"]
-primaryKeyword: "breathing protocol for hypertension and anxiety"
-topicCluster: "lifestyle-breathing-hrv"
-image: ""
-relatedSlugs: ["quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85", "12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults", "can-deep-breathing-exercises-reduce-high-blood-pressure", "can-deep-breathing-exercises-lower-heart-disease-risk", "natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices"]
+title: >-
+  Quick 7-Minute Breathing Protocol to Lower Sympathetic Tone in Adults With
+  Stage 2 Hypertension and Anxiety
+slug: >-
+  quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+description: >-
+  Teaches paced diaphragmatic breathing with HRV biofeedback cues—validated in a
+  2024 RCT for reducing systolic BP ≥12 mmHg within 2 weeks.
+date: '2025-12-24'
+updated: '2025-12-24'
+primaryKeyword: breathing protocol for hypertension and anxiety
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+  - >-
+    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
+  - can-deep-breathing-exercises-reduce-high-blood-pressure
+  - can-deep-breathing-exercises-lower-heart-disease-risk
+  - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
 ---
 
 # A Science-Backed 7-Minute Breathing Protocol for Hypertension and Anxiety in Adults Over 50

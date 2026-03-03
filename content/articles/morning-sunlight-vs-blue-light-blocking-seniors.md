@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Morning Sunlight Exposure (Before 10 AM) vs. Evening Blue-Light Blocking Lenses for Nocturnal Systolic Control in Adults 63+ With Mild Circadian Phase Delay"
-slug: "a-vs-b-morning-sunlight-exposure-before-10-am-vs-evening-blue-light-blocking-lenses-for-nocturnal-systolic-control-in-adults-63-with-mild-circadian-phase-delay"
-description: "Compares two chronobiological interventions for lowering early-morning systolic spikes, referencing 2024 RCT data on melatonin timing, cortisol awakening response, and baroreflex resetting."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["morning sunlight vs blue light blocking seniors", "blood pressure", "lifestyle-modifications"]
-primaryKeyword: "morning sunlight vs blue light blocking seniors"
-topicCluster: "lifestyle-modifications"
-image: ""
-relatedSlugs: ["a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern", "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74", "a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77", "a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension"]
+title: >-
+  A vs B: Morning Sunlight Exposure (Before 10 AM) vs. Evening Blue-Light
+  Blocking Lenses for Nocturnal Systolic Control in Adults 63+ With Mild
+  Circadian Phase Delay
+slug: >-
+  a-vs-b-morning-sunlight-exposure-before-10-am-vs-evening-blue-light-blocking-lenses-for-nocturnal-systolic-control-in-adults-63-with-mild-circadian-phase-delay
+description: >-
+  Compares two chronobiological interventions for lowering early-morning
+  systolic spikes, referencing 2024 RCT data on melatonin timing, cortisol
+  awakening response, and baroreflex resetting.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: morning sunlight vs blue light blocking seniors
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74
+  - >-
+    a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77
+  - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
 ---
 
 # Morning Sunlight vs Blue Light Blocking for Seniors: A Practical Guide to Supporting Early-Morning Blood Pressure Control

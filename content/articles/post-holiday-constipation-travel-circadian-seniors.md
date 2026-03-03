@@ -1,14 +1,30 @@
 ---
-title: "What Causes Sudden Post-Holiday Constipation *Only* When Visiting Your Son’s House? — The Role of Travel-Induced Circadian Misalignment, Reduced Fiber Variety, and Toilet Posture Shifts in Adults 71+"
-slug: "what-causes-sudden-post-holiday-constipation-only-when-visiting-your-son-s-house-the-role-of-travel-induced-circadian-misalignment-reduced-fiber-variety-and-toilet-posture-shifts-in-adults-71"
-description: "Analyzes how temporary environmental and behavioral changes during holiday travel disrupt colonic transit—focusing on non-medicinal, home-adjustable levers for constipation prevention."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["post-holiday constipation travel circadian seniors", "healthy holiday eating for seniors", "gastrointestinal-lifestyle"]
-primaryKeyword: "post-holiday constipation travel circadian seniors"
-topicCluster: "gastrointestinal-lifestyle"
-image: ""
-relatedSlugs: ["natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy", "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "simple-steps-to-prevent-post-holiday-constipation-without-laxatives-using-only-a-digital-scale-your-kitchen-timer-and-3-common-herbs-age-66-sedentary-lifestyle", "what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit", "when-to-worry-about-post-holiday-constipation-in-women-63-with-chronic-opioid-use-and-pelvic-floor-dysfunction"]
+title: >-
+  What Causes Sudden Post-Holiday Constipation *Only* When Visiting Your Son’s
+  House? — The Role of Travel-Induced Circadian Misalignment, Reduced Fiber
+  Variety, and Toilet Posture Shifts in Adults 71+
+slug: >-
+  what-causes-sudden-post-holiday-constipation-only-when-visiting-your-son-s-house-the-role-of-travel-induced-circadian-misalignment-reduced-fiber-variety-and-toilet-posture-shifts-in-adults-71
+description: >-
+  Analyzes how temporary environmental and behavioral changes during holiday
+  travel disrupt colonic transit—focusing on non-medicinal, home-adjustable
+  levers for constipation prevention.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: post-holiday constipation travel circadian seniors
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    simple-steps-to-prevent-post-holiday-constipation-without-laxatives-using-only-a-digital-scale-your-kitchen-timer-and-3-common-herbs-age-66-sedentary-lifestyle
+  - >-
+    what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit
+  - >-
+    when-to-worry-about-post-holiday-constipation-in-women-63-with-chronic-opioid-use-and-pelvic-floor-dysfunction
 ---
 
 # Why You Get Constipated Only at Your Son’s House — Understanding Post-Holiday Constipation Travel Circadian Seniors

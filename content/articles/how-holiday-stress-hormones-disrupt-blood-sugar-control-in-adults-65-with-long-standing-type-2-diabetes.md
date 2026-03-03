@@ -1,14 +1,24 @@
 ---
-title: "How Holiday Stress Hormones Disrupt Blood Sugar Control in Adults 65+ With Long-Standing Type 2 Diabetes"
-slug: "how-holiday-stress-hormones-disrupt-blood-sugar-control-in-adults-65-with-long-standing-type-2-diabetes"
-description: "Explores the cortisol-epinephrine cascade triggered by family gatherings, travel, and disrupted routines—and how it directly impairs insulin sensitivity and hepatic glucose output in older adults with T2D."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["holiday stress blood sugar seniors", "healthy holiday eating for seniors", "stress-metabolism-interaction"]
-primaryKeyword: "holiday stress blood sugar seniors"
-topicCluster: "stress-metabolism-interaction"
-image: ""
-relatedSlugs: ["how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes", "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope"]
+title: >-
+  How Holiday Stress Hormones Disrupt Blood Sugar Control in Adults 65+ With
+  Long-Standing Type 2 Diabetes
+slug: >-
+  how-holiday-stress-hormones-disrupt-blood-sugar-control-in-adults-65-with-long-standing-type-2-diabetes
+description: >-
+  Explores the cortisol-epinephrine cascade triggered by family gatherings,
+  travel, and disrupted routines—and how it directly impairs insulin sensitivity
+  and hepatic glucose output in older adults with T2D.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: holiday stress blood sugar seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
 ---
 
 # How Holiday Stress Affects Blood Sugar in Seniors with Type 2 Diabetes  

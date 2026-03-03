@@ -10,12 +10,8 @@ description: >-
   plaque instability despite LDL reduction.
 date: '2026-01-16'
 updated: '2026-01-16'
-tags:
-  - omega-6 vegetable oils oxidized ldl seniors
-  - heart disease
-  - dietary-fat-inflammatory-plaque
 primaryKeyword: omega-6 vegetable oils oxidized ldl seniors
-topicCluster: dietary-fat-inflammatory-plaque
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

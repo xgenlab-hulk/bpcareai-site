@@ -1,14 +1,28 @@
 ---
-title: "How Late-Night Dessert Sharing With Grandchildren Affects Overnight Triglyceride Clearance in Adults 60–71 With Metabolic Syndrome"
-slug: "how-late-night-dessert-sharing-with-grandchildren-affects-overnight-triglyceride-clearance-in-adults-60-71-with-metabolic-syndrome"
-description: "Analyzes the circadian disruption of lipoprotein lipase activity, fructose–chylomicron interplay, and intergenerational meal timing mismatch — with practical cut-off windows and safer dessert alternatives."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["late-night dessert triglycerides metabolic syndrome", "healthy eating during family gatherings", "circadian-metabolism"]
-primaryKeyword: "late-night dessert triglycerides metabolic syndrome"
-topicCluster: "circadian-metabolism"
-image: ""
-relatedSlugs: ["the-truth-about-one-bite-dessert-sharing-how-micro-dosing-added-sugars-disrupts-circadian-glucose-rhythms-in-adults-63-80-with-shifted-melatonin-onset-and-evening-hyperglycemia", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon", "how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s", "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72", "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays"]
+title: >-
+  How Late-Night Dessert Sharing With Grandchildren Affects Overnight
+  Triglyceride Clearance in Adults 60–71 With Metabolic Syndrome
+slug: >-
+  how-late-night-dessert-sharing-with-grandchildren-affects-overnight-triglyceride-clearance-in-adults-60-71-with-metabolic-syndrome
+description: >-
+  Analyzes the circadian disruption of lipoprotein lipase activity,
+  fructose–chylomicron interplay, and intergenerational meal timing mismatch —
+  with practical cut-off windows and safer dessert alternatives.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: late-night dessert triglycerides metabolic syndrome
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-one-bite-dessert-sharing-how-micro-dosing-added-sugars-disrupts-circadian-glucose-rhythms-in-adults-63-80-with-shifted-melatonin-onset-and-evening-hyperglycemia
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+  - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---
 
 # How Late-Night Dessert Sharing Affects Triglyceride Clearance in Adults With Metabolic Syndrome

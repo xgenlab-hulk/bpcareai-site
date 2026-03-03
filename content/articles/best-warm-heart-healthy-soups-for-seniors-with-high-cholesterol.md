@@ -6,10 +6,6 @@ description: >-
   heart health without raising cholesterol levels.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - heart-healthy winter soups
-  - winter heart health for seniors
-  - cardiac-diet
 primaryKeyword: heart-healthy winter soups
 topicCluster: cardiovascular-health
 image: ''

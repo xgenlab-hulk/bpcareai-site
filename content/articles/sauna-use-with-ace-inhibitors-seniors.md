@@ -1,14 +1,30 @@
 ---
-title: "Can You Safely Use a Sauna *While* Taking an ACE Inhibitor? — Evidence-Based Temperature Thresholds and Recovery Protocols for Adults 65+ With Mild LV Hypertrophy"
-slug: "can-you-safely-use-a-sauna-while-taking-an-ace-inhibitor-evidence-based-temperature-thresholds-and-recovery-protocols-for-adults-65-with-mild-lv-hypertrophy"
-description: "Analyzes vasodilatory synergy, plasma volume shifts, and cardiac output safety margins — with concrete guidelines on duration, temperature limits, and post-sauna rehydration metrics."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["sauna use with ace inhibitors seniors", "blood pressure", "scenario-specific"]
-primaryKeyword: "sauna use with ace inhibitors seniors"
-topicCluster: "scenario-specific"
-image: ""
-relatedSlugs: ["is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus", "can-you-safely-use-infrared-heating-pads-for-chronic-back-pain-while-taking-ace-inhibitors-evidence-based-thermal-thresholds-for-adults-72-with-stage-2-hypertension-and-mild-ckd", "can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors", "can-you-safely-use-sauna-therapy-after-a-recent-diabetic-foot-ulcer-closure-evidence-based-temperature-duration-and-hydration-thresholds-for-adults-68-with-peripheral-neuropathy", "can-you-safely-resume-resistance-training-after-aortic-valve-replacement-evidence-based-thresholds-for-systolic-pressure-response-and-lvot-velocity-in-adults-67-with-mechanical-valves"]
+title: >-
+  Can You Safely Use a Sauna *While* Taking an ACE Inhibitor? — Evidence-Based
+  Temperature Thresholds and Recovery Protocols for Adults 65+ With Mild LV
+  Hypertrophy
+slug: >-
+  can-you-safely-use-a-sauna-while-taking-an-ace-inhibitor-evidence-based-temperature-thresholds-and-recovery-protocols-for-adults-65-with-mild-lv-hypertrophy
+description: >-
+  Analyzes vasodilatory synergy, plasma volume shifts, and cardiac output safety
+  margins — with concrete guidelines on duration, temperature limits, and
+  post-sauna rehydration metrics.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: sauna use with ace inhibitors seniors
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
+  - >-
+    can-you-safely-use-infrared-heating-pads-for-chronic-back-pain-while-taking-ace-inhibitors-evidence-based-thermal-thresholds-for-adults-72-with-stage-2-hypertension-and-mild-ckd
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - >-
+    can-you-safely-use-sauna-therapy-after-a-recent-diabetic-foot-ulcer-closure-evidence-based-temperature-duration-and-hydration-thresholds-for-adults-68-with-peripheral-neuropathy
+  - >-
+    can-you-safely-resume-resistance-training-after-aortic-valve-replacement-evidence-based-thresholds-for-systolic-pressure-response-and-lvot-velocity-in-adults-67-with-mechanical-valves
 ---
 
 # Sauna Use with ACE Inhibitors in Seniors: A Gentle, Evidence-Informed Guide for Heart Health

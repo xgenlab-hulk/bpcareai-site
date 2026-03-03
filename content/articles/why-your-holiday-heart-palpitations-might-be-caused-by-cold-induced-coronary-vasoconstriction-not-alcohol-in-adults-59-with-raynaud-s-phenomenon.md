@@ -1,14 +1,26 @@
 ---
-title: "Why Your Holiday 'Heart Palpitations' Might Be Caused by Cold-Induced Coronary Vasoconstriction — Not Alcohol — In Adults 59+ With Raynaud’s Phenomenon"
-slug: "why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon"
-description: "Explains how outdoor festivities, unheated porches, or even cold beverages trigger coronary artery spasm in temperature-sensitive individuals—mimicking or compounding alcohol-related arrhythmias."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["cold-induced palpitations raynaud holiday heart", "holiday heart syndrome prevention", "temperature-physiology"]
-primaryKeyword: "cold-induced palpitations raynaud holiday heart"
-topicCluster: "temperature-physiology"
-image: ""
-relatedSlugs: ["how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk", "why-dehydration-at-holiday-events-may-worsen-heart-palpitations", "7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "when-to-worry-about-post-dinner-palpitations-during-hanukkah-or-christmas-red-flags-that-distinguish-holiday-heart-syndrome-from-benign-pacs-in-adults-58-74"]
+title: >-
+  Why Your Holiday 'Heart Palpitations' Might Be Caused by Cold-Induced Coronary
+  Vasoconstriction — Not Alcohol — In Adults 59+ With Raynaud’s Phenomenon
+slug: >-
+  why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon
+description: >-
+  Explains how outdoor festivities, unheated porches, or even cold beverages
+  trigger coronary artery spasm in temperature-sensitive individuals—mimicking
+  or compounding alcohol-related arrhythmias.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: cold-induced palpitations raynaud holiday heart
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - >-
+    when-to-worry-about-post-dinner-palpitations-during-hanukkah-or-christmas-red-flags-that-distinguish-holiday-heart-syndrome-from-benign-pacs-in-adults-58-74
 ---
 
 # Cold-Induced Palpitations, Raynaud’s, and Holiday Heart: What You Should Know After 59

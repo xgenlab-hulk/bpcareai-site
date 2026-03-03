@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Constipation Affects Postprandial Glucose in Adults 67+ With Type 2 Diabetes and Pelvic Floor Dysfunction"
-slug: "how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction"
-description: "Details the gut–brain–pancreas axis: distension-induced vagal inhibition, delayed gastric emptying secondary to colonic inertia, and elevated GLP-1 degradation — with targeted fiber and motilin strategies."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["constipation postprandial glucose pelvic floor", "diabetes", "gastrointestinal-metabolic-connection"]
-primaryKeyword: "constipation postprandial glucose pelvic floor"
-topicCluster: "gastrointestinal-metabolic-connection"
-image: ""
-relatedSlugs: ["how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes", "how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction", "how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors", "how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it", "12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d"]
+title: >-
+  How Chronic Constipation Affects Postprandial Glucose in Adults 67+ With Type
+  2 Diabetes and Pelvic Floor Dysfunction
+slug: >-
+  how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
+description: >-
+  Details the gut–brain–pancreas axis: distension-induced vagal inhibition,
+  delayed gastric emptying secondary to colonic inertia, and elevated GLP-1
+  degradation — with targeted fiber and motilin strategies.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: constipation postprandial glucose pelvic floor
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
+  - >-
+    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
+  - >-
+    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
+  - >-
+    how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
+  - >-
+    12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d
 ---
 
 # How Constipation Postprandial Glucose Pelvic Floor Interactions Impact Blood Sugar Control in Older Adults With Type 2 Diabetes

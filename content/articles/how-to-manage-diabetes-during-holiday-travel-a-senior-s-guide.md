@@ -6,12 +6,8 @@ description: >-
   airports, time zones, and irregular schedules during seasonal trips.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - diabetes management during travel
-  - holiday diabetes management
-  - lifestyle-modifications-scenarios
 primaryKeyword: diabetes management during travel
-topicCluster: lifestyle-changes
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - managing-diabetes-while-traveling-tips-for-seniors

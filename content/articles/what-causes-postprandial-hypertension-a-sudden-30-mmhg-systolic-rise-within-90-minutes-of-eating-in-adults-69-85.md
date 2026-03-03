@@ -1,14 +1,29 @@
 ---
-title: "What Causes 'Postprandial Hypertension'—A Sudden 30+ mmHg Systolic Rise Within 90 Minutes of Eating in Adults 69–85?"
-slug: "what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85"
-description: "Breaks down the pathophysiology—splanchnic vasodilation, baroreflex failure, and postprandial insulin surge—as confirmed by concurrent gastric ultrasound and beat-to-beat BP monitoring."
-date: "2026-01-10"
-updated: "2026-01-10"
-tags: ["postprandial hypertension after eating seniors", "blood pressure", "meal-induced-hypertension"]
-primaryKeyword: "postprandial hypertension after eating seniors"
-topicCluster: "meal-induced-hypertension"
-image: ""
-relatedSlugs: ["how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction", "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62", "how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65", "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension", "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60"]
+title: >-
+  What Causes 'Postprandial Hypertension'—A Sudden 30+ mmHg Systolic Rise Within
+  90 Minutes of Eating in Adults 69–85?
+slug: >-
+  what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
+description: >-
+  Breaks down the pathophysiology—splanchnic vasodilation, baroreflex failure,
+  and postprandial insulin surge—as confirmed by concurrent gastric ultrasound
+  and beat-to-beat BP monitoring.
+date: '2026-01-10'
+updated: '2026-01-10'
+primaryKeyword: postprandial hypertension after eating seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
+  - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+  - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
+  - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
 ---
 
 # Understanding Postprandial Hypertension After Eating in Seniors: Why Blood Pressure Rises After Meals—and What You Can Do

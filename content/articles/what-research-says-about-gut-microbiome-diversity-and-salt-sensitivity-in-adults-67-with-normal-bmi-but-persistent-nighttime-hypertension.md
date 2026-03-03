@@ -1,14 +1,29 @@
 ---
-title: "What Research Says About Gut Microbiome Diversity and Salt Sensitivity in Adults 67+ With Normal BMI but Persistent Nighttime Hypertension"
-slug: "what-research-says-about-gut-microbiome-diversity-and-salt-sensitivity-in-adults-67-with-normal-bmi-but-persistent-nighttime-hypertension"
-description: "Synthesizes recent microbiome metabolomics studies linking low Faecalibacterium prausnitzii abundance to impaired TMAO metabolism and exaggerated aldosterone response to sodium."
-date: "2026-02-14"
-updated: "2026-02-14"
-tags: ["gut microbiome and salt sensitivity seniors", "blood pressure", "science-research"]
-primaryKeyword: "gut microbiome and salt sensitivity seniors"
-topicCluster: "science-research"
-image: ""
-relatedSlugs: ["myths-vs-facts-salt-sensitivity-in-older-adults-what-new-research-says-about-genetic-variants-gut-microbiome-diversity-and-dietary-sodium-thresholds-in-adults-69", "how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension", "how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history", "myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols", "how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65"]
+title: >-
+  What Research Says About Gut Microbiome Diversity and Salt Sensitivity in
+  Adults 67+ With Normal BMI but Persistent Nighttime Hypertension
+slug: >-
+  what-research-says-about-gut-microbiome-diversity-and-salt-sensitivity-in-adults-67-with-normal-bmi-but-persistent-nighttime-hypertension
+description: >-
+  Synthesizes recent microbiome metabolomics studies linking low
+  Faecalibacterium prausnitzii abundance to impaired TMAO metabolism and
+  exaggerated aldosterone response to sodium.
+date: '2026-02-14'
+updated: '2026-02-14'
+primaryKeyword: gut microbiome and salt sensitivity seniors
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-salt-sensitivity-in-older-adults-what-new-research-says-about-genetic-variants-gut-microbiome-diversity-and-dietary-sodium-thresholds-in-adults-69
+  - >-
+    how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
+  - >-
+    how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
+  - >-
+    myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
+  - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
 ---
 
 # How Gut Microbiome and Salt Sensitivity in Seniors May Be Quietly Shaping Nighttime Blood Pressure

@@ -10,12 +10,8 @@ description: >-
   differentiate AL from ATTR in elderly patients with preserved EF and LVH.
 date: '2026-01-07'
 updated: '2026-01-07'
-tags:
-  - cardiac amyloidosis diagnosis in elderly
-  - heart disease
-  - diagnostic-algorithm-elderly
 primaryKeyword: cardiac amyloidosis diagnosis in elderly
-topicCluster: diagnostic-algorithm-elderly
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

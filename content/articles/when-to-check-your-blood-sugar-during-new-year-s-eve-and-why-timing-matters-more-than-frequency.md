@@ -1,14 +1,24 @@
 ---
-title: "When to Check Your Blood Sugar During New Year’s Eve—And Why Timing Matters More Than Frequency"
-slug: "when-to-check-your-blood-sugar-during-new-year-s-eve-and-why-timing-matters-more-than-frequency"
-description: "Breaks down optimal glucose testing windows before, during, and after celebratory meals and alcohol consumption—especially for those on sulfonylureas or insulin."
-date: "2026-01-02"
-updated: "2026-01-02"
-tags: ["when to check blood sugar new years eve", "managing blood sugar during christmas and new year", "monitoring-strategy-timing"]
-primaryKeyword: "when to check blood sugar new years eve"
-topicCluster: "monitoring-strategy-timing"
-image: ""
-relatedSlugs: ["can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know", "how-to-monitor-blood-sugar-more-effectively-during-festive-travel", "best-blood-sugar-monitoring-practices-during-the-holiday-season", "when-to-worry-about-blood-sugar-swings-after-new-year-s-eve", "warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know"]
+title: >-
+  When to Check Your Blood Sugar During New Year’s Eve—And Why Timing Matters
+  More Than Frequency
+slug: >-
+  when-to-check-your-blood-sugar-during-new-year-s-eve-and-why-timing-matters-more-than-frequency
+description: >-
+  Breaks down optimal glucose testing windows before, during, and after
+  celebratory meals and alcohol consumption—especially for those on
+  sulfonylureas or insulin.
+date: '2026-01-02'
+updated: '2026-01-02'
+primaryKeyword: when to check blood sugar new years eve
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
+  - how-to-monitor-blood-sugar-more-effectively-during-festive-travel
+  - best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - when-to-worry-about-blood-sugar-swings-after-new-year-s-eve
+  - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
 ---
 
 # When to Check Blood Sugar on New Year’s Eve: Smart Timing for Safer Celebrations

@@ -1,14 +1,27 @@
 ---
-title: "Myths vs Facts: 'I’ll Just Exercise More After the Holidays' — Why That Strategy Fails for Adults 65+ With Type 2 Diabetes and Sarcopenic Obesity"
-slug: "myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity"
-description: "Debunks compensatory exercise fallacies using muscle protein synthesis kinetics, post-holiday insulin resistance rebound data, and 12-month glycemic trajectory models."
-date: "2026-01-18"
-updated: "2026-01-18"
-tags: ["exercise more after holidays myth", "holiday diabetes management", "myths-vs-facts-sarcopenia"]
-primaryKeyword: "exercise more after holidays myth"
-topicCluster: "myths-vs-facts-sarcopenia"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years", "warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines", "how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60", "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60", "how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity"]
+title: >-
+  Myths vs Facts: 'I’ll Just Exercise More After the Holidays' — Why That
+  Strategy Fails for Adults 65+ With Type 2 Diabetes and Sarcopenic Obesity
+slug: >-
+  myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
+description: >-
+  Debunks compensatory exercise fallacies using muscle protein synthesis
+  kinetics, post-holiday insulin resistance rebound data, and 12-month glycemic
+  trajectory models.
+date: '2026-01-18'
+updated: '2026-01-18'
+primaryKeyword: exercise more after holidays myth
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
+  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # Why the “Exercise More After Holidays” Myth Backfires for Adults 65+ With Type 2 Diabetes and Sarcopenic Obesity

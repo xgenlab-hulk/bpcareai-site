@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Sugar-Free' Holiday Cookies for Adults 70+ With Type 2 Diabetes and Mild Cognitive Impairment"
-slug: "the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment"
-description: "Debunks marketing claims around sugar alcohols and artificial sweeteners in festive baked goods, analyzing real-world glycemic response, GI distress risk, and cognitive load of label interpretation in aging populations with early memory concerns."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["sugar-free holiday cookies type 2 diabetes elderly", "managing blood sugar during christmas and new year", "food-labeling-cognition"]
-primaryKeyword: "sugar-free holiday cookies type 2 diabetes elderly"
-topicCluster: "food-labeling-cognition"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue"]
+title: >-
+  The Truth About 'Sugar-Free' Holiday Cookies for Adults 70+ With Type 2
+  Diabetes and Mild Cognitive Impairment
+slug: >-
+  the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+description: >-
+  Debunks marketing claims around sugar alcohols and artificial sweeteners in
+  festive baked goods, analyzing real-world glycemic response, GI distress risk,
+  and cognitive load of label interpretation in aging populations with early
+  memory concerns.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: sugar-free holiday cookies type 2 diabetes elderly
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
 ---
 
 # What You Need to Know About Sugar-Free Holiday Cookies for Older Adults With Type 2 Diabetes and Mild Cognitive Impairment

@@ -1,14 +1,27 @@
 ---
-title: "How Chronic Sleep Fragmentation From Nocturia Affects Left Ventricular Stiffness in Adults 70–84 With Hypertension and Mild CKD"
-slug: "how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd"
-description: "Breaks down the mechanistic link between repeated nighttime awakenings, sympathetic surges, and progressive myocardial fibrosis — with actionable strategies to improve sleep continuity and reduce cardiac strain."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["nocturia sleep fragmentation heart stiffness", "heart health", "sleep-cardiovascular-link"]
-primaryKeyword: "nocturia sleep fragmentation heart stiffness"
-topicCluster: "sleep-cardiovascular-link"
-image: ""
-relatedSlugs: ["how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension", "warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71", "how-frequent-urination-at-night-could-signal-heart-problems", "the-connection-between-frequent-urination-at-night-and-heart-health", "7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring"]
+title: >-
+  How Chronic Sleep Fragmentation From Nocturia Affects Left Ventricular
+  Stiffness in Adults 70–84 With Hypertension and Mild CKD
+slug: >-
+  how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
+description: >-
+  Breaks down the mechanistic link between repeated nighttime awakenings,
+  sympathetic surges, and progressive myocardial fibrosis — with actionable
+  strategies to improve sleep continuity and reduce cardiac strain.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: nocturia sleep fragmentation heart stiffness
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - how-frequent-urination-at-night-could-signal-heart-problems
+  - the-connection-between-frequent-urination-at-night-and-heart-health
+  - >-
+    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
 ---
 
 # How Nocturia-Related Sleep Fragmentation Contributes to Heart Stiffness in Older Adults With Hypertension and Mild CKD

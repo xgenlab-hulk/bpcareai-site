@@ -1,14 +1,28 @@
 ---
-title: "The Complete Guide to Holiday Hydration for Adults 76+ With Reduced Thirst Sensation, Mild Hyponatremia History, and Diuretic Use"
-slug: "the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use"
-description: "Covers sodium-aware fluid timing, electrolyte-balanced alternatives to cranberry juice or eggnog, and non-thirst-based hydration cues like tongue tackiness or morning orthostasis."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["holiday hydration seniors hyponatremia", "healthy holiday eating for seniors", "hydration-strategy-elderly"]
-primaryKeyword: "holiday hydration seniors hyponatremia"
-topicCluster: "hydration-strategy-elderly"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history", "warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk", "warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68", "12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides", "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70"]
+title: >-
+  The Complete Guide to Holiday Hydration for Adults 76+ With Reduced Thirst
+  Sensation, Mild Hyponatremia History, and Diuretic Use
+slug: >-
+  the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
+description: >-
+  Covers sodium-aware fluid timing, electrolyte-balanced alternatives to
+  cranberry juice or eggnog, and non-thirst-based hydration cues like tongue
+  tackiness or morning orthostasis.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: holiday hydration seniors hyponatremia
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
+  - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
+  - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
+  - >-
+    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 
 # Holiday Hydration for Seniors with Hyponatremia: A Gentle, Practical Guide

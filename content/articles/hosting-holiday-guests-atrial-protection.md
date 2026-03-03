@@ -1,14 +1,30 @@
 ---
-title: "5 Science-Backed Ways to Protect Your Atria *While Hosting Holiday Guests* — Stress-Modulated Nitric Oxide Bioavailability, Microbreak Timing, and Vocal Cord Strain Reduction in Adults 70+"
-slug: "5-science-backed-ways-to-protect-your-atria-while-hosting-holiday-guests-stress-modulated-nitric-oxide-bioavailability-microbreak-timing-and-vocal-cord-strain-reduction-in-adults-70"
-description: "Offers actionable, evidence-based strategies for hosts—centered on vocal rest, scheduled 90-second vagal maneuvers, and ambient temperature control—to blunt sympathetic surges during social hosting."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["hosting holiday guests atrial protection", "holiday heart syndrome prevention", "social-hosting-physiology"]
-primaryKeyword: "hosting holiday guests atrial protection"
-topicCluster: "social-hosting-physiology"
-image: ""
-relatedSlugs: ["best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs", "best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt", "natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices", "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd"]
+title: >-
+  5 Science-Backed Ways to Protect Your Atria *While Hosting Holiday Guests* —
+  Stress-Modulated Nitric Oxide Bioavailability, Microbreak Timing, and Vocal
+  Cord Strain Reduction in Adults 70+
+slug: >-
+  5-science-backed-ways-to-protect-your-atria-while-hosting-holiday-guests-stress-modulated-nitric-oxide-bioavailability-microbreak-timing-and-vocal-cord-strain-reduction-in-adults-70
+description: >-
+  Offers actionable, evidence-based strategies for hosts—centered on vocal rest,
+  scheduled 90-second vagal maneuvers, and ambient temperature control—to blunt
+  sympathetic surges during social hosting.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: hosting holiday guests atrial protection
+topicCluster: mental-health-stress
+image: ''
+relatedSlugs:
+  - >-
+    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
+  - >-
+    best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
+  - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
 ---
 
 # Gentle, Science-Supported Ways to Support Your Atria While Hosting Holiday Guests

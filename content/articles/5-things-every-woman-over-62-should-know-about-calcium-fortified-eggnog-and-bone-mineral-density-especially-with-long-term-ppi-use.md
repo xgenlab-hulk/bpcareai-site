@@ -1,14 +1,30 @@
 ---
-title: "5 Things Every Woman Over 62 Should Know About Calcium-Fortified Eggnog and Bone Mineral Density — Especially With Long-Term PPI Use"
-slug: "5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use"
-description: "Breaks down calcium bioavailability interference from gastric acid suppression, vitamin D co-absorption timing, and casein-phosphopeptide interactions — with precise pairing strategies to maximize bone-sparing benefits during holiday meals."
-date: "2026-02-09"
-updated: "2026-02-09"
-tags: ["calcium fortified eggnog bone health", "healthy eating during family gatherings", "osteoporosis-nutrition-interactions"]
-primaryKeyword: "calcium fortified eggnog bone health"
-topicCluster: "osteoporosis-nutrition-interactions"
-image: ""
-relatedSlugs: ["dangers-of-just-one-more-cup-of-eggnog-for-adults-over-74-with-subclinical-vitamin-d-toxicity-and-how-to-spot-early-hypercalcemia-clues", "natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios", "5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking", "5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy", "how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy"]
+title: >-
+  5 Things Every Woman Over 62 Should Know About Calcium-Fortified Eggnog and
+  Bone Mineral Density — Especially With Long-Term PPI Use
+slug: >-
+  5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use
+description: >-
+  Breaks down calcium bioavailability interference from gastric acid
+  suppression, vitamin D co-absorption timing, and casein-phosphopeptide
+  interactions — with precise pairing strategies to maximize bone-sparing
+  benefits during holiday meals.
+date: '2026-02-09'
+updated: '2026-02-09'
+primaryKeyword: calcium fortified eggnog bone health
+topicCluster: natural-remedies
+image: ''
+relatedSlugs:
+  - >-
+    dangers-of-just-one-more-cup-of-eggnog-for-adults-over-74-with-subclinical-vitamin-d-toxicity-and-how-to-spot-early-hypercalcemia-clues
+  - >-
+    natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
+  - >-
+    5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
+  - >-
+    5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy
+  - >-
+    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
 ---
 
 # What Women Over 62 Need to Know About Calcium-Fortified Eggnog and Bone Health — Especially With Long-Term PPI Use

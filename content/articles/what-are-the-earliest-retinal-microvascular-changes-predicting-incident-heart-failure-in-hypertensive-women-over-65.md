@@ -1,14 +1,28 @@
 ---
-title: "What Are the Earliest Retinal Microvascular Changes Predicting Incident Heart Failure in Hypertensive Women Over 65?"
-slug: "what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65"
-description: "Analyzes retinal photography biomarkers—such as arteriolar narrowing, venular widening, and fractal dimension loss—as preclinical predictors of heart failure development over 5 years in women with stage 1–2 hypertension."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["retinal changes predicting heart failure", "heart disease", "ophthalmic-biomarkers"]
-primaryKeyword: "retinal changes predicting heart failure"
-topicCluster: "ophthalmic-biomarkers"
-image: ""
-relatedSlugs: ["what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80", "what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease", "warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71", "how-vision-changes-might-be-linked-to-heart-disease", "10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63"]
+title: >-
+  What Are the Earliest Retinal Microvascular Changes Predicting Incident Heart
+  Failure in Hypertensive Women Over 65?
+slug: >-
+  what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
+description: >-
+  Analyzes retinal photography biomarkers—such as arteriolar narrowing, venular
+  widening, and fractal dimension loss—as preclinical predictors of heart
+  failure development over 5 years in women with stage 1–2 hypertension.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: retinal changes predicting heart failure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+  - how-vision-changes-might-be-linked-to-heart-disease
+  - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
 ---
 
 # Early Retinal Changes Predicting Heart Failure in Hypertensive Women Over 65

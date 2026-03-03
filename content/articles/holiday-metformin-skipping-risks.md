@@ -1,14 +1,29 @@
 ---
-title: "Myths vs Facts: 'I Can Skip My Medication Just This One Day' During the Holidays — Risks for Adults 70+ With Long-Term Metformin Use and Vitamin B12 Deficiency"
-slug: "myths-vs-facts-i-can-skip-my-medication-just-this-one-day-during-the-holidays-risks-for-adults-70-with-long-term-metformin-use-and-vitamin-b12-deficiency"
-description: "Debunks common holiday medication misconceptions using pharmacokinetic data, highlighting risks of lactic acidosis priming, homocysteine surges, and acute neuropathic exacerbation — especially in B12-depleted older adults."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["holiday metformin skipping risks", "holiday diabetes management", "medication-adherence-myths"]
-primaryKeyword: "holiday metformin skipping risks"
-topicCluster: "medication-adherence-myths"
-image: ""
-relatedSlugs: ["can-you-safely-skip-your-evening-metformin-dose-before-a-holiday-potluck-a-risk-benefit-analysis-for-adults-71-with-egfr-48-59-ml-min", "myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2", "7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing", "myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes"]
+title: >-
+  Myths vs Facts: 'I Can Skip My Medication Just This One Day' During the
+  Holidays — Risks for Adults 70+ With Long-Term Metformin Use and Vitamin B12
+  Deficiency
+slug: >-
+  myths-vs-facts-i-can-skip-my-medication-just-this-one-day-during-the-holidays-risks-for-adults-70-with-long-term-metformin-use-and-vitamin-b12-deficiency
+description: >-
+  Debunks common holiday medication misconceptions using pharmacokinetic data,
+  highlighting risks of lactic acidosis priming, homocysteine surges, and acute
+  neuropathic exacerbation — especially in B12-depleted older adults.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: holiday metformin skipping risks
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    can-you-safely-skip-your-evening-metformin-dose-before-a-holiday-potluck-a-risk-benefit-analysis-for-adults-71-with-egfr-48-59-ml-min
+  - >-
+    myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
+  - >-
+    7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing
+  - >-
+    myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
 ---
 
 # Holiday Metformin Skipping Risks: What Adults 70+ With Long-Term Use *Really* Need to Know

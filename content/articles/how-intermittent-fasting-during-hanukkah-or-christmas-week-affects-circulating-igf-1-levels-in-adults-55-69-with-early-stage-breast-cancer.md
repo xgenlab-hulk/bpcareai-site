@@ -10,12 +10,8 @@ description: >-
   hormone-receptor-positive survivors on aromatase inhibitors.
 date: '2025-12-31'
 updated: '2025-12-31'
-tags:
-  - intermittent fasting holiday igf-1 breast cancer
-  - healthy holiday eating for seniors
-  - oncology-nutrition-fasting
 primaryKeyword: intermittent fasting holiday igf-1 breast cancer
-topicCluster: oncology-nutrition-fasting
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - can-intermittent-fasting-help-reset-blood-sugar-after-christmas

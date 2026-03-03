@@ -1,14 +1,25 @@
 ---
-title: "12 Low-Intensity Movement Patterns That Elevate Brain-Derived Neurotrophic Factor (BDNF) in Sedentary Adults 60–80 With Seasonal Low Mood"
-slug: "12-low-intensity-movement-patterns-that-elevate-brain-derived-neurotrophic-factor-bdnf-in-sedentary-adults-60-80-with-seasonal-low-mood"
-description: "Features evidence-backed, non-exercise movement sequences (e.g., seated rhythmic arm swings, micro-walks with posture cues) shown to increase BDNF in frail and mobility-limited seniors."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["low intensity movement bdnf seasonal low mood seniors", "seasonal depression in older adults", "movement-neurochemistry-frail"]
-primaryKeyword: "low intensity movement bdnf seasonal low mood seniors"
-topicCluster: "movement-neurochemistry-frail"
-image: ""
-relatedSlugs: ["best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70", "can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression", "quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day", "blood-pressure-management-for-sedentary-seniors-in-winter-months", "natural-ways-to-manage-seasonal-depression-in-seniors-without-medication"]
+title: >-
+  12 Low-Intensity Movement Patterns That Elevate Brain-Derived Neurotrophic
+  Factor (BDNF) in Sedentary Adults 60–80 With Seasonal Low Mood
+slug: >-
+  12-low-intensity-movement-patterns-that-elevate-brain-derived-neurotrophic-factor-bdnf-in-sedentary-adults-60-80-with-seasonal-low-mood
+description: >-
+  Features evidence-backed, non-exercise movement sequences (e.g., seated
+  rhythmic arm swings, micro-walks with posture cues) shown to increase BDNF in
+  frail and mobility-limited seniors.
+date: '2026-01-06'
+updated: '2026-01-06'
+primaryKeyword: low intensity movement bdnf seasonal low mood seniors
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
+  - blood-pressure-management-for-sedentary-seniors-in-winter-months
+  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
 ---
 
 # 12 Gentle Movement Patterns That Boost BDNF and Support Mood in Seniors Facing Seasonal Low Mood

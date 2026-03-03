@@ -6,12 +6,8 @@ description: >-
   outcomes in middle-aged and older adults.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - meditation and heart disease prevention after 50
-  - heart disease
-  - hypertension-lifestyle
 primaryKeyword: meditation and heart disease prevention after 50
-topicCluster: hypertension-management
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - can-gardening-improve-heart-health-after-50

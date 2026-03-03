@@ -9,12 +9,8 @@ description: >-
   atherogenic particle metrics—not just total LDL—in genetically high-risk men.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - intermittent fasting LDL particle count men
-  - heart health
-  - treatment-dietary-intervention
 primaryKeyword: intermittent fasting LDL particle count men
-topicCluster: treatment-dietary-intervention
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-

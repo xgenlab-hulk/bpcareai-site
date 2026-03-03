@@ -6,12 +6,8 @@ description: >-
   arrhythmias, especially with alcohol use.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - dehydration holiday palpitations
-  - holiday heart syndrome prevention
-  - lifestyle-modifications
 primaryKeyword: dehydration holiday palpitations
-topicCluster: lifestyle-changes
+topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol

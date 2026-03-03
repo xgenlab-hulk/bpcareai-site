@@ -1,14 +1,24 @@
 ---
-title: "7 Hidden Sources of Added Sugar in Traditional Holiday Dishes Seniors Should Avoid"
-slug: "7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid"
-description: "A practical guide identifying sneaky sugar culprits in classic holiday recipes—like cranberry sauce, stuffing, and eggnog—and how to modify them for stable blood glucose and heart health."
-date: "2025-12-21"
-updated: "2025-12-21"
-tags: ["hidden sugar in holiday foods seniors", "healthy holiday eating for seniors", "diet-nutrition-sugar-awareness"]
-primaryKeyword: "hidden sugar in holiday foods seniors"
-topicCluster: "diet-nutrition-sugar-awareness"
-image: ""
-relatedSlugs: ["7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about"]
+title: >-
+  7 Hidden Sources of Added Sugar in Traditional Holiday Dishes Seniors Should
+  Avoid
+slug: >-
+  7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+description: >-
+  A practical guide identifying sneaky sugar culprits in classic holiday
+  recipes—like cranberry sauce, stuffing, and eggnog—and how to modify them for
+  stable blood glucose and heart health.
+date: '2025-12-21'
+updated: '2025-12-21'
+primaryKeyword: hidden sugar in holiday foods seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
 ---
 
 # Hidden Sugar in Holiday Foods Seniors Should Know About—And How to Enjoy the Season Safely

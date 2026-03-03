@@ -6,10 +6,6 @@ description: >-
   benefit heart function.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - laughter and heart health benefits after 50
-  - heart health
-  - heart-health
 primaryKeyword: laughter and heart health benefits after 50
 topicCluster: cardiovascular-health
 image: ''

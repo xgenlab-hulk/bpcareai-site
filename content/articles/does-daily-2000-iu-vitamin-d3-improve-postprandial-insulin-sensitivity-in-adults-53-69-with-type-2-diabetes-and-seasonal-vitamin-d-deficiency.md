@@ -1,14 +1,27 @@
 ---
-title: "Does Daily 2000 IU Vitamin D3 Improve Postprandial Insulin Sensitivity in Adults 53–69 With Type 2 Diabetes and Seasonal Vitamin D Deficiency?"
-slug: "does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency"
-description: "Synthesizes evidence from winter RCTs on vitamin D receptor expression in adipose tissue, insulin receptor substrate phosphorylation, and 2-hour OGTT outcomes — including dosing safety limits."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["vitamin d3 postprandial insulin sensitivity", "holiday diabetes management", "supplement-glucose-response"]
-primaryKeyword: "vitamin d3 postprandial insulin sensitivity"
-topicCluster: "supplement-glucose-response"
-image: ""
-relatedSlugs: ["what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors", "can-vitamin-d-deficiency-make-diabetes-worse-in-seniors", "the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65", "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance", "natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes"]
+title: >-
+  Does Daily 2000 IU Vitamin D3 Improve Postprandial Insulin Sensitivity in
+  Adults 53–69 With Type 2 Diabetes and Seasonal Vitamin D Deficiency?
+slug: >-
+  does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency
+description: >-
+  Synthesizes evidence from winter RCTs on vitamin D receptor expression in
+  adipose tissue, insulin receptor substrate phosphorylation, and 2-hour OGTT
+  outcomes — including dosing safety limits.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: vitamin d3 postprandial insulin sensitivity
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
+  - >-
+    the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
 ---
 
 # Can Daily 2000 IU Vitamin D3 Support vitamin d3 postprandial insulin sensitivity in Adults 53–69 With Type 2 Diabetes and Seasonal Deficiency?

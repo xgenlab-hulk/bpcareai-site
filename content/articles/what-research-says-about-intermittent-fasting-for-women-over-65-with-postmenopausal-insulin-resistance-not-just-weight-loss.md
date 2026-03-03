@@ -1,14 +1,29 @@
 ---
-title: "What Research Says About Intermittent Fasting for Women Over 65 With Postmenopausal Insulin Resistance — Not Just Weight Loss"
-slug: "what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss"
-description: "Synthesizes 2022–2024 RCTs and mechanistic studies on how IF affects hepatic insulin clearance, ovarian-adrenal axis crosstalk, and lean mass preservation in older women with prediabetes or early T2D."
-date: "2026-02-16"
-updated: "2026-02-16"
-tags: ["intermittent fasting women over 65 insulin resistance", "diabetes", "gender-specific-fasting-effects"]
-primaryKeyword: "intermittent fasting women over 65 insulin resistance"
-topicCluster: "gender-specific-fasting-effects"
-image: ""
-relatedSlugs: ["can-intermittent-fasting-reverse-prediabetes-in-adults-50-59-with-non-alcoholic-fatty-liver-disease-what-the-2024-rcts-say", "how-intermittent-fasting-affects-hepatic-glycogen-resynthesis-differently-in-women-58-66-vs-men-60-68-with-prediabetes-hormone-sensitive-timing-windows", "how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin", "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance", "what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide"]
+title: >-
+  What Research Says About Intermittent Fasting for Women Over 65 With
+  Postmenopausal Insulin Resistance — Not Just Weight Loss
+slug: >-
+  what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss
+description: >-
+  Synthesizes 2022–2024 RCTs and mechanistic studies on how IF affects hepatic
+  insulin clearance, ovarian-adrenal axis crosstalk, and lean mass preservation
+  in older women with prediabetes or early T2D.
+date: '2026-02-16'
+updated: '2026-02-16'
+primaryKeyword: intermittent fasting women over 65 insulin resistance
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    can-intermittent-fasting-reverse-prediabetes-in-adults-50-59-with-non-alcoholic-fatty-liver-disease-what-the-2024-rcts-say
+  - >-
+    how-intermittent-fasting-affects-hepatic-glycogen-resynthesis-differently-in-women-58-66-vs-men-60-68-with-prediabetes-hormone-sensitive-timing-windows
+  - >-
+    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide
 ---
 
 # What the Latest Science Says About Intermittent Fasting for Women Over 65 With Insulin Resistance

@@ -6,12 +6,8 @@ description: >-
   insulin sensitivity in older adults.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - holiday sleep disruption blood sugar
-  - managing blood sugar during Christmas and New Year
-  - sleep-health
 primaryKeyword: holiday sleep disruption blood sugar
-topicCluster: sleep-rest
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays

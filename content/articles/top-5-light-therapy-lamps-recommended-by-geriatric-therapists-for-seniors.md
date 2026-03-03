@@ -6,12 +6,8 @@ description: >-
   insights on intensity and timing.
 date: '2025-12-12'
 updated: '2025-12-12'
-tags:
-  - best light therapy lamps for seniors
-  - seasonal depression in older adults
-  - treatment-devices
 primaryKeyword: best light therapy lamps for seniors
-topicCluster: medications-supplements
+topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65

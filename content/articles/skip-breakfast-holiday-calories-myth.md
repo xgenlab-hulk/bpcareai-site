@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: ‘I Can Just Skip Breakfast to Offset Holiday Dinner Calories’ — Why This Backfires on Circadian Lipid Metabolism in Adults 64+ With Mixed Dyslipidemia"
-slug: "myths-vs-facts-i-can-just-skip-breakfast-to-offset-holiday-dinner-calories-why-this-backfires-on-circadian-lipid-metabolism-in-adults-64-with-mixed-dyslipidemia"
-description: "Breaks down how fasting-induced hepatic VLDL overproduction, AMPK suppression, and delayed LDL clearance worsen triglyceride-rich lipoprotein profiles — especially in early chronotypes."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["skip breakfast holiday calories myth", "healthy eating during family gatherings", "circadian-lipid-metabolism-myths"]
-primaryKeyword: "skip breakfast holiday calories myth"
-topicCluster: "circadian-lipid-metabolism-myths"
-image: ""
-relatedSlugs: ["myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome", "how-late-night-dessert-sharing-with-grandchildren-affects-overnight-triglyceride-clearance-in-adults-60-71-with-metabolic-syndrome", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon", "how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes", "myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia"]
+title: >-
+  Myths vs Facts: ‘I Can Just Skip Breakfast to Offset Holiday Dinner Calories’
+  — Why This Backfires on Circadian Lipid Metabolism in Adults 64+ With Mixed
+  Dyslipidemia
+slug: >-
+  myths-vs-facts-i-can-just-skip-breakfast-to-offset-holiday-dinner-calories-why-this-backfires-on-circadian-lipid-metabolism-in-adults-64-with-mixed-dyslipidemia
+description: >-
+  Breaks down how fasting-induced hepatic VLDL overproduction, AMPK suppression,
+  and delayed LDL clearance worsen triglyceride-rich lipoprotein profiles —
+  especially in early chronotypes.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: skip breakfast holiday calories myth
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
+  - >-
+    how-late-night-dessert-sharing-with-grandchildren-affects-overnight-triglyceride-clearance-in-adults-60-71-with-metabolic-syndrome
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
 ---
 
 # The “Skip Breakfast Holiday Calories Myth”: Why Skipping Morning Meals Can Actually Hurt Your Lipid Health After 60

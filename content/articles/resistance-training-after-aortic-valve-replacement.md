@@ -1,14 +1,30 @@
 ---
-title: "Can You Safely Resume Resistance Training After Aortic Valve Replacement? — Evidence-Based Thresholds for Systolic Pressure Response and LVOT Velocity in Adults 67+ With Mechanical Valves"
-slug: "can-you-safely-resume-resistance-training-after-aortic-valve-replacement-evidence-based-thresholds-for-systolic-pressure-response-and-lvot-velocity-in-adults-67-with-mechanical-valves"
-description: "Defines safe lifting parameters (e.g., peak SBP <160 mmHg, LVOT Vmax <2.0 m/s on echo stress test) and phased return protocols validated in post-AVR rehab cohorts."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["resistance training after aortic valve replacement", "heart disease", "post-valve-rehab-guidance"]
-primaryKeyword: "resistance training after aortic valve replacement"
-topicCluster: "post-valve-rehab-guidance"
-image: ""
-relatedSlugs: ["can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension", "is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus", "best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension", "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats", "can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index"]
+title: >-
+  Can You Safely Resume Resistance Training After Aortic Valve Replacement? —
+  Evidence-Based Thresholds for Systolic Pressure Response and LVOT Velocity in
+  Adults 67+ With Mechanical Valves
+slug: >-
+  can-you-safely-resume-resistance-training-after-aortic-valve-replacement-evidence-based-thresholds-for-systolic-pressure-response-and-lvot-velocity-in-adults-67-with-mechanical-valves
+description: >-
+  Defines safe lifting parameters (e.g., peak SBP <160 mmHg, LVOT Vmax <2.0 m/s
+  on echo stress test) and phased return protocols validated in post-AVR rehab
+  cohorts.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: resistance training after aortic valve replacement
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension
+  - >-
+    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
+  - >-
+    best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - >-
+    can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index
 ---
 
 # Safe Resistance Training After Aortic Valve Replacement: Evidence-Based Guidance for Adults 67+

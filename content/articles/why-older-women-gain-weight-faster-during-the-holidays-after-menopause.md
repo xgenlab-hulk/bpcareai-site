@@ -6,12 +6,8 @@ description: >-
   postmenopausal women—here’s how to adapt nutrition and activity.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - menopause holiday weight gain women
-  - healthy holiday eating for seniors
-  - gender-specific-concerns
 primaryKeyword: menopause holiday weight gain women
-topicCluster: age-gender-specific
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes

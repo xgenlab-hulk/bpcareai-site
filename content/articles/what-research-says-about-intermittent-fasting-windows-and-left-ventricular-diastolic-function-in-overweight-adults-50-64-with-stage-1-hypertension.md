@@ -1,14 +1,29 @@
 ---
-title: "What Research Says About Intermittent Fasting Windows and Left Ventricular Diastolic Function in Overweight Adults 50–64 With Stage 1 Hypertension"
-slug: "what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension"
-description: "Analyzes 2022–2024 RCTs and cohort studies on how 14:10 vs. 16:8 fasting windows impact echocardiographic markers of diastolic stiffness, insulin sensitivity, and nocturnal BP dipping."
-date: "2025-12-28"
-updated: "2025-12-28"
-tags: ["intermittent fasting and diastolic function", "heart disease", "fasting-cardiac-function"]
-primaryKeyword: "intermittent fasting and diastolic function"
-topicCluster: "fasting-cardiac-function"
-image: ""
-relatedSlugs: ["how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort", "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease", "can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show", "what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery", "what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time"]
+title: >-
+  What Research Says About Intermittent Fasting Windows and Left Ventricular
+  Diastolic Function in Overweight Adults 50–64 With Stage 1 Hypertension
+slug: >-
+  what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
+description: >-
+  Analyzes 2022–2024 RCTs and cohort studies on how 14:10 vs. 16:8 fasting
+  windows impact echocardiographic markers of diastolic stiffness, insulin
+  sensitivity, and nocturnal BP dipping.
+date: '2025-12-28'
+updated: '2025-12-28'
+primaryKeyword: intermittent fasting and diastolic function
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+  - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
+  - >-
+    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
+  - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
+  - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
 ---
 
 # What Science Tells Us About Intermittent Fasting and Diastolic Function in Adults 50–64 With Mild High Blood Pressure

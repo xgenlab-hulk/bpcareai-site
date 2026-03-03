@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Times to Check NT-proBNP — Not Just BNP — in Adults 65+ With Chronic Kidney Disease Stage 2 and New-Onset Exertional Dyspnea"
-slug: "12-science-backed-times-to-check-nt-probnp-not-just-bnp-in-adults-65-with-chronic-kidney-disease-stage-2-and-new-onset-exertional-dyspnea"
-description: "Guides optimal NT-proBNP timing (e.g., post-dialysis, pre-antihypertensive dose, after 30-min upright posture) to distinguish volume overload from incipient heart failure in CKD."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["nt-probnp timing chronic kidney disease", "heart disease", "biomarker-timing-strategy"]
-primaryKeyword: "nt-probnp timing chronic kidney disease"
-topicCluster: "biomarker-timing-strategy"
-image: ""
-relatedSlugs: ["5-things-everyone-over-75-should-know-about-blood-pressure-medication-timing-especially-if-you-take-a-diuretic-and-a-calcium-channel-blocker", "what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria", "what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective", "12-science-backed-times-of-day-to-take-your-blood-pressure-based-on-circadian-endothelial-no-synthase-rhythms", "simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction"]
+title: >-
+  12 Science-Backed Times to Check NT-proBNP — Not Just BNP — in Adults 65+ With
+  Chronic Kidney Disease Stage 2 and New-Onset Exertional Dyspnea
+slug: >-
+  12-science-backed-times-to-check-nt-probnp-not-just-bnp-in-adults-65-with-chronic-kidney-disease-stage-2-and-new-onset-exertional-dyspnea
+description: >-
+  Guides optimal NT-proBNP timing (e.g., post-dialysis, pre-antihypertensive
+  dose, after 30-min upright posture) to distinguish volume overload from
+  incipient heart failure in CKD.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: nt-probnp timing chronic kidney disease
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-75-should-know-about-blood-pressure-medication-timing-especially-if-you-take-a-diuretic-and-a-calcium-channel-blocker
+  - >-
+    what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
+  - >-
+    what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
+  - >-
+    12-science-backed-times-of-day-to-take-your-blood-pressure-based-on-circadian-endothelial-no-synthase-rhythms
+  - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 ---
 
 # When to Check NT-proBNP in Older Adults With Stage 2 CKD and New Shortness of Breath — A Science-Guided Timing Strategy

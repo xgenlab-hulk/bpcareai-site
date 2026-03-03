@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Traditional Slow-Cooked Turkey Breast vs. Sous-Vide Turkey Breast — Impact on Advanced Glycation End Products (AGEs), Postprandial Inflammation, and Endothelial Function in Adults 66+ With Early Atherosclerosis"
-slug: "a-vs-b-traditional-slow-cooked-turkey-breast-vs-sous-vide-turkey-breast-impact-on-advanced-glycation-end-products-ages-postprandial-inflammation-and-endothelial-function-in-adults-66-with-early-atherosclerosis"
-description: "Compares cooking methods by AGE formation, CRP response, and flow-mediated dilation data — with practical kitchen adaptations for home cooks over 65."
-date: "2026-02-24"
-updated: "2026-02-24"
-tags: ["turkey cooking method endothelial health", "healthy eating during family gatherings", "cooking-methods-health-impact"]
-primaryKeyword: "turkey cooking method endothelial health"
-topicCluster: "cooking-methods-health-impact"
-image: ""
-relatedSlugs: ["a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome", "a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd", "a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc", "a-vs-b-homemade-bone-broth-soup-simmered-24-hours-vs-low-sodium-canned-vegetable-soup-impact-on-endothelial-function-in-adults-71-with-mild-hypertension", "10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy"]
+title: >-
+  A vs B: Traditional Slow-Cooked Turkey Breast vs. Sous-Vide Turkey Breast —
+  Impact on Advanced Glycation End Products (AGEs), Postprandial Inflammation,
+  and Endothelial Function in Adults 66+ With Early Atherosclerosis
+slug: >-
+  a-vs-b-traditional-slow-cooked-turkey-breast-vs-sous-vide-turkey-breast-impact-on-advanced-glycation-end-products-ages-postprandial-inflammation-and-endothelial-function-in-adults-66-with-early-atherosclerosis
+description: >-
+  Compares cooking methods by AGE formation, CRP response, and flow-mediated
+  dilation data — with practical kitchen adaptations for home cooks over 65.
+date: '2026-02-24'
+updated: '2026-02-24'
+primaryKeyword: turkey cooking method endothelial health
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
+  - >-
+    a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
+  - >-
+    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
+  - >-
+    a-vs-b-homemade-bone-broth-soup-simmered-24-hours-vs-low-sodium-canned-vegetable-soup-impact-on-endothelial-function-in-adults-71-with-mild-hypertension
+  - >-
+    10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy
 ---
 
 # How Your Turkey Cooking Method Affects Endothelial Health — A Gentle Guide for Adults 65 and Up

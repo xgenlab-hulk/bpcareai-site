@@ -1,14 +1,28 @@
 ---
-title: "7 Hidden Signs Your Blood Pressure Is Damaging Your Retina—Especially If You’re a Woman Over 67 With No Headaches or Vision Complaints"
-slug: "7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints"
-description: "Details subtle ophthalmoscopic findings (cotton-wool spots, arteriolar nicking, AV nicking asymmetry) and explains why retinal changes often precede stroke or kidney decline in normotensive-appearing older women."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["retinal signs high blood pressure women over 67", "blood pressure", "early-organ-damage-ophthalmic"]
-primaryKeyword: "retinal signs high blood pressure women over 67"
-topicCluster: "early-organ-damage-ophthalmic"
-image: ""
-relatedSlugs: ["what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65", "what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80", "warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71", "how-vision-changes-might-be-linked-to-heart-disease", "10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63"]
+title: >-
+  7 Hidden Signs Your Blood Pressure Is Damaging Your Retina—Especially If
+  You’re a Woman Over 67 With No Headaches or Vision Complaints
+slug: >-
+  7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
+description: >-
+  Details subtle ophthalmoscopic findings (cotton-wool spots, arteriolar
+  nicking, AV nicking asymmetry) and explains why retinal changes often precede
+  stroke or kidney decline in normotensive-appearing older women.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: retinal signs high blood pressure women over 67
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+  - how-vision-changes-might-be-linked-to-heart-disease
+  - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
 ---
 
 # What Your Eyes Reveal About Blood Pressure—Especially for Women Over 67 (Even Without Headaches or Blurry Vision)

@@ -1,14 +1,29 @@
 ---
-title: "Dangers of Intermittent Fasting for Adults With Severe Hypertension and Autonomic Neuropathy Confirmed by Ewing Battery"
-slug: "dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery"
-description: "Highlights risks of exaggerated BP lability, delayed gastric emptying–driven postprandial hypotension, and syncopal episodes during fasting windows in this vulnerable group."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["intermittent fasting autonomic neuropathy severe hypertension", "blood pressure", "fasting-risk-assessment"]
-primaryKeyword: "intermittent fasting autonomic neuropathy severe hypertension"
-topicCluster: "fasting-risk-assessment"
-image: ""
-relatedSlugs: ["how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort", "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease", "when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67", "what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension", "myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction"]
+title: >-
+  Dangers of Intermittent Fasting for Adults With Severe Hypertension and
+  Autonomic Neuropathy Confirmed by Ewing Battery
+slug: >-
+  dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
+description: >-
+  Highlights risks of exaggerated BP lability, delayed gastric emptying–driven
+  postprandial hypotension, and syncopal episodes during fasting windows in this
+  vulnerable group.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: intermittent fasting autonomic neuropathy severe hypertension
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+  - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
+  - >-
+    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
+  - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
+  - >-
+    myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction
 ---
 
 # Why Intermittent Fasting Autonomic Neuropathy Severe Hypertension Requires Extra Caution

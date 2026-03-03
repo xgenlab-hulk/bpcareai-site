@@ -1,14 +1,29 @@
 ---
-title: "7 Hidden Environmental Triggers That Worsen Coronary Artery Calcification in Adults 62+ With Long-Term Statin Use"
-slug: "7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use"
-description: "Explores overlooked non-dietary, non-genetic factors — including indoor air particulate exposure, chronic low-level noise pollution, and seasonal humidity shifts — that accelerate vascular calcification despite medication adherence."
-date: "2026-02-11"
-updated: "2026-02-11"
-tags: ["coronary artery calcification triggers seniors", "heart disease", "environmental-risk-factors"]
-primaryKeyword: "coronary artery calcification triggers seniors"
-topicCluster: "environmental-risk-factors"
-image: ""
-relatedSlugs: ["how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd", "10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease", "how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina", "how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries", "7-overlooked-environmental-triggers-that-elevate-nighttime-heart-rate-variability-in-adults-74-with-mild-copd-from-humidifier-mineral-dust-to-bedroom-wall-paint-vocs"]
+title: >-
+  7 Hidden Environmental Triggers That Worsen Coronary Artery Calcification in
+  Adults 62+ With Long-Term Statin Use
+slug: >-
+  7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use
+description: >-
+  Explores overlooked non-dietary, non-genetic factors — including indoor air
+  particulate exposure, chronic low-level noise pollution, and seasonal humidity
+  shifts — that accelerate vascular calcification despite medication adherence.
+date: '2026-02-11'
+updated: '2026-02-11'
+primaryKeyword: coronary artery calcification triggers seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd
+  - >-
+    10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease
+  - >-
+    how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina
+  - >-
+    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
+  - >-
+    7-overlooked-environmental-triggers-that-elevate-nighttime-heart-rate-variability-in-adults-74-with-mild-copd-from-humidifier-mineral-dust-to-bedroom-wall-paint-vocs
 ---
 
 # Environmental Factors That Accelerate Coronary Artery Calcification in Seniors on Long-Term Statins

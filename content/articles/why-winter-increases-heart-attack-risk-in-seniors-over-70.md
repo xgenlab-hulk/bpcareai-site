@@ -6,12 +6,8 @@ description: >-
   especially in older adults with preexisting conditions.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - winter heart attack risk seniors
-  - winter heart health for seniors
-  - seasonal-risk-factors
 primaryKeyword: winter heart attack risk seniors
-topicCluster: seasonal-health
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - how-does-cold-weather-affect-blood-pressure-in-older-adults

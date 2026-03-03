@@ -6,12 +6,8 @@ description: >-
   help counteract winter-induced hypertension in older adults.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - superfoods for blood pressure
-  - senior blood pressure control in winter
-  - cardiac-diet
 primaryKeyword: superfoods for blood pressure
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

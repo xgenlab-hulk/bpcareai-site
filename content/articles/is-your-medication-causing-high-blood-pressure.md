@@ -6,10 +6,6 @@ description: >-
   blood pressure and when to talk to your doctor.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - medications that raise blood pressure
-  - blood pressure
-  - blood-pressure-basics
 primaryKeyword: medications that raise blood pressure
 topicCluster: hypertension-management
 image: ''

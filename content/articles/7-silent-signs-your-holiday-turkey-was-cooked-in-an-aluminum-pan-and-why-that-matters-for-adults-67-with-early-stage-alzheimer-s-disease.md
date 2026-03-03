@@ -1,14 +1,30 @@
 ---
-title: "7 Silent Signs Your Holiday Turkey Was Cooked in an Aluminum Pan — And Why That Matters for Adults 67+ With Early-Stage Alzheimer’s Disease"
-slug: "7-silent-signs-your-holiday-turkey-was-cooked-in-an-aluminum-pan-and-why-that-matters-for-adults-67-with-early-stage-alzheimer-s-disease"
-description: "Reveals how trace aluminum leaching from unlined roasting pans interacts with amyloid-beta aggregation pathways, referencing 2023 PET-MRI cohort data linking holiday meal preparation methods to acute cognitive fluctuations in mild neurodegenerative disease."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["aluminum cookware holiday meals alzheimer's cognition", "healthy eating during family gatherings", "neurotoxicity-cooking-methods"]
-primaryKeyword: "aluminum cookware holiday meals alzheimer's cognition"
-topicCluster: "neurotoxicity-cooking-methods"
-image: ""
-relatedSlugs: ["what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy", "5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning", "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80", "the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment", "why-holiday-nut-mixes-can-trigger-subclinical-pancreatic-enzyme-leakage-in-adults-69-with-asymptomatic-chronic-pancreatitis-diagnosed-via-mrcp"]
+title: >-
+  7 Silent Signs Your Holiday Turkey Was Cooked in an Aluminum Pan — And Why
+  That Matters for Adults 67+ With Early-Stage Alzheimer’s Disease
+slug: >-
+  7-silent-signs-your-holiday-turkey-was-cooked-in-an-aluminum-pan-and-why-that-matters-for-adults-67-with-early-stage-alzheimer-s-disease
+description: >-
+  Reveals how trace aluminum leaching from unlined roasting pans interacts with
+  amyloid-beta aggregation pathways, referencing 2023 PET-MRI cohort data
+  linking holiday meal preparation methods to acute cognitive fluctuations in
+  mild neurodegenerative disease.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: aluminum cookware holiday meals alzheimer's cognition
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy
+  - >-
+    5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning
+  - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    why-holiday-nut-mixes-can-trigger-subclinical-pancreatic-enzyme-leakage-in-adults-69-with-asymptomatic-chronic-pancreatitis-diagnosed-via-mrcp
 ---
 
 # What Your Holiday Turkey Might Be Telling You About Aluminum Cookware Holiday Meals Alzheimer's Cognition

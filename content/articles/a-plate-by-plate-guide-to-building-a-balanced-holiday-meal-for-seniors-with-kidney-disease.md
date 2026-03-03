@@ -9,12 +9,8 @@ description: >-
   with renal diets while still feeling festive and satisfying.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - holiday meal guide for seniors with kidney disease
-  - healthy holiday eating for seniors
-  - renal-diet
 primaryKeyword: holiday meal guide for seniors with kidney disease
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

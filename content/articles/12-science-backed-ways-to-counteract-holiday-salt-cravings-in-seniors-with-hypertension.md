@@ -1,14 +1,25 @@
 ---
-title: "12 Science-Backed Ways to Counteract Holiday Salt Cravings in Seniors With Hypertension"
-slug: "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension"
-description: "Presents peer-reviewed behavioral, sensory, and nutritional interventions—including zinc supplementation, umami-rich herb blends, and oral temperature modulation—to reduce sodium-seeking behavior."
-date: "2025-12-22"
-updated: "2025-12-22"
-tags: ["reduce salt cravings hypertension seniors", "healthy holiday eating for seniors", "behavioral-nutrition-intervention"]
-primaryKeyword: "reduce salt cravings hypertension seniors"
-topicCluster: "behavioral-nutrition-intervention"
-image: ""
-relatedSlugs: ["simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now", "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure", "7-smart-swaps-for-healthier-holiday-meals-after-65", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"]
+title: >-
+  12 Science-Backed Ways to Counteract Holiday Salt Cravings in Seniors With
+  Hypertension
+slug: >-
+  12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+description: >-
+  Presents peer-reviewed behavioral, sensory, and nutritional
+  interventions—including zinc supplementation, umami-rich herb blends, and oral
+  temperature modulation—to reduce sodium-seeking behavior.
+date: '2025-12-22'
+updated: '2025-12-22'
+primaryKeyword: reduce salt cravings hypertension seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # 12 Gentle, Science-Supported Ways to Reduce Salt Cravings in Seniors With Hypertension

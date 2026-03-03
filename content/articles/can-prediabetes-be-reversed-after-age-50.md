@@ -6,12 +6,8 @@ description: >-
   prediabetes in adults over 50.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - reverse prediabetes after 50
-  - diabetes
-  - diabetes-prevention
 primaryKeyword: reverse prediabetes after 50
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - best-supplements-for-blood-sugar-support-after-50

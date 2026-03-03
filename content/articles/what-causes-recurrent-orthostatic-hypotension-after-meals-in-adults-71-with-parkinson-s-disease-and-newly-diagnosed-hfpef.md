@@ -1,14 +1,30 @@
 ---
-title: "What Causes Recurrent Orthostatic Hypotension After Meals in Adults 71+ With Parkinson’s Disease and Newly Diagnosed HFpEF?"
-slug: "what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef"
-description: "Details the triad of postprandial splanchnic pooling, α-synuclein–mediated baroreflex failure, and diastolic dysfunction—and offers meal-timing, carb-sequencing, and compression strategies validated in movement disorder–cardiology clinics."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["postprandial orthostatic hypotension parkinsons", "heart disease", "neurocardiology"]
-primaryKeyword: "postprandial orthostatic hypotension parkinsons"
-topicCluster: "neurocardiology"
-image: ""
-relatedSlugs: ["what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85", "simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease", "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension", "what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75", "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes"]
+title: >-
+  What Causes Recurrent Orthostatic Hypotension After Meals in Adults 71+ With
+  Parkinson’s Disease and Newly Diagnosed HFpEF?
+slug: >-
+  what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef
+description: >-
+  Details the triad of postprandial splanchnic pooling, α-synuclein–mediated
+  baroreflex failure, and diastolic dysfunction—and offers meal-timing,
+  carb-sequencing, and compression strategies validated in movement
+  disorder–cardiology clinics.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: postprandial orthostatic hypotension parkinsons
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
+  - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+  - >-
+    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
+  - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
 ---
 
 # Understanding Postprandial Orthostatic Hypotension in Parkinson’s Disease and HFpEF

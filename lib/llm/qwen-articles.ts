@@ -28,7 +28,6 @@ export interface ArticleFrontmatter {
   description: string;
   date: string;
   updated: string;
-  tags: string[];
   primaryKeyword: string;
   topicCluster: string;
   image: string;
@@ -79,26 +78,6 @@ function getCurrentDate(): string {
   return `${year}-${month}-${day}`;
 }
 
-/**
- * 从 topic 生成 tags 数组
- */
-function generateTags(topic: PlannedTopic): string[] {
-  const tags = new Set<string>();
-
-  if (topic.primaryKeyword && topic.primaryKeyword.trim()) {
-    tags.add(topic.primaryKeyword.trim());
-  }
-
-  if (topic.coreKeyword && topic.coreKeyword.trim()) {
-    tags.add(topic.coreKeyword.trim());
-  }
-
-  if (topic.topicCluster && topic.topicCluster.trim()) {
-    tags.add(topic.topicCluster.trim());
-  }
-
-  return Array.from(tags);
-}
 
 /**
  * 随机选择文章长度和语气
@@ -138,7 +117,6 @@ export async function generateArticleMarkdown(
     description: topic.description || '',
     date: currentDate,
     updated: currentDate,
-    tags: generateTags(topic),
     primaryKeyword: topic.primaryKeyword,
     topicCluster: topic.topicCluster,
     image: '',

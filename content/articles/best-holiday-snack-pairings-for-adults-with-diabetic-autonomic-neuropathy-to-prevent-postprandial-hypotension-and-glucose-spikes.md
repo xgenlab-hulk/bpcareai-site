@@ -1,14 +1,27 @@
 ---
-title: "Best Holiday Snack Pairings for Adults With Diabetic Autonomic Neuropathy to Prevent Postprandial Hypotension and Glucose Spikes"
-slug: "best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes"
-description: "Recommends combos (e.g., roasted chestnuts + pomegranate arils + rosemary salt) that balance vagal tone support, sodium modulation, and slow-carb release—based on tilt-table testing."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["holiday snacks postprandial hypotension autonomic neuropathy", "holiday diabetes management", "autonomic-neuropathy-snacking"]
-primaryKeyword: "holiday snacks postprandial hypotension autonomic neuropathy"
-topicCluster: "autonomic-neuropathy-snacking"
-image: ""
-relatedSlugs: ["5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties", "natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79", "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70", "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension", "the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72"]
+title: >-
+  Best Holiday Snack Pairings for Adults With Diabetic Autonomic Neuropathy to
+  Prevent Postprandial Hypotension and Glucose Spikes
+slug: >-
+  best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
+description: >-
+  Recommends combos (e.g., roasted chestnuts + pomegranate arils + rosemary
+  salt) that balance vagal tone support, sodium modulation, and slow-carb
+  release—based on tilt-table testing.
+date: '2026-01-01'
+updated: '2026-01-01'
+primaryKeyword: holiday snacks postprandial hypotension autonomic neuropathy
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
+  - >-
+    natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
+  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
+  - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+  - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 ---
 
 # Holiday Snack Pairings That Support Steady Blood Pressure and Glucose—Especially With Autonomic Neuropathy

@@ -1,14 +1,29 @@
 ---
-title: "Can Daily 10-Minute Cold-Water Face Immersion Reduce Sympathetic Tone and Improve HRV Within 12 Days in Men 67+ With Stage 2 Hypertension?"
-slug: "can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension"
-description: "Presents findings from a randomized pilot trial comparing cold face immersion vs. sham breathing control on heart rate variability, baroreflex sensitivity, and 24-hour ambulatory BP trends."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["cold face immersion and heart rate variability", "heart disease", "autonomic-modulation"]
-primaryKeyword: "cold face immersion and heart rate variability"
-topicCluster: "autonomic-modulation"
-image: ""
-relatedSlugs: ["can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct", "natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension", "quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety", "why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds", "quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension"]
+title: >-
+  Can Daily 10-Minute Cold-Water Face Immersion Reduce Sympathetic Tone and
+  Improve HRV Within 12 Days in Men 67+ With Stage 2 Hypertension?
+slug: >-
+  can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+description: >-
+  Presents findings from a randomized pilot trial comparing cold face immersion
+  vs. sham breathing control on heart rate variability, baroreflex sensitivity,
+  and 24-hour ambulatory BP trends.
+date: '2026-01-06'
+updated: '2026-01-06'
+primaryKeyword: cold face immersion and heart rate variability
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+  - >-
+    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
+  - >-
+    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+  - >-
+    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
+  - >-
+    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
 ---
 
 # Can Cold Face Immersion and Heart Rate Variability Improve Autonomic Balance in Older Men with Stage 2 Hypertension?

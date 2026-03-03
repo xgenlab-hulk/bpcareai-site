@@ -6,12 +6,8 @@ description: >-
   disorder in older adults.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - seasonal depression vs winter sadness
-  - seasonal depression in older adults
-  - condition-comparison
 primaryKeyword: seasonal depression vs winter sadness
-topicCluster: evidence-research
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

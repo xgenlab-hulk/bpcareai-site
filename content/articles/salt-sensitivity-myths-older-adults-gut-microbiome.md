@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: 'Salt Sensitivity' in Older Adults — What New Research Says About Genetic Variants, Gut Microbiome Diversity, and Dietary Sodium Thresholds in Adults 69+"
-slug: "myths-vs-facts-salt-sensitivity-in-older-adults-what-new-research-says-about-genetic-variants-gut-microbiome-diversity-and-dietary-sodium-thresholds-in-adults-69"
-description: "Debunks outdated assumptions about universal salt restriction by integrating genomics, microbial metabolism, and individualized sodium tolerance thresholds."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["salt sensitivity myths older adults gut microbiome", "blood pressure", "sodium-genomics-microbiome"]
-primaryKeyword: "salt sensitivity myths older adults gut microbiome"
-topicCluster: "sodium-genomics-microbiome"
-image: ""
-relatedSlugs: ["myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response", "myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols", "myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions", "myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension", "how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension"]
+title: >-
+  Myths vs Facts: 'Salt Sensitivity' in Older Adults — What New Research Says
+  About Genetic Variants, Gut Microbiome Diversity, and Dietary Sodium
+  Thresholds in Adults 69+
+slug: >-
+  myths-vs-facts-salt-sensitivity-in-older-adults-what-new-research-says-about-genetic-variants-gut-microbiome-diversity-and-dietary-sodium-thresholds-in-adults-69
+description: >-
+  Debunks outdated assumptions about universal salt restriction by integrating
+  genomics, microbial metabolism, and individualized sodium tolerance
+  thresholds.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: salt sensitivity myths older adults gut microbiome
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response
+  - >-
+    myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
+  - >-
+    myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions
+  - >-
+    myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
+  - >-
+    how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
 ---
 
 # Salt Sensitivity Myths in Older Adults: What the Gut Microbiome, Genes, and New Science Really Say  

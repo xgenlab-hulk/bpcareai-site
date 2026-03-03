@@ -6,12 +6,8 @@ description: >-
   both.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - stress and blood sugar in older diabetics
-  - diabetes
-  - diabetes-lifestyle
 primaryKeyword: stress and blood sugar in older diabetics
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope

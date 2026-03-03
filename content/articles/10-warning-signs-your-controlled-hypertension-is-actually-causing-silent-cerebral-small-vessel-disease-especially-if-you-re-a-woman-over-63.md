@@ -10,12 +10,8 @@ description: >-
   matter hyperintensities and vascular cognitive impairment risk.
 date: '2025-12-25'
 updated: '2025-12-25'
-tags:
-  - silent cerebral small vessel disease hypertension
-  - blood pressure
-  - neurovascular-early-detection
 primaryKeyword: silent cerebral small vessel disease hypertension
-topicCluster: neurovascular-early-detection
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

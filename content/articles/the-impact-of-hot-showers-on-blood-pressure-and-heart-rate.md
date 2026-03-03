@@ -6,12 +6,8 @@ description: >-
   those with heart concerns.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - hot showers and blood pressure effects elderly
-  - heart health
-  - heart-health
 primaryKeyword: hot showers and blood pressure effects elderly
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors

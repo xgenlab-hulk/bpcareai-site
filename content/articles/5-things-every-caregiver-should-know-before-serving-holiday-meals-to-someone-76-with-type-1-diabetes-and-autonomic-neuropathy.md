@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Caregiver Should Know Before Serving Holiday Meals to Someone 76+ With Type 1 Diabetes and Autonomic Neuropathy"
-slug: "5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy"
-description: "Actionable, safety-first guidance for non-clinical caregivers — covering carb-counting pitfalls with mixed dishes, delayed gastric emptying risks, hypoglycemia unawareness during social distraction, and emergency response adaptations."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["caregiver holiday meals type 1 diabetes elderly", "managing blood sugar during christmas and new year", "caregiver-safety"]
-primaryKeyword: "caregiver holiday meals type 1 diabetes elderly"
-topicCluster: "caregiver-safety"
-image: ""
-relatedSlugs: ["10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit", "simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature", "5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes", "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72"]
+title: >-
+  5 Things Every Caregiver Should Know Before Serving Holiday Meals to Someone
+  76+ With Type 1 Diabetes and Autonomic Neuropathy
+slug: >-
+  5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+description: >-
+  Actionable, safety-first guidance for non-clinical caregivers — covering
+  carb-counting pitfalls with mixed dishes, delayed gastric emptying risks,
+  hypoglycemia unawareness during social distraction, and emergency response
+  adaptations.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: caregiver holiday meals type 1 diabetes elderly
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+  - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
+  - >-
+    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
 ---
 
 # 5 Essential Safety Tips for Caregiver Holiday Meals Type 1 Diabetes Elderly Situations

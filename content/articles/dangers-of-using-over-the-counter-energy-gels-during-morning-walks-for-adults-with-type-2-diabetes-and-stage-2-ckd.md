@@ -1,14 +1,29 @@
 ---
-title: "Dangers of Using Over-the-Counter 'Energy Gels' During Morning Walks for Adults With Type 2 Diabetes and Stage 2 CKD"
-slug: "dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd"
-description: "Details phosphate load, maltodextrin-driven glucose variability, and potassium content risks—plus safer alternatives validated in renal-metabolic crossover trials."
-date: "2026-01-05"
-updated: "2026-01-05"
-tags: ["energy gels diabetes stage 2 ckd", "diabetes", "supplement-safety"]
-primaryKeyword: "energy gels diabetes stage 2 ckd"
-topicCluster: "supplement-safety"
-image: ""
-relatedSlugs: ["a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd", "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd", "can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide", "the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives", "what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45"]
+title: >-
+  Dangers of Using Over-the-Counter 'Energy Gels' During Morning Walks for
+  Adults With Type 2 Diabetes and Stage 2 CKD
+slug: >-
+  dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd
+description: >-
+  Details phosphate load, maltodextrin-driven glucose variability, and potassium
+  content risks—plus safer alternatives validated in renal-metabolic crossover
+  trials.
+date: '2026-01-05'
+updated: '2026-01-05'
+primaryKeyword: energy gels diabetes stage 2 ckd
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
+  - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+  - >-
+    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
+  - >-
+    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
 ---
 
 # Why Energy Gels Diabetes Stage 2 CKD Is a Risky Combo for Morning Walkers Over 50

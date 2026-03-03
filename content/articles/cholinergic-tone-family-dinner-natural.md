@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Postprandial Cholinergic Tone Without Supplements — For Adults 66–79 With Mild Cognitive Impairment and Family-Dinner Overstimulation"
-slug: "natural-ways-to-support-postprandial-cholinergic-tone-without-supplements-for-adults-66-79-with-mild-cognitive-impairment-and-family-dinner-overstimulation"
-description: "Focuses on meal-related vagal activation via chewing rhythm, ambient sound modulation, mindful bite pacing, and choline-rich yet low-histamine foods — all designed to counteract social-cognitive overload during gatherings."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["cholinergic tone family dinner natural", "healthy eating during family gatherings", "vagal-tone-diet-strategies"]
-primaryKeyword: "cholinergic tone family dinner natural"
-topicCluster: "vagal-tone-diet-strategies"
-image: ""
-relatedSlugs: ["9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance", "10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia", "how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70", "quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd", "how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment"]
+title: >-
+  Natural Ways to Support Postprandial Cholinergic Tone Without Supplements —
+  For Adults 66–79 With Mild Cognitive Impairment and Family-Dinner
+  Overstimulation
+slug: >-
+  natural-ways-to-support-postprandial-cholinergic-tone-without-supplements-for-adults-66-79-with-mild-cognitive-impairment-and-family-dinner-overstimulation
+description: >-
+  Focuses on meal-related vagal activation via chewing rhythm, ambient sound
+  modulation, mindful bite pacing, and choline-rich yet low-histamine foods —
+  all designed to counteract social-cognitive overload during gatherings.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: cholinergic tone family dinner natural
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+  - >-
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
+  - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
+  - >-
+    quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
+  - >-
+    how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
 ---
 
 # Gentle Ways to Support Cholinergic Tone at Family Dinners — Natural, No-Supplement Strategies for Adults 66–79 with Mild Cognitive Impairment

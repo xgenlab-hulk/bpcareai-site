@@ -1,14 +1,30 @@
 ---
-title: "Can Daily 2-Minute Toe-Tap Sequencing Improve Capillary Refill Time and Postprandial Glucose Clearance in Women 63–79 With Diabetic Foot Ulcer History?"
-slug: "can-daily-2-minute-toe-tap-sequencing-improve-capillary-refill-time-and-postprandial-glucose-clearance-in-women-63-79-with-diabetic-foot-ulcer-history"
-description: "Examines a novel, low-barrier neuromuscular activation protocol targeting distal microcirculation—and its measurable impact on post-meal glucose spikes in high-risk older women."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["toe-tap exercise for diabetic circulation", "diabetes", "exercise-microcirculation"]
-primaryKeyword: "toe-tap exercise for diabetic circulation"
-topicCluster: "exercise-microcirculation"
-image: ""
-relatedSlugs: ["quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76", "quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy", "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis", "how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension", "a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance"]
+title: >-
+  Can Daily 2-Minute Toe-Tap Sequencing Improve Capillary Refill Time and
+  Postprandial Glucose Clearance in Women 63–79 With Diabetic Foot Ulcer
+  History?
+slug: >-
+  can-daily-2-minute-toe-tap-sequencing-improve-capillary-refill-time-and-postprandial-glucose-clearance-in-women-63-79-with-diabetic-foot-ulcer-history
+description: >-
+  Examines a novel, low-barrier neuromuscular activation protocol targeting
+  distal microcirculation—and its measurable impact on post-meal glucose spikes
+  in high-risk older women.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: toe-tap exercise for diabetic circulation
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+  - >-
+    how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
 ---
 
 # Can a Simple Toe-Tap Exercise for Diabetic Circulation Help Women 63–79 With Past Foot Ulcers?

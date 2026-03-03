@@ -1,14 +1,29 @@
 ---
-title: "Best Low-Glycemic, High-Resistant-Starch Snacks for Women 65+ With Nighttime Hypoglycemia and Gastroparesis — That Don’t Trigger Reflux"
-slug: "best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux"
-description: "Features cooled potato starch gels, green banana flour crackers with digestive enzymes, and fermented lentil hummus — all tested for gastric retention time and pH stability — with portion-sizing and timing rules (90 min pre-bed)."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["low-glycemic snacks gastroparesis nighttime hypoglycemia", "diabetes", "gastrointestinal-safe-snacking"]
-primaryKeyword: "low-glycemic snacks gastroparesis nighttime hypoglycemia"
-topicCluster: "gastrointestinal-safe-snacking"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes", "best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd", "quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts", "can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide", "best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation"]
+title: >-
+  Best Low-Glycemic, High-Resistant-Starch Snacks for Women 65+ With Nighttime
+  Hypoglycemia and Gastroparesis — That Don’t Trigger Reflux
+slug: >-
+  best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
+description: >-
+  Features cooled potato starch gels, green banana flour crackers with digestive
+  enzymes, and fermented lentil hummus — all tested for gastric retention time
+  and pH stability — with portion-sizing and timing rules (90 min pre-bed).
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: low-glycemic snacks gastroparesis nighttime hypoglycemia
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
+  - >-
+    best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd
+  - >-
+    quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts
+  - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 ---
 
 # Gentle, Gut-Friendly Snacks for Nighttime Blood Sugar Stability — Especially When Gastroparesis and Reflux Are in the Mix  

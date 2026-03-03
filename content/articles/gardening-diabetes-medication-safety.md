@@ -11,12 +11,8 @@ description: >-
   modifications for neuropathic gardeners.
 date: '2026-02-24'
 updated: '2026-02-24'
-tags:
-  - gardening diabetes medication safety
-  - diabetes
-  - horticultural-therapy-safety
 primaryKeyword: gardening diabetes medication safety
-topicCluster: horticultural-therapy-safety
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

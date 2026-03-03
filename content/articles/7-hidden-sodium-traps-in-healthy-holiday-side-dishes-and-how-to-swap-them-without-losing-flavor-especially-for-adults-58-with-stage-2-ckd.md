@@ -1,14 +1,29 @@
 ---
-title: "7 Hidden Sodium Traps in 'Healthy' Holiday Side Dishes — And How to Swap Them Without Losing Flavor (Especially for Adults 58+ With Stage 2 CKD)"
-slug: "7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd"
-description: "Identifies unexpectedly high-sodium ingredients in seemingly low-salt dishes (e.g., low-sodium broth-based gravies, 'no-salt-added' canned beans), with renal-dietitian-approved substitutions and lab-verified sodium reductions."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["hidden sodium holiday side dishes kidney disease", "healthy eating during family gatherings", "renal-nutrition"]
-primaryKeyword: "hidden sodium holiday side dishes kidney disease"
-topicCluster: "renal-nutrition"
-image: ""
-relatedSlugs: ["7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension", "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs", "7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62", "best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60", "10-quick-ways-to-reduce-sodium-load-in-traditional-holiday-side-dishes-without-losing-flavor-or-family-approval"]
+title: >-
+  7 Hidden Sodium Traps in 'Healthy' Holiday Side Dishes — And How to Swap Them
+  Without Losing Flavor (Especially for Adults 58+ With Stage 2 CKD)
+slug: >-
+  7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
+description: >-
+  Identifies unexpectedly high-sodium ingredients in seemingly low-salt dishes
+  (e.g., low-sodium broth-based gravies, 'no-salt-added' canned beans), with
+  renal-dietitian-approved substitutions and lab-verified sodium reductions.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: hidden sodium holiday side dishes kidney disease
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
+  - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
+  - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+  - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
+  - >-
+    10-quick-ways-to-reduce-sodium-load-in-traditional-holiday-side-dishes-without-losing-flavor-or-family-approval
 ---
 
 # Hidden Sodium in Holiday Sides: Smart Swaps for Adults 58+ with Stage 2 CKD

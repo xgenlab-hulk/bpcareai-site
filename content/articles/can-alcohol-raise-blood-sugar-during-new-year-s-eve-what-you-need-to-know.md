@@ -1,14 +1,21 @@
 ---
-title: "Can Alcohol Raise Blood Sugar During New Year’s Eve? What You Need to Know"
-slug: "can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know"
-description: "Examines how holiday drinking affects glucose control in older adults with diabetes and offers safer choices and timing tips."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["alcohol and blood sugar holidays", "managing blood sugar during Christmas and New Year", "diet-nutrition"]
-primaryKeyword: "alcohol and blood sugar holidays"
-topicCluster: "diet-nutrition"
-image: ""
-relatedSlugs: ["the-truth-about-alcohol-and-blood-sugar-during-holiday-parties", "what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays", "does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes"]
+title: Can Alcohol Raise Blood Sugar During New Year’s Eve? What You Need to Know
+slug: can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
+description: >-
+  Examines how holiday drinking affects glucose control in older adults with
+  diabetes and offers safer choices and timing tips.
+date: '2025-12-25'
+updated: '2025-12-25'
+primaryKeyword: alcohol and blood sugar holidays
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
+  - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+  - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 
 # How Alcohol and Blood Sugar Holidays Interact—What Older Adults with Diabetes Should Know

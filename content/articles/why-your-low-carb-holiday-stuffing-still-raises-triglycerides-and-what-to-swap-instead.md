@@ -1,14 +1,28 @@
 ---
-title: "Why Your 'Low-Carb' Holiday Stuffing Still Raises Triglycerides — And What to Swap Instead"
-slug: "why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead"
-description: "Explains how hidden fructose, high omega-6 fats, and low-fiber grain substitutes in ‘diabetic-friendly’ recipes drive postprandial lipemia — with science-backed, palatable alternatives."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["low-carb stuffing triglycerides diabetes", "holiday diabetes management", "diet-nutrition-lipid-metabolism"]
-primaryKeyword: "low-carb stuffing triglycerides diabetes"
-topicCluster: "diet-nutrition-lipid-metabolism"
-image: ""
-relatedSlugs: ["the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60", "warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia", "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar", "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control", "7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish"]
+title: >-
+  Why Your 'Low-Carb' Holiday Stuffing Still Raises Triglycerides — And What to
+  Swap Instead
+slug: >-
+  why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead
+description: >-
+  Explains how hidden fructose, high omega-6 fats, and low-fiber grain
+  substitutes in ‘diabetic-friendly’ recipes drive postprandial lipemia — with
+  science-backed, palatable alternatives.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: low-carb stuffing triglycerides diabetes
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+  - >-
+    warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
+  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
 ---
 
 # Why “Low-Carb” Holiday Stuffing Can Still Spike Triglycerides — And What to Choose Instead for Better Diabetes Management

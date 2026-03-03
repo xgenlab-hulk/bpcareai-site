@@ -1,14 +1,28 @@
 ---
-title: "How Chronic Low-Grade Inflammation Drives Beta-Cell Decline in Adults 52–64 With Long-Standing Prediabetes and Elevated hs-CRP"
-slug: "how-chronic-low-grade-inflammation-drives-beta-cell-decline-in-adults-52-64-with-long-standing-prediabetes-and-elevated-hs-crp"
-description: "Explores the mechanistic link between systemic inflammation and progressive insulin deficiency in midlife prediabetes, using longitudinal biomarker data and pancreatic imaging correlates."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["inflammation and beta-cell decline prediabetes", "diabetes", "pathophysiology-mechanisms"]
-primaryKeyword: "inflammation and beta-cell decline prediabetes"
-topicCluster: "pathophysiology-mechanisms"
-image: ""
-relatedSlugs: ["how-chronic-inflammation-worsens-type-2-diabetes-after-50", "how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies", "how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough", "what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp", "how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access"]
+title: >-
+  How Chronic Low-Grade Inflammation Drives Beta-Cell Decline in Adults 52–64
+  With Long-Standing Prediabetes and Elevated hs-CRP
+slug: >-
+  how-chronic-low-grade-inflammation-drives-beta-cell-decline-in-adults-52-64-with-long-standing-prediabetes-and-elevated-hs-crp
+description: >-
+  Explores the mechanistic link between systemic inflammation and progressive
+  insulin deficiency in midlife prediabetes, using longitudinal biomarker data
+  and pancreatic imaging correlates.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: inflammation and beta-cell decline prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - >-
+    how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies
+  - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
+  - >-
+    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
 ---
 
 # How Low-Grade Inflammation Contributes to Beta-Cell Decline in Midlife Prediabetes

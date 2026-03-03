@@ -10,12 +10,8 @@ description: >-
   workarounds.
 date: '2025-12-27'
 updated: '2025-12-27'
-tags:
-  - homemade cranberry sauce sugar content
-  - healthy eating during family gatherings
-  - recipe-label-audit
 primaryKeyword: homemade cranberry sauce sugar content
-topicCluster: recipe-label-audit
+topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-

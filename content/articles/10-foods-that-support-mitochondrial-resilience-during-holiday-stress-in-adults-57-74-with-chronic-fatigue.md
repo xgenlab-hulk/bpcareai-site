@@ -10,12 +10,8 @@ description: >-
   social exhaustion.
 date: '2026-01-07'
 updated: '2026-01-07'
-tags:
-  - mitochondrial resilience holiday stress
-  - healthy eating during family gatherings
-  - mitochondrial-nutrition-fatigue
 primaryKeyword: mitochondrial resilience holiday stress
-topicCluster: mitochondrial-nutrition-fatigue
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

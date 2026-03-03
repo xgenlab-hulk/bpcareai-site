@@ -1,14 +1,29 @@
 ---
-title: "How Intermittent Fasting (14:10) Affects Overnight Hepatic Glucose Production in Adults 58–70 With Prediabetes and Elevated Fasting Insulin"
-slug: "how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin"
-description: "Examines the impact of shortened eating windows on nocturnal gluconeogenesis, cortisol rhythm, and insulin clearance — with personalized feasibility thresholds based on frailty and meal timing history."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["intermittent fasting hepatic glucose production prediabetes", "holiday diabetes management", "fasting-metabolic-pathways"]
-primaryKeyword: "intermittent fasting hepatic glucose production prediabetes"
-topicCluster: "fasting-metabolic-pathways"
-image: ""
-relatedSlugs: ["how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon", "7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis", "a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity", "what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery", "how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms"]
+title: >-
+  How Intermittent Fasting (14:10) Affects Overnight Hepatic Glucose Production
+  in Adults 58–70 With Prediabetes and Elevated Fasting Insulin
+slug: >-
+  how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
+description: >-
+  Examines the impact of shortened eating windows on nocturnal gluconeogenesis,
+  cortisol rhythm, and insulin clearance — with personalized feasibility
+  thresholds based on frailty and meal timing history.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: intermittent fasting hepatic glucose production prediabetes
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+  - >-
+    7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
+  - >-
+    a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity
+  - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
+  - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
 ---
 
 # How Intermittent Fasting (14:10) Influences Overnight Liver Glucose Output in Adults 58–70 With Prediabetes

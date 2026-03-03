@@ -6,12 +6,8 @@ description: >-
   leads to higher readings in older adults.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - winter vs summer blood pressure
-  - winter heart health for seniors
-  - monitoring-testing
 primaryKeyword: winter vs summer blood pressure
-topicCluster: health-monitoring
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - how-does-cold-weather-affect-blood-pressure-in-older-adults

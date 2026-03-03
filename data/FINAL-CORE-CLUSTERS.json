@@ -1,0 +1,292 @@
+{
+  "version": "1.0",
+  "total_core_clusters": 32,
+  "total_articles": 2175,
+  "generation_date": "2026-03-04",
+  "methodology": "两轮渐进式LLM语义聚类: 1731→188→48→32",
+  "core_clusters": [
+    {
+      "core_name": "nutrition-diet-management",
+      "description": "营养和饮食管理的全面策略,包括饮食优化、营养素选择、膳食模式、循证营养科学和食品安全",
+      "total_articles": 347,
+      "source_batches": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "merged_count": 4
+    },
+    {
+      "core_name": "cardiovascular-health",
+      "description": "心血管系统整体健康,包括心脏功能、血管健康、内皮功能、微血管健康和心血管生理机制",
+      "total_articles": 227,
+      "source_batches": [
+        1,
+        2
+      ],
+      "merged_count": 2
+    },
+    {
+      "core_name": "lifestyle-interventions",
+      "description": "生活方式改变和行为干预,包括运动、体力活动、正念运动、社会参与和情境因素",
+      "total_articles": 147,
+      "source_batches": [
+        1,
+        3,
+        4
+      ],
+      "merged_count": 3
+    },
+    {
+      "core_name": "hypertension-management",
+      "description": "高血压的全面管理,包括检测、监测、治疗、饮食干预和生活方式调整",
+      "total_articles": 128,
+      "source_batches": [
+        1,
+        2,
+        4
+      ],
+      "merged_count": 3
+    },
+    {
+      "core_name": "special-populations",
+      "description": "特殊人群护理和健康管理,包括老年人、性别特异性健康、女性心血管健康、照护者支持、认知障碍患者和多病共存管理",
+      "total_articles": 128,
+      "source_batches": [
+        1,
+        3,
+        4
+      ],
+      "merged_count": 3
+    },
+    {
+      "core_name": "diabetes-management",
+      "description": "糖尿病的全面管理,包括血糖监测、饮食策略、胰岛功能保护和并发症预防",
+      "total_articles": 122,
+      "source_batches": [
+        2,
+        3
+      ],
+      "merged_count": 2
+    },
+    {
+      "core_name": "symptoms-diagnosis",
+      "description": "症状识别、早期检测、诊断技术、生物标志物解读和并发症检测",
+      "total_articles": 121,
+      "source_batches": [
+        3,
+        4
+      ],
+      "merged_count": 2
+    },
+    {
+      "core_name": "medication-safety",
+      "description": "药物安全、药物相互作用、药理学机制、副作用管理和多重用药监测",
+      "total_articles": 106,
+      "source_batches": [
+        1,
+        3
+      ],
+      "merged_count": 2
+    },
+    {
+      "core_name": "gastrointestinal-health",
+      "description": "消化系统健康、肠道微生物、消化生理、口腔健康和胃肠道营养管理",
+      "total_articles": 75,
+      "source_batches": [
+        3,
+        4
+      ],
+      "merged_count": 2
+    },
+    {
+      "core_name": "comprehensive-health-topics",
+      "description": "综合健康主题,包括代谢-脂质-能量管理、心血管生理机制、神经认知健康、口腔健康、内分泌相互作用、药物补充剂安全、并发症管理、心律失常、天然疗法和医学误区澄清",
+      "total_articles": 71,
+      "source_batches": [
+        4
+      ]
+    },
+    {
+      "core_name": "environmental-factors",
+      "description": "环境和社会因素对健康的影响,包括季节影响、温度、毒素、旅行、社会行为和生活方式环境因素",
+      "total_articles": 66,
+      "source_batches": [
+        4
+      ]
+    },
+    {
+      "core_name": "complications-management",
+      "description": "疾病并发症和合并症管理,包括多器官系统影响、神经病变、感染炎症和多系统疾病",
+      "total_articles": 62,
+      "source_batches": [
+        1,
+        2
+      ],
+      "merged_count": 2
+    },
+    {
+      "core_name": "monitoring-technology",
+      "description": "健康监测技术与诊断,包括设备比较、准确性评估、数字工具、远程监测和生物标志物检测",
+      "total_articles": 56,
+      "source_batches": [
+        3,
+        4
+      ],
+      "merged_count": 2
+    },
+    {
+      "core_name": "treatment-interventions",
+      "description": "治疗干预措施,包括药物和非药物治疗、整合生理干预、自然疗法和治疗安全性评估",
+      "total_articles": 54,
+      "source_batches": [
+        2
+      ]
+    },
+    {
+      "core_name": "glucose-diabetes-management",
+      "description": "糖尿病和血糖管理的全面体系,包括血糖代谢、监测技术、糖尿病治疗、并发症预防和生活方式干预",
+      "total_articles": 49,
+      "source_batches": [
+        1
+      ]
+    },
+    {
+      "core_name": "circadian-sleep-health",
+      "description": "昼夜节律、睡眠质量与代谢功能的相互影响,包括睡眠呼吸障碍对心肺血流动力学的影响",
+      "total_articles": 40,
+      "source_batches": [
+        1
+      ]
+    },
+    {
+      "core_name": "cardiovascular-physiology",
+      "description": "心血管系统的生理机制、血流动力学、血管功能、结构变化和特殊代谢途径",
+      "total_articles": 36,
+      "source_batches": [
+        3
+      ]
+    },
+    {
+      "core_name": "behavioral-mental-health",
+      "description": "压力、心理社会因素、情绪健康、自主神经系统调节对代谢和心血管健康的影响",
+      "total_articles": 34,
+      "source_batches": [
+        3
+      ]
+    },
+    {
+      "core_name": "cardiac-disease-management",
+      "description": "特定心脏疾病管理,包括心肌病、心力衰竭、心律失常、电生理异常和心脏疾病的营养治疗",
+      "total_articles": 33,
+      "source_batches": [
+        2
+      ]
+    },
+    {
+      "core_name": "mental-health-stress",
+      "description": "心理健康、压力管理、情绪健康与生理功能的关联",
+      "total_articles": 30,
+      "source_batches": [
+        4
+      ]
+    },
+    {
+      "core_name": "environmental-health-factors",
+      "description": "环境因素对健康的影响,包括季节变化、温度、湿度、噪音、光照和环境毒素等外部压力源",
+      "total_articles": 28,
+      "source_batches": [
+        2
+      ]
+    },
+    {
+      "core_name": "metabolic-health",
+      "description": "代谢综合征及多系统代谢关联,包括肝脏代谢、肾脏-代谢联系、肠道-代谢轴和认知-代谢联系",
+      "total_articles": 27,
+      "source_batches": [
+        1
+      ]
+    },
+    {
+      "core_name": "monitoring-diagnosis",
+      "description": "健康监测和疾病诊断,包括实验室检测、诊断技术、数据解读、症状识别和早期预警信号",
+      "total_articles": 26,
+      "source_batches": [
+        2
+      ]
+    },
+    {
+      "core_name": "natural-remedies",
+      "description": "天然疗法、营养补充剂、非药物干预和功能性食品对代谢和心血管健康的影响",
+      "total_articles": 25,
+      "source_batches": [
+        1
+      ]
+    },
+    {
+      "core_name": "sleep-circadian-health",
+      "description": "睡眠与代谢健康、昼夜节律调节、光照疗法、睡眠障碍和睡眠-血糖-血压相互作用",
+      "total_articles": 24,
+      "source_batches": [
+        4
+      ]
+    },
+    {
+      "core_name": "circadian-sleep-metabolism",
+      "description": "生物节律、睡眠、昼夜周期对代谢、血压和心血管功能的影响",
+      "total_articles": 22,
+      "source_batches": [
+        3
+      ]
+    },
+    {
+      "core_name": "diabetes-glucose-management",
+      "description": "糖尿病和血糖管理的全面内容,包括风险因素、早期检测、监测技术、CGM使用、血糖控制和胰岛素管理",
+      "total_articles": 22,
+      "source_batches": [
+        4
+      ]
+    },
+    {
+      "core_name": "circadian-metabolic-health",
+      "description": "昼夜节律和睡眠对代谢、心血管健康的影响,包括节律调节、睡眠质量和时间生物学优化策略",
+      "total_articles": 17,
+      "source_batches": [
+        2
+      ]
+    },
+    {
+      "core_name": "autonomic-nervous-regulation",
+      "description": "自主神经系统调节,包括迷走神经功能、交感副交感平衡、自主功能障碍及其对心血管代谢的影响",
+      "total_articles": 15,
+      "source_batches": [
+        2
+      ]
+    },
+    {
+      "core_name": "renal-health",
+      "description": "肾脏健康保护、慢性肾病管理、肾功能监测和肾病相关代谢异常",
+      "total_articles": 15,
+      "source_batches": [
+        3
+      ]
+    },
+    {
+      "core_name": "metabolic-syndrome-management",
+      "description": "代谢综合征的预防和管理,包括多重代谢风险控制、胰岛素敏感性改善和β细胞功能保护",
+      "total_articles": 12,
+      "source_batches": [
+        2
+      ]
+    },
+    {
+      "core_name": "prevention-risk-assessment",
+      "description": "疾病预防和风险评估,包括代谢预防、冠状动脉钙化预防、早期检测、风险预测模型和血管钙化调控",
+      "total_articles": 10,
+      "source_batches": [
+        1
+      ]
+    }
+  ]
+}

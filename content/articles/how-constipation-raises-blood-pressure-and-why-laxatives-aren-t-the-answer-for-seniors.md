@@ -10,12 +10,8 @@ description: >-
   proven to reduce BP surges in constipated adults 70+.
 date: '2025-12-18'
 updated: '2025-12-18'
-tags:
-  - constipation blood pressure seniors
-  - blood pressure
-  - gut-cardiovascular-link
 primaryKeyword: constipation blood pressure seniors
-topicCluster: gut-cardiovascular-link
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70

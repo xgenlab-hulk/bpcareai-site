@@ -1,14 +1,28 @@
 ---
-title: "The Truth About 'Low-Sodium' Holiday Soups—Why 68% Still Contain Hidden MSG Derivatives That Trigger Orthostatic Hypotension in Seniors Over 72"
-slug: "the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72"
-description: "Investigates how flavor enhancers masquerading as 'natural' ingredients in ready-made holiday soups interfere with baroreflex sensitivity and cerebral perfusion in frail older adults."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["low-sodium holiday soup orthostatic risk", "healthy holiday eating for seniors", "sodium-safety-orthostasis"]
-primaryKeyword: "low-sodium holiday soup orthostatic risk"
-topicCluster: "sodium-safety-orthostasis"
-image: ""
-relatedSlugs: ["simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings", "best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk", "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid"]
+title: >-
+  The Truth About 'Low-Sodium' Holiday Soups—Why 68% Still Contain Hidden MSG
+  Derivatives That Trigger Orthostatic Hypotension in Seniors Over 72
+slug: >-
+  the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
+description: >-
+  Investigates how flavor enhancers masquerading as 'natural' ingredients in
+  ready-made holiday soups interfere with baroreflex sensitivity and cerebral
+  perfusion in frail older adults.
+date: '2025-12-29'
+updated: '2025-12-29'
+primaryKeyword: low-sodium holiday soup orthostatic risk
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
+  - >-
+    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
+  - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Understanding Low-Sodium Holiday Soup Orthostatic Risk: What Seniors Over 72 Need to Know

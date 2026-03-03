@@ -1,14 +1,30 @@
 ---
-title: "The Dangers of Overcorrecting ‘Normal’ Fasting Glucose in Adults 82+ With Mild Cognitive Impairment — Why <90 mg/dL May Increase Fall Risk and Delirium Episodes"
-slug: "the-dangers-of-overcorrecting-normal-fasting-glucose-in-adults-82-with-mild-cognitive-impairment-why-90-mg-dl-may-increase-fall-risk-and-delirium-episodes"
-description: "Challenges aggressive glycemic targets in the oldest-old, reviewing falls epidemiology, cerebral glucose transport efficiency, and the safety margin for asymptomatic hypoglycemia in neurodegenerative contexts."
-date: "2026-02-16"
-updated: "2026-02-16"
-tags: ["overcorrecting fasting glucose oldest old", "diabetes", "geriatric-glycemic-targeting"]
-primaryKeyword: "overcorrecting fasting glucose oldest old"
-topicCluster: "geriatric-glycemic-targeting"
-image: ""
-relatedSlugs: ["myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c", "10-foods-that-stabilize-post-holiday-fasting-glucose-without-lowering-it-for-adults-64-with-history-of-falls-and-hypoglycemia-associated-autonomic-failure", "a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia", "5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily", "7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities"]
+title: >-
+  The Dangers of Overcorrecting ‘Normal’ Fasting Glucose in Adults 82+ With Mild
+  Cognitive Impairment — Why <90 mg/dL May Increase Fall Risk and Delirium
+  Episodes
+slug: >-
+  the-dangers-of-overcorrecting-normal-fasting-glucose-in-adults-82-with-mild-cognitive-impairment-why-90-mg-dl-may-increase-fall-risk-and-delirium-episodes
+description: >-
+  Challenges aggressive glycemic targets in the oldest-old, reviewing falls
+  epidemiology, cerebral glucose transport efficiency, and the safety margin for
+  asymptomatic hypoglycemia in neurodegenerative contexts.
+date: '2026-02-16'
+updated: '2026-02-16'
+primaryKeyword: overcorrecting fasting glucose oldest old
+topicCluster: behavioral-mental-health
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c
+  - >-
+    10-foods-that-stabilize-post-holiday-fasting-glucose-without-lowering-it-for-adults-64-with-history-of-falls-and-hypoglycemia-associated-autonomic-failure
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia
+  - >-
+    5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily
+  - >-
+    7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities
 ---
 
 # Why Overcorrecting Fasting Glucose in the Oldest Old Raises Real Risks — Especially With Mild Cognitive Impairment

@@ -6,12 +6,8 @@ description: >-
   glucose levels—and what to do about it.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - holiday stress blood sugar seniors
-  - healthy holiday eating for seniors
-  - emotional-mental-health
 primaryKeyword: holiday stress blood sugar seniors
-topicCluster: mental-wellness
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

@@ -1,14 +1,29 @@
 ---
-title: "5 Things Everyone Over 76 Should Know About Using Blood Pressure Cuffs With Smartwatches—Especially With Atrial Fibrillation and Wrist Edema"
-slug: "5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema"
-description: "Addresses accuracy limitations, motion artifact pitfalls, and calibration drift in wearable BP tech—plus when to trust vs discard readings in arrhythmic, edematous older adults."
-date: "2026-01-10"
-updated: "2026-01-10"
-tags: ["smartwatch blood pressure accuracy seniors afib", "blood pressure", "wearable-bp-accuracy-limitations"]
-primaryKeyword: "smartwatch blood pressure accuracy seniors afib"
-topicCluster: "wearable-bp-accuracy-limitations"
-image: ""
-relatedSlugs: ["dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands", "does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension", "the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors", "warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation", "the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you"]
+title: >-
+  5 Things Everyone Over 76 Should Know About Using Blood Pressure Cuffs With
+  Smartwatches—Especially With Atrial Fibrillation and Wrist Edema
+slug: >-
+  5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
+description: >-
+  Addresses accuracy limitations, motion artifact pitfalls, and calibration
+  drift in wearable BP tech—plus when to trust vs discard readings in
+  arrhythmic, edematous older adults.
+date: '2026-01-10'
+updated: '2026-01-10'
+primaryKeyword: smartwatch blood pressure accuracy seniors afib
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+  - >-
+    does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension
+  - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
+  - >-
+    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
 ---
 
 # What Seniors Over 76 Need to Know About Smartwatch Blood Pressure Accuracy—Especially With Atrial Fibrillation and Wrist Edema

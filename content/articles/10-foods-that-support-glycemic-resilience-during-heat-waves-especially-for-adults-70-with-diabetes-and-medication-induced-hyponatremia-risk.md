@@ -9,12 +9,8 @@ description: >-
   sodium balance and prevent thermal stress–driven hyperglycemia spikes.
 date: '2026-01-03'
 updated: '2026-01-03'
-tags:
-  - heat wave glycemic resilience foods
-  - diabetes
-  - seasonal-physiology
 primaryKeyword: heat wave glycemic resilience foods
-topicCluster: seasonal-physiology
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

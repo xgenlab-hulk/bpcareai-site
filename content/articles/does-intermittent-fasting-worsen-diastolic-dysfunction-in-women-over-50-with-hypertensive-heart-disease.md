@@ -9,12 +9,8 @@ description: >-
   ventricular filling pressure changes—separating myth from mechanistic risk.
 date: '2025-12-21'
 updated: '2025-12-21'
-tags:
-  - intermittent fasting and diastolic dysfunction
-  - heart disease
-  - diet-timing-diastolic-function
 primaryKeyword: intermittent fasting and diastolic dysfunction
-topicCluster: diet-timing-diastolic-function
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

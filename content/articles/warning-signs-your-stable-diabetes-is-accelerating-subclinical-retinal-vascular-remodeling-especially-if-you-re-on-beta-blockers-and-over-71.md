@@ -10,12 +10,8 @@ description: >-
   vision loss but correlate with stroke risk.
 date: '2025-12-30'
 updated: '2025-12-30'
-tags:
-  - subclinical retinal remodeling diabetes beta-blockers
-  - diabetes
-  - early-retinal-damage
 primaryKeyword: subclinical retinal remodeling diabetes beta-blockers
-topicCluster: early-retinal-damage
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - how-vision-changes-might-be-linked-to-heart-disease

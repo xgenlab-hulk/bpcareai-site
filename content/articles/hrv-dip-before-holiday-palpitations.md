@@ -1,14 +1,30 @@
 ---
-title: "When to Suspect Holiday Heart Syndrome *Before* the First Palpitation — Early HRV Dips During Family Video Calls in Adults 55–60 With Prehypertensive Nighttime BP Non-Dipping"
-slug: "when-to-suspect-holiday-heart-syndrome-before-the-first-palpitation-early-hrv-dips-during-family-video-calls-in-adults-55-60-with-prehypertensive-nighttime-bp-non-dipping"
-description: "Introduces a novel, non-invasive pre-symptomatic red flag: acute vagal withdrawal during emotionally charged virtual interactions — validated via wearable HRV tracking in early-stage hypertension."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["HRV dip before holiday palpitations", "holiday heart syndrome prevention", "pre-symptomatic-biomarker-monitoring"]
-primaryKeyword: "HRV dip before holiday palpitations"
-topicCluster: "pre-symptomatic-biomarker-monitoring"
-image: ""
-relatedSlugs: ["7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging", "best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs", "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve", "can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history", "best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt"]
+title: >-
+  When to Suspect Holiday Heart Syndrome *Before* the First Palpitation — Early
+  HRV Dips During Family Video Calls in Adults 55–60 With Prehypertensive
+  Nighttime BP Non-Dipping
+slug: >-
+  when-to-suspect-holiday-heart-syndrome-before-the-first-palpitation-early-hrv-dips-during-family-video-calls-in-adults-55-60-with-prehypertensive-nighttime-bp-non-dipping
+description: >-
+  Introduces a novel, non-invasive pre-symptomatic red flag: acute vagal
+  withdrawal during emotionally charged virtual interactions — validated via
+  wearable HRV tracking in early-stage hypertension.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: HRV dip before holiday palpitations
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
+  - >-
+    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+  - >-
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
+  - >-
+    best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
 ---
 
 # Spotting the HRV Dip Before Holiday Palpitations — A Quiet Early Warning for Adults 55–60

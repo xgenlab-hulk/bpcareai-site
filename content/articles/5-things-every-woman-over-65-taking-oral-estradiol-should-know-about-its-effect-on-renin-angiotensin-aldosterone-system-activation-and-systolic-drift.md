@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Woman Over 65 Taking Oral Estradiol Should Know About Its Effect on Renin–Angiotensin–Aldosterone System Activation and Systolic Drift"
-slug: "5-things-every-woman-over-65-taking-oral-estradiol-should-know-about-its-effect-on-renin-angiotensin-aldosterone-system-activation-and-systolic-drift"
-description: "Breaks down hormone-replacement–induced RAAS modulation, fluid retention patterns, and longitudinal BP trends in postmenopausal women on transdermal vs. oral estrogen."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["oral estradiol and systolic blood pressure drift", "blood pressure", "hormone-therapy-raas-impact"]
-primaryKeyword: "oral estradiol and systolic blood pressure drift"
-topicCluster: "hormone-therapy-raas-impact"
-image: ""
-relatedSlugs: ["5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension", "12-things-every-woman-over-72-should-know-about-nocturnal-hypertension-especially-after-bilateral-oophorectomy-and-long-term-aromatase-inhibitor-use", "5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge", "7-hidden-stressors-that-elevate-nighttime-systolic-pressure-in-women-over-68-even-with-normal-daytime-readings", "what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine"]
+title: >-
+  5 Things Every Woman Over 65 Taking Oral Estradiol Should Know About Its
+  Effect on Renin–Angiotensin–Aldosterone System Activation and Systolic Drift
+slug: >-
+  5-things-every-woman-over-65-taking-oral-estradiol-should-know-about-its-effect-on-renin-angiotensin-aldosterone-system-activation-and-systolic-drift
+description: >-
+  Breaks down hormone-replacement–induced RAAS modulation, fluid retention
+  patterns, and longitudinal BP trends in postmenopausal women on transdermal
+  vs. oral estrogen.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: oral estradiol and systolic blood pressure drift
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
+  - >-
+    12-things-every-woman-over-72-should-know-about-nocturnal-hypertension-especially-after-bilateral-oophorectomy-and-long-term-aromatase-inhibitor-use
+  - >-
+    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
+  - >-
+    7-hidden-stressors-that-elevate-nighttime-systolic-pressure-in-women-over-68-even-with-normal-daytime-readings
+  - >-
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
 ---
 
 # What Women Over 65 on Oral Estradiol Should Know About Oral Estradiol and Systolic Blood Pressure Drift

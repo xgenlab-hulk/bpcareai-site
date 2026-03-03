@@ -6,12 +6,8 @@ description: >-
   techniques to manage acute palpitations.
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - calm racing heart holiday
-  - holiday heart syndrome prevention
-  - acute-management
 primaryKeyword: calm racing heart holiday
-topicCluster: symptoms-emergencies
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - simple-steps-to-monitor-your-heart-health-during-the-holiday-season

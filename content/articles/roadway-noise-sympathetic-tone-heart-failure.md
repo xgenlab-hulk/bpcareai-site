@@ -1,14 +1,30 @@
 ---
-title: "How Chronic Exposure to Urban Roadway Noise >55 dB Increases Nighttime Sympathetic Tone — And Predicts New-Onset Heart Failure in Adults 64+ With Borderline Hypertension"
-slug: "how-chronic-exposure-to-urban-roadway-noise-55-db-increases-nighttime-sympathetic-tone-and-predicts-new-onset-heart-failure-in-adults-64-with-borderline-hypertension"
-description: "Presents longitudinal data linking residential noise exposure to HRV metrics (LF/HF ratio), nocturnal BP non-dipping, and incident HF — with mitigation strategies shown to reverse trends."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["roadway noise sympathetic tone heart failure", "heart disease", "environmental-cardiovascular-risk"]
-primaryKeyword: "roadway noise sympathetic tone heart failure"
-topicCluster: "environmental-cardiovascular-risk"
-image: ""
-relatedSlugs: ["how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises", "how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension", "warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines", "how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension", "how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd"]
+title: >-
+  How Chronic Exposure to Urban Roadway Noise >55 dB Increases Nighttime
+  Sympathetic Tone — And Predicts New-Onset Heart Failure in Adults 64+ With
+  Borderline Hypertension
+slug: >-
+  how-chronic-exposure-to-urban-roadway-noise-55-db-increases-nighttime-sympathetic-tone-and-predicts-new-onset-heart-failure-in-adults-64-with-borderline-hypertension
+description: >-
+  Presents longitudinal data linking residential noise exposure to HRV metrics
+  (LF/HF ratio), nocturnal BP non-dipping, and incident HF — with mitigation
+  strategies shown to reverse trends.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: roadway noise sympathetic tone heart failure
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - >-
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
+  - >-
+    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
+  - >-
+    warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines
+  - >-
+    how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension
+  - >-
+    how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
 ---
 
 # How Urban Roadway Noise Elevates Nighttime Sympathetic Tone — And Raises Heart Failure Risk in Older Adults With Borderline Hypertension

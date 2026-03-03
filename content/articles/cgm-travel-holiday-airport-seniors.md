@@ -1,14 +1,30 @@
 ---
-title: "5 Things Everyone Over 68 Should Know About Using Continuous Glucose Monitors During Holiday Travel — Especially With Airport Body Scanners and Cabin Pressure Changes"
-slug: "5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes"
-description: "Covers sensor adhesion failure in dry cabin air, false hypo alerts triggered by TSA millimeter-wave scanners, and calibration drift during rapid altitude shifts—plus practical mitigation steps validated in 122 cross-country travelers."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["cgm travel holiday airport seniors", "holiday diabetes management", "monitoring-technology-practicality"]
-primaryKeyword: "cgm travel holiday airport seniors"
-topicCluster: "monitoring-technology-practicality"
-image: ""
-relatedSlugs: ["can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures", "5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes", "top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season", "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes", "the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79"]
+title: >-
+  5 Things Everyone Over 68 Should Know About Using Continuous Glucose Monitors
+  During Holiday Travel — Especially With Airport Body Scanners and Cabin
+  Pressure Changes
+slug: >-
+  5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
+description: >-
+  Covers sensor adhesion failure in dry cabin air, false hypo alerts triggered
+  by TSA millimeter-wave scanners, and calibration drift during rapid altitude
+  shifts—plus practical mitigation steps validated in 122 cross-country
+  travelers.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: cgm travel holiday airport seniors
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
+  - >-
+    5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes
+  - >-
+    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
+  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+  - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
 ---
 
 # What Every Senior Should Know About CGM Travel Holiday Airport Seniors — Practical Tips for Stress-Free Holidays

@@ -6,12 +6,8 @@ description: >-
   reduce cardiovascular stress.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - deep breathing exercises for heart health
-  - heart health
-  - hypertension-lifestyle
 primaryKeyword: deep breathing exercises for heart health
-topicCluster: hypertension-management
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - can-strength-training-lower-heart-disease-risk-after-60

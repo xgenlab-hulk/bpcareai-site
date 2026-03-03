@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Daily 12-Minute Seated Resistance Band Routine vs. 25-Minute Brisk Walking — Impact on Pulse Wave Velocity in Adults 65+ With Arterial Stiffness"
-slug: "a-vs-b-daily-12-minute-seated-resistance-band-routine-vs-25-minute-brisk-walking-impact-on-pulse-wave-velocity-in-adults-65-with-arterial-stiffness"
-description: "Compares vascular elasticity outcomes from low-impact strength training versus aerobic walking in sedentary older adults with confirmed aortic pulse wave velocity >10 m/s."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["resistance band vs walking arterial stiffness", "heart health", "exercise-modality-vascular-elasticity"]
-primaryKeyword: "resistance band vs walking arterial stiffness"
-topicCluster: "exercise-modality-vascular-elasticity"
-image: ""
-relatedSlugs: ["best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension", "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats", "what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension", "simple-steps-to-reduce-aortic-pulse-wave-velocity-using-only-a-blood-pressure-cuff-a-smartphone-mic-and-your-evening-walk-for-adults-65-with-isolated-systolic-hypertension", "can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71"]
+title: >-
+  A vs B: Daily 12-Minute Seated Resistance Band Routine vs. 25-Minute Brisk
+  Walking — Impact on Pulse Wave Velocity in Adults 65+ With Arterial Stiffness
+slug: >-
+  a-vs-b-daily-12-minute-seated-resistance-band-routine-vs-25-minute-brisk-walking-impact-on-pulse-wave-velocity-in-adults-65-with-arterial-stiffness
+description: >-
+  Compares vascular elasticity outcomes from low-impact strength training versus
+  aerobic walking in sedentary older adults with confirmed aortic pulse wave
+  velocity >10 m/s.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: resistance band vs walking arterial stiffness
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - >-
+    what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
+  - >-
+    simple-steps-to-reduce-aortic-pulse-wave-velocity-using-only-a-blood-pressure-cuff-a-smartphone-mic-and-your-evening-walk-for-adults-65-with-isolated-systolic-hypertension
+  - >-
+    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
 ---
 
 # Resistance Band vs Walking Arterial Stiffness: Comparing 12-Minute Seated Strength and 25-Minute Walking for Vascular Elasticity in Adults 65+

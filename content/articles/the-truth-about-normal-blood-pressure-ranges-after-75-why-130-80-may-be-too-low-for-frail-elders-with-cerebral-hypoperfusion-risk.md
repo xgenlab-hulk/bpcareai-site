@@ -1,14 +1,29 @@
 ---
-title: "The Truth About ‘Normal’ Blood Pressure Ranges After 75: Why 130/80 May Be Too Low for Frail Elders with Cerebral Hypoperfusion Risk"
-slug: "the-truth-about-normal-blood-pressure-ranges-after-75-why-130-80-may-be-too-low-for-frail-elders-with-cerebral-hypoperfusion-risk"
-description: "Challenges current guideline targets using data from SPRINT-SEP and HYVET subanalyses, offering individualized BP goals based on gait speed, orthostatic testing, and white matter hyperintensity burden."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["blood pressure targets after 75 frail elders", "blood pressure", "treatment-options"]
-primaryKeyword: "blood pressure targets after 75 frail elders"
-topicCluster: "treatment-options"
-image: ""
-relatedSlugs: ["can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75", "the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance", "a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79", "what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery", "why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70"]
+title: >-
+  The Truth About ‘Normal’ Blood Pressure Ranges After 75: Why 130/80 May Be Too
+  Low for Frail Elders with Cerebral Hypoperfusion Risk
+slug: >-
+  the-truth-about-normal-blood-pressure-ranges-after-75-why-130-80-may-be-too-low-for-frail-elders-with-cerebral-hypoperfusion-risk
+description: >-
+  Challenges current guideline targets using data from SPRINT-SEP and HYVET
+  subanalyses, offering individualized BP goals based on gait speed, orthostatic
+  testing, and white matter hyperintensity burden.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: blood pressure targets after 75 frail elders
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
+  - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
+  - >-
+    what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
+  - >-
+    why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
 ---
 
 # Rethinking Blood Pressure Targets After 75: Why “Normal” Isn’t One-Size-Fits-All for Frail Elders

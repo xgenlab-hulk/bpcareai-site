@@ -1,14 +1,20 @@
 ---
-title: "How Family Gatherings Affect Blood Sugar in Men Over 60 with Diabetes"
-slug: "how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes"
-description: "Looks at social dynamics, portion pressure, and emotional triggers that uniquely impact glucose control in older men."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["family gatherings blood sugar men over 60", "managing blood sugar during Christmas and New Year", "gender-specific-concerns"]
-primaryKeyword: "family gatherings blood sugar men over 60"
-topicCluster: "gender-specific-concerns"
-image: ""
-relatedSlugs: ["the-link-between-holiday-stress-and-blood-sugar-spikes-after-50", "why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope", "how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes", "how-stress-affects-blood-sugar-in-people-with-diabetes-over-50", "7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes"]
+title: How Family Gatherings Affect Blood Sugar in Men Over 60 with Diabetes
+slug: how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
+description: >-
+  Looks at social dynamics, portion pressure, and emotional triggers that
+  uniquely impact glucose control in older men.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: family gatherings blood sugar men over 60
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
+  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
+  - how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
+  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 
 # Why Family Gatherings Blood Sugar Matters for Men Over 60 with Diabetes

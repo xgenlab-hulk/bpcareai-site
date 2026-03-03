@@ -6,12 +6,8 @@ description: >-
   50.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - alcohol consumption and heart disease after 50
-  - heart disease
-  - hypertension-lifestyle
 primaryKeyword: alcohol consumption and heart disease after 50
-topicCluster: hypertension-management
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - the-truth-about-alcohol-and-heart-health-after-55

@@ -10,12 +10,8 @@ description: >-
   with verified cardiac device compatibility reports.
 date: '2026-01-10'
 updated: '2026-01-10'
-tags:
-  - cgm pacemaker safety over 75
-  - diabetes
-  - medical-device-safety
 primaryKeyword: cgm pacemaker safety over 75
-topicCluster: medical-device-safety
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

@@ -10,12 +10,8 @@ description: >-
   and vagal tone–enhancing practices shown to suppress plasma renin activity.
 date: '2025-12-24'
 updated: '2025-12-24'
-tags:
-  - renin angiotensin balance natural alternatives
-  - blood pressure
-  - ras-modulation-natural
 primaryKeyword: renin angiotensin balance natural alternatives
-topicCluster: ras-modulation-natural
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-

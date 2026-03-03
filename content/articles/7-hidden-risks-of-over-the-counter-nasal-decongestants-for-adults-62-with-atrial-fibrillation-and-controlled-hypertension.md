@@ -1,14 +1,28 @@
 ---
-title: "7 Hidden Risks of Over-the-Counter Nasal Decongestants for Adults 62+ With Atrial Fibrillation and Controlled Hypertension"
-slug: "7-hidden-risks-of-over-the-counter-nasal-decongestants-for-adults-62-with-atrial-fibrillation-and-controlled-hypertension"
-description: "Details sympathomimetic-induced QT prolongation, nocturnal arrhythmia burden spikes, and rebound endothelial dysfunction—beyond standard BP warnings."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["nasal decongestants atrial fibrillation seniors", "heart health", "otc-medication-cardiac-risks"]
-primaryKeyword: "nasal decongestants atrial fibrillation seniors"
-topicCluster: "otc-medication-cardiac-risks"
-image: ""
-relatedSlugs: ["7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension", "the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60", "how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension", "7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants", "dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation"]
+title: >-
+  7 Hidden Risks of Over-the-Counter Nasal Decongestants for Adults 62+ With
+  Atrial Fibrillation and Controlled Hypertension
+slug: >-
+  7-hidden-risks-of-over-the-counter-nasal-decongestants-for-adults-62-with-atrial-fibrillation-and-controlled-hypertension
+description: >-
+  Details sympathomimetic-induced QT prolongation, nocturnal arrhythmia burden
+  spikes, and rebound endothelial dysfunction—beyond standard BP warnings.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: nasal decongestants atrial fibrillation seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
+  - >-
+    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation
 ---
 
 # What Seniors With Atrial Fibrillation Should Know About Nasal Decongestants—and Why “Just One Dose” Isn’t Always Safe  

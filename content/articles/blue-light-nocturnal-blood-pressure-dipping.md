@@ -1,14 +1,30 @@
 ---
-title: "How Chronic Exposure to Blue Light From Smart Home Displays Disrupts Melatonin-Mediated Nocturnal BP Dipping in Adults 70+ With Mild Cognitive Impairment"
-slug: "how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment"
-description: "Links evening spectral light exposure (particularly 470–490 nm), suppressed dim-light melatonin onset, and loss of circadian BP rhythm — with actigraphy and ABPM data from the LIGHT-HEART Trial."
-date: "2026-02-04"
-updated: "2026-02-04"
-tags: ["blue light nocturnal blood pressure dipping", "blood pressure", "circadian-light-physiology"]
-primaryKeyword: "blue light nocturnal blood pressure dipping"
-topicCluster: "circadian-light-physiology"
-image: ""
-relatedSlugs: ["can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern", "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension", "simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia", "how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints"]
+title: >-
+  How Chronic Exposure to Blue Light From Smart Home Displays Disrupts
+  Melatonin-Mediated Nocturnal BP Dipping in Adults 70+ With Mild Cognitive
+  Impairment
+slug: >-
+  how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment
+description: >-
+  Links evening spectral light exposure (particularly 470–490 nm), suppressed
+  dim-light melatonin onset, and loss of circadian BP rhythm — with actigraphy
+  and ABPM data from the LIGHT-HEART Trial.
+date: '2026-02-04'
+updated: '2026-02-04'
+primaryKeyword: blue light nocturnal blood pressure dipping
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern
+  - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+  - >-
+    simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
+  - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # How Evening Blue Light Affects Nocturnal Blood Pressure Dipping in Older Adults With Mild Cognitive Impairment

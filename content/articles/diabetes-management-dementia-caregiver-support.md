@@ -1,14 +1,30 @@
 ---
-title: "The Complete Guide to Managing Diabetes While Caring for a Spouse With Late-Stage Dementia — Practical Strategies for Adults 72+ With Limited Caregiver Support"
-slug: "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support"
-description: "Addresses insulin administration logistics, hypoglycemia emergency planning, meal prep delegation, and cognitive load management during dual chronic disease caregiving."
-date: "2026-02-08"
-updated: "2026-02-08"
-tags: ["diabetes management dementia caregiver support", "diabetes", "dual-chronic-disease-caregiving"]
-primaryKeyword: "diabetes management dementia caregiver support"
-topicCluster: "dual-chronic-disease-caregiving"
-image: ""
-relatedSlugs: ["the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout", "the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction", "the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations", "10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit", "5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy"]
+title: >-
+  The Complete Guide to Managing Diabetes While Caring for a Spouse With
+  Late-Stage Dementia — Practical Strategies for Adults 72+ With Limited
+  Caregiver Support
+slug: >-
+  the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support
+description: >-
+  Addresses insulin administration logistics, hypoglycemia emergency planning,
+  meal prep delegation, and cognitive load management during dual chronic
+  disease caregiving.
+date: '2026-02-08'
+updated: '2026-02-08'
+primaryKeyword: diabetes management dementia caregiver support
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
+  - >-
+    the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
+  - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
+  - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+  - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
 ---
 
 # Practical Diabetes Management and Dementia Caregiver Support for Adults 72+ With Limited Help

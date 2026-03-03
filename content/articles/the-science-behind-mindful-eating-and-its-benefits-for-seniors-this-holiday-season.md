@@ -9,12 +9,8 @@ description: >-
   digestion, satiety, and blood sugar control in older adults.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - science of mindful eating seniors holidays
-  - healthy holiday eating for seniors
-  - behavioral-nutrition
 primaryKeyword: science of mindful eating seniors holidays
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners

@@ -1,14 +1,27 @@
 ---
-title: "5 Natural Light Therapy Alternatives for Seniors With Macular Degeneration or Cataracts Who Can’t Use Standard SAD Lamps"
-slug: "5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps"
-description: "Evidence-based, eye-safe options—including dawn-simulating alarms, blue-enriched morning lighting, and timed outdoor exposure protocols—designed for older adults with visual impairment."
-date: "2025-12-28"
-updated: "2025-12-28"
-tags: ["light therapy alternatives for seniors with vision loss", "seasonal depression in older adults", "non-photic-interventions-vision-impaired"]
-primaryKeyword: "light therapy alternatives for seniors with vision loss"
-topicCluster: "non-photic-interventions-vision-impaired"
-image: ""
-relatedSlugs: ["top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors", "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension", "a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome", "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65", "how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood"]
+title: >-
+  5 Natural Light Therapy Alternatives for Seniors With Macular Degeneration or
+  Cataracts Who Can’t Use Standard SAD Lamps
+slug: >-
+  5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
+description: >-
+  Evidence-based, eye-safe options—including dawn-simulating alarms,
+  blue-enriched morning lighting, and timed outdoor exposure protocols—designed
+  for older adults with visual impairment.
+date: '2025-12-28'
+updated: '2025-12-28'
+primaryKeyword: light therapy alternatives for seniors with vision loss
+topicCluster: natural-remedies
+image: ''
+relatedSlugs:
+  - top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
+  - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+  - >-
+    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
+  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
+  - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
 ---
 
 # Safe & Effective Light Therapy Alternatives for Seniors With Vision Loss

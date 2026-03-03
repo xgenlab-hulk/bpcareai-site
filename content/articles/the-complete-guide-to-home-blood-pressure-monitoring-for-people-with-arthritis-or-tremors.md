@@ -10,12 +10,8 @@ description: >-
   dexterity or Parkinson’s-related tremors.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - home blood pressure monitoring arthritis
-  - blood pressure
-  - monitoring-accessibility
 primaryKeyword: home blood pressure monitoring arthritis
-topicCluster: health-monitoring
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide

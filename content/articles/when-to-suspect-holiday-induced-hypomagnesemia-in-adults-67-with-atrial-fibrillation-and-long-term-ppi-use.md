@@ -1,14 +1,28 @@
 ---
-title: "When to Suspect Holiday-Induced Hypomagnesemia in Adults 67+ With Atrial Fibrillation and Long-Term PPI Use"
-slug: "when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use"
-description: "Links festive high-carb meals, alcohol, and proton-pump inhibitors to magnesium depletion—and explains why QTc widening may not appear on ECG until magnesium falls below 1.4 mg/dL."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["hypomagnesemia holiday atrial fibrillation seniors", "healthy holiday eating for seniors", "electrolyte-afib-pi-interaction"]
-primaryKeyword: "hypomagnesemia holiday atrial fibrillation seniors"
-topicCluster: "electrolyte-afib-pi-interaction"
-image: ""
-relatedSlugs: ["the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias", "does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd", "warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term", "5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter", "how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns"]
+title: >-
+  When to Suspect Holiday-Induced Hypomagnesemia in Adults 67+ With Atrial
+  Fibrillation and Long-Term PPI Use
+slug: >-
+  when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
+description: >-
+  Links festive high-carb meals, alcohol, and proton-pump inhibitors to
+  magnesium depletion—and explains why QTc widening may not appear on ECG until
+  magnesium falls below 1.4 mg/dL.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: hypomagnesemia holiday atrial fibrillation seniors
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
+  - >-
+    does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
+  - >-
+    warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
+  - >-
+    5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
+  - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
 ---
 
 # Recognizing Holiday-Induced Hypomagnesemia in Seniors with Atrial Fibrillation and Long-Term PPI Use

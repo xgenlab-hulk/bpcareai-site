@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Gluten-Free Holiday Cookies vs. Low-Glycemic Oat-Based Bars for Post-Meal Glucose Stability in Adults 71+ With Celiac-Associated Diabetes"
-slug: "a-vs-b-gluten-free-holiday-cookies-vs-low-glycemic-oat-based-bars-for-post-meal-glucose-stability-in-adults-71-with-celiac-associated-diabetes"
-description: "Directly compares two popular 'healthier' holiday snack options using continuous glucose monitoring (CGM) data from older adults with dual diagnoses, factoring in fiber solubility, starch retrogradation, and gastric emptying time."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["gluten-free cookies vs oat bars diabetes", "holiday diabetes management", "diabetic-snack-comparison"]
-primaryKeyword: "gluten-free cookies vs oat bars diabetes"
-topicCluster: "diabetic-snack-comparison"
-image: ""
-relatedSlugs: ["the-truth-about-diabetes-friendly-holiday-cookie-kits-why-92-fail-postprandial-glucose-clamp-testing-in-adults-63-with-gastroparesis-like-symptoms", "the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose", "the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60", "the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue"]
+title: >-
+  A vs B: Gluten-Free Holiday Cookies vs. Low-Glycemic Oat-Based Bars for
+  Post-Meal Glucose Stability in Adults 71+ With Celiac-Associated Diabetes
+slug: >-
+  a-vs-b-gluten-free-holiday-cookies-vs-low-glycemic-oat-based-bars-for-post-meal-glucose-stability-in-adults-71-with-celiac-associated-diabetes
+description: >-
+  Directly compares two popular 'healthier' holiday snack options using
+  continuous glucose monitoring (CGM) data from older adults with dual
+  diagnoses, factoring in fiber solubility, starch retrogradation, and gastric
+  emptying time.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: gluten-free cookies vs oat bars diabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-diabetes-friendly-holiday-cookie-kits-why-92-fail-postprandial-glucose-clamp-testing-in-adults-63-with-gastroparesis-like-symptoms
+  - >-
+    the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose
+  - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
+  - >-
+    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
 ---
 
 # Gluten-Free Cookies vs Oat Bars Diabetes: What CGM Data Reveals for Older Adults with Celiac-Associated Diabetes

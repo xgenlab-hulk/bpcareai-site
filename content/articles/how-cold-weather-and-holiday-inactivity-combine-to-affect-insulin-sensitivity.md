@@ -6,12 +6,8 @@ description: >-
   insulin response in older diabetics.
 date: '2025-11-30'
 updated: '2025-11-30'
-tags:
-  - cold weather insulin sensitivity seniors
-  - holiday diabetes management
-  - seasonal-physiological-effects
 primaryKeyword: cold weather insulin sensitivity seniors
-topicCluster: seasonal-health
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - how-cold-weather-affects-blood-sugar-in-people-with-diabetes

@@ -1,14 +1,31 @@
 ---
-title: "Natural Ways to Support Gastric Acid Secretion During Family Meals — Without Supplements or PPIs, For Adults 66–78 With Age-Related Hypochlorhydria and Frequent Bloating"
-slug: "natural-ways-to-support-gastric-acid-secretion-during-family-meals-without-supplements-or-ppis-for-adults-66-78-with-age-related-hypochlorhydria-and-frequent-bloating"
-description: "Details meal-context strategies — including bitter food sequencing, chewing tempo, temperature cues, and endogenous gastrin triggers — to optimize digestion and nutrient absorption in older adults experiencing silent acid deficiency."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["support gastric acid secretion family meals", "healthy eating during family gatherings", "digestive-physiology-optimization"]
-primaryKeyword: "support gastric acid secretion family meals"
-topicCluster: "digestive-physiology-optimization"
-image: ""
-relatedSlugs: ["natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria", "natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios", "how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65", "natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements", "12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia"]
+title: >-
+  Natural Ways to Support Gastric Acid Secretion During Family Meals — Without
+  Supplements or PPIs, For Adults 66–78 With Age-Related Hypochlorhydria and
+  Frequent Bloating
+slug: >-
+  natural-ways-to-support-gastric-acid-secretion-during-family-meals-without-supplements-or-ppis-for-adults-66-78-with-age-related-hypochlorhydria-and-frequent-bloating
+description: >-
+  Details meal-context strategies — including bitter food sequencing, chewing
+  tempo, temperature cues, and endogenous gastrin triggers — to optimize
+  digestion and nutrient absorption in older adults experiencing silent acid
+  deficiency.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: support gastric acid secretion family meals
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
+  - >-
+    natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
+  - >-
+    how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
+  - >-
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
+  - >-
+    12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia
 ---
 
 # Gentle, Mealtime Ways to Support Gastric Acid Secretion During Family Meals — Especially After 65

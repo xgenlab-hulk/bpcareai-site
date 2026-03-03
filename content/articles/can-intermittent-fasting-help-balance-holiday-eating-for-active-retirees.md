@@ -6,12 +6,8 @@ description: >-
   health-conscious seniors trying to offset seasonal indulgence.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - intermittent fasting holiday eating seniors
-  - healthy holiday eating for seniors
-  - lifestyle-modifications
 primaryKeyword: intermittent fasting holiday eating seniors
-topicCluster: lifestyle-changes
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60

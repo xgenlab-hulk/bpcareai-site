@@ -8,12 +8,8 @@ description: >-
   syndrome and practical ways to enjoy festivities safely.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - holiday heart syndrome triggers
-  - holiday heart syndrome prevention
-  - lifestyle-modifications
 primaryKeyword: holiday heart syndrome triggers
-topicCluster: lifestyle-changes
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome

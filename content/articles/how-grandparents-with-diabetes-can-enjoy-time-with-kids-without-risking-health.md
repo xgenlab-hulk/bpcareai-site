@@ -6,12 +6,8 @@ description: >-
   traditions while staying safe.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - grandparents diabetes holiday safety
-  - holiday diabetes management
-  - family-role-health-balance
 primaryKeyword: grandparents diabetes holiday safety
-topicCluster: social-environmental
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

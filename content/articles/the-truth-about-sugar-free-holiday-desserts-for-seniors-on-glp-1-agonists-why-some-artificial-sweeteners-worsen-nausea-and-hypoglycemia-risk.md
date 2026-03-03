@@ -1,14 +1,28 @@
 ---
-title: "The Truth About ‘Sugar-Free’ Holiday Desserts for Seniors on GLP-1 Agonists — Why Some Artificial Sweeteners Worsen Nausea and Hypoglycemia Risk"
-slug: "the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk"
-description: "Breaks down how common sugar alcohols and non-nutritive sweeteners interact with incretin-based medications in older adults, causing GI distress and unexpected glucose drops."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["sugar-free desserts glp-1 seniors", "healthy holiday eating for seniors", "medication-food-interactions"]
-primaryKeyword: "sugar-free desserts glp-1 seniors"
-topicCluster: "medication-food-interactions"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors", "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose", "the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76"]
+title: >-
+  The Truth About ‘Sugar-Free’ Holiday Desserts for Seniors on GLP-1 Agonists —
+  Why Some Artificial Sweeteners Worsen Nausea and Hypoglycemia Risk
+slug: >-
+  the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
+description: >-
+  Breaks down how common sugar alcohols and non-nutritive sweeteners interact
+  with incretin-based medications in older adults, causing GI distress and
+  unexpected glucose drops.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: sugar-free desserts glp-1 seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
+  - >-
+    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # What You Should Know About Sugar-Free Desserts, GLP-1 Medications, and Holiday Eating for Seniors

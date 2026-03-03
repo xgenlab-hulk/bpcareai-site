@@ -1,14 +1,30 @@
 ---
-title: "10 Things Everyone Over 65 Should Know About Managing Diabetes *While Caring for a Spouse With Dementia* — Medication Safety, Meal Coordination, and Emergency Preparedness"
-slug: "10-things-everyone-over-65-should-know-about-managing-diabetes-while-caring-for-a-spouse-with-dementia-medication-safety-meal-coordination-and-emergency-preparedness"
-description: "Covers caregiver-specific risks: insulin administration errors during sundowning, overlapping food prep challenges, hypoglycemia recognition in cognitively impaired partners, and dual-emergency alert system setup."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["diabetes management dementia caregiver", "holiday diabetes management", "caregiver-diabetes-strategy"]
-primaryKeyword: "diabetes management dementia caregiver"
-topicCluster: "caregiver-diabetes-strategy"
-image: ""
-relatedSlugs: ["the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support", "the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction", "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout", "5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy", "10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit"]
+title: >-
+  10 Things Everyone Over 65 Should Know About Managing Diabetes *While Caring
+  for a Spouse With Dementia* — Medication Safety, Meal Coordination, and
+  Emergency Preparedness
+slug: >-
+  10-things-everyone-over-65-should-know-about-managing-diabetes-while-caring-for-a-spouse-with-dementia-medication-safety-meal-coordination-and-emergency-preparedness
+description: >-
+  Covers caregiver-specific risks: insulin administration errors during
+  sundowning, overlapping food prep challenges, hypoglycemia recognition in
+  cognitively impaired partners, and dual-emergency alert system setup.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: diabetes management dementia caregiver
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support
+  - >-
+    the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
+  - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+  - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
 ---
 
 # Smart Diabetes Management for Caregivers: What Everyone Over 65 Needs to Know When Caring for a Spouse With Dementia

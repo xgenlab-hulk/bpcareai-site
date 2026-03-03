@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Evening 60-Minute Seated Cycling vs. Morning 20-Minute Resistance Band Routine for Improving 24-Hour BP Variability in Adults 60–73 With Isolated Systolic Hypertension"
-slug: "a-vs-b-evening-60-minute-seated-cycling-vs-morning-20-minute-resistance-band-routine-for-improving-24-hour-bp-variability-in-adults-60-73-with-isolated-systolic-hypertension"
-description: "Compares time-of-day-specific exercise modalities on ambulatory BP metrics — focusing on sympathetic tone modulation, baroreflex sensitivity, and pulse pressure narrowing."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["exercise timing blood pressure variability", "blood pressure", "exercise-timing-comparison"]
-primaryKeyword: "exercise timing blood pressure variability"
-topicCluster: "exercise-timing-comparison"
-image: ""
-relatedSlugs: ["can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea", "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension", "12-science-backed-ways-to-restore-normal-bp-variability-not-just-lower-average-bp-in-adults-58-74-with-diabetes-and-elevated-sdnn-on-24-hour-holter-monitoring", "does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown", "can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension"]
+title: >-
+  A vs B: Evening 60-Minute Seated Cycling vs. Morning 20-Minute Resistance Band
+  Routine for Improving 24-Hour BP Variability in Adults 60–73 With Isolated
+  Systolic Hypertension
+slug: >-
+  a-vs-b-evening-60-minute-seated-cycling-vs-morning-20-minute-resistance-band-routine-for-improving-24-hour-bp-variability-in-adults-60-73-with-isolated-systolic-hypertension
+description: >-
+  Compares time-of-day-specific exercise modalities on ambulatory BP metrics —
+  focusing on sympathetic tone modulation, baroreflex sensitivity, and pulse
+  pressure narrowing.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: exercise timing blood pressure variability
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+  - >-
+    12-science-backed-ways-to-restore-normal-bp-variability-not-just-lower-average-bp-in-adults-58-74-with-diabetes-and-elevated-sdnn-on-24-hour-holter-monitoring
+  - >-
+    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
+  - >-
+    can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension
 ---
 
 # Evening Cycling vs. Morning Resistance Bands: How Exercise Timing Affects Blood Pressure Variability in Adults 60–73 With Isolated Systolic Hypertension

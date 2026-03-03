@@ -1,14 +1,30 @@
 ---
-title: "5 Foods That Lower Central Aortic Systolic Pressure *Without* Reducing Brachial Diastolic — For Adults 70+ With Wide Pulse Pressure and Mild Cognitive Impairment"
-slug: "5-foods-that-lower-central-aortic-systolic-pressure-without-reducing-brachial-diastolic-for-adults-70-with-wide-pulse-pressure-and-mild-cognitive-impairment"
-description: "Highlights dietary compounds (e.g., specific anthocyanin profiles, omega-3 phospholipids) that selectively improve central wave reflection without peripheral vasodilation."
-date: "2026-02-13"
-updated: "2026-02-13"
-tags: ["central aortic pressure foods wide pulse pressure", "blood pressure", "central-hemodynamic-nutrition"]
-primaryKeyword: "central aortic pressure foods wide pulse pressure"
-topicCluster: "central-hemodynamic-nutrition"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function", "10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data", "10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis", "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness", "12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings"]
+title: >-
+  5 Foods That Lower Central Aortic Systolic Pressure *Without* Reducing
+  Brachial Diastolic — For Adults 70+ With Wide Pulse Pressure and Mild
+  Cognitive Impairment
+slug: >-
+  5-foods-that-lower-central-aortic-systolic-pressure-without-reducing-brachial-diastolic-for-adults-70-with-wide-pulse-pressure-and-mild-cognitive-impairment
+description: >-
+  Highlights dietary compounds (e.g., specific anthocyanin profiles, omega-3
+  phospholipids) that selectively improve central wave reflection without
+  peripheral vasodilation.
+date: '2026-02-13'
+updated: '2026-02-13'
+primaryKeyword: central aortic pressure foods wide pulse pressure
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
+  - >-
+    10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data
+  - >-
+    10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
+  - >-
+    12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings
 ---
 
 # 5 Foods That Support Central Aortic Pressure — Especially for Adults 70+ With Wide Pulse Pressure and Mild Cognitive Concerns  

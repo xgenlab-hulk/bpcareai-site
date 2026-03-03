@@ -1,14 +1,29 @@
 ---
-title: "The Truth About ‘Sugar-Free’ Holiday Cookies Labeled for Diabetics — What the Ingredients Panel Reveals About Polyol Malabsorption and Postprandial Fatigue"
-slug: "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue"
-description: "Deconstructs sugar alcohol content, fiber claims, and osmotic load in commercially marketed 'diabetic' treats — and links gastrointestinal stress to secondary glucose dysregulation in adults 60+."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["sugar-free cookies polyol malabsorption fatigue", "holiday diabetes management", "food-labeling-gi-metabolism"]
-primaryKeyword: "sugar-free cookies polyol malabsorption fatigue"
-topicCluster: "food-labeling-gi-metabolism"
-image: ""
-relatedSlugs: ["the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging", "the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose", "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70", "the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal"]
+title: >-
+  The Truth About ‘Sugar-Free’ Holiday Cookies Labeled for Diabetics — What the
+  Ingredients Panel Reveals About Polyol Malabsorption and Postprandial Fatigue
+slug: >-
+  the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
+description: >-
+  Deconstructs sugar alcohol content, fiber claims, and osmotic load in
+  commercially marketed 'diabetic' treats — and links gastrointestinal stress to
+  secondary glucose dysregulation in adults 60+.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: sugar-free cookies polyol malabsorption fatigue
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+  - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
+  - >-
+    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
 ---
 
 # What Sugar-Free Cookies Really Do to Your Gut and Energy: Unpacking Polyol Malabsorption and Post-Meal Fatigue in Adults 60+

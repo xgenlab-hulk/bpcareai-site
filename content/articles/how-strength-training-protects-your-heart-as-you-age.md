@@ -6,10 +6,6 @@ description: >-
   and heart resilience.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - strength training benefits for heart health over 50
-  - heart health
-  - heart-health
 primaryKeyword: strength training benefits for heart health over 50
 topicCluster: cardiovascular-health
 image: ''

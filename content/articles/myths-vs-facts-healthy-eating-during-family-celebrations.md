@@ -6,12 +6,8 @@ description: >-
   meal ruins everything' or 'fasting prepares you.'
 date: '2025-12-11'
 updated: '2025-12-11'
-tags:
-  - holiday diet myths vs facts
-  - healthy eating during family gatherings
-  - nutrition-myths
 primaryKeyword: holiday diet myths vs facts
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - myths-vs-facts-holiday-eating-with-diabetes-after-50

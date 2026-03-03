@@ -1,14 +1,28 @@
 ---
-title: "What Are the Earliest Retinal Microvascular Changes That Predict Coronary Artery Calcification in Men 52–64 With Non-Alcoholic Fatty Liver Disease?"
-slug: "what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease"
-description: "Analyzes OCT-angiography findings linking retinal arteriolar narrowing and venular dilation to subclinical coronary calcification—highlighting the eye as a noninvasive window into early vascular aging in metabolic syndrome."
-date: "2026-01-06"
-updated: "2026-01-06"
-tags: ["retinal changes coronary calcification fatty liver", "heart health", "ophthalmic-biomarkers-cardiovascular-risk"]
-primaryKeyword: "retinal changes coronary calcification fatty liver"
-topicCluster: "ophthalmic-biomarkers-cardiovascular-risk"
-image: ""
-relatedSlugs: ["what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80", "warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71", "how-vision-changes-might-be-linked-to-heart-disease", "what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75", "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55"]
+title: >-
+  What Are the Earliest Retinal Microvascular Changes That Predict Coronary
+  Artery Calcification in Men 52–64 With Non-Alcoholic Fatty Liver Disease?
+slug: >-
+  what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
+description: >-
+  Analyzes OCT-angiography findings linking retinal arteriolar narrowing and
+  venular dilation to subclinical coronary calcification—highlighting the eye as
+  a noninvasive window into early vascular aging in metabolic syndrome.
+date: '2026-01-06'
+updated: '2026-01-06'
+primaryKeyword: retinal changes coronary calcification fatty liver
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
+  - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+  - how-vision-changes-might-be-linked-to-heart-disease
+  - >-
+    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 ---
 
 # Early Retinal Changes Linked to Coronary Calcification in Men with Fatty Liver Disease

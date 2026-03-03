@@ -10,12 +10,8 @@ description: >-
   hypertensive urgency.
 date: '2026-01-05'
 updated: '2026-01-05'
-tags:
-  - blood pressure during bronchitis ace inhibitors
-  - blood pressure
-  - acute-illness-bp-monitoring
 primaryKeyword: blood pressure during bronchitis ace inhibitors
-topicCluster: acute-illness-bp-monitoring
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

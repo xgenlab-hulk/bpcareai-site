@@ -6,10 +6,6 @@ description: >-
   lifespan after 50.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - resting heart rate and longevity prediction over 50
-  - heart health
-  - heart-health
 primaryKeyword: resting heart rate and longevity prediction over 50
 topicCluster: cardiovascular-health
 image: ''

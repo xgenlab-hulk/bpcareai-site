@@ -6,12 +6,8 @@ description: >-
   setup, mindful eating techniques, and timing tips tailored for older adults.
 date: '2025-12-01'
 updated: '2025-12-01'
-tags:
-  - portion control for seniors at holidays
-  - healthy holiday eating for seniors
-  - lifestyle-modifications
 primaryKeyword: portion control for seniors at holidays
-topicCluster: lifestyle-changes
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-

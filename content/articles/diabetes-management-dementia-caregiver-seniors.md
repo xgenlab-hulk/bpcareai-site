@@ -1,14 +1,31 @@
 ---
-title: "The Complete Guide to Managing Diabetes While Caring for a Spouse With Dementia — Practical Strategies for Medication Adherence, Meal Timing Conflicts, and CGM Data Sharing in Adults 66+"
-slug: "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-dementia-practical-strategies-for-medication-adherence-meal-timing-conflicts-and-cgm-data-sharing-in-adults-66"
-description: "Covers caregiver-specific challenges: insulin titration amid unpredictable eating, syncing basal insulin to spouse’s nocturnal wandering, using shared CGM alerts with caregiver-only override functions, and preventing hypoglycemia during care fatigue."
-date: "2026-02-22"
-updated: "2026-02-22"
-tags: ["diabetes management dementia caregiver seniors", "diabetes", "caregiver-diabetes-strategy"]
-primaryKeyword: "diabetes management dementia caregiver seniors"
-topicCluster: "caregiver-diabetes-strategy"
-image: ""
-relatedSlugs: ["the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout", "10-things-everyone-over-65-should-know-about-managing-diabetes-while-caring-for-a-spouse-with-dementia-medication-safety-meal-coordination-and-emergency-preparedness", "the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support", "the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction", "the-complete-guide-to-managing-diabetes-during-intergenerational-holiday-hosting-practical-strategies-for-adults-61-74-with-mild-cognitive-load-and-caregiver-fatigue"]
+title: >-
+  The Complete Guide to Managing Diabetes While Caring for a Spouse With
+  Dementia — Practical Strategies for Medication Adherence, Meal Timing
+  Conflicts, and CGM Data Sharing in Adults 66+
+slug: >-
+  the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-dementia-practical-strategies-for-medication-adherence-meal-timing-conflicts-and-cgm-data-sharing-in-adults-66
+description: >-
+  Covers caregiver-specific challenges: insulin titration amid unpredictable
+  eating, syncing basal insulin to spouse’s nocturnal wandering, using shared
+  CGM alerts with caregiver-only override functions, and preventing hypoglycemia
+  during care fatigue.
+date: '2026-02-22'
+updated: '2026-02-22'
+primaryKeyword: diabetes management dementia caregiver seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
+  - >-
+    10-things-everyone-over-65-should-know-about-managing-diabetes-while-caring-for-a-spouse-with-dementia-medication-safety-meal-coordination-and-emergency-preparedness
+  - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support
+  - >-
+    the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
+  - >-
+    the-complete-guide-to-managing-diabetes-during-intergenerational-holiday-hosting-practical-strategies-for-adults-61-74-with-mild-cognitive-load-and-caregiver-fatigue
 ---
 
 # A Compassionate Guide to Diabetes Management for Seniors Caring for a Spouse With Dementia

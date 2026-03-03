@@ -1,14 +1,29 @@
 ---
-title: "A vs B: 5-Minute Dynamic Chair Yoga vs. 5-Minute Isometric Wall Sit — Impact on 1-Hour Postprandial Glucose in Adults 76+ With Severe Knee Osteoarthritis"
-slug: "a-vs-b-5-minute-dynamic-chair-yoga-vs-5-minute-isometric-wall-sit-impact-on-1-hour-postprandial-glucose-in-adults-76-with-severe-knee-osteoarthritis"
-description: "Compares real-world glycemic responses to two ultra-low-impact movement protocols in mobility-limited seniors, using blinded CGM data collected during standard lunch meals."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["chair yoga vs wall sit postprandial glucose", "diabetes", "low-impact-movement-comparison"]
-primaryKeyword: "chair yoga vs wall sit postprandial glucose"
-topicCluster: "low-impact-movement-comparison"
-image: ""
-relatedSlugs: ["can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis", "a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity", "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis", "a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms", "a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea"]
+title: >-
+  A vs B: 5-Minute Dynamic Chair Yoga vs. 5-Minute Isometric Wall Sit — Impact
+  on 1-Hour Postprandial Glucose in Adults 76+ With Severe Knee Osteoarthritis
+slug: >-
+  a-vs-b-5-minute-dynamic-chair-yoga-vs-5-minute-isometric-wall-sit-impact-on-1-hour-postprandial-glucose-in-adults-76-with-severe-knee-osteoarthritis
+description: >-
+  Compares real-world glycemic responses to two ultra-low-impact movement
+  protocols in mobility-limited seniors, using blinded CGM data collected during
+  standard lunch meals.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: chair yoga vs wall sit postprandial glucose
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis
+  - >-
+    a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity
+  - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+  - >-
+    a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms
+  - >-
+    a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea
 ---
 
 # Chair Yoga vs Wall Sit Postprandial Glucose: What Happens After Lunch in Adults 76+ With Severe Knee Osteoarthritis?

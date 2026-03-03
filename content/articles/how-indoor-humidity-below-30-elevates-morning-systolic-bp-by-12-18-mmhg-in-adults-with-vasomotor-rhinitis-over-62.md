@@ -1,14 +1,24 @@
 ---
-title: "How Indoor Humidity Below 30% Elevates Morning Systolic BP by 12–18 mmHg in Adults With Vasomotor Rhinitis Over 62"
-slug: "how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62"
-description: "Links winter dry-air–induced sympathetic activation, nasal resistance, and impaired baroreflex sensitivity to early-AM hypertension surges—validated by controlled climate-chamber trials."
-date: "2025-12-30"
-updated: "2025-12-30"
-tags: ["low humidity and morning high blood pressure", "blood pressure", "seasonal-environmental-triggers"]
-primaryKeyword: "low humidity and morning high blood pressure"
-topicCluster: "seasonal-environmental-triggers"
-image: ""
-relatedSlugs: ["how-indoor-air-quality-affects-heart-health-in-winter", "what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors", "the-hidden-dangers-of-indoor-heating-on-blood-pressure", "why-morning-blood-pressure-surges-are-more-dangerous-in-winter", "can-hydration-prevent-winter-blood-pressure-spikes-after-age-70"]
+title: >-
+  How Indoor Humidity Below 30% Elevates Morning Systolic BP by 12–18 mmHg in
+  Adults With Vasomotor Rhinitis Over 62
+slug: >-
+  how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
+description: >-
+  Links winter dry-air–induced sympathetic activation, nasal resistance, and
+  impaired baroreflex sensitivity to early-AM hypertension surges—validated by
+  controlled climate-chamber trials.
+date: '2025-12-30'
+updated: '2025-12-30'
+primaryKeyword: low humidity and morning high blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - how-indoor-air-quality-affects-heart-health-in-winter
+  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
+  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
 ---
 
 # How Low Humidity and Morning High Blood Pressure Are Linked—Especially for Adults Over 62 With Nasal Sensitivity

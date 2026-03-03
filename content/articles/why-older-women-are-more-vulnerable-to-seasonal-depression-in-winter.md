@@ -6,12 +6,8 @@ description: >-
   disorder risk in women over 60.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - seasonal depression in older women
-  - seasonal depression in older adults
-  - gender-specific-concerns
 primaryKeyword: seasonal depression in older women
-topicCluster: age-gender-specific
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees

@@ -10,12 +10,8 @@ description: >-
   enhance endogenous enzyme release.
 date: '2025-12-29'
 updated: '2025-12-29'
-tags:
-  - pancreatic enzymes holiday meals natural
-  - healthy eating during family gatherings
-  - digestive-physiology-support
 primaryKeyword: pancreatic enzymes holiday meals natural
-topicCluster: digestive-physiology-support
+topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-

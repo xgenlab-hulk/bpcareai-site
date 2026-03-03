@@ -1,14 +1,26 @@
 ---
-title: "12 Evidence-Based Hydration Strategies to Prevent Holiday Heart Syndrome in Adults 62+ With Mild Dehydration-Induced QT Prolongation"
-slug: "12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation"
-description: "A practical, step-by-step guide to optimizing fluid intake *around* meals — not just total daily volume — to stabilize electrolytes, reduce cardiac irritability, and prevent alcohol-triggered arrhythmias in older adults with borderline QTc."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["hydration strategies holiday heart syndrome prevention", "holiday heart syndrome prevention", "electrolyte-hydration"]
-primaryKeyword: "hydration strategies holiday heart syndrome prevention"
-topicCluster: "electrolyte-hydration"
-image: ""
-relatedSlugs: ["best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air", "why-dehydration-at-holiday-events-may-worsen-heart-palpitations", "how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues", "the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50", "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70"]
+title: >-
+  12 Evidence-Based Hydration Strategies to Prevent Holiday Heart Syndrome in
+  Adults 62+ With Mild Dehydration-Induced QT Prolongation
+slug: >-
+  12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
+description: >-
+  A practical, step-by-step guide to optimizing fluid intake *around* meals —
+  not just total daily volume — to stabilize electrolytes, reduce cardiac
+  irritability, and prevent alcohol-triggered arrhythmias in older adults with
+  borderline QTc.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: hydration strategies holiday heart syndrome prevention
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
+  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
+  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 
 # 12 Evidence-Based Hydration Strategies for Holiday Heart Syndrome Prevention in Adults 62+ With QT Prolongation

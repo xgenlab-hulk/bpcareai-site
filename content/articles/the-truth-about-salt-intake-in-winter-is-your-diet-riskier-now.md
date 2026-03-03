@@ -6,12 +6,8 @@ description: >-
   real-world advice for seniors managing hypertension.
 date: '2025-12-15'
 updated: '2025-12-15'
-tags:
-  - salt intake in winter
-  - senior blood pressure control in winter
-  - diet-nutrition
 primaryKeyword: salt intake in winter
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid

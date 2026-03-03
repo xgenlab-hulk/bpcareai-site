@@ -6,12 +6,8 @@ description: >-
   metabolic health without sacrificing taste or tradition.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - high-fiber family side dishes
-  - healthy eating during family gatherings
-  - nutritious-recipes
 primaryKeyword: high-fiber family side dishes
-topicCluster: nutrition-diet
+topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

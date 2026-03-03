@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Navigating Holiday Potlucks With Type 1 Diabetes — From Pre-Meal Bolus Timing to Carb-Counting 'Secret Sauces' and Emergency Hypo Kits for Multi-Hour Events"
-slug: "the-complete-guide-to-navigating-holiday-potlucks-with-type-1-diabetes-from-pre-meal-bolus-timing-to-carb-counting-secret-sauces-and-emergency-hypo-kits-for-multi-hour-events"
-description: "A step-by-step tactical manual for T1D adults covering insulin-on-board calculations, hidden-carb reconnaissance, real-time CGM interpretation during social events, and discreet low-glucose rescue protocols."
-date: "2026-02-27"
-updated: "2026-02-27"
-tags: ["type 1 diabetes holiday potluck guide", "holiday diabetes management", "type-1-tactical-navigation"]
-primaryKeyword: "type 1 diabetes holiday potluck guide"
-topicCluster: "type-1-tactical-navigation"
-image: ""
-relatedSlugs: ["5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck", "5-things-every-adult-70-with-insulin-dependent-diabetes-should-know-before-attending-a-potluck-holiday-party", "5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy", "managing-type-2-diabetes-while-attending-back-to-back-holiday-parties", "12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry"]
+title: >-
+  The Complete Guide to Navigating Holiday Potlucks With Type 1 Diabetes — From
+  Pre-Meal Bolus Timing to Carb-Counting 'Secret Sauces' and Emergency Hypo Kits
+  for Multi-Hour Events
+slug: >-
+  the-complete-guide-to-navigating-holiday-potlucks-with-type-1-diabetes-from-pre-meal-bolus-timing-to-carb-counting-secret-sauces-and-emergency-hypo-kits-for-multi-hour-events
+description: >-
+  A step-by-step tactical manual for T1D adults covering insulin-on-board
+  calculations, hidden-carb reconnaissance, real-time CGM interpretation during
+  social events, and discreet low-glucose rescue protocols.
+date: '2026-02-27'
+updated: '2026-02-27'
+primaryKeyword: type 1 diabetes holiday potluck guide
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
+  - >-
+    5-things-every-adult-70-with-insulin-dependent-diabetes-should-know-before-attending-a-potluck-holiday-party
+  - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+  - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
+  - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
 ---
 
 # Your Practical Type 1 Diabetes Holiday Potluck Guide — Strategies for Confident, Safe, and Enjoyable Gatherings

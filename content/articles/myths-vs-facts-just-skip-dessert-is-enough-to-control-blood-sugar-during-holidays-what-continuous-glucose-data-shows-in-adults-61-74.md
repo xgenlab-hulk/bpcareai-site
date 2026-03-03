@@ -1,14 +1,27 @@
 ---
-title: "Myths vs Facts: ‘Just Skip Dessert’ Is Enough to Control Blood Sugar During Holidays — What Continuous Glucose Data Shows in Adults 61–74"
-slug: "myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74"
-description: "Debunks oversimplified advice using real-world CGM data: how savory course composition, alcohol, stress, and sleep loss override dessert omission — and what *actually* moves the needle."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["skip dessert blood sugar control holiday myths", "holiday diabetes management", "myth-busting-glycemic-control"]
-primaryKeyword: "skip dessert blood sugar control holiday myths"
-topicCluster: "myth-busting-glycemic-control"
-image: ""
-relatedSlugs: ["myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75", "7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays", "myths-vs-facts-holiday-eating-with-diabetes-after-50", "myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes", "quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin"]
+title: >-
+  Myths vs Facts: ‘Just Skip Dessert’ Is Enough to Control Blood Sugar During
+  Holidays — What Continuous Glucose Data Shows in Adults 61–74
+slug: >-
+  myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74
+description: >-
+  Debunks oversimplified advice using real-world CGM data: how savory course
+  composition, alcohol, stress, and sleep loss override dessert omission — and
+  what *actually* moves the needle.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: skip dessert blood sugar control holiday myths
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
+  - 7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays
+  - myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
+  - >-
+    quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin
 ---
 
 # “Skip Dessert Blood Sugar Control Holiday Myths” — What Real CGM Data Reveals for Adults 61–74

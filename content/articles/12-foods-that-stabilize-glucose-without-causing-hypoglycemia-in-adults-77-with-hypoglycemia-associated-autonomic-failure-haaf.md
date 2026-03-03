@@ -1,14 +1,30 @@
 ---
-title: "12 Foods That Stabilize Glucose *Without* Causing Hypoglycemia in Adults 77+ With Hypoglycemia-Associated Autonomic Failure (HAAF)"
-slug: "12-foods-that-stabilize-glucose-without-causing-hypoglycemia-in-adults-77-with-hypoglycemia-associated-autonomic-failure-haaf"
-description: "Curates a clinically vetted list of low-glycemic, high-micro-nutrient foods that promote steady glucose release and sustain counter-regulatory hormone reserves — avoiding rapid spikes *and* dangerous dips in high-risk older adults."
-date: "2026-02-12"
-updated: "2026-02-12"
-tags: ["foods for stable glucose haff", "holiday diabetes management", "hypoglycemia-safe-nutrition"]
-primaryKeyword: "foods for stable glucose haff"
-topicCluster: "hypoglycemia-safe-nutrition"
-image: ""
-relatedSlugs: ["10-foods-that-stabilize-post-holiday-fasting-glucose-without-lowering-it-for-adults-64-with-history-of-falls-and-hypoglycemia-associated-autonomic-failure", "10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting", "10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes", "10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk", "12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65"]
+title: >-
+  12 Foods That Stabilize Glucose *Without* Causing Hypoglycemia in Adults 77+
+  With Hypoglycemia-Associated Autonomic Failure (HAAF)
+slug: >-
+  12-foods-that-stabilize-glucose-without-causing-hypoglycemia-in-adults-77-with-hypoglycemia-associated-autonomic-failure-haaf
+description: >-
+  Curates a clinically vetted list of low-glycemic, high-micro-nutrient foods
+  that promote steady glucose release and sustain counter-regulatory hormone
+  reserves — avoiding rapid spikes *and* dangerous dips in high-risk older
+  adults.
+date: '2026-02-12'
+updated: '2026-02-12'
+primaryKeyword: foods for stable glucose haff
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-stabilize-post-holiday-fasting-glucose-without-lowering-it-for-adults-64-with-history-of-falls-and-hypoglycemia-associated-autonomic-failure
+  - >-
+    10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
+  - >-
+    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
+  - >-
+    10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
+  - >-
+    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
 ---
 
 # 12 Evidence-Based Foods for Stable Glucose in Older Adults with HAAF

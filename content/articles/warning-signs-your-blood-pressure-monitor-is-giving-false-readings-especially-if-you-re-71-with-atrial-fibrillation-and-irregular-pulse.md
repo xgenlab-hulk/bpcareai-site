@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your Blood Pressure Monitor Is Giving False Readings — Especially If You’re 71+ With Atrial Fibrillation and Irregular Pulse"
-slug: "warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse"
-description: "Details artifacts from arrhythmia misclassification, cuff misalignment on atrophic skin, Bluetooth interference from hearing aids, and battery-induced waveform damping in older devices."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["blood pressure monitor false readings afib", "blood pressure", "monitoring-artifacts"]
-primaryKeyword: "blood pressure monitor false readings afib"
-topicCluster: "monitoring-artifacts"
-image: ""
-relatedSlugs: ["7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema", "warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation", "12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring", "5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema", "the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you"]
+title: >-
+  Warning Signs Your Blood Pressure Monitor Is Giving False Readings —
+  Especially If You’re 71+ With Atrial Fibrillation and Irregular Pulse
+slug: >-
+  warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
+description: >-
+  Details artifacts from arrhythmia misclassification, cuff misalignment on
+  atrophic skin, Bluetooth interference from hearing aids, and battery-induced
+  waveform damping in older devices.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: blood pressure monitor false readings afib
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
+  - >-
+    12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
+  - >-
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
+  - >-
+    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
 ---
 
 # When Your Blood Pressure Monitor Gives False Readings With Atrial Fibrillation — What to Know After 71

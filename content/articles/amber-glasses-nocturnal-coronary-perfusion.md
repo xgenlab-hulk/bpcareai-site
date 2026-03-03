@@ -1,14 +1,30 @@
 ---
-title: "How Chronic Nighttime Use of 'Blue-Blocking' Amber Glasses Alters Melatonin-Dependent BKCa Channel Expression — And Why That Improves Nocturnal Coronary Perfusion in Adults 71+ With Nocturnal Angina"
-slug: "how-chronic-nighttime-use-of-blue-blocking-amber-glasses-alters-melatonin-dependent-bkca-channel-expression-and-why-that-improves-nocturnal-coronary-perfusion-in-adults-71-with-nocturnal-angina"
-description: "Explains a photobiomodulation pathway where non-visual retinal signaling enhances coronary smooth muscle relaxation — reducing microvascular spasm during sleep."
-date: "2026-02-10"
-updated: "2026-02-10"
-tags: ["amber glasses nocturnal coronary perfusion", "heart disease", "circadian-vascular-signaling"]
-primaryKeyword: "amber glasses nocturnal coronary perfusion"
-topicCluster: "circadian-vascular-signaling"
-image: ""
-relatedSlugs: ["simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia", "a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension", "how-chronic-nighttime-ambient-light-exposure-from-smart-nightlights-disrupts-melatonin-mediated-no-synthase-activity-and-elevates-nocturnal-sbp-in-adults-60-with-sleep-onset-insomnia", "simple-steps-to-reduce-nocturnal-coronary-vasospasm-risk-during-late-night-tv-viewing-not-just-sleep-for-adults-65-with-variant-prinzmetal-s-angina", "how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints"]
+title: >-
+  How Chronic Nighttime Use of 'Blue-Blocking' Amber Glasses Alters
+  Melatonin-Dependent BKCa Channel Expression — And Why That Improves Nocturnal
+  Coronary Perfusion in Adults 71+ With Nocturnal Angina
+slug: >-
+  how-chronic-nighttime-use-of-blue-blocking-amber-glasses-alters-melatonin-dependent-bkca-channel-expression-and-why-that-improves-nocturnal-coronary-perfusion-in-adults-71-with-nocturnal-angina
+description: >-
+  Explains a photobiomodulation pathway where non-visual retinal signaling
+  enhances coronary smooth muscle relaxation — reducing microvascular spasm
+  during sleep.
+date: '2026-02-10'
+updated: '2026-02-10'
+primaryKeyword: amber glasses nocturnal coronary perfusion
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
+  - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+  - >-
+    how-chronic-nighttime-ambient-light-exposure-from-smart-nightlights-disrupts-melatonin-mediated-no-synthase-activity-and-elevates-nocturnal-sbp-in-adults-60-with-sleep-onset-insomnia
+  - >-
+    simple-steps-to-reduce-nocturnal-coronary-vasospasm-risk-during-late-night-tv-viewing-not-just-sleep-for-adults-65-with-variant-prinzmetal-s-angina
+  - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # How Amber Glasses Nocturnal Coronary Perfusion Supports Heart Health in Older Adults

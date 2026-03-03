@@ -10,12 +10,8 @@ description: >-
   dysfunction, vascular stiffness, or medication mismatch.
 date: '2025-12-16'
 updated: '2025-12-16'
-tags:
-  - blood pressure fluctuations warning signs
-  - blood pressure
-  - monitoring-red-flags
 primaryKeyword: blood pressure fluctuations warning signs
-topicCluster: health-monitoring
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - when-to-worry-about-blood-pressure-changes-during-winter

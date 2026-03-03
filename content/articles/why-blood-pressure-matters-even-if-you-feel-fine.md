@@ -6,12 +6,8 @@ description: >-
   is crucial after age 45.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - high blood pressure with no symptoms danger
-  - blood pressure
-  - cardiovascular-risk
 primaryKeyword: high blood pressure with no symptoms danger
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50

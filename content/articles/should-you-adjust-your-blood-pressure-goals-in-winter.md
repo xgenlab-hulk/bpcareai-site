@@ -6,12 +6,8 @@ description: >-
   blood pressure readings for older patients.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - seasonal blood pressure goals
-  - senior blood pressure control in winter
-  - treatment-options
 primaryKeyword: seasonal blood pressure goals
-topicCluster: medications-supplements
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know

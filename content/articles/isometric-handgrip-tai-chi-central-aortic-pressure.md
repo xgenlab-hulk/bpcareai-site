@@ -1,14 +1,30 @@
 ---
-title: "A vs B: 4-Minute Daily Isometric Handgrip vs. 15-Minute Morning Tai Chi for Reducing Central Aortic Systolic Pressure in Adults 60–74 With Isolated Systolic Hypertension"
-slug: "a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension"
-description: "Compares pulse wave velocity changes, carotid-femoral transit time, and baroreflex gain improvements over 8 weeks — with stratification by arterial stiffness biomarkers."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["isometric handgrip tai chi central aortic pressure", "heart disease", "non-pharmacologic-blood-pressure-comparison"]
-primaryKeyword: "isometric handgrip tai chi central aortic pressure"
-topicCluster: "non-pharmacologic-blood-pressure-comparison"
-image: ""
-relatedSlugs: ["can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension", "quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75", "a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76", "a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension"]
+title: >-
+  A vs B: 4-Minute Daily Isometric Handgrip vs. 15-Minute Morning Tai Chi for
+  Reducing Central Aortic Systolic Pressure in Adults 60–74 With Isolated
+  Systolic Hypertension
+slug: >-
+  a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension
+description: >-
+  Compares pulse wave velocity changes, carotid-femoral transit time, and
+  baroreflex gain improvements over 8 weeks — with stratification by arterial
+  stiffness biomarkers.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: isometric handgrip tai chi central aortic pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension
+  - >-
+    quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  - >-
+    a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76
+  - >-
+    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
 ---
 
 # Isometric Handgrip vs. Tai Chi for Central Aortic Pressure: What Works Best After 60?

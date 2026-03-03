@@ -1,14 +1,27 @@
 ---
-title: "Natural Ways to Counteract Holiday-Induced Histamine Load in Seniors With Chronic Urticaria and DAO Deficiency"
-slug: "natural-ways-to-counteract-holiday-induced-histamine-load-in-seniors-with-chronic-urticaria-and-dao-deficiency"
-description: "Covers histamine-lowering food prep techniques (e.g., freezing before roasting, vinegar-based marinades), timed enzyme support, and low-histamine festive swaps proven to reduce cutaneous flare frequency."
-date: "2025-12-29"
-updated: "2025-12-29"
-tags: ["holiday histamine urticaria seniors", "healthy holiday eating for seniors", "allergy-immunology-diet"]
-primaryKeyword: "holiday histamine urticaria seniors"
-topicCluster: "allergy-immunology-diet"
-image: ""
-relatedSlugs: ["simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension", "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure", "7-smart-swaps-for-healthier-holiday-meals-after-65", "does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings"]
+title: >-
+  Natural Ways to Counteract Holiday-Induced Histamine Load in Seniors With
+  Chronic Urticaria and DAO Deficiency
+slug: >-
+  natural-ways-to-counteract-holiday-induced-histamine-load-in-seniors-with-chronic-urticaria-and-dao-deficiency
+description: >-
+  Covers histamine-lowering food prep techniques (e.g., freezing before
+  roasting, vinegar-based marinades), timed enzyme support, and low-histamine
+  festive swaps proven to reduce cutaneous flare frequency.
+date: '2025-12-29'
+updated: '2025-12-29'
+primaryKeyword: holiday histamine urticaria seniors
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
+  - 7-smart-swaps-for-healthier-holiday-meals-after-65
+  - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
 ---
 
 # Gentle Holiday Eating for Seniors: Managing Histamine-Induced Urticaria Naturally

@@ -1,14 +1,29 @@
 ---
-title: "7 Underrecognized Triggers of Nocturnal ST-Segment Depression in Adults With Nonobstructive CAD—Identified via Home-Based ECG Patch Monitoring"
-slug: "7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring"
-description: "Identifies non-ischemic but clinically significant nocturnal ECG changes (e.g., gastric reflux, REM-sleep apnea surges, supine volume shifts) using 14-day wearable ECG data from 412 adults aged 55–82."
-date: "2026-01-08"
-updated: "2026-01-08"
-tags: ["nocturnal st-segment depression triggers", "heart disease", "nocturnal-ischemia-triggers"]
-primaryKeyword: "nocturnal st-segment depression triggers"
-topicCluster: "nocturnal-ischemia-triggers"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71", "a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea", "7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve", "7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis", "simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction"]
+title: >-
+  7 Underrecognized Triggers of Nocturnal ST-Segment Depression in Adults With
+  Nonobstructive CAD—Identified via Home-Based ECG Patch Monitoring
+slug: >-
+  7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
+description: >-
+  Identifies non-ischemic but clinically significant nocturnal ECG changes
+  (e.g., gastric reflux, REM-sleep apnea surges, supine volume shifts) using
+  14-day wearable ECG data from 412 adults aged 55–82.
+date: '2026-01-08'
+updated: '2026-01-08'
+primaryKeyword: nocturnal st-segment depression triggers
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - >-
+    a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea
+  - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+  - >-
+    7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
+  - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 ---
 
 # What’s Really Behind Nocturnal ST-Segment Depression Triggers in Older Adults With Stable Heart Disease?

@@ -6,12 +6,8 @@ description: >-
   to reduce it.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - chronic inflammation and type 2 diabetes over 50
-  - diabetes
-  - diabetes-risk-factors
 primaryKeyword: chronic inflammation and type 2 diabetes over 50
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - how-type-2-diabetes-increases-heart-disease-risk-after-50

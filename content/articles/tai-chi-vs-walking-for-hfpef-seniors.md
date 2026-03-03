@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Daily 15-Minute Tai Chi Qigong vs. Supervised Treadmill Walking — Which Improves 6-Minute Walk Distance & LV Diastolic Function More in Adults 69+ With HFpEF?"
-slug: "a-vs-b-daily-15-minute-tai-chi-qigong-vs-supervised-treadmill-walking-which-improves-6-minute-walk-distance-lv-diastolic-function-more-in-adults-69-with-hfpef"
-description: "Compares functional and echocardiographic outcomes of two low-impact modalities in heart failure with preserved ejection fraction, with emphasis on frailty-adapted protocols."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["tai chi vs walking for HFpEF seniors", "heart disease", "exercise-comparison"]
-primaryKeyword: "tai chi vs walking for HFpEF seniors"
-topicCluster: "exercise-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-daily-12-minute-tai-chi-flow-vs-supervised-treadmill-walking-impact-on-myocardial-perfusion-reserve-index-in-adults-67-with-microvascular-angina-and-normal-coronary-angiograms", "a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction", "a-vs-b-12-minute-tai-chi-qigong-flow-vs-guided-4-7-8-breathing-with-biofeedback-impact-on-central-aortic-systolic-pressure-in-women-69-with-isolated-systolic-hypertension", "a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension", "a-vs-b-daily-10-minute-tai-chi-flow-vs-guided-heart-coherence-biofeedback-for-improving-24-hour-hrv-in-women-64-78-with-hypertension-and-perimenopausal-vasomotor-symptoms"]
+title: >-
+  A vs B: Daily 15-Minute Tai Chi Qigong vs. Supervised Treadmill Walking —
+  Which Improves 6-Minute Walk Distance & LV Diastolic Function More in Adults
+  69+ With HFpEF?
+slug: >-
+  a-vs-b-daily-15-minute-tai-chi-qigong-vs-supervised-treadmill-walking-which-improves-6-minute-walk-distance-lv-diastolic-function-more-in-adults-69-with-hfpef
+description: >-
+  Compares functional and echocardiographic outcomes of two low-impact
+  modalities in heart failure with preserved ejection fraction, with emphasis on
+  frailty-adapted protocols.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: tai chi vs walking for HFpEF seniors
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-daily-12-minute-tai-chi-flow-vs-supervised-treadmill-walking-impact-on-myocardial-perfusion-reserve-index-in-adults-67-with-microvascular-angina-and-normal-coronary-angiograms
+  - >-
+    a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction
+  - >-
+    a-vs-b-12-minute-tai-chi-qigong-flow-vs-guided-4-7-8-breathing-with-biofeedback-impact-on-central-aortic-systolic-pressure-in-women-69-with-isolated-systolic-hypertension
+  - >-
+    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
+  - >-
+    a-vs-b-daily-10-minute-tai-chi-flow-vs-guided-heart-coherence-biofeedback-for-improving-24-hour-hrv-in-women-64-78-with-hypertension-and-perimenopausal-vasomotor-symptoms
 ---
 
 # Tai Chi vs Walking for HFpEF Seniors: Which Low-Impact Exercise Better Supports Heart Function and Mobility?

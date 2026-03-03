@@ -1,14 +1,29 @@
 ---
-title: "12 Quick Swaps to Make Your Granddaughter’s Vegan Holiday Cookies Heart-Safe — Tested by Cardiac Dietitians for Adults 69+ With Atrial Fibrillation"
-slug: "12-quick-swaps-to-make-your-granddaughter-s-vegan-holiday-cookies-heart-safe-tested-by-cardiac-dietitians-for-adults-69-with-atrial-fibrillation"
-description: "Offers practical, flavor-preserving ingredient substitutions (e.g., flax gel vs. chia for omega-3 stability, erythritol blends for potassium-sparing sweetness) validated for AFib-safe electrolyte balance."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["vegan cookies heart-safe seniors afib", "healthy holiday eating for seniors", "plant-based-cardiac-safety"]
-primaryKeyword: "vegan cookies heart-safe seniors afib"
-topicCluster: "plant-based-cardiac-safety"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy", "the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr", "12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72", "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension", "5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor"]
+title: >-
+  12 Quick Swaps to Make Your Granddaughter’s Vegan Holiday Cookies Heart-Safe —
+  Tested by Cardiac Dietitians for Adults 69+ With Atrial Fibrillation
+slug: >-
+  12-quick-swaps-to-make-your-granddaughter-s-vegan-holiday-cookies-heart-safe-tested-by-cardiac-dietitians-for-adults-69-with-atrial-fibrillation
+description: >-
+  Offers practical, flavor-preserving ingredient substitutions (e.g., flax gel
+  vs. chia for omega-3 stability, erythritol blends for potassium-sparing
+  sweetness) validated for AFib-safe electrolyte balance.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: vegan cookies heart-safe seniors afib
+topicCluster: cardiac-disease-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
+  - >-
+    12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
+  - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+  - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
 ---
 
 # 12 Heart-Safe Vegan Cookie Swaps for Seniors with Atrial Fibrillation — Dietitian-Tested for Electrolyte Balance

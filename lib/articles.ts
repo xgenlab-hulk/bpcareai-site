@@ -12,7 +12,6 @@ export interface ArticleMeta {
   description: string;
   date: string;
   updated?: string;
-  tags: string[];
   primaryKeyword?: string;
   topicCluster?: string;
   image?: string;
@@ -47,7 +46,6 @@ export function getAllArticlesMeta(): ArticleMeta[] {
         description: matterResult.data.description || '',
         date: matterResult.data.date || '',
         updated: matterResult.data.updated,
-        tags: matterResult.data.tags || [],
         primaryKeyword: matterResult.data.primaryKeyword,
         topicCluster: matterResult.data.topicCluster,
         image: matterResult.data.image,
@@ -91,7 +89,6 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
       description: matterResult.data.description || '',
       date: matterResult.data.date || '',
       updated: matterResult.data.updated,
-      tags: matterResult.data.tags || [],
       primaryKeyword: matterResult.data.primaryKeyword,
       topicCluster: matterResult.data.topicCluster,
       image: matterResult.data.image,

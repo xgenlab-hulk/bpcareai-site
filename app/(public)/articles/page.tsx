@@ -56,7 +56,7 @@ export default function ArticlesPage() {
                 className="block glass-card p-8 hover:shadow-xl transition-all duration-300 group"
               >
                 <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
-                  <div className="flex items-center text-sm text-gray-600 mb-2 sm:mb-0">
+                  <div className="flex items-center text-sm text-gray-600">
                     <span>📅</span>
                     <span className="ml-2">
                       {new Date(article.date).toLocaleDateString('en-US', {
@@ -66,19 +66,6 @@ export default function ArticlesPage() {
                       })}
                     </span>
                   </div>
-
-                  {article.tags.length > 0 && (
-                    <div className="flex gap-2 flex-wrap">
-                      {article.tags.map((tag) => (
-                        <span
-                          key={tag}
-                          className="px-3 py-1 bg-brand-blue-light text-brand-blue-dark text-sm rounded-full"
-                        >
-                          {tag}
-                        </span>
-                      ))}
-                    </div>
-                  )}
                 </div>
 
                 <h2 className="text-2xl font-bold text-gray-900 mb-4 group-hover:text-brand-blue-dark transition-colors">

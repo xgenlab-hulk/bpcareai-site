@@ -10,12 +10,8 @@ description: >-
   and how to distinguish angina mimicry from dementia-related distress.
 date: '2026-01-22'
 updated: '2026-01-22'
-tags:
-  - nitroglycerin administration elderly dementia
-  - heart disease
-  - caregiver-safety
 primaryKeyword: nitroglycerin administration elderly dementia
-topicCluster: caregiver-safety
+topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-

@@ -6,12 +6,8 @@ description: >-
   cardiovascular damage in middle-aged and older adults.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - type 2 diabetes and heart disease risk after 50
-  - heart disease
-  - cardiovascular-risk
 primaryKeyword: type 2 diabetes and heart disease risk after 50
-topicCluster: cardiovascular-health
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50

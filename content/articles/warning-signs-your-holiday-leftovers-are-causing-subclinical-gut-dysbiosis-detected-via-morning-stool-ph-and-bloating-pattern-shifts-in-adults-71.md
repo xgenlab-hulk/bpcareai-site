@@ -1,14 +1,29 @@
 ---
-title: "Warning Signs Your Holiday Leftovers Are Causing Subclinical Gut Dysbiosis — Detected via Morning Stool pH and Bloating Pattern Shifts in Adults 71+"
-slug: "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71"
-description: "Identifies non-obvious GI red flags (e.g., delayed bloating peak, altered stool float/sink behavior) linked to repeated reheating of starchy holiday foods and age-related microbiome fragility."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["holiday leftovers gut dysbiosis warning signs", "healthy holiday eating for seniors", "gut-microbiome-leftovers"]
-primaryKeyword: "holiday leftovers gut dysbiosis warning signs"
-topicCluster: "gut-microbiome-leftovers"
-image: ""
-relatedSlugs: ["when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d", "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72", "5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems", "how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy"]
+title: >-
+  Warning Signs Your Holiday Leftovers Are Causing Subclinical Gut Dysbiosis —
+  Detected via Morning Stool pH and Bloating Pattern Shifts in Adults 71+
+slug: >-
+  warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
+description: >-
+  Identifies non-obvious GI red flags (e.g., delayed bloating peak, altered
+  stool float/sink behavior) linked to repeated reheating of starchy holiday
+  foods and age-related microbiome fragility.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: holiday leftovers gut dysbiosis warning signs
+topicCluster: gastrointestinal-health
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
+  - >-
+    5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
+  - >-
+    how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
 ---
 
 # Subtle Holiday Leftovers Gut Dysbiosis Warning Signs in Adults 71+: What Morning Stool pH and Bloating Patterns Reveal

@@ -1,14 +1,28 @@
 ---
-title: "The Truth About 'Non-Alcoholic' Holiday Drinks for Adults 67+ With Undiagnosed Alcohol Sensitivity and Left Atrial Enlargement"
-slug: "the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement"
-description: "Debunks marketing claims around NA wines, mocktails, and fermented sodas by analyzing their residual ethanol content, histamine load, and vasoreactive compounds — and how these silently trigger ectopy in aging atria."
-date: "2026-01-23"
-updated: "2026-01-23"
-tags: ["non-alcoholic drinks holiday heart syndrome", "holiday heart syndrome prevention", "non-alcoholic-beverages"]
-primaryKeyword: "non-alcoholic drinks holiday heart syndrome"
-topicCluster: "non-alcoholic-beverages"
-image: ""
-relatedSlugs: ["the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension", "myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs", "best-non-alcoholic-holiday-drinks-for-heart-health-after-50", "myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome", "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers"]
+title: >-
+  The Truth About 'Non-Alcoholic' Holiday Drinks for Adults 67+ With Undiagnosed
+  Alcohol Sensitivity and Left Atrial Enlargement
+slug: >-
+  the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
+description: >-
+  Debunks marketing claims around NA wines, mocktails, and fermented sodas by
+  analyzing their residual ethanol content, histamine load, and vasoreactive
+  compounds — and how these silently trigger ectopy in aging atria.
+date: '2026-01-23'
+updated: '2026-01-23'
+primaryKeyword: non-alcoholic drinks holiday heart syndrome
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+  - >-
+    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
+  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
 ---
 
 # Non-Alcoholic Drinks and Holiday Heart Syndrome: What Adults 67+ With Silent Heart Changes Need to Know

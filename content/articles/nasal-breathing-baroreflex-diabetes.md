@@ -1,14 +1,30 @@
 ---
-title: "Does Daily 5-Minute Nasal Breathing Practice Improve Baroreflex Sensitivity and Reduce Postprandial Blood Pressure Lability in Adults 63–77 With Type 2 Diabetes and Orthostatic Hypotension?"
-slug: "does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension"
-description: "Reviews pilot data on nasal-specific nitric oxide delivery, vagal tone enhancement, and its downstream impact on splanchnic vasoconstriction during digestion."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["nasal breathing baroreflex diabetes", "diabetes", "breathing-autonomic"]
-primaryKeyword: "nasal breathing baroreflex diabetes"
-topicCluster: "breathing-autonomic"
-image: ""
-relatedSlugs: ["can-daily-12-second-nitric-oxide-nasal-sprays-improve-endothelial-function-in-women-58-69-with-morning-hypertension-and-cold-induced-raynaud-s", "quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76", "best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74", "natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension", "12-science-backed-ways-to-restore-normal-bp-variability-not-just-lower-average-bp-in-adults-58-74-with-diabetes-and-elevated-sdnn-on-24-hour-holter-monitoring"]
+title: >-
+  Does Daily 5-Minute Nasal Breathing Practice Improve Baroreflex Sensitivity
+  and Reduce Postprandial Blood Pressure Lability in Adults 63–77 With Type 2
+  Diabetes and Orthostatic Hypotension?
+slug: >-
+  does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
+description: >-
+  Reviews pilot data on nasal-specific nitric oxide delivery, vagal tone
+  enhancement, and its downstream impact on splanchnic vasoconstriction during
+  digestion.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: nasal breathing baroreflex diabetes
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-daily-12-second-nitric-oxide-nasal-sprays-improve-endothelial-function-in-women-58-69-with-morning-hypertension-and-cold-induced-raynaud-s
+  - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+  - >-
+    best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74
+  - >-
+    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
+  - >-
+    12-science-backed-ways-to-restore-normal-bp-variability-not-just-lower-average-bp-in-adults-58-74-with-diabetes-and-elevated-sdnn-on-24-hour-holter-monitoring
 ---
 
 # Can Daily Nasal Breathing Boost Baroreflex Sensitivity and Stabilize Blood Pressure After Meals in Older Adults with Diabetes?

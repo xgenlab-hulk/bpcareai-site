@@ -1,14 +1,30 @@
 ---
-title: "Does Daily Use of a Far-Infrared Sauna Improve Skeletal Muscle Glucose Uptake in Adults 72+ With Type 2 Diabetes and Sarcopenia? — Evidence from 12-Week RCT Using Hyperinsulinemic-Euglycemic Clamp"
-slug: "does-daily-use-of-a-far-infrared-sauna-improve-skeletal-muscle-glucose-uptake-in-adults-72-with-type-2-diabetes-and-sarcopenia-evidence-from-12-week-rct-using-hyperinsulinemic-euglycemic-clamp"
-description: "Analyzes mechanistic data on GLUT4 translocation, heat shock protein 72 induction, and capillary density changes — while cautioning against orthostatic risks and dehydration in frail older adults."
-date: "2026-02-17"
-updated: "2026-02-17"
-tags: ["far-infrared sauna glucose uptake seniors sarcopenia", "diabetes", "thermal-therapy-metabolism"]
-primaryKeyword: "far-infrared sauna glucose uptake seniors sarcopenia"
-topicCluster: "thermal-therapy-metabolism"
-image: ""
-relatedSlugs: ["natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement", "does-daily-10-minute-resistance-band-training-lower-fasting-glucose-and-increase-skeletal-muscle-glut4-translocation-in-adults-67-79-with-sarcopenic-obesity", "does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss", "natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70", "can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis"]
+title: >-
+  Does Daily Use of a Far-Infrared Sauna Improve Skeletal Muscle Glucose Uptake
+  in Adults 72+ With Type 2 Diabetes and Sarcopenia? — Evidence from 12-Week RCT
+  Using Hyperinsulinemic-Euglycemic Clamp
+slug: >-
+  does-daily-use-of-a-far-infrared-sauna-improve-skeletal-muscle-glucose-uptake-in-adults-72-with-type-2-diabetes-and-sarcopenia-evidence-from-12-week-rct-using-hyperinsulinemic-euglycemic-clamp
+description: >-
+  Analyzes mechanistic data on GLUT4 translocation, heat shock protein 72
+  induction, and capillary density changes — while cautioning against
+  orthostatic risks and dehydration in frail older adults.
+date: '2026-02-17'
+updated: '2026-02-17'
+primaryKeyword: far-infrared sauna glucose uptake seniors sarcopenia
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
+  - >-
+    does-daily-10-minute-resistance-band-training-lower-fasting-glucose-and-increase-skeletal-muscle-glut4-translocation-in-adults-67-79-with-sarcopenic-obesity
+  - >-
+    does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
+  - >-
+    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
+  - >-
+    can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis
 ---
 
 # Can Far-Infrared Sauna Use Support Glucose Uptake in Seniors with Type 2 Diabetes and Sarcopenia?

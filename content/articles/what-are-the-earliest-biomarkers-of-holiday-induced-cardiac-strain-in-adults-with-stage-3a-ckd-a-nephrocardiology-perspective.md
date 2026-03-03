@@ -10,12 +10,8 @@ description: >-
   nephrologists and cardiologists coordinating holiday care.
 date: '2025-12-28'
 updated: '2025-12-28'
-tags:
-  - biomarkers of cardiac strain in ckd stage 3a
-  - holiday heart syndrome prevention
-  - multisystem-biomarkers
 primaryKeyword: biomarkers of cardiac strain in ckd stage 3a
-topicCluster: multisystem-biomarkers
+topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,30 @@
 ---
-title: "When to Suspect Secondary Hypertension From Subclinical Primary Aldosteronism in Adults 55–64 With Resistant Hypertension and Normal Potassium"
-slug: "when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium"
-description: "Details red flags beyond classic hypokalemia — including early diastolic dysfunction on echo, elevated aldosterone-to-renin ratio in upright posture, and paradoxical BP rise after potassium supplementation — supported by Endocrine Society 2023 guidelines."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["secondary hypertension subclinical aldosteronism", "blood pressure", "endocrine-cause-resistant-hypertension"]
-primaryKeyword: "secondary hypertension subclinical aldosteronism"
-topicCluster: "endocrine-cause-resistant-hypertension"
-image: ""
-relatedSlugs: ["warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term", "what-causes-sudden-morning-blood-pressure-spikes-after-starting-a-low-carb-diet-in-adults-65-with-long-standing-hypertension-and-mild-diastolic-dysfunction", "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear", "7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg", "when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp"]
+title: >-
+  When to Suspect Secondary Hypertension From Subclinical Primary Aldosteronism
+  in Adults 55–64 With Resistant Hypertension and Normal Potassium
+slug: >-
+  when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium
+description: >-
+  Details red flags beyond classic hypokalemia — including early diastolic
+  dysfunction on echo, elevated aldosterone-to-renin ratio in upright posture,
+  and paradoxical BP rise after potassium supplementation — supported by
+  Endocrine Society 2023 guidelines.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: secondary hypertension subclinical aldosteronism
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
+  - >-
+    what-causes-sudden-morning-blood-pressure-spikes-after-starting-a-low-carb-diet-in-adults-65-with-long-standing-hypertension-and-mild-diastolic-dysfunction
+  - >-
+    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
+  - >-
+    7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
+  - >-
+    when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
 ---
 
 # When Secondary Hypertension Subclinical Aldosteronism Might Be Hiding Behind “Normal” Blood Pressure Readings

@@ -1,14 +1,29 @@
 ---
-title: "The Complete Guide to Interpreting Home BP Logs for Adults 61+ With White Coat Effect and Intermittent Elevated Readings"
-slug: "the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings"
-description: "Teaches how to distinguish true variability from artifact using pulse amplitude trends, morning-evening differentials, and ‘stress signature’ patterns — with printable log templates."
-date: "2026-02-01"
-updated: "2026-02-01"
-tags: ["interpreting home blood pressure logs", "blood pressure", "self-monitoring-data-literacy"]
-primaryKeyword: "interpreting home blood pressure logs"
-topicCluster: "self-monitoring-data-literacy"
-image: ""
-relatedSlugs: ["the-complete-guide-to-interpreting-home-bp-logs-for-adults-58-72-with-white-coat-hypertension-and-high-work-stress", "the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist", "the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings", "the-complete-guide-to-interpreting-your-home-bp-log-for-patterns-especially-if-you-re-60-and-tracking-after-antihypertensive-dose-changes", "the-complete-guide-to-interpreting-bp-variability-metrics-sd-cv-arv-from-your-ambulatory-monitor-especially-if-you-re-66-with-white-coat-effect-and-cognitive-concerns"]
+title: >-
+  The Complete Guide to Interpreting Home BP Logs for Adults 61+ With White Coat
+  Effect and Intermittent Elevated Readings
+slug: >-
+  the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings
+description: >-
+  Teaches how to distinguish true variability from artifact using pulse
+  amplitude trends, morning-evening differentials, and ‘stress signature’
+  patterns — with printable log templates.
+date: '2026-02-01'
+updated: '2026-02-01'
+primaryKeyword: interpreting home blood pressure logs
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-complete-guide-to-interpreting-home-bp-logs-for-adults-58-72-with-white-coat-hypertension-and-high-work-stress
+  - >-
+    the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
+  - >-
+    the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
+  - >-
+    the-complete-guide-to-interpreting-your-home-bp-log-for-patterns-especially-if-you-re-60-and-tracking-after-antihypertensive-dose-changes
+  - >-
+    the-complete-guide-to-interpreting-bp-variability-metrics-sd-cv-arv-from-your-ambulatory-monitor-especially-if-you-re-66-with-white-coat-effect-and-cognitive-concerns
 ---
 
 # A Practical Guide to Interpreting Home Blood Pressure Logs for Adults 61+ With White Coat Effect and Intermittent Elevations

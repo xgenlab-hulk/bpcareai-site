@@ -1,14 +1,29 @@
 ---
-title: "Simple Steps to Modify Grandma’s Pie Recipe for Diabetic Retinopathy Risk Reduction — Without Sacrificing Flavor or Texture"
-slug: "simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture"
-description: "Walks through evidence-based substitutions (anthocyanin-rich berries, resistant starch flour blends, low-AGE baking temps) validated in ophthalmic nutrition trials."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["grandma pie recipe diabetic retinopathy", "healthy holiday eating for seniors", "culinary-adaptation-eye-health"]
-primaryKeyword: "grandma pie recipe diabetic retinopathy"
-topicCluster: "culinary-adaptation-eye-health"
-image: ""
-relatedSlugs: ["10-foods-that-worsen-diabetic-retinopathy-progression-even-with-normal-blood-pressure-and-ldl-in-adults-60-with-early-nonproliferative-changes", "12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin", "the-complete-guide-to-safe-holiday-baking-with-insulin-resistance-from-low-glycemic-flour-blends-to-oven-temperature-adjustments-for-adults-62", "best-non-alcoholic-wine-alternatives-for-adults-75-with-diabetes-and-early-macular-degeneration-balancing-resveratrol-bioavailability-sugar-content-and-blue-light-filtering-potential", "simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection"]
+title: >-
+  Simple Steps to Modify Grandma’s Pie Recipe for Diabetic Retinopathy Risk
+  Reduction — Without Sacrificing Flavor or Texture
+slug: >-
+  simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture
+description: >-
+  Walks through evidence-based substitutions (anthocyanin-rich berries,
+  resistant starch flour blends, low-AGE baking temps) validated in ophthalmic
+  nutrition trials.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: grandma pie recipe diabetic retinopathy
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-worsen-diabetic-retinopathy-progression-even-with-normal-blood-pressure-and-ldl-in-adults-60-with-early-nonproliferative-changes
+  - >-
+    12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin
+  - >-
+    the-complete-guide-to-safe-holiday-baking-with-insulin-resistance-from-low-glycemic-flour-blends-to-oven-temperature-adjustments-for-adults-62
+  - >-
+    best-non-alcoholic-wine-alternatives-for-adults-75-with-diabetes-and-early-macular-degeneration-balancing-resveratrol-bioavailability-sugar-content-and-blue-light-filtering-potential
+  - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
 ---
 
 # A Heart-Warmingly Healthy Grandma Pie Recipe for Diabetic Retinopathy Support — Flavor Intact, Vision in Mind

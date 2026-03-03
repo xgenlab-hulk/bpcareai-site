@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Low-Glycemic' Breakfast Cereals for Adults 55+ With Prediabetes and Gastric Bypass History"
-slug: "the-truth-about-low-glycemic-breakfast-cereals-for-adults-55-with-prediabetes-and-gastric-bypass-history"
-description: "Investigates how altered gut anatomy and rapid gastric emptying distort glycemic index predictions — revealing why many 'low-GI' cereals cause severe postprandial spikes in this population."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["low-glycemic cereal gastric bypass prediabetes", "diabetes", "post-bariatric-glycemic-response"]
-primaryKeyword: "low-glycemic cereal gastric bypass prediabetes"
-topicCluster: "post-bariatric-glycemic-response"
-image: ""
-relatedSlugs: ["how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying", "how-intergenerational-gift-giving-of-homemade-treats-affects-blood-glucose-variability-in-adults-55-69-with-prediabetes-and-slow-gastric-emptying", "warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68", "can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide", "how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction"]
+title: >-
+  The Truth About 'Low-Glycemic' Breakfast Cereals for Adults 55+ With
+  Prediabetes and Gastric Bypass History
+slug: >-
+  the-truth-about-low-glycemic-breakfast-cereals-for-adults-55-with-prediabetes-and-gastric-bypass-history
+description: >-
+  Investigates how altered gut anatomy and rapid gastric emptying distort
+  glycemic index predictions — revealing why many 'low-GI' cereals cause severe
+  postprandial spikes in this population.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: low-glycemic cereal gastric bypass prediabetes
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
+  - >-
+    how-intergenerational-gift-giving-of-homemade-treats-affects-blood-glucose-variability-in-adults-55-69-with-prediabetes-and-slow-gastric-emptying
+  - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
+  - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
+  - >-
+    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
 ---
 
 # Why “Low-Glycemic” Cereal Isn’t Always Safe After Gastric Bypass — Especially With Prediabetes Over 55

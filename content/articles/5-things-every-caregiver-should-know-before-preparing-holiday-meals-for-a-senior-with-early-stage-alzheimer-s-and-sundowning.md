@@ -1,14 +1,28 @@
 ---
-title: "5 Things Every Caregiver Should Know Before Preparing Holiday Meals for a Senior With Early-Stage Alzheimer’s and Sundowning"
-slug: "5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning"
-description: "Practical, behaviorally grounded guidance on minimizing food-related agitation, using familiar flavors and textures, simplifying utensils, and managing mealtime confusion during peak evening hours."
-date: "2026-01-17"
-updated: "2026-01-17"
-tags: ["holiday meals for seniors with Alzheimer's", "healthy holiday eating for seniors", "caregiver-support-cognitive-health"]
-primaryKeyword: "holiday meals for seniors with Alzheimer's"
-topicCluster: "caregiver-support-cognitive-health"
-image: ""
-relatedSlugs: ["myths-vs-facts-eating-slowly-fixes-everything-during-holiday-meals-for-adults-with-mild-dementia-and-sundowning", "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia", "simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification", "warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness", "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60"]
+title: >-
+  5 Things Every Caregiver Should Know Before Preparing Holiday Meals for a
+  Senior With Early-Stage Alzheimer’s and Sundowning
+slug: >-
+  5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning
+description: >-
+  Practical, behaviorally grounded guidance on minimizing food-related
+  agitation, using familiar flavors and textures, simplifying utensils, and
+  managing mealtime confusion during peak evening hours.
+date: '2026-01-17'
+updated: '2026-01-17'
+primaryKeyword: holiday meals for seniors with Alzheimer's
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-eating-slowly-fixes-everything-during-holiday-meals-for-adults-with-mild-dementia-and-sundowning
+  - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
+  - >-
+    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
+  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 ---
 
 # 5 Gentle, Practical Tips for Holiday Meals for Seniors With Alzheimer’s—Especially During Sundowning

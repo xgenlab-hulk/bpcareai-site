@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Reduce Arterial Stiffness Within 2 Hours — For Adults 60–75 With Hypertension and High Pulse Wave Velocity"
-slug: "10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity"
-description: "Highlights acute vasodilatory foods: beetroot juice (nitrates), dark chocolate (epicatechin), pomegranate (ellagitannins), walnuts (ALA), and fermented soy (isoflavone metabolites)—with timing and co-factor requirements."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["foods reduce arterial stiffness pulse wave velocity", "blood pressure", "acute-vasodilation-diet"]
-primaryKeyword: "foods reduce arterial stiffness pulse wave velocity"
-topicCluster: "acute-vasodilation-diet"
-image: ""
-relatedSlugs: ["natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80", "10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score", "a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75", "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension"]
+title: >-
+  10 Foods That Reduce Arterial Stiffness Within 2 Hours — For Adults 60–75 With
+  Hypertension and High Pulse Wave Velocity
+slug: >-
+  10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
+description: >-
+  Highlights acute vasodilatory foods: beetroot juice (nitrates), dark chocolate
+  (epicatechin), pomegranate (ellagitannins), walnuts (ALA), and fermented soy
+  (isoflavone metabolites)—with timing and co-factor requirements.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: foods reduce arterial stiffness pulse wave velocity
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
+  - >-
+    10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score
+  - >-
+    a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
 ---
 
 # 10 Foods That Help Reduce Arterial Stiffness and Pulse Wave Velocity—Fast, Safe, and Science-Backed for Adults 60–75

@@ -1,14 +1,30 @@
 ---
-title: "5 Things You Should Know Before Bringing a 'Diabetes-Safe' Side Dish to Thanksgiving — Especially If You're Cooking for Someone With Gastroparesis"
-slug: "5-things-you-should-know-before-bringing-a-diabetes-safe-side-dish-to-thanksgiving-especially-if-you-re-cooking-for-someone-with-gastroparesis"
-description: "Covers overlooked food texture, fiber type, and glycemic index considerations when selecting or preparing side dishes for mixed-age, mixed-health-status family tables — with emphasis on gastric motility safety and satiety signaling."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["diabetes-safe side dish gastroparesis", "healthy eating during family gatherings", "intergenerational-meal-planning"]
-primaryKeyword: "diabetes-safe side dish gastroparesis"
-topicCluster: "intergenerational-meal-planning"
-image: ""
-relatedSlugs: ["best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation", "10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes", "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation", "can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide"]
+title: >-
+  5 Things You Should Know Before Bringing a 'Diabetes-Safe' Side Dish to
+  Thanksgiving — Especially If You're Cooking for Someone With Gastroparesis
+slug: >-
+  5-things-you-should-know-before-bringing-a-diabetes-safe-side-dish-to-thanksgiving-especially-if-you-re-cooking-for-someone-with-gastroparesis
+description: >-
+  Covers overlooked food texture, fiber type, and glycemic index considerations
+  when selecting or preparing side dishes for mixed-age, mixed-health-status
+  family tables — with emphasis on gastric motility safety and satiety
+  signaling.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: diabetes-safe side dish gastroparesis
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
+  - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
 ---
 
 # 5 Key Things to Know Before Serving a Diabetes-Safe Side Dish Gastroparesis-Friendly This Thanksgiving

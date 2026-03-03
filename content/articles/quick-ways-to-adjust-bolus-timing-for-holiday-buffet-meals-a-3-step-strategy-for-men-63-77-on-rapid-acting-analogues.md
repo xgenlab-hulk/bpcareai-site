@@ -1,14 +1,30 @@
 ---
-title: "Quick Ways to Adjust Bolus Timing for Holiday Buffet Meals — A 3-Step Strategy for Men 63–77 on Rapid-Acting Analogues"
-slug: "quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues"
-description: "Provides a field-tested insulin-timing framework accounting for delayed gastric emptying from high-fat holiday meals, ambient temperature effects on insulin absorption, and postprandial glucose ‘lag spikes’ observed in older males with mild gastroparesis."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["bolus timing holiday buffet meals seniors", "holiday diabetes management", "insulin-therapy-optimization"]
-primaryKeyword: "bolus timing holiday buffet meals seniors"
-topicCluster: "insulin-therapy-optimization"
-image: ""
-relatedSlugs: ["how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis", "natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms", "the-ultimate-guide-to-adjusting-rapid-acting-insulin-dosing-for-multi-course-holiday-dinners-with-carb-counting-fat-protein-factor-and-alcohol-adjustment-rules", "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65", "when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65"]
+title: >-
+  Quick Ways to Adjust Bolus Timing for Holiday Buffet Meals — A 3-Step Strategy
+  for Men 63–77 on Rapid-Acting Analogues
+slug: >-
+  quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
+description: >-
+  Provides a field-tested insulin-timing framework accounting for delayed
+  gastric emptying from high-fat holiday meals, ambient temperature effects on
+  insulin absorption, and postprandial glucose ‘lag spikes’ observed in older
+  males with mild gastroparesis.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: bolus timing holiday buffet meals seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+  - >-
+    the-ultimate-guide-to-adjusting-rapid-acting-insulin-dosing-for-multi-course-holiday-dinners-with-carb-counting-fat-protein-factor-and-alcohol-adjustment-rules
+  - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
+  - >-
+    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
 ---
 
 # Smart Bolus Timing for Holiday Buffet Meals: A Gentle 3-Step Guide for Seniors Using Rapid-Acting Insulin

@@ -1,14 +1,26 @@
 ---
-title: "12 Foods That *Raise* Blood Pressure—Even If They’re Low-Sodium or 'Heart-Healthy' on the Label"
-slug: "12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label"
-description: "Uncovers hidden BP-elevating culprits: high-potassium foods in renal impairment, tyramine-rich fermented items with MAOIs, licorice-containing supplements, and ultra-processed 'low-salt' snacks with compensatory vasoconstrictive additives."
-date: "2025-12-25"
-updated: "2025-12-25"
-tags: ["foods that raise blood pressure hidden", "blood pressure", "dietary-risks"]
-primaryKeyword: "foods that raise blood pressure hidden"
-topicCluster: "dietary-risks"
-image: ""
-relatedSlugs: ["5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium", "hidden-salt-surprising-foods-that-raise-blood-pressure", "hidden-salt-10-surprising-foods-that-spike-blood-pressure", "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid", "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60"]
+title: >-
+  12 Foods That *Raise* Blood Pressure—Even If They’re Low-Sodium or
+  'Heart-Healthy' on the Label
+slug: >-
+  12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label
+description: >-
+  Uncovers hidden BP-elevating culprits: high-potassium foods in renal
+  impairment, tyramine-rich fermented items with MAOIs, licorice-containing
+  supplements, and ultra-processed 'low-salt' snacks with compensatory
+  vasoconstrictive additives.
+date: '2025-12-25'
+updated: '2025-12-25'
+primaryKeyword: foods that raise blood pressure hidden
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
+  - hidden-salt-surprising-foods-that-raise-blood-pressure
+  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
 ---
 
 # Hidden Culprits: Foods That Raise Blood Pressure—Even When They Seem Safe

@@ -1,14 +1,28 @@
 ---
-title: "Simple Steps to Adjust Holiday Recipe Ratios for Optimal Postprandial Glucose in Adults 76+ With Post-Gastric Bypass Dumping Syndrome and Diabetes"
-slug: "simple-steps-to-adjust-holiday-recipe-ratios-for-optimal-postprandial-glucose-in-adults-76-with-post-gastric-bypass-dumping-syndrome-and-diabetes"
-description: "Provides math-based ingredient substitution rules (e.g., fiber:carb ratio minimums, fat timing windows) to prevent reactive hypoglycemia while preserving festive food integrity."
-date: "2026-02-02"
-updated: "2026-02-02"
-tags: ["holiday recipes dumping syndrome diabetes", "diabetes", "diet-nutrition-post-bariatric"]
-primaryKeyword: "holiday recipes dumping syndrome diabetes"
-topicCluster: "diet-nutrition-post-bariatric"
-image: ""
-relatedSlugs: ["can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide", "5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose", "how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58", "the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies", "simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature"]
+title: >-
+  Simple Steps to Adjust Holiday Recipe Ratios for Optimal Postprandial Glucose
+  in Adults 76+ With Post-Gastric Bypass Dumping Syndrome and Diabetes
+slug: >-
+  simple-steps-to-adjust-holiday-recipe-ratios-for-optimal-postprandial-glucose-in-adults-76-with-post-gastric-bypass-dumping-syndrome-and-diabetes
+description: >-
+  Provides math-based ingredient substitution rules (e.g., fiber:carb ratio
+  minimums, fat timing windows) to prevent reactive hypoglycemia while
+  preserving festive food integrity.
+date: '2026-02-02'
+updated: '2026-02-02'
+primaryKeyword: holiday recipes dumping syndrome diabetes
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
+  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
+  - >-
+    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
 ---
 
 # Holiday Recipes for Dumping Syndrome and Diabetes: Gentle Adjustments That Keep Joy on the Table

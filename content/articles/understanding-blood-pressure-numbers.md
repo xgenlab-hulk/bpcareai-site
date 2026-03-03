@@ -6,10 +6,6 @@ description: >-
   pressure and understanding what the numbers really tell you.
 date: '2024-11-15'
 updated: '2024-11-15'
-tags:
-  - blood pressure
-  - basics
-  - education
 primaryKeyword: blood pressure numbers
 topicCluster: hypertension-management
 image: ''

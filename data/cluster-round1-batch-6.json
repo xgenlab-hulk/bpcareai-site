@@ -1,0 +1,335 @@
+{
+  "batch_id": 6,
+  "total_original_clusters": 200,
+  "total_articles": 200,
+  "clustered_results": [
+    {
+      "new_cluster_name": "circadian-metabolic-health",
+      "description": "生物节律对代谢、血压和心血管功能的影响，包括睡眠、昼夜周期、时间生物学",
+      "rationale": "整合所有与生物节律相关的主题，包括昼夜血糖/血压节律、睡眠影响、时间营养学、光疗法等，形成完整的时间生物学健康体系",
+      "original_clusters": [
+        "circadian-liver-metabolism",
+        "circadian-glucose-reset",
+        "circadian-bp-rhythm",
+        "circadian-cardiac-rhythm",
+        "circadian-glucose-light-therapy",
+        "circadian-morning-surge",
+        "circadian-nutrition-disruption",
+        "sleep-circadian-glucose",
+        "sleep-autonomic",
+        "sleep-position-hemodynamics",
+        "overnight-glucose-safety",
+        "nocturnal-dip-paradox",
+        "meal-timing-intervention",
+        "meal-timing-hypoglycemia",
+        "exercise-timing",
+        "supplement-timing-comparisons",
+        "light-therapy-comparison",
+        "seasonal-glucose-management",
+        "seasonal-sympathetic-activation",
+        "seasonal-metabolic-rhythms",
+        "physiological-triggers-morning-routines",
+        "alcohol-metabolic-sleep-interaction"
+      ],
+      "total_articles": 22
+    },
+    {
+      "new_cluster_name": "nutrition-dietary-management",
+      "description": "饮食营养对代谢和心血管健康的影响，包括食物选择、营养素、膳食模式和进食策略",
+      "rationale": "合并所有饮食营养相关主题，涵盖食物标签、营养素平衡、膳食时间、食物质地、特殊饮食策略等，形成全面的营养管理体系",
+      "original_clusters": [
+        "inflammatory-diet",
+        "microbiome-disruptors-diet",
+        "food-labeling-misconceptions",
+        "label-literacy-ckd-diabetes",
+        "beverage-safety-hypertension",
+        "beverage-myth-debunking",
+        "beverage-comparison-metabolic-response",
+        "caffeine-metabolism-and-bp",
+        "food-labeling-cognitive-cardiac-overlap",
+        "food-texture-physiology",
+        "hidden-ingredient-risk",
+        "portion-distortion-sodium",
+        "quick-fixes-sodium-management",
+        "sodium-potassium-balance",
+        "diet-nutrition-glycemic-triggers",
+        "diet-nutrition-safe-foods",
+        "diet-nutrition-portion-cognition",
+        "diet-nutrition-glycemic-response",
+        "diet-molecular-pathways",
+        "diet-prebiotics-glp1",
+        "diet-mechanics",
+        "dietary-fat-inflammatory-plaque",
+        "beta-cell-nutrition",
+        "fasting-beta-cell",
+        "cardiac-diet-afterload",
+        "renal-diet-strategy",
+        "nutrition-renal",
+        "nutrition-mental-health",
+        "neurocardiac-nutrition",
+        "rns-system-nutrition",
+        "endothelial-ion-channel-nutrition",
+        "caregiver-nutrition-safety",
+        "geriatric-feeding-safety",
+        "scenario-specific-swallowing-safety",
+        "scenario-specific-dining",
+        "social-accessibility-dining",
+        "religion-fasting",
+        "truth-verification-food-quality-vascular-function",
+        "meal-structure-hemodynamics",
+        "postprandial-bp-management",
+        "pre-exposure-metabolic-priming"
+      ],
+      "total_articles": 40
+    },
+    {
+      "new_cluster_name": "natural-remedies-supplements",
+      "description": "天然疗法、营养补充剂和非药物干预对代谢和心血管健康的影响",
+      "rationale": "整合所有自然疗法、补充剂、营养素的心血管和代谢效应，包括omega-3、镁、线粒体营养、抗炎物质等非药物治疗选择",
+      "original_clusters": [
+        "nutraceutical-vascular-effects",
+        "nutraceutical-mitochondrial-therapy",
+        "natural-remedies-rv-pulmonary-vascular-function",
+        "natural-remedy-comparison",
+        "natural-remedies-mitochondria",
+        "natural-remedies-digestion",
+        "natural-remedies-inflammation",
+        "supplement-glucose-response",
+        "neuro-magnesium-bp",
+        "omega-3-endpoint-specificity",
+        "iron-metabolism-cardiac-function",
+        "coronary-calcium-non-statin-strategies",
+        "non-pharmacologic-intervention",
+        "non-pharmacologic-blood-pressure-comparison",
+        "non-pharmacologic-glucose-management"
+      ],
+      "total_articles": 15
+    },
+    {
+      "new_cluster_name": "glucose-diabetes-management",
+      "description": "糖尿病和血糖管理的各个方面，包括监测、治疗、并发症预防和生活方式干预",
+      "rationale": "合并糖尿病管理的所有维度，从血糖调节机制、监测技术、胰岛素治疗到脆性糖尿病模式，形成完整的糖尿病综合管理体系",
+      "original_clusters": [
+        "glucose-dysregulation-mechanisms",
+        "behavioral-glucose-management",
+        "mindfulness-glucose-regulation",
+        "mental-health-glucose-link",
+        "diabetes-reversal-myths-facts",
+        "frailty-informed-cgm-interpretation",
+        "post-bariatric-glycemic-response",
+        "gastric-emptying-glucose-variability",
+        "pancreatic-resilience-stress",
+        "insulin-therapy-optimization",
+        "treatment-pump-complications",
+        "treatment-brittle-patterns",
+        "monitoring-accuracy-factors",
+        "monitoring-a1c-limitations",
+        "monitoring-beta-cell-function",
+        "complications-exocrine-pancreas",
+        "gut-hormone-activation"
+      ],
+      "total_articles": 17
+    },
+    {
+      "new_cluster_name": "blood-pressure-hypertension-care",
+      "description": "高血压的诊断、监测、治疗和管理，包括血压变异性、家庭监测和生活方式干预",
+      "rationale": "整合高血压管理的所有方面，从血压监测技术、隐匿性高血压、继发性高血压识别到脉压、体位性血压变化等专业主题",
+      "original_clusters": [
+        "masked-bp-risk",
+        "bp-monitoring-literacy",
+        "home-monitoring-accuracy",
+        "pulse-pressure-awareness",
+        "secondary-hypertension-clues",
+        "blood-pressure-prevention",
+        "frail-elderly-bp-strategy",
+        "diastolic-bp-breathing",
+        "postprandial-bp-management",
+        "acute-hemodynamic-posture",
+        "positional-hemodynamics",
+        "monitoring-paradoxes-vascular-aging"
+      ],
+      "total_articles": 12
+    },
+    {
+      "new_cluster_name": "cardiovascular-physiology-mechanisms",
+      "description": "心血管系统的生理机制和病理生理，包括血流动力学、自主神经调节、心律失常机制",
+      "rationale": "合并心血管系统底层机制相关主题，涵盖自主神经调节、迷走神经、呼吸-心血管耦合、电生理、离子通道等基础生理学内容",
+      "original_clusters": [
+        "autonomic-regulation",
+        "vagal-stimulation-arrhythmia",
+        "vagal-activation-protocols",
+        "autonomic-variability-rehabilitation",
+        "respiratory-hemodynamics",
+        "respiratory-cardiac-coupling",
+        "respiratory-vascular-mechanics",
+        "breathing-autonomic",
+        "alcohol-arrhythmia-mechanism",
+        "heavy-metal-electrophysiology",
+        "electrophysiology-medication-interaction",
+        "laa-hemodynamics-thromboembolism",
+        "science-backed-mitochondrial-cardiac-energetics",
+        "metabolic-therapy-diastolic-function",
+        "valvular-vascular-interaction"
+      ],
+      "total_articles": 15
+    },
+    {
+      "new_cluster_name": "vascular-endothelial-health",
+      "description": "血管和内皮功能健康，包括微循环、血管老化、动脉僵硬度、血管再生和内皮保护",
+      "rationale": "整合所有血管健康相关主题，从微循环支持、内皮功能、动脉顺应性到血管老化评估，形成完整的血管健康维护体系",
+      "original_clusters": [
+        "microcirculation-support",
+        "exercise-microcirculation",
+        "microvascular-regeneration",
+        "arterial-stiffness-management",
+        "arterial-compliance-support",
+        "vascular-aging-assessment",
+        "gut-vascular-phenotype",
+        "immune-vascular-interface",
+        "epigenetic-endothelial-support",
+        "nature-based-vascular-repair",
+        "oral-systemic-vascular-link",
+        "neurovascular-dysfunction",
+        "neurovascular-cognitive-link",
+        "asymptomatic-plaque-risk-misconceptions",
+        "cerebral-perfusion-risks"
+      ],
+      "total_articles": 15
+    },
+    {
+      "new_cluster_name": "metabolic-syndrome-connections",
+      "description": "代谢综合征及多系统代谢关联，包括肝脏代谢、肾脏-代谢联系、肠道-代谢轴",
+      "rationale": "合并代谢综合征和跨系统代谢连接，涵盖肝脏、肾脏、胃肠道代谢，以及代谢-内分泌-免疫交互作用",
+      "original_clusters": [
+        "renal-metabolic-comparison",
+        "circadian-liver-metabolism",
+        "lifestyle-metabolism",
+        "gastrointestinal-metabolic-connection",
+        "digestive-physiology",
+        "gastrointestinal-resilience",
+        "androgen-metabolic-synergy",
+        "environment-endocrinology",
+        "gut-brain-metabolism-link",
+        "stress-metabolism-research",
+        "autoimmunity-immunomodulation",
+        "environmental-toxicity-metabolism"
+      ],
+      "total_articles": 12
+    },
+    {
+      "new_cluster_name": "medication-pharmacology-safety",
+      "description": "药物治疗、药物相互作用、副作用管理和用药安全监测",
+      "rationale": "整合所有药物相关主题，包括多重用药风险、药物间相互作用、副作用识别、用药监测、去处方化等药物治疗安全管理",
+      "original_clusters": [
+        "medication-monitoring-red-flags",
+        "medication-adjustment-time-zones",
+        "medication-safety-monitoring",
+        "polypharmacy-risks",
+        "medication-interactions-vascular",
+        "medication-side-effects-sensory",
+        "medications-bone-health",
+        "medications-lung-liver",
+        "medications-gut-absorption",
+        "medications-neurocognition",
+        "pharmacologic-deprescribing"
+      ],
+      "total_articles": 11
+    },
+    {
+      "new_cluster_name": "symptoms-warning-signs",
+      "description": "症状识别、危险信号和急症预警，包括性别差异、神经系统和心血管急症识别",
+      "rationale": "合并所有症状识别和预警信号相关内容，涵盖女性特异性症状、神经症状、心脏传导系统疾病预警、急症时机判断等",
+      "original_clusters": [
+        "symptom-recognition-women",
+        "symptom-recognition-cognitive",
+        "when-to-worry-neurological",
+        "when-to-worry-cardiac-risk",
+        "emergency-symptom-timing",
+        "warning-signs-conduction-system-disease",
+        "warning-signs-hydration",
+        "warning-signs-electrolyte-risk",
+        "warning-signs-vascular-health",
+        "causes-symptoms-fatigue",
+        "menopause-bp-symptoms",
+        "right-heart-fibrosis-early-detection",
+        "infiltrative-cardiomyopathy-detection",
+        "aortic-structural-risk-signs",
+        "subclinical-organ-damage"
+      ],
+      "total_articles": 15
+    },
+    {
+      "new_cluster_name": "complications-comorbidities",
+      "description": "并发症和合并症的预防、识别和管理，包括器官损伤和多系统并发症",
+      "rationale": "整合各类并发症主题，包括眼部、神经病变、肾脏等器官损伤，以及衰弱、肌少症等合并症管理",
+      "original_clusters": [
+        "complications-eyes",
+        "caregiver-safety-neuropathy",
+        "myths-vs-facts-sarcopenia",
+        "psychosocial-impact"
+      ],
+      "total_articles": 4
+    },
+    {
+      "new_cluster_name": "exercise-physical-activity",
+      "description": "运动和身体活动对代谢和心血管健康的影响，包括运动类型、强度、时机和康复",
+      "rationale": "合并所有运动相关主题，从低强度运动血糖反应、运动时机、久坐生理学到运动康复安全性",
+      "original_clusters": [
+        "low-impact-exercise-glycemic-response",
+        "exercise-mobility",
+        "exercise-recovery-safety",
+        "sedentary-work-physiology",
+        "lifestyle-modification-afib-management"
+      ],
+      "total_articles": 5
+    },
+    {
+      "new_cluster_name": "special-populations-care",
+      "description": "特殊人群的健康管理，包括老年人、女性、照护者和特殊场景下的护理策略",
+      "rationale": "整合针对特殊人群的护理主题，涵盖性别差异、老年衰弱、照护者支持、文化/宗教考虑等",
+      "original_clusters": [
+        "comparison-lifestyle-interventions-women-heart-health",
+        "family-dynamics-glycemic-impact",
+        "caregiver-support-cognitive-health",
+        "education-accessibility"
+      ],
+      "total_articles": 4
+    },
+    {
+      "new_cluster_name": "environmental-lifestyle-factors",
+      "description": "环境因素和生活方式对心血管和代谢健康的影响，包括毒素、温度、旅行等",
+      "rationale": "合并环境和情境因素，包括环境毒素、温度调节、旅行相关风险、设备选择等外部因素对健康的影响",
+      "original_clusters": [
+        "environmental-toxins-cardiovascular-risk",
+        "environmental-toxicology-hypertension",
+        "thermoregulatory-safety",
+        "travel-hemodynamics-endothelium",
+        "scenario-specific-travel-cardiac-risks",
+        "device-selection-travel",
+        "quick-recovery-cold-weather-vascular-function"
+      ],
+      "total_articles": 7
+    },
+    {
+      "new_cluster_name": "diagnostic-monitoring-technologies",
+      "description": "诊断技术、监测设备和新兴医疗技术，包括影像学、AI诊断和家庭监测",
+      "rationale": "整合所有诊断和监测技术相关主题，包括MRI灌注成像、AI辅助诊断、CGM解读等现代医疗技术应用",
+      "original_clusters": [
+        "mri-perfusion-microvascular-angina",
+        "ai-diagnostics-silent-mi",
+        "acute-intervention-protocol",
+        "procedure-specific-cardiac-autonomic-risks",
+        "science-research-diet-timing-cardiac-structure",
+        "genetic-risk-prevention",
+        "a-vs-b-intervention-comparison"
+      ],
+      "total_articles": 7
+    }
+  ],
+  "clustering_summary": {
+    "new_clusters_count": 15,
+    "avg_articles_per_cluster": 13.3,
+    "largest_cluster": "nutrition-dietary-management (40篇)",
+    "approach": "基于生理系统、治疗维度和临床场景的三维度语义聚类，强调时间生物学、营养干预和机制理解"
+  }
+}

@@ -6,12 +6,8 @@ description: >-
   contribute to elevated blood pressure in seniors.
 date: '2025-12-10'
 updated: '2025-12-10'
-tags:
-  - winter depression and hypertension
-  - senior blood pressure control in winter
-  - emotional-mental-health
 primaryKeyword: winter depression and hypertension
-topicCluster: mental-wellness
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know

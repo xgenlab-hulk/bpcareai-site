@@ -1,14 +1,30 @@
 ---
-title: "Natural Ways to Support Coronary Microvascular Function *Without* Increasing Nitric Oxide Synthase Uncoupling — Using Pomegranate Ellagitannins + Low-Dose L-Citrulline Timing in Adults 60–67 With INOCA"
-slug: "natural-ways-to-support-coronary-microvascular-function-without-increasing-nitric-oxide-synthase-uncoupling-using-pomegranate-ellagitannins-low-dose-l-citrulline-timing-in-adults-60-67-with-inoca"
-description: "Details a targeted, evidence-based supplement protocol for ischemia with no obstructive CAD, focusing on endothelial mitochondrial support rather than broad NO stimulation."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["natural support for coronary microvascular disease", "heart disease", "natural-remedies-microvascular"]
-primaryKeyword: "natural support for coronary microvascular disease"
-topicCluster: "natural-remedies-microvascular"
-image: ""
-relatedSlugs: ["natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca", "natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad", "natural-ways-to-enhance-myocardial-nitric-oxide-synthase-coupling-without-l-arginine-using-beetroot-derived-nitrate-exercise-timing-and-oral-microbiome-support-in-sedentary-adults-68", "5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms", "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling"]
+title: >-
+  Natural Ways to Support Coronary Microvascular Function *Without* Increasing
+  Nitric Oxide Synthase Uncoupling — Using Pomegranate Ellagitannins + Low-Dose
+  L-Citrulline Timing in Adults 60–67 With INOCA
+slug: >-
+  natural-ways-to-support-coronary-microvascular-function-without-increasing-nitric-oxide-synthase-uncoupling-using-pomegranate-ellagitannins-low-dose-l-citrulline-timing-in-adults-60-67-with-inoca
+description: >-
+  Details a targeted, evidence-based supplement protocol for ischemia with no
+  obstructive CAD, focusing on endothelial mitochondrial support rather than
+  broad NO stimulation.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: natural support for coronary microvascular disease
+topicCluster: natural-remedies
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca
+  - >-
+    natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad
+  - >-
+    natural-ways-to-enhance-myocardial-nitric-oxide-synthase-coupling-without-l-arginine-using-beetroot-derived-nitrate-exercise-timing-and-oral-microbiome-support-in-sedentary-adults-68
+  - >-
+    5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
 ---
 
 # Natural Support for Coronary Microvascular Disease: A Targeted, Mitochondria-Focused Approach for Adults 60–67 With INOCA

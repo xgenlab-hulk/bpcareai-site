@@ -6,12 +6,8 @@ description: >-
   benefits for seniors struggling with seasonal mood changes.
 date: '2025-12-02'
 updated: '2025-12-02'
-tags:
-  - light therapy for seasonal depression
-  - seasonal depression in older adults
-  - treatment-options
 primaryKeyword: light therapy for seasonal depression
-topicCluster: medications-supplements
+topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75

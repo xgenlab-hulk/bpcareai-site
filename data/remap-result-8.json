@@ -1,0 +1,1506 @@
+{
+  "batch_id": 8,
+  "total_articles": 250,
+  "mappings": [
+    {
+      "slug": "a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease",
+      "old_cluster": "renal-nutrition-comparison",
+      "new_cluster": "renal-health",
+      "rationale": "文章主要讨论肾脏健康相关内容"
+    },
+    {
+      "slug": "a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance",
+      "old_cluster": "beverage-comparison-insulin-resistance",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications",
+      "old_cluster": "medication-hydration-safety",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别或早期诊断"
+    },
+    {
+      "slug": "10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia",
+      "old_cluster": "swallowing-safety-nutrition",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60",
+      "old_cluster": "blood-pressure-variability-nutrition",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65",
+      "old_cluster": "respiratory-nutrition-interface",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68",
+      "old_cluster": "vision-health-nutrition",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging",
+      "old_cluster": "food-labeling-transparency",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74",
+      "old_cluster": "natural-remedies-endothelial-health",
+      "new_cluster": "medication-safety",
+      "rationale": "文章主要讨论药物安全"
+    },
+    {
+      "slug": "how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes",
+      "old_cluster": "diabetic-diet-strategy",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70",
+      "old_cluster": "stress-physiology-blood-sugar",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72",
+      "old_cluster": "chronobiology-nutrition",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65",
+      "old_cluster": "stress-metabolism-interaction",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals",
+      "old_cluster": "causes-research-link",
+      "new_cluster": "gastrointestinal-health",
+      "rationale": "文章涉及消化系统健康"
+    },
+    {
+      "slug": "does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58",
+      "old_cluster": "metabolic-risk-prognostication",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "collard-greens-heart-failure-diuretics-comparison",
+      "old_cluster": "heart-failure-diet-comparison",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "文章讨论特定心脏疾病"
+    },
+    {
+      "slug": "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65",
+      "old_cluster": "insulin-dosing-flexibility",
+      "new_cluster": "diabetes-management",
+      "rationale": "基于关键词匹配: insulin"
+    },
+    {
+      "slug": "best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk",
+      "old_cluster": "heart-failure-flavor-science",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "文章主题是疾病预防或风险评估"
+    },
+    {
+      "slug": "best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required",
+      "old_cluster": "joint-friendly-diabetic-cooking",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd",
+      "old_cluster": "gut-health-diet-modification",
+      "new_cluster": "gastrointestinal-health",
+      "rationale": "文章涉及消化系统健康"
+    },
+    {
+      "slug": "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62",
+      "old_cluster": "hypertension-symptom-recognition",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60",
+      "old_cluster": "symptom-recognition-glp1-users",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60",
+      "old_cluster": "hepatic-metabolism-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits",
+      "old_cluster": "inflammation-modulation",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension",
+      "old_cluster": "behavioral-nutrition-intervention",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75",
+      "old_cluster": "geriatric-safety-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone",
+      "old_cluster": "supplements-qtc-stability",
+      "new_cluster": "special-populations",
+      "rationale": "基于关键词匹配: older adult"
+    },
+    {
+      "slug": "what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time",
+      "old_cluster": "diabetic-diet-research",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension",
+      "old_cluster": "diet-nutrition-ckd-hypertension",
+      "new_cluster": "renal-health",
+      "rationale": "文章主要讨论肾脏健康相关内容"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers",
+      "old_cluster": "medication-alcohol-interactions",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old",
+      "old_cluster": "myths-facts-oldest-old",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors",
+      "old_cluster": "nutrition-myth-busting-frailty",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus",
+      "old_cluster": "lifestyle-sauna-recovery",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia",
+      "old_cluster": "neuro-diet-circadian",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd",
+      "old_cluster": "medications-complications",
+      "new_cluster": "gastrointestinal-health",
+      "rationale": "文章涉及消化系统健康"
+    },
+    {
+      "slug": "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease",
+      "old_cluster": "diet-timing-diastolic-function",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60",
+      "old_cluster": "diet-nutrition-choices",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养,糖尿病是应用场景"
+    },
+    {
+      "slug": "best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options",
+      "old_cluster": "exercise-comorbidity",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "文章主题是运动或生活方式干预"
+    },
+    {
+      "slug": "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd",
+      "old_cluster": "renal-diet-comparison",
+      "new_cluster": "renal-health",
+      "rationale": "文章涉及肾脏疾病的饮食管理,归入肾脏健康"
+    },
+    {
+      "slug": "7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55",
+      "old_cluster": "physiological-triggers-age-55-plus",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid",
+      "old_cluster": "diet-nutrition-sugar-awareness",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control",
+      "old_cluster": "diabetic-diet-identification",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65",
+      "old_cluster": "medications-statin-safety",
+      "new_cluster": "monitoring-technology",
+      "rationale": "文章涉及健康监测技术或设备"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle",
+      "old_cluster": "prevention-metabolic",
+      "new_cluster": "special-populations",
+      "rationale": "基于关键词匹配: men, age"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55",
+      "old_cluster": "prevention-coronary-calcification",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "基于关键词匹配: coronary, artery"
+    },
+    {
+      "slug": "why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea",
+      "old_cluster": "comorbidities-sleep-apnea",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68",
+      "old_cluster": "medication-symptom-alerts",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60",
+      "old_cluster": "symptom-timing-gender-red-flags",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath",
+      "old_cluster": "symptoms-comorbidity",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别或早期诊断"
+    },
+    {
+      "slug": "top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60",
+      "old_cluster": "treatment-alternatives",
+      "new_cluster": "renal-health",
+      "rationale": "文章主要讨论肾脏健康相关内容"
+    },
+    {
+      "slug": "the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications",
+      "old_cluster": "supplements-medications-safety",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "the-connection-between-winter-infections-and-blood-pressure-fluctuations",
+      "old_cluster": "complications-related-conditions",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70",
+      "old_cluster": "sensory-health-cardiac-outcomes",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "文章主题是疾病预防或风险评估"
+    },
+    {
+      "slug": "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night",
+      "old_cluster": "sleep-cardiovascular-link",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65",
+      "old_cluster": "cardiac-diet-behavioral",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib",
+      "old_cluster": "circadian-afib-interaction",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now",
+      "old_cluster": "gut-heart-axis-prevention",
+      "new_cluster": "gastrointestinal-health",
+      "rationale": "文章涉及消化系统健康"
+    },
+    {
+      "slug": "how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk",
+      "old_cluster": "emotional-health-autonomic-function",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "文章主题是疾病预防或风险评估"
+    },
+    {
+      "slug": "does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors",
+      "old_cluster": "environmental-hypertension",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50",
+      "old_cluster": "treatment-dietary-intervention",
+      "new_cluster": "special-populations",
+      "rationale": "基于关键词匹配: men"
+    },
+    {
+      "slug": "can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show",
+      "old_cluster": "dietary-timing-hypertension",
+      "new_cluster": "renal-health",
+      "rationale": "文章涉及肾脏疾病的饮食管理,归入肾脏健康"
+    },
+    {
+      "slug": "can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65",
+      "old_cluster": "low-intensity-stress-physiology",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation",
+      "old_cluster": "environmental-triggers-arrhythmia",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats",
+      "old_cluster": "exercise-aortic-stenosis",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "文章主题是运动或生活方式干预"
+    },
+    {
+      "slug": "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80",
+      "old_cluster": "symptoms-aging-misdiagnosis",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别或早期诊断"
+    },
+    {
+      "slug": "why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70",
+      "old_cluster": "causes-gender-specific",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension",
+      "old_cluster": "emergency-symptoms",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "文章讨论特定心脏疾病"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease",
+      "old_cluster": "diet-nutrition-comorbidity",
+      "new_cluster": "renal-health",
+      "rationale": "文章涉及肾脏疾病的饮食管理,归入肾脏健康"
+    },
+    {
+      "slug": "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone",
+      "old_cluster": "emotional-health-physiology",
+      "new_cluster": "special-populations",
+      "rationale": "基于关键词匹配: older adult"
+    },
+    {
+      "slug": "red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue",
+      "old_cluster": "diagnostic-mimickers-amyloidosis",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85",
+      "old_cluster": "quick-intervention-physiological",
+      "new_cluster": "hypertension-management",
+      "rationale": "基于关键词匹配: bp, systolic"
+    },
+    {
+      "slug": "natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices",
+      "old_cluster": "vagal-modulation-nonpharmacologic",
+      "new_cluster": "monitoring-technology",
+      "rationale": "文章涉及健康监测技术或设备"
+    },
+    {
+      "slug": "natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60",
+      "old_cluster": "natural-remedies-physiology",
+      "new_cluster": "natural-remedies",
+      "rationale": "基于关键词匹配: natural, supplement"
+    },
+    {
+      "slug": "myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75",
+      "old_cluster": "medications-myths",
+      "new_cluster": "special-populations",
+      "rationale": "基于关键词匹配: men, age"
+    },
+    {
+      "slug": "how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification",
+      "old_cluster": "lifestyle-chronobiology",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55",
+      "old_cluster": "environmental-risk-factors",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70",
+      "old_cluster": "differential-diagnosis-elderly-male",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "can-dog-ownership-reduce-seasonal-depression-risk-in-retired-seniors",
+      "old_cluster": "lifestyle-modifications",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air",
+      "old_cluster": "travel-hydration-cardiac-safety",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "文章讨论特定心脏疾病"
+    },
+    {
+      "slug": "a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60",
+      "old_cluster": "diagnostic-gaps-gender-specific",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "7-hidden-winter-habits-that-worsen-hypertension-after-60",
+      "old_cluster": "lifestyle-modifications",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy",
+      "old_cluster": "monitoring-testing",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party",
+      "old_cluster": "caregiver-event-preparation",
+      "new_cluster": "monitoring-technology",
+      "rationale": "文章涉及健康监测技术或设备"
+    },
+    {
+      "slug": "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60",
+      "old_cluster": "nutrition-sarcopenia-prevention",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking",
+      "old_cluster": "non-alcoholic-cardiac-stressors",
+      "new_cluster": "gastrointestinal-health",
+      "rationale": "文章涉及消化系统健康"
+    },
+    {
+      "slug": "why-older-women-are-more-vulnerable-to-winter-heart-events",
+      "old_cluster": "gender-specific-concerns",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents",
+      "old_cluster": "cardiac-symptom-recognition",
+      "new_cluster": "renal-health",
+      "rationale": "文章主要讨论肾脏健康相关内容"
+    },
+    {
+      "slug": "the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you",
+      "old_cluster": "food-labeling-literacy",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "the-connection-between-holiday-light-exposure-and-blood-sugar-regulation",
+      "old_cluster": "circadian-rhythm-metabolism",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70",
+      "old_cluster": "cardiac-diet-social-navigation",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "文章讨论特定心脏疾病"
+    },
+    {
+      "slug": "simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension",
+      "old_cluster": "hypertension-diet-modifications",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals",
+      "old_cluster": "geriatric-digestion-natural",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65",
+      "old_cluster": "chronobiology-sleep-nutrition",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75",
+      "old_cluster": "physiology-aging-digestion",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes",
+      "old_cluster": "gender-specific-concerns",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors",
+      "old_cluster": "gut-cardiovascular-link",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70",
+      "old_cluster": "geographic-impact",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression",
+      "old_cluster": "mental-wellness-practices",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "can-late-night-holiday-parties-disrupt-heart-rhythm-after-60",
+      "old_cluster": "sleep-lifestyle",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors",
+      "old_cluster": "diet-nutrition",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short",
+      "old_cluster": "hormonal-women-pcos",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods",
+      "old_cluster": "diabetic-diet-texture-adapted",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养,糖尿病是应用场景"
+    },
+    {
+      "slug": "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs",
+      "old_cluster": "gastrointestinal-diet-modifications",
+      "new_cluster": "gastrointestinal-health",
+      "rationale": "文章涉及消化系统健康"
+    },
+    {
+      "slug": "7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning",
+      "old_cluster": "lifestyle-habits-morning",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings",
+      "old_cluster": "diabetic-diet-intervention",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养,糖尿病是应用场景"
+    },
+    {
+      "slug": "when-to-worry-about-blood-sugar-swings-after-new-year-s-eve",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "renal-health",
+      "rationale": "文章主要讨论肾脏健康相关内容"
+    },
+    {
+      "slug": "what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60",
+      "old_cluster": "hypertension-management",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "the-truth-about-winter-weight-gain-and-heart-strain-after-60",
+      "old_cluster": "education-awareness",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner",
+      "old_cluster": "physical-activity",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "how-to-adjust-your-parent-s-daily-routine-to-combat-winter-depression",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor",
+      "old_cluster": "hypertension-management",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t",
+      "old_cluster": "complications-comorbidities",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "文章讨论特定心脏疾病"
+    },
+    {
+      "slug": "5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58",
+      "old_cluster": "age-gender-specific",
+      "new_cluster": "special-populations",
+      "rationale": "基于关键词匹配: men, age"
+    },
+    {
+      "slug": "12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults",
+      "old_cluster": "treatment-interventions",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely",
+      "old_cluster": "seasonal-health",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss",
+      "old_cluster": "health-monitoring",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "renal-health",
+      "rationale": "文章主要讨论肾脏健康相关内容"
+    },
+    {
+      "slug": "what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery",
+      "old_cluster": "hypertension-management",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "基于关键词匹配: carb, fat"
+    },
+    {
+      "slug": "the-truth-about-alcohol-and-blood-sugar-during-holiday-parties",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "special-populations",
+      "rationale": "基于关键词匹配: senior, women, men"
+    },
+    {
+      "slug": "the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors",
+      "old_cluster": "health-monitoring",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown",
+      "old_cluster": "diabetes-care",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75",
+      "old_cluster": "hypertension-management",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think",
+      "old_cluster": "hypertension-management",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养,糖尿病是应用场景"
+    },
+    {
+      "slug": "why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter",
+      "old_cluster": "age-gender-specific",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "why-dehydration-at-holiday-events-may-worsen-heart-palpitations",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "when-to-worry-about-chest-tightness-in-cold-weather",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别或早期诊断"
+    },
+    {
+      "slug": "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "the-link-between-atrial-fibrillation-and-heart-disease-in-seniors",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "cardiac-disease-management",
+      "rationale": "文章讨论特定心脏疾病"
+    },
+    {
+      "slug": "the-impact-of-hot-showers-on-blood-pressure-and-heart-rate",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "managing-type-2-diabetes-while-attending-back-to-back-holiday-parties",
+      "old_cluster": "social-environmental",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "is-holiday-heart-syndrome-reversible-what-science-says",
+      "old_cluster": "medications-supplements",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "is-chest-pain-always-a-sign-of-heart-disease-in-seniors",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别或早期诊断"
+    },
+    {
+      "slug": "how-kidney-function-declines-faster-in-older-adults-with-diabetes",
+      "old_cluster": "complications-comorbidities",
+      "new_cluster": "renal-health",
+      "rationale": "文章主要讨论肾脏健康相关内容"
+    },
+    {
+      "slug": "holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips",
+      "old_cluster": "age-gender-specific",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "diabetes-and-joint-pain-is-there-a-connection",
+      "old_cluster": "complications-comorbidities",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "can-intermittent-fasting-help-reset-blood-sugar-after-christmas",
+      "old_cluster": "medications-supplements",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别或早期诊断"
+    },
+    {
+      "slug": "why-women-s-heart-attack-symptoms-differ-after-menopause",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别或早期诊断"
+    },
+    {
+      "slug": "when-to-worry-about-palpitations-after-christmas-dinner",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter",
+      "old_cluster": "evidence-research",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "the-truth-about-benign-holiday-palpitations-are-they-really-harmless",
+      "old_cluster": "education-awareness",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe",
+      "old_cluster": "hypertension-management",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home",
+      "old_cluster": "complications-comorbidities",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar",
+      "old_cluster": "diabetes-care",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60",
+      "old_cluster": "preventive-care",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65",
+      "old_cluster": "hypertension-management",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "文章主题是运动或生活方式干预"
+    },
+    {
+      "slug": "how-chronic-lung-conditions-amplify-heart-risks-in-winter",
+      "old_cluster": "complications-comorbidities",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "3-simple-breathing-techniques-to-reduce-heart-stress-in-cold-air",
+      "old_cluster": "treatment-interventions",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "top-5-winter-superfoods-that-naturally-lower-blood-pressure",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "the-benefits-of-eating-nuts-daily-for-heart-protection-over-50",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "portion-control-strategies-for-large-family-meals-that-work",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "how-strength-training-protects-your-heart-as-you-age",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "holiday-medication-management-what-to-do-when-schedules-get-disrupted",
+      "old_cluster": "medications-supplements",
+      "new_cluster": "medication-safety",
+      "rationale": "文章主要讨论药物安全"
+    },
+    {
+      "slug": "could-leg-swelling-be-a-sign-of-heart-trouble-after-50",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别或早期诊断"
+    },
+    {
+      "slug": "christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar",
+      "old_cluster": "evidence-research",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "can-seniors-drink-alcohol-safely-during-the-holidays-what-your-medications-say",
+      "old_cluster": "medications-supplements",
+      "new_cluster": "medication-safety",
+      "rationale": "文章主要讨论药物安全"
+    },
+    {
+      "slug": "can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes",
+      "old_cluster": "treatment-interventions",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season",
+      "old_cluster": "diabetes-care",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know",
+      "old_cluster": "evidence-research",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "5-science-backed-ways-to-reduce-holiday-related-insulin-resistance",
+      "old_cluster": "evidence-research",
+      "new_cluster": "diabetes-management",
+      "rationale": "基于关键词匹配: insulin"
+    },
+    {
+      "slug": "why-morning-blood-pressure-surges-are-more-dangerous-in-winter",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk",
+      "old_cluster": "mental-wellness",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "why-emotional-eating-during-christmas-raises-blood-sugar-after-50",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养,糖尿病是应用场景"
+    },
+    {
+      "slug": "top-7-heart-protective-vitamins-to-take-in-winter",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday",
+      "old_cluster": "mental-wellness",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors",
+      "old_cluster": "medications-supplements",
+      "new_cluster": "monitoring-technology",
+      "rationale": "文章涉及健康监测技术或设备"
+    },
+    {
+      "slug": "the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees",
+      "old_cluster": "mental-wellness",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "natural-ways-to-manage-seasonal-depression-in-seniors-without-medication",
+      "old_cluster": "treatment-interventions",
+      "new_cluster": "medication-safety",
+      "rationale": "文章主要讨论药物安全"
+    },
+    {
+      "slug": "is-sugar-free-living-necessary-for-diabetics-over-50",
+      "old_cluster": "diabetes-care",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide",
+      "old_cluster": "health-monitoring",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "how-fiber-rich-diets-support-heart-health-in-people-over-60",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk",
+      "old_cluster": "seasonal-health",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "can-shoveling-snow-trigger-a-heart-event-in-older-adults",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "10-winter-safe-exercises-for-heart-health-after-65",
+      "old_cluster": "physical-activity",
+      "new_cluster": "lifestyle-interventions",
+      "rationale": "文章主题是运动或生活方式干预"
+    },
+    {
+      "slug": "top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season",
+      "old_cluster": "diabetes-care",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "the-role-of-omega-3-fatty-acids-in-preventing-heart-disease",
+      "old_cluster": "hypertension-management",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "文章主题是疾病预防或风险评估"
+    },
+    {
+      "slug": "the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias",
+      "old_cluster": "medications-supplements",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "quick-ways-to-calm-a-racing-heart-during-a-holiday-event",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "myths-vs-facts-healthy-eating-during-family-celebrations",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues",
+      "old_cluster": "education-awareness",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone",
+      "old_cluster": "mental-wellness",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes",
+      "old_cluster": "complications-comorbidities",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "how-family-gatherings-can-unintentionally-raise-heart-attack-risk",
+      "old_cluster": "mental-wellness",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "文章主题是疾病预防或风险评估"
+    },
+    {
+      "slug": "how-excessive-salt-intake-leads-to-heart-disease-over-time",
+      "old_cluster": "hypertension-management",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes",
+      "old_cluster": "diabetes-care",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "can-heart-disease-be-reversed-with-lifestyle-changes-after-50",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "best-non-alcoholic-holiday-drinks-for-heart-health-after-50",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol",
+      "old_cluster": "complications-comorbidities",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease",
+      "old_cluster": "complications-comorbidities",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "文章主题是疾病预防或风险评估"
+    },
+    {
+      "slug": "why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors",
+      "old_cluster": "evidence-research",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "the-link-between-winter-depression-and-high-blood-pressure-in-older-adults",
+      "old_cluster": "mental-wellness",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养,糖尿病是应用场景"
+    },
+    {
+      "slug": "should-you-adjust-your-diabetes-medication-during-the-holidays",
+      "old_cluster": "medications-supplements",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "myths-vs-facts-holiday-eating-with-diabetes-after-50",
+      "old_cluster": "education-awareness",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "主题是饮食营养,糖尿病是应用场景"
+    },
+    {
+      "slug": "how-to-monitor-blood-sugar-more-effectively-during-festive-travel",
+      "old_cluster": "health-monitoring",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-to-build-a-diabetes-friendly-plate-at-a-mixed-family-meal",
+      "old_cluster": "diabetes-care",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-staying-hydrated-in-winter-protects-your-heart-after-70",
+      "old_cluster": "preventive-care",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50",
+      "old_cluster": "sleep-rest",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "heart-disease-risks-for-retirees-living-in-high-altitude-areas",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "文章主题是疾病预防或风险评估"
+    },
+    {
+      "slug": "5-common-medication-adjustments-seniors-need-in-winter",
+      "old_cluster": "medications-supplements",
+      "new_cluster": "medication-safety",
+      "rationale": "文章主要讨论药物安全"
+    },
+    {
+      "slug": "when-to-worry-about-blood-pressure-changes-during-winter",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "what-research-says-about-holiday-heart-syndrome-and-aging-hearts",
+      "old_cluster": "evidence-research",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "the-truth-about-healthy-store-bought-holiday-meals-for-older-adults",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    },
+    {
+      "slug": "the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "the-link-between-hearing-loss-and-heart-disease-after-60",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "simple-steps-to-monitor-your-heart-health-during-the-holiday-season",
+      "old_cluster": "health-monitoring",
+      "new_cluster": "monitoring-technology",
+      "rationale": "文章涉及健康监测技术或设备"
+    },
+    {
+      "slug": "how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60",
+      "old_cluster": "sleep-rest",
+      "new_cluster": "circadian-sleep-health",
+      "rationale": "文章讨论睡眠或昼夜节律相关内容"
+    },
+    {
+      "slug": "how-group-activities-in-senior-centers-prevent-seasonal-depression",
+      "old_cluster": "social-environmental",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "can-layered-clothing-lower-heart-strain-in-winter",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "5-silent-signs-your-heart-is-struggling-in-cold-weather",
+      "old_cluster": "symptoms-emergencies",
+      "new_cluster": "symptoms-diagnosis",
+      "rationale": "文章主题是症状识别或早期诊断"
+    },
+    {
+      "slug": "10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter",
+      "old_cluster": "lifestyle-changes",
+      "new_cluster": "hypertension-management",
+      "rationale": "标题明确指向血压管理"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors",
+      "old_cluster": "evidence-research",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "the-link-between-holiday-stress-and-blood-sugar-spikes-after-50",
+      "old_cluster": "mental-wellness",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "prevention-risk-assessment",
+      "rationale": "文章主题是疾病预防或风险评估"
+    },
+    {
+      "slug": "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know",
+      "old_cluster": "evidence-research",
+      "new_cluster": "environmental-factors",
+      "rationale": "文章讨论环境因素对健康的影响"
+    },
+    {
+      "slug": "how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60",
+      "old_cluster": "diabetes-care",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-stress-affects-blood-sugar-in-people-with-diabetes-over-50",
+      "old_cluster": "diabetes-care",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-does-type-2-diabetes-affect-energy-levels-in-seniors",
+      "old_cluster": "diabetes-care",
+      "new_cluster": "diabetes-management",
+      "rationale": "文章主要讨论糖尿病管理"
+    },
+    {
+      "slug": "how-dehydration-affects-heart-function-in-older-adults",
+      "old_cluster": "cardiovascular-health",
+      "new_cluster": "cardiovascular-health",
+      "rationale": "文章涉及心血管健康"
+    },
+    {
+      "slug": "easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors",
+      "old_cluster": "nutrition-diet",
+      "new_cluster": "nutrition-diet-management",
+      "rationale": "文章主题是饮食营养管理"
+    }
+  ]
+}

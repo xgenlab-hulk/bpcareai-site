@@ -1,14 +1,31 @@
 ---
-title: "How Chronic Low-Grade Gum Inflammation Alters Endothelial Nitric Oxide Synthase Coupling in Adults 64–80 With Stage 1 Hypertension and Mild Periodontitis"
-slug: "how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis"
-description: "Connects periodontal pathogen load (e.g., *Porphyromonas gingivalis*) to systemic oxidative stress, BH4 depletion, and eNOS uncoupling—detailing measurable biomarkers (ADMA, nitrotyrosine) and gum-health interventions that improve vascular reactivity."
-date: "2026-01-14"
-updated: "2026-01-14"
-tags: ["gum inflammation endothelial nitric oxide synthase coupling", "blood pressure", "oral-systemic-vascular-link"]
-primaryKeyword: "gum inflammation endothelial nitric oxide synthase coupling"
-topicCluster: "oral-systemic-vascular-link"
-image: ""
-relatedSlugs: ["how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp", "how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense", "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria", "how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial"]
+title: >-
+  How Chronic Low-Grade Gum Inflammation Alters Endothelial Nitric Oxide
+  Synthase Coupling in Adults 64–80 With Stage 1 Hypertension and Mild
+  Periodontitis
+slug: >-
+  how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
+description: >-
+  Connects periodontal pathogen load (e.g., *Porphyromonas gingivalis*) to
+  systemic oxidative stress, BH4 depletion, and eNOS uncoupling—detailing
+  measurable biomarkers (ADMA, nitrotyrosine) and gum-health interventions that
+  improve vascular reactivity.
+date: '2026-01-14'
+updated: '2026-01-14'
+primaryKeyword: gum inflammation endothelial nitric oxide synthase coupling
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+  - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
+  - >-
+    how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial
 ---
 
 # How Gum Inflammation Affects Nitric Oxide Balance—and Why It Matters for Your Blood Pressure

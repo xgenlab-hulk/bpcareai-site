@@ -6,12 +6,8 @@ description: >-
   adults managing blood sugar.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - sugar-free treats safety for seniors
-  - holiday diabetes management
-  - diet-nutrition-myths
 primaryKeyword: sugar-free treats safety for seniors
-topicCluster: nutrition-diet
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors

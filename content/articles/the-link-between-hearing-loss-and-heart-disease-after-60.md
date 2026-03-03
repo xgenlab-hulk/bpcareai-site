@@ -6,10 +6,6 @@ description: >-
   cardiovascular system decline.
 date: '2025-12-09'
 updated: '2025-12-09'
-tags:
-  - hearing loss and heart disease connection after 60
-  - heart health
-  - cardiovascular-risk
 primaryKeyword: hearing loss and heart disease connection after 60
 topicCluster: cardiovascular-health
 image: ''

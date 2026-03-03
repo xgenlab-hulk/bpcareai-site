@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Times to Measure Capillary Glucose *After* a Meal — Not Just Fasting — for Adults 58+ With Rapid Gastric Emptying and Reactive Hypoglycemia"
-slug: "12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia"
-description: "Defines optimal postprandial timing windows based on gastric emptying scintigraphy data, symptom correlation, and CGM validation to capture true glucose excursions in gastroparesis-adjacent phenotypes."
-date: "2026-02-07"
-updated: "2026-02-07"
-tags: ["postprandial glucose timing rapid gastric emptying", "diabetes", "glucose-monitoring-timing-strategy"]
-primaryKeyword: "postprandial glucose timing rapid gastric emptying"
-topicCluster: "glucose-monitoring-timing-strategy"
-image: ""
-relatedSlugs: ["12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms", "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists", "how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying", "how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment", "a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia"]
+title: >-
+  12 Science-Backed Times to Measure Capillary Glucose *After* a Meal — Not Just
+  Fasting — for Adults 58+ With Rapid Gastric Emptying and Reactive Hypoglycemia
+slug: >-
+  12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia
+description: >-
+  Defines optimal postprandial timing windows based on gastric emptying
+  scintigraphy data, symptom correlation, and CGM validation to capture true
+  glucose excursions in gastroparesis-adjacent phenotypes.
+date: '2026-02-07'
+updated: '2026-02-07'
+primaryKeyword: postprandial glucose timing rapid gastric emptying
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms
+  - >-
+    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
+  - >-
+    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
+  - >-
+    how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment
+  - >-
+    a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
 ---
 
 # Optimal Postprandial Glucose Timing for Adults 58+ With Rapid Gastric Emptying and Reactive Hypoglycemia  

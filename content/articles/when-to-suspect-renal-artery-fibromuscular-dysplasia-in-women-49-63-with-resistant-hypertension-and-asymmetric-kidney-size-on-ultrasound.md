@@ -1,14 +1,29 @@
 ---
-title: "When to Suspect Renal Artery Fibromuscular Dysplasia in Women 49–63 With Resistant Hypertension and Asymmetric Kidney Size on Ultrasound"
-slug: "when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-49-63-with-resistant-hypertension-and-asymmetric-kidney-size-on-ultrasound"
-description: "Details subtle imaging clues (‘string-of-beads’ mimicry, renal vein narrowing), non-invasive screening thresholds, and why FMD is underdiagnosed in perimenopausal women."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["fibromuscular dysplasia hypertension women", "blood pressure", "structural-renal-hypertension"]
-primaryKeyword: "fibromuscular dysplasia hypertension women"
-topicCluster: "structural-renal-hypertension"
-image: ""
-relatedSlugs: ["when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines", "7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort", "what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65", "myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65", "7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints"]
+title: >-
+  When to Suspect Renal Artery Fibromuscular Dysplasia in Women 49–63 With
+  Resistant Hypertension and Asymmetric Kidney Size on Ultrasound
+slug: >-
+  when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-49-63-with-resistant-hypertension-and-asymmetric-kidney-size-on-ultrasound
+description: >-
+  Details subtle imaging clues (‘string-of-beads’ mimicry, renal vein
+  narrowing), non-invasive screening thresholds, and why FMD is underdiagnosed
+  in perimenopausal women.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: fibromuscular dysplasia hypertension women
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines
+  - >-
+    7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+  - >-
+    7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
 ---
 
 # When Fibromuscular Dysplasia Hypertension Women Might Be Overlooked—And What to Look For

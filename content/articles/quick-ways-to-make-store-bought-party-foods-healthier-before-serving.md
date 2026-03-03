@@ -6,12 +6,8 @@ description: >-
   the nutritional value of convenience foods.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - healthier store-bought party food
-  - healthy eating during family gatherings
-  - practical-diet-hacks
 primaryKeyword: healthier store-bought party food
-topicCluster: nutrition-diet
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals

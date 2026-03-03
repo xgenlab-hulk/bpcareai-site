@@ -1,14 +1,28 @@
 ---
-title: "Warning Signs Your Blood Pressure Is Being Masked by Orthostatic Hypotension—Especially After Age 73 and During Hot Weather"
-slug: "warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather"
-description: "Identifies paradoxical presentation patterns where supine hypertension coexists with postural drops, increasing fall risk and stroke vulnerability in heat-exposed older adults."
-date: "2026-01-11"
-updated: "2026-01-11"
-tags: ["masked hypertension orthostatic hypotension seniors", "blood pressure", "orthostatic-blood-pressure-paradox"]
-primaryKeyword: "masked hypertension orthostatic hypotension seniors"
-topicCluster: "orthostatic-blood-pressure-paradox"
-image: ""
-relatedSlugs: ["can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75", "how-standing-up-too-fast-affects-blood-pressure-in-older-adults", "why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72", "when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension", "when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension"]
+title: >-
+  Warning Signs Your Blood Pressure Is Being Masked by Orthostatic
+  Hypotension—Especially After Age 73 and During Hot Weather
+slug: >-
+  warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
+description: >-
+  Identifies paradoxical presentation patterns where supine hypertension
+  coexists with postural drops, increasing fall risk and stroke vulnerability in
+  heat-exposed older adults.
+date: '2026-01-11'
+updated: '2026-01-11'
+primaryKeyword: masked hypertension orthostatic hypotension seniors
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
+  - >-
+    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+  - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+  - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
 ---
 
 # When Your Blood Pressure Hides in Plain Sight: Recognizing Masked Hypertension Orthostatic Hypotension in Seniors

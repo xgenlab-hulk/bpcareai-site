@@ -1,14 +1,30 @@
 ---
-title: "Best Walking Protocols for Adults 71+ With Type 2 Diabetes and Mild Peripheral Artery Disease — To Improve Capillary Recruitment Without Triggering Claudication"
-slug: "best-walking-protocols-for-adults-71-with-type-2-diabetes-and-mild-peripheral-artery-disease-to-improve-capillary-recruitment-without-triggering-claudication"
-description: "Details cadence, incline, rest-interval ratios, and footwear biomechanics validated in PAD-specific gait studies — plus how to use RPE instead of HR to guide intensity."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["walking protocol peripheral artery disease elderly", "diabetes", "exercise-prescription-paediatric"]
-primaryKeyword: "walking protocol peripheral artery disease elderly"
-topicCluster: "exercise-prescription-paediatric"
-image: ""
-relatedSlugs: ["best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60", "simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues", "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension", "best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67", "a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis"]
+title: >-
+  Best Walking Protocols for Adults 71+ With Type 2 Diabetes and Mild Peripheral
+  Artery Disease — To Improve Capillary Recruitment Without Triggering
+  Claudication
+slug: >-
+  best-walking-protocols-for-adults-71-with-type-2-diabetes-and-mild-peripheral-artery-disease-to-improve-capillary-recruitment-without-triggering-claudication
+description: >-
+  Details cadence, incline, rest-interval ratios, and footwear biomechanics
+  validated in PAD-specific gait studies — plus how to use RPE instead of HR to
+  guide intensity.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: walking protocol peripheral artery disease elderly
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
+  - >-
+    simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+  - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+  - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
 ---
 
 # Safe, Effective Walking Protocols for Older Adults with Type 2 Diabetes and Mild Peripheral Artery Disease

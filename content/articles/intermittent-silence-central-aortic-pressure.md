@@ -1,14 +1,30 @@
 ---
-title: "How Intermittent Silence (Not Just Quiet) Lowers Central Aortic Systolic Pressure in Adults 64+ With White-Coat Hypertension and High Cortisol Awakening Response"
-slug: "how-intermittent-silence-not-just-quiet-lowers-central-aortic-systolic-pressure-in-adults-64-with-white-coat-hypertension-and-high-cortisol-awakening-response"
-description: "Examines the cardiovascular impact of intentional auditory rest—contrasted with background noise—even in soundproofed rooms—and links 20-minute daily silence windows to reductions in cfPWV and pulse wave reflection."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["intermittent silence central aortic pressure", "heart health", "auditory-environment-cardiovascular-effects"]
-primaryKeyword: "intermittent silence central aortic pressure"
-topicCluster: "auditory-environment-cardiovascular-effects"
-image: ""
-relatedSlugs: ["how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension", "how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises", "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75", "can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity", "best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression"]
+title: >-
+  How Intermittent Silence (Not Just Quiet) Lowers Central Aortic Systolic
+  Pressure in Adults 64+ With White-Coat Hypertension and High Cortisol
+  Awakening Response
+slug: >-
+  how-intermittent-silence-not-just-quiet-lowers-central-aortic-systolic-pressure-in-adults-64-with-white-coat-hypertension-and-high-cortisol-awakening-response
+description: >-
+  Examines the cardiovascular impact of intentional auditory rest—contrasted
+  with background noise—even in soundproofed rooms—and links 20-minute daily
+  silence windows to reductions in cfPWV and pulse wave reflection.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: intermittent silence central aortic pressure
+topicCluster: environmental-factors
+image: ''
+relatedSlugs:
+  - >-
+    how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension
+  - >-
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  - >-
+    can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity
+  - >-
+    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
 ---
 
 # How Intermittent Silence—Not Just Quiet—Supports Healthier Central Aortic Pressure in Adults 64+ With White-Coat Hypertension

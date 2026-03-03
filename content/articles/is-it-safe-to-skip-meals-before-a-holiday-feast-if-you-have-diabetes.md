@@ -6,12 +6,8 @@ description: >-
   dinners for older adults managing blood sugar with medication.
 date: '2025-12-05'
 updated: '2025-12-05'
-tags:
-  - skipping meals before holiday feast diabetes
-  - managing blood sugar during Christmas and New Year
-  - meal-timing-diabetes
 primaryKeyword: skipping meals before holiday feast diabetes
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

@@ -1,14 +1,29 @@
 ---
-title: "How Chronic Constipation Alters Vagal Tone and Elevates Nighttime Systolic Pressure in Adults 60–75 With Mild Orthostatic Intolerance"
-slug: "how-chronic-constipation-alters-vagal-tone-and-elevates-nighttime-systolic-pressure-in-adults-60-75-with-mild-orthostatic-intolerance"
-description: "Links colonic distension, afferent vagal signaling, and impaired nocturnal baroreflex buffering — with dietary and mechanical interventions to restore circadian BP rhythm."
-date: "2026-01-31"
-updated: "2026-01-31"
-tags: ["constipation vagal tone nighttime bp", "blood pressure", "gut-brain-cardiovascular-axis"]
-primaryKeyword: "constipation vagal tone nighttime bp"
-topicCluster: "gut-brain-cardiovascular-axis"
-image: ""
-relatedSlugs: ["how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction", "how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it", "how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors", "does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension", "how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction"]
+title: >-
+  How Chronic Constipation Alters Vagal Tone and Elevates Nighttime Systolic
+  Pressure in Adults 60–75 With Mild Orthostatic Intolerance
+slug: >-
+  how-chronic-constipation-alters-vagal-tone-and-elevates-nighttime-systolic-pressure-in-adults-60-75-with-mild-orthostatic-intolerance
+description: >-
+  Links colonic distension, afferent vagal signaling, and impaired nocturnal
+  baroreflex buffering — with dietary and mechanical interventions to restore
+  circadian BP rhythm.
+date: '2026-01-31'
+updated: '2026-01-31'
+primaryKeyword: constipation vagal tone nighttime bp
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
+  - >-
+    how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
+  - >-
+    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
+  - >-
+    does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
+  - >-
+    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
 ---
 
 # How Constipation, Vagal Tone, and Nighttime Blood Pressure Are Connected in Adults 60–75

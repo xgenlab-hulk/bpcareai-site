@@ -6,12 +6,8 @@ description: >-
   issues early.
 date: '2025-12-07'
 updated: '2025-12-07'
-tags:
-  - checking pulse frequency for seniors heart health
-  - heart health
-  - heart-health
 primaryKeyword: checking pulse frequency for seniors heart health
-topicCluster: cardiovascular-health
+topicCluster: special-populations
 image: ''
 relatedSlugs:
   - how-often-should-adults-over-50-check-their-blood-pressure

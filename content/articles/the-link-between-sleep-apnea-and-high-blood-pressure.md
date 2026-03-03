@@ -6,12 +6,8 @@ description: >-
   treatments can help improve both conditions.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - sleep apnea and high blood pressure connection
-  - blood pressure
-  - cardiovascular-risk
 primaryKeyword: sleep apnea and high blood pressure connection
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50

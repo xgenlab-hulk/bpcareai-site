@@ -1,14 +1,24 @@
 ---
-title: "The Connection Between Late-Life Hearing Loss and Increased Heart Failure Hospitalization Risk in Women Over 70"
-slug: "the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70"
-description: "Explains shared vascular pathology in cochlear microcirculation and myocardium, plus how untreated hearing impairment delays symptom recognition and care seeking."
-date: "2025-12-20"
-updated: "2025-12-20"
-tags: ["hearing loss and heart failure hospitalization", "heart disease", "sensory-health-cardiac-outcomes"]
-primaryKeyword: "hearing loss and heart failure hospitalization"
-topicCluster: "sensory-health-cardiac-outcomes"
-image: ""
-relatedSlugs: ["the-link-between-hearing-loss-and-heart-disease-after-60", "blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70", "can-hearing-loss-be-an-early-sign-of-heart-disease", "the-link-between-atrial-fibrillation-and-heart-disease-in-seniors", "the-connection-between-frequent-urination-at-night-and-heart-health"]
+title: >-
+  The Connection Between Late-Life Hearing Loss and Increased Heart Failure
+  Hospitalization Risk in Women Over 70
+slug: >-
+  the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
+description: >-
+  Explains shared vascular pathology in cochlear microcirculation and
+  myocardium, plus how untreated hearing impairment delays symptom recognition
+  and care seeking.
+date: '2025-12-20'
+updated: '2025-12-20'
+primaryKeyword: hearing loss and heart failure hospitalization
+topicCluster: prevention-risk-assessment
+image: ''
+relatedSlugs:
+  - the-link-between-hearing-loss-and-heart-disease-after-60
+  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - can-hearing-loss-be-an-early-sign-of-heart-disease
+  - the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
+  - the-connection-between-frequent-urination-at-night-and-heart-health
 ---
 
 # How Hearing Loss and Heart Failure Hospitalization Are Linked in Women Over 70

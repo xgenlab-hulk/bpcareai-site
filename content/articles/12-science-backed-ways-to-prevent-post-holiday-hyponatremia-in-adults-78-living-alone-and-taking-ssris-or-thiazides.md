@@ -1,14 +1,29 @@
 ---
-title: "12 Science-Backed Ways to Prevent Post-Holiday Hyponatremia in Adults 78+ Living Alone and Taking SSRIs or Thiazides"
-slug: "12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides"
-description: "Addresses the under-recognized risk of water-only hydration, soup dilution, and serotonin-mediated ADH release—offering precise sodium-sparing food pairings and symptom-awareness cues for independent seniors."
-date: "2026-01-26"
-updated: "2026-01-26"
-tags: ["prevent hyponatremia after holiday meals seniors", "healthy holiday eating for seniors", "electrolyte-balance-ssri-thiazide"]
-primaryKeyword: "prevent hyponatremia after holiday meals seniors"
-topicCluster: "electrolyte-balance-ssri-thiazide"
-image: ""
-relatedSlugs: ["warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics", "warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history", "warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68", "warning-signs-your-bp-meds-are-causing-subclinical-hyponatremia-especially-if-you-re-71-on-thiazides-and-taking-ssris", "warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk"]
+title: >-
+  12 Science-Backed Ways to Prevent Post-Holiday Hyponatremia in Adults 78+
+  Living Alone and Taking SSRIs or Thiazides
+slug: >-
+  12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
+description: >-
+  Addresses the under-recognized risk of water-only hydration, soup dilution,
+  and serotonin-mediated ADH release—offering precise sodium-sparing food
+  pairings and symptom-awareness cues for independent seniors.
+date: '2026-01-26'
+updated: '2026-01-26'
+primaryKeyword: prevent hyponatremia after holiday meals seniors
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
+  - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
+  - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
+  - >-
+    warning-signs-your-bp-meds-are-causing-subclinical-hyponatremia-especially-if-you-re-71-on-thiazides-and-taking-ssris
+  - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
 ---
 
 # How to Prevent Hyponatremia After Holiday Meals Seniors Can Use—Especially When Living Alone on SSRIs or Thiazides

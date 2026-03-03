@@ -6,12 +6,8 @@ description: >-
   interactions, with safety guidelines for moderate drinking.
 date: '2025-12-06'
 updated: '2025-12-06'
-tags:
-  - alcohol and diabetes safety
-  - healthy eating during family gatherings
-  - diabetic-lifestyle
 primaryKeyword: alcohol and diabetes safety
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

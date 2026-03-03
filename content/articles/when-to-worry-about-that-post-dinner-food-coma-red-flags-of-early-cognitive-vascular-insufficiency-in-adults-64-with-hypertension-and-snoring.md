@@ -1,14 +1,29 @@
 ---
-title: "When to Worry About That Post-Dinner ‘Food Coma’ — Red Flags of Early Cognitive Vascular Insufficiency in Adults 64+ With Hypertension and Snoring"
-slug: "when-to-worry-about-that-post-dinner-food-coma-red-flags-of-early-cognitive-vascular-insufficiency-in-adults-64-with-hypertension-and-snoring"
-description: "Identifies prolonged postprandial somnolence (>90 min), delayed verbal recall, and impaired digit symbol substitution as potential markers of meal-induced cerebral hypoperfusion — with practical monitoring tools and dietary buffers."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["post-dinner food coma cognitive vascular", "healthy eating during family gatherings", "cerebral-perfusion-symptoms"]
-primaryKeyword: "post-dinner food coma cognitive vascular"
-topicCluster: "cerebral-perfusion-symptoms"
-image: ""
-relatedSlugs: ["what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals", "when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else", "when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension", "when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea", "when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment"]
+title: >-
+  When to Worry About That Post-Dinner ‘Food Coma’ — Red Flags of Early
+  Cognitive Vascular Insufficiency in Adults 64+ With Hypertension and Snoring
+slug: >-
+  when-to-worry-about-that-post-dinner-food-coma-red-flags-of-early-cognitive-vascular-insufficiency-in-adults-64-with-hypertension-and-snoring
+description: >-
+  Identifies prolonged postprandial somnolence (>90 min), delayed verbal recall,
+  and impaired digit symbol substitution as potential markers of meal-induced
+  cerebral hypoperfusion — with practical monitoring tools and dietary buffers.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: post-dinner food coma cognitive vascular
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
+  - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
+  - >-
+    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
 ---
 
 # When That Post-Dinner “Food Coma” Might Be Telling You Something — Understanding post-dinner food coma cognitive vascular Signs in Adults 64+ With Hypertension and Snoring

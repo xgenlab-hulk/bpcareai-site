@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Adult 75+ With Mild Cognitive Impairment Should Know Before Starting a Home-Based Cardiac Rehab Program"
-slug: "5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program"
-description: "Covers safety adaptations for dual-task gait, memory-friendly exercise logging, caregiver-coached interval pacing, and red-flag symptom recognition when executive function is compromised."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["cardiac rehab mild cognitive impairment seniors", "heart health", "cognitive-cardiac-rehab"]
-primaryKeyword: "cardiac rehab mild cognitive impairment seniors"
-topicCluster: "cognitive-cardiac-rehab"
-image: ""
-relatedSlugs: ["simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation", "myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy", "simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues", "5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party", "simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification"]
+title: >-
+  5 Things Every Adult 75+ With Mild Cognitive Impairment Should Know Before
+  Starting a Home-Based Cardiac Rehab Program
+slug: >-
+  5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
+description: >-
+  Covers safety adaptations for dual-task gait, memory-friendly exercise
+  logging, caregiver-coached interval pacing, and red-flag symptom recognition
+  when executive function is compromised.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: cardiac rehab mild cognitive impairment seniors
+topicCluster: special-populations
+image: ''
+relatedSlugs:
+  - >-
+    simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation
+  - >-
+    myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy
+  - >-
+    simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
+  - >-
+    5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
 ---
 
 # What Every Senior 75+ with Mild Cognitive Impairment Should Know Before Beginning Home-Based Cardiac Rehab

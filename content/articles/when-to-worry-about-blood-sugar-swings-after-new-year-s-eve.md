@@ -6,12 +6,8 @@ description: >-
   medical attention, not just diet tweaks.
 date: '2025-12-17'
 updated: '2025-12-17'
-tags:
-  - when to worry about blood sugar spikes
-  - managing blood sugar during Christmas and New Year
-  - emergency-symptoms
 primaryKeyword: when to worry about blood sugar spikes
-topicCluster: symptoms-emergencies
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes

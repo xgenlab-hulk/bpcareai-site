@@ -1,14 +1,24 @@
 ---
-title: "Myths vs Facts: 'Eating Light' During Holidays Doesn’t Mean Skipping Meals—Here’s Why for Seniors"
-slug: "myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors"
-description: "Clarifies common misconceptions about calorie restriction in older adults, emphasizing risks of protein deficiency, hypoglycemia, and frailty—plus safer alternatives to fasting or skipping."
-date: "2025-12-21"
-updated: "2025-12-21"
-tags: ["eating light holiday seniors myths", "healthy holiday eating for seniors", "nutrition-myth-busting-frailty"]
-primaryKeyword: "eating light holiday seniors myths"
-topicCluster: "nutrition-myth-busting-frailty"
-image: ""
-relatedSlugs: ["5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60", "myths-vs-facts-healthy-eating-during-family-celebrations", "5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes", "can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees"]
+title: >-
+  Myths vs Facts: 'Eating Light' During Holidays Doesn’t Mean Skipping
+  Meals—Here’s Why for Seniors
+slug: >-
+  myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
+description: >-
+  Clarifies common misconceptions about calorie restriction in older adults,
+  emphasizing risks of protein deficiency, hypoglycemia, and frailty—plus safer
+  alternatives to fasting or skipping.
+date: '2025-12-21'
+updated: '2025-12-21'
+primaryKeyword: eating light holiday seniors myths
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - myths-vs-facts-healthy-eating-during-family-celebrations
+  - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
 ---
 
 # Eating Light During the Holidays Isn’t About Skipping Meals—Here’s What Seniors Really Need to Know (and Why “Eating Light Holiday Seniors Myths” Can Be Risky)

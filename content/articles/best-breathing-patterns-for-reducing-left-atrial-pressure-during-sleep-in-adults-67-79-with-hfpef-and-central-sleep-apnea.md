@@ -1,14 +1,29 @@
 ---
-title: "Best Breathing Patterns for Reducing Left Atrial Pressure During Sleep in Adults 67–79 With HFpEF and Central Sleep Apnea"
-slug: "best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea"
-description: "Compares paced diaphragmatic breathing, Buteyko, and resonant frequency training for nocturnal LA pressure modulation—using esophageal manometry and overnight CPAP-integrated pressure data."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["breathing patterns hfpef left atrial pressure", "heart disease", "respiratory-cardiology"]
-primaryKeyword: "breathing patterns hfpef left atrial pressure"
-topicCluster: "respiratory-cardiology"
-image: ""
-relatedSlugs: ["best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio", "best-breathing-patterns-to-reduce-right-atrial-pressure-during-stair-climbing-in-adults-68-with-tricuspid-regurgitation-and-elevated-jugular-venous-pressure", "best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression", "best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia", "best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74"]
+title: >-
+  Best Breathing Patterns for Reducing Left Atrial Pressure During Sleep in
+  Adults 67–79 With HFpEF and Central Sleep Apnea
+slug: >-
+  best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
+description: >-
+  Compares paced diaphragmatic breathing, Buteyko, and resonant frequency
+  training for nocturnal LA pressure modulation—using esophageal manometry and
+  overnight CPAP-integrated pressure data.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: breathing patterns hfpef left atrial pressure
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio
+  - >-
+    best-breathing-patterns-to-reduce-right-atrial-pressure-during-stair-climbing-in-adults-68-with-tricuspid-regurgitation-and-elevated-jugular-venous-pressure
+  - >-
+    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
+  - >-
+    best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
+  - >-
+    best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74
 ---
 
 # Gentle Breathing Patterns to Support Heart Health and Ease Left Atrial Pressure in HFpEF With Central Sleep Apnea

@@ -10,12 +10,8 @@ description: >-
   actionable symptom triage steps.
 date: '2025-12-20'
 updated: '2025-12-20'
-tags:
-  - fatigue after blood pressure medication over 65
-  - heart disease
-  - medication-symptom-alerts
 primaryKeyword: fatigue after blood pressure medication over 65
-topicCluster: medication-symptom-alerts
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-

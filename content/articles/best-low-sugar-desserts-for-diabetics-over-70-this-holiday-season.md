@@ -6,12 +6,8 @@ description: >-
   are safe, satisfying, and easy to prepare for older adults.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - low-sugar desserts for diabetics over 70
-  - healthy holiday eating for seniors
-  - diabetic-diet
 primaryKeyword: low-sugar desserts for diabetics over 70
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season

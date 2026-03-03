@@ -10,12 +10,8 @@ description: >-
   SCD risk stratification tools beyond ejection fraction.
 date: '2026-01-21'
 updated: '2026-01-21'
-tags:
-  - stable cad sudden cardiac death risk
-  - heart disease
-  - risk-stratification-myths
 primaryKeyword: stable cad sudden cardiac death risk
-topicCluster: risk-stratification-myths
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

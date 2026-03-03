@@ -1,14 +1,28 @@
 ---
-title: "A vs B: Daily 10-Minute Resistance Band Workouts vs. Brisk Walking for Improving Coronary Flow Reserve in Adults 63+ With Nonobstructive CAD"
-slug: "a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad"
-description: "Compares microvascular benefits of low-load resistance training versus aerobic walking using contrast echocardiography metrics in older adults with INOCA."
-date: "2026-02-16"
-updated: "2026-02-16"
-tags: ["resistance band vs walking coronary flow", "heart disease", "exercise-modality-comparison"]
-primaryKeyword: "resistance band vs walking coronary flow"
-topicCluster: "exercise-modality-comparison"
-image: ""
-relatedSlugs: ["a-vs-b-daily-12-minute-seated-resistance-band-routine-vs-25-minute-brisk-walking-impact-on-pulse-wave-velocity-in-adults-65-with-arterial-stiffness", "a-vs-b-daily-12-minute-tai-chi-flow-vs-supervised-treadmill-walking-impact-on-myocardial-perfusion-reserve-index-in-adults-67-with-microvascular-angina-and-normal-coronary-angiograms", "best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension", "does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque", "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats"]
+title: >-
+  A vs B: Daily 10-Minute Resistance Band Workouts vs. Brisk Walking for
+  Improving Coronary Flow Reserve in Adults 63+ With Nonobstructive CAD
+slug: >-
+  a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad
+description: >-
+  Compares microvascular benefits of low-load resistance training versus aerobic
+  walking using contrast echocardiography metrics in older adults with INOCA.
+date: '2026-02-16'
+updated: '2026-02-16'
+primaryKeyword: resistance band vs walking coronary flow
+topicCluster: lifestyle-interventions
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-daily-12-minute-seated-resistance-band-routine-vs-25-minute-brisk-walking-impact-on-pulse-wave-velocity-in-adults-65-with-arterial-stiffness
+  - >-
+    a-vs-b-daily-12-minute-tai-chi-flow-vs-supervised-treadmill-walking-impact-on-myocardial-perfusion-reserve-index-in-adults-67-with-microvascular-angina-and-normal-coronary-angiograms
+  - >-
+    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
+  - >-
+    does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
+  - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
 ---
 
 # Resistance Band vs Walking for Coronary Flow: What’s Best for Heart Health After 63?

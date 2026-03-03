@@ -1,14 +1,30 @@
 ---
-title: "The Complete Guide to Interpreting *Ambulatory Arterial Stiffness Index (AASI)* From Home BP Monitors That Support It — What It Reveals About Microvascular Health in Adults 60–72"
-slug: "the-complete-guide-to-interpreting-ambulatory-arterial-stiffness-index-aasi-from-home-bp-monitors-that-support-it-what-it-reveals-about-microvascular-health-in-adults-60-72"
-description: "Teaches users how to extract and clinically interpret AASI (derived from 24-hr diastolic–systolic regression slope) as a surrogate marker for small-vessel disease progression."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["ambulatory arterial stiffness index interpretation", "blood pressure", "aasi-clinical-interpretation-guide"]
-primaryKeyword: "ambulatory arterial stiffness index interpretation"
-topicCluster: "aasi-clinical-interpretation-guide"
-image: ""
-relatedSlugs: ["the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72", "the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles", "simple-steps-to-reduce-aortic-pulse-wave-velocity-using-only-a-blood-pressure-cuff-a-smartphone-mic-and-your-evening-walk-for-adults-65-with-isolated-systolic-hypertension", "the-complete-guide-to-interpreting-bp-variability-metrics-sd-cv-arv-from-your-ambulatory-monitor-especially-if-you-re-66-with-white-coat-effect-and-cognitive-concerns", "what-are-the-earliest-signs-of-arterial-stiffness-before-bp-rises-especially-in-women-over-63-with-a-history-of-preeclampsia-and-now-on-aromatase-inhibitors"]
+title: >-
+  The Complete Guide to Interpreting *Ambulatory Arterial Stiffness Index
+  (AASI)* From Home BP Monitors That Support It — What It Reveals About
+  Microvascular Health in Adults 60–72
+slug: >-
+  the-complete-guide-to-interpreting-ambulatory-arterial-stiffness-index-aasi-from-home-bp-monitors-that-support-it-what-it-reveals-about-microvascular-health-in-adults-60-72
+description: >-
+  Teaches users how to extract and clinically interpret AASI (derived from 24-hr
+  diastolic–systolic regression slope) as a surrogate marker for small-vessel
+  disease progression.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: ambulatory arterial stiffness index interpretation
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
+  - >-
+    the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
+  - >-
+    simple-steps-to-reduce-aortic-pulse-wave-velocity-using-only-a-blood-pressure-cuff-a-smartphone-mic-and-your-evening-walk-for-adults-65-with-isolated-systolic-hypertension
+  - >-
+    the-complete-guide-to-interpreting-bp-variability-metrics-sd-cv-arv-from-your-ambulatory-monitor-especially-if-you-re-66-with-white-coat-effect-and-cognitive-concerns
+  - >-
+    what-are-the-earliest-signs-of-arterial-stiffness-before-bp-rises-especially-in-women-over-63-with-a-history-of-preeclampsia-and-now-on-aromatase-inhibitors
 ---
 
 # Understanding Ambulatory Arterial Stiffness Index Interpretation: What Your Home BP Monitor May Be Telling You About Small-Vessel Health

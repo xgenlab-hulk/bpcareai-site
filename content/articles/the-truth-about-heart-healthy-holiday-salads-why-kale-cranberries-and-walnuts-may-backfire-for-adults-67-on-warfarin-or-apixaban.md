@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Heart-Healthy' Holiday Salads — Why Kale, Cranberries, and Walnuts May Backfire for Adults 67+ on Warfarin or Apixaban"
-slug: "the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban"
-description: "Breaks down vitamin K variability in seasonal greens, phytonutrient interference with DOAC metabolism, and real-world INR fluctuations observed in seniors maintaining anticoagulation during festive eating."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["holiday salad warfarin interaction truth", "healthy eating during family gatherings", "medication-diet-interaction"]
-primaryKeyword: "holiday salad warfarin interaction truth"
-topicCluster: "medication-diet-interaction"
-image: ""
-relatedSlugs: ["when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead", "can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking", "10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone", "5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter", "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80"]
+title: >-
+  The Truth About 'Heart-Healthy' Holiday Salads — Why Kale, Cranberries, and
+  Walnuts May Backfire for Adults 67+ on Warfarin or Apixaban
+slug: >-
+  the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
+description: >-
+  Breaks down vitamin K variability in seasonal greens, phytonutrient
+  interference with DOAC metabolism, and real-world INR fluctuations observed in
+  seniors maintaining anticoagulation during festive eating.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: holiday salad warfarin interaction truth
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
+  - >-
+    can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
+  - >-
+    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
+  - >-
+    5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
+  - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
 ---
 
 # The Real Story Behind Holiday Salad Warfarin Interaction Truth — What Your Kale, Cranberries, and Walnuts *Really* Do on Blood Thinners

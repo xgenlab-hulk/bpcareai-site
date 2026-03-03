@@ -6,12 +6,8 @@ description: >-
   service jobs during peak holiday seasons.
 date: '2025-12-14'
 updated: '2025-12-14'
-tags:
-  - managing blood sugar during holiday shift work
-  - managing blood sugar during Christmas and New Year
-  - lifestyle-modifications
 primaryKeyword: managing blood sugar during holiday shift work
-topicCluster: lifestyle-changes
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

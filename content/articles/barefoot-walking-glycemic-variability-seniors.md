@@ -1,14 +1,30 @@
 ---
-title: "Does Daily 10-Minute Barefoot Walking on Morning Grass *Really* Improve Glycemic Variability in Adults 68+ With Sedentary Lifestyle and Peripheral Neuropathy?"
-slug: "does-daily-10-minute-barefoot-walking-on-morning-grass-really-improve-glycemic-variability-in-adults-68-with-sedentary-lifestyle-and-peripheral-neuropathy"
-description: "Analyzes grounding (earthing) claims through the lens of autonomic balance, cortisol rhythm modulation, and microcirculatory effects — separating plausible mechanisms from pseudoscience."
-date: "2026-02-03"
-updated: "2026-02-03"
-tags: ["barefoot walking glycemic variability seniors", "diabetes", "natural-remedies-grounding-science"]
-primaryKeyword: "barefoot walking glycemic variability seniors"
-topicCluster: "natural-remedies-grounding-science"
-image: ""
-relatedSlugs: ["can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71", "natural-ways-to-counteract-holiday-nighttime-glucose-spikes-without-medication-focused-on-evening-walking-timing-foot-temperature-and-cinnamon-bioavailability", "best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception", "why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66", "how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do"]
+title: >-
+  Does Daily 10-Minute Barefoot Walking on Morning Grass *Really* Improve
+  Glycemic Variability in Adults 68+ With Sedentary Lifestyle and Peripheral
+  Neuropathy?
+slug: >-
+  does-daily-10-minute-barefoot-walking-on-morning-grass-really-improve-glycemic-variability-in-adults-68-with-sedentary-lifestyle-and-peripheral-neuropathy
+description: >-
+  Analyzes grounding (earthing) claims through the lens of autonomic balance,
+  cortisol rhythm modulation, and microcirculatory effects — separating
+  plausible mechanisms from pseudoscience.
+date: '2026-02-03'
+updated: '2026-02-03'
+primaryKeyword: barefoot walking glycemic variability seniors
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
+  - >-
+    natural-ways-to-counteract-holiday-nighttime-glucose-spikes-without-medication-focused-on-evening-walking-timing-foot-temperature-and-cinnamon-bioavailability
+  - >-
+    best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception
+  - >-
+    why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
+  - >-
+    how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do
 ---
 
 # Can Barefoot Walking on Morning Grass Improve Glycemic Variability in Seniors? A Science-Based Look for Adults 68+ With Sedentary Habits and Peripheral Neuropathy

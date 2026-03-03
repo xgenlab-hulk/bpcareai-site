@@ -6,12 +6,8 @@ description: >-
   triggering glucose spikes.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - holiday gifts for diabetics over 70
-  - managing blood sugar during Christmas and New Year
-  - lifestyle-modifications
 primaryKeyword: holiday gifts for diabetics over 70
-topicCluster: lifestyle-changes
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

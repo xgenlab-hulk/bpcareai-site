@@ -1,14 +1,27 @@
 ---
-title: "Can You Safely Skip Dessert After a High-Protein Holiday Dinner Without Triggering Reactive Hypoglycemia in Adults 62+ With Adrenal Insufficiency?"
-slug: "can-you-safely-skip-dessert-after-a-high-protein-holiday-dinner-without-triggering-reactive-hypoglycemia-in-adults-62-with-adrenal-insufficiency"
-description: "Examines the cortisol-glucose axis disruption risk when omitting carbohydrate-rich desserts after protein-heavy meals in older adults with age-related HPA axis blunting."
-date: "2026-02-05"
-updated: "2026-02-05"
-tags: ["skip dessert reactive hypoglycemia seniors", "healthy holiday eating for seniors", "endocrine-diet-reactive-hypoglycemia"]
-primaryKeyword: "skip dessert reactive hypoglycemia seniors"
-topicCluster: "endocrine-diet-reactive-hypoglycemia"
-image: ""
-relatedSlugs: ["7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels", "is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes", "myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74", "can-napping-after-meals-lower-blood-sugar-during-holiday-feasts", "10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting"]
+title: >-
+  Can You Safely Skip Dessert After a High-Protein Holiday Dinner Without
+  Triggering Reactive Hypoglycemia in Adults 62+ With Adrenal Insufficiency?
+slug: >-
+  can-you-safely-skip-dessert-after-a-high-protein-holiday-dinner-without-triggering-reactive-hypoglycemia-in-adults-62-with-adrenal-insufficiency
+description: >-
+  Examines the cortisol-glucose axis disruption risk when omitting
+  carbohydrate-rich desserts after protein-heavy meals in older adults with
+  age-related HPA axis blunting.
+date: '2026-02-05'
+updated: '2026-02-05'
+primaryKeyword: skip dessert reactive hypoglycemia seniors
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - >-
+    myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74
+  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
+  - >-
+    10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
 ---
 
 # Can Skipping Dessert After a High-Protein Holiday Meal Trigger Reactive Hypoglycemia in Seniors With Adrenal Insufficiency? Understanding skip dessert reactive hypoglycemia seniors

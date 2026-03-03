@@ -1,14 +1,29 @@
 ---
-title: "5 Things Everyone Over 70 Should Know About Using Continuous Glucose Monitors With Severe Edema, Lymphedema, or Recent Lower-Limb Surgery"
-slug: "5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery"
-description: "Covers sensor placement alternatives, calibration pitfalls, interstitial fluid lag correction, and when to switch to flash or traditional meters—based on real-world clinical sensor failure patterns."
-date: "2026-01-13"
-updated: "2026-01-13"
-tags: ["CGM use with edema in elderly", "diabetes", "monitoring-cgm-edema"]
-primaryKeyword: "CGM use with edema in elderly"
-topicCluster: "monitoring-cgm-edema"
-image: ""
-relatedSlugs: ["5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds", "the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79", "a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy", "the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you", "can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures"]
+title: >-
+  5 Things Everyone Over 70 Should Know About Using Continuous Glucose Monitors
+  With Severe Edema, Lymphedema, or Recent Lower-Limb Surgery
+slug: >-
+  5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery
+description: >-
+  Covers sensor placement alternatives, calibration pitfalls, interstitial fluid
+  lag correction, and when to switch to flash or traditional meters—based on
+  real-world clinical sensor failure patterns.
+date: '2026-01-13'
+updated: '2026-01-13'
+primaryKeyword: CGM use with edema in elderly
+topicCluster: monitoring-technology
+image: ''
+relatedSlugs:
+  - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
+  - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
+  - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+  - >-
+    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
 ---
 
 # What Seniors Over 70 Need to Know About CGM Use With Edema in Elderly: Practical Guidance for Safer Glucose Monitoring

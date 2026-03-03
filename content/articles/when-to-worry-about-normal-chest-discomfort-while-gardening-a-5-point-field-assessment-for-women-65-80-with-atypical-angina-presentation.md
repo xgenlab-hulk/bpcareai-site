@@ -11,12 +11,8 @@ description: >-
   wearables.
 date: '2025-12-28'
 updated: '2025-12-28'
-tags:
-  - atypical angina in women gardening
-  - heart disease
-  - symptom-discrimination-women
 primaryKeyword: atypical angina in women gardening
-topicCluster: symptom-discrimination-women
+topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-

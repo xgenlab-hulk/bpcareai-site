@@ -1,14 +1,29 @@
 ---
-title: "Simple Steps to Rebuild Morning Light Exposure Habits After Cataract Surgery—Especially for Adults Over 68 With Prior Seasonal Mood Swings"
-slug: "simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings"
-description: "Offers post-op visual rehabilitation strategies (timing, lens tint considerations, environmental mapping) to re-establish circadian photoreception in seniors with history of SAD."
-date: "2026-01-01"
-updated: "2026-01-01"
-tags: ["morning light exposure after cataract surgery seniors", "seasonal depression in older adults", "post-surgical-light-rehab"]
-primaryKeyword: "morning light exposure after cataract surgery seniors"
-topicCluster: "post-surgical-light-rehab"
-image: ""
-relatedSlugs: ["5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps", "how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood", "a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome", "how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension", "simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension"]
+title: >-
+  Simple Steps to Rebuild Morning Light Exposure Habits After Cataract
+  Surgery—Especially for Adults Over 68 With Prior Seasonal Mood Swings
+slug: >-
+  simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
+description: >-
+  Offers post-op visual rehabilitation strategies (timing, lens tint
+  considerations, environmental mapping) to re-establish circadian
+  photoreception in seniors with history of SAD.
+date: '2026-01-01'
+updated: '2026-01-01'
+primaryKeyword: morning light exposure after cataract surgery seniors
+topicCluster: circadian-sleep-health
+image: ''
+relatedSlugs:
+  - >-
+    5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
+  - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
+  - >-
+    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
+  - >-
+    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
+  - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
 ---
 
 # Gentle Ways to Restore Morning Light Exposure After Cataract Surgery—Especially for Adults Over 68 With Seasonal Mood Swings

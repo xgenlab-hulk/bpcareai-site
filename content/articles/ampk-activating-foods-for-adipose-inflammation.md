@@ -11,12 +11,8 @@ description: >-
   oil—paired with timing and preparation nuances for maximal effect.
 date: '2026-01-13'
 updated: '2026-01-13'
-tags:
-  - AMPK activating foods for adipose inflammation
-  - diabetes
-  - diet-ampk-adipose
 primaryKeyword: AMPK activating foods for adipose inflammation
-topicCluster: diet-ampk-adipose
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

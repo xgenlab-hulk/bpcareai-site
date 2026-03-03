@@ -1,14 +1,28 @@
 ---
-title: "The Truth About 'Sugar-Free' Holiday Candy Labels: What FDA Compliance Doesn’t Tell You About Sugar Alcohols and GI Distress in Seniors"
-slug: "the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors"
-description: "Analyzes how erythritol, maltitol, and xylitol impact gastric motility, osmotic diarrhea risk, and postprandial glucose variability in adults over 70 with age-related gut slowdown."
-date: "2025-12-24"
-updated: "2025-12-24"
-tags: ["sugar-free candy side effects seniors", "holiday diabetes management", "label-literacy-gut-glucose"]
-primaryKeyword: "sugar-free candy side effects seniors"
-topicCluster: "label-literacy-gut-glucose"
-image: ""
-relatedSlugs: ["does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely", "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging", "are-sugar-free-treats-actually-safe-for-diabetics-over-65", "natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis", "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75"]
+title: >-
+  The Truth About 'Sugar-Free' Holiday Candy Labels: What FDA Compliance Doesn’t
+  Tell You About Sugar Alcohols and GI Distress in Seniors
+slug: >-
+  the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+description: >-
+  Analyzes how erythritol, maltitol, and xylitol impact gastric motility,
+  osmotic diarrhea risk, and postprandial glucose variability in adults over 70
+  with age-related gut slowdown.
+date: '2025-12-24'
+updated: '2025-12-24'
+primaryKeyword: sugar-free candy side effects seniors
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
 ---
 
 # Understanding Sugar-Free Candy Side Effects in Seniors: What “Sugar-Free” Really Means for Your Gut and Glucose

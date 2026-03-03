@@ -6,12 +6,8 @@ description: >-
   artery health.
 date: '2025-12-13'
 updated: '2025-12-13'
-tags:
-  - daily nut consumption and heart protection after 50
-  - heart health
-  - heart-health
 primaryKeyword: daily nut consumption and heart protection after 50
-topicCluster: cardiovascular-health
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors

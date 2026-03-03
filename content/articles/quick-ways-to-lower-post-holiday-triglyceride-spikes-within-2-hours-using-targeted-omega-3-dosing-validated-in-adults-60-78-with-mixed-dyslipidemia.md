@@ -1,14 +1,28 @@
 ---
-title: "Quick Ways to Lower Post-Holiday Triglyceride Spikes Within 2 Hours Using Targeted Omega-3 Dosing—Validated in Adults 60–78 With Mixed Dyslipidemia"
-slug: "quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia"
-description: "Presents a time-sensitive, evidence-based dosing strategy using EPA/DHA ratios and food-coordinated administration to blunt chylomicron remnant elevation after high-fat festive meals."
-date: "2025-12-30"
-updated: "2025-12-30"
-tags: ["lower triglycerides after holiday meal", "healthy holiday eating for seniors", "lipid-metabolism-intervention"]
-primaryKeyword: "lower triglycerides after holiday meal"
-topicCluster: "lipid-metabolism-intervention"
-image: ""
-relatedSlugs: ["quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75", "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle", "quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal", "quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76", "can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown"]
+title: >-
+  Quick Ways to Lower Post-Holiday Triglyceride Spikes Within 2 Hours Using
+  Targeted Omega-3 Dosing—Validated in Adults 60–78 With Mixed Dyslipidemia
+slug: >-
+  quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
+description: >-
+  Presents a time-sensitive, evidence-based dosing strategy using EPA/DHA ratios
+  and food-coordinated administration to blunt chylomicron remnant elevation
+  after high-fat festive meals.
+date: '2025-12-30'
+updated: '2025-12-30'
+primaryKeyword: lower triglycerides after holiday meal
+topicCluster: comprehensive-health-topics
+image: ''
+relatedSlugs:
+  - >-
+    quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
+  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
 ---
 
 # Quick Ways to Lower Triglycerides After Holiday Meal — Evidence-Based Tips for Adults 60–78

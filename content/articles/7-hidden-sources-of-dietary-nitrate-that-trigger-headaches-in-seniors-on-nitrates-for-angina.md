@@ -10,12 +10,8 @@ description: >-
   safe, vasodilatory alternatives.
 date: '2025-12-27'
 updated: '2025-12-27'
-tags:
-  - dietary nitrate angina medication interaction
-  - healthy holiday eating for seniors
-  - pharmacodynamic-food-interaction
 primaryKeyword: dietary nitrate angina medication interaction
-topicCluster: pharmacodynamic-food-interaction
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-

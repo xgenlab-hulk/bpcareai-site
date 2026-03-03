@@ -1,14 +1,30 @@
 ---
-title: "A vs B: 5-Minute Morning Sunlight Exposure *Through UV-Blocking Window Glass* vs. *Direct Outdoor Exposure* — Impact on Circadian BP Rhythm Reset in Adults 70+ With Shifted Melatonin Peaks"
-slug: "a-vs-b-5-minute-morning-sunlight-exposure-through-uv-blocking-window-glass-vs-direct-outdoor-exposure-impact-on-circadian-bp-rhythm-reset-in-adults-70-with-shifted-melatonin-peaks"
-description: "Compares spectral light transmission differences and their effect on suprachiasmatic nucleus entrainment and 24-hour systolic variability in older adults with circadian dysregulation."
-date: "2026-02-26"
-updated: "2026-02-26"
-tags: ["sunlight exposure and circadian blood pressure", "blood pressure", "photobiology-circadian-rhythm"]
-primaryKeyword: "sunlight exposure and circadian blood pressure"
-topicCluster: "photobiology-circadian-rhythm"
-image: ""
-relatedSlugs: ["how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension", "a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern", "a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74", "a-vs-b-morning-sunlight-exposure-before-10-am-vs-evening-blue-light-blocking-lenses-for-nocturnal-systolic-control-in-adults-63-with-mild-circadian-phase-delay", "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea"]
+title: >-
+  A vs B: 5-Minute Morning Sunlight Exposure *Through UV-Blocking Window Glass*
+  vs. *Direct Outdoor Exposure* — Impact on Circadian BP Rhythm Reset in Adults
+  70+ With Shifted Melatonin Peaks
+slug: >-
+  a-vs-b-5-minute-morning-sunlight-exposure-through-uv-blocking-window-glass-vs-direct-outdoor-exposure-impact-on-circadian-bp-rhythm-reset-in-adults-70-with-shifted-melatonin-peaks
+description: >-
+  Compares spectral light transmission differences and their effect on
+  suprachiasmatic nucleus entrainment and 24-hour systolic variability in older
+  adults with circadian dysregulation.
+date: '2026-02-26'
+updated: '2026-02-26'
+primaryKeyword: sunlight exposure and circadian blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
+  - >-
+    a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern
+  - >-
+    a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74
+  - >-
+    a-vs-b-morning-sunlight-exposure-before-10-am-vs-evening-blue-light-blocking-lenses-for-nocturnal-systolic-control-in-adults-63-with-mild-circadian-phase-delay
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
 ---
 
 # Morning Light Matters: How Sunlight Exposure and Circadian Blood Pressure Are Linked in Adults 70+  

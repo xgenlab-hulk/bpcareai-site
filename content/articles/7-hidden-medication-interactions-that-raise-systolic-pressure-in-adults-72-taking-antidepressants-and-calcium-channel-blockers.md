@@ -1,14 +1,29 @@
 ---
-title: "7 Hidden Medication Interactions That Raise Systolic Pressure in Adults 72+ Taking Antidepressants and Calcium Channel Blockers"
-slug: "7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers"
-description: "Identifies under-recognized pharmacodynamic clashes between SSRIs/SNRIs and antihypertensives — including QT prolongation synergy, baroreflex blunting, and orthostatic amplification — with dosing and monitoring guidance."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["antidepressant calcium channel blocker interaction", "blood pressure", "polypharmacy-safety"]
-primaryKeyword: "antidepressant calcium channel blocker interaction"
-topicCluster: "polypharmacy-safety"
-image: ""
-relatedSlugs: ["7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics", "what-causes-sudden-onset-of-palpitations-after-starting-a-new-antidepressant-in-adults-66-with-long-standing-hypothyroidism", "7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids", "10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68", "7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants"]
+title: >-
+  7 Hidden Medication Interactions That Raise Systolic Pressure in Adults 72+
+  Taking Antidepressants and Calcium Channel Blockers
+slug: >-
+  7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers
+description: >-
+  Identifies under-recognized pharmacodynamic clashes between SSRIs/SNRIs and
+  antihypertensives — including QT prolongation synergy, baroreflex blunting,
+  and orthostatic amplification — with dosing and monitoring guidance.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: antidepressant calcium channel blocker interaction
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics
+  - >-
+    what-causes-sudden-onset-of-palpitations-after-starting-a-new-antidepressant-in-adults-66-with-long-standing-hypothyroidism
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids
+  - >-
+    10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
 ---
 
 # What You Should Know About Antidepressant Calcium Channel Blocker Interaction and Blood Pressure in Older Adults

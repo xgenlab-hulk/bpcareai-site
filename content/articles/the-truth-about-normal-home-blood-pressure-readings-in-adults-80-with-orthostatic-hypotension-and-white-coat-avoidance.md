@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Normal' Home Blood Pressure Readings in Adults 80+ With Orthostatic Hypotension and White-Coat Avoidance"
-slug: "the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance"
-description: "Challenges diagnostic thresholds by examining age-related arterial stiffening, baroreflex blunting, and the danger of over-treating isolated systolic hypertension in frail octogenarians with fall risk."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["home blood pressure readings octogenarians orthostatic", "blood pressure", "geriatric-diagnostics"]
-primaryKeyword: "home blood pressure readings octogenarians orthostatic"
-topicCluster: "geriatric-diagnostics"
-image: ""
-relatedSlugs: ["the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance", "can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75", "a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79", "why-blood-pressure-readings-vary-between-left-and-right-arms-in-adults-70-with-aortic-stiffness-and-asymmetric-carotid-intima-media-thickness", "7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema"]
+title: >-
+  The Truth About 'Normal' Home Blood Pressure Readings in Adults 80+ With
+  Orthostatic Hypotension and White-Coat Avoidance
+slug: >-
+  the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
+description: >-
+  Challenges diagnostic thresholds by examining age-related arterial stiffening,
+  baroreflex blunting, and the danger of over-treating isolated systolic
+  hypertension in frail octogenarians with fall risk.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: home blood pressure readings octogenarians orthostatic
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
+  - >-
+    why-blood-pressure-readings-vary-between-left-and-right-arms-in-adults-70-with-aortic-stiffness-and-asymmetric-carotid-intima-media-thickness
+  - >-
+    7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
 ---
 
 # What “Normal” Really Means for Home Blood Pressure Readings in Octogenarians With Orthostatic Hypotension

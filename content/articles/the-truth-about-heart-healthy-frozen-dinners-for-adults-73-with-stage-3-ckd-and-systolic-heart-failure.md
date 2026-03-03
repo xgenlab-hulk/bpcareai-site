@@ -1,14 +1,29 @@
 ---
-title: "The Truth About 'Heart-Healthy' Frozen Dinners for Adults 73+ With Stage 3 CKD and Systolic Heart Failure"
-slug: "the-truth-about-heart-healthy-frozen-dinners-for-adults-73-with-stage-3-ckd-and-systolic-heart-failure"
-description: "Analyzes sodium-potassium ratios, phosphate additives, and hidden preservatives in top-selling frozen meals—and identifies 4 brands that meet both KDOQI and ACC/AHA guidelines for dual-disease management."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["frozen dinners heart failure ckid", "heart disease", "cardiac-diet-ckd"]
-primaryKeyword: "frozen dinners heart failure ckid"
-topicCluster: "cardiac-diet-ckd"
-image: ""
-relatedSlugs: ["the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease", "the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives", "the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension", "can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension", "the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70"]
+title: >-
+  The Truth About 'Heart-Healthy' Frozen Dinners for Adults 73+ With Stage 3 CKD
+  and Systolic Heart Failure
+slug: >-
+  the-truth-about-heart-healthy-frozen-dinners-for-adults-73-with-stage-3-ckd-and-systolic-heart-failure
+description: >-
+  Analyzes sodium-potassium ratios, phosphate additives, and hidden
+  preservatives in top-selling frozen meals—and identifies 4 brands that meet
+  both KDOQI and ACC/AHA guidelines for dual-disease management.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: frozen dinners heart failure ckid
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
+  - >-
+    can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
+  - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
 ---
 
 # Choosing Safer Frozen Dinners for Heart Failure and CKD: What Adults 73+ Really Need to Know  

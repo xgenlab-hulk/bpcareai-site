@@ -6,12 +6,8 @@ description: >-
   can silently raise blood sugar in older adults with insulin resistance.
 date: '2025-12-08'
 updated: '2025-12-08'
-tags:
-  - hidden carbs Christmas meals diabetes
-  - managing blood sugar during Christmas and New Year
-  - hidden-sugar-sources
 primaryKeyword: hidden carbs Christmas meals diabetes
-topicCluster: nutrition-diet
+topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

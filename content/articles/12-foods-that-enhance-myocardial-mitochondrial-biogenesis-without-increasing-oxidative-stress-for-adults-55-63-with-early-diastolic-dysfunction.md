@@ -1,14 +1,29 @@
 ---
-title: "12 Foods That Enhance Myocardial Mitochondrial Biogenesis *Without* Increasing Oxidative Stress — For Adults 55–63 With Early Diastolic Dysfunction"
-slug: "12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction"
-description: "Highlights mitochondrial-targeted foods (e.g., black garlic, roasted walnuts, wild blueberries) with proven upregulation of PGC-1α and SIRT3 in human cardiac tissue studies."
-date: "2026-02-25"
-updated: "2026-02-25"
-tags: ["foods for heart mitochondrial health diastolic dysfunction", "heart disease", "diet-nutrition-mitochondrial"]
-primaryKeyword: "foods for heart mitochondrial health diastolic dysfunction"
-topicCluster: "diet-nutrition-mitochondrial"
-image: ""
-relatedSlugs: ["natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction", "natural-ways-to-improve-cardiac-mitochondrial-biogenesis-without-supplements-using-postprandial-cold-exposure-and-time-restricted-eating-windows-in-adults-61-with-diastolic-stiffness", "10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max", "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak", "10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl"]
+title: >-
+  12 Foods That Enhance Myocardial Mitochondrial Biogenesis *Without* Increasing
+  Oxidative Stress — For Adults 55–63 With Early Diastolic Dysfunction
+slug: >-
+  12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction
+description: >-
+  Highlights mitochondrial-targeted foods (e.g., black garlic, roasted walnuts,
+  wild blueberries) with proven upregulation of PGC-1α and SIRT3 in human
+  cardiac tissue studies.
+date: '2026-02-25'
+updated: '2026-02-25'
+primaryKeyword: foods for heart mitochondrial health diastolic dysfunction
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction
+  - >-
+    natural-ways-to-improve-cardiac-mitochondrial-biogenesis-without-supplements-using-postprandial-cold-exposure-and-time-restricted-eating-windows-in-adults-61-with-diastolic-stiffness
+  - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
+  - >-
+    10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
 ---
 
 # 12 Science-Supported Foods for Heart Mitochondrial Health in Diastolic Dysfunction (Ages 55–63)

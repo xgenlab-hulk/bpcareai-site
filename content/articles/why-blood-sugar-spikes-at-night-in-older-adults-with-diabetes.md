@@ -6,12 +6,8 @@ description: >-
   diet and medication timing.
 date: '2025-12-03'
 updated: '2025-12-03'
-tags:
-  - nighttime blood sugar spikes in elderly diabetics
-  - diabetes
-  - diabetes-management
 primaryKeyword: nighttime blood sugar spikes in elderly diabetics
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

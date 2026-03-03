@@ -1,14 +1,30 @@
 ---
-title: "10 Foods That Worsen Endothelial Glycocalyx Thickness in Adults 57–68 With Prediabetes and Early Diastolic Dysfunction"
-slug: "10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction"
-description: "Highlights specific dietary offenders (e.g., ultra-processed emulsifiers, high-fructose corn syrup–sweetened teas, reheated starches) that degrade the vascular 'sugar coat'—with supporting intravital microscopy and plasma syndecan-1 data."
-date: "2026-01-21"
-updated: "2026-01-21"
-tags: ["foods endothelial glycocalyx prediabetes", "heart disease", "vascular-glycocalyx"]
-primaryKeyword: "foods endothelial glycocalyx prediabetes"
-topicCluster: "vascular-glycocalyx"
-image: ""
-relatedSlugs: ["what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes", "myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction", "10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score", "the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58", "warning-signs-your-healthy-swap-salad-dressing-is-actually-driving-sodium-induced-endothelial-stiffness-in-adults-70-with-stage-1-hypertension-and-reduced-arterial-compliance"]
+title: >-
+  10 Foods That Worsen Endothelial Glycocalyx Thickness in Adults 57–68 With
+  Prediabetes and Early Diastolic Dysfunction
+slug: >-
+  10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
+description: >-
+  Highlights specific dietary offenders (e.g., ultra-processed emulsifiers,
+  high-fructose corn syrup–sweetened teas, reheated starches) that degrade the
+  vascular 'sugar coat'—with supporting intravital microscopy and plasma
+  syndecan-1 data.
+date: '2026-01-21'
+updated: '2026-01-21'
+primaryKeyword: foods endothelial glycocalyx prediabetes
+topicCluster: nutrition-diet-management
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
+  - >-
+    myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction
+  - >-
+    10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score
+  - >-
+    the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
+  - >-
+    warning-signs-your-healthy-swap-salad-dressing-is-actually-driving-sodium-induced-endothelial-stiffness-in-adults-70-with-stage-1-hypertension-and-reduced-arterial-compliance
 ---
 
 # 10 Foods That May Affect Endothelial Glycocalyx Health in Adults With Prediabetes

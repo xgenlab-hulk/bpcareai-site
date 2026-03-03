@@ -10,12 +10,8 @@ description: >-
   overlap syndromes.
 date: '2026-01-20'
 updated: '2026-01-20'
-tags:
-  - weight gain calorie restriction new diabetes
-  - diabetes
-  - endocrine-overlap-symptoms
 primaryKeyword: weight gain calorie restriction new diabetes
-topicCluster: endocrine-overlap-symptoms
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-

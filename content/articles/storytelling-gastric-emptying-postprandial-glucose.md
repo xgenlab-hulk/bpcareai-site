@@ -1,14 +1,30 @@
 ---
-title: "How Intergenerational Storytelling During Dinner Slows Gastric Emptying — And Why That Helps Postprandial Glucose in Adults 78+ With Mild Cognitive Impairment"
-slug: "how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment"
-description: "Discusses parasympathetic activation via emotional engagement, measured via gastric motility ultrasound and CGM, showing delayed but smoother glucose curves in memory-impaired seniors who converse while eating."
-date: "2026-02-06"
-updated: "2026-02-06"
-tags: ["storytelling gastric emptying postprandial glucose", "diabetes", "cognitive-engagement-digestion"]
-primaryKeyword: "storytelling gastric emptying postprandial glucose"
-topicCluster: "cognitive-engagement-digestion"
-image: ""
-relatedSlugs: ["a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms", "how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying", "how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin", "how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd", "does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd"]
+title: >-
+  How Intergenerational Storytelling During Dinner Slows Gastric Emptying — And
+  Why That Helps Postprandial Glucose in Adults 78+ With Mild Cognitive
+  Impairment
+slug: >-
+  how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment
+description: >-
+  Discusses parasympathetic activation via emotional engagement, measured via
+  gastric motility ultrasound and CGM, showing delayed but smoother glucose
+  curves in memory-impaired seniors who converse while eating.
+date: '2026-02-06'
+updated: '2026-02-06'
+primaryKeyword: storytelling gastric emptying postprandial glucose
+topicCluster: glucose-diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms
+  - >-
+    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
+  - >-
+    how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
+  - >-
+    how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd
+  - >-
+    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
 ---
 
 # How Intergenerational Storytelling at Dinner Influences Gastric Emptying and Stabilizes Postprandial Glucose in Older Adults With Mild Cognitive Impairment

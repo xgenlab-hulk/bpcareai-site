@@ -1,14 +1,28 @@
 ---
-title: "7 Silent Signs Your Blood Pressure Is Spiking at Night — Even If Your Daytime Readings Look Normal"
-slug: "7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal"
-description: "Explores nocturnal hypertension symptoms often missed in routine checks—including unrefreshing sleep, morning headaches, and nocturia—and why 24-hour ambulatory monitoring is essential for adults 55+."
-date: "2026-01-28"
-updated: "2026-01-28"
-tags: ["nocturnal hypertension symptoms adults 55+", "blood pressure", "emergency-symptoms"]
-primaryKeyword: "nocturnal hypertension symptoms adults 55+"
-topicCluster: "emergency-symptoms"
-image: ""
-relatedSlugs: ["7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65", "7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing", "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night", "7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62", "why-blood-pressure-matters-even-if-you-feel-fine"]
+title: >-
+  7 Silent Signs Your Blood Pressure Is Spiking at Night — Even If Your Daytime
+  Readings Look Normal
+slug: >-
+  7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
+description: >-
+  Explores nocturnal hypertension symptoms often missed in routine
+  checks—including unrefreshing sleep, morning headaches, and nocturia—and why
+  24-hour ambulatory monitoring is essential for adults 55+.
+date: '2026-01-28'
+updated: '2026-01-28'
+primaryKeyword: nocturnal hypertension symptoms adults 55+
+topicCluster: symptoms-diagnosis
+image: ''
+relatedSlugs:
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+  - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+  - why-blood-pressure-matters-even-if-you-feel-fine
 ---
 
 # Recognizing Nocturnal Hypertension Symptoms in Adults 55+: Why Nighttime BP Matters Even When Daytime Readings Seem Fine

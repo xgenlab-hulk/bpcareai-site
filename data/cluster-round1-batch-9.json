@@ -1,0 +1,241 @@
+{
+  "batch_id": 9,
+  "total_original_clusters": 131,
+  "total_articles": 131,
+  "clustered_results": [
+    {
+      "new_cluster_name": "cardiovascular-physiology-mechanisms",
+      "description": "心血管系统的生理机制，包括电生理、自主神经功能、神经心脏整合和细胞保护",
+      "rationale": "整合了心血管系统的基础生理学、电生理效应、自主神经调节、神经心脏连接等深层机制研究，形成完整的心血管生理学知识体系",
+      "original_clusters": [
+        "electrophysiology-effects",
+        "autonomic-dysfunction",
+        "neurocardiac-integration",
+        "cellular-cardioprotection",
+        "molecular-cardiology",
+        "autonomic-dysfunction-warning-signs",
+        "neuro-cardio-symptom-differentiation",
+        "arrhythmia-trigger-analysis",
+        "vagal-modulation-nonpharmacologic",
+        "circadian-afib-interaction",
+        "environmental-triggers-arrhythmia"
+      ],
+      "total_articles": 11
+    },
+    {
+      "new_cluster_name": "hypertension-comprehensive-management",
+      "description": "高血压的全面管理，包括钠摄入控制、饮食干预、血压波动管理和症状识别",
+      "rationale": "合并了高血压相关的钠生理学、钠减少工具、饮食修改、血压波动与认知风险、症状识别等各个方面，形成系统的高血压管理策略",
+      "original_clusters": [
+        "sodium-physiology-aging",
+        "sodium-reduction-practical-tools",
+        "hypertension-diet-modifications",
+        "bp-variability-neurocognitive-risk",
+        "blood-pressure-variability-nutrition",
+        "hypertension-symptom-recognition",
+        "dietary-timing-hypertension",
+        "environmental-lighting-hypertension",
+        "diet-nutrition-ckd-hypertension"
+      ],
+      "total_articles": 9
+    },
+    {
+      "new_cluster_name": "diabetes-glucose-comprehensive",
+      "description": "糖尿病和血糖管理的全面内容，包括风险因素、早期检测、昼夜节律影响、饮食控制和胰岛素管理",
+      "rationale": "整合了糖尿病风险识别、前驱糖尿病早期检测、昼夜节律对血糖的影响、餐食结构与血糖控制、胰岛素剂量调整、压力对血糖的影响等全方位糖尿病管理内容",
+      "original_clusters": [
+        "diabetes-risk-factors",
+        "early-detection-prediabetes",
+        "circadian-glucose-dysregulation",
+        "meal-structure-glycemic-control",
+        "insulin-dosing-flexibility",
+        "stress-physiology-blood-sugar",
+        "metabolic-resilience-long-term-diabetes",
+        "label-literacy-gut-glucose",
+        "beverage-comparison-insulin-resistance",
+        "diabetic-diet-research",
+        "diabetic-diet-identification",
+        "joint-friendly-diabetic-cooking",
+        "diabetic-diet-texture-adapted",
+        "diabetic-diet-intervention"
+      ],
+      "total_articles": 14
+    },
+    {
+      "new_cluster_name": "cardiac-nutrition-interventions",
+      "description": "心脏健康的饮食营养干预，包括心脏病饮食修改、心力衰竭饮食比较、肠道心脏轴和饮食社交策略",
+      "rationale": "聚合了针对心脏健康的各类饮食干预策略，从心脏病饮食修改、心力衰竭的风味科学、肠道健康与心脏轴线预防、到社交场合的饮食导航，形成全面的心脏营养学内容",
+      "original_clusters": [
+        "cardiac-diet-modification",
+        "heart-failure-diet-comparison",
+        "heart-failure-flavor-science",
+        "cardiac-diet-behavioral",
+        "gut-heart-axis-prevention",
+        "cardiac-diet-social-navigation",
+        "gut-cardiovascular-link"
+      ],
+      "total_articles": 7
+    },
+    {
+      "new_cluster_name": "comprehensive-dietary-strategies",
+      "description": "综合性饮食策略和营养干预，涵盖多种健康状况的饮食选择、时间营养学和行为营养学",
+      "rationale": "整合了跨疾病领域的通用饮食策略，包括饮食时间对心脏功能的影响、时间营养学、行为营养心理学、饮食营养选择、食品标签透明度等综合营养管理内容",
+      "original_clusters": [
+        "dietary-risks",
+        "intergenerational-diet-modification",
+        "behavioral-nutrition-psychology",
+        "chronobiology-nutrition",
+        "behavioral-nutrition-intervention",
+        "diet-timing-diastolic-function",
+        "diet-nutrition-choices",
+        "diet-nutrition-sugar-awareness",
+        "food-labeling-transparency",
+        "treatment-dietary-intervention",
+        "diet-nutrition-comorbidity",
+        "chronobiology-sleep-nutrition",
+        "neuro-diet-circadian"
+      ],
+      "total_articles": 13
+    },
+    {
+      "new_cluster_name": "symptom-recognition-diagnosis",
+      "description": "各类疾病的症状识别和诊断挑战，特别关注老年人、性别差异和非典型表现",
+      "rationale": "合并了心血管症状识别、性别特异性症状、老年人症状识别、临床评估差距、诊断模拟疾病、GLP-1用户症状识别等，强调跨人群的症状识别准确性",
+      "original_clusters": [
+        "symptom-recognition-oldest-old",
+        "symptoms-gender-specific",
+        "clinical-assessment-gaps",
+        "neuro-cardio-symptom-differentiation",
+        "symptom-recognition-glp1-users",
+        "cardiac-symptom-recognition",
+        "symptoms-aging-misdiagnosis",
+        "symptom-timing-gender-red-flags",
+        "symptoms-comorbidity",
+        "diagnostic-gaps-gender-specific",
+        "diagnostic-mimickers-amyloidosis",
+        "differential-diagnosis-elderly-male"
+      ],
+      "total_articles": 12
+    },
+    {
+      "new_cluster_name": "medication-supplement-safety",
+      "description": "药物和补充剂的安全性管理，包括药物警戒、药物相互作用、补充剂安全性和症状警报",
+      "rationale": "整合了药物安全监测、补充剂与药物的相互作用、他汀类安全性、补充剂对QTc的影响、药物水合安全、药物症状警报等药物治疗安全的各个方面",
+      "original_clusters": [
+        "pharmacovigilance",
+        "medications-complications",
+        "medications-statin-safety",
+        "medication-symptom-alerts",
+        "supplements-medications-safety",
+        "supplements-qtc-stability",
+        "medication-hydration-safety",
+        "medications-myths",
+        "treatment-alternatives",
+        "chronopharmacology-diet-interaction"
+      ],
+      "total_articles": 10
+    },
+    {
+      "new_cluster_name": "lifestyle-behavioral-interventions",
+      "description": "生活方式和行为干预，包括运动、压力管理、睡眠、呼吸技术和心律变异性",
+      "rationale": "聚合了运动与合并症、低强度压力生理学、呼吸和心率变异性、桑拿恢复、昼夜生物学、睡眠生活方式、早晨习惯、心理健康实践等多维度生活方式干预",
+      "original_clusters": [
+        "lifestyle-breathing-hrv",
+        "exercise-comorbidity",
+        "low-intensity-stress-physiology",
+        "lifestyle-sauna-recovery",
+        "lifestyle-chronobiology",
+        "exercise-aortic-stenosis",
+        "sleep-lifestyle",
+        "lifestyle-habits-morning",
+        "mental-wellness-practices"
+      ],
+      "total_articles": 9
+    },
+    {
+      "new_cluster_name": "geriatric-special-populations",
+      "description": "老年人和特殊人群的专项护理，包括老年安全、营养、社交节律干预和旅行物流",
+      "rationale": "整合了老年人特有的健康管理需求，包括老年安全饮食、肌肉减少症预防、吞咽营养交互、营养误区破解、社交节律干预、旅行物流管理等老年专科内容",
+      "original_clusters": [
+        "geriatric-safety-diet",
+        "nutrition-sarcopenia-prevention",
+        "swallowing-nutrition-interaction",
+        "swallowing-safety-nutrition",
+        "myths-facts-oldest-old",
+        "nutrition-myth-busting-frailty",
+        "travel-logistics-older-adults",
+        "social-rhythm-interventions-solo-living",
+        "caregiver-event-preparation",
+        "geriatric-digestion-natural",
+        "physiology-aging-digestion",
+        "sensory-health-cardiac-outcomes",
+        "gastrointestinal-diet-modifications"
+      ],
+      "total_articles": 13
+    },
+    {
+      "new_cluster_name": "comorbidities-complications",
+      "description": "合并症和并发症管理，包括肾脏血管风险、睡眠呼吸暂停、口腔系统炎症和多系统疾病",
+      "rationale": "合并了肾脏血管风险、肾脏饮食修改、肾脏营养比较、睡眠呼吸暂停合并症、口腔系统炎症、呼吸营养界面、女性多囊卵巢综合征等跨系统合并症管理",
+      "original_clusters": [
+        "renal-vascular-risk",
+        "renal-diet-modification",
+        "renal-nutrition-comparison",
+        "comorbidities-sleep-apnea",
+        "oral-systemic-inflammation",
+        "respiratory-nutrition-interface",
+        "hormonal-women-pcos",
+        "gut-health-diet-modification"
+      ],
+      "total_articles": 8
+    },
+    {
+      "new_cluster_name": "prevention-risk-assessment",
+      "description": "疾病预防和风险评估，包括代谢预防、冠状动脉钙化预防、早期检测和风险预测模型",
+      "rationale": "整合了预防医学和风险评估的各个方面，从代谢预防、冠状动脉钙化预防、早期检测连接、预后风险建模、代谢风险预测到感染性疾病预防",
+      "original_clusters": [
+        "prevention-metabolic",
+        "prevention-coronary-calcification",
+        "early-detection-link",
+        "prognostic-risk-modeling",
+        "metabolic-risk-prognostication",
+        "infectious-disease-prevention",
+        "neurovascular-early-detection"
+      ],
+      "total_articles": 7
+    },
+    {
+      "new_cluster_name": "integrative-physiology-interventions",
+      "description": "整合生理学和快速干预措施，包括自然疗法、生理触发因素、快速生理干预和环境因素",
+      "rationale": "聚合了跨学科的生理学干预方法，包括RAS自然调节、天然内皮健康疗法、自然疗法生理学、生理触发因素、快速生理干预、昼夜生物学老化、流体平衡血管健康、视力健康营养、炎症调节、急性脂质调节等综合生理干预",
+      "original_clusters": [
+        "circadian-biology-aging",
+        "physiological-triggers",
+        "physiological-triggers-age-55-plus",
+        "ras-modulation-natural",
+        "natural-remedies-endothelial-health",
+        "natural-remedies-physiology",
+        "quick-intervention-physiological",
+        "fluid-balance-vascular-health",
+        "vision-health-nutrition",
+        "inflammation-modulation",
+        "acute-lipid-modulation",
+        "circadian-rhythm-metabolism",
+        "non-alcoholic-cardiac-stressors",
+        "myth-busting-beverages",
+        "causes-research-link",
+        "causes-gender-specific",
+        "geographic-impact",
+        "measurement-comparative-validity",
+        "travel-hydration-cardiac-safety"
+      ],
+      "total_articles": 19
+    }
+  ],
+  "clustering_summary": {
+    "new_clusters_count": 12,
+    "avg_articles_per_cluster": 10.9,
+    "largest_cluster": "integrative-physiology-interventions (19篇)",
+    "approach": "基于疾病领域、治疗维度和人群特征的三维语义聚类，优先整合同一疾病系统的不同管理方面，同时保持跨学科综合干预的独立性"
+  }
+}

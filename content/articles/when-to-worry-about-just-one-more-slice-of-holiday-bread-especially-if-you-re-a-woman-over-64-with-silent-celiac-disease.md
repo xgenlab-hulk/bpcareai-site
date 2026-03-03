@@ -11,12 +11,8 @@ description: >-
   biopsy confirmation.
 date: '2026-01-10'
 updated: '2026-01-10'
-tags:
-  - silent celiac symptoms in older women
-  - healthy eating during family gatherings
-  - celiac-disease-aging-women
 primaryKeyword: silent celiac symptoms in older women
-topicCluster: celiac-disease-aging-women
+topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-

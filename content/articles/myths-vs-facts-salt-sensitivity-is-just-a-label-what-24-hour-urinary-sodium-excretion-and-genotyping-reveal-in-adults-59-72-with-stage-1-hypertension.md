@@ -1,14 +1,30 @@
 ---
-title: "Myths vs Facts: ‘Salt Sensitivity’ Is Just a Label — What 24-Hour Urinary Sodium Excretion and Genotyping Reveal in Adults 59–72 With Stage 1 Hypertension"
-slug: "myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension"
-description: "Debunks oversimplifications by integrating urinary sodium:creatinine ratios, ACE I/D genotype, and dietary potassium density to define *clinically actionable* salt sensitivity subtypes."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["salt sensitivity hypertension urinary sodium genotyping", "blood pressure", "nutrigenomic-hypertension"]
-primaryKeyword: "salt sensitivity hypertension urinary sodium genotyping"
-topicCluster: "nutrigenomic-hypertension"
-image: ""
-relatedSlugs: ["myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response", "myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions", "how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension", "the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk", "the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a"]
+title: >-
+  Myths vs Facts: ‘Salt Sensitivity’ Is Just a Label — What 24-Hour Urinary
+  Sodium Excretion and Genotyping Reveal in Adults 59–72 With Stage 1
+  Hypertension
+slug: >-
+  myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
+description: >-
+  Debunks oversimplifications by integrating urinary sodium:creatinine ratios,
+  ACE I/D genotype, and dietary potassium density to define *clinically
+  actionable* salt sensitivity subtypes.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: salt sensitivity hypertension urinary sodium genotyping
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response
+  - >-
+    myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions
+  - >-
+    how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
+  - >-
+    the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a
 ---
 
 # Beyond the Label: Understanding Salt Sensitivity Hypertension Urinary Sodium Genotyping in Adults 59–72

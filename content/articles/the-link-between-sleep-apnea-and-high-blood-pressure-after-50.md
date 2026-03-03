@@ -6,12 +6,8 @@ description: >-
   heart risks in older adults.
 date: '2025-11-26'
 updated: '2025-11-26'
-tags:
-  - sleep apnea and high blood pressure over 50
-  - blood pressure
-  - cardiovascular-risk
 primaryKeyword: sleep apnea and high blood pressure over 50
-topicCluster: cardiovascular-health
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - how-sleep-affects-heart-health-after-50

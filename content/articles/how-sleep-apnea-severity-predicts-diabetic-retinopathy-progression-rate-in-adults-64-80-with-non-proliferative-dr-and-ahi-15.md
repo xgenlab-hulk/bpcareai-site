@@ -1,14 +1,29 @@
 ---
-title: "How Sleep Apnea Severity Predicts Diabetic Retinopathy Progression Rate in Adults 64–80 With Non-Proliferative DR and AHI >15"
-slug: "how-sleep-apnea-severity-predicts-diabetic-retinopathy-progression-rate-in-adults-64-80-with-non-proliferative-dr-and-ahi-15"
-description: "Analyzes hypoxia-driven VEGF surges, retinal capillary dropout velocity, and CPAP adherence thresholds linked to 2-year progression from mild to moderate NPDR."
-date: "2026-01-25"
-updated: "2026-01-25"
-tags: ["sleep apnea diabetic retinopathy progression", "diabetes", "complications-eye-health"]
-primaryKeyword: "sleep apnea diabetic retinopathy progression"
-topicCluster: "complications-eye-health"
-image: ""
-relatedSlugs: ["how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes", "how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71", "5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin", "what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing", "when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension"]
+title: >-
+  How Sleep Apnea Severity Predicts Diabetic Retinopathy Progression Rate in
+  Adults 64–80 With Non-Proliferative DR and AHI >15
+slug: >-
+  how-sleep-apnea-severity-predicts-diabetic-retinopathy-progression-rate-in-adults-64-80-with-non-proliferative-dr-and-ahi-15
+description: >-
+  Analyzes hypoxia-driven VEGF surges, retinal capillary dropout velocity, and
+  CPAP adherence thresholds linked to 2-year progression from mild to moderate
+  NPDR.
+date: '2026-01-25'
+updated: '2026-01-25'
+primaryKeyword: sleep apnea diabetic retinopathy progression
+topicCluster: complications-management
+image: ''
+relatedSlugs:
+  - >-
+    how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes
+  - >-
+    how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
+  - >-
+    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
+  - >-
+    what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
 ---
 
 # How Sleep Apnea Influences Diabetic Retinopathy Progression in Adults 64–80

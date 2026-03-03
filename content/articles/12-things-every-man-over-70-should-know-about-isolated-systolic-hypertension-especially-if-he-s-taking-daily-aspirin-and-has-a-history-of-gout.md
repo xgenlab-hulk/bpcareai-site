@@ -1,14 +1,29 @@
 ---
-title: "12 Things Every Man Over 70 Should Know About Isolated Systolic Hypertension — Especially If He’s Taking Daily Aspirin and Has a History of Gout"
-slug: "12-things-every-man-over-70-should-know-about-isolated-systolic-hypertension-especially-if-he-s-taking-daily-aspirin-and-has-a-history-of-gout"
-description: "Covers ISH-specific risks (pulse wave velocity, aortic stiffness), aspirin’s impact on uric acid clearance and RAAS, and gout-hypertension drug interaction pitfalls."
-date: "2026-02-15"
-updated: "2026-02-15"
-tags: ["isolated systolic hypertension men over 70", "blood pressure", "gender-specific-concerns"]
-primaryKeyword: "isolated systolic hypertension men over 70"
-topicCluster: "gender-specific-concerns"
-image: ""
-relatedSlugs: ["12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75", "does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability", "myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65", "what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease", "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness"]
+title: >-
+  12 Things Every Man Over 70 Should Know About Isolated Systolic Hypertension —
+  Especially If He’s Taking Daily Aspirin and Has a History of Gout
+slug: >-
+  12-things-every-man-over-70-should-know-about-isolated-systolic-hypertension-especially-if-he-s-taking-daily-aspirin-and-has-a-history-of-gout
+description: >-
+  Covers ISH-specific risks (pulse wave velocity, aortic stiffness), aspirin’s
+  impact on uric acid clearance and RAAS, and gout-hypertension drug interaction
+  pitfalls.
+date: '2026-02-15'
+updated: '2026-02-15'
+primaryKeyword: isolated systolic hypertension men over 70
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  - >-
+    does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+  - >-
+    what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
+  - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
 ---
 
 # What Every Man Over 70 Should Understand About Isolated Systolic Hypertension — Especially With Aspirin Use and Gout History

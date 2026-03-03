@@ -1,14 +1,30 @@
 ---
-title: "When to Worry About ‘Just a Little Wine’ — Alcohol’s Real-Time Effect on Fasting Glucose Rebound and Sleep Architecture in Adults 59–73 With Prediabetes and Fragmented Sleep"
-slug: "when-to-worry-about-just-a-little-wine-alcohol-s-real-time-effect-on-fasting-glucose-rebound-and-sleep-architecture-in-adults-59-73-with-prediabetes-and-fragmented-sleep"
-description: "Analyzes how even 1–2 glasses of red wine consumed during family gatherings disrupt nocturnal hepatic glucose output and suppress REM cycling—using polysomnography + CGM correlation data."
-date: "2026-01-15"
-updated: "2026-01-15"
-tags: ["wine fasting glucose rebound sleep fragmentation", "healthy eating during family gatherings", "alcohol-metabolic-sleep-interaction"]
-primaryKeyword: "wine fasting glucose rebound sleep fragmentation"
-topicCluster: "alcohol-metabolic-sleep-interaction"
-image: ""
-relatedSlugs: ["7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis", "how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70", "how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes", "how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon", "a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes"]
+title: >-
+  When to Worry About ‘Just a Little Wine’ — Alcohol’s Real-Time Effect on
+  Fasting Glucose Rebound and Sleep Architecture in Adults 59–73 With
+  Prediabetes and Fragmented Sleep
+slug: >-
+  when-to-worry-about-just-a-little-wine-alcohol-s-real-time-effect-on-fasting-glucose-rebound-and-sleep-architecture-in-adults-59-73-with-prediabetes-and-fragmented-sleep
+description: >-
+  Analyzes how even 1–2 glasses of red wine consumed during family gatherings
+  disrupt nocturnal hepatic glucose output and suppress REM cycling—using
+  polysomnography + CGM correlation data.
+date: '2026-01-15'
+updated: '2026-01-15'
+primaryKeyword: wine fasting glucose rebound sleep fragmentation
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
+  - >-
+    how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
+  - >-
+    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
+  - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
+  - >-
+    a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes
 ---
 
 # When “Just a Little Wine” Affects Your Night: Understanding Wine Fasting Glucose Rebound and Sleep Fragmentation After 59

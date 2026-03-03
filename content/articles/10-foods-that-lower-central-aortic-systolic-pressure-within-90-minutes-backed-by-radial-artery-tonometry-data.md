@@ -1,14 +1,29 @@
 ---
-title: "10 Foods That Lower Central Aortic Systolic Pressure Within 90 Minutes — Backed by Radial Artery Tonometry Data"
-slug: "10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data"
-description: "Features foods with rapid endothelial NO modulation (e.g., raw beetroot microgreens, black currant seed oil, roasted hibiscus pods), excluding those requiring hours for nitrates to convert."
-date: "2026-01-30"
-updated: "2026-01-30"
-tags: ["foods lower central aortic pressure", "blood pressure", "acute-endothelial-food-interventions"]
-primaryKeyword: "foods lower central aortic pressure"
-topicCluster: "acute-endothelial-food-interventions"
-image: ""
-relatedSlugs: ["10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity", "12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings", "12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension", "10-foods-that-lower-post-exercise-heart-rate-recovery-time-for-adults-59-73-with-hypertension-and-sluggish-hrv", "natural-ways-to-support-endothelial-nitric-oxide-synthase-recoupling-within-72-hours-for-adults-64-77-with-hypertension-high-adma-and-frequent-nsaid-use"]
+title: >-
+  10 Foods That Lower Central Aortic Systolic Pressure Within 90 Minutes —
+  Backed by Radial Artery Tonometry Data
+slug: >-
+  10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data
+description: >-
+  Features foods with rapid endothelial NO modulation (e.g., raw beetroot
+  microgreens, black currant seed oil, roasted hibiscus pods), excluding those
+  requiring hours for nitrates to convert.
+date: '2026-01-30'
+updated: '2026-01-30'
+primaryKeyword: foods lower central aortic pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
+  - >-
+    12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings
+  - >-
+    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+  - >-
+    10-foods-that-lower-post-exercise-heart-rate-recovery-time-for-adults-59-73-with-hypertension-and-sluggish-hrv
+  - >-
+    natural-ways-to-support-endothelial-nitric-oxide-synthase-recoupling-within-72-hours-for-adults-64-77-with-hypertension-high-adma-and-frequent-nsaid-use
 ---
 
 # 10 Foods That Can Lower Central Aortic Pressure Quickly — What the Data Shows

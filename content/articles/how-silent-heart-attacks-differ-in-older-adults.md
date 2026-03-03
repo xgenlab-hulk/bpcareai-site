@@ -6,10 +6,6 @@ description: >-
   to detect them early.
 date: '2025-12-04'
 updated: '2025-12-04'
-tags:
-  - silent heart attack symptoms in elderly
-  - heart disease
-  - heart-health
 primaryKeyword: silent heart attack symptoms in elderly
 topicCluster: cardiovascular-health
 image: ''

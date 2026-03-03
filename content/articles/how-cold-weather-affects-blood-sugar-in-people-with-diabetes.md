@@ -6,12 +6,8 @@ description: >-
   stay stable.
 date: '2025-11-27'
 updated: '2025-11-27'
-tags:
-  - cold weather and blood sugar changes in diabetics
-  - diabetes
-  - diabetes-environmental-factors
 primaryKeyword: cold weather and blood sugar changes in diabetics
-topicCluster: diabetes-care
+topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes

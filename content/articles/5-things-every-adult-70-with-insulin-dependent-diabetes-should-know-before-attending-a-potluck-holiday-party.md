@@ -1,14 +1,29 @@
 ---
-title: "5 Things Every Adult 70+ With Insulin-Dependent Diabetes Should Know Before Attending a Potluck Holiday Party"
-slug: "5-things-every-adult-70-with-insulin-dependent-diabetes-should-know-before-attending-a-potluck-holiday-party"
-description: "Covers food labeling gaps, insulin timing pitfalls with variable serving sizes, cold-chain risks for analogs, carb estimation in mixed dishes, and discreet BG monitoring etiquette."
-date: "2026-01-24"
-updated: "2026-01-24"
-tags: ["insulin-dependent diabetes potluck party tips", "holiday diabetes management", "event-preparation-insulin-users"]
-primaryKeyword: "insulin-dependent diabetes potluck party tips"
-topicCluster: "event-preparation-insulin-users"
-image: ""
-relatedSlugs: ["how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes", "10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit", "how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes", "5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy", "can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65"]
+title: >-
+  5 Things Every Adult 70+ With Insulin-Dependent Diabetes Should Know Before
+  Attending a Potluck Holiday Party
+slug: >-
+  5-things-every-adult-70-with-insulin-dependent-diabetes-should-know-before-attending-a-potluck-holiday-party
+description: >-
+  Covers food labeling gaps, insulin timing pitfalls with variable serving
+  sizes, cold-chain risks for analogs, carb estimation in mixed dishes, and
+  discreet BG monitoring etiquette.
+date: '2026-01-24'
+updated: '2026-01-24'
+primaryKeyword: insulin-dependent diabetes potluck party tips
+topicCluster: medication-safety
+image: ''
+relatedSlugs:
+  - >-
+    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
+  - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+  - >-
+    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
+  - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+  - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 ---
 
 # Smart, Stress-Free Insulin-Dependent Diabetes Potluck Party Tips for Adults 70+

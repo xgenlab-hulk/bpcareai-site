@@ -6,10 +6,6 @@ description: >-
   and what steps you can take to stay safe in winter.
 date: '2025-11-29'
 updated: '2025-11-29'
-tags:
-  - cold weather effect on blood pressure
-  - blood pressure
-  - hypertension-lifestyle
 primaryKeyword: cold weather effect on blood pressure
 topicCluster: hypertension-management
 image: ''

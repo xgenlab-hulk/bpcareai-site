@@ -9,12 +9,8 @@ description: >-
   arrhythmia triggers—focusing on circadian QT-interval vulnerability windows.
 date: '2026-01-12'
 updated: '2026-01-12'
-tags:
-  - green tea vs black tea PVCs men 60s
-  - heart disease
-  - arrhythmia-diet-comparison
 primaryKeyword: green tea vs black tea PVCs men 60s
-topicCluster: arrhythmia-diet-comparison
+topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-

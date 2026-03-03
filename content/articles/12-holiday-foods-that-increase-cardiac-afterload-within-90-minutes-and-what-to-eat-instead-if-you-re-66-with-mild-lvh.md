@@ -1,14 +1,28 @@
 ---
-title: "12 Holiday Foods That Increase Cardiac Afterload Within 90 Minutes — And What to Eat Instead If You’re 66+ With Mild LVH"
-slug: "12-holiday-foods-that-increase-cardiac-afterload-within-90-minutes-and-what-to-eat-instead-if-you-re-66-with-mild-lvh"
-description: "Identifies high-sodium, high-arginine, and high-tyramine festive foods (e.g., aged cheese boards, cured meats, fermented condiments) that acutely raise systemic vascular resistance — paired with evidence-based swaps proven to stabilize central aortic pressure."
-date: "2026-01-19"
-updated: "2026-01-19"
-tags: ["holiday foods cardiac afterload lvh", "holiday heart syndrome prevention", "cardiac-diet-afterload"]
-primaryKeyword: "holiday foods cardiac afterload lvh"
-topicCluster: "cardiac-diet-afterload"
-image: ""
-relatedSlugs: ["5-surprising-foods-that-may-trigger-holiday-heart-syndrome", "12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead", "why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol", "7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs", "12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure"]
+title: >-
+  12 Holiday Foods That Increase Cardiac Afterload Within 90 Minutes — And What
+  to Eat Instead If You’re 66+ With Mild LVH
+slug: >-
+  12-holiday-foods-that-increase-cardiac-afterload-within-90-minutes-and-what-to-eat-instead-if-you-re-66-with-mild-lvh
+description: >-
+  Identifies high-sodium, high-arginine, and high-tyramine festive foods (e.g.,
+  aged cheese boards, cured meats, fermented condiments) that acutely raise
+  systemic vascular resistance — paired with evidence-based swaps proven to
+  stabilize central aortic pressure.
+date: '2026-01-19'
+updated: '2026-01-19'
+primaryKeyword: holiday foods cardiac afterload lvh
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - >-
+    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
+  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
+  - >-
+    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
 ---
 
 # Holiday Foods That Raise Cardiac Afterload — Smart Swaps for Adults 66+ With Mild Left Ventricular Hypertrophy

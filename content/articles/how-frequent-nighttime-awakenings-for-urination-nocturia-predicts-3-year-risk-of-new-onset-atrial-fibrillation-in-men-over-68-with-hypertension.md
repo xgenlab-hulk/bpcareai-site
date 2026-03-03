@@ -10,12 +10,8 @@ description: >-
   frequency thresholds (>2x/night) that signal need for AFib screening.
 date: '2025-12-31'
 updated: '2025-12-31'
-tags:
-  - nocturia and atrial fibrillation risk
-  - heart disease
-  - nocturia-arrhythmia-link
 primaryKeyword: nocturia and atrial fibrillation risk
-topicCluster: nocturia-arrhythmia-link
+topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - the-connection-between-frequent-urination-at-night-and-heart-health

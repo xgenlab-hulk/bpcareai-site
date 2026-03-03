@@ -1,14 +1,24 @@
 ---
-title: "What Are the Silent Signs of Salt-Induced Fluid Retention During Holiday Travel With Aging Parents?"
-slug: "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents"
-description: "Identifies subtle but critical indicators—like shoe tightness, new abdominal fullness, reduced neck range of motion, and unexplained fatigue—that precede overt edema or dyspnea in seniors with compensated heart failure or CKD."
-date: "2025-12-18"
-updated: "2025-12-18"
-tags: ["silent signs salt-induced fluid retention seniors", "healthy eating during family gatherings", "cardiac-symptom-recognition"]
-primaryKeyword: "silent signs salt-induced fluid retention seniors"
-topicCluster: "cardiac-symptom-recognition"
-image: ""
-relatedSlugs: ["heart-disease-warning-signs-that-appear-years-in-advance", "why-sudden-weight-gain-could-be-a-red-flag-for-your-heart", "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties", "could-leg-swelling-be-a-sign-of-heart-trouble-after-50", "what-are-the-first-signs-of-holiday-heart-syndrome-in-women"]
+title: >-
+  What Are the Silent Signs of Salt-Induced Fluid Retention During Holiday
+  Travel With Aging Parents?
+slug: >-
+  what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
+description: >-
+  Identifies subtle but critical indicators—like shoe tightness, new abdominal
+  fullness, reduced neck range of motion, and unexplained fatigue—that precede
+  overt edema or dyspnea in seniors with compensated heart failure or CKD.
+date: '2025-12-18'
+updated: '2025-12-18'
+primaryKeyword: silent signs salt-induced fluid retention seniors
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - heart-disease-warning-signs-that-appear-years-in-advance
+  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
+  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - could-leg-swelling-be-a-sign-of-heart-trouble-after-50
+  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
 ---
 
 # Recognizing the Silent Signs of Salt-Induced Fluid Retention in Seniors During Holiday Travel

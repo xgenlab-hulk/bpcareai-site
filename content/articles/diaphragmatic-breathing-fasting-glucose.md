@@ -1,14 +1,30 @@
 ---
-title: "Does Daily 8-Minute Diaphragmatic Breathing Lower Fasting Glucose and HOMA-IR in Adults 59–69 With Stress-Induced Hyperglycemia and High Salivary Alpha-Amylase?"
-slug: "does-daily-8-minute-diaphragmatic-breathing-lower-fasting-glucose-and-homa-ir-in-adults-59-69-with-stress-induced-hyperglycemia-and-high-salivary-alpha-amylase"
-description: "Presents RCT data on vagally mediated hepatic glucose suppression, cortisol rhythm normalization, and insulin receptor tyrosine phosphorylation changes after 4 weeks of standardized breathing."
-date: "2026-01-27"
-updated: "2026-01-27"
-tags: ["diaphragmatic breathing fasting glucose", "diabetes", "lifestyle-stress-metabolism"]
-primaryKeyword: "diaphragmatic breathing fasting glucose"
-topicCluster: "lifestyle-stress-metabolism"
-image: ""
-relatedSlugs: ["does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd", "quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76", "can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes", "quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension", "does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension"]
+title: >-
+  Does Daily 8-Minute Diaphragmatic Breathing Lower Fasting Glucose and HOMA-IR
+  in Adults 59–69 With Stress-Induced Hyperglycemia and High Salivary
+  Alpha-Amylase?
+slug: >-
+  does-daily-8-minute-diaphragmatic-breathing-lower-fasting-glucose-and-homa-ir-in-adults-59-69-with-stress-induced-hyperglycemia-and-high-salivary-alpha-amylase
+description: >-
+  Presents RCT data on vagally mediated hepatic glucose suppression, cortisol
+  rhythm normalization, and insulin receptor tyrosine phosphorylation changes
+  after 4 weeks of standardized breathing.
+date: '2026-01-27'
+updated: '2026-01-27'
+primaryKeyword: diaphragmatic breathing fasting glucose
+topicCluster: diabetes-management
+image: ''
+relatedSlugs:
+  - >-
+    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
+  - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+  - >-
+    can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes
+  - >-
+    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
+  - >-
+    does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
 ---
 
 # Can Daily Diaphragmatic Breathing Fasting Glucose Improve Blood Sugar in Adults 59–69 with Stress-Related High Blood Sugar?

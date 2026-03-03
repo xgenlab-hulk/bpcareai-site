@@ -1,14 +1,30 @@
 ---
-title: "A vs B: Traditional Roast Turkey (Skin-On, Herb-Rubbed) vs. Slow-Braised Turkey Leg (Bone-In, Low-Sodium Broth) — Impact on Postprandial Uric Acid in Men 62–79 With Gout and Mild CKD"
-slug: "a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd"
-description: "Compares purine load, cooking method–driven AGE formation, and sodium-potassium ratios in two popular turkey preparations, with clinical data on 2-hour serum uric acid spikes and 24-hour renal excretion patterns."
-date: "2026-01-20"
-updated: "2026-01-20"
-tags: ["turkey preparation gout uric acid comparison", "healthy eating during family gatherings", "renal-metabolic-comparison"]
-primaryKeyword: "turkey preparation gout uric acid comparison"
-topicCluster: "renal-metabolic-comparison"
-image: ""
-relatedSlugs: ["what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia", "a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease", "a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc", "a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia", "a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics"]
+title: >-
+  A vs B: Traditional Roast Turkey (Skin-On, Herb-Rubbed) vs. Slow-Braised
+  Turkey Leg (Bone-In, Low-Sodium Broth) — Impact on Postprandial Uric Acid in
+  Men 62–79 With Gout and Mild CKD
+slug: >-
+  a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
+description: >-
+  Compares purine load, cooking method–driven AGE formation, and
+  sodium-potassium ratios in two popular turkey preparations, with clinical data
+  on 2-hour serum uric acid spikes and 24-hour renal excretion patterns.
+date: '2026-01-20'
+updated: '2026-01-20'
+primaryKeyword: turkey preparation gout uric acid comparison
+topicCluster: renal-health
+image: ''
+relatedSlugs:
+  - >-
+    what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia
+  - >-
+    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
+  - >-
+    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
+  - >-
+    a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia
+  - >-
+    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
 ---
 
 # Turkey Preparation Gout Uric Acid Comparison: What Men 62–79 With Gout and Mild CKD Should Know at Holiday Gatherings

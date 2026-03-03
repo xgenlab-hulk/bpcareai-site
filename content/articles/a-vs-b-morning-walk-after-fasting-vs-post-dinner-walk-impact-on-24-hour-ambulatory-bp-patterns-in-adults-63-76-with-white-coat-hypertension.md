@@ -1,14 +1,29 @@
 ---
-title: "A vs B: Morning Walk After Fasting vs. Post-Dinner Walk — Impact on 24-Hour Ambulatory BP Patterns in Adults 63–76 With White-Coat Hypertension"
-slug: "a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension"
-description: "Compares timing-specific effects on nocturnal dipping, morning surge, and pulse pressure variability using real-world ABPM data — with guidance on personalizing timing based on chronotype and medication schedule."
-date: "2026-01-22"
-updated: "2026-01-22"
-tags: ["morning vs evening walk blood pressure", "heart health", "exercise-timing-bp-effects"]
-primaryKeyword: "morning vs evening walk blood pressure"
-topicCluster: "exercise-timing-bp-effects"
-image: ""
-relatedSlugs: ["a-vs-b-evening-60-minute-seated-cycling-vs-morning-20-minute-resistance-band-routine-for-improving-24-hour-bp-variability-in-adults-60-73-with-isolated-systolic-hypertension", "how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60", "what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring", "a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity", "can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea"]
+title: >-
+  A vs B: Morning Walk After Fasting vs. Post-Dinner Walk — Impact on 24-Hour
+  Ambulatory BP Patterns in Adults 63–76 With White-Coat Hypertension
+slug: >-
+  a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension
+description: >-
+  Compares timing-specific effects on nocturnal dipping, morning surge, and
+  pulse pressure variability using real-world ABPM data — with guidance on
+  personalizing timing based on chronotype and medication schedule.
+date: '2026-01-22'
+updated: '2026-01-22'
+primaryKeyword: morning vs evening walk blood pressure
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    a-vs-b-evening-60-minute-seated-cycling-vs-morning-20-minute-resistance-band-routine-for-improving-24-hour-bp-variability-in-adults-60-73-with-isolated-systolic-hypertension
+  - >-
+    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
+  - >-
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
+  - >-
+    a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
 ---
 
 # Morning vs Evening Walk Blood Pressure: What Timing Really Does for Adults 63–76 With White-Coat Hypertension

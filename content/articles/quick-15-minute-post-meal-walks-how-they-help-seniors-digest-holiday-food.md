@@ -6,12 +6,8 @@ description: >-
   after large meals, backed by research in aging populations.
 date: '2025-11-28'
 updated: '2025-11-28'
-tags:
-  - post-meal walks for seniors holiday
-  - healthy holiday eating for seniors
-  - exercise-physical-activity
 primaryKeyword: post-meal walks for seniors holiday
-topicCluster: physical-activity
+topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause

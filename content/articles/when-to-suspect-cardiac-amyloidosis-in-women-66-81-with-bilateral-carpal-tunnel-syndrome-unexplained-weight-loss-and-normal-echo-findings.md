@@ -1,14 +1,29 @@
 ---
-title: "When to Suspect Cardiac Amyloidosis in Women 66–81 With Bilateral Carpal Tunnel Syndrome, Unexplained Weight Loss, and 'Normal' Echo Findings"
-slug: "when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings"
-description: "Details red-flag triad: carpal tunnel onset >5 years before HF diagnosis, low-voltage ECG despite preserved wall thickness, and discordant strain patterns on speckle-tracking."
-date: "2026-01-12"
-updated: "2026-01-12"
-tags: ["cardiac amyloidosis carpal tunnel women weight loss", "heart disease", "amyloidosis-red-flag-triad"]
-primaryKeyword: "cardiac amyloidosis carpal tunnel women weight loss"
-topicCluster: "amyloidosis-red-flag-triad"
-image: ""
-relatedSlugs: ["when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction", "red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue", "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction", "what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises", "when-should-you-suspect-cardiac-amyloidosis-in-adults-over-72-with-unexplained-left-ventricular-hypertrophy-and-which-biomarkers-add-value-beyond-nt-probnp"]
+title: >-
+  When to Suspect Cardiac Amyloidosis in Women 66–81 With Bilateral Carpal
+  Tunnel Syndrome, Unexplained Weight Loss, and 'Normal' Echo Findings
+slug: >-
+  when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
+description: >-
+  Details red-flag triad: carpal tunnel onset >5 years before HF diagnosis,
+  low-voltage ECG despite preserved wall thickness, and discordant strain
+  patterns on speckle-tracking.
+date: '2026-01-12'
+updated: '2026-01-12'
+primaryKeyword: cardiac amyloidosis carpal tunnel women weight loss
+topicCluster: cardiovascular-health
+image: ''
+relatedSlugs:
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
+  - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+  - >-
+    when-should-you-suspect-cardiac-amyloidosis-in-adults-over-72-with-unexplained-left-ventricular-hypertrophy-and-which-biomarkers-add-value-beyond-nt-probnp
 ---
 
 # When Cardiac Amyloidosis May Be Hidden Behind Carpal Tunnel, Weight Loss, and “Normal” Echo in Women Ages 66–81

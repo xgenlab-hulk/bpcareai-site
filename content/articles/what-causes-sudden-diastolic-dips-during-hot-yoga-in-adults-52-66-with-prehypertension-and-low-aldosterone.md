@@ -1,14 +1,29 @@
 ---
-title: "What Causes Sudden Diastolic Dips During Hot Yoga in Adults 52–66 With Prehypertension and Low Aldosterone?"
-slug: "what-causes-sudden-diastolic-dips-during-hot-yoga-in-adults-52-66-with-prehypertension-and-low-aldosterone"
-description: "Analyzes thermoregulatory failure, mineralocorticoid insufficiency, and vagal overactivity as drivers of paradoxical diastolic hypotension in midlife adults doing heat-stress exercise."
-date: "2026-01-29"
-updated: "2026-01-29"
-tags: ["diastolic hypotension hot yoga adults 52-66", "blood pressure", "causes-risk-factors"]
-primaryKeyword: "diastolic hypotension hot yoga adults 52-66"
-topicCluster: "causes-risk-factors"
-image: ""
-relatedSlugs: ["why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72", "what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension", "when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls", "the-ultimate-guide-to-adjusting-antihypertensive-dosing-during-summer-heatwaves-with-hydration-thresholds-diuretic-timing-and-postural-rehydration-protocols", "the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation"]
+title: >-
+  What Causes Sudden Diastolic Dips During Hot Yoga in Adults 52–66 With
+  Prehypertension and Low Aldosterone?
+slug: >-
+  what-causes-sudden-diastolic-dips-during-hot-yoga-in-adults-52-66-with-prehypertension-and-low-aldosterone
+description: >-
+  Analyzes thermoregulatory failure, mineralocorticoid insufficiency, and vagal
+  overactivity as drivers of paradoxical diastolic hypotension in midlife adults
+  doing heat-stress exercise.
+date: '2026-01-29'
+updated: '2026-01-29'
+primaryKeyword: diastolic hypotension hot yoga adults 52-66
+topicCluster: hypertension-management
+image: ''
+relatedSlugs:
+  - >-
+    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+  - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+  - >-
+    when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
+  - >-
+    the-ultimate-guide-to-adjusting-antihypertensive-dosing-during-summer-heatwaves-with-hydration-thresholds-diuretic-timing-and-postural-rehydration-protocols
+  - >-
+    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
 ---
 
 # Why diastolic hypotension hot yoga adults 52-66 Happens—and What You Can Do About It

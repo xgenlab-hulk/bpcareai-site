@@ -10,12 +10,8 @@ description: >-
   expression—even in low-mobility patients.
 date: '2025-12-30'
 updated: '2025-12-30'
-tags:
-  - mitochondrial biogenesis diabetes no exercise
-  - diabetes
-  - mitochondrial-support-sedentary
 primaryKeyword: mitochondrial biogenesis diabetes no exercise
-topicCluster: mitochondrial-support-sedentary
+topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
