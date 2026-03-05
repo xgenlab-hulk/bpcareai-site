@@ -11,7 +11,7 @@ description: >-
   months.
 date: '2026-02-24'
 updated: '2026-02-24'
-primaryKeyword: tachycardia-induced cardiomyopathy warning signs
+primaryKeyword: "health management adults 61+"
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

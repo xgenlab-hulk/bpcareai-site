@@ -6,7 +6,7 @@ description: >-
   aging behaviors in cold months.
 date: '2025-12-02'
 updated: '2025-12-02'
-primaryKeyword: when to worry about seasonal depression
+primaryKeyword: "health management winter seniors"
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

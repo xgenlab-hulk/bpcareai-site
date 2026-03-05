@@ -11,7 +11,7 @@ description: >-
   suppression) and neighborhood-level mitigation tactics.
 date: '2026-02-15'
 updated: '2026-02-15'
-primaryKeyword: traffic pollution carotid thickness progression
+primaryKeyword: "hypertension management adults 66+"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -11,7 +11,7 @@ description: >-
   function.
 date: '2026-03-02'
 updated: '2026-03-02'
-primaryKeyword: beta-cell protection natural methods
+primaryKeyword: "health management seniors"
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

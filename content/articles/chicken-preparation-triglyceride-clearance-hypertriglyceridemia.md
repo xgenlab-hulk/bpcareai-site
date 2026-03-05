@@ -11,7 +11,7 @@ description: >-
   the role of fat matrix structure and thermal oxidation byproducts.
 date: '2026-01-25'
 updated: '2026-01-25'
-primaryKeyword: chicken preparation triglyceride clearance hypertriglyceridemia
+primaryKeyword: "diet management holiday seniors"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -11,7 +11,7 @@ description: >-
   as early RV fibrosis signals.
 date: '2026-01-18'
 updated: '2026-01-18'
-primaryKeyword: right ventricular fibrosis galectin-3 warning signs
+primaryKeyword: "heart management seniors"
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

@@ -10,7 +10,7 @@ description: >-
   for adults over 55 with prediabetes or type 2 diabetes.
 date: '2025-12-21'
 updated: '2025-12-21'
-primaryKeyword: hidden added sugar family dinners
+primaryKeyword: "diabetes management seniors"
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -11,7 +11,7 @@ description: >-
   during multi-generational meals.
 date: '2026-02-05'
 updated: '2026-02-05'
-primaryKeyword: salivary amylase support xerostomia dysphagia
+primaryKeyword: "diet management adults 72+"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

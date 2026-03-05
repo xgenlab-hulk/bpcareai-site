@@ -10,7 +10,7 @@ description: >-
   anticoagulants.
 date: '2025-12-31'
 updated: '2025-12-31'
-primaryKeyword: pumpkin pie warfarin vitamin k safety
+primaryKeyword: "health management holiday seniors"
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

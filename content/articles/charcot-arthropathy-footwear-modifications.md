@@ -11,7 +11,7 @@ description: >-
   ≥41%.
 date: '2026-01-03'
 updated: '2026-01-03'
-primaryKeyword: charcot arthropathy footwear modifications
+primaryKeyword: "diabetes management over 65"
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

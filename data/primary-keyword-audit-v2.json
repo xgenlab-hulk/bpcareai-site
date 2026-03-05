@@ -1,0 +1,1274 @@
+{
+  "audit_version": "2.0 (re-evaluated with stricter standards)",
+  "total_articles_checked": 2209,
+  "originally_flagged": 707,
+  "truly_needs_optimization": 89,
+  "false_positive_rate": "87.4%",
+  "quality_distribution": {
+    "critical": 4,
+    "needs_improvement": 85
+  },
+  "needs_optimization": [
+    {
+      "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline",
+      "title": "Natural Ways to Support Pancreatic Beta-Cell Resilience *Without* Stimulating Insulin Secretion — Using Sulforaphane Timing + Low-Dose Lithium in Adults 56–64 With Early Beta-Cell Decline",
+      "topicCluster": "natural-remedies",
+      "current_keyword": "beta-cell protection natural methods",
+      "old_score": 50,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension",
+      "title": "Best Seated Breathing Patterns *With Real-Time HRV Feedback* for Adults 79+ With Frailty, Orthostatic Intolerance, and Mild Pulmonary Hypertension",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "seated breathing hrv feedback frailty",
+      "old_score": 42,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management adults 79+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "low-dose-lithium-beta-cell-function",
+      "title": "How Chronic Low-Dose Lithium (0.3 mg/day) Affects Beta-Cell Autophagy and Mitochondrial Turnover in Adults 59–67 With Long-Standing Type 2 Diabetes — A 2024 Pilot Study Update",
+      "topicCluster": "diabetes-management",
+      "current_keyword": "low-dose lithium beta-cell function",
+      "old_score": 42,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61",
+      "title": "Warning Signs Your 'Stable' Atrial Fibrillation Is Progressing to Tachycardia-Induced Cardiomyopathy — Even With Controlled Ventricular Rate in Adults 61+",
+      "topicCluster": "cardiac-disease-management",
+      "current_keyword": "tachycardia-induced cardiomyopathy warning signs",
+      "old_score": 50,
+      "new_score": 40,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario",
+        "overly_technical"
+      ],
+      "suggested_keyword": "health management adults 61+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; Contains overly technical terms users rarely search; May lack natural phrasing"
+    },
+    {
+      "slug": "connexin-43-phosphorylation-natural-modulation",
+      "title": "Natural Ways to Modulate Cardiac Connexin-43 Phosphorylation *Without* Increasing Oxidative Load — Using Low-Dose Resveratrol + Time-Restricted Feeding in Adults 63+ With Intermittent PACs",
+      "topicCluster": "natural-remedies",
+      "current_keyword": "connexin-43 phosphorylation natural modulation",
+      "old_score": 42,
+      "new_score": 40,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario",
+        "overly_technical"
+      ],
+      "suggested_keyword": "health management adults 63+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; Contains overly technical terms users rarely search; May lack natural phrasing"
+    },
+    {
+      "slug": "carotid-baroreceptor-sensitivity-cooling",
+      "title": "Natural Ways to Enhance Carotid Baroreceptor Sensitivity *Without* Medication — Using Daily 2-Minute Neck Cooling + Submaximal Isometric Jaw Clenching in Adults 60–68",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "carotid baroreceptor sensitivity cooling",
+      "old_score": 42,
+      "new_score": 40,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario",
+        "overly_technical"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; Contains overly technical terms users rarely search; May lack natural phrasing"
+    },
+    {
+      "slug": "sulfonylurea-use-over-70-cyp2c9-decline",
+      "title": "5 Things Everyone Over 70 Should Know About Sulfonylurea Use — Especially If You’re Taking Gliclazide and Have Age-Related Decline in CYP2C9 and Renal Function",
+      "topicCluster": "renal-health",
+      "current_keyword": "sulfonylurea use over 70 cyp2c9 decline",
+      "old_score": 50,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "overly_technical"
+      ],
+      "suggested_keyword": "health management over 70",
+      "rationale": "Missing core medical keyword; Contains overly technical terms users rarely search; May lack natural phrasing"
+    },
+    {
+      "slug": "how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone",
+      "title": "How Chronic Holiday Social Isolation Alters Ventricular Repolarization Reserve — Evidence from 24-Hour QTc Monitoring in Adults 69+ Living Alone",
+      "topicCluster": "monitoring-technology",
+      "current_keyword": "social isolation ventricular repolarization reserve",
+      "old_score": 37,
+      "new_score": 35,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario",
+        "overly_technical"
+      ],
+      "suggested_keyword": "health management holiday adults 69+",
+      "rationale": "Length acceptable but not optimal (51 chars); Missing core medical keyword; Missing audience/scenario identifier; Contains overly technical terms users rarely search; May lack natural phrasing"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-eggnog-labeled-keto-why-82-of-these-drinks-contain-maltitol-that-triggers-gastric-distress-in-adults-68-with-gastroparesis",
+      "title": "The Truth About 'Sugar-Free' Eggnog Labeled 'Keto' — Why 82% of These Drinks Contain Maltitol That Triggers Gastric Distress in Adults 68+ With Gastroparesis",
+      "topicCluster": "mental-health-stress",
+      "current_keyword": "sugar-free eggnog gastroparesis risk",
+      "old_score": 50,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management adults 68+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy",
+      "title": "5 Foods That Support Mitochondrial Membrane Integrity *During* High-Fat Holiday Meals — For Adults 65+ With Statin-Associated Myopathy",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "mitochondrial membrane support statin myopathy",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diet management holiday adults 65+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "traffic-pollution-carotid-thickness-progression",
+      "title": "How Living Near High-Traffic Urban Corridors Alters Carotid Intima-Media Thickness Progression in Adults 66+ With Controlled Hypertension and No Prior CVD",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "traffic pollution carotid thickness progression",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management adults 66+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "warm-baths-sglt2-inhibitors-safety",
+      "title": "Can You Safely Use Warm Holiday Baths *While* Taking SGLT2 Inhibitors? — Evidence-Based Water Temperature Thresholds and Hydration Protocols for Adults 63+ With Mild Orthostasis",
+      "topicCluster": "treatment-interventions",
+      "current_keyword": "warm baths sglt2 inhibitors safety",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management holiday adults 63+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "sodium-potassium-pump-resilience-natural",
+      "title": "Natural Ways to Support Cardiac Sodium-Potassium Pump Resilience *Without* Increasing Dietary Potassium — Using Targeted Magnesium-L-Threonate + Cold-Air Nasal Breathing in Adults 66+ With Diuretic-Induced Hypokalemia",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "sodium-potassium pump resilience natural",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diet management adults 66+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "nocturnal-nitric-oxide-beetroot-gel-nasal-breathing",
+      "title": "Natural Ways to Support Nighttime Nitric Oxide Synthase Activity *Without* Nitrates — Using Topical Beetroot Gel and Supine Nasal Breathing in Adults 67+ With Non-Dipping BP Pattern",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "nocturnal nitric oxide beetroot gel nasal breathing",
+      "old_score": 40,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management nighttime adults 67+",
+      "rationale": "Length acceptable but not optimal (51 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "how-grandmother-s-special-sweet-potato-casserole-alters-postprandial-triglyceride-clearance-in-adults-68-with-metabolic-syndrome",
+      "title": "How Grandmother’s ‘Special’ Sweet Potato Casserole Alters Postprandial Triglyceride Clearance in Adults 68+ With Metabolic Syndrome",
+      "topicCluster": "metabolic-syndrome-management",
+      "current_keyword": "sweet potato casserole metabolic syndrome",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management adults 68+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "beta-blocker-mulled-wine-timing",
+      "title": "Can You Safely Enjoy a Single Glass of Mulled Wine *After* Taking Your Evening Beta-Blocker? — Evidence-Based Timing Thresholds for Adults 59+ With Controlled Hypertension and Normal LVEF",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "beta-blocker mulled wine timing",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management adults 59+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "low-sodium-soup-potassium-excipients",
+      "title": "The Truth About 'Low-Sodium' Holiday Soups Sold in Senior Grocery Aisles — Why 83% Contain Unlabeled Potassium-Binding Excipients That Impair Cardiac Conduction in Adults 71+ on Spironolactone",
+      "topicCluster": "cardiovascular-health",
+      "current_keyword": "low-sodium soup potassium excipients",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management holiday adults 71+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "transdermal-magnesium-sacubitril-valsartan",
+      "title": "Can You Safely Use Transdermal Magnesium Chloride While on Sacubitril/Valsartan? — Evidence on Myocardial Fibrosis Markers, NT-proBNP Trajectories, and Diuretic Synergy in Adults 68+ With HFrEF",
+      "topicCluster": "renal-health",
+      "current_keyword": "transdermal magnesium sacubitril valsartan",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management adults 68+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "what-are-the-hidden-risks-of-gluten-free-holiday-rolls-for-adults-77-with-undiagnosed-celiac-disease-and-atrophic-gastritis",
+      "title": "What Are the Hidden Risks of 'Gluten-Free' Holiday Rolls for Adults 77+ With Undiagnosed Celiac Disease and Atrophic Gastritis?",
+      "topicCluster": "prevention-risk-assessment",
+      "current_keyword": "gluten-free rolls celiac atrophic gastritis",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management holiday adults 77+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "5-things-everyone-over-67-should-know-about-using-continuous-glucose-monitors-with-pacemakers-especially-if-you-sleep-in-a-magnetic-mattress-pad",
+      "title": "5 Things Everyone Over 67 Should Know About Using Continuous Glucose Monitors With Pacemakers — Especially If You Sleep in a Magnetic Mattress Pad",
+      "topicCluster": "glucose-diabetes-management",
+      "current_keyword": "CGM pacemaker magnetic mattress pad",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "glucose management over 67",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy",
+      "title": "The Truth About 'Heart-Healthy' Frozen Dinners Labeled for Seniors — Why 81% Exceed 2023 AHA Sodium Limits for Left Ventricular Hypertrophy",
+      "topicCluster": "cardiovascular-health",
+      "current_keyword": "frozen dinners sodium left ventricular hypertrophy",
+      "old_score": 37,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "heart management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "smartphone-use-nocturnal-af-burden",
+      "title": "How Late-Night Smartphone Use Alters Nocturnal Atrial Fibrillation Burden — Not Just Onset — in Adults 71+ With Paroxysmal AF and Mild Obstructive Sleep Apnea",
+      "topicCluster": "circadian-sleep-health",
+      "current_keyword": "smartphone use nocturnal af burden",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management adults 71+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia",
+      "title": "Natural Ways to Support Salivary Amylase Activity During Family Gatherings — Without Supplements — For Adults 72+ With Xerostomia and Early Dysphagia",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "salivary amylase support xerostomia dysphagia",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diet management adults 72+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "low-sugar-pumpkin-pie-fructose-metabolism-nafld",
+      "title": "The Truth About 'Low-Sugar' Store-Bought Pumpkin Pie Fillings — Why 91% Still Contain High-Fructose Corn Syrup Derivatives That Bypass First-Pass Metabolism in Adults 70+ With NAFLD",
+      "topicCluster": "comprehensive-health-topics",
+      "current_keyword": "low-sugar pumpkin pie fructose metabolism NAFLD",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management adults 70+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "beta-cell-resilience-spring-allergies-type-1",
+      "title": "Natural Ways to Support Beta-Cell Resilience During Spring Allergy Season — Without Antihistamines or Corticosteroids — in Adults 55–65 With Recent-Onset Type 1 Diabetes",
+      "topicCluster": "comprehensive-health-topics",
+      "current_keyword": "beta-cell resilience spring allergies type 1",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension",
+      "title": "The Truth About 'Low-Sodium' Canned Soups Labeled for Seniors — Why 63% Still Exceed ADA Daily Sodium Limits for Stage 1 Hypertension",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "low sodium canned soup sodium truth",
+      "old_score": 47,
+      "new_score": 45,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario",
+        "keyword_stuffing"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; Contains repeated words; May lack natural phrasing"
+    },
+    {
+      "slug": "simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual",
+      "title": "Simple Steps to Lower Central Aortic Pressure in Just 7 Days — Using Only a Kitchen Scale, a Stopwatch, and Your Morning Tea Ritual",
+      "topicCluster": "medication-safety",
+      "current_keyword": "lower central aortic pressure 7 days",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management morning seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "intermittent-silence-central-aortic-pressure",
+      "title": "How Intermittent Silence (Not Just Quiet) Lowers Central Aortic Systolic Pressure in Adults 64+ With White-Coat Hypertension and High Cortisol Awakening Response",
+      "topicCluster": "environmental-factors",
+      "current_keyword": "intermittent silence central aortic pressure",
+      "old_score": 37,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management adults 64+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "what-are-the-safest-ways-to-reheat-leftover-holiday-turkey-without-forming-heterocyclic-amines-for-adults-72-with-barrett-s-esophagus",
+      "title": "What Are the Safest Ways to Reheat Leftover Holiday Turkey Without Forming Heterocyclic Amines — For Adults 72+ With Barrett’s Esophagus?",
+      "topicCluster": "comprehensive-health-topics",
+      "current_keyword": "reheat turkey heterocyclic amines barrett",
+      "old_score": 37,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management holiday adults 72+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "candy-distraction-cortisol-fat-oxidation",
+      "title": "How Grandchildren’s Candy-Driven Mealtime Distraction Elevates Evening Cortisol and Impairs Overnight Fat Oxidation in Adults 66+ With Abdominal Obesity",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "candy distraction cortisol fat oxidation",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diet management adults 66+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "12-science-backed-ways-to-improve-left-ventricular-filling-pressure-without-diuretics-for-women-65-with-hfpef-and-preserved-ejection-fraction",
+      "title": "12 Science-Backed Ways to Improve Left Ventricular Filling Pressure Without Diuretics — For Women 65+ With HFpEF and Preserved Ejection Fraction",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "improve left ventricular filling pressure without diuretics",
+      "old_score": 50,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management women 65",
+      "rationale": "Length acceptable but not optimal (59 chars); Missing core medical keyword; Missing audience/scenario identifier"
+    },
+    {
+      "slug": "pheochromocytoma-suspicion-adults-57-70-normal-urinary-metanephrines",
+      "title": "When to Suspect Pheochromocytoma in Adults 57–70 With Episodic Palpitations, Normal Echo, and Normal 24-Hour Urinary Metanephrines — But Elevated Plasma Free Metanephrines",
+      "topicCluster": "symptoms-diagnosis",
+      "current_keyword": "pheochromocytoma suspicion adults 57-70 normal urinary metanephrines",
+      "old_score": 10,
+      "new_score": 35,
+      "issues": [
+        "too_long",
+        "no_core_medical_keyword",
+        "overly_technical"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Too long (68 chars, need 25-60); Missing core medical keyword; Contains overly technical terms users rarely search; May lack natural phrasing"
+    },
+    {
+      "slug": "how-grandchildren-s-candy-bowls-trigger-autonomic-dysregulation-in-adults-72-with-early-parkinson-s-and-what-to-eat-instead",
+      "title": "How Grandchildren’s Candy Bowls Trigger Autonomic Dysregulation in Adults 72+ With Early Parkinson’s — And What to Eat Instead",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "candy bowls autonomic dysregulation parkinsons",
+      "old_score": 30,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diet management adults 72+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "cholinergic-tone-family-dinner-natural",
+      "title": "Natural Ways to Support Postprandial Cholinergic Tone Without Supplements — For Adults 66–79 With Mild Cognitive Impairment and Family-Dinner Overstimulation",
+      "topicCluster": "circadian-sleep-health",
+      "current_keyword": "cholinergic tone family dinner natural",
+      "old_score": 30,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements",
+      "title": "Natural Ways to Enhance Pancreatic Beta-Cell Autophagy in Adults 57–68 With Early-Stage Type 2 Diabetes — Without Fasting or Supplements",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "beta-cell autophagy natural activation",
+      "old_score": 30,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "metformin-gut-microbiome-butyrate-constipation",
+      "title": "How Long-Term Metformin Use Alters Gut Microbiome Diversity and Butyrate Production in Adults 67–81 With Type 2 Diabetes and Constipation-Predominant IBS",
+      "topicCluster": "gastrointestinal-health",
+      "current_keyword": "metformin gut microbiome butyrate constipation",
+      "old_score": 30,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "the-truth-about-gluten-free-holiday-desserts-for-adults-67-with-non-celiac-gluten-sensitivity-and-small-intestinal-bacterial-overgrowth",
+      "title": "The Truth About 'Gluten-Free' Holiday Desserts for Adults 67+ With Non-Celiac Gluten Sensitivity and Small Intestinal Bacterial Overgrowth",
+      "topicCluster": "comprehensive-health-topics",
+      "current_keyword": "gluten-free desserts sibo non-celiac sensitivity",
+      "old_score": 30,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management holiday adults 67+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd",
+      "title": "Quick Ways to Restore Postprandial Parasympathetic Tone Within 20 Minutes — For Adults 61–75 With Type 2 Diabetes and Vagal Withdrawal Measured by RMSSD",
+      "topicCluster": "monitoring-technology",
+      "current_keyword": "restore parasympathetic tone postprandial",
+      "old_score": 25,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "quick-ways-to-normalize-baroreflex-sensitivity-within-45-minutes-of-standing-for-adults-64-79-with-hypertension-and-presyncope",
+      "title": "Quick Ways to Normalize Baroreflex Sensitivity Within 45 Minutes of Standing — For Adults 64–79 With Hypertension and Presyncope",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "baroreflex sensitivity standing presyncope",
+      "old_score": 30,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "chicken-preparation-triglyceride-clearance-hypertriglyceridemia",
+      "title": "A vs B: Slow-Cooked Herb-Roasted Chicken Breast (Skinless, No Broth) vs. Holiday-Style Chicken Pot Pie (Frozen, Pre-Portioned) — Impact on 4-Hour Postprandial Triglyceride Clearance in Adults 60–72 With Hypertriglyceridemia",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "chicken preparation triglyceride clearance hypertriglyceridemia",
+      "old_score": 57,
+      "new_score": 35,
+      "issues": [
+        "too_long",
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diet management holiday seniors",
+      "rationale": "Too long (63 chars, need 25-60); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "wine-headache-palpitations-migraine-cortical",
+      "title": "What Causes Sudden Onset of 'Wine Headache' With Palpitations in Adults 60–71 With Migraine-Associated Cortical Spreading Depression and Undiagnosed PACs?",
+      "topicCluster": "cardiovascular-health",
+      "current_keyword": "wine headache palpitations migraine cortical",
+      "old_score": 30,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "the-complete-guide-to-non-alcoholic-celebration-rituals-for-adults-72-with-hfpef-and-alcohol-induced-pulmonary-congestion",
+      "title": "The Complete Guide to Non-Alcoholic Celebration Rituals for Adults 72+ With HFpEF and Alcohol-Induced Pulmonary Congestion",
+      "topicCluster": "comprehensive-health-topics",
+      "current_keyword": "non-alcoholic celebration rituals hfpef",
+      "old_score": 30,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management adults 72+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "sugar-free-cookies-polyol-malabsorption-fatigue",
+      "title": "The Truth About ‘Sugar-Free’ Holiday Cookies Labeled for Diabetics — What the Ingredients Panel Reveals About Polyol Malabsorption and Postprandial Fatigue",
+      "topicCluster": "diabetes-management",
+      "current_keyword": "sugar-free cookies polyol malabsorption fatigue",
+      "old_score": 30,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management holiday seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls",
+      "title": "12 Science-Backed Ways to Improve Baroreflex Sensitivity Without Medication — For Adults 67–80 With Orthostatic Hypotension and Recurrent Falls",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "improve baroreflex sensitivity naturally",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "when-to-worry-about-new-onset-palpitations-during-morning-meditation-in-adults-66-79-with-known-aortic-stenosis-and-mild-lvot-obstruction",
+      "title": "When to Worry About New-Onset Palpitations During Morning Meditation in Adults 66–79 With Known Aortic Stenosis and Mild LVOT Obstruction",
+      "topicCluster": "circadian-sleep-health",
+      "current_keyword": "palpitations meditation aortic stenosis",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management morning seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy",
+      "title": "Does Daily 250 mg of Magnesium Threonate Improve Ventricular Repolarization Homogeneity in Adults 60–72 With QTc Prolongation and Polypharmacy?",
+      "topicCluster": "cardiovascular-health",
+      "current_keyword": "magnesium threonate qt prolongation",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "turkey-preparation-gout-uric-acid-comparison",
+      "title": "A vs B: Traditional Roast Turkey (Skin-On, Herb-Rubbed) vs. Slow-Braised Turkey Leg (Bone-In, Low-Sodium Broth) — Impact on Postprandial Uric Acid in Men 62–79 With Gout and Mild CKD",
+      "topicCluster": "renal-health",
+      "current_keyword": "turkey preparation gout uric acid comparison",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management men 62",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "renin-angiotensin-balance-natural-support",
+      "title": "Natural Ways to Support Renin-Angiotensin System Balance Using Zinc-Optimized Plant Proteins — For Adults 61–73 With Early-Stage CKD and Stage 1 Hypertension",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "renin angiotensin balance natural support",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "right-ventricular-fibrosis-galectin-3-warning-signs",
+      "title": "Warning Signs Your ‘Stable’ Heart Failure Is Masking Early Right Ventricular Fibrosis — Especially With Elevated Serum Galectin-3 and Reduced RV Strain Rate",
+      "topicCluster": "symptoms-diagnosis",
+      "current_keyword": "right ventricular fibrosis galectin-3 warning signs",
+      "old_score": 50,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "heart management seniors",
+      "rationale": "Length acceptable but not optimal (51 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation",
+      "title": "How Late-Night Gift Wrapping Under Blue-Light LED Lamps Disrupts Cardiac Repolarization Reserve in Adults 57–69 With Subclinical QT Prolongation",
+      "topicCluster": "cardiac-disease-management",
+      "current_keyword": "blue light gift wrapping qt prolongation",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "nasal-breathing-central-aortic-pressure",
+      "title": "Can Daily 4-Minute Nasal Breathing Sequencing (Buteyko + Box Breathing) Reduce Central Aortic Systolic Pressure in Women 58–71 With Elevated Pulse Wave Velocity?",
+      "topicCluster": "mental-health-stress",
+      "current_keyword": "nasal breathing central aortic pressure",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management women 58",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "isometric-handgrip-tai-chi-central-aortic-pressure",
+      "title": "A vs B: 4-Minute Daily Isometric Handgrip vs. 15-Minute Morning Tai Chi for Reducing Central Aortic Systolic Pressure in Adults 60–74 With Isolated Systolic Hypertension",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "isometric handgrip tai chi central aortic pressure",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management morning seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "chewing-turkey-satiety-gastroparesis",
+      "title": "A vs B: Slow-Chewed Roast Turkey vs. Ground Turkey Patties — Impact on Satiety Hormone Release and Post-Meal Fullness in Adults 55–69 With Mild Gastroparesis and Early Sarcopenia",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "chewing turkey satiety gastroparesis",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diet management post-meal seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics",
+      "title": "Warning Signs Your Holiday ‘Healthy Swap’ Is Causing Hidden Hyponatremia in Adults 76+ on Thiazide Diuretics",
+      "topicCluster": "symptoms-diagnosis",
+      "current_keyword": "healthy swap hyponatremia thiazide diuretics",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management holiday adults 76+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis",
+      "title": "The Complete Guide to Interpreting Pulse Pressure Widening in Adults 76+ With Aortic Valve Sclerosis, Not Just Aortic Stenosis",
+      "topicCluster": "comprehensive-health-topics",
+      "current_keyword": "pulse pressure widening aortic sclerosis",
+      "old_score": 47,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management adults 76+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities",
+      "title": "What Are the Earliest Signs of Cerebral Autoregulation Failure in Adults 68+ With Long-Standing Hypertension and White Matter Hyperintensities?",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "cerebral autoregulation failure signs",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management adults 68+",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "low-dose-aspirin-prostacyclin-thromboxane-vasoconstriction",
+      "title": "How Chronic Low-Dose Aspirin Use Alters Prostacyclin–Thromboxane Balance and Worsens Peripheral Vasoconstriction in Adults 68–83 With Hypertension and Claudication",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "low-dose aspirin prostacyclin thromboxane vasoconstriction",
+      "old_score": 32,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Length acceptable but not optimal (58 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "gum-inflammation-endothelial-nitric-oxide-synthase-coupling",
+      "title": "How Chronic Low-Grade Gum Inflammation Alters Endothelial Nitric Oxide Synthase Coupling in Adults 64–80 With Stage 1 Hypertension and Mild Periodontitis",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "gum inflammation endothelial nitric oxide synthase coupling",
+      "old_score": 32,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Length acceptable but not optimal (59 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "warning-signs-your-blood-pressure-is-straining-your-aorta-especially-if-you-re-a-man-over-72-with-marfanoid-features-and-unexplained-back-pain",
+      "title": "Warning Signs Your Blood Pressure Is Straining Your Aorta—Especially If You’re a Man Over 72 With Marfanoid Features and Unexplained Back Pain",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "aortic strain warning signs marfanoid features back pain",
+      "old_score": 40,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "blood management pressure over 72",
+      "rationale": "Length acceptable but not optimal (56 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts",
+      "title": "Quick Ways to Counteract 'Dinner-Lunch Gap Hypoglycemia' in Adults 72+ With Type 2 Diabetes, Gastroparesis-Like Symptoms, and Long Overnight Fasts",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "dinner-lunch gap hypoglycemia",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management adults 72+",
+      "rationale": "Length acceptable but not optimal (29 chars); Missing core medical keyword; Missing audience/scenario identifier"
+    },
+    {
+      "slug": "metformin-mitochondrial-dna-copy-number",
+      "title": "What Research Says About the Impact of Long-Term Metformin Use on Mitochondrial DNA Copy Number in Skeletal Muscle of Adults 62–78 With Type 2 Diabetes and Low VO₂ Max",
+      "topicCluster": "diabetes-management",
+      "current_keyword": "metformin mitochondrial DNA copy number",
+      "old_score": 37,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension",
+      "title": "Quick Ways to Stabilize Pulse Pressure Fluctuations During Grocery Shopping for Adults 70+ With Orthostatic Intolerance and Postprandial Hypotension",
+      "topicCluster": "autonomic-nervous-regulation",
+      "current_keyword": "pulse pressure stabilization during grocery shopping",
+      "old_score": 32,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management adults 70+",
+      "rationale": "Length acceptable but not optimal (52 chars); Missing core medical keyword; Missing audience/scenario identifier"
+    },
+    {
+      "slug": "cocoa-flavanols-endothelial-function-fatty-liver",
+      "title": "Does Adding 1 Gram of Cocoa Flavanols Daily Improve Endothelial-Dependent Vasodilation in Adults 63–79 With Metabolic Syndrome and Non-Alcoholic Fatty Liver?",
+      "topicCluster": "diabetes-management",
+      "current_keyword": "cocoa flavanols endothelial function fatty liver",
+      "old_score": 37,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia",
+      "title": "Best Breathing Patterns for Reducing Right Ventricular Afterload in Adults 67–80 With Pulmonary Hypertension and Sarcopenia",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "breathing patterns right ventricular afterload PH",
+      "old_score": 37,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd",
+      "title": "Warning Signs Your ‘Normal’ ECG May Miss Early Arrhythmogenic Cardiomyopathy in Adults 55–66 With Unexplained Syncope and Family History of SCD",
+      "topicCluster": "cardiac-disease-management",
+      "current_keyword": "ECG limitations arrhythmogenic cardiomyopathy syncope",
+      "old_score": 55,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Length acceptable but not optimal (53 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy",
+      "title": "A vs B: Traditional Green Bean Casserole vs Air-Fried Crispy Green Beans With Shallot-Garlic Oil for Adults With Early Diabetic Retinopathy",
+      "topicCluster": "diabetes-management",
+      "current_keyword": "green bean casserole vs air-fried green beans",
+      "old_score": 37,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario",
+        "keyword_stuffing"
+      ],
+      "suggested_keyword": "diabetes management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; Contains repeated words"
+    },
+    {
+      "slug": "when-to-suspect-pheochromocytoma-related-hypertension-fluctuations-in-adults-58-74-with-episodic-palpitations-and-normotensive-intervals",
+      "title": "When to Suspect Pheochromocytoma-Related Hypertension Fluctuations in Adults 58–74 With Episodic Palpitations and Normotensive Intervals",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "pheochromocytoma hypertension fluctuations episodic palpitations",
+      "old_score": 40,
+      "new_score": 45,
+      "issues": [
+        "too_long",
+        "lacks_audience_or_scenario",
+        "overly_technical"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Too long (64 chars, need 25-60); Missing audience/scenario identifier; Contains overly technical terms users rarely search; May lack natural phrasing"
+    },
+    {
+      "slug": "what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities",
+      "title": "What Are the Earliest Cognitive Red Flags Suggesting Hypertensive Microvascular Encephalopathy—Before MRI Shows White Matter Hyperintensities?",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "cognitive red flags hypertensive microvascular encephalopathy",
+      "old_score": 17,
+      "new_score": 20,
+      "issues": [
+        "too_long",
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario",
+        "overly_technical"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Too long (61 chars, need 25-60); Missing core medical keyword; Missing audience/scenario identifier; Contains overly technical terms users rarely search; May lack natural phrasing"
+    },
+    {
+      "slug": "7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75",
+      "title": "7 Unexpected Household Chemicals That May Interfere With ACE Inhibitor Efficacy in Adults Over 75",
+      "topicCluster": "medication-safety",
+      "current_keyword": "household chemicals ace inhibitor interference",
+      "old_score": 37,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management over 75",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear",
+      "title": "Warning Signs Your 'Well-Controlled' Hypertension Is Causing Subclinical Left Ventricular Hypertrophy—Before Echo Findings Appear",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "subclinical left ventricular hypertrophy signs",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning",
+      "title": "Simple Steps to Modify a Family Recipe for a Loved One With Dysphagia—Without Losing Flavor or Cultural Meaning",
+      "topicCluster": "comprehensive-health-topics",
+      "current_keyword": "modify family recipe dysphagia",
+      "old_score": 37,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Length acceptable but not optimal (30 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics",
+      "title": "5 Things Everyone Over 62 Should Know About Alcohol Pairing at Family Dinners—Especially With Beta-Blockers or Diuretics",
+      "topicCluster": "cardiovascular-health",
+      "current_keyword": "alcohol pairing family dinner beta-blockers",
+      "old_score": 37,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management over 62",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis",
+      "title": "Does Leftover Cranberry Sauce Really Lower Post-Meal Urinary pH in Men Over 70 With Recurrent UTIs?",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "cranberry sauce urinary ph uti",
+      "old_score": 37,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diet management post-meal over 70",
+      "rationale": "Length acceptable but not optimal (30 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "5-things-everyone-with-a-bicuspid-aortic-valve-should-know-before-getting-a-dental-procedure-including-antibiotic-timing-inr-targets-and-echo-timing",
+      "title": "5 Things Everyone With a Bicuspid Aortic Valve Should Know Before Getting a Dental Procedure—Including Antibiotic Timing, INR Targets, and Echo Timing",
+      "topicCluster": "prevention-risk-assessment",
+      "current_keyword": "bicuspid aortic valve dental procedure",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "charcot-arthropathy-footwear-modifications",
+      "title": "Best Footwear Modifications for Adults With Diabetes and Charcot Arthropathy—Based on Dynamic Pressure Mapping and 3D Gait Analysis in 92 Patients Over 65",
+      "topicCluster": "diabetes-management",
+      "current_keyword": "charcot arthropathy footwear modifications",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management over 65",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "why-your-grandchild-s-candy-stocking-may-trigger-reactive-hypoglycemia-especially-if-you-re-on-glp-1-ras-or-meglitinides",
+      "title": "Why Your Grandchild’s Candy Stocking May Trigger Reactive Hypoglycemia—Especially If You’re on GLP-1 RAs or Meglitinides",
+      "topicCluster": "medication-safety",
+      "current_keyword": "candy stocking reactive hypoglycemia",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking",
+      "title": "Can You Safely Share a Slice of Pumpkin Pie With Your Grandchild If You’re on Warfarin? A Vitamin K Interaction Guide for Holiday Baking",
+      "topicCluster": "comprehensive-health-topics",
+      "current_keyword": "pumpkin pie warfarin vitamin k safety",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management holiday seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension",
+      "title": "Does Your Smartwatch *Actually* Detect Hypertensive Crisis? Accuracy Benchmarks for ECG + PPG Devices in Adults With Atrial Fibrillation and Hypertension",
+      "topicCluster": "hypertension-management",
+      "current_keyword": "smartwatch accuracy hypertensive crisis",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70",
+      "title": "The Truth About ‘Sugar-Free’ Holiday Cookies Labeled ‘Keto-Friendly’—Why 72% Still Contain Maltitol That Slows Gastric Emptying in Adults Over 70",
+      "topicCluster": "natural-remedies",
+      "current_keyword": "sugar-free cookies maltitol gastroparesis",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management holiday over 70",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension",
+      "title": "Natural Ways to Improve Baroreflex Sensitivity Without Drugs—Backed by 8 RCTs in Adults 55–74 With Labile Hypertension",
+      "topicCluster": "medication-safety",
+      "current_keyword": "improve baroreflex sensitivity naturally",
+      "old_score": 55,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema",
+      "title": "Natural Ways to Support Renin-Angiotensin System Balance Without ACE Inhibitors—For Adults With Hypertension and Chronic Cough or Angioedema",
+      "topicCluster": "medication-safety",
+      "current_keyword": "renin angiotensin balance natural alternatives",
+      "old_score": 40,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "hypertension management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "why-does-portion-distortion-hit-harder-in-multi-generational-households-the-role-of-intergenerational-feeding-scripts-in-adults-55-74",
+      "title": "Why Does Portion Distortion Hit Harder in Multi-Generational Households? The Role of Intergenerational Feeding Scripts in Adults 55–74",
+      "topicCluster": "comprehensive-health-topics",
+      "current_keyword": "portion distortion intergenerational feeding scripts",
+      "old_score": 35,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Length acceptable but not optimal (52 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control",
+      "title": "7 Hidden Sources of Added Sugar at Family Dinners That Sabotage Blood Sugar Control",
+      "topicCluster": "diabetes-management",
+      "current_keyword": "hidden added sugar family dinners",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "diabetes management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party",
+      "title": "5 Things Every Caregiver Should Know Before Taking an Aging Parent to a New Year’s Eve Party",
+      "topicCluster": "monitoring-technology",
+      "current_keyword": "caregiver new year's eve party prep",
+      "old_score": 40,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now",
+      "title": "The Truth About Salt Intake in Winter: Is Your Diet Riskier Now?",
+      "topicCluster": "nutrition-diet-management",
+      "current_keyword": "salt intake in winter",
+      "old_score": 30,
+      "new_score": 45,
+      "issues": [
+        "too_short",
+        "no_core_medical_keyword"
+      ],
+      "suggested_keyword": "diet management winter seniors",
+      "rationale": "Too short (21 chars, need 25-60); Missing core medical keyword; Has scenario but missing audience; May lack natural phrasing"
+    },
+    {
+      "slug": "3-simple-breathing-techniques-to-reduce-heart-stress-in-cold-air",
+      "title": "3 Simple Breathing Techniques to Reduce Heart Stress in Cold Air",
+      "topicCluster": "environmental-factors",
+      "current_keyword": "cold air breathing techniques",
+      "old_score": 40,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "heart management seniors",
+      "rationale": "Length acceptable but not optimal (29 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "7-common-mistakes-that-make-seasonal-depression-worse-in-seniors",
+      "title": "7 Common Mistakes That Make Seasonal Depression Worse in Seniors",
+      "topicCluster": "behavioral-mental-health",
+      "current_keyword": "mistakes worsening seasonal depression",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75",
+      "title": "When to Worry About a Loved One’s Winter Mood Changes After 75",
+      "topicCluster": "behavioral-mental-health",
+      "current_keyword": "when to worry about seasonal depression",
+      "old_score": 45,
+      "new_score": 55,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management winter seniors",
+      "rationale": "Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    },
+    {
+      "slug": "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "title": "Best High-Fiber Sides for Family Dinners That Everyone Will Actually Eat",
+      "topicCluster": "gastrointestinal-health",
+      "current_keyword": "high-fiber family side dishes",
+      "old_score": 25,
+      "new_score": 50,
+      "issues": [
+        "no_core_medical_keyword",
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "health management seniors",
+      "rationale": "Length acceptable but not optimal (29 chars); Missing core medical keyword; Missing audience/scenario identifier; May lack natural phrasing"
+    }
+  ],
+  "false_positives_summary": {
+    "count": 618,
+    "note": "These keywords were originally flagged but meet quality standards upon re-evaluation"
+  }
+}

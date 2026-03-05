@@ -10,7 +10,7 @@ description: >-
   warfarin users undergoing invasive dental work.
 date: '2026-01-06'
 updated: '2026-01-06'
-primaryKeyword: bicuspid aortic valve dental procedure
+primaryKeyword: "health management seniors"
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

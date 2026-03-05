@@ -11,7 +11,7 @@ description: >-
   all designed to counteract social-cognitive overload during gatherings.
 date: '2026-01-29'
 updated: '2026-01-29'
-primaryKeyword: cholinergic tone family dinner natural
+primaryKeyword: "health management seniors"
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

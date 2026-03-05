@@ -10,7 +10,7 @@ description: >-
   orthostatic risk.
 date: '2026-03-02'
 updated: '2026-03-02'
-primaryKeyword: seated breathing hrv feedback frailty
+primaryKeyword: "hypertension management adults 79+"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

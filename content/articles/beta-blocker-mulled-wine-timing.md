@@ -11,7 +11,7 @@ description: >-
   alcohol exposure.
 date: '2026-02-13'
 updated: '2026-02-13'
-primaryKeyword: beta-blocker mulled wine timing
+primaryKeyword: "hypertension management adults 59+"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

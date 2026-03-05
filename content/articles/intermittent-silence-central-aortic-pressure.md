@@ -11,7 +11,7 @@ description: >-
   silence windows to reductions in cfPWV and pulse wave reflection.
 date: '2026-02-03'
 updated: '2026-02-03'
-primaryKeyword: intermittent silence central aortic pressure
+primaryKeyword: "hypertension management adults 64+"
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

@@ -11,7 +11,7 @@ description: >-
   clearance are compromised.
 date: '2026-02-10'
 updated: '2026-02-10'
-primaryKeyword: transdermal magnesium sacubitril valsartan
+primaryKeyword: "health management adults 68+"
 topicCluster: renal-health
 image: ''
 relatedSlugs:

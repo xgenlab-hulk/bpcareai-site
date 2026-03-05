@@ -10,7 +10,7 @@ description: >-
   data across 42 national brands marketed to adults 60+.
 date: '2026-02-04'
 updated: '2026-02-04'
-primaryKeyword: low sodium canned soup sodium truth
+primaryKeyword: "hypertension management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -10,7 +10,7 @@ description: >-
   ADH dysregulation and reduced thirst drive.
 date: '2026-01-16'
 updated: '2026-01-16'
-primaryKeyword: healthy swap hyponatremia thiazide diuretics
+primaryKeyword: "health management holiday adults 76+"
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

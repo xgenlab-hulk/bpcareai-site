@@ -11,7 +11,7 @@ description: >-
   butyrogenesis and colonic motility.
 date: '2026-01-27'
 updated: '2026-01-27'
-primaryKeyword: metformin gut microbiome butyrate constipation
+primaryKeyword: "diabetes management seniors"
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

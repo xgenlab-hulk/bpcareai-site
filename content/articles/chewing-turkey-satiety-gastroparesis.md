@@ -11,7 +11,7 @@ description: >-
   gastric ultrasound and satiety diaries.
 date: '2026-01-17'
 updated: '2026-01-17'
-primaryKeyword: chewing turkey satiety gastroparesis
+primaryKeyword: "diet management post-meal seniors"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -10,7 +10,7 @@ description: >-
   all validated in geriatric autonomic dysfunction trials.
 date: '2026-01-22'
 updated: '2026-01-22'
-primaryKeyword: improve baroreflex sensitivity naturally
+primaryKeyword: "health management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

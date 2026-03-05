@@ -10,7 +10,7 @@ description: >-
   fat content predicts responsiveness more than BMI or HbA1c.
 date: '2026-01-12'
 updated: '2026-01-12'
-primaryKeyword: cocoa flavanols endothelial function fatty liver
+primaryKeyword: "diabetes management seniors"
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

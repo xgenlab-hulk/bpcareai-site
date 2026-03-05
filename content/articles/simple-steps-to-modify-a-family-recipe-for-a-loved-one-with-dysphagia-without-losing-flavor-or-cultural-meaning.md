@@ -10,7 +10,7 @@ description: >-
   compote—co-developed with SLPs and elders.
 date: '2026-01-07'
 updated: '2026-01-07'
-primaryKeyword: modify family recipe dysphagia
+primaryKeyword: "health management seniors"
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

@@ -10,7 +10,7 @@ description: >-
   'spells'.
 date: '2026-01-09'
 updated: '2026-01-09'
-primaryKeyword: pheochromocytoma hypertension fluctuations episodic palpitations
+primaryKeyword: "hypertension management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

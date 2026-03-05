@@ -10,7 +10,7 @@ description: >-
   systolic time interval analysis.
 date: '2026-01-16'
 updated: '2026-01-16'
-primaryKeyword: pulse pressure widening aortic sclerosis
+primaryKeyword: "health management adults 76+"
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

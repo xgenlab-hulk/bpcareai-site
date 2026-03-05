@@ -11,7 +11,7 @@ description: >-
   risk.
 date: '2026-01-13'
 updated: '2026-01-13'
-primaryKeyword: dinner-lunch gap hypoglycemia
+primaryKeyword: "diabetes management adults 72+"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -10,7 +10,7 @@ description: >-
   satiety signaling—and how to gently reframe them without guilt or conflict.
 date: '2025-12-23'
 updated: '2025-12-23'
-primaryKeyword: portion distortion intergenerational feeding scripts
+primaryKeyword: "health management seniors"
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

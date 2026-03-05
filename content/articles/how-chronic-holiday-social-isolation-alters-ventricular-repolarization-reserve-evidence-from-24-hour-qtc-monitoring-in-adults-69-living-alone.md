@@ -9,7 +9,7 @@ description: >-
   and measurable electrophysiological vulnerability in aging ventricles.
 date: '2026-02-17'
 updated: '2026-02-17'
-primaryKeyword: social isolation ventricular repolarization reserve
+primaryKeyword: "health management holiday adults 69+"
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

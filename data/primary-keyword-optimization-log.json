@@ -1,0 +1,631 @@
+{
+  "timestamp": "2026-03-06",
+  "total_optimized": 89,
+  "total_failed": 0,
+  "optimized_articles": [
+    {
+      "slug": "what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities",
+      "old_keyword": "cognitive red flags hypertensive microvascular encephalopathy",
+      "new_keyword": "health management seniors",
+      "old_score": 20,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone",
+      "old_keyword": "social isolation ventricular repolarization reserve",
+      "new_keyword": "health management holiday adults 69+",
+      "old_score": 35,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "pheochromocytoma-suspicion-adults-57-70-normal-urinary-metanephrines",
+      "old_keyword": "pheochromocytoma suspicion adults 57-70 normal urinary metanephrines",
+      "new_keyword": "health management seniors",
+      "old_score": 35,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "chicken-preparation-triglyceride-clearance-hypertriglyceridemia",
+      "old_keyword": "chicken preparation triglyceride clearance hypertriglyceridemia",
+      "new_keyword": "diet management holiday seniors",
+      "old_score": 35,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61",
+      "old_keyword": "tachycardia-induced cardiomyopathy warning signs",
+      "new_keyword": "health management adults 61+",
+      "old_score": 40,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "connexin-43-phosphorylation-natural-modulation",
+      "old_keyword": "connexin-43 phosphorylation natural modulation",
+      "new_keyword": "health management adults 63+",
+      "old_score": 40,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "carotid-baroreceptor-sensitivity-cooling",
+      "old_keyword": "carotid baroreceptor sensitivity cooling",
+      "new_keyword": "health management seniors",
+      "old_score": 40,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension",
+      "old_keyword": "low sodium canned soup sodium truth",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 45,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "when-to-suspect-pheochromocytoma-related-hypertension-fluctuations-in-adults-58-74-with-episodic-palpitations-and-normotensive-intervals",
+      "old_keyword": "pheochromocytoma hypertension fluctuations episodic palpitations",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 45,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now",
+      "old_keyword": "salt intake in winter",
+      "new_keyword": "diet management winter seniors",
+      "old_score": 45,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "nocturnal-nitric-oxide-beetroot-gel-nasal-breathing",
+      "old_keyword": "nocturnal nitric oxide beetroot gel nasal breathing",
+      "new_keyword": "health management nighttime adults 67+",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "right-ventricular-fibrosis-galectin-3-warning-signs",
+      "old_keyword": "right ventricular fibrosis galectin-3 warning signs",
+      "new_keyword": "heart management seniors",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "low-dose-aspirin-prostacyclin-thromboxane-vasoconstriction",
+      "old_keyword": "low-dose aspirin prostacyclin thromboxane vasoconstriction",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "gum-inflammation-endothelial-nitric-oxide-synthase-coupling",
+      "old_keyword": "gum inflammation endothelial nitric oxide synthase coupling",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "warning-signs-your-blood-pressure-is-straining-your-aorta-especially-if-you-re-a-man-over-72-with-marfanoid-features-and-unexplained-back-pain",
+      "old_keyword": "aortic strain warning signs marfanoid features back pain",
+      "new_keyword": "blood management pressure over 72",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd",
+      "old_keyword": "ECG limitations arrhythmogenic cardiomyopathy syncope",
+      "new_keyword": "health management seniors",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy",
+      "old_keyword": "green bean casserole vs air-fried green beans",
+      "new_keyword": "diabetes management seniors",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning",
+      "old_keyword": "modify family recipe dysphagia",
+      "new_keyword": "health management seniors",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis",
+      "old_keyword": "cranberry sauce urinary ph uti",
+      "new_keyword": "diet management post-meal over 70",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "why-does-portion-distortion-hit-harder-in-multi-generational-households-the-role-of-intergenerational-feeding-scripts-in-adults-55-74",
+      "old_keyword": "portion distortion intergenerational feeding scripts",
+      "new_keyword": "health management seniors",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "3-simple-breathing-techniques-to-reduce-heart-stress-in-cold-air",
+      "old_keyword": "cold air breathing techniques",
+      "new_keyword": "heart management seniors",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "old_keyword": "high-fiber family side dishes",
+      "new_keyword": "health management seniors",
+      "old_score": 50,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline",
+      "old_keyword": "beta-cell protection natural methods",
+      "new_keyword": "health management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension",
+      "old_keyword": "seated breathing hrv feedback frailty",
+      "new_keyword": "hypertension management adults 79+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "low-dose-lithium-beta-cell-function",
+      "old_keyword": "low-dose lithium beta-cell function",
+      "new_keyword": "diabetes management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "sulfonylurea-use-over-70-cyp2c9-decline",
+      "old_keyword": "sulfonylurea use over 70 cyp2c9 decline",
+      "new_keyword": "health management over 70",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-eggnog-labeled-keto-why-82-of-these-drinks-contain-maltitol-that-triggers-gastric-distress-in-adults-68-with-gastroparesis",
+      "old_keyword": "sugar-free eggnog gastroparesis risk",
+      "new_keyword": "health management adults 68+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy",
+      "old_keyword": "mitochondrial membrane support statin myopathy",
+      "new_keyword": "diet management holiday adults 65+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "traffic-pollution-carotid-thickness-progression",
+      "old_keyword": "traffic pollution carotid thickness progression",
+      "new_keyword": "hypertension management adults 66+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "warm-baths-sglt2-inhibitors-safety",
+      "old_keyword": "warm baths sglt2 inhibitors safety",
+      "new_keyword": "health management holiday adults 63+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "sodium-potassium-pump-resilience-natural",
+      "old_keyword": "sodium-potassium pump resilience natural",
+      "new_keyword": "diet management adults 66+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "how-grandmother-s-special-sweet-potato-casserole-alters-postprandial-triglyceride-clearance-in-adults-68-with-metabolic-syndrome",
+      "old_keyword": "sweet potato casserole metabolic syndrome",
+      "new_keyword": "health management adults 68+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "beta-blocker-mulled-wine-timing",
+      "old_keyword": "beta-blocker mulled wine timing",
+      "new_keyword": "hypertension management adults 59+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "low-sodium-soup-potassium-excipients",
+      "old_keyword": "low-sodium soup potassium excipients",
+      "new_keyword": "health management holiday adults 71+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "transdermal-magnesium-sacubitril-valsartan",
+      "old_keyword": "transdermal magnesium sacubitril valsartan",
+      "new_keyword": "health management adults 68+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "what-are-the-hidden-risks-of-gluten-free-holiday-rolls-for-adults-77-with-undiagnosed-celiac-disease-and-atrophic-gastritis",
+      "old_keyword": "gluten-free rolls celiac atrophic gastritis",
+      "new_keyword": "health management holiday adults 77+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "5-things-everyone-over-67-should-know-about-using-continuous-glucose-monitors-with-pacemakers-especially-if-you-sleep-in-a-magnetic-mattress-pad",
+      "old_keyword": "CGM pacemaker magnetic mattress pad",
+      "new_keyword": "glucose management over 67",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy",
+      "old_keyword": "frozen dinners sodium left ventricular hypertrophy",
+      "new_keyword": "heart management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "smartphone-use-nocturnal-af-burden",
+      "old_keyword": "smartphone use nocturnal af burden",
+      "new_keyword": "health management adults 71+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia",
+      "old_keyword": "salivary amylase support xerostomia dysphagia",
+      "new_keyword": "diet management adults 72+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "low-sugar-pumpkin-pie-fructose-metabolism-nafld",
+      "old_keyword": "low-sugar pumpkin pie fructose metabolism NAFLD",
+      "new_keyword": "health management adults 70+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "beta-cell-resilience-spring-allergies-type-1",
+      "old_keyword": "beta-cell resilience spring allergies type 1",
+      "new_keyword": "diabetes management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual",
+      "old_keyword": "lower central aortic pressure 7 days",
+      "new_keyword": "health management morning seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "intermittent-silence-central-aortic-pressure",
+      "old_keyword": "intermittent silence central aortic pressure",
+      "new_keyword": "hypertension management adults 64+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "what-are-the-safest-ways-to-reheat-leftover-holiday-turkey-without-forming-heterocyclic-amines-for-adults-72-with-barrett-s-esophagus",
+      "old_keyword": "reheat turkey heterocyclic amines barrett",
+      "new_keyword": "health management holiday adults 72+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "candy-distraction-cortisol-fat-oxidation",
+      "old_keyword": "candy distraction cortisol fat oxidation",
+      "new_keyword": "diet management adults 66+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "12-science-backed-ways-to-improve-left-ventricular-filling-pressure-without-diuretics-for-women-65-with-hfpef-and-preserved-ejection-fraction",
+      "old_keyword": "improve left ventricular filling pressure without diuretics",
+      "new_keyword": "health management women 65",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "how-grandchildren-s-candy-bowls-trigger-autonomic-dysregulation-in-adults-72-with-early-parkinson-s-and-what-to-eat-instead",
+      "old_keyword": "candy bowls autonomic dysregulation parkinsons",
+      "new_keyword": "diet management adults 72+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "cholinergic-tone-family-dinner-natural",
+      "old_keyword": "cholinergic tone family dinner natural",
+      "new_keyword": "health management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements",
+      "old_keyword": "beta-cell autophagy natural activation",
+      "new_keyword": "diabetes management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "metformin-gut-microbiome-butyrate-constipation",
+      "old_keyword": "metformin gut microbiome butyrate constipation",
+      "new_keyword": "diabetes management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "the-truth-about-gluten-free-holiday-desserts-for-adults-67-with-non-celiac-gluten-sensitivity-and-small-intestinal-bacterial-overgrowth",
+      "old_keyword": "gluten-free desserts sibo non-celiac sensitivity",
+      "new_keyword": "health management holiday adults 67+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd",
+      "old_keyword": "restore parasympathetic tone postprandial",
+      "new_keyword": "diabetes management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "quick-ways-to-normalize-baroreflex-sensitivity-within-45-minutes-of-standing-for-adults-64-79-with-hypertension-and-presyncope",
+      "old_keyword": "baroreflex sensitivity standing presyncope",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "wine-headache-palpitations-migraine-cortical",
+      "old_keyword": "wine headache palpitations migraine cortical",
+      "new_keyword": "health management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "the-complete-guide-to-non-alcoholic-celebration-rituals-for-adults-72-with-hfpef-and-alcohol-induced-pulmonary-congestion",
+      "old_keyword": "non-alcoholic celebration rituals hfpef",
+      "new_keyword": "health management adults 72+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "sugar-free-cookies-polyol-malabsorption-fatigue",
+      "old_keyword": "sugar-free cookies polyol malabsorption fatigue",
+      "new_keyword": "diabetes management holiday seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls",
+      "old_keyword": "improve baroreflex sensitivity naturally",
+      "new_keyword": "health management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "when-to-worry-about-new-onset-palpitations-during-morning-meditation-in-adults-66-79-with-known-aortic-stenosis-and-mild-lvot-obstruction",
+      "old_keyword": "palpitations meditation aortic stenosis",
+      "new_keyword": "health management morning seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy",
+      "old_keyword": "magnesium threonate qt prolongation",
+      "new_keyword": "health management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "turkey-preparation-gout-uric-acid-comparison",
+      "old_keyword": "turkey preparation gout uric acid comparison",
+      "new_keyword": "health management men 62",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "renin-angiotensin-balance-natural-support",
+      "old_keyword": "renin angiotensin balance natural support",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation",
+      "old_keyword": "blue light gift wrapping qt prolongation",
+      "new_keyword": "health management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "nasal-breathing-central-aortic-pressure",
+      "old_keyword": "nasal breathing central aortic pressure",
+      "new_keyword": "health management women 58",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "isometric-handgrip-tai-chi-central-aortic-pressure",
+      "old_keyword": "isometric handgrip tai chi central aortic pressure",
+      "new_keyword": "hypertension management morning seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "chewing-turkey-satiety-gastroparesis",
+      "old_keyword": "chewing turkey satiety gastroparesis",
+      "new_keyword": "diet management post-meal seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics",
+      "old_keyword": "healthy swap hyponatremia thiazide diuretics",
+      "new_keyword": "health management holiday adults 76+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis",
+      "old_keyword": "pulse pressure widening aortic sclerosis",
+      "new_keyword": "health management adults 76+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities",
+      "old_keyword": "cerebral autoregulation failure signs",
+      "new_keyword": "hypertension management adults 68+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts",
+      "old_keyword": "dinner-lunch gap hypoglycemia",
+      "new_keyword": "diabetes management adults 72+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "metformin-mitochondrial-dna-copy-number",
+      "old_keyword": "metformin mitochondrial DNA copy number",
+      "new_keyword": "diabetes management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension",
+      "old_keyword": "pulse pressure stabilization during grocery shopping",
+      "new_keyword": "health management adults 70+",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "cocoa-flavanols-endothelial-function-fatty-liver",
+      "old_keyword": "cocoa flavanols endothelial function fatty liver",
+      "new_keyword": "diabetes management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia",
+      "old_keyword": "breathing patterns right ventricular afterload PH",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75",
+      "old_keyword": "household chemicals ace inhibitor interference",
+      "new_keyword": "health management over 75",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear",
+      "old_keyword": "subclinical left ventricular hypertrophy signs",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics",
+      "old_keyword": "alcohol pairing family dinner beta-blockers",
+      "new_keyword": "health management over 62",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "5-things-everyone-with-a-bicuspid-aortic-valve-should-know-before-getting-a-dental-procedure-including-antibiotic-timing-inr-targets-and-echo-timing",
+      "old_keyword": "bicuspid aortic valve dental procedure",
+      "new_keyword": "health management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "charcot-arthropathy-footwear-modifications",
+      "old_keyword": "charcot arthropathy footwear modifications",
+      "new_keyword": "diabetes management over 65",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "why-your-grandchild-s-candy-stocking-may-trigger-reactive-hypoglycemia-especially-if-you-re-on-glp-1-ras-or-meglitinides",
+      "old_keyword": "candy stocking reactive hypoglycemia",
+      "new_keyword": "health management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking",
+      "old_keyword": "pumpkin pie warfarin vitamin k safety",
+      "new_keyword": "health management holiday seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension",
+      "old_keyword": "smartwatch accuracy hypertensive crisis",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70",
+      "old_keyword": "sugar-free cookies maltitol gastroparesis",
+      "new_keyword": "health management holiday over 70",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension",
+      "old_keyword": "improve baroreflex sensitivity naturally",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema",
+      "old_keyword": "renin angiotensin balance natural alternatives",
+      "new_keyword": "hypertension management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control",
+      "old_keyword": "hidden added sugar family dinners",
+      "new_keyword": "diabetes management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party",
+      "old_keyword": "caregiver new year's eve party prep",
+      "new_keyword": "health management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "7-common-mistakes-that-make-seasonal-depression-worse-in-seniors",
+      "old_keyword": "mistakes worsening seasonal depression",
+      "new_keyword": "health management seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    },
+    {
+      "slug": "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75",
+      "old_keyword": "when to worry about seasonal depression",
+      "new_keyword": "health management winter seniors",
+      "old_score": 55,
+      "new_score_expected": "Will be re-evaluated after regenerating index"
+    }
+  ],
+  "failed_articles": []
+}

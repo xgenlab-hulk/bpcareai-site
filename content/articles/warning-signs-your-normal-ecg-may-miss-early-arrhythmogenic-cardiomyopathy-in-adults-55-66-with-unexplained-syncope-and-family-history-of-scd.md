@@ -10,7 +10,7 @@ description: >-
   despite normal echo.
 date: '2026-01-11'
 updated: '2026-01-11'
-primaryKeyword: ECG limitations arrhythmogenic cardiomyopathy syncope
+primaryKeyword: "health management seniors"
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

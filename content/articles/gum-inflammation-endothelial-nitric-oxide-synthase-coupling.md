@@ -12,7 +12,7 @@ description: >-
   improve vascular reactivity.
 date: '2026-01-14'
 updated: '2026-01-14'
-primaryKeyword: gum inflammation endothelial nitric oxide synthase coupling
+primaryKeyword: "hypertension management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

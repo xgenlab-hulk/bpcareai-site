@@ -11,7 +11,7 @@ description: >-
   post-consumption.
 date: '2026-01-10'
 updated: '2026-01-10'
-primaryKeyword: green bean casserole vs air-fried green beans
+primaryKeyword: "diabetes management seniors"
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

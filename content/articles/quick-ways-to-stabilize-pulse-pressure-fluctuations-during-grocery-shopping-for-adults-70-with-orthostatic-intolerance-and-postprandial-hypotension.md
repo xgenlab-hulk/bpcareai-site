@@ -10,7 +10,7 @@ description: >-
   tied to arterial stiffness and autonomic lag.
 date: '2026-01-12'
 updated: '2026-01-12'
-primaryKeyword: pulse pressure stabilization during grocery shopping
+primaryKeyword: "health management adults 70+"
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

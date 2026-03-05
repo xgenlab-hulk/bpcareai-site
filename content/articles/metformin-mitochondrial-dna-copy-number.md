@@ -11,7 +11,7 @@ description: >-
   co-supplementation restores bioenergetic capacity.
 date: '2026-01-13'
 updated: '2026-01-13'
-primaryKeyword: metformin mitochondrial DNA copy number
+primaryKeyword: "diabetes management seniors"
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

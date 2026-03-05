@@ -12,7 +12,7 @@ description: >-
   disease.
 date: '2026-02-05'
 updated: '2026-02-05'
-primaryKeyword: low-sugar pumpkin pie fructose metabolism NAFLD
+primaryKeyword: "health management adults 70+"
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

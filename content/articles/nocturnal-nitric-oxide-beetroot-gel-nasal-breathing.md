@@ -11,7 +11,7 @@ description: >-
   nitrates.
 date: '2026-02-13'
 updated: '2026-02-13'
-primaryKeyword: nocturnal nitric oxide beetroot gel nasal breathing
+primaryKeyword: "health management nighttime adults 67+"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

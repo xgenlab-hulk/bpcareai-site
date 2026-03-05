@@ -10,7 +10,7 @@ description: >-
   tone and reduce orthostatic surge.
 date: '2026-01-25'
 updated: '2026-01-25'
-primaryKeyword: baroreflex sensitivity standing presyncope
+primaryKeyword: "hypertension management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

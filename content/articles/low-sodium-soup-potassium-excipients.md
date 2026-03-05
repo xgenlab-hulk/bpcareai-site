@@ -11,7 +11,7 @@ description: >-
   interaction with common diuretic therapy.
 date: '2026-02-12'
 updated: '2026-02-12'
-primaryKeyword: low-sodium soup potassium excipients
+primaryKeyword: "health management holiday adults 71+"
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

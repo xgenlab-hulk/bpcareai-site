@@ -11,7 +11,7 @@ description: >-
   thresholds.
 date: '2025-12-30'
 updated: '2025-12-30'
-primaryKeyword: smartwatch accuracy hypertensive crisis
+primaryKeyword: "hypertension management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

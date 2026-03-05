@@ -10,7 +10,7 @@ description: >-
   oxidative stress during festive feasting.
 date: '2026-02-16'
 updated: '2026-02-16'
-primaryKeyword: mitochondrial membrane support statin myopathy
+primaryKeyword: "diet management holiday adults 65+"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

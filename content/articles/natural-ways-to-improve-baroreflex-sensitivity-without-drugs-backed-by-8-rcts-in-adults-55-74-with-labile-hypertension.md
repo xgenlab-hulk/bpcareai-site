@@ -10,7 +10,7 @@ description: >-
   exercises—not herbal supplements.
 date: '2025-12-26'
 updated: '2025-12-26'
-primaryKeyword: improve baroreflex sensitivity naturally
+primaryKeyword: "hypertension management seniors"
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

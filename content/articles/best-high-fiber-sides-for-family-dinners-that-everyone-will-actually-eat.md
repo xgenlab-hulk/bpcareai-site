@@ -6,7 +6,7 @@ description: >-
   metabolic health without sacrificing taste or tradition.
 date: '2025-11-29'
 updated: '2025-11-29'
-primaryKeyword: high-fiber family side dishes
+primaryKeyword: "health management seniors"
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

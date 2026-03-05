@@ -11,7 +11,7 @@ description: >-
   toxicity—highlighting optimal dosing and monitoring parameters.
 date: '2026-02-25'
 updated: '2026-02-25'
-primaryKeyword: low-dose lithium beta-cell function
+primaryKeyword: "diabetes management seniors"
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

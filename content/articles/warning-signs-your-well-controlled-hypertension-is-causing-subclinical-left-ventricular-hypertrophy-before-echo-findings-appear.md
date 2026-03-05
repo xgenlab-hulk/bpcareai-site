@@ -10,7 +10,7 @@ description: >-
   progression.
 date: '2026-01-07'
 updated: '2026-01-07'
-primaryKeyword: subclinical left ventricular hypertrophy signs
+primaryKeyword: "hypertension management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

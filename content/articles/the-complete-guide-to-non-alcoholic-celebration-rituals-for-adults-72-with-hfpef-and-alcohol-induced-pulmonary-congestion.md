@@ -11,7 +11,7 @@ description: >-
   edema or dyspnea.
 date: '2026-01-23'
 updated: '2026-01-23'
-primaryKeyword: non-alcoholic celebration rituals hfpef
+primaryKeyword: "health management adults 72+"
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

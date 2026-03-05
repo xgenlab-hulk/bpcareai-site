@@ -11,7 +11,7 @@ description: >-
   cofactor optimization and vagal cooling.
 date: '2026-02-13'
 updated: '2026-02-13'
-primaryKeyword: sodium-potassium pump resilience natural
+primaryKeyword: "diet management adults 66+"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

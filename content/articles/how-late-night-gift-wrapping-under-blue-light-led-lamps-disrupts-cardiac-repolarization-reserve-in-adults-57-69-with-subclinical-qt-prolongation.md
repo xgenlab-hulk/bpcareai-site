@@ -11,7 +11,7 @@ description: >-
   evidence.
 date: '2026-01-18'
 updated: '2026-01-18'
-primaryKeyword: blue light gift wrapping qt prolongation
+primaryKeyword: "health management seniors"
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

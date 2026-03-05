@@ -10,7 +10,7 @@ description: >-
   compliance in real-world echocardiographic studies.
 date: '2026-01-31'
 updated: '2026-01-31'
-primaryKeyword: improve left ventricular filling pressure without diuretics
+primaryKeyword: "health management women 65"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

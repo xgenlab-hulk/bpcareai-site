@@ -11,7 +11,7 @@ description: >-
   in midlife hypertensive women.
 date: '2026-01-17'
 updated: '2026-01-17'
-primaryKeyword: nasal breathing central aortic pressure
+primaryKeyword: "health management women 58"
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

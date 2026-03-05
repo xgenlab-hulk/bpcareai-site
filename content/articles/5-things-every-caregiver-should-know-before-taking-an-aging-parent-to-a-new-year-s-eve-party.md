@@ -11,7 +11,7 @@ description: >-
   seniors.
 date: '2025-12-19'
 updated: '2025-12-19'
-primaryKeyword: caregiver new year's eve party prep
+primaryKeyword: "health management seniors"
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

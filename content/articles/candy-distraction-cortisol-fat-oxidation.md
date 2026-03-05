@@ -11,7 +11,7 @@ description: >-
   metabolic studies.
 date: '2026-02-02'
 updated: '2026-02-02'
-primaryKeyword: candy distraction cortisol fat oxidation
+primaryKeyword: "diet management adults 66+"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

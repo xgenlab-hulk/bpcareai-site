@@ -10,7 +10,7 @@ description: >-
   and vagal tone–enhancing practices shown to suppress plasma renin activity.
 date: '2025-12-24'
 updated: '2025-12-24'
-primaryKeyword: renin angiotensin balance natural alternatives
+primaryKeyword: "hypertension management seniors"
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

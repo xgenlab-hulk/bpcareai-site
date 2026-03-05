@@ -11,7 +11,7 @@ description: >-
   aneurysm rupture.
 date: '2026-01-13'
 updated: '2026-01-13'
-primaryKeyword: aortic strain warning signs marfanoid features back pain
+primaryKeyword: "blood management pressure over 72"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

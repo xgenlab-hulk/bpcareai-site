@@ -11,7 +11,7 @@ description: >-
   on 2-hour serum uric acid spikes and 24-hour renal excretion patterns.
 date: '2026-01-20'
 updated: '2026-01-20'
-primaryKeyword: turkey preparation gout uric acid comparison
+primaryKeyword: "health management men 62"
 topicCluster: renal-health
 image: ''
 relatedSlugs:

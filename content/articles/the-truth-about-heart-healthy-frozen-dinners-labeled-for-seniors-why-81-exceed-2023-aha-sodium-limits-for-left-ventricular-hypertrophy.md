@@ -10,7 +10,7 @@ description: >-
   adults.
 date: '2026-02-06'
 updated: '2026-02-06'
-primaryKeyword: frozen dinners sodium left ventricular hypertrophy
+primaryKeyword: "heart management seniors"
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

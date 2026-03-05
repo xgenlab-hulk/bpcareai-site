@@ -10,7 +10,7 @@ description: >-
   mindfulness adaptations and when to pursue ambulatory loop recording.
 date: '2026-01-21'
 updated: '2026-01-21'
-primaryKeyword: palpitations meditation aortic stenosis
+primaryKeyword: "health management morning seniors"
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

@@ -11,7 +11,7 @@ description: >-
   data.
 date: '2026-02-06'
 updated: '2026-02-06'
-primaryKeyword: smartphone use nocturnal af burden
+primaryKeyword: "health management adults 71+"
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

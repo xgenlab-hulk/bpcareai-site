@@ -10,7 +10,7 @@ description: >-
   taking cardiovascular medications.
 date: '2026-01-07'
 updated: '2026-01-07'
-primaryKeyword: alcohol pairing family dinner beta-blockers
+primaryKeyword: "health management over 62"
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

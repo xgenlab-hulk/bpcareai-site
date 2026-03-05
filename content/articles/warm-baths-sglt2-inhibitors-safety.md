@@ -11,7 +11,7 @@ description: >-
   duration, core temperature limits, and real-time hydration biomarkers.
 date: '2026-02-13'
 updated: '2026-02-13'
-primaryKeyword: warm baths sglt2 inhibitors safety
+primaryKeyword: "health management holiday adults 63+"
 topicCluster: treatment-interventions
 image: ''
 relatedSlugs:

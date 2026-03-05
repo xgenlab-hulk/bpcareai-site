@@ -6,7 +6,7 @@ description: >-
   heart strain when breathing frigid winter air.
 date: '2025-12-14'
 updated: '2025-12-14'
-primaryKeyword: cold air breathing techniques
+primaryKeyword: "heart management seniors"
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

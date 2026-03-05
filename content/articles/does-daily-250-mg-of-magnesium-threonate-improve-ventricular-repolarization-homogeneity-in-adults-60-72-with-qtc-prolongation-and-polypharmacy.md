@@ -10,7 +10,7 @@ description: >-
   interactions with common QT-prolonging drugs like citalopram or amiodarone.
 date: '2026-01-21'
 updated: '2026-01-21'
-primaryKeyword: magnesium threonate qt prolongation
+primaryKeyword: "health management seniors"
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -10,7 +10,7 @@ description: >-
   secondary glucose dysregulation in adults 60+.
 date: '2026-01-23'
 updated: '2026-01-23'
-primaryKeyword: sugar-free cookies polyol malabsorption fatigue
+primaryKeyword: "diabetes management holiday seniors"
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -11,7 +11,7 @@ description: >-
   inflammation without suppressing immune surveillance.
 date: '2026-02-05'
 updated: '2026-02-05'
-primaryKeyword: beta-cell resilience spring allergies type 1
+primaryKeyword: "diabetes management seniors"
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

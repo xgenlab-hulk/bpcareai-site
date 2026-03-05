@@ -11,7 +11,7 @@ description: >-
   in clinical trials.
 date: '2026-02-13'
 updated: '2026-02-13'
-primaryKeyword: sweet potato casserole metabolic syndrome
+primaryKeyword: "health management adults 68+"
 topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:

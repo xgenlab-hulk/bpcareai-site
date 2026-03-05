@@ -10,7 +10,7 @@ description: >-
   settings.
 date: '2026-01-12'
 updated: '2026-01-12'
-primaryKeyword: breathing patterns right ventricular afterload PH
+primaryKeyword: "hypertension management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

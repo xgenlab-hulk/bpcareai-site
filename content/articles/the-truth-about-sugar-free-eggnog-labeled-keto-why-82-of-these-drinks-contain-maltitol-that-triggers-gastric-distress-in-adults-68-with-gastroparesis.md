@@ -11,7 +11,7 @@ description: >-
   by gastroenterology guidelines.
 date: '2026-02-16'
 updated: '2026-02-16'
-primaryKeyword: sugar-free eggnog gastroparesis risk
+primaryKeyword: "health management adults 68+"
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

@@ -10,7 +10,7 @@ description: >-
   validated by dynamic autoregulation testing.
 date: '2026-01-15'
 updated: '2026-01-15'
-primaryKeyword: cerebral autoregulation failure signs
+primaryKeyword: "hypertension management adults 68+"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -11,7 +11,7 @@ description: >-
   and safer alternatives like glimepiride dose tapering with weekly CGM review.
 date: '2026-02-22'
 updated: '2026-02-22'
-primaryKeyword: sulfonylurea use over 70 cyp2c9 decline
+primaryKeyword: "health management over 70"
 topicCluster: renal-health
 image: ''
 relatedSlugs:

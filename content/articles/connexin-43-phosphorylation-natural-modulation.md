@@ -11,7 +11,7 @@ description: >-
   antiarrhythmic drugs.
 date: '2026-02-24'
 updated: '2026-02-24'
-primaryKeyword: connexin-43 phosphorylation natural modulation
+primaryKeyword: "health management adults 63+"
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

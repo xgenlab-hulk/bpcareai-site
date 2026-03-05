@@ -11,7 +11,7 @@ description: >-
   potassium overload.
 date: '2026-01-19'
 updated: '2026-01-19'
-primaryKeyword: renin angiotensin balance natural support
+primaryKeyword: "hypertension management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

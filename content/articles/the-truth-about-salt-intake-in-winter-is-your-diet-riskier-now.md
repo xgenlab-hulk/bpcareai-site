@@ -6,7 +6,7 @@ description: >-
   real-world advice for seniors managing hypertension.
 date: '2025-12-15'
 updated: '2025-12-15'
-primaryKeyword: salt intake in winter
+primaryKeyword: "diet management winter seniors"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

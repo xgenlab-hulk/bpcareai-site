@@ -10,7 +10,7 @@ description: >-
   protocols for older adults with implanted devices.
 date: '2026-02-07'
 updated: '2026-02-07'
-primaryKeyword: CGM pacemaker magnetic mattress pad
+primaryKeyword: "glucose management over 67"
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

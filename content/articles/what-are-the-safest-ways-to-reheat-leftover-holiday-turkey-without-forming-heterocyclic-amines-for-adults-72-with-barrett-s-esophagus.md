@@ -10,7 +10,7 @@ description: >-
   pairing strategies.
 date: '2026-02-02'
 updated: '2026-02-02'
-primaryKeyword: reheat turkey heterocyclic amines barrett
+primaryKeyword: "health management holiday adults 72+"
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

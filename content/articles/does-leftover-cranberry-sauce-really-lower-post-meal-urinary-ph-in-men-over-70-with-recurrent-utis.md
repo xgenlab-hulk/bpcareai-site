@@ -10,7 +10,7 @@ description: >-
   aging male urinary tracts.
 date: '2026-01-06'
 updated: '2026-01-06'
-primaryKeyword: cranberry sauce urinary ph uti
+primaryKeyword: "diet management post-meal over 70"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

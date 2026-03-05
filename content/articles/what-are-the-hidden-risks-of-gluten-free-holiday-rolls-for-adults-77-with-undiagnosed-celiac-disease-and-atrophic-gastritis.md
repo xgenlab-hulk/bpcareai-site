@@ -10,7 +10,7 @@ description: >-
   flours.
 date: '2026-02-08'
 updated: '2026-02-08'
-primaryKeyword: gluten-free rolls celiac atrophic gastritis
+primaryKeyword: "health management holiday adults 77+"
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

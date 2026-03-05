@@ -10,7 +10,7 @@ description: >-
   small-vessel disease in treated hypertension.
 date: '2026-01-08'
 updated: '2026-01-08'
-primaryKeyword: cognitive red flags hypertensive microvascular encephalopathy
+primaryKeyword: "health management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

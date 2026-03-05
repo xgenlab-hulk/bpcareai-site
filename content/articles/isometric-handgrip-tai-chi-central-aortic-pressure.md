@@ -11,7 +11,7 @@ description: >-
   stiffness biomarkers.
 date: '2026-01-17'
 updated: '2026-01-17'
-primaryKeyword: isometric handgrip tai chi central aortic pressure
+primaryKeyword: "hypertension management morning seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -11,7 +11,7 @@ description: >-
   polyphenol-magnesium synergy.
 date: '2026-01-29'
 updated: '2026-01-29'
-primaryKeyword: candy bowls autonomic dysregulation parkinsons
+primaryKeyword: "diet management adults 72+"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

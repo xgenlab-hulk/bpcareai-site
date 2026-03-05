@@ -10,7 +10,7 @@ description: >-
   flour and chicory root–sweetened treats.
 date: '2026-01-26'
 updated: '2026-01-26'
-primaryKeyword: gluten-free desserts sibo non-celiac sensitivity
+primaryKeyword: "health management holiday adults 67+"
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

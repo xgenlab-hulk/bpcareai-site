@@ -10,7 +10,7 @@ description: >-
   activate lysosomal clearance pathways.
 date: '2026-01-28'
 updated: '2026-01-28'
-primaryKeyword: beta-cell autophagy natural activation
+primaryKeyword: "diabetes management seniors"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -10,7 +10,7 @@ description: >-
   ranked by tolerance evidence.
 date: '2025-12-28'
 updated: '2025-12-28'
-primaryKeyword: sugar-free cookies maltitol gastroparesis
+primaryKeyword: "health management holiday over 70"
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

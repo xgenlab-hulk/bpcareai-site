@@ -6,7 +6,7 @@ description: >-
   discontinuing treatment too early.
 date: '2025-12-05'
 updated: '2025-12-05'
-primaryKeyword: mistakes worsening seasonal depression
+primaryKeyword: "health management seniors"
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

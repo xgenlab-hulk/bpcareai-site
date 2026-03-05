@@ -11,7 +11,7 @@ description: >-
   home implementation and contraindication screening.
 date: '2026-02-23'
 updated: '2026-02-23'
-primaryKeyword: carotid baroreceptor sensitivity cooling
+primaryKeyword: "health management seniors"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

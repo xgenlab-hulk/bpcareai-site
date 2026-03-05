@@ -11,7 +11,7 @@ description: >-
   validation.
 date: '2026-02-04'
 updated: '2026-02-04'
-primaryKeyword: lower central aortic pressure 7 days
+primaryKeyword: "health management morning seniors"
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
