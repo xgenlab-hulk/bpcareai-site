@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Worry About 'Just a Little Extra Heart Racing' After Eggnog — A Red
-  Flag Timeline for Adults 53–67 With Undiagnosed Sleep Apnea
+title: Heart Racing After Eggnog? A Red Flag Timeline for Adults 55-67
 slug: >-
   when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea
-description: >-
-  Presents a symptom-duration progression model (0–2 hrs → 2–6 hrs → >6 hrs)
-  linking transient tachycardia post-holiday drink to apnea-related hypoxia,
-  catecholamine surges, and atrial remodeling — with actionable thresholds for
-  ECG patch referral.
+description: Pounding over 6 hours after one drink may mean breathing pauses in sleep (sleep apnea) are fueling oxygen drops that trigger irregular rhythms. 3-stage guide.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: holiday heart racing sleep apnea red flags
+updated: '2026-03-26'
+primaryKeyword: heart racing after holiday drinks with sleep apnea
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

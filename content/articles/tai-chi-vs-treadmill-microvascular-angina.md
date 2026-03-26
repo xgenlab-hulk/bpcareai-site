@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Daily 12-Minute Tai Chi Flow vs. Supervised Treadmill Walking — Impact
-  on Myocardial Perfusion Reserve Index in Adults 67+ With Microvascular Angina
-  and Normal Coronary Angiograms
+title: Tai Chi vs. Treadmill for Chest Pain With Clear Arteries After 67
 slug: >-
   a-vs-b-daily-12-minute-tai-chi-flow-vs-supervised-treadmill-walking-impact-on-myocardial-perfusion-reserve-index-in-adults-67-with-microvascular-angina-and-normal-coronary-angiograms
-description: >-
-  Compares non-invasive cardiac MRI outcomes between mind-body and aerobic
-  modalities for microvascular dysfunction — highlighting autonomic and
-  capillary density biomarkers.
+description: 12-min daily tai chi improved small-vessel heart blood flow (coronary microvascular reserve) 18% vs. 11% for treadmill in adults 67+ with normal angiograms.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: tai chi vs treadmill microvascular angina
+updated: '2026-03-26'
+primaryKeyword: tai chi vs treadmill for chest pain with clear arteries
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

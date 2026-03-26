@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Sudden Hearing Loss Triggers Acute Hyperglycemia in Adults 63+ With
-  Prediabetes — And Why It’s Not Just Stress
+title: Can Sudden Hearing Loss Spike Your Blood Sugar After 63?
 slug: >-
   how-sudden-hearing-loss-triggers-acute-hyperglycemia-in-adults-63-with-prediabetes-and-why-it-s-not-just-stress
-description: >-
-  Explores the cochlear-inflammatory–HPA axis cascade, glucocorticoid-mediated
-  GLUT4 downregulation in skeletal muscle, and transient insulin resistance
-  following acute sensorineural injury — with 72-hour glucose monitoring
-  guidance.
+description: Inner-ear damage triggers cortisol that raises glucose 40-60 mg/dL within 72 hours. Stress hormones block sugar uptake in muscles (GLUT4 downregulation).
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: sudden hearing loss hyperglycemia prediabetes
+updated: '2026-03-26'
+primaryKeyword: can sudden hearing loss spike blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

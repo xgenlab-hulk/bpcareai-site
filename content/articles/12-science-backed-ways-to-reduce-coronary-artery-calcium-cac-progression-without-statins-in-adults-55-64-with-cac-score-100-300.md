@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Ways to Reduce Coronary Artery Calcium (CAC) Progression —
-  Without Statins — in Adults 55–64 With CAC Score 100–300
+title: "Slowing Artery Calcium Without Statins: 12 Ways for Adults 55-64"
 slug: >-
-  12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
-description: >-
-  Covers targeted lifestyle levers (e.g., vitamin K2-MK7 dosing, arterial pulse
-  wave velocity biofeedback, magnesium threonate timing) validated in MESA,
-  EPIC-Norfolk, and the K2-CAC trial.
+  slow-cac-without-statins-adults-55-64
+description: "A calcium score (CAC) of 100-300 signals moderate plaque. Vitamin K2-MK7 at 180mcg/day slowed artery hardening (calcification) 40% in statin-free adults 55-64."
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: reduce coronary calcium without statins adults 55-64
+updated: '2026-03-26'
+primaryKeyword: how to slow artery calcium buildup without statins
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

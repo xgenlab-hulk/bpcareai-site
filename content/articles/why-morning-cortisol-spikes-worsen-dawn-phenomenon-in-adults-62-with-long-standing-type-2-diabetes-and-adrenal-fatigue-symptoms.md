@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Morning Cortisol Spikes Worsen Dawn Phenomenon in Adults 62+ With
-  Long-Standing Type 2 Diabetes and Adrenal Fatigue Symptoms
+title: Why Morning Cortisol Spikes Raise Fasting Glucose After 62
 slug: >-
   why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
-description: >-
-  Explains the HPA axis–glucose dysregulation loop, links salivary cortisol
-  rhythm testing to insulin titration decisions, and offers non-pharmacologic
-  circadian reset strategies.
+description: Cortisol peaks 30-45 min after waking, pushing fasting glucose up 20-40 mg/dL via liver output (hepatic gluconeogenesis). Circadian light resets help.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: cortisol dawn phenomenon type 2 diabetes
+updated: '2026-03-26'
+primaryKeyword: why does morning cortisol raise fasting blood sugar
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,10 @@
 ---
-title: >-
-  7 Hidden Medication Interactions That Raise Blood Pressure in Seniors Taking
-  Antidepressants, Antihistamines, or NSAIDs
-slug: >-
-  7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids
-description: >-
-  Details how commonly prescribed non-cardiac drugs unintentionally increase
-  peripheral resistance or fluid retention — with safer alternatives and
-  monitoring cues.
+title: 7 Common Medications That Quietly Raise Blood Pressure After 60
+slug: antihistamine-antidepressant-bp-seniors
+description: Allergy pills plus antidepressants spike BP 10-20 mmHg by blocking fluid clearance (renal prostaglandins). NSAIDs add 5 mmHg more in seniors 60+.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: blood pressure raising medication interactions
+updated: '2026-03-26'
+primaryKeyword: medications that raise blood pressure in seniors
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

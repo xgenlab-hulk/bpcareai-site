@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Home-Based Isometric Handgrip Training vs. Supervised Interval Cycling
-  — Impact on Central Aortic Pressure in Men 64–76 With Isolated Systolic
-  Hypertension
+title: "Handgrip Squeezing vs. Cycling: Which Lowers BP More for Men 64+?"
 slug: >-
   a-vs-b-home-based-isometric-handgrip-training-vs-supervised-interval-cycling-impact-on-central-aortic-pressure-in-men-64-76-with-isolated-systolic-hypertension
-description: >-
-  Compares adherence, safety, and hemodynamic outcomes of two accessible
-  exercise modalities for older adults with elevated central
-  pressure—highlighting real-world feasibility and echo-Doppler evidence.
+description: 4 min/day of handgrip lowers central aortic pressure 6-10 mmHg — matching 30-min cycling in men 64-76 with high top-number BP (isolated systolic hypertension).
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: isometric handgrip vs cycling systolic hypertension
+updated: 2026-03-26
+primaryKeyword: handgrip exercise vs cycling for high blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,18 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting Home Pulse Oximetry Trends in Adults 70+
-  With Chronic Heart Failure and COPD — When Desaturation Patterns Signal
-  Worsening RV Function
+title: Pulse Oximeter Trends With Heart Failure and COPD After 70
 slug: >-
   the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function
-description: >-
-  Teaches patients and caregivers how to recognize clinically meaningful
-  nocturnal desaturation signatures (e.g., delayed recovery post-cough,
-  progressive nocturnal nadir drop) that precede right heart decompensation—even
-  with stable SpO₂ averages.
+description: "A stable 94% SpO2 average hides risk: overnight dips below 88% that recover slowly signal the right heart chamber (RV) weakening. Track nadir, not averages."
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: pulse oximetry heart failure copd interpretation
+updated: '2026-03-26'
+primaryKeyword: what pulse oximeter trends mean with heart failure
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

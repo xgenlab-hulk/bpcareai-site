@@ -1,17 +1,11 @@
 ---
-title: >-
-  Best Hydration Strategies for Blood Pressure Stability During Winter — Not
-  Just 'Drink More Water' — For Adults 76+ With Reduced Thirst Perception and
-  Chronic Constipation
+title: Why Winter Dehydration Quietly Raises Blood Pressure After 76
 slug: >-
   best-hydration-strategies-for-blood-pressure-stability-during-winter-not-just-drink-more-water-for-adults-76-with-reduced-thirst-perception-and-chronic-constipation
-description: >-
-  Offers a 4-tier hydration protocol (electrolyte-modulated warm liquids,
-  mucilage-rich broths, timed gel-forming fibers, and osmotic priming) proven to
-  sustain plasma volume without triggering nocturia or worsening constipation.
+description: Thirst drops 40% by age 80, and plain water can dilute sodium. A warm-liquid protocol maintains blood volume (plasma volume) without worsening constipation.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: winter hydration blood pressure stability elderly
+updated: '2026-03-26'
+primaryKeyword: why winter dehydration raises blood pressure after 76
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

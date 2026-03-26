@@ -1,16 +1,11 @@
 ---
-title: >-
-  Quick Ways to Normalize Heart Rate Variability Within 90 Minutes of Alcohol
-  Consumption — For Adults 56–67 With Low Baseline HRV and Social Drinking Habit
+title: Restore Heart Rate Variability After Drinking — Steps for 56-67
 slug: >-
   quick-ways-to-normalize-heart-rate-variability-within-90-minutes-of-alcohol-consumption-for-adults-56-67-with-low-baseline-hrv-and-social-drinking-habit
-description: >-
-  Presents time-bound, physiology-grounded techniques — including isometric leg
-  lift + controlled expiration, targeted vagal maneuvers, and timed cold-water
-  facial immersion — validated in ambulatory HRV studies.
+description: Alcohol cuts heart rhythm flexibility (HRV) 25-40% for 4-6 hours. A 90-second cold-water face dip reactivates vagal tone and restores RMSSD in 20 min.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: normalize heart rate variability after alcohol
+updated: '2026-03-26'
+primaryKeyword: how to restore heart rate variability after drinking
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

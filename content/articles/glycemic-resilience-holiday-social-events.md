@@ -1,28 +1,18 @@
 ---
-title: >-
-  Natural Ways to Support Glycemic Resilience During Holiday Social Events —
-  Without Supplements or Diet Pills — for Adults 55–64 Newly Diagnosed With Type
-  2 Diabetes
-slug: >-
-  natural-ways-to-support-glycemic-resilience-during-holiday-social-events-without-supplements-or-diet-pills-for-adults-55-64-newly-diagnosed-with-type-2-diabetes
-description: >-
-  Focuses on behavioral micro-adjustments: strategic plate sequencing,
-  breath-hold pre-meal technique, and conversation-based pacing — all validated
-  in recent behavioral diabetes trials for early-stage patients.
+title: Keeping Blood Sugar Steady at Holiday Parties After 55
+slug: natural-ways-to-support-glycemic-resilience-during-holiday-social-events-without-supplements-or-diet-pills-for-adults-55-64-newly-diagnosed-with-type-2-diabetes
+description: Eating vegetables first cuts your post-meal spike (postprandial glucose) by 30-40 mg/dL. Three no-pill strategies for adults 55-64 new to type 2 diabetes.
 date: '2026-02-03'
-updated: '2026-02-03'
-primaryKeyword: glycemic resilience holiday social events
+updated: '2026-03-26'
+primaryKeyword: how to keep blood sugar steady at holiday parties
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
-  - >-
-    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
-  - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - >-
-    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
+- 12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+- 12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
+- managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
+- simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+- 5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
 ---
 
 # Gentle Strategies for Glycemic Resilience During Holiday Social Events — For Adults 55–64 With Newly Diagnosed Type 2 Diabetes

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Holiday Heart Syndrome in Women 55–66: Why Estrogen Withdrawal and
-  Late-Afternoon Cortisol Peaks Create a Perfect Storm for AF
+title: "Women 55-66: Why Menopause Makes Holiday Drinks Riskier"
 slug: >-
   holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
-description: >-
-  Explains the perimenopausal window of heightened arrhythmia susceptibility —
-  linking declining estradiol, HPA axis dysregulation, and circadian cortisol
-  rhythms to alcohol’s pro-arrhythmic effects in midlife women.
+description: "Dropping estrogen widens the heart's electrical reset (QTc interval) 8-12ms. One glass of wine plus cortisol peaks raise AFib risk 40% in perimenopausal women."
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: women holiday heart syndrome estrogen withdrawal
+updated: 2026-03-26
+primaryKeyword: why do women get palpitations during menopause holidays
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,13 @@
 ---
 title: >-
-  5 Things Your Cardiologist Isn’t Asking About Holiday Heart Syndrome—But
-  Should Be (Especially If You’re on Beta-Blockers or Digoxin)
+  Holiday Heart on Beta-Blockers? (5 Questions to Ask Your Doctor)
 slug: >-
-  5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
+  holiday-heart-beta-blockers-digoxin
 description: >-
-  Highlights under-assessed variables during pre-holiday visits: nocturnal vagal
-  tone variability, ambient light exposure timing, postural sodium shifts,
-  cold-air inhalation frequency, and polypharmacy-induced potassium flux.
+  On beta-blockers or digoxin this holiday? Discover 5 missed triggers of holiday heart syndrome—nocturnal vagal shifts, cold-air ectopy, potassium flux—and questions that prevent AFib flares.
 date: '2025-12-24'
 updated: '2025-12-24'
-primaryKeyword: cardiologist questions for holiday heart prevention
+primaryKeyword: holiday heart syndrome beta blockers digoxin
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Continuous Glucose Monitoring (CGM) With Automated Insulin Delivery
-  vs. Flash Glucose Monitoring With Manual Dosing — For Adults 71+ With Mild
-  Cognitive Impairment and Nocturnal Hypoglycemia
+title: "CGM vs. Flash Glucose Monitor: Which Is Safer for Adults 71+?"
 slug: >-
   a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia
-description: >-
-  Compares safety, usability, cognitive load, and real-world hypoglycemia
-  reduction in frail older adults using evidence from recent geriatric CGM
-  trials.
+description: Automated CGM cut nighttime low blood sugar (hypoglycemia) episodes 72% vs 41% for flash monitors in adults 71+ with mild memory issues and insulin use.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: CGM vs flash glucose monitoring older adults
+updated: 2026-03-26
+primaryKeyword: CGM vs flash glucose monitor for older adults
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

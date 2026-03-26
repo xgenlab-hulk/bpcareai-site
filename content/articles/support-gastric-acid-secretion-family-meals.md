@@ -1,18 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Gastric Acid Secretion During Family Meals — Without
-  Supplements or PPIs, For Adults 66–78 With Age-Related Hypochlorhydria and
-  Frequent Bloating
+title: Low Stomach Acid and Bloating After 66? Mealtime Fixes That Help
 slug: >-
   natural-ways-to-support-gastric-acid-secretion-during-family-meals-without-supplements-or-ppis-for-adults-66-78-with-age-related-hypochlorhydria-and-frequent-bloating
-description: >-
-  Details meal-context strategies — including bitter food sequencing, chewing
-  tempo, temperature cues, and endogenous gastrin triggers — to optimize
-  digestion and nutrient absorption in older adults experiencing silent acid
-  deficiency.
+description: By 70, stomach acid drops 30-40% (hypochlorhydria), causing bloating. Bitter greens before meals and slower chewing boost acid output — no PPIs needed.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: support gastric acid secretion family meals
+updated: '2026-03-26'
+primaryKeyword: how to improve stomach acid naturally during meals
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

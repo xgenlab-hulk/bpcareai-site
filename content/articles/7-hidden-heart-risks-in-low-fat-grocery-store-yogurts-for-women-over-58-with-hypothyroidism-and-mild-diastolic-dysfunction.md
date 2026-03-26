@@ -1,16 +1,10 @@
 ---
-title: >-
-  7 Hidden Heart Risks in 'Low-Fat' Grocery Store Yogurts for Women Over 58 With
-  Hypothyroidism and Mild Diastolic Dysfunction
-slug: >-
-  7-hidden-heart-risks-in-low-fat-grocery-store-yogurts-for-women-over-58-with-hypothyroidism-and-mild-diastolic-dysfunction
-description: >-
-  Breaks down how added sugars, dairy protein isolates, and thickeners in
-  commercial yogurts disrupt endothelial function and exacerbate subclinical
-  diastolic impairment—especially in estrogen-deficient, thyroid-treated women.
+title: Your Low-Fat Yogurt Raising Blood Pressure? (Women 58+ Guide)
+slug: low-fat-yogurt-heart-risks-women-58
+description: Eating low-fat yogurt daily and BP rising? Discover 3 hidden ingredients—sugars, isolates, thickeners—affecting your heart and safer swaps (women 58+ hypothyroid).
 date: '2026-01-07'
 updated: '2026-01-07'
-primaryKeyword: low-fat yogurt heart risks hypothyroid women
+primaryKeyword: low-fat yogurt heart risks women hypothyroid
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

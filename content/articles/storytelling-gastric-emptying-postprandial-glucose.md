@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Intergenerational Storytelling During Dinner Slows Gastric Emptying — And
-  Why That Helps Postprandial Glucose in Adults 78+ With Mild Cognitive
-  Impairment
+title: Why Storytelling at Dinner Steadies Blood Sugar in Seniors Over 78
 slug: >-
   how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment
-description: >-
-  Discusses parasympathetic activation via emotional engagement, measured via
-  gastric motility ultrasound and CGM, showing delayed but smoother glucose
-  curves in memory-impaired seniors who converse while eating.
+description: Conversation slows stomach emptying (gastric motility) ~20%, producing smoother CGM glucose curves in adults 78+ with mild cognitive impairment.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: storytelling gastric emptying postprandial glucose
+updated: '2026-03-26'
+primaryKeyword: does talking at dinner help blood sugar for seniors
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

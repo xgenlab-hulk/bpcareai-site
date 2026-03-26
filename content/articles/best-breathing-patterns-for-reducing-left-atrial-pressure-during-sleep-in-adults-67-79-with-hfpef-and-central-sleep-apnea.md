@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Breathing Patterns for Reducing Left Atrial Pressure During Sleep in
-  Adults 67–79 With HFpEF and Central Sleep Apnea
+title: Breathing Patterns That Ease Heart Pressure During Sleep (HFpEF)
 slug: >-
   best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
-description: >-
-  Compares paced diaphragmatic breathing, Buteyko, and resonant frequency
-  training for nocturnal LA pressure modulation—using esophageal manometry and
-  overnight CPAP-integrated pressure data.
+description: Paced breathing at 6 breaths/min lowers left atrial filling pressure (LA pressure) 3-5 mmHg overnight. Buteyko and resonant frequency methods also compared.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: breathing patterns hfpef left atrial pressure
+updated: 2026-03-26
+primaryKeyword: breathing to reduce heart pressure during sleep
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

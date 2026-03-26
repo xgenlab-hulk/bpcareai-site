@@ -1,16 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Chewing Efficiency During Holiday Meals—Without
-  Dentures or Supplements—for Adults 82+ With Sarcopenic Dysphagia
+title: Easier Holiday Eating for Seniors 82+ With Weak Chewing Muscles
 slug: >-
   natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
-description: >-
-  Evidence-based texture-modification strategies, bite-size sequencing, and
-  oral-motor priming techniques to maintain safe, satisfying holiday eating
-  despite age-related masticatory decline.
+description: "Jaw muscle mass drops 25-40% by 80, making turkey risky for choking (sarcopenic dysphagia). Bite-size sequencing and 30-second oral warm-ups before meals help."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: chewing efficiency holiday meals seniors
+updated: '2026-03-26'
+primaryKeyword: how to eat holiday meals with weak chewing muscles
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

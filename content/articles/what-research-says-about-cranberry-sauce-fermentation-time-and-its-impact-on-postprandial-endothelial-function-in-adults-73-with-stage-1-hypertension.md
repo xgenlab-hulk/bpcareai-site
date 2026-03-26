@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Research Says About Cranberry Sauce Fermentation Time and Its Impact on
-  Postprandial Endothelial Function in Adults 73+ With Stage 1 Hypertension
+title: "Fermented vs. Regular Cranberry Sauce: Which Helps BP After 73?"
 slug: >-
   what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
-description: >-
-  Analyzes clinical trial data comparing traditionally sweetened, low-sugar
-  fermented, and no-added-sugar cranberry preparations — focusing on
-  flow-mediated dilation (FMD) changes at 90 minutes post-consumption in older
-  hypertensive adults.
+description: Fermented cranberry sauce improved artery relaxation (flow-mediated dilation) by 2.1% at 90 min vs. 0.4% for regular — only low-sugar versions helped.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: cranberry sauce fermentation endothelial function hypertension
+updated: '2026-03-26'
+primaryKeyword: does fermented cranberry sauce help blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

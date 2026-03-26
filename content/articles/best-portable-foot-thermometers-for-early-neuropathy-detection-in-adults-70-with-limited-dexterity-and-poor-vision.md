@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Portable Foot Thermometers for Early Neuropathy Detection in Adults 70+
-  With Limited Dexterity and Poor Vision
+title: Best Foot Thermometers for Early Neuropathy Detection After 70
 slug: >-
   best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision
-description: >-
-  Reviews infrared thermometers optimized for geriatric use: one-hand operation,
-  large audio feedback, non-contact accuracy at 2cm, and validated sensitivity
-  to 0.5°C skin temp asymmetry.
+description: A 0.5C side-to-side foot temp difference flags early nerve damage (peripheral neuropathy) weeks before symptoms. Infrared models with audio suit low dexterity.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: portable foot thermometer geriatric neuropathy
+updated: 2026-03-26
+primaryKeyword: best foot thermometer for diabetic neuropathy detection
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

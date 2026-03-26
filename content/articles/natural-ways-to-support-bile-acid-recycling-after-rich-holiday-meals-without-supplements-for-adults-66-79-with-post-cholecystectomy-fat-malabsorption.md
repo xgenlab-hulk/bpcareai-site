@@ -1,16 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Bile Acid Recycling After Rich Holiday Meals — Without
-  Supplements — for Adults 66–79 With Post-Cholecystectomy Fat Malabsorption
+title: How to Digest Holiday Meals After Gallbladder Removal (Ages 66-79)
 slug: >-
   natural-ways-to-support-bile-acid-recycling-after-rich-holiday-meals-without-supplements-for-adults-66-79-with-post-cholecystectomy-fat-malabsorption
-description: >-
-  Explains how fiber timing, bitter greens, and post-meal walking enhance
-  enterohepatic circulation — with meal-planning templates using turkey giblet
-  broth and roasted fennel.
+description: Without a gallbladder, bile trickles — cutting fat absorption 30-40%. Bitter greens and post-meal walking boost bile recycling (enterohepatic circulation).
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: bile acid recycling after gallbladder removal
+updated: 2026-03-26
+primaryKeyword: digesting fatty foods after gallbladder removal
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

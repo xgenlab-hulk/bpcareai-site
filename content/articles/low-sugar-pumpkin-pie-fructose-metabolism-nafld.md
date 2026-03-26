@@ -1,18 +1,11 @@
 ---
-title: >-
-  The Truth About 'Low-Sugar' Store-Bought Pumpkin Pie Fillings — Why 91% Still
-  Contain High-Fructose Corn Syrup Derivatives That Bypass First-Pass Metabolism
-  in Adults 70+ With NAFLD
+title: Why 'Low-Sugar' Pumpkin Pie Still Harms Your Liver After 70
 slug: >-
   the-truth-about-low-sugar-store-bought-pumpkin-pie-fillings-why-91-still-contain-high-fructose-corn-syrup-derivatives-that-bypass-first-pass-metabolism-in-adults-70-with-nafld
-description: >-
-  Investigates labeling loopholes, metabolic fate of fructose polymers (e.g.,
-  inulin hydrolysates), and hepatic de novo lipogenesis spikes measured via
-  13C-MRS after ingestion — specifically in elders with nonalcoholic fatty liver
-  disease.
+description: 91% of low-sugar pie fillings hide fructose derivatives that raise liver fat production (de novo lipogenesis) 23% — risky with fatty liver disease (NAFLD).
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: "health management adults 70+"
+updated: '2026-03-26'
+primaryKeyword: are low-sugar pumpkin pies safe for fatty liver
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

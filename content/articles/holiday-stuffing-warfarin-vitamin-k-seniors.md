@@ -1,17 +1,11 @@
 ---
-title: >-
-  5 Things Everyone Over 67 Should Know About Sharing a Single Serving of
-  Holiday Stuffing — Especially If Taking Warfarin or Eating Spinach-Sage Loaf
-  Daily
+title: "Holiday Stuffing and Warfarin: What Adults Over 67 Must Watch"
 slug: >-
   5-things-everyone-over-67-should-know-about-sharing-a-single-serving-of-holiday-stuffing-especially-if-taking-warfarin-or-eating-spinach-sage-loaf-daily
-description: >-
-  Addresses vitamin K variability in herb-infused stuffing, warfarin dosing
-  stability, and real-world INR drift risks when portion-sharing across
-  generations.
+description: One serving of sage-spinach stuffing packs 80-300 mcg vitamin K — enough to shift your blood-thinning level (INR) 0.3-0.5 points in 48 hours.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: holiday stuffing warfarin vitamin k seniors
+updated: '2026-03-26'
+primaryKeyword: can holiday stuffing affect warfarin levels in seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

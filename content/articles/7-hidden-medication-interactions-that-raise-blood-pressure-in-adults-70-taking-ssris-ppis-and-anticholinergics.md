@@ -1,17 +1,10 @@
 ---
-title: >-
-  7 Hidden Medication Interactions That Raise Blood Pressure in Adults 70+
-  Taking SSRIs, PPIs, and Anticholinergics
-slug: >-
-  7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics
-description: >-
-  Identifies underrecognized pharmacodynamic and pharmacokinetic
-  interactions—especially involving serotonin-mediated vasoconstriction,
-  hypokalemia from PPIs, and vagal withdrawal—that amplify hypertension risk in
-  polypharmacy seniors.
+title: 7 Medications That Secretly Raise Blood Pressure After 70
+slug: bp-spikes-ssris-ppis-seniors-70
+description: SSRIs, PPIs, and bladder drugs each raise systolic BP 4-8 mmHg through serotonin surges, potassium loss (hypokalemia), or nerve activation. Timing shifts help.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: medication interactions raise blood pressure seniors
+updated: '2026-03-26'
+primaryKeyword: medications that secretly raise blood pressure over 70
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

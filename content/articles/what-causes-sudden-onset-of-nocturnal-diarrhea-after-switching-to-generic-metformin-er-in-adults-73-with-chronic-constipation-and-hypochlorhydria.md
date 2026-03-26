@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Onset of Nocturnal Diarrhea After Switching to Generic
-  Metformin ER in Adults 73+ With Chronic Constipation and Hypochlorhydria?
+title: Why Generic Metformin ER Triggers Nighttime Diarrhea After 73
 slug: >-
   what-causes-sudden-onset-of-nocturnal-diarrhea-after-switching-to-generic-metformin-er-in-adults-73-with-chronic-constipation-and-hypochlorhydria
-description: >-
-  Analyzes how excipient-driven osmotic load, pH-dependent polymer dissolution,
-  and altered gut transit time converge to trigger paradoxical diarrhea in
-  seniors on generic extended-release metformin.
+description: Fillers (excipients) in generic metformin ER dissolve too fast in low-acid stomachs (hypochlorhydria). The full dose dumps at once, causing nighttime diarrhea.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: generic metformin er nocturnal diarrhea seniors
+updated: '2026-03-26'
+primaryKeyword: why does generic metformin ER cause diarrhea at night
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

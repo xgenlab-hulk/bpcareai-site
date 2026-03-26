@@ -1,18 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Gastric Acid Production During Holiday Feasts —
-  Without PPIs or Supplements — For Adults 63–78 With Age-Related
-  Hypochlorhydria
+title: Boost Stomach Acid at Holiday Feasts Without PPIs After 63
 slug: >-
   natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
-description: >-
-  Details evidence-backed, non-pharmacologic strategies — including pre-meal
-  bitter herbs, chewing pace, temperature modulation of beverages, and timed
-  protein distribution — to enhance digestion and reduce bloating, reflux, and
-  micronutrient malabsorption.
+description: After 60, stomach acid (gastric HCl) drops 30-40%, causing bloating and poor B12 absorption. Bitter herbs 15 min before eating restore acid output naturally.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: natural gastric acid support holiday meals
+updated: 2026-03-26
+primaryKeyword: how to improve stomach acid naturally during big meals
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

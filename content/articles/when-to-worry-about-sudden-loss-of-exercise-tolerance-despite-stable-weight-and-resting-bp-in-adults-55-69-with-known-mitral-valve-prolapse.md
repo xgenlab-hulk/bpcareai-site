@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Sudden Loss of Exercise Tolerance Despite Stable Weight
-  and Resting BP in Adults 55–69 With Known Mitral Valve Prolapse
+title: Sudden Exercise Intolerance With Mitral Valve Prolapse? Warning Signs
 slug: >-
   when-to-worry-about-sudden-loss-of-exercise-tolerance-despite-stable-weight-and-resting-bp-in-adults-55-69-with-known-mitral-valve-prolapse
-description: >-
-  Details red-flag patterns — such as dyspnea at <2 METs, disproportionate
-  fatigue, or new-onset PND — that suggest silent chordal rupture, ventricular
-  remodeling, or evolving secondary mitral regurgitation.
+description: Breathlessness below 2 METs may signal a torn valve cord (chordal rupture) or worsening leak (mitral regurgitation) — even with normal resting BP after 55.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: loss exercise tolerance mitral valve prolapse
+updated: 2026-03-26
+primaryKeyword: why can't I exercise like before with mitral valve prolapse
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

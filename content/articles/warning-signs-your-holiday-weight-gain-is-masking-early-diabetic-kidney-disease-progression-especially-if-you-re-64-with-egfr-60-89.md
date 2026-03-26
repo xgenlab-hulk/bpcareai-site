@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Holiday Weight Gain Is Masking Early Diabetic Kidney
-  Disease Progression — Especially If You’re 64+ With eGFR 60–89
+title: Is Holiday Weight Gain Hiding Kidney Damage? (Diabetics 64+)
 slug: >-
   warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
-description: >-
-  Identifies atypical markers — like unexplained nocturia despite stable A1c,
-  subtle ankle edema post-feast, or disproportionate fatigue — that signal early
-  DKD in high-functioning older adults.
+description: "Stable A1C doesn't mean stable kidneys. Extra nighttime urination or 3+ lbs in 48 hours may signal early decline (diabetic kidney disease) at eGFR 60-89."
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: holiday weight gain early diabetic kidney disease
+updated: 2026-03-26
+primaryKeyword: can holiday weight gain hide kidney disease with diabetes
 topicCluster: renal-health
 image: ''
 relatedSlugs:

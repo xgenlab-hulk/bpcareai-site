@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'My A1c Is Fine, So My Heart Is Safe' — What Myocardial Strain
-  Imaging Reveals in Adults 57–74 With Normal A1c But Elevated Troponin T
+title: Normal A1c but Heart Damage? What Strain Imaging Shows After 57
 slug: >-
   myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
-description: >-
-  Debunks A1c-centric cardiac risk assessment using speckle-tracking
-  echocardiography data showing subclinical systolic strain deficits despite
-  'well-controlled' HbA1c.
+description: 22% of adults 57-74 with normal A1c show hidden heart strain (subclinical systolic dysfunction) on echo. Troponin T under 14 ng/L is the early clue.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: A1c and heart safety myth diabetes
+updated: '2026-03-26'
+primaryKeyword: can my heart be damaged even with normal A1c
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

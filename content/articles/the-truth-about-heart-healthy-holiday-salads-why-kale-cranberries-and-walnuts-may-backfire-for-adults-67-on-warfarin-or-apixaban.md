@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Heart-Healthy' Holiday Salads — Why Kale, Cranberries, and
-  Walnuts May Backfire for Adults 67+ on Warfarin or Apixaban
+title: Why Kale and Cranberry Salads Backfire on Warfarin After 67
 slug: >-
   the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
-description: >-
-  Breaks down vitamin K variability in seasonal greens, phytonutrient
-  interference with DOAC metabolism, and real-world INR fluctuations observed in
-  seniors maintaining anticoagulation during festive eating.
+description: One cup of raw kale delivers 547mcg vitamin K — 6x the limit on blood thinners (warfarin). Cranberries push INR up 0.5-1.2 points within 48 hours.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: holiday salad warfarin interaction truth
+updated: '2026-03-26'
+primaryKeyword: holiday salad ingredients that interfere with warfarin
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

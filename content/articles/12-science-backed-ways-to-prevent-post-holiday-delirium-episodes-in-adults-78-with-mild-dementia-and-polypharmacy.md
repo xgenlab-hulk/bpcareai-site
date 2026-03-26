@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Ways to Prevent Post-Holiday Delirium Episodes in Adults 78+
-  With Mild Dementia and Polypharmacy
+title: Holiday Confusion in a Parent With Dementia? 12 Prevention Steps
 slug: >-
-  12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
-description: >-
-  Addresses dehydration, glucose volatility, anticholinergic burden from holiday
-  treats (e.g., eggnog with nutmeg), sleep fragmentation, and caregiver
-  communication frameworks to preserve cognition.
+  holiday-delirium-dementia-78
+description: Most post-holiday delirium in adults 78+ is reversible — tied to dehydration, sleep loss, or hidden drug clashes (anticholinergic load). 12 gentle strategies.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: prevent delirium after holiday dementia seniors
+updated: 2026-03-26
+primaryKeyword: preventing holiday confusion in elderly with dementia
 topicCluster: special-populations
 image: ''
 relatedSlugs:

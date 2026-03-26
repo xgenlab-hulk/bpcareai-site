@@ -1,16 +1,10 @@
 ---
-title: >-
-  10 Foods That Stabilize Postprandial Glucose Variability in Adults 64+ With
-  Gastroparesis and Type 2 Diabetes
-slug: >-
-  10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
-description: >-
-  Curates low-FODMAP, low-viscosity, fiber-modulated foods clinically shown to
-  reduce glucose lability in delayed gastric emptying — with
-  texture-modification tips and meal sequencing rules.
+title: "Gastroparesis and Diabetes After 64: 10 Foods That Stabilize Glucose"
+slug: gastroparesis-diabetes-foods-blood-sugar-control
+description: Slow stomach emptying (gastroparesis) makes glucose swing 80+ mg/dL after meals. These 10 low-FODMAP, soft-textured foods smooth absorption without bloating.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: foods stabilize glucose gastroparesis elderly
+updated: '2026-03-26'
+primaryKeyword: best foods for blood sugar with gastroparesis and diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Suspect Cardiac Amyloidosis in Women 75+ With Unexplained Fatigue,
-  Bilateral Carpal Tunnel Surgery History, and Preserved EF on Echo
+title: Fatigue + Past Carpal Tunnel Surgery? Think Amyloidosis (Women 75+)
 slug: >-
   when-to-suspect-cardiac-amyloidosis-in-women-75-with-unexplained-fatigue-bilateral-carpal-tunnel-surgery-history-and-preserved-ef-on-echo
-description: >-
-  Highlights this underdiagnosed infiltrative cardiomyopathy in older
-  women—emphasizing gender-specific red flags, diagnostic pitfalls in standard
-  imaging, and why TTR gene testing should be considered earlier than current
-  guidelines suggest.
+description: Carpal tunnel years before heart symptoms flags protein deposits in the heart (cardiac amyloidosis) — missed in 60% of women 75+ with normal ejection fraction.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: cardiac amyloidosis women carpal tunnel fatigue
+updated: '2026-03-26'
+primaryKeyword: cardiac amyloidosis signs in women over 75
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

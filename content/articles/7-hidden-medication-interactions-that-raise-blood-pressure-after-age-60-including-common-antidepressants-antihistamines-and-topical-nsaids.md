@@ -1,16 +1,13 @@
 ---
 title: >-
-  7 Hidden Medication Interactions That Raise Blood Pressure *After* Age 60 —
-  Including Common Antidepressants, Antihistamines, and Topical NSAIDs
+  Your Medications Raising Blood Pressure? (7 Hidden Culprits 60+)
 slug: >-
-  7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
+  medications-raising-blood-pressure-60
 description: >-
-  Identifies clinically underrecognized pharmacologic culprits of secondary
-  hypertension in older adults, with emphasis on receptor-level mechanisms
-  (e.g., H1-antagonist–induced α1-adrenergic potentiation).
+  Blood pressure rising despite medication? Discover 7 hidden drug interactions—antidepressants, antihistamines, topical NSAIDs—that raise BP in adults 60+. Includes monitoring tips and safer alternatives.
 date: '2026-03-02'
 updated: '2026-03-02'
-primaryKeyword: medication-induced hypertension over 60
+primaryKeyword: medications raising blood pressure adults 60
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

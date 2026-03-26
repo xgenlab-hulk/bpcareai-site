@@ -1,16 +1,13 @@
 ---
 title: >-
-  12 Evidence-Based Ways to Maintain Social Rhythm During Holiday
-  Isolation—Especially for Retired, Widowed Adults Living Alone
+  Feeling Lonely This Holiday Season? (Retired Widowed Adults Guide)
 slug: >-
-  12-evidence-based-ways-to-maintain-social-rhythm-during-holiday-isolation-especially-for-retired-widowed-adults-living-alone
+  holiday-loneliness-social-rhythm-retired-widowed
 description: >-
-  Practical, low-tech strategies grounded in social rhythm therapy (SRT),
-  including structured micro-interactions, ritual anchoring, and community-based
-  time cues tailored for solo-living seniors.
+  Living alone during holidays? Get 12 low-tech social rhythm strategies—morning light rituals, micro phone calls, community time cues—proven to reduce seasonal depression by 40% for retired widowed adults.
 date: '2025-12-24'
 updated: '2025-12-24'
-primaryKeyword: social rhythm therapy for isolated older adults
+primaryKeyword: holiday loneliness social rhythm seniors
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

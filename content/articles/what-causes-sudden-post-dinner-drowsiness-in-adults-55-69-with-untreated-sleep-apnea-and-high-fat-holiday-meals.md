@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Post-Dinner Drowsiness in Adults 55–69 With Untreated Sleep
-  Apnea and High-Fat Holiday Meals?
+title: Why Holiday Dinners Make You Dangerously Drowsy With Sleep Apnea
 slug: >-
   what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
-description: >-
-  Explains the triad of vagal overstimulation, postprandial hypotension, and REM
-  pressure shifts triggered by evening fat intake — and how this differs from
-  normal 'food coma' in neurovascular aging.
+description: High-fat meals cause BP drops after eating (postprandial hypotension) of 15-25 mmHg in adults 55-69 with untreated sleep apnea — not just normal food coma.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: post-dinner drowsiness sleep apnea cause
+updated: 2026-03-26
+primaryKeyword: extreme sleepiness after dinner with sleep apnea
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

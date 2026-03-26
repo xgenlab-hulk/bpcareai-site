@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Adding Vinegar to Holiday Gravy Lower Postprandial Glucose in Adults
-  64–77 With Insulin Resistance and Hypertension?
+title: Does Vinegar in Gravy Really Lower Blood Sugar After 64?
 slug: >-
   does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension
-description: >-
-  Reviews clinical evidence on acetic acid’s effects on gastric emptying,
-  insulin sensitivity, and endothelial function — plus practical dosing, timing,
-  and palatability constraints for older adults.
+description: 1-2 tbsp vinegar slows stomach emptying (gastric emptying) 20-30%, blunting after-meal glucose 20-35%. Works for insulin-resistant adults — add before eating.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: vinegar gravy postprandial glucose insulin resistance
+updated: 2026-03-26
+primaryKeyword: does vinegar in gravy lower blood sugar after meals
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

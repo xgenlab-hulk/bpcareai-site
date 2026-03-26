@@ -1,17 +1,11 @@
 ---
-title: >-
-  Quick Ways to Reset Gut Microbiome After a Weekend of Family Feasting — For
-  Adults 63+ With History of Antibiotic Use and Low-Fiber Diets
+title: Gut Recovery After Weekend Holiday Feasting — A Plan for 63+
 slug: >-
   quick-ways-to-reset-gut-microbiome-after-a-weekend-of-family-feasting-for-adults-63-with-history-of-antibiotic-use-and-low-fiber-diets
-description: >-
-  Offers time-bound, clinically plausible microbiome-supportive strategies
-  (e.g., targeted prebiotic timing, fermented food sequencing, polyphenol
-  diversity windows) to accelerate recovery from dietary disruption — avoiding
-  probiotic overuse or fiber overload.
+description: 3 days of rich food cuts beneficial gut bacteria (Bifidobacteria) 30-50%. Prebiotic timing and fermented foods restore diversity in 5-7 days — no pills.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: reset gut microbiome after holiday feasting
+updated: '2026-03-26'
+primaryKeyword: how to restore gut health after holiday overeating
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

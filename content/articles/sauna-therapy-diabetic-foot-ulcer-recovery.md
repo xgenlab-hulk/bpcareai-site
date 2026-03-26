@@ -1,17 +1,11 @@
 ---
-title: >-
-  Can You Safely Use Sauna Therapy After a Recent Diabetic Foot Ulcer Closure? —
-  Evidence-Based Temperature, Duration, and Hydration Thresholds for Adults 68+
-  With Peripheral Neuropathy
+title: "Sauna After a Diabetic Foot Ulcer? Safe Temps for Adults 68+"
 slug: >-
   can-you-safely-use-sauna-therapy-after-a-recent-diabetic-foot-ulcer-closure-evidence-based-temperature-duration-and-hydration-thresholds-for-adults-68-with-peripheral-neuropathy
-description: >-
-  Reviews thermal injury risk, autonomic response thresholds, and wound
-  perfusion studies to define safe sauna parameters for post-ulcer recovery in
-  high-neuropathy populations.
+description: "Burns go unnoticed with nerve damage (peripheral neuropathy) \u2014 skin temps above 40\u00B0C reopen healed ulcers in 12% of cases. Safe sauna limits for adults 68+."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: sauna therapy diabetic foot ulcer recovery
+updated: '2026-03-25'
+primaryKeyword: is sauna safe after a diabetic foot ulcer heals
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,13 @@
 ---
-title: >-
-  7 Hidden Causes of Morning Blood Pressure Spikes in Adults Over 65—Even With
-  Perfect Medication Timing
-slug: >-
-  7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+title: Your BP Spikes Every Morning Despite Perfect Meds? (65+)
+slug: morning-bp-spikes-despite-meds-65
 description: >-
-  Explores non-obvious physiological, environmental, and behavioral triggers
-  (e.g., nocturnal sodium retention, dawn phenomenon overlap, CPAP nonadherence)
-  that elevate systolic pressure between 5–9 a.m. in older adults on
-  antihypertensives.
+  Morning BP surges hit 60% of adults 65+ even with ideal medication timing.
+  Discover 7 hidden causes—sodium retention, sleep apnea, cortisol—plus proven
+  fixes.
 date: '2025-12-25'
 updated: '2025-12-25'
-primaryKeyword: morning blood pressure spikes over 65
+primaryKeyword: morning bp spikes despite meds over 65
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

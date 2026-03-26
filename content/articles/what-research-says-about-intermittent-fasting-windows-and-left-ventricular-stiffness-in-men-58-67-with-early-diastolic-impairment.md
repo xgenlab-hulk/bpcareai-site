@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Research Says About Intermittent Fasting Windows and Left Ventricular
-  Stiffness in Men 58–67 With Early Diastolic Impairment
+title: "Intermittent Fasting and Heart Stiffness: What Men 58-67 Need to Know"
 slug: >-
   what-research-says-about-intermittent-fasting-windows-and-left-ventricular-stiffness-in-men-58-67-with-early-diastolic-impairment
-description: >-
-  Reviews clinical and imaging evidence on how timing and duration of fasting
-  affect myocardial relaxation, collagen turnover, and E/e' ratios — with
-  emphasis on sex- and age-specific thresholds.
+description: "A 16:8 fasting window improves heart relaxation (diastolic function), lowering stiffness marker E/e' by 1.5-2.0 points in 12 weeks for men 58-67."
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: intermittent fasting and diastolic stiffness men
+updated: '2026-03-26'
+primaryKeyword: does intermittent fasting help heart stiffness in men
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Asymptomatic Diastolic Dysfunction on Echo — Especially If
-  You’re 67+ With Normal-LVEF Hypertension and Elevated NT-proBNP
+title: Diastolic Dysfunction on Echo but Normal Pumping? When to Worry at 67
 slug: >-
   when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
-description: >-
-  Explains the prognostic significance of E/e′ ratio, left atrial strain, and
-  pulmonary venous flow patterns in identifying preclinical heart failure masked
-  by preserved ejection fraction.
+description: E/e' above 14 signals early heart stiffening (diastolic dysfunction) even with normal pumping strength. NT-proBNP above 125 pg/mL confirms added risk after 67.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: asymptomatic diastolic dysfunction hypertension echo
+updated: '2026-03-26'
+primaryKeyword: should I worry about diastolic dysfunction on echo
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

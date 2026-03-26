@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Grandchildren’s Candy Bowls Trigger Autonomic Dysregulation in Adults 72+
-  With Early Parkinson’s — And What to Eat Instead
+title: "Candy Bowls and Dizziness in Early Parkinson's After 72"
 slug: >-
   how-grandchildren-s-candy-bowls-trigger-autonomic-dysregulation-in-adults-72-with-early-parkinson-s-and-what-to-eat-instead
-description: >-
-  Examines the neurovascular impact of sudden sucrose + caffeine exposure on
-  vagal tone and orthostatic tolerance in older adults with prodromal
-  neurodegeneration, offering neuroprotective snack alternatives with
-  polyphenol-magnesium synergy.
+description: Sudden sugar + caffeine disrupts nerve blood pressure control (autonomic regulation), dropping standing BP 15-25 mmHg. Polyphenol-rich snacks stabilize it.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: "diet management adults 72+"
+updated: '2026-03-26'
+primaryKeyword: "why does candy cause dizziness with Parkinson's"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

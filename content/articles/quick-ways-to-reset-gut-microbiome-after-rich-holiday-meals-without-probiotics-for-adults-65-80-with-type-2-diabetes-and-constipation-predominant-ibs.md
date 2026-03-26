@@ -1,17 +1,11 @@
 ---
-title: >-
-  Quick Ways to Reset Gut Microbiome After Rich Holiday Meals — Without
-  Probiotics — for Adults 65–80 With Type 2 Diabetes and
-  Constipation-Predominant IBS
+title: Resetting Your Gut After Holiday Meals Without Probiotics After 65
 slug: >-
   quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
-description: >-
-  Highlights time-sensitive, food-first strategies: resistant starch timing,
-  polyphenol-rich beverage sequencing, fasting window alignment with circadian
-  clocks, and fiber diversity within 48h post-feast.
+description: Within 48h post-feast, resistant starch plus polyphenol timing restores gut bacteria (microbiome) diversity in adults 65-80 with diabetes and IBS-C.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: reset gut microbiome after holiday meals no probiotics
+updated: 2026-03-26
+primaryKeyword: how to reset gut health after holiday meals naturally
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

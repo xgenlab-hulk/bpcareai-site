@@ -1,17 +1,11 @@
 ---
-title: >-
-  Can You Safely Resume Resistance Training After Aortic Valve Replacement? —
-  Evidence-Based Thresholds for Systolic Pressure Response and LVOT Velocity in
-  Adults 67+ With Mechanical Valves
+title: Safe Weight Lifting After Aortic Valve Replacement — Adults 67+
 slug: >-
   can-you-safely-resume-resistance-training-after-aortic-valve-replacement-evidence-based-thresholds-for-systolic-pressure-response-and-lvot-velocity-in-adults-67-with-mechanical-valves
-description: >-
-  Defines safe lifting parameters (e.g., peak SBP <160 mmHg, LVOT Vmax <2.0 m/s
-  on echo stress test) and phased return protocols validated in post-AVR rehab
-  cohorts.
+description: After valve replacement (AVR), keep peak systolic BP under 160 mmHg and outflow velocity (LVOT Vmax) below 2.0 m/s. Phased protocols start at 40% max.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: resistance training after aortic valve replacement
+updated: '2026-03-26'
+primaryKeyword: is weight lifting safe after heart valve replacement
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

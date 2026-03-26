@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 250 mg of Magnesium Threonate Improve Ventricular Repolarization
-  Homogeneity in Adults 60–72 With QTc Prolongation and Polypharmacy?
+title: Magnesium Threonate for Heart Rhythm in Adults 60-72 on Multiple Meds
 slug: >-
   does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
-description: >-
-  Examines magnesium threonate’s unique CNS and cardiac tissue penetration, its
-  effect on T-wave morphology and Tp-e interval on digital ECGs, and
-  interactions with common QT-prolonging drugs like citalopram or amiodarone.
+description: Magnesium threonate crosses into heart tissue better than oxide, shortening a key rhythm marker (Tp-e interval) by 8-12ms in adults 60-72 on QT-prolonging meds.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: "health management seniors"
+updated: 2026-03-26
+primaryKeyword: does magnesium threonate help heart rhythm problems
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

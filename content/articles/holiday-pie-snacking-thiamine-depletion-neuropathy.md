@@ -1,18 +1,11 @@
 ---
-title: >-
-  Warning Signs of Acute Thiamine Depletion After Three Days of Holiday Pie-Only
-  Snacking in Adults 55–65 With Alcohol Use History and Preexisting Peripheral
-  Neuropathy
+title: 3 Days of Pie-Only Snacking Could Deplete Thiamine After 55
 slug: >-
   warning-signs-of-acute-thiamine-depletion-after-three-days-of-holiday-pie-only-snacking-in-adults-55-65-with-alcohol-use-history-and-preexisting-peripheral-neuropathy
-description: >-
-  Identifies subtle, non-Wernicke neurological cues — including horizontal
-  nystagmus on lateral gaze, abnormal pupillary light reflex latency, and
-  reduced Achilles tendon reflex symmetry — that precede classic beriberi in
-  at-risk middle-aged adults.
+description: Carb-only snacking drains vitamin B1 (thiamine) in 72 hours. Eye twitches and uneven reflexes appear before full deficiency, especially with alcohol history.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: holiday pie snacking thiamine depletion neuropathy
+updated: '2026-03-26'
+primaryKeyword: can eating only pie for days cause nerve damage
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

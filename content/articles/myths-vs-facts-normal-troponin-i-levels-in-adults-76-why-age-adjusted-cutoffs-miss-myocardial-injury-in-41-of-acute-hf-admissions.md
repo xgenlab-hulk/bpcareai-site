@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'Normal' Troponin I Levels in Adults 76+ — Why Age-Adjusted
-  Cutoffs Miss Myocardial Injury in 41% of Acute HF Admissions
+title: "Your Troponin Looks 'Normal'? Why That May Miss Heart Damage After 76"
 slug: >-
   myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions
-description: >-
-  Debunks the 'normal troponin' misconception by presenting age-stratified 99th
-  percentile thresholds and clinical outcomes data linking subthreshold
-  elevations to 30-day mortality.
+description: Age-adjusted heart injury markers (troponin I) miss real damage in 41% of heart failure admissions over 76. Even subthreshold levels predict 30-day mortality.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: age-adjusted troponin i myths
+updated: '2026-03-26'
+primaryKeyword: can troponin be normal but heart still damaged
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

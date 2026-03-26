@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Dose NSAID Use Alters Renal Prostaglandin-Mediated Glucose
-  Reabsorption — And Accelerates eGFR Decline in Adults 70+ With Stage 3 CKD and
-  Diabetes
+title: "NSAIDs, Kidney Damage, and Blood Sugar: Risks for Adults 70+"
 slug: >-
   how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-mediated-glucose-reabsorption-and-accelerates-egfr-decline-in-adults-70-with-stage-3-ckd-and-diabetes
-description: >-
-  Explains COX-2 inhibition’s effect on SGLT2 regulation, urine glucose
-  excretion paradoxes, and NSAID-sparing pain strategies validated in
-  renal-metabolic cohort studies.
+description: "Low-dose ibuprofen blocks a kidney enzyme (COX-2) that regulates sugar filtering, accelerating kidney decline 2\u20134 mL/min/year faster in stage 3 CKD."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: NSAID renal glucose reabsorption CKD
+updated: '2026-03-25'
+primaryKeyword: can NSAIDs hurt my kidneys and raise blood sugar
 topicCluster: renal-health
 image: ''
 relatedSlugs:

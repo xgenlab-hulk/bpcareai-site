@@ -1,16 +1,11 @@
 ---
-title: >-
-  Quick Ways to Stabilize Heart Rate Variability (HRV) After a Sudden Startle —
-  For Adults 71+ With Post-Viral Autonomic Dysfunction
+title: Startled and Heart Racing? How to Reset HRV After 71
 slug: >-
   quick-ways-to-stabilize-heart-rate-variability-hrv-after-a-sudden-startle-for-adults-71-with-post-viral-autonomic-dysfunction
-description: >-
-  Offers 90-second, seated interventions (e.g., lateral neck cooling, vagal
-  nerve tapping sequence, targeted humming frequency) proven to restore
-  parasympathetic tone post-startle.
+description: A 90-second neck cooling technique restores calming nerve signals (parasympathetic tone) after sudden startle — tested in adults 71+ with post-viral issues.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: stabilize hrv after startle seniors 71+
+updated: '2026-03-26'
+primaryKeyword: how to calm heart rate after being startled
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

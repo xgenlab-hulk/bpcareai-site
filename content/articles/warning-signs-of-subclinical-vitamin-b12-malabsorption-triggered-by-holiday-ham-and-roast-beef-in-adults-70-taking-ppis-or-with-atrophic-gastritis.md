@@ -1,16 +1,14 @@
 ---
-title: >-
-  Warning Signs of Subclinical Vitamin B12 Malabsorption Triggered by Holiday
-  Ham and Roast Beef — In Adults 70+ Taking PPIs or With Atrophic Gastritis
+title: Holiday Ham and B12 Trouble — Warning Signs for Adults 70+ on PPIs
 slug: >-
   warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis
 description: >-
-  Identifies subtle neurologic and hematologic changes (e.g., unexplained gait
-  instability, reduced vibratory sense, macrocytosis without anemia) appearing
-  2–4 weeks post-holiday meat consumption.
+  Acid blockers (PPIs) cut B12 absorption ~65%. Gait changes or enlarged red
+  cells (macrocytosis) 2-4 weeks after holiday meat point to hidden B12
+  deficiency.
 date: '2026-02-03'
-updated: '2026-02-03'
-primaryKeyword: b12 malabsorption holiday meat
+updated: '2026-03-26'
+primaryKeyword: can holiday ham cause B12 problems if I take PPIs
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

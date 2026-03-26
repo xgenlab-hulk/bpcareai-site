@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Persistent Postprandial Hyperglycemia After Low-Carb Meals in
-  Adults 64+ With Long-Standing Diabetes and Elevated GDF-15 Levels?
+title: Still High Blood Sugar After Low-Carb Meals? Why After 64
 slug: >-
   what-causes-persistent-postprandial-hyperglycemia-after-low-carb-meals-in-adults-64-with-long-standing-diabetes-and-elevated-gdf-15-levels
-description: >-
-  Examines the role of mitochondrial stress signaling (GDF-15), impaired
-  skeletal muscle glucose uptake, and gut-derived incretin resistance — moving
-  beyond carb-counting alone.
+description: After 10+ years of diabetes, muscle glucose uptake drops 30-40% from mitochondrial stress (elevated GDF-15). Your liver overproduces glucose even without carbs.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: postprandial hyperglycemia low-carb long-standing diabetes
+updated: 2026-03-26
+primaryKeyword: why is blood sugar still high after low carb with diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

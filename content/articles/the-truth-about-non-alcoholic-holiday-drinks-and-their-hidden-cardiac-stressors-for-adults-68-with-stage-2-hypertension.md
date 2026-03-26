@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Truth About 'Non-Alcoholic' Holiday Drinks and Their Hidden Cardiac
-  Stressors for Adults 68+ With Stage 2 Hypertension
+title: "Non-Alcoholic Holiday Drinks: Hidden BP Triggers for Adults 68+"
 slug: >-
   the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
-description: >-
-  Debunks marketing claims around zero-proof cocktails by analyzing glycemic
-  load, artificial sweetener-induced sympathetic activation, caffeine synergy,
-  and sodium content — with real-time BP and HRV data from ambulatory monitoring
-  trials.
+description: Zero-proof cocktails pack 25-40g sugar and 200-400mg sodium per serving, spiking blood pressure (postprandial hypertension) within 30 min in stage 2 patients.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: non-alcoholic drinks holiday heart risk
+updated: '2026-03-26'
+primaryKeyword: are non-alcoholic holiday drinks safe for blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

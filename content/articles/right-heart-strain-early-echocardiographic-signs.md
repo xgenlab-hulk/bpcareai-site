@@ -1,17 +1,11 @@
 ---
-title: >-
-  Warning Signs of Right Heart Strain That Appear *Before* Neck Vein Distension
-  — Detected via Subcostal Echocardiographic View in Adults 77+ With COPD and
-  Mild Pulmonary Hypertension
+title: "Right Heart Strain in COPD: Echo Signs That Appear Before Swelling"
 slug: >-
   warning-signs-of-right-heart-strain-that-appear-before-neck-vein-distension-detected-via-subcostal-echocardiographic-view-in-adults-77-with-copd-and-mild-pulmonary-hypertension
-description: >-
-  Highlights early echocardiographic signs (e.g., RV free wall longitudinal
-  strain <−17%, hepatic vein flow reversal) preceding classic physical exam
-  findings in cor pulmonale.
+description: Wall strain below -17% and backward liver vein flow (hepatic vein reversal) appear on echo months before neck veins swell — key to catching right heart strain.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: right heart strain early echocardiographic signs
+updated: '2026-03-26'
+primaryKeyword: early signs of right heart strain on echocardiogram
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

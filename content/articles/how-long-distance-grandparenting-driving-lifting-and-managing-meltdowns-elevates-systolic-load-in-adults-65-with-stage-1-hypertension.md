@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Long-Distance Grandparenting — Driving, Lifting, and Managing Meltdowns —
-  Elevates Systolic Load in Adults 65+ With Stage 1 Hypertension
+title: Long-Distance Grandparenting and Blood Pressure Spikes After 65
 slug: >-
   how-long-distance-grandparenting-driving-lifting-and-managing-meltdowns-elevates-systolic-load-in-adults-65-with-stage-1-hypertension
-description: >-
-  Quantifies cumulative hemodynamic load from intermittent physical exertion,
-  emotional contagion stress, and sleep fragmentation — with ‘grandparenting
-  load index’ and recovery protocols.
+description: Driving 3+ hours, lifting toddlers, and managing tantrums raise systolic 15-25 mmHg. A 90-min legs-up rest resets your pressure reflex (baroreflex).
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: grandparenting systolic load hypertension
+updated: '2026-03-26'
+primaryKeyword: does grandparenting raise blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

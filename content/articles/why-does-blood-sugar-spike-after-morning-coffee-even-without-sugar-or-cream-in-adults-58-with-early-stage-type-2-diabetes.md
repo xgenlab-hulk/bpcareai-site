@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Does Blood Sugar Spike After Morning Coffee — Even Without Sugar or Cream
-  — in Adults 58+ With Early-Stage Type 2 Diabetes?
+title: Why Black Coffee Spikes Blood Sugar After 58 — Even Without Cream
 slug: >-
   why-does-blood-sugar-spike-after-morning-coffee-even-without-sugar-or-cream-in-adults-58-with-early-stage-type-2-diabetes
-description: >-
-  Explores how caffeine, circadian cortisol surges, and delayed gastric emptying
-  interact to elevate fasting glucose in older adults newly diagnosed with
-  diabetes — with actionable timing and preparation strategies.
+description: Caffeine blocks sugar uptake in muscles (GLUT4 suppression) and amplifies morning cortisol — raising fasting glucose 15-30 mg/dL within 60 minutes.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: morning coffee blood sugar spike diabetes
+updated: '2026-03-26'
+primaryKeyword: why does black coffee raise my blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About 'Normal' Resting Heart Rate in Adults 75+ With High-Grade
-  AV Block and Compensatory Ventricular Escape Rhythms
+title: "Adults 75+: When a 'Normal' Heart Rate Hides a Dangerous Block"
 slug: >-
   when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms
-description: >-
-  Clarifies why a stable but elevated resting HR (e.g., 68–74 bpm) may signal
-  progressive conduction system disease — and which concurrent symptoms warrant
-  urgent electrophysiology referral.
+description: "A 68-74 bpm rate may be the heart's backup rhythm (ventricular escape) hiding a severe block (high-grade AV block). New dizziness needs urgent ECG."
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: resting heart rate high-grade av block seniors
+updated: '2026-03-26'
+primaryKeyword: normal heart rate but heart block in seniors over 75
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

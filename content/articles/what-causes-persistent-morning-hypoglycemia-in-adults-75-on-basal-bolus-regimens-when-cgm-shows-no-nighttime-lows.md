@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Causes Persistent Morning Hypoglycemia in Adults 75+ on Basal-Bolus
-  Regimens — When CGM Shows No Nighttime Lows?
+title: Morning Low Blood Sugar on Insulin — Why It Happens After 75
 slug: >-
   what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
-description: >-
-  Investigates delayed gastric emptying from autonomic neuropathy, erratic
-  hepatic glucose production due to circadian clock gene dysregulation (BMAL1
-  suppression), and renal clearance changes affecting rapid-acting insulin
-  half-life — with dawn-dose adjustment logic.
+description: Slow stomach emptying (gastroparesis) delays insulin peaks 2-3 hours in adults 75+, causing morning lows even when overnight CGM reads normal.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: morning hypoglycemia basal-bolus elderly
+updated: '2026-03-26'
+primaryKeyword: why is my blood sugar low every morning on insulin
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

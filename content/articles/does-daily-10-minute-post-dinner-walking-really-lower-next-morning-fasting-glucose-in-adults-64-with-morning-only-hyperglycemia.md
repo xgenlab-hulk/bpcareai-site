@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 10-Minute Post-Dinner Walking *Really* Lower Next-Morning Fasting
-  Glucose in Adults 64+ With Morning-Only Hyperglycemia?
+title: "Does a 10-Minute Walk After Dinner Lower Morning Blood Sugar Over 64?"
 slug: >-
   does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
-description: >-
-  Reviews RCT data on timing-specific glycemic benefits, compares walking
-  pace/duration thresholds, and explains why this works *only* when done
-  barefoot on carpeted surfaces.
+description: "Post-dinner walks drop next-morning fasting glucose 10-15 mg/dL — but only above a pace threshold. Key timing rules for dawn highs (morning hyperglycemia)."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: post-dinner walking fasting glucose seniors
+updated: '2026-03-26'
+primaryKeyword: does walking after dinner lower morning blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

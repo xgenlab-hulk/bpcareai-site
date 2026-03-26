@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Holiday Leftovers Were Stored in a ‘Thermal Lag Zone’ — And
-  Why That Doubles Oxidative Load in Adults 75+ With Mild Cognitive Impairment
+title: "Holiday Leftovers Left Out Too Long? The Brain Risk for Adults 75+"
 slug: >-
   warning-signs-your-holiday-leftovers-were-stored-in-a-thermal-lag-zone-and-why-that-doubles-oxidative-load-in-adults-75-with-mild-cognitive-impairment
-description: >-
-  Explains the 90-minute danger window between serving and refrigeration, links
-  reheated lipid peroxides to hippocampal oxidative stress, and offers a
-  fridge-temp logging protocol.
+description: "Leftovers out 90+ minutes produce reheated fat breakdown products (lipid peroxides) that double brain oxidative stress in adults 75+ with memory concerns."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: holiday leftovers thermal lag oxidative stress
+updated: '2026-03-26'
+primaryKeyword: are holiday leftovers safe after 2 hours out
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

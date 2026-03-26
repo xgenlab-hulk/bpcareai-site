@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Hidden Sodium Traps in 'Healthy' Holiday Side Dishes — And How to Swap Them
-  Without Losing Flavor (Especially for Adults 58+ With Stage 2 CKD)
+title: 7 Sodium Traps in Holiday Sides That Harm Your Kidneys After 58
 slug: >-
   7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
-description: >-
-  Identifies unexpectedly high-sodium ingredients in seemingly low-salt dishes
-  (e.g., low-sodium broth-based gravies, 'no-salt-added' canned beans), with
-  renal-dietitian-approved substitutions and lab-verified sodium reductions.
+description: Low-sodium broth still packs 400-800mg sodium per serving. These 7 swaps cut sodium 40-60% — critical when kidney filtration (eGFR) is below 60.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: hidden sodium holiday side dishes kidney disease
+updated: '2026-03-26'
+primaryKeyword: hidden sodium in holiday side dishes with kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Post-Holiday Bile Acid Recycling Without Supplements —
-  For Adults 65–81 With Chronic Constipation and Low-Fat Diet History
+title: Improve Bile Flow Naturally After Holiday Meals — A Guide for 65+
 slug: >-
   natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
-description: >-
-  Focuses on meal sequencing (bitter greens before fats), timed fiber intake
-  (psyllium *after* fat consumption), and circadian-timed coffee consumption to
-  stimulate CCK and FXR signaling—not just laxative effects.
+description: Bile recycling (enterohepatic circulation) slows 30% on low-fat diets. Bitter greens before fats and psyllium after meals boost CCK without supplements.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: bile acid recycling natural constipation elderly
+updated: '2026-03-26'
+primaryKeyword: improve digestion and bile flow naturally after 65
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

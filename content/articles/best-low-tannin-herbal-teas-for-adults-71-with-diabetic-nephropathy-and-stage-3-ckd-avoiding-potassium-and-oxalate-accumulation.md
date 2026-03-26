@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Low-Tannin Herbal Teas for Adults 71+ With Diabetic Nephropathy and Stage
-  3 CKD — Avoiding Potassium and Oxalate Accumulation
+title: Which Herbal Teas Are Safe With Stage 3 Kidney Disease After 71?
 slug: >-
   best-low-tannin-herbal-teas-for-adults-71-with-diabetic-nephropathy-and-stage-3-ckd-avoiding-potassium-and-oxalate-accumulation
-description: >-
-  Compares infusion time, temperature, and leaf grade effects on mineral
-  leaching — with lab-tested potassium/oxalate profiles for 8 widely available
-  herbal teas safe for advanced kidney disease.
+description: 8 herbal teas tested for mineral buildup (potassium/oxalate) — steep under 3 min at 175°F to cut leaching 40%. Safe choices for kidney disease (nephropathy).
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: low-tannin herbal tea diabetic nephropathy
+updated: '2026-03-26'
+primaryKeyword: safe herbal teas for seniors with kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

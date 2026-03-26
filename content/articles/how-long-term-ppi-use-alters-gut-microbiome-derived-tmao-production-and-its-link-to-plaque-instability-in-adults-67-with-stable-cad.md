@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Long-Term PPI Use Alters Gut Microbiome-Derived TMAO Production — And Its
-  Link to Plaque Instability in Adults 67+ With Stable CAD
+title: How Acid Reflux Pills Raise a Heart Risk Marker After 67
 slug: >-
   how-long-term-ppi-use-alters-gut-microbiome-derived-tmao-production-and-its-link-to-plaque-instability-in-adults-67-with-stable-cad
-description: >-
-  Explains the Clostridium-associated choline→TMA→TMAO pathway disruption,
-  clinical TMAO cutoffs (>6.5 µmol/L), and evidence-backed probiotic strains to
-  mitigate risk.
+description: "Long-term acid blockers (PPIs) shift gut bacteria to overproduce a plaque-destabilizing compound (TMAO). Above 6.5 umol/L signals risk \u2014 probiotics can help."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: pills and tmao heart disease seniors 67+
+updated: '2026-03-26'
+primaryKeyword: do acid reflux pills raise heart disease risk
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,18 +1,11 @@
 ---
-title: >-
-  When to Worry About Sudden Fatigue After Holiday Meals — Distinguishing Normal
-  Fullness From Early Cardiac Diastolic Dysfunction in Women 65+ With Obesity
-  and Sleep Apnea
+title: Exhausted After Meals? When It Signals Heart Trouble for Women 65+
 slug: >-
   when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea
-description: >-
-  Helps readers differentiate benign postprandial lethargy from red-flag
-  symptoms (e.g., orthopnea onset, exertional dyspnea post-dinner, nocturnal
-  awakenings) linked to diastolic impairment — with validated screening cues for
-  home use.
+description: Lying down within 30 min of eating may signal stiff-heart failure (diastolic dysfunction). With sleep apnea, post-meal breathlessness is a red flag.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: sudden fatigue after holiday meals cardiac diastolic dysfunction
+updated: '2026-03-26'
+primaryKeyword: when is fatigue after eating a sign of heart problems
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

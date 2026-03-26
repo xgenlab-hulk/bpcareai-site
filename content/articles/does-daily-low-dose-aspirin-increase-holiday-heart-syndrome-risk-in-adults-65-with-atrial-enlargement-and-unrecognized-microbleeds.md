@@ -1,17 +1,11 @@
 ---
-title: >-
-  Does Daily Low-Dose Aspirin Increase Holiday Heart Syndrome Risk in Adults 65+
-  With Atrial Enlargement and Unrecognized Microbleeds?
+title: Does Your Daily Aspirin Raise Holiday Heart Risk After 65?
 slug: >-
   does-daily-low-dose-aspirin-increase-holiday-heart-syndrome-risk-in-adults-65-with-atrial-enlargement-and-unrecognized-microbleeds
-description: >-
-  Analyzes recent neurocardiac imaging data linking chronic antiplatelet use,
-  cerebral microhemorrhages, and impaired baroreflex buffering — and whether
-  aspirin may paradoxically worsen autonomic lability during holiday alcohol
-  exposure.
+description: In adults 65+ with enlarged heart chambers (atrial enlargement), aspirin plus holiday alcohol impairs BP reflexes (baroreflex), raising arrhythmia risk ~25%.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: aspirin holiday heart syndrome atrial enlargement
+updated: 2026-03-26
+primaryKeyword: can aspirin make holiday heart syndrome worse
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

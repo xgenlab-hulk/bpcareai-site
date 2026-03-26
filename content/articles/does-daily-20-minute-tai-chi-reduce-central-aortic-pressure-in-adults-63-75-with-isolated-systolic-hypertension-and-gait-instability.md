@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 20-Minute Tai Chi Reduce Central Aortic Pressure in Adults 63–75
-  With Isolated Systolic Hypertension and Gait Instability?
+title: Can 20 Minutes of Tai Chi Lower Aortic Pressure? (Ages 63-75)
 slug: >-
   does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability
-description: >-
-  Reviews pulse wave velocity and central augmentation index outcomes from
-  12-week tai chi trials in older adults with ISH, emphasizing biomechanical
-  load distribution and vagal tone modulation.
+description: 12-week trials show 5-8 mmHg drops in main-artery pressure (central aortic pressure) for adults 63-75 with high top-number BP and unsteady gait.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: tai chi central aortic pressure isolated systolic
+updated: '2026-03-26'
+primaryKeyword: does tai chi lower blood pressure in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

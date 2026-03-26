@@ -1,27 +1,18 @@
 ---
-title: >-
-  When to Worry About Sudden Thirst and Frequent Urination During Holiday Travel
-  — Especially If You're 69+ With Undiagnosed Prediabetes and Mild Heart Failure
-slug: >-
-  when-to-worry-about-sudden-thirst-and-frequent-urination-during-holiday-travel-especially-if-you-re-69-with-undiagnosed-prediabetes-and-mild-heart-failure
-description: >-
-  Identifies subtle, often-dismissed early signs of hyperosmolar hyperglycemic
-  state (HHS) in older adults during travel stress, dehydration, and disrupted
-  meds — with a step-by-step triage checklist.
+title: Sudden Thirst While Traveling for the Holidays? What It Means After 69
+slug: when-to-worry-about-sudden-thirst-and-frequent-urination-during-holiday-travel-especially-if-you-re-69-with-undiagnosed-prediabetes-and-mild-heart-failure
+description: Sudden unquenchable thirst plus frequent urination while traveling may signal a sugar crisis (hyperosmolar hyperglycemic state), not just dehydration.
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: sudden thirst holiday travel prediabetes
+updated: '2026-03-26'
+primaryKeyword: sudden thirst and frequent urination during holiday travel
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
-  - >-
-    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
-  - >-
-    7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
-  - >-
-    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+- when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
+- 7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
+- how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
+- 7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+- when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
 ---
 
 # When Sudden Thirst and Frequent Urination on Holiday Travel Could Signal Something Serious — Especially at 69+ With Prediabetes or Mild Heart Failure

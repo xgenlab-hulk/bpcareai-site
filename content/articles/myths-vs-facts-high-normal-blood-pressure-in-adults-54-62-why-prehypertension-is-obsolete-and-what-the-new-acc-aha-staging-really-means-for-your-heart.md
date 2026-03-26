@@ -1,17 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'High Normal' Blood Pressure in Adults 54–62 — Why
-  'Prehypertension' Is Obsolete and What the New ACC/AHA Staging *Really* Means
-  for Your Heart
+title: "Prehypertension Is Dead: What Adults 54-62 Need to Know Now"
 slug: >-
   myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart
-description: >-
-  Debunks outdated terminology and explains Stage 1 Hypertension staging using
-  individualized 10-year ASCVD risk, coronary calcium scoring thresholds, and
-  microvascular resistance metrics — not just cuff numbers.
+description: "'Prehypertension' is gone — now it's elevated BP (120-129) or stage 1 (130-139). True risk needs artery calcium scoring (CAC), not just cuff numbers."
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: prehypertension myth vs fact acc aha
+updated: '2026-03-26'
+primaryKeyword: is prehypertension still a real diagnosis
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

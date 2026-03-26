@@ -1,15 +1,11 @@
 ---
-title: >-
-  The Truth About 'Low-Sugar' Holiday Cookies Labeled for Seniors — Why 73%
-  Contain Maltitol-Induced Osmotic Diarrhea Triggers in Adults 71+ With IBS-C
+title: "Why 73% of 'Low-Sugar' Holiday Cookies Trigger Diarrhea After 71"
 slug: >-
   the-truth-about-low-sugar-holiday-cookies-labeled-for-seniors-why-73-contain-maltitol-induced-osmotic-diarrhea-triggers-in-adults-71-with-ibs-c
-description: >-
-  Debunks marketing claims around sugar alcohols, explains osmotic mechanisms in
-  aging gut motility, and provides a certified low-FODMAP cookie swap list.
+description: "Maltitol, a sugar alcohol (polyol), pulls water into aging guts \u2014 triggering osmotic diarrhea in 73% of adults 71+ with IBS-C. Low-FODMAP cookie swaps included."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: low-sugar cookies maltitol seniors ibs
+updated: '2026-03-25'
+primaryKeyword: why do low-sugar cookies cause diarrhea in seniors
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

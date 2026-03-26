@@ -1,16 +1,14 @@
 ---
 title: >-
-  10 Foods That Support Mitochondrial Resilience During Holiday Stress in Adults
-  57–74 With Chronic Fatigue
-slug: >-
-  10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue
+  Tired During Holidays? 10 Energy-Boosting Foods for Chronic Fatigue 57+
+slug: energy-foods-holiday-fatigue-chronic-fatigue-seniors
 description: >-
-  Highlights mitochondrial cofactor-rich foods (pomegranate, pasture-raised
-  eggs, shiitake, sprouted lentils) and timing strategies to sustain energy amid
-  social exhaustion.
+  Struggling with holiday fatigue? Discover 10 energy-boosting foods
+  (pomegranate, eggs, mushrooms) proven to fight chronic fatigue in adults
+  57-74. Simple timing tips included.
 date: '2026-01-07'
 updated: '2026-01-07'
-primaryKeyword: mitochondrial resilience holiday stress
+primaryKeyword: foods for energy during holidays chronic fatigue
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

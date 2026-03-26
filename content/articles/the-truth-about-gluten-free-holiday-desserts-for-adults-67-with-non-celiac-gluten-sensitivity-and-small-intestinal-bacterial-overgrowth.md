@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Gluten-Free' Holiday Desserts for Adults 67+ With Non-Celiac
-  Gluten Sensitivity and Small Intestinal Bacterial Overgrowth
+title: "Gluten-Free Desserts After 67: Why They May Worsen Gut Issues"
 slug: >-
   the-truth-about-gluten-free-holiday-desserts-for-adults-67-with-non-celiac-gluten-sensitivity-and-small-intestinal-bacterial-overgrowth
-description: >-
-  Examines how commercial GF labels mislead—focusing on FODMAP load, starch
-  retrogradation effects on fermentation, and hidden fructan sources in almond
-  flour and chicory root–sweetened treats.
+description: Almond flour and chicory root in GF treats hide FODMAPs that feed bacteria overgrowth (SIBO), causing bloating in 2 hours. Starch cooling cuts fermentation 25%.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: "health management holiday adults 67+"
+updated: '2026-03-26'
+primaryKeyword: are gluten-free desserts safe with gut bacteria overgrowth
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

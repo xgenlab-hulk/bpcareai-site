@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: Slow-Cooked Collard Greens (Vinegar-Brined, No Bacon) vs. Creamed
-  Spinach (Low-Fat Milk, No Cream Cheese) — Impact on Post-Meal Potassium and
-  eGFR Stability in Adults 73+ With Stage 3 CKD
+title: "Collard Greens vs. Creamed Spinach: Which Is Safer With CKD?"
 slug: >-
   a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd
-description: >-
-  Compares bioavailability, sodium-potassium ratios, and phosphorus load of two
-  popular sides — with lab-based rationale for kidney-safe holiday plating.
+description: Collards deliver 40% less absorbable potassium than spinach — critical when kidney filtration (eGFR) is below 60. Sodium and phosphorus ratios compared.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: collard greens vs creamed spinach kidney disease
+updated: 2026-03-26
+primaryKeyword: collard greens vs creamed spinach for kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

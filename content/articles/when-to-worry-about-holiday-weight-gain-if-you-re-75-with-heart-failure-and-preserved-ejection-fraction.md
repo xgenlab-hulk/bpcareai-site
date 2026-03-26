@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Holiday Weight Gain If You’re 75+ With Heart Failure and
-  Preserved Ejection Fraction
+title: Gained 3 Lbs Over the Holidays? What It Means With HFpEF at 75+
 slug: >-
   when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
-description: >-
-  Explains why even 3–4 lbs gained over December can trigger subtle
-  decompensation—like increased nocturnal urination, new supine dyspnea, or
-  unexplained falls—and when to call your clinician.
+description: "Just 3-4 lbs in December triggers fluid backup in stiff-heart failure (HFpEF). Key sign: bathroom trips jumping from 1 to 3+ nightly at age 75+."
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: holiday weight gain heart failure preserved ejection fraction
+updated: '2026-03-26'
+primaryKeyword: holiday weight gain with heart failure over 75
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

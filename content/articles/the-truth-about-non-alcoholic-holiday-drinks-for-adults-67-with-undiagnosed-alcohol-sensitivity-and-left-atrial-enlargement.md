@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Non-Alcoholic' Holiday Drinks for Adults 67+ With Undiagnosed
-  Alcohol Sensitivity and Left Atrial Enlargement
+title: Why Non-Alcoholic Drinks Still Trigger Heart Rhythm Issues After 67
 slug: >-
   the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
-description: >-
-  Debunks marketing claims around NA wines, mocktails, and fermented sodas by
-  analyzing their residual ethanol content, histamine load, and vasoreactive
-  compounds — and how these silently trigger ectopy in aging atria.
+description: NA wines keep 0.5% ethanol and 8-12 mg/L histamine — enough to trigger extra heartbeats (PACs) in adults 67+ with an enlarged left atrium.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: non-alcoholic drinks holiday heart syndrome
+updated: 2026-03-26
+primaryKeyword: can non-alcoholic drinks cause heart palpitations
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

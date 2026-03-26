@@ -1,17 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: ‘Just One Slice’ of Holiday Pie Won’t Raise My Triglycerides —
-  What Fasting Chylomicron Clearance Testing Reveals in Adults 61–75 With
-  Hypertriglyceridemia
+title: "'Just One Slice Won't Hurt' — The Pie and Triglycerides Myth"
 slug: >-
   myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
-description: >-
-  Uses clinical lipid kinetics data to debunk portion-size assumptions—showing
-  how even single servings of fructose-glucose syrups disrupt lipoprotein lipase
-  activity in aging adipose tissue.
+description: One slice delivers 15-20g fructose-glucose syrup — enough to slow fat-clearing enzymes (lipoprotein lipase) 4-6 hours in adults 61-75 with high triglycerides.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: one slice pie triglycerides seniors myth
+updated: '2026-03-26'
+primaryKeyword: does one slice of pie raise triglycerides in seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

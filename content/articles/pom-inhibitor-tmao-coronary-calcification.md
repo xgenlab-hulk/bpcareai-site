@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Dose Proton Pump Inhibitor Use Alters Gut Microbiome-Derived
-  Trimethylamine N-Oxide (TMAO) Production — And Accelerates Coronary Artery
-  Calcification in Adults 70+ With GERD and Stable CAD
+title: Why Acid Reflux Pills May Worsen Artery Calcification After 70
 slug: >-
   how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbiome-derived-trimethylamine-n-oxide-tmao-production-and-accelerates-coronary-artery-calcification-in-adults-70-with-gerd-and-stable-cad
-description: >-
-  Analyzes the gut-heart axis link between long-term PPI use, microbial TMAO
-  generation, and CAC progression — with dietary mitigation strategies validated
-  in cohort studies.
+description: Acid reflux drugs (PPIs) shift gut bacteria to overproduce TMAO — speeding artery calcium buildup (CAC) 18-22% faster in adults 70+ with stable heart disease.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: pom inhibitor tmao coronary calcification
+updated: '2026-03-26'
+primaryKeyword: can acid reflux pills cause artery calcification
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Are the Earliest Signs of Holiday-Induced Hypercoagulability in Adults
-  71+ With Atrial Fibrillation and Sedentary Winter Habits?
+title: Holiday Blood Clot Warning Signs Seniors With AFib Often Miss
 slug: >-
   what-are-the-earliest-signs-of-holiday-induced-hypercoagulability-in-adults-71-with-atrial-fibrillation-and-sedentary-winter-habits
-description: >-
-  Identifies subtle clinical clues (e.g., unilateral calf tightness, worsening
-  varicose discomfort, morning finger swelling) and safe, mobility-integrated
-  thromboprophylaxis strategies.
+description: Sitting 4+ hours raises clotting markers (D-dimer) 20% in adults 71+ with irregular heartbeat (AFib). Calf tightness and finger swelling are early flags.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: holiday hypercoagulability afib seniors
+updated: '2026-03-26'
+primaryKeyword: blood clot warning signs during holidays with afib
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

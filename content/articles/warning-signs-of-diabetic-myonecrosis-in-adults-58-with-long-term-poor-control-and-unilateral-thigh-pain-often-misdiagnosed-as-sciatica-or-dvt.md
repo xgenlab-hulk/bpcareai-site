@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs of Diabetic Myonecrosis in Adults 58+ With Long-Term Poor
-  Control and Unilateral Thigh Pain — Often Misdiagnosed as Sciatica or DVT
+title: Sudden Thigh Pain With Diabetes? It May Not Be Sciatica After 58
 slug: >-
   warning-signs-of-diabetic-myonecrosis-in-adults-58-with-long-term-poor-control-and-unilateral-thigh-pain-often-misdiagnosed-as-sciatica-or-dvt
-description: >-
-  Describes the MRI-confirmed presentation, distinguishes it from rhabdomyolysis
-  and compartment syndrome, and outlines urgent referral criteria to avoid
-  unnecessary anticoagulation.
+description: Deep one-sided thigh pain with poorly controlled diabetes may be muscle death (diabetic myonecrosis), not a clot. MRI confirms — anticoagulants worsen it.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: diabetic myonecrosis thigh pain warning signs
+updated: '2026-03-26'
+primaryKeyword: sudden thigh pain with diabetes that mimics sciatica
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

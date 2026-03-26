@@ -1,17 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Heart’s Electrical System Is Deteriorating — Detected via
-  Resting ECG Variability, Not Just Arrhythmia, in Adults 75+ With No Prior
-  Cardiac Diagnosis
+title: "7 Signs Your Heart's Electrical System Is Failing After 75"
 slug: >-
   7-silent-signs-your-heart-s-electrical-system-is-deteriorating-detected-via-resting-ecg-variability-not-just-arrhythmia-in-adults-75-with-no-prior-cardiac-diagnosis
-description: >-
-  Identifies subtle, pre-arrhythmic ECG patterns (e.g., T-wave alternans, QT
-  hysteresis) associated with age-related conduction system fibrosis —
-  actionable before atrial fibrillation or syncope occurs.
+description: T-wave alternans and QT shifts signal wiring decay (conduction system fibrosis) years before arrhythmia. A resting ECG catches 7 patterns most miss.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: silent electrical heart deterioration signs
+updated: '2026-03-26'
+primaryKeyword: "signs your heart's electrical system is failing"
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

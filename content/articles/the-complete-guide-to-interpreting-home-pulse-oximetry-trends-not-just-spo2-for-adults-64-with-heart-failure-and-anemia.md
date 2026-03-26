@@ -1,16 +1,14 @@
 ---
-title: >-
-  The Complete Guide to Interpreting Home Pulse Oximetry Trends — Not Just SpO2
-  — For Adults 64+ With Heart Failure and Anemia
+title: Your Pulse Oximeter Shows More Than SpO2 — Heart Failure After 64
 slug: >-
   the-complete-guide-to-interpreting-home-pulse-oximetry-trends-not-just-spo2-for-adults-64-with-heart-failure-and-anemia
 description: >-
-  Teaches how to read perfusion index (PI), pleth variability index (PVI), and
-  waveform morphology to detect early decompensation — with visual reference
-  charts and alarm thresholds.
+  A perfusion index (PI) drop below 0.5 often flags fluid buildup 24-48 hrs
+  before weight gain or swelling (edema). Covers waveform shape and alarm
+  thresholds.
 date: '2026-02-03'
-updated: '2026-02-03'
-primaryKeyword: home pulse oximetry heart failure anemia seniors
+updated: '2026-03-26'
+primaryKeyword: can a pulse oximeter detect heart failure getting worse
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

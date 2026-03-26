@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Dose Cadmium Exposure From Rice-Based Diets Alters Cardiac
-  Ryanodine Receptor Function in Adults 59–76 With Atrial Fibrillation and
-  Normal EF
+title: "Cadmium in Rice and Heart Rhythm: A Hidden AFib Trigger After 59"
 slug: >-
   how-chronic-low-dose-cadmium-exposure-from-rice-based-diets-alters-cardiac-ryanodine-receptor-function-in-adults-59-76-with-atrial-fibrillation-and-normal-ef
-description: >-
-  Links dietary cadmium accumulation to RyR2 phosphorylation dysregulation,
-  calcium leak, and increased AF burden — especially in populations consuming
-  >200g/day white rice.
+description: Eating >200g rice daily builds cadmium that disrupts heart calcium channels (ryanodine receptors). AFib episodes rise 25% above 0.8 mcg/L.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: cadmium exposure atrial fibrillation ryanodine receptor
+updated: '2026-03-26'
+primaryKeyword: can cadmium in rice worsen atrial fibrillation
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

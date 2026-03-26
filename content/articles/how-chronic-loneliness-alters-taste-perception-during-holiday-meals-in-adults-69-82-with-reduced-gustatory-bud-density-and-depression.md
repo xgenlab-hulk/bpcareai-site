@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Loneliness Alters Taste Perception During Holiday Meals in Adults
-  69–82 With Reduced Gustatory Bud Density and Depression
+title: Why Loneliness Dulls Taste Perception at Holiday Meals After 69
 slug: >-
   how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression
-description: >-
-  Explains neuroendocrine mechanisms linking social isolation to dulled
-  sweet/savory detection, and offers sensory-enhancement strategies (umami
-  layering, aroma-boosted herbs, texture variation).
+description: Chronic loneliness raises cortisol 20-30%, dulling taste buds (gustatory receptors) up to 40% — making adults 69-82 add excess salt and sugar at meals.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: loneliness taste perception holiday meals
+updated: 2026-03-26
+primaryKeyword: why loneliness changes how food tastes for seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

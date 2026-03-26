@@ -1,16 +1,11 @@
 ---
-title: >-
-  9 Foods That Stabilize Blood Sugar *Without* Adding Protein Powders or
-  Supplements — For Adults 57+ Managing Type 2 Diabetes at Holiday Dinners
+title: "9 Whole Foods That Steady Blood Sugar \u2014 No Powders Needed After 57"
 slug: >-
   9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners
-description: >-
-  Highlights whole-food, non-processed stabilizers (e.g., roasted chestnuts,
-  pickled red onions, toasted fennel seeds) with clinical data on delayed
-  gastric emptying and alpha-glucosidase inhibition.
+description: "Roasted chestnuts slow stomach emptying (gastric emptying) ~20 min; pickled onions cut glucose spikes 15%. Nine no-supplement picks for adults 57+."
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: blood sugar stabilizing holiday foods
+updated: '2026-03-26'
+primaryKeyword: foods that stabilize blood sugar without supplements
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

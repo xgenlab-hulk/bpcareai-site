@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Post-Meal Dizziness After Christmas Dinner in Adults 65+
-  With Diabetes and Orthostatic Hypotension
+title: Dizzy After Christmas Dinner? When It's More Than Overeating
 slug: >-
   when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
-description: >-
-  Distinguishes between benign postprandial hypotension and dangerous autonomic
-  failure — with red-flag symptoms, home BP monitoring protocols, and when to
-  adjust antihypertensives or GLP-1 agonists during seasonal routines.
+description: Blood pressure drops after meals (postprandial hypotension) hit 30% of seniors with diabetes. A systolic dip over 20 mmHg within 90 min needs evaluation.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: post-meal dizziness christmas diabetes orthostatic hypotension
+updated: '2026-03-26'
+primaryKeyword: dizzy after holiday dinner with diabetes and low BP
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

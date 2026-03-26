@@ -1,17 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Holiday Turkey Was Cooked in an Aluminum Pan — And Why
-  That Matters for Adults 67+ With Early-Stage Alzheimer’s Disease
+title: "7 Signs Your Turkey Pan Leaches Aluminum — Alzheimer's Risk After 67"
 slug: >-
   7-silent-signs-your-holiday-turkey-was-cooked-in-an-aluminum-pan-and-why-that-matters-for-adults-67-with-early-stage-alzheimer-s-disease
-description: >-
-  Reveals how trace aluminum leaching from unlined roasting pans interacts with
-  amyloid-beta aggregation pathways, referencing 2023 PET-MRI cohort data
-  linking holiday meal preparation methods to acute cognitive fluctuations in
-  mild neurodegenerative disease.
+description: "Unlined aluminum pans leach 2-5 mg per meal at acidic pH. In adults 67+ with early Alzheimer's, this may accelerate plaque buildup (amyloid-beta aggregation)."
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: aluminum cookware holiday meals alzheimer's cognition
+updated: '2026-03-26'
+primaryKeyword: "does cooking in aluminum pans worsen Alzheimer's"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

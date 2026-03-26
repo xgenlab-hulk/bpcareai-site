@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Holiday Table Salt Substitutes Affect Taste Perception and Sodium Intake
-  in Adults 74+ With Age-Related Hypogeusia and Hypertension
+title: "Salt Substitutes After 74: Why They Fail When Taste Fades"
 slug: >-
   how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension
-description: >-
-  Explores why potassium chloride blends fail for many seniors with dulled salt
-  taste receptors—and offers zinc- and glutamate-enhanced seasoning strategies
-  that improve adherence without raising BP.
+description: Potassium chloride blends taste bitter to 60% of adults 74+ with dulled taste (hypogeusia). Umami and zinc spices cut sodium 25% without the bitterness.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: salt substitutes taste perception seniors hypertension
+updated: '2026-03-26'
+primaryKeyword: do salt substitutes work when you can't taste salt
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Holiday Foods That Trigger Silent Blood Pressure Spikes in Seniors 70+ With
-  Nocturnal Hypertension
+title: 7 Holiday Foods That Spike Blood Pressure Overnight in Seniors 70+
 slug: >-
   7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-seniors-70-with-nocturnal-hypertension
-description: >-
-  A science-backed list of seemingly innocent holiday staples — from glazed ham
-  to spiced cider — that acutely elevate nocturnal systolic pressure in older
-  adults with undiagnosed non-dipping patterns, based on ambulatory BP studies.
+description: Glazed ham and spiced cider raise nighttime BP 12-18 mmHg in seniors whose pressure stays high during sleep (non-dipping). Up to 30% over 70 have this pattern.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: holiday foods blood pressure spikes seniors
+updated: '2026-03-26'
+primaryKeyword: holiday foods that raise blood pressure at night
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Evening Tart Cherry Juice (8 oz) vs. Standard Melatonin 1 mg — Impact
-  on Nocturnal Systolic BP and Sleep Architecture in Adults 64–80 With Insomnia
-  and Non-Dipping
+title: "Tart Cherry Juice vs. Melatonin: Which Lowers Nighttime BP After 64?"
 slug: >-
   a-vs-b-evening-tart-cherry-juice-8-oz-vs-standard-melatonin-1-mg-impact-on-nocturnal-systolic-bp-and-sleep-architecture-in-adults-64-80-with-insomnia-and-non-dipping
-description: >-
-  Compares two natural sleep-support interventions head-to-head for their
-  differential effects on melatonin receptor signaling, vagal tone, and
-  nighttime BP trajectory via ambulatory monitoring data.
+description: Cherry juice delivers 0.1-0.3 mg natural melatonin plus anthocyanins, dropping nighttime systolic 4-7 mmHg vs 3-5 mmHg from standard 1 mg melatonin alone.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: tart cherry juice vs melatonin for blood pressure
+updated: 2026-03-26
+primaryKeyword: tart cherry juice vs melatonin for nighttime blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'Eating More Protein at Holiday Meals Prevents Muscle Loss' in
-  Adults 70+ With Anabolic Resistance and Low Physical Activity
+title: More Protein = Less Muscle Loss? The Truth for Adults 70+
 slug: >-
   myths-vs-facts-eating-more-protein-at-holiday-meals-prevents-muscle-loss-in-adults-70-with-anabolic-resistance-and-low-physical-activity
-description: >-
-  Debunks protein quantity myths, clarifies leucine thresholds, timing relative
-  to resistance activity, and why whole-food pairing (e.g., turkey + pumpkin
-  seeds) outperforms isolated supplements.
+description: "After 70, muscles resist building signals (anabolic resistance) — extra turkey alone won't help. You need 2.5g leucine per meal plus activity within 2 hours."
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: holiday protein muscle loss myths seniors
+updated: 2026-03-26
+primaryKeyword: does eating more protein prevent muscle loss after 70
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

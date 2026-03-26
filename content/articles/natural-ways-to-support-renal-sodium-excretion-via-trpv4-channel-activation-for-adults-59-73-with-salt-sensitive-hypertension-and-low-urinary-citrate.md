@@ -1,16 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Renal Sodium Excretion via TRPV4 Channel Activation —
-  For Adults 59–73 With Salt-Sensitive Hypertension and Low Urinary Citrate
+title: Helping Your Kidneys Flush Sodium Naturally — for Adults 59-73
 slug: >-
   natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate
-description: >-
-  Details dietary (citrus peel polyphenols, cold-pressed olive oil phenolics),
-  thermal (contrast foot soaks), and mechanical (diaphragmatic breathing rhythm)
-  strategies to enhance tubular sodium clearance.
+description: Citrus peel compounds and contrast foot soaks activate kidney sodium channels (TRPV4), boosting clearance 15-20% in salt-sensitive adults.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: renal sodium excretion TRPV4 activation adults 59-73
+updated: '2026-03-26'
+primaryKeyword: natural ways to help kidneys flush out excess sodium
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Late-Night Gift Wrapping Affects Fasting Glucose in Adults 62–76 With
-  Prediabetes and Shifted Circadian Rhythms
+title: Why Late-Night Gift Wrapping Raises Morning Blood Sugar After 62
 slug: >-
   how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
-description: >-
-  Analyzes the metabolic impact of cognitively engaging, low-movement evening
-  activities on overnight glucose regulation — especially in those with
-  age-related circadian delay and insulin resistance.
+description: Gift wrapping past 10 p.m. raises stress hormones (cortisol) 15-20% via blue light — lifting next-morning glucose 8-15 mg/dL in adults 62-76 with prediabetes.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: late-night activity fasting glucose prediabetes
+updated: 2026-03-26
+primaryKeyword: does staying up late wrapping gifts raise blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

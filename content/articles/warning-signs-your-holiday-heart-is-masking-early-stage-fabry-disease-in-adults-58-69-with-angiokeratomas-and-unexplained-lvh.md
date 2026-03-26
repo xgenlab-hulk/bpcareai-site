@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your 'Holiday Heart' Is Masking Early-Stage Fabry Disease in
-  Adults 58–69 With Angiokeratomas and Unexplained LVH
+title: "When 'Holiday Heart' Hides Fabry Disease in Adults 58-69"
 slug: >-
   warning-signs-your-holiday-heart-is-masking-early-stage-fabry-disease-in-adults-58-69-with-angiokeratomas-and-unexplained-lvh
-description: >-
-  Spotlights under-recognized clues — such as acroparesthesias after mulled
-  wine, corneal verticillata, and episodic GI distress with alcohol — that point
-  to lysosomal storage disease rather than benign holiday arrhythmia.
+description: Angiokeratomas + unexplained thick heart wall (LVH) + tingling after wine? These 3 clues separate Fabry disease from holiday heart in adults 58-69.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: holiday heart syndrome fabry disease signs
+updated: 2026-03-26
+primaryKeyword: is holiday heart actually Fabry disease
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

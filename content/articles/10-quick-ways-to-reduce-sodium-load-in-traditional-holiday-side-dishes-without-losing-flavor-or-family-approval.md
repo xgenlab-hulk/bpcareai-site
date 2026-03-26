@@ -1,16 +1,11 @@
 ---
-title: >-
-  10 Quick Ways to Reduce Sodium Load in Traditional Holiday Side Dishes —
-  Without Losing Flavor or Family Approval
+title: 10 Ways to Cut Sodium in Holiday Sides Without Losing Flavor
 slug: >-
   10-quick-ways-to-reduce-sodium-load-in-traditional-holiday-side-dishes-without-losing-flavor-or-family-approval
-description: >-
-  Chef- and geriatric dietitian-tested swaps and prep hacks for stuffing, mashed
-  potatoes, green bean casserole, and gravy—optimized for taste, texture, and
-  sodium reduction (<600mg/serving).
+description: Green bean casserole packs 800+ mg sodium per serving. Rinsing beans and swapping broth cuts salt load (sodium content) under 400 mg with full flavor.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: reduce sodium in holiday side dishes seniors
+updated: '2026-03-26'
+primaryKeyword: how to lower sodium in holiday side dishes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

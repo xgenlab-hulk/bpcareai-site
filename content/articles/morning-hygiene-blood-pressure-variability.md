@@ -1,17 +1,11 @@
 ---
-title: >-
-  Simple Steps to Reduce Morning Blood Pressure Variability *During* Shaving or
-  Tooth Brushing — Not Just After — for Adults 67+ With White-Coat Amplification
-  and Carotid Sinus Hypersensitivity
+title: "Adults 67+: Why Shaving or Brushing Teeth Can Spike Your BP 20-30 mmHg"
 slug: >-
   simple-steps-to-reduce-morning-blood-pressure-variability-during-shaving-or-tooth-brushing-not-just-after-for-adults-67-with-white-coat-amplification-and-carotid-sinus-hypersensitivity
-description: >-
-  Addresses micro-stressors (mirror glare, cold water, facial nerve stimulation)
-  that trigger sympathetic surges in daily hygiene — with sensory-modulated
-  routine redesign.
+description: "Cold water and gum brushing fire a neck pressure reflex (carotid sinus response) spiking systolic BP 20-30 mmHg in seconds. Sit down and use lukewarm water."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: morning-hygiene-blood-pressure-variability
+updated: '2026-03-25'
+primaryKeyword: blood pressure spikes while shaving or brushing teeth
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

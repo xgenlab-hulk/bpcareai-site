@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Constipation Alters Vagal Tone and Elevates Nighttime Systolic
-  Pressure in Adults 60–75 With Mild Orthostatic Intolerance
+title: How Constipation Quietly Raises Nighttime Blood Pressure After 60
 slug: >-
   how-chronic-constipation-alters-vagal-tone-and-elevates-nighttime-systolic-pressure-in-adults-60-75-with-mild-orthostatic-intolerance
-description: >-
-  Links colonic distension, afferent vagal signaling, and impaired nocturnal
-  baroreflex buffering — with dietary and mechanical interventions to restore
-  circadian BP rhythm.
+description: Chronic constipation disrupts nerve signaling to the heart (vagal tone), raising nighttime systolic BP 10-15 mmHg in adults 60-75 with dizziness on standing.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: constipation vagal tone nighttime bp
+updated: '2026-03-26'
+primaryKeyword: can constipation raise your blood pressure at night
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

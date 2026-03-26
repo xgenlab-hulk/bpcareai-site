@@ -1,16 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Postprandial Vagal Tone *Without* Supplements — Using
-  Only Holiday Meal Timing, Seating Posture, and Breath Counting in Adults 69+
+title: Calm Your Digestion After Holiday Meals With Posture and Breathing
 slug: >-
   natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69
-description: >-
-  A practical, non-pharmacologic protocol to enhance parasympathetic meal
-  response using evidence-based behavioral levers: pre-meal vagal priming,
-  upright posture duration, and paced exhalation ratios.
+description: "Sitting upright 20 min post-meal and 4:8 exhale breathing raise rest-and-digest nerve activity (vagal tone) 18-22% — cutting bloating and BP dips after 69."
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: natural vagal tone support seniors holiday
+updated: '2026-03-26'
+primaryKeyword: how to calm digestion after eating without supplements
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

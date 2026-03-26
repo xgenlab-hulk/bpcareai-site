@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Pancreatic Beta-Cell Resilience Using Polyphenol-Rich
-  Fermented Foods — For Adults 56–72 With Recent-Onset Type 2 Diabetes and High
-  hs-CRP
+title: Fermented Foods for Insulin Cell Health in New Type 2 Diabetes
 slug: >-
   natural-ways-to-support-pancreatic-beta-cell-resilience-using-polyphenol-rich-fermented-foods-for-adults-56-72-with-recent-onset-type-2-diabetes-and-high-hs-crp
-description: >-
-  Reviews human and preclinical data on fermented black soybean, purple cabbage
-  kimchi, and sourdough rye — focusing on Nrf2 activation, ER stress reduction,
-  and postprandial insulin kinetics.
+description: Fermented black soybean and kimchi activate cell defense (Nrf2) that cuts stress on insulin-producing cells (beta cells) by 20-35% in adults 56-72.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: fermented foods beta-cell resilience type 2 diabetes
+updated: 2026-03-26
+primaryKeyword: do fermented foods help protect insulin-producing cells
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Are the Earliest Signs Your Evening Magnesium Glycinate Dose Is Causing
-  *Subclinical* BP Instability — Even With Normal Serum Levels in Adults 66+
-  With Mild Diastolic Dysfunction?
+title: "Your Evening Magnesium Might Destabilize Blood Pressure After 66"
 slug: >-
   what-are-the-earliest-signs-your-evening-magnesium-glycinate-dose-is-causing-subclinical-bp-instability-even-with-normal-serum-levels-in-adults-66-with-mild-diastolic-dysfunction
-description: >-
-  Identifies subtle indicators (e.g., morning fatigue despite normal BP,
-  nocturnal heart rate variability loss, post-void SBP overshoot) linked to
-  magnesium’s calcium-channel modulation.
+description: "Even with normal labs, evening magnesium widens overnight BP swings 8-12 mmHg. Morning fatigue and post-void pressure spikes (SBP overshoot) are early clues."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: magnesium-glycinate-blood-pressure-instability
+updated: '2026-03-25'
+primaryKeyword: can magnesium glycinate cause blood pressure swings
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

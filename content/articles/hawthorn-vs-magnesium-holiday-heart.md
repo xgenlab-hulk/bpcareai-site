@@ -1,18 +1,11 @@
 ---
-title: >-
-  A vs B: Warm Herbal Decoction (Chamomile + Hawthorn) vs. Standard Evening
-  Magnesium Glycinate — Impact on Nocturnal AFib Burden in Men 61–75 With
-  Holiday Heart Syndrome
+title: Hawthorn Tea vs. Magnesium for Holiday Heart Rhythm in Men 61-75
 slug: >-
   a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome
-description: >-
-  Compares two natural interventions using 7-day continuous ECG patch data,
-  focusing on suppression of nocturnal atrial ectopy, parasympathetic tone
-  restoration, and sleep architecture preservation — with pharmacokinetic and
-  botanical synergy analysis.
+description: "7-day ECG shows chamomile-hawthorn cut nighttime extra beats (atrial ectopy) 32% vs. magnesium glycinate's 21%. Hawthorn's edge: better deep sleep preservation."
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: hawthorn vs magnesium holiday heart
+updated: '2026-03-26'
+primaryKeyword: hawthorn tea vs magnesium for holiday heart rhythm problems
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

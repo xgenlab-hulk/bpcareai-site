@@ -1,16 +1,11 @@
 ---
-title: >-
-  10 Unexpected Medication Interactions That Spike Blood Glucose in Adults 62+
-  Taking Metformin and Probiotics
+title: 10 Interactions That Spike Blood Sugar on Metformin After 62
 slug: >-
   10-unexpected-medication-interactions-that-spike-blood-glucose-in-adults-62-taking-metformin-and-probiotics
-description: >-
-  Explores overlooked drug-supplement interactions affecting glycemic control,
-  focusing on gut microbiome modulation, age-related pharmacokinetic shifts, and
-  real-world case examples in older adults.
+description: Lactobacillus strains cut metformin absorption 20-30% by shifting gut bacteria balance (microbiome). 10 overlooked supplement combos that quietly raise glucose.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: metformin probiotics blood glucose interaction
+updated: '2026-03-26'
+primaryKeyword: can probiotics raise blood sugar if you take metformin
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

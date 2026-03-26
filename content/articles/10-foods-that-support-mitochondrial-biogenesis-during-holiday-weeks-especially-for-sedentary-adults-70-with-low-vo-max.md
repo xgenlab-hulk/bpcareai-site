@@ -1,16 +1,13 @@
 ---
-title: >-
-  10 Foods That Support Mitochondrial Biogenesis During Holiday Weeks—Especially
-  for Sedentary Adults 70+ With Low VO₂ Max
-slug: >-
-  10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+title: 10 Foods to Boost Energy & Reduce Fatigue (Seniors 70+ Guide)
+slug: energy-boosting-foods-seniors-over-70
 description: >-
-  Highlights mitochondria-targeted nutrients (e.g., urolithin A precursors,
-  sulforaphane-rich sides, nitrate-dense greens) with demonstrated upregulation
-  of PGC-1α in aging muscle—plus simple prep hacks.
+  Discover 10 foods to boost energy & reduce fatigue for seniors
+  70+—pomegranate, berries, walnuts, green tea. Natural stamina support, easy
+  prep.
 date: '2026-01-02'
 updated: '2026-01-02'
-primaryKeyword: foods mitochondrial biogenesis seniors
+primaryKeyword: foods boost energy reduce fatigue seniors over 70
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

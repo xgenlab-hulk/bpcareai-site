@@ -1,16 +1,13 @@
 ---
-title: >-
-  How Intermittent Fasting Alters Hepatic CYP2E1 Expression — And Why That
-  Changes Alcohol Metabolism in Adults 69+ With Well-Controlled Type 2 Diabetes
+title: "Intermittent Fasting and Alcohol: A Liver Risk After 69"
 slug: >-
   how-intermittent-fasting-alters-hepatic-cyp2e1-expression-and-why-that-changes-alcohol-metabolism-in-adults-69-with-well-controlled-type-2-diabetes
 description: >-
-  Explains how time-restricted eating amplifies alcohol-induced oxidative stress
-  in the liver due to enzyme induction — with practical guidance on safe weekly
-  ethanol limits during fasting windows.
+  Fasting upregulates a liver enzyme (CYP2E1) by 40-60%, amplifying alcohol
+  toxicity. Safe limits drop to under 4 drinks per week during fasting windows.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: intermittent fasting alcohol metabolism diabetes
+updated: '2026-03-26'
+primaryKeyword: intermittent fasting and alcohol safety with diabetes
 topicCluster: complications-management
 image: ''
 relatedSlugs:

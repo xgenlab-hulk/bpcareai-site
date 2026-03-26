@@ -1,30 +1,18 @@
 ---
-title: >-
-  The Truth About ‘Guilt-Free’ Holiday Smoothie Bowls Served at Family Brunches
-  — Why Frozen Fruit Blends Can Spike Triglycerides in Men 68+ With Metabolic
-  Syndrome
-slug: >-
-  the-truth-about-guilt-free-holiday-smoothie-bowls-served-at-family-brunches-why-frozen-fruit-blends-can-spike-triglycerides-in-men-68-with-metabolic-syndrome
-description: >-
-  Debunks 'healthy' marketing claims around blended fruit bowls by analyzing
-  fructose load, glycemic load per serving, and postprandial lipid responses in
-  older men with insulin resistance.
+title: Why 'Healthy' Smoothie Bowls Spike Triglycerides in Men Over 68
+slug: the-truth-about-guilt-free-holiday-smoothie-bowls-served-at-family-brunches-why-frozen-fruit-blends-can-spike-triglycerides-in-men-68-with-metabolic-syndrome
+description: A typical holiday smoothie bowl packs 45-60g fructose — enough to raise blood fats (triglycerides) 30-50% within 4 hours in men 68+ with insulin resistance.
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: holiday smoothie bowls triglycerides
+updated: '2026-03-26'
+primaryKeyword: do smoothie bowls raise triglycerides in older men
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
-  - >-
-    myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
-  - >-
-    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
-  - >-
-    how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
-  - >-
-    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
-  - >-
-    the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld
+- myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
+- the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+- how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
+- 7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
+- the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld
 ---
 
 # Why Holiday Smoothie Bowls Triglycerides Deserve a Second Look — Especially After 68

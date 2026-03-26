@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Are the Hidden Risks of 'Non-Stick' Ceramic Cookware Coated With Titanium
-  Dioxide Nanoparticles — And How That Alters Glucose Uptake in Skeletal Muscle
-  in Adults 59–67 With Insulin Resistance?
+title: "Nonstick Ceramic Cookware and Blood Sugar — Hidden Risk After 59"
 slug: >-
   what-are-the-hidden-risks-of-non-stick-ceramic-cookware-coated-with-titanium-dioxide-nanoparticles-and-how-that-alters-glucose-uptake-in-skeletal-muscle-in-adults-59-67-with-insulin-resistance
-description: >-
-  Examines nanoparticle translocation during high-heat cooking, mitochondrial
-  uncoupling in myocytes, and safer cookware validation standards for metabolic
-  health.
+description: "Ceramic coatings shed tiny particles (titanium dioxide nanoparticles) at high heat, cutting muscle sugar uptake 12-18% in adults 59+ with insulin resistance."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: titanium dioxide cookware glucose uptake
+updated: '2026-03-25'
+primaryKeyword: does nonstick ceramic cookware affect blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

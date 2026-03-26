@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Intermittent Fasting During Thanksgiving Week Affects Gastric Emptying in
-  Adults 64–78 With Diabetic Gastroparesis and Chronic Constipation
+title: "Intermittent Fasting With Gastroparesis: Holiday Risks After 64"
 slug: >-
   how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
-description: >-
-  Explores the physiological impact of time-restricted eating around major
-  holiday meals on stomach motility, using gastric scintigraphy and symptom
-  diaries from a 2023 pilot cohort study.
+description: Skipping meals then feasting slows stomach emptying (gastroparesis) 35% in 48 hours. For adults 64-78, timed small meals prevent dangerous glucose swings.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: intermittent fasting gastroparesis holiday meals
+updated: '2026-03-26'
+primaryKeyword: is intermittent fasting safe with gastroparesis
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

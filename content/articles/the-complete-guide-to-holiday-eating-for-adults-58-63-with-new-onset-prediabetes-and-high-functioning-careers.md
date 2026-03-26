@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Holiday Eating for Adults 58–63 With New-Onset
-  Prediabetes and High-Functioning Careers
+title: "Holiday Eating With New Prediabetes: A Guide for Busy Adults 58+"
 slug: >-
   the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
-description: >-
-  A time-efficient, office-compatible strategy covering lunchbox prep, smart
-  restaurant ordering, and after-work social event navigation — without calorie
-  counting or meal logging.
+description: "Insulin sensitivity drops ~1%/year after 50, but timed meals can lower A1C 0.6 points in 3 months — no calorie counting or skipping work events needed."
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: holiday eating prediabetes working adults
+updated: '2026-03-26'
+primaryKeyword: holiday eating with new prediabetes after 58
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

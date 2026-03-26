@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Late-Night Gift Wrapping Under Blue-Light LED Lamps Disrupts Cardiac
-  Repolarization Reserve in Adults 57–69 With Subclinical QT Prolongation
+title: Late-Night Blue Light and Heart Rhythm Risk in Adults 57-69
 slug: >-
   how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation
-description: >-
-  Connects circadian photoreceptor activation, melatonin suppression, and
-  delayed IKs channel recovery to increased susceptibility to holiday-triggered
-  ventricular arrhythmias — with ECG-derived T-wave morphology clustering
-  evidence.
+description: "LED screens after 10 PM suppress melatonin 55%, delaying heart signal recovery (QT interval) by 8-12 ms. Adults 57-69 with borderline QT: switch to amber light."
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: "health management seniors"
+updated: '2026-03-26'
+primaryKeyword: does blue light at night affect heart rhythm
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

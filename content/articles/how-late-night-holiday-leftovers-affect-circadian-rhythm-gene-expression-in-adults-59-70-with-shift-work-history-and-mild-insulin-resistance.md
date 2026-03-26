@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Late-Night Holiday Leftovers Affect Circadian Rhythm Gene Expression in
-  Adults 59–70 With Shift-Work History and Mild Insulin Resistance
+title: Late-Night Leftovers and Next-Day Blood Sugar — Risks After 59
 slug: >-
   how-late-night-holiday-leftovers-affect-circadian-rhythm-gene-expression-in-adults-59-70-with-shift-work-history-and-mild-insulin-resistance
-description: >-
-  Draws on salivary cortisol, melatonin, and PER3 mRNA expression data from a
-  2023 chrononutrition trial examining timing effects of post-10 p.m. meals on
-  metabolic flexibility and next-day glucose tolerance.
+description: Eating after 10 p.m. suppresses the clock gene PER3 by 35%, cutting next-morning glucose tolerance (insulin sensitivity) 18% in adults 59-70 with shift-work.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: late-night leftovers circadian gene expression
+updated: '2026-03-26'
+primaryKeyword: do late night leftovers affect blood sugar next morning
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

@@ -1,18 +1,11 @@
 ---
-title: >-
-  Why Sudden Weight Loss (>5% in 3 Months) in Adults 80+ With Stable Heart
-  Failure Predicts 1-Year Mortality Better Than NYHA Class or BNP — And What to
-  Do Next
+title: Why Sudden Weight Loss After 80 With Heart Failure Is a Red Flag
 slug: >-
   why-sudden-weight-loss-5-in-3-months-in-adults-80-with-stable-heart-failure-predicts-1-year-mortality-better-than-nyha-class-or-bnp-and-what-to-do-next
-description: >-
-  Explains the prognostic weight of unintentional cachexia in frail older HF
-  patients, distinguishing cardiac vs. malignancy vs. neurodegenerative
-  drivers—and outlines rapid-assessment protocols for outpatient geriatric
-  cardiology teams.
+description: Losing >5% body weight in 3 months with stable heart failure (cardiac cachexia) predicts 1-year mortality better than BNP or NYHA class alone.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: weight loss heart failure elderly prognosis
+updated: '2026-03-26'
+primaryKeyword: unexpected weight loss with heart failure over 80
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

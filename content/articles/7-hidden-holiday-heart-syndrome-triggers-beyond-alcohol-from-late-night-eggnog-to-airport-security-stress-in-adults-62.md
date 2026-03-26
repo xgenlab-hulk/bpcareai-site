@@ -1,16 +1,13 @@
 ---
 title: >-
-  7 Hidden Holiday Heart Syndrome Triggers Beyond Alcohol — From Late-Night
-  Eggnog to Airport Security Stress in Adults 62+
+  Holiday Heart Syndrome Beyond Alcohol? (7 Hidden Triggers 62+)
 slug: >-
-  7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  holiday-heart-triggers-beyond-alcohol-62
 description: >-
-  Identifies non-alcoholic, often-overlooked holiday stressors (e.g., travel
-  anxiety, sodium-laden appetizers, disrupted sleep cycles) that acutely elevate
-  arrhythmia risk in aging hearts.
+  Holiday heart syndrome without drinking? Discover 7 non-alcoholic triggers—travel stress, salty appetizers, sleep loss—that spike arrhythmia risk in adults 62+. Includes at-home symptom checks today.
 date: '2026-02-17'
 updated: '2026-02-17'
-primaryKeyword: non-alcoholic holiday heart syndrome triggers
+primaryKeyword: holiday heart syndrome non-alcoholic triggers seniors
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Holiday Foods That Trigger Silent Blood Pressure Spikes in Adults 72+ With
-  Isolated Systolic Hypertension — And What to Serve Instead
+title: "7 Holiday Foods That Silently Spike Blood Pressure After 72"
 slug: >-
   7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
-description: >-
-  Identifies commonly served holiday foods that cause delayed, asymptomatic
-  systolic surges in older adults with stiffened arteries—and offers clinically
-  appropriate swaps that maintain flavor and tradition.
+description: "With stiff arteries (isolated systolic hypertension), hidden sodium in holiday gravy and stuffing — 600-1200mg each — spikes BP without symptoms."
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: holiday foods blood pressure spikes seniors
+updated: '2026-03-25'
+primaryKeyword: holiday foods that raise blood pressure in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

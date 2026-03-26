@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: 3-Minute Chair Yoga vs. 3-Minute Guided Breath-Hold (4-7-8) for
-  Immediate Systolic Reduction in Adults 71+ With Anxiety-Driven Hypertension
+title: "Chair Yoga vs. 4-7-8 Breathing: Which Lowers BP Faster After 71?"
 slug: >-
   a-vs-b-3-minute-chair-yoga-vs-3-minute-guided-breath-hold-4-7-8-for-immediate-systolic-reduction-in-adults-71-with-anxiety-driven-hypertension
-description: >-
-  Compares acute autonomic effects — vagal activation, cerebral perfusion
-  pressure shifts, and cortical arousal suppression — using real-time PPG and
-  HRV metrics in frail seniors.
+description: Chair yoga lowers systolic 7 mmHg over 10 min; 4-7-8 breathing drops it 5 mmHg in 3 min. For anxiety-driven spikes (white coat effect), breathing wins.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: chair yoga vs breath hold bp
+updated: '2026-03-26'
+primaryKeyword: chair yoga vs breathing exercises to lower blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

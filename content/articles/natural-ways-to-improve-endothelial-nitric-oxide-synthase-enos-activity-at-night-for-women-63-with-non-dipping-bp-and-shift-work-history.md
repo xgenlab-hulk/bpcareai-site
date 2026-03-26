@@ -1,29 +1,18 @@
 ---
-title: >-
-  Natural Ways to Improve Endothelial Nitric Oxide Synthase (eNOS) Activity at
-  Night — For Women 63+ With Non-Dipping BP and Shift Work History
-slug: >-
-  natural-ways-to-improve-endothelial-nitric-oxide-synthase-enos-activity-at-night-for-women-63-with-non-dipping-bp-and-shift-work-history
-description: >-
-  Focuses on timed L-citrulline, beetroot powder, and circadian-aligned
-  magnesium glycinate to boost nocturnal NO bioavailability — with rationale
-  tied to eNOS uncoupling mechanisms.
+title: "Women 63+: Why Your Blood Pressure Stays High at Night"
+slug: natural-ways-to-improve-endothelial-nitric-oxide-synthase-enos-activity-at-night-for-women-63-with-non-dipping-bp-and-shift-work-history
+description: Shift work blunts nighttime artery relaxation (eNOS activity) up to 40%. Beetroot powder at 7 PM plus L-citrulline restores nocturnal dipping in 4-6 weeks.
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: boost nocturnal nitric oxide women 63+ non-dipping
+updated: '2026-03-26'
+primaryKeyword: how to lower nighttime blood pressure naturally women
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
-  - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
-  - >-
-    natural-ways-to-enhance-myocardial-nitric-oxide-synthase-coupling-without-l-arginine-using-beetroot-derived-nitrate-exercise-timing-and-oral-microbiome-support-in-sedentary-adults-68
-  - >-
-    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
-  - >-
-    a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
-  - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
+- natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+- natural-ways-to-enhance-myocardial-nitric-oxide-synthase-coupling-without-l-arginine-using-beetroot-derived-nitrate-exercise-timing-and-oral-microbiome-support-in-sedentary-adults-68
+- natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
+- a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
+- how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # Natural Ways to Boost Nocturnal Nitric Oxide in Women 63+ With Non-Dipping BP and Shift Work History

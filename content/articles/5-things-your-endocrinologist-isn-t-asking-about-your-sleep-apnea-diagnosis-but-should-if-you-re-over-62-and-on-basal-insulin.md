@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Your Endocrinologist Isn’t Asking About Your Sleep Apnea
-  Diagnosis—But Should, If You’re Over 62 and on Basal Insulin
-slug: >-
-  5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
+title: Sleep Apnea Causing Nighttime Lows? (Basal Insulin 62+)
+slug: sleep-apnea-basal-insulin-62
 description: >-
-  Identifies critical gaps in clinical evaluation: CPAP adherence tracking,
-  hypoxia-driven hepatic glucose overproduction, and why AHI alone fails to
-  predict nocturnal hypoglycemia risk.
+  On basal insulin and have sleep apnea? Get 3 at-home checks for overnight glucose safety, CPAP timing strategies, and when to adjust meds—proven for adults 62+.
 date: '2025-12-27'
 updated: '2025-12-27'
-primaryKeyword: sleep apnea and basal insulin in seniors
+primaryKeyword: sleep apnea basal insulin seniors 62
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

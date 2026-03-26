@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Truth About ‘Healthy’ Holiday Stuffing: Why Even Whole-Grain Versions Can
-  Worsen Postprandial Hypotension in Adults 68+ With Carotid Stenosis
+title: Why 'Healthy' Holiday Stuffing Drops Blood Pressure in Adults 68+
 slug: >-
   the-truth-about-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-postprandial-hypotension-in-adults-68-with-carotid-stenosis
-description: >-
-  Debunks common assumptions about fiber-rich holiday sides by analyzing starch
-  digestibility, gastric emptying rate, and cerebral perfusion data in patients
-  with cerebrovascular compromise — with safer, circulation-stabilizing recipe
-  swaps.
+description: Even whole-grain stuffing triggers a blood pressure drop (postprandial hypotension) of 15-25 mmHg in adults with narrowed neck arteries (carotid stenosis).
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: holiday stuffing postprandial hypotension
+updated: '2026-03-26'
+primaryKeyword: can whole grain stuffing lower blood pressure too much
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

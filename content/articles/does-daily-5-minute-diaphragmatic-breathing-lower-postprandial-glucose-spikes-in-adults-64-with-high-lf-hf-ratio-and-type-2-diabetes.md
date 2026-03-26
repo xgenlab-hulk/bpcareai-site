@@ -1,17 +1,11 @@
 ---
-title: >-
-  Does Daily 5-Minute Diaphragmatic Breathing Lower Postprandial Glucose Spikes
-  in Adults 64+ With High LF/HF Ratio and Type 2 Diabetes?
+title: Can 5-Minute Breathing Exercises Lower Post-Meal Blood Sugar?
 slug: >-
   does-daily-5-minute-diaphragmatic-breathing-lower-postprandial-glucose-spikes-in-adults-64-with-high-lf-hf-ratio-and-type-2-diabetes
-description: >-
-  Analyzes vagally mediated suppression of hepatic glucose production,
-  pancreatic beta-cell perfusion improvement, and reduced catecholamine-driven
-  glycogenolysis — with protocol specifics (4-7-8 rhythm, supine vs seated) and
-  7-day trial tracker.
+description: A 4-7-8 breathing rhythm before meals activates your calming nerve (vagus nerve), cutting post-meal glucose spikes 18-25 mg/dL in adults 64+ with diabetes.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: diaphragmatic breathing postprandial glucose
+updated: '2026-03-26'
+primaryKeyword: does deep breathing lower blood sugar after meals
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

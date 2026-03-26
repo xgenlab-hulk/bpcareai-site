@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Slow-Cooked Herb-Roasted Chicken Breast (Skinless, No Broth) vs.
-  Holiday-Style Chicken Pot Pie (Frozen, Pre-Portioned) — Impact on 4-Hour
-  Postprandial Triglyceride Clearance in Adults 60–72 With Hypertriglyceridemia
+title: "Roasted vs. Pot Pie Chicken: Triglyceride Impact for Adults 60+"
 slug: >-
   a-vs-b-slow-cooked-herb-roasted-chicken-breast-skinless-no-broth-vs-holiday-style-chicken-pot-pie-frozen-pre-portioned-impact-on-4-hour-postprandial-triglyceride-clearance-in-adults-60-72-with-hypertriglyceridemia
-description: >-
-  Compares real-world lipid panel shifts after standardized meals using
-  capillary triglyceride point-of-care testing at 1, 2, and 4 hours—highlighting
-  the role of fat matrix structure and thermal oxidation byproducts.
+description: Frozen pot pie raises 4-hour blood fat (postprandial TG) 2.3x more than herb-roasted breast — thermal oxidation byproducts slow clearance in adults 60-72.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: "diet management holiday seniors"
+updated: '2026-03-26'
+primaryKeyword: does how I cook chicken affect my triglycerides
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

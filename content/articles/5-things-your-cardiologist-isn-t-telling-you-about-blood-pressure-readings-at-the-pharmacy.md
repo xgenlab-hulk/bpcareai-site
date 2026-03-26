@@ -1,16 +1,13 @@
 ---
 title: >-
-  5 Things Your Cardiologist Isn’t Telling You About Blood Pressure Readings at
-  the Pharmacy
+  Pharmacy BP Readings Wrong? (5 Accuracy Issues After 50)
 slug: >-
-  5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
+  pharmacy-bp-accuracy-issues-50
 description: >-
-  Uncovers measurement errors, device calibration gaps, and white-coat vs.
-  masked hypertension pitfalls in public kiosks—and how to interpret those
-  numbers meaningfully.
+  Pharmacy BP readings confusing? Discover why 30% of kiosks drift by 5-10 mm Hg, cuff errors that skew systolic pressure, and 3 white-coat patterns missed in public screenings (ages 50+).
 date: '2025-12-19'
 updated: '2025-12-19'
-primaryKeyword: pharmacy blood pressure reading accuracy
+primaryKeyword: pharmacy blood pressure accuracy seniors 50
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

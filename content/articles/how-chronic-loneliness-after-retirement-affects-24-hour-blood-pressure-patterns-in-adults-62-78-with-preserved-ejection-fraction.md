@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Loneliness After Retirement Affects 24-Hour Blood Pressure
-  Patterns in Adults 62–78 With Preserved Ejection Fraction
+title: Retired and Lonely? How Isolation Shifts Your BP Pattern
 slug: >-
   how-chronic-loneliness-after-retirement-affects-24-hour-blood-pressure-patterns-in-adults-62-78-with-preserved-ejection-fraction
-description: >-
-  Explores the emerging science linking social isolation to non-dipping BP,
-  nocturnal hypertension, and increased arterial stiffness in recently retired
-  adults — with actionable monitoring and behavioral interventions.
+description: Social isolation raises nighttime systolic BP 7-11 mmHg by blunting the normal overnight drop (non-dipping pattern) — a hidden stroke risk after retirement.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: loneliness and blood pressure in retirees
+updated: 2026-03-26
+primaryKeyword: does loneliness raise blood pressure after retirement
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

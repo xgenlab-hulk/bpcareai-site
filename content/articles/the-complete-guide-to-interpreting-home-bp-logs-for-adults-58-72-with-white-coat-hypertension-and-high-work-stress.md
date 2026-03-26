@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting Home BP Logs for Adults 58–72 With
-  White-Coat Hypertension and High Work Stress
+title: "Reading Your Home BP Log: Stress Spikes vs. Real Hypertension"
 slug: >-
   the-complete-guide-to-interpreting-home-bp-logs-for-adults-58-72-with-white-coat-hypertension-and-high-work-stress
-description: >-
-  Walks through log analysis: identifying stress-triggered surges (10 a.m.–3
-  p.m.), distinguishing white-coat vs. masked patterns, and using variability
-  metrics (SD, CV) as independent risk markers.
+description: BP jumping 15-25 mmHg from 10 a.m. to 3 p.m. may be stress, not hypertension. Variability metrics (SD, CV) separate clinic nerves (white-coat effect) from risk.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: home bp logs white-coat hypertension stress
+updated: '2026-03-26'
+primaryKeyword: how to read home blood pressure logs with stress
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

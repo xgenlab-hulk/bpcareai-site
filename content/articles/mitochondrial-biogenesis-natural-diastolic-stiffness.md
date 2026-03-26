@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Improve Cardiac Mitochondrial Biogenesis *Without* Supplements
-  — Using Postprandial Cold Exposure and Time-Restricted Eating Windows in
-  Adults 61+ With Diastolic Stiffness
+title: Cold Exposure After Meals May Ease a Stiff Heart After 61
 slug: >-
   natural-ways-to-improve-cardiac-mitochondrial-biogenesis-without-supplements-using-postprandial-cold-exposure-and-time-restricted-eating-windows-in-adults-61-with-diastolic-stiffness
-description: >-
-  Examines how non-pharmacologic metabolic triggers (e.g., 10°C ambient
-  post-meal exposure + 8-h feeding window) activate PGC-1α pathways and improve
-  diastolic relaxation on echocardiography.
+description: "Post-meal cold (10°C, 15 min) activates energy pathways (PGC-1α) in heart cells, improving relaxation between beats (diastolic function) on echo within 8 weeks."
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: mitochondrial biogenesis natural diastolic stiffness
+updated: '2026-03-26'
+primaryKeyword: can cold exposure after meals help a stiff heart relax
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

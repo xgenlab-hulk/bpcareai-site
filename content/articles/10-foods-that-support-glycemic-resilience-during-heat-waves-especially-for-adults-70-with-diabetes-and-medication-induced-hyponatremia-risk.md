@@ -1,15 +1,12 @@
 ---
-title: >-
-  10 Foods That Support Glycemic Resilience During Heat Waves—Especially for
-  Adults 70+ With Diabetes and Medication-Induced Hyponatremia Risk
-slug: >-
-  10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
+title: 10 Foods for Blood Sugar Control in Hot Weather (Diabetes Seniors 70+)
+slug: blood-sugar-foods-hot-weather-diabetes-seniors
 description: >-
-  Highlights potassium-moderate, water-rich, low-glycemic foods that stabilize
-  sodium balance and prevent thermal stress–driven hyperglycemia spikes.
+  Discover 10 foods for blood sugar control in hot weather—cucumber, berries,
+  yogurt. Low-glycemic, hydrating choices for diabetes seniors 70+.
 date: '2026-01-03'
 updated: '2026-01-03'
-primaryKeyword: heat wave glycemic resilience foods
+primaryKeyword: foods for blood sugar control hot weather diabetes seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

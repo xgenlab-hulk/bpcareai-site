@@ -1,16 +1,13 @@
 ---
 title: >-
-  12 Science-Backed Times to Measure Fasting Glucose *Before* Breakfast — Not
-  Just Upon Waking — for Adults 65+ With Dawn Phenomenon and Shift Work History
+  Fasting Glucose High Every Morning? (Dawn Guide Shift Workers 65+)
 slug: >-
-  12-science-backed-times-to-measure-fasting-glucose-before-breakfast-not-just-upon-waking-for-adults-65-with-dawn-phenomenon-and-shift-work-history
+  fasting-glucose-dawn-shift-workers
 description: >-
-  Maps optimal glucose sampling windows aligned with cortisol pulses, melatonin
-  clearance, and hepatic glycogenolysis peaks—using real-world shift-worker data
-  to refine 'fasting' definition beyond clock time.
+  Morning blood sugar high despite fasting? Discover 12 proven glucose test times aligned with your cortisol rhythm—especially after shift work. Essential guide for adults 65+ with dawn phenomenon.
 date: '2026-02-08'
 updated: '2026-02-08'
-primaryKeyword: fasting glucose measurement timing dawn phenomenon
+primaryKeyword: fasting glucose dawn shift workers
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

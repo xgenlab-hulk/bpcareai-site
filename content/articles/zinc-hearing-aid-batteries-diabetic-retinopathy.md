@@ -1,17 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Hearing Aid Batteries Are Leaching Zinc Into Oral Mucosa —
-  And Why That Matters for Adults 74+ With Diabetic Retinopathy and Poor Wound
-  Healing
+title: "Hearing Aid Batteries and Eye Damage: A Hidden Risk After 74"
 slug: >-
   7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-oral-mucosa-and-why-that-matters-for-adults-74-with-diabetic-retinopathy-and-poor-wound-healing
-description: >-
-  Explores zinc-induced oxidative stress in ocular and dermal microvasculature,
-  salivary zinc testing, and safer battery-handling protocols for visually
-  impaired older adults on long-term insulin.
+description: "Zinc from hearing aid batteries triggers cell damage (oxidative stress) in retinal vessels — worsening diabetic eye disease. Salivary zinc tests catch it early."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: zinc hearing aid batteries diabetic retinopathy
+updated: '2026-03-26'
+primaryKeyword: can hearing aid batteries cause eye problems with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

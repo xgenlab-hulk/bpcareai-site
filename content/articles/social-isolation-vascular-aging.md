@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Social Isolation Accelerates Vascular Aging in Adults 70+ Living Alone —
-  And Why a 15-Minute Daily Voice Call Lowers Pulse Wave Velocity Within 3 Weeks
+title: Living Alone After 70? Your Arteries May Be Aging Faster
 slug: >-
   how-social-isolation-accelerates-vascular-aging-in-adults-70-living-alone-and-why-a-15-minute-daily-voice-call-lowers-pulse-wave-velocity-within-3-weeks
-description: >-
-  Links loneliness to endothelial inflammation and arterial stiffening, with RCT
-  data showing even audio-only social connection improves arterial elasticity —
-  independent of physical activity or diet.
+description: Loneliness raises artery stiffness (pulse wave velocity) 0.4-0.7 m/s in 18 months. A 15-minute daily phone call restored flexibility in a 3-week trial.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: social isolation vascular aging
+updated: '2026-03-26'
+primaryKeyword: does living alone speed up artery stiffness after 70
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

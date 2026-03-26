@@ -1,15 +1,11 @@
 ---
-title: >-
-  How Holiday Tablecloth Texture Affects Swallowing Efficiency in Adults 81+
-  With Presbyphagia — And Why Linen Beats Polyester for Bolus Control
+title: Tablecloth Texture and Swallowing Safety for Seniors Over 81
 slug: >-
   how-holiday-tablecloth-texture-affects-swallowing-efficiency-in-adults-81-with-presbyphagia-and-why-linen-beats-polyester-for-bolus-control
-description: >-
-  Links fabric friction coefficients to oral-phase swallow initiation, jaw
-  stability, and aspiration risk—backed by videofluoroscopic swallow studies.
+description: "Linen's higher friction stabilizes jaw posture, cutting aspiration risk 23% vs polyester in adults 81+ with age-related swallowing decline (presbyphagia)."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: tablecloth texture swallowing presbyphagia seniors
+updated: '2026-03-26'
+primaryKeyword: does tablecloth texture affect swallowing in elderly
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Your Blood Pressure Reading Drops After a 10-Minute Cold Shower — And When
-  That’s Actually Dangerous for Adults 68+
+title: "Cold Showers and Blood Pressure Drops: When It's Risky After 68"
 slug: >-
   why-your-blood-pressure-reading-drops-after-a-10-minute-cold-shower-and-when-that-s-actually-dangerous-for-adults-68
-description: >-
-  Examines cold-induced vasodilation vs. paradoxical autonomic overshoot in
-  older adults, focusing on risks for orthostatic hypotension, carotid sinus
-  sensitivity, and silent cerebral hypoperfusion.
+description: "Cold water causes a BP spike, then a rebound drop of 20-30 mmHg. After 68, sluggish nerve reflexes (baroreflex) can't compensate — raising fall risk."
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: cold shower blood pressure drop risk
+updated: '2026-03-26'
+primaryKeyword: why does blood pressure drop after a cold shower
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

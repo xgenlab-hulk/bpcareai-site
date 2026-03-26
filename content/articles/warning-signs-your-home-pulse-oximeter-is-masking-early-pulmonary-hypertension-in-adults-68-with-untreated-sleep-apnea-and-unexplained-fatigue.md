@@ -1,17 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Home Pulse Oximeter Is Masking Early Pulmonary Hypertension
-  in Adults 68+ With Untreated Sleep Apnea and Unexplained Fatigue
+title: Pulse Oximeter Reads 96% — Your Lungs May Still Struggle
 slug: >-
   warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue
-description: >-
-  Explains how normal SpO₂ readings can coexist with rising pulmonary vascular
-  resistance — highlighting discordant clinical clues (e.g., isolated RV strain
-  on echo, nocturnal desaturation lag, elevated NT-proBNP without LV
-  dysfunction).
+description: SpO2 stays 95-98% even as lung artery pressure (pulmonary hypertension) rises. Watch for right-heart strain on echo and overnight dips below 88% after 68.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: pulse oximeter pulmonary hypertension
+updated: '2026-03-26'
+primaryKeyword: can a pulse oximeter miss lung pressure problems
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

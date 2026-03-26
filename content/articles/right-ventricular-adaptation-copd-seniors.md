@@ -1,18 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Right Ventricular Adaptation to Pulmonary Vascular
-  Resistance in Adults 63–79 With Mild COPD and Preserved Left Ventricular
-  Ejection Fraction
+title: Supporting Right Heart Function With Mild COPD After 63
 slug: >-
   natural-ways-to-support-right-ventricular-adaptation-to-pulmonary-vascular-resistance-in-adults-63-79-with-mild-copd-and-preserved-left-ventricular-ejection-fraction
-description: >-
-  Focuses on non-invasive, physiology-aligned strategies — including inspiratory
-  muscle training, beetroot nitrate cycling, and seated posture optimization —
-  to reduce RV afterload and improve tricuspid annular plane systolic excursion
-  (TAPSE).
+description: Breathing muscle training (inspiratory muscle training) boosts right-side heart pumping 12-18% in 6 weeks. Beetroot nitrate lowers lung artery pressure 8-11%.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: right ventricular adaptation copd seniors
+updated: '2026-03-26'
+primaryKeyword: how to support right heart function with COPD naturally
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

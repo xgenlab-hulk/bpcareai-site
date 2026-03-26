@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Low-Glycemic' Breakfast Cereals for Adults 55+ With
-  Prediabetes and Gastric Bypass History
+title: Why Low-GI Cereal Still Spikes Sugar After Gastric Bypass
 slug: >-
   the-truth-about-low-glycemic-breakfast-cereals-for-adults-55-with-prediabetes-and-gastric-bypass-history
-description: >-
-  Investigates how altered gut anatomy and rapid gastric emptying distort
-  glycemic index predictions — revealing why many 'low-GI' cereals cause severe
-  postprandial spikes in this population.
+description: After gastric bypass, food skips the upper gut (duodenum) and hits the jejunum fast — making GI labels unreliable. Expect 40-60 mg/dL spikes despite claims.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: low-glycemic cereal gastric bypass prediabetes
+updated: 2026-03-26
+primaryKeyword: are low glycemic cereals safe after gastric bypass
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

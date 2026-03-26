@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Dose Corticosteroid Use for Rheumatoid Arthritis Accelerates
-  Coronary Endothelial Senescence in Adults 55–69 With Normal LDL
+title: How Low-Dose Steroids for RA Age Your Arteries With Normal Cholesterol
 slug: >-
   how-chronic-low-dose-corticosteroid-use-for-rheumatoid-arthritis-accelerates-coronary-endothelial-senescence-in-adults-55-69-with-normal-ldl
-description: >-
-  Connects glucocorticoid-induced p16INK4a expression, telomere attrition in
-  circulating endothelial progenitors, and impaired flow-mediated dilation—even
-  in normolipidemic patients—plus protective antioxidant timing strategies.
+description: Daily prednisone at just 5 mg speeds artery lining aging (endothelial senescence), cutting vessel flexibility 15-20% in adults 55-69 with RA and normal LDL.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: corticosteroids endothelial senescence ra
+updated: 2026-03-26
+primaryKeyword: do low-dose steroids for RA damage blood vessels
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

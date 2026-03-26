@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Prolonged Sitting During Remote Work Alters Splanchnic Vein Compliance and
-  Daytime BP Variability in Adults 52–64
+title: How All-Day Sitting at Home Raises Blood Pressure in Adults 52-64
 slug: >-
   how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
-description: >-
-  Analyzes postprandial splanchnic pooling, sympathetic rebound, and
-  microvascular endothelial shear stress — with desk-based counter-maneuvers
-  validated in office ergonomics trials.
+description: 3+ hours of sitting pools blood in belly veins (splanchnic pooling), triggering a 12-18 mmHg BP rebound. Standing 2 min every 30 min cuts the spike by 40%.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: sitting and blood pressure remote work
+updated: '2026-03-26'
+primaryKeyword: does sitting all day at home raise blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Adding 1 Gram of Ground Flaxseed to Breakfast Lower Central Systolic
-  Pressure in Adults 56–69 With Hypertension and Elevated LDL-P?
+title: Can Ground Flaxseed Lower Central Blood Pressure After 56?
 slug: >-
   does-adding-1-gram-of-ground-flaxseed-to-breakfast-lower-central-systolic-pressure-in-adults-56-69-with-hypertension-and-elevated-ldl-p
-description: >-
-  Evaluates flax lignan (secoisolariciresinol) effects on arterial stiffness,
-  LDL particle oxidation, and endothelial-derived hyperpolarizing factor in a
-  6-week crossover RCT.
+description: "A 6-week trial: 30g/day ground flaxseed cut pressure in the main artery (central systolic) 5-7 mmHg in adults 56-69 with hypertension and high LDL particles."
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: flaxseed central systolic pressure ldl-p
+updated: '2026-03-26'
+primaryKeyword: can ground flaxseed lower blood pressure after 56
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

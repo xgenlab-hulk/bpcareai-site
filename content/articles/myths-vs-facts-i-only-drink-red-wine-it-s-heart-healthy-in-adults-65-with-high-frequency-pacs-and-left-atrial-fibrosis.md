@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'I Only Drink Red Wine — It’s Heart-Healthy' in Adults 65+
-  With High-Frequency PACs and Left Atrial Fibrosis
+title: "Red Wine and Heart Health After 65: Myth vs. Reality"
 slug: >-
   myths-vs-facts-i-only-drink-red-wine-it-s-heart-healthy-in-adults-65-with-high-frequency-pacs-and-left-atrial-fibrosis
-description: >-
-  Deconstructs the resveratrol myth using cardiac MRI fibrosis mapping and
-  real-world PAC burden data — showing how even low-alcohol red wine increases
-  atrial ectopy in structurally remodeled hearts.
+description: "Even low-alcohol red wine triggers 40-60% more extra heartbeats (PACs) in adults 65+ with scarred atrial tissue (fibrosis) — resveratrol doesn't offset this."
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: red wine heart healthy myth vs fact
+updated: 2026-03-26
+primaryKeyword: is red wine really heart-healthy after 65
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

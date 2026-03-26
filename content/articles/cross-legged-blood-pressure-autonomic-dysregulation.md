@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Worry About 'Normal' Blood Pressure Readings That Occur *Only* While
-  Sitting Cross-Legged — A Red Flag for Autonomic Dysregulation in Adults 61+
-  With Early Diabetes
+title: Why Your BP Looks Normal Only Cross-Legged — A Warning After 61
 slug: >-
   when-to-worry-about-normal-blood-pressure-readings-that-occur-only-while-sitting-cross-legged-a-red-flag-for-autonomic-dysregulation-in-adults-61-with-early-diabetes
-description: >-
-  Details how cross-legged posture masks orthostatic intolerance and amplifies
-  sympathetic drive — revealing abnormal BP lability upon standing or during
-  Valsalva — with diagnostic criteria from the 2024 Autonomic Testing Consensus.
+description: Cross-legged sitting hides a 15-25 mmHg standing drop. If BP only reads normal this way, suspect nerve control failure (autonomic dysregulation).
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: cross legged blood pressure autonomic dysregulation
+updated: '2026-03-26'
+primaryKeyword: blood pressure only normal when sitting cross-legged
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

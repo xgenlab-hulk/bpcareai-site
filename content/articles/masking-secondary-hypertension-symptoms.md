@@ -1,17 +1,11 @@
 ---
-title: >-
-  Warning Signs Your 'Mild' Blood Pressure Elevation Is Actually Masking
-  Secondary Hypertension — Especially With Concurrent Sleep Fragmentation and
-  Unexplained Weight Gain in Adults 55–64
+title: "When 'Mild' High Blood Pressure Hides a Deeper Cause \u2014 Ages 55-64"
 slug: >-
   warning-signs-your-mild-blood-pressure-elevation-is-actually-masking-secondary-hypertension-especially-with-concurrent-sleep-fragmentation-and-unexplained-weight-gain-in-adults-55-64
-description: >-
-  Highlights underrecognized red flags (e.g., resistant diastolic elevation,
-  nocturnal polyuria, morning cortisol surge patterns) pointing to endocrine or
-  renal causes in midlife adults.
+description: "Diastolic above 90 despite meds, urinating 3+ times nightly, and AM cortisol surges may signal a treatable cause (secondary hypertension) \u2014 not just aging."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: masking-secondary-hypertension-symptoms
+updated: '2026-03-25'
+primaryKeyword: signs mild high blood pressure hides a deeper cause
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

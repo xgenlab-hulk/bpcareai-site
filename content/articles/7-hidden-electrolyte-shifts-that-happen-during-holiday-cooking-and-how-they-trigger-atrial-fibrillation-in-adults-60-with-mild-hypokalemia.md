@@ -1,16 +1,10 @@
 ---
-title: >-
-  7 Hidden Electrolyte Shifts That Happen *During* Holiday Cooking — And How
-  They Trigger Atrial Fibrillation in Adults 60+ With Mild Hypokalemia
-slug: >-
-  7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia
-description: >-
-  Details how prolonged standing, salt-heavy seasoning, and dehydration while
-  preparing meals disrupt potassium/magnesium balance—leading to acute AFib
-  episodes before dinner is served.
+title: Holiday Cooking Triggering Heart Flutters? (AFib Guide Adults 60+)
+slug: holiday-cooking-afib-electrolytes-60
+description: Cooking holiday meals and feeling heart flutter? Discover how standing, salt, dehydration shift potassium levels triggering AFib—plus 3 kitchen fixes to stay steady (adults 60+).
 date: '2026-02-26'
 updated: '2026-02-26'
-primaryKeyword: holiday cooking electrolyte shifts atrial fibrillation
+primaryKeyword: holiday cooking afib electrolyte adults 60
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

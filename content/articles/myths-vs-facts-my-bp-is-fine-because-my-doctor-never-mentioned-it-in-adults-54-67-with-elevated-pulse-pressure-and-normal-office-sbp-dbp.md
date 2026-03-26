@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'My BP Is Fine Because My Doctor Never Mentioned It' in Adults
-  54–67 With Elevated Pulse Pressure and Normal Office SBP/DBP
+title: Your Doctor Says BP Is Fine — But Your Pulse Pressure Disagrees
 slug: >-
   myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
-description: >-
-  Exposes the clinical blind spot of isolated pulse pressure elevation — linking
-  it to aortic stiffness, microvascular damage, and silent cerebral
-  hypoperfusion.
+description: A gap over 60 mmHg between top and bottom numbers signals stiff arteries (elevated pulse pressure) even when both readings look normal. Request home monitoring.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: pulse pressure myth doctor not mentioning
+updated: '2026-03-26'
+primaryKeyword: is my blood pressure really fine if doctor says so
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

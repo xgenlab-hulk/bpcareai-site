@@ -1,29 +1,18 @@
 ---
-title: >-
-  The Complete Guide to Interpreting HbA1c Discordance With Fructosamine and CGM
-  Metrics in Adults 73+ With Chronic Anemia or Hemoglobinopathy
-slug: >-
-  the-complete-guide-to-interpreting-hba1c-discordance-with-fructosamine-and-cgm-metrics-in-adults-73-with-chronic-anemia-or-hemoglobinopathy
-description: >-
-  Offers a step-by-step framework to reconcile conflicting lab and sensor data
-  when hemoglobin turnover is altered — including when to trust fructosamine vs.
-  time-in-range.
+title: When Your A1c Doesn't Match Your Glucose Monitor After 73
+slug: the-complete-guide-to-interpreting-hba1c-discordance-with-fructosamine-and-cgm-metrics-in-adults-73-with-chronic-anemia-or-hemoglobinopathy
+description: Anemia shortens red blood cells, falsely lowering your long-term sugar average (HbA1c) by 0.5-1.5%. Fructosamine and CGM time-in-range track better.
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: HbA1c discordance fructosamine seniors
+updated: '2026-03-26'
+primaryKeyword: why does my A1c not match my glucose monitor readings
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
-  - >-
-    myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
-  - >-
-    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
-  - >-
-    myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal
-  - >-
-    when-to-worry-about-stable-a1c-and-rising-fasting-glucose-especially-in-adults-68-84-with-type-2-diabetes-chronic-kidney-disease-stage-3-and-declining-albumin
-  - >-
-    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
+- myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
+- does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
+- myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal
+- when-to-worry-about-stable-a1c-and-rising-fasting-glucose-especially-in-adults-68-84-with-type-2-diabetes-chronic-kidney-disease-stage-3-and-declining-albumin
+- how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
 ---
 
 # Understanding HbA1c Discordance With Fructosamine in Older Adults: A Practical Guide for Seniors With Anemia or Hemoglobinopathy

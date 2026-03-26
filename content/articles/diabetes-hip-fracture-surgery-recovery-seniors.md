@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Managing Diabetes While Recovering From Hip Fracture
-  Surgery — Practical Strategies for Adults 79+ With Preoperative HbA1c 7.8–8.9%
-  and Limited Mobility
+title: "Managing Diabetes During Hip Fracture Recovery \u2014 Ages 79+"
 slug: >-
   the-complete-guide-to-managing-diabetes-while-recovering-from-hip-fracture-surgery-practical-strategies-for-adults-79-with-preoperative-hba1c-7-8-8-9-and-limited-mobility
-description: >-
-  Covers perioperative glucose targets, insulin titration during acute
-  immobilization, pressure ulcer–prevention nutrition, and tele-rehab
-  coordination for fracture recovery.
+description: "Post-surgery glucose targets shift to 140-180 mg/dL \u2014 aggressive insulin raises low blood sugar (hypoglycemia) risk 3x. Protein needs jump to 1.2-1.5 g/kg."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: diabetes hip fracture surgery recovery seniors
+updated: '2026-03-25'
+primaryKeyword: managing diabetes after hip fracture surgery over 79
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

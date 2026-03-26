@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Your Dietitian Isn’t Telling You About ‘Low-Sugar’ Holiday
-  Beverages—and Why They May Still Worsen Fatty Liver in Men Over 60
-slug: >-
-  5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
+title: Low-Sugar Holiday Drinks Harming Your Liver? (Men 60+)
+slug: holiday-drinks-fatty-liver-men-60
 description: >-
-  Unpacking deceptive labeling (‘no added sugar’, ‘naturally sweetened’,
-  ‘keto-friendly’) on eggnog alternatives, mulled cider, and sparkling
-  punches—and their real-world metabolic impact on hepatic fat accumulation.
+  Are "no added sugar" drinks safe? Discover 3 hidden fructose sources in mulled cider and eggnog, plus liver-safe swaps you can enjoy today—essential for men 60+.
 date: '2025-12-22'
 updated: '2025-12-22'
-primaryKeyword: low-sugar holiday drinks fatty liver men 60+
+primaryKeyword: holiday drinks fatty liver men 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

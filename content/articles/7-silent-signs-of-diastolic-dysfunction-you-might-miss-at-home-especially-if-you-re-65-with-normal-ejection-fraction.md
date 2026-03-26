@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Silent Signs of Diastolic Dysfunction You Might Miss at Home — Especially If
-  You’re 65+ With Normal Ejection Fraction
+title: 7 Signs of Diastolic Dysfunction You Might Miss After 65
 slug: >-
   7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
-description: >-
-  Explains subtle, non-classic symptoms like unexplained fatigue, orthopnea with
-  minimal exertion, and nocturnal cough that signal early heart failure with
-  preserved EF — and how to track them without imaging.
+description: Unexplained fatigue, needing 2+ pillows to breathe (orthopnea), or night cough — with normal pump strength (EF) after 65 — often signals stiff-heart failure.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: silent signs diastolic dysfunction seniors
+updated: 2026-03-26
+primaryKeyword: silent signs of diastolic dysfunction at home
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

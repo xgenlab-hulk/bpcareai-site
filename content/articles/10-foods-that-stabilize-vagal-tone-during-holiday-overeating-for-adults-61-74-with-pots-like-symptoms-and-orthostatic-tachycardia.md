@@ -1,16 +1,10 @@
 ---
-title: >-
-  10 Foods That Stabilize Vagal Tone During Holiday Overeating — For Adults
-  61–74 With POTS-Like Symptoms and Orthostatic Tachycardia
-slug: >-
-  10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
-description: >-
-  Highlights electrolyte-balanced, vagus-stimulating foods (fermented
-  sauerkraut, seaweed flakes, slow-roasted beets) and pairing rules to prevent
-  postprandial tachycardia and lightheadedness.
+title: Heart Racing After Holiday Meals? 10 Foods to Stay Steady
+slug: prevent-dizziness-heart-racing-holiday-meals-seniors
+description: 30% of adults 60+ have autonomic imbalance (vagal tone drop) causing post-meal heart rate jumps of 30-50 bpm. Fermented foods and beets calm it within 20 min.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: foods stabilize vagal tone holiday seniors
+updated: 2026-03-26
+primaryKeyword: foods that stop heart racing after meals for seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Holiday Turkey Gravy Is Causing Subclinical Hyperkalemia —
-  Especially in Adults 73+ With Stage 3 CKD and ACE Inhibitor Use
+title: "Turkey Gravy and High Potassium: A Hidden Risk After 73 With CKD"
 slug: >-
   warning-signs-your-holiday-turkey-gravy-is-causing-subclinical-hyperkalemia-especially-in-adults-73-with-stage-3-ckd-and-ace-inhibitor-use
-description: >-
-  Details subtle neuromuscular red flags (e.g., muscle twitching after gravy,
-  unexplained fatigue post-dinner) and explains why homemade gravy—despite no
-  added salt—can concentrate potassium from drippings and thickeners.
+description: Homemade gravy packs 400-600mg potassium per cup from drippings — risky with kidneys below 60 mL/min (stage 3 CKD). Muscle twitching after dinner is a red flag.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: turkey gravy hyperkalemia warning signs seniors
+updated: '2026-03-26'
+primaryKeyword: can turkey gravy raise potassium with kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Holiday Cheese Board Consumption Worsen Cognitive Fog in Adults 65+ With
-  MTHFR C677T Homozygosity and Low Serum B12?
+title: "Holiday Cheese Boards and Brain Fog: MTHFR Link After 65"
 slug: >-
   does-holiday-cheese-board-consumption-worsen-cognitive-fog-in-adults-65-with-mthfr-c677t-homozygosity-and-low-serum-b12
-description: >-
-  Examines how high-histamine, aged cheeses interact with impaired folate
-  metabolism and cobalamin transport—detailing histamine load thresholds, safer
-  cheese alternatives, and timing-based mitigation.
+description: Aged cheeses carry 500-1000mg histamine — enough to trigger brain fog in adults 65+ with a folate gene variant (MTHFR C677T) and B12 under 300 pg/mL.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: cheese board cognitive fog mthfr seniors
+updated: '2026-03-26'
+primaryKeyword: can aged cheese cause brain fog if you have low B12
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

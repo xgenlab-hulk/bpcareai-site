@@ -1,17 +1,11 @@
 ---
-title: >-
-  Why Heart Failure With Preserved Ejection Fraction (HFpEF) Often Masquerades
-  as 'Just Aging' in Women 70+ — And How a 3-Minute Sitting-to-Standing Test Can
-  Reveal It
+title: When Heart Failure Hides Behind 'Just Getting Old' in Women 70+
 slug: >-
   why-heart-failure-with-preserved-ejection-fraction-hfpef-often-masquerades-as-just-aging-in-women-70-and-how-a-3-minute-sitting-to-standing-test-can-reveal-it
-description: >-
-  Uncovers the diagnostic blind spot: how HFpEF mimics frailty, and how simple
-  orthostatic tolerance metrics (HR recovery, O2 desaturation, symptom lag)
-  outperform echo in early detection.
+description: 40% of women 70+ with breathlessness have stiff-heart failure (HFpEF), not aging. A 3-minute sit-to-stand test catches it earlier than heart ultrasound.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: hfpref misdiagnosed as aging women
+updated: '2026-03-26'
+primaryKeyword: heart failure misdiagnosed as aging in women over 70
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

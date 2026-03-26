@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 2000 IU Vitamin D3 Actually Reduce Myocardial Fibrosis in Adults
-  59–73 With Type 2 Diabetes and Elevated Galectin-3?
+title: "Vitamin D3 and Heart Scarring: What Matters for Adults 59-73"
 slug: >-
   does-daily-2000-iu-vitamin-d3-actually-reduce-myocardial-fibrosis-in-adults-59-73-with-type-2-diabetes-and-elevated-galectin-3
-description: >-
-  Reviews VITAL-DKD, D-Health, and fibrosis imaging trials to clarify
-  dose-response relationships, optimal serum 25(OH)D targets (>40 ng/mL), and
-  synergistic nutrients (vitamin K2, magnesium).
+description: "2000 IU vitamin D3 lowers heart muscle scarring (myocardial fibrosis) markers only when blood levels top 40 ng/mL \u2014 most adults with diabetes stay below 30."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: vitamin d3 myocardial fibrosis type 2 diabetes
+updated: '2026-03-26'
+primaryKeyword: does vitamin D help heart scarring with diabetes
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

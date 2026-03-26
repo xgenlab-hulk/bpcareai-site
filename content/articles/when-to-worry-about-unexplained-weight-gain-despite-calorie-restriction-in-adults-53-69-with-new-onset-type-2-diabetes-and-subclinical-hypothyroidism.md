@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Unexplained Weight Gain Despite Calorie Restriction in
-  Adults 53–69 With New-Onset Type 2 Diabetes and Subclinical Hypothyroidism
+title: Gaining Weight Despite Dieting? Check Your Thyroid and Diabetes
 slug: >-
   when-to-worry-about-unexplained-weight-gain-despite-calorie-restriction-in-adults-53-69-with-new-onset-type-2-diabetes-and-subclinical-hypothyroidism
-description: >-
-  Explains how thyroid dysfunction masks as 'diet-resistant obesity' in early
-  diabetes — including TSH/T3/T4 interpretation pitfalls and when to suspect
-  overlap syndromes.
+description: A borderline thyroid (TSH 4.5-10) slows metabolism 8-12% while new type 2 diabetes adds insulin-driven fat storage. Ask for free T3 testing, not just TSH.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: weight gain calorie restriction new diabetes
+updated: 2026-03-26
+primaryKeyword: why am I gaining weight on a diet with new diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  5 Things You Should Know Before Bringing a 'Diabetes-Safe' Side Dish to
-  Thanksgiving — Especially If You're Cooking for Someone With Gastroparesis
+title: Thanksgiving Side Dishes Safe for Diabetes and Gastroparesis
 slug: >-
-  5-things-you-should-know-before-bringing-a-diabetes-safe-side-dish-to-thanksgiving-especially-if-you-re-cooking-for-someone-with-gastroparesis
-description: >-
-  Covers overlooked food texture, fiber type, and glycemic index considerations
-  when selecting or preparing side dishes for mixed-age, mixed-health-status
-  family tables — with emphasis on gastric motility safety and satiety
-  signaling.
+  diabetes-safe-gastroparesis-side-dish
+description: Fork-tender textures and soluble fiber under 3g prevent bloating from slow stomach emptying (gastroparesis) while keeping glucose rise under 30 mg/dL.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: diabetes-safe side dish gastroparesis
+updated: '2026-03-26'
+primaryKeyword: diabetes safe side dish for someone with gastroparesis
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

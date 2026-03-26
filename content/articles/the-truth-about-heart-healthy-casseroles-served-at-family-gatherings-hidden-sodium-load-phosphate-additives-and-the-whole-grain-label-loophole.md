@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Truth About ‘Heart-Healthy’ Casseroles Served at Family Gatherings —
-  Hidden Sodium Load, Phosphate Additives, and the ‘Whole Grain’ Label Loophole
+title: "Your 'Heart-Healthy' Casserole May Pack 1,200 mg Sodium"
 slug: >-
   the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole
-description: >-
-  Debunks marketing claims on popular holiday casserole ingredients (e.g.,
-  canned soups, pre-shredded cheese, frozen crusts), revealing how hidden
-  sodium, phosphates, and refined starches undermine cardiovascular safety for
-  adults 60–79 with stage 1 hypertension or CKD.
+description: Pre-shredded cheese hides 300-400 mg sodium per cup from coating agents (cellulose). One serving hits 1,200 mg — half the limit with high blood pressure.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: heart-healthy casserole hidden sodium phosphate
+updated: '2026-03-26'
+primaryKeyword: hidden sodium in casseroles at family gatherings
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

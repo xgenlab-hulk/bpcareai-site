@@ -1,17 +1,11 @@
 ---
-title: >-
-  7 Hidden Sources of Insulin Resistance in Women 58–72 With PCOS History and
-  Recent Weight Gain
+title: 7 Hidden Drivers of Insulin Resistance in Women 58+ With PCOS History
 slug: >-
   7-hidden-sources-of-insulin-resistance-in-women-58-72-with-pcos-history-and-recent-weight-gain
-description: >-
-  Identifies overlooked contributors like subclinical thyroid autoimmunity,
-  low-grade endometrial inflammation, perimenopausal estrogen withdrawal effects
-  on adipose tissue macrophages, and chronic low-dose corticosteroid use — with
-  lab-based validation tips.
+description: Estrogen loss reactivates fat-tissue inflammation dormant since PCOS, raising fasting insulin 20-40%. Thyroid antibodies add silent resistance (HOMA-IR).
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: insulin resistance sources in perimenopausal women
+updated: '2026-03-26'
+primaryKeyword: hidden causes of insulin resistance with PCOS history
 topicCluster: metabolic-health
 image: ''
 relatedSlugs:

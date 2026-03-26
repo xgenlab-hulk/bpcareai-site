@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Long-Term Exposure to Low-Frequency Noise (e.g., HVAC, Traffic Hum)
-  Elevates 24-Hour Ambulatory BP in Adults 63+ Living in Urban High-Rises
+title: Does Constant Low Noise Raise Your Blood Pressure After 63?
 slug: >-
   how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
-description: >-
-  Examines infrasound-induced amygdala activation, sustained cortisol awakening
-  response, and impaired nocturnal vagal rebound in hypertensive seniors exposed
-  to chronic sub-30 Hz noise.
+description: Chronic hum below 30 Hz from HVAC or traffic raises 24-hour blood pressure (ambulatory BP) 5-8 mmHg via sustained cortisol and blunted nighttime nerve recovery.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: low-frequency noise ambulatory blood pressure
+updated: '2026-03-26'
+primaryKeyword: can constant low noise raise blood pressure over time
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

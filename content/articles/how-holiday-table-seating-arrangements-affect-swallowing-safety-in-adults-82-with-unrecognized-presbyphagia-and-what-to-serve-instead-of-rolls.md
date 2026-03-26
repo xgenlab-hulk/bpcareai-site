@@ -1,17 +1,13 @@
 ---
-title: >-
-  How Holiday Table Seating Arrangements Affect Swallowing Safety in Adults 82+
-  With Unrecognized Presbyphagia — And What to Serve Instead of Rolls
+title: Holiday Seating That Helps Seniors Over 80 Swallow Safely
 slug: >-
   how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
 description: >-
-  Examines biomechanical impacts of head/neck positioning (e.g., reclined vs.
-  upright seating, proximity to conversation partners) on pharyngeal transit
-  time and aspiration risk — with food texture alternatives validated via
-  videofluoroscopy studies.
+  A 15° head tilt raises choking risk (aspiration) 40% in adults 82+. Chin-tuck
+  upright seating cuts throat transit time — plus 6 soft swaps for rolls.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: holiday seating swallowing safety presbyphagia
+updated: '2026-03-26'
+primaryKeyword: does seating position affect swallowing in seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

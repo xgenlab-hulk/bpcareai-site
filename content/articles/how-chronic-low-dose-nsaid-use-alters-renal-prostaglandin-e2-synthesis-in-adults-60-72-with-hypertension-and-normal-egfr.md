@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Dose NSAID Use Alters Renal Prostaglandin E2 Synthesis in
-  Adults 60–72 With Hypertension and Normal eGFR
+title: Why Daily Ibuprofen Raises BP Even With Normal Kidneys After 60
 slug: >-
   how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
-description: >-
-  Explains COX-2–mediated sodium retention, blunted diuretic response, and why
-  BP spikes may precede renal function decline — plus NSAID-sparing alternatives
-  with vascular safety data.
+description: Daily ibuprofen or naproxen blocks kidney hormones (prostaglandin E2) that help flush sodium — raising BP 8-12 mmHg even with normal kidney labs after 60.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: nsaid prostaglandin e2 hypertension
+updated: '2026-03-26'
+primaryKeyword: can daily NSAIDs raise blood pressure with normal kidneys
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

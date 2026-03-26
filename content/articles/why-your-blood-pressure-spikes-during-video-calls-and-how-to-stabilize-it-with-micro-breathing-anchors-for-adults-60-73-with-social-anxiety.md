@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Your Blood Pressure Spikes During Video Calls — And How to Stabilize It
-  With Micro-Breathing Anchors for Adults 60–73 With Social Anxiety
+title: Why Blood Pressure Spikes During Video Calls — a 3-Second Fix
 slug: >-
   why-your-blood-pressure-spikes-during-video-calls-and-how-to-stabilize-it-with-micro-breathing-anchors-for-adults-60-73-with-social-anxiety
-description: >-
-  Investigates 'Zoom hypertension' as a form of acute psychogenic stress
-  response, and introduces 3-second breath-hold + exhale techniques validated
-  for real-time BP modulation during virtual interactions.
+description: Screen-based stress (Zoom hypertension) triggers BP surges of 10-20 mmHg in anxious adults 60-73. A 3-second breath-hold and slow exhale blunts the spike.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: blood pressure spikes during video calls
+updated: 2026-03-26
+primaryKeyword: blood pressure goes up during video calls
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

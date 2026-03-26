@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Renin-Angiotensin System Balance Using Zinc-Optimized
-  Plant Proteins — For Adults 61–73 With Early-Stage CKD and Stage 1
-  Hypertension
+title: Balancing BP Hormones Naturally With Early Kidney Disease After 61
 slug: >-
   natural-ways-to-support-renin-angiotensin-system-balance-using-zinc-optimized-plant-proteins-for-adults-61-73-with-early-stage-ckd-and-stage-1-hypertension
-description: >-
-  Details how zinc-dependent ACE2 activity is modulated by legume/seed protein
-  matrices — with meal-combining strategies to enhance RAS homeostasis without
-  potassium overload.
+description: Zinc from lentils supports the enzyme (ACE2) balancing BP hormones. 15mg/day improved systolic 5-8 mmHg without potassium overload in early-stage CKD patients.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: "hypertension management seniors"
+updated: '2026-03-26'
+primaryKeyword: natural ways to balance BP hormones with kidney disease
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

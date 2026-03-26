@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Causes 'Normal' Blood Pressure Readings to Mask Left Ventricular
-  Hypertrophy in Adults 68+ With Long-Standing Hypertension and Preserved
-  Ejection Fraction?
+title: When Normal BP Hides a Thickening Heart Wall in Adults 68+
 slug: >-
   what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction
-description: >-
-  Explores how standard office BP measurements can miss structural heart changes
-  in older adults, focusing on echocardiographic red flags and ambulatory
-  monitoring thresholds that precede symptom onset.
+description: Office BP under 130/80 misses thickened heart muscle (left ventricular hypertrophy) in 34% of adults 68+. 24-hour monitoring catches the nighttime spikes.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: left ventricular hypertrophy masked hypertension
+updated: '2026-03-26'
+primaryKeyword: normal blood pressure but heart wall is thickening
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

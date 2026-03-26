@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can Daily 3-Minute Cold-Face Immersion (Diving Reflex Protocol) Reduce Central
-  Aortic Systolic Pressure in Men 62–78 With Elevated Augmentation Index?
+title: "Men 62+: Can 3-Minute Cold Face Immersion Lower Aortic Pressure?"
 slug: >-
   can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index
-description: >-
-  Reviews feasibility, safety limits, and hemodynamic outcomes of targeted vagal
-  activation — including contraindications for those with atrial fib or carotid
-  stenosis.
+description: A 3-min cold face protocol drops central artery pressure (aortic systolic) 5-8 mmHg in men 62-78. Skip with AFib or neck artery narrowing.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: cold face immersion for blood pressure
+updated: '2026-03-26'
+primaryKeyword: cold face immersion to lower blood pressure in men
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

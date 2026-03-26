@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Drop in eGFR After Starting SGLT2 Inhibitors in Adults 69+
-  With Borderline Hydration Status and Low Albumin?
+title: Why Your eGFR Dropped After Starting an SGLT2 Inhibitor After 69
 slug: >-
   what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
-description: >-
-  Analyzes the hemodynamic and tubular mechanisms behind acute kidney function
-  changes, distinguishes benign adaptive dips from true AKI, and outlines
-  pre-initiation hydration and albumin thresholds.
+description: An initial kidney function (eGFR) dip of 10-15% is often harmless — a pressure adjustment. But drops >20% with low albumin need urgent follow-up.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: SGLT2 inhibitor eGFR drop elderly
+updated: '2026-03-26'
+primaryKeyword: why did eGFR drop after starting SGLT2 inhibitor
 topicCluster: renal-health
 image: ''
 relatedSlugs:

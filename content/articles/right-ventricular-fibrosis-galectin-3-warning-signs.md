@@ -1,17 +1,11 @@
 ---
-title: >-
-  Warning Signs Your ‘Stable’ Heart Failure Is Masking Early Right Ventricular
-  Fibrosis — Especially With Elevated Serum Galectin-3 and Reduced RV Strain
-  Rate
+title: "Signs Your 'Stable' Heart Failure Hides Right Ventricle Scarring"
 slug: >-
   warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate
-description: >-
-  Identifies subtle markers like exertional desaturation without dyspnea,
-  disproportionate ankle edema vs. jugular pressure, and strain-echo discordance
-  as early RV fibrosis signals.
+description: Ankle swelling without neck vein bulging plus galectin-3 above 17.8 ng/mL hints at right-side heart scarring (RV fibrosis) when echo looks normal. 5 red flags.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: "heart management seniors"
+updated: '2026-03-26'
+primaryKeyword: signs of right heart scarring with normal echo
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

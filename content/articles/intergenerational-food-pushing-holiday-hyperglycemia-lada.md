@@ -1,18 +1,13 @@
 ---
-title: >-
-  How Intergenerational Food Pushing During Holiday Dinners Triggers
-  Postprandial Hyperglycemia in Adults 58+ With Latent Autoimmune Diabetes in
-  Adults (LADA)
+title: "When 'Just One More Bite' Spikes Blood Sugar in Adults 58+ With LADA"
 slug: >-
   how-intergenerational-food-pushing-during-holiday-dinners-triggers-postprandial-hyperglycemia-in-adults-58-with-latent-autoimmune-diabetes-in-adults-lada
 description: >-
-  Explores the physiological and social mechanisms by which well-meaning family
-  pressure to 'just try one more bite' disrupts glycemic control in older adults
-  with slowly progressive autoimmune diabetes — including insulin timing
-  mismatches and delayed gastric emptying effects.
+  Each extra holiday serving raises post-meal glucose 30-50 mg/dL in adults with
+  slow-onset autoimmune diabetes (LADA), partly from insulin timing mismatches.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: intergenerational food pushing holiday hyperglycemia LADA
+updated: '2026-03-26'
+primaryKeyword: family food pushing raises blood sugar at holidays
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

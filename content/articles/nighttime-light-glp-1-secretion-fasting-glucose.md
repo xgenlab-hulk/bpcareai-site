@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Nighttime Light Exposure From Smart Clocks Disrupts Melatonin-Mediated
-  GLP-1 Secretion — And Elevates Fasting Glucose in Adults 59+ With Shift Work
-  History
+title: "Your Smart Clock's Light May Be Raising Your Fasting Glucose"
 slug: >-
   how-nighttime-light-exposure-from-smart-clocks-disrupts-melatonin-mediated-glp-1-secretion-and-elevates-fasting-glucose-in-adults-59-with-shift-work-history
-description: >-
-  Analyzes blue-enriched light’s suppression of enteroendocrine L-cells,
-  real-world bedroom light mapping, and melatonin-sparing lighting alternatives
-  for metabolic resilience.
+description: "Blue-enriched light suppresses a gut hormone (GLP-1) by disrupting melatonin \u2014 raising fasting glucose 8\u201315 mg/dL. Amber filters help adults 59+."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: nighttime light GLP-1 secretion fasting glucose
+updated: '2026-03-25'
+primaryKeyword: does bedroom light at night raise fasting blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

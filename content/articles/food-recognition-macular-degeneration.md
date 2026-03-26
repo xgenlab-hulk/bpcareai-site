@@ -1,30 +1,18 @@
 ---
-title: >-
-  How Holiday Tablecloth Patterns and Low-Light Centerpieces Impair Food
-  Recognition in Adults 78+ With Early Macular Degeneration — And What to Serve
-  Instead
-slug: >-
-  how-holiday-tablecloth-patterns-and-low-light-centerpieces-impair-food-recognition-in-adults-78-with-early-macular-degeneration-and-what-to-serve-instead
-description: >-
-  Links visual contrast loss to reduced satiety signaling and increased calorie
-  underestimation, recommending high-contrast plating, textured garnishes, and
-  lighting-adjusted meal sequencing.
+title: "When Seniors Can't See Their Plate: Vision Loss and Meals"
+slug: how-holiday-tablecloth-patterns-and-low-light-centerpieces-impair-food-recognition-in-adults-78-with-early-macular-degeneration-and-what-to-serve-instead
+description: Early vision loss (macular degeneration) makes adults 78+ misjudge portions 25-40% on patterned tablecloths. High-contrast plates and 300-lux lighting help.
 date: '2026-02-03'
-updated: '2026-02-03'
-primaryKeyword: food recognition macular degeneration
+updated: '2026-03-26'
+primaryKeyword: helping seniors with macular degeneration see food
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
-  - >-
-    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
-  - >-
-    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
-  - >-
-    simple-steps-to-adjust-your-holiday-dessert-portion-before-the-first-bite-using-visual-cues-that-work-for-adults-83-with-age-related-visual-processing-decline
-  - >-
-    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
+- the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
+- simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
+- quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
+- simple-steps-to-adjust-your-holiday-dessert-portion-before-the-first-bite-using-visual-cues-that-work-for-adults-83-with-age-related-visual-processing-decline
+- the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
 ---
 
 # How Low-Contrast Table Settings Affect Food Recognition in Adults 78+ With Early Macular Degeneration — And What to Serve Instead

@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Your Endocrinologist Won’t Tell You About Holiday Alcohol Choices —
-  Especially If You’re on GLP-1 Agonists
-slug: >-
-  5-things-your-endocrinologist-won-t-tell-you-about-holiday-alcohol-choices-especially-if-you-re-on-glp-1-agonists
+title: Holiday Wine on GLP-1 Meds? (Hidden Timing Risks)
+slug: glp1-holiday-alcohol-timing-risks
 description: >-
-  Uncovers under-discussed pharmacokinetic interactions between festive drinks
-  and injectable diabetes medications, including delayed gastric emptying
-  effects on ethanol absorption and hypoglycemia timing risks.
+  On GLP-1s and enjoying holiday drinks? Discover why delayed absorption changes hypoglycemia timing, 3 safety checks before sipping, and proven pairing strategies.
 date: '2026-02-26'
 updated: '2026-02-26'
-primaryKeyword: alcohol and GLP-1 agonists holiday
+primaryKeyword: glp1 holiday alcohol timing risks
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Breathing Patterns for Reducing Left Atrial Pressure *During* Atrial
-  Fibrillation Episodes — Validated via Invasive Hemodynamic Monitoring in
-  Adults 70+ With Persistent AF
+title: Breathing Exercises That Lower Heart Pressure During AFib Episodes
 slug: >-
   best-breathing-patterns-for-reducing-left-atrial-pressure-during-atrial-fibrillation-episodes-validated-via-invasive-hemodynamic-monitoring-in-adults-70-with-persistent-af
-description: >-
-  Details diaphragmatic breath-hold ratios (e.g., 4-7-8 with 3-sec apnea) that
-  acutely lower PAWP by ≥4 mmHg — tested during electrophysiology studies.
+description: A 4-7-8 breath with 3-second hold drops upper-chamber pressure (left atrial pressure) by 4+ mmHg during irregular heartbeat (atrial fibrillation) in adults 70+.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: breathing patterns left atrial pressure af
+updated: '2026-03-26'
+primaryKeyword: breathing exercises to lower heart pressure during AFib
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

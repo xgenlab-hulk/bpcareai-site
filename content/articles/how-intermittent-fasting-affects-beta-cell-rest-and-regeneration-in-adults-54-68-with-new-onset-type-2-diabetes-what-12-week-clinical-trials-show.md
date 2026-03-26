@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Intermittent Fasting Affects Beta-Cell Rest and Regeneration in Adults
-  54–68 With New-Onset Type 2 Diabetes — What 12-Week Clinical Trials Show
+title: Does Intermittent Fasting Help New Type 2 Diabetes After 54?
 slug: >-
   how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
-description: >-
-  Reviews human data on proinsulin:C-peptide ratio shifts, HOMA-B improvement,
-  and pancreatic volume changes on MRI — plus contraindications (eGFR <60,
-  history of pancreatitis, autonomic neuropathy).
+description: "In 12-week trials, 16:8 fasting improved insulin-cell function (HOMA-B) 18-25% in newly diagnosed adults 54-68 — but not with low kidney function."
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: intermittent fasting beta-cell regeneration
+updated: '2026-03-26'
+primaryKeyword: does intermittent fasting help new type 2 diabetes
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Red Flags That Your BP Monitor Is Giving False Readings — Especially If
-  You’re 74+ With Atrial Fibrillation and Arm Edema
+title: 7 Signs Your BP Monitor Is Lying — Especially After 74
 slug: >-
   7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
-description: >-
-  Details device-specific pitfalls (cuff fit, arrhythmia interference, motion
-  artifact) and validation strategies for older adults with comorbidities that
-  compromise home BP accuracy.
+description: Irregular heartbeat (atrial fibrillation) makes BP monitors misread by 10-25 mmHg. Add arm swelling or wrong cuff size, and readings fail in adults 74+.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: false blood pressure readings in elderly
+updated: 2026-03-26
+primaryKeyword: why is my blood pressure monitor giving wrong readings
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

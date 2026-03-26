@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your BP Meds Are Causing Subclinical Hyponatremia — Especially
-  If You’re 71+ on Thiazides and Taking SSRIs
+title: Signs Your BP Meds Are Dropping Sodium Too Low After 71
 slug: >-
   warning-signs-your-bp-meds-are-causing-subclinical-hyponatremia-especially-if-you-re-71-on-thiazides-and-taking-ssris
-description: >-
-  Highlights subtle, often-missed neuropsychiatric and gait-related symptoms of
-  mild hyponatremia, lab interpretation pitfalls, and safer diuretic
-  alternatives for frail older adults.
+description: Thiazides plus antidepressants (SSRIs) drop sodium below 130 mEq/L in 12-15% of adults 71+. Watch for new unsteadiness, confusion, or nausea — not just labs.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: thiazide hyponatremia warning signs elderly
+updated: 2026-03-26
+primaryKeyword: can blood pressure pills cause low sodium in seniors
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

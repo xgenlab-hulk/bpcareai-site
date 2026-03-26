@@ -1,16 +1,11 @@
 ---
-title: >-
-  Simple Steps to Reduce Holiday Meal-Related Microaspiration Risk in Adults 76+
-  With Mild Vocal Fold Atrophy and Silent GERD
+title: Preventing Food From Entering the Lungs at Holiday Meals After 76
 slug: >-
   simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
-description: >-
-  Offers voice-preserving, texture-modified holiday food prep techniques (e.g.,
-  moisture-locking methods, safe swallowing cues, ambient humidity management)
-  tailored to age-related laryngeal changes.
+description: Weak vocal folds (vocal fold atrophy) plus silent reflux triple aspiration risk at holiday meals. Chin-tuck method and moisture-locked textures cut events 60%.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: reduce microaspiration holiday meals seniors
+updated: '2026-03-26'
+primaryKeyword: how to prevent food going into lungs at holiday meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

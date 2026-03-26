@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Post-Holiday ‘Brain Fog’ in Adults 70+ With Normal Thyroid Labs
-  But Elevated Reverse T3 — And How Holiday Fat Intake Triggers It
+title: "Post-Holiday Brain Fog: How Fatty Foods Stall Thyroid Function"
 slug: >-
   what-causes-post-holiday-brain-fog-in-adults-70-with-normal-thyroid-labs-but-elevated-reverse-t3-and-how-holiday-fat-intake-triggers-it
-description: >-
-  Explains how saturated fat from gravy, pie crusts, and cheese platters
-  inhibits T4-to-T3 conversion, elevates rT3, and impairs hippocampal glucose
-  uptake.
+description: "Saturated fat from gravy and pie crust blocks thyroid hormone activation (T4-to-T3 conversion), raising reverse T3 and cutting brain glucose uptake 15-20%."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: post-holiday brain fog reverse t3 seniors
+updated: '2026-03-26'
+primaryKeyword: why do I get brain fog after holiday meals over 70
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

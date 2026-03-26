@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Holiday Light Therapy Affects Melatonin Timing and Fasting Glucose in
-  Adults 61–76 With Type 2 Diabetes and Delayed Sleep Phase
+title: "Light Therapy and Fasting Glucose: Timing Matters After 61"
 slug: >-
   how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
-description: >-
-  Examines blue-enriched light exposure timing, MTNR1B gene variants, and
-  downstream effects on hepatic glucose production — with practical 30-minute
-  protocol recommendations and safety cautions.
+description: A 30-min morning light box shifts sleep hormone timing (melatonin phase), lowering fasting glucose 8-12 mg/dL. Evening use raises it 18%.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: holiday light therapy fasting glucose
+updated: '2026-03-26'
+primaryKeyword: does light therapy affect blood sugar with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

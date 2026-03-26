@@ -1,16 +1,10 @@
 ---
-title: >-
-  10 Foods That Stabilize Post-Holiday Cortisol Rhythm — Without Medication —
-  for Adults 59–71 With Type 2 Diabetes and Chronic Stress
-slug: >-
-  10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress
-description: >-
-  Highlights foods with proven impact on HPA axis modulation (e.g.,
-  magnesium-rich roasted pumpkin seeds, fermented sauerkraut, L-theanine–rich
-  white tea) and timing rules for optimal effect.
+title: 10 Foods That Reset Stress Hormones After Holidays (59-71)
+slug: lower-cortisol-foods-diabetes-holiday-stress
+description: Holiday disruptions flatten your cortisol curve (HPA axis rhythm), raising fasting glucose 15-25 mg/dL. Pumpkin seeds and fermented foods restore daily rhythm.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: foods stabilize cortisol rhythm holiday diabetes
+updated: 2026-03-26
+primaryKeyword: foods that lower cortisol for diabetics naturally
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

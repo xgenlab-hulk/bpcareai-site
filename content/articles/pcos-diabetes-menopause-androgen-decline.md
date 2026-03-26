@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Every Woman Over 60 With Type 2 Diabetes and Polycystic Ovarian
-  Syndrome History Should Know About Androgen Decline and Metabolic Acceleration
+title: "Women 60+ With PCOS History: How Menopause Changes Your Diabetes"
 slug: >-
   5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration
-description: >-
-  Examines how perimenopausal androgen shifts interact with insulin signaling,
-  visceral fat redistribution, and muscle protein synthesis — with
-  sex-hormone–informed management priorities.
+description: Androgens drop 50-70% after menopause, shifting insulin resistance and adding belly fat (visceral adiposity). Prior PCOS accelerates muscle loss ~1.5%/yr.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: PCOS diabetes menopause androgen decline
+updated: '2026-03-26'
+primaryKeyword: PCOS diabetes and menopause hormone changes after 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

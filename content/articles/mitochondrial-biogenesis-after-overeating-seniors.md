@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Mitochondrial Biogenesis After Holiday Overeating —
-  Without Supplements — for Adults 59–70 With Sedentary Lifestyle and Low VO2
-  Max
+title: Restoring Cell Energy After Holiday Overeating for Adults 59-70
 slug: >-
   natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
-description: >-
-  Details how cold exposure (e.g., brief post-dinner outdoor walk),
-  circadian-aligned protein timing, and polyphenol-rich apple-cider reduction
-  gravy activate PGC-1α pathways.
+description: A 15-min cold-air walk post-dinner activates energy renewal (PGC-1alpha) without supplements. Polyphenol-rich foods boost the effect 25% in adults 59-70.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: mitochondrial biogenesis after overeating seniors
+updated: 2026-03-26
+primaryKeyword: how to recover cell energy after holiday overeating
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

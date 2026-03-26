@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs of Masked Nocturnal Hypertension in Adults 62+ Who Sleep With
-  White Noise Machines
+title: Your White Noise Machine May Be Hiding Nighttime BP Spikes
 slug: >-
   warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines
-description: >-
-  Reveals how broadband noise masks microarousals, suppresses nocturnal HRV
-  recovery, and delays BP dipping — with validated at-home screening methods
-  using overnight wrist PPG.
+description: White noise masks micro-awakenings that help reset BP overnight (nocturnal dipping). Adults 62+ using them show 8-12 mmHg higher nighttime systolic.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: white noise masked nocturnal hypertension
+updated: '2026-03-26'
+primaryKeyword: can white noise machines hide high blood pressure at night
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

@@ -1,16 +1,13 @@
 ---
-title: >-
-  7 Hidden Risks of Long-Term Metformin Use in Adults 67+ With Low B12, Elevated
-  Methylmalonic Acid, and Subclinical Cognitive Slowing
-slug: >-
-  7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing
+title: Metformin Slowing Your Thinking? (Low B12 Adults 67+)
+slug: metformin-b12-cognitive-slowing-67
 description: >-
-  Goes beyond anemia to explore mitochondrial complex I effects on hippocampal
-  neurogenesis, homocysteine-independent epigenetic dysregulation, and CSF
-  amyloid-beta clearance.
+  On metformin 5+ years and notice memory lapses? Discover 7 B12-brain risks
+  beyond anemia—plus MMA tests and sublingual B12 proven to restore sharpness
+  (adults 67+).
 date: '2026-01-15'
 updated: '2026-01-15'
-primaryKeyword: metformin b12 cognitive slowing elderly
+primaryKeyword: metformin b12 cognitive slowing seniors
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

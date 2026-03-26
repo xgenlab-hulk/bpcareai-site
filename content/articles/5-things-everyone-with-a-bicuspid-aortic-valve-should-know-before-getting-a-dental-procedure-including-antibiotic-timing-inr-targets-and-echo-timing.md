@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Everyone With a Bicuspid Aortic Valve Should Know Before Getting a
-  Dental Procedure—Including Antibiotic Timing, INR Targets, and Echo Timing
-slug: >-
-  5-things-everyone-with-a-bicuspid-aortic-valve-should-know-before-getting-a-dental-procedure-including-antibiotic-timing-inr-targets-and-echo-timing
+title: Bicuspid Valve Before Dental Work? (Antibiotic Guide)
+slug: bicuspid-valve-dental-antibiotics
 description: >-
-  Clarifies AHA/ACC updates on infective endocarditis prophylaxis, defines
-  ‘high-risk’ valve morphology using 3D echo, and outlines ideal INR windows for
-  warfarin users undergoing invasive dental work.
+  Bicuspid valve patient needing dental work? Get 2023 AHA antibiotic rules, safe INR ranges 2.0-2.5 for warfarin users, and exact echo timing—prevent endocarditis risk today.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: "health management seniors"
+updated: '2026-03-18'
+primaryKeyword: bicuspid valve dental antibiotics warfarin
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

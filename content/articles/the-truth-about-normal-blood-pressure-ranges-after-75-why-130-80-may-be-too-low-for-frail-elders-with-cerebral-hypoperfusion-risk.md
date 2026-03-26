@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About ‘Normal’ Blood Pressure Ranges After 75: Why 130/80 May Be Too
-  Low for Frail Elders with Cerebral Hypoperfusion Risk
+title: Why 130/80 May Be Too Low for Frail Adults Over 75
 slug: >-
   the-truth-about-normal-blood-pressure-ranges-after-75-why-130-80-may-be-too-low-for-frail-elders-with-cerebral-hypoperfusion-risk
-description: >-
-  Challenges current guideline targets using data from SPRINT-SEP and HYVET
-  subanalyses, offering individualized BP goals based on gait speed, orthostatic
-  testing, and white matter hyperintensity burden.
+description: Frail elders with gait speed under 0.8 m/s face 34% more falls at 130/80. Brain blood flow (cerebral perfusion) should guide individual targets after 75.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: blood pressure targets after 75 frail elders
+updated: '2026-03-26'
+primaryKeyword: is 130 over 80 too low for blood pressure after 75
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

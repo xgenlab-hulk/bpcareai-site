@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About 'Just Tired' After Christmas Dinner — Especially If You’re
-  69+ With Type 2 Diabetes and Untreated Sleep Apnea
+title: When Post-Dinner Fatigue Signals Danger for Adults 69+ With Diabetes
 slug: >-
   when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
-description: >-
-  Differentiates normal postprandial drowsiness from red-flag fatigue linked to
-  nocturnal hypoxemia, hypercapnia, or hyperglycemia-induced cerebral edema —
-  with home screening cues.
+description: Fatigue lasting 2+ hours with oxygen below 90% isn't just drowsiness. Untreated breathing pauses (sleep apnea) amplify glucose spikes 30-50%.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: post-dinner fatigue sleep apnea diabetes elderly
+updated: '2026-03-26'
+primaryKeyword: extreme tiredness after dinner with diabetes and sleep apnea
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

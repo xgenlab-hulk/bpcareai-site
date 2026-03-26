@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting Your Home BP Log for Patterns — Especially
-  If You’re 60+ and Tracking After Antihypertensive Dose Changes
+title: Reading Your Home BP Log for Patterns After Medication Changes
 slug: >-
   the-complete-guide-to-interpreting-your-home-bp-log-for-patterns-especially-if-you-re-60-and-tracking-after-antihypertensive-dose-changes
-description: >-
-  Walks through identifying dose-response curves, chronobiological outliers, and
-  environmental confounders — with printable templates and AI-assisted trend
-  spotting tips.
+description: A 10+ mmHg morning-to-evening swing signals timing mismatch, not failure. Track 7-day trends in your blood pressure log (BP diary), not single readings.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: interpreting home blood pressure log
+updated: '2026-03-26'
+primaryKeyword: how to read your home blood pressure log for patterns
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

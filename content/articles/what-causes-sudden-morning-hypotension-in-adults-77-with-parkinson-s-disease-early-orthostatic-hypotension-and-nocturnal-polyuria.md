@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Morning Hypotension in Adults 77+ With Parkinson’s Disease,
-  Early Orthostatic Hypotension, and Nocturnal Polyuria?
+title: Why Parkinson's Causes Dangerous Morning BP Drops After 77
 slug: >-
   what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
-description: >-
-  Investigates the circadian interplay between supine sodium retention,
-  dopaminergic fluctuations, and nocturnal renal sodium handling — plus
-  practical dawn-phase BP stabilization tactics.
+description: Fluid shifts plus fading dopamine crash morning BP below 90/60 in adults 77+ with Parkinson's — water bolus and leg raises before rising cut fall risk by 35%.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: morning hypotension parkinsons elderly
+updated: '2026-03-26'
+primaryKeyword: morning blood pressure drop with Parkinson's disease
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

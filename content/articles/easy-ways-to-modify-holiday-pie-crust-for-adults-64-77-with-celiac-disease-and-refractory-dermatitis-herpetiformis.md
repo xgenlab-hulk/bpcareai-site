@@ -1,16 +1,11 @@
 ---
-title: >-
-  Easy Ways to Modify Holiday Pie Crust for Adults 64–77 With Celiac Disease and
-  Refractory Dermatitis Herpetiformis
+title: Safe Holiday Pie Crust Swaps for Seniors 64+ With Celiac Disease
 slug: >-
   easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis
-description: >-
-  Provides gluten-free flour blend ratios proven to prevent cross-reactivity,
-  safe thickener swaps (tapioca vs xanthan), and oven-temp adjustments to avoid
-  blistering and ensure gut-safe texture.
+description: Standard GF flour blends still trigger a celiac skin rash (dermatitis herpetiformis) in 18% of cases. A 60/30/10 rice-tapioca-potato ratio tests safe at 350F.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: gluten free pie crust celiac seniors
+updated: 2026-03-26
+primaryKeyword: gluten-free pie crust for celiac disease seniors
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  When Should You Skip the Holiday Ham — and Why — If You’re 66+ With Stage 2
-  Chronic Kidney Disease and Elevated Urea Nitrogen?
+title: Should You Skip Holiday Ham With Stage 2 CKD? A Kidney Guide
 slug: >-
   when-should-you-skip-the-holiday-ham-and-why-if-you-re-66-with-stage-2-chronic-kidney-disease-and-elevated-urea-nitrogen
-description: >-
-  Explains uremic toxin accumulation risk from cured meats, safe alternatives
-  (herb-roasted turkey breast, lentil-walnut loaf), and lab-monitoring windows
-  post-consumption.
+description: Cured ham packs 800-1200mg sodium plus nitrate toxins per serving — risky when kidney filtration (eGFR) is declining. Turkey breast and lentil loaf are safer.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: skip holiday ham kidney disease seniors
+updated: 2026-03-26
+primaryKeyword: is holiday ham safe with kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Indoor Humidity Below 30% Triggers Endothelial Stiffness in Adults 55–68
-  With Early Arterial Calcification
+title: "Dry Winter Air and Stiff Arteries: What Adults 55-68 Should Know"
 slug: >-
   how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification
-description: >-
-  Explains dry-air-induced TRPV4 channel activation, reduced nitric oxide
-  bioavailability, and accelerated pulse wave velocity — plus evidence-based
-  humidification thresholds for vascular protection.
+description: Indoor humidity below 30% stiffens artery walls (endothelium) within hours — pulse wave velocity rises 0.5-1.2 m/s in adults 55-68 with early calcification.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: low humidity endothelial stiffness
+updated: '2026-03-26'
+primaryKeyword: does dry indoor air stiffen your arteries
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

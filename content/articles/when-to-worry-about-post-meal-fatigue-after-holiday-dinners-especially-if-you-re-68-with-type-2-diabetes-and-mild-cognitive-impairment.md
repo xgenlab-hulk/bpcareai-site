@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Post-Meal Fatigue After Holiday Dinners — Especially If
-  You’re 68+ With Type 2 Diabetes and Mild Cognitive Impairment
+title: "Post-Meal Fatigue With Diabetes After 68: When to Worry"
 slug: >-
   when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
-description: >-
-  Explains how postprandial hyperglycemia, cerebral glucose dysregulation, and
-  neuroinflammation may manifest as mental fog or exhaustion — with actionable
-  monitoring cues and intervention thresholds.
+description: Glucose above 180 mg/dL after meals triggers brain fog via reduced blood flow (cerebral hypoperfusion). A 10-min walk within 15 min lowers the peak 25%.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: post-meal fatigue diabetes elderly
+updated: '2026-03-26'
+primaryKeyword: extreme tiredness after eating with diabetes over 65
 topicCluster: special-populations
 image: ''
 relatedSlugs:

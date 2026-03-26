@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Suspect Cardiac Amyloidosis in Men 73+ With Unexplained Left
-  Ventricular Hypertrophy, Bilateral Carpal Tunnel Syndrome, and Orthostatic
-  Dizziness
+title: "Men 73+: When Thick Heart Walls Signal Amyloidosis, Not Just Aging"
 slug: >-
   when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
-description: >-
-  Highlights this underdiagnosed infiltrative cardiomyopathy by connecting
-  systemic ‘red-flag’ triads — especially in aging males with preserved EF but
-  progressive diastolic failure and autonomic symptoms.
+description: Thickened heart muscle (LVH), carpal tunnel, and standing dizziness form a triad — 15% of men 73+ with this pattern have protein buildup (cardiac amyloidosis).
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: cardiac amyloidosis diagnosis men 73+
+updated: '2026-03-26'
+primaryKeyword: cardiac amyloidosis signs in men over 73
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

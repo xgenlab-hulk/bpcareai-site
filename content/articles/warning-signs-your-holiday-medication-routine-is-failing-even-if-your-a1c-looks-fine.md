@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Holiday Medication Routine Is Failing — Even If Your A1C
-  Looks 'Fine'
+title: Your A1C Looks Fine — But Is Your Diabetes Routine Failing?
 slug: >-
   warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
-description: >-
-  Highlights discordant metrics: rising glucose variability, increased
-  hypoglycemia frequency, CGM time-in-range erosion, and post-holiday HOMA-IR
-  spikes — with early intervention thresholds for adults 55–78.
+description: A1C under 7% can mask rising glucose swings. Time-in-range below 70% or 2+ lows/week signals medication adjustment is needed during holiday disruptions.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: holiday medication routine failure signs
+updated: '2026-03-26'
+primaryKeyword: signs diabetes medication is not working during holidays
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

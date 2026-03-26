@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Late-Night Pie Eating Alters Gut Microbiome-Derived TMAO Peaks and Atrial
-  Fibrosis Progression in Adults 66–78 With Mild CKD and AF
+title: How Late-Night Pie Harms Heart Tissue in Adults 66+ With CKD
 slug: >-
   how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af
-description: >-
-  Connects post-holiday dessert timing, microbial metabolite kinetics, and renal
-  excretion capacity — explaining why late-night sweets may accelerate
-  structural remodeling even without acute arrhythmia.
+description: Late-night pie raises a gut toxin (TMAO) 35-50% higher than daytime eating — speeding heart scarring (atrial fibrosis) in adults 66-78 with mild CKD and AF.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: late-night pie tmao atrial fibrosis
+updated: 2026-03-26
+primaryKeyword: does eating pie late at night harm your heart
 topicCluster: renal-health
 image: ''
 relatedSlugs:

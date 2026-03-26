@@ -1,17 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Holiday Heart Syndrome Is Actually Early-Stage Cardiac
-  Sarcoidosis — Especially If You’re 63+ and Taking Methotrexate
+title: "7 Signs Your 'Holiday Heart' Is Actually Cardiac Sarcoidosis"
 slug: >-
   7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate
-description: >-
-  Highlights atypical presentations (e.g., isolated fatigue after wine,
-  transient AV block with holiday stress, or persistent sinus tachycardia
-  unresponsive to rest) that mimic holiday heart but signal granulomatous
-  infiltration in older adults with autoimmune history.
+description: "Fatigue after wine, brief heart pauses (AV block), or pulse that won't settle — in adults 63+ on methotrexate, suspect sarcoidosis over holiday heart."
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: holiday heart syndrome cardiac sarcoidosis signs
+updated: 2026-03-26
+primaryKeyword: when holiday heart symptoms signal cardiac sarcoidosis
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

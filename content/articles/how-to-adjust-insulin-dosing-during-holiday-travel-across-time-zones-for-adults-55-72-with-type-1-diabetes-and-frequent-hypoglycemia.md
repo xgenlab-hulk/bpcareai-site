@@ -1,16 +1,11 @@
 ---
-title: >-
-  How to Adjust Insulin Dosing During Holiday Travel Across Time Zones — For
-  Adults 55–72 With Type 1 Diabetes and Frequent Hypoglycemia
+title: "Adjusting Insulin for Time Zone Travel: A Guide for Adults 55-72"
 slug: >-
   how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
-description: >-
-  A step-by-step guide on recalibrating basal and bolus insulin timing, carb
-  ratios, and correction factors when flying internationally during the holidays
-  — backed by ADA travel guidelines and real-world CGM data.
+description: Flying east shortens your day, risking insulin overlap; west extends it. Shift basal doses 2-3 hours per zone to prevent dangerous lows (hypoglycemia) en route.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: insulin dosing during holiday travel
+updated: '2026-03-26'
+primaryKeyword: how to adjust insulin when traveling across time zones
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

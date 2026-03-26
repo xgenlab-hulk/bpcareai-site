@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: ‘Just Skip Dessert’ Is Enough to Control Blood Sugar During
-  Holidays — What Continuous Glucose Data Shows in Adults 61–74
+title: Skipping Dessert Doesn't Fix Blood Sugar — What CGM Data Shows
 slug: >-
   myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74
-description: >-
-  Debunks oversimplified advice using real-world CGM data: how savory course
-  composition, alcohol, stress, and sleep loss override dessert omission — and
-  what *actually* moves the needle.
+description: Glucose monitors (CGM) show savory courses spike glucose 40-80 mg/dL — often more than pie. Stress and poor sleep raise fasting levels 15-25 mg/dL.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: skip dessert blood sugar control holiday myths
+updated: '2026-03-26'
+primaryKeyword: does skipping dessert control blood sugar at holidays
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

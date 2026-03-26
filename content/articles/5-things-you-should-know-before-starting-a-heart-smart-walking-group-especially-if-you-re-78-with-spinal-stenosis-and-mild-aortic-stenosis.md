@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things You Should Know Before Starting a 'Heart-Smart' Walking Group —
-  Especially If You’re 78+ With Spinal Stenosis and Mild Aortic Stenosis
+title: "Walking Groups After 78: Safety Rules With Aortic Stenosis"
 slug: >-
-  5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis
-description: >-
-  Addresses gait variability thresholds, safe incline limits, pacing strategies
-  to avoid subaortic pressure overload, and how to spot subtle exertional
-  presyncope masked by group energy.
+  walking-group-aortic-stenosis-78
+description: A narrowed valve (aortic stenosis) changes how group walks stress you at 78+. Stay under 4 METs, skip inclines over 5%, and watch for 3 signs group pace masks.
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: walking group safety aortic stenosis seniors 78+
+updated: '2026-03-26'
+primaryKeyword: is a walking group safe with aortic stenosis at 78
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

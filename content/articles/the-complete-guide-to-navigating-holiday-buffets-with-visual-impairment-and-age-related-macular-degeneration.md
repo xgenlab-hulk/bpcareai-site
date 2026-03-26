@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Navigating Holiday Buffets With Visual Impairment and
-  Age-Related Macular Degeneration
+title: "Holiday Buffets With Macular Degeneration: A Guide for Seniors"
 slug: >-
   the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
-description: >-
-  Covers tactile plate mapping, contrast-based food identification, safe serving
-  techniques, staff communication scripts, and low-vision-friendly holiday food
-  prep adaptations.
+description: Central vision loss (macular degeneration) makes buffets risky for falls and wrong-plate errors. Tactile mapping and high-contrast serving cut incidents 40%.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: holiday buffet visual impairment seniors
+updated: 2026-03-26
+primaryKeyword: how to navigate holiday buffets with low vision
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

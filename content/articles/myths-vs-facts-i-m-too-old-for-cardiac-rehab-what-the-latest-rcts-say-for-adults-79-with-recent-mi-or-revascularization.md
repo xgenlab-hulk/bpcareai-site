@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'I’m Too Old for Cardiac Rehab' — What the Latest RCTs Say for
-  Adults 79+ With Recent MI or Revascularization
+title: "Cardiac Rehab After 79: Why Age Alone Shouldn’t Stop You"
 slug: >-
   myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization
-description: >-
-  Debunks ageist assumptions using data from the EXCITE and RENEW trials —
-  covering mortality reduction (22% at 2 years), functional gains, and
-  telehealth-enabled protocols.
+description: "The EXCITE trial shows cardiac rehab cuts 2-year death risk 22% even after 79. Telehealth now bypasses transport barriers for post-heart attack (MI) recovery."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: cardiac rehab myths seniors 79+ recent mi
+updated: '2026-03-26'
+primaryKeyword: is cardiac rehab safe after a heart attack at 79
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

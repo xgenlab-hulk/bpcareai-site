@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Morning Walking (Pre-Coffee, Fasted, 15 Min) vs. Evening Resistance
-  Band Routine (Post-Dinner, 12 Min) — Impact on 24-Hour Ambulatory BP
-  Variability in Adults 66–79 With Nocturnal Hypertension
+title: "Morning Walk vs. Evening Exercise: Which Lowers Nighttime BP?"
 slug: >-
   a-vs-b-morning-walking-pre-coffee-fasted-15-min-vs-evening-resistance-band-routine-post-dinner-12-min-impact-on-24-hour-ambulatory-bp-variability-in-adults-66-79-with-nocturnal-hypertension
-description: >-
-  Compares time-of-day–specific non-aerobic movement protocols on circadian BP
-  regulation, using real-world ABPM data from a 12-week crossover trial in older
-  adults with non-dipping patterns.
+description: "A 12-week crossover trial: evening resistance bands lowered nighttime systolic (nocturnal hypertension) 6 mmHg more than morning walks in adults 66-79."
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: morning vs evening exercise nocturnal hypertension
+updated: '2026-03-26'
+primaryKeyword: morning walk vs evening exercise for nighttime BP
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

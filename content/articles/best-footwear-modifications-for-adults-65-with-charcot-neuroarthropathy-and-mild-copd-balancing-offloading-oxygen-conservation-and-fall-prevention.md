@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Footwear Modifications for Adults 65+ With Charcot Neuroarthropathy *and*
-  Mild COPD — Balancing Offloading, Oxygen Conservation, and Fall Prevention
+title: "Best Footwear for Charcot Foot When You Also Have COPD After 65"
 slug: >-
   best-footwear-modifications-for-adults-65-with-charcot-neuroarthropathy-and-mild-copd-balancing-offloading-oxygen-conservation-and-fall-prevention
-description: >-
-  Compares custom orthotic designs, energy-return sole technology, and
-  breathability-performance tradeoffs in footwear engineered for comorbid
-  respiratory and skeletal neuropathic compromise.
+description: "A collapsing foot joint (Charcot neuroarthropathy) needs rigid soles, but stiff shoes raise oxygen cost 18-22% with COPD. Rocker-bottom hybrids cut both."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: charcot footwear COPD oxygen conservation
+updated: '2026-03-26'
+primaryKeyword: best shoes for Charcot foot when you also have COPD
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

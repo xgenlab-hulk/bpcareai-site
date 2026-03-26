@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Sudden BP Drop After Starting SGLT2 Inhibitors —
-  Especially in Adults 63–75 With Mild CKD and Orthostatic Symptoms
+title: BP Drops After Starting SGLT2 Inhibitors? Red Flags After 63
 slug: >-
   when-to-worry-about-sudden-bp-drop-after-starting-sglt2-inhibitors-especially-in-adults-63-75-with-mild-ckd-and-orthostatic-symptoms
-description: >-
-  Details the hemodynamic timeline of SGLT2i-induced natriuresis,
-  volume-sensitive hypotension risk windows, and how to distinguish true volume
-  depletion from autonomic-mediated drops.
+description: SGLT2 drugs trigger salt and water loss (natriuresis) within 48 hours. Adults 63-75 with kidney issues (CKD) face peak low-BP risk at days 3-7 of treatment.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: SGLT2 inhibitor blood pressure drop
+updated: 2026-03-26
+primaryKeyword: blood pressure drop after starting SGLT2 inhibitor
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

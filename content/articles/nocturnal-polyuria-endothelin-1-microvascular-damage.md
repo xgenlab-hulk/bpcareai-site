@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Grade Dehydration From Nocturnal Polyuria Elevates Plasma
-  Endothelin-1 — And Accelerates Microvascular Damage in Adults 66+ With
-  Retinopathy and Normal BP
+title: Waking Up to Pee May Harm Your Eyes' Blood Vessels After 66
 slug: >-
   how-chronic-low-grade-dehydration-from-nocturnal-polyuria-elevates-plasma-endothelin-1-and-accelerates-microvascular-damage-in-adults-66-with-retinopathy-and-normal-bp
-description: >-
-  Links overnight fluid loss to endothelial dysfunction via neurohormonal
-  upregulation — with practical hydration timing strategies validated in a 2024
-  RCT of adults with early retinal changes.
+description: Waking to pee (nocturnal polyuria) spikes endothelin-1 — a vessel-constricting hormone — harming eye vessels even at normal BP. A 2024 RCT cut levels 18%.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: nocturnal polyuria endothelin-1 microvascular damage
+updated: '2026-03-26'
+primaryKeyword: does frequent nighttime urination damage small blood vessels
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

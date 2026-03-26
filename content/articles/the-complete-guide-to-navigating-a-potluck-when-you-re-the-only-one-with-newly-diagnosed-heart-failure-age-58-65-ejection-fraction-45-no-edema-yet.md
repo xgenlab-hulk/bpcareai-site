@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Navigating a Potluck When You’re the Only One with Newly
-  Diagnosed Heart Failure — Age 58–65, Ejection Fraction 45%, No Edema Yet
+title: "Potluck Survival for Adults 58-65 With New Heart Failure"
 slug: >-
   the-complete-guide-to-navigating-a-potluck-when-you-re-the-only-one-with-newly-diagnosed-heart-failure-age-58-65-ejection-fraction-45-no-edema-yet
-description: >-
-  Covers RSVP language, dish-label negotiation tactics, sodium-aware
-  substitutions, and how to tactfully decline ‘just one bite’ without social
-  friction.
+description: "At 45% pumping strength (ejection fraction), sodium is your potluck enemy. Covers 600mg-per-plate caps, dish-label tricks, and polite ways to skip seconds."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: potluck heart failure newly diagnosed guide
+updated: '2026-03-25'
+primaryKeyword: how to eat at a potluck with heart failure
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Latent Autoimmune Diabetes in Adults (LADA) in Patients 49–63
-  Presenting With 'Atypical' Type 2 Diabetes and Rapid Insulin Requirement
+title: "When Type 2 Diabetes Is Actually Autoimmune: Spotting LADA at 49-63"
 slug: >-
   when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement
-description: >-
-  Guides clinicians and patients on red-flag clinical features (e.g., lean BMI,
-  rapid sulfonylurea failure, GAD65+ family history) and optimal timing for
-  autoantibody testing.
+description: If pills fail within 2-3 years and BMI stays under 25, you may have slow-onset autoimmune diabetes (LADA). A GAD65 antibody test confirms — key for ages 49-63.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: LADA diagnosis atypical type 2 diabetes
+updated: '2026-03-26'
+primaryKeyword: could my type 2 diabetes actually be autoimmune
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

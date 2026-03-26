@@ -1,17 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: ‘Salt Sensitivity’ in Black Adults 55–72 — What Genomic
-  Studies Reveal About ENaC Variants, Potassium Excretion, and Real-World
-  Dietary Response
+title: "Salt Sensitivity in Black Adults 55-72: Myths vs. Genomic Facts"
 slug: >-
   myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response
-description: >-
-  Debunks oversimplified salt narratives using ancestry-informed physiology —
-  explaining why some respond dramatically to potassium-rich diets alone, while
-  others need dual RAAS + ENaC targeting.
+description: Sodium channel (ENaC) variants cause 40% more salt retention in some Black adults — but potassium-rich diets normalize BP in half. Others need dual targeting.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: salt sensitivity myths in Black adults
+updated: 2026-03-26
+primaryKeyword: is salt sensitivity different in Black adults
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

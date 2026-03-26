@@ -1,16 +1,11 @@
 ---
-title: >-
-  Quick Ways to Stabilize Post-Meal Blood Flow to the Brain in Adults 64+ With
-  Carotid Stenosis >50% and Orthostatic Dizziness
+title: Why You Get Dizzy After Meals With Narrowed Neck Arteries
 slug: >-
   quick-ways-to-stabilize-post-meal-blood-flow-to-the-brain-in-adults-64-with-carotid-stenosis-50-and-orthostatic-dizziness
-description: >-
-  Presents 3 evidence-based, 90-second interventions—seated leg elevation
-  timing, targeted breathing patterns, and postprandial sodium distribution—that
-  improve cerebral perfusion without raising systolic pressure.
+description: Eating diverts 25-30% of blood to digestion — risky when neck arteries narrow past 50% (carotid stenosis). Leg raises and breathing restore brain flow in 90s.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: stabilize brain blood flow after meals seniors
+updated: '2026-03-26'
+primaryKeyword: dizzy after eating with narrowed neck arteries
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

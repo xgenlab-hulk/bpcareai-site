@@ -1,17 +1,11 @@
 ---
-title: >-
-  Does Daily 5-Minute Cold-Water Face Immersion *Really* Improve Postprandial
-  Insulin Sensitivity in Adults 66+ With Diastolic Dysfunction and Mild
-  Hypoglycemia Awareness Loss?
+title: Cold Water Face Immersion and Insulin Sensitivity — Worth It After 66?
 slug: >-
   does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss
-description: >-
-  Evaluates vagally mediated hepatic glucose uptake enhancement, safety
-  thresholds for autonomic instability, and stepwise adaptation protocols for
-  older adults with cardiac comorbidities.
+description: Cold water triggers a nerve reflex (dive reflex) that boosts liver glucose uptake 12-15% post-meal, but adults 66+ with stiff heart walls need a slow ramp up.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: cold-water face immersion insulin sensitivity
+updated: '2026-03-26'
+primaryKeyword: does cold water on your face improve insulin sensitivity
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

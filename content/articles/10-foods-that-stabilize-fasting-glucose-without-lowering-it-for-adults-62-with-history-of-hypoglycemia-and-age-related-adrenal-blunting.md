@@ -1,16 +1,13 @@
 ---
-title: >-
-  10 Foods That Stabilize Fasting Glucose *Without* Lowering It — For Adults 62+
-  With History of Hypoglycemia and Age-Related Adrenal Blunting
-slug: >-
-  10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
+title: "Seniors 62+: Foods That Stabilize Fasting Glucose Without Lows"
+slug: prevent-low-blood-sugar-seniors-safe-foods
 description: >-
-  Highlights low-glycemic, high-arginine, and cortisol-sparing foods that
-  support hepatic glucose output integrity — prioritizing safety over aggressive
-  lowering in frail older adults.
+  Blunted cortisol response (adrenal blunting) lets low-GI foods trigger
+  reactive drops 2-4 hours later. 10 foods with arginine and fat keep glucose
+  steady.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: fasting glucose stabilization hypoglycemia seniors
+updated: '2026-03-26'
+primaryKeyword: keep fasting blood sugar stable without dropping too low
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

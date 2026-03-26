@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Low-FODMAP, High-Protein Holiday Snacks for Women 58+ With IBS-D and
-  Post-Cholecystectomy Bile Acid Malabsorption
+title: Low-FODMAP Holiday Snacks for Women 58+ With IBS and No Gallbladder
 slug: >-
   best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption
-description: >-
-  Curated list of festive, non-fermentable, bile-tolerant options—like smoked
-  salmon roll-ups with dill cream cheese and roasted chestnuts—that prevent
-  cramping and diarrhea flare-ups.
+description: Salmon roll-ups and chestnuts stay under 1g FODMAP per serve — safe for women 58+ with diarrhea-prone IBS (IBS-D) and bile issues after gallbladder removal.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: low-fodmap holiday snacks seniors ibs
+updated: '2026-03-26'
+primaryKeyword: low-FODMAP holiday snacks for IBS after gallbladder removal
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

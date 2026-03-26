@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Heart-Healthy' Holiday Cookies for Men 77+ With Atrial
-  Fibrillation and Polypharmacy
+title: "Men 77+ With AFib: What 'Heart-Healthy' Cookies Do to Your Meds"
 slug: >-
   the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
-description: >-
-  Debunks marketing claims around oat-based, low-sugar cookies by analyzing
-  real-world interactions with warfarin, digoxin, and potassium-sparing
-  diuretics.
+description: "Oat-based cookies high in vitamin K shift warfarin's INR 0.3-0.5 points. Add dried-fruit potassium and irregular heartbeat (atrial fibrillation) risk climbs."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: heart-healthy holiday cookies seniors afib
+updated: '2026-03-26'
+primaryKeyword: are heart-healthy holiday cookies safe with afib medications
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

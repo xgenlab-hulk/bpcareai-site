@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: 12-Minute Tai Chi Qigong Flow vs. Guided 4-7-8 Breathing With
-  Biofeedback — Impact on Central Aortic Systolic Pressure in Women 69+ With
-  Isolated Systolic Hypertension
+title: "Tai Chi vs. 4-7-8 Breathing: Which Lowers Artery Pressure More?"
 slug: >-
   a-vs-b-12-minute-tai-chi-qigong-flow-vs-guided-4-7-8-breathing-with-biofeedback-impact-on-central-aortic-systolic-pressure-in-women-69-with-isolated-systolic-hypertension
-description: >-
-  Compares two non-pharmacologic interventions using carotid-femoral pulse wave
-  velocity and central aortic tonometry outcomes over 4 weeks, highlighting
-  differential effects on wave reflection and arterial stiffness.
+description: Both lower pressure in the aorta (central aortic pressure) 5-7 mmHg in 4 weeks. Tai chi cuts artery stiffness more; breathing fixes wave reflection faster.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: tai chi vs breathing central aortic pressure
+updated: '2026-03-26'
+primaryKeyword: tai chi vs breathing exercises for stiff arteries
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Improve Hepatic Insulin Sensitivity Using Time-Restricted
-  Eating With Early-Evening Protein — For Adults 61–75 With NAFLD and Elevated
-  ALT
+title: "Time-Restricted Eating for Liver Health: A Guide After 61"
 slug: >-
   natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt
-description: >-
-  Explores how aligning feeding windows with circadian liver clock genes (e.g.,
-  BMAL1) and prioritizing leucine-rich protein at 5–6 PM enhances insulin
-  receptor tyrosine kinase activity.
+description: An 8-hour eating window aligned to your liver clock (BMAL1 rhythm) boosts insulin sensitivity 18-25% in adults with fatty liver (NAFLD). Add protein at 5-6 PM.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: time-restricted eating hepatic insulin sensitivity
+updated: 2026-03-26
+primaryKeyword: does time-restricted eating help liver insulin resistance
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

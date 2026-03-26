@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Cravings for Candy After Midnight During New Year’s Eve —
-  In Adults 55+ With Night-Eating Syndrome and Untreated Obstructive Sleep
-  Apnea?
+title: Why Sleep Apnea Fuels Midnight Candy Cravings After 55
 slug: >-
   what-causes-sudden-cravings-for-candy-after-midnight-during-new-year-s-eve-in-adults-55-with-night-eating-syndrome-and-untreated-obstructive-sleep-apnea
-description: >-
-  Links nocturnal hypoxia, leptin/ghrelin dysregulation, and dopaminergic reward
-  pathway overactivation — explaining why festive sugar binges peak at 1–3 a.m.
-  and how CPAP adherence alters craving intensity.
+description: Sleep apnea drops oxygen 4-8%/hour, spiking hunger hormones (ghrelin) that peak at 1-3 a.m. — explaining midnight candy binges in adults 55+.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: midnight candy cravings new year's eve sleep apnea
+updated: 2026-03-26
+primaryKeyword: why do I crave candy late at night with sleep apnea
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

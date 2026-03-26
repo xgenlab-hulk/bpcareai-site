@@ -1,17 +1,11 @@
 ---
-title: >-
-  5 Things Every Woman Over 65 With Early-Stage Breast Cancer Should Know Before
-  Starting Aromatase Inhibitor Therapy — Especially If She Has Pre-Existing
-  Microvascular Coronary Dysfunction
+title: Aromatase Inhibitors and Heart Vessel Damage in Women Over 65
 slug: >-
   5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction
-description: >-
-  Details how AI-induced estrogen depletion accelerates endothelial inflammation
-  and coronary microvascular resistance—and why stress echocardiography or
-  coronary flow reserve testing may be warranted pre-treatment.
+description: These drugs deplete estrogen, raising resistance in heart's tiny vessels (microvascular dysfunction) 20-30%. Pre-treatment flow testing catches risk early.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: aromatase inhibitors heart microvascular dysfunction
+updated: '2026-03-26'
+primaryKeyword: do aromatase inhibitors damage heart blood vessels
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

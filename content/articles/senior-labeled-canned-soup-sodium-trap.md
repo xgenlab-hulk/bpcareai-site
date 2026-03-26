@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Truth About 'Heart-Healthy' Canned Soups Labeled for Seniors — Why 68%
-  Contain Hidden Sodium Loaders That Bypass Label Claims in Adults 69+ With
-  Salt-Sensitive Hypertension
+title: "68% of Senior-Labeled Canned Soups Hide Dangerous Sodium Levels"
 slug: >-
   the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension
-description: >-
-  Investigates labeling loopholes (e.g., 'per serving' vs. 'per can', potassium
-  chloride masking), sodium-equivalent additives, and real-world BP impact data
-  from 3-week dietary trials.
+description: "A can labeled 390 mg sodium per serving often holds 780 mg total. 68% of senior soups exceed limits for salt-responsive high BP (salt-sensitive hypertension)."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: senior-labeled-canned-soup-sodium-trap
+updated: '2026-03-25'
+primaryKeyword: hidden sodium in canned soup labeled for seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

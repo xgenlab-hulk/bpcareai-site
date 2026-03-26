@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Research Says About Midday Napping and Nocturnal BP Dipping in Adults
-  63–81 With Non-Dipping Patterns on Ambulatory Monitoring
+title: "Midday Naps and Blood Pressure: Do They Fix Non-Dipping After 63?"
 slug: >-
   what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
-description: >-
-  Synthesizes recent RCTs and cohort data on nap duration, timing, and posture
-  effects on reverse dipping — plus practical protocols for restoring healthy
-  circadian BP rhythm.
+description: Naps under 30 min before 2 PM restored overnight BP dipping (10-20% systolic drop) in 60% of non-dippers aged 63-81 — but longer naps reversed it.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: napping and nocturnal blood pressure dipping
+updated: '2026-03-26'
+primaryKeyword: does napping affect nighttime blood pressure dipping
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

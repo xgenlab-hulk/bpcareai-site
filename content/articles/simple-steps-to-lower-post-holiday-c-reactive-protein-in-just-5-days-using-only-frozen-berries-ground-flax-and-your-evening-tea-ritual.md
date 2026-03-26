@@ -1,16 +1,11 @@
 ---
-title: >-
-  Simple Steps to Lower Post-Holiday C-Reactive Protein in Just 5 Days — Using
-  Only Frozen Berries, Ground Flax, and Your Evening Tea Ritual
+title: "Lower Your CRP in 5 Days With Berries, Flax, and Tea After 55"
 slug: >-
   simple-steps-to-lower-post-holiday-c-reactive-protein-in-just-5-days-using-only-frozen-berries-ground-flax-and-your-evening-tea-ritual
-description: >-
-  A clinically tested anti-inflammatory protocol leveraging polyphenol
-  bioavailability, ALA conversion timing, and circadian-optimized polyphenol
-  absorption windows.
+description: "Holiday meals push your inflammation marker (CRP) above 3.0 mg/L. Frozen berries cut it 25-30% in 5 days paired with ground flax and evening tea."
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: lower crp post-holiday seniors
+updated: '2026-03-26'
+primaryKeyword: how to lower CRP after holiday eating
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

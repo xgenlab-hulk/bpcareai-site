@@ -1,16 +1,11 @@
 ---
-title: >-
-  Simple Steps to Reduce Glucose Variability *During* Air Travel — Not Just
-  Before or After — for Adults 61+ With Insulin-Dependent Diabetes
+title: "Managing Blood Sugar Mid-Flight for Insulin Users Over 61"
 slug: >-
   simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes
-description: >-
-  Provides in-flight insulin adjustment algorithms, cabin pressure–glucose
-  interaction data, hydration-electrolyte pairing strategies, and TSA-compliant
-  device carrying solutions.
+description: "Cabin pressure at cruising altitude shifts glucose 30-60 mg/dL. Covers in-flight insulin timing, blood sugar swings (glucose variability), and TSA device tips."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: air travel glucose variability insulin
+updated: '2026-03-25'
+primaryKeyword: how to manage blood sugar on a flight with insulin
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

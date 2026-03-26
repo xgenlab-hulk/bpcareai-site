@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Sugar-Free' Holiday Desserts for Men 70+ With Fructose
-  Malabsorption and Early NAFLD
+title: "Sugar-Free Desserts: Hidden Risks for Men 70+ With Fructose Issues"
 slug: >-
   the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
-description: >-
-  Debunks labeling myths around sugar alcohols and artificial sweeteners in
-  festive treats, explaining osmotic diarrhea risks, liver fat accumulation
-  mechanisms, and safer whole-food dessert alternatives.
+description: Sugar alcohols like sorbitol cause diarrhea in 60% of people with poor fructose absorption (fructose malabsorption). Allulose-based swaps protect liver fat.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: sugar free desserts for fructose malabsorption seniors
+updated: '2026-03-26'
+primaryKeyword: are sugar-free desserts safe with fructose intolerance
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

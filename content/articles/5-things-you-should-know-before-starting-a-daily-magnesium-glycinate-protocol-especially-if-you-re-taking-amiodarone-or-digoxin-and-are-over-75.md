@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things You Should Know Before Starting a Daily Magnesium Glycinate Protocol
-  — Especially If You’re Taking Amiodarone or Digoxin and Are Over 75
+title: "Magnesium Glycinate With Amiodarone or Digoxin: 5 Risks After 75"
 slug: >-
-  5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
-description: >-
-  Covers critical drug–nutrient interactions, optimal dosing windows to avoid QT
-  prolongation, interpreting RBC magnesium vs serum levels, and why glycinate
-  may worsen nocturnal bradycardia in frail elders.
+  magnesium-glycinate-heart-meds-75
+description: 15-20% of adults 75+ on heart rhythm drugs (amiodarone) develop slow heartbeat from magnesium glycinate. 3 dosing windows and RBC testing prevent QT issues.
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: magnesium glycinate amiodarone digoxin older adults
+updated: '2026-03-26'
+primaryKeyword: is magnesium glycinate safe with amiodarone or digoxin
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

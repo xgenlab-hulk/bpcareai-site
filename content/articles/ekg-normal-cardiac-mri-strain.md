@@ -1,17 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'My Heart Is Fine Because My EKG Is Normal' — What Cardiac MRI
-  Strain Mapping Reveals in Adults 56–68 With Recurrent Palpitations and No
-  Structural Disease
+title: Normal EKG but Heart Feels Off? What MRI Strain Shows After 56
 slug: >-
   myths-vs-facts-my-heart-is-fine-because-my-ekg-is-normal-what-cardiac-mri-strain-mapping-reveals-in-adults-56-68-with-recurrent-palpitations-and-no-structural-disease
-description: >-
-  Debunks the EKG-only reassurance myth by showing how global longitudinal
-  strain, twist mechanics, and extracellular volume mapping detect subtle
-  contractile dysfunction missed by standard EKG and echo.
+description: A normal EKG misses 40-60% of subtle pumping problems (subclinical contractile dysfunction). MRI strain mapping catches them in adults 56-68 with palpitations.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: ekg normal cardiac mri strain
+updated: '2026-03-26'
+primaryKeyword: can my heart be failing if my EKG is normal
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

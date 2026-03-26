@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Ways to Protect Your Gut Microbiome From Antibiotic-Induced
-  Dysbiosis—If You’re Managing Diabetes and Over 64
-slug: >-
-  12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
+title: Blood Sugar Unstable After Antibiotics? (Diabetes Guide 64+)
+slug: gut-health-antibiotics-diabetes-seniors
 description: >-
-  Offers microbiome-preserving strategies (e.g., strain-specific probiotics,
-  prebiotic timing, fermented food sequencing) to prevent glucose dysregulation
-  and inflammation post-antibiotics.
+  Blood sugar spiking after antibiotics? Get 12 proven gut-protection strategies—probiotic timing, fermented foods, prebiotic sequencing—to prevent dangerous glucose swings and restore balance (diabetics 64+).
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: antibiotics and gut microbiome in older diabetics
+updated: '2026-03-18'
+primaryKeyword: gut health antibiotics diabetes seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

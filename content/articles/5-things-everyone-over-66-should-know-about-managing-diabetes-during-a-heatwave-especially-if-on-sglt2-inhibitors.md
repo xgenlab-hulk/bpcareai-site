@@ -1,16 +1,13 @@
 ---
 title: >-
-  5 Things Everyone Over 66 Should Know About Managing Diabetes During a
-  Heatwave—Especially If on SGLT2 Inhibitors
+  Your Diabetes Meds Safe in Summer Heat? (SGLT2 Guide 66+)
 slug: >-
-  5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
+  diabetes-heatwave-safety-sglt2-seniors-66
 description: >-
-  Covers dehydration risks, ketoacidosis triggers, medication stability, insulin
-  storage safety, and hydration monitoring tactics during extreme ambient heat
-  exposure.
+  SGLT2 inhibitors triple ketoacidosis risk during heatwaves. Get 5 proven safety tactics—dehydration warning signs, insulin storage thresholds, and hydration monitoring—for adults 66+.
 date: '2026-01-08'
 updated: '2026-01-08'
-primaryKeyword: diabetes management during heatwave over 66
+primaryKeyword: diabetes heatwave safety sglt2 inhibitors seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

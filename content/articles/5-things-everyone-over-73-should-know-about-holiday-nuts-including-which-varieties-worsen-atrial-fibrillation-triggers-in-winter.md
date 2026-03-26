@@ -1,17 +1,11 @@
 ---
-title: >-
-  5 Things Everyone Over 73 Should Know About Holiday Nuts—Including Which
-  Varieties Worsen Atrial Fibrillation Triggers in Winter
-slug: >-
-  5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
+title: Holiday Nuts Triggering Your AFib? (73+ Heart Rhythm Warning)
+slug: holiday-nuts-afib-triggers-73
 description: >-
-  Covers magnesium-to-potassium ratios in common holiday nuts, how cold-induced
-  vagal tone interacts with nut-induced arrhythmia risk, and safe serving sizes
-  for seniors with paroxysmal AFib—plus a quick-reference ‘AFib-Friendly Nut
-  Chart’.
+  Paroxysmal AFib worsening in winter? Discover which holiday nuts disrupt magnesium-potassium balance and trigger arrhythmia—plus the AFib-safe nut chart for seniors 73+.
 date: '2026-01-10'
 updated: '2026-01-10'
-primaryKeyword: holiday nuts and atrial fibrillation risk
+primaryKeyword: holiday nuts afib triggers winter seniors 73
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

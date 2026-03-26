@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Often-Overlooked Signs Your Holiday Meal Is Triggering Silent Reflux —
-  Especially If You’re 65+ and Take Calcium Channel Blockers
+title: 7 Silent Reflux Signs After Holiday Meals on BP Medication
 slug: >-
   7-often-overlooked-signs-your-holiday-meal-is-triggering-silent-reflux-especially-if-you-re-65-and-take-calcium-channel-blockers
-description: >-
-  Identifies subtle, non-heartburn reflux symptoms (e.g., morning hoarseness,
-  unexplained cough, post-meal fatigue) in seniors on common antihypertensives,
-  with actionable dietary adjustments to reduce esophageal exposure.
+description: Calcium channel blockers relax your food-pipe valve (esophageal sphincter), raising silent reflux (LPR) risk 30-40%. Watch for morning hoarseness after 65.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: silent reflux symptoms after holiday meals seniors
+updated: '2026-03-26'
+primaryKeyword: silent reflux signs after holiday meals in seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

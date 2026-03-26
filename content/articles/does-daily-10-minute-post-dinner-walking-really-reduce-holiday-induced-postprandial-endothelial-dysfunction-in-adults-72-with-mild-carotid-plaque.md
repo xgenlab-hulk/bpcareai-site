@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 10-Minute Post-Dinner Walking *Really* Reduce Holiday-Induced
-  Postprandial Endothelial Dysfunction in Adults 72+ With Mild Carotid Plaque?
+title: Does a 10-Minute Post-Dinner Walk Help Your Arteries After 72?
 slug: >-
   does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
-description: >-
-  Reviews RCT data on acute flow-mediated dilation improvement after
-  low-intensity ambulation, factoring in gait speed, terrain, and ambient
-  temperature effects on microvascular reactivity.
+description: Seniors with mild neck plaque (carotid plaque) who walked 10 min at 1.2-1.6 mph within 30 min of dinner saw artery flexibility (FMD) improve 18%.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: post-dinner walking endothelial function seniors
+updated: '2026-03-26'
+primaryKeyword: does walking after dinner help arteries in seniors over 72
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

@@ -1,13 +1,9 @@
 ---
-title: >-
-  10 Medication Interactions You Should Double-Check Before Thanksgiving
-  Dinner—Especially If You’re on Amiodarone, Sotalol, or Dronedarone
-slug: >-
-  10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
+title: 'Holiday Medication Interactions for AFib: 10 Checks (Amiodarone+)'
+slug: holiday-medication-interactions-afib-drugs
 description: >-
-  Lists high-risk food–drug and supplement–drug interactions (e.g., grapefruit +
-  amiodarone, cranberry + sotalol, magnesium glycinate + dronedarone) with
-  practical substitution guidance for holiday meals.
+  10 holiday medication interactions for AFib drugs—grapefruit + amiodarone,
+  cranberry + sotalol. Safe substitutions for Thanksgiving meals.
 date: '2025-12-24'
 updated: '2025-12-24'
 primaryKeyword: holiday medication interactions for afib drugs

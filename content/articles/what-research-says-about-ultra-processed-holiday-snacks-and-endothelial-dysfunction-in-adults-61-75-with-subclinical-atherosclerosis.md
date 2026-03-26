@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Research Says About Ultra-Processed Holiday Snacks and Endothelial
-  Dysfunction in Adults 61–75 With Subclinical Atherosclerosis
+title: How Processed Holiday Snacks Damage Artery Walls After 61
 slug: >-
   what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis
-description: >-
-  Synthesizes findings from the 2022–2024 ENDOTRACK cohort on postprandial
-  flow-mediated dilation after consuming common holiday snacks (e.g., flavored
-  popcorn, protein bars, spiced nuts), controlling for AGE and LDL-P.
+description: Flavored popcorn and protein bars cut artery stretch (flow-mediated dilation) 3.2% in 90 min for adults 61-75 with early plaque (subclinical atherosclerosis).
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: ultra-processed snacks endothelial function atherosclerosis
+updated: '2026-03-26'
+primaryKeyword: do processed holiday snacks damage arteries after 61
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

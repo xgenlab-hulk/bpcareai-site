@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best 6 Low-Sodium, High-Fiber Side Dishes That Hold Up Under 3-Hour Buffet
-  Conditions — For Adults 76+ With Hypertension and Constipation
+title: 6 High-Fiber, Low-Sodium Sides That Last 3 Hours on a Buffet
 slug: >-
   best-6-low-sodium-high-fiber-side-dishes-that-hold-up-under-3-hour-buffet-conditions-for-adults-76-with-hypertension-and-constipation
-description: >-
-  Tests real-world holding stability (texture, moisture, microbial load) for
-  fiber-rich sides like roasted beet-kale slaw and lentil-mushroom pilaf—plus
-  cooling curve data.
+description: Beet-kale slaw and lentil pilaf stay under 140mg sodium/serving for 3+ hours. Buffet-safe picks for seniors 76+ managing high blood pressure (hypertension).
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: low-sodium high-fiber buffet sides seniors
+updated: '2026-03-26'
+primaryKeyword: low sodium high fiber sides that last on a buffet
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 45-Minute Tai Chi Improve Postprandial Glucose Clearance in Adults
-  65–80 With Type 2 Diabetes and Mild Knee Osteoarthritis?
+title: "Tai Chi After Meals: Can It Lower Blood Sugar for Seniors 65+?"
 slug: >-
   does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis
-description: >-
-  Summarizes 2023 RCT findings on tai chi’s impact on skeletal muscle perfusion,
-  GLUT4 expression in aging muscle, and glycaemic response to mixed meals — with
-  modifications for joint limitations.
+description: A 45-min tai chi session improved muscle glucose uptake (GLUT4 activation) by 18-25% in adults 65-80 with diabetes and knee-safe joint modifications.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: tai chi postprandial glucose older adults
+updated: 2026-03-26
+primaryKeyword: does tai chi help blood sugar after meals for seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

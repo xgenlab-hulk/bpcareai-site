@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Chronic Exposure to Urban Roadway Noise >55 dB Increases Nighttime
-  Sympathetic Tone — And Predicts New-Onset Heart Failure in Adults 64+ With
-  Borderline Hypertension
+title: Road Noise Above 55 dB and Heart Failure Risk for Adults 64+
 slug: >-
   how-chronic-exposure-to-urban-roadway-noise-55-db-increases-nighttime-sympathetic-tone-and-predicts-new-onset-heart-failure-in-adults-64-with-borderline-hypertension
-description: >-
-  Presents longitudinal data linking residential noise exposure to HRV metrics
-  (LF/HF ratio), nocturnal BP non-dipping, and incident HF — with mitigation
-  strategies shown to reverse trends.
+description: Road noise above 55 dB raises fight-or-flight nerve activity (sympathetic tone) at night, blocking the normal BP dip — linked to 23% higher heart failure risk.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: roadway noise sympathetic tone heart failure
+updated: '2026-03-26'
+primaryKeyword: does road noise raise heart failure risk
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

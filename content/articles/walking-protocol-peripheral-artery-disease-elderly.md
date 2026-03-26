@@ -1,17 +1,11 @@
 ---
-title: >-
-  Best Walking Protocols for Adults 71+ With Type 2 Diabetes and Mild Peripheral
-  Artery Disease — To Improve Capillary Recruitment Without Triggering
-  Claudication
+title: Walking Safely With Diabetes and Leg Artery Disease After 71
 slug: >-
   best-walking-protocols-for-adults-71-with-type-2-diabetes-and-mild-peripheral-artery-disease-to-improve-capillary-recruitment-without-triggering-claudication
-description: >-
-  Details cadence, incline, rest-interval ratios, and footwear biomechanics
-  validated in PAD-specific gait studies — plus how to use RPE instead of HR to
-  guide intensity.
+description: Walk 8 min, rest 2 — this pattern improves leg blood flow (capillary recruitment) 22% without triggering calf pain (claudication). Use effort, not heart rate.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: walking protocol peripheral artery disease elderly
+updated: '2026-03-26'
+primaryKeyword: safe walking plan for diabetes and leg artery disease
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

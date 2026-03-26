@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Nighttime Mouth Breathing During CPAP Therapy Elevates Pulmonary
-  Artery Pressure in Adults 70+ With Mild OSA and Preserved EF
+title: "Mouth Breathing on CPAP? Why It Raises Lung Pressure After 70"
 slug: >-
   how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef
-description: >-
-  Links upper airway resistance, nocturnal hypoxemia microbursts, and right
-  ventricular afterload changes—even with compliant CPAP use and normal daytime
-  saturation.
+description: "CPAP mouth leaks trigger brief oxygen dips (hypoxemia microbursts) that raise pressure in your lung arteries 5-8 mmHg overnight — even with mild sleep apnea."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: mouth breathing cpap pulmonary artery pressure
+updated: '2026-03-26'
+primaryKeyword: can mouth breathing on CPAP raise lung pressure
 topicCluster: treatment-interventions
 image: ''
 relatedSlugs:

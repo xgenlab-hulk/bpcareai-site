@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Late-Night Smartphone Use Alters Nocturnal Atrial Fibrillation Burden —
-  Not Just Onset — in Adults 71+ With Paroxysmal AF and Mild Obstructive Sleep
-  Apnea
+title: Late-Night Phone Use and Worse AFib During Sleep After 71
 slug: >-
   how-late-night-smartphone-use-alters-nocturnal-atrial-fibrillation-burden-not-just-onset-in-adults-71-with-paroxysmal-af-and-mild-obstructive-sleep-apnea
-description: >-
-  Analyzes how blue light–mediated melatonin suppression increases AF episode
-  duration and recurrence frequency during sleep, per implantable loop recorder
-  data.
+description: Blue light suppresses melatonin, extending irregular heartbeat episodes (AF burden) by 23 min/night in adults 71+ with intermittent AFib and mild sleep apnea.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: "health management adults 71+"
+updated: '2026-03-26'
+primaryKeyword: does phone use at night worsen atrial fibrillation
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  Quick Ways to Stabilize Post-Meal Sodium Excretion in Adults 63+ With CKD
-  Stage 3 and High-Volume Holiday Soups
+title: Flushing Extra Sodium After Holiday Soups With CKD Stage 3
 slug: >-
   quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
-description: >-
-  Offers time-sensitive dietary and behavioral levers — including
-  potassium-to-sodium ratio timing, pre-meal hydration with bicarbonate water,
-  and strategic diuretic-food pairing — to enhance natriuresis and reduce
-  interdialytic weight gain risk.
+description: At 30-59 mL/min kidney filtering (CKD stage 3), salty soup lingers. Pre-meal bicarbonate water and potassium timing boost sodium clearance (natriuresis).
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: sodium excretion ckid holiday soups
+updated: '2026-03-26'
+primaryKeyword: how to flush sodium after salty holiday soup
 topicCluster: renal-health
 image: ''
 relatedSlugs:

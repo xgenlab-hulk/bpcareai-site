@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Non-Pharmacologic Strategies for Nighttime Hypertension in Men 57–68 With
-  High-Volume Nocturnal Urination and Low Testosterone
+title: "Men 57-68: Lower Nighttime BP Naturally With Nocturia and Low T"
 slug: >-
   best-non-pharmacologic-strategies-for-nighttime-hypertension-in-men-57-68-with-high-volume-nocturnal-urination-and-low-testosterone
-description: >-
-  Focuses on timed fluid restriction, evening low-dose melatonin, sodium
-  restriction before 6 p.m., and testosterone-optimized resistance training to
-  restore nocturnal dipping.
+description: Night urination (nocturia) plus low testosterone blunts the normal 10-15% BP dip. Fluid cutoff by 6 p.m. and resistance training restore dipping in 6 weeks.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: nighttime hypertension nocturia low testosterone
+updated: '2026-03-26'
+primaryKeyword: lower nighttime blood pressure without medication for men
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About ‘Sugar-Free’ Holiday Cookies Labeled for Diabetics — What the
-  Ingredients Panel Reveals About Polyol Malabsorption and Postprandial Fatigue
+title: "Why 'Diabetic' Cookies Still Upset Your Gut and Spike Glucose After 60"
 slug: >-
   the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
-description: >-
-  Deconstructs sugar alcohol content, fiber claims, and osmotic load in
-  commercially marketed 'diabetic' treats — and links gastrointestinal stress to
-  secondary glucose dysregulation in adults 60+.
+description: "Maltitol in 'diabetic' cookies still raises glucose ~35 mg/dL. Sugar alcohols (polyols) pull water into your gut — causing bloating and fatigue in adults 60+."
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: "diabetes management holiday seniors"
+updated: 2026-03-26
+primaryKeyword: do sugar-free cookies still spike blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

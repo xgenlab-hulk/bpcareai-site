@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Sleep Apnea Severity Predicts Rapid A1C Rise in Adults 57–71 With
-  Untreated OSA and Newly Diagnosed Type 2 Diabetes
+title: How Untreated Sleep Apnea Speeds Up A1C Rise in Adults 57-71
 slug: >-
   how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes
-description: >-
-  Analyzes the hypoxia–HIF-1α–IRS-1 serine phosphorylation pathway linking apnea
-  events to insulin resistance progression — and why AHI >15 is a critical
-  threshold for intervention.
+description: Untreated apnea (OSA) with AHI above 15 events/hour raises A1C 0.4-0.8% faster yearly. Overnight oxygen dips trigger insulin resistance in adults 57-71.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: sleep apnea A1C rise untreated OSA
+updated: 2026-03-26
+primaryKeyword: does sleep apnea make diabetes worse faster
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

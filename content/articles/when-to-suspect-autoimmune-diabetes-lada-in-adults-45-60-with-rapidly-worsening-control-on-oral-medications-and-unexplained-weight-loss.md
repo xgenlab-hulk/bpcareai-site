@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Autoimmune Diabetes (LADA) in Adults 45–60 With Rapidly
-  Worsening Control on Oral Medications and Unexplained Weight Loss
+title: "When Type 2 Diabetes Stops Responding: Could It Be LADA (Ages 45-60)?"
 slug: >-
   when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss
-description: >-
-  Guides primary care providers and patients through red-flag clinical patterns
-  that differentiate late-onset autoimmune diabetes from typical type 2 —
-  including GAD65 testing timing and insulin initiation rationale.
+description: If oral meds fail within 3 years and weight drops unexpectedly, autoimmune diabetes (LADA) affects ~10% first labeled type 2. A GAD65 blood test confirms.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: LADA diagnosis adults 45 to 60
+updated: '2026-03-26'
+primaryKeyword: could my type 2 diabetes actually be LADA
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

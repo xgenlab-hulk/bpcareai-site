@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Chronic Nighttime Ambient Light Exposure From Smart Nightlights Disrupts
-  Melatonin-Mediated NO Synthase Activity — And Elevates Nocturnal SBP in Adults
-  60+ With Sleep-Onset Insomnia
+title: "Your Smart Nightlight May Be Raising Your Blood Pressure at Night"
 slug: >-
   how-chronic-nighttime-ambient-light-exposure-from-smart-nightlights-disrupts-melatonin-mediated-no-synthase-activity-and-elevates-nocturnal-sbp-in-adults-60-with-sleep-onset-insomnia
-description: >-
-  Links blue-enriched light exposure to reduced nitric oxide bioavailability and
-  impaired nocturnal vasodilation — with validated spectrally-tuned lighting
-  protocols.
+description: "Blue LED nightlights suppress your sleep hormone (melatonin), raising systolic BP 8-12 mmHg in adults 60+. Switching to amber light restores the nighttime dip."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: smart-nightlight-nocturnal-sbp-elevation
+updated: '2026-03-25'
+primaryKeyword: can nightlights raise blood pressure while sleeping
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

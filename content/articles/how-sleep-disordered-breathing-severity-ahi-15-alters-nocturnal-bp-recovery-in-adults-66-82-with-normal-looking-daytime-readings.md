@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Sleep-Disordered Breathing Severity (AHI >15) Alters Nocturnal BP Recovery
-  in Adults 66–82 With Normal-Looking Daytime Readings
+title: "Sleep Apnea and Nighttime Blood Pressure: What Happens After 66"
 slug: >-
   how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
-description: >-
-  Connects apnea-hypopnea index thresholds to non-dipping, reverse dipping, and
-  morning surge magnitude—using data from the Sleep Heart Health Study and home
-  polygraphy correlations.
+description: When breathing pauses exceed 15/hour (AHI >15), nighttime BP fails to dip — raising morning surge risk 2.4x in adults 66-82 with normal daytime readings.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: sleep apnea nocturnal blood pressure recovery adults 66-82
+updated: '2026-03-26'
+primaryKeyword: does sleep apnea raise blood pressure at night
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

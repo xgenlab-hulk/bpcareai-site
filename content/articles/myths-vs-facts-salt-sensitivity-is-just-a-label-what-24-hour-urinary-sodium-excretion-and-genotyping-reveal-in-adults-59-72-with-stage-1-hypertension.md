@@ -1,17 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: ‘Salt Sensitivity’ Is Just a Label — What 24-Hour Urinary
-  Sodium Excretion and Genotyping Reveal in Adults 59–72 With Stage 1
-  Hypertension
+title: "Salt Sensitivity: Myth or Real Risk for Adults 59-72?"
 slug: >-
   myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
-description: >-
-  Debunks oversimplifications by integrating urinary sodium:creatinine ratios,
-  ACE I/D genotype, and dietary potassium density to define *clinically
-  actionable* salt sensitivity subtypes.
+description: A 24-hour urine sodium test plus ACE gene typing reveals 3 salt-response subtypes (salt sensitivity) — 40% of adults over 59 respond more to potassium swaps.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: salt sensitivity hypertension urinary sodium genotyping
+updated: '2026-03-26'
+primaryKeyword: am I really salt sensitive or is it just a label
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Are the Earliest Signs of Autonomic Failure Masquerading as Labile
-  Hypertension in Adults 70+ With Parkinson’s Disease and Orthostatic
-  Intolerance?
+title: Is It Hypertension or Autonomic Failure? A Parkinson's Guide (70+)
 slug: >-
   what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
-description: >-
-  Distinguishes neurogenic hypertension patterns—supine surges, postprandial
-  lability, and loss of BP variability—from essential hypertension using
-  beat-to-beat monitoring and Valsalva response analysis.
+description: Lying-down BP above 180 but standing drops below 90 — not regular hypertension. The breath-hold test (Valsalva) separates autonomic failure in Parkinson's 70+.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: autonomic failure labile hypertension parkinsons
+updated: '2026-03-26'
+primaryKeyword: autonomic failure vs hypertension in Parkinson's
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

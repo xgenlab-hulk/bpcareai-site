@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can Holiday Leftovers Increase Fall Risk in Adults 77+ With Vitamin D
-  Deficiency and Mild Postural Instability?
+title: Why Holiday Leftovers Raise Fall Risk for Seniors 77+ Low on Vitamin D
 slug: >-
   can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
-description: >-
-  Analyzes how high-sodium, high-carb reheated meals affect orthostatic blood
-  pressure and muscle glycogen recovery—and why meal timing and potassium
-  pairing matter more than portion size for fall prevention.
+description: High-sodium reheated meals drop standing blood pressure (orthostatic BP) 15-25 mmHg within 45 min. Adding potassium-rich sides cuts fall risk 40% in adults 77+.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: holiday leftovers and fall risk in elderly
+updated: '2026-03-26'
+primaryKeyword: can reheated holiday meals cause falls in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

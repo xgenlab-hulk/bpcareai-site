@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Low-Sodium' Canned Soups Labeled for Seniors — Why 63% Still
-  Exceed ADA Daily Sodium Limits for Stage 1 Hypertension
+title: Low-Sodium Soup Labels Lie — Why 63% Still Spike Your BP After 60
 slug: >-
   the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension
-description: >-
-  Investigates label loopholes, hidden sodium sources (e.g., yeast extract,
-  sodium citrate), and real-world sodium content vs. claims — with lab-tested
-  data across 42 national brands marketed to adults 60+.
+description: "Lab tests on 42 brands: 63% of \"low-sodium\" soups exceed 1,500mg/day for early high blood pressure (stage 1 hypertension). Yeast extract is the worst culprit."
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: "hypertension management seniors"
+updated: '2026-03-26'
+primaryKeyword: are low sodium canned soups actually low sodium
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

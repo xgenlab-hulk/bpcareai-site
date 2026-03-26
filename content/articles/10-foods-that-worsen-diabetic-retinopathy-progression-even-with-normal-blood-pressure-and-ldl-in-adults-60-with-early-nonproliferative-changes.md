@@ -1,29 +1,18 @@
 ---
-title: >-
-  10 Foods That *Worsen* Diabetic Retinopathy Progression — Even With Normal
-  Blood Pressure and LDL — In Adults 60+ With Early Nonproliferative Changes
-slug: >-
-  10-foods-that-worsen-diabetic-retinopathy-progression-even-with-normal-blood-pressure-and-ldl-in-adults-60-with-early-nonproliferative-changes
-description: >-
-  Identifies specific dietary drivers (e.g., high-AGE grilled meats, oxidized
-  seed oils, ultra-processed starches) that exacerbate retinal endothelial
-  inflammation independent of classic risk markers.
+title: 10 Foods That Worsen Diabetic Retinopathy — Even With Normal A1c
+slug: foods-worsen-diabetic-retinopathy
+description: Grilled meats form harmful compounds (AGEs) that damage retinal blood vessels — independent of A1c, BP, or LDL. 10 foods to limit after 60.
 date: '2026-02-03'
-updated: '2026-02-03'
-primaryKeyword: foods that worsen diabetic retinopathy
+updated: '2026-03-26'
+primaryKeyword: foods that worsen diabetic eye damage after 60
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
-  - >-
-    10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
-  - >-
-    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
-  - >-
-    what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose
-  - >-
-    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
-  - >-
-    12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication
+- 10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
+- warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
+- what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose
+- warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+- 12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication
 ---
 
 # 10 Foods That Can Worsen Diabetic Retinopathy — Even With Well-Controlled Blood Pressure and Cholesterol

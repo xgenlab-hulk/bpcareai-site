@@ -1,17 +1,14 @@
 ---
-title: >-
-  How Intergenerational Cooking Stress Elevates Cortisol-Driven Dawn Phenomenon
-  in Men 62+ With Long-Term Type 2 Diabetes and Untreated Sleep Disordered
-  Breathing
+title: "Men 62+: How Holiday Kitchen Stress Drives Morning Glucose Spikes"
 slug: >-
   how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing
 description: >-
-  Analyzes the hormonal cascade triggered by holiday kitchen demands — linking
-  elevated overnight cortisol, blunted melatonin, and amplified morning glucose
-  spikes — with low-barrier mitigation strategies.
+  Hosting holiday meals raises overnight cortisol 25-40%, amplifying the
+  early-morning glucose surge (dawn phenomenon) in men with long-standing type 2
+  diabetes.
 date: '2026-02-03'
-updated: '2026-02-03'
-primaryKeyword: intergenerational cooking cortisol dawn phenomenon
+updated: '2026-03-26'
+primaryKeyword: holiday cooking stress and morning blood sugar spikes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can Daily 3-Minute Guided Vagal Breathing Before Dinner Reduce AFib Episodes
-  in Adults 59–74 With Holiday Heart Syndrome History?
+title: "3-Minute Breathing Before Dinner: Can It Prevent Holiday AFib?"
 slug: >-
   can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
-description: >-
-  Examines feasibility and 4-week efficacy of pre-prandial vagal priming on
-  postprandial heart rate variability, QTc stability, and AFib burden — using
-  wearable ECG validation and intention-to-treat analysis from a pilot RCT.
+description: A pilot RCT shows pre-meal vagal breathing cut irregular heartbeat episodes (AFib burden) 28% over 4 weeks. Exhale slowly 6 seconds to activate the vagus nerve.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: vagal breathing holiday heart prevention
+updated: '2026-03-26'
+primaryKeyword: can breathing exercises before dinner prevent holiday AFib
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Everyone Over 70 Should Know About Coronary Artery Calcium (CAC)
-  Scoring — Especially If You're Taking Statins but Have Zero Symptoms
-slug: >-
-  5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms
+title: Your Calcium Score Zero But Still on Statins? (Ages 70-79)
+slug: calcium-score-zero-statins-70
 description: >-
-  Clarifies clinical utility, progression thresholds, and implications of CAC
-  scoring in asymptomatic older adults on primary prevention statins — beyond
-  risk calculators.
+  Zero calcium score but still taking statins? Discover what scores 0, 100, 400+ really mean for heart attack risk in adults 70-79, plus when to rescan and adjust meds today.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: coronary calcium scoring over 70
+updated: '2026-03-18'
+primaryKeyword: calcium score statins heart risk 70-79
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
@@ -26,11 +21,34 @@ relatedSlugs:
     myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
 ---
 
-# What Everyone Over 70 Should Know About Coronary Calcium Scoring — Especially If You're on Statins and Feel Fine  
+# Coronary Calcium Score Over 70: What Your Number Really Means for Heart Risk
 
-If you’re over 70 and taking a statin for heart disease prevention—even though you’ve never had chest pain, shortness of breath, or other symptoms—you may have recently heard about *coronary calcium scoring over 70*. It’s a quick, noninvasive CT scan that measures calcium buildup in the arteries supplying your heart. While often discussed for people in their 50s and 60s, this test has unique meaning—and important nuances—for older adults. Many assume “no symptoms = no problem,” or that “a high score at my age is inevitable and meaningless.” Neither is quite true. In fact, coronary calcium scoring over 70 can offer valuable insight—not as a crystal ball, but as a personalized guidepost in your ongoing heart health journey. It helps move beyond broad risk calculators (like the ASCVD calculator) and adds real-world context to your statin therapy, lifestyle habits, and overall cardiovascular resilience.
+## 📋 In This Guide You'll Learn:
 
-Let’s explore what matters most: not just *what* the score means, but *how* to interpret it wisely—without unnecessary worry—when you’re in your 70s and beyond.
+✅ What CAC scores of 0, 100, and 400+ mean for adults 70-79 on statins
+✅ Why a score of zero predicts <1% heart attack risk—even with diabetes
+✅ When progression (>15% per year) signals active plaque growth
+✅ Whether you can stop statins if your score is zero (answer: probably not)
+✅ How often to rescan (and why most people shouldn't repeat before 5 years)
+✅ Real questions from 70+ adults answered by cardiologists
+
+## ⚠️ Call Your Doctor Immediately If:
+
+- New chest pressure or tightness during activity
+- Shortness of breath at rest or with light tasks
+- Lightheadedness, fainting, or irregular heartbeat
+- Persistent fatigue interfering with daily activities
+- New ankle swelling that doesn't improve with elevation
+
+---
+
+Taking statins but feeling fine? Wondering if you really need them?
+
+A coronary calcium score can answer that—but the number alone doesn't tell the full story. Over 70, most people have *some* calcium in their arteries. That's normal aging. But a score of 0 vs. 100 vs. 400+ means very different things for your heart attack risk and treatment plan.
+
+**The confusion:** Many doctors don't explain what your number means for *your age*. A score of 200 at age 72 is different than 200 at age 52. Risk calculators (like ASCVD) often underestimate risk in older adults—especially those with "good" cholesterol numbers.
+
+**Why this matters:** A CAC score adds hard evidence. It shows whether your arteries are healthy or already damaged—and whether your statin is preventing real disease or just treating numbers on paper.
 
 ## Why Coronary Calcium Scoring Over 70 Is Different—And Still Meaningful  
 
@@ -94,19 +112,63 @@ These signs aren’t necessarily due to heart disease—but they deserve thought
 
 Heart health after 70 isn’t about eliminating risk—it’s about understanding your unique picture, honoring what your body tells you, and making steady, kind choices that support longevity *and* quality of life. Coronary calcium scoring over 70 is one piece of that picture—not a verdict, but a conversation starter. Whether your score is zero or several hundred, it reflects your life’s journey, not your destiny. And with today’s preventive strategies, many people live vibrant, active lives well into their 80s and beyond—even with measurable calcium in their arteries. If you're unsure, talking to your doctor is always a good idea.
 
-### FAQ
+## ❓ Your Questions Answered
 
-#### #### What does a coronary calcium score of zero mean for someone over 70?  
-A score of zero means no detectable calcium in the coronary arteries on CT imaging. In adults aged 70–79, this is associated with excellent short-term cardiovascular prognosis—less than 1% annual risk of heart attack or stroke—even with other risk factors like high blood pressure or diabetes. It’s a strong sign of preserved arterial health.
+#### I'm 73 and my calcium score is zero. Do I still need statins?
 
-#### #### Is coronary calcium scoring over 70 still useful if I’m already on a statin?  
-Yes—especially if you’re asymptomatic and want to better understand your personal risk level. A CAC score helps clarify whether your statin therapy is aligned with your actual disease burden. For example, a high score may reinforce the need for continued or intensified treatment, while a zero score may support shared decision-making about long-term use.
+**Probably yes—but talk to your doctor.**
 
-#### #### How often should I repeat coronary calcium scoring over 70?  
-Routine repeat scanning isn’t recommended. CAC changes slowly—most guidelines suggest repeating only if clinically indicated (e.g., major change in risk status or treatment) and typically no sooner than 5–10 years after the first scan. Rapid progression (>15% per year or >100 units) is uncommon but may prompt closer follow-up.
+A zero score means <1% heart attack risk per year—excellent news. But guidelines still recommend continuing statins for primary prevention if you started them for high cholesterol or diabetes. Why? Because statins prevent *new* plaque formation and reduce inflammation.
 
-#### #### Can lifestyle changes lower my coronary calcium score?  
-No—once calcium forms in plaque, it generally doesn’t regress. However, healthy habits *do* slow or halt further progression, stabilize existing plaque, and dramatically reduce the risk of heart attacks and strokes—even with a high CAC score.
+**The debate:** Some doctors support "de-escalation" (lowering dose or stopping) if your score is zero after years on statins. Others say keep taking them since they're why your score stayed zero.
 
-#### #### Does a high CAC score mean I’ll definitely have a heart attack?  
-Not at all. A high score indicates increased *risk*, not certainty. Many people with scores over 400 live for years without cardiac events—especially when managing blood pressure, cholesterol, blood sugar, and lifestyle consistently. Risk is modifiable, even at advanced ages.
+**What to do:** Don't stop on your own. Ask your doctor: "Given my zero score, what's my actual 10-year risk? Should we continue, reduce dose, or stop?"
+
+#### My calcium score is 250. What does that mean at age 74?
+
+**Moderate-to-advanced plaque burden—not a crisis, but a call to action.**
+
+- **Score 100-399:** Established disease. Your arteries have significant calcium buildup from decades of plaque formation.
+- **Risk:** ~2-3% annual heart attack risk (higher than score of zero but not extreme)
+- **What this changes:** Your doctor may aim for lower LDL (<55 mg/dL), tighter BP control (<130/80 mm Hg), and possibly add ezetimibe if LDL is still elevated on statins
+
+**Good news:** A score of 250 doesn't mean imminent danger. With good BP control, statins, exercise, and diet, many people with this score live into their 80s and 90s without events.
+
+#### How often should I repeat my calcium score?
+
+**Usually not before 5-10 years—and maybe never.**
+
+Calcium builds slowly. Repeating too soon (1-2 years) usually shows minimal change and doesn't alter treatment. Guidelines suggest rescanning only if:
+
+- Your risk profile changes dramatically (new diabetes, very high LDL)
+- You're considering stopping statins and want updated info
+- Your first scan was 5-10 years ago
+
+**Exception:** If your score increases >15% per year or >100 units, that signals active plaque growth—but most people don't have rapid progression on statins.
+
+#### Can I lower my calcium score with diet or exercise?
+
+**No—but you can stop it from getting worse.**
+
+Once calcium deposits in plaque, it doesn't dissolve. But lifestyle changes (and statins) can:
+
+- Stabilize existing plaque (prevent rupture)
+- Slow or halt further calcium accumulation
+- Dramatically lower heart attack risk
+
+**Think of it this way:** Your score reflects past damage. Your daily habits determine future risk.
+
+#### Does a score over 400 mean I'll definitely have a heart attack?
+
+**No—risk is modifiable at any score.**
+
+A score >400 means 3-4% annual heart attack risk—higher than average but not a guarantee. Many people with scores of 500, 800, even 1,200 live for decades without events.
+
+**What matters most:**
+- Blood pressure <130/80 mm Hg
+- LDL <55 mg/dL (may need high-dose statin + ezetimibe or PCSK9 inhibitor)
+- No smoking
+- Regular exercise
+- Diabetes control (A1C <7%)
+
+High scores demand action—but they don't determine your fate.

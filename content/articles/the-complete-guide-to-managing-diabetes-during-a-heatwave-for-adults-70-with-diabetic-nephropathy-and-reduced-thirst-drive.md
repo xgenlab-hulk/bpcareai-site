@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Managing Diabetes During a Heatwave — For Adults 70+
-  With Diabetic Nephropathy and Reduced Thirst Drive
+title: "Seniors 70+: Keeping Diabetes Stable During a Heatwave"
 slug: >-
   the-complete-guide-to-managing-diabetes-during-a-heatwave-for-adults-70-with-diabetic-nephropathy-and-reduced-thirst-drive
-description: >-
-  Covers sodium-potassium shifts from profuse sweating, accelerated insulin
-  degradation in unrefrigerated pens, dehydration-induced hyperosmolar state
-  risk, and safe hydration formulas (with electrolyte ratios) — plus indoor
-  cooling hacks for low-income seniors.
+description: Insulin degrades 20-30% faster above 86F. With weak thirst and kidney disease (diabetic nephropathy), dehydration triggers dangerous glucose spikes in hours.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: diabetes heatwave management elderly
+updated: '2026-03-26'
+primaryKeyword: how to manage diabetes safely during a heatwave
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

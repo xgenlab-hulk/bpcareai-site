@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Cardiac Mitochondrial Biogenesis Using Time-Restricted
-  Eating With Late-Afternoon Polyphenol Timing — For Adults 59–74 With Diastolic
-  Heart Failure and Low Peak VO2
+title: Time-Restricted Eating to Support Heart Cell Energy After 59
 slug: >-
   natural-ways-to-support-cardiac-mitochondrial-biogenesis-using-time-restricted-eating-with-late-afternoon-polyphenol-timing-for-adults-59-74-with-diastolic-heart-failure-and-low-peak-vo2
-description: >-
-  Explores how circadian-aligned polyphenol intake (e.g., pomegranate, green
-  tea) combined with 10-hour feeding windows enhances PGC-1α signaling and
-  improves myocardial energetics — with sample timing schedules.
+description: A 10h eating window plus afternoon polyphenols boosts heart cell energy (PGC-1a signaling) in adults 59-74 with stiff-heart failure and low exercise capacity.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: mitochondrial biogenesis heart failure trf
+updated: 2026-03-26
+primaryKeyword: time-restricted eating for heart failure recovery
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

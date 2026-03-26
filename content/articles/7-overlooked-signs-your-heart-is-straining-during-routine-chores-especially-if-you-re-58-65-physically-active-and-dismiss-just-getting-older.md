@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Overlooked Signs Your Heart Is Straining During Routine Chores — Especially
-  If You're 58–65, Physically Active, and Dismiss 'Just Getting Older'
+title: Heart Strain During Chores? 7 Signs Active Adults 58-65 Miss
 slug: >-
   7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
-description: >-
-  Identifies subtle but clinically meaningful exertional cues (e.g., delayed
-  speech recovery after vacuuming, post-stairway jaw fatigue) that precede
-  formal diastolic dysfunction diagnosis in high-functioning midlife adults.
+description: Delayed speech after vacuuming or jaw fatigue on stairs signals early heart stiffening (diastolic dysfunction) — often dismissed as aging in adults 58-65.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: early heart strain signs routine activity
+updated: '2026-03-26'
+primaryKeyword: subtle signs your heart is straining during chores
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

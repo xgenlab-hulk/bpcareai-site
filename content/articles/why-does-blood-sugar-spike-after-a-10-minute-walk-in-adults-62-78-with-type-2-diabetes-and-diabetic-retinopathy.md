@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Does Blood Sugar Spike After a 10-Minute Walk in Adults 62–78 With Type 2
-  Diabetes and Diabetic Retinopathy?
+title: Why Blood Sugar Rises After Walking With Diabetes at 62+
 slug: >-
   why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
-description: >-
-  Explores the paradoxical post-exercise hyperglycemia phenomenon in older
-  adults with advanced microvascular complications, examining catecholamine
-  surges, hepatic glucose output, and timing nuances.
+description: A 10-min walk can spike glucose 20-40 mg/dL when stress hormones (catecholamines) trigger liver glucose release. Worse with retinopathy — slow your pace.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: post-exercise blood sugar spike older adults
+updated: 2026-03-26
+primaryKeyword: blood sugar goes up after walking with diabetes
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

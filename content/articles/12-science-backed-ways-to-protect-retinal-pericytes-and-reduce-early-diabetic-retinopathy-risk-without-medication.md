@@ -1,16 +1,10 @@
 ---
-title: >-
-  12 Science-Backed Ways to Protect Retinal Pericytes and Reduce Early Diabetic
-  Retinopathy Risk — Without Medication
-slug: >-
-  12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication
-description: >-
-  Details nutrient-gene interactions (e.g., lutein-Nrf2, zinc-ZO-1), circadian
-  light exposure timing, and postprandial walking protocols shown to preserve
-  blood-retina barrier integrity in preclinical and cohort studies.
+title: Vision Changes Worrying You? Protect Your Eyes (Diabetes 50+)
+slug: protect-eyes-diabetic-retinopathy-natural
+description: Tiny eye vessel cells (retinal pericytes) die 2-3 years after diabetes onset — even with A1c under 6.5%. Lutein-rich meals and timed walks slow the loss.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: protect retinal pericytes diabetic retinopathy
+updated: '2026-03-26'
+primaryKeyword: protect eyes from diabetic retinopathy naturally
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

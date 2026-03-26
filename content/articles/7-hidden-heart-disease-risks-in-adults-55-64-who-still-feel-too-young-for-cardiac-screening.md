@@ -1,16 +1,10 @@
 ---
-title: >-
-  7 Hidden Heart Disease Risks in Adults 55–64 Who Still Feel 'Too Young' for
-  Cardiac Screening
-slug: >-
-  7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
-description: >-
-  Explores under-recognized risk accelerators — like chronic job stress, silent
-  sleep-disordered breathing, and midlife sarcopenia — that silently damage
-  vasculature before traditional risk calculators flag concern.
+title: Feeling Too Young for Heart Screening? 7 Risks Ages 55-64
+slug: heart-risks-55-64-screening
+description: Risk scores miss 30% of adults 55-64 with stiffening arteries (subclinical atherosclerosis). Job stress, sleep apnea, and muscle loss drive silent damage.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: hidden heart disease risks age 55-64
+updated: '2026-03-26'
+primaryKeyword: hidden heart risks in your late 50s and early 60s
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

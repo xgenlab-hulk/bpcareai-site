@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Blood Pressure Drops During Hot Showers — Especially in
-  Adults 75+ With Carotid Sinus Hypersensitivity and Prior Falls
+title: "BP Drops in Hot Showers: When to Worry After 75"
 slug: >-
   when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
-description: >-
-  Identifies the thermoregulatory-autonomic cascade that triggers syncope in
-  frail older adults, with prevention strategies validated in geriatric fall
-  clinics.
+description: Hot water drops systolic BP 20-30 mmHg in 5 minutes for adults 75+ via a neck pressure reflex (carotid sinus hypersensitivity). Cap temperature at 100F.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: blood pressure drop during hot shower
+updated: '2026-03-26'
+primaryKeyword: blood pressure drops during hot shower in elderly
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

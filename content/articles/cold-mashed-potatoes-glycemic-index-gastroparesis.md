@@ -1,18 +1,14 @@
 ---
-title: >-
-  Can You Eat Leftover Mashed Potatoes Cold the Next Morning Without Spiking
-  Glucose? A Glycemic Index Comparison for Adults 64+ With Gastroparesis-Like
-  Symptoms
+title: "Cold vs. Reheated Mashed Potatoes: Which Spikes Glucose After 64?"
 slug: >-
   can-you-eat-leftover-mashed-potatoes-cold-the-next-morning-without-spiking-glucose-a-glycemic-index-comparison-for-adults-64-with-gastroparesis-like-symptoms
 description: >-
-  Compares glycemic response curves (via continuous glucose monitoring) of
-  reheated vs. chilled vs. room-temp mashed potatoes in adults with delayed
-  gastric motility — including starch retrogradation effects and resistant
-  starch conversion thresholds.
+  Chilling potatoes 12+ hours builds resistant starch (RS3), cutting glucose
+  spikes ~15 mg/dL — vital for adults 64+ with slow stomach emptying
+  (gastroparesis).
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: cold mashed potatoes glycemic index gastroparesis
+updated: '2026-03-26'
+primaryKeyword: do cold leftover mashed potatoes spike blood sugar less
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

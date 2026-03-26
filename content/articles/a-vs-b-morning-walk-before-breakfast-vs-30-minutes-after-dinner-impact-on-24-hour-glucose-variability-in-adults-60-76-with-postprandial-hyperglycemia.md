@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Morning Walk Before Breakfast vs. 30 Minutes After Dinner — Impact on
-  24-Hour Glucose Variability in Adults 60–76 With Postprandial Hyperglycemia
+title: "Morning Walk vs. After-Dinner Walk: Which Controls Blood Sugar Better?"
 slug: >-
   a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
-description: >-
-  Compares acute effects on hepatic glucose output, postprandial insulin
-  sensitivity, and nocturnal hypoglycemia risk using CGM-derived MAGE and TAR
-  metrics — with personalized timing recommendations based on baseline A1c and
-  renal function.
+description: Pre-breakfast walks cut fasting glucose 8-12 mg/dL but risk lows. Post-dinner walks reduce sugar spikes (postprandial glucose) 20-35% with less crash risk.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: exercise timing postprandial glucose variability
+updated: '2026-03-26'
+primaryKeyword: morning walk vs evening walk for blood sugar control
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting Your Oral Glucose Tolerance Test (OGTT) if
-  You’re 55+ and Have Unexplained Fatigue, Night Sweats, and Reactive
-  Hypoglycemia
+title: "Reading Your OGTT Results: What Reactive Hypoglycemia Means After 55"
 slug: >-
   the-complete-guide-to-interpreting-your-oral-glucose-tolerance-test-ogtt-if-you-re-55-and-have-unexplained-fatigue-night-sweats-and-reactive-hypoglycemia
-description: >-
-  Breaks down nuanced OGTT interpretation — including 3-hour insulin curves,
-  C-peptide ratios, and distinguishing idiopathic postprandial syndrome from
-  true insulinoma or nesidioblastosis.
+description: A glucose crash below 55 mg/dL at hour 3 on your sugar tolerance test (OGTT) may signal excess insulin, not skipping meals. C-peptide ratios clarify.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: OGTT interpretation reactive hypoglycemia adults
+updated: '2026-03-26'
+primaryKeyword: how to read OGTT results with reactive hypoglycemia
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

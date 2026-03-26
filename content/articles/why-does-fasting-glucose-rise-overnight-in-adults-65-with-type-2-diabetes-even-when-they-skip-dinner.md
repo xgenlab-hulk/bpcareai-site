@@ -1,17 +1,11 @@
 ---
-title: >-
-  Why Does Fasting Glucose Rise Overnight in Adults 65+ With Type 2 Diabetes —
-  Even When They Skip Dinner?
+title: Skipped Dinner but Morning Sugar High? Dawn Effect After 65
 slug: >-
   why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
-description: >-
-  Explores the dawn phenomenon vs. Somogyi effect in older adults, highlighting
-  age-related hepatic insulin resistance, circadian cortisol shifts, and
-  nocturnal growth hormone surges — with actionable bedtime testing and dietary
-  timing strategies.
+description: Your liver dumps glucose between 3-6 AM (dawn phenomenon). After 65, this surge runs 15-25 mg/dL higher than at 45 — even on an empty stomach.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: overnight fasting glucose rise in seniors
+updated: '2026-03-26'
+primaryKeyword: why does fasting blood sugar rise overnight with diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

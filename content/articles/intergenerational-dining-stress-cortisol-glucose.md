@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Intergenerational Dining Stress Activates the Amygdala-Hypothalamic Axis —
-  And What to Eat Before the Gathering to Stabilize Cortisol and Glucose in
-  Adults 60+
+title: Family Gatherings Spiking Your Cortisol and Blood Sugar After 60?
 slug: >-
   how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
-description: >-
-  Links social-cognitive load (e.g., caregiving, conflict avoidance, role
-  expectations) to neuroendocrine meal responses, then prescribes pre-gathering
-  nutrition to blunt cortisol-driven glycemic volatility and vagal withdrawal.
+description: Caregiving tension at meals raises stress hormones (cortisol) 25-40%, spiking glucose 30-50 mg/dL. 15g protein 45 min before buffers the sugar surge.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: intergenerational dining stress cortisol glucose
+updated: '2026-03-26'
+primaryKeyword: does family dinner stress raise blood sugar and cortisol
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

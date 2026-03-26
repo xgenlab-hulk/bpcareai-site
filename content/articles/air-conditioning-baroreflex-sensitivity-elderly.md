@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Volume Air Conditioning Use Alters Baroreflex Sensitivity in
-  Adults 73+ With Isolated Systolic Hypertension — And Why 'Just Turning It Up'
-  Makes It Worse
+title: Why Constant AC Makes Blood Pressure Harder to Control After 73
 slug: >-
   how-chronic-low-volume-air-conditioning-use-alters-baroreflex-sensitivity-in-adults-73-with-isolated-systolic-hypertension-and-why-just-turning-it-up-makes-it-worse
-description: >-
-  Examines how constant low-grade thermal stress from aging HVAC systems impairs
-  autonomic BP regulation — with evidence-based HVAC recalibration thresholds
-  for frail seniors.
+description: "Steady low-grade cooling blunts your pressure-adjusting reflex (baroreflex) by 18-25%. Setting rooms to 73-76\xB0F helps stabilize systolic swings after 73."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: air conditioning baroreflex sensitivity elderly
+updated: '2026-03-25'
+primaryKeyword: can air conditioning cause blood pressure swings in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

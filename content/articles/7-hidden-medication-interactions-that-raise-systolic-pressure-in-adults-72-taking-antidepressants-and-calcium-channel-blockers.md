@@ -1,16 +1,13 @@
 ---
-title: >-
-  7 Hidden Medication Interactions That Raise Systolic Pressure in Adults 72+
-  Taking Antidepressants and Calcium Channel Blockers
-slug: >-
-  7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers
+title: Antidepressants Raising Your Systolic BP? (Adults 72+)
+slug: ssri-calcium-blocker-bp-spikes-72
 description: >-
-  Identifies under-recognized pharmacodynamic clashes between SSRIs/SNRIs and
-  antihypertensives — including QT prolongation synergy, baroreflex blunting,
-  and orthostatic amplification — with dosing and monitoring guidance.
+  On SSRIs and amlodipine? Learn 7 hidden interactions that raise systolic BP
+  5–15 mm Hg—plus dose spacing tricks and baroreflex fixes essential for adults
+  72+.
 date: '2026-02-25'
 updated: '2026-02-25'
-primaryKeyword: antidepressant calcium channel blocker interaction
+primaryKeyword: antidepressant bp interaction seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Grade Inflammation Drives Resistant Hypertension in Adults
-  60–74 With Elevated hs-CRP and Gum Recession
+title: "Gum Disease and Resistant Hypertension: The Oral-Heart Link"
 slug: >-
   how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
-description: >-
-  Examines the oral-systemic link between periodontitis, IL-6 elevation, and
-  endothelial dysfunction—and how treating gum disease may lower systolic BP by
-  8–12 mmHg in this cohort.
+description: Inflamed gums (periodontitis) raise IL-6 and stiffen arteries in adults 60-74. Treating gum disease lowers systolic BP 8-12 mmHg in resistant cases.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: inflammation and resistant hypertension adults 60-74
+updated: '2026-03-26'
+primaryKeyword: can gum disease cause high blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

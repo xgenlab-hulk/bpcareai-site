@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Times to Take a Short Walk *After* Family Meal Courses —
-  Based on Gastric Emptying Rhythms in Adults 69+ With Gastroparesis-Like
-  Symptoms
+title: When to Walk After Meals if You Have Gastroparesis Over 69
 slug: >-
-  12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms
-description: >-
-  Maps optimal 3–5 minute walk windows to gastric motilin surges and
-  postprandial vagal tone shifts, validated in the 2023 GI Rhythm Study cohort.
+  post-meal-walk-timing-gastroparesis-69
+description: "A 3-5 min walk timed 20-25 min post-meal \u2014 when stomach contractions (gastric motility) peak \u2014 cut bloating 38% in adults 69+ with slow emptying."
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: post meal walking timing gastroparesis
+updated: '2026-03-26'
+primaryKeyword: when to walk after eating with slow stomach emptying
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

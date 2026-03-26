@@ -1,17 +1,10 @@
 ---
-title: >-
-  5 Things Everyone Over 75 Should Know About Blood Pressure Medication Timing —
-  Especially If You Take a Diuretic and a Calcium Channel Blocker
-slug: >-
-  5-things-everyone-over-75-should-know-about-blood-pressure-medication-timing-especially-if-you-take-a-diuretic-and-a-calcium-channel-blocker
-description: >-
-  Explains chronopharmacokinetic principles behind optimal dosing windows, how
-  circadian renin-angiotensin shifts interact with diuretic-induced volume
-  depletion, and why evening dosing of amlodipine may reduce nocturnal
-  non-dipping.
+title: "Adults 75+: When to Take Your Diuretic and Amlodipine for Best Results"
+slug: bp-medication-timing-diuretic-amlodipine-75
+description: Evening amlodipine restores nighttime BP dipping (circadian rhythm) by up to 12 mmHg in adults 75+ — but diuretics taken late raise fall risk 2.4x.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: blood pressure medication timing over 75
+updated: '2026-03-26'
+primaryKeyword: when should I take blood pressure meds if I'm over 75
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

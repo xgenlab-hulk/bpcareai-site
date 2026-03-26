@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Orthostatic Hypertension *Instead* of Hypotension in Adults
-  77+ With Recurrent Falls — And Why Your BP Cuff May Be Lying to You
+title: "Adults 77+: When Standing Raises Blood Pressure Instead of Dropping It"
 slug: >-
   when-to-suspect-orthostatic-hypertension-instead-of-hypotension-in-adults-77-with-recurrent-falls-and-why-your-bp-cuff-may-be-lying-to-you
-description: >-
-  Details diagnostic red flags (e.g., supine SBP >150 + standing SBP >170), cuff
-  placement errors, and validated seated-to-standing protocols for detecting
-  paradoxical BP surges in frail elders.
+description: "Standing BP above 170 with supine over 150 signals a paradoxical rise (orthostatic hypertension), not a drop. Cuff errors miss it in 1 of 3 frail elders."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: orthostatic-hypertension-falls-elderly
+updated: '2026-03-25'
+primaryKeyword: blood pressure goes up when standing instead of dropping
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

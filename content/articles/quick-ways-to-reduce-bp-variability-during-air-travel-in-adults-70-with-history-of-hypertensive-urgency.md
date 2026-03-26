@@ -1,16 +1,11 @@
 ---
-title: >-
-  Quick Ways to Reduce BP Variability During Air Travel in Adults 70+ With
-  History of Hypertensive Urgency
+title: Blood Pressure Swings During Flights — What Helps After 70
 slug: >-
   quick-ways-to-reduce-bp-variability-during-air-travel-in-adults-70-with-history-of-hypertensive-urgency
-description: >-
-  Targets cabin pressure shifts, dehydration rhythms, and circadian desynchrony
-  — with pre-flight hydration timing, in-flight isometric protocols, and
-  wearable-guided breathing cues.
+description: Cabin pressure mimics 6,000-8,000 ft altitude, raising systolic 10-20 mmHg mid-flight. Pre-flight hydration and leg squeezes cut BP swings (variability) by 30%.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: air travel blood pressure variability
+updated: '2026-03-26'
+primaryKeyword: blood pressure swings during flights for seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

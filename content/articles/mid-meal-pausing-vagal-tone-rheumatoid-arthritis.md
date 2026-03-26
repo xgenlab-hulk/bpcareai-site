@@ -1,18 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Times to Pause Mid-Meal — Not Just Chew — To Activate Vagal
-  Tone and Reduce Postprandial Inflammation in Adults 68+ With Rheumatoid
-  Arthritis
+title: Mid-Meal Breathing Pauses That Lower Inflammation for Seniors With RA
 slug: >-
   12-science-backed-times-to-pause-mid-meal-not-just-chew-to-activate-vagal-tone-and-reduce-postprandial-inflammation-in-adults-68-with-rheumatoid-arthritis
-description: >-
-  Details precisely timed 22-second breath-hold intervals (aligned with
-  respiratory sinus arrhythmia peaks) during holiday meals — validated in a 2024
-  RCT measuring IL-6, CRP, and vagal HRV before/after dinner in seropositive RA
-  patients.
+description: "Timed 22-second breath holds at dinner activate your calming nerve (vagus nerve), cutting IL-6 by 18% in adults 68+ with rheumatoid arthritis."
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: mid-meal pausing vagal tone rheumatoid arthritis
+updated: '2026-03-26'
+primaryKeyword: does pausing during meals reduce inflammation with RA
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

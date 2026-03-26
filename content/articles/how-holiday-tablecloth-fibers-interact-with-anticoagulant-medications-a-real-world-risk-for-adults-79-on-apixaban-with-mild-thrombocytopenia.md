@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Holiday Tablecloth Fibers Interact With Anticoagulant Medications — A
-  Real-World Risk for Adults 79+ on Apixaban With Mild Thrombocytopenia
+title: "Holiday Meal Safety for Seniors 79+ on Apixaban: Overlooked Risks"
 slug: >-
   how-holiday-tablecloth-fibers-interact-with-anticoagulant-medications-a-real-world-risk-for-adults-79-on-apixaban-with-mild-thrombocytopenia
-description: >-
-  Examines textile dye leaching, microfiber ingestion via hand-to-mouth contact,
-  and plate-surface friction-induced platelet activation — with evidence-based
-  table setting modifications to reduce bleeding risk during festive meals.
+description: "Tablecloth dyes and microfibers transfer hand-to-mouth, potentially activating platelets in adults on blood thinners (anticoagulants) with counts below 100K."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: holiday tablecloth anticoagulant interaction
+updated: '2026-03-25'
+primaryKeyword: holiday meal bleeding risks on blood thinners
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

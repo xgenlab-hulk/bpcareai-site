@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Home Oscillometric Cuffs vs. Ambulatory Monitoring for Detecting
-  Nocturnal Hypertension in Adults 71+ With Mild Sleep Apnea and Mild Cognitive
-  Impairment
+title: "Home Cuff vs. Ambulatory Monitor: Nighttime BP in Adults 71+"
 slug: >-
   a-vs-b-home-oscillometric-cuffs-vs-ambulatory-monitoring-for-detecting-nocturnal-hypertension-in-adults-71-with-mild-sleep-apnea-and-mild-cognitive-impairment
-description: >-
-  Compares accuracy, adherence barriers, artifact susceptibility, and clinical
-  utility — with decision trees for choosing based on cognitive load, dexterity,
-  and apnea severity.
+description: "Home cuffs miss 40-60% of nighttime blood pressure spikes (nocturnal hypertension) with sleep apnea. Ambulatory monitors need 70%+ wear time for valid reads."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: home-cuff-vs-ambulatory-nocturnal-hypertension
+updated: '2026-03-25'
+primaryKeyword: home cuff vs ambulatory monitor for nighttime BP
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,10 @@
 ---
-title: >-
-  5 Things You Should Know Before Starting a Continuous Glucose Monitor (CGM) If
-  You’re 67+ With Low Vision, Tremor, or Dexterity Loss
-slug: >-
-  5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss
-description: >-
-  Addresses real-world accessibility barriers — sensor placement alternatives,
-  audio-alert customization, caregiver-sharing workflows, and Medicare coverage
-  pitfalls.
+title: "CGM Setup for Adults 67+ With Low Vision, Tremor, or Shaky Hands"
+slug: cgm-low-vision-tremor-setup-67
+description: "About 30% of adults 67+ struggle with glucose sensor (CGM) placement. Audio alerts, large-text modes, and caregiver sharing solve most access barriers."
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: CGM for seniors with low vision
+updated: '2026-03-26'
+primaryKeyword: using a glucose monitor with poor vision or tremor
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

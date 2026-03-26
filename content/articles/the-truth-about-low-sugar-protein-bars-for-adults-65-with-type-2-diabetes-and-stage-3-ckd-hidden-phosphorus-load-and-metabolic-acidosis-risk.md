@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Low-Sugar' Protein Bars for Adults 65+ With Type 2 Diabetes
-  and Stage 3 CKD: Hidden Phosphorus Load and Metabolic Acidosis Risk
+title: Low-Sugar Protein Bars With CKD? Hidden Phosphorus Risks After 65
 slug: >-
   the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk
-description: >-
-  Analyzes commercial 'diabetic-friendly' protein bars for undisclosed
-  phosphorus additives, acid load impact on renal tubular function, and
-  implications for eGFR trajectory in older adults with CKD.
+description: Most 'diabetic-friendly' bars pack 200-350 mg hidden phosphorus per serving — enough to speed kidney decline (eGFR loss) in adults 65+ with stage 3 CKD.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: low-sugar protein bars kidney disease diabetes
+updated: '2026-03-26'
+primaryKeyword: are low-sugar protein bars safe with kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

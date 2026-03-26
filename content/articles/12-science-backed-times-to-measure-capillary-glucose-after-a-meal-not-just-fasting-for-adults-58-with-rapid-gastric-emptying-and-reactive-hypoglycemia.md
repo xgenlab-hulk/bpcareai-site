@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Times to Measure Capillary Glucose *After* a Meal — Not Just
-  Fasting — for Adults 58+ With Rapid Gastric Emptying and Reactive Hypoglycemia
+title: Shaky After Meals Over 58? When to Test Blood Sugar Timing
 slug: >-
-  12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia
-description: >-
-  Defines optimal postprandial timing windows based on gastric emptying
-  scintigraphy data, symptom correlation, and CGM validation to capture true
-  glucose excursions in gastroparesis-adjacent phenotypes.
+  glucose-timing-rapid-emptying-hypoglycemia
+description: Standard 2-hour checks miss 65% of spikes from fast stomach emptying (rapid gastric emptying). 12 timed checkpoints at 30, 60, 90 min catch hidden drops.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: postprandial glucose timing rapid gastric emptying
+updated: '2026-03-26'
+primaryKeyword: when to check blood sugar after eating with fast emptying
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

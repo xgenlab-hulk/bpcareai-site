@@ -1,18 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Ways to Buffer Alcohol’s Glycemic & Vasodilatory Effects at
-  Family Gatherings — For Adults 57–71 With Prediabetes and Orthostatic
-  Hypotension
+title: Safer Holiday Drinking With Prediabetes and Low Blood Pressure
 slug: >-
   12-science-backed-ways-to-buffer-alcohol-s-glycemic-vasodilatory-effects-at-family-gatherings-for-adults-57-71-with-prediabetes-and-orthostatic-hypotension
-description: >-
-  Presents evidence-based, non-pharmacologic tactics (e.g., co-ingestion timing,
-  magnesium-rich snack pairings, post-drink movement windows) to mitigate
-  alcohol’s dual impact on glucose stability and blood pressure lability in
-  at-risk older adults.
+description: Alcohol drops BP 8-12 mmHg and spikes glucose 2 hours later. Pairing each drink with protein and magnesium-rich snacks (almonds) buffers both effects.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: buffer alcohol glycemic vasodilatory effects
+updated: '2026-03-26'
+primaryKeyword: how to drink alcohol safely with prediabetes
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

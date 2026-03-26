@@ -1,16 +1,13 @@
 ---
-title: >-
-  7 Hidden Causes of Overnight Blood Sugar Spikes in Adults Over 65 With Type 2
-  Diabetes
-slug: >-
-  7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+title: Your Fasting Glucose High Despite Good Control? (65+)
+slug: overnight-glucose-spikes-seniors-65
 description: >-
-  Explores non-obvious physiological, medication-related, and circadian
-  drivers—like nocturnal cortisol surges, bedtime protein intake, and delayed
-  gastric emptying—that elevate fasting glucose despite daytime control.
+  Fasting glucose stays high in 40% of seniors despite perfect daytime control.
+  Get 7 hidden overnight triggers—cortisol, protein, meds—plus proven bedtime
+  fixes.
 date: '2025-12-27'
 updated: '2025-12-27'
-primaryKeyword: overnight blood sugar spikes in seniors
+primaryKeyword: overnight glucose spikes seniors diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

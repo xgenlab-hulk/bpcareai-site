@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Holiday Leftovers Are Causing Subclinical Dehydration in
-  Adults 80+ With Diminished Thirst Response and Mild Hyponatremia Risk
+title: Holiday Leftovers and Hidden Dehydration in Adults Over 80
 slug: >-
   warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
-description: >-
-  Highlights subtle indicators (e.g., constipation worsening, increased
-  confusion at dusk, dry nasal mucosa), safe hydration benchmarks, and
-  sodium-balanced broth-based meal recovery strategies.
+description: Reheated high-sodium foods suppress weak thirst in adults 80+, risking sodium dropping too low (hyponatremia). Watch for evening confusion and constipation.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: holiday leftovers dehydration seniors 80+
+updated: 2026-03-26
+primaryKeyword: can holiday leftovers cause dehydration in seniors over 80
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

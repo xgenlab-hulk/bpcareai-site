@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Untreated Obstructive Sleep Apnea Worsens Resistant Hypertension in Women
-  58–71 With Perimenopausal Insulin Resistance
+title: "Women 58-71: Why Sleep Apnea Makes Blood Pressure Uncontrollable"
 slug: >-
   how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
-description: >-
-  Analyzes sex-specific mechanisms—estrogen-modulated carotid body sensitivity,
-  nocturnal sympathetic surges, and post-apneic endothelial shear stress—linking
-  OSA severity to failed BP control despite ≥3 antihypertensives.
+description: Estrogen loss amplifies the brain's oxygen sensor (carotid body), making breathing pauses spike BP 20-40 mmHg. That's why 3+ meds fail without treating apnea.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: sleep apnea resistant hypertension perimenopause
+updated: '2026-03-26'
+primaryKeyword: sleep apnea and resistant blood pressure in women 58
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,10 @@
 ---
-title: >-
-  10 Foods That Stabilize Cardiac Ion Channels During Alcohol Exposure — For
-  Adults 62–75 With LQT2 Variant and Holiday-Related Syncope
-slug: >-
-  10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope
-description: >-
-  Highlights potassium-, magnesium-, and omega-3-rich foods with proven effects
-  on hERG channel kinetics and action potential duration — tailored to
-  counteract alcohol’s QT-prolonging effects in genetically susceptible adults.
+title: Safe Holiday Foods With Long QT Syndrome and Alcohol (62+)
+slug: heart-safe-foods-long-qt-syndrome-seniors
+description: Alcohol cuts hERG potassium current up to 25%, widening QT intervals. 400mg/day magnesium buffers this electrical delay (ion channel dysfunction) in LQT2.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: foods stabilize cardiac ion channels alcohol
+updated: 2026-03-26
+primaryKeyword: what foods are safe with long QT syndrome and alcohol
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

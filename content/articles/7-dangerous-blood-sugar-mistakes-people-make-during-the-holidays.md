@@ -1,12 +1,11 @@
 ---
-title: 7 Dangerous Blood Sugar Mistakes People Make During the Holidays
-slug: 7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays
+title: 'Holiday Treats Spiking Your Sugar? 7 Dangerous Mistakes (50+)'
+slug: holiday-blood-sugar-mistakes-50
 description: >-
-  Highlights common but risky behaviors — from skipping meds to overestimating
-  activity — that can lead to dangerous glucose swings.
+  Skipping meds to offset dessert? Get 7 risky holiday blood sugar mistakes—hidden carbs, stress spikes, timing errors—plus safe strategies to enjoy treats without danger (adults 50+).
 date: '2025-12-13'
 updated: '2025-12-13'
-primaryKeyword: holiday blood sugar mistakes
+primaryKeyword: holiday blood sugar mistakes diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

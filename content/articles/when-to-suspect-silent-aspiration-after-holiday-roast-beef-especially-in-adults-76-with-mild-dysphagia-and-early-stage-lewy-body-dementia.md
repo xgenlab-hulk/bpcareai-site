@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Suspect Silent Aspiration After Holiday Roast Beef — Especially in
-  Adults 76+ With Mild Dysphagia and Early-Stage Lewy Body Dementia
+title: "Silent Aspiration at Holiday Meals: Lewy Body Caregiver Guide"
 slug: >-
   when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia
-description: >-
-  Details subtle, non-coughing signs of aspiration (e.g., delayed swallow
-  initiation, post-swallow vocal quality change, subtle desaturation) and
-  outlines a home-based screening checklist validated in geriatric neurology
-  clinics.
+description: A wet voice or oxygen dipping 2-3% after swallowing signals food entering airways silently (silent aspiration). A 5-point checklist helps caregivers after 76.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: silent aspiration holiday meals lewy body dementia
+updated: '2026-03-26'
+primaryKeyword: signs of silent aspiration during meals with dementia
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

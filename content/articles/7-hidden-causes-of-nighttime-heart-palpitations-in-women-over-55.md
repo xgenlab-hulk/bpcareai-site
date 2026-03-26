@@ -1,13 +1,13 @@
 ---
-title: 7 Hidden Causes of Nighttime Heart Palpitations in Women Over 55
-slug: 7-hidden-causes-of-nighttime-heart-palpitations-in-women-over-55
+title: Nighttime Heart Palpitations Keeping You Awake? (Women 55+)
+slug: nighttime-palpitations-women-55
 description: >-
-  Explores lesser-known physiological, hormonal, and environmental triggers of
-  nocturnal palpitations—especially during perimenopause and early
-  postmenopause—beyond caffeine or anxiety.
+  Heart racing at night during menopause? Discover 7 hidden causes—low
+  magnesium, sleep apnea, reflux—backed by ECG data, plus bedtime fixes that
+  calm palpitations.
 date: '2025-12-24'
 updated: '2025-12-24'
-primaryKeyword: nighttime heart palpitations women over 55
+primaryKeyword: nighttime heart palpitations women 55
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

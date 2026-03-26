@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Evening Walk After Dinner vs. 15-Minute Seated Breathing (4-7-8
-  Method) — Impact on Nocturnal Systolic BP Dip in Adults 68+ With Non-Dipping
-  Pattern
+title: "Evening Walk vs. 4-7-8 Breathing: Which Lowers Night BP After 68?"
 slug: >-
   a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
-description: >-
-  Compares two accessible, non-pharmacologic evening interventions head-to-head
-  for restoring circadian BP rhythm—using 24-hour ABPM outcomes from a 2024
-  pragmatic trial.
+description: A 2024 trial compared post-dinner walks to seated breathing for restoring the overnight BP dip (nocturnal dipping) — one cut systolic 6 mmHg more in adults 68+.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: evening walk vs breathing nocturnal bp dip
+updated: '2026-03-26'
+primaryKeyword: evening walk vs breathing for nighttime blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

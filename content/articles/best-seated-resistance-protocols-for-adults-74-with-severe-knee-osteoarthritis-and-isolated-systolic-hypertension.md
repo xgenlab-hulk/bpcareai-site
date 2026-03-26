@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Seated Resistance Protocols for Adults 74+ With Severe Knee
-  Osteoarthritis and Isolated Systolic Hypertension
+title: Seated Resistance Exercises for Seniors With High BP and Bad Knees
 slug: >-
   best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
-description: >-
-  Presents evidence-based isometric and eccentric-only regimens using resistance
-  bands and bodyweight — with real-time BP monitoring to avoid pressor response
-  overshoot.
+description: Isometric band pulls done seated lower systolic 6-10 mmHg without knee stress. Hold under 15 seconds to avoid pressure spikes (pressor response).
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: seated resistance training isolated systolic
+updated: '2026-03-26'
+primaryKeyword: chair exercises for high blood pressure with bad knees
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

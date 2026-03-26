@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Nighttime Cough From Untreated GERD Triggers Nocturnal Atrial
-  Fibrillation in Men 70+ With Mild COPD
+title: Why Untreated Acid Reflux Triggers Nighttime AFib in Men Over 70
 slug: >-
   how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd
-description: >-
-  Details the vagally mediated esophago-atrial reflex, autonomic dysregulation,
-  and intrathoracic pressure swings linking reflux to arrhythmia — with
-  practical airway positioning and pH-monitoring guidance.
+description: "Acid reflux (GERD) raises chest pressure 8-12 cmH2O per cough, firing a vagus nerve reflex that triggers irregular heartbeat (atrial fibrillation) during sleep."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: gerd-induced afib men 70+ copd
+updated: '2026-03-26'
+primaryKeyword: can acid reflux cause irregular heartbeat in men over 70
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

@@ -1,18 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Post-Dinner Fatigue *Only* When Eating at Your Daughter’s
-  House? — The Role of Ambient VOCs, Carpet Off-Gassing, and Mitochondrial
-  Stress in Adults 64+ With Fibromyalgia
+title: "Post-Dinner Fatigue Only at Your Daughter’s House? It May Be the Air"
 slug: >-
   what-causes-sudden-post-dinner-fatigue-only-when-eating-at-your-daughter-s-house-the-role-of-ambient-vocs-carpet-off-gassing-and-mitochondrial-stress-in-adults-64-with-fibromyalgia
-description: >-
-  Links holiday-specific indoor air pollutants (from new rugs, scented candles,
-  and synthetic wreaths) to postprandial mitochondrial dysfunction — with
-  low-cost air quality mitigation and meal-timing buffers to preserve energy
-  homeostasis.
+description: "New rugs and scented candles release airborne chemicals (VOCs) that strain cell energy after 60. Open two windows 10 min before dinner to cut exposure."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: post dinner fatigue holiday indoor air
+updated: '2026-03-25'
+primaryKeyword: "why do I feel tired after dinner only at my daughter's house"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

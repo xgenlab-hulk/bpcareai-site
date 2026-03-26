@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: 10-Minute Morning Sunlight Exposure vs. 6-Minute Evening Blue-Blocking
-  Glasses — Impact on Circadian BP Dip in Adults 61–78 With Non-Dipping Pattern
+title: "Morning Sunlight vs. Blue-Blocking Glasses: Which Fixes Nighttime BP?"
 slug: >-
   a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern
-description: >-
-  Compares two circadian interventions for restoring nocturnal BP decline,
-  referencing RCT data on melatonin phase-shifting, cortisol rhythm
-  normalization, and 24-hour systolic variability.
+description: Ten minutes of morning sunlight restores a healthy nighttime BP drop (circadian dipping) within 5-7 days — outperforming evening blue-blockers by 3 mmHg.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: sunlight vs blue-blocking glasses blood pressure dip
+updated: '2026-03-26'
+primaryKeyword: morning sunlight vs blue light glasses for blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

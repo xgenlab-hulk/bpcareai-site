@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'Eating Less Sugar' Alone Will Reverse Type 2 Diabetes in
-  Adults 58–73 With 12+ Years Duration
+title: "Myth: Cutting Sugar Reverses Type 2 Diabetes After 12 Years"
 slug: >-
   myths-vs-facts-eating-less-sugar-alone-will-reverse-type-2-diabetes-in-adults-58-73-with-12-years-duration
-description: >-
-  Debunks common beliefs using data from DiRECT and ReTUNE trials — clarifying
-  why duration, beta-cell mass, and ectopic fat distribution matter more than
-  sugar reduction alone.
+description: The DiRECT trial shows remission needs 10-15 kg fat loss to clear pancreas fat (ectopic fat), not sugar cuts. After 12 years, beta cells lose 50-60% function.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: sugar reduction reverse type 2 diabetes myths
+updated: 2026-03-26
+primaryKeyword: will cutting sugar alone reverse type 2 diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Ways to Reduce Coronary Artery Calcification Progression in
-  Adults 58–69 With Agatston Score 100–400 and Elevated Lp(a)
+title: CAC Score 100-400 With High Lp(a)? 12 Ways to Slow It Down
 slug: >-
-  12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
-description: >-
-  Focuses exclusively on slowing CAC growth—not just prevention—using targeted
-  nutrition (e.g., vitamin K2-MK7 dosing), lipid-modifying lifestyle levers, and
-  emerging nutraceutical evidence from prospective CT cohort studies.
+  slow-cac-progression-high-lpa-adults-58-69
+description: Untreated CAC scores rise 15-20% yearly. Vitamin K2 MK-7 at 180mcg/day plus fiber timing slows artery hardening (coronary calcification) ~25% over 2 years.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: slow coronary artery calcification progression
+updated: 2026-03-26
+primaryKeyword: how to slow coronary artery calcium with high Lp(a)
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

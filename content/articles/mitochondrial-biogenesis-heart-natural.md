@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Mitochondrial Biogenesis in Cardiomyocytes Without
-  Supplements — For Adults 63–80 With Long-Standing Hypertension and Low VO₂
-  Peak
+title: Strengthening Heart Cell Energy Without Supplements After 63
 slug: >-
   natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
-description: >-
-  Focuses on non-supplement strategies — like cold-water facial immersion
-  timing, post-exercise protein pulsing, and blue-light–timed meal spacing —
-  shown to activate PGC-1α and improve cardiac energetics.
+description: Cold-water face immersion for 90 seconds activates PGC-1alpha in heart cells (cardiomyocytes), improving energy output 12-15% with long-standing hypertension.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: mitochondrial biogenesis heart natural
+updated: '2026-03-26'
+primaryKeyword: strengthen heart cell energy without supplements
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

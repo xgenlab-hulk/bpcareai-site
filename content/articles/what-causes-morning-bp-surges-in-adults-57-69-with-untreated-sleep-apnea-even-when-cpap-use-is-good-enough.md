@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Morning BP Surges in Adults 57–69 With Untreated Sleep Apnea —
-  Even When CPAP Use Is ‘Good Enough’
+title: Why Your BP Still Spikes at Dawn — Even With CPAP After 57
 slug: >-
   what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
-description: >-
-  Investigates residual upper airway resistance, nocturnal swallowing events,
-  and microarousal-induced norepinephrine spikes — plus how pulse transit time
-  (PTT) monitoring reveals hidden instability.
+description: Mini-awakenings (microarousals) release adrenaline surges 3-5x/hour, raising systolic 15-25 mmHg by 6 AM — even at 4+ hours CPAP use in adults 57-69.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: morning bp surge residual sleep apnea
+updated: '2026-03-26'
+primaryKeyword: why does blood pressure spike every morning with CPAP
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

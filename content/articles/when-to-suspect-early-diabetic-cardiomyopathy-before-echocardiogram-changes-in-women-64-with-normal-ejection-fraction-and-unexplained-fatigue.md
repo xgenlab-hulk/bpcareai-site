@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Early Diabetic Cardiomyopathy — Before Echocardiogram Changes
-  — in Women 64+ With Normal Ejection Fraction and Unexplained Fatigue
+title: "Women 64+: When Diabetes Fatigue Signals Early Heart Damage"
 slug: >-
   when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue
-description: >-
-  Highlights non-imaging biomarkers (e.g., nocturnal heart rate variability dip,
-  NT-proBNP/creatinine ratio trends) and symptom clusters indicating subclinical
-  myocardial stiffness in aging women with long-standing type 2 diabetes.
+description: Nighttime heart rate variability dips below 15ms and rising NT-proBNP hint at a stiffening heart (diabetic cardiomyopathy) — even with normal ejection fraction.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: early diabetic cardiomyopathy fatigue women
+updated: '2026-03-26'
+primaryKeyword: can fatigue mean early heart damage from diabetes in women
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

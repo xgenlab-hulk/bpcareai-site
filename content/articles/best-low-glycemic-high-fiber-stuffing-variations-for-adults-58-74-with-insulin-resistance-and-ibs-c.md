@@ -1,17 +1,11 @@
 ---
-title: >-
-  Best Low-Glycemic, High-Fiber Stuffing Variations for Adults 58–74 With
-  Insulin Resistance and IBS-C
+title: Low-Glycemic Stuffing for Blood Sugar and Constipation (58-74)
 slug: >-
   best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
-description: >-
-  A recipe-science deep dive comparing fiber sources (psyllium-enriched oats vs.
-  roasted cauliflower-rice blends), fermentation potential, and osmotic
-  tolerance — optimized for blood sugar control *and* chronic constipation
-  relief during holiday feasts.
+description: Cauliflower-rice base cuts glycemic load 45% vs. bread. 5g psyllium eases chronic constipation (IBS-C) without bloating. Roast to keep fiber structure intact.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: low-glycemic stuffing insulin resistance ibs-c
+updated: 2026-03-26
+primaryKeyword: low glycemic stuffing recipe for diabetes and constipation
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

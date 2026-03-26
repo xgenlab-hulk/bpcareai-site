@@ -1,30 +1,18 @@
 ---
-title: >-
-  What Causes Sudden Onset of Bloating and Abdominal Distension After Eating
-  Mashed Potatoes at Family Gatherings — Even in Adults 63+ With No Known Celiac
-  Disease?
-slug: >-
-  what-causes-sudden-onset-of-bloating-and-abdominal-distension-after-eating-mashed-potatoes-at-family-gatherings-even-in-adults-63-with-no-known-celiac-disease
-description: >-
-  Investigates resistant starch degradation patterns, commercial potato starch
-  additives, and gut microbiome shifts triggered by high-amylose foods in aging
-  digestive tracts.
+title: Why Mashed Potatoes Cause Bloating After 63 — Even Without Celiac
+slug: what-causes-sudden-onset-of-bloating-and-abdominal-distension-after-eating-mashed-potatoes-at-family-gatherings-even-in-adults-63-with-no-known-celiac-disease
+description: Cooled mashed potatoes form hard-to-digest starch (resistant starch) that ferments 40-60% faster in guts over 63. Cream cheese and garlic powder worsen gas.
 date: '2026-02-03'
-updated: '2026-02-03'
-primaryKeyword: bloating mashed potatoes seniors
+updated: '2026-03-26'
+primaryKeyword: why do mashed potatoes cause bloating in older adults
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
-  - >-
-    the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
-  - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
-  - >-
-    best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
-  - >-
-    when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
-  - >-
-    best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
+- the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
+- how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+- best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
+- when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
+- best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
 ---
 
 # Why Bloating After Mashed Potatoes Is Common Among Seniors — And What’s Really Happening in Your Gut

@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Chronic Nighttime Use of 'Blue-Blocking' Amber Glasses Alters
-  Melatonin-Dependent BKCa Channel Expression — And Why That Improves Nocturnal
-  Coronary Perfusion in Adults 71+ With Nocturnal Angina
+title: "How Amber Glasses May Reduce Nighttime Chest Pain in Adults 71+"
 slug: >-
   how-chronic-nighttime-use-of-blue-blocking-amber-glasses-alters-melatonin-dependent-bkca-channel-expression-and-why-that-improves-nocturnal-coronary-perfusion-in-adults-71-with-nocturnal-angina
-description: >-
-  Explains a photobiomodulation pathway where non-visual retinal signaling
-  enhances coronary smooth muscle relaxation — reducing microvascular spasm
-  during sleep.
+description: "Blocking blue light raises melatonin, relaxing heart arteries (coronary microvasculature). One study: 23% fewer nighttime angina episodes over 8 weeks."
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: amber glasses nocturnal coronary perfusion
+updated: '2026-03-25'
+primaryKeyword: do amber glasses help nighttime chest pain
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

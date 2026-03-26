@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting Your Coronary Artery Calcium Score *With*
-  CT Lung Screening — Avoiding Misattribution of Calcified Nodules in Adults 63+
-  With Emphysema
+title: When Lung CT Scans Give Misleading Heart Calcium Scores After 63
 slug: >-
   the-complete-guide-to-interpreting-your-coronary-artery-calcium-score-with-ct-lung-screening-avoiding-misattribution-of-calcified-nodules-in-adults-63-with-emphysema
-description: >-
-  Clarifies imaging pitfalls (e.g., distinguishing bronchial vs. coronary
-  calcification on low-dose CT) and provides radiologist-vetted decision trees
-  for CAC score contextualization.
+description: Up to 30% of high calcium scores in older smokers with lung disease (COPD) are false — airway calcification mimics coronary plaque on non-gated CT.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: coronary calcium score ct lung screening
+updated: '2026-03-26'
+primaryKeyword: can lung ct scan give a wrong heart calcium score
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

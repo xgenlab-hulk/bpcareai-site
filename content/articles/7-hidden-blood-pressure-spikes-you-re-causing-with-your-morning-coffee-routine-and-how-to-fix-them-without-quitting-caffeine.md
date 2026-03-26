@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Hidden Blood Pressure Spikes You’re Causing With Your Morning Coffee Routine
-  — And How to Fix Them Without Quitting Caffeine
-slug: >-
-  7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine
+title: Your Morning Coffee Spiking Your BP? (7 Fixes for Adults 55-72)
+slug: morning-coffee-bp-spike-fixes-55-72
 description: >-
-  Explores how timing, brewing method, and additives (e.g., creamer, sugar
-  substitutes) in morning coffee can trigger transient hypertension in adults
-  55–72, especially those with morning surge patterns or adrenal sensitivity.
+  Is your morning coffee raising blood pressure by 10-20 points? Get 7 proven fixes for brewing, timing, and add-ins—keep your caffeine ritual without the BP spike (ages 55-72).
 date: '2026-01-31'
 updated: '2026-01-31'
-primaryKeyword: morning coffee blood pressure spike
+primaryKeyword: morning coffee blood pressure spike seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

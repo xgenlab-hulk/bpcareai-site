@@ -1,16 +1,13 @@
 ---
 title: >-
-  12 Science-Backed Ways to Lower Pulse Pressure Without Increasing Medication
-  Dose in Adults With Isolated Systolic Hypertension Over 75
+  Wide Pulse Pressure After 75? (ISH Action Plan)
 slug: >-
-  12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+  pulse-pressure-ish-seniors-75
 description: >-
-  Targets arterial stiffness reduction through timed flavonoid intake, dynamic
-  resistance training, and nocturnal oxygen saturation optimization—backed by
-  carotid-femoral PWV trials.
+  Pulse pressure above 65? Get 12 proven ways to improve arterial flexibility in isolated systolic hypertension—flavonoid timing, gentle resistance, oxygen support (seniors 75+).
 date: '2026-01-11'
 updated: '2026-01-11'
-primaryKeyword: lower pulse pressure isolated systolic hypertension
+primaryKeyword: pulse pressure isolated systolic hypertension seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

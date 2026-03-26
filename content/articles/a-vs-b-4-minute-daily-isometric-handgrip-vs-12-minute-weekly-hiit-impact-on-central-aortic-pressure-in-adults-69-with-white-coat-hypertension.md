@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: 4-Minute Daily Isometric Handgrip vs. 12-Minute Weekly HIIT — Impact
-  on Central Aortic Pressure in Adults 69+ With White-Coat Hypertension
+title: "Handgrip vs. HIIT: Which Lowers Central Blood Pressure After 69?"
 slug: >-
   a-vs-b-4-minute-daily-isometric-handgrip-vs-12-minute-weekly-hiit-impact-on-central-aortic-pressure-in-adults-69-with-white-coat-hypertension
-description: >-
-  Compares real-world feasibility, adherence rates, and tonometry-confirmed
-  central pressure reduction between two evidence-backed non-pharmacologic
-  interventions for borderline hypertension.
+description: 4-min daily handgrip cuts inner artery pressure (central aortic) 5-7 mmHg with 89% adherence vs 52% for HIIT. For white-coat spikes after 69, grip wins.
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: isometric handgrip vs hiit central pressure seniors
+updated: '2026-03-26'
+primaryKeyword: handgrip exercise vs HIIT for lowering blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

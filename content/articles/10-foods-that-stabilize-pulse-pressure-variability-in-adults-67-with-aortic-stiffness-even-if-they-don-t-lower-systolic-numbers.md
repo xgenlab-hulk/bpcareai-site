@@ -1,17 +1,12 @@
 ---
-title: >-
-  10 Foods That *Stabilize* Pulse Pressure Variability in Adults 67+ With Aortic
-  Stiffness — Even If They Don’t Lower Systolic Numbers
-slug: >-
-  10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
+title: 10 Foods That Steady Pulse Pressure With Stiff Arteries After 67
+slug: lower-pulse-pressure-foods-arterial-health
 description: >-
-  Highlights foods with high bioavailable magnesium, glycine, and matrix
-  metalloproteinase inhibitors (e.g., slow-simmered collagen-rich bone broth,
-  fermented soy, wild blueberries) shown to improve arterial elasticity and
-  dampen oscillatory stress.
+  Pulse pressure above 60 mmHg raises cardiac risk 20-30%. Glycine, magnesium,
+  and MMP-blocking foods help restore artery wall stretch (arterial compliance).
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: foods stabilize pulse pressure aortic stiffness
+updated: '2026-03-26'
+primaryKeyword: foods that help pulse pressure with stiff arteries
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

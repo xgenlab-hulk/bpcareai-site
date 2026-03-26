@@ -1,12 +1,11 @@
 ---
-title: 7 Hidden Holiday Triggers That Spike Blood Sugar in Seniors with Diabetes
-slug: 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
+title: 7 Hidden Holiday Triggers Spiking Your Blood Sugar (Seniors 60+)
+slug: holiday-blood-sugar-triggers-seniors-diabetes
 description: >-
-  Explore common but overlooked holiday season factors that can destabilize
-  blood glucose levels in older adults managing diabetes.
+  Holiday blood sugar spikes despite careful eating? Discover 7 hidden triggers—stress, cold weather, medication lapses—that destabilize glucose in seniors 60+ with diabetes. Get testing tips today.
 date: '2025-11-30'
 updated: '2025-11-30'
-primaryKeyword: holiday blood sugar triggers seniors
+primaryKeyword: holiday blood sugar triggers seniors diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

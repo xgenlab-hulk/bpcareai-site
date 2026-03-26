@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Intergenerational Food Prep Affects Post-Meal Glucose Spikes in Adults
-  58–72 With Prediabetes and Slow Gastric Emptying
+title: Cooking With Grandkids? How It Affects Blood Sugar After 58
 slug: >-
   how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
-description: >-
-  Explores the metabolic impact of shared cooking tasks—like chopping, stirring,
-  and timing—on glycemic response during holiday meals, with evidence on how
-  physical activity intensity and meal sequencing interact in midlife and older
-  adults.
+description: Standing and stirring burns 30-50% more calories than sitting — enough to cut post-meal glucose 15-20 mg/dL with slow stomach emptying (gastroparesis).
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: intergenerational cooking blood sugar spikes
+updated: 2026-03-26
+primaryKeyword: does cooking with family affect blood sugar after meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

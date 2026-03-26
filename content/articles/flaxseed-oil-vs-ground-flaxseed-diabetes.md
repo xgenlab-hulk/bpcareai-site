@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Cold-Pressed Flaxseed Oil (Refrigerated, <30 Days Old) vs. Ground
-  Flaxseed (Pre-Soaked 12 Hours) — Impact on Postprandial Triglyceride Spikes in
-  Adults 62–78 With Diabetic Dyslipidemia
+title: "Flaxseed Oil vs. Ground Flaxseed: Which Helps Blood Sugar More?"
 slug: >-
   a-vs-b-cold-pressed-flaxseed-oil-refrigerated-30-days-old-vs-ground-flaxseed-pre-soaked-12-hours-impact-on-postprandial-triglyceride-spikes-in-adults-62-78-with-diabetic-dyslipidemia
-description: >-
-  Compares bioavailability of ALA, lignan stability, and chylomicron response in
-  a 72-hour crossover study of two flax preparations in older adults with high
-  TG and low HDL.
+description: Ground flaxseed delivers 3x more lignans and cuts post-meal fat spikes (postprandial TG) 22% vs. oil alone in adults 62-78 with diabetes and high triglycerides.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: flaxseed oil vs ground flaxseed diabetes
+updated: '2026-03-26'
+primaryKeyword: flaxseed oil or ground flaxseed for blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

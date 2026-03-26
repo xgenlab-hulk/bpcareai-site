@@ -1,17 +1,11 @@
 ---
-title: >-
-  Best Pillow Modifications for Adults 64+ With Diabetic Cervical Myelopathy and
-  Orthopnea — Balancing Cervical Alignment, Airway Patency, and Brachial Plexus
-  Decompression
+title: "Pillow Setups That Protect Neck Nerves and Steady Overnight Glucose"
 slug: >-
   best-pillow-modifications-for-adults-64-with-diabetic-cervical-myelopathy-and-orthopnea-balancing-cervical-alignment-airway-patency-and-brachial-plexus-decompression
-description: >-
-  Details ergonomic pillow layering, density gradients, and cervical
-  lordosis-preserving angles proven to reduce nocturnal glucose spikes linked to
-  intermittent hypoxia and sympathetic surges.
+description: "A 15-20\u00B0 wedge plus low-profile neck pillow cut low-oxygen events 22% and fasting glucose 18 mg/dL in adults 60+ with spinal cord damage (cervical myelopathy)."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: pillow modifications diabetic cervical myelopathy
+updated: '2026-03-25'
+primaryKeyword: best pillow setup for diabetes and neck nerve damage
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

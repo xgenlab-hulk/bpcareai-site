@@ -1,17 +1,11 @@
 ---
-title: >-
-  Quick Ways to Improve Endothelial-Dependent Vasodilation Within 90 Minutes —
-  For Adults 57–74 With Obesity, Elevated ADMA, and Impaired Flow-Mediated
-  Dilation
+title: How to Improve Blood Vessel Function in 90 Minutes After 57
 slug: >-
   quick-ways-to-improve-endothelial-dependent-vasodilation-within-90-minutes-for-adults-57-74-with-obesity-elevated-adma-and-impaired-flow-mediated-dilation
-description: >-
-  Details rapid-acting, non-pharmacologic interventions — including specific
-  nitrate-rich food combinations, thermal contrast, and guided slow-breathing
-  biofeedback — validated by post-intervention FMD measurements.
+description: Nitrate-rich foods and slow breathing boost artery relaxation (flow-mediated dilation) 2-3% in under 90 min — ultrasound-confirmed in adults with elevated ADMA.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: improve endothelial function quickly
+updated: '2026-03-26'
+primaryKeyword: how to improve blood vessel function quickly
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

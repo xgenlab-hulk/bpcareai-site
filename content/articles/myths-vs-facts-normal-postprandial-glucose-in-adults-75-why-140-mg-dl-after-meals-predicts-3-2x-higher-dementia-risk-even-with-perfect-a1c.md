@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'Normal' Postprandial Glucose in Adults 75+ — Why 140 mg/dL
-  After Meals Predicts 3.2x Higher Dementia Risk Even With Perfect A1C
+title: "Adults 75+: Why 140 mg/dL After Meals Triples Dementia Risk"
 slug: >-
   myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c
-description: >-
-  Debunks age-adjusted glucose thresholds using longitudinal dementia biomarker
-  studies, amyloid-PET correlations, and rationale for stricter post-meal
-  targets in neurocognitive aging.
+description: Blood sugar after eating (postprandial glucose) above 140 mg/dL predicts 3.2x higher dementia risk in adults 75+ — even with perfect A1C.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: postprandial glucose dementia risk older adults
+updated: '2026-03-26'
+primaryKeyword: after-meal blood sugar and dementia risk over 75
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

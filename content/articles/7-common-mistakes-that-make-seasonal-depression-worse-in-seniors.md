@@ -1,12 +1,11 @@
 ---
-title: 7 Common Mistakes That Make Seasonal Depression Worse in Seniors
-slug: 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
+title: 'Winter Blues Worse This Year? 7 Mistakes Deepening Mood (65+)'
+slug: winter-depression-mistakes-seniors
 description: >-
-  Identify avoidable habits like staying indoors, skipping meals, or
-  discontinuing treatment too early.
+  Staying indoors all day? Get 7 fixable mistakes worsening seasonal depression—skipped meals, early treatment stops, light timing—plus proven mood support for seniors 65+.
 date: '2025-12-05'
 updated: '2025-12-05'
-primaryKeyword: "health management seniors"
+primaryKeyword: seasonal depression mistakes seniors
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

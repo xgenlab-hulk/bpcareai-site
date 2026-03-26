@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Suspect Pheochromocytoma in Adults 57–70 With Episodic Palpitations,
-  Normal Echo, and Normal 24-Hour Urinary Metanephrines — But Elevated Plasma
-  Free Metanephrines
+title: Sudden BP Spikes With Normal Tests? When to Suspect a Hidden Cause
 slug: >-
   when-to-suspect-pheochromocytoma-in-adults-57-70-with-episodic-palpitations-normal-echo-and-normal-24-hour-urinary-metanephrines-but-elevated-plasma-free-metanephrines
-description: >-
-  Clarifies diagnostic ambiguity in borderline cases—emphasizing the role of
-  clonidine suppression testing, genetic screening for SDHB/SDHD, and imaging
-  timing to avoid false negatives.
+description: Normal urine but elevated blood markers (plasma free metanephrines) may point to a rare adrenal tumor (pheochromocytoma) in adults 57-70 with episodic spikes.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: "health management seniors"
+updated: '2026-03-26'
+primaryKeyword: sudden palpitations and BP spikes with normal tests
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

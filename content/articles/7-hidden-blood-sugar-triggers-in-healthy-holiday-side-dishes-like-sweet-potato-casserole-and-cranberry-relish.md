@@ -1,16 +1,10 @@
 ---
-title: >-
-  7 Hidden Blood Sugar Triggers in 'Healthy' Holiday Side Dishes — Like Sweet
-  Potato Casserole and Cranberry Relish
-slug: >-
-  7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
-description: >-
-  Analysis of glycemic impact from unexpected sources: added fruit juices,
-  starch thickeners, and 'low-sugar' sweeteners that spike glucose in adults 60+
-  with insulin resistance.
+title: 7 Hidden Blood Sugar Triggers in Holiday Side Dishes After 60
+slug: holiday-sides-blood-sugar-triggers-60
+description: Sweet potato casserole spikes glucose 35-45 mg/dL from hidden syrups and thickeners. 7 swaps to cut post-meal surges (postprandial hyperglycemia) by 27%.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: holiday side dishes blood sugar spikes
+updated: '2026-03-26'
+primaryKeyword: hidden blood sugar triggers in holiday side dishes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,10 @@
 ---
-title: >-
-  10 Foods That Worsen Endothelial Glycocalyx Thickness in Adults 57–68 With
-  Prediabetes and Early Diastolic Dysfunction
-slug: >-
-  10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
-description: >-
-  Highlights specific dietary offenders (e.g., ultra-processed emulsifiers,
-  high-fructose corn syrup–sweetened teas, reheated starches) that degrade the
-  vascular 'sugar coat'—with supporting intravital microscopy and plasma
-  syndecan-1 data.
+title: 10 Foods That Thin Your Blood Vessel Coating With Prediabetes
+slug: foods-to-avoid-prediabetes-heart-health
+description: Fried foods strip the vessel lining (endothelial glycocalyx) 15-22% in weeks. Adults 57-68 with prediabetes see recovery within 3 weeks of swapping these foods.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: foods endothelial glycocalyx prediabetes
+updated: 2026-03-26
+primaryKeyword: foods that damage blood vessel lining with prediabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

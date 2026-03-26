@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Low-Impact Resistance Exercises for Adults 82+ With Severe Osteoporosis
-  and Atrial Fibrillation on Apixaban
+title: Safe Strength Moves for Seniors 82+ on Blood Thinners With Bone Loss
 slug: >-
   best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
-description: >-
-  Prioritizes axial-loading safety, anti-arrhythmic breathing integration, and
-  bleeding-risk-aware progression — with modifications for kyphosis, fall
-  history, and anticoagulation protocols.
+description: "Seniors 82+ on blood thinners (apixaban) need fall-proof resistance moves. Seated band pulls at 40-60% max build bone without raising bleeding or fracture risk."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: low-impact resistance osteoporosis afib seniors 82+
+updated: '2026-03-26'
+primaryKeyword: safe strength exercises seniors 82 osteoporosis AFib
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

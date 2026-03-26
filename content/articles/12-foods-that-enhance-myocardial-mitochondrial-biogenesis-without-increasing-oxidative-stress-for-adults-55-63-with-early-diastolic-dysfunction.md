@@ -1,16 +1,13 @@
 ---
 title: >-
-  12 Foods That Enhance Myocardial Mitochondrial Biogenesis *Without* Increasing
-  Oxidative Stress — For Adults 55–63 With Early Diastolic Dysfunction
+  Your Heart Tiring Easily? (Diastolic Dysfunction Food Guide 55-63)
 slug: >-
-  12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction
+  heart-energy-foods-diastolic-dysfunction-55-63
 description: >-
-  Highlights mitochondrial-targeted foods (e.g., black garlic, roasted walnuts,
-  wild blueberries) with proven upregulation of PGC-1α and SIRT3 in human
-  cardiac tissue studies.
+  Diagnosed with early diastolic dysfunction? Get 12 foods that boost heart mitochondrial energy—black garlic, wild blueberries, roasted walnuts—proven to enhance PGC-1α and SIRT3 for adults 55-63.
 date: '2026-02-25'
 updated: '2026-02-25'
-primaryKeyword: foods for heart mitochondrial health diastolic dysfunction
+primaryKeyword: heart energy foods diastolic dysfunction
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,29 +1,18 @@
 ---
-title: >-
-  The Truth About 'Diabetes-Friendly' Holiday Hot Chocolate — Why Low-Sugar
-  Labels Hide 3 Hidden Risks for Adults 74+ With Mild CKD and Metformin Use
-slug: >-
-  the-truth-about-diabetes-friendly-holiday-hot-chocolate-why-low-sugar-labels-hide-3-hidden-risks-for-adults-74-with-mild-ckd-and-metformin-use
-description: >-
-  Debunks marketing claims around holiday beverages by analyzing phosphorus
-  load, maltitol-induced osmotic diarrhea, and metformin-caffeine interactions —
-  with safer homemade alternatives.
+title: Why "Diabetes-Friendly" Hot Chocolate May Harm Your Kidneys After 74
+slug: the-truth-about-diabetes-friendly-holiday-hot-chocolate-why-low-sugar-labels-hide-3-hidden-risks-for-adults-74-with-mild-ckd-and-metformin-use
+description: Sugar-free cocoa mixes hide 150-280mg phosphorus per serving — risky with weak kidneys (CKD). Maltitol causes diarrhea, and caffeine alters metformin clearance.
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: diabetes-friendly hot chocolate kidney risk
+updated: '2026-03-26'
+primaryKeyword: is diabetes-friendly hot chocolate safe with kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:
-  - >-
-    the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes
-  - >-
-    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
-  - >-
-    the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk
-  - >-
-    the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
+- the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes
+- 5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
+- the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk
+- the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
+- the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
 ---
 
 # Unpacking the diabetes-friendly hot chocolate kidney risk: What holiday cocoa really means for adults 74+ with mild CKD and metformin

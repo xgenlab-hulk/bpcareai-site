@@ -1,16 +1,11 @@
 ---
-title: >-
-  Simple Steps to Lower Lipoprotein(a) Naturally — For Adults 56–70 With
-  Familial Hypercholesterolemia and CAC Score >400
+title: "Lowering Lipoprotein(a) Naturally When Statins Aren't Enough After 56"
 slug: >-
   simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400
-description: >-
-  Focuses on clinically validated levers: niacin dosing windows, LDL apheresis
-  eligibility, PCSK9-inhibitor alternatives, and novel nutraceuticals (berberine
-  + red yeast rice combos).
+description: "Lp(a) above 50 nmol/L drives artery calcium buildup (coronary calcification) even on statins. Niacin 1-2g/day cuts it 20-30%, but kidney monitoring is required."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: lower lipoprotein a naturally familial hypercholesterolemia
+updated: '2026-03-26'
+primaryKeyword: can you lower lipoprotein a without medication
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

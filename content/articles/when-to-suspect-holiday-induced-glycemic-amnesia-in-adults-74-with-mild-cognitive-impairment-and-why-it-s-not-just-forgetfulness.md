@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Suspect Holiday-Induced Glycemic Amnesia in Adults 74+ With Mild
-  Cognitive Impairment — And Why It’s Not Just 'Forgetfulness'
+title: "Blood Sugar Spikes and Memory Loss: Why It’s Not Just Aging After 74"
 slug: >-
   when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness
-description: >-
-  Defines glycemic amnesia as transient hippocampal hypometabolism caused by
-  acute glucose spikes, outlining 5 behavioral red flags (e.g., misplaced
-  insulin pens, repeated carb-counting errors) distinct from dementia
-  progression.
+description: "Glucose above 250 mg/dL can shut down memory centers (hippocampal hypometabolism) \u2014 mimicking dementia. 5 red flags separate sugar confusion from true decline."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: holiday glycemic amnesia mild cognitive impairment
+updated: '2026-03-25'
+primaryKeyword: can blood sugar spikes cause memory problems in seniors
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

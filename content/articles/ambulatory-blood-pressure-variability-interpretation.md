@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting BP Variability Metrics (SD, CV, ARV) From
-  Your Ambulatory Monitor — Especially If You’re 66+ With White-Coat Effect and
-  Cognitive Concerns
+title: What SD, CV, and ARV Mean on Your 24-Hour BP Monitor After 66
 slug: >-
   the-complete-guide-to-interpreting-bp-variability-metrics-sd-cv-arv-from-your-ambulatory-monitor-especially-if-you-re-66-with-white-coat-effect-and-cognitive-concerns
-description: >-
-  Demystifies statistical BP variability measures, their clinical meaning, and
-  how to use them to guide treatment — with simplified visual dashboards and
-  caregiver-friendly reporting tools.
+description: Systolic SD above 15 mmHg on your ambulatory monitor signals stiff arteries (arterial rigidity), raising stroke risk 40%. Here is how to read SD, CV, and ARV.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: ambulatory blood pressure variability interpretation
+updated: 2026-03-26
+primaryKeyword: how to read ambulatory blood pressure variability results
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Intergenerational Gift-Giving of Homemade Cookies Affects Postprandial
-  Triglycerides in Adults 68+ With Metabolic Syndrome
+title: "Grandma's Cookies and Your Triglycerides: What Seniors 68+ Should Know"
 slug: >-
   how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome
-description: >-
-  Explores the lipid-metabolic impact of culturally embedded food gifting during
-  holidays, focusing on saturated fat bioavailability in aged pancreas and
-  delayed chylomicron clearance.
+description: After 65, clearing fat from blood (chylomicron clearance) slows 30-40%. Three butter cookies spike triglycerides 55 mg/dL for 6+ hours with metabolic syndrome.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: homemade cookies postprandial triglycerides seniors
+updated: '2026-03-26'
+primaryKeyword: do homemade holiday cookies raise triglycerides
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

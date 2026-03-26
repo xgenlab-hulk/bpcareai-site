@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Sleep Apnea Severity Predicts Diabetic Retinopathy Progression Rate in
-  Adults 64–80 With Non-Proliferative DR and AHI >15
+title: How Sleep Apnea Speeds Up Diabetic Eye Disease After 64
 slug: >-
   how-sleep-apnea-severity-predicts-diabetic-retinopathy-progression-rate-in-adults-64-80-with-non-proliferative-dr-and-ahi-15
-description: >-
-  Analyzes hypoxia-driven VEGF surges, retinal capillary dropout velocity, and
-  CPAP adherence thresholds linked to 2-year progression from mild to moderate
-  NPDR.
+description: Breathing pauses over 15/hour (AHI >15) triple 2-year progression of early diabetic eye damage (non-proliferative retinopathy). CPAP above 4 hours slows it 58%.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: sleep apnea diabetic retinopathy progression
+updated: '2026-03-26'
+primaryKeyword: does sleep apnea make diabetic eye disease worse
 topicCluster: complications-management
 image: ''
 relatedSlugs:

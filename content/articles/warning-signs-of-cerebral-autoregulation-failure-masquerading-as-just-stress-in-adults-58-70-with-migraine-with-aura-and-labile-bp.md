@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs of Cerebral Autoregulation Failure Masquerading as ‘Just Stress’
-  in Adults 58–70 With Migraine With Aura and Labile BP
+title: When 'Stress' Is Actually Brain Blood Flow Failure (Ages 58-70)
 slug: >-
   warning-signs-of-cerebral-autoregulation-failure-masquerading-as-just-stress-in-adults-58-70-with-migraine-with-aura-and-labile-bp
-description: >-
-  Identifies pre-syncope with visual snow, orthostatic verbal fluency drop, and
-  post-exertional BP lability as harbingers of impaired cerebrovascular pressure
-  reactivity—requiring TCD assessment.
+description: Dizziness plus visual snow after standing may signal impaired brain blood flow (cerebral autoregulation failure), not stress — especially with migraine aura.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: cerebral autoregulation failure warning signs adults 58-70
+updated: '2026-03-26'
+primaryKeyword: brain blood flow problems mistaken for stress with migraines
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

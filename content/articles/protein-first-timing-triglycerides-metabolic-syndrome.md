@@ -1,17 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Times to Serve a Protein-First Bite — Not Just ‘Eat Slowly’
-  — to Reduce Post-Holiday Triglyceride Spikes in Adults 68+ With Metabolic
-  Syndrome
+title: "Protein First at Holiday Meals: Does It Cut Triglyceride Spikes?"
 slug: >-
   12-science-backed-times-to-serve-a-protein-first-bite-not-just-eat-slowly-to-reduce-post-holiday-triglyceride-spikes-in-adults-68-with-metabolic-syndrome
-description: >-
-  Pinpoints precise pre-meal timing windows (e.g., 90 seconds before turkey is
-  served, 3 minutes after seating) that maximize satiety signaling and
-  lipoprotein lipase activation.
+description: Eating protein 90 seconds before carbs cuts after-meal blood fats (postprandial triglycerides) 18-23% in adults 68+ with metabolic syndrome.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: protein-first timing triglycerides metabolic syndrome
+updated: '2026-03-26'
+primaryKeyword: does eating protein first lower triglycerides after meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

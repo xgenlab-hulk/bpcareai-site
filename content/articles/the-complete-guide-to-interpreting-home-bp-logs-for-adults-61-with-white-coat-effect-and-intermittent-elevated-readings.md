@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting Home BP Logs for Adults 61+ With White Coat
-  Effect and Intermittent Elevated Readings
+title: "Reading Your Home BP Log: What Spikes Really Mean After 61"
 slug: >-
   the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings
-description: >-
-  Teaches how to distinguish true variability from artifact using pulse
-  amplitude trends, morning-evening differentials, and ‘stress signature’
-  patterns — with printable log templates.
+description: "Morning readings above 135 but evenings under 120? That 15+ mmHg gap signals a stress signature (white coat effect) \u2014 not true hypertension in most cases."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: interpreting home blood pressure logs
+updated: '2026-03-26'
+primaryKeyword: how to read home blood pressure logs with white coat anxiety
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

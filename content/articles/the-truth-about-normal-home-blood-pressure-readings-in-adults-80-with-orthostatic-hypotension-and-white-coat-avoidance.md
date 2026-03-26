@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Normal' Home Blood Pressure Readings in Adults 80+ With
-  Orthostatic Hypotension and White-Coat Avoidance
+title: "Adults 80+: When 'Normal' Home BP Readings Hide a Real Problem"
 slug: >-
   the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
-description: >-
-  Challenges diagnostic thresholds by examining age-related arterial stiffening,
-  baroreflex blunting, and the danger of over-treating isolated systolic
-  hypertension in frail octogenarians with fall risk.
+description: Stiff arteries (arterial stiffness) inflate cuff readings 10-20 mmHg. Dropping below 130 raises fall risk 2.4x in frail elders who get dizzy on standing.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: home blood pressure readings octogenarians orthostatic
+updated: '2026-03-26'
+primaryKeyword: normal blood pressure readings after 80 with dizziness
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 4-Minute Sauna Exposure *Really* Improve Coronary Flow Reserve in
-  Adults 69+ With Endothelial Dysfunction and No Structural Heart Disease?
+title: "4-Minute Sauna and Heart Blood Flow: What Studies Show After 69"
 slug: >-
   does-daily-4-minute-sauna-exposure-really-improve-coronary-flow-reserve-in-adults-69-with-endothelial-dysfunction-and-no-structural-heart-disease
-description: >-
-  Reviews randomized trials using transthoracic Doppler echocardiography to
-  measure coronary flow reserve changes after repeated sauna — comparing
-  Finnish-style vs. infrared protocols.
+description: Finnish sauna (4 min/day) boosts blood flow through small heart vessels (coronary flow reserve) by 12-18% in 3 weeks. Infrared protocols show weaker results.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: sauna coronary flow reserve endothelial
+updated: '2026-03-26'
+primaryKeyword: does short sauna use improve blood flow to the heart
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

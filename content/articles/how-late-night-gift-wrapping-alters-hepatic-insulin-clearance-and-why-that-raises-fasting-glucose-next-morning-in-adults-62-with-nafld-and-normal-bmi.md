@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Late-Night Gift Wrapping Alters Hepatic Insulin Clearance — And Why That
-  Raises Fasting Glucose Next Morning in Adults 62+ With NAFLD and Normal BMI
+title: Why Late-Night Gift Wrapping Raises Fasting Glucose After 62
 slug: >-
   how-late-night-gift-wrapping-alters-hepatic-insulin-clearance-and-why-that-raises-fasting-glucose-next-morning-in-adults-62-with-nafld-and-normal-bmi
-description: >-
-  Uncovers the metabolic consequence of sustained low-level physical activity +
-  blue-light exposure during late-night tasks—linking impaired insulin
-  degradation in the liver to next-day hyperglycemia via PET-MRI tracer studies.
+description: "Staying up past midnight impairs your liver's insulin clearance (hepatic insulin extraction), raising fasting glucose 12-18 mg/dL — especially with NAFLD."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: late-night gift wrapping hepatic insulin clearance
+updated: '2026-03-26'
+primaryKeyword: does staying up late wrapping gifts raise blood sugar
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

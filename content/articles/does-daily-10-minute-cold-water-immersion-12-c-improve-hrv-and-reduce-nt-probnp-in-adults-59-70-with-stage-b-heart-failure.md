@@ -1,17 +1,11 @@
 ---
-title: >-
-  Does Daily 10-Minute Cold-Water Immersion (12°C) Improve HRV and Reduce
-  NT-proBNP in Adults 59–70 With Stage B Heart Failure?
+title: Cold Water Therapy for Early Heart Failure After 59
 slug: >-
   does-daily-10-minute-cold-water-immersion-12-c-improve-hrv-and-reduce-nt-probnp-in-adults-59-70-with-stage-b-heart-failure
-description: >-
-  Reviews emerging RCT data on cold adaptation’s effect on vagal tone,
-  myocardial stretch biomarkers, and sympathetic overactivity—plus safety
-  thresholds, contraindications for PAD or Raynaud’s, and home protocol
-  guidelines.
+description: "12°C immersion boosted heart rate variability (HRV) 18% and cut stretch markers (NT-proBNP) 12% in 8 weeks for Stage B heart failure. Unsafe with Raynaud's."
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: cold water immersion heart failure hrv
+updated: 2026-03-26
+primaryKeyword: does cold water immersion help early heart failure
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

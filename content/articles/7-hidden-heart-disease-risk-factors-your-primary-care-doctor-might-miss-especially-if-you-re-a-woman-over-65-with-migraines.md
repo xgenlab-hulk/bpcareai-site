@@ -1,16 +1,10 @@
 ---
-title: >-
-  7 Hidden Heart Disease Risk Factors Your Primary Care Doctor Might Miss —
-  Especially If You’re a Woman Over 65 With Migraines
-slug: >-
-  7-hidden-heart-disease-risk-factors-your-primary-care-doctor-might-miss-especially-if-you-re-a-woman-over-65-with-migraines
-description: >-
-  Explores under-recognized cardiovascular risk markers like migraine with aura,
-  autoimmune thyroiditis, and microvascular angina that are frequently
-  overlooked in routine screenings for older women.
+title: Migraines After 65? Your Heart Risk Is Higher Than You Think
+slug: heart-risks-women-65-migraines
+description: Have migraines and over 65? Discover 3 heart risks your doctor may miss—migraine-aura stroke link, thyroid markers, microvascular tests—essential for women.
 date: '2026-02-24'
 updated: '2026-02-24'
-primaryKeyword: hidden heart disease risk factors women over 65
+primaryKeyword: heart disease risks women 65 migraines
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

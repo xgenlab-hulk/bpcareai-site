@@ -1,29 +1,18 @@
 ---
-title: >-
-  How Holiday Social Isolation Worsens Postprandial Glucose Variability in
-  Adults 78+ Living Alone and Using Insulin
-slug: >-
-  how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
-description: >-
-  Explores the neuroendocrine cascade linking loneliness → vagal withdrawal →
-  delayed gastric emptying → erratic glucose curves—and offers tele-dining and
-  meal-buddy protocols.
+title: Eating Alone at 78? How Isolation Destabilizes Blood Sugar
+slug: how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
+description: Loneliness blunts nerve signaling (vagal tone), slowing stomach emptying 25-35% and causing erratic glucose. Tele-dining or meal-buddy calls cut spikes ~20%.
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: social isolation postprandial glucose seniors
+updated: '2026-03-26'
+primaryKeyword: does eating alone spike blood sugar in seniors
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
-  - >-
-    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
-  - >-
-    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
-  - >-
-    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
-  - >-
-    how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression
-  - >-
-    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
+- why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
+- how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
+- how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
+- how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression
+- quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
 ---
 
 # How Social Isolation Postprandial Glucose Seniors Experience During Holidays—and What Helps

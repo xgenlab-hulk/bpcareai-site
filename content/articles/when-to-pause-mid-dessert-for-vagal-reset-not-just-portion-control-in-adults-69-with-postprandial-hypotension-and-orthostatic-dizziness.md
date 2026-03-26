@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Pause Mid-Dessert for Vagal Reset — Not Just Portion Control — in
-  Adults 69+ With Postprandial Hypotension and Orthostatic Dizziness
+title: Dizzy After Dessert? A Mid-Meal Pause That Resets Your Blood Pressure
 slug: >-
   when-to-pause-mid-dessert-for-vagal-reset-not-just-portion-control-in-adults-69-with-postprandial-hypotension-and-orthostatic-dizziness
-description: >-
-  Details evidence-based timing cues (e.g., after first bite of pie, before
-  coffee) to activate vagal tone and stabilize blood pressure—not just reduce
-  sugar intake.
+description: "A 90-second breathing pause mid-dessert can raise low blood pressure after eating (postprandial hypotension) by 12-18 mmHg \u2014 cutting fall risk for adults 69+."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: vagal reset dessert postprandial hypotension
+updated: '2026-03-25'
+primaryKeyword: why do I get dizzy after eating dessert
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

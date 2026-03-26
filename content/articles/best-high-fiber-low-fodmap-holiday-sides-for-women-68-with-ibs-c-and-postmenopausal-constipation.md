@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best High-Fiber, Low-FODMAP Holiday Sides for Women 68+ With IBS-C and
-  Postmenopausal Constipation
+title: "Holiday Sides That Won't Trigger IBS Bloating for Women 68+"
 slug: >-
   best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
-description: >-
-  Curates and explains 5 science-aligned, festive side dishes that boost fiber
-  without fermentable triggers—designed for aging female digestive systems
-  experiencing hormonal slowing and microbiome shifts.
+description: Postmenopausal gut slowing plus constipation-type IBS (IBS-C) makes holiday fiber tricky. Five low-FODMAP sides deliver 4-7g fiber without gas triggers.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: low fodmap holiday sides for seniors with ibs
+updated: '2026-03-26'
+primaryKeyword: "holiday side dishes that won't trigger IBS bloating"
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

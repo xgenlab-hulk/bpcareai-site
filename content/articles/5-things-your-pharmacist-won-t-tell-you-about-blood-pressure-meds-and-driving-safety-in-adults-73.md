@@ -1,16 +1,10 @@
 ---
-title: >-
-  5 Things Your Pharmacist Won’t Tell You About Blood Pressure Meds and Driving
-  Safety in Adults 73+
-slug: >-
-  5-things-your-pharmacist-won-t-tell-you-about-blood-pressure-meds-and-driving-safety-in-adults-73
-description: >-
-  Uncovers under-discussed medication-related risks — including delayed sedation
-  onset, visual field narrowing from alpha-blockers, and delayed reaction time
-  from low-dose diuretics — with actionable mitigation strategies.
+title: "Do BP Meds Affect Your Driving? What Adults 73+ Should Check"
+slug: bp-meds-driving-safety-73
+description: "Diuretics slow reaction time 15%; alpha-blockers blur near vision. Four timing shifts help adults 73+ on blood pressure drugs (antihypertensives) drive safely."
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: bp meds driving safety elderly
+updated: '2026-03-26'
+primaryKeyword: do blood pressure medications affect driving ability
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

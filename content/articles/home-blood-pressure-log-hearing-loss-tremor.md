@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting *Home* Blood Pressure Logs for Adults 74+
-  With Hearing Loss and Mild Tremor — Without Smartphone Apps or Voice
-  Assistants
+title: Logging Blood Pressure With Tremor and Hearing Loss After 74
 slug: >-
   the-complete-guide-to-interpreting-home-blood-pressure-logs-for-adults-74-with-hearing-loss-and-mild-tremor-without-smartphone-apps-or-voice-assistants
-description: >-
-  Provides a tactile, low-vision, tremor-adapted logging system — color-coded
-  pressure bands, embossed date grids, and pressure-triggered tactile feedback
-  charts — validated for accuracy and adherence in geriatric OT trials.
+description: Tactile grids with raised ridges and color-coded bands boosted weekly BP logging to 85% adherence in seniors with shaky hands (essential tremor).
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: home blood pressure log hearing loss tremor
+updated: '2026-03-26'
+primaryKeyword: how to log blood pressure with tremor and hearing loss
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

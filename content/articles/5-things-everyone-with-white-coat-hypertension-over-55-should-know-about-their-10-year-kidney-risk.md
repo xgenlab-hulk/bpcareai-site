@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Everyone With White-Coat Hypertension Over 55 Should Know About Their
-  10-Year Kidney Risk
-slug: >-
-  5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
+title: White Coat Hypertension After 55? (Your 10-Year Kidney Risk)
+slug: white-coat-bp-kidney-risk-seniors-55
 description: >-
-  Presents data linking masked nocturnal hypertension, albuminuria progression,
-  and glomerular hyperfiltration—even in absence of daytime elevation—and why
-  renal monitoring should begin *immediately* post-diagnosis.
+  Diagnosed with white coat BP? Discover why 25% develop kidney disease within 10 years, nocturnal patterns damaging kidneys silently, and 5 monitoring steps preventing progression—essential for adults 55+.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: white coat hypertension kidney risk over 55
+updated: '2026-03-18'
+primaryKeyword: white coat hypertension kidney risk seniors
 topicCluster: renal-health
 image: ''
 relatedSlugs:

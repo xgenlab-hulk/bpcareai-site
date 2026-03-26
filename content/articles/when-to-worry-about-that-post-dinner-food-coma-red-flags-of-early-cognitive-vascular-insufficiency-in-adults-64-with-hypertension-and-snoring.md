@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About That Post-Dinner ‘Food Coma’ — Red Flags of Early
-  Cognitive Vascular Insufficiency in Adults 64+ With Hypertension and Snoring
+title: When Post-Dinner Sleepiness Signals a Vascular Problem After 64
 slug: >-
   when-to-worry-about-that-post-dinner-food-coma-red-flags-of-early-cognitive-vascular-insufficiency-in-adults-64-with-hypertension-and-snoring
-description: >-
-  Identifies prolonged postprandial somnolence (>90 min), delayed verbal recall,
-  and impaired digit symbol substitution as potential markers of meal-induced
-  cerebral hypoperfusion — with practical monitoring tools and dietary buffers.
+description: Drowsiness over 90 min may mean less blood reaching your brain after meals (postprandial cerebral hypoperfusion) — not just tiredness. Snoring adds risk.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: post-dinner food coma cognitive vascular
+updated: '2026-03-26'
+primaryKeyword: is extreme sleepiness after dinner a warning sign
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

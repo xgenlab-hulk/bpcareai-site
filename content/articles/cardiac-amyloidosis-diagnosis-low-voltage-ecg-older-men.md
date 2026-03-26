@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Suspect Cardiac Amyloidosis in Men 76+ With Unexplained Low-Voltage
-  ECG, Bilateral Carpal Tunnel, and Progressive Fatigue — Even With Normal
-  Echocardiogram
+title: "Men 76+: When Low-Voltage EKG and Carpal Tunnel Signal Amyloidosis"
 slug: >-
   when-to-suspect-cardiac-amyloidosis-in-men-76-with-unexplained-low-voltage-ecg-bilateral-carpal-tunnel-and-progressive-fatigue-even-with-normal-echocardiogram
-description: >-
-  A practical diagnostic roadmap for clinicians and patients, highlighting
-  red-flag clinical triads, the limitations of standard echo, and when to pursue
-  bone-avid tracer imaging.
+description: "Low-voltage EKG plus carpal tunnel misses stiff-heart disease (cardiac amyloidosis) in 40% of men 76+. Standard echo looks normal \u2014 ask about bone-tracer scans."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: cardiac amyloidosis diagnosis low-voltage ecg older men
+updated: '2026-03-26'
+primaryKeyword: cardiac amyloidosis signs in men with low voltage EKG
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

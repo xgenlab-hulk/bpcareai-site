@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Mulled Wine (Simmered 45 Min, No Added Sugar) vs. Sparkling Cider
-  (Unfiltered, No Sulfites) — Impact on Post-Prandial Cardiac Rhythm Stability
-  in Adults 64–76 With IBS and AF
+title: "Mulled Wine vs. Sparkling Cider: Which Is Safer for AFib After 64?"
 slug: >-
   a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
-description: >-
-  Compares two popular holiday beverages on histamine load, tannin
-  bioavailability, sugar kinetics, and polyphenol–ion channel interactions —
-  with real-time ECG data from ambulatory rhythm monitoring studies.
+description: Simmered mulled wine keeps 5-8% alcohol plus histamine — doubling extra heartbeats (ectopy) vs. cider in adults 64-76 with irregular rhythm (AF) and IBS.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: mulled wine vs sparkling cider arrhythmia
+updated: 2026-03-26
+primaryKeyword: mulled wine vs cider which is safer for heart rhythm
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

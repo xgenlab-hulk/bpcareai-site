@@ -1,13 +1,10 @@
 ---
-title: >-
-  10 Medication Interactions That Raise BP Without Warning—From OTC
-  Decongestants to Topical Testosterone in Men Over 68
-slug: >-
-  10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
+title: 'Medication Interactions That Raise Blood Pressure: 10 Risks 65+'
+slug: medication-interactions-raise-blood-pressure-seniors
 description: >-
-  Catalogs underrecognized pharmacodynamic and pharmacokinetic interactions
-  (e.g., pseudoephedrine + amitriptyline, testosterone + finasteride), with
-  dose-adjustment guidance.
+  10 medication interactions that raise blood pressure: OTC decongestants +
+  antidepressants, testosterone + finasteride. Safe alternatives for seniors
+  65+.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: medication interactions raise blood pressure

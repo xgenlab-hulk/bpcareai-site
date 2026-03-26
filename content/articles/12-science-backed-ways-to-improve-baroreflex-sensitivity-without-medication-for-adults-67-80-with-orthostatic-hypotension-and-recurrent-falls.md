@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Ways to Improve Baroreflex Sensitivity Without Medication —
-  For Adults 67–80 With Orthostatic Hypotension and Recurrent Falls
+title: Dizzy When Standing? 12 Ways to Retrain Your BP Reflex After 67
 slug: >-
-  12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls
-description: >-
-  Covers non-pharmacologic interventions including paced breathing protocols,
-  cold exposure, neck muscle strengthening, and seated postural transitions —
-  all validated in geriatric autonomic dysfunction trials.
+  orthostatic-hypotension-falls-67-80
+description: Paced breathing and slow transitions improve your BP reflex (baroreflex sensitivity) enough to cut fall risk 30-40% in adults 67-80 with drops on standing.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: "health management seniors"
+updated: 2026-03-26
+primaryKeyword: how to stop dizziness when standing up after 67
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

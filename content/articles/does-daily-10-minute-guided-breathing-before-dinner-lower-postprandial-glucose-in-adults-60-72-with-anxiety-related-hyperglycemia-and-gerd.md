@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 10-Minute Guided Breathing Before Dinner Lower Postprandial Glucose
-  in Adults 60–72 With Anxiety-Related Hyperglycemia and GERD?
+title: "10-Minute Breathing Before Dinner: Does It Lower Sugar After 60?"
 slug: >-
   does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
-description: >-
-  Reviews pilot RCT data on vagal tone modulation, cortisol suppression, and
-  gastric motility effects — plus a step-by-step pre-meal protocol adapted for
-  hearing-impaired seniors.
+description: Pilot RCT data show pre-meal vagal breathing cuts post-dinner glucose 15-22 mg/dL in anxious adults 60-72. Adapted for acid reflux (GERD) and hearing loss.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: guided breathing before dinner glucose seniors
+updated: 2026-03-26
+primaryKeyword: breathing exercises before dinner to lower blood sugar
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,13 @@
 ---
-title: >-
-  7 Hidden Medication Interactions That Raise Blood Pressure in Adults Over 70
-  Taking NSAIDs, Antidepressants, or Decongestants
-slug: >-
-  7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
+title: NSAIDs and Antidepressants Raising Your BP? (Adults 70+)
+slug: nsaid-antidepressant-bp-spikes-70
 description: >-
-  Details clinically underrecognized drug–drug and drug–supplement interactions
-  that elevate systolic BP—focusing on pharmacokinetic shifts in aging
-  liver/kidney function.
+  Taking ibuprofen and antidepressants? Get 7 hidden drug interactions that
+  spike systolic BP 10–25 mm Hg—plus safer alternatives and monitoring tricks
+  for adults 70+.
 date: '2026-01-10'
 updated: '2026-01-10'
-primaryKeyword: blood pressure raising medication interactions seniors
+primaryKeyword: bp raising medication interactions seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

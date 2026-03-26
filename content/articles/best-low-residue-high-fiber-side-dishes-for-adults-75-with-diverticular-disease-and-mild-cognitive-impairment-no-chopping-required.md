@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Low-Residue, High-Fiber Side Dishes for Adults 75+ With Diverticular
-  Disease *and* Mild Cognitive Impairment — No Chopping Required
+title: "No-Chop, High-Fiber Sides for Seniors 75+ With Diverticular Disease"
 slug: >-
   best-low-residue-high-fiber-side-dishes-for-adults-75-with-diverticular-disease-and-mild-cognitive-impairment-no-chopping-required
-description: >-
-  Features 5 fully prepped, no-cook or single-pot side dishes (including
-  chia-pear compote and roasted beet hummus) designed to avoid mechanical
-  irritation while supporting gut-brain axis integrity and satiety signaling.
+description: "5 single-pot sides \u2014 chia-pear compote, beet hummus \u2014 deliver soluble fiber without irritating gut pouches (diverticula). No chopping; safe with mild MCI."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: low residue high fiber holiday sides
+updated: '2026-03-25'
+primaryKeyword: easy high fiber sides for diverticular disease over 75
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

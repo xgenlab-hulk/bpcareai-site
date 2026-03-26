@@ -1,17 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Holiday Eggnog Is Triggering Postprandial Endothelial
-  Dysfunction in Adults 67+ With Preexisting Microalbuminuria
+title: "7 Signs Your Holiday Eggnog Is Silently Stressing Your Blood Vessels"
 slug: >-
   7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria
-description: >-
-  Identifies subtle but clinically meaningful vascular stress markers—like
-  delayed capillary refill and transient speech latency—that signal endothelial
-  injury after high-fat, high-sugar holiday beverages in older adults with early
-  kidney involvement.
+description: "One serving of eggnog packs ~20g saturated fat — enough to stiffen artery walls (endothelial dysfunction) in 2 hr. Kidney leakage (microalbuminuria) worsens it."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: holiday eggnog endothelial dysfunction microalbuminuria
+updated: '2026-03-26'
+primaryKeyword: can eggnog harm your blood vessels and kidneys
 topicCluster: renal-health
 image: ''
 relatedSlugs:

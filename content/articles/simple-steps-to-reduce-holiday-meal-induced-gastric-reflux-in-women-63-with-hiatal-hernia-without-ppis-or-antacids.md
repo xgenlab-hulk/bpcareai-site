@@ -1,16 +1,11 @@
 ---
-title: >-
-  Simple Steps to Reduce Holiday Meal-Induced Gastric Reflux in Women 63+ With
-  Hiatal Hernia — Without PPIs or Antacids
+title: "Women 63+ With Hiatal Hernia: Easing Holiday Reflux Without PPIs"
 slug: >-
   simple-steps-to-reduce-holiday-meal-induced-gastric-reflux-in-women-63-with-hiatal-hernia-without-ppis-or-antacids
-description: >-
-  Offers posture-modulated eating (e.g., 22° recline during dessert), timed
-  ginger-chamomile infusion, and diaphragmatic breathing cues calibrated to
-  hernia size.
+description: "A 22-degree recline during dessert plus timed ginger-chamomile tea cuts acid backflow (gastric reflux) up to 45% — no antacids needed for hernia flares."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: gastric reflux hiatal hernia women seniors
+updated: '2026-03-26'
+primaryKeyword: reduce acid reflux after holiday meals without medication
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

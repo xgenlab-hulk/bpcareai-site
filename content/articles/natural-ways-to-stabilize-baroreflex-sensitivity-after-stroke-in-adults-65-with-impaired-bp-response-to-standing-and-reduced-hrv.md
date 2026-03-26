@@ -1,16 +1,11 @@
 ---
-title: >-
-  Natural Ways to Stabilize Baroreflex Sensitivity After Stroke in Adults 65+
-  With Impaired BP Response to Standing and Reduced HRV
+title: Stopping Post-Stroke Dizziness When Standing — Natural Steps
 slug: >-
   natural-ways-to-stabilize-baroreflex-sensitivity-after-stroke-in-adults-65-with-impaired-bp-response-to-standing-and-reduced-hrv
-description: >-
-  Focuses on post-stroke neuroplasticity via vagus nerve stimulation
-  (non-invasive), rhythmic squatting, and cold-water face immersion protocols
-  validated in stroke rehab trials.
+description: Stroke impairs your blood pressure reflex (baroreflex sensitivity), causing 20+ mmHg drops on standing. Cold-water face immersion retrains it in weeks.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: baroreflex sensitivity after stroke adults 65+
+updated: '2026-03-26'
+primaryKeyword: how to stop dizziness when standing after stroke
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

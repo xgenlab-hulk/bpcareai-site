@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Cardiac Amyloidosis in Adults 76+ With Unexplained Orthostatic
-  Hypotension and Bilateral Carpal Tunnel — Even With Normal Echocardiogram
+title: "Cardiac Amyloidosis: Hidden Behind Carpal Tunnel and Dizziness Over 76"
 slug: >-
   when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram
-description: >-
-  Guides recognition of this underdiagnosed infiltrative cardiomyopathy through
-  red-flag symptom clusters, tissue-agnostic biomarkers (serum free light
-  chains), and the role of bone-avid radiotracers.
+description: "Standing blood pressure drops (orthostatic hypotension) plus bilateral carpal tunnel after 76 \u2014 a bone-avid tracer scan catches 90% of missed heart amyloid."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: cardiac amyloidosis orthostatic hypotension seniors
+updated: '2026-03-26'
+primaryKeyword: could dizziness and carpal tunnel be cardiac amyloidosis
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

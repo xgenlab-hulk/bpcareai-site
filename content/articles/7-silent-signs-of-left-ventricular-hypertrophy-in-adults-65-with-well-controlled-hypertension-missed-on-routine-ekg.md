@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Silent Signs of Left Ventricular Hypertrophy in Adults 65+ With
-  Well-Controlled Hypertension — Missed on Routine EKG
+title: 7 Signs Your Heart Wall Is Thickening — Even With Normal BP After 65
 slug: >-
   7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
-description: >-
-  Highlights subtle clinical, auscultatory, and symptom-based red flags (e.g.,
-  delayed S2 splitting, nocturnal dyspnea with preserved SpO2) indicating
-  structural remodeling despite 'normal' BP readings.
+description: EKG misses 40-50% of thickened heart walls (left ventricular hypertrophy). Nighttime breathlessness with normal oxygen or an S4 sound reveal what readings hide.
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: left ventricular hypertrophy silent signs adults 65+
+updated: '2026-03-26'
+primaryKeyword: signs of thickened heart muscle missed on EKG
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

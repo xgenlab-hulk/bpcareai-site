@@ -1,17 +1,11 @@
 ---
-title: >-
-  10 Foods That Stabilize Post-Holiday Fasting Glucose *Without* Lowering It —
-  For Adults 64+ With History of Falls and Hypoglycemia-Associated Autonomic
-  Failure
+title: "Steady, Not Lower: Foods That Stabilize Fasting Glucose After 64"
 slug: >-
   10-foods-that-stabilize-post-holiday-fasting-glucose-without-lowering-it-for-adults-64-with-history-of-falls-and-hypoglycemia-associated-autonomic-failure
-description: >-
-  Highlights low-glycemic, high-protein/fat foods that blunt glucose excursions
-  while preserving counterregulatory hormone reserve — avoiding overcorrection
-  in frail older adults.
+description: "Low-sugar episodes (hypoglycemia) plus fall risk make overcorrecting dangerous after 64. These 10 high-protein foods keep fasting glucose at 90-130 mg/dL."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: stabilize fasting glucose without lowering
+updated: '2026-03-25'
+primaryKeyword: foods that keep fasting glucose stable without dropping it
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

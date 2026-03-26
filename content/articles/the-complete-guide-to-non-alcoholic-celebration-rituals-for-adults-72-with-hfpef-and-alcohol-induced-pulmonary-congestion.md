@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Non-Alcoholic Celebration Rituals for Adults 72+ With
-  HFpEF and Alcohol-Induced Pulmonary Congestion
+title: Heart-Safe Celebrating Without Alcohol for Seniors 72+ With HFpEF
 slug: >-
   the-complete-guide-to-non-alcoholic-celebration-rituals-for-adults-72-with-hfpef-and-alcohol-induced-pulmonary-congestion
-description: >-
-  Offers a holistic, culturally resonant framework — including sensory
-  substitution (aromatic teas, effervescent tonics), ritual pacing, and social
-  scripting — to maintain joy and belonging without triggering interstitial
-  edema or dyspnea.
+description: Even 1 glass raises lung fluid pressure (PCWP) 4-6 mmHg in adults 72+ with stiff-heart failure (HFpEF). Sparkling teas keep celebration without breathlessness.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: "health management adults 72+"
+updated: 2026-03-26
+primaryKeyword: non-alcoholic ways to celebrate with heart failure
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

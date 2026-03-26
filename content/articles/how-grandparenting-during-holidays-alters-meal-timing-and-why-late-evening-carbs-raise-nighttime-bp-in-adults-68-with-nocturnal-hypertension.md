@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Grandparenting During Holidays Alters Meal Timing — And Why Late-Evening
-  Carbs Raise Nighttime BP in Adults 68+ With Nocturnal Hypertension
+title: "Late-Night Carbs While Grandparenting: A Nighttime BP Trap After 68"
 slug: >-
   how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
-description: >-
-  Examines the circadian and behavioral impact of caregiving roles (e.g.,
-  feeding grandchildren late, disrupted dinner schedules) on nocturnal blood
-  pressure regulation and insulin sensitivity in older adults with non-dipping
-  BP patterns.
+description: "Carbs after 8pm suppress the overnight BP dip (nocturnal hypertension) by 8-12 mmHg. Grandparents feeding kids late shift their meal clock \u2014 eat protein first."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: late-evening carbs and nighttime blood pressure
+updated: '2026-03-26'
+primaryKeyword: do late night carbs raise blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

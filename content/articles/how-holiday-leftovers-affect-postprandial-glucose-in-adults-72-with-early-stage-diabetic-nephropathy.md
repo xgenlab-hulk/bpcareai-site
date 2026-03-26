@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Holiday Leftovers Affect Postprandial Glucose in Adults 72+ With
-  Early-Stage Diabetic Nephropathy
+title: "Reheated Holiday Leftovers Spike Glucose More — Here's Why After 72"
 slug: >-
   how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
-description: >-
-  Explores the glycemic impact of reheated holiday meals—especially turkey,
-  stuffing, and mashed potatoes—on kidney-protective glucose control in seniors
-  with stage 1–2 CKD and diabetes.
+description: Reheated stuffing spikes glucose 20-40 mg/dL more than fresh due to starch changes — a real concern with early kidney disease (CKD stage 1-2) after 72.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: holiday leftovers postprandial glucose seniors
+updated: '2026-03-26'
+primaryKeyword: do reheated holiday leftovers spike blood sugar more
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 200 mg of Magnesium L-Threonate (Not Oxide or Citrate) Improve
-  Nocturnal BP Dipping in Adults 66–80 With Mild Cognitive Impairment?
+title: "Magnesium L-Threonate for Nighttime BP: What Adults 66-80 Should Know"
 slug: >-
   does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
-description: >-
-  Evaluates brain-penetrant magnesium’s effect on central autonomic nuclei,
-  sleep architecture, and BP circadian rhythm — based on CSF biomarker and ABPM
-  data.
+description: Unlike oxide or citrate, L-threonate crosses into the brain, restoring nighttime BP drop (nocturnal dipping) 4-7 mmHg in adults with mild cognitive impairment.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: magnesium l-threonate nocturnal bp
+updated: '2026-03-26'
+primaryKeyword: does magnesium L-threonate help nighttime blood pressure
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

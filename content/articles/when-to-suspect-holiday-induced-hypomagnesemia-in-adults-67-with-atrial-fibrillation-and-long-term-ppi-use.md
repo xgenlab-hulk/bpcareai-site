@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Holiday-Induced Hypomagnesemia in Adults 67+ With Atrial
-  Fibrillation and Long-Term PPI Use
+title: AFib on a PPI? How Holiday Meals Drain Your Magnesium
 slug: >-
   when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
-description: >-
-  Links festive high-carb meals, alcohol, and proton-pump inhibitors to
-  magnesium depletion—and explains why QTc widening may not appear on ECG until
-  magnesium falls below 1.4 mg/dL.
+description: Acid-blocking pills (PPIs) cut magnesium absorption 30-40%. Add holiday carbs and alcohol, and levels drop below 1.4 mg/dL — triggering AFib before ECG shows.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: hypomagnesemia holiday atrial fibrillation seniors
+updated: '2026-03-26'
+primaryKeyword: low magnesium from holiday meals with AFib and PPIs
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

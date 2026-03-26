@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle *Without*
-  High-Intensity Interval Training — Using Cold-Adapted Green Tea Polyphenols
-  and Seated Resistance Band Cycles in Adults 71+ With Sarcopenia and
-  Prediabetes
+title: "Building Muscle Energy Without HIIT — What Works After 71"
 slug: >-
   natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes
-description: >-
-  Presents low-impact, temperature-modulated mitochondrial activation protocols
-  validated in frail older adults with insulin resistance and low lean mass.
+description: "Cold-steeped green tea keeps 2.3x more EGCG, sparking new cell powerhouses (mitochondrial biogenesis). Seated band cycling added 12% enzyme gain over 10 weeks."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: mitochondrial biogenesis without hiit seniors
+updated: '2026-03-25'
+primaryKeyword: how to build new mitochondria without intense exercise
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

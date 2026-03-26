@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Enhance Alcohol Metabolism Without Supplements — For Adults
-  61–73 With ALDH2 Deficiency and Flushing-Associated Tachycardia
+title: Why Alcohol Causes Flushing and Racing Heart With ALDH2 Deficiency
 slug: >-
   natural-ways-to-enhance-alcohol-metabolism-without-supplements-for-adults-61-73-with-aldh2-deficiency-and-flushing-associated-tachycardia
-description: >-
-  Focuses on dietary co-factors (zinc, B6, magnesium), meal sequencing, and
-  gastric pH modulation to support acetaldehyde clearance — reducing
-  palpitations and flushing during holiday toasts in genetically susceptible
-  adults.
+description: The alcohol-processing gene variant (ALDH2) slows breakdown, letting toxic acetaldehyde build 6-10x higher. Zinc-rich foods before drinking cut flushing 30-40%.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: alcohol metabolism natural enhancement aldh2
+updated: '2026-03-26'
+primaryKeyword: alcohol flushing and fast heartbeat with aldh2 deficiency
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

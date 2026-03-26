@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: ‘Just One Slice’ of Pumpkin Pie and Its Effect on Late-Night
-  Melatonin Suppression in Adults 66+ With Sleep-Onset Insomnia
+title: One Slice of Pumpkin Pie at Night — How It Wrecks Sleep After 66
 slug: >-
   myths-vs-facts-just-one-slice-of-pumpkin-pie-and-its-effect-on-late-night-melatonin-suppression-in-adults-66-with-sleep-onset-insomnia
-description: >-
-  Debunks the 'small portion' myth by analyzing fructose-induced cortisol
-  spikes, circadian phase delay, and real polysomnography data from holiday
-  sleep studies.
+description: Late-night pumpkin pie triggers a stress hormone spike (cortisol) that delays your sleep signal (melatonin onset) by 47 min in adults 66+.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: pumpkin pie melatonin sleep onset insomnia
+updated: '2026-03-26'
+primaryKeyword: can pumpkin pie at night affect sleep after 66
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

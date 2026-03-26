@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Sugar-Free' Holiday Baking Mixes — Why Many Still Raise A1C
-  in Adults 59–75 With Long-Standing Diabetes
+title: Sugar-Free Baking Mixes Still Raising Your A1C? Here Is Why
 slug: >-
   the-truth-about-sugar-free-holiday-baking-mixes-why-many-still-raise-a1c-in-adults-59-75-with-long-standing-diabetes
-description: >-
-  Breaks down label loopholes, maltitol and isomalt content, net carb
-  miscalculations, and real-world HbA1c shifts observed in 12-week cohort
-  studies.
+description: Maltitol in most sugar-free mixes has glycemic index 36 — raising glucose 60-75% as much as sugar. 12-week data shows A1C lifts 0.2-0.4% in adults 59-75.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: sugar-free baking mixes a1c impact
+updated: '2026-03-26'
+primaryKeyword: do sugar-free baking mixes still raise blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

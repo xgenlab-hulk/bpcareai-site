@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Loss of Sweet Taste Perception in Adults 69+ With
-  Well-Controlled Diabetes — And Why It Predicts Early Diabetic Autonomic
-  Neuropathy
+title: "Lost Your Sweet Taste? Why It Warns of Nerve Damage After 69"
 slug: >-
   what-causes-sudden-loss-of-sweet-taste-perception-in-adults-69-with-well-controlled-diabetes-and-why-it-predicts-early-diabetic-autonomic-neuropathy
-description: >-
-  Explores taste bud innervation changes, zinc transporter dysregulation, and
-  gustatory-evoked potential testing as early biomarkers for autonomic decline
-  before cardiovascular symptoms emerge.
+description: "Taste nerve fibers (gustatory afferents) degrade before other nerves — sweet detection drops 40-60%, signaling early autonomic neuropathy before heart symptoms."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: loss of sweet taste diabetic autonomic neuropathy
+updated: '2026-03-26'
+primaryKeyword: why did I lose my sweet taste with controlled diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

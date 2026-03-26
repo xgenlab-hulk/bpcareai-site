@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily Cold-Water Face Immersion Improve Vagal Tone and Reduce Atrial
-  Fibrillation Burden in Adults 67+ With Paroxysmal AF and Low HRV?
+title: "Cold Water Face Immersion for AFib: Does It Help After 67?"
 slug: >-
   does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv
-description: >-
-  Reviews randomized data on diving reflex activation, HRV metrics (RMSSD, HF
-  power), and 30-day implantable loop recorder outcomes in AF patients not on
-  antiarrhythmics.
+description: Cold water on the face boosts nerve-calming signals (vagal tone) 22% in 30 days. But adults 67+ with AFib need carotid screening first.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: cold water face immersion afib vagal tone
+updated: '2026-03-26'
+primaryKeyword: does cold water on face help atrial fibrillation
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

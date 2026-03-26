@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Common Medication Interactions That Worsen Seasonal Depression Symptoms in
-  Older Adults on Polypharmacy Regimens
-slug: >-
-  7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens
+title: Your Meds Worsening Winter Blues? (7 Interactions 60+)
+slug: meds-seasonal-depression-60
 description: >-
-  Identifies high-risk drug combinations (e.g., beta-blockers + SSRIs,
-  anticholinergics + vitamin D insufficiency) that amplify fatigue, anhedonia,
-  and psychomotor slowing in adults 60+.
+  Feeling down this winter? Get 7 drug combinations that worsen seasonal depression—beta-blockers plus SSRIs, anticholinergics—and safe alternatives for adults 60+.
 date: '2026-01-01'
 updated: '2026-01-01'
-primaryKeyword: medication interactions seasonal depression older adults
+primaryKeyword: medications worsening seasonal depression 60
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

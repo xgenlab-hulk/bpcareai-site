@@ -1,28 +1,18 @@
 ---
-title: >-
-  Warning Signs of Holiday-Induced Ketosis in Adults 77+ With Type 1 Diabetes
-  and Early Cognitive Decline — That Mimic Delirium or UTI
-slug: >-
-  warning-signs-of-holiday-induced-ketosis-in-adults-77-with-type-1-diabetes-and-early-cognitive-decline-that-mimic-delirium-or-uti
-description: >-
-  Highlights atypical presentations (e.g., sudden word-finding difficulty,
-  uncharacteristic irritability, mild gait instability) mistaken for dementia
-  progression — with rapid bedside ketone testing guidance.
+title: When Holiday Ketosis Mimics Dementia in Type 1 Diabetes After 77
+slug: warning-signs-of-holiday-induced-ketosis-in-adults-77-with-type-1-diabetes-and-early-cognitive-decline-that-mimic-delirium-or-uti
+description: 1 in 5 older type 1 diabetics develop mild ketosis during holidays. Word-finding trouble or gait changes may signal acid buildup (ketoacidosis), not UTI.
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: holiday ketosis type 1 dementia mimic
+updated: '2026-03-26'
+primaryKeyword: can holiday ketosis mimic dementia in type 1 diabetes
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
-  - >-
-    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
-  - >-
-    12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
-  - >-
-    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - >-
-    warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
+- what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
+- 12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
+- when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+- when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+- warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
 ---
 
 # Holiday Ketosis in Older Adults With Type 1 Diabetes: When Ketosis Mimics Dementia or UTI

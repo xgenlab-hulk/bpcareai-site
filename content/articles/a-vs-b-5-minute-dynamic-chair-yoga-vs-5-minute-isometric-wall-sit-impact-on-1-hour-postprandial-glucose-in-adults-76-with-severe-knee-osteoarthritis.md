@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: 5-Minute Dynamic Chair Yoga vs. 5-Minute Isometric Wall Sit — Impact
-  on 1-Hour Postprandial Glucose in Adults 76+ With Severe Knee Osteoarthritis
+title: "Chair Yoga vs. Wall Sit: Which Lowers Blood Sugar for Seniors 76+?"
 slug: >-
   a-vs-b-5-minute-dynamic-chair-yoga-vs-5-minute-isometric-wall-sit-impact-on-1-hour-postprandial-glucose-in-adults-76-with-severe-knee-osteoarthritis
-description: >-
-  Compares real-world glycemic responses to two ultra-low-impact movement
-  protocols in mobility-limited seniors, using blinded CGM data collected during
-  standard lunch meals.
+description: CGM data shows chair yoga cut post-meal glucose 18 mg/dL vs. 11 for wall sits in adults 76+ — with less knee strain (osteoarthritis-safe).
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: chair yoga vs wall sit postprandial glucose
+updated: '2026-03-26'
+primaryKeyword: chair yoga vs wall sit for blood sugar after meals
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

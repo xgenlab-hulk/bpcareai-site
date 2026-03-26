@@ -1,16 +1,14 @@
 ---
-title: >-
-  How Intermittent Use of Over-the-Counter NSAIDs for Back Pain Disrupts Renal
-  Prostaglandin Balance — And Why That Raises Risk of Acute Kidney Injury in
-  Adults 62+ With Stage 2 Diabetic Nephropathy
+title: Why OTC NSAIDs Raise Kidney Injury Risk With Diabetes After 62
 slug: >-
   how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy
 description: >-
-  Explains the pathophysiology behind NSAID-related AKI in early kidney disease,
-  with safer analgesic sequencing and urine biomarker monitoring protocols.
+  Even 3-5 days of ibuprofen can cut kidney blood flow (renal perfusion) 15-20%
+  when early diabetic kidney damage is present. Safer pain relief sequences
+  inside.
 date: '2026-02-03'
-updated: '2026-02-03'
-primaryKeyword: NSAIDs and kidney injury diabetes
+updated: '2026-03-26'
+primaryKeyword: can ibuprofen hurt my kidneys if I have diabetes
 topicCluster: renal-health
 image: ''
 relatedSlugs:

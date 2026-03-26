@@ -1,17 +1,11 @@
 ---
-title: >-
-  Can You Safely Resume Weight Training After a Recent Retinal Photocoagulation
-  Procedure? — Evidence-Based Load Thresholds and Valsalva Avoidance Protocols
-  for Adults 62+ With Proliferative Diabetic Retinopathy
+title: "Weight Training After Retinal Laser: Safe Limits for Seniors 62+"
 slug: >-
   can-you-safely-resume-weight-training-after-a-recent-retinal-photocoagulation-procedure-evidence-based-load-thresholds-and-valsalva-avoidance-protocols-for-adults-62-with-proliferative-diabetic-retinopathy
-description: >-
-  Provides ophthalmology-guided resistance training parameters post-laser,
-  including intraocular pressure limits, rep tempo, and breathing biofeedback
-  techniques to prevent neovascular rupture.
+description: "Breath-holding during lifts (Valsalva) spikes eye pressure (intraocular pressure) past 30 mmHg, risking vessel rupture. Tempo breathing keeps it under 22."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: weight training after retinal laser treatment seniors
+updated: '2026-03-25'
+primaryKeyword: is weight training safe after retinal laser treatment
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

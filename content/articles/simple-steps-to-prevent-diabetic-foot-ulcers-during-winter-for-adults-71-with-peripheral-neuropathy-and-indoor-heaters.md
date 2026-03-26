@@ -1,17 +1,11 @@
 ---
-title: >-
-  Simple Steps to Prevent Diabetic Foot Ulcers During Winter — For Adults 71+
-  With Peripheral Neuropathy and Indoor Heaters
+title: "Winter Foot Care for Diabetics 71+: Preventing Ulcers Indoors"
 slug: >-
   simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
-description: >-
-  Addresses dry skin cracking from forced-air heating, thermal injury from
-  electric blankets, reduced foot inspection due to bulky socks, and indoor slip
-  hazards — with moisturizer formulation specs and non-contact temperature
-  monitoring tools.
+description: "Indoor heaters drop skin moisture 40%. Electric blankets burn feet you can't feel with nerve damage (peripheral neuropathy). A daily mirror check catches 85%."
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: diabetic foot ulcers winter prevention
+updated: '2026-03-26'
+primaryKeyword: how to prevent diabetic foot ulcers in winter
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

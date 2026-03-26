@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Intergenerational Cookie-Baking Affects Postprandial Glucose Variability
-  in Adults 52–64 With Prediabetes and Slow Gastric Emptying
+title: "Cookie Baking With Grandkids: Why It Spikes Blood Sugar After 52"
 slug: >-
   how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
-description: >-
-  Investigates sensory stimulation, anticipatory insulin secretion, chewing
-  pace, and meal microstructure effects — using continuous glucose monitoring
-  and gastric emptying scintigraphy correlations.
+description: Smelling dough triggers early insulin release (cephalic phase) that misfires with slow emptying (gastroparesis), spiking glucose 40-60 mg/dL above expected.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: cookie-baking prediabetes gastric-emptying
+updated: '2026-03-26'
+primaryKeyword: does baking cookies with grandkids spike blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

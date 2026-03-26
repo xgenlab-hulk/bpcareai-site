@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Air Pollution Exposure Alters Endothelial Function in Adults 60+
-  Living Within 1 Mile of High-Traffic Arteries
+title: Living Near a Highway After 60? How Traffic Pollution Hurts
 slug: >-
   how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
-description: >-
-  Breaks down the mechanistic link between long-term PM2.5 exposure, nitric
-  oxide depletion, and accelerated arterial stiffening—plus practical indoor air
-  mitigation strategies validated in urban geriatric cohorts.
+description: PM2.5 from highways cuts nitric oxide 30%, stiffening vessel walls (endothelial dysfunction). Indoor HEPA filters reduce exposure 60-80% — even 1 mile away.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: air pollution endothelial function seniors
+updated: 2026-03-26
+primaryKeyword: does living near a highway affect heart health after 60
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Long-Term Proton Pump Inhibitor Use Elevates Risk of Subclinical
-  Atherosclerosis in Adults 59–71 With GERD and Low HDL-C — Independent of
-  Magnesium Levels
+title: Can Long-Term Acid Reflux Pills Cause Artery Plaque Buildup?
 slug: >-
   how-long-term-proton-pump-inhibitor-use-elevates-risk-of-subclinical-atherosclerosis-in-adults-59-71-with-gerd-and-low-hdl-c-independent-of-magnesium-levels
-description: >-
-  Examines PPI-associated gut microbiome shifts and TMAO elevation as novel
-  atherogenic pathways—separate from known electrolyte effects—using carotid
-  intima-media thickness and coronary calcium scoring data.
+description: PPIs taken 2+ years raise a gut toxin (TMAO) 20-35%, speeding artery plaque independently of magnesium — visible on carotid ultrasound in adults 59-71.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: pom inhibitors atherosclerosis gut microbiome
+updated: '2026-03-26'
+primaryKeyword: can acid reflux pills cause artery plaque buildup
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Holiday Stress From Family Expectations Alters Nighttime Cortisol Rhythm
-  in Women 62–75 With Insulin Resistance
+title: Why Holiday Family Stress Spikes Fasting Glucose in Women Over 62
 slug: >-
   how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
-description: >-
-  Links emotional labor during holiday planning to blunted nocturnal cortisol
-  decline, resulting in elevated fasting glucose and impaired fat oxidation—plus
-  practical rhythm-resetting rituals.
+description: Hosting flattens your nighttime stress hormone dip (cortisol rhythm), raising fasting glucose 15-25 mg/dL in women 62-75 with insulin resistance.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: holiday stress cortisol rhythm insulin resistance
+updated: '2026-03-26'
+primaryKeyword: does holiday stress raise blood sugar in women over 62
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

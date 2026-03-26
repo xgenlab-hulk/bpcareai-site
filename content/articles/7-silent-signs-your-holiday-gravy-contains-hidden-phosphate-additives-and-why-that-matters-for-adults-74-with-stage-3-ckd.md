@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Holiday Gravy Contains Hidden Phosphate Additives — And
-  Why That Matters for Adults 74+ With Stage 3 CKD
+title: 7 Signs Your Holiday Gravy Hides Phosphate — A CKD Risk After 74
 slug: >-
   7-silent-signs-your-holiday-gravy-contains-hidden-phosphate-additives-and-why-that-matters-for-adults-74-with-stage-3-ckd
-description: >-
-  Identifies phosphate-based thickeners in store-bought and restaurant-style
-  gravies, explains renal implications, and offers kidney-safe,
-  flavor-preserving homemade alternatives.
+description: Store gravies pack 200-400mg added phosphorus from sodium tripolyphosphate — 3x the safe limit for weakened kidneys (stage 3 CKD). 7 label clues to spot them.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: holiday gravy phosphate kidney disease seniors
+updated: '2026-03-26'
+primaryKeyword: does store-bought gravy have phosphate bad for kidneys
 topicCluster: renal-health
 image: ''
 relatedSlugs:

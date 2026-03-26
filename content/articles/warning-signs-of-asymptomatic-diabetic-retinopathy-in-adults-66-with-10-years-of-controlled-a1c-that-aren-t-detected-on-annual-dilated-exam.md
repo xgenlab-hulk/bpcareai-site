@@ -1,17 +1,11 @@
 ---
-title: >-
-  Warning Signs of Asymptomatic Diabetic Retinopathy in Adults 66+ With 10+
-  Years of Controlled A1c — That Aren’t Detected on Annual Dilated Exam
+title: Good A1c but Eyes Still at Risk? Hidden Retinopathy After 66
 slug: >-
   warning-signs-of-asymptomatic-diabetic-retinopathy-in-adults-66-with-10-years-of-controlled-a1c-that-aren-t-detected-on-annual-dilated-exam
-description: >-
-  Highlights subtle indicators like microsaccade instability, contrast
-  sensitivity decline under low-light conditions, delayed dark adaptation, and
-  peripheral visual field 'swimmy' distortions — plus home-based functional
-  vision screening tools.
+description: "10+ years of controlled A1c doesn't prevent all eye damage (diabetic retinopathy). Contrast and dark adjustment changes go undetected in 30% of exams."
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: asymptomatic diabetic retinopathy warning signs
+updated: '2026-03-26'
+primaryKeyword: signs of diabetic eye damage even with good A1c
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

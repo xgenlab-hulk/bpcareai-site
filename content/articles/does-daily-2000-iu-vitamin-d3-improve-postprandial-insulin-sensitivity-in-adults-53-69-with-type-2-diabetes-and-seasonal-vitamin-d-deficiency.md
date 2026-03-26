@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 2000 IU Vitamin D3 Improve Postprandial Insulin Sensitivity in
-  Adults 53–69 With Type 2 Diabetes and Seasonal Vitamin D Deficiency?
+title: Does 2000 IU Vitamin D3 Help Post-Meal Blood Sugar After 53?
 slug: >-
   does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency
-description: >-
-  Synthesizes evidence from winter RCTs on vitamin D receptor expression in
-  adipose tissue, insulin receptor substrate phosphorylation, and 2-hour OGTT
-  outcomes — including dosing safety limits.
+description: Winter vitamin D below 20 ng/mL worsens after-meal insulin response (postprandial sensitivity) by 18-25%. Daily 2000 IU D3 improved 2-hour glucose 11% in RCTs.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: vitamin d3 postprandial insulin sensitivity
+updated: '2026-03-26'
+primaryKeyword: does vitamin D3 help blood sugar after meals with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 2-Gram Magnesium Glycinate Lower 24-Hour Diastolic BP in Adults
-  63–79 With Chronic Constipation and Low RBC Magnesium?
+title: "Magnesium Glycinate for Blood Pressure: What RCTs Show After 63"
 slug: >-
   does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
-description: >-
-  Reviews RCT evidence on magnesium glycinate’s effect on vascular smooth muscle
-  tone and parasympathetic reactivation—specifically in elders with GI motility
-  issues and subclinical deficiency.
+description: 2 grams daily relaxes artery smooth muscle — trials show 3-5 mmHg diastolic drop in adults 63-79 with low red blood cell magnesium (RBC Mg) and constipation.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: magnesium glycinate diastolic blood pressure adults 63-79
+updated: '2026-03-26'
+primaryKeyword: does magnesium glycinate lower diastolic blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

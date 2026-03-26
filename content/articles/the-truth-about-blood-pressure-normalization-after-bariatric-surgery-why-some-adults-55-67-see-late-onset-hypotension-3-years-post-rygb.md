@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About Blood Pressure ‘Normalization’ After Bariatric Surgery — Why
-  Some Adults 55–67 See Late-Onset Hypotension 3+ Years Post-RYGB
+title: "Late-Onset Low BP After Gastric Bypass: What Adults 55-67 Should Watch"
 slug: >-
   the-truth-about-blood-pressure-normalization-after-bariatric-surgery-why-some-adults-55-67-see-late-onset-hypotension-3-years-post-rygb
-description: >-
-  Examines long-term vascular adaptation, renin-angiotensin remodeling, and
-  orthostatic risk in sustained weight-loss patients — including red-flag
-  symptoms and when to taper antihypertensives.
+description: "3+ years after gastric bypass (RYGB), 18-23% of adults 55-67 develop low BP from leftover meds — dizzy spells signal it's time to taper doses."
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: post-bariatric surgery low blood pressure
+updated: 2026-03-26
+primaryKeyword: low blood pressure years after bariatric surgery
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Constipation Affects Postprandial Glucose in Adults 67+ With Type
-  2 Diabetes and Pelvic Floor Dysfunction
+title: Constipation Raising Your Blood Sugar? The Gut Link After 67
 slug: >-
   how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
-description: >-
-  Details the gut–brain–pancreas axis: distension-induced vagal inhibition,
-  delayed gastric emptying secondary to colonic inertia, and elevated GLP-1
-  degradation — with targeted fiber and motilin strategies.
+description: Chronic constipation delays stomach emptying 25-40%, spiking after-meal glucose 30-50 mg/dL in adults 67+ with pelvic floor weakness (pelvic floor dysfunction).
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: constipation postprandial glucose pelvic floor
+updated: 2026-03-26
+primaryKeyword: does chronic constipation affect blood sugar levels
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

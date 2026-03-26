@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Taking Your Blood Pressure While Sitting Cross-Legged Really Raise
-  Readings? — What 2023 Research Says for Adults 58+
+title: Crossing Your Legs During BP Checks Adds 5-8 mmHg After 58
 slug: >-
   does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
-description: >-
-  Synthesizes recent biomechanical studies on femoral artery compression, venous
-  pooling, and systolic amplification — with protocol corrections for home users
-  and clinical settings.
+description: "Crossing legs squeezes the thigh artery (femoral artery), adding 5-8 mmHg systolic \u2014 enough to falsely flag hypertension. Uncross and wait 2 min to remeasure."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: cross-legged blood pressure measurement
+updated: '2026-03-26'
+primaryKeyword: does crossing legs raise blood pressure readings
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Are the Earliest Cognitive Red Flags Linked to Hypoglycemia-Associated
-  Autonomic Failure in Adults 70+ With 20+ Years of Type 1 Diabetes?
+title: Memory Lapses From Low Blood Sugar? Red Flags for Type 1 After 70
 slug: >-
   what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
-description: >-
-  Details subtle, pre-dementia markers—word-finding pauses during hypoglycemia,
-  delayed Stroop test recovery, and navigational disorientation in familiar
-  environments—as early neural signatures.
+description: "Word-finding pauses during lows and getting lost in familiar places mean your brain stopped warning about crashes (autonomic failure) — threshold: 54 mg/dL."
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: hypoglycemia cognitive red flags elderly
+updated: '2026-03-26'
+primaryKeyword: early memory signs from low blood sugar in type 1
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

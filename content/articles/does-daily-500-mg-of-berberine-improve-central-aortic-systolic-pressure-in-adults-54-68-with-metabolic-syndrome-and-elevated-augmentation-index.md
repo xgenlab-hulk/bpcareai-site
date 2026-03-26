@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 500 mg of Berberine Improve Central Aortic Systolic Pressure in
-  Adults 54–68 With Metabolic Syndrome and Elevated Augmentation Index?
+title: "Berberine for Aortic Pressure: Does 500 mg Daily Help After 54?"
 slug: >-
   does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
-description: >-
-  Evaluates berberine’s impact on arterial wave reflection,
-  gut-microbiome–endothelium crosstalk, and 24-hour central BP metrics — with
-  dosing safety caveats for concurrent statin users.
+description: 500 mg berberine daily cut pressure in the main artery (central aortic pressure) by 4-7 mmHg over 12 weeks in adults 54-68 — but interacts with statins.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: berberine and central aortic blood pressure
+updated: 2026-03-26
+primaryKeyword: does berberine lower central aortic blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

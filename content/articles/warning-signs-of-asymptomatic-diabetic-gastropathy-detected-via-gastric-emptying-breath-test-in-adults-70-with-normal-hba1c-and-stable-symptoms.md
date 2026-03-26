@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs of Asymptomatic Diabetic Gastropathy — Detected via Gastric
-  Emptying Breath Test — in Adults 70+ With Normal HbA1c and 'Stable' Symptoms
+title: "Slow Stomach Emptying in Diabetes: 5 Clues After 70"
 slug: >-
   warning-signs-of-asymptomatic-diabetic-gastropathy-detected-via-gastric-emptying-breath-test-in-adults-70-with-normal-hba1c-and-stable-symptoms
-description: >-
-  Details subtle clinical cues (e.g., erratic postprandial glucose curves,
-  delayed satiety despite normal BMI, unexplained nocturnal reflux) that warrant
-  noninvasive breath testing despite normal lab values.
+description: Erratic post-meal glucose swings and nighttime reflux can signal slow emptying (gastroparesis) even with normal A1c. A 13C breath test confirms in 4 hours.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: asymptomatic diabetic gastropathy warning signs
+updated: '2026-03-26'
+primaryKeyword: signs of slow stomach emptying even with normal A1c
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

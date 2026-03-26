@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Grandma’s Slow-Cooked Collards (With Ham Hock) vs. Modern Low-Sodium
-  Sautéed Version — Impact on Endothelial Function in Adults 61–75 With Stage 2
-  Hypertension
+title: "Slow-Cooked vs. Sauteed Collards: Which Is Better for BP?"
 slug: >-
   a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension
-description: >-
-  Compares traditional preparation methods using flow-mediated dilation (FMD)
-  data and nitric oxide bioavailability metrics, factoring in heme iron, sodium
-  load, and glucosinolate preservation — with personalized prep recommendations.
+description: Ham hock adds 800-1200 mg sodium — but slow cooking preserves 40% more vessel-relaxing compounds (glucosinolates). Low-sodium sautee protects artery dilation.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: collard greens endothelial function comparison
+updated: '2026-03-26'
+primaryKeyword: are slow-cooked collard greens bad for blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

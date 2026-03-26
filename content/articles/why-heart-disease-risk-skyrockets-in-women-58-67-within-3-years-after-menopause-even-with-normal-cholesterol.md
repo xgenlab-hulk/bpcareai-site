@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Heart Disease Risk Skyrockets in Women 58–67 Within 3 Years After
-  Menopause — Even With Normal Cholesterol
+title: Why Women 58-67 Face Rising Heart Risk 3 Years After Menopause
 slug: >-
   why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
-description: >-
-  Explores the hormonal, vascular, and metabolic shifts post-menopause that
-  accelerate atherosclerosis independent of traditional lipid markers, with data
-  from the SWAN and GENOA studies.
+description: "Estrogen loss doubles artery stiffness (pulse wave velocity) within 36 months post-menopause \u2014 even when LDL stays under 100. SWAN study data for women 58-67."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: heart disease after menopause women 58-67
+updated: '2026-03-26'
+primaryKeyword: why heart disease spikes after menopause with normal LDL
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

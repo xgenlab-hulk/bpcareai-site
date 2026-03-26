@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Sudden Swelling After Thanksgiving Dinner in Adults 70+
-  With Heart Failure and Diuretic-Resistant Edema
+title: Sudden Swelling After Thanksgiving? Red Flags for Seniors 70+
 slug: >-
   when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
-description: >-
-  Details red-flag symptoms (e.g., rapid weight gain >4 lbs in 48 hrs, new
-  orthopnea, jugular venous distension) and immediate action steps —
-  distinguishing expected fluid shifts from decompensated HF.
+description: Gaining 4+ lbs in 48 hours or trouble lying flat (orthopnea) after salty food signals worsening heart failure — not bloat. When to call your doctor.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: sudden swelling after holiday meal heart failure
+updated: 2026-03-26
+primaryKeyword: swelling after holiday meal with heart failure
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

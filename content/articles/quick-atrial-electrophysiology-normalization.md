@@ -1,18 +1,11 @@
 ---
-title: >-
-  Quick Ways to Normalize Post-Feast Atrial Electrophysiology Using Cold
-  Compress Timing and Cervical Positioning — For Adults 70+ With Prior
-  Holiday-Induced AFib
+title: "Adults 70+: A 90-Second Protocol to Calm Heart Rhythm After Feasts"
 slug: >-
   quick-ways-to-normalize-post-feast-atrial-electrophysiology-using-cold-compress-timing-and-cervical-positioning-for-adults-70-with-prior-holiday-induced-afib
-description: >-
-  Details a 90-second protocol combining targeted occipital cooling, supine
-  cervical extension angle, and vagal maneuver sequencing to reduce acute atrial
-  dispersion — validated via intra-atrial electrogram mapping proxies in
-  outpatient settings.
+description: A cold compress on your neck for 90 seconds triggers the diving reflex, slowing atrial firing (vagal maneuver). Pair with lying down and slow exhale breathing.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: quick atrial electrophysiology normalization
+updated: '2026-03-26'
+primaryKeyword: how to calm heart rhythm after a big holiday meal
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

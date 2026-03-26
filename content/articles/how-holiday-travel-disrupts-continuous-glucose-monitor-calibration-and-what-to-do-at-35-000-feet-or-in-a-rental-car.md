@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Holiday Travel Disrupts Continuous Glucose Monitor Calibration — And What
-  to Do at 35,000 Feet or in a Rental Car
+title: Why Your Glucose Monitor Reads Wrong at 35,000 Feet
 slug: >-
   how-holiday-travel-disrupts-continuous-glucose-monitor-calibration-and-what-to-do-at-35-000-feet-or-in-a-rental-car
-description: >-
-  Details environmental (cabin pressure, temperature swings), behavioral
-  (hydration gaps, meal timing chaos), and device-specific issues — with
-  real-world recalibration workarounds for CGM users.
+description: Cabin pressure shifts glucose sensor (CGM) readings 10-20 mg/dL. Rental car temp swings add 5-15 mg/dL drift — recalibrate with fingerstick after landing.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: CGM calibration holiday travel disruption
+updated: '2026-03-26'
+primaryKeyword: glucose monitor readings wrong during holiday travel flying
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

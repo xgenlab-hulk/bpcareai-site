@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Truth About 'Diabetes-Friendly' Holiday Cookie Kits — Why 92% Fail
-  Postprandial Glucose Clamp Testing in Adults 63+ With Gastroparesis-Like
-  Symptoms
+title: "Why 92% of 'Diabetes-Friendly' Cookie Kits Still Spike Blood Sugar"
 slug: >-
   the-truth-about-diabetes-friendly-holiday-cookie-kits-why-92-fail-postprandial-glucose-clamp-testing-in-adults-63-with-gastroparesis-like-symptoms
-description: >-
-  Reveals hidden fiber-to-carb mismatches, unlisted resistant starch modifiers,
-  and delayed gastric emptying triggers in marketed 'low-sugar' kits—validated
-  via continuous glucose monitoring in a 28-subject pilot study.
+description: "Hidden fiber-to-carb mismatches in marketed kits raise post-meal glucose 40+ mg/dL — worse with slow stomach emptying (gastroparesis). CGM data from 28 adults."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: diabetes-friendly holiday cookie kits gastroparesis
+updated: '2026-03-26'
+primaryKeyword: do diabetes-friendly cookie kits really spike blood sugar
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

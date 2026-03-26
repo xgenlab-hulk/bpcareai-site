@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Truth About ‘One-Bite’ Dessert Sharing — How Micro-Dosing Added Sugars
-  Disrupts Circadian Glucose Rhythms in Adults 63–80 With Shifted Melatonin
-  Onset and Evening Hyperglycemia
+title: "'Just One Bite' of Dessert Still Spikes Your Blood Sugar After 63"
 slug: >-
   the-truth-about-one-bite-dessert-sharing-how-micro-dosing-added-sugars-disrupts-circadian-glucose-rhythms-in-adults-63-80-with-shifted-melatonin-onset-and-evening-hyperglycemia
-description: >-
-  Reveals how repeated small exposures to sucrose-fructose blends—even in ‘just
-  one bite’—desynchronize peripheral clock genes in adipose tissue, worsening
-  overnight glucose trends.
+description: Even 5-10g sugar after 8 PM disrupts fat-tissue clock genes (circadian rhythm), raising overnight glucose 12-18 mg/dL. Adults 63-80 with evening highs at risk.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: one-bite dessert circadian glucose rhythm
+updated: '2026-03-26'
+primaryKeyword: does one bite of dessert still spike blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

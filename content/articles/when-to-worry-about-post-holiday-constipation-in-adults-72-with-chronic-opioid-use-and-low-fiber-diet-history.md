@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Post-Holiday Constipation in Adults 72+ With Chronic
-  Opioid Use and Low-Fiber Diet History
+title: "Post-Holiday Constipation on Opioids: Red Flags After 72"
 slug: >-
   when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history
-description: >-
-  Distinguishes functional constipation from opioid-induced colonic inertia,
-  fecal impaction risk, and silent bowel obstruction — with red-flag symptoms,
-  at-home assessment tools, and safe fiber reintroduction protocols.
+description: Opioids slow gut motility (colonic inertia) 40-60%. Adults 72+ risk silent fecal impaction if no bowel movement for 4+ days — especially on codeine or tramadol.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: post-holiday constipation opioid warning signs
+updated: 2026-03-26
+primaryKeyword: when is constipation dangerous with opioids after 72
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

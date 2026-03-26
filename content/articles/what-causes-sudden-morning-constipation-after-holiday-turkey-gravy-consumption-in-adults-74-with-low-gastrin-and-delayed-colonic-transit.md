@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Morning Constipation After Holiday Turkey Gravy Consumption
-  in Adults 74+ With Low Gastrin and Delayed Colonic Transit?
+title: Why Holiday Turkey Gravy Backs You Up — Seniors 74+ at Risk
 slug: >-
   what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit
-description: >-
-  Analyzes the combined effect of high-fat gravy, reduced gastric acid, and
-  age-related myenteric plexus decline on colonic motilin release and defecation
-  timing.
+description: High-fat gravy slows gut movement (colonic transit) by suppressing motilin up to 40%. Low stomach acid from aging worsens it — smaller portions help.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: holiday gravy constipation seniors
+updated: '2026-03-26'
+primaryKeyword: why does holiday gravy cause constipation in seniors
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

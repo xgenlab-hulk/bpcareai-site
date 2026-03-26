@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Your Afternoon Napping Habit Might Be Raising Fasting Glucose — Even With
-  Normal Bedtime Snacks in Adults 65+ With Dawn Phenomenon
+title: "Why Afternoon Naps May Raise Your Fasting Glucose After 65"
 slug: >-
   why-your-afternoon-napping-habit-might-be-raising-fasting-glucose-even-with-normal-bedtime-snacks-in-adults-65-with-dawn-phenomenon
-description: >-
-  Explores how circadian misalignment from habitual afternoon naps disrupts
-  hepatic glucose output and cortisol-glucagon crosstalk, with evidence-based
-  timing adjustments for older adults.
+description: "Naps over 30 min shift your sugar-release clock (hepatic gluconeogenesis), raising fasting glucose 15-25 mg/dL by morning — even with a perfect bedtime snack."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: afternoon naps and fasting glucose in seniors
+updated: '2026-03-25'
+primaryKeyword: can afternoon naps raise fasting blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

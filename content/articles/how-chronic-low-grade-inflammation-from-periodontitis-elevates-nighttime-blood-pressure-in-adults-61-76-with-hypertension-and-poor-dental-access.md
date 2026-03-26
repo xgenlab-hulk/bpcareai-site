@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Grade Inflammation From Periodontitis Elevates Nighttime Blood
-  Pressure in Adults 61–76 With Hypertension and Poor Dental Access
+title: "Gum Disease and Nighttime Blood Pressure: A Hidden Link After 61"
 slug: >-
   how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
-description: >-
-  Links gingival IL-6, CRP, and TNF-α spillover to nocturnal endothelial nitric
-  oxide synthase uncoupling and blunted dipping—supported by interventional
-  studies on scaling/root planing and BP trajectory.
+description: Inflamed gums (periodontitis) spill IL-6 and CRP into blood, blocking nighttime vessel relaxation (nitric oxide) and preventing the normal 10-15% BP dip.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: periodontitis nighttime blood pressure inflammation
+updated: '2026-03-26'
+primaryKeyword: can gum disease raise blood pressure at night
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

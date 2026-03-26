@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Holiday Social Isolation Raises Fasting Glucose in Adults 75+ With Type 2
-  Diabetes and Mild Depression
+title: Why Holiday Loneliness Raises Fasting Glucose in Adults 75+
 slug: >-
   why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
-description: >-
-  Explores the cortisol-IL-6-insulin resistance axis, reduced spontaneous
-  movement, altered circadian cortisol rhythm, and vagal withdrawal — linking
-  loneliness biomarkers to glycemic outcomes in longitudinal geriatric cohorts.
+description: Social isolation lifts cortisol 18-25%, raising fasting glucose 15-22 mg/dL within days. Reduced movement and broken sleep rhythms (circadian cortisol) add up.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: social isolation fasting glucose elderly
+updated: '2026-03-26'
+primaryKeyword: does loneliness raise blood sugar in older adults
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

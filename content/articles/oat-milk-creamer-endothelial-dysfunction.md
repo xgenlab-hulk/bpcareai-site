@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Truth About 'Heart-Healthy' Oat Milk Creamers — Why 86% of Brands Contain
-  Emulsifiers That Impair Endothelial Nitric Oxide Synthase Activity in Adults
-  63+ With Subclinical Atherosclerosis
+title: Why 86% of Oat Milk Creamers May Harm Your Arteries After 63
 slug: >-
   the-truth-about-heart-healthy-oat-milk-creamers-why-86-of-brands-contain-emulsifiers-that-impair-endothelial-nitric-oxide-synthase-activity-in-adults-63-with-subclinical-atherosclerosis
-description: >-
-  Investigates non-dairy creamer additives (e.g., gellan gum, sunflower
-  lecithin) linked to acute endothelial dysfunction — measured via flow-mediated
-  dilation — in older adults with carotid plaque.
+description: Emulsifiers like gellan gum cut blood vessel relaxation (flow-mediated dilation) up to 32% in 90 min for adults 63+ with plaque. Safer label swaps inside.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: oat milk creamer endothelial dysfunction
+updated: '2026-03-26'
+primaryKeyword: are oat milk creamers bad for your arteries
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

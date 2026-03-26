@@ -1,16 +1,13 @@
 ---
 title: >-
-  12 Foods That Modulate Gut-Derived Serotonin (5-HT) to Reduce Postprandial
-  Glucose Variability in Men 60–76 With Type 2 Diabetes and IBS-D
+  Blood Sugar Spikes After Meals? (12 Foods for Men 60+ with IBS-D)
 slug: >-
-  12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d
+  blood-sugar-ibs-d-men-60-foods
 description: >-
-  Highlights specific prebiotic fibers, polyphenol-rich berries, and fermented
-  legumes that temper colonic serotonin release—lowering vagally mediated
-  hepatic glucose output after meals.
+  Blood sugar spikes even on low-carb meals? Discover 12 foods that calm gut serotonin, stop post-meal glucose surges, and ease IBS-D symptoms—proven for men 60–76 with type 2 diabetes.
 date: '2026-01-13'
 updated: '2026-01-13'
-primaryKeyword: foods that reduce serotonin glucose spike
+primaryKeyword: blood sugar spikes ibs d men 60 foods
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

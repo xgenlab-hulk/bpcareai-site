@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Truth About 'Sugar-Free' Holiday Cookies for Adults 70+ With Type 2
-  Diabetes and Mild Cognitive Impairment
+title: "Sugar-Free Cookies and Diabetes After 70: What Labels Hide"
 slug: >-
   the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
-description: >-
-  Debunks marketing claims around sugar alcohols and artificial sweeteners in
-  festive baked goods, analyzing real-world glycemic response, GI distress risk,
-  and cognitive load of label interpretation in aging populations with early
-  memory concerns.
+description: Maltitol in sugar-free cookies still spikes glucose 25-35 mg/dL — confusing labels raise risk when memory issues (cognitive impairment) slow reading after 70.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: sugar-free holiday cookies type 2 diabetes elderly
+updated: 2026-03-26
+primaryKeyword: are sugar-free cookies safe for seniors with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

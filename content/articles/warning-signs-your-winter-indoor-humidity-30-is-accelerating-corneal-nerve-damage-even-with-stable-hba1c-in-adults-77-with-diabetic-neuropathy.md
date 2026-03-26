@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Winter Indoor Humidity <30% Is Accelerating Corneal Nerve
-  Damage — Even With Stable HbA1c in Adults 77+ With Diabetic Neuropathy
+title: Low Winter Humidity and Eye Nerve Damage in Seniors With Diabetes
 slug: >-
   warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
-description: >-
-  Connects dry air-induced ocular surface stress, corneal confocal microscopy
-  findings, tear osmolarity changes, and humidifier-based neuroprotection
-  strategies for frail older adults.
+description: "Indoor humidity below 30% raises tear salt levels (osmolarity) by 15-25 mOsm/L, speeding nerve loss in the cornea \u2014 even with stable HbA1c in adults 77+."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: indoor humidity corneal nerve damage
+updated: '2026-03-25'
+primaryKeyword: can dry indoor air damage eyes with diabetic neuropathy
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

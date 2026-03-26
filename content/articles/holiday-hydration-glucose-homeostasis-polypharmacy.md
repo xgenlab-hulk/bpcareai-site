@@ -1,17 +1,11 @@
 ---
-title: >-
-  Best Hydration Patterns for Glucose Homeostasis During Holiday Parties — Not
-  Just 'Drink More Water' — For Adults 69+ With Polypharmacy and Reduced Thirst
-  Perception
+title: Smart Hydration for Stable Blood Sugar in Adults 69+ on Multiple Meds
 slug: >-
   best-hydration-patterns-for-glucose-homeostasis-during-holiday-parties-not-just-drink-more-water-for-adults-69-with-polypharmacy-and-reduced-thirst-perception
-description: >-
-  Offers a stepwise hydration protocol calibrated to diuretic burden,
-  anticholinergic load, and osmotic threshold shifts—featuring timed electrolyte
-  sips, temperature-modulated fluids, and thirst-proxy cues.
+description: Timed electrolyte sips every 45 min prevent the 15-20 mg/dL glucose drift that dehydration causes in seniors taking water pills (diuretics) and diabetes drugs.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: holiday hydration glucose homeostasis polypharmacy
+updated: '2026-03-26'
+primaryKeyword: how to stay hydrated and keep blood sugar stable at 69
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

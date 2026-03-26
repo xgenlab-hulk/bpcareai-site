@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Salivary Amylase Activity During Family Gatherings —
-  Without Supplements — For Adults 72+ With Xerostomia and Early Dysphagia
+title: Dry Mouth Making Meals Hard? Digestion Help for Adults 72+
 slug: >-
   natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia
-description: >-
-  Offers evidence-based sensory priming techniques (e.g., chilled citrus zest
-  inhalation, gentle submandibular massage timing, temperature-modulated
-  first-bite sequencing) to enhance starch digestion and reduce aspiration risk
-  during multi-generational meals.
+description: Dry mouth (xerostomia) cuts starch enzyme output 40-60% after 70. Citrus zest inhalation and gentle jaw massage before eating boost saliva and reduce choking.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: "diet management adults 72+"
+updated: '2026-03-26'
+primaryKeyword: how to help digestion when your mouth is too dry
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

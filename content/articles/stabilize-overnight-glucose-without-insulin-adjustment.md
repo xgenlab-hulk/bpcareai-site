@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Stabilize Overnight Glucose *Without* Adjusting Basal Insulin
-  — Using Bedtime Protein Timing, Foot-Warming, and Diaphragmatic Breathing in
-  Adults 59–66 With Nocturnal Hypoglycemia
+title: "3 Ways to Stabilize Overnight Blood Sugar Without Changing Insulin"
 slug: >-
   natural-ways-to-stabilize-overnight-glucose-without-adjusting-basal-insulin-using-bedtime-protein-timing-foot-warming-and-diaphragmatic-breathing-in-adults-59-66-with-nocturnal-hypoglycemia
-description: >-
-  Details a non-pharmacologic triad proven to reduce nocturnal glucose
-  variability by 37% in a recent RCT—focused on autonomic modulation,
-  thermoregulatory signaling, and slow-digesting protein kinetics.
+description: "Bedtime protein, foot-warming socks, and slow breathing cut nighttime blood sugar swings (glucose variability) by 37% in adults 59-66 with overnight lows."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: stabilize overnight glucose without insulin adjustment
+updated: '2026-03-26'
+primaryKeyword: how to keep blood sugar stable overnight without insulin
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

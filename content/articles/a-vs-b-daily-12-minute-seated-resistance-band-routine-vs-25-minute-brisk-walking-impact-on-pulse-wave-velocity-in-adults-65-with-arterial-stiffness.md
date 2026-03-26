@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: Daily 12-Minute Seated Resistance Band Routine vs. 25-Minute Brisk
-  Walking — Impact on Pulse Wave Velocity in Adults 65+ With Arterial Stiffness
+title: "Resistance Bands vs. Walking: Which Softens Stiff Arteries Over 65?"
 slug: >-
   a-vs-b-daily-12-minute-seated-resistance-band-routine-vs-25-minute-brisk-walking-impact-on-pulse-wave-velocity-in-adults-65-with-arterial-stiffness
-description: >-
-  Compares vascular elasticity outcomes from low-impact strength training versus
-  aerobic walking in sedentary older adults with confirmed aortic pulse wave
-  velocity >10 m/s.
+description: Seated bands 12 min/day cut artery stiffness (pulse wave velocity) 0.8 m/s in 8 weeks vs. 1.1 m/s for 25-min walks — bands suit seniors who can't walk far.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: resistance band vs walking arterial stiffness
+updated: '2026-03-26'
+primaryKeyword: resistance bands vs walking for stiff arteries
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

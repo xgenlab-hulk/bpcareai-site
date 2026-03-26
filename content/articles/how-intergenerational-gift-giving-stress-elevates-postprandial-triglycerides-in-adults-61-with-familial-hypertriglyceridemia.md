@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Intergenerational Gift-Giving Stress Elevates Postprandial Triglycerides
-  in Adults 61+ With Familial Hypertriglyceridemia
+title: Why Gift-Giving Stress Spikes Triglycerides in Seniors Over 61
 slug: >-
   how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
-description: >-
-  Analyzes cortisol–lipoprotein lipase inhibition dynamics during holiday
-  gatherings, with actionable meal sequencing and breathing protocols shown to
-  blunt TG spikes by >37% in RCTs.
+description: "Holiday stress cortisol blocks the enzyme clearing blood fats (lipoprotein lipase). With inherited high triglycerides, levels spike 37%+ \u2014 slow breathing helps."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: gift-giving stress triglycerides seniors
+updated: '2026-03-26'
+primaryKeyword: does holiday stress raise triglycerides
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

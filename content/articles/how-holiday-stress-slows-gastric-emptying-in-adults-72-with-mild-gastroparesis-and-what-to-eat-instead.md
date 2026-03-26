@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Holiday Stress Slows Gastric Emptying in Adults 72+ With Mild
-  Gastroparesis — And What to Eat Instead
+title: "Holiday Stress and Gastroparesis: Why Digestion Stalls After 72"
 slug: >-
   how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
-description: >-
-  Explores the physiological link between acute holiday-related stress and
-  delayed stomach motility in older adults with early gastroparesis, offering
-  practical meal-timing and food-texture strategies to prevent nausea and
-  postprandial fullness.
+description: Cortisol slows stomach emptying (gastric motility) 25-40% during stressful gatherings. Pureed textures and 20-min pre-meal walks ease nausea after 72.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: holiday stress and gastroparesis in seniors
+updated: '2026-03-26'
+primaryKeyword: why does holiday stress make gastroparesis worse
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

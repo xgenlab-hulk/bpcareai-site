@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Everyone Over 73 Should Know About Holiday Nut Mixes—and When to
-  Avoid Them Entirely
-slug: >-
-  5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely
+title: Holiday Nut Mixes Dangerous for You? (Seniors 73+ Safety Alert)
+slug: holiday-nut-mixes-choking-drug-risk-73
 description: >-
-  Covers choking risk, aflatoxin exposure in aged nuts, interactions with MAOIs
-  or carbidopa-levodopa, and safe alternatives for those with dysphagia,
-  Parkinson’s, or hepatic impairment.
+  On MAOIs or carbidopa-levodopa? Learn why holiday nut mixes trigger choking, aflatoxin exposure, and dangerous drug interactions—plus 3 safer swaps for seniors 73+.
 date: '2026-01-09'
 updated: '2026-01-09'
-primaryKeyword: holiday nut mixes seniors 73+
+primaryKeyword: holiday nut mixes choking drug interactions 73
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

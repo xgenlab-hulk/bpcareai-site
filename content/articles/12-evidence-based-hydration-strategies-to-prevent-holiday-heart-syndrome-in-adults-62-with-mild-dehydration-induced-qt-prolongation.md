@@ -1,17 +1,11 @@
 ---
-title: >-
-  12 Evidence-Based Hydration Strategies to Prevent Holiday Heart Syndrome in
-  Adults 62+ With Mild Dehydration-Induced QT Prolongation
+title: 12 Hydration Fixes to Prevent Holiday Heart Syndrome After 62
 slug: >-
-  12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
-description: >-
-  A practical, step-by-step guide to optimizing fluid intake *around* meals —
-  not just total daily volume — to stabilize electrolytes, reduce cardiac
-  irritability, and prevent alcohol-triggered arrhythmias in older adults with
-  borderline QTc.
+  hydration-holiday-heart-palpitations-62
+description: "Just 1.5% fluid loss stretches your heart's electrical timing (QT interval), triggering arrhythmia. Pre-meal sipping and potassium pairing help adults 62+."
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: hydration strategies holiday heart syndrome prevention
+updated: 2026-03-26
+primaryKeyword: does dehydration cause heart palpitations at holidays
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

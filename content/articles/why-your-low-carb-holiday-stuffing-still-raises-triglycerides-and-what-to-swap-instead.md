@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Your 'Low-Carb' Holiday Stuffing Still Raises Triglycerides — And What to
-  Swap Instead
+title: Why Low-Carb Stuffing Still Spikes Triglycerides — and Fixes
 slug: >-
   why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead
-description: >-
-  Explains how hidden fructose, high omega-6 fats, and low-fiber grain
-  substitutes in ‘diabetic-friendly’ recipes drive postprandial lipemia — with
-  science-backed, palatable alternatives.
+description: Almond flour stuffing packs 14g omega-6 per cup, driving after-meal fat spikes (postprandial lipemia) 30-50% higher. Walnut-flax meal halves the omega-6 load.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: low-carb stuffing triglycerides diabetes
+updated: 2026-03-26
+primaryKeyword: why does low carb stuffing raise triglycerides
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

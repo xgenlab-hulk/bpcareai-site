@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can Long-Term Statin Use Worsen Myocardial Energetics in Adults 72+ With
-  Pre-Existing Mitochondrial Myopathy and Fatigue-Dominant Heart Failure?
+title: "Statins and Heart Fatigue After 72: When CoQ10 Depletion Matters"
 slug: >-
   can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure
-description: >-
-  Analyzes case-based evidence and CoQ10 kinetics data on statin-induced
-  respiratory chain disruption in aging mitochondria — including when
-  discontinuation or dose modulation improves cardiac ATP flux.
+description: Long-term statins cut heart-cell energy output (mitochondrial ATP flux) 20-35%. CoQ10 timing matters most for adults 72+ with fatigue-dominant heart failure.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: statins mitochondrial myopathy elderly
+updated: '2026-03-26'
+primaryKeyword: can statins make heart fatigue worse after 72
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

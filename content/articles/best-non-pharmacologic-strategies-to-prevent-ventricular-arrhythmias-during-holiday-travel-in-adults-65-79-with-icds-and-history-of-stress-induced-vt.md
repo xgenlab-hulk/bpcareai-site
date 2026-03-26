@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Non-Pharmacologic Strategies to Prevent Ventricular Arrhythmias During
-  Holiday Travel in Adults 65–79 With ICDs and History of Stress-Induced VT
+title: Traveling With an ICD After 65? How to Prevent Stress-Triggered VT
 slug: >-
   best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
-description: >-
-  Focuses on travel-specific triggers: cabin pressure changes, sleep disruption,
-  dehydration, and emotional load — with evidence-based mitigation including
-  pre-travel HRV priming and portable vagal stimulation.
+description: Cabin pressure drops and sleep loss raise dangerous fast heartbeats (ventricular tachycardia) 2-3x during travel. Vagal breathing helps adults 65-79 with ICDs.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: prevent vt during travel icd elderly
+updated: '2026-03-26'
+primaryKeyword: prevent dangerous heart rhythms when traveling with ICD
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

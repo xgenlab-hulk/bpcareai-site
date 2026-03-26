@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Social Prescribing (e.g., Community Gardening, Choir Groups) Lowers HbA1c
-  by 0.4% in Adults 60–72 With Type 2 Diabetes and High Loneliness Scores
+title: "Choir, Gardening, Community Groups: How They Lower A1c After 60"
 slug: >-
   how-social-prescribing-e-g-community-gardening-choir-groups-lowers-hba1c-by-0-4-in-adults-60-72-with-type-2-diabetes-and-high-loneliness-scores
-description: >-
-  Reviews outcomes from UK and Canadian social prescribing programs —
-  highlighting dopamine-GLP-1 crosstalk, stress-buffering effects on hepatic
-  gluconeogenesis, and implementation pathways for clinics.
+description: Group activities cut A1c by 0.4% in lonely adults 60-72 with diabetes — stress relief lowers liver sugar output (hepatic gluconeogenesis). UK/Canadian data.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: social prescribing HbA1c type 2 diabetes
+updated: '2026-03-26'
+primaryKeyword: can social activities lower blood sugar in seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

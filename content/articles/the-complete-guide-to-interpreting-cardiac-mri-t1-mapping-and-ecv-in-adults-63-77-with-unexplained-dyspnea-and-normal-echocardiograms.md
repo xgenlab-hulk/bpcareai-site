@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting Cardiac MRI T1 Mapping and ECV in Adults
-  63–77 With Unexplained Dyspnea and Normal Echocardiograms
+title: "Cardiac MRI T1 Mapping: What It Reveals When Echo Looks Normal"
 slug: >-
   the-complete-guide-to-interpreting-cardiac-mri-t1-mapping-and-ecv-in-adults-63-77-with-unexplained-dyspnea-and-normal-echocardiograms
-description: >-
-  Demystifies native T1, post-contrast T1, and extracellular volume mapping for
-  non-radiologists—focusing on detection thresholds for diffuse fibrosis,
-  amyloid infiltration, and iron overload in real-world clinical ambiguity.
+description: Native T1 above 1100ms flags hidden scarring (diffuse fibrosis) that echo misses. ECV mapping detects amyloid in adults 63-77 with unexplained breathlessness.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: cardiac mri t1 mapping interpretation
+updated: 2026-03-26
+primaryKeyword: what does cardiac MRI T1 mapping show about my heart
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

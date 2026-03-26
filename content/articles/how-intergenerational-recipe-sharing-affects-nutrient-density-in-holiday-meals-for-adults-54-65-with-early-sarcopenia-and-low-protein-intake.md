@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Intergenerational Recipe Sharing Affects Nutrient Density in Holiday Meals
-  for Adults 54–65 With Early Sarcopenia and Low Protein Intake
+title: Boosting Holiday Recipes for Muscle Health in Adults 54-65
 slug: >-
   how-intergenerational-recipe-sharing-affects-nutrient-density-in-holiday-meals-for-adults-54-65-with-early-sarcopenia-and-low-protein-intake
-description: >-
-  Examines generational shifts in cooking methods (e.g., pressure-cooked beans
-  vs canned), protein fortification opportunities (lentil-stuffed mushrooms,
-  collagen-enriched gravy), and engagement-based adherence tools.
+description: Adults 54-65 with early muscle loss (sarcopenia) need 1.2g/kg protein daily. Collagen gravy and lentil-stuffed mushrooms boost holiday protein 27%.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: intergenerational recipes sarcopenia seniors
+updated: 2026-03-26
+primaryKeyword: how to boost protein in family recipes for muscle loss
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

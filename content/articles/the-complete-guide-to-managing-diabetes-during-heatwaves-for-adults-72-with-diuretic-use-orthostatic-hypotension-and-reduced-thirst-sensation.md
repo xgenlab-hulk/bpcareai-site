@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Managing Diabetes During Heatwaves — For Adults 72+ With
-  Diuretic Use, Orthostatic Hypotension, and Reduced Thirst Sensation
+title: "Diabetes in a Heatwave After 72: Why Thirst Alone Fails You"
 slug: >-
   the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
-description: >-
-  Covers hydration timing, electrolyte balancing without hyperkalemia risk,
-  medication stability in extreme heat, and CGM sensor adhesion failure
-  mitigation for frail seniors.
+description: Above 32C, diuretics shift unpredictably. Adults 72+ lose 1.5L/day without thirst — risking glucose swings and dizziness on standing (orthostatic drops).
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: diabetes heatwave management elderly
+updated: '2026-03-26'
+primaryKeyword: how to manage diabetes safely in a heatwave after 72
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

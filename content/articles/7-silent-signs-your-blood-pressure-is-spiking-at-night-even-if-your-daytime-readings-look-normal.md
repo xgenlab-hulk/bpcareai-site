@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Blood Pressure Is Spiking at Night — Even If Your Daytime
-  Readings Look Normal
+title: 7 Silent Signs Your Blood Pressure Spikes While You Sleep
 slug: >-
   7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
-description: >-
-  Explores nocturnal hypertension symptoms often missed in routine
-  checks—including unrefreshing sleep, morning headaches, and nocturia—and why
-  24-hour ambulatory monitoring is essential for adults 55+.
+description: Morning headaches and unrefreshing sleep may signal high nighttime BP (nocturnal hypertension) — 30% of adults 55+ with normal daytime readings have it.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: nocturnal hypertension symptoms adults 55+
+updated: '2026-03-26'
+primaryKeyword: signs your blood pressure spikes at night
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: Morning Walk After Fasting vs. Post-Dinner Walk — Impact on 24-Hour
-  Ambulatory BP Patterns in Adults 63–76 With White-Coat Hypertension
+title: "Morning vs. Evening Walk: Which Lowers 24-Hour BP After 63?"
 slug: >-
   a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension
-description: >-
-  Compares timing-specific effects on nocturnal dipping, morning surge, and
-  pulse pressure variability using real-world ABPM data — with guidance on
-  personalizing timing based on chronotype and medication schedule.
+description: Post-dinner walks restore nighttime BP dipping (blood pressure drop during sleep) better than fasting morning walks — 4-7 mmHg gap on ABPM in adults 63-76.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: morning vs evening walk blood pressure
+updated: 2026-03-26
+primaryKeyword: morning walk vs evening walk for blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

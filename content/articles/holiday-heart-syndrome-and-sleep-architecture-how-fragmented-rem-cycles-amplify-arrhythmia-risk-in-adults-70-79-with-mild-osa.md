@@ -1,16 +1,11 @@
 ---
-title: >-
-  Holiday Heart Syndrome and Sleep Architecture: How Fragmented REM Cycles
-  Amplify Arrhythmia Risk in Adults 70–79 With Mild OSA
+title: How Poor Sleep Amplifies Holiday Heart Syndrome in Adults 70-79
 slug: >-
   holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
-description: >-
-  Examines the bidirectional link between disrupted rapid-eye-movement sleep and
-  nocturnal vagal surges, explaining why even mild OSA increases susceptibility
-  to alcohol-triggered AF during holiday travel or late-night celebrations.
+description: Broken REM sleep raises vagal surges 30-45% — even mild sleep apnea (OSA) triples holiday heart arrhythmia risk in adults 70-79 after late-night drinks.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: sleep architecture holiday heart syndrome oSA
+updated: 2026-03-26
+primaryKeyword: how poor sleep worsens holiday heart syndrome
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

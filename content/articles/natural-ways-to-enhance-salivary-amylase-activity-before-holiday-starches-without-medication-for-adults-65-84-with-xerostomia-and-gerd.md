@@ -1,29 +1,18 @@
 ---
-title: >-
-  Natural Ways to Enhance Salivary Amylase Activity Before Holiday
-  Starches—Without Medication—for Adults 65–84 With Xerostomia and GERD
-slug: >-
-  natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd
-description: >-
-  Evidence-based sensory priming techniques—chewing cinnamon gum, tasting lemon
-  zest, and nasal breathing—shown to increase salivary enzyme output by 22–41%
-  in geriatric trials.
+title: "Dry Mouth and Holiday Starches: A Digestion Fix for Seniors 65-84"
+slug: natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd
+description: Cinnamon gum 5 min before eating raises starch-digesting enzymes (salivary amylase) 22-41%. Lemon zest primes saliva without worsening acid reflux (GERD).
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: salivary amylase holiday starches seniors
+updated: '2026-03-26'
+primaryKeyword: dry mouth makes holiday starches harder to digest
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
-  - >-
-    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
-  - >-
-    quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
-  - >-
-    natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear
-  - >-
-    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
-  - >-
-    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
+- natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+- quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
+- natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear
+- natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
+- natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
 ---
 
 # Natural Ways to Support Salivary Amylase Before Holiday Starches—Especially for Seniors 65–84 with Dry Mouth and GERD  

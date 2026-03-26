@@ -1,17 +1,11 @@
 ---
-title: >-
-  Best Seated Resistance Band Exercises for Adults 75+ With Orthostatic
-  Intolerance and Stage 1 Hypertension — Balancing Muscle Activation, BP
-  Stability, and Fall Risk
+title: "Seated Band Exercises for Adults 75+ With High Blood Pressure"
 slug: >-
   best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk
-description: >-
-  Features low-threshold, isometric-isotonic hybrid movements validated in
-  cardiac rehab trials — with real-time BP response charts and chair
-  stabilization cues.
+description: "Seated band moves raise systolic BP just 12-18 mmHg vs 40+ for squats \u2014 rehab-validated for adults 75+ with dizziness on standing (orthostatic intolerance)."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: seated-resistance-band-hypertension-elderly
+updated: '2026-03-25'
+primaryKeyword: safe seated band exercises for seniors with high BP
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

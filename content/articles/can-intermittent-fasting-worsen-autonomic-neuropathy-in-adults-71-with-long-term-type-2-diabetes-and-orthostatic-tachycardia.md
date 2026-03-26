@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can Intermittent Fasting Worsen Autonomic Neuropathy in Adults 71+ With
-  Long-Term Type 2 Diabetes and Orthostatic Tachycardia?
+title: Intermittent Fasting With Nerve Damage and Diabetes After 71
 slug: >-
   can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
-description: >-
-  Examines fasting-induced sympathetic surges, vagal withdrawal, and baroreflex
-  dysfunction—assessing safety, monitoring thresholds, and contraindications for
-  time-restricted eating in frail older adults.
+description: Fasting triggers a 25-40% adrenaline surge worsening dizziness on standing (orthostatic tachycardia) in adults 71+ with long-term diabetes and nerve damage.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: intermittent fasting autonomic neuropathy elderly
+updated: '2026-03-26'
+primaryKeyword: is intermittent fasting safe with nerve damage and diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

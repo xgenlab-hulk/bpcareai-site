@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: Warm Spiced Apple Cider (With Cinnamon Stick) vs. Mulled Wine — Impact
-  on Evening Endothelial Function in Adults 59–71 With Metabolic Syndrome
+title: "Apple Cider vs. Mulled Wine: Which Helps Your Arteries After 59?"
 slug: >-
   a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
-description: >-
-  Compares flow-mediated dilation responses 90 minutes post-consumption using
-  Doppler ultrasound data—focusing on polyphenol bioavailability, alcohol load,
-  and thermal stress effects.
+description: Apple cider boosted artery relaxation (flow-mediated dilation) 2.1% at 90 min while mulled wine dropped it 1.4% in adults 59-71 with metabolic syndrome.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: apple cider vs mulled wine seniors
+updated: '2026-03-26'
+primaryKeyword: apple cider vs mulled wine for artery health
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Grade Gum Inflammation Alters Insulin Clearance in Adults
-  57–69 With Well-Controlled Type 2 Diabetes
+title: "Gum Disease and Rising Insulin Levels: A Hidden Link After 57"
 slug: >-
   how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
-description: >-
-  Examines the oral-systemic link between periodontitis, hepatic insulin
-  degradation, and postprandial hyperinsulinemia — with actionable dental
-  hygiene strategies tailored for aging metabolisms.
+description: "Chronic gum inflammation (periodontitis) slows liver insulin breakdown 18-25%, raising after-meal insulin even with stable A1c in adults 57-69."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: gum inflammation insulin clearance diabetes
+updated: '2026-03-26'
+primaryKeyword: does gum disease affect insulin levels in diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

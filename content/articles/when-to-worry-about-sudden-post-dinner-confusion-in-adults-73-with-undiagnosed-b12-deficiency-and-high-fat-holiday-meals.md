@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About Sudden Post-Dinner Confusion in Adults 73+ With
-  Undiagnosed B12 Deficiency and High-Fat Holiday Meals
+title: "Post-Dinner Confusion in Seniors: When Low B12 Is the Cause"
 slug: >-
   when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
-description: >-
-  Explores how fat-induced cholecystokinin release can transiently worsen
-  cerebral cobalamin delivery in aging brains—and what cognitive red flags
-  warrant urgent labs.
+description: High-fat meals divert blood flow from the brain, unmasking low vitamin B12 (cobalamin deficiency) as word-finding trouble. Levels below 300 pg/mL need labs.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: post-dinner confusion b12 deficiency seniors
+updated: '2026-03-26'
+primaryKeyword: sudden confusion after dinner in seniors with low B12
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

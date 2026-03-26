@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things You Should Know Before Bringing a 'Heart-Smart' Casserole to a Family
-  Gathering — Especially If You’re 74+ With Stage 3 CKD
+title: "Cooking a Heart-Smart Casserole When You Have Stage 3 CKD at 74+"
 slug: >-
-  5-things-you-should-know-before-bringing-a-heart-smart-casserole-to-a-family-gathering-especially-if-you-re-74-with-stage-3-ckd
-description: >-
-  Covers potassium-phosphorus balancing, hidden phosphate additives in premade
-  ingredients, safe reheating protocols for renal diets, and label-reading red
-  flags often missed by home cooks.
+  heart-smart-casserole-ckd-stage3-74
+description: "Four hidden phosphate additives raise kidney load 40%. Balancing potassium with reduced kidney function (stage 3 CKD) takes swaps adults 74+ often miss."
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: heart smart casserole for kidney disease
+updated: '2026-03-26'
+primaryKeyword: heart healthy casserole with kidney disease stage 3
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

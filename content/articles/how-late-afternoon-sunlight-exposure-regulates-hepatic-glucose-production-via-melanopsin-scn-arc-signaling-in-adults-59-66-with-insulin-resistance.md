@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Late-Afternoon Sunlight Exposure Regulates Hepatic Glucose Production via
-  Melanopsin-SCN-ARC Signaling in Adults 59–66 With Insulin Resistance
+title: "Afternoon Sunlight and Blood Sugar: A Surprising Link After 59"
 slug: >-
   how-late-afternoon-sunlight-exposure-regulates-hepatic-glucose-production-via-melanopsin-scn-arc-signaling-in-adults-59-66-with-insulin-resistance
-description: >-
-  Explains the non-visual photoreceptor pathway linking retinal light input to
-  hypothalamic control of gluconeogenic enzymes — with practical timing,
-  duration, and dosing guidance.
+description: Late-afternoon light triggers eye sensors (melanopsin) that slow liver sugar output (hepatic gluconeogenesis), cutting fasting glucose 8-12 mg/dL.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: sunlight exposure hepatic glucose production
+updated: '2026-03-26'
+primaryKeyword: does afternoon sunlight help lower blood sugar
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

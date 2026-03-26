@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Grade Inflammation Drives Beta-Cell Decline in Adults 52–64
-  With Long-Standing Prediabetes and Elevated hs-CRP
+title: Prediabetes for Years? How Silent Inflammation Erodes Your Pancreas
 slug: >-
   how-chronic-low-grade-inflammation-drives-beta-cell-decline-in-adults-52-64-with-long-standing-prediabetes-and-elevated-hs-crp
-description: >-
-  Explores the mechanistic link between systemic inflammation and progressive
-  insulin deficiency in midlife prediabetes, using longitudinal biomarker data
-  and pancreatic imaging correlates.
+description: When hs-CRP stays above 2.0 mg/L, insulin-making cells (beta cells) lose 3-5% function yearly. For adults 52-64, treating inflammation slows the slide.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: inflammation and beta-cell decline prediabetes
+updated: '2026-03-26'
+primaryKeyword: does inflammation make prediabetes worse over time
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

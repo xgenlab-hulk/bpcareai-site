@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About ‘Heart-Healthy’ Olive Oil Labels — Why Extra Virgin Isn’t
-  Enough for Adults 72+ With Advanced Carotid Plaque
+title: "Why ‘Extra Virgin’ Olive Oil Falls Short With Carotid Plaque After 72"
 slug: >-
   the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque
-description: >-
-  Breaks down polyphenol content thresholds (e.g., oleocanthal >500 ppm),
-  oxidation markers (peroxide value <12), and storage-driven degradation — plus
-  how to test freshness at home.
+description: "Only oils above 500ppm oleocanthal slow plaque in neck arteries (carotid stenosis). Most bottles test under 200ppm \u2014 a simple home test tells you which."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: olive oil heart health carotid plaque seniors
+updated: '2026-03-26'
+primaryKeyword: is olive oil actually good for clogged neck arteries
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

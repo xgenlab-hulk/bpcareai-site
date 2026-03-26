@@ -1,16 +1,10 @@
 ---
-title: >-
-  7 Hidden Blood Sugar Spikes You’re Unknowingly Causing at Thanksgiving Dinner
-  — And How to Prevent Them Without Skipping Pie
-slug: >-
-  7-hidden-blood-sugar-spikes-you-re-unknowingly-causing-at-thanksgiving-dinner-and-how-to-prevent-them-without-skipping-pie
-description: >-
-  Explores overlooked meal-combination triggers (like carb + fat + alcohol) that
-  cause delayed glucose surges in adults 55+ with prediabetes or early T2D, plus
-  real-time mitigation strategies using food sequencing and timing.
+title: 7 Hidden Blood Sugar Spikes at Thanksgiving — and How to Stop Them
+slug: thanksgiving-blood-sugar-triggers-55
+description: Certain food combos spike glucose 180+ mg/dL 3 hours after eating (postprandial surge) — even sweet potatoes. Sequencing carbs after protein cuts peaks ~35%.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: thanksgiving blood sugar spikes prevention
+updated: '2026-03-26'
+primaryKeyword: hidden blood sugar spikes at Thanksgiving dinner
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

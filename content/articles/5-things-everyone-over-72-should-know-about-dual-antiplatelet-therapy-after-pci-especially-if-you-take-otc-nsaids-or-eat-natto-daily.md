@@ -1,16 +1,10 @@
 ---
-title: >-
-  5 Things Everyone Over 72 Should Know About Dual Antiplatelet Therapy After
-  PCI — Especially If You Take OTC NSAIDs or Eat Natto Daily
-slug: >-
-  5-things-everyone-over-72-should-know-about-dual-antiplatelet-therapy-after-pci-especially-if-you-take-otc-nsaids-or-eat-natto-daily
-description: >-
-  Covers bleeding risk modifiers, food-drug interactions (vitamin K2 in natto),
-  and platelet function testing alternatives for frail seniors on aspirin +
-  ticagrelor.
+title: NSAIDs and Natto on Blood Thinners After a Stent — Risks Over 72
+slug: dual-antiplatelet-therapy-stent-nsaid-72
+description: "Ibuprofen raises GI bleeding risk 2-4x on stent medications (dual antiplatelet therapy), and natto's vitamin K2 disrupts platelet function. Safer swaps for 72+."
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: dual antiplatelet therapy over 72
+updated: '2026-03-26'
+primaryKeyword: can NSAIDs or natto cause bleeding after a stent
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

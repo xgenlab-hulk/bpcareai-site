@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Chronic Exposure to LED Nightlights in Hallways Disrupts Retinal
-  Melanopsin Signaling — And Elevates Nocturnal Glucose in Adults 70+ With
-  Nocturia and Poor Sleep Efficiency
+title: "LED Nightlights and Overnight Blood Sugar Spikes in Adults Over 70"
 slug: >-
   how-chronic-exposure-to-led-nightlights-in-hallways-disrupts-retinal-melanopsin-signaling-and-elevates-nocturnal-glucose-in-adults-70-with-nocturia-and-poor-sleep-efficiency
-description: >-
-  Examines melanopsin-driven suppression of nocturnal melatonin, subsequent loss
-  of insulin pulsatility, and real-world light-spectrum mitigation strategies
-  for bedroom-adjacent spaces.
+description: "Blue-spectrum hallway LEDs suppress your sleep hormone (melatonin) up to 50%, raising glucose 15-25 mg/dL. Amber bulbs under 5 lux restore normal dipping."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: led nightlights nocturnal glucose seniors
+updated: '2026-03-25'
+primaryKeyword: do LED nightlights raise blood sugar at night
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

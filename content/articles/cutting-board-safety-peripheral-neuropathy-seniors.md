@@ -1,17 +1,11 @@
 ---
-title: >-
-  Can You Safely Use a Shared Cutting Board for Holiday Meats and Raw Veggie
-  Platters If You Have Peripheral Neuropathy? — A Safety-First Guide for Adults
-  72+ With Reduced Tactile Sensitivity
+title: "Seniors 72+: Cutting Board Safety When Neuropathy Dulls Your Hands"
 slug: >-
   can-you-safely-use-a-shared-cutting-board-for-holiday-meats-and-raw-veggie-platters-if-you-have-peripheral-neuropathy-a-safety-first-guide-for-adults-72-with-reduced-tactile-sensitivity
-description: >-
-  Evaluates cross-contamination risks when neuropathy impairs cut detection,
-  recommends color-coded board protocols, and lists neuropathy-safe
-  antimicrobial cleaning methods.
+description: Nerve damage (peripheral neuropathy) cuts tactile feedback ~60%, raising knife-slip and cross-contamination risk. Color-coded boards and grip mats help.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: cutting board safety peripheral neuropathy seniors
+updated: '2026-03-26'
+primaryKeyword: cutting board safety with numb hands from neuropathy
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

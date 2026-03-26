@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'Gluten-Free' Holiday Stuffing for Adults 66+ With Celiac
-  Disease and Latent Autoimmune Thyroiditis
+title: Gluten-Free Stuffing Myths That Fool Celiac Seniors Over 66
 slug: >-
   myths-vs-facts-gluten-free-holiday-stuffing-for-adults-66-with-celiac-disease-and-latent-autoimmune-thyroiditis
-description: >-
-  Debunks five common assumptions—including cross-contamination thresholds,
-  starch source immune reactivity, and TSH-fluctuation risks—backed by
-  biopsy-confirmed outcomes data.
+description: Many gluten-free stuffings still trigger immune flares in celiac adults 66+ — cross-contamination above 20 ppm and corn starch raise thyroid antibodies (TPO).
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: gluten-free stuffing celiac seniors
+updated: '2026-03-26'
+primaryKeyword: is gluten-free stuffing safe with celiac and thyroid disease
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

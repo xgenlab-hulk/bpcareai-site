@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Ways to Buffer the Glycemic Impact of Holiday Pie Crust in
-  Adults 64+ With Prediabetes and High Fasting Insulin
+title: Love Holiday Pie? 12 Ways to Blunt the Sugar Spike After 64
 slug: >-
-  12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin
-description: >-
-  From pre-meal vinegar gel caps to strategic crust-to-filling ratio
-  adjustments—each method validated by continuous glucose monitoring studies in
-  adults 60–75.
+  holiday-pie-blood-sugar-prediabetes-64
+description: One pie slice spikes glucose 40-60 mg/dL with prediabetes. Vinegar before eating and almond-flour swaps cut that spike ~35%, per continuous monitor (CGM) data.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: buffer pie crust glycemic impact seniors
+updated: '2026-03-26'
+primaryKeyword: how to eat pie without spiking blood sugar
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

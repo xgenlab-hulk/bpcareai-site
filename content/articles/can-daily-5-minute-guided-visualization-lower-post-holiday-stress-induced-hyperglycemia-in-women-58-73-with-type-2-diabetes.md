@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can Daily 5-Minute Guided Visualization Lower Post-Holiday Stress-Induced
-  Hyperglycemia in Women 58–73 With Type 2 Diabetes?
+title: 5-Minute Visualization to Lower Holiday Blood Sugar in Women 58+
 slug: >-
   can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes
-description: >-
-  Reviews RCT data on mindfulness-based glucose modulation, salivary cortisol
-  reductions, and vagally mediated insulin sensitivity improvements — with
-  session scripts and fidelity metrics.
+description: A 5-min guided imagery cuts stress hormones (salivary cortisol) 18%, lowering post-meal glucose 12-20 mg/dL in women 58-73 with diabetes.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: guided visualization holiday hyperglycemia
+updated: '2026-03-26'
+primaryKeyword: can visualization lower blood sugar after holiday stress
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

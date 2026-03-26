@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: 5-Minute Morning Sunlight Exposure vs. 10-Minute Evening Red Light
-  Therapy for Modulating Circadian BP Variability in Women 60–74
+title: "Morning Sun vs. Evening Red Light: Which Lowers BP for Women 60+?"
 slug: >-
   a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74
-description: >-
-  Compares photobiomodulation timing strategies for improving autonomic balance
-  and reducing morning SBP surge — grounded in melanopsin receptor kinetics and
-  cortisol rhythm data.
+description: Morning sunlight resets eye receptors (melanopsin), cutting BP surge 8 mmHg. Evening red light drops nighttime readings 5 mmHg in women 60-74.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: sunlight vs red light for blood pressure
+updated: '2026-03-26'
+primaryKeyword: morning sunlight vs red light therapy for blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

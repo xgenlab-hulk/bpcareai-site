@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Long-Term Exposure to Indoor Air Pollution (e.g., Cooking Fumes, Candle
-  Smoke) Elevates Coronary Artery Calcification in Adults 62+ With No Known CVD
+title: Can Cooking Fumes and Candle Smoke Calcify Your Heart Arteries?
 slug: >-
   how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd
-description: >-
-  Examines emerging evidence linking everyday household air toxins to
-  subclinical atherosclerosis progression — with actionable mitigation steps for
-  older adults living in urban apartments or homes with poor ventilation.
+description: Adults 62+ near gas stoves 10+ years show 15-22% higher artery calcium scores (CAC) with no known heart disease. HEPA filters cut indoor particles 40-60%.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: indoor air pollution coronary artery calcification
+updated: '2026-03-26'
+primaryKeyword: can cooking fumes cause heart artery calcification
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

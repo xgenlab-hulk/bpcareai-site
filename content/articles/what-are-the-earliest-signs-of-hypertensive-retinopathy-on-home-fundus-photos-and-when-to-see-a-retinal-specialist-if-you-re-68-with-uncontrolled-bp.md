@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Are the Earliest Signs of Hypertensive Retinopathy on Home Fundus Photos
-  — And When to See a Retinal Specialist If You’re 68+ With Uncontrolled BP
+title: Spotting Early Eye Damage From High BP on Your Phone Camera
 slug: >-
   what-are-the-earliest-signs-of-hypertensive-retinopathy-on-home-fundus-photos-and-when-to-see-a-retinal-specialist-if-you-re-68-with-uncontrolled-bp
-description: >-
-  Guides users on interpreting smartphone-captured retinal images for arteriolar
-  narrowing, AV nicking, and microhemorrhages — with red-flag thresholds and
-  tele-ophthalmology triage pathways.
+description: Narrowed arterioles (grade 1 retinopathy) show on smartphone fundus photos before vision changes. Adults 68+ with uncontrolled BP should look for AV nicking.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: hypertensive retinopathy home detection
+updated: 2026-03-26
+primaryKeyword: early signs of high blood pressure eye damage at home
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

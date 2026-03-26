@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Everyone Over 75 Should Know Before Starting a Beta-Blocker —
-  Especially With COPD, Bradycardia, or Orthostatic Hypotension
-slug: >-
-  5-things-everyone-over-75-should-know-before-starting-a-beta-blocker-especially-with-copd-bradycardia-or-orthostatic-hypotension
+title: Starting Beta-Blockers After 75? (COPD Safety Essentials)
+slug: beta-blocker-safety-75-copd-bradycardia
 description: >-
-  Covers contraindications, dosing caveats, fall-risk mitigation, and
-  alternative monitoring strategies when initiating beta-blockers in very
-  elderly patients with comorbidities.
+  Starting beta-blockers after 75 with COPD or slow heart rate? Get 4 critical dosing rules, fall prevention tactics, and exact pulse thresholds to stop medication—avoid ER visits.
 date: '2026-02-24'
 updated: '2026-02-24'
-primaryKeyword: beta-blocker initiation over 75 with comorbidities
+primaryKeyword: beta-blocker safety 75 copd bradycardia
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

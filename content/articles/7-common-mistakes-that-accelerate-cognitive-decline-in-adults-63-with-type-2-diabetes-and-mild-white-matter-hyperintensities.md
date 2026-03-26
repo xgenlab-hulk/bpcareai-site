@@ -1,16 +1,10 @@
 ---
-title: >-
-  7 Common Mistakes That Accelerate Cognitive Decline in Adults 63+ With Type 2
-  Diabetes and Mild White Matter Hyperintensities
-slug: >-
-  7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities
-description: >-
-  Highlights modifiable errors — like over-treating nocturnal hypoglycemia with
-  high-GI carbs, mis-timing antihypertensives, and ignoring sleep-disordered
-  breathing — with neuroimaging correlates.
+title: Your Memory Slipping? 7 Mistakes Speeding Decline (Diabetes 63+)
+slug: memory-decline-mistakes-diabetes-63
+description: Treating lows with juice triggers glucose rebound. 7 fixable errors — skipping BP meds, ignoring apnea — speed brain vessel damage (white matter lesions).
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: mistakes cognitive decline diabetes elderly
+updated: '2026-03-26'
+primaryKeyword: cognitive decline mistakes diabetes seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

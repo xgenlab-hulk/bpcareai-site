@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Warm Spiced Apple Cider (Unsweetened, Stovetop Simmered) vs.
-  Store-Bought ‘Diet’ Eggnog (Low-Fat, Sucralose-Sweetened) — Impact on
-  Postprandial Endothelial Function in Adults 66–80 With Early Atherosclerosis
+title: "Apple Cider vs. Diet Eggnog: Which Helps Your Arteries After 66?"
 slug: >-
   a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
-description: >-
-  Compares acute vascular reactivity responses (measured via fingertip pulse
-  amplitude tonometry) after each beverage, highlighting polyphenol
-  bioavailability vs. artificial sweetener–induced nitric oxide suppression.
+description: Warm apple cider boosts artery-lining function (endothelial reactivity) 12-18% in 90 min. Diet eggnog's sucralose blunts nitric oxide — tested in adults 66-80.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: apple cider vs eggnog endothelial function seniors
+updated: '2026-03-26'
+primaryKeyword: is apple cider or eggnog better for your arteries
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

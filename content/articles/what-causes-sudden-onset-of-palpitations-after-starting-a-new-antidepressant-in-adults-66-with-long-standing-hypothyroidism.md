@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Onset of Palpitations After Starting a New Antidepressant
-  in Adults 66+ With Long-Standing Hypothyroidism?
+title: "New Antidepressant Causing Heart Palpitations? Thyroid Guide for 66+"
 slug: >-
   what-causes-sudden-onset-of-palpitations-after-starting-a-new-antidepressant-in-adults-66-with-long-standing-hypothyroidism
-description: >-
-  Analyzes serotonin transporter inhibition, thyroid hormone conversion
-  interference, and QT prolongation synergy — plus safer pharmacologic
-  alternatives with cardiac safety data.
+description: "SSRIs can extend the heart's electrical reset time (QTc) by 10-20ms \u2014 and low thyroid magnifies it. Safer options exist for adults 66+ on levothyroxine."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: antidepressant palpitations hypothyroidism seniors 66+
+updated: '2026-03-26'
+primaryKeyword: palpitations after starting antidepressant with low thyroid
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

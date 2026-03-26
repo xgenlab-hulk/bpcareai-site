@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Dry Mouth During Holiday Dessert Consumption in Adults 75+
-  With Sjögren’s Syndrome and Xerostomia-Related Dysphagia?
+title: "Why Holiday Desserts Cause Severe Dry Mouth With Sjogren's (75+)"
 slug: >-
   what-causes-sudden-dry-mouth-during-holiday-dessert-consumption-in-adults-75-with-sj-gren-s-syndrome-and-xerostomia-related-dysphagia
-description: >-
-  Analyzes sugar-alcohol interactions with salivary gland autoimmunity, role of
-  alcohol-based extracts (vanilla, rum), and practical saliva-preserving
-  substitutions for safe holiday eating.
+description: "Sugar and vanilla extract cut saliva 40-60% with Sjogren's, raising choking risk from swallowing trouble (dysphagia). Moisture-trapping swaps help."
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: dry mouth holiday dessert sjogrens syndrome
+updated: 2026-03-26
+primaryKeyword: "dry mouth eating holiday desserts with Sjogren's"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

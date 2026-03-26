@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Everyone Over 75 Should Know About Using Continuous Glucose Monitors
-  With Pacemakers or ICDs
-slug: >-
-  5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
+title: CGM With Pacemaker After 75? (Your Complete Safety Guide)
+slug: cgm-pacemaker-safety-75-plus
 description: >-
-  Addresses electromagnetic interference risks, sensor placement limitations
-  near chest devices, Bluetooth pairing pitfalls, and FDA-cleared CGM models
-  with verified cardiac device compatibility reports.
+  Using CGM with pacemaker after 75? Discover 3 critical sensor placement zones, FDA-cleared models with zero interference reports, and exact distance rules—prevent device conflicts today.
 date: '2026-01-10'
 updated: '2026-01-10'
-primaryKeyword: cgm pacemaker safety over 75
+primaryKeyword: cgm pacemaker safety seniors 75 plus
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

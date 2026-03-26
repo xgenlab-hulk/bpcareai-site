@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Do Adults 72+ With Atrial Fibrillation Often Develop Orthostatic
-  Hypotension — And What That Reveals About Autonomic Cardiac Reserve
+title: Why AFib Causes Dizziness When Standing — What It Means After 72
 slug: >-
   why-do-adults-72-with-atrial-fibrillation-often-develop-orthostatic-hypotension-and-what-that-reveals-about-autonomic-cardiac-reserve
-description: >-
-  Explores the underrecognized link between AFib and orthostatic BP drops in
-  older adults, explaining how autonomic dysfunction drives both—and what
-  tilt-table testing reveals about long-term heart failure risk.
+description: Irregular heartbeat (atrial fibrillation) slows BP recovery 25-35% on standing after 72. Tilt-table testing shows autonomic decline tied to heart failure risk.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: atrial fibrillation orthostatic hypotension older adults
+updated: '2026-03-26'
+primaryKeyword: why does afib cause dizziness when standing up
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

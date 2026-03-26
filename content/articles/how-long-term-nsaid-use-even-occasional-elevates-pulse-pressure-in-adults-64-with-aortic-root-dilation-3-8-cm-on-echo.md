@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Long-Term NSAID Use (Even Occasional) Elevates Pulse Pressure in Adults
-  64+ With Aortic Root Dilation >3.8 cm on Echo
+title: Why Even Occasional Ibuprofen Widens Pulse Pressure After 64
 slug: >-
   how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo
-description: >-
-  Links COX-2 inhibition to impaired elastin repair, MMP-9 upregulation, and
-  reduced aortic compliance—highlighting pulse pressure >65 mmHg as an early
-  marker of aortopathy progression.
+description: NSAIDs block artery repair, pushing the gap between top and bottom numbers (pulse pressure) past 65 mmHg — especially if your aortic root exceeds 3.8 cm.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: nsaid use pulse pressure aortic root dilation
+updated: '2026-03-26'
+primaryKeyword: do NSAIDs raise pulse pressure with enlarged aorta
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

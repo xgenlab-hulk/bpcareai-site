@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs That Your Continuous Glucose Monitor Is Detecting Early Diabetic
-  Cardiomyopathy — Not Just Glycemic Variability
+title: What Your Glucose Monitor May Reveal About Early Heart Damage
 slug: >-
   warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability
-description: >-
-  Teaches interpretation of CGM-derived metrics (e.g., overnight glucose
-  volatility, dawn phenomenon amplitude, postprandial recovery slope) as proxies
-  for subclinical left ventricular diastolic impairment.
+description: Overnight glucose swings >40 mg/dL on CGM can flag early heart muscle weakening (diabetic cardiomyopathy) — even with normal A1c. Strain echo confirms 68%.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: CGM signs diabetic cardiomyopathy
+updated: '2026-03-26'
+primaryKeyword: can my glucose monitor detect heart problems early
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

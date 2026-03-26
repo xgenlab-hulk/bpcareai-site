@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting Your Cardiac CT Calcium Score If You’re 60+
-  and Have No Symptoms — But a Family History of Early Heart Attacks
+title: What Your Calcium Score Really Means After 60 — With Family History
 slug: >-
   the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
-description: >-
-  Walks through nuanced calcium scoring interpretation: density thresholds,
-  lesion distribution, age-adjusted percentiles, and when 'zero' truly means low
-  risk — especially with genetic risk scores.
+description: A score of 0 at 60 still carries risk if relatives had early heart attacks. Plaque density (Agatston score) matters more than the raw number.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: cardiac ct calcium score guide
+updated: '2026-03-26'
+primaryKeyword: what does my calcium score mean at 60 with family history
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

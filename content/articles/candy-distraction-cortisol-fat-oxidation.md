@@ -1,30 +1,18 @@
 ---
-title: >-
-  How Grandchildren’s Candy-Driven Mealtime Distraction Elevates Evening
-  Cortisol and Impairs Overnight Fat Oxidation in Adults 66+ With Abdominal
-  Obesity
-slug: >-
-  how-grandchildren-s-candy-driven-mealtime-distraction-elevates-evening-cortisol-and-impairs-overnight-fat-oxidation-in-adults-66-with-abdominal-obesity
-description: >-
-  Connects environmental stressors (e.g., sugar-fueled chaos, disrupted eating
-  pace) to salivary cortisol AUC and nocturnal RER shifts measured in ambulatory
-  metabolic studies.
+title: When Grandkids' Candy Chaos Spikes Your Cortisol After 66
+slug: how-grandchildren-s-candy-driven-mealtime-distraction-elevates-evening-cortisol-and-impairs-overnight-fat-oxidation-in-adults-66-with-abdominal-obesity
+description: Mealtime chaos raises evening stress hormones (salivary cortisol) 30-40%, cutting overnight fat burning. Three calm-eating strategies help adults 66+.
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: "diet management adults 66+"
+updated: '2026-03-26'
+primaryKeyword: does mealtime chaos raise cortisol and stop fat burning
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
-  - >-
-    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
-  - >-
-    how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
-  - >-
-    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
-  - >-
-    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
+- how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
+- how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+- how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
+- 5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
+- what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
 ---
 
 # How Candy Distraction, Cortisol Spikes, and Fat Oxidation Interfere With Healthy Eating During Family Gatherings

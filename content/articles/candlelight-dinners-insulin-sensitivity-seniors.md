@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Holiday Candlelight Dinners Alter Circadian-Driven Insulin Sensitivity in
-  Adults 66+ With Mild Insulin Resistance — And What to Serve Instead of Rolls
+title: Why Candlelight Dinners Spike Blood Sugar in Adults Over 65
 slug: >-
   how-holiday-candlelight-dinners-alter-circadian-driven-insulin-sensitivity-in-adults-66-with-mild-insulin-resistance-and-what-to-serve-instead-of-rolls
-description: >-
-  Links dim-light evening meals to delayed melatonin onset, reduced skeletal
-  muscle GLUT4 translocation, and increased post-carb glucose AUC — with
-  texture-modified carb alternatives.
+description: Dim evening light delays melatonin 30-45 min, cutting muscle glucose uptake (GLUT4 translocation) and raising post-carb sugar 18-25 mg/dL in adults 66+.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: candlelight dinners insulin sensitivity seniors
+updated: '2026-03-26'
+primaryKeyword: do candlelight dinners affect blood sugar after 65
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

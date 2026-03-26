@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Everyone Over 76 Should Know About Holiday Leftovers — Including Safe
-  Reheating Temperatures for Frail Immune Systems
-slug: >-
-  5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
+title: Holiday Leftovers Safe After 76? (3-Day Rule Explained)
+slug: holiday-leftovers-safety-seniors-76
 description: >-
-  Details food safety thresholds, storage timelines, and reheating protocols
-  tailored to immunosenescence, focusing on high-risk items like stuffing,
-  gravy, and dairy-based pies.
+  Holiday leftovers safe after 76? Learn the 90-minute refrigeration rule, 3 high-risk foods to discard faster, and exact 165°F reheating temps—stop foodborne illness today.
 date: '2026-01-11'
 updated: '2026-01-11'
-primaryKeyword: holiday leftovers food safety seniors
+primaryKeyword: holiday leftovers safety seniors 76 plus
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

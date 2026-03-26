@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Nighttime BP Dipping Disappears After Age 67 — And What It Reveals About
-  Autonomic Neuropathy and LVH
+title: Why Your Blood Pressure Stops Dropping at Night After 67
 slug: >-
   why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
-description: >-
-  Explains the physiological shift in circadian BP regulation with aging, links
-  non-dipping to subclinical left ventricular hypertrophy and early autonomic
-  damage, and outlines 24-hour ABPM interpretation for primary care.
+description: Losing the normal 10-15% nighttime dip (non-dipping) signals early nerve damage (autonomic neuropathy) and heart thickening (LVH). 24-hour monitoring confirms.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: non-dipping blood pressure aging
+updated: 2026-03-26
+primaryKeyword: "blood pressure doesn't drop at night after 67"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

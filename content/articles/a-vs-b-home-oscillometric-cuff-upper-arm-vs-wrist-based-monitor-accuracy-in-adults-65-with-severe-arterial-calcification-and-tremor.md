@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: Home Oscillometric Cuff (Upper Arm) vs. Wrist-Based Monitor — Accuracy
-  in Adults 65+ With Severe Arterial Calcification and Tremor
+title: "Upper Arm vs. Wrist BP Monitor: Which Is Accurate After 65?"
 slug: >-
   a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
-description: >-
-  Compares clinical validation data, error margins during diastolic decay, and
-  real-world usability for hypertensive seniors with medial arterial
-  calcification and essential tremor.
+description: Hard arteries (arterial calcification) inflate wrist readings 12-18 mmHg vs. upper arm cuffs. Tremor adds 8-15 mmHg error — upper arm wins for seniors 65+.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: blood pressure cuff accuracy arterial calcification
+updated: '2026-03-26'
+primaryKeyword: upper arm vs wrist blood pressure monitor accuracy
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

@@ -1,15 +1,11 @@
 ---
-title: >-
-  Best Breathing Patterns for Lowering Diastolic BP in Adults 53–65 With Early
-  LV Diastolic Stiffness and Elevated E/e’ Ratio
+title: Breathing Exercises That Lower Diastolic BP With Early Heart Stiffness
 slug: >-
   best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio
-description: >-
-  Compares resonance frequency, paced expiration, and inspiratory hold durations
-  — with echocardiographic outcome data and wearable-guided training protocols.
+description: "Slow exhale at 6 breaths/min lowers diastolic BP 5-8 mmHg by improving heart relaxation (LV diastolic filling). Best for adults 53-65 with elevated E/e' ratio."
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: breathing patterns for diastolic blood pressure
+updated: '2026-03-26'
+primaryKeyword: breathing exercises to lower diastolic blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

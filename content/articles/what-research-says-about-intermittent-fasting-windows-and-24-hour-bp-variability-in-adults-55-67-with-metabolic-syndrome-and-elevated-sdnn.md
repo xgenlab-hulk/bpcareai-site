@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Research Says About Intermittent Fasting Windows and 24-Hour BP
-  Variability in Adults 55–67 With Metabolic Syndrome and Elevated SDNN
+title: Intermittent Fasting and Blood Pressure Swings in Adults 55-67
 slug: >-
   what-research-says-about-intermittent-fasting-windows-and-24-hour-bp-variability-in-adults-55-67-with-metabolic-syndrome-and-elevated-sdnn
-description: >-
-  Synthesizes findings from the INTERMITTENT-BP and FAST-HYPER trials on how
-  14:10 vs. 16:8 windows affect vagal tone, aldosterone rhythm, and morning
-  surge magnitude.
+description: "A 16:8 eating window can raise morning BP surge 8-12 mmHg via aldosterone rhythm shifts (RAAS activation). A 14:10 window shows better 24-hour BP stability."
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: intermittent fasting blood pressure variability adults 55-67
+updated: '2026-03-26'
+primaryKeyword: does intermittent fasting affect blood pressure variability
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

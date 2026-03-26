@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Salivary Amylase Activity During Holiday Meals — For
-  Adults 75+ With Sjögren’s-Like Xerostomia and Denture Wear
+title: Dry Mouth Making Holiday Meals Difficult? Help for Seniors 75+
 slug: >-
   natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear
-description: >-
-  Offers evidence-informed, non-pharmacologic tactics—chewable acid stimulants,
-  temperature-modulated foods, and enzyme-supportive spices—to improve
-  carbohydrate digestion and reduce oral discomfort without increasing
-  aspiration risk.
+description: Severe dry mouth (xerostomia) cuts your starch enzyme (salivary amylase) by 40-60%. Acid drops and temperature-varied foods boost saliva safely.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: support salivary amylase in dry mouth seniors
+updated: '2026-03-26'
+primaryKeyword: dry mouth making it hard to eat holiday meals over 75
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

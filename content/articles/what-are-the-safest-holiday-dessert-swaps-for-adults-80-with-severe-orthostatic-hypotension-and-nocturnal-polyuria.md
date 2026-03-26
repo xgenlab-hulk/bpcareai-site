@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Are the Safest Holiday Dessert Swaps for Adults 80+ With Severe
-  Orthostatic Hypotension and Nocturnal Polyuria?
+title: "Holiday Desserts That Won't Drop Your Blood Pressure After 80"
 slug: >-
   what-are-the-safest-holiday-dessert-swaps-for-adults-80-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
-description: >-
-  Compares glycemic load, fluid retention potential, and vasodilatory risk of 8
-  common desserts—prioritizing options that avoid nocturia triggers and upright
-  BP crashes.
+description: "High-sugar desserts trigger a 15-25 mmHg standing drop (orthostatic hypotension) in adults 80+. Here are 8 swaps that skip nighttime bathroom triggers too."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: holiday dessert swaps orthostatic hypotension
+updated: '2026-03-26'
+primaryKeyword: safe holiday desserts for seniors who get dizzy standing up
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

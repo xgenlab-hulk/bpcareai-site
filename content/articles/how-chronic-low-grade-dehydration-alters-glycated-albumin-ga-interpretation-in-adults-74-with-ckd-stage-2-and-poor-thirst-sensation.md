@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Grade Dehydration Alters Glycated Albumin (GA) Interpretation
-  in Adults 74+ With CKD Stage 2 and Poor Thirst Sensation
+title: Why Glycated Albumin Misleads After 74 With Kidney Issues
 slug: >-
   how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
-description: >-
-  Explains why GA overestimates long-term glycemia in dehydrated older adults,
-  how serum albumin turnover slows with age and renal impairment, and when to
-  pair GA with fructosamine or continuous glucose metrics.
+description: Mild dehydration inflates your sugar-tracking lab (glycated albumin) by 15-20%. Pair with fructosamine when kidney function (eGFR) drops below 60.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: glycated albumin dehydration CKD elderly
+updated: '2026-03-26'
+primaryKeyword: why is my glycated albumin high if blood sugar is okay
 topicCluster: renal-health
 image: ''
 relatedSlugs:

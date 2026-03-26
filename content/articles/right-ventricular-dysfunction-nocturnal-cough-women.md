@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs of Subclinical Right Ventricular Dysfunction in Women 58–67 With
-  Obesity, GERD, and Nocturnal Cough — That Mimic Asthma or Chronic Bronchitis
+title: "When Night Cough Signals a Heart Problem, Not Asthma \u2014 Women 58-67"
 slug: >-
   warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis
-description: >-
-  Details how elevated right-sided pressures manifest as airway irritation,
-  identifies subtle echo Doppler clues (TAPSE <16 mm, S' <10 cm/s), and explains
-  why PFTs normalize post-diuretic challenge.
+description: "A weak right heart chamber (right ventricular dysfunction) pushes pressure into lungs, triggering cough that mimics asthma. Echo clue: TAPSE below 16mm."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: right ventricular dysfunction nocturnal cough women
+updated: '2026-03-26'
+primaryKeyword: nighttime cough that could be a heart problem
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

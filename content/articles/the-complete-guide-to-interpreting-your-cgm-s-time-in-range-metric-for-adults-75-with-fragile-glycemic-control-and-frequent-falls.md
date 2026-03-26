@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Interpreting Your CGM’s 'Time in Range' Metric for
-  Adults 75+ With Fragile Glycemic Control and Frequent Falls
+title: "CGM Time in Range for Frail Adults 75+: Safer Targets"
 slug: >-
   the-complete-guide-to-interpreting-your-cgm-s-time-in-range-metric-for-adults-75-with-fragile-glycemic-control-and-frequent-falls
-description: >-
-  Breaks down why standard TIR targets (70–180 mg/dL) can be dangerous for frail
-  elders — and introduces personalized, fall-risk-informed ranges with clinical
-  decision thresholds.
+description: The standard 70-180 mg/dL target misses dangerous lows in frail seniors. A wider 100-250 mg/dL range cuts severe low blood sugar (hypoglycemia) episodes by 60%.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: CGM time in range frail elderly diabetes
+updated: 2026-03-26
+primaryKeyword: what should CGM time in range be for frail seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

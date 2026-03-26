@@ -1,17 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Holiday Plate Is Hiding Excess Sodium — Even If You Skipped
-  the Gravy
+title: 7 Holiday Foods Hiding Sodium Even Without the Gravy
 slug: >-
   warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
-description: >-
-  Identifies subtle, high-sodium culprits in seemingly 'clean' holiday foods
-  (e.g., herb-seasoned stuffing, roasted nuts, low-fat dairy desserts) and
-  explains how sodium load triggers nocturnal BP elevation and edema in adults
-  65+ with preserved renal reserve.
+description: Herb stuffing packs 800-1100 mg sodium per cup — half your daily limit with high blood pressure (hypertension). Roasted nuts add 400-600 mg you may not notice.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: hidden sodium holiday foods warning signs
+updated: 2026-03-26
+primaryKeyword: hidden sodium in holiday foods even without gravy
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Times to Check Your Resting Heart Rate — Not Just During
-  Clinic Visits — in Adults 58+ With Anxiety-Related Palpitations
+title: 12 Best Times to Check Your Heart Rate — Beyond the Clinic
 slug: >-
-  12-science-backed-times-to-check-your-resting-heart-rate-not-just-during-clinic-visits-in-adults-58-with-anxiety-related-palpitations
-description: >-
-  Identifies circadian, postprandial, post-activity, and medication-timing
-  windows where RHR deviations most reliably predict subclinical atrial
-  remodeling or vagal withdrawal.
+  heart-rate-check-anxiety-palpitations
+description: A 7 a.m. pulse can differ 12-18 bpm from one post-lunch. For adults 58+ with anxiety-linked racing (palpitations), 12 timing windows catch hidden shifts.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: when to check resting heart rate seniors
+updated: '2026-03-26'
+primaryKeyword: best times to check resting heart rate with anxiety
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

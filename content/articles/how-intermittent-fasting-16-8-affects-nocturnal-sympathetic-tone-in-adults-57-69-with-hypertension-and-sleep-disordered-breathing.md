@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Intermittent Fasting (16:8) Affects Nocturnal Sympathetic Tone in Adults
-  57–69 With Hypertension and Sleep-Disordered Breathing
+title: "Does 16:8 Fasting Help or Hurt Nighttime BP With Sleep Apnea?"
 slug: >-
   how-intermittent-fasting-16-8-affects-nocturnal-sympathetic-tone-in-adults-57-69-with-hypertension-and-sleep-disordered-breathing
-description: >-
-  Reviews fasting’s impact on catecholamine surges, vagal rebound timing, and
-  respiratory arousal thresholds — with personalized timing recommendations
-  based on respiratory event patterns.
+description: Late eating windows push stress hormones (catecholamines) into sleep, raising nocturnal systolic BP 5-12 mmHg. Ending meals by 6 PM restores the vagal dip.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: intermittent fasting and nocturnal sympathetic tone
+updated: 2026-03-26
+primaryKeyword: intermittent fasting and nighttime blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

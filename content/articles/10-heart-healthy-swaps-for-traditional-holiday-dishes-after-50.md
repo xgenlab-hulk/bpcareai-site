@@ -1,12 +1,12 @@
 ---
-title: 10 Heart-Healthy Swaps for Traditional Holiday Dishes After 50
-slug: 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
+title: 'Heart-Healthy Holiday Swaps: 10 Easy Ideas for Seniors 50+'
+slug: heart-healthy-holiday-swaps-seniors-50
 description: >-
-  Provides practical, flavorful ingredient substitutions to reduce sodium, fat,
-  and sugar in classic holiday recipes for better heart outcomes.
+  Discover 10 heart-healthy holiday swaps for seniors 50+—swap heavy cream for
+  Greek yogurt, cut sodium by 300mg. Delicious recipes for better BP.
 date: '2025-12-11'
 updated: '2025-12-11'
-primaryKeyword: heart-healthy holiday recipe swaps
+primaryKeyword: heart-healthy holiday swaps for seniors over 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

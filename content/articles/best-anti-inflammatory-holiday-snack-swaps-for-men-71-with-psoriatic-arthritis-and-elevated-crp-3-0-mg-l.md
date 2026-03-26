@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Anti-Inflammatory Holiday Snack Swaps for Men 71+ With Psoriatic
-  Arthritis and Elevated CRP >3.0 mg/L
+title: Holiday Snack Swaps That Calm Inflammation for Men 71+ With PsA
 slug: >-
   best-anti-inflammatory-holiday-snack-swaps-for-men-71-with-psoriatic-arthritis-and-elevated-crp-3-0-mg-l
-description: >-
-  Replaces common pro-inflammatory holiday snacks with low-glycemic,
-  omega-3–rich, polyphenol-dense alternatives proven to reduce IL-17 and TNF-α
-  spikes—without requiring cooking skill or supplement use.
+description: Holiday crackers spike the inflammation marker (CRP) past 3.0 mg/L. Walnuts and tart cherries cut joint-attack signals IL-17 and TNF-alpha within 48 hours.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: anti inflammatory holiday snacks psoriatic arthritis
+updated: '2026-03-26'
+primaryKeyword: anti-inflammatory holiday snacks for psoriatic arthritis
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

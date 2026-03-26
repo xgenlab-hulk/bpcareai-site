@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Truth About 'Sugar-Free' Kombucha Labeled for Seniors — Why 82% Contain
-  Unlabeled Gluconic Acid That Mimics Glucose on CGM Sensors in Adults 66+ Using
-  Real-Time Monitoring
+title: "Why Sugar-Free Kombucha Fools Your CGM Sensor After 66"
 slug: >-
   the-truth-about-sugar-free-kombucha-labeled-for-seniors-why-82-contain-unlabeled-gluconic-acid-that-mimics-glucose-on-cgm-sensors-in-adults-66-using-real-time-monitoring
-description: >-
-  Debunks marketing claims around kombucha, revealing gluconic acid interference
-  with continuous glucose monitor electrochemistry and offering verified
-  low-interference alternatives.
+description: "Gluconic acid in 82% of sugar-free kombuchas mimics glucose on your blood sugar monitor (CGM), causing false spikes in adults 66+ \u2014 safer alternatives listed."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: sugar-free kombucha cgms interference seniors
+updated: '2026-03-25'
+primaryKeyword: does sugar-free kombucha give false readings on CGM
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

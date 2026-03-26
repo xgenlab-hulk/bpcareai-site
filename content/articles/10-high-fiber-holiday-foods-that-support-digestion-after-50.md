@@ -1,9 +1,9 @@
 ---
-title: 10 High-Fiber Holiday Foods That Support Digestion After 50
-slug: 10-high-fiber-holiday-foods-that-support-digestion-after-50
+title: 'High-Fiber Holiday Foods for Seniors: 10 Best for Gut Health'
+slug: high-fiber-holiday-foods-seniors
 description: >-
-  Boost gut health during the holidays with fiber-rich dishes that prevent
-  constipation and support blood sugar control in older adults.
+  Discover 10 high-fiber holiday foods for seniors—sweet potatoes, Brussels
+  sprouts, lentil stuffing—to ease constipation and stabilize blood sugar.
 date: '2025-12-03'
 updated: '2025-12-03'
 primaryKeyword: high-fiber holiday foods for seniors

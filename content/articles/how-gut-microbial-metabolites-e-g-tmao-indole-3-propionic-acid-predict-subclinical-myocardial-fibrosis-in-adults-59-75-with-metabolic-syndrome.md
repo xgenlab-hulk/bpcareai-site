@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Gut Microbial Metabolites (e.g., TMAO, Indole-3-Propionic Acid) Predict
-  Subclinical Myocardial Fibrosis in Adults 59–75 With Metabolic Syndrome
+title: "Gut Bacteria and Early Heart Scarring: What TMAO Reveals"
 slug: >-
   how-gut-microbial-metabolites-e-g-tmao-indole-3-propionic-acid-predict-subclinical-myocardial-fibrosis-in-adults-59-75-with-metabolic-syndrome
-description: >-
-  Breaks down the gut-heart axis by linking specific fecal metabolite profiles
-  to cardiac MRI–confirmed interstitial fibrosis — and how dietary shifts alter
-  metabolite production within 10 days.
+description: Gut metabolite TMAO predicts hidden heart scarring (myocardial fibrosis) on cardiac MRI. Dietary shifts lower TMAO 30-40% within 10 days in adults 59-75.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: gut metabolites myocardial fibrosis
+updated: '2026-03-26'
+primaryKeyword: can gut bacteria affect heart scarring
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

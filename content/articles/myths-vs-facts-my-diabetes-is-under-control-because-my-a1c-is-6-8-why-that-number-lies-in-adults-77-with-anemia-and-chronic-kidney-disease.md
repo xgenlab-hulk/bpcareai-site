@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'My Diabetes Is Under Control Because My A1c Is 6.8' — Why
-  That Number Lies in Adults 77+ With Anemia and Chronic Kidney Disease
+title: Why Your A1c May Be Wrong After 77 — Anemia and CKD Explained
 slug: >-
   myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
-description: >-
-  Debunks A1c reliability in presence of hemoglobin variants, iron deficiency,
-  uremia, and shortened RBC lifespan — compares with fructosamine, GA, and
-  CGM-derived eA1c; includes calculator for adjusted targets.
+description: Anemia shortens red blood cell life from 120 to 70-90 days, falsely lowering A1c by 0.5-1.0%. A wearable glucose monitor (CGM) gives a truer picture after 77.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: A1c inaccuracy anemia CKD elderly
+updated: '2026-03-26'
+primaryKeyword: can A1c be wrong with anemia or kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Latent Autoimmune Diabetes in Adults (LADA) in Patients 52–65
-  With Rapidly Worsening Glycemic Control on Metformin Alone
+title: Could Your Type 2 Diabetes Actually Be LADA? Warning Signs at 52-65
 slug: >-
   when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone
-description: >-
-  Details clinical red flags (BMI <25, C-peptide discordance, GAD65 positivity
-  without ketoacidosis), differentiation from classic T2D, and why early insulin
-  initiation preserves beta-cell mass — with screening protocol flowchart.
+description: If metformin fails within 2-3 years and BMI is under 25, slow-onset autoimmune diabetes (LADA) affects 5-10% of type 2 diagnoses. A GAD65 test confirms it.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: LADA diagnosis in middle-aged adults
+updated: '2026-03-26'
+primaryKeyword: could my diabetes actually be autoimmune LADA
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

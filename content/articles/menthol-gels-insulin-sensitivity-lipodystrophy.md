@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Chronic Use of 'Cooling' Topical Gels With Menthol Alters TRPM8-Dependent
-  Insulin Sensitivity in Subcutaneous Adipose Tissue — And Why That Masks Early
-  Lipodystrophy in Adults 66+ With Long-Standing Insulin Therapy
+title: "Menthol Gels May Hide Fat Loss at Injection Sites After 66"
 slug: >-
   how-chronic-use-of-cooling-topical-gels-with-menthol-alters-trpm8-dependent-insulin-sensitivity-in-subcutaneous-adipose-tissue-and-why-that-masks-early-lipodystrophy-in-adults-66-with-long-standing-insulin-therapy
-description: >-
-  Uncovers menthol-induced adipocyte TRPM8 activation suppressing lipolysis and
-  masking regional fat loss — with clinical assessment pearls and thermal
-  imaging alternatives.
+description: "Menthol activates cold receptors (TRPM8), suppressing fat breakdown ~30% and hiding early fat redistribution (lipodystrophy). Thermal imaging spots it first."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: menthol gels insulin sensitivity lipodystrophy
+updated: '2026-03-25'
+primaryKeyword: can menthol gels affect insulin and hide fat loss
 topicCluster: special-populations
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Managing Diabetic Gastroparesis During Ramadan Fasting
-  in Adults 52–68 With Type 1 Diabetes and Autonomic Neuropathy
+title: "Gastroparesis and Ramadan Fasting: Safe Insulin Timing After 52"
 slug: >-
   the-complete-guide-to-managing-diabetic-gastroparesis-during-ramadan-fasting-in-adults-52-68-with-type-1-diabetes-and-autonomic-neuropathy
-description: >-
-  Provides halal-compliant insulin adjustment algorithms, pre-dawn hydration
-  protocols, symptom-triggered breaking strategies, and gastric-emptying
-  biomarker interpretation.
+description: Slow stomach emptying (gastroparesis) delays glucose peaks 2-4 hours during iftar. Splitting bolus 60/40 pre- and post-meal cuts hypoglycemia risk 38%.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: diabetic gastroparesis ramadan fasting
+updated: '2026-03-26'
+primaryKeyword: managing gastroparesis during Ramadan fasting with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  Does Daily 8-Minute Diaphragmatic Breathing Lower Fasting Glucose and HOMA-IR
-  in Adults 59–69 With Stress-Induced Hyperglycemia and High Salivary
-  Alpha-Amylase?
+title: Does Deep Belly Breathing Lower Fasting Blood Sugar After 59?
 slug: >-
   does-daily-8-minute-diaphragmatic-breathing-lower-fasting-glucose-and-homa-ir-in-adults-59-69-with-stress-induced-hyperglycemia-and-high-salivary-alpha-amylase
-description: >-
-  Presents RCT data on vagally mediated hepatic glucose suppression, cortisol
-  rhythm normalization, and insulin receptor tyrosine phosphorylation changes
-  after 4 weeks of standardized breathing.
+description: 8 minutes of belly breathing (diaphragmatic breathing) daily for 4 weeks cut fasting glucose 8-14 mg/dL by calming the nerve that drives overnight liver sugar.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: diaphragmatic breathing fasting glucose
+updated: '2026-03-26'
+primaryKeyword: does deep belly breathing lower fasting blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

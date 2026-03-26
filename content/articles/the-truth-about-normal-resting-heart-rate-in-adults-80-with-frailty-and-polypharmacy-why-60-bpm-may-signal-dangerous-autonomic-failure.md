@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Normal' Resting Heart Rate in Adults 80+ With Frailty and
-  Polypharmacy — Why <60 bpm May Signal Dangerous Autonomic Failure
+title: Why a 'Normal' 58 bpm Heart Rate May Be Dangerous After 80
 slug: >-
   the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
-description: >-
-  Challenges age-based assumptions about HR norms, revealing how beta-blockers,
-  anticholinergics, and sarcopenic autonomic decline distort interpretation —
-  with guidance on functional HR assessment beyond numbers.
+description: Below 60 bpm looks normal — but in frail adults 80+ on beta-blockers, it can mean nerve control failure (autonomic dysfunction). A sit-to-stand test reveals it.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: resting heart rate elderly frailty
+updated: '2026-03-26'
+primaryKeyword: is a low resting heart rate dangerous after 80
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

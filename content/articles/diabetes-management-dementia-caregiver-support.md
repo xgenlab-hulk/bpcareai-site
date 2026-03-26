@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Managing Diabetes While Caring for a Spouse With
-  Late-Stage Dementia — Practical Strategies for Adults 72+ With Limited
-  Caregiver Support
+title: "Dementia Caregivers Over 72: How to Manage Your Own Diabetes Too"
 slug: >-
   the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support
-description: >-
-  Addresses insulin administration logistics, hypoglycemia emergency planning,
-  meal prep delegation, and cognitive load management during dual chronic
-  disease caregiving.
+description: "Caregivers managing two conditions face 40% more blood sugar swings (glycemic variability). Meal prep and insulin timing fixes for adults 72+."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: diabetes management dementia caregiver support
+updated: '2026-03-26'
+primaryKeyword: managing diabetes while caring for someone with dementia
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

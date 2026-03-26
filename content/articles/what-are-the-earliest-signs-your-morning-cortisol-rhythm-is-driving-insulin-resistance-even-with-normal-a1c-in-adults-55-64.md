@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Are the Earliest Signs Your Morning Cortisol Rhythm Is Driving Insulin
-  Resistance — Even With Normal A1C in Adults 55–64?
+title: 5 Signs Morning Cortisol Is Raising Blood Sugar Despite Normal A1C
 slug: >-
   what-are-the-earliest-signs-your-morning-cortisol-rhythm-is-driving-insulin-resistance-even-with-normal-a1c-in-adults-55-64
-description: >-
-  Discusses circadian cortisol dysregulation, salivary diurnal testing
-  protocols, and behavioral interventions (light exposure timing, breakfast
-  macronutrient sequencing) to restore HPA-glucose axis harmony.
+description: "Fasting glucose 100-115 mg/dL with normal A1C often signals a disrupted stress hormone rhythm (cortisol dysregulation). Saliva tests at 8AM and 10PM confirm."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: morning cortisol insulin resistance A1C
+updated: '2026-03-25'
+primaryKeyword: can morning cortisol cause insulin resistance normal A1C
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

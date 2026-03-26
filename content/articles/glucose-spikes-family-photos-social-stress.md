@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Glucose Spikes *Only* During Family Photos? — The Role of
-  Acute Social Stress, Facial Muscle Tension, and Sympathetic Surges in Adults
-  57–64 With Long-Standing Type 2 Diabetes
+title: "Adults 57+: Why Blood Sugar Spikes During Family Photos"
 slug: >-
   what-causes-sudden-glucose-spikes-only-during-family-photos-the-role-of-acute-social-stress-facial-muscle-tension-and-sympathetic-surges-in-adults-57-64-with-long-standing-type-2-diabetes
-description: >-
-  Investigates the underrecognized link between posed smiling, vagal inhibition,
-  and catecholamine-driven hepatic glucose output—validated via salivary
-  alpha-amylase and real-time CGM during holiday gatherings.
+description: "Forced smiling triggers stress hormones (sympathetic activation) that push liver glucose up 15-30 mg/dL within minutes — confirmed by CGM in adults 57-64."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: glucose spikes family photos social stress
+updated: '2026-03-26'
+primaryKeyword: why does blood sugar spike during family photos
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

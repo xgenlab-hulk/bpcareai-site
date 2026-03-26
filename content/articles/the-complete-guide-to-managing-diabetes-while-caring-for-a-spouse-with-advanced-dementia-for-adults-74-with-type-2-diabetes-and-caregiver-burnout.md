@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Managing Diabetes While Caring for a Spouse With
-  Advanced Dementia — For Adults 74+ With Type 2 Diabetes and Caregiver Burnout
+title: "Dementia Caregivers: How to Manage Your Own Diabetes at 74+"
 slug: >-
   the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
-description: >-
-  Offers integrated strategies: glucose-safe meal prep for two, low-cognition
-  medication reminders, stress-buffering routines, and CGM alerts synced to
-  caregiver sleep cycles.
+description: Caregiver burnout raises HbA1c by 0.5-1.2 points and hypoglycemia risk by 40%. Glucose-safe meal prep, CGM alert timing, and stress-buffering routines help.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: diabetes management dementia caregiver seniors
+updated: '2026-03-26'
+primaryKeyword: managing diabetes while caring for spouse with dementia
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

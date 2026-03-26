@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Normal' Home BP Readings in Adults 70+ With Orthostatic
-  Hypotension and White-Coat Resistance
+title: "Why 'Normal' Home BP Readings Can Still Be Risky After 70"
 slug: >-
   the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance
-description: >-
-  Debunks the myth that stable home readings = low risk — reveals how postural
-  BP lability and masked resistance predict stroke risk independent of average
-  values.
+description: Stable home averages miss postural drops (orthostatic hypotension) that raise stroke risk 2-3x. Standing readings reveal what sitting numbers hide after 70.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: normal home blood pressure readings risk
+updated: '2026-03-26'
+primaryKeyword: are normal home BP readings risky after 70
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

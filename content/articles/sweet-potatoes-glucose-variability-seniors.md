@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Slow-Roasted Sweet Potatoes With Cinnamon vs. Instant-Mashed Sweet
-  Potatoes With Marshmallows — Impact on Postprandial Glucose Variability in
-  Adults 67+ With Prediabetes
+title: "Roasted vs. Mashed Sweet Potatoes: Blood Sugar Impact After 67"
 slug: >-
   a-vs-b-slow-roasted-sweet-potatoes-with-cinnamon-vs-instant-mashed-sweet-potatoes-with-marshmallows-impact-on-postprandial-glucose-variability-in-adults-67-with-prediabetes
-description: >-
-  Head-to-head glycemic response comparison using continuous glucose monitoring
-  data, highlighting how processing method and added sugar matrix alter insulin
-  dynamics in aging beta cells.
+description: Slow-roasted sweet potatoes spike glucose ~25 mg/dL less than instant-mashed — cooling creates slow-absorbing starch (resistant starch) in prediabetic seniors.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: sweet potatoes glucose variability seniors
+updated: '2026-03-26'
+primaryKeyword: do sweet potatoes spike blood sugar by cooking method
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

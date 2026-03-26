@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your 'Well-Controlled' Diabetes Is Masking Early Diabetic
-  Cardiomyopathy — Especially If You’re 63+ and Have Normal Ejection Fraction
+title: "When Good A1C Hides Heart Damage: Diabetic Cardiomyopathy After 63"
 slug: >-
   warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
-description: >-
-  Identifies subtle red flags: abnormal GLS (global longitudinal strain),
-  elevated NT-proBNP without HF symptoms, diastolic E/e’ >12, and
-  exercise-induced BNP rise — before structural changes appear.
+description: A normal ejection fraction misses early heart stiffening (diabetic cardiomyopathy). Strain imaging detects damage 3-5 years before symptoms in adults 63+.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: diabetic cardiomyopathy early warning signs
+updated: 2026-03-26
+primaryKeyword: can diabetes damage my heart even with normal test results
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

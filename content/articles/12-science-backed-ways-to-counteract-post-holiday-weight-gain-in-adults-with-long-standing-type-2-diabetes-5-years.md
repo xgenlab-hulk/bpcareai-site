@@ -1,16 +1,13 @@
 ---
 title: >-
-  12 Science-Backed Ways to Counteract Post-Holiday Weight Gain in Adults With
-  Long-Standing Type 2 Diabetes (5+ Years)
+  Post-Holiday Weight Creeping Up? (Type 2 Diabetes Guide 5+ Years)
 slug: >-
-  12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+  holiday-weight-gain-type-2-diabetes-5-years
 description: >-
-  Highlights strategies proven to preserve lean mass and metabolic
-  flexibility—not just caloric restriction—including protein pacing, post-meal
-  movement windows, and vagal tone support.
+  Living with type 2 diabetes 5+ years? Get 12 gentle strategies to prevent holiday weight gain—protect muscle, stabilize glucose, and feel energized. Ages 50+.
 date: '2025-12-25'
 updated: '2025-12-25'
-primaryKeyword: prevent post-holiday weight gain diabetes
+primaryKeyword: holiday weight gain type 2 diabetes adults 50
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

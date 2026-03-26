@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Morning Hyperglycemia on Christmas Day — Even With Perfect
-  Nighttime Glucose? (Dawn Phenomenon vs. Somogyi Rebound in Adults 57–71)
+title: High Blood Sugar on Christmas Morning? Dawn vs. Rebound Explained
 slug: >-
   what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
-description: >-
-  Differentiates hormonal drivers, identifies key CGM patterns (e.g., 3 a.m. dip
-  vs. steady rise), and outlines how to triage using fingerstick + ketone
-  testing — with age-specific cortisol and growth hormone context.
+description: A steady CGM rise from 4-7 AM signals the dawn effect (dawn phenomenon); a 3 AM dip then spike means overnight rebound (Somogyi effect) — different fixes.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: morning hyperglycemia christmas day cause
+updated: '2026-03-26'
+primaryKeyword: why is my blood sugar high on christmas morning
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

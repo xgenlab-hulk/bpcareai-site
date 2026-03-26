@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can Intermittent Fasting Reverse Prediabetes in Adults 50–59 With
-  Non-Alcoholic Fatty Liver Disease? What the 2024 RCTs Say
+title: Can Fasting Reverse Prediabetes With Fatty Liver? 2024 RCT Results
 slug: >-
   can-intermittent-fasting-reverse-prediabetes-in-adults-50-59-with-non-alcoholic-fatty-liver-disease-what-the-2024-rcts-say
-description: >-
-  Synthesizes findings from three recent randomized trials testing 16:8 and 5:2
-  protocols in middle-aged adults with NAFLD and prediabetes — focusing on
-  hepatic insulin sensitivity, ALT normalization, and sustainability.
+description: "Three 2024 trials tested 16:8 and 5:2 fasting in adults 50-59 with fatty liver (NAFLD) — liver insulin sensitivity rose 18-22%, but ALT fell in only 1 protocol."
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: intermittent fasting prediabetes NAFLD adults
+updated: '2026-03-26'
+primaryKeyword: can fasting reverse prediabetes with fatty liver
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

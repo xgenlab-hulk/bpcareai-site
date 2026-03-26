@@ -1,16 +1,11 @@
 ---
-title: >-
-  Blood Pressure Management for Adults 80+ With Severe Orthostatic Hypotension
-  and Recurrent Syncope — Not Just Sitting SBP
+title: Why Sitting BP Numbers Mislead After 80 With Fainting Spells
 slug: >-
   blood-pressure-management-for-adults-80-with-severe-orthostatic-hypotension-and-recurrent-syncope-not-just-sitting-sbp
-description: >-
-  Focuses on upright hemodynamics, cerebral perfusion pressure, and
-  non-pharmacologic volume modulation — avoiding over-treatment of supine
-  hypertension.
+description: A 20+ mmHg standing BP drop (orthostatic hypotension) affects 30% of adults 80+. Over-treating raises fall risk 2.4x — check upright readings.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: blood pressure management 80 plus orthostatic
+updated: '2026-03-26'
+primaryKeyword: blood pressure drops when standing in adults over 80
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

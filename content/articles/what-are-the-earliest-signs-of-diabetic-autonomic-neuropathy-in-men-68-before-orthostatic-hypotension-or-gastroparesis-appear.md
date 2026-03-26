@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Are the Earliest Signs of Diabetic Autonomic Neuropathy in Men 68+ —
-  Before Orthostatic Hypotension or Gastroparesis Appear?
+title: "Men 68+: 5 Early Signs of Diabetic Nerve Damage Before Dizziness"
 slug: >-
   what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear
-description: >-
-  Identifies prodromal markers including pupillary light reflex latency, heart
-  rate recovery asymmetry after standing, and altered thermal pain thresholds —
-  validated in a longitudinal autonomic screening registry.
+description: Slow pupil response, abnormal heart rate recovery, and reduced sweat signal nerve damage (autonomic neuropathy) years before fainting appears.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: early diabetic autonomic neuropathy signs men
+updated: '2026-03-26'
+primaryKeyword: early nerve damage signs from diabetes in men over 65
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Grandchildren’s Candy Requests Alter Postprandial Glucose Trajectories in
-  Adults 62+ With Early Prediabetes — And What to Serve Instead of
-  Chocolate-Covered Almonds
+title: "Why Family Gatherings Spike Your Blood Sugar With Prediabetes"
 slug: >-
   how-grandchildren-s-candy-requests-alter-postprandial-glucose-trajectories-in-adults-62-with-early-prediabetes-and-what-to-serve-instead-of-chocolate-covered-almonds
-description: >-
-  Explores the intergenerational behavioral triggers that spike blood sugar
-  during holiday meals, with practical, low-glycemic alternatives backed by
-  glycemic index data and real-world family testing.
+description: "Sharing candy with grandkids pushes after-meal glucose (postprandial glucose) 35\u201350 mg/dL higher than eating alone. Low-glycemic swaps for adults 62+."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: postprandial glucose family gatherings prediabetes
+updated: '2026-03-25'
+primaryKeyword: blood sugar spikes at family meals with prediabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

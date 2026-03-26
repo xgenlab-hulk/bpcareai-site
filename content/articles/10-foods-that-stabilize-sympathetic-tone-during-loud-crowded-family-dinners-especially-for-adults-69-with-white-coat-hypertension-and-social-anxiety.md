@@ -1,16 +1,10 @@
 ---
-title: >-
-  10 Foods That Stabilize Sympathetic Tone During Loud, Crowded Family Dinners —
-  Especially for Adults 69+ With White-Coat Hypertension and Social Anxiety
-slug: >-
-  10-foods-that-stabilize-sympathetic-tone-during-loud-crowded-family-dinners-especially-for-adults-69-with-white-coat-hypertension-and-social-anxiety
-description: >-
-  Features magnesium- and GABA-rich foods with precise serving temps (e.g., warm
-  roasted pumpkin seeds at 102°F) to blunt catecholamine surges during
-  high-stimulus meals.
+title: "Seniors 69+: 10 Foods That Calm Blood Pressure at Loud Family Dinners"
+slug: calming-foods-anxiety-family-gatherings-seniors
+description: Crowded dinners trigger fight-or-flight spikes (sympathetic activation) of 20-30 mmHg. Magnesium-rich foods like pumpkin seeds buffer this within 45 min.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: foods sympathetic tone family gatherings anxiety
+updated: '2026-03-26'
+primaryKeyword: foods that calm blood pressure at stressful family dinners
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

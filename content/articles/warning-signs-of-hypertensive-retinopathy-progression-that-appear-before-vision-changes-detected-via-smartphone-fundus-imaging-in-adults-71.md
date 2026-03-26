@@ -1,17 +1,11 @@
 ---
-title: >-
-  Warning Signs of Hypertensive Retinopathy Progression That Appear *Before*
-  Vision Changes — Detected via Smartphone Fundus Imaging in Adults 71+
+title: Phone Eye Photos That Catch BP Damage Before Vision Fails
 slug: >-
   warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
-description: >-
-  Identifies pre-symptomatic retinal markers — such as venular narrowing index
-  shift >12%, focal arteriolar light reflex intensification, and microvascular
-  tortuosity acceleration — validated against OCT-A in community-dwelling
-  seniors.
+description: "A smartphone fundus image can spot vein narrowing (venular index shift >12%) years before symptoms — validated against retinal OCT-A in adults 71+."
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: hypertensive retinopathy early warning signs
+updated: '2026-03-26'
+primaryKeyword: can a phone eye photo show high blood pressure damage early
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

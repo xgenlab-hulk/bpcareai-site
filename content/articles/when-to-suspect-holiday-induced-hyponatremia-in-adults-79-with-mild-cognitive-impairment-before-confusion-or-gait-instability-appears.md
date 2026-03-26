@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Holiday-Induced Hyponatremia in Adults 79+ With Mild Cognitive
-  Impairment — Before Confusion or Gait Instability Appears
+title: Low Sodium Before Confusion Hits — Warning Signs for Seniors 79+
 slug: >-
   when-to-suspect-holiday-induced-hyponatremia-in-adults-79-with-mild-cognitive-impairment-before-confusion-or-gait-instability-appears
-description: >-
-  Identifies pre-symptomatic markers: altered thirst perception patterns,
-  overnight weight gain >2.5%, and subtle changes in morning speech prosody
-  during family conversations.
+description: Overnight weight gain >2.5% and speech changes may signal sodium dropping too low (hyponatremia) before confusion. SSRI or thiazide use triples risk.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: holiday hyponatremia early signs seniors
+updated: '2026-03-26'
+primaryKeyword: early signs of low sodium in elderly during holidays
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  Simple Steps to Reduce Aortic Pulse Wave Velocity Using Only a Blood Pressure
-  Cuff, a Smartphone Mic, and Your Evening Walk — For Adults 65+ With Isolated
-  Systolic Hypertension
+title: How to Reduce Stiff Arteries at Home — A Guide for Adults 65+
 slug: >-
   simple-steps-to-reduce-aortic-pulse-wave-velocity-using-only-a-blood-pressure-cuff-a-smartphone-mic-and-your-evening-walk-for-adults-65-with-isolated-systolic-hypertension
-description: >-
-  Teaches self-measured pulse wave analysis via phonocardiography +
-  oscillometric cuff timing to track arterial stiffness reduction over 14 days —
-  validated against tonometry.
+description: A blood pressure cuff and smartphone mic can track artery stiffness (pulse wave velocity) over 14 days — validated within 8% of clinical tonometry.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: aortic pulse wave velocity reduction
+updated: '2026-03-26'
+primaryKeyword: how to reduce stiff arteries at home after 65
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

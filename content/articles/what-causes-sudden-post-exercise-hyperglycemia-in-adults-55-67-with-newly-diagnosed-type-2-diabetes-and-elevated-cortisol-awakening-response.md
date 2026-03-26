@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Post-Exercise Hyperglycemia in Adults 55–67 With Newly
-  Diagnosed Type 2 Diabetes and Elevated Cortisol Awakening Response?
+title: Blood Sugar Rises After Exercise? Why It Happens With New Type 2
 slug: >-
   what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response
-description: >-
-  Investigates cortisol-driven hepatic glucose output, catecholamine surges, and
-  exercise-intensity mismatches that paradoxically elevate glucose after
-  moderate activity in early-stage T2D.
+description: Morning cortisol triggers your liver to dump 30-50 mg/dL extra glucose during exercise. Shifting workouts 2 hours post-breakfast cuts the spike in adults 55-67.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: post-exercise hyperglycemia cortisol diabetes
+updated: '2026-03-26'
+primaryKeyword: why does blood sugar go up after exercise with diabetes
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

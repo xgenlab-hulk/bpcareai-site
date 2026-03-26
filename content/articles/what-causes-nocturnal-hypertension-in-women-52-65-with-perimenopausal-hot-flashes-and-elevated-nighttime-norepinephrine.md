@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Nocturnal Hypertension in Women 52–65 With Perimenopausal Hot
-  Flashes and Elevated Nighttime Norepinephrine?
+title: Why Blood Pressure Climbs at Night During Perimenopause
 slug: >-
   what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
-description: >-
-  Analyzes the neuroendocrine link between vasomotor instability, sympathetic
-  overactivity, and reversed BP dipping — with hormone-aware nonpharmacologic
-  strategies.
+description: Hot flashes spike nighttime norepinephrine 30-40%, reversing normal BP dipping (nocturnal hypertension). Women 52-65 losing estrogen face 2x stroke risk.
 date: '2026-01-23'
-updated: '2026-01-23'
-primaryKeyword: nocturnal hypertension in perimenopausal women
+updated: 2026-03-26
+primaryKeyword: why is blood pressure high at night during menopause
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

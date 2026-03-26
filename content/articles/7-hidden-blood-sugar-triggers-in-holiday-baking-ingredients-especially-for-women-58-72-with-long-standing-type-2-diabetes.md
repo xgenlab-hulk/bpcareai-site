@@ -1,17 +1,13 @@
 ---
-title: >-
-  7 Hidden Blood Sugar Triggers in Holiday Baking Ingredients — Especially for
-  Women 58–72 With Long-Standing Type 2 Diabetes
-slug: >-
-  7-hidden-blood-sugar-triggers-in-holiday-baking-ingredients-especially-for-women-58-72-with-long-standing-type-2-diabetes
+title: Holiday Baking Spiking Your Blood Sugar? (Women 60+ Guide)
+slug: holiday-baking-blood-sugar-women-60
 description: >-
-  Explores how seemingly 'safe' baking staples like almond flour, erythritol
-  blends, and date paste can unexpectedly spike postprandial glucose due to
-  insulin resistance patterns unique to aging women, with glycemic index
-  comparisons and real-time CGM data insights.
+  Almond flour, date paste, erythritol—all spike glucose in women 60+. Discover
+  7 hidden triggers, plus CGM data proving why "safe" ingredients fail and
+  smarter swaps that work.
 date: '2026-01-14'
 updated: '2026-01-14'
-primaryKeyword: holiday baking blood sugar spikes women 60+
+primaryKeyword: holiday baking blood sugar women 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

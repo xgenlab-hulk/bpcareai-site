@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Holiday Stress Triggers Nighttime Blood Pressure Spikes in Adults 65+ With
-  Sleep Apnea and Mild Cognitive Decline
+title: Why Holiday Stress Spikes Nighttime BP After 65 With Sleep Apnea
 slug: >-
   how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
-description: >-
-  Explores the physiological link between festive stress, disrupted sleep
-  architecture, and nocturnal hypertension in older adults with comorbid OSA and
-  early cognitive changes — including practical non-pharmacologic mitigation
-  strategies.
+description: Holiday cortisol surges push sleeping BP above 120/70 mmHg — a stronger stroke predictor than daytime readings. Obstructive sleep apnea (OSA) doubles the risk.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: holiday stress and nighttime blood pressure seniors
+updated: 2026-03-26
+primaryKeyword: why does holiday stress raise blood pressure at night
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

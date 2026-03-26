@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Times to Check NT-proBNP — Not Just BNP — in Adults 65+ With
-  Chronic Kidney Disease Stage 2 and New-Onset Exertional Dyspnea
+title: Breathless With Early Kidney Disease? When NT-proBNP Timing Matters
 slug: >-
-  12-science-backed-times-to-check-nt-probnp-not-just-bnp-in-adults-65-with-chronic-kidney-disease-stage-2-and-new-onset-exertional-dyspnea
-description: >-
-  Guides optimal NT-proBNP timing (e.g., post-dialysis, pre-antihypertensive
-  dose, after 30-min upright posture) to distinguish volume overload from
-  incipient heart failure in CKD.
+  nt-probnp-timing-ckd-shortness-breath
+description: Stage 2 kidney disease (eGFR 60-89) inflates the heart strain marker (NT-proBNP) 30-50%. Timing around posture, meds, and hydration prevents false alarms.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: nt-probnp timing chronic kidney disease
+updated: '2026-03-26'
+primaryKeyword: when to test NT-proBNP with kidney disease
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

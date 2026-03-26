@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Worry About New-Onset Palpitations During Morning Meditation in Adults
-  66–79 With Known Aortic Stenosis and Mild LVOT Obstruction
+title: New Palpitations During Meditation? What It Means With Aortic Stenosis
 slug: >-
   when-to-worry-about-new-onset-palpitations-during-morning-meditation-in-adults-66-79-with-known-aortic-stenosis-and-mild-lvot-obstruction
-description: >-
-  Differentiates benign vagally mediated ectopy from life-threatening outflow
-  tract arrhythmias triggered by parasympathetic surge—and outlines safe
-  mindfulness adaptations and when to pursue ambulatory loop recording.
+description: Deep relaxation triggers a nerve rebound (parasympathetic surge) that can unmask dangerous rhythms in adults 66-79 with a narrowed valve (aortic stenosis).
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: "health management morning seniors"
+updated: 2026-03-26
+primaryKeyword: palpitations during meditation with aortic stenosis
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

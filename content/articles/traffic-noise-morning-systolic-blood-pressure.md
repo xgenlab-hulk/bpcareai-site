@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Intermittent Exposure to Urban Traffic Noise Elevates Morning Systolic
-  Pressure by 8–12 mmHg — Even With Bedroom Windows Closed — In Adults 63+
-  Living Near Freeways
+title: "Why Traffic Noise Raises Morning Blood Pressure With Windows Closed"
 slug: >-
   how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways
-description: >-
-  Connects nocturnal noise-induced cortical arousal (measured via EEG
-  microarousals), delayed cortisol decline, and impaired endothelial-dependent
-  vasodilation — with real-world BP tracking from the HEART-NOISE Cohort.
+description: "Nighttime freeway noise triggers mini-awakenings (cortical microarousals) that delay cortisol drop and raise morning systolic pressure 8-12 mmHg in adults 63+."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: traffic noise morning systolic blood pressure
+updated: '2026-03-26'
+primaryKeyword: can traffic noise raise my morning blood pressure
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

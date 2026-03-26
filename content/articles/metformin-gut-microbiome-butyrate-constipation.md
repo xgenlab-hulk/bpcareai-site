@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Long-Term Metformin Use Alters Gut Microbiome Diversity and Butyrate
-  Production in Adults 67–81 With Type 2 Diabetes and Constipation-Predominant
-  IBS
+title: Does Metformin Cause Constipation by Changing Gut Bacteria?
 slug: >-
   how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs
-description: >-
-  Reviews metagenomic data linking metformin to *Akkermansia* enrichment and
-  *Roseburia* suppression—and practical dietary co-interventions to restore
-  butyrogenesis and colonic motility.
+description: Metformin suppresses butyrate-making bacteria (Roseburia) 30-40%, slowing the colon. Resistant starch and fermented foods restore gut motility in adults 67+.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: "diabetes management seniors"
+updated: '2026-03-26'
+primaryKeyword: does metformin cause constipation by changing gut bacteria
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

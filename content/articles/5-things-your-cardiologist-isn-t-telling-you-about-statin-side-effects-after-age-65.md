@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Your Cardiologist Isn’t Telling You About Statin Side Effects After
-  Age 65
-slug: >-
-  5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
+title: Statins After 65? (Muscle Fatigue Your Doctor May Miss)
+slug: statin-muscle-fatigue-brain-fog-65
 description: >-
-  Evidence-based breakdown of underreported statin-related risks—muscle
-  mitochondrial dysfunction, cognitive fog, and glucose intolerance—in older
-  adults, plus safer monitoring strategies.
+  On statins after 65? Discover why 15-20% report muscle fatigue without high CK, subtle brain fog signs often missed, and 4 monitoring steps (CoQ10, HbA1c) that catch problems early.
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: statin side effects after age 65
+updated: '2026-03-18'
+primaryKeyword: statin side effects muscle fatigue seniors 65
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

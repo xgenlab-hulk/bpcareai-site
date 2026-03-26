@@ -1,18 +1,11 @@
 ---
-title: >-
-  Natural Ways to Restore Circadian Rhythm of ANP Secretion in Adults 71+ With
-  Nocturnal Polyuria and Stage 2 Hypertension — Without Melatonin or
-  Beta-Blockers
+title: "Seniors 71+: Why Frequent Nighttime Urination Links to BP Surges"
 slug: >-
   natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers
-description: >-
-  Explains how disrupted atrial natriuretic peptide release contributes to
-  overnight sodium retention and BP surges—and outlines light exposure timing,
-  meal macronutrient sequencing, and foot warming protocols proven to
-  resynchronize ANP peaks.
+description: "A heart hormone (ANP) that flushes sodium loses its daily rhythm after 70, triggering overnight BP spikes. Morning light before 9am and foot warming reset it."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: restore anp secretion circadian rhythm older adults
+updated: '2026-03-26'
+primaryKeyword: why do I urinate so much at night with high blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

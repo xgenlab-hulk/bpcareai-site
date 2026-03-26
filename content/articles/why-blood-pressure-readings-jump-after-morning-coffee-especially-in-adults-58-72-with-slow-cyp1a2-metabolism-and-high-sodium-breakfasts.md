@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Blood Pressure Readings Jump After Morning Coffee — Especially in Adults
-  58–72 With Slow CYP1A2 Metabolism and High-Sodium Breakfasts
+title: Why Blood Pressure Spikes After Morning Coffee — And How to Fix It
 slug: >-
   why-blood-pressure-readings-jump-after-morning-coffee-especially-in-adults-58-72-with-slow-cyp1a2-metabolism-and-high-sodium-breakfasts
-description: >-
-  Explores the pharmacogenetic interaction between caffeine metabolism speed,
-  sodium intake, and acute morning BP spikes — with actionable timing and
-  dietary adjustments.
+description: Slow caffeine metabolism (CYP1A2 variant) plus salty breakfast can add 10-20 mmHg to your morning reading. Timing coffee 90 min after waking blunts the surge.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: morning blood pressure spike after coffee
+updated: '2026-03-26'
+primaryKeyword: why does blood pressure spike after morning coffee
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

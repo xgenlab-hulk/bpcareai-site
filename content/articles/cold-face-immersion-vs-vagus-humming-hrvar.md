@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: 4-Minute Morning Cold Face Immersion (Diving Reflex) vs. 5-Minute
-  Evening Vagus Nerve Stimulation via Humming — Impact on 24-Hour HRV in Adults
-  60–79 With Chronic Stress and Elevated CRP
+title: "Cold Water Face vs. Humming: Which Calms Your Heart After 60?"
 slug: >-
   a-vs-b-4-minute-morning-cold-face-immersion-diving-reflex-vs-5-minute-evening-vagus-nerve-stimulation-via-humming-impact-on-24-hour-hrv-in-adults-60-79-with-chronic-stress-and-elevated-crp
-description: >-
-  Head-to-head comparison using wearable HRV metrics (RMSSD, SDNN), showing
-  which technique sustains parasympathetic tone longer—and why timing matters
-  more than modality for inflammatory aging.
+description: "Cold face immersion raises calm-nerve tone (parasympathetic RMSSD) 23% in 4 min but fades by hour 3. Humming peaks slower yet holds through sleep for ages 60+."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: cold face immersion vs vagus humming hrvar
+updated: '2026-03-26'
+primaryKeyword: cold face immersion vs humming for heart rate variability
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

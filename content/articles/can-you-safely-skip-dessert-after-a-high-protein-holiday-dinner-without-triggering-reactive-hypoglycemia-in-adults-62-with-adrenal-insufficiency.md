@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can You Safely Skip Dessert After a High-Protein Holiday Dinner Without
-  Triggering Reactive Hypoglycemia in Adults 62+ With Adrenal Insufficiency?
+title: Why Skipping Dessert May Crash Your Blood Sugar After 62
 slug: >-
   can-you-safely-skip-dessert-after-a-high-protein-holiday-dinner-without-triggering-reactive-hypoglycemia-in-adults-62-with-adrenal-insufficiency
-description: >-
-  Examines the cortisol-glucose axis disruption risk when omitting
-  carbohydrate-rich desserts after protein-heavy meals in older adults with
-  age-related HPA axis blunting.
+description: After a protein-heavy meal, skipping carbs drops glucose 40-60 mg/dL in 3 hours if stress hormones are weak (adrenal insufficiency). A small carb portion helps.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: skip dessert reactive hypoglycemia seniors
+updated: '2026-03-26'
+primaryKeyword: can skipping dessert cause low blood sugar in seniors
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

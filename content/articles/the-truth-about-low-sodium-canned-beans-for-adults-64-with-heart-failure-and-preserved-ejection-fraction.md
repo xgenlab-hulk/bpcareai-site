@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About ‘Low-Sodium’ Canned Beans for Adults 64+ With Heart Failure
-  and Preserved Ejection Fraction
+title: "Low-Sodium Beans and Heart Failure: What Labels Don't Show"
 slug: >-
   the-truth-about-low-sodium-canned-beans-for-adults-64-with-heart-failure-and-preserved-ejection-fraction
-description: >-
-  Analyzes hidden potassium binders, calcium chloride preservatives, and
-  pH-altering agents in ‘low-sodium’ legumes — and how they disrupt RAAS balance
-  and endothelial shear stress response.
+description: "68% of 'low-sodium' beans add potassium chloride, which disrupts the hormone system (RAAS) your heart meds rely on. Risky for preserved-EF heart failure."
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: low-sodium canned beans heart failure
+updated: '2026-03-26'
+primaryKeyword: are low sodium canned beans safe with heart failure
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

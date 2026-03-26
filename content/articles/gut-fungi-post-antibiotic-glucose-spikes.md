@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Gut Fungal Overgrowth (Candida albicans) Correlates With Post-Antibiotic
-  Glucose Spikes in Adults 59–73 With Recurrent UTIs and Long-Term Metformin Use
+title: Why Antibiotics Spike Blood Sugar in Adults 59+ on Metformin
 slug: >-
   how-gut-fungal-overgrowth-candida-albicans-correlates-with-post-antibiotic-glucose-spikes-in-adults-59-73-with-recurrent-utis-and-long-term-metformin-use
-description: >-
-  Examines fungal D-lactic acid production, TLR2-mediated systemic inflammation,
-  and metformin’s impact on gut mycobiome diversity — with stool PCR testing
-  insights and non-antifungal microbial balancing strategies.
+description: Repeated antibiotic courses let gut yeast (Candida albicans) overgrow, raising glucose 30-50 mg/dL for 5-10 days. Metformin itself shifts fungal balance.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: gut fungi post-antibiotic glucose spikes
+updated: '2026-03-26'
+primaryKeyword: blood sugar spikes after antibiotics and diabetes
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

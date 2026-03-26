@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Reading Holiday Food Labels for Hidden Carbs —
-  Especially for Adults With Chronic Kidney Disease and Diabetes
+title: "Holiday Food Labels: Spotting Hidden Carbs With CKD and Diabetes"
 slug: >-
   the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes
-description: >-
-  Teaches how to decode 'sugar alcohols', 'maltodextrin', 'modified food
-  starch', and 'natural flavors' — with renal-safe carb-counting adaptations and
-  phosphate load awareness for CKD Stage 3+ patients.
+description: Maltodextrin adds 15-30g hidden carbs per serving. CKD stage 3+ patients also face 200-400mg hidden phosphate (phosphorus additives) per holiday package.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: holiday food labels hidden carbs kidney disease
+updated: '2026-03-26'
+primaryKeyword: reading food labels with kidney disease and diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

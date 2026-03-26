@@ -1,16 +1,10 @@
 ---
-title: >-
-  7 Hidden Environmental Triggers That Worsen Coronary Artery Calcification in
-  Adults 62+ With Long-Term Statin Use
-slug: >-
-  7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use
-description: >-
-  Explores overlooked non-dietary, non-genetic factors — including indoor air
-  particulate exposure, chronic low-level noise pollution, and seasonal humidity
-  shifts — that accelerate vascular calcification despite medication adherence.
+title: Your Statin Working But Arteries Still Hardening? (Ages 62+)
+slug: artery-calcification-home-triggers-62
+description: On statins but arteries hardening? Discover 3 home triggers—indoor air, noise, humidity—accelerating calcification and exactly how to reduce them (adults 62+).
 date: '2026-02-11'
 updated: '2026-02-11'
-primaryKeyword: coronary artery calcification triggers seniors
+primaryKeyword: artery calcification environmental triggers
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

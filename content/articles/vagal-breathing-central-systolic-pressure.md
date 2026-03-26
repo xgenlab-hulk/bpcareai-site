@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 10-Minute Guided Vagal Breathing Lower Central Systolic Pressure in
-  Adults 60–73 With Elevated Aortic Augmentation Index and High Job Stress?
+title: Can 10-Minute Vagal Breathing Lower Central Blood Pressure After 60?
 slug: >-
   does-daily-10-minute-guided-vagal-breathing-lower-central-systolic-pressure-in-adults-60-73-with-elevated-aortic-augmentation-index-and-high-job-stress
-description: >-
-  Reviews RCT evidence on HRV-guided breathing protocols, their impact on wave
-  reflection and central hemodynamics, and practical implementation for
-  desk-bound or caregiving populations.
+description: Guided breathing at 6 breaths/min reduces pressure in the main artery (central aortic pressure) by 5-8 mmHg within 4 weeks for stressed adults 60-73.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: vagal breathing central systolic pressure
+updated: 2026-03-26
+primaryKeyword: does vagal breathing lower blood pressure in older adults
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

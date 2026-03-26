@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Holiday Travel Disrupts Circadian Rhythm and Triggers Atrial Fibrillation
-  in Adults 68+ With Diagnosed AF and Time-Zone-Shifted Medication Schedules
+title: Why Holiday Travel Triggers AFib — Protect Your Heart at 68+
 slug: >-
   how-holiday-travel-disrupts-circadian-rhythm-and-triggers-atrial-fibrillation-in-adults-68-with-diagnosed-af-and-time-zone-shifted-medication-schedules
-description: >-
-  Details how jet lag — especially eastward travel — desynchronizes sinoatrial
-  node clocks, alters potassium channel expression, and misaligns anticoagulant
-  dosing windows, increasing AF burden during holiday visits.
+description: "Eastward jet lag shifts your heart's clock (circadian rhythm), raising irregular heartbeat (atrial fibrillation) 2-3x. Medication gaps over 6 hours double risk."
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: holiday travel circadian rhythm af trigger
+updated: 2026-03-26
+primaryKeyword: can holiday travel trigger atrial fibrillation
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

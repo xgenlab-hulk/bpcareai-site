@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Portable Glucose Monitors for Holiday Travel in 2024 — Ranked by Accuracy
-  in Cold Weather, Battery Life, and TSA-Friendly Design
+title: Best Portable Glucose Monitors for Cold-Weather Holiday Travel
 slug: >-
   best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
-description: >-
-  Side-by-side comparison of 7 FDA-cleared CGM and BGM systems under real-world
-  holiday conditions: subzero airport tarmacs, checked luggage temperature
-  swings, and multi-day battery performance.
+description: Below 4C, strip accuracy drops 12-18%. We rank 7 FDA-cleared monitors by cold performance, 72-hour battery life, and TSA compatibility for travelers 50+.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: best portable glucose monitor holiday travel
+updated: '2026-03-26'
+primaryKeyword: best portable glucose monitor for travel in cold weather
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Managing Blood Pressure While Caring for a Spouse With
-  Mid-Stage Parkinson’s — Age 63–70, No Orthostasis Yet, But Frequent
-  Postprandial Lapses
+title: "Parkinson’s Caregivers: Keeping Your Own Blood Pressure in Check"
 slug: >-
   the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-mid-stage-parkinson-s-age-63-70-no-orthostasis-yet-but-frequent-postprandial-lapses
-description: >-
-  Covers caregiver-specific stressors (e.g., meal timing conflicts, medication
-  sync challenges, nocturnal caregiving BP surges) and micro-habit stacking for
-  sustainable control.
+description: "Caregiving for a Parkinson's spouse raises nighttime BP surges (nocturnal hypertension) by 30%. Syncing meals and 2-min breathing resets cut systolic 8-12 mmHg."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: blood-pressure-caregiver-parkinsons-spouse
+updated: '2026-03-25'
+primaryKeyword: blood pressure while caregiving for Parkinson's spouse
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

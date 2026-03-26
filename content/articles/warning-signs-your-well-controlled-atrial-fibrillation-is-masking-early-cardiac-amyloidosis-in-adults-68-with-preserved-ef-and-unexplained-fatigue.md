@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your 'Well-Controlled' Atrial Fibrillation Is Masking Early
-  Cardiac Amyloidosis in Adults 68+ With Preserved EF and Unexplained Fatigue
+title: "When 'Controlled' AFib Masks Cardiac Amyloidosis After 68"
 slug: >-
   warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue
-description: >-
-  Identifies red-flag patterns—including disproportionate dyspnea vs. AF burden,
-  low-voltage ECG despite normal LV thickness, and discordant TTR vs. NT-proBNP
-  elevations—and explains next-step screening with bone-avid tracer imaging.
+description: Low-voltage ECG despite thick walls and breathlessness beyond rhythm suggest protein buildup (cardiac amyloidosis) — not just AFib. Bone tracer scan confirms.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: atrial fibrillation cardiac amyloidosis signs
+updated: 2026-03-26
+primaryKeyword: could my AFib be hiding cardiac amyloidosis
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

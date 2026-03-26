@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Cardiac Amyloidosis *Before* Diastolic Dysfunction Appears —
-  Red Flags in Adults 79+ With Carpal Tunnel and Unexplained Weight Loss
+title: Carpal Tunnel + Weight Loss? Red Flags for Heart Amyloidosis
 slug: >-
   when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
-description: >-
-  Highlights under-recognized prodromal signs including autonomic GI symptoms,
-  low-voltage ECG without anemia, and serum free light chain patterns in
-  geriatric primary care.
+description: Bilateral carpal tunnel plus weight loss may signal protein buildup in the heart (cardiac amyloidosis) years before echo changes. Low-voltage ECG is a key clue.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: cardiac amyloidosis early signs carpal tunnel
+updated: '2026-03-26'
+primaryKeyword: can carpal tunnel signal heart amyloidosis before 80
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

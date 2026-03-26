@@ -1,16 +1,14 @@
 ---
-title: >-
-  When to Worry About Sudden Appetite Suppression at Christmas Dinner — A Red
-  Flag for Early Sarcopenia or Subclinical Hypothyroidism in Women 65–79
+title: Why Women Over 65 Suddenly Lose Appetite at Holiday Dinner
 slug: >-
   when-to-worry-about-sudden-appetite-suppression-at-christmas-dinner-a-red-flag-for-early-sarcopenia-or-subclinical-hypothyroidism-in-women-65-79
 description: >-
-  Links acute loss of interest in food during festive meals to muscle mass
-  decline, TSH/T3 ratio shifts, and inflammation markers — distinguishing it
-  from normal aging or holiday stress.
+  A sudden 'not hungry' at the table may signal muscle loss (sarcopenia) or
+  sluggish thyroid — not aging. TSH/T3 shifts and low albumin help tell the
+  cause.
 date: '2026-02-03'
-updated: '2026-02-03'
-primaryKeyword: appetite suppression holiday dinner seniors
+updated: '2026-03-26'
+primaryKeyword: sudden loss of appetite at holiday dinner women over 65
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

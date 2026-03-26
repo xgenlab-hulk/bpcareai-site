@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Cranberry Relish (Fresh, No Added Sugar) vs. Canned Jellied Cranberry
-  Sauce — Impact on Postprandial Glucose Variability in Adults 68+ With
-  Gastroparesis and Type 2 Diabetes
+title: "Cranberry Relish vs. Canned Sauce: Which Is Safer After 68?"
 slug: >-
   a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes
-description: >-
-  Compares glycemic response, gastric emptying time, and fiber bioavailability
-  between two common holiday condiments in a high-risk, motility-compromised
-  population.
+description: Canned cranberry sauce packs 24g sugar, spiking glucose 40-60 mg/dL with slow stomach emptying (gastroparesis). Fresh relish cuts that ~35% with less fiber.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: cranberry relish vs canned sauce gastroparesis
+updated: 2026-03-26
+primaryKeyword: cranberry relish vs canned sauce blood sugar
 topicCluster: complications-management
 image: ''
 relatedSlugs:

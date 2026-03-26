@@ -1,16 +1,11 @@
 ---
-title: >-
-  Quick Ways to Counteract BP Elevation From Airline Cabin Pressure — For Adults
-  65+ With COPD, Pulmonary Hypertension, and Frequent In-Flight Dizziness
+title: Why Flying Raises Your Blood Pressure With COPD After 65
 slug: >-
   quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness
-description: >-
-  Offers pre-flight, in-flight, and post-flight strategies — including nasal NO
-  delivery, timed isometric handgrip, and hydration timing — validated in
-  simulated hypobaric chamber studies.
+description: Cabin altitude equivalent to 6000-8000 ft raises systolic BP 8-15 mmHg with lung disease (COPD). Timed handgrip exercises and hydration windows help in-flight.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: airplane cabin pressure and blood pressure
+updated: 2026-03-26
+primaryKeyword: blood pressure goes up on airplanes with COPD
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Research Says About Blood Pressure Variability in Adults 58–67 With Early
-  Parkinson’s Disease — Before Motor Symptoms Emerge
+title: "Blood Pressure Swings Before Tremors — An Early Clue to Parkinson’s"
 slug: >-
   what-research-says-about-blood-pressure-variability-in-adults-58-67-with-early-parkinson-s-disease-before-motor-symptoms-emerge
-description: >-
-  Synthesizes findings from longitudinal autonomic testing and 7-day home BP
-  tracking showing increased short-term BP lability as a prodromal biomarker —
-  distinct from orthostatic hypotension — and its predictive value for
-  synucleinopathy progression.
+description: "7-day home monitoring shows BP shifts of 20+ mmHg in adults 58-67 — a sign of nerve damage (autonomic dysfunction) years before motor symptoms."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: blood pressure variability early parkinsons
+updated: '2026-03-26'
+primaryKeyword: do blood pressure swings predict early Parkinson's
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

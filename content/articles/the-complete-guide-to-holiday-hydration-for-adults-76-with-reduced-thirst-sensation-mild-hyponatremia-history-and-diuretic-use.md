@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Holiday Hydration for Adults 76+ With Reduced Thirst
-  Sensation, Mild Hyponatremia History, and Diuretic Use
+title: Holiday Hydration Risks for Seniors 76+ on Diuretics
 slug: >-
   the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
-description: >-
-  Covers sodium-aware fluid timing, electrolyte-balanced alternatives to
-  cranberry juice or eggnog, and non-thirst-based hydration cues like tongue
-  tackiness or morning orthostasis.
+description: "Thirst drops 40% after 75, and diuretics shift sodium further. Cranberry juice dilutes blood sodium (hyponatremia) \u2014 use tongue tackiness as your hydration cue."
 date: '2026-02-01'
-updated: '2026-02-01'
-primaryKeyword: holiday hydration seniors hyponatremia
+updated: '2026-03-26'
+primaryKeyword: how do seniors on diuretics stay hydrated safely
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

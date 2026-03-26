@@ -1,29 +1,18 @@
 ---
-title: >-
-  7 Hidden Sodium Traps in Traditional Holiday Gravies and Stuffings — Even When
-  You Skip the Salt Shaker
-slug: >-
-  7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
-description: >-
-  Exposes non-obvious high-sodium ingredients in classic family gathering
-  staples (e.g., bouillon cubes, cured meats, soy sauce-based glazes) and offers
-  low-sodium, flavor-forward swaps backed by USDA sodium labeling data.
+title: 7 Sodium Traps in Holiday Gravies — Even Without the Salt Shaker
+slug: 7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+description: Bouillon cubes add 800-1,100mg sodium per batch. 7 hidden sources in gravies and stuffings — with low-sodium swaps that protect blood pressure (hypertension).
 date: '2026-02-03'
-updated: '2026-02-03'
-primaryKeyword: low sodium holiday gravy alternatives
+updated: '2026-03-26'
+primaryKeyword: hidden sodium in holiday gravy and stuffing
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
-  - >-
-    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
-  - >-
-    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
-  - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
-  - >-
-    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
-  - >-
-    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+- 7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
+- 7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+- 7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
+- 7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
+- simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
 ---
 
 # Low Sodium Holiday Gravy Alternatives: 7 Sneaky Sodium Sources in Your Favorite Holiday Sides

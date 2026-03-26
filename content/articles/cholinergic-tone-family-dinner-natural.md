@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Postprandial Cholinergic Tone Without Supplements —
-  For Adults 66–79 With Mild Cognitive Impairment and Family-Dinner
-  Overstimulation
+title: Calming Digestion at Noisy Family Dinners After 66
 slug: >-
   natural-ways-to-support-postprandial-cholinergic-tone-without-supplements-for-adults-66-79-with-mild-cognitive-impairment-and-family-dinner-overstimulation
-description: >-
-  Focuses on meal-related vagal activation via chewing rhythm, ambient sound
-  modulation, mindful bite pacing, and choline-rich yet low-histamine foods —
-  all designed to counteract social-cognitive overload during gatherings.
+description: Loud gatherings suppress your rest-and-digest nerve (vagal tone), slowing gut motility 20-30%. Chewing rhythm and choline-rich foods restore it naturally.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: "health management seniors"
+updated: '2026-03-26'
+primaryKeyword: how to calm digestion at noisy family dinners
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

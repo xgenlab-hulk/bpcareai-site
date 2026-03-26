@@ -1,30 +1,18 @@
 ---
-title: >-
-  Myths vs Facts: 'I Don’t Need Insulin Because My A1c Is Stable' — What
-  Beta-Cell Mass Imaging Reveals in Adults 57–70 With Long-Standing Type 2
-  Diabetes
-slug: >-
-  myths-vs-facts-i-don-t-need-insulin-because-my-a1c-is-stable-what-beta-cell-mass-imaging-reveals-in-adults-57-70-with-long-standing-type-2-diabetes
-description: >-
-  Uses emerging imaging data (e.g., amylin PET) to challenge clinical inertia,
-  distinguishing glycemic stability from functional reserve — with decision aids
-  for timely insulin initiation.
+title: Your A1c Is Stable — But Are Your Beta Cells Dying? Ages 57-70
+slug: myths-vs-facts-i-don-t-need-insulin-because-my-a1c-is-stable-what-beta-cell-mass-imaging-reveals-in-adults-57-70-with-long-standing-type-2-diabetes
+description: Stable A1c can mask 50-65% loss of insulin-making cells (beta cells). New imaging reveals when these cells fail before numbers rise in long-standing type 2.
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: insulin initiation myths type 2 diabetes
+updated: '2026-03-26'
+primaryKeyword: do I still need insulin if my A1c is stable
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
-  - >-
-    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
-  - >-
-    myths-vs-facts-eating-less-sugar-alone-will-reverse-type-2-diabetes-in-adults-58-73-with-12-years-duration
-  - >-
-    when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
-  - >-
-    when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone
-  - >-
-    how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
+- myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
+- myths-vs-facts-eating-less-sugar-alone-will-reverse-type-2-diabetes-in-adults-58-73-with-12-years-duration
+- when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
+- when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone
+- how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
 ---
 
 # “I’m Fine on Pills — Why Start Insulin?”: Busting Insulin Initiation Myths in Type 2 Diabetes for Adults 57–70

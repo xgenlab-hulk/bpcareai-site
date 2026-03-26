@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Sodium-Induced Edema in Adults 74+ With Heart Failure and
-  Low Albumin — And Why the Holiday Turkey Gravy Is the Real Culprit
+title: Why Turkey Gravy Causes Swelling in Adults 74+ With Heart Failure
 slug: >-
   what-causes-sudden-sodium-induced-edema-in-adults-74-with-heart-failure-and-low-albumin-and-why-the-holiday-turkey-gravy-is-the-real-culprit
-description: >-
-  Explains the albumin-sodium binding threshold shift in hypoalbuminemic HF, how
-  gravy’s free sodium + gelatin matrix overwhelms capillary oncotic pressure,
-  and safer thickening alternatives that preserve satiety without fluid
-  retention.
+description: One cup of gravy delivers 900-1200mg sodium that overwhelms low blood protein (albumin <3.2 g/dL), flooding tissues with fluid. Safer thickeners cut sodium 70%.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: sodium edema heart failure gravy
+updated: '2026-03-26'
+primaryKeyword: why does holiday gravy cause swelling with heart failure
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

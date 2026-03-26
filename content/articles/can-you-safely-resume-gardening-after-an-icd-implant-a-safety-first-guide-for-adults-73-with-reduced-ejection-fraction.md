@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can You Safely Resume Gardening After an ICD Implant? A Safety-First Guide for
-  Adults 73+ With Reduced Ejection Fraction
+title: "Gardening After a Defibrillator: Safety Guide for Seniors 73+"
 slug: >-
   can-you-safely-resume-gardening-after-an-icd-implant-a-safety-first-guide-for-adults-73-with-reduced-ejection-fraction
-description: >-
-  Covers electromagnetic interference thresholds, tool vibration limits,
-  positional strain on thoracic leads, and evidence-based activity progression
-  protocols post-ICD.
+description: "Tools under 4 kg with vibration below 2.5 m/s2 won't trigger your defibrillator (ICD). Covers lead strain, safe postures, and rest thresholds at EF below 35%."
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: gardening after icd implant seniors
+updated: '2026-03-26'
+primaryKeyword: is gardening safe after getting a defibrillator
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Seated Resistance Exercises for BP Control in Adults 77+ With Severe
-  Osteoarthritis and Stage 2 Hypertension
+title: Seated Exercises That Lower BP for Adults 77+ With Arthritis
 slug: >-
   best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
-description: >-
-  Presents evidence-based, low-impact strength routines (using resistance bands
-  and bodyweight only) proven to reduce peripheral resistance and improve
-  endothelial function without joint strain.
+description: Chair-based band routines cut systolic BP 5-10 mmHg in 12 weeks — rivaling first-line meds. Built for severe joint stiffness (osteoarthritis) in adults 77+.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: seated exercises for blood pressure elderly
+updated: 2026-03-26
+primaryKeyword: seated exercises to lower blood pressure for elderly
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

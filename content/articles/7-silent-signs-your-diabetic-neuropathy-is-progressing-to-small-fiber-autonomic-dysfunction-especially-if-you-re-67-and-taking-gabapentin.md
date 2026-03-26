@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Diabetic Neuropathy Is Progressing to Small-Fiber
-  Autonomic Dysfunction — Especially If You’re 67+ and Taking Gabapentin
+title: 7 Signs Your Diabetic Neuropathy Is Turning Autonomic After 67
 slug: >-
   7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
-description: >-
-  Highlights subtle, non-painful indicators (e.g., unexplained gastroparesis,
-  orthostatic sweating patterns, pupil reflex delays) that signal autonomic
-  involvement beyond peripheral nerve damage.
+description: Slow stomach emptying (gastroparesis), uneven sweating, sluggish pupils signal nerve damage beyond your feet. Gabapentin may mask 3 of these 7 warning signs.
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: silent signs autonomic neuropathy older adults
+updated: 2026-03-26
+primaryKeyword: signs diabetic neuropathy is getting worse after 67
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Breathing Patterns for Immediate BP Reduction in Adults 60+ With High
-  LF/HF Ratio on HRV and Morning Anxiety
+title: Which Breathing Exercise Lowers BP Fastest After 60?
 slug: >-
   best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
-description: >-
-  Compares 4-7-8, box breathing, and resonant frequency (0.1 Hz) protocols using
-  real-time HRV biofeedback data—and reveals which pattern drops systolic BP
-  fastest in under 90 seconds.
+description: Resonant breathing at 0.1 Hz drops systolic 8-12 mmHg in under 90 seconds — beating 4-7-8 and box breathing. Heart rate variability (HRV) data confirms.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: breathing patterns immediate blood pressure reduction adults 60+
+updated: '2026-03-26'
+primaryKeyword: which breathing exercise lowers blood pressure fastest
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

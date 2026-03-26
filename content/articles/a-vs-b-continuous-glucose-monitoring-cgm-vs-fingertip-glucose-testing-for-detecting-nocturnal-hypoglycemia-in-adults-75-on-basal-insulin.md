@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: Continuous Glucose Monitoring (CGM) vs Fingertip Glucose Testing for
-  Detecting Nocturnal Hypoglycemia in Adults 75+ on Basal Insulin
+title: "CGM vs. Finger Prick: Catching Nighttime Lows After 75"
 slug: >-
   a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
-description: >-
-  Compares detection sensitivity, clinical outcomes (falls, confusion episodes),
-  cost-benefit ratios, and usability barriers — using real-world adherence data
-  from 412 seniors over 6 months.
+description: In 412 seniors, continuous glucose monitors (CGM) caught 73% more nighttime lows than finger pricks — cutting falls and confusion over 6 months.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: CGM vs fingerstick nocturnal hypoglycemia elderly
+updated: '2026-03-26'
+primaryKeyword: CGM vs finger prick for nighttime low blood sugar
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Are the Earliest ECG Clues of Microvascular Angina in Women 58–71 With
-  Normal Coronary Angiograms and Recurrent Chest Tightness?
+title: Chest Pain but Clear Arteries? ECG Clues Women 58-71 Should Know
 slug: >-
   what-are-the-earliest-ecg-clues-of-microvascular-angina-in-women-58-71-with-normal-coronary-angiograms-and-recurrent-chest-tightness
-description: >-
-  Details subtle but reproducible ECG patterns — including transient T-wave
-  inversions during mental stress and abnormal QT hysteresis — that suggest
-  ischemic microvascular dysfunction despite 'clean' cath labs.
+description: Stress-triggered T-wave flips and QT changes on ECG suggest tiny vessel spasm (microvascular angina) — missed in 70% of women 58-71 after catheterization.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: microvascular angina ekg signs women
+updated: '2026-03-26'
+primaryKeyword: ECG signs of chest pain with clear arteries in women
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

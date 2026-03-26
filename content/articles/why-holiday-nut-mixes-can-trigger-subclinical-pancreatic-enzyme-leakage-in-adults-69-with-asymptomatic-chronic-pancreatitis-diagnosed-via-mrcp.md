@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Holiday Nut Mixes Can Trigger Subclinical Pancreatic Enzyme Leakage in
-  Adults 69+ With Asymptomatic Chronic Pancreatitis (Diagnosed via MRCP)
+title: Why Holiday Nut Mixes May Harm Your Pancreas After 69
 slug: >-
   why-holiday-nut-mixes-can-trigger-subclinical-pancreatic-enzyme-leakage-in-adults-69-with-asymptomatic-chronic-pancreatitis-diagnosed-via-mrcp
-description: >-
-  Discusses how high-fat, high-omega-6 nut combinations—especially roasted,
-  salted blends—may exacerbate low-grade pancreatic inflammation and elevate
-  fecal elastase-1 decline, with safer nut preparation guidelines.
+description: Roasted nut blends pack 22-30g fat per cup — enough to trigger enzyme leakage from a quiet pancreas (chronic pancreatitis). Soaking cuts lipase spikes 40%.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: holiday nut mixes chronic pancreatitis seniors
+updated: '2026-03-26'
+primaryKeyword: can holiday nuts trigger pancreas problems after 69
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

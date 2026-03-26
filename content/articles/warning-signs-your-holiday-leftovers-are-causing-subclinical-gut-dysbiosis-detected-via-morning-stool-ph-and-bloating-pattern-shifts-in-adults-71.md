@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Holiday Leftovers Are Causing Subclinical Gut Dysbiosis —
-  Detected via Morning Stool pH and Bloating Pattern Shifts in Adults 71+
+title: 7 Signs Holiday Leftovers Are Disrupting Your Gut After 70
 slug: >-
   warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
-description: >-
-  Identifies non-obvious GI red flags (e.g., delayed bloating peak, altered
-  stool float/sink behavior) linked to repeated reheating of starchy holiday
-  foods and age-related microbiome fragility.
+description: Reheated starchy sides shift stool pH above 7.1 and delay bloating 4-6 hours — signs of gut imbalance (dysbiosis). PPI users over 70 face 40% higher risk.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: holiday leftovers gut dysbiosis warning signs
+updated: '2026-03-26'
+primaryKeyword: can holiday leftovers cause gut problems after 70
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

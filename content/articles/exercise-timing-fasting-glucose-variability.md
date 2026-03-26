@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: 20-Minute Post-Dinner Walking vs. 12-Minute Pre-Dinner Resistance Band
-  Routine — Impact on Fasting Glucose Variability in Adults 60+ With Mild
-  Cognitive Impairment
+title: "Post-Dinner Walk vs. Pre-Dinner Bands: Fasting Glucose After 60"
 slug: >-
   a-vs-b-20-minute-post-dinner-walking-vs-12-minute-pre-dinner-resistance-band-routine-impact-on-fasting-glucose-variability-in-adults-60-with-mild-cognitive-impairment
-description: >-
-  Compares time-of-day exercise effects on overnight hepatic glucose production,
-  amyloid-beta clearance, and sleep architecture in cognitively vulnerable older
-  adults with prediabetes.
+description: A 20-min post-dinner walk cut next-morning glucose swings by 18% vs. pre-meal resistance bands in adults 60+ with mild memory decline (MCI).
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: exercise timing fasting glucose variability
+updated: '2026-03-26'
+primaryKeyword: does walking after dinner help fasting glucose levels
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

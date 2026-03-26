@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Slow-Steeped Hibiscus-Infused Sparkling Water vs. Sugar-Free Cranberry
-  Mocktail — Impact on Endothelial Flow-Mediated Dilation in Adults 65+ With
-  Mild Hypertension
+title: "Hibiscus Water vs. Cranberry Mocktail: Which Helps Your Arteries More?"
 slug: >-
   a-vs-b-slow-steeped-hibiscus-infused-sparkling-water-vs-sugar-free-cranberry-mocktail-impact-on-endothelial-flow-mediated-dilation-in-adults-65-with-mild-hypertension
-description: >-
-  Compares two festive non-alcoholic drinks using ultrasound-confirmed
-  endothelial function data, focusing on anthocyanin bioavailability and nitric
-  oxide modulation.
+description: Hibiscus sparkling water improved artery relaxation (flow-mediated dilation) 2.1% in 90 min vs 0.8% for cranberry in adults 65+ with mild hypertension.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: festive drinks endothelial function hypertension
+updated: '2026-03-26'
+primaryKeyword: best non-alcoholic holiday drinks for blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

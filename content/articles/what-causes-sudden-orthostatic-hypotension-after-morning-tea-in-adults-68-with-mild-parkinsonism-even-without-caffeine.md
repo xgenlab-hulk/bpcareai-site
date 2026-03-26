@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Orthostatic Hypotension *After* Morning Tea in Adults 68+
-  With Mild Parkinsonism — Even Without Caffeine?
+title: Why Morning Tea Triggers Dizziness in Adults 68+ With Parkinsonism
 slug: >-
   what-causes-sudden-orthostatic-hypotension-after-morning-tea-in-adults-68-with-mild-parkinsonism-even-without-caffeine
-description: >-
-  Investigates non-caffeinated tea compounds, gastric motility delays, and
-  baroreflex blunting as contributors to postural BP drops in early
-  neurodegenerative aging.
+description: Even caffeine-free tea can drop standing blood pressure (orthostatic hypotension) 20-30 mmHg via tannins slowing digestion and weakened reflexes.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: orthostatic hypotension after tea seniors
+updated: '2026-03-26'
+primaryKeyword: why do I get dizzy after drinking tea in the morning
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

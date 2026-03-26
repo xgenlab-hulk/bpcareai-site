@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Suspect Mitochondrial Myopathy *Before* Muscle Cramps Appear — Red
-  Flags in Adults 65+ With Rapid-Onset Insulin Resistance and Unexplained
-  Fatigue
+title: "Adults 65+: When Sudden Insulin Resistance Signals More Than Aging"
 slug: >-
   when-to-suspect-mitochondrial-myopathy-before-muscle-cramps-appear-red-flags-in-adults-65-with-rapid-onset-insulin-resistance-and-unexplained-fatigue
-description: >-
-  Identifies subtle pre-symptomatic biomarkers (e.g., lactate/pyruvate ratios,
-  urinary organic acids) and functional testing windows for early mitochondrial
-  dysfunction in older adults with new glucose dysregulation.
+description: "A lactate-to-pyruvate ratio above 25 may flag energy failure in muscles (mitochondrial myopathy) — often missed before cramps or weakness appear."
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: mitochondrial myopathy insulin resistance fatigue
+updated: '2026-03-26'
+primaryKeyword: could fatigue and new insulin resistance be mitochondrial
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

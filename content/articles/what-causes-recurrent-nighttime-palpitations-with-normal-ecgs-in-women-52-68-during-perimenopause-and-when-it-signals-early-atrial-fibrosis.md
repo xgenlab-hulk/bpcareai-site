@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Recurrent Nighttime Palpitations With Normal ECGs in Women 52–68
-  During Perimenopause — And When It Signals Early Atrial Fibrosis
+title: "Nighttime Palpitations During Perimenopause: AFib Risk or Harmless?"
 slug: >-
   what-causes-recurrent-nighttime-palpitations-with-normal-ecgs-in-women-52-68-during-perimenopause-and-when-it-signals-early-atrial-fibrosis
-description: >-
-  Analyzes estrogen-driven autonomic shifts, QT variability, and fibrotic
-  biomarkers (e.g., galectin-3, ST2) that precede clinical AFib — plus
-  home-monitoring tools and hormone-modulating lifestyle levers.
+description: Normal ECGs miss early scarring (atrial fibrosis) in 30% of perimenopausal women 52-68. Galectin-3 and QT variability reveal what standard tests hide.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: nighttime palpitations perimenopause afib risk
+updated: 2026-03-26
+primaryKeyword: why do I get palpitations at night during perimenopause
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

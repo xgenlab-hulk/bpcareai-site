@@ -1,16 +1,13 @@
 ---
 title: >-
-  5 Things Everyone Over 65 Should Know About Blood Pressure Medication Tapering
-  — Especially If You’re On Dual RAS Blockade and Have Declining eGFR
+  Tapering BP Meds After 65 With Declining Kidney Function?
 slug: >-
-  5-things-everyone-over-65-should-know-about-blood-pressure-medication-tapering-especially-if-you-re-on-dual-ras-blockade-and-have-declining-egfr
+  tapering-bp-meds-declining-kidney-function-65
 description: >-
-  Covers evidence-based deprescribing criteria, rebound hypertension risks, RAAS
-  adaptation timelines, and monitoring windows for renal and cerebral perfusion
-  stability.
+  On dual RAS blockers with declining kidney function? Discover 5 deprescribing criteria to avoid rebound hypertension—safe monitoring windows and RAAS adaptation timelines for adults 65+.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: blood pressure medication tapering elderly
+updated: '2026-03-19'
+primaryKeyword: bp medication tapering declining kidney function seniors
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
@@ -26,9 +23,18 @@ relatedSlugs:
     when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
 ---
 
-# What Older Adults Should Know About Blood pressure medication tapering elderly — Especially With Dual RAS Blockade and Falling Kidney Function
+# Is Tapering Blood Pressure Meds Safe After 65 With Declining Kidney Function? (Dual RAS Deprescribing Guide)
 
-If you’re over 65 and taking blood pressure medication, understanding when—and how—to adjust your treatment is an important part of staying healthy and comfortable. Blood pressure medication tapering elderly isn’t about stopping care; it’s about thoughtful, personalized adjustments that match your body’s changing needs. As we age, our kidneys gradually lose function—measured by eGFR (estimated glomerular filtration rate)—and medications like ACE inhibitors or ARBs can behave differently. Some people worry that reducing medication means “giving up” on heart health, or assume that lower BP numbers are always better. Neither is true: overly aggressive treatment can increase fall risk, dizziness, or even impair kidney or brain blood flow.
+**In this article:**
+- [Why Blood Pressure Medication Tapering Matters for Kidney and Brain Health](#why-blood-pressure-medication-tapering-elderly-matters-for-kidney-and-brain-health)
+- [Understanding Rebound Hypertension and RAAS Adaptation](#why-blood-pressure-medication-tapering-elderly-matters-for-kidney-and-brain-health)
+- [Who Should Consider Reviewing Their Regimen](#who-should-consider-reviewing-their-regimenand-how-to-assess-safely)
+- [Monitoring Cerebral and Renal Perfusion During Adjustment](#practical-steps-to-support-safe-adjustment)
+- [Safe Hydration and Orthostatic Precautions](#practical-steps-to-support-safe-adjustment)
+- [When to See Your Doctor](#faq)
+- [Frequently Asked Questions](#faq)
+
+If you're over 65 and taking blood pressure medication, understanding when—and how—to adjust your treatment is an important part of staying healthy and comfortable. Blood pressure medication tapering elderly isn’t about stopping care; it’s about thoughtful, personalized adjustments that match your body’s changing needs. As we age, our kidneys gradually lose function—measured by eGFR (estimated glomerular filtration rate)—and medications like ACE inhibitors or ARBs can behave differently. Some people worry that reducing medication means “giving up” on heart health, or assume that lower BP numbers are always better. Neither is true: overly aggressive treatment can increase fall risk, dizziness, or even impair kidney or brain blood flow.
 
 This is especially relevant if you're on dual RAS blockade—meaning two types of renin-angiotensin system (RAS) blockers, such as an ACE inhibitor *plus* an ARB. While once used more often, current guidelines strongly advise against this combination in most older adults due to higher risks of hyperkalemia, acute kidney injury, and hypotension. If your eGFR has declined (e.g., below 45 mL/min/1.73m²), it may be time to revisit whether continuing both—or even one—is still the safest choice.
 
@@ -55,13 +61,15 @@ If your doctor suggests adjusting your blood pressure meds, here’s how to help
 
 Tracking your blood pressure trends can help you and your doctor make better decisions. Consider keeping a daily log or using a monitoring tool to stay informed.
 
-Call your doctor right away if you notice:
-- Systolic BP consistently above 160 mm Hg *or* below 110 mm Hg  
-- Dizziness lasting more than a minute after standing  
-- New confusion, slurred speech, or weakness on one side  
-- Swelling in ankles or shortness of breath  
-
-These signs may indicate instability in cerebral or renal perfusion—and deserve prompt attention.
+> **MEDICAL WARNING**
+> Blood pressure medication tapering in older adults requires careful monitoring. **See your doctor immediately if you experience:**
+> - Systolic BP consistently >160 mm Hg or <110 mm Hg
+> - Dizziness lasting >1 minute after standing
+> - New confusion, slurred speech, or one-sided weakness
+> - Swelling in ankles or shortness of breath
+> - Sudden worsening of kidney function markers
+>
+> **Emergency warning (Call 911):** Severe chest pain, sudden severe headache with vision changes, loss of consciousness, seizure, or signs of stroke (facial droop, arm weakness, speech difficulty). Rapid, uncontrolled rebound hypertension or severe hypotension can be life-threatening and requires immediate medical intervention. Always inform emergency responders about recent medication changes.
 
 We know navigating changes in medication can feel unsettling—but remember, careful, gradual blood pressure medication tapering elderly is grounded in respect for your body’s wisdom and experience. It reflects modern, person-centered care—not a step back, but a thoughtful step forward. If you're unsure, talking to your doctor is always a good idea.
 

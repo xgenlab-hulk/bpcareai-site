@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Blood Pressure Monitor Is Giving False Readings —
-  Especially If You’re 71+ With Atrial Fibrillation and Irregular Pulse
+title: Why Your BP Monitor Gives Wrong Readings With AFib After 71
 slug: >-
   warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
-description: >-
-  Details artifacts from arrhythmia misclassification, cuff misalignment on
-  atrophic skin, Bluetooth interference from hearing aids, and battery-induced
-  waveform damping in older devices.
+description: Irregular heartbeats (atrial fibrillation) cause home cuffs to misread by 10-25 mmHg. Skin thinning and hearing aid interference add more error.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: blood pressure monitor false readings afib
+updated: '2026-03-26'
+primaryKeyword: why does my BP monitor give wrong readings with afib
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

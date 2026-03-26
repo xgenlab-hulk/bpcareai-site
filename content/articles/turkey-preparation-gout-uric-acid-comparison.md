@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Traditional Roast Turkey (Skin-On, Herb-Rubbed) vs. Slow-Braised
-  Turkey Leg (Bone-In, Low-Sodium Broth) — Impact on Postprandial Uric Acid in
-  Men 62–79 With Gout and Mild CKD
+title: "Roast vs. Braised Turkey: Which Spikes Uric Acid Less With Gout?"
 slug: >-
   a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
-description: >-
-  Compares purine load, cooking method–driven AGE formation, and
-  sodium-potassium ratios in two popular turkey preparations, with clinical data
-  on 2-hour serum uric acid spikes and 24-hour renal excretion patterns.
+description: Roasted turkey raises uric acid 1.8 mg/dL in 2 hours vs. 0.9 braised. Men 62-79 with gout and kidney disease (mild CKD) cut purine load 35% by slow-braising.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: "health management men 62"
+updated: 2026-03-26
+primaryKeyword: which turkey cooking method is safer for gout
 topicCluster: renal-health
 image: ''
 relatedSlugs:

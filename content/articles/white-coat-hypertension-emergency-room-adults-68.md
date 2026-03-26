@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Worry About ‘White-Coat’ Readings That Persist in the ER:
-  Differentiating Acute Hypertensive Urgency From Masked Stress-Induced Surges
-  in Adults 68+
+title: "High BP in the ER: White Coat Anxiety or Real Emergency After 68?"
 slug: >-
   when-to-worry-about-white-coat-readings-that-persist-in-the-er-differentiating-acute-hypertensive-urgency-from-masked-stress-induced-surges-in-adults-68
-description: >-
-  Guides clinicians and patients on red-flag biomarkers (e.g., urine NGAL,
-  retinal artery tortuosity), serial ED vitals patterns, and point-of-care
-  fundoscopy clues for true end-organ risk.
+description: ER readings above 180/110 persisting 30+ min may signal organ damage (hypertensive urgency), not nerves. Serial vitals plus urine NGAL help distinguish.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: white-coat hypertension emergency room adults 68+
+updated: '2026-03-26'
+primaryKeyword: is my high BP in the ER just white coat hypertension
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

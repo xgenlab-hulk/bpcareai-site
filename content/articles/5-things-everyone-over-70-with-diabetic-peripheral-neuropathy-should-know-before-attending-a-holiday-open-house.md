@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things Everyone Over 70 With Diabetic Peripheral Neuropathy Should Know
-  Before Attending a Holiday Open House
-slug: >-
-  5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
+title: Holiday Open House Safety for Diabetic Neuropathy (70+ Guide)
+slug: holiday-open-house-diabetic-neuropathy-70
 description: >-
-  Covers ambient temperature safety, footwear friction risks, alcohol-nerve
-  interaction, lighting contrast needs, and fall-prevention navigation
-  cues—based on ADA-ACR joint guidelines.
+  Diabetic neuropathy at holiday events? Get 5 proven safety strategies—footwear protection, temperature risks, lighting needs, and fall prevention tips backed by ADA-ACR for adults 70+.
 date: '2026-01-02'
 updated: '2026-01-02'
-primaryKeyword: diabetic neuropathy holiday open house safety
+primaryKeyword: holiday open house diabetic neuropathy 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

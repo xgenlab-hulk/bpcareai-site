@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Are the Earliest Signs of Cardiac Sarcoidosis in Adults 59+ With
-  Unexplained AV Block and Normal Ejection Fraction — Before FDG-PET Uptake
-  Becomes Diffuse?
+title: Early Signs of Cardiac Sarcoidosis Before Imaging Catches It
 slug: >-
   what-are-the-earliest-signs-of-cardiac-sarcoidosis-in-adults-59-with-unexplained-av-block-and-normal-ejection-fraction-before-fdg-pet-uptake-becomes-diffuse
-description: >-
-  Identifies prodromal clues: asymmetric septal thickening on strain imaging,
-  elevated serum angiotensin-converting enzyme *with* low-normal vitamin D, and
-  skin biopsy correlations.
+description: Unexplained heart block (AV block) with normal pumping strength plus low vitamin D and high ACE may flag heart inflammation (cardiac sarcoidosis) after 59.
 date: '2026-02-07'
-updated: '2026-02-07'
-primaryKeyword: cardiac sarcoidosis early signs av block
+updated: '2026-03-26'
+primaryKeyword: early signs of sarcoidosis in the heart before imaging
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

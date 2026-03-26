@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs of Secondary Hypertension You Might Miss If You're 57–69 and
-  Taking Proton Pump Inhibitors Long-Term
+title: Warning Signs Your Acid Reflux Pill Is Raising Blood Pressure
 slug: >-
   warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
-description: >-
-  Links PPI-induced hypomagnesemia, aldosterone dysregulation, and renal
-  microvascular remodeling — with screening red flags and magnesium repletion
-  protocols.
+description: Long-term acid blockers (PPIs) drop magnesium 15-30%, activating aldosterone and stiffening kidney vessels. Check magnesium if BP rises despite meds after 57.
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: secondary hypertension ppi warning signs
+updated: '2026-03-26'
+primaryKeyword: can acid reflux medication raise blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

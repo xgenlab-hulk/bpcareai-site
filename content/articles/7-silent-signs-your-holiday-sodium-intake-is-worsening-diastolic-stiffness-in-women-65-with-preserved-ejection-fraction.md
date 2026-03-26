@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Holiday Sodium Intake Is Worsening Diastolic Stiffness in
-  Women 65+ With Preserved Ejection Fraction
+title: 7 Signs Holiday Salt Is Stiffening Your Heart — Women 65+ Beware
 slug: >-
   7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
-description: >-
-  Identifies subtle, often-missed physiological cues—like morning ankle edema or
-  midday brain fog—that signal sodium-induced ventricular rigidity during
-  festive eating.
+description: Ankle swelling, brain fog, and 2+ lb overnight gain can signal salt-driven heart stiffness (diastolic dysfunction) in women 65+ with normal pumping strength.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: silent signs sodium diastolic stiffness seniors
+updated: '2026-03-26'
+primaryKeyword: signs holiday salt is stiffening your heart
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

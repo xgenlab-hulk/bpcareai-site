@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Onset of Orthostatic Tachycardia After Dental Anesthesia in
-  Adults 71+ With Autonomic Neuropathy and Prior Orthostatic Hypotension
+title: Heart Racing After Dental Work? What Seniors 71+ Need to Know
 slug: >-
   what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
-description: >-
-  Investigates the interplay of local anesthetics (e.g., epinephrine-containing
-  formulations), baroreflex blunting, and delayed sympathetic reactivation —
-  with actionable pre- and post-procedure safeguards.
+description: Dental epinephrine spikes heart rate 20-30 bpm on standing (orthostatic tachycardia) in adults 71+ with nerve damage (autonomic neuropathy).
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: orthostatic tachycardia after dental anesthesia seniors
+updated: '2026-03-26'
+primaryKeyword: heart racing after dental work in seniors over 70
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  5 Things You Should Know Before Accepting a Holiday Potluck Dish If You’re on
-  a Low-Potassium Renal Diet at Age 74+
+title: Holiday Potluck on a Renal Diet? 5 Potassium Traps After 74
 slug: >-
-  5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
-description: >-
-  Practical guidance for vetting casseroles, salads, and desserts for hidden
-  potassium sources like tomato paste, dried fruit, or salt substitutes—without
-  offending hosts.
+  holiday-potluck-low-k-renal-diet-74
+description: Salt substitutes swap sodium for potassium chloride — risky with weak kidneys. Tomato paste hides 600mg/cup. 5 quick checks for any potluck dish.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: low-potassium holiday potluck seniors
+updated: '2026-03-26'
+primaryKeyword: what foods to avoid at potlucks on a low potassium diet
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Renal Artery Fibromuscular Dysplasia in Women 49–63 With
-  Resistant Hypertension and Asymmetric Kidney Size on Ultrasound
+title: "BP Won't Budge? Ruling Out Artery Narrowing in Women 49-63"
 slug: >-
   when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-49-63-with-resistant-hypertension-and-asymmetric-kidney-size-on-ultrasound
-description: >-
-  Details subtle imaging clues (‘string-of-beads’ mimicry, renal vein
-  narrowing), non-invasive screening thresholds, and why FMD is underdiagnosed
-  in perimenopausal women.
+description: 3+ BP meds failing plus one smaller kidney on ultrasound? Ask about artery narrowing (fibromuscular dysplasia) — missed in ~75% of perimenopausal women.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: fibromuscular dysplasia hypertension women
+updated: '2026-03-26'
+primaryKeyword: could fibromuscular dysplasia cause my high blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

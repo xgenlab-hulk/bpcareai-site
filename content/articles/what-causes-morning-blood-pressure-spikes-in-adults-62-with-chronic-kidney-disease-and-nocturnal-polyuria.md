@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Morning Blood Pressure Spikes in Adults 62+ With Chronic Kidney
-  Disease and Nocturnal Polyuria?
+title: Why CKD Triggers Morning BP Spikes — And What Helps After 62
 slug: >-
   what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
-description: >-
-  Explores renal nocturnal sodium handling, sympathetic nervous system
-  activation, and circadian renin-angiotensin shifts as drivers of early-morning
-  hypertension surges in older adults with stage 3 CKD.
+description: Kidneys hold sodium overnight, triggering a dawn BP surge via the stress hormone system (renin-angiotensin) — adults 62+ with CKD stage 3 spike 25 mmHg higher.
 date: '2026-01-27'
-updated: '2026-01-27'
-primaryKeyword: morning blood pressure spikes chronic kidney disease
+updated: '2026-03-26'
+primaryKeyword: morning blood pressure spikes with kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

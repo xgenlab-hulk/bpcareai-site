@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Are the Silent Signs Your Holiday Nuts Are Causing Subclinical Oxidative
-  Stress in Adults 75+ With Mild CKD Stage 2?
+title: "Holiday Nuts and Kidney Stress: What Seniors With CKD Should Know"
 slug: >-
   what-are-the-silent-signs-your-holiday-nuts-are-causing-subclinical-oxidative-stress-in-adults-75-with-mild-ckd-stage-2
-description: >-
-  Links rancid nut oils and AGE formation in roasted mixes to elevated urinary
-  8-OHdG and reduced glutathione peroxidase activity — with freshness-testing
-  tips and safe storage guides.
+description: Rancid oils in roasted nuts raise cell-damage markers (urinary 8-OHdG) in adults 75+ with early kidney disease (CKD stage 2). Freshness tests cut exposure.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: holiday nuts oxidative stress seniors ckd
+updated: '2026-03-26'
+primaryKeyword: can holiday nuts harm kidneys in seniors with early CKD
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'Stable CAD' Means No Risk of Sudden Cardiac Death in Adults
-  61–74 With 3-Vessel Disease and LVEF >55%
+title: Why Stable CAD Still Carries Sudden Death Risk in Adults 61-74
 slug: >-
   myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55
-description: >-
-  Debunks the false safety assumption behind 'stable' labeling—highlighting
-  plaque vulnerability markers, arrhythmic substrate from fibrosis, and 5-year
-  SCD risk stratification tools beyond ejection fraction.
+description: Even with pumping strength (LVEF) above 55%, hidden scarring and unstable plaque raise 5-year sudden death risk 2-4x in 3-vessel coronary artery disease.
 date: '2026-01-21'
-updated: '2026-01-21'
-primaryKeyword: stable cad sudden cardiac death risk
+updated: 2026-03-26
+primaryKeyword: can stable coronary artery disease still cause sudden death
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

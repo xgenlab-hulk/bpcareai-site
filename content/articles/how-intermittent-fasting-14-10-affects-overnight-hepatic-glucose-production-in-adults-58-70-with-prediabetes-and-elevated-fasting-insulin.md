@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Intermittent Fasting (14:10) Affects Overnight Hepatic Glucose Production
-  in Adults 58–70 With Prediabetes and Elevated Fasting Insulin
+title: "Does 14:10 Fasting Lower Morning Blood Sugar With Prediabetes?"
 slug: >-
   how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
-description: >-
-  Examines the impact of shortened eating windows on nocturnal gluconeogenesis,
-  cortisol rhythm, and insulin clearance — with personalized feasibility
-  thresholds based on frailty and meal timing history.
+description: A 14-hour overnight fast cuts liver sugar output (hepatic gluconeogenesis) 12-18% in adults 58-70. But cortisol timing matters more than the window alone.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: intermittent fasting hepatic glucose production prediabetes
+updated: '2026-03-26'
+primaryKeyword: "does 14:10 intermittent fasting lower morning blood sugar"
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

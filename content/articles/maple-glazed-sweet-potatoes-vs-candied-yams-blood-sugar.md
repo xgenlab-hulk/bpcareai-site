@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: Maple-Glazed Sweet Potatoes (Roasted, Skin-On) vs. Candied Yams
-  (Canned, Marshmallow-Topped) — Impact on 2-Hour Postprandial Glucose in Adults
-  61–79 With Long-Standing T2D
+title: "Sweet Potatoes vs. Candied Yams: Which Spikes Blood Sugar Less?"
 slug: >-
   a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d
-description: >-
-  Head-to-head glycemic index, fiber retention, and resistant starch analysis —
-  plus real-world glucose monitor data showing delta differences in peak rise,
-  time-to-peak, and glucose recovery time.
+description: Skin-on sweet potatoes peak 35 mg/dL lower than candied yams. Cooling forms slow-digesting fiber (resistant starch), cutting the spike another 10-15 mg/dL.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: maple-glazed sweet potatoes vs candied yams blood sugar
+updated: '2026-03-26'
+primaryKeyword: maple glazed sweet potatoes vs candied yams blood sugar
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

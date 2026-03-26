@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Grade Dehydration From Holiday Travel Disrupts Salivary
-  Amylase Activity — And Why That Slows Carb Digestion in Adults 65+
+title: Why Air Travel Dehydration Slows Carb Digestion in Adults Over 65
 slug: >-
   how-chronic-low-grade-dehydration-from-holiday-travel-disrupts-salivary-amylase-activity-and-why-that-slows-carb-digestion-in-adults-65
-description: >-
-  Explains the cascade from air travel-induced xerostomia to reduced starch
-  hydrolysis, delayed gastric emptying, and erratic glucose curves — with
-  saliva-friendly snack recommendations.
+description: Cabin humidity of 10-20% cuts your starch-digesting enzyme (salivary amylase) output by 35%, delaying gastric emptying ~22 min and spiking glucose.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: holiday travel dehydration salivary amylase
+updated: '2026-03-26'
+primaryKeyword: does travel dehydration slow carb digestion after 65
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

@@ -2726,7 +2726,7 @@ const nextConfig = {
             "source": "/articles/a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics",
             "destination": "/articles/collard-greens-heart-failure-diuretics-comparison",
             "permanent": true
-        }
+        },
     ];
     return slugRedirects;
   },

@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Are the Earliest Lab Clues of Mitochondrial Dysfunction in Skeletal
-  Muscle in Adults 54–65 With Type 2 Diabetes and Persistent Exercise
-  Intolerance?
+title: Early Lab Clues Diabetes Is Damaging Muscle Energy (Ages 54-65)
 slug: >-
   what-are-the-earliest-lab-clues-of-mitochondrial-dysfunction-in-skeletal-muscle-in-adults-54-65-with-type-2-diabetes-and-persistent-exercise-intolerance
-description: >-
-  Identifies underused biomarkers — acylcarnitine profiles, lactate/pyruvate
-  ratio trends, and urinary TCA cycle intermediates — and links them to
-  functional testing (e.g., 6MWT desaturation).
+description: Exercise intolerance with diabetes may stem from cellular power loss (mitochondrial dysfunction). Acylcarnitine profiles and lactate ratios catch it early.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: mitochondrial dysfunction lab clues diabetes
+updated: '2026-03-26'
+primaryKeyword: early lab signs of mitochondrial problems with diabetes
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

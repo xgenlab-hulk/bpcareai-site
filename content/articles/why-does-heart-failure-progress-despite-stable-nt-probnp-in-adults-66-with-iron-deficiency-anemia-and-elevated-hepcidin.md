@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Does Heart Failure Progress Despite Stable NT-proBNP in Adults 66+ With
-  Iron Deficiency Anemia and Elevated Hepcidin?
+title: Heart Failure Worsening Despite Normal Blood Tests? Check Iron
 slug: >-
   why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin
-description: >-
-  Explains hepcidin-mediated ferroportin blockade, mitochondrial iron starvation
-  in cardiomyocytes, and how ferritin saturation <15% predicts 2-year ejection
-  fraction decline independent of BNP.
+description: A normal heart strain marker (NT-proBNP) masks worsening when iron drops. Ferritin saturation <15% predicts 2-year pumping decline in adults 66+.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: heart failure nt-probnp iron deficiency seniors
+updated: '2026-03-26'
+primaryKeyword: heart failure getting worse but blood test looks normal
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

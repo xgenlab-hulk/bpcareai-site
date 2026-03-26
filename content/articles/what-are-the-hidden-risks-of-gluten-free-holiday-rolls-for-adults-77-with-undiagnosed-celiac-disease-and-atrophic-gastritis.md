@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Are the Hidden Risks of 'Gluten-Free' Holiday Rolls for Adults 77+ With
-  Undiagnosed Celiac Disease and Atrophic Gastritis?
+title: Gluten-Free Holiday Rolls May Still Harm Adults 77+ With Celiac
 slug: >-
   what-are-the-hidden-risks-of-gluten-free-holiday-rolls-for-adults-77-with-undiagnosed-celiac-disease-and-atrophic-gastritis
-description: >-
-  Uncovers cross-contamination risks in shared ovens, gluten-degrading enzyme
-  deficiencies in aging stomachs, and iron/B12 absorption interference from GF
-  flours.
+description: "Shared ovens cross-contaminate above 20 ppm \u2014 enough to worsen thinning stomach lining (atrophic gastritis). GF flours also block iron and B12 absorption."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: "health management holiday adults 77+"
+updated: '2026-03-25'
+primaryKeyword: are gluten-free rolls safe with celiac in seniors
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

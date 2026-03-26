@@ -1,18 +1,11 @@
 ---
-title: >-
-  A vs B: Slow-Cooked Sweet Potatoes (With Brown Sugar & Butter) vs. Roasted
-  with Cinnamon & Pecans — Impact on Postprandial Endothelial Function in Adults
-  58–69 With Metabolic Syndrome
+title: "Sweet Potatoes: Roasted vs. Slow-Cooked for Artery Health After 58"
 slug: >-
   a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
-description: >-
-  Compares two common holiday prep methods for sweet potatoes using vascular
-  reactivity biomarkers, focusing on AGE formation, polyphenol retention, and
-  insulin-mediated NO release — with lab-validated takeaways for real-world
-  cooking.
+description: Slow-cooking with sugar creates 3x more harmful compounds (AGEs) than cinnamon-roasting. Roasted versions retain 40% more vessel-protecting polyphenols.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: sweet potatoes roasted vs slow-cooked endothelial function
+updated: '2026-03-26'
+primaryKeyword: roasted vs slow-cooked sweet potatoes for arteries
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

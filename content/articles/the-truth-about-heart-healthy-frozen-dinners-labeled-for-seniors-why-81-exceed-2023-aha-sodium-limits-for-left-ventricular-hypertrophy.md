@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Heart-Healthy' Frozen Dinners Labeled for Seniors — Why 81%
-  Exceed 2023 AHA Sodium Limits for Left Ventricular Hypertrophy
+title: "Heart-Healthy Frozen Dinners: 81% Exceed Sodium Limits for Seniors"
 slug: >-
   the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
-description: >-
-  Analyzes label claims vs. actual sodium load, ingredient-derived sodium (e.g.,
-  sodium phosphates), and impact on myocardial stiffness biomarkers in older
-  adults.
+description: Most frozen dinners labeled heart-healthy pack 700-1200mg sodium — above AHA limits for thickened heart muscle (left ventricular hypertrophy). Check labels.
 date: '2026-02-06'
-updated: '2026-02-06'
-primaryKeyword: "heart management seniors"
+updated: '2026-03-26'
+primaryKeyword: do heart-healthy frozen dinners have too much sodium
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

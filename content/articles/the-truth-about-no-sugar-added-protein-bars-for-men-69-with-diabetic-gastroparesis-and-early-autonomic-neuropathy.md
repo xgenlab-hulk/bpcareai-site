@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'No-Sugar-Added' Protein Bars for Men 69+ With Diabetic
-  Gastroparesis and Early Autonomic Neuropathy
+title: "Men 69+: Why 'No-Sugar' Bars Worsen Slow Stomach Emptying"
 slug: >-
   the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy
-description: >-
-  Debunks misleading labeling by analyzing polyol content (maltitol,
-  erythritol), osmotic load effects on gastric motilin, and delayed gastric
-  emptying triggers — plus 3 safer alternatives with real-food protein sources.
+description: "82% of 'no-sugar-added' bars contain maltitol, delaying stomach emptying (gastroparesis) 25-40 min. With nerve damage (autonomic neuropathy), bloating worsens."
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: no-sugar-added protein bars gastroparesis
+updated: '2026-03-26'
+primaryKeyword: are sugar-free protein bars safe with gastroparesis
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

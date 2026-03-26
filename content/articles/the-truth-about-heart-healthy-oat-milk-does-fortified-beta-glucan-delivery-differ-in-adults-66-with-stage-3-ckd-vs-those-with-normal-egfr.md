@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Heart-Healthy' Oat Milk: Does Fortified Beta-Glucan Delivery
-  Differ in Adults 66+ With Stage 3 CKD vs. Those With Normal eGFR?
+title: "Oat Milk With Kidney Disease: Does It Still Lower Cholesterol?"
 slug: >-
   the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr
-description: >-
-  Analyzes how renal impairment alters oat beta-glucan bioavailability and
-  LDL-lowering efficacy—and why standard oat milk labels mislead older adults
-  managing both CVD and chronic kidney disease.
+description: Oat beta-glucan cuts LDL 5-10% normally — but with kidneys below 60 mL/min (stage 3 CKD), phosphorus rises and the benefit fades. Label claims mislead after 66.
 date: '2026-01-26'
-updated: '2026-01-26'
-primaryKeyword: oat milk heart health kidney disease
+updated: '2026-03-26'
+primaryKeyword: is oat milk safe with kidney disease and heart issues
 topicCluster: renal-health
 image: ''
 relatedSlugs:

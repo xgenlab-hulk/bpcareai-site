@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Low-GI, High-Satiety Holiday Breakfasts for Adults 60–75 With Morning
-  Hyperglycemia and GERD
+title: Best Holiday Breakfasts for Blood Sugar Spikes and GERD (60-75)
 slug: >-
   best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd
-description: >-
-  Curates breakfast options balancing glycemic index, gastric retention time,
-  esophageal pH neutrality, and protein quality — with emphasis on overnight
-  glucose stabilization.
+description: Steel-cut oats with 20g whey protein lower dawn glucose 25-30 mg/dL while keeping stomach acid (GERD) neutral. Skip citrus juice before 8 AM.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: low-GI holiday breakfast morning hyperglycemia GERD
+updated: 2026-03-26
+primaryKeyword: best breakfast for high morning blood sugar and reflux
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

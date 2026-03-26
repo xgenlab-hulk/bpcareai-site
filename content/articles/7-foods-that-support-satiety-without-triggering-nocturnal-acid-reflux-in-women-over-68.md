@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Foods That Support Satiety Without Triggering Nocturnal Acid Reflux in Women
-  Over 68
-slug: >-
-  7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
+title: Nighttime Heartburn Keeping You Awake? (7 Satiety Foods for Women 68+)
+slug: nighttime-heartburn-satiety-foods-women-68
 description: >-
-  A science-backed list of low-acid, high-fiber, moderate-protein
-  holiday-adjacent foods proven to sustain fullness while protecting esophageal
-  integrity—especially for postmenopausal women with hiatal hernia or GERD.
+  Waking up with acid reflux after meals? Discover 7 low-acid, fiber-rich foods that keep you full without triggering nighttime heartburn—proven strategies for women 68+ with GERD or hiatal hernia.
 date: '2026-01-09'
 updated: '2026-01-09'
-primaryKeyword: satiety foods nocturnal acid reflux seniors
+primaryKeyword: nighttime heartburn satiety foods seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

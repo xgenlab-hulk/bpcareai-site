@@ -1,17 +1,11 @@
 ---
-title: >-
-  7 Hidden Holiday Triggers That Spike Postprandial Glucose in Adults 65+ With
-  Long-Standing Type 2 Diabetes — Even With Normal Fasting Levels
+title: Why Blood Sugar Spikes After Holiday Meals Despite Normal Fasting
 slug: >-
-  7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-description: >-
-  Explores overlooked seasonal factors — from artificial sweetener-laden
-  'sugar-free' candies to delayed insulin timing during travel — that cause
-  dangerous glucose surges after meals in older adults with well-managed
-  baseline readings.
+  after-meal-glucose-spikes-holidays-65-diabetes
+description: "Fasting under 110 mg/dL but spiking 180+ after dinner? Seven triggers \u2014 sugar-free candy, delayed insulin \u2014 raise after-meal sugar (postprandial glucose)."
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: holiday postprandial glucose spikes seniors
+updated: '2026-03-26'
+primaryKeyword: why does blood sugar spike after holiday meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

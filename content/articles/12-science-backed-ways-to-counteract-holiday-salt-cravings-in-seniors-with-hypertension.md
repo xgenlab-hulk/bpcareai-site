@@ -1,16 +1,13 @@
 ---
 title: >-
-  12 Science-Backed Ways to Counteract Holiday Salt Cravings in Seniors With
-  Hypertension
+  Holiday Salt Cravings Driving Your BP Up? (Seniors Guide)
 slug: >-
-  12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+  salt-cravings-hypertension-seniors
 description: >-
-  Presents peer-reviewed behavioral, sensory, and nutritional
-  interventions—including zinc supplementation, umami-rich herb blends, and oral
-  temperature modulation—to reduce sodium-seeking behavior.
+  Struggling with salt cravings during holidays? Discover 12 proven ways to reduce sodium urges naturally—zinc, umami herbs, and more. Essential for seniors with high BP.
 date: '2025-12-22'
 updated: '2025-12-22'
-primaryKeyword: reduce salt cravings hypertension seniors
+primaryKeyword: salt cravings hypertension seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

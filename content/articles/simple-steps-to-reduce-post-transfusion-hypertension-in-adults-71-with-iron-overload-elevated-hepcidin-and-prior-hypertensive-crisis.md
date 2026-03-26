@@ -1,16 +1,11 @@
 ---
-title: >-
-  Simple Steps to Reduce Post-Transfusion Hypertension in Adults 71+ With Iron
-  Overload, Elevated Hepcidin, and Prior Hypertensive Crisis
+title: Why Blood Pressure Spikes After Transfusion in Adults 71+
 slug: >-
   simple-steps-to-reduce-post-transfusion-hypertension-in-adults-71-with-iron-overload-elevated-hepcidin-and-prior-hypertensive-crisis
-description: >-
-  Outlines pre-transfusion phlebotomy timing, IV ascorbate dosing, and
-  post-transfusion low-dose nitroglycerin protocols to prevent acute endothelial
-  ROS burst and vasoconstriction.
+description: Iron-loaded blood triggers oxidative stress (endothelial ROS burst), spiking systolic 20-35 mmHg within 2 hours. Pre-transfusion phlebotomy timing is key.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: post-transfusion hypertension adults 71+ iron overload
+updated: '2026-03-26'
+primaryKeyword: why does blood pressure spike after a transfusion
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

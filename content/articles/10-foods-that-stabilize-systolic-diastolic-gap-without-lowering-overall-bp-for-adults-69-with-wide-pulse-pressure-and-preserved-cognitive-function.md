@@ -1,16 +1,10 @@
 ---
-title: >-
-  10 Foods That *Stabilize* Systolic-Diastolic Gap *Without* Lowering Overall BP
-  — For Adults 69+ With Wide Pulse Pressure and Preserved Cognitive Function
-slug: >-
-  10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
-description: >-
-  Focuses on arterial compliance support (e.g., collagen peptides,
-  anthocyanin-rich berries, fermented soy) — avoiding hypotensive foods for
-  seniors needing hemodynamic buffering.
+title: 10 Foods That Narrow the Blood Pressure Gap Without Dropping BP
+slug: stabilize-blood-pressure-gap-naturally-seniors
+description: "A wide gap between top and bottom BP numbers (pulse pressure >60 mmHg) signals stiff arteries. Berries, collagen peptides, and fermented soy help after 69."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: stabilize-pulse-pressure-without-lowering-bp
+updated: '2026-03-25'
+primaryKeyword: foods that narrow wide pulse pressure without lowering BP
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

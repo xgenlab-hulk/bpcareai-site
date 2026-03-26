@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Exposure to Blue Light From Nighttime Tablet Use Disrupts
-  Melatonin-Mediated Insulin Secretion in Adults 65+ With Prediabetes
+title: "Nighttime Tablet Use and Blood Sugar: The Blue Light Risk After 65"
 slug: >-
   how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes
-description: >-
-  Examines the photobiological pathway linking evening screen time to impaired
-  first-phase insulin response — supported by actigraphy and continuous glucose
-  monitoring data from a 2023 geriatric cohort study.
+description: Seniors using tablets past 8 p.m. showed a 27% drop in first-wave insulin response (first-phase secretion). Amber glasses before bed may restore 15-20%.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: blue light insulin secretion prediabetes seniors
+updated: '2026-03-26'
+primaryKeyword: does nighttime tablet use raise blood sugar in seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

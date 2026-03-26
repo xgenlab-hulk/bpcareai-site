@@ -1,17 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Times to Measure Blood Pressure *After* Dinner — Not Just
-  Before or Upon Waking — for Adults 65+ With Nocturnal Non-Dipping and Mild
-  Cognitive Impairment
+title: "Why Your 8:15 PM Reading Matters More Than Morning BP After 65"
 slug: >-
   12-science-backed-times-to-measure-blood-pressure-after-dinner-not-just-before-or-upon-waking-for-adults-65-with-nocturnal-non-dipping-and-mild-cognitive-impairment
-description: >-
-  Presents circadian timing windows tied to vagal rebound, postprandial sodium
-  kinetics, and amyloid clearance cycles — with visual cue-based home monitoring
-  templates.
+description: "A salty dinner raises systolic BP up to 12 mmHg in 2-3 hours \u2014 when brain waste clearance (glymphatic flow) needs pressure below 135/85. Timing matters."
 date: '2026-02-09'
-updated: '2026-02-09'
-primaryKeyword: post-dinner-blood-pressure-timing-elderly
+updated: '2026-03-25'
+primaryKeyword: when to check blood pressure after dinner for seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

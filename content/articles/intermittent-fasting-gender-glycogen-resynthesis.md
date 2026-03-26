@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Intermittent Fasting Affects Hepatic Glycogen Resynthesis *Differently* in
-  Women 58–66 vs Men 60–68 With Prediabetes — Hormone-Sensitive Timing Windows
+title: "Women vs. Men: Why Intermittent Fasting Results Differ After 58"
 slug: >-
   how-intermittent-fasting-affects-hepatic-glycogen-resynthesis-differently-in-women-58-66-vs-men-60-68-with-prediabetes-hormone-sensitive-timing-windows
-description: >-
-  Analyzes estradiol-progesterone modulation of glycogen synthase activity,
-  sex-specific fasting window tolerability, and menstrual-phase–adjusted
-  protocols for metabolic flexibility.
+description: "Estrogen shifts how your liver rebuilds sugar stores (glycogen resynthesis) \u2014 women 58\u201366 tolerate only 12\u201314h fasts vs. 16h for men before rebound."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: intermittent fasting gender glycogen resynthesis
+updated: '2026-03-25'
+primaryKeyword: does intermittent fasting work differently for women and men
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Heart Is Struggling During Air Travel — Especially for
-  Adults 70+ With Diastolic Dysfunction and Mild Hypoxemia
+title: 7 Signs Your Heart Is Struggling During a Flight After 70
 slug: >-
   7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
-description: >-
-  Identifies subtle, often-missed physiological cues (e.g., delayed capillary
-  refill, unexplained fatigue post-boarding, nocturnal dyspnea at altitude)
-  signaling cardiac decompensation during commercial flights.
+description: Cabin pressure at 6,000-8,000 ft lowers oxygen 3-4%, straining stiff hearts (diastolic dysfunction). Slow nail refill and post-boarding fatigue are early flags.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: heart strain symptoms during air travel seniors
+updated: '2026-03-26'
+primaryKeyword: signs your heart is struggling during a flight over 70
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

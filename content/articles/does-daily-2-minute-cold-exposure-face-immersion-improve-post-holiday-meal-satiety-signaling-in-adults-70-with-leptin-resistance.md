@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Daily 2-Minute Cold Exposure (Face Immersion) Improve Post-Holiday Meal
-  Satiety Signaling in Adults 70+ With Leptin Resistance?
+title: Does Cold Water Face Dipping Curb Holiday Overeating After 70?
 slug: >-
   does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance
-description: >-
-  Reviews emerging data on trigeminal nerve–hypothalamic modulation, comparing
-  effects on PYY/GLP-1 release versus traditional pre-meal walking in frail
-  elders.
+description: Cold water face dips trigger the diving reflex, raising fullness hormones (PYY, GLP-1) 15-22% — but evidence in seniors 70+ with leptin resistance is thin.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: cold exposure satiety signaling seniors
+updated: '2026-03-26'
+primaryKeyword: does cold water face dipping help you feel full
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

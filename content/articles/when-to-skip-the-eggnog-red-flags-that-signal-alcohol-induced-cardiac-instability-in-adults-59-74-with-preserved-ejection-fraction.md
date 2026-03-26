@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Skip the Eggnog: Red Flags That Signal Alcohol-Induced Cardiac
-  Instability in Adults 59–74 With Preserved Ejection Fraction
+title: When Eggnog Triggers Heart Rhythm Problems — Red Flags at 59-74
 slug: >-
   when-to-skip-the-eggnog-red-flags-that-signal-alcohol-induced-cardiac-instability-in-adults-59-74-with-preserved-ejection-fraction
-description: >-
-  Identifies subtle but clinically meaningful signs — like transient voice
-  changes, post-eggnog neck fullness, or delayed HR recovery after stairs — that
-  precede holiday AF in patients with structurally normal but electrically
-  vulnerable hearts.
+description: One eggnog with alcohol raises heart rate 8-15 bpm within 40 min. Neck fullness or voice change signals electrical instability (holiday heart syndrome).
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: red flags eggnog cardiac instability holiday
+updated: '2026-03-26'
+primaryKeyword: should I skip eggnog with heart condition and afib risk
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

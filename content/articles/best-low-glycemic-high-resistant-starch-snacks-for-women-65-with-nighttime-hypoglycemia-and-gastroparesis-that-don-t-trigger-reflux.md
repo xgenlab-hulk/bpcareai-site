@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Low-Glycemic, High-Resistant-Starch Snacks for Women 65+ With Nighttime
-  Hypoglycemia and Gastroparesis — That Don’t Trigger Reflux
+title: Bedtime Snacks for Women 65+ With Low Blood Sugar and Gastroparesis
 slug: >-
   best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
-description: >-
-  Features cooled potato starch gels, green banana flour crackers with digestive
-  enzymes, and fermented lentil hummus — all tested for gastric retention time
-  and pH stability — with portion-sizing and timing rules (90 min pre-bed).
+description: Cooled potato starch gels release glucose slowly over 5-6 hours without stalling your stomach (gastroparesis). Eat 90 minutes before bed to prevent reflux.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: low-glycemic snacks gastroparesis nighttime hypoglycemia
+updated: '2026-03-26'
+primaryKeyword: bedtime snacks for low blood sugar with gastroparesis
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

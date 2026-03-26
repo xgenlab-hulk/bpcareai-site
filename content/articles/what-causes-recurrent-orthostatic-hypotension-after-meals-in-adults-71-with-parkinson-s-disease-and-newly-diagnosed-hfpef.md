@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Causes Recurrent Orthostatic Hypotension After Meals in Adults 71+ With
-  Parkinson’s Disease and Newly Diagnosed HFpEF?
+title: "Why Meals Make You Dizzy With Parkinson's and Heart Failure"
 slug: >-
   what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef
-description: >-
-  Details the triad of postprandial splanchnic pooling, α-synuclein–mediated
-  baroreflex failure, and diastolic dysfunction—and offers meal-timing,
-  carb-sequencing, and compression strategies validated in movement
-  disorder–cardiology clinics.
+description: "Blood pools in your gut after eating (postprandial hypotension), dropping BP 20-30 mmHg with Parkinson's. A stiff heart (HFpEF) at 71+ slows recovery."
 date: '2026-01-22'
-updated: '2026-01-22'
-primaryKeyword: postprandial orthostatic hypotension parkinsons
+updated: 2026-03-26
+primaryKeyword: "dizzy after meals with Parkinson's and heart failure"
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

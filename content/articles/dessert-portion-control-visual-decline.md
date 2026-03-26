@@ -1,30 +1,18 @@
 ---
-title: >-
-  Simple Steps to Adjust Your Holiday Dessert Portion *Before* the First Bite —
-  Using Visual Cues That Work for Adults 83+ With Age-Related Visual Processing
-  Decline
-slug: >-
-  simple-steps-to-adjust-your-holiday-dessert-portion-before-the-first-bite-using-visual-cues-that-work-for-adults-83-with-age-related-visual-processing-decline
-description: >-
-  Introduces contrast-based plating (e.g., dark plates for light desserts),
-  tactile rim markers, and pre-portioned dessert cups validated in geriatric
-  visual ergonomics trials.
+title: Dessert Portion Tricks for Seniors 83+ With Fading Vision
+slug: simple-steps-to-adjust-your-holiday-dessert-portion-before-the-first-bite-using-visual-cues-that-work-for-adults-83-with-age-related-visual-processing-decline
+description: Dark plates boost portion accuracy 25% for light desserts. Tactile rim markers help adults 83+ with fading eyesight (visual processing decline) eat safely.
 date: '2026-02-02'
-updated: '2026-02-02'
-primaryKeyword: dessert portion control visual decline
+updated: '2026-03-26'
+primaryKeyword: how to control dessert portions with poor eyesight
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
-  - >-
-    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
-  - >-
-    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
-  - >-
-    simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
-  - >-
-    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
-  - >-
-    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
+- simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
+- how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
+- simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
+- the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
+- the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
 ---
 
 # Smart Dessert Portion Control for Older Adults: Using Visual Cues That Respect Age-Related Vision Changes  

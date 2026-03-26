@@ -1,16 +1,11 @@
 ---
-title: >-
-  12 Science-Backed Ways to Lower Pulse Pressure in Adults 69–82 With Isolated
-  Systolic Hypertension and Aortic Stiffness
+title: Wide Pulse Pressure Over 70 mmHg? 12 Solutions for Adults 69-82
 slug: >-
-  12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
-description: >-
-  Focuses specifically on widening pulse pressure — covering arterial elastin
-  support, sodium-potassium balance, collagen cross-link inhibition, and timed
-  nitrate-rich food intake.
+  pulse-pressure-ish-aortic-stiffness
+description: Pulse pressure above 70 mmHg signals stiff arteries (aortic stiffness). 12 strategies — nitrate timing, potassium foods, paced breathing — help adults 69-82.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: lower pulse pressure in elderly
+updated: '2026-03-26'
+primaryKeyword: how to lower wide pulse pressure without more meds
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

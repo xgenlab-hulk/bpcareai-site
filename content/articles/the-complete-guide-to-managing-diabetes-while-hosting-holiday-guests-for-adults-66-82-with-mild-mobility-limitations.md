@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Complete Guide to Managing Diabetes While Hosting Holiday Guests — For
-  Adults 66–82 With Mild Mobility Limitations
+title: "Hosting Guests With Diabetes and Mobility Limits: A 66-82 Guide"
 slug: >-
   the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
-description: >-
-  Practical, step-by-step planning covering food prep adaptations, guest
-  communication scripts, safety net protocols for missed doses, and delegation
-  frameworks — centered on autonomy and dignity.
+description: Standing to cook spikes blood sugar (glucose) 20-30 mg/dL from cortisol. Seated prep, pre-portioned plates, and a missed-dose safety plan keep levels stable.
 date: '2026-01-24'
-updated: '2026-01-24'
-primaryKeyword: diabetes management hosting holiday guests elderly
+updated: '2026-03-26'
+primaryKeyword: managing diabetes while hosting guests with mobility limits
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Quick Ways to Normalize Baroreflex Sensitivity Within 45 Minutes of Standing —
-  For Adults 64–79 With Hypertension and Presyncope
+title: Dizzy When Standing Up? Quick Fixes for Seniors With Hypertension
 slug: >-
   quick-ways-to-normalize-baroreflex-sensitivity-within-45-minutes-of-standing-for-adults-64-79-with-hypertension-and-presyncope
-description: >-
-  Presents immediate neuromuscular strategies: isometric calf contraction, slow
-  diaphragmatic breath-hold, and seated neck extension to acutely enhance vagal
-  tone and reduce orthostatic surge.
+description: Your blood pressure reflex (baroreflex) slows 35-50% after 64. Calf squeezes, slow breath-holds, and neck tilts stabilize standing BP within 45 minutes.
 date: '2026-01-25'
-updated: '2026-01-25'
-primaryKeyword: "hypertension management seniors"
+updated: '2026-03-26'
+primaryKeyword: stop dizziness when standing up with high blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

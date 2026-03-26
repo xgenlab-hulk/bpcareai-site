@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: Mulled Wine vs. Sparkling Apple Cider — Impact on Fasting Glucose and
-  Triglyceride Response in Adults 63–79 With Metabolic Syndrome
+title: "Mulled Wine vs. Sparkling Cider: Which Spikes Glucose After 63?"
 slug: >-
   a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
-description: >-
-  Compares polyphenol bioavailability, alcohol-induced hepatic glucose output,
-  and fructose load — using 2-hour post-consumption capillary glucose and venous
-  lipid panel data.
+description: Mulled wine raises fasting glucose 18 mg/dL via liver output; cider spikes triglycerides 35% from fructose. Neither is harmless with metabolic syndrome (MetS).
 date: '2026-01-18'
-updated: '2026-01-18'
-primaryKeyword: mulled wine vs sparkling cider diabetes
+updated: '2026-03-26'
+primaryKeyword: mulled wine vs cider blood sugar and triglycerides
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

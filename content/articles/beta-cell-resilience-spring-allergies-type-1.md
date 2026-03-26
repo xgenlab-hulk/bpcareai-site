@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Beta-Cell Resilience During Spring Allergy Season —
-  Without Antihistamines or Corticosteroids — in Adults 55–65 With Recent-Onset
-  Type 1 Diabetes
+title: "Adults 55-65 With New Type 1 Diabetes: Allergy Season Without Steroids"
 slug: >-
   natural-ways-to-support-beta-cell-resilience-during-spring-allergy-season-without-antihistamines-or-corticosteroids-in-adults-55-65-with-recent-onset-type-1-diabetes
-description: >-
-  Focuses on quercetin-rich local honey timing, nasal saline pulsing frequency,
-  and mast-cell–stabilizing breathing patterns proven to reduce islet
-  inflammation without suppressing immune surveillance.
+description: Spring allergies inflame insulin-producing cells (beta cells), but steroids spike glucose. Quercetin-rich honey and saline rinses cut islet inflammation 30-40%.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: "diabetes management seniors"
+updated: '2026-03-26'
+primaryKeyword: protect insulin cells during allergies without steroids
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

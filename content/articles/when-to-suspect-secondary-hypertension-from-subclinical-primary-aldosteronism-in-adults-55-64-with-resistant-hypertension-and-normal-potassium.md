@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Suspect Secondary Hypertension From Subclinical Primary Aldosteronism
-  in Adults 55–64 With Resistant Hypertension and Normal Potassium
+title: "Adults 55-64: When Resistant Blood Pressure Hides a Hormone Problem"
 slug: >-
   when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium
-description: >-
-  Details red flags beyond classic hypokalemia — including early diastolic
-  dysfunction on echo, elevated aldosterone-to-renin ratio in upright posture,
-  and paradoxical BP rise after potassium supplementation — supported by
-  Endocrine Society 2023 guidelines.
+description: Up to 20% of resistant hypertension stems from excess aldosterone (primary aldosteronism) — even with normal potassium. Echo red flags appear first.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: secondary hypertension subclinical aldosteronism
+updated: '2026-03-26'
+primaryKeyword: why is my blood pressure still high with 3 medications
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

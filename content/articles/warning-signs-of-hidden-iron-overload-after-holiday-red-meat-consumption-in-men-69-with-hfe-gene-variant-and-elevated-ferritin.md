@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs of Hidden Iron Overload After Holiday Red Meat Consumption in
-  Men 69+ With HFE Gene Variant and Elevated Ferritin
+title: "Iron Overload After Holiday Roasts: Warning Signs for Men 69+"
 slug: >-
   warning-signs-of-hidden-iron-overload-after-holiday-red-meat-consumption-in-men-69-with-hfe-gene-variant-and-elevated-ferritin
-description: >-
-  Highlights atypical red flags—like unexplained fatigue after roast beef,
-  transient joint warmth, or worsening restless legs—not typically associated
-  with hemochromatosis in aging males.
+description: Ferritin above 300 ng/mL plus the HFE gene variant means 3 holiday roasts can push iron into the danger zone. Watch for joint warmth and restless legs.
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: iron overload holiday red meat seniors
+updated: '2026-03-26'
+primaryKeyword: can holiday red meat cause iron overload in older men
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

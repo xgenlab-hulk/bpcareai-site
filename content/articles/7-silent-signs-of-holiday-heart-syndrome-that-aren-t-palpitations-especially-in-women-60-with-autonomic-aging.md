@@ -1,17 +1,11 @@
 ---
-title: >-
-  7 Silent Signs of Holiday Heart Syndrome That Aren’t Palpitations — Especially
-  in Women 60+ With Autonomic Aging
+title: "7 Holiday Heart Signs Women Over 60 Miss That Aren't Palpitations"
 slug: >-
   7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
-description: >-
-  Highlights non-classical early indicators (e.g., unexplained fatigue after
-  dessert, post-dinner dyspnea on exertion, nocturnal confusion) tied to vagal
-  withdrawal and nocturnal BP lability in aging women — validated in the 2023
-  Women’s Heart Health Registry.
+description: In women 60+, holiday heart shows as post-dessert fatigue and nighttime confusion — not racing beats. Weakened nerve control (autonomic aging) masks the signs.
 date: '2026-01-19'
-updated: '2026-01-19'
-primaryKeyword: silent signs holiday heart syndrome women
+updated: '2026-03-26'
+primaryKeyword: silent signs of holiday heart syndrome in women over 60
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

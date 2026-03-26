@@ -1,16 +1,11 @@
 ---
-title: >-
-  Natural Ways to Normalize Midday BP Dips in Adults 66–79 With Postprandial
-  Hypotension and Mild Autonomic Neuropathy
+title: Dizzy After Lunch? Managing Post-Meal BP Drops After 66
 slug: >-
   natural-ways-to-normalize-midday-bp-dips-in-adults-66-79-with-postprandial-hypotension-and-mild-autonomic-neuropathy
-description: >-
-  Focuses on post-lunch protein distribution, splanchnic blood flow modulation,
-  and timed isometric handgrip — no caffeine or supplements — with 24-hour
-  ambulatory validation.
+description: Digestion diverts blood from your brain, dropping BP 20+ mmHg (postprandial hypotension). A 2-min hand squeeze and protein-first meals cut falls by 40%.
 date: '2026-01-30'
-updated: '2026-01-30'
-primaryKeyword: midday bp dip postprandial hypotension
+updated: '2026-03-26'
+primaryKeyword: why does blood pressure drop after lunch in older adults
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

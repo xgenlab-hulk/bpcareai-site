@@ -1,17 +1,11 @@
 ---
-title: >-
-  When to Suspect Cardiac Amyloidosis *Before* Diastolic Dysfunction Worsens —
-  Using Serum Free Light Chains and Strain Echocardiography in Adults 79+ With
-  Unexplained Orthostatic Hypotension and Carpal Tunnel Syndrome
+title: Carpal Tunnel + Dizzy Spells? Signs of Heart Amyloidosis After 79
 slug: >-
   when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-worsens-using-serum-free-light-chains-and-strain-echocardiography-in-adults-79-with-unexplained-orthostatic-hypotension-and-carpal-tunnel-syndrome
-description: >-
-  Details early diagnostic triage for ATTR-CM in octogenarians presenting with
-  multisystem ‘aging’ symptoms — emphasizing cost-effective, non-biopsy red-flag
-  combinations.
+description: Carpal tunnel plus standing dizziness (orthostatic hypotension) can signal protein in the heart (cardiac amyloidosis). One blood test catches it — no biopsy.
 date: '2026-02-05'
-updated: '2026-02-05'
-primaryKeyword: cardiac amyloidosis early detection orthostasis
+updated: '2026-03-26'
+primaryKeyword: can carpal tunnel and dizziness mean heart amyloidosis
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

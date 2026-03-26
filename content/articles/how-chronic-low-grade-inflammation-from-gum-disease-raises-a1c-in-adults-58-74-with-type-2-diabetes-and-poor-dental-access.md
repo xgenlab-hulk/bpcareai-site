@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Low-Grade Inflammation From Gum Disease Raises A1C in Adults 58–74
-  With Type 2 Diabetes and Poor Dental Access
+title: Why Gum Disease Quietly Raises A1C in Adults Over 58
 slug: >-
   how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
-description: >-
-  Connects periodontal pathogen load, systemic IL-6/TNF-α elevation, and insulin
-  resistance — with practical guidance for managing oral health without regular
-  dental visits.
+description: Gum inflammation (periodontitis) raises IL-6 by 30-40%, driving insulin resistance that lifts A1C 0.3-0.5% — even without diet changes in adults 58-74.
 date: '2026-01-20'
-updated: '2026-01-20'
-primaryKeyword: gum disease and A1C elevation older adults
+updated: 2026-03-26
+primaryKeyword: can gum disease raise your A1C levels
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Hidden Blood Pressure Triggers in Over-the-Counter Cold Medicines for Adults
-  65+ With Stage 1 Hypertension and Mild Orthostatic Hypotension
-slug: >-
-  7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
+title: Cold Medicine Raising Your BP? (7 Triggers + Safe Swaps for 65+)
+slug: cold-medicine-bp-triggers-safe-swaps-65
 description: >-
-  Identifies decongestants, NSAIDs, and herbal stimulants in common cold
-  remedies that can acutely elevate systolic BP or destabilize autonomic
-  regulation — with safer OTC alternatives and dosing cautions.
+  Taking cold medicine with stage 1 hypertension? Discover 7 hidden BP triggers in decongestants and NSAIDs—plus safe OTC alternatives that won't spike pressure (adults 65+).
 date: '2026-01-15'
 updated: '2026-01-15'
-primaryKeyword: cold medicine blood pressure elderly
+primaryKeyword: cold medicine blood pressure seniors safe
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

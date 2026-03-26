@@ -1,17 +1,13 @@
 ---
-title: >-
-  The Truth About 'Low-Sugar' Ketchup and BBQ Sauce — Why 93% of Brands Still
-  Trigger Postprandial Glucose Spikes in Adults 60+ With Gastroparesis-Like
-  Symptoms
+title: "Why 'Low-Sugar' Ketchup Still Spikes Blood Sugar After 60"
 slug: >-
   the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms
 description: >-
-  Breaks down hidden fructose-glucose ratios, preservative-induced GLP-1
-  suppression, and pH-dependent amylase inhibition that undermine 'sugar-free'
-  claims in condiments for older adults with delayed gastric motility.
+  93% of 'low-sugar' brands hide fructose ratios that spike glucose 25-40 mg/dL
+  with slow stomach emptying (gastroparesis). Check these 3 ingredients first.
 date: '2026-02-04'
-updated: '2026-02-04'
-primaryKeyword: low-sugar ketchup blood sugar spike gastroparesis
+updated: '2026-03-26'
+primaryKeyword: does low-sugar ketchup still spike blood sugar
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

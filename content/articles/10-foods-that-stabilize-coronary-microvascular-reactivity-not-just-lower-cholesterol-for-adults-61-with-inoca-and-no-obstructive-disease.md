@@ -1,16 +1,10 @@
 ---
-title: >-
-  10 Foods That *Stabilize* Coronary Microvascular Reactivity — Not Just Lower
-  Cholesterol — For Adults 61+ With INOCA and No Obstructive Disease
-slug: >-
-  10-foods-that-stabilize-coronary-microvascular-reactivity-not-just-lower-cholesterol-for-adults-61-with-inoca-and-no-obstructive-disease
-description: >-
-  Highlights dietary compounds (e.g., epicatechin-rich cocoa, fermented soy
-  isoflavones, low-temperature roasted walnuts) that improve
-  endothelial-dependent and -independent vasodilation in microvessels.
+title: Chest Pain But Clear Arteries? Foods That Help (Seniors 61+)
+slug: chest-pain-clear-arteries-foods-seniors
+description: 10 foods for chest pain with no blockage—cocoa, walnuts, fermented soy. Improve small blood vessel health naturally. INOCA guide for seniors 61+.
 date: '2026-02-11'
 updated: '2026-02-11'
-primaryKeyword: foods coronary microvascular reactivity
+primaryKeyword: foods for chest pain no blockage seniors over 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

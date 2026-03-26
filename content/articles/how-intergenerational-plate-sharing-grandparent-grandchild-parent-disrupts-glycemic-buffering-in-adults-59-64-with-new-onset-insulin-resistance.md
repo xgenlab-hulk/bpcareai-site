@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Intergenerational Plate-Sharing (Grandparent → Grandchild → Parent)
-  Disrupts Glycemic Buffering in Adults 59–64 With New-Onset Insulin Resistance
+title: "Why Sharing Plates With Grandkids Spikes Blood Sugar After 59"
 slug: >-
   how-intergenerational-plate-sharing-grandparent-grandchild-parent-disrupts-glycemic-buffering-in-adults-59-64-with-new-onset-insulin-resistance
-description: >-
-  Analyzes how repeated micro-portions of high-carb foods across shared plates
-  erode postprandial metabolic resilience—and offers a 'buffer plate' strategy
-  with resistant starch pairing.
+description: "Nibbling shared-plate bites raises glucose 25-40 mg/dL by eroding metabolic buffering (glycemic resilience). A resistant starch pairing strategy helps."
 date: '2026-02-08'
-updated: '2026-02-08'
-primaryKeyword: plate-sharing insulin resistance glycemic buffering
+updated: '2026-03-26'
+primaryKeyword: can sharing plates at family dinners spike blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

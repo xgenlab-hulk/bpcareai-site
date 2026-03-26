@@ -1,16 +1,11 @@
 ---
-title: >-
-  Natural Ways to Enhance Pancreatic Beta-Cell Autophagy in Adults 57–68 With
-  Early-Stage Type 2 Diabetes — Without Fasting or Supplements
+title: Protecting Your Insulin-Making Cells Naturally After 57 With Diabetes
 slug: >-
   natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements
-description: >-
-  Focuses on time-restricted eating windows aligned with melatonin onset,
-  specific polyphenol-rich food pairings, and post-meal movement timing to
-  activate lysosomal clearance pathways.
+description: Beta cells need self-cleaning (autophagy) to survive. Eating within 10 hours of waking plus polyphenol-rich berries activates this — no fasting required.
 date: '2026-01-28'
-updated: '2026-01-28'
-primaryKeyword: "diabetes management seniors"
+updated: '2026-03-26'
+primaryKeyword: how to protect insulin-making cells naturally with diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

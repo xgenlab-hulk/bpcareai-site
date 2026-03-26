@@ -1,16 +1,11 @@
 ---
-title: >-
-  What Causes Sudden Diastolic Dips During Hot Yoga in Adults 52–66 With
-  Prehypertension and Low Aldosterone?
+title: Why Blood Pressure Drops During Hot Yoga — Risks for Adults 52-66
 slug: >-
   what-causes-sudden-diastolic-dips-during-hot-yoga-in-adults-52-66-with-prehypertension-and-low-aldosterone
-description: >-
-  Analyzes thermoregulatory failure, mineralocorticoid insufficiency, and vagal
-  overactivity as drivers of paradoxical diastolic hypotension in midlife adults
-  doing heat-stress exercise.
+description: Heat dilates vessels while low aldosterone limits salt retention, causing diastolic drops of 15-25 mmHg. Pre-class sodium loading (500mg) helps stabilize.
 date: '2026-01-29'
-updated: '2026-01-29'
-primaryKeyword: diastolic hypotension hot yoga adults 52-66
+updated: '2026-03-26'
+primaryKeyword: blood pressure drops during hot yoga causes
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
