@@ -1,14 +1,14 @@
 ---
-title: >-
+title: 'Can Seniors Drink Alcohol Safely During the Holidays?'
   Can Seniors Drink Alcohol Safely During the Holidays? What Your Medications
   Say
 slug: can-seniors-drink-alcohol-safely-during-the-holidays-what-your-medications-say
-description: >-
+description: 'Alcohol interacts with blood thinners (warfarin), diabetes pills, and BP meds—raising fall and bleeding risk. Even one drink alters drug processing after 50.'
   An in-depth look at how alcohol interacts with common senior medications
   during holiday celebrations and when it's safest to skip the toast.
 date: '2025-12-13'
-updated: '2025-12-13'
-primaryKeyword: alcohol and medications for seniors holidays
+updated: '2026-03-27'
+primaryKeyword: 'is it safe for seniors to drink alcohol with medications'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

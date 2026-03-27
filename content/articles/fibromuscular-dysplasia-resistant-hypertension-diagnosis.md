@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Fibromuscular Dysplasia: A Hidden Cause of Resistant Hypertension'
   When to Suspect Renal Artery Fibromuscular Dysplasia *Instead* of Primary
   Hypertension in Adults 52–58 With Episodic Headache, Asymmetric Kidney Size,
   and Resistant Hypertension
 slug: >-
   when-to-suspect-renal-artery-fibromuscular-dysplasia-instead-of-primary-hypertension-in-adults-52-58-with-episodic-headache-asymmetric-kidney-size-and-resistant-hypertension
-description: >-
+description: 'Fibromuscular dysplasia (artery wall thickening) causes 5-10% of resistant hypertension. CTA screening catches it in women over 50 with unexplained BP spikes.'
   Guides recognition of underdiagnosed vascular cause of hypertension in younger
   older adults—highlighting imaging clues and intervention implications.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: fibromuscular dysplasia resistant hypertension diagnosis
+updated: '2026-03-27'
+primaryKeyword: 'fibromuscular dysplasia resistant hypertension diagnosis'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'What Cold Hand Immersion Reveals About Coronary Flow Reserve'
   How Intermittent Cold-Water Hand Immersion (30-Second Bursts) Modulates
   Coronary Blood Flow Reserve in Adults 57–64 With Stable Angina and Normal
   Coronary Anatomy
 slug: >-
   how-intermittent-cold-water-hand-immersion-30-second-bursts-modulates-coronary-blood-flow-reserve-in-adults-57-64-with-stable-angina-and-normal-coronary-anatomy
-description: >-
+description: 'Cold pressor hand immersion cuts heart blood supply capacity (coronary flow reserve) by 15-20% in adults with small-vessel dysfunction before symptoms appear.'
   Presents emerging data on non-invasive, self-administered thermal modulation
   to improve microvascular perfusion — a novel adjunct for patients with INOCA
   (Ischemia with No Obstructive Coronary Artery disease).
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: cold hand immersion coronary flow reserve
+updated: '2026-03-27'
+primaryKeyword: 'cold hand immersion coronary flow reserve test'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

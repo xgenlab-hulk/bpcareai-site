@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Charcot Neuroarthropathy Footwear Guide for Older Adults With Diabetes'
   Best Footwear Modifications for Adults 64+ With Type 2 Diabetes and Early
   Charcot Neuroarthropathy — Custom Rocker Soles vs. Off-the-Shelf Diabetic
   Shoes for Reducing Midfoot Pressure Peaks
 slug: >-
   best-footwear-modifications-for-adults-64-with-type-2-diabetes-and-early-charcot-neuroarthropathy-custom-rocker-soles-vs-off-the-shelf-diabetic-shoes-for-reducing-midfoot-pressure-peaks
-description: >-
+description: 'Midfoot bone collapse (Charcot neuroarthropathy) needs offloading footwear; full-contact insoles and rocker soles cut ulcer recurrence by up to 63%.'
   Compares pressure mapping outcomes (peak plantar pressure, pressure-time
   integral), cost-effectiveness over 18 months, and impact on ambulatory cadence
   and fall risk — with podiatrist-prescribed fitting criteria.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: charcot neuroarthropathy footwear seniors
+updated: '2026-03-27'
+primaryKeyword: 'Charcot neuroarthropathy footwear older adults'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

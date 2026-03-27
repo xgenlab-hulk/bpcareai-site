@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Boost Carotid Baroreceptor Sensitivity With Neck Cooling'
   Natural Ways to Enhance Carotid Baroreceptor Sensitivity *Without* Medication
   — Using Daily 2-Minute Neck Cooling + Submaximal Isometric Jaw Clenching in
   Adults 60–68
 slug: >-
   natural-ways-to-enhance-carotid-baroreceptor-sensitivity-without-medication-using-daily-2-minute-neck-cooling-submaximal-isometric-jaw-clenching-in-adults-60-68
-description: >-
+description: 'A 2-min neck cooling plus jaw clench protocol improved pressure reflex (baroreflex gain) by 31% after 4 weeks in adults 60-68 with early hypertension.'
   Details a novel dual-modality protocol shown in pilot studies to improve
   baroreflex gain by 31% in early-stage hypertension, with instructions for safe
   home implementation and contraindication screening.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: "health management seniors"
+updated: '2026-03-27'
+primaryKeyword: 'carotid baroreceptor sensitivity cooling protocol'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,12 +1,12 @@
 ---
-title: Can Shoveling Snow Trigger a Heart Event in Older Adults?
+title: 'Can Shoveling Snow Trigger a Heart Event in Older Adults?'
 slug: can-shoveling-snow-trigger-a-heart-event-in-older-adults
-description: >-
+description: 'Snow shoveling caused a 7-fold increase in heart events (cardiac arrest) in men over 55 per one study. Cold plus strain can spike systolic BP above 200 mmHg.'
   Examines the cardiovascular dangers of snow shoveling and offers safety
   guidelines for those over 60 with heart concerns.
 date: '2025-12-12'
-updated: '2025-12-12'
-primaryKeyword: shoveling snow heart risk
+updated: '2026-03-27'
+primaryKeyword: 'can shoveling snow trigger a heart attack in older adults'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

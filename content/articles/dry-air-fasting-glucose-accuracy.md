@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'How Dry Air Affects Fasting Glucose Meter Accuracy in Winter'
   How Cold-Weather Indoor Air Dryness Alters Nasal Mucosal Glucose Absorption —
   And Why That Affects Fasting Glucose Readings in Adults 74+ With Type 1
   Diabetes
 slug: >-
   how-cold-weather-indoor-air-dryness-alters-nasal-mucosal-glucose-absorption-and-why-that-affects-fasting-glucose-readings-in-adults-74-with-type-1-diabetes
-description: >-
+description: 'Humidity below 30% shifts glucose readings 5-15 mg/dL via strip degradation (test strip moisture loss) and fingertip dehydration—key for tight fasting targets.'
   Explains nasal mucosa permeability shifts during dry air exposure, its impact
   on ambient glucose diffusion into interstitial fluid, and validation of CGM
   vs. fingerstick divergence in winter homes.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: dry air fasting glucose accuracy
+updated: '2026-03-27'
+primaryKeyword: 'dry air effect on fasting glucose meter accuracy'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

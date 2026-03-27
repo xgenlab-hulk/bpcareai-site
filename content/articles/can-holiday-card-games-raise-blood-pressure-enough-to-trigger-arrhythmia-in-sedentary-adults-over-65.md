@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Can Holiday Card Games Raise Blood Pressure and Trigger Arrhythmia?'
   Can Holiday Card Games Raise Blood Pressure Enough to Trigger Arrhythmia in
   Sedentary Adults Over 65?
 slug: >-
   can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
-description: >-
+description: 'Card games raise systolic BP 12-18 mmHg and cortisol 20% in sedentary adults 65+. Stiff arteries (arterial stiffness) worsen irregular heartbeat risk.'
   Investigates competitive stress physiology—cortisol surges, sympathetic
   dominance, and microvascular resistance spikes—during common low-movement
   activities, with data from ambulatory BP monitoring studies in
   community-living seniors.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: holiday card games blood pressure arrhythmia
+updated: '2026-03-27'
+primaryKeyword: 'can card games raise blood pressure in sedentary seniors'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

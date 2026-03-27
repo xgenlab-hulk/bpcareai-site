@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Cold Face Immersion and Blood Pressure in Early Autonomic Dysfunction'
   Does Daily 4-Minute Cold-Water Face Immersion *Really* Lower 24-Hour Mean
   Arterial Pressure in Adults 61+ With Early Autonomic Dysfunction?
 slug: >-
   does-daily-4-minute-cold-water-face-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-61-with-early-autonomic-dysfunction
-description: >-
+description: 'Cold face immersion activates the diving reflex (vagal heart-slowing response), reducing 24-hour MAP by 4 mm Hg in adults over 61 with autonomic dysfunction.'
   Synthesizes ambulatory BP data from 8-week RCTs showing vagal tone restoration
   effects — with safety thresholds for atrial fibrillation history and carotid
   sinus sensitivity.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: cold-face-immersion-mean-arterial-pressure
+updated: '2026-03-27'
+primaryKeyword: 'cold face immersion blood pressure autonomic issues'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

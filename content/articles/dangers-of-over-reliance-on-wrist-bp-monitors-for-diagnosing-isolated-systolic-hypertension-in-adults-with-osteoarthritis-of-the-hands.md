@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why Wrist BP Monitors Miss Systolic Hypertension With Hand Arthritis'
   Dangers of Over-Reliance on Wrist BP Monitors for Diagnosing Isolated Systolic
   Hypertension in Adults With Osteoarthritis of the Hands
 slug: >-
   dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
-description: >-
+description: 'Hand joint disease (osteoarthritis) reduces wrist artery flexibility, causing monitors to underread upper BP (systolic pressure) by up to 11 mmHg vs arm cuffs.'
   Details measurement error sources (arterial calcification, radial pulse
   dampening, positioning artifacts) and offers validation protocols for home
   use.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: wrist blood pressure monitor accuracy osteoarthritis
+updated: '2026-03-27'
+primaryKeyword: 'wrist BP monitor osteoarthritis systolic hypertension'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

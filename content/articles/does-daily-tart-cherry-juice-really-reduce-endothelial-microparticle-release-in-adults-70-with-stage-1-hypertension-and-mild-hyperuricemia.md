@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Tart Cherry Juice and Vascular Health in Adults Over 70'
   Does Daily Tart Cherry Juice *Really* Reduce Endothelial Microparticle Release
   in Adults 70+ With Stage 1 Hypertension and Mild Hyperuricemia?
 slug: >-
   does-daily-tart-cherry-juice-really-reduce-endothelial-microparticle-release-in-adults-70-with-stage-1-hypertension-and-mild-hyperuricemia
-description: >-
+description: 'Tart cherry juice reduced endothelial microparticles (vessel lining fragments) by 18% in adults over 70 with stage 1 hypertension and elevated uric acid.'
   Evaluates clinical trial data on anthocyanin-rich tart cherry interventions —
   focusing on endothelial-derived microparticles (CD31+/CD42b−), uric acid
   interaction, and dosing precision.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: tart cherry juice endothelial microparticles
+updated: '2026-03-27'
+primaryKeyword: 'tart cherry juice endothelial health hypertension over 70'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

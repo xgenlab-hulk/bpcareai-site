@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Cold Face Immersion and HRV in Men 67+ With Stage 2 Hypertension'
   Can Daily 10-Minute Cold-Water Face Immersion Reduce Sympathetic Tone and
   Improve HRV Within 12 Days in Men 67+ With Stage 2 Hypertension?
 slug: >-
   can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
-description: >-
+description: 'Daily cold face immersion shifted HRV (heart rate variability) within 12 days in a randomized pilot of men 67+ with Stage 2 hypertension vs. a sham control.'
   Presents findings from a randomized pilot trial comparing cold face immersion
   vs. sham breathing control on heart rate variability, baroreflex sensitivity,
   and 24-hour ambulatory BP trends.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: cold face immersion and heart rate variability
+updated: '2026-03-27'
+primaryKeyword: 'cold face immersion to improve HRV in older men'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

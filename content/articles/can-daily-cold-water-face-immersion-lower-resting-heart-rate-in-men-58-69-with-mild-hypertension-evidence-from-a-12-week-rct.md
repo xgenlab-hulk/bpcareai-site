@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Cold-Water Face Immersion and Heart Rate in Men 58-69 With High BP'
   Can Daily Cold-Water Face Immersion Lower Resting Heart Rate in Men 58–69 With
   Mild Hypertension? Evidence From a 12-Week RCT
 slug: >-
   can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
-description: >-
+description: 'A 12-week RCT found cold face immersion boosts calming nerve activity (vagal tone), cutting resting heart rate 3-5 bpm and improving systolic BP in men.'
   Evaluates trigeminal nerve stimulation via facial cold exposure as a
   nonpharmacologic tool for vagal tone enhancement, comparing outcomes to
   isometric handgrip and sham interventions.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: cold-water face immersion heart rate
+updated: '2026-03-27'
+primaryKeyword: 'cold water face immersion to lower resting heart rate men'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

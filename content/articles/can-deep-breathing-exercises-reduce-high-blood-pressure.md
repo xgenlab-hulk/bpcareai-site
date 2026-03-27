@@ -1,12 +1,12 @@
 ---
-title: Can Deep Breathing Exercises Reduce High Blood Pressure?
+title: 'Can Breathing Exercises Lower High Blood Pressure? What Evidence Shows'
 slug: can-deep-breathing-exercises-reduce-high-blood-pressure
-description: >-
+description: 'Paced breathing at 5-6 breaths/min cuts systolic BP 4.5 mm Hg within 4-12 weeks — lowering heart disease risk (cardiovascular risk) ~9%. A low-cost add-on.'
   Explore how simple breathing techniques can help lower blood pressure and
   improve relaxation response.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: deep breathing exercises to lower blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'breathing exercises to lower high blood pressure naturally'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

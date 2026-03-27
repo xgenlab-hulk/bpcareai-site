@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Why Fine Print Triggers a BP Drop in Adults 79+ With Carotid Disease'
   What Causes Sudden Blood Pressure Dips *Only* While Reading Fine Print on
   Prescription Labels — And Why That Triggers Transient Cerebral Hypoperfusion
   in Adults 79+ With Presbyopia and Carotid Stenosis <50%
 slug: >-
   what-causes-sudden-blood-pressure-dips-only-while-reading-fine-print-on-prescription-labels-and-why-that-triggers-transient-cerebral-hypoperfusion-in-adults-79-with-presbyopia-and-carotid-stenosis-50
-description: >-
+description: 'Reading fine print activates a vagal reflex that briefly drops BP and reduces brain blood flow (cerebral hypoperfusion) — more common after age 79.'
   Links visual accommodation strain to trigeminal-vagal reflex activation and
   downstream cerebral perfusion compromise in elderly with subclinical carotid
   disease.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: blood pressure dip reading prescription labels
+updated: '2026-03-27'
+primaryKeyword: 'dizziness when reading small text on medication labels'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

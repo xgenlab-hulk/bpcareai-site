@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Supporting Beta-Cell Resilience During Holiday Eating for Adults 57-65'
   Natural Ways to Support Beta-Cell Resilience *During* High-Carb Holiday Eating
   — Using Polyphenol Timing, Cold Exposure Windows, and Breath-Hold Protocols in
   Adults 57–65 With Recent-Onset Type 2 Diabetes
 slug: >-
   natural-ways-to-support-beta-cell-resilience-during-high-carb-holiday-eating-using-polyphenol-timing-cold-exposure-windows-and-breath-hold-protocols-in-adults-57-65-with-recent-onset-type-2-diabetes
-description: >-
+description: 'Timed quercetin and cold face immersion reduce cell stress (ER stress) in human islet studies — protecting beta-cell function on high-carb holiday days.'
   Presents a protocol integrating timed quercetin intake (pre-dinner), 90-second
   cold face immersion, and CO₂-tolerant breath-hold intervals — all shown to
   reduce ER stress markers in human islet organoid studies.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: beta-cell resilience holiday eating
+updated: '2026-03-27'
+primaryKeyword: 'protecting beta cells during high carb holiday meals'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

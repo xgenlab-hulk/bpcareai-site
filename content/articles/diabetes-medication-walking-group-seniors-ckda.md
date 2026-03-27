@@ -1,18 +1,18 @@
 ---
-title: >-
+title: 'Diabetes Medication Safety Tips for Seniors in Walking Groups With CKD'
   12 Medication Adjustments You Should Discuss With Your Doctor *Before*
   Starting a Walking Group — Especially If You’re 63+ With Type 2 Diabetes, Mild
   CKD, and Diuretic Use
 slug: >-
   12-medication-adjustments-you-should-discuss-with-your-doctor-before-starting-a-walking-group-especially-if-you-re-63-with-type-2-diabetes-mild-ckd-and-diuretic-use
-description: >-
+description: 'Kidney-protective pills (SGLT2 inhibitors) plus hot-weather walking raise dehydration risk; adults with low kidney function (CKD) should monitor urine color.'
   Covers pharmacokinetic and pharmacodynamic shifts (e.g., reduced renal
   clearance of SGLT2 inhibitors, thiazide-induced hyponatremia risk with evening
   walks, metformin GI tolerance changes) and timing protocols for safe
   community-based activity.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: diabetes medication walking group seniors ckda
+updated: '2026-03-27'
+primaryKeyword: 'diabetes medication safety walking group seniors CKD'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

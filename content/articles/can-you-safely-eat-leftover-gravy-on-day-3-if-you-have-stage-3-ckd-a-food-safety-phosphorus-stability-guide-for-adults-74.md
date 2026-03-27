@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can You Safely Eat Leftover Gravy on Day 3 With Stage 3 CKD?'
   Can You Safely Eat Leftover Gravy on Day 3 If You Have Stage 3 CKD? — A Food
   Safety + Phosphorus Stability Guide for Adults 74+
 slug: >-
   can-you-safely-eat-leftover-gravy-on-day-3-if-you-have-stage-3-ckd-a-food-safety-phosphorus-stability-guide-for-adults-74
-description: >-
+description: 'Phosphate in bone-based gravies rises 15-22% by day 3. For adults 74+ with reduced kidney function (stage 3 CKD) and low gastric acid, mineral risks increase.'
   Analyzes microbial risk, phosphate leaching from bones into reheated gravies,
   and safe storage/reheating protocols tailored for seniors with chronic kidney
   disease and reduced gastric acidity.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: leftover gravy safety stage 3 ckd
+updated: '2026-03-27'
+primaryKeyword: 'is leftover gravy safe on day 3 with stage 3 CKD'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

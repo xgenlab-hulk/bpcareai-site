@@ -1,12 +1,12 @@
 ---
-title: Could Your Medications Be Raising Your Blood Pressure?
+title: 'Could Your Medications Be Quietly Raising Your Blood Pressure?'
 slug: could-your-medications-be-raising-your-blood-pressure
-description: >-
+description: 'Pain relievers (NSAIDs), decongestants, and some antidepressants raise systolic BP by 5-14 mmHg; a medication review can uncover hidden causes after 60.'
   Identify common OTC and prescription drugs that may increase blood pressure,
   especially in older adults.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: medications that raise blood pressure seniors
+updated: '2026-03-27'
+primaryKeyword: 'medications that raise blood pressure unexpectedly'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

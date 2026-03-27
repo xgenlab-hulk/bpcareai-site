@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Best CGM Options for Seniors Who Don\'t Use Smartphones'
   5 Things Everyone Over 75 Should Know About Continuous Glucose Monitoring
   *Without* a Smartphone — Including Manual Data Extraction, Analog Alert
   Alternatives, and Battery-Life Extension Hacks
 slug: >-
   5-things-everyone-over-75-should-know-about-continuous-glucose-monitoring-without-a-smartphone-including-manual-data-extraction-analog-alert-alternatives-and-battery-life-extension-hacks
-description: >-
+description: 'Some glucose monitors (CGMs) display readings on dedicated readers without phones; compare alarm loudness and button size for adults 70+ with low vision.'
   Practical, low-tech CGM guidance for older adults with vision or dexterity
   limitations—including how to use legacy Bluetooth readers, tactile alarm
   systems, and analog logbooks synced to clinic visits.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: cgms for seniors without smartphones
+updated: '2026-03-27'
+primaryKeyword: 'CGM options seniors without smartphones'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can Indoor Air Pollution Raise Diastolic BP in 48 Hours? 3,200 Seniors'
   Can Air Pollution Exposure in Urban Apartments Raise Diastolic BP Within 48
   Hours? New Data From 3,200 Adults 55–81
 slug: >-
   can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
-description: >-
+description: 'BP data from 3,200 adults 55-81 shows diastolic rises within 48 hours of elevated indoor fine particles (PM2.5) — ventilation and genes shape risk.'
   Synthesizes findings from real-time PM2.5 monitoring paired with home BP logs,
   highlighting differential susceptibility by APOE genotype and indoor
   ventilation habits.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: air pollution diastolic blood pressure urban seniors
+updated: '2026-03-27'
+primaryKeyword: 'indoor air pollution and diastolic blood pressure seniors'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

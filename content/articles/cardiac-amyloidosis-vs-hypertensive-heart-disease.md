@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Cardiac Amyloidosis vs Hypertensive Heart Disease: A Closer Look'
   When to Suspect Cardiac Amyloidosis *Instead* of Hypertensive Heart Disease in
   Adults 77+ With Unexplained LVH and Normal Troponin — And Why ECG Voltage
   Criteria Lie in Obesity-Associated Diastolic Stiffness
 slug: >-
   when-to-suspect-cardiac-amyloidosis-instead-of-hypertensive-heart-disease-in-adults-77-with-unexplained-lvh-and-normal-troponin-and-why-ecg-voltage-criteria-lie-in-obesity-associated-diastolic-stiffness
-description: >-
+description: '15% of adults over 75 with unexplained wall thickening (LVH) have wild-type ATTR—not hypertension. ECG voltage criteria are unreliable; strain echo is key.'
   Provides a red-flag diagnostic framework for distinguishing infiltrative vs.
   pressure-overload cardiac remodeling in high-BMI older adults, emphasizing
   echocardiographic strain patterns and biomarker discordance.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: cardiac amyloidosis vs hypertensive heart disease
+updated: '2026-03-27'
+primaryKeyword: 'cardiac amyloidosis vs hypertensive heart disease seniors'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

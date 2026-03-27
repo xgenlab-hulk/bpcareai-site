@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why Skipping Breakfast on Basal Insulin Is Risky After 70'
   Dangers of Skipping Breakfast on New Year’s Day—Especially If You’re on Basal
   Insulin and Over 70
 slug: >-
   dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70
-description: >-
+description: 'Long-acting insulin (basal insulin) works 18-24 hours regardless of meals; adults 70+ who skip breakfast face low blood sugar (hypoglycemia) by mid-morning.'
   Explains how overnight insulin action + delayed first meal triggers
   counter-regulatory hormone surges, increasing risk of both hypoglycemia and
   rebound hyperglycemia.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: skipping breakfast new year basal insulin
+updated: '2026-03-27'
+primaryKeyword: 'skipping breakfast basal insulin hypoglycemia risk seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

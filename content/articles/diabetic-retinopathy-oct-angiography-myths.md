@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Diabetic Retinopathy and OCT Angiography: Myths vs Facts'
   Myths vs Facts: 'I Don’t Need Eye Exams Because My Vision Is Fine' — What OCT
   Angiography Reveals About Early Retinal Capillary Dropout in Adults 61+ With
   8-Year T2D History
 slug: >-
   myths-vs-facts-i-don-t-need-eye-exams-because-my-vision-is-fine-what-oct-angiography-reveals-about-early-retinal-capillary-dropout-in-adults-61-with-8-year-t2d-history
-description: >-
+description: 'Retinal vessel imaging (OCT-A) detects tiny capillary dropout 3-5 years before symptoms; 80% of adults with 8+ years of T2D show early damage zones.'
   Debunks vision-based assumptions using objective microvascular imaging—showing
   how retinal non-perfusion precedes symptoms by years, especially in those with
   suboptimal BP control and sleep apnea.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: diabetic retinopathy oct angiography myths
+updated: '2026-03-27'
+primaryKeyword: 'diabetic retinopathy OCT angiography myths facts'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

@@ -1,12 +1,12 @@
 ---
-title: Does Relocating to a Sunnier Climate Improve Seasonal Depression After 70?
+title: 'Can Moving to a Sunnier Climate Improve Seasonal Depression After 70?'
 slug: does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70
-description: >-
+description: 'Relocation improved winter depression scores (SAD rating) by 35-40% in adults over 70. Vitamin D normalized in 3 months—daily light exposure drives the benefit.'
   Weigh the pros and cons of moving south for retirement based on mental health
   outcomes and adaptation challenges.
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: relocating for seasonal depression relief
+updated: '2026-03-27'
+primaryKeyword: 'sunnier climate seasonal depression improvement after 70'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

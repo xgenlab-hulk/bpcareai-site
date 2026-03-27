@@ -1,12 +1,12 @@
 ---
-title: 'Blood Pressure Changes During Menopause: What Women Should Know'
+title: 'Why Blood Pressure Rises During Menopause: A Guide for Women Over 50'
 slug: blood-pressure-changes-during-menopause-what-women-should-know
-description: >-
+description: 'Estrogen loss cuts vessel-relaxing gas (nitric oxide) and stiffens arteries, raising systolic BP 5-10 mm Hg. Two-thirds of women over 60 develop hypertension.'
   Understand how hormonal shifts in menopause influence blood pressure and what
   lifestyle adjustments can help manage it.
 date: '2025-11-26'
-updated: '2025-11-26'
-primaryKeyword: menopause and blood pressure changes
+updated: '2026-03-27'
+primaryKeyword: 'menopause and blood pressure changes in women over 50'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

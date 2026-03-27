@@ -1,12 +1,12 @@
 ---
-title: Can Meditation Reduce Heart Disease Risk After 50?
+title: 'Can Meditation Reduce Heart Disease Risk After 50?'
 slug: can-meditation-reduce-heart-disease-risk-after-50
-description: >-
+description: 'Regular mindfulness lowers systolic BP 4-5 mmHg and reduces inflammation marker (C-reactive protein), tied to plaque buildup. Even 10-15 daily minutes helps.'
   Explore how mindfulness practices may lower stress hormones and improve heart
   outcomes in middle-aged and older adults.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: meditation and heart disease prevention after 50
+updated: '2026-03-27'
+primaryKeyword: 'how does meditation reduce heart disease risk after 50'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

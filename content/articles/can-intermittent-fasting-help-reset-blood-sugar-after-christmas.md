@@ -1,12 +1,12 @@
 ---
-title: Can Intermittent Fasting Help Reset Blood Sugar After Christmas?
+title: 'Can Intermittent Fasting Reset Blood Sugar After Christmas?'
 slug: can-intermittent-fasting-help-reset-blood-sugar-after-christmas
-description: >-
+description: 'Holiday overeating cuts sugar processing (insulin sensitivity) up to 30% within 5-7 days in older adults. A 12:12 fasting pattern is the safest reset strategy.'
   Evaluates the safety and effectiveness of short-term fasting strategies for
   recovering metabolic balance post-holiday.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: intermittent fasting after christmas
+updated: '2026-03-27'
+primaryKeyword: 'reset blood sugar after holiday overeating with fasting'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

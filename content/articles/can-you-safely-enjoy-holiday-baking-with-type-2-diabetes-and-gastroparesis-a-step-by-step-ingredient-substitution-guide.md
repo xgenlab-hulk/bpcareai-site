@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Holiday Baking With Type 2 Diabetes and Gastroparesis: A Guide'
   Can You Safely Enjoy Holiday Baking With Type 2 Diabetes and Gastroparesis? A
   Step-by-Step Ingredient Substitution Guide
 slug: >-
   can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
-description: >-
+description: 'Slow stomach emptying (gastroparesis) affects 30-50% of long-standing type 2 diabetes. Meals over 10 g fat delay digestion 25-40%. Low-FODMAP swaps help.'
   A practical, gastroenterology-informed protocol for modifying traditional
   cookie, pie, and bread recipes using low-FODMAP, low-viscosity, and
   enzymatically pre-digested ingredients to prevent delayed gastric emptying.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: holiday baking for gastroparesis diabetes
+updated: '2026-03-27'
+primaryKeyword: 'holiday baking with type 2 diabetes and gastroparesis'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

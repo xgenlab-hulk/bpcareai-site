@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can Morning Light Before 8 a.m. Reduce Nighttime BP Surges?'
   Can Morning Light Exposure Before 8 a.m. Reduce Nocturnal Systolic BP Surges
   in Adults With Stage 1 Hypertension and Mild Sleep Apnea?
 slug: >-
   can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
-description: >-
+description: 'Non-dipping nighttime BP (nocturnal hypertension) raises cardiac risk 20% despite normal daytime readings. Morning light helps restore healthy BP dipping.'
   Reviews emerging chronobiology trials showing timed bright-light exposure
   resets circadian BP rhythm, dampens sympathetic nocturnal activity, and
   improves dipping status—without medication adjustments.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: morning light exposure nocturnal blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'morning light exposure and nighttime blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

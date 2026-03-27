@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can You Eat Latkes With Stage 2 CKD? A Kidney-Friendly Guide'
   Can You Eat Traditional Latkes While Managing Stage 2 CKD? A
   Nephrologist-Reviewed Ingredient Swap Guide
 slug: >-
   can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
-description: >-
+description: 'At stage 2 CKD, kidney filtering rate (eGFR 60-89%) means organs respond to minerals before symptoms start. Latkes use high-potassium potatoes—swaps help.'
   Step-by-step modification of classic potato pancakes for adults with early
   chronic kidney disease—focusing on potassium, phosphorus, and sodium control
   without sacrificing flavor or cultural meaning.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: kidney-friendly latkes stage 2 ckd
+updated: '2026-03-27'
+primaryKeyword: 'can I eat latkes with stage 2 CKD kidney disease'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

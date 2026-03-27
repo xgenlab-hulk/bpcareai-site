@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can Intermittent Fasting Lower Blood Pressure Without Weight Loss?'
   Can Intermittent Fasting Lower Blood Pressure Without Weight Loss? What the
   Latest Trials Show
 slug: >-
   can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
-description: >-
+description: 'The TRE-HEART trial: a 16:8 eating window dropped 24-hour BP monitoring (ambulatory BP) by 6.1/3.2 mmHg in adults with stage 1 hypertension—no weight loss.'
   Analyzes fasting-mimicking diets and 16:8 protocols in normoweight
   hypertensives—focusing on circadian BP rhythm restoration, aldosterone
   modulation, and renal sodium handling.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: intermittent fasting blood pressure no weight loss
+updated: '2026-03-27'
+primaryKeyword: 'intermittent fasting lower blood pressure no weight loss'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

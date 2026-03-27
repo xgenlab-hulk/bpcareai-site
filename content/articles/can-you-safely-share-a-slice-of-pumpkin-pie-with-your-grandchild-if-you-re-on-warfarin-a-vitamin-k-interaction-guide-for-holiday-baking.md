@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can You Share Pumpkin Pie on Warfarin? A Vitamin K Guide'
   Can You Safely Share a Slice of Pumpkin Pie With Your Grandchild If You’re on
   Warfarin? A Vitamin K Interaction Guide for Holiday Baking
 slug: >-
   can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
-description: >-
+description: 'Pumpkin flesh has only 1-2 mcg vitamin K—herb toppings carry the real risk. Blood thinner (warfarin) users should stay within 25 mcg of their daily K baseline.'
   Explains phylloquinone variability in pumpkin varieties, crust ingredients,
   and topping choices—and provides a ‘K-safe’ pie scoring tool for patients on
   anticoagulants.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: "health management holiday seniors"
+updated: '2026-03-27'
+primaryKeyword: 'pumpkin pie on warfarin vitamin K interaction'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

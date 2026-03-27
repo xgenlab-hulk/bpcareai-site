@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Cranberry Sauce and Urinary pH in Men Over 70 With Recurrent UTIs'
   Does Leftover Cranberry Sauce Really Lower Post-Meal Urinary pH in Men Over 70
   With Recurrent UTIs?
 slug: >-
   does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
-description: >-
+description: 'Cranberry sauce delivers 5-15 mg PACs (anti-adhesion compounds) and rarely drops urinary pH below 5.5—far below the UTI prevention threshold in older men.'
   Reviews proanthocyanidin bioavailability, gastric pH interference, and urinary
   acidification efficacy of homemade vs commercial cranberry preparations in
   aging male urinary tracts.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: "diet management post-meal over 70"
+updated: '2026-03-27'
+primaryKeyword: 'cranberry sauce urinary pH UTI men over 70'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

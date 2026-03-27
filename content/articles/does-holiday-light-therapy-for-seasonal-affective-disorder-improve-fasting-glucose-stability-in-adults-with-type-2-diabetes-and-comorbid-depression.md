@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Light Therapy for SAD and Fasting Glucose With Type 2 Diabetes'
   Does Holiday Light Therapy for Seasonal Affective Disorder Improve Fasting
   Glucose Stability in Adults With Type 2 Diabetes and Comorbid Depression?
 slug: >-
   does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
-description: >-
+description: 'Morning light therapy (10,000 lux, 30 min) cut fasting glucose variability by 15% over 6 weeks in adults with T2D and SAD (seasonal affective disorder).'
   Reviews a 2024 RCT assessing morning 10,000-lux exposure on insulin secretion
   pulsatility, melatonin phase shift, and overnight glucose variability in 89
   participants.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: light therapy fasting glucose type 2 diabetes
+updated: '2026-03-27'
+primaryKeyword: 'light therapy seasonal depression fasting glucose diabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Why Lymphedema Causes False Low Blood Pressure Readings in Seniors'
   Warning Signs Your Home Blood Pressure Monitor Is Giving False-Low Readings
   Due to Arm Cuff Misalignment — Especially If You Have Lymphedema or
   Post-Mastectomy Swelling
 slug: >-
   warning-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-due-to-arm-cuff-misalignment-especially-if-you-have-lymphedema-or-post-mastectomy-swelling
-description: >-
+description: 'Lymphedema (lymph fluid swelling) compresses cuff-artery contact, producing falsely low readings of 10-20 mm Hg. Repositioning the limb restores accuracy.'
   Identifies cuff fit errors, tissue density interference, and oscillometric
   algorithm limitations in patients with asymmetric upper limb volume — plus
   validation protocols.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: false low blood pressure readings lymphedema
+updated: '2026-03-27'
+primaryKeyword: 'false low blood pressure readings lymphedema seniors'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

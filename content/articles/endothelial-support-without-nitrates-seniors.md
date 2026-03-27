@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Supporting Endothelial Health Without Nitrates in Seniors'
   5 Foods That Support Endothelial Nitric Oxide Bioavailability *Without*
   Increasing Dietary Nitrates — For Adults 66+ With Gastric Atrophy and Low
   Intrinsic Factor
 slug: >-
   5-foods-that-support-endothelial-nitric-oxide-bioavailability-without-increasing-dietary-nitrates-for-adults-66-with-gastric-atrophy-and-low-intrinsic-factor
-description: >-
+description: 'L-citrulline and quercetin boost eNOS (nitric oxide synthase) without nitrate-related headache or tolerance—safer options for older adults with hypertension.'
   Highlights nitrate-independent endothelial support foods (e.g., pomegranate,
   hawthorn, cocoa flavanols) optimized for seniors with atrophic gastritis and
   suboptimal nitrate reduction capacity.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: endothelial support without nitrates seniors
+updated: '2026-03-27'
+primaryKeyword: 'support endothelial health without nitrates seniors'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

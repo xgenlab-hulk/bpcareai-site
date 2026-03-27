@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Footwear Modifications for Charcot Foot in Seniors With Diabetes'
   Best Footwear Modifications for Adults With Diabetes and Charcot
   Arthropathy—Based on Dynamic Pressure Mapping and 3D Gait Analysis in 92
   Patients Over 65
 slug: >-
   best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
-description: >-
+description: 'Custom rocker-bottom soles with pressure-mapped insoles cut peak foot pressure (plantar loading) by 41% in 92 patients with diabetic bone changes.'
   Details custom offloading strategies, rocker-bottom geometry parameters, and
   in-shoe sensor feedback systems proven to reduce peak plantar pressure by
   ≥41%.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: "diabetes management over 65"
+updated: '2026-03-27'
+primaryKeyword: 'Charcot arthropathy footwear modifications diabetes seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

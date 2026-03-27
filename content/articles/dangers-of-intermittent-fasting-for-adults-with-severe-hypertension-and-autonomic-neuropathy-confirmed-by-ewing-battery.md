@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why Intermittent Fasting Is Risky With Autonomic Neuropathy'
   Dangers of Intermittent Fasting for Adults With Severe Hypertension and
   Autonomic Neuropathy Confirmed by Ewing Battery
 slug: >-
   dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
-description: >-
+description: 'Adults with nerve-damaged BP control (autonomic neuropathy) face 3x higher drop-on-standing risk (orthostatic hypotension) during fasting windows.'
   Highlights risks of exaggerated BP lability, delayed gastric emptying–driven
   postprandial hypotension, and syncopal episodes during fasting windows in this
   vulnerable group.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: intermittent fasting autonomic neuropathy severe hypertension
+updated: '2026-03-27'
+primaryKeyword: 'intermittent fasting risks autonomic neuropathy hypertension'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

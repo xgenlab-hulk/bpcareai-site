@@ -1,12 +1,12 @@
 ---
-title: Can Intermittent Fasting Help Manage Type 2 Diabetes After 60?
+title: 'Can Intermittent Fasting Help Manage Type 2 Diabetes After 60?'
 slug: can-intermittent-fasting-help-manage-type-2-diabetes-after-60
-description: >-
+description: 'Time-restricted eating may reduce blood sugar marker (HbA1c) by 0.5% in type 2 diabetes, but insulin and sulfonylurea users face low blood sugar risk after 60.'
   Weigh the pros and cons of time-restricted eating for seniors managing blood
   sugar levels.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: intermittent fasting for type 2 diabetes over 60
+updated: '2026-03-27'
+primaryKeyword: 'intermittent fasting for type 2 diabetes after 60'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

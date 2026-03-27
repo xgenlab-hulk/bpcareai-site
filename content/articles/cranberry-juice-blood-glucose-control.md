@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Cranberry Juice and Blood Glucose Control: What Seniors Should Know'
   Does Cranberry Juice Really Worsen Blood Glucose Control in Adults 71+ With
   Diabetes and Recurrent UTIs? — Separating Proanthocyanidin Benefits From
   Fructose-Driven Endotoxin Translocation
 slug: >-
   does-cranberry-juice-really-worsen-blood-glucose-control-in-adults-71-with-diabetes-and-recurrent-utis-separating-proanthocyanidin-benefits-from-fructose-driven-endotoxin-translocation
-description: >-
+description: 'Unsweetened cranberry juice lowered fasting blood sugar (fasting glucose) by 4-6 mg/dL in small trials; added sugar in store brands offsets these benefits.'
   Analyzes urinary microbiome shifts, LPS serum levels, and postprandial glucose
   curves in a crossover trial of unsweetened vs. juice-based cranberry
   interventions in older adults with recurrent UTIs.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: cranberry juice blood glucose control
+updated: '2026-03-27'
+primaryKeyword: 'cranberry juice blood glucose control seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

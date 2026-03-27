@@ -1,15 +1,15 @@
 ---
-title: >-
+title: 'Sharing a Holiday Meal: One Has CKD, the Other Hypertension'
   Can You Safely Share a Single Holiday Meal Plate With a Spouse Who Has Stage 3
   CKD While You’re Managing Hypertension?
 slug: >-
   can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
-description: >-
+description: 'Reduced kidney function (stage 3 CKD) restricts potassium; high blood pressure benefits from it. Sodium spikes raise systolic BP 5-10 mmHg in both conditions.'
   Evaluates shared-plate risks—including sodium, potassium, and phosphate load
   mismatches—and offers practical co-meal strategies for mixed-diet households.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: shared holiday meal hypertension ck3
+updated: '2026-03-27'
+primaryKeyword: 'sharing holiday meals CKD and hypertension couple'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

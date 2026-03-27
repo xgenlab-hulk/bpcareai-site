@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Does Holiday Weight Gain Predict 1-Year Cardiovascular Risk After 58?'
   Does Holiday Weight Gain Predict 1-Year Cardiovascular Risk in Adults With
   Metabolic Syndrome Over 58?
 slug: >-
   does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
-description: >-
+description: 'Even 1-2 kg of holiday weight gain raised heart event risk (cardiovascular events) 9% in adults over 58 with metabolic syndrome per a 2023 cohort study.'
   Synthesizes longitudinal data linking seasonal weight fluctuations (≥2.5 kg)
   to accelerated carotid intima-media thickness progression—and when
   intervention changes long-term outcomes.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: holiday weight gain cardiovascular risk
+updated: '2026-03-27'
+primaryKeyword: 'holiday weight gain cardiovascular risk after 58'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

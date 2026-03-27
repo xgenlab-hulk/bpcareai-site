@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Holiday Scented Candles and Blood Sugar in Adults Over 65'
   Does Daily Use of Holiday-Scented Candles Alter Postprandial Insulin
   Sensitivity via TRPA1 Channel Activation in Adults 65+ With Obesity and T2D?
 slug: >-
   does-daily-use-of-holiday-scented-candles-alter-postprandial-insulin-sensitivity-via-trpa1-channel-activation-in-adults-65-with-obesity-and-t2d
-description: >-
+description: 'Cinnamon candles activate TRPA1 channels (cold/irritant nerve receptors), which may alter insulin sensitivity. Smoke inhalation risk outweighs any benefit.'
   Investigates emerging evidence linking volatile organic compounds (e.g.,
   cinnamaldehyde, eugenol) in seasonal fragrances to transient TRP
   channel-mediated inflammation, adipose tissue IRF3 signaling, and acute
   insulin resistance.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: scented candles insulin sensitivity
+updated: '2026-03-27'
+primaryKeyword: 'holiday candles insulin sensitivity diabetes seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

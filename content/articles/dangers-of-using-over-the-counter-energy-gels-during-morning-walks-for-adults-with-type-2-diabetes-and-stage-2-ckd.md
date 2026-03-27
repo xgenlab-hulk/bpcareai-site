@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why OTC Energy Gels Are Risky for Walkers With Diabetes and CKD'
   Dangers of Using Over-the-Counter 'Energy Gels' During Morning Walks for
   Adults With Type 2 Diabetes and Stage 2 CKD
 slug: >-
   dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd
-description: >-
+description: 'Most energy gels pack 20-25 g simple carbs; in adults with type 2 diabetes and reduced kidney function (stage 2 CKD), rapid glucose spikes impair filtration.'
   Details phosphate load, maltodextrin-driven glucose variability, and potassium
   content risks—plus safer alternatives validated in renal-metabolic crossover
   trials.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: energy gels diabetes stage 2 ckd
+updated: '2026-03-27'
+primaryKeyword: 'energy gels morning walks diabetes CKD dangers'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

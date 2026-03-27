@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Managing Blood Pressure on Long-Haul Flights for Seniors Over 68'
   The Complete Guide to Managing Blood Pressure During Long-Haul Flights —
   Practical Strategies for Adults 68+ With Mild CKD and Mild Orthostatic
   Intolerance
 slug: >-
   the-complete-guide-to-managing-blood-pressure-during-long-haul-flights-practical-strategies-for-adults-68-with-mild-ckd-and-mild-orthostatic-intolerance
-description: >-
+description: 'Cabin altitude, low humidity, and sitting activate the BP hormone system (RAAS) in adults 68+ with mild CKD. Covers hydration timing and med tips.'
   Covers cabin pressure effects on RAAS, hydration timing, compression garment
   selection, in-seat movement protocols, and pre-flight medication adjustments.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: blood pressure on long haul flights seniors
+updated: '2026-03-27'
+primaryKeyword: 'how to manage blood pressure on long flights over 68'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,15 +1,15 @@
 ---
-title: >-
+title: 'Can Fasting Reduce LDL Particle Count With Familial High Cholesterol?'
   Can Intermittent Fasting Lower LDL-Particle Count in Men With Familial
   Hypercholesterolemia Over 50?
 slug: >-
   can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
-description: >-
+description: '16:8 fasting cut harmful cholesterol particles (LDL-P) 7.2% in men over 50 with inherited high cholesterol on statins—more telling than LDL-C per NMR data.'
   Examines emerging evidence on IF protocols (16:8 vs. 5:2) and their impact on
   atherogenic particle metrics—not just total LDL—in genetically high-risk men.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: intermittent fasting LDL particle count men
+updated: '2026-03-27'
+primaryKeyword: 'intermittent fasting LDL particle count men over 50'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

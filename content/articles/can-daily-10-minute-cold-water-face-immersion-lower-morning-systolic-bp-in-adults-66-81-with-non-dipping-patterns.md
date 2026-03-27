@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Cold Face Immersion for Morning BP in Non-Dipping Adults 66-81'
   Can Daily 10-Minute Cold-Water Face Immersion Lower Morning Systolic BP in
   Adults 66–81 With Non-Dipping Patterns?
 slug: >-
   can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
-description: >-
+description: '40% of adults 65+ have non-dipping BP — systolic stays high overnight. Cold face immersion activates the calming nerve branch (vagal tone) each morning.'
   Reviews emerging evidence on trigeminal–vagal stimulation, HRV improvement,
   and morning BP blunting—using home-based thermal biofeedback protocols and
   validated devices.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: cold face immersion morning blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'cold face immersion to lower morning blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

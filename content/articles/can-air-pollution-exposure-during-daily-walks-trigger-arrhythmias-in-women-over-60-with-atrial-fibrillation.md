@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can Air Pollution During Daily Walks Trigger AFib in Women Over 60?'
   Can Air Pollution Exposure During Daily Walks Trigger Arrhythmias in Women
   Over 60 with Atrial Fibrillation?
 slug: >-
   can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
-description: >-
+description: 'A 10 ug/m3 PM2.5 rise increases irregular heartbeat episodes (AFib burden) 17% in older women. ECG links urban air quality to nocturnal arrhythmia.'
   Reviews real-time ECG monitoring studies linking PM2.5 spikes to increased
   AFib burden and nocturnal QT prolongation in older women with established
   arrhythmia.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: air pollution and afib in women over 60
+updated: '2026-03-27'
+primaryKeyword: 'air pollution and AFib risk during outdoor walks women 60'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

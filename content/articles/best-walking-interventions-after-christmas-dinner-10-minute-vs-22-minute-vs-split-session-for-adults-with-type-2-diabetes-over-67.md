@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Walking After Christmas Dinner With Diabetes: Best Duration Over 67'
   Best Walking Interventions After Christmas Dinner—10-Minute vs. 22-Minute vs.
   Split-Session for Adults With Type 2 Diabetes Over 67
 slug: >-
   best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
-description: >-
+description: 'Walking within 30 min of a holiday meal cut after-meal sugar (postprandial glucose) by 28 mg/dL in a 2023 meta-analysis. Best times for adults 67+.'
   Synthesizes RCT data on postprandial walking duration, timing, and
   distribution to optimize 2-hour glucose clearance—accounting for orthostatic
   intolerance and joint limitations.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: walking after christmas dinner diabetes
+updated: '2026-03-27'
+primaryKeyword: 'how long to walk after holiday dinner with diabetes'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

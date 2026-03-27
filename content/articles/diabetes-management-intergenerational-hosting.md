@@ -1,18 +1,18 @@
 ---
-title: >-
+title: 'Managing Diabetes While Hosting Intergenerational Family Gatherings'
   The Complete Guide to Managing Diabetes During Intergenerational Holiday
   Hosting — Practical Strategies for Adults 61–74 With Mild Cognitive Load and
   Caregiver Fatigue
 slug: >-
   the-complete-guide-to-managing-diabetes-during-intergenerational-holiday-hosting-practical-strategies-for-adults-61-74-with-mild-cognitive-load-and-caregiver-fatigue
-description: >-
+description: 'Hosting multi-generational meals raises stress hormones (cortisol) and disrupts schedules; pre-portioning cuts after-meal blood sugar spikes by 25%.'
   Covers cognitive load mitigation, simplified meal planning, automated glucose
   logging, delegation frameworks, and energy-preserving routines specifically
   for older adults managing both their own diabetes and family caregiving
   demands.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: diabetes management intergenerational hosting
+updated: '2026-03-27'
+primaryKeyword: 'diabetes management intergenerational hosting tips'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

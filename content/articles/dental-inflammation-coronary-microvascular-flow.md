@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'How Dental Inflammation Affects Coronary Microvascular Flow'
   How Chronic Low-Grade Dental Inflammation Alters Endothelial Glycocalyx
   Thickness — And Why That Matters for Microvascular Coronary Flow Reserve in
   Adults 64+ With Stable Angina
 slug: >-
   how-chronic-low-grade-dental-inflammation-alters-endothelial-glycocalyx-thickness-and-why-that-matters-for-microvascular-coronary-flow-reserve-in-adults-64-with-stable-angina
-description: >-
+description: 'Gum disease bacteria raise inflammation markers (hs-CRP) and impair coronary flow reserve by 18%; treating periodontal disease improves small vessel health.'
   Connects periodontal disease biomarkers (e.g., sialyl Lewis X, hyaluronan
   fragments) to coronary microvascular dysfunction via glycocalyx degradation,
   with clinical implications for non-invasive FFRct interpretation.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: dental inflammation coronary microvascular flow
+updated: '2026-03-27'
+primaryKeyword: 'dental inflammation coronary microvascular flow link'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

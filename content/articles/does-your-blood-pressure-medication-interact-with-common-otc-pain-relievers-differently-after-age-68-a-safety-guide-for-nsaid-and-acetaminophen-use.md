@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'BP Medication and OTC Pain Reliever Interactions After Age 68'
   Does Your Blood Pressure Medication Interact With Common OTC Pain Relievers
   *Differently* After Age 68? A Safety Guide for NSAID and Acetaminophen Use
 slug: >-
   does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
-description: >-
+description: 'NSAIDs blunt BP drugs (ACE inhibitors, diuretics), raising systolic 3-5 mm Hg. After 68, reduced kidney clearance amplifies risk—use acetaminophen instead.'
   Clarifies age-specific pharmacokinetic shifts: reduced renal clearance of ARBs
   with ibuprofen, COX-2 selectivity pitfalls with celecoxib, and why
   acetaminophen’s BP effect intensifies in frail older adults with hepatic phase
   II decline.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: bp medication otc pain reliever interactions over 68
+updated: '2026-03-27'
+primaryKeyword: 'BP medication OTC pain reliever interactions seniors'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

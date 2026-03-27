@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Earliest Biomarkers of Beta Cell Stress Before Type 2 Diabetes'
   What Are the Earliest Blood Biomarkers of Pancreatic Beta-Cell Stress *Before*
   Fasting Glucose Rises — For Adults 52–59 With Strong Family History and Normal
   Weight?
 slug: >-
   what-are-the-earliest-blood-biomarkers-of-pancreatic-beta-cell-stress-before-fasting-glucose-rises-for-adults-52-59-with-strong-family-history-and-normal-weight
-description: >-
+description: 'Proinsulin:C-peptide ratio above 0.05 and elevated fasting GIP signal beta cell stress (insulin-producing cell strain) up to 10 years before diabetes diagnosis.'
   Highlights emerging markers (proinsulin/C-peptide ratio, unmethylated INS DNA,
   GAD65 epitope profiles) and contextualizes them with lifestyle triggers—aimed
   at true pre-prediabetes risk stratification.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: earliest biomarkers beta cell stress
+updated: '2026-03-27'
+primaryKeyword: 'earliest biomarkers beta cell stress diabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

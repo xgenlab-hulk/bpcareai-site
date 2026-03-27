@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Holiday Caffeine and Restless Legs Syndrome in Seniors'
   Does Holiday Caffeine From Spiced Chai or Eggnog Really Worsen Nocturnal
   Myoclonus in Seniors With Restless Legs Syndrome?
 slug: >-
   does-holiday-caffeine-from-spiced-chai-or-eggnog-really-worsen-nocturnal-myoclonus-in-seniors-with-restless-legs-syndrome
-description: >-
+description: 'Spiced chai and eggnog each contain 40-80 mg caffeine. Evening doses worsen nocturnal myoclonus (leg jerks) in seniors with restless legs syndrome.'
   Examines caffeine metabolite half-life extension in aging livers, its
   interaction with iron transport proteins, and why even 'decaf' spiced
   beverages may trigger RLS exacerbation in iron-deficient older adults.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: holiday caffeine restless legs seniors
+updated: '2026-03-27'
+primaryKeyword: 'caffeine holiday drinks restless legs syndrome seniors'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

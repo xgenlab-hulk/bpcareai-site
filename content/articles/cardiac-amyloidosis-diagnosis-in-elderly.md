@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Diagnosing Cardiac Amyloidosis in Elderly Adults With Unexplained LVH'
   When Should You Suspect Cardiac Amyloidosis in Adults Over 72 With Unexplained
   Left Ventricular Hypertrophy—And Which Biomarkers Add Value Beyond NT-proBNP?
 slug: >-
   when-should-you-suspect-cardiac-amyloidosis-in-adults-over-72-with-unexplained-left-ventricular-hypertrophy-and-which-biomarkers-add-value-beyond-nt-probnp
-description: >-
+description: '15-20% of adults over 72 with unexplained heart wall thickening (LVH) and normal pumping have cardiac amyloidosis. Bone scan differentiates ATTR from AL type.'
   Outlines a stepwise diagnostic algorithm—including serum free light chains,
   bone scintigraphy specificity adjustments, and strain echo patterns—to
   differentiate AL from ATTR in elderly patients with preserved EF and LVH.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: cardiac amyloidosis diagnosis in elderly
+updated: '2026-03-27'
+primaryKeyword: 'cardiac amyloidosis diagnosis in elderly patients'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'CGM Accuracy During Holiday Travel: What Seniors Need to Know'
   Why Your CGM Alarms Are Less Reliable During Holiday Travel — Sensor Accuracy
   Drift from Altitude, Humidity, and Checked-Luggage Temperature Swings in
   Adults 66+ With Frequent Air Travel
 slug: >-
   why-your-cgm-alarms-are-less-reliable-during-holiday-travel-sensor-accuracy-drift-from-altitude-humidity-and-checked-luggage-temperature-swings-in-adults-66-with-frequent-air-travel
-description: >-
+description: 'Altitude and temperature swings shift glucose monitor (CGM) readings by 10-18%; recalibrate sensors and adjust placement for safer holiday travel.'
   Investigates real-world sensor performance degradation across flight phases,
   including pressure-related enzyme denaturation in glucose oxidase strips and
   humidity-induced calibration drift in factory-calibrated models.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: cgm accuracy holiday travel
+updated: '2026-03-27'
+primaryKeyword: 'CGM accuracy during holiday travel seniors'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

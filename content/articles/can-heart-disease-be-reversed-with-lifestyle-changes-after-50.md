@@ -1,12 +1,12 @@
 ---
-title: Can Heart Disease Be Reversed with Lifestyle Changes After 50?
+title: 'Can Heart Disease Be Reversed After 50? What the Evidence Shows'
 slug: can-heart-disease-be-reversed-with-lifestyle-changes-after-50
-description: >-
+description: 'The Lifestyle Heart Trial showed blockage reversal (coronary stenosis regression) in adults who changed diet and exercise—results hold after age 50.'
   Explore whether adopting healthier habits later in life can slow or reverse
   the progression of heart disease in adults over 50.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: reversing heart disease after 50
+updated: '2026-03-27'
+primaryKeyword: 'can heart disease be reversed after 50'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

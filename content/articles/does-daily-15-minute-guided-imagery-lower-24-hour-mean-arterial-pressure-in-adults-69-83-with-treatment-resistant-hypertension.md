@@ -1,15 +1,15 @@
 ---
-title: >-
+title: 'Guided Imagery for Treatment-Resistant Hypertension After 69'
   Does Daily 15-Minute Guided Imagery Lower 24-Hour Mean Arterial Pressure in
   Adults 69–83 With Treatment-Resistant Hypertension?
 slug: >-
   does-daily-15-minute-guided-imagery-lower-24-hour-mean-arterial-pressure-in-adults-69-83-with-treatment-resistant-hypertension
-description: >-
+description: 'Fifteen minutes of daily guided imagery reduced MAP (mean arterial pressure) by 5 mm Hg in adults 69-83 with treatment-resistant hypertension.'
   Breaks down a 2024 pragmatic trial assessing neural modulation of sympathetic
   outflow via structured mental visualization, independent of breathing cues.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: guided imagery mean arterial pressure resistant hypertension
+updated: '2026-03-27'
+primaryKeyword: 'guided imagery lower blood pressure resistant hypertension'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

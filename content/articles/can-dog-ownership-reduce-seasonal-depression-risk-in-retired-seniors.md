@@ -1,12 +1,12 @@
 ---
-title: Can Dog Ownership Reduce Seasonal Depression Risk in Retired Seniors?
+title: 'Can Dog Ownership Reduce Seasonal Depression Risk in Retired Seniors?'
 slug: can-dog-ownership-reduce-seasonal-depression-risk-in-retired-seniors
-description: >-
+description: 'Dog owners get 30-45 extra minutes of winter light — supporting mood chemistry (serotonin) and circadian rhythm, reducing isolation-driven seasonal depression.'
   Assess how pet companionship and daily walks influence mental health and light
   exposure in winter months.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: pet ownership and seasonal depression
+updated: '2026-03-27'
+primaryKeyword: 'does owning a dog help seasonal depression in seniors'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

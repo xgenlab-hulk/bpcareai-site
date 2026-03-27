@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why Coconut Water Is Risky With HFpEF and Low Kidney Function'
   Dangers of Using 'Heart-Healthy' Coconut Water Electrolyte Drinks During Hot
   Weather for Adults With HFpEF and eGFR 45–59
 slug: >-
   dangers-of-using-heart-healthy-coconut-water-electrolyte-drinks-during-hot-weather-for-adults-with-hfpef-and-egfr-45-59
-description: >-
+description: 'One cup of coconut water delivers 600 mg potassium; adults with stiff-heart failure (HFpEF) and kidney filtering rate (eGFR) 45-59 risk potassium buildup.'
   Uncovers potassium overload risks, osmotic shifts, and RAAS overactivation
   triggered by high-potassium, low-sodium coconut water in decompensating
   HFpEF—especially during summer heat stress and diuretic use.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: coconut water hfpef kidney function risk
+updated: '2026-03-27'
+primaryKeyword: 'coconut water electrolytes HFpEF CKD heat risk'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

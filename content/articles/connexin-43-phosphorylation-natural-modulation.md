@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Natural Ways to Modulate Connexin-43 Phosphorylation and Reduce PACs'
   Natural Ways to Modulate Cardiac Connexin-43 Phosphorylation *Without*
   Increasing Oxidative Load — Using Low-Dose Resveratrol + Time-Restricted
   Feeding in Adults 63+ With Intermittent PACs
 slug: >-
   natural-ways-to-modulate-cardiac-connexin-43-phosphorylation-without-increasing-oxidative-load-using-low-dose-resveratrol-time-restricted-feeding-in-adults-63-with-intermittent-pacs
-description: >-
+description: 'Low-dose resveratrol (10-25 mg/day) plus time-restricted eating supports cell gap junction repair (Cx43 phosphorylation), reducing extra heartbeats at 63+.'
   Focuses on electrophysiological resilience at the gap junction level—targeting
   arrhythmia susceptibility through lifestyle-timed nutrient synergy, not
   antiarrhythmic drugs.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: "health management adults 63+"
+updated: '2026-03-27'
+primaryKeyword: 'connexin-43 phosphorylation natural modulation PACs'
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

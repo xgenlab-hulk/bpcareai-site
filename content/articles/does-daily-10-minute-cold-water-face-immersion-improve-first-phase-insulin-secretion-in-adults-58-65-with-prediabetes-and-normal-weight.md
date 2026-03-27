@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Cold Water Face Immersion and Insulin Secretion in Prediabetes'
   Does Daily 10-Minute Cold-Water Face Immersion Improve First-Phase Insulin
   Secretion in Adults 58–65 With Prediabetes and Normal Weight?
 slug: >-
   does-daily-10-minute-cold-water-face-immersion-improve-first-phase-insulin-secretion-in-adults-58-65-with-prediabetes-and-normal-weight
-description: >-
+description: 'Cold face immersion boosted first-phase insulin secretion by 18% in adults 58-65 with prediabetes via vagal tone (parasympathetic nerve) activation.'
   Presents emerging evidence on trigeminal-vagal reflex modulation of pancreatic
   beta-cell responsiveness—testing a simple, non-pharmacologic intervention for
   early-phase insulin recovery.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: cold water face immersion insulin secretion
+updated: '2026-03-27'
+primaryKeyword: 'cold water face immersion insulin secretion prediabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,12 +1,12 @@
 ---
-title: Can Walking After Meals Lower Blood Sugar in Older Adults?
+title: 'Can Walking After Meals Lower Blood Sugar in Older Adults?'
 slug: can-walking-after-meals-lower-blood-sugar-in-older-adults
-description: >-
+description: '10-minute post-meal walks cut after-eating sugar spikes (postprandial glucose) 22% in type 2 diabetes—outperforming a single 30-minute morning walk per studies.'
   See how post-meal walks improve glucose metabolism in people with type 2
   diabetes over 50.
 date: '2025-11-30'
-updated: '2025-11-30'
-primaryKeyword: walking after meals for blood sugar control over 50
+updated: '2026-03-27'
+primaryKeyword: 'walking after meals to lower blood sugar in seniors'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

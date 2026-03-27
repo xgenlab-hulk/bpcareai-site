@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Do Long-Term PPIs Raise Atrial Fibrillation Risk in Seniors With GERD?'
   Does Long-Term Use of PPIs Increase Risk of Atrial Fibrillation in Seniors
   With GERD?
 slug: >-
   does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
-description: >-
+description: 'Long-term PPI (proton pump inhibitor) use lowered magnesium and potassium, raising AFib risk by 20-25% in two large cohort studies of seniors with GERD.'
   Reviews meta-analyses on proton pump inhibitors, magnesium depletion, and AFib
   incidence—plus safer GERD management alternatives for older adults on
   anticoagulants.
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: PPIs atrial fibrillation risk seniors GERD
+updated: '2026-03-27'
+primaryKeyword: 'PPI use atrial fibrillation risk seniors GERD'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

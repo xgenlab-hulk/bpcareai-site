@@ -1,12 +1,12 @@
 ---
-title: 'Blood Pressure and Alcohol: How Much Is Too Much?'
+title: 'Blood Pressure and Alcohol: How Much Is Too Much After 50?'
 slug: blood-pressure-and-alcohol-how-much-is-too-much
-description: >-
+description: 'Two daily drinks raise systolic BP 2-4 mm Hg, tipping borderline BP (prehypertension) into Stage 1. Binge drinking spikes stroke risk 50% after age 50.'
   Get clear guidelines on alcohol consumption and its direct impact on blood
   pressure for middle-aged and older adults.
 date: '2025-12-06'
-updated: '2025-12-06'
-primaryKeyword: alcohol and blood pressure limits
+updated: '2026-03-27'
+primaryKeyword: 'how much alcohol is safe with high blood pressure over 50'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

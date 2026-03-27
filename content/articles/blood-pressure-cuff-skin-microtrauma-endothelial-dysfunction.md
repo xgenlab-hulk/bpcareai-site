@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'BP Cuff Skin Microtrauma and Vascular Risk in Elderly With Thin Skin'
   What Are the Earliest Signs Your Blood Pressure Monitor Is Causing Subclinical
   Skin Microtrauma — And Why That Accelerates Endothelial Dysfunction in Adults
   77+ With Thin, Fragile Skin?
 slug: >-
   what-are-the-earliest-signs-your-blood-pressure-monitor-is-causing-subclinical-skin-microtrauma-and-why-that-accelerates-endothelial-dysfunction-in-adults-77-with-thin-fragile-skin
-description: >-
+description: '30% of adults 75+ develop skin changes from BP cuff use. Repeated compression reduces nitric oxide and worsens endothelial dysfunction (artery lining damage).'
   Connects repeated cuff-induced microvascular injury to localized inflammation,
   nitric oxide quenching, and long-term arterial stiffness progression.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: blood pressure cuff skin microtrauma endothelial dysfunction
+updated: '2026-03-27'
+primaryKeyword: 'blood pressure cuff bruising elderly fragile skin'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

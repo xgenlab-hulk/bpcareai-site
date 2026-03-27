@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Can Dental Scaling Trigger Low Blood Sugar in Seniors?'
   When to Suspect 'Silent' Hypoglycemia During Routine Dental Scaling — And Why
   Gingival Blood Flow Changes Alter Interstitial Glucose Kinetics in Adults 69+
   With Hypoglycemia-Associated Autonomic Failure
 slug: >-
   when-to-suspect-silent-hypoglycemia-during-routine-dental-scaling-and-why-gingival-blood-flow-changes-alter-interstitial-glucose-kinetics-in-adults-69-with-hypoglycemia-associated-autonomic-failure
-description: >-
+description: 'Dental cleaning raises stress hormones and suppresses eating for hours; seniors 70+ on sugar-lowering pills (sulfonylureas) risk silent low glucose afterward.'
   Identifies hemodynamic shifts during periodontal instrumentation that mask
   neuroglycopenic symptoms and alter CGM lag time — with pre-procedure glucose
   stabilization protocols.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: dental scaling silent hypoglycemia seniors
+updated: '2026-03-27'
+primaryKeyword: 'dental scaling hypoglycemia risk seniors diabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

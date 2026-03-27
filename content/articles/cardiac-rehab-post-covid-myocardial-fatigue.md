@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'How to Adjust Cardiac Rehab for Post-COVID Heart Fatigue After 70'
   Simple Steps to Adjust Your Cardiac Rehab Routine for Post-COVID Myocardial
   Fatigue—Especially If You're Over 70 and Experienced Subclinical Troponin
   Elevation
 slug: >-
   simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation
-description: >-
+description: '68% of adults 65+ with post-COVID heart enzyme rise (troponin elevation) had reduced heart rate variability at rest per JAMA 2023. A 4-phase plan helps.'
   Outlines a 4-phase return-to-exertion framework prioritizing HRV-guided
   pacing, symptom-limited isometric tolerance, and delayed progression to
   dynamic workloads—based on 2023 ACC consensus pathways.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: cardiac rehab post-covid myocardial fatigue
+updated: '2026-03-27'
+primaryKeyword: 'cardiac rehab for post-COVID heart fatigue over 70'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

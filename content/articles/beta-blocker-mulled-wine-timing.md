@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Is One Glass of Mulled Wine Safe After an Evening Beta-Blocker?'
   Can You Safely Enjoy a Single Glass of Mulled Wine *After* Taking Your Evening
   Beta-Blocker? — Evidence-Based Timing Thresholds for Adults 59+ With
   Controlled Hypertension and Normal LVEF
 slug: >-
   can-you-safely-enjoy-a-single-glass-of-mulled-wine-after-taking-your-evening-beta-blocker-evidence-based-timing-thresholds-for-adults-59-with-controlled-hypertension-and-normal-lvef
-description: >-
+description: 'Beta-blockers and alcohol both slow heart rate (bradycardia risk) — timing overlap matters. Safe post-dose windows for one glass of wine after age 59.'
   Examines pharmacokinetic-pharmacodynamic overlap between beta-blockers and
   ethanol metabolites, providing precise post-dose windows for safe, low-dose
   alcohol exposure.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: "hypertension management adults 59+"
+updated: '2026-03-27'
+primaryKeyword: 'drinking wine safely after taking beta-blocker at night'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

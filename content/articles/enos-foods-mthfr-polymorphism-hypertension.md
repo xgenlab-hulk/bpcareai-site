@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Foods That Support eNOS With MTHFR Variants and Hypertension'
   12 Foods That Support Endothelial Nitric Oxide Synthase Activity *Without*
   Increasing Homocysteine — For Adults 57–66 With Mild Hypertension and MTHFR
   Polymorphisms
 slug: >-
   12-foods-that-support-endothelial-nitric-oxide-synthase-activity-without-increasing-homocysteine-for-adults-57-66-with-mild-hypertension-and-mthfr-polymorphisms
-description: >-
+description: 'MTHFR variants (folate gene mutations) reduce eNOS (nitric oxide enzyme) activity, raising BP. Methylfolate-rich leafy greens and beets restore NO production.'
   Lists nutrient-dense, folate-activated foods (e.g., fermented lentils, roasted
   beet greens, roasted walnuts) that boost eNOS expression while bypassing
   methylation bottlenecks common in C677T carriers.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: eNOS foods mthfr polymorphism hypertension
+updated: '2026-03-27'
+primaryKeyword: 'foods to support eNOS function MTHFR hypertension'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,12 +1,12 @@
 ---
-title: Can Sleep Duration Predict Heart Disease Risk After 55?
+title: 'Can Sleep Duration Predict Heart Disease Risk After 55?'
 slug: can-sleep-duration-predict-heart-disease-risk-after-55
-description: >-
+description: 'Under 6 hours of sleep raised artery disease (coronary artery disease) risk 25% in 110,000 adults. Optimal sleep after 55 is 7-8 hours nightly for heart health.'
   Discover how both too little and too much sleep are linked to higher chances
   of developing heart conditions.
 date: '2025-12-07'
-updated: '2025-12-07'
-primaryKeyword: sleep duration and heart disease risk after 55
+updated: '2026-03-27'
+primaryKeyword: 'how does sleep duration affect heart disease risk after 55'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

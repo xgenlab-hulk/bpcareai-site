@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'CGM vs Fingerstick for Dawn Phenomenon in Older Adults'
   A vs B: Continuous Glucose Monitoring (CGM) vs. Structured Self-Monitoring of
   Blood Glucose (SMBG) for Detecting Dawn Phenomenon in Adults 57–64 With Early
   Beta-Cell Decline
 slug: >-
   a-vs-b-continuous-glucose-monitoring-cgm-vs-structured-self-monitoring-of-blood-glucose-smbg-for-detecting-dawn-phenomenon-in-adults-57-64-with-early-beta-cell-decline
-description: >-
+description: 'Continuous glucose monitors (CGMs) detect the dawn glucose rise 83% more reliably than fingerstick testing, helping adults 60+ time breakfast better.'
   Head-to-head analysis of detection sensitivity, clinical utility,
   cost-effectiveness, and behavioral impact—specifically for identifying
   subclinical fasting hyperglycemia pre-insulin initiation.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: cgm vs smb g dawn phenomenon detection
+updated: '2026-03-27'
+primaryKeyword: 'CGM vs fingerstick dawn phenomenon detection'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

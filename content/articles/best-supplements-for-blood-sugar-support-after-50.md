@@ -1,12 +1,12 @@
 ---
-title: Best Supplements for Blood Sugar Support After 50
+title: 'Best Blood Sugar Support Supplements for Adults Over 50'
 slug: best-supplements-for-blood-sugar-support-after-50
-description: >-
+description: 'Over 1 in 3 adults 50+ have prediabetes. Magnesium and berberine show RCT-backed effects on fasting blood sugar (fasting glucose) levels.'
   Review evidence-based supplements like magnesium and berberine that may aid
   glucose regulation.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: blood sugar supplements for adults over 50
+updated: '2026-03-27'
+primaryKeyword: 'best supplements for blood sugar control after 50'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

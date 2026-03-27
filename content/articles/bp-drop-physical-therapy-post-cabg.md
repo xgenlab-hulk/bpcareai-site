@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'BP Drop During Rehab After CABG: What to Check in Adults 76+'
   When to Worry About Sudden BP Drops After Standing *During* Physical Therapy
   Sessions — Distinguishing Orthostatic Hypotension From Early Cardiac Tamponade
   in Adults 76+ Post-CABG
 slug: >-
   when-to-worry-about-sudden-bp-drops-after-standing-during-physical-therapy-sessions-distinguishing-orthostatic-hypotension-from-early-cardiac-tamponade-in-adults-76-post-cabg
-description: >-
+description: 'Low BP on standing (orthostatic hypotension) and tamponade both cause drops in post-CABG rehab but show distinct signs — helping caregivers respond.'
   Differentiates subtle hemodynamic signatures (absent JVP rise, muffled heart
   sounds vs. preserved JVP + bounding pulse) and offers point-of-care assessment
   tools for rehab clinicians and caregivers.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: bp drop physical therapy post-cabg
+updated: '2026-03-27'
+primaryKeyword: 'blood pressure drop during rehab after bypass heart surgery'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

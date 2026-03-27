@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Sugar-Free Holiday Candy and Dental Health in Seniors Over 70'
   Does 'Sugar-Free' Holiday Candy Really Protect Your Teeth in Adults 70+ With
   Reduced Salivary Flow and Early Root Caries?
 slug: >-
   does-sugar-free-holiday-candy-really-protect-your-teeth-in-adults-70-with-reduced-salivary-flow-and-early-root-caries
-description: >-
+description: 'Sugar alcohols lower cavity risk, but reduced saliva (xerostomia) in seniors over 70 limits enamel repair. Xylitol gum at 6 g/day has the strongest evidence.'
   Evaluates xylitol, erythritol, and isomalt content in common sugar-free
   holiday treats—and their real-world impact on biofilm pH, remineralization
   potential, and oral microbiome shifts.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: sugar-free holiday candy dental health seniors
+updated: '2026-03-27'
+primaryKeyword: 'sugar-free candy dental health seniors over 70'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

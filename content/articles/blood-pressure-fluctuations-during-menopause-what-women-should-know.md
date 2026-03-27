@@ -1,12 +1,12 @@
 ---
-title: 'Blood Pressure Fluctuations During Menopause: What Women Should Know'
+title: 'Blood Pressure Fluctuations During Menopause: The Hormonal Connection'
 slug: blood-pressure-fluctuations-during-menopause-what-women-should-know
-description: >-
+description: 'Declining estrogen stiffens arteries and disrupts sleep, each raising BP. Unpredictable BP swings (labile hypertension) make home monitoring essential.'
   Learn how hormonal changes in menopause impact blood pressure and what
   lifestyle steps can help manage it.
 date: '2025-11-26'
-updated: '2025-11-26'
-primaryKeyword: menopause and blood pressure changes in women
+updated: '2026-03-27'
+primaryKeyword: 'blood pressure fluctuations during perimenopause in women'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

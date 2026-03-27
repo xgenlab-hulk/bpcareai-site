@@ -1,12 +1,12 @@
 ---
-title: Can High Cholesterol Cause Heart Disease Even with Normal Blood Pressure?
+title: 'High Cholesterol and Heart Disease Risk With Normal Blood Pressure'
 slug: can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure
-description: >-
+description: 'High bad cholesterol (LDL-C) raises coronary risk 20-25% per 39 mg/dL even with normal BP. About 38% of adults over 50 have elevated cholesterol with normal BP.'
   Explore how cholesterol levels independently impact heart disease risk, even
   when blood pressure is under control.
 date: '2025-12-06'
-updated: '2025-12-06'
-primaryKeyword: high cholesterol and heart disease with normal blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'high cholesterol heart disease normal blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can Blood Pressure Be Too Low After 75? Hidden Risks of Hypotension'
   Can Blood Pressure Be Too Low in Older Adults? The Hidden Risks of Hypotension
   After 75
 slug: >-
   can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
-description: >-
+description: 'Low BP on standing (orthostatic hypotension) affects up to 30% of adults over 75 and raises fall risk. Overly aggressive treatment is a key cause.'
   Examines orthostatic and postprandial hypotension in frail seniors—including
   falls, cognitive fog, and medication overcorrection—and outlines safe BP
   targets for those with dementia or mobility issues.
 date: '2025-12-16'
-updated: '2025-12-16'
-primaryKeyword: low blood pressure risks elderly 75+
+updated: '2026-03-27'
+primaryKeyword: 'dangers of low blood pressure in elderly over 75'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

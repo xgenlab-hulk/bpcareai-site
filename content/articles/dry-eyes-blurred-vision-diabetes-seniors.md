@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Dry Eyes and Blurred Vision as Early Diabetes Signs in Seniors'
   When to Worry About Sudden Dry Eyes and Blurred Vision After Age 63 —
   Distinguishing Sjögren’s-Associated Lacrimal Gland Dysfunction From Early
   Diabetic Retinal Neurodegeneration
 slug: >-
   when-to-worry-about-sudden-dry-eyes-and-blurred-vision-after-age-63-distinguishing-sj-gren-s-associated-lacrimal-gland-dysfunction-from-early-diabetic-retinal-neurodegeneration
-description: >-
+description: 'Tear osmolarity above 308 mOsm/L flags diabetic dry eye. Up to 40% of seniors with T2D show retinal thinning (nerve layer loss) on OCT before symptoms appear.'
   Guides readers through differential diagnosis of ocular symptoms that overlap
   between autoimmune dry eye and subclinical diabetic retinopathy—emphasizing
   non-invasive OCT-A and tear osmolarity testing.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: dry eyes blurred vision diabetes seniors
+updated: '2026-03-27'
+primaryKeyword: 'dry eyes blurred vision diabetes seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

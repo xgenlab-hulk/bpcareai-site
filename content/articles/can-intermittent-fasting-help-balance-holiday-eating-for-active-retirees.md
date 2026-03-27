@@ -1,12 +1,12 @@
 ---
-title: Can Intermittent Fasting Help Balance Holiday Eating for Active Retirees?
+title: 'Can Intermittent Fasting Help Active Retirees Balance Holiday Eating?'
 slug: can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
-description: >-
+description: 'A 12-hour overnight fast supports metabolic flexibility (insulin sensitivity) in active retirees. Holiday weight gain of 1-2 lbs persists longer after 50.'
   Explore whether time-restricted eating is a safe and effective tool for
   health-conscious seniors trying to offset seasonal indulgence.
 date: '2025-12-13'
-updated: '2025-12-13'
-primaryKeyword: intermittent fasting holiday eating seniors
+updated: '2026-03-27'
+primaryKeyword: 'intermittent fasting for active seniors during holidays'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

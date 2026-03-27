@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Hidden Ingredients in Diabetic Protein Bars Seniors Should Know'
   The Truth About 'Diabetes-Friendly' Protein Bars: Why 82% Contain Hidden
   Maltitol That Slows Gastric Emptying and Blunts Postprandial GLP-1 in Adults
   60–75
 slug: >-
   the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
-description: >-
+description: 'Many bars labeled for diabetics contain 8-12 g maltitol, a sugar alcohol raising blood sugar (glucose) 50% as much as sucrose, undermining control.'
   Investigates ingredient-level metabolic consequences of common sugar alcohols
   in commercial bars—focusing on delayed satiety signaling, unexpected glycemic
   variability, and gut-brain axis disruption.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: diabetes-friendly protein bars hidden ingredients
+updated: '2026-03-27'
+primaryKeyword: 'diabetes friendly protein bars hidden ingredients seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

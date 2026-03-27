@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '5-Minute Handgrip Training to Lower Diastolic BP in Women 63-71'
   Can Daily 5-Minute Isometric Handgrip Training Lower Ambulatory Diastolic BP
   in Sedentary Women 63–71 Within 10 Days?
 slug: >-
   can-daily-5-minute-isometric-handgrip-training-lower-ambulatory-diastolic-bp-in-sedentary-women-63-71-within-10-days
-description: >-
+description: 'Post-menopause estrogen loss stiffens small arteries, raising diastolic BP. Daily grip exercises (isometric handgrip) reduce ambulatory diastolic in 10 days.'
   Reviews recent RCT evidence on brief, equipment-free isometric exercise as a
   rapid-onset, nonpharmacologic strategy specifically for diastolic control in
   postmenopausal women.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: isometric handgrip diastolic blood pressure women
+updated: '2026-03-27'
+primaryKeyword: 'handgrip exercise to lower diastolic blood pressure women'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

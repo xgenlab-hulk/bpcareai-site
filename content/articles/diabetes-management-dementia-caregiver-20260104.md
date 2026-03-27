@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Diabetes Management Strategies for Caregivers of Seniors With Dementia'
   The Ultimate Guide to Managing Diabetes While Caring for a Spouse With
   Moderate Dementia—Focusing on Medication Safety, Meal Simplification, and
   Cognitive Load Reduction
 slug: >-
   the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
-description: >-
+description: 'Cognitive decline increases missed doses and skipped meals; caregiver protocols reduce dangerous low sugar episodes (hypoglycemia) by 35% in adults 75+.'
   Offers a caregiver-first framework: pre-filled insulin syringes, ‘no-choice’
   meal kits, and dual-alert CGM systems designed for dual-role disease
   management.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: diabetes management dementia caregiver
+updated: '2026-03-27'
+primaryKeyword: 'diabetes management dementia caregiver strategies'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

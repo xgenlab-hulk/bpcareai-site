@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Why Normal Fasting Glucose Doesn\'
   Myths vs Facts: ‘My Glucose Is Fine Because My Fasting Number Is Normal’—Why
   This Misses Postprandial Hyperglycemia, Oxidative Stress, and Endothelial
   Dysfunction
 slug: >-
   myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction
-description: >-
+description: 'Normal fasting glucose (70-99 mg/dL) can mask post-meal spikes above 140 mg/dL—linked to endothelial injury (vessel lining damage) and doubled CV risk.'
   Debunks the false security of fasting-only monitoring using data on post-meal
   ROS generation, flow-mediated dilation impairment, and retinal capillary
   dropout.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: fasting glucose myth postprandial risk
+updated: '2026-03-27'
+primaryKeyword: 'fasting glucose myth postprandial blood sugar risk'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

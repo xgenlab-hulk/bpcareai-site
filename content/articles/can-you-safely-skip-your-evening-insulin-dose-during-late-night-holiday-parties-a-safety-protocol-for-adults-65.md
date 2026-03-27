@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can You Skip Your Evening Insulin at Late-Night Holiday Parties?'
   Can You Safely Skip Your Evening Insulin Dose During Late-Night Holiday
   Parties? A Safety Protocol for Adults 65+
 slug: >-
   can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
-description: >-
+description: 'Skipping long-acting insulin (basal insulin) raises glucose over 24-48 hours. For adults 65+, sugar monitor trends—not rigid schedules—guide safe timing.'
   Breaks down evidence-based dose-adjustment frameworks for basal and
   rapid-acting insulin during irregular meal timing, including CGM-informed
   decision trees and red-flag thresholds.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: skipping insulin during holiday parties
+updated: '2026-03-27'
+primaryKeyword: 'skip insulin at late night holiday parties safety'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

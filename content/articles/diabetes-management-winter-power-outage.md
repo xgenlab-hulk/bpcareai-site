@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'How to Manage Diabetes During a Winter Power Outage'
   The Complete Guide to Managing Diabetes During Winter Power Outages — Food
   Storage, Insulin Refrigeration Alternatives, and CGM Battery Survival for
   Adults 65+ in Rural Areas
 slug: >-
   the-complete-guide-to-managing-diabetes-during-winter-power-outages-food-storage-insulin-refrigeration-alternatives-and-cgm-battery-survival-for-adults-65-in-rural-areas
-description: >-
+description: 'Insulin loses strength (potency) above 25°C after 28 days unrefrigerated; adults with diabetes need a 72-hour kit with insulated storage and glucose logs.'
   Practical, scenario-tested protocols for maintaining glycemic safety during
   extended infrastructure failure—prioritizing low-tech, low-cost, and
   mobility-limited adaptations.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: diabetes management winter power outage
+updated: '2026-03-27'
+primaryKeyword: 'diabetes management winter power outage insulin storage'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Is Light Therapy Safe With Macular Degeneration in Adults 75+?'
   Can Bright Light Therapy Be Safely Used With Age-Related Macular Degeneration?
   A Risk-Benefit Framework for Adults 75+
 slug: >-
   can-bright-light-therapy-be-safely-used-with-age-related-macular-degeneration-a-risk-benefit-framework-for-adults-75
-description: >-
+description: 'Light therapy supports mood in early eye disease (AMD) with UV-filtering devices. Safe exposure duration limits for adults 75+ with macular degeneration.'
   Evaluates spectral safety, exposure duration limits, and retinal monitoring
   protocols for light therapy in seniors with early-to-moderate AMD—based on
   ophthalmology and geriatric psychiatry consensus guidelines.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: bright light therapy age related macular degeneration
+updated: '2026-03-27'
+primaryKeyword: 'is light therapy safe with macular degeneration over 75'
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

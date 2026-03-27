@@ -1,12 +1,12 @@
 ---
-title: Easy Make-Ahead Freezer Meals to Reduce Holiday Cooking Stress for Seniors
+title: 'Make-Ahead Freezer Meals That Cut Holiday Cooking Stress for Seniors'
 slug: easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
-description: >-
+description: 'Batch-cooked meals reduce cortisol spikes (stress hormone surges) during holiday prep. Low-sodium soups and bean stews freeze well for up to 3 months.'
   Prepare healthy, portion-controlled dishes in advance to minimize kitchen
   strain and ensure nutritious options are always available.
 date: '2025-12-08'
-updated: '2025-12-08'
-primaryKeyword: make-ahead freezer meals for seniors holidays
+updated: '2026-03-27'
+primaryKeyword: 'make-ahead freezer meals reduce holiday stress seniors'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

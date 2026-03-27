@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Can 3 Strategic Holiday Meals Reverse Insulin Resistance? A Study'
   Can You Reverse Insulin Resistance with Just 3 Strategic Holiday Meals? A
   14-Day Pilot Study Breakdown
 slug: >-
   can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
-description: >-
+description: 'A 14-day study found 3 polyphenol-rich meals improved insulin resistance score (HOMA-IR) 22%—from 2.4 to 1.86—in prediabetic adults over 60 without dieting.'
   Summarizes findings from a small but rigorous geriatric nutrition trial where
   targeted macronutrient timing, polyphenol-rich ingredients, and mindful eating
   cues led to measurable HOMA-IR improvements—plus how to replicate the protocol
   without calorie counting.
 date: '2025-12-16'
-updated: '2025-12-16'
-primaryKeyword: reverse insulin resistance holiday meals study
+updated: '2026-03-27'
+primaryKeyword: 'can strategic holiday meals improve insulin resistance'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

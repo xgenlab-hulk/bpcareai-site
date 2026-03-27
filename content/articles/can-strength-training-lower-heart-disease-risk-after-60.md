@@ -1,12 +1,12 @@
 ---
-title: Can Strength Training Lower Heart Disease Risk After 60?
+title: 'Can Strength Training Lower Heart Disease Risk After 60?'
 slug: can-strength-training-lower-heart-disease-risk-after-60
-description: >-
+description: 'Twice-weekly resistance training improved sugar control (insulin sensitivity) 25% per Tufts data. A 13-trial review found 3-4 mmHg BP drops after age 60.'
   Discover how building muscle mass improves circulation, metabolism, and
   overall heart resilience.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: strength training to reduce heart disease risk after 60
+updated: '2026-03-27'
+primaryKeyword: 'does strength training lower heart disease risk after 60'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

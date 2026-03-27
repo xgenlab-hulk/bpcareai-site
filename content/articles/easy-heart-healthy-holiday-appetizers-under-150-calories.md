@@ -1,12 +1,12 @@
 ---
-title: 'Easy, Heart-Healthy Holiday Appetizers Under 150 Calories'
+title: 'Heart-Healthy Holiday Appetizers Under 150 Calories for Seniors'
 slug: easy-heart-healthy-holiday-appetizers-under-150-calories
-description: >-
+description: 'Smoked salmon on cucumber and roasted chickpeas stay under 150 kcal with heart-healthy fats (omega-3s) and fiber—without the sodium of processed dips.'
   Delicious and light appetizer ideas that won't spike blood pressure or
   cholesterol, designed specifically for seniors watching their heart health.
 date: '2025-12-07'
-updated: '2025-12-07'
-primaryKeyword: heart-healthy holiday appetizers under 150 calories
+updated: '2026-03-27'
+primaryKeyword: 'heart healthy holiday appetizers under 150 calories seniors'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Foods That Lower Central Aortic Pressure With Wide Pulse Pressure'
   5 Foods That Lower Central Aortic Systolic Pressure *Without* Reducing
   Brachial Diastolic — For Adults 70+ With Wide Pulse Pressure and Mild
   Cognitive Impairment
 slug: >-
   5-foods-that-lower-central-aortic-systolic-pressure-without-reducing-brachial-diastolic-for-adults-70-with-wide-pulse-pressure-and-mild-cognitive-impairment
-description: >-
+description: 'Central aortic pressure differs from arm readings (brachial BP) by 8-15 mmHg; foods targeting vessel flexibility reduce pulse pressure in adults 65+.'
   Highlights dietary compounds (e.g., specific anthocyanin profiles, omega-3
   phospholipids) that selectively improve central wave reflection without
   peripheral vasodilation.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: central aortic pressure foods wide pulse pressure
+updated: '2026-03-27'
+primaryKeyword: 'foods lower central aortic pressure wide pulse pressure'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

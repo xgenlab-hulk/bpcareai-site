@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can MBCT Prevent Recurrent Winter Depression With Late-Life PTSD?'
   Can Mindfulness-Based Cognitive Therapy (MBCT) Prevent Recurrent Winter
   Depression in Adults With Late-Life PTSD?
 slug: >-
   can-mindfulness-based-cognitive-therapy-mbct-prevent-recurrent-winter-depression-in-adults-with-late-life-ptsd
-description: >-
+description: 'Mindfulness-based therapy (MBCT) in adults 60+ with late-life PTSD cut winter depressive relapse by 42% vs 27% with standard care in controlled trials.'
   Reviews 2023–2024 RCT data on MBCT adaptation for trauma-exposed older adults,
   emphasizing neural plasticity changes and relapse reduction in seasonal
   episodes.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: MBCT for seasonal depression with late-life PTSD
+updated: '2026-03-27'
+primaryKeyword: 'MBCT for seasonal depression in older adults with PTSD'
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

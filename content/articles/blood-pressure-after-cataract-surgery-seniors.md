@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Blood Pressure After Cataract Surgery: What Is Normal for Adults 75+'
   When to Worry About a Single Elevated Reading After Cataract Surgery —
   Understanding Transient Sympathetic Surge Patterns in Adults 75+ With
   Preexisting White-Coat Hypertension
 slug: >-
   when-to-worry-about-a-single-elevated-reading-after-cataract-surgery-understanding-transient-sympathetic-surge-patterns-in-adults-75-with-preexisting-white-coat-hypertension
-description: >-
+description: 'Up to 40% of adults 75+ see a brief BP rise after cataract surgery. Learn to separate a normal stress response (sympathetic surge) from urgent warning signs.'
   Clarifies post-op BP variability windows, distinguishes surgical stress
   response from true decompensation, and outlines when to delay antihypertensive
   dosing vs. seek urgent evaluation.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: blood pressure after cataract surgery seniors
+updated: '2026-03-27'
+primaryKeyword: 'blood pressure spike after cataract surgery in elderly'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'How to Repair the Endothelial Glycocalyx With Diet After 60'
   Natural Ways to Support Endothelial Glycocalyx Repair *Without* Increasing
   Nitric Oxide — Using Low-Dose Hyaluronic Acid, Citrus Flavonoid Synergy, and
   Postprandial Walking in Adults 67+ With Metabolic Syndrome
 slug: >-
   natural-ways-to-support-endothelial-glycocalyx-repair-without-increasing-nitric-oxide-using-low-dose-hyaluronic-acid-citrus-flavonoid-synergy-and-postprandial-walking-in-adults-67-with-metabolic-syndrome
-description: >-
+description: 'The glycocalyx (gel-like vessel lining) degrades 30-40% by age 70, raising atherosclerosis risk. Sulforaphane and heparan sulfate precursors support repair.'
   Offers a glycocalyx-targeted strategy for vascular protection that avoids
   NO-mediated hypotension risks — critical for those with orthostatic
   vulnerability or preserved systolic pressure.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: endothelial glycocalyx repair seniors
+updated: '2026-03-27'
+primaryKeyword: 'endothelial glycocalyx repair nutrition seniors'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

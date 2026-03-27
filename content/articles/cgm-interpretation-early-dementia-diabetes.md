@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'How Caregivers Can Read CGM Data for Seniors With Dementia'
   The Ultimate Guide to Interpreting Continuous Glucose Monitoring (CGM) Reports
   for Adults With Diabetes and Early Dementia—What ‘Time in Range’ Alone Doesn’t
   Tell You
 slug: >-
   the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
-description: >-
+description: 'Cognitive decline disrupts symptom reporting; glucose monitor (CGM) trend arrows and alert thresholds help caregivers act before dangerous lows occur.'
   Focuses on clinically actionable CGM metrics beyond TIR: glycemic variability
   (MAGE), nocturnal hypoglycemia detection sensitivity, and how cognitive
   decline alters interpretation thresholds.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: CGM interpretation early dementia diabetes
+updated: '2026-03-27'
+primaryKeyword: 'CGM interpretation dementia diabetes caregivers'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

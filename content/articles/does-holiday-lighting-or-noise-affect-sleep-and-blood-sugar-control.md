@@ -1,12 +1,12 @@
 ---
-title: Does Holiday Lighting or Noise Affect Sleep and Blood Sugar Control?
+title: 'How Holiday Lights and Noise Affect Sleep and Blood Sugar After 50'
 slug: does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-description: >-
+description: 'Ambient light above 10 lux suppresses melatonin (sleep hormone) and raises fasting glucose 5-6 mg/dL. Noise over 55 dB disrupts cortisol rhythm overnight.'
   Investigate how environmental changes during the holidays may disrupt sleep
   and glucose regulation in diabetics over 50.
 date: '2025-12-03'
-updated: '2025-12-03'
-primaryKeyword: holiday environment sleep blood sugar
+updated: '2026-03-27'
+primaryKeyword: 'holiday lights noise sleep blood sugar control seniors'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

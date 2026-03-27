@@ -1,12 +1,12 @@
 ---
-title: Can Mindfulness Meditation Reduce Heart Disease Risk After 50?
+title: 'Can Mindfulness Meditation Reduce Heart Disease Risk After 50?'
 slug: can-mindfulness-meditation-reduce-heart-disease-risk-after-50
-description: >-
+description: 'Eight weeks of stress reduction (MBSR) dropped systolic BP 4-5 mmHg and reduced cortisol and inflammation (CRP)—comparable to modest sodium reduction after 50.'
   See how regular mindfulness practice helps lower stress-related heart strain
   and improves outcomes.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: mindfulness meditation and heart disease prevention
+updated: '2026-03-27'
+primaryKeyword: 'mindfulness meditation and heart disease prevention after 50'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

@@ -1,18 +1,18 @@
 ---
-title: >-
+title: 'ECG Patch vs Holter Monitor for Detecting Asymptomatic AFib'
   A vs B: Home-Based ECG Patch Monitoring (Zio XT) vs Ambulatory Holter for
   Detecting Asymptomatic Atrial Fibrillation Burden in Adults 60–79 With
   Controlled Hypertension
 slug: >-
   a-vs-b-home-based-ecg-patch-monitoring-zio-xt-vs-ambulatory-holter-for-detecting-asymptomatic-atrial-fibrillation-burden-in-adults-60-79-with-controlled-hypertension
-description: >-
+description: '14-day ECG patches detect 3x more asymptomatic AFib (silent atrial fibrillation) than 24-hour Holter monitors in adults over 60, per a 2022 head-to-head trial.'
   Compares detection sensitivity, arrhythmia burden quantification accuracy,
   usability, and cost-effectiveness of extended-wear patches versus traditional
   Holter in identifying subclinical AF—and implications for stroke risk
   stratification.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: ECG patch vs holter asymptomatic afib
+updated: '2026-03-27'
+primaryKeyword: 'ECG patch vs Holter monitor asymptomatic AFib detection'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

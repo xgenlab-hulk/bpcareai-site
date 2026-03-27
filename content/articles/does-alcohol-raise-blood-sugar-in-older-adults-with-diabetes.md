@@ -1,12 +1,12 @@
 ---
-title: Does Alcohol Raise Blood Sugar in Older Adults with Diabetes?
+title: 'Does Alcohol Raise or Lower Blood Sugar in Older Adults With Diabetes?'
 slug: does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
-description: >-
+description: 'Alcohol suppresses liver sugar output (gluconeogenesis), lowering glucose by 20-40 mg/dL, then causes rebound highs 6-12 hours later in type 2 diabetes.'
   Examine how drinking alcohol affects glucose levels and interacts with
   diabetes medications.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: alcohol effects on blood sugar in seniors with diabetes
+updated: '2026-03-27'
+primaryKeyword: 'alcohol raises blood sugar older adults diabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

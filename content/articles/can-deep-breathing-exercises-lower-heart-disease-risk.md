@@ -1,12 +1,12 @@
 ---
-title: Can Deep Breathing Exercises Lower Heart Disease Risk?
+title: 'Can Deep Breathing Exercises Reduce Heart Disease Risk After 50?'
 slug: can-deep-breathing-exercises-lower-heart-disease-risk
-description: >-
+description: 'Slow breathing at 6 breaths per minute raises heart rate variability (HRV) and lowers systolic BP by 5-8 mm Hg — roughly equivalent to a 20% lower stroke risk.'
   Discover how daily breathing techniques may improve heart rate variability and
   reduce cardiovascular stress.
 date: '2025-11-29'
-updated: '2025-11-29'
-primaryKeyword: deep breathing exercises for heart health
+updated: '2026-03-27'
+primaryKeyword: 'deep breathing exercises to reduce heart disease risk'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

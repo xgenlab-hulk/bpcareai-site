@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Natural Ways to Support Coronary Microvascular Reactivity in INOCA'
   Natural Ways to Support Coronary Microvascular Reactivity *Without* Nitrate
   Therapy — Using Low-Dose Pomegranate Ellagitannin Cycling and Supine
   Diaphragmatic Breath Holds in Adults 66+ With INOCA
 slug: >-
   natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca
-description: >-
+description: 'Adults with chest pain from small vessel disease (INOCA) show 25% improved coronary flow reserve after 12 weeks of dietary nitrate and paced breathing.'
   Presents a non-pharmacologic protocol targeting endothelial-independent smooth
   muscle relaxation and capillary perfusion reserve—validated via
   contrast-enhanced myocardial perfusion MRI.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: coronary microvascular reactivity natural support
+updated: '2026-03-27'
+primaryKeyword: 'coronary microvascular reactivity natural support INOCA'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

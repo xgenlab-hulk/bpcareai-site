@@ -1,12 +1,12 @@
 ---
-title: Can Drinking Too Much Water Raise Blood Pressure?
+title: 'Can Drinking Too Much Water Raise Blood Pressure in Older Adults?'
 slug: can-drinking-too-much-water-raise-blood-pressure
-description: >-
+description: 'For most adults, extra water will not raise BP. But in seniors 70+ with kidney disease (CKD), excess fluid can overwhelm sodium handling and spike systolic.'
   Discover the relationship between hydration, fluid overload, and blood
   pressure fluctuations in middle-aged and older adults.
 date: '2025-11-26'
-updated: '2025-11-26'
-primaryKeyword: drinking too much water and blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'can drinking too much water raise blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

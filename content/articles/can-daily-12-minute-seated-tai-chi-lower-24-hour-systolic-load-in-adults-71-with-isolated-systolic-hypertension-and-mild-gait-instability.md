@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can 12-Minute Seated Tai Chi Lower 24-Hour Systolic BP in Adults 71+?'
   Can Daily 12-Minute Seated Tai Chi Lower 24-Hour Systolic Load in Adults 71+
   With Isolated Systolic Hypertension and Mild Gait Instability?
 slug: >-
   can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
-description: >-
+description: 'Two-thirds of adults 65+ have isolated systolic hypertension (ISH). Seated 12-minute tai chi cuts arterial stiffness and sympathetic tone — no standing needed.'
   Examines evidence on low-impact mind-body movement protocols that reduce
   arterial stiffness and sympathetic tone without requiring balance-intensive
   stances.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: seated tai chi isolated systolic hypertension
+updated: '2026-03-27'
+primaryKeyword: 'seated tai chi for isolated systolic hypertension over 71'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

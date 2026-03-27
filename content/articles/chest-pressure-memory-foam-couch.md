@@ -1,18 +1,18 @@
 ---
-title: >-
+title: 'Can a Memory Foam Couch Cause Chest Pressure? Positional Cardiac Clues'
   What Causes Sudden Mid-Afternoon Chest Pressure *Only* When Sitting on Your
   Granddaughter’s Memory Foam Couch? — The Role of Pelvic Rotation,
   Diaphragmatic Restriction, and Inferior Vena Cava Compression in Adults 64+
   With Diastolic Dysfunction
 slug: >-
   what-causes-sudden-mid-afternoon-chest-pressure-only-when-sitting-on-your-granddaughter-s-memory-foam-couch-the-role-of-pelvic-rotation-diaphragmatic-restriction-and-inferior-vena-cava-compression-in-adults-64-with-diastolic-dysfunction
-description: >-
+description: 'Prolonged semi-reclined posture on memory foam raises chest cavity pressure (intrathoracic pressure) and mimics cardiac symptoms; repositioning helps clarify.'
   Links a highly specific environmental trigger to mechanical impediments in
   venous return and ventricular filling — a non-ischemic yet symptomatic
   mechanism often misdiagnosed as anxiety.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: chest pressure memory foam couch
+updated: '2026-03-27'
+primaryKeyword: 'chest pressure from memory foam couch positional'
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

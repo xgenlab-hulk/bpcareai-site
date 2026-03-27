@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Iron Supplements and Blood Glucose Monitor Accuracy After Age 66'
   Does Your Blood Glucose Monitor Interact With Common Iron Supplements
   *Differently* After Age 66? A Safety Guide for Ferritin-Replete Seniors on
   Metformin
 slug: >-
   does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
-description: >-
+description: 'Ferric pyrophosphate causes up to 15% sensor overread (CGM drift) within 48 hours while fingerstick meters deviate under 2%. Key for seniors on metformin.'
   Clarifies interference risks: how ferric pyrophosphate alters electrochemical
   readouts in newer CGM sensors vs. fingerstick devices—and why hematocrit
   decline after 65 amplifies error margins.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: blood glucose monitor iron supplement interference
+updated: '2026-03-27'
+primaryKeyword: 'do iron supplements affect blood glucose monitor accuracy'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

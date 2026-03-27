@@ -1,12 +1,12 @@
 ---
-title: Can Late-Night Holiday Parties Disrupt Heart Rhythm After 60?
+title: 'Can Late-Night Holiday Parties Disrupt Heart Rhythm After 60?'
 slug: can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
-description: >-
+description: 'After 60, late nights raise resting heart rate 5-10 bpm and systolic BP 8 mmHg. Adults 65+ had 40% higher irregular heartbeat (arrhythmia) risk after 3+ drinks.'
   Investigates how circadian disruption from extended festivities affects
   cardiac stability in older adults.
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: late-night parties and heart rhythm
+updated: '2026-03-27'
+primaryKeyword: 'late night holiday parties disrupt heart rhythm after 60'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

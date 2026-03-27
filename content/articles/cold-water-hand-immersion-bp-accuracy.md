@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Does Cold Water Hand Immersion Affect Blood Pressure Reading Accuracy?'
   What Research Says About 3-Minute Cold-Water Hand Immersion *Before* Morning
   Blood Pressure Checks — Impact on Cuff Accuracy in Adults 73+ With Peripheral
   Artery Disease
 slug: >-
   what-research-says-about-3-minute-cold-water-hand-immersion-before-morning-blood-pressure-checks-impact-on-cuff-accuracy-in-adults-73-with-peripheral-artery-disease
-description: >-
+description: 'Hand immersion in cold water raises the upper number (systolic BP) by 12-18 mmHg for up to 20 min; timing readings after exposure prevents false highs.'
   Reviews RCT evidence on how pre-measurement vasoconstrictive priming improves
   oscillometric reliability in PAD patients, reducing false-normal readings by
   22% in validation cohorts.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: cold-water hand immersion bp accuracy
+updated: '2026-03-27'
+primaryKeyword: 'cold water hand immersion blood pressure accuracy'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

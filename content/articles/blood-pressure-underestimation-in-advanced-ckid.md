@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Why BP Readings May Be Too Low in Adults 78+ With Advanced CKD Stage 4'
   When to Worry About 'Normal-Looking' Blood Pressure Readings in Adults 78+
   With Advanced CKD Stage 4 — Why Brachial Cuff Readings Systematically
   Underestimate Central Aortic Pressure
 slug: >-
   when-to-worry-about-normal-looking-blood-pressure-readings-in-adults-78-with-advanced-ckd-stage-4-why-brachial-cuff-readings-systematically-underestimate-central-aortic-pressure
-description: >-
+description: 'Artery hardening (arterial calcification) in Stage 4 CKD causes cuff underreads — a 130/80 reading may mask true central pressure and cardiovascular risk.'
   Explains why standard sphygmomanometry fails in severe renal impairment due to
   arterial calcification, pulse wave reflection distortion, and cuff–artery
   mismatch.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: blood pressure underestimation in advanced ckid
+updated: '2026-03-27'
+primaryKeyword: 'BP readings inaccurate in advanced kidney disease CKD'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

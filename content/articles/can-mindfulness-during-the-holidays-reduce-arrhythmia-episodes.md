@@ -1,12 +1,12 @@
 ---
-title: Can Mindfulness During the Holidays Reduce Arrhythmia Episodes?
+title: 'Can Mindfulness During the Holidays Reduce Arrhythmia Episodes?'
 slug: can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
-description: >-
+description: 'Irregular heartbeat (AFib) ER visits rise 20-30% each December. Slow breathing twice daily improves heart rhythm balance (HRV) and may reduce holiday episodes.'
   Evaluate the evidence on meditation and stress-awareness practices in reducing
   the frequency of holiday-triggered palpitations.
 date: '2025-12-13'
-updated: '2025-12-13'
-primaryKeyword: mindfulness holiday arrhythmia
+updated: '2026-03-27'
+primaryKeyword: 'can mindfulness practice reduce holiday arrhythmia episodes'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

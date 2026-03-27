@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Best Walking Surfaces for Diabetic Foot Ulcers in Adults 69+'
   Best Walking Surfaces for Adults 69+ With Diabetic Foot Ulcers in Remission —
   Concrete, Asphalt, Gravel, or Grass? Evidence-Based Impact on Plantar Pressure
   Redistribution
 slug: >-
   best-walking-surfaces-for-adults-69-with-diabetic-foot-ulcers-in-remission-concrete-asphalt-gravel-or-grass-evidence-based-impact-on-plantar-pressure-redistribution
-description: >-
+description: '40% of healed diabetic foot ulcers recur within a year. Pressure mapping compares surfaces for foot load (plantar stress) in adults with neuropathy.'
   Compares biomechanical load distribution across common outdoor surfaces using
   in-shoe pressure mapping data—prioritizing ulcer recurrence prevention in
   ambulatory seniors with healed neuropathic wounds.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: best walking surfaces diabetic foot ulcers
+updated: '2026-03-27'
+primaryKeyword: 'safest walking surfaces for diabetic foot ulcers'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

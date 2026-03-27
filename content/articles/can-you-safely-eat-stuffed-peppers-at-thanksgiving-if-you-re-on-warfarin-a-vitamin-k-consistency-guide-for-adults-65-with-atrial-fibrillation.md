@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can You Eat Stuffed Peppers on Warfarin at Thanksgiving?'
   Can You Safely Eat Stuffed Peppers at Thanksgiving If You’re on Warfarin? — A
   Vitamin K Consistency Guide for Adults 65+ With Atrial Fibrillation
 slug: >-
   can-you-safely-eat-stuffed-peppers-at-thanksgiving-if-you-re-on-warfarin-a-vitamin-k-consistency-guide-for-adults-65-with-atrial-fibrillation
-description: >-
+description: 'Inconsistent vitamin K causes up to 30% of unexplained blood thinner level (INR) swings. Stuffed peppers deliver 80-100 mcg vitamin K—herb choice matters most.'
   Explains how seasonal vegetable prep (roasting vs. steaming), herb choices,
   and portion size affect INR stability—and provides a printable 'K-Stable
   Holiday Plate' template.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: warfarin safe holiday foods vitamin k
+updated: '2026-03-27'
+primaryKeyword: 'stuffed peppers on warfarin Thanksgiving vitamin K'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

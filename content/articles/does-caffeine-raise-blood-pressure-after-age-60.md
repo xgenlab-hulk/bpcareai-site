@@ -1,12 +1,12 @@
 ---
-title: Does Caffeine Raise Blood Pressure After Age 60?
+title: 'Does Caffeine Raise Blood Pressure After Age 60?'
 slug: does-caffeine-raise-blood-pressure-after-age-60
-description: >-
+description: 'Caffeine spikes systolic BP 5-10 mm Hg in 30 minutes via vasoconstriction (vessel tightening). After 60, timing coffee after BP meds blunts this surge.'
   Examine the real impact of coffee and caffeine on blood pressure in older
   adults and whether moderation is key.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: caffeine effect on blood pressure over 60
+updated: '2026-03-27'
+primaryKeyword: 'does caffeine raise blood pressure after 60'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

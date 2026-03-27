@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can You Switch From Insulin to GLP-1 RAs After 74 Safely?'
   Can You Safely Switch From Long-Acting Insulin to GLP-1 RAs After Age 74? A
   Risk-Benefit Framework for Frail Adults With Mild Cognitive Impairment
 slug: >-
   can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
-description: >-
+description: 'Adults over 75 on insulin have 15-25% annual low blood sugar (hypoglycemia) rates. GLP-1 agonists cut this risk but cause GI issues in 30% of frail seniors.'
   Evaluates safety trade-offs—including hypoglycemia avoidance vs. GI
   intolerance, weight loss concerns in sarcopenic obesity, and caregiver
   burden—using real-world geriatric pharmacovigilance data.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: insulin to GLP-1 switch in frail elderly
+updated: '2026-03-27'
+primaryKeyword: 'switching from insulin to GLP-1 in frail elderly'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

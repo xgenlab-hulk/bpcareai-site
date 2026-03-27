@@ -1,12 +1,12 @@
 ---
-title: Can Vitamin B12 Deficiency Worsen Seasonal Depression in Seniors?
+title: 'Can Vitamin B12 Deficiency Worsen Seasonal Depression in Seniors?'
 slug: can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
-description: >-
+description: 'Adults 65+ with B12 below 200 pg/mL report more fatigue and low mood. Stomach lining thinning (atrophic gastritis) in 30% of seniors impairs absorption.'
   Investigate the link between low B12 levels and mood regulation in aging
   adults, especially during darker months.
 date: '2025-12-09'
-updated: '2025-12-09'
-primaryKeyword: vitamin b12 and seasonal depression
+updated: '2026-03-27'
+primaryKeyword: 'does low vitamin B12 worsen seasonal depression in seniors'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

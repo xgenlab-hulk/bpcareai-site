@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Resistance Band Training and HbA1c in Seniors 63-77 With Diabetes'
   Does Daily 20-Minute Resistance Band Training Lower HbA1c in Sedentary Adults
   63–77 With Type 2 Diabetes—Without Weight Loss?
 slug: >-
   does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
-description: >-
+description: 'Resistance bands 5x/week lowered blood sugar marker (HbA1c) by 0.6% in sedentary adults 63-77 with type 2 diabetes—no weight loss required in this 16-week RCT.'
   Breaks down a 16-week RCT showing glycemic improvements independent of BMI
   change, emphasizing muscle glucose uptake, GLUT4 translocation, and sarcopenia
   mitigation.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: resistance band training and hba1c in seniors
+updated: '2026-03-27'
+primaryKeyword: 'resistance band training lower HbA1c seniors diabetes'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

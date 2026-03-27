@@ -1,18 +1,18 @@
 ---
-title: >-
+title: 'How Caregivers Can Safely Manage Diabetes in Seniors With Dementia'
   The Complete Guide to Managing Diabetes While Caring for a Spouse With
   Dementia — Practical Strategies for Medication Adherence, Meal Timing
   Conflicts, and CGM Data Sharing in Adults 66+
 slug: >-
   the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-dementia-practical-strategies-for-medication-adherence-meal-timing-conflicts-and-cgm-data-sharing-in-adults-66
-description: >-
+description: 'Dementia disrupts hunger cues and pill timing; simplified regimens and glucose monitor alerts (CGM alarms) help caregivers maintain safe blood sugar ranges.'
   Covers caregiver-specific challenges: insulin titration amid unpredictable
   eating, syncing basal insulin to spouse’s nocturnal wandering, using shared
   CGM alerts with caregiver-only override functions, and preventing hypoglycemia
   during care fatigue.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: diabetes management dementia caregiver seniors
+updated: '2026-03-27'
+primaryKeyword: 'managing diabetes in seniors with dementia caregiver'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

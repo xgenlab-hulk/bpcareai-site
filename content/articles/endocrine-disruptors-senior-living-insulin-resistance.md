@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Endocrine Disruptors in Senior Living and Insulin Resistance'
   10 Hidden Sources of Endocrine-Disrupting Chemicals in Senior Living
   Communities — And How They May Amplify Insulin Resistance in Adults 77+ With
   Long-Term T2D
 slug: >-
   10-hidden-sources-of-endocrine-disrupting-chemicals-in-senior-living-communities-and-how-they-may-amplify-insulin-resistance-in-adults-77-with-long-term-t2d
-description: >-
+description: 'BPA and phthalates—endocrine disruptors (hormone mimics)—raise HOMA-IR (insulin resistance score) by 15-20% with chronic low-dose household exposure.'
   Identifies overlooked environmental exposures (fire retardants in upholstery,
   antimicrobial coatings, HVAC filter byproducts) and their epigenetic effects
   on adipocyte insulin signaling in congregate care.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: endocrine disruptors senior living insulin resistance
+updated: '2026-03-27'
+primaryKeyword: 'endocrine disruptors insulin resistance senior living'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

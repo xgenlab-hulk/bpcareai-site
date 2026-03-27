@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can You Take Berberine With Metformin After 74 With Liver Fibrosis?'
   Can You Safely Take Berberine With Metformin If You’re Over 74 and Have Mild
   Liver Fibrosis? What ALT/AST and FibroScan Data Reveal
 slug: >-
   can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal
-description: >-
+description: 'At mild liver scarring (F1-F2 fibrosis), enzymes may look normal while stress builds. Adults 74+ combining berberine with metformin should track ALT levels.'
   Evaluates herb-drug interaction risks, mitochondrial stress markers, and
   hepatic safety thresholds using real-world liver enzyme trends—not just
   clinical trial exclusions.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: berberine and metformin in elderly with liver fibrosis
+updated: '2026-03-27'
+primaryKeyword: 'berberine with metformin safety over 74 liver fibrosis'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

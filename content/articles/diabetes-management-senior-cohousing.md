@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'How Senior Cohousing Communities Support Better Diabetes Management'
   The Complete Guide to Managing Diabetes *While Living in a Senior Cohousing
   Community* — Meal Planning Coordination, Shared CGM Alerts, and Emergency
   Response Protocols for Adults 73+
 slug: >-
   the-complete-guide-to-managing-diabetes-while-living-in-a-senior-cohousing-community-meal-planning-coordination-shared-cgm-alerts-and-emergency-response-protocols-for-adults-73
-description: >-
+description: 'Shared meal planning in senior cohousing lowers long-term sugar marker (HbA1c) by 0.4% on average; peer support reduces barriers to dietary adherence.'
   Step-by-step framework for collaborative diabetes care in intentional senior
   living—covering privacy-compliant shared monitoring, communal meal
   modifications, and co-resident emergency training.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: diabetes management senior cohousing
+updated: '2026-03-27'
+primaryKeyword: 'diabetes management senior cohousing community'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,12 +1,12 @@
 ---
-title: Can Hearing Loss Be an Early Sign of Heart Disease?
+title: 'Can Hearing Loss Be an Early Warning Sign of Heart Disease After 50?'
 slug: can-hearing-loss-be-an-early-sign-of-heart-disease
-description: >-
+description: 'Inner ear arteries (cochlear arteries) are vulnerable to plaque. Heart disease raises hearing loss risk 20-30% — audiogram changes may precede symptoms.'
   Review evidence suggesting poor circulation may affect both auditory function
   and heart health.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: hearing loss as early sign of heart disease
+updated: '2026-03-27'
+primaryKeyword: 'hearing loss as early warning sign of heart disease'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

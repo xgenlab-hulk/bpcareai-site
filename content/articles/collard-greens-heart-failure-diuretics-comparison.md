@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Collard Greens and Heart Failure: Navigating Potassium With Diuretics'
   A vs B: Slow-Cooked Collard Greens With Smoked Turkey Leg vs. Instant-Pot
   Greens With Liquid Aminos — Which Is Safer for Heart Failure Patients on
   Diuretics?
 slug: >-
   a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
-description: >-
+description: 'One cup cooked collard greens has 222 mg potassium; adults with weak heart pumping (heart failure) on loop diuretics can include them if levels are checked.'
   Direct nutrient comparison (sodium, potassium, nitrate load, purine content)
   and fluid-balance impact of two culturally resonant preparations—tailored for
   adults with HFrEF managing volume status.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: collard greens heart failure diuretics comparison
+updated: '2026-03-27'
+primaryKeyword: 'collard greens potassium heart failure diuretics'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

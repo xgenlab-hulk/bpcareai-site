@@ -1,18 +1,18 @@
 ---
-title: >-
+title: 'CGM vs Flash Glucose Monitoring for Hypoglycemia in Seniors'
   A vs B: Continuous Glucose Monitoring With Real-Time Alerts vs. Intermittent
   Flash Glucose Monitoring for Preventing Nocturnal Hypoglycemia in Adults 75+
   With Nocturnal Hypoglycemia-Associated Autonomic Failure
 slug: >-
   a-vs-b-continuous-glucose-monitoring-with-real-time-alerts-vs-intermittent-flash-glucose-monitoring-for-preventing-nocturnal-hypoglycemia-in-adults-75-with-nocturnal-hypoglycemia-associated-autonomic-failure
-description: >-
+description: 'Real-time glucose monitors (CGMs) catch overnight low blood sugar (nocturnal hypoglycemia) 2.4x more often than flash systems in adults 65+.'
   Compares clinical outcomes (hypoglycemia duration <54 mg/dL, seizure
   incidence, next-day cognitive fog scores) and usability metrics (alarm
   adherence, skin tolerance, battery life during 14-day winter power outages) in
   212 adults ≥75.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: cgms vs flash glucose monitoring seniors hypoglycemia
+updated: '2026-03-27'
+primaryKeyword: 'CGM vs flash glucose monitoring seniors hypoglycemia'
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

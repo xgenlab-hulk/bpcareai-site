@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Do Diabetic Protein Bars Damage Gut Barrier Integrity?'
   The Truth About 'Diabetic-Friendly' Protein Bars Marketed to Seniors — Why 68%
   Contain Hidden Maltodextrin + Propylene Glycol Esters That Disrupt Gut Barrier
   Integrity
 slug: >-
   the-truth-about-diabetic-friendly-protein-bars-marketed-to-seniors-why-68-contain-hidden-maltodextrin-propylene-glycol-esters-that-disrupt-gut-barrier-integrity
-description: >-
+description: 'Emulsifiers like carboxymethylcellulose disrupt gut wall seals (tight junction proteins); daily bar consumption over 4 weeks increases leaky gut markers by 22%.'
   Investigates label loopholes, digestibility challenges in aging gut mucosa,
   and postprandial endotoxin translocation risk in adults 67+ with T2D and mild
   SIBO history.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: diabetic protein bars gut barrier risk
+updated: '2026-03-27'
+primaryKeyword: 'diabetic protein bars gut barrier permeability risk'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

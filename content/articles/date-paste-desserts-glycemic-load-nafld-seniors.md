@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Date Paste Desserts and Glycemic Load for Seniors With NAFLD'
   The Truth About 'Low-Glycemic' Holiday Desserts Made With Date Paste—Do They
   Really Reduce Glycemic Load, or Just Mask Rapid Fructose Absorption in Adults
   With NAFLD?
 slug: >-
   the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld
-description: >-
+description: 'Date paste has a sugar impact score (glycemic load) of 18-24 per tablespoon; small portions paired with fat may limit liver fat buildup in fatty liver.'
   Analyzes how date-sweetened treats impact hepatic fructose metabolism,
   triglyceride synthesis, and insulin sensitivity in older adults with
   non-alcoholic fatty liver disease—a common but undiagnosed comorbidity.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: date paste desserts glycemic load nafld seniors
+updated: '2026-03-27'
+primaryKeyword: 'date paste glycemic load NAFLD seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Cold Water Immersion and Morning Blood Pressure After 60'
   Does Daily 10-Minute Cold Water Immersion Lower Morning Systolic BP in
   Sedentary Adults 60–72? A 12-Week RCT Breakdown
 slug: >-
   does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
-description: >-
+description: 'Daily cold immersion lowered morning systolic BP 6.2 mm Hg in adults 60-72 via the diving reflex (vagal heart-slowing response). Benefits faded in 4 weeks.'
   Analyzes thermoregulatory vasoconstriction rebound, baroreflex sensitivity
   shifts, and sympathetic tone modulation—separating transient spikes from
   sustained reductions.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: cold water immersion systolic blood pressure rct
+updated: '2026-03-27'
+primaryKeyword: 'cold water immersion lower morning blood pressure seniors'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

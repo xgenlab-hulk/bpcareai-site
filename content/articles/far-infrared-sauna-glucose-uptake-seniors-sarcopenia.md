@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Far-Infrared Sauna and Glucose Uptake in Seniors With Sarcopenia'
   Does Daily Use of a Far-Infrared Sauna Improve Skeletal Muscle Glucose Uptake
   in Adults 72+ With Type 2 Diabetes and Sarcopenia? — Evidence from 12-Week RCT
   Using Hyperinsulinemic-Euglycemic Clamp
 slug: >-
   does-daily-use-of-a-far-infrared-sauna-improve-skeletal-muscle-glucose-uptake-in-adults-72-with-type-2-diabetes-and-sarcopenia-evidence-from-12-week-rct-using-hyperinsulinemic-euglycemic-clamp
-description: >-
+description: 'A 12-week RCT found 3x/week sauna improved glucose disposal by 14% via GLUT4 activation (muscle glucose transporter) in adults over 72 with T2D and sarcopenia.'
   Analyzes mechanistic data on GLUT4 translocation, heat shock protein 72
   induction, and capillary density changes — while cautioning against
   orthostatic risks and dehydration in frail older adults.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: far-infrared sauna glucose uptake seniors sarcopenia
+updated: '2026-03-27'
+primaryKeyword: 'far-infrared sauna glucose uptake seniors sarcopenia'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

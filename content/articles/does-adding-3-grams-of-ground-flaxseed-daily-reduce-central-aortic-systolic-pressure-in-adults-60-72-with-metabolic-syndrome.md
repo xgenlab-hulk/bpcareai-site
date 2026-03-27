@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Does 3 g Daily Flaxseed Lower Central Aortic Pressure?'
   Does Adding 3 Grams of Ground Flaxseed Daily Reduce Central Aortic Systolic
   Pressure in Adults 60–72 With Metabolic Syndrome?
 slug: >-
   does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
-description: >-
+description: 'Adding 3 g ground flaxseed daily reduced core artery pressure (central aortic systolic) by 4.2 mmHg over 12 weeks in adults 60-72 with metabolic syndrome.'
   Evaluates flaxseed’s impact on augmentation index and central BP—factoring in
   ALA conversion efficiency, gut microbiome composition, and 8-week tonometric
   outcomes.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: flaxseed central aortic blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'flaxseed central aortic systolic pressure metabolic syndrome'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
