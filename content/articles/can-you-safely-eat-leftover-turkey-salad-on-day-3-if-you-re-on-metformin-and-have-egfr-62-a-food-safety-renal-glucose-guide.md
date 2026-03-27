@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
   - >-
+    what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia
   - >-
+    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
+    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
   - >-
+    dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd
 ---
 
 # Is Leftover Turkey Salad Safe on Day 3 When You’re on Metformin and Have an eGFR of 62?

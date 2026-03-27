@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes
   - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
   - >-
+    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
   - >-
+    the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
   - >-
+    a-vs-b-home-based-ecg-patch-monitoring-zio-xt-vs-ambulatory-holter-for-detecting-asymptomatic-atrial-fibrillation-burden-in-adults-60-79-with-controlled-hypertension
 ---
 
 # What Everyone Over 72 Needs to Know About Home ECG Devices With Pacemakers and Anticoagulants

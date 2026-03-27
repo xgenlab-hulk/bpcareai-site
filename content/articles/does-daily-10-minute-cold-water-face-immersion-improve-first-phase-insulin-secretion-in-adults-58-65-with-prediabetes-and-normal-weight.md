@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss
   - >-
+    does-daily-3-minute-cold-water-face-immersion-really-improve-vagal-tone-and-postprandial-glucose-stability-in-adults-75-with-type-2-diabetes-and-orthostatic-hypotension
   - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
   - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
   - >-
+    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
 ---
 
 # Can Cold Water Face Immersion Improve Insulin Secretion in Adults 58–65 With Prediabetes?

@@ -9,9 +9,13 @@ topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81
   - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
   - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 ---
 

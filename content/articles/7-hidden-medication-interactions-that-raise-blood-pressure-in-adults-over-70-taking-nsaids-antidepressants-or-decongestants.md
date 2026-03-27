@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
+    10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
   - could-your-medications-be-raising-your-blood-pressure
   - >-
+    7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens
   - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
 ---
 
 # 7 Under-the-Radar Medication Interactions That Raise Blood Pressure in Older Adults Taking NSAIDs, Antidepressants, or Decongestants  

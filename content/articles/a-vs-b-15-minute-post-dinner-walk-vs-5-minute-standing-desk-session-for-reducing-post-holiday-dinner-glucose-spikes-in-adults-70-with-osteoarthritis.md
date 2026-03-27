@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
 ---
 
 # Post-Dinner Walk vs Standing for Seniors with Diabetes: A Practical Guide to Managing Holiday Glucose Spikes

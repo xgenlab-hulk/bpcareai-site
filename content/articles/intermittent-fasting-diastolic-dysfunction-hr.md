@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
+    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
   - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
   - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
   - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
 ---
 
 # How Intermittent Fasting Affects Heart Rate Variability in Adults With Diastolic Dysfunction—Key Insights for Family Gatherings

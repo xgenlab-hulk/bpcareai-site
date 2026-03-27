@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
 ---
 
 # When to Shift From Fasting Glucose to CGM Time-in-Range Holiday Decision Making—A Practical Guide for Adults 55–69

@@ -13,6 +13,7 @@ relatedSlugs:
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
 ---
 
 # Holiday Heart Syndrome in Older Men: Understanding Unique Risks and Prevention Strategies

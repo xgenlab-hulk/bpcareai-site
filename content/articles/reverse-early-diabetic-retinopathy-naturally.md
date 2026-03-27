@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication
   - >-
+    natural-ways-to-support-capillary-rarefaction-reversal-using-low-dose-pomegranate-ellagitannins-and-diaphragmatic-breathing-for-adults-64-79-with-hypertension-and-reduced-nailfold-capillary-density
   - >-
+    what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
   - >-
+    what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose
   - >-
+    10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data
 ---
 
 # Can You Reverse Early Diabetic Retinopathy Naturally? Science-Backed Strategies for Retinal Microvascular Protection

@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
   - >-
+    the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk
 ---
 
 # What You’re Not Being Told About Diabetes-Friendly Protein Bars Hidden Ingredients

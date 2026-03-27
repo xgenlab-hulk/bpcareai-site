@@ -9,6 +9,7 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - the-truth-about-alcohol-and-heart-health-after-55
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults

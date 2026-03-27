@@ -9,10 +9,14 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-stable-a1c-and-rising-fasting-glucose-especially-in-adults-68-84-with-type-2-diabetes-chronic-kidney-disease-stage-3-and-declining-albumin
   - >-
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
+    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
   - understanding-a1c-goals-for-seniors-with-diabetes
   - >-
+    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
 ---
 
 # Why Your A1c Might Be Lying: Understanding A1c Inaccuracy in Anemia, CKD, and Older Adults

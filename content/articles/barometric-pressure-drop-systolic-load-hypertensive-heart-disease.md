@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
   - >-
+    when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
   - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
+    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
   - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
 ---
 
 # How Falling Barometric Pressure Triggers Systolic Load Increases in Older Adults With Hypertensive Heart Disease

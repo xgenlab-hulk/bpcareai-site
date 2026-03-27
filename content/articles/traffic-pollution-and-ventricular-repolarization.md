@@ -9,10 +9,15 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
+    how-living-near-high-traffic-urban-corridors-alters-carotid-intima-media-thickness-progression-in-adults-66-with-controlled-hypertension-and-no-prior-cvd
   - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - >-
+    how-chronic-exposure-to-urban-roadway-noise-55-db-increases-nighttime-sympathetic-tone-and-predicts-new-onset-heart-failure-in-adults-64-with-borderline-hypertension
   - >-
+    how-chronic-exposure-to-low-frequency-traffic-vibration-below-10-hz-modulates-baroreceptor-sensitivity-in-adults-65-70-with-stage-1-hypertension-and-mild-sleep-fragmentation
   - >-
+    how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways
 ---
 
 # How Traffic Pollution and Ventricular Repolarization Interact in Adults 57–65 With Borderline QTc

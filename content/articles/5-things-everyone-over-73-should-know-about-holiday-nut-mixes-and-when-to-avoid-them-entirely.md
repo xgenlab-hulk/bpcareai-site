@@ -9,10 +9,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
+    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
   - >-
+    5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
   - >-
+    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
   - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
+    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
 ---
 
 # What Every Senior 73+ Should Know About Holiday Nut Mixes—Safety, Risks, and Smarter Swaps  

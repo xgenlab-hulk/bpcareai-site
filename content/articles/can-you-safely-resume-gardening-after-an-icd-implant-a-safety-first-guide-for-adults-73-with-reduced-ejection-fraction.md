@@ -9,10 +9,14 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
   - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
   - can-gardening-improve-heart-health-after-50
   - >-
+    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
   - >-
+    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
 ---
 
 # Gardening After ICD Implant: A Calm, Confident Guide for Seniors 73+ With Heart Failure

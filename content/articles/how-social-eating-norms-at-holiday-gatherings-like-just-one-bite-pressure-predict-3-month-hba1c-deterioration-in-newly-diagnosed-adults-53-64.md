@@ -9,8 +9,11 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
   - >-
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---

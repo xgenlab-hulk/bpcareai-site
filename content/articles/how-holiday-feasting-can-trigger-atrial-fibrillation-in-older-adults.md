@@ -9,6 +9,7 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease

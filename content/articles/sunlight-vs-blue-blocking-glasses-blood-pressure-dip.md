@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74
   - >-
+    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
   - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
   - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-
+    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
 ---
 
 # Sunlight vs Blue-Blocking Glasses Blood Pressure Dip: Which Morning or Evening Habit Helps Restore Your Nighttime BP Drop?

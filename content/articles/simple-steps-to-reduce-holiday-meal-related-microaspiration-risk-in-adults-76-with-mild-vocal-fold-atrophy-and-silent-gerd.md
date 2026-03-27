@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
   - >-
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
   - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
+    simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
   - >-
+    when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia
 ---
 
 # Gentle, Joyful Ways to Reduce Microaspiration Holiday Meals Seniors Can Enjoy Safely

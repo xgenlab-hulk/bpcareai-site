@@ -9,10 +9,14 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
   - >-
+    how-holiday-stress-hormones-sabotage-blood-sugar-control-during-family-dinners-cortisol-induced-insulin-resistance-patterns-in-adults-58-65-with-prediabetes
   - >-
+    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - >-
+    5-things-every-woman-over-62-should-know-about-holiday-cortisol-surges-and-their-impact-on-visceral-fat-redistribution-in-prediabetes
 ---
 
 # How Holiday Family Conflict Triggers Cortisol-Driven Glucose Output — Especially for Women 57–65 With Perimenopausal Insulin Resistance

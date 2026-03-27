@@ -9,10 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbiome-derived-trimethylamine-n-oxide-tmao-production-and-accelerates-coronary-artery-calcification-in-adults-70-with-gerd-and-stable-cad
   - >-
+    how-long-term-ppi-use-alters-gut-microbiome-derived-tmao-production-and-its-link-to-plaque-instability-in-adults-67-with-stable-cad
   - >-
+    how-long-term-proton-pump-inhibitor-use-elevates-risk-of-subclinical-atherosclerosis-in-adults-59-71-with-gerd-and-low-hdl-c-independent-of-magnesium-levels
   - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
 ---
 
 # How Proton Pump Inhibitors May Influence TMAO Levels and Coronary Plaque in Older Adults With Stable Angina — Understanding the pills and tmao coronary plaque Connection

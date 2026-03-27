@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern
   - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-
+    a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74
   - >-
+    a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77
   - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
 ---
 
 # Morning Sunlight vs Blue Light Blocking for Seniors: A Practical Guide to Supporting Early-Morning Blood Pressure Control

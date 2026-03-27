@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
   - >-
+    7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
   - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
+    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
 ---
 
 # How Late-Night Snacking After 58 Affects Fasting Glucose—And What Your Liver Is Really Doing Overnight

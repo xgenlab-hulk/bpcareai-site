@@ -9,9 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60
   - >-
+    5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
   - >-
+    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
   - >-
+    12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 

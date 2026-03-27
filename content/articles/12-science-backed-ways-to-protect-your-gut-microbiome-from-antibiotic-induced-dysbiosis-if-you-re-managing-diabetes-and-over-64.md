@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies
   - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
+    how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
   - >-
+    10-foods-that-disrupt-gut-microbiota-diversity-and-worsen-insulin-resistance-in-adults-54-66-with-type-2-diabetes-and-chronic-constipation
 ---
 
 # 12 Science-Backed Ways to Support Your Gut Microbiome During Antibiotics—Especially If You’re Over 64 and Living with Diabetes  

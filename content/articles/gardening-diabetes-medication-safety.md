@@ -9,7 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    12-medication-adjustments-you-should-discuss-with-your-doctor-before-starting-a-walking-group-especially-if-you-re-63-with-type-2-diabetes-mild-ckd-and-diuretic-use
   - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - diabetes-medication-walking-group-seniors-ckda
   - medication-interactions-heart-failure-readmission
   - diabetes-management-dementia-caregiver

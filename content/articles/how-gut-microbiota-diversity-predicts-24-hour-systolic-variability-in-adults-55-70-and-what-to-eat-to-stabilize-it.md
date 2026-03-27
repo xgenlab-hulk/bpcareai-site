@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
   - >-
+    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
   - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
+    12-foods-that-stabilize-blood-pressure-during-long-family-dinners-not-just-after-with-timing-portion-and-pairing-rules-for-adults-57-69
   - >-
+    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
 ---
 
 # How Gut Microbiome Diversity Influences Systolic Blood Pressure Variability in Adults 55–70

@@ -9,9 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 

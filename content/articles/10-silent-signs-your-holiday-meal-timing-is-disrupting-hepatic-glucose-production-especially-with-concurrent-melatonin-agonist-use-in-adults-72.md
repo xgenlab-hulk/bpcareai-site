@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
   - >-
+    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
   - >-
+    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
   - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
   - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # How Holiday Meal Timing Affects Hepatic Glucose Regulation — Especially in Adults 72+ on Melatonin Agonists

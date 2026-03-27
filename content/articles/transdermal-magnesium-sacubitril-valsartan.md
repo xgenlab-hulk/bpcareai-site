@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
   - >-
+    a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome
   - >-
+    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
   - >-
+    what-are-the-earliest-signs-your-evening-magnesium-glycinate-dose-is-causing-subclinical-bp-instability-even-with-normal-serum-levels-in-adults-66-with-mild-diastolic-dysfunction
   - >-
+    does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
 ---
 
 # Is Transdermal Magnesium Chloride Safe with Sacubitril/Valsartan in Older Adults with Heart Failure?

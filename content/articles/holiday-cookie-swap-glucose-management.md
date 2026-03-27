@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
   - >-
+    5-things-you-should-know-before-accepting-a-holiday-cookie-swap-especially-if-you-re-81-with-severe-peripheral-neuropathy-and-nocturnal-hypoglycemia-history
   - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
   - >-
+    12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
   - >-
+    a-vs-b-gluten-free-holiday-cookies-vs-low-glycemic-oat-based-bars-for-post-meal-glucose-stability-in-adults-71-with-celiac-associated-diabetes
 ---
 
 # Turning Your Holiday Cookie Swap Into a Glucose-Smart Celebration: A Practical Guide to Holiday Cookie Swap Glucose Management

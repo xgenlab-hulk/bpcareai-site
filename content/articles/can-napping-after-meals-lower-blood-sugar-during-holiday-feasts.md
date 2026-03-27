@@ -13,6 +13,7 @@ relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # Can Napping After Meals Help Manage Blood Sugar? The Science Behind Post-Meal Rest

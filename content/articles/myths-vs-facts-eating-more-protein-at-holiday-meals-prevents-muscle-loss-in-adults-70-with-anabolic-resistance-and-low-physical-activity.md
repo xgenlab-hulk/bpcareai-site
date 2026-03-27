@@ -11,8 +11,11 @@ relatedSlugs:
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
   - >-
+    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
   - >-
+    myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
   - >-
+    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
 ---
 
 # Holiday Protein Myths vs. Reality: What Seniors 70+ Really Need to Protect Muscle

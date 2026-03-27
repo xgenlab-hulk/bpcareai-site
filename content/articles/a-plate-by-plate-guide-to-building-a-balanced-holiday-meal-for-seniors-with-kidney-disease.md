@@ -9,6 +9,7 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals

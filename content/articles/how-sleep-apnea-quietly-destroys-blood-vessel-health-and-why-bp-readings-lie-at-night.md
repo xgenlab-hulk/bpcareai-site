@@ -13,6 +13,7 @@ relatedSlugs:
   - how-morning-blood-pressure-spikes-affect-your-heart
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
+    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
 ---
 
 # How Sleep Apnea Nighttime Blood Pressure Silently Strains Your Arteries—And Why Morning Readings Don’t Tell the Whole Story

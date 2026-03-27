@@ -13,6 +13,7 @@ relatedSlugs:
   - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
   - what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
   - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
 ---
 
 # How Food Traditions and Disease Risk Shape Heart Health as We Age

@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
   - >-
+    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
   - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
   - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics
   - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
 ---
 
 # What Every 73+ Adult Should Know About BP Meds Driving Safety

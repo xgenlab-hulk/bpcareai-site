@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
   - >-
+    what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
 ---
 
 # Sudden Hearing Loss, Hyperglycemia, and Prediabetes in Adults 63+: What’s Really Happening

@@ -9,9 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
   - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
   - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
 ---
 

@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
   - >-
+    warning-signs-of-diabetic-myonecrosis-in-adults-58-with-long-term-poor-control-and-unilateral-thigh-pain-often-misdiagnosed-as-sciatica-or-dvt
   - >-
+    simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
   - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
   - >-
+    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
 ---
 
 # Early Diabetic Foot Osteomyelitis Warning Signs in Older Adults — Before Ulcers Appear

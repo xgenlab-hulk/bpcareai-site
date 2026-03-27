@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d
   - >-
+    a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
   - >-
+    12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin
   - >-
+    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
   - >-
+    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
 ---
 
 # Sweet Potatoes Glucose Variability in Seniors: How Cooking Method and Added Sugar Affect Blood Sugar After Meals

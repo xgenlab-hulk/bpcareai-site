@@ -9,10 +9,13 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - the-link-between-hearing-loss-and-heart-disease-after-60
   - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
+    does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
 ---
 
 # Hearing Loss as a Window into Vascular Aging in Men Over 75

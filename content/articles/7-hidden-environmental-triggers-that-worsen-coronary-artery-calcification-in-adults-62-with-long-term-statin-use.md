@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd
   - >-
+    10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease
   - >-
+    how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina
   - >-
+    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
   - >-
+    7-overlooked-environmental-triggers-that-elevate-nighttime-heart-rate-variability-in-adults-74-with-mild-copd-from-humidifier-mineral-dust-to-bedroom-wall-paint-vocs
 ---
 
 # Environmental Factors That Accelerate Coronary Artery Calcification in Seniors on Long-Term Statins

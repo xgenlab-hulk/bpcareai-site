@@ -9,10 +9,14 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
   - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids
   - >-
+    10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
   - could-your-medications-be-raising-your-blood-pressure
   - >-
+    7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens
 ---
 
 # 7 Surprising Ways Medication Interactions Raise Blood Pressure in Seniors 70+

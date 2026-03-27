@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
   - >-
+    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
   - >-
+    what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities
   - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
   - >-
+    what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
 ---
 
 # Early Hypoglycemia Cognitive Red Flags in Older Adults With Long-Standing Type 1 Diabetes

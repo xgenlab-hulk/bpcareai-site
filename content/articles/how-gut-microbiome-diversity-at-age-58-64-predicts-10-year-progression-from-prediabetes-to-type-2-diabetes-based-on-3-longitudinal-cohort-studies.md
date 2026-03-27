@@ -9,9 +9,11 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
   - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - >-
+    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
 ---
 

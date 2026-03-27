@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
   - >-
+    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
   - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
 ---
 
 # How Morning Sunlight and Midday Blood Pressure Are Connected—Especially for Adults Over 50

@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
   - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
   - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
   - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
   - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
 ---
 
 # Understanding Postprandial Hypertension After Eating in Seniors: Why Blood Pressure Rises After Meals—and What You Can Do

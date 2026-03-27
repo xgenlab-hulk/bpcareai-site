@@ -9,7 +9,9 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - >-
+    7-hidden-medication-interactions-that-elevate-heart-failure-readmission-risk-within-30-days-of-hospital-discharge-especially-in-adults-75-with-polypharmacy
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults

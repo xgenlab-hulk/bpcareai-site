@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
+    12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication
   - >-
+    7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes
   - >-
+    what-are-the-earliest-signs-your-denture-adhesive-is-causing-subclinical-cobalamin-deficiency-and-why-that-accelerates-autonomic-neuropathy-progression-in-adults-75-with-type-2-diabetes
 ---
 
 # Zinc Hearing Aid Batteries and Diabetic Retinopathy: What Older Adults Should Know — Gently and Clearly

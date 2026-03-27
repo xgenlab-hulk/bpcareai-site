@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
   - >-
+    the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
   - >-
+    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
   - >-
+    what-research-says-about-blood-pressure-variability-as-a-predictor-of-cognitive-decline-in-women-60-74-with-normal-mean-bp-but-high-visit-to-visit-sd
   - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
 ---
 
 # Understanding Ambulatory Blood Pressure Variability Interpretation: A Gentle, Practical Guide for Adults 66 and Older

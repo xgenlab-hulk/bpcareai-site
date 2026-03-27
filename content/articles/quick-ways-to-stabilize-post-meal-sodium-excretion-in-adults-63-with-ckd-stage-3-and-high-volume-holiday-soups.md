@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
   - >-
+    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
   - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
   - >-
+    can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
 ---
 
 # Supporting Sodium Excretion in CKD Stage 3 During Holiday Soups — Gentle, Practical Steps for Adults 63+

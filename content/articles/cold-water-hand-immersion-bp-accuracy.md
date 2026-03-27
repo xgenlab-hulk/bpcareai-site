@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
   - >-
+    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
   - >-
+    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
   - >-
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
   - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
 ---
 
 # How Cold-Water Hand Immersion BP Accuracy Affects Morning Blood Pressure Readings in Older Adults With PAD

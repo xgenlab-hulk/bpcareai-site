@@ -9,9 +9,12 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 

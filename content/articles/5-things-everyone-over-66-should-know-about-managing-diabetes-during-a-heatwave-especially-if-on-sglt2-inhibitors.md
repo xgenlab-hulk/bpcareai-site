@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
   - >-
+    10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
+    holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
   - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
 ---
 
 # What Everyone Over 66 Needs to Know About Diabetes Management During a Heatwave—Especially on SGLT2 Inhibitors

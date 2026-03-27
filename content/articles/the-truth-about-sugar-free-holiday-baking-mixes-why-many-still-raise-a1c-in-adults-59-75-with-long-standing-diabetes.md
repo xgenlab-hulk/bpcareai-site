@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - >-
+    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
   - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
   - >-
+    the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 ---
 
 # What You *Really* Need to Know About Sugar-Free Baking Mixes and A1C — Especially If You’re Managing Diabetes Over 59

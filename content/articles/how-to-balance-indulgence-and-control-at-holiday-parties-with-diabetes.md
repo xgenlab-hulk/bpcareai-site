@@ -9,7 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70

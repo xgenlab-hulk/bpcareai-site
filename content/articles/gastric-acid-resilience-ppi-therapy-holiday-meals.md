@@ -9,10 +9,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - >-
+    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
   - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
+    can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
 ---
 
 # Gentle Strategies for Gastric Acid Resilience During Holiday Meals — Especially for Adults 67+ on Long-Term PPI Therapy

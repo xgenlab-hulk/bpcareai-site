@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
+    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
   - >-
+    7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying
   - >-
+    7-hidden-triggers-of-after-dinner-blood-sugar-spikes-at-family-dinners-and-how-to-neutralize-them-without-skipping-dessert
 ---
 
 # Why Postprandial Glucose Spikes Family Meals Matter More Than You Think — Especially After 62

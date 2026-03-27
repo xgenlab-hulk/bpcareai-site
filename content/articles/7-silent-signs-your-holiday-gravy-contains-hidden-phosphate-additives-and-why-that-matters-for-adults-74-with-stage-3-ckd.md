@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-turkey-gravy-is-causing-subclinical-hyperkalemia-especially-in-adults-73-with-stage-3-ckd-and-ace-inhibitor-use
   - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
   - >-
+    5-things-you-should-know-before-bringing-a-heart-smart-casserole-to-a-family-gathering-especially-if-you-re-74-with-stage-3-ckd
   - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
 ---
 
 # What Your Holiday Gravy Might Be Hiding — And Why holiday gravy phosphate kidney disease seniors Should Take Notice

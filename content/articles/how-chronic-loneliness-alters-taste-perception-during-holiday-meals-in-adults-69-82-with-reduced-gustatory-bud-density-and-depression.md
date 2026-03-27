@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - the-link-between-loneliness-during-holidays-and-poor-diabetes-control
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - >-
+    13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps
 ---
 
 # How Loneliness Alters Taste Perception During Holiday Meals in Older Adults—and What You Can Do About It

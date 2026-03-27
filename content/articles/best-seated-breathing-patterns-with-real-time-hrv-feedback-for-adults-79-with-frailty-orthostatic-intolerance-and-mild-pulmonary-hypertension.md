@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
   - >-
+    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
   - >-
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
   - vagal-breathing-central-systolic-pressure
   - >-
+    best-seated-resistance-band-exercises-with-real-time-bp-feedback-for-adults-80-with-orthostatic-intolerance-and-severe-knee-osteoarthritis
 ---
 
 # Gentle Seated Breathing with Real-Time HRV Feedback for Older Adults Living with Frailty

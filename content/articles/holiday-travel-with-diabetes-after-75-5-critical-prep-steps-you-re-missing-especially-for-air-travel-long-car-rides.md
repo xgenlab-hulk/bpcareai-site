@@ -11,8 +11,10 @@ relatedSlugs:
   - managing-diabetes-while-traveling-tips-for-seniors
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - >-
+    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
 ---
 
 # Holiday Travel With Diabetes After 75: Smart, Stress-Free Diabetes Travel Prep After 75

@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
   - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
+    best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision
   - >-
+    how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
   - >-
+    can-you-safely-use-sauna-therapy-after-a-recent-diabetic-foot-ulcer-closure-evidence-based-temperature-duration-and-hydration-thresholds-for-adults-68-with-peripheral-neuropathy
 ---
 
 # Is It Safe to Use Infrared Heating Pads While Taking ACE Inhibitors? A Practical Guide for Adults 72+ With Stage 2 Hypertension and Mild CKD  

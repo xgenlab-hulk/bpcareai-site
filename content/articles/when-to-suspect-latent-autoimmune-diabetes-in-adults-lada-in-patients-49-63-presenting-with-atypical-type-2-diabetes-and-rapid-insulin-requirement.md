@@ -9,10 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
   - >-
+    when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving
   - >-
+    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
   - >-
+    the-complete-guide-to-managing-brittle-glucose-patterns-in-adults-55-69-with-type-1-diabetes-autonomic-neuropathy-and-frequent-unexplained-hypoglycemia
   - >-
+    how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
 ---
 
 # Recognizing LADA in Adults 49–63: When “Atypical” Type 2 Diabetes Signals Autoimmune Onset  

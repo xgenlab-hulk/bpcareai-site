@@ -9,10 +9,14 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
   - >-
+    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - >-
+    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
   - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
 ---
 
 # Non-Alcoholic Drinks and Holiday Heart Syndrome: What Adults 67+ With Silent Heart Changes Need to Know

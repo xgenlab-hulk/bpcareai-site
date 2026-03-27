@@ -9,7 +9,9 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
   - >-
+    how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - 7-hidden-winter-habits-that-worsen-hypertension-after-60

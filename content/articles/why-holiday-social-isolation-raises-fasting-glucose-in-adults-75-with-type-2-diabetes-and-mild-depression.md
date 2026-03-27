@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
   - >-
+    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
   - >-
+    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
   - >-
+    how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79
   - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
 ---
 
 # How Social Isolation During the Holidays Affects Fasting Glucose in Older Adults with Type 2 Diabetes

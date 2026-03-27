@@ -9,9 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
 ---
 

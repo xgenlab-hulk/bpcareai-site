@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
   - >-
+    how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d
   - >-
+    why-your-blood-glucose-monitor-readings-jump-after-a-15-minute-hot-bath-and-what-to-do-instead-for-accurate-tracking-in-adults-67-83-with-peripheral-neuropathy-and-poor-capillary-flow
   - >-
+    warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
   - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
 ---
 
 # Why Dry Air Fasting Glucose Accuracy Matters More Than You Think—Especially in Winter

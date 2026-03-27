@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
+    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
   - >-
+    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
+    a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
   - >-
+    a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
 ---
 
 # Collard Greens Heart Failure Diuretics Comparison: Which Cooking Method Is Better for Your Heart?

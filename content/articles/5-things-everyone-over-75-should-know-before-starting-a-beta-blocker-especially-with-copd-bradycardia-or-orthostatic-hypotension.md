@@ -9,10 +9,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-managing-heart-disease-while-recovering-from-cataract-surgery-practical-protocols-for-adults-73-on-beta-blockers-with-preoperative-resting-hr-58-bpm
   - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
   - >-
+    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
   - >-
+    5-things-your-pharmacist-won-t-tell-you-about-blood-pressure-meds-and-driving-safety-in-adults-73
 ---
 
 # What to Know Before Starting a Beta-Blocker After Age 75 — Especially With COPD, Slow Heart Rate, or Dizziness on Standing

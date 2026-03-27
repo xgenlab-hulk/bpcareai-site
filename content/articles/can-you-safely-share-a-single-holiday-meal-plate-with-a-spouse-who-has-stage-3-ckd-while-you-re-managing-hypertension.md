@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
   - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
 ---
 
 # Shared Holiday Meal Hypertension CK3: Navigating Dual-Diet Needs at Family Gatherings

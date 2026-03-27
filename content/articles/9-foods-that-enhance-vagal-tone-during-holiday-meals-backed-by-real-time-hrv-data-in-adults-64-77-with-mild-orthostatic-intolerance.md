@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
   - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
   - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
 ---
 
 # 9 Holiday Foods That Gently Support Vagal Tone in Seniors — Real HRV Data Included

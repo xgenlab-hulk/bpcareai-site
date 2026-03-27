@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
   - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
   - >-
+    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
   - >-
+    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
   - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
 ---
 
 # Gentle Ways to Restore Morning Light Exposure After Cataract Surgery—Especially for Adults Over 68 With Seasonal Mood Swings

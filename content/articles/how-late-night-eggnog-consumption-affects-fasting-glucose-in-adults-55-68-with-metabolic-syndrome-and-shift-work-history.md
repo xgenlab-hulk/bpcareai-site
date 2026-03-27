@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
   - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
   - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # How Late-Night Eggnog Affects Fasting Glucose in Adults 55–68 With Metabolic Syndrome and Shift-Work History  

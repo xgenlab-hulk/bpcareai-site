@@ -9,7 +9,9 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
   - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - how-indoor-air-quality-affects-heart-health-in-winter
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
   - how-air-pollution-impacts-heart-health-in-older-adults

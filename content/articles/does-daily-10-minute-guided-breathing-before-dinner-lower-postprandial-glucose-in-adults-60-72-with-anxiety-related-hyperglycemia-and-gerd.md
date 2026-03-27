@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
   - >-
+    can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes
   - >-
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
   - >-
+    does-daily-10-minute-guided-vagal-breathing-lower-central-systolic-pressure-in-adults-60-73-with-elevated-aortic-augmentation-index-and-high-job-stress
   - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
 ---
 
 # Can Guided Breathing Before Dinner Help Glucose Control in Seniors with Anxiety and GERD?

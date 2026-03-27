@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
   - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
   - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
   - >-
+    what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
   - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
 ---
 
 # When Sudden Fatigue After Holiday Meals Might Signal Early Diastolic Dysfunction — A Gentle Guide for Women 65+ with Obesity and Sleep Apnea

@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
   - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
   - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
   - >-
+    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
 ---
 
 # Supporting Mitochondrial Biogenesis in Skeletal Muscle After 63 — Especially With Prediabetes and Low VO₂ Peak

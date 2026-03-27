@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
   - >-
+    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
   - >-
+    best-hydration-strategies-during-holiday-travel-for-adults-71-with-stage-3-ckd-and-diuretic-use-to-prevent-hypovolemia-induced-arrhythmias
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
 ---
 
 # Quick, Kidney-Safe Ways to Neutralize Holiday Sodium Quickly Seniors CK — Especially with CKD Stage 3

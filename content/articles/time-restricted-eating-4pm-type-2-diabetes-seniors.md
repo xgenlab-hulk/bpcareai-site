@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - >-
+    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
+    natural-ways-to-support-cardiac-mitochondrial-biogenesis-using-time-restricted-eating-with-late-afternoon-polyphenol-timing-for-adults-59-74-with-diastolic-heart-failure-and-low-peak-vo2
   - >-
+    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
   - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction
 ---
 
 # How Early Time-Restricted Eating—Starting at 4 p.m.—May Support Heart Health in Older Adults with Type 2 Diabetes and Early Diastolic Dysfunction

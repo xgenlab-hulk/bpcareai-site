@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
+    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
   - >-
+    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
   - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
 ---
 
 # “My BP Is Fine at the Doctor’s Office”—Why That Doesn’t Tell the Full Story for Shift Workers

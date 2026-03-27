@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks
   - >-
+    natural-ways-to-support-pancreatic-beta-cell-rest-during-holiday-meals-using-cold-pressed-apple-cinnamon-chutney-and-pre-meal-seated-breathing-in-adults-63
   - >-
+    natural-ways-to-support-beta-cell-resilience-during-spring-allergy-season-without-antihistamines-or-corticosteroids-in-adults-55-65-with-recent-onset-type-1-diabetes
   - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia
   - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
 ---
 
 # Supporting Beta-Cell Resilience During Holiday Eating — Gentle, Science-Informed Strategies for Adults 57–65 With New-Onset Type 2 Diabetes

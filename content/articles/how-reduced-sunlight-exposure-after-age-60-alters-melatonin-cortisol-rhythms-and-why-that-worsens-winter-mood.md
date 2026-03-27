@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
   - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - can-dog-ownership-reduce-seasonal-depression-risk-in-retired-seniors

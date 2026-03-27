@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide
   - >-
+    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
   - >-
+    natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements
   - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia
   - >-
+    how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
 ---
 
 # Natural Ways to Support Beta-Cell Responsiveness in Older Adults — Fasting-Mimicking Cycles & Polyphenol-Rich Fermented Foods

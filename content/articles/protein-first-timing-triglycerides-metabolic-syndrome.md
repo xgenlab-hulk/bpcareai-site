@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
   - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
+    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
   - >-
+    quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa
   - >-
+    quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
 ---
 
 # When to Take That First Bite: Protein-First Timing Triglycerides Metabolic Syndrome Strategies for Calmer Holiday Meals

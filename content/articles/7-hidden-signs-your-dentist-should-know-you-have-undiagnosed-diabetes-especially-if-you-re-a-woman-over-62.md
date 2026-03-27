@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
   - >-
+    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - >-
+    what-are-the-earliest-changes-in-skin-elasticity-and-wound-healing-that-signal-subclinical-microvascular-damage-in-women-over-65-with-long-standing-diabetes
   - >-
+    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
 ---
 
 # What Your Mouth Might Be Telling Your Dentist About Undiagnosed Diabetes—Especially If You’re a Woman Over 62

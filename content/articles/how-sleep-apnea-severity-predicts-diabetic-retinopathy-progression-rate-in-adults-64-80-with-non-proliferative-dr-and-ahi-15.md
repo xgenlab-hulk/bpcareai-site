@@ -9,10 +9,15 @@ topicCluster: complications-management
 image: ''
 relatedSlugs:
   - >-
+    how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes
   - >-
+    how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
   - >-
+    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
   - >-
+    what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
   - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
 ---
 
 # How Sleep Apnea Influences Diabetic Retinopathy Progression in Adults 64–80

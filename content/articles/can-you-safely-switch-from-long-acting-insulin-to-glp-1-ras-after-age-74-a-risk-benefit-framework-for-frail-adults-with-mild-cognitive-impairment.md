@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - is-metformin-still-safe-for-diabetics-over-70
   - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
 ---
 
 # Navigating the Insulin to GLP-1 Switch in Frail Elderly Adults: A Gentle, Evidence-Informed Guide

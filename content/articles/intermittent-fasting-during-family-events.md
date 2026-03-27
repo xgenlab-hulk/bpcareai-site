@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - >-
+    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
   - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # Intermittent Fasting During Family Events: Why Rigid Schedules Can Work Against You—Especially After 59

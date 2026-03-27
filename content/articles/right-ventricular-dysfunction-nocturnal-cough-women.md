@@ -9,10 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
+    natural-ways-to-support-right-ventricular-adaptation-to-pulmonary-vascular-resistance-in-adults-63-79-with-mild-copd-and-preserved-left-ventricular-ejection-fraction
   - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
 ---
 
 # Right Ventricular Dysfunction Nocturnal Cough in Women 58–67: When Heart Signals Masquerade as Lung Trouble

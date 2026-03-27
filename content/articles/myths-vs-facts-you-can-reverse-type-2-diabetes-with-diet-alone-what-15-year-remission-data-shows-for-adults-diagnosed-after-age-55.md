@@ -9,10 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-eating-less-sugar-alone-will-reverse-type-2-diabetes-in-adults-58-73-with-12-years-duration
   - can-prediabetes-be-reversed-after-age-50
   - intermittent-fasting-beta-cell-regeneration
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
 ---
 
 # Can Type 2 Diabetes Be Reversed After 55? What 15-Year Data Reveals About Long-Term Remission

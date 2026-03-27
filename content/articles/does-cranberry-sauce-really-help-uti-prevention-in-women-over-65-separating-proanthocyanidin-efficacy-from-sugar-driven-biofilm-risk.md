@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
   - >-
+    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
   - >-
+    what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
   - >-
+    why-cranberry-sauce-triggers-reflux-induced-nocturnal-hypertension-in-adults-68-with-hiatal-hernia-and-mild-sleep-apnea
   - >-
+    a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes
 ---
 
 # Cranberry Sauce UTI Prevention Seniors: What Science Says About Holiday Favorites and Bladder Health

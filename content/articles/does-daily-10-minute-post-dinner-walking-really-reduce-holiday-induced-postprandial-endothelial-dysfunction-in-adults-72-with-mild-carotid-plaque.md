@@ -9,10 +9,14 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
+    12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma
   - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
+    a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea
 ---
 
 # Can Post-Dinner Walking Improve Endothelial Function in Seniors Over 72 with Carotid Plaque? What the Science Says

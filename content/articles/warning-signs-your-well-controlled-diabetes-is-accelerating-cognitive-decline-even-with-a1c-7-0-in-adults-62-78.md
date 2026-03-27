@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
   - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
   - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
 ---
 
 # Early Diabetes Cognitive Decline Warning Signs—Even With “Good” A1c in Adults 62–78

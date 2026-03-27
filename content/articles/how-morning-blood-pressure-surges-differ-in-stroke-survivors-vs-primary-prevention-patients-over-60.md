@@ -9,10 +9,14 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
   - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
+    what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
   - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
   - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
 ---
 
 # How Morning Blood Pressure Surges Affect Stroke Survivors Over 60—And Why Timing Matters

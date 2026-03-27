@@ -9,9 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
   - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 

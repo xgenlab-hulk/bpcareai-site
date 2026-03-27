@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - >-
+    7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
   - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
   - >-
+    myths-vs-facts-i-don-t-need-eye-exams-because-my-vision-is-fine-what-oct-angiography-reveals-about-early-retinal-capillary-dropout-in-adults-61-with-8-year-t2d-history
   - >-
+    warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
 ---
 
 # Retinal Signs Uncontrolled BP Diabetes: What Subtle Eye Changes May Reveal — Even With “Normal” Readings

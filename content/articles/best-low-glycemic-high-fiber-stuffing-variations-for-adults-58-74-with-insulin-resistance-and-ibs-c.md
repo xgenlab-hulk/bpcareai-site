@@ -9,10 +9,14 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - >-
+    the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
   - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - >-
+    why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead
 ---
 
 # Low-Glycemic Stuffing for Insulin Resistance and IBS-C: A Gentle, Science-Savvy Guide for Holiday Feasting (Ages 58–74)

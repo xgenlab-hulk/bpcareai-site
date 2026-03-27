@@ -9,9 +9,12 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
   - foot-care-basics-every-senior-with-diabetes-should-know
   - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 

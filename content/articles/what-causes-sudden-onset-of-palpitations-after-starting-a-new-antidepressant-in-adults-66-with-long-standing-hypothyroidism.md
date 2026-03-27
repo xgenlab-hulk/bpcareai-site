@@ -9,9 +9,13 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens
   - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics
   - >-
+    when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism
   - >-
+    7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers
 ---
 
 # Why Antidepressant Palpitations Happen in Seniors 66+ With Hypothyroidism — And What’s Safer

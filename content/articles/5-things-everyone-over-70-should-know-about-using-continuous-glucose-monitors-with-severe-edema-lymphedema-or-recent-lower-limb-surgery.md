@@ -9,10 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
   - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
   - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
   - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
+    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
 ---
 
 # Can You Use a CGM With Severe Leg Swelling or After Surgery? What Seniors Over 70 Need to Know

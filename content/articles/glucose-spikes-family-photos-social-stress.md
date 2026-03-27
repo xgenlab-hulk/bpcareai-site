@@ -9,8 +9,11 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
   - >-
+    how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
 ---

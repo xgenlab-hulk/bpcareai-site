@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
   - >-
+    12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings
   - >-
+    a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension
   - >-
+    a-vs-b-12-minute-tai-chi-qigong-flow-vs-guided-4-7-8-breathing-with-biofeedback-impact-on-central-aortic-systolic-pressure-in-women-69-with-isolated-systolic-hypertension
   - >-
+    simple-steps-to-reduce-aortic-pulse-wave-velocity-using-only-a-blood-pressure-cuff-a-smartphone-mic-and-your-evening-walk-for-adults-65-with-isolated-systolic-hypertension
 ---
 
 # Which Is Better for Central Pulse Pressure: Morning Ankle Circles or Evening Calf Squeezes in Adults 71+ With Stiff Arteries?

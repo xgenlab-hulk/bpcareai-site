@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
   - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
+    12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
   - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
   - >-
+    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
 ---
 
 # How Nighttime Light Exposure Affects GLP-1, Fasting Glucose, and Metabolic Health in Adults 59+ With Shift Work History

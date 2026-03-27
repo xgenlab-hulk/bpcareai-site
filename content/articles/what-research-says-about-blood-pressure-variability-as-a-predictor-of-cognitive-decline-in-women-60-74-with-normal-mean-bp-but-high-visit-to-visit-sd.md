@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
   - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
   - >-
+    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
   - >-
+    how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
   - >-
+    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
 ---
 
 # Blood Pressure Variability and Cognitive Decline in Women Ages 60–74: What the Evidence Shows

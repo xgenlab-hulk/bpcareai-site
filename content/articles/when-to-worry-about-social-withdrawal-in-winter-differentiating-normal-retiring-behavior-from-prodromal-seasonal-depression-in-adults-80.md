@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
   - >-
+    is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
   - >-
+    when-to-worry-about-winter-apathy-vs-early-depression-in-men-over-70-a-4-point-clinical-red-flag-checklist
 ---
 
 # When Social Withdrawal in Winter Signals Seasonal Depression in Adults 80+: A Guide for Caregivers and Primary Care Providers

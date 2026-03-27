@@ -11,6 +11,7 @@ relatedSlugs:
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - >-
+    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
   - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 ---

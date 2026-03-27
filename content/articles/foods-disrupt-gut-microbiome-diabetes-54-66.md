@@ -9,9 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
   - >-
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
   - >-
+    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
   - >-
+    how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs
 ---
 
 # Gut Bacteria Dying? Hidden Foods That Worsen Diabetes and Constipation (Adults 54-66)

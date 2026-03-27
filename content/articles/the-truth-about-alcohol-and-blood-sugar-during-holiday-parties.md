@@ -9,6 +9,7 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65

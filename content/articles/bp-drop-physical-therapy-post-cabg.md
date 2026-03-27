@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-suspect-orthostatic-hypertension-instead-of-hypotension-in-adults-77-with-recurrent-falls-and-why-your-bp-cuff-may-be-lying-to-you
   - >-
+    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
   - >-
+    best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk
   - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
+    blood-pressure-management-for-adults-80-with-severe-orthostatic-hypotension-and-recurrent-syncope-not-just-sitting-sbp
 ---
 
 # When a BP Drop During Physical Therapy After CABG Warrants Closer Look — Especially for Adults 76+

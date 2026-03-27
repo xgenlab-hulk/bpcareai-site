@@ -9,8 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---

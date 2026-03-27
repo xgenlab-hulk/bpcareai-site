@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
   - >-
+    a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis
   - >-
+    what-are-the-silent-signs-your-holiday-nuts-are-causing-subclinical-oxidative-stress-in-adults-75-with-mild-ckd-stage-2
   - >-
+    can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
   - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
 ---
 
 # How Holiday Leftovers Thermal Lag Oxidative Stress Affects Brain Health in Older Adults

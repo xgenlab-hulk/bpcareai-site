@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - blood-pressure-caregiver-parkinsons-spouse
   - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
   - diabetes-management-dementia-caregiver-seniors
   - diabetes-management-dementia-caregiver
   - diabetes-management-dementia-caregiver-support

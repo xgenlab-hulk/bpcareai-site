@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
   - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
   - >-
+    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
 ---
 
 # Can Intermittent Fasting Support Beta-Cell Function in Adults With Early-Stage Type 2 Diabetes?

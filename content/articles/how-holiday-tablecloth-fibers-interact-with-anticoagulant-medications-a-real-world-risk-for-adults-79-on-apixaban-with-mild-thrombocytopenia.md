@@ -9,10 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-tablecloth-texture-affects-swallowing-efficiency-in-adults-81-with-presbyphagia-and-why-linen-beats-polyester-for-bolus-control
   - >-
+    the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
   - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
+    what-are-the-earliest-signs-of-holiday-induced-hypercoagulability-in-adults-71-with-atrial-fibrillation-and-sedentary-winter-habits
   - >-
+    5-things-everyone-over-72-should-know-about-dual-antiplatelet-therapy-after-pci-especially-if-you-take-otc-nsaids-or-eat-natto-daily
 ---
 
 # Understanding Holiday Tablecloth Anticoagulant Interaction: Practical Safety Tips for Older Adults on Apixaban

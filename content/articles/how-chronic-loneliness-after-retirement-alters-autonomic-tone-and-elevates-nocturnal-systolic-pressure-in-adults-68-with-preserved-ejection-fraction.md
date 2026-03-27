@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-loneliness-after-retirement-affects-24-hour-blood-pressure-patterns-in-adults-62-78-with-preserved-ejection-fraction
   - >-
+    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
   - >-
+    how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
   - >-
+    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
   - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
 ---
 
 # How Loneliness and Nocturnal Blood Pressure in Seniors Are Connected—And What You Can Do About It

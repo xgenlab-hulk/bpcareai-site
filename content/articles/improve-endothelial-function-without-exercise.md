@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
   - >-
+    natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad
   - >-
+    5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
   - >-
+    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
   - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
 ---
 
 # 12 Gentle, Science-Backed Ways to Improve Endothelial Function Without Exercise—Especially for Adults 67–81

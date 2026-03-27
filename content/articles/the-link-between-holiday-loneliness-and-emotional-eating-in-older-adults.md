@@ -11,6 +11,7 @@ relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - how-social-isolation-increases-heart-disease-risk-after-60
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---

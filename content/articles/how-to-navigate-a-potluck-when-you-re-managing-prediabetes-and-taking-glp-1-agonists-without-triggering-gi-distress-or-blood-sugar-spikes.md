@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
+    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
   - >-
+    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
 ---
 
 # How to Enjoy a Potluck Safely When You Have Prediabetes and Use GLP-1 Agonists  

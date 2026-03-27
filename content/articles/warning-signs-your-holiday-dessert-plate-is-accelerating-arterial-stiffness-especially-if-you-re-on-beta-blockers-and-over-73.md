@@ -9,6 +9,7 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome

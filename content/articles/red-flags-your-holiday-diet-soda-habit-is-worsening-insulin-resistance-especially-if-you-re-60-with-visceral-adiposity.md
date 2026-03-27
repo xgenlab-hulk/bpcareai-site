@@ -10,9 +10,11 @@ image: ''
 relatedSlugs:
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
   - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
   - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
+    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # Is Your Holiday Diet Soda Habit Fueling Insulin Resistance—Especially With Visceral Adiposity After Age 60?

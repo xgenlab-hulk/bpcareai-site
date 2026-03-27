@@ -9,9 +9,11 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label
   - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
   - 10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
   - >-
+    does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
   - hidden-salt-surprising-foods-that-raise-blood-pressure
 ---
 

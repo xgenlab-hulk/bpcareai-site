@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
   - >-
+    warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
   - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
   - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
   - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # When Unexplained Weight Gain Persists Despite Calorie Restriction in Adults with New-Onset Type 2 Diabetes and Subclinical Hypothyroidism

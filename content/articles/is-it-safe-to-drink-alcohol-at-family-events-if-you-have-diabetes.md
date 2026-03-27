@@ -9,9 +9,12 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
   - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
   - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
 ---
 

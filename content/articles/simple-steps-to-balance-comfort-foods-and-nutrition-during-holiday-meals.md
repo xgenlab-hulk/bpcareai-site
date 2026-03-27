@@ -9,8 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
   - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
 ---

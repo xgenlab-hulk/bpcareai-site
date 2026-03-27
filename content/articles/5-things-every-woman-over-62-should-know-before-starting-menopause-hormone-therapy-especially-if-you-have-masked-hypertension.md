@@ -11,8 +11,11 @@ relatedSlugs:
   - blood-pressure-changes-during-menopause-what-women-should-know
   - blood-pressure-fluctuations-during-menopause-what-women-should-know
   - >-
+    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
   - >-
+    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
   - >-
+    how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
 ---
 
 # Is Hormone Therapy Safe for Your Blood Pressure at 62+? What Women Need to Know

@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-counteract-holiday-induced-histamine-load-in-seniors-with-chronic-urticaria-and-dao-deficiency
   - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
   - >-
+    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
   - >-
+    7-common-mistakes-that-worsen-post-holiday-joint-stiffness-in-adults-67-with-radiographic-osteoarthritis-even-without-weight-gain
   - >-
+    what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit
 ---
 
 # Why You Might Get Sudden Joint Swelling After Holiday Gravy — And What Seniors Can Do About It

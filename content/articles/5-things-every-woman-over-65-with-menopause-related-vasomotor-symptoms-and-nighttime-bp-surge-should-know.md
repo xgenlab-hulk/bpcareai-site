@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
   - >-
+    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
   - blood-pressure-changes-during-menopause-what-women-should-know
   - >-
+    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
   - >-
+    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
 ---
 
 # Hot Flashes Spiking Your Nighttime Blood Pressure? What Women 65+ Should Know

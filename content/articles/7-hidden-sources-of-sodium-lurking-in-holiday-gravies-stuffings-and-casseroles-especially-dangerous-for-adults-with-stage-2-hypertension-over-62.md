@@ -10,9 +10,11 @@ image: ''
 relatedSlugs:
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
+    can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
 ---
 
 # Hidden Sodium in Holiday Food Hypertension: What Your Favorite Casseroles, Gravies, and Stuffings Might Be Hiding

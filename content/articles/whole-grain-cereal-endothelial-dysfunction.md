@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-heart-healthy-instant-oatmeal-packets-labeled-for-seniors-why-91-contain-hidden-beta-glucan-antagonists-that-impair-endothelial-no-release-in-adults-65-with-subclinical-atherosclerosis
   - >-
+    the-truth-about-heart-healthy-granola-bars-marketed-to-seniors-why-91-contain-palmitic-acid-induced-endothelial-stiffness-in-adults-67-with-mild-hypertension
   - >-
+    the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick
   - >-
+    7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria
   - >-
+    myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction
 ---
 
 # What Whole-Grain Cereal *Really* Does to Your Arteries After 60 — Unpacking Whole Grain Cereal Endothelial Dysfunction

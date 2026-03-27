@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
   - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
+    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
   - >-
+    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
 ---
 
 # Why You Might Notice a Morning Blood Pressure Spike After Coffee — And What You Can Do About It

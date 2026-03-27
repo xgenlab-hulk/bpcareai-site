@@ -12,6 +12,7 @@ relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - can-meditation-reduce-heart-disease-risk-after-50
   - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
 ---
 

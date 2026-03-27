@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis
   - >-
+    a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity
   - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
+    a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms
   - >-
+    a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea
 ---
 
 # Chair Yoga vs Wall Sit Postprandial Glucose: What Happens After Lunch in Adults 76+ With Severe Knee Osteoarthritis?

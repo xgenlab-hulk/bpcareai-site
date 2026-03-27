@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
   - >-
+    what-are-the-earliest-signs-your-evening-magnesium-glycinate-dose-is-causing-subclinical-bp-instability-even-with-normal-serum-levels-in-adults-66-with-mild-diastolic-dysfunction
   - >-
+    best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl
   - >-
+    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
   - >-
+    12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings
 ---
 
 # Does Magnesium Glycinate Central Aortic Pressure Improve With Daily Supplementation in Older Adults? Insights From the MAG-CAP Trial

@@ -9,10 +9,14 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
   - the-hidden-link-between-gum-disease-and-heart-problems
   - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
   - >-
+    how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial
 ---
 
 # How Gum Disease and Coronary Artery Calcification Are Linked—And What You Can Do About It

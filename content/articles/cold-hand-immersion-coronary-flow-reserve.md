@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad
   - >-
+    natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca
   - >-
+    5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
   - >-
+    does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
   - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
 ---
 
 # Can Cold Hand Immersion Coronary Flow Reserve Help Adults With Stable Angina and No Blocked Arteries?

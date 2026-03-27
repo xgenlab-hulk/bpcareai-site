@@ -10,8 +10,11 @@ image: ''
 relatedSlugs:
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
   - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
   - >-
+    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
 ---
 

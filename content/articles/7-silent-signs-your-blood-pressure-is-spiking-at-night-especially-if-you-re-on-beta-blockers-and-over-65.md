@@ -9,9 +9,13 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 

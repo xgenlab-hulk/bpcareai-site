@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
+    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
   - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
   - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - >-
+    the-complete-guide-to-managing-brittle-glucose-patterns-in-adults-55-69-with-type-1-diabetes-autonomic-neuropathy-and-frequent-unexplained-hypoglycemia
 ---
 
 # Managing Diabetic Gastroparesis During Ramadan Fasting: A Practical Guide for Adults 52–68 With Type 1 Diabetes and Autonomic Neuropathy

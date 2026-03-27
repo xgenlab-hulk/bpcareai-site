@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-blood-sugar-triggers-in-holiday-baking-ingredients-especially-for-women-58-72-with-long-standing-type-2-diabetes
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
+    12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
   - >-
+    easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis
   - >-
+    simple-steps-to-adjust-holiday-recipe-ratios-for-optimal-postprandial-glucose-in-adults-76-with-post-gastric-bypass-dumping-syndrome-and-diabetes
 ---
 
 # Safe Holiday Baking With Insulin Resistance: A Gentle, Science-Informed Guide for Adults 62+

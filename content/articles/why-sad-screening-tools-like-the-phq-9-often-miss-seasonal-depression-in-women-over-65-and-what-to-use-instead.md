@@ -10,9 +10,11 @@ image: ''
 relatedSlugs:
   - why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
   - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
 ---
 
 # Why Standard SAD Screening Tools for Older Women Often Overlook Seasonal Depression—and What Works Better

@@ -12,6 +12,7 @@ relatedSlugs:
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 

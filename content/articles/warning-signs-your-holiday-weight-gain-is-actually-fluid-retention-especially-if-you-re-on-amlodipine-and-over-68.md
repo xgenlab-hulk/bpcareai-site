@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
   - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
+    when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
   - >-
+    12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema
   - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
 ---
 
 # Is Your Holiday Weight Gain Fluid Retention? What Seniors on Amlodipine Should Know

@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    best-6-low-sodium-high-fiber-side-dishes-that-hold-up-under-3-hour-buffet-conditions-for-adults-76-with-hypertension-and-constipation
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
+    10-quick-ways-to-reduce-sodium-load-in-traditional-holiday-side-dishes-without-losing-flavor-or-family-approval
   - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
 ---
 
 # Low-Sodium, High-Potassium Side Dishes for Heart Failure Seniors: Simple, Brain-Friendly Options Under 20 Minutes

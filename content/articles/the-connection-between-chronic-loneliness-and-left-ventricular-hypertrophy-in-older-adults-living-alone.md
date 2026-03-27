@@ -11,8 +11,11 @@ relatedSlugs:
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - how-social-isolation-increases-heart-disease-risk-after-60
   - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
   - >-
+    12-evidence-based-ways-to-maintain-social-rhythm-during-holiday-isolation-especially-for-retired-widowed-adults-living-alone
   - >-
+    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
 ---
 
 # How Chronic Loneliness May Quietly Affect Heart Structure in Older Adults—And What You Can Do

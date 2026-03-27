@@ -9,10 +9,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-55-72-with-long-standing-type-2-diabetes
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
+    natural-ways-to-counteract-holiday-nighttime-glucose-spikes-without-medication-focused-on-evening-walking-timing-foot-temperature-and-cinnamon-bioavailability
   - >-
+    how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64
   - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # 12 Science-Backed Ways to Prevent Post-Holiday HbA1c Creep in Adults 59–72 With Well-Controlled Diabetes

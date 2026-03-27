@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-neutralize-excess-holiday-sodium-within-20-minutes-using-targeted-potassium-rich-bite-sized-foods-and-post-meal-hydration-sequencing-in-adults-71-with-ckd-stage-3
   - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
   - >-
+    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
   - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
+    quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
 ---
 
 # What the Evidence Shows About Intermittent Fasting Before Cardiac Catheterization in Older Adults With Chronic Kidney Disease

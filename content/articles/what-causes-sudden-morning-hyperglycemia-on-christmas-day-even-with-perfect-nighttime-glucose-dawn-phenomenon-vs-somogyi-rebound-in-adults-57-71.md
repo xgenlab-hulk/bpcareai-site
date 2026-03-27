@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
   - >-
+    why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
   - >-
+    how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
 ---
 
 # Why You Might Wake Up High on Christmas Morning — Even After a Perfect Night: Unpacking the Real Cause of Morning Hyperglycemia Christmas Day

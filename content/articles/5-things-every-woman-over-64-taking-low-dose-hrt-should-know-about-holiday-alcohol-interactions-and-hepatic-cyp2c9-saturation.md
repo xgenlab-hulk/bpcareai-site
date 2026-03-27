@@ -9,8 +9,11 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
   - >-
+    holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
   - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - women-holiday-heart-syndrome-menopause
 ---

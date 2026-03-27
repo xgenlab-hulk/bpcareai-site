@@ -9,9 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis
   - >-
+    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
   - >-
+    simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
   - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # Safe Holiday Baking for Seniors with Latex-Food Cross-Reactivity: A Gentle, Step-by-Step Guide

@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
+    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
   - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 ---
 
 # Beyond Time in Range: What CGM Interpretation Early Dementia Diabetes Reveals About Real-World Glucose Safety

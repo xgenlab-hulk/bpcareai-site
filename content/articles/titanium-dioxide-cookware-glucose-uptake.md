@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-indoor-fireplace-smoke-alters-endothelial-nitric-oxide-synthase-activity-and-worsens-post-meal-glucose-uptake-in-adults-71-with-type-2-diabetes-and-copd
   - >-
+    12-foods-that-support-mitochondrial-biogenesis-in-skeletal-muscle-without-increasing-oxidative-stress-for-adults-63-with-t2d-and-low-vo2-max
   - >-
+    best-low-heat-cooking-methods-for-preserving-polyphenol-bioavailability-in-berries-and-onions-for-adults-64-with-type-2-diabetes-and-mild-cerebral-hypoperfusion
   - >-
+    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
   - >-
+    7-silent-signs-your-holiday-turkey-was-cooked-in-an-aluminum-pan-and-why-that-matters-for-adults-67-with-early-stage-alzheimer-s-disease
 ---
 
 # What You Should Know About Titanium Dioxide Cookware Glucose Uptake — Especially With Insulin Resistance After Age 59

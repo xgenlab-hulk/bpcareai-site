@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
   - >-
+    does-holiday-caffeine-from-spiced-chai-or-eggnog-really-worsen-nocturnal-myoclonus-in-seniors-with-restless-legs-syndrome
   - >-
+    a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
   - >-
+    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
   - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # Could Your Evening Hot Chocolate Be Contributing to Nighttime Urination? Understanding Hot Chocolate Nocturnal Polyuria BPH in Older Men

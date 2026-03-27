@@ -9,10 +9,14 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
   - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
+    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
   - >-
+    myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization
 ---
 
 # Cholesterol Screening Myths After Age 80: Busting 5 Common Misconceptions About Heart Disease in the Oldest-Old

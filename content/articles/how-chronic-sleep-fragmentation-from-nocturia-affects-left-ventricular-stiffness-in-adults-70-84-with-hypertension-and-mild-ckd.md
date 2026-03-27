@@ -9,10 +9,13 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
   - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - how-frequent-urination-at-night-could-signal-heart-problems
   - the-connection-between-frequent-urination-at-night-and-heart-health
   - >-
+    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
 ---
 
 # How Nocturia-Related Sleep Fragmentation Contributes to Heart Stiffness in Older Adults With Hypertension and Mild CKD

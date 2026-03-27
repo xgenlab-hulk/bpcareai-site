@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70
   - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
   - >-
+    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
 ---
 
 # Understanding Rebound Hyperglycemia After Nocturnal Hypoglycemia in Seniors — Why It’s Often Confused With Insulin Resistance

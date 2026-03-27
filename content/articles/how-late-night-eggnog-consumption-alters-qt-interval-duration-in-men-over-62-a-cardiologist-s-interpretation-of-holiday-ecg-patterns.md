@@ -10,8 +10,11 @@ image: ''
 relatedSlugs:
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
+    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
 ---
 

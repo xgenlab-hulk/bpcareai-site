@@ -11,8 +11,10 @@ relatedSlugs:
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 ---
 
 # How Holiday Travel Affects Insulin Needs in Adults With Type 1 Diabetes (Ages 62–75)

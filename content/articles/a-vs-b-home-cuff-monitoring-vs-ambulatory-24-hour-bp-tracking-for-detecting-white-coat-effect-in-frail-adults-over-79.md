@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
+    why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
   - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
 ---
 
 # Home vs Ambulatory Blood Pressure in Frail Elderly: Which Method Best Catches White-Coat Effect After 79?

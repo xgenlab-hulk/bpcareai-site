@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
   - >-
+    7-silent-signs-your-diabetes-medication-is-causing-subclinical-hyponatremia-especially-after-hot-tub-soaking-in-adults-72
   - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
   - >-
+    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
 ---
 
 # 12 Medication Adjustments to Talk About Before Joining a Walking Group — Especially If You’re 63+ With Type 2 Diabetes, Mild CKD, and Use Diuretics  

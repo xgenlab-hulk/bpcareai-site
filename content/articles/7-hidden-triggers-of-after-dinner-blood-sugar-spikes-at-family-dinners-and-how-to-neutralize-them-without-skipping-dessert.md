@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-blood-sugar-spikes-you-re-unknowingly-causing-at-thanksgiving-dinner-and-how-to-prevent-them-without-skipping-pie
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
+    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
   - >-
+    7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them
   - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
 ---
 
 # Understanding and Managing After-Dinner Blood Sugar Spikes at Family Dinners

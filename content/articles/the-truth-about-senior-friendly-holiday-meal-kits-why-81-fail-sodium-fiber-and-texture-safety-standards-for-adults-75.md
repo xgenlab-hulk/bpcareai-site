@@ -9,10 +9,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
   - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
+    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
   - >-
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
 ---
 
 # The Real Story Behind ‘Senior-Friendly’ Holiday Meal Kits — What the Labels Don’t Tell You  

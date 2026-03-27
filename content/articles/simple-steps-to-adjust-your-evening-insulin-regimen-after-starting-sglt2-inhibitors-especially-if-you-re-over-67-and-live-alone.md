@@ -9,9 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - >-
+    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - >-
+    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 

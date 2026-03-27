@@ -9,10 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
   - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - could-your-medications-be-raising-your-blood-pressure
   - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # When Sudden Fatigue After Starting Blood Pressure Medication Over 65 Deserves Your Attention

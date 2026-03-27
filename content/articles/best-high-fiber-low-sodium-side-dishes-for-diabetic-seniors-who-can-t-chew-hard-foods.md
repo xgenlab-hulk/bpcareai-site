@@ -12,7 +12,9 @@ relatedSlugs:
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
 ---
 
 # High-Fiber, Low-Sodium Soft Side Dishes for Seniors: Gentle, Tasty, and Blood-Sugar Friendly

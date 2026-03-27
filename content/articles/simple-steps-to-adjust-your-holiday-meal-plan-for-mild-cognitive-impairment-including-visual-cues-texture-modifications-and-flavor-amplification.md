@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
   - >-
+    how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
   - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
 ---
 
 # Adapting Your Holiday Meal Plan for Mild Cognitive Impairment: A Sensory-Smart Approach for Older Adults

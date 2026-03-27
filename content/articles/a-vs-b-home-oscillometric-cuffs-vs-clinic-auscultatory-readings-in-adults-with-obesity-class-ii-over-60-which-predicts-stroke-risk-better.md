@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
   - >-
+    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
   - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
   - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
 ---
 
 # Home vs Clinic Blood Pressure Accuracy in Obesity: What Really Predicts Stroke Risk After 60?

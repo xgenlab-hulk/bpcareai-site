@@ -9,8 +9,11 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
   - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---

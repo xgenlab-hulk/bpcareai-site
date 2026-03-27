@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk
   - >-
+    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
   - >-
+    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
   - >-
+    what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
   - >-
+    a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes
 ---
 
 # Does Cranberry Juice Affect Blood Glucose Control in Adults 71+ With Diabetes and Recurrent UTIs?

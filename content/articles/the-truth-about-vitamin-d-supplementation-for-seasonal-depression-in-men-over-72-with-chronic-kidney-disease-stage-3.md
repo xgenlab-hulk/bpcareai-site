@@ -9,10 +9,13 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
   - >-
+    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
 ---
 
 # Vitamin D Supplementation for Seasonal Depression in Men Over 72 With Chronic Kidney Disease: What the Science Really Says

@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
   - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
+    the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
   - >-
+    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - >-
+    the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
 ---
 
 # How the Fasting Mimicking Diet and Plaque Stability Connect in Adults With Elevated Lp(a)

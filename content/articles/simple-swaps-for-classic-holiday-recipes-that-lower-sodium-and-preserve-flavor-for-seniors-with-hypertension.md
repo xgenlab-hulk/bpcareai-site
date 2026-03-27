@@ -12,6 +12,7 @@ relatedSlugs:
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
   - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 

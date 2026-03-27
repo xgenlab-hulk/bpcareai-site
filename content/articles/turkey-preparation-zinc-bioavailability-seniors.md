@@ -9,10 +9,13 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - >-
+    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
   - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
   - >-
+    a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis
 ---
 
 # Slow-Cooked Herb-Roasted Turkey Breast vs. Deep-Fried Turkey Leg: What’s Best for Zinc Bioavailability and Immune Support in Seniors?

@@ -9,10 +9,13 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
+    7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
 ---
 
 # 10 Holiday Medication Interactions for AFib Drugs You Should Review Before Thanksgiving Dinner

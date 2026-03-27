@@ -9,9 +9,12 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
   - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---
 

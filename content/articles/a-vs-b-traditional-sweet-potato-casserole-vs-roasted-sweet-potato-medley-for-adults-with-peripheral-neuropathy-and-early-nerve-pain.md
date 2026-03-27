@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
   - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
   - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
+    a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79
 ---
 
 # Sweet Potato Casserole vs Roasted Neuropathy: What Your Nerves Really Need at Holiday Gatherings

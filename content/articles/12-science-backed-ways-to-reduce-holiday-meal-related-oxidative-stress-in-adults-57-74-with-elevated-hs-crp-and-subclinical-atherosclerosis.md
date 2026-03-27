@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
   - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
   - >-
+    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
   - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
   - >-
+    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
 ---
 
 # Holiday Meals Leaving You Exhausted and Inflamed? What Adults 57-74 Need to Know

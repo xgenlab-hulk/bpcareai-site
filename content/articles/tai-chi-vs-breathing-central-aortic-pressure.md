@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension
   - >-
+    does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability
   - >-
+    a-vs-b-daily-10-minute-tai-chi-flow-vs-guided-heart-coherence-biofeedback-for-improving-24-hour-hrv-in-women-64-78-with-hypertension-and-perimenopausal-vasomotor-symptoms
   - >-
+    can-daily-4-minute-nasal-breathing-sequencing-buteyko-box-breathing-reduce-central-aortic-systolic-pressure-in-women-58-71-with-elevated-pulse-wave-velocity
   - >-
+    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
 ---
 
 # Tai Chi vs Breathing for Central Aortic Pressure: What Works Best for Women 69+ With Isolated Systolic Hypertension?

@@ -9,9 +9,12 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - >-
+    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
   - >-
+    how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
   - the-link-between-family-food-traditions-and-chronic-disease-risk
 ---
 

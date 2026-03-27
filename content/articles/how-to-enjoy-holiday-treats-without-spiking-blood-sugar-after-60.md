@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes

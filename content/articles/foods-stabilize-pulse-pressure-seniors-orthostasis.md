@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
   - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
   - >-
+    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
   - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
   - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
 ---
 
 # Foods That Help Stabilize Pulse Pressure in Seniors with Orthostasis — A Gentle, Evidence-Informed Guide

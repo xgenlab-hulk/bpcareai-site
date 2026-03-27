@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
 ---
 
 # Why Sulfonylurea Hypoglycemia Holiday Brunch Elderly Situations Happen — And How Caregivers Can Help

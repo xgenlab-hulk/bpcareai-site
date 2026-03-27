@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - >-
+    the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
   - >-
+    the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings
   - >-
+    the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
   - >-
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
 ---
 
 # A Gentle, Hands-On Guide to Your Home Blood Pressure Log With Hearing Loss and Tremor

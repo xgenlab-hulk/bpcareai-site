@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
   - >-
+    what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear
   - >-
+    what-causes-sudden-loss-of-taste-during-stable-beta-blocker-therapy-in-adults-71-with-preserved-ejection-fraction-and-zinc-deficiency
   - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
   - >-
+    how-grandchildren-s-candy-bowls-trigger-autonomic-dysregulation-in-adults-72-with-early-parkinson-s-and-what-to-eat-instead
 ---
 
 # Loss of Sweet Taste in Older Adults With Diabetes: An Early Warning Sign of Diabetic Autonomic Neuropathy

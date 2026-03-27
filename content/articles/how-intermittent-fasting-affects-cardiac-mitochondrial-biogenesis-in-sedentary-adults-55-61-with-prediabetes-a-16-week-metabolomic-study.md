@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
   - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
 ---
 
 # How Intermittent Fasting Supports Mitochondrial Biogenesis in Adults With Prediabetes—What a 16-Week Study Reveals for Heart Health

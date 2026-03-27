@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
   - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - >-
+    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # How Holiday Stress Disrupts Cortisol Rhythm—and What Women 62–75 With Insulin Resistance Can Do About It

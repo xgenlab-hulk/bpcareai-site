@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-evening-tart-cherry-juice-8-oz-vs-standard-melatonin-1-mg-impact-on-nocturnal-systolic-bp-and-sleep-architecture-in-adults-64-80-with-insomnia-and-non-dipping
   - >-
+    a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes
   - >-
+    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
   - >-
+    a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
   - >-
+    does-daily-5-minute-vagus-nerve-stimulation-via-tens-on-the-tragus-lower-morning-systolic-bp-in-men-65-77-with-chronic-kidney-disease-stage-3
 ---
 
 # VNS vs Tart Cherry Juice for Nocturnal AFib: Comparing Two Gentle Approaches in Adults 64+ With Nighttime Hypertension  

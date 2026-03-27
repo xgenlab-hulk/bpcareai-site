@@ -9,6 +9,7 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control

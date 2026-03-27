@@ -9,10 +9,14 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
   - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - >-
+    does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82
   - >-
+    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
 ---
 
 # Cranberry Sauce and UTI Prevention in Seniors: What Recent Research Says for Women Over 70 During the Holidays

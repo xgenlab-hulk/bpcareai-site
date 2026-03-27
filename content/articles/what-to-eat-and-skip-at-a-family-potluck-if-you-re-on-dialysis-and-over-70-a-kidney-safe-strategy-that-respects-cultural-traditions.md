@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
+    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
   - >-
+    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
 ---
 
 # Kidney-Friendly Potluck Food for Seniors: A Warm, Wise Guide for Dialysis Patients Over 70

@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
   - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
   - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
   - >-
+    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
 ---
 
 # Why Morning Shower Blood Pressure Spikes Occur in Older Adults With Autonomic Neuropathy and Orthostatic Hypotension

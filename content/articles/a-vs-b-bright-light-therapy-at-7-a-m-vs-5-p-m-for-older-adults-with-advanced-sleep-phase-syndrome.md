@@ -9,10 +9,14 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
   - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
   - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
   - >-
+    5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
 ---
 
 # Bright-Light Therapy Timing for Older Adults: Morning vs Evening Light Therapy for ASPS

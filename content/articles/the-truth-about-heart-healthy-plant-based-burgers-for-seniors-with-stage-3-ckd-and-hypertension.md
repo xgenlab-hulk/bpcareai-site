@@ -9,10 +9,14 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
 ---
 
 # Choosing Safer Plant-Based Burgers for Kidney Disease Seniors: What You Need to Know

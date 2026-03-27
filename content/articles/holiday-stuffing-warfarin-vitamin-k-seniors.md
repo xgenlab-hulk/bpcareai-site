@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
+    the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
   - >-
+    can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
   - >-
+    the-truth-about-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-postprandial-hypotension-in-adults-68-with-carotid-stenosis
   - >-
+    the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
 ---
 
 # What Every Senior Over 67 Should Know About Holiday Stuffing, Warfarin, and Vitamin K — Especially During Family Meals

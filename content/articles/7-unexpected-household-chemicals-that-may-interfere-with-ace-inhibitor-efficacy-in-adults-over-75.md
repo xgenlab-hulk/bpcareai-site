@@ -9,10 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents
   - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - >-
+    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
   - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
+    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
 ---
 
 # 7 Common Household Chemicals That May Affect ACE Inhibitor Effectiveness in Older Adults

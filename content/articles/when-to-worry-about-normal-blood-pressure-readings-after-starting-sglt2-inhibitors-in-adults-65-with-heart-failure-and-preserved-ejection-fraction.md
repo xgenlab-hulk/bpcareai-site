@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-blood-pressure-is-too-low-after-starting-sglt2-inhibitors-especially-if-you-re-on-dialysis-or-have-orthostatic-tremor
   - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
   - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
 ---
 
 # When “Normal” Blood Pressure Readings Can Be Misleading After Starting SGLT2 Inhibitors in Older Adults With Heart Failure and Preserved Ejection Fraction

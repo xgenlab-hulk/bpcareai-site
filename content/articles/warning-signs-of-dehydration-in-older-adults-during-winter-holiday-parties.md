@@ -12,6 +12,7 @@ relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - the-hidden-dangers-of-indoor-heating-on-blood-pressure
 ---
 

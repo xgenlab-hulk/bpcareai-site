@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-
+    natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 ---
 
 # Holiday Snack Pairings That Support Steady Blood Pressure and Glucose—Especially With Autonomic Neuropathy

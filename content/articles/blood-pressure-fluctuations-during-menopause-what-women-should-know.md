@@ -13,6 +13,7 @@ relatedSlugs:
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
   - can-cold-weather-raise-your-blood-pressure
   - >-
+    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
 ---
 
 # Understanding Blood Pressure Changes During Menopause: What Women Need to Know

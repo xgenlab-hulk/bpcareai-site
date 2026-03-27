@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
   - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - portion-control-strategies-for-large-family-meals-that-work
   - how-to-build-a-diabetes-friendly-plate-at-a-mixed-family-meal
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals

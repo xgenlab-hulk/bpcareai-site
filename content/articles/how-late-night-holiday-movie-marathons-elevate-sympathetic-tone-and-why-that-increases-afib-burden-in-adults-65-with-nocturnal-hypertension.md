@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-smartphone-use-alters-nocturnal-atrial-fibrillation-burden-not-just-onset-in-adults-71-with-paroxysmal-af-and-mild-obstructive-sleep-apnea
   - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
+    how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment
   - >-
+    how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp
   - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # How Late-Night Movie Marathons Raise Sympathetic Tone—and Why That Matters for AFib Risk in Older Adults

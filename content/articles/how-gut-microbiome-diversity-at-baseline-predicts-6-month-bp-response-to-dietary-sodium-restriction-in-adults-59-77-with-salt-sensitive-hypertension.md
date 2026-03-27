@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
   - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
+    blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
   - >-
+    natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema
   - >-
+    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
 ---
 
 # How Your Gut Microbiome Influences Blood Pressure Response to Sodium Restriction in Older Adults

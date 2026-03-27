@@ -9,10 +9,14 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-travel-disrupts-circadian-rhythm-and-triggers-atrial-fibrillation-in-adults-68-with-diagnosed-af-and-time-zone-shifted-medication-schedules
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
+    holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
   - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
 ---
 
 # Holiday Travel Nocturnal AFib Warning: What Seniors 73+ Should Know Before Flying

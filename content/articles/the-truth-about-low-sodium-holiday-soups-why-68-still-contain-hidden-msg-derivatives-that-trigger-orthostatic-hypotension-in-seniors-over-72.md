@@ -9,9 +9,13 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
   - >-
+    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
   - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 

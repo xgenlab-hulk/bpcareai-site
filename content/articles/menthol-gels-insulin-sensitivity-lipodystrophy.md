@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance
   - >-
+    does-daily-10-minute-cold-water-face-immersion-improve-first-phase-insulin-secretion-in-adults-58-65-with-prediabetes-and-normal-weight
   - >-
+    does-daily-use-of-holiday-scented-candles-alter-postprandial-insulin-sensitivity-via-trpa1-channel-activation-in-adults-65-with-obesity-and-t2d
   - >-
+    does-daily-4-minute-cold-shower-exposure-improve-insulin-signaling-in-adults-with-abdominal-obesity-and-prediabetes-aged-55-67
   - >-
+    does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss
 ---
 
 # How Menthol Gels Affect Insulin Sensitivity and Mask Lipodystrophy in Older Adults on Long-Term Insulin Therapy

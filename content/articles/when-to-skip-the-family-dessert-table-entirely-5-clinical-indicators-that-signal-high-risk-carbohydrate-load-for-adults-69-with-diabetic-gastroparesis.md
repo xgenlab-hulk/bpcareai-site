@@ -11,8 +11,11 @@ relatedSlugs:
   - early-gastroparesis-signs-men-seniors
   - postprandial-glucose-timing-gastroparesis-seniors
   - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    warning-signs-of-asymptomatic-diabetic-gastropathy-detected-via-gastric-emptying-breath-test-in-adults-70-with-normal-hba1c-and-stable-symptoms
 ---
 
 # When to Gently Skip Dessert: Recognizing High-Risk Carbohydrate Signals in Seniors with Diabetic Gastroparesis

@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
   - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
   - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - >-
+    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
   - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
 ---
 
 # A Thoughtful, Dignified Approach to Diabetes Management Hosting Holiday Guests Elderly

@@ -9,10 +9,13 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # How Family Conversation Chewing Efficiency Impacts Swallowing and Nutrition in Seniors with Early Dysphagia

@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
+    when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults
 ---
 
 # Spotting the Very First Clues of a Holiday Gastroparesis Flare—Before Nausea or Bloating Show Up  

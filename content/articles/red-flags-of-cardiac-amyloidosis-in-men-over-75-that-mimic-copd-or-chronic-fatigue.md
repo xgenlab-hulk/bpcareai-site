@@ -9,9 +9,13 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
   - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
   - heart-disease-risks-for-retirees-living-in-high-altitude-areas
 ---
 

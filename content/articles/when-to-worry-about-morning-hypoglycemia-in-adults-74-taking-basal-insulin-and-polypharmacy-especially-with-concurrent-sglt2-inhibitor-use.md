@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
   - >-
+    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
   - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
   - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
   - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
 ---
 
 # Recognizing Morning Hypoglycemia in Older Adults on Basal Insulin — Especially with SGLT2 Inhibitors and Multiple Medications

@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
   - >-
+    5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery
   - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
   - >-
+    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
   - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia
 ---
 
 # What Seniors 67+ Need to Know Before Using a CGM for Seniors With Low Vision, Tremor, or Dexterity Challenges

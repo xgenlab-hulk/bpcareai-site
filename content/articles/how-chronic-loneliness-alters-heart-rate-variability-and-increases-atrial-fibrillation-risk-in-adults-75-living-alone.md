@@ -9,10 +9,13 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
   - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - how-social-isolation-increases-heart-disease-risk-after-60
   - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
 ---
 
 # How Loneliness and Atrial Fibrillation Risk Are Connected in Older Adults Living Alone

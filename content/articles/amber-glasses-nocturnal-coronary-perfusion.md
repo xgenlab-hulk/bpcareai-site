@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
   - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
   - >-
+    how-chronic-nighttime-ambient-light-exposure-from-smart-nightlights-disrupts-melatonin-mediated-no-synthase-activity-and-elevates-nocturnal-sbp-in-adults-60-with-sleep-onset-insomnia
   - >-
+    simple-steps-to-reduce-nocturnal-coronary-vasospasm-risk-during-late-night-tv-viewing-not-just-sleep-for-adults-65-with-variant-prinzmetal-s-angina
   - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # How Amber Glasses Nocturnal Coronary Perfusion Supports Heart Health in Older Adults

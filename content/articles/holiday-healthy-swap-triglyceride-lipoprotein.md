@@ -9,10 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
   - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # When Your Holiday “Healthy Swap” Might Be Sneaking Up on Your Triglyceride Levels

@@ -9,9 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
   - >-
+    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
   - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
   - how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
 ---
 

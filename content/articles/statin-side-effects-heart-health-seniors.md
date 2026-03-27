@@ -9,9 +9,13 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
+    can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure
   - >-
+    5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy
   - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 ---
 

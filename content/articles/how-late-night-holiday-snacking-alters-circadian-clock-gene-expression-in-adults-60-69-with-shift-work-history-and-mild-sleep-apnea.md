@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
+    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
   - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
   - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # How Late-Night Holiday Snacking Affects Circadian Rhythm in Seniors—And What You Can Do About It

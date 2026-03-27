@@ -9,7 +9,9 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - >-
+    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
   - 5-common-medication-adjustments-seniors-need-in-winter

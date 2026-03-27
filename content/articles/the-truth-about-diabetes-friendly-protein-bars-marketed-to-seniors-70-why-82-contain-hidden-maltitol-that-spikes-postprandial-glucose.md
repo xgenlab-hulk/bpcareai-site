@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
   - >-
+    the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy
   - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
   - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
   - >-
+    the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick
 ---
 
 # What You Should Know About “Diabetes-Friendly” Protein Bars for Seniors — Especially If You’re 70+

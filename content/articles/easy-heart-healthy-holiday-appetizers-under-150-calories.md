@@ -12,7 +12,9 @@ relatedSlugs:
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - >-
+    top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
 ---
 
 # Heart-Healthy Holiday Appetizers Under 150 Calories: Light, Tasty & Kind to Your Heart

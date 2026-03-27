@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
   - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - the-hidden-link-between-gum-disease-and-heart-problems
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors

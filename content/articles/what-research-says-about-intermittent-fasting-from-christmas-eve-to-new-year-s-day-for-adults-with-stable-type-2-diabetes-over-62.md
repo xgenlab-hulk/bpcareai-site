@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - can-intermittent-fasting-help-reset-blood-sugar-after-christmas
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
+    when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
 ---
 
 # Is Intermittent Fasting from Christmas Eve to New Year’s Day Safe for Adults Over 62 with Stable Type 2 Diabetes? What the Research Really Shows

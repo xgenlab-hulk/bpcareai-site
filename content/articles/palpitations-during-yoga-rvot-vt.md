@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-new-onset-palpitations-during-morning-meditation-in-adults-66-79-with-known-aortic-stenosis-and-mild-lvot-obstruction
   - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
   - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
+    when-to-suspect-holiday-heart-syndrome-before-the-first-palpitation-early-hrv-dips-during-family-video-calls-in-adults-55-60-with-prehypertensive-nighttime-bp-non-dipping
   - >-
+    best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
 ---
 
 # When Palpitations During Yoga Might Signal RVOT VT — A Calm, Clear Guide for Adults 61+

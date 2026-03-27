@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
   - >-
+    best-low-tannin-herbal-teas-for-adults-71-with-diabetic-nephropathy-and-stage-3-ckd-avoiding-potassium-and-oxalate-accumulation
   - >-
+    quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
   - >-
+    natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate
   - >-
+    the-truth-about-sugar-free-holiday-punch-for-adults-73-with-chronic-kidney-disease-why-erythritol-isn-t-always-safer-than-sucrose
 ---
 
 # How Afternoon Tea with Stevia and Citric Acid Affects Kidney Sodium Handling in Older Adults on Thiazides

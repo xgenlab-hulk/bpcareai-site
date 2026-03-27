@@ -9,10 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension
   - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
   - >-
+    myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
   - >-
+    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
   - >-
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
 ---
 
 # ECG Patch vs Holter for Asymptomatic Atrial Fibrillation: What’s Best for Adults 60–79 With Controlled Hypertension?

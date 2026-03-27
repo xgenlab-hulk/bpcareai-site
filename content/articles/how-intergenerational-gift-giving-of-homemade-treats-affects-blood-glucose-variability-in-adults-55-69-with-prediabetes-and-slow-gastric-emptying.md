@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
 ---
 
 # Navigating Homemade Holiday Treats With Prediabetes and Slow Gastric Emptying: A Gentle Guide for Adults 55–69

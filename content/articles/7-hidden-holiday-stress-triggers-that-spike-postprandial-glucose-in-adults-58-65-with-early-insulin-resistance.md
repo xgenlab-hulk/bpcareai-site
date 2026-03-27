@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
   - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes

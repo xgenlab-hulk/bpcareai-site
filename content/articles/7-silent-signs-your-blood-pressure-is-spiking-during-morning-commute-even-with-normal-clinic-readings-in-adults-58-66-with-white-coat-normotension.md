@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
+    7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine
   - >-
+    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
   - >-
+    why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension
 ---
 
 # Why Your Morning Commute Blood Pressure Spike Might Be Flying Under the Radar

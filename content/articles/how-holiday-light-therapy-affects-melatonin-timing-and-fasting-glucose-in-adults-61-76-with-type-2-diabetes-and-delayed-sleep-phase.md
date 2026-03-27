@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
   - >-
+    12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
   - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
   - >-
+    how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
   - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # How Holiday Light Therapy Affects Fasting Glucose in Older Adults with Type 2 Diabetes and Delayed Sleep Phase

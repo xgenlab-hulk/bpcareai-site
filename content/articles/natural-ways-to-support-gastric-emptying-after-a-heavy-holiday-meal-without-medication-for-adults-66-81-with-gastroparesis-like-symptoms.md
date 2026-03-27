@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
   - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
+    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
 ---
 
 # Gentle, Evidence-Based Ways to Support Gastric Emptying After Holiday Meal for Older Adults

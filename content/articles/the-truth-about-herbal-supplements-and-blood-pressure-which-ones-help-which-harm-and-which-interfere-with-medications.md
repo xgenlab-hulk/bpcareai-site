@@ -9,8 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - best-supplements-for-blood-sugar-support-after-50
   - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
   - could-your-medications-be-raising-your-blood-pressure
   - top-5-winter-superfoods-that-naturally-lower-blood-pressure
 ---

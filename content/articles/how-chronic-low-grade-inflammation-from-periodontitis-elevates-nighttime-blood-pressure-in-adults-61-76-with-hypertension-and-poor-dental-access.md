@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - >-
+    how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
   - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
 ---
 
 # How Periodontitis Nighttime Blood Pressure Inflammation Affects Older Adults—and What You Can Do

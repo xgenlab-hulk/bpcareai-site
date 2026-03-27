@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
   - >-
+    myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
 ---
 
 # Are You Eating Enough Protein This Holiday Season to Protect Your Muscles After 60?

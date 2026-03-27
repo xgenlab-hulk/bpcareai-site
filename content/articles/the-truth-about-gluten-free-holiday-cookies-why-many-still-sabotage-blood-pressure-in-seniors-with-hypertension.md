@@ -10,7 +10,9 @@ image: ''
 relatedSlugs:
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---

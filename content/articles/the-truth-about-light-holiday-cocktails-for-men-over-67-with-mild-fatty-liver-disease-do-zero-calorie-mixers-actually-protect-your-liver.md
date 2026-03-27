@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
   - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
+    the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld
   - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
 ---
 
 # Do Zero-Calorie Cocktails and Fatty Liver Go Together? What Men Over 67 Really Need to Know

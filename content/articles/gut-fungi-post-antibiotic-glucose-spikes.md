@@ -9,9 +9,13 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
   - >-
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
   - >-
+    how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs
   - >-
+    10-unexpected-medication-interactions-that-spike-blood-glucose-in-adults-62-taking-metformin-and-probiotics
 ---
 
 # Understanding Gut Fungi Post-Antibiotic Glucose Spikes in Adults 59–73 With Recurrent UTIs and Long-Term Metformin Use

@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
   - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
   - >-
+    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
   - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 ---
 
 # When Fibromuscular Dysplasia Resistant Hypertension Women Might Be Overlooked—Especially With “Just” Headaches

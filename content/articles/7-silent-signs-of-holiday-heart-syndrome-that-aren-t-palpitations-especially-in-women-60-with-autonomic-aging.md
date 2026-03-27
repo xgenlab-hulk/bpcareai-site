@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
   - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
+    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
 ---
 
 # 7 Quiet Early Clues of Holiday Heart Syndrome in Women 60+ — Beyond Palpitations

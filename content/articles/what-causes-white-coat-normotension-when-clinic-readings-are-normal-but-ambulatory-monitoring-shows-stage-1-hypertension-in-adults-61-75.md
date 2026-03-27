@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
   - >-
+    myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
   - >-
+    why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
   - >-
+    5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
 ---
 
 # Understanding White-Coat Normotension Ambulatory Hypertension: When Clinic Readings Hide the Full Picture

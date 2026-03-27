@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss
   - >-
+    best-travel-friendly-glucose-monitors-with-offline-data-sync-for-seniors-75-attending-multi-state-holiday-visits-accuracy-battery-life-and-grandchild-proof-interface-compared
   - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
   - >-
+    a-vs-b-continuous-glucose-monitoring-with-real-time-alerts-vs-intermittent-flash-glucose-monitoring-for-preventing-nocturnal-hypoglycemia-in-adults-75-with-nocturnal-hypoglycemia-associated-autonomic-failure
   - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia
 ---
 
 # What Seniors Over 75 Need to Know About CGMs for Seniors Without Smartphones — Simple, Safe, and Supported

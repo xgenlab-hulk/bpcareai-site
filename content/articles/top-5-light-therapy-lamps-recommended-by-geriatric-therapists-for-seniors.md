@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
   - >-
+    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
   - the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home
   - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
   - the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors

@@ -11,7 +11,9 @@ relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
+    7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
 ---
 

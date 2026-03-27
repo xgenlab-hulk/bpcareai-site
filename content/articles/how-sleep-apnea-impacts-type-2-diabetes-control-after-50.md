@@ -13,6 +13,7 @@ relatedSlugs:
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - >-
+    why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
 ---
 
 # How Sleep Apnea and Type 2 Diabetes in Older Adults Affect Each Other After 50

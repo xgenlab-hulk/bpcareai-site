@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
   - >-
+    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
   - >-
+    12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls
   - >-
+    quick-ways-to-stabilize-post-meal-blood-flow-to-the-brain-in-adults-64-with-carotid-stenosis-50-and-orthostatic-dizziness
   - >-
+    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
 ---
 
 # How to Prevent Post-Meal Blood Pressure Drops During Holiday Socializing — Especially for Seniors 74+ With Autonomic Neuropathy

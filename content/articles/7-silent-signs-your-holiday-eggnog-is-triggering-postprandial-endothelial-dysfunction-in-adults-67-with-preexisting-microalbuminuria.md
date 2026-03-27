@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
   - >-
+    a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
   - >-
+    when-to-skip-the-eggnog-red-flags-that-signal-alcohol-induced-cardiac-instability-in-adults-59-74-with-preserved-ejection-fraction
   - >-
+    what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis
   - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
 ---
 
 # How Holiday Eggnog May Affect Vascular Health in Older Adults With Early Kidney Changes

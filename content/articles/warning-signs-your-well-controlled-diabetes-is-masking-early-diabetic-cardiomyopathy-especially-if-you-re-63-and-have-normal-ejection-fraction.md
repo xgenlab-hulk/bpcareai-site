@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
   - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
   - >-
+    what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
   - >-
+    warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate
   - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
 ---
 
 # Subtle Diabetic Cardiomyopathy Early Warning Signs — What to Watch For After Age 63, Even With “Normal” Heart Function

@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
   - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
 ---
 
 # How Late-Night Activity Impacts Insulin Sensitivity in Seniors with Type 2 Diabetes—Especially During the Holidays

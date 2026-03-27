@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
   - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
+    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
   - >-
+    when-to-suspect-holiday-induced-hyponatremia-in-adults-79-with-mild-cognitive-impairment-before-confusion-or-gait-instability-appears
 ---
 
 # Subtle Holiday Appetizers Hyponatremia Warning Signs in Seniors — What to Watch For After Age 77

@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
   - >-
+    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
   - >-
+    the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
   - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
+    5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes
 ---
 
 # What Seniors Over 75 Need to Know About CGM Pacemaker Safety

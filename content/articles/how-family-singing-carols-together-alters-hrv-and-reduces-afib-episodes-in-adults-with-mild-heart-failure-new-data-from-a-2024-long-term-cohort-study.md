@@ -9,10 +9,14 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
   - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
   - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
   - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
 ---
 
 # How Caroling and Heart Rate Variability in Elderly Adults Supports Cardiac Resilience—Insights From a 2024 Long-Term Cohort Study

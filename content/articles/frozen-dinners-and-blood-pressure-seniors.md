@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
+    the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
   - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-adults-73-with-stage-3-ckd-and-systolic-heart-failure
   - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
+    the-truth-about-low-sodium-canned-soups-marketed-to-seniors-why-83-contain-unlabeled-potassium-chloride-blends-that-trigger-hyperkalemic-bradycardia-in-adults-76-with-ckd-stage-3
 ---
 
 # What You Should Know About Frozen Dinners and Blood Pressure Seniors — Especially If You're in Your 70s or 80s

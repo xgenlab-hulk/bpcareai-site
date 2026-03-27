@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
   - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
+    7-hidden-blood-sugar-spikes-you-re-unknowingly-causing-at-thanksgiving-dinner-and-how-to-prevent-them-without-skipping-pie
 ---
 
 # How to Safely Enjoy Apple Pie with Prediabetes: A Practical, Science-Backed Guide for Adults 58–72

@@ -9,10 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
+    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
   - >-
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
   - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
   - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 ---
 
 # Can 3-Minute Vagal Breathing Before Dinner Help with Vagal Breathing Holiday Heart Prevention?

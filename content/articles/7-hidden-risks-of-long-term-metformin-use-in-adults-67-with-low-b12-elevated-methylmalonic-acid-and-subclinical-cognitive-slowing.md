@@ -9,10 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
   - >-
+    what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
   - >-
+    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
   - >-
+    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
   - >-
+    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
 ---
 
 # Understanding Metformin, B12 Deficiency, and Cognitive Changes in Older Adults

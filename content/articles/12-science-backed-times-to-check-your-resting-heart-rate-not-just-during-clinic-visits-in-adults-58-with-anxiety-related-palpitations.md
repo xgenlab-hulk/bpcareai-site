@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
   - >-
+    when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms
   - >-
+    the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
   - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
   - >-
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
 ---
 
 # When to Check Resting Heart Rate in Seniors: 12 Science-Backed Moments Beyond the Doctor’s Office

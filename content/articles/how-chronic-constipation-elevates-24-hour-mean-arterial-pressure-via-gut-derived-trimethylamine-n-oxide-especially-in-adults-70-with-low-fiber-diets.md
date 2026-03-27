@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
   - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
+    how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
   - >-
+    how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbiome-derived-trimethylamine-n-oxide-tmao-production-and-accelerates-coronary-artery-calcification-in-adults-70-with-gerd-and-stable-cad
 ---
 
 # How Chronic Constipation, TMAO, and Mean Arterial Pressure Interact — Especially in Adults 70+ With Low-Fiber Diets

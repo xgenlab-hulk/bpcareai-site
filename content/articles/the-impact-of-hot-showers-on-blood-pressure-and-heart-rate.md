@@ -11,6 +11,7 @@ relatedSlugs:
   - the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors
   - the-hidden-dangers-of-indoor-heating-on-blood-pressure
   - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
   - how-does-cold-weather-affect-blood-pressure-in-older-adults
   - how-morning-blood-pressure-spikes-affect-your-heart
 ---

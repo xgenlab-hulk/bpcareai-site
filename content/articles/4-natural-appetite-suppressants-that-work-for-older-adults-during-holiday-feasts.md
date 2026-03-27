@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

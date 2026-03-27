@@ -9,8 +9,11 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
   - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
   - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
 ---

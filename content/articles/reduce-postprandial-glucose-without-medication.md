@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # 12 Evidence-Based Ways to Reduce Postprandial Glucose Spikes Without Medication

@@ -9,8 +9,11 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-healthy-swap-salad-dressing-is-actually-driving-sodium-induced-endothelial-stiffness-in-adults-70-with-stage-1-hypertension-and-reduced-arterial-compliance
   - >-
+    the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
   - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
 ---
 
 # When That ‘Light’ Holiday Salad Might Surprise You: Spotting Hidden Trans Fats in Holiday Salad Dressing for Adults Living With Atrial Fibrillation

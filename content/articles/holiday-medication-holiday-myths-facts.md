@@ -9,10 +9,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-i-can-skip-my-medication-just-this-one-day-during-the-holidays-risks-for-adults-70-with-long-term-metformin-use-and-vitamin-b12-deficiency
   - >-
+    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
+    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-dinner-how-fasting-induced-hyperglycemia-and-cortisol-surges-worsen-holiday-glucose-control-in-adults-67
   - >-
+    what-causes-sudden-post-brunch-hypoglycemia-in-adults-73-with-sulfonylurea-use-and-mild-cognitive-impairment
 ---
 
 # Holiday Medication Holiday Myths Facts: Why Skipping Sulfonylureas During Festive Weeks Puts Adults 66+ at Real Risk

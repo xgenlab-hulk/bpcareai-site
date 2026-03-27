@@ -9,9 +9,11 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 

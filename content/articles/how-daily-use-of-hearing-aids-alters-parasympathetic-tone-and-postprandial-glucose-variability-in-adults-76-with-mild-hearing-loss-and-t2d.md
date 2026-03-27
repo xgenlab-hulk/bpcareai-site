@@ -9,10 +9,15 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings
   - >-
+    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
   - >-
+    7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes
   - >-
+    how-sudden-hearing-loss-triggers-acute-hyperglycemia-in-adults-63-with-prediabetes-and-why-it-s-not-just-stress
   - >-
+    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
 ---
 
 # How Hearing Aids May Quietly Support Your Nervous System and Blood Sugar — Especially After Meals

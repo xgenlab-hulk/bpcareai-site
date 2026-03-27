@@ -9,9 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
   - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older
   - >-
+    warning-signs-of-diabetic-foot-osteomyelitis-that-appear-before-ulcer-formation-in-adults-71-with-peripheral-neuropathy-and-chronic-edema
   - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
   - recognizing-silent-heart-attacks-in-diabetics-over-60
 ---
 

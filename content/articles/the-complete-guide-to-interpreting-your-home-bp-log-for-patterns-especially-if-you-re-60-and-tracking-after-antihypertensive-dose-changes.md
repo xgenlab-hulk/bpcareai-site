@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
   - >-
+    the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
   - >-
+    the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
   - >-
+    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
   - >-
+    the-complete-guide-to-interpreting-home-bp-logs-for-adults-58-72-with-white-coat-hypertension-and-high-work-stress
 ---
 
 # How to Interpret Your Home Blood Pressure Log — A Practical Guide for Adults 60 and Older

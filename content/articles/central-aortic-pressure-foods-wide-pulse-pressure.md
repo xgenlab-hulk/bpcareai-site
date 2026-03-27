@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
   - >-
+    10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data
   - >-
+    10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis
   - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
   - >-
+    12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings
 ---
 
 # 5 Foods That Support Central Aortic Pressure — Especially for Adults 70+ With Wide Pulse Pressure and Mild Cognitive Concerns  

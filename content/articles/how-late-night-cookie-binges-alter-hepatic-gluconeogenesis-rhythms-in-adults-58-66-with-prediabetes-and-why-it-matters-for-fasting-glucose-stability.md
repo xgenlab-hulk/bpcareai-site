@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
   - >-
+    how-late-night-pie-cravings-alter-circadian-clock-gene-expression-in-the-liver-and-why-that-matters-for-fasting-triglycerides-in-adults-58-67
   - >-
+    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
   - >-
+    how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
 ---
 
 # How Late-Night Eating and Fasting Glucose Interact — Especially During the Holidays

@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
+    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
   - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
+    what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
   - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 ---
 
 # Early Warning Signs of Right Ventricular Fibrosis — Especially When Galectin-3 Is Elevated and RV Strain Is Reduced

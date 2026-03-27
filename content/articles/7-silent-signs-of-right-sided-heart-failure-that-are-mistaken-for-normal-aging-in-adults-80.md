@@ -9,10 +9,13 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - the-connection-between-frequent-urination-at-night-and-heart-health
   - how-frequent-urination-at-night-could-signal-heart-problems
   - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
 ---
 
 # 7 Subtle Signs of Right-Sided Heart Failure Often Overlooked in Adults 80 and Older

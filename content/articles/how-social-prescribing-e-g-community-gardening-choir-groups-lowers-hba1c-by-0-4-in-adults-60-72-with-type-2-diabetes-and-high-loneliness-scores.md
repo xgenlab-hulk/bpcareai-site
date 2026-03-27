@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
   - >-
+    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - >-
+    how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
   - >-
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
 ---
 
 # How Social Prescribing Lowers HbA1c in Older Adults with Type 2 Diabetes and Loneliness

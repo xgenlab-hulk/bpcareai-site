@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
   - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk
   - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
   - >-
+    what-causes-sudden-onset-of-wine-headache-with-palpitations-in-adults-60-71-with-migraine-associated-cortical-spreading-depression-and-undiagnosed-pacs
 ---
 
 # Red Wine Heart Healthy Myth vs Fact: What Your Atrial Fibrosis and PACs Really Say About That Glass of Cabernet

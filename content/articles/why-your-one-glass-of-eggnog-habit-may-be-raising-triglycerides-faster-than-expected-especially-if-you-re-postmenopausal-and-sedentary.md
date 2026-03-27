@@ -9,10 +9,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
   - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
+    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
   - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 ---
 
 # Why That Holiday Eggnog Might Be Sneaking Up on Your Triglycerides—Especially If You’re Postmenopausal  

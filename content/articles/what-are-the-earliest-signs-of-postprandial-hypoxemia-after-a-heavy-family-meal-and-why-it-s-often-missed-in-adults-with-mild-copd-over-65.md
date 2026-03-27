@@ -9,9 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 

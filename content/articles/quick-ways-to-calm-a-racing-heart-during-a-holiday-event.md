@@ -13,6 +13,7 @@ relatedSlugs:
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
 ---
 
 # Quick Ways to Calm a Racing Heart During a Holiday Event — Practical, Non-Medical Strategies for Adults 50+

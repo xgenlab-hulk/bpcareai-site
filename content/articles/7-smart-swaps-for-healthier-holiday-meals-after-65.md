@@ -13,6 +13,7 @@ relatedSlugs:
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # 7 Simple & Flavorful Healthy Holiday Swaps for Seniors

@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-earliest-signs-of-hypertensive-retinopathy-on-home-fundus-photos-and-when-to-see-a-retinal-specialist-if-you-re-68-with-uncontrolled-bp
   - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
   - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
   - >-
+    7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
   - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
 ---
 
 # Hypertensive Retinopathy Early Warning Signs You Can Detect *Before* Vision Fails — Especially After Age 71

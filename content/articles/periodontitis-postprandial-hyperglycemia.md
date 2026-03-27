@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
   - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
   - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
 ---
 
 # How Periodontitis Fuels Postprandial Hyperglycemia in Adults With Long-Standing Diabetes—And Why Dental Cleaning Alone Falls Short

@@ -9,10 +9,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
   - >-
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
 ---
 
 # Natural Ways to Support Pancreatic Enzyme Output During Holiday Meals—Evidence from Older Adults

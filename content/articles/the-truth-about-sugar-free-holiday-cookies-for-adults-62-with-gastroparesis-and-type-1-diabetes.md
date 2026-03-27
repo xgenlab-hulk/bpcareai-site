@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
   - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - >-
+    the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
 ---
 
 # What Really Happens When Seniors with Gastroparesis and Type 1 Diabetes Eat “Sugar-Free” Holiday Cookies — A Gentle Guide for Adults 62+

@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
   - >-
+    how-intergenerational-gift-giving-of-homemade-treats-affects-blood-glucose-variability-in-adults-55-69-with-prediabetes-and-slow-gastric-emptying
   - >-
+    myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
   - >-
+    why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
   - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # How Homemade Cookies Impact Postprandial Triglycerides in Seniors With Metabolic Syndrome

@@ -9,9 +9,13 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart
   - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - >-
+    myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions
   - >-
+    myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
   - aspirin-primary-prevention-cacs-score
 ---
 

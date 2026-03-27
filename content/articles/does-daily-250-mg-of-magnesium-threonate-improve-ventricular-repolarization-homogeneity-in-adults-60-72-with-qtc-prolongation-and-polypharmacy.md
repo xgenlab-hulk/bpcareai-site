@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
   - >-
+    does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
   - >-
+    a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
   - >-
+    a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome
   - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
 ---
 
 # Can Magnesium Threonate Support Safer Heart Rhythms in Older Adults with QTc Prolongation?

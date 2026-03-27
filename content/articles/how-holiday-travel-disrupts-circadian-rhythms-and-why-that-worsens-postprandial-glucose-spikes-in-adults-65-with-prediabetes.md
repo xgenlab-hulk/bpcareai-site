@@ -10,9 +10,11 @@ image: ''
 relatedSlugs:
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - >-
+    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
 ---
 
 # How Holiday Travel Disrupts Circadian Rhythms—and Why That Elevates Post-Meal Glucose Spikes in Seniors with Prediabetes

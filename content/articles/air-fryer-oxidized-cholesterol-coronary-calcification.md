@@ -9,8 +9,11 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
   - >-
+    12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis
   - >-
+    the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
 ---
 
 # Why Air Fryer Oxidized Cholesterol Matters for Older Adults with Coronary Artery Calcification

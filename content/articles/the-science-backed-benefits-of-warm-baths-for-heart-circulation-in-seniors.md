@@ -9,6 +9,7 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
   - the-hidden-dangers-of-indoor-heating-on-blood-pressure
   - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter

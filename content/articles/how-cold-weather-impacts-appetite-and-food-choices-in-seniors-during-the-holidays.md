@@ -9,6 +9,7 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - why-winter-increases-heart-attack-risk-in-seniors-over-70

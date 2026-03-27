@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-of-holiday-induced-ketosis-in-adults-77-with-type-1-diabetes-and-early-cognitive-decline-that-mimic-delirium-or-uti
   - >-
+    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
   - >-
+    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
   - >-
+    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
   - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
 ---
 
 # When Holiday Glycemic Amnesia in Mild Cognitive Impairment Isn’t Just “Getting Forgetful”

@@ -9,8 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
+    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---

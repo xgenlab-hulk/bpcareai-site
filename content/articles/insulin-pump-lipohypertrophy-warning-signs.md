@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
   - >-
+    what-are-the-earliest-changes-in-skin-elasticity-and-wound-healing-that-signal-subclinical-microvascular-damage-in-women-over-65-with-long-standing-diabetes
   - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
   - >-
+    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
   - >-
+    warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
 ---
 
 # Recognizing Insulin Pump Lipohypertrophy Warning Signs—Even With Careful Rotation in Adults 60+

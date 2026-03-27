@@ -13,6 +13,7 @@ relatedSlugs:
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - how-dehydration-impacts-blood-pressure-levels
   - >-
+    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
 ---
 
 # How Constipation Affects Blood Pressure in Seniors—and Safer, Evidence-Based Ways to Protect Your Heart

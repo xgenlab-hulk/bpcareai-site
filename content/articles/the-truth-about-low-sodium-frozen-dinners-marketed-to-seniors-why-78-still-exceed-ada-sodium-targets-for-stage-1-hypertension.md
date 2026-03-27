@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-heart-healthy-frozen-dinners-marketed-to-seniors-why-74-contain-hidden-sodium-potassium-imbalance-triggers-in-adults-78-with-mild-diastolic-dysfunction
   - >-
+    the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension
   - >-
+    the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
   - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
+    the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension
 ---
 
 # Breaking Free from the Low-Sodium Frozen Dinner Sodium Trap — What Seniors *Really* Need to Know

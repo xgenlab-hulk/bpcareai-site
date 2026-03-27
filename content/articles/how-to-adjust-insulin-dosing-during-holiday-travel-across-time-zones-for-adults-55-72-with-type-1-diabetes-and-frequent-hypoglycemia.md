@@ -9,8 +9,11 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
   - >-
+    quick-ways-to-adjust-your-insulin-to-carb-ratio-when-traveling-across-3-time-zones-without-guessing-or-skipping-doses
   - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - should-you-adjust-your-diabetes-medication-during-the-holidays
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 ---

@@ -13,6 +13,7 @@ relatedSlugs:
   - blood-pressure-and-kidney-health-what-seniors-need-to-know
   - how-often-should-adults-over-50-check-their-blood-pressure
   - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
 ---
 
 # Understanding Alcohol and Blood Pressure Limits: What Middle-Aged and Older Adults Need to Know

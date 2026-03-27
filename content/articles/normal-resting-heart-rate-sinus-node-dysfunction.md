@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - >-
+    when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism
   - >-
+    5-things-every-man-over-55-should-know-about-normal-morning-heart-rate-variability-especially-with-untreated-mild-sleep-disordered-breathing
   - >-
+    when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue
   - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
 ---
 
 # When a “Normal” Resting Heart Rate Hides Sinus Node Dysfunction — Especially for Women Over 66

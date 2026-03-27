@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
+    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
   - >-
+    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
   - >-
+    myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74
   - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 ---
 
 # Busting the Insulin Overcorrection Holiday Myth: What Real Data Shows for Adults 59–67 With Long-Term Type 2 Diabetes

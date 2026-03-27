@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
+    myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
   - >-
+    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
   - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-
+    how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
 ---
 
 # How Night Shift Work Affects Blood Pressure and the Renin-Angiotensin System in Men 52–64

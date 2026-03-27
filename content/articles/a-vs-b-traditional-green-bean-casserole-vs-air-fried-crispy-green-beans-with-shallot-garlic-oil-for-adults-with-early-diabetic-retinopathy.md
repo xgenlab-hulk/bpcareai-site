@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
   - >-
+    the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
   - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
   - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
   - >-
+    a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74
 ---
 
 # Green Bean Casserole vs Air-Fried Green Beans: A Gentle, Science-Informed Choice for Eye Health at Family Gatherings

@@ -9,9 +9,13 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
   - >-
+    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
   - >-
+    quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
   - >-
+    best-snack-pairings-to-stabilize-energy-and-mood-between-holiday-meals-for-men-60-72-with-late-onset-depression-and-low-testosterone
 ---
 
 # Natural Ways to Support Serotonin Synthesis in Seniors: Optimizing Tryptophan Intake and Co-Factors for Mild Seasonal Depression

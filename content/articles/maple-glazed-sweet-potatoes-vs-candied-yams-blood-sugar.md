@@ -9,10 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
   - >-
+    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
   - >-
+    a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74
   - >-
+    a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity
   - >-
+    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
 ---
 
 # Maple-Glazed Sweet Potatoes vs Candied Yams Blood Sugar: What Matters Most for Adults 61–79 With Long-Standing Type 2 Diabetes

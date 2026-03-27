@@ -9,9 +9,12 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
+    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
 ---
 

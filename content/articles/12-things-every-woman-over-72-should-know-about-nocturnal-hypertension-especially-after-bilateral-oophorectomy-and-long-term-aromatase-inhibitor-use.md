@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
   - >-
+    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
   - >-
+    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
   - >-
+    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
   - >-
+    5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know
 ---
 
 # Why Won't My Blood Pressure Dip at Night After Cancer Treatment—And What Can I Do About It?

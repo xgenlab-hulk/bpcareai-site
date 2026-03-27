@@ -13,6 +13,7 @@ relatedSlugs:
   - when-to-worry-about-weight-gain-after-a-family-gathering
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - >-
+    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
 ---
 
 # When Bloating After a Holiday Meal Might Be More Than Just Overeating: Key Warning Signs for Older Adults

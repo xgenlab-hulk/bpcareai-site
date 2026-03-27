@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
   - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
+    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
 ---
 
 # What Science Tells Us About Intermittent Fasting and Diastolic Function in Adults 50–64 With Mild High Blood Pressure

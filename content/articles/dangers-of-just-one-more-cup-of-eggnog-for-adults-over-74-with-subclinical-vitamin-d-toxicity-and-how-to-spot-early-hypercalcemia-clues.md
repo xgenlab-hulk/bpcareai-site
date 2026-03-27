@@ -9,8 +9,11 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
   - >-
+    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
   - >-
+    why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
 ---

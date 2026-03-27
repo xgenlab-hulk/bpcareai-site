@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-70-should-know-about-using-wrist-based-blood-pressure-monitors-with-atrial-fibrillation-and-radial-artery-calcification
   - >-
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
   - >-
+    a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea
   - >-
+    a-vs-b-home-based-ecg-patch-monitoring-zio-xt-vs-ambulatory-holter-for-detecting-asymptomatic-atrial-fibrillation-burden-in-adults-60-79-with-controlled-hypertension
   - >-
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
 ---
 
 # Finger-Cuff vs Wrist ECG for AFib Detection: Which Is More Accessible for Older Adults with Arthritis?

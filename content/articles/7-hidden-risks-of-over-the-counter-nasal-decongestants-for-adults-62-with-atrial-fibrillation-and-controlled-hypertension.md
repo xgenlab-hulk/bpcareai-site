@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
   - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
+    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
   - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
   - >-
+    dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation
 ---
 
 # What Seniors With Atrial Fibrillation Should Know About Nasal Decongestants—and Why “Just One Dose” Isn’t Always Safe  

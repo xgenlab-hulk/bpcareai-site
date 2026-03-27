@@ -11,8 +11,10 @@ relatedSlugs:
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
   - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
   - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
   - is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes
   - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
 ---
 
 # Navigating Alcohol and Medications for Seniors During the Holidays: A Practical Guide

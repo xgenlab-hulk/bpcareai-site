@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - >-
+    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
   - >-
+    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
   - >-
+    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
 ---
 
 # Why Overnight Fasting Glucose Rises in Seniors With Type 2 Diabetes — Even Without Dinner

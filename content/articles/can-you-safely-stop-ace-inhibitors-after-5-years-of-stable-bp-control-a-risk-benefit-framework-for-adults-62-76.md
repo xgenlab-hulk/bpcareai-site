@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
+    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
   - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
   - >-
+    when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
   - >-
+    when-should-men-over-75-with-type-2-diabetes-stop-routine-hba1c-screening-a-risk-benefit-framework-for-deprescribing-glycemic-testing
 ---
 
 # Can You Safely Stop ACE Inhibitors After 5 Years of Stable Blood Pressure? A Thoughtful Guide for Adults 62–76

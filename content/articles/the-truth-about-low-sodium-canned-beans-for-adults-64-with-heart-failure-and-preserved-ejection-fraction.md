@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
   - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
   - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
 ---
 
 # What You Need to Know About Low-Sodium Canned Beans and Heart Failure With Preserved Ejection Fraction

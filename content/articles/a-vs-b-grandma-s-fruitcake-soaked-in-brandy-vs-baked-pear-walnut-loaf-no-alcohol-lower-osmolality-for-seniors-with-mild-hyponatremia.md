@@ -9,9 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
   - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
   - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
 ---
 

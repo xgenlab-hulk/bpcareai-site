@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
+    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
   - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
   - >-
+    what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
   - >-
+    why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
 ---
 
 # Rethinking Blood Pressure Targets After 75: Why “Normal” Isn’t One-Size-Fits-All for Frail Elders

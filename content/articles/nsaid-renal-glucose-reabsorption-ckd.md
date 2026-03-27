@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
   - >-
+    how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy
   - >-
+    myths-vs-facts-normal-fasting-glucose-readings-in-adults-with-diabetes-and-chronic-kidney-disease-stage-3a-why-your-lab-may-be-missing-early-glycemic-dysregulation
   - >-
+    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
   - >-
+    what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
 ---
 
 # How NSAID Use Affects Kidney Glucose Handling in Older Adults With CKD and Diabetes

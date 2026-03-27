@@ -9,10 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-bp-meds-are-causing-subclinical-hyponatremia-especially-if-you-re-71-on-thiazides-and-taking-ssris
   - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - >-
+    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
   - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
 ---
 
 # 7 Quiet Clues Your Diabetes Medication Might Be Lowering Sodium—Especially After Hot-Tub Soaking in Adults 72+

@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
 ---
 
 # Are "Mini" Holiday Treats Really Safe for Your Blood Pressure—Or Hiding Dangerous Sodium Levels?

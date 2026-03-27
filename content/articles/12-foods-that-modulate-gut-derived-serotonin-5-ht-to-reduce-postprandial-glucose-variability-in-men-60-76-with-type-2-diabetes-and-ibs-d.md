@@ -9,10 +9,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
   - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
   - >-
+    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
 ---
 
 # Foods That Reduce Serotonin Glucose Spike: A Gentle Guide for Men 60–76 With Type 2 Diabetes and IBS-D

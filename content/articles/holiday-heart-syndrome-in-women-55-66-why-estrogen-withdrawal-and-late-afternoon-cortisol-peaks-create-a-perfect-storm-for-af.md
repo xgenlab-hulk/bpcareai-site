@@ -9,10 +9,13 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
   - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-
+    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
 ---
 
 # Why Women Holiday Heart Syndrome Estrogen Withdrawal Is a Real Concern for Midlife Women (55–66)

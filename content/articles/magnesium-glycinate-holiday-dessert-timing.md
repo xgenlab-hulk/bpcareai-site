@@ -9,10 +9,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
   - >-
+    5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
   - >-
+    10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
+    5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use
 ---
 
 # Magnesium Glycinate Holiday Dessert Timing: What Science Says for Heart Health After 65

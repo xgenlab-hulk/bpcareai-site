@@ -12,6 +12,7 @@ relatedSlugs:
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
   - best-fruits-for-diabetics-over-50-and-which-to-limit
 ---
 

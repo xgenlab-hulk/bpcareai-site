@@ -9,9 +9,11 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 

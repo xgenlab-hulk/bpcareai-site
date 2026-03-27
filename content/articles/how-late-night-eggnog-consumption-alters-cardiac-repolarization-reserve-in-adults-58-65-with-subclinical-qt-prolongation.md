@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
   - >-
+    when-to-skip-the-eggnog-red-flags-that-signal-alcohol-induced-cardiac-instability-in-adults-59-74-with-preserved-ejection-fraction
   - >-
+    how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation
   - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
+    7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria
 ---
 
 # How Eggnog and QT Prolongation Risk Interact in Adults 58–65: A Gentle Guide to Holiday Heart Health

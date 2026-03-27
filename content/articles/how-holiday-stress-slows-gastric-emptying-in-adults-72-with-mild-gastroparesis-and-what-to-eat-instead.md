@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
   - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - >-
+    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # How Holiday Stress and Gastroparesis in Seniors Disrupt Digestion — And What to Eat Instead

@@ -9,8 +9,11 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
   - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 ---

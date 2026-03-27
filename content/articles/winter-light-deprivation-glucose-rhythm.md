@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
   - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
   - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
   - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
 ---
 
 # How Winter Light Deprivation Disrupts Glucose Rhythms—and What You Can Do About It

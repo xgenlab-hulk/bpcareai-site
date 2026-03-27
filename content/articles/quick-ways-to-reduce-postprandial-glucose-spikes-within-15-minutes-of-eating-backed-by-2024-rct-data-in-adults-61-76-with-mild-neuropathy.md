@@ -9,10 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 ---
 
 # Quick Ways to Reduce Postprandial Glucose Spikes—What Works *Within 15 Minutes* (Especially After 60)

@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - >-
+    12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
   - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 ---
 
 # Unpacking the Diabetes-Friendly Holiday Cookies Truth: What Labels Won’t Tell You

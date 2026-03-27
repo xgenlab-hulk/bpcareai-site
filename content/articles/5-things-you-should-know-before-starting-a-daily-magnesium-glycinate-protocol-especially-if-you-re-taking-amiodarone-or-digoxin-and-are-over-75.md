@@ -9,10 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
   - >-
+    does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
   - >-
+    does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
   - >-
+    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
   - >-
+    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
 ---
 
 # What You Need to Know Before Taking Magnesium Glycinate With Amiodarone or Digoxin After Age 75

@@ -9,10 +9,14 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-magnesium-glycinate-timing-relative-to-holiday-desserts-optimizing-absorption-arrhythmia-protection-in-adults-65-with-gastric-hypochlorhydria
   - >-
+    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
   - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
 ---
 
 # Holiday Magnesium Depletion & Migraines in Seniors: Gentle Replenishment Strategies for Healthier Celebrations

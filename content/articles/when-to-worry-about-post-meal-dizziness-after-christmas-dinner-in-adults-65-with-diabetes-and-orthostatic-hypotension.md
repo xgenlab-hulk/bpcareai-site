@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
+    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
   - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
 ---
 
 # When Post-Meal Dizziness After Christmas Dinner Signals Something More—Especially With Diabetes and Orthostatic Hypotension

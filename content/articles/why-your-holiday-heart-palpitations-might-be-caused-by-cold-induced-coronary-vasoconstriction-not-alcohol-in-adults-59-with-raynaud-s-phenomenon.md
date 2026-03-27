@@ -11,8 +11,10 @@ relatedSlugs:
   - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
   - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
+    when-to-worry-about-post-dinner-palpitations-during-hanukkah-or-christmas-red-flags-that-distinguish-holiday-heart-syndrome-from-benign-pacs-in-adults-58-74
 ---
 
 # Cold-Induced Palpitations, Raynaud’s, and Holiday Heart: What You Should Know After 59

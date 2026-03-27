@@ -9,9 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
   - >-
+    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 

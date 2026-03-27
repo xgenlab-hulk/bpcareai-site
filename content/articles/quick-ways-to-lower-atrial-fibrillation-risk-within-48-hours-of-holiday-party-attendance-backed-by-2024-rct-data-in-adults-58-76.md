@@ -9,7 +9,9 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
+    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
   - >-
+    does-holiday-weight-gain-in-adults-with-obesity-class-ii-predict-90-day-atrial-fibrillation-recurrence-a-2024-retrospective-analysis
   - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
   - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event

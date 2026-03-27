@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick
   - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
   - >-
+    the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose
   - >-
+    best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
   - >-
+    why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead
 ---
 
 # Understanding the Gluten Free Stuffing Glycemic Impact for Older Adults

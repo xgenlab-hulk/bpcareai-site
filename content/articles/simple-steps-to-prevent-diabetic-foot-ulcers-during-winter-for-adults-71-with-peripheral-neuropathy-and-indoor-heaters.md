@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - >-
+    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
   - >-
+    best-foot-protective-sock-materials-for-men-74-with-diabetic-neuropathy-edema-and-stage-2-venous-insufficiency
   - >-
+    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
   - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
 ---
 
 # Gentle, Practical Diabetic Foot Ulcers Winter Prevention for Older Adults

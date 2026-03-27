@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
   - >-
+    natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd
   - >-
+    quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
   - >-
+    natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear
   - >-
+    what-causes-sudden-dry-mouth-during-holiday-dessert-consumption-in-adults-75-with-sj-gren-s-syndrome-and-xerostomia-related-dysphagia
 ---
 
 # How Holiday Travel Dehydration Disrupts Salivary Amylase — And Why It Slows Carb Digestion in Adults 65+

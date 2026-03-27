@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
   - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
+    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 ---
 
 # When Sudden Drowsiness After Dinner Isn’t Just “Holiday Fatigue” — Understanding post-dinner drowsiness hypoglycemia seniors

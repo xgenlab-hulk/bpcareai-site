@@ -11,7 +11,9 @@ relatedSlugs:
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
 ---
 

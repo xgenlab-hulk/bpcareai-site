@@ -9,9 +9,12 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
   - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
   - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
   - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 

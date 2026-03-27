@@ -9,8 +9,11 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
   - >-
+    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
   - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---

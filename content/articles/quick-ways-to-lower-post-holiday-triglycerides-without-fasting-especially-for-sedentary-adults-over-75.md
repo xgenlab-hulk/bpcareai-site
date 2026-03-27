@@ -9,10 +9,14 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
 ---
 
 # Effective Ways to Lower Triglycerides Without Fasting for Seniors After the Holidays

@@ -9,9 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
   - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support
   - >-
+    the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
   - the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
 ---
 

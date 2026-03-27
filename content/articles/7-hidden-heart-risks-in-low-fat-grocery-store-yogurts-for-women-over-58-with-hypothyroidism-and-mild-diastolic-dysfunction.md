@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
   - >-
+    the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia
   - >-
+    the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
   - >-
+    5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
   - >-
+    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
 ---
 
 # Hidden Heart Risks in Low-Fat Yogurts for Women Over 58 With Hypothyroidism and Mild Diastolic Dysfunction  

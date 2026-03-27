@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
   - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
   - >-
+    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
   - >-
+    how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
 ---
 
 # How Constipation and Nighttime High Blood Pressure Are Linked in Women Over 65 With Pelvic Floor Challenges

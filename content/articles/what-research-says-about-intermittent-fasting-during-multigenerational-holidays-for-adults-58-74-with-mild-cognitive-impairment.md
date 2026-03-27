@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
+    how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
   - >-
+    how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
   - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
 ---
 
 # Navigating Intermittent Fasting During Multigenerational Holidays With Mild Cognitive Impairment (Age 58–74)

@@ -9,10 +9,14 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - >-
+    how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
 ---
 
 # How Sleep Architecture, Holiday Heart Syndrome, and Mild OSA Interact in Adults 70–79

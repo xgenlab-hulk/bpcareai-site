@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
   - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
+    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
 ---
 
 # Macular Degeneration Dietary Warning Signs You Might Notice This Holiday Season

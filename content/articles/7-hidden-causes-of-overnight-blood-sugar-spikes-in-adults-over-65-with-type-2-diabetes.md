@@ -10,8 +10,10 @@ image: ''
 relatedSlugs:
   - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
   - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 

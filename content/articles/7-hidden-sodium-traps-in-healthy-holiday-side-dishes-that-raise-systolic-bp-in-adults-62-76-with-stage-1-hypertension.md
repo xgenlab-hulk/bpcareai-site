@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
   - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 ---
 
 # Hidden Sodium in Holiday Side Dishes: What Adults 62–76 With Stage 1 Hypertension Should Know

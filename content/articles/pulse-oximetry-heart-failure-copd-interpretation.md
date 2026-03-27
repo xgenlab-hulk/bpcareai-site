@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
+    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
   - >-
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
 ---
 
 # Understanding Pulse Oximetry Heart Failure COPD Interpretation: A Gentle Guide for Older Adults and Caregivers

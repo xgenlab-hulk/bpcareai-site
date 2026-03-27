@@ -10,8 +10,10 @@ image: ''
 relatedSlugs:
   - how-indoor-air-quality-affects-heart-health-in-winter
   - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
 ---
 

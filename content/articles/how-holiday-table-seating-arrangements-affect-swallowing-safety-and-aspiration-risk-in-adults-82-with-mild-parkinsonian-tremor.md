@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
   - >-
+    how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
   - >-
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
   - >-
+    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
   - >-
+    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
 ---
 
 # How Holiday Seating Affects Swallowing Safety in Seniors With Mild Parkinsonian Tremor

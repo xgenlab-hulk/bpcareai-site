@@ -10,8 +10,10 @@ image: ''
 relatedSlugs:
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
   - >-
+    holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
 ---
 
 # Understanding AFib vs Holiday Heart Syndrome: What’s Really Going On With Your Heart?

@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd
   - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
   - >-
+    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
 ---
 
 # How Chewing Turkey Satiety Gastroparesis Affects Fullness and Hormone Response in Adults 55–69

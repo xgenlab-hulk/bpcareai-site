@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-interpreting-home-bp-logs-for-adults-58-72-with-white-coat-hypertension-and-high-work-stress
   - >-
+    5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
   - >-
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
   - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
+    when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
 ---
 
 # When White-Coat Hypertension in the Emergency Room Signals Real Risk for Adults 68+  

@@ -9,10 +9,13 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
   - >-
+    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
   - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
   - >-
+    5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
 ---
 
 # Why Cold-Weather Sodium Sensitivity Pad Seniors Needs Gentle Attention This Winter

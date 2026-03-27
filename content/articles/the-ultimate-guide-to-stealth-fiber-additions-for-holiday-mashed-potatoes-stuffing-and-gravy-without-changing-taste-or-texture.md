@@ -9,9 +9,12 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
   - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
 ---
 

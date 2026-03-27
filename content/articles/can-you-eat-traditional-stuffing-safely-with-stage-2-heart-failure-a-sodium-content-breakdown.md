@@ -9,10 +9,14 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - >-
+    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
 ---
 
 # Can Seniors with Stage 2 Heart Failure Enjoy Stuffing? A Realistic Look at Stuffing Sodium Heart Failure Seniors Should Know

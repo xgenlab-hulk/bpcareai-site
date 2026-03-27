@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response
   - >-
+    myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions
   - >-
+    how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
   - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
   - >-
+    the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a
 ---
 
 # Beyond the Label: Understanding Salt Sensitivity Hypertension Urinary Sodium Genotyping in Adults 59–72

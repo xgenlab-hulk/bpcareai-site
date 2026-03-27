@@ -11,7 +11,9 @@ relatedSlugs:
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
+    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
 ---
 

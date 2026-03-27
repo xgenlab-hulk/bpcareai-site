@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
   - >-
+    a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d
   - >-
+    what-causes-sudden-onset-of-bloating-and-abdominal-distension-after-eating-mashed-potatoes-at-family-gatherings-even-in-adults-63-with-no-known-celiac-disease
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms
 ---
 
 # Cold Mashed Potatoes Glycemic Index Gastroparesis: What You Need to Know After 64

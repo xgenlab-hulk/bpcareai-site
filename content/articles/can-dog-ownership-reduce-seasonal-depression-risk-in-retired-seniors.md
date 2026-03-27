@@ -11,6 +11,7 @@ relatedSlugs:
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - how-winter-depression-affects-heart-health-in-retired-adults
   - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
   - how-to-adjust-your-parent-s-daily-routine-to-combat-winter-depression
 ---

@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
   - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
   - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
+    5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
 ---
 
 # Holiday Appetizers for Macular Degeneration: Flavorful, Vision-Friendly Tweaks That Keep You at the Table

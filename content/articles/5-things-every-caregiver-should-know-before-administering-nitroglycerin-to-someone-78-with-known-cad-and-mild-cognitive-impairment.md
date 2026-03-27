@@ -9,10 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
   - >-
+    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
   - >-
+    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
   - >-
+    7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
   - >-
+    when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia
 ---
 
 # What Should Caregivers Know About Giving Nitroglycerin to Someone 78+ with Dementia?

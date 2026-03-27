@@ -9,9 +9,12 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - could-your-medications-be-raising-your-blood-pressure
   - >-
+    7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens
   - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - is-your-medication-causing-high-blood-pressure
 ---
 

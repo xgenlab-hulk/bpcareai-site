@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - when-to-worry-about-blood-sugar-swings-after-new-year-s-eve

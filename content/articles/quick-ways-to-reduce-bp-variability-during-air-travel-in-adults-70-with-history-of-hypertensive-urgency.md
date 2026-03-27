@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness
   - >-
+    how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt
   - >-
+    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
   - >-
+    how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
   - >-
+    best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
 ---
 
 # Managing Air Travel Blood Pressure Variability After Age 70—Especially With a History of Hypertensive Urgency

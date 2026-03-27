@@ -9,8 +9,10 @@ topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---

@@ -9,10 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
   - >-
+    natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad
   - >-
+    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
   - >-
+    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
   - >-
+    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
 ---
 
 # Gentle, Evidence-Based Cold Exposure Vascular Reactivity Recovery for Seniors With Raynaud’s and Stiff Arteries

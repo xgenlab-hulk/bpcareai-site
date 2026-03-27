@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
   - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
   - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
+    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
 ---
 
 # 7 Subtle Clues Your Sodium Intake Surged at Thanksgiving — Especially If You’re on an ARB and Over 72

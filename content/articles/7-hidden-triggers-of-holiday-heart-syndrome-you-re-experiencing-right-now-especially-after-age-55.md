@@ -9,6 +9,7 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

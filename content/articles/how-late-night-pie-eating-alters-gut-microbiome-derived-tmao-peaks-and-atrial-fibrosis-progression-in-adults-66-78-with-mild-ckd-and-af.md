@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
   - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
+    myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
   - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
+    can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
 ---
 
 # How Late-Night Pie Eating May Influence TMAO Levels and Atrial Fibrosis in Older Adults With Mild Kidney Disease and Atrial Fibrillation

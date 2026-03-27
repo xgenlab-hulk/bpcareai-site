@@ -9,9 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
   - >-
+    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
   - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
   - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
 ---
 

@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
+    the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
   - >-
+    does-daily-low-dose-aspirin-increase-holiday-heart-syndrome-risk-in-adults-65-with-atrial-enlargement-and-unrecognized-microbleeds
   - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
+    the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
 ---
 
 # What Everyone Over 72 Needs to Know About Dual Antiplatelet Therapy After PCI — Especially With NSAIDs or Natto in the Mix

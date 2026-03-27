@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - >-
+    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
   - >-
+    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
   - >-
+    5-things-you-should-know-before-accepting-a-holiday-cookie-swap-especially-if-you-re-81-with-severe-peripheral-neuropathy-and-nocturnal-hypoglycemia-history
   - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
 ---
 
 # Cutting Board Safety for Seniors with Peripheral Neuropathy: A Practical, Stress-Free Guide to Holiday Food Prep

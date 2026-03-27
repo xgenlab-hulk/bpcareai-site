@@ -9,6 +9,7 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
   - does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70
 ---

@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
   - >-
+    how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial
 ---
 
 # How Gum Inflammation Affects Nitric Oxide Balance—and Why It Matters for Your Blood Pressure

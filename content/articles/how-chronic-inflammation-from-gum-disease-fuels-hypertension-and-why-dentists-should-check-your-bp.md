@@ -11,6 +11,7 @@ relatedSlugs:
   - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
   - the-hidden-link-between-gum-disease-and-heart-problems
   - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart
   - how-poor-dental-hygiene-may-lead-to-heart-disease
 ---

@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
   - >-
+    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 ---
 
 # Smart GLP-1 Agonist Meal Timing for Family Gatherings: A Practical Guide for Adults 65 and Older

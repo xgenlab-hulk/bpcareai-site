@@ -9,10 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion
   - >-
+    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
   - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
   - >-
+    how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
   - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
 ---
 
 # Understanding Holiday Brain Fog TMAO Seniors: A Gentle Look at Festive Eating and Cognitive Clarity

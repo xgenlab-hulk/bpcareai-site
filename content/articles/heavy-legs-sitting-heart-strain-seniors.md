@@ -9,10 +9,14 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
   - is-sitting-too-much-harming-your-heart-after-60
   - >-
+    7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
   - >-
+    7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
   - >-
+    7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
 ---
 
 # When “Heavy Legs” After Sitting Might Be a Gentle Nudge from Your Heart — What Seniors 60–74 Should Know  

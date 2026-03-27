@@ -9,10 +9,13 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
   - blood-pressure-and-kidney-health-what-seniors-need-to-know
   - >-
+    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
 ---
 
 # When Elevated Mean Arterial Pressure and Microalbuminuria Signal Early Kidney Changes in Adults 72+ — Even With “Normal” Office Blood Pressure

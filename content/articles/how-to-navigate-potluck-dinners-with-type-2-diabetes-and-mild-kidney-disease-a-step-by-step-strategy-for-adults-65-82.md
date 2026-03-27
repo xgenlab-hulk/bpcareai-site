@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
   - >-
+    what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
+    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
   - >-
+    can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
 ---
 
 # Navigating Potluck Dinners With Diabetes and Kidney Disease: A Calm, Confident Guide for Adults 65–82

@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
   - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
   - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
 ---
 
 # When Your Blood Pressure Monitor Shows False Low Blood Pressure Readings—What to Watch For

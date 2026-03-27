@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73
   - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
   - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # 7 Subtle Signs Your Holiday Eating May Be Accelerating Arterial Stiffness — Especially After Age 68

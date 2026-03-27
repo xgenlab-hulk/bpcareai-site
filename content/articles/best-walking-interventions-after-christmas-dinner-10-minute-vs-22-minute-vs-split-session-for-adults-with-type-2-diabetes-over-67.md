@@ -9,10 +9,13 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
   - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
   - >-
+    quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
 ---
 
 # Best Post-Dinner Walking Strategies for Adults With Type 2 Diabetes Over 67—What the Evidence Says About Walking After Christmas Dinner Diabetes

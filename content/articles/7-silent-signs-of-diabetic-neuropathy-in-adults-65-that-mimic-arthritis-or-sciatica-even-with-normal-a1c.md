@@ -9,10 +9,13 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
   - diabetes-and-joint-pain-is-there-a-connection
   - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
 ---
 
 # 7 Subtle Early Signs of Diabetic Neuropathy in Older Adults — Often Mistaken for Arthritis or Sciatica

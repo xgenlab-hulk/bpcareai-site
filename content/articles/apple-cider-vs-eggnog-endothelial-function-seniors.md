@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
   - >-
+    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
   - >-
+    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
   - >-
+    does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension
   - >-
+    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
 ---
 
 # Apple Cider vs Eggnog Endothelial Function Seniors: What Your Holiday Drink Choice Really Does to Your Arteries

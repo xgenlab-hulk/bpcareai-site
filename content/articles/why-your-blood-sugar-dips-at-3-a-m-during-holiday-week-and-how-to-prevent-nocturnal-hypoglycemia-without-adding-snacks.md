@@ -11,7 +11,9 @@ relatedSlugs:
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---
 

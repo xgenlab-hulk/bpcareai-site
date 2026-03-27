@@ -11,6 +11,7 @@ relatedSlugs:
   - when-to-worry-about-palpitations-after-christmas-dinner
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
   - the-truth-about-benign-holiday-palpitations-are-they-really-harmless
   - should-you-worry-about-heart-palpitations-when-lying-down
 ---

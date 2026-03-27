@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
   - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - >-
+    how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
   - >-
+    what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss
   - >-
+    how-intermittent-fasting-during-hanukkah-or-christmas-week-affects-circulating-igf-1-levels-in-adults-55-69-with-early-stage-breast-cancer
 ---
 
 # What the Science Says About Weekday Intermittent Fasting Holidays for Older Adults With Sarcopenic Obesity

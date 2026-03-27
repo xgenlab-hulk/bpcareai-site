@@ -9,7 +9,9 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements
   - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
   - mitochondrial-biogenesis-beta-cells-diabetes
   - pancreatic-beta-cell-resilience-festive-eating
   - beta-cell-rest-holiday-meals-natural-support

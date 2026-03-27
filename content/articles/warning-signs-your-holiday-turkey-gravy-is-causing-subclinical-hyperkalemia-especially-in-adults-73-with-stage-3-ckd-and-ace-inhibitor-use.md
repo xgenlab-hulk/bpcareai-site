@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
   - >-
+    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
   - >-
+    when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion
   - >-
+    when-should-you-skip-the-holiday-ham-and-why-if-you-re-66-with-stage-2-chronic-kidney-disease-and-elevated-urea-nitrogen
   - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
 ---
 
 # Turkey Gravy Hyperkalemia Warning Signs in Seniors: What to Watch for During the Holidays

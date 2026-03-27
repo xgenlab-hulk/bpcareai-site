@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - >-
+    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - >-
+    how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
   - >-
+    a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77
 ---
 
 # Can Light Therapy for Seasonal Depression Help Stabilize Fasting Glucose in Adults With Type 2 Diabetes?

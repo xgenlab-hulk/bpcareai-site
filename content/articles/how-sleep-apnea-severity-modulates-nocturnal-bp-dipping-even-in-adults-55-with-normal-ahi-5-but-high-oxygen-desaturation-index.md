@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
   - >-
+    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
   - >-
+    what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
   - >-
+    what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
   - >-
+    how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
 ---
 
 # How Oxygen Desaturation Index Nocturnal BP Patterns Reveal Hidden Heart Stress — Even When Sleep Apnea Looks “Mild”

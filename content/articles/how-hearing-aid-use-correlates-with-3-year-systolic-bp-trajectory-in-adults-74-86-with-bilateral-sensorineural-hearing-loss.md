@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
+    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
   - >-
+    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
   - >-
+    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
   - >-
+    how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
 ---
 
 # How Hearing Aid Use May Influence Your Systolic Blood Pressure Over Time — Especially With Age-Related Hearing Loss

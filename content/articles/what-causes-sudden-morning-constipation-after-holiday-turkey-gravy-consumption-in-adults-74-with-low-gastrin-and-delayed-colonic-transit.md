@@ -9,10 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
   - >-
+    how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
   - >-
+    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
   - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
 ---
 
 # Why Holiday Gravy Constipation Seniors Happens — And What You Can Gently Do About It

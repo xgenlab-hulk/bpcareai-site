@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
   - >-
+    what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
   - >-
+    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
+    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
 ---
 
 # When to Skip Holiday Ham If You’re 66+ With Stage 2 CKD — A Gentle Guide to Healthy Holiday Eating for Seniors

@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
   - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
+    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
   - >-
+    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
   - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
 ---
 
 # 7 Quiet Clues Your Holiday Sodium Might Be Tightening Your Heart’s Diastolic Function—Especially If You’re a Woman 65+ With Preserved Ejection Fraction  

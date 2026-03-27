@@ -9,10 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
   - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
+    what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
   - >-
+    when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
   - >-
+    best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
 ---
 
 # How Sleep Position Affects Pulmonary Congestion in Seniors With HFpEF and Mild Obstructive Sleep Apnea  

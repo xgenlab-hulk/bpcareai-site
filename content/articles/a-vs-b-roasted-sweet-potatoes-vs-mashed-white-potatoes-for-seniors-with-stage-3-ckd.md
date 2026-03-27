@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
   - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
 ---
 
 # Sweet Potatoes vs White Potatoes for CKD Seniors: A Renal-Friendly Holiday Comparison

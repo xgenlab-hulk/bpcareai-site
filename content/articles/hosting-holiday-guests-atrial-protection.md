@@ -9,10 +9,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
+    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
   - >-
+    best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
   - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
+    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
 ---
 
 # Gentle, Science-Supported Ways to Support Your Atria While Hosting Holiday Guests

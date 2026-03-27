@@ -9,10 +9,15 @@ topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c
   - >-
+    10-foods-that-stabilize-post-holiday-fasting-glucose-without-lowering-it-for-adults-64-with-history-of-falls-and-hypoglycemia-associated-autonomic-failure
   - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia
   - >-
+    5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily
   - >-
+    7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities
 ---
 
 # Why Overcorrecting Fasting Glucose in the Oldest Old Raises Real Risks — Especially With Mild Cognitive Impairment

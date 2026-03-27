@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms
   - >-
+    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
   - >-
+    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
   - >-
+    how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment
   - >-
+    a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
 ---
 
 # Optimal Postprandial Glucose Timing for Adults 58+ With Rapid Gastric Emptying and Reactive Hypoglycemia  

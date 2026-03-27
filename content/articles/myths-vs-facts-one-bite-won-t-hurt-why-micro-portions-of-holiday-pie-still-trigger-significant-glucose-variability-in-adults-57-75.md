@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - myths-vs-facts-holiday-eating-with-diabetes-after-50
   - >-
+    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
   - >-
+    a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74
   - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 ---
 
 # Debunking the “One Bite Holiday Pie Blood Sugar Myth”: What CGM Data Really Shows for Adults 57–75

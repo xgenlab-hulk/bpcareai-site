@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat

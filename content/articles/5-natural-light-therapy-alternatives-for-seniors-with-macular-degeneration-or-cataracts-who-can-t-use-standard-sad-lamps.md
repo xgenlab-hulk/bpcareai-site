@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
   - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
+    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
   - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
   - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
 ---
 
 # Can You Still Benefit From Light Therapy With Macular Degeneration or Cataracts—Safely?

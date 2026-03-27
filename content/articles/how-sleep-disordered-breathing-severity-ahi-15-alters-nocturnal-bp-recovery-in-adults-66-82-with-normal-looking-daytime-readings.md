@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
   - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - >-
+    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
   - >-
+    how-sleep-apnea-severity-predicts-diabetic-retinopathy-progression-rate-in-adults-64-80-with-non-proliferative-dr-and-ahi-15
   - >-
+    how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes
 ---
 
 # How Sleep Apnea Affects Nocturnal Blood Pressure Recovery in Adults 66–82—Even With Normal Daytime Readings

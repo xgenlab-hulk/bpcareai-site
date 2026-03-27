@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
+    how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65
   - >-
+    best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress
   - >-
+    natural-ways-to-support-serotonin-synthesis-without-ssris-in-older-adults-with-mild-seasonal-depression-and-low-tryptophan-intake
   - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
 ---
 
 # Smart Snack Pairings for Mood Stability in Seniors: Supporting Energy, Emotion, and Hormonal Balance During the Holidays

@@ -9,10 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
   - >-
+    how-chronic-exposure-to-low-frequency-traffic-vibration-below-10-hz-modulates-baroreceptor-sensitivity-in-adults-65-70-with-stage-1-hypertension-and-mild-sleep-fragmentation
   - >-
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
+    how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings
   - >-
+    how-intermittent-use-of-magnetic-mattress-pads-alters-baroreflex-gain-in-adults-63-with-mild-orthostatic-intolerance-and-early-autonomic-neuropathy
 ---
 
 # How Low-Frequency Vibration Affects Baroreflex Sensitivity in Older Adults With Neuropathy

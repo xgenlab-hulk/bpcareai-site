@@ -13,6 +13,7 @@ relatedSlugs:
   - the-role-of-potassium-in-managing-blood-pressure-after-50
   - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
   - >-
+    12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label
 ---
 
 # Hidden Salt in Foods and Blood Pressure: What You’re Eating Might Be Working Against Your Heart

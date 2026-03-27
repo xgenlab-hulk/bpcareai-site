@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
   - >-
+    when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
   - >-
+    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
   - >-
+    how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
   - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
 ---
 
 # Why a Cold Shower Might Lower Your Blood Pressure — And the Real cold shower blood pressure drop risk for Adults 68+

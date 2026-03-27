@@ -10,9 +10,11 @@ image: ''
 relatedSlugs:
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
   - >-
+    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
   - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
+    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
 ---
 
 # A Reassuring Guide to Holiday Heart Prevention for Pacemaker Patients

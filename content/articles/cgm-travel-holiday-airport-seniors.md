@@ -9,10 +9,14 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
   - >-
+    5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes
   - >-
+    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
 ---
 
 # What Every Senior Should Know About CGM Travel Holiday Airport Seniors — Practical Tips for Stress-Free Holidays

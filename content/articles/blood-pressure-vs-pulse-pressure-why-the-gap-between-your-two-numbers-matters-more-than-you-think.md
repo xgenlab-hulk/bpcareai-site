@@ -11,7 +11,9 @@ relatedSlugs:
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - how-chronic-stress-contributes-to-high-blood-pressure-over-time
   - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
+    blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor
   - isolated-systolic-hypertension-what-it-means-for-older-adults
 ---
 

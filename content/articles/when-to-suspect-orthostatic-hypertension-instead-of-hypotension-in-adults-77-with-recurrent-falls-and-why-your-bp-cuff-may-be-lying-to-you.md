@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - >-
+    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
   - >-
+    blood-pressure-management-for-adults-80-with-severe-orthostatic-hypotension-and-recurrent-syncope-not-just-sitting-sbp
   - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
+    7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
 ---
 
 # When Orthostatic Hypertension — Not Hypotension — Might Be Behind Recurrent Falls in Adults 77+

@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
   - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
   - >-
+    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
   - >-
+    how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
   - >-
+    7-hidden-sugar-traps-in-healthy-family-style-salads-especially-for-women-over-60-with-insulin-resistance
 ---
 
 # Hidden Glycemic Traps in ‘Healthy’ Holiday Buffets — What You Need to Know About Healthy Holiday Buffet Glycemic Traps

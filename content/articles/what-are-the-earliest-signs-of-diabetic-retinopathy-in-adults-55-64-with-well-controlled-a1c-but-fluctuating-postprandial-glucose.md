@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - >-
+    what-are-the-earliest-changes-in-skin-elasticity-and-wound-healing-that-signal-subclinical-microvascular-damage-in-women-over-65-with-long-standing-diabetes
   - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
   - >-
+    when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy
   - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
 ---
 
 # Early Diabetic Retinopathy Signs in Adults 55–64: Why Fluctuating Glucose Matters Even With Good A1c

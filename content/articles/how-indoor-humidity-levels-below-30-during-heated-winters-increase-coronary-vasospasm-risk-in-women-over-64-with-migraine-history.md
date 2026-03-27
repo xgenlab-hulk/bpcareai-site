@@ -9,6 +9,7 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
   - how-indoor-air-quality-affects-heart-health-in-winter
   - how-staying-hydrated-in-winter-protects-your-heart-after-70
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors

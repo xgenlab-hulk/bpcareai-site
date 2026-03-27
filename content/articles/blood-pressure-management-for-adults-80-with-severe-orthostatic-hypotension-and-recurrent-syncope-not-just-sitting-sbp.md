@@ -9,8 +9,11 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
+    what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - isolated-systolic-hypertension-what-it-means-for-older-adults
 ---

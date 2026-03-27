@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
   - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
   - >-
+    dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
   - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
   - >-
+    what-causes-sudden-orthostatic-hypotension-after-morning-tea-in-adults-68-with-mild-parkinsonism-even-without-caffeine
 ---
 
 # Why Some Seniors Experience Orthostatic Tachycardia After Dental Anesthesia — And What You Can Do About It

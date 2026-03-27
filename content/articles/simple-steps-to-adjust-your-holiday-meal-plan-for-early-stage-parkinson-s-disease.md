@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
 ---
 
 # Smart Parkinson’s Disease Holiday Meal Planning for Healthier, More Enjoyable Celebrations

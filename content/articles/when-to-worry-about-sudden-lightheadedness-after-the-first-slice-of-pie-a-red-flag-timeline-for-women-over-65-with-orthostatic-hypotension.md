@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
   - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 ---
 
 # When Lightheadedness After Pie Orthostatic Hypotension in Women 65+ Signals a Need for Gentle Attention

@@ -9,10 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-72-should-know-about-dual-antiplatelet-therapy-after-pci-especially-if-you-take-otc-nsaids-or-eat-natto-daily
   - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
+    5-things-everyone-over-67-should-know-about-sharing-a-single-serving-of-holiday-stuffing-especially-if-taking-warfarin-or-eating-spinach-sage-loaf-daily
 ---
 
 # Navigating Holiday Eating After PCI: A Gentle, Practical Guide for Seniors on Dual Antiplatelet Therapy

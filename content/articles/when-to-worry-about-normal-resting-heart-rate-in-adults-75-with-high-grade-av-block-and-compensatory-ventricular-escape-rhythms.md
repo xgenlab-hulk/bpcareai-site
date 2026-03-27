@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
   - >-
+    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
   - >-
+    why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction
   - >-
+    when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism
   - >-
+    when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea
 ---
 
 # When a “Normal” Resting Heart Rate in Seniors With High-Grade AV Block May Actually Signal Trouble  

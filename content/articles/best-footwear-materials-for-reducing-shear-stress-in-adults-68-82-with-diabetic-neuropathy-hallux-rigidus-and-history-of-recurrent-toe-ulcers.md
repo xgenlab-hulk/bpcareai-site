@@ -9,9 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception
   - >-
+    best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
   - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
   - >-
+    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
   - myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
 ---
 

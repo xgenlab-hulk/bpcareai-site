@@ -11,8 +11,11 @@ relatedSlugs:
   - salt-sensitivity-myths-older-adults-gut-microbiome
   - salt-sensitivity-myths-in-black-adults
   - >-
+    what-research-says-about-gut-microbiome-diversity-and-salt-sensitivity-in-adults-67-with-normal-bmi-but-persistent-nighttime-hypertension
   - >-
+    myths-vs-facts-salt-sensitivity-in-black-adults-over-55-what-genetics-renal-sodium-handling-and-social-determinants-really-explain
   - >-
+    myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
 ---
 
 # Understanding Salt Sensitivity Genetics Microbiome Aging: Why Sodium Limits Aren’t One-Size-Fits-All After 60

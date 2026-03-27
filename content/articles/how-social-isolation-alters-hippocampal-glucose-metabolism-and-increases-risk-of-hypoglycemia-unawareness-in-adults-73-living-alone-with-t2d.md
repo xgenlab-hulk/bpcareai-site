@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
   - >-
+    how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
   - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
   - >-
+    when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness
   - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
 ---
 
 # How Social Isolation Affects Hippocampal Glucose Metabolism—and What You Can Do About It

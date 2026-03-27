@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-75-should-know-about-blood-pressure-medication-timing-especially-if-you-take-a-diuretic-and-a-calcium-channel-blocker
   - >-
+    what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
   - >-
+    what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
   - >-
+    12-science-backed-times-of-day-to-take-your-blood-pressure-based-on-circadian-endothelial-no-synthase-rhythms
   - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 ---
 
 # When to Check NT-proBNP in Older Adults With Stage 2 CKD and New Shortness of Breath — A Science-Guided Timing Strategy

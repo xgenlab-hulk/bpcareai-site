@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
   - >-
+    how-sudden-hearing-loss-triggers-acute-hyperglycemia-in-adults-63-with-prediabetes-and-why-it-s-not-just-stress
   - >-
+    how-hearing-loss-alters-flavor-perception-and-drives-excessive-salt-use-at-holiday-meals-in-adults-79-with-presbycusis
   - >-
+    7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
   - >-
+    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
 ---
 
 # How Hearing Loss, Diabetes, and Mild Cognitive Impairment Interact to Accelerate Brain Metabolic Changes — And What You Can Do

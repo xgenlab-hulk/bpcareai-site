@@ -9,7 +9,9 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm

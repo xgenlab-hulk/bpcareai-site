@@ -9,6 +9,7 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - when-to-worry-about-palpitations-after-christmas-dinner
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes

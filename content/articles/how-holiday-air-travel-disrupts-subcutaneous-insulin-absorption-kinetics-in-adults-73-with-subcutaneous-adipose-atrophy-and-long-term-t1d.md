@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes
   - >-
+    5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
   - >-
+    holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
   - >-
+    how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
   - >-
+    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
 ---
 
 # How Air Travel Insulin Absorption in Elderly Adults with Long-Term Type 1 Diabetes Requires Special Consideration

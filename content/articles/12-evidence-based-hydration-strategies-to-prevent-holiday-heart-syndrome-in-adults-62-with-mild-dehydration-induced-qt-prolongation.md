@@ -9,6 +9,7 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

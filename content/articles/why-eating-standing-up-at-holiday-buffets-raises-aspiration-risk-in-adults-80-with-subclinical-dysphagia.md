@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
   - >-
+    how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
   - >-
+    when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia
   - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
   - >-
+    how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor
 ---
 
 # Why Standing Eating Aspiration Risk Seniors Is a Quiet Holiday Hazard—And How to Stay Safe

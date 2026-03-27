@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-stabilize-heart-rate-variability-hrv-after-a-sudden-startle-for-adults-71-with-post-viral-autonomic-dysfunction
   - >-
+    5-things-every-man-over-55-should-know-about-normal-morning-heart-rate-variability-especially-with-untreated-mild-sleep-disordered-breathing
   - >-
+    12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls
   - >-
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
   - >-
+    the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
 ---
 
 # Why Heart Rate Variability After 65 Declines — And What Gentle Breathing Can Do About It

@@ -9,10 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
   - >-
+    when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
   - >-
+    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
   - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - >-
+    what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
 ---
 
 # Subtle Clues Your Body May Be Struggling with B12 Absorption After Holiday Meat — Especially If You're 70+ and on PPIs

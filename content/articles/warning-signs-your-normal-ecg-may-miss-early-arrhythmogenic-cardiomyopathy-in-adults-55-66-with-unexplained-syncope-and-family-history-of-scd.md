@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
   - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
   - >-
+    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
   - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
   - >-
+    5-things-everyone-over-72-should-know-about-using-home-ecg-devices-with-pacemakers-and-atrial-flutter-especially-if-you-re-taking-apixaban-or-rivaroxaban
 ---
 
 # When a “Normal” ECG Isn’t Enough: Recognizing Early Arrhythmogenic Cardiomyopathy in Adults 55–66 With Unexplained Syncope

@@ -12,7 +12,9 @@ relatedSlugs:
   - is-metformin-still-safe-for-diabetics-over-70
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
   - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - >-
+    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
 ---
 
 # Do PPIs Increase Atrial Fibrillation Risk in Seniors With GERD? What the Evidence Shows

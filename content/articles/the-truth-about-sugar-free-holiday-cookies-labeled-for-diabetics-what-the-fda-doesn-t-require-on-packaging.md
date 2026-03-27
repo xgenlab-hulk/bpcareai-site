@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
   - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - >-
+    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
 ---
 
 # What You Need to Know About Sugar-Free Cookies and Their Glycemic Impact on Seniors This Holiday Season

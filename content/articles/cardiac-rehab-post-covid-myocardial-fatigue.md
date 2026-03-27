@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
   - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
   - >-
+    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
   - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
   - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
 ---
 
 # Gentle, Smart Steps to Restart Cardiac Rehab After COVID—Especially With Myocardial Fatigue Over Age 70

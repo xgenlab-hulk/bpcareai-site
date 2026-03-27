@@ -11,8 +11,11 @@ relatedSlugs:
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
+    why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
   - >-
+    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
   - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
 ---
 
 # Is Swapping Butter for Margarine Weakening Your Bones? (Women 68+ Osteopenia Guide to Holiday Baking)

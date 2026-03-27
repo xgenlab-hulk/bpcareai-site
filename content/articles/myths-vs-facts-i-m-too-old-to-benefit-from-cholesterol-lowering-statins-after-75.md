@@ -9,9 +9,13 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
   - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
+    top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
   - the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
 ---
 

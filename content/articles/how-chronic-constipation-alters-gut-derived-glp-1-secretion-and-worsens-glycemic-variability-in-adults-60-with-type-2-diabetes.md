@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - >-
+    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
   - >-
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
   - >-
+    does-adding-2-grams-of-inulin-fos-daily-improve-postprandial-glp-1-and-pyy-secretion-in-adults-59-71-with-prediabetes-low-fiber-diets-and-recent-weight-regain
   - >-
+    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
 ---
 
 # How Chronic Constipation Disrupts GLP-1 Secretion and Impacts Blood Sugar Control in Older Adults With Type 2 Diabetes

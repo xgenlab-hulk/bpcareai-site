@@ -9,10 +9,14 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
   - >-
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - >-
+    the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
 ---
 
 # How to Prevent VT During Travel With an ICD: Gentle, Evidence-Based Strategies for Adults 65–79

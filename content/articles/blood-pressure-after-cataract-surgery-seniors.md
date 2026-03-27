@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma
   - >-
+    12-science-backed-times-to-check-blood-pressure-after-a-high-altitude-flight-based-on-hypobaric-stress-response-peaks-in-adults-60-with-copd
   - >-
+    the-complete-guide-to-managing-heart-disease-while-recovering-from-cataract-surgery-practical-protocols-for-adults-73-on-beta-blockers-with-preoperative-resting-hr-58-bpm
   - >-
+    what-causes-sudden-blood-pressure-dips-only-while-reading-fine-print-on-prescription-labels-and-why-that-triggers-transient-cerebral-hypoperfusion-in-adults-79-with-presbyopia-and-carotid-stenosis-50
   - >-
+    simple-steps-to-reduce-morning-blood-pressure-variability-during-shaving-or-tooth-brushing-not-just-after-for-adults-67-with-white-coat-amplification-and-carotid-sinus-hypersensitivity
 ---
 
 # When Blood Pressure After Cataract Surgery Seniors Rises Briefly — What’s Normal, What’s Not

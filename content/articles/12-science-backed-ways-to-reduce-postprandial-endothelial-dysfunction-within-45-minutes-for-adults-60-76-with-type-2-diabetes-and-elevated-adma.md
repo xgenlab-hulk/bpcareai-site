@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp
   - >-
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
   - >-
+    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
   - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
 ---
 
 # Blood Vessels Stiffening After Meals? What Adults 60-76 With Diabetes Need to Know

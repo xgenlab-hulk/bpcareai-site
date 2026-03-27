@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
   - >-
+    simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation
   - >-
+    myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization
   - >-
+    can-you-safely-use-a-sauna-while-taking-an-ace-inhibitor-evidence-based-temperature-thresholds-and-recovery-protocols-for-adults-65-with-mild-lv-hypertrophy
   - >-
+    best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk
 ---
 
 # Using a Portable Oxygen Concentrator During Cardiac Rehab: What Older Adults With HFpEF Need to Know

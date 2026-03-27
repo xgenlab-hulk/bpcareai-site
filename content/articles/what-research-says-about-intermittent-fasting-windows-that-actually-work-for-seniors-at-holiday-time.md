@@ -10,8 +10,10 @@ image: ''
 relatedSlugs:
   - can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
   - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - >-
+    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 

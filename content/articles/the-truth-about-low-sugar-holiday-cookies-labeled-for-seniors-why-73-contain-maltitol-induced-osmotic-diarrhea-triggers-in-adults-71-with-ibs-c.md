@@ -9,10 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
   - >-
+    the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
   - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
 ---
 
 # What You Need to Know About Low-Sugar Cookies Maltitol Seniors IBS — And Why “Senior-Friendly” Labels Can Mislead

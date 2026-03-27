@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions
   - >-
+    the-complete-guide-to-interpreting-nt-probnp-in-adults-76-with-ckd-stage-3b-and-anemia-why-standard-cutpoints-fail-and-what-adjusted-thresholds-to-use
   - >-
+    the-complete-guide-to-interpreting-your-cgm-s-time-in-range-metric-for-adults-75-with-fragile-glycemic-control-and-frequent-falls
   - >-
+    the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
   - >-
+    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
 ---
 
 # When to Take Troponin After Fall in Elderly Seriously — Age-Adjusted Interpretation and Cardiac Risk in Frail Adults 82+

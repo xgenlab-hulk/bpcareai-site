@@ -9,10 +9,13 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
 ---
 
 # Gentle Holiday Eating for Seniors: Managing Histamine-Induced Urticaria Naturally

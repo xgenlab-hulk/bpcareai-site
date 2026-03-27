@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-constipation-alters-vagal-tone-and-elevates-nighttime-systolic-pressure-in-adults-60-75-with-mild-orthostatic-intolerance
   - >-
+    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
   - >-
+    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
   - >-
+    how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
   - >-
+    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
 ---
 
 # How Constipation and Nocturnal ST Variability Reflect Gut-Brain-Heart Communication in Older Adults With Vasovagal Syncope

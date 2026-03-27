@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - >-
+    does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
   - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
 ---
 
 # Holiday Weight Gain Visceral Fat Warning Signs: What Subtle Changes May Signal Early Blood Sugar Shifts

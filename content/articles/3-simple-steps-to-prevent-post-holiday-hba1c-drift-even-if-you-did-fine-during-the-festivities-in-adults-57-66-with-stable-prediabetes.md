@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-55-72-with-long-standing-type-2-diabetes
   - 5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
   - >-
+    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
 ---
 
 # Why Is Your HbA1c Rising After the Holidays—Even When Your Daily Readings Looked Fine?

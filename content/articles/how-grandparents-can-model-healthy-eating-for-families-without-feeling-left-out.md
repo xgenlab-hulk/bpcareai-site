@@ -12,6 +12,7 @@ relatedSlugs:
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 

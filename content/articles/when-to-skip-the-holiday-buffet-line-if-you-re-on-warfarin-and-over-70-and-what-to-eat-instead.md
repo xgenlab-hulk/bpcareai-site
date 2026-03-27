@@ -9,10 +9,13 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
+    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
   - >-
+    can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
 ---
 
 # What to Know About the Warfarin Holiday Buffet Seniors Should Navigate—Safely and Confidently

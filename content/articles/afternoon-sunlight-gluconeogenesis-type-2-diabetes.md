@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-late-afternoon-sunlight-exposure-regulates-hepatic-glucose-production-via-melanopsin-scn-arc-signaling-in-adults-59-66-with-insulin-resistance
   - >-
+    how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
   - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
+    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
   - >-
+    how-chronic-exposure-to-led-nightlights-in-hallways-disrupts-retinal-melanopsin-signaling-and-elevates-nocturnal-glucose-in-adults-70-with-nocturia-and-poor-sleep-efficiency
 ---
 
 # How Afternoon Sunlight Gluconeogenesis Type 2 Diabetes Connection Works — And Why Timing Matters

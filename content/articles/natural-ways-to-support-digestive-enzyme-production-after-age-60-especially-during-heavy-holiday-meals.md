@@ -12,7 +12,9 @@ relatedSlugs:
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
+    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
   - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # Natural Digestive Enzyme Support for Seniors During Holiday Meals  

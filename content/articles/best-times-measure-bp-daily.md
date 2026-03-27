@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
+    a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension
   - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-
+    a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern
   - >-
+    a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74
 ---
 
 # When Should You Check Your Blood Pressure? 12 Science-Backed Windows That Work With Your Body's Natural Rhythm

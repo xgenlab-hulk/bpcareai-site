@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
   - >-
+    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
   - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - >-
+    how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64
   - >-
+    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
 ---
 
 # How Intergenerational Food Pushing During Holiday Dinners Affects Blood Sugar in Adults 58+ With LADA

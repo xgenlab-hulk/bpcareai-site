@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
   - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
   - >-
+    the-truth-about-diabetes-friendly-holiday-cookie-kits-why-92-fail-postprandial-glucose-clamp-testing-in-adults-63-with-gastroparesis-like-symptoms
 ---
 
 # The Real Story Behind ‘Diabetic-Friendly’ Holiday Candy — Unpacking the diabetic-friendly candy truth

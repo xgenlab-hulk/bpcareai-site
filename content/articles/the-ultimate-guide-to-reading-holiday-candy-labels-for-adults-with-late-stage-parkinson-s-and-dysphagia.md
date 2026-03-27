@@ -9,10 +9,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
   - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
 ---
 
 # A Safe, Sweet Holiday: Understanding Holiday Candy Dysphagia Parkinsons for Adults Over 50

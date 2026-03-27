@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-12-minute-tai-chi-qigong-flow-vs-guided-4-7-8-breathing-with-biofeedback-impact-on-central-aortic-systolic-pressure-in-women-69-with-isolated-systolic-hypertension
   - >-
+    a-vs-b-daily-10-minute-tai-chi-flow-vs-guided-heart-coherence-biofeedback-for-improving-24-hour-hrv-in-women-64-78-with-hypertension-and-perimenopausal-vasomotor-symptoms
   - >-
+    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
   - >-
+    does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability
   - >-
+    a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension
 ---
 
 # Tai Chi vs Treadmill for Microvascular Angina: What the Latest Cardiac MRI Data Shows in Adults 67+

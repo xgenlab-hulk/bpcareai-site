@@ -9,10 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
   - >-
+    the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis
   - >-
+    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
   - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
   - >-
+    how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication
 ---
 
 # How NSAID Use Affects Pulse Pressure in Older Adults With Aortic Root Dilation

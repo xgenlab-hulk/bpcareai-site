@@ -9,9 +9,13 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
   - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - >-
+    what-causes-sudden-diastolic-dips-during-hot-yoga-in-adults-52-66-with-prehypertension-and-low-aldosterone
 ---
 
 # Smart Antihypertensive Dosing During Summer Heatwaves: A Practical Guide for Adults Over 60

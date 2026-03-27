@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
   - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
   - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
   - >-
+    10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
   - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-adults-58-71-with-established-cad-and-high-tmao-levels
 ---
 
 # Do Plant-Based Burgers Support Endothelial Function in Adults With Prediabetes Over 58?

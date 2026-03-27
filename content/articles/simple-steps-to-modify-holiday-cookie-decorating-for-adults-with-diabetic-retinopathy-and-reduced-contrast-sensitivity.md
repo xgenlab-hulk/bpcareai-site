@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
+    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
+    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
 ---
 
 # Adapting Holiday Cookie Decorating for Adults With Diabetic Retinopathy and Reduced Contrast Sensitivity

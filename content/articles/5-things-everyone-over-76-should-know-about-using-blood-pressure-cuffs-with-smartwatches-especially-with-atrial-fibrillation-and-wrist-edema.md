@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
   - >-
+    does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension
   - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
   - >-
+    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
 ---
 
 # What Seniors Over 76 Need to Know About Smartwatch Blood Pressure Accuracy—Especially With Atrial Fibrillation and Wrist Edema

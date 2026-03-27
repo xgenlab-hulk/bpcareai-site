@@ -13,6 +13,7 @@ relatedSlugs:
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
+    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
 ---
 
 # A Practical Holiday Buffet Blood Sugar Guide for Adults 50+: Smart Strategies to Stay Balanced During Festive Eating

@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
   - >-
+    how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
   - >-
+    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
   - >-
+    does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
   - >-
+    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
 ---
 
 # How Constipation, Vagal Tone, and Nighttime Blood Pressure Are Connected in Adults 60–75

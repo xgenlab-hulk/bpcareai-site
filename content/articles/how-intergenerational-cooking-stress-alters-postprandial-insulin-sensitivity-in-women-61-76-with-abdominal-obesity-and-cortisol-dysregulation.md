@@ -9,9 +9,12 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
   - >-
+    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
   - >-
+    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 ---
 

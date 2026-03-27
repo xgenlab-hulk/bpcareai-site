@@ -9,10 +9,14 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
+    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
   - >-
+    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
+    what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
   - >-
+    natural-ways-to-support-serotonin-synthesis-without-ssris-in-older-adults-with-mild-seasonal-depression-and-low-tryptophan-intake
 ---
 
 # Gentle, Evidence-Based Natural Constipation Relief for Seniors on Opioids This Holiday Season

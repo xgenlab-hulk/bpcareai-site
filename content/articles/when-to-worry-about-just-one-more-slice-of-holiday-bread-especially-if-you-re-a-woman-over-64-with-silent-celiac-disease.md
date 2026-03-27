@@ -9,9 +9,13 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
   - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - >-
+    what-are-the-hidden-risks-of-gluten-free-holiday-rolls-for-adults-77-with-undiagnosed-celiac-disease-and-atrophic-gastritis
 ---
 
 # Recognizing Silent Celiac Symptoms in Older Women—Especially During the Holidays

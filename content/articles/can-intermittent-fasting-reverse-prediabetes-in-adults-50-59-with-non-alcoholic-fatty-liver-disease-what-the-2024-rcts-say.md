@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
   - >-
+    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
   - >-
+    what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide
   - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
+    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
 ---
 
 # Can Intermittent Fasting Help Adults 50–59 Reverse Prediabetes and NAFLD? What the 2024 RCTs Tell Us

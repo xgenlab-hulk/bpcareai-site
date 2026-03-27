@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-during-festive-eating-using-post-meal-fenugreek-seed-infusion-cold-pressed-flax-oil-timing-in-adults-61-with-long-standing-type-2-diabetes
   - >-
+    natural-ways-to-support-beta-cell-resilience-during-high-carb-holiday-eating-using-polyphenol-timing-cold-exposure-windows-and-breath-hold-protocols-in-adults-57-65-with-recent-onset-type-2-diabetes
   - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-using-polyphenol-rich-fermented-foods-for-adults-56-72-with-recent-onset-type-2-diabetes-and-high-hs-crp
   - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks
   - >-
+    natural-ways-to-support-pancreatic-beta-cell-rest-during-holiday-meals-using-cold-pressed-apple-cinnamon-chutney-and-pre-meal-seated-breathing-in-adults-63
 ---
 
 # 9 Holiday Foods That Gently Support Beta-Cell Resilience — Backed by Human Islet Research

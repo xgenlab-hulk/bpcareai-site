@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
   - >-
+    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
   - >-
+    can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal
   - >-
+    why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
   - >-
+    how-gut-fungal-overgrowth-candida-albicans-correlates-with-post-antibiotic-glucose-spikes-in-adults-59-73-with-recurrent-utis-and-long-term-metformin-use
 ---
 
 # Understanding Metformin, Probiotics, and Blood Glucose: 10 Surprising Interactions in Adults 62+

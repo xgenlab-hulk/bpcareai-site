@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
   - >-
+    best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
   - >-
+    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
   - >-
+    how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
   - >-
+    warning-signs-your-continuous-glucose-monitor-is-misreading-due-to-subcutaneous-edema-in-adults-70-with-chronic-heart-failure-and-diuretic-dependent-volume-control
 ---
 
 # Navigating CGM Calibration Holiday Travel Disruption: Practical Tips for Airports, Planes, and Road Trips

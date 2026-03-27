@@ -9,10 +9,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
   - >-
+    the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
   - >-
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
   - >-
+    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
   - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
 ---
 
 # What Every Person Over 72 Should Know About Chest ECG Devices Air Travel Pacemaker Dependent Situations

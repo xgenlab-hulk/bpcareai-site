@@ -9,10 +9,13 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
   - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
   - why-older-women-are-more-vulnerable-to-winter-heart-events
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - >-
+    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
 ---
 
 # What Every Woman Over 67 Should Know About Women Holiday Heart Syndrome and Menopause

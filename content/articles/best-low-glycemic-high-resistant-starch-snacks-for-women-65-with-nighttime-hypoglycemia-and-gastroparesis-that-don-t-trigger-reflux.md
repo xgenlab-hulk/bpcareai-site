@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
   - >-
+    best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd
   - >-
+    quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 ---
 
 # Gentle, Gut-Friendly Snacks for Nighttime Blood Sugar Stability — Especially When Gastroparesis and Reflux Are in the Mix  

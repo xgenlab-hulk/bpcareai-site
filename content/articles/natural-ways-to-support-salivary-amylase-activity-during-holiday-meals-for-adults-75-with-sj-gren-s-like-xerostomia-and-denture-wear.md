@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
   - >-
+    quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
   - >-
+    what-causes-sudden-dry-mouth-during-holiday-dessert-consumption-in-adults-75-with-sj-gren-s-syndrome-and-xerostomia-related-dysphagia
   - >-
+    natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
   - >-
+    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
 ---
 
 # Gentle, Natural Ways to Support Salivary Amylase in Dry Mouth Seniors During Holiday Meals

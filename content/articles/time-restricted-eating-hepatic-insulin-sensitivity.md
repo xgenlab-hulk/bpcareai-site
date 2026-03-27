@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
   - >-
+    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
 ---
 
 # Boosting Liver Health Naturally: Time-Restricted Eating Hepatic Insulin Sensitivity for Adults 61–75 With NAFLD

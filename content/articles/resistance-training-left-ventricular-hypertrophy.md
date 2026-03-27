@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-
+    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
   - >-
+    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
   - can-strength-training-lower-heart-disease-risk-after-60
   - >-
+    what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
 ---
 
 # Can Resistance Training Left Ventricular Hypertrophy Be Reversed in Older Adults With Controlled Hypertension?

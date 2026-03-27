@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - best-low-impact-exercises-for-managing-diabetes-after-60
   - >-
+    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
   - >-
+    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
   - foot-care-basics-every-senior-with-diabetes-should-know
   - >-
+    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
 ---
 
 # Strength Training for Seniors With Peripheral Neuropathy: Safe, Smart, and Science-Backed Modifications

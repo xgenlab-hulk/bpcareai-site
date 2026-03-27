@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
   - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
   - >-
+    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
   - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
 ---
 
 # When “Healthy Swaps” Backfire: Recognizing Hidden Hyponatremia in Seniors on Thiazide Diuretics

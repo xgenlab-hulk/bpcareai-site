@@ -9,10 +9,14 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
+    warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
   - easy-heart-healthy-holiday-appetizers-under-150-calories
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # Why Holiday Appetizers Triglycerides Seniors Deserve a Second Look This Season

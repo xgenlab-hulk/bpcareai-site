@@ -12,6 +12,7 @@ relatedSlugs:
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - how-often-should-adults-over-50-check-their-blood-pressure
   - >-
+    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
 ---
 

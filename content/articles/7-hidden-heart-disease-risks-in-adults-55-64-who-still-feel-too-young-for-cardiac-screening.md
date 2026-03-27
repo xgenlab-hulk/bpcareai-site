@@ -9,6 +9,7 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms

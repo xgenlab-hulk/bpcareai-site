@@ -9,10 +9,12 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - when-to-worry-about-weight-gain-after-a-family-gathering
   - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
 ---
 
 # Does Holiday Weight Gain Predict Atrial Fibrillation Recurrence? What Adults With Obesity Class II Should Know

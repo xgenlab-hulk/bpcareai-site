@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - >-
+    myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays

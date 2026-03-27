@@ -11,8 +11,10 @@ relatedSlugs:
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # How Holiday Sleep Disruption Affects Fasting Glucose in Men Over 70—and What You Can Do About It

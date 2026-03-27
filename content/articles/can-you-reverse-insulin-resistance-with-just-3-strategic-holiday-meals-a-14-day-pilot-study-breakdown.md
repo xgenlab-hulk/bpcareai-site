@@ -12,6 +12,7 @@ relatedSlugs:
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
 ---
 

@@ -9,10 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 ---
 
 # 12 Science-Backed Strategies to Reduce Post-Meal Inflammation Seniors 58+ Can Use—Especially During Family Gatherings

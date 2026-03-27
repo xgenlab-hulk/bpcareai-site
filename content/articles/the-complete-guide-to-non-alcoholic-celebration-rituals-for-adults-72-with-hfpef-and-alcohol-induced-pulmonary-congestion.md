@@ -10,8 +10,11 @@ image: ''
 relatedSlugs:
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
   - >-
+    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
   - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
   - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
 ---
 

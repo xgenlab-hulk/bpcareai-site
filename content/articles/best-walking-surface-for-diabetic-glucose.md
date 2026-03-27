@@ -9,10 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
   - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
   - >-
+    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
   - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
 ---
 
 # Best Walking Surface for Diabetic Glucose Control in Older Adults With Flat Feet and Sensory Challenges

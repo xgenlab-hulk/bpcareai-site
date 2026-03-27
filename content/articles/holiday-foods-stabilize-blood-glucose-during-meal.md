@@ -11,7 +11,9 @@ relatedSlugs:
   - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 ---
 

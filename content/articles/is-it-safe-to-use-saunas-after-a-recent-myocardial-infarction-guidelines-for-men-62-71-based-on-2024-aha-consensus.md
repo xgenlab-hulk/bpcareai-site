@@ -9,9 +9,11 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - can-shoveling-snow-trigger-a-heart-event-in-older-adults
   - is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
   - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 ---
 

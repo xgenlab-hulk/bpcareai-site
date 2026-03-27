@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome
   - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
   - >-
+    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
   - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
 ---
 
 # Low-Carb vs Magnesium Holiday Heart Prevention: Which 3-Day Strategy Supports Your Heart Best Before Festivities?

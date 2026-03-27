@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
   - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
   - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
+    when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction
 ---
 
 # Why “Normal” Home Blood Pressure Readings Can Still Carry Risk—Especially After 70

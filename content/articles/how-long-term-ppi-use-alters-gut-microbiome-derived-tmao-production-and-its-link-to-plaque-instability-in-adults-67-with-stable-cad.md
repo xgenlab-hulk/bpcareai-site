@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-long-term-proton-pump-inhibitor-use-elevates-risk-of-subclinical-atherosclerosis-in-adults-59-71-with-gerd-and-low-hdl-c-independent-of-magnesium-levels
   - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
+    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
   - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
+    what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy
 ---
 
 # How Long-Term PPI Use, Gut Microbes, and TMAO Interact in Heart Health for Seniors 67+ with Stable CAD — Understanding pills and tmao heart disease seniors 67+

@@ -9,10 +9,12 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
+    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
 ---
 
 # What Really Triggers Holiday Heart Syndrome in Hypertensive Adults—And How to Stay Steady Through the Holidays

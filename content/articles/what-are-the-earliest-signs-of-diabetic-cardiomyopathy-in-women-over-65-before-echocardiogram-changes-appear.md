@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
   - >-
+    what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
   - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
   - >-
+    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
 ---
 
 # Early Diabetic Cardiomyopathy Signs in Women Over 65—Before Structural Changes Show Up

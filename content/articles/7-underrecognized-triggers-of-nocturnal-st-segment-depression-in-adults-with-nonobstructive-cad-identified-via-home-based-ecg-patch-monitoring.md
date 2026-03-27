@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
+    a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - >-
+    7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
   - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 ---
 
 # What’s Really Behind Nocturnal ST-Segment Depression Triggers in Older Adults With Stable Heart Disease?

@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
   - >-
+    10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
   - >-
+    the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
   - >-
+    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
   - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
 ---
 
 # How Ultra-Processed Holiday Snacks Affect Endothelial Function in Adults 61–75 With Early Atherosclerosis

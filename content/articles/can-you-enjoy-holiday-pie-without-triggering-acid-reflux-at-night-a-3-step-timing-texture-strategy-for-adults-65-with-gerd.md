@@ -9,10 +9,14 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
+    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
 ---
 
 # Can You Enjoy Holiday Pie Without Triggering Nighttime Acid Reflux? A Gentle, Science-Backed Strategy for Adults 65+

@@ -11,6 +11,7 @@ relatedSlugs:
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
 ---

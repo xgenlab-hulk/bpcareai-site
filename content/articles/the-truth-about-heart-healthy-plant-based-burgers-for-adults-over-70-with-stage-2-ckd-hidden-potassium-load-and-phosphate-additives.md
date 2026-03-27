@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
   - >-
+    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
+    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
   - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
 ---
 
 # Plant-Based Burgers, Potassium, and Phosphorus in CKD: What Adults Over 70 with Stage 2 Chronic Kidney Disease Should Know  

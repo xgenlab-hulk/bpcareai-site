@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms
   - >-
+    does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
   - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
   - >-
+    does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
   - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 ---
 
 # How Brief Post-Meal Walking Helps Reduce Atrial Stretch in Adults 57–63 With Mild Left Atrial Enlargement

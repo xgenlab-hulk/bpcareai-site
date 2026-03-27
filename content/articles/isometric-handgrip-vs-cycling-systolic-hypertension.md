@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension
   - >-
+    a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension
   - >-
+    quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74
   - >-
+    a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76
   - >-
+    can-daily-5-minute-isometric-handgrip-training-lower-ambulatory-diastolic-bp-in-sedentary-women-63-71-within-10-days
 ---
 
 # Isometric Handgrip vs Cycling for Systolic Hypertension: What Works Best for Older Men?

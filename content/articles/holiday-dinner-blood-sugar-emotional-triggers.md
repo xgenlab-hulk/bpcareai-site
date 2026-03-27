@@ -9,8 +9,11 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-stress-hormones-sabotage-blood-sugar-control-during-family-dinners-cortisol-induced-insulin-resistance-patterns-in-adults-58-65-with-prediabetes
   - >-
+    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
   - >-
+    7-hidden-holiday-stress-triggers-that-spike-postprandial-glucose-in-adults-58-65-with-early-insulin-resistance
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
   - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
 ---

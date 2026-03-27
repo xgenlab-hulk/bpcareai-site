@@ -9,9 +9,12 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
+    5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - >-
+    5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
 ---
 

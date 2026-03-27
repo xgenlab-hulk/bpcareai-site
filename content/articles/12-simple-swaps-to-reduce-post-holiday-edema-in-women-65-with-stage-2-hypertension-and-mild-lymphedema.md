@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - >-
+    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
   - >-
+    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
 ---
 
 # Ankles Still Swollen After the Holidays? 12 Kitchen Swaps Women 65+ Can Try Today

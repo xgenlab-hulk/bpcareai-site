@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
   - >-
+    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
   - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
   - >-
+    the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone
   - >-
+    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
 ---
 
 # What You Should Know About “Non-Alcoholic” Mulled Wine & Cider This Holiday Season — And Their Link to Non-Alcoholic Drinks Holiday Heart Syndrome

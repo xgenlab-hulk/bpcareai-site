@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
   - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
   - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
 ---
 
 # Subtle Sleep Disruption and Atrial Fibrosis Warning Signs You Might Miss This Holiday Season—Especially If You’re Over 71 and Use CPAP

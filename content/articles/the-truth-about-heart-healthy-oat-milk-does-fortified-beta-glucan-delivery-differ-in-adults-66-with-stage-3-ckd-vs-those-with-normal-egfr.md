@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
+    myths-vs-facts-normal-fasting-glucose-readings-in-adults-with-diabetes-and-chronic-kidney-disease-stage-3a-why-your-lab-may-be-missing-early-glycemic-dysregulation
   - >-
+    a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd
   - >-
+    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
   - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
 ---
 
 # Oat Milk, Heart Health, and Kidney Disease: What Adults 66+ with Stage 3 CKD Should Know

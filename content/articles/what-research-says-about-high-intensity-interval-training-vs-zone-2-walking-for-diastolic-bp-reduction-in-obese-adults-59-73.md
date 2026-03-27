@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
   - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
+    can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension
   - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
+    what-research-says-about-weekly-high-intensity-interval-training-hiit-only-on-tuesdays-mitochondrial-biogenesis-glycemic-variability-and-skeletal-muscle-capillarization-in-adults-71-with-sarcopenia-and-type-2-diabetes
 ---
 
 # How HIIT vs Zone 2 Walking Affects Diastolic BP in Adults 59–73: What the Evidence Gently Suggests

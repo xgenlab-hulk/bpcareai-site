@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-grade-inflammation-from-untreated-gum-disease-accelerates-insulin-resistance-in-adults-58-72-with-prediabetes
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
   - >-
+    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
   - >-
+    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
 ---
 
 # How Gum Inflammation Insulin Clearance Diabetes Interacts in Adults 57–69 With Well-Controlled Type 2 Diabetes

@@ -11,8 +11,11 @@ relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
   - >-
+    12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
   - >-
+    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
 ---
 
 # Gentle Winter Hydration for Steady Blood Pressure in Older Adults — A Smarter Approach for 76+  

@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
   - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
 ---
 
 # When Sudden Dizziness on Standing Signals Something More: Understanding dizziness standing up orthostatic hypotension After Age 65

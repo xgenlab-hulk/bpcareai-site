@@ -9,10 +9,13 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
   - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
 ---
 
 # Best Low-Sodium Holiday Side Dish Swaps for Older Adults—Practical, Tasty & Kidney-Safe

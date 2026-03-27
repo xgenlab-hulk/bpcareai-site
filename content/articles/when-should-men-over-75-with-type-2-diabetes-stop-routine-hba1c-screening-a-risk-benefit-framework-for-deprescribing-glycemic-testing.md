@@ -9,8 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
   - understanding-a1c-goals-for-seniors-with-diabetes
   - >-
+    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
   - is-metformin-still-safe-for-diabetics-over-70
 ---
 

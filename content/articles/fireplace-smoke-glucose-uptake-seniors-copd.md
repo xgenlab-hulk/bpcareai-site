@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
+    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
   - >-
+    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
   - >-
+    can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
   - >-
+    how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
 ---
 
 # How Fireplace Smoke Affects Glucose Uptake in Seniors with COPD and Type 2 Diabetes

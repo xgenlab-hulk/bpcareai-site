@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
   - >-
+    how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes
   - >-
+    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - >-
+    how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
 ---
 
 # Why Sleep Apnea Resistant Hypertension Perimenopause Is a Hidden Challenge for Women in Their Late 50s and Early 60s

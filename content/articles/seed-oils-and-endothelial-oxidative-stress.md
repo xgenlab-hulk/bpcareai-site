@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
   - >-
+    the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
   - >-
+    the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60
   - >-
+    does-adding-1-gram-of-ground-flaxseed-to-breakfast-lower-central-systolic-pressure-in-adults-56-69-with-hypertension-and-elevated-ldl-p
   - >-
+    the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque
 ---
 
 # The Real Impact of Seed Oils and Endothelial Oxidative Stress in Older Adults With High Lp(a)

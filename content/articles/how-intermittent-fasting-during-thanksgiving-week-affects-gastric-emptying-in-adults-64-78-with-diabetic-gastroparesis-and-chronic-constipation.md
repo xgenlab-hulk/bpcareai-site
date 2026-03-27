@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - >-
+    how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd
   - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - >-
+    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
 ---
 
 # How Intermittent Fasting During Holiday Meals Affects Stomach Motility in Adults With Diabetic Gastroparesis and Constipation

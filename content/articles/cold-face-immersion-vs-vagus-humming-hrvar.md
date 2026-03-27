@@ -9,10 +9,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
   - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
   - >-
+    does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv
   - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
   - >-
+    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
 ---
 
 # Cold Face Immersion vs Vagus Humming HRV: Which Morning or Evening Practice Better Supports Heart Health After 60?

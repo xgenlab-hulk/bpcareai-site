@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 ---
 
 # How Night Shift Work After 50 Affects Circadian Genes and Heart Health—And What You Can Do About It

@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
   - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
   - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-with-automated-insulin-delivery-vs-flash-glucose-monitoring-with-manual-dosing-for-adults-71-with-mild-cognitive-impairment-and-nocturnal-hypoglycemia
   - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
+    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
 ---
 
 # CGM vs SMBG for Dawn Phenomenon Detection: What’s Best for Adults 57–64 With Early Beta-Cell Decline?

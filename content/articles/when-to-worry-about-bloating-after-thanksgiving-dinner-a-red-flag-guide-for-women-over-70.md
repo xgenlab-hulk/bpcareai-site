@@ -9,6 +9,7 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults
   - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60

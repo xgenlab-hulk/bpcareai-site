@@ -9,10 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
+    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
   - >-
+    the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
   - >-
+    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
   - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
 ---
 
 # How to Thoughtfully Modify Family Recipe Dysphagia for Safe, Joyful Holiday Meals

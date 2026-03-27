@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
   - >-
+    what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
   - >-
+    what-causes-sudden-loss-of-sweet-taste-perception-in-adults-69-with-well-controlled-diabetes-and-why-it-predicts-early-diabetic-autonomic-neuropathy
   - >-
+    7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes
   - >-
+    7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-oral-mucosa-and-why-that-matters-for-adults-74-with-diabetic-retinopathy-and-poor-wound-healing
 ---
 
 # Early Warning Signs of Denture Adhesive–Related Cobalamin Deficiency and Its Impact on Autonomic Neuropathy in Older Adults with Type 2 Diabetes

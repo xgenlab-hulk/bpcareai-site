@@ -9,10 +9,14 @@ topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:
   - >-
+    how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65
   - >-
+    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-
+    12-science-backed-times-to-serve-a-protein-first-bite-not-just-eat-slowly-to-reduce-post-holiday-triglyceride-spikes-in-adults-68-with-metabolic-syndrome
   - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
 ---
 
 # Strategic Snacking Before Holiday Gatherings: What Science Says for Adults 57–64 with Insulin Resistance

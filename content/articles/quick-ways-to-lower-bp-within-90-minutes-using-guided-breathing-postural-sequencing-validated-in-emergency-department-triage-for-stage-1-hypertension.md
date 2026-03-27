@@ -9,9 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
   - >-
+    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
   - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
   - >-
+    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
   - can-deep-breathing-exercises-reduce-high-blood-pressure
 ---
 

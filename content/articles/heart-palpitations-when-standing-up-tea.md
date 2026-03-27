@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    what-causes-sudden-orthostatic-hypotension-after-morning-tea-in-adults-68-with-mild-parkinsonism-even-without-caffeine
   - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
+    when-to-worry-about-new-onset-palpitations-during-morning-meditation-in-adults-66-79-with-known-aortic-stenosis-and-mild-lvot-obstruction
   - >-
+    why-do-adults-72-with-atrial-fibrillation-often-develop-orthostatic-hypotension-and-what-that-reveals-about-autonomic-cardiac-reserve
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
 ---
 
 # Why You Might Feel Heart Palpitations When Standing Up to Pour Tea — And What It Really Means for Your Heart Health

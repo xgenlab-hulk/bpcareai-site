@@ -9,9 +9,13 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
   - >-
+    7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
   - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - 5-silent-signs-your-heart-is-struggling-in-cold-weather
 ---
 

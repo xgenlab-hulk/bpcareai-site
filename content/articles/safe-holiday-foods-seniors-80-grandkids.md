@@ -9,6 +9,7 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50

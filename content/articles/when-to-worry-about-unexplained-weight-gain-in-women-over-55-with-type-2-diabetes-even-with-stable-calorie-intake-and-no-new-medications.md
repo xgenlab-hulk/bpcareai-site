@@ -10,8 +10,11 @@ image: ''
 relatedSlugs:
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 

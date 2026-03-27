@@ -9,8 +9,11 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
 ---
 
 # What Every Person With Type 1 Diabetes Over 60 Needs to Know Before Trying a Plant-Based Diet—Especially With Gastroparesis or Hypothyroidism

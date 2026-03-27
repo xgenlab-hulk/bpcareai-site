@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
   - >-
+    a-vs-b-slow-steeped-hibiscus-infused-sparkling-water-vs-sugar-free-cranberry-mocktail-impact-on-endothelial-flow-mediated-dilation-in-adults-65-with-mild-hypertension
   - >-
+    10-things-you-should-know-about-alcohol-free-mulled-wine-for-blood-sugar-control-including-tannin-content-spice-synergy-and-serving-temperature-effects
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - >-
+    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
 ---
 
 # Best Non-Alcoholic Wine Alternatives for Adults 75+ With Diabetes and Early Macular Degeneration

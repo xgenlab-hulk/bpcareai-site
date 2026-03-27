@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia
   - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
+    12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying
   - >-
+    a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
   - >-
+    a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity
 ---
 
 # Herbal Tea Timing Postprandial Glucose: Does Ginger-Cinnamon Tea Work Better Before or After Dinner for Adults 61+?

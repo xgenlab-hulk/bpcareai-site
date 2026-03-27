@@ -9,10 +9,14 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
   - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - >-
+    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
 ---
 
 # How Loneliness and Heart Rate Variability in Seniors Reflects a Deeper Heart Health Connection

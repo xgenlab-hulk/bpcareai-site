@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
   - >-
+    5-things-every-adult-70-with-insulin-dependent-diabetes-should-know-before-attending-a-potluck-holiday-party
   - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
   - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
   - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
 ---
 
 # Your Practical Type 1 Diabetes Holiday Potluck Guide — Strategies for Confident, Safe, and Enjoyable Gatherings

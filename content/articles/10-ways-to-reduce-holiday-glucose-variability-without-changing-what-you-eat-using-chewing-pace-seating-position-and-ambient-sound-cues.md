@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
   - >-
+    natural-ways-to-support-glycemic-resilience-during-holiday-social-events-without-supplements-or-diet-pills-for-adults-55-64-newly-diagnosed-with-type-2-diabetes
   - >-
+    12-science-backed-ways-to-reduce-glycemic-variability-not-just-lower-a1c-in-adults-55-71-with-type-2-diabetes-and-frequent-hypoglycemia
   - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
   - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
 ---
 
 # 10 Evidence-Based Ways to Reduce Glucose Variability Without Diet Change During the Holidays

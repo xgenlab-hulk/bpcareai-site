@@ -11,8 +11,11 @@ relatedSlugs:
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
   - >-
+    does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
   - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
   - >-
+    quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
 ---
 
 # Magnesium Glycinate vs Oxide for QT Stability in Older Adults on Amiodarone: What the Evidence Really Shows

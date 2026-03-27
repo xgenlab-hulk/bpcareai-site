@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
+    warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
   - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
+    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
   - >-
+    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
 ---
 
 # When Leftover Mac and Cheese Sneaks Up on Your Triglycerides—What Happens After 55

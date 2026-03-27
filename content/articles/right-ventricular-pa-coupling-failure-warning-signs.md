@@ -10,10 +10,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function
   - >-
+    warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue
   - >-
+    warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate
   - >-
+    warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis
   - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
 ---
 
 # Recognizing Early right ventricular pa coupling failure warning signs — Especially in Adults 70+ with Stable Heart Failure Class II

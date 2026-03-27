@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
   - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
+    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
   - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
 ---
 
 # When Holiday Heart Racing Sleep Apnea Red Flags Demand Your Attention — A Timely Guide for Adults 53–67

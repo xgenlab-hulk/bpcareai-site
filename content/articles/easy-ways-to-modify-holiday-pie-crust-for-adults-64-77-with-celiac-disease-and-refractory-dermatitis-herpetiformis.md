@@ -9,10 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-gluten-free-holiday-cookies-why-many-still-sabotage-blood-pressure-in-seniors-with-hypertension
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
+    the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
   - >-
+    12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
   - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
 ---
 
 # Gluten-Free Pie Crust for Celiac Seniors: Safe, Simple Holiday Baking After Age 64

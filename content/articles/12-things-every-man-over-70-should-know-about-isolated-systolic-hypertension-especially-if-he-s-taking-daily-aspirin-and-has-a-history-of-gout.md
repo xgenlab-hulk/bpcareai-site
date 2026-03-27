@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
   - >-
+    does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability
   - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
+    what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
   - >-
+    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
 ---
 
 # Top Number Over 140 But Bottom Number Normal? What Men 70+ With Gout Should Know

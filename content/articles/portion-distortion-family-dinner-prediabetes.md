@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
+    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
   - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
   - >-
+    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
   - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
 ---
 
 # How Portion Distortion at Family Dinners Undermines Blood Sugar Control — Especially for Adults 58–74 With Prediabetes

@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
   - >-
+    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
   - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
   - >-
+    can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index
   - >-
+    does-daily-10-minute-cold-water-immersion-12-c-improve-hrv-and-reduce-nt-probnp-in-adults-59-70-with-stage-b-heart-failure
 ---
 
 # Can Cold Water Immersion Blood Pressure Raynauds Help Older Adults With Mild High Blood Pressure?

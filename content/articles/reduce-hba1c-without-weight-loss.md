@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-55-72-with-long-standing-type-2-diabetes
   - >-
+    12-science-backed-ways-to-reduce-glycemic-variability-not-just-lower-a1c-in-adults-55-71-with-type-2-diabetes-and-frequent-hypoglycemia
   - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # Quick, Gentle Ways to Reduce HbA1c Without Weight Loss — A 3-Day Post-Holiday Reset for Adults 60–71

@@ -12,6 +12,7 @@ relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 

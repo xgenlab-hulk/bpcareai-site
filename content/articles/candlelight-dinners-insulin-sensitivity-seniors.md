@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
   - >-
+    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
   - >-
+    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
   - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
 ---
 
 # How Candlelight Dinners Impact Insulin Sensitivity in Seniors — And Smarter Holiday Meal Choices

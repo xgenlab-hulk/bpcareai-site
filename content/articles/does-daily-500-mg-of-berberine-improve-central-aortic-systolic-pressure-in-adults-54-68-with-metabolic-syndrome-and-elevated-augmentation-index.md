@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
   - >-
+    can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal
   - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - >-
+    a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness
   - >-
+    a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension
 ---
 
 # Can Berberine Support Healthier Central Aortic Blood Pressure in Adults With Metabolic Syndrome?

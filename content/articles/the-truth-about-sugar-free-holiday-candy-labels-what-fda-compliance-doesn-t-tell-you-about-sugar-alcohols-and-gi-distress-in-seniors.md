@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - >-
+    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
 ---
 
 # Understanding Sugar-Free Candy Side Effects in Seniors: What “Sugar-Free” Really Means for Your Gut and Glucose

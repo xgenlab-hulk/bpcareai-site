@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - >-
+    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
   - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - >-
+    how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
 ---
 
 # 5 Key Things to Know Before Serving a Diabetes-Safe Side Dish Gastroparesis-Friendly This Thanksgiving

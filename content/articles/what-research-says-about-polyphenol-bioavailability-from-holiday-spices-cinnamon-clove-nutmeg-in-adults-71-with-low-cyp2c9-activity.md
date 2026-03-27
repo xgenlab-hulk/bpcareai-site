@@ -9,10 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
   - >-
+    simple-steps-to-lower-post-holiday-c-reactive-protein-in-just-5-days-using-only-frozen-berries-ground-flax-and-your-evening-tea-ritual
   - >-
+    natural-ways-to-counteract-holiday-nighttime-glucose-spikes-without-medication-focused-on-evening-walking-timing-foot-temperature-and-cinnamon-bioavailability
   - >-
+    what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68
   - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
 ---
 
 # Understanding Holiday Spice Bioavailability in Seniors With CYP2C9 Variants

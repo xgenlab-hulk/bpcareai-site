@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
   - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - >-
+    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
   - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
 ---
 
 # What Seniors Need to Know About ‘Diabetes-Friendly’ Cereal Labels — Unmasking Hidden Sugars and Glycemic Traps

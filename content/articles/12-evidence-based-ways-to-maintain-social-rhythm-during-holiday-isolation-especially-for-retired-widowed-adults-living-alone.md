@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - >-
+    quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
   - how-group-activities-in-senior-centers-prevent-seasonal-depression
   - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
 ---
 
 # 12 Evidence-Based Strategies to Support Social Rhythm Therapy for Isolated Older Adults During the Holidays

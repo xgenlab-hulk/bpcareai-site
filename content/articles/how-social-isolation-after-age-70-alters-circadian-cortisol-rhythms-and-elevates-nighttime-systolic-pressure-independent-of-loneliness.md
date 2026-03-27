@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
   - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
   - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
 ---
 
 # How Social Isolation After 70 Rewires Your Body’s Clock—And Raises Nighttime Blood Pressure (Even Without Feeling Lonely)

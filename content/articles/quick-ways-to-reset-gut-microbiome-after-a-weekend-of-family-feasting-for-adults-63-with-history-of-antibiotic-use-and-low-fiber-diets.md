@@ -9,10 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
   - >-
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
   - >-
+    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
   - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
   - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
 ---
 
 # Gentle, Smart Ways to Reset Gut Microbiome After Holiday Feasting — Especially If You’re 63+ and Have Taken Antibiotics

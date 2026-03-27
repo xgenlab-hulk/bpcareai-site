@@ -9,10 +9,15 @@ topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - >-
+    best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
   - >-
+    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
   - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
   - >-
+    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
   - >-
+    best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception
 ---
 
 # Smart Footwear Choices for Older Adults With Charcot Neuroarthropathy *and* Mild COPD: Prioritizing Offloading, Oxygen Conservation, and Stability

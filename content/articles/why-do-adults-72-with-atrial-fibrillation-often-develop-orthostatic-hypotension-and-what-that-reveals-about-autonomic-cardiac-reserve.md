@@ -9,10 +9,14 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
   - the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
   - >-
+    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
   - >-
+    can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
   - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
 ---
 
 # Why Atrial Fibrillation Orthostatic Hypotension in Older Adults Signals a Shift — Not a Sentence — in Heart Health

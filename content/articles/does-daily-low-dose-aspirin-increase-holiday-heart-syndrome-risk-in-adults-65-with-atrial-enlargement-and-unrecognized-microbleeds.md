@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
   - >-
+    what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
   - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
   - >-
+    holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
   - >-
+    a-vs-b-daily-low-dose-aspirin-vs-colchicine-for-secondary-prevention-in-adults-64-79-with-prior-myocardial-infarction-and-elevated-hs-crp
 ---
 
 # Aspirin, Holiday Heart Syndrome, and Atrial Enlargement: What Older Adults Should Know

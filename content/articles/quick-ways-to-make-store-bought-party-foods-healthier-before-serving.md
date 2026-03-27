@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
   - >-
+    top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
   - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
 ---
 

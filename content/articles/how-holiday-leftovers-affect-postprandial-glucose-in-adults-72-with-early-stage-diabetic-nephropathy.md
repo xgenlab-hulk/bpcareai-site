@@ -9,9 +9,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
+    can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
   - >-
+    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
   - >-
+    how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 

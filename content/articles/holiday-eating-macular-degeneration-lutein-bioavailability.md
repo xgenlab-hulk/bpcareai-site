@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
+    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
   - >-
+    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
+    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
 ---
 
 # Smart Holiday Eating for Macular Health: Boosting Lutein Bioavailability the Gentle, Science-Supported Way

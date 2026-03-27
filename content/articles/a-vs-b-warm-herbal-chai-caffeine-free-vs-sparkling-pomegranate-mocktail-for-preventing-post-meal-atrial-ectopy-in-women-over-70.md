@@ -9,10 +9,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
+    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
   - >-
+    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
   - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
   - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 ---
 
 # Herbal Chai vs Pomegranate Mocktail for Atrial Ectopy: What the Latest Research Suggests for Women Over 70

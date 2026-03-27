@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-times-to-check-your-glucose-during-the-holidays-based-on-circadian-ampk-activation-peaks-in-adults-70-with-sarcopenia-and-insulin-resistance
   - >-
+    when-test-glucose-seniors-dawn
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
   - >-
+    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
 ---
 
 # When to Test Ketones After Weight-Loss Surgery and Starting Keto at 67+: A Safe, Science-Backed Guide

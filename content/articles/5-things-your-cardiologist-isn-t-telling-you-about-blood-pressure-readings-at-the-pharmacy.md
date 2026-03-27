@@ -11,8 +11,11 @@ relatedSlugs:
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
   - how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
   - >-
+    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
   - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
 ---
 
 # What Your Cardiologist Wishes You Knew About Pharmacy Blood Pressure Reading Accuracy

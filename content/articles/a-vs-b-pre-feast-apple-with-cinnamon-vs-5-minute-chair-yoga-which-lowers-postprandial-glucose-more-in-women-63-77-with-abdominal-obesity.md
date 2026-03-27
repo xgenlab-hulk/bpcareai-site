@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
+    12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides
   - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
 ---
 
 # Apple With Cinnamon vs Chair Yoga Glucose: Which Real-World Strategy Works Better for Women 63–77 with Abdominal Obesity?

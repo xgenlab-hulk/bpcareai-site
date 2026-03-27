@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose
   - >-
+    the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
   - >-
+    the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis
   - >-
+    the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy
   - >-
+    the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk
 ---
 
 # What Seniors Need to Know About Diabetic Protein Bars and Gut Barrier Risk

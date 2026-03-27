@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
   - >-
+    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
   - >-
+    can-you-safely-skip-dessert-after-a-high-protein-holiday-dinner-without-triggering-reactive-hypoglycemia-in-adults-62-with-adrenal-insufficiency
   - >-
+    what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history
   - >-
+    10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress
 ---
 
 # 10 Gentle, Nourishing Foods to Stabilize Fasting Glucose Without Lowering — Safe Choices for Older Adults with Fall Risk and Hypoglycemia-Associated Autonomic Failure

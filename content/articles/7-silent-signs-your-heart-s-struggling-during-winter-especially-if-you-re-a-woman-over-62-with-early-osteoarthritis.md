@@ -13,6 +13,7 @@ relatedSlugs:
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
   - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
   - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
 ---
 
 # Silent Heart Disease Signs in Winter: What Women Over 60 Need to Know—Especially With Osteoarthritis

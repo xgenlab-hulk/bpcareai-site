@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
+    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
   - >-
+    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
   - >-
+    simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
   - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
 ---
 
 # Navigating Holiday Eating With Macular Degeneration: A Low-Vision Nutrition Strategy for Adults 50+

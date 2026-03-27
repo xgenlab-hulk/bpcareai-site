@@ -9,10 +9,14 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
+    warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73
   - >-
+    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # Why Candy Stocking Reactive Hypoglycemia Is a Real (But Manageable) Holiday Concern

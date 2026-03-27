@@ -11,6 +11,7 @@ relatedSlugs:
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - >-
+    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - top-5-winter-superfoods-that-naturally-lower-blood-pressure
   - blood-pressure-and-alcohol-how-much-is-too-much
 ---

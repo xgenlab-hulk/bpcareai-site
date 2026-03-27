@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension
   - >-
+    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
   - >-
+    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
   - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
+    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
 ---
 
 # How Low-Frequency Noise Ambulatory Blood Pressure Changes Over Time in Older Adults Living in Urban High-Rises

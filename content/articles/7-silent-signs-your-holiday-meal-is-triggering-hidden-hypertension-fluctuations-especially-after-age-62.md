@@ -9,10 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
   - 7-hidden-winter-habits-that-worsen-hypertension-after-60
   - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
 ---
 
 # 7 Subtle Clues Your Holiday Meal Might Be Stirring Hidden Hypertension Signs After Family Meals

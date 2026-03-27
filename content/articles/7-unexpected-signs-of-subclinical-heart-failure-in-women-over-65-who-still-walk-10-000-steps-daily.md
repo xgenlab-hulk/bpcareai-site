@@ -9,10 +9,14 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
   - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
   - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
 ---
 
 # 7 Subtle Signs of Subclinical Heart Failure in Women Over 65—Even If You’re Still Walking 10,000 Steps a Day

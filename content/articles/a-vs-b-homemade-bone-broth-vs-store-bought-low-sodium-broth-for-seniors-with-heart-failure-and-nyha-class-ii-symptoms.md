@@ -9,9 +9,13 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
   - >-
+    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
   - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
+    can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
 ---
 

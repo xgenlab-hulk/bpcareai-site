@@ -9,10 +9,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
   - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
+    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
 ---
 
 # How Polyphenol-Rich Holiday Foods Support Cognitive Health in Adults 80 and Older

@@ -9,10 +9,14 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
   - >-
+    10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - >-
+    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
 ---
 
 # Safe and Smart Diabetes Heatwave Management Elderly: A Practical Guide for Seniors 72+

@@ -12,6 +12,7 @@ relatedSlugs:
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
 ---
 

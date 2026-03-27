@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - >-
+    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
   - >-
+    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
   - >-
+    a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes
 ---
 
 # How “One-Bite” Dessert Sharing Affects Your Circadian Glucose Rhythm — Especially After Age 60

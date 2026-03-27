@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-intergenerational-gift-giving-of-homemade-treats-affects-blood-glucose-variability-in-adults-55-69-with-prediabetes-and-slow-gastric-emptying
   - >-
+    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
   - >-
+    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
+    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # How Intergenerational Cookie-Baking Influences Postprandial Glucose Patterns in Adults 52–64 With Prediabetes and Delayed Gastric Emptying

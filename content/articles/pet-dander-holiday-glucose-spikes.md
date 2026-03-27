@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-holiday-stress-triggers-that-spike-postprandial-glucose-in-adults-58-65-with-early-insulin-resistance
   - >-
+    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
   - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - >-
+    what-causes-sudden-glucose-spikes-only-during-family-photos-the-role-of-acute-social-stress-facial-muscle-tension-and-sympathetic-surges-in-adults-57-64-with-long-standing-type-2-diabetes
 ---
 
 # Why Pet Dander Holiday Glucose Spikes Happen — And What You Can Do About Them

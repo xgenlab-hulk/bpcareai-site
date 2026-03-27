@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
   - >-
+    how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt
   - >-
+    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
   - >-
+    how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
   - >-
+    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
 ---
 
 # How Airplane Cabin Pressure and Blood Pressure Interact — Gentle Strategies for Older Adults With COPD or Pulmonary Hypertension

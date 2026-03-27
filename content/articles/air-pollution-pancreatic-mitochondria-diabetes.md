@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
   - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
+    how-indoor-fireplace-smoke-alters-endothelial-nitric-oxide-synthase-activity-and-worsens-post-meal-glucose-uptake-in-adults-71-with-type-2-diabetes-and-copd
   - >-
+    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
   - >-
+    can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
 ---
 
 # How Air Pollution Damages Pancreatic Mitochondria in Adults With Diabetes—And What You Can Do About It

@@ -9,10 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
   - >-
+    why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
   - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
 ---
 
 # Morning vs Evening Walk for Prediabetes: Which Timing Best Curbs Nocturnal Glucose Spikes?

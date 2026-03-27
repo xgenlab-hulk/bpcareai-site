@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
   - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - >-
+    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
   - >-
+    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
   - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # How Holiday Isolation Worsens Vascular Cognitive Decline in Older Adults

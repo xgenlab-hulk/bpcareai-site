@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
   - >-
+    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
   - >-
+    when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
   - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
 ---
 
 # When Autoimmune Polyglandular Syndrome Diabetes Fatigue Might Be Overlooked in Adults 57–75

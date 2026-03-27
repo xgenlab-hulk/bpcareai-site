@@ -9,10 +9,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
+    dangers-of-just-one-more-cup-of-eggnog-for-adults-over-74-with-subclinical-vitamin-d-toxicity-and-how-to-spot-early-hypercalcemia-clues
   - >-
+    natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
   - >-
+    5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
   - >-
+    5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy
   - >-
+    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
 ---
 
 # Calcium-Fortified Eggnog Not Helping Bones? 5 PPI Absorption Strategies for Women 62+

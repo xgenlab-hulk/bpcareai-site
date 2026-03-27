@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
   - >-
+    how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
   - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
+    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # How Your Sleep Habits Fasting Glucose Elevation—Even If You’re Not Overweight or Diagnosed with Sleep Apnea

@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
   - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
   - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
   - >-
+    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
   - >-
+    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
 ---
 
 # Quick Ways to Normalize Heart Rate Variability After Alcohol — For Adults 56–67 With Social Drinking Habits

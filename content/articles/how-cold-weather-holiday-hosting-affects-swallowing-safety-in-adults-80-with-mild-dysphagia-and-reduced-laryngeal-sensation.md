@@ -9,10 +9,14 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - >-
+    simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
 ---
 
 # Cold-Weather Holiday Hosting and Dysphagia Safety for Seniors 80+: Practical Tips for Safer Swallowing

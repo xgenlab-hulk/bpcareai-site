@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
+    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
   - >-
+    why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction
   - >-
+    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
   - >-
+    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
 ---
 
 # Why HFpEF in Women 70+ Is So Often Misdiagnosed as Aging — And What a Simple Sitting-to-Standing Test Can Reveal

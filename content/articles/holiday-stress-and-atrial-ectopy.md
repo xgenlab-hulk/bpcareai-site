@@ -9,9 +9,12 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-gift-wrapping-increases-sympathetic-drive-in-adults-with-orthostatic-intolerance-and-why-it-s-worse-than-late-night-eating
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
   - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 

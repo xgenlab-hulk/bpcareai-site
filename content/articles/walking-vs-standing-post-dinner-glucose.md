@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
+    a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea
   - >-
+    does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
   - >-
+    a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms
   - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
 ---
 
 # Walking vs Standing Post-Dinner Glucose: Which Gentle Movement Helps Most After Holiday Meals?

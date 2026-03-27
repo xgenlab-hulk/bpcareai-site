@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
+    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
   - >-
+    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
 ---
 
 # Why Blood Pressure Readings Often Drop During Telehealth Visits in Seniors—and What It Means for Your Care  

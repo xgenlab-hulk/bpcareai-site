@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
   - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
+    myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal
   - >-
+    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
   - >-
+    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
 ---
 
 # Understanding CGM Time in Range for Frail Older Adults: A Safer, Person-Centered Approach to Diabetes Management

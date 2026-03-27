@@ -12,6 +12,7 @@ relatedSlugs:
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
 ---
 

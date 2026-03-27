@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings
   - >-
+    how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
   - >-
+    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
 ---
 
 # How Hearing Aids and Morning Blood Pressure Spikes May Interact — What Adults 73+ Should Know

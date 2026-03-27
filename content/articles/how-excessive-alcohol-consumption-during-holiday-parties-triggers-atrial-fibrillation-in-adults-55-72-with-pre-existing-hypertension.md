@@ -10,8 +10,10 @@ image: ''
 relatedSlugs:
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
 ---
 

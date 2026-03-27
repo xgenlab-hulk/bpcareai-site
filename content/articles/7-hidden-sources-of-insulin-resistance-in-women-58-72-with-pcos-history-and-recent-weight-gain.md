@@ -9,10 +9,15 @@ topicCluster: metabolic-health
 image: ''
 relatedSlugs:
   - >-
+    5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration
   - >-
+    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
   - >-
+    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
   - >-
+    7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation
   - >-
+    how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
 ---
 
 # Hidden Insulin Resistance Sources in Perimenopausal Women: What Your Blood Sugar Isn’t Telling You

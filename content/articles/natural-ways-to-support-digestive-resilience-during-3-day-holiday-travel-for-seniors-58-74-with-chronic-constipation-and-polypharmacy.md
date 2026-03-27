@@ -9,10 +9,14 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
   - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
+    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
+    natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
 ---
 
 # Gentle, Evidence-Informed Ways to Build Digestive Resilience During Holiday Travel for Seniors

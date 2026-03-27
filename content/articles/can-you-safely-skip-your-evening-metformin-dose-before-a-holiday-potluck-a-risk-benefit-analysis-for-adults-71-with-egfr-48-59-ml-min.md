@@ -9,10 +9,14 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
   - >-
+    can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
   - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
+    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
 ---
 
 # Is It Safe to Skip Metformin Before a Holiday Potluck? Understanding eGFR-Based Safety for Adults 71+  

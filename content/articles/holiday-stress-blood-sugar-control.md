@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - >-
+    7-hidden-holiday-stress-triggers-that-spike-postprandial-glucose-in-adults-58-65-with-early-insulin-resistance
   - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
   - >-
+    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
 ---
 
 # How Holiday Stress Blood Sugar Control Gets Derailed at the Dinner Table — And What You Can Do About It

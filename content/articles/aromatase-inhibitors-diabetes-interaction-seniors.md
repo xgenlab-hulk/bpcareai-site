@@ -9,9 +9,13 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss
   - >-
+    5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction
   - >-
+    5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration
   - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-dementia-practical-strategies-for-medication-adherence-meal-timing-conflicts-and-cgm-data-sharing-in-adults-66
 ---
 
 # 7 Surprising Medication Interactions That Can Disrupt Blood Sugar Control in Women Over 65 on Aromatase Inhibitors — What Your Endocrinologist and Oncologist May Not Be Discussing

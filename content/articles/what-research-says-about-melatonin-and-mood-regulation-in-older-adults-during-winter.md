@@ -13,6 +13,7 @@ relatedSlugs:
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
   - >-
+    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
 ---
 
 # What Science Says About Melatonin and Seasonal Depression Research in Older Adults

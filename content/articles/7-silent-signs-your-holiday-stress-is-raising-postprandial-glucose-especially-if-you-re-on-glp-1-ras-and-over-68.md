@@ -9,10 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - >-
+    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
   - >-
+    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
 ---
 
 # How Holiday Stress Postprandial Glucose GLP-1 RA Interactions Affect Older Adults—Gently and Understandably

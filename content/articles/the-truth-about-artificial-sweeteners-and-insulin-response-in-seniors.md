@@ -13,6 +13,7 @@ relatedSlugs:
   - best-supplements-for-blood-sugar-support-after-50
   - the-role-of-fiber-in-controlling-blood-sugar-after-50
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # Understanding Artificial Sweeteners and Insulin Response in Elderly Diabetics

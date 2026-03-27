@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
   - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
   - >-
+    what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef
   - >-
+    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
   - >-
+    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
 ---
 
 # Recognizing Early Cardiac Amyloidosis in Older Adults With Atrial Fibrillation — Even When EF Looks Normal

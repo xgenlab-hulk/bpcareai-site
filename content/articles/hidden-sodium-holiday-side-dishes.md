@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
   - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
   - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - >-
+    7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure
   - >-
+    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
 ---
 
 # Hidden Sodium Holiday Side Dishes: What Your “Healthy” Casserole Might Be Hiding — Especially After Age 72

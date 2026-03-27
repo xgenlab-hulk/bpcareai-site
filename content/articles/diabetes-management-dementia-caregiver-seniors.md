@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
   - >-
+    10-things-everyone-over-65-should-know-about-managing-diabetes-while-caring-for-a-spouse-with-dementia-medication-safety-meal-coordination-and-emergency-preparedness
   - >-
+    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-late-stage-dementia-practical-strategies-for-adults-72-with-limited-caregiver-support
   - >-
+    the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
   - >-
+    the-complete-guide-to-managing-diabetes-during-intergenerational-holiday-hosting-practical-strategies-for-adults-61-74-with-mild-cognitive-load-and-caregiver-fatigue
 ---
 
 # A Compassionate Guide to Diabetes Management for Seniors Caring for a Spouse With Dementia

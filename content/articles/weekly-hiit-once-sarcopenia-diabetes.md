@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes
   - >-
+    what-research-says-about-high-intensity-interval-training-vs-zone-2-walking-for-diastolic-bp-reduction-in-obese-adults-59-73
   - >-
+    what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
   - >-
+    does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
   - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
 ---
 
 # Can Weekly HIIT—Just Once a Week—Support Muscle, Metabolism, and Blood Sugar in Older Adults with Sarcopenia and Type 2 Diabetes?

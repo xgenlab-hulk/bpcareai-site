@@ -9,10 +9,14 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
   - >-
+    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
   - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - top-7-heart-protective-vitamins-to-take-in-winter
   - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
 ---
 
 # Your CAC Score Climbing Every Year—Even With Perfect Cholesterol?

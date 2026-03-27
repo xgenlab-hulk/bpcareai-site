@@ -9,10 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
   - >-
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
   - >-
+    warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis
   - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
+    how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
 ---
 
 # How GERD-Induced AFib in Men 70+ With Mild COPD Develops—and What You Can Do

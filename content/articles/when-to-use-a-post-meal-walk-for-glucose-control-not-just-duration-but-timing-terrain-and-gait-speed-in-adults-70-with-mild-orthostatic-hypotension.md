@@ -9,10 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
   - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 ---
 
 # Optimizing Post-Meal Walk Timing for Seniors With Orthostatic Hypotension: A Gentle, Evidence-Based Guide

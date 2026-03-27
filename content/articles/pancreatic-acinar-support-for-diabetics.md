@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
   - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
   - >-
+    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
   - >-
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
   - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # Gentle, Evidence-Informed Pancreatic Acinar Support for Diabetics Over 65

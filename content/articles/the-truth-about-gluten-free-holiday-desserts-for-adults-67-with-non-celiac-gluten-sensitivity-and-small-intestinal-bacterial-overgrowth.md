@@ -9,10 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
   - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
   - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - >-
+    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
 ---
 
 # Navigating Gluten-Free Desserts Safely: What Adults 67+ with SIBO and Non-Celiac Gluten Sensitivity Really Need to Know  

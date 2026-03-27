@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
+    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
   - >-
+    a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
   - >-
+    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
   - >-
+    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
 ---
 
 # Can You Safely Enjoy Mulled Wine After Your Evening Beta-Blocker? Understanding Safe beta-blocker mulled wine timing for Adults 59+  

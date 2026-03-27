@@ -9,10 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
   - >-
+    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
   - >-
+    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
   - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
   - >-
+    7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation
 ---
 
 # When “Well-Controlled” A1c Hides Nocturnal Hypoglycemia in Older Adults on GLP-1s  

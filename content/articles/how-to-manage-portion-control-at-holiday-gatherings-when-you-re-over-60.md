@@ -9,8 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---

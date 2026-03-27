@@ -9,6 +9,7 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
   - is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - managing-diabetes-while-traveling-tips-for-seniors

@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
   - >-
+    a-vs-b-cold-pressed-flaxseed-oil-refrigerated-30-days-old-vs-ground-flaxseed-pre-soaked-12-hours-impact-on-postprandial-triglyceride-spikes-in-adults-62-78-with-diabetic-dyslipidemia
   - >-
+    myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
   - >-
+    how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome
   - >-
+    a-vs-b-slow-cooked-herb-roasted-chicken-breast-skinless-no-broth-vs-holiday-style-chicken-pot-pie-frozen-pre-portioned-impact-on-4-hour-postprandial-triglyceride-clearance-in-adults-60-72-with-hypertriglyceridemia
 ---
 
 # Fruitcake vs Almond-Flour Loaf for Diabetes: What Your Holiday Treat Says About Post-Meal Fat Clearance

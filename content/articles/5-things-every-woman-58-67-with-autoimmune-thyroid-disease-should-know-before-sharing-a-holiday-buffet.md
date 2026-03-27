@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-gluten-free-holiday-stuffing-for-adults-66-with-celiac-disease-and-latent-autoimmune-thyroiditis
   - >-
+    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
   - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
+    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
   - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
 ---
 
 # Holiday Buffets Triggering Thyroid Symptoms? 5 Food Safety Strategies for Women 58-67 with Hashimoto's

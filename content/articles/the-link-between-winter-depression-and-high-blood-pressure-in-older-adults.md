@@ -12,6 +12,7 @@ relatedSlugs:
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
   - how-winter-depression-affects-heart-health-in-retired-adults
   - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
   - how-does-cold-weather-affect-blood-pressure-in-older-adults
 ---
 

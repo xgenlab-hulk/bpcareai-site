@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - >-
+    can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
   - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
   - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
 ---
 
 # 10 Flavor-Full, Heart-Smart Swaps to Reduce Sodium in Holiday Side Dishes for Seniors

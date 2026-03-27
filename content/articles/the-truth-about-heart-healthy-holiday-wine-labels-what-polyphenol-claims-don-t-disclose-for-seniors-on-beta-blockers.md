@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
   - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50

@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100
   - >-
+    what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
   - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
   - >-
+    top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
   - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
 ---
 
 # Aspirin vs Colchicine for Secondary Prevention: What’s Right After a Heart Attack?

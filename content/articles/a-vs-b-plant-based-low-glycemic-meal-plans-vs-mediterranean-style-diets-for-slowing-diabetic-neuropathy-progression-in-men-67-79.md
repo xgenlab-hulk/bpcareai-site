@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
   - >-
+    10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data
   - >-
+    5-things-everyone-with-type-1-diabetes-over-60-should-know-before-starting-a-plant-based-diet-especially-with-concurrent-gastroparesis-or-hypothyroidism
   - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
   - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
 ---
 
 # Plant-Based vs Mediterranean Diet for Diabetic Neuropathy: Which Supports Nerve Health Best in Men 67–79?

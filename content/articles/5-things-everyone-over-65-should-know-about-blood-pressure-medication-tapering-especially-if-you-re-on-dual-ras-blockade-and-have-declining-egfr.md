@@ -9,10 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
   - >-
+    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
   - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
   - >-
+    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
 ---
 
 # Is Tapering Blood Pressure Meds Safe After 65 With Declining Kidney Function? (Dual RAS Deprescribing Guide)

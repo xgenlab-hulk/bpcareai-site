@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
+    how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
   - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
   - >-
+    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
   - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
 ---
 
 # How Champagne Affects Diastolic Blood Pressure in Seniors with Isolated Systolic Hypertension

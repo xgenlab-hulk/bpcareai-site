@@ -9,10 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide
   - >-
+    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
   - >-
+    can-intermittent-fasting-reverse-prediabetes-in-adults-50-59-with-non-alcoholic-fatty-liver-disease-what-the-2024-rcts-say
 ---
 
 # Intermittent Fasting Beta-Cell Regeneration in Adults 54–68 With New-Onset Type 2 Diabetes: What the First 12 Weeks Reveal

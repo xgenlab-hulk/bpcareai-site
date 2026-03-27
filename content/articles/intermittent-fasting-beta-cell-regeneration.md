@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
   - >-
+    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
   - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
 ---
 
 # Intermittent Fasting Beta-Cell Regeneration in Adults 55–67 with Early Type 2 Diabetes

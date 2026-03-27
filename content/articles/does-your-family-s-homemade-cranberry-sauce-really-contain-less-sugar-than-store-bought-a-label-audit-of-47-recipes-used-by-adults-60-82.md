@@ -9,9 +9,13 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
   - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - >-
+    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
   - >-
+    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
 ---
 
 # Does Homemade Cranberry Sauce Really Have Less Sugar? A Closer Look at 47 Real Recipes Used by Adults 60–82

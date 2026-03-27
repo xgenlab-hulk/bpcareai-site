@@ -12,6 +12,7 @@ relatedSlugs:
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - can-cold-weather-raise-your-blood-pressure
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
 ---
 

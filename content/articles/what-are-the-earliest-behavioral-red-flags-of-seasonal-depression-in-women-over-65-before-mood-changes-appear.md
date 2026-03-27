@@ -11,7 +11,9 @@ relatedSlugs:
   - 10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
   - why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
   - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - >-
+    why-sad-screening-tools-like-the-phq-9-often-miss-seasonal-depression-in-women-over-65-and-what-to-use-instead
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
 ---
 

@@ -9,9 +9,12 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
   - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure
   - >-
+    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
 ---
 

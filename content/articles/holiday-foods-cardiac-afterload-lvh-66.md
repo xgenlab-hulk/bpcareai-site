@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - >-
+    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
+    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
 ---
 
 # Holiday Foods and Cardiac Afterload — What Adults 66+ With Mild LVH Need to Know

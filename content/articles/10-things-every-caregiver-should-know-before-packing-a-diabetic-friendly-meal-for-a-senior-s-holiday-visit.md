@@ -11,8 +11,10 @@ relatedSlugs:
   - managing-diabetes-while-traveling-tips-for-seniors
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
 ---
 
 # What Every Caregiver Needs to Know About Diabetic-Friendly Meal Packing for Seniors During the Holidays  

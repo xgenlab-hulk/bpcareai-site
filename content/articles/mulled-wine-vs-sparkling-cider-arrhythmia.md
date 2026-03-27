@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
   - >-
+    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
   - >-
+    10-things-you-should-know-about-alcohol-free-mulled-wine-for-blood-sugar-control-including-tannin-content-spice-synergy-and-serving-temperature-effects
   - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
   - >-
+    a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
 ---
 
 # Mulled Wine vs Sparkling Cider Arrhythmia: What Holiday Drinks Mean for Heart Rhythm Stability in Adults 64–76 with IBS and Atrial Fibrillation

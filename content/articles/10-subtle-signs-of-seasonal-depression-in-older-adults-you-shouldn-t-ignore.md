@@ -10,6 +10,7 @@ image: ''
 relatedSlugs:
   - the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home
   - >-
+    is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
   - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties

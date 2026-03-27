@@ -9,10 +9,15 @@ topicCluster: treatment-interventions
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
   - >-
+    best-hydration-strategies-for-blood-pressure-stability-during-winter-not-just-drink-more-water-for-adults-76-with-reduced-thirst-perception-and-chronic-constipation
   - >-
+    best-hydration-patterns-for-glucose-homeostasis-during-holiday-parties-not-just-drink-more-water-for-adults-69-with-polypharmacy-and-reduced-thirst-perception
   - >-
+    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
   - >-
+    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
 ---
 
 # Warm Baths & SGLT2 Inhibitors Safety: A Gentle Guide for Adults 63+ With Mild Orthostasis

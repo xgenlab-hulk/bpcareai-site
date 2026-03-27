@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
   - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
+    the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension
   - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
   - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 ---
 
 # What You Should Know About Low-Sodium Soup Potassium Excipients — Especially During the Holidays

@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd
   - >-
+    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
   - >-
+    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
   - >-
+    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
   - >-
+    how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
 ---
 
 # Environmental Triggers That Disrupt Nighttime Heart Rate Variability in Older Adults With Mild COPD

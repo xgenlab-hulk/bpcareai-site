@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-bp-medication-is-causing-subclinical-cerebral-hypoperfusion-even-if-your-numbers-look-good-on-abpm
   - >-
+    warning-signs-of-cerebral-autoregulation-failure-masquerading-as-just-stress-in-adults-58-70-with-migraine-with-aura-and-labile-bp
   - >-
+    5-things-everyone-over-65-should-know-about-blood-pressure-medication-tapering-especially-if-you-re-on-dual-ras-blockade-and-have-declining-egfr
   - >-
+    quick-ways-to-stabilize-post-meal-blood-flow-to-the-brain-in-adults-64-with-carotid-stenosis-50-and-orthostatic-dizziness
   - >-
+    why-your-blood-pressure-reading-drops-after-a-10-minute-cold-shower-and-when-that-s-actually-dangerous-for-adults-68
 ---
 
 # Why You Might Feel Lightheaded While Reading Prescription Labels — And What That Blood Pressure Dip Reading Means for Adults 50+

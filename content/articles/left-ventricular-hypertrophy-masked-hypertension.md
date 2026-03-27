@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
   - >-
+    when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
   - >-
+    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
   - >-
+    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
   - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
 ---
 
 # When “Normal” Blood Pressure Readings Hide Heart Changes: Understanding Left Ventricular Hypertrophy Masked Hypertension in Older Adults

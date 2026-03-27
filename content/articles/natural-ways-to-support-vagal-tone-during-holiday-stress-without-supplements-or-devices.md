@@ -12,6 +12,7 @@ relatedSlugs:
   - natural-ways-to-support-blood-sugar-balance-during-holiday-stress
   - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
   - >-
+    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
   - natural-ways-to-lower-blood-pressure-this-winter-without-medication
 ---
 

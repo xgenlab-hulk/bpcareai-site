@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - >-
+    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
   - >-
+    the-complete-guide-to-managing-diabetes-during-intergenerational-holiday-hosting-practical-strategies-for-adults-61-74-with-mild-cognitive-load-and-caregiver-fatigue
   - >-
+    the-complete-guide-to-managing-diabetes-during-a-heatwave-for-adults-70-with-diabetic-nephropathy-and-reduced-thirst-drive
   - >-
+    5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
 ---
 
 # Staying Safe and Steady: Practical Diabetes Management During Winter Power Outages for Older Adults in Rural Communities

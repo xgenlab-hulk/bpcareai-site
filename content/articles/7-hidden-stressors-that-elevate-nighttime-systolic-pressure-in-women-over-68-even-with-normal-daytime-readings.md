@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
   - >-
+    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
   - >-
+    5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know
   - >-
+    12-things-every-woman-over-72-should-know-about-nocturnal-hypertension-especially-after-bilateral-oophorectomy-and-long-term-aromatase-inhibitor-use
   - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
 ---
 
 # What’s Really Behind Rising Nighttime Systolic Pressure in Women Over 68?

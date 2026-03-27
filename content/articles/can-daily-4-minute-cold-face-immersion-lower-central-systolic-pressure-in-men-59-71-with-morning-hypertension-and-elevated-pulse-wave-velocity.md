@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
   - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
   - >-
+    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
   - >-
+    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
   - >-
+    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
 ---
 
 # Can a 4-Minute Cold Face Dip Help Lower Central Systolic Pressure in Men with Morning Hypertension?

@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
   - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
+    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
   - >-
+    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
 ---
 
 # Why “Normal” Fasting Glucose Can Be Misleading in Adults With Diabetes and CKD Stage 3a

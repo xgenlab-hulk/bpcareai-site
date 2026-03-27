@@ -9,10 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld
   - >-
+    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
   - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
+    myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
   - >-
+    the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms
 ---
 
 # What “Low-Sugar” Pumpkin Pie Fillings *Really* Do to Your Liver — Especially If You’re 70+ and Managing NAFLD

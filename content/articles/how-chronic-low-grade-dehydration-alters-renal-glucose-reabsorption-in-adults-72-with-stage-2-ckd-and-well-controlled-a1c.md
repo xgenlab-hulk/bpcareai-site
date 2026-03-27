@@ -9,10 +9,14 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
   - >-
+    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-mediated-glucose-reabsorption-and-accelerates-egfr-decline-in-adults-70-with-stage-3-ckd-and-diabetes
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
+    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
   - >-
+    what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
 ---
 
 # How Subclinical Dehydration Affects Glucose Handling in Older Adults With Stage 2 CKD — Even With Stable Blood Sugar

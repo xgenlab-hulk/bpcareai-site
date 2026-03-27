@@ -9,9 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-resume-resistance-training-after-aortic-valve-replacement-evidence-based-thresholds-for-systolic-pressure-response-and-lvot-velocity-in-adults-67-with-mechanical-valves
   - >-
+    can-bright-light-therapy-be-safely-used-with-age-related-macular-degeneration-a-risk-benefit-framework-for-adults-75
   - >-
+    best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
   - >-
+    simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
 ---
 
 # Safe Weight Training After Retinal Laser Treatment for Seniors: Evidence-Based Guidance for Adults 62+ With Diabetic Eye Disease

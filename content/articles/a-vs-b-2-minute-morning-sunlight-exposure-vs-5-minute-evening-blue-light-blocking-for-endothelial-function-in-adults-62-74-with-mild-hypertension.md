@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
   - >-
+    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
+    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
   - >-
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
 ---
 
 # Morning Sunlight vs Blue Light Blocking for Endothelial Function: What Matters Most for Heart Health After 60

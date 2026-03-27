@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
+    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
   - >-
+    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
+    5-natural-potassium-rich-foods-that-don-t-interact-with-spironolactone-safe-for-adults-60-82-with-resistant-hypertension
   - >-
+    dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd
 ---
 
 # Sweet Potato vs Yam CKDDiet: Which Is Gentler on Blood Sugar and Kidneys for Adults With Early-Stage CKD?

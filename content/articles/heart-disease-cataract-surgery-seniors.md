@@ -9,10 +9,14 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma
   - >-
+    the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
   - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
   - >-
+    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
 ---
 
 # Managing Heart Disease During Cataract Surgery Recovery: A Gentle, Practical Guide for Seniors 73+

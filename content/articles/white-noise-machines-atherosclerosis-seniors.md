@@ -9,10 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
+    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
   - >-
+    warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines
   - >-
+    how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways
   - >-
+    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
 ---
 
 # How White Noise Machines May Affect Heart Health in Older Adults — What Seniors and Caregivers Should Know

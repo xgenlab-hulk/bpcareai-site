@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
   - >-
+    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
   - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
 ---
 
 # 7 Subtle Signs Your Holiday Meal Might Be Triggering Silent Reflux — Especially If You’re 65+ and on Calcium Channel Blockers  

@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
   - >-
+    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
   - >-
+    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
   - >-
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
+    12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv
 ---
 
 # How Hearing Aids, Baroreflex Sensitivity, and Diastolic Dysfunction Are Connected in Older Adults

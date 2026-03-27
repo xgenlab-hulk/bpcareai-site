@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - does-caffeine-raise-blood-pressure-after-age-60
   - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
   - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
 ---
 
 # Why Your Morning Blood Pressure Spike Coffee Happens—And What It Means After 60

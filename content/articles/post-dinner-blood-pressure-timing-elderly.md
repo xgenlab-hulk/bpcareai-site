@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-times-of-day-to-take-your-blood-pressure-based-on-circadian-endothelial-no-synthase-rhythms
   - >-
+    how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
   - >-
+    a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension
   - >-
+    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
   - >-
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
 ---
 
 # Optimal post-dinner-blood-pressure-timing-elderly: 12 Science-Backed Moments to Measure for Better Brain & Heart Health

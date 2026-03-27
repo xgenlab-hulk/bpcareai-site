@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia
   - >-
+    natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
   - >-
+    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
   - >-
+    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
   - >-
+    best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
 ---
 
 # Feeling Full But Uncomfortable? Gentle Foods That Satisfy Without Gallbladder Strain (Seniors 73+)

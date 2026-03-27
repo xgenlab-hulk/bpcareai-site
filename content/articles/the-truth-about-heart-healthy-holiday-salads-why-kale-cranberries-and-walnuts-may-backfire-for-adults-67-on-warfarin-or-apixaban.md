@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
+    can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
   - >-
+    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
   - >-
+    5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
   - >-
+    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
 ---
 
 # The Real Story Behind Holiday Salad Warfarin Interaction Truth — What Your Kale, Cranberries, and Walnuts *Really* Do on Blood Thinners

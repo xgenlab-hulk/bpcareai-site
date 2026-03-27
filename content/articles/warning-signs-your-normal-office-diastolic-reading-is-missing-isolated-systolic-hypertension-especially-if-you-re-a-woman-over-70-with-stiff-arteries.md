@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
+    what-are-the-earliest-signs-of-arterial-stiffness-in-women-54-67-before-bp-readings-cross-130-80
   - >-
+    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
   - >-
+    5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
   - >-
+    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
 ---
 
 # Is Your “Normal” Blood Pressure Hiding Missed Isolated Systolic Hypertension in Women Over 70?

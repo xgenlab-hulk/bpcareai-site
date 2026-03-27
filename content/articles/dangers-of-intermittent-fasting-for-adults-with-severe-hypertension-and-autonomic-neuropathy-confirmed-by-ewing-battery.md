@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
   - >-
+    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
+    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
   - >-
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
+    myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction
 ---
 
 # Why Intermittent Fasting Autonomic Neuropathy Severe Hypertension Requires Extra Caution

@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
 ---
 
 # How Holiday Lighting Glucose Uptake in Seniors Is Affected — And Simple, Soothing Dinner Strategies to Support Your Rhythm

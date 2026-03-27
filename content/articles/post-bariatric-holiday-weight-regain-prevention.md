@@ -9,10 +9,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
+    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
   - >-
+    natural-ways-to-support-glycemic-resilience-during-holiday-social-events-without-supplements-or-diet-pills-for-adults-55-64-newly-diagnosed-with-type-2-diabetes
   - >-
+    how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64
 ---
 
 # Science-Backed Strategies for Post-Bariatric Holiday Weight Regain Prevention in Adults 58–65

@@ -9,9 +9,11 @@ topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - how-social-isolation-increases-heart-disease-risk-after-60
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - >-
+    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
 ---
 

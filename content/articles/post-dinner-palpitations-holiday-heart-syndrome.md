@@ -11,7 +11,9 @@ relatedSlugs:
   - when-to-worry-about-palpitations-after-christmas-dinner
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
+    warning-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-amyloidosis-especially-if-you-re-over-75-and-have-carpal-tunnel-or-lumbar-spinal-stenosis
   - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
   - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 ---
 

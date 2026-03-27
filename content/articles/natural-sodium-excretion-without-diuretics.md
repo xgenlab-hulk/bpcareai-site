@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate
   - >-
+    quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
   - >-
+    natural-remedies-for-high-blood-pressure-in-adults-with-chronic-kidney-disease-stage-3-focusing-on-uremic-toxin-clearance-klotho-enhancement-and-gut-microbiome-derived-tmao-modulation
   - >-
+    natural-ways-to-support-cardiac-sodium-potassium-pump-resilience-without-increasing-dietary-potassium-using-targeted-magnesium-l-threonate-cold-air-nasal-breathing-in-adults-66-with-diuretic-induced-hypokalemia
   - >-
+    myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
 ---
 
 # Supporting Natural Sodium Excretion Without Diuretics in Older Adults: A Gentle, Evidence-Informed Approach

@@ -9,10 +9,12 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - >-
+    5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
 ---
 
 # Recognizing Holiday-Related Hyperammonemia in Older Adults with Cirrhosis or Portosystemic Shunts — A Gentle Guide for Caregivers and Families

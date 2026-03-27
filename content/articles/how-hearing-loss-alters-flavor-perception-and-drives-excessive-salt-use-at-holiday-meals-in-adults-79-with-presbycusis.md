@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps
   - >-
+    how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension
   - >-
+    how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression
   - >-
+    what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68
   - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
 ---
 
 # How Hearing Loss, Salt Use, and Holiday Meals Interact in Older Adults—And What You Can Do

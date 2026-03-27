@@ -9,10 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
   - >-
+    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
   - >-
+    how-chronic-low-dose-corticosteroid-use-e-g-inhaled-budesonide-alters-hepatic-gluconeogenic-enzyme-expression-in-adults-65-81-with-type-2-diabetes-and-asthma
   - >-
+    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
   - >-
+    how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
 ---
 
 # How LDN May Support Immune Balance in Adults with Type 1 Diabetes and Hashimoto’s

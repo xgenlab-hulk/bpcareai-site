@@ -9,9 +9,12 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-
+    7-hidden-stressors-in-holiday-gift-wrapping-that-elevate-sympathetic-tone-and-why-that-triggers-atrial-ectopy-in-adults-62-with-early-autonomic-imbalance
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 

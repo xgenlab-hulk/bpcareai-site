@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
   - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
   - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
   - >-
+    what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
   - >-
+    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
 ---
 
 # When “Good” Blood Pressure Numbers Might Hide a Quiet Brain Flow Issue — Understanding bp medication cerebral hypoperfusion

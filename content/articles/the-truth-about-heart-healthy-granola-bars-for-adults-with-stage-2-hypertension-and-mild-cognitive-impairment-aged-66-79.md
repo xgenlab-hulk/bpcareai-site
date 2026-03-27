@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia
   - >-
+    the-truth-about-gluten-free-holiday-cookies-why-many-still-sabotage-blood-pressure-in-seniors-with-hypertension
   - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
   - >-
+    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - >-
+    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
 ---
 
 # What Really Makes a Granola Bar “Heart Healthy” for Adults With Hypertension and Mild Cognitive Impairment?

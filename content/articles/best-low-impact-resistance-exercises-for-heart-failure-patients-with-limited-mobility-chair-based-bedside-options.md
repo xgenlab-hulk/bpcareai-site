@@ -9,6 +9,7 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - best-low-impact-exercises-for-managing-diabetes-after-60
   - how-strength-training-protects-your-heart-as-you-age
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70

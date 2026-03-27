@@ -12,6 +12,7 @@ relatedSlugs:
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 

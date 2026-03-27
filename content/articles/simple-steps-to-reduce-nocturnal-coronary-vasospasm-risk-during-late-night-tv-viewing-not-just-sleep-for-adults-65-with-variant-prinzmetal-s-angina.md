@@ -9,10 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
   - >-
+    how-chronic-nighttime-ambient-light-exposure-from-smart-nightlights-disrupts-melatonin-mediated-no-synthase-activity-and-elevates-nocturnal-sbp-in-adults-60-with-sleep-onset-insomnia
   - >-
+    how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history
   - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
+    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
 ---
 
 # Simple Ways to Lower Your Risk of Nocturnal Coronary Vasospasm During Late-Night TV Viewing — Especially After Age 65

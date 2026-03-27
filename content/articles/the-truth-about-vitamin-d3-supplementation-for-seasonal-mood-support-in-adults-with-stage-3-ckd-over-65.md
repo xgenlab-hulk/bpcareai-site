@@ -10,9 +10,11 @@ image: ''
 relatedSlugs:
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter
   - >-
+    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - >-
+    the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
 ---
 
 # Vitamin D3 for Seasonal Depression with Kidney Disease: What Adults Over 65 With Stage 3 CKD Really Need to Know

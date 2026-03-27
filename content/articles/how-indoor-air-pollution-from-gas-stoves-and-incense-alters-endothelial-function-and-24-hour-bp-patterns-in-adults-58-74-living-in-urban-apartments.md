@@ -9,10 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
   - >-
+    does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
   - >-
+    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
   - how-indoor-air-quality-affects-heart-health-in-winter
   - >-
+    12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents
 ---
 
 # How Indoor Air Pollution Affects Blood Pressure Patterns in Urban Seniors Aged 58–74

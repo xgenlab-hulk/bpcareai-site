@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal
   - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
   - >-
+    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
   - >-
+    myths-vs-facts-my-glucose-is-fine-because-my-fasting-number-is-normal-why-this-misses-postprandial-hyperglycemia-oxidative-stress-and-endothelial-dysfunction
   - >-
+    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
 ---
 
 # Why a Hot Bath Affects Glucose Monitor Accuracy — And How to Get Reliable Readings After Age 67

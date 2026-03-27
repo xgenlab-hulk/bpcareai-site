@@ -12,7 +12,9 @@ relatedSlugs:
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - blood-pressure-and-kidney-health-what-seniors-need-to-know
   - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
   - >-
+    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
 ---
 
 # What Everyone Over 55 With White Coat Hypertension Should Know About Their 10-Year Kidney Risk

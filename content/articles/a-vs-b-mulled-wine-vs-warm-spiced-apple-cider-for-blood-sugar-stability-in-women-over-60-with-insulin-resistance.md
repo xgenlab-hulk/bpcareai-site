@@ -10,9 +10,12 @@ image: ''
 relatedSlugs:
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - >-
+    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
   - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
   - >-
+    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
   - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
 ---
 
 # Mulled Wine vs Apple Cider Diabetes: What’s Gentler on Blood Sugar for Women Over 60?

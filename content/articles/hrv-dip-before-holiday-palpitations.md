@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - >-
+    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - >-
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
   - >-
+    best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
 ---
 
 # Spotting the HRV Dip Before Holiday Palpitations — A Quiet Early Warning for Adults 55–60

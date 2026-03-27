@@ -9,9 +9,11 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
   - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 

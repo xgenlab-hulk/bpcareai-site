@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension
   - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
   - >-
+    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
   - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
 ---
 
 # What You Should Know About the Senior-Labeled-Canned-Soup-Sodium-Trap — And How to Navigate It With Confidence

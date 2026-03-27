@@ -9,7 +9,9 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    does-holiday-weight-gain-in-adults-with-obesity-class-ii-predict-90-day-atrial-fibrillation-recurrence-a-2024-retrospective-analysis
   - >-
+    myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
   - when-to-worry-about-weight-gain-after-a-family-gathering
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart

@@ -9,10 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
   - >-
+    how-holiday-travel-disrupts-continuous-glucose-monitor-calibration-and-what-to-do-at-35-000-feet-or-in-a-rental-car
   - >-
+    best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
   - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
   - >-
+    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
 ---
 
 # Why CGM Accuracy Drops During Holiday Travel — What Adults 66+ Need to Know

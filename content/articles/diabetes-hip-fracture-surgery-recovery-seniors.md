@@ -10,8 +10,11 @@ image: ''
 relatedSlugs:
   - managing-diabetes-while-traveling-tips-for-seniors
   - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
+    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
   - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 

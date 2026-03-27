@@ -9,10 +9,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
   - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
   - >-
+    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
 ---
 
 # How Do You Prevent Dangerous Blood Sugar Swings During Holiday Meals for Diabetics 76+ with Nerve Damage?

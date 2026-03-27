@@ -9,10 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
   - >-
+    best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
   - >-
+    best-foot-protective-sock-materials-for-men-74-with-diabetic-neuropathy-edema-and-stage-2-venous-insufficiency
   - >-
+    best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception
   - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
 ---
 
 # Do Diabetic Shoes Really Prevent Ulcers in Older Adults With Early Charcot Foot? Evidence-Based Insights

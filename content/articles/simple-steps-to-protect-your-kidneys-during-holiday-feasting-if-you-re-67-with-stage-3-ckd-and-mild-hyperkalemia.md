@@ -9,10 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
+    what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
   - >-
+    can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
   - >-
+    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
 ---
 
 # Kidney Protection During Holiday Feasting: A Gentle Guide for Adults 67+ with Stage 3 CKD and Mild Hyperkalemia

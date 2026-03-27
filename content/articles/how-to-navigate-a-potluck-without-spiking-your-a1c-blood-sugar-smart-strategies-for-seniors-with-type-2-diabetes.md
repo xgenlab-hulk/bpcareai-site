@@ -13,6 +13,7 @@ relatedSlugs:
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - managing-diabetes-while-traveling-tips-for-seniors
   - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
 ---
 
 # Smart Strategies to Manage Blood Sugar at Potlucks Seniors Can Actually Enjoy

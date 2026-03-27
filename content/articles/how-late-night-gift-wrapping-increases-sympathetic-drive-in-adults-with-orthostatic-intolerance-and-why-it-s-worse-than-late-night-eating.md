@@ -9,9 +9,13 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
   - >-
+    natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 

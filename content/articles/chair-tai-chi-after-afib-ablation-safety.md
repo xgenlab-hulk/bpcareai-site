@@ -9,10 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    can-you-safely-resume-resistance-training-after-aortic-valve-replacement-evidence-based-thresholds-for-systolic-pressure-response-and-lvot-velocity-in-adults-67-with-mechanical-valves
   - >-
+    12-science-backed-ways-to-reduce-left-atrial-stiffness-within-6-weeks-for-adults-61-76-with-paroxysmal-afib-and-elevated-la-strain-index
   - >-
+    can-you-safely-resume-gardening-after-an-icd-implant-a-safety-first-guide-for-adults-73-with-reduced-ejection-fraction
   - >-
+    quick-ways-to-normalize-left-atrial-appendage-flow-velocity-using-diaphragmatic-breathing-and-postural-sequencing-especially-in-adults-65-with-cha-ds-vasc-3
   - >-
+    what-research-says-about-daily-12-minute-guided-imagery-sessions-and-left-atrial-volume-regression-in-adults-60-74-with-persistent-afib-and-hypertension
 ---
 
 # Chair Tai Chi After Atrial Fibrillation Ablation: What’s Safe, What’s Not — Evidence-Based Guidance for Adults 61+

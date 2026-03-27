@@ -9,10 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-daily-12-minute-seated-resistance-band-routine-vs-25-minute-brisk-walking-impact-on-pulse-wave-velocity-in-adults-65-with-arterial-stiffness
   - >-
+    a-vs-b-daily-12-minute-tai-chi-flow-vs-supervised-treadmill-walking-impact-on-myocardial-perfusion-reserve-index-in-adults-67-with-microvascular-angina-and-normal-coronary-angiograms
   - >-
+    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
   - >-
+    does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
   - >-
+    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
 ---
 
 # Resistance Band vs Walking for Coronary Flow: What’s Best for Heart Health After 63?

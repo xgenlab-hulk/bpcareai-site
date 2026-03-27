@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
   - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
+    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
 ---
 
 # Why Some Older Adults Experience a Post-Exercise Blood Sugar Spike — And What It Really Means

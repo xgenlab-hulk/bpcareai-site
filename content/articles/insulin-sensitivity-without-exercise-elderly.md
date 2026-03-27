@@ -9,10 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
+    quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
 ---
 
 # Natural Ways to Boost Insulin Sensitivity Without Exercise in Older Adults

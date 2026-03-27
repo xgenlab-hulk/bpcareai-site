@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
+    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
   - >-
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
   - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # Spotting Early Pulmonary Hypertension in Seniors With COPD—Before the Heart Shows Signs

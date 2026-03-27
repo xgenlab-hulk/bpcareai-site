@@ -9,10 +9,14 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - >-
+    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - >-
+    dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
   - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
 ---
 
 # Recognizing the Silent Signs Autonomic Neuropathy Older Adults May Overlook — Especially With Long-Standing Diabetes

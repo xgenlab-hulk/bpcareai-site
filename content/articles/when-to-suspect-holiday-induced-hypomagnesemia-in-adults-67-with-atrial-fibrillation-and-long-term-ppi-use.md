@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
+    does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
   - >-
+    warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
   - >-
+    5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
   - >-
+    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
 ---
 
 # Recognizing Holiday-Induced Hypomagnesemia in Seniors with Atrial Fibrillation and Long-Term PPI Use

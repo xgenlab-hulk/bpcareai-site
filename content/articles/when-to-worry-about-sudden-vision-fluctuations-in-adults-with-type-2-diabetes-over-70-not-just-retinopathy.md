@@ -10,8 +10,11 @@ image: ''
 relatedSlugs:
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - >-
+    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - >-
+    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
   - >-
+    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - how-vision-changes-might-be-linked-to-heart-disease
 ---
 

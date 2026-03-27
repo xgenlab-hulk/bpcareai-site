@@ -9,9 +9,13 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
   - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
   - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 

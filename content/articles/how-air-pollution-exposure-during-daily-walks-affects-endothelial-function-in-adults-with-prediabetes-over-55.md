@@ -11,8 +11,11 @@ relatedSlugs:
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
   - how-air-pollution-impacts-heart-health-in-older-adults
   - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - >-
+    does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
   - >-
+    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
 ---
 
 # How Daily Air Pollution Exposure Impacts Endothelial Function in Adults With Prediabetes Over 55

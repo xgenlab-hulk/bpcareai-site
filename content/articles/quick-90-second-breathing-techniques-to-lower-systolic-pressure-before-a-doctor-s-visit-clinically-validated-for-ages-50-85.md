@@ -9,9 +9,11 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
   - can-deep-breathing-exercises-reduce-high-blood-pressure
   - natural-ways-to-lower-blood-pressure-this-winter-without-medication
   - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - can-deep-breathing-exercises-lower-heart-disease-risk
 ---
 

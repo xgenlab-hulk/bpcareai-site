@@ -12,6 +12,7 @@ relatedSlugs:
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - >-
+    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---
 

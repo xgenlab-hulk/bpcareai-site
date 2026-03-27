@@ -9,6 +9,7 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - 7-smart-swaps-for-healthier-holiday-meals-after-65

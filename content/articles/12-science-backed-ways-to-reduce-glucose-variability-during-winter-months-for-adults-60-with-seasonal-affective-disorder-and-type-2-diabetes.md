@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
   - >-
+    how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
   - >-
+    12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
   - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
+    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
 ---
 
 # Blood Sugar Swings Worse in Winter? What Adults 60+ With Diabetes Need to Know

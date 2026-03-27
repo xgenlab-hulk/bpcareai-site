@@ -12,6 +12,7 @@ relatedSlugs:
   - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
   - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
 ---
 

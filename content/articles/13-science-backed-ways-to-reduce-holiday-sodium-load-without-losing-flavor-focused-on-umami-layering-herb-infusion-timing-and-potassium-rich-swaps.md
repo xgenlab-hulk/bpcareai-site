@@ -9,10 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - >-
+    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
   - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
   - >-
+    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 ---
 
 # Does Holiday Food Really Need to Taste Bland Without Salt—Or Are There Flavor Tricks You're Missing?

@@ -9,9 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
   - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
+    7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
   - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
 ---
 

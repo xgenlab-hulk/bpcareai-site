@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
+    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
   - >-
+    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
 ---
 
 # Recognizing Pheochromocytoma Hypertension Fluctuations Episodic Palpitations in Adults 58–74

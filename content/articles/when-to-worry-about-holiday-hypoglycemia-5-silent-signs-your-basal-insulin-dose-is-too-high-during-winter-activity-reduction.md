@@ -9,10 +9,13 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - >-
+    dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70
   - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # Holiday Hypoglycemia Warning Signs in Seniors: What to Watch For When Activity Drops

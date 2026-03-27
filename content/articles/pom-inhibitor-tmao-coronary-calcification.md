@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-long-term-proton-pump-inhibitor-use-elevates-risk-of-subclinical-atherosclerosis-in-adults-59-71-with-gerd-and-low-hdl-c-independent-of-magnesium-levels
   - >-
+    how-long-term-ppi-use-alters-gut-microbiome-derived-tmao-production-and-its-link-to-plaque-instability-in-adults-67-with-stable-cad
   - >-
+    how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
   - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
+    how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
 ---
 
 # How Long-Term PPI Use May Raise TMAO and Speed Up Coronary Calcification in Older Adults With Heart Disease

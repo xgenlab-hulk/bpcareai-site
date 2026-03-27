@@ -9,10 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
+    the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function
   - >-
+    when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
   - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
+    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
 ---
 
 # When a Normal Pulse Oximeter Reading Doesn’t Rule Out Pulmonary Hypertension in Older Adults

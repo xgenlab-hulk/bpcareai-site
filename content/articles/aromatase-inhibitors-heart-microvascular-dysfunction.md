@@ -9,10 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
   - >-
+    how-chronic-low-dose-corticosteroid-use-for-rheumatoid-arthritis-accelerates-coronary-endothelial-senescence-in-adults-55-69-with-normal-ldl
   - >-
+    7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
   - >-
+    natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad
   - >-
+    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
 ---
 
 # What Women Over 65 with Early-Stage Breast Cancer Should Know About Aromatase Inhibitors, Heart Health, and Microvascular Dysfunction

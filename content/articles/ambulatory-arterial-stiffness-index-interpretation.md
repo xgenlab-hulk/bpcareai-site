@@ -9,10 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
   - >-
+    the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
   - >-
+    simple-steps-to-reduce-aortic-pulse-wave-velocity-using-only-a-blood-pressure-cuff-a-smartphone-mic-and-your-evening-walk-for-adults-65-with-isolated-systolic-hypertension
   - >-
+    the-complete-guide-to-interpreting-bp-variability-metrics-sd-cv-arv-from-your-ambulatory-monitor-especially-if-you-re-66-with-white-coat-effect-and-cognitive-concerns
   - >-
+    what-are-the-earliest-signs-of-arterial-stiffness-before-bp-rises-especially-in-women-over-63-with-a-history-of-preeclampsia-and-now-on-aromatase-inhibitors
 ---
 
 # Understanding Ambulatory Arterial Stiffness Index Interpretation: What Your Home BP Monitor May Be Telling You About Small-Vessel Health

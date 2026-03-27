@@ -9,8 +9,11 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
   - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
   - >-
+    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---

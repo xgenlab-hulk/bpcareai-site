@@ -11,6 +11,7 @@ relatedSlugs:
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
   - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---

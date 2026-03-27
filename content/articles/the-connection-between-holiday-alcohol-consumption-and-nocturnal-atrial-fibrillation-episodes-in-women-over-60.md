@@ -9,7 +9,9 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults

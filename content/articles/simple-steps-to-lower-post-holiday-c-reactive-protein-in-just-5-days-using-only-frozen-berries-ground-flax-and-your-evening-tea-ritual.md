@@ -9,10 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
   - >-
+    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
   - >-
+    best-anti-inflammatory-holiday-snack-swaps-for-men-71-with-psoriatic-arthritis-and-elevated-crp-3-0-mg-l
   - >-
+    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
   - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
 ---
 
 # How to Gently Lower CRP Post-Holiday Seniors — A 5-Day, Kitchen-First Approach

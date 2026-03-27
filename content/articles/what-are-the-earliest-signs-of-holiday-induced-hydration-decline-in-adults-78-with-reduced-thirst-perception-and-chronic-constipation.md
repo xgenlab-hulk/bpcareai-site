@@ -10,9 +10,13 @@ image: ''
 relatedSlugs:
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - >-
+    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
   - >-
+    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # Early Signs of Dehydration in Seniors During the Holidays: What to Watch For Beyond Dry Mouth

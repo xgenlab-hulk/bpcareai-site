@@ -9,6 +9,7 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
   - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know

@@ -9,10 +9,14 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation
   - is-metformin-still-safe-for-diabetics-over-70
   - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - >-
+    does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
   - >-
+    10-unexpected-medication-interactions-that-spike-blood-glucose-in-adults-62-taking-metformin-and-probiotics
 ---
 
 # Is It Safe to Take Berberine With Metformin If You’re Over 74 and Have Mild Liver Fibrosis? What Liver Enzymes and FibroScan Tell Us

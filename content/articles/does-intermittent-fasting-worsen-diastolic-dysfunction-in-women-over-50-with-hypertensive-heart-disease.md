@@ -9,8 +9,11 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - >-
+    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
   - >-
+    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
 ---

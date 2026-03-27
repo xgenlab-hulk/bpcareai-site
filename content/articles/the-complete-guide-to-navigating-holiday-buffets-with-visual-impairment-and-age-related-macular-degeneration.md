@@ -9,10 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
   - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
   - >-
+    the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety
   - >-
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
 ---
 
 # Navigating Holiday Buffets With Visual Impairment: A Practical Guide for Seniors and Caregivers

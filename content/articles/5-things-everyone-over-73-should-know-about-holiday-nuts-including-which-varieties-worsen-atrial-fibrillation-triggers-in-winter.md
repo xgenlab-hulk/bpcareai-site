@@ -9,10 +9,14 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
+    5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
+    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
 ---
 
 # What Seniors Over 73 Should Know About Holiday Nuts and Atrial Fibrillation Risk

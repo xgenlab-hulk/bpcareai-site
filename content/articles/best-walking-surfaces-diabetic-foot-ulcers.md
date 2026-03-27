@@ -9,10 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception
   - >-
+    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
   - >-
+    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
   - >-
+    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
   - >-
+    best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
 ---
 
 # Best Walking Surfaces for Diabetic Foot Ulcers: Evidence-Based Guidance for Adults 69+ in Remission

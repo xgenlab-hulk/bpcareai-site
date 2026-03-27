@@ -9,10 +9,14 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
   - >-
+    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
   - >-
+    when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - >-
+    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
 ---
 
 # TZDs Weakening Your Bones? What Women 65+ With Diabetes Need to Know
