@@ -1,11 +1,10 @@
 ---
-title: Your Calcium Score Zero But Still on Statins? (Ages 70-79)
+title: 'Zero Calcium Score but Still on Statins? What Adults 70+ Should Know'
 slug: calcium-score-zero-statins-70
-description: >-
-  Zero calcium score but still taking statins? Discover what scores 0, 100, 400+ really mean for heart attack risk in adults 70-79, plus when to rescan and adjust meds today.
+description: 'A zero heart scan score (coronary calcium score) predicts under 1% heart attack risk — yet stopping statins isn''t always safe. When to rescan after 70.'
 date: '2026-02-16'
-updated: '2026-03-18'
-primaryKeyword: calcium score statins heart risk 70-79
+updated: '2026-03-28'
+primaryKeyword: 'coronary calcium score and statins after 70'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

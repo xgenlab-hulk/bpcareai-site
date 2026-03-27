@@ -1,10 +1,10 @@
 ---
-title: Living Alone on Glimepiride After 70? Know These Risks
+title: 'Living Alone on Glimepiride After 70? 5 Risks You Need to Know'
 slug: sulfonylureas-living-alone-70
-description: 25% of seniors on blood sugar pills (sulfonylureas) face dangerous lows yearly. Living alone, a drop below 50 mg/dL raises fall risk 40% with no one to help.
+description: '25% of seniors on blood sugar pills (sulfonylureas) face dangerous lows each year. Living alone, a drop below 50 mg/dL raises fall risk 40% with no one to help.'
 date: '2026-01-31'
-updated: '2026-03-26'
-primaryKeyword: are sulfonylureas safe if you live alone over 70
+updated: '2026-03-28'
+primaryKeyword: 'sulfonylureas safe living alone over 70'
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

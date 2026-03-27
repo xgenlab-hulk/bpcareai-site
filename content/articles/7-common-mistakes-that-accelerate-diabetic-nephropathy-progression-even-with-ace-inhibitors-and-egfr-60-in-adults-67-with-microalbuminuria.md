@@ -1,10 +1,10 @@
 ---
-title: On ACE Inhibitors but Kidney Numbers Still Creep? 7 Fixes After 67
+title: 'On ACE Inhibitors but Kidney Numbers Still Creep? 7 Fixes After 67'
 slug: kidney-mistakes-diabetes-67-ace
-description: Stable kidney filtering rate (eGFR) above 60 on ACE inhibitors? NSAID use and nighttime BP dipping loss still accelerate protein leak (microalbuminuria).
+description: 'NSAID use and lost nighttime BP dip accelerate protein leak (microalbuminuria) 2-3x -- even with filtering rate (eGFR) above 60. 7 fixes for 67+.'
 date: '2026-02-03'
-updated: '2026-03-26'
-primaryKeyword: mistakes that worsen kidney disease on ACE inhibitors
+updated: '2026-03-28'
+primaryKeyword: 'kidney getting worse on ACE inhibitors with diabetes'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

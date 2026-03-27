@@ -1,11 +1,11 @@
 ---
-title: 7 Sodium Traps in Holiday Sides That Harm Your Kidneys After 58
+title: 'Holiday Side Dishes and Hidden Sodium: 7 Swaps for Adults With CKD'
 slug: >-
   7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
-description: Low-sodium broth still packs 400-800mg sodium per serving. These 7 swaps cut sodium 40-60% — critical when kidney filtration (eGFR) is below 60.
+description: 'Low-sodium broth still packs 400-800mg per serving. These 7 swaps cut sodium 40-60% — critical when kidney filtration rate (eGFR) drops below 60 after age 58.'
 date: '2026-01-25'
-updated: '2026-03-26'
-primaryKeyword: hidden sodium in holiday side dishes with kidney disease
+updated: '2026-03-28'
+primaryKeyword: 'hidden sodium in holiday sides with kidney disease'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

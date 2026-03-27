@@ -1,11 +1,11 @@
 ---
-title: "CGM and Pacemakers: Is Your Magnetic Mattress Pad Safe After 67?"
+title: 'CGM With a Pacemaker: Is Your Magnetic Mattress Pad Safe After 67?'
 slug: >-
   cgm-pacemaker-magnetic-mattress-safety-67
-description: Magnetic mattress pads emit 50-200 gauss — enough to shift glucose sensor (CGM) readings 15-20% and trigger pacemaker reversion. 5 distance rules for 67+.
+description: 'Magnetic pads emit 50-200 gauss, shifting sugar readings (CGM) 15-20% and risking pacemaker reversion. Five safe-distance rules protect adults 67+ overnight.'
 date: '2026-02-07'
-updated: '2026-03-26'
-primaryKeyword: can I use a glucose monitor with a pacemaker on magnetic bed
+updated: '2026-03-28'
+primaryKeyword: 'glucose monitor pacemaker magnetic mattress pad safety'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

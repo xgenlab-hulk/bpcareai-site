@@ -1,10 +1,10 @@
 ---
-title: Your Memory Slipping? 7 Mistakes Speeding Decline (Diabetes 63+)
+title: 'Memory Slipping With Diabetes? 7 Mistakes Speeding Decline After 63'
 slug: memory-decline-mistakes-diabetes-63
-description: Treating lows with juice triggers glucose rebound. 7 fixable errors — skipping BP meds, ignoring apnea — speed brain vessel damage (white matter lesions).
+description: 'Treating lows with juice triggers glucose rebound past 180 mg/dL. 7 fixable errors speed brain vessel damage (white matter lesions) in adults 63+.'
 date: '2026-01-28'
-updated: '2026-03-26'
-primaryKeyword: cognitive decline mistakes diabetes seniors
+updated: '2026-03-28'
+primaryKeyword: 'diabetes habits that speed up memory loss after 63'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

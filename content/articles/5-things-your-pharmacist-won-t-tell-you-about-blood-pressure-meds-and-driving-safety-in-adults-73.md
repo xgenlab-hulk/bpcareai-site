@@ -1,10 +1,10 @@
 ---
-title: "Do BP Meds Affect Your Driving? What Adults 73+ Should Check"
+title: 'Do Your BP Meds Make Driving Risky? 5 Checks for Adults 73+'
 slug: bp-meds-driving-safety-73
-description: "Diuretics slow reaction time 15%; alpha-blockers blur near vision. Four timing shifts help adults 73+ on blood pressure drugs (antihypertensives) drive safely."
+description: 'Diuretics slow braking response (reaction time) by 15%. Alpha-blockers blur side vision. 4 timing shifts help adults 73+ drive safely.'
 date: '2026-02-02'
-updated: '2026-03-26'
-primaryKeyword: do blood pressure medications affect driving ability
+updated: '2026-03-28'
+primaryKeyword: 'can blood pressure meds affect driving after 70'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

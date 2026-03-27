@@ -1,10 +1,10 @@
 ---
-title: 7 Common Medications That Quietly Raise Blood Pressure After 60
+title: '7 Common Medications That Quietly Raise Blood Pressure After 60'
 slug: antihistamine-antidepressant-bp-seniors
-description: Allergy pills plus antidepressants spike BP 10-20 mmHg by blocking fluid clearance (renal prostaglandins). NSAIDs add 5 mmHg more in seniors 60+.
+description: 'Pain relievers block kidney salt clearance (renal prostaglandins), adding 5-10 mmHg systolic. Learn which allergy pills and antidepressants raise BP after 60.'
 date: '2026-01-18'
-updated: '2026-03-26'
-primaryKeyword: medications that raise blood pressure in seniors
+updated: '2026-03-28'
+primaryKeyword: 'do antidepressants and NSAIDs raise blood pressure after 60'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

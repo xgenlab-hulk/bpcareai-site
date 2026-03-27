@@ -1,11 +1,11 @@
 ---
-title: 7 Hidden Triggers Behind After-Dinner Blood Sugar Spikes
+title: 'Why Family Dinners Spike Your Blood Sugar — 7 Hidden Triggers After 55'
 slug: >-
   7-hidden-triggers-of-after-dinner-blood-sugar-spikes-at-family-dinners-and-how-to-neutralize-them-without-skipping-dessert
-description: Eating bread first raises glucose 35% more than salad. Wine before the main course and loud conversation both shift post-meal spikes (postprandial glucose).
+description: 'Eating bread before salad raises blood sugar (postprandial glucose) 35% more. Wine with carbs adds 30-40 mg/dL. Here are 7 sneaky triggers adults 55-72 miss.'
 date: '2026-01-30'
-updated: '2026-03-26'
-primaryKeyword: why does blood sugar spike after family dinners
+updated: '2026-03-28'
+primaryKeyword: 'after dinner blood sugar spikes at family meals'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

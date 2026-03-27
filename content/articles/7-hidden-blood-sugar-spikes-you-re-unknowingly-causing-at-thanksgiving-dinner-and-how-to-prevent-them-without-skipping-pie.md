@@ -1,10 +1,10 @@
 ---
-title: 7 Hidden Blood Sugar Spikes at Thanksgiving — and How to Stop Them
+title: '7 Hidden Blood Sugar Spikes at Thanksgiving -- and How to Stop Them'
 slug: thanksgiving-blood-sugar-triggers-55
-description: Certain food combos spike glucose 180+ mg/dL 3 hours after eating (postprandial surge) — even sweet potatoes. Sequencing carbs after protein cuts peaks ~35%.
+description: 'Certain combos push glucose past 180 mg/dL hours after eating (postprandial surge). Eating protein before carbs cuts the spike ~35% in adults 55+.'
 date: '2026-01-29'
-updated: '2026-03-26'
-primaryKeyword: hidden blood sugar spikes at Thanksgiving dinner
+updated: '2026-03-28'
+primaryKeyword: 'hidden blood sugar spikes at Thanksgiving dinner'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

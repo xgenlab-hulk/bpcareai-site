@@ -1,11 +1,11 @@
 ---
-title: "Holiday Punch and ACE Inhibitors: Potassium Risks Over 70"
+title: 'Holiday Punch and ACE Inhibitors: Hidden Potassium Risks After 70'
 slug: >-
   holiday-punch-potassium-ace-inhibitors-70
-description: One glass of pomegranate-orange punch adds 600-800mg potassium — risky when BP pills (ACE inhibitors) already raise levels. 5 lower-potassium fruit swaps.
+description: 'One glass of pomegranate punch adds 600-800mg potassium — risky when BP pills (ACE inhibitors) already raise your levels. 5 safer fruit swaps for 70+.'
 date: '2026-02-06'
-updated: '2026-03-26'
-primaryKeyword: is holiday punch safe with ACE inhibitors or ARBs
+updated: '2026-03-28'
+primaryKeyword: 'holiday punch safe with ACE inhibitors over 70'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

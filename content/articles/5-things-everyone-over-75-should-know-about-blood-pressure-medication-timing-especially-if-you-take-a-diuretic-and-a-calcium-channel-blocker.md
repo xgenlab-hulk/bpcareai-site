@@ -1,10 +1,10 @@
 ---
-title: "Adults 75+: When to Take Your Diuretic and Amlodipine for Best Results"
+title: '75+: When to Take Your Diuretic and Calcium Channel Blocker'
 slug: bp-medication-timing-diuretic-amlodipine-75
-description: Evening amlodipine restores nighttime BP dipping (circadian rhythm) by up to 12 mmHg in adults 75+ — but diuretics taken late raise fall risk 2.4x.
+description: 'Evening dosing restores nighttime BP dipping (circadian rhythm) by up to 12 mmHg in adults 75+, but late diuretics raise fall risk 2.4x. 5 timing rules.'
 date: '2026-02-05'
-updated: '2026-03-26'
-primaryKeyword: when should I take blood pressure meds if I'm over 75
+updated: '2026-03-28'
+primaryKeyword: 'blood pressure medication timing over 75 with diuretic'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

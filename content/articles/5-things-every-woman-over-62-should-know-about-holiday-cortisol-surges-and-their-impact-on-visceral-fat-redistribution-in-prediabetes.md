@@ -1,13 +1,13 @@
 ---
-title: Holiday Stress Spiking Your Blood Sugar? (Women 62+ Guide)
+title: 'Holiday Stress Raising Your Blood Sugar? A Guide for Women 62+'
 slug: holiday-stress-blood-sugar-prediabetes-women-62
-description: >-
+description: 'Holiday stress triggers belly fat gain (visceral fat redistribution) and raises fasting glucose 15-25 mg/dL in women 62+ with prediabetes.'
   Holiday stress spiking blood sugar? Get 4 cortisol-lowering strategies that
   stop belly fat gain and protect insulin sensitivity—essential for women 62+
   with prediabetes.
 date: '2026-02-12'
-updated: '2026-03-18'
-primaryKeyword: holiday stress blood sugar prediabetes women
+updated: '2026-03-28'
+primaryKeyword: 'holiday stress blood sugar women over 62'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

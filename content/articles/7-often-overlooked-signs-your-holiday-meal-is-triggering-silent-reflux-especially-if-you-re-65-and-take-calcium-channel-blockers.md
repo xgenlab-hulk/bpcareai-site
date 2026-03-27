@@ -1,11 +1,11 @@
 ---
-title: 7 Silent Reflux Signs After Holiday Meals on BP Medication
+title: 'On Blood Pressure Meds After 65? Watch for These 7 Silent Reflux Signs'
 slug: >-
   7-often-overlooked-signs-your-holiday-meal-is-triggering-silent-reflux-especially-if-you-re-65-and-take-calcium-channel-blockers
-description: Calcium channel blockers relax your food-pipe valve (esophageal sphincter), raising silent reflux (LPR) risk 30-40%. Watch for morning hoarseness after 65.
+description: 'BP pills that relax arteries also loosen your food-pipe valve (lower esophageal sphincter), raising silent reflux risk 30-40%. Morning hoarseness is a key clue.'
 date: '2026-01-26'
-updated: '2026-03-26'
-primaryKeyword: silent reflux signs after holiday meals in seniors
+updated: '2026-03-28'
+primaryKeyword: 'silent reflux after holiday meals on BP medication'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

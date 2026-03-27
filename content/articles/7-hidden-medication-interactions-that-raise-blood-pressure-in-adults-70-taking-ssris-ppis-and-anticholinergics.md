@@ -1,10 +1,10 @@
 ---
-title: 7 Medications That Secretly Raise Blood Pressure After 70
+title: '7 Medications Quietly Raising Blood Pressure in Adults Over 70'
 slug: bp-spikes-ssris-ppis-seniors-70
-description: SSRIs, PPIs, and bladder drugs each raise systolic BP 4-8 mmHg through serotonin surges, potassium loss (hypokalemia), or nerve activation. Timing shifts help.
+description: 'SSRIs, PPIs, and bladder drugs each raise systolic BP 4-12 mmHg. Potassium loss (hypokalemia) from PPIs blunts BP meds in 62% of adults 70+ on combos.'
 date: '2026-01-27'
-updated: '2026-03-26'
-primaryKeyword: medications that secretly raise blood pressure over 70
+updated: '2026-03-28'
+primaryKeyword: 'medications that secretly raise blood pressure over 70'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

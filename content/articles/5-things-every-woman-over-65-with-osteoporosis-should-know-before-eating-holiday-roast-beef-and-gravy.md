@@ -1,10 +1,10 @@
 ---
-title: "Holiday Roast Beef and Bone Loss: What Women 65+ Should Watch"
+title: 'Is Holiday Roast Beef Safe for Your Bones? A Guide for Women 65+'
 slug: holiday-roast-beef-bones-women-65
-description: Gravy sodium leaches ~40 mg calcium per serving via your kidneys (calciuria). Vitamin C-rich sides restore balance for women with thinning bones (osteoporosis).
+description: 'Each 1,000 mg sodium in gravy flushes ~40 mg calcium via your kidneys (calciuria). Vitamin C sides and lean cuts help women 65+ with thinning bones eat safely.'
 date: '2026-01-21'
-updated: 2026-03-26
-primaryKeyword: does holiday roast beef hurt bones with osteoporosis
+updated: '2026-03-28'
+primaryKeyword: 'holiday roast beef safe for osteoporosis women 65'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

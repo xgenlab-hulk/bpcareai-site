@@ -1,11 +1,11 @@
 ---
-title: 7 Hidden Drivers of Insulin Resistance in Women 58+ With PCOS History
+title: '7 Hidden Insulin Resistance Triggers for Women 58+ With PCOS History'
 slug: >-
   7-hidden-sources-of-insulin-resistance-in-women-58-72-with-pcos-history-and-recent-weight-gain
-description: Estrogen loss reactivates fat-tissue inflammation dormant since PCOS, raising fasting insulin 20-40%. Thyroid antibodies add silent resistance (HOMA-IR).
+description: 'Estrogen loss reactivates fat-tissue inflammation dormant since PCOS, raising fasting insulin 20-40%. Thyroid antibodies add hidden resistance (HOMA-IR).'
 date: '2026-01-30'
-updated: '2026-03-26'
-primaryKeyword: hidden causes of insulin resistance with PCOS history
+updated: '2026-03-28'
+primaryKeyword: 'why insulin resistance returns after menopause with PCOS'
 topicCluster: metabolic-health
 image: ''
 relatedSlugs:

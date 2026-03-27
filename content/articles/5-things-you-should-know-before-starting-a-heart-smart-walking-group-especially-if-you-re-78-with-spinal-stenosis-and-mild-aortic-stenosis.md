@@ -1,11 +1,11 @@
 ---
-title: "Walking Groups After 78: Safety Rules With Aortic Stenosis"
+title: 'Is a Walking Group Safe at 78 With a Narrowed Heart Valve?'
 slug: >-
   walking-group-aortic-stenosis-78
-description: A narrowed valve (aortic stenosis) changes how group walks stress you at 78+. Stay under 4 METs, skip inclines over 5%, and watch for 3 signs group pace masks.
+description: 'A narrowed heart valve (aortic stenosis) changes how group walks stress you at 78+. Stay under 4 METs, skip inclines over 5%, and watch for 3 masked signs.'
 date: '2026-02-01'
-updated: '2026-03-26'
-primaryKeyword: is a walking group safe with aortic stenosis at 78
+updated: '2026-03-28'
+primaryKeyword: 'walking group safety with aortic stenosis over 78'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,13 +1,13 @@
 ---
-title: >-
+title: 'Are Your Medications Raising Blood Pressure? 7 Culprits After 60'
   Your Medications Raising Blood Pressure? (7 Hidden Culprits 60+)
 slug: >-
   medications-raising-blood-pressure-60
-description: >-
+description: 'Up to 20% of new high BP after 60 links to drug interactions. Allergy pills and pain creams tighten blood vessels (vasoconstriction), adding 10-20 mmHg.'
   Blood pressure rising despite medication? Discover 7 hidden drug interactions—antidepressants, antihistamines, topical NSAIDs—that raise BP in adults 60+. Includes monitoring tips and safer alternatives.
 date: '2026-03-02'
-updated: '2026-03-02'
-primaryKeyword: medications raising blood pressure adults 60
+updated: '2026-03-28'
+primaryKeyword: 'medications that raise blood pressure after 60'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

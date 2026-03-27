@@ -1,10 +1,10 @@
 ---
-title: "Holiday Cheese and Bone Loss: What Women Over 64 Should Know"
+title: 'Holiday Cheese Boards May Weaken Bones Despite Calcium at 64+'
 slug: holiday-cheese-bone-health-calcium-women-64
-description: "Aged cheeses pack 400-500mg phosphorus per serving, raising bone breakdown markers (CTX) up to 18%. 5 tests and safer swaps for women 64+ on calcium."
+description: 'Aged cheeses pack 400-500mg phosphorus per serving, raising bone breakdown markers (CTX) up to 18% in women 64+. Safer cheese swaps help.'
 date: '2026-02-10'
-updated: '2026-03-25'
-primaryKeyword: can holiday cheese weaken bones with calcium supplements
+updated: '2026-03-28'
+primaryKeyword: 'can holiday cheese weaken bones with calcium supplements'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

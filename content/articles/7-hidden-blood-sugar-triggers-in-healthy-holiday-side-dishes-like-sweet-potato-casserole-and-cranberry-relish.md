@@ -1,10 +1,10 @@
 ---
-title: 7 Hidden Blood Sugar Triggers in Holiday Side Dishes After 60
+title: 'Holiday Side Dishes Spiking Your Blood Sugar? 7 Triggers After 60'
 slug: holiday-sides-blood-sugar-triggers-60
-description: Sweet potato casserole spikes glucose 35-45 mg/dL from hidden syrups and thickeners. 7 swaps to cut post-meal surges (postprandial hyperglycemia) by 27%.
+description: 'Sweet potato casserole raises glucose 35-45 mg/dL from hidden syrups. 7 swaps cut after-meal surges (postprandial hyperglycemia) by 27% in adults 60+.'
 date: '2026-01-19'
-updated: '2026-03-26'
-primaryKeyword: hidden blood sugar triggers in holiday side dishes
+updated: '2026-03-28'
+primaryKeyword: 'holiday side dishes that spike blood sugar after 60'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

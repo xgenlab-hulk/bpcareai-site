@@ -1,11 +1,11 @@
 ---
-title: Bicuspid Valve Before Dental Work? (Antibiotic Guide)
+title: 'Bicuspid Aortic Valve and Dental Work: Antibiotic and INR Guide'
 slug: bicuspid-valve-dental-antibiotics
-description: >-
+description: 'Only severely narrowed two-flap valves (bicuspid aortic) need pre-dental antibiotics per 2023 AHA rules. Safe blood thinner level (INR): 2.0-2.5.'
   Bicuspid valve patient needing dental work? Get 2023 AHA antibiotic rules, safe INR ranges 2.0-2.5 for warfarin users, and exact echo timing—prevent endocarditis risk today.
 date: '2026-01-06'
-updated: '2026-03-18'
-primaryKeyword: bicuspid valve dental antibiotics warfarin
+updated: '2026-03-28'
+primaryKeyword: 'bicuspid aortic valve dental procedure antibiotics'
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

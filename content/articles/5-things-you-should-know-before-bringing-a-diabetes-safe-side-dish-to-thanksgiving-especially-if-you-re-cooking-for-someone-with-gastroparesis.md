@@ -1,11 +1,11 @@
 ---
-title: Thanksgiving Side Dishes Safe for Diabetes and Gastroparesis
+title: 'Cooking for Diabetes and Gastroparesis? Thanksgiving Side Guide'
 slug: >-
   diabetes-safe-gastroparesis-side-dish
-description: Fork-tender textures and soluble fiber under 3g prevent bloating from slow stomach emptying (gastroparesis) while keeping glucose rise under 30 mg/dL.
+description: 'Slow stomach emptying (gastroparesis) causes 3x more blood sugar swings. Fork-tender textures and under 3g soluble fiber keep rises below 30 mg/dL.'
 date: '2026-01-30'
-updated: '2026-03-26'
-primaryKeyword: diabetes safe side dish for someone with gastroparesis
+updated: '2026-03-28'
+primaryKeyword: 'diabetes safe side dish for gastroparesis thanksgiving'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

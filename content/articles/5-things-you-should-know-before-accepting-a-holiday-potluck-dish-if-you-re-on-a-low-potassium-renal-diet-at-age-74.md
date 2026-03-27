@@ -1,11 +1,11 @@
 ---
-title: Holiday Potluck on a Renal Diet? 5 Potassium Traps After 74
+title: 'On a Renal Diet at 74? 5 Hidden Potassium Traps at Potlucks'
 slug: >-
   holiday-potluck-low-k-renal-diet-74
-description: Salt substitutes swap sodium for potassium chloride — risky with weak kidneys. Tomato paste hides 600mg/cup. 5 quick checks for any potluck dish.
+description: 'Salt substitutes swap sodium for potassium, risky with weak kidney filtering (low eGFR). One cup tomato paste hides 900mg. 5 quick dish checks.'
 date: '2026-01-31'
-updated: '2026-03-26'
-primaryKeyword: what foods to avoid at potlucks on a low potassium diet
+updated: '2026-03-28'
+primaryKeyword: 'low potassium foods to avoid at holiday potlucks'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,10 +1,10 @@
 ---
-title: "Women Over 67: Why a Lipoprotein(a) Test May Reveal Hidden Heart Risk"
+title: 'Lp(a) Test After 67: Hidden Heart Risk Normal Cholesterol Misses'
 slug: lp-a-testing-heart-risk-women-67
-description: "After menopause, a genetic cholesterol particle (Lp(a)) rises 10-15%. 20% of women with normal LDL carry high levels tied to valve narrowing (aortic stenosis)."
+description: '1 in 5 women with normal cholesterol harbor a sticky fat particle (Lp(a)) that rises 10-15% post-menopause, fueling valve narrowing (aortic stenosis).'
 date: '2026-02-08'
-updated: '2026-03-26'
-primaryKeyword: should women over 67 get lipoprotein a tested
+updated: '2026-03-28'
+primaryKeyword: 'should women over 67 get lipoprotein a tested'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

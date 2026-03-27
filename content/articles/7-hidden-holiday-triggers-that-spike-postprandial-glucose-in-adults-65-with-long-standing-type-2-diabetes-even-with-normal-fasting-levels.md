@@ -1,11 +1,11 @@
 ---
-title: Why Blood Sugar Spikes After Holiday Meals Despite Normal Fasting
+title: 'Normal Fasting but Spiking After Holiday Dinner? 7 Triggers at 65'
 slug: >-
   after-meal-glucose-spikes-holidays-65-diabetes
-description: "Fasting under 110 mg/dL but spiking 180+ after dinner? Seven triggers \u2014 sugar-free candy, delayed insulin \u2014 raise after-meal sugar (postprandial glucose)."
+description: 'Fasting under 110 mg/dL yet hitting 180+ after eating? Sugar-free candy and delayed insulin raise after-meal sugar (postprandial glucose) in adults 65+.'
 date: '2026-02-02'
-updated: '2026-03-26'
-primaryKeyword: why does blood sugar spike after holiday meals
+updated: '2026-03-28'
+primaryKeyword: 'why blood sugar spikes after holiday meals over 65'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

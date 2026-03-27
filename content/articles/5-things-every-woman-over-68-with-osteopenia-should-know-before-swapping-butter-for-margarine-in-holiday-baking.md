@@ -1,13 +1,13 @@
 ---
-title: >-
+title: 'Butter vs. Margarine and Your Bones After 68: What Women Need to Know'
   Butter or Margarine Weakening Your Bones? (Women 68+ Guide)
 slug: >-
   butter-margarine-bone-health-women-68
-description: >-
+description: 'Margarine may carry bone-weakening fats (trans fatty acids) reducing calcium uptake 20%. Five holiday baking swaps protect bone density (T-score) for women 68+.'
   Swapping butter for margarine? Discover why vitamin K2 and trans fats affect calcium absorption—plus 5 bone-smart holiday baking swaps proven for osteopenia in women 68+.
 date: '2026-01-03'
-updated: '2026-03-19'
-primaryKeyword: butter margarine bone health women osteopenia
+updated: '2026-03-28'
+primaryKeyword: 'is butter or margarine better for bone health after 68'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

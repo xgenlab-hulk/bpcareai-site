@@ -1,10 +1,10 @@
 ---
-title: Feeling Too Young for Heart Screening? 7 Risks Ages 55-64
+title: '55-64 and Feeling Fine? 7 Heart Risks Screening Often Misses'
 slug: heart-risks-55-64-screening
-description: Risk scores miss 30% of adults 55-64 with stiffening arteries (subclinical atherosclerosis). Job stress, sleep apnea, and muscle loss drive silent damage.
+description: 'Risk scores miss 30% of adults 55-64 with stiffening arteries (subclinical atherosclerosis). Job stress raises coronary events 27% even with normal labs.'
 date: '2026-01-26'
-updated: '2026-03-26'
-primaryKeyword: hidden heart risks in your late 50s and early 60s
+updated: '2026-03-28'
+primaryKeyword: 'heart disease risks you miss at 55 to 64'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

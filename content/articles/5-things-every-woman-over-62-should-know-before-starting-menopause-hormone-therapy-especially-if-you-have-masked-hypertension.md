@@ -1,13 +1,13 @@
 ---
-title: Starting Hormone Therapy at 62+? (Your BP Safety Guide)
+title: 'Why Masked Hypertension Makes Hormone Therapy Risky After 62'
 slug: hormone-therapy-bp-safety-women-62-masked-hypertension
-description: >-
+description: 'Normal clinic BP misses 25% of high blood pressure cases (masked hypertension) in women 62+. Get 3 tests before starting hormone therapy.'
   Starting hormone therapy at 62+? Discover why masked hypertension doubles your
   risk, 3 critical tests before starting, and exactly how estrogen affects blood
   pressure—essential for women.
 date: '2026-01-03'
-updated: '2026-03-19'
-primaryKeyword: hormone therapy blood pressure masked hypertension
+updated: '2026-03-28'
+primaryKeyword: 'hormone therapy and blood pressure after 62'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

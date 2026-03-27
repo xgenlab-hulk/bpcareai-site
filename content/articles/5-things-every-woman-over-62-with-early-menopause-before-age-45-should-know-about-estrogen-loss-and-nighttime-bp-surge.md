@@ -1,10 +1,10 @@
 ---
-title: Early Menopause? Your Nighttime BP May Be Rising (Women 62+)
+title: 'Did Early Menopause Damage Your Nighttime Blood Pressure?'
 slug: early-menopause-nighttime-bp-surge-women-62
-description: Menopause before 45 raises nighttime BP risk — 65% of women see surges by 62. Key tests and estrogen timing help restore the overnight dip (nocturnal dipping).
+description: '65% of women with menopause before 45 develop sleep-time BP spikes (nocturnal hypertension) by their 60s. 24-hour monitoring catches hidden risk.'
 date: '2026-01-28'
-updated: '2026-03-26'
-primaryKeyword: early menopause nighttime blood pressure surge
+updated: '2026-03-28'
+primaryKeyword: 'early menopause nighttime blood pressure surge'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

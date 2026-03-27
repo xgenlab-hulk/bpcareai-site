@@ -1,11 +1,11 @@
 ---
-title: BP Meds Blocking Your Thyroid Pills? (70+ Timing Guide)
+title: 'BP Meds, Thyroid Pills, and Calcium After 70: Get the Timing Right'
 slug: bp-meds-thyroid-calcium-timing-70
-description: >-
+description: 'Calcium cuts thyroid pill absorption (levothyroxine) by up to 40%. A simple 4-hour spacing rule keeps BP meds and thyroid pills working properly after 70.'
   Taking BP meds with thyroid pills and calcium? Discover the 4-hour spacing rule that stops 40% absorption loss, plus exact daily schedules that work for adults 70+.
 date: '2026-01-09'
-updated: '2026-03-18'
-primaryKeyword: bp medication timing thyroid calcium 70
+updated: '2026-03-28'
+primaryKeyword: 'when to take BP meds with thyroid pills after 70'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

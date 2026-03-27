@@ -1,11 +1,11 @@
 ---
-title: "OTC Nasal Decongestants and AFib: 7 Risks Seniors Over 62 Miss"
+title: 'OTC Nasal Sprays and AFib After 62: 7 Risks Your Pharmacist May Miss'
 slug: >-
   7-hidden-risks-of-over-the-counter-nasal-decongestants-for-adults-62-with-atrial-fibrillation-and-controlled-hypertension
-description: "Pseudoephedrine raises systolic BP 12-15 mmHg and can trigger irregular heartbeat (atrial fibrillation) within 90 min — even at half-dose after 62."
+description: 'Pseudoephedrine raises systolic BP 12-15 mmHg and can trigger irregular heartbeat (atrial fibrillation) within 90 min. 7 risks adults 62+ with AFib should know.'
 date: '2026-02-08'
-updated: '2026-03-26'
-primaryKeyword: are nasal decongestants safe with atrial fibrillation
+updated: '2026-03-28'
+primaryKeyword: 'nasal decongestants and atrial fibrillation after 62'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

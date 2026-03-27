@@ -1,13 +1,13 @@
 ---
-title: >-
+title: 'Can You Restart ACE Inhibitors After Kidney Injury? eGFR 45-59 Guide'
   Restart ACE Inhibitors After Kidney Injury? (eGFR 45-59 Guide)
 slug: >-
   restart-ace-inhibitors-kidney-injury-egfr-45-59
-description: >-
+description: 'Kidney injury doesn\'t mean quitting ACE inhibitors. Five criteria—kidney filtration rate (eGFR) above 45, potassium under 5.0—help adults 65+ restart safely.'
   Kidney injury doesn't mean stopping ACE inhibitors forever. Get 5 proven restart criteria—eGFR recovery thresholds, potassium monitoring windows, and safe dosing—essential for adults 65+.
 date: '2026-02-23'
-updated: '2026-03-19'
-primaryKeyword: ace inhibitor restart after kidney injury seniors
+updated: '2026-03-28'
+primaryKeyword: 'restarting ACE inhibitors after kidney injury eGFR 45'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

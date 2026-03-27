@@ -1,11 +1,11 @@
 ---
-title: Statins After 65? (Muscle Fatigue Your Doctor May Miss)
+title: 'Statin Side Effects After 65: What Your Cardiologist May Not Say'
 slug: statin-muscle-fatigue-brain-fog-65
-description: >-
+description: '15-20% of adults 65+ report unexplained muscle tiredness (low-CK myopathy) on statins. 4 monitoring steps including cell energy tests (CoQ10) catch it early.'
   On statins after 65? Discover why 15-20% report muscle fatigue without high CK, subtle brain fog signs often missed, and 4 monitoring steps (CoQ10, HbA1c) that catch problems early.
 date: '2025-12-21'
-updated: '2026-03-18'
-primaryKeyword: statin side effects muscle fatigue seniors 65
+updated: '2026-03-28'
+primaryKeyword: 'statin side effects after 65 that doctors miss'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

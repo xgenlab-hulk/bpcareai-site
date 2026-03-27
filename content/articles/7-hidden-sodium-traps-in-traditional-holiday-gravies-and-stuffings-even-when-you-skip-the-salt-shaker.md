@@ -1,10 +1,10 @@
 ---
-title: 7 Sodium Traps in Holiday Gravies — Even Without the Salt Shaker
+title: 'Skipping Salt? 7 Sodium Traps Still Hiding in Holiday Gravy'
 slug: 7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
-description: Bouillon cubes add 800-1,100mg sodium per batch. 7 hidden sources in gravies and stuffings — with low-sodium swaps that protect blood pressure (hypertension).
+description: 'Bouillon cubes add 800-1,100mg sodium per batch. Learn 7 hidden sources in gravies and stuffings plus swaps that protect blood vessel pressure (hypertension).'
 date: '2026-02-03'
-updated: '2026-03-26'
-primaryKeyword: hidden sodium in holiday gravy and stuffing
+updated: '2026-03-28'
+primaryKeyword: 'sodium in holiday gravy even without adding salt'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

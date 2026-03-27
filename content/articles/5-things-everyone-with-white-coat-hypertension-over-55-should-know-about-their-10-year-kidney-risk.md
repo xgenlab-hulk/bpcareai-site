@@ -1,11 +1,10 @@
 ---
-title: White Coat Hypertension After 55? (Your 10-Year Kidney Risk)
+title: 'Does White Coat Hypertension Hurt Your Kidneys After 55?'
 slug: white-coat-bp-kidney-risk-seniors-55
-description: >-
-  Diagnosed with white coat BP? Discover why 25% develop kidney disease within 10 years, nocturnal patterns damaging kidneys silently, and 5 monitoring steps preventing progression—essential for adults 55+.
+description: '25% of adults 55+ with office-only high BP (white coat hypertension) develop kidney disease within 10 years. Nighttime BP over 120 triples risk.'
 date: '2025-12-25'
-updated: '2026-03-18'
-primaryKeyword: white coat hypertension kidney risk seniors
+updated: '2026-03-28'
+primaryKeyword: 'white coat hypertension kidney risk after 55'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

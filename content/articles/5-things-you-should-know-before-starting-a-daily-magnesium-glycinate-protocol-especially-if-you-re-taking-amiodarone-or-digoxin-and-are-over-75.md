@@ -1,11 +1,11 @@
 ---
-title: "Magnesium Glycinate With Amiodarone or Digoxin: 5 Risks After 75"
+title: 'Taking Magnesium With Amiodarone or Digoxin After 75? Read This'
 slug: >-
   magnesium-glycinate-heart-meds-75
-description: 15-20% of adults 75+ on heart rhythm drugs (amiodarone) develop slow heartbeat from magnesium glycinate. 3 dosing windows and RBC testing prevent QT issues.
+description: '15-20% of adults 75+ on rhythm drugs develop a dangerously slow heartbeat (bradycardia) from magnesium glycinate. 3 dosing windows and RBC testing cut risk.'
 date: '2026-02-01'
-updated: '2026-03-26'
-primaryKeyword: is magnesium glycinate safe with amiodarone or digoxin
+updated: '2026-03-28'
+primaryKeyword: 'magnesium glycinate with heart rhythm medications'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

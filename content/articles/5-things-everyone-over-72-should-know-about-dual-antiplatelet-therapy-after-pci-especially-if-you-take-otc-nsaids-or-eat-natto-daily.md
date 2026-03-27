@@ -1,10 +1,10 @@
 ---
-title: NSAIDs and Natto on Blood Thinners After a Stent — Risks Over 72
+title: 'NSAIDs and Natto After a Stent: What Adults 72+ Must Watch For'
 slug: dual-antiplatelet-therapy-stent-nsaid-72
-description: "Ibuprofen raises GI bleeding risk 2-4x on stent medications (dual antiplatelet therapy), and natto's vitamin K2 disrupts platelet function. Safer swaps for 72+."
+description: 'Ibuprofen raises gut bleeding risk 2-4x on stent meds (dual antiplatelet therapy), and natto\'s vitamin K2 may alter platelet function. Safer swaps for 72+.'
 date: '2026-02-06'
-updated: '2026-03-26'
-primaryKeyword: can NSAIDs or natto cause bleeding after a stent
+updated: '2026-03-28'
+primaryKeyword: 'NSAIDs and natto risks on blood thinners after stent'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

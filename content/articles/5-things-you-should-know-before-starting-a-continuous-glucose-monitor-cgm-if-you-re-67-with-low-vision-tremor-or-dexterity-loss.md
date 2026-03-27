@@ -1,10 +1,10 @@
 ---
-title: "CGM Setup for Adults 67+ With Low Vision, Tremor, or Shaky Hands"
+title: 'CGM With Low Vision or Tremor at 67+: Setup Tips That Help'
 slug: cgm-low-vision-tremor-setup-67
-description: "About 30% of adults 67+ struggle with glucose sensor (CGM) placement. Audio alerts, large-text modes, and caregiver sharing solve most access barriers."
+description: 'About 30% of adults 67+ struggle placing a blood sugar sensor (CGM) alone. Audio alerts, large-text modes, and caregiver sharing fix most access barriers.'
 date: '2026-02-02'
-updated: '2026-03-26'
-primaryKeyword: using a glucose monitor with poor vision or tremor
+updated: '2026-03-28'
+primaryKeyword: 'glucose monitor setup with low vision or tremor'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

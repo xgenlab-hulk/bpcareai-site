@@ -1,10 +1,10 @@
 ---
-title: 7 Holiday Mistakes That Worsen Joint Stiffness After 67
+title: 'Joints Stiffer After Holidays? 7 Mistakes Making It Worse at 67+'
 slug: holiday-joint-stiffness-mistakes-67
-description: Sitting still thickens joint fluid (synovial viscosity) by 20%, and rooms below 65°F raise stiffness 30%. Fixes for knee wear (osteoarthritis).
+description: 'Sitting still thickens joint fluid (synovial viscosity) 20%. Rooms below 65F raise stiffness 30%. 7 gentle fixes for knee wear (osteoarthritis) at 67+.'
 date: '2026-02-05'
-updated: '2026-03-26'
-primaryKeyword: why are my joints stiffer during the holidays
+updated: '2026-03-28'
+primaryKeyword: 'why joints stiffer after holidays over 67'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

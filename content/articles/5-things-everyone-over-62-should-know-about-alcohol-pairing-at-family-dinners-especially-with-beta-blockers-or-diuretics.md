@@ -1,13 +1,13 @@
 ---
-title: >-
+title: 'Wine at Dinner on Beta-Blockers? 5 Safety Rules for Adults 62+'
   Wine With Dinner on Beta-Blockers? (Essential Guide 62+)
 slug: >-
   alcohol-beta-blockers-diuretics-62
-description: >-
+description: 'One glass of wine drops blood pressure (systolic BP) 12-18 mmHg in 90 min on beta-blockers. Five timing strategies prevent dizziness for adults 62+.'
   On beta-blockers and enjoying holiday wine? Discover why alcohol drops BP 12-18 mmHg within 90 minutes—plus 5 timing strategies that prevent dizziness for seniors 62+.
 date: '2026-01-07'
-updated: '2026-03-19'
-primaryKeyword: alcohol beta blockers diuretics seniors 62
+updated: '2026-03-28'
+primaryKeyword: 'can I drink wine on beta-blockers after 62'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

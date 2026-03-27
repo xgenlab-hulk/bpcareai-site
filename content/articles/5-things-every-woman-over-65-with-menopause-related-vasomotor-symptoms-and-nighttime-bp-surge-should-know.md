@@ -1,10 +1,10 @@
 ---
-title: Why Hot Flashes Spike Nighttime Blood Pressure in Women Over 65
+title: 'Why Hot Flashes Spike Nighttime Blood Pressure in Women Over 65'
 slug: hot-flashes-nighttime-bp-women-65
-description: Vasomotor surges raise nocturnal systolic BP 20-30 mmHg by triggering nerve activation (sympathetic discharge). 3 cooling methods cut non-dipping episodes 37%.
+description: 'Hot flashes fire nerve surges (sympathetic activation) that raise nighttime BP 20-30 mmHg. Frequent episodes make non-dipping 2.3x more likely. 3 cooling fixes.'
 date: '2026-01-19'
-updated: '2026-03-26'
-primaryKeyword: hot flashes and nighttime blood pressure spikes
+updated: '2026-03-28'
+primaryKeyword: 'hot flashes and nighttime blood pressure spikes'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
