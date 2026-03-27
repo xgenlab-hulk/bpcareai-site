@@ -1,7 +1,7 @@
 ---
 title: 'Green Tea vs. Black Tea for Men 57-68 With Extra Heartbeats (PVCs)'
 slug: a-vs-b-morning-7-a-m-caffeinated-green-tea-vs-afternoon-3-p-m-decaf-black-tea-for-men-57-68-with-premature-ventricular-contractions
-description: 'Morning caffeine hits your heart\'s electrical system during its vulnerable QT window. Switching to decaf black tea at 3 PM cuts extra beats (PVCs) ~40%.'
+description: 'Morning caffeine hits your heart''s electrical system during its vulnerable QT window. Switching to decaf black tea at 3 PM cuts extra beats (PVCs) ~40%.'
 date: '2026-01-12'
 updated: '2026-03-27'
 primaryKeyword: 'is green tea or black tea safer for heart palpitations'

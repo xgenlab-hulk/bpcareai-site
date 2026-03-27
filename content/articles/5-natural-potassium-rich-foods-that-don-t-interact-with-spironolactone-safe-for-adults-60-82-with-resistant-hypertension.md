@@ -1,5 +1,5 @@
 ---
-title: 'On Spironolactone? 5 Potassium Foods That Won\'t Spike Your Levels'
+title: 'On Spironolactone? 5 Potassium Foods That Won''t Spike Your Levels'
 slug: spironolactone-safe-potassium-foods-60-82
 description: 'Spironolactone raises high potassium (hyperkalemia) risk. These 5 foods deliver 110-300 mg potassium per serving without spiking levels in adults 60-82.'
 date: '2025-12-29'

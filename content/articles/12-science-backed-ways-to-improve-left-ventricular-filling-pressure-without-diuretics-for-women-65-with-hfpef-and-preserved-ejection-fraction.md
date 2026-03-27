@@ -1,7 +1,7 @@
 ---
 title: 'Women 65+: Easing Stiff-Heart Breathlessness Without More Diuretics'
 slug: lv-filling-pressure-hfpef-women-65
-description: 'Timed hydration and slow breathing lower heart filling pressure (E/e\' ratio) 15-20% in 12 weeks. Gentle options for women 65+ with stiff-heart failure (HFpEF).'
+description: 'Timed hydration and slow breathing lower heart filling pressure (E/e'' ratio) 15-20% in 12 weeks. Gentle options for women 65+ with stiff-heart failure (HFpEF).'
 date: '2026-01-31'
 updated: '2026-03-27'
 primaryKeyword: 'how to ease HFpEF breathlessness without diuretics'

@@ -1,5 +1,5 @@
 ---
-title: 'Can Pomegranate\'s Urolithin A Rebuild Heart Cell Energy After 63?'
+title: 'Can Pomegranate''s Urolithin A Rebuild Heart Cell Energy After 63?'
 slug: natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
 description: 'Urolithin A triggers cell energy recycling (mitophagy via AMPK), boosting 6-minute walk distance 8-12% in adults 63-79 with diabetic heart muscle weakness.'
 date: '2026-01-16'

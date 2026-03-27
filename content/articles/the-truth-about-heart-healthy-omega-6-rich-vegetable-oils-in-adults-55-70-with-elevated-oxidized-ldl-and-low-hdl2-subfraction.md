@@ -1,5 +1,5 @@
 ---
-title: 'Why \'Heart-Healthy\' Seed Oils May Backfire if Your LDL Is Oxidized'
+title: 'Why ''Heart-Healthy'' Seed Oils May Backfire if Your LDL Is Oxidized'
 slug: the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
 description: 'Linoleic acid from seed oils oxidizes inside artery walls, destabilizing plaque even as LDL drops. Those with damaged LDL (oxidized LDL) face the most risk.'
 date: '2026-01-16'

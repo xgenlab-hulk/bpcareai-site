@@ -1,7 +1,7 @@
 ---
 title: '7 Silent Signs Your Sodium Spiked at Thanksgiving on an ARB Over 72'
 slug: 7-silent-signs-your-sodium-intake-spiked-at-thanksgiving-dinner-especially-if-you-re-on-an-arb-and-over-72
-description: 'Kidney filtration slows 1% yearly after 40, and ARBs don\'t block sodium sensitivity. Ankle puffiness or afternoon brain fog within 12-36 hours may signal fluid overload.'
+description: 'Kidney filtration slows 1% yearly after 40, and ARBs don''t block sodium sensitivity. Ankle puffiness or afternoon brain fog within 12-36 hours may signal fluid overload.'
 date: '2026-02-15'
 updated: '2026-03-27'
 primaryKeyword: 'signs of sodium overload after Thanksgiving on ARB over 72'

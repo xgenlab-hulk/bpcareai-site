@@ -1,7 +1,7 @@
 ---
-title: 'Breathing to Cut Clot Risk in the Heart\'s Small Pouch After 65'
+title: 'Breathing to Cut Clot Risk in the Heart''s Small Pouch After 65'
 slug: quick-ways-to-normalize-left-atrial-appendage-flow-velocity-using-diaphragmatic-breathing-and-postural-sequencing-especially-in-adults-65-with-cha-ds-vasc-3
-description: 'The heart\'s pouch (left atrial appendage) needs flow above 40 cm/s to prevent clots. Deep breathing + posture shifts raise it 18-25% with AFib after 65.'
+description: 'The heart''s pouch (left atrial appendage) needs flow above 40 cm/s to prevent clots. Deep breathing + posture shifts raise it 18-25% with AFib after 65.'
 date: '2026-01-17'
 updated: '2026-03-27'
 primaryKeyword: 'breathing to reduce clot risk in heart with AFib'

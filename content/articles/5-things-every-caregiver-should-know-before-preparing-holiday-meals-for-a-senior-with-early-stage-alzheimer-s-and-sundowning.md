@@ -4,7 +4,7 @@ slug: holiday-meals-alzheimers-sundowning
 description: 'Serving familiar dishes before the 4 PM agitation peak (sundowning) cuts mealtime distress ~40%. Single-texture plates and warm lighting ease sensory overload.'
 date: '2026-01-17'
 updated: '2026-03-27'
-primaryKeyword: 'holiday meals that calm sundowning in Alzheimer\'s'
+primaryKeyword: 'holiday meals that calm sundowning in Alzheimer''s'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

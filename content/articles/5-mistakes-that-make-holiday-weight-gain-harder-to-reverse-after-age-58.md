@@ -4,7 +4,7 @@ slug: holiday-weight-loss-mistakes-58
 description: 'After 58, your body burns 0.5-1% fewer calories per year. These 5 slow metabolism (metabolic rate) mistakes explain why holiday weight sticks and how to fix it.'
 date: '2025-12-17'
 updated: '2026-03-27'
-primaryKeyword: 'why holiday weight won\'t come off after 58'
+primaryKeyword: 'why holiday weight won''t come off after 58'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

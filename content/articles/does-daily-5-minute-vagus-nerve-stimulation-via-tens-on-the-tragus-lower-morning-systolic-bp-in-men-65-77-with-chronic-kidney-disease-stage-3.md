@@ -1,7 +1,7 @@
 ---
 title: 'Ear-Clip Nerve Stimulation for Morning BP: Does It Work After 65?'
 slug: does-daily-5-minute-vagus-nerve-stimulation-via-tens-on-the-tragus-lower-morning-systolic-bp-in-men-65-77-with-chronic-kidney-disease-stage-3
-description: 'Stimulating your ear\'s vagus point (transcutaneous auricular VNS) 5 min/day may cut morning systolic surge 6-9 mmHg in men with kidney disease (CKD stage 3).'
+description: 'Stimulating your ear''s vagus point (transcutaneous auricular VNS) 5 min/day may cut morning systolic surge 6-9 mmHg in men with kidney disease (CKD stage 3).'
 date: '2026-01-12'
 updated: '2026-03-27'
 primaryKeyword: 'does ear stimulation lower morning blood pressure'

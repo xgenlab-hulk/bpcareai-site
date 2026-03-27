@@ -1,7 +1,7 @@
 ---
 title: '7 Signs Your Holiday Eating Is Stiffening Your Arteries After 68'
 slug: 7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
-description: 'Normal office BP doesn\'t rule out arterial stiffness. Adults 68+ show early signs—ankle edema, capillary refill delay—after holiday meals high in sodium.'
+description: 'Normal office BP doesn''t rule out arterial stiffness. Adults 68+ show early signs—ankle edema, capillary refill delay—after holiday meals high in sodium.'
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'signs holiday eating is stiffening your arteries after 68'

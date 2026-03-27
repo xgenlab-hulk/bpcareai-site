@@ -1,7 +1,7 @@
 ---
 title: 'Nitric Oxide Nasal Sprays for Morning Hypertension: Hope or Hype?'
 slug: can-daily-12-second-nitric-oxide-nasal-sprays-improve-endothelial-function-in-women-58-69-with-morning-hypertension-and-cold-induced-raynaud-s
-description: 'A 12-second nasal spray may boost vessel relaxation (endothelial function) within 30 min. Early data in women 58-69 with Raynaud\'s shows 4-7 mmHg drops.'
+description: 'A 12-second nasal spray may boost vessel relaxation (endothelial function) within 30 min. Early data in women 58-69 with Raynaud''s shows 4-7 mmHg drops.'
 date: '2026-01-12'
 updated: '2026-03-27'
 primaryKeyword: 'nitric oxide nasal spray for morning blood pressure'

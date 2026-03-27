@@ -1,7 +1,7 @@
 ---
 title: 'Heart Rate Below 52 on Digoxin? Women 65+ With Low Thyroid, Read This'
 slug: when-to-worry-about-normal-resting-heart-rate-dropping-below-52-bpm-in-women-65-on-digoxin-and-with-concomitant-hypothyroidism
-description: 'Low thyroid (hypothyroidism) masks digoxin toxicity — 52 bpm may look \'normal\' while the heart\'s pacemaker node shuts down. Check reverse T3 and PR interval.'
+description: 'Low thyroid (hypothyroidism) masks digoxin toxicity — 52 bpm may look ''normal'' while the heart''s pacemaker node shuts down. Check reverse T3 and PR interval.'
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'heart rate below 52 on digoxin with thyroid problems'

@@ -1,7 +1,7 @@
 ---
 title: 'How Afternoon Sunlight Reduces Liver Glucose Production in Adults With Type 2 Diabetes'
 slug: how-late-afternoon-sunlight-exposure-regulates-hepatic-gluconeogenic-gene-expression-in-adults-60-71-with-type-2-diabetes-via-melanopsin-dependent-scn-signaling-not-vitamin-d
-description: '15-25 minutes of sunlight between 3:30-5 PM activates retinal melanopsin, signaling the brain\'s master clock (SCN) to suppress PEPCK and G6PC—key liver glucose-producing genes.'
+description: '15-25 minutes of sunlight between 3:30-5 PM activates retinal melanopsin, signaling the brain''s master clock (SCN) to suppress PEPCK and G6PC—key liver glucose-producing genes.'
 date: '2026-02-17'
 updated: '2026-03-27'
 primaryKeyword: 'afternoon sunlight and liver glucose production in type 2 diabetes'

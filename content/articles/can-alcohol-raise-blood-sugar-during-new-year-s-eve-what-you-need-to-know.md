@@ -1,5 +1,5 @@
 ---
-title: 'Can Alcohol Raise Blood Sugar on New Year\'s Eve With Diabetes?'
+title: 'Can Alcohol Raise Blood Sugar on New Year''s Eve With Diabetes?'
 slug: can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
 description: 'Alcohol blocks liver sugar release (gluconeogenesis), raising low blood sugar risk — but eggnog holds 22g sugar per cup. Navigating New Year after 60.'
 date: '2025-12-25'

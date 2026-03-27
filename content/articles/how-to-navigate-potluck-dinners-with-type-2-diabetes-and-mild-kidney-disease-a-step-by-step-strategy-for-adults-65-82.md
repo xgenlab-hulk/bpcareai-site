@@ -1,7 +1,7 @@
 ---
 title: 'Potluck Survival Guide for Seniors With Diabetes and Kidney Disease'
 slug: how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82
-description: 'Control your plate when you can\'t control the menu. Caps phosphorus under 800mg and buffers after-meal sugar (postprandial glucose) by 20-30 mg/dL.'
+description: 'Control your plate when you can''t control the menu. Caps phosphorus under 800mg and buffers after-meal sugar (postprandial glucose) by 20-30 mg/dL.'
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'potluck meal strategy with diabetes and kidney disease'

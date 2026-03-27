@@ -1,7 +1,7 @@
 ---
 title: 'Chest Pain With Clear Arteries? 10 Foods That Help After 62'
 slug: 10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
-description: 'In adults 62-76 with chest pain from tiny vessel spasms (microvascular angina), raw broccoli\'s sulforaphane boosts antioxidant defenses 2.3x. Cooking kills 70%.'
+description: 'In adults 62-76 with chest pain from tiny vessel spasms (microvascular angina), raw broccoli''s sulforaphane boosts antioxidant defenses 2.3x. Cooking kills 70%.'
 date: '2026-01-12'
 updated: '2026-03-27'
 primaryKeyword: 'foods that help chest pain with clear arteries in seniors'

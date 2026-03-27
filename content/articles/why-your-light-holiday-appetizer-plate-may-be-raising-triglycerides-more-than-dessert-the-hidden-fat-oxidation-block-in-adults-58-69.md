@@ -1,5 +1,5 @@
 ---
-title: 'Why \'Light\' Appetizer Plates Spike Triglycerides More Than Dessert'
+title: 'Why ''Light'' Appetizer Plates Spike Triglycerides More Than Dessert'
 slug: why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
 description: 'Low-protein cheese boards block fat burning (fat oxidation) in aging cells. Adults 58-69 clear triglycerides 35% slower from appetizers than from pie.'
 date: '2026-01-11'

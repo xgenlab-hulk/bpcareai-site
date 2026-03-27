@@ -1,5 +1,5 @@
 ---
-title: 'BP Won\'t Dip at Night After Cancer Meds? Guide for Women 72+'
+title: 'BP Won''t Dip at Night After Cancer Meds? Guide for Women 72+'
 slug: nighttime-bp-wont-dip-cancer-meds-women-72
 description: 'Ovary removal and aromatase inhibitors disrupt nighttime BP dipping (nocturnal hypertension). Learn 3 Medicare-covered tests and timing fixes for women 72+.'
 date: '2026-02-13'

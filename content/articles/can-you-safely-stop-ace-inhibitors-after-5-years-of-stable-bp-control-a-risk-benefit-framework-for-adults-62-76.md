@@ -1,7 +1,7 @@
 ---
 title: 'Can You Safely Stop ACE Inhibitors After 5 Years of Stable BP?'
 slug: can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
-description: 'Up to 30% of adults over 60 develop rebound high blood pressure (hypertension) after stopping ACE inhibitors due to elevated renin. Stable BP isn\'t enough.'
+description: 'Up to 30% of adults over 60 develop rebound high blood pressure (hypertension) after stopping ACE inhibitors due to elevated renin. Stable BP isn''t enough.'
 date: '2025-12-26'
 updated: '2026-03-27'
 primaryKeyword: 'is it safe to stop ACE inhibitors after stable BP'

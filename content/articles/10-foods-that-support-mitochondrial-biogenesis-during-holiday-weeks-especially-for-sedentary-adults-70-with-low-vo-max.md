@@ -1,5 +1,5 @@
 ---
-title: '10 Foods That Rebuild Energy When You\'re Sedentary After 70'
+title: '10 Foods That Rebuild Energy When You''re Sedentary After 70'
 slug: energy-boosting-foods-seniors-over-70
 description: 'Low aerobic capacity (VO2 max) under 18 mL/kg/min signals mitochondrial decline. These foods stimulate cellular energy renewal in sedentary adults over 70.'
 date: '2026-01-02'

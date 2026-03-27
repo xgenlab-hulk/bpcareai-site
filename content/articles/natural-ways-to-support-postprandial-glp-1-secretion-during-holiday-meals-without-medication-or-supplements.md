@@ -1,5 +1,5 @@
 ---
-title: 'Boost Your Gut\'s Fullness Hormone (GLP-1) at Holiday Meals'
+title: 'Boost Your Gut''s Fullness Hormone (GLP-1) at Holiday Meals'
 slug: natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
 description: 'Bitter foods before eating raise the fullness hormone (GLP-1) 18-25% in adults 60+. Chewing pace and cold-pressed bitter melon juice amplify L-cell output.'
 date: '2026-01-13'

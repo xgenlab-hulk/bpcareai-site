@@ -4,7 +4,7 @@ slug: holiday-cookies-blood-sugar-swaps-cgm-55-72
 description: 'CGM trials in adults 55-72 confirmed these 12 swaps cut peak glucose spikes by up to 40%, keeping glycemic load (blood sugar impact) per serving below 5.'
 date: '2026-01-05'
 updated: '2026-03-27'
-primaryKeyword: 'Christmas cookie swaps that don\'t spike blood sugar'
+primaryKeyword: 'Christmas cookie swaps that don''t spike blood sugar'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,5 +1,5 @@
 ---
-title: 'Skipping Your Water Pill After Thanksgiving? Why That\'s Risky After 67'
+title: 'Skipping Your Water Pill After Thanksgiving? Why That''s Risky After 67'
 slug: myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
 description: 'One skipped water pill (diuretic) after a high-sodium meal raises fluid 1.5-2 liters in 18 hours — enough to trigger acute heart failure in adults 67-81.'
 date: '2026-01-12'

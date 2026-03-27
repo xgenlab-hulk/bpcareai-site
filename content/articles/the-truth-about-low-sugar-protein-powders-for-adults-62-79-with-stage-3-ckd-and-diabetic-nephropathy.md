@@ -1,7 +1,7 @@
 ---
 title: 'Low-Sugar Protein Powders With CKD: Hidden Risks for Adults 62-79'
 slug: the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
-description: '\'Low-sugar\' powders swap in maltodextrin, spiking glucose 25-40 mg/dL. Hidden phosphorus drives kidney toxin buildup (uremic toxin generation) in stage 3 CKD.'
+description: '''Low-sugar'' powders swap in maltodextrin, spiking glucose 25-40 mg/dL. Hidden phosphorus drives kidney toxin buildup (uremic toxin generation) in stage 3 CKD.'
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'are low-sugar protein powders safe with kidney disease'

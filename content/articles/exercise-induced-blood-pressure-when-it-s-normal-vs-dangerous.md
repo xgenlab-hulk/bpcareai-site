@@ -1,5 +1,5 @@
 ---
-title: 'Exercise-Induced Blood Pressure: What\'
+title: 'Exercise-Induced Blood Pressure: What''s Normal vs Dangerous After 55'
 slug: exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
 description: 'Systolic BP of 180-200 mm Hg during exertion is normal after 55. Above 220/105 mm Hg signals EHR (exaggerated hypertensive response), a cardiac risk marker.'
 date: '2025-12-03'

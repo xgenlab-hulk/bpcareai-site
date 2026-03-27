@@ -1,7 +1,7 @@
 ---
 title: 'Chest ECG Monitors on Flights: What Pacemaker Users 72+ Need'
 slug: 5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes
-description: 'Cabin pressure drops shift chest ECG impedance 12-18%, producing false ST changes. Wrist devices fail worse — here\'s what reads accurately at 35,000 ft.'
+description: 'Cabin pressure drops shift chest ECG impedance 12-18%, producing false ST changes. Wrist devices fail worse — here''s what reads accurately at 35,000 ft.'
 date: '2026-01-12'
 updated: '2026-03-27'
 primaryKeyword: 'can I wear a chest ECG monitor on a plane with a pacemaker'

@@ -1,7 +1,7 @@
 ---
-title: 'New Year\'s Eve Party Safe for Your Parent 65+? (5 Tips)'
+title: 'New Year''s Eve Party Safe for Your Parent 65+? (5 Tips)'
 slug: new-years-eve-party-safety-seniors
-description: 'Loud parties raise BP 10-15 mmHg even seated. 5 ways to prevent irregular heartbeat (holiday heart syndrome) and keep parents 65+ safe on New Year\'s Eve.'
+description: 'Loud parties raise BP 10-15 mmHg even seated. 5 ways to prevent irregular heartbeat (holiday heart syndrome) and keep parents 65+ safe on New Year''s Eve.'
 date: '2025-12-19'
 updated: '2026-03-27'
 primaryKeyword: 'is a new years eve party safe for my aging parent'

@@ -1,7 +1,7 @@
 ---
 title: '7 Signs Your Nighttime BP Is Spiking on Beta-Blockers After 65'
 slug: 7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
-description: '30% of adults 65+ have non-dipping nocturnal BP that beta-blockers don\'t fully prevent. 7 silent signs blood pressure is spiking overnight with monitoring tips.'
+description: '30% of adults 65+ have non-dipping nocturnal BP that beta-blockers don''t fully prevent. 7 silent signs blood pressure is spiking overnight with monitoring tips.'
 date: '2026-01-04'
 updated: '2026-03-27'
 primaryKeyword: 'signs BP spiking at night on beta blockers over 65'

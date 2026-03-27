@@ -1,5 +1,5 @@
 ---
-title: '5 Heart-Healthy Swaps for Grandma\'s Casserole That Save Flavor'
+title: '5 Heart-Healthy Swaps for Grandma''s Casserole That Save Flavor'
 slug: heart-healthy-casserole-swaps-low-sodium
 description: 'Traditional casseroles pack 1,500+ mg sodium per serving. These 5 swaps cut sodium 40%, boost potassium, and help manage high blood pressure (hypertension).'
 date: '2025-12-17'

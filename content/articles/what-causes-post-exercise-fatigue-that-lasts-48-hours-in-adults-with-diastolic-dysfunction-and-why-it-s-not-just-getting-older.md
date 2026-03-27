@@ -1,7 +1,7 @@
 ---
 title: 'Post-Exercise Fatigue Lasting 48+ Hours? It May Be Heart Stiffness'
 slug: what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
-description: 'A stiff heart chamber (diastolic dysfunction) delays waste removal 2-3x longer than normal. Adults with preserved EF often blame aging, but it\'s fixable.'
+description: 'A stiff heart chamber (diastolic dysfunction) delays waste removal 2-3x longer than normal. Adults with preserved EF often blame aging, but it''s fixable.'
 date: '2026-01-11'
 updated: '2026-03-27'
 primaryKeyword: 'why does exercise fatigue last days with heart stiffness'

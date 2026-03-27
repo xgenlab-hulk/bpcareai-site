@@ -1,7 +1,7 @@
 ---
-title: 'Holiday Buffets and Hashimoto\'s: 5 Strategies for Women 58-67'
+title: 'Holiday Buffets and Hashimoto''s: 5 Strategies for Women 58-67'
 slug: holiday-buffets-thyroid-hashimoto-women
-description: 'Shared utensils spread gluten traces that can spike thyroid hormone levels (TSH) within 48 hours. 5 buffet strategies for women 58-67 with Hashimoto\'s.'
+description: 'Shared utensils spread gluten traces that can spike thyroid hormone levels (TSH) within 48 hours. 5 buffet strategies for women 58-67 with Hashimoto''s.'
 date: '2026-01-28'
 updated: '2026-03-27'
 primaryKeyword: 'holiday buffet thyroid disease tips women 58'

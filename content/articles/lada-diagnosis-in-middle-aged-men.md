@@ -1,7 +1,7 @@
 ---
 title: 'Men 52-64: Could Your Type 2 Diabetes Actually Be Autoimmune (LADA)?'
 slug: when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
-description: 'Up to 10% of adults labeled type 2 have slow autoimmune diabetes (LADA). Rapid pill failure, low C-peptide, and Hashimoto\'s history are 3 key red flags.'
+description: 'Up to 10% of adults labeled type 2 have slow autoimmune diabetes (LADA). Rapid pill failure, low C-peptide, and Hashimoto''s history are 3 key red flags.'
 date: '2026-01-13'
 updated: '2026-03-27'
 primaryKeyword: 'could my type 2 diabetes actually be autoimmune LADA'

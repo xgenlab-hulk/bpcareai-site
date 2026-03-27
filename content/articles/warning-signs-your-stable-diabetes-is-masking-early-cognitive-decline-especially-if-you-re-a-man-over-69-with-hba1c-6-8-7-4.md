@@ -1,5 +1,5 @@
 ---
-title: 'When \'Stable\' Diabetes Hides Memory Decline in Men Over 69'
+title: 'When ''Stable'' Diabetes Hides Memory Decline in Men Over 69'
 slug: warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
 description: 'Even at HbA1c 6.8-7.4%, brain sugar use (hippocampal glucose uptake) drops 15-20%. Medication timing errors and route confusion are early flags.'
 date: '2026-01-11'

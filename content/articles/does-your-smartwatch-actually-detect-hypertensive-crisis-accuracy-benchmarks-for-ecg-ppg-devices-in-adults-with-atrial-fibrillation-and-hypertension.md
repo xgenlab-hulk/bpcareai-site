@@ -2,7 +2,6 @@
 title: 'Can Your Smartwatch Detect a Hypertensive Crisis With AFib?'
 slug: does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension
 description: 'No FDA-cleared smartwatch measures BP directly. PPG sensors (optical pulse readers) have >40% false-negative rates for BP elevation in AFib patients.'
-  >180/110 episodes using paired clinical validation data and AFib interference
 date: '2025-12-30'
 updated: '2026-03-27'
 primaryKeyword: 'smartwatch detect hypertensive crisis accuracy AFib'

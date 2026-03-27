@@ -1,7 +1,7 @@
 ---
 title: 'Should You Take Daily Aspirin Based on Your Coronary Calcium Score After 55'
 slug: a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100
-description: '2024 USPSTF reanalysis shows aspirin\'s net benefit in primary prevention depends on CAC score, sex, and diabetes status—not age alone. Adults with CAC under 100 often see more harm than benefit.'
+description: '2024 USPSTF reanalysis shows aspirin''s net benefit in primary prevention depends on CAC score, sex, and diabetes status—not age alone. Adults with CAC under 100 often see more harm than benefit.'
 date: '2025-12-28'
 updated: '2026-03-27'
 primaryKeyword: 'should I take aspirin based on my coronary calcium score after 55'

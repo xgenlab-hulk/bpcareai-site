@@ -1,5 +1,5 @@
 ---
-title: 'SGLT2 Inhibitors: When \'Normal\' BP Hides Drops After 65'
+title: 'SGLT2 Inhibitors: When ''Normal'' BP Hides Drops After 65'
 slug: when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction
 description: 'Seated BP reads 120/70, but standing drops 20+ mmHg (orthostatic hypotension) in 30% of seniors on SGLT2s. Check BP standing at 1 and 3 min, not just sitting.'
 date: '2026-01-13'

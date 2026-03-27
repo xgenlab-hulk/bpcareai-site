@@ -1,5 +1,5 @@
 ---
-title: '7 Holiday Heart Syndrome Triggers You\'re Experiencing After 55'
+title: '7 Holiday Heart Syndrome Triggers You''re Experiencing After 55'
 slug: 7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
 description: 'Heart rate variability drops 40% by age 60, making holiday stress arrhythmia-prone. 7 non-alcoholic holiday heart syndrome triggers for adults 55+ explained.'
 date: '2025-12-21'

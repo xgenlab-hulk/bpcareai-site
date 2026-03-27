@@ -1,5 +1,5 @@
 ---
-title: 'When \'Healthy\' Holiday Swaps Cause Dangerously Low Sodium After 76'
+title: 'When ''Healthy'' Holiday Swaps Cause Dangerously Low Sodium After 76'
 slug: warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
 description: 'Low-sodium broth plus thiazide diuretics can drop sodium below 130 mEq/L (hyponatremia) in 48 hours. Confused thinking and unsteady gait are early red flags.'
 date: '2026-01-16'

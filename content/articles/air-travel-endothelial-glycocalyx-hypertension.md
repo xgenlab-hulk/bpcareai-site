@@ -1,7 +1,7 @@
 ---
 title: 'How Flying Damages Your Blood Vessel Lining With Hypertension and DVT History'
 slug: how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt
-description: 'Cabin altitude sheds up to 35% of the endothelial glycocalyx (vessels\' protective lining) in 4 hours. Pre-flight hydration and compression socks reduce post-flight NT-proBNP spikes by ~40%.'
+description: 'Cabin altitude sheds up to 35% of the endothelial glycocalyx (vessels'' protective lining) in 4 hours. Pre-flight hydration and compression socks reduce post-flight NT-proBNP spikes by ~40%.'
 date: '2026-01-17'
 updated: '2026-03-27'
 primaryKeyword: 'how flying affects blood vessels with hypertension and DVT history'

@@ -4,7 +4,7 @@ slug: how-chronic-low-dose-cortisol-elevation-from-night-shift-work-alters-renin
 description: 'Night shifts raise cortisol 30-50% at the wrong hour, overdriving the salt-and-BP hormone loop (renin-angiotensin). BP stays elevated during sleep.'
 date: '2026-01-15'
 updated: '2026-03-27'
-primaryKeyword: 'night shift work and high blood pressure that won\'t dip'
+primaryKeyword: 'night shift work and high blood pressure that won''t dip'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

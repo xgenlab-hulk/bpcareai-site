@@ -1,5 +1,5 @@
 ---
-title: 'When \'Normal\' BP Hides Kidney Damage: Mean Arterial Pressure After 72'
+title: 'When ''Normal'' BP Hides Kidney Damage: Mean Arterial Pressure After 72'
 slug: when-to-worry-about-normal-office-bp-and-elevated-ambulatory-mean-arterial-pressure-in-adults-72-with-white-coat-resolved-but-persistent-microalbuminuria
 description: 'Office BP under 140/90 can mask a high average pressure (mean arterial pressure) above 95 mmHg — driving protein leak (microalbuminuria) in adults 72+.'
 date: '2026-01-15'

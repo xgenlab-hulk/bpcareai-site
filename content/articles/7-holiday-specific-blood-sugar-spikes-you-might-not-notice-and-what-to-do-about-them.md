@@ -1,5 +1,5 @@
 ---
-title: '7 Holiday Blood Sugar Spikes You Won\'t Feel — But Your A1C Will'
+title: '7 Holiday Blood Sugar Spikes You Won''t Feel — But Your A1C Will'
 slug: 7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them
 description: 'Skipping breakfast and poor sleep raise blood sugar (glucose) 40-80 mg/dL without symptoms. Adults 55-74 with type 2 diabetes miss about 30% of holiday spikes.'
 date: '2026-01-23'
