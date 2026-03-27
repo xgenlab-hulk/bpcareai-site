@@ -2,8 +2,6 @@
 title: How to Create a Blood Sugar Emergency Kit for Holiday Travel
 slug: how-to-create-a-blood-sugar-emergency-kit-for-holiday-travel
 description: >-
-  A checklist for preparing a portable kit with supplies and instructions for
-  managing hypo- or hyperglycemia while away from home.
 date: '2025-12-02'
 updated: '2025-12-02'
 primaryKeyword: blood sugar emergency kit travel

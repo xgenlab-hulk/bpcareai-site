@@ -2,8 +2,6 @@
 title: '10 Winter-Safe Exercises to Support Heart Health After 65'
 slug: 10-winter-safe-exercises-for-heart-health-after-65
 description: 'Cold air raises cardiac workload up to 30% in adults over 65 via arterial constriction (vasoconstriction). Ten exercises protect heart health through winter.'
-  Lists indoor and outdoor physical activities proven to support cardiovascular
-  function without straining the heart in cold weather.
 date: '2025-12-12'
 updated: '2026-03-27'
 primaryKeyword: 'safe winter exercises for heart health after 65'

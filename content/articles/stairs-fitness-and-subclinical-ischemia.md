@@ -1,14 +1,7 @@
 ---
 title: >-
-  Myths vs Facts: 'My Heart Is Strong Because I Climb Stairs Easily' — What
-  Stress Echocardiography Reveals About Subclinical Ischemia in Adults 55–64
-  With Family History
-slug: >-
-  myths-vs-facts-my-heart-is-strong-because-i-climb-stairs-easily-what-stress-echocardiography-reveals-about-subclinical-ischemia-in-adults-55-64-with-family-history
+slug: myths-vs-facts-my-heart-is-strong-because-i-climb-stairs-easily-what-stress-echocardiography-reveals-about-subclinical-ischemia-in-adults-55-64-with-family-history
 description: >-
-  Debunks fitness-as-protection assumptions using stress echo data showing
-  inducible ischemia in metabolically healthy, physically active adults with
-  genetic risk.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: stairs fitness and subclinical ischemia
@@ -16,15 +9,10 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
   - >-
-    7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
-    when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
   - >-
-    myths-vs-facts-stable-heart-disease-means-no-progression-what-2024-imaging-studies-reveal-about-silent-plaque-erosion-in-adults-58-66-with-controlled-bp-and-ldl
 ---
 
 # “I Climb Stairs Easily—My Heart Must Be Fine!”: Why Stairs Fitness and Subclinical Ischemia Don’t Always Go Hand in Hand

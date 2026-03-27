@@ -2,8 +2,6 @@
 title: Why Older Women Are More Vulnerable to Seasonal Depression in Winter
 slug: why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
 description: >-
-  Examine hormonal, social, and biological factors that increase seasonal mood
-  disorder risk in women over 60.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: seasonal depression in older women

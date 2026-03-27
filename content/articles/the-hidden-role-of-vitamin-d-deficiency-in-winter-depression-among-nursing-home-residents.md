@@ -1,12 +1,7 @@
 ---
 title: >-
-  The Hidden Role of Vitamin D Deficiency in Winter Depression Among Nursing
-  Home Residents
-slug: >-
-  the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
+slug: the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
 description: >-
-  Focus on institutionalized seniors with limited sun exposure and how
-  supplementation may improve mood outcomes.
 date: '2025-12-09'
 updated: '2025-12-09'
 primaryKeyword: vitamin d deficiency in nursing homes

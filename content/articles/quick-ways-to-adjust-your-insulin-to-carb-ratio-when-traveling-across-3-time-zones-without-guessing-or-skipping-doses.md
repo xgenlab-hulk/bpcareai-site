@@ -1,7 +1,6 @@
 ---
 title: 'How to Adjust Your Insulin Dose When Flying Across Time Zones'
-slug: >-
-  quick-ways-to-adjust-your-insulin-to-carb-ratio-when-traveling-across-3-time-zones-without-guessing-or-skipping-doses
+slug: quick-ways-to-adjust-your-insulin-to-carb-ratio-when-traveling-across-3-time-zones-without-guessing-or-skipping-doses
 description: 'Crossing 3+ time zones shifts your carb-to-insulin ratio (ICR) by 15-25%. A 3-step basal taper plus airport snack protocol keeps glucose within 70-180 mg/dL.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
   - >-
-    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
   - >-
-    the-ultimate-guide-to-adjusting-rapid-acting-insulin-dosing-for-multi-course-holiday-dinners-with-carb-counting-fat-protein-factor-and-alcohol-adjustment-rules
   - >-
-    holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 ---
 
 # Smart, Stress-Free Insulin-to-Carb Ratio Adjustments for Time Zone Travel — A Practical Guide for Adults with Diabetes

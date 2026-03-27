@@ -1,15 +1,7 @@
 ---
 title: 'Magnesium Threonate vs. Glycinate for Nighttime BP Dipping'
-  A vs B: Evening Magnesium Threonate vs. Morning Magnesium Glycinate for
-  Improving Nocturnal BP Dipping in Women 66–79 With Non-Dipping Pattern and
-  Sleep Fragmentation
-slug: >-
-  a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
+slug: a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
 description: 'Magnesium threonate enters brain fluid (CSF), improving nighttime BP dipping 8-12% vs. glycinate in women 66-79 with non-dipping. Timing and dose form matter.'
-  Compares tissue bioavailability, circadian receptor affinity, and CSF
-  penetration of two magnesium forms—and how timing and chelation affect
-  autonomic balance, melatonin signaling, and overnight systolic reduction in
-  women with masked nocturnal hypertension.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'magnesium threonate vs glycinate for nighttime BP'
@@ -17,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes
   - >-
-    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
   - >-
-    quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-
-    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
 ---
 
 # Magnesium Threonate vs Glycinate for Nocturnal BP Dipping: What Women 66–79 With Non-Dipping Patterns Should Know

@@ -1,7 +1,6 @@
 ---
 title: Flushing Extra Sodium After Holiday Soups With CKD Stage 3
-slug: >-
-  quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
+slug: quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
 description: At 30-59 mL/min kidney filtering (CKD stage 3), salty soup lingers. Pre-meal bicarbonate water and potassium timing boost sodium clearance (natriuresis).
 date: '2026-01-29'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
   - >-
-    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
   - >-
-    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
-    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
   - >-
-    can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
 ---
 
 # Supporting Sodium Excretion in CKD Stage 3 During Holiday Soups — Gentle, Practical Steps for Adults 63+

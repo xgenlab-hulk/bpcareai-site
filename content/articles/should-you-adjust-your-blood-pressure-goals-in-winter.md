@@ -2,8 +2,6 @@
 title: Should You Adjust Your Blood Pressure Goals in Winter?
 slug: should-you-adjust-your-blood-pressure-goals-in-winter
 description: >-
-  Discusses whether seasonal variations warrant temporary changes in target
-  blood pressure readings for older patients.
 date: '2025-11-28'
 updated: '2025-11-28'
 primaryKeyword: seasonal blood pressure goals

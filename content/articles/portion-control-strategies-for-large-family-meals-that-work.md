@@ -2,8 +2,6 @@
 title: Portion Control Strategies for Large Family Meals That Work
 slug: portion-control-strategies-for-large-family-meals-that-work
 description: >-
-  Provides visual cues, plate division methods, and serving techniques to help
-  older adults avoid overeating at shared dinners.
 date: '2025-12-13'
 updated: '2025-12-13'
 primaryKeyword: portion control at family meals
@@ -14,7 +12,6 @@ relatedSlugs:
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---
 

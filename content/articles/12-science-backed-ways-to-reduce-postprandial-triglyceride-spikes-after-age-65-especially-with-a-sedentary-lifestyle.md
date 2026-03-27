@@ -1,7 +1,6 @@
 ---
 title: 'Blood Fats Spiking After Meals? 12 Gentle Fixes for Seniors 65+'
-slug: >-
-  12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
+slug: 12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 description: 'A 5-min post-meal walk boosts fat clearance (triglyceride clearance) up to 40% in adults 65+. Fiber-first eating cuts spikes 15%—no gym or diet overhaul needed.'
 date: '2025-12-21'
 updated: '2026-03-27'
@@ -10,11 +9,9 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - >-
-    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 

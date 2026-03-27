@@ -1,7 +1,6 @@
 ---
 title: "Blood Pressure Swings Before Tremors — An Early Clue to Parkinson’s"
-slug: >-
-  what-research-says-about-blood-pressure-variability-in-adults-58-67-with-early-parkinson-s-disease-before-motor-symptoms-emerge
+slug: what-research-says-about-blood-pressure-variability-in-adults-58-67-with-early-parkinson-s-disease-before-motor-symptoms-emerge
 description: "7-day home monitoring shows BP shifts of 20+ mmHg in adults 58-67 — a sign of nerve damage (autonomic dysfunction) years before motor symptoms."
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
   - >-
-    what-are-the-earliest-gait-changes-linked-to-orthostatic-hypotension-in-adults-with-parkinson-s-disease-stage-2
   - >-
-    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
   - >-
-    what-research-says-about-blood-pressure-variability-as-a-predictor-of-cognitive-decline-in-women-60-74-with-normal-mean-bp-but-high-visit-to-visit-sd
   - >-
-    what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear
 ---
 
 # Blood Pressure Variability Early in Parkinson’s: What Science Is Learning About Subtle Changes Before Diagnosis

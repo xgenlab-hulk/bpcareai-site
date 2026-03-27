@@ -2,8 +2,6 @@
 title: How Standing Up Too Fast Affects Blood Pressure in Older Adults
 slug: how-standing-up-too-fast-affects-blood-pressure-in-older-adults
 description: >-
-  Understand orthostatic hypotension and why sudden movements can cause
-  dizziness and falls in seniors.
 date: '2025-11-26'
 updated: '2025-11-26'
 primaryKeyword: standing up fast and blood pressure drop elderly

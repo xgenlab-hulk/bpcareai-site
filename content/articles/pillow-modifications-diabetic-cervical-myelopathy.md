@@ -1,7 +1,6 @@
 ---
 title: "Pillow Setups That Protect Neck Nerves and Steady Overnight Glucose"
-slug: >-
-  best-pillow-modifications-for-adults-64-with-diabetic-cervical-myelopathy-and-orthopnea-balancing-cervical-alignment-airway-patency-and-brachial-plexus-decompression
+slug: best-pillow-modifications-for-adults-64-with-diabetic-cervical-myelopathy-and-orthopnea-balancing-cervical-alignment-airway-patency-and-brachial-plexus-decompression
 description: "A 15-20\u00B0 wedge plus low-profile neck pillow cut low-oxygen events 22% and fasting glucose 18 mg/dL in adults 60+ with spinal cord damage (cervical myelopathy)."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
   - >-
-    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
   - >-
-    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
   - >-
-    how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
   - >-
-    natural-ways-to-stabilize-overnight-glucose-without-adjusting-basal-insulin-using-bedtime-protein-timing-foot-warming-and-diaphragmatic-breathing-in-adults-59-66-with-nocturnal-hypoglycemia
 ---
 
 # Smart Pillow Modifications for Adults 64+ With Diabetic Cervical Myelopathy and Orthopnea  

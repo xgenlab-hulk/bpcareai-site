@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Truth About 'Heart-Healthy' Frozen Dinners Marketed to Seniors — Why 74%
-  Contain Hidden Sodium-Potassium Imbalance Triggers in Adults 78+ With Mild
-  Diastolic Dysfunction
-slug: >-
-  the-truth-about-heart-healthy-frozen-dinners-marketed-to-seniors-why-74-contain-hidden-sodium-potassium-imbalance-triggers-in-adults-78-with-mild-diastolic-dysfunction
+slug: the-truth-about-heart-healthy-frozen-dinners-marketed-to-seniors-why-74-contain-hidden-sodium-potassium-imbalance-triggers-in-adults-78-with-mild-diastolic-dysfunction
 description: >-
-  Investigates how commercially labeled 'low-sodium' frozen meals use potassium
-  chloride substitutes that disrupt RAAS balance in older adults with preserved
-  EF but impaired ventricular relaxation.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: frozen dinners and blood pressure seniors
@@ -16,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-adults-73-with-stage-3-ckd-and-systolic-heart-failure
   - >-
-    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
-    the-truth-about-low-sodium-canned-soups-marketed-to-seniors-why-83-contain-unlabeled-potassium-chloride-blends-that-trigger-hyperkalemic-bradycardia-in-adults-76-with-ckd-stage-3
 ---
 
 # What You Should Know About Frozen Dinners and Blood Pressure Seniors — Especially If You're in Your 70s or 80s

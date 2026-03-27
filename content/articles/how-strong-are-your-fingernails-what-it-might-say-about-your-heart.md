@@ -2,8 +2,6 @@
 title: How Strong Are Your Fingernails? What It Might Say About Your Heart
 slug: how-strong-are-your-fingernails-what-it-might-say-about-your-heart
 description: >-
-  Uncover the surprising link between nail health and potential cardiovascular
-  issues in older adults.
 date: '2025-11-30'
 updated: '2025-11-30'
 primaryKeyword: fingernail health and heart disease signs

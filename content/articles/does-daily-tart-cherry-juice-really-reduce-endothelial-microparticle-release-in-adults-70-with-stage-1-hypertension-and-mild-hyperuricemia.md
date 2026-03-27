@@ -1,13 +1,7 @@
 ---
 title: 'Tart Cherry Juice and Vascular Health in Adults Over 70'
-  Does Daily Tart Cherry Juice *Really* Reduce Endothelial Microparticle Release
-  in Adults 70+ With Stage 1 Hypertension and Mild Hyperuricemia?
-slug: >-
-  does-daily-tart-cherry-juice-really-reduce-endothelial-microparticle-release-in-adults-70-with-stage-1-hypertension-and-mild-hyperuricemia
+slug: does-daily-tart-cherry-juice-really-reduce-endothelial-microparticle-release-in-adults-70-with-stage-1-hypertension-and-mild-hyperuricemia
 description: 'Tart cherry juice reduced endothelial microparticles (vessel lining fragments) by 18% in adults over 70 with stage 1 hypertension and elevated uric acid.'
-  Evaluates clinical trial data on anthocyanin-rich tart cherry interventions —
-  focusing on endothelial-derived microparticles (CD31+/CD42b−), uric acid
-  interaction, and dosing precision.
 date: '2026-02-22'
 updated: '2026-03-27'
 primaryKeyword: 'tart cherry juice endothelial health hypertension over 70'
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-slow-steeped-hibiscus-infused-sparkling-water-vs-sugar-free-cranberry-mocktail-impact-on-endothelial-flow-mediated-dilation-in-adults-65-with-mild-hypertension
   - >-
-    what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
   - >-
-    a-vs-b-evening-tart-cherry-juice-8-oz-vs-standard-melatonin-1-mg-impact-on-nocturnal-systolic-bp-and-sleep-architecture-in-adults-64-80-with-insomnia-and-non-dipping
   - >-
-    natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria
   - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
 ---
 
 # Can Tart Cherry Juice Endothelial Microparticles Help Support Vascular Health in Adults 70+ With Mild High Blood Pressure and Elevated Uric Acid?

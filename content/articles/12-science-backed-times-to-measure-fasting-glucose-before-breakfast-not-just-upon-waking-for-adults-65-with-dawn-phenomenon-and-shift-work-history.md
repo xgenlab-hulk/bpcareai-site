@@ -1,10 +1,7 @@
 ---
 title: '12 Best Times to Test Fasting Glucose With Dawn Phenomenon After 65'
-  Fasting Glucose High Every Morning? (Dawn Guide Shift Workers 65+)
-slug: >-
-  fasting-glucose-dawn-shift-workers
+slug: fasting-glucose-dawn-shift-workers
 description: 'Cortisol peaks 30-45 minutes after waking, pushing glucose 15-25 mg/dL higher in adults with dawn phenomenon (early morning sugar surge) and shift work history.'
-  Morning blood sugar high despite fasting? Discover 12 proven glucose test times aligned with your cortisol rhythm—especially after shift work. Essential guide for adults 65+ with dawn phenomenon.
 date: '2026-02-08'
 updated: '2026-03-27'
 primaryKeyword: 'best time to check fasting glucose with dawn effect at 65'
@@ -12,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-times-of-day-to-test-fasting-glucose-based-on-circadian-rhythms-of-hepatic-gluconeogenesis-in-adults-63-with-dawn-phenomenon
   - >-
-    12-science-backed-times-to-check-your-glucose-during-the-holidays-based-on-circadian-ampk-activation-peaks-in-adults-70-with-sarcopenia-and-insulin-resistance
   - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
   - >-
-    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
   - >-
-    quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
 ---
 
 # Optimizing Fasting Glucose Measurement Timing for Older Adults With Dawn Phenomenon and Shift Work History

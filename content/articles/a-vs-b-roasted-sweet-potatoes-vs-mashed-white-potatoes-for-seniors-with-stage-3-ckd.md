@@ -1,13 +1,7 @@
 ---
 title: 'Sweet Potatoes vs White Potatoes for Seniors With Stage 3 Kidney Disease'
-  A vs B: Roasted Sweet Potatoes vs Mashed White Potatoes for Seniors with Stage
-  3 CKD
-slug: >-
-  a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+slug: a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
 description: 'Sweet potatoes have ~475 mg potassium per half cup vs ~325 mg in boiled white potatoes. Roasting concentrates potassium, making preparation method critical for CKD (eGFR 30-59) safety.'
-  Compares potassium, phosphorus, sodium, and glycemic load between two holiday
-  staples—includes lab-guided portion limits, leaching techniques for sweet
-  potatoes, and low-phos seasoning alternatives suitable for renal diets.
 date: '2025-12-21'
 updated: '2026-03-27'
 primaryKeyword: 'sweet potatoes vs white potatoes for stage 3 kidney disease seniors'
@@ -15,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
   - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - >-
-    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
 ---
 
 # Sweet Potatoes vs White Potatoes for CKD Seniors: A Renal-Friendly Holiday Comparison

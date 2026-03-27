@@ -1,14 +1,7 @@
 ---
 title: >-
-  Warning Signs Your Holiday Leftovers Are Causing Subclinical Gut Dysbiosis —
-  Not Just Bloating — In Adults 70+ With Long-Term PPI Use
-slug: >-
-  warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use
+slug: warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use
 description: >-
-  Links delayed satiety, mid-afternoon brain fog, and subtle stool texture
-  changes to fermented carbohydrate intolerance and hydrogen sulfide
-  overproduction — with simple at-home testing and targeted prebiotic
-  adjustments.
 date: '2026-02-28'
 updated: '2026-02-28'
 primaryKeyword: holiday leftovers gut dysbiosis ppi seniors
@@ -16,13 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
   - holiday-leftovers-sibo-early-signs-seniors
   - >-
-    when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
   - sudden-bloating-after-holiday-dinner
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
 ---
 
 # When Holiday Leftovers and Long-Term PPI Use Quietly Shift Your Gut Balance — A Gentle Guide for Seniors 70+

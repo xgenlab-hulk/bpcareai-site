@@ -2,8 +2,6 @@
 title: The Best Indoor Exercises for Blood Pressure Control in Winter
 slug: the-best-indoor-exercises-for-blood-pressure-control-in-winter
 description: >-
-  Highlights safe, effective at-home workouts tailored for seniors to maintain
-  cardiovascular fitness and stable blood pressure during winter months.
 date: '2025-12-04'
 updated: '2025-12-04'
 primaryKeyword: indoor exercises for seniors

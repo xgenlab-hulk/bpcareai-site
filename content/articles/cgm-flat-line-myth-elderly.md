@@ -1,14 +1,7 @@
 ---
 title: 'Flat CGM Lines After 65? Why Stable Readings May Be Lying'
-  Myths vs Facts: 'My Blood Sugar Is Fine Because My CGM Shows Flat Lines' —
-  Especially for Adults Over 65 With Sluggish Interstitial Fluid Turnover and
-  Delayed Glucose Signal
-slug: >-
-  myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal
+slug: myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal
 description: 'Aging skin slows glucose to sensors by 12-18 min, masking real spikes. Fingerstick checks within 30 min of meals catch what your monitor (CGM) misses.'
-  Debunks the false reassurance of stable CGM traces in aging tissue—detailing
-  interstitial lag, sensor drift in low-perfusion areas, and why fingerstick
-  validation windows matter more than ever.
 date: '2026-01-13'
 updated: '2026-03-27'
 primaryKeyword: 'why flat CGM readings can be misleading after 65'
@@ -16,15 +9,10 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery
   - >-
-    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
   - >-
-    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
-    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
-    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
 ---
 
 # “My CGM Shows Flat Lines — So I Must Be Fine!”: Debunking the CGM Flat Line Myth Elderly Adults Often Believe

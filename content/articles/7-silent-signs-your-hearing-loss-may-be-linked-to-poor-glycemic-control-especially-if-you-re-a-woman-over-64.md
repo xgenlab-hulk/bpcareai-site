@@ -1,13 +1,7 @@
 ---
 title: 'Is Your Hearing Loss Linked to Blood Sugar? 7 Signs in Women Over 64'
-  7 Silent Signs Your Hearing Loss May Be Linked to Poor Glycemic
-  Control—Especially If You’re a Woman Over 64
-slug: >-
-  7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
+slug: 7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
 description: 'HbA1c fluctuations accelerate sensorineural hearing loss (cochlear damage) in women 64+. 7 signs your hearing loss and poor glycemic control may be connected.'
-  Details the bidirectional relationship between diabetic sensorineural hearing
-  loss and HbA1c stability, including audiogram red flags and when to request
-  otologic referral alongside endocrinology follow-up.
 date: '2026-01-10'
 updated: '2026-03-27'
 primaryKeyword: 'hearing loss linked to blood sugar control in women 64'
@@ -16,9 +10,7 @@ image: ''
 relatedSlugs:
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
-    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
   - >-
-    7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
 ---

@@ -1,14 +1,7 @@
 ---
 title: 'How to Adjust Cardiac Rehab for Post-COVID Heart Fatigue After 70'
-  Simple Steps to Adjust Your Cardiac Rehab Routine for Post-COVID Myocardial
-  Fatigue—Especially If You're Over 70 and Experienced Subclinical Troponin
-  Elevation
-slug: >-
-  simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation
+slug: simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation
 description: '68% of adults 65+ with post-COVID heart enzyme rise (troponin elevation) had reduced heart rate variability at rest per JAMA 2023. A 4-phase plan helps.'
-  Outlines a 4-phase return-to-exertion framework prioritizing HRV-guided
-  pacing, symptom-limited isometric tolerance, and delayed progression to
-  dynamic workloads—based on 2023 ACC consensus pathways.
 date: '2025-12-28'
 updated: '2026-03-27'
 primaryKeyword: 'cardiac rehab for post-COVID heart fatigue over 70'
@@ -16,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
   - >-
-    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
   - >-
-    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
   - >-
-    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
   - >-
-    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
 ---
 
 # Gentle, Smart Steps to Restart Cardiac Rehab After COVID—Especially With Myocardial Fatigue Over Age 70

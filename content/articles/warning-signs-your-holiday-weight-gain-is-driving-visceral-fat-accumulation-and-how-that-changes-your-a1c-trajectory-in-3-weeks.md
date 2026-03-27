@@ -1,13 +1,7 @@
 ---
 title: >-
-  Warning Signs Your Holiday Weight Gain Is Driving Visceral Fat
-  Accumulation—And How That Changes Your A1c Trajectory in 3 Weeks
-slug: >-
-  warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
+slug: warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
 description: >-
-  Connects subtle physical and lab changes (e.g., waist-to-height ratio shift,
-  morning thirst despite normal A1c, elevated ALT) to early insulin resistance
-  escalation.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: holiday weight gain visceral fat warning signs
@@ -15,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - >-
-    does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
   - >-
-    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
 ---
 
 # Holiday Weight Gain Visceral Fat Warning Signs: What Subtle Changes May Signal Early Blood Sugar Shifts

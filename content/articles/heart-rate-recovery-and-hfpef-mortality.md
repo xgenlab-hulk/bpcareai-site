@@ -1,14 +1,7 @@
 ---
 title: >-
-  Why Does Heart Rate Recovery After 6-Minute Walk Testing Predict 5-Year
-  Mortality Better Than Peak VO₂ in Adults 75+ With Heart Failure With Preserved
-  Ejection Fraction?
-slug: >-
-  why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction
+slug: why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction
 description: >-
-  Examines autonomic, mitochondrial, and skeletal muscle perfusion mechanisms
-  linking abnormal HRR (≤12 bpm at 1 min) to all-cause mortality in HFpEF
-  patients, controlling for frailty and sarcopenia metrics.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: heart rate recovery and hfpef mortality
@@ -16,15 +9,10 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
   - >-
-    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
   - >-
-    what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
   - >-
-    the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
   - >-
-    why-heart-failure-with-preserved-ejection-fraction-hfpef-often-masquerades-as-just-aging-in-women-70-and-how-a-3-minute-sitting-to-standing-test-can-reveal-it
 ---
 
 # Why Heart Rate Recovery After a 6-Minute Walk Test Is a Stronger Predictor of 5-Year Mortality Than Peak VO₂ in Older Adults With HFpEF

@@ -1,7 +1,6 @@
 ---
 title: "Cardiac MRI T1 Mapping: What It Reveals When Echo Looks Normal"
-slug: >-
-  the-complete-guide-to-interpreting-cardiac-mri-t1-mapping-and-ecv-in-adults-63-77-with-unexplained-dyspnea-and-normal-echocardiograms
+slug: the-complete-guide-to-interpreting-cardiac-mri-t1-mapping-and-ecv-in-adults-63-77-with-unexplained-dyspnea-and-normal-echocardiograms
 description: Native T1 above 1100ms flags hidden scarring (diffuse fibrosis) that echo misses. ECV mapping detects amyloid in adults 63-77 with unexplained breathlessness.
 date: '2026-01-21'
 updated: 2026-03-26
@@ -10,13 +9,9 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-interpreting-your-cardiac-mri-stress-perfusion-scan-especially-if-you-have-microvascular-angina-and-normal-coronary-angiogram
   - >-
-    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
   - >-
-    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
   - >-
-    myths-vs-facts-my-heart-is-fine-because-my-ekg-is-normal-what-cardiac-mri-strain-mapping-reveals-in-adults-56-68-with-recurrent-palpitations-and-no-structural-disease
 ---
 
 # Understanding Cardiac MRI T1 Mapping Interpretation: A Clear Guide for Adults 63–77 With Unexplained Shortness of Breath

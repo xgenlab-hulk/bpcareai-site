@@ -1,7 +1,6 @@
 ---
 title: New Palpitations During Meditation? What It Means With Aortic Stenosis
-slug: >-
-  when-to-worry-about-new-onset-palpitations-during-morning-meditation-in-adults-66-79-with-known-aortic-stenosis-and-mild-lvot-obstruction
+slug: when-to-worry-about-new-onset-palpitations-during-morning-meditation-in-adults-66-79-with-known-aortic-stenosis-and-mild-lvot-obstruction
 description: Deep relaxation triggers a nerve rebound (parasympathetic surge) that can unmask dangerous rhythms in adults 66-79 with a narrowed valve (aortic stenosis).
 date: '2026-01-21'
 updated: 2026-03-26
@@ -11,12 +10,9 @@ image: ''
 relatedSlugs:
   - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
   - >-
-    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
   - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
   - >-
-    can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index
 ---
 
 # When Palpitations During Morning Meditation Signal Something Important in Adults 66–79 With Aortic Stenosis

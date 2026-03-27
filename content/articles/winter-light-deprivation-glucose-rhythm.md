@@ -1,15 +1,7 @@
 ---
 title: 'Winter Light Loss and Rising Blood Sugar: The Eye-Liver Link'
-  How Indoor Winter Light Deprivation Alters Retinal Dopamine Signaling and
-  Disrupts Hepatic Glucose Production Rhythms in Adults 64–80 With Type 2
-  Diabetes and Seasonal Affective Symptoms
-slug: >-
-  how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
+slug: how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
 description: 'Dim winter light disrupts eye-to-liver clock signals (SCN-liver axis), raising fasting glucose 10-20 mg/dL. Morning 10,000-lux light for 30 min recalibrates it.'
-  Connects retinal photoreceptor dysfunction to SCN–liver axis
-  dysregulation—explaining winter glucose surges and offering
-  non-pharmacological light-timing interventions with measurable metabolic
-  outcomes.
 date: '2026-01-13'
 updated: '2026-03-27'
 primaryKeyword: 'why does blood sugar get worse in winter less light'
@@ -17,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
   - >-
-    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
   - >-
-    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
 ---
 
 # How Winter Light Deprivation Disrupts Glucose Rhythms—and What You Can Do About It

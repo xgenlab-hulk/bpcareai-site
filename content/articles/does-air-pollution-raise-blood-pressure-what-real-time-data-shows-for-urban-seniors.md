@@ -1,13 +1,7 @@
 ---
 title: 'Does Air Pollution Raise Blood Pressure? Data for Urban Seniors'
-  Does Air Pollution Raise Blood Pressure? What Real-Time Data Shows for Urban
-  Seniors
-slug: >-
-  does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
+slug: does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
 description: 'Every 10 mcg/m3 rise in fine particles (PM2.5) raises systolic BP by 1.8-3.2 mmHg within hours; seniors with hypertension benefit from indoor filtration.'
-  Translates EPA and WHO air quality index (AQI) thresholds into actionable BP
-  risk levels—plus indoor mitigation tactics and timing adjustments for walks,
-  meds, and outdoor errands in high-PM2.5 zones.
 date: '2025-12-20'
 updated: '2026-03-27'
 primaryKeyword: 'air pollution raises blood pressure urban seniors'
@@ -15,9 +9,7 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
   - >-
-    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - how-indoor-air-quality-affects-heart-health-in-winter
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
   - how-air-pollution-impacts-heart-health-in-older-adults

@@ -1,7 +1,6 @@
 ---
 title: 'Is a Walking Group Safe at 78 With a Narrowed Heart Valve?'
-slug: >-
-  walking-group-aortic-stenosis-78
+slug: walking-group-aortic-stenosis-78
 description: 'A narrowed heart valve (aortic stenosis) changes how group walks stress you at 78+. Stay under 4 METs, skip inclines over 5%, and watch for 3 masked signs.'
 date: '2026-02-01'
 updated: '2026-03-28'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
   - >-
-    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-
-    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
   - >-
-    5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
   - >-
-    quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
 ---
 
 # Walking Group Safety for Seniors 78+ With Aortic Stenosis: What You Need to Know Before Stepping Out

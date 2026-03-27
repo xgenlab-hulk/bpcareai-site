@@ -2,8 +2,6 @@
 title: How Does Cold Weather Affect Blood Pressure in Older Adults?
 slug: how-does-cold-weather-affect-blood-pressure-in-older-adults
 description: >-
-  Learn how dropping temperatures can raise blood pressure and what seniors can
-  do to stay safe during winter months.
 date: '2025-11-26'
 updated: '2025-11-26'
 primaryKeyword: cold weather effect on blood pressure elderly
@@ -14,9 +12,7 @@ relatedSlugs:
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
   - can-cold-weather-raise-your-blood-pressure
   - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - >-
-    how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
 ---
 
 # How Cold Weather Impacts Blood Pressure in Older Adults

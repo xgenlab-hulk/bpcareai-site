@@ -2,8 +2,6 @@
 title: 'Can Layered Clothing Protect Your Heart From Winter Strain?'
 slug: can-layered-clothing-lower-heart-strain-in-winter
 description: 'Cold below 40F raises systolic BP 7-12 mmHg via vessel tightening (vasoconstriction). For seniors on heart meds, layered clothing stabilizes BP and heart rate.'
-  Investigates how proper dressing can reduce cardiovascular stress by
-  maintaining core body temperature efficiently.
 date: '2025-12-09'
 updated: '2026-03-27'
 primaryKeyword: 'does layered clothing reduce heart strain in cold weather'

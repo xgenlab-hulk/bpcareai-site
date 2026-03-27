@@ -1,13 +1,7 @@
 ---
 title: 'Sleep Positions That Worsen Lung Congestion With Heart Failure at 73'
-  7 Hidden Sleep Position Risks That Worsen Pulmonary Congestion in Adults 73+
-  With HFpEF and Mild Obstructive Sleep Apnea
-slug: >-
-  7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
+slug: 7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
 description: 'Lying flat raises pulmonary wedge pressure 8-12 mmHg with preserved-EF heart failure (HFpEF). Left-side and 30-degree tilt cuts congestion 45% in adults 73+.'
-  Details how supine vs. lateral positioning alters nocturnal pulmonary
-  capillary wedge pressure, right ventricular afterload, and apnea-hypopnea
-  index amplification — with validated pillow-modification protocols.
 date: '2026-01-17'
 updated: '2026-03-27'
 primaryKeyword: 'sleep position and lung congestion with heart failure'
@@ -15,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
   - >-
-    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
-    what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
   - >-
-    when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
   - >-
-    best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
 ---
 
 # How Sleep Position Affects Pulmonary Congestion in Seniors With HFpEF and Mild Obstructive Sleep Apnea  

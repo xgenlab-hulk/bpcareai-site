@@ -2,8 +2,6 @@
 title: 'Why Blood Pressure Reads Higher at the Doctor Than at Home'
 slug: blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
 description: 'Up to 20% with clinic hypertension have normal home readings — the white-coat effect (clinic anxiety response). How to take useful home measurements.'
-  Understand the reasons behind inconsistent readings and how to get accurate
-  results at home.
 date: '2025-11-27'
 updated: '2026-03-27'
 primaryKeyword: 'why blood pressure is higher at doctor than at home'
@@ -14,9 +12,7 @@ relatedSlugs:
   - is-your-medication-causing-high-blood-pressure
   - understanding-blood-pressure-numbers
   - >-
-    5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
 ---
 
 # Understanding Your Home Blood Pressure vs Doctor Office Reading

@@ -1,7 +1,6 @@
 ---
 title: "Gum Disease and Nighttime Blood Pressure: A Hidden Link After 61"
-slug: >-
-  how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
+slug: how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
 description: Inflamed gums (periodontitis) spill IL-6 and CRP into blood, blocking nighttime vessel relaxation (nitric oxide) and preventing the normal 10-15% BP dip.
 date: '2026-01-25'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - >-
-    how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
   - >-
-    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
 ---
 
 # How Periodontitis Nighttime Blood Pressure Inflammation Affects Older Adults—and What You Can Do

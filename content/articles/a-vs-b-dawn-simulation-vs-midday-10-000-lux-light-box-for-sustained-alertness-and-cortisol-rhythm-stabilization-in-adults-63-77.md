@@ -1,13 +1,7 @@
 ---
 title: 'Dawn Simulation vs Midday Light Box for Cortisol Rhythm in Adults 63 to 77'
-  A vs B: Dawn Simulation vs. Midday 10,000-Lux Light Box for Sustained
-  Alertness and Cortisol Rhythm Stabilization in Adults 63–77
-slug: >-
-  a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77
+slug: a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77
 description: 'In a real-world geriatric cohort with winter-onset depression, dawn simulation improved daytime cortisol area under the curve (AUC) 18% more than midday 10,000-lux light box therapy.'
-  Compares chronobiological impact, adherence rates, and daytime cortisol AUC
-  outcomes between two light-based interventions in a real-world geriatric
-  cohort with confirmed winter-onset depression.
 date: '2026-01-02'
 updated: '2026-03-27'
 primaryKeyword: 'dawn simulation vs midday light box for cortisol rhythm in seniors'
@@ -15,15 +9,10 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
   - >-
-    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
   - >-
-    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
   - >-
-    5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
   - >-
-    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
 ---
 
 # Dawn Simulation vs. Light Box for Seniors: What Really Supports Cortisol Rhythm and Daytime Alertness?

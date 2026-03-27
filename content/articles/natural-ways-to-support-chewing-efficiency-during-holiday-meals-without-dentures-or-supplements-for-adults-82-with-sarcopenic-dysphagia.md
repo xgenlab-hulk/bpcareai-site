@@ -1,7 +1,6 @@
 ---
 title: Easier Holiday Eating for Seniors 82+ With Weak Chewing Muscles
-slug: >-
-  natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
+slug: natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
 description: "Jaw muscle mass drops 25-40% by 80, making turkey risky for choking (sarcopenic dysphagia). Bite-size sequencing and 30-second oral warm-ups before meals help."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,13 +9,9 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
   - >-
-    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
   - >-
-    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
   - >-
-    quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
 ---
 

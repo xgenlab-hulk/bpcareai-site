@@ -1,7 +1,6 @@
 ---
 title: The Hidden Sugar Trap in Diabetes-Friendly Cereals for Seniors
-slug: >-
-  the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick
+slug: the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick
 description: Most cereals labeled for diabetics contain maltodextrin — a starch spiking glucose faster than table sugar (glycemic index 85-105). Check ingredient #2-4.
 date: '2026-01-29'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
   - >-
-    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - >-
-    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
 ---
 
 # What Seniors Need to Know About ‘Diabetes-Friendly’ Cereal Labels — Unmasking Hidden Sugars and Glycemic Traps

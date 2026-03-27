@@ -2,9 +2,6 @@
 title: 'On HRT After 64? What Holiday Wine Does to Your Liver'
 slug: hrt-alcohol-interaction-safety-women-64
 description: 'HRT slows alcohol processing (CYP2C9 enzyme saturation) by 30-50% in women 64+. Watch for 3 warning signs of dangerous holiday buildup.'
-  On HRT and enjoying holiday wine? Discover why hormone therapy slows alcohol
-  metabolism by 30-50% in women 64+, 3 critical warning signs of danger, and
-  exactly how to drink safely today.
 date: '2026-02-28'
 updated: '2026-03-28'
 primaryKeyword: 'hrt and alcohol interaction safety for women 64'
@@ -12,11 +9,8 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
   - >-
-    holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
   - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - women-holiday-heart-syndrome-menopause
 ---

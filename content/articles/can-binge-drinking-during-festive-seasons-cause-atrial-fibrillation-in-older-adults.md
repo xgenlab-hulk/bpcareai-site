@@ -1,12 +1,7 @@
 ---
 title: 'Can Holiday Binge Drinking Trigger Atrial Fibrillation After 50?'
-  Can Binge Drinking During Festive Seasons Cause Atrial Fibrillation in Older
-  Adults?
-slug: >-
-  can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+slug: can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
 description: 'One binge episode raises short-term irregular heartbeat risk (AFib) up to 60% after age 50. Alcohol disrupts heart electrolytes — worse with poor sleep.'
-  Examine the link between episodic heavy alcohol consumption during holidays
-  and sudden arrhythmias, especially in people over 50.
 date: '2025-11-29'
 updated: '2026-03-27'
 primaryKeyword: 'can holiday binge drinking trigger AFib over age 50'

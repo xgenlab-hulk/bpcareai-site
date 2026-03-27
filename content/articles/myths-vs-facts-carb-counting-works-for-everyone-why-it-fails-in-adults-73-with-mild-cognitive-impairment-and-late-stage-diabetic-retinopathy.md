@@ -1,13 +1,7 @@
 ---
 title: 'Why Carb Counting Fails After 73 With Memory or Vision Problems'
-  Myths vs Facts: 'Carb Counting Works for Everyone' — Why It Fails in Adults
-  73+ With Mild Cognitive Impairment and Late-Stage Diabetic Retinopathy
-slug: >-
-  myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy
+slug: myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy
 description: 'Carb counting demands working memory and label reading — both declining in mild cognitive impairment (MCI). Visual plate templates cut dosing errors 35%.'
-  Debunks assumptions about numeracy, visual acuity, working memory, and
-  executive function demands—and presents adaptive alternatives like visual
-  plate templates and AI-assisted image recognition.
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'why carb counting fails with memory problems after 73'
@@ -15,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
-    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
   - >-
-    simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
   - >-
-    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
 ---
 
 # Why Carb Counting Isn’t Always the Right Fit for Older Adults with Cognitive Changes and Vision Loss — A Gentle, Real-World Guide for the 70+ Diabetes Community

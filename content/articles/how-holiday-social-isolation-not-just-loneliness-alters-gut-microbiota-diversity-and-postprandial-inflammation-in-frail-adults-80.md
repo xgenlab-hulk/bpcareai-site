@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Holiday Social Isolation—Not Just Loneliness—Alters Gut Microbiota
-  Diversity and Postprandial Inflammation in Frail Adults 80+
-slug: >-
-  how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
+slug: how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
 description: >-
-  Connects reduced mealtime social interaction with decreased microbial SCFA
-  production, elevated IL-6, and blunted GLP-1 response—plus simple,
-  evidence-backed 'micro-social meal rituals' to counteract it.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: holiday isolation gut microbiota inflammation seniors
@@ -15,13 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
-    how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # How Holiday Isolation Gut Microbiota Inflammation Seniors Interacts With Digestion and Immunity in Adults 80+

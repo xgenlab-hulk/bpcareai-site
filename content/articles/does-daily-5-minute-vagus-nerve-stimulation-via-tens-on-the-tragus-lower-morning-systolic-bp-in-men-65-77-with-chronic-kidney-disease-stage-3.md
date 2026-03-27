@@ -1,7 +1,6 @@
 ---
 title: 'Ear-Clip Nerve Stimulation for Morning BP: Does It Work After 65?'
-slug: >-
-  does-daily-5-minute-vagus-nerve-stimulation-via-tens-on-the-tragus-lower-morning-systolic-bp-in-men-65-77-with-chronic-kidney-disease-stage-3
+slug: does-daily-5-minute-vagus-nerve-stimulation-via-tens-on-the-tragus-lower-morning-systolic-bp-in-men-65-77-with-chronic-kidney-disease-stage-3
 description: 'Stimulating your ear\'s vagus point (transcutaneous auricular VNS) 5 min/day may cut morning systolic surge 6-9 mmHg in men with kidney disease (CKD stage 3).'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
   - >-
-    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
   - >-
-    how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension
   - >-
-    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
   - >-
-    a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
 ---
 
 # Can Vagus Nerve Stimulation for Morning BP in CKD Help Older Men With Stage 3 Kidney Disease?

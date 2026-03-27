@@ -1,7 +1,6 @@
 ---
 title: Lowering Fasting Glucose Naturally for Shift Workers 50-61
-slug: >-
-  quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
+slug: quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
 description: Shift work disrupts your body clock (circadian rhythm), raising fasting glucose 15-25 mg/dL. Morning light 20 min and anchored breakfast time reset it in weeks.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
   - >-
-    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
   - >-
-    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - >-
-    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
   - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
 ---
 
 # How to Normalize Fasting Glucose Shift Work Prediabetes—Naturally and Effectively

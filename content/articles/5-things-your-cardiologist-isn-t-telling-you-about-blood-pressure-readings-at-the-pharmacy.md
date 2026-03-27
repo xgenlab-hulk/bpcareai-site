@@ -1,10 +1,7 @@
 ---
 title: 'Why Pharmacy Blood Pressure Readings May Mislead Adults Over 55'
-  Pharmacy BP Readings Wrong? (5 Accuracy Issues After 50)
-slug: >-
-  pharmacy-bp-accuracy-issues-50
+slug: pharmacy-bp-accuracy-issues-50
 description: 'Pharmacy cuffs read systolic 6-10 mmHg higher than clinic devices in adults 55+ with stiff arteries. Five factors make pharmacy BP (blood pressure) unreliable.'
-  Pharmacy BP readings confusing? Discover why 30% of kiosks drift by 5-10 mm Hg, cuff errors that skew systolic pressure, and 3 white-coat patterns missed in public screenings (ages 50+).
 date: '2025-12-19'
 updated: '2026-03-27'
 primaryKeyword: 'are pharmacy blood pressure readings accurate after 55'
@@ -14,11 +11,8 @@ relatedSlugs:
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
   - how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
   - >-
-    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
   - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
-    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
 ---
 
 # What Your Cardiologist Wishes You Knew About Pharmacy Blood Pressure Reading Accuracy

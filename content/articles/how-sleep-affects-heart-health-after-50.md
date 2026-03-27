@@ -2,8 +2,6 @@
 title: How Sleep Affects Heart Health After 50
 slug: how-sleep-affects-heart-health-after-50
 description: >-
-  Discover the connection between quality sleep and heart health, especially for
-  adults over 50, and learn tips to improve both.
 date: '2025-11-26'
 updated: '2025-11-26'
 primaryKeyword: sleep and heart health after 50

@@ -2,8 +2,6 @@
 title: When to Worry About Weight Gain After a Family Gathering
 slug: when-to-worry-about-weight-gain-after-a-family-gathering
 description: >-
-  Explains what level of post-event weight gain is normal versus concerning,
-  especially for those with cardiovascular or metabolic risks.
 date: '2025-12-04'
 updated: '2025-12-04'
 primaryKeyword: post-holiday weight gain concerns
@@ -15,7 +13,6 @@ relatedSlugs:
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
   - >-
-    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
 ---
 
 # Understanding Post-Holiday Weight Gain Concerns After Family Gatherings

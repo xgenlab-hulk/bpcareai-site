@@ -2,8 +2,6 @@
 title: '10 High-Fiber Holiday Foods That Keep Digestion Steady After 50'
 slug: high-fiber-holiday-foods-seniors
 description: 'Gut transit slows 20-30% with age, making constipation common. Festive fiber-dense foods improve gut motility (bowel regularity) without spiking blood sugar.'
-  Discover 10 high-fiber holiday foods for seniors—sweet potatoes, Brussels
-  sprouts, lentil stuffing—to ease constipation and stabilize blood sugar.
 date: '2025-12-03'
 updated: '2026-03-27'
 primaryKeyword: 'high fiber holiday foods good for digestion after 50'

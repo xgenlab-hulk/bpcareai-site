@@ -1,13 +1,7 @@
 ---
 title: 'How to Safely Adjust Blood Pressure Medication During Summer Heat Waves'
-  The Ultimate Guide to Adjusting Antihypertensive Dosing During Summer
-  Heatwaves—With Hydration Thresholds, Diuretic Timing, and Postural Rehydration
-  Protocols
-slug: >-
-  the-ultimate-guide-to-adjusting-antihypertensive-dosing-during-summer-heatwaves-with-hydration-thresholds-diuretic-timing-and-postural-rehydration-protocols
+slug: the-ultimate-guide-to-adjusting-antihypertensive-dosing-during-summer-heatwaves-with-hydration-thresholds-diuretic-timing-and-postural-rehydration-protocols
 description: 'Up to 20% of adults over 60 experience BP drops exceeding 20 mm Hg systolic during heatwaves (≥3 days ≥32°C). Evidence-based algorithms for thiazide, CCB, and alpha-2 agonist adjustment.'
-  Provides evidence-based algorithms for modifying thiazide, CCB, and alpha-2
-  agonist regimens during sustained high-heat exposure in adults over 60.
 date: '2026-01-03'
 updated: '2026-03-27'
 primaryKeyword: 'how to adjust blood pressure medication during summer heat waves'
@@ -15,13 +9,9 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
   - >-
-    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - >-
-    what-causes-sudden-diastolic-dips-during-hot-yoga-in-adults-52-66-with-prehypertension-and-low-aldosterone
 ---
 
 # Smart Antihypertensive Dosing During Summer Heatwaves: A Practical Guide for Adults Over 60

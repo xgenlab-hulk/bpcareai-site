@@ -1,7 +1,6 @@
 ---
 title: "Chair Yoga vs. 4-7-8 Breathing: Which Lowers BP Faster After 71?"
-slug: >-
-  a-vs-b-3-minute-chair-yoga-vs-3-minute-guided-breath-hold-4-7-8-for-immediate-systolic-reduction-in-adults-71-with-anxiety-driven-hypertension
+slug: a-vs-b-3-minute-chair-yoga-vs-3-minute-guided-breath-hold-4-7-8-for-immediate-systolic-reduction-in-adults-71-with-anxiety-driven-hypertension
 description: Chair yoga lowers systolic 7 mmHg over 10 min; 4-7-8 breathing drops it 5 mmHg in 3 min. For anxiety-driven spikes (white coat effect), breathing wins.
 date: '2026-01-30'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-10-minute-guided-vagal-breathing-lower-central-systolic-pressure-in-adults-60-73-with-elevated-aortic-augmentation-index-and-high-job-stress
   - >-
-    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
   - >-
-    best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
   - >-
-    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
   - >-
-    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
 ---
 
 # Chair Yoga vs Breath Hold BP: Which 3-Minute Practice Offers Gentle, Immediate Support for Systolic Pressure in Adults 71+ With Anxiety-Driven Hypertension?

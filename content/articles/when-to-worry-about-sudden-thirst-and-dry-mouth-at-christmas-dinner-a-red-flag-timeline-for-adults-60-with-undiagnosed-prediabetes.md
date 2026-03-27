@@ -1,13 +1,7 @@
 ---
 title: >-
-  When to Worry About Sudden Thirst and Dry Mouth at Christmas Dinner—A Red-Flag
-  Timeline for Adults 60+ With Undiagnosed Prediabetes
-slug: >-
-  when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
+slug: when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
 description: >-
-  Maps progressive symptom escalation (thirst → nocturia → confusion →
-  orthostatic dizziness) alongside capillary glucose benchmarks and urgent
-  referral thresholds for newly symptomatic seniors.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: sudden thirst christmas dinner prediabetes
@@ -16,7 +10,6 @@ image: ''
 relatedSlugs:
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - >-
-    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - when-to-worry-about-blood-sugar-swings-after-new-year-s-eve

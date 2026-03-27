@@ -1,13 +1,7 @@
 ---
 title: 'Why Coconut Water Is Risky With HFpEF and Low Kidney Function'
-  Dangers of Using 'Heart-Healthy' Coconut Water Electrolyte Drinks During Hot
-  Weather for Adults With HFpEF and eGFR 45–59
-slug: >-
-  dangers-of-using-heart-healthy-coconut-water-electrolyte-drinks-during-hot-weather-for-adults-with-hfpef-and-egfr-45-59
+slug: dangers-of-using-heart-healthy-coconut-water-electrolyte-drinks-during-hot-weather-for-adults-with-hfpef-and-egfr-45-59
 description: 'One cup of coconut water delivers 600 mg potassium; adults with stiff-heart failure (HFpEF) and kidney filtering rate (eGFR) 45-59 risk potassium buildup.'
-  Uncovers potassium overload risks, osmotic shifts, and RAAS overactivation
-  triggered by high-potassium, low-sodium coconut water in decompensating
-  HFpEF—especially during summer heat stress and diuretic use.
 date: '2026-01-06'
 updated: '2026-03-27'
 primaryKeyword: 'coconut water electrolytes HFpEF CKD heat risk'
@@ -15,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia
   - >-
-    10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
   - >-
-    dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd
   - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
   - >-
-    can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
 ---
 
 # Coconut Water, HFpEF, and Kidney Function Risk: What Adults 50+ Should Know in Hot Weather

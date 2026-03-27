@@ -1,14 +1,7 @@
 ---
 title: 'How Indoor Air Pollution Damages Insulin-Producing Cells in Adults With Diabetes'
-  How Indoor Air Pollutants (PM2.5, NO2) Disrupt Pancreatic Islet Mitochondrial
-  Respiration and Exacerbate Glucose Variability in Adults 60–74 With Type 2
-  Diabetes and Urban Residency
-slug: >-
-  how-indoor-air-pollutants-pm2-5-no2-disrupt-pancreatic-islet-mitochondrial-respiration-and-exacerbate-glucose-variability-in-adults-60-74-with-type-2-diabetes-and-urban-residency
+slug: how-indoor-air-pollutants-pm2-5-no2-disrupt-pancreatic-islet-mitochondrial-respiration-and-exacerbate-glucose-variability-in-adults-60-74-with-type-2-diabetes-and-urban-residency
 description: 'PM2.5 from cooking and traffic cuts beta-cell energy output (mitochondrial ATP) 18-25%. Urban adults 60-74 with diabetes show 12 mg/dL more daily glucose swings in high-pollution environments.'
-  Explores air pollution–induced ROS in beta-cells, reduced ATP production, and
-  implications for insulin pulsatility and hypoglycemia unawareness in
-  high-traffic neighborhoods.
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'does indoor air pollution worsen blood sugar control with type 2 diabetes'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
   - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
-    how-indoor-fireplace-smoke-alters-endothelial-nitric-oxide-synthase-activity-and-worsens-post-meal-glucose-uptake-in-adults-71-with-type-2-diabetes-and-copd
   - >-
-    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
   - >-
-    can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
 ---
 
 # How Air Pollution Damages Pancreatic Mitochondria in Adults With Diabetes—And What You Can Do About It

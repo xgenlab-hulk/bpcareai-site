@@ -2,8 +2,6 @@
 title: 'Does Layering Clothes Help Regulate Blood Pressure in Cold Climates?'
 slug: does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
 description: 'Cold air causes vasoconstriction (vessel narrowing), raising systolic BP 10-20 mm Hg. Layered clothing reduces this reflex and lowers cold-weather cardiac risk.'
-  Investigates how proper clothing insulation impacts circulation and blood
-  pressure stability in seniors exposed to winter conditions.
 date: '2025-12-06'
 updated: '2026-03-27'
 primaryKeyword: 'layering clothes blood pressure cold weather seniors'

@@ -1,7 +1,6 @@
 ---
 title: Late-Night Phone Use and Worse AFib During Sleep After 71
-slug: >-
-  how-late-night-smartphone-use-alters-nocturnal-atrial-fibrillation-burden-not-just-onset-in-adults-71-with-paroxysmal-af-and-mild-obstructive-sleep-apnea
+slug: how-late-night-smartphone-use-alters-nocturnal-atrial-fibrillation-burden-not-just-onset-in-adults-71-with-paroxysmal-af-and-mild-obstructive-sleep-apnea
 description: Blue light suppresses melatonin, extending irregular heartbeat episodes (AF burden) by 23 min/night in adults 71+ with intermittent AFib and mild sleep apnea.
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment
   - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
-    how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # How Late-Night Smartphone Use Worsens Nocturnal Atrial Fibrillation Burden in Older Adults With Paroxysmal AF and Mild Sleep Apnea

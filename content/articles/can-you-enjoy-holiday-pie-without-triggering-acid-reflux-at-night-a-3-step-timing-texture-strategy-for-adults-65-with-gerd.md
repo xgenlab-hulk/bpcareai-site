@@ -1,7 +1,6 @@
 ---
 title: 'Holiday Pie Without Nighttime Reflux: A 3-Step Plan for Adults 65+'
-slug: >-
-  can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
+slug: can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
 description: 'Stomach emptying (gastric motility) slows 25-30% after 65. Eating pie 3+ hours before bed and staying upright 45 min cuts nighttime reflux (GERD) risk.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,14 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
-    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
 ---
 
 # Can You Enjoy Holiday Pie Without Triggering Nighttime Acid Reflux? A Gentle, Science-Backed Strategy for Adults 65+

@@ -2,8 +2,6 @@
 title: 'Can Gardening Improve Heart Health After 50? What Research Shows'
 slug: can-gardening-improve-heart-health-after-50
 description: 'Regular gardeners show 20-30% lower heart disease (cardiovascular disease) risk. Digging and raking meet AHA moderate activity goals — 150 min/week helps BP.'
-  Discover how light physical activities like gardening can support
-  cardiovascular wellness in middle-aged and older adults.
 date: '2025-11-26'
 updated: '2026-03-27'
 primaryKeyword: 'gardening and heart health benefits after age 50'

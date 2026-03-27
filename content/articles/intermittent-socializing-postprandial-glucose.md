@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Intermittent Socializing Affects Postprandial Glucose Stability — Why
-  Skipping Grandchildren's Mealtime Conversations Raises Glycemic Variability
-  More Than Skipping the Pie in Adults 68+ With Diabetes
-slug: >-
-  how-intermittent-socializing-affects-postprandial-glucose-stability-why-skipping-grandchildren-s-mealtime-conversations-raises-glycemic-variability-more-than-skipping-the-pie-in-adults-68-with-diabetes
+slug: how-intermittent-socializing-affects-postprandial-glucose-stability-why-skipping-grandchildren-s-mealtime-conversations-raises-glycemic-variability-more-than-skipping-the-pie-in-adults-68-with-diabetes
 description: >-
-  Examines the metabolic cost of emotional disengagement during meals — linking
-  vagal engagement, chewing rhythm, and glucose excursions in observational
-  cohort data.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: intermittent socializing postprandial glucose
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
   - >-
-    how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment
   - >-
-    how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
   - >-
-    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
   - >-
-    how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
 ---
 
 # How Intermittent Socializing Affects Postprandial Glucose — What Your Grandkids’ Dinner Table Talks Really Do for Your Blood Sugar

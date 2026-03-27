@@ -2,8 +2,6 @@
 title: How Dehydration Impacts Blood Pressure Levels
 slug: how-dehydration-impacts-blood-pressure-levels
 description: >-
-  See how not drinking enough water can lead to fluctuating blood pressure and
-  what seniors should do to stay hydrated.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: dehydration effects on blood pressure

@@ -1,14 +1,7 @@
 ---
 title: >-
-  Natural Ways to Support Salivary Amylase Production During Holiday
-  Meals—Without Supplements—For Adults 75+ With Age-Related Xerostomia and Early
-  Dysphagia
-slug: >-
-  natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+slug: natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
 description: >-
-  Offers sensory-triggered, texture-modified, and temperature-optimized pre- and
-  intra-meal strategies to boost natural salivary enzyme activity, improving
-  carbohydrate digestion and satiety signaling.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: salivary amylase holiday meals xerostomia seniors
@@ -16,13 +9,9 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
   - >-
-    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
-    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 

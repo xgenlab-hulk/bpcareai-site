@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Truth About 'Heart-Healthy' Air Fryer French Fries for Adults 70+ on Dual
-  Anticoagulants (Apixaban + Aspirin)
-slug: >-
-  the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
+slug: the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
 description: >-
-  Investigates how high-heat acrylamide formation and residual oxidized seed
-  oils in air-fried starches increase platelet reactivity and endothelial
-  oxidative stress—potentially undermining anticoagulant safety in polypharmacy
-  seniors.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: air fryer fries anticoagulant safety seniors
@@ -16,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
   - >-
-    why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
   - >-
-    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
-    how-cold-weather-and-holiday-feasting-jointly-elevate-stroke-risk-in-seniors-with-atrial-fibrillation
   - >-
-    warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
 ---
 
 # Are Air Fryer Fries Safe for Seniors on Apixaban and Aspirin? What You *Really* Need to Know About Air Fryer Fries Anticoagulant Safety Seniors

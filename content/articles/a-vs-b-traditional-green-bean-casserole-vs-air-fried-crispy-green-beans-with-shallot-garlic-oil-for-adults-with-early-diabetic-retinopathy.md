@@ -1,14 +1,7 @@
 ---
 title: 'Green Bean Casserole vs Air-Fried Green Beans for Protecting Diabetic Eyesight'
-  A vs B: Traditional Green Bean Casserole vs Air-Fried Crispy Green Beans With
-  Shallot-Garlic Oil for Adults With Early Diabetic Retinopathy
-slug: >-
-  a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
+slug: a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
 description: 'Traditional casseroles generate more advanced glycation end-products (AGEs) and acrylamide. Air-frying preserves flavonoids shown to protect retinal pericytes, reducing 2-hour inflammatory markers.'
-  Compares advanced glycation end-product (AGE) formation, acrylamide risk, and
-  retinal-protective flavonoid bioavailability in two preparation methods—plus
-  real-world blood glucose and inflammatory marker differences measured 2 hours
-  post-consumption.
 date: '2026-01-10'
 updated: '2026-03-27'
 primaryKeyword: 'green bean casserole vs air-fried green beans for diabetic eye health'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
   - >-
-    the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
   - >-
-    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
   - >-
-    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
   - >-
-    a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74
 ---
 
 # Green Bean Casserole vs Air-Fried Green Beans: A Gentle, Science-Informed Choice for Eye Health at Family Gatherings

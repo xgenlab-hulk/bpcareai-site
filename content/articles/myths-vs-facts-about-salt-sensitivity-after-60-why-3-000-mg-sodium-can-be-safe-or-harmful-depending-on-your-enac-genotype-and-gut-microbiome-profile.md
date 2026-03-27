@@ -1,13 +1,7 @@
 ---
 title: >-
-  Myths vs Facts About 'Salt Sensitivity' After 60 — Why 3,000 mg Sodium *Can*
-  Be Safe (or Harmful) Depending on Your ENaC Genotype and Gut Microbiome
-  Profile
-slug: >-
-  myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile
+slug: myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile
 description: >-
-  Deconstructs monolithic sodium advice using pharmacogenomics (SCNN1B variants)
-  and microbial TMAO–butyrate ratios to define personalized sodium thresholds.
 date: '2026-03-02'
 updated: '2026-03-02'
 primaryKeyword: salt sensitivity genetics microbiome aging
@@ -17,11 +11,8 @@ relatedSlugs:
   - salt-sensitivity-myths-older-adults-gut-microbiome
   - salt-sensitivity-myths-in-black-adults
   - >-
-    what-research-says-about-gut-microbiome-diversity-and-salt-sensitivity-in-adults-67-with-normal-bmi-but-persistent-nighttime-hypertension
   - >-
-    myths-vs-facts-salt-sensitivity-in-black-adults-over-55-what-genetics-renal-sodium-handling-and-social-determinants-really-explain
   - >-
-    myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
 ---
 
 # Understanding Salt Sensitivity Genetics Microbiome Aging: Why Sodium Limits Aren’t One-Size-Fits-All After 60

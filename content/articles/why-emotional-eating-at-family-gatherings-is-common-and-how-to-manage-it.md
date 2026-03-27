@@ -2,8 +2,6 @@
 title: Why Emotional Eating at Family Gatherings Is Common—And How to Manage It
 slug: why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
 description: >-
-  Explores the psychological triggers of overeating during family events and
-  offers tools to cope with stress, nostalgia, and pressure.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: emotional eating at family events

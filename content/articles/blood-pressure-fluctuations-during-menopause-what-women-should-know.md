@@ -2,8 +2,6 @@
 title: 'Blood Pressure Fluctuations During Menopause: The Hormonal Connection'
 slug: blood-pressure-fluctuations-during-menopause-what-women-should-know
 description: 'Declining estrogen stiffens arteries and disrupts sleep, each raising BP. Unpredictable BP swings (labile hypertension) make home monitoring essential.'
-  Learn how hormonal changes in menopause impact blood pressure and what
-  lifestyle steps can help manage it.
 date: '2025-11-26'
 updated: '2026-03-27'
 primaryKeyword: 'blood pressure fluctuations during perimenopause in women'
@@ -15,7 +13,6 @@ relatedSlugs:
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
   - can-cold-weather-raise-your-blood-pressure
   - >-
-    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
 ---
 
 # Understanding Blood Pressure Changes During Menopause: What Women Need to Know

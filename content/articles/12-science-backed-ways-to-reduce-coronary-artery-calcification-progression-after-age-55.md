@@ -2,7 +2,6 @@
 title: 'CAC Score Rising After 55? 12 Proven Ways to Slow It Down'
 slug: slow-heart-calcium-progression-adults-55
 description: 'Heart artery calcium buildup (coronary calcification) rising over 15%/year triples heart attack risk. Vitamin K2 and magnesium timing slow it 36%.'
-  CAC score climbing despite statins? Discover vitamin K2 180mcg timing, magnesium threonate evening dosing, and pulse wave biofeedback—proven to slow progression 36% in adults 55+.
 date: '2025-12-21'
 updated: '2026-03-27'
 primaryKeyword: 'how to slow coronary artery calcium buildup after 55'
@@ -10,14 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
   - >-
-    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
   - >-
-    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - top-7-heart-protective-vitamins-to-take-in-winter
   - >-
-    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
 ---
 
 # Your CAC Score Climbing Every Year—Even With Perfect Cholesterol?

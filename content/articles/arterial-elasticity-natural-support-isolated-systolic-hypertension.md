@@ -1,7 +1,6 @@
 ---
 title: 'Softening Stiff Arteries Without Medication After 61'
-slug: >-
-  natural-ways-to-support-arterial-elasticity-without-medication-focusing-on-elastin-cross-link-breakers-copper-dependent-loxl1-activity-and-collagen-iv-synthesis-in-adults-61-76-with-isolated-systolic-hypertension
+slug: natural-ways-to-support-arterial-elasticity-without-medication-focusing-on-elastin-cross-link-breakers-copper-dependent-loxl1-activity-and-collagen-iv-synthesis-in-adults-61-76-with-isolated-systolic-hypertension
 description: 'Isolated systolic hypertension stems from lost artery stretch (elastin cross-linking). Copper-rich foods and low-AGE cooking improve compliance in 12 weeks.'
 date: '2026-01-13'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
   - >-
-    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
   - >-
-    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
   - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
 ---
 
 # Natural Support for Arterial Elasticity in Older Adults with Isolated Systolic Hypertension

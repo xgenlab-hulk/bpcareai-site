@@ -1,7 +1,6 @@
 ---
 title: Boosting Muscle Cell Energy to Fight Insulin Resistance After 56
-slug: >-
-  natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-supplements-for-adults-56-70-with-insulin-resistance-and-sedentary-desk-jobs
+slug: natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-supplements-for-adults-56-70-with-insulin-resistance-and-sedentary-desk-jobs
 description: Slow-tempo resistance training activates the energy switch (PGC-1alpha) in muscle, boosting glucose uptake 18-22%. Cold exposure timing amplifies the effect.
 date: '2026-01-27'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
 ---
 
 # Natural Strategies to Boost Mitochondrial Biogenesis Insulin Resistance in Skeletal Muscle — For Adults 56–70 With Sedentary Lifestyles

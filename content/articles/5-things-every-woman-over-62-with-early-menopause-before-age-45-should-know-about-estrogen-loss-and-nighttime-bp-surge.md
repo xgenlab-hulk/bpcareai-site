@@ -9,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know
   - >-
-    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
   - >-
-    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
   - >-
-    how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
   - >-
-    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
 ---
 
 # Did Early Menopause Before 45 Secretly Damage Your Nighttime Blood Pressure Control?

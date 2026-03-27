@@ -1,7 +1,6 @@
 ---
 title: "Gardening After a Defibrillator: Safety Guide for Seniors 73+"
-slug: >-
-  can-you-safely-resume-gardening-after-an-icd-implant-a-safety-first-guide-for-adults-73-with-reduced-ejection-fraction
+slug: can-you-safely-resume-gardening-after-an-icd-implant-a-safety-first-guide-for-adults-73-with-reduced-ejection-fraction
 description: "Tools under 4 kg with vibration below 2.5 m/s2 won't trigger your defibrillator (ICD). Covers lead strain, safe postures, and rest thresholds at EF below 35%."
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
   - >-
-    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
   - can-gardening-improve-heart-health-after-50
   - >-
-    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
   - >-
-    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
 ---
 
 # Gardening After ICD Implant: A Calm, Confident Guide for Seniors 73+ With Heart Failure

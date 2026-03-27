@@ -1,13 +1,7 @@
 ---
 title: >-
-  When to Worry About Sudden Vision Fluctuations in Adults With Type 2 Diabetes
-  Over 70—Not Just Retinopathy
-slug: >-
-  when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy
+slug: when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy
 description: >-
-  Identifies non-retinal causes of acute visual instability—including osmotic
-  lens changes, posterior vitreous detachment, and medication-induced
-  mydriasis—requiring urgent differentiation from diabetic retinopathy.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: sudden vision changes in elderly diabetes patients
@@ -16,11 +10,8 @@ image: ''
 relatedSlugs:
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - >-
-    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - >-
-    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - how-vision-changes-might-be-linked-to-heart-disease
 ---
 

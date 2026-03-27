@@ -1,10 +1,7 @@
 ---
 title: '12 Household Products Secretly Raising Your BP After 55'
-  Air Fresheners Spiking Your BP? (12 Products to Swap 55+)
-slug: >-
-  air-fresheners-spike-bp-products-swap-55
+slug: air-fresheners-spike-bp-products-swap-55
 description: 'Airborne chemicals (volatile organic compounds) in cleaners and fresheners can spike BP 4-7 mm Hg. See 12 hidden culprits and safer swaps for adults 55+.'
-  Air fresheners raising your BP? Discover 12 household products with hidden VOCs and quats, exact chemicals to avoid, and safe swaps—proven to drop BP 4-7 mm Hg for adults 55+.
 date: '2025-12-29'
 updated: '2026-03-27'
 primaryKeyword: 'household products that raise blood pressure'
@@ -12,11 +9,9 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label
   - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
   - 10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
   - >-
-    does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
   - hidden-salt-surprising-foods-that-raise-blood-pressure
 ---
 

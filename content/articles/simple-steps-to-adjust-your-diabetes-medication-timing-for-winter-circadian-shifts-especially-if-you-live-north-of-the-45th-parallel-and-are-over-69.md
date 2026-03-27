@@ -1,13 +1,7 @@
 ---
 title: >-
-  Simple Steps to Adjust Your Diabetes Medication Timing for Winter Circadian
-  Shifts—Especially If You Live North of the 45th Parallel and Are Over 69
-slug: >-
-  simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
+slug: simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
 description: >-
-  Offers a 3-step chronotherapeutic adjustment protocol for insulin, SGLT2is,
-  and GLP-1 RAs—based on melatonin onset delay, reduced daylight vitamin D
-  synthesis, and ambient temperature effects on absorption.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: diabetes medication timing winter circadian shift
@@ -15,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
   - >-
-    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - should-you-adjust-your-diabetes-medication-during-the-holidays
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # Adjusting Diabetes Medication Timing for Winter Circadian Shifts—A Gentle, Science-Informed Guide

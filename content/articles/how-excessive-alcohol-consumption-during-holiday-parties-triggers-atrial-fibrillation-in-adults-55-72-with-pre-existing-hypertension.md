@@ -1,7 +1,6 @@
 ---
 title: "Holiday Drinking and AFib: Why 2 Extra Drinks Are Dangerous"
-slug: >-
-  how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
+slug: how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
 description: Just 2-3 drinks raise irregular heartbeat risk (atrial fibrillation) 40% within 4 hours in adults 55-72 with high BP by stretching the atria.
 date: '2026-01-18'
 updated: '2026-03-26'
@@ -11,10 +10,8 @@ image: ''
 relatedSlugs:
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
-    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: '12 Foods That Slow Blood Vessel Aging Beyond Just Lowering BP After 60'
-  Your Blood Vessels Aging Too Fast? (Foods That Help Ages 60+)
-slug: >-
-  foods-slow-blood-vessel-aging-60
+slug: foods-slow-blood-vessel-aging-60
 description: 'Black garlic reduces senescent endothelial cells (aging vessel lining) by 28% in adults 60+. These 12 foods target vessel aging, not just blood pressure.'
-  Worried about stiff arteries and high BP? Discover 12 foods that delay vascular aging—black garlic, germinated rice, low-AGE chickpeas—proven to boost telomerase activity and improve endothelial function for adults 60+.
 date: '2026-02-28'
 updated: '2026-03-27'
 primaryKeyword: 'foods that slow blood vessel aging after 60'
@@ -12,14 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-boost-endothelial-no-synthase-activity-in-adults-54-69-with-elevated-adma-and-normal-ldl-c
   - sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
   - >-
-    10-foods-that-stabilize-coronary-microvascular-reactivity-not-just-lower-cholesterol-for-adults-61-with-inoca-and-no-obstructive-disease
   - >-
-    10-foods-that-activate-endothelial-k-channels-kca2-3-kca3-1-to-promote-vasodilation-for-adults-60-with-endothelial-dysfunction-confirmed-by-fmd
   - >-
-    10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
 ---
 
 # 12 Science-Backed Foods That Delay Endothelial Aging — Supporting Vascular Resilience After 60

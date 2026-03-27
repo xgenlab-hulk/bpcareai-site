@@ -1,7 +1,6 @@
 ---
 title: Why Sudden Weight Loss After 80 With Heart Failure Is a Red Flag
-slug: >-
-  why-sudden-weight-loss-5-in-3-months-in-adults-80-with-stable-heart-failure-predicts-1-year-mortality-better-than-nyha-class-or-bnp-and-what-to-do-next
+slug: why-sudden-weight-loss-5-in-3-months-in-adults-80-with-stable-heart-failure-predicts-1-year-mortality-better-than-nyha-class-or-bnp-and-what-to-do-next
 description: Losing >5% body weight in 3 months with stable heart failure (cardiac cachexia) predicts 1-year mortality better than BNP or NYHA class alone.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
   - >-
-    why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin
   - the-truth-about-winter-weight-gain-and-heart-strain-after-60
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
   - >-
-    why-heart-failure-with-preserved-ejection-fraction-hfpef-often-masquerades-as-just-aging-in-women-70-and-how-a-3-minute-sitting-to-standing-test-can-reveal-it
 ---
 
 # Why Unintentional Weight Loss in Older Adults With Heart Failure Is a Powerful Clue for Prognosis — And What It Means for Heart Health

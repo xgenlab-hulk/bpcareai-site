@@ -1,13 +1,7 @@
 ---
 title: >-
-  Why Your Blood Sugar Dips at 3 a.m. During Holiday Week—And How to Prevent
-  Nocturnal Hypoglycemia Without Adding Snacks
-slug: >-
-  why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+slug: why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
 description: >-
-  Examines circadian disruption, delayed gastric emptying from rich meals, and
-  nighttime insulin sensitivity shifts in adults 50–65, offering non-caloric
-  prevention strategies like timed walking and bedtime CGM alerts.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: nocturnal hypoglycemia during holidays
@@ -17,9 +11,7 @@ relatedSlugs:
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---
 

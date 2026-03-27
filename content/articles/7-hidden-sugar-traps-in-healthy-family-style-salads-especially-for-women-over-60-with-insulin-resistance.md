@@ -1,13 +1,7 @@
 ---
 title: '7 Sugar Traps in Healthy Salads That Spike Glucose in Women Over 60'
-  7 Hidden Sugar Traps in 'Healthy' Family-Style Salads—Especially for Women
-  Over 60 With Insulin Resistance
-slug: >-
-  7-hidden-sugar-traps-in-healthy-family-style-salads-especially-for-women-over-60-with-insulin-resistance
+slug: 7-hidden-sugar-traps-in-healthy-family-style-salads-especially-for-women-over-60-with-insulin-resistance
 description: 'Honey-balsamic dressing raises glucose 40-65 mg/dL in women 60+ on CGM. 7 salad sugar traps for women with insulin resistance—with low-glycemic swaps validated.'
-  Identifies unexpectedly high-glycemic salad components (croutons, dried fruit,
-  sweet dressings, roasted beets) and offers low-impact swaps validated by
-  postprandial glucose testing in women 60+.
 date: '2026-01-06'
 updated: '2026-03-27'
 primaryKeyword: 'sugar traps in healthy salads for women over 60'
@@ -15,12 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
   - >-
-    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
   - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
   - >-
-    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 

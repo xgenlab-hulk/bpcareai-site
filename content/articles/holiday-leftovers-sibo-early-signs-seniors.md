@@ -1,14 +1,7 @@
 ---
 title: >-
-  What Are the Earliest Signs Your Holiday Leftovers Are Causing Subclinical
-  Small Intestinal Bacterial Overgrowth (SIBO) in Adults 69+ With Chronic
-  Bloating?
-slug: >-
-  what-are-the-earliest-signs-your-holiday-leftovers-are-causing-subclinical-small-intestinal-bacterial-overgrowth-sibo-in-adults-69-with-chronic-bloating
+slug: what-are-the-earliest-signs-your-holiday-leftovers-are-causing-subclinical-small-intestinal-bacterial-overgrowth-sibo-in-adults-69-with-chronic-bloating
 description: >-
-  Highlights subtle, often-missed indicators—including gas timing, stool odor
-  shifts, and post-meal fatigue—that precede diagnostic breath testing and
-  respond to simple food rotation protocols.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: holiday leftovers sibo early signs seniors
@@ -16,15 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
   - >-
-    when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
   - >-
-    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
   - >-
-    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
 ---
 
 # Early Clues Your Holiday Leftovers Might Be Triggering Subclinical SIBO in Seniors 69+

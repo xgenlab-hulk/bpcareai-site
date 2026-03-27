@@ -2,8 +2,6 @@
 title: When to Worry About Chest Tightness in Cold Weather
 slug: when-to-worry-about-chest-tightness-in-cold-weather
 description: >-
-  Guides readers on distinguishing normal cold-induced discomfort from dangerous
-  cardiac symptoms requiring immediate attention.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: chest tightness winter cold

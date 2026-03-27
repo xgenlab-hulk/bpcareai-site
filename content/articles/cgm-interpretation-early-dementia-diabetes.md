@@ -1,14 +1,7 @@
 ---
 title: 'How Caregivers Can Read CGM Data for Seniors With Dementia'
-  The Ultimate Guide to Interpreting Continuous Glucose Monitoring (CGM) Reports
-  for Adults With Diabetes and Early Dementia—What ‘Time in Range’ Alone Doesn’t
-  Tell You
-slug: >-
-  the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+slug: the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
 description: 'Cognitive decline disrupts symptom reporting; glucose monitor (CGM) trend arrows and alert thresholds help caregivers act before dangerous lows occur.'
-  Focuses on clinically actionable CGM metrics beyond TIR: glycemic variability
-  (MAGE), nocturnal hypoglycemia detection sensitivity, and how cognitive
-  decline alters interpretation thresholds.
 date: '2025-12-27'
 updated: '2026-03-27'
 primaryKeyword: 'CGM interpretation dementia diabetes caregivers'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
-    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
   - >-
-    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 ---
 
 # Beyond Time in Range: What CGM Interpretation Early Dementia Diabetes Reveals About Real-World Glucose Safety

@@ -1,13 +1,7 @@
 ---
 title: >-
-  Why Your Holiday Fruitcake May Be Raising Your Fasting Glucose—Even If It’s
-  'No-Sugar-Added'
-slug: >-
-  why-your-holiday-fruitcake-may-be-raising-your-fasting-glucose-even-if-it-s-no-sugar-added
+slug: why-your-holiday-fruitcake-may-be-raising-your-fasting-glucose-even-if-it-s-no-sugar-added
 description: >-
-  Breaks down how concentrated dried fruits, fructose-rich syrups, and resistant
-  starch breakdown in aged cakes impact overnight glycemia—and offers
-  lab-validated substitution ratios for safer traditional recipes.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: fruitcake fasting glucose seniors
@@ -15,13 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
-    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
-    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # Why Fruitcake May Affect Fasting Glucose in Seniors—Even Without Added Sugar

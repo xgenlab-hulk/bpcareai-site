@@ -1,7 +1,6 @@
 ---
 title: "When Night Cough Signals a Heart Problem, Not Asthma \u2014 Women 58-67"
-slug: >-
-  warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis
+slug: warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis
 description: "A weak right heart chamber (right ventricular dysfunction) pushes pressure into lungs, triggering cough that mimics asthma. Echo clue: TAPSE below 16mm."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
-    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
-    natural-ways-to-support-right-ventricular-adaptation-to-pulmonary-vascular-resistance-in-adults-63-79-with-mild-copd-and-preserved-left-ventricular-ejection-fraction
   - >-
-    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
 ---
 
 # Right Ventricular Dysfunction Nocturnal Cough in Women 58–67: When Heart Signals Masquerade as Lung Trouble

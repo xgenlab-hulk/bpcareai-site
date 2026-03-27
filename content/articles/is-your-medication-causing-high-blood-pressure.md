@@ -2,8 +2,6 @@
 title: Is Your Medication Causing High Blood Pressure?
 slug: is-your-medication-causing-high-blood-pressure
 description: >-
-  Find out which common prescription and over-the-counter drugs may elevate
-  blood pressure and when to talk to your doctor.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: medications that raise blood pressure
@@ -15,7 +13,6 @@ relatedSlugs:
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
   - could-your-medications-be-raising-your-blood-pressure
   - >-
-    10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
 ---
 
 # Could These Medications Be Raising Your Blood Pressure?

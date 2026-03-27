@@ -1,13 +1,7 @@
 ---
 title: >-
-  Natural Ways to Support Serotonin Synthesis Without SSRIs in Older Adults With
-  Mild Seasonal Depression and Low Tryptophan Intake
-slug: >-
-  natural-ways-to-support-serotonin-synthesis-without-ssris-in-older-adults-with-mild-seasonal-depression-and-low-tryptophan-intake
+slug: natural-ways-to-support-serotonin-synthesis-without-ssris-in-older-adults-with-mild-seasonal-depression-and-low-tryptophan-intake
 description: >-
-  Details food-based tryptophan pairing (e.g., pumpkin seeds + barley),
-  co-factor optimization (B6, magnesium, iron), and gut-microbiome
-  supports—backed by geriatric nutritional neuroscience trials.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: serotonin synthesis natural ways seniors tryptophan intake
@@ -15,13 +9,9 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
   - >-
-    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
   - >-
-    quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
   - >-
-    best-snack-pairings-to-stabilize-energy-and-mood-between-holiday-meals-for-men-60-72-with-late-onset-depression-and-low-testosterone
 ---
 
 # Natural Ways to Support Serotonin Synthesis in Seniors: Optimizing Tryptophan Intake and Co-Factors for Mild Seasonal Depression

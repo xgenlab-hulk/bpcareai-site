@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Late-Night Holiday Snacking Disrupts Circadian Rhythms and Sleep Quality
-  in Adults 65+
-slug: >-
-  how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+slug: how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
 description: >-
-  Explains the impact of nocturnal eating on melatonin release, insulin
-  sensitivity, and REM sleep architecture—and offers circadian-aligned timing
-  strategies for festive snacking.
 date: '2025-12-18'
 updated: '2025-12-18'
 primaryKeyword: late-night snacking seniors circadian rhythm

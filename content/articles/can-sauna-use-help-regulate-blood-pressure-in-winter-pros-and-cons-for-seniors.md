@@ -1,11 +1,7 @@
 ---
 title: 'Can Sauna Use Regulate Blood Pressure in Winter? Senior Guide'
-  Can Sauna Use Help Regulate Blood Pressure in Winter? Pros and Cons for
-  Seniors
 slug: can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
 description: 'Sauna 2-3x weekly may reduce BP 7/5 mmHg in 8 weeks for seniors with high blood pressure (hypertension)—but standing dizziness and drug interactions need care.'
-  Evaluates the cardiovascular effects of sauna therapy as a potential winter
-  wellness tool for older adults with hypertension.
 date: '2025-12-07'
 updated: '2026-03-27'
 primaryKeyword: 'is sauna safe for blood pressure in seniors in winter'

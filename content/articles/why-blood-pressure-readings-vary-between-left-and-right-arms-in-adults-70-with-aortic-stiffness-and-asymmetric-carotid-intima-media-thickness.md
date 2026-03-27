@@ -1,13 +1,7 @@
 ---
 title: 'Why BP Reads Different in Each Arm and When It Signals Danger'
-  Why Blood Pressure Readings Vary Between Left and Right Arms in Adults 70+
-  With Aortic Stiffness and Asymmetric Carotid Intima-Media Thickness
-slug: >-
-  why-blood-pressure-readings-vary-between-left-and-right-arms-in-adults-70-with-aortic-stiffness-and-asymmetric-carotid-intima-media-thickness
+slug: why-blood-pressure-readings-vary-between-left-and-right-arms-in-adults-70-with-aortic-stiffness-and-asymmetric-carotid-intima-media-thickness
 description: 'Over 10 mmHg difference between arms signals uneven artery hardening (arterial stiffness) and doubles stroke risk after 70. Neck artery scans confirm it.'
-  Explores the clinical significance of inter-arm BP differences in older
-  adults, linking vascular asymmetry, arterial aging, and stroke risk — with
-  actionable thresholds for when to investigate further.
 date: '2026-01-15'
 updated: '2026-03-27'
 primaryKeyword: 'why blood pressure differs between arms in older adults'
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
   - >-
-    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
-    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
   - >-
-    how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
   - >-
-    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
 ---
 
 # Why Inter-Arm Blood Pressure Difference in Elderly Adults Deserves Gentle Attention

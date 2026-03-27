@@ -1,13 +1,7 @@
 ---
 title: >-
-  Warning Signs Your Holiday Heart Syndrome Is Actually Early-Stage Cardiac
-  Amyloidosis — Especially If You’re Over 75 and Have Carpal Tunnel or Lumbar
-  Spinal Stenosis
-slug: >-
-  warning-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-amyloidosis-especially-if-you-re-over-75-and-have-carpal-tunnel-or-lumbar-spinal-stenosis
+slug: warning-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-amyloidosis-especially-if-you-re-over-75-and-have-carpal-tunnel-or-lumbar-spinal-stenosis
 description: >-
-  Highlights atypical, multi-system red flags that suggest misdiagnosed
-  amyloidosis rather than benign holiday-induced arrhythmia in the very elderly.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: holiday palpitations cardiac amyloidosis red flags
@@ -15,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-worsens-using-serum-free-light-chains-and-strain-echocardiography-in-adults-79-with-unexplained-orthostatic-hypotension-and-carpal-tunnel-syndrome
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
 ---
 
 # Holiday Palpitations Cardiac Amyloidosis Red Flags: What to Watch For After Age 75

@@ -1,13 +1,7 @@
 ---
 title: >-
-  When to Worry About 'Just One More Glass' — Early QTc Prolongation Signs After
-  Holiday Wine Consumption in Women 62+ on SSRIs
-slug: >-
-  when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris
+slug: when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris
 description: >-
-  Identifies subtle symptoms like morning lightheadedness, delayed sinus
-  recovery after standing, and nocturnal PVC clustering as red flags for
-  drug-alcohol QT prolongation in older women on antidepressants.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: holiday wine qt prolongation ssri women
@@ -15,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
-    the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone
   - >-
-    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
   - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
 ---
 
 # When “Just One More Glass” Raises QT Concerns: Holiday Wine QT Prolongation in Women 62+ on SSRIs

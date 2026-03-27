@@ -1,7 +1,6 @@
 ---
 title: Late-Night Leftovers and Next-Day Blood Sugar — Risks After 59
-slug: >-
-  how-late-night-holiday-leftovers-affect-circadian-rhythm-gene-expression-in-adults-59-70-with-shift-work-history-and-mild-insulin-resistance
+slug: how-late-night-holiday-leftovers-affect-circadian-rhythm-gene-expression-in-adults-59-70-with-shift-work-history-and-mild-insulin-resistance
 description: Eating after 10 p.m. suppresses the clock gene PER3 by 35%, cutting next-morning glucose tolerance (insulin sensitivity) 18% in adults 59-70 with shift-work.
 date: '2026-01-25'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
-    how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history
   - >-
-    how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65
   - >-
-    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
 ---
 
 # How Late-Night Leftovers Influence Circadian Gene Expression in Adults 59–70 With Shift-Work History and Mild Insulin Resistance

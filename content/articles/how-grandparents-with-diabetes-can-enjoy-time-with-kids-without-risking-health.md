@@ -2,8 +2,6 @@
 title: How Grandparents with Diabetes Can Enjoy Time with Kids Without Risking Health
 slug: how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
 description: >-
-  Practical guidance for senior family members to participate fully in holiday
-  traditions while staying safe.
 date: '2025-12-06'
 updated: '2025-12-06'
 primaryKeyword: grandparents diabetes holiday safety
@@ -11,7 +9,6 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - managing-diabetes-while-traveling-tips-for-seniors
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes

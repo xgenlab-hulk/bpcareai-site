@@ -1,7 +1,6 @@
 ---
 title: Crossing Your Legs During BP Checks Adds 5-8 mmHg After 58
-slug: >-
-  does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
+slug: does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
 description: "Crossing legs squeezes the thigh artery (femoral artery), adding 5-8 mmHg systolic \u2014 enough to falsely flag hypertension. Uncross and wait 2 min to remeasure."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-calibrate-your-home-blood-pressure-cuff-using-the-triple-reading-posture-reset-validated-in-adults-with-arthritis-and-limited-shoulder-mobility
   - >-
-    12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
   - >-
-    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
   - >-
-    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
   - >-
-    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
 ---
 
 # Does Sitting Cross-Legged Affect Your Blood Pressure Readings? What Recent Research Says for Adults 58+

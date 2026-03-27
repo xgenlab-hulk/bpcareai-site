@@ -2,8 +2,6 @@
 title: 'Can Energy Drinks at Holiday Parties Cause Heart Problems in Seniors?'
 slug: can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
 description: 'A 16-oz energy drink raises systolic BP 5-10 mm Hg for 6 hours. Adults 55+ face double the caffeine-triggered irregular heartbeat (arrhythmia) risk.'
-  Analyze the cardiac risks of combining caffeine-laden beverages with alcohol
-  and rich foods during seasonal celebrations.
 date: '2025-12-18'
 updated: '2026-03-27'
 primaryKeyword: 'energy drinks and heart risk for seniors at parties'

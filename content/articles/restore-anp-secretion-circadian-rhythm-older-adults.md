@@ -1,7 +1,6 @@
 ---
 title: "Seniors 71+: Why Frequent Nighttime Urination Links to BP Surges"
-slug: >-
-  natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers
+slug: natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers
 description: "A heart hormone (ANP) that flushes sodium loses its daily rhythm after 70, triggering overnight BP spikes. Morning light before 9am and foot warming reset it."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-
-    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
   - >-
-    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
   - >-
-    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
   - >-
-    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
 ---
 
 # Natural Ways to Restore ANP Secretion Circadian Rhythm in Older Adults — Especially After Age 71

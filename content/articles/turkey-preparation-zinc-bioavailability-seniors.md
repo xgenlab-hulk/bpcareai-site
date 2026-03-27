@@ -1,14 +1,7 @@
 ---
 title: >-
-  A vs B: Slow-Cooked Herb-Roasted Turkey Breast vs. Deep-Fried Turkey Leg—Which
-  Preserves More Bioavailable Zinc and Supports Immune Resilience in Seniors
-  With Low Serum Zinc?
-slug: >-
-  a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
+slug: a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
 description: >-
-  Compares zinc bioavailability, oxidative byproduct formation, and postprandial
-  inflammatory markers between two popular holiday turkey preparations in adults
-  aged 65–85 with subclinical zinc deficiency.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: turkey preparation zinc bioavailability seniors
@@ -16,13 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - >-
-    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
   - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
   - >-
-    a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis
 ---
 
 # Slow-Cooked Herb-Roasted Turkey Breast vs. Deep-Fried Turkey Leg: What’s Best for Zinc Bioavailability and Immune Support in Seniors?

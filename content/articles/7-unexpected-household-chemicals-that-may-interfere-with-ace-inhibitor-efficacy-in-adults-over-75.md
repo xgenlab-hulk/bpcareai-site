@@ -1,13 +1,7 @@
 ---
 title: '7 Household Chemicals That May Undermine ACE Inhibitor Efficacy After 75'
-  7 Unexpected Household Chemicals That May Interfere With ACE Inhibitor
-  Efficacy in Adults Over 75
-slug: >-
-  7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75
+slug: 7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75
 description: 'Cleaning agents, personal care products, and botanical pesticides can affect kidney blood flow or drug-metabolizing enzymes, blunting ACE inhibitor response in adults over 75.'
-  Identifies common cleaning, personal care, and pest-control products
-  containing compounds that may blunt the antihypertensive response to ACE
-  inhibitors.
 date: '2026-01-08'
 updated: '2026-03-27'
 primaryKeyword: 'household chemicals that interfere with ACE inhibitors over 75'
@@ -15,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents
   - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - >-
-    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
   - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
-    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
 ---
 
 # 7 Common Household Chemicals That May Affect ACE Inhibitor Effectiveness in Older Adults

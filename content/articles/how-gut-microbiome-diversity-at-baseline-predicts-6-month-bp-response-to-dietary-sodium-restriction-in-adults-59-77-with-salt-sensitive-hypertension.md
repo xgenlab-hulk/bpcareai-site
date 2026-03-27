@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Gut Microbiome Diversity at Baseline Predicts 6-Month BP Response to
-  Dietary Sodium Restriction in Adults 59–77 With Salt-Sensitive Hypertension
-slug: >-
-  how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
+slug: how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
 description: >-
-  Synthesizes emerging evidence linking specific microbial taxa (e.g.,
-  *Prevotella*-to-*Bacteroides* ratio) with differential renin–angiotensin
-  modulation during sodium reduction.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: gut microbiome sodium restriction bp response
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
-    blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
   - >-
-    natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema
   - >-
-    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
 ---
 
 # How Your Gut Microbiome Influences Blood Pressure Response to Sodium Restriction in Older Adults

@@ -1,13 +1,7 @@
 ---
 title: 'Kidney-Safe Holiday Eating for Adults 67+ With Stage 3 CKD'
-  Simple Steps to Protect Your Kidneys During Holiday Feasting — If You’re 67+
-  With Stage 3 CKD and Mild Hyperkalemia
-slug: >-
-  simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
+slug: simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
 description: 'Boiling sweet potatoes leaches 40-50% of potassium (hyperkalemia risk). Take phosphate binders 10 min before turkey — not after — for 30% better binding.'
-  Prioritizes potassium-binding food combos, cooking techniques that leach
-  potassium, and timing of phosphate binders relative to high-risk dishes like
-  sweet potatoes and turkey skin.
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'how to protect kidneys during holiday meals with CKD'
@@ -15,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
-    what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
   - >-
-    can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
   - >-
-    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
 ---
 
 # Kidney Protection During Holiday Feasting: A Gentle Guide for Adults 67+ with Stage 3 CKD and Mild Hyperkalemia

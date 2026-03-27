@@ -1,11 +1,7 @@
 ---
 title: 7 Signs Your Diabetes Meds Are Dropping Sodium After a Hot Tub
-slug: >-
-  7-silent-signs-your-diabetes-medication-is-causing-subclinical-hyponatremia-especially-after-hot-tub-soaking-in-adults-72
+slug: 7-silent-signs-your-diabetes-medication-is-causing-subclinical-hyponatremia-especially-after-hot-tub-soaking-in-adults-72
 description: >-
-  Thiazides and SGLT2 inhibitors push sodium below 130 mmol/L after heat,
-  causing gait problems that mimic aging — low blood sodium (hyponatremia) in
-  adults 72+.
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: can diabetes medication cause low sodium after hot tub
@@ -13,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-bp-meds-are-causing-subclinical-hyponatremia-especially-if-you-re-71-on-thiazides-and-taking-ssris
   - >-
-    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - >-
-    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
   - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
 ---
 
 # 7 Quiet Clues Your Diabetes Medication Might Be Lowering Sodium—Especially After Hot-Tub Soaking in Adults 72+

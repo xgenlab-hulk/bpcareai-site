@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Complete Guide to Interpreting Home BP Log Patterns — Spotting Masked
-  Hypertension, White-Coat Effect, and Circadian Shifts in Adults 59–71
-slug: >-
-  the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71
+slug: the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71
 description: >-
-  Walks through real-world log examples (with annotated charts), teaching users
-  to identify clinically meaningful patterns — not just averages — using
-  time-stamped, posture-annotated readings.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: home bp log pattern interpretation
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
   - >-
-    the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings
   - >-
-    the-complete-guide-to-interpreting-home-bp-logs-for-adults-58-72-with-white-coat-hypertension-and-high-work-stress
   - >-
-    the-complete-guide-to-interpreting-your-home-bp-log-for-patterns-especially-if-you-re-60-and-tracking-after-antihypertensive-dose-changes
   - >-
-    the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
 ---
 
 # Understanding Your Home BP Log Pattern Interpretation: A Gentle Guide for Adults 59–71

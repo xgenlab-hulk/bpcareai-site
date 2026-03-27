@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About 'Low-Sodium' Frozen Dinners Marketed to Seniors — Why 78%
-  Still Exceed ADA Sodium Targets for Stage 1 Hypertension
-slug: >-
-  the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension
+slug: the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension
 description: >-
-  Investigates hidden sodium sources (yeast extract, soy sauce derivatives,
-  sodium citrate preservatives) in mainstream 'heart-healthy' frozen meals and
-  provides label-reading criteria for adults 64+ managing mild hypertension.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: low-sodium frozen dinner sodium trap
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-marketed-to-seniors-why-74-contain-hidden-sodium-potassium-imbalance-triggers-in-adults-78-with-mild-diastolic-dysfunction
   - >-
-    the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
-    the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension
 ---
 
 # Breaking Free from the Low-Sodium Frozen Dinner Sodium Trap — What Seniors *Really* Need to Know

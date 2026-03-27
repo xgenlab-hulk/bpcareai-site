@@ -1,14 +1,7 @@
 ---
 title: >-
-  5 Things Every Man Over 74 Should Know About Testosterone Deficiency and Its
-  Impact on Skeletal Muscle Glucose Uptake — Especially With Concurrent Statin
-  Use
-slug: >-
-  5-things-every-man-over-74-should-know-about-testosterone-deficiency-and-its-impact-on-skeletal-muscle-glucose-uptake-especially-with-concurrent-statin-use
+slug: 5-things-every-man-over-74-should-know-about-testosterone-deficiency-and-its-impact-on-skeletal-muscle-glucose-uptake-especially-with-concurrent-statin-use
 description: >-
-  Explains how age-related hypogonadism, statin-induced myotoxicity, and
-  sarcopenic insulin resistance interact—and what actionable, lab-guided
-  interventions exist beyond hormone replacement.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: testosterone deficiency muscle glucose uptake men
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake
   - >-
-    5-things-every-man-over-72-should-know-about-testosterone-replacement-therapy-and-its-effect-on-hepatic-glucose-production-especially-with-concomitant-nafld
   - >-
-    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
-    natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
   - >-
-    5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration
 ---
 
 # What Every Man Over 74 Should Know About Testosterone Deficiency, Muscle Glucose Uptake, and Statin Use

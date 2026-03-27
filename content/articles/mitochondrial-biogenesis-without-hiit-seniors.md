@@ -1,7 +1,6 @@
 ---
 title: "Building Muscle Energy Without HIIT — What Works After 71"
-slug: >-
-  natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes
+slug: natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes
 description: "Cold-steeped green tea keeps 2.3x more EGCG, sparking new cell powerhouses (mitochondrial biogenesis). Seated band cycling added 12% enzyme gain over 10 weeks."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-supplements-for-adults-56-70-with-insulin-resistance-and-sedentary-desk-jobs
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
 ---
 
 # Gentle Ways to Support Mitochondrial Biogenesis Without HIIT in Seniors — Especially for Those 71+ With Sarcopenia and Prediabetes

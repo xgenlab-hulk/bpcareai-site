@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Causes 'White-Coat Normotension'—When Clinic Readings Are Normal but
-  Ambulatory Monitoring Shows Stage 1 Hypertension in Adults 61–75?
-slug: >-
-  what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
+slug: what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
 description: >-
-  Investigates under-recognized contributors including clinic anxiety-induced
-  vagal dominance, reverse white-coat effect, and measurement timing relative to
-  circadian trough.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: white-coat normotension ambulatory hypertension
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
-    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
   - >-
-    myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
   - >-
-    why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
   - >-
-    5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
 ---
 
 # Understanding White-Coat Normotension Ambulatory Hypertension: When Clinic Readings Hide the Full Picture

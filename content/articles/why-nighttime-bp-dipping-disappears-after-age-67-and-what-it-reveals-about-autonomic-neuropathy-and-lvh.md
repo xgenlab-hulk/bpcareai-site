@@ -1,7 +1,6 @@
 ---
 title: Why Your Blood Pressure Stops Dropping at Night After 67
-slug: >-
-  why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
+slug: why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
 description: Losing the normal 10-15% nighttime dip (non-dipping) signals early nerve damage (autonomic neuropathy) and heart thickening (LVH). 24-hour monitoring confirms.
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
   - >-
-    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
   - >-
-    the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
   - >-
-    how-chronic-loneliness-after-retirement-affects-24-hour-blood-pressure-patterns-in-adults-62-78-with-preserved-ejection-fraction
   - >-
-    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
 ---
 
 # Why Non-Dipping Blood Pressure Aging Is a Clue — Not Just a Quirk — After 67

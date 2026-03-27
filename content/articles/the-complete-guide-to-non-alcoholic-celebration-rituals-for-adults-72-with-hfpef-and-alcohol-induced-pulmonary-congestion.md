@@ -1,7 +1,6 @@
 ---
 title: Heart-Safe Celebrating Without Alcohol for Seniors 72+ With HFpEF
-slug: >-
-  the-complete-guide-to-non-alcoholic-celebration-rituals-for-adults-72-with-hfpef-and-alcohol-induced-pulmonary-congestion
+slug: the-complete-guide-to-non-alcoholic-celebration-rituals-for-adults-72-with-hfpef-and-alcohol-induced-pulmonary-congestion
 description: Even 1 glass raises lung fluid pressure (PCWP) 4-6 mmHg in adults 72+ with stiff-heart failure (HFpEF). Sparkling teas keep celebration without breathlessness.
 date: '2026-01-23'
 updated: 2026-03-26
@@ -11,11 +10,8 @@ image: ''
 relatedSlugs:
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
   - >-
-    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
   - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
 ---
 

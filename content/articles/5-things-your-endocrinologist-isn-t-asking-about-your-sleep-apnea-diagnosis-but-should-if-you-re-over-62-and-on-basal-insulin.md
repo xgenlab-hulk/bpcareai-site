@@ -2,7 +2,6 @@
 title: 'How Sleep Apnea Disrupts Basal Insulin Overnight After 62'
 slug: sleep-apnea-basal-insulin-62
 description: 'Seniors with moderate sleep apnea (OSA) produce 30% more glucose overnight via cortisol. Five metrics beyond AHI matter for basal insulin management at 62+.'
-  On basal insulin and have sleep apnea? Get 3 at-home checks for overnight glucose safety, CPAP timing strategies, and when to adjust meds—proven for adults 62+.
 date: '2025-12-27'
 updated: '2026-03-27'
 primaryKeyword: 'sleep apnea effect on basal insulin overnight after 62'
@@ -11,12 +10,9 @@ image: ''
 relatedSlugs:
   - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - >-
-    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
   - >-
-    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - >-
-    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
 ---
 
 # What Your Endocrinologist *Should* Be Asking About Sleep Apnea and Basal Insulin in Seniors—But Often Isn’t

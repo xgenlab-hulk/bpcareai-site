@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Are the Earliest Cognitive Red Flags Suggesting Hypertensive
-  Microvascular Encephalopathy—Before MRI Shows White Matter Hyperintensities?
-slug: >-
-  what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
+slug: what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
 description: >-
-  Details subtle, pre-imaging neuropsychological changes—like slowed verbal
-  fluency timing or inconsistent dual-task gait—linked to early cerebral
-  small-vessel disease in treated hypertension.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: "health management seniors"
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
   - >-
-    how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
   - >-
-    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
   - >-
-    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
 ---
 
 # Early Cognitive Red Flags in Hypertensive Microvascular Encephalopathy—Before Imaging Changes Appear

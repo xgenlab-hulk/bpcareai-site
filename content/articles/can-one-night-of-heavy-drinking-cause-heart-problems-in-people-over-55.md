@@ -2,8 +2,6 @@
 title: 'Can One Night of Heavy Drinking Cause Heart Problems After 55?'
 slug: can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
 description: 'One heavy drinking episode raises BP 20% and disrupts electrolytes. Adults over 60 are 3x more likely to develop irregular heartbeat (atrial fibrillation).'
-  Address acute cardiac risks from episodic overindulgence, focusing on
-  age-related physiological vulnerability.
 date: '2025-12-13'
 updated: '2026-03-27'
 primaryKeyword: 'can binge drinking cause heart problems after 55'
@@ -11,7 +9,6 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - the-truth-about-alcohol-and-heart-health-after-55
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults

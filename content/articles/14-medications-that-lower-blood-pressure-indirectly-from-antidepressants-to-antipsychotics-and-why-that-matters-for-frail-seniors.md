@@ -1,10 +1,7 @@
 ---
 title: '14 Medications That Secretly Lower Blood Pressure in Adults 70+'
-  Antidepressant Causing Dizziness? (14 Meds Drop BP 70+)
-slug: >-
-  antidepressant-dizziness-meds-drop-bp-70
+slug: antidepressant-dizziness-meds-drop-bp-70
 description: 'Antidepressants and sleep meds can cause drops when standing (orthostatic hypotension), raising fall risk 2-3x in adults 70+ on 5+ drugs.'
-  Antidepressant causing dizziness when standing? Discover 14 meds that drop BP indirectly, fall risks, and safe standing tests—essential for adults 70+ on multiple meds.
 date: '2025-12-29'
 updated: '2026-03-27'
 primaryKeyword: 'medications that lower blood pressure indirectly seniors'
@@ -13,11 +10,8 @@ image: ''
 relatedSlugs:
   - could-your-medications-be-raising-your-blood-pressure
   - >-
-    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
   - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
 ---
 

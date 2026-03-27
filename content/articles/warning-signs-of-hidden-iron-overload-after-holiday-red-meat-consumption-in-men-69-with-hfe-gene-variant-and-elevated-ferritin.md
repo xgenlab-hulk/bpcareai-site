@@ -1,7 +1,6 @@
 ---
 title: "Iron Overload After Holiday Roasts: Warning Signs for Men 69+"
-slug: >-
-  warning-signs-of-hidden-iron-overload-after-holiday-red-meat-consumption-in-men-69-with-hfe-gene-variant-and-elevated-ferritin
+slug: warning-signs-of-hidden-iron-overload-after-holiday-red-meat-consumption-in-men-69-with-hfe-gene-variant-and-elevated-ferritin
 description: Ferritin above 300 ng/mL plus the HFE gene variant means 3 holiday roasts can push iron into the danger zone. Watch for joint warmth and restless legs.
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -10,13 +9,9 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion
   - >-
-    7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate
   - >-
-    does-holiday-caffeine-from-spiced-chai-or-eggnog-really-worsen-nocturnal-myoclonus-in-seniors-with-restless-legs-syndrome
   - >-
-    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 

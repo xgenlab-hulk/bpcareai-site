@@ -2,8 +2,6 @@
 title: How Cold Weather and Holiday Inactivity Combine to Affect Insulin Sensitivity
 slug: how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 description: >-
-  Discover how winter conditions and reduced movement during holidays impact
-  insulin response in older diabetics.
 date: '2025-11-30'
 updated: '2025-11-30'
 primaryKeyword: cold weather insulin sensitivity seniors

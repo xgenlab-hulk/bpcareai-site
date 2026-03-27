@@ -1,12 +1,7 @@
 ---
 title: 'Morning Low Blood Sugar on Insulin After 74: When to Worry'
-  When to Worry About Morning Hypoglycemia in Adults 74+ Taking Basal Insulin
-  and Polypharmacy—Especially With Concurrent SGLT2 Inhibitor Use
-slug: >-
-  when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
+slug: when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
 description: 'SGLT2 inhibitors plus basal insulin create a 3-5 AM danger window. Adults 74+ may not feel lows (hypoglycemia unawareness), raising fall risk 2.3x.'
-  Identifies pharmacokinetic windows of vulnerability, circadian cortisol
-  blunting, and red-flag symptoms masked by age-related autonomic attenuation.
 date: '2026-01-15'
 updated: '2026-03-27'
 primaryKeyword: 'morning low blood sugar on basal insulin after 74'
@@ -14,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
   - >-
-    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
   - >-
-    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
   - >-
-    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
 ---
 
 # Recognizing Morning Hypoglycemia in Older Adults on Basal Insulin — Especially with SGLT2 Inhibitors and Multiple Medications

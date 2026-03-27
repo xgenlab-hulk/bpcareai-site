@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About ‘Low-Carb’ Restaurant Menus for Women With PCOS and Insulin
-  Resistance—Why 20g Net Carb Claims Often Mask 45g+ Total Available Carbs
-slug: >-
-  the-truth-about-low-carb-restaurant-menus-for-women-with-pcos-and-insulin-resistance-why-20g-net-carb-claims-often-mask-45g-total-available-carbs
+slug: the-truth-about-low-carb-restaurant-menus-for-women-with-pcos-and-insulin-resistance-why-20g-net-carb-claims-often-mask-45g-total-available-carbs
 description: >-
-  Deconstructs restaurant menu labeling practices, fiber accounting loopholes,
-  and resistant starch misrepresentation in dishes marketed as 'low-carb' for
-  metabolic health.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: low-carb restaurant menu truth
@@ -15,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
   - >-
-    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
-    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
   - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 ---
 
 # The Real Story Behind ‘Low-Carb’ Restaurant Menus: What Women With PCOS and Insulin Resistance Need to Know About the Low-Carb Restaurant Menu Truth

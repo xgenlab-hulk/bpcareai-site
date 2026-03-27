@@ -1,13 +1,7 @@
 ---
 title: 'Sugar-Free Holiday Candy and Dental Health in Seniors Over 70'
-  Does 'Sugar-Free' Holiday Candy Really Protect Your Teeth in Adults 70+ With
-  Reduced Salivary Flow and Early Root Caries?
-slug: >-
-  does-sugar-free-holiday-candy-really-protect-your-teeth-in-adults-70-with-reduced-salivary-flow-and-early-root-caries
+slug: does-sugar-free-holiday-candy-really-protect-your-teeth-in-adults-70-with-reduced-salivary-flow-and-early-root-caries
 description: 'Sugar alcohols lower cavity risk, but reduced saliva (xerostomia) in seniors over 70 limits enamel repair. Xylitol gum at 6 g/day has the strongest evidence.'
-  Evaluates xylitol, erythritol, and isomalt content in common sugar-free
-  holiday treats—and their real-world impact on biofilm pH, remineralization
-  potential, and oral microbiome shifts.
 date: '2026-02-12'
 updated: '2026-03-27'
 primaryKeyword: 'sugar-free candy dental health seniors over 70'
@@ -15,14 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
   - >-
-    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
   - >-
-    the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
 ---
 
 # Does Sugar-Free Holiday Candy Really Support Dental Health in Seniors 70+? What You Should Know About Xylitol, Saliva, and Root Caries

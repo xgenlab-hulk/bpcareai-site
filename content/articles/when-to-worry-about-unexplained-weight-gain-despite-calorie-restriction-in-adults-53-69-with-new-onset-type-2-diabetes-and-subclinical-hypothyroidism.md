@@ -1,7 +1,6 @@
 ---
 title: Gaining Weight Despite Dieting? Check Your Thyroid and Diabetes
-slug: >-
-  when-to-worry-about-unexplained-weight-gain-despite-calorie-restriction-in-adults-53-69-with-new-onset-type-2-diabetes-and-subclinical-hypothyroidism
+slug: when-to-worry-about-unexplained-weight-gain-despite-calorie-restriction-in-adults-53-69-with-new-onset-type-2-diabetes-and-subclinical-hypothyroidism
 description: A borderline thyroid (TSH 4.5-10) slows metabolism 8-12% while new type 2 diabetes adds insulin-driven fat storage. Ask for free T3 testing, not just TSH.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
   - >-
-    warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
   - >-
-    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
   - >-
-    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
   - >-
-    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # When Unexplained Weight Gain Persists Despite Calorie Restriction in Adults with New-Onset Type 2 Diabetes and Subclinical Hypothyroidism

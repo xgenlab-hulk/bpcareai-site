@@ -2,8 +2,6 @@
 title: How Family Gatherings Can Unintentionally Raise Heart Attack Risk
 slug: how-family-gatherings-can-unintentionally-raise-heart-attack-risk
 description: >-
-  Analyze social dynamics like emotional tension, overeating, and routine
-  disruption that may contribute to cardiac incidents.
 date: '2025-12-11'
 updated: '2025-12-11'
 primaryKeyword: family gatherings heart attack risk

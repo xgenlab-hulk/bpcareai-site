@@ -1,7 +1,6 @@
 ---
 title: "Upper Arm vs. Wrist BP Monitor: Which Is Accurate After 65?"
-slug: >-
-  a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
+slug: a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
 description: Hard arteries (arterial calcification) inflate wrist readings 12-18 mmHg vs. upper arm cuffs. Tremor adds 8-15 mmHg error — upper arm wins for seniors 65+.
 date: '2026-01-25'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
   - >-
-    5-things-everyone-over-70-should-know-about-using-wrist-based-blood-pressure-monitors-with-atrial-fibrillation-and-radial-artery-calcification
   - >-
-    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
-    12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
 ---
 
 # Home Blood Pressure Cuff Accuracy: Upper Arm vs. Wrist Monitors for Seniors With Arterial Calcification and Tremor

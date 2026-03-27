@@ -1,7 +1,6 @@
 ---
 title: "Time-Restricted Eating for Liver Health: A Guide After 61"
-slug: >-
-  natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt
+slug: natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt
 description: An 8-hour eating window aligned to your liver clock (BMAL1 rhythm) boosts insulin sensitivity 18-25% in adults with fatty liver (NAFLD). Add protein at 5-6 PM.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
   - >-
-    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - >-
-    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
 ---
 
 # Boosting Liver Health Naturally: Time-Restricted Eating Hepatic Insulin Sensitivity for Adults 61–75 With NAFLD

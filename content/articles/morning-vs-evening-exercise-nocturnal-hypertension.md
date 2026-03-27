@@ -1,7 +1,6 @@
 ---
 title: "Morning Walk vs. Evening Exercise: Which Lowers Nighttime BP?"
-slug: >-
-  a-vs-b-morning-walking-pre-coffee-fasted-15-min-vs-evening-resistance-band-routine-post-dinner-12-min-impact-on-24-hour-ambulatory-bp-variability-in-adults-66-79-with-nocturnal-hypertension
+slug: a-vs-b-morning-walking-pre-coffee-fasted-15-min-vs-evening-resistance-band-routine-post-dinner-12-min-impact-on-24-hour-ambulatory-bp-variability-in-adults-66-79-with-nocturnal-hypertension
 description: "A 12-week crossover trial: evening resistance bands lowered nighttime systolic (nocturnal hypertension) 6 mmHg more than morning walks in adults 66-79."
 date: '2026-01-27'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension
   - >-
-    a-vs-b-evening-60-minute-seated-cycling-vs-morning-20-minute-resistance-band-routine-for-improving-24-hour-bp-variability-in-adults-60-73-with-isolated-systolic-hypertension
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-
-    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
   - >-
-    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
 ---
 
 # Morning vs Evening Exercise and Nocturnal Hypertension: What Timing Means for Blood Pressure Stability in Older Adults

@@ -1,7 +1,6 @@
 ---
 title: "Adults 75+: Why 140 mg/dL After Meals Triples Dementia Risk"
-slug: >-
-  myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c
+slug: myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c
 description: Blood sugar after eating (postprandial glucose) above 140 mg/dL predicts 3.2x higher dementia risk in adults 75+ — even with perfect A1C.
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
-    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
-    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
   - >-
-    a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea
   - >-
-    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
 ---
 
 # Postprandial Glucose and Dementia Risk in Older Adults: Why “Normal” After-Meal Blood Sugar Isn’t So Normal After 75

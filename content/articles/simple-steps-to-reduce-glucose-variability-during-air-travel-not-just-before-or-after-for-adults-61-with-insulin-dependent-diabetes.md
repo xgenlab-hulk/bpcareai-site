@@ -1,7 +1,6 @@
 ---
 title: "Managing Blood Sugar Mid-Flight for Insulin Users Over 61"
-slug: >-
-  simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes
+slug: simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes
 description: "Cabin pressure at cruising altitude shifts glucose 30-60 mg/dL. Covers in-flight insulin timing, blood sugar swings (glucose variability), and TSA device tips."
 date: '2026-02-08'
 updated: '2026-03-25'
@@ -10,13 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-reduce-bp-variability-during-air-travel-in-adults-70-with-history-of-hypertensive-urgency
   - >-
-    holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
   - >-
-    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
   - >-
-    how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 ---
 

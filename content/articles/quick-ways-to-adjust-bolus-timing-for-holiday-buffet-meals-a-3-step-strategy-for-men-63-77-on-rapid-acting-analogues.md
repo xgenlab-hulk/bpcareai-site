@@ -1,14 +1,7 @@
 ---
 title: 'Men 63+: Timing Your Insulin for Holiday Buffet Meals'
-  Quick Ways to Adjust Bolus Timing for Holiday Buffet Meals — A 3-Step Strategy
-  for Men 63–77 on Rapid-Acting Analogues
-slug: >-
-  quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
+slug: quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
 description: 'High-fat holiday buffets delay stomach emptying (gastroparesis effect) 30-45 min, causing late glucose spikes. A 3-step insulin timing fix for men 63-77.'
-  Provides a field-tested insulin-timing framework accounting for delayed
-  gastric emptying from high-fat holiday meals, ambient temperature effects on
-  insulin absorption, and postprandial glucose ‘lag spikes’ observed in older
-  males with mild gastroparesis.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'insulin timing for holiday buffets with delayed digestion'
@@ -16,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - >-
-    the-ultimate-guide-to-adjusting-rapid-acting-insulin-dosing-for-multi-course-holiday-dinners-with-carb-counting-fat-protein-factor-and-alcohol-adjustment-rules
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - >-
-    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
 ---
 
 # Smart Bolus Timing for Holiday Buffet Meals: A Gentle 3-Step Guide for Seniors Using Rapid-Acting Insulin

@@ -1,7 +1,6 @@
 ---
 title: '74+ With CKD? Make a Casserole Safe for Heart and Kidneys'
-slug: >-
-  heart-smart-casserole-ckd-stage3-74
+slug: heart-smart-casserole-ckd-stage3-74
 description: 'Hidden phosphate additives raise kidney load by 40%. Learn which swaps protect weakened kidneys (stage 3 CKD) and blood pressure when cooking after 74.'
 date: '2026-02-02'
 updated: '2026-03-28'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole
   - >-
-    5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
   - >-
-    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
-    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
 ---
 
 # What to Know Before Bringing a Heart-Smart Casserole for Kidney Disease to Your Next Family Gathering

@@ -1,13 +1,7 @@
 ---
 title: '7 Signs Your Nighttime BP Is Spiking on Beta-Blockers After 65'
-  7 Silent Signs Your Blood Pressure Is Spiking at Night—Especially If You’re on
-  Beta-Blockers and Over 65
-slug: >-
-  7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
+slug: 7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
 description: '30% of adults 65+ have non-dipping nocturnal BP that beta-blockers don\'t fully prevent. 7 silent signs blood pressure is spiking overnight with monitoring tips.'
-  Explores nocturnal hypertension red flags often missed during daytime checks,
-  with focus on medication interactions, sleep-disordered breathing, and
-  age-related autonomic changes.
 date: '2026-01-04'
 updated: '2026-03-27'
 primaryKeyword: 'signs BP spiking at night on beta blockers over 65'
@@ -15,13 +9,9 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
-    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 

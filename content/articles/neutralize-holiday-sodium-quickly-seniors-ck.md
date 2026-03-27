@@ -1,14 +1,7 @@
 ---
 title: >-
-  Quick Ways to Neutralize Excess Holiday Sodium *Within 20 Minutes* — Using
-  Targeted Potassium-Rich Bite-Sized Foods and Post-Meal Hydration Sequencing in
-  Adults 71+ With CKD Stage 3
-slug: >-
-  quick-ways-to-neutralize-excess-holiday-sodium-within-20-minutes-using-targeted-potassium-rich-bite-sized-foods-and-post-meal-hydration-sequencing-in-adults-71-with-ckd-stage-3
+slug: quick-ways-to-neutralize-excess-holiday-sodium-within-20-minutes-using-targeted-potassium-rich-bite-sized-foods-and-post-meal-hydration-sequencing-in-adults-71-with-ckd-stage-3
 description: >-
-  Offers evidence-based, kidney-safe sodium countermeasures: precise food
-  pairings, timing windows, and fluid-electrolyte kinetics tailored for reduced
-  GFR.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: neutralize holiday sodium quickly seniors ck
@@ -16,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
   - >-
-    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
   - >-
-    best-hydration-strategies-during-holiday-travel-for-adults-71-with-stage-3-ckd-and-diuretic-use-to-prevent-hypovolemia-induced-arrhythmias
   - >-
-    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
-    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
 ---
 
 # Quick, Kidney-Safe Ways to Neutralize Holiday Sodium Quickly Seniors CK — Especially with CKD Stage 3

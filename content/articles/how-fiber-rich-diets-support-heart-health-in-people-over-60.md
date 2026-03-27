@@ -2,8 +2,6 @@
 title: How Fiber-Rich Diets Support Heart Health in People Over 60
 slug: how-fiber-rich-diets-support-heart-health-in-people-over-60
 description: >-
-  Learn how increasing dietary fiber can improve cholesterol and reduce
-  cardiovascular events.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: high fiber diet benefits for heart health over 60

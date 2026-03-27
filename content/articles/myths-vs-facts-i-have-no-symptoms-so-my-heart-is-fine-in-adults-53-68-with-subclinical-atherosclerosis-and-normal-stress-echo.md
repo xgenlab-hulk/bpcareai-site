@@ -1,13 +1,7 @@
 ---
 title: 'No Symptoms, Normal Stress Test — Could You Still Have Heart Disease?'
-  Myths vs Facts: ‘I Have No Symptoms, So My Heart Is Fine’ in Adults 53–68 With
-  Subclinical Atherosclerosis and Normal Stress Echo
-slug: >-
-  myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
+slug: myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
 description: 'Over 40% of first heart attacks hit without warning. Hidden plaque (subclinical atherosclerosis) ruptures by core softness, not blockage size — echos miss half.'
-  Debunks asymptomatic reassurance by showing plaque rupture risk correlates
-  with necrotic core size, thin-cap fibroatheroma prevalence, and endothelial
-  shear stress — not stenosis severity.
 date: '2026-01-17'
 updated: '2026-03-27'
 primaryKeyword: 'heart disease with no symptoms and normal stress test'
@@ -15,14 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
-    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
   - >-
-    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
 ---
 
 # “I Feel Fine, So My Heart Must Be Okay” — Understanding Asymptomatic Heart Disease Subclinical Atherosclerosis

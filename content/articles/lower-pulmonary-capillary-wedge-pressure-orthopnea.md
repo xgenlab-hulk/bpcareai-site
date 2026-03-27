@@ -1,14 +1,7 @@
 ---
 title: 'Easing Breathlessness When Lying Flat — Posture Fixes for 68+'
-  Quick Ways to Lower Pulmonary Capillary Wedge Pressure Using Posture,
-  Diaphragmatic Positioning, and Expiratory Resistance—For Adults 68+ With
-  Orthopnea and Preserved EF
-slug: >-
-  quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
+slug: quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
 description: 'Forward lean plus pursed-lip breathing cuts lung fluid pressure (pulmonary wedge pressure) in 3-5 min. For adults 68+ breathless lying flat (orthopnea).'
-  Teaches seated forward lean + pursed-lip exhalation + abdominal bracing to
-  acutely reduce preload via thoracic pressure gradient shifts—validated by
-  invasive hemodynamics.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'how to ease breathing difficulty when lying flat'
@@ -16,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
   - >-
-    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
   - >-
-    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
   - >-
-    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
 ---
 
 # Gentle, Evidence-Based Ways to Lower Pulmonary Capillary Wedge Pressure in Orthopnea—Especially for Adults 68+

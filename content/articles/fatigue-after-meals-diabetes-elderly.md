@@ -1,14 +1,7 @@
 ---
 title: 'Why Seniors With Diabetes Feel Fatigue After Every Meal'
-  When to Worry About Unexplained Fatigue After Holiday Dinners — Distinguishing
-  Postprandial Hypotension From Early Autonomic Neuropathy in Adults 70+ With
-  Diabetes
-slug: >-
-  when-to-worry-about-unexplained-fatigue-after-holiday-dinners-distinguishing-postprandial-hypotension-from-early-autonomic-neuropathy-in-adults-70-with-diabetes
+slug: when-to-worry-about-unexplained-fatigue-after-holiday-dinners-distinguishing-postprandial-hypotension-from-early-autonomic-neuropathy-in-adults-70-with-diabetes
 description: 'Postprandial hypotension (BP drop after eating) affects 30% of seniors with diabetes. Autonomic neuropathy—in 40% of adults over 70—drives this fatigue pattern.'
-  Guides readers through differential diagnosis of post-meal fatigue using
-  orthostatic vitals, 10-minute tilt-table proxies, and validated autonomic
-  symptom questionnaires — with red-flag thresholds and home testing protocols.
 date: '2026-02-22'
 updated: '2026-03-27'
 primaryKeyword: 'fatigue after meals diabetes elderly causes treatment'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
   - >-
-    when-to-worry-about-sudden-fatigue-after-dinner-at-your-daughter-s-house-linking-postprandial-hypotension-autonomic-testing-and-family-meal-timing-in-adults-76
   - >-
-    when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea
   - >-
-    when-to-worry-about-sudden-midday-fatigue-after-age-64-distinguishing-hypoglycemia-associated-autonomic-failure-from-early-mitochondrial-myopathy-in-long-term-diabetes
   - >-
-    when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75
 ---
 
 # Fatigue After Meals Diabetes Elderly: What Holiday Dinners Might Reveal About Your Autonomic Health

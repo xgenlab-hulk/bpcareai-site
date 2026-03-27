@@ -1,7 +1,6 @@
 ---
 title: Why Antibiotics Spike Blood Sugar in Adults 59+ on Metformin
-slug: >-
-  how-gut-fungal-overgrowth-candida-albicans-correlates-with-post-antibiotic-glucose-spikes-in-adults-59-73-with-recurrent-utis-and-long-term-metformin-use
+slug: how-gut-fungal-overgrowth-candida-albicans-correlates-with-post-antibiotic-glucose-spikes-in-adults-59-73-with-recurrent-utis-and-long-term-metformin-use
 description: Repeated antibiotic courses let gut yeast (Candida albicans) overgrow, raising glucose 30-50 mg/dL for 5-10 days. Metformin itself shifts fungal balance.
 date: '2026-01-30'
 updated: '2026-03-26'
@@ -10,13 +9,9 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
   - >-
-    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
   - >-
-    how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs
   - >-
-    10-unexpected-medication-interactions-that-spike-blood-glucose-in-adults-62-taking-metformin-and-probiotics
 ---
 
 # Understanding Gut Fungi Post-Antibiotic Glucose Spikes in Adults 59–73 With Recurrent UTIs and Long-Term Metformin Use

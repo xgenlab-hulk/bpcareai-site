@@ -1,11 +1,7 @@
 ---
 title: Why OTC NSAIDs Raise Kidney Injury Risk With Diabetes After 62
-slug: >-
-  how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy
+slug: how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy
 description: >-
-  Even 3-5 days of ibuprofen can cut kidney blood flow (renal perfusion) 15-20%
-  when early diabetic kidney damage is present. Safer pain relief sequences
-  inside.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: can ibuprofen hurt my kidneys if I have diabetes
@@ -13,14 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
   - >-
-    the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
   - >-
-    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
 ---
 
 # How NSAIDs and Kidney Injury in Diabetes Affects Older Adults — And What You Can Safely Do

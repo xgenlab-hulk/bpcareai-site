@@ -1,10 +1,7 @@
 ---
 title: 'Why Family-Style Dinners Spike Blood Pressure After 60'
-  Family Dinners Spiking Your BP? (Post-Meal Guide 60+)
-slug: >-
-  family-meals-bp-spikes-seniors-60
+slug: family-meals-bp-spikes-seniors-60
 description: 'Shared platters delay fullness signals (satiety hormones) by 12-18 minutes, pushing portions up 35%. Five serving strategies cut post-meal BP spikes after 60.'
-  BP spikes 15-25 mmHg after family dinners? Discover why communal platters delay satiety signals—plus 5 proven portion strategies that stop post-meal surges in seniors 60+.
 date: '2026-01-15'
 updated: '2026-03-27'
 primaryKeyword: 'family style meals and blood pressure after 60'
@@ -12,13 +9,9 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
-    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
   - >-
-    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
   - >-
-    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
   - how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
 ---
 

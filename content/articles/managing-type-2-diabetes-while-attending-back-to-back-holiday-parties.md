@@ -2,8 +2,6 @@
 title: Managing Type 2 Diabetes While Attending Back-to-Back Holiday Parties
 slug: managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
 description: >-
-  Actionable tips for navigating multiple social events without compromising
-  glycemic control during peak season.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: managing diabetes at holiday parties

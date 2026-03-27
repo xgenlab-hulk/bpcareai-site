@@ -1,7 +1,6 @@
 ---
 title: 'On Blood Pressure Meds After 65? Watch for These 7 Silent Reflux Signs'
-slug: >-
-  7-often-overlooked-signs-your-holiday-meal-is-triggering-silent-reflux-especially-if-you-re-65-and-take-calcium-channel-blockers
+slug: 7-often-overlooked-signs-your-holiday-meal-is-triggering-silent-reflux-especially-if-you-re-65-and-take-calcium-channel-blockers
 description: 'BP pills that relax arteries also loosen your food-pipe valve (lower esophageal sphincter), raising silent reflux risk 30-40%. Morning hoarseness is a key clue.'
 date: '2026-01-26'
 updated: '2026-03-28'
@@ -11,13 +10,9 @@ image: ''
 relatedSlugs:
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
-    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
   - >-
-    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
   - >-
-    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - >-
-    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
 ---
 
 # 7 Subtle Signs Your Holiday Meal Might Be Triggering Silent Reflux — Especially If You’re 65+ and on Calcium Channel Blockers  

@@ -1,13 +1,7 @@
 ---
 title: >-
-  Myths vs Facts: 'My ECG Is Normal—So My Heart Is Fine'—Why Resting ECG Misses
-  68% of Early Conduction Abnormalities in Adults 65+
-slug: >-
-  myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
+slug: myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
 description: >-
-  Debunks assumptions about ECG sensitivity, citing data on PR prolongation,
-  fascicular blocks, and early AV node fibrosis detection—plus when to pursue
-  Holter, EP study, or cardiac MRI.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: ecg normalcy and conduction disease
@@ -15,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
   - >-
-    a-vs-b-home-based-ecg-patch-monitoring-zio-xt-vs-ambulatory-holter-for-detecting-asymptomatic-atrial-fibrillation-burden-in-adults-60-79-with-controlled-hypertension
   - >-
-    what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
   - >-
-    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 ---
 
 # “My ECG Is Normal—So My Heart Is Fine”: Why ECG Normalcy and Conduction Disease Don’t Always Go Hand in Hand

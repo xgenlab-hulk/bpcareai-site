@@ -1,7 +1,6 @@
 ---
 title: "Afternoon Sunlight and Blood Sugar: A Surprising Link After 59"
-slug: >-
-  how-late-afternoon-sunlight-exposure-regulates-hepatic-glucose-production-via-melanopsin-scn-arc-signaling-in-adults-59-66-with-insulin-resistance
+slug: how-late-afternoon-sunlight-exposure-regulates-hepatic-glucose-production-via-melanopsin-scn-arc-signaling-in-adults-59-66-with-insulin-resistance
 description: Late-afternoon light triggers eye sensors (melanopsin) that slow liver sugar output (hepatic gluconeogenesis), cutting fasting glucose 8-12 mg/dL.
 date: '2026-01-29'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
   - >-
-    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
   - >-
-    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
 ---
 
 # How Late-Afternoon Sunlight Exposure Helps Regulate Hepatic Glucose Production in Adults 50+

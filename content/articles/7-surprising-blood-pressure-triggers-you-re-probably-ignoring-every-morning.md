@@ -2,9 +2,6 @@
 title: '7 Morning Habits That Silently Spike Blood Pressure in Adults Over 55'
 slug: 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
 description: 'Up to 30% of adults over 60 have morning hypertension (systolic ≥135 on waking). Caffeine timing, rushed breakfasts, and medication errors are overlooked but fixable triggers.'
-  Explores overlooked daily habits—like caffeine timing, rushed breakfasts, and
-  morning medication errors—that spike BP before noon, with science-backed fixes
-  for adults over 55.
 date: '2025-12-18'
 updated: '2026-03-27'
 primaryKeyword: 'surprising morning habits that spike blood pressure over 55'

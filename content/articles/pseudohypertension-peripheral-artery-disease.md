@@ -1,7 +1,6 @@
 ---
 title: 'Why Your Arm Cuff May Show Wrong Blood Pressure With Artery Disease'
-slug: >-
-  myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries
+slug: myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries
 description: 'Calcified arteries from leg vessel disease (peripheral artery disease) inflate cuff readings 20-40 mmHg — a false high called pseudohypertension.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema
   - >-
-    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
   - >-
-    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
   - >-
-    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
-    quick-ways-to-calibrate-your-home-blood-pressure-cuff-using-the-triple-reading-posture-reset-validated-in-adults-with-arthritis-and-limited-shoulder-mobility
 ---
 
 # Pseudohypertension in Peripheral Artery Disease: Why a Normal Arm Cuff Reading Can Be Misleading

@@ -2,9 +2,6 @@
 title: '10 Hidden Medications That Raise Blood Pressure in Men Over 68'
 slug: medication-interactions-raise-blood-pressure-seniors
 description: 'OTC pseudoephedrine raises systolic pressure 5-15 mmHg in 30 minutes. Ten drugs—including topical testosterone—undermine blood pressure (BP) control in men 68+.'
-  10 medication interactions that raise blood pressure: OTC decongestants +
-  antidepressants, testosterone + finasteride. Safe alternatives for seniors
-  65+.
 date: '2026-01-04'
 updated: '2026-03-27'
 primaryKeyword: 'drugs that raise blood pressure in men over 68'
@@ -12,12 +9,9 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - could-your-medications-be-raising-your-blood-pressure
   - >-
-    7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens
   - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - is-your-medication-causing-high-blood-pressure
 ---
 

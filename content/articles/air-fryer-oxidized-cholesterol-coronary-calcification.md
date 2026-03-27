@@ -1,7 +1,6 @@
 ---
 title: Your Air Fryer May Be Damaging Your Arteries After 70
-slug: >-
-  the-truth-about-heart-healthy-air-fryer-cooking-for-adults-70-with-established-coronary-artery-calcification-and-why-oxidized-cholesterol-matters-more-than-saturated-fat
+slug: the-truth-about-heart-healthy-air-fryer-cooking-for-adults-70-with-established-coronary-artery-calcification-and-why-oxidized-cholesterol-matters-more-than-saturated-fat
 description: "Air frying above 200C creates 3-5x more oxidized cholesterol (oxysterols) than steaming \u2014 even in lean chicken. Adults 70+ with artery calcium should cut temps."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,11 +9,8 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
   - >-
-    12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis
   - >-
-    the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
 ---
 
 # Why Air Fryer Oxidized Cholesterol Matters for Older Adults with Coronary Artery Calcification

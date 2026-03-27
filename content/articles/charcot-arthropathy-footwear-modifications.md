@@ -1,14 +1,7 @@
 ---
 title: 'Footwear Modifications for Charcot Foot in Seniors With Diabetes'
-  Best Footwear Modifications for Adults With Diabetes and Charcot
-  Arthropathy—Based on Dynamic Pressure Mapping and 3D Gait Analysis in 92
-  Patients Over 65
-slug: >-
-  best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
+slug: best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
 description: 'Custom rocker-bottom soles with pressure-mapped insoles cut peak foot pressure (plantar loading) by 41% in 92 patients with diabetic bone changes.'
-  Details custom offloading strategies, rocker-bottom geometry parameters, and
-  in-shoe sensor feedback systems proven to reduce peak plantar pressure by
-  ≥41%.
 date: '2026-01-03'
 updated: '2026-03-27'
 primaryKeyword: 'Charcot arthropathy footwear modifications diabetes seniors'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
   - >-
-    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
   - >-
-    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
-    how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
 ---
 
 # Smart Footwear Solutions for Charcot Arthropathy in Older Adults with Diabetes  

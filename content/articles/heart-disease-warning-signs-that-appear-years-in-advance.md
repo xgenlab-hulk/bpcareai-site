@@ -2,8 +2,6 @@
 title: Heart Disease Warning Signs That Appear Years in Advance
 slug: heart-disease-warning-signs-that-appear-years-in-advance
 description: >-
-  Identify subtle early indicators—like fatigue, swelling, or shortness of
-  breath—that may signal future heart issues.
 date: '2025-11-28'
 updated: '2025-11-28'
 primaryKeyword: early warning signs of heart disease years in advance

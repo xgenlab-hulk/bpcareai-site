@@ -1,14 +1,7 @@
 ---
 title: >-
-  7 Hidden Stressors in Holiday Gift-Wrapping That Elevate Sympathetic Tone —
-  And Why That Triggers Atrial Ectopy in Adults 62+ With Early Autonomic
-  Imbalance
-slug: >-
-  7-hidden-stressors-in-holiday-gift-wrapping-that-elevate-sympathetic-tone-and-why-that-triggers-atrial-ectopy-in-adults-62-with-early-autonomic-imbalance
+slug: 7-hidden-stressors-in-holiday-gift-wrapping-that-elevate-sympathetic-tone-and-why-that-triggers-atrial-ectopy-in-adults-62-with-early-autonomic-imbalance
 description: >-
-  Identifies overlooked physical and cognitive stressors during common holiday
-  tasks, linking repetitive motion, lighting, and time pressure to transient
-  arrhythmia triggers in aging autonomic systems.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: holiday stress and atrial ectopy
@@ -16,12 +9,9 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-gift-wrapping-increases-sympathetic-drive-in-adults-with-orthostatic-intolerance-and-why-it-s-worse-than-late-night-eating
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-
-    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
   - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 

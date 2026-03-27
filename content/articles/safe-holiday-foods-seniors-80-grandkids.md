@@ -2,8 +2,6 @@
 title: 'Holiday Meals Safe for Seniors 80+ and Grandkids? (10 Foods)'
 slug: safe-holiday-foods-seniors-80-grandkids
 description: >-
-  Holiday meals worrying you? Discover 10 safe foods seniors 80+ can share with
-  grandkids—no blood sugar spikes, no bloating. Easy to chew, proven safe.
 date: '2026-01-18'
 updated: '2026-03-18'
 primaryKeyword: safe holiday foods seniors 80 grandkids
@@ -11,7 +9,6 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50

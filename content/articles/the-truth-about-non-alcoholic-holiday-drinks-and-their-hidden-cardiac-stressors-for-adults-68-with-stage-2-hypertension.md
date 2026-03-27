@@ -1,7 +1,6 @@
 ---
 title: "Non-Alcoholic Holiday Drinks: Hidden BP Triggers for Adults 68+"
-slug: >-
-  the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+slug: the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
 description: Zero-proof cocktails pack 25-40g sugar and 200-400mg sodium per serving, spiking blood pressure (postprandial hypertension) within 30 min in stage 2 patients.
 date: '2026-01-19'
 updated: '2026-03-26'
@@ -11,12 +10,9 @@ image: ''
 relatedSlugs:
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - >-
-    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
   - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - >-
-    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
   - >-
-    the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver
 ---
 
 # Non-Alcoholic Drinks and Holiday Heart Risk: What Adults 68+ with Stage 2 Hypertension Should Know

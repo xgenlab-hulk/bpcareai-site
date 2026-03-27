@@ -1,14 +1,7 @@
 ---
 title: >-
-  What Research Says About Magnesium Glycinate Timing Relative to Holiday
-  Desserts — Optimizing Absorption & Arrhythmia Protection in Adults 65+ With
-  Gastric Hypochlorhydria
-slug: >-
-  what-research-says-about-magnesium-glycinate-timing-relative-to-holiday-desserts-optimizing-absorption-arrhythmia-protection-in-adults-65-with-gastric-hypochlorhydria
+slug: what-research-says-about-magnesium-glycinate-timing-relative-to-holiday-desserts-optimizing-absorption-arrhythmia-protection-in-adults-65-with-gastric-hypochlorhydria
 description: >-
-  Analyzes optimal dosing windows, food interactions, and bioavailability data
-  for magnesium supplementation in the context of high-sugar, high-fat holiday
-  meals.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: magnesium glycinate holiday dessert timing
@@ -16,14 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
   - >-
-    5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
   - >-
-    10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
-    5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use
 ---
 
 # Magnesium Glycinate Holiday Dessert Timing: What Science Says for Heart Health After 65

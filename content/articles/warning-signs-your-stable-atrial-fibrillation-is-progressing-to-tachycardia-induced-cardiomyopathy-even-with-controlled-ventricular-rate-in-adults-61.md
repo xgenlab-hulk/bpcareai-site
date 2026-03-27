@@ -1,14 +1,7 @@
 ---
 title: >-
-  Warning Signs Your 'Stable' Atrial Fibrillation Is Progressing to
-  Tachycardia-Induced Cardiomyopathy — Even With Controlled Ventricular Rate in
-  Adults 61+
-slug: >-
-  warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61
+slug: warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61
 description: >-
-  Identifies subtle red flags like worsening exertional dyspnea despite stable
-  HR, progressive LA enlargement on echo, and declining NT-proBNP slope over 6
-  months.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: "health management adults 61+"
@@ -16,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue
   - >-
-    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
 ---
 
 # Recognizing Early tachycardia-induced cardiomyopathy warning signs in Older Adults with “Stable” Atrial Fibrillation

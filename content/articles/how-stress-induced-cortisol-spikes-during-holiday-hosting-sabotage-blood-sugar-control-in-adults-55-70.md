@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Stress-Induced Cortisol Spikes During Holiday Hosting Sabotage Blood Sugar
-  Control in Adults 55–70
-slug: >-
-  how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+slug: how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
 description: >-
-  Explores the physiological link between emotional labor of holiday hosting,
-  elevated cortisol, and postprandial hyperglycemia—backed by 2023 endocrinology
-  studies on aging HPA axis response.
 date: '2025-12-22'
 updated: '2025-12-22'
 primaryKeyword: cortisol and blood sugar during holidays

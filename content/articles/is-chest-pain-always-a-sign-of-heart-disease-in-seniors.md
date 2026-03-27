@@ -2,8 +2,6 @@
 title: Is Chest Pain Always a Sign of Heart Disease in Seniors?
 slug: is-chest-pain-always-a-sign-of-heart-disease-in-seniors
 description: >-
-  Examine other potential causes of chest discomfort in older adults and when to
-  seek immediate medical attention.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: chest pain not related to heart disease in seniors

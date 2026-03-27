@@ -1,7 +1,6 @@
 ---
 title: 'Handgrip Squeeze vs Breathing App: Which Lowers BP for Men 64+?'
-slug: >-
-  a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76
+slug: a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76
 description: 'Handgrip training dropped the lower BP number (diastolic) 5-8 mmHg in 4 weeks vs 2-4 for breathing apps — but adherence was 30% lower in men 64-76.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-daily-5-minute-isometric-handgrip-training-lower-ambulatory-diastolic-bp-in-sedentary-women-63-71-within-10-days
   - >-
-    quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74
   - >-
-    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
   - >-
-    best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74
   - >-
-    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
 ---
 
 # Isometric Handgrip vs Breathing App for Diastolic BP: What Works Best for Older Men?

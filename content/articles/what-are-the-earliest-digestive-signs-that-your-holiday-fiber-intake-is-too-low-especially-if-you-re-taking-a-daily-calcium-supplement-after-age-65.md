@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Are the Earliest Digestive Signs That Your Holiday Fiber Intake Is Too
-  Low—Especially If You're Taking a Daily Calcium Supplement After Age 65?
-slug: >-
-  what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
+slug: what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
 description: >-
-  Details subtle but clinically meaningful GI signals (e.g., stool buoyancy,
-  transit-related bloating timing, postprandial fullness duration) indicating
-  fiber-calcium interaction-induced constipation in aging guts.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: low fiber holiday constipation calcium
@@ -16,13 +10,9 @@ image: ''
 relatedSlugs:
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
-    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
   - >-
-    when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults
   - >-
-    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
   - >-
-    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
 ---
 
 # What Your Digestive System Is Trying to Tell You About Low Fiber Holiday Constipation Calcium—and Why Calcium Supplements Make It Trickier After 65

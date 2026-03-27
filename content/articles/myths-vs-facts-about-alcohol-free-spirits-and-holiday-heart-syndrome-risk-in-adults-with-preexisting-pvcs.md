@@ -1,13 +1,7 @@
 ---
 title: >-
-  Myths vs Facts About Alcohol-Free Spirits and Holiday Heart Syndrome Risk in
-  Adults With Preexisting PVCs
-slug: >-
-  myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
+slug: myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
 description: >-
-  Debunks assumptions about 'safe' non-alcoholic alternatives, highlighting
-  hidden triggers like high-quinine tonics, excessive caffeine analogs, and
-  glycyrrhizin-induced hypokalemia in botanical distillates.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: alcohol-free spirits and pvc risk in elderly
@@ -18,9 +12,7 @@ relatedSlugs:
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - >-
-    how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
   - >-
-    12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
 ---
 
 # Alcohol-Free Spirits and PVC Risk in Elderly Adults: Separating Holiday Heart Myths from Medical Reality

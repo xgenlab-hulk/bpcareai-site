@@ -1,7 +1,6 @@
 ---
 title: '7 Hidden Insulin Resistance Triggers for Women 58+ With PCOS History'
-slug: >-
-  7-hidden-sources-of-insulin-resistance-in-women-58-72-with-pcos-history-and-recent-weight-gain
+slug: 7-hidden-sources-of-insulin-resistance-in-women-58-72-with-pcos-history-and-recent-weight-gain
 description: 'Estrogen loss reactivates fat-tissue inflammation dormant since PCOS, raising fasting insulin 20-40%. Thyroid antibodies add hidden resistance (HOMA-IR).'
 date: '2026-01-30'
 updated: '2026-03-28'
@@ -10,15 +9,10 @@ topicCluster: metabolic-health
 image: ''
 relatedSlugs:
   - >-
-    5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration
   - >-
-    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
   - >-
-    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
   - >-
-    7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation
   - >-
-    how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
 ---
 
 # Hidden Insulin Resistance Sources in Perimenopausal Women: What Your Blood Sugar Isn’t Telling You

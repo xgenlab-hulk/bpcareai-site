@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Truth About 'Heart-Healthy' Instant Oatmeal Packets Labeled for Seniors —
-  Why 91% Contain Hidden Beta-Glucan Antagonists That Impair Endothelial NO
-  Release in Adults 65+ With Subclinical Atherosclerosis
-slug: >-
-  the-truth-about-heart-healthy-instant-oatmeal-packets-labeled-for-seniors-why-91-contain-hidden-beta-glucan-antagonists-that-impair-endothelial-no-release-in-adults-65-with-subclinical-atherosclerosis
+slug: the-truth-about-heart-healthy-instant-oatmeal-packets-labeled-for-seniors-why-91-contain-hidden-beta-glucan-antagonists-that-impair-endothelial-no-release-in-adults-65-with-subclinical-atherosclerosis
 description: >-
-  Exposes processing-derived compounds in commercial oat products that
-  neutralize soluble fiber benefits—directly measured via flow-mediated dilation
-  decline in longitudinal vascular function studies.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: instant oatmeal endothelial function seniors
@@ -16,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-instant-oatmeal-packets-marketed-to-seniors-why-91-contain-unlabeled-beta-glucan-degradation-byproducts-that-blunt-cholesterol-lowering-efficacy-in-adults-68-with-familial-hypercholesterolemia
   - >-
-    the-truth-about-heart-healthy-oat-milk-creamers-why-86-of-brands-contain-emulsifiers-that-impair-endothelial-nitric-oxide-synthase-activity-in-adults-63-with-subclinical-atherosclerosis
   - >-
-    the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr
   - >-
-    what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis
   - >-
-    the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60
 ---
 
 # What You Should Know About Instant Oatmeal and Endothelial Function in Seniors

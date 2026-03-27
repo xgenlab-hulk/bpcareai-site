@@ -1,7 +1,6 @@
 ---
 title: "Does 16:8 Fasting Help or Hurt Nighttime BP With Sleep Apnea?"
-slug: >-
-  how-intermittent-fasting-16-8-affects-nocturnal-sympathetic-tone-in-adults-57-69-with-hypertension-and-sleep-disordered-breathing
+slug: how-intermittent-fasting-16-8-affects-nocturnal-sympathetic-tone-in-adults-57-69-with-hypertension-and-sleep-disordered-breathing
 description: Late eating windows push stress hormones (catecholamines) into sleep, raising nocturnal systolic BP 5-12 mmHg. Ending meals by 6 PM restores the vagal dip.
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
   - >-
-    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
-    dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
   - >-
-    natural-ways-to-modulate-the-sympathetic-parasympathetic-switch-point-in-adults-with-heart-failure-and-preserved-ejection-fraction-focusing-on-expiratory-time-foot-temperature-and-evening-light-exposure
   - >-
-    what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
 ---
 
 # How Intermittent Fasting (16:8) Influences Nocturnal Sympathetic Tone in Adults 57–69 With Hypertension and Sleep-Disordered Breathing

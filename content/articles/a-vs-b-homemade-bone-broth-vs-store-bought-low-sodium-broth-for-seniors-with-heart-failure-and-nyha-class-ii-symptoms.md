@@ -1,13 +1,7 @@
 ---
 title: 'Homemade Bone Broth vs Low-Sodium Store Broth for Seniors With Heart Failure'
-  A vs B: Homemade Bone Broth vs Store-Bought 'Low-Sodium' Broth for Seniors
-  With Heart Failure and NYHA Class II Symptoms
-slug: >-
-  a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
+slug: a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
 description: 'Store-bought low-sodium broth averages 140-280 mg sodium per cup vs 5-30 mg in homemade. Higher histamine in commercial broth (up to 25 ppm) can trigger vasodilation in NYHA Class II.'
-  Head-to-head comparison of sodium load, collagen bioavailability, and
-  histamine content—plus preparation tips to maximize cardiac and gut benefits
-  without exacerbating fluid retention or orthostatic hypotension.
 date: '2026-01-08'
 updated: '2026-03-27'
 primaryKeyword: 'homemade bone broth vs store-bought low sodium broth for heart failure seniors'
@@ -15,13 +9,9 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
   - >-
-    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
   - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
-    can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
 ---
 

@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Does Holiday Travel Disrupt Basal Insulin Requirements in Adults 62–75
-  With Type 1 Diabetes?
-slug: >-
-  how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
+slug: how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
 description: >-
-  Explores circadian misalignment, time-zone crossing, and meal timing
-  variability—backed by real-world pump log data from 147 travelers—on insulin
-  sensitivity shifts during December trips.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: holiday travel insulin requirements type 1 diabetes
@@ -17,10 +11,8 @@ relatedSlugs:
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 ---
 
 # How Holiday Travel Affects Insulin Needs in Adults With Type 1 Diabetes (Ages 62–75)

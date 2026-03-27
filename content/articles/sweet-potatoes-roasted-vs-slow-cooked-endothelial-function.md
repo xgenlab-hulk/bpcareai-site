@@ -1,7 +1,6 @@
 ---
 title: "Sweet Potatoes: Roasted vs. Slow-Cooked for Artery Health After 58"
-slug: >-
-  a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
+slug: a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
 description: Slow-cooking with sugar creates 3x more harmful compounds (AGEs) than cinnamon-roasting. Roasted versions retain 40% more vessel-protecting polyphenols.
 date: '2026-01-30'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
   - >-
-    a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
   - >-
-    a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
   - >-
-    a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d
   - >-
-    a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension
 ---
 
 # Sweet Potatoes Roasted vs Slow-Cooked Endothelial Function: What Holiday Cooking Really Does to Your Arteries

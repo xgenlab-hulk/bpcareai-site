@@ -1,7 +1,6 @@
 ---
 title: Dry Mouth Making Meals Hard? Digestion Help for Adults 72+
-slug: >-
-  natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia
+slug: natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia
 description: Dry mouth (xerostomia) cuts starch enzyme output 40-60% after 70. Citrus zest inhalation and gentle jaw massage before eating boost saliva and reduce choking.
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
   - >-
-    natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd
   - >-
-    natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear
   - >-
-    quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
   - >-
-    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
 ---
 
 # Gentle, Evidence-Based Salivary Amylase Support for Older Adults With Xerostomia and Early Dysphagia During Family Gatherings

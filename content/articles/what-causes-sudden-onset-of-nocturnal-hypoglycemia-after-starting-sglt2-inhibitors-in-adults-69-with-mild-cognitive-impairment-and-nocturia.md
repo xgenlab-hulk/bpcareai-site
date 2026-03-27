@@ -1,10 +1,7 @@
 ---
 title: Why SGLT2 Inhibitors Cause Nighttime Lows in Adults Over 69
-slug: >-
-  what-causes-sudden-onset-of-nocturnal-hypoglycemia-after-starting-sglt2-inhibitors-in-adults-69-with-mild-cognitive-impairment-and-nocturia
+slug: what-causes-sudden-onset-of-nocturnal-hypoglycemia-after-starting-sglt2-inhibitors-in-adults-69-with-mild-cognitive-impairment-and-nocturia
 description: >-
-  SGLT2 drugs shift kidney glucose handling, and nighttime urination (nocturia)
-  fragments sleep — masking low sugar signs. Cognitive decline adds missed cues.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: low blood sugar at night after starting SGLT2 inhibitors
@@ -12,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
-    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
   - >-
-    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
   - >-
-    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
 ---
 
 # Understanding SGLT2 Inhibitors Nocturnal Hypoglycemia in Seniors With Mild Cognitive Impairment

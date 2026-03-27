@@ -2,8 +2,6 @@
 title: 'Can Staying Hydrated Prevent Winter Blood Pressure Spikes After 70?'
 slug: can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
 description: 'Winter systolic BP rises 5-10 mmHg even in healthy seniors. After 70, blunted thirst and reduced kidney filtering (eGFR) make dehydration a hidden BP driver.'
-  Explains why seniors are prone to dehydration in winter and how maintaining
-  fluid balance helps control hypertension.
 date: '2025-11-28'
 updated: '2026-03-27'
 primaryKeyword: 'does hydration lower blood pressure in winter for seniors'

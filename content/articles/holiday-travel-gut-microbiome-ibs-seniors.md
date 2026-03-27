@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Holiday Travel Stress Alters Gut Microbiome Diversity in Adults 58+ With
-  Irritable Bowel Syndrome — And What to Eat *On the Plane* to Minimize
-  Dysbiosis
-slug: >-
-  how-holiday-travel-stress-alters-gut-microbiome-diversity-in-adults-58-with-irritable-bowel-syndrome-and-what-to-eat-on-the-plane-to-minimize-dysbiosis
+slug: how-holiday-travel-stress-alters-gut-microbiome-diversity-in-adults-58-with-irritable-bowel-syndrome-and-what-to-eat-on-the-plane-to-minimize-dysbiosis
 description: >-
-  Links travel-induced vagal withdrawal, circadian disruption, and prebiotic
-  food timing to post-holiday IBS flares, with airline-compatible mitigation
-  strategies.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: holiday travel gut microbiome ibs seniors
@@ -16,15 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    what-causes-sudden-post-holiday-constipation-only-when-visiting-your-son-s-house-the-role-of-travel-induced-circadian-misalignment-reduced-fiber-variety-and-toilet-posture-shifts-in-adults-71
   - >-
-    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
   - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
-    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
   - >-
-    5-foods-that-support-gut-microbiome-resilience-during-multi-day-family-gatherings-for-adults-55-69-with-ibs-d-and-seasonal-stress-induced-flares
 ---
 
 # How Holiday Travel Affects Gut Health in Seniors with IBS — And What to Eat On the Plane to Stay Comfortable

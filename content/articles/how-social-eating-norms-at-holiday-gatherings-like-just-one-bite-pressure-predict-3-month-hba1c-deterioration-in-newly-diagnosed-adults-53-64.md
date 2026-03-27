@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Social Eating Norms at Holiday Gatherings—Like 'Just One Bite'
-  Pressure—Predict 3-Month HbA1c Deterioration in Newly Diagnosed Adults 53–64
-slug: >-
-  how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64
+slug: how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64
 description: >-
-  Presents longitudinal data linking observed microaggressions (e.g., food
-  shaming, unsolicited advice) to sustained glycemic drift, with behavioral
-  intervention pathways.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: social eating pressure HbA1c deterioration
@@ -15,11 +9,8 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
   - >-
-    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---

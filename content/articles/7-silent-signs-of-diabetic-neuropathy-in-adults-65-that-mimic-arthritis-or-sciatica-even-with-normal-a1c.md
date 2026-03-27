@@ -1,7 +1,6 @@
 ---
 title: "7 Signs Your 'Arthritis' May Be Diabetic Nerve Damage After 65"
-slug: >-
-  7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
+slug: 7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
 description: "Up to 20% of adults 65+ with normal A1c develop nerve damage (diabetic neuropathy). These 7 signs mimic arthritis or sciatica \u2014 nerve testing confirms."
 date: '2026-02-02'
 updated: '2026-03-26'
@@ -10,13 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - >-
-    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
   - diabetes-and-joint-pain-is-there-a-connection
   - >-
-    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
 ---
 
 # 7 Subtle Early Signs of Diabetic Neuropathy in Older Adults — Often Mistaken for Arthritis or Sciatica

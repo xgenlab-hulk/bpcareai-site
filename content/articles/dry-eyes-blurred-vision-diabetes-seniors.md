@@ -1,14 +1,7 @@
 ---
 title: 'Dry Eyes and Blurred Vision as Early Diabetes Signs in Seniors'
-  When to Worry About Sudden Dry Eyes and Blurred Vision After Age 63 —
-  Distinguishing Sjögren’s-Associated Lacrimal Gland Dysfunction From Early
-  Diabetic Retinal Neurodegeneration
-slug: >-
-  when-to-worry-about-sudden-dry-eyes-and-blurred-vision-after-age-63-distinguishing-sj-gren-s-associated-lacrimal-gland-dysfunction-from-early-diabetic-retinal-neurodegeneration
+slug: when-to-worry-about-sudden-dry-eyes-and-blurred-vision-after-age-63-distinguishing-sj-gren-s-associated-lacrimal-gland-dysfunction-from-early-diabetic-retinal-neurodegeneration
 description: 'Tear osmolarity above 308 mOsm/L flags diabetic dry eye. Up to 40% of seniors with T2D show retinal thinning (nerve layer loss) on OCT before symptoms appear.'
-  Guides readers through differential diagnosis of ocular symptoms that overlap
-  between autoimmune dry eye and subclinical diabetic retinopathy—emphasizing
-  non-invasive OCT-A and tear osmolarity testing.
 date: '2026-02-23'
 updated: '2026-03-27'
 primaryKeyword: 'dry eyes blurred vision diabetes seniors'
@@ -16,13 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy
   - >-
-    warning-signs-of-asymptomatic-diabetic-retinopathy-in-adults-66-with-10-years-of-controlled-a1c-that-aren-t-detected-on-annual-dilated-exam
   - >-
-    warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
   - >-
-    myths-vs-facts-i-don-t-need-eye-exams-because-my-vision-is-fine-what-oct-angiography-reveals-about-early-retinal-capillary-dropout-in-adults-61-with-8-year-t2d-history
   - diabetes-and-vision-changes-what-seniors-need-to-know
 ---
 

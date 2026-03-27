@@ -1,7 +1,6 @@
 ---
 title: 7 Signs Your BP Monitor Is Lying — Especially After 74
-slug: >-
-  7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
+slug: 7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
 description: Irregular heartbeat (atrial fibrillation) makes BP monitors misread by 10-25 mmHg. Add arm swelling or wrong cuff size, and readings fail in adults 74+.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
   - >-
-    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
   - >-
-    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
   - >-
-    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
   - >-
-    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
 ---
 
 # 7 Warning Signs Your Blood Pressure Monitor May Be Giving False Readings — Especially After Age 74 With Atrial Fibrillation and Arm Edema

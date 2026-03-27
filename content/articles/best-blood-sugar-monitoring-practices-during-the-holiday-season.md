@@ -2,8 +2,6 @@
 title: 'Blood Sugar Monitoring Tips for Diabetics During the Holiday Season'
 slug: best-blood-sugar-monitoring-practices-during-the-holiday-season
 description: 'Nearly 1 in 4 adults over 65 has type 2 diabetes. Testing 1-2 hours after meals (target under 180 mg/dL) and tracking stress and sleep disruption helps maintain control during festive weeks.'
-  Optimize diabetes self-care with tailored testing routines for festive weeks
-  when routines are disrupted.
 date: '2025-11-30'
 updated: '2026-03-27'
 primaryKeyword: 'blood sugar monitoring tips for diabetics during the holidays'

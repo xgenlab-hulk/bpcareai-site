@@ -1,13 +1,7 @@
 ---
 title: >-
-  Quick Ways to Lower Post-Holiday Triglycerides Without Fasting—Especially for
-  Sedentary Adults Over 75
-slug: >-
-  quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
+slug: quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
 description: >-
-  Offers 4 clinically validated, non-fasting interventions (e.g., timed omega-3
-  dosing, postprandial walking protocols, fiber timing) shown to reduce TGs
-  within 72 hours.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: lower triglycerides without fasting seniors
@@ -15,14 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
-    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
-    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
 ---
 
 # Effective Ways to Lower Triglycerides Without Fasting for Seniors After the Holidays

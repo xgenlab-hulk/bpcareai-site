@@ -2,7 +2,6 @@
 title: '7 Medication Interactions Making Seasonal Depression Worse After 60'
 slug: meds-seasonal-depression-60
 description: 'Beta-blockers with vitamin D under 20 ng/mL increase seasonal depression 2.3 times in adults on 4+ medications (polypharmacy). Seven patterns to review.'
-  Feeling down this winter? Get 7 drug combinations that worsen seasonal depression—beta-blockers plus SSRIs, anticholinergics—and safe alternatives for adults 60+.
 date: '2026-01-01'
 updated: '2026-03-27'
 primaryKeyword: 'medications worsening seasonal depression in older adults'
@@ -10,9 +9,7 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - >-
-    7-hidden-medication-interactions-that-elevate-heart-failure-readmission-risk-within-30-days-of-hospital-discharge-especially-in-adults-75-with-polypharmacy
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults

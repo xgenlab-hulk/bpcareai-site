@@ -2,8 +2,6 @@
 title: The Hidden Link Between Holiday Stress and Irregular Heartbeat
 slug: the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 description: >-
-  Discover how emotional and logistical stressors during the holidays may
-  contribute to transient arrhythmias in middle-aged and older adults.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: holiday stress irregular heartbeat
@@ -11,7 +9,6 @@ topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - >-
-    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

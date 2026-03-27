@@ -1,13 +1,7 @@
 ---
 title: '7 Seasonal Depression Signs in Adults 75+ Families Mistake for Aging'
-  7 Overlooked Symptoms of Seasonal Depression in Adults 75+ That Families
-  Mistake for 'Just Aging'
-slug: >-
-  7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+slug: 7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
 description: 'Up to 15% of adults 75+ have seasonal affective disorder (SAD)—often mistaken for dementia. 7 overlooked symptoms families misattribute to normal aging.'
-  Explores subtle, atypical presentations of seasonal affective disorder in the
-  oldest-old—including apathy, unexplained fatigue, and social
-  withdrawal—distinct from normal aging or dementia progression.
 date: '2025-12-24'
 updated: '2026-03-27'
 primaryKeyword: 'seasonal depression in adults 75 mistaken for aging'
@@ -18,7 +12,6 @@ relatedSlugs:
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
   - >-
-    is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
 ---
 

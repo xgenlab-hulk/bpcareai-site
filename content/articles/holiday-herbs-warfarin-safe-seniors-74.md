@@ -2,7 +2,6 @@
 title: Holiday Herbs Safe With Warfarin? (12 Options for Seniors 74+)
 slug: holiday-herbs-warfarin-safe-seniors-74
 description: >-
-  Taking warfarin at 74+? Discover 12 holiday herbs that boost blood flow and endothelial health without affecting INR—with exact doses and prep tips.
 date: '2026-02-25'
 updated: '2026-03-18'
 primaryKeyword: holiday herbs warfarin safe blood flow seniors
@@ -10,15 +9,10 @@ topicCluster: treatment-interventions
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
   - >-
-    can-you-safely-eat-stuffed-peppers-at-thanksgiving-if-you-re-on-warfarin-a-vitamin-k-consistency-guide-for-adults-65-with-atrial-fibrillation
   - >-
-    7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
   - >-
-    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
 ---
 
 # Holiday Herbs Safe With Warfarin — 12 Seasonings That Support Blood Flow Without Affecting INR (For Seniors 74+)

@@ -1,7 +1,6 @@
 ---
 title: "Holiday Eating With New Prediabetes: A Guide for Busy Adults 58+"
-slug: >-
-  the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
+slug: the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
 description: "Insulin sensitivity drops ~1%/year after 50, but timed meals can lower A1C 0.6 points in 3 months — no calorie counting or skipping work events needed."
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,10 +9,8 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
-    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---

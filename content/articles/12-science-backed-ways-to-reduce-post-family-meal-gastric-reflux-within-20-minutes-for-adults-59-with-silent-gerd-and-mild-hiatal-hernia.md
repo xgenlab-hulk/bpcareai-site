@@ -1,7 +1,6 @@
 ---
 title: 'Reflux After Family Meals? 12 Quick Fixes for Adults 59+'
-slug: >-
-  reflux-after-meals-relief-adults-59
+slug: reflux-after-meals-relief-adults-59
 description: 'Left-side positioning and cool water timing cut acid splashback (gastric reflux) 40-60% within 20 minutes, even with a sliding stomach opening (hiatal hernia).'
 date: '2026-01-28'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
   - >-
-    how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
   - >-
-    natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
   - >-
-    natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
   - >-
-    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
 ---
 
 # Reflux After Meals? What Are 12 Quick Ways to Stop It (Especially for Silent GERD 59+)?

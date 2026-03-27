@@ -2,8 +2,6 @@
 title: How Kidney Function Declines Faster in Older Adults with Diabetes
 slug: how-kidney-function-declines-faster-in-older-adults-with-diabetes
 description: >-
-  Understand diabetic nephropathy risks and how early detection can preserve
-  kidney health.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: diabetes and kidney function decline in seniors

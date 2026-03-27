@@ -1,7 +1,6 @@
 ---
 title: 'Low-Sodium Herbs for Holiday Cooking With Heart Failure Risk'
-slug: >-
-  best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
+slug: best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
 description: 'Rosemary, fennel, and basil add flavor without triggering thirst — up to 30% of heart failure patients develop hyponatremia (serum sodium under 135 mmol/L).'
 date: '2025-12-22'
 updated: '2026-03-27'
@@ -10,10 +9,8 @@ topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - >-
-    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---

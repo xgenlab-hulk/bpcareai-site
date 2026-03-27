@@ -2,8 +2,6 @@
 title: 'Hidden Salt: Surprising Foods That Raise Blood Pressure'
 slug: hidden-salt-surprising-foods-that-raise-blood-pressure
 description: >-
-  Identify everyday foods packed with hidden sodium and learn how to make
-  smarter grocery choices to protect your heart.
 date: '2025-12-07'
 updated: '2025-12-07'
 primaryKeyword: hidden salt in foods and blood pressure
@@ -15,7 +13,6 @@ relatedSlugs:
   - the-role-of-potassium-in-managing-blood-pressure-after-50
   - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
   - >-
-    12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label
 ---
 
 # Hidden Salt in Foods and Blood Pressure: What You’re Eating Might Be Working Against Your Heart

@@ -1,7 +1,6 @@
 ---
 title: "Apple Cider vs. Mulled Wine: Which Helps Your Arteries After 59?"
-slug: >-
-  a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
+slug: a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
 description: Apple cider boosted artery relaxation (flow-mediated dilation) 2.1% at 90 min while mulled wine dropped it 1.4% in adults 59-71 with metabolic syndrome.
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
   - >-
-    a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
   - >-
-    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
   - >-
-    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
   - >-
-    10-things-you-should-know-about-alcohol-free-mulled-wine-for-blood-sugar-control-including-tannin-content-spice-synergy-and-serving-temperature-effects
 ---
 
 # Apple Cider vs Mulled Wine for Seniors: What Your Evening Drink *Really* Does for Your Arteries

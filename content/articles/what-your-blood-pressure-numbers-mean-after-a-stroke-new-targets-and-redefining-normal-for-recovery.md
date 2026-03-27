@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Your Blood Pressure Numbers Mean *After* a Stroke: New Targets and
-  Redefining 'Normal' for Recovery
-slug: >-
-  what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
+slug: what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
 description: >-
-  Reviews updated AHA/ASA 2023 guidelines for post-stroke BP
-  management—including optimal timing for antihypertensive initiation,
-  acceptable variability, and neuroprotection vs. perfusion trade-offs.
 date: '2025-12-16'
 updated: '2025-12-16'
 primaryKeyword: blood pressure after stroke recovery targets
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
   - >-
-    blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
   - >-
-    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
   - >-
-    what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60
   - >-
-    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
 ---
 
 # Understanding Your Blood Pressure After Stroke: Updated Recovery Targets and What “Normal” Really Means

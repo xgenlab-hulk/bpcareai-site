@@ -1,7 +1,6 @@
 ---
 title: 'How Nighttime Light Damages Heart Health — Especially After Shift Work'
-slug: >-
-  how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp
+slug: how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp
 description: 'Just 40 lux of bedroom light suppresses melatonin 55%, disrupting heart clock genes (BMAL1/PER2) in adults 59-73 with shift work history and heart stiffness.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
   - >-
-    how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
   - >-
-    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # How Nighttime Light Exposure Disrupts Cardiac Clock Genes in Older Adults With Shift Work History

@@ -1,13 +1,7 @@
 ---
 title: 'Cold Water Face Immersion and Insulin Secretion in Prediabetes'
-  Does Daily 10-Minute Cold-Water Face Immersion Improve First-Phase Insulin
-  Secretion in Adults 58–65 With Prediabetes and Normal Weight?
-slug: >-
-  does-daily-10-minute-cold-water-face-immersion-improve-first-phase-insulin-secretion-in-adults-58-65-with-prediabetes-and-normal-weight
+slug: does-daily-10-minute-cold-water-face-immersion-improve-first-phase-insulin-secretion-in-adults-58-65-with-prediabetes-and-normal-weight
 description: 'Cold face immersion boosted first-phase insulin secretion by 18% in adults 58-65 with prediabetes via vagal tone (parasympathetic nerve) activation.'
-  Presents emerging evidence on trigeminal-vagal reflex modulation of pancreatic
-  beta-cell responsiveness—testing a simple, non-pharmacologic intervention for
-  early-phase insulin recovery.
 date: '2026-02-15'
 updated: '2026-03-27'
 primaryKeyword: 'cold water face immersion insulin secretion prediabetes'
@@ -15,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss
   - >-
-    does-daily-3-minute-cold-water-face-immersion-really-improve-vagal-tone-and-postprandial-glucose-stability-in-adults-75-with-type-2-diabetes-and-orthostatic-hypotension
   - >-
-    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
   - >-
-    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
   - >-
-    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
 ---
 
 # Can Cold Water Face Immersion Improve Insulin Secretion in Adults 58–65 With Prediabetes?

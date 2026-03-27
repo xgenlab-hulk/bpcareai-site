@@ -1,14 +1,7 @@
 ---
 title: 'When \'Normal\' BP Hides Kidney Damage: Mean Arterial Pressure After 72'
-  When to Worry About ‘Normal’ Office BP and Elevated Ambulatory Mean Arterial
-  Pressure in Adults 72+ With White-Coat Resolved but Persistent
-  Microalbuminuria
-slug: >-
-  when-to-worry-about-normal-office-bp-and-elevated-ambulatory-mean-arterial-pressure-in-adults-72-with-white-coat-resolved-but-persistent-microalbuminuria
+slug: when-to-worry-about-normal-office-bp-and-elevated-ambulatory-mean-arterial-pressure-in-adults-72-with-white-coat-resolved-but-persistent-microalbuminuria
 description: 'Office BP under 140/90 can mask a high average pressure (mean arterial pressure) above 95 mmHg — driving protein leak (microalbuminuria) in adults 72+.'
-  Highlights MAP as an underused predictor of target organ damage — linking
-  renal hyperfiltration, glomerular capillary pressure, and early CKD
-  progression in normotensive-appearing elders.
 date: '2026-01-15'
 updated: '2026-03-27'
 primaryKeyword: 'normal blood pressure but protein in urine after 70'
@@ -16,13 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
   - blood-pressure-and-kidney-health-what-seniors-need-to-know
   - >-
-    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
 ---
 
 # When Elevated Mean Arterial Pressure and Microalbuminuria Signal Early Kidney Changes in Adults 72+ — Even With “Normal” Office Blood Pressure

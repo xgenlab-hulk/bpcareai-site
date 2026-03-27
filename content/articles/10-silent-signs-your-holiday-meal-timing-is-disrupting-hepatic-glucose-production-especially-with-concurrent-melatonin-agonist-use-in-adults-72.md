@@ -1,13 +1,7 @@
 ---
 title: '10 Signs Holiday Meal Timing Is Disrupting Liver Glucose at Age 72'
-  10 Silent Signs Your Holiday Meal Timing Is Disrupting Hepatic Glucose
-  Production — Especially With Concurrent Melatonin Agonist Use in Adults 72+
-slug: >-
-  10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
+slug: 10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
 description: 'Late dinners after 8:30 pm trigger liver glucose release (hepatic gluconeogenesis) in adults 72+, worsening blood sugar even when fasting levels look stable.'
-  Highlights chrononutrition mismatches — like late dinners or skipped
-  breakfasts — that dysregulate hepatic CLOCK/BMAL1 expression, amplify
-  gluconeogenesis, and blunt melatonin receptor–mediated glucose suppression.
 date: '2026-02-12'
 updated: '2026-03-27'
 primaryKeyword: 'late holiday meals disrupting liver glucose at 72'
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
   - >-
-    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
   - >-
-    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
   - >-
-    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # How Holiday Meal Timing Affects Hepatic Glucose Regulation — Especially in Adults 72+ on Melatonin Agonists

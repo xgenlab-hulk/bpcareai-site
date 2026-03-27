@@ -2,8 +2,6 @@
 title: 'How to Plan Safe Allergen-Friendly Meals for Mixed-Diet Family Gatherings'
 slug: a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households
 description: 'About 4% of U.S. adults have a food allergy, and celiac disease causes intestinal damage from trace gluten. Practical planning makes family meals safe and enjoyable for everyone.'
-  Helps hosts accommodate guests with allergies or intolerances while still
-  maintaining a cohesive, enjoyable meal experience.
 date: '2025-11-28'
 updated: '2026-03-27'
 primaryKeyword: 'how to plan allergen-friendly meals for family gatherings'
@@ -14,7 +12,6 @@ relatedSlugs:
   - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # A Guide to Allergen-Friendly Family Gatherings for Mixed-Diet Households

@@ -1,11 +1,7 @@
 ---
 title: Holiday Ham and B12 Trouble — Warning Signs for Adults 70+ on PPIs
-slug: >-
-  warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis
+slug: warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis
 description: >-
-  Acid blockers (PPIs) cut B12 absorption ~65%. Gait changes or enlarged red
-  cells (macrocytosis) 2-4 weeks after holiday meat point to hidden B12
-  deficiency.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: can holiday ham cause B12 problems if I take PPIs
@@ -13,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
   - >-
-    when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
   - >-
-    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
   - >-
-    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - >-
-    what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
 ---
 
 # Subtle Clues Your Body May Be Struggling with B12 Absorption After Holiday Meat — Especially If You're 70+ and on PPIs

@@ -2,9 +2,6 @@
 title: 'Heart Palpitations at Night After 55? 7 Hidden Causes in Women'
 slug: nighttime-palpitations-women-55
 description: 'Heart flutters at bedtime affect 40% of women 55+ during menopause. 7 hidden causes of nocturnal palpitations—magnesium, sleep apnea, reflux—with fixes.'
-  Heart racing at night during menopause? Discover 7 hidden causes—low
-  magnesium, sleep apnea, reflux—backed by ECG data, plus bedtime fixes that
-  calm palpitations.
 date: '2025-12-24'
 updated: '2026-03-27'
 primaryKeyword: 'why do I have heart palpitations at night after 55'
@@ -13,10 +10,8 @@ image: ''
 relatedSlugs:
   - should-you-worry-about-heart-palpitations-when-lying-down
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - why-older-women-are-more-vulnerable-to-winter-heart-events
 ---
 

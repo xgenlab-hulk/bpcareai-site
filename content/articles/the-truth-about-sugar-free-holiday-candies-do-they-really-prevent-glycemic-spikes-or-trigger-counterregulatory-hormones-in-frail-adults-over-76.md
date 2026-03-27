@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About 'Sugar-Free' Holiday Candies: Do They Really Prevent Glycemic
-  Spikes—or Trigger Counterregulatory Hormones in Frail Adults Over 76?
-slug: >-
-  the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
+slug: the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 description: >-
-  Analyzes clinical glucose clamp data and epinephrine/norepinephrine responses
-  to erythritol, allulose, and sucralose in 32 adults with sarcopenia and
-  autonomic dysfunction.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: sugar-free candies glycemic response frail elderly
@@ -15,13 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 ---
 
 # What Really Happens When Frail Older Adults Eat Sugar-Free Holiday Candies? Understanding the Glycemic Response in the Frail Elderly

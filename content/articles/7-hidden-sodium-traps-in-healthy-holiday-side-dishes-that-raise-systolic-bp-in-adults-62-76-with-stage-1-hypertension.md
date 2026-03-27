@@ -1,13 +1,7 @@
 ---
 title: '7 Hidden Sodium Traps in Holiday Side Dishes Raising BP 62-76'
-  7 Hidden Sodium Traps in ‘Healthy’ Holiday Side Dishes That Raise Systolic BP
-  in Adults 62–76 With Stage 1 Hypertension
-slug: >-
-  7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
+slug: 7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
 description: 'Herb-roasted carrots and fermented cabbage hide 400-600 mg sodium. 7 traps raising systolic BP in adults 62-76 with stage 1 hypertension (130-139 mmHg).'
-  Exposes unsuspected high-sodium culprits—like herb-infused roasted carrots,
-  ‘low-fat’ stuffing, and fermented cabbage salads—and offers low-sodium,
-  flavor-forward alternatives backed by 24-hour urinary sodium studies.
 date: '2026-01-11'
 updated: '2026-03-27'
 primaryKeyword: 'hidden sodium in holiday side dishes with hypertension'
@@ -15,14 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
-    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
   - >-
-    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 ---
 
 # Hidden Sodium in Holiday Side Dishes: What Adults 62–76 With Stage 1 Hypertension Should Know

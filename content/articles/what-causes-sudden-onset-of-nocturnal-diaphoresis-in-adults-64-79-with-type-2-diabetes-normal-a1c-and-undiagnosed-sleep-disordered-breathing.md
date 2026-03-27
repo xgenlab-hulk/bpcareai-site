@@ -1,13 +1,7 @@
 ---
 title: 'Night Sweats With Normal A1c? Sleep Apnea May Be the Cause'
-  What Causes Sudden Onset of Nocturnal Diaphoresis in Adults 64–79 With Type 2
-  Diabetes, Normal A1c, and Undiagnosed Sleep-Disordered Breathing?
-slug: >-
-  what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
+slug: what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
 description: 'Undiagnosed paused breathing at night (obstructive sleep apnea) triggers stress surges mimicking nerve damage sweats. Oxygen below 88% correlates with episodes.'
-  Links intermittent hypoxia-induced sympathetic surges, catecholamine-driven
-  lipolysis, and altered orexin signaling to nighttime sweating episodes that
-  mimic autonomic neuropathy.
 date: '2026-01-15'
 updated: '2026-03-27'
 primaryKeyword: 'night sweats with diabetes and normal a1c'
@@ -15,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
   - >-
-    7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
   - >-
-    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
   - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - >-
-    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
 ---
 
 # Nocturnal Diaphoresis in Older Adults With Diabetes: When Sleep Apnea Mimics Autonomic Neuropathy

@@ -1,7 +1,6 @@
 ---
 title: "Berberine for Aortic Pressure: Does 500 mg Daily Help After 54?"
-slug: >-
-  does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
+slug: does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
 description: 500 mg berberine daily cut pressure in the main artery (central aortic pressure) by 4-7 mmHg over 12 weeks in adults 54-68 — but interacts with statins.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
   - >-
-    can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal
   - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - >-
-    a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness
   - >-
-    a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension
 ---
 
 # Can Berberine Support Healthier Central Aortic Blood Pressure in Adults With Metabolic Syndrome?

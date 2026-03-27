@@ -1,7 +1,6 @@
 ---
 title: "9 Whole Foods That Steady Blood Sugar \u2014 No Powders Needed After 57"
-slug: >-
-  9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners
+slug: 9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners
 description: "Roasted chestnuts slow stomach emptying (gastric emptying) ~20 min; pickled onions cut glucose spikes 15%. Nine no-supplement picks for adults 57+."
 date: '2026-02-02'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
   - >-
-    10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress
   - >-
-    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-
-    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
 ---
 
 # 9 Blood Sugar Stabilizing Holiday Foods That Work Naturally — For Adults 57+ Managing Type 2 Diabetes

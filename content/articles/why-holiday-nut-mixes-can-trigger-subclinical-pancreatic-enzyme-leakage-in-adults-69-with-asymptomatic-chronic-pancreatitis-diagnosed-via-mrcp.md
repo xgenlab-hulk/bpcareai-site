@@ -1,7 +1,6 @@
 ---
 title: Why Holiday Nut Mixes May Harm Your Pancreas After 69
-slug: >-
-  why-holiday-nut-mixes-can-trigger-subclinical-pancreatic-enzyme-leakage-in-adults-69-with-asymptomatic-chronic-pancreatitis-diagnosed-via-mrcp
+slug: why-holiday-nut-mixes-can-trigger-subclinical-pancreatic-enzyme-leakage-in-adults-69-with-asymptomatic-chronic-pancreatitis-diagnosed-via-mrcp
 description: Roasted nut blends pack 22-30g fat per cup — enough to trigger enzyme leakage from a quiet pancreas (chronic pancreatitis). Soaking cuts lipase spikes 40%.
 date: '2026-01-26'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely
   - >-
-    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
   - >-
-    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
   - >-
-    natural-ways-to-support-pancreatic-acinar-cell-function-and-reduce-postprandial-lipase-deficiency-in-adults-65-with-long-standing-type-2-diabetes-and-fatty-pancreas-imaging
   - >-
-    why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
 ---
 
 # Why Holiday Nut Mixes Chronic Pancreatitis Seniors Need Thoughtful Preparation During the Festive Season

@@ -1,10 +1,7 @@
 ---
 title: '12 Ways to Maintain Social Rhythm During Holiday Isolation'
-  Feeling Lonely This Holiday Season? (Retired Widowed Adults Guide)
-slug: >-
-  holiday-loneliness-social-rhythm-retired-widowed
+slug: holiday-loneliness-social-rhythm-retired-widowed
 description: 'Social isolation raises cortisol 15-20% in retired and widowed seniors, worsening blood pressure (BP). Twelve routines protect social rhythm during winter.'
-  Living alone during holidays? Get 12 low-tech social rhythm strategies—morning light rituals, micro phone calls, community time cues—proven to reduce seasonal depression by 40% for retired widowed adults.
 date: '2025-12-24'
 updated: '2026-03-27'
 primaryKeyword: 'staying connected during holiday isolation for seniors'
@@ -13,12 +10,9 @@ image: ''
 relatedSlugs:
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - >-
-    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - >-
-    quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
   - how-group-activities-in-senior-centers-prevent-seasonal-depression
   - >-
-    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
 ---
 
 # 12 Evidence-Based Strategies to Support Social Rhythm Therapy for Isolated Older Adults During the Holidays

@@ -1,7 +1,6 @@
 ---
 title: 'Home BP Monitoring With Aortic Stenosis: 5 Mistakes After 74'
-slug: >-
-  aortic-stenosis-bp-errors-74s
+slug: aortic-stenosis-bp-errors-74s
 description: 'A narrowed heart valve (aortic stenosis) makes wrist cuffs underread 10-20 mmHg. Arm-cuff sizing and pulse pressure under 60 mmHg prevent overtreating after 74.'
 date: '2026-01-26'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
   - >-
-    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
   - >-
-    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
-    7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
 ---
 
 # Why Do Wrist BP Monitors Fail Adults 74+ With Aortic Stenosis? (5 Critical Monitoring Errors)

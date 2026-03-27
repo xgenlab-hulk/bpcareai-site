@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Are the Earliest Gait Changes Linked to Orthostatic Hypotension in Adults
-  With Parkinson’s Disease Stage 2?
-slug: >-
-  what-are-the-earliest-gait-changes-linked-to-orthostatic-hypotension-in-adults-with-parkinson-s-disease-stage-2
+slug: what-are-the-earliest-gait-changes-linked-to-orthostatic-hypotension-in-adults-with-parkinson-s-disease-stage-2
 description: >-
-  Describes subtle gait variability metrics (stride time variability,
-  double-support phase extension) detectable before syncopal episodes, with
-  implications for fall risk and BP management.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: gait changes orthostatic hypotension parkinsons
@@ -15,13 +9,9 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
   - >-
-    how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
   - >-
-    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
   - >-
-    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
 ---
 

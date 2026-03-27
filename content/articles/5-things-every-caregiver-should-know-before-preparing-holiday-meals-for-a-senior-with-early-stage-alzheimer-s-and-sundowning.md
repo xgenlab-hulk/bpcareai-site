@@ -9,13 +9,9 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-eating-slowly-fixes-everything-during-holiday-meals-for-adults-with-mild-dementia-and-sundowning
   - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
-    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 ---
 

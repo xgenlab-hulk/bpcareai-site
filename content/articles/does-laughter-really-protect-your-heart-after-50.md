@@ -2,8 +2,6 @@
 title: 'Does Laughter Protect Your Heart After 50?'
 slug: does-laughter-really-protect-your-heart-after-50
 description: 'Laughter lowers cortisol and reduces systolic BP by 5-8 mm Hg acutely. Regular exposure improves HRV (heart rate variability) in adults over 50.'
-  Find out how laughter and positive emotions may reduce stress hormones and
-  benefit heart function.
 date: '2025-11-28'
 updated: '2026-03-27'
 primaryKeyword: 'does laughter protect heart health after 50'

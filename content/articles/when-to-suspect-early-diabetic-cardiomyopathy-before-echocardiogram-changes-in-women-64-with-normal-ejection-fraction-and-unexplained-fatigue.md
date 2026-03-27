@@ -1,7 +1,6 @@
 ---
 title: "Women 64+: When Diabetes Fatigue Signals Early Heart Damage"
-slug: >-
-  when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue
+slug: when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue
 description: Nighttime heart rate variability dips below 15ms and rising NT-proBNP hint at a stiffening heart (diabetic cardiomyopathy) — even with normal ejection fraction.
 date: '2026-02-04'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
   - >-
-    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
-    warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability
 ---
 
 # Recognizing Early Diabetic Cardiomyopathy Fatigue in Women 64+ — Before Structural Changes Appear

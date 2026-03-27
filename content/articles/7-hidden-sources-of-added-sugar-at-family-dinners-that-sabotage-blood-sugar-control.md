@@ -1,13 +1,7 @@
 ---
 title: '7 Hidden Sugar Sources at Family Dinners Spiking Blood Sugar After 55'
-  7 Hidden Sources of Added Sugar at Family Dinners That Sabotage Blood Sugar
-  Control
-slug: >-
-  7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+slug: 7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
 description: 'Store-bought cranberry sauce has 25 g added sugar—half the ADA daily limit. 7 hidden sugar sources at family dinners undermining blood sugar control after 55.'
-  Reveals unexpected holiday foods—like stuffing, cranberry sauce, and savory
-  dips—that spike glucose levels, with practical label-reading tips and swaps
-  for adults over 55 with prediabetes or type 2 diabetes.
 date: '2025-12-21'
 updated: '2026-03-27'
 primaryKeyword: 'hidden added sugar in family dinners and blood sugar'
@@ -15,7 +9,6 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose

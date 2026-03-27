@@ -2,8 +2,6 @@
 title: What to Eat After a Holiday Meal If You Have Acid Reflux Over 60
 slug: what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 description: >-
-  Relief-focused food choices and habits to reduce post-meal discomfort for
-  seniors prone to GERD during festive overindulgence.
 date: '2025-12-04'
 updated: '2025-12-04'
 primaryKeyword: post-holiday meal foods for acid reflux seniors

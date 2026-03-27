@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Chronic Inflammation From Gum Disease Fuels Hypertension—And Why Dentists
-  Should Check Your BP
-slug: >-
-  how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+slug: how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
 description: >-
-  Explains the oral-systemic link: how periodontitis-induced IL-6 and CRP
-  promote endothelial dysfunction and arterial stiffness, with screening
-  protocols for adults over 65 with poor dental history.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: gum disease and high blood pressure link
@@ -17,7 +11,6 @@ relatedSlugs:
   - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
   - the-hidden-link-between-gum-disease-and-heart-problems
   - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart
   - how-poor-dental-hygiene-may-lead-to-heart-disease
 ---

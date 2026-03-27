@@ -1,12 +1,7 @@
 ---
 title: >-
-  Simple Steps to Adjust Your Evening Insulin Regimen After Starting SGLT2
-  Inhibitors—Especially If You’re Over 67 and Live Alone
-slug: >-
-  simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
+slug: simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
 description: >-
-  Covers hypovolemia-aware dosing reductions, ketone testing timing, and ‘safety
-  net’ snack strategies to prevent euglycemic DKA in home-dwelling elders.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: evening insulin sgl2 inhibitor adjustment
@@ -14,13 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - >-
-    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - >-
-    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 

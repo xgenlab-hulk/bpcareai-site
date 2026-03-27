@@ -1,13 +1,7 @@
 ---
 title: 'Why Cooking for Family Raises Blood Sugar in Women 61-76'
-  How Intergenerational Cooking Stress Alters Postprandial Insulin Sensitivity
-  in Women 61–76 With Abdominal Obesity and Cortisol Dysregulation
-slug: >-
-  how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
+slug: how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
 description: 'Stress hormones (cortisol) during family meal prep increase post-meal glucose 22-30 mg/dL in women with belly fat. A 2-min breathing pause before plating helps.'
-  Examines the underrecognized link between emotional labor during family meal
-  prep, HPA-axis activation, and real-time glucose disposal—backed by 24-hour
-  CGM data from a pilot cohort study.
 date: '2026-01-15'
 updated: '2026-03-27'
 primaryKeyword: 'does cooking stress raise blood sugar in women over 60'
@@ -15,12 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
   - >-
-    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
   - >-
-    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 ---
 

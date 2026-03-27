@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About 'Heart-Healthy' Seed Oils in Diabetic Dyslipidemia: Do
-  Linoleic Acid–Rich Blends Actually Reduce Oxidized LDL in Adults 60–76?
-slug: >-
-  the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
+slug: the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
 description: >-
-  Evaluates plasma oxLDL, LDL particle size, and postprandial lipid peroxidation
-  after 4 weeks of high–linoleic acid vs. high–oleic acid oil consumption in
-  insulin-resistant adults with mixed dyslipidemia.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: seed oils and oxidized ldl in diabetes
@@ -15,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
   - >-
-    what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl
   - >-
-    does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
   - >-
-    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
 ---
 
 # Do Seed Oils and Oxidized LDL in Diabetes Really Belong Together? What the Science Says for Adults 60–76

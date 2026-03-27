@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Chronic Knee Osteoarthritis Pain Alters Ambulatory Blood Pressure Patterns
-  in Adults 72+ With Stage 2 Hypertension
-slug: >-
-  how-chronic-knee-osteoarthritis-pain-alters-ambulatory-blood-pressure-patterns-in-adults-72-with-stage-2-hypertension
+slug: how-chronic-knee-osteoarthritis-pain-alters-ambulatory-blood-pressure-patterns-in-adults-72-with-stage-2-hypertension
 description: >-
-  Examines the biomechanical and neurohumoral pathways linking persistent joint
-  pain to non-dipping BP, morning surges, and increased LV mass — with
-  mobility-adapted monitoring guidance.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: knee pain and blood pressure in elderly
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-loneliness-after-retirement-affects-24-hour-blood-pressure-patterns-in-adults-62-78-with-preserved-ejection-fraction
   - >-
-    does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
   - >-
-    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
   - >-
-    how-chronic-exposure-to-low-frequency-vibration-e-g-from-walking-aids-or-mobility-scooters-alters-baroreflex-sensitivity-in-adults-79-with-severe-peripheral-neuropathy
   - >-
-    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
 ---
 
 # How Knee Pain and Blood Pressure in Elderly Adults Are Connected—Especially After Age 72

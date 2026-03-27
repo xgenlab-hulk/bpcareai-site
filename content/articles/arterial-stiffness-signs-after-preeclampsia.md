@@ -1,14 +1,7 @@
 ---
 title: 'Early Signs of Artery Stiffness in Women Over 63 After Preeclampsia'
-  What Are the Earliest Signs of Arterial Stiffness Before BP Rises — Especially
-  in Women Over 63 With a History of Preeclampsia and Now on Aromatase
-  Inhibitors?
-slug: >-
-  what-are-the-earliest-signs-of-arterial-stiffness-before-bp-rises-especially-in-women-over-63-with-a-history-of-preeclampsia-and-now-on-aromatase-inhibitors
+slug: what-are-the-earliest-signs-of-arterial-stiffness-before-bp-rises-especially-in-women-over-63-with-a-history-of-preeclampsia-and-now-on-aromatase-inhibitors
 description: 'Up to 30% of women with prior preeclampsia show elevated pulse wave velocity (PWV) with normal BP readings. Aromatase inhibitors accelerate vascular aging by suppressing residual estrogen.'
-  Focuses on subclinical markers (pulse wave velocity, augmentation index,
-  retinal arteriolar narrowing) and hormonal drivers of accelerated vascular
-  aging in this high-risk cohort.
 date: '2026-02-14'
 updated: '2026-03-27'
 primaryKeyword: 'early signs of artery stiffness in women after preeclampsia on aromatase inhibitors'
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-arterial-stiffness-in-women-54-67-before-bp-readings-cross-130-80
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
   - >-
-    7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
   - >-
-    warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
   - >-
-    12-science-backed-times-to-measure-pulse-wave-velocity-after-a-shower-not-just-in-fasting-state-for-adults-70-with-sarcopenic-obesity-and-suspected-arterial-stiffness
 ---
 
 # Early Arterial Stiffness Signs After Preeclampsia — What Women Over 63 on Aromatase Inhibitors Should Know

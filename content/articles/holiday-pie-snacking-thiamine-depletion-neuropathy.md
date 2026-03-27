@@ -1,7 +1,6 @@
 ---
 title: 3 Days of Pie-Only Snacking Could Deplete Thiamine After 55
-slug: >-
-  warning-signs-of-acute-thiamine-depletion-after-three-days-of-holiday-pie-only-snacking-in-adults-55-65-with-alcohol-use-history-and-preexisting-peripheral-neuropathy
+slug: warning-signs-of-acute-thiamine-depletion-after-three-days-of-holiday-pie-only-snacking-in-adults-55-65-with-alcohol-use-history-and-preexisting-peripheral-neuropathy
 description: Carb-only snacking drains vitamin B1 (thiamine) in 72 hours. Eye twitches and uneven reflexes appear before full deficiency, especially with alcohol history.
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - >-
-    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - >-
-    when-to-suspect-holiday-induced-hyponatremia-in-adults-79-with-mild-cognitive-impairment-before-confusion-or-gait-instability-appears
   - >-
-    warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis
   - >-
-    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
 ---
 
 # Early Clues of Thiamine Depletion After Holiday Pie Snacking in Adults 55–65 With Neuropathy and Alcohol History

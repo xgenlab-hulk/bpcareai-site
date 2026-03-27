@@ -1,13 +1,7 @@
 ---
 title: '7 Holiday Foods Causing Silent Reflux in Adults 65+—No Heartburn'
-  7 Holiday Foods That Trigger Silent Gastric Reflux in Adults 65+ — Even
-  Without Heartburn
-slug: >-
-  7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn
+slug: 7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn
 description: 'Lower esophageal sphincter (LES) pressure drops 25-30% by age 75. 7 holiday foods triggering silent gastric reflux in adults 65+ even without heartburn.'
-  Explores how age-related lower esophageal sphincter weakening and delayed
-  gastric emptying make certain festive foods high-risk for asymptomatic reflux
-  damage in seniors.
 date: '2026-02-24'
 updated: '2026-03-27'
 primaryKeyword: 'holiday foods causing silent acid reflux in adults 65'
@@ -15,14 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    7-often-overlooked-signs-your-holiday-meal-is-triggering-silent-reflux-especially-if-you-re-65-and-take-calcium-channel-blockers
   - >-
-    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
-    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
 ---
 
 # Holiday Foods That Trigger Silent Gastric Reflux in Seniors — What 65+ Adults Should Know About holiday foods silent reflux seniors

@@ -1,13 +1,7 @@
 ---
 title: 'Morning Sunlight vs Evening Blue-Light Blocking for Artery Health in Adults 62 to 74'
-  A vs B: 2-Minute Morning Sunlight Exposure vs. 5-Minute Evening Blue-Light
-  Blocking for Endothelial Function in Adults 62–74 With Mild Hypertension
-slug: >-
-  a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+slug: a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
 description: 'A crossover trial measured flow-mediated dilation (FMD) and nitric oxide metabolites: morning light at ≥2,500 lux and evening blue-light filtering after 8 PM both improve endothelial function.'
-  Compares circadian photoreceptor activation strategies on flow-mediated
-  dilation (FMD), nitric oxide metabolites, and 24-hour ambulatory BP patterns
-  in a crossover trial.
 date: '2025-12-30'
 updated: '2026-03-27'
 primaryKeyword: 'morning sunlight vs evening blue-light blocking for blood vessel health'
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
   - >-
-    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
-    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
   - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
 ---
 
 # Morning Sunlight vs Blue Light Blocking for Endothelial Function: What Matters Most for Heart Health After 60

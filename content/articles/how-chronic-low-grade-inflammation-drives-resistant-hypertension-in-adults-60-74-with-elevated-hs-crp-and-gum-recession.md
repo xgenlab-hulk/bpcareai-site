@@ -1,7 +1,6 @@
 ---
 title: "Gum Disease and Resistant Hypertension: The Oral-Heart Link"
-slug: >-
-  how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
+slug: how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
 description: Inflamed gums (periodontitis) raise IL-6 and stiffen arteries in adults 60-74. Treating gum disease lowers systolic BP 8-12 mmHg in resistant cases.
 date: '2026-01-29'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - >-
-    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
   - >-
-    how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
 ---
 
 # How Chronic Inflammation Fuels Resistant Hypertension in Adults 60–74—And What You Can Do About It

@@ -1,14 +1,7 @@
 ---
 title: >-
-  Natural Ways to Restore Circadian Rhythm–Driven Insulin Secretion *Without*
-  Melatonin — Using Blue-Light-Filtered Evening Lenses + Fixed-Dose
-  Zinc-Carnosine Timing in Adults 64+ With Evening Hyperglycemia
-slug: >-
-  natural-ways-to-restore-circadian-rhythm-driven-insulin-secretion-without-melatonin-using-blue-light-filtered-evening-lenses-fixed-dose-zinc-carnosine-timing-in-adults-64-with-evening-hyperglycemia
+slug: natural-ways-to-restore-circadian-rhythm-driven-insulin-secretion-without-melatonin-using-blue-light-filtered-evening-lenses-fixed-dose-zinc-carnosine-timing-in-adults-64-with-evening-hyperglycemia
 description: >-
-  Presents a non-hormonal, time-of-day–targeted protocol to resynchronize
-  beta-cell clock genes (e.g., BMAL1, CLOCK) and improve first-phase insulin
-  release—validated in a 2023 RCT of older adults with delayed glucose peak.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: restore insulin rhythm without melatonin
@@ -16,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes
   - >-
-    how-nighttime-light-exposure-from-smart-clocks-disrupts-melatonin-mediated-glp-1-secretion-and-elevates-fasting-glucose-in-adults-59-with-shift-work-history
   - >-
-    how-late-night-eggnog-consumption-alters-circadian-insulin-secretion-patterns-in-adults-67-with-long-standing-type-2-diabetes
   - >-
-    natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers
   - >-
-    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
 ---
 
 # How to Restore Insulin Rhythm Without Melatonin — A Gentle, Time-Smart Approach for Adults 64+

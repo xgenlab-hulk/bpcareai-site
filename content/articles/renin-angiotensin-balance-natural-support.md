@@ -1,7 +1,6 @@
 ---
 title: Balancing BP Hormones Naturally With Early Kidney Disease After 61
-slug: >-
-  natural-ways-to-support-renin-angiotensin-system-balance-using-zinc-optimized-plant-proteins-for-adults-61-73-with-early-stage-ckd-and-stage-1-hypertension
+slug: natural-ways-to-support-renin-angiotensin-system-balance-using-zinc-optimized-plant-proteins-for-adults-61-73-with-early-stage-ckd-and-stage-1-hypertension
 description: Zinc from lentils supports the enzyme (ACE2) balancing BP hormones. 15mg/day improved systolic 5-8 mmHg without potassium overload in early-stage CKD patients.
 date: '2026-01-19'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema
   - >-
-    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
   - >-
-    natural-remedies-for-high-blood-pressure-in-adults-with-chronic-kidney-disease-stage-3-focusing-on-uremic-toxin-clearance-klotho-enhancement-and-gut-microbiome-derived-tmao-modulation
   - >-
-    natural-ways-to-support-arterial-elasticity-without-medication-focusing-on-elastin-cross-link-breakers-copper-dependent-loxl1-activity-and-collagen-iv-synthesis-in-adults-61-76-with-isolated-systolic-hypertension
   - >-
-    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
 ---
 
 # Natural Support for Renin-Angiotensin Balance — Gentle, Evidence-Inspired Strategies for Adults 61–73 with Early CKD and Stage 1 Hypertension

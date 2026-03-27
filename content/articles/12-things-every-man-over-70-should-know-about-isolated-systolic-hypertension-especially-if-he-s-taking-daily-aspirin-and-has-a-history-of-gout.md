@@ -1,12 +1,7 @@
 ---
 title: 'Isolated Systolic Hypertension in Men Over 70 With Gout and Aspirin'
-  12 Things Every Man Over 70 Should Know About Isolated Systolic Hypertension —
-  Especially If He's Taking Daily Aspirin and Has a History of Gout
-slug: >-
-  12-things-every-man-over-70-should-know-about-isolated-systolic-hypertension-especially-if-he-s-taking-daily-aspirin-and-has-a-history-of-gout
+slug: 12-things-every-man-over-70-should-know-about-isolated-systolic-hypertension-especially-if-he-s-taking-daily-aspirin-and-has-a-history-of-gout
 description: 'Daily aspirin raises uric acid 1-2 mg/dL in men over 70 with gout—and uric acid above 7 mg/dL worsens arterial stiffness (pulse wave velocity) and systolic BP.'
-  Isolated systolic hypertension and gout? Learn ISH risks, aspirin's impact on
-  uric acid, and drug interaction pitfalls—essential for men 70+ taking aspirin.
 date: '2026-02-15'
 updated: '2026-03-27'
 primaryKeyword: 'isolated systolic hypertension with gout and aspirin at 70'
@@ -14,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
   - >-
-    does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability
   - >-
-    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
-    what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
 ---
 
 # Top Number Over 140 But Bottom Number Normal? What Men 70+ With Gout Should Know

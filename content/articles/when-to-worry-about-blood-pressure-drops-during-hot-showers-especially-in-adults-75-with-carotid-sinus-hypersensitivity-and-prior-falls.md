@@ -1,7 +1,6 @@
 ---
 title: "BP Drops in Hot Showers: When to Worry After 75"
-slug: >-
-  when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
+slug: when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
 description: Hot water drops systolic BP 20-30 mmHg in 5 minutes for adults 75+ via a neck pressure reflex (carotid sinus hypersensitivity). Cap temperature at 100F.
 date: '2026-01-19'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
   - >-
-    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
   - >-
-    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
   - >-
-    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
 ---
 
 # When a Hot Shower Causes a Blood Pressure Drop During Hot Shower — What Older Adults and Caregivers Should Know

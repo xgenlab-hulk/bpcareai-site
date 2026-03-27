@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Indoor Light Spectrum During Winter Affects Melatonin Suppression and
-  Sleep Architecture in Adults 70+ With Mild Cognitive Impairment
-slug: >-
-  how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment
+slug: how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment
 description: >-
-  Analyzes how common home LED lighting (vs. full-spectrum or amber-filtered)
-  disrupts melatonin timing and REM consolidation—especially in seniors with
-  MCI—and offers practical lighting adjustments.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: indoor light spectrum melatonin sleep architecture seniors
@@ -15,13 +9,9 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
-    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
   - >-
-    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
 ---
 

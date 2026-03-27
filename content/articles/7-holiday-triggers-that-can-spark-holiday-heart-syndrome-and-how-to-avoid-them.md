@@ -1,11 +1,7 @@
 ---
 title: '7 Holiday Heart Syndrome Triggers and How to Enjoy the Season Safely'
-  7 Holiday Triggers That Can Spark Holiday Heart Syndrome (And How to Avoid
-  Them)
 slug: 7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
 description: 'AFib admissions rise 30% from Christmas to New Year. 7 holiday heart syndrome triggers—alcohol, salt, sleep disruption—and ways to enjoy the season safely.'
-  Explore the most common holiday-specific risk factors for holiday heart
-  syndrome and practical ways to enjoy festivities safely.
 date: '2025-12-06'
 updated: '2026-03-27'
 primaryKeyword: 'holiday heart syndrome triggers and how to avoid them'

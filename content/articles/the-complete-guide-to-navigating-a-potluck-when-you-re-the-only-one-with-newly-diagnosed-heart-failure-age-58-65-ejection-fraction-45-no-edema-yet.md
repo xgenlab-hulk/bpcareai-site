@@ -1,7 +1,6 @@
 ---
 title: "Potluck Survival for Adults 58-65 With New Heart Failure"
-slug: >-
-  the-complete-guide-to-navigating-a-potluck-when-you-re-the-only-one-with-newly-diagnosed-heart-failure-age-58-65-ejection-fraction-45-no-edema-yet
+slug: the-complete-guide-to-navigating-a-potluck-when-you-re-the-only-one-with-newly-diagnosed-heart-failure-age-58-65-ejection-fraction-45-no-edema-yet
 description: "At 45% pumping strength (ejection fraction), sodium is your potluck enemy. Covers 600mg-per-plate caps, dish-label tricks, and polite ways to skip seconds."
 date: '2026-02-08'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
-    the-complete-guide-to-navigating-potluck-contributions-when-you-re-79-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
   - >-
-    what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
   - >-
-    how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82
   - >-
-    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
 ---
 
 # Your Potluck Heart Failure Newly Diagnosed Guide: Navigating Social Gatherings with Confidence (Age 58–65, EF 45%)

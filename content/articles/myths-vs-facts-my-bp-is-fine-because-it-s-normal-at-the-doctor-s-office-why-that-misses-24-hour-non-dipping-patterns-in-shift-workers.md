@@ -1,13 +1,7 @@
 ---
 title: >-
-  Myths vs Facts: ‘My BP Is Fine Because It’s Normal at the Doctor’s Office’—Why
-  That Misses 24-Hour Non-Dipping Patterns in Shift Workers
-slug: >-
-  myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
+slug: myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
 description: >-
-  Debunks clinic-only measurement reliance using ambulatory data from
-  rotating-night-shift nurses and truck drivers, highlighting nocturnal surges,
-  sleep fragmentation, and circadian misalignment risks.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: normal clinic blood pressure shift workers
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
-    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
   - >-
-    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
   - >-
-    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
 ---
 
 # “My BP Is Fine at the Doctor’s Office”—Why That Doesn’t Tell the Full Story for Shift Workers

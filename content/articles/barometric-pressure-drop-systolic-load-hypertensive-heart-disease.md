@@ -1,7 +1,6 @@
 ---
 title: 'Why Dropping Barometric Pressure Spikes BP in Heart Disease After 63'
-slug: >-
-  how-indoor-barometric-pressure-drops-below-1005-hpa-increase-ambulatory-systolic-load-in-adults-63-82-with-hypertensive-heart-disease-and-left-atrial-enlargement
+slug: how-indoor-barometric-pressure-drops-below-1005-hpa-increase-ambulatory-systolic-load-in-adults-63-82-with-hypertensive-heart-disease-and-left-atrial-enlargement
 description: 'Pressure below 1005 hPa raises systolic load 10-18 mmHg via stress hormones (sympathetic activation). Adults 63+ with enlarged left atrium face higher risk.'
 date: '2026-01-13'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
   - >-
-    when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
   - >-
-    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
-    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
   - >-
-    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
 ---
 
 # How Falling Barometric Pressure Triggers Systolic Load Increases in Older Adults With Hypertensive Heart Disease

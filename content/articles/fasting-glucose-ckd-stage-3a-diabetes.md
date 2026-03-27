@@ -1,14 +1,7 @@
 ---
 title: 'Fasting Glucose Targets for Adults With CKD Stage 3a and Diabetes'
-  Myths vs Facts: 'Normal' Fasting Glucose Readings in Adults With Diabetes and
-  Chronic Kidney Disease Stage 3a—Why Your Lab May Be Missing Early Glycemic
-  Dysregulation
-slug: >-
-  myths-vs-facts-normal-fasting-glucose-readings-in-adults-with-diabetes-and-chronic-kidney-disease-stage-3a-why-your-lab-may-be-missing-early-glycemic-dysregulation
+slug: myths-vs-facts-normal-fasting-glucose-readings-in-adults-with-diabetes-and-chronic-kidney-disease-stage-3a-why-your-lab-may-be-missing-early-glycemic-dysregulation
 description: 'CKD stage 3a (eGFR 45-59) prolongs insulin half-life, raising hypoglycemia risk. Guidelines recommend fasting glucose targets of 100-140 mg/dL, not 80-130.'
-  Debunks reliance on fasting glucose alone when eGFR is 45–59
-  mL/min/1.73m²—explaining how declining renal gluconeogenesis suppression masks
-  true insulin resistance.
 date: '2025-12-27'
 updated: '2026-03-27'
 primaryKeyword: 'fasting glucose targets CKD stage 3a diabetes management'
@@ -17,13 +10,9 @@ image: ''
 relatedSlugs:
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
   - >-
-    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
-    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
-    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
   - >-
-    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
 ---
 
 # Why “Normal” Fasting Glucose Can Be Misleading in Adults With Diabetes and CKD Stage 3a

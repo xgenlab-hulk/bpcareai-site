@@ -1,14 +1,7 @@
 ---
 title: 'Why Lymphedema Causes False Low Blood Pressure Readings in Seniors'
-  Warning Signs Your Home Blood Pressure Monitor Is Giving False-Low Readings
-  Due to Arm Cuff Misalignment — Especially If You Have Lymphedema or
-  Post-Mastectomy Swelling
-slug: >-
-  warning-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-due-to-arm-cuff-misalignment-especially-if-you-have-lymphedema-or-post-mastectomy-swelling
+slug: warning-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-due-to-arm-cuff-misalignment-especially-if-you-have-lymphedema-or-post-mastectomy-swelling
 description: 'Lymphedema (lymph fluid swelling) compresses cuff-artery contact, producing falsely low readings of 10-20 mm Hg. Repositioning the limb restores accuracy.'
-  Identifies cuff fit errors, tissue density interference, and oscillometric
-  algorithm limitations in patients with asymmetric upper limb volume — plus
-  validation protocols.
 date: '2026-02-15'
 updated: '2026-03-27'
 primaryKeyword: 'false low blood pressure readings lymphedema seniors'
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
   - >-
-    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
   - >-
-    warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema
   - >-
-    7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
   - >-
-    warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
 ---
 
 # Why You Might Be Getting False Low Blood Pressure Readings With Lymphedema — And How to Fix It

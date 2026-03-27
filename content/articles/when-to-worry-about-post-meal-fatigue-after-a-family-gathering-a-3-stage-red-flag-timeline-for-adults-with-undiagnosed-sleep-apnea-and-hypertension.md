@@ -1,13 +1,7 @@
 ---
 title: >-
-  When to Worry About Post-Meal Fatigue After a Family Gathering—A 3-Stage
-  Red-Flag Timeline for Adults With Undiagnosed Sleep Apnea and Hypertension
-slug: >-
-  when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
+slug: when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
 description: >-
-  Links postprandial somnolence to nocturnal hypoxia patterns, offering a
-  symptom-triggered escalation pathway (from hydration check → pulse oximetry →
-  urgent CPAP re-evaluation).
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: post-meal fatigue sleep apnea red flags
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
   - >-
-    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
   - >-
-    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
-    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
 ---
 
 # When Post-Meal Fatigue Sleep Apnea Red Flags Show Up After Family Gatherings—A Gentle, Step-by-Step Guide for Adults 50+

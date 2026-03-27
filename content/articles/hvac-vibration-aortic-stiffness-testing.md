@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Chronic Exposure to 'Quiet' HVAC Duct Vibration Alters Aortic Root Motion
-  Dynamics — And Why That Masks Early Aortic Stiffness on Standard PWV Testing
-  in Adults 76+
-slug: >-
-  how-chronic-exposure-to-quiet-hvac-duct-vibration-alters-aortic-root-motion-dynamics-and-why-that-masks-early-aortic-stiffness-on-standard-pwv-testing-in-adults-76
+slug: how-chronic-exposure-to-quiet-hvac-duct-vibration-alters-aortic-root-motion-dynamics-and-why-that-masks-early-aortic-stiffness-on-standard-pwv-testing-in-adults-76
 description: >-
-  Uncovers a mechanical interference artifact in vascular testing caused by
-  building infrastructure — leading to false reassurance in early aortopathy
-  detection.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: hvac vibration aortic stiffness testing
@@ -16,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
   - >-
-    what-are-the-earliest-signs-of-arterial-stiffness-in-women-54-67-before-bp-readings-cross-130-80
   - >-
-    how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification
   - >-
-    warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
   - >-
-    12-science-backed-times-to-measure-pulse-wave-velocity-after-a-shower-not-just-in-fasting-state-for-adults-70-with-sarcopenic-obesity-and-suspected-arterial-stiffness
 ---
 
 # How HVAC Vibration Interferes with Aortic Stiffness Testing — And Why It Matters for Adults 76+

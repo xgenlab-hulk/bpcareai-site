@@ -1,13 +1,7 @@
 ---
 title: >-
-  When to Worry About Sudden Fatigue After Starting a New Blood Pressure
-  Medication at Age 68
-slug: >-
-  when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
+slug: when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
 description: >-
-  Differentiates medication-induced fatigue (e.g., beta-blocker bradycardia vs.
-  ACE inhibitor angioedema prodrome) from early decompensated heart failure—plus
-  actionable symptom triage steps.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: fatigue after blood pressure medication over 65
@@ -15,13 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
   - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - could-your-medications-be-raising-your-blood-pressure
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # When Sudden Fatigue After Starting Blood Pressure Medication Over 65 Deserves Your Attention

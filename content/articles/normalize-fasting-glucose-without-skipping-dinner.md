@@ -1,14 +1,7 @@
 ---
 title: >-
-  Simple Steps to Normalize Fasting Glucose *Without* Skipping Dinner — Using
-  Sequential Pre-Bed Protein-Fat Snacking and Nasal Breathing During Sleep in
-  Adults 60–73
-slug: >-
-  simple-steps-to-normalize-fasting-glucose-without-skipping-dinner-using-sequential-pre-bed-protein-fat-snacking-and-nasal-breathing-during-sleep-in-adults-60-73
+slug: simple-steps-to-normalize-fasting-glucose-without-skipping-dinner-using-sequential-pre-bed-protein-fat-snacking-and-nasal-breathing-during-sleep-in-adults-60-73
 description: >-
-  Outlines a 3-phase protocol: 1) 15g micellar casein + 5g MCT oil at 8:30 p.m.,
-  2) 4-7-8 nasal breathing for 5 min pre-sleep, 3) supine positioning with 15°
-  head elevation — validated via overnight CGM in 89 adults.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: normalize fasting glucose without skipping dinner
@@ -16,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-normalize-postprandial-glucose-spikes-within-45-minutes-using-sequential-protein-first-eating-isometric-handgrip-and-nasal-breathing-in-adults-60-68
   - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
   - >-
-    natural-ways-to-stabilize-overnight-glucose-without-adjusting-basal-insulin-using-bedtime-protein-timing-foot-warming-and-diaphragmatic-breathing-in-adults-59-66-with-nocturnal-hypoglycemia
   - >-
-    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
   - >-
-    quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
 ---
 
 # How to Normalize Fasting Glucose Without Skipping Dinner — A Gentle, Nighttime Strategy for Adults 60–73

@@ -1,7 +1,6 @@
 ---
 title: Improve Bile Flow Naturally After Holiday Meals — A Guide for 65+
-slug: >-
-  natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
+slug: natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
 description: Bile recycling (enterohepatic circulation) slows 30% on low-fat diets. Bitter greens before fats and psyllium after meals boost CCK without supplements.
 date: '2026-01-25'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-bile-acid-recycling-after-rich-holiday-meals-without-supplements-for-adults-66-79-with-post-cholecystectomy-fat-malabsorption
   - >-
-    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
   - >-
-    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
   - >-
-    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
   - >-
-    what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
 ---
 
 # Gentle, Natural Ways to Support Bile Acid Recycling in Older Adults with Constipation

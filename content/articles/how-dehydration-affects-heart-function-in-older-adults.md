@@ -2,8 +2,6 @@
 title: How Dehydration Affects Heart Function in Older Adults
 slug: how-dehydration-affects-heart-function-in-older-adults
 description: >-
-  Learn how insufficient fluid intake can strain the heart and mimic or worsen
-  heart disease symptoms.
 date: '2025-12-08'
 updated: '2025-12-08'
 primaryKeyword: dehydration and heart function in seniors

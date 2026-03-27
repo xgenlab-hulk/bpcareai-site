@@ -1,13 +1,7 @@
 ---
 title: >-
-  Simple Changes to Your Home Lighting Schedule That Lower Nighttime Blood
-  Pressure in Adults With Nocturnal Hypertension
-slug: >-
-  simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+slug: simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
 description: >-
-  Guides circadian lighting adjustments—blue-enriched morning light, amber
-  evening filters, and bedroom light exposure thresholds—to optimize melatonin
-  and renin rhythms.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: home lighting and nighttime blood pressure
@@ -16,13 +10,9 @@ image: ''
 relatedSlugs:
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - >-
-    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
-    5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
   - >-
-    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
 ---
 
 # How Thoughtful Home Lighting and Nighttime Blood Pressure Management Can Support Heart Health After 50

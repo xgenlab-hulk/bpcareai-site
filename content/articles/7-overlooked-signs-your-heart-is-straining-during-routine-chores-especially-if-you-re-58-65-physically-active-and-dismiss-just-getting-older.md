@@ -1,7 +1,6 @@
 ---
 title: Heart Strain During Chores? 7 Signs Active Adults 58-65 Miss
-slug: >-
-  7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
+slug: 7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
 description: Delayed speech after vacuuming or jaw fatigue on stairs signals early heart stiffening (diastolic dysfunction) — often dismissed as aging in adults 58-65.
 date: '2026-01-26'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
-    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
   - >-
-    7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
 ---
 
 # Early Heart Strain Signs During Routine Activity — What Active Adults 58–65 Should Notice *Before* Symptoms Escalate

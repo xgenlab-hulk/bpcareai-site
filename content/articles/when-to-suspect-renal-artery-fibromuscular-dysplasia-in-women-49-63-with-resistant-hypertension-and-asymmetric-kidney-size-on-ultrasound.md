@@ -1,7 +1,6 @@
 ---
 title: "BP Won't Budge? Ruling Out Artery Narrowing in Women 49-63"
-slug: >-
-  when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-49-63-with-resistant-hypertension-and-asymmetric-kidney-size-on-ultrasound
+slug: when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-49-63-with-resistant-hypertension-and-asymmetric-kidney-size-on-ultrasound
 description: 3+ BP meds failing plus one smaller kidney on ultrasound? Ask about artery narrowing (fibromuscular dysplasia) — missed in ~75% of perimenopausal women.
 date: '2026-01-30'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines
   - >-
-    7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
   - >-
-    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
-    7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
 ---
 
 # When Fibromuscular Dysplasia Hypertension Women Might Be Overlooked—And What to Look For

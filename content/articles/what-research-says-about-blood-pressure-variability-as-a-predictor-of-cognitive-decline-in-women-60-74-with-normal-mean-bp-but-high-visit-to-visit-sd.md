@@ -1,15 +1,7 @@
 ---
 title: 'Why BP Swings Predict Memory Loss in Women 60-74'
-  What Research Says About Blood Pressure Variability as a Predictor of
-  Cognitive Decline in Women 60–74 With Normal Mean BP But High Visit-to-Visit
-  SD
-slug: >-
-  what-research-says-about-blood-pressure-variability-as-a-predictor-of-cognitive-decline-in-women-60-74-with-normal-mean-bp-but-high-visit-to-visit-sd
+slug: what-research-says-about-blood-pressure-variability-as-a-predictor-of-cognitive-decline-in-women-60-74-with-normal-mean-bp-but-high-visit-to-visit-sd
 description: 'BP swinging 12+ mmHg between visits doubles white matter damage (hyperintensity) risk in women 60-74 with normal averages. Variability outranks the mean.'
-  Synthesizes longitudinal data showing that systolic BP variability—not
-  absolute values—is strongly associated with white matter hyperintensity
-  progression, hippocampal atrophy, and executive function loss in midlife
-  women.
 date: '2026-01-13'
 updated: '2026-03-27'
 primaryKeyword: 'blood pressure swings and memory loss in women 60'
@@ -17,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
   - >-
-    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
   - >-
-    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
   - >-
-    how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
   - >-
-    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
 ---
 
 # Blood Pressure Variability and Cognitive Decline in Women Ages 60–74: What the Evidence Shows

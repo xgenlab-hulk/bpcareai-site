@@ -1,15 +1,7 @@
 ---
 title: 'Fireplace Smoke and Blood Sugar: A Hidden Risk After 71'
-  How Indoor Fireplace Smoke Alters Endothelial Nitric Oxide Synthase Activity
-  and Worsens Post-Meal Glucose Uptake in Adults 71+ With Type 2 Diabetes and
-  COPD
-slug: >-
-  how-indoor-fireplace-smoke-alters-endothelial-nitric-oxide-synthase-activity-and-worsens-post-meal-glucose-uptake-in-adults-71-with-type-2-diabetes-and-copd
+slug: how-indoor-fireplace-smoke-alters-endothelial-nitric-oxide-synthase-activity-and-worsens-post-meal-glucose-uptake-in-adults-71-with-type-2-diabetes-and-copd
 description: 'Wood-burning particles (PM2.5) cut artery-relaxing enzyme activity (eNOS) 20-35%, raising post-meal glucose 25-40 mg/dL in seniors 71+ with COPD during winter.'
-  Explains the mechanistic link between PM2.5 from wood-burning fireplaces,
-  reduced eNOS phosphorylation, and impaired skeletal muscle glucose transporter
-  translocation—supported by before/after NO metabolite testing in winter home
-  environments.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'does fireplace smoke affect blood sugar with COPD'
@@ -17,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
-    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
   - >-
-    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
   - >-
-    can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
   - >-
-    how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
 ---
 
 # How Fireplace Smoke Affects Glucose Uptake in Seniors with COPD and Type 2 Diabetes

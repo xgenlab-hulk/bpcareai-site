@@ -1,7 +1,6 @@
 ---
 title: 'Breathing to Ease Lung Pressure After 67, Even With Muscle Loss'
-slug: >-
-  best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
+slug: best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
 description: 'Slow exhale with belly engagement lowers lung artery pressure (pulmonary arterial pressure) 3-5 mmHg in adults 67-80, validated by portable ultrasound.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74
   - >-
-    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
   - >-
-    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
   - >-
-    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
   - >-
-    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
 ---
 
 # How Breathing Patterns Right Ventricular Afterload PH Can Gently Support Heart and Lung Health in Later Years

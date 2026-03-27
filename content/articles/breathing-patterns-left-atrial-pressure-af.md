@@ -1,7 +1,6 @@
 ---
 title: Breathing Exercises That Lower Heart Pressure During AFib Episodes
-slug: >-
-  best-breathing-patterns-for-reducing-left-atrial-pressure-during-atrial-fibrillation-episodes-validated-via-invasive-hemodynamic-monitoring-in-adults-70-with-persistent-af
+slug: best-breathing-patterns-for-reducing-left-atrial-pressure-during-atrial-fibrillation-episodes-validated-via-invasive-hemodynamic-monitoring-in-adults-70-with-persistent-af
 description: A 4-7-8 breath with 3-second hold drops upper-chamber pressure (left atrial pressure) by 4+ mmHg during irregular heartbeat (atrial fibrillation) in adults 70+.
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
   - >-
-    best-breathing-patterns-to-reduce-right-atrial-pressure-during-stair-climbing-in-adults-68-with-tricuspid-regurgitation-and-elevated-jugular-venous-pressure
   - >-
-    best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
   - >-
-    best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio
   - >-
-    quick-ways-to-normalize-left-atrial-appendage-flow-velocity-using-diaphragmatic-breathing-and-postural-sequencing-especially-in-adults-65-with-cha-ds-vasc-3
 ---
 
 # Evidence-Based Breathing Patterns to Lower Left Atrial Pressure During Atrial Fibrillation — What Invasive Studies Reveal for Adults 70+

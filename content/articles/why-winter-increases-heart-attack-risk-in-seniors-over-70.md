@@ -2,8 +2,6 @@
 title: Why Winter Increases Heart Attack Risk in Seniors Over 70
 slug: why-winter-increases-heart-attack-risk-in-seniors-over-70
 description: >-
-  Explores the physiological reasons cold weather raises heart attack risk,
-  especially in older adults with preexisting conditions.
 date: '2025-11-28'
 updated: '2025-11-28'
 primaryKeyword: winter heart attack risk seniors

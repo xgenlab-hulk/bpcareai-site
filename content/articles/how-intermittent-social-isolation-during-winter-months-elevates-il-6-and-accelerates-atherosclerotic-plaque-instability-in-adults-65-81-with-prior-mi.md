@@ -1,7 +1,6 @@
 ---
 title: "Winter Loneliness and Heart Risk After 65: The Inflammation Connection"
-slug: >-
-  how-intermittent-social-isolation-during-winter-months-elevates-il-6-and-accelerates-atherosclerotic-plaque-instability-in-adults-65-81-with-prior-mi
+slug: how-intermittent-social-isolation-during-winter-months-elevates-il-6-and-accelerates-atherosclerotic-plaque-instability-in-adults-65-81-with-prior-mi
 description: Seasonal isolation raises inflammation markers (IL-6) 35-60% in adults 65-81 post-heart attack, destabilizing plaque. Weekly social contact cuts risk 28%.
 date: '2026-01-21'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
   - >-
-    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - >-
-    how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79
   - >-
-    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
   - >-
-    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
 ---
 
 # How Seasonal Social Isolation Worsens Atherosclerosis in Older Adults After a Heart Attack

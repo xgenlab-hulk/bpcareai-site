@@ -1,14 +1,7 @@
 ---
 title: >-
-  Natural Ways to Stabilize Autonomic Tone During Holiday Travel—Especially for
-  Adults With Parkinson’s-Associated Cardiac Dysautonomia (Age 65–81)
-slug: >-
-  natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81
+slug: natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81
 description: >-
-  Offers evidence-informed, non-pharmacologic strategies—including timed thermal
-  exposure, diaphragmatic breathing sequencing, and circadian-aligned caffeine
-  dosing—to blunt sympathetic surges during airport transit and family
-  gatherings.
 date: '2025-12-24'
 updated: '2025-12-24'
 primaryKeyword: autonomic tone stabilization during holiday travel
@@ -16,9 +9,7 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
-    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm

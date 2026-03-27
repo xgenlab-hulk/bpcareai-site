@@ -1,7 +1,6 @@
 ---
 title: "7 Signs Your 'Holiday Heart' Is Actually Cardiac Sarcoidosis"
-slug: >-
-  7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate
+slug: 7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate
 description: "Fatigue after wine, brief heart pauses (AV block), or pulse that won't settle — in adults 63+ on methotrexate, suspect sarcoidosis over holiday heart."
 date: '2026-01-23'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
   - >-
-    holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
 ---
 
 # When “Holiday Heart” Might Be Something Deeper: Recognizing Holiday Heart Syndrome Cardiac Sarcoidosis Signs in Adults 63+

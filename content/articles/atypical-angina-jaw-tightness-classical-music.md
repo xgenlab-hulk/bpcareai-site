@@ -1,7 +1,6 @@
 ---
 title: 'Why Your Jaw Tightens During Music But Not Exercise: A Hidden Angina Sign'
-slug: >-
-  what-causes-sudden-left-sided-jaw-tightness-only-while-listening-to-classical-music-through-bone-conduction-headphones-the-role-of-temporalis-muscle-activation-vagal-modulation-and-coronary-microvascular-dysfunction-in-adults-59-65-with-atypical-angina
+slug: what-causes-sudden-left-sided-jaw-tightness-only-while-listening-to-classical-music-through-bone-conduction-headphones-the-role-of-temporalis-muscle-activation-vagal-modulation-and-coronary-microvascular-dysfunction-in-adults-59-65-with-atypical-angina
 description: 'Bone-conduction headphones activate temporalis muscles and vagal tone shifts, mimicking cardiac referred pain. Standard stress tests miss coronary microvascular dysfunction (CMD) in 40% of cases.'
 date: '2026-02-10'
 updated: '2026-03-27'
@@ -10,13 +9,9 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-normal-chest-discomfort-while-gardening-a-5-point-field-assessment-for-women-65-80-with-atypical-angina-presentation
   - >-
-    what-are-the-earliest-ecg-clues-of-microvascular-angina-in-women-58-71-with-normal-coronary-angiograms-and-recurrent-chest-tightness
   - >-
-    7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
   - >-
-    a-vs-b-daily-12-minute-tai-chi-flow-vs-supervised-treadmill-walking-impact-on-myocardial-perfusion-reserve-index-in-adults-67-with-microvascular-angina-and-normal-coronary-angiograms
 ---
 
 # Understanding Atypical Angina Jaw Tightness Triggered by Classical Music — A Gentle Look at Subtle Heart Signals in Adults 59–65

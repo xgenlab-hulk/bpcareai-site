@@ -1,14 +1,7 @@
 ---
 title: 'When a Nighttime BP Drop Signals Trouble — Not Health — After 65'
-  The Ultimate Guide to Interpreting Late-Night Home Blood Pressure Dips in
-  Adults With Sleep Apnea and Mild Cognitive Impairment—Including When 'Normal'
-  Dipping Is Actually Harmful
-slug: >-
-  the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
+slug: the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
 description: 'A drop over 20% at night with sleep apnea (OSA) may reflect nerve exhaustion, not fitness. Heart rate variability tracking reveals the difference.'
-  Clarifies paradoxical autonomic failure: why >20% nocturnal BP drop in OSA +
-  MCI may signal baroreflex exhaustion—not health—and how to recalibrate targets
-  using HRV trends.
 date: '2026-01-13'
 updated: '2026-03-27'
 primaryKeyword: 'is nighttime blood pressure drop dangerous with sleep apnea'
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
-    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
   - >-
-    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
   - >-
-    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - >-
-    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
 ---
 
 # Why a “Normal” Late-Night Blood Pressure Drop Might Be a Red Flag in Sleep Apnea and Mild Cognitive Impairment

@@ -1,7 +1,6 @@
 ---
 title: "Protein First at Holiday Meals: Does It Cut Triglyceride Spikes?"
-slug: >-
-  12-science-backed-times-to-serve-a-protein-first-bite-not-just-eat-slowly-to-reduce-post-holiday-triglyceride-spikes-in-adults-68-with-metabolic-syndrome
+slug: 12-science-backed-times-to-serve-a-protein-first-bite-not-just-eat-slowly-to-reduce-post-holiday-triglyceride-spikes-in-adults-68-with-metabolic-syndrome
 description: Eating protein 90 seconds before carbs cuts after-meal blood fats (postprandial triglycerides) 18-23% in adults 68+ with metabolic syndrome.
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
   - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
-    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
   - >-
-    quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa
   - >-
-    quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
 ---
 
 # When to Take That First Bite: Protein-First Timing Triglycerides Metabolic Syndrome Strategies for Calmer Holiday Meals

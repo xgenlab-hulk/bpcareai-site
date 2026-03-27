@@ -1,7 +1,6 @@
 ---
 title: Latex-Fruit Allergy? Safe Holiday Baking Swaps for Adults 58+
-slug: >-
-  the-complete-guide-to-safe-holiday-baking-for-adults-58-with-latex-food-cross-reactivity-e-g-banana-avocado-kiwi-sensitivities
+slug: the-complete-guide-to-safe-holiday-baking-for-adults-58-with-latex-food-cross-reactivity-e-g-banana-avocado-kiwi-sensitivities
 description: If bananas or kiwis cause itching, you may have latex-food cross-reactivity — affecting ~30-50% of latex-sensitive adults. These baking swaps are safe.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,13 +9,9 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis
   - >-
-    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
   - >-
-    simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
   - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # Safe Holiday Baking for Seniors with Latex-Food Cross-Reactivity: A Gentle, Step-by-Step Guide

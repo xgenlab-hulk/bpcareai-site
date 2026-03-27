@@ -1,7 +1,6 @@
 ---
 title: 'Quick Low-Sodium High-Potassium Sides for Heart Failure Adults 75+'
-slug: >-
-  best-low-sodium-high-potassium-side-dishes-for-adults-75-with-heart-failure-and-mild-cognitive-impairment-ready-in-under-20-minutes
+slug: best-low-sodium-high-potassium-side-dishes-for-adults-75-with-heart-failure-and-mild-cognitive-impairment-ready-in-under-20-minutes
 description: 'Five no-chop dishes keeping sodium under 1,500 mg/day and potassium at 3,500–4,700 mg/day — designed for mild cognitive impairment (MCI) and limited stamina.'
 date: '2026-02-13'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    best-6-low-sodium-high-fiber-side-dishes-that-hold-up-under-3-hour-buffet-conditions-for-adults-76-with-hypertension-and-constipation
   - >-
-    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
-    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
-    10-quick-ways-to-reduce-sodium-load-in-traditional-holiday-side-dishes-without-losing-flavor-or-family-approval
   - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
 ---
 
 # Low-Sodium, High-Potassium Side Dishes for Heart Failure Seniors: Simple, Brain-Friendly Options Under 20 Minutes

@@ -1,7 +1,6 @@
 ---
 title: 'Best Holiday Protein for Adults 70+ on Warfarin With Stage 2 CKD'
-slug: >-
-  best-protein-sources-for-holiday-meals-if-you-re-taking-warfarin-and-have-stage-2-ckd-balancing-inr-stability-and-phosphorus-control-in-adults-70
+slug: best-protein-sources-for-holiday-meals-if-you-re-taking-warfarin-and-have-stage-2-ckd-balancing-inr-stability-and-phosphorus-control-in-adults-70
 description: 'Turkey, tofu, and egg whites ranked on vitamin K and phosphorus load — stage 2 CKD (eGFR 60–89) keeps near-normal protein needs but demands nutrient quality.'
 date: '2026-02-16'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
-    can-you-safely-eat-stuffed-peppers-at-thanksgiving-if-you-re-on-warfarin-a-vitamin-k-consistency-guide-for-adults-65-with-atrial-fibrillation
   - >-
-    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
-    when-should-you-skip-the-holiday-ham-and-why-if-you-re-66-with-stage-2-chronic-kidney-disease-and-elevated-urea-nitrogen
   - >-
-    5-things-everyone-over-67-should-know-about-sharing-a-single-serving-of-holiday-stuffing-especially-if-taking-warfarin-or-eating-spinach-sage-loaf-daily
 ---
 
 # Best Protein Choices for Holiday Meals When You’re on Warfarin *and* Managing Stage 2 CKD — A Gentle Guide for Seniors 70+

@@ -1,7 +1,6 @@
 ---
 title: "Dry Winter Air and Stiff Arteries: What Adults 55-68 Should Know"
-slug: >-
-  how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification
+slug: how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification
 description: Indoor humidity below 30% stiffens artery walls (endothelium) within hours — pulse wave velocity rises 0.5-1.2 m/s in adults 55-68 with early calcification.
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
   - >-
-    how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history
   - >-
-    how-chronic-low-grade-dehydration-worsens-arterial-stiffness-in-women-with-stage-1-hypertension-over-58
   - >-
-    12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings
   - >-
-    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
 ---
 
 # How Low Humidity Endothelial Stiffness Affects Arterial Health in Adults 55–68

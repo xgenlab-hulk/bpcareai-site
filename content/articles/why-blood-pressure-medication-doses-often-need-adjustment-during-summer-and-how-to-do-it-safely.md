@@ -1,13 +1,7 @@
 ---
 title: >-
-  Why Blood Pressure Medication Doses Often Need Adjustment During Summer—And
-  How to Do It Safely
-slug: >-
-  why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
+slug: why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
 description: >-
-  Explains thermoregulatory vasodilation, dehydration-induced volume shifts, and
-  diuretic sensitivity in heat, with physician-approved summer tapering
-  protocols for ACE inhibitors and CCBs.
 date: '2025-12-16'
 updated: '2025-12-16'
 primaryKeyword: blood pressure meds summer adjustment
@@ -18,9 +12,7 @@ relatedSlugs:
   - how-cold-weather-affects-blood-pressure-medication-effectiveness
   - should-you-adjust-your-blood-pressure-goals-in-winter
   - >-
-    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
   - >-
-    why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
 ---
 
 # Why Your Blood Pressure Meds Summer Adjustment Matters More Than You Think  

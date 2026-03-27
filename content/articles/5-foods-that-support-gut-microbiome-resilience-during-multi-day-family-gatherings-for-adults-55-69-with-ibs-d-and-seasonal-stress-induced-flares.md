@@ -9,13 +9,9 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption
   - >-
-    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
   - >-
-    quick-ways-to-reset-gut-microbiome-after-a-weekend-of-family-feasting-for-adults-63-with-history-of-antibiotic-use-and-low-fiber-diets
   - >-
-    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
 ---
 

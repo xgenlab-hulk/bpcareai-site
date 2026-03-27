@@ -1,13 +1,7 @@
 ---
 title: >-
-  Myths vs Facts: 'I Don’t Need Cholesterol Screening After 80' and 4 Other
-  Dangerous Assumptions About Heart Disease in the Oldest-Old
-slug: >-
-  myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+slug: myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
 description: >-
-  Debunks ageist misconceptions using data from the 85+ Study and UK
-  Biobank—highlighting residual benefit of LDL-lowering and statin safety up to
-  age 95.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: cholesterol screening myths after age 80
@@ -15,14 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
   - >-
-    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
-    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
   - >-
-    myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization
 ---
 
 # Cholesterol Screening Myths After Age 80: Busting 5 Common Misconceptions About Heart Disease in the Oldest-Old

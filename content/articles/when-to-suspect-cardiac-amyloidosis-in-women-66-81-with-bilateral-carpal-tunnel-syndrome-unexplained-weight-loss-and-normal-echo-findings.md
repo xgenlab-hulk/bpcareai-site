@@ -1,7 +1,6 @@
 ---
 title: 'Women 66+: When Carpal Tunnel Signals a Hidden Heart Condition'
-slug: >-
-  when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
+slug: when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
 description: 'Bilateral carpal tunnel 5+ years before heart failure flags protein buildup in the heart (cardiac amyloidosis). Low-voltage ECG confirms it in 60% of cases.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
   - >-
-    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
   - >-
-    when-should-you-suspect-cardiac-amyloidosis-in-adults-over-72-with-unexplained-left-ventricular-hypertrophy-and-which-biomarkers-add-value-beyond-nt-probnp
 ---
 
 # When Cardiac Amyloidosis May Be Hidden Behind Carpal Tunnel, Weight Loss, and “Normal” Echo in Women Ages 66–81

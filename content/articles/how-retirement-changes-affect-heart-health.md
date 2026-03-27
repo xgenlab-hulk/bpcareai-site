@@ -2,8 +2,6 @@
 title: How Retirement Changes Affect Heart Health
 slug: how-retirement-changes-affect-heart-health
 description: >-
-  Explore how shifts in routine, activity, and purpose post-retirement influence
-  cardiovascular wellness.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: retirement lifestyle changes and heart health

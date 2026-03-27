@@ -1,7 +1,6 @@
 ---
 title: Can Cooking Fumes and Candle Smoke Calcify Your Heart Arteries?
-slug: >-
-  how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd
+slug: how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd
 description: Adults 62+ near gas stoves 10+ years show 15-22% higher artery calcium scores (CAC) with no known heart disease. HEPA filters cut indoor particles 40-60%.
 date: '2026-01-27'
 updated: '2026-03-26'
@@ -10,13 +9,9 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
   - >-
-    10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease
   - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
-    can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
 ---
 

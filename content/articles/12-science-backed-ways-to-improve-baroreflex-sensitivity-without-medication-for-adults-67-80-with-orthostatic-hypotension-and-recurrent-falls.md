@@ -1,7 +1,6 @@
 ---
 title: 'Dizzy When Standing? 12 Ways to Retrain Your BP Reflex After 67'
-slug: >-
-  orthostatic-hypotension-falls-67-80
+slug: orthostatic-hypotension-falls-67-80
 description: 'Paced breathing retrains your pressure reflex (baroreflex sensitivity), cutting fall risk 30-40%. 12 gentle methods for adults 67-80 with drops on standing.'
 date: '2026-01-22'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
   - >-
-    12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv
   - >-
-    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
   - >-
-    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
   - >-
-    quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
 ---
 
 # 12 Gentle, Science-Backed Ways to Improve Baroreflex Sensitivity Naturally — Especially for Adults 67–80 Living With Orthostatic Hypotension

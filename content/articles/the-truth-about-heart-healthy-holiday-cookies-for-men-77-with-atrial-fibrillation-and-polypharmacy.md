@@ -1,7 +1,6 @@
 ---
 title: "Men 77+ With AFib: What 'Heart-Healthy' Cookies Do to Your Meds"
-slug: >-
-  the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
+slug: the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
 description: "Oat-based cookies high in vitamin K shift warfarin's INR 0.3-0.5 points. Add dried-fruit potassium and irregular heartbeat (atrial fibrillation) risk climbs."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
-    5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
   - >-
-    the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
   - >-
-    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
 ---
 
 # What Really Makes “Heart-Healthy Holiday Cookies” Safe for Men 77+ With Atrial Fibrillation and Polypharmacy?

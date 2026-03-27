@@ -2,8 +2,6 @@
 title: '7 Family Dishes Hiding Sugar That Affects Blood Sugar After 50'
 slug: 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
 description: 'Cranberry sauce and canned beans hide sugar under 15 ingredient names. 7 family dishes with hidden added sugar affecting blood pressure and glucose after 50.'
-  Identifies surprising high-sugar foods commonly served at gatherings and
-  suggests lower-sugar alternatives for safer consumption.
 date: '2025-11-30'
 updated: '2026-03-27'
 primaryKeyword: 'hidden sugar in family favorite dishes after 50'

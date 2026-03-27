@@ -1,7 +1,6 @@
 ---
 title: Holiday Hydration Risks for Seniors 76+ on Diuretics
-slug: >-
-  the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
+slug: the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
 description: "Thirst drops 40% after 75, and diuretics shift sodium further. Cranberry juice dilutes blood sodium (hyponatremia) \u2014 use tongue tackiness as your hydration cue."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,13 +9,9 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
   - >-
-    warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
   - >-
-    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
-    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Holiday Desserts That Won't Drop Your Blood Pressure After 80"
-slug: >-
-  what-are-the-safest-holiday-dessert-swaps-for-adults-80-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
+slug: what-are-the-safest-holiday-dessert-swaps-for-adults-80-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
 description: "High-sugar desserts trigger a 15-25 mmHg standing drop (orthostatic hypotension) in adults 80+. Here are 8 swaps that skip nighttime bathroom triggers too."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-grandma-s-fruitcake-soaked-in-brandy-vs-baked-pear-walnut-loaf-no-alcohol-lower-osmolality-for-seniors-with-mild-hyponatremia
   - >-
-    quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
   - >-
-    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
 ---
 
 # Gentle Holiday Dessert Swaps for Older Adults with Orthostatic Hypotension and Nocturnal Polyuria  

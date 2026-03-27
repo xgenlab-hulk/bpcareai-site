@@ -2,8 +2,6 @@
 title: 'The Truth About Alcohol and Heart Disease: Is One Drink a Day Safe?'
 slug: the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
 description: >-
-  Weigh the pros and cons of moderate drinking on heart health for people over
-  50.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: alcohol consumption and heart disease after 50

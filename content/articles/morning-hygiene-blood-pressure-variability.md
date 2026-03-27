@@ -1,7 +1,6 @@
 ---
 title: "Adults 67+: Why Shaving or Brushing Teeth Can Spike Your BP 20-30 mmHg"
-slug: >-
-  simple-steps-to-reduce-morning-blood-pressure-variability-during-shaving-or-tooth-brushing-not-just-after-for-adults-67-with-white-coat-amplification-and-carotid-sinus-hypersensitivity
+slug: simple-steps-to-reduce-morning-blood-pressure-variability-during-shaving-or-tooth-brushing-not-just-after-for-adults-67-with-white-coat-amplification-and-carotid-sinus-hypersensitivity
 description: "Cold water and gum brushing fire a neck pressure reflex (carotid sinus response) spiking systolic BP 20-30 mmHg in seconds. Sit down and use lukewarm water."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
   - >-
-    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
   - >-
-    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
-    quick-ways-to-reduce-bp-variability-during-air-travel-in-adults-70-with-history-of-hypertensive-urgency
   - >-
-    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
 ---
 
 # Gentle Ways to Stabilize Your Blood Pressure *While* Shaving or Brushing — Not Just After — for Adults 67+

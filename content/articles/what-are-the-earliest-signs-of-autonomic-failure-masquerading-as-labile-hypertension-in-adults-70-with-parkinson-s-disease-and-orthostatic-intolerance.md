@@ -1,7 +1,6 @@
 ---
 title: Is It Hypertension or Autonomic Failure? A Parkinson's Guide (70+)
-slug: >-
-  what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
+slug: what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
 description: Lying-down BP above 180 but standing drops below 90 — not regular hypertension. The breath-hold test (Valsalva) separates autonomic failure in Parkinson's 70+.
 date: '2026-01-27'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities
   - >-
-    what-are-the-earliest-gait-changes-linked-to-orthostatic-hypotension-in-adults-with-parkinson-s-disease-stage-2
   - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
-    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
   - >-
-    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
 ---
 
 # Recognizing Autonomic Failure Labile Hypertension in Older Adults With Parkinson’s Disease

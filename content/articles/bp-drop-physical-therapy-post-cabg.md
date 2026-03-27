@@ -1,14 +1,7 @@
 ---
 title: 'BP Drop During Rehab After CABG: What to Check in Adults 76+'
-  When to Worry About Sudden BP Drops After Standing *During* Physical Therapy
-  Sessions — Distinguishing Orthostatic Hypotension From Early Cardiac Tamponade
-  in Adults 76+ Post-CABG
-slug: >-
-  when-to-worry-about-sudden-bp-drops-after-standing-during-physical-therapy-sessions-distinguishing-orthostatic-hypotension-from-early-cardiac-tamponade-in-adults-76-post-cabg
+slug: when-to-worry-about-sudden-bp-drops-after-standing-during-physical-therapy-sessions-distinguishing-orthostatic-hypotension-from-early-cardiac-tamponade-in-adults-76-post-cabg
 description: 'Low BP on standing (orthostatic hypotension) and tamponade both cause drops in post-CABG rehab but show distinct signs — helping caregivers respond.'
-  Differentiates subtle hemodynamic signatures (absent JVP rise, muffled heart
-  sounds vs. preserved JVP + bounding pulse) and offers point-of-care assessment
-  tools for rehab clinicians and caregivers.
 date: '2026-02-24'
 updated: '2026-03-27'
 primaryKeyword: 'blood pressure drop during rehab after bypass heart surgery'
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-orthostatic-hypertension-instead-of-hypotension-in-adults-77-with-recurrent-falls-and-why-your-bp-cuff-may-be-lying-to-you
   - >-
-    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
   - >-
-    best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk
   - >-
-    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
-    blood-pressure-management-for-adults-80-with-severe-orthostatic-hypotension-and-recurrent-syncope-not-just-sitting-sbp
 ---
 
 # When a BP Drop During Physical Therapy After CABG Warrants Closer Look — Especially for Adults 76+

@@ -2,8 +2,6 @@
 title: 'Best Holiday Drinks for Stable Blood Sugar in Diabetics Over 65'
 slug: best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
 description: 'Traditional eggnog contains up to 20 g sugar per 8-oz serving. Older adults with type 2 diabetes need beverages that support both hydration and glycemic control during Christmas gatherings.'
-  Discover non-alcoholic and low-sugar beverage options that support stable
-  glucose levels during festive gatherings for seniors with type 2 diabetes.
 date: '2025-11-29'
 updated: '2026-03-27'
 primaryKeyword: 'what holiday drinks are safe for blood sugar in diabetics over 65'
@@ -14,9 +12,7 @@ relatedSlugs:
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - >-
-    does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
 ---
 
 # Best Diabetic-Friendly Holiday Drinks Over 65 for a Healthier Festive Season

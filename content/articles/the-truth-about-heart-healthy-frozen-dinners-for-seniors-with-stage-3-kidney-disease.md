@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About 'Heart-Healthy' Frozen Dinners for Seniors With Stage 3 Kidney
-  Disease
-slug: >-
-  the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
+slug: the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
 description: >-
-  Analyzes sodium, phosphorus, and potassium labeling loopholes in retail frozen
-  meals marketed to seniors—and how renal constraints redefine 'heart-healthy'
-  nutrition.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: frozen dinners heart healthy kidney disease
@@ -15,14 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
-    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
-    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
   - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
 ---
 
 # Choosing Frozen Dinners That Support Heart Health—Safely—When You Have Stage 3 Kidney Disease

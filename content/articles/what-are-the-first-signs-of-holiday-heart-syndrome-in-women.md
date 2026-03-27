@@ -2,8 +2,6 @@
 title: What Are the First Signs of Holiday Heart Syndrome in Women?
 slug: what-are-the-first-signs-of-holiday-heart-syndrome-in-women
 description: >-
-  Highlight subtle, often-missed symptoms like fatigue and shortness of breath
-  that may indicate arrhythmia in women over 50.
 date: '2025-12-05'
 updated: '2025-12-05'
 primaryKeyword: holiday heart syndrome symptoms women

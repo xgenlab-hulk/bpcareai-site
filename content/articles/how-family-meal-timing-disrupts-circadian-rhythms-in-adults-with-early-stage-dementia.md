@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Family Meal Timing Disrupts Circadian Rhythms in Adults With Early-Stage
-  Dementia
-slug: >-
-  how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
+slug: how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
 description: >-
-  Analyzes how irregular holiday meal schedules (e.g., late brunch, skipped
-  dinners) worsen sundowning, agitation, and glucose dysregulation in mild
-  cognitive impairment—and provides circadian-aligned eating templates with
-  caregiver implementation notes.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: family meal timing dementia circadian rhythms
@@ -16,10 +9,8 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - >-
-    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---

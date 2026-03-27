@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Are the Earliest Biomarkers of Holiday-Induced Cardiac Strain in Adults
-  With Stage 3a CKD? A Nephrocardiology Perspective
-slug: >-
-  what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
+slug: what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
 description: >-
-  Identifies subtle, pre-symptomatic shifts—urinary NGAL, plasma GDF-15, and
-  beat-to-beat heart rate variability—alongside actionable thresholds for
-  nephrologists and cardiologists coordinating holiday care.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: biomarkers of cardiac strain in ckd stage 3a
@@ -15,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
-    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
   - >-
-    warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate
 ---
 
 # Early Biomarkers of Cardiac Strain in CKD Stage 3a: What to Watch for During the Holidays

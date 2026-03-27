@@ -2,8 +2,6 @@
 title: Top 5 Winter Superfoods That Naturally Lower Blood Pressure
 slug: top-5-winter-superfoods-that-naturally-lower-blood-pressure
 description: >-
-  Features nutrient-dense seasonal foods rich in potassium and magnesium that
-  help counteract winter-induced hypertension in older adults.
 date: '2025-12-13'
 updated: '2025-12-13'
 primaryKeyword: superfoods for blood pressure
@@ -11,7 +9,6 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
   - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know

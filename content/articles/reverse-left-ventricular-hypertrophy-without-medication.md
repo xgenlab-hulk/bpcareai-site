@@ -1,7 +1,6 @@
 ---
 title: 'Can You Reverse a Thickened Heart Wall Without Medication?'
-slug: >-
-  12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing
+slug: 12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing
 description: 'Early thickening of the heart wall (left ventricular hypertrophy) regresses 8-12% with timed sodium cuts, evening magnesium, and posture breathing alone.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
   - >-
-    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
-    12-science-backed-ways-to-stabilize-morning-blood-pressure-spikes-without-increasing-beta-blocker-dose-in-adults-66-79
   - >-
-    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
 ---
 
 # 12 Science-Backed Ways to Reverse Left Ventricular Hypertrophy Without Medication

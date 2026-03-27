@@ -1,7 +1,6 @@
 ---
 title: "Nighttime Palpitations During Perimenopause: AFib Risk or Harmless?"
-slug: >-
-  what-causes-recurrent-nighttime-palpitations-with-normal-ecgs-in-women-52-68-during-perimenopause-and-when-it-signals-early-atrial-fibrosis
+slug: what-causes-recurrent-nighttime-palpitations-with-normal-ecgs-in-women-52-68-during-perimenopause-and-when-it-signals-early-atrial-fibrosis
 description: Normal ECGs miss early scarring (atrial fibrosis) in 30% of perimenopausal women 52-68. Galectin-3 and QT variability reveal what standard tests hide.
 date: '2026-01-21'
 updated: 2026-03-26
@@ -11,13 +10,9 @@ image: ''
 relatedSlugs:
   - 7-hidden-causes-of-nighttime-heart-palpitations-in-women-over-55
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
-    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - >-
-    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
 ---
 
 # Nighttime Palpitations During Perimenopause: Understanding Your AFib Risk and Heart Health

@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Late-Night Pie Eating Disrupts Nocturnal Glucose Rhythms in Adults 65+
-  With Early-Stage Diabetic Neuropathy
-slug: >-
-  how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
+slug: how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
 description: >-
-  Explores the circadian and autonomic mechanisms linking post-dinner dessert
-  consumption to impaired overnight glycemic control—and why timing matters more
-  than sugar content alone.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: late-night pie eating glucose rhythms seniors
@@ -15,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
-    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
 ---
 
 # How Late-Night Pie Eating Disrupts Glucose Rhythms in Seniors With Early Diabetic Neuropathy  

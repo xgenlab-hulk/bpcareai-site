@@ -1,7 +1,6 @@
 ---
 title: 'Flying With AFib and COPD? 12 Ways to Guard Your Heart Rhythm'
-slug: >-
-  flying-afib-copd-heart-protection
+slug: flying-afib-copd-heart-protection
 description: 'Flying drops cabin oxygen 4-8%, stressing the upper heart chamber (left atrial strain). 12 tips protect passengers with irregular heartbeat (AFib) and COPD.'
 date: '2026-01-07'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - >-
-    natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81
   - >-
-    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
   - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
-    how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
 ---
 
 # Flying With AFib and COPD? How Can You Protect Your Heart Rhythm During Air Travel?

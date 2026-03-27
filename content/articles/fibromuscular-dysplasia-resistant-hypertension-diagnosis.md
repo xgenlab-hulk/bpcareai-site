@@ -1,13 +1,7 @@
 ---
 title: 'Fibromuscular Dysplasia: A Hidden Cause of Resistant Hypertension'
-  When to Suspect Renal Artery Fibromuscular Dysplasia *Instead* of Primary
-  Hypertension in Adults 52–58 With Episodic Headache, Asymmetric Kidney Size,
-  and Resistant Hypertension
-slug: >-
-  when-to-suspect-renal-artery-fibromuscular-dysplasia-instead-of-primary-hypertension-in-adults-52-58-with-episodic-headache-asymmetric-kidney-size-and-resistant-hypertension
+slug: when-to-suspect-renal-artery-fibromuscular-dysplasia-instead-of-primary-hypertension-in-adults-52-58-with-episodic-headache-asymmetric-kidney-size-and-resistant-hypertension
 description: 'Fibromuscular dysplasia (artery wall thickening) causes 5-10% of resistant hypertension. CTA screening catches it in women over 50 with unexplained BP spikes.'
-  Guides recognition of underdiagnosed vascular cause of hypertension in younger
-  older adults—highlighting imaging clues and intervention implications.
 date: '2026-02-12'
 updated: '2026-03-27'
 primaryKeyword: 'fibromuscular dysplasia resistant hypertension diagnosis'
@@ -15,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines
   - >-
-    when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-49-63-with-resistant-hypertension-and-asymmetric-kidney-size-on-ultrasound
   - >-
-    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
-    when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium
   - >-
-    why-blood-pressure-readings-vary-between-left-and-right-arms-in-adults-70-with-aortic-stiffness-and-asymmetric-carotid-intima-media-thickness
 ---
 
 # When Fibromuscular Dysplasia Resistant Hypertension Diagnosis Should Be Considered in Adults 52–58

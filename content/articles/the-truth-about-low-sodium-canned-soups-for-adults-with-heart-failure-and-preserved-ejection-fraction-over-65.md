@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About 'Low-Sodium' Canned Soups for Adults With Heart Failure and
-  Preserved Ejection Fraction Over 65
-slug: >-
-  the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
+slug: the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
 description: >-
-  Analyzes sodium labeling loopholes, hidden potassium binders, and
-  fluid-retention triggers in commercially labeled 'low-sodium' soups—and how
-  they impact 24-hour BP variability.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: low-sodium soup heart failure seniors
@@ -15,15 +9,10 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
-    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
   - >-
-    a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
   - >-
-    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
 ---
 
 # What You *Really* Need to Know About Low-Sodium Soup and Heart Failure in Seniors Over 65

@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Chronic Low-Grade Gum Inflammation Accelerates Beta-Cell Dysfunction in
-  Adults 62+ With Long-Standing Type 2 Diabetes
-slug: >-
-  how-chronic-low-grade-gum-inflammation-accelerates-beta-cell-dysfunction-in-adults-62-with-long-standing-type-2-diabetes
+slug: how-chronic-low-grade-gum-inflammation-accelerates-beta-cell-dysfunction-in-adults-62-with-long-standing-type-2-diabetes
 description: >-
-  Examines the oral-pancreatic axis: how Porphyromonas gingivalis virulence
-  factors and systemic IL-17 elevation impair insulin secretion and promote
-  amyloid deposition in islets — supported by 2023–2024 longitudinal salivary
-  biomarker studies.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: gum disease and beta-cell dysfunction in seniors
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
   - >-
-    how-chronic-low-grade-inflammation-from-untreated-gum-disease-accelerates-insulin-resistance-in-adults-58-72-with-prediabetes
   - >-
-    how-chronic-low-grade-inflammation-drives-beta-cell-decline-in-adults-52-64-with-long-standing-prediabetes-and-elevated-hs-crp
 ---
 
 # How Gum Disease and Beta-Cell Dysfunction in Seniors Are Linked — And What You Can Do About It

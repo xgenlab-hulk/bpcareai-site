@@ -2,8 +2,6 @@
 title: Why Blood Sugar Spikes at Night in Older Adults with Diabetes
 slug: why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 description: >-
-  Uncover common causes of nocturnal hyperglycemia and how to prevent it through
-  diet and medication timing.
 date: '2025-12-03'
 updated: '2025-12-03'
 primaryKeyword: nighttime blood sugar spikes in elderly diabetics

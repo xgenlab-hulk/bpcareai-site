@@ -1,7 +1,6 @@
 ---
 title: 'Hydration Strategies for Heart Patients During Holiday Travel After 60'
-slug: >-
-  best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+slug: best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
 description: 'Diuretic-aware fluid plans for dry cabin air under 20% humidity — reduced thirst sensation after age 65 makes proactive hydration essential for cardiac safety.'
 date: '2025-12-19'
 updated: '2026-03-27'

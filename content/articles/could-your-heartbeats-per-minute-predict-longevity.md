@@ -2,8 +2,6 @@
 title: 'Can Your Resting Heart Rate Predict How Long You\'ll Live?'
 slug: could-your-heartbeats-per-minute-predict-longevity
 description: 'Each 10 bpm rise in resting pulse (resting heart rate) above 60 links to 16% higher cardiovascular mortality; simple daily tracking reveals longevity clues.'
-  Explore how resting heart rate may serve as a marker for heart health and
-  lifespan after 50.
 date: '2025-12-05'
 updated: '2026-03-27'
 primaryKeyword: 'resting heart rate longevity prediction adults'

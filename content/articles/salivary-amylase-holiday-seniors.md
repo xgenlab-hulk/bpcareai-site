@@ -1,7 +1,6 @@
 ---
 title: 'Why Holiday Starches Cause Bloating for Seniors With Dentures'
-slug: >-
-  quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
+slug: quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
 description: 'Seniors 71+ with dentures make 40-60% less starch-digesting enzyme (salivary amylase). A 90-second chew-timing trick and vinegar pre-rinse restore digestion.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,13 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - >-
-    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
   - >-
-    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
 ---
 
 # Supporting Salivary Amylase Activity During the Holidays: Gentle, Effective Strategies for Seniors Over 71

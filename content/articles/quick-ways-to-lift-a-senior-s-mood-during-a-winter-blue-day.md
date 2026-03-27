@@ -2,8 +2,6 @@
 title: Quick Ways to Lift a Senior’s Mood During a Winter Blue Day
 slug: quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
 description: >-
-  Offer immediate, small actions like phone calls, music, short walks, or
-  favorite foods to interrupt low mood episodes.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: quick mood boosters for seniors

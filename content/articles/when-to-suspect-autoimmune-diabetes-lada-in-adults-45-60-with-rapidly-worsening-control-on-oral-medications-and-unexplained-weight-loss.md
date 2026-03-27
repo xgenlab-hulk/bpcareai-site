@@ -1,7 +1,6 @@
 ---
 title: "When Type 2 Diabetes Stops Responding: Could It Be LADA (Ages 45-60)?"
-slug: >-
-  when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss
+slug: when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss
 description: If oral meds fail within 3 years and weight drops unexpectedly, autoimmune diabetes (LADA) affects ~10% first labeled type 2. A GAD65 blood test confirms.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement
   - >-
-    when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
   - >-
-    when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving
   - >-
-    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
   - >-
-    how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
 ---
 
 # When to Consider LADA Diagnosis Adults 45 to 60: A Gentle Guide for Patients and Providers

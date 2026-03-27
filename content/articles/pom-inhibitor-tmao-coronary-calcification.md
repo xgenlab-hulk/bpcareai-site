@@ -1,7 +1,6 @@
 ---
 title: Why Acid Reflux Pills May Worsen Artery Calcification After 70
-slug: >-
-  how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbiome-derived-trimethylamine-n-oxide-tmao-production-and-accelerates-coronary-artery-calcification-in-adults-70-with-gerd-and-stable-cad
+slug: how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbiome-derived-trimethylamine-n-oxide-tmao-production-and-accelerates-coronary-artery-calcification-in-adults-70-with-gerd-and-stable-cad
 description: Acid reflux drugs (PPIs) shift gut bacteria to overproduce TMAO — speeding artery calcium buildup (CAC) 18-22% faster in adults 70+ with stable heart disease.
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-long-term-proton-pump-inhibitor-use-elevates-risk-of-subclinical-atherosclerosis-in-adults-59-71-with-gerd-and-low-hdl-c-independent-of-magnesium-levels
   - >-
-    how-long-term-ppi-use-alters-gut-microbiome-derived-tmao-production-and-its-link-to-plaque-instability-in-adults-67-with-stable-cad
   - >-
-    how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
 ---
 
 # How Long-Term PPI Use May Raise TMAO and Speed Up Coronary Calcification in Older Adults With Heart Disease

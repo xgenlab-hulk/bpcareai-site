@@ -1,7 +1,6 @@
 ---
 title: Can 5-Minute Breathing Exercises Lower Post-Meal Blood Sugar?
-slug: >-
-  does-daily-5-minute-diaphragmatic-breathing-lower-postprandial-glucose-spikes-in-adults-64-with-high-lf-hf-ratio-and-type-2-diabetes
+slug: does-daily-5-minute-diaphragmatic-breathing-lower-postprandial-glucose-spikes-in-adults-64-with-high-lf-hf-ratio-and-type-2-diabetes
 description: A 4-7-8 breathing rhythm before meals activates your calming nerve (vagus nerve), cutting post-meal glucose spikes 18-25 mg/dL in adults 64+ with diabetes.
 date: '2026-01-30'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-8-minute-diaphragmatic-breathing-lower-fasting-glucose-and-homa-ir-in-adults-59-69-with-stress-induced-hyperglycemia-and-high-salivary-alpha-amylase
   - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
   - >-
-    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
-    does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
 ---
 
 # Can Diaphragmatic Breathing Postprandial Glucose Responses in Adults 64+ With Type 2 Diabetes and Autonomic Imbalance?

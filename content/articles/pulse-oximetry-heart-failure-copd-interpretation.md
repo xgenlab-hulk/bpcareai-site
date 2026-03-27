@@ -1,7 +1,6 @@
 ---
 title: Pulse Oximeter Trends With Heart Failure and COPD After 70
-slug: >-
-  the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function
+slug: the-complete-guide-to-interpreting-home-pulse-oximetry-trends-in-adults-70-with-chronic-heart-failure-and-copd-when-desaturation-patterns-signal-worsening-rv-function
 description: "A stable 94% SpO2 average hides risk: overnight dips below 88% that recover slowly signal the right heart chamber (RV) weakening. Track nadir, not averages."
 date: '2026-01-26'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
-    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
-    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
   - >-
-    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
 ---
 
 # Understanding Pulse Oximetry Heart Failure COPD Interpretation: A Gentle Guide for Older Adults and Caregivers

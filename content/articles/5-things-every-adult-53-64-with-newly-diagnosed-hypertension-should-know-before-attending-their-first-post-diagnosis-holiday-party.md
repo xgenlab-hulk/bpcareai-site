@@ -1,7 +1,6 @@
 ---
 title: 'New High BP Diagnosis? 5 Ways to Enjoy Holiday Parties at 53-64'
-slug: >-
-  new-bp-diagnosis-holiday-party-53-64
+slug: new-bp-diagnosis-holiday-party-53-64
 description: 'Parties can spike blood pressure readings (BP) 10-20 mmHg from salt and stress. Try 5 drink swaps and discreet monitoring tips for newly diagnosed adults 53-64.'
 date: '2026-01-23'
 updated: '2026-03-27'
@@ -11,11 +10,9 @@ image: ''
 relatedSlugs:
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - >-
-    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
 ---
 
 # Can You Still Go to Holiday Parties After a High Blood Pressure Diagnosis? (Essential Guide Ages 53-64)

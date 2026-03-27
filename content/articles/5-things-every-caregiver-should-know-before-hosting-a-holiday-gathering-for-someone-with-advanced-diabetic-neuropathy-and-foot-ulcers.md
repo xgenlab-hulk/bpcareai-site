@@ -1,7 +1,6 @@
 ---
 title: 'Caregivers: 5 Safety Steps for Holiday Hosting With Foot Ulcers'
-slug: >-
-  foot-ulcers-holiday-hosting-guide
+slug: foot-ulcers-holiday-hosting-guide
 description: 'Soft rugs cause pressure injuries delaying healing 2-3 weeks in nerve-damaged feet (diabetic neuropathy). 5 offloading and flooring fixes before guests arrive.'
 date: '2026-01-19'
 updated: '2026-03-27'
@@ -10,12 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - >-
-    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
   - foot-care-basics-every-senior-with-diabetes-should-know
   - >-
-    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 

@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Research Says About Late-Night Protein Timing — Effects on Overnight
-  Glucose Stability and Growth Hormone Pulses in Adults 63+ With Prediabetes
-slug: >-
-  what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes
+slug: what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes
 description: >-
-  Reviews 2023–2024 trials on casein vs. whey timing, nocturnal insulin
-  sensitivity windows, and how protein intake shifts hepatic gluconeogenesis
-  rhythms in aging livers.
 date: '2026-03-01'
 updated: '2026-03-01'
 primaryKeyword: late-night protein and blood sugar
@@ -15,12 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
   - >-
-    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
   - stabilize-overnight-glucose-without-insulin-adjustment
   - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
   - stabilize-morning-glucose-without-insulin
 ---
 

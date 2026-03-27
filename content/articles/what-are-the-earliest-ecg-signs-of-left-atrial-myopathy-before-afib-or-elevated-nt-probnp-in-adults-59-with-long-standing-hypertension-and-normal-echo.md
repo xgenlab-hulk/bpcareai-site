@@ -1,14 +1,7 @@
 ---
 title: >-
-  What Are the Earliest ECG Signs of Left Atrial Myopathy — Before AFib or
-  Elevated NT-proBNP in Adults 59+ With Long-Standing Hypertension and Normal
-  Echo?
-slug: >-
-  what-are-the-earliest-ecg-signs-of-left-atrial-myopathy-before-afib-or-elevated-nt-probnp-in-adults-59-with-long-standing-hypertension-and-normal-echo
+slug: what-are-the-earliest-ecg-signs-of-left-atrial-myopathy-before-afib-or-elevated-nt-probnp-in-adults-59-with-long-standing-hypertension-and-normal-echo
 description: >-
-  Focuses on subtle P-wave abnormalities (e.g., fragmented P-wave, prolonged
-  P-wave dispersion, terminal force in V1) as precursors to atrial remodeling,
-  validated in longitudinal cohorts with high-resolution ECG mapping.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: earliest ECG signs left atrial myopathy
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-ecg-clues-of-right-ventricular-strain-in-adults-58-69-with-obesity-mild-sleep-apnea-and-normal-bnp
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
   - >-
-    what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef
   - >-
-    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
   - >-
-    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
 ---
 
 # Recognizing the Earliest ECG Signs of Left Atrial Myopathy in Adults Over 59

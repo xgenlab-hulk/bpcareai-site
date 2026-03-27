@@ -1,7 +1,6 @@
 ---
 title: Best Foot Thermometers for Early Neuropathy Detection After 70
-slug: >-
-  best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision
+slug: best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision
 description: A 0.5C side-to-side foot temp difference flags early nerve damage (peripheral neuropathy) weeks before symptoms. Infrared models with audio suit low dexterity.
 date: '2026-01-21'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
   - >-
-    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - >-
-    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
   - >-
-    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
 ---
 
 # Portable Foot Thermometers for Early Neuropathy Detection in Older Adults: A Gentle Guide for Those 70+

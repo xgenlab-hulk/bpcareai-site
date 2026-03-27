@@ -1,7 +1,6 @@
 ---
 title: "Gut Bacteria and Early Heart Scarring: What TMAO Reveals"
-slug: >-
-  how-gut-microbial-metabolites-e-g-tmao-indole-3-propionic-acid-predict-subclinical-myocardial-fibrosis-in-adults-59-75-with-metabolic-syndrome
+slug: how-gut-microbial-metabolites-e-g-tmao-indole-3-propionic-acid-predict-subclinical-myocardial-fibrosis-in-adults-59-75-with-metabolic-syndrome
 description: Gut metabolite TMAO predicts hidden heart scarring (myocardial fibrosis) on cardiac MRI. Dietary shifts lower TMAO 30-40% within 10 days in adults 59-75.
 date: '2026-01-29'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
   - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
-    how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af
   - >-
-    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
   - >-
-    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
 ---
 
 # How Gut Metabolites Link to Early Heart Changes in Adults With Metabolic Syndrome

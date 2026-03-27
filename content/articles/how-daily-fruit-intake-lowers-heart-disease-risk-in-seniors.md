@@ -2,8 +2,6 @@
 title: How Daily Fruit Intake Lowers Heart Disease Risk in Seniors
 slug: how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
 description: >-
-  Explore the role of whole fruits in reducing heart disease risk and supporting
-  healthy aging for people over 60.
 date: '2025-12-05'
 updated: '2025-12-05'
 primaryKeyword: fruit consumption and heart disease prevention seniors

@@ -2,8 +2,6 @@
 title: Simple Steps to Monitor Your Heart Health During the Holiday Season
 slug: simple-steps-to-monitor-your-heart-health-during-the-holiday-season
 description: >-
-  Guide readers through easy self-monitoring techniques including pulse checks,
-  symptom tracking, and wearable use.
 date: '2025-12-09'
 updated: '2025-12-09'
 primaryKeyword: monitor heart health holidays
@@ -12,7 +10,6 @@ image: ''
 relatedSlugs:
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
-    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat

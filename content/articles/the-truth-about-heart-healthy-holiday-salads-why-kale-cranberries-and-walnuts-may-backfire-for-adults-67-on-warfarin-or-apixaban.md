@@ -1,7 +1,6 @@
 ---
 title: Why Kale and Cranberry Salads Backfire on Warfarin After 67
-slug: >-
-  the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
+slug: the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
 description: One cup of raw kale delivers 547mcg vitamin K — 6x the limit on blood thinners (warfarin). Cranberries push INR up 0.5-1.2 points within 48 hours.
 date: '2026-01-24'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
-    can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
   - >-
-    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
   - >-
-    5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
   - >-
-    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
 ---
 
 # The Real Story Behind Holiday Salad Warfarin Interaction Truth — What Your Kale, Cranberries, and Walnuts *Really* Do on Blood Thinners

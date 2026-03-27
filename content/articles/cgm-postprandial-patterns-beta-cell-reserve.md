@@ -1,7 +1,6 @@
 ---
 title: 'What Your CGM Pattern After Meals Reveals About Pancreas Health'
-slug: >-
-  the-ultimate-guide-to-interpreting-postprandial-glucose-trends-on-your-cgm-including-what-flatline-spike-and-drop-and-delayed-rise-really-mean-for-your-beta-cell-reserve
+slug: the-ultimate-guide-to-interpreting-postprandial-glucose-trends-on-your-cgm-including-what-flatline-spike-and-drop-and-delayed-rise-really-mean-for-your-beta-cell-reserve
 description: 'A \'spike-and-crash\' CGM shape signals 40-60% lost insulin-making capacity (beta-cell reserve). A slow-rise pattern after age 55 often warrants a C-peptide test.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
-    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
   - >-
-    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
   - >-
-    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
-    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
 ---
 
 # Understanding CGM Postprandial Patterns and Beta-Cell Reserve: A Practical Guide for Adults 50+

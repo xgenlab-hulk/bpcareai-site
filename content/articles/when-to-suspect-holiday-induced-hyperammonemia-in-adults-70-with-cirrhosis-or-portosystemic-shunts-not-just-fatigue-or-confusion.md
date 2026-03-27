@@ -1,7 +1,6 @@
 ---
 title: 'When Holiday Fatigue Means High Ammonia in Adults 70+ With Cirrhosis'
-slug: >-
-  when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion
+slug: when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion
 description: 'Turkey gravy and protein-heavy appetizers spike ammonia (hyperammonemia) in adults 70+ with cirrhosis. Watch for word-finding slips, not just confusion.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,12 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - >-
-    5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
 ---
 
 # Recognizing Holiday-Related Hyperammonemia in Older Adults with Cirrhosis or Portosystemic Shunts — A Gentle Guide for Caregivers and Families

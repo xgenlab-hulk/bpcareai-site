@@ -2,8 +2,6 @@
 title: The Role of Potassium in Managing Blood Pressure After 50
 slug: the-role-of-potassium-in-managing-blood-pressure-after-50
 description: >-
-  Learn how increasing potassium-rich foods can help balance sodium and support
-  healthy blood pressure levels.
 date: '2025-11-28'
 updated: '2025-11-28'
 primaryKeyword: potassium and blood pressure management over 50

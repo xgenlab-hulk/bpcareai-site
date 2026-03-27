@@ -1,13 +1,7 @@
 ---
 title: 'Cranberry Sauce and Urinary pH in Men Over 70 With Recurrent UTIs'
-  Does Leftover Cranberry Sauce Really Lower Post-Meal Urinary pH in Men Over 70
-  With Recurrent UTIs?
-slug: >-
-  does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
+slug: does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
 description: 'Cranberry sauce delivers 5-15 mg PACs (anti-adhesion compounds) and rarely drops urinary pH below 5.5—far below the UTI prevention threshold in older men.'
-  Reviews proanthocyanidin bioavailability, gastric pH interference, and urinary
-  acidification efficacy of homemade vs commercial cranberry preparations in
-  aging male urinary tracts.
 date: '2026-01-06'
 updated: '2026-03-27'
 primaryKeyword: 'cranberry sauce urinary pH UTI men over 70'
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
   - >-
-    does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82
   - >-
-    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
   - >-
-    what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia
   - >-
-    why-cranberry-sauce-triggers-reflux-induced-nocturnal-hypertension-in-adults-68-with-hiatal-hernia-and-mild-sleep-apnea
 ---
 
 # Can Cranberry Sauce Really Help Manage Urinary pH and UTIs in Men Over 70?

@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Are the Earliest ECG Clues of Right Ventricular Strain in Adults 58–69
-  With Obesity, Mild Sleep Apnea, and Normal BNP?
-slug: >-
-  what-are-the-earliest-ecg-clues-of-right-ventricular-strain-in-adults-58-69-with-obesity-mild-sleep-apnea-and-normal-bnp
+slug: what-are-the-earliest-ecg-clues-of-right-ventricular-strain-in-adults-58-69-with-obesity-mild-sleep-apnea-and-normal-bnp
 description: >-
-  Pinpoints subtle but actionable ECG features (e.g., P-wave axis shift, S-wave
-  persistence in V6, R/S ratio changes) preceding overt pulmonary hypertension
-  in midlife metabolic syndrome.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: ecg clues right ventricular strain
@@ -15,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
   - >-
-    warning-signs-of-right-heart-strain-that-appear-before-neck-vein-distension-detected-via-subcostal-echocardiographic-view-in-adults-77-with-copd-and-mild-pulmonary-hypertension
   - >-
-    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
-    warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis
   - >-
-    warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue
 ---
 
 # Spotting Early ECG Clues Right Ventricular Strain in Adults 58–69 With Obesity and Mild Sleep Apnea

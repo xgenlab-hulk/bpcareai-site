@@ -1,14 +1,7 @@
 ---
 title: 'Supporting Your Pancreas Naturally With Diabetes After 65'
-  Natural Ways to Support Pancreatic Acinar Cell Function and Reduce
-  Postprandial Lipase Deficiency in Adults 65+ With Long-Standing Type 2
-  Diabetes and Fatty Pancreas Imaging
-slug: >-
-  natural-ways-to-support-pancreatic-acinar-cell-function-and-reduce-postprandial-lipase-deficiency-in-adults-65-with-long-standing-type-2-diabetes-and-fatty-pancreas-imaging
+slug: natural-ways-to-support-pancreatic-acinar-cell-function-and-reduce-postprandial-lipase-deficiency-in-adults-65-with-long-standing-type-2-diabetes-and-fatty-pancreas-imaging
 description: 'Diabetes can shrink enzyme-producing cells (acinar cells) 30-40%, causing fat malabsorption and glucose swings. Zinc, B6, and timed protein help adults over 65.'
-  Focuses on dietary enzyme co-factors (zinc, B6), bitters, and timed protein
-  intake to support exocrine pancreas health—reducing fat malabsorption–driven
-  glucose volatility and steatorrhea.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'pancreatic enzyme support for diabetes over 65'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
   - >-
-    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
   - >-
-    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
   - >-
-    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
   - >-
-    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # Gentle, Evidence-Informed Pancreatic Acinar Support for Diabetics Over 65

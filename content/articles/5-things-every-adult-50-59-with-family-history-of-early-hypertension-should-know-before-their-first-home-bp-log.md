@@ -1,7 +1,6 @@
 ---
 title: 'Family History of High BP? Your Home Monitoring Guide for Ages 50-59'
-slug: >-
-  family-history-bp-home-monitoring-50s
+slug: family-history-bp-home-monitoring-50s
 description: 'If a parent had high blood pressure (hypertension) before 55, your risk is 2-3x higher. Avoid 5 home monitoring mistakes that hide true readings in your 50s.'
 date: '2026-01-20'
 updated: '2026-03-27'
@@ -10,14 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-every-adult-55-63-with-newly-diagnosed-hypertension-should-know-before-hosting-their-first-holiday-dinner
   - >-
-    the-complete-guide-to-interpreting-your-home-bp-log-for-patterns-especially-if-you-re-60-and-tracking-after-antihypertensive-dose-changes
   - >-
-    5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
   - how-does-family-history-influence-your-risk-of-heart-disease-after-60
   - >-
-    5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
 ---
 
 # Does Family History of High Blood Pressure Mean You'll Get It Too? (Essential Guide for Ages 50-59)

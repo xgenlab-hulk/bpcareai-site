@@ -1,12 +1,7 @@
 ---
 title: >-
-  What Research Says About Melatonin and Mood Regulation in Older Adults During
-  Winter
-slug: >-
-  what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
+slug: what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
 description: >-
-  Review recent studies on melatonin supplementation, circadian disruption, and
-  its role in seasonal affective symptoms.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: melatonin and seasonal depression research
@@ -18,7 +13,6 @@ relatedSlugs:
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
   - >-
-    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
 ---
 
 # What Science Says About Melatonin and Seasonal Depression Research in Older Adults

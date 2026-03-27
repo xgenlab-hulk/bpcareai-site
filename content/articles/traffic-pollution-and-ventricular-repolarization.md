@@ -1,12 +1,7 @@
 ---
 title: >-
-  How Living Near High-Traffic Urban Corridors Alters Autonomic Modulation of
-  Ventricular Repolarization in Adults 57–65 With Borderline QTc Prolongation
-slug: >-
-  how-living-near-high-traffic-urban-corridors-alters-autonomic-modulation-of-ventricular-repolarization-in-adults-57-65-with-borderline-qtc-prolongation
+slug: how-living-near-high-traffic-urban-corridors-alters-autonomic-modulation-of-ventricular-repolarization-in-adults-57-65-with-borderline-qtc-prolongation
 description: >-
-  Investigates PM2.5 and NO₂ exposure effects on T-wave morphology, HRV indices,
-  and arrhythmic risk in pre-symptomatic adults with borderline QTc.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: traffic pollution and ventricular repolarization
@@ -14,15 +9,10 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
-    how-living-near-high-traffic-urban-corridors-alters-carotid-intima-media-thickness-progression-in-adults-66-with-controlled-hypertension-and-no-prior-cvd
   - >-
-    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - >-
-    how-chronic-exposure-to-urban-roadway-noise-55-db-increases-nighttime-sympathetic-tone-and-predicts-new-onset-heart-failure-in-adults-64-with-borderline-hypertension
   - >-
-    how-chronic-exposure-to-low-frequency-traffic-vibration-below-10-hz-modulates-baroreceptor-sensitivity-in-adults-65-70-with-stage-1-hypertension-and-mild-sleep-fragmentation
   - >-
-    how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways
 ---
 
 # How Traffic Pollution and Ventricular Repolarization Interact in Adults 57–65 With Borderline QTc

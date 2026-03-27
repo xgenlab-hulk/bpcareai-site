@@ -13,7 +13,6 @@ relatedSlugs:
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # Is Taking Your Aging Parent to a New Year's Eve Party Safe—Or Setting Up for Holiday Heart Syndrome?

@@ -1,7 +1,6 @@
 ---
 title: "LED Nightlights and Overnight Blood Sugar Spikes in Adults Over 70"
-slug: >-
-  how-chronic-exposure-to-led-nightlights-in-hallways-disrupts-retinal-melanopsin-signaling-and-elevates-nocturnal-glucose-in-adults-70-with-nocturia-and-poor-sleep-efficiency
+slug: how-chronic-exposure-to-led-nightlights-in-hallways-disrupts-retinal-melanopsin-signaling-and-elevates-nocturnal-glucose-in-adults-70-with-nocturia-and-poor-sleep-efficiency
 description: "Blue-spectrum hallway LEDs suppress your sleep hormone (melatonin) up to 50%, raising glucose 15-25 mg/dL. Amber bulbs under 5 lux restore normal dipping."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
   - >-
-    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
   - >-
-    how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment
   - >-
-    how-nighttime-light-exposure-from-smart-clocks-disrupts-melatonin-mediated-glp-1-secretion-and-elevates-fasting-glucose-in-adults-59-with-shift-work-history
 ---
 
 # How LED Nightlights in Hallways May Affect Nocturnal Glucose in Seniors — And What You Can Do

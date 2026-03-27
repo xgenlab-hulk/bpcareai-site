@@ -1,12 +1,7 @@
 ---
 title: >-
-  How Chronic Holiday Social Isolation Alters Ventricular Repolarization Reserve
-  — Evidence from 24-Hour QTc Monitoring in Adults 69+ Living Alone
-slug: >-
-  how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone
+slug: how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone
 description: >-
-  Examines the underrecognized link between emotional loneliness during holidays
-  and measurable electrophysiological vulnerability in aging ventricles.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: "health management holiday adults 69+"
@@ -14,15 +9,10 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - >-
-    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
   - >-
-    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
   - >-
-    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
   - >-
-    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
 ---
 
 # How Holiday Social Isolation Affects Ventricular Repolarization Reserve in Older Adults

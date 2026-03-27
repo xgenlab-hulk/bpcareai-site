@@ -1,7 +1,6 @@
 ---
 title: "Magnesium Glycinate for Blood Pressure: What RCTs Show After 63"
-slug: >-
-  does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
+slug: does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
 description: 2 grams daily relaxes artery smooth muscle — trials show 3-5 mmHg diastolic drop in adults 63-79 with low red blood cell magnesium (RBC Mg) and constipation.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
   - >-
-    a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
   - >-
-    best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl
   - >-
-    does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
   - >-
-    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
 ---
 
 # Can Magnesium Glycinate Help Lower Diastolic Blood Pressure in Adults 63–79 With Constipation and Low Magnesium?

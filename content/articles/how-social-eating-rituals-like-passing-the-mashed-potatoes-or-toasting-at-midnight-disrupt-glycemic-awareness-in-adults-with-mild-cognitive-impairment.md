@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Social Eating Rituals—Like Passing the Mashed Potatoes or Toasting at
-  Midnight—Disrupt Glycemic Awareness in Adults With Mild Cognitive Impairment
-slug: >-
-  how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
+slug: how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
 description: >-
-  Examines how auditory distraction, multitasking, and time perception changes
-  affect portion estimation, chewing pace, and satiety signaling during group
-  meals.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: social eating glycemic awareness mci
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - >-
-    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
   - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 ---
 
 # How Social Eating Rituals Affect Glycemic Awareness in Adults With Mild Cognitive Impairment

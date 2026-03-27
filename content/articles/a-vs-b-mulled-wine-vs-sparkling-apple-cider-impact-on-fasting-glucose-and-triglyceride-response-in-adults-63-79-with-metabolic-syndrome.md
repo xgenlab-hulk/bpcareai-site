@@ -1,7 +1,6 @@
 ---
 title: "Mulled Wine vs. Sparkling Cider: Which Spikes Glucose After 63?"
-slug: >-
-  a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
+slug: a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
 description: Mulled wine raises fasting glucose 18 mg/dL via liver output; cider spikes triglycerides 35% from fructose. Neither is harmless with metabolic syndrome (MetS).
 date: '2026-01-18'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
   - >-
-    10-things-you-should-know-about-alcohol-free-mulled-wine-for-blood-sugar-control-including-tannin-content-spice-synergy-and-serving-temperature-effects
   - >-
-    when-to-worry-about-just-a-little-wine-alcohol-s-real-time-effect-on-fasting-glucose-rebound-and-sleep-architecture-in-adults-59-73-with-prediabetes-and-fragmented-sleep
   - >-
-    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
   - >-
-    10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
 ---
 
 # Mulled Wine vs Sparkling Cider Diabetes: What Holiday Drinks Really Do to Blood Sugar and Triglycerides in Adults 63–79 With Metabolic Syndrome

@@ -1,7 +1,6 @@
 ---
 title: Why Sulfonylureas Cause Blood Sugar Crashes After Holiday Brunch
-slug: >-
-  what-causes-sudden-post-brunch-hypoglycemia-in-adults-73-with-sulfonylurea-use-and-mild-cognitive-impairment
+slug: what-causes-sudden-post-brunch-hypoglycemia-in-adults-73-with-sulfonylurea-use-and-mild-cognitive-impairment
 description: Sulfonylureas keep working 6-12 hours after a delayed brunch. Adults 73+ with slow stomach emptying (gastroparesis) face 40% higher hypoglycemia risk.
 date: '2026-01-24'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
-    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
 ---
 
 # Why Sulfonylurea Hypoglycemia Holiday Brunch Elderly Situations Happen — And How Caregivers Can Help

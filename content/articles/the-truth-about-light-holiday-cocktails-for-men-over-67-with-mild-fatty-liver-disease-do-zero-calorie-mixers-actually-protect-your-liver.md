@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About ‘Light’ Holiday Cocktails for Men Over 67 With Mild Fatty
-  Liver Disease—Do Zero-Calorie Mixers Actually Protect Your Liver?
-slug: >-
-  the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver
+slug: the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver
 description: >-
-  Analyzes how artificial sweeteners, alcohol metabolites, and circadian
-  disruption from evening drinking affect hepatic fat accumulation and ALT
-  trends in aging men—with evidence from 12-week liver elastography trials.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: zero-calorie cocktails and fatty liver
@@ -15,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
   - >-
-    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
-    the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
 ---
 
 # Do Zero-Calorie Cocktails and Fatty Liver Go Together? What Men Over 67 Really Need to Know

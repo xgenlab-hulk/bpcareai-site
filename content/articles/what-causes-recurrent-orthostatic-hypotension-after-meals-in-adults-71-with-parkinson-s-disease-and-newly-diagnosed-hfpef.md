@@ -1,7 +1,6 @@
 ---
 title: "Why Meals Make You Dizzy With Parkinson's and Heart Failure"
-slug: >-
-  what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef
+slug: what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef
 description: "Blood pools in your gut after eating (postprandial hypotension), dropping BP 20-30 mmHg with Parkinson's. A stiff heart (HFpEF) at 71+ slows recovery."
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
   - >-
-    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
   - >-
-    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
   - >-
-    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
 ---
 
 # Understanding Postprandial Orthostatic Hypotension in Parkinson’s Disease and HFpEF

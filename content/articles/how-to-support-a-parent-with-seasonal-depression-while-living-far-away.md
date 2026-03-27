@@ -2,8 +2,6 @@
 title: How to Support a Parent with Seasonal Depression While Living Far Away
 slug: how-to-support-a-parent-with-seasonal-depression-while-living-far-away
 description: >-
-  Offer practical long-distance caregiving tips including telehealth, routine
-  checks, and technology use.
 date: '2025-12-04'
 updated: '2025-12-04'
 primaryKeyword: supporting parent with seasonal depression

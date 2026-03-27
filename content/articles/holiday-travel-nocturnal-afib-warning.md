@@ -1,14 +1,7 @@
 ---
 title: >-
-  Warning Signs Your Holiday Travel Itinerary Is Triggering Nocturnal Atrial
-  Fibrillation — Especially With Time-Zone Shifts, Cabin Hypoxia, and
-  Pre-Existing Sleep-Disordered Breathing in Adults 73+
-slug: >-
-  warning-signs-your-holiday-travel-itinerary-is-triggering-nocturnal-atrial-fibrillation-especially-with-time-zone-shifts-cabin-hypoxia-and-pre-existing-sleep-disordered-breathing-in-adults-73
+slug: warning-signs-your-holiday-travel-itinerary-is-triggering-nocturnal-atrial-fibrillation-especially-with-time-zone-shifts-cabin-hypoxia-and-pre-existing-sleep-disordered-breathing-in-adults-73
 description: >-
-  Links circadian disruption, mild hypobaric hypoxia, and upper airway
-  resistance to overnight AF onset — with actionable travel prep checklist for
-  high-risk seniors.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: holiday travel nocturnal afib warning
@@ -16,14 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-travel-disrupts-circadian-rhythm-and-triggers-atrial-fibrillation-in-adults-68-with-diagnosed-af-and-time-zone-shifted-medication-schedules
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
-    holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
 ---
 
 # Holiday Travel Nocturnal AFib Warning: What Seniors 73+ Should Know Before Flying

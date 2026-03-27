@@ -2,8 +2,6 @@
 title: Low-Sodium Alternatives for Classic Family Recipes That Still Taste Great
 slug: low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
 description: >-
-  Shares flavorful seasoning blends and cooking methods that reduce sodium
-  without compromising the taste of beloved dishes.
 date: '2025-12-06'
 updated: '2025-12-06'
 primaryKeyword: low-sodium family meal ideas
@@ -14,9 +12,7 @@ relatedSlugs:
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - >-
-    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
   - >-
-    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
 ---
 
 # Delicious Low-Sodium Family Meal Ideas That Keep Flavor—and Heart Health—Front and Center

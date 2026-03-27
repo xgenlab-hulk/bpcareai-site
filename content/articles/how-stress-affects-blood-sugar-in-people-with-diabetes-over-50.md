@@ -2,8 +2,6 @@
 title: How Stress Affects Blood Sugar in People with Diabetes Over 50
 slug: how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
 description: >-
-  Discover how emotional stress triggers glucose spikes and strategies to manage
-  both.
 date: '2025-12-08'
 updated: '2025-12-08'
 primaryKeyword: stress and blood sugar in older diabetics

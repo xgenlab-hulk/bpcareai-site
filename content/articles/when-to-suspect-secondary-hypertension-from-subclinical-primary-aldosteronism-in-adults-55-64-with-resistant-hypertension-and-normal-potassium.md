@@ -1,7 +1,6 @@
 ---
 title: "Adults 55-64: When Resistant Blood Pressure Hides a Hormone Problem"
-slug: >-
-  when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium
+slug: when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium
 description: Up to 20% of resistant hypertension stems from excess aldosterone (primary aldosteronism) — even with normal potassium. Echo red flags appear first.
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
   - >-
-    what-causes-sudden-morning-blood-pressure-spikes-after-starting-a-low-carb-diet-in-adults-65-with-long-standing-hypertension-and-mild-diastolic-dysfunction
   - >-
-    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
   - >-
-    7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
   - >-
-    when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
 ---
 
 # When Secondary Hypertension Subclinical Aldosteronism Might Be Hiding Behind “Normal” Blood Pressure Readings

@@ -1,11 +1,7 @@
 ---
 title: >-
-  Is Your Senior Loved One Withdrawn This Winter? It Might Be Seasonal
-  Depression
 slug: is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
 description: >-
-  Help readers understand behavioral shifts like withdrawal, apathy, or sleep
-  changes as possible clinical signs.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: withdrawn behavior in seniors winter

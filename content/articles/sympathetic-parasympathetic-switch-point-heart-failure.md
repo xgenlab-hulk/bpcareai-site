@@ -1,7 +1,6 @@
 ---
 title: 'Calming Your Nervous System With Heart Failure: 3 Methods'
-slug: >-
-  natural-ways-to-modulate-the-sympathetic-parasympathetic-switch-point-in-adults-with-heart-failure-and-preserved-ejection-fraction-focusing-on-expiratory-time-foot-temperature-and-evening-light-exposure
+slug: natural-ways-to-modulate-the-sympathetic-parasympathetic-switch-point-in-adults-with-heart-failure-and-preserved-ejection-fraction-focusing-on-expiratory-time-foot-temperature-and-evening-light-exposure
 description: 'Extending exhale to 7 seconds shifts the stress-to-rest nerve balance (sympathetic-parasympathetic switch) within 12 minutes — tested in adults 60+ with HFpEF.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81
   - >-
-    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
-    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
   - >-
-    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
   - >-
-    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
 ---
 
 # Optimizing the Sympathetic-Parasympathetic Switch Point in Heart Failure With Preserved Ejection Fraction

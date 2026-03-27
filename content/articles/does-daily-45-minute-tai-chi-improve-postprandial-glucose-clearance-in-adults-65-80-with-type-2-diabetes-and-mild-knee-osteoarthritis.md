@@ -1,7 +1,6 @@
 ---
 title: "Tai Chi After Meals: Can It Lower Blood Sugar for Seniors 65+?"
-slug: >-
-  does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis
+slug: does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis
 description: A 45-min tai chi session improved muscle glucose uptake (GLUT4 activation) by 18-25% in adults 65-80 with diabetes and knee-safe joint modifications.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
-    can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
   - >-
-    can-daily-2-minute-toe-tap-sequencing-improve-capillary-refill-time-and-postprandial-glucose-clearance-in-women-63-79-with-diabetic-foot-ulcer-history
   - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
 ---
 
 # Can Daily Tai Chi Support Postprandial Glucose Clearance in Older Adults with Type 2 Diabetes and Knee Osteoarthritis?

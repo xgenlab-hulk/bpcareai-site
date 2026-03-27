@@ -1,13 +1,7 @@
 ---
 title: >-
-  Why Your ‘Normal’ Morning Blood Pressure Reading May Be Missing Morning
-  Hypertensive Surge in Adults With White-Coat Anxiety Over 68
-slug: >-
-  why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
+slug: why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
 description: >-
-  Explains how cognitive appraisal during clinic visits suppresses noradrenergic
-  surge detection—and why home BP taken within 15 minutes of waking, plus
-  24-hour ABPM with stress-provocation protocol, reveals true circadian risk.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: morning blood pressure surge white-coat anxiety
@@ -15,14 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
   - >-
-    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
   - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
   - >-
-    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
-    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
 ---
 
 # Understanding Morning Blood Pressure Surge and White-Coat Anxiety in Adults Over 68

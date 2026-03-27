@@ -1,11 +1,7 @@
 ---
 title: 'Cold Weather and Insulin: Why Your Dose Works Slower After 60'
-slug: >-
-  insulin-absorption-winter-seniors-60
+slug: insulin-absorption-winter-seniors-60
 description: 'Cold narrows skin blood vessels (peripheral vasoconstriction), slowing insulin uptake 15-25%. Five warming strategies restore glucose control for adults 60+.'
-  Cold cuts blood flow under the skin (subcutaneous perfusion) by 20-30%,
-  delaying insulin absorption 15-25 min. Five site-warming strategies restore
-  control.
 date: '2026-02-04'
 updated: '2026-03-28'
 primaryKeyword: 'why does cold weather slow insulin absorption in seniors'
@@ -13,9 +9,7 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - >-
-    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
   - 5-common-medication-adjustments-seniors-need-in-winter

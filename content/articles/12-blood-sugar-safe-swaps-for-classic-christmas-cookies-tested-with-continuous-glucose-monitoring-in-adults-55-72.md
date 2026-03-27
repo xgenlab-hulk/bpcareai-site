@@ -1,10 +1,7 @@
 ---
 title: '12 Christmas Cookie Swaps That Keep Blood Sugar Steady, CGM-Tested'
-  Holiday Cookies Spiking Your Blood Sugar? (Ages 55-72 CGM Guide)
-slug: >-
-  holiday-cookies-blood-sugar-swaps-cgm-55-72
+slug: holiday-cookies-blood-sugar-swaps-cgm-55-72
 description: 'CGM trials in adults 55-72 confirmed these 12 swaps cut peak glucose spikes by up to 40%, keeping glycemic load (blood sugar impact) per serving below 5.'
-  Holiday cookies raising your glucose? Get 12 proven ingredient swaps tested with continuous glucose monitors—almond flour, monk fruit, chia eggs—that keep spikes under 25 mg/dL for adults 55-72.
 date: '2026-01-05'
 updated: '2026-03-27'
 primaryKeyword: 'Christmas cookie swaps that don\'t spike blood sugar'
@@ -14,10 +11,8 @@ relatedSlugs:
   - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - >-
-    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
   - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
   - >-
-    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
 ---
 
 # 12 Blood Sugar–Friendly Swaps for Classic Christmas Cookies—Backed by Real Data from Adults 55–72

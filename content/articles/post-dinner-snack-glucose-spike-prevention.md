@@ -1,14 +1,7 @@
 ---
 title: 'The 90-Second Post-Dinner Snack That Stops Late-Night Glucose Spikes'
-  What to Eat *After* the Main Course — A 90-Second Post-Dinner Strategy to
-  Prevent Late-Night Glucose Spikes in Men 65+ With Type 2 Diabetes and
-  Nocturnal Hypoglycemia History
-slug: >-
-  what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history
+slug: what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history
 description: 'A protein-fiber snack 90 min after dinner blunts the 3-6 hour glucose rebound that triggers overnight lows (nocturnal hypoglycemia) in men 65+ on insulin.'
-  Introduces a timed, low-glycemic, protein-fiber combo snack proven in clinical
-  observation to blunt late-phase glucose elevation without triggering rebound
-  hypoglycemia.
 date: '2026-01-15'
 updated: '2026-03-27'
 primaryKeyword: 'best snack to prevent blood sugar spike after dinner'
@@ -16,10 +9,8 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---

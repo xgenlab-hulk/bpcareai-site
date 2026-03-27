@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Reduced Sunlight Exposure After Age 60 Alters Melatonin-Cortisol
-  Rhythms—And Why That Worsens Winter Mood
-slug: >-
-  how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
+slug: how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
 description: >-
-  Examines the age-related decline in retinal light sensitivity and circadian
-  photoreception, explaining the biological mechanism linking shorter days to
-  depressive symptoms in older adults.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: sunlight exposure melatonin cortisol aging
@@ -16,7 +10,6 @@ image: ''
 relatedSlugs:
   - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
   - >-
-    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - can-dog-ownership-reduce-seasonal-depression-risk-in-retired-seniors

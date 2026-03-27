@@ -2,8 +2,6 @@
 title: How to Manage Portion Control at Holiday Gatherings When You're Over 60
 slug: how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 description: >-
-  Practical strategies to avoid overeating during festive meals, including plate
-  setup, mindful eating techniques, and timing tips tailored for older adults.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: portion control for seniors at holidays
@@ -11,10 +9,8 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---

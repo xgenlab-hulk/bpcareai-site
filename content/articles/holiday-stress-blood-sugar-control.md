@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Holiday Stress Hormones Sabotage Blood Sugar Control During Family Dinners
-  — Cortisol-Induced Insulin Resistance Patterns in Adults 58–65 With
-  Prediabetes
-slug: >-
-  how-holiday-stress-hormones-sabotage-blood-sugar-control-during-family-dinners-cortisol-induced-insulin-resistance-patterns-in-adults-58-65-with-prediabetes
+slug: how-holiday-stress-hormones-sabotage-blood-sugar-control-during-family-dinners-cortisol-induced-insulin-resistance-patterns-in-adults-58-65-with-prediabetes
 description: >-
-  Explores the physiological link between acute family-related stress, elevated
-  cortisol, and postprandial glucose spikes — with actionable timing and
-  breathing strategies to blunt the effect.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: holiday stress blood sugar control
@@ -17,12 +10,9 @@ image: ''
 relatedSlugs:
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - >-
-    7-hidden-holiday-stress-triggers-that-spike-postprandial-glucose-in-adults-58-65-with-early-insulin-resistance
   - >-
-    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
   - >-
-    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
 ---
 
 # How Holiday Stress Blood Sugar Control Gets Derailed at the Dinner Table — And What You Can Do About It

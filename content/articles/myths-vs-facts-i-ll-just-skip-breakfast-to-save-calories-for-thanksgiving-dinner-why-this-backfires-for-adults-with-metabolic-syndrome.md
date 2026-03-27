@@ -1,13 +1,7 @@
 ---
 title: >-
-  Myths vs Facts: ‘I’ll Just Skip Breakfast’ to ‘Save Calories’ for Thanksgiving
-  Dinner—Why This Backfires for Adults With Metabolic Syndrome
-slug: >-
-  myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
+slug: myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
 description: >-
-  Debunks fasting myths using 24-hour glucose variability data, highlighting
-  breakfast’s role in insulin receptor priming and postprandial inflammation
-  control.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: skip breakfast thanksgiving metabolic syndrome
@@ -16,11 +10,9 @@ image: ''
 relatedSlugs:
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
-    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 ---
 
 # Why Skipping Breakfast Before Thanksgiving Backfires—Especially If You Have Metabolic Syndrome

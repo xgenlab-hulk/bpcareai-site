@@ -2,7 +2,6 @@
 title: Holiday Foods Heart Failure Seniors Should Skip (And Safe Swaps)
 slug: holiday-foods-heart-failure-seniors
 description: >-
-  Living with heart failure? Discover 12 holiday foods to avoid (sodium traps, fluid triggers) and safe, flavorful alternatives that protect your heart—for seniors 70+.
 date: '2025-12-31'
 updated: '2026-03-18'
 primaryKeyword: holiday foods heart failure seniors avoid
@@ -12,9 +11,7 @@ relatedSlugs:
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - >-
-    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
 ---
 

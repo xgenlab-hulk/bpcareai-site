@@ -1,13 +1,7 @@
 ---
 title: 'Cranberry Sauce and UTI Prevention in Women Over 65'
-  Does Cranberry Sauce Really Help UTI Prevention in Women Over 65? — Separating
-  Proanthocyanidin Efficacy from Sugar-Driven Biofilm Risk
-slug: >-
-  does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk
+slug: does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk
 description: 'Typical sauce has 5-15 mg PACs (anti-adhesion compounds) vs the 36 mg effective dose. High sugar may promote biofilm growth in older women.'
-  Analyzes the narrow therapeutic window: effective PAC-A concentration vs.
-  fructose-fueled E. coli adhesion—and offers low-sugar, whole-berry preparation
-  methods proven in geriatric urology trials.
 date: '2026-02-16'
 updated: '2026-03-27'
 primaryKeyword: 'cranberry sauce UTI prevention women over 65'
@@ -15,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
   - >-
-    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
   - >-
-    what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
   - >-
-    why-cranberry-sauce-triggers-reflux-induced-nocturnal-hypertension-in-adults-68-with-hiatal-hernia-and-mild-sleep-apnea
   - >-
-    a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes
 ---
 
 # Cranberry Sauce UTI Prevention Seniors: What Science Says About Holiday Favorites and Bladder Health

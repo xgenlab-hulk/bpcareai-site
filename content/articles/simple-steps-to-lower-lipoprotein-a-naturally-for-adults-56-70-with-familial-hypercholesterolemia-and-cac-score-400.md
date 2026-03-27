@@ -1,7 +1,6 @@
 ---
 title: "Lowering Lipoprotein(a) Naturally When Statins Aren't Enough After 56"
-slug: >-
-  simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400
+slug: simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400
 description: "Lp(a) above 50 nmol/L drives artery calcium buildup (coronary calcification) even on statins. Niacin 1-2g/day cuts it 20-30%, but kidney monitoring is required."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
   - >-
-    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
   - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
   - >-
-    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
   - >-
-    top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
 ---
 
 # Natural Ways to Lower Lipoprotein(a) in Adults With Familial Hypercholesterolemia — Especially After Age 56

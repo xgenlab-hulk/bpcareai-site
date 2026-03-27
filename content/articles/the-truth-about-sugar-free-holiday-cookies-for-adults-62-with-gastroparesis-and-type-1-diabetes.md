@@ -1,7 +1,6 @@
 ---
 title: "Sugar-Free Cookies With Gastroparesis: What Adults 62+ Should Know"
-slug: >-
-  the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
+slug: the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
 description: Maltitol in sugar-free cookies slows stomach emptying (gastroparesis) by 22% and spikes glucose. Erythritol and allulose are safer swaps for adults 62+.
 date: '2026-01-21'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - >-
-    the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
 ---
 
 # What Really Happens When Seniors with Gastroparesis and Type 1 Diabetes Eat “Sugar-Free” Holiday Cookies — A Gentle Guide for Adults 62+

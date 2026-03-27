@@ -1,13 +1,7 @@
 ---
 title: >-
-  Warning Signs Your 'Stable' Diabetes Is Accelerating Subclinical Retinal
-  Vascular Remodeling—Especially If You’re on Beta-Blockers and Over 71
-slug: >-
-  warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+slug: warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
 description: >-
-  Highlights subtle biomarkers—like flicker ERG latency delay, OCTA vessel
-  density drop <5%, and microaneurysm turnover rate—that precede detectable
-  vision loss but correlate with stroke risk.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: subclinical retinal remodeling diabetes beta-blockers
@@ -16,13 +10,9 @@ image: ''
 relatedSlugs:
   - how-vision-changes-might-be-linked-to-heart-disease
   - >-
-    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
   - >-
-    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
 ---
 
 # Early Clues of Subclinical Retinal Remodeling in Diabetes—Especially With Beta-Blockers and Age 71+

@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Frequent Nighttime Awakenings for Urination (Nocturia) Predicts 3-Year
-  Risk of New-Onset Atrial Fibrillation in Men Over 68 With Hypertension
-slug: >-
-  how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
+slug: how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
 description: >-
-  Examines the mechanistic link between sympathetic surges during nocturnal
-  voiding, atrial stretch, and fibrosis progression—plus validated nocturia
-  frequency thresholds (>2x/night) that signal need for AFib screening.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: nocturia and atrial fibrillation risk
@@ -17,11 +11,8 @@ relatedSlugs:
   - the-connection-between-frequent-urination-at-night-and-heart-health
   - how-frequent-urination-at-night-could-signal-heart-problems
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
-    what-causes-recurrent-nighttime-palpitations-with-normal-ecgs-in-women-52-68-during-perimenopause-and-when-it-signals-early-atrial-fibrosis
 ---
 
 # How Nighttime Urination May Be a Quiet Warning Sign for Atrial Fibrillation in Older Men With High Blood Pressure

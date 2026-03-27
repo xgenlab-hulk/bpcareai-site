@@ -1,7 +1,6 @@
 ---
 title: Why Wine Triggers Headaches and Palpitations After 60
-slug: >-
-  what-causes-sudden-onset-of-wine-headache-with-palpitations-in-adults-60-71-with-migraine-associated-cortical-spreading-depression-and-undiagnosed-pacs
+slug: what-causes-sudden-onset-of-wine-headache-with-palpitations-in-adults-60-71-with-migraine-associated-cortical-spreading-depression-and-undiagnosed-pacs
 description: Wine activates brain nerve pathways (trigeminovascular system) that trigger extra heartbeats (premature atrial contractions). Sulfites lower the threshold fast.
 date: '2026-01-23'
 updated: 2026-03-26
@@ -10,13 +9,9 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
-    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - >-
-    myths-vs-facts-i-only-drink-red-wine-it-s-heart-healthy-in-adults-65-with-high-frequency-pacs-and-left-atrial-fibrosis
 ---
 
 # Why Wine Headache Palpitations Migraine Cortical Symptoms Can Surprise Older Adults — And What You Can Do

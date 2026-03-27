@@ -2,8 +2,6 @@
 title: Quick 10-Minute Workouts to Lower Blood Sugar After Christmas Dinner
 slug: quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
 description: >-
-  Effective, low-impact physical activities that can be done at home to mitigate
-  glucose spikes after large meals.
 date: '2025-12-17'
 updated: '2025-12-17'
 primaryKeyword: quick workouts after holiday meals

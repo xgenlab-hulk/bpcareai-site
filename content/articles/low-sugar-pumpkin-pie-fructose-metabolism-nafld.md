@@ -1,7 +1,6 @@
 ---
 title: Why 'Low-Sugar' Pumpkin Pie Still Harms Your Liver After 70
-slug: >-
-  the-truth-about-low-sugar-store-bought-pumpkin-pie-fillings-why-91-still-contain-high-fructose-corn-syrup-derivatives-that-bypass-first-pass-metabolism-in-adults-70-with-nafld
+slug: the-truth-about-low-sugar-store-bought-pumpkin-pie-fillings-why-91-still-contain-high-fructose-corn-syrup-derivatives-that-bypass-first-pass-metabolism-in-adults-70-with-nafld
 description: 91% of low-sugar pie fillings hide fructose derivatives that raise liver fat production (de novo lipogenesis) 23% — risky with fatty liver disease (NAFLD).
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld
   - >-
-    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
   - >-
-    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
-    myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
   - >-
-    the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms
 ---
 
 # What “Low-Sugar” Pumpkin Pie Fillings *Really* Do to Your Liver — Especially If You’re 70+ and Managing NAFLD

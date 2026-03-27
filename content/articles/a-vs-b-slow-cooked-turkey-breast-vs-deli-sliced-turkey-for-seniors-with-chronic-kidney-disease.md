@@ -1,13 +1,7 @@
 ---
 title: 'Homemade Turkey vs Deli Turkey for Seniors Managing Kidney Disease'
-  A vs B: Slow-Cooked Turkey Breast vs Deli Sliced Turkey for Seniors With
-  Chronic Kidney Disease
-slug: >-
-  a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
+slug: a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
 description: 'Deli turkey contains phosphate additives that are 90% absorbed vs ~60% for natural phosphorus. Slow-cooked turkey breast with no brine delivers significantly less kidney-stressing phosphate.'
-  Compares phosphorus bioavailability, sodium load, and protein digestibility
-  between two common holiday turkey preparations, with nephrology-guided portion
-  recommendations.
 date: '2025-12-23'
 updated: '2026-03-27'
 primaryKeyword: 'homemade turkey vs deli turkey for seniors with kidney disease'
@@ -15,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
-    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
-    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
 ---
 
 # Slow-Cooked Turkey Breast vs. Deli Sliced Turkey: What Matters Most in Turkey Preparation Chronic Kidney Disease

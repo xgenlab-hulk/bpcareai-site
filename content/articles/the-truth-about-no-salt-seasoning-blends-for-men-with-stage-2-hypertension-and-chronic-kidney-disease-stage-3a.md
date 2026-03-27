@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About 'No-Salt' Seasoning Blends for Men With Stage 2 Hypertension
-  and Chronic Kidney Disease Stage 3a
-slug: >-
-  the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a
+slug: the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a
 description: >-
-  Analyzes potassium content, hidden sodium analogs (e.g., potassium chloride),
-  and taste-adaptation timelines in commercial salt substitutes for this
-  high-risk cohort.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: no-salt seasoning blends chronic kidney disease
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
   - >-
-    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
-    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - >-
-    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
 ---
 
 # Understanding No-Salt Seasoning Blends for Men With Stage 2 Hypertension and Chronic Kidney Disease Stage 3a

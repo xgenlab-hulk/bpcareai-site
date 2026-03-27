@@ -1,7 +1,6 @@
 ---
 title: High Blood Sugar on Christmas Morning? Dawn vs. Rebound Explained
-slug: >-
-  what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
+slug: what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
 description: A steady CGM rise from 4-7 AM signals the dawn effect (dawn phenomenon); a 3 AM dip then spike means overnight rebound (Somogyi effect) — different fixes.
 date: '2026-01-19'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
   - >-
-    why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
   - >-
-    how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - >-
-    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
 ---
 
 # Why You Might Wake Up High on Christmas Morning — Even After a Perfect Night: Unpacking the Real Cause of Morning Hyperglycemia Christmas Day

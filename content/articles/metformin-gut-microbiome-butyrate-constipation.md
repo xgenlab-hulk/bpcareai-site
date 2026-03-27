@@ -1,7 +1,6 @@
 ---
 title: Does Metformin Cause Constipation by Changing Gut Bacteria?
-slug: >-
-  how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs
+slug: how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs
 description: Metformin suppresses butyrate-making bacteria (Roseburia) 30-40%, slowing the colon. Resistant starch and fermented foods restore gut motility in adults 67+.
 date: '2026-01-27'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
   - >-
-    10-foods-that-disrupt-gut-microbiota-diversity-and-worsen-insulin-resistance-in-adults-54-66-with-type-2-diabetes-and-chronic-constipation
   - >-
-    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
   - >-
-    what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
   - >-
-    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
 ---
 
 # How Metformin Affects the Gut Microbiome, Butyrate Levels, and Constipation in Older Adults with Type 2 Diabetes

@@ -1,7 +1,6 @@
 ---
 title: 'Why Dry Winter Air Triggers Chest Pain in Women Over 64'
-slug: >-
-  how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history
+slug: how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history
 description: 'Indoor humidity below 30% triggers artery spasms (coronary vasospasm) via endothelin-1 surges in women 64+ with migraine history — mimicking a heart attack.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,7 +9,6 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
   - how-indoor-air-quality-affects-heart-health-in-winter
   - how-staying-hydrated-in-winter-protects-your-heart-after-70
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors

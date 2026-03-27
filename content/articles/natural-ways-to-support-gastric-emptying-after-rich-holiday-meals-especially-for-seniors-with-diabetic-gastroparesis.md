@@ -1,13 +1,7 @@
 ---
 title: >-
-  Natural Ways to Support Gastric Emptying After Rich Holiday Meals—Especially
-  for Seniors With Diabetic Gastroparesis
-slug: >-
-  natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+slug: natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
 description: >-
-  Clinically informed, non-pharmaceutical approaches (temperature, sequencing,
-  botanicals, postural positioning) to safely accelerate gastric
-  motility—without triggering reflux or hypoglycemia.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: support gastric emptying diabetic gastroparesis seniors
@@ -16,13 +10,9 @@ image: ''
 relatedSlugs:
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
   - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
-    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
 ---
 
 # Gentle, Science-Informed Ways to Support Gastric Emptying Diabetic Gastroparesis Seniors After Holiday Meals

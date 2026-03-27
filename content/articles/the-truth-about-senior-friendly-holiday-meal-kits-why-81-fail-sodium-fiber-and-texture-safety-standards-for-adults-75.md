@@ -1,7 +1,6 @@
 ---
 title: "Adults 75+: Why 81% of Senior Holiday Meal Kits Fail Safety Tests"
-slug: >-
-  the-truth-about-senior-friendly-holiday-meal-kits-why-81-fail-sodium-fiber-and-texture-safety-standards-for-adults-75
+slug: the-truth-about-senior-friendly-holiday-meal-kits-why-81-fail-sodium-fiber-and-texture-safety-standards-for-adults-75
 description: 81% of senior meal kits exceed sodium limits and fail swallowing-safety checks (dysphagia standards). Hidden sodium phosphates and low fiber raise heart risk.
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
   - >-
-    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
-    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
   - >-
-    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
 ---
 
 # The Real Story Behind ‘Senior-Friendly’ Holiday Meal Kits — What the Labels Don’t Tell You  

@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About 'Heart-Healthy' Plant-Based Burgers for Seniors With Stage 3
-  CKD and Hypertension
-slug: >-
-  the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
+slug: the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
 description: >-
-  Ingredient-level scrutiny of popular meat alternatives—focusing on hidden
-  phosphorus additives, potassium load, and sodium variability—and safer
-  homemade swaps.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: plant-based burgers for kidney disease seniors
@@ -15,14 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
-    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - >-
-    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
 ---
 
 # Choosing Safer Plant-Based Burgers for Kidney Disease Seniors: What You Need to Know

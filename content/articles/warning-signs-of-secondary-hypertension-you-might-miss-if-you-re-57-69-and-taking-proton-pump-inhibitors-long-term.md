@@ -1,7 +1,6 @@
 ---
 title: Warning Signs Your Acid Reflux Pill Is Raising Blood Pressure
-slug: >-
-  warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
+slug: warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
 description: Long-term acid blockers (PPIs) drop magnesium 15-30%, activating aldosterone and stiffening kidney vessels. Check magnesium if BP rises despite meds after 57.
 date: '2026-01-18'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
   - >-
-    when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
   - >-
-    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
   - >-
-    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
   - >-
-    when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium
 ---
 
 # Secondary Hypertension PPI Warning Signs: What Adults 57–69 Should Know

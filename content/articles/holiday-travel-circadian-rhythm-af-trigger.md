@@ -1,7 +1,6 @@
 ---
 title: Why Holiday Travel Triggers AFib — Protect Your Heart at 68+
-slug: >-
-  how-holiday-travel-disrupts-circadian-rhythm-and-triggers-atrial-fibrillation-in-adults-68-with-diagnosed-af-and-time-zone-shifted-medication-schedules
+slug: how-holiday-travel-disrupts-circadian-rhythm-and-triggers-atrial-fibrillation-in-adults-68-with-diagnosed-af-and-time-zone-shifted-medication-schedules
 description: "Eastward jet lag shifts your heart's clock (circadian rhythm), raising irregular heartbeat (atrial fibrillation) 2-3x. Medication gaps over 6 hours double risk."
 date: '2026-01-24'
 updated: 2026-03-26
@@ -11,13 +10,9 @@ image: ''
 relatedSlugs:
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
-    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
   - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
-    holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
 ---
 
 # How Holiday Travel Disrupts Your Body Clock — and Why That Can Trigger Atrial Fibrillation in Adults 68+

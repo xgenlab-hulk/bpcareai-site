@@ -1,7 +1,6 @@
 ---
 title: Blood Sugar Rises After Exercise? Why It Happens With New Type 2
-slug: >-
-  what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response
+slug: what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response
 description: Morning cortisol triggers your liver to dump 30-50 mg/dL extra glucose during exercise. Shifting workouts 2 hours post-breakfast cuts the spike in adults 55-67.
 date: '2026-01-25'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
   - >-
-    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
   - >-
-    quick-ways-to-normalize-post-exercise-glucose-spikes-in-adults-with-type-1-diabetes-using-pre-workout-caffeine-timing-and-carb-buffered-protein-snacks
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
-    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
 ---
 
 # Why You Might See Higher Blood Sugar After Exercise—Especially If You’re Newly Diagnosed with Type 2 Diabetes and Have High Morning Cortisol

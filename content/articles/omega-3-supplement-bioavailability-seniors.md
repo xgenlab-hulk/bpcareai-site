@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Truth About 'Heart-Healthy' Omega-3 Supplements Marketed to Seniors — Why
-  82% Fail to Deliver EPA/DHA in Bioavailable Form Due to Oxidation and Enteric
-  Coating Defects
-slug: >-
-  the-truth-about-heart-healthy-omega-3-supplements-marketed-to-seniors-why-82-fail-to-deliver-epa-dha-in-bioavailable-form-due-to-oxidation-and-enteric-coating-defects
+slug: the-truth-about-heart-healthy-omega-3-supplements-marketed-to-seniors-why-82-fail-to-deliver-epa-dha-in-bioavailable-form-due-to-oxidation-and-enteric-coating-defects
 description: >-
-  Investigates stability testing, third-party assay data, and absorption studies
-  in older adults, revealing formulation flaws that compromise anti-inflammatory
-  and triglyceride-lowering efficacy.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: omega-3 supplement bioavailability seniors
@@ -16,11 +9,8 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
   - >-
-    the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque
   - >-
-    the-truth-about-heart-healthy-instant-oatmeal-packets-labeled-for-seniors-why-91-contain-hidden-beta-glucan-antagonists-that-impair-endothelial-no-release-in-adults-65-with-subclinical-atherosclerosis
   - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
 ---
 

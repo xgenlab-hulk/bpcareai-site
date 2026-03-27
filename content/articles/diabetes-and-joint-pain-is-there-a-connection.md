@@ -2,8 +2,6 @@
 title: 'Is There a Real Connection Between Diabetes and Joint Pain?'
 slug: diabetes-and-joint-pain-is-there-a-connection
 description: 'Sugar-damaged proteins (advanced glycation end-products) stiffen cartilage and tendons; adults with diabetes report 40% more joint pain than matched controls.'
-  Explore how chronic high blood sugar contributes to arthritis-like symptoms
-  and mobility issues.
 date: '2025-12-15'
 updated: '2026-03-27'
 primaryKeyword: 'diabetes joint pain connection mechanism seniors'

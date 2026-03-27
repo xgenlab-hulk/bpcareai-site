@@ -1,13 +1,7 @@
 ---
 title: 'Lost Your Taste on Beta Blockers? What Adults 71+ Should Check'
-  What Causes Sudden Loss of Taste During Stable Beta-Blocker Therapy in Adults
-  71+ With Preserved Ejection Fraction and Zinc Deficiency?
-slug: >-
-  what-causes-sudden-loss-of-taste-during-stable-beta-blocker-therapy-in-adults-71-with-preserved-ejection-fraction-and-zinc-deficiency
+slug: what-causes-sudden-loss-of-taste-during-stable-beta-blocker-therapy-in-adults-71-with-preserved-ejection-fraction-and-zinc-deficiency
 description: 'Beta blockers deplete zinc 18-25% over 6 months, stalling taste bud renewal (gustatory cell turnover). Serum zinc below 60 mcg/dL confirms it — not allergy.'
-  Investigates zinc-dependent ACE2 dysregulation, drug-induced taste bud
-  apoptosis, and ACE-inhibitor cross-reactivity as under-recognized drivers of
-  taste distortion in older adults on heart failure meds.
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'why did I lose my taste on beta blockers'
@@ -15,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68
   - >-
-    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
   - >-
-    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
   - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
   - >-
-    what-causes-sudden-loss-of-sweet-taste-perception-in-adults-69-with-well-controlled-diabetes-and-why-it-predicts-early-diabetic-autonomic-neuropathy
 ---
 
 # Why Some Seniors Experience Loss of Taste During Stable Beta-Blocker Therapy — And What You Can Do

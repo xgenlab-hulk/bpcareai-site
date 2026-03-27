@@ -1,7 +1,6 @@
 ---
 title: 'Holiday Indigestion or Stomach Nerve Damage? 7 Clues After 72'
-slug: >-
-  7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
+slug: 7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
 description: 'Early fullness and delayed nausea 2-3 hours post-meal may signal stomach nerve damage (gastric neuropathy), not overeating. 35% of seniors 72+ go undiagnosed.'
 date: '2026-01-13'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
   - >-
-    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # 7 Subtle Senior Holiday Indigestion Warning Signs That May Signal Gastric Neuropathy—Not Just Overeating

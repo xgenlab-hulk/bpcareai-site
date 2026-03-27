@@ -2,9 +2,6 @@
 title: '10 Foods That Rebuild Energy When You\'re Sedentary After 70'
 slug: energy-boosting-foods-seniors-over-70
 description: 'Low aerobic capacity (VO2 max) under 18 mL/kg/min signals mitochondrial decline. These foods stimulate cellular energy renewal in sedentary adults over 70.'
-  Discover 10 foods to boost energy & reduce fatigue for seniors
-  70+—pomegranate, berries, walnuts, green tea. Natural stamina support, easy
-  prep.
 date: '2026-01-02'
 updated: '2026-03-27'
 primaryKeyword: 'foods to boost energy for sedentary seniors over 70'
@@ -12,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
-    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
   - >-
-    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
   - >-
-    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
   - >-
-    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
 ---
 
 # 10 Holiday Foods That Spark Mitochondrial Renewal—Especially for Seniors 70+ With Low VO₂ Max (foods mitochondrial biogenesis seniors)

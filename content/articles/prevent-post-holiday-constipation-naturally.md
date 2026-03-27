@@ -1,14 +1,7 @@
 ---
 title: >-
-  Simple Steps to Prevent Post-Holiday Constipation *Without* Laxatives — Using
-  Only a Digital Scale, Your Kitchen Timer, and 3 Common Herbs (Age 66+,
-  Sedentary Lifestyle)
-slug: >-
-  simple-steps-to-prevent-post-holiday-constipation-without-laxatives-using-only-a-digital-scale-your-kitchen-timer-and-3-common-herbs-age-66-sedentary-lifestyle
+slug: simple-steps-to-prevent-post-holiday-constipation-without-laxatives-using-only-a-digital-scale-your-kitchen-timer-and-3-common-herbs-age-66-sedentary-lifestyle
 description: >-
-  Teaches timed fiber-to-fluid ratio tracking, herb-infused broth sipping
-  intervals, and abdominal massage timing synchronized with circadian motilin
-  pulses — all validated in a 2023 geriatric GI pilot study.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: prevent post holiday constipation naturally
@@ -16,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-restore-post-holiday-gut-motility-in-adults-73-with-chronic-constipation-and-polypharmacy
   - >-
-    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
   - >-
-    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
   - >-
-    natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
   - >-
-    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
 ---
 
 # How to Prevent Post-Holiday Constipation Naturally — Gentle, Evidence-Informed Strategies for Adults 66+

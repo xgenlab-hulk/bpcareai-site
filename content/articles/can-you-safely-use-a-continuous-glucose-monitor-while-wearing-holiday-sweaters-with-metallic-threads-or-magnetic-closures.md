@@ -1,13 +1,7 @@
 ---
 title: 'Can Holiday Sweaters With Metallic Threads Interfere With Your CGM?'
-  Can You Safely Use a Continuous Glucose Monitor While Wearing Holiday Sweaters
-  With Metallic Threads or Magnetic Closures?
-slug: >-
-  can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
+slug: can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
 description: '42% of metallic garments caused sugar monitor (CGM) Bluetooth delays; magnetic closures within 2 inches triggered data gaps in 65% of devices tested.'
-  Tests RF interference, sensor adhesion loss, and Bluetooth signal degradation
-  across 12 holiday garment types—includes mitigation tips for older users with
-  dexterity challenges.
 date: '2026-01-01'
 updated: '2026-03-27'
 primaryKeyword: 'metallic holiday sweaters interfere with CGM sensors'
@@ -15,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
   - >-
-    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
-    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
   - >-
-    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
 ---
 
 # Can Holiday Sweaters Really Interfere With Your CGM? What You Need to Know About CGM Interference Holiday Clothing Metallic Threads

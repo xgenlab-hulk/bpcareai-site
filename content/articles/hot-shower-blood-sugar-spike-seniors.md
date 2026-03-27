@@ -1,14 +1,7 @@
 ---
 title: >-
-  Why Your Fingertip Blood Glucose Readings Spike After a Hot Shower — Thermal
-  Vasodilation, Capillary Shunting, and Delayed Insulin Absorption in Adults 72+
-  With Long-Term Type 2 Diabetes
-slug: >-
-  why-your-fingertip-blood-glucose-readings-spike-after-a-hot-shower-thermal-vasodilation-capillary-shunting-and-delayed-insulin-absorption-in-adults-72-with-long-term-type-2-diabetes
+slug: why-your-fingertip-blood-glucose-readings-spike-after-a-hot-shower-thermal-vasodilation-capillary-shunting-and-delayed-insulin-absorption-in-adults-72-with-long-term-type-2-diabetes
 description: >-
-  Explores how post-shower heat exposure falsely elevates fingerstick glucose
-  readings in older adults due to localized microcirculatory changes—and how to
-  time testing to avoid unnecessary insulin dosing errors.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: hot shower blood sugar spike seniors
@@ -16,13 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-blood-glucose-monitor-readings-jump-after-a-15-minute-hot-bath-and-what-to-do-instead-for-accurate-tracking-in-adults-67-83-with-peripheral-neuropathy-and-poor-capillary-flow
   - >-
-    why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
   - >-
-    12-science-backed-times-to-measure-pulse-wave-velocity-after-a-shower-not-just-in-fasting-state-for-adults-70-with-sarcopenic-obesity-and-suspected-arterial-stiffness
   - >-
-    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
   - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
 ---
 

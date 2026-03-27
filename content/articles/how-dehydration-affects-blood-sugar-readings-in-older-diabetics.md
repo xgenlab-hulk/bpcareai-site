@@ -2,8 +2,6 @@
 title: How Dehydration Affects Blood Sugar Readings in Older Diabetics
 slug: how-dehydration-affects-blood-sugar-readings-in-older-diabetics
 description: >-
-  Find out why staying hydrated is crucial for accurate glucose monitoring and
-  metabolic balance.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: dehydration and blood sugar levels in seniors with diabetes

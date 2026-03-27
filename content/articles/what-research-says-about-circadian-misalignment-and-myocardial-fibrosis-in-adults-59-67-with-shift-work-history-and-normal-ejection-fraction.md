@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Research Says About Circadian Misalignment and Myocardial Fibrosis in
-  Adults 59–67 With Shift-Work History and Normal Ejection Fraction
-slug: >-
-  what-research-says-about-circadian-misalignment-and-myocardial-fibrosis-in-adults-59-67-with-shift-work-history-and-normal-ejection-fraction
+slug: what-research-says-about-circadian-misalignment-and-myocardial-fibrosis-in-adults-59-67-with-shift-work-history-and-normal-ejection-fraction
 description: >-
-  Analyzes longitudinal data linking chronic circadian disruption to subclinical
-  myocardial remodeling, independent of hypertension or diabetes, in midlife
-  shift workers.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: circadian misalignment and myocardial fibrosis
@@ -15,14 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp
   - >-
-    how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - >-
-    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
-    how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
 ---
 
 # How Circadian Misalignment and Myocardial Fibrosis May Quietly Affect Midlife Shift Workers—Even With Healthy Hearts

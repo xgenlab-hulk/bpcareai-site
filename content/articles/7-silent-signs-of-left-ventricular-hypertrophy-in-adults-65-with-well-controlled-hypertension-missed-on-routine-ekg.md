@@ -1,7 +1,6 @@
 ---
 title: 7 Signs Your Heart Wall Is Thickening — Even With Normal BP After 65
-slug: >-
-  7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
+slug: 7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
 description: EKG misses 40-50% of thickened heart walls (left ventricular hypertrophy). Nighttime breathlessness with normal oxygen or an S4 sound reveal what readings hide.
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
   - >-
-    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
   - >-
-    7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
   - >-
-    when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
   - >-
-    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
 ---
 
 # Silent Signs of Left Ventricular Hypertrophy in Older Adults — Even With Well-Controlled Blood Pressure

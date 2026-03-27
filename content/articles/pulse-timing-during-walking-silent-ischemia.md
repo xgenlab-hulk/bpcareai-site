@@ -1,14 +1,7 @@
 ---
 title: >-
-  12 Science-Backed Times to Check Your Pulse *During* a 10-Minute Walk — Not
-  Just Before or After — for Adults 63+ With Intermittent Claudication and
-  Silent Ischemia
-slug: >-
-  12-science-backed-times-to-check-your-pulse-during-a-10-minute-walk-not-just-before-or-after-for-adults-63-with-intermittent-claudication-and-silent-ischemia
+slug: 12-science-backed-times-to-check-your-pulse-during-a-10-minute-walk-not-just-before-or-after-for-adults-63-with-intermittent-claudication-and-silent-ischemia
 description: >-
-  Details dynamic pulse waveform analysis windows (e.g., 22 seconds post-turn,
-  47 seconds after pavement texture change) that reveal transient ischemia
-  missed by static HR monitoring or stress testing.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: pulse timing during walking silent ischemia
@@ -16,15 +9,10 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    how-intermittent-silence-not-just-quiet-lowers-central-aortic-systolic-pressure-in-adults-64-with-white-coat-hypertension-and-high-cortisol-awakening-response
   - >-
-    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
   - >-
-    simple-steps-to-reduce-aortic-pulse-wave-velocity-using-only-a-blood-pressure-cuff-a-smartphone-mic-and-your-evening-walk-for-adults-65-with-isolated-systolic-hypertension
   - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
-    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
 ---
 
 # When to Check Your Pulse During a Walk: A Science-Guided Approach to Detecting Silent Ischemia in Adults 63+ with Intermittent Claudication — and Why Pulse Timing During Walking Silent Ischemia Matters

@@ -1,13 +1,7 @@
 ---
 title: 'Homemade vs Store-Bought Cranberry Sauce: Which Has Less Sugar?'
-  Does Your Family’s ‘Homemade’ Cranberry Sauce Really Contain Less Sugar Than
-  Store-Bought? A Label Audit of 47 Recipes Used by Adults 60–82
-slug: >-
-  does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82
+slug: does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82
 description: 'A 47-recipe audit found homemade cranberry sauce averages 18 g sugar per serving—matching stores. Halving sugar cuts glycemic load (blood sugar impact) 40%.'
-  Reveals surprising sugar concentration data from home recipes (including
-  ‘unsweetened’ versions), with safe reduction thresholds and tartness-balancing
-  workarounds.
 date: '2025-12-27'
 updated: '2026-03-27'
 primaryKeyword: 'homemade vs store cranberry sauce sugar seniors'
@@ -15,13 +9,9 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
   - >-
-    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - >-
-    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
   - >-
-    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
 ---
 
 # Does Homemade Cranberry Sauce Really Have Less Sugar? A Closer Look at 47 Real Recipes Used by Adults 60–82

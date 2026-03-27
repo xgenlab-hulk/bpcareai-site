@@ -1,10 +1,7 @@
 ---
 title: Low-Carb Diets and Morning BP Spikes in Adults Over 65
-slug: >-
-  what-causes-sudden-morning-blood-pressure-spikes-after-starting-a-low-carb-diet-in-adults-65-with-long-standing-hypertension-and-mild-diastolic-dysfunction
+slug: what-causes-sudden-morning-blood-pressure-spikes-after-starting-a-low-carb-diet-in-adults-65-with-long-standing-hypertension-and-mild-diastolic-dysfunction
 description: >-
-  Ketosis triggers a salt-retaining hormone surge (aldosterone) raising morning
-  systolic 12-18 mmHg — worse with stiff heart walls (diastolic dysfunction).
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: low carb diet causing morning blood pressure spikes
@@ -12,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
   - >-
-    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
-    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
   - >-
-    how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
   - >-
-    quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa
 ---
 
 # Why Some Older Adults Experience a low carb diet morning bp spike elderly — And What It Really Means for Heart Health

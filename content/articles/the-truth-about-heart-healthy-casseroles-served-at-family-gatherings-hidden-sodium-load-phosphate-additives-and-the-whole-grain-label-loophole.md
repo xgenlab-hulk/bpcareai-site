@@ -1,7 +1,6 @@
 ---
 title: "Your 'Heart-Healthy' Casserole May Pack 1,200 mg Sodium"
-slug: >-
-  the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole
+slug: the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole
 description: Pre-shredded cheese hides 300-400 mg sodium per cup from coating agents (cellulose). One serving hits 1,200 mg — half the limit with high blood pressure.
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
-    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
   - >-
-    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
   - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
 ---
 
 # What Your “Heart-Healthy” Casserole *Really* Contains — Hidden Sodium, Phosphates, and the Whole Grain Trap

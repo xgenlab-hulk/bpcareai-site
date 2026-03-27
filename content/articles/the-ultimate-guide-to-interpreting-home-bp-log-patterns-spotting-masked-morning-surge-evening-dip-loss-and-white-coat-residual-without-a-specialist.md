@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Ultimate Guide to Interpreting Home BP Log Patterns—Spotting ‘Masked
-  Morning Surge,’ ‘Evening Dip Loss,’ and ‘White-Coat Residual’ Without a
-  Specialist
-slug: >-
-  the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
+slug: the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
 description: >-
-  Teaches pattern recognition (timing, variability, posture context) in
-  self-recorded logs using WHO-ISH criteria, with printable templates and
-  AI-powered interpretation prompts for adults 50+.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: interpreting home blood pressure logs
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
-    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - >-
-    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
   - >-
-    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
   - >-
-    why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
 ---
 
 # A Gentle, Practical Guide to Interpreting Home Blood Pressure Logs—Spot Patterns with Confidence

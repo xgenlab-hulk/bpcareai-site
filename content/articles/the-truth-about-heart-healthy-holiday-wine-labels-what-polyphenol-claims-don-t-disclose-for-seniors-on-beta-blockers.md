@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About ‘Heart-Healthy’ Holiday Wine Labels: What Polyphenol Claims
-  Don’t Disclose for Seniors on Beta-Blockers
-slug: >-
-  the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
+slug: the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
 description: >-
-  Debunks marketing language around resveratrol and ‘moderate’ wine consumption,
-  highlighting pharmacokinetic interactions, blood pressure volatility, and
-  arrhythmia risk in older adults using common cardiac medications.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: holiday wine labels beta-blocker risks
@@ -16,7 +10,6 @@ image: ''
 relatedSlugs:
   - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
   - >-
-    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50

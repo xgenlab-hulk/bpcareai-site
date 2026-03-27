@@ -9,7 +9,6 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - should-you-adjust-your-diabetes-medication-during-the-holidays
   - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50

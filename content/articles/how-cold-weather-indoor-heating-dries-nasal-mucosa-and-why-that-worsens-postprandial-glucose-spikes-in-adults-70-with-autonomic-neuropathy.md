@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Cold-Weather Indoor Heating Dries Nasal Mucosa — And Why That Worsens
-  Postprandial Glucose Spikes in Adults 70+ With Autonomic Neuropathy
-slug: >-
-  how-cold-weather-indoor-heating-dries-nasal-mucosa-and-why-that-worsens-postprandial-glucose-spikes-in-adults-70-with-autonomic-neuropathy
+slug: how-cold-weather-indoor-heating-dries-nasal-mucosa-and-why-that-worsens-postprandial-glucose-spikes-in-adults-70-with-autonomic-neuropathy
 description: >-
-  Explains the overlooked nasal-brain-gut-glucose pathway: dry mucosa → reduced
-  nitric oxide production → impaired vagal tone → delayed insulin secretion and
-  gastric emptying.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: indoor heating nasal glucose spikes
@@ -15,15 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    how-cold-weather-indoor-air-dryness-alters-nasal-mucosal-glucose-absorption-and-why-that-affects-fasting-glucose-readings-in-adults-74-with-type-1-diabetes
   - >-
-    does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
   - >-
-    does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss
   - >-
-    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
   - >-
-    how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
 ---
 
 # How Indoor Heating Nasal Glucose Spikes Affect Older Adults — And What You Can Do About It

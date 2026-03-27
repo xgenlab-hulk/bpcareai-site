@@ -2,7 +2,6 @@
 title: 'Low-Sugar Holiday Drinks That Still Worsen Fatty Liver in Men Over 60'
 slug: holiday-drinks-fatty-liver-men-60
 description: 'Mulled cider contains 25-30 g of fructose metabolized by the liver (hepatic de novo lipogenesis). Five low-sugar holiday drinks raise liver fat in men after 60.'
-  Are "no added sugar" drinks safe? Discover 3 hidden fructose sources in mulled cider and eggnog, plus liver-safe swaps you can enjoy today—essential for men 60+.
 date: '2025-12-22'
 updated: '2026-03-27'
 primaryKeyword: 'low sugar holiday drinks that harm the liver after 60'
@@ -10,12 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
   - can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
   - >-
-    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
 ---
 
 # What Your Dietitian Might Not Mention About ‘Low-Sugar’ Holiday Drinks and Fatty Liver in Men 60+

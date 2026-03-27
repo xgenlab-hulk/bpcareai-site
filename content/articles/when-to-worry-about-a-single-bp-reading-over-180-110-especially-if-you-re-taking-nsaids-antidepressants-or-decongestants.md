@@ -1,13 +1,7 @@
 ---
 title: >-
-  When to Worry About a Single BP Reading Over 180/110—Especially If You’re
-  Taking NSAIDs, Antidepressants, or Decongestants
-slug: >-
-  when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
+slug: when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
 description: >-
-  Provides a 4-tier clinical decision tree (observation → urgent referral → ER
-  criteria → red-flag drug review) for hypertensive urgency in polypharmacy
-  patients 55–79.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: single high blood pressure reading NSAIDs
@@ -15,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-medication-interactions-that-elevate-heart-failure-readmission-risk-within-30-days-of-hospital-discharge-especially-in-adults-75-with-polypharmacy
   - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
   - >-
-    when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
   - >-
-    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
 ---
 
 # When a Single High Blood Pressure Reading NSAIDs Might Signal More Than Stress—A Practical Guide for Adults 55–79

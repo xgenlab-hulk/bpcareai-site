@@ -1,7 +1,6 @@
 ---
 title: 'Why \'Light\' Appetizer Plates Spike Triglycerides More Than Dessert'
-slug: >-
-  why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
+slug: why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
 description: 'Low-protein cheese boards block fat burning (fat oxidation) in aging cells. Adults 58-69 clear triglycerides 35% slower from appetizers than from pie.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,14 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
-    warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
   - easy-heart-healthy-holiday-appetizers-under-150-calories
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # Why Holiday Appetizers Triglycerides Seniors Deserve a Second Look This Season

@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Persistent Nighttime Cough in Adults 69+ With Type 2 Diabetes and Mild
-  Asthma May Signal Early Diabetic Autonomic Neuropathy — Not Just GERD or
-  Postnasal Drip
-slug: >-
-  how-persistent-nighttime-cough-in-adults-69-with-type-2-diabetes-and-mild-asthma-may-signal-early-diabetic-autonomic-neuropathy-not-just-gerd-or-postnasal-drip
+slug: how-persistent-nighttime-cough-in-adults-69-with-type-2-diabetes-and-mild-asthma-may-signal-early-diabetic-autonomic-neuropathy-not-just-gerd-or-postnasal-drip
 description: >-
-  Explores vagal afferent blunting leading to impaired laryngeal cough reflex,
-  abnormal capsaicin cough threshold testing, and association with abnormal
-  heart rate response to Valsalva — independent of FEV1 or pH probe results.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: nighttime cough diabetic autonomic neuropathy
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd
   - >-
-    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
   - >-
-    what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
   - >-
-    what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear
   - >-
-    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
 ---
 
 # When Nighttime Cough in Older Adults With Diabetes Isn’t Just Acid or Allergies — It Could Be a Quiet Sign of Diabetic Autonomic Neuropathy

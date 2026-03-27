@@ -2,8 +2,6 @@
 title: 'Christmas vs New Year: Which Holiday Is Harder on Blood Sugar?'
 slug: christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
 description: 'Christmas meals average 42% more refined carbs than New Year dinners; sugar swings (glycemic variability) peak on Dec 25 in adults 60+ with type 2 diabetes.'
-  Compares the dietary, social, and emotional demands of both holidays and their
-  unique impact on glucose control in diabetics over 50.
 date: '2025-12-13'
 updated: '2026-03-27'
 primaryKeyword: 'Christmas vs New Year blood sugar comparison diabetes'

@@ -1,7 +1,6 @@
 ---
 title: 'Safe Resistance Exercises for Seniors With Severe Aortic Stenosis'
-slug: >-
-  best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+slug: best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
 description: 'Partial-ROM band moves build muscle without raising left ventricular afterload — aortic valve area under 1.0 cm² makes conventional high-load exercise risky.'
 date: '2025-12-20'
 updated: '2026-03-27'
@@ -12,11 +11,8 @@ relatedSlugs:
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - >-
-    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
   - >-
-    quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74
   - >-
-    can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension
 ---
 
 # Safe, Effective Aortic Stenosis Resistance Exercises for Seniors: Gentle Strength Building Without Strain

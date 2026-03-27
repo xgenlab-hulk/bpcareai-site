@@ -1,7 +1,6 @@
 ---
 title: 'Why Grocery Shopping Triggers Dizziness After 70 — and How to Stop It'
-slug: >-
-  quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
+slug: quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
 description: 'Walking grocery aisles drops BP 20-30 mmHg in seniors 70+ with low BP after meals (postprandial hypotension). Isometric grip and pacing patterns help.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
   - >-
-    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
   - >-
-    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
   - >-
-    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
 ---
 
 # Practical Pulse Pressure Stabilization During Grocery Shopping for Older Adults with Orthostatic Intolerance and Postprandial Hypotension

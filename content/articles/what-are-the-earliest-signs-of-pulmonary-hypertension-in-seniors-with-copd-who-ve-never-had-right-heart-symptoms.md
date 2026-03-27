@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Are the Earliest Signs of Pulmonary Hypertension in Seniors With COPD
-  Who’ve Never Had Right-Heart Symptoms?
-slug: >-
-  what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
+slug: what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
 description: >-
-  Identifies subtle, pre-echocardiogram clues: disproportionate dyspnea vs FEV1,
-  exertional syncope without orthostasis, isolated elevated jugular venous
-  pressure in supine position, and nocturnal oxygen desaturation patterns.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: early pulmonary hypertension copd seniors
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
-    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
   - >-
-    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # Spotting Early Pulmonary Hypertension in Seniors With COPD—Before the Heart Shows Signs

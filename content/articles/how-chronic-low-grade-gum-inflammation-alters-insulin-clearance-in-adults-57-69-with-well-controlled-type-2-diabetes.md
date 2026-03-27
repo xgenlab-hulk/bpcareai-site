@@ -1,7 +1,6 @@
 ---
 title: "Gum Disease and Rising Insulin Levels: A Hidden Link After 57"
-slug: >-
-  how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
+slug: how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
 description: "Chronic gum inflammation (periodontitis) slows liver insulin breakdown 18-25%, raising after-meal insulin even with stable A1c in adults 57-69."
 date: '2026-02-08'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-grade-inflammation-from-untreated-gum-disease-accelerates-insulin-resistance-in-adults-58-72-with-prediabetes
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
   - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
   - >-
-    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
 ---
 
 # How Gum Inflammation Insulin Clearance Diabetes Interacts in Adults 57–69 With Well-Controlled Type 2 Diabetes

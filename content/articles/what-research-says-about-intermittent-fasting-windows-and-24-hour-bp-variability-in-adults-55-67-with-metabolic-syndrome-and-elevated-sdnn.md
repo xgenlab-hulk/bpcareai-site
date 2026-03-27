@@ -1,7 +1,6 @@
 ---
 title: Intermittent Fasting and Blood Pressure Swings in Adults 55-67
-slug: >-
-  what-research-says-about-intermittent-fasting-windows-and-24-hour-bp-variability-in-adults-55-67-with-metabolic-syndrome-and-elevated-sdnn
+slug: what-research-says-about-intermittent-fasting-windows-and-24-hour-bp-variability-in-adults-55-67-with-metabolic-syndrome-and-elevated-sdnn
 description: "A 16:8 eating window can raise morning BP surge 8-12 mmHg via aldosterone rhythm shifts (RAAS activation). A 14:10 window shows better 24-hour BP stability."
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
-    how-intermittent-fasting-16-8-affects-nocturnal-sympathetic-tone-in-adults-57-69-with-hypertension-and-sleep-disordered-breathing
   - >-
-    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - >-
-    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
   - >-
-    12-science-backed-ways-to-restore-normal-bp-variability-not-just-lower-average-bp-in-adults-58-74-with-diabetes-and-elevated-sdnn-on-24-hour-holter-monitoring
 ---
 
 # How Intermittent Fasting Blood Pressure Variability in Adults 55–67 Is Shaped by Daily Eating Windows—What the Latest Research Shows

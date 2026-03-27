@@ -1,7 +1,6 @@
 ---
 title: Low Sodium Before Confusion Hits — Warning Signs for Seniors 79+
-slug: >-
-  when-to-suspect-holiday-induced-hyponatremia-in-adults-79-with-mild-cognitive-impairment-before-confusion-or-gait-instability-appears
+slug: when-to-suspect-holiday-induced-hyponatremia-in-adults-79-with-mild-cognitive-impairment-before-confusion-or-gait-instability-appears
 description: Overnight weight gain >2.5% and speech changes may signal sodium dropping too low (hyponatremia) before confusion. SSRI or thiazide use triples risk.
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
-    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
   - >-
-    warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
   - >-
-    what-are-the-earliest-signs-of-holiday-induced-hydration-decline-in-adults-78-with-reduced-thirst-perception-and-chronic-constipation
   - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
 ---
 
 # Recognizing Holiday Hyponatremia Early Signs in Seniors With Mild Cognitive Impairment — Before Confusion Sets In

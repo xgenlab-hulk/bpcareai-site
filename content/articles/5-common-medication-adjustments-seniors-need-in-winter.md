@@ -2,7 +2,6 @@
 title: 'BP Meds Not Working in Winter? 5 Adjustments Adults 50+ Need'
 slug: winter-med-adjustments-bp-seniors
 description: 'Cold weather tightens blood vessels (vasoconstriction), raising systolic BP 5-10 mmHg. 5 key winter adjustments for BP, heart, and diabetes meds.'
-  BP spiking in winter? Get 5 medication adjustments seniors need—BP, heart failure, diabetes meds when temps drop. Research-backed, essential for 50+.
 date: '2025-12-10'
 updated: '2026-03-27'
 primaryKeyword: 'winter blood pressure medication adjustments seniors'

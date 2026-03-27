@@ -1,12 +1,7 @@
 ---
 title: 'Is Day-3 Turkey Salad Safe With Metformin and Low Kidney Function?'
-  Can You Safely Eat Leftover Turkey Salad on Day 3 If You’re on Metformin and
-  Have eGFR 62? A Food Safety + Renal-Glucose Guide
-slug: >-
-  can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
+slug: can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
 description: 'Day-3 turkey salad is within USDA safe storage—but with reduced kidney filtering (eGFR 62) and metformin, foodborne dehydration raises lactic acidosis risk.'
-  Combines food microbiology (safe refrigeration windows), metformin-associated
-  lactic acidosis risk, and protein metabolism in early CKD.
 date: '2026-01-06'
 updated: '2026-03-27'
 primaryKeyword: 'leftover turkey salad safety metformin low eGFR'
@@ -14,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
   - >-
-    what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia
   - >-
-    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
-    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
   - >-
-    dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd
 ---
 
 # Is Leftover Turkey Salad Safe on Day 3 When You’re on Metformin and Have an eGFR of 62?

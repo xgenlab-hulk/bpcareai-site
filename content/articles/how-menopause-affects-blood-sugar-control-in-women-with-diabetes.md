@@ -2,8 +2,6 @@
 title: How Menopause Affects Blood Sugar Control in Women with Diabetes
 slug: how-menopause-affects-blood-sugar-control-in-women-with-diabetes
 description: >-
-  Learn how hormonal shifts during and after menopause impact glucose levels and
-  diabetes management.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: menopause and blood sugar fluctuations in women with diabetes

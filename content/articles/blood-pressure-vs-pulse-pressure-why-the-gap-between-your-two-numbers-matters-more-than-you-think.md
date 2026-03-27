@@ -1,13 +1,7 @@
 ---
 title: 'Pulse Pressure: Why the Gap Between Your BP Numbers Matters After 60'
-  Blood Pressure vs. Pulse Pressure: Why the Gap Between Your Two Numbers
-  Matters More Than You Think
-slug: >-
-  blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
+slug: blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
 description: 'A pulse pressure above 60 mm Hg (systolic minus diastolic) signals arterial stiffness and predicts stroke and heart failure better than either BP number alone.'
-  Clarifies the clinical significance of pulse pressure widening in aging
-  arteries, its predictive value for stroke and heart failure, and how to
-  interpret it alongside standard BP readings.
 date: '2025-12-16'
 updated: '2026-03-27'
 primaryKeyword: 'what does a wide gap in blood pressure numbers mean'
@@ -17,9 +11,7 @@ relatedSlugs:
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - how-chronic-stress-contributes-to-high-blood-pressure-over-time
   - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
-    blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor
   - isolated-systolic-hypertension-what-it-means-for-older-adults
 ---
 

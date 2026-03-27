@@ -1,7 +1,6 @@
 ---
 title: "Can You Skip Metformin Before a Holiday Potluck? Kidney Risks After 71"
-slug: >-
-  can-you-safely-skip-your-evening-metformin-dose-before-a-holiday-potluck-a-risk-benefit-analysis-for-adults-71-with-egfr-48-59-ml-min
+slug: can-you-safely-skip-your-evening-metformin-dose-before-a-holiday-potluck-a-risk-benefit-analysis-for-adults-71-with-egfr-48-59-ml-min
 description: "With kidney filtration (eGFR) 48-59 mL/min, one skipped dose shifts lactic acid clearance ~18%. Timing adjustments beat skipping for adults 71+."
 date: '2026-02-08'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
   - >-
-    can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
-    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
 ---
 
 # Is It Safe to Skip Metformin Before a Holiday Potluck? Understanding eGFR-Based Safety for Adults 71+  

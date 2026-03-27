@@ -1,13 +1,7 @@
 ---
 title: >-
-  5 Things Every Senior Living Alone Should Know Before Attending Their First
-  Post-Pandemic Holiday Party — From Portion Control to Social Glucose Triggers
-slug: >-
-  5-things-every-senior-living-alone-should-know-before-attending-their-first-post-pandemic-holiday-party-from-portion-control-to-social-glucose-triggers
+slug: 5-things-every-senior-living-alone-should-know-before-attending-their-first-post-pandemic-holiday-party-from-portion-control-to-social-glucose-triggers
 description: >-
-  Covers practical, safety-first strategies for isolated seniors returning to
-  group meals: food navigation, hypoglycemia preparedness, hydration timing, and
-  exit-plan empowerment.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: seniors living alone holiday party preparedness
@@ -15,11 +9,8 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
   - >-
-    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - >-
-    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---

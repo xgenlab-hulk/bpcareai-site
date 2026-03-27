@@ -2,7 +2,6 @@
 title: 'Holiday Nut Mixes and Medication Risks for Adults Over 73'
 slug: holiday-nut-mixes-choking-drug-risk-73
 description: 'Macadamia and cashew mixes raise INR (blood thinning level) unpredictably in adults 73+ on warfarin. Five situations when holiday nut mixes must be avoided.'
-  On MAOIs or carbidopa-levodopa? Learn why holiday nut mixes trigger choking, aflatoxin exposure, and dangerous drug interactions—plus 3 safer swaps for seniors 73+.
 date: '2026-01-09'
 updated: '2026-03-27'
 primaryKeyword: 'holiday nut mixes safe with medications over 73'
@@ -10,15 +9,10 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
   - >-
-    5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
   - >-
-    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
   - >-
-    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
-    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
 ---
 
 # What Every Senior 73+ Should Know About Holiday Nut Mixes—Safety, Risks, and Smarter Swaps  

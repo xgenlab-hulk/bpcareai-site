@@ -1,13 +1,7 @@
 ---
 title: '7 Sleep Habits Raising Fasting Glucose in Adults 50-65 Without Apnea'
-  7 Hidden Sleep-Disrupting Habits That Elevate Fasting Glucose in Adults
-  50–65—Even With Normal BMI and No OSA Diagnosis
-slug: >-
-  7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
+slug: 7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
 description: 'Nocturnal light exposure and REM fragmentation impair hepatic insulin sensitivity in adults 50-65. 7 sleep habits elevating fasting glucose without sleep apnea.'
-  Identifies non-apnea contributors like nocturnal light exposure, bedtime
-  protein intake, and supine REM fragmentation that impair hepatic insulin
-  sensitivity overnight.
 date: '2026-01-04'
 updated: '2026-03-27'
 primaryKeyword: 'sleep habits raising fasting blood sugar without apnea'
@@ -15,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
   - >-
-    how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # How Your Sleep Habits Fasting Glucose Elevation—Even If You’re Not Overweight or Diagnosed with Sleep Apnea

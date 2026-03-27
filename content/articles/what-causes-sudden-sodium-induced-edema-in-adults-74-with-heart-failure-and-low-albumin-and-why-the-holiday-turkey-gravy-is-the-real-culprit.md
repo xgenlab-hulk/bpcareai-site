@@ -1,7 +1,6 @@
 ---
 title: Why Turkey Gravy Causes Swelling in Adults 74+ With Heart Failure
-slug: >-
-  what-causes-sudden-sodium-induced-edema-in-adults-74-with-heart-failure-and-low-albumin-and-why-the-holiday-turkey-gravy-is-the-real-culprit
+slug: what-causes-sudden-sodium-induced-edema-in-adults-74-with-heart-failure-and-low-albumin-and-why-the-holiday-turkey-gravy-is-the-real-culprit
 description: One cup of gravy delivers 900-1200mg sodium that overwhelms low blood protein (albumin <3.2 g/dL), flooding tissues with fluid. Safer thickeners cut sodium 70%.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy
   - >-
-    warning-signs-your-holiday-turkey-gravy-is-causing-subclinical-hyperkalemia-especially-in-adults-73-with-stage-3-ckd-and-ace-inhibitor-use
   - >-
-    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
   - >-
-    a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
   - >-
-    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
 ---
 
 # Why Sodium Edema in Heart Failure Gets Worse with Holiday Gravy — And What You Can Do About It

@@ -1,7 +1,6 @@
 ---
 title: Safe Strength Moves for Seniors 82+ on Blood Thinners With Bone Loss
-slug: >-
-  best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
+slug: best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
 description: "Seniors 82+ on blood thinners (apixaban) need fall-proof resistance moves. Seated band pulls at 40-60% max build bone without raising bleeding or fracture risk."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
   - >-
-    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-
-    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
   - >-
-    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
   - >-
-    best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
 ---
 
 # Gentle Strength: Safe Low-Impact Resistance Exercises for Seniors 82+ With Osteoporosis and Atrial Fibrillation

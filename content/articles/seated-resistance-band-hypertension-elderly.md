@@ -1,7 +1,6 @@
 ---
 title: "Seated Band Exercises for Adults 75+ With High Blood Pressure"
-slug: >-
-  best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk
+slug: best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk
 description: "Seated band moves raise systolic BP just 12-18 mmHg vs 40+ for squats \u2014 rehab-validated for adults 75+ with dizziness on standing (orthostatic intolerance)."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
   - >-
-    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
   - >-
-    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-
-    a-vs-b-4-minute-daily-isometric-handgrip-vs-12-minute-weekly-hiit-impact-on-central-aortic-pressure-in-adults-69-with-white-coat-hypertension
   - >-
-    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
 ---
 
 # Safe & Steady: Seated Resistance Band Workouts for Adults 75+ with Orthostatic Intolerance and Stage 1 Hypertension

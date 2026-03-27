@@ -2,8 +2,6 @@
 title: When to Worry About Palpitations After Christmas Dinner
 slug: when-to-worry-about-palpitations-after-christmas-dinner
 description: >-
-  Outline red flags indicating when post-meal heart palpitations require urgent
-  medical attention versus normal transient responses.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: post-meal palpitations warning

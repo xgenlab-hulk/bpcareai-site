@@ -1,14 +1,7 @@
 ---
 title: 'Men Over 72: 5 Warning Signs BP Is Straining Your Aorta'
-  Warning Signs Your Blood Pressure Is Straining Your Aorta—Especially If You’re
-  a Man Over 72 With Marfanoid Features and Unexplained Back Pain
-slug: >-
-  warning-signs-your-blood-pressure-is-straining-your-aorta-especially-if-you-re-a-man-over-72-with-marfanoid-features-and-unexplained-back-pain
+slug: warning-signs-your-blood-pressure-is-straining-your-aorta-especially-if-you-re-a-man-over-72-with-marfanoid-features-and-unexplained-back-pain
 description: 'A pulsing belly mass, unequal arm-leg BP (>15 mmHg gap), and new back pain signal aorta stretching (aortic aneurysm). Old chest X-rays often hold a missed clue.'
-  Identifies subtle but critical indicators—pulsatile abdominal mass, widened
-  mediastinum on old chest X-rays, disproportionate arm-leg BP gradient, and
-  loss of carotid upstroke—that suggest aortic wall stress before dissection or
-  aneurysm rupture.
 date: '2026-01-13'
 updated: '2026-03-27'
 primaryKeyword: 'signs blood pressure is damaging my aorta over 72'
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
-    when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines
   - >-
-    the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis
   - >-
-    why-blood-pressure-readings-vary-between-left-and-right-arms-in-adults-70-with-aortic-stiffness-and-asymmetric-carotid-intima-media-thickness
   - >-
-    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
 ---
 
 # Recognizing Aortic Strain Warning Signs in Men Over 72 With Marfanoid Features and Unexplained Back Pain

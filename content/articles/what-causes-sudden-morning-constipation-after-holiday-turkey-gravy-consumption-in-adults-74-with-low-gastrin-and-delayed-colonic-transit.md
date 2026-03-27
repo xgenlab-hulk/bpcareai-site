@@ -1,7 +1,6 @@
 ---
 title: Why Holiday Turkey Gravy Backs You Up — Seniors 74+ at Risk
-slug: >-
-  what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit
+slug: what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit
 description: High-fat gravy slows gut movement (colonic transit) by suppressing motilin up to 40%. Low stomach acid from aging worsens it — smaller portions help.
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
   - >-
-    how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
   - >-
-    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
   - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
 ---
 
 # Why Holiday Gravy Constipation Seniors Happens — And What You Can Gently Do About It

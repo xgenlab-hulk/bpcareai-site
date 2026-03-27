@@ -2,8 +2,6 @@
 title: The Complete Guide to Managing Blood Sugar During Holiday Shift Work
 slug: the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
 description: >-
-  Tailored advice for older adults with diabetes who work retail, healthcare, or
-  service jobs during peak holiday seasons.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: managing blood sugar during holiday shift work

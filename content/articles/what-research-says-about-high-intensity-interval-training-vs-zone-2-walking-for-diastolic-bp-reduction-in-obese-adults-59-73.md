@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Research Says About High-Intensity Interval Training vs. Zone 2 Walking
-  for Diastolic BP Reduction in Obese Adults 59–73
-slug: >-
-  what-research-says-about-high-intensity-interval-training-vs-zone-2-walking-for-diastolic-bp-reduction-in-obese-adults-59-73
+slug: what-research-says-about-high-intensity-interval-training-vs-zone-2-walking-for-diastolic-bp-reduction-in-obese-adults-59-73
 description: >-
-  Compares vascular adaptations, capillary density gains, and inflammatory
-  cytokine suppression across modalities—factoring in joint load and adherence
-  sustainability.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: hiit vs zone 2 walking diastolic bp
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
   - >-
-    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
-    can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension
   - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
-    what-research-says-about-weekly-high-intensity-interval-training-hiit-only-on-tuesdays-mitochondrial-biogenesis-glycemic-variability-and-skeletal-muscle-capillarization-in-adults-71-with-sarcopenia-and-type-2-diabetes
 ---
 
 # How HIIT vs Zone 2 Walking Affects Diastolic BP in Adults 59–73: What the Evidence Gently Suggests

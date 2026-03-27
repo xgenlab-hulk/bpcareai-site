@@ -1,14 +1,7 @@
 ---
 title: >-
-  10 Foods That Lower Central Systolic Pressure *While* Supporting Cognitive
-  Blood Flow — For Adults 66+ With White Matter Hyperintensities and Mild
-  Hypertension
-slug: >-
-  10-foods-that-lower-central-systolic-pressure-while-supporting-cognitive-blood-flow-for-adults-66-with-white-matter-hyperintensities-and-mild-hypertension
+slug: 10-foods-that-lower-central-systolic-pressure-while-supporting-cognitive-blood-flow-for-adults-66-with-white-matter-hyperintensities-and-mild-hypertension
 description: >-
-  Features brain-perfusion–optimized foods that reduce central aortic load
-  without compromising cerebral autoregulation in early cerebral small vessel
-  disease.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: foods for central bp and cognitive blood flow
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-lower-central-aortic-pressure-without-lowering-brachial-diastolic-for-adults-74-with-high-pulse-pressure-and-mild-cognitive-impairment
   - >-
-    5-foods-that-lower-central-aortic-systolic-pressure-without-reducing-brachial-diastolic-for-adults-70-with-wide-pulse-pressure-and-mild-cognitive-impairment
   - >-
-    10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data
   - >-
-    10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
   - >-
-    10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis
 ---
 
 # 10 Brain-Supportive Foods That Gently Lower Central Systolic Pressure *and* Boost Cognitive Blood Flow — For Adults 66+ With Mild Hypertension & White Matter Changes

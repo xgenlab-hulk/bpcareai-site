@@ -1,7 +1,6 @@
 ---
 title: "Are 'Healthy' Frozen Dinners Safe With CKD and Heart Failure?"
-slug: >-
-  the-truth-about-heart-healthy-frozen-dinners-for-adults-73-with-stage-3-ckd-and-systolic-heart-failure
+slug: the-truth-about-heart-healthy-frozen-dinners-for-adults-73-with-stage-3-ckd-and-systolic-heart-failure
 description: "Most 'healthy' frozen meals pack 700-1200mg sodium plus hidden phosphate. Only 4 brands meet both kidney (KDOQI) and heart (ACC/AHA) limits for adults 73+."
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
   - >-
-    can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
   - >-
-    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
 ---
 
 # Choosing Safer Frozen Dinners for Heart Failure and CKD: What Adults 73+ Really Need to Know  

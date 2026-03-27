@@ -1,7 +1,6 @@
 ---
 title: "Post-Dinner Fatigue Only at Your Daughter’s House? It May Be the Air"
-slug: >-
-  what-causes-sudden-post-dinner-fatigue-only-when-eating-at-your-daughter-s-house-the-role-of-ambient-vocs-carpet-off-gassing-and-mitochondrial-stress-in-adults-64-with-fibromyalgia
+slug: what-causes-sudden-post-dinner-fatigue-only-when-eating-at-your-daughter-s-house-the-role-of-ambient-vocs-carpet-off-gassing-and-mitochondrial-stress-in-adults-64-with-fibromyalgia
 description: "New rugs and scented candles release airborne chemicals (VOCs) that strain cell energy after 60. Open two windows 10 min before dinner to cut exposure."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
   - >-
-    what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
   - >-
-    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
   - >-
-    when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
 ---
 
 # Why You Feel Drained After Dinner Only at Your Daughter’s House — Understanding Post-Dinner Fatigue, Holiday Indoor Air, and Gentle Mitigation Strategies

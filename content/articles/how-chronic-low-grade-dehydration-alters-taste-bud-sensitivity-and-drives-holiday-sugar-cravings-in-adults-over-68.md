@@ -1,7 +1,6 @@
 ---
 title: 'Why Sugar Cravings Increase After 68 — It May Be Dehydration'
-slug: >-
-  how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
+slug: how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
 description: 'By age 70, your brain\'s thirst signal weakens 40%, drying mouth tissue and amplifying sweet taste (taste bud sensitivity). Pre-meal water resets it in 15 min.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -11,9 +10,7 @@ image: ''
 relatedSlugs:
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
-    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
   - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---

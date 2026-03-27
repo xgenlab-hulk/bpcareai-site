@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Late-Night Pie Cravings Alter Circadian Clock Gene Expression in the Liver
-  — And Why That Matters for Fasting Triglycerides in Adults 58–67
-slug: >-
-  how-late-night-pie-cravings-alter-circadian-clock-gene-expression-in-the-liver-and-why-that-matters-for-fasting-triglycerides-in-adults-58-67
+slug: how-late-night-pie-cravings-alter-circadian-clock-gene-expression-in-the-liver-and-why-that-matters-for-fasting-triglycerides-in-adults-58-67
 description: >-
-  Explains how nocturnal carbohydrate intake resets hepatic BMAL1/PER2 rhythms,
-  driving VLDL overproduction—and offers time-restricted eating windows aligned
-  with melatonin onset.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: late-night pie circadian triglycerides
@@ -15,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
   - >-
-    10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
   - >-
-    natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt
   - >-
-    how-late-night-dessert-sharing-with-grandchildren-affects-overnight-triglyceride-clearance-in-adults-60-71-with-metabolic-syndrome
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # How Late-Night Pie Cravings Disrupt Liver Clocks—and Raise Fasting Triglycerides in Adults 58–67

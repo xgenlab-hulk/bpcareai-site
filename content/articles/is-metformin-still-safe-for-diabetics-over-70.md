@@ -2,8 +2,6 @@
 title: Is Metformin Still Safe for Diabetics Over 70?
 slug: is-metformin-still-safe-for-diabetics-over-70
 description: >-
-  Review the benefits and potential side effects of long-term metformin use in
-  older patients.
 date: '2025-12-07'
 updated: '2025-12-07'
 primaryKeyword: metformin safety for elderly with diabetes

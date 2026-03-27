@@ -2,8 +2,6 @@
 title: 'Heart Disease and Erectile Dysfunction: What Men Should Know'
 slug: heart-disease-and-erectile-dysfunction-what-men-should-know
 description: >-
-  Explore how ED can be an early warning sign of blocked arteries and
-  cardiovascular disease.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: erectile dysfunction as sign of heart disease

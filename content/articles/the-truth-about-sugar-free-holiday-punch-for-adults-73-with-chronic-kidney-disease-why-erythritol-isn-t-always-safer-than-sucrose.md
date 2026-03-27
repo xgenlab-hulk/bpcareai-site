@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Truth About 'Sugar-Free' Holiday Punch for Adults 73+ With Chronic Kidney
-  Disease — Why Erythritol Isn’t Always Safer Than Sucrose
-slug: >-
-  the-truth-about-sugar-free-holiday-punch-for-adults-73-with-chronic-kidney-disease-why-erythritol-isn-t-always-safer-than-sucrose
+slug: the-truth-about-sugar-free-holiday-punch-for-adults-73-with-chronic-kidney-disease-why-erythritol-isn-t-always-safer-than-sucrose
 description: >-
-  Analyzes osmotic load, renal excretion kinetics, and gut microbiome shifts
-  triggered by sugar alcohols in kidney-compromised adults — plus 3 kidney-safe,
-  electrolyte-balanced beverage formulas validated in dialysis-adjacent
-  nutrition studies.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: sugar free holiday punch kidney disease
@@ -16,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
   - >-
-    the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
-    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
 ---
 
 # Sugar-Free Holiday Punch and Kidney Disease: What Adults 73+ Should Know This Season

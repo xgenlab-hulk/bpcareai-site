@@ -1,13 +1,7 @@
 ---
 title: 'Sweet Potato Casserole vs Roasted Medley for Adults With Diabetic Nerve Pain'
-  A vs B: Traditional Sweet Potato Casserole vs Roasted Sweet Potato Medley for
-  Adults With Peripheral Neuropathy and Early Nerve Pain
-slug: >-
-  a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
+slug: a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
 description: 'Traditional casseroles raise glycemic load from 7 to 22-28 and increase dietary AGEs by 40-60% via high-heat baking with sugar toppings—worsening nerve damage risk over time.'
-  Compares glycemic load, advanced glycation end-product (AGE) formation, and
-  antioxidant retention between baked vs roasted preparation methods and topping
-  choices.
 date: '2026-01-09'
 updated: '2026-03-27'
 primaryKeyword: 'sweet potato casserole vs roasted sweet potato for diabetic nerve pain'
@@ -15,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
-    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
   - >-
-    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
-    a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79
 ---
 
 # Sweet Potato Casserole vs Roasted Neuropathy: What Your Nerves Really Need at Holiday Gatherings

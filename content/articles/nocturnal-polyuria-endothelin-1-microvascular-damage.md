@@ -1,7 +1,6 @@
 ---
 title: Waking Up to Pee May Harm Your Eyes' Blood Vessels After 66
-slug: >-
-  how-chronic-low-grade-dehydration-from-nocturnal-polyuria-elevates-plasma-endothelin-1-and-accelerates-microvascular-damage-in-adults-66-with-retinopathy-and-normal-bp
+slug: how-chronic-low-grade-dehydration-from-nocturnal-polyuria-elevates-plasma-endothelin-1-and-accelerates-microvascular-damage-in-adults-66-with-retinopathy-and-normal-bp
 description: Waking to pee (nocturnal polyuria) spikes endothelin-1 — a vessel-constricting hormone — harming eye vessels even at normal BP. A 2024 RCT cut levels 18%.
 date: '2026-02-04'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
   - >-
-    best-non-pharmacologic-strategies-for-nighttime-hypertension-in-men-57-68-with-high-volume-nocturnal-urination-and-low-testosterone
   - how-frequent-urination-at-night-could-signal-heart-problems
   - >-
-    natural-ways-to-restore-circadian-rhythm-of-anp-secretion-in-adults-71-with-nocturnal-polyuria-and-stage-2-hypertension-without-melatonin-or-beta-blockers
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # How Nocturnal Polyuria Elevates Endothelin-1 and Drives Microvascular Damage in Older Adults With Retinopathy — Even at Normal Blood Pressure

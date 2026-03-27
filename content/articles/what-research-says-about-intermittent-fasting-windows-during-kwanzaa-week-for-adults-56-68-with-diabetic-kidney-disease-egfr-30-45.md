@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Research Says About Intermittent Fasting Windows During Kwanzaa Week for
-  Adults 56–68 With Diabetic Kidney Disease (eGFR 30–45)
-slug: >-
-  what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
+slug: what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
 description: >-
-  Analyzes protein catabolism markers, albuminuria fluctuations, and uric acid
-  trends during 14–16 hour fasts—contrasting outcomes in those with and without
-  SGLT2 inhibitor use.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: intermittent fasting Kwanzaa diabetic kidney disease
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
   - >-
-    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
-    myths-vs-facts-normal-fasting-glucose-readings-in-adults-with-diabetes-and-chronic-kidney-disease-stage-3a-why-your-lab-may-be-missing-early-glycemic-dysregulation
   - >-
-    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
-    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
 ---
 
 # Intermittent Fasting During Kwanzaa Week: What’s Safe for Adults 56–68 With Diabetic Kidney Disease?

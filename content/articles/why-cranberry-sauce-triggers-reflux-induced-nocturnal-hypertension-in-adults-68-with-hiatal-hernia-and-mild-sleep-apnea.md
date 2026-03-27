@@ -1,7 +1,6 @@
 ---
 title: Why Cranberry Sauce Raises Nighttime Blood Pressure After 68
-slug: >-
-  why-cranberry-sauce-triggers-reflux-induced-nocturnal-hypertension-in-adults-68-with-hiatal-hernia-and-mild-sleep-apnea
+slug: why-cranberry-sauce-triggers-reflux-induced-nocturnal-hypertension-in-adults-68-with-hiatal-hernia-and-mild-sleep-apnea
 description: "Cranberry's pH 2.3 acidity relaxes the valve above your stomach (LES), triggering reflux that raises overnight BP 8-15 mmHg — worse with hiatal hernia."
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
   - >-
-    how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
   - >-
-    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
   - >-
-    a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes
   - >-
-    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
 ---
 
 # Why Cranberry Sauce Nocturnal Hypertension in Seniors Deserves Your Attention This Holiday Season

@@ -1,15 +1,7 @@
 ---
 title: 'Diabetes Medication Safety Tips for Seniors in Walking Groups With CKD'
-  12 Medication Adjustments You Should Discuss With Your Doctor *Before*
-  Starting a Walking Group — Especially If You’re 63+ With Type 2 Diabetes, Mild
-  CKD, and Diuretic Use
-slug: >-
-  12-medication-adjustments-you-should-discuss-with-your-doctor-before-starting-a-walking-group-especially-if-you-re-63-with-type-2-diabetes-mild-ckd-and-diuretic-use
+slug: 12-medication-adjustments-you-should-discuss-with-your-doctor-before-starting-a-walking-group-especially-if-you-re-63-with-type-2-diabetes-mild-ckd-and-diuretic-use
 description: 'Kidney-protective pills (SGLT2 inhibitors) plus hot-weather walking raise dehydration risk; adults with low kidney function (CKD) should monitor urine color.'
-  Covers pharmacokinetic and pharmacodynamic shifts (e.g., reduced renal
-  clearance of SGLT2 inhibitors, thiazide-induced hyponatremia risk with evening
-  walks, metformin GI tolerance changes) and timing protocols for safe
-  community-based activity.
 date: '2026-02-22'
 updated: '2026-03-27'
 primaryKeyword: 'diabetes medication safety walking group seniors CKD'
@@ -17,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
   - >-
-    7-silent-signs-your-diabetes-medication-is-causing-subclinical-hyponatremia-especially-after-hot-tub-soaking-in-adults-72
   - >-
-    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
   - >-
-    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
 ---
 
 # 12 Medication Adjustments to Talk About Before Joining a Walking Group — Especially If You’re 63+ With Type 2 Diabetes, Mild CKD, and Use Diuretics  

@@ -1,7 +1,6 @@
 ---
 title: "Reheated Holiday Leftovers Spike Glucose More — Here's Why After 72"
-slug: >-
-  how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
+slug: how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
 description: Reheated stuffing spikes glucose 20-40 mg/dL more than fresh due to starch changes — a real concern with early kidney disease (CKD stage 1-2) after 72.
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -10,13 +9,9 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
   - >-
-    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
   - >-
-    how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 

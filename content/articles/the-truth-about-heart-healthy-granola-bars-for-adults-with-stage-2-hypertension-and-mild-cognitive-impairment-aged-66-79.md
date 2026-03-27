@@ -1,13 +1,7 @@
 ---
 title: 'Granola Bars Labeled Heart-Healthy: What They Hide After 66'
-  The Truth About ‘Heart-Healthy’ Granola Bars for Adults With Stage 2
-  Hypertension and Mild Cognitive Impairment Aged 66–79
-slug: >-
-  the-truth-about-heart-healthy-granola-bars-for-adults-with-stage-2-hypertension-and-mild-cognitive-impairment-aged-66-79
+slug: the-truth-about-heart-healthy-granola-bars-for-adults-with-stage-2-hypertension-and-mild-cognitive-impairment-aged-66-79
 description: 'Most heart-healthy granola bars pack 180-280mg sodium and 8-12g added sugar. That affects brain blood flow (cerebral perfusion) in adults 66-79 with stage 2 BP.'
-  Debunks marketing claims by analyzing actual sodium, added sugar, and
-  ultra-processed ingredient loads—and how they impact both BP control and
-  cerebral perfusion stability.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'are granola bars heart healthy with high blood pressure'
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia
   - >-
-    the-truth-about-gluten-free-holiday-cookies-why-many-still-sabotage-blood-pressure-in-seniors-with-hypertension
   - >-
-    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
   - >-
-    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - >-
-    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
 ---
 
 # What Really Makes a Granola Bar “Heart Healthy” for Adults With Hypertension and Mild Cognitive Impairment?

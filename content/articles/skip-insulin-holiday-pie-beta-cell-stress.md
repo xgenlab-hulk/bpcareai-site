@@ -1,14 +1,7 @@
 ---
 title: >-
-  Myths vs Facts: 'I’ll Just Skip My Insulin Today So I Can Enjoy Pie'—What
-  Actually Happens to Beta-Cell Stress in Adults With Long-Standing Type 2
-  Diabetes?
-slug: >-
-  myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
+slug: myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
 description: >-
-  Debunks misconceptions using beta-cell workload modeling, C-peptide kinetics,
-  and 24-hour glucose tracing data from intentional omission episodes in 44
-  patients.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: skip insulin holiday pie beta-cell stress
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
-    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - >-
-    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # What Happens When You Skip Insulin for Holiday Pie? Unpacking the Real Impact on Beta-Cell Stress

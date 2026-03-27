@@ -1,7 +1,6 @@
 ---
 title: Why Holiday Loneliness Raises Fasting Glucose in Adults 75+
-slug: >-
-  why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
+slug: why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
 description: Social isolation lifts cortisol 18-25%, raising fasting glucose 15-22 mg/dL within days. Reduced movement and broken sleep rhythms (circadian cortisol) add up.
 date: '2026-01-18'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
   - >-
-    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
   - >-
-    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
   - >-
-    how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79
   - >-
-    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
 ---
 
 # How Social Isolation During the Holidays Affects Fasting Glucose in Older Adults with Type 2 Diabetes

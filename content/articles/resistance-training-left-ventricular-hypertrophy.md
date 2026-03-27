@@ -1,14 +1,7 @@
 ---
 title: >-
-  Can You Reverse Mild Left Ventricular Hypertrophy With Resistance Training
-  Alone? Evidence From 6 RCTs in Sedentary Men 60–72 With Controlled
-  Hypertension
-slug: >-
-  can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension
+slug: can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension
 description: >-
-  Evaluates whether progressive, low-load resistance training (without aerobic
-  conditioning) improves LV mass index, arterial stiffness, and exercise
-  tolerance—comparing outcomes to standard aerobic-only protocols.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: resistance training left ventricular hypertrophy
@@ -16,14 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-
-    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
   - >-
-    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
   - can-strength-training-lower-heart-disease-risk-after-60
   - >-
-    what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
 ---
 
 # Can Resistance Training Left Ventricular Hypertrophy Be Reversed in Older Adults With Controlled Hypertension?

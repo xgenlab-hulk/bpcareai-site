@@ -1,7 +1,6 @@
 ---
 title: "Reading Your OGTT Results: What Reactive Hypoglycemia Means After 55"
-slug: >-
-  the-complete-guide-to-interpreting-your-oral-glucose-tolerance-test-ogtt-if-you-re-55-and-have-unexplained-fatigue-night-sweats-and-reactive-hypoglycemia
+slug: the-complete-guide-to-interpreting-your-oral-glucose-tolerance-test-ogtt-if-you-re-55-and-have-unexplained-fatigue-night-sweats-and-reactive-hypoglycemia
 description: A glucose crash below 55 mg/dL at hour 3 on your sugar tolerance test (OGTT) may signal excess insulin, not skipping meals. C-peptide ratios clarify.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-interpreting-postprandial-glucose-trends-on-your-cgm-including-what-flatline-spike-and-drop-and-delayed-rise-really-mean-for-your-beta-cell-reserve
   - >-
-    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
   - >-
-    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
   - >-
-    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
   - >-
-    the-complete-guide-to-managing-brittle-glucose-patterns-in-adults-55-69-with-type-1-diabetes-autonomic-neuropathy-and-frequent-unexplained-hypoglycemia
 ---
 
 # Understanding Your OGTT Interpretation for Reactive Hypoglycemia in Adults 55 and Older

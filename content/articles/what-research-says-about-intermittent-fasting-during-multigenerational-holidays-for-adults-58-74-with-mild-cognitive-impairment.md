@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Research Says About Intermittent Fasting During Multigenerational
-  Holidays for Adults 58–74 With Mild Cognitive Impairment
-slug: >-
-  what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
+slug: what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
 description: >-
-  Analyzes cognitive load, meal skipping risks, and circadian disruption in
-  older adults with MCI who attempt fasting amid unpredictable holiday schedules
-  and social pressure.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: intermittent fasting multigenerational holidays mci
@@ -16,13 +10,9 @@ image: ''
 relatedSlugs:
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
-    how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
   - >-
-    how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
   - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
 ---
 
 # Navigating Intermittent Fasting During Multigenerational Holidays With Mild Cognitive Impairment (Age 58–74)

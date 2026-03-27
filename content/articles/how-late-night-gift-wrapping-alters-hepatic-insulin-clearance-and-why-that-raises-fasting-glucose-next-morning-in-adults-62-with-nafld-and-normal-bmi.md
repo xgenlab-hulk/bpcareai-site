@@ -1,7 +1,6 @@
 ---
 title: Why Late-Night Gift Wrapping Raises Fasting Glucose After 62
-slug: >-
-  how-late-night-gift-wrapping-alters-hepatic-insulin-clearance-and-why-that-raises-fasting-glucose-next-morning-in-adults-62-with-nafld-and-normal-bmi
+slug: how-late-night-gift-wrapping-alters-hepatic-insulin-clearance-and-why-that-raises-fasting-glucose-next-morning-in-adults-62-with-nafld-and-normal-bmi
 description: "Staying up past midnight impairs your liver's insulin clearance (hepatic insulin extraction), raising fasting glucose 12-18 mg/dL — especially with NAFLD."
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
   - >-
-    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
   - >-
-    how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - >-
-    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
 ---
 
 # How Late-Night Gift Wrapping Affects Hepatic Insulin Clearance — And What It Means for Fasting Glucose in Older Adults with NAFLD

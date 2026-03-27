@@ -1,7 +1,6 @@
 ---
 title: Why Your eGFR Dropped After Starting an SGLT2 Inhibitor After 69
-slug: >-
-  what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
+slug: what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
 description: An initial kidney function (eGFR) dip of 10-15% is often harmless — a pressure adjustment. But drops >20% with low albumin need urgent follow-up.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-sudden-bp-drop-after-starting-sglt2-inhibitors-especially-in-adults-63-75-with-mild-ckd-and-orthostatic-symptoms
   - >-
-    when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction
   - >-
-    7-silent-signs-your-blood-pressure-is-too-low-after-starting-sglt2-inhibitors-especially-if-you-re-on-dialysis-or-have-orthostatic-tremor
   - >-
-    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
   - >-
-    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
 ---
 
 # Understanding SGLT2 Inhibitor eGFR Drop in Older Adults: What’s Normal, What’s Not

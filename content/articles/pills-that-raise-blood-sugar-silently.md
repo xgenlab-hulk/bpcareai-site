@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Chronic Low-Dose Proton Pump Inhibitor Use Alters Gut Microbial Bile Acid
-  Metabolism — And Why That Worsens Postprandial Glucose Variability in Adults
-  58–66 With Prediabetes
-slug: >-
-  how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbial-bile-acid-metabolism-and-why-that-worsens-postprandial-glucose-variability-in-adults-58-66-with-prediabetes
+slug: how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbial-bile-acid-metabolism-and-why-that-worsens-postprandial-glucose-variability-in-adults-58-66-with-prediabetes
 description: >-
-  Breaks down the PPI–gut–liver axis: how decades of omeprazole use reshapes
-  bile-acid-transforming microbes, reduces FXR signaling, and impairs GLP-1
-  secretion—backed by recent metagenomic and metabolomic studies.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: pills that raise blood sugar silently
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
   - >-
-    how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
   - >-
-    how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbiome-derived-trimethylamine-n-oxide-tmao-production-and-accelerates-coronary-artery-calcification-in-adults-70-with-gerd-and-stable-cad
   - >-
-    how-long-term-proton-pump-inhibitor-use-elevates-risk-of-subclinical-atherosclerosis-in-adults-59-71-with-gerd-and-low-hdl-c-independent-of-magnesium-levels
   - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
 ---
 
 # How Certain Pills That Raise Blood Sugar Silently—Like Long-Term PPIs—Disrupt Gut-Liver Communication and Worsen Glucose Control in Adults With Prediabetes

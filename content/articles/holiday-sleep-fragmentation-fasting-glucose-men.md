@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Holiday Sleep Fragmentation—Especially Late-Night Gift Wrapping or
-  Midnight Mass Attendance—Disrupts Nocturnal Growth Hormone Pulses and Fasting
-  Glucose in Men Over 70
-slug: >-
-  how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
+slug: how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
 description: >-
-  Links polysomnography-confirmed stage N3 loss to amplified dawn phenomenon and
-  overnight glucose AUC—highlighting gender-specific GH/IGF-1 axis dysregulation
-  patterns.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: holiday sleep fragmentation fasting glucose men
@@ -18,10 +11,8 @@ relatedSlugs:
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # How Holiday Sleep Disruption Affects Fasting Glucose in Men Over 70—and What You Can Do About It

@@ -1,7 +1,6 @@
 ---
 title: How Low-Dose Steroids for RA Age Your Arteries With Normal Cholesterol
-slug: >-
-  how-chronic-low-dose-corticosteroid-use-for-rheumatoid-arthritis-accelerates-coronary-endothelial-senescence-in-adults-55-69-with-normal-ldl
+slug: how-chronic-low-dose-corticosteroid-use-for-rheumatoid-arthritis-accelerates-coronary-endothelial-senescence-in-adults-55-69-with-normal-ldl
 description: Daily prednisone at just 5 mg speeds artery lining aging (endothelial senescence), cutting vessel flexibility 15-20% in adults 55-69 with RA and normal LDL.
 date: '2026-01-21'
 updated: 2026-03-26
@@ -10,13 +9,9 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-dose-corticosteroid-use-e-g-inhaled-budesonide-alters-hepatic-gluconeogenic-enzyme-expression-in-adults-65-81-with-type-2-diabetes-and-asthma
   - >-
-    how-low-dose-naltrexone-ldn-affects-endothelial-inflammation-and-bp-variability-in-adults-56-70-with-long-standing-rheumatoid-arthritis-and-stage-1-hypertension
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
   - >-
-    5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction
 ---
 
 # How Long-Term Low-Dose Corticosteroids for RA Speed Up Blood Vessel Aging—Even With Healthy Cholesterol

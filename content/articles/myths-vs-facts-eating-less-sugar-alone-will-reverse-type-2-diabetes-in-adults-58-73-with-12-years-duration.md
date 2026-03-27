@@ -1,7 +1,6 @@
 ---
 title: "Myth: Cutting Sugar Reverses Type 2 Diabetes After 12 Years"
-slug: >-
-  myths-vs-facts-eating-less-sugar-alone-will-reverse-type-2-diabetes-in-adults-58-73-with-12-years-duration
+slug: myths-vs-facts-eating-less-sugar-alone-will-reverse-type-2-diabetes-in-adults-58-73-with-12-years-duration
 description: The DiRECT trial shows remission needs 10-15 kg fat loss to clear pancreas fat (ectopic fat), not sugar cuts. After 12 years, beta cells lose 50-60% function.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
   - >-
-    what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide
   - >-
-    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
   - myths-vs-facts-holiday-eating-with-diabetes-after-50
   - >-
-    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
 ---
 
 # Sugar Reduction Reverse Type 2 Diabetes Myths: What Really Works After 12+ Years

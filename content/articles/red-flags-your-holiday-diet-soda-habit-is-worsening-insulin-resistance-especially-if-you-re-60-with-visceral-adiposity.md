@@ -1,7 +1,6 @@
 ---
 title: "Diet Soda and Insulin Resistance: Hidden Risks After 60"
-slug: >-
-  red-flags-your-holiday-diet-soda-habit-is-worsening-insulin-resistance-especially-if-you-re-60-with-visceral-adiposity
+slug: red-flags-your-holiday-diet-soda-habit-is-worsening-insulin-resistance-especially-if-you-re-60-with-visceral-adiposity
 description: 3+ diet sodas/day raises insulin resistance 22% in adults 60+ with belly fat (visceral adiposity) — sweeteners alter gut bacteria and trigger insulin surges.
 date: '2026-01-23'
 updated: 2026-03-26
@@ -11,11 +10,9 @@ image: ''
 relatedSlugs:
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
   - >-
-    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
   - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
-    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # Is Your Holiday Diet Soda Habit Fueling Insulin Resistance—Especially With Visceral Adiposity After Age 60?

@@ -1,13 +1,7 @@
 ---
 title: 'Holiday Weight Gain and AFib Recurrence Risk in Obesity Class II'
-  Does Holiday Weight Gain in Adults With Obesity Class II Predict 90-Day Atrial
-  Fibrillation Recurrence? A 2024 Retrospective Analysis
-slug: >-
-  does-holiday-weight-gain-in-adults-with-obesity-class-ii-predict-90-day-atrial-fibrillation-recurrence-a-2024-retrospective-analysis
+slug: does-holiday-weight-gain-in-adults-with-obesity-class-ii-predict-90-day-atrial-fibrillation-recurrence-a-2024-retrospective-analysis
 description: 'Each 2 kg of holiday weight gain raised 90-day AFib (atrial fibrillation) recurrence risk by 14% in class II obesity, per a 2024 retrospective analysis.'
-  Analyzes real-world EHR data across 1,294 patients to quantify how even
-  2.3–3.7 kg holiday gain correlates with AFib recurrence post-ablation or
-  cardioversion, stratified by BMI and age.
 date: '2025-12-24'
 updated: '2026-03-27'
 primaryKeyword: 'holiday weight gain atrial fibrillation recurrence risk'
@@ -15,12 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - when-to-worry-about-weight-gain-after-a-family-gathering
   - >-
-    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
 ---
 
 # Does Holiday Weight Gain Predict Atrial Fibrillation Recurrence? What Adults With Obesity Class II Should Know

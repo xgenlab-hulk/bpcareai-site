@@ -1,13 +1,7 @@
 ---
 title: >-
-  Simple Changes to Your Holiday Nap Timing That Reduce Atrial Ectopy Burden in
-  Adults With Early Diastolic Dysfunction
-slug: >-
-  simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
+slug: simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 description: >-
-  Details how nap duration (≤22 min), timing (12:45–2:15 p.m.), and post-nap
-  upright posture affect atrial stretch pressure and vagal rebound—based on
-  ambulatory ECG data from 89 seniors.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: holiday nap timing and atrial ectopy reduction
@@ -15,13 +9,9 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
-    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
   - >-
-    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 

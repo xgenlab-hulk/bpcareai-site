@@ -1,13 +1,7 @@
 ---
 title: '7 Holiday Foods High in Oxalates That Harm Kidneys With Stage 2 CKD'
-  7 Hidden Sources of Oxalates in Holiday Salads and Sides That May Trigger
-  Nephrocalcinosis in Adults With Stage 2 CKD Over 60
-slug: >-
-  7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60
+slug: 7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60
 description: 'Stage 2 CKD reduces oxalate clearance 15-20%. 7 holiday salad ingredients—beetroot, spinach—that may deposit calcium in the kidneys (nephrocalcinosis).'
-  Uncovers oxalate-rich but rarely flagged ingredients—like roasted beetroot,
-  spinach-topped crostini, and candied ginger—common in festive meals and
-  dangerous for seniors with declining renal oxalate excretion.
 date: '2025-12-29'
 updated: '2026-03-27'
 primaryKeyword: 'holiday foods high in oxalates dangerous for kidney disease'
@@ -15,12 +9,9 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
-    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 

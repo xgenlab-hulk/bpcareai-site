@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Truth About 'Sugar-Free' Holiday Cookies for Adults With Stage 2 CKD and
-  Preserved eGFR
-slug: >-
-  the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
+slug: the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
 description: >-
-  Debunks marketing claims around sugar alcohols and artificial sweeteners in
-  festive baked goods—and reveals which alternatives (e.g., low-potassium
-  erythritol blends) are truly kidney-safe for older adults managing phosphorus
-  and potassium.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: sugar-free cookies stage 2 ckid seniors
@@ -17,13 +10,9 @@ image: ''
 relatedSlugs:
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 ---
 
 # Sugar-Free Holiday Cookies for Seniors With Stage 2 CKD: What’s *Really* Safe?

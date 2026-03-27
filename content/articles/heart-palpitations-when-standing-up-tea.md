@@ -1,14 +1,7 @@
 ---
 title: >-
-  What Causes Heart Palpitations *Only* When You Stand Up to Pour Tea? — The
-  Role of Postural Catecholamine Surges and Left Atrial Stretch in Adults 68+
-  With Preserved Ejection Fraction
-slug: >-
-  what-causes-heart-palpitations-only-when-you-stand-up-to-pour-tea-the-role-of-postural-catecholamine-surges-and-left-atrial-stretch-in-adults-68-with-preserved-ejection-fraction
+slug: what-causes-heart-palpitations-only-when-you-stand-up-to-pour-tea-the-role-of-postural-catecholamine-surges-and-left-atrial-stretch-in-adults-68-with-preserved-ejection-fraction
 description: >-
-  Explores a highly specific, under-recognized trigger for transient
-  palpitations in older adults—linking orthostatic physiology, atrial mechanics,
-  and daily ritual timing—without overt arrhythmia or orthostatic hypotension.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: heart palpitations when standing up tea
@@ -16,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-sudden-orthostatic-hypotension-after-morning-tea-in-adults-68-with-mild-parkinsonism-even-without-caffeine
   - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
-    when-to-worry-about-new-onset-palpitations-during-morning-meditation-in-adults-66-79-with-known-aortic-stenosis-and-mild-lvot-obstruction
   - >-
-    why-do-adults-72-with-atrial-fibrillation-often-develop-orthostatic-hypotension-and-what-that-reveals-about-autonomic-cardiac-reserve
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
 ---
 
 # Why You Might Feel Heart Palpitations When Standing Up to Pour Tea — And What It Really Means for Your Heart Health

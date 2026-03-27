@@ -1,7 +1,6 @@
 ---
 title: Why Alcohol Causes Flushing and Racing Heart With ALDH2 Deficiency
-slug: >-
-  natural-ways-to-enhance-alcohol-metabolism-without-supplements-for-adults-61-73-with-aldh2-deficiency-and-flushing-associated-tachycardia
+slug: natural-ways-to-enhance-alcohol-metabolism-without-supplements-for-adults-61-73-with-aldh2-deficiency-and-flushing-associated-tachycardia
 description: The alcohol-processing gene variant (ALDH2) slows breakdown, letting toxic acetaldehyde build 6-10x higher. Zinc-rich foods before drinking cut flushing 30-40%.
 date: '2026-01-24'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
-    natural-ways-to-support-pancreatic-acinar-cell-function-and-reduce-postprandial-lipase-deficiency-in-adults-65-with-long-standing-type-2-diabetes-and-fatty-pancreas-imaging
   - >-
-    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
   - >-
-    natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-57-69-with-abdominal-obesity-and-mild-nafld
 ---
 
 # Natural Alcohol Metabolism Enhancement for ALDH2 Deficiency — Gentle, Evidence-Informed Strategies for Adults 61–73

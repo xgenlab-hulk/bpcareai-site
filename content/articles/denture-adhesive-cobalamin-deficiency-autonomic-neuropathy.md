@@ -1,14 +1,7 @@
 ---
 title: 'Denture Adhesives, Zinc Overload, and B12-Related Autonomic Neuropathy'
-  What Are the Earliest Signs Your Denture Adhesive Is Causing Subclinical
-  Cobalamin Deficiency — And Why That Accelerates Autonomic Neuropathy
-  Progression in Adults 75+ With Type 2 Diabetes
-slug: >-
-  what-are-the-earliest-signs-your-denture-adhesive-is-causing-subclinical-cobalamin-deficiency-and-why-that-accelerates-autonomic-neuropathy-progression-in-adults-75-with-type-2-diabetes
+slug: what-are-the-earliest-signs-your-denture-adhesive-is-causing-subclinical-cobalamin-deficiency-and-why-that-accelerates-autonomic-neuropathy-progression-in-adults-75-with-type-2-diabetes
 description: 'Some denture adhesives have 34 mg zinc per gram, blocking B12 absorption (intrinsic factor) and worsening nerve damage in adults 75+ with diabetes.'
-  Links chronic zinc-rich adhesive use to gastric parietal cell inhibition,
-  reduced intrinsic factor, and accelerated sympathetic nerve conduction
-  velocity decline — with validated screening labs.
 date: '2026-02-11'
 updated: '2026-03-27'
 primaryKeyword: 'denture adhesive zinc B12 deficiency autonomic neuropathy'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
   - >-
-    what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
   - >-
-    what-causes-sudden-loss-of-sweet-taste-perception-in-adults-69-with-well-controlled-diabetes-and-why-it-predicts-early-diabetic-autonomic-neuropathy
   - >-
-    7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes
   - >-
-    7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-oral-mucosa-and-why-that-matters-for-adults-74-with-diabetic-retinopathy-and-poor-wound-healing
 ---
 
 # Early Warning Signs of Denture Adhesive–Related Cobalamin Deficiency and Its Impact on Autonomic Neuropathy in Older Adults with Type 2 Diabetes

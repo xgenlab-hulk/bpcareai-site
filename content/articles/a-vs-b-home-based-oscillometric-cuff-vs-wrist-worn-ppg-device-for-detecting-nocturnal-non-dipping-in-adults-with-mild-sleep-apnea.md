@@ -1,13 +1,7 @@
 ---
 title: 'Arm Cuff vs Wrist PPG Device for Detecting Nighttime Blood Pressure Non-Dipping'
-  A vs B: Home-Based Oscillometric Cuff vs. Wrist-Worn PPG Device for Detecting
-  Nocturnal Non-Dipping in Adults With Mild Sleep Apnea
-slug: >-
-  a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea
+slug: a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea
 description: 'In adults with mild sleep apnea, upper-arm oscillometric cuffs detected nocturnal non-dipping (BP failing to drop 10-20% overnight) more reliably than wrist PPG devices during sleep.'
-  Compares accuracy, usability, and artifact resistance of two consumer-grade BP
-  monitoring modalities during sleep in patients with confirmed mild OSA and
-  suspected nondipping.
 date: '2026-01-08'
 updated: '2026-03-27'
 primaryKeyword: 'arm cuff vs wrist PPG device for detecting nighttime blood pressure patterns'
@@ -15,15 +9,10 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
-    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
   - >-
-    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - >-
-    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
 ---
 
 # Oscillometric Cuff vs PPG for Nocturnal Non-Dipping: What’s Best for Adults With Mild Sleep Apnea?

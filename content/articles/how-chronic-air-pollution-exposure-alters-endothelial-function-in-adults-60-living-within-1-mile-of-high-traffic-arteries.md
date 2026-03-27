@@ -1,7 +1,6 @@
 ---
 title: Living Near a Highway After 60? How Traffic Pollution Hurts
-slug: >-
-  how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
+slug: how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
 description: PM2.5 from highways cuts nitric oxide 30%, stiffening vessel walls (endothelial dysfunction). Indoor HEPA filters reduce exposure 60-80% — even 1 mile away.
 date: '2026-01-24'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - >-
-    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
   - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
-    can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
   - >-
-    does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
 ---
 
 # How Air Pollution Affects Endothelial Function in Seniors Living Near Busy Roads  

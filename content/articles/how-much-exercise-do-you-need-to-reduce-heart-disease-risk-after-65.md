@@ -2,8 +2,6 @@
 title: How Much Exercise Do You Need to Reduce Heart Disease Risk After 65?
 slug: how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
 description: >-
-  Find out the minimum effective amount of physical activity to protect your
-  heart as you age, backed by recent studies.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: exercise to prevent heart disease after 65

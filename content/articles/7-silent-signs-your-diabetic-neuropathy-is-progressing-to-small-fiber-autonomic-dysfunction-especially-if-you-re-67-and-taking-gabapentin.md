@@ -1,7 +1,6 @@
 ---
 title: 7 Signs Your Diabetic Neuropathy Is Turning Autonomic After 67
-slug: >-
-  7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
+slug: 7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
 description: Slow stomach emptying (gastroparesis), uneven sweating, sluggish pupils signal nerve damage beyond your feet. Gabapentin may mask 3 of these 7 warning signs.
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - >-
-    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - >-
-    dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
   - >-
-    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
 ---
 
 # Recognizing the Silent Signs Autonomic Neuropathy Older Adults May Overlook — Especially With Long-Standing Diabetes

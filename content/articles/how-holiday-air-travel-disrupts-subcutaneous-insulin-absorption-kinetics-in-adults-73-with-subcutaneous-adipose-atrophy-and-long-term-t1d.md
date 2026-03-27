@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Holiday Air Travel Disrupts Subcutaneous Insulin Absorption Kinetics in
-  Adults 73+ With Subcutaneous Adipose Atrophy and Long-Term T1D
-slug: >-
-  how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d
+slug: how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d
 description: >-
-  Analyzes how cabin pressure fluctuations, immobility, and cold ambient
-  temperatures alter insulin diffusion through fibrotic or atrophic tissue —
-  with implications for basal rate adjustments and bolus timing during multi-leg
-  journeys.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: air travel insulin absorption elderly
@@ -16,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes
   - >-
-    5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
   - >-
-    holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
   - >-
-    how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
   - >-
-    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
 ---
 
 # How Air Travel Insulin Absorption in Elderly Adults with Long-Term Type 1 Diabetes Requires Special Consideration

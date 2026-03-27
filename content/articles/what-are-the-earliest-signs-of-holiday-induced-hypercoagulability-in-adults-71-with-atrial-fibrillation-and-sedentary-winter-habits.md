@@ -1,7 +1,6 @@
 ---
 title: Holiday Blood Clot Warning Signs Seniors With AFib Often Miss
-slug: >-
-  what-are-the-earliest-signs-of-holiday-induced-hypercoagulability-in-adults-71-with-atrial-fibrillation-and-sedentary-winter-habits
+slug: what-are-the-earliest-signs-of-holiday-induced-hypercoagulability-in-adults-71-with-atrial-fibrillation-and-sedentary-winter-habits
 description: Sitting 4+ hours raises clotting markers (D-dimer) 20% in adults 71+ with irregular heartbeat (AFib). Calf tightness and finger swelling are early flags.
 date: '2026-01-24'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-cold-weather-and-holiday-feasting-jointly-elevate-stroke-risk-in-seniors-with-atrial-fibrillation
   - >-
-    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
-    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
 ---
 
 # Recognizing Early Signs of Holiday Hypercoagulability in Seniors with Atrial Fibrillation

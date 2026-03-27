@@ -1,7 +1,6 @@
 ---
 title: "Nighttime Tablet Use and Blood Sugar: The Blue Light Risk After 65"
-slug: >-
-  how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes
+slug: how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes
 description: Seniors using tablets past 8 p.m. showed a 27% drop in first-wave insulin response (first-phase secretion). Amber glasses before bed may restore 15-20%.
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
   - >-
-    how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment
   - >-
-    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
 ---
 
 # How Nighttime Tablet Use Affects Insulin Secretion in Seniors With Prediabetes — Understanding the Blue Light Connection

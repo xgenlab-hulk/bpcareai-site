@@ -1,7 +1,6 @@
 ---
 title: "Roast vs. Braised Turkey: Which Spikes Uric Acid Less With Gout?"
-slug: >-
-  a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
+slug: a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
 description: Roasted turkey raises uric acid 1.8 mg/dL in 2 hours vs. 0.9 braised. Men 62-79 with gout and kidney disease (mild CKD) cut purine load 35% by slow-braising.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia
   - >-
-    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
-    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
   - >-
-    a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia
   - >-
-    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
 ---
 
 # Turkey Preparation Gout Uric Acid Comparison: What Men 62–79 With Gout and Mild CKD Should Know at Holiday Gatherings

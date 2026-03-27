@@ -1,12 +1,7 @@
 ---
 title: 'Sugar-Free vs Traditional Icing: Blood Sugar Impact in Adults 58 to 74'
-  A vs B: Gingerbread House Decorating With Sugar-Free Icing vs. Traditional
-  Royal Icing—Impact on Postprandial Glucose Spikes in Adults 58–74
-slug: >-
-  a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74
+slug: a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74
 description: 'CGM data from 22 adults: traditional royal icing spiked glucose +48 mg/dL vs +22 mg/dL for sugar-free icing, but the sugar-free group reported lower satiety and more snacking urges after.'
-  Compares real-world CGM data from 22 participants during a festive activity,
-  analyzing glycemic response, satiety, and perceived enjoyment.
 date: '2026-01-01'
 updated: '2026-03-27'
 primaryKeyword: 'sugar-free vs traditional icing effect on blood sugar in adults 58 to 74'
@@ -14,11 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 

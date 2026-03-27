@@ -2,8 +2,6 @@
 title: How Group Activities in Senior Centers Prevent Seasonal Depression
 slug: how-group-activities-in-senior-centers-prevent-seasonal-depression
 description: >-
-  Show how structured social programs combat loneliness and stimulate engagement
-  during dark months.
 date: '2025-12-09'
 updated: '2025-12-09'
 primaryKeyword: senior center activities and depression
@@ -13,7 +11,6 @@ relatedSlugs:
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - >-
-    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
   - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 ---

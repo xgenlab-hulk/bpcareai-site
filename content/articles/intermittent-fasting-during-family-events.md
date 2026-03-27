@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Intermittent Fasting Windows Shift During Family Gatherings—And Why a 10
-  a.m. to 6 p.m. Schedule May Backfire for Women 59–69 With Insulin Resistance
-slug: >-
-  how-intermittent-fasting-windows-shift-during-family-gatherings-and-why-a-10-a-m-to-6-p-m-schedule-may-backfire-for-women-59-69-with-insulin-resistance
+slug: how-intermittent-fasting-windows-shift-during-family-gatherings-and-why-a-10-a-m-to-6-p-m-schedule-may-backfire-for-women-59-69-with-insulin-resistance
 description: >-
-  Breaks down circadian misalignment risks when fasting windows collide with
-  late-afternoon dessert traditions, social eating cues, and postprandial
-  cortisol rhythms—and offers a flexible ‘gathering-adjusted’ fasting framework
-  validated in perimenopausal women.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: intermittent fasting during family events
@@ -16,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - >-
-    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
   - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # Intermittent Fasting During Family Events: Why Rigid Schedules Can Work Against You—Especially After 59

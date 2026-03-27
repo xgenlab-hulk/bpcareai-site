@@ -1,7 +1,6 @@
 ---
 title: "Hearing Aid Batteries and Eye Damage: A Hidden Risk After 74"
-slug: >-
-  7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-oral-mucosa-and-why-that-matters-for-adults-74-with-diabetic-retinopathy-and-poor-wound-healing
+slug: 7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-oral-mucosa-and-why-that-matters-for-adults-74-with-diabetic-retinopathy-and-poor-wound-healing
 description: "Zinc from hearing aid batteries triggers cell damage (oxidative stress) in retinal vessels — worsening diabetic eye disease. Salivary zinc tests catch it early."
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
-    12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication
   - >-
-    7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes
   - >-
-    what-are-the-earliest-signs-your-denture-adhesive-is-causing-subclinical-cobalamin-deficiency-and-why-that-accelerates-autonomic-neuropathy-progression-in-adults-75-with-type-2-diabetes
 ---
 
 # Zinc Hearing Aid Batteries and Diabetic Retinopathy: What Older Adults Should Know — Gently and Clearly

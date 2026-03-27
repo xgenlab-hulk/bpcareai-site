@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About Herbal Supplements and Blood Pressure: Which Ones Help, Which
-  Harm, and Which Interfere With Medications
-slug: >-
-  the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+slug: the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
 description: >-
-  Reviews clinical evidence on garlic, hawthorn, berberine, and
-  licorice—highlighting proven interactions with ACE inhibitors, ARBs, and
-  diuretics in adults over 60.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: herbal supplements blood pressure interactions
@@ -15,10 +9,8 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - best-supplements-for-blood-sugar-support-after-50
   - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
   - could-your-medications-be-raising-your-blood-pressure
   - top-5-winter-superfoods-that-naturally-lower-blood-pressure
 ---

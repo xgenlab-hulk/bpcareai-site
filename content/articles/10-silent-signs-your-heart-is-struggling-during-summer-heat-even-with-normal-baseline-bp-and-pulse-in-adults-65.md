@@ -1,13 +1,7 @@
 ---
 title: '10 Quiet Signs Your Heart Is Straining in Summer Heat After 65'
-  10 Silent Signs Your Heart Is Struggling During Summer Heat — Even With Normal
-  Baseline BP and Pulse in Adults 65+
-slug: >-
-  10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65
+slug: 10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65
 description: 'Summer heat forces the heart to divert 20% more output to skin cooling. Ten signals—including capillary refill delay—warn of early cardiac (heart) strain at 65.'
-  Lists subtle heat-exacerbated indicators like unexplained confusion, worsening
-  nocturia, and delayed capillary refill — all tied to thermoregulatory strain
-  on cardiac output and renal perfusion.
 date: '2026-02-25'
 updated: '2026-03-27'
 primaryKeyword: 'heart strain signs in summer heat over 65'
@@ -15,13 +9,9 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
   - >-
-    7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
   - >-
-    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - 5-silent-signs-your-heart-is-struggling-in-cold-weather
 ---
 

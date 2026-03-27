@@ -1,7 +1,6 @@
 ---
 title: "Does a 10-Minute Walk After Dinner Lower Morning Blood Sugar Over 64?"
-slug: >-
-  does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
+slug: does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
 description: "Post-dinner walks drop next-morning fasting glucose 10-15 mg/dL — but only above a pace threshold. Key timing rules for dawn highs (morning hyperglycemia)."
 date: '2026-02-08'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
-    a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea
   - >-
-    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
   - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
-    does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
 ---
 
 # Does Post-Dinner Walking Lower Fasting Glucose in Seniors? What the Evidence Says for Adults 64+ With Morning Hyperglycemia

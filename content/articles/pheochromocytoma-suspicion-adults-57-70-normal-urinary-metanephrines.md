@@ -1,7 +1,6 @@
 ---
 title: Sudden BP Spikes With Normal Tests? When to Suspect a Hidden Cause
-slug: >-
-  when-to-suspect-pheochromocytoma-in-adults-57-70-with-episodic-palpitations-normal-echo-and-normal-24-hour-urinary-metanephrines-but-elevated-plasma-free-metanephrines
+slug: when-to-suspect-pheochromocytoma-in-adults-57-70-with-episodic-palpitations-normal-echo-and-normal-24-hour-urinary-metanephrines-but-elevated-plasma-free-metanephrines
 description: Normal urine but elevated blood markers (plasma free metanephrines) may point to a rare adrenal tumor (pheochromocytoma) in adults 57-70 with episodic spikes.
 date: '2026-01-29'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-pheochromocytoma-related-hypertension-fluctuations-in-adults-58-74-with-episodic-palpitations-and-normotensive-intervals
   - >-
-    when-to-worry-about-white-coat-readings-that-persist-in-the-er-differentiating-acute-hypertensive-urgency-from-masked-stress-induced-surges-in-adults-68
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-men-76-with-unexplained-low-voltage-ecg-bilateral-carpal-tunnel-and-progressive-fatigue-even-with-normal-echocardiogram
   - >-
-    when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram
 ---
 
 # When to Consider Pheochromocytoma in Adults 57–70 With Episodic Palpitations, Normal Echo, and Normal Urinary Metanephrines—but Elevated Plasma Free Metanephrines

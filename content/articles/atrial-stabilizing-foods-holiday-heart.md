@@ -1,14 +1,7 @@
 ---
 title: 'Foods That Stabilize Heart Rhythm During the Holidays in Adults 57 to 71'
-  12 Foods That *Stabilize* Atrial Electrophysiology — Not Just 'Heart-Healthy'
-  — Including Fermented Kimchi, Roasted Walnuts, and Low-Histamine Pear Compote
-  for Adults 57–71
-slug: >-
-  12-foods-that-stabilize-atrial-electrophysiology-not-just-heart-healthy-including-fermented-kimchi-roasted-walnuts-and-low-histamine-pear-compote-for-adults-57-71
+slug: 12-foods-that-stabilize-atrial-electrophysiology-not-just-heart-healthy-including-fermented-kimchi-roasted-walnuts-and-low-histamine-pear-compote-for-adults-57-71
 description: 'Fermented kimchi, roasted walnuts, and low-histamine pear compote modulate connexin-40 expression and inward-rectifier potassium channels (IK1) to support atrial stability in aging hearts.'
-  Highlights specific foods with documented effects on atrial connexin-40
-  expression, potassium channel modulation, and mast-cell stabilization—curated
-  for arrhythmia-prone aging atria.
 date: '2026-02-27'
 updated: '2026-03-27'
 primaryKeyword: 'foods that stabilize heart rhythm during the holidays for adults over 57'
@@ -16,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope
   - >-
-    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
   - >-
-    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
   - >-
-    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
   - >-
-    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
 ---
 
 # Atrial-Stabilizing Foods for Holiday Heart Support — Gentle, Evidence-Informed Choices for Adults 57–71

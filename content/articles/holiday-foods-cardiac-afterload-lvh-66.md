@@ -2,7 +2,6 @@
 title: Holiday Foods and Heart Strain? (LVH Guide for Adults 66+)
 slug: holiday-foods-cardiac-afterload-lvh-66
 description: >-
-  Living with mild LVH? Learn which 12 holiday foods raise cardiac afterload within 90 minutes (sodium, tyramine traps) and heart-friendly swaps for adults 66+.
 date: '2026-01-19'
 updated: '2026-03-18'
 primaryKeyword: holiday foods cardiac afterload heart 66
@@ -11,12 +10,9 @@ image: ''
 relatedSlugs:
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - >-
-    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
-    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
 ---
 
 # Holiday Foods and Cardiac Afterload — What Adults 66+ With Mild LVH Need to Know

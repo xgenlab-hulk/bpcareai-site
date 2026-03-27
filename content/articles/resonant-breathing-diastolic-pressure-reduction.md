@@ -1,14 +1,7 @@
 ---
 title: >-
-  A vs B: Slow-Paced Breathing at 5.5 Breaths/Minute vs. 6.0 Breaths/Minute for
-  Acute Diastolic Pressure Reduction in Adults 60–64 With Early LV Diastolic
-  Dysfunction
-slug: >-
-  a-vs-b-slow-paced-breathing-at-5-5-breaths-minute-vs-6-0-breaths-minute-for-acute-diastolic-pressure-reduction-in-adults-60-64-with-early-lv-diastolic-dysfunction
+slug: a-vs-b-slow-paced-breathing-at-5-5-breaths-minute-vs-6-0-breaths-minute-for-acute-diastolic-pressure-reduction-in-adults-60-64-with-early-lv-diastolic-dysfunction
 description: >-
-  Compares two clinically distinct resonant breathing frequencies for optimizing
-  vagal tone and left ventricular filling dynamics in pre-heart-failure
-  populations.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: resonant breathing diastolic pressure reduction
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio
   - >-
-    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
   - >-
-    best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74
   - >-
-    best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
   - >-
-    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
 ---
 
 # Resonant Breathing for Diastolic Pressure Reduction: Comparing 5.5 vs. 6.0 Breaths/Minute in Adults 60–64

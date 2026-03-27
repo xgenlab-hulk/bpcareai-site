@@ -1,13 +1,7 @@
 ---
 title: 'Best Time to Walk Before Dinner to Lower Blood Sugar After Menopause'
-  A vs B: Pre-Meal Walks at 4 PM vs. 8 PM for Blunting Post-Holiday-Dinner
-  Glucose Spikes in Women With Menopause-Associated Insulin Resistance
-slug: >-
-  a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+slug: a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
 description: 'In 59 postmenopausal women, a 4 PM pre-meal walk reduced post-dinner glucose area under the curve more than an 8 PM walk by boosting adiponectin and suppressing hepatic glucose output.'
-  Compares acute glucose AUC reduction, adiponectin response, and hepatic
-  glucose output suppression between early vs. late pre-dinner activity windows
-  in 59 postmenopausal women.
 date: '2026-01-04'
 updated: '2026-03-27'
 primaryKeyword: 'pre-dinner walk timing to lower blood sugar in menopausal women'
@@ -15,12 +9,9 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
   - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---
 

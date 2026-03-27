@@ -2,9 +2,6 @@
 title: 'Safe Holiday Foods for Seniors With Mild Swallowing Difficulty'
 slug: soft-foods-holiday-meals-seniors-dysphagia
 description: 'Swallowing trouble (dysphagia) affects 1 in 6 seniors, raising choking risk at holiday meals. Ten IDDSI-compliant textures keep celebrations safe and enjoyable.'
-  Discover 10 safe, delicious soft foods for seniors with dysphagia—butternut
-  bisque, moist chicken, fruit compote. Holiday meal tips included, easy to
-  prepare.
 date: '2025-12-23'
 updated: '2026-03-27'
 primaryKeyword: 'safe soft foods for seniors with swallowing difficulty'
@@ -13,11 +10,8 @@ image: ''
 relatedSlugs:
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - >-
-    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
   - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - >-
-    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
 ---
 

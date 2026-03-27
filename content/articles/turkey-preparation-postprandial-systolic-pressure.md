@@ -1,14 +1,7 @@
 ---
 title: >-
-  A vs B: Traditional Roast Turkey With Gravy vs. Herb-Roasted Turkey Breast
-  With Mushroom Reduction — Impact on Postprandial Systolic Pressure in Adults
-  62+ With Isolated Systolic Hypertension
-slug: >-
-  a-vs-b-traditional-roast-turkey-with-gravy-vs-herb-roasted-turkey-breast-with-mushroom-reduction-impact-on-postprandial-systolic-pressure-in-adults-62-with-isolated-systolic-hypertension
+slug: a-vs-b-traditional-roast-turkey-with-gravy-vs-herb-roasted-turkey-breast-with-mushroom-reduction-impact-on-postprandial-systolic-pressure-in-adults-62-with-isolated-systolic-hypertension
 description: >-
-  Compares real-world blood pressure responses to two common holiday protein
-  preparations, factoring in sodium load, AGE content, and nitric oxide
-  bioavailability.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: turkey preparation postprandial systolic pressure
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
   - >-
-    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
   - >-
-    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
-    a-vs-b-traditional-slow-cooked-turkey-breast-vs-sous-vide-turkey-breast-impact-on-advanced-glycation-end-products-ages-postprandial-inflammation-and-endothelial-function-in-adults-66-with-early-atherosclerosis
   - >-
-    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
 ---
 
 # How Turkey Preparation Affects Postprandial Systolic Pressure in Adults 62+ With Isolated Systolic Hypertension

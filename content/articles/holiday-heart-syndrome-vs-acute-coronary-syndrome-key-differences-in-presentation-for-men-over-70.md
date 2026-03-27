@@ -1,13 +1,7 @@
 ---
 title: >-
-  Holiday Heart Syndrome vs. Acute Coronary Syndrome: Key Differences in
-  Presentation for Men Over 70
-slug: >-
-  holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
+slug: holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
 description: >-
-  Side-by-side clinical comparison focusing on ECG nuances (e.g., absence of ST
-  changes), troponin kinetics, pain descriptors, and atypical symptoms—designed
-  to help older men and their families discern urgent vs. self-limiting events.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: holiday heart vs heart attack men 70+
@@ -17,9 +11,7 @@ relatedSlugs:
   - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
-    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
   - >-
-    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
   - recognizing-silent-heart-attacks-in-diabetics-over-60
 ---
 

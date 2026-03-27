@@ -1,7 +1,6 @@
 ---
 title: 'Keep Your Blood Sugar Steady at Holiday Parties — 12 Tips for 55+'
-slug: >-
-  12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+slug: 12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
 description: '68% of adults 50-74 spike above 180 mg/dL at holiday meals. Eating 15-20g protein 30 min before dinner cuts sugar spikes (glucose excursions) by 27%.'
 date: '2026-01-19'
 updated: '2026-03-27'
@@ -14,7 +13,6 @@ relatedSlugs:
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
-    12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides
 ---
 
 # Blood Sugar Swinging at Holiday Parties? What Adults 50-74 Must Know (No Fasting Required)

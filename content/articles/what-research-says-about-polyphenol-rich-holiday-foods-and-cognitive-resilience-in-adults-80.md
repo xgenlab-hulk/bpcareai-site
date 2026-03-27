@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Research Says About Polyphenol-Rich Holiday Foods and Cognitive
-  Resilience in Adults 80+
-slug: >-
-  what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
+slug: what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
 description: >-
-  Reviews clinical studies on cranberries, dark chocolate, and walnuts in
-  relation to neuroinflammation, cerebral blood flow, and short-term memory
-  preservation during high-stress holiday periods.
 date: '2025-12-17'
 updated: '2025-12-17'
 primaryKeyword: polyphenol holiday foods cognitive health
@@ -15,14 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
   - >-
-    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
-    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
 ---
 
 # How Polyphenol-Rich Holiday Foods Support Cognitive Health in Adults 80 and Older

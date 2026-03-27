@@ -1,7 +1,6 @@
 ---
 title: '7 Holiday Foods That Raise Your Blood Pressure While You Sleep'
-slug: >-
-  7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-seniors-70-with-nocturnal-hypertension
+slug: 7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-seniors-70-with-nocturnal-hypertension
 description: 'Glazed ham and spiced cider raise nighttime BP 12-18 mmHg in seniors whose pressure stays high during sleep (non-dipping pattern). 30% over 70 are affected.'
 date: '2026-02-06'
 updated: '2026-03-28'
@@ -10,9 +9,7 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
   - >-
-    how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - 7-hidden-winter-habits-that-worsen-hypertension-after-60

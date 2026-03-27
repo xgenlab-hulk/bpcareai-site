@@ -1,7 +1,6 @@
 ---
 title: Why Flying Raises Your Blood Pressure With COPD After 65
-slug: >-
-  quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness
+slug: quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness
 description: Cabin altitude equivalent to 6000-8000 ft raises systolic BP 8-15 mmHg with lung disease (COPD). Timed handgrip exercises and hydration windows help in-flight.
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
   - >-
-    how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt
   - >-
-    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
   - >-
-    how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
   - >-
-    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
 ---
 
 # How Airplane Cabin Pressure and Blood Pressure Interact — Gentle Strategies for Older Adults With COPD or Pulmonary Hypertension

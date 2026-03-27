@@ -1,13 +1,7 @@
 ---
 title: >-
-  Natural Ways to Support Pancreatic Beta-Cell Resilience After Age 59—Using
-  Time-Restricted Eating, Zinc-Rich Foods, and Berberine Timing
-slug: >-
-  natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
+slug: natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
 description: >-
-  Focuses on beta-cell preservation strategies grounded in human trials—not
-  reversal—highlighting circadian alignment, micronutrient repletion, and
-  pharmacokinetic synergy.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: beta-cell resilience in aging prediabetes
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
   - >-
-    natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
   - >-
-    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
   - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
 ---
 
 # Supporting Beta-Cell Resilience in Aging Prediabetes—Gentle, Evidence-Informed Strategies After 59

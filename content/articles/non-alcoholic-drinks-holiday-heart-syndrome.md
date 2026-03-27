@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Truth About 'Non-Alcoholic' Mulled Wine & Sparkling Ciders — Why 83%
-  Contain Residual Ethanol + Histamine Levels That Trigger Atrial Ectopy in
-  Adults 67+ With Histamine Intolerance
-slug: >-
-  the-truth-about-non-alcoholic-mulled-wine-sparkling-ciders-why-83-contain-residual-ethanol-histamine-levels-that-trigger-atrial-ectopy-in-adults-67-with-histamine-intolerance
+slug: the-truth-about-non-alcoholic-mulled-wine-sparkling-ciders-why-83-contain-residual-ethanol-histamine-levels-that-trigger-atrial-ectopy-in-adults-67-with-histamine-intolerance
 description: >-
-  Investigates labeling loopholes, fermentation byproducts, and real-world
-  histamine content in popular 'mocktails'—and their under-recognized role in
-  holiday arrhythmia flares.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: non-alcoholic drinks holiday heart syndrome
@@ -16,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
   - >-
-    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
   - >-
-    the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone
   - >-
-    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
 ---
 
 # What You Should Know About “Non-Alcoholic” Mulled Wine & Cider This Holiday Season — And Their Link to Non-Alcoholic Drinks Holiday Heart Syndrome

@@ -1,7 +1,6 @@
 ---
 title: Why Holiday Stress Spikes Nighttime BP After 65 With Sleep Apnea
-slug: >-
-  how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
+slug: how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
 description: Holiday cortisol surges push sleeping BP above 120/70 mmHg — a stronger stroke predictor than daytime readings. Obstructive sleep apnea (OSA) doubles the risk.
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,7 +9,6 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50

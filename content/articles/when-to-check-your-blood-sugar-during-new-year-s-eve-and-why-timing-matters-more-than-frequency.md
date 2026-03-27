@@ -1,13 +1,7 @@
 ---
 title: >-
-  When to Check Your Blood Sugar During New Year’s Eve—And Why Timing Matters
-  More Than Frequency
-slug: >-
-  when-to-check-your-blood-sugar-during-new-year-s-eve-and-why-timing-matters-more-than-frequency
+slug: when-to-check-your-blood-sugar-during-new-year-s-eve-and-why-timing-matters-more-than-frequency
 description: >-
-  Breaks down optimal glucose testing windows before, during, and after
-  celebratory meals and alcohol consumption—especially for those on
-  sulfonylureas or insulin.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: when to check blood sugar new years eve

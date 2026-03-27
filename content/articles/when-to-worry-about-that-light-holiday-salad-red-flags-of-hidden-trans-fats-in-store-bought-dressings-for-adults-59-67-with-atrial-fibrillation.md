@@ -1,14 +1,7 @@
 ---
 title: >-
-  When to Worry About That 'Light' Holiday Salad — Red Flags of Hidden Trans
-  Fats in Store-Bought Dressings for Adults 59–67 With Atrial Fibrillation
-slug: >-
-  when-to-worry-about-that-light-holiday-salad-red-flags-of-hidden-trans-fats-in-store-bought-dressings-for-adults-59-67-with-atrial-fibrillation
+slug: when-to-worry-about-that-light-holiday-salad-red-flags-of-hidden-trans-fats-in-store-bought-dressings-for-adults-59-67-with-atrial-fibrillation
 description: >-
-  Identifies deceptive labeling (e.g., '0g trans fat' ≠ zero partially
-  hydrogenated oils), links to post-meal atrial ectopy, and offers a 90-second
-  homemade vinaigrette protocol shown to reduce AFib episode frequency in a
-  12-week RCT.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: hidden trans fats holiday salad dressing
@@ -16,11 +9,8 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-healthy-swap-salad-dressing-is-actually-driving-sodium-induced-endothelial-stiffness-in-adults-70-with-stage-1-hypertension-and-reduced-arterial-compliance
   - >-
-    the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
   - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
 ---
 
 # When That ‘Light’ Holiday Salad Might Surprise You: Spotting Hidden Trans Fats in Holiday Salad Dressing for Adults Living With Atrial Fibrillation

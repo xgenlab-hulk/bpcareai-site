@@ -1,13 +1,7 @@
 ---
 title: 'Holiday Hosting for Seniors 80+ With Swallowing Trouble'
-  How Cold-Weather Holiday Hosting Affects Swallowing Safety in Adults 80+ With
-  Mild Dysphagia and Reduced Laryngeal Sensation
-slug: >-
-  how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
+slug: how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
 description: 'Dry winter air drops throat moisture 30%, raising silent choking risk (aspiration) in adults 80+. Humidity above 40% and chin-tuck position cut episodes ~50%.'
-  Explores how dry indoor air, rushed eating, and hot beverages increase
-  aspiration risk—and offers kitchen-tested, low-effort modifications for safer
-  holiday meals at home.
 date: '2026-01-17'
 updated: '2026-03-27'
 primaryKeyword: 'safer holiday meals for seniors with swallowing trouble'
@@ -15,14 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - >-
-    simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
 ---
 
 # Cold-Weather Holiday Hosting and Dysphagia Safety for Seniors 80+: Practical Tips for Safer Swallowing

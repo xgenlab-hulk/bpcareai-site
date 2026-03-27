@@ -2,8 +2,6 @@
 title: How Vitamin D Deficiency Impacts Heart Health in Winter
 slug: how-vitamin-d-deficiency-impacts-heart-health-in-winter
 description: >-
-  Find out how seasonal vitamin D drops may increase cardiovascular risks in
-  older adults.
 date: '2025-11-30'
 updated: '2025-11-30'
 primaryKeyword: vitamin d deficiency and heart health winter seniors

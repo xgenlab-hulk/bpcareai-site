@@ -1,7 +1,6 @@
 ---
 title: 'Cocoa Flavanols and Blood Vessel Health When You Have Fatty Liver'
-slug: >-
-  does-adding-1-gram-of-cocoa-flavanols-daily-improve-endothelial-dependent-vasodilation-in-adults-63-79-with-metabolic-syndrome-and-non-alcoholic-fatty-liver
+slug: does-adding-1-gram-of-cocoa-flavanols-daily-improve-endothelial-dependent-vasodilation-in-adults-63-79-with-metabolic-syndrome-and-non-alcoholic-fatty-liver
 description: 'Liver fat predicts flavanol response more than BMI. 1g/day improved artery relaxation (flow-mediated dilation) 2.1% in adults 63-79 with fatty liver.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
-    does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
   - >-
-    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
   - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
-    how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
 ---
 
 # Can Cocoa Flavanols Boost Endothelial Function in Older Adults with Fatty Liver and Metabolic Syndrome?

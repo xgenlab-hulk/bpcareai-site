@@ -1,7 +1,6 @@
 ---
 title: "Weight Training After Retinal Laser: Safe Limits for Seniors 62+"
-slug: >-
-  can-you-safely-resume-weight-training-after-a-recent-retinal-photocoagulation-procedure-evidence-based-load-thresholds-and-valsalva-avoidance-protocols-for-adults-62-with-proliferative-diabetic-retinopathy
+slug: can-you-safely-resume-weight-training-after-a-recent-retinal-photocoagulation-procedure-evidence-based-load-thresholds-and-valsalva-avoidance-protocols-for-adults-62-with-proliferative-diabetic-retinopathy
 description: "Breath-holding during lifts (Valsalva) spikes eye pressure (intraocular pressure) past 30 mmHg, risking vessel rupture. Tempo breathing keeps it under 22."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,13 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    can-you-safely-resume-resistance-training-after-aortic-valve-replacement-evidence-based-thresholds-for-systolic-pressure-response-and-lvot-velocity-in-adults-67-with-mechanical-valves
   - >-
-    can-bright-light-therapy-be-safely-used-with-age-related-macular-degeneration-a-risk-benefit-framework-for-adults-75
   - >-
-    best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
   - >-
-    simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
 ---
 
 # Safe Weight Training After Retinal Laser Treatment for Seniors: Evidence-Based Guidance for Adults 62+ With Diabetic Eye Disease

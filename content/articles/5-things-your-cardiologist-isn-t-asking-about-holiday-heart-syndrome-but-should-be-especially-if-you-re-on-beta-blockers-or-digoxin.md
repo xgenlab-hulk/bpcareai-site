@@ -1,10 +1,7 @@
 ---
 title: 'Holiday Heart Syndrome Questions Cardiologists Miss on Beta-Blockers'
-  Holiday Heart on Beta-Blockers? (5 Questions to Ask Your Doctor)
-slug: >-
-  holiday-heart-beta-blockers-digoxin
+slug: holiday-heart-beta-blockers-digoxin
 description: 'Beta-blockers mask tachycardia (racing heart) during holiday heart syndrome, delaying diagnosis 2-4 hours. Five questions cardiologists miss on beta-blockers.'
-  On beta-blockers or digoxin this holiday? Discover 5 missed triggers of holiday heart syndrome—nocturnal vagal shifts, cold-air ectopy, potassium flux—and questions that prevent AFib flares.
 date: '2025-12-24'
 updated: '2026-03-27'
 primaryKeyword: 'holiday heart syndrome with beta blockers and digoxin'
@@ -12,10 +9,8 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
-    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
   - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 ---

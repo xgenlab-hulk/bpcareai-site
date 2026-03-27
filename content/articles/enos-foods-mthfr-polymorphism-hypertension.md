@@ -1,14 +1,7 @@
 ---
 title: 'Foods That Support eNOS With MTHFR Variants and Hypertension'
-  12 Foods That Support Endothelial Nitric Oxide Synthase Activity *Without*
-  Increasing Homocysteine — For Adults 57–66 With Mild Hypertension and MTHFR
-  Polymorphisms
-slug: >-
-  12-foods-that-support-endothelial-nitric-oxide-synthase-activity-without-increasing-homocysteine-for-adults-57-66-with-mild-hypertension-and-mthfr-polymorphisms
+slug: 12-foods-that-support-endothelial-nitric-oxide-synthase-activity-without-increasing-homocysteine-for-adults-57-66-with-mild-hypertension-and-mthfr-polymorphisms
 description: 'MTHFR variants (folate gene mutations) reduce eNOS (nitric oxide enzyme) activity, raising BP. Methylfolate-rich leafy greens and beets restore NO production.'
-  Lists nutrient-dense, folate-activated foods (e.g., fermented lentils, roasted
-  beet greens, roasted walnuts) that boost eNOS expression while bypassing
-  methylation bottlenecks common in C677T carriers.
 date: '2026-02-23'
 updated: '2026-03-27'
 primaryKeyword: 'foods to support eNOS function MTHFR hypertension'
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-boost-endothelial-no-synthase-activity-in-adults-54-69-with-elevated-adma-and-normal-ldl-c
   - >-
-    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-recoupling-within-72-hours-for-adults-64-77-with-hypertension-high-adma-and-frequent-nsaid-use
   - >-
-    10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
   - >-
-    5-foods-that-support-endothelial-nitric-oxide-bioavailability-without-increasing-dietary-nitrates-for-adults-66-with-gastric-atrophy-and-low-intrinsic-factor
 ---
 
 # 12 eNOS Foods for MTHFR Polymorphism Hypertension — Gentle, Evidence-Informed Choices for Adults 57–66

@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About 'Normal' BP Variability: Why 24-Hour SD >15 mmHg Predicts
-  Microinfarct Burden in Adults 69+ With White Matter Hyperintensities
-slug: >-
-  the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities
+slug: the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities
 description: >-
-  Debunks the myth of benign BP lability in aging brains, linking excessive
-  circadian amplitude to cerebral small-vessel endothelial injury and silent
-  infarct progression.
 date: '2026-03-02'
 updated: '2026-03-02'
 primaryKeyword: blood pressure variability and brain health
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
   - >-
-    what-research-says-about-blood-pressure-variability-as-a-predictor-of-cognitive-decline-in-women-60-74-with-normal-mean-bp-but-high-visit-to-visit-sd
   - >-
-    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
   - >-
-    myths-vs-facts-my-bp-is-fine-because-i-feel-fine-why-asymptomatic-hypertension-is-especially-dangerous-in-adults-75-with-silent-white-matter-lesions
   - >-
-    what-research-says-about-blood-pressure-variability-in-adults-58-67-with-early-parkinson-s-disease-before-motor-symptoms-emerge
 ---
 
 # What Blood Pressure Variability and Brain Health Really Mean After 69 — And Why “Normal Fluctuations” Aren’t Always Benign

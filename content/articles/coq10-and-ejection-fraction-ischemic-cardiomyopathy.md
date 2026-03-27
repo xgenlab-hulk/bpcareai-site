@@ -1,14 +1,7 @@
 ---
 title: 'CoQ10 and Ejection Fraction in Ischemic Cardiomyopathy: Evidence'
-  Does Daily 400 mg Coenzyme Q10 *Really* Improve Ejection Fraction in Adults
-  66+ With Ischemic Cardiomyopathy on Max-Tolerated GDMT? — New Data From the
-  Q-CORE Trial
-slug: >-
-  does-daily-400-mg-coenzyme-q10-really-improve-ejection-fraction-in-adults-66-with-ischemic-cardiomyopathy-on-max-tolerated-gdmt-new-data-from-the-q-core-trial
+slug: does-daily-400-mg-coenzyme-q10-really-improve-ejection-fraction-in-adults-66-with-ischemic-cardiomyopathy-on-max-tolerated-gdmt-new-data-from-the-q-core-trial
 description: 'CoQ10 at 200-300 mg/day improved heart pumping strength (ejection fraction) by 3-5% in RCTs of adults with ischemic cardiomyopathy and baseline EF under 40%.'
-  Reviews blinded RCT findings on CoQ10’s impact on LVEF, peak VO2, and
-  hospitalization rates in advanced ischemic heart failure patients already on
-  guideline-directed therapy.
 date: '2026-02-27'
 updated: '2026-03-27'
 primaryKeyword: 'CoQ10 ejection fraction ischemic cardiomyopathy evidence'
@@ -16,9 +9,7 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure
   - >-
-    what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
   - metformin-mitochondrial-dna-copy-number
   - foods-cardiac-fibroblast-quiescence-seniors
   - mitochondrial-quality-control-in-cardiomyocytes

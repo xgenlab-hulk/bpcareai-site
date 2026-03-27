@@ -1,7 +1,6 @@
 ---
 title: "Sugar-Free Desserts: Hidden Risks for Men 70+ With Fructose Issues"
-slug: >-
-  the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
+slug: the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
 description: Sugar alcohols like sorbitol cause diarrhea in 60% of people with poor fructose absorption (fructose malabsorption). Allulose-based swaps protect liver fat.
 date: '2026-01-29'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
   - >-
-    the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
 ---
 
 # Safer Holiday Sweets: Understanding Sugar-Free Desserts for Fructose Malabsorption Seniors

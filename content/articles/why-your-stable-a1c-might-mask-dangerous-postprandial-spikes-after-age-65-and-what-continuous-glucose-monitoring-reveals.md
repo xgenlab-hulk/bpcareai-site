@@ -1,13 +1,7 @@
 ---
 title: >-
-  Why Your 'Stable' A1c Might Mask Dangerous Postprandial Spikes After Age
-  65—And What Continuous Glucose Monitoring Reveals
-slug: >-
-  why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
+slug: why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
 description: >-
-  Explains why A1c alone is insufficient for older adults, highlighting glycemic
-  variability, time-in-range deficits, and the clinical impact of post-meal
-  hyperglycemia on vascular aging.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: a1c limitations and postprandial glucose in seniors
@@ -16,13 +10,9 @@ image: ''
 relatedSlugs:
   - understanding-a1c-goals-for-seniors-with-diabetes
   - >-
-    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 ---
 
 # Why A1c Alone Isn’t Enough: Understanding a1c Limitations and Postprandial Glucose in Seniors

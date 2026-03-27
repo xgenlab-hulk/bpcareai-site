@@ -1,7 +1,6 @@
 ---
 title: Why Your A1c May Be Wrong After 77 — Anemia and CKD Explained
-slug: >-
-  myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
+slug: myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
 description: Anemia shortens red blood cell life from 120 to 70-90 days, falsely lowering A1c by 0.5-1.0%. A wearable glucose monitor (CGM) gives a truer picture after 77.
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-stable-a1c-and-rising-fasting-glucose-especially-in-adults-68-84-with-type-2-diabetes-chronic-kidney-disease-stage-3-and-declining-albumin
   - >-
-    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
-    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
   - understanding-a1c-goals-for-seniors-with-diabetes
   - >-
-    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
 ---
 
 # Why Your A1c Might Be Lying: Understanding A1c Inaccuracy in Anemia, CKD, and Older Adults

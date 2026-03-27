@@ -1,7 +1,6 @@
 ---
 title: "Fermented vs. Regular Cranberry Sauce: Which Helps BP After 73?"
-slug: >-
-  what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
+slug: what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
 description: Fermented cranberry sauce improved artery relaxation (flow-mediated dilation) by 2.1% at 90 min vs. 0.4% for regular — only low-sugar versions helped.
 date: '2026-02-04'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    why-cranberry-sauce-triggers-reflux-induced-nocturnal-hypertension-in-adults-68-with-hiatal-hernia-and-mild-sleep-apnea
   - >-
-    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
   - >-
-    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
   - >-
-    a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes
   - >-
-    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
 ---
 
 # How Cranberry Sauce Fermentation Time Affects Endothelial Function in Older Adults With Hypertension

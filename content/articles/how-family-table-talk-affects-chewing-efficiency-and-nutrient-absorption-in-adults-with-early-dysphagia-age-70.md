@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Family Table Talk Affects Chewing Efficiency and Nutrient Absorption in
-  Adults With Early Dysphagia (Age 70+)
-slug: >-
-  how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
+slug: how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
 description: >-
-  Exploring the under-recognized link between conversational pacing, distracted
-  eating, and reduced mastication—leading to poor micronutrient bioavailability
-  and increased aspiration risk during festive meals.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: family conversation chewing efficiency dysphagia seniors
@@ -15,13 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # How Family Conversation Chewing Efficiency Impacts Swallowing and Nutrition in Seniors with Early Dysphagia

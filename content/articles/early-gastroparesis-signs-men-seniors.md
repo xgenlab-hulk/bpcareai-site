@@ -1,14 +1,7 @@
 ---
 title: 'Early Gastroparesis Signs in Men Over 65 With Diabetes'
-  What Are the Earliest Signs of Diabetic Gastroparesis in Men Over 60 — Before
-  Nausea or Vomiting Appear? — Detecting Gastric Slow-Wave Dysrhythmia via
-  Wearable EGG and Breath Hydrogen Profiling
-slug: >-
-  what-are-the-earliest-signs-of-diabetic-gastroparesis-in-men-over-60-before-nausea-or-vomiting-appear-detecting-gastric-slow-wave-dysrhythmia-via-wearable-egg-and-breath-hydrogen-profiling
+slug: what-are-the-earliest-signs-of-diabetic-gastroparesis-in-men-over-60-before-nausea-or-vomiting-appear-detecting-gastric-slow-wave-dysrhythmia-via-wearable-egg-and-breath-hydrogen-profiling
 description: 'Early gastroparesis (delayed stomach emptying) shows as fullness persisting over 2 hours after meals. Men over 65 with T2D have 3x higher prevalence than women.'
-  Introduces pre-symptomatic detection tools: cutaneous electrogastrography
-  (EGG) and breath H₂ after lactulose—identifying delayed gastric emptying 18–24
-  months before classic symptoms emerge.
 date: '2026-02-23'
 updated: '2026-03-27'
 primaryKeyword: 'early gastroparesis signs in men over 65'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
   - >-
-    warning-signs-of-asymptomatic-diabetic-gastropathy-detected-via-gastric-emptying-breath-test-in-adults-70-with-normal-hba1c-and-stable-symptoms
   - >-
-    warning-signs-your-holiday-blood-sugar-variability-is-masking-early-diabetic-gastroparesis-especially-in-women-61-with-long-term-t1d-or-lada
   - >-
-    12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying
   - >-
-    natural-ways-to-support-gastric-emptying-during-thanksgiving-dinner-not-just-after-for-adults-70-with-early-gastroparesis-and-type-2-diabetes
 ---
 
 # Early Gastroparesis Signs in Men Seniors: Spotting Trouble Before Nausea Starts

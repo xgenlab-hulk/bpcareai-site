@@ -1,7 +1,6 @@
 ---
 title: "Menthol Gels May Hide Fat Loss at Injection Sites After 66"
-slug: >-
-  how-chronic-use-of-cooling-topical-gels-with-menthol-alters-trpm8-dependent-insulin-sensitivity-in-subcutaneous-adipose-tissue-and-why-that-masks-early-lipodystrophy-in-adults-66-with-long-standing-insulin-therapy
+slug: how-chronic-use-of-cooling-topical-gels-with-menthol-alters-trpm8-dependent-insulin-sensitivity-in-subcutaneous-adipose-tissue-and-why-that-masks-early-lipodystrophy-in-adults-66-with-long-standing-insulin-therapy
 description: "Menthol activates cold receptors (TRPM8), suppressing fat breakdown ~30% and hiding early fat redistribution (lipodystrophy). Thermal imaging spots it first."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance
   - >-
-    does-daily-10-minute-cold-water-face-immersion-improve-first-phase-insulin-secretion-in-adults-58-65-with-prediabetes-and-normal-weight
   - >-
-    does-daily-use-of-holiday-scented-candles-alter-postprandial-insulin-sensitivity-via-trpa1-channel-activation-in-adults-65-with-obesity-and-t2d
   - >-
-    does-daily-4-minute-cold-shower-exposure-improve-insulin-signaling-in-adults-with-abdominal-obesity-and-prediabetes-aged-55-67
   - >-
-    does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss
 ---
 
 # How Menthol Gels Affect Insulin Sensitivity and Mask Lipodystrophy in Older Adults on Long-Term Insulin Therapy

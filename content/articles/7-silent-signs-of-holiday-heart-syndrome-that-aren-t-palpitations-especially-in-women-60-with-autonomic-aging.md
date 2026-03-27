@@ -1,7 +1,6 @@
 ---
 title: "7 Holiday Heart Signs Women Over 60 Miss That Aren't Palpitations"
-slug: >-
-  7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
+slug: 7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
 description: In women 60+, holiday heart shows as post-dessert fatigue and nighttime confusion — not racing beats. Weakened nerve control (autonomic aging) masks the signs.
 date: '2026-01-19'
 updated: '2026-03-26'
@@ -11,13 +10,9 @@ image: ''
 relatedSlugs:
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
-    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - >-
-    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
 ---
 
 # 7 Quiet Early Clues of Holiday Heart Syndrome in Women 60+ — Beyond Palpitations

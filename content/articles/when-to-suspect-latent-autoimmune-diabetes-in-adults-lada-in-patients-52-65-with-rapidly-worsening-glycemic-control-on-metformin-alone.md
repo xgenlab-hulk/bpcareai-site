@@ -1,7 +1,6 @@
 ---
 title: Could Your Type 2 Diabetes Actually Be LADA? Warning Signs at 52-65
-slug: >-
-  when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone
+slug: when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone
 description: If metformin fails within 2-3 years and BMI is under 25, slow-onset autoimmune diabetes (LADA) affects 5-10% of type 2 diagnoses. A GAD65 test confirms it.
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss
   - >-
-    when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
   - >-
-    when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement
   - >-
-    myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
   - >-
-    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
 ---
 
 # When to Consider LADA Diagnosis in Middle-Aged Adults: A Gentle Guide for Those Aged 52–65

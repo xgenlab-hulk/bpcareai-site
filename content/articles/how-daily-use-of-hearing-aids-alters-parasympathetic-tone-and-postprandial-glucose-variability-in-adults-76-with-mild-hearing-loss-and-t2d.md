@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Daily Use of Hearing Aids Alters Parasympathetic Tone and Postprandial
-  Glucose Variability in Adults 76+ With Mild Hearing Loss and T2D
-slug: >-
-  how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
+slug: how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
 description: >-
-  Examines the underrecognized neuroautonomic loop between auditory input, vagal
-  nucleus activation, and insulin secretion timing—supported by pilot HRV and
-  CGM data in older adults.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: hearing aids parasympathetic glucose variability
@@ -15,15 +9,10 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings
   - >-
-    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
   - >-
-    7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes
   - >-
-    how-sudden-hearing-loss-triggers-acute-hyperglycemia-in-adults-63-with-prediabetes-and-why-it-s-not-just-stress
   - >-
-    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
 ---
 
 # How Hearing Aids May Quietly Support Your Nervous System and Blood Sugar — Especially After Meals

@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Holiday Alcohol Consumption Triggers Atrial Fibrillation in Adults 55+
-  With Subclinical Left Atrial Enlargement — Even Without Binge Drinking
-slug: >-
-  how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking
+slug: how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking
 description: >-
-  Explores the electrophysiological link between moderate holiday drinking and
-  AFib onset in older adults with early structural heart changes, using
-  echocardiographic and Holter data.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: holiday alcohol atrial fibrillation risk
@@ -15,14 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - >-
-    how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - >-
-    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
   - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
 ---
 
 # Understanding Holiday Alcohol Atrial Fibrillation Risk in Adults 55+ With Early Heart Changes

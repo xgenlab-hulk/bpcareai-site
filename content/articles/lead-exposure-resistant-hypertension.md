@@ -1,14 +1,7 @@
 ---
 title: 'Old House Renovation Dust and Resistant Hypertension After 57'
-  How Chronic Low-Dose Lead Exposure From Vintage Home Renovation Dust Alters
-  Heme Synthesis and Nitric Oxide Bioavailability in Adults 57–74 With Resistant
-  Hypertension
-slug: >-
-  how-chronic-low-dose-lead-exposure-from-vintage-home-renovation-dust-alters-heme-synthesis-and-nitric-oxide-bioavailability-in-adults-57-74-with-resistant-hypertension
+slug: how-chronic-low-dose-lead-exposure-from-vintage-home-renovation-dust-alters-heme-synthesis-and-nitric-oxide-bioavailability-in-adults-57-74-with-resistant-hypertension
 description: 'Lead dust from pre-1978 paint blocks an enzyme (ALAD) that helps arteries relax — raising BP 8-12 mmHg even on 3 medications. Test above 5 mcg/dL.'
-  Links environmental heavy metal burden to ALAD inhibition, oxidative stress in
-  vascular smooth muscle, and impaired NO-mediated vasodilation — with chelation
-  safety thresholds and testing guidance.
 date: '2026-01-15'
 updated: '2026-03-27'
 primaryKeyword: 'can old house dust cause hard to treat high blood pressure'
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
-    how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
   - >-
-    how-low-dose-naltrexone-ldn-affects-endothelial-inflammation-and-bp-variability-in-adults-56-70-with-long-standing-rheumatoid-arthritis-and-stage-1-hypertension
 ---
 
 # How Lead Exposure Resistant Hypertension May Be Tied to Older Homes—and What You Can Do About It

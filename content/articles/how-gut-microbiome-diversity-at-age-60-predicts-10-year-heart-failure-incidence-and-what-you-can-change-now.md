@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Gut Microbiome Diversity at Age 60 Predicts 10-Year Heart Failure
-  Incidence—And What You Can Change Now
-slug: >-
-  how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
+slug: how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
 description: >-
-  Explains the Akkermansia–butyrate–TMAO axis, interprets stool test biomarkers,
-  and outlines clinically validated prebiotic protocols for cardiac risk
-  reduction.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: gut microbiome and heart failure prediction
@@ -15,13 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
   - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
   - could-your-heartbeats-per-minute-predict-longevity
   - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
-    how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies
 ---
 
 # How Gut Microbiome Diversity at Age 60 Helps Predict Heart Failure Risk—and What You Can Do Today

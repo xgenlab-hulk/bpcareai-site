@@ -2,7 +2,6 @@
 title: 'Oral Estradiol Raising Your BP? What Women 65+ Should Know'
 slug: oral-estradiol-bp-rise-women-65-hrt
 description: '15-25% of women 65+ on oral estradiol see gradual BP creep (systolic drift) from fluid retention (RAAS activation). 3 signs it is time to switch to a patch.'
-  Taking oral estradiol? Discover why 20% of women 65+ experience gradual BP rise, 3 early warning signs of systolic drift, and when switching to transdermal saves your heart—backed by research.
 date: '2026-02-27'
 updated: '2026-03-28'
 primaryKeyword: 'oral estradiol blood pressure rise women over 65'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
   - >-
-    12-things-every-woman-over-72-should-know-about-nocturnal-hypertension-especially-after-bilateral-oophorectomy-and-long-term-aromatase-inhibitor-use
   - >-
-    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
   - >-
-    7-hidden-stressors-that-elevate-nighttime-systolic-pressure-in-women-over-68-even-with-normal-daytime-readings
   - >-
-    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
 ---
 
 # Oral Estradiol Raising Your Blood Pressure? What Women 65+ Need to Know

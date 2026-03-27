@@ -1,13 +1,7 @@
 ---
 title: 'Why Diastolic BP Drops When You Sit Up After 69'
-  What Causes Sudden Diastolic Drop After Sitting Up From Supine in Adults 69+
-  With Left Ventricular Hypertrophy and Reduced Early Diastolic Filling?
-slug: >-
-  what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
+slug: what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
 description: 'A thickened heart wall (left ventricular hypertrophy) makes filling depend on atrial kick. Sitting up drops diastolic 10-15 mmHg, causing dizziness.'
-  Examines the interplay of ventricular stiffness, atrial kick dependency, and
-  vagal withdrawal during positional change — with echocardiographic correlates
-  and seated recovery protocols.
 date: '2026-01-15'
 updated: '2026-03-27'
 primaryKeyword: 'diastolic blood pressure drops when sitting up'
@@ -15,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
   - >-
-    12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing
   - >-
-    12-science-backed-ways-to-reduce-left-ventricular-stiffness-without-medication-focusing-on-titin-phosphorylation-sodium-intake-timing-and-deep-exhalation-duration
   - >-
-    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
   - >-
-    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
 ---
 
 # Why You Might Feel Dizzy When Sitting Up: Understanding Diastolic Drop Sitting Up Elderly

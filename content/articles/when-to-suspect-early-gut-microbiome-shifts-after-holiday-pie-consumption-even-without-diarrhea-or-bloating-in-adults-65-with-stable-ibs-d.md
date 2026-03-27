@@ -1,11 +1,7 @@
 ---
 title: Your Gut May Shift After Holiday Pie — Even Without Bloating
-slug: >-
-  when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
+slug: when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
 description: >-
-  No diarrhea doesn’t mean your gut flora (microbiome) is fine. Changed stool
-  odor, slower transit, and fatigue from butyrate dips appear before IBS-D
-  flares.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: signs holiday pie changed your gut bacteria without symptoms
@@ -13,15 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
   - >-
-    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
   - >-
-    how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af
   - >-
-    what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
   - >-
-    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
 ---
 
 # When Holiday Pie Might Quietly Shift Your Gut Microbiome — Even Without Obvious Symptoms (Especially After 65)

@@ -2,8 +2,6 @@
 title: Meal Timing Strategies for Better Blood Sugar Control After 50
 slug: meal-timing-strategies-for-better-blood-sugar-control-after-50
 description: >-
-  Optimize when you eat to align with natural insulin rhythms and medication
-  schedules.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: meal timing for blood sugar control over 50

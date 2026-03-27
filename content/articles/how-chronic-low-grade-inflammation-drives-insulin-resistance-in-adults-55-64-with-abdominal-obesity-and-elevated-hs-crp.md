@@ -1,7 +1,6 @@
 ---
 title: Belly Fat, Inflammation, and Insulin Resistance in Your Late 50s
-slug: >-
-  how-chronic-low-grade-inflammation-drives-insulin-resistance-in-adults-55-64-with-abdominal-obesity-and-elevated-hs-crp
+slug: how-chronic-low-grade-inflammation-drives-insulin-resistance-in-adults-55-64-with-abdominal-obesity-and-elevated-hs-crp
 description: Abdominal fat releases inflammation signals (IL-6, TNF-alpha) that block insulin receptors, raising hs-CRP above 3 mg/L. A 5-8% visceral fat loss breaks it.
 date: '2026-01-29'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-grade-inflammation-drives-beta-cell-decline-in-adults-52-64-with-long-standing-prediabetes-and-elevated-hs-crp
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
   - >-
-    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
 ---
 
 # How Inflammation, Insulin Resistance, and Abdominal Obesity Interact in Your 50s and Early 60s

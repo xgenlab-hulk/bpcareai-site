@@ -2,8 +2,6 @@
 title: 'Isolated Systolic Hypertension: What It Means for Older Adults'
 slug: isolated-systolic-hypertension-what-it-means-for-older-adults
 description: >-
-  Understand this common form of high blood pressure in seniors and how it's
-  managed differently.
 date: '2025-12-04'
 updated: '2025-12-04'
 primaryKeyword: isolated systolic hypertension in elderly

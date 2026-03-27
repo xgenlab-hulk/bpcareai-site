@@ -1,14 +1,7 @@
 ---
 title: 'How Arsenic in Well Water Speeds Up Artery Hardening in Seniors Over 67'
-  10 Hidden Sources of Arsenic Exposure in Well Water-Dependent Senior
-  Communities — And How Low-Dose Chronic Exposure May Accelerate Vascular
-  Calcification in Adults 67+
-slug: >-
-  10-hidden-sources-of-arsenic-exposure-in-well-water-dependent-senior-communities-and-how-low-dose-chronic-exposure-may-accelerate-vascular-calcification-in-adults-67
+slug: 10-hidden-sources-of-arsenic-exposure-in-well-water-dependent-senior-communities-and-how-low-dose-chronic-exposure-may-accelerate-vascular-calcification-in-adults-67
 description: 'Private wells are unregulated by the EPA for arsenic—a tasteless compound. Chronic low-dose exposure raises pulse wave velocity and links to HFpEF (heart failure with preserved ejection fraction).'
-  Identifies geographic and infrastructural arsenic risks in rural senior
-  populations, linking exposure to medial calcification, pulse wave velocity,
-  and HFpEF incidence.
 date: '2026-02-15'
 updated: '2026-03-27'
 primaryKeyword: 'how arsenic in well water accelerates artery hardening in seniors over 67'
@@ -16,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use
   - >-
-    10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease
   - >-
-    how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd
   - >-
-    what-are-the-earliest-signs-of-arterial-stiffness-before-bp-rises-especially-in-women-over-63-with-a-history-of-preeclampsia-and-now-on-aromatase-inhibitors
   - >-
-    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
 ---
 
 # How Arsenic Exposure and Vascular Calcification Affect Heart Health in Older Adults Relying on Well Water

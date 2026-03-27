@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Truth About 'Senior-Friendly' Holiday Protein Bars — Why 91% Contain
-  Hidden Maltitol That Delays Gastric Emptying in Adults 68+ With Gastroparesis
-slug: >-
-  the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis
+slug: the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis
 description: >-
-  Investigates how sugar alcohols in commercially marketed holiday protein bars
-  worsen postprandial fullness, nausea, and glucose volatility in older adults
-  with delayed gastric motility.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: senior-friendly protein bars gastroparesis maltitol
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose
   - >-
-    the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
   - >-
-    the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 ---
 
 # Why “Senior-Friendly” Holiday Protein Bars Might Be Slowing Your Stomach Down — Especially If You Have Gastroparesis and Maltitol Sensitivity

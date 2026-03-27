@@ -2,8 +2,6 @@
 title: 'Can Morning Joint Stiffness Be a Warning Sign of Heart-Damaging Inflammation'
 slug: are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart
 description: 'Morning stiffness lasting over 30 minutes elevates CRP and IL-6, systemic inflammatory markers tied to a 50% higher heart attack and stroke risk—even without diagnosed arthritis.'
-  Examine how chronic joint stiffness may reflect systemic inflammation tied to
-  heart disease.
 date: '2025-11-26'
 updated: '2026-03-27'
 primaryKeyword: 'can morning joint stiffness be a sign of heart inflammation'

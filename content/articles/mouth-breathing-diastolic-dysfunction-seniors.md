@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Chronic Nighttime Mouth Breathing Alters Left Ventricular Filling Pressure
-  — Evidence From Cardiac MRI in Adults 58–72 With Untreated Mild
-  Sleep-Disordered Breathing
-slug: >-
-  how-chronic-nighttime-mouth-breathing-alters-left-ventricular-filling-pressure-evidence-from-cardiac-mri-in-adults-58-72-with-untreated-mild-sleep-disordered-breathing
+slug: how-chronic-nighttime-mouth-breathing-alters-left-ventricular-filling-pressure-evidence-from-cardiac-mri-in-adults-58-72-with-untreated-mild-sleep-disordered-breathing
 description: >-
-  Explores the hemodynamic impact of habitual oral breathing during sleep on
-  diastolic function, using advanced imaging to link upper airway mechanics to
-  early heart failure risk in midlife and older adults.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: mouth breathing diastolic dysfunction seniors
@@ -16,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef
   - >-
-    a-vs-b-slow-paced-breathing-at-5-5-breaths-minute-vs-6-0-breaths-minute-for-acute-diastolic-pressure-reduction-in-adults-60-64-with-early-lv-diastolic-dysfunction
   - >-
-    what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
   - >-
-    best-breathing-patterns-to-reduce-right-atrial-pressure-during-stair-climbing-in-adults-68-with-tricuspid-regurgitation-and-elevated-jugular-venous-pressure
   - >-
-    7-silent-signs-your-left-ventricular-diastolic-function-is-declining-especially-if-you-still-pass-standard-ekgs-and-walk-5-000-steps-daily
 ---
 
 # How Nighttime Mouth Breathing May Affect Diastolic Function in Seniors — What Cardiac MRI Reveals

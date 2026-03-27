@@ -1,10 +1,7 @@
 ---
 title: '12 Science-Backed Ways to Curb Holiday Salt Cravings With Hypertension'
-  Holiday Salt Cravings Driving Your BP Up? (Seniors Guide)
-slug: >-
-  salt-cravings-hypertension-seniors
+slug: salt-cravings-hypertension-seniors
 description: 'Salty holiday foods trigger aldosterone (the sodium-retaining hormone), raising systolic pressure 8-12 mmHg in salt-sensitive seniors. Twelve strategies help.'
-  Struggling with salt cravings during holidays? Discover 12 proven ways to reduce sodium urges naturally—zinc, umami herbs, and more. Essential for seniors with high BP.
 date: '2025-12-22'
 updated: '2026-03-27'
 primaryKeyword: 'reduce salt cravings during holidays with hypertension'
@@ -12,7 +9,6 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - 7-smart-swaps-for-healthier-holiday-meals-after-65

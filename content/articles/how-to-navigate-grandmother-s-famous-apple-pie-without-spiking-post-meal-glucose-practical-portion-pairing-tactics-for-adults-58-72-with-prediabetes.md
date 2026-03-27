@@ -1,14 +1,7 @@
 ---
 title: >-
-  How to Navigate Grandmother’s Famous Apple Pie Without Spiking Post-Meal
-  Glucose — Practical Portion & Pairing Tactics for Adults 58–72 With
-  Prediabetes
-slug: >-
-  how-to-navigate-grandmother-s-famous-apple-pie-without-spiking-post-meal-glucose-practical-portion-pairing-tactics-for-adults-58-72-with-prediabetes
+slug: how-to-navigate-grandmother-s-famous-apple-pie-without-spiking-post-meal-glucose-practical-portion-pairing-tactics-for-adults-58-72-with-prediabetes
 description: >-
-  A step-by-step guide to enjoying traditional holiday desserts mindfully—using
-  strategic food sequencing, fiber-first pairing, and real-time glucose
-  awareness techniques tailored for early metabolic dysregulation.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: manage apple pie with prediabetes
@@ -16,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
   - >-
-    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
   - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
-    7-hidden-blood-sugar-spikes-you-re-unknowingly-causing-at-thanksgiving-dinner-and-how-to-prevent-them-without-skipping-pie
 ---
 
 # How to Safely Enjoy Apple Pie with Prediabetes: A Practical, Science-Backed Guide for Adults 58–72

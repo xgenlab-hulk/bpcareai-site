@@ -1,13 +1,7 @@
 ---
 title: >-
-  When to Worry About Bloating After Thanksgiving Dinner: A Red Flag Guide for
-  Women Over 70
-slug: >-
-  when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
+slug: when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
 description: >-
-  Distinguishes normal post-meal fullness from concerning bloating linked to
-  heart failure, kidney dysfunction, or medication interactions—specifically in
-  older women with comorbidities.
 date: '2025-12-17'
 updated: '2025-12-17'
 primaryKeyword: bloating after holiday meals seniors
@@ -15,7 +9,6 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults
   - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60

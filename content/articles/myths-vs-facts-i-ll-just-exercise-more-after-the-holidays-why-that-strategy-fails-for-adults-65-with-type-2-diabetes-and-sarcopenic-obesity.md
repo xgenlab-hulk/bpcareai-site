@@ -1,7 +1,6 @@
 ---
 title: "Why 'Exercise More After the Holidays' Fails With Diabetes at 65+"
-slug: >-
-  myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
+slug: myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
 description: "Adults 65+ with muscle loss (sarcopenic obesity) rebuild protein 40% slower, so a January gym push can't undo 3 weeks of insulin resistance and glycemic drift."
 date: '2026-01-18'
 updated: '2026-03-26'
@@ -10,13 +9,10 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
   - >-
-    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # Why the “Exercise More After Holidays” Myth Backfires for Adults 65+ With Type 2 Diabetes and Sarcopenic Obesity

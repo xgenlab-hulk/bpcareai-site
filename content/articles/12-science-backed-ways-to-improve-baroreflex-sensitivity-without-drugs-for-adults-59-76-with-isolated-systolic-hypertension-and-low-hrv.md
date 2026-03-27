@@ -1,7 +1,6 @@
 ---
 title: '12 Drug-Free Ways to Improve Your BP Reflex After 59'
-slug: >-
-  baroreflex-sensitivity-ish-hrv
+slug: baroreflex-sensitivity-ish-hrv
 description: 'Slow breathing at 6 breaths/min boosts your pressure reflex (baroreflex sensitivity) 23% in 4 weeks. 12 methods for adults 59-76 with stiff-artery high BP.'
 date: '2026-01-19'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
   - >-
-    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
   - >-
-    does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
   - >-
-    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
 ---
 
 # 12 Science-Backed Baroreflex Sensitivity Improvement Methods for Adults 59–76 With Isolated Systolic Hypertension

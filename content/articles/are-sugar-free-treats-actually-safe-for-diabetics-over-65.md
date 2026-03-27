@@ -2,8 +2,6 @@
 title: 'Are Sugar-Free Holiday Treats Actually Safe for Diabetics Over 65'
 slug: are-sugar-free-treats-actually-safe-for-diabetics-over-65
 description: 'Maltitol raises blood sugar nearly half as much as regular sugar and causes GI distress in large amounts. Erythritol and stevia are better tolerated, but portion size still matters after 65.'
-  Analyze the pros and cons of artificial sweeteners in holiday foods for older
-  adults managing blood sugar.
 date: '2025-11-28'
 updated: '2026-03-27'
 primaryKeyword: 'are sugar-free holiday treats safe for diabetics over 65'

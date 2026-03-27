@@ -1,7 +1,6 @@
 ---
 title: 'Boost Nitric Oxide Naturally After 60: A 12-Week Plan'
-slug: >-
-  natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+slug: natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
 description: 'Timed beetroot juice 2-3 hours pre-exercise raised artery flexibility (flow-mediated dilation) 23% in 8 weeks. Sunlight adds 12% via skin nitrate stores.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60
   - >-
-    natural-ways-to-enhance-myocardial-nitric-oxide-synthase-coupling-without-l-arginine-using-beetroot-derived-nitrate-exercise-timing-and-oral-microbiome-support-in-sedentary-adults-68
   - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
   - >-
-    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
   - >-
-    natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad
 ---
 
 # How to Boost Nitric Oxide Naturally in Seniors: A 12-Week Science-Backed Plan for Healthier Blood Vessels

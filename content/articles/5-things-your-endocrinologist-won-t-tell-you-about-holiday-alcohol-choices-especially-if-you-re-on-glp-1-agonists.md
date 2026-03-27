@@ -2,7 +2,6 @@
 title: 'Holiday Alcohol Risks on GLP-1 Medications Your Doctor May Not Mention'
 slug: glp1-holiday-alcohol-timing-risks
 description: 'GLP-1 agonists delay gastric emptying by 50%, shifting low blood sugar (hypoglycemia) risk to 3-6 hours post-drink—past when most people stop monitoring.'
-  On GLP-1s and enjoying holiday drinks? Discover why delayed absorption changes hypoglycemia timing, 3 safety checks before sipping, and proven pairing strategies.
 date: '2026-02-26'
 updated: '2026-03-27'
 primaryKeyword: 'holiday alcohol safety tips when taking GLP-1 medications'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
   - >-
-    the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
   - >-
-    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
   - >-
-    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
   - >-
-    why-your-grandchild-s-candy-stocking-may-trigger-reactive-hypoglycemia-especially-if-you-re-on-glp-1-ras-or-meglitinides
 ---
 
 # What You *Really* Need to Know About Alcohol and GLP-1 Agonists This Holiday Season

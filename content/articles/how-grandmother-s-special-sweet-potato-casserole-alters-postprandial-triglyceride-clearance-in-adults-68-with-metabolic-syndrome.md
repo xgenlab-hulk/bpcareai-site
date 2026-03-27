@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Grandmother’s ‘Special’ Sweet Potato Casserole Alters Postprandial
-  Triglyceride Clearance in Adults 68+ With Metabolic Syndrome
-slug: >-
-  how-grandmother-s-special-sweet-potato-casserole-alters-postprandial-triglyceride-clearance-in-adults-68-with-metabolic-syndrome
+slug: how-grandmother-s-special-sweet-potato-casserole-alters-postprandial-triglyceride-clearance-in-adults-68-with-metabolic-syndrome
 description: >-
-  Explores the delayed lipid clearance effect of added marshmallows, brown
-  sugar, and dairy fat in classic casseroles — and offers a fiber-optimized,
-  low-glycemic-index version proven to reduce 4-hour triglyceride spikes by 32%
-  in clinical trials.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: "health management adults 68+"
@@ -16,15 +9,10 @@ topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-dessert-sharing-with-grandchildren-affects-overnight-triglyceride-clearance-in-adults-60-71-with-metabolic-syndrome
   - >-
-    10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
   - >-
-    a-vs-b-slow-cooked-herb-roasted-chicken-breast-skinless-no-broth-vs-holiday-style-chicken-pot-pie-frozen-pre-portioned-impact-on-4-hour-postprandial-triglyceride-clearance-in-adults-60-72-with-hypertriglyceridemia
   - >-
-    can-you-eat-leftover-mashed-potatoes-cold-the-next-morning-without-spiking-glucose-a-glycemic-index-comparison-for-adults-64-with-gastroparesis-like-symptoms
   - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # How a Classic Sweet Potato Casserole Affects Triglyceride Clearance in Adults 68+ With Metabolic Syndrome  

@@ -2,8 +2,6 @@
 title: 'Diabetes and Vision Changes: What Seniors With T2D Need to Know'
 slug: diabetes-and-vision-changes-what-seniors-need-to-know
 description: 'Fluctuating blood sugar (glucose) causes lens swelling that shifts vision by up to 2 diopters; seniors 60+ may notice blurring within days of poor control.'
-  Understand the connection between high blood sugar and age-related vision
-  problems like diabetic retinopathy.
 date: '2025-11-27'
 updated: '2026-03-27'
 primaryKeyword: 'diabetes vision changes seniors what to know'

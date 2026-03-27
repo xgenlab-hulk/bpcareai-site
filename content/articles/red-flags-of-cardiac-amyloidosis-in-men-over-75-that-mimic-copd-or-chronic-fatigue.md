@@ -1,13 +1,7 @@
 ---
 title: >-
-  Red Flags of Cardiac Amyloidosis in Men Over 75 That Mimic COPD or Chronic
-  Fatigue
-slug: >-
-  red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+slug: red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
 description: >-
-  Details diagnostic pitfalls: preserved ejection fraction with restrictive
-  filling, carpal tunnel revision history, and low-voltage ECG with
-  disproportionate troponin elevation.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: cardiac amyloidosis red flags in elderly men
@@ -15,13 +9,9 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
   - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
-    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
-    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
   - heart-disease-risks-for-retirees-living-in-high-altitude-areas
 ---
 

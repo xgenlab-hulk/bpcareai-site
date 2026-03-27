@@ -1,7 +1,6 @@
 ---
 title: 'Holiday Snacks for Autonomic Neuropathy to Prevent Low BP After Meals'
-slug: >-
-  best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
+slug: best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
 description: 'Slow-carb, sodium-balanced pairings that prevent BP drops after eating — up to 30% of adults over 60 with diabetes experience postprandial hypotension.'
 date: '2026-01-01'
 updated: '2026-03-27'
@@ -11,12 +10,9 @@ image: ''
 relatedSlugs:
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-
-    natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - >-
-    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 ---
 
 # Holiday Snack Pairings That Support Steady Blood Pressure and Glucose—Especially With Autonomic Neuropathy

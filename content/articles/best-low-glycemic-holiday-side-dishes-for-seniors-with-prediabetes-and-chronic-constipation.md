@@ -1,7 +1,6 @@
 ---
 title: 'Low-Glycemic Holiday Sides for Prediabetes and Constipation in Seniors'
-slug: >-
-  best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+slug: best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 description: 'Barley mushrooms and roasted fennel balance soluble and bulking fiber — adults over 65 experience up to 30% slower colonic motility than younger adults.'
 date: '2025-12-30'
 updated: '2026-03-27'
@@ -11,9 +10,7 @@ image: ''
 relatedSlugs:
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - >-
-    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
   - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
 ---

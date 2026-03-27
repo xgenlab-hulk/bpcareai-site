@@ -1,14 +1,7 @@
 ---
 title: >-
-  7 Hidden Heart Health Risks of Long-Term Statin Use in Adults 65+ With
-  Polypharmacy — Mitochondrial CoQ10 Depletion, Skeletal Muscle Microtears, and
-  Late-Onset Fatigue Patterns
-slug: >-
-  7-hidden-heart-health-risks-of-long-term-statin-use-in-adults-65-with-polypharmacy-mitochondrial-coq10-depletion-skeletal-muscle-microtears-and-late-onset-fatigue-patterns
+slug: 7-hidden-heart-health-risks-of-long-term-statin-use-in-adults-65-with-polypharmacy-mitochondrial-coq10-depletion-skeletal-muscle-microtears-and-late-onset-fatigue-patterns
 description: >-
-  Examines under-discussed cardiovascular trade-offs of statins in older adults
-  taking 5+ medications, focusing on mitochondrial dysfunction, muscle
-  integrity, and fatigue as early red flags for subclinical heart strain.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: statin side effects heart health seniors
@@ -16,13 +9,9 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
-    can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure
   - >-
-    5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy
   - >-
-    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 ---
 

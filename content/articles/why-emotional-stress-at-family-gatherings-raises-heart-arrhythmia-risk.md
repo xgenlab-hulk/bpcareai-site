@@ -2,8 +2,6 @@
 title: Why Emotional Stress at Family Gatherings Raises Heart Arrhythmia Risk
 slug: why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
 description: >-
-  Examines the connection between intense family dynamics during holidays and
-  sudden cardiac rhythm disturbances in midlife and older adults.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: emotional stress and heart arrhythmia

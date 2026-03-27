@@ -1,7 +1,6 @@
 ---
 title: 'On Insulin at a Potluck? 5 Safety Tips for Adults 70+'
-slug: >-
-  insulin-potluck-blood-sugar-70s
+slug: insulin-potluck-blood-sugar-70s
 description: 'Potluck dishes average 35-50g carbs per scoop with no labels. Pre-bolus 15 min early and eat protein first to cut blood sugar spikes (postprandial glucose) 25%.'
 date: '2026-01-24'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
   - >-
-    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
   - >-
-    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
   - >-
-    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 ---
 
 # How Can Insulin Users 70+ Navigate Potluck Parties Without Blood Sugar Chaos or Hypoglycemia?

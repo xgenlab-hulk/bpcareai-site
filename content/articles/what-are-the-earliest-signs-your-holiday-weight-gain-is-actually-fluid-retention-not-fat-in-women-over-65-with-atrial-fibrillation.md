@@ -1,12 +1,7 @@
 ---
 title: >-
-  What Are the Earliest Signs Your Holiday Weight Gain Is Actually Fluid
-  Retention — Not Fat — in Women Over 65 With Atrial Fibrillation?
-slug: >-
-  what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
+slug: what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
 description: >-
-  Helps differentiate cardiorenal fluid shifts from adipose accumulation using
-  pulse pressure trends, ankle pitting patterns, and nocturnal orthopnea cues.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: holiday weight gain fluid retention afib seniors
@@ -14,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
-    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
   - >-
-    warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
   - >-
-    what-are-the-earliest-signs-of-holiday-induced-hypercoagulability-in-adults-71-with-atrial-fibrillation-and-sedentary-winter-habits
 ---
 
 # Is Your Holiday Weight Gain Fluid Retention — Not Fat? What Women Over 65 With Atrial Fibrillation Should Know  

@@ -1,13 +1,7 @@
 ---
 title: >-
-  How to Navigate a Potluck When You’re Managing Prediabetes and Taking GLP-1
-  Agonists—Without Triggering GI Distress or Blood Sugar Spikes
-slug: >-
-  how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
+slug: how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
 description: >-
-  Practical, medication-aware guidance for adults 55–69 on portion sequencing,
-  macro-balancing, and timing meals around injectable diabetes drugs during
-  multi-hour family events.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: potluck prediabetes glp-1 agonist safety
@@ -15,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
-    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
   - >-
-    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
-    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
 ---
 
 # How to Enjoy a Potluck Safely When You Have Prediabetes and Use GLP-1 Agonists  

@@ -1,7 +1,6 @@
 ---
 title: 'Low-Glycemic Holiday Sides for Type 2 Diabetes and Osteoarthritis'
-slug: >-
-  best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
+slug: best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
 description: 'No-chop, one-pot recipes that lower glycemic load and joint stress — elevated glucose drives AGEs that worsen cartilage breakdown in arthritic joints after 60.'
 date: '2025-12-22'
 updated: '2026-03-27'
@@ -13,7 +12,6 @@ relatedSlugs:
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - >-
-    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
 ---
 

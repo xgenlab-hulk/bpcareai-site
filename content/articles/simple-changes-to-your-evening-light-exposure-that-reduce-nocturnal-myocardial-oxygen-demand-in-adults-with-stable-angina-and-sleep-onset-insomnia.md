@@ -1,13 +1,7 @@
 ---
 title: >-
-  Simple Changes to Your Evening Light Exposure That Reduce Nocturnal Myocardial
-  Oxygen Demand in Adults With Stable Angina and Sleep-Onset Insomnia
-slug: >-
-  simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
+slug: simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
 description: >-
-  Details spectral intensity and timing of amber-filtered lighting to suppress
-  melatonin phase delay, lower sympathetic tone, and reduce nocturnal heart rate
-  and BP surges in angina patients.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: evening light exposure angina oxygen demand
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
-    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
   - >-
-    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
   - >-
-    how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment
 ---
 
 # How Evening Light Exposure Affects Angina Oxygen Demand — Simple, Science-Backed Adjustments for Better Nighttime Heart Health

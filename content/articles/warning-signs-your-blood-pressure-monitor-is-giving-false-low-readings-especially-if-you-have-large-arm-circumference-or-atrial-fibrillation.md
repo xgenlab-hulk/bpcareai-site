@@ -1,13 +1,7 @@
 ---
 title: >-
-  Warning Signs Your Blood Pressure Monitor Is Giving False-Low
-  Readings—Especially If You Have Large-Arm Circumference or Atrial Fibrillation
-slug: >-
-  warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
+slug: warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
 description: >-
-  Details calibration drift, cuff size errors, arrhythmia misreading, and
-  oscillometric algorithm limitations—plus 3 quick validation checks users can
-  perform at home.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: false low blood pressure readings
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
   - >-
-    5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
-    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - >-
-    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
 ---
 
 # When Your Blood Pressure Monitor Shows False Low Blood Pressure Readings—What to Watch For

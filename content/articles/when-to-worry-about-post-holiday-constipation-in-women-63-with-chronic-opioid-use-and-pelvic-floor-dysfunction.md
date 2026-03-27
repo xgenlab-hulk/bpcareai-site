@@ -1,7 +1,6 @@
 ---
 title: When Holiday Constipation Turns Dangerous for Women 63+ on Opioids
-slug: >-
-  when-to-worry-about-post-holiday-constipation-in-women-63-with-chronic-opioid-use-and-pelvic-floor-dysfunction
+slug: when-to-worry-about-post-holiday-constipation-in-women-63-with-chronic-opioid-use-and-pelvic-floor-dysfunction
 description: 3+ days without a bowel movement on opioids risks BP swings (autonomic dysreflexia) and urinary retention. Non-laxative steps help before impaction needs an ER.
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history
   - >-
-    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
   - >-
-    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
   - >-
-    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
   - >-
-    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
 ---
 
 # When Post-Holiday Constipation in Seniors on Opioids Needs Gentle Attention

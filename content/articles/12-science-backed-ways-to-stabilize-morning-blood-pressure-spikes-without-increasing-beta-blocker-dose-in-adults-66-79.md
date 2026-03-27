@@ -1,13 +1,7 @@
 ---
 title: 'Why Your Blood Pressure Surges Every Morning — Fixes for Ages 66-79'
-  12 Science-Backed Ways to Stabilize Morning Blood Pressure Spikes Without
-  Increasing Beta-Blocker Dose in Adults 66–79
-slug: >-
-  12-science-backed-ways-to-stabilize-morning-blood-pressure-spikes-without-increasing-beta-blocker-dose-in-adults-66-79
+slug: 12-science-backed-ways-to-stabilize-morning-blood-pressure-spikes-without-increasing-beta-blocker-dose-in-adults-66-79
 description: 'Morning BP surges hit 1 in 3 adults over 65. Pre-wake hydration and slow breathing lower the early spike (morning hypertension) 8-12 mmHg without new meds.'
-  Morning BP spiking? Get 12 nonpharmacologic strategies—pre-wake hydration,
-  light exposure, breathing—to lower surges without medication changes (ages
-  66-79).
 date: '2026-01-09'
 updated: '2026-03-27'
 primaryKeyword: 'morning blood pressure spike causes and fixes over 65'
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-
-    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
   - >-
-    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
-    how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
   - >-
-    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
 ---
 
 # Blood Pressure Surging Every Morning After Waking? Here's What Adults 66-79 Need to Know

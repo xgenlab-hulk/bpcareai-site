@@ -1,13 +1,7 @@
 ---
 title: '7 Holiday Heart Syndrome Triggers You\'re Experiencing After 55'
-  7 Hidden Triggers of Holiday Heart Syndrome You’re Experiencing Right
-  Now—Especially After Age 55
-slug: >-
-  7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+slug: 7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
 description: 'Heart rate variability drops 40% by age 60, making holiday stress arrhythmia-prone. 7 non-alcoholic holiday heart syndrome triggers for adults 55+ explained.'
-  Explores under-recognized, non-alcoholic triggers (e.g., sleep fragmentation,
-  sudden temperature shifts, emotional surges) that acutely strain the heart
-  during holidays—and why physiological resilience declines sharply after 55.
 date: '2025-12-21'
 updated: '2026-03-27'
 primaryKeyword: 'holiday heart syndrome triggers after age 55'
@@ -15,7 +9,6 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

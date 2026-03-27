@@ -1,7 +1,6 @@
 ---
 title: "Women 60+ With PCOS History: How Menopause Changes Your Diabetes"
-slug: >-
-  5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration
+slug: 5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration
 description: Androgens drop 50-70% after menopause, shifting insulin resistance and adding belly fat (visceral adiposity). Prior PCOS accelerates muscle loss ~1.5%/yr.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -11,12 +10,9 @@ image: ''
 relatedSlugs:
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
   - >-
-    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
   - >-
-    7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation
   - >-
-    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
 ---
 
 # What Women Over 60 with PCOS, Diabetes, and Menopause Should Know About Androgen Decline and Metabolic Shifts

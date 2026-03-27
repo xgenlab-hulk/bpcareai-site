@@ -1,13 +1,7 @@
 ---
 title: >-
-  Myths vs Facts: 'Salt Sensitivity' in Older Adults—Why Your BP May Rise With
-  2g Sodium Even If You’re Not 'Salt-Sensitive' by Classic Definitions
-slug: >-
-  myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions
+slug: myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions
 description: >-
-  Challenges outdated salt-sensitivity criteria by exposing age-related renal
-  sodium retention, aldosterone resistance, and how 'non-salt-sensitive' elders
-  still develop volume overload on modest sodium loads.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: salt sensitivity myth older adults sodium
@@ -17,11 +11,8 @@ relatedSlugs:
   - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - how-excessive-salt-intake-leads-to-heart-disease-over-time
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
-    myths-vs-facts-salt-sensitivity-in-black-adults-55-72-what-genomic-studies-reveal-about-enac-variants-potassium-excretion-and-real-world-dietary-response
   - >-
-    myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
 ---
 
 # Salt Sensitivity Myth in Older Adults: Why Even “Non-Sensitive” Elders See BP Rise With Just 2g Sodium Daily

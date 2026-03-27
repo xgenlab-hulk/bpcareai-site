@@ -1,14 +1,7 @@
 ---
 title: >-
-  7 Hidden Medication Interactions That Elevate Heart Failure Readmission Risk
-  Within 30 Days of Hospital Discharge—Especially in Adults 75+ With
-  Polypharmacy
-slug: >-
-  7-hidden-medication-interactions-that-elevate-heart-failure-readmission-risk-within-30-days-of-hospital-discharge-especially-in-adults-75-with-polypharmacy
+slug: 7-hidden-medication-interactions-that-elevate-heart-failure-readmission-risk-within-30-days-of-hospital-discharge-especially-in-adults-75-with-polypharmacy
 description: >-
-  Identifies high-risk drug combinations (e.g., NSAIDs + loop diuretics + SGLT2
-  inhibitors) that impair renal perfusion and natriuresis, with practical
-  pharmacist-led review checklists for caregivers.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: medication interactions heart failure readmission
@@ -16,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
-    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
   - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
-    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
 ---
 
 # 7 Hidden Medication Interactions That Raise Heart Failure Readmission Risk—Especially for Adults 75+ on Multiple Medications

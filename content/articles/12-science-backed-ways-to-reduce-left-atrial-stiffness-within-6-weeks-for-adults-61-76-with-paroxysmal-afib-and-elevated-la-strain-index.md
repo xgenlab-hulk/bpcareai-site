@@ -1,7 +1,6 @@
 ---
 title: 'AFib Getting Worse? 12 Ways to Soften a Stiff Heart Chamber'
-slug: >-
-  afib-heart-stiffness-adults-61-76
+slug: afib-heart-stiffness-adults-61-76
 description: 'A stiff upper chamber (left atrial stiffness) drives AFib in adults 61-76. Zone-2 exercise and time-restricted eating improved strain index 15-20% in 6 weeks.'
 date: '2026-01-27'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-reduce-left-ventricular-stiffness-without-medication-focusing-on-titin-phosphorylation-sodium-intake-timing-and-deep-exhalation-duration
   - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
-    12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing
   - >-
-    what-research-says-about-daily-12-minute-guided-imagery-sessions-and-left-atrial-volume-regression-in-adults-60-74-with-persistent-afib-and-hypertension
   - >-
-    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
 ---
 
 # Heart Flutters or AFib Episodes Getting Worse? Why Atrial Stiffness Matters for Adults 61-76

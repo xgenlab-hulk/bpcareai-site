@@ -2,8 +2,6 @@
 title: 'Could Leg Swelling Signal Heart Trouble After Age 50?'
 slug: could-leg-swelling-be-a-sign-of-heart-trouble-after-50
 description: 'Bilateral ankle swelling (edema) that worsens by evening and improves overnight can signal stiff heart filling (diastolic dysfunction) in adults over 50.'
-  Recognize how edema in the legs may indicate poor heart pumping and require
-  medical attention.
 date: '2025-12-13'
 updated: '2026-03-27'
 primaryKeyword: 'leg swelling heart trouble signs after 50'

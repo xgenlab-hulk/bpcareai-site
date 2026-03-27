@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Late-Night Cookie Binges Alter Hepatic Gluconeogenesis Rhythms in Adults
-  58–66 With Prediabetes — And Why It Matters for Fasting Glucose Stability
-slug: >-
-  how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+slug: how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
 description: >-
-  Examines circadian disruption of PEPCK and G6Pase expression due to nocturnal
-  carb intake, backed by human liver biopsy data and 72-hour CGM patterns in
-  prediabetic adults during December.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: late-night eating and fasting glucose
@@ -15,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
   - >-
-    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
   - >-
-    how-late-night-pie-cravings-alter-circadian-clock-gene-expression-in-the-liver-and-why-that-matters-for-fasting-triglycerides-in-adults-58-67
   - >-
-    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
   - >-
-    how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
 ---
 
 # How Late-Night Eating and Fasting Glucose Interact — Especially During the Holidays

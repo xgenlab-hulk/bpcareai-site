@@ -1,7 +1,6 @@
 ---
 title: 'Why \'Heart-Healthy\' Granola Bars Backfire for Men Over 69'
-slug: >-
-  the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia
+slug: the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia
 description: 'Even \'no salt added\' bars carry 180-320mg sodium and osmotic sugars that worsen low blood sodium (hyponatremia) in men with stage 2 heart failure.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
   - >-
-    a-vs-b-grandma-s-fruitcake-soaked-in-brandy-vs-baked-pear-walnut-loaf-no-alcohol-lower-osmolality-for-seniors-with-mild-hyponatremia
   - >-
-    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
   - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
   - >-
-    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
 ---
 
 # What You Need to Know About Granola Bars, Heart Failure, and Hyponatremia in Men Over 65

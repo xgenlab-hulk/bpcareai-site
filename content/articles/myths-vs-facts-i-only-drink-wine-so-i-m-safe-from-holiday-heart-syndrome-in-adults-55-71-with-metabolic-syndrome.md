@@ -1,7 +1,6 @@
 ---
 title: "Myth: 'I Only Drink Wine — So Holiday Heart Syndrome Can't Happen'"
-slug: >-
-  myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
+slug: myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
 description: Wine drinkers with belly fat and high BP (metabolic syndrome) had 38% more irregular heartbeat episodes than beer drinkers in a 2024 cohort. Type matters less.
 date: '2026-01-18'
 updated: '2026-03-26'
@@ -10,10 +9,8 @@ topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
 ---

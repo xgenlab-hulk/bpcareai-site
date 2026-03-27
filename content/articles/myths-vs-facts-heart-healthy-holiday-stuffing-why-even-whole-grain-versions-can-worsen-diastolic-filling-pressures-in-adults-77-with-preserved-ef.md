@@ -1,7 +1,6 @@
 ---
 title: "Whole-Grain Stuffing Still Hurts Your Heart If You're 77+ With HFpEF"
-slug: >-
-  myths-vs-facts-heart-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-diastolic-filling-pressures-in-adults-77-with-preserved-ef
+slug: myths-vs-facts-heart-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-diastolic-filling-pressures-in-adults-77-with-preserved-ef
 description: Even whole-grain stuffing raises heart filling pressure (diastolic pressure) via rapid stomach emptying and high salt — risky with stiff-heart syndrome (HFpEF).
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-postprandial-hypotension-in-adults-68-with-carotid-stenosis
   - >-
-    can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
   - >-
-    7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
   - >-
-    the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
 ---
 
 # Heart-Healthy Stuffing Myths Seniors Should Know — Gentle Truths for Holiday Eating

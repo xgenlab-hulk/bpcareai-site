@@ -2,8 +2,6 @@
 title: 'Blood Sugar-Friendly Holiday Gift Ideas for Diabetics Over 70'
 slug: blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 description: 'Sugar-free baskets often still spike blood sugar (postprandial glucose). Gifts like walking shoes and glucose monitors support daily wellness after 70.'
-  Creative, health-conscious gift suggestions that promote wellness without
-  triggering glucose spikes.
 date: '2025-11-29'
 updated: '2026-03-27'
 primaryKeyword: 'practical holiday gifts for diabetics over 70'

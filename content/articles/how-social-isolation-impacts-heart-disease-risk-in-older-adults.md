@@ -2,8 +2,6 @@
 title: How Social Isolation Impacts Heart Disease Risk in Older Adults
 slug: how-social-isolation-impacts-heart-disease-risk-in-older-adults
 description: >-
-  Learn how loneliness and lack of social connections can negatively affect
-  cardiovascular health.
 date: '2025-11-29'
 updated: '2025-11-29'
 primaryKeyword: social isolation and heart disease in seniors

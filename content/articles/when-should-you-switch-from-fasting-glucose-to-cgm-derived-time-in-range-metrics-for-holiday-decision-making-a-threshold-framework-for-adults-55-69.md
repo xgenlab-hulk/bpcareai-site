@@ -1,13 +1,7 @@
 ---
 title: >-
-  When Should You Switch From Fasting Glucose to CGM-Derived Time-in-Range
-  Metrics for Holiday Decision-Making? A Threshold Framework for Adults 55–69
-slug: >-
-  when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
+slug: when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
 description: >-
-  Proposes evidence-based TIR thresholds (e.g., <70% in 70–180 mg/dL during
-  holiday week) that trigger actionable interventions—validated in a 2023
-  multicenter trial.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: CGM time-in-range holiday decision making
@@ -15,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - >-
-    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
 ---
 
 # When to Shift From Fasting Glucose to CGM Time-in-Range Holiday Decision Making—A Practical Guide for Adults 55–69

@@ -1,7 +1,6 @@
 ---
 title: Chest Pain but Clear Arteries? 7 Signs Women Should Know
-slug: >-
-  7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
+slug: 7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
 description: 30-50% of women with angina and normal angiograms have tiny vessel disease (coronary microvascular dysfunction). PET imaging catches what standard caths miss.
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
   - >-
-    when-to-worry-about-normal-chest-discomfort-while-gardening-a-5-point-field-assessment-for-women-65-80-with-atypical-angina-presentation
 ---
 
 # 7 Subtle but Important Coronary Microvascular Dysfunction Symptoms in Women Ages 55–72—Even With Normal Angiograms

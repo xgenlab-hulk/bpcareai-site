@@ -1,7 +1,6 @@
 ---
 title: Low-FODMAP Holiday Desserts for Seniors 63+ With IBS and Bloating
-slug: >-
-  best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
+slug: best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
 description: Pear-ginger poach, almond cake with glucose syrup — 6 recipes under 0.5g excess fructose each. Safe for diarrhea-type IBS (IBS-D) and fructose sensitivity.
 date: '2026-01-22'
 updated: 2026-03-26
@@ -11,10 +10,8 @@ image: ''
 relatedSlugs:
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - >-
-    10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
   - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
 ---
 

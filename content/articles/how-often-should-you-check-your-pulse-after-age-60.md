@@ -2,8 +2,6 @@
 title: How Often Should You Check Your Pulse After Age 60?
 slug: how-often-should-you-check-your-pulse-after-age-60
 description: >-
-  Learn why regular pulse checks can help detect arrhythmias and other heart
-  issues early.
 date: '2025-12-07'
 updated: '2025-12-07'
 primaryKeyword: checking pulse frequency for seniors heart health

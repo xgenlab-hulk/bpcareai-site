@@ -1,14 +1,7 @@
 ---
 title: 'Is One Glass of Mulled Wine Safe After an Evening Beta-Blocker?'
-  Can You Safely Enjoy a Single Glass of Mulled Wine *After* Taking Your Evening
-  Beta-Blocker? — Evidence-Based Timing Thresholds for Adults 59+ With
-  Controlled Hypertension and Normal LVEF
-slug: >-
-  can-you-safely-enjoy-a-single-glass-of-mulled-wine-after-taking-your-evening-beta-blocker-evidence-based-timing-thresholds-for-adults-59-with-controlled-hypertension-and-normal-lvef
+slug: can-you-safely-enjoy-a-single-glass-of-mulled-wine-after-taking-your-evening-beta-blocker-evidence-based-timing-thresholds-for-adults-59-with-controlled-hypertension-and-normal-lvef
 description: 'Beta-blockers and alcohol both slow heart rate (bradycardia risk) — timing overlap matters. Safe post-dose windows for one glass of wine after age 59.'
-  Examines pharmacokinetic-pharmacodynamic overlap between beta-blockers and
-  ethanol metabolites, providing precise post-dose windows for safe, low-dose
-  alcohol exposure.
 date: '2026-02-13'
 updated: '2026-03-27'
 primaryKeyword: 'drinking wine safely after taking beta-blocker at night'
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
-    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
   - >-
-    a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
   - >-
-    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
   - >-
-    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
 ---
 
 # Can You Safely Enjoy Mulled Wine After Your Evening Beta-Blocker? Understanding Safe beta-blocker mulled wine timing for Adults 59+  

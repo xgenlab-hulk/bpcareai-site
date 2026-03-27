@@ -2,8 +2,6 @@
 title: 'Does Cold Weather Raise Blood Pressure? What Older Adults Should Know'
 slug: can-cold-weather-raise-your-blood-pressure
 description: 'Brief cold raises systolic BP 10-20 mm Hg via blood vessel tightening (vasoconstriction). Population BP runs higher in winter, with larger swings after 50.'
-  Discover how seasonal changes and cold temperatures can affect blood pressure
-  and what steps you can take to stay safe in winter.
 date: '2025-11-29'
 updated: '2026-03-27'
 primaryKeyword: 'cold weather effect on blood pressure in older adults'

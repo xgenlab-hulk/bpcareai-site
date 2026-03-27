@@ -1,12 +1,7 @@
 ---
 title: >-
-  Quick 90-Second Breathing Techniques to Lower Systolic Pressure Before a
-  Doctor’s Visit—Clinically Validated for Ages 50–85
-slug: >-
-  quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+slug: quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
 description: >-
-  Teaches paced diaphragmatic breathing with real-time HRV biofeedback
-  cues—designed for immediate pre-appointment BP modulation without medication.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: breathing techniques lower systolic pressure
@@ -14,11 +9,9 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
   - can-deep-breathing-exercises-reduce-high-blood-pressure
   - natural-ways-to-lower-blood-pressure-this-winter-without-medication
   - >-
-    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - can-deep-breathing-exercises-lower-heart-disease-risk
 ---
 

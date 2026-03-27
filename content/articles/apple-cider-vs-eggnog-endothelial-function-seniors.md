@@ -1,7 +1,6 @@
 ---
 title: 'Apple Cider vs Diet Eggnog: Which Is Better for Your Arteries After 66'
-slug: >-
-  a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
+slug: a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
 description: 'Warm apple cider improved artery-lining function (endothelial reactivity) 12-19% in 90 minutes in adults 66-80. Diet eggnog\'s sucralose blunted nitric oxide production, reducing vascular response.'
 date: '2026-01-26'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
   - >-
-    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
   - >-
-    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
   - >-
-    does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension
   - >-
-    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
 ---
 
 # Apple Cider vs Eggnog Endothelial Function Seniors: What Your Holiday Drink Choice Really Does to Your Arteries

@@ -1,14 +1,7 @@
 ---
 title: 'Acid Reflux Pills and Nerve Damage: The B12 Link After 66'
-  How Chronic Low-Dose Proton Pump Inhibitor Use Reduces Gastric Intrinsic
-  Factor and Worsens Vitamin B12-Dependent Homocysteine Metabolism in Adults
-  66–82 With Type 2 Diabetes and Peripheral Neuropathy
-slug: >-
-  how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
+slug: how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
 description: 'Acid blockers (PPIs) cut B12 absorption 40-65% after 2+ years, raising homocysteine and worsening nerve damage (peripheral neuropathy) in diabetic adults 66-82.'
-  Links gastric acid suppression to B12 malabsorption, elevated homocysteine,
-  and accelerated nerve demyelination—offering functional testing thresholds and
-  food-first repletion strategies.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'acid reflux medication and vitamin B12 nerve damage'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing
   - >-
-    warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
   - >-
-    natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
   - >-
-    warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis
   - >-
-    5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use
 ---
 
 # How Long-Term PPI Use Affects Vitamin B12, Nerves, and Heart Health in Adults With Diabetes and Neuropathy

@@ -1,7 +1,6 @@
 ---
 title: 'Prediabetes at 55-64? Navigate Holiday Potlucks Without Sugar Spikes'
-slug: >-
-  prediabetes-holiday-potluck-55-64
+slug: prediabetes-holiday-potluck-55-64
 description: 'Fasting glucose 100-125 mg/dL flags borderline diabetes (prediabetes). A smart plate method cuts post-meal blood sugar spikes up to 30% at any holiday potluck.'
 date: '2026-01-27'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
   - >-
-    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
   - >-
-    how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82
   - >-
-    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
   - >-
-    7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying
 ---
 
 # Can You Enjoy Holiday Potlucks With Prediabetes? (Blood Sugar Survival Guide Ages 55-64)

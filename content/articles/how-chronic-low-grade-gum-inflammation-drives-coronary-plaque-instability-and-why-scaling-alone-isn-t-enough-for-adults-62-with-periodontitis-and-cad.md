@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Chronic Low-Grade Gum Inflammation Drives Coronary Plaque Instability —
-  And Why Scaling Alone Isn’t Enough for Adults 62+ With Periodontitis and CAD
-slug: >-
-  how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad
+slug: how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad
 description: >-
-  Explains the IL-6/CRP/MMP-9 axis linking periodontal pathogens to fibrous cap
-  thinning, with actionable adjunctive strategies like topical resolvins and
-  dietary omega-3 titration.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: gum disease and coronary plaque instability
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
-    how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging
   - >-
-    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
   - >-
-    how-chronic-low-grade-dental-inflammation-alters-endothelial-glycocalyx-thickness-and-why-that-matters-for-microvascular-coronary-flow-reserve-in-adults-64-with-stable-angina
 ---
 
 # How Gum Disease and Coronary Plaque Instability Are Connected — And Why Deep Cleaning Isn’t the Whole Answer for Adults 62+

@@ -1,13 +1,7 @@
 ---
 title: 'Home Blood Pressure vs 24-Hour Monitor for Detecting White Coat Effect After 79'
-  A vs B: Home Cuff Monitoring vs. Ambulatory 24-Hour BP Tracking for Detecting
-  White-Coat Effect in Frail Adults Over 79
-slug: >-
-  a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
+slug: a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
 description: 'Ambulatory 24-hour BP tracking (ABPM) detects masked hypertension in ~25% of frail elders missed by home cuffs, especially those with orthostatic intolerance or dementia-related agitation.'
-  Compares diagnostic accuracy, feasibility, and clinical outcomes when
-  identifying masked hypertension in individuals with orthostatic intolerance or
-  dementia-related agitation.
 date: '2026-01-03'
 updated: '2026-03-27'
 primaryKeyword: 'home blood pressure vs 24-hour ambulatory monitor for frail adults over 79'
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
-    why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
   - >-
-    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - >-
-    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
-    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
 ---
 
 # Home vs Ambulatory Blood Pressure in Frail Elderly: Which Method Best Catches White-Coat Effect After 79?

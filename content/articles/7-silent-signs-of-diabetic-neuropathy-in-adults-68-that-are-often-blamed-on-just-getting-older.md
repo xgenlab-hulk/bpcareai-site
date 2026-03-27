@@ -1,7 +1,6 @@
 ---
 title: "7 Signs of Nerve Damage From Diabetes You're Blaming on Age"
-slug: >-
-  7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older
+slug: 7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older
 description: Foot numbness and balance shifts after 68 may be diabetic nerve damage (peripheral neuropathy) — not aging. Early detection cuts foot ulcer risk by 60%.
 date: '2026-01-29'
 updated: '2026-03-26'
@@ -11,11 +10,8 @@ image: ''
 relatedSlugs:
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - >-
-    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
   - >-
-    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
   - >-
-    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
 ---
 

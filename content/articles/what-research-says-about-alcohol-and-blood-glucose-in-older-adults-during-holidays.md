@@ -1,12 +1,7 @@
 ---
 title: >-
-  What Research Says About Alcohol and Blood Glucose in Older Adults During
-  Holidays
-slug: >-
-  what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+slug: what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
 description: >-
-  Reviews clinical studies on how different types of holiday drinks affect blood
-  sugar and hypoglycemia risk in seniors with diabetes.
 date: '2025-12-05'
 updated: '2025-12-05'
 primaryKeyword: research on alcohol and blood sugar

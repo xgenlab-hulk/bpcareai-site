@@ -1,15 +1,7 @@
 ---
 title: 'Cold Face Immersion as a Baroreflex Training Tool for Older Adults'
-  What Research Says About Daily 4-Minute Cold-Water Face Immersion *Before*
-  Evening Walks — Effects on Baroreflex Gain and Post-Exercise Blood Pressure
-  Recovery in Adults 67+ With Isolated Systolic Hypertension
-slug: >-
-  what-research-says-about-daily-4-minute-cold-water-face-immersion-before-evening-walks-effects-on-baroreflex-gain-and-post-exercise-blood-pressure-recovery-in-adults-67-with-isolated-systolic-hypertension
+slug: what-research-says-about-daily-4-minute-cold-water-face-immersion-before-evening-walks-effects-on-baroreflex-gain-and-post-exercise-blood-pressure-recovery-in-adults-67-with-isolated-systolic-hypertension
 description: 'A 30-second cold water face dip activates the diving reflex, acutely boosting pressure reflex (baroreflex sensitivity) by 22% in adults 60+ with labile BP.'
-  Presents new findings on a low-barrier autonomic training technique that
-  improves vagal tone and accelerates systolic normalization after
-  exertion—specifically for older adults with stiff arteries and delayed BP
-  recovery.
 date: '2026-02-25'
 updated: '2026-03-27'
 primaryKeyword: 'cold face immersion baroreflex training seniors'
@@ -17,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
   - >-
-    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
   - >-
-    does-daily-4-minute-cold-water-face-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-61-with-early-autonomic-dysfunction
   - >-
-    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
   - >-
-    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
 ---
 
 # How Cold Face Immersion Baroreflex Seniors Can Support Heart Health After Evening Walks

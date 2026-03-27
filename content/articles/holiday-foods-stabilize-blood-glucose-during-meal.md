@@ -1,14 +1,7 @@
 ---
 title: >-
-  12 Holiday Foods That *Stabilize* Blood Glucose *During* the Meal—Not Just
-  After—With Glycemic Index Modifiers, Fiber Synergy, and Timing Rules for
-  Adults 65+
-slug: >-
-  12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
+slug: 12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
 description: >-
-  Goes beyond 'low-GI' lists to highlight real-time buffering foods (e.g., apple
-  cider vinegar–marinated onions, roasted fennel with lemon zest) and their
-  mechanistic impact on gastric emptying rate.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: holiday foods stabilize blood glucose during meal
@@ -18,9 +11,7 @@ relatedSlugs:
   - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 ---
 

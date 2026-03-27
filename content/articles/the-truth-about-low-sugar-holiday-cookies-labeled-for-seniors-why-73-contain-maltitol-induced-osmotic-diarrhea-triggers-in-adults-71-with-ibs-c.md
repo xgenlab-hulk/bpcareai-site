@@ -1,7 +1,6 @@
 ---
 title: "Why 73% of 'Low-Sugar' Holiday Cookies Trigger Diarrhea After 71"
-slug: >-
-  the-truth-about-low-sugar-holiday-cookies-labeled-for-seniors-why-73-contain-maltitol-induced-osmotic-diarrhea-triggers-in-adults-71-with-ibs-c
+slug: the-truth-about-low-sugar-holiday-cookies-labeled-for-seniors-why-73-contain-maltitol-induced-osmotic-diarrhea-triggers-in-adults-71-with-ibs-c
 description: "Maltitol, a sugar alcohol (polyol), pulls water into aging guts \u2014 triggering osmotic diarrhea in 73% of adults 71+ with IBS-C. Low-FODMAP cookie swaps included."
 date: '2026-02-08'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
   - >-
-    the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
 ---
 
 # What You Need to Know About Low-Sugar Cookies Maltitol Seniors IBS — And Why “Senior-Friendly” Labels Can Mislead

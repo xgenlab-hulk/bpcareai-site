@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Holiday Stress Hormones Disrupt Overnight Glucose Recovery in Adults 58–69
-  With Prediabetes
-slug: >-
-  how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes
+slug: how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes
 description: >-
-  Explores the cortisol-melatonin-glucagon axis during festive periods and its
-  measurable impact on fasting glucose spikes and nocturnal hypoglycemia risk in
-  midlife prediabetic adults.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: holiday stress and overnight glucose recovery
@@ -15,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - >-
-    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
   - >-
-    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
   - >-
-    how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
   - >-
-    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
 ---
 
 # How Holiday Stress and Overnight Glucose Recovery Affect Prediabetes in Adults 58–69

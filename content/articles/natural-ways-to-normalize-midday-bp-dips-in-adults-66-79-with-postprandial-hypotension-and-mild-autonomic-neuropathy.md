@@ -1,7 +1,6 @@
 ---
 title: Dizzy After Lunch? Managing Post-Meal BP Drops After 66
-slug: >-
-  natural-ways-to-normalize-midday-bp-dips-in-adults-66-79-with-postprandial-hypotension-and-mild-autonomic-neuropathy
+slug: natural-ways-to-normalize-midday-bp-dips-in-adults-66-79-with-postprandial-hypotension-and-mild-autonomic-neuropathy
 description: Digestion diverts blood from your brain, dropping BP 20+ mmHg (postprandial hypotension). A 2-min hand squeeze and protein-first meals cut falls by 40%.
 date: '2026-01-30'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
   - >-
-    what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef
   - >-
-    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
   - >-
-    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
   - >-
-    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
 ---
 
 # Natural Strategies to Address Midday BP Dip Postprandial Hypotension in Adults 66–79 With Mild Autonomic Neuropathy

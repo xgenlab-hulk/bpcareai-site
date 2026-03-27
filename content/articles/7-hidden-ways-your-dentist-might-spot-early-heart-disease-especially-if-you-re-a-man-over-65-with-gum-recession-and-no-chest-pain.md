@@ -1,7 +1,6 @@
 ---
 title: '7 Ways Your Dentist May Spot Heart Disease Before Your Cardiologist'
-slug: >-
-  7-hidden-ways-your-dentist-might-spot-early-heart-disease-especially-if-you-re-a-man-over-65-with-gum-recession-and-no-chest-pain
+slug: 7-hidden-ways-your-dentist-might-spot-early-heart-disease-especially-if-you-re-a-man-over-65-with-gum-recession-and-no-chest-pain
 description: 'Gum inflammation (periodontal disease) shares bacteria with coronary plaques. Dental X-rays catch neck artery calcium in 25% of men over 65.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,14 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
   - >-
-    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - the-hidden-link-between-gum-disease-and-heart-problems
   - >-
-    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
-    7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62
 ---
 
 # How Your Dentist Might Be the First to Notice Heart Trouble—Especially If You’re a Man Over 65 With Gum Recession

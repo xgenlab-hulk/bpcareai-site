@@ -1,7 +1,6 @@
 ---
 title: Fatigue + Past Carpal Tunnel Surgery? Think Amyloidosis (Women 75+)
-slug: >-
-  when-to-suspect-cardiac-amyloidosis-in-women-75-with-unexplained-fatigue-bilateral-carpal-tunnel-surgery-history-and-preserved-ef-on-echo
+slug: when-to-suspect-cardiac-amyloidosis-in-women-75-with-unexplained-fatigue-bilateral-carpal-tunnel-surgery-history-and-preserved-ef-on-echo
 description: Carpal tunnel years before heart symptoms flags protein deposits in the heart (cardiac amyloidosis) — missed in 60% of women 75+ with normal ejection fraction.
 date: '2026-01-27'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
   - >-
-    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
 ---
 
 # When Cardiac Amyloidosis in Women Over 75 Might Be Behind Unexplained Fatigue and Past Carpal Tunnel Surgery

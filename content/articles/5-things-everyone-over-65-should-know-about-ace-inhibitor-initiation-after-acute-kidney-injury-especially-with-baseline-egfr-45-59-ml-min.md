@@ -1,10 +1,7 @@
 ---
 title: 'Can You Restart ACE Inhibitors After Kidney Injury? eGFR 45-59 Guide'
-  Restart ACE Inhibitors After Kidney Injury? (eGFR 45-59 Guide)
-slug: >-
-  restart-ace-inhibitors-kidney-injury-egfr-45-59
+slug: restart-ace-inhibitors-kidney-injury-egfr-45-59
 description: 'Kidney injury doesn\'t mean quitting ACE inhibitors. Five criteria—kidney filtration rate (eGFR) above 45, potassium under 5.0—help adults 65+ restart safely.'
-  Kidney injury doesn't mean stopping ACE inhibitors forever. Get 5 proven restart criteria—eGFR recovery thresholds, potassium monitoring windows, and safe dosing—essential for adults 65+.
 date: '2026-02-23'
 updated: '2026-03-28'
 primaryKeyword: 'restarting ACE inhibitors after kidney injury eGFR 45'
@@ -12,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
   - >-
-    can-you-safely-use-infrared-heating-pads-for-chronic-back-pain-while-taking-ace-inhibitors-evidence-based-thermal-thresholds-for-adults-72-with-stage-2-hypertension-and-mild-ckd
   - >-
-    can-you-safely-use-a-sauna-while-taking-an-ace-inhibitor-evidence-based-temperature-thresholds-and-recovery-protocols-for-adults-65-with-mild-lv-hypertrophy
   - >-
-    what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
   - >-
-    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
 ---
 
 # Can You Safely Restart ACE Inhibitors After Acute Kidney Injury With eGFR 45-59? (Timing + Monitoring Guide)

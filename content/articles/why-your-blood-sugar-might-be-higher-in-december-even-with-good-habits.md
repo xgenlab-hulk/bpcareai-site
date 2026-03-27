@@ -2,8 +2,6 @@
 title: Why Your Blood Sugar Might Be Higher in December—Even With Good Habits
 slug: why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
 description: >-
-  Uncover lesser-known seasonal influences like shorter days, viral illnesses,
-  and routine shifts affecting glucose.
 date: '2025-12-06'
 updated: '2025-12-06'
 primaryKeyword: why blood sugar higher in december

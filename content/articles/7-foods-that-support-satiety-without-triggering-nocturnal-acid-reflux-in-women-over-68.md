@@ -2,7 +2,6 @@
 title: '7 Foods That Fill You Up Without Nighttime Heartburn After 68'
 slug: nighttime-heartburn-satiety-foods-women-68
 description: '7 satiety foods keeping women 68+ full without triggering acid reflux (GERD). Oatmeal, pear, and fennel lower LES pressure vs high-fat options.'
-  Waking up with acid reflux after meals? Discover 7 low-acid, fiber-rich foods that keep you full without triggering nighttime heartburn—proven strategies for women 68+ with GERD or hiatal hernia.
 date: '2026-01-09'
 updated: '2026-03-27'
 primaryKeyword: 'foods that fill you up without acid reflux at night'
@@ -12,9 +11,7 @@ relatedSlugs:
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
-    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
 ---
 

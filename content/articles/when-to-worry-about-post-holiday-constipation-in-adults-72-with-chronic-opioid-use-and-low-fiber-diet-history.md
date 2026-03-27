@@ -1,7 +1,6 @@
 ---
 title: "Post-Holiday Constipation on Opioids: Red Flags After 72"
-slug: >-
-  when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history
+slug: when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history
 description: Opioids slow gut motility (colonic inertia) 40-60%. Adults 72+ risk silent fecal impaction if no bowel movement for 4+ days — especially on codeine or tramadol.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
   - >-
-    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
   - >-
-    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
   - >-
-    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
   - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 ---
 
 # When to Take Post-Holiday Constipation Opioid Warning Signs Seriously in Adults 72+

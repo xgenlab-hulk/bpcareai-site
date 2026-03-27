@@ -1,13 +1,7 @@
 ---
 title: 'Eating Well at Holiday Parties With Hearing Loss — Seniors 70+'
-  The Complete Guide to Eating Well at Holiday Parties Without Asking Questions
-  or Drawing Attention — For Seniors 70+ With Hearing Loss and Social Anxiety
-slug: >-
-  the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety
+slug: the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety
 description: 'Visual plate-building and nonverbal cues let you eat well without asking questions. Sitting near a wall cuts background noise 30-40%, easing sensory fatigue.'
-  A discreet, confidence-building framework covering visual cue reading, plate
-  composition without verbal negotiation, nonverbal boundary-setting, and
-  energy-conserving social pacing.
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'how to eat well at parties with hearing loss'
@@ -15,11 +9,9 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - >-
-    the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
 ---
 

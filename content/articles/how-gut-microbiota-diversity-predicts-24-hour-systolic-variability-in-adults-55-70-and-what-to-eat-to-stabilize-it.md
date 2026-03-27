@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Gut Microbiota Diversity Predicts 24-Hour Systolic Variability in Adults
-  55–70—And What to Eat to Stabilize It
-slug: >-
-  how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
+slug: how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
 description: >-
-  Connects microbial SCFA production, TMAO metabolism, and vagal tone to BP
-  lability, highlighting prebiotic timing and fermented food sequencing
-  strategies.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: gut microbiome systolic blood pressure variability
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
   - >-
-    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
   - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
-    12-foods-that-stabilize-blood-pressure-during-long-family-dinners-not-just-after-with-timing-portion-and-pairing-rules-for-adults-57-69
   - >-
-    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
 ---
 
 # How Gut Microbiome Diversity Influences Systolic Blood Pressure Variability in Adults 55–70

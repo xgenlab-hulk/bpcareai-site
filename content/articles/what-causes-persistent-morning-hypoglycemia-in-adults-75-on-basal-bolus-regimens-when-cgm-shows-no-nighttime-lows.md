@@ -1,7 +1,6 @@
 ---
 title: Morning Low Blood Sugar on Insulin — Why It Happens After 75
-slug: >-
-  what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
+slug: what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
 description: Slow stomach emptying (gastroparesis) delays insulin peaks 2-3 hours in adults 75+, causing morning lows even when overnight CGM reads normal.
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
   - >-
-    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
 ---
 
 # Understanding Morning Hypoglycemia in Older Adults on Basal-Bolus Insulin — Even Without Overnight Lows

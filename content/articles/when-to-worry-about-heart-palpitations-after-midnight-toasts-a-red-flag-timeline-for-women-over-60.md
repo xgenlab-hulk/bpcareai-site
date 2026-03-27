@@ -1,13 +1,7 @@
 ---
 title: >-
-  When to Worry About Heart Palpitations After Midnight Toasts—A Red Flag
-  Timeline for Women Over 60
-slug: >-
-  when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+slug: when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 description: >-
-  A time-stamped clinical guide distinguishing benign post-alcohol ectopy from
-  worrisome patterns (e.g., >30s sustained tachycardia, syncope prodrome,
-  orthostatic BP drop) with gender-specific thresholds and action steps.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: heart palpitations after midnight toasts women 60+
@@ -17,7 +11,6 @@ relatedSlugs:
   - when-to-worry-about-palpitations-after-christmas-dinner
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - >-
-    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
   - the-truth-about-benign-holiday-palpitations-are-they-really-harmless
   - should-you-worry-about-heart-palpitations-when-lying-down
 ---

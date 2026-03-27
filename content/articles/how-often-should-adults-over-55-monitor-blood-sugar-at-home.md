@@ -2,8 +2,6 @@
 title: How Often Should Adults Over 55 Monitor Blood Sugar at Home?
 slug: how-often-should-adults-over-55-monitor-blood-sugar-at-home
 description: >-
-  Get expert guidance on optimal blood glucose testing frequency based on
-  diabetes type and treatment plan.
 date: '2025-12-06'
 updated: '2025-12-06'
 primaryKeyword: blood sugar monitoring frequency for seniors with diabetes

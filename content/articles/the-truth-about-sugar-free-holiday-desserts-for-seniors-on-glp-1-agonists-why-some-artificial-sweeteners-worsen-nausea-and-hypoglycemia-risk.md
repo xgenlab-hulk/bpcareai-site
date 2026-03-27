@@ -1,7 +1,6 @@
 ---
 title: 'Sugar-Free Desserts on Ozempic? Why Seniors Get Worse Nausea'
-slug: >-
-  the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
+slug: the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
 description: 'Sugar alcohols like sorbitol double GI distress in adults 65+ on weight-loss shots (GLP-1 agonists). Erythritol is 70% less likely to trigger nausea.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
-    the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
   - >-
-    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # What You Should Know About Sugar-Free Desserts, GLP-1 Medications, and Holiday Eating for Seniors

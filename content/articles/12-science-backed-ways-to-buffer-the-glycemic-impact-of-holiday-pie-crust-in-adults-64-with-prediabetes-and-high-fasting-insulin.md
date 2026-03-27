@@ -1,7 +1,6 @@
 ---
 title: 'Love Holiday Pie? 12 Ways to Blunt the Sugar Spike After 64'
-slug: >-
-  holiday-pie-blood-sugar-prediabetes-64
+slug: holiday-pie-blood-sugar-prediabetes-64
 description: 'One pie slice spikes glucose 40-60 mg/dL with prediabetes. Vinegar before eating and almond-flour swaps cut that spike ~35%, per continuous monitor (CGM) data.'
 date: '2026-01-31'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension
   - >-
-    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
-    12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides
   - >-
-    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
 ---
 
 # 12 Science-Backed Strategies to Buffer Pie Crust Glycemic Impact in Seniors With Prediabetes

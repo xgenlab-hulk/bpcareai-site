@@ -1,14 +1,7 @@
 ---
 title: >-
-  Warning Signs Your Holiday 'Healthy Swap' (e.g., Coconut Flour Cookies) Is
-  Accelerating Postprandial Triglyceride-Rich Lipoprotein Production in Adults
-  With Diabetic Dyslipidemia
-slug: >-
-  warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
+slug: warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
 description: >-
-  Explains how high-MUFA, low-fiber substitutions increase chylomicron remnant
-  accumulation—using postprandial lipoprotein electrophoresis data from 41
-  patients.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: holiday healthy swap triglyceride lipoprotein
@@ -16,13 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
   - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - >-
-    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # When Your Holiday “Healthy Swap” Might Be Sneaking Up on Your Triglyceride Levels

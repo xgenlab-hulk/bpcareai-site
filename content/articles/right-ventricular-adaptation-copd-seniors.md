@@ -1,7 +1,6 @@
 ---
 title: Supporting Right Heart Function With Mild COPD After 63
-slug: >-
-  natural-ways-to-support-right-ventricular-adaptation-to-pulmonary-vascular-resistance-in-adults-63-79-with-mild-copd-and-preserved-left-ventricular-ejection-fraction
+slug: natural-ways-to-support-right-ventricular-adaptation-to-pulmonary-vascular-resistance-in-adults-63-79-with-mild-copd-and-preserved-left-ventricular-ejection-fraction
 description: Breathing muscle training (inspiratory muscle training) boosts right-side heart pumping 12-18% in 6 weeks. Beetroot nitrate lowers lung artery pressure 8-11%.
 date: '2026-01-19'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
-    best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
   - >-
-    best-breathing-patterns-to-reduce-right-atrial-pressure-during-stair-climbing-in-adults-68-with-tricuspid-regurgitation-and-elevated-jugular-venous-pressure
   - >-
-    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
   - >-
-    best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio
 ---
 
 # Supporting Right Ventricular Adaptation in COPD Seniors: Natural Strategies for Heart Health

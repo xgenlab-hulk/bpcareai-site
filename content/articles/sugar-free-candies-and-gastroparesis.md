@@ -1,15 +1,7 @@
 ---
 title: >-
-  The Truth About 'Sugar-Free' Holiday Candies Marketed to Seniors — Why 83%
-  Contain Maltitol-Induced Osmotic Diarrhea and Secondary Hyperglycemia in
-  Adults 69+ With Gastroparesis
-slug: >-
-  the-truth-about-sugar-free-holiday-candies-marketed-to-seniors-why-83-contain-maltitol-induced-osmotic-diarrhea-and-secondary-hyperglycemia-in-adults-69-with-gastroparesis
+slug: the-truth-about-sugar-free-holiday-candies-marketed-to-seniors-why-83-contain-maltitol-induced-osmotic-diarrhea-and-secondary-hyperglycemia-in-adults-69-with-gastroparesis
 description: >-
-  Debunks marketing claims around sugar alcohols, revealing how maltitol and
-  sorbitol exacerbate delayed gastric motility, cause rapid colonic
-  fermentation, and trigger reactive glucose spikes via GLP-1 and catecholamine
-  surges.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: sugar-free candies and gastroparesis
@@ -17,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
-    the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis
 ---
 
 # What You Should Know About Sugar-Free Candies and Gastroparesis This Holiday Season

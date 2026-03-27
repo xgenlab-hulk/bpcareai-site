@@ -1,7 +1,6 @@
 ---
 title: "Adults 65+: When Sudden Insulin Resistance Signals More Than Aging"
-slug: >-
-  when-to-suspect-mitochondrial-myopathy-before-muscle-cramps-appear-red-flags-in-adults-65-with-rapid-onset-insulin-resistance-and-unexplained-fatigue
+slug: when-to-suspect-mitochondrial-myopathy-before-muscle-cramps-appear-red-flags-in-adults-65-with-rapid-onset-insulin-resistance-and-unexplained-fatigue
 description: "A lactate-to-pyruvate ratio above 25 may flag energy failure in muscles (mitochondrial myopathy) — often missed before cramps or weakness appear."
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-lab-clues-of-mitochondrial-dysfunction-in-skeletal-muscle-in-adults-54-65-with-type-2-diabetes-and-persistent-exercise-intolerance
   - >-
-    when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
   - >-
-    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
   - >-
-    what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
 ---
 
 # Early Clues of Mitochondrial Myopathy in Older Adults: Recognizing Insulin Resistance and Fatigue Before Muscle Cramps Begin

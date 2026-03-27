@@ -1,13 +1,7 @@
 ---
 title: 'Plant-Based vs Mediterranean Diet for Slowing Nerve Damage in Men 67 to 79'
-  A vs B: Plant-Based Low-Glycemic Meal Plans vs Mediterranean-Style Diets for
-  Slowing Diabetic Neuropathy Progression in Men 67–79
-slug: >-
-  a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79
+slug: a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79
 description: 'Over 6 months, both diets improved nerve conduction velocity and small-fiber density in men 67-79 with diabetic neuropathy, with plant-based showing slightly better oxidative stress reduction.'
-  Compares two evidence-backed dietary patterns for nerve health
-  outcomes—focusing on nerve conduction velocity, small-fiber density, and
-  symptom burden over 6 months.
 date: '2026-01-09'
 updated: '2026-03-27'
 primaryKeyword: 'plant-based vs Mediterranean diet for slowing diabetic nerve damage in men'
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
   - >-
-    10-foods-that-improve-peripheral-nerve-oxygenation-in-adults-with-diabetic-polyneuropathy-over-69-backed-by-near-infrared-spectroscopy-data
   - >-
-    5-things-everyone-with-type-1-diabetes-over-60-should-know-before-starting-a-plant-based-diet-especially-with-concurrent-gastroparesis-or-hypothyroidism
   - >-
-    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
   - >-
-    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
 ---
 
 # Plant-Based vs Mediterranean Diet for Diabetic Neuropathy: Which Supports Nerve Health Best in Men 67–79?

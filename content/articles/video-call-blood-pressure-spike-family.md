@@ -1,7 +1,6 @@
 ---
 title: "Why Video Calls With Your Kids Spike Blood Pressure After 62"
-slug: >-
-  what-causes-blood-pressure-to-rise-only-during-video-calls-with-adult-children-the-role-of-subvocal-tension-zoom-posture-and-anticipatory-sympathetic-priming-in-adults-62-71
+slug: what-causes-blood-pressure-to-rise-only-during-video-calls-with-adult-children-the-role-of-subvocal-tension-zoom-posture-and-anticipatory-sympathetic-priming-in-adults-62-71
 description: "Family video calls trigger a stress-driven BP rise (sympathetic activation) of 12-18 mmHg in adults 62-71. Screen posture and jaw tension add 5-8 mmHg more."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-blood-pressure-spikes-during-video-calls-and-how-to-stabilize-it-with-micro-breathing-anchors-for-adults-60-73-with-social-anxiety
   - >-
-    how-intergenerational-storytelling-grandparent-grandchild-teen-alters-sympathetic-vagal-balance-and-diastolic-pressure-trajectories-in-adults-64-with-prehypertension
   - >-
-    does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
   - >-
-    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
   - >-
-    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
 ---
 
 # Why You Might Experience a video-call-blood-pressure-spike-family — Understanding Stress-Related BP Shifts in Intergenerational Video Conversations

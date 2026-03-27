@@ -1,14 +1,7 @@
 ---
 title: 'Does Cold Water Hand Immersion Affect Blood Pressure Reading Accuracy?'
-  What Research Says About 3-Minute Cold-Water Hand Immersion *Before* Morning
-  Blood Pressure Checks — Impact on Cuff Accuracy in Adults 73+ With Peripheral
-  Artery Disease
-slug: >-
-  what-research-says-about-3-minute-cold-water-hand-immersion-before-morning-blood-pressure-checks-impact-on-cuff-accuracy-in-adults-73-with-peripheral-artery-disease
+slug: what-research-says-about-3-minute-cold-water-hand-immersion-before-morning-blood-pressure-checks-impact-on-cuff-accuracy-in-adults-73-with-peripheral-artery-disease
 description: 'Hand immersion in cold water raises the upper number (systolic BP) by 12-18 mmHg for up to 20 min; timing readings after exposure prevents false highs.'
-  Reviews RCT evidence on how pre-measurement vasoconstrictive priming improves
-  oscillometric reliability in PAD patients, reducing false-normal readings by
-  22% in validation cohorts.
 date: '2026-02-23'
 updated: '2026-03-27'
 primaryKeyword: 'cold water hand immersion blood pressure accuracy'
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
   - >-
-    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
   - >-
-    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
   - >-
-    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
   - >-
-    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
 ---
 
 # How Cold-Water Hand Immersion BP Accuracy Affects Morning Blood Pressure Readings in Older Adults With PAD

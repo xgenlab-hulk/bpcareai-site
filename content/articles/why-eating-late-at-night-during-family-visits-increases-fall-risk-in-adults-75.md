@@ -1,13 +1,7 @@
 ---
 title: >-
-  Why Eating Late at Night During Family Visits Increases Fall Risk in Adults
-  75+
 slug: why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 description: >-
-  Connects nocturnal glucose dysregulation, delayed gastric emptying, and
-  postprandial hypotension to balance impairment and orthostatic
-  dizziness—providing timing-based meal planning and safe snack frameworks for
-  frail or mobility-impaired elders.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: late night eating fall risk seniors
@@ -16,10 +10,8 @@ image: ''
 relatedSlugs:
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
   - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 

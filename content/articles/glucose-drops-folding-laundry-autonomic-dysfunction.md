@@ -1,7 +1,6 @@
 ---
 title: "Why Does Blood Sugar Drop While Folding Laundry After 58?"
-slug: >-
-  what-causes-sudden-glucose-drops-only-while-folding-laundry-the-role-of-repetitive-shoulder-girdle-compression-vagal-tone-shifts-and-hepatic-glycogen-release-in-adults-58-63-with-early-autonomic-dysfunction
+slug: what-causes-sudden-glucose-drops-only-while-folding-laundry-the-role-of-repetitive-shoulder-girdle-compression-vagal-tone-shifts-and-hepatic-glycogen-release-in-adults-58-63-with-early-autonomic-dysfunction
 description: "Repetitive arm movements compress nerves near your stomach (celiac plexus), triggering a 15-25 mg/dL glucose drop in adults with early nerve signaling problems."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss
   - >-
-    does-daily-10-minute-barefoot-walking-on-morning-grass-really-improve-glycemic-variability-in-adults-68-with-sedentary-lifestyle-and-peripheral-neuropathy
   - >-
-    how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
   - >-
-    what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
   - >-
-    does-daily-8-minute-diaphragmatic-breathing-lower-fasting-glucose-and-homa-ir-in-adults-59-69-with-stress-induced-hyperglycemia-and-high-salivary-alpha-amylase
 ---
 
 # Why You Might Notice Glucose Drops While Folding Laundry — Understanding Autonomic Changes After Age 58

@@ -1,7 +1,6 @@
 ---
 title: 7 Signs Your Heart Is Struggling During a Flight After 70
-slug: >-
-  7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
+slug: 7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
 description: Cabin pressure at 6,000-8,000 ft lowers oxygen 3-4%, straining stiff hearts (diastolic dysfunction). Slow nail refill and post-boarding fatigue are early flags.
 date: '2026-01-19'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
-    5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes
   - heart-disease-risks-for-retirees-living-in-high-altitude-areas
   - >-
-    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
 ---
 
 # 7 Subtle Heart Strain Symptoms During Air Travel Seniors Should Watch For — Especially With Diastolic Dysfunction or Mild Hypoxemia

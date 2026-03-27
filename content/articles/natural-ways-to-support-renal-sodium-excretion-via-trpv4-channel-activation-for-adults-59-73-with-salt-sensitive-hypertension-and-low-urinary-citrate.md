@@ -1,7 +1,6 @@
 ---
 title: Helping Your Kidneys Flush Sodium Naturally — for Adults 59-73
-slug: >-
-  natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate
+slug: natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate
 description: Citrus peel compounds and contrast foot soaks activate kidney sodium channels (TRPV4), boosting clearance 15-20% in salt-sensitive adults.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
   - >-
-    myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
   - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - >-
-    natural-remedies-for-high-blood-pressure-in-adults-with-chronic-kidney-disease-stage-3-focusing-on-uremic-toxin-clearance-klotho-enhancement-and-gut-microbiome-derived-tmao-modulation
   - >-
-    12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing
 ---
 
 # Supporting Renal Sodium Excretion TRPV4 Activation in Adults 59–73: Gentle, Evidence-Informed Strategies for Salt-Sensitive Blood Pressure

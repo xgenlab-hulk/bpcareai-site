@@ -1,12 +1,7 @@
 ---
 title: 'Can Mindfulness Ease Winter Blues in Seniors With Mild Depression?'
-  Can Mindfulness Meditation Ease Winter Blues in Older Adults with Mild
-  Depression?
-slug: >-
-  can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+slug: can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
 description: 'Adults 65+ show 20% greater alertness decline in December vs summer. Mindfulness reduces repetitive negative thinking (rumination) that worsens seasonal mood.'
-  Evaluate mindfulness practices tailored for seniors and their effectiveness in
-  reducing seasonal anxiety and low mood.
 date: '2025-12-18'
 updated: '2026-03-27'
 primaryKeyword: 'mindfulness meditation for seasonal depression in seniors'

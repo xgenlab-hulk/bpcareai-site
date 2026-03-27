@@ -1,7 +1,6 @@
 ---
 title: Fermented Foods for Insulin Cell Health in New Type 2 Diabetes
-slug: >-
-  natural-ways-to-support-pancreatic-beta-cell-resilience-using-polyphenol-rich-fermented-foods-for-adults-56-72-with-recent-onset-type-2-diabetes-and-high-hs-crp
+slug: natural-ways-to-support-pancreatic-beta-cell-resilience-using-polyphenol-rich-fermented-foods-for-adults-56-72-with-recent-onset-type-2-diabetes-and-high-hs-crp
 description: Fermented black soybean and kimchi activate cell defense (Nrf2) that cuts stress on insulin-producing cells (beta cells) by 20-35% in adults 56-72.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
   - >-
-    12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d
   - >-
-    natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks
   - >-
-    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
   - >-
-    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
 ---
 
 # Supporting Beta-Cell Resilience Naturally: How Fermented Foods Can Help Adults With Recent-Onset Type 2 Diabetes

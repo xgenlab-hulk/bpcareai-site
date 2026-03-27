@@ -2,8 +2,6 @@
 title: 'Can Napping After Meals Lower Blood Sugar During Holiday Feasts?'
 slug: can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 description: 'Naps under 30 min may improve sugar processing (insulin sensitivity) via lower cortisol. Naps over 60 min raise 2-hour post-meal glucose in prediabetes.'
-  Investigate whether post-meal naps impact glucose metabolism in older adults
-  and how timing affects insulin sensitivity during the holidays.
 date: '2025-12-02'
 updated: '2026-03-27'
 primaryKeyword: 'does napping after meals affect blood sugar in older adults'
@@ -15,7 +13,6 @@ relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # Can Napping After Meals Help Manage Blood Sugar? The Science Behind Post-Meal Rest

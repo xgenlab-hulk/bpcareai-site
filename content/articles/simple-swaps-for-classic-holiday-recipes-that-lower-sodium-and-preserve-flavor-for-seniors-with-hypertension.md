@@ -1,13 +1,7 @@
 ---
 title: >-
-  Simple Swaps for Classic Holiday Recipes That Lower Sodium *and* Preserve
-  Flavor for Seniors With Hypertension
-slug: >-
-  simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
+slug: simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
 description: >-
-  Step-by-step ingredient substitutions (e.g., umami-rich mushrooms for gravy,
-  citrus zest for salt) validated by American Heart Association sodium
-  guidelines and taste-test data from 60+ adults.
 date: '2025-12-18'
 updated: '2025-12-18'
 primaryKeyword: low sodium holiday recipes seniors
@@ -18,7 +12,6 @@ relatedSlugs:
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
   - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 

@@ -1,14 +1,7 @@
 ---
 title: 'Meal Timing and Heart Cell Energy: 12 Strategies for Seniors 55-69'
-  12 Science-Backed Ways to Protect Mitochondrial Cardiomyocyte Function Using
-  Meal Timing, Nutrient Synergy, and Circadian Light Exposure — For Adults 55–69
-  With Subclinical LV Hypertrophy
-slug: >-
-  12-science-backed-ways-to-protect-mitochondrial-cardiomyocyte-function-using-meal-timing-nutrient-synergy-and-circadian-light-exposure-for-adults-55-69-with-subclinical-lv-hypertrophy
+slug: 12-science-backed-ways-to-protect-mitochondrial-cardiomyocyte-function-using-meal-timing-nutrient-synergy-and-circadian-light-exposure-for-adults-55-69-with-subclinical-lv-hypertrophy
 description: 'CoQ10 + magnesium within 30 min of dinner boosts heart cell energy (mitochondrial function) 22%. Morning light adds 15% via the cell-renewal pathway (PGC-1a).'
-  Details mitochondrial-targeted interventions including timed magnesium + CoQ10
-  intake, morning blue-light exposure to enhance PGC-1α, and post-dinner protein
-  distribution to support cardiac energetics.
 date: '2026-01-17'
 updated: '2026-03-27'
 primaryKeyword: 'meal timing for heart cell energy in older adults'
@@ -16,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
   - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
   - >-
-    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
 ---
 
 # Science-Backed Mitochondrial Heart Health Meal Timing for Seniors with Early Heart Changes

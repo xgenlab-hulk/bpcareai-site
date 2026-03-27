@@ -2,8 +2,6 @@
 title: 'Is Sugar-Free Chocolate Safe for Diabetics Over 60 During Holidays?'
 slug: does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely
 description: 'Sugar alcohols (maltitol, sorbitol) raise glucose ~50% as much as sucrose and cause GI distress above 20 g/day—easily exceeded during holiday snacking.'
-  We break down sugar alcohols, glycemic impact, and digestive side effects of
-  sugar-free treats to determine if they’re worth the risk.
 date: '2025-12-01'
 updated: '2026-03-27'
 primaryKeyword: 'sugar-free chocolate blood sugar diabetics over 60'

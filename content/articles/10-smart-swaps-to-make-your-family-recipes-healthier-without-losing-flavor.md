@@ -2,9 +2,6 @@
 title: '10 Smart Swaps That Make Family Recipes Heart-Healthier'
 slug: 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
 description: 'Switching white flour for almond-oat blends cuts glycemic load (blood sugar impact) by 40%. These swaps reduce sodium, saturated fat, and glucose spikes.'
-  Discover simple ingredient substitutions that reduce sugar, sodium, and
-  unhealthy fats in traditional family dishes while keeping them delicious and
-  familiar.
 date: '2025-12-06'
 updated: '2026-03-27'
 primaryKeyword: 'healthy ingredient swaps for family recipes'

@@ -1,7 +1,6 @@
 ---
 title: When 'Stress' Is Actually Brain Blood Flow Failure (Ages 58-70)
-slug: >-
-  warning-signs-of-cerebral-autoregulation-failure-masquerading-as-just-stress-in-adults-58-70-with-migraine-with-aura-and-labile-bp
+slug: warning-signs-of-cerebral-autoregulation-failure-masquerading-as-just-stress-in-adults-58-70-with-migraine-with-aura-and-labile-bp
 description: Dizziness plus visual snow after standing may signal impaired brain blood flow (cerebral autoregulation failure), not stress — especially with migraine aura.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities
   - >-
-    what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
   - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
-    when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
   - >-
-    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
 ---
 
 # Recognizing Cerebral Autoregulation Failure Warning Signs in Adults 58–70 With Migraine With Aura and Labile BP

@@ -1,7 +1,6 @@
 ---
 title: 'Soft High-Fiber Low-Sodium Sides for Diabetic Seniors After 70'
-slug: >-
-  best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
+slug: best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
 description: 'Lentil mash and oat stuffing stay under 1,500 mg/day sodium (ADA limit) while easing chewing — soluble fiber slows glucose absorption in older adults.'
 date: '2025-12-18'
 updated: '2026-03-27'
@@ -13,9 +12,7 @@ relatedSlugs:
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
   - >-
-    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - >-
-    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
 ---
 
 # High-Fiber, Low-Sodium Soft Side Dishes for Seniors: Gentle, Tasty, and Blood-Sugar Friendly

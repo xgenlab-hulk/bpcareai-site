@@ -9,10 +9,8 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
   - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
   - >-
-    how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
 ---

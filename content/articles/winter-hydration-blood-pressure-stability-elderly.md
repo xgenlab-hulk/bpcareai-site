@@ -1,7 +1,6 @@
 ---
 title: Why Winter Dehydration Quietly Raises Blood Pressure After 76
-slug: >-
-  best-hydration-strategies-for-blood-pressure-stability-during-winter-not-just-drink-more-water-for-adults-76-with-reduced-thirst-perception-and-chronic-constipation
+slug: best-hydration-strategies-for-blood-pressure-stability-during-winter-not-just-drink-more-water-for-adults-76-with-reduced-thirst-perception-and-chronic-constipation
 description: Thirst drops 40% by age 80, and plain water can dilute sodium. A warm-liquid protocol maintains blood volume (plasma volume) without worsening constipation.
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -12,11 +11,8 @@ relatedSlugs:
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - >-
-    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
   - >-
-    12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
   - >-
-    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
 ---
 
 # Gentle Winter Hydration for Steady Blood Pressure in Older Adults — A Smarter Approach for 76+  

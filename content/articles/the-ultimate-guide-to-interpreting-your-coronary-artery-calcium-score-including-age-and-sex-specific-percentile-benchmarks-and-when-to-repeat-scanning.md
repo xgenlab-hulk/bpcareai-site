@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Ultimate Guide to Interpreting Your Coronary Artery Calcium
-  Score—Including Age- and Sex-Specific Percentile Benchmarks and When to Repeat
-  Scanning
-slug: >-
-  the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
+slug: the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
 description: >-
-  Breaks down CAC score meaning beyond '0 = low risk', including sex-specific
-  risk reclassification thresholds, progression rates that warrant
-  intensification, and optimal repeat intervals by baseline score.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: coronary calcium score interpretation guide
@@ -16,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100
   - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
   - >-
-    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
   - >-
-    the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
   - >-
-    the-complete-guide-to-interpreting-your-coronary-artery-calcium-score-with-ct-lung-screening-avoiding-misattribution-of-calcified-nodules-in-adults-63-with-emphysema
 ---
 
 # A Practical Coronary Calcium Score Interpretation Guide for Adults 50 and Older

@@ -1,7 +1,6 @@
 ---
 title: When Eggnog Triggers Heart Rhythm Problems — Red Flags at 59-74
-slug: >-
-  when-to-skip-the-eggnog-red-flags-that-signal-alcohol-induced-cardiac-instability-in-adults-59-74-with-preserved-ejection-fraction
+slug: when-to-skip-the-eggnog-red-flags-that-signal-alcohol-induced-cardiac-instability-in-adults-59-74-with-preserved-ejection-fraction
 description: One eggnog with alcohol raises heart rate 8-15 bpm within 40 min. Neck fullness or voice change signals electrical instability (holiday heart syndrome).
 date: '2026-01-24'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea
   - >-
-    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - >-
-    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 ---
 
 # Recognizing Red Flags Eggnog Cardiac Instability Holiday: Early Signs in Adults 59–74 With Preserved Ejection Fraction

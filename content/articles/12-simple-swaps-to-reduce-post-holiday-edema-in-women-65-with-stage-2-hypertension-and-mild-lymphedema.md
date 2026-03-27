@@ -1,7 +1,6 @@
 ---
 title: 'Ankles Swollen After the Holidays? 12 Kitchen Swaps for Women 65+'
-slug: >-
-  12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema
+slug: 12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema
 description: 'Holiday sodium worsens ankle puffiness (peripheral edema) in women 65+ with high BP. These 12 swaps cut sodium 40-60% and ease swelling naturally.'
 date: '2026-02-06'
 updated: '2026-03-27'
@@ -11,13 +10,9 @@ image: ''
 relatedSlugs:
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
-    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - >-
-    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
   - >-
-    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
 ---
 
 # Ankles Still Swollen After the Holidays? 12 Kitchen Swaps Women 65+ Can Try Today

@@ -1,13 +1,7 @@
 ---
 title: 'Good BP Numbers but Foggy Brain? Your Medication May Be the Cause'
-  Warning Signs Your BP Medication Is Causing Subclinical Cerebral Hypoperfusion
-  — Even If Your Numbers Look 'Good' on ABPM
-slug: >-
-  warning-signs-your-bp-medication-is-causing-subclinical-cerebral-hypoperfusion-even-if-your-numbers-look-good-on-abpm
+slug: warning-signs-your-bp-medication-is-causing-subclinical-cerebral-hypoperfusion-even-if-your-numbers-look-good-on-abpm
 description: 'Nighttime systolic below 110 mmHg (excessive nocturnal dipping) cuts brain perfusion 15-20%. New gait unsteadiness and word-finding trouble signal the problem.'
-  Highlights cognitive, gait, and sleep architecture changes linked to excessive
-  nocturnal dipping or excessive peripheral vasodilation — with SPECT perfusion
-  correlation tips.
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'can blood pressure medicine reduce brain blood flow'
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
   - >-
-    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
   - >-
-    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
   - >-
-    what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
   - >-
-    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
 ---
 
 # When “Good” Blood Pressure Numbers Might Hide a Quiet Brain Flow Issue — Understanding bp medication cerebral hypoperfusion

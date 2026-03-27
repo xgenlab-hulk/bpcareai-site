@@ -1,13 +1,7 @@
 ---
 title: 'Beyond Dry Mouth: 5 Hidden Dehydration Signs in Adults Over 78'
-  What Are the Earliest Signs of Holiday-Induced Hydration Decline in Adults 78+
-  With Reduced Thirst Perception and Chronic Constipation?
-slug: >-
-  what-are-the-earliest-signs-of-holiday-induced-hydration-decline-in-adults-78-with-reduced-thirst-perception-and-chronic-constipation
+slug: what-are-the-earliest-signs-of-holiday-induced-hydration-decline-in-adults-78-with-reduced-thirst-perception-and-chronic-constipation
 description: 'Skin tenting and nail-bed refill over 3 sec flag dehydration before thirst. A 20+ bpm rise on standing (orthostatic tachycardia) confirms — key for adults 78+.'
-  Goes beyond ‘dry mouth’ to identify subtle markers like increased skin tenting
-  after handwashing, delayed capillary refill in nail beds, and worsened
-  orthostatic pulse rise after gravy.
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'early signs of dehydration in seniors during holidays'
@@ -16,13 +10,9 @@ image: ''
 relatedSlugs:
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - >-
-    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
   - >-
-    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # Early Signs of Dehydration in Seniors During the Holidays: What to Watch For Beyond Dry Mouth

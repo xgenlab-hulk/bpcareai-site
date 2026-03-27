@@ -1,12 +1,7 @@
 ---
 title: >-
-  How to Talk to Relatives About Your Dietary Restrictions Without Offending
-  Anyone
-slug: >-
-  how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
+slug: how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
 description: >-
-  Offers communication strategies for asserting food boundaries around older
-  relatives who may not understand health-based diets.
 date: '2025-12-11'
 updated: '2025-12-11'
 primaryKeyword: discussing dietary limits with family
@@ -15,7 +10,6 @@ image: ''
 relatedSlugs:
   - what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - portion-control-strategies-for-large-family-meals-that-work
   - how-to-build-a-diabetes-friendly-plate-at-a-mixed-family-meal
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals

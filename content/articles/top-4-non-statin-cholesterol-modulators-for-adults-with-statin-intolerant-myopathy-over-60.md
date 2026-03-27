@@ -1,13 +1,7 @@
 ---
 title: >-
-  Top 4 Non-Statin Cholesterol Modulators for Adults With Statin-Intolerant
-  Myopathy Over 60
-slug: >-
-  top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
+slug: top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
 description: >-
-  Compares efficacy and safety of bempedoic acid, ezetimibe, PCSK9 inhibitors,
-  and inclisiran—with emphasis on renal clearance, injection burden, and cost
-  access.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: non statin cholesterol modulators myopathy
@@ -15,13 +9,9 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - >-
-    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
-    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
   - >-
-    simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400
 ---
 
 # Non-Statin Cholesterol Modulators for Myopathy: Safe Alternatives After Age 60

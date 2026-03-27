@@ -1,13 +1,7 @@
 ---
 title: >-
-  The Ultimate Guide to Reading Holiday Candy Labels for Adults With Late-Stage
-  Parkinson’s and Dysphagia
-slug: >-
-  the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
+slug: the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
 description: >-
-  A dysphagia-specialist–developed framework for identifying hidden choking
-  hazards (e.g., gum base viscosity, sugar alcohol cooling effect, wax coatings)
-  and safe texture-modified treat alternatives.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: holiday candy dysphagia parkinsons
@@ -15,15 +9,10 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
-    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
 ---
 
 # A Safe, Sweet Holiday: Understanding Holiday Candy Dysphagia Parkinsons for Adults Over 50

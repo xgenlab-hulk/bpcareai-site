@@ -1,13 +1,7 @@
 ---
 title: >-
-  Why Eating Standing Up at Holiday Buffets Raises Aspiration Risk in Adults 80+
-  With Subclinical Dysphagia
-slug: >-
-  why-eating-standing-up-at-holiday-buffets-raises-aspiration-risk-in-adults-80-with-subclinical-dysphagia
+slug: why-eating-standing-up-at-holiday-buffets-raises-aspiration-risk-in-adults-80-with-subclinical-dysphagia
 description: >-
-  Examines the biomechanics of upright eating, delayed pharyngeal transit, and
-  how festive distractions compound aspiration vulnerability—plus evidence-based
-  positioning strategies.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: standing eating aspiration risk seniors
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
   - >-
-    how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
   - >-
-    when-to-suspect-silent-aspiration-after-holiday-roast-beef-especially-in-adults-76-with-mild-dysphagia-and-early-stage-lewy-body-dementia
   - >-
-    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
   - >-
-    how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor
 ---
 
 # Why Standing Eating Aspiration Risk Seniors Is a Quiet Holiday Hazard—And How to Stay Safe

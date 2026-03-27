@@ -1,7 +1,6 @@
 ---
 title: "Holiday Travel and Blood Sugar: 3 Jet-Lag-Proof Insulin Timing Fixes"
-slug: >-
-  how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
+slug: how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
 description: "Crossing 2+ time zones shifts your body clock (circadian rhythm), raising fasting glucose 20-35 mg/dL. Three insulin timing rules keep adults 58-65 stable."
 date: '2026-02-08'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
-    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
   - >-
-    how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - >-
-    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
 ---
 
 # Protecting Your Glucose Rhythms During Holiday Travel: Smart Timing Strategies for Adults 58–65 on Insulin

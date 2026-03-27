@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Late-Night TV Binge-Watching Disrupts Melanopsin Signaling and Elevates
-  Dawn Phenomenon Glucose in Men Over 72 With Type 2 Diabetes
-slug: >-
-  how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
+slug: how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 description: >-
-  Explains how blue-enriched screen light suppresses nocturnal melatonin,
-  blunting nocturnal insulin sensitivity—and why this effect is magnified in
-  aging retinal ganglion cells.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: late-night TV dawn phenomenon diabetes
@@ -15,13 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
-    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
 ---
 
 # How Late-Night TV Watching Worsens the Dawn Phenomenon in Men Over 72 With Type 2 Diabetes

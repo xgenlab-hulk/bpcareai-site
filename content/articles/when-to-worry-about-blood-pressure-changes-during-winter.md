@@ -2,8 +2,6 @@
 title: When to Worry About Blood Pressure Changes During Winter
 slug: when-to-worry-about-blood-pressure-changes-during-winter
 description: >-
-  Provides clear warning signs that indicate a need for immediate medical
-  attention due to dangerous winter blood pressure fluctuations.
 date: '2025-12-09'
 updated: '2025-12-09'
 primaryKeyword: dangerous blood pressure levels

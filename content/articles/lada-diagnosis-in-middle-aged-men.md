@@ -1,14 +1,7 @@
 ---
 title: 'Men 52-64: Could Your Type 2 Diabetes Actually Be Autoimmune (LADA)?'
-  When to Suspect Autoimmune Latent Autoimmune Diabetes in Adults (LADA) in Men
-  52–64 With Rapid Sulfonylurea Failure, Low C-Peptide, and Personal History of
-  Hashimoto’s
-slug: >-
-  when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
+slug: when-to-suspect-autoimmune-latent-autoimmune-diabetes-in-adults-lada-in-men-52-64-with-rapid-sulfonylurea-failure-low-c-peptide-and-personal-history-of-hashimoto-s
 description: 'Up to 10% of adults labeled type 2 have slow autoimmune diabetes (LADA). Rapid pill failure, low C-peptide, and Hashimoto\'s history are 3 key red flags.'
-  Guides recognition of LADA in middle-aged adults misdiagnosed as type
-  2—focusing on antibody testing timing, clinical red flags, and why early
-  insulin initiation preserves residual beta-cell mass.
 date: '2026-01-13'
 updated: '2026-03-27'
 primaryKeyword: 'could my type 2 diabetes actually be autoimmune LADA'
@@ -16,15 +9,10 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving
   - >-
-    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
   - >-
-    how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
   - >-
-    when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement
   - >-
-    when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss
 ---
 
 # Recognizing LADA in Middle-Aged Men: A Gentle Guide to Early Autoimmune Diabetes Identification

@@ -1,12 +1,7 @@
 ---
 title: >-
-  What Are the Earliest Signs of Right-Sided Heart Failure in Seniors With
-  COPD—Before Swelling or Shortness of Breath?
-slug: >-
-  what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
+slug: what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
 description: >-
-  Highlights subtle clues like nocturnal cough, unexplained fatigue, elevated
-  JVP on self-exam, and jugular venous wave patterns detectable at home.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: early signs right sided heart failure COPD
@@ -14,14 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - heart-disease-warning-signs-that-appear-years-in-advance
   - >-
-    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
   - >-
-    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
 ---
 
 # Subtle Early Signs of Right-Sided Heart Failure in Seniors With COPD—What to Notice Before Swelling or Breathlessness

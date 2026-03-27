@@ -1,7 +1,6 @@
 ---
 title: "Women 55-66: Why Menopause Makes Holiday Drinks Riskier"
-slug: >-
-  holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
+slug: holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
 description: "Dropping estrogen widens the heart's electrical reset (QTc interval) 8-12ms. One glass of wine plus cortisol peaks raise AFib risk 40% in perimenopausal women."
 date: '2026-01-24'
 updated: 2026-03-26
@@ -10,13 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
   - >-
-    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-
-    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
 ---
 
 # Why Women Holiday Heart Syndrome Estrogen Withdrawal Is a Real Concern for Midlife Women (55–66)

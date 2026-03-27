@@ -1,7 +1,6 @@
 ---
 title: 'Normal Fasting but Spiking After Holiday Dinner? 7 Triggers at 65'
-slug: >-
-  after-meal-glucose-spikes-holidays-65-diabetes
+slug: after-meal-glucose-spikes-holidays-65-diabetes
 description: 'Fasting under 110 mg/dL yet hitting 180+ after eating? Sugar-free candy and delayed insulin raise after-meal sugar (postprandial glucose) in adults 65+.'
 date: '2026-02-02'
 updated: '2026-03-28'
@@ -12,9 +11,7 @@ relatedSlugs:
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
-    7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
 ---
 

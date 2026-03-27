@@ -1,14 +1,7 @@
 ---
 title: 'Why Declining Albumin Can Make Your A1c Reading Misleading After 68'
-  When to Worry About 'Stable' A1c and Rising Fasting Glucose — Especially in
-  Adults 68–84 With Type 2 Diabetes, Chronic Kidney Disease Stage 3, and
-  Declining Albumin
-slug: >-
-  when-to-worry-about-stable-a1c-and-rising-fasting-glucose-especially-in-adults-68-84-with-type-2-diabetes-chronic-kidney-disease-stage-3-and-declining-albumin
+slug: when-to-worry-about-stable-a1c-and-rising-fasting-glucose-especially-in-adults-68-84-with-type-2-diabetes-chronic-kidney-disease-stage-3-and-declining-albumin
 description: 'Falling albumin in CKD stage 3 falsely lowers A1c by 0.5-1.2% by shortening red blood cell lifespan. Fructosamine or glycated albumin testing gives more accurate glucose control data.'
-  Explains how falling albumin distorts A1c reliability and masks worsening
-  hepatic insulin resistance—highlighting when to pivot to fructosamine,
-  glycated albumin, or 1,5-AG testing.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'can low albumin make my A1c reading wrong in kidney disease'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-normal-fasting-glucose-readings-in-adults-with-diabetes-and-chronic-kidney-disease-stage-3a-why-your-lab-may-be-missing-early-glycemic-dysregulation
   - >-
-    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
-    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
   - >-
-    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
 ---
 
 # When Rising Fasting Glucose Signals Change — Even With a “Stable” A1c: Understanding A1c Reliability With Low Albumin in Older Adults

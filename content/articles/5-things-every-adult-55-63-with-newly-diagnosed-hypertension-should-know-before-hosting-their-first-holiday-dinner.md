@@ -1,7 +1,6 @@
 ---
 title: 'How to Host Holiday Dinner After a High BP Diagnosis (Ages 55-63)'
-slug: >-
-  new-bp-hosting-holiday-dinner-55-63
+slug: new-bp-hosting-holiday-dinner-55-63
 description: 'Hosting stress raises blood pressure (hypertension) by 10-20 mmHg. Time medication 90 min before guests and prep dishes under 500mg sodium per serving.'
 date: '2026-01-25'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
   - >-
-    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
   - >-
-    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
   - >-
-    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
   - >-
-    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
 ---
 
 # Can You Host Holiday Dinner with New High Blood Pressure? (Stress-Free Guide for Ages 55-63)

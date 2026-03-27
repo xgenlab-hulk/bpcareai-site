@@ -2,8 +2,6 @@
 title: 'Blood Pressure Jumping After Meals? (10 Foods That Help 60+)'
 slug: post-meal-bp-foods-seniors-60
 description: >-
-  Blood pressure swinging after meals? Discover 10 foods that stop the spikes
-  and drops—proven to stabilize BP for seniors 60+. Safe, natural, effective.
 date: '2025-12-23'
 updated: '2026-03-18'
 primaryKeyword: post-meal blood pressure foods seniors 60
@@ -14,9 +12,7 @@ relatedSlugs:
   - the-role-of-potassium-in-managing-blood-pressure-after-50
   - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
   - >-
-    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
   - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
 ---
 
 # Blood Pressure Jumping 20-30 Points After Meals? 10 Foods That Actually Stabilize It (Seniors 60+)

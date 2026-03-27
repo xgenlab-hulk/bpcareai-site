@@ -2,8 +2,6 @@
 title: The Link Between Social Isolation and Seasonal Mood Decline in Retirees
 slug: the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
 description: >-
-  Analyze how reduced social interaction in winter contributes to depression in
-  older adults living alone or with limited mobility.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: social isolation and seasonal depression

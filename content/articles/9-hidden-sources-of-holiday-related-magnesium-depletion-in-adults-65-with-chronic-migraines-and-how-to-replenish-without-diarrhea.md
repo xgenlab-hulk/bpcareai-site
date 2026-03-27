@@ -1,13 +1,7 @@
 ---
 title: '9 Holiday Habits That Quietly Drain Magnesium and Worsen Migraines After 65'
-  9 Hidden Sources of Holiday-Related Magnesium Depletion in Adults 65+ With
-  Chronic Migraines — And How to Replenish Without Diarrhea
-slug: >-
-  9-hidden-sources-of-holiday-related-magnesium-depletion-in-adults-65-with-chronic-migraines-and-how-to-replenish-without-diarrhea
+slug: 9-hidden-sources-of-holiday-related-magnesium-depletion-in-adults-65-with-chronic-migraines-and-how-to-replenish-without-diarrhea
 description: 'Alcohol, high-sugar desserts, and stress all deplete magnesium—a mineral supporting 300+ reactions including migraine prevention. Glycinate and malate forms replenish without diarrhea.'
-  Identifies festive magnesium sinks (alcohol, high-sugar desserts, stress,
-  diuretic herbs) and introduces timed, low-osmolar replenishment protocols
-  using glycinate and malate forms.
 date: '2026-02-25'
 updated: '2026-03-27'
 primaryKeyword: 'holiday habits that deplete magnesium and worsen migraines over 65'
@@ -15,14 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-magnesium-glycinate-timing-relative-to-holiday-desserts-optimizing-absorption-arrhythmia-protection-in-adults-65-with-gastric-hypochlorhydria
   - >-
-    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
-    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
   - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
 ---
 
 # Holiday Magnesium Depletion & Migraines in Seniors: Gentle Replenishment Strategies for Healthier Celebrations

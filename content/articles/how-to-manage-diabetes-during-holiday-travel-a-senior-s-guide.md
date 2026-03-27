@@ -2,8 +2,6 @@
 title: 'How to Manage Diabetes During Holiday Travel: A Senior’s Guide'
 slug: how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 description: >-
-  Practical strategies for maintaining stable blood sugar while navigating
-  airports, time zones, and irregular schedules during seasonal trips.
 date: '2025-12-05'
 updated: '2025-12-05'
 primaryKeyword: diabetes management during travel

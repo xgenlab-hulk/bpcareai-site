@@ -1,14 +1,7 @@
 ---
 title: >-
-  Can You Safely Use Transdermal Magnesium Chloride While on
-  Sacubitril/Valsartan? — Evidence on Myocardial Fibrosis Markers, NT-proBNP
-  Trajectories, and Diuretic Synergy in Adults 68+ With HFrEF
-slug: >-
-  can-you-safely-use-transdermal-magnesium-chloride-while-on-sacubitril-valsartan-evidence-on-myocardial-fibrosis-markers-nt-probnp-trajectories-and-diuretic-synergy-in-adults-68-with-hfref
+slug: can-you-safely-use-transdermal-magnesium-chloride-while-on-sacubitril-valsartan-evidence-on-myocardial-fibrosis-markers-nt-probnp-trajectories-and-diuretic-synergy-in-adults-68-with-hfref
 description: >-
-  Evaluates safety, pharmacokinetic interactions, and functional outcomes of
-  topical magnesium in advanced heart failure — where oral absorption and renal
-  clearance are compromised.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: "health management adults 68+"
@@ -16,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
   - >-
-    a-vs-b-warm-herbal-decoction-chamomile-hawthorn-vs-standard-evening-magnesium-glycinate-impact-on-nocturnal-afib-burden-in-men-61-75-with-holiday-heart-syndrome
   - >-
-    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
   - >-
-    what-are-the-earliest-signs-your-evening-magnesium-glycinate-dose-is-causing-subclinical-bp-instability-even-with-normal-serum-levels-in-adults-66-with-mild-diastolic-dysfunction
   - >-
-    does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
 ---
 
 # Is Transdermal Magnesium Chloride Safe with Sacubitril/Valsartan in Older Adults with Heart Failure?

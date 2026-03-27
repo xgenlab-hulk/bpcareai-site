@@ -1,7 +1,6 @@
 ---
 title: Logging Blood Pressure With Tremor and Hearing Loss After 74
-slug: >-
-  the-complete-guide-to-interpreting-home-blood-pressure-logs-for-adults-74-with-hearing-loss-and-mild-tremor-without-smartphone-apps-or-voice-assistants
+slug: the-complete-guide-to-interpreting-home-blood-pressure-logs-for-adults-74-with-hearing-loss-and-mild-tremor-without-smartphone-apps-or-voice-assistants
 description: Tactile grids with raised ridges and color-coded bands boosted weekly BP logging to 85% adherence in seniors with shaky hands (essential tremor).
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - >-
-    the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
   - >-
-    the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings
   - >-
-    the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
   - >-
-    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
 ---
 
 # A Gentle, Hands-On Guide to Your Home Blood Pressure Log With Hearing Loss and Tremor

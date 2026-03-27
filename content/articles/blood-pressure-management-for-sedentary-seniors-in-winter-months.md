@@ -2,8 +2,6 @@
 title: 'Managing Blood Pressure for Sedentary Seniors in Winter Months'
 slug: blood-pressure-management-for-sedentary-seniors-in-winter-months
 description: 'Inactive adults 65+ show 12-20% greater winter BP rises than active peers from vessel narrowing (vasoconstriction), fewer steps, and cold exposure.'
-  Tailored strategies for older adults with limited mobility to avoid
-  cardiovascular strain during colder, less active seasons.
 date: '2025-12-02'
 updated: '2026-03-27'
 primaryKeyword: 'managing blood pressure without exercise in winter seniors'

@@ -1,7 +1,6 @@
 ---
 title: "Winter Foot Care for Diabetics 71+: Preventing Ulcers Indoors"
-slug: >-
-  simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
+slug: simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
 description: "Indoor heaters drop skin moisture 40%. Electric blankets burn feet you can't feel with nerve damage (peripheral neuropathy). A daily mirror check catches 85%."
 date: '2026-01-30'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - >-
-    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
   - >-
-    best-foot-protective-sock-materials-for-men-74-with-diabetic-neuropathy-edema-and-stage-2-venous-insufficiency
   - >-
-    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
   - >-
-    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
 ---
 
 # Gentle, Practical Diabetic Foot Ulcers Winter Prevention for Older Adults

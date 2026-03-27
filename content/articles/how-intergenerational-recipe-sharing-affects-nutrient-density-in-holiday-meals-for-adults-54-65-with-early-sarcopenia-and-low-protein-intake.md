@@ -1,7 +1,6 @@
 ---
 title: Boosting Holiday Recipes for Muscle Health in Adults 54-65
-slug: >-
-  how-intergenerational-recipe-sharing-affects-nutrient-density-in-holiday-meals-for-adults-54-65-with-early-sarcopenia-and-low-protein-intake
+slug: how-intergenerational-recipe-sharing-affects-nutrient-density-in-holiday-meals-for-adults-54-65-with-early-sarcopenia-and-low-protein-intake
 description: Adults 54-65 with early muscle loss (sarcopenia) need 1.2g/kg protein daily. Collagen gravy and lentil-stuffed mushrooms boost holiday protein 27%.
 date: '2026-01-21'
 updated: 2026-03-26
@@ -10,12 +9,9 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - >-
-    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
   - >-
-    how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
   - the-link-between-family-food-traditions-and-chronic-disease-risk
 ---
 

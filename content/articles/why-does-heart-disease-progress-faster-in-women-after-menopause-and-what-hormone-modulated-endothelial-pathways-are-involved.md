@@ -1,13 +1,7 @@
 ---
 title: >-
-  Why Does Heart Disease Progress Faster in Women After Menopause — And What
-  Hormone-Modulated Endothelial Pathways Are Involved?
-slug: >-
-  why-does-heart-disease-progress-faster-in-women-after-menopause-and-what-hormone-modulated-endothelial-pathways-are-involved
+slug: why-does-heart-disease-progress-faster-in-women-after-menopause-and-what-hormone-modulated-endothelial-pathways-are-involved
 description: >-
-  Explores the biological mechanisms linking estrogen decline to accelerated
-  atherosclerosis, microvascular dysfunction, and diagnostic delays in women
-  aged 55–72.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: heart disease progression after menopause
@@ -15,12 +9,9 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
   - >-
-    5-things-every-woman-over-67-should-know-about-holiday-heart-syndrome-especially-with-concurrent-perimenopausal-estrogen-decline-and-subclinical-coronary-microvascular-dysfunction
   - how-menopause-affects-heart-disease-risk-in-women
   - >-
-    5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction
   - why-women-s-heart-attack-symptoms-differ-after-menopause
 ---
 

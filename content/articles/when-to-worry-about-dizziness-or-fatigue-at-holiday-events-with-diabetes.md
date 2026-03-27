@@ -2,8 +2,6 @@
 title: When to Worry About Dizziness or Fatigue at Holiday Events with Diabetes
 slug: when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
 description: >-
-  Identify when common holiday symptoms could signal dangerous blood sugar
-  fluctuations in adults over 60.
 date: '2025-12-05'
 updated: '2025-12-05'
 primaryKeyword: holiday dizziness diabetes warning signs

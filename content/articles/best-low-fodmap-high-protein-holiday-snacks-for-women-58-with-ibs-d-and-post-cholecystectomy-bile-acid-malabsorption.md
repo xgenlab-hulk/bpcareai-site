@@ -1,7 +1,6 @@
 ---
 title: Low-FODMAP Holiday Snacks for Women 58+ With IBS and No Gallbladder
-slug: >-
-  best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption
+slug: best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption
 description: Salmon roll-ups and chestnuts stay under 1g FODMAP per serve — safe for women 58+ with diarrhea-prone IBS (IBS-D) and bile issues after gallbladder removal.
 date: '2026-01-31'
 updated: '2026-03-26'
@@ -11,13 +10,9 @@ image: ''
 relatedSlugs:
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - >-
-    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
   - >-
-    best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
   - >-
-    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 ---
 
 # Low-FODMAP Holiday Snacks for Seniors with IBS: Gentle, Festive & Gut-Friendly Bites

@@ -9,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
   - >-
-    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
-    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
   - >-
-    10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue
   - >-
-    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
 ---
 
 # 10 Foods That Help Stabilize Cortisol Rhythm After the Holidays — Naturally for Adults 59–71 With Type 2 Diabetes and Chronic Stress

@@ -1,7 +1,6 @@
 ---
 title: Why Constant AC Makes Blood Pressure Harder to Control After 73
-slug: >-
-  how-chronic-low-volume-air-conditioning-use-alters-baroreflex-sensitivity-in-adults-73-with-isolated-systolic-hypertension-and-why-just-turning-it-up-makes-it-worse
+slug: how-chronic-low-volume-air-conditioning-use-alters-baroreflex-sensitivity-in-adults-73-with-isolated-systolic-hypertension-and-why-just-turning-it-up-makes-it-worse
 description: "Steady low-grade cooling blunts your pressure-adjusting reflex (baroreflex) by 18-25%. Setting rooms to 73-76\xB0F helps stabilize systolic swings after 73."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
   - >-
-    12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls
   - >-
-    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
-    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
   - >-
-    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
 ---
 
 # How Air Conditioning Baroreflex Sensitivity in Elderly Adults Is Affected by Everyday Cooling — And What You Can Do About It

@@ -1,7 +1,6 @@
 ---
 title: 'Skipping Your Water Pill After Thanksgiving? Why That\'s Risky After 67'
-slug: >-
-  myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
+slug: myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
 description: 'One skipped water pill (diuretic) after a high-sodium meal raises fluid 1.5-2 liters in 18 hours — enough to trigger acute heart failure in adults 67-81.'
 date: '2026-01-12'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
   - >-
-    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
   - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
-    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
 ---
 
 # Diuretic Holiday Heart Failure in Seniors: Why Skipping Just One Dose After Thanksgiving Can Trigger Acute Decompensated Heart Failure

@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Chronic Low-Grade Dental Inflammation Alters Plaque Stability in Adults
-  68+ With Stable CAD — Evidence from Serial IVUS-OCT Imaging
-slug: >-
-  how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging
+slug: how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging
 description: >-
-  Examines the oral-systemic link between periodontitis, circulating IL-6/TNF-α,
-  and vulnerable coronary plaque morphology in older adults with known heart
-  disease.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: dental inflammation and coronary plaque stability
@@ -15,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
   - >-
-    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - >-
-    how-chronic-low-grade-dental-inflammation-alters-endothelial-glycocalyx-thickness-and-why-that-matters-for-microvascular-coronary-flow-reserve-in-adults-64-with-stable-angina
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
 ---
 
 # How Dental Inflammation and Coronary Plaque Stability Are Connected in Older Adults With Heart Disease

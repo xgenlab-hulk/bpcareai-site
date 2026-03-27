@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Chronic Low-Grade Inflammation From Periodontitis Drives Postprandial
-  Hyperglycemia in Adults With Long-Standing Diabetes—And Why Scaling Alone
-  Isn’t Enough
-slug: >-
-  how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
+slug: how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
 description: >-
-  Explains the IL-6/TNF-α–mediated hepatic gluconeogenesis pathway and
-  introduces adjunctive antimicrobial protocols shown to improve 2-hr glucose
-  AUC by 22%.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: periodontitis postprandial hyperglycemia
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
   - >-
-    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - >-
-    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
   - >-
-    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
 ---
 
 # How Periodontitis Fuels Postprandial Hyperglycemia in Adults With Long-Standing Diabetes—And Why Dental Cleaning Alone Falls Short

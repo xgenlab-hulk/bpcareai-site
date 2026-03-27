@@ -1,14 +1,7 @@
 ---
 title: 'How Afternoon Sunlight Reduces Liver Glucose Production in Adults With Type 2 Diabetes'
-  How Late-Afternoon Sunlight Exposure Regulates Hepatic Gluconeogenic Gene
-  Expression in Adults 60–71 With Type 2 Diabetes — Via Melanopsin-Dependent SCN
-  Signaling, Not Vitamin D
-slug: >-
-  how-late-afternoon-sunlight-exposure-regulates-hepatic-gluconeogenic-gene-expression-in-adults-60-71-with-type-2-diabetes-via-melanopsin-dependent-scn-signaling-not-vitamin-d
+slug: how-late-afternoon-sunlight-exposure-regulates-hepatic-gluconeogenic-gene-expression-in-adults-60-71-with-type-2-diabetes-via-melanopsin-dependent-scn-signaling-not-vitamin-d
 description: '15-25 minutes of sunlight between 3:30-5 PM activates retinal melanopsin, signaling the brain\'s master clock (SCN) to suppress PEPCK and G6PC—key liver glucose-producing genes.'
-  Explains the non-calciferol pathway linking retinal melanopsin activation to
-  suppression of PEPCK and G6PC transcription, with actionable timing guidelines
-  (15–25 min between 3:30–5:00 p.m.) and seasonal adjustments.
 date: '2026-02-17'
 updated: '2026-03-27'
 primaryKeyword: 'afternoon sunlight and liver glucose production in type 2 diabetes'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-afternoon-sunlight-exposure-regulates-hepatic-glucose-production-via-melanopsin-scn-arc-signaling-in-adults-59-66-with-insulin-resistance
   - >-
-    how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase
   - >-
-    how-chronic-exposure-to-led-nightlights-in-hallways-disrupts-retinal-melanopsin-signaling-and-elevates-nocturnal-glucose-in-adults-70-with-nocturia-and-poor-sleep-efficiency
 ---
 
 # How Afternoon Sunlight Gluconeogenesis Type 2 Diabetes Connection Works — And Why Timing Matters

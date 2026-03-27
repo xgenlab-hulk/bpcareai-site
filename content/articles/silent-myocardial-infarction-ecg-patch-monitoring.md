@@ -1,14 +1,7 @@
 ---
 title: 'Silent Heart Attacks After 75: What ECG Patches Can Catch'
-  5 Things Everyone Over 75 Should Know About ‘Silent’ Myocardial Infarction
-  Detection Using Continuous ECG Patch Monitoring and AI-Derived ST-T Morphology
-  Clustering
-slug: >-
-  5-things-everyone-over-75-should-know-about-silent-myocardial-infarction-detection-using-continuous-ecg-patch-monitoring-and-ai-derived-st-t-morphology-clustering
+slug: 5-things-everyone-over-75-should-know-about-silent-myocardial-infarction-detection-using-continuous-ecg-patch-monitoring-and-ai-derived-st-t-morphology-clustering
 description: 'Over 40% of heart attacks in adults 75+ cause no chest pain. AI-driven ECG patches spot subtle wave changes (silent myocardial infarction) standard tests miss.'
-  Breaks down how AI-enhanced wearable ECGs identify subtle ST-segment
-  hysteresis, T-wave alternans, and QT dispersion patterns missed by standard
-  troponin + ECG protocols.
 date: '2026-01-17'
 updated: '2026-03-27'
 primaryKeyword: 'can ECG patches detect a silent heart attack after 75'
@@ -16,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-home-based-ecg-patch-monitoring-zio-xt-vs-ambulatory-holter-for-detecting-asymptomatic-atrial-fibrillation-burden-in-adults-60-79-with-controlled-hypertension
   - >-
-    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
   - >-
-    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
   - >-
-    does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension
   - >-
-    myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
 ---
 
 # What Seniors Over 75 Need to Know About Silent Myocardial Infarction ECG Patch Monitoring

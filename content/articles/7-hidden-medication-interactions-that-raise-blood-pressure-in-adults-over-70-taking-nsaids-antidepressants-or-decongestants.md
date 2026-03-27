@@ -2,9 +2,6 @@
 title: '7 Medications Quietly Raising Blood Pressure in Adults Over 70'
 slug: nsaid-antidepressant-bp-spikes-70
 description: 'Ibuprofen plus antidepressants raise systolic BP 10-25 mmHg in adults 70+. 7 drug interactions—NSAIDs, SSRIs, decongestants—with monitoring and safer swaps.'
-  Taking ibuprofen and antidepressants? Get 7 hidden drug interactions that
-  spike systolic BP 10–25 mm Hg—plus safer alternatives and monitoring tricks
-  for adults 70+.
 date: '2026-01-10'
 updated: '2026-03-27'
 primaryKeyword: 'medications that raise blood pressure in adults over 70'
@@ -12,14 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
-    10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
   - could-your-medications-be-raising-your-blood-pressure
   - >-
-    7-common-medication-interactions-that-worsen-seasonal-depression-symptoms-in-older-adults-on-polypharmacy-regimens
   - >-
-    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
 ---
 
 # 7 Under-the-Radar Medication Interactions That Raise Blood Pressure in Older Adults Taking NSAIDs, Antidepressants, or Decongestants  

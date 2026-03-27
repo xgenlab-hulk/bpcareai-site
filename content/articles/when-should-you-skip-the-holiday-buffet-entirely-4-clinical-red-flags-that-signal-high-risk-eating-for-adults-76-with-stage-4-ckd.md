@@ -1,13 +1,7 @@
 ---
 title: >-
-  When Should You Skip the Holiday Buffet Entirely? — 4 Clinical Red Flags That
-  Signal High-Risk Eating for Adults 76+ With Stage 4 CKD
-slug: >-
-  when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd
+slug: when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd
 description: >-
-  Defines objective thresholds (eGFR <25, serum phosphorus >5.0, potassium >4.8,
-  albumin <3.2) and provides actionable alternatives for safe social
-  participation.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: skip holiday buffet stage 4 ckd seniors
@@ -15,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-your-holiday-gravy-contains-hidden-phosphate-additives-and-why-that-matters-for-adults-74-with-stage-3-ckd
   - >-
-    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
   - >-
-    a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
-    when-should-you-skip-the-holiday-ham-and-why-if-you-re-66-with-stage-2-chronic-kidney-disease-and-elevated-urea-nitrogen
   - >-
-    what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
 ---
 
 # When to Skip the Holiday Buffet: Guidance for Seniors with Stage 4 CKD

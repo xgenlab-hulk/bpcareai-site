@@ -2,9 +2,6 @@
 title: Why Does Blood Pressure Spike in Cold Weather? What Seniors Need to Know
 slug: why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
 description: >-
-  Explores the physiological reasons behind winter blood pressure increases in
-  older adults and offers practical guidance for monitoring and management
-  during colder months.
 date: '2025-12-02'
 updated: '2025-12-02'
 primaryKeyword: blood pressure in cold weather

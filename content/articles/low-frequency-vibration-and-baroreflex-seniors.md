@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Chronic Exposure to Low-Frequency Vibration (e.g., From Walking Aids or
-  Mobility Scooters) Alters Baroreflex Sensitivity in Adults 79+ With Severe
-  Peripheral Neuropathy
-slug: >-
-  how-chronic-exposure-to-low-frequency-vibration-e-g-from-walking-aids-or-mobility-scooters-alters-baroreflex-sensitivity-in-adults-79-with-severe-peripheral-neuropathy
+slug: how-chronic-exposure-to-low-frequency-vibration-e-g-from-walking-aids-or-mobility-scooters-alters-baroreflex-sensitivity-in-adults-79-with-severe-peripheral-neuropathy
 description: >-
-  Investigates sub-threshold mechanical noise interference with carotid sinus
-  mechanoreceptors and its link to increased BP variability and orthostatic
-  hypotension episodes.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: low frequency vibration and baroreflex seniors
@@ -16,15 +9,10 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
   - >-
-    how-chronic-exposure-to-low-frequency-traffic-vibration-below-10-hz-modulates-baroreceptor-sensitivity-in-adults-65-70-with-stage-1-hypertension-and-mild-sleep-fragmentation
   - >-
-    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
-    how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings
   - >-
-    how-intermittent-use-of-magnetic-mattress-pads-alters-baroreflex-gain-in-adults-63-with-mild-orthostatic-intolerance-and-early-autonomic-neuropathy
 ---
 
 # How Low-Frequency Vibration Affects Baroreflex Sensitivity in Older Adults With Neuropathy

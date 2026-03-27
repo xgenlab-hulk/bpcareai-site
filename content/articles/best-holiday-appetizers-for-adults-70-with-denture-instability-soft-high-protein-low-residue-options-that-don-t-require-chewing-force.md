@@ -1,7 +1,6 @@
 ---
 title: 'Soft High-Protein Holiday Appetizers for Adults 70+ With Dentures'
-slug: >-
-  best-holiday-appetizers-for-adults-70-with-denture-instability-soft-high-protein-low-residue-options-that-don-t-require-chewing-force
+slug: best-holiday-appetizers-for-adults-70-with-denture-instability-soft-high-protein-low-residue-options-that-don-t-require-chewing-force
 description: 'Eight moist, low-residue finger foods safe for shifting dentures — salivary flow drops ~40% by age 80, making cohesive protein textures essential at meals.'
 date: '2026-02-24'
 updated: '2026-03-27'
@@ -11,13 +10,9 @@ image: ''
 relatedSlugs:
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - >-
-    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
   - >-
-    10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress
   - >-
-    best-low-allergen-holiday-side-dishes-for-adults-75-with-late-onset-tree-nut-allergy-and-eosinophilic-esophagitis
   - >-
-    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
 ---
 
 # Soft & Satisfying Holiday Appetizers for Seniors With Denture Instability  

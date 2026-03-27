@@ -1,7 +1,6 @@
 ---
 title: Low-Sugar Protein Bars With CKD? Hidden Phosphorus Risks After 65
-slug: >-
-  the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk
+slug: the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk
 description: Most 'diabetic-friendly' bars pack 200-350 mg hidden phosphorus per serving — enough to speed kidney decline (eGFR loss) in adults 65+ with stage 3 CKD.
 date: '2026-01-27'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
   - >-
-    dangers-of-using-over-the-counter-energy-gels-during-morning-walks-for-adults-with-type-2-diabetes-and-stage-2-ckd
   - >-
-    the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
   - >-
-    the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes
   - >-
-    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
 ---
 
 # What You *Really* Need to Know About Low-Sugar Protein Bars and Kidney Health in Older Adults With Diabetes

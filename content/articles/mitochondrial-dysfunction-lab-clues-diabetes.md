@@ -1,7 +1,6 @@
 ---
 title: Early Lab Clues Diabetes Is Damaging Muscle Energy (Ages 54-65)
-slug: >-
-  what-are-the-earliest-lab-clues-of-mitochondrial-dysfunction-in-skeletal-muscle-in-adults-54-65-with-type-2-diabetes-and-persistent-exercise-intolerance
+slug: what-are-the-earliest-lab-clues-of-mitochondrial-dysfunction-in-skeletal-muscle-in-adults-54-65-with-type-2-diabetes-and-persistent-exercise-intolerance
 description: Exercise intolerance with diabetes may stem from cellular power loss (mitochondrial dysfunction). Acylcarnitine profiles and lactate ratios catch it early.
 date: '2026-01-28'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
   - >-
-    what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
   - >-
-    what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
 ---
 
 # Early Lab Clues of Mitochondrial Dysfunction in Adults 54–65 With Type 2 Diabetes and Exercise Intolerance

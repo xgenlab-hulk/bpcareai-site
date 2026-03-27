@@ -1,7 +1,6 @@
 ---
 title: 'Intermittent Fasting After 72: Can It Worsen Standing Dizziness?'
-slug: >-
-  can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
+slug: can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
 description: 'Skipping meals drops blood volume 8-12% in seniors with diabetes, worsening drops when standing up (orthostatic hypotension). A 10-hour eating window is safer.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,14 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - >-
-    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
   - >-
-    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
-    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
 ---
 
 # Intermittent Fasting and Orthostatic Hypotension in Seniors With Long-Standing Type 2 Diabetes

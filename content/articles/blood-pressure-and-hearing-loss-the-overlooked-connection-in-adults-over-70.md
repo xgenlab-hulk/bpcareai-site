@@ -2,9 +2,6 @@
 title: 'Blood Pressure and Hearing Loss: The Overlooked Link in Adults Over 70'
 slug: blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
 description: 'Stage 2 hypertension raises hearing loss risk up to 30% via cochlear (inner ear) damage — audiograms can flag vascular risk before cardiac symptoms emerge.'
-  Explores microvascular damage to the cochlea, shared risk factors (oxidative
-  stress, nitric oxide dysregulation), and how audiograms can serve as early BP
-  risk indicators in aging populations.
 date: '2025-12-16'
 updated: '2026-03-27'
 primaryKeyword: 'can high blood pressure cause hearing loss in the elderly'

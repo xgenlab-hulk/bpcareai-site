@@ -1,7 +1,6 @@
 ---
 title: 'Holiday Punch and ACE Inhibitors: Hidden Potassium Risks After 70'
-slug: >-
-  holiday-punch-potassium-ace-inhibitors-70
+slug: holiday-punch-potassium-ace-inhibitors-70
 description: 'One glass of pomegranate punch adds 600-800mg potassium — risky when BP pills (ACE inhibitors) already raise your levels. 5 safer fruit swaps for 70+.'
 date: '2026-02-06'
 updated: '2026-03-28'
@@ -10,14 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
   - >-
-    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
   - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
-    5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
 ---
 
 # Can Alcohol-Free Holiday Punch Raise Your Potassium If You Take ACE Inhibitors or ARBs?

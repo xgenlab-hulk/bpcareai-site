@@ -1,13 +1,7 @@
 ---
 title: >-
-  When Should Men Over 75 With Type 2 Diabetes Stop Routine HbA1c Screening? A
-  Risk-Benefit Framework for Deprescribing Glycemic Testing
-slug: >-
-  when-should-men-over-75-with-type-2-diabetes-stop-routine-hba1c-screening-a-risk-benefit-framework-for-deprescribing-glycemic-testing
+slug: when-should-men-over-75-with-type-2-diabetes-stop-routine-hba1c-screening-a-risk-benefit-framework-for-deprescribing-glycemic-testing
 description: >-
-  Analyzes evidence on mortality, functional decline, and hypoglycemia risk to
-  guide individualized decisions about discontinuing A1c monitoring in frail
-  older adults.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: stop hba1c screening elderly men
@@ -15,10 +9,8 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
   - understanding-a1c-goals-for-seniors-with-diabetes
   - >-
-    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
   - is-metformin-still-safe-for-diabetics-over-70
 ---
 

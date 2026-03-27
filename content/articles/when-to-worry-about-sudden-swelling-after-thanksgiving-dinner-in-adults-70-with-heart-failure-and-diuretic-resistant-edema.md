@@ -1,7 +1,6 @@
 ---
 title: Sudden Swelling After Thanksgiving? Red Flags for Seniors 70+
-slug: >-
-  when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
+slug: when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
 description: Gaining 4+ lbs in 48 hours or trouble lying flat (orthopnea) after salty food signals worsening heart failure — not bloat. When to call your doctor.
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
   - >-
-    myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
   - >-
-    when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # When Sudden Swelling After Holiday Meal Heart Failure Calls for Prompt Attention—Especially After Thanksgiving

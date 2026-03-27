@@ -1,7 +1,6 @@
 ---
 title: Late-Night Eggnog and Morning Glucose Spikes in Adults 55-68
-slug: >-
-  how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history
+slug: how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history
 description: Eggnog after 9 p.m. raises morning glucose 18-30 mg/dL in adults 55-68 with belly fat cluster (metabolic syndrome) — fat + sugar doubles insulin resistance.
 date: '2026-01-23'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
   - >-
-    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
-    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # How Late-Night Eggnog Affects Fasting Glucose in Adults 55–68 With Metabolic Syndrome and Shift-Work History  

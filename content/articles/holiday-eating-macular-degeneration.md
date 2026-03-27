@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Ultimate Guide to Holiday Eating for Adults With Late-Stage Macular
-  Degeneration—Focusing on Meal Visibility, Texture Cues, and Nutrient-Dense
-  Low-Vision Adaptations
-slug: >-
-  the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
+slug: the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
 description: >-
-  Covers high-contrast plating, aroma layering, tactile food identification, and
-  lutein/zeaxanthin-rich substitutions that support both vision and metabolic
-  health.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: holiday eating macular degeneration
@@ -16,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
-    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
   - >-
-    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
   - >-
-    simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
 ---
 
 # Navigating Holiday Eating With Macular Degeneration: A Low-Vision Nutrition Strategy for Adults 50+

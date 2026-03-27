@@ -12,7 +12,6 @@ relatedSlugs:
   - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - >-
-    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
 ---
 

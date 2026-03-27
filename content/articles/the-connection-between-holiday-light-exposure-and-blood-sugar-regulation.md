@@ -2,8 +2,6 @@
 title: The Connection Between Holiday Light Exposure and Blood Sugar Regulation
 slug: the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
 description: >-
-  Explore how changes in circadian rhythm due to festive lighting and late
-  nights may influence glucose control in people over 50 with diabetes.
 date: '2025-12-18'
 updated: '2025-12-18'
 primaryKeyword: holiday lights blood sugar circadian

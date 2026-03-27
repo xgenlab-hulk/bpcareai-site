@@ -1,14 +1,7 @@
 ---
 title: >-
-  Natural Ways to Support Mitochondrial Quality Control in Cardiomyocytes
-  *Without* Activating mTOR — Using Fasting-Mimicking Diets and Urolithin A in
-  Adults 66+ With Preserved EF and Low VO₂ Peak
-slug: >-
-  natural-ways-to-support-mitochondrial-quality-control-in-cardiomyocytes-without-activating-mtor-using-fasting-mimicking-diets-and-urolithin-a-in-adults-66-with-preserved-ef-and-low-vo-peak
+slug: natural-ways-to-support-mitochondrial-quality-control-in-cardiomyocytes-without-activating-mtor-using-fasting-mimicking-diets-and-urolithin-a-in-adults-66-with-preserved-ef-and-low-vo-peak
 description: >-
-  Focuses on mitophagy-enhancing nutrition strategies that avoid growth pathway
-  overstimulation in aging heart muscle — with dosing, timing, and biomarker
-  monitoring guidance.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: mitochondrial quality control in cardiomyocytes
@@ -16,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction
   - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
 ---
 
 # Supporting Mitochondrial Quality Control in Cardiomyocytes Naturally — Safe, Evidence-Informed Strategies for Adults 66+

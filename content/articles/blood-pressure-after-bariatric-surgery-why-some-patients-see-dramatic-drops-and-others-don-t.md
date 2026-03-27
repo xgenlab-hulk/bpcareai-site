@@ -1,13 +1,7 @@
 ---
 title: 'Blood Pressure After Bariatric Surgery: Why Results Vary So Widely'
-  Blood Pressure After Bariatric Surgery: Why Some Patients See Dramatic
-  Drops—And Others Don’t
-slug: >-
-  blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
+slug: blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
 description: 'Each 10 kg lost drops systolic BP 5-20 mm Hg — yet many adults 55-70 still need meds. Gut hormone shifts (incretin changes) predict lasting BP control.'
-  Analyzes mechanisms behind BP normalization post-surgery (weight loss,
-  renin-angiotensin reset, gut hormone shifts), predictors of success, and risks
-  of persistent hypertension in obese adults 55–70.
 date: '2025-12-17'
 updated: '2026-03-27'
 primaryKeyword: 'why blood pressure stays high after weight loss surgery'
@@ -16,11 +10,8 @@ image: ''
 relatedSlugs:
   - how-belly-fat-increases-blood-pressure-risk-after-middle-age
   - >-
-    what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
   - >-
-    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - >-
-    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
 ---
 

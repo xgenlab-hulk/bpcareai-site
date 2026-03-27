@@ -2,8 +2,6 @@
 title: 'Thanksgiving Dinner Interactions to Check on AFib Medications'
 slug: holiday-medication-interactions-afib-drugs
 description: 'Amiodarone, sotalol, and dronedarone interact with grapefruit and alcohol to alter drug levels and prolong the QT interval (heart rhythm marker) dangerously.'
-  10 holiday medication interactions for AFib drugs—grapefruit + amiodarone,
-  cranberry + sotalol. Safe substitutions for Thanksgiving meals.
 date: '2025-12-24'
 updated: '2026-03-27'
 primaryKeyword: 'holiday food interactions with heart rhythm medications'
@@ -11,13 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
-    7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
 ---
 
 # 10 Holiday Medication Interactions for AFib Drugs You Should Review Before Thanksgiving Dinner

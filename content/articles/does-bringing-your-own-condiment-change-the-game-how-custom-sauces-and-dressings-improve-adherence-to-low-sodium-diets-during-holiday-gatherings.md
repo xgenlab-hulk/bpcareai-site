@@ -1,14 +1,7 @@
 ---
 title: 'Custom Condiments That Keep Holiday Sodium in Check After 60'
-  Does Bringing Your Own Condiment Change the Game? How Custom Sauces and
-  Dressings Improve Adherence to Low-Sodium Diets During Holiday Gatherings
-slug: >-
-  does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
+slug: does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
 description: 'Herb-based sauces cut sodium 40-60% per serving. Custom condiments (salt-reduced bases) help seniors stay under the 1,500 mg/day limit at holiday gatherings.'
-  Field-tested recipes and sodium-per-tablespoon comparisons for homemade
-  alternatives (e.g., miso-tahini gravy, roasted garlic aioli) that preserve
-  flavor while supporting BP goals—plus conversation scripts for offering them
-  gracefully.
 date: '2025-12-24'
 updated: '2026-03-27'
 primaryKeyword: 'low sodium condiments for holiday meals seniors'
@@ -16,11 +9,9 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
 ---
 

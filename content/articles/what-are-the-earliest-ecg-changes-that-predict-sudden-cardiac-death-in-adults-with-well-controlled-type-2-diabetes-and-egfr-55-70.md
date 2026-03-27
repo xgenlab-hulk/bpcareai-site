@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Are the Earliest ECG Changes That Predict Sudden Cardiac Death in Adults
-  With Well-Controlled Type 2 Diabetes and eGFR 55–70?
-slug: >-
-  what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
+slug: what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
 description: >-
-  Analyzes subtle QTc dispersion, T-wave alternans, and microvolt-level late
-  potentials in routine 12-lead ECGs—prior to structural changes or symptoms—in
-  high-risk predialysis diabetic cohorts.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: ecg changes sudden cardiac death diabetes
@@ -15,12 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
   - >-
-    what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
   - how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
   - >-
-    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - recognizing-silent-heart-attacks-in-diabetics-over-60
 ---
 

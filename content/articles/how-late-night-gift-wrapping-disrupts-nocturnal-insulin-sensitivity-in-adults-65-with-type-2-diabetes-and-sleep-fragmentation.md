@@ -1,13 +1,7 @@
 ---
 title: 'Late-Night Gift Wrapping and Overnight Blood Sugar After 65'
-  How Late-Night Gift Wrapping Disrupts Nocturnal Insulin Sensitivity in Adults
-  65+ With Type 2 Diabetes and Sleep Fragmentation
-slug: >-
-  how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
+slug: how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
 description: 'Blue-rich lighting delays melatonin 45-90 min, cutting overnight glucose clearance (nocturnal insulin sensitivity) ~18%. Amber lenses by 9 PM help.'
-  Analyzes the circadian impact of blue-enriched task lighting, sustained
-  sitting, and delayed melatonin onset on overnight glucose clearance—backed by
-  overnight CGM studies in seniors with mild sleep apnea.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'does staying up late wrapping gifts raise blood sugar'
@@ -15,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
-    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
 ---
 
 # How Late-Night Activity Impacts Insulin Sensitivity in Seniors with Type 2 Diabetes—Especially During the Holidays

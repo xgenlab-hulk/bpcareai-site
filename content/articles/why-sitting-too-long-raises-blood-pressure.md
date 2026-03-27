@@ -2,8 +2,6 @@
 title: Why Sitting Too Long Raises Blood Pressure
 slug: why-sitting-too-long-raises-blood-pressure
 description: >-
-  Learn how prolonged sitting affects blood pressure throughout the day and
-  simple ways to break up sedentary time.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: sitting and high blood pressure risk
@@ -15,7 +13,6 @@ relatedSlugs:
   - blood-pressure-changes-during-menopause-what-women-should-know
   - how-belly-fat-increases-blood-pressure-risk-after-middle-age
   - >-
-    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
 ---
 
 # How Prolonged Sitting Increases Sitting and High Blood Pressure Risk

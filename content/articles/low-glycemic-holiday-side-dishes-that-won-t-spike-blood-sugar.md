@@ -2,8 +2,6 @@
 title: Low-Glycemic Holiday Side Dishes That Won’t Spike Blood Sugar
 slug: low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
 description: >-
-  Recipe ideas and ingredient swaps for traditional sides like mashed potatoes,
-  stuffing, and desserts that are diabetes-friendly.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: low-glycemic holiday side dishes

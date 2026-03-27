@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Research Says About Standing Desks and Blood Pressure in Office Workers
-  Over 60
-slug: >-
-  what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60
+slug: what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60
 description: >-
-  Summarizes 2022–2024 RCTs on non-exercise activity thermogenesis (NEAT),
-  micro-movements, and vascular tone—plus practical recommendations for
-  sedentary professionals managing stage 1 hypertension.
 date: '2025-12-17'
 updated: '2025-12-17'
 primaryKeyword: standing desk blood pressure research 60+
@@ -17,11 +11,8 @@ relatedSlugs:
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
   - >-
-    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
   - >-
-    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
   - >-
-    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
 ---
 
 # What the Latest Standing Desk Blood Pressure Research 60+ Reveals for Older Office Workers

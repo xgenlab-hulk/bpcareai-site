@@ -1,7 +1,6 @@
 ---
 title: Early Signs of Cardiac Sarcoidosis Before Imaging Catches It
-slug: >-
-  what-are-the-earliest-signs-of-cardiac-sarcoidosis-in-adults-59-with-unexplained-av-block-and-normal-ejection-fraction-before-fdg-pet-uptake-becomes-diffuse
+slug: what-are-the-earliest-signs-of-cardiac-sarcoidosis-in-adults-59-with-unexplained-av-block-and-normal-ejection-fraction-before-fdg-pet-uptake-becomes-diffuse
 description: Unexplained heart block (AV block) with normal pumping strength plus low vitamin D and high ACE may flag heart inflammation (cardiac sarcoidosis) after 59.
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef
   - >-
-    7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
   - >-
-    warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 ---
 
 # Early Clues of Cardiac Sarcoidosis in Adults 59+ With Unexplained AV Block — Before Imaging Shows Widespread Inflammation

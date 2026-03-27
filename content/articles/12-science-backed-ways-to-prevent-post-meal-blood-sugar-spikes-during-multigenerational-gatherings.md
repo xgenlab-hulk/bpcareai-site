@@ -2,7 +2,6 @@
 title: 'Post-Meal Blood Sugar Spikes After 60? 12 Ways to Stay Safe'
 slug: blood-sugar-spikes-family-meals-seniors
 description: 'Adults 60+ see post-meal sugar jumps (postprandial glucose) 40-60 mg/dL higher than younger peers. Food sequencing and 5-minute walks cut spikes.'
-  Blood sugar soaring after family dinners? Learn 12 proven strategies—vinegar timing, food sequencing, 5-minute walks—to prevent dangerous spikes and protect your heart (ages 60+).
 date: '2025-12-18'
 updated: '2026-03-27'
 primaryKeyword: 'how to prevent blood sugar spikes after meals over 60'

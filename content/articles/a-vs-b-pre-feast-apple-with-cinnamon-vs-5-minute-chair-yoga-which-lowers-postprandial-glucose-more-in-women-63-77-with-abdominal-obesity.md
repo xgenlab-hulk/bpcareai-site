@@ -1,13 +1,7 @@
 ---
 title: 'Apple With Cinnamon vs Chair Yoga: Which Lowers Blood Sugar More Before Meals'
-  A vs B: Pre-Feast Apple With Cinnamon vs. 5-Minute Chair Yoga — Which Lowers
-  Postprandial Glucose More in Women 63–77 With Abdominal Obesity?
-slug: >-
-  a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity
+slug: a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity
 description: 'A pre-meal apple with cinnamon cut post-meal glucose spikes by 22 mg/dL vs 14 mg/dL for 5-minute chair yoga in women 63-77 with abdominal obesity (waist ≥88 cm).'
-  Side-by-side comparison of two low-barrier, time-efficient interventions
-  tested in a real-world cohort, with data on timing, efficacy window, and
-  interaction with common medications.
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'apple with cinnamon vs chair yoga for blood sugar before a meal'
@@ -15,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
-    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
-    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
-    12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides
   - >-
-    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
 ---
 
 # Apple With Cinnamon vs Chair Yoga Glucose: Which Real-World Strategy Works Better for Women 63–77 with Abdominal Obesity?

@@ -1,7 +1,6 @@
 ---
 title: Which Herbal Teas Are Safe With Stage 3 Kidney Disease After 71?
-slug: >-
-  best-low-tannin-herbal-teas-for-adults-71-with-diabetic-nephropathy-and-stage-3-ckd-avoiding-potassium-and-oxalate-accumulation
+slug: best-low-tannin-herbal-teas-for-adults-71-with-diabetic-nephropathy-and-stage-3-ckd-avoiding-potassium-and-oxalate-accumulation
 description: 8 herbal teas tested for mineral buildup (potassium/oxalate) — steep under 3 min at 175°F to cut leaching 40%. Safe choices for kidney disease (nephropathy).
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
-    the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk
   - >-
-    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
   - >-
-    the-truth-about-diabetes-friendly-holiday-hot-chocolate-why-low-sugar-labels-hide-3-hidden-risks-for-adults-74-with-mild-ckd-and-metformin-use
 ---
 
 # Gentle Herbal Hydration: Safe Low-Tannin Herbal Tea Options for Adults 71+ With Diabetic Nephropathy and Stage 3 CKD

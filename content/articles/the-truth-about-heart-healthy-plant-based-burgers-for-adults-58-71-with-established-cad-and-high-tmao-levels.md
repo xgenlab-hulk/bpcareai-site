@@ -1,7 +1,6 @@
 ---
 title: Are Plant-Based Burgers Heart-Safe? What Adults 58-71 Need to Know
-slug: >-
-  the-truth-about-heart-healthy-plant-based-burgers-for-adults-58-71-with-established-cad-and-high-tmao-levels
+slug: the-truth-about-heart-healthy-plant-based-burgers-for-adults-58-71-with-established-cad-and-high-tmao-levels
 description: Processed plant burgers raise a gut toxin (TMAO) 2-3x more than bean patties. Adults 58-71 with coronary disease need the ingredient swap, not the label.
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
 ---
 
 # Are Plant-Based Burgers Safe for Your Heart? What Adults 58–71 with CAD and High TMAO Need to Know

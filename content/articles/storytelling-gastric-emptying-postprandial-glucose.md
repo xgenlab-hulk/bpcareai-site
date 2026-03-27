@@ -1,7 +1,6 @@
 ---
 title: Why Storytelling at Dinner Steadies Blood Sugar in Seniors Over 78
-slug: >-
-  how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment
+slug: how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment
 description: Conversation slows stomach emptying (gastric motility) ~20%, producing smoother CGM glucose curves in adults 78+ with mild cognitive impairment.
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms
   - >-
-    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
   - >-
-    how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
   - >-
-    how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd
   - >-
-    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
 ---
 
 # How Intergenerational Storytelling at Dinner Influences Gastric Emptying and Stabilizes Postprandial Glucose in Older Adults With Mild Cognitive Impairment

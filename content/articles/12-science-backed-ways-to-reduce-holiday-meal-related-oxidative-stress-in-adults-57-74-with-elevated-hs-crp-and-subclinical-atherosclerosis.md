@@ -1,7 +1,6 @@
 ---
 title: '12 Anti-Inflammation Swaps for Holiday Meals After Age 57'
-slug: >-
-  holiday-inflammation-food-adults-57-74
+slug: holiday-inflammation-food-adults-57-74
 description: 'A rich holiday meal spikes inflammation markers (hs-CRP) for 4-6 hours. 12 food swaps target cell damage (oxidative stress) that speeds plaque in adults 57-74.'
 date: '2026-01-20'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
   - >-
-    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
   - >-
-    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
   - >-
-    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
   - >-
-    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
 ---
 
 # Holiday Meals Leaving You Exhausted and Inflamed? What Adults 57-74 Need to Know

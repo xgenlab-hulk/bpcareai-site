@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Are the Earliest Retinal Microvascular Changes That Predict Hypertensive
-  End-Organ Damage—Before BP Crosses 130/80?
-slug: >-
-  what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
+slug: what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
 description: >-
-  Details AI-assisted OCT angiography findings (e.g., foveal avascular zone
-  enlargement, perivenular leakage) as pre-hypertensive biomarkers in
-  normotensive adults 55–69 with strong family history.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: retinal changes before hypertension diagnosis
@@ -15,13 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - how-vision-changes-might-be-linked-to-heart-disease
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
   - >-
-    what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
 ---
 
 # Early Retinal Changes Before Hypertension Diagnosis: What Your Eyes May Reveal About Heart Health

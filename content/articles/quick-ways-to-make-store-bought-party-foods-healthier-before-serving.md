@@ -2,8 +2,6 @@
 title: Quick Ways to Make Store-Bought Party Foods Healthier Before Serving
 slug: quick-ways-to-make-store-bought-party-foods-healthier-before-serving
 description: >-
-  Offers fast prep tweaks—like rinsing canned goods or adding veggies—to improve
-  the nutritional value of convenience foods.
 date: '2025-12-04'
 updated: '2025-12-04'
 primaryKeyword: healthier store-bought party food
@@ -12,7 +10,6 @@ image: ''
 relatedSlugs:
   - simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
   - >-
-    top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
   - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: 'Managing Diabetes in a Heat Wave on SGLT2 Inhibitors After 66'
-  Your Diabetes Meds Safe in Summer Heat? (SGLT2 Guide 66+)
-slug: >-
-  diabetes-heatwave-safety-sglt2-seniors-66
+slug: diabetes-heatwave-safety-sglt2-seniors-66
 description: 'SGLT2 inhibitors triple the risk of euglycemic DKA (ketoacidosis without high sugar) during heat waves in adults over 66, even with glucose under 250 mg/dL.'
-  SGLT2 inhibitors triple ketoacidosis risk during heatwaves. Get 5 proven safety tactics—dehydration warning signs, insulin storage thresholds, and hydration monitoring—for adults 66+.
 date: '2026-01-08'
 updated: '2026-03-27'
 primaryKeyword: 'managing diabetes safely in heat on SGLT2 inhibitors'
@@ -12,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
   - >-
-    10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
-    holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
   - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
 ---
 
 # What Everyone Over 66 Needs to Know About Diabetes Management During a Heatwave—Especially on SGLT2 Inhibitors

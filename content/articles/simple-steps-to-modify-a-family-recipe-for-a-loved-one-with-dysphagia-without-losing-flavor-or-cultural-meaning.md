@@ -1,13 +1,7 @@
 ---
 title: >-
-  Simple Steps to Modify a Family Recipe for a Loved One With Dysphagia—Without
-  Losing Flavor or Cultural Meaning
-slug: >-
-  simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
+slug: simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
 description: >-
-  Practical texture-modification framework (viscosity tiers, thermal stability,
-  aroma preservation) for holiday staples like stuffing, gravy, and fruit
-  compote—co-developed with SLPs and elders.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: "health management seniors"
@@ -15,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
-    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
   - >-
-    the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
   - >-
-    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
   - >-
-    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
 ---
 
 # How to Thoughtfully Modify Family Recipe Dysphagia for Safe, Joyful Holiday Meals

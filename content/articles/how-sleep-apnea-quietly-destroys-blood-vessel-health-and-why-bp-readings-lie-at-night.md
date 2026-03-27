@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Sleep Apnea Quietly Destroys Blood Vessel Health—And Why BP Readings Lie
-  at Night
-slug: >-
-  how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+slug: how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
 description: >-
-  Breaks down the nocturnal cardiovascular damage caused by undiagnosed sleep
-  apnea in adults 60+, explaining why home BP monitors miss critical nighttime
-  surges and what to do instead.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: sleep apnea nighttime blood pressure
@@ -19,7 +13,6 @@ relatedSlugs:
   - how-morning-blood-pressure-spikes-affect-your-heart
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
-    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
 ---
 
 # How Sleep Apnea Nighttime Blood Pressure Silently Strains Your Arteries—And Why Morning Readings Don’t Tell the Whole Story

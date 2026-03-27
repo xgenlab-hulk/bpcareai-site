@@ -1,14 +1,7 @@
 ---
 title: >-
-  What Research Says About Time-Restricted Eating *Starting at 4 p.m.* for
-  Adults 67+ With Type 2 Diabetes and Early Diastolic Dysfunction — Impact on
-  Cardiac Strain and NT-proBNP Trajectories
-slug: >-
-  what-research-says-about-time-restricted-eating-starting-at-4-p-m-for-adults-67-with-type-2-diabetes-and-early-diastolic-dysfunction-impact-on-cardiac-strain-and-nt-probnp-trajectories
+slug: what-research-says-about-time-restricted-eating-starting-at-4-p-m-for-adults-67-with-type-2-diabetes-and-early-diastolic-dysfunction-impact-on-cardiac-strain-and-nt-probnp-trajectories
 description: >-
-  Synthesizes findings from the 2024 TRIM-Heart Trial: how early circadian
-  eating windows modulate myocardial glucose uptake, reduce interstitial edema,
-  and improve E/e’ ratios — independent of weight change.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: time-restricted eating 4pm type 2 diabetes seniors
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - >-
-    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
-    natural-ways-to-support-cardiac-mitochondrial-biogenesis-using-time-restricted-eating-with-late-afternoon-polyphenol-timing-for-adults-59-74-with-diastolic-heart-failure-and-low-peak-vo2
   - >-
-    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction
 ---
 
 # How Early Time-Restricted Eating—Starting at 4 p.m.—May Support Heart Health in Older Adults with Type 2 Diabetes and Early Diastolic Dysfunction

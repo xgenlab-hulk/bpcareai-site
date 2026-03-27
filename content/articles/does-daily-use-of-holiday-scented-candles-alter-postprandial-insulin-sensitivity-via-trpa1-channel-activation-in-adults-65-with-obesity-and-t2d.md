@@ -1,14 +1,7 @@
 ---
 title: 'Holiday Scented Candles and Blood Sugar in Adults Over 65'
-  Does Daily Use of Holiday-Scented Candles Alter Postprandial Insulin
-  Sensitivity via TRPA1 Channel Activation in Adults 65+ With Obesity and T2D?
-slug: >-
-  does-daily-use-of-holiday-scented-candles-alter-postprandial-insulin-sensitivity-via-trpa1-channel-activation-in-adults-65-with-obesity-and-t2d
+slug: does-daily-use-of-holiday-scented-candles-alter-postprandial-insulin-sensitivity-via-trpa1-channel-activation-in-adults-65-with-obesity-and-t2d
 description: 'Cinnamon candles activate TRPA1 channels (cold/irritant nerve receptors), which may alter insulin sensitivity. Smoke inhalation risk outweighs any benefit.'
-  Investigates emerging evidence linking volatile organic compounds (e.g.,
-  cinnamaldehyde, eugenol) in seasonal fragrances to transient TRP
-  channel-mediated inflammation, adipose tissue IRF3 signaling, and acute
-  insulin resistance.
 date: '2026-02-13'
 updated: '2026-03-27'
 primaryKeyword: 'holiday candles insulin sensitivity diabetes seniors'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-candlelight-dinners-alter-circadian-driven-insulin-sensitivity-in-adults-66-with-mild-insulin-resistance-and-what-to-serve-instead-of-rolls
   - >-
-    10-hidden-sources-of-endocrine-disrupting-chemicals-in-senior-living-communities-and-how-they-may-amplify-insulin-resistance-in-adults-77-with-long-term-t2d
   - >-
-    how-chronic-use-of-cooling-topical-gels-with-menthol-alters-trpm8-dependent-insulin-sensitivity-in-subcutaneous-adipose-tissue-and-why-that-masks-early-lipodystrophy-in-adults-66-with-long-standing-insulin-therapy
   - >-
-    why-your-holiday-glucose-readings-are-higher-only-when-visiting-your-son-s-house-the-role-of-pet-dander-induced-systemic-inflammation-in-adults-66-with-subclinical-asthma-and-t2d
   - >-
-    what-causes-sudden-post-dinner-fatigue-only-when-eating-at-your-daughter-s-house-the-role-of-ambient-vocs-carpet-off-gassing-and-mitochondrial-stress-in-adults-64-with-fibromyalgia
 ---
 
 # Could Holiday-Scented Candles Affect Insulin Sensitivity in Older Adults with Diabetes? What the Science Suggests

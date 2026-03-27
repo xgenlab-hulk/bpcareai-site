@@ -1,13 +1,7 @@
 ---
 title: 'Aspirin vs Colchicine for Second Heart Attack Prevention With Elevated Inflammation'
-  A vs B: Daily Low-Dose Aspirin vs. Colchicine for Secondary Prevention in
-  Adults 64–79 With Prior Myocardial Infarction and Elevated hs-CRP
-slug: >-
-  a-vs-b-daily-low-dose-aspirin-vs-colchicine-for-secondary-prevention-in-adults-64-79-with-prior-myocardial-infarction-and-elevated-hs-crp
+slug: a-vs-b-daily-low-dose-aspirin-vs-colchicine-for-secondary-prevention-in-adults-64-79-with-prior-myocardial-infarction-and-elevated-hs-crp
 description: 'For adults 64-79 with prior MI and hs-CRP above 2 mg/L, colchicine reduced 3-year MACE events by 31% by suppressing neutrophil traps (NETs), with lower GI bleeding risk than aspirin.'
-  Compares 3-year cardiovascular event rates, GI bleeding risk, and neutrophil
-  extracellular trap (NET) suppression efficacy between aspirin and colchicine
-  in a high-inflammation MI subgroup.
 date: '2026-01-07'
 updated: '2026-03-27'
 primaryKeyword: 'aspirin vs colchicine for preventing second heart attack with high inflammation'
@@ -15,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100
   - >-
-    what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
   - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
   - >-
-    top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
   - >-
-    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
 ---
 
 # Aspirin vs Colchicine for Secondary Prevention: What’s Right After a Heart Attack?

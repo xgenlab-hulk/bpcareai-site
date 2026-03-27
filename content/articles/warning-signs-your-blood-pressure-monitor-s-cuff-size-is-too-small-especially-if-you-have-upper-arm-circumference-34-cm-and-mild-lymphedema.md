@@ -1,12 +1,7 @@
 ---
 title: >-
-  Warning Signs Your Blood Pressure Monitor’s Cuff Size Is Too Small—Especially
-  If You Have Upper-Arm Circumference >34 cm and Mild Lymphedema
-slug: >-
-  warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema
+slug: warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema
 description: >-
-  Explains how under-cuffing inflates readings, masks true diastolic elevation,
-  and interacts with interstitial fluid shifts in lymphedematous tissue.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: blood pressure cuff size lymphedema
@@ -14,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
-    quick-ways-to-calibrate-your-home-blood-pressure-cuff-using-the-triple-reading-posture-reset-validated-in-adults-with-arthritis-and-limited-shoulder-mobility
   - >-
-    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
   - >-
-    myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries
 ---
 
 # When Your Blood Pressure Cuff Is Too Small—Especially With Lymphedema and a Larger Upper Arm

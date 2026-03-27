@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Research Says About Blood Pressure Variability as a Stronger Predictor of
-  Dementia Than Average BP in Adults Over 75
-slug: >-
-  what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
+slug: what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
 description: >-
-  Synthesizes longitudinal data (e.g., ASPREE, CHS) showing visit-to-visit SBP
-  SD >15 mmHg doubles Alzheimer’s risk—even with mean BP <130/80—and how
-  variability reflects microvascular fragility.
 date: '2025-12-24'
 updated: '2025-12-24'
 primaryKeyword: blood pressure variability dementia prediction over 75
@@ -16,12 +10,9 @@ image: ''
 relatedSlugs:
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - >-
-    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
   - >-
-    what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60
 ---
 
 # Blood Pressure Variability Dementia Prediction Over 75: What Science Tells Us—and What It Means for You

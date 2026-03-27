@@ -1,13 +1,7 @@
 ---
 title: 'Why Joints Stiffen After the Holidays — And How to Fix It After 64'
-  Natural Ways to Reduce Post-Holiday Joint Stiffness in Adults 64–81 With
-  Osteoarthritis and High-Resolution CRP Elevation
-slug: >-
-  natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
+slug: natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
 description: 'Crispy roasted holiday fats raise inflammatory markers (hs-CRP) 20-40%. Eating omega-3 fish 2 hours before a rich meal blunts the spike in adults 64+.'
-  Focuses on anti-inflammatory meal sequencing, timing of omega-3-rich foods
-  relative to high-AGE holiday meals, and low-impact movement ‘anchors’ to
-  interrupt inflammatory cascades.
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'why are my joints stiffer after the holidays'
@@ -15,13 +9,9 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
   - >-
-    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
-    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
   - >-
-    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: '12 Foods That Strengthen Heart Cell Energy With Diastolic Dysfunction'
-  Your Heart Tiring Easily? (Diastolic Dysfunction Food Guide 55-63)
-slug: >-
-  heart-energy-foods-diastolic-dysfunction-55-63
+slug: heart-energy-foods-diastolic-dysfunction-55-63
 description: 'Diastolic dysfunction reduces cardiac mitochondrial output by 15-25%. Twelve foods stimulate heart energy renewal (myocardial biogenesis) without extra stress.'
-  Diagnosed with early diastolic dysfunction? Get 12 foods that boost heart mitochondrial energy—black garlic, wild blueberries, roasted walnuts—proven to enhance PGC-1α and SIRT3 for adults 55-63.
 date: '2026-02-25'
 updated: '2026-03-27'
 primaryKeyword: 'heart energy foods for diastolic dysfunction after 55'
@@ -12,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-using-time-restricted-feeding-post-dinner-walking-in-adults-62-75-with-diastolic-dysfunction
   - >-
-    natural-ways-to-improve-cardiac-mitochondrial-biogenesis-without-supplements-using-postprandial-cold-exposure-and-time-restricted-eating-windows-in-adults-61-with-diastolic-stiffness
   - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
   - >-
-    10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
 ---
 
 # 12 Science-Supported Foods for Heart Mitochondrial Health in Diastolic Dysfunction (Ages 55–63)

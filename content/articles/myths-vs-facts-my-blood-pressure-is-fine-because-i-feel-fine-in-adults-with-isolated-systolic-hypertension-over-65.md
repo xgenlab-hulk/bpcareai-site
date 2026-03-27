@@ -1,13 +1,7 @@
 ---
 title: >-
-  Myths vs Facts: 'My Blood Pressure Is Fine Because I Feel Fine' in Adults With
-  Isolated Systolic Hypertension Over 65
-slug: >-
-  myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+slug: myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
 description: >-
-  Debunks symptom-blindness misconceptions using data on silent vascular
-  remodeling, retinal arteriolar narrowing, and pulse pressure–driven cardiac
-  strain.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: isolated systolic hypertension symptom-blindness
@@ -15,13 +9,9 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
   - >-
-    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
   - >-
-    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
   - >-
-    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
   - why-blood-pressure-matters-even-if-you-feel-fine
 ---
 

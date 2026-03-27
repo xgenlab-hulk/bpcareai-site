@@ -2,8 +2,6 @@
 title: The Link Between Sleep Apnea and High Blood Pressure After 50
 slug: the-link-between-sleep-apnea-and-high-blood-pressure-after-50
 description: >-
-  Explore how untreated sleep apnea contributes to hypertension and increases
-  heart risks in older adults.
 date: '2025-11-26'
 updated: '2025-11-26'
 primaryKeyword: sleep apnea and high blood pressure over 50

@@ -1,13 +1,7 @@
 ---
 title: 'Breathing Before Coffee Cuts Glucose Spikes in Adults Over 60'
-  Does Daily 5-Minute Diaphragmatic Breathing *Before* Morning Coffee Lower
-  Post-Caffeine Glucose Spikes in Adults 60–65 With Adrenal Hyperreactivity?
-slug: >-
-  does-daily-5-minute-diaphragmatic-breathing-before-morning-coffee-lower-post-caffeine-glucose-spikes-in-adults-60-65-with-adrenal-hyperreactivity
+slug: does-daily-5-minute-diaphragmatic-breathing-before-morning-coffee-lower-post-caffeine-glucose-spikes-in-adults-60-65-with-adrenal-hyperreactivity
 description: 'Five minutes of diaphragmatic breathing before coffee cut post-caffeine glucose spikes by 22% in adults 60-65 with adrenal hyperreactivity (excess cortisol).'
-  Evaluates pre-caffeine vagal priming on catecholamine buffering and hepatic
-  glucose output — with HRV-guided breathing protocols and caffeine timing
-  thresholds.
 date: '2026-02-10'
 updated: '2026-03-27'
 primaryKeyword: 'diaphragmatic breathing lower glucose spikes coffee'
@@ -15,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    does-daily-5-minute-diaphragmatic-breathing-lower-postprandial-glucose-spikes-in-adults-64-with-high-lf-hf-ratio-and-type-2-diabetes
   - >-
-    does-daily-8-minute-diaphragmatic-breathing-lower-fasting-glucose-and-homa-ir-in-adults-59-69-with-stress-induced-hyperglycemia-and-high-salivary-alpha-amylase
   - >-
-    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
   - >-
-    quick-ways-to-normalize-post-exercise-glucose-spikes-in-adults-with-type-1-diabetes-using-pre-workout-caffeine-timing-and-carb-buffered-protein-snacks
   - >-
-    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
 ---
 
 # Can Diaphragmatic Breathing Before Coffee Help Reduce Glucose Spikes in Adults 60–65?

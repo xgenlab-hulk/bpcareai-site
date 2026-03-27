@@ -2,7 +2,6 @@
 title: 'Heart Racing After Parties Even Without Drinking? (Ages 50+)'
 slug: heart-stress-alcohol-exposure-non-drinkers
 description: 'Non-drinkers absorb alcohol through vapor and fermented foods. Heart-pumping stress (cardiac afterload) rises when resting pulse tops 100 bpm at events.'
-  Heart racing after parties despite no alcohol? Discover 3 hidden exposure sources—vapor, fermented foods, gut bacteria—plus safe limits and protection strategies for adults 50+ with heart conditions.
 date: '2025-12-19'
 updated: '2026-03-27'
 primaryKeyword: 'heart racing after parties without drinking over 50'

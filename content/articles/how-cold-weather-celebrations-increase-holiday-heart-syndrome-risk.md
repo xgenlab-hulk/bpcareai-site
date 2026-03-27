@@ -2,8 +2,6 @@
 title: How Cold Weather Celebrations Increase Holiday Heart Syndrome Risk
 slug: how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
 description: >-
-  Explain how outdoor winter festivities, combined with alcohol and exertion,
-  elevate cardiovascular strain.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: cold weather holiday heart
@@ -13,7 +11,6 @@ relatedSlugs:
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
-    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
   - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
 ---

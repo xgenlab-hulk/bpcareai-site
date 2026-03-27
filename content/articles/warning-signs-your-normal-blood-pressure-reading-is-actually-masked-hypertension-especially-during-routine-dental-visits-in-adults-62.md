@@ -1,13 +1,7 @@
 ---
 title: >-
-  Warning Signs Your 'Normal' Blood Pressure Reading Is Actually Masked
-  Hypertension — Especially During Routine Dental Visits in Adults 62+
-slug: >-
-  warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62
+slug: warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62
 description: >-
-  Identifies contextual BP elevation triggers (e.g., supine position, local
-  anesthetic vasoconstrictors, dental anxiety) that unmask hypertension missed
-  by standard office readings.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: masked hypertension during dental procedures
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction
   - >-
-    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
-    myths-vs-facts-my-blood-pressure-is-fine-because-it-s-normal-at-the-doctor-s-office-what-ambulatory-monitoring-reveals-about-masked-hypertension-in-adults-55-64-with-high-job-stress
   - >-
-    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - >-
-    7-silent-signs-your-blood-pressure-is-spiking-during-morning-commute-even-with-normal-clinic-readings-in-adults-58-66-with-white-coat-normotension
 ---
 
 # When “Normal” Blood Pressure at the Dentist Might Be a Hidden Red Flag: Recognizing Masked Hypertension During Dental Procedures

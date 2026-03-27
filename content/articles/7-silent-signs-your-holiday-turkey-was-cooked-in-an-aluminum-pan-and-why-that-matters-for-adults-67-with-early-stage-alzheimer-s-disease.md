@@ -1,7 +1,6 @@
 ---
 title: "7 Signs Your Turkey Pan Leaches Aluminum — Alzheimer's Risk After 67"
-slug: >-
-  7-silent-signs-your-holiday-turkey-was-cooked-in-an-aluminum-pan-and-why-that-matters-for-adults-67-with-early-stage-alzheimer-s-disease
+slug: 7-silent-signs-your-holiday-turkey-was-cooked-in-an-aluminum-pan-and-why-that-matters-for-adults-67-with-early-stage-alzheimer-s-disease
 description: "Unlined aluminum pans leach 2-5 mg per meal at acidic pH. In adults 67+ with early Alzheimer's, this may accelerate plaque buildup (amyloid-beta aggregation)."
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy
   - >-
-    5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning
   - >-
-    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
-    why-holiday-nut-mixes-can-trigger-subclinical-pancreatic-enzyme-leakage-in-adults-69-with-asymptomatic-chronic-pancreatitis-diagnosed-via-mrcp
 ---
 
 # What Your Holiday Turkey Might Be Telling You About Aluminum Cookware Holiday Meals Alzheimer's Cognition

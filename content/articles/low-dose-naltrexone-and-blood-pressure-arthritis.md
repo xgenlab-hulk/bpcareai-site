@@ -1,7 +1,6 @@
 ---
 title: "Low-Dose Naltrexone for Arthritis: What It Does to Your BP"
-slug: >-
-  how-low-dose-naltrexone-ldn-affects-endothelial-inflammation-and-bp-variability-in-adults-56-70-with-long-standing-rheumatoid-arthritis-and-stage-1-hypertension
+slug: how-low-dose-naltrexone-ldn-affects-endothelial-inflammation-and-bp-variability-in-adults-56-70-with-long-standing-rheumatoid-arthritis-and-stage-1-hypertension
 description: LDN (1.5-4.5 mg) cuts vessel inflammation (endothelial IL-6) 30-40% in rheumatoid arthritis. Adults 56-70 with stage 1 hypertension see 3-7 mmHg systolic drops.
 date: '2026-01-20'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
   - >-
-    how-chronic-low-dose-lead-exposure-from-vintage-home-renovation-dust-alters-heme-synthesis-and-nitric-oxide-bioavailability-in-adults-57-74-with-resistant-hypertension
   - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
   - >-
-    best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
 ---
 
 # How Low-Dose Naltrexone May Influence Blood Pressure and Vascular Health in Adults With Rheumatoid Arthritis and Early Hypertension

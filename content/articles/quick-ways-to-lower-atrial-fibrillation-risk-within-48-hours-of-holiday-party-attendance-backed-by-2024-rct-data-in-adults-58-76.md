@@ -1,14 +1,7 @@
 ---
 title: >-
-  Quick Ways to Lower Atrial Fibrillation Risk Within 48 Hours of Holiday Party
-  Attendance—Backed by 2024 RCT Data in Adults 58–76
-slug: >-
-  quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+slug: quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
 description: >-
-  Presents time-bound, high-yield interventions—targeted potassium-magnesium
-  repletion, vagal priming via cold-water facial immersion, and strategic meal
-  spacing—that reduced AFib incidence by 41% in a just-published holiday-season
-  trial.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: reduce afib risk within 48 hours holiday
@@ -16,9 +9,7 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
-    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
   - >-
-    does-holiday-weight-gain-in-adults-with-obesity-class-ii-predict-90-day-atrial-fibrillation-recurrence-a-2024-retrospective-analysis
   - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
   - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event

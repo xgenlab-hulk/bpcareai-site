@@ -1,7 +1,6 @@
 ---
 title: "Post-Dinner Walk vs. Pre-Dinner Bands: Fasting Glucose After 60"
-slug: >-
-  a-vs-b-20-minute-post-dinner-walking-vs-12-minute-pre-dinner-resistance-band-routine-impact-on-fasting-glucose-variability-in-adults-60-with-mild-cognitive-impairment
+slug: a-vs-b-20-minute-post-dinner-walking-vs-12-minute-pre-dinner-resistance-band-routine-impact-on-fasting-glucose-variability-in-adults-60-with-mild-cognitive-impairment
 description: A 20-min post-dinner walk cut next-morning glucose swings by 18% vs. pre-meal resistance bands in adults 60+ with mild memory decline (MCI).
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
   - >-
-    a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity
   - >-
-    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
-    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - >-
-    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
 ---
 
 # How Exercise Timing Affects Fasting Glucose Variability in Adults 60+ With Mild Cognitive Impairment

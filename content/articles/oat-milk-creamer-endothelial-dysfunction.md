@@ -1,7 +1,6 @@
 ---
 title: Why 86% of Oat Milk Creamers May Harm Your Arteries After 63
-slug: >-
-  the-truth-about-heart-healthy-oat-milk-creamers-why-86-of-brands-contain-emulsifiers-that-impair-endothelial-nitric-oxide-synthase-activity-in-adults-63-with-subclinical-atherosclerosis
+slug: the-truth-about-heart-healthy-oat-milk-creamers-why-86-of-brands-contain-emulsifiers-that-impair-endothelial-nitric-oxide-synthase-activity-in-adults-63-with-subclinical-atherosclerosis
 description: Emulsifiers like gellan gum cut blood vessel relaxation (flow-mediated dilation) up to 32% in 90 min for adults 63+ with plaque. Safer label swaps inside.
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis
   - >-
-    the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr
   - >-
-    10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
   - >-
-    10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
   - >-
-    the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60
 ---
 
 # Oat Milk Creamer Endothelial Dysfunction: What Older Adults Need to Know About Non-Dairy Creamers and Vascular Health

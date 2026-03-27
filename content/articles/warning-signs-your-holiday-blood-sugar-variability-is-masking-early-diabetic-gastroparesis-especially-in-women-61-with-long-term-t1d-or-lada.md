@@ -1,13 +1,8 @@
 ---
 title: >-
-  Warning Signs Your Holiday Blood Sugar Variability Is Masking Early Diabetic
-  Gastroparesis — Especially in Women 61+ With Long-Term T1D or LADA
-slug: >-
-  warning-signs-your-holiday-blood-sugar-variability-is-masking-early-diabetic-gastroparesis-especially-in-women-61-with-long-term-t1d-or-lada
+slug: warning-signs-your-holiday-blood-sugar-variability-is-masking-early-diabetic-gastroparesis-especially-in-women-61-with-long-term-t1d-or-lada
 description: >-
-  Highlights subtle but predictive CGM patterns (e.g., prolonged glucose nadir
   >3 hrs post-carb, inverted dawn phenomenon, meal-to-meal coefficient of
-  variation >42%) — paired with validated gastroparesis symptom surveys.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: blood sugar variability gastroparesis signs
@@ -15,15 +10,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
   - >-
-    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
   - >-
-    warning-signs-of-asymptomatic-diabetic-gastropathy-detected-via-gastric-emptying-breath-test-in-adults-70-with-normal-hba1c-and-stable-symptoms
   - >-
-    12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
 ---
 
 # Subtle Blood Sugar Variability Gastroparesis Signs You Might Miss This Holiday Season — Especially If You're 61+ With Long-Term T1D or LADA

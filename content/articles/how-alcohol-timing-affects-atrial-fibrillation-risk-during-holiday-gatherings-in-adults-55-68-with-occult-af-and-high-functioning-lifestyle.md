@@ -1,7 +1,6 @@
 ---
 title: Why Drinking Earlier May Prevent AFib During Holiday Gatherings
-slug: >-
-  how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
+slug: how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
 description: Drinking at 6 p.m. vs. 10 p.m. shifts AFib risk 2-3x in adults 55-68 with silent irregular rhythm (occult AF) — circadian vagal tone peaks explain why.
 date: '2026-01-23'
 updated: 2026-03-26
@@ -10,13 +9,9 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
-    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
   - >-
-    how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
   - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 

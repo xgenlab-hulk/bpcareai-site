@@ -1,7 +1,6 @@
 ---
 title: When Post-Dinner Fatigue Signals Danger for Adults 69+ With Diabetes
-slug: >-
-  when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
+slug: when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
 description: Fatigue lasting 2+ hours with oxygen below 90% isn't just drowsiness. Untreated breathing pauses (sleep apnea) amplify glucose spikes 30-50%.
 date: '2026-01-24'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
   - >-
-    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
   - >-
-    what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
   - >-
-    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
-    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
 ---
 
 # When “Just Tired” After Dinner Signals Something More Serious — Especially for Adults 69+ With Type 2 Diabetes and Untreated Sleep Apnea  

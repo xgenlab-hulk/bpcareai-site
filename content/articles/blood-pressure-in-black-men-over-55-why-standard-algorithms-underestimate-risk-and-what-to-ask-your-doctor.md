@@ -1,13 +1,7 @@
 ---
 title: 'Blood Pressure in Black Men Over 55: Why Standard Targets Miss Risk'
-  Blood Pressure in Black Men Over 55: Why Standard Algorithms Underestimate
-  Risk—and What to Ask Your Doctor
-slug: >-
-  blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor
+slug: blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor
 description: 'Black men reach high BP (hypertension) 5-7 years earlier and progress to Stage 2 up to 30% faster. Office readings miss ~20% of cases due to cuff gaps.'
-  Addresses genetic, socioeconomic, and clinical factors contributing to earlier
-  onset, faster progression, and higher stroke mortality—plus culturally
-  responsive screening and treatment benchmarks.
 date: '2025-12-17'
 updated: '2026-03-27'
 primaryKeyword: 'high blood pressure risk in Black men over 55'
@@ -18,7 +12,6 @@ relatedSlugs:
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - how-often-should-adults-over-50-check-their-blood-pressure
   - >-
-    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
 ---
 

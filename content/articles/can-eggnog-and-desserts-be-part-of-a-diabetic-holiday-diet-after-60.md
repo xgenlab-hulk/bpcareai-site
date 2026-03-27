@@ -2,8 +2,6 @@
 title: 'Can Diabetics Over 60 Enjoy Eggnog and Holiday Desserts Safely?'
 slug: can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
 description: 'Classic eggnog has 22g sugar per cup. Adults 60+ clear after-meal sugar (postprandial glucose) 15-20% slower — pairing desserts with protein helps control it.'
-  An evidence-based look at whether traditional holiday treats can be safely
-  included in a senior-friendly diabetic meal plan.
 date: '2025-12-21'
 updated: '2026-03-27'
 primaryKeyword: 'can diabetics eat eggnog and holiday desserts after 60'

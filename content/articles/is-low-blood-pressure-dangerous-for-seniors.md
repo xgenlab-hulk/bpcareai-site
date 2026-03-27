@@ -2,8 +2,6 @@
 title: Is Low Blood Pressure Dangerous for Seniors?
 slug: is-low-blood-pressure-dangerous-for-seniors
 description: >-
-  Understand when low blood pressure becomes a concern and how it can lead to
-  falls or dizziness in older individuals.
 date: '2025-11-26'
 updated: '2025-11-26'
 primaryKeyword: low blood pressure risks in seniors

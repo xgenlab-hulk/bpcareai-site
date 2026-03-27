@@ -1,13 +1,7 @@
 ---
 title: 'Walking After Each Meal vs One Daily Walk for Prediabetes Blood Sugar Control'
-  A vs B: Walking 10 Minutes After Each Meal vs. One 30-Minute Session Daily for
-  Postprandial Glucose Control in Adults 55–69 With Prediabetes
-slug: >-
-  a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+slug: a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
 description: 'A 2024 CGM trial in 280+ adults with prediabetes showed three 10-minute post-meal walks reduced glucose area under the curve 12% more than a single 30-minute daily session.'
-  Compares real-world glycemic impact using continuous glucose monitoring (CGM)
-  data from a 2024 pragmatic trial—highlighting timing, intensity, and
-  individual variability in response.
 date: '2025-12-31'
 updated: '2026-03-27'
 primaryKeyword: 'walking after each meal vs one daily walk for prediabetes blood sugar'
@@ -16,9 +10,7 @@ image: ''
 relatedSlugs:
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---

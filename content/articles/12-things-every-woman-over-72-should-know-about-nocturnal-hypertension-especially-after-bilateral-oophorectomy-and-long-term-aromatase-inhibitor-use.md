@@ -1,10 +1,7 @@
 ---
 title: 'BP Won\'t Dip at Night After Cancer Meds? Guide for Women 72+'
-  Nighttime BP Won't Dip After Cancer Meds? (Women 72+ Guide)
-slug: >-
-  nighttime-bp-wont-dip-cancer-meds-women-72
+slug: nighttime-bp-wont-dip-cancer-meds-women-72
 description: 'Ovary removal and aromatase inhibitors disrupt nighttime BP dipping (nocturnal hypertension). Learn 3 Medicare-covered tests and timing fixes for women 72+.'
-  BP won't dip at night after cancer treatment? Discover why ovary removal disrupts sleep BP, 3 tests Medicare covers, and proven timing strategies to restore the dip—essential for women 72+.
 date: '2026-02-13'
 updated: '2026-03-27'
 primaryKeyword: 'why blood pressure stays high at night after cancer meds'
@@ -12,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
   - >-
-    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
   - >-
-    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
   - >-
-    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
   - >-
-    5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know
 ---
 
 # Why Won't My Blood Pressure Dip at Night After Cancer Treatment—And What Can I Do About It?

@@ -1,12 +1,7 @@
 ---
 title: >-
-  Natural Ways to Support Post-Holiday Glucose Recovery Using Fenugreek, Ceylon
-  Cinnamon, and Tart Cherry Juice—Dosed for Adults 54–79
-slug: >-
-  natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
+slug: natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
 description: >-
-  Reviews clinical dosing, contraindications (e.g., warfarin, kidney function),
-  and synergistic combinations validated in older adult trials.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: natural glucose recovery after holidays
@@ -16,7 +11,6 @@ relatedSlugs:
   - natural-ways-to-support-blood-sugar-balance-during-holiday-stress
   - best-supplements-for-blood-sugar-support-after-50
   - >-
-    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 ---

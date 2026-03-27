@@ -2,7 +2,6 @@
 title: 'Check BP After Flying? (COPD Guide for Adults 60+)'
 slug: check-bp-after-flying-copd-60
 description: >-
-  Flying with COPD? Learn 3 critical windows to check BP after landing—42 min, 2 hours, 3.5 hours—when altitude stress peaks and why your reading at the gate misses it.
 date: '2026-02-04'
 updated: '2026-03-18'
 primaryKeyword: check bp after flying copd seniors
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness
   - >-
-    quick-ways-to-reduce-bp-variability-during-air-travel-in-adults-70-with-history-of-hypertensive-urgency
   - >-
-    how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
   - >-
-    best-times-measure-bp-daily
   - >-
-    how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt
 ---
 
 # When to Check Blood Pressure After Flying If You Have COPD: 3 Critical Windows That Matter

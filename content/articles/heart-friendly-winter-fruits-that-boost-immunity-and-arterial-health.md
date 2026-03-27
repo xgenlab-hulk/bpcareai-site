@@ -2,8 +2,6 @@
 title: Heart-Friendly Winter Fruits That Boost Immunity and Arterial Health
 slug: heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health
 description: >-
-  Features citrus, pomegranate, and apples as seasonal fruits rich in flavonoids
-  and fiber beneficial for heart and immune support.
 date: '2025-12-09'
 updated: '2025-12-09'
 primaryKeyword: winter fruits heart health

@@ -1,7 +1,6 @@
 ---
 title: What Your Glucose Monitor May Reveal About Early Heart Damage
-slug: >-
-  warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability
+slug: warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability
 description: Overnight glucose swings >40 mg/dL on CGM can flag early heart muscle weakening (diabetic cardiomyopathy) — even with normal A1c. Strain echo confirms 68%.
 date: '2026-01-25'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
   - >-
-    warning-signs-your-continuous-glucose-monitor-is-misreading-due-to-subcutaneous-edema-in-adults-70-with-chronic-heart-failure-and-diuretic-dependent-volume-control
   - >-
-    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 ---
 
 # What Your CGM Might Be Telling You About Early Diabetic Cardiomyopathy — Beyond Blood Sugar Swings

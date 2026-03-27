@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Does Long-Haul Flight Duration Affect Systolic Blood Pressure Variability
-  in Adults 68–82 With White-Coat Hypertension?
-slug: >-
-  how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
+slug: how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
 description: >-
-  Explores the acute hemodynamic impact of extended air travel on blood pressure
-  patterns in older adults whose hypertension is typically only elevated in
-  clinical settings.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: flight duration systolic blood pressure variability
@@ -15,14 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
   - how-chronic-stress-contributes-to-high-blood-pressure-over-time
   - >-
-    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
   - >-
-    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
   - >-
-    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
 ---
 
 # How Flight Duration Affects Systolic Blood Pressure Variability in Older Adults With White-Coat Hypertension

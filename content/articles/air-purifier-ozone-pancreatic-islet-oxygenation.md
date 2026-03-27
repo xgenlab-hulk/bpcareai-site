@@ -1,7 +1,6 @@
 ---
 title: Your Air Purifier May Be Hurting Blood Sugar Control After 70
-slug: >-
-  warning-signs-your-home-air-purifier-s-ionizer-is-generating-ozone-that-impairs-pancreatic-islet-oxygenation-even-with-normal-spo2-in-adults-70-with-type-1-diabetes
+slug: warning-signs-your-home-air-purifier-s-ionizer-is-generating-ozone-that-impairs-pancreatic-islet-oxygenation-even-with-normal-spo2-in-adults-70-with-type-1-diabetes
 description: "Some ionizer purifiers release ozone that disrupts oxygen to insulin-producing cells (pancreatic islets) \u2014 even when SpO2 reads 95-98%. Safer picks inside."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,11 +9,8 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-air-pollutants-pm2-5-no2-disrupt-pancreatic-islet-mitochondrial-respiration-and-exacerbate-glucose-variability-in-adults-60-74-with-type-2-diabetes-and-urban-residency
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia
   - >-
-    natural-ways-to-support-beta-cell-resilience-during-spring-allergy-season-without-antihistamines-or-corticosteroids-in-adults-55-65-with-recent-onset-type-1-diabetes
 ---
 
 # Could Your Air Purifier’s Ionizer Be Affecting Pancreatic Islet Oxygenation? Understanding Air Purifier Ozone and Diabetes Health in Adults 70+

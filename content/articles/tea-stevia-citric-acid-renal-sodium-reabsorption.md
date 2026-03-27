@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Late-Afternoon Tea Consumption (Especially With Stevia & Citric Acid)
-  Alters Renal Sodium Reabsorption in Adults 73+ With Thiazide-Induced
-  Hypokalemia and Mild Volume Depletion
-slug: >-
-  how-late-afternoon-tea-consumption-especially-with-stevia-citric-acid-alters-renal-sodium-reabsorption-in-adults-73-with-thiazide-induced-hypokalemia-and-mild-volume-depletion
+slug: how-late-afternoon-tea-consumption-especially-with-stevia-citric-acid-alters-renal-sodium-reabsorption-in-adults-73-with-thiazide-induced-hypokalemia-and-mild-volume-depletion
 description: >-
-  Analyzes how common sweetener-acid combinations interact with distal tubular
-  ion transporters to exacerbate electrolyte imbalances in diuretic users.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: tea stevia citric acid renal sodium reabsorption
@@ -15,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
   - >-
-    best-low-tannin-herbal-teas-for-adults-71-with-diabetic-nephropathy-and-stage-3-ckd-avoiding-potassium-and-oxalate-accumulation
   - >-
-    quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
   - >-
-    natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate
   - >-
-    the-truth-about-sugar-free-holiday-punch-for-adults-73-with-chronic-kidney-disease-why-erythritol-isn-t-always-safer-than-sucrose
 ---
 
 # How Afternoon Tea with Stevia and Citric Acid Affects Kidney Sodium Handling in Older Adults on Thiazides

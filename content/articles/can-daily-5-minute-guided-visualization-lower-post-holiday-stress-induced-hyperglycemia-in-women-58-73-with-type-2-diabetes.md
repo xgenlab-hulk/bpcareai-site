@@ -1,7 +1,6 @@
 ---
 title: 5-Minute Visualization to Lower Holiday Blood Sugar in Women 58+
-slug: >-
-  can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes
+slug: can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes
 description: A 5-min guided imagery cuts stress hormones (salivary cortisol) 18%, lowering post-meal glucose 12-20 mg/dL in women 58-73 with diabetes.
 date: '2026-01-18'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
   - >-
-    does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression
   - >-
-    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
   - >-
-    how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do
   - >-
-    does-daily-15-minute-guided-imagery-lower-24-hour-mean-arterial-pressure-in-adults-69-83-with-treatment-resistant-hypertension
 ---
 
 # Can Brief Guided Visualization Help Manage Holiday-Related Blood Sugar Spikes in Women 58–73 With Type 2 Diabetes?

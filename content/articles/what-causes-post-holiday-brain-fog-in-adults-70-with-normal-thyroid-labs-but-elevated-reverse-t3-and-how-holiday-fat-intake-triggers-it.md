@@ -1,7 +1,6 @@
 ---
 title: "Post-Holiday Brain Fog: How Fatty Foods Stall Thyroid Function"
-slug: >-
-  what-causes-post-holiday-brain-fog-in-adults-70-with-normal-thyroid-labs-but-elevated-reverse-t3-and-how-holiday-fat-intake-triggers-it
+slug: what-causes-post-holiday-brain-fog-in-adults-70-with-normal-thyroid-labs-but-elevated-reverse-t3-and-how-holiday-fat-intake-triggers-it
 description: "Saturated fat from gravy and pie crust blocks thyroid hormone activation (T4-to-T3 conversion), raising reverse T3 and cutting brain glucose uptake 15-20%."
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy
   - >-
-    how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
   - >-
-    how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome
   - >-
-    when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
   - >-
-    when-to-worry-about-sudden-appetite-suppression-at-christmas-dinner-a-red-flag-for-early-sarcopenia-or-subclinical-hypothyroidism-in-women-65-79
 ---
 
 # Why Post-Holiday Brain Fog in Seniors Isn’t Just “Getting Older”—And How Reverse T3 Plays a Quiet Role

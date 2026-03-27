@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Chronic Use of 'Low-Blue-Light' Evening Lamps Alters Melatonin-Mediated
-  Renin Release — And Why That Elevates Early-Morning Systolic Pressure in
-  Adults 64+ With Mild Sleep-Onset Insomnia
-slug: >-
-  how-chronic-use-of-low-blue-light-evening-lamps-alters-melatonin-mediated-renin-release-and-why-that-elevates-early-morning-systolic-pressure-in-adults-64-with-mild-sleep-onset-insomnia
+slug: how-chronic-use-of-low-blue-light-evening-lamps-alters-melatonin-mediated-renin-release-and-why-that-elevates-early-morning-systolic-pressure-in-adults-64-with-mild-sleep-onset-insomnia
 description: >-
-  Explains how spectral light manipulation indirectly dysregulates RAAS activity
-  via melatonin suppression, leading to abnormal circadian BP peaks.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: low-blue-light lamps renin morning systolic pressure
@@ -15,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment
   - >-
-    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
-    how-chronic-nighttime-ambient-light-exposure-from-smart-nightlights-disrupts-melatonin-mediated-no-synthase-activity-and-elevates-nocturnal-sbp-in-adults-60-with-sleep-onset-insomnia
   - >-
-    a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
 ---
 
 # How Low-Blue-Light Lamps May Influence Renin, Melatonin, and Morning Systolic Pressure in Older Adults

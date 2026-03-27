@@ -1,14 +1,7 @@
 ---
 title: 'Diabetes Management Strategies for Caregivers of Seniors With Dementia'
-  The Ultimate Guide to Managing Diabetes While Caring for a Spouse With
-  Moderate Dementia—Focusing on Medication Safety, Meal Simplification, and
-  Cognitive Load Reduction
-slug: >-
-  the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
+slug: the-ultimate-guide-to-managing-diabetes-while-caring-for-a-spouse-with-moderate-dementia-focusing-on-medication-safety-meal-simplification-and-cognitive-load-reduction
 description: 'Cognitive decline increases missed doses and skipped meals; caregiver protocols reduce dangerous low sugar episodes (hypoglycemia) by 35% in adults 75+.'
-  Offers a caregiver-first framework: pre-filled insulin syringes, ‘no-choice’
-  meal kits, and dual-alert CGM systems designed for dual-role disease
-  management.
 date: '2026-01-04'
 updated: '2026-03-27'
 primaryKeyword: 'diabetes management dementia caregiver strategies'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
   - >-
-    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
   - >-
-    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
   - >-
-    holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
   - >-
-    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
 ---
 
 # A Compassionate Guide to Diabetes Management Dementia Caregiver Balance—Practical Strategies for Real Life

@@ -1,7 +1,6 @@
 ---
 title: Why Cold Mornings Trigger BP Emergencies in Seniors Over 72
-slug: >-
-  how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
+slug: how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
 description: Winter mornings spike systolic BP 15-25 mmHg via vessel tightening (vasoconstriction) and nerve surge. Adults 72+ with leg artery disease face 3x crisis risk.
 date: '2026-01-27'
 updated: '2026-03-26'
@@ -12,11 +11,8 @@ relatedSlugs:
   - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
   - >-
-    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
   - >-
-    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
   - >-
-    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
 ---
 
 # Why Cold Weather Morning Hypertension Elderly Adults Need Extra Care in Winter

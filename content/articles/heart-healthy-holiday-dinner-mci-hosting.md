@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Complete Guide to Hosting a Heart-Healthy Holiday Dinner *While Managing
-  Mild Cognitive Impairment* — Meal Prep, Labeling, and Guest Communication
-  Protocols for Adults 77+
-slug: >-
-  the-complete-guide-to-hosting-a-heart-healthy-holiday-dinner-while-managing-mild-cognitive-impairment-meal-prep-labeling-and-guest-communication-protocols-for-adults-77
+slug: the-complete-guide-to-hosting-a-heart-healthy-holiday-dinner-while-managing-mild-cognitive-impairment-meal-prep-labeling-and-guest-communication-protocols-for-adults-77
 description: >-
-  Provides step-by-step, cognition-supportive hosting framework: simplified
-  menus, tactile food cues, verbal scripting for dietary boundaries, and
-  caregiver collaboration tools.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: heart-healthy holiday dinner mci hosting
@@ -16,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
-    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
   - >-
-    the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety
   - >-
-    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
 ---
 
 # A Thoughtful, Heart-Healthy Holiday Dinner for Older Adults Living with Mild Cognitive Impairment

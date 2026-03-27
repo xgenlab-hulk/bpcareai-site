@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Social Isolation Alters Baroreflex Sensitivity and Elevates 24-Hour SBP by
-  7–11 mmHg in Men Living Alone Over 75
-slug: >-
-  how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
+slug: how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
 description: >-
-  Reviews longitudinal data linking loneliness, reduced vagal modulation, and
-  elevated central sympathetic outflow—especially in widowed, non-digital-native
-  males with hearing loss.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: social isolation and blood pressure elderly men
@@ -15,13 +9,9 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
   - >-
-    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
   - >-
-    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
   - >-
-    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
 ---
 

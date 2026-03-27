@@ -1,14 +1,7 @@
 ---
 title: >-
-  Can You Safely Take Magnesium Threonate While on a Beta-Blocker? — Safety
-  Thresholds, QT Interval Monitoring, and Cognitive Benefits in Adults 71+ With
-  Mild Heart Failure
-slug: >-
-  can-you-safely-take-magnesium-threonate-while-on-a-beta-blocker-safety-thresholds-qt-interval-monitoring-and-cognitive-benefits-in-adults-71-with-mild-heart-failure
+slug: can-you-safely-take-magnesium-threonate-while-on-a-beta-blocker-safety-thresholds-qt-interval-monitoring-and-cognitive-benefits-in-adults-71-with-mild-heart-failure
 description: >-
-  Analyzes drug–nutrient interactions, electrocardiographic safety data, and
-  cognitive outcomes from pilot trials in older adults using beta-blockers and
-  magnesium threonate for dual cardiovascular and neuroprotective support.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: magnesium threonate beta blocker safety
@@ -16,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
   - >-
-    5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
   - >-
-    does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
   - >-
-    can-you-safely-use-transdermal-magnesium-chloride-while-on-sacubitril-valsartan-evidence-on-myocardial-fibrosis-markers-nt-probnp-trajectories-and-diuretic-synergy-in-adults-68-with-hfref
   - >-
-    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
 ---
 
 # Magnesium Threonate and Beta-Blockers After 70: What You Need to Know About Safety, Heart Health, and Brain Support

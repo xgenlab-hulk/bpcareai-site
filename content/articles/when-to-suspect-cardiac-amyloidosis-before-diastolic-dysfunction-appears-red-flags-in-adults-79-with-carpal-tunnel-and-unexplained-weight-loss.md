@@ -1,7 +1,6 @@
 ---
 title: Carpal Tunnel + Weight Loss? Red Flags for Heart Amyloidosis
-slug: >-
-  when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
+slug: when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
 description: Bilateral carpal tunnel plus weight loss may signal protein buildup in the heart (cardiac amyloidosis) years before echo changes. Low-voltage ECG is a key clue.
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-worsens-using-serum-free-light-chains-and-strain-echocardiography-in-adults-79-with-unexplained-orthostatic-hypotension-and-carpal-tunnel-syndrome
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
 ---
 
 # When Cardiac Amyloidosis Early Signs Appear — Before Diastolic Dysfunction: What to Notice in Adults 79+ With Carpal Tunnel and Unexplained Weight Loss

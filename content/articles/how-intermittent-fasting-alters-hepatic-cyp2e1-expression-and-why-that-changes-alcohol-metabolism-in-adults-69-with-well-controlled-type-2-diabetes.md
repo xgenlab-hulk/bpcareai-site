@@ -1,10 +1,7 @@
 ---
 title: "Intermittent Fasting and Alcohol: A Liver Risk After 69"
-slug: >-
-  how-intermittent-fasting-alters-hepatic-cyp2e1-expression-and-why-that-changes-alcohol-metabolism-in-adults-69-with-well-controlled-type-2-diabetes
+slug: how-intermittent-fasting-alters-hepatic-cyp2e1-expression-and-why-that-changes-alcohol-metabolism-in-adults-69-with-well-controlled-type-2-diabetes
 description: >-
-  Fasting upregulates a liver enzyme (CYP2E1) by 40-60%, amplifying alcohol
-  toxicity. Safe limits drop to under 4 drinks per week during fasting windows.
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: intermittent fasting and alcohol safety with diabetes
@@ -12,15 +9,10 @@ topicCluster: complications-management
 image: ''
 relatedSlugs:
   - >-
-    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
   - >-
-    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
   - >-
-    natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt
   - >-
-    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
   - >-
-    how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 ---
 
 # How Intermittent Fasting Alcohol Metabolism Changes in Older Adults With Diabetes — And What It Means for Your Liver

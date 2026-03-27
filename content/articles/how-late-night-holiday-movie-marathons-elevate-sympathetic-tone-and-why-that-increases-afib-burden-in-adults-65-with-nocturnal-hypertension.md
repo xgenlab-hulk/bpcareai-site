@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Late-Night Holiday Movie Marathons Elevate Sympathetic Tone — And Why That
-  Increases AFib Burden in Adults 65+ With Nocturnal Hypertension
-slug: >-
-  how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension
+slug: how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension
 description: >-
-  Links blue-light exposure, supine posture, and delayed melatonin onset to
-  sustained norepinephrine elevation—and demonstrates how this creates a
-  pro-arrhythmic milieu overnight.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: late-night movies sympathetic tone afib
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-smartphone-use-alters-nocturnal-atrial-fibrillation-burden-not-just-onset-in-adults-71-with-paroxysmal-af-and-mild-obstructive-sleep-apnea
   - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
-    how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment
   - >-
-    how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # How Late-Night Movie Marathons Raise Sympathetic Tone—and Why That Matters for AFib Risk in Older Adults

@@ -1,7 +1,6 @@
 ---
 title: Low Stomach Acid and Bloating After 66? Mealtime Fixes That Help
-slug: >-
-  natural-ways-to-support-gastric-acid-secretion-during-family-meals-without-supplements-or-ppis-for-adults-66-78-with-age-related-hypochlorhydria-and-frequent-bloating
+slug: natural-ways-to-support-gastric-acid-secretion-during-family-meals-without-supplements-or-ppis-for-adults-66-78-with-age-related-hypochlorhydria-and-frequent-bloating
 description: By 70, stomach acid drops 30-40% (hypochlorhydria), causing bloating. Bitter greens before meals and slower chewing boost acid output — no PPIs needed.
 date: '2026-01-30'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
   - >-
-    natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
   - >-
-    how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
   - >-
-    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
   - >-
-    12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia
 ---
 
 # Gentle, Mealtime Ways to Support Gastric Acid Secretion During Family Meals — Especially After 65

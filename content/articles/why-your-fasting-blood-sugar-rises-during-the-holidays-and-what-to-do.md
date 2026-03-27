@@ -2,8 +2,6 @@
 title: Why Your Fasting Blood Sugar Rises During the Holidays (And What to Do)
 slug: why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 description: >-
-  Explores stress, sleep disruption, and dietary changes as hidden causes of
-  elevated morning glucose during Christmas and New Year celebrations.
 date: '2025-11-29'
 updated: '2025-11-29'
 primaryKeyword: high fasting blood sugar holidays

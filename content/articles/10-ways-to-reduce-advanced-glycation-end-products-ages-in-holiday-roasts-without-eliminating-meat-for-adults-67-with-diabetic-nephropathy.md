@@ -1,7 +1,6 @@
 ---
 title: 'How to Cut Harmful Browning Compounds in Holiday Roasts After 67'
-slug: >-
-  10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy
+slug: 10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy
 description: 'Roasting at 325°F with acidic marinades cuts browning compounds (advanced glycation end products) 50% — critical for adults 67+ with low eGFR.'
 date: '2026-02-02'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
   - >-
-    quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp
   - >-
-    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
   - >-
-    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
-    a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
 ---
 
 # 10 Simple Ways to Reduce AGEs in Holiday Roasts — Without Giving Up Meat (Especially for Adults 67+ With Diabetic Nephropathy)

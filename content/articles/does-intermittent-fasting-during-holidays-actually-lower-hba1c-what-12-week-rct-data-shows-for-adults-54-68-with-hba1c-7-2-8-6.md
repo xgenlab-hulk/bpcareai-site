@@ -1,13 +1,7 @@
 ---
 title: 'Intermittent Fasting During Holidays and HbA1c in Adults 54-68'
-  Does Intermittent Fasting *During* Holidays Actually Lower HbA1c? — What
-  12-Week RCT Data Shows for Adults 54–68 With HbA1c 7.2–8.6%
-slug: >-
-  does-intermittent-fasting-during-holidays-actually-lower-hba1c-what-12-week-rct-data-shows-for-adults-54-68-with-hba1c-7-2-8-6
+slug: does-intermittent-fasting-during-holidays-actually-lower-hba1c-what-12-week-rct-data-shows-for-adults-54-68-with-hba1c-7-2-8-6
 description: '16:8 fasting lowered HbA1c (3-month blood sugar average) by 0.7% in adults 54-68 with HbA1c 7.2-8.6%, despite holiday eating—per a 12-week RCT.'
-  Analyzes outcomes from a holiday-integrated IF trial (14:10 window, flexible
-  fasting days) showing modest HbA1c reductions but significant improvements in
-  postprandial glucose excursions and sleep architecture.
 date: '2026-02-27'
 updated: '2026-03-27'
 primaryKeyword: 'intermittent fasting lower HbA1c holidays adults 54-68'
@@ -15,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-intermittent-fasting-only-on-weekdays-during-the-holidays-glycemic-outcomes-muscle-preservation-and-appetite-hormone-shifts-in-adults-68-with-sarcopenic-obesity
   - >-
-    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
   - >-
-    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
   - >-
-    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
   - >-
-    quick-ways-to-reduce-post-holiday-hba1c-without-weight-loss-using-3-day-postprandial-glucose-reset-protocols-in-adults-60-71-with-stable-bmi-and-elevated-a1c
 ---
 
 # Does Intermittent Fasting During the Holidays Help Lower HbA1c? Insights From a Recent intermittent fasting holidays HbA1c study

@@ -1,7 +1,6 @@
 ---
 title: "Parkinson’s Caregivers: Keeping Your Own Blood Pressure in Check"
-slug: >-
-  the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-mid-stage-parkinson-s-age-63-70-no-orthostasis-yet-but-frequent-postprandial-lapses
+slug: the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-mid-stage-parkinson-s-age-63-70-no-orthostasis-yet-but-frequent-postprandial-lapses
 description: "Caregiving for a Parkinson's spouse raises nighttime BP surges (nocturnal hypertension) by 30%. Syncing meals and 2-min breathing resets cut systolic 8-12 mmHg."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef
   - >-
-    the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout
   - >-
-    how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
   - >-
-    what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
   - >-
-    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
 ---
 
 # Managing Your Blood Pressure While Caring for a Spouse With Mid-Stage Parkinson’s — A Practical Guide for Caregivers Ages 63–70

@@ -1,7 +1,6 @@
 ---
 title: "Intermittent Fasting and Heart Stiffness: What Men 58-67 Need to Know"
-slug: >-
-  what-research-says-about-intermittent-fasting-windows-and-left-ventricular-stiffness-in-men-58-67-with-early-diastolic-impairment
+slug: what-research-says-about-intermittent-fasting-windows-and-left-ventricular-stiffness-in-men-58-67-with-early-diastolic-impairment
 description: "A 16:8 fasting window improves heart relaxation (diastolic function), lowering stiffness marker E/e' by 1.5-2.0 points in 12 weeks for men 58-67."
 date: '2026-01-17'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
-    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
-    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
   - >-
-    how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
   - >-
-    12-science-backed-ways-to-reduce-left-ventricular-stiffness-without-medication-focusing-on-titin-phosphorylation-sodium-intake-timing-and-deep-exhalation-duration
 ---
 
 # What Science Says About Intermittent Fasting and Diastolic Stiffness in Men 58–67 With Early Diastolic Impairment

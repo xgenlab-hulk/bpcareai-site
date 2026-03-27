@@ -2,7 +2,6 @@
 title: '7 Holiday Blood Sugar Mistakes That Catch People Over 50 Off Guard'
 slug: holiday-blood-sugar-mistakes-50
 description: 'Skipping diabetes medication to offset holiday eating raises post-meal glucose 40-60 mg/dL. Seven mistakes that destabilize blood sugar (glucose) control.'
-  Skipping meds to offset dessert? Get 7 risky holiday blood sugar mistakes—hidden carbs, stress spikes, timing errors—plus safe strategies to enjoy treats without danger (adults 50+).
 date: '2025-12-13'
 updated: '2026-03-27'
 primaryKeyword: 'blood sugar mistakes during the holidays'

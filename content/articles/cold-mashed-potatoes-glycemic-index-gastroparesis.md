@@ -1,11 +1,7 @@
 ---
 title: "Cold vs. Reheated Mashed Potatoes: Which Spikes Glucose After 64?"
-slug: >-
-  can-you-eat-leftover-mashed-potatoes-cold-the-next-morning-without-spiking-glucose-a-glycemic-index-comparison-for-adults-64-with-gastroparesis-like-symptoms
+slug: can-you-eat-leftover-mashed-potatoes-cold-the-next-morning-without-spiking-glucose-a-glycemic-index-comparison-for-adults-64-with-gastroparesis-like-symptoms
 description: >-
-  Chilling potatoes 12+ hours builds resistant starch (RS3), cutting glucose
-  spikes ~15 mg/dL — vital for adults 64+ with slow stomach emptying
-  (gastroparesis).
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: do cold leftover mashed potatoes spike blood sugar less
@@ -13,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
   - >-
-    a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d
   - >-
-    what-causes-sudden-onset-of-bloating-and-abdominal-distension-after-eating-mashed-potatoes-at-family-gatherings-even-in-adults-63-with-no-known-celiac-disease
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms
 ---
 
 # Cold Mashed Potatoes Glycemic Index Gastroparesis: What You Need to Know After 64

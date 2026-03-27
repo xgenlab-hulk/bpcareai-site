@@ -1,7 +1,6 @@
 ---
 title: 'Why Your A1C Creeps Up After Holidays — 12 Fixes (Ages 55-72)'
-slug: >-
-  a1c-creep-holidays-diabetes-55-72
+slug: a1c-creep-holidays-diabetes-55-72
 description: 'Post-meal sugar above 180 mg/dL coats red blood cells, raising your blood sugar marker (HbA1c) 0.2-0.4%. Meal timing and short walks prevent this drift.'
 date: '2026-01-23'
 updated: '2026-03-27'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
   - >-
-    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
   - >-
-    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
   - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
 ---
 
 # 12 Gentle, Science-Backed Ways to Prevent Post-Holiday HbA1c Creep in Adults 55–72 With Long-Standing Type 2 Diabetes

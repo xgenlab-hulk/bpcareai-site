@@ -2,8 +2,6 @@
 title: 'Can You Enjoy Thanksgiving If You Have High Blood Pressure?'
 slug: can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
 description: 'A Thanksgiving plate can reach 2,000-3,000 mg sodium—above the 1,500 mg target for high blood pressure (hypertension). Smart swaps make the holiday safer.'
-  Answers whether sodium-heavy holiday meals are safe for hypertensive
-  individuals and how to modify portions and ingredients accordingly.
 date: '2025-11-28'
 updated: '2026-03-27'
 primaryKeyword: 'how to enjoy Thanksgiving dinner with high blood pressure'

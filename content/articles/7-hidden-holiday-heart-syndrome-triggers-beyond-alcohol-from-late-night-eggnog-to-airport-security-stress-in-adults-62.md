@@ -1,10 +1,7 @@
 ---
 title: 'Holiday Heart Syndrome Without Alcohol? 7 Triggers in Adults 62+'
-  Holiday Heart Syndrome Beyond Alcohol? (7 Hidden Triggers 62+)
-slug: >-
-  holiday-heart-triggers-beyond-alcohol-62
+slug: holiday-heart-triggers-beyond-alcohol-62
 description: 'Holiday heart syndrome occurs without alcohol in 30% of adults 62+. 7 non-drinking triggers—dehydration, salt, travel stress—that elevate arrhythmia risk.'
-  Holiday heart syndrome without drinking? Discover 7 non-alcoholic triggers—travel stress, salty appetizers, sleep loss—that spike arrhythmia risk in adults 62+. Includes at-home symptom checks today.
 date: '2026-02-17'
 updated: '2026-03-27'
 primaryKeyword: 'holiday heart syndrome without alcohol over 60'
@@ -12,12 +9,9 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-
-    7-hidden-stressors-in-holiday-gift-wrapping-that-elevate-sympathetic-tone-and-why-that-triggers-atrial-ectopy-in-adults-62-with-early-autonomic-imbalance
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 

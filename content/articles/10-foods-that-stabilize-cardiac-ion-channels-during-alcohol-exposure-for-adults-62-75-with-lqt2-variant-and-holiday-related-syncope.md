@@ -10,13 +10,9 @@ image: ''
 relatedSlugs:
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
-    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
   - >-
-    10-foods-that-activate-endothelial-k-channels-kca2-3-kca3-1-to-promote-vasodilation-for-adults-60-with-endothelial-dysfunction-confirmed-by-fmd
   - >-
-    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
   - >-
-    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
 ---
 
 # Foods That Help Stabilize Cardiac Ion Channels During Alcohol Exposure — A Gentle Guide for Adults 62–75 With LQT2 and Holiday-Related Syncope

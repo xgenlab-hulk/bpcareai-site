@@ -1,14 +1,7 @@
 ---
 title: 'Can Fabric Softener Chemicals Slow Diabetic Foot Ulcer Healing?'
-  How Daily Use of Fabric Softener Sheets Alters Skin Microbiome Diversity — And
-  Why That Worsens Diabetic Foot Ulcer Healing in Adults 68+ With Peripheral
-  Neuropathy
-slug: >-
-  how-daily-use-of-fabric-softener-sheets-alters-skin-microbiome-diversity-and-why-that-worsens-diabetic-foot-ulcer-healing-in-adults-68-with-peripheral-neuropathy
+slug: how-daily-use-of-fabric-softener-sheets-alters-skin-microbiome-diversity-and-why-that-worsens-diabetic-foot-ulcer-healing-in-adults-68-with-peripheral-neuropathy
 description: 'Cationic surfactants in fabric softeners disrupt the skin barrier (stratum corneum) and delay wound closure. Diabetic nerve damage raises chemical residue risk.'
-  Analyzes quaternary ammonium compounds (QACs) in dryer sheets, their
-  suppression of commensal skin flora, and impaired antimicrobial peptide
-  expression in chronic wounds.
 date: '2026-02-11'
 updated: '2026-03-27'
 primaryKeyword: 'fabric softener chemicals diabetic foot ulcer healing'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
   - >-
-    can-you-safely-use-sauna-therapy-after-a-recent-diabetic-foot-ulcer-closure-evidence-based-temperature-duration-and-hydration-thresholds-for-adults-68-with-peripheral-neuropathy
   - >-
-    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
   - >-
-    best-foot-protective-sock-materials-for-men-74-with-diabetic-neuropathy-edema-and-stage-2-venous-insufficiency
   - >-
-    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
 ---
 
 # How Fabric Softener Sheets May Slow Diabetic Foot Ulcer Healing — Especially After Age 68

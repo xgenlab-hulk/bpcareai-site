@@ -1,7 +1,6 @@
 ---
 title: Why Blood Pressure Spikes After Transfusion in Adults 71+
-slug: >-
-  simple-steps-to-reduce-post-transfusion-hypertension-in-adults-71-with-iron-overload-elevated-hepcidin-and-prior-hypertensive-crisis
+slug: simple-steps-to-reduce-post-transfusion-hypertension-in-adults-71-with-iron-overload-elevated-hepcidin-and-prior-hypertensive-crisis
 description: Iron-loaded blood triggers oxidative stress (endothelial ROS burst), spiking systolic 20-35 mmHg within 2 hours. Pre-transfusion phlebotomy timing is key.
 date: '2026-01-29'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria
   - >-
-    why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
   - >-
-    12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma
   - >-
-    natural-ways-to-support-capillary-perfusion-without-vasodilators-for-adults-67-79-with-hypertension-mild-peripheral-artery-disease-and-cold-hands-feet
 ---
 
 # Managing Post-Transfusion Hypertension in Adults 71+ With Iron Overload

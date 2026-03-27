@@ -2,8 +2,6 @@
 title: Is Your Posture Affecting Your Heart? What Older Adults Should Know
 slug: is-your-posture-affecting-your-heart-what-older-adults-should-know
 description: >-
-  Learn how poor posture may restrict breathing and circulation, impacting
-  cardiovascular efficiency.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: posture and heart health in seniors

@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Chronic Use of 'Calm-Inducing' White Noise Machines Alters Endothelial
-  Nitric Oxide Synthase Expression — And Why That Accelerates Atherosclerosis in
-  Adults 74+ With Mild Cognitive Impairment
-slug: >-
-  how-chronic-use-of-calm-inducing-white-noise-machines-alters-endothelial-nitric-oxide-synthase-expression-and-why-that-accelerates-atherosclerosis-in-adults-74-with-mild-cognitive-impairment
+slug: how-chronic-use-of-calm-inducing-white-noise-machines-alters-endothelial-nitric-oxide-synthase-expression-and-why-that-accelerates-atherosclerosis-in-adults-74-with-mild-cognitive-impairment
 description: >-
-  Examines the underrecognized vascular impact of long-term low-frequency sound
-  exposure on endothelial function, particularly in aging brains with
-  compromised NO bioavailability.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: white noise machines atherosclerosis seniors
@@ -16,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
-    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
   - >-
-    warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines
   - >-
-    how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways
   - >-
-    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
 ---
 
 # How White Noise Machines May Affect Heart Health in Older Adults — What Seniors and Caregivers Should Know

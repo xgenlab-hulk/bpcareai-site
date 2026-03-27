@@ -1,7 +1,6 @@
 ---
 title: "Late-Night Carbs While Grandparenting: A Nighttime BP Trap After 68"
-slug: >-
-  how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
+slug: how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
 description: "Carbs after 8pm suppress the overnight BP dip (nocturnal hypertension) by 8-12 mmHg. Grandparents feeding kids late shift their meal clock \u2014 eat protein first."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -11,13 +10,9 @@ image: ''
 relatedSlugs:
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
-    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
-    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
 ---
 
 # How Late-Evening Carbs and Nighttime Blood Pressure Interact During Holiday Grandparenting

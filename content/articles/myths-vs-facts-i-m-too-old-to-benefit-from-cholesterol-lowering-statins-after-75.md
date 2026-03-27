@@ -1,13 +1,7 @@
 ---
 title: >-
-  Myths vs Facts: 'I’m Too Old to Benefit From Cholesterol-Lowering Statins
-  After 75'
-slug: >-
-  myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
+slug: myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
 description: >-
-  Debunks age-based statin misconceptions using STAREE and PREVAIL trial
-  data—highlighting mortality, mobility, and dementia risk trade-offs in primary
-  prevention.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: statins after 75 myths vs facts
@@ -15,13 +9,9 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
   - >-
-    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
-    top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
   - the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
 ---
 

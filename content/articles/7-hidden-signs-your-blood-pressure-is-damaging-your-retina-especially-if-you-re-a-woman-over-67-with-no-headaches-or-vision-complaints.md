@@ -1,7 +1,6 @@
 ---
 title: '7 Ways Blood Pressure Silently Damages Your Retina — Women 67+'
-slug: >-
-  7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
+slug: 7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
 description: 'Cotton-wool spots and narrowed eye vessels (arteriolar nicking) appear before stroke or kidney decline. 23% of women 67+ with normal readings show damage.'
 date: '2026-01-13'
 updated: '2026-03-27'
@@ -10,14 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
   - >-
-    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - how-vision-changes-might-be-linked-to-heart-disease
   - >-
-    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
 ---
 
 # What Your Eyes Reveal About Blood Pressure—Especially for Women Over 67 (Even Without Headaches or Blurry Vision)

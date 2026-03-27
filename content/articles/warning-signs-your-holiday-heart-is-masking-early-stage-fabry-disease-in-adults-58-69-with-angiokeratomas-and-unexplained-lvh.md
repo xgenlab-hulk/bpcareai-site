@@ -1,7 +1,6 @@
 ---
 title: "When 'Holiday Heart' Hides Fabry Disease in Adults 58-69"
-slug: >-
-  warning-signs-your-holiday-heart-is-masking-early-stage-fabry-disease-in-adults-58-69-with-angiokeratomas-and-unexplained-lvh
+slug: warning-signs-your-holiday-heart-is-masking-early-stage-fabry-disease-in-adults-58-69-with-angiokeratomas-and-unexplained-lvh
 description: Angiokeratomas + unexplained thick heart wall (LVH) + tingling after wine? These 3 clues separate Fabry disease from holiday heart in adults 58-69.
 date: '2026-01-23'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate
   - >-
-    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
   - >-
-    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
 ---
 
 # When “Holiday Heart” Might Be More Than Just Too Much Mulled Wine: Recognizing Early Fabry Disease in Adults 58–69

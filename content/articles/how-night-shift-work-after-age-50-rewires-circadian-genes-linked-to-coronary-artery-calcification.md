@@ -1,12 +1,7 @@
 ---
 title: >-
-  How Night Shift Work After Age 50 Rewires Circadian Genes Linked to Coronary
-  Artery Calcification
-slug: >-
-  how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
+slug: how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
 description: >-
-  Explains CLOCK/BMAL1 dysregulation in long-term shift workers and how coronary
-  calcium scoring serves as a biomarker of accelerated vascular aging.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: night shift circadian genes coronary calcification
@@ -15,12 +10,9 @@ image: ''
 relatedSlugs:
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 ---
 
 # How Night Shift Work After 50 Affects Circadian Genes and Heart Health—And What You Can Do About It

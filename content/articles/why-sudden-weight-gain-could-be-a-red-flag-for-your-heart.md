@@ -2,8 +2,6 @@
 title: Why Sudden Weight Gain Could Be a Red Flag for Your Heart
 slug: why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
 description: >-
-  Understand how rapid weight gain may signal fluid retention and declining
-  heart function.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: sudden weight gain and heart failure warning signs

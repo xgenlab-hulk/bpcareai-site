@@ -1,14 +1,7 @@
 ---
 title: >-
-  When to Worry About Sudden Nighttime Hunger That Wakes You Up —
-  Differentiating Reactive Hypoglycemia, Nocturnal Somogyi Effect, and Early
-  Autonomic Failure in Adults 70+
-slug: >-
-  when-to-worry-about-sudden-nighttime-hunger-that-wakes-you-up-differentiating-reactive-hypoglycemia-nocturnal-somogyi-effect-and-early-autonomic-failure-in-adults-70
+slug: when-to-worry-about-sudden-nighttime-hunger-that-wakes-you-up-differentiating-reactive-hypoglycemia-nocturnal-somogyi-effect-and-early-autonomic-failure-in-adults-70
 description: >-
-  A diagnostic decision tree for clinicians and patients, distinguishing
-  metabolic, pharmacologic, and neurodegenerative causes of nocturnal awakenings
-  with hunger—tailored to frailty and polypharmacy.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: sudden nighttime hunger diabetes diagnosis
@@ -16,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
   - >-
-    what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
-    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
 ---
 
 # When Sudden Nighttime Hunger Wakes You Up — What It Might Mean for Your Diabetes Diagnosis

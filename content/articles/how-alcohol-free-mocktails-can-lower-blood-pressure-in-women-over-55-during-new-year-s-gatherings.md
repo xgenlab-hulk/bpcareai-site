@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Alcohol-Free Mocktails Can Lower Blood Pressure in Women Over 55 During
-  New Year’s Gatherings
-slug: >-
-  how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
+slug: how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
 description: >-
-  Details the vasodilatory, magnesium-rich, and nitric oxide-boosting
-  ingredients in non-alcoholic drinks—and why skipping ethanol reduces nocturnal
-  BP surges and improves sleep architecture more effectively than ‘low-alcohol’
-  options.
 date: '2025-12-17'
 updated: '2025-12-17'
 primaryKeyword: alcohol-free mocktails blood pressure women over 55
@@ -18,7 +11,6 @@ relatedSlugs:
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - >-
-    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - top-5-winter-superfoods-that-naturally-lower-blood-pressure
   - blood-pressure-and-alcohol-how-much-is-too-much
 ---

@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Are the Earliest Signs of Postprandial Hypoxemia After a Heavy Family
-  Meal—And Why It’s Often Missed in Adults With Mild COPD Over 65?
-slug: >-
-  what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
+slug: what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
 description: >-
-  Spotting subtle respiratory red flags (e.g., increased sighing, reduced
-  conversation stamina, fingertip coolness) that precede SpO2 drops—and how meal
-  composition (fat load, carbonation, temperature) contributes.
 date: '2025-12-22'
 updated: '2025-12-22'
 primaryKeyword: postprandial hypoxemia copd seniors
@@ -15,13 +9,9 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
-    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
-    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 

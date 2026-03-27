@@ -1,7 +1,6 @@
 ---
 title: Why Women 58-67 Face Rising Heart Risk 3 Years After Menopause
-slug: >-
-  why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
+slug: why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
 description: "Estrogen loss doubles artery stiffness (pulse wave velocity) within 36 months post-menopause \u2014 even when LDL stays under 100. SWAN study data for women 58-67."
 date: '2026-02-01'
 updated: '2026-03-26'
@@ -14,7 +13,6 @@ relatedSlugs:
   - why-women-s-heart-attack-symptoms-differ-after-menopause
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
   - >-
-    holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
 ---
 
 # Why Heart Disease After Menopause Rises Sharply for Women 58–67 — Even With Healthy Cholesterol

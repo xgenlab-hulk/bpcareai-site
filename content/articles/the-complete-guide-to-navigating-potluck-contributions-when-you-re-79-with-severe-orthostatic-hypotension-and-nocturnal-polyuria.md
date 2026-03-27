@@ -1,11 +1,7 @@
 ---
 title: "Potluck Dishes That Won't Crash Your Blood Pressure — Seniors 79+"
-slug: >-
-  the-complete-guide-to-navigating-potluck-contributions-when-you-re-79-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
+slug: the-complete-guide-to-navigating-potluck-contributions-when-you-re-79-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
 description: >-
-  Standing drops BP 20+ mmHg with dizziness on standing (orthostatic
-  hypotension). Low-sodium dishes with built-in hydration and timed drop-off
-  prevent crashes.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: safe potluck dishes if you have low blood pressure standing
@@ -13,15 +9,10 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
-    what-are-the-safest-holiday-dessert-swaps-for-adults-80-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
   - >-
-    can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
   - >-
-    the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
   - >-
-    5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
 ---
 
 # Smart, Safe Potluck Contributions for Older Adults With Orthostatic Hypotension and Nocturnal Polyuria

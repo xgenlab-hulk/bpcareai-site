@@ -2,8 +2,6 @@
 title: 'Cold Hands and Poor Circulation: When Is It a Heart Warning Sign?'
 slug: can-cold-hands-signal-poor-circulation-or-heart-issues
 description: 'Cold hands in warm rooms can signal PAD (peripheral artery disease), affecting 8.5 million adults 40+ and raising heart attack risk via shared atherosclerosis.'
-  Understand when cold extremities are normal and when they might point to
-  cardiovascular concerns.
 date: '2025-11-27'
 updated: '2026-03-27'
 primaryKeyword: 'cold hands poor circulation as a heart warning sign'

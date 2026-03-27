@@ -2,8 +2,6 @@
 title: 'Hidden Salt: 10 Surprising Foods That Spike Blood Pressure'
 slug: hidden-salt-10-surprising-foods-that-spike-blood-pressure
 description: >-
-  Uncover common high-sodium foods that may silently raise blood pressure,
-  especially dangerous for those over 50.
 date: '2025-11-26'
 updated: '2025-11-26'
 primaryKeyword: hidden salt in food and blood pressure

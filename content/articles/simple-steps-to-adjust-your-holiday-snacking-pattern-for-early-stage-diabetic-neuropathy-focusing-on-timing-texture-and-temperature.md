@@ -1,13 +1,7 @@
 ---
 title: >-
-  Simple Steps to Adjust Your Holiday Snacking Pattern for Early-Stage Diabetic
-  Neuropathy—Focusing on Timing, Texture, and Temperature
-slug: >-
-  simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
+slug: simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
 description: >-
-  Addresses oral sensory changes, delayed gastric emptying, and autonomic
-  dysregulation to prevent nocturnal hypoglycemia and post-snack glucose
-  crashes.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: holiday snacking diabetic neuropathy
@@ -15,14 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
-    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
-    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
 ---
 
 # Smarter Holiday Snacking with Early-Stage Diabetic Neuropathy: Timing, Texture, and Temperature Make All the Difference

@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Emotional Eating Patterns Shift During Multigenerational Gatherings—and
-  Why That Matters for Adults With Long-Standing Type 2 Diabetes
-slug: >-
-  how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
+slug: how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
 description: >-
-  Analyzes intergenerational triggers (nostalgia, caregiving stress, identity
-  reinforcement), cortisol-mediated glucose dysregulation, and real-world
-  behavioral interventions.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: emotional eating multigenerational gatherings

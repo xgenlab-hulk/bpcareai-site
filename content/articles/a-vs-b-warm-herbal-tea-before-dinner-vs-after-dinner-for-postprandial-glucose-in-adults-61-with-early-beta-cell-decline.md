@@ -1,13 +1,7 @@
 ---
 title: 'Herbal Tea Before vs After Dinner for Blood Sugar in Adults Over 61'
-  A vs B: Warm Herbal Tea *Before* Dinner vs. *After* Dinner for Postprandial
-  Glucose in Adults 61+ With Early Beta-Cell Decline
-slug: >-
-  a-vs-b-warm-herbal-tea-before-dinner-vs-after-dinner-for-postprandial-glucose-in-adults-61-with-early-beta-cell-decline
+slug: a-vs-b-warm-herbal-tea-before-dinner-vs-after-dinner-for-postprandial-glucose-in-adults-61-with-early-beta-cell-decline
 description: 'In a 2023 pilot RCT of 42 adults 61-78 with prediabetes, ginger-cinnamon tea 30 minutes before dinner lowered 2-hour glucose area under the curve (AUC) 19% more than tea after dinner.'
-  Compares timing effects of ginger-cinnamon tea on gastric emptying rate, GLP-1
-  secretion, and 2-hour glucose AUC—based on a 2023 pilot RCT in older
-  prediabetic adults.
 date: '2026-02-17'
 updated: '2026-03-27'
 primaryKeyword: 'drinking herbal tea before vs after dinner for blood sugar over 61'
@@ -15,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia
   - >-
-    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
-    12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying
   - >-
-    a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
   - >-
-    a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity
 ---
 
 # Herbal Tea Timing Postprandial Glucose: Does Ginger-Cinnamon Tea Work Better Before or After Dinner for Adults 61+?

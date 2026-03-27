@@ -1,13 +1,7 @@
 ---
 title: 'Holiday Heart Syndrome With Controlled Hypertension—7 Triggers'
-  7 Hidden Triggers of Holiday Heart Syndrome in Adults With Controlled
-  Hypertension—And How to Neutralize Them Before Christmas Eve
-slug: >-
-  7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+slug: 7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
 description: '60% of holiday arrhythmias hit adults with controlled hypertension, not heavy drinkers. 7 non-alcoholic holiday heart syndrome triggers with prevention tips.'
-  Explores lesser-known, non-alcoholic triggers—like overnight sodium retention,
-  disrupted melatonin rhythms, and post-prandial vagal surges—that can
-  destabilize cardiac rhythm in otherwise stable hypertensive adults 55–79.
 date: '2025-12-25'
 updated: '2026-03-27'
 primaryKeyword: 'holiday heart syndrome with controlled hypertension'
@@ -15,12 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
-    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
 ---
 
 # What Really Triggers Holiday Heart Syndrome in Hypertensive Adults—And How to Stay Steady Through the Holidays

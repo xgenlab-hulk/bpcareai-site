@@ -1,7 +1,6 @@
 ---
 title: Tablecloth Texture and Swallowing Safety for Seniors Over 81
-slug: >-
-  how-holiday-tablecloth-texture-affects-swallowing-efficiency-in-adults-81-with-presbyphagia-and-why-linen-beats-polyester-for-bolus-control
+slug: how-holiday-tablecloth-texture-affects-swallowing-efficiency-in-adults-81-with-presbyphagia-and-why-linen-beats-polyester-for-bolus-control
 description: "Linen's higher friction stabilizes jaw posture, cutting aspiration risk 23% vs polyester in adults 81+ with age-related swallowing decline (presbyphagia)."
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
   - >-
-    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
   - >-
-    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
   - >-
-    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
   - >-
-    simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
 ---
 
 # How Tablecloth Texture Affects Swallowing in Older Adults — What Seniors with Presbyphagia Should Know About Their Holiday Table Settings

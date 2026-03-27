@@ -1,13 +1,7 @@
 ---
 title: 'Hidden Dangers of Hawthorn and Berberine Supplements in AFib and CKD'
-  Dangers of Over-the-Counter 'Heart Support' Supplements Containing Hawthorn +
-  Berberine in Adults With Stage 3 CKD and Atrial Fibrillation
-slug: >-
-  dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation
+slug: dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation
 description: 'Berberine blocks a liver enzyme (CYP3A4) and raises digoxin levels by 30-40%; in adults with stage 3 kidney disease and AFib, OTC supplements risk toxicity.'
-  Details documented cases of QT prolongation, hypokalemia exacerbation, and
-  reduced digoxin clearance in CKD stage 3 patients taking herbal combos—plus
-  lab monitoring thresholds and safer alternatives.
 date: '2026-01-07'
 updated: '2026-03-27'
 primaryKeyword: 'hawthorn berberine supplements dangers AFib CKD'
@@ -15,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
   - >-
-    can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal
   - >-
-    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
   - >-
-    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
   - >-
-    the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
 ---
 
 # Understanding the Risks of Hawthorn Berberine and Afib in CKD: A Guide for Adults With Stage 3 Chronic Kidney Disease

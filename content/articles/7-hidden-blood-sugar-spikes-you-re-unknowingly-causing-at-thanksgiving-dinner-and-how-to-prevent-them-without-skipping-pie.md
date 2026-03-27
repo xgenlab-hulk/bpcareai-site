@@ -9,13 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
   - >-
-    7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
   - >-
-    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
 ---
 
 # Thanksgiving Blood Sugar Spikes Prevention: 7 Surprising Triggers—and Smart Ways to Stay Steady

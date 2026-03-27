@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Seasonal Decline in Vitamin D-Binding Protein Alters Free 25(OH)D
-  Bioavailability — And Why That Accelerates Insulin Resistance in Adults 57–65
-  With Winter-Onset Fatigue
-slug: >-
-  how-seasonal-decline-in-vitamin-d-binding-protein-alters-free-25-oh-d-bioavailability-and-why-that-accelerates-insulin-resistance-in-adults-57-65-with-winter-onset-fatigue
+slug: how-seasonal-decline-in-vitamin-d-binding-protein-alters-free-25-oh-d-bioavailability-and-why-that-accelerates-insulin-resistance-in-adults-57-65-with-winter-onset-fatigue
 description: >-
-  Explains the underdiscussed role of DBP glycosylation shifts in winter, how
-  low free (not total) vitamin D drives adipose TLR4 activation and serine
-  phosphorylation of IRS-1—and optimal testing/treatment strategies.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: vitamin-d-binding-protein winter insulin
@@ -16,12 +9,9 @@ topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - >-
-    how-indoor-winter-light-deprivation-alters-retinal-dopamine-signaling-and-disrupts-hepatic-glucose-production-rhythms-in-adults-64-80-with-type-2-diabetes-and-seasonal-affective-symptoms
   - >-
-    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
 ---
 

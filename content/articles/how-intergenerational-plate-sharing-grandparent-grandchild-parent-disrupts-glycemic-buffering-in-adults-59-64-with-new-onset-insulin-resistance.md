@@ -1,7 +1,6 @@
 ---
 title: "Why Sharing Plates With Grandkids Spikes Blood Sugar After 59"
-slug: >-
-  how-intergenerational-plate-sharing-grandparent-grandchild-parent-disrupts-glycemic-buffering-in-adults-59-64-with-new-onset-insulin-resistance
+slug: how-intergenerational-plate-sharing-grandparent-grandchild-parent-disrupts-glycemic-buffering-in-adults-59-64-with-new-onset-insulin-resistance
 description: "Nibbling shared-plate bites raises glucose 25-40 mg/dL by eroding metabolic buffering (glycemic resilience). A resistant starch pairing strategy helps."
 date: '2026-02-08'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
   - >-
-    12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin
   - >-
-    natural-ways-to-support-glycemic-resilience-during-holiday-social-events-without-supplements-or-diet-pills-for-adults-55-64-newly-diagnosed-with-type-2-diabetes
   - >-
-    how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
   - >-
-    7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying
 ---
 
 # How Intergenerational Plate-Sharing Undermines Glycemic Buffering in Adults 59–64 With Early Insulin Resistance

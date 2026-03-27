@@ -1,7 +1,6 @@
 ---
 title: When Normal BP Hides a Thickening Heart Wall in Adults 68+
-slug: >-
-  what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction
+slug: what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction
 description: Office BP under 130/80 misses thickened heart muscle (left ventricular hypertrophy) in 34% of adults 68+. 24-hour monitoring catches the nighttime spikes.
 date: '2026-02-05'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
   - >-
-    when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
   - >-
-    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
   - >-
-    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
   - >-
-    7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
 ---
 
 # When “Normal” Blood Pressure Readings Hide Heart Changes: Understanding Left Ventricular Hypertrophy Masked Hypertension in Older Adults

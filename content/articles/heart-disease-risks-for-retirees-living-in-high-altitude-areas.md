@@ -2,8 +2,6 @@
 title: Heart Disease Risks for Retirees Living in High-Altitude Areas
 slug: heart-disease-risks-for-retirees-living-in-high-altitude-areas
 description: >-
-  Examine how reduced oxygen levels at elevation may strain the cardiovascular
-  system in older adults.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: heart disease risk at high altitude for seniors

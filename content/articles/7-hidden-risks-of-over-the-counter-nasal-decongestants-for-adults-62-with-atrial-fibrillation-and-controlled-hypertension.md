@@ -1,7 +1,6 @@
 ---
 title: 'OTC Nasal Sprays and AFib After 62: 7 Risks Your Pharmacist May Miss'
-slug: >-
-  7-hidden-risks-of-over-the-counter-nasal-decongestants-for-adults-62-with-atrial-fibrillation-and-controlled-hypertension
+slug: 7-hidden-risks-of-over-the-counter-nasal-decongestants-for-adults-62-with-atrial-fibrillation-and-controlled-hypertension
 description: 'Pseudoephedrine raises systolic BP 12-15 mmHg and can trigger irregular heartbeat (atrial fibrillation) within 90 min. 7 risks adults 62+ with AFib should know.'
 date: '2026-02-08'
 updated: '2026-03-28'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
   - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
-    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
   - >-
-    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
   - >-
-    dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation
 ---
 
 # What Seniors With Atrial Fibrillation Should Know About Nasal Decongestants—and Why “Just One Dose” Isn’t Always Safe  

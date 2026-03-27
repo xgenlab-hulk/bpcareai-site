@@ -1,12 +1,7 @@
 ---
 title: >-
-  The Truth About 'Heart-Safe' Holiday Cocktails Labeled 'Low-Alcohol' — Why
-  4.5% ABV Mulled Wine Still Raises QT Dispersion in Adults 67+ on Amiodarone
-slug: >-
-  the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone
+slug: the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone
 description: >-
-  Debunks marketing claims around low-alcohol holiday beverages by analyzing
-  real-world ECG impact on repolarization in seniors on antiarrhythmics.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: low-alcohol cocktails qt dispersion risk
@@ -14,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
   - >-
-    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
   - >-
-    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
 ---
 
 # What You *Really* Need to Know About Low-Alcohol Cocktails, QT Dispersion Risk, and Holiday Heart Safety

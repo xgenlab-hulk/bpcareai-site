@@ -1,13 +1,7 @@
 ---
 title: >-
-  How to Navigate a Potluck Without Spiking Your A1C: Blood Sugar-Smart
-  Strategies for Seniors With Type 2 Diabetes
-slug: >-
-  how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
+slug: how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
 description: >-
-  Practical, plate-by-plate guidance for adults 60+ with diabetes to choose,
-  portion, and time foods at multi-dish family gatherings—without relying on
-  willpower or skipping meals.
 date: '2025-12-22'
 updated: '2025-12-22'
 primaryKeyword: manage blood sugar at potlucks seniors
@@ -19,7 +13,6 @@ relatedSlugs:
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - managing-diabetes-while-traveling-tips-for-seniors
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
 ---
 
 # Smart Strategies to Manage Blood Sugar at Potlucks Seniors Can Actually Enjoy

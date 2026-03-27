@@ -1,7 +1,6 @@
 ---
 title: "Holiday Meal Safety for Seniors 79+ on Apixaban: Overlooked Risks"
-slug: >-
-  how-holiday-tablecloth-fibers-interact-with-anticoagulant-medications-a-real-world-risk-for-adults-79-on-apixaban-with-mild-thrombocytopenia
+slug: how-holiday-tablecloth-fibers-interact-with-anticoagulant-medications-a-real-world-risk-for-adults-79-on-apixaban-with-mild-thrombocytopenia
 description: "Tablecloth dyes and microfibers transfer hand-to-mouth, potentially activating platelets in adults on blood thinners (anticoagulants) with counts below 100K."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-tablecloth-texture-affects-swallowing-efficiency-in-adults-81-with-presbyphagia-and-why-linen-beats-polyester-for-bolus-control
   - >-
-    the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
   - >-
-    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - >-
-    what-are-the-earliest-signs-of-holiday-induced-hypercoagulability-in-adults-71-with-atrial-fibrillation-and-sedentary-winter-habits
   - >-
-    5-things-everyone-over-72-should-know-about-dual-antiplatelet-therapy-after-pci-especially-if-you-take-otc-nsaids-or-eat-natto-daily
 ---
 
 # Understanding Holiday Tablecloth Anticoagulant Interaction: Practical Safety Tips for Older Adults on Apixaban

@@ -1,7 +1,6 @@
 ---
 title: "Why Family Gatherings Spike Your Blood Sugar With Prediabetes"
-slug: >-
-  how-grandchildren-s-candy-requests-alter-postprandial-glucose-trajectories-in-adults-62-with-early-prediabetes-and-what-to-serve-instead-of-chocolate-covered-almonds
+slug: how-grandchildren-s-candy-requests-alter-postprandial-glucose-trajectories-in-adults-62-with-early-prediabetes-and-what-to-serve-instead-of-chocolate-covered-almonds
 description: "Sharing candy with grandkids pushes after-meal glucose (postprandial glucose) 35\u201350 mg/dL higher than eating alone. Low-glycemic swaps for adults 62+."
 date: '2026-02-08'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
   - >-
-    7-hidden-triggers-of-after-dinner-blood-sugar-spikes-at-family-dinners-and-how-to-neutralize-them-without-skipping-dessert
   - >-
-    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
   - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
-    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
 ---
 
 # How Holiday Candy Requests Affect Postprandial Glucose in Adults 62+ With Prediabetes — And What to Serve Instead

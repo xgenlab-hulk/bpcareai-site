@@ -1,7 +1,6 @@
 ---
 title: Why Your BP Looks Normal Only Cross-Legged — A Warning After 61
-slug: >-
-  when-to-worry-about-normal-blood-pressure-readings-that-occur-only-while-sitting-cross-legged-a-red-flag-for-autonomic-dysregulation-in-adults-61-with-early-diabetes
+slug: when-to-worry-about-normal-blood-pressure-readings-that-occur-only-while-sitting-cross-legged-a-red-flag-for-autonomic-dysregulation-in-adults-61-with-early-diabetes
 description: Cross-legged sitting hides a 15-25 mmHg standing drop. If BP only reads normal this way, suspect nerve control failure (autonomic dysregulation).
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
   - >-
-    what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
   - >-
-    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
   - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
-    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
 ---
 
 # When Cross-Legged Blood Pressure Readings Hide Autonomic Dysregulation in Adults 61+ With Early Diabetes

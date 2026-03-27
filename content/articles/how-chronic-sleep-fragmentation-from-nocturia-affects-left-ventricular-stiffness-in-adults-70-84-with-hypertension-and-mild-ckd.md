@@ -1,7 +1,6 @@
 ---
 title: Waking Up to Pee 3x a Night? How It Stiffens Your Heart After 70
-slug: >-
-  how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
+slug: how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
 description: Each bathroom trip fires a nerve surge (sympathetic activation) that stiffens heart muscle. Adults 70-84 with kidney disease (CKD) show 18% more fibrosis.
 date: '2026-01-22'
 updated: 2026-03-26
@@ -10,13 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - how-frequent-urination-at-night-could-signal-heart-problems
   - the-connection-between-frequent-urination-at-night-and-heart-health
   - >-
-    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
 ---
 
 # How Nocturia-Related Sleep Fragmentation Contributes to Heart Stiffness in Older Adults With Hypertension and Mild CKD

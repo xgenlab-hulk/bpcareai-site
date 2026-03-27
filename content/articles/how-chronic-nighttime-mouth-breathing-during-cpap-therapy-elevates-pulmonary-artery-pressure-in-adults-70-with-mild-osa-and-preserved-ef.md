@@ -1,7 +1,6 @@
 ---
 title: "Mouth Breathing on CPAP? Why It Raises Lung Pressure After 70"
-slug: >-
-  how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef
+slug: how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef
 description: "CPAP mouth leaks trigger brief oxygen dips (hypoxemia microbursts) that raise pressure in your lung arteries 5-8 mmHg overnight — even with mild sleep apnea."
 date: '2026-02-08'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: treatment-interventions
 image: ''
 relatedSlugs:
   - >-
-    what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
   - >-
-    7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
   - >-
-    best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
   - >-
-    best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
   - >-
-    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
 ---
 
 # How Mouth Breathing During CPAP Therapy Can Raise Pulmonary Artery Pressure in Older Adults With Mild Sleep Apnea

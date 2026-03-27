@@ -1,11 +1,7 @@
 ---
 title: '10 Foods That Fight Holiday Fatigue for Adults With Chronic Exhaustion'
-  Tired During Holidays? 10 Energy-Boosting Foods for Chronic Fatigue 57+
 slug: energy-foods-holiday-fatigue-chronic-fatigue-seniors
 description: 'Holiday stress degrades mitochondrial membrane potential in adults 57-74. These 10 foods reduce oxidative load and restore cellular energy (ATP) production.'
-  Struggling with holiday fatigue? Discover 10 energy-boosting foods
-  (pomegranate, eggs, mushrooms) proven to fight chronic fatigue in adults
-  57-74. Simple timing tips included.
 date: '2026-01-07'
 updated: '2026-03-27'
 primaryKeyword: 'foods for energy during holiday stress with chronic fatigue'
@@ -13,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
   - >-
-    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
   - >-
-    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
   - >-
-    11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79
   - >-
-    what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
 ---
 
 # Nourishing Your Energy When Holidays Feel Heavy: Mitochondrial Resilience Holiday Stress Support for Adults 57–74

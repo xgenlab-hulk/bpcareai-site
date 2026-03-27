@@ -1,7 +1,6 @@
 ---
 title: 7 Signs Blood Sugar Is Silently Spiking After Parties (62+)
-slug: >-
-  7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
+slug: 7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
 description: Blurry vision 30 min post-dessert or sudden fatigue may signal glucose over 180 mg/dL. Adults with early diabetes (prediabetes) under 3,000 steps/day risk most.
 date: '2026-01-24'
 updated: 2026-03-26
@@ -10,12 +9,9 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - >-
-    7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them
   - >-
-    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
   - what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
 ---
 

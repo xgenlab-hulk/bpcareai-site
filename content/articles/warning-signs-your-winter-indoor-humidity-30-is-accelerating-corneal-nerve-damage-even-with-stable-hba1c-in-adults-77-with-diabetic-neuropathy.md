@@ -1,7 +1,6 @@
 ---
 title: Low Winter Humidity and Eye Nerve Damage in Seniors With Diabetes
-slug: >-
-  warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
+slug: warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
 description: "Indoor humidity below 30% raises tear salt levels (osmolarity) by 15-25 mOsm/L, speeding nerve loss in the cornea \u2014 even with stable HbA1c in adults 77+."
 date: '2026-02-08'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
   - >-
-    how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification
   - >-
-    how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history
   - >-
-    simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
   - >-
-    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
 ---
 
 # How Low Indoor Humidity May Contribute to Corneal Nerve Damage in Older Adults With Diabetes

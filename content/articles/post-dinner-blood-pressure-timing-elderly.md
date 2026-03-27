@@ -1,7 +1,6 @@
 ---
 title: "Why Your 8:15 PM Reading Matters More Than Morning BP After 65"
-slug: >-
-  12-science-backed-times-to-measure-blood-pressure-after-dinner-not-just-before-or-upon-waking-for-adults-65-with-nocturnal-non-dipping-and-mild-cognitive-impairment
+slug: 12-science-backed-times-to-measure-blood-pressure-after-dinner-not-just-before-or-upon-waking-for-adults-65-with-nocturnal-non-dipping-and-mild-cognitive-impairment
 description: "A salty dinner raises systolic BP up to 12 mmHg in 2-3 hours \u2014 when brain waste clearance (glymphatic flow) needs pressure below 135/85. Timing matters."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -10,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-times-of-day-to-take-your-blood-pressure-based-on-circadian-endothelial-no-synthase-rhythms
   - >-
-    how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
   - >-
-    a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension
   - >-
-    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
   - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
 ---
 
 # Optimal post-dinner-blood-pressure-timing-elderly: 12 Science-Backed Moments to Measure for Better Brain & Heart Health

@@ -2,8 +2,6 @@
 title: How Menopause Affects Heart Disease Risk in Women
 slug: how-menopause-affects-heart-disease-risk-in-women
 description: >-
-  Explore hormonal changes during menopause that increase the likelihood of
-  developing heart disease.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: menopause and increased heart disease risk

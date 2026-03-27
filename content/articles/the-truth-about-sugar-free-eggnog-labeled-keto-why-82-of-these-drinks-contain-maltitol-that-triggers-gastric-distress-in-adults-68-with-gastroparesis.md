@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Truth About 'Sugar-Free' Eggnog Labeled 'Keto' — Why 82% of These Drinks
-  Contain Maltitol That Triggers Gastric Distress in Adults 68+ With
-  Gastroparesis
-slug: >-
-  the-truth-about-sugar-free-eggnog-labeled-keto-why-82-of-these-drinks-contain-maltitol-that-triggers-gastric-distress-in-adults-68-with-gastroparesis
+slug: the-truth-about-sugar-free-eggnog-labeled-keto-why-82-of-these-drinks-contain-maltitol-that-triggers-gastric-distress-in-adults-68-with-gastroparesis
 description: >-
-  Debunks marketing claims by examining sugar alcohol metabolism, osmotic load,
-  and delayed gastric emptying in aging GI tracts—plus safer alternatives backed
-  by gastroenterology guidelines.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: "health management adults 68+"
@@ -16,15 +9,10 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes
   - >-
-    the-truth-about-sugar-free-holiday-candies-marketed-to-seniors-why-83-contain-maltitol-induced-osmotic-diarrhea-and-secondary-hyperglycemia-in-adults-69-with-gastroparesis
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
   - >-
-    the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis
 ---
 
 # Understanding Sugar-Free Eggnog Gastroparesis Risk — What Seniors Should Know This Holiday Season

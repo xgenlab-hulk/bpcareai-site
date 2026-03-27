@@ -1,14 +1,7 @@
 ---
 title: 'How Eye Drop Preservatives Slow Corneal Nerve Healing in Diabetics Over 76'
-  How Intermittent Use of Over-the-Counter Eye Drops With Benzalkonium Chloride
-  Alters Corneal Nerve Regeneration — And Delays Wound Healing in Adults 76+
-  With Diabetic Keratopathy
-slug: >-
-  how-intermittent-use-of-over-the-counter-eye-drops-with-benzalkonium-chloride-alters-corneal-nerve-regeneration-and-delays-wound-healing-in-adults-76-with-diabetic-keratopathy
+slug: how-intermittent-use-of-over-the-counter-eye-drops-with-benzalkonium-chloride-alters-corneal-nerve-regeneration-and-delays-wound-healing-in-adults-76-with-diabetic-keratopathy
 description: 'Benzalkonium chloride desensitizes TRPV1 receptors, reduces substance P, and impairs epithelial migration—delaying corneal wound healing in adults 76+ with diabetic keratopathy.'
-  Documents preservative-induced TRPV1 receptor desensitization, reduced
-  substance P release, and impaired epithelial migration — with
-  preservative-free alternatives and re-epithelialization accelerants.
 date: '2026-02-12'
 updated: '2026-03-27'
 primaryKeyword: 'can eye drop preservatives slow corneal nerve healing in diabetics over 76'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
   - >-
-    how-long-term-use-of-over-the-counter-nasal-decongestants-alters-carotid-sinus-sensitivity-in-adults-64-with-early-autonomic-neuropathy-and-mild-orthostasis
   - >-
-    how-chronic-nighttime-use-of-blue-blocking-amber-glasses-alters-melatonin-dependent-bkca-channel-expression-and-why-that-improves-nocturnal-coronary-perfusion-in-adults-71-with-nocturnal-angina
   - >-
-    how-chronic-low-grade-dehydration-from-nocturnal-polyuria-elevates-plasma-endothelin-1-and-accelerates-microvascular-damage-in-adults-66-with-retinopathy-and-normal-bp
   - >-
-    how-daily-use-of-fabric-softener-sheets-alters-skin-microbiome-diversity-and-why-that-worsens-diabetic-foot-ulcer-healing-in-adults-68-with-peripheral-neuropathy
 ---
 
 # How Benzalkonium Chloride Affects Corneal Nerve Regeneration in Older Adults With Diabetic Keratopathy

@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Truth About 'Low-Fat' Holiday Desserts: Why They Often Raise Triglycerides
-  in Men Over 60
-slug: >-
-  the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+slug: the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
 description: >-
-  Debunks marketing claims around reduced-fat pies and cookies by explaining how
-  refined carbs and hidden fructose trigger hepatic lipogenesis—and offers
-  science-backed, low-triglyceride dessert alternatives aligned with AHA
-  guidelines.
 date: '2025-12-16'
 updated: '2025-12-16'
 primaryKeyword: low-fat desserts triglycerides men over 60
@@ -19,9 +12,7 @@ relatedSlugs:
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
-    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
 ---
 
 # Why Low-Fat Desserts Triglycerides Men Over 60 Is a Hidden Holiday Risk

@@ -2,8 +2,6 @@
 title: 'Can Vitamin D Deficiency Increase Your Risk of Heart Disease?'
 slug: can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
 description: 'Vitamin D below 15 ng/mL linked to 30% higher heart risk. Low D impairs vessel lining function (endothelial function) and overactivates renin-angiotensin.'
-  Review the latest research on low vitamin D levels and their association with
-  cardiovascular problems in older adults.
 date: '2025-11-27'
 updated: '2026-03-27'
 primaryKeyword: 'does vitamin D deficiency increase heart disease risk'

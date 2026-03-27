@@ -1,7 +1,6 @@
 ---
 title: "Managing Diabetes During Hip Fracture Recovery \u2014 Ages 79+"
-slug: >-
-  the-complete-guide-to-managing-diabetes-while-recovering-from-hip-fracture-surgery-practical-strategies-for-adults-79-with-preoperative-hba1c-7-8-8-9-and-limited-mobility
+slug: the-complete-guide-to-managing-diabetes-while-recovering-from-hip-fracture-surgery-practical-strategies-for-adults-79-with-preoperative-hba1c-7-8-8-9-and-limited-mobility
 description: "Post-surgery glucose targets shift to 140-180 mg/dL \u2014 aggressive insulin raises low blood sugar (hypoglycemia) risk 3x. Protein needs jump to 1.2-1.5 g/kg."
 date: '2026-02-09'
 updated: '2026-03-25'
@@ -11,11 +10,8 @@ image: ''
 relatedSlugs:
   - managing-diabetes-while-traveling-tips-for-seniors
   - >-
-    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
-    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
   - >-
-    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 

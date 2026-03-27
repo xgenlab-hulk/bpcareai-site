@@ -1,14 +1,7 @@
 ---
 title: >-
-  What Research Says About 10-Minute 'Gratitude Walks' *After* Holiday Dinners —
-  Effects on Postprandial Inflammatory Cytokines and Glucose Variability in
-  Adults 64+ With Elevated hs-CRP
-slug: >-
-  what-research-says-about-10-minute-gratitude-walks-after-holiday-dinners-effects-on-postprandial-inflammatory-cytokines-and-glucose-variability-in-adults-64-with-elevated-hs-crp
+slug: what-research-says-about-10-minute-gratitude-walks-after-holiday-dinners-effects-on-postprandial-inflammatory-cytokines-and-glucose-variability-in-adults-64-with-elevated-hs-crp
 description: >-
-  Reviews a 2024 randomized crossover trial showing how brief mindful walking
-  combined with gratitude reflection reduces IL-6, TNF-α, and MAGE scores more
-  effectively than walking alone.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: gratitude walks post-holiday dinner
@@ -16,14 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
-    a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea
   - >-
-    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
   - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
 ---
 
 # How Gratitude Walks Post-Holiday Dinner Support Heart and Metabolic Health in Adults 64+

@@ -1,7 +1,6 @@
 ---
 title: Living Alone After 70? Your Arteries May Be Aging Faster
-slug: >-
-  how-social-isolation-accelerates-vascular-aging-in-adults-70-living-alone-and-why-a-15-minute-daily-voice-call-lowers-pulse-wave-velocity-within-3-weeks
+slug: how-social-isolation-accelerates-vascular-aging-in-adults-70-living-alone-and-why-a-15-minute-daily-voice-call-lowers-pulse-wave-velocity-within-3-weeks
 description: Loneliness raises artery stiffness (pulse wave velocity) 0.4-0.7 m/s in 18 months. A 15-minute daily phone call restored flexibility in a 3-week trial.
 date: '2026-01-27'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
   - >-
-    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
   - >-
-    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
   - >-
-    how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79
   - >-
-    how-intermittent-social-isolation-during-winter-months-elevates-il-6-and-accelerates-atherosclerotic-plaque-instability-in-adults-65-81-with-prior-mi
 ---
 
 # How Social Isolation Accelerates Vascular Aging in Older Adults — And Why a Simple Daily Voice Call Can Help

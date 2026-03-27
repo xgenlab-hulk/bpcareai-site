@@ -1,7 +1,6 @@
 ---
 title: Smart Hydration for Stable Blood Sugar in Adults 69+ on Multiple Meds
-slug: >-
-  best-hydration-patterns-for-glucose-homeostasis-during-holiday-parties-not-just-drink-more-water-for-adults-69-with-polypharmacy-and-reduced-thirst-perception
+slug: best-hydration-patterns-for-glucose-homeostasis-during-holiday-parties-not-just-drink-more-water-for-adults-69-with-polypharmacy-and-reduced-thirst-perception
 description: Timed electrolyte sips every 45 min prevent the 15-20 mg/dL glucose drift that dehydration causes in seniors taking water pills (diuretics) and diabetes drugs.
 date: '2026-02-07'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
   - >-
-    best-hydration-strategies-for-blood-pressure-stability-during-winter-not-just-drink-more-water-for-adults-76-with-reduced-thirst-perception-and-chronic-constipation
   - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
   - >-
-    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - >-
-    12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
 ---
 
 # Smart Holiday Hydration for Stable Blood Sugar and Medication Safety — A Precision Plan for Adults 69+ on Multiple Medications

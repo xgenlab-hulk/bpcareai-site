@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Chronic Low-Grade Inflammation From Gum Disease Worsens Insulin Resistance
-  in Adults With Long-Standing Diabetes Over 70
-slug: >-
-  how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+slug: how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
 description: >-
-  Breaks down the oral-systemic link: mechanistic evidence showing how
-  periodontal pathogens trigger TNF-α and IL-6, impairing GLUT4
-  translocation—and why dental visits reduce HbA1c more than expected.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: gum disease and insulin resistance in seniors
@@ -16,7 +10,6 @@ image: ''
 relatedSlugs:
   - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
   - >-
-    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - the-hidden-link-between-gum-disease-and-heart-problems
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors

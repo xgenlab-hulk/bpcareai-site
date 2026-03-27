@@ -1,7 +1,6 @@
 ---
 title: Calm Your Nerves Before Dinner — Prevent PVCs After 57
-slug: >-
-  best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
+slug: best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
 description: Paced breathing at 6 breaths/min cuts extra heartbeats (premature ventricular contractions) 40% when done 15 min before a drink. Cold face splash adds benefit.
 date: '2026-01-24'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
   - >-
-    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
-    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
   - >-
-    does-daily-10-minute-guided-vagal-breathing-lower-central-systolic-pressure-in-adults-60-73-with-elevated-aortic-augmentation-index-and-high-job-stress
   - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
 ---
 
 # Gentle Pre-Dinner Stress Reduction for Holiday Heart Syndrome Prevention

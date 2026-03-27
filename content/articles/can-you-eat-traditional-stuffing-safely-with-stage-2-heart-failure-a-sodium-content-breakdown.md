@@ -1,13 +1,7 @@
 ---
 title: 'Can You Eat Traditional Stuffing Safely With Stage 2 Heart Failure?'
-  Can You Eat Traditional Stuffing Safely With Stage 2 Heart Failure? A
-  Sodium-Content Breakdown
-slug: >-
-  can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
+slug: can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
 description: 'Stuffing has 630-890 mg sodium per half-cup—44% of the daily limit for weak heart pumping (heart failure). Low-sodium swaps preserve texture and flavor safely.'
-  Analyzes sodium load per serving across 7 regional stuffing recipes, compares
-  against ACC/AHA daily limits for HF patients, and offers 3 low-sodium swaps
-  that preserve texture and flavor.
 date: '2025-12-24'
 updated: '2026-03-27'
 primaryKeyword: 'can I eat stuffing with stage 2 heart failure sodium'
@@ -15,14 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
   - >-
-    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
-    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
 ---
 
 # Can Seniors with Stage 2 Heart Failure Enjoy Stuffing? A Realistic Look at Stuffing Sodium Heart Failure Seniors Should Know

@@ -1,13 +1,7 @@
 ---
 title: 'Breathing Exercises That Lower Aortic Blood Pressure in Adults 55 to 69'
-  Best Breathing Patterns for Reducing Central Systolic Pressure in Adults 55–69
-  With Elevated Augmentation Index and High-Frequency HRV Suppression
-slug: >-
-  best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
+slug: best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
 description: 'Resonance breathing at 6 breaths per minute (1:2 inhale-exhale ratio) reduces augmentation index (wave bounce-back pressure) 8-12% over 4 weeks, confirmed by carotid tonometry in adults 55-69.'
-  Teaches resonance frequency breathing (0.1 Hz), slow-exhalation bias (1:2
-  ratio), and diaphragmatic load sequencing—validated by carotid tonometry and
-  central BP modeling—to reduce wave reflection and aortic afterload.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'breathing exercises to lower aortic blood pressure after 55'
@@ -15,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74
   - >-
-    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
   - >-
-    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
   - >-
-    best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
   - >-
-    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
 ---
 
 # Breathing Patterns That Gently Lower Central Systolic Pressure—and Why They Matter for Your Aorta

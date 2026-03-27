@@ -2,8 +2,6 @@
 title: 'Can Drinking More Water Help Lower Blood Pressure Naturally?'
 slug: can-drinking-more-water-help-lower-blood-pressure-naturally
 description: 'Mild dehydration activates the BP hormone system (RAAS), raising systolic 3-5 mm Hg in adults 50+ — enough to shift prehypertension into Stage 1.'
-  Investigate the role of proper hydration in maintaining healthy blood pressure
-  and heart function.
 date: '2025-12-08'
 updated: '2026-03-27'
 primaryKeyword: 'drinking more water to lower blood pressure naturally'

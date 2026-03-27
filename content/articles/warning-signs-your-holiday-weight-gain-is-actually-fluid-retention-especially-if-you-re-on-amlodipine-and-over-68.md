@@ -1,13 +1,7 @@
 ---
 title: >-
-  Warning Signs Your Holiday Weight Gain Is Actually Fluid Retention —
-  Especially If You’re on Amlodipine and Over 68
-slug: >-
-  warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68
+slug: warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68
 description: >-
-  Differentiates adipose vs. interstitial weight gain using pulse pressure
-  changes, nocturnal dyspnea timing, and calf circumference trends—plus
-  diuretic-sparing management tactics.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: holiday weight gain fluid retention seniors
@@ -15,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - >-
-    when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
   - >-
-    12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema
   - >-
-    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
 ---
 
 # Is Your Holiday Weight Gain Fluid Retention? What Seniors on Amlodipine Should Know

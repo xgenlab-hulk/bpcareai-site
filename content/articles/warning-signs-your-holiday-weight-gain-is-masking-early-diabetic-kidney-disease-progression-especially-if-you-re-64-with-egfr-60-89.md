@@ -1,7 +1,6 @@
 ---
 title: Is Holiday Weight Gain Hiding Kidney Damage? (Diabetics 64+)
-slug: >-
-  warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
+slug: warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
 description: "Stable A1C doesn't mean stable kidneys. Extra nighttime urination or 3+ lbs in 48 hours may signal early decline (diabetic kidney disease) at eGFR 60-89."
 date: '2026-01-23'
 updated: 2026-03-26
@@ -10,11 +9,8 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
   - >-
-    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
 ---

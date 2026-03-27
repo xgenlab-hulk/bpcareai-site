@@ -2,8 +2,6 @@
 title: 'Diabetes-Friendly Holiday Snacks Under 150 Calories for Adults Over 70'
 slug: diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
 description: 'Protein-anchored snacks with 12-15 g protein and under 15 g net carbs blunt after-meal sugar spikes (postprandial glucose) by 30% versus carb-only treats.'
-  A curated list of satisfying, low-glycemic snacks ideal for older adults
-  managing diabetes during festive gatherings.
 date: '2025-12-14'
 updated: '2026-03-27'
 primaryKeyword: 'diabetes friendly holiday snacks under 150 calories seniors'

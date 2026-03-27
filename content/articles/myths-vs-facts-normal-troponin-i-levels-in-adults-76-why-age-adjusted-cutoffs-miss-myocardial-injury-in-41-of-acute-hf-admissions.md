@@ -1,7 +1,6 @@
 ---
 title: "Your Troponin Looks 'Normal'? Why That May Miss Heart Damage After 76"
-slug: >-
-  myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions
+slug: myths-vs-facts-normal-troponin-i-levels-in-adults-76-why-age-adjusted-cutoffs-miss-myocardial-injury-in-41-of-acute-hf-admissions
 description: Age-adjusted heart injury markers (troponin I) miss real damage in 41% of heart failure admissions over 76. Even subthreshold levels predict 30-day mortality.
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
   - >-
-    myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization
   - >-
-    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - >-
-    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
   - >-
-    myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart
 ---
 
 # Understanding Troponin I in Older Adults: Busting the Age-Adjusted Troponin I Myths

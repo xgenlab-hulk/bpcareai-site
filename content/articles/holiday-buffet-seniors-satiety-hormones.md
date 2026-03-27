@@ -1,7 +1,6 @@
 ---
 title: 'Why Seniors Overeat at Buffets — And How Hormones Drive It'
-slug: >-
-  the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing
+slug: the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing
 description: 'After 65, the fullness hormone (leptin) loses 30-40% of its signaling power. A protein-first plate sequence restores satiety cues within 20 minutes.'
 date: '2026-01-11'
 updated: '2026-03-27'
@@ -10,11 +9,8 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
   - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
   - >-
-    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 ---

@@ -1,14 +1,7 @@
 ---
 title: >-
-  Quick Ways to Adjust Your Holiday Plate for Early-Stage Macular
-  Degeneration—Focusing on Lutein Bioavailability, Fat Pairing, and
-  Light-Induced Oxidation Risks
-slug: >-
-  quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
+slug: quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
 description: >-
-  Provides meal-planning hacks to maximize macular pigment optical density:
-  optimal fat sources for carotenoid absorption, avoiding high-heat oxidation of
-  leafy greens, and timing of antioxidant-rich foods.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: holiday eating macular degeneration lutein bioavailability
@@ -16,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
-    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
   - >-
-    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
-    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
 ---
 
 # Smart Holiday Eating for Macular Health: Boosting Lutein Bioavailability the Gentle, Science-Supported Way

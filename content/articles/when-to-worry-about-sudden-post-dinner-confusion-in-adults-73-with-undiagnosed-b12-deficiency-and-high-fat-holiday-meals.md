@@ -1,7 +1,6 @@
 ---
 title: "Post-Dinner Confusion in Seniors: When Low B12 Is the Cause"
-slug: >-
-  when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
+slug: when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
 description: High-fat meals divert blood flow from the brain, unmasking low vitamin B12 (cobalamin deficiency) as word-finding trouble. Levels below 300 pg/mL need labs.
 date: '2026-01-18'
 updated: '2026-03-26'
@@ -10,14 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
   - >-
-    what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy
   - >-
-    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - >-
-    7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing
 ---
 
 # When Post-Dinner Confusion in Seniors Might Signal an Undiagnosed B12 Deficiency

@@ -1,7 +1,6 @@
 ---
 title: Safer Holiday Drinking With Prediabetes and Low Blood Pressure
-slug: >-
-  12-science-backed-ways-to-buffer-alcohol-s-glycemic-vasodilatory-effects-at-family-gatherings-for-adults-57-71-with-prediabetes-and-orthostatic-hypotension
+slug: 12-science-backed-ways-to-buffer-alcohol-s-glycemic-vasodilatory-effects-at-family-gatherings-for-adults-57-71-with-prediabetes-and-orthostatic-hypotension
 description: Alcohol drops BP 8-12 mmHg and spikes glucose 2 hours later. Pairing each drink with protein and magnesium-rich snacks (almonds) buffers both effects.
 date: '2026-01-30'
 updated: '2026-03-26'
@@ -10,13 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
   - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
   - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
   - >-
-    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
   - >-
-    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
 ---
 
 # 12 Evidence-Based Strategies to Buffer Alcohol’s Glycemic & Vasodilatory Effects at Family Gatherings — For Adults 57–71 With Prediabetes and Orthostatic Hypotension

@@ -1,13 +1,7 @@
 ---
 title: '7 Sodium Traps in Holiday Salads Worsening Fluid Retention at 74+'
-  7 Hidden Sodium Traps in 'Healthy-Looking' Holiday Salads That Worsen Fluid
-  Retention in Adults 74+ With Mild Heart Failure
-slug: >-
-  7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure
+slug: 7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure
 description: 'Bottled vinaigrettes and marinated artichokes pack 300-600 mg sodium. 7 salad sodium traps worsening fluid retention in adults 74+ with mild heart failure.'
-  Reveals unexpected high-sodium ingredients in seemingly low-risk dishes (e.g.,
-  marinated artichokes, roasted nut blends, bottled vinaigrettes) and offers
-  low-sodium, flavor-forward swaps validated by cardiac dietitians.
 date: '2026-02-14'
 updated: '2026-03-27'
 primaryKeyword: 'hidden sodium in holiday salads with heart failure'
@@ -15,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension
   - >-
-    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
   - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
-    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
   - >-
-    simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
 ---
 
 # Hidden Sodium Surprises in Holiday Salads: What Adults 74+ With Mild Heart Failure Should Know About High Sodium Holiday Salads Heart Failure

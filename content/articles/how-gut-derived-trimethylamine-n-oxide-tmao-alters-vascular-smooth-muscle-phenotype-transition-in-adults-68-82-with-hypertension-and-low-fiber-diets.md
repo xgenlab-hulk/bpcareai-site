@@ -1,7 +1,6 @@
 ---
 title: How a Gut Chemical Stiffens Arteries After 68 on Low-Fiber Diets
-slug: >-
-  how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
+slug: how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
 description: A gut chemical from red meat (TMAO) shifts artery muscle cells into scar mode. Adults 68-82 on <15g fiber show 30% higher TMAO levels.
 date: '2026-01-18'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
-    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
   - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
-    does-adding-1-gram-of-cocoa-flavanols-daily-improve-endothelial-dependent-vasodilation-in-adults-63-79-with-metabolic-syndrome-and-non-alcoholic-fatty-liver
 ---
 
 # How Gut-Derived TMAO Influences Vascular Smooth Muscle Phenotype in Older Adults With Hypertension

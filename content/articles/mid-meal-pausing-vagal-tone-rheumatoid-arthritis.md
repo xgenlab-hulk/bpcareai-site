@@ -1,7 +1,6 @@
 ---
 title: Mid-Meal Breathing Pauses That Lower Inflammation for Seniors With RA
-slug: >-
-  12-science-backed-times-to-pause-mid-meal-not-just-chew-to-activate-vagal-tone-and-reduce-postprandial-inflammation-in-adults-68-with-rheumatoid-arthritis
+slug: 12-science-backed-times-to-pause-mid-meal-not-just-chew-to-activate-vagal-tone-and-reduce-postprandial-inflammation-in-adults-68-with-rheumatoid-arthritis
 description: "Timed 22-second breath holds at dinner activate your calming nerve (vagus nerve), cutting IL-6 by 18% in adults 68+ with rheumatoid arthritis."
 date: '2026-02-06'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69
   - >-
-    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
   - >-
-    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
   - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
   - >-
-    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
 ---
 
 # When to Pause Mid-Meal for Calm, Clarity, and Joint Comfort: A Gentle Guide to Vagal Tone Support in Rheumatoid Arthritis

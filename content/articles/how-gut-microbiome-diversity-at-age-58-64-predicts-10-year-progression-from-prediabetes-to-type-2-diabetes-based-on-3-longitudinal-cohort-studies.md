@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Gut Microbiome Diversity at Age 58–64 Predicts 10-Year Progression from
-  Prediabetes to Type 2 Diabetes—Based on 3 Longitudinal Cohort Studies
-slug: >-
-  how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies
+slug: how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies
 description: >-
-  Explores the emerging link between microbial richness, intestinal permeability
-  markers, and beta-cell decline in midlife adults—offering early intervention
-  windows before clinical diabetes onset.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: gut microbiome prediabetes progression
@@ -15,11 +9,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
   - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - >-
-    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
 ---
 

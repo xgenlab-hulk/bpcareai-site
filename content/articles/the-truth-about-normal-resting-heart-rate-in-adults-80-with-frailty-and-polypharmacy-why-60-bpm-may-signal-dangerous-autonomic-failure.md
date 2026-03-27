@@ -1,7 +1,6 @@
 ---
 title: Why a 'Normal' 58 bpm Heart Rate May Be Dangerous After 80
-slug: >-
-  the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
+slug: the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
 description: Below 60 bpm looks normal — but in frail adults 80+ on beta-blockers, it can mean nerve control failure (autonomic dysfunction). A sit-to-stand test reveals it.
 date: '2026-01-26'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms
   - >-
-    why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction
   - >-
-    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
   - >-
-    can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
   - >-
-    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
 ---
 
 # Understanding Resting Heart Rate in Elderly Frailty: Why “Normal” Isn’t Always Safe

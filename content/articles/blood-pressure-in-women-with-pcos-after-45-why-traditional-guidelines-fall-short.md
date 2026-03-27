@@ -1,13 +1,7 @@
 ---
 title: 'Blood Pressure in Women With PCOS After 45: Why Guidelines Fall Short'
-  Blood Pressure in Women With PCOS After 45: Why Traditional Guidelines Fall
-  Short
-slug: >-
-  blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
+slug: blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
 description: 'PCOS-related hormone excess (hyperandrogenism) and insulin resistance speed vascular aging past 45, creating BP patterns standard guidelines often miss.'
-  Discusses how residual androgen excess, insulin resistance, and early vascular
-  aging create unique BP trajectories in perimenopausal and postmenopausal women
-  with prior PCOS diagnosis.
 date: '2025-12-18'
 updated: '2026-03-27'
 primaryKeyword: 'PCOS and blood pressure in women after age 45'
@@ -19,7 +13,6 @@ relatedSlugs:
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
   - >-
-    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
 ---
 
 # Understanding pcos blood pressure after 45 women: Why Your Heart Health Journey Is Unique

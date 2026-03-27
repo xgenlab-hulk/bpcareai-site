@@ -1,11 +1,7 @@
 ---
 title: "Men 62+: How Holiday Kitchen Stress Drives Morning Glucose Spikes"
-slug: >-
-  how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing
+slug: how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing
 description: >-
-  Hosting holiday meals raises overnight cortisol 25-40%, amplifying the
-  early-morning glucose surge (dawn phenomenon) in men with long-standing type 2
-  diabetes.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: holiday cooking stress and morning blood sugar spikes
@@ -13,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-grandparenting-induced-sleep-fragmentation-alters-nocturnal-cortisol-rhythms-and-why-that-elevates-fasting-glucose-in-adults-66-with-type-2-diabetes
   - >-
-    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
   - >-
-    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
   - >-
-    why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
   - >-
-    how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
 ---
 
 # How Intergenerational Cooking Stress Fuels the Cortisol-Driven Dawn Phenomenon in Older Men With Long-Standing Type 2 Diabetes

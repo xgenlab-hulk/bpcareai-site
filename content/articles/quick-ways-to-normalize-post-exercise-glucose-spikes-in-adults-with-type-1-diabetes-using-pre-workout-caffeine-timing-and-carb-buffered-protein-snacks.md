@@ -1,13 +1,7 @@
 ---
 title: >-
-  Quick Ways to Normalize Post-Exercise Glucose Spikes in Adults With Type 1
-  Diabetes Using Pre-Workout Caffeine Timing and Carb-Buffered Protein Snacks
-slug: >-
-  quick-ways-to-normalize-post-exercise-glucose-spikes-in-adults-with-type-1-diabetes-using-pre-workout-caffeine-timing-and-carb-buffered-protein-snacks
+slug: quick-ways-to-normalize-post-exercise-glucose-spikes-in-adults-with-type-1-diabetes-using-pre-workout-caffeine-timing-and-carb-buffered-protein-snacks
 description: >-
-  Presents a 3-step protocol tested in 48 adults: caffeine dose window,
-  leucine–whey ratio, and immediate post-set carb timing to blunt
-  catecholamine-driven hyperglycemia.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: post-exercise glucose spike type 1
@@ -15,15 +9,10 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
-    quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
   - >-
-    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
   - >-
-    what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response
   - >-
-    does-daily-5-minute-diaphragmatic-breathing-before-morning-coffee-lower-post-caffeine-glucose-spikes-in-adults-60-65-with-adrenal-hyperreactivity
 ---
 
 # Taming the Post-Exercise Glucose Spike in Type 1 Diabetes: A Practical 3-Step Approach

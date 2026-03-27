@@ -1,13 +1,7 @@
 ---
 title: >-
-  How Chronic Low-Grade Dehydration Alters Renal Glucose Reabsorption in Adults
-  72+ With Stage 2 CKD and Well-Controlled A1c
-slug: >-
-  how-chronic-low-grade-dehydration-alters-renal-glucose-reabsorption-in-adults-72-with-stage-2-ckd-and-well-controlled-a1c
+slug: how-chronic-low-grade-dehydration-alters-renal-glucose-reabsorption-in-adults-72-with-stage-2-ckd-and-well-controlled-a1c
 description: >-
-  Explores the understudied link between subclinical dehydration, SGLT2
-  transporter upregulation, and paradoxical postprandial spikes—even in seniors
-  with 'normal' A1c and no overt kidney failure.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: dehydration and glucose reabsorption ckid
@@ -15,14 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
   - >-
-    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-mediated-glucose-reabsorption-and-accelerates-egfr-decline-in-adults-70-with-stage-3-ckd-and-diabetes
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
-    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
   - >-
-    what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
 ---
 
 # How Subclinical Dehydration Affects Glucose Handling in Older Adults With Stage 2 CKD — Even With Stable Blood Sugar

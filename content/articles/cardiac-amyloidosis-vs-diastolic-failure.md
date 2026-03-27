@@ -1,14 +1,7 @@
 ---
 title: 'Cardiac Amyloidosis vs Diastolic Heart Failure: Key Differences'
-  When to Suspect Cardiac Amyloidosis *Instead* of Diastolic Heart Failure in
-  Adults 79+ With Preserved EF, Unexplained Weight Loss, and Carpal Tunnel
-  Syndrome — And Why ECG Alone Is Dangerously Misleading
-slug: >-
-  when-to-suspect-cardiac-amyloidosis-instead-of-diastolic-heart-failure-in-adults-79-with-preserved-ef-unexplained-weight-loss-and-carpal-tunnel-syndrome-and-why-ecg-alone-is-dangerously-misleading
+slug: when-to-suspect-cardiac-amyloidosis-instead-of-diastolic-heart-failure-in-adults-79-with-preserved-ef-unexplained-weight-loss-and-carpal-tunnel-syndrome-and-why-ecg-alone-is-dangerously-misleading
 description: 'Heart protein deposits (cardiac amyloidosis) affect 1 in 100 adults over 80. Up to 40% have misleading ECGs. Weight loss plus carpal tunnel form the key clue.'
-  Guides clinicians and caregivers through red-flag symptom triads and underused
-  diagnostic windows (e.g., bone scan uptake patterns, serum free light chains)
-  for early identification of infiltrative heart disease.
 date: '2026-02-10'
 updated: '2026-03-27'
 primaryKeyword: 'cardiac amyloidosis vs diastolic heart failure elderly'
@@ -16,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-worsens-using-serum-free-light-chains-and-strain-echocardiography-in-adults-79-with-unexplained-orthostatic-hypotension-and-carpal-tunnel-syndrome
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
 ---
 
 # When Cardiac Amyloidosis vs Diastolic Failure Should Raise a Red Flag in Older Adults

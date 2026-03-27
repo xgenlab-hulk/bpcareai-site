@@ -1,13 +1,7 @@
 ---
 title: >-
-  Natural Ways to Support Vagal Tone During Holiday Stress—Without Supplements
-  or Devices
-slug: >-
-  natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
+slug: natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
 description: >-
-  Evidence-based, zero-cost techniques (e.g., paced exhale-hum breathing, cold
-  facial splash timing, vocal toning) proven to enhance parasympathetic
-  modulation—and why vagal responsiveness drops 40% after age 65.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: natural vagal tone support holiday stress
@@ -18,7 +12,6 @@ relatedSlugs:
   - natural-ways-to-support-blood-sugar-balance-during-holiday-stress
   - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
   - >-
-    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
   - natural-ways-to-lower-blood-pressure-this-winter-without-medication
 ---
 

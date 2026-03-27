@@ -1,13 +1,7 @@
 ---
 title: 'Why Standard BP Targets May Be Unsafe in Men 70+ With Low Testosterone'
-  Blood Pressure Management for Men Over 70 With Low Testosterone and Elevated
-  Hematocrit — Why Standard Targets May Be Unsafe
-slug: >-
-  blood-pressure-management-for-men-over-70-with-low-testosterone-and-elevated-hematocrit-why-standard-targets-may-be-unsafe
+slug: blood-pressure-management-for-men-over-70-with-low-testosterone-and-elevated-hematocrit-why-standard-targets-may-be-unsafe
 description: 'Low testosterone plus high hematocrit (thick blood) raises vascular resistance. Systolic targets below 130 mm Hg in men over 70 can increase fall risk.'
-  Examines how testosterone deficiency + polycythemia alters vascular resistance
-  and stroke volume, recommending individualized SBP goals and red-flag
-  hematocrit thresholds for clinicians and patients.
 date: '2026-02-23'
 updated: '2026-03-27'
 primaryKeyword: 'blood pressure targets men over 70 low testosterone'
@@ -15,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-normal-blood-pressure-ranges-after-75-why-130-80-may-be-too-low-for-frail-elders-with-cerebral-hypoperfusion-risk
   - >-
-    5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
   - >-
-    what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
   - >-
-    blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor
   - >-
-    blood-pressure-management-for-adults-80-with-severe-orthostatic-hypotension-and-recurrent-syncope-not-just-sitting-sbp
 ---
 
 # Rethinking Blood Pressure Goals in Older Men With Low Testosterone and High Hematocrit

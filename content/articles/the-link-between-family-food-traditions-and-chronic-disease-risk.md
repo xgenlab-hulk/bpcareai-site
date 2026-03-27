@@ -2,8 +2,6 @@
 title: The Link Between Family Food Traditions and Chronic Disease Risk
 slug: the-link-between-family-food-traditions-and-chronic-disease-risk
 description: >-
-  Analyzes how generational recipes high in fat, salt, or sugar contribute to
-  long-term health issues in aging populations.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: food traditions and disease risk
@@ -15,7 +13,6 @@ relatedSlugs:
   - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
   - what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
   - >-
-    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
 ---
 
 # How Food Traditions and Disease Risk Shape Heart Health as We Age

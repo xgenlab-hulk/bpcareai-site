@@ -2,8 +2,6 @@
 title: '10 Simple Home Changes to Support Blood Pressure Stability in Winter'
 slug: 10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
 description: 'Cold air below 65°F triggers arterial constriction (vasoconstriction), raising systolic pressure 10-20 mmHg. Ten home adjustments help seniors manage winter BP.'
-  Offers easy environmental fixes—like thermostat settings and humidity
-  control—that promote cardiovascular health indoors.
 date: '2025-12-09'
 updated: '2026-03-27'
 primaryKeyword: 'home adjustments to help blood pressure in winter'

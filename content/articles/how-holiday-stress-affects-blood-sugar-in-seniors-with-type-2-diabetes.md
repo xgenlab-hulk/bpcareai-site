@@ -2,8 +2,6 @@
 title: How Holiday Stress Affects Blood Sugar in Seniors with Type 2 Diabetes
 slug: how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
 description: >-
-  Learn how emotional stress from family gatherings and routines changes impact
-  glucose levels—and what to do about it.
 date: '2025-12-03'
 updated: '2025-12-03'
 primaryKeyword: holiday stress blood sugar seniors

@@ -1,7 +1,6 @@
 ---
 title: "Adults 70+: A 90-Second Protocol to Calm Heart Rhythm After Feasts"
-slug: >-
-  quick-ways-to-normalize-post-feast-atrial-electrophysiology-using-cold-compress-timing-and-cervical-positioning-for-adults-70-with-prior-holiday-induced-afib
+slug: quick-ways-to-normalize-post-feast-atrial-electrophysiology-using-cold-compress-timing-and-cervical-positioning-for-adults-70-with-prior-holiday-induced-afib
 description: A cold compress on your neck for 90 seconds triggers the diving reflex, slowing atrial firing (vagal maneuver). Pair with lying down and slow exhale breathing.
 date: '2026-01-18'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
-    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
   - >-
-    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
   - >-
-    can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index
   - >-
-    quick-ways-to-normalize-left-atrial-appendage-flow-velocity-using-diaphragmatic-breathing-and-postural-sequencing-especially-in-adults-65-with-cha-ds-vasc-3
 ---
 
 # Quick Atrial Electrophysiology Normalization After Holiday Meals — Gentle Strategies for Adults 70+

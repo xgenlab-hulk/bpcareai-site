@@ -1,14 +1,7 @@
 ---
 title: >-
-  How Chronic Constipation Elevates 24-Hour Mean Arterial Pressure via
-  Gut-Derived Trimethylamine N-Oxide — Especially in Adults 70+ With Low-Fiber
-  Diets
-slug: >-
-  how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets
+slug: how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets
 description: >-
-  Connects dysbiosis, TMAO synthesis, and endothelial dysfunction with
-  actionable dietary fiber timing strategies (prebiotic sequencing, resistant
-  starch dosing windows) proven to lower MAP by 4.2 mmHg.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: constipation tmao mean arterial pressure
@@ -16,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
-    how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
   - >-
-    how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbiome-derived-trimethylamine-n-oxide-tmao-production-and-accelerates-coronary-artery-calcification-in-adults-70-with-gerd-and-stable-cad
 ---
 
 # How Chronic Constipation, TMAO, and Mean Arterial Pressure Interact — Especially in Adults 70+ With Low-Fiber Diets

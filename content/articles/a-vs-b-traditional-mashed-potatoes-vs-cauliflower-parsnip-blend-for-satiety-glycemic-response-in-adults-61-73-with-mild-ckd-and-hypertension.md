@@ -1,13 +1,7 @@
 ---
 title: 'Mashed Potatoes vs Cauliflower-Parsnip Blend for Kidney Disease and High Blood Pressure'
-  A vs B: Traditional Mashed Potatoes vs. Cauliflower-Parsnip Blend for Satiety
-  & Glycemic Response in Adults 61–73 With Mild CKD and Hypertension
-slug: >-
-  a-vs-b-traditional-mashed-potatoes-vs-cauliflower-parsnip-blend-for-satiety-glycemic-response-in-adults-61-73-with-mild-ckd-and-hypertension
+slug: a-vs-b-traditional-mashed-potatoes-vs-cauliflower-parsnip-blend-for-satiety-glycemic-response-in-adults-61-73-with-mild-ckd-and-hypertension
 description: 'Cooking and cooling potatoes forms resistant starch that lowers glycemic load. A cauliflower-parsnip blend further reduces potassium bioavailability and sodium-binding for adults 61-73 with mild CKD.'
-  Compares potassium bioavailability, resistant starch formation upon cooling,
-  and sodium-binding capacity—plus includes prep tips to maximize
-  renal-protective phytonutrients without sacrificing creaminess.
 date: '2026-02-15'
 updated: '2026-03-27'
 primaryKeyword: 'mashed potatoes vs cauliflower parsnip blend for kidney disease and blood pressure'
@@ -15,15 +9,10 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
-    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-cauliflower-for-postprandial-glucose-stability-in-adults-63-with-prediabetes-and-mild-dysphagia
   - >-
-    a-vs-b-slow-cooked-collard-greens-vinegar-brined-no-bacon-vs-creamed-spinach-low-fat-milk-no-cream-cheese-impact-on-post-meal-potassium-and-egfr-stability-in-adults-73-with-stage-3-ckd
   - >-
-    can-you-eat-traditional-latkes-while-managing-stage-2-ckd-a-nephrologist-reviewed-ingredient-swap-guide
 ---
 
 # Mashed Potatoes vs Cauliflower Parsnip CKD: A Gentle, Real-World Comparison for Kidney & Heart Health

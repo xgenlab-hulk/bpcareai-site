@@ -1,14 +1,7 @@
 ---
 title: >-
-  When to Worry About Post-Dinner Palpitations During Hanukkah or Christmas —
-  Red Flags That Distinguish Holiday Heart Syndrome From Benign PACs in Adults
-  58–74
-slug: >-
-  when-to-worry-about-post-dinner-palpitations-during-hanukkah-or-christmas-red-flags-that-distinguish-holiday-heart-syndrome-from-benign-pacs-in-adults-58-74
+slug: when-to-worry-about-post-dinner-palpitations-during-hanukkah-or-christmas-red-flags-that-distinguish-holiday-heart-syndrome-from-benign-pacs-in-adults-58-74
 description: >-
-  A symptom-based clinical decision guide for distinguishing transient
-  holiday-induced arrhythmias from more serious underlying conduction or
-  structural issues in older adults.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: post-dinner palpitations holiday heart syndrome
@@ -18,9 +11,7 @@ relatedSlugs:
   - when-to-worry-about-palpitations-after-christmas-dinner
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
-    warning-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-amyloidosis-especially-if-you-re-over-75-and-have-carpal-tunnel-or-lumbar-spinal-stenosis
   - >-
-    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
   - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 ---
 

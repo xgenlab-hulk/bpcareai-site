@@ -1,14 +1,7 @@
 ---
 title: 'How to Manage Diabetes During a Winter Power Outage'
-  The Complete Guide to Managing Diabetes During Winter Power Outages — Food
-  Storage, Insulin Refrigeration Alternatives, and CGM Battery Survival for
-  Adults 65+ in Rural Areas
-slug: >-
-  the-complete-guide-to-managing-diabetes-during-winter-power-outages-food-storage-insulin-refrigeration-alternatives-and-cgm-battery-survival-for-adults-65-in-rural-areas
+slug: the-complete-guide-to-managing-diabetes-during-winter-power-outages-food-storage-insulin-refrigeration-alternatives-and-cgm-battery-survival-for-adults-65-in-rural-areas
 description: 'Insulin loses strength (potency) above 25°C after 28 days unrefrigerated; adults with diabetes need a 72-hour kit with insulated storage and glucose logs.'
-  Practical, scenario-tested protocols for maintaining glycemic safety during
-  extended infrastructure failure—prioritizing low-tech, low-cost, and
-  mobility-limited adaptations.
 date: '2026-02-16'
 updated: '2026-03-27'
 primaryKeyword: 'diabetes management winter power outage insulin storage'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - >-
-    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
   - >-
-    the-complete-guide-to-managing-diabetes-during-intergenerational-holiday-hosting-practical-strategies-for-adults-61-74-with-mild-cognitive-load-and-caregiver-fatigue
   - >-
-    the-complete-guide-to-managing-diabetes-during-a-heatwave-for-adults-70-with-diabetic-nephropathy-and-reduced-thirst-drive
   - >-
-    5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
 ---
 
 # Staying Safe and Steady: Practical Diabetes Management During Winter Power Outages for Older Adults in Rural Communities

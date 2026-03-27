@@ -1,12 +1,7 @@
 ---
 title: >-
-  Myths vs Facts: 'I Don’t Need to Check My Feet Daily Because I Still Feel
-  Pain'
 slug: myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
 description: >-
-  Debunks sensory neuropathy misconceptions with nerve conduction data,
-  explaining why preserved pain sensation ≠ intact protective sensation — and
-  how to perform a validated monofilament + vibration home assessment.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: diabetic foot care pain sensation myth
@@ -15,13 +10,9 @@ image: ''
 relatedSlugs:
   - foot-care-basics-every-senior-with-diabetes-should-know
   - >-
-    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - >-
-    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
   - >-
-    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
   - >-
-    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
 ---
 
 # Why “I Still Feel Pain” Is a Dangerous Myth in Diabetic Foot Care Pain Sensation Myth

@@ -1,14 +1,7 @@
 ---
 title: 'Collard Greens and Heart Failure: Navigating Potassium With Diuretics'
-  A vs B: Slow-Cooked Collard Greens With Smoked Turkey Leg vs. Instant-Pot
-  Greens With Liquid Aminos — Which Is Safer for Heart Failure Patients on
-  Diuretics?
-slug: >-
-  a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
+slug: a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
 description: 'One cup cooked collard greens has 222 mg potassium; adults with weak heart pumping (heart failure) on loop diuretics can include them if levels are checked.'
-  Direct nutrient comparison (sodium, potassium, nitrate load, purine content)
-  and fluid-balance impact of two culturally resonant preparations—tailored for
-  adults with HFrEF managing volume status.
 date: '2025-12-22'
 updated: '2026-03-27'
 primaryKeyword: 'collard greens potassium heart failure diuretics'
@@ -16,15 +9,10 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
   - >-
-    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
   - >-
-    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
-    a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
   - >-
-    a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
 ---
 
 # Collard Greens Heart Failure Diuretics Comparison: Which Cooking Method Is Better for Your Heart?

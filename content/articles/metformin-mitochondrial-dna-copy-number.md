@@ -1,14 +1,7 @@
 ---
 title: 'Does Long-Term Metformin Drain Your Muscle Energy After 62?'
-  What Research Says About the Impact of Long-Term Metformin Use on
-  Mitochondrial DNA Copy Number in Skeletal Muscle of Adults 62–78 With Type 2
-  Diabetes and Low VO₂ Max
-slug: >-
-  what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
+slug: what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
 description: 'Metformin over 5 years depletes energy factories in muscle (mitochondrial DNA) by 15-30%. CoQ10 plus alpha-lipoic acid restored capacity in adults 62-78.'
-  Synthesizes longitudinal muscle biopsy studies showing dose- and
-  duration-dependent mtDNA depletion—and how targeted CoQ10 + alpha-lipoic acid
-  co-supplementation restores bioenergetic capacity.
 date: '2026-01-13'
 updated: '2026-03-27'
 primaryKeyword: 'does long-term metformin weaken muscles in seniors'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
   - >-
-    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
   - >-
-    7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing
 ---
 
 # What Long-Term Metformin Use Does to Mitochondrial DNA Copy Number in Older Adults With Type 2 Diabetes

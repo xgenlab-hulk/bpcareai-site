@@ -2,8 +2,6 @@
 title: How Much Weight Gain Is Normal During the Holidays for Diabetics Over 60?
 slug: how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
 description: >-
-  Explores typical post-holiday weight changes and their relationship to blood
-  sugar control and long-term metabolic health.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: holiday weight gain diabetics over 60

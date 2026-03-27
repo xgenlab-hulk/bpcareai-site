@@ -1,13 +1,7 @@
 ---
 title: 'Men 60+: Snacks That Steady Energy and Mood Between Holiday Meals'
-  Best Snack Pairings to Stabilize Energy and Mood Between Holiday Meals — For
-  Men 60–72 With Late-Onset Depression and Low Testosterone
-slug: >-
-  best-snack-pairings-to-stabilize-energy-and-mood-between-holiday-meals-for-men-60-72-with-late-onset-depression-and-low-testosterone
+slug: best-snack-pairings-to-stabilize-energy-and-mood-between-holiday-meals-for-men-60-72-with-late-onset-depression-and-low-testosterone
 description: 'Pairing 15g protein with slow carbs 90 min before dinner lifts serotonin without a crash in men 60+ with late-onset low mood (depression) and low testosterone.'
-  Combines neuroendocrine timing, macronutrient synergy, and circadian nutrient
-  delivery to support monoamine synthesis and prevent post-feeding crashes that
-  worsen emotional regulation.
 date: '2026-01-16'
 updated: '2026-03-27'
 primaryKeyword: 'best snacks for energy and mood between holiday meals'
@@ -15,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
-    how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65
   - >-
-    best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress
   - >-
-    natural-ways-to-support-serotonin-synthesis-without-ssris-in-older-adults-with-mild-seasonal-depression-and-low-tryptophan-intake
   - >-
-    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
 ---
 
 # Smart Snack Pairings for Mood Stability in Seniors: Supporting Energy, Emotion, and Hormonal Balance During the Holidays

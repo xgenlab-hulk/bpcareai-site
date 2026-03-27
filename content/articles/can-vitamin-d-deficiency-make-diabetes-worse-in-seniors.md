@@ -2,8 +2,6 @@
 title: 'Can Vitamin D Deficiency Make Diabetes Worse in Seniors?'
 slug: can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
 description: 'Vitamin D below 20 ng/mL is linked to 30% higher odds of poor sugar control (glycemic control) in seniors. Low D impairs both insulin secretion and sensitivity.'
-  Investigate the connection between low vitamin D levels and poor glycemic
-  control in older adults.
 date: '2025-12-03'
 updated: '2026-03-27'
 primaryKeyword: 'does low vitamin D worsen type 2 diabetes in seniors'

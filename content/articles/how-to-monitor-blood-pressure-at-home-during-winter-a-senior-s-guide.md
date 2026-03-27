@@ -2,8 +2,6 @@
 title: 'How to Monitor Blood Pressure at Home During Winter: A Senior’s Guide'
 slug: how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
 description: >-
-  Step-by-step instructions for accurate home monitoring with emphasis on
-  seasonal consistency and record-keeping.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: home blood pressure monitoring

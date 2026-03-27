@@ -1,14 +1,7 @@
 ---
 title: >-
-  The Complete Guide to Managing Holiday Eating While Recovering From a Recent
-  Percutaneous Coronary Intervention — Practical Strategies for Adults 66–70
-  With Dual Antiplatelet Therapy
-slug: >-
-  the-complete-guide-to-managing-holiday-eating-while-recovering-from-a-recent-percutaneous-coronary-intervention-practical-strategies-for-adults-66-70-with-dual-antiplatelet-therapy
+slug: the-complete-guide-to-managing-holiday-eating-while-recovering-from-a-recent-percutaneous-coronary-intervention-practical-strategies-for-adults-66-70-with-dual-antiplatelet-therapy
 description: >-
-  Covers food-drug interactions (vitamin K, ginger, garlic), bleeding-safe
-  seasoning strategies, portion pacing, and fatigue-aware meal planning for
-  post-PCI seniors navigating holiday gatherings.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: holiday eating post-pci dual antiplatelet therapy
@@ -16,13 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-over-72-should-know-about-dual-antiplatelet-therapy-after-pci-especially-if-you-take-otc-nsaids-or-eat-natto-daily
   - >-
-    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
-    5-things-everyone-over-67-should-know-about-sharing-a-single-serving-of-holiday-stuffing-especially-if-taking-warfarin-or-eating-spinach-sage-loaf-daily
 ---
 
 # Navigating Holiday Eating After PCI: A Gentle, Practical Guide for Seniors on Dual Antiplatelet Therapy

@@ -1,10 +1,7 @@
 ---
 title: Holiday Seating That Helps Seniors Over 80 Swallow Safely
-slug: >-
-  how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
+slug: how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
 description: >-
-  A 15° head tilt raises choking risk (aspiration) 40% in adults 82+. Chin-tuck
-  upright seating cuts throat transit time — plus 6 soft swaps for rolls.
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: does seating position affect swallowing in seniors
@@ -12,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
   - >-
-    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
   - >-
-    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
   - >-
-    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
-    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
 ---
 
 # Holiday Seating, Swallowing Safety, and Presbyphagia in Older Adults: Gentle Guidance for Safer Family Gatherings

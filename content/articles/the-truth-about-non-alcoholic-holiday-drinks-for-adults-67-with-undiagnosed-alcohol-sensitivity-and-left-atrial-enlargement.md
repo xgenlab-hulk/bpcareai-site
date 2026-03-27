@@ -1,7 +1,6 @@
 ---
 title: Why Non-Alcoholic Drinks Still Trigger Heart Rhythm Issues After 67
-slug: >-
-  the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
+slug: the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
 description: NA wines keep 0.5% ethanol and 8-12 mg/L histamine — enough to trigger extra heartbeats (PACs) in adults 67+ with an enlarged left atrium.
 date: '2026-01-23'
 updated: 2026-03-26
@@ -10,14 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
   - >-
-    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - >-
-    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
 ---
 
 # Non-Alcoholic Drinks and Holiday Heart Syndrome: What Adults 67+ With Silent Heart Changes Need to Know

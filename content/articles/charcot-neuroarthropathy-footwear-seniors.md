@@ -1,14 +1,7 @@
 ---
 title: 'Charcot Neuroarthropathy Footwear Guide for Older Adults With Diabetes'
-  Best Footwear Modifications for Adults 64+ With Type 2 Diabetes and Early
-  Charcot Neuroarthropathy — Custom Rocker Soles vs. Off-the-Shelf Diabetic
-  Shoes for Reducing Midfoot Pressure Peaks
-slug: >-
-  best-footwear-modifications-for-adults-64-with-type-2-diabetes-and-early-charcot-neuroarthropathy-custom-rocker-soles-vs-off-the-shelf-diabetic-shoes-for-reducing-midfoot-pressure-peaks
+slug: best-footwear-modifications-for-adults-64-with-type-2-diabetes-and-early-charcot-neuroarthropathy-custom-rocker-soles-vs-off-the-shelf-diabetic-shoes-for-reducing-midfoot-pressure-peaks
 description: 'Midfoot bone collapse (Charcot neuroarthropathy) needs offloading footwear; full-contact insoles and rocker soles cut ulcer recurrence by up to 63%.'
-  Compares pressure mapping outcomes (peak plantar pressure, pressure-time
-  integral), cost-effectiveness over 18 months, and impact on ambulatory cadence
-  and fall risk — with podiatrist-prescribed fitting criteria.
 date: '2026-02-17'
 updated: '2026-03-27'
 primaryKeyword: 'Charcot neuroarthropathy footwear older adults'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
   - >-
-    best-footwear-modifications-for-adults-65-with-charcot-neuroarthropathy-and-mild-copd-balancing-offloading-oxygen-conservation-and-fall-prevention
   - >-
-    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
   - >-
-    best-walking-surfaces-for-adults-69-with-diabetic-foot-ulcers-in-remission-concrete-asphalt-gravel-or-grass-evidence-based-impact-on-plantar-pressure-redistribution
   - >-
-    best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception
 ---
 
 # Best Footwear Choices for Seniors 64+ With Type 2 Diabetes and Early Charcot Neuroarthropathy

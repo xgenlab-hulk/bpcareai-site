@@ -1,14 +1,7 @@
 ---
 title: >-
-  Quick Ways to Adjust Portion Sizes for Seniors With Early Sarcopenia—Without
-  Offending the Cook
-slug: >-
-  quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
+slug: quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
 description: >-
-  Actionable, culturally sensitive strategies (visual cues, plate swapping,
-  strategic timing) to reduce calorie density while preserving protein and
-  micronutrient intake—ideal for adults 65–82 experiencing age-related muscle
-  loss.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: portion control sarcopenia seniors
@@ -19,9 +12,7 @@ relatedSlugs:
   - portion-control-strategies-for-large-family-meals-that-work
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - >-
-    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
   - >-
-    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
 ---
 
 # Smart Portion Control for Sarcopenia Seniors: Practical, Respectful Strategies That Support Muscle Health

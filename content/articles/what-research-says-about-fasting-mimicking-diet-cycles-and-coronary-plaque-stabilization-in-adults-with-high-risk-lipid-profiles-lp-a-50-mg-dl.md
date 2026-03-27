@@ -1,13 +1,7 @@
 ---
 title: >-
-  What Research Says About Fasting-Mimicking Diet Cycles and Coronary Plaque
-  Stabilization in Adults With High-Risk Lipid Profiles (Lp(a) > 50 mg/dL)
-slug: >-
-  what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl
+slug: what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl
 description: >-
-  Synthesizes data from the FMD-PLAQUE trial on changes in plaque lipid core
-  volume, macrophage activity (via 18F-FDG PET), and circulating S100A12 after
-  three 5-day fasting-mimicking cycles.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: fasting mimicking diet and plaque stability
@@ -15,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
   - >-
-    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
   - >-
-    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - >-
-    the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
 ---
 
 # How the Fasting Mimicking Diet and Plaque Stability Connect in Adults With Elevated Lp(a)

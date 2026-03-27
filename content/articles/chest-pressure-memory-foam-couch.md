@@ -1,15 +1,7 @@
 ---
 title: 'Can a Memory Foam Couch Cause Chest Pressure? Positional Cardiac Clues'
-  What Causes Sudden Mid-Afternoon Chest Pressure *Only* When Sitting on Your
-  Granddaughter’s Memory Foam Couch? — The Role of Pelvic Rotation,
-  Diaphragmatic Restriction, and Inferior Vena Cava Compression in Adults 64+
-  With Diastolic Dysfunction
-slug: >-
-  what-causes-sudden-mid-afternoon-chest-pressure-only-when-sitting-on-your-granddaughter-s-memory-foam-couch-the-role-of-pelvic-rotation-diaphragmatic-restriction-and-inferior-vena-cava-compression-in-adults-64-with-diastolic-dysfunction
+slug: what-causes-sudden-mid-afternoon-chest-pressure-only-when-sitting-on-your-granddaughter-s-memory-foam-couch-the-role-of-pelvic-rotation-diaphragmatic-restriction-and-inferior-vena-cava-compression-in-adults-64-with-diastolic-dysfunction
 description: 'Prolonged semi-reclined posture on memory foam raises chest cavity pressure (intrathoracic pressure) and mimics cardiac symptoms; repositioning helps clarify.'
-  Links a highly specific environmental trigger to mechanical impediments in
-  venous return and ventricular filling — a non-ischemic yet symptomatic
-  mechanism often misdiagnosed as anxiety.
 date: '2026-02-11'
 updated: '2026-03-27'
 primaryKeyword: 'chest pressure from memory foam couch positional'
@@ -17,15 +9,10 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
   - >-
-    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
   - >-
-    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
   - >-
-    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
   - >-
-    does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
 ---
 
 # Why You Might Feel Chest Pressure on a Memory Foam Couch — Especially After 64

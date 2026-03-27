@@ -1,14 +1,7 @@
 ---
 title: 'Higher BP at Home Than the Clinic? What That Reveals After 55'
-  The Truth About 'White Coat Resistance'—Why Some Adults 55+ Show Higher BP at
-  Home Than in Clinics (and What It Reveals About Vascular Aging)
-slug: >-
-  the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
+slug: the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
 description: 'Home readings topping clinic by 10+ mmHg signals masked hypertension — linked to 40% higher stroke risk. 24-hour monitoring (ABPM) catches what visits miss.'
-  Challenges the white coat *hypertension* paradigm by explaining 'white coat
-  resistance'—a phenotype linked to endothelial hyperreactivity, chronically
-  suppressed nocturnal dipping, and accelerated aortic stiffening in midlife
-  adults.
 date: '2026-01-13'
 updated: '2026-03-27'
 primaryKeyword: 'blood pressure higher at home than at the doctor'
@@ -16,15 +9,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
   - >-
-    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
-    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
   - >-
-    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
-    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
 ---
 
 # Understanding White Coat Resistance Home Higher Blood Pressure: What It Really Means for Vascular Health After 55

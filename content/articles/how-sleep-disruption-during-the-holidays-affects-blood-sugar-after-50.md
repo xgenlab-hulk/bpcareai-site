@@ -2,8 +2,6 @@
 title: How Sleep Disruption During the Holidays Affects Blood Sugar After 50
 slug: how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
 description: >-
-  Discusses how late nights, travel, and excitement impact sleep quality and
-  insulin sensitivity in older adults.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: holiday sleep disruption blood sugar

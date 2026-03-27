@@ -1,13 +1,7 @@
 ---
 title: 'How Gut Bacteria Raise Blood Pressure via TMAO After 65'
-  How Gut Microbial TMAO Production Modulates Vascular Smooth Muscle Calcium
-  Sensitivity in Adults 65–81 With Hypertension and High-Fat Diet History
-slug: >-
-  how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
+slug: how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
 description: 'Red meat feeds gut bacteria that produce TMAO, stiffening artery walls (vascular calcium sensitivity). Diet shifts cut TMAO levels 40% within 6 weeks after 65.'
-  Connects microbial metabolites to intracellular calcium handling in resistance
-  arteries — with dietary interventions to lower TMAO and improve vasodilatory
-  reserve.
 date: '2026-01-17'
 updated: '2026-03-27'
 primaryKeyword: 'how gut bacteria TMAO raises blood pressure'
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
-    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
   - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
-    does-adding-1-gram-of-cocoa-flavanols-daily-improve-endothelial-dependent-vasodilation-in-adults-63-79-with-metabolic-syndrome-and-non-alcoholic-fatty-liver
   - >-
-    how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
 ---
 
 # How Gut-Derived TMAO Affects Vascular Calcium Handling—and What You Can Do to Support Healthy Blood Pressure

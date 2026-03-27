@@ -2,8 +2,6 @@
 title: How Silent Heart Attacks Differ in Older Adults
 slug: how-silent-heart-attacks-differ-in-older-adults
 description: >-
-  Understand why heart attacks in seniors often have no obvious symptoms and how
-  to detect them early.
 date: '2025-12-04'
 updated: '2025-12-04'
 primaryKeyword: silent heart attack symptoms in elderly

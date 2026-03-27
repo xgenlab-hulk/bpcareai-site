@@ -1,7 +1,6 @@
 ---
 title: "Cranberry Relish vs. Canned Sauce: Which Is Safer After 68?"
-slug: >-
-  a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes
+slug: a-vs-b-cranberry-relish-fresh-no-added-sugar-vs-canned-jellied-cranberry-sauce-impact-on-postprandial-glucose-variability-in-adults-68-with-gastroparesis-and-type-2-diabetes
 description: Canned cranberry sauce packs 24g sugar, spiking glucose 40-60 mg/dL with slow stomach emptying (gastroparesis). Fresh relish cuts that ~35% with less fiber.
 date: '2026-01-24'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: complications-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-glycemic-breakfast-cereals-for-adults-55-with-prediabetes-and-gastric-bypass-history
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
   - >-
-    does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension
   - >-
-    how-intergenerational-gift-giving-of-homemade-treats-affects-blood-glucose-variability-in-adults-55-69-with-prediabetes-and-slow-gastric-emptying
 ---
 
 # Cranberry Relish vs Canned Sauce in Gastroparesis: What Holiday Condiments Mean for Blood Sugar Stability in Adults 68+

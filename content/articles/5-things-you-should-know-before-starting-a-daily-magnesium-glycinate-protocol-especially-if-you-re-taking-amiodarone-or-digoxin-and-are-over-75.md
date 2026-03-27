@@ -1,7 +1,6 @@
 ---
 title: 'Taking Magnesium With Amiodarone or Digoxin After 75? Read This'
-slug: >-
-  magnesium-glycinate-heart-meds-75
+slug: magnesium-glycinate-heart-meds-75
 description: '15-20% of adults 75+ on rhythm drugs develop a dangerously slow heartbeat (bradycardia) from magnesium glycinate. 3 dosing windows and RBC testing cut risk.'
 date: '2026-02-01'
 updated: '2026-03-28'
@@ -10,15 +9,10 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
   - >-
-    does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
   - >-
-    does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
   - >-
-    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
   - >-
-    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
 ---
 
 # What You Need to Know Before Taking Magnesium Glycinate With Amiodarone or Digoxin After Age 75

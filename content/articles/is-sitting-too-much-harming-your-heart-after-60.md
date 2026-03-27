@@ -2,8 +2,6 @@
 title: Is Sitting Too Much Harming Your Heart After 60?
 slug: is-sitting-too-much-harming-your-heart-after-60
 description: >-
-  Understand how prolonged sitting impacts heart health and what simple changes
-  can reduce risks.
 date: '2025-11-29'
 updated: '2025-11-29'
 primaryKeyword: sedentary lifestyle and heart health after 60

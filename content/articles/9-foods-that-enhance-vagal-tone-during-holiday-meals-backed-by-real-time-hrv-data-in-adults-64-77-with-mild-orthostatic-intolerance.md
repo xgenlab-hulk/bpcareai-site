@@ -1,13 +1,7 @@
 ---
 title: '9 Foods That Strengthen Vagal Tone During Holiday Meals in Adults 64 to 77'
-  9 Foods That Enhance Vagal Tone During Holiday Meals — Backed by Real-Time HRV
-  Data in Adults 64–77 With Mild Orthostatic Intolerance
-slug: >-
-  9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+slug: 9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
 description: 'Fermented vegetables, omega-3 fish, and polyphenol berries raised HRV (RMSSD) 14-22% during festive meal trials in adults 64-77 with dizziness on standing.'
-  Lists vagus-stimulating foods (fermented, omega-3 rich, polyphenol-dense)
-  validated by heart rate variability response during festive meal simulation
-  trials.
 date: '2026-01-14'
 updated: '2026-03-27'
 primaryKeyword: 'foods that improve vagal tone and heart rate variability at holiday meals'
@@ -15,15 +9,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
-    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
   - >-
-    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
   - >-
-    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
-    12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
 ---
 
 # 9 Holiday Foods That Gently Support Vagal Tone in Seniors — Real HRV Data Included

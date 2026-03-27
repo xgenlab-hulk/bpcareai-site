@@ -2,8 +2,6 @@
 title: How Does Type 2 Diabetes Affect Energy Levels in Seniors?
 slug: how-does-type-2-diabetes-affect-energy-levels-in-seniors
 description: >-
-  Learn why diabetes causes fatigue in older adults and what can be done to
-  boost energy naturally.
 date: '2025-12-08'
 updated: '2025-12-08'
 primaryKeyword: diabetes fatigue in seniors

@@ -1,7 +1,6 @@
 ---
 title: 7 Signs of Diastolic Dysfunction You Might Miss After 65
-slug: >-
-  7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
+slug: 7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
 description: Unexplained fatigue, needing 2+ pillows to breathe (orthopnea), or night cough — with normal pump strength (EF) after 65 — often signals stiff-heart failure.
 date: '2026-01-23'
 updated: 2026-03-26
@@ -10,15 +9,10 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
-    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
-    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
-    warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
   - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # 7 Silent Signs of Diastolic Dysfunction You Might Overlook — Especially After 65 (Even With a “Normal” Heart Pump)

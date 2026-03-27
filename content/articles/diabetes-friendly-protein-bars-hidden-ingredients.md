@@ -1,14 +1,7 @@
 ---
 title: 'Hidden Ingredients in Diabetic Protein Bars Seniors Should Know'
-  The Truth About 'Diabetes-Friendly' Protein Bars: Why 82% Contain Hidden
-  Maltitol That Slows Gastric Emptying and Blunts Postprandial GLP-1 in Adults
-  60–75
-slug: >-
-  the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
+slug: the-truth-about-diabetes-friendly-protein-bars-why-82-contain-hidden-maltitol-that-slows-gastric-emptying-and-blunts-postprandial-glp-1-in-adults-60-75
 description: 'Many bars labeled for diabetics contain 8-12 g maltitol, a sugar alcohol raising blood sugar (glucose) 50% as much as sucrose, undermining control.'
-  Investigates ingredient-level metabolic consequences of common sugar alcohols
-  in commercial bars—focusing on delayed satiety signaling, unexpected glycemic
-  variability, and gut-brain axis disruption.
 date: '2025-12-27'
 updated: '2026-03-27'
 primaryKeyword: 'diabetes friendly protein bars hidden ingredients seniors'
@@ -16,15 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
-    the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
   - >-
-    the-truth-about-low-sugar-protein-bars-for-adults-65-with-type-2-diabetes-and-stage-3-ckd-hidden-phosphorus-load-and-metabolic-acidosis-risk
 ---
 
 # What You’re Not Being Told About Diabetes-Friendly Protein Bars Hidden Ingredients

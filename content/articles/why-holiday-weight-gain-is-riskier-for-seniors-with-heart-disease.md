@@ -2,9 +2,6 @@
 title: Why Holiday Weight Gain Is Riskier for Seniors with Heart Disease
 slug: why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
 description: >-
-  Explore how temporary overeating during the holidays can have lasting
-  cardiovascular consequences, especially for older adults with existing heart
-  conditions.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: holiday weight gain heart risk seniors

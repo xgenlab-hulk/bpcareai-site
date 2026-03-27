@@ -1,14 +1,7 @@
 ---
 title: 'Warm Apple Cider vs Decaf Chai for Atrial Fibrillation Risk in Adults Over 64'
-  A vs B: Warm Spiced Apple Cider (Unfiltered) vs. Decaf Chai Latte (Oat Milk)
-  for Atrial Fibrillation Risk Mitigation in Adults 64+ With Mild Left Atrial
-  Enlargement
-slug: >-
-  a-vs-b-warm-spiced-apple-cider-unfiltered-vs-decaf-chai-latte-oat-milk-for-atrial-fibrillation-risk-mitigation-in-adults-64-with-mild-left-atrial-enlargement
+slug: a-vs-b-warm-spiced-apple-cider-unfiltered-vs-decaf-chai-latte-oat-milk-for-atrial-fibrillation-risk-mitigation-in-adults-64-with-mild-left-atrial-enlargement
 description: 'Echocardiographic strain data from adults 64+ with left atrial enlargement (LAE) compares polyphenol bioavailability and endothelial NO modulation—key factors in AFib susceptibility.'
-  Directly compares two popular holiday beverages across polyphenol
-  bioavailability, endothelial NO modulation, and atrial stretch signaling —
-  using echocardiographic strain data as the decision framework.
 date: '2026-02-12'
 updated: '2026-03-27'
 primaryKeyword: 'warm apple cider vs decaf chai for atrial fibrillation risk after 64'
@@ -16,15 +9,10 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
   - >-
-    a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
   - >-
-    a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
   - >-
-    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
   - >-
-    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
 ---
 
 # Apple Cider vs Chai for AFib: Comparing Warm Spiced Apple Cider and Decaf Chai Latte for Heart Health in Adults 64+

@@ -1,7 +1,6 @@
 ---
 title: Restore Heart Rate Variability After Drinking — Steps for 56-67
-slug: >-
-  quick-ways-to-normalize-heart-rate-variability-within-90-minutes-of-alcohol-consumption-for-adults-56-67-with-low-baseline-hrv-and-social-drinking-habit
+slug: quick-ways-to-normalize-heart-rate-variability-within-90-minutes-of-alcohol-consumption-for-adults-56-67-with-low-baseline-hrv-and-social-drinking-habit
 description: Alcohol cuts heart rhythm flexibility (HRV) 25-40% for 4-6 hours. A 90-second cold-water face dip reactivates vagal tone and restores RMSSD in 20 min.
 date: '2026-01-24'
 updated: '2026-03-26'
@@ -10,15 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
   - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
   - >-
-    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
   - >-
-    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
   - >-
-    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
 ---
 
 # Quick Ways to Normalize Heart Rate Variability After Alcohol — For Adults 56–67 With Social Drinking Habits
