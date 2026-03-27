@@ -1,13 +1,13 @@
 ---
-title: 10 Foods to Boost Energy & Reduce Fatigue (Seniors 70+ Guide)
+title: '10 Foods That Rebuild Energy When You\'re Sedentary After 70'
 slug: energy-boosting-foods-seniors-over-70
-description: >-
+description: 'Low aerobic capacity (VO2 max) under 18 mL/kg/min signals mitochondrial decline. These foods stimulate cellular energy renewal in sedentary adults over 70.'
   Discover 10 foods to boost energy & reduce fatigue for seniors
   70+—pomegranate, berries, walnuts, green tea. Natural stamina support, easy
   prep.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: foods boost energy reduce fatigue seniors over 70
+updated: '2026-03-27'
+primaryKeyword: 'foods to boost energy for sedentary seniors over 70'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

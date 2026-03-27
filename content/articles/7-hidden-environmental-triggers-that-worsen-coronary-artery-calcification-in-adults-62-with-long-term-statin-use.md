@@ -1,10 +1,10 @@
 ---
-title: Your Statin Working But Arteries Still Hardening? (Ages 62+)
+title: 'Home Environment Worsening Artery Calcification—Even on Statins at 62'
 slug: artery-calcification-home-triggers-62
-description: On statins but arteries hardening? Discover 3 home triggers—indoor air, noise, humidity—accelerating calcification and exactly how to reduce them (adults 62+).
+description: 'Indoor PM2.5 above 12 µg/m³ raises coronary artery calcification 22% faster even on statins. 7 home environmental triggers worsening artery hardening over 62.'
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: artery calcification environmental triggers
+updated: '2026-03-27'
+primaryKeyword: 'home environment worsening artery calcification on statins'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

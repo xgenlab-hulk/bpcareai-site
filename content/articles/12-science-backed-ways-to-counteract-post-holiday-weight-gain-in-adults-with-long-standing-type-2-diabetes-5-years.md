@@ -1,13 +1,13 @@
 ---
-title: >-
+title: '12 Ways to Counter Post-Holiday Weight Gain With Diabetes'
   Post-Holiday Weight Creeping Up? (Type 2 Diabetes Guide 5+ Years)
 slug: >-
   holiday-weight-gain-type-2-diabetes-5-years
-description: >-
+description: 'Holiday weight gain of 2-3 lbs raises HbA1c (blood sugar average) by 0.3-0.5% in long-standing type 2 diabetes. Twelve methods target insulin resistance.'
   Living with type 2 diabetes 5+ years? Get 12 gentle strategies to prevent holiday weight gain—protect muscle, stabilize glucose, and feel energized. Ages 50+.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: holiday weight gain type 2 diabetes adults 50
+updated: '2026-03-27'
+primaryKeyword: 'reversing holiday weight gain with type 2 diabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

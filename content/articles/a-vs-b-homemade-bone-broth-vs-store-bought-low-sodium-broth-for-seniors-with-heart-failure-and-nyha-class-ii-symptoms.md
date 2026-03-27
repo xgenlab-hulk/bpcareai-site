@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Homemade Bone Broth vs Low-Sodium Store Broth for Seniors With Heart Failure'
   A vs B: Homemade Bone Broth vs Store-Bought 'Low-Sodium' Broth for Seniors
   With Heart Failure and NYHA Class II Symptoms
 slug: >-
   a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
-description: >-
+description: 'Store-bought low-sodium broth averages 140-280 mg sodium per cup vs 5-30 mg in homemade. Higher histamine in commercial broth (up to 25 ppm) can trigger vasodilation in NYHA Class II.'
   Head-to-head comparison of sodium load, collagen bioavailability, and
   histamine content—plus preparation tips to maximize cardiac and gut benefits
   without exacerbating fluid retention or orthostatic hypotension.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: bone broth heart failure seniors
+updated: '2026-03-27'
+primaryKeyword: 'homemade bone broth vs store-bought low sodium broth for heart failure seniors'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

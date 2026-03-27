@@ -1,16 +1,16 @@
 ---
-title: '9 Holiday Foods That Strengthen Your Vagus Nerve After 64'
+title: '9 Foods That Strengthen Vagal Tone During Holiday Meals in Adults 64 to 77'
   9 Foods That Enhance Vagal Tone During Holiday Meals — Backed by Real-Time HRV
   Data in Adults 64–77 With Mild Orthostatic Intolerance
 slug: >-
   9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
-description: 'Fermented vegetables, omega-3 fish, and polyphenol berries raised vagus nerve activity (HRV RMSSD) 14-22% in adults 64-77 with dizziness on standing.'
+description: 'Fermented vegetables, omega-3 fish, and polyphenol berries raised HRV (RMSSD) 14-22% during festive meal trials in adults 64-77 with dizziness on standing.'
   Lists vagus-stimulating foods (fermented, omega-3 rich, polyphenol-dense)
   validated by heart rate variability response during festive meal simulation
   trials.
 date: '2026-01-14'
 updated: '2026-03-27'
-primaryKeyword: 'foods that calm your nervous system at holiday meals'
+primaryKeyword: 'foods that improve vagal tone and heart rate variability at holiday meals'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

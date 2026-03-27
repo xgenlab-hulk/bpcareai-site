@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Signs Holiday Blood Sugar Is Spiking on GLP-1 Drugs After 60'
   7 Silent Signs Your Holiday Blood Sugar Is Spiking—Especially If You’re Taking
   GLP-1 Agonists After Age 60
 slug: >-
   7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
-description: >-
+description: 'GLP-1 agonists don\'t prevent all glucose spikes—holiday meals still trigger delayed rises. 7 subtle signs blood sugar is rising on semaglutide after age 60.'
   Identifies subtle, non-classic hyperglycemia indicators (e.g., unexplained
   fatigue, blurred vision resolution delay, nocturia frequency shift) in older
   adults using semaglutide or tirzepatide.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: silent blood sugar spikes on GLP-1 drugs
+updated: '2026-03-27'
+primaryKeyword: 'silent blood sugar spikes on GLP-1 drugs during holidays'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

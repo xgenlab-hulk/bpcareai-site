@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '10 Silent Signs BP Is Harming Your Retina Despite Normal Readings'
   10 Silent Signs Your Blood Pressure Is Damaging Your Retina — Even With
   'Controlled' Readings in Adults 63+ With Type 2 Diabetes
 slug: >-
   10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
-description: >-
+description: 'Retinal arteriole narrowing shows brain vessel damage years before symptoms. Ten signs help adults 63+ with diabetes spot silent hypertensive (BP) eye injury.'
   Details subtle ocular biomarkers (venular narrowing, microaneurysm clustering,
   foveal avascular zone expansion) visible on AI-assisted retinal scans — often
   preceding nephropathy or stroke.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: retinal signs uncontrolled bp diabetes
+updated: '2026-03-27'
+primaryKeyword: 'signs blood pressure damages eyes with diabetes over 60'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

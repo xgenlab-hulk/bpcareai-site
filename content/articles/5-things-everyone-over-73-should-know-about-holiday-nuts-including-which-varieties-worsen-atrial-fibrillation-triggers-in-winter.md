@@ -1,11 +1,11 @@
 ---
-title: Holiday Nuts Triggering Your AFib? (73+ Heart Rhythm Warning)
+title: 'Which Holiday Nuts Worsen AFib Triggers in Winter After 73'
 slug: holiday-nuts-afib-triggers-73
-description: >-
+description: 'High-tyramine nuts raise norepinephrine 20-30% in adults over 73, increasing atrial fibrillation (irregular heartbeat) vulnerability during cold winter months.'
   Paroxysmal AFib worsening in winter? Discover which holiday nuts disrupt magnesium-potassium balance and trigger arrhythmia—plus the AFib-safe nut chart for seniors 73+.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: holiday nuts afib triggers winter seniors 73
+updated: '2026-03-27'
+primaryKeyword: 'holiday nuts that trigger AFib in winter after 73'
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

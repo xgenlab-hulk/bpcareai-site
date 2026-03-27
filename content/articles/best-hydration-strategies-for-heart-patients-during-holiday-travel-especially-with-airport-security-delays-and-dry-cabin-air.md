@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Hydration Strategies for Heart Patients During Holiday Travel—Especially
-  With Airport Security Delays and Dry Cabin Air
+title: 'Hydration Strategies for Heart Patients During Holiday Travel After 60'
 slug: >-
   best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
-description: >-
-  Tailored hydration protocols accounting for diuretic timing, electrolyte
-  balance, xerostomia risk, and TSA-compliant fluid access—designed for adults
-  60+ managing hypertension or heart failure across air, train, and car travel.
+description: 'Diuretic-aware fluid plans for dry cabin air under 20% humidity — reduced thirst sensation after age 65 makes proactive hydration essential for cardiac safety.'
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: hydration strategies heart patients holiday travel
+updated: '2026-03-27'
+primaryKeyword: 'hydration strategies for heart patients holiday travel'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

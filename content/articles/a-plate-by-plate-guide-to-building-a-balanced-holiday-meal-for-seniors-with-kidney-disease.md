@@ -1,15 +1,15 @@
 ---
-title: >-
+title: 'A Plate-by-Plate Guide to Holiday Meals for Seniors With Kidney Disease'
   A Plate-by-Plate Guide to Building a Balanced Holiday Meal for Seniors with
   Kidney Disease
 slug: >-
   a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
-description: >-
+description: 'In stage 3 CKD (eGFR 30-59), kidneys can\'t filter excess potassium or phosphorus efficiently. This plate-by-plate guide replaces high-mineral sides without losing festive flavor.'
   Customize your plate with low-potassium, low-phosphorus options that align
   with renal diets while still feeling festive and satisfying.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: holiday meal guide for seniors with kidney disease
+updated: '2026-03-27'
+primaryKeyword: 'how to build a kidney-friendly holiday meal plate for seniors'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,12 +1,10 @@
 ---
-title: Best Indoor Exercises to Boost Mood During Winter for Seniors Over 70
+title: 'Best Indoor Exercises to Ease Seasonal Depression in Seniors Over 70'
 slug: best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
-description: >-
-  List effective, low-impact physical activities that combat seasonal lethargy
-  and improve emotional well-being at home.
+description: 'Home movements that boost serotonin and vagal tone — seniors doing 20 minutes of daily indoor activity reported 32% fewer low-mood symptoms in winter.'
 date: '2025-12-08'
-updated: '2025-12-08'
-primaryKeyword: indoor exercises for seasonal depression
+updated: '2026-03-27'
+primaryKeyword: 'indoor exercises for seasonal depression seniors over 70'
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

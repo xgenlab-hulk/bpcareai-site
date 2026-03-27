@@ -1,13 +1,13 @@
 ---
-title: Your Fasting Glucose High Despite Good Control? (65+)
+title: 'Fasting Glucose Still High Despite Good Control? 7 Overnight Causes'
 slug: overnight-glucose-spikes-seniors-65
-description: >-
+description: 'Fasting glucose stays elevated in 40% of seniors 65+ despite good daytime control. 7 overnight causes—dawn phenomenon, gastroparesis—and bedtime fixes.'
   Fasting glucose stays high in 40% of seniors despite perfect daytime control.
   Get 7 hidden overnight triggers—cortisol, protein, meds—plus proven bedtime
   fixes.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: overnight glucose spikes seniors diabetes
+updated: '2026-03-27'
+primaryKeyword: 'why is fasting blood sugar high with good daily control'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Sweet Potato Casserole vs Roasted Medley for Adults With Diabetic Nerve Pain'
   A vs B: Traditional Sweet Potato Casserole vs Roasted Sweet Potato Medley for
   Adults With Peripheral Neuropathy and Early Nerve Pain
 slug: >-
   a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
-description: >-
+description: 'Traditional casseroles raise glycemic load from 7 to 22-28 and increase dietary AGEs by 40-60% via high-heat baking with sugar toppings—worsening nerve damage risk over time.'
   Compares glycemic load, advanced glycation end-product (AGE) formation, and
   antioxidant retention between baked vs roasted preparation methods and topping
   choices.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: sweet potato casserole vs roasted neuropathy
+updated: '2026-03-27'
+primaryKeyword: 'sweet potato casserole vs roasted sweet potato for diabetic nerve pain'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

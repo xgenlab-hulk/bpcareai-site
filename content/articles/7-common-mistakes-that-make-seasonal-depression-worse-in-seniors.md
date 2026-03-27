@@ -1,11 +1,11 @@
 ---
-title: 'Winter Blues Worse This Year? 7 Mistakes Deepening Mood (65+)'
+title: '7 Mistakes That Make Winter Depression Worse in Seniors'
 slug: winter-depression-mistakes-seniors
-description: >-
+description: 'Skipping morning light raises seasonal depression (SAD) risk 25% in adults over 65. Seven mistakes—including stopping treatment early—deepen winter mood.'
   Staying indoors all day? Get 7 fixable mistakes worsening seasonal depression—skipped meals, early treatment stops, light timing—plus proven mood support for seniors 65+.
 date: '2025-12-05'
-updated: '2025-12-05'
-primaryKeyword: seasonal depression mistakes seniors
+updated: '2026-03-27'
+primaryKeyword: 'mistakes that make winter depression worse in seniors'
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

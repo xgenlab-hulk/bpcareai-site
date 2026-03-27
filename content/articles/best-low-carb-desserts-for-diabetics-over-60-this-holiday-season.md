@@ -1,12 +1,10 @@
 ---
-title: Best Low-Carb Desserts for Diabetics Over 60 This Holiday Season
+title: 'Best Low-Carb Holiday Desserts for Diabetics Over 60'
 slug: best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
-description: >-
-  A curated list of senior-friendly, blood sugar-friendly sweet treats that
-  satisfy cravings without spiking glucose levels.
+description: 'Berry and erythritol treats avoiding the 35–50g carb load of typical holiday cookies — adults over 65 with type 2 diabetes face 30–40% higher hypoglycemia risk.'
 date: '2025-12-07'
-updated: '2025-12-07'
-primaryKeyword: low-carb desserts for seniors
+updated: '2026-03-27'
+primaryKeyword: 'low-carb holiday desserts for diabetics over 60'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

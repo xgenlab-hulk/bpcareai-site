@@ -4,13 +4,13 @@ title: '7 Signs Your Holiday Eating Is Stiffening Your Arteries After 68'
   Especially If You’re 68+ With Normal Office BP
 slug: >-
   7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
-description: 'Slow fingertip refill after dessert, ankle swelling, and post-meal dizziness signal artery hardening (arterial stiffness) even with normal office BP readings.'
+description: 'Normal office BP doesn\'t rule out arterial stiffness. Adults 68+ show early signs—ankle edema, capillary refill delay—after holiday meals high in sodium.'
   Subtle but measurable clues—like delayed fingertip capillary refill after
   dessert, morning ankle edema post-Thanksgiving, or worsening orthostatic
   dizziness after rich meals—that signal early vascular dysfunction.
 date: '2026-01-16'
 updated: '2026-03-27'
-primaryKeyword: 'signs holiday eating is stiffening your arteries'
+primaryKeyword: 'signs holiday eating is stiffening your arteries after 68'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

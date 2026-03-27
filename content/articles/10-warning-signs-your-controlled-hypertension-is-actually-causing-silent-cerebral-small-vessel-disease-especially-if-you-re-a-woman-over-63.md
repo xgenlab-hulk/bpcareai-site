@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '10 Signs BP Is Silently Damaging Brain Vessels in Women Over 63'
   10 Warning Signs Your 'Controlled' Hypertension Is Actually Causing Silent
   Cerebral Small Vessel Disease—Especially If You’re a Woman Over 63
 slug: >-
   10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
-description: >-
+description: 'Up to 95% of adults 65+ have MRI white matter changes tied to long-term BP. Ten signs—including gait changes—detect silent cerebral vessel disease (SVD) early.'
   Links subtle clinical markers (e.g., gait variability, phonemic fluency
   decline, retinal arteriolar narrowing on fundoscopy) to MRI-confirmed white
   matter hyperintensities and vascular cognitive impairment risk.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: silent cerebral small vessel disease hypertension
+updated: '2026-03-27'
+primaryKeyword: 'signs BP is damaging brain vessels in women over 63'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

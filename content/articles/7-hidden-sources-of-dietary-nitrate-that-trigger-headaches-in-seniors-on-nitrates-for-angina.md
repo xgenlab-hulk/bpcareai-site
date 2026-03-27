@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Foods With Nitrates That Interact With Angina Medication in Seniors'
   7 Hidden Sources of Dietary Nitrate That Trigger Headaches in Seniors on
   Nitrates for Angina
 slug: >-
   7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
-description: >-
+description: 'Spinach stuffing and beetroot relish amplify prescription nitrate effects, risking BP drops. 7 dietary nitrate sources seniors on angina meds must watch.'
   Lists nitrate-rich holiday foods (e.g., cured meats, spinach stuffing,
   beetroot relish) that dangerously potentiate prescription nitrates—and offers
   safe, vasodilatory alternatives.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: dietary nitrate angina medication interaction
+updated: '2026-03-27'
+primaryKeyword: 'foods with nitrates interacting with angina medication'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,10 +1,10 @@
 ---
-title: Chest Pain But Clear Arteries? Foods That Help (Seniors 61+)
+title: '10 Foods That Help Chest Pain When Arteries Look Clear (INOCA)'
 slug: chest-pain-clear-arteries-foods-seniors
-description: 10 foods for chest pain with no blockage—cocoa, walnuts, fermented soy. Improve small blood vessel health naturally. INOCA guide for seniors 61+.
+description: 'Up to 40% of angina cases involve small vessel dysfunction (INOCA). These 10 foods improve microvascular flow in adults 61+ without targeting cholesterol alone.'
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: foods for chest pain no blockage seniors over 60
+updated: '2026-03-27'
+primaryKeyword: 'foods for chest pain with clear arteries over 60'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

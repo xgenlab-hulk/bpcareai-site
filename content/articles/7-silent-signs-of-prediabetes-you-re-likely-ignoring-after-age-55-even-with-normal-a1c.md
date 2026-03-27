@@ -1,17 +1,17 @@
 ---
-title: >-
+title: '7 Silent Signs of Prediabetes After 55—Even With Normal A1c'
   7 Silent Signs of Prediabetes You’re Likely Ignoring After Age 55 — Even With
   'Normal' A1c
 slug: >-
   7-silent-signs-of-prediabetes-you-re-likely-ignoring-after-age-55-even-with-normal-a1c
-description: >-
+description: 'Normal A1c doesn\'t rule out insulin resistance. Adults 55+ show prediabetes through nocturnal leg cramps—7 silent signs before diagnostic thresholds.'
   Explores subtle, often-missed early metabolic red flags (like nocturnal leg
   cramps, blurred vision upon standing, or unexplained skin tags) that signal
   insulin resistance before A1c crosses diagnostic thresholds — with
   age-specific interpretation for adults 55–69.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: silent signs of prediabetes after 55
+updated: '2026-03-27'
+primaryKeyword: 'silent signs of prediabetes after 55 with normal A1c'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

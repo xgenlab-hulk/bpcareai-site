@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'How to Safely Adjust Blood Pressure Medication During Summer Heat Waves'
   The Ultimate Guide to Adjusting Antihypertensive Dosing During Summer
   Heatwaves—With Hydration Thresholds, Diuretic Timing, and Postural Rehydration
   Protocols
 slug: >-
   the-ultimate-guide-to-adjusting-antihypertensive-dosing-during-summer-heatwaves-with-hydration-thresholds-diuretic-timing-and-postural-rehydration-protocols
-description: >-
+description: 'Up to 20% of adults over 60 experience BP drops exceeding 20 mm Hg systolic during heatwaves (≥3 days ≥32°C). Evidence-based algorithms for thiazide, CCB, and alpha-2 agonist adjustment.'
   Provides evidence-based algorithms for modifying thiazide, CCB, and alpha-2
   agonist regimens during sustained high-heat exposure in adults over 60.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: antihypertensive dosing summer heatwaves
+updated: '2026-03-27'
+primaryKeyword: 'how to adjust blood pressure medication during summer heat waves'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

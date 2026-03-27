@@ -1,13 +1,13 @@
 ---
-title: 'Holiday Baking Spiking Your Blood Sugar? Women 60+ Guide'
+title: 'Holiday Baking Spiking Your Blood Sugar? 7 Hidden Traps for Women 60+'
 slug: holiday-baking-blood-sugar-women-60
-description: 'Almond flour and date paste spiked blood sugar (postprandial glucose) >40 mg/dL in 68% of women 60+ on CGM. Cooling baked goods 4 hrs lowers impact ~15 mg/dL.'
+description: 'Almond flour and date paste spiked glucose over 40 mg/dL in 68% of women 60+ on CGM. 7 holiday baking traps causing postprandial spikes—with safer swaps.'
   Almond flour, date paste, erythritol—all spike glucose in women 60+. Discover
   7 hidden triggers, plus CGM data proving why "safe" ingredients fail and
   smarter swaps that work.
 date: '2026-01-14'
 updated: '2026-03-27'
-primaryKeyword: 'holiday baking ingredients that spike blood sugar'
+primaryKeyword: 'holiday baking that spikes blood sugar in women 60'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

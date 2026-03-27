@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Sleep Habits Raising Fasting Glucose in Adults 50-65 Without Apnea'
   7 Hidden Sleep-Disrupting Habits That Elevate Fasting Glucose in Adults
   50–65—Even With Normal BMI and No OSA Diagnosis
 slug: >-
   7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
-description: >-
+description: 'Nocturnal light exposure and REM fragmentation impair hepatic insulin sensitivity in adults 50-65. 7 sleep habits elevating fasting glucose without sleep apnea.'
   Identifies non-apnea contributors like nocturnal light exposure, bedtime
   protein intake, and supine REM fragmentation that impair hepatic insulin
   sensitivity overnight.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: sleep habits fasting glucose elevation
+updated: '2026-03-27'
+primaryKeyword: 'sleep habits raising fasting blood sugar without apnea'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

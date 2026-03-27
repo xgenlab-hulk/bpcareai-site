@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Traditional Holiday Dishes Hiding Sugar Seniors Should Know About'
   7 Hidden Sources of Added Sugar in Traditional Holiday Dishes Seniors Should
   Avoid
 slug: >-
   7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
-description: >-
+description: 'One cup of cranberry sauce packs 6 teaspoons of sugar. 7 holiday dishes hiding added sugar that spike blood sugar and raise arterial stiffness in seniors.'
   A practical guide identifying sneaky sugar culprits in classic holiday
   recipes—like cranberry sauce, stuffing, and eggnog—and how to modify them for
   stable blood glucose and heart health.
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: hidden sugar in holiday foods seniors
+updated: '2026-03-27'
+primaryKeyword: 'traditional holiday dishes hiding added sugar in seniors'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

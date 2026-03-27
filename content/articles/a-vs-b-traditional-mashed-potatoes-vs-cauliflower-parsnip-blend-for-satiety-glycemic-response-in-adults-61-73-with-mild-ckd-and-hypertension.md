@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Mashed Potatoes vs Cauliflower-Parsnip Blend for Kidney Disease and High Blood Pressure'
   A vs B: Traditional Mashed Potatoes vs. Cauliflower-Parsnip Blend for Satiety
   & Glycemic Response in Adults 61–73 With Mild CKD and Hypertension
 slug: >-
   a-vs-b-traditional-mashed-potatoes-vs-cauliflower-parsnip-blend-for-satiety-glycemic-response-in-adults-61-73-with-mild-ckd-and-hypertension
-description: >-
+description: 'Cooking and cooling potatoes forms resistant starch that lowers glycemic load. A cauliflower-parsnip blend further reduces potassium bioavailability and sodium-binding for adults 61-73 with mild CKD.'
   Compares potassium bioavailability, resistant starch formation upon cooling,
   and sodium-binding capacity—plus includes prep tips to maximize
   renal-protective phytonutrients without sacrificing creaminess.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: mashed potatoes vs cauliflower parsnip CKD
+updated: '2026-03-27'
+primaryKeyword: 'mashed potatoes vs cauliflower parsnip blend for kidney disease and blood pressure'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

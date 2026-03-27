@@ -1,16 +1,16 @@
 ---
-title: 'Apple With Cinnamon vs. Chair Yoga: Which Lowers Post-Meal Sugar?'
+title: 'Apple With Cinnamon vs Chair Yoga: Which Lowers Blood Sugar More Before Meals'
   A vs B: Pre-Feast Apple With Cinnamon vs. 5-Minute Chair Yoga — Which Lowers
   Postprandial Glucose More in Women 63–77 With Abdominal Obesity?
 slug: >-
   a-vs-b-pre-feast-apple-with-cinnamon-vs-5-minute-chair-yoga-which-lowers-postprandial-glucose-more-in-women-63-77-with-abdominal-obesity
-description: 'Apple 20 min pre-meal cut after-meal sugar spikes by 22 mg/dL vs 14 for chair yoga in women 63-77 with belly fat (abdominal obesity). Medication timing matters.'
+description: 'A pre-meal apple with cinnamon cut post-meal glucose spikes by 22 mg/dL vs 14 mg/dL for 5-minute chair yoga in women 63-77 with abdominal obesity (waist ≥88 cm).'
   Side-by-side comparison of two low-barrier, time-efficient interventions
   tested in a real-world cohort, with data on timing, efficacy window, and
   interaction with common medications.
 date: '2026-01-16'
 updated: '2026-03-27'
-primaryKeyword: 'apple before a meal vs chair yoga for blood sugar'
+primaryKeyword: 'apple with cinnamon vs chair yoga for blood sugar before a meal'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,10 +1,10 @@
 ---
-title: Migraines After 65? Your Heart Risk Is Higher Than You Think
+title: '7 Heart Risks Missed in Women 65+ Who Have Migraines'
 slug: heart-risks-women-65-migraines
-description: Have migraines and over 65? Discover 3 heart risks your doctor may miss—migraine-aura stroke link, thyroid markers, microvascular tests—essential for women.
+description: 'Migraine with aura raises ischemic stroke risk 2.5 times in women over 65. 7 heart disease risk factors doctors miss—microvascular tests and thyroid markers.'
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: heart disease risks women 65 migraines
+updated: '2026-03-27'
+primaryKeyword: 'heart risks missed in women 65 with migraines'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

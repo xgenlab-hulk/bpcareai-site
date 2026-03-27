@@ -1,11 +1,11 @@
 ---
-title: Your Morning Coffee Spiking Your BP? (7 Fixes for Adults 55-72)
+title: 'Is Your Morning Coffee Raising Blood Pressure? 7 Fixes After 55'
 slug: morning-coffee-bp-spike-fixes-55-72
-description: >-
+description: 'Morning coffee raises systolic BP 10-20 mmHg in 30% of adults over 55. 7 fixes—brew timing and add-ins—to keep caffeine without the pressure spike.'
   Is your morning coffee raising blood pressure by 10-20 points? Get 7 proven fixes for brewing, timing, and add-ins—keep your caffeine ritual without the BP spike (ages 55-72).
 date: '2026-01-31'
-updated: '2026-01-31'
-primaryKeyword: morning coffee blood pressure spike seniors
+updated: '2026-03-27'
+primaryKeyword: 'does morning coffee raise blood pressure after 55'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

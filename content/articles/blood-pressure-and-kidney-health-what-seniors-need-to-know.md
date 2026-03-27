@@ -1,12 +1,12 @@
 ---
-title: 'Blood Pressure and Kidney Health: What Seniors Need to Know'
+title: 'Blood Pressure and Kidney Health: What Seniors Over 65 Must Know'
 slug: blood-pressure-and-kidney-health-what-seniors-need-to-know
-description: >-
+description: 'Every 10 mmHg systolic rise accelerates eGFR decline by 2-4 ml/min/year. Early hypertension control reduces chronic kidney disease (CKD) risk.'
   Learn how high blood pressure damages kidneys over time and the importance of
   early detection.
 date: '2025-12-03'
-updated: '2025-12-03'
-primaryKeyword: blood pressure and kidney disease in older adults
+updated: '2026-03-27'
+primaryKeyword: 'blood pressure kidney health seniors over 65'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

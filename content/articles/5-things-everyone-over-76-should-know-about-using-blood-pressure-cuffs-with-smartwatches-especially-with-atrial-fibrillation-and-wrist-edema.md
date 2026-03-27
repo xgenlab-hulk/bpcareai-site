@@ -1,11 +1,11 @@
 ---
-title: Smartwatch BP Readings With AFib After 76? (Truth Revealed)
+title: 'Smartwatch BP Accuracy With AFib and Wrist Swelling After 76'
 slug: smartwatch-bp-accuracy-afib-seniors-76
-description: >-
+description: 'Wrist-based BP monitors show 8-12 mmHg errors in adults 76+ with atrial fibrillation (irregular heartbeat) and wrist edema. Five steps improve reading accuracy.'
   Smartwatch BP readings unreliable with AFib after 76? Discover why 30% of readings fail, the 2-week calibration rule, and when wrist edema skews results—get accurate readings now.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: smartwatch bp accuracy afib seniors 76
+updated: '2026-03-27'
+primaryKeyword: 'smartwatch BP accuracy with AFib and wrist swelling'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

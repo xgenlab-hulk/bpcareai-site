@@ -1,16 +1,14 @@
 ---
-title: >-
-  Best Low-Sodium Swaps for Classic Holiday Side Dishes—Ranked by Palatability,
-  Potassium Retention, and Ease of Prep for Caregivers Over 60
+title: 'Best Low-Sodium Holiday Side Dish Swaps for Caregivers Over 60'
 slug: >-
   best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
-description: >-
+description: 'Twelve rated swaps like nutritional yeast for Parmesan that cut sodium without losing flavor — 75% of sodium in older adults\' diets comes from processed foods.'
   A comparative ranking (1–10) of 12 swaps (e.g., nutritional yeast for
   Parmesan, tamari for gravy base), weighted for sensory appeal, renal safety,
   and one-handed prep feasibility.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: low sodium holiday side dish swaps
+updated: '2026-03-27'
+primaryKeyword: 'low-sodium holiday side dish swaps for caregivers over 60'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,13 +1,13 @@
 ---
-title: 7 Smart Swaps for Healthier Holiday Meals After 65
+title: '7 Smart Ingredient Swaps for Healthier Holiday Meals After 65'
 slug: 7-smart-swaps-for-healthier-holiday-meals-after-65
-description: >-
+description: 'One teaspoon of salt delivers 2,300 mg sodium—near the daily limit for seniors with hypertension. Simple swaps cut sodium, sugar, and saturated fat without losing flavor.'
   Discover simple ingredient substitutions that reduce sodium, sugar, and fat in
   traditional holiday dishes without sacrificing flavor—perfect for seniors
   managing chronic conditions.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: healthy holiday swaps for seniors
+updated: '2026-03-27'
+primaryKeyword: 'healthy ingredient swaps for holiday meals after 65'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Arm Cuff vs Wrist PPG Device for Detecting Nighttime Blood Pressure Non-Dipping'
   A vs B: Home-Based Oscillometric Cuff vs. Wrist-Worn PPG Device for Detecting
   Nocturnal Non-Dipping in Adults With Mild Sleep Apnea
 slug: >-
   a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea
-description: >-
+description: 'In adults with mild sleep apnea, upper-arm oscillometric cuffs detected nocturnal non-dipping (BP failing to drop 10-20% overnight) more reliably than wrist PPG devices during sleep.'
   Compares accuracy, usability, and artifact resistance of two consumer-grade BP
   monitoring modalities during sleep in patients with confirmed mild OSA and
   suspected nondipping.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: oscillometric cuff vs ppg nocturnal non-dipping
+updated: '2026-03-27'
+primaryKeyword: 'arm cuff vs wrist PPG device for detecting nighttime blood pressure patterns'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

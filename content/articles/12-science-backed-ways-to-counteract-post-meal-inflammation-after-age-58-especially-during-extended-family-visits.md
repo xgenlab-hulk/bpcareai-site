@@ -1,13 +1,13 @@
 ---
-title: >-
+title: '12 Ways to Reduce Post-Meal Inflammation After 58 During Family Visits'
   Feeling Achy After Big Meals? (Post-Meal Inflammation Guide 58+)
 slug: >-
   post-meal-inflammation-adults-58
-description: >-
+description: 'After 58, postprandial inflammation (CRP spike after eating) lasts 30-40% longer in older adults. Twelve strategies lower oxidative burden during holiday meals.'
   Tired or achy after family dinners? Discover 12 science-backed ways to reduce post-meal inflammation—stop bloating, fatigue, and joint pain naturally. Adults 58+.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: post meal inflammation adults 58
+updated: '2026-03-27'
+primaryKeyword: 'reduce post meal inflammation after age 58'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

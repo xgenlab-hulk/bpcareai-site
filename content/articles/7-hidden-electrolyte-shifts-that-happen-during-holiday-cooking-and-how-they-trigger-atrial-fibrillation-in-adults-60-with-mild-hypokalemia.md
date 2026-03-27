@@ -1,10 +1,10 @@
 ---
-title: Holiday Cooking Triggering Heart Flutters? (AFib Guide Adults 60+)
+title: 'Holiday Cooking Triggering AFib? Electrolyte Guide for Adults 60+'
 slug: holiday-cooking-afib-electrolytes-60
-description: Cooking holiday meals and feeling heart flutter? Discover how standing, salt, dehydration shift potassium levels triggering AFib—plus 3 kitchen fixes to stay steady (adults 60+).
+description: 'Standing hours in the kitchen drops serum potassium enough to trigger atrial fibrillation. 7 holiday electrolyte shifts affecting adults 60+ with hypokalemia.'
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: holiday cooking afib electrolyte adults 60
+updated: '2026-03-27'
+primaryKeyword: 'holiday cooking triggering AFib in seniors'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Sodium Traps in Holiday Soups for Seniors on ACE Inhibitors'
   7 Hidden Sodium Traps in 'Heart-Healthy' Holiday Soups and Stews—Especially
   for Seniors on ACE Inhibitors or ARBs
 slug: >-
   7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
-description: >-
+description: 'Bouillon cubes and smoked turkey add 800-1200 mg sodium per cup. 7 hidden sodium traps in holiday soups that blunt ACE inhibitor effectiveness in seniors.'
   Identifies high-sodium ingredients in seemingly low-risk holiday soups (e.g.,
   bouillon cubes, smoked turkey, canned beans), explains renal-angiotensin
   system implications, and offers low-sodium flavor-building alternatives.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: high sodium holiday soups seniors ace inhibitors
+updated: '2026-03-27'
+primaryKeyword: 'hidden sodium in holiday soups for seniors on ACE inhibitors'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

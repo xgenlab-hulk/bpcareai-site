@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Mulled Wine vs Spiced Apple Cider for Blood Sugar Stability in Women Over 60'
   A vs B: Mulled Wine vs Warm Spiced Apple Cider for Blood Sugar Stability in
   Women Over 60 With Insulin Resistance
 slug: >-
   a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
-description: >-
+description: 'Mulled wine delays insulin response, causing glucose spikes 2-3 hours later. Apple cider delivers ~28 g fructose per 8 oz, worsening liver fat in insulin-resistant women over 60.'
   Compares polyphenol bioavailability, alcohol–glucose interaction timing,
   fructose load, and thermal degradation of beneficial compounds in two popular
   warm holiday drinks.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: mulled wine vs apple cider diabetes
+updated: '2026-03-27'
+primaryKeyword: 'mulled wine vs spiced apple cider blood sugar effect in women over 60'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

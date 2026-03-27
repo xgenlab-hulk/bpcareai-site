@@ -1,13 +1,13 @@
 ---
-title: >-
+title: '12 Foods That Strengthen Heart Cell Energy With Diastolic Dysfunction'
   Your Heart Tiring Easily? (Diastolic Dysfunction Food Guide 55-63)
 slug: >-
   heart-energy-foods-diastolic-dysfunction-55-63
-description: >-
+description: 'Diastolic dysfunction reduces cardiac mitochondrial output by 15-25%. Twelve foods stimulate heart energy renewal (myocardial biogenesis) without extra stress.'
   Diagnosed with early diastolic dysfunction? Get 12 foods that boost heart mitochondrial energy—black garlic, wild blueberries, roasted walnuts—proven to enhance PGC-1α and SIRT3 for adults 55-63.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: heart energy foods diastolic dysfunction
+updated: '2026-03-27'
+primaryKeyword: 'heart energy foods for diastolic dysfunction after 55'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

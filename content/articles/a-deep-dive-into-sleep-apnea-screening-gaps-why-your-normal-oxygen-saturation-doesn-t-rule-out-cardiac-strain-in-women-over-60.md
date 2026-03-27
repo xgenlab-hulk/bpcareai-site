@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why Normal Sleep Oxygen Saturation Misses Heart Strain in Women Over 60'
   A Deep Dive Into Sleep Apnea Screening Gaps: Why Your ‘Normal’ Oxygen
   Saturation Doesn’t Rule Out Cardiac Strain in Women Over 60
 slug: >-
   a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
-description: >-
+description: 'Up to 50% of older women with undiagnosed sleep apnea (OSA) have normal nocturnal SpO₂ but show measurable early cardiac strain via respiratory effort arousals and HRV patterns.'
   Challenges reliance on nocturnal SpO2 alone; explains why respiratory
   effort–related arousals (RERAs) and heart rate variability patterns matter
   more for HF risk.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: sleep apnea screening women heart strain
+updated: '2026-03-27'
+primaryKeyword: 'why normal sleep oxygen saturation misses heart strain in women over 60'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

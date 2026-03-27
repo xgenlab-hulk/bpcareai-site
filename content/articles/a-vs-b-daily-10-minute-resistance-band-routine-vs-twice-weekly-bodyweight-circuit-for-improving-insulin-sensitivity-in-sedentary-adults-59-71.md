@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Resistance Bands vs Bodyweight Circuit for Insulin Sensitivity in Adults 59 to 71'
   A vs B: Daily 10-Minute Resistance Band Routine vs. Twice-Weekly Bodyweight
   Circuit for Improving Insulin Sensitivity in Sedentary Adults 59–71
 slug: >-
   a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71
-description: >-
+description: 'Daily 10-minute resistance band training lowered HOMA-IR (insulin resistance index) comparably to twice-weekly bodyweight circuits over 12 weeks, with better adherence in older adults.'
   Compares feasibility, adherence rates, and 12-week HOMA-IR changes between two
   low-barrier strength protocols — with video-linked form cues and progression
   benchmarks tailored for joint-safe implementation.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: resistance training insulin sensitivity sedentary 59-71
+updated: '2026-03-27'
+primaryKeyword: 'resistance bands vs bodyweight exercises for insulin sensitivity aged 59 to 71'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

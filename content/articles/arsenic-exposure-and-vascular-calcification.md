@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'How Arsenic in Well Water Speeds Up Artery Hardening in Seniors Over 67'
   10 Hidden Sources of Arsenic Exposure in Well Water-Dependent Senior
   Communities — And How Low-Dose Chronic Exposure May Accelerate Vascular
   Calcification in Adults 67+
 slug: >-
   10-hidden-sources-of-arsenic-exposure-in-well-water-dependent-senior-communities-and-how-low-dose-chronic-exposure-may-accelerate-vascular-calcification-in-adults-67
-description: >-
+description: 'Private wells are unregulated by the EPA for arsenic—a tasteless compound. Chronic low-dose exposure raises pulse wave velocity and links to HFpEF (heart failure with preserved ejection fraction).'
   Identifies geographic and infrastructural arsenic risks in rural senior
   populations, linking exposure to medial calcification, pulse wave velocity,
   and HFpEF incidence.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: arsenic exposure and vascular calcification
+updated: '2026-03-27'
+primaryKeyword: 'how arsenic in well water accelerates artery hardening in seniors over 67'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

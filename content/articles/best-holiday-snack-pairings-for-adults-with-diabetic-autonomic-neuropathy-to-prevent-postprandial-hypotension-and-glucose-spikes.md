@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Holiday Snack Pairings for Adults With Diabetic Autonomic Neuropathy to
-  Prevent Postprandial Hypotension and Glucose Spikes
+title: 'Holiday Snacks for Autonomic Neuropathy to Prevent Low BP After Meals'
 slug: >-
   best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
-description: >-
-  Recommends combos (e.g., roasted chestnuts + pomegranate arils + rosemary
-  salt) that balance vagal tone support, sodium modulation, and slow-carb
-  release—based on tilt-table testing.
+description: 'Slow-carb, sodium-balanced pairings that prevent BP drops after eating — up to 30% of adults over 60 with diabetes experience postprandial hypotension.'
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: holiday snacks postprandial hypotension autonomic neuropathy
+updated: '2026-03-27'
+primaryKeyword: 'holiday snacks for autonomic neuropathy low BP after meals'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

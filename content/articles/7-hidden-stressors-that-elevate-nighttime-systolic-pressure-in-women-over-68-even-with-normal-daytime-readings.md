@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why BP Rises at Night Despite Normal Daytime Readings in Women 68+'
   7 Hidden Stressors That Elevate Nighttime Systolic Pressure in Women Over 68 —
   Even With Normal Daytime Readings
 slug: >-
   7-hidden-stressors-that-elevate-nighttime-systolic-pressure-in-women-over-68-even-with-normal-daytime-readings
-description: >-
+description: 'Non-dipping nocturnal BP affects 40% of women 68+. 7 stressors—light exposure, evening caffeine, supine GERD—that quietly elevate nighttime systolic pressure.'
   Identifies under-recognized contributors like nocturnal light exposure,
   evening caffeine metabolites, and supine GERD reflex that disrupt circadian BP
   dipping in postmenopausal women, with actionable mitigation strategies.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: nighttime systolic pressure women over 68
+updated: '2026-03-27'
+primaryKeyword: 'nighttime BP high with normal daytime readings women 68'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'How Aromatase Inhibitors Worsen Blood Sugar Control in Women Over 65'
   7 Hidden Medication Interactions That Sabotage Glycemic Control in Women Over
   65 Taking Aromatase Inhibitors — Tamoxifen, Letrozole, and Insulin Resistance
   Pathways
 slug: >-
   7-hidden-medication-interactions-that-sabotage-glycemic-control-in-women-over-65-taking-aromatase-inhibitors-tamoxifen-letrozole-and-insulin-resistance-pathways
-description: >-
+description: 'Up to 30% of women over 65 on letrozole or anastrozole develop new insulin resistance within one year. Unlike tamoxifen, aromatase inhibitors reduce estrogen-mediated insulin receptor sensitivity.'
   Details clinically underrecognized pharmacodynamic clashes between breast
   cancer adjuvant therapies and diabetes medications, with actionable timing and
   monitoring guidance for oncology-aware endocrinology care.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: aromatase-inhibitors diabetes interaction seniors
+updated: '2026-03-27'
+primaryKeyword: 'how aromatase inhibitors worsen blood sugar control in women over 65'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

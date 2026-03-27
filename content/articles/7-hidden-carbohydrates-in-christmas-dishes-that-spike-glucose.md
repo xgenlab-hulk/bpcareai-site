@@ -1,13 +1,13 @@
 ---
-title: Hidden Carbs in Christmas Dishes Spiking Your Glucose?
+title: 'Hidden Carbs in Christmas Dishes That Spike Blood Sugar—What to Know'
 slug: hidden-carbs-christmas-glucose
-description: >-
+description: 'Gravy, stuffing, and cranberry sauce pack 20-35 hidden carbs per serving. 7 Christmas staples that spike blood sugar (postprandial glucose)—with swaps.'
   Gravy, stuffing, cranberry sauce—7 holiday staples pack 30+ grams of hidden
   carbs. Get exact counts, post-meal glucose targets, and smart swaps for
   diabetes control.
 date: '2025-12-08'
-updated: '2025-12-08'
-primaryKeyword: hidden carbs christmas glucose diabetes
+updated: '2026-03-27'
+primaryKeyword: 'hidden carbs in Christmas food that spike blood sugar'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

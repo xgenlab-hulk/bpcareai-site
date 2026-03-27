@@ -1,12 +1,12 @@
 ---
-title: 10 Foods for Blood Sugar Control in Hot Weather (Diabetes Seniors 70+)
+title: '10 Foods to Steady Blood Sugar During Heat Waves for Seniors 70+'
 slug: blood-sugar-foods-hot-weather-diabetes-seniors
-description: >-
+description: 'Heat raises cortisol, pushing fasting glucose up 10-15 mg/dL in older diabetics. These foods steady blood sugar while managing low sodium (hyponatremia) risk.'
   Discover 10 foods for blood sugar control in hot weather—cucumber, berries,
   yogurt. Low-glycemic, hydrating choices for diabetes seniors 70+.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: foods for blood sugar control hot weather diabetes seniors
+updated: '2026-03-27'
+primaryKeyword: 'foods to control blood sugar in heat with diabetes at 70'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

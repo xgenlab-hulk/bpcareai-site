@@ -1,11 +1,11 @@
 ---
-title: Holiday Leftovers Safe After 76? (3-Day Rule Explained)
+title: 'Holiday Leftovers Safety for Adults Over 76 With Weaker Immune Systems'
 slug: holiday-leftovers-safety-seniors-76
-description: >-
+description: 'Adults over 76 face 3-4 times higher Listeria risk due to immune decline (immunosenescence). Safe reheating to 165°F and the 3-day rule protect frail seniors.'
   Holiday leftovers safe after 76? Learn the 90-minute refrigeration rule, 3 high-risk foods to discard faster, and exact 165°F reheating temps—stop foodborne illness today.
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: holiday leftovers safety seniors 76 plus
+updated: '2026-03-27'
+primaryKeyword: 'holiday leftovers safety for elderly over 76'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

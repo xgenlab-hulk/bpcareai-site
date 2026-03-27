@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Fruitcake vs Pear Walnut Loaf for Seniors With Low Sodium Blood Levels'
   A vs B: Grandma’s Fruitcake (Soaked in Brandy) vs. Baked Pear & Walnut Loaf
   (No Alcohol, Lower Osmolality) for Seniors With Mild Hyponatremia
 slug: >-
   a-vs-b-grandma-s-fruitcake-soaked-in-brandy-vs-baked-pear-walnut-loaf-no-alcohol-lower-osmolality-for-seniors-with-mild-hyponatremia
-description: >-
+description: 'Brandy-soaked fruitcake osmolality exceeds 2,000 mOsm/kg and triggers ADH rebound, diluting serum sodium. A baked pear walnut loaf (300-450 mOsm/kg) poses far less neurological risk.'
   Compares two festive dessert options using sodium-potassium-osmolality
   metrics, prioritizing neurological safety in older adults with borderline or
   diet-managed hyponatremia.
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: holiday desserts hyponatremia seniors
+updated: '2026-03-27'
+primaryKeyword: 'fruitcake vs low-alcohol dessert for seniors with low sodium blood levels'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

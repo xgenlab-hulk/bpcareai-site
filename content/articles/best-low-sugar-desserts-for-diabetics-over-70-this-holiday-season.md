@@ -1,12 +1,10 @@
 ---
-title: Best Low-Sugar Desserts for Diabetics Over 70 This Holiday Season
+title: 'Best Low-Sugar Holiday Desserts for Diabetics Over 70'
 slug: best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
-description: >-
-  A curated list of naturally sweetened, diabetic-friendly holiday desserts that
-  are safe, satisfying, and easy to prepare for older adults.
+description: 'Baked apples and chia puddings with under 8g sugar per serving — adults over 70 with type 2 diabetes face a 30% higher post-meal hyperglycemia risk.'
 date: '2025-12-13'
-updated: '2025-12-13'
-primaryKeyword: low-sugar desserts for diabetics over 70
+updated: '2026-03-27'
+primaryKeyword: 'low-sugar holiday desserts for diabetics over 70'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

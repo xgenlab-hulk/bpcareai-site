@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Oral Signs of Undiagnosed Diabetes Dentists Miss in Women Over 62'
   7 Hidden Signs Your Dentist Should Know You Have Undiagnosed
   Diabetes—Especially If You’re a Woman Over 62
 slug: >-
   7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62
-description: >-
+description: 'Burning mouth syndrome affects 12% of postmenopausal women—half linked to prediabetes. 7 oral signs of undiagnosed diabetes dentists may attribute to aging.'
   Details oral manifestations of early-stage diabetes (e.g., burning mouth
   syndrome, refractory periodontitis, salivary hypofunction) that dentists may
   misattribute to aging or menopause.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: oral signs of undiagnosed diabetes in women over 62
+updated: '2026-03-27'
+primaryKeyword: 'oral signs of undiagnosed diabetes in women over 62'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

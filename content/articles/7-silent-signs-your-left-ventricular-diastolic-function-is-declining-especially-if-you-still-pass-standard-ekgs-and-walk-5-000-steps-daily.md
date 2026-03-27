@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Silent Signs Your Diastolic Function Is Declining Even With a Normal EKG'
   7 Silent Signs Your Left Ventricular Diastolic Function Is Declining —
   Especially If You Still Pass Standard EKGs and Walk 5,000 Steps Daily
 slug: >-
   7-silent-signs-your-left-ventricular-diastolic-function-is-declining-especially-if-you-still-pass-standard-ekgs-and-walk-5-000-steps-daily
-description: >-
+description: 'EKGs measure electrical activity, not how well your heart fills. Adults 60-75 can have early diastolic dysfunction (HFpEF precursor) while still walking 5,000 steps daily.'
   Highlights subtle, non-acute indicators of early diastolic dysfunction (e.g.,
   unexplained exertional dyspnea on level ground, prolonged recovery HR,
   nocturnal cough) in high-functioning adults 60–75.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: silent signs of diastolic dysfunction
+updated: '2026-03-27'
+primaryKeyword: 'signs of diastolic dysfunction despite normal EKG and daily walking'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Dry Mouth and Brain Fog? 7 Signs of High Blood Pressure at Night'
   7 Silent Signs Your Blood Pressure Is Spiking at Night — Especially If You
   Wake Up with Dry Mouth and Morning Brain Fog
 slug: >-
   7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog
-description: >-
+description: 'Dry mouth and brain fog can signal nocturnal hypertension (non-dipping BP). 7 quiet clues blood pressure is rising at night in seniors with action steps.'
   Explores nocturnal hypertension symptoms often missed in adults 65+, including
   dry mouth, nocturia, unrefreshing sleep, and morning cognitive lag — with
   actionable home detection tips.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: nocturnal hypertension signs in seniors
+updated: '2026-03-27'
+primaryKeyword: 'dry mouth and brain fog signal high blood pressure at night'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

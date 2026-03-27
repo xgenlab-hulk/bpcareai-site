@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Home Blood Pressure Cuffs for Adults 75+ With Severe Arthritis and Tremor
-  — Accuracy, Fit, and One-Handed Operation Compared
+title: 'Best Blood Pressure Cuffs for Adults 75+ With Arthritis and Tremor'
 slug: >-
   best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared
-description: >-
-  Compares 12 upper-arm and wrist devices across dexterity, cuff inflation ease,
-  display clarity, and validation in elderly cohorts — highlighting models with
-  FDA-cleared tremor compensation algorithms.
+description: 'Monitors compared for one-handed use and tremor compensation — hypertension affects two-thirds of adults over 75, making accurate home readings essential.'
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: bp cuff severe arthritis tremor
+updated: '2026-03-27'
+primaryKeyword: 'blood pressure cuffs for seniors with arthritis and tremor'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

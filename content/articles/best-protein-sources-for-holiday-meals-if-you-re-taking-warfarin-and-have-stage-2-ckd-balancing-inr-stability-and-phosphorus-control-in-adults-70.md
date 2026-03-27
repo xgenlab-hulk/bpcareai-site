@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Protein Sources for Holiday Meals *If You’re Taking Warfarin AND Have
-  Stage 2 CKD* — Balancing INR Stability and Phosphorus Control in Adults 70+
+title: 'Best Holiday Protein for Adults 70+ on Warfarin With Stage 2 CKD'
 slug: >-
   best-protein-sources-for-holiday-meals-if-you-re-taking-warfarin-and-have-stage-2-ckd-balancing-inr-stability-and-phosphorus-control-in-adults-70
-description: >-
-  Compares lean turkey, tofu, and egg whites across vitamin K consistency,
-  phosphorus bioavailability, and uremic toxin generation—using
-  nephrology-warfarin co-management guidelines.
+description: 'Turkey, tofu, and egg whites ranked on vitamin K and phosphorus load — stage 2 CKD (eGFR 60–89) keeps near-normal protein needs but demands nutrient quality.'
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: warfarin ck2 protein sources seniors
+updated: '2026-03-27'
+primaryKeyword: 'protein sources for warfarin users with stage 2 CKD over 70'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,10 +1,10 @@
 ---
-title: '7 Sleep Positions That Worsen Lung Congestion After 73'
+title: 'Sleep Positions That Worsen Lung Congestion With Heart Failure at 73'
   7 Hidden Sleep Position Risks That Worsen Pulmonary Congestion in Adults 73+
   With HFpEF and Mild Obstructive Sleep Apnea
 slug: >-
   7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
-description: 'Lying flat raises lung fluid pressure (pulmonary wedge pressure) 8-12 mmHg with preserved-EF heart failure (HFpEF). Left-side + 30-degree tilt cuts it 45%.'
+description: 'Lying flat raises pulmonary wedge pressure 8-12 mmHg with preserved-EF heart failure (HFpEF). Left-side and 30-degree tilt cuts congestion 45% in adults 73+.'
   Details how supine vs. lateral positioning alters nocturnal pulmonary
   capillary wedge pressure, right ventricular afterload, and apnea-hypopnea
   index amplification — with validated pillow-modification protocols.

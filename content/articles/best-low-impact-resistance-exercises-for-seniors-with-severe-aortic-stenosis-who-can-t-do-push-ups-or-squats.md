@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Low-Impact Resistance Exercises for Seniors With Severe Aortic Stenosis
-  (Who Can’t Do Push-Ups or Squats)
+title: 'Safe Resistance Exercises for Seniors With Severe Aortic Stenosis'
 slug: >-
   best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
-description: >-
-  Physiotherapist-designed isometric and partial-ROM routines—using resistance
-  bands and seated positions—that safely improve skeletal muscle perfusion
-  without increasing afterload.
+description: 'Partial-ROM band moves build muscle without raising left ventricular afterload — aortic valve area under 1.0 cm² makes conventional high-load exercise risky.'
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: aortic stenosis resistance exercises seniors
+updated: '2026-03-27'
+primaryKeyword: 'resistance exercises for seniors with severe aortic stenosis'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

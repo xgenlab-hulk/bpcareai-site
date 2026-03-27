@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Signs Your BP Is Too Low After Starting SGLT2 Inhibitors'
   7 Silent Signs Your Blood Pressure Is Too *Low* After Starting SGLT2
   Inhibitors—Especially If You’re on Dialysis or Have Orthostatic Tremor
 slug: >-
   7-silent-signs-your-blood-pressure-is-too-low-after-starting-sglt2-inhibitors-especially-if-you-re-on-dialysis-or-have-orthostatic-tremor
-description: >-
+description: 'SGLT2 inhibitors cause systolic drops of 15-25 mmHg in CKD stages 4-5. 7 silent hypotension signs—cognitive fog, post-walk fatigue—in dialysis patients.'
   Identifies under-recognized hypotensive symptoms (e.g., postprandial cognitive
   fog, paradoxical fatigue after walking) in adults with CKD stages 4–5
   initiating empagliflozin or dapagliflozin.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: low blood pressure on SGLT2 inhibitors
+updated: '2026-03-27'
+primaryKeyword: 'low blood pressure after starting SGLT2 inhibitors CKD'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

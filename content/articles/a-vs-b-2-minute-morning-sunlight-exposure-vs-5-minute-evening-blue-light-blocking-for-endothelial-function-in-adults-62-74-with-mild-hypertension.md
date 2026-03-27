@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Morning Sunlight vs Evening Blue-Light Blocking for Artery Health in Adults 62 to 74'
   A vs B: 2-Minute Morning Sunlight Exposure vs. 5-Minute Evening Blue-Light
   Blocking for Endothelial Function in Adults 62–74 With Mild Hypertension
 slug: >-
   a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
-description: >-
+description: 'A crossover trial measured flow-mediated dilation (FMD) and nitric oxide metabolites: morning light at ≥2,500 lux and evening blue-light filtering after 8 PM both improve endothelial function.'
   Compares circadian photoreceptor activation strategies on flow-mediated
   dilation (FMD), nitric oxide metabolites, and 24-hour ambulatory BP patterns
   in a crossover trial.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: morning sunlight vs blue light blocking endothelial function
+updated: '2026-03-27'
+primaryKeyword: 'morning sunlight vs evening blue-light blocking for blood vessel health'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

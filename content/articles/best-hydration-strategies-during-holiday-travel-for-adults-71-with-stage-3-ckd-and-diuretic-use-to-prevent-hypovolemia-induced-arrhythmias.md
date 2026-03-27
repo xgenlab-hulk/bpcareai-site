@@ -1,15 +1,11 @@
 ---
-title: >-
-  Best Hydration Strategies *During* Holiday Travel for Adults 71+ With Stage 3
-  CKD and Diuretic Use — To Prevent Hypovolemia-Induced Arrhythmias
+title: 'Holiday Travel Hydration for Adults 71+ With Stage 3 CKD and Diuretics'
 slug: >-
   best-hydration-strategies-during-holiday-travel-for-adults-71-with-stage-3-ckd-and-diuretic-use-to-prevent-hypovolemia-induced-arrhythmias
-description: >-
-  Practical, kidney-safe hydration protocols tailored for air travel and road
-  trips, balancing fluid needs with sodium, potassium, and diuretic timing.
+description: 'Kidney-safe fluid plans for air travel — low cabin humidity accelerates fluid loss in adults with eGFR 30–59, raising arrhythmia risk with diuretic use.'
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: holiday travel hydration arrhythmia prevention
+updated: '2026-03-27'
+primaryKeyword: 'holiday travel hydration for stage 3 CKD on diuretics'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

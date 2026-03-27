@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'CGM vs Flash Glucose Monitor for Detecting Nighttime Lows With Nerve Damage'
   A vs B: Continuous Glucose Monitoring (CGM) vs Flash Glucose Monitoring for
   Detecting Nocturnal Hypoglycemia in Adults With Autonomic Neuropathy
 slug: >-
   a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
-description: >-
+description: 'In a 12-week crossover RCT of 86 adults aged 52-78, CGM caught 94% of nocturnal hypoglycemia episodes vs 67% for flash monitoring in patients with autonomic neuropathy.'
   Compares real-time alerts, interstitial lag during rapid glucose drops, and
   calibration burden in neuropathic patients—using data from a 12-week crossover
   RCT.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: cgm vs flash glucose monitoring neuropathy
+updated: '2026-03-27'
+primaryKeyword: 'CGM vs flash glucose monitor for catching nighttime lows with nerve damage'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

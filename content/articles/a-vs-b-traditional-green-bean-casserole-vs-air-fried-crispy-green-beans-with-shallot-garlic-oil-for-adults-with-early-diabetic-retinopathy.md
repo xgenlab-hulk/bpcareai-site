@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Green Bean Casserole vs Air-Fried Green Beans for Protecting Diabetic Eyesight'
   A vs B: Traditional Green Bean Casserole vs Air-Fried Crispy Green Beans With
   Shallot-Garlic Oil for Adults With Early Diabetic Retinopathy
 slug: >-
   a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
-description: >-
+description: 'Traditional casseroles generate more advanced glycation end-products (AGEs) and acrylamide. Air-frying preserves flavonoids shown to protect retinal pericytes, reducing 2-hour inflammatory markers.'
   Compares advanced glycation end-product (AGE) formation, acrylamide risk, and
   retinal-protective flavonoid bioavailability in two preparation methods—plus
   real-world blood glucose and inflammatory marker differences measured 2 hours
   post-consumption.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: "diabetes management seniors"
+updated: '2026-03-27'
+primaryKeyword: 'green bean casserole vs air-fried green beans for diabetic eye health'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

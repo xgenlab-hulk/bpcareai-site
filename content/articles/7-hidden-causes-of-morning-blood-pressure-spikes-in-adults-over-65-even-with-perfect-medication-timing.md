@@ -1,13 +1,13 @@
 ---
-title: Your BP Spikes Every Morning Despite Perfect Meds? (65+)
+title: 'Why Blood Pressure Spikes Every Morning Despite Medication After 65'
 slug: morning-bp-spikes-despite-meds-65
-description: >-
+description: 'Morning BP surges hit 60% of adults 65+ despite perfect medication timing. 7 hidden causes—cortisol, sleep apnea, sodium retention—plus targeted solutions.'
   Morning BP surges hit 60% of adults 65+ even with ideal medication timing.
   Discover 7 hidden causes—sodium retention, sleep apnea, cortisol—plus proven
   fixes.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: morning bp spikes despite meds over 65
+updated: '2026-03-27'
+primaryKeyword: 'why does BP spike every morning even with medication'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

@@ -1,15 +1,15 @@
 ---
-title: >-
+title: 'Atrial Fibrillation vs Holiday Heart Syndrome: Key Differences to Know'
   Atrial Fibrillation vs Holiday Heart Syndrome: Key Differences Everyone Should
   Know
 slug: >-
   atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
-description: >-
+description: 'True AFib increases stroke risk 5-fold and is often structural. Holiday heart syndrome typically resolves in 24-48 hours if alcohol stops, but 2-3 drinks can trigger it in susceptible adults over 50.'
   Compare and contrast true AFib with alcohol-induced transient arrhythmias to
   help readers understand diagnosis and prognosis.
 date: '2025-12-13'
-updated: '2025-12-13'
-primaryKeyword: AFib vs holiday heart syndrome
+updated: '2026-03-27'
+primaryKeyword: 'difference between AFib and holiday heart syndrome'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

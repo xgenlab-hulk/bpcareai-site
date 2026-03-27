@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Morning vs Evening Light Therapy for Advanced Sleep Phase Syndrome After 65'
   A vs B: Bright-Light Therapy at 7 a.m. vs 5 p.m. for Older Adults With
   Advanced Sleep Phase Syndrome
 slug: >-
   a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
-description: >-
+description: 'For adults over 65 who wake at 4 AM (ASPS), standard 7 AM light boxes reinforce early waking. Evening 5 PM light delays melatonin onset and shifts the sleep window back effectively.'
   Compares timing efficacy, melatonin suppression data, and adherence rates in
   early-morning sleepers over 65—highlighting how chronotype modifies SAD
   treatment response.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: morning vs evening light therapy for ASPS
+updated: '2026-03-27'
+primaryKeyword: 'morning vs evening light therapy for advanced sleep phase syndrome seniors'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

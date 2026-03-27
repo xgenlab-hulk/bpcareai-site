@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can Hearing Aid Bluetooth Affect Morning Blood Pressure After 73?'
   7 Hidden Ways Your Hearing Aid’s Bluetooth Streaming Affects Baroreceptor
   Sensitivity — Especially During Morning Blood Pressure Spikes in Adults 73+
 slug: >-
   7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73
-description: >-
+description: 'Bluetooth hearing aids modulate vagal tone (baroreceptor sensitivity) in adults 73+. 7 ways wireless streaming may interact with morning blood pressure spikes.'
   Investigates electromagnetic and acoustic modulation effects of wireless
   hearing devices on vagal tone and morning hypertension surges in older adults
   with sensorineural hearing loss.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: hearing aids and morning blood pressure spikes
+updated: '2026-03-27'
+primaryKeyword: 'hearing aids and morning BP spikes in adults over 70'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

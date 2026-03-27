@@ -1,13 +1,13 @@
 ---
-title: >-
+title: '12 Foods That Slow Blood Vessel Aging Beyond Just Lowering BP After 60'
   Your Blood Vessels Aging Too Fast? (Foods That Help Ages 60+)
 slug: >-
   foods-slow-blood-vessel-aging-60
-description: >-
+description: 'Black garlic reduces senescent endothelial cells (aging vessel lining) by 28% in adults 60+. These 12 foods target vessel aging, not just blood pressure.'
   Worried about stiff arteries and high BP? Discover 12 foods that delay vascular aging—black garlic, germinated rice, low-AGE chickpeas—proven to boost telomerase activity and improve endothelial function for adults 60+.
 date: '2026-02-28'
-updated: '2026-02-28'
-primaryKeyword: foods slow blood vessel aging seniors
+updated: '2026-03-27'
+primaryKeyword: 'foods that slow blood vessel aging after 60'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

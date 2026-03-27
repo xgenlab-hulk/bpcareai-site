@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Holiday Heart Syndrome With Controlled Hypertension—7 Triggers'
   7 Hidden Triggers of Holiday Heart Syndrome in Adults With Controlled
   Hypertension—And How to Neutralize Them Before Christmas Eve
 slug: >-
   7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
-description: >-
+description: '60% of holiday arrhythmias hit adults with controlled hypertension, not heavy drinkers. 7 non-alcoholic holiday heart syndrome triggers with prevention tips.'
   Explores lesser-known, non-alcoholic triggers—like overnight sodium retention,
   disrupted melatonin rhythms, and post-prandial vagal surges—that can
   destabilize cardiac rhythm in otherwise stable hypertensive adults 55–79.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: holiday heart syndrome triggers in hypertensive adults
+updated: '2026-03-27'
+primaryKeyword: 'holiday heart syndrome with controlled hypertension'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

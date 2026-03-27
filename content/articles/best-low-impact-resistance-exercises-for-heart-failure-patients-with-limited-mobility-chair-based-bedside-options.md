@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Low-Impact Resistance Exercises for Heart Failure Patients With Limited
-  Mobility (Chair-Based & Bedside Options)
+title: 'Chair-Based Resistance Exercises for Heart Failure Patients'
 slug: >-
   best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
-description: >-
-  Science-backed, cardiologist-approved strength routines using resistance bands
-  and bodyweight—designed specifically for NYHA Class II–III patients who
-  fatigue easily.
+description: 'Seated band routines for NYHA Class II–III patients — low-load programs improved 6-minute walk distance by 42 meters in a 2022 heart failure meta-analysis.'
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: low impact resistance exercises heart failure
+updated: '2026-03-27'
+primaryKeyword: 'low-impact resistance exercises for heart failure patients'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

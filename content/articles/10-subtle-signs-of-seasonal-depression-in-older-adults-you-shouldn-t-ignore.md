@@ -1,13 +1,13 @@
 ---
-title: 10 Subtle Signs of Seasonal Depression in Older Adults You Shouldn’t Ignore
+title: '10 Subtle Signs of Seasonal Depression in Older Adults Worth Watching'
 slug: 10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
-description: >-
+description: 'Seasonal mood disorder affects 15% of adults over 65 but is misread as aging. Ten signs distinguish it from typical winter low mood (affective seasonality).'
   This article highlights early and often-overlooked symptoms of seasonal
   affective disorder in seniors, helping caregivers and family recognize warning
   cues.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: signs of seasonal depression in seniors
+updated: '2026-03-27'
+primaryKeyword: 'early signs of seasonal depression in seniors'
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

@@ -1,9 +1,9 @@
 ---
-title: 'Mini Holiday Treats Are Hiding Dangerous Sodium for Adults 69+'
+title: '14 Sodium Traps in Mini Holiday Treats for Adults With Hypertension'
   Mini Treats Spiking Your BP? (14 Sodium Traps Adults 69+)
 slug: >-
   mini-treats-spike-bp-sodium-traps-69
-description: 'One mini muffin hides 200-400mg sodium. Five bites hits half your daily limit with salt-sensitive high blood pressure (hypertension), spiking systolic 3-7 mmHg.'
+description: 'One mini muffin hides 200-400 mg sodium. Five bites hits half the daily limit for salt-sensitive high blood pressure (hypertension), spiking systolic 3-7 mmHg.'
   Mini treats raising your BP? Discover 14 hidden sodium traps in holiday bites, exact mg per piece, and safe swaps that prevent 3-7 mm Hg spikes—essential for salt-sensitive adults 69+.
 date: '2026-01-16'
 updated: '2026-03-27'

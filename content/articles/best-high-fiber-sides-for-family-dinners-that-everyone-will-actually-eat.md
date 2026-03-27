@@ -1,12 +1,10 @@
 ---
-title: Best High-Fiber Sides for Family Dinners That Everyone Will Actually Eat
+title: 'High-Fiber Family Dinner Sides Everyone Will Actually Eat After 50'
 slug: best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
-description: >-
-  Highlights fiber-rich, crowd-pleasing dishes that support digestive and
-  metabolic health without sacrificing taste or tradition.
+description: 'Crowd-pleasing fiber dishes that support blood pressure and blood sugar — adding 7 grams of daily fiber links to 7% lower hypertension risk in adults over 50.'
 date: '2025-11-29'
-updated: '2025-11-29'
-primaryKeyword: "health management seniors"
+updated: '2026-03-27'
+primaryKeyword: 'high-fiber family dinner sides adults over 50'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  Best Low-Insulin-Burden Holiday Side Dishes for Adults 75+ With Severe
-  Peripheral Neuropathy and Slow Gastric Emptying
+title: 'Low-Insulin Holiday Sides for Neuropathy and Gastroparesis After 75'
 slug: >-
   best-low-insulin-burden-holiday-side-dishes-for-adults-75-with-severe-peripheral-neuropathy-and-slow-gastric-emptying
-description: >-
-  Features 5 clinically optimized side dishes — emphasizing resistant starch,
-  soluble fiber, low-FODMAP prep, and thermal stability — designed to minimize
-  glycemic load while supporting gastric motilin signaling and nerve nutrient
-  delivery.
+description: 'Resistant-starch, low-FODMAP sides that minimize glucose spikes and support motilin signaling — gastric motility (emptying speed) slows up to 30% after age 75.'
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: low insulin burden holiday sides neuropathy
+updated: '2026-03-27'
+primaryKeyword: 'low insulin burden sides for neuropathy and gastroparesis'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

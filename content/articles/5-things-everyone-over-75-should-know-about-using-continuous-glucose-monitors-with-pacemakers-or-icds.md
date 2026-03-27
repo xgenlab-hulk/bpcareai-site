@@ -1,11 +1,11 @@
 ---
-title: CGM With Pacemaker After 75? (Your Complete Safety Guide)
+title: 'Using a CGM Safely With a Pacemaker or ICD After 75'
 slug: cgm-pacemaker-safety-75-plus
-description: >-
+description: 'CGM sensors output under 0.01 mW—below FDA thresholds for cardiac device (pacemaker) interference. Five safety checks for adults 75+ using both devices.'
   Using CGM with pacemaker after 75? Discover 3 critical sensor placement zones, FDA-cleared models with zero interference reports, and exact distance rules—prevent device conflicts today.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: cgm pacemaker safety seniors 75 plus
+updated: '2026-03-27'
+primaryKeyword: 'is CGM safe with a pacemaker or ICD after 75'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

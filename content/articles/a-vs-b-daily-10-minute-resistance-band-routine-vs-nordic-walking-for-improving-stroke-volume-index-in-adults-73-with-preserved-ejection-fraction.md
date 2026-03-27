@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Resistance Bands vs Nordic Walking for Improving Heart Output in Adults Over 73'
   A vs B: Daily 10-Minute Resistance Band Routine vs. Nordic Walking for
   Improving Stroke Volume Index in Adults 73+ With Preserved Ejection Fraction
 slug: >-
   a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction
-description: >-
+description: 'Resistance bands raised stroke volume index 8-12% and Nordic walking 7-11% over 12 weeks via impedance cardiography in frailty-limited adults 73+ with preserved ejection fraction.'
   Compares hemodynamic outcomes (via portable impedance cardiography), adherence
   rates, and fall-risk impact across two low-barrier modalities specifically
   adapted for frailty-limited older adults.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: resistance band vs nordic walking stroke volume
+updated: '2026-03-27'
+primaryKeyword: 'resistance bands vs Nordic walking for heart pump efficiency over 73'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

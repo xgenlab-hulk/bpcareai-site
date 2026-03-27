@@ -1,11 +1,11 @@
 ---
-title: Holiday Wine on GLP-1 Meds? (Hidden Timing Risks)
+title: 'Holiday Alcohol Risks on GLP-1 Medications Your Doctor May Not Mention'
 slug: glp1-holiday-alcohol-timing-risks
-description: >-
+description: 'GLP-1 agonists delay gastric emptying by 50%, shifting low blood sugar (hypoglycemia) risk to 3-6 hours post-drink—past when most people stop monitoring.'
   On GLP-1s and enjoying holiday drinks? Discover why delayed absorption changes hypoglycemia timing, 3 safety checks before sipping, and proven pairing strategies.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: glp1 holiday alcohol timing risks
+updated: '2026-03-27'
+primaryKeyword: 'holiday alcohol safety tips when taking GLP-1 medications'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

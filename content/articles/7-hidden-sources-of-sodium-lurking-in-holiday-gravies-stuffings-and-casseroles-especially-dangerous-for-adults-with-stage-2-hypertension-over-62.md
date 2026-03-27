@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Hidden Sodium in Holiday Gravy and Stuffing—Guide for Adults 62+'
   7 Hidden Sources of Sodium Lurking in Holiday Gravies, Stuffings, and
   Casseroles—Especially Dangerous for Adults With Stage 2 Hypertension Over 62
 slug: >-
   7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
-description: >-
+description: 'Holiday gravy packs 750 mg sodium; stuffing adds 600-900 mg. 7 hidden sodium sources in holiday cooking that exceed the 1,500 mg daily limit for adults 62+.'
   A deep-dive exposé of unexpected sodium hotspots in classic family gathering
   dishes, with label-reading tips and low-sodium swap strategies validated by
   ADA and AHA dietary guidelines.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: hidden sodium in holiday food hypertension
+updated: '2026-03-27'
+primaryKeyword: 'hidden sodium in holiday gravy stuffing and casseroles'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

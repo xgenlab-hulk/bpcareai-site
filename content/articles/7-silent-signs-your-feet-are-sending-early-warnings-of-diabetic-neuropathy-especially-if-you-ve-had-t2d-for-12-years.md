@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Foot Warning Signs of Diabetic Neuropathy After 10+ Years of T2D'
   7 Silent Signs Your Feet Are Sending Early Warnings of Diabetic Neuropathy —
   Especially If You’ve Had T2D for 12+ Years
 slug: >-
   7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
-description: >-
+description: '50% of adults with T2D lasting 10+ years develop peripheral neuropathy. 7 early foot warning signs of diabetic neuropathy to catch before pain begins after 60.'
   A clinically grounded guide to recognizing subtle, often-missed sensory and
   vascular changes in the feet that precede painful neuropathy—focused on adults
   60–75 with long-standing type 2 diabetes and preserved mobility.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: early signs diabetic neuropathy feet
+updated: '2026-03-27'
+primaryKeyword: 'early foot signs of diabetic neuropathy after 10 years'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

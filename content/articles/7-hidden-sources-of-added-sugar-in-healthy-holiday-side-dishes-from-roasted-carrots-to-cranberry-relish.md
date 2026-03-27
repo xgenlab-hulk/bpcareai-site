@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Added Sugar in Healthy Holiday Side Dishes—7 Sources for Adults 60+'
   7 Hidden Sources of Added Sugar in 'Healthy' Holiday Side Dishes—From Roasted
   Carrots to Cranberry Relish
 slug: >-
   7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
-description: >-
+description: 'Maple-glazed carrots and cranberry relish deliver 15-25 g added sugar per serving. 7 hidden sugar sources in holiday dishes affecting blood sugar in adults 60+.'
   Identifies surprising sugar culprits in seemingly wholesome holiday staples,
   with glycemic load comparisons and low-sugar preparation alternatives for
   adults 60+.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: hidden sugar holiday side dishes
+updated: '2026-03-27'
+primaryKeyword: 'added sugar hiding in healthy holiday side dishes'
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

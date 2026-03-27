@@ -1,14 +1,14 @@
 ---
-title: >-
+title: '10 Foods That Fight Holiday Fatigue for Adults With Chronic Exhaustion'
   Tired During Holidays? 10 Energy-Boosting Foods for Chronic Fatigue 57+
 slug: energy-foods-holiday-fatigue-chronic-fatigue-seniors
-description: >-
+description: 'Holiday stress degrades mitochondrial membrane potential in adults 57-74. These 10 foods reduce oxidative load and restore cellular energy (ATP) production.'
   Struggling with holiday fatigue? Discover 10 energy-boosting foods
   (pomegranate, eggs, mushrooms) proven to fight chronic fatigue in adults
   57-74. Simple timing tips included.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: foods for energy during holidays chronic fatigue
+updated: '2026-03-27'
+primaryKeyword: 'foods for energy during holiday stress with chronic fatigue'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '9 Foods That Protect Pancreatic Beta Cells During High-Carb Holiday Meals'
   9 Foods That Support Pancreatic Beta-Cell Resilience *During* High-Carb
   Holidays — Based on Human Islet Transcriptomics and Nrf2 Activation Studies
 slug: >-
   9-foods-that-support-pancreatic-beta-cell-resilience-during-high-carb-holidays-based-on-human-islet-transcriptomics-and-nrf2-activation-studies
-description: >-
+description: 'Black cumin, fermented black garlic, and roasted walnuts upregulate PDX1 and Nrf2 antioxidant genes in human islet cells under glucose stress, supporting insulin secretion.'
   Highlights specific phytonutrient-rich foods (e.g., black cumin seed,
   fermented black garlic, roasted walnuts) shown to upregulate PDX1, MAFA, and
   antioxidant genes in human beta cells under glucose stress.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: beta-cell resilience holiday foods
+updated: '2026-03-27'
+primaryKeyword: 'foods that protect pancreatic beta cells during high-carb holiday eating'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

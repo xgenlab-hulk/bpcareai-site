@@ -1,13 +1,13 @@
 ---
-title: >-
+title: 'Holiday Stress Spiking Your Blood Sugar? 7 Hidden Triggers Ages 58-65'
   Holiday Stress Spiking Your Blood Sugar? (7 Hidden Triggers 58-65)
 slug: >-
   holiday-stress-blood-sugar-spikes-58-65
-description: >-
+description: 'Anticipatory stress raises postprandial glucose 25-40 mg/dL in adults with insulin resistance. 7 non-food holiday triggers spiking blood sugar in adults 58-65.'
   Holiday stress raising blood sugar after meals? Discover 7 non-food triggers—gift wrapping, travel anxiety, family tension—that spike glucose in adults 58-65 with early insulin resistance. Test at-home today.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: holiday stress blood sugar spikes insulin resistance
+updated: '2026-03-27'
+primaryKeyword: 'holiday stress raising blood sugar with insulin resistance'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

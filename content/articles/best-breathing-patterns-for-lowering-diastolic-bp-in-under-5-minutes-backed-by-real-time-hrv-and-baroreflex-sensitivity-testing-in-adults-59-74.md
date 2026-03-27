@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Breathing Techniques That Lower Diastolic Blood Pressure in Under 5 Minutes'
   Best Breathing Patterns for Lowering Diastolic BP in Under 5 Minutes—Backed by
   Real-Time HRV and Baroreflex Sensitivity Testing in Adults 59–74
 slug: >-
   best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74
-description: >-
+description: 'Four protocols—box, resonant, cyclic sighing, and paced exhalation—reduced diastolic BP 4-8 mm Hg within 90-300 seconds in adults 59-74, measured via finger photoplethysmography.'
   Compares 4 evidence-based breathing protocols (box, resonant, cyclic sighing,
   paced exhalation) for immediate diastolic effect—measured via finger
   photoplethysmography.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: best breathing for diastolic blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'breathing techniques to lower diastolic blood pressure fast'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

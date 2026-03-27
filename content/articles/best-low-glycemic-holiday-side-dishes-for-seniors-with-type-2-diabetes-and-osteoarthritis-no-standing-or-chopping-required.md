@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Low-Glycemic Holiday Side Dishes for Seniors With Type 2 Diabetes *and*
-  Osteoarthritis (No Standing or Chopping Required)
+title: 'Low-Glycemic Holiday Sides for Type 2 Diabetes and Osteoarthritis'
 slug: >-
   best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
-description: >-
-  Features 4 fully prepped, no-cook or one-pot recipes optimized for glycemic
-  load *and* joint-friendly prep—designed for those with hand/wrist pain or
-  fatigue limiting kitchen stamina.
+description: 'No-chop, one-pot recipes that lower glycemic load and joint stress — elevated glucose drives AGEs that worsen cartilage breakdown in arthritic joints after 60.'
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: low-glycemic holiday sides arthritis
+updated: '2026-03-27'
+primaryKeyword: 'low-glycemic holiday sides for diabetes and osteoarthritis'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

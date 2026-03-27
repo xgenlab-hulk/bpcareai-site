@@ -1,18 +1,18 @@
 ---
-title: >-
+title: 'How to Adjust Basal Insulin Before a Holiday Party Using CGM Trend Data'
   When to Adjust Your Basal Insulin Dose *Before* the First Holiday Party — Not
   After — Using Pre-Event CGM Trend Analysis in Adults 59–68 With Variable
   Activity Levels
 slug: >-
   when-to-adjust-your-basal-insulin-dose-before-the-first-holiday-party-not-after-using-pre-event-cgm-trend-analysis-in-adults-59-68-with-variable-activity-levels
-description: >-
+description: 'Adults over 55 have up to 30% greater glucose swings after high-fat meals than younger adults. 72-hour pre-event CGM patterns reveal insulin sensitivity shifts before party-related dietary disruption.'
   Offers a proactive, data-driven framework for anticipatory insulin titration
   using 72-hour pre-holiday CGM patterns, meal composition logs, and anticipated
   activity disruption — shifting from reactive correction to predictive
   adaptation.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: basal insulin adjustment before holiday party
+updated: '2026-03-27'
+primaryKeyword: 'how to adjust basal insulin before a holiday party using CGM data'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

@@ -1,12 +1,12 @@
 ---
-title: 7 Hidden Winter Habits That Worsen Hypertension After 60
+title: '7 Winter Habits Raising Blood Pressure After 60—How to Stop Them'
 slug: 7-hidden-winter-habits-that-worsen-hypertension-after-60
-description: >-
+description: 'Cold weather raises systolic BP 3-5 mmHg; seniors walk 30-40% less in winter. 7 winter habits worsening hypertension after 60—with specific monitoring guidance.'
   Identifies common but overlooked seasonal behaviors—like reduced activity and
   holiday salt intake—that can silently elevate blood pressure in seniors.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: winter habits and blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'winter habits that raise blood pressure after 60'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Ankle Circles vs Calf Squeezes to Lower Central Pulse Pressure in Adults Over 71'
   A vs B: Morning 3-Minute Dynamic Ankle Circles vs. Evening 2-Minute Seated
   Calf Squeezes — Which More Consistently Lowers Central Pulse Pressure in
   Adults 71+ With High Aortic Stiffness?
 slug: >-
   a-vs-b-morning-3-minute-dynamic-ankle-circles-vs-evening-2-minute-seated-calf-squeezes-which-more-consistently-lowers-central-pulse-pressure-in-adults-71-with-high-aortic-stiffness
-description: >-
+description: 'Tonometry data in adults 71+ with aortic stiffness compares two micro-exercises on central pulse pressure—distinct from brachial BP—a measure of how hard the heart works against stiff arteries.'
   Compares two ultra-accessible, no-equipment vascular priming techniques
   head-to-head using tonometry data, focusing on central hemodynamics rather
   than brachial BP in very stiff arteries.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: ankle circles vs calf squeezes pulse pressure
+updated: '2026-03-27'
+primaryKeyword: 'ankle circles vs calf squeezes for central pulse pressure over 71'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

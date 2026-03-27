@@ -1,12 +1,10 @@
 ---
-title: Best Low-Impact Exercises for Managing Diabetes After 60
+title: 'Best Low-Impact Exercises for Managing Diabetes After 60'
 slug: best-low-impact-exercises-for-managing-diabetes-after-60
-description: >-
-  Discover safe and effective workouts that help control blood sugar without
-  straining aging joints.
+description: 'Joint-friendly workouts proven to lower HbA1c by 0.5–1.0% — consistent low-impact movement improves insulin sensitivity and cardiovascular resilience after 60.'
 date: '2025-12-03'
-updated: '2025-12-03'
-primaryKeyword: low-impact exercise for diabetes over 60
+updated: '2026-03-27'
+primaryKeyword: 'low-impact exercise for diabetes management after 60'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

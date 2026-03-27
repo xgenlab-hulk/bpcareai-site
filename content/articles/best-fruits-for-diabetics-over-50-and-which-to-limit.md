@@ -1,12 +1,12 @@
 ---
-title: Best Fruits for Diabetics Over 50 (And Which to Limit)
+title: 'Best Fruits for Diabetics Over 50 — And Which Ones to Limit'
 slug: best-fruits-for-diabetics-over-50-and-which-to-limit
-description: >-
+description: 'Berries raise glucose 20% less than tropical fruits in adults over 50. Low-GI options support glycemic control (PPG) without spiking insulin.'
   Discover low-glycemic fruits that support heart and metabolic health without
   spiking glucose.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: best fruits for diabetics over 50
+updated: '2026-03-27'
+primaryKeyword: 'best fruits for diabetics over 50 blood sugar'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

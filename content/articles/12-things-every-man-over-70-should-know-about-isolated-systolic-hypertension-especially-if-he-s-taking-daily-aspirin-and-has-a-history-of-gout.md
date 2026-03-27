@@ -1,15 +1,15 @@
 ---
-title: >-
+title: 'Isolated Systolic Hypertension in Men Over 70 With Gout and Aspirin'
   12 Things Every Man Over 70 Should Know About Isolated Systolic Hypertension —
   Especially If He's Taking Daily Aspirin and Has a History of Gout
 slug: >-
   12-things-every-man-over-70-should-know-about-isolated-systolic-hypertension-especially-if-he-s-taking-daily-aspirin-and-has-a-history-of-gout
-description: >-
+description: 'Daily aspirin raises uric acid 1-2 mg/dL in men over 70 with gout—and uric acid above 7 mg/dL worsens arterial stiffness (pulse wave velocity) and systolic BP.'
   Isolated systolic hypertension and gout? Learn ISH risks, aspirin's impact on
   uric acid, and drug interaction pitfalls—essential for men 70+ taking aspirin.
 date: '2026-02-15'
-updated: '2026-03-18'
-primaryKeyword: isolated systolic hypertension men 70 aspirin gout
+updated: '2026-03-27'
+primaryKeyword: 'isolated systolic hypertension with gout and aspirin at 70'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

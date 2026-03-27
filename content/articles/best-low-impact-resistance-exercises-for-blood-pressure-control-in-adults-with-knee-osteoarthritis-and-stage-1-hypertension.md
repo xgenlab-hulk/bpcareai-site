@@ -1,15 +1,11 @@
 ---
-title: >-
-  Best Low-Impact Resistance Exercises for Blood Pressure Control in Adults With
-  Knee Osteoarthritis and Stage 1 Hypertension
+title: 'Resistance Exercises for Knee Osteoarthritis and High Blood Pressure'
 slug: >-
   best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
-description: >-
-  Features isometric and partial-ROM strength protocols proven to lower central
-  aortic pressure without exacerbating joint load or synovial inflammation.
+description: 'Isometric moves that lower central aortic pressure without worsening joints — nearly 43% of adults over 60 have knee osteoarthritis alongside hypertension.'
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: low-impact resistance exercise knee osteoarthritis
+updated: '2026-03-27'
+primaryKeyword: 'resistance exercises for knee osteoarthritis hypertension'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

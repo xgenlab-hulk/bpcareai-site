@@ -1,17 +1,17 @@
 ---
-title: >-
+title: '7 Holiday Foods Spiking Blood Sugar Without Tasting Sweet After 63'
   7 Holiday Foods That Spike Postprandial Glucose *Without* Tasting Sweet —
   Especially for Adults 63+ With Long-Standing Type 2 Diabetes
 slug: >-
   7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
-description: >-
+description: 'Stuffing and mashed potatoes spike postprandial glucose more than pie in adults 63+ with type 2 diabetes. 7 savory holiday foods with safer preparation methods.'
   Explores unexpectedly high-glycemic holiday staples like stuffing, mashed
   potatoes, and cranberry sauce — analyzing resistant starch loss, thermal
   gelatinization, and AGE formation — with glycemic index comparisons and safer
   preparation alternatives.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: holiday foods that spike blood sugar
+updated: '2026-03-27'
+primaryKeyword: 'holiday foods that spike blood sugar without tasting sweet'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

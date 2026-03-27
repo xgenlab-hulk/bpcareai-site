@@ -1,12 +1,10 @@
 ---
-title: Best Non-Alcoholic Holiday Drinks for Heart Health After 50
+title: 'Best Non-Alcoholic Holiday Drinks for Heart Health After 50'
 slug: best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-description: >-
-  Recommend flavorful, heart-safe beverage alternatives that support
-  cardiovascular stability during festive gatherings.
+description: 'Heart-safe festive drinks that avoid sugar spikes and rhythm disruption — up to 35% of new AFib cases in older adults are linked to holiday alcohol use.'
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: non-alcoholic drinks heart health
+updated: '2026-03-27'
+primaryKeyword: 'non-alcoholic holiday drinks for heart health after 50'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

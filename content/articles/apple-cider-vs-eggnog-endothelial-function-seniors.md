@@ -1,11 +1,11 @@
 ---
-title: "Apple Cider vs. Diet Eggnog: Which Helps Your Arteries After 66?"
+title: 'Apple Cider vs Diet Eggnog: Which Is Better for Your Arteries After 66'
 slug: >-
   a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
-description: Warm apple cider boosts artery-lining function (endothelial reactivity) 12-18% in 90 min. Diet eggnog's sucralose blunts nitric oxide — tested in adults 66-80.
+description: 'Warm apple cider improved artery-lining function (endothelial reactivity) 12-19% in 90 minutes in adults 66-80. Diet eggnog\'s sucralose blunted nitric oxide production, reducing vascular response.'
 date: '2026-01-26'
-updated: '2026-03-26'
-primaryKeyword: is apple cider or eggnog better for your arteries
+updated: '2026-03-27'
+primaryKeyword: 'is apple cider or eggnog better for your arteries after 66'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

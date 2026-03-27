@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best High-Fiber, Low-Residue Holiday Sides for Seniors With Diverticulosis or
-  IBS
+title: 'High-Fiber Low-Residue Holiday Sides for Seniors With IBS'
 slug: >-
   best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
-description: >-
-  Evidence-based recipe adaptations (e.g., peeled roasted carrots, refined grain
-  stuffing) that balance fiber needs with digestive tolerance during high-fat,
-  high-fiber holiday meals.
+description: 'Cooked carrots and peeled squash deliver soluble fiber without roughage — diverticulosis affects 65% of adults over 60, making food texture critical.'
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: high-fiber low-residue holiday sides
+updated: '2026-03-27'
+primaryKeyword: 'high-fiber low-residue holiday sides for seniors'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

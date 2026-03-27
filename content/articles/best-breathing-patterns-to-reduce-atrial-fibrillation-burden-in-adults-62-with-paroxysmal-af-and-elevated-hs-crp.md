@@ -1,16 +1,16 @@
 ---
-title: 'Breathing Exercises That Calm AFib Episodes in Adults Over 62'
+title: 'Breathing Exercises That Reduce Atrial Fibrillation Episodes in Adults Over 62'
   Best Breathing Patterns to Reduce Atrial Fibrillation Burden in Adults 62+
   With Paroxysmal AF and Elevated hs-CRP
 slug: >-
   best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
-description: 'Paced breathing at 5.5/min for 10 min/day cuts irregular heartbeat episodes (paroxysmal AFib) 27% over 8 weeks in adults 62+ with inflammation above 3 mg/L.'
+description: 'Paced breathing at 5.5 breaths per minute for 10 minutes daily cut paroxysmal AFib burden 27% over 8 weeks in adults 62+ with inflammation (hs-CRP above 3 mg/L) by boosting vagal tone.'
   Analyzes evidence-backed respiratory cadences (e.g., 4-7-8, resonant
   frequency, paced exhalation) that modulate vagal tone, atrial inflammation,
   and AF recurrence — including device-guided vs. self-paced efficacy.
 date: '2026-01-16'
 updated: '2026-03-27'
-primaryKeyword: 'breathing exercises to reduce atrial fibrillation episodes'
+primaryKeyword: 'breathing exercises to reduce atrial fibrillation episodes over 62'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

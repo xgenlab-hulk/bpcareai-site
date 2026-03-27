@@ -1,17 +1,11 @@
 ---
-title: >-
-  Best High-Fiber, Low-Sodium Side Dishes for Diabetic Seniors Who Can’t Chew
-  Hard Foods
+title: 'Soft High-Fiber Low-Sodium Sides for Diabetic Seniors After 70'
 slug: >-
   best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
-description: >-
-  Curated list of soft-textured, fiber-rich sides (like lentil mash, roasted
-  squash purée, and oat-based stuffing) that meet ADA sodium limits (<1,500
-  mg/day) and dental/texture needs for adults 70+ with dentures, dysphagia, or
-  xerostomia.
+description: 'Lentil mash and oat stuffing stay under 1,500 mg/day sodium (ADA limit) while easing chewing — soluble fiber slows glucose absorption in older adults.'
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: high-fiber low-sodium soft side dishes seniors
+updated: '2026-03-27'
+primaryKeyword: 'soft high-fiber low-sodium sides for diabetic seniors'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

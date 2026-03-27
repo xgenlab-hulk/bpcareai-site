@@ -1,17 +1,17 @@
 ---
-title: >-
+title: '9 Steps to Adjust CPAP Humidifier Settings Without Raising Nighttime Blood Pressure'
   9 Simple Steps to Adjust Your CPAP Humidifier Settings *Without* Raising
   Overnight Systolic Pressure — For Adults 67+ With OSA and Nocturnal
   Hypertension
 slug: >-
   9-simple-steps-to-adjust-your-cpap-humidifier-settings-without-raising-overnight-systolic-pressure-for-adults-67-with-osa-and-nocturnal-hypertension
-description: >-
+description: 'Up to 40% of older adults with sleep apnea (OSA) have non-dipping BP overnight. Dry airway triggers sympathetic activation—proper humidification keeps nocturnal pressure stable.'
   Provides evidence-based humidification protocols that prevent airway
   drying-induced sympathetic activation and avoid inadvertent BP elevation
   during PAP therapy.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: cpap humidifier settings and nocturnal bp
+updated: '2026-03-27'
+primaryKeyword: 'how to set CPAP humidifier to avoid raising nighttime blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

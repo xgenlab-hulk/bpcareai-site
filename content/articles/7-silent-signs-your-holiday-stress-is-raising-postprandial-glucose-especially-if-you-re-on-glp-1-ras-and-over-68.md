@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Silent Signs Holiday Stress Is Raising Your Blood Sugar on GLP-1 After 68'
   7 Silent Signs Your Holiday Stress Is Raising Postprandial Glucose—Especially
   If You’re on GLP-1 RAs and Over 68
 slug: >-
   7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
-description: >-
+description: 'Holiday cortisol surges increase 15-20% in adults over 65, overriding GLP-1 therapy and spiking post-meal glucose 3-4 hours after eating instead of the usual 1-2.'
   Identifies non-obvious physiological markers (e.g., delayed gastric emptying
   perception, nocturnal cortisol surges, pupil dilation changes) linked to
   stress-induced hyperglycemia in older GLP-1 users.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: holiday stress postprandial glucose GLP-1 RA
+updated: '2026-03-27'
+primaryKeyword: 'holiday stress raising blood sugar while on GLP-1 over 68'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

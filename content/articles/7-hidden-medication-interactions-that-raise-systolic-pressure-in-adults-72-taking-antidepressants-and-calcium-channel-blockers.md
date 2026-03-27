@@ -1,13 +1,13 @@
 ---
-title: Antidepressants Raising Your Systolic BP? (Adults 72+)
+title: 'Antidepressants Raising Your BP? 7 Interactions in Adults 72+'
 slug: ssri-calcium-blocker-bp-spikes-72
-description: >-
+description: 'SSRIs with amlodipine slow CYP3A4, raising systolic BP 5-15 mmHg in adults 72+. 7 antidepressant and calcium channel blocker interactions with management tips.'
   On SSRIs and amlodipine? Learn 7 hidden interactions that raise systolic BP
   5–15 mm Hg—plus dose spacing tricks and baroreflex fixes essential for adults
   72+.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: antidepressant bp interaction seniors
+updated: '2026-03-27'
+primaryKeyword: 'antidepressants raising BP with calcium channel blockers'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

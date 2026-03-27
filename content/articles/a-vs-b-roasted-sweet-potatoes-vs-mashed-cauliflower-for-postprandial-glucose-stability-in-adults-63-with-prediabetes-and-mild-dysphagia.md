@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Roasted Sweet Potatoes vs Mashed Cauliflower for Blood Sugar With Swallowing Issues'
   A vs B: Roasted Sweet Potatoes vs. Mashed Cauliflower for Postprandial Glucose
   Stability in Adults 63+ With Prediabetes and Mild Dysphagia
 slug: >-
   a-vs-b-roasted-sweet-potatoes-vs-mashed-cauliflower-for-postprandial-glucose-stability-in-adults-63-with-prediabetes-and-mild-dysphagia
-description: >-
+description: 'For adults 63+ with prediabetes and mild dysphagia, mashed cauliflower has a lower glycemic index but less beta-carotene than sweet potatoes. Texture and nutrient density both matter.'
   Compares glycemic index, chewing effort, gastric retention time, and
   micronutrient bioavailability between two popular holiday starch
   alternatives—tailored for early swallowing changes.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: roasted sweet potatoes vs mashed cauliflower seniors
+updated: '2026-03-27'
+primaryKeyword: 'roasted sweet potatoes vs mashed cauliflower for blood sugar with swallowing issues'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

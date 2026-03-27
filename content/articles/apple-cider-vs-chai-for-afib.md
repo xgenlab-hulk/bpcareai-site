@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Warm Apple Cider vs Decaf Chai for Atrial Fibrillation Risk in Adults Over 64'
   A vs B: Warm Spiced Apple Cider (Unfiltered) vs. Decaf Chai Latte (Oat Milk)
   for Atrial Fibrillation Risk Mitigation in Adults 64+ With Mild Left Atrial
   Enlargement
 slug: >-
   a-vs-b-warm-spiced-apple-cider-unfiltered-vs-decaf-chai-latte-oat-milk-for-atrial-fibrillation-risk-mitigation-in-adults-64-with-mild-left-atrial-enlargement
-description: >-
+description: 'Echocardiographic strain data from adults 64+ with left atrial enlargement (LAE) compares polyphenol bioavailability and endothelial NO modulation—key factors in AFib susceptibility.'
   Directly compares two popular holiday beverages across polyphenol
   bioavailability, endothelial NO modulation, and atrial stretch signaling —
   using echocardiographic strain data as the decision framework.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: apple cider vs chai for afib
+updated: '2026-03-27'
+primaryKeyword: 'warm apple cider vs decaf chai for atrial fibrillation risk after 64'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

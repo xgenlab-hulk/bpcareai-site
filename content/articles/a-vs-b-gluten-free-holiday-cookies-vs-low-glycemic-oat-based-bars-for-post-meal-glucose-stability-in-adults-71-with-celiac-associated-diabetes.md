@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Gluten-Free Cookies vs Oat Bars for Blood Sugar Stability With Celiac Diabetes'
   A vs B: Gluten-Free Holiday Cookies vs. Low-Glycemic Oat-Based Bars for
   Post-Meal Glucose Stability in Adults 71+ With Celiac-Associated Diabetes
 slug: >-
   a-vs-b-gluten-free-holiday-cookies-vs-low-glycemic-oat-based-bars-for-post-meal-glucose-stability-in-adults-71-with-celiac-associated-diabetes
-description: >-
+description: 'CGM data in adults 71+ with celiac-associated diabetes shows oat bars\' beta-glucan fiber slows glucose absorption, while gluten-free cookies often spike glucose like regular cookies.'
   Directly compares two popular 'healthier' holiday snack options using
   continuous glucose monitoring (CGM) data from older adults with dual
   diagnoses, factoring in fiber solubility, starch retrogradation, and gastric
   emptying time.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: gluten-free cookies vs oat bars diabetes
+updated: '2026-03-27'
+primaryKeyword: 'gluten-free cookies vs oat bars for blood sugar stability with celiac diabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

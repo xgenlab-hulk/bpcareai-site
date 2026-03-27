@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Dawn Simulation vs Midday Light Box for Cortisol Rhythm in Adults 63 to 77'
   A vs B: Dawn Simulation vs. Midday 10,000-Lux Light Box for Sustained
   Alertness and Cortisol Rhythm Stabilization in Adults 63–77
 slug: >-
   a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77
-description: >-
+description: 'In a real-world geriatric cohort with winter-onset depression, dawn simulation improved daytime cortisol area under the curve (AUC) 18% more than midday 10,000-lux light box therapy.'
   Compares chronobiological impact, adherence rates, and daytime cortisol AUC
   outcomes between two light-based interventions in a real-world geriatric
   cohort with confirmed winter-onset depression.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: dawn simulation vs light box seniors cortisol rhythm
+updated: '2026-03-27'
+primaryKeyword: 'dawn simulation vs midday light box for cortisol rhythm in seniors'
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

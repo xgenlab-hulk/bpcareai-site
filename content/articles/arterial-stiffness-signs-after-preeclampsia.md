@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Early Signs of Artery Stiffness in Women Over 63 After Preeclampsia'
   What Are the Earliest Signs of Arterial Stiffness Before BP Rises — Especially
   in Women Over 63 With a History of Preeclampsia and Now on Aromatase
   Inhibitors?
 slug: >-
   what-are-the-earliest-signs-of-arterial-stiffness-before-bp-rises-especially-in-women-over-63-with-a-history-of-preeclampsia-and-now-on-aromatase-inhibitors
-description: >-
+description: 'Up to 30% of women with prior preeclampsia show elevated pulse wave velocity (PWV) with normal BP readings. Aromatase inhibitors accelerate vascular aging by suppressing residual estrogen.'
   Focuses on subclinical markers (pulse wave velocity, augmentation index,
   retinal arteriolar narrowing) and hormonal drivers of accelerated vascular
   aging in this high-risk cohort.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: arterial stiffness signs after preeclampsia
+updated: '2026-03-27'
+primaryKeyword: 'early signs of artery stiffness in women after preeclampsia on aromatase inhibitors'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,13 +1,13 @@
 ---
-title: >-
+title: '12 Ways to Lower Pulse Pressure Without More Medication After 75'
   Wide Pulse Pressure After 75? (ISH Action Plan)
 slug: >-
   pulse-pressure-ish-seniors-75
-description: >-
+description: 'Pulse pressure over 60 mmHg in adults 75+ with isolated systolic hypertension triples stroke risk. Twelve strategies reduce arterial stiffness (vascular aging).'
   Pulse pressure above 65? Get 12 proven ways to improve arterial flexibility in isolated systolic hypertension—flavonoid timing, gentle resistance, oxygen support (seniors 75+).
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: pulse pressure isolated systolic hypertension seniors
+updated: '2026-03-27'
+primaryKeyword: 'lower pulse pressure with systolic hypertension at 75'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

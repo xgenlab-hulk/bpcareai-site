@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Low-Sodium, High-Flavor Herbs and Spices for Holiday Cooking—Clinically
-  Vetted for Adults With Heart Failure and Hyponatremia Risk
+title: 'Low-Sodium Herbs for Holiday Cooking With Heart Failure Risk'
 slug: >-
   best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
-description: >-
-  A curated list of sodium-free seasonings (with preparation tips and
-  contraindications) that enhance palatability *without* triggering thirst,
-  fluid retention, or interfering with vasopressin regulation.
+description: 'Rosemary, fennel, and basil add flavor without triggering thirst — up to 30% of heart failure patients develop hyponatremia (serum sodium under 135 mmol/L).'
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: low-sodium herbs heart failure hyponatremia
+updated: '2026-03-27'
+primaryKeyword: 'low-sodium herbs for heart failure and hyponatremia risk'
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

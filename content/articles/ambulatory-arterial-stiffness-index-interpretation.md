@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'How to Interpret Your Ambulatory Arterial Stiffness Index From a Home BP Monitor'
   The Complete Guide to Interpreting *Ambulatory Arterial Stiffness Index
   (AASI)* From Home BP Monitors That Support It — What It Reveals About
   Microvascular Health in Adults 60–72
 slug: >-
   the-complete-guide-to-interpreting-ambulatory-arterial-stiffness-index-aasi-from-home-bp-monitors-that-support-it-what-it-reveals-about-microvascular-health-in-adults-60-72
-description: >-
+description: 'AASI (derived from 24-hour diastolic-systolic regression slope) reveals small-vessel disease risk invisible to standard BP readings—now estimable with validated home oscillometric monitors.'
   Teaches users how to extract and clinically interpret AASI (derived from 24-hr
   diastolic–systolic regression slope) as a surrogate marker for small-vessel
   disease progression.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: ambulatory arterial stiffness index interpretation
+updated: '2026-03-27'
+primaryKeyword: 'how to interpret ambulatory arterial stiffness index from home BP monitor'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

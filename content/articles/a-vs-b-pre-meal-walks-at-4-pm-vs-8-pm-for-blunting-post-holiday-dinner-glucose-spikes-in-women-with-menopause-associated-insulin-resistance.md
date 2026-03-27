@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Best Time to Walk Before Dinner to Lower Blood Sugar After Menopause'
   A vs B: Pre-Meal Walks at 4 PM vs. 8 PM for Blunting Post-Holiday-Dinner
   Glucose Spikes in Women With Menopause-Associated Insulin Resistance
 slug: >-
   a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
-description: >-
+description: 'In 59 postmenopausal women, a 4 PM pre-meal walk reduced post-dinner glucose area under the curve more than an 8 PM walk by boosting adiponectin and suppressing hepatic glucose output.'
   Compares acute glucose AUC reduction, adiponectin response, and hepatic
   glucose output suppression between early vs. late pre-dinner activity windows
   in 59 postmenopausal women.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: pre-meal walk timing postprandial glucose women
+updated: '2026-03-27'
+primaryKeyword: 'pre-dinner walk timing to lower blood sugar in menopausal women'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Silent Signs Your Holiday Meal Is Triggering Hidden Hypertension After 62'
   7 Silent Signs Your Holiday Meal Is Triggering Hidden Hypertension
   Fluctuations—Especially After Age 62
 slug: >-
   7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
-description: >-
+description: 'Facial flushing, morning fatigue, or post-meal brain fog can signal sodium- or alcohol-induced vascular stress (masked hypertension) in adults over 62. Up to 25% affected.'
   Subtle physiological cues (beyond BP readings) like facial flushing, morning
   fatigue, or post-meal brain fog that signal sodium- or alcohol-induced
   vascular stress in older adults.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: hidden hypertension signs after family meals
+updated: '2026-03-27'
+primaryKeyword: 'hidden hypertension signs after holiday meals over 62'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Herbal Chai vs Pomegranate Mocktail for Heart Rhythm in Women Over 70'
   A vs B: Warm Herbal Chai (Caffeine-Free) vs Sparkling Pomegranate Mocktail for
   Preventing Post-Meal Atrial Ectopy in Women Over 70
 slug: >-
   a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
-description: >-
+description: '2023 pilot RCTs in postmenopausal women showed caffeine-free chai and pomegranate mocktail differ in atrial refractoriness effects via polyphenol bioavailability and osmotic load differences.'
   Compares electrophysiologic impact of polyphenol bioavailability, osmotic
   load, and thermal stimulation on atrial refractoriness using data from 2023
   pilot RCTs in postmenopausal cohorts.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: herbal chai vs pomegranate mocktail for atrial ectopy
+updated: '2026-03-27'
+primaryKeyword: 'caffeine-free herbal chai vs pomegranate mocktail for heart rhythm after meals'
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

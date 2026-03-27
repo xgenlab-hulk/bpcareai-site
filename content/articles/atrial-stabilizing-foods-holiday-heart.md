@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Foods That Stabilize Heart Rhythm During the Holidays in Adults 57 to 71'
   12 Foods That *Stabilize* Atrial Electrophysiology — Not Just 'Heart-Healthy'
   — Including Fermented Kimchi, Roasted Walnuts, and Low-Histamine Pear Compote
   for Adults 57–71
 slug: >-
   12-foods-that-stabilize-atrial-electrophysiology-not-just-heart-healthy-including-fermented-kimchi-roasted-walnuts-and-low-histamine-pear-compote-for-adults-57-71
-description: >-
+description: 'Fermented kimchi, roasted walnuts, and low-histamine pear compote modulate connexin-40 expression and inward-rectifier potassium channels (IK1) to support atrial stability in aging hearts.'
   Highlights specific foods with documented effects on atrial connexin-40
   expression, potassium channel modulation, and mast-cell stabilization—curated
   for arrhythmia-prone aging atria.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: atrial-stabilizing foods holiday heart
+updated: '2026-03-27'
+primaryKeyword: 'foods that stabilize heart rhythm during the holidays for adults over 57'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

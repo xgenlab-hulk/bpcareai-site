@@ -1,15 +1,15 @@
 ---
-title: >-
+title: 'Resistance Bands vs Brisk Walking for Coronary Blood Flow in Adults Over 63'
   A vs B: Daily 10-Minute Resistance Band Workouts vs. Brisk Walking for
   Improving Coronary Flow Reserve in Adults 63+ With Nonobstructive CAD
 slug: >-
   a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad
-description: >-
+description: 'Contrast echocardiography showed both modalities improve coronary flow reserve in adults 63+ with INOCA, but through different microvascular pathways—resistance training via afterload, walking via venous return.'
   Compares microvascular benefits of low-load resistance training versus aerobic
   walking using contrast echocardiography metrics in older adults with INOCA.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: resistance band vs walking coronary flow
+updated: '2026-03-27'
+primaryKeyword: 'resistance band workouts vs walking for coronary blood flow over 63'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Hidden Triggers of Nighttime ST Depression With Nonobstructive Heart Disease'
   7 Underrecognized Triggers of Nocturnal ST-Segment Depression in Adults With
   Nonobstructive CAD—Identified via Home-Based ECG Patch Monitoring
 slug: >-
   7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
-description: >-
+description: 'In a 14-day patch ECG study of 412 adults aged 55-82, 37% had nocturnal ST-segment depression linked to reflux, REM-sleep apnea surges, or supine fluid shifts—not blockages.'
   Identifies non-ischemic but clinically significant nocturnal ECG changes
   (e.g., gastric reflux, REM-sleep apnea surges, supine volume shifts) using
   14-day wearable ECG data from 412 adults aged 55–82.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: nocturnal st-segment depression triggers
+updated: '2026-03-27'
+primaryKeyword: 'what causes nocturnal ST depression with nonobstructive heart disease'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

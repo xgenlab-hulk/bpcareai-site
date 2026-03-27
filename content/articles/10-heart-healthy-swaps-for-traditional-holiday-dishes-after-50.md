@@ -1,12 +1,12 @@
 ---
-title: 'Heart-Healthy Holiday Swaps: 10 Easy Ideas for Seniors 50+'
+title: '10 Heart-Healthy Swaps for Classic Holiday Dishes After 50'
 slug: heart-healthy-holiday-swaps-seniors-50
-description: >-
+description: 'Traditional holiday dishes average 1,200+ mg sodium. Ten easy swaps cut high blood pressure (hypertension) risk without sacrificing flavor after 50.'
   Discover 10 heart-healthy holiday swaps for seniors 50+—swap heavy cream for
   Greek yogurt, cut sodium by 300mg. Delicious recipes for better BP.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: heart-healthy holiday swaps for seniors over 50
+updated: '2026-03-27'
+primaryKeyword: 'heart healthy substitutes for holiday recipes after 50'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,11 @@
 ---
-title: Holiday Open House Safety for Diabetic Neuropathy (70+ Guide)
+title: 'Holiday Open House Safety for Adults Over 70 With Diabetic Neuropathy'
 slug: holiday-open-house-diabetic-neuropathy-70
-description: >-
+description: 'Diabetic neuropathy (nerve damage in feet) reduces fall-warning sensation by up to 60%. Five checks help adults over 70 navigate holiday gatherings safely.'
   Diabetic neuropathy at holiday events? Get 5 proven safety strategies—footwear protection, temperature risks, lighting needs, and fall prevention tips backed by ADA-ACR for adults 70+.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: holiday open house diabetic neuropathy 70
+updated: '2026-03-27'
+primaryKeyword: 'holiday safety tips for diabetic neuropathy over 70'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

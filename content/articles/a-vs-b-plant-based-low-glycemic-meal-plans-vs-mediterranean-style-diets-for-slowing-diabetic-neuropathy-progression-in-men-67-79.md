@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Plant-Based vs Mediterranean Diet for Slowing Nerve Damage in Men 67 to 79'
   A vs B: Plant-Based Low-Glycemic Meal Plans vs Mediterranean-Style Diets for
   Slowing Diabetic Neuropathy Progression in Men 67–79
 slug: >-
   a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79
-description: >-
+description: 'Over 6 months, both diets improved nerve conduction velocity and small-fiber density in men 67-79 with diabetic neuropathy, with plant-based showing slightly better oxidative stress reduction.'
   Compares two evidence-backed dietary patterns for nerve health
   outcomes—focusing on nerve conduction velocity, small-fiber density, and
   symptom burden over 6 months.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: plant-based vs mediterranean diet for diabetic neuropathy
+updated: '2026-03-27'
+primaryKeyword: 'plant-based vs Mediterranean diet for slowing diabetic nerve damage in men'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

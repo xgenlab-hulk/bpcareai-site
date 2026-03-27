@@ -1,13 +1,13 @@
 ---
-title: Best 5 Low-FODMAP Holiday Side Dishes for Seniors With IBS and GERD
+title: '5 Low-FODMAP Holiday Side Dishes for Seniors With IBS and Acid Reflux'
 slug: best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
-description: >-
+description: 'Gastric emptying slows 20-30% after 50, and up to 40% of seniors with chronic bloating meet IBS criteria. Roasted parsnips, quinoa-cranberry pilaf, and ginger-sweet potato purée avoid reflux triggers.'
   Features gastroenterologist-approved, gut-soothing recipes—including roasted
   parsnips, quinoa-cranberry pilaf, and ginger-sweet potato purée—that avoid
   reflux triggers and fermentable carbs.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: low-fodmap holiday sides seniors
+updated: '2026-03-27'
+primaryKeyword: 'low-FODMAP holiday side dishes for seniors with IBS and acid reflux'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

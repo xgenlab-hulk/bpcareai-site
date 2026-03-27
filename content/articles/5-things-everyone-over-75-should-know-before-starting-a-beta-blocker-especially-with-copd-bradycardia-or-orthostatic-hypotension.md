@@ -1,11 +1,11 @@
 ---
-title: Starting Beta-Blockers After 75? (COPD Safety Essentials)
+title: 'Starting Beta-Blockers After 75 With COPD, Bradycardia, or Low BP'
 slug: beta-blocker-safety-75-copd-bradycardia
-description: >-
+description: 'Non-selective beta-blockers worsen airway constriction (bronchoconstriction) in COPD and can drop heart rate below 50 bpm. Five criteria reduce harm at age 75+.'
   Starting beta-blockers after 75 with COPD or slow heart rate? Get 4 critical dosing rules, fall prevention tactics, and exact pulse thresholds to stop medication—avoid ER visits.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: beta-blocker safety 75 copd bradycardia
+updated: '2026-03-27'
+primaryKeyword: 'starting beta blockers safely with COPD after 75'
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

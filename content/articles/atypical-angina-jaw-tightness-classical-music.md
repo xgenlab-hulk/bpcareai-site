@@ -1,11 +1,11 @@
 ---
-title: "Left Jaw Tightness During Music? A Hidden Angina Sign After 59"
+title: 'Why Your Jaw Tightens During Music But Not Exercise: A Hidden Angina Sign'
 slug: >-
   what-causes-sudden-left-sided-jaw-tightness-only-while-listening-to-classical-music-through-bone-conduction-headphones-the-role-of-temporalis-muscle-activation-vagal-modulation-and-coronary-microvascular-dysfunction-in-adults-59-65-with-atypical-angina
-description: "Bone-conduction headphones trigger jaw clenching (temporalis activation), mimicking angina. Standard stress tests miss this in 40% of clear-artery cases."
+description: 'Bone-conduction headphones activate temporalis muscles and vagal tone shifts, mimicking cardiac referred pain. Standard stress tests miss coronary microvascular dysfunction (CMD) in 40% of cases.'
 date: '2026-02-10'
-updated: '2026-03-25'
-primaryKeyword: why does my jaw tighten during music but not exercise
+updated: '2026-03-27'
+primaryKeyword: 'why does my jaw tighten during music but not during exercise'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

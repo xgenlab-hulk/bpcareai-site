@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Understanding Your 24-Hour Blood Pressure Monitoring Report After 65'
   The Complete Guide to Interpreting Ambulatory Blood Pressure Monitoring
   Reports — Especially When 'Normal' 24-Hour Averages Hide Nocturnal
   Non-Dipping, Morning Surge, and Postprandial Lability in Adults 66+
 slug: >-
   the-complete-guide-to-interpreting-ambulatory-blood-pressure-monitoring-reports-especially-when-normal-24-hour-averages-hide-nocturnal-non-dipping-morning-surge-and-postprandial-lability-in-adults-66
-description: >-
+description: 'Normal 24-hour BP averages can mask nocturnal non-dipping, morning surge, and postprandial lability—all linked to stroke and cognitive decline risk in adults over 65.'
   Demystifies ABPM metrics beyond averages—teaching readers to identify
   clinically meaningful patterns invisible to office-based measurements.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: ambulatory blood pressure report interpretation
+updated: '2026-03-27'
+primaryKeyword: 'how to understand your ambulatory blood pressure monitoring report'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '7 Signs of Hidden Heart Failure in Women Over 65 Who Walk 10,000 Steps Daily'
   7 Unexpected Signs of Subclinical Heart Failure in Women Over 65 Who Still
   Walk 10,000 Steps Daily
 slug: >-
   7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
-description: >-
+description: 'Up to 60% of heart failure in older women is diastolic—the heart stiffens but pumps normally. Nocturnal polyuria and mild orthostatic tachycardia can appear years before diagnosis.'
   Identifies subtle, activity-resistant indicators—like unexplained nocturnal
   polyuria, persistent low-grade orthostatic tachycardia, and diminished thermal
   sweating—that precede echo-confirmed diastolic dysfunction.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: subclinical heart failure signs women over 65
+updated: '2026-03-27'
+primaryKeyword: 'signs of hidden heart failure in active women over 65'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
