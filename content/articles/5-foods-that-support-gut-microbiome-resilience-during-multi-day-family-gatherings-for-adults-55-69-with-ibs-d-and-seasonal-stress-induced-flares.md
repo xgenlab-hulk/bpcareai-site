@@ -1,10 +1,10 @@
 ---
-title: Holiday IBS-D Flares? (5 Foods That Stop Diarrhea 55-69)
+title: 'Holiday IBS-D Flares? 5 Foods That Calm Your Gut at 55-69'
 slug: holiday-ibs-d-foods-stop-diarrhea-55-69
-description: Holiday gatherings triggering IBS-D diarrhea? Get 5 proven foods that block stress-induced motilin spikes and bile surges—travel-friendly for adults 55-69.
+description: 'Holiday stress speeds gut motility 40% in diarrhea-type IBS (IBS-D). Five low-FODMAP foods help block flares during family gatherings, ages 55-69.'
 date: '2026-02-14'
-updated: '2026-03-18'
-primaryKeyword: holiday IBS-D foods stress diarrhea
+updated: '2026-03-27'
+primaryKeyword: 'foods to prevent IBS diarrhea during holidays'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

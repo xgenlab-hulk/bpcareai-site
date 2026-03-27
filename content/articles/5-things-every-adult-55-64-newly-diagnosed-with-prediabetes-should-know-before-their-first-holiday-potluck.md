@@ -1,11 +1,11 @@
 ---
-title: New Prediabetes at 55? How to Navigate Your First Holiday Potluck
+title: 'Prediabetes at 55-64? Navigate Holiday Potlucks Without Sugar Spikes'
 slug: >-
   prediabetes-holiday-potluck-55-64
-description: Fasting glucose 100-125 mg/dL flags borderline diabetes (prediabetes). One smart plate at a potluck cuts your post-meal spike 30%. Timing tips for ages 55-64.
+description: 'Fasting glucose 100-125 mg/dL flags borderline diabetes (prediabetes). A smart plate method cuts post-meal blood sugar spikes up to 30% at any holiday potluck.'
 date: '2026-01-27'
-updated: '2026-03-26'
-primaryKeyword: what to eat at a potluck with new prediabetes
+updated: '2026-03-27'
+primaryKeyword: 'what to eat at a holiday potluck with prediabetes'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

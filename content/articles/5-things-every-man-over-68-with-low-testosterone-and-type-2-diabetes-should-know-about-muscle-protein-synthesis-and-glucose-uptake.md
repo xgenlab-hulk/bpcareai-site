@@ -1,10 +1,10 @@
 ---
-title: Low T Weakening Muscles and Blood Sugar? Guide for Men 68+
+title: 'Low T and Diabetes Weakening Muscles? What Men 68+ Should Know'
 slug: low-testosterone-diabetes-muscle-men-68
-description: Low testosterone cuts muscle glucose uptake (GLUT4 translocation) by 20-30% in men 68+ with diabetes. Resistance bands and leucine timing rebuild it.
+description: 'Low testosterone cuts muscle sugar absorption (GLUT4 translocation) by 20-30% in men 68+ with diabetes. Resistance bands and leucine timing help rebuild it.'
 date: '2026-01-20'
-updated: 2026-03-26
-primaryKeyword: low testosterone diabetes muscle glucose men over 68
+updated: '2026-03-27'
+primaryKeyword: 'low testosterone diabetes muscle weakness men 68'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

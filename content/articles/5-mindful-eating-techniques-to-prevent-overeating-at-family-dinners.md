@@ -1,10 +1,10 @@
 ---
-title: Overeating at Family Dinners? (5 Techniques That Work Adults 50+)
+title: 'How to Stop Overeating at Family Dinners With 5 Mindful Eating Tips'
 slug: mindful-eating-family-dinners-50s
-description: Overeating at family gatherings? Discover 5 mindful eating techniques that stop automatic overeating and improve digestion—proven strategies for adults 50+.
+description: 'Family dinners mean 20% more calories on autopilot. 5 intentional eating (mindful eating) strategies help adults 50+ control portions and protect heart health.'
 date: '2025-12-03'
-updated: '2026-03-18'
-primaryKeyword: mindful eating family dinners adults 50
+updated: '2026-03-27'
+primaryKeyword: 'how to stop overeating at family dinners after 50'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

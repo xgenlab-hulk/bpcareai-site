@@ -1,11 +1,11 @@
 ---
-title: "Home BP Monitoring With Aortic Stenosis: 5 Mistakes After 74"
+title: 'Home BP Monitoring With Aortic Stenosis: 5 Mistakes After 74'
 slug: >-
   aortic-stenosis-bp-errors-74s
-description: A narrowed heart valve (aortic stenosis) makes wrist cuffs underread 10-20 mmHg. Arm-cuff sizing and pulse pressure under 60 mmHg prevent overtreating after 74.
+description: 'A narrowed heart valve (aortic stenosis) makes wrist cuffs underread 10-20 mmHg. Arm-cuff sizing and pulse pressure under 60 mmHg prevent overtreating after 74.'
 date: '2026-01-26'
-updated: '2026-03-26'
-primaryKeyword: home blood pressure monitoring with aortic stenosis
+updated: '2026-03-27'
+primaryKeyword: 'home blood pressure monitoring with aortic stenosis'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

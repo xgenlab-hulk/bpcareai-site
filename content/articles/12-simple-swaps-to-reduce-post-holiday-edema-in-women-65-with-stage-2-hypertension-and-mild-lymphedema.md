@@ -1,11 +1,11 @@
 ---
-title: "Women 65+: 12 Kitchen Swaps to Ease Post-Holiday Swelling"
+title: 'Ankles Swollen After the Holidays? 12 Kitchen Swaps for Women 65+'
 slug: >-
   12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema
-description: Holiday sodium worsens ankle puffiness (edema) in women with high BP. These 12 swaps cut sodium 40-60% without losing flavor — no extra diuretics needed.
+description: 'Holiday sodium worsens ankle puffiness (peripheral edema) in women 65+ with high BP. These 12 swaps cut sodium 40-60% and ease swelling naturally.'
 date: '2026-02-06'
-updated: '2026-03-26'
-primaryKeyword: how to reduce holiday swelling without diuretics
+updated: '2026-03-27'
+primaryKeyword: 'how to reduce swelling after holidays without diuretics'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

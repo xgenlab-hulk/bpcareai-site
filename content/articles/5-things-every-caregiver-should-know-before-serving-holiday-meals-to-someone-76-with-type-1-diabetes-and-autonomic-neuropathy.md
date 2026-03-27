@@ -1,10 +1,10 @@
 ---
-title: "Caregivers: 5 Holiday Meal Rules for Seniors 76+ on Insulin"
+title: 'Caregivers: 5 Holiday Meal Rules for Seniors 76+ on Insulin'
 slug: holiday-type-1-diabetes-blood-sugar
-description: Nerve damage (autonomic neuropathy) hides low-sugar signs in 60% of seniors 76+. Carb timing, 15g rescue glucose, and delayed emptying tips for caregivers.
+description: 'Nerve damage (autonomic neuropathy) hides low-sugar signs in 60% of seniors 76+. Carb timing, 15g rescue glucose, and delayed emptying tips for caregivers.'
 date: '2026-01-23'
-updated: 2026-03-26
-primaryKeyword: holiday meals for seniors with type 1 diabetes
+updated: '2026-03-27'
+primaryKeyword: 'holiday meals for seniors with type 1 diabetes'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

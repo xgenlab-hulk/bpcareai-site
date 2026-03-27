@@ -1,11 +1,11 @@
 ---
-title: Family History of High BP? Home Monitoring Guide for Your 50s
+title: 'Family History of High BP? Your Home Monitoring Guide for Ages 50-59'
 slug: >-
   family-history-bp-home-monitoring-50s
-description: Parental high BP before 55 raises lifetime risk 2-3x. 5 home monitoring mistakes that skew readings, plus white-coat fixes (elevated office BP) for ages 50-59.
+description: 'If a parent had high blood pressure (hypertension) before 55, your risk is 2-3x higher. Avoid 5 home monitoring mistakes that hide true readings in your 50s.'
 date: '2026-01-20'
-updated: 2026-03-26
-primaryKeyword: family history high blood pressure home monitoring 50s
+updated: '2026-03-27'
+primaryKeyword: 'home blood pressure monitoring with family history'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,10 +1,10 @@
 ---
-title: TRT Raising Your Blood Sugar? (Insulin Resistance Guide Men 65+)
+title: 'Is TRT Raising Your Blood Sugar? 5 Facts for Men Over 65'
 slug: trt-insulin-resistance-men-65
-description: TRT raising blood sugar? Discover why testosterone therapy affects insulin resistance, 5 biomarkers beyond A1c to track, and proven strategies to optimize glucose uptake for men 65+.
+description: 'Testosterone therapy can cut sugar processing in muscles (insulin receptor kinase activity) by 15-20% if dosed wrong. 5 biomarkers and strategies for men 65+.'
 date: '2026-03-01'
-updated: '2026-03-19'
-primaryKeyword: testosterone therapy insulin resistance men
+updated: '2026-03-27'
+primaryKeyword: 'testosterone replacement blood sugar effects men 65'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

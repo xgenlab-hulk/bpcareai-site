@@ -1,10 +1,10 @@
 ---
-title: Can't Lose Holiday Weight After 58? (5 Metabolism Mistakes)
+title: '5 Metabolism Mistakes Keeping Holiday Weight On After Age 58'
 slug: holiday-weight-loss-mistakes-58
-description: Holiday weight sticking after 58? Discover 5 metabolism mistakes blocking weight loss—hidden sugars to protein timing—plus proven reversal strategies adults 58+.
+description: 'After 58, your body burns 0.5-1% fewer calories per year. These 5 slow metabolism (metabolic rate) mistakes explain why holiday weight sticks and how to fix it.'
 date: '2025-12-17'
-updated: '2026-03-18'
-primaryKeyword: holiday weight loss mistakes adults 58
+updated: '2026-03-27'
+primaryKeyword: 'why holiday weight won\'t come off after 58'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

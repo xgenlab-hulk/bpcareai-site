@@ -1,10 +1,10 @@
 ---
-title: Morning HRV Normal But Tired Every Day? (Sleep Apnea Guide 55+)
+title: 'Morning HRV Normal But Tired Every Day? (Sleep Apnea Guide 55+)'
 slug: morning-hrv-sleep-apnea-men-55
-description: Heart rate variability seems normal but feel exhausted? Discover 5 HRV insights for sleep apnea, autonomic recovery, oxygen dips, and cardiac risk assessment to protect your heart health for men 55+.
+description: 'Even mild breathing pauses during sleep (sleep-disordered breathing) with AHI 5-14 can hide heart strain behind normal HRV readings. What men 55+ need to know.'
 date: '2026-02-11'
-updated: '2026-03-19'
-primaryKeyword: morning hrv sleep apnea men 55
+updated: '2026-03-27'
+primaryKeyword: 'morning heart rate variability and sleep apnea after 55'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

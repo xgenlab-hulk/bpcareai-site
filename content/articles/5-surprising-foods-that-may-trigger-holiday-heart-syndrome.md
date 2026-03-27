@@ -1,10 +1,10 @@
 ---
-title: Holiday Foods Triggering Heart Palpitations? (5 Hidden Culprits)
+title: '5 Holiday Foods That Can Trigger Irregular Heartbeat After 50'
 slug: holiday-foods-trigger-heart-palpitations
-description: Heart racing after festive meals? Discover 5 surprising trigger foods, safe sodium thresholds, and arrhythmia prevention strategies proven to protect heart rhythm—ages 50+.
+description: 'Holiday meals raise irregular heartbeat (arrhythmia) risk 20-30%. Learn which 5 festive foods trigger palpitations and safe sodium thresholds for adults 50+.'
 date: '2025-11-30'
-updated: '2026-03-19'
-primaryKeyword: holiday foods heart palpitations triggers
+updated: '2026-03-27'
+primaryKeyword: 'foods that trigger holiday heart syndrome'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

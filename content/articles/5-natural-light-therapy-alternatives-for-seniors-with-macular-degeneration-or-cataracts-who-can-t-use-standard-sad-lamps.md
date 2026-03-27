@@ -1,10 +1,10 @@
 ---
-title: Can't Use SAD Lamps With Vision Loss? (5 Safe Options 65+)
+title: 'Can\'t Use SAD Lamps? 5 Eye-Safe Light Therapy Options After 65'
 slug: light-therapy-vision-loss-seniors-65
-description: Macular degeneration blocking SAD lamp use? Discover 5 eye-safe light therapy alternatives—dawn simulators and timed outdoor protocols—proven mood and sleep support seniors 65+.
+description: 'Up to 20% of adults 65+ face winter low mood (seasonal depression), but standard 10,000-lux SAD lamps risk retinal damage. These 5 eye-safe alternatives help.'
 date: '2025-12-28'
-updated: '2026-03-18'
-primaryKeyword: light therapy vision loss seniors 65
+updated: '2026-03-27'
+primaryKeyword: 'safe light therapy with macular degeneration over 65'
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

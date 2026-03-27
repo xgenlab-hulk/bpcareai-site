@@ -1,10 +1,10 @@
 ---
-title: On Spironolactone? (5 Safe Potassium Foods Adults 60-82)
+title: 'On Spironolactone? 5 Potassium Foods That Won\'t Spike Your Levels'
 slug: spironolactone-safe-potassium-foods-60-82
-description: Worried about potassium on spironolactone? Discover 5 kidney-safe foods providing steady potassium without dangerous spikes—proven safe resistant hypertension adults 60-82.
+description: 'Spironolactone raises high potassium (hyperkalemia) risk. These 5 foods deliver 110-300 mg potassium per serving without spiking levels in adults 60-82.'
 date: '2025-12-29'
-updated: '2026-03-18'
-primaryKeyword: spironolactone safe potassium foods 60-82
+updated: '2026-03-27'
+primaryKeyword: 'safe potassium foods on spironolactone seniors'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

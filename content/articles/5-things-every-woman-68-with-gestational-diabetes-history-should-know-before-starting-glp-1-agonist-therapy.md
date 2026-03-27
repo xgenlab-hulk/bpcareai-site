@@ -1,10 +1,10 @@
 ---
-title: "GLP-1 After Gestational Diabetes: What Women Over 68 Should Ask"
+title: 'GLP-1 After Gestational Diabetes: What Women 68+ Must Ask'
 slug: glp1-gestational-diabetes-women-68
-description: Gestational diabetes raises type 2 risk 50-70%. GLP-1 drugs need thyroid and gallstone checks — bone density (DEXA) drops 2-4% yearly after 68.
+description: 'Pregnancy diabetes (gestational diabetes) raises type 2 risk 50-70%. GLP-1 drugs increase gallstone risk 35-40% and may reduce bone strength (BMD) in women 68+.'
 date: '2026-01-25'
-updated: '2026-03-26'
-primaryKeyword: is glp-1 safe for women 68 with gestational diabetes history
+updated: '2026-03-27'
+primaryKeyword: 'GLP-1 safety after gestational diabetes women 68'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

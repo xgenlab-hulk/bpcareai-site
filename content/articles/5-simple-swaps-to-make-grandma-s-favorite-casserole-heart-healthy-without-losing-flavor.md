@@ -1,10 +1,10 @@
 ---
-title: Grandma's Casserole Heart-Healthy? (5 Swaps Keep Flavor)
+title: '5 Heart-Healthy Swaps for Grandma\'s Casserole That Save Flavor'
 slug: heart-healthy-casserole-swaps-low-sodium
-description: Love comfort food but managing BP? Discover 5 proven casserole ingredient swaps that cut sodium 40%, boost potassium naturally, and preserve every ounce of flavor—ages 60+.
+description: 'Traditional casseroles pack 1,500+ mg sodium per serving. These 5 swaps cut sodium 40%, boost potassium, and help manage high blood pressure (hypertension).'
 date: '2025-12-17'
-updated: '2026-03-19'
-primaryKeyword: heart healthy casserole swaps sodium
+updated: '2026-03-27'
+primaryKeyword: 'heart healthy casserole swaps low sodium'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

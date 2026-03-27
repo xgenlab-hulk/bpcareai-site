@@ -1,10 +1,10 @@
 ---
-title: Low-Sodium Foods Raising Your BP? (5 Hidden Triggers 50+)
+title: 'Why These 5 Low-Sodium Foods Still Raise Your Blood Pressure'
 slug: low-sodium-foods-raise-bp-50plus
-description: Low-sodium foods still spiking BP? Discover why MSG, artificial sweeteners, potassium depletion raise pressure—plus 5 label tricks to protect your heart (adults 50+).
+description: 'Around 70% of adults 50+ have high BP (hypertension). Learn 5 hidden triggers in low-sodium foods—MSG, sweeteners, potassium gaps—that spike readings.'
 date: '2025-12-16'
-updated: '2026-03-18'
-primaryKeyword: low sodium foods raise blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'low sodium foods that still raise blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

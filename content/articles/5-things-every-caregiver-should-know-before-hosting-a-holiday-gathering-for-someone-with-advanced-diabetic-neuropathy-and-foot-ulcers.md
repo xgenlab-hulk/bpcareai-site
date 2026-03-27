@@ -1,11 +1,11 @@
 ---
-title: "Caregivers: 5 Safety Steps for Holiday Hosting With Foot Ulcers"
+title: 'Caregivers: 5 Safety Steps for Holiday Hosting With Foot Ulcers'
 slug: >-
   foot-ulcers-holiday-hosting-guide
-description: Soft rugs cause pressure injuries delaying healing 2-3 weeks in nerve-damaged feet (diabetic neuropathy). 5 offloading and flooring fixes before guests arrive.
+description: 'Soft rugs cause pressure injuries delaying healing 2-3 weeks in nerve-damaged feet (diabetic neuropathy). 5 offloading and flooring fixes before guests arrive.'
 date: '2026-01-19'
-updated: '2026-03-26'
-primaryKeyword: hosting holiday meals with diabetic foot ulcers
+updated: '2026-03-27'
+primaryKeyword: 'hosting holiday meals with diabetic foot ulcers'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

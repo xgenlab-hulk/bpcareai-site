@@ -1,10 +1,10 @@
 ---
-title: Dry Mouth Making Swallowing Hard? (5 Foods Help 77+)
+title: 'Dry Mouth Making Swallowing Hard at 77+? 5 Foods That Help'
 slug: dry-mouth-swallowing-foods-seniors-77
-description: Dry mouth making swallowing difficult? Get 5 low-sugar foods that boost saliva and amylase activity—proven to improve safe swallowing and blood sugar for adults 77+.
+description: 'Saliva enzyme output drops up to 60% with chronic dry mouth (xerostomia). Five low-sugar foods boost natural saliva flow and safer swallowing for adults 77+.'
 date: '2026-02-15'
-updated: '2026-03-18'
-primaryKeyword: dry mouth swallowing foods seniors
+updated: '2026-03-27'
+primaryKeyword: 'dry mouth foods that help swallowing seniors'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

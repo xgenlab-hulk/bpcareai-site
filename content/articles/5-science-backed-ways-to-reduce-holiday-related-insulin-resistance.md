@@ -1,10 +1,10 @@
 ---
-title: Holiday Meals Spiking Your Blood Sugar? (5 Ways Fix 50+)
+title: 'Holiday Meals Raising Your Blood Sugar? 5 Ways to Fight Back at 50+'
 slug: reduce-insulin-resistance-holidays-50s
-description: Holiday eating raising your glucose? Get 5 proven methods to reduce insulin resistance—carb timing, resistance training, sleep fixes—backed by research (ages 50+).
+description: 'Holiday diet shifts can worsen how your cells use sugar (insulin resistance) by 20% in 5 days. 5 proven fixes including carb timing and sleep strategies.'
 date: '2025-12-13'
-updated: '2026-03-18'
-primaryKeyword: reduce insulin resistance holiday eating
+updated: '2026-03-27'
+primaryKeyword: 'how to lower insulin resistance during holidays'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

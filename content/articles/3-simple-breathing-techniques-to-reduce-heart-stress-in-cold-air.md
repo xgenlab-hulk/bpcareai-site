@@ -1,11 +1,11 @@
 ---
-title: Chest Tight in Cold Air? (3 Breathing Techniques Seniors 50+)
+title: 'Cold Air Making Your Chest Tight? 3 Breathing Fixes for 50+'
 slug: cold-air-breathing-heart-seniors
-description: >-
+description: 'Cold air can spike blood pressure readings (systolic BP) by 10-20 mmHg. 3 nasal breathing techniques warm air by 5-8 degrees to protect your heart.'
   Chest tight in cold air? Get 3 breathing techniques to prevent BP spikes, warm airways by 5-8°, and protect your heart—proven safe for seniors 50+.
 date: '2025-12-14'
-updated: '2026-03-18'
-primaryKeyword: cold air breathing heart seniors
+updated: '2026-03-27'
+primaryKeyword: 'breathing techniques for heart health in cold weather'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

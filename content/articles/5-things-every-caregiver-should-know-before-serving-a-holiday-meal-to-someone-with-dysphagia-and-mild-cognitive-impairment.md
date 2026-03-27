@@ -1,10 +1,10 @@
 ---
-title: "Holiday Choking Risks: Caregiver Guide for Seniors 74+"
+title: 'Holiday Choking Risks: Caregiver Guide for Seniors 74+'
 slug: holiday-dysphagia-swallowing-safety
-description: 40% of seniors with memory problems show silent swallowing failure (silent aspiration). 5 texture-modified food strategies keep holiday meals safe after 74.
+description: '40% of seniors with memory problems show silent swallowing failure (silent aspiration). 5 texture-modified food strategies keep holiday meals safe after 74.'
 date: '2026-01-20'
-updated: 2026-03-26
-primaryKeyword: holiday meal choking risk dysphagia caregivers
+updated: '2026-03-27'
+primaryKeyword: 'how to serve holiday meals safely with swallowing problems'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

@@ -1,10 +1,10 @@
 ---
-title: Hidden Sodium Spiking Holiday BP? (5 Foods Avoid 50+)
+title: '5 Holiday Foods With Hidden Sodium That Raise Blood Pressure After 50'
 slug: hidden-sodium-holiday-bp-foods-50plus
-description: Holiday foods spiking BP? Discover 5 hidden sodium sources in gravies, deli meats, desserts—plus heart-safe swaps proven to protect your pressure (seniors 50+).
+description: 'Holiday gravies can pack over 1,500 mg of hidden salt (sodium) per serving. These 5 heart-safe swaps help adults 50+ keep blood pressure readings stable.'
 date: '2025-12-01'
-updated: '2026-03-18'
-primaryKeyword: hidden sodium holiday blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'hidden sodium in holiday foods and blood pressure'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

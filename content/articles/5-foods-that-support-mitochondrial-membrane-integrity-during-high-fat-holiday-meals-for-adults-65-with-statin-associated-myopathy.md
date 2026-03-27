@@ -1,10 +1,10 @@
 ---
-title: Statin Muscle Pain After Holiday Meals? (5 Foods 65+)
+title: 'Statin Muscle Pain Worse After Holiday Meals? 5 Foods for 65+'
 slug: statin-muscle-pain-holiday-foods-65plus
-description: Statin muscle pain worsening after holiday dinners? Get 5 CoQ10-rich foods that protect mitochondrial membranes from oxidative stress—proven relief for adults 65+.
+description: 'Up to 15% of older statin users get muscle soreness (statin myopathy). Five CoQ10-rich foods protect cell energy factories (mitochondria) at holiday meals.'
 date: '2026-02-16'
-updated: '2026-03-18'
-primaryKeyword: statin muscle pain holiday foods
+updated: '2026-03-27'
+primaryKeyword: 'foods for statin muscle pain relief over 65'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

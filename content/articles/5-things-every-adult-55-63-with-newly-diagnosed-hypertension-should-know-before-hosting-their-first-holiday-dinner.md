@@ -1,11 +1,11 @@
 ---
-title: Newly Diagnosed High BP? How to Host Holiday Dinner at 55-63
+title: 'How to Host Holiday Dinner After a High BP Diagnosis (Ages 55-63)'
 slug: >-
   new-bp-hosting-holiday-dinner-55-63
-description: Hosting stress spikes blood pressure (BP) 10-20 mmHg. Time medication 90 min before guests and prep low-sodium dishes under 500mg per serving.
+description: 'Hosting stress raises blood pressure (hypertension) by 10-20 mmHg. Time medication 90 min before guests and prep dishes under 500mg sodium per serving.'
 date: '2026-01-25'
-updated: '2026-03-26'
-primaryKeyword: hosting holiday dinner with new high blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'hosting holiday dinner with high blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

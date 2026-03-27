@@ -1,10 +1,10 @@
 ---
-title: Cold Weather Making Your Heart Work Harder? (5 Silent Signs)
+title: '5 Silent Signs Your Heart Is Struggling in Cold Weather'
 slug: heart-struggling-cold-weather-signs
-description: Tired or dizzy in winter? Discover 5 silent heart warning signs cold triggers, safe BP monitoring methods, and winter protection strategies—essential for adults 50+.
+description: 'Cold air tightens blood vessels (vasoconstriction), raising BP 5-10 mmHg and forcing your heart to work 20% harder. Spot 5 quiet warning signs adults 50+ miss.'
 date: '2025-12-09'
-updated: '2026-03-19'
-primaryKeyword: heart warning signs cold weather
+updated: '2026-03-27'
+primaryKeyword: 'silent heart warning signs cold weather'
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

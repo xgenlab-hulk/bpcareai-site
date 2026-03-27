@@ -1,11 +1,11 @@
 ---
-title: Giving Nitroglycerin With Dementia? 5 Caregiver Safety Rules
+title: 'Giving Nitroglycerin With Dementia? 5 Caregiver Safety Rules'
 slug: >-
   nitroglycerin-dementia-caregiver-78s
-description: Dry mouth (xerostomia) cuts sublingual absorption up to 40% in adults 78+. 30% with cognitive decline misreport chest pain — timing and BP checks prevent harm.
+description: 'Dry mouth (xerostomia) cuts sublingual absorption up to 40% in adults 78+. 30% with cognitive decline misreport chest pain — timing and BP checks prevent harm.'
 date: '2026-01-22'
-updated: 2026-03-26
-primaryKeyword: giving nitroglycerin to someone with dementia safely
+updated: '2026-03-27'
+primaryKeyword: 'giving nitroglycerin to someone with dementia safely'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

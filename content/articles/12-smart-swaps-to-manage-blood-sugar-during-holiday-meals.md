@@ -1,12 +1,12 @@
 ---
-title: 12 Smart Swaps to Manage Blood Sugar During Holiday Meals
+title: 'Blood Sugar Spiking at Holiday Dinners? 12 Smart Swaps After 50'
 slug: 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
-description: >-
+description: 'Simple holiday swaps cut carbs 30-60% and keep blood sugar (postprandial glucose) steady. Includes the quarter-plate method for balanced meals after 50.'
   Holiday meals spiking blood sugar? Get 12 smart food swaps—cauliflower mash,
   whole grain rolls—to stabilize glucose without losing flavor (adults 50+).
 date: '2025-12-02'
-updated: '2026-03-18'
-primaryKeyword: manage blood sugar holiday meals adults 50
+updated: '2026-03-27'
+primaryKeyword: 'how to keep blood sugar stable during holiday meals'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

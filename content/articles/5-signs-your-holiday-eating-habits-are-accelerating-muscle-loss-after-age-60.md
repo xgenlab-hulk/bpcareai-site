@@ -1,10 +1,10 @@
 ---
-title: Holiday Eating Weakening Your Muscles? (5 Signs Ages 60+)
+title: '5 Warning Signs Holiday Eating Is Weakening Your Muscles After 60'
 slug: holiday-muscle-loss-warning-signs-60s
-description: Feeling weaker after holiday meals? Discover 5 warning signs muscle loss is accelerating, plus safe protein targets and meal timing tricks to protect strength (60+).
+description: 'Adults 60+ lose 0.5-1% of muscle yearly, and holiday meals speed up this muscle wasting (sarcopenia). Spot 5 warning signs plus safe protein targets.'
 date: '2025-12-19'
-updated: '2026-03-18'
-primaryKeyword: holiday muscle loss warning signs adults 60
+updated: '2026-03-27'
+primaryKeyword: 'holiday eating muscle loss signs over 60'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

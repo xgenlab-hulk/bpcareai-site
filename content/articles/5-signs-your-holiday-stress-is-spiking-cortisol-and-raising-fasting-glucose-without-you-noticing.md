@@ -1,10 +1,10 @@
 ---
-title: Holiday Stress Raising Your Fasting Glucose? (5 Signs 60+)
+title: 'Is Holiday Stress Raising Your Blood Sugar? 5 Signs After 60'
 slug: holiday-stress-cortisol-blood-sugar-60s
-description: Morning glucose rising unexpectedly? Uncover 5 hidden signs holiday stress is spiking cortisol and raising fasting glucose, plus proven stress fixes (ages 60+).
+description: 'Stress hormones (cortisol) can raise fasting glucose up to 20% in adults 60+. Learn 5 hidden signs your holiday stress is spiking blood sugar.'
 date: '2026-01-02'
-updated: '2026-03-18'
-primaryKeyword: holiday stress cortisol glucose seniors
+updated: '2026-03-27'
+primaryKeyword: 'holiday stress raising fasting blood sugar'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,10 +1,10 @@
 ---
-title: Low Protein Weakening Your Muscles? (5 Holiday Signs 60+)
+title: 'Eating Under 1.2g/kg Protein at 60+? 5 Signs Muscles Are Paying'
 slug: low-protein-sarcopenia-holiday-signs-60s
-description: Eating less than 1.2g/kg protein daily? Discover 5 warning signs holiday meals are accelerating sarcopenia, plus safe protein targets and timing tricks (ages 60+).
+description: 'Adults 60+ need 1.2g/kg protein daily, but holiday meals fall short and speed up muscle wasting (sarcopenia). 5 warning signs and meal timing fixes.'
 date: '2025-12-31'
-updated: '2026-03-18'
-primaryKeyword: low protein sarcopenia holiday warning 60
+updated: '2026-03-27'
+primaryKeyword: 'not enough protein holiday meals over 60'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

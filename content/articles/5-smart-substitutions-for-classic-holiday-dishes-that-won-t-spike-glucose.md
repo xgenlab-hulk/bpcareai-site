@@ -1,10 +1,10 @@
 ---
-title: Holiday Favorites Spiking Your Blood Sugar? (5 Safe Swaps)
+title: 'Holiday Dishes Spiking Your Blood Sugar? Try These 5 Swaps'
 slug: holiday-dishes-glucose-safe-swaps
-description: Managing diabetes but love holiday classics? Get 5 proven low-sugar recipe swaps that cut carbs 60%, stabilize glucose, and preserve festive flavor—essential for adults 50+.
+description: 'Classic holiday dishes hide 30-50g carbs per serving. These 5 swaps cut sugar 60% and stabilize blood sugar spikes (postprandial glucose) for adults 50+.'
 date: '2025-11-29'
-updated: '2026-03-19'
-primaryKeyword: low sugar holiday swaps glucose control
+updated: '2026-03-27'
+primaryKeyword: 'low sugar holiday recipe swaps diabetes'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

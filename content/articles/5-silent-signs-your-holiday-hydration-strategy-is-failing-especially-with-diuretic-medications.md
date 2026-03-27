@@ -1,10 +1,10 @@
 ---
-title: Diuretics Making You Dehydrated This Holiday? (5 Red Flags)
+title: 'On Diuretics? 5 Dehydration Red Flags Seniors Often Miss'
 slug: dehydration-signs-diuretics-holiday
-description: On water pills and feeling foggy? Get 5 silent dehydration warning signs, personalized hydration formulas, and safe fluid tracking methods—essential for seniors 60+.
+description: 'Water pills (diuretics) cut fluid reserves 15-25% daily, and thirst fades 40% after age 60. Learn 5 silent dehydration signs and safe hydration tracking tips.'
 date: '2025-12-23'
-updated: '2026-03-19'
-primaryKeyword: dehydration warning signs diuretics
+updated: '2026-03-27'
+primaryKeyword: 'dehydration signs while on water pills'
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

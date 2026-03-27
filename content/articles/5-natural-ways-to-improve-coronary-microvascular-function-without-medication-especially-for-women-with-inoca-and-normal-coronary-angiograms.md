@@ -1,10 +1,10 @@
 ---
-title: Chest Pain But Normal Angiogram? (5 Natural INOCA Solutions 50+)
+title: 'Chest Pain but Normal Angiogram? 5 Natural Fixes for Women 50+'
 slug: inoca-natural-treatment-women-50s
-description: Chest pain despite normal angiogram? Discover 5 proven natural methods improving coronary microvascular function—nasal breathing to timed resveratrol—INOCA solutions women 50+.
+description: 'Up to 60% of women 50+ with chest pain have clear arteries yet real tiny vessel problems (INOCA). 5 drug-free methods to improve blood flow naturally.'
 date: '2026-01-01'
-updated: '2026-03-18'
-primaryKeyword: INOCA natural treatment women 50s
+updated: '2026-03-27'
+primaryKeyword: 'chest pain normal angiogram women over 50'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

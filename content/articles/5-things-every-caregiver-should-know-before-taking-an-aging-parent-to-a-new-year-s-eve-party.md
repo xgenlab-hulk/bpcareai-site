@@ -1,10 +1,10 @@
 ---
-title: New Year's Eve Party Safe for Your Parent 65+? (5 Tips)
+title: 'New Year\'s Eve Party Safe for Your Parent 65+? (5 Tips)'
 slug: new-years-eve-party-safety-seniors
-description: Worried about New Year's Eve party risks? Get 5 safety strategies for noise control, alcohol avoidance, mobility hazards, BP monitoring, and holiday heart syndrome warning signs for seniors 65+.
+description: 'Loud parties raise BP 10-15 mmHg even seated. 5 ways to prevent irregular heartbeat (holiday heart syndrome) and keep parents 65+ safe on New Year\'s Eve.'
 date: '2025-12-19'
-updated: '2026-03-19'
-primaryKeyword: new years eve party safety seniors
+updated: '2026-03-27'
+primaryKeyword: 'is a new years eve party safe for my aging parent'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

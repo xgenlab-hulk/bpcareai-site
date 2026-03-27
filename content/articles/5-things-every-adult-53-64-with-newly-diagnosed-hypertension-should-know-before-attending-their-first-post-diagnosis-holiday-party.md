@@ -1,11 +1,11 @@
 ---
-title: Just Diagnosed With High BP? Holiday Party Tips for Ages 53-64
+title: 'New High BP Diagnosis? 5 Ways to Enjoy Holiday Parties at 53-64'
 slug: >-
   new-bp-diagnosis-holiday-party-53-64
-description: "Parties spike BP 10-20 mmHg from salt, alcohol, and standing. 5 strategies: drink swaps, checking at arm level (proper cuff position), and signs to leave early."
+description: 'Parties can spike blood pressure readings (BP) 10-20 mmHg from salt and stress. Try 5 drink swaps and discreet monitoring tips for newly diagnosed adults 53-64.'
 date: '2026-01-23'
-updated: 2026-03-26
-primaryKeyword: new high blood pressure diagnosis and holiday parties
+updated: '2026-03-27'
+primaryKeyword: 'newly diagnosed high blood pressure holiday tips'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

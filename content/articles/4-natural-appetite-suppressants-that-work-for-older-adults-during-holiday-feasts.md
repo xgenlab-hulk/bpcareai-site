@@ -1,12 +1,12 @@
 ---
-title: Overeating at Holiday Feasts? (4 Natural Suppressants 50+)
+title: 'Stop Overeating at Holiday Feasts: 4 Natural Strategies for 50+'
 slug: >-
   appetite-suppressants-holiday-feasts-50s
-description: >-
+description: 'Holiday meals add 300-600 extra calories daily and spike blood pressure (systolic to 140 mmHg). 4 natural strategies help adults 50+ eat mindfully.'
   Overeating at holiday feasts? Get 4 natural appetite suppressants—fiber, protein timing, hydration—that work safely for aging metabolisms 50+.
 date: '2025-12-08'
-updated: '2026-03-18'
-primaryKeyword: appetite suppressants holiday feasts seniors
+updated: '2026-03-27'
+primaryKeyword: 'natural appetite control holiday meals older adults'
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

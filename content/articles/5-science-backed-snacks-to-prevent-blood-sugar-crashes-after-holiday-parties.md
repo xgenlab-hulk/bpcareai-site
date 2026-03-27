@@ -1,10 +1,10 @@
 ---
-title: Blood Sugar Crashing After Holiday Meals? (5 Snacks 50+)
+title: '5 Snacks That Stop Blood Sugar Crashes After Holiday Parties (50+)'
 slug: blood-sugar-crash-holiday-snacks-50s
-description: Shaky after holiday parties? Get 5 proven snacks that stop crashes—safe for metformin and insulin users, with exact timing to protect your heart (ages 50+).
+description: 'About 30% of adults 50+ get post-meal sugar drops (reactive hypoglycemia) at holiday parties. 5 protein-fiber snacks that stabilize glucose in 1-4 hours.'
 date: '2025-12-07'
-updated: '2026-03-18'
-primaryKeyword: blood sugar crash holiday snacks seniors
+updated: '2026-03-27'
+primaryKeyword: 'snacks to prevent blood sugar crash after parties'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

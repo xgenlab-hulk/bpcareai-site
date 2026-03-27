@@ -1,10 +1,10 @@
 ---
-title: "Women 62+: Why Calcium Eggnog May Not Help Your Bones on PPIs"
+title: 'Why Calcium Eggnog May Not Help Bones on PPIs (Women 62+)'
 slug: calcium-eggnog-bone-ppi-women-62
-description: "Acid-blocking PPIs cut calcium carbonate absorption from ~35% to 10-15%. Pairing eggnog with vitamin D and citrate forms restores bone mineral density (BMD)."
+description: 'Acid blockers (PPIs) slash calcium absorption from 35% to just 10-15%. Pairing eggnog with vitamin D and citrate forms restores bone strength for women 62+.'
 date: '2026-02-09'
-updated: '2026-03-25'
-primaryKeyword: does calcium eggnog help bones if you take PPIs
+updated: '2026-03-27'
+primaryKeyword: 'calcium eggnog bone health with PPI use women 62'
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

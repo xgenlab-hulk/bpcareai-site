@@ -1,11 +1,11 @@
 ---
-title: "Home Cardiac Rehab With Memory Loss: 5 Safety Rules for 75+"
+title: 'Can You Do Cardiac Rehab at Home With Memory Loss After 75?'
 slug: >-
   cardiac-rehab-memory-loss-75s
-description: Adults 75+ with early memory loss (mild cognitive impairment) face 2.3x higher fall risk in home cardiac rehab. Gait screens and caregiver cues reduce errors.
+description: 'Adults 75+ with early memory loss (mild cognitive impairment) face 2.3x higher fall risk in home cardiac rehab. Gait screens and caregiver cues reduce errors.'
 date: '2026-01-21'
-updated: 2026-03-26
-primaryKeyword: is home cardiac rehab safe with memory problems at 75
+updated: '2026-03-27'
+primaryKeyword: 'is home cardiac rehab safe with memory problems at 75'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

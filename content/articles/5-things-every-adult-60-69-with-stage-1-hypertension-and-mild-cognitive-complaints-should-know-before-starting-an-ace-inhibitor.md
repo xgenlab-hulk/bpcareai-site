@@ -1,11 +1,11 @@
 ---
-title: "ACE Inhibitors and Brain Fog: What Adults 60-69 Should Know"
+title: 'ACE Inhibitors and Brain Fog: What Adults 60-69 Should Know'
 slug: >-
   ace-inhibitors-brain-fog-memory-60-69
-description: Dropping BP below 120/70 too fast cuts blood flow to the brain (cerebral hypoperfusion) in adults 60-69 with stiff arteries. Timing and 3 standing tests help.
+description: 'Dropping BP below 120/70 too fast cuts blood flow to the brain (cerebral hypoperfusion) in adults 60-69 with stiff arteries. Timing and 3 standing tests help.'
 date: '2026-01-26'
-updated: '2026-03-26'
-primaryKeyword: do ACE inhibitors cause brain fog in your 60s
+updated: '2026-03-27'
+primaryKeyword: 'do ACE inhibitors cause brain fog in your 60s'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
