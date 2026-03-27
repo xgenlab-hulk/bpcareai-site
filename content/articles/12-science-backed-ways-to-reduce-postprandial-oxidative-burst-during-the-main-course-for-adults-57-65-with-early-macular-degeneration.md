@@ -1,10 +1,10 @@
 ---
-title: "Why Meals Trigger Eye Strain With Macular Degeneration (Ages 57-65)"
+title: 'Can Meals Worsen Macular Degeneration? Ages 57-65 Guide'
 slug: eye-health-meals-macular-degeneration-57-65
-description: "After eating, blood diverts from your retina, spiking cell damage (oxidative stress) 30-40%. Timing lutein with olive oil cut retinal markers 41% in 42 adults."
+description: 'After eating, cell damage (oxidative stress) in your retina rises 30-40%. Pairing lutein with olive oil cut retinal markers 41% in a 42-adult trial, ages 57-65.'
 date: '2026-02-10'
-updated: '2026-03-25'
-primaryKeyword: does eating make macular degeneration worse
+updated: '2026-03-27'
+primaryKeyword: 'does eating worsen macular degeneration symptoms'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

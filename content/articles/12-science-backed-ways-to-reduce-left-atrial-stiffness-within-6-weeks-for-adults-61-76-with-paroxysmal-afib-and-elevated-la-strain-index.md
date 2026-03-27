@@ -1,11 +1,11 @@
 ---
-title: AFib Getting Worse? 12 Ways to Soften a Stiff Heart Chamber
+title: 'AFib Getting Worse? 12 Ways to Soften a Stiff Heart Chamber'
 slug: >-
   afib-heart-stiffness-adults-61-76
-description: A stiff upper chamber (left atrial stiffness) drives AFib in adults 61-76. Zone-2 exercise and time-restricted eating improved strain index 15-20% in 6 weeks.
+description: 'A stiff upper chamber (left atrial stiffness) drives AFib in adults 61-76. Zone-2 exercise and time-restricted eating improved strain index 15-20% in 6 weeks.'
 date: '2026-01-27'
-updated: '2026-03-26'
-primaryKeyword: can you reduce heart stiffness that causes AFib
+updated: '2026-03-27'
+primaryKeyword: 'can you reduce heart stiffness that causes AFib'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

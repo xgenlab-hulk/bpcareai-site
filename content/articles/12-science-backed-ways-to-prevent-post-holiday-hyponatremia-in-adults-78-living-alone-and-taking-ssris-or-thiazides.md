@@ -1,10 +1,10 @@
 ---
-title: "Seniors 78+ on SSRIs: 12 Ways to Prevent Low Sodium After Holidays"
+title: 'On SSRIs at 78+? How to Prevent Low Sodium After Holiday Meals'
 slug: low-sodium-holiday-meals-ssris-seniors
-description: SSRIs plus watery soups can drop sodium below 130 mEq/L — mimicking dementia. Food pairing, soup timing, and 3 warning signs protect adults 78+ living alone.
+description: 'SSRIs plus watery soups can drop blood salt levels (serum sodium) below 130 mEq/L — mimicking dementia. Smart food pairing protects seniors 78+ living alone.'
 date: '2026-01-26'
-updated: '2026-03-26'
-primaryKeyword: preventing low sodium after holiday meals on SSRIs
+updated: '2026-03-27'
+primaryKeyword: 'low sodium symptoms after holidays on SSRIs seniors'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

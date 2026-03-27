@@ -1,11 +1,11 @@
 ---
-title: Blood Sugar Unstable After Antibiotics? (Diabetes Guide 64+)
+title: 'Antibiotics Wrecking Your Gut? 12 Protection Steps (Diabetes 64+)'
 slug: gut-health-antibiotics-diabetes-seniors
-description: >-
+description: 'Antibiotics wipe out 30-40% of helpful gut bacteria (microbiome) in one week, spiking fasting glucose. Timed probiotics restore balance for diabetics 64+.'
   Blood sugar spiking after antibiotics? Get 12 proven gut-protection strategies—probiotic timing, fermented foods, prebiotic sequencing—to prevent dangerous glucose swings and restore balance (diabetics 64+).
 date: '2026-01-08'
-updated: '2026-03-18'
-primaryKeyword: gut health antibiotics diabetes seniors
+updated: '2026-03-27'
+primaryKeyword: 'gut health after antibiotics with diabetes over 64'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

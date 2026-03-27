@@ -1,11 +1,11 @@
 ---
-title: Keep Blood Sugar Stable at Holiday Parties — 12 Tips for Adults 55+
+title: 'Keep Your Blood Sugar Steady at Holiday Parties — 12 Tips for 55+'
 slug: >-
   12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
-description: 15-20g protein 30 min before dinner cuts glucose spikes 27%. Plate mapping, drink spacing, and CGM nudges that work without fasting (insulin resistance).
+description: '68% of adults 50-74 spike above 180 mg/dL at holiday meals. Eating 15-20g protein 30 min before dinner cuts sugar spikes (glucose excursions) by 27%.'
 date: '2026-01-19'
-updated: '2026-03-26'
-primaryKeyword: how to keep blood sugar stable at holiday parties
+updated: '2026-03-27'
+primaryKeyword: 'how to keep blood sugar stable at holiday parties'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

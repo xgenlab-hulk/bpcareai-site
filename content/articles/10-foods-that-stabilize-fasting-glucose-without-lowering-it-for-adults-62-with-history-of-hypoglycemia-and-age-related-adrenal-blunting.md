@@ -1,13 +1,10 @@
 ---
-title: "Seniors 62+: Foods That Stabilize Fasting Glucose Without Lows"
+title: 'Seniors 62+: 10 Foods That Steady Glucose Without Lows'
 slug: prevent-low-blood-sugar-seniors-safe-foods
-description: >-
-  Blunted cortisol response (adrenal blunting) lets low-GI foods trigger
-  reactive drops 2-4 hours later. 10 foods with arginine and fat keep glucose
-  steady.
+description: 'Weak stress response (adrenal blunting) cuts cortisol 25-40% after 65, causing sugar drops 2-4 hours post-meal. Arginine-rich foods help steady glucose.'
 date: '2026-02-04'
-updated: '2026-03-26'
-primaryKeyword: keep fasting blood sugar stable without dropping too low
+updated: '2026-03-27'
+primaryKeyword: 'keep fasting blood sugar stable without dropping too low'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

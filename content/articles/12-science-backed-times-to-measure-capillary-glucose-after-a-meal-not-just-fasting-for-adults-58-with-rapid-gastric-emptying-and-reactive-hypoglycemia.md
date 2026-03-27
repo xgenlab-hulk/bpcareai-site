@@ -1,11 +1,11 @@
 ---
-title: Shaky After Meals Over 58? When to Test Blood Sugar Timing
+title: 'Shaky After Meals Over 58? When to Test Blood Sugar Timing'
 slug: >-
   glucose-timing-rapid-emptying-hypoglycemia
-description: Standard 2-hour checks miss 65% of spikes from fast stomach emptying (rapid gastric emptying). 12 timed checkpoints at 30, 60, 90 min catch hidden drops.
+description: 'Standard 2-hour checks miss 65% of spikes from fast stomach emptying (rapid gastric emptying). 12 timed checkpoints at 30, 60, 90 min catch hidden drops.'
 date: '2026-02-07'
-updated: '2026-03-26'
-primaryKeyword: when to check blood sugar after eating with fast emptying
+updated: '2026-03-27'
+primaryKeyword: 'when to check blood sugar after eating with fast emptying'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

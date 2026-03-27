@@ -1,11 +1,11 @@
 ---
-title: Breathless With Early Kidney Disease? When NT-proBNP Timing Matters
+title: 'Breathless With Early Kidney Disease? When NT-proBNP Timing Matters'
 slug: >-
   nt-probnp-timing-ckd-shortness-breath
-description: Stage 2 kidney disease (eGFR 60-89) inflates the heart strain marker (NT-proBNP) 30-50%. Timing around posture, meds, and hydration prevents false alarms.
+description: 'Stage 2 kidney disease (eGFR 60-89) inflates the heart strain marker (NT-proBNP) 30-50%. Timing around posture, meds, and hydration prevents false alarms.'
 date: '2026-02-06'
-updated: '2026-03-26'
-primaryKeyword: when to test NT-proBNP with kidney disease
+updated: '2026-03-27'
+primaryKeyword: 'when to test NT-proBNP with kidney disease'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

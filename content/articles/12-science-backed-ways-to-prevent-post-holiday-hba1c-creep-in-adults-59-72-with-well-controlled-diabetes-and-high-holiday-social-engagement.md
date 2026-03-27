@@ -1,11 +1,11 @@
 ---
-title: 12 Ways to Stop Post-Holiday A1C Creep With Diabetes (59-72)
+title: 'Well-Controlled Diabetes? A1C Can Still Creep Up After Holidays'
 slug: >-
   blood-sugar-holiday-parties-diabetes
-description: Well-controlled diabetics still see 0.2-0.4% A1C rise by January. Post-dessert walks, protein-first eating, and alcohol spacing blunt the creep measurably.
+description: 'Even adults 59-72 with stable blood sugar markers (HbA1c under 6.5%) see a 0.2-0.4% rise by January. Post-dessert walks and protein-first eating blunt it.'
 date: '2026-01-24'
-updated: 2026-03-26
-primaryKeyword: how to prevent A1C rise after holiday season diabetes
+updated: '2026-03-27'
+primaryKeyword: 'stop A1C rise after holidays even with good control'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

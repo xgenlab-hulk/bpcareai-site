@@ -1,10 +1,10 @@
 ---
-title: "Seniors 69+: 10 Foods That Calm Blood Pressure at Loud Family Dinners"
+title: 'Seniors 69+: 10 Foods That Calm Your BP at Loud Family Dinners'
 slug: calming-foods-anxiety-family-gatherings-seniors
-description: Crowded dinners trigger fight-or-flight spikes (sympathetic activation) of 20-30 mmHg. Magnesium-rich foods like pumpkin seeds buffer this within 45 min.
+description: 'Loud dinners trigger fight-or-flight spikes (sympathetic activation), raising BP 20-30 mmHg. Magnesium-rich pumpkin seeds and GABA foods buffer this in 45 min.'
 date: '2026-02-07'
-updated: '2026-03-26'
-primaryKeyword: foods that calm blood pressure at stressful family dinners
+updated: '2026-03-27'
+primaryKeyword: 'foods that calm blood pressure during stressful dinners'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,11 @@
 ---
-title: 'Flying With AFib and COPD? (Air Travel Heart Guide)'
+title: 'Flying With AFib and COPD? 12 Ways to Guard Your Heart Rhythm'
 slug: >-
   flying-afib-copd-heart-protection
-description: 'Flying with AFib and COPD? Get 12 proven strategies—hydration timing, breathing techniques, in-flight posture—to protect your heart rhythm and oxygen levels during air travel.'
+description: 'Flying drops cabin oxygen 4-8%, stressing the upper heart chamber (left atrial strain). 12 tips protect passengers with irregular heartbeat (AFib) and COPD.'
 date: '2026-01-07'
-updated: '2026-03-18'
-primaryKeyword: flying afib copd heart protection
+updated: '2026-03-27'
+primaryKeyword: 'how to protect your heart rhythm when flying with AFib'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

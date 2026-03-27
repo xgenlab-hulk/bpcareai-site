@@ -1,11 +1,11 @@
 ---
-title: 12 Hydration Fixes to Prevent Holiday Heart Syndrome After 62
+title: '12 Hydration Strategies to Prevent Holiday Heart Palpitations After 62'
 slug: >-
   hydration-holiday-heart-palpitations-62
-description: "Just 1.5% fluid loss stretches your heart's electrical timing (QT interval), triggering arrhythmia. Pre-meal sipping and potassium pairing help adults 62+."
+description: 'Just 1.5% fluid loss stretches your heart\'s electrical timing (QT interval), raising arrhythmia risk 35%. Pre-meal sipping helps adults 62+.'
 date: '2026-01-23'
-updated: 2026-03-26
-primaryKeyword: does dehydration cause heart palpitations at holidays
+updated: '2026-03-27'
+primaryKeyword: 'does dehydration cause heart palpitations at holidays'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

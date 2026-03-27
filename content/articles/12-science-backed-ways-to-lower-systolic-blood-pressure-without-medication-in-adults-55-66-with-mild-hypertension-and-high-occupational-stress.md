@@ -1,11 +1,11 @@
 ---
-title: 12 Ways to Lower Blood Pressure Without Meds When Work Stress Hits
+title: 'Work Stress Raising Your BP? 12 Drug-Free Fixes for Ages 55-66'
 slug: >-
   bp-without-meds-work-stress-55-66
-description: Work stress raises blood pressure (systolic BP) 8-15 mmHg. Isometric handgrip training 3x/week cuts it 6-10 mmHg — matching one drug. RCT-backed for ages 55-66.
+description: 'Work stress raises the top number (systolic BP) 8-15 mmHg. Handgrip training 3x/week cuts it 6.2 mmHg — matching one drug. 12 RCT-backed fixes for ages 55-66.'
 date: '2026-01-25'
-updated: '2026-03-26'
-primaryKeyword: lower blood pressure without medication for stressed workers
+updated: '2026-03-27'
+primaryKeyword: 'how to lower blood pressure without meds when stressed'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

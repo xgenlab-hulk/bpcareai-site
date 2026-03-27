@@ -1,11 +1,11 @@
 ---
-title: Holiday Confusion in a Parent With Dementia? 12 Prevention Steps
+title: 'Holiday Confusion With Dementia? 12 Gentle Steps for Ages 78+'
 slug: >-
   holiday-delirium-dementia-78
-description: Most post-holiday delirium in adults 78+ is reversible — tied to dehydration, sleep loss, or hidden drug clashes (anticholinergic load). 12 gentle strategies.
+description: 'Sudden holiday confusion (delirium) in adults 78+ with mild dementia is often reversible — tied to dehydration or drug clashes. Risk rises 40% over holidays.'
 date: '2026-01-22'
-updated: 2026-03-26
-primaryKeyword: preventing holiday confusion in elderly with dementia
+updated: '2026-03-27'
+primaryKeyword: 'prevent holiday confusion in elderly parent with dementia'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

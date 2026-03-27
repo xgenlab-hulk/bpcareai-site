@@ -1,11 +1,11 @@
 ---
-title: Wide Pulse Pressure Over 70 mmHg? 12 Solutions for Adults 69-82
+title: 'Wide Pulse Pressure Over 70 mmHg? 12 Proven Fixes for Ages 69-82'
 slug: >-
   pulse-pressure-ish-aortic-stiffness
-description: Pulse pressure above 70 mmHg signals stiff arteries (aortic stiffness). 12 strategies — nitrate timing, potassium foods, paced breathing — help adults 69-82.
+description: 'Top-minus-bottom BP gap (pulse pressure) over 70 mmHg signals stiff arteries (aortic stiffness). Nitrate timing and potassium foods help adults 69-82 lower it.'
 date: '2026-01-20'
-updated: '2026-03-26'
-primaryKeyword: how to lower wide pulse pressure without more meds
+updated: '2026-03-27'
+primaryKeyword: 'how to lower wide pulse pressure without more meds'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

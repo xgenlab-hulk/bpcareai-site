@@ -1,10 +1,10 @@
 ---
-title: 10 Foods That Thin Your Blood Vessel Coating With Prediabetes
+title: '10 Foods That Thin Your Blood Vessel Lining After 57 With Prediabetes'
 slug: foods-to-avoid-prediabetes-heart-health
-description: Fried foods strip the vessel lining (endothelial glycocalyx) 15-22% in weeks. Adults 57-68 with prediabetes see recovery within 3 weeks of swapping these foods.
+description: 'Fried foods strip vessel coating (endothelial glycocalyx) 15-22% in weeks. Adults 57-68 with prediabetes recover within 3 weeks of swapping.'
 date: '2026-01-21'
-updated: 2026-03-26
-primaryKeyword: foods that damage blood vessel lining with prediabetes
+updated: '2026-03-27'
+primaryKeyword: 'foods that thin blood vessel lining with prediabetes'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,11 @@
 ---
-title: Dizzy When Standing? 12 Ways to Retrain Your BP Reflex After 67
+title: 'Dizzy When Standing? 12 Ways to Retrain Your BP Reflex After 67'
 slug: >-
   orthostatic-hypotension-falls-67-80
-description: Paced breathing and slow transitions improve your BP reflex (baroreflex sensitivity) enough to cut fall risk 30-40% in adults 67-80 with drops on standing.
+description: 'Paced breathing retrains your pressure reflex (baroreflex sensitivity), cutting fall risk 30-40%. 12 gentle methods for adults 67-80 with drops on standing.'
 date: '2026-01-22'
-updated: 2026-03-26
-primaryKeyword: how to stop dizziness when standing up after 67
+updated: '2026-03-27'
+primaryKeyword: 'how to stop dizziness when standing up after 67'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

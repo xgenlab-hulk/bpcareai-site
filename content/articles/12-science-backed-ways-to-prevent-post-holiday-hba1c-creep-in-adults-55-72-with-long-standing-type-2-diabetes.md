@@ -1,11 +1,11 @@
 ---
-title: Why Your A1C Creeps Up After the Holidays — 12 Fixes (Ages 55-72)
+title: 'Why Your A1C Creeps Up After Holidays — 12 Fixes (Ages 55-72)'
 slug: >-
   a1c-creep-holidays-diabetes-55-72
-description: Post-meal sugar above 180 mg/dL coats red blood cells (glycation) for weeks. Meal timing and movement prevent the 0.2-0.4% A1C drift in long-standing diabetes.
+description: 'Post-meal sugar above 180 mg/dL coats red blood cells, raising your blood sugar marker (HbA1c) 0.2-0.4%. Meal timing and short walks prevent this drift.'
 date: '2026-01-23'
-updated: 2026-03-26
-primaryKeyword: why does A1C go up after the holidays
+updated: '2026-03-27'
+primaryKeyword: 'why does A1C go up after the holidays with diabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

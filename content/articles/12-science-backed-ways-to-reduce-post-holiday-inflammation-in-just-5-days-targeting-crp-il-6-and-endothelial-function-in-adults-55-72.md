@@ -1,10 +1,10 @@
 ---
-title: 'Holiday Inflammation Worrying You? (5-Day Reset Ages 55-72)'
+title: 'Can You Reset Inflammation in 5 Days? A Proven Guide for 55-72'
 slug: post-holiday-inflammation-reset-55-72
-description: 'Holiday meals causing inflammation? Get 12 proven strategies—polyphenol timing, breathwork, walking pace—to lower CRP and IL-6 in 5 days. Ages 55-72 guide.'
+description: 'Body-wide inflammation (elevated CRP and IL-6) drops measurably in 5 days with polyphenol timing, 20-min walks, and breathwork. Tested in adults 55-72.'
 date: '2026-01-11'
-updated: '2026-03-18'
-primaryKeyword: post-holiday inflammation adults 55-72
+updated: '2026-03-27'
+primaryKeyword: 'how to lower inflammation after holiday meals'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,11 @@
 ---
-title: Blood Sugar Harder to Control in Winter? 12 Fixes for Adults 60+
+title: 'Why Is Blood Sugar Worse in Winter? 12 Fixes for Adults 60+'
 slug: >-
   winter-blood-sugar-swings-adults-60-diabetes
-description: Shorter daylight disrupts circadian rhythm and widens glucose swings by 18% in adults 60+ with diabetes. Morning light and protein-first meals help stabilize.
+description: 'Shorter daylight widens blood sugar swings (glucose variability) by 18% in adults 60+ with diabetes. Morning light and protein-first meals help stabilize.'
 date: '2026-01-20'
-updated: '2026-03-26'
-primaryKeyword: winter blood sugar swings adults 60 diabetes
+updated: '2026-03-27'
+primaryKeyword: 'why is blood sugar harder to control in winter'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

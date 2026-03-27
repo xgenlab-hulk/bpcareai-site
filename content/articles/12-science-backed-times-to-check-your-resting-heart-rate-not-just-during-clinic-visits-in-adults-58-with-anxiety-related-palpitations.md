@@ -1,11 +1,11 @@
 ---
-title: 12 Best Times to Check Your Heart Rate — Beyond the Clinic
+title: '12 Best Times to Check Your Heart Rate — Beyond the Clinic'
 slug: >-
   heart-rate-check-anxiety-palpitations
-description: A 7 a.m. pulse can differ 12-18 bpm from one post-lunch. For adults 58+ with anxiety-linked racing (palpitations), 12 timing windows catch hidden shifts.
+description: 'A 7 a.m. pulse can differ 12-18 bpm from one post-lunch. For adults 58+ with anxiety-linked racing (palpitations), 12 timing windows catch hidden shifts.'
 date: '2026-02-06'
-updated: '2026-03-26'
-primaryKeyword: best times to check resting heart rate with anxiety
+updated: '2026-03-27'
+primaryKeyword: 'best times to check resting heart rate with anxiety'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

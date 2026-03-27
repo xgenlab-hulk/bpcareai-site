@@ -1,12 +1,12 @@
 ---
-title: 10 Foods That Steady Pulse Pressure With Stiff Arteries After 67
+title: '10 Foods That Steady Pulse Pressure After 67 — Without Lowering BP'
 slug: lower-pulse-pressure-foods-arterial-health
-description: >-
+description: 'Stiff arteries (aortic stiffness) widen your BP gap. Magnesium, glycine, and berry foods restore artery stretch — pulse pressure above 60 mmHg raises risk 20%.'
   Pulse pressure above 60 mmHg raises cardiac risk 20-30%. Glycine, magnesium,
   and MMP-blocking foods help restore artery wall stretch (arterial compliance).
 date: '2026-02-04'
-updated: '2026-03-26'
-primaryKeyword: foods that help pulse pressure with stiff arteries
+updated: '2026-03-27'
+primaryKeyword: 'how to stabilize pulse pressure with stiff arteries'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

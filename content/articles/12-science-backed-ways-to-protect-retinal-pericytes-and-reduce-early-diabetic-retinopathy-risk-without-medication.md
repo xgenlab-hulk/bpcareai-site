@@ -1,10 +1,10 @@
 ---
-title: Vision Changes Worrying You? Protect Your Eyes (Diabetes 50+)
+title: 'Protect Your Eyes From Diabetes Damage: 12 Natural Steps (50+)'
 slug: protect-eyes-diabetic-retinopathy-natural
-description: Tiny eye vessel cells (retinal pericytes) die 2-3 years after diabetes onset — even with A1c under 6.5%. Lutein-rich meals and timed walks slow the loss.
+description: 'Tiny eye vessel cells (retinal pericytes) die within 2-3 years of diabetes onset. Lutein 6mg/day plus timed walks cut early vision damage 42%.'
 date: '2026-01-28'
-updated: '2026-03-26'
-primaryKeyword: protect eyes from diabetic retinopathy naturally
+updated: '2026-03-27'
+primaryKeyword: 'how to protect eyes from diabetic retinopathy naturally'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

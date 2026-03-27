@@ -1,11 +1,11 @@
 ---
-title: 'Holiday Food Flaring Your RA? (Inflammation Guide 59-76)'
+title: 'Holiday Food Triggering RA Flares? 12 Strategies for Ages 59-76'
 slug: >-
   holiday-inflammation-ra-adults-59-76
-description: 'Holiday food flaring your rheumatoid arthritis? Get 12 proven strategies—omega-3 timing, fermented foods, tart cherry—to lower CRP and reduce inflammation in 2 weeks (ages 59-76).'
+description: 'Holiday meals spike joint swelling (RA inflammation) fast. Omega-3 timing, tart cherry, and fermented foods cut the inflammation marker (CRP) 18-25% in 2 weeks.'
 date: '2026-01-08'
-updated: '2026-03-18'
-primaryKeyword: holiday inflammation ra adults 59
+updated: '2026-03-27'
+primaryKeyword: 'how to reduce RA flares from holiday food'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

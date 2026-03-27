@@ -1,10 +1,10 @@
 ---
-title: "Gastroparesis and Diabetes After 64: 10 Foods That Stabilize Glucose"
+title: 'Gastroparesis and Diabetes After 64: 10 Foods for Steady Glucose'
 slug: gastroparesis-diabetes-foods-blood-sugar-control
-description: Slow stomach emptying (gastroparesis) makes glucose swing 80+ mg/dL after meals. These 10 low-FODMAP, soft-textured foods smooth absorption without bloating.
+description: 'Slow stomach emptying (gastroparesis) swings blood sugar 80+ mg/dL after meals. 10 low-FODMAP foods cut after-meal glucose swings by 38% without bloating.'
 date: '2026-01-29'
-updated: '2026-03-26'
-primaryKeyword: best foods for blood sugar with gastroparesis and diabetes
+updated: '2026-03-27'
+primaryKeyword: 'best foods for blood sugar with gastroparesis and diabetes'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

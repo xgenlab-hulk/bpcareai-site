@@ -1,11 +1,11 @@
 ---
-title: "Cutting AGEs in Holiday Roasts Without Giving Up Meat After 67"
+title: 'How to Cut Harmful Browning Compounds in Holiday Roasts After 67'
 slug: >-
   10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy
-description: "Roasting at 325\u00b0F with acidic marinades (pH <6) cuts harmful browning compounds (advanced glycation end products) 50% \u2014 key for adults 67+ with kidney disease."
+description: 'Roasting at 325°F with acidic marinades cuts browning compounds (advanced glycation end products) 50% — critical for adults 67+ with low eGFR.'
 date: '2026-02-02'
-updated: '2026-03-26'
-primaryKeyword: how to reduce harmful browning compounds in roasted meat
+updated: '2026-03-27'
+primaryKeyword: 'how to reduce browning compounds in roasted meat'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

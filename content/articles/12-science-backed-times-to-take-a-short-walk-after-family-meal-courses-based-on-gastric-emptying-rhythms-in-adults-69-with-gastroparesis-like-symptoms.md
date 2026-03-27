@@ -1,11 +1,11 @@
 ---
-title: When to Walk After Meals if You Have Gastroparesis Over 69
+title: 'When to Walk After Meals if You Have Gastroparesis Over 69'
 slug: >-
   post-meal-walk-timing-gastroparesis-69
-description: "A 3-5 min walk timed 20-25 min post-meal \u2014 when stomach contractions (gastric motility) peak \u2014 cut bloating 38% in adults 69+ with slow emptying."
+description: 'A 3-5 min walk timed 20-25 min post-meal — when stomach contractions (gastric motility) peak — cut bloating 38% in adults 69+ with slow emptying.'
 date: '2026-02-02'
-updated: '2026-03-26'
-primaryKeyword: when to walk after eating with slow stomach emptying
+updated: '2026-03-27'
+primaryKeyword: 'when to walk after eating with slow stomach emptying'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

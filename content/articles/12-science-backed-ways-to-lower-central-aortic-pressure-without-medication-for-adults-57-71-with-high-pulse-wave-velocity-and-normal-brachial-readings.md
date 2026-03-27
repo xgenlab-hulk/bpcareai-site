@@ -1,11 +1,11 @@
 ---
-title: Normal Arm BP but Stiff Arteries? 12 Ways to Lower Central Pressure
+title: 'Normal Arm BP but Stiff Arteries? 12 Ways to Lower Deep Pressure'
 slug: >-
   central-aortic-pressure-pwv-57-71
-description: Your arm reads 128/76 but deep artery pressure (central aortic) runs 20-30 mmHg higher. Handgrip training and nitrate-rich greens cut it 6-10 mmHg in 8 weeks.
+description: 'Arm reads 128/76 but deep artery pressure (central aortic pressure) runs 20-30 mmHg higher. Handgrip training and nitrate greens cut it 6-10 mmHg in 8 weeks.'
 date: '2026-01-29'
-updated: '2026-03-26'
-primaryKeyword: how to lower central aortic pressure without medication
+updated: '2026-03-27'
+primaryKeyword: 'how to lower central aortic pressure without medication'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

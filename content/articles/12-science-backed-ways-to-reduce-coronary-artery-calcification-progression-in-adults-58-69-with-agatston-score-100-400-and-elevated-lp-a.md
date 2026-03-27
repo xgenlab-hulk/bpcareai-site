@@ -1,11 +1,11 @@
 ---
-title: CAC Score 100-400 With High Lp(a)? 12 Ways to Slow It Down
+title: 'High Lp(a) and CAC Score 100-400? 12 Ways to Slow Progression'
 slug: >-
   slow-cac-progression-high-lpa-adults-58-69
-description: Untreated CAC scores rise 15-20% yearly. Vitamin K2 MK-7 at 180mcg/day plus fiber timing slows artery hardening (coronary calcification) ~25% over 2 years.
+description: 'Untreated artery calcium scores rise 15-20% yearly. K2-MK7 at 180mcg/day slows artery hardening (coronary calcification) ~25% over 2 years for adults 58-69.'
 date: '2026-01-22'
-updated: 2026-03-26
-primaryKeyword: how to slow coronary artery calcium with high Lp(a)
+updated: '2026-03-27'
+primaryKeyword: 'how to slow artery calcium when Lp(a) is high'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

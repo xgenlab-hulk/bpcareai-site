@@ -1,10 +1,10 @@
 ---
-title: 12 Ways to Protect Your Blood Vessels After Meals With Diabetes
+title: 'Protect Your Blood Vessels After Meals if You Have Diabetes (60-76)'
 slug: blood-vessel-health-meals-diabetes-60-76
-description: Meals drop artery stretch (flow-mediated dilation) 2-4% within 60 min in adults 60-76 with diabetes. Vinegar timing and post-meal walks restore it in 45 min.
+description: 'Meals stiffen your arteries (endothelial dysfunction), dropping vessel stretch 2-4% in adults 60-76 with diabetes. Vinegar timing and walks restore it in 45 min'
 date: '2026-01-27'
-updated: '2026-03-26'
-primaryKeyword: how to protect blood vessels after meals with diabetes
+updated: '2026-03-27'
+primaryKeyword: 'how to protect blood vessels after meals with diabetes'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

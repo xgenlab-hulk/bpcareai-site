@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why Your Blood Pressure Surges Every Morning — Fixes for Ages 66-79'
   12 Science-Backed Ways to Stabilize Morning Blood Pressure Spikes Without
   Increasing Beta-Blocker Dose in Adults 66–79
 slug: >-
   12-science-backed-ways-to-stabilize-morning-blood-pressure-spikes-without-increasing-beta-blocker-dose-in-adults-66-79
-description: >-
+description: 'Morning BP surges hit 1 in 3 adults over 65. Pre-wake hydration and slow breathing lower the early spike (morning hypertension) 8-12 mmHg without new meds.'
   Morning BP spiking? Get 12 nonpharmacologic strategies—pre-wake hydration,
   light exposure, breathing—to lower surges without medication changes (ages
   66-79).
 date: '2026-01-09'
-updated: '2026-03-18'
-primaryKeyword: stabilize morning blood pressure spikes adults 66-79
+updated: '2026-03-27'
+primaryKeyword: 'morning blood pressure spike causes and fixes over 65'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

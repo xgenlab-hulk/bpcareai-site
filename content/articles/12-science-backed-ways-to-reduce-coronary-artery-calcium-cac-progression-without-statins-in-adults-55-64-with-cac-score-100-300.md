@@ -1,11 +1,11 @@
 ---
-title: "Slowing Artery Calcium Without Statins: 12 Ways for Adults 55-64"
+title: 'Can You Slow Artery Calcium Without Statins? 12 Ways for Ages 55-64'
 slug: >-
   slow-cac-without-statins-adults-55-64
-description: "A calcium score (CAC) of 100-300 signals moderate plaque. Vitamin K2-MK7 at 180mcg/day slowed artery hardening (calcification) 40% in statin-free adults 55-64."
+description: 'A calcium score of 100-300 means moderate plaque. K2-MK7 at 180mcg/day slowed artery hardening (coronary calcification) by 40% in statin-free adults 55-64.'
 date: '2026-02-02'
-updated: '2026-03-26'
-primaryKeyword: how to slow artery calcium buildup without statins
+updated: '2026-03-27'
+primaryKeyword: 'how to reduce artery calcium without taking statins'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

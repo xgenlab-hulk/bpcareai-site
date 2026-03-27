@@ -1,10 +1,10 @@
 ---
-title: 10 Foods That Narrow the Blood Pressure Gap Without Dropping BP
+title: 'How to Narrow the Blood Pressure Gap Naturally After 69'
 slug: stabilize-blood-pressure-gap-naturally-seniors
-description: "A wide gap between top and bottom BP numbers (pulse pressure >60 mmHg) signals stiff arteries. Berries, collagen peptides, and fermented soy help after 69."
+description: 'A wide gap between top and bottom BP numbers (pulse pressure >60 mmHg) raises stroke risk ~20%. Berries, collagen peptides, and fermented soy help after 69.'
 date: '2026-02-09'
-updated: '2026-03-25'
-primaryKeyword: foods that narrow wide pulse pressure without lowering BP
+updated: '2026-03-27'
+primaryKeyword: 'foods to narrow wide pulse pressure without lowering BP'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

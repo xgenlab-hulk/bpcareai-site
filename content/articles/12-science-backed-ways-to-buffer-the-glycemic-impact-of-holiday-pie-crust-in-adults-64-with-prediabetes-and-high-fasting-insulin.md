@@ -1,11 +1,11 @@
 ---
-title: Love Holiday Pie? 12 Ways to Blunt the Sugar Spike After 64
+title: 'Love Holiday Pie? 12 Ways to Blunt the Sugar Spike After 64'
 slug: >-
   holiday-pie-blood-sugar-prediabetes-64
-description: One pie slice spikes glucose 40-60 mg/dL with prediabetes. Vinegar before eating and almond-flour swaps cut that spike ~35%, per continuous monitor (CGM) data.
+description: 'One pie slice spikes glucose 40-60 mg/dL with prediabetes. Vinegar before eating and almond-flour swaps cut that spike ~35%, per continuous monitor (CGM) data.'
 date: '2026-01-31'
-updated: '2026-03-26'
-primaryKeyword: how to eat pie without spiking blood sugar
+updated: '2026-03-27'
+primaryKeyword: 'how to eat pie without spiking blood sugar'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

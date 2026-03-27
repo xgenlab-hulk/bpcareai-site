@@ -1,10 +1,10 @@
 ---
-title: 10 Foods That Worsen Diabetic Retinopathy — Even With Normal A1c
+title: '10 Foods That Worsen Diabetic Eye Damage — Even With Normal A1c'
 slug: foods-worsen-diabetic-retinopathy
-description: Grilled meats form harmful compounds (AGEs) that damage retinal blood vessels — independent of A1c, BP, or LDL. 10 foods to limit after 60.
+description: 'Grilled meats form harmful compounds (AGEs) that damage retinal vessels — independent of your blood sugar marker (HbA1c), BP, or LDL. 10 foods to limit at 60+.'
 date: '2026-02-03'
-updated: '2026-03-26'
-primaryKeyword: foods that worsen diabetic eye damage after 60
+updated: '2026-03-27'
+primaryKeyword: 'foods that worsen diabetic eye damage after 60'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

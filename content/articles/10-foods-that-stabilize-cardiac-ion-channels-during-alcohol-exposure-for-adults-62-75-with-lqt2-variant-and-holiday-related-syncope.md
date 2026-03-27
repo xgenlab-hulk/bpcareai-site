@@ -1,10 +1,10 @@
 ---
-title: Safe Holiday Foods With Long QT Syndrome and Alcohol (62+)
+title: 'Safe Holiday Foods With Long QT Syndrome and Alcohol (62+)'
 slug: heart-safe-foods-long-qt-syndrome-seniors
-description: Alcohol cuts hERG potassium current up to 25%, widening QT intervals. 400mg/day magnesium buffers this electrical delay (ion channel dysfunction) in LQT2.
+description: 'Alcohol cuts heart rhythm signals (hERG potassium current) up to 25%. 400mg/day magnesium buffers this electrical delay for adults 62-75 with LQT2.'
 date: '2026-01-24'
-updated: 2026-03-26
-primaryKeyword: what foods are safe with long QT syndrome and alcohol
+updated: '2026-03-27'
+primaryKeyword: 'what foods are safe with long QT syndrome and alcohol'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

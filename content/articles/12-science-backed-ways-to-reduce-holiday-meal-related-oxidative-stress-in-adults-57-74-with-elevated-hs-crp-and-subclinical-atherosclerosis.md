@@ -1,11 +1,11 @@
 ---
-title: Holiday Food Causing Fatigue? Inflammation Guide for Adults 57-74
+title: '12 Anti-Inflammation Swaps for Holiday Meals After Age 57'
 slug: >-
   holiday-inflammation-food-adults-57-74
-description: One rich holiday meal spikes inflammation (hs-CRP) for 4-6 hours in adults 57-74. 12 food swaps target oxidative stress that accelerates early plaque buildup.
+description: 'A rich holiday meal spikes inflammation markers (hs-CRP) for 4-6 hours. 12 food swaps target cell damage (oxidative stress) that speeds plaque in adults 57-74.'
 date: '2026-01-20'
-updated: '2026-03-26'
-primaryKeyword: holiday food inflammation adults 57 elevated crp
+updated: '2026-03-27'
+primaryKeyword: 'how to reduce inflammation from holiday meals over 57'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

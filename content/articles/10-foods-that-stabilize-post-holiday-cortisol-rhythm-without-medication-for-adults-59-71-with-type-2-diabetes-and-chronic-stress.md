@@ -1,10 +1,10 @@
 ---
-title: 10 Foods That Reset Stress Hormones After Holidays (59-71)
+title: '10 Foods That Reset Stress Hormones After Holidays (59-71)'
 slug: lower-cortisol-foods-diabetes-holiday-stress
-description: Holiday disruptions flatten your cortisol curve (HPA axis rhythm), raising fasting glucose 15-25 mg/dL. Pumpkin seeds and fermented foods restore daily rhythm.
+description: 'Holiday disruptions flatten your stress rhythm (HPA axis cortisol curve), raising fasting glucose 15-25 mg/dL. Pumpkin seeds and fermented foods help.'
 date: '2026-01-24'
-updated: 2026-03-26
-primaryKeyword: foods that lower cortisol for diabetics naturally
+updated: '2026-03-27'
+primaryKeyword: 'foods that lower cortisol for diabetics naturally'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

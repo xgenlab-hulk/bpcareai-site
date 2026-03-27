@@ -1,10 +1,10 @@
 ---
-title: Heart Racing After Holiday Meals? 10 Foods to Stay Steady
+title: 'Heart Racing After Holiday Meals? 10 Foods for Adults 61-74'
 slug: prevent-dizziness-heart-racing-holiday-meals-seniors
-description: 30% of adults 60+ have autonomic imbalance (vagal tone drop) causing post-meal heart rate jumps of 30-50 bpm. Fermented foods and beets calm it within 20 min.
+description: '30% of adults 60+ have nerve-driven heart rate jumps (vagal tone drop) with post-meal spikes of 30-50 bpm. Fermented foods and beets calm it in 20 min.'
 date: '2026-01-22'
-updated: 2026-03-26
-primaryKeyword: foods that stop heart racing after meals for seniors
+updated: '2026-03-27'
+primaryKeyword: 'foods that stop heart racing after holiday meals'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

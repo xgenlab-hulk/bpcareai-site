@@ -1,11 +1,11 @@
 ---
-title: 10 Ways to Cut Sodium in Holiday Sides Without Losing Flavor
+title: '10 Ways to Cut Sodium in Holiday Sides Without Losing Flavor'
 slug: >-
   10-quick-ways-to-reduce-sodium-load-in-traditional-holiday-side-dishes-without-losing-flavor-or-family-approval
-description: Green bean casserole packs 800+ mg sodium per serving. Rinsing beans and swapping broth cuts salt load (sodium content) under 400 mg with full flavor.
+description: 'Green bean casserole packs 800+ mg of salt load (sodium) per serving. These 10 swaps bring it under 400 mg for adults 50+ with high BP.'
 date: '2026-01-18'
-updated: '2026-03-26'
-primaryKeyword: how to lower sodium in holiday side dishes
+updated: '2026-03-27'
+primaryKeyword: 'how to lower sodium in holiday side dishes'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

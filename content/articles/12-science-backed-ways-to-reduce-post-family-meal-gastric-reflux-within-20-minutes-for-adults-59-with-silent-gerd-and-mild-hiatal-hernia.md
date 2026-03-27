@@ -1,11 +1,11 @@
 ---
-title: Reflux After Family Meals? 12 Quick Fixes for Adults 59+
+title: 'Reflux After Family Meals? 12 Quick Fixes for Adults 59+'
 slug: >-
   reflux-after-meals-relief-adults-59
-description: Left-side positioning, cool water timing, and 4-count breathing cut acid reflux 40-60% within 20 minutes — even with a sliding stomach opening (hiatal hernia).
+description: 'Left-side positioning and cool water timing cut acid splashback (gastric reflux) 40-60% within 20 minutes, even with a sliding stomach opening (hiatal hernia).'
 date: '2026-01-28'
-updated: '2026-03-26'
-primaryKeyword: how to stop reflux after meals quickly
+updated: '2026-03-27'
+primaryKeyword: 'how to stop reflux after meals quickly'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

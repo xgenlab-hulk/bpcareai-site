@@ -1,11 +1,11 @@
 ---
-title: 'Triglycerides Rising After Meals? (Sedentary Seniors 65+)'
+title: 'Blood Fats Spiking After Meals? 12 Gentle Fixes for Seniors 65+'
 slug: >-
   12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
-description: 'Triglycerides spiking after meals? Get 5-minute walking tricks, fiber timing, and food strategies to lower fat spikes—adults 65+ (sedentary lifestyle).'
+description: 'A 5-min post-meal walk boosts fat clearance (triglyceride clearance) up to 40% in adults 65+. Fiber-first eating cuts spikes 15%—no gym or diet overhaul needed.'
 date: '2025-12-21'
-updated: '2026-03-18'
-primaryKeyword: triglycerides after meals sedentary seniors 65
+updated: '2026-03-27'
+primaryKeyword: 'how to lower triglycerides after meals for seniors 65'
 topicCluster: special-populations
 image: ''
 relatedSlugs:
