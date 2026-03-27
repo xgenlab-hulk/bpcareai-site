@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Tai Chi vs. Biofeedback: Which Lowers BP Better in Women 64-78?'
   A vs B: Daily 10-Minute Tai Chi Flow vs. Guided Heart Coherence Biofeedback
   for Improving 24-Hour HRV in Women 64–78 With Hypertension and Perimenopausal
   Vasomotor Symptoms
 slug: >-
   a-vs-b-daily-10-minute-tai-chi-flow-vs-guided-heart-coherence-biofeedback-for-improving-24-hour-hrv-in-women-64-78-with-hypertension-and-perimenopausal-vasomotor-symptoms
-description: >-
+description: 'Daily 10-min tai chi raised heart rate variability (HRV) 12-18% vs. 8-14% for biofeedback in women with high BP and hot flashes (vasomotor symptoms).'
   Compares real-world effectiveness, adherence, and cardiac autonomic outcomes
   of two non-pharmacologic interventions tailored for women navigating hormonal
   transition and sympathetic overactivity.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: tai chi vs heart coherence biofeedback women
+updated: '2026-03-27'
+primaryKeyword: 'tai chi vs biofeedback for blood pressure in women'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Indoor Air Quality Changes During Winter Affect Fasting Glucose in Adults
-  65+ With Type 2 Diabetes
+title: 'Poor Winter Air Quality May Raise Your Fasting Blood Sugar After 65'
 slug: >-
   how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
-description: >-
-  Explores the underrecognized link between seasonal indoor pollutants (e.g.,
-  CO₂ buildup, VOCs from heating systems) and overnight glycemic variability —
-  with actionable ventilation and monitoring strategies for colder months.
+description: 'CO2 above 1,000 ppm in sealed winter homes shifts overnight sugar balance (glycemic variability) by 8-15 mg/dL in adults 65+ with diabetes. Ventilation helps.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: winter indoor air glucose control seniors
+updated: '2026-03-27'
+primaryKeyword: 'can poor indoor air raise fasting blood sugar in winter'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

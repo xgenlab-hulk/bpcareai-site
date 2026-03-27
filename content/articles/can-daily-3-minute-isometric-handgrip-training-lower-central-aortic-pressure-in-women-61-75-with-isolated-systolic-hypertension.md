@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can Daily 3-Minute Isometric Handgrip Training Lower Central Aortic Pressure
-  in Women 61–75 With Isolated Systolic Hypertension?
+title: '3-Minute Handgrip Training to Lower Aortic Pressure in Women 61+'
 slug: >-
   can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension
-description: >-
-  Reviews RCT evidence on non-aerobic vascular conditioning, baroreflex
-  resetting, and why this underused modality outperforms walking for systolic
-  reduction in older women.
+description: 'Squeezing at 30% max grip 3 min/day lowered deep artery pressure (central aortic pressure) 5-8 mmHg in women 61-75 with high systolic-only readings.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: isometric handgrip central aortic pressure women 60s
+updated: '2026-03-27'
+primaryKeyword: 'does squeezing a handgrip lower blood pressure in women'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

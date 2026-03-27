@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Your "Healthy" Salad Dressing May Be Stiffening Your Arteries After 70'
   Warning Signs Your ‘Healthy Swap’ Salad Dressing Is Actually Driving
   Sodium-Induced Endothelial Stiffness in Adults 70+ With Stage 1 Hypertension
   and Reduced Arterial Compliance
 slug: >-
   warning-signs-your-healthy-swap-salad-dressing-is-actually-driving-sodium-induced-endothelial-stiffness-in-adults-70-with-stage-1-hypertension-and-reduced-arterial-compliance
-description: >-
+description: 'Some low-fat dressings pack 400-600mg sodium per serving, enough to stiffen artery walls (endothelial dysfunction) within 2 hours. Look beyond the label.'
   Debunks misleading 'low-fat' and 'sugar-free' bottled dressings by analyzing
   hidden sodium load, preservative interactions, and pulse-wave velocity changes
   observed during family buffet meals.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: salad dressing sodium endothelial stiffness
+updated: '2026-03-27'
+primaryKeyword: 'can healthy salad dressing raise blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

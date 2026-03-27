@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Restoring Blood Flow After Cold for Seniors With Raynaud\'s'
   Quick Ways to Restore Post-Exercise Vascular Reactivity After Cold Exposure —
   For Adults 68+ With Raynaud’s Phenomenon and Elevated Pulse Wave Velocity
 slug: >-
   quick-ways-to-restore-post-exercise-vascular-reactivity-after-cold-exposure-for-adults-68-with-raynaud-s-phenomenon-and-elevated-pulse-wave-velocity
-description: >-
+description: 'Cold locks down vessels (endothelial dysfunction) 90+ min in adults 68+ with Raynaud\'s. Warm-cool soaks restore flexibility 3x faster than passive rewarming.'
   Provides immediate, evidence-based recovery strategies (e.g., sequential
   thermal contrast, nitrate-rich precooling, timed post-cool hydration) to
   reverse cold-induced endothelial dysfunction and arterial stiffening.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: cold exposure vascular reactivity recovery seniors
+updated: '2026-03-27'
+primaryKeyword: 'restoring blood flow after cold with Raynaud\'s'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

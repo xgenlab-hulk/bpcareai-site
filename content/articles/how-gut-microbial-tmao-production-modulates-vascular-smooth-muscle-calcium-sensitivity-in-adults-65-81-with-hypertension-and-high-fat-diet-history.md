@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'How Gut Bacteria Raise Blood Pressure via TMAO After 65'
   How Gut Microbial TMAO Production Modulates Vascular Smooth Muscle Calcium
   Sensitivity in Adults 65–81 With Hypertension and High-Fat Diet History
 slug: >-
   how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history
-description: >-
+description: 'Red meat feeds gut bacteria that produce TMAO, stiffening artery walls (vascular calcium sensitivity). Diet shifts cut TMAO levels 40% within 6 weeks after 65.'
   Connects microbial metabolites to intracellular calcium handling in resistance
   arteries — with dietary interventions to lower TMAO and improve vasodilatory
   reserve.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: tmao blood pressure vascular calcium
+updated: '2026-03-27'
+primaryKeyword: 'how gut bacteria TMAO raises blood pressure'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

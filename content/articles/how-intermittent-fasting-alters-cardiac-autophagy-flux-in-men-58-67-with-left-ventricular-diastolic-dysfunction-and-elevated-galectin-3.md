@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Does Fasting Help or Hurt a Stiff Heart? Men 58-67 Need to Know'
   How Intermittent Fasting Alters Cardiac Autophagy Flux in Men 58–67 With Left
   Ventricular Diastolic Dysfunction and Elevated Galectin-3
 slug: >-
   how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
-description: >-
+description: 'Fasting may boost cell cleanup (autophagy) in heart muscle, but men with stiff filling (diastolic dysfunction) and galectin-3 above 17 see mixed MRI results.'
   Analyzes time-restricted eating’s impact on lysosomal clearance of misfolded
   proteins in cardiomyocytes — with MRI-T1 mapping and plasma LC3-II/Bnip3
   ratios as functional biomarkers.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: intermittent fasting cardiac autophagy diastolic dysfunction
+updated: '2026-03-27'
+primaryKeyword: 'does intermittent fasting help a stiff heart'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

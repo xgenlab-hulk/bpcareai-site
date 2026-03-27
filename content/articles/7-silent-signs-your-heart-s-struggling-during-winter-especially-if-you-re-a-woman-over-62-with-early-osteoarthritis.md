@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Heart’s Struggling During Winter—Especially If You’re a
-  Woman Over 62 With Early Osteoarthritis
+title: '7 Winter Warning Signs Women Over 62 Mistake for Arthritis Pain'
 slug: >-
   7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
-description: >-
-  Explores cold-weather–induced cardiovascular strain masked as joint pain or
-  fatigue, with emphasis on delayed symptom recognition and gender-specific
-  physiological shifts in microvascular resistance.
+description: 'Cold narrows small blood vessels (microvascular constriction) 20-30% more in postmenopausal women. Joint stiffness or jaw ache may signal cardiac strain.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: silent heart disease signs winter women over 60
+updated: '2026-03-27'
+primaryKeyword: 'silent signs of heart trouble in women during winter'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

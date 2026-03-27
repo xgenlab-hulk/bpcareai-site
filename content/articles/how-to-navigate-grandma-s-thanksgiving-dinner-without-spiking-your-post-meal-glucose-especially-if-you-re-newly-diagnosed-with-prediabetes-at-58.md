@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Newly Diagnosed at 58? How to Handle Thanksgiving Glucose'
   How to Navigate Grandma’s Thanksgiving Dinner Without Spiking Your Post-Meal
   Glucose—Especially If You’re Newly Diagnosed With Prediabetes at 58
 slug: >-
   how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
-description: >-
+description: 'Eating fiber first cuts after-meal spikes (postprandial glucose) by 30-40%. A plate-by-plate plan keeps levels under 180 mg/dL — no need to skip the pie.'
   A step-by-step, plate-by-plate guide to making real-time food swaps, timing
   insulin or meds, and using fiber-first sequencing to blunt glucose spikes
   during multigenerational holiday meals.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: manage post-meal glucose at family dinners
+updated: '2026-03-27'
+primaryKeyword: 'how to manage blood sugar at Thanksgiving dinner'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

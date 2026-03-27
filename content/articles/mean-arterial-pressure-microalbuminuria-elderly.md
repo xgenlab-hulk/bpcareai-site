@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'When \'Normal\' BP Hides Kidney Damage: Mean Arterial Pressure After 72'
   When to Worry About ‘Normal’ Office BP and Elevated Ambulatory Mean Arterial
   Pressure in Adults 72+ With White-Coat Resolved but Persistent
   Microalbuminuria
 slug: >-
   when-to-worry-about-normal-office-bp-and-elevated-ambulatory-mean-arterial-pressure-in-adults-72-with-white-coat-resolved-but-persistent-microalbuminuria
-description: >-
+description: 'Office BP under 140/90 can mask a high average pressure (mean arterial pressure) above 95 mmHg — driving protein leak (microalbuminuria) in adults 72+.'
   Highlights MAP as an underused predictor of target organ damage — linking
   renal hyperfiltration, glomerular capillary pressure, and early CKD
   progression in normotensive-appearing elders.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: mean arterial pressure microalbuminuria elderly
+updated: '2026-03-27'
+primaryKeyword: 'normal blood pressure but protein in urine after 70'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

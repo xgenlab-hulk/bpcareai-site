@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Roast Turkey vs. Ground Patties: Fullness With Gastroparesis'
   A vs B: Slow-Chewed Roast Turkey vs. Ground Turkey Patties — Impact on Satiety
   Hormone Release and Post-Meal Fullness in Adults 55–69 With Mild Gastroparesis
   and Early Sarcopenia
 slug: >-
   a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia
-description: >-
+description: 'Slow-chewed roast turkey triggers 28% more fullness hormone (GLP-1) than patties in adults 55-69 with slow emptying (gastroparesis) — needs 40+ chews per bite.'
   Compares chewing-dependent gastric distension cues and GLP-1/CCK response
   curves between whole-muscle and processed poultry formats using real-time
   gastric ultrasound and satiety diaries.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: "diet management post-meal seniors"
+updated: '2026-03-27'
+primaryKeyword: 'chewing turkey for fullness with gastroparesis'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Cardiac Amyloidosis in Adults 74–88 With Unexplained Fatigue,
-  Bilateral Carpal Tunnel Release History, and Normal Ejection Fraction
+title: 'Had Carpal Tunnel Surgery? 5 Heart Warning Signs After 74'
 slug: >-
   when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction
-description: >-
-  Highlights under-recognized red flags—including disproportionate exertional
-  intolerance, autonomic symptoms, and echo texture clues—that precede overt
-  heart failure in wild-type ATTR amyloidosis.
+description: 'Prior bilateral carpal tunnel release precedes protein deposits in the heart (ATTR amyloidosis) by 5-9 years in adults 74-88. Fatigue is the earliest clue.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: cardiac amyloidosis signs after carpal tunnel surgery
+updated: '2026-03-27'
+primaryKeyword: 'heart problems after carpal tunnel surgery in seniors'
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

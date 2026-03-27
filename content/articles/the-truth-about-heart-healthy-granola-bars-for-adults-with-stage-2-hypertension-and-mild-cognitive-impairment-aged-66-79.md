@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Granola Bars Labeled Heart-Healthy: What They Hide After 66'
   The Truth About ‘Heart-Healthy’ Granola Bars for Adults With Stage 2
   Hypertension and Mild Cognitive Impairment Aged 66–79
 slug: >-
   the-truth-about-heart-healthy-granola-bars-for-adults-with-stage-2-hypertension-and-mild-cognitive-impairment-aged-66-79
-description: >-
+description: 'Most heart-healthy granola bars pack 180-280mg sodium and 8-12g added sugar. That affects brain blood flow (cerebral perfusion) in adults 66-79 with stage 2 BP.'
   Debunks marketing claims by analyzing actual sodium, added sugar, and
   ultra-processed ingredient loads—and how they impact both BP control and
   cerebral perfusion stability.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: heart healthy granola bars for hypertension and mci
+updated: '2026-03-27'
+primaryKeyword: 'are granola bars heart healthy with high blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

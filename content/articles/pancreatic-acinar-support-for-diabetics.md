@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Supporting Your Pancreas Naturally With Diabetes After 65'
   Natural Ways to Support Pancreatic Acinar Cell Function and Reduce
   Postprandial Lipase Deficiency in Adults 65+ With Long-Standing Type 2
   Diabetes and Fatty Pancreas Imaging
 slug: >-
   natural-ways-to-support-pancreatic-acinar-cell-function-and-reduce-postprandial-lipase-deficiency-in-adults-65-with-long-standing-type-2-diabetes-and-fatty-pancreas-imaging
-description: >-
+description: 'Diabetes can shrink enzyme-producing cells (acinar cells) 30-40%, causing fat malabsorption and glucose swings. Zinc, B6, and timed protein help adults over 65.'
   Focuses on dietary enzyme co-factors (zinc, B6), bitters, and timed protein
   intake to support exocrine pancreas health—reducing fat malabsorption–driven
   glucose volatility and steatorrhea.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: pancreatic acinar support for diabetics
+updated: '2026-03-27'
+primaryKeyword: 'pancreatic enzyme support for diabetes over 65'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

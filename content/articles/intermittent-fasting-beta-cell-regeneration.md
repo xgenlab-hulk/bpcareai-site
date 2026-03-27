@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Can 16:8 Fasting Restore Insulin-Producing Cells in Early Diabetes?'
   What Research Says About Intermittent Fasting (16:8) and Beta-Cell
   Regeneration in Adults 55–67 With Recent-Onset Type 2 Diabetes and Preserved
   C-Peptide
 slug: >-
   what-research-says-about-intermittent-fasting-16-8-and-beta-cell-regeneration-in-adults-55-67-with-recent-onset-type-2-diabetes-and-preserved-c-peptide
-description: >-
+description: '16:8 fasting may reverse insulin cell shutdown (beta-cell dedifferentiation) in adults 55-67 diagnosed under 3 years. C-peptide above 1.1 ng/mL predicts it.'
   Synthesizes human islet cell imaging, fasting-induced beta-cell
   dedifferentiation reversal, and long-term insulin independence rates observed
   in real-world cohorts.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: intermittent fasting beta-cell regeneration
+updated: '2026-03-27'
+primaryKeyword: 'can fasting restore insulin-producing cells'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

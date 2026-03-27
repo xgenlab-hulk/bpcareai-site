@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Good BP Numbers but Foggy Brain? Your Medication May Be the Cause'
   Warning Signs Your BP Medication Is Causing Subclinical Cerebral Hypoperfusion
   — Even If Your Numbers Look 'Good' on ABPM
 slug: >-
   warning-signs-your-bp-medication-is-causing-subclinical-cerebral-hypoperfusion-even-if-your-numbers-look-good-on-abpm
-description: >-
+description: 'Nighttime systolic below 110 mmHg (excessive nocturnal dipping) cuts brain perfusion 15-20%. New gait unsteadiness and word-finding trouble signal the problem.'
   Highlights cognitive, gait, and sleep architecture changes linked to excessive
   nocturnal dipping or excessive peripheral vasodilation — with SPECT perfusion
   correlation tips.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: bp medication cerebral hypoperfusion
+updated: '2026-03-27'
+primaryKeyword: 'can blood pressure medicine reduce brain blood flow'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

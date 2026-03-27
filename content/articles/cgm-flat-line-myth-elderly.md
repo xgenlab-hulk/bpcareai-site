@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Flat CGM Lines After 65? Why Stable Readings May Be Lying'
   Myths vs Facts: 'My Blood Sugar Is Fine Because My CGM Shows Flat Lines' —
   Especially for Adults Over 65 With Sluggish Interstitial Fluid Turnover and
   Delayed Glucose Signal
 slug: >-
   myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal
-description: >-
+description: 'Aging skin slows glucose to sensors by 12-18 min, masking real spikes. Fingerstick checks within 30 min of meals catch what your monitor (CGM) misses.'
   Debunks the false reassurance of stable CGM traces in aging tissue—detailing
   interstitial lag, sensor drift in low-perfusion areas, and why fingerstick
   validation windows matter more than ever.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: CGM flat line myth elderly
+updated: '2026-03-27'
+primaryKeyword: 'why flat CGM readings can be misleading after 65'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

@@ -1,13 +1,13 @@
 ---
-title: Metformin Slowing Your Thinking? (Low B12 Adults 67+)
+title: 'Metformin Slowing Your Thinking? Low B12 in Adults 67+'
 slug: metformin-b12-cognitive-slowing-67
-description: >-
+description: 'After 5+ years on metformin, B12 drops below 300 pg/mL in up to 30% of users — causing nerve damage (methylmalonic acid rise) before anemia appears.'
   On metformin 5+ years and notice memory lapses? Discover 7 B12-brain risks
   beyond anemia—plus MMA tests and sublingual B12 proven to restore sharpness
   (adults 67+).
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: metformin b12 cognitive slowing seniors
+updated: '2026-03-27'
+primaryKeyword: 'metformin b12 cognitive slowing seniors'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

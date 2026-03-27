@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Men 52-64: How Night Shifts Drive Non-Dipping Blood Pressure'
   How Chronic Low-Dose Cortisol Elevation From Night Shift Work Alters
   Renin-Angiotensin Feedback Loops in Men 52–64 With Nocturnal Hypertension
 slug: >-
   how-chronic-low-dose-cortisol-elevation-from-night-shift-work-alters-renin-angiotensin-feedback-loops-in-men-52-64-with-nocturnal-hypertension
-description: >-
+description: 'Night shifts raise cortisol 30-50% at the wrong hour, overdriving the salt-and-BP hormone loop (renin-angiotensin). BP stays elevated during sleep.'
   Analyzes circadian disruption’s impact on adrenal output, RAAS sensitivity,
   and non-dipping BP patterns — including real-world shift-work adaptations and
   biomarker monitoring windows.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: night shift blood pressure renin angiotensin
+updated: '2026-03-27'
+primaryKeyword: 'night shift work and high blood pressure that won\'t dip'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Low-Dose Aspirin and Poor Leg Blood Flow: A Hidden Link After 68'
   How Chronic Low-Dose Aspirin Use Alters Prostacyclin–Thromboxane Balance and
   Worsens Peripheral Vasoconstriction in Adults 68–83 With Hypertension and
   Claudication
 slug: >-
   how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication
-description: >-
+description: 'Low-dose aspirin suppresses a vessel-relaxing signal (prostacyclin) in leg arteries, worsening walking cramps (claudication) in adults 68-83 with high BP.'
   Analyzes aspirin’s differential inhibition of COX-1 in platelets vs. COX-2 in
   endothelium—and why sustained low-dose use may impair vasodilatory
   prostacyclin synthesis in patients with PAD and hypertension.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: "hypertension management seniors"
+updated: '2026-03-27'
+primaryKeyword: 'low dose aspirin and poor leg circulation'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

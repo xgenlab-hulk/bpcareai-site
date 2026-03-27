@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: 10-Minute Seated Tai Chi vs. Guided Progressive Muscle Relaxation for
-  Reducing Nighttime Systolic Spikes in Women 63–75 With Insomnia and Nocturnal
-  Hypertension
+title: 'Tai Chi vs Muscle Relaxation: Which Lowers BP at Night?'
 slug: >-
   a-vs-b-10-minute-seated-tai-chi-vs-guided-progressive-muscle-relaxation-for-reducing-nighttime-systolic-spikes-in-women-63-75-with-insomnia-and-nocturnal-hypertension
-description: >-
-  Compares two non-pharmacologic, low-barrier interventions for BP dipping
-  failure, emphasizing neural mechanisms, feasibility for mobility-limited
-  seniors, and 7-day ambulatory BP outcomes.
+description: 'Seated tai chi lowered nighttime systolic BP 8-12 mmHg vs 4-6 for relaxation over 7 days in women 63-75 with high BP during sleep (nocturnal hypertension).'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: tai chi vs muscle relaxation for nocturnal hypertension
+updated: '2026-03-27'
+primaryKeyword: 'tai chi vs muscle relaxation for nighttime blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

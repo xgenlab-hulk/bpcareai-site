@@ -1,17 +1,11 @@
 ---
-title: >-
-  Quick Ways to Normalize Post-Meal Salivary Amylase Activity — A Forgotten
-  Lever for Starch Digestion in Adults Over 71 With Denture-Related Chewing
-  Changes
+title: 'Why Holiday Starches Cause Bloating for Seniors With Dentures'
 slug: >-
   quick-ways-to-normalize-post-meal-salivary-amylase-activity-a-forgotten-lever-for-starch-digestion-in-adults-over-71-with-denture-related-chewing-changes
-description: >-
-  Offers practical, 90-second interventions (chew timing, vinegar pre-rinse,
-  apple cider dosage) to support oral-phase starch breakdown in seniors with
-  altered mastication and oral pH.
+description: 'Seniors 71+ with dentures make 40-60% less starch-digesting enzyme (salivary amylase). A 90-second chew-timing trick and vinegar pre-rinse restore digestion.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: salivary amylase holiday seniors
+updated: '2026-03-27'
+primaryKeyword: 'why starchy holiday foods cause bloating with dentures'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

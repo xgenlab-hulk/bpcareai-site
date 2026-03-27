@@ -1,16 +1,11 @@
 ---
-title: >-
-  A vs B: Home-Based Isometric Handgrip Training vs Guided Breathing Apps for
-  Lowering Diastolic BP in Sedentary Men 64–76
+title: 'Handgrip Squeeze vs Breathing App: Which Lowers BP for Men 64+?'
 slug: >-
   a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76
-description: >-
-  Compares 4-week efficacy, adherence rates, and home BP trajectory changes
-  between two accessible non-pharmacologic interventions—using validated
-  ambulatory data.
+description: 'Handgrip training dropped the lower BP number (diastolic) 5-8 mmHg in 4 weeks vs 2-4 for breathing apps — but adherence was 30% lower in men 64-76.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: isometric handgrip vs breathing app diastolic bp
+updated: '2026-03-27'
+primaryKeyword: 'handgrip exercise vs breathing app for lower blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

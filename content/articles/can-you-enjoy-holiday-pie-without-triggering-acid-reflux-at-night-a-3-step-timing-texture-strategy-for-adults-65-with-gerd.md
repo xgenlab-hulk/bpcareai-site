@@ -1,17 +1,11 @@
 ---
-title: >-
-  Can You Enjoy Holiday Pie Without Triggering Acid Reflux at Night? A 3-Step
-  Timing & Texture Strategy for Adults 65+ With GERD
+title: 'Holiday Pie Without Nighttime Reflux: A 3-Step Plan for Adults 65+'
 slug: >-
   can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
-description: >-
-  Explores the science of gastric emptying delays in aging, identifies pie
-  ingredients most likely to cause nocturnal reflux, and outlines a precise pre-
-  and post-pie protocol—including upright posture timing and texture-modified
-  serving suggestions.
+description: 'Stomach emptying (gastric motility) slows 25-30% after 65. Eating pie 3+ hours before bed and staying upright 45 min cuts nighttime reflux (GERD) risk.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: prevent nighttime acid reflux after pie
+updated: '2026-03-27'
+primaryKeyword: 'how to eat pie without acid reflux at night'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

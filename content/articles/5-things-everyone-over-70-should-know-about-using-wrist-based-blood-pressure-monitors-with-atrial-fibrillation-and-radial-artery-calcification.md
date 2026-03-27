@@ -1,11 +1,10 @@
 ---
-title: Wrist BP Monitor Wrong With AFib? (Why It Fails After 70)
+title: 'Wrist BP Monitor Wrong With AFib? Why It Fails After 70'
 slug: wrist-bp-afib-calcification-70
-description: >-
-  AFib making wrist BP readings swing wildly? Discover why monitors miss by 20-30 mm Hg with irregular heartbeats, which validated upper-arm devices work, and safer monitoring steps for adults 70+.
+description: 'Irregular heartbeats (AFib) make wrist monitors miss by 20-30 mmHg. Stiff wrist arteries (radial calcification) worsen errors. Upper-arm cuffs are validated.'
 date: '2026-01-13'
-updated: '2026-03-18'
-primaryKeyword: wrist bp monitor afib calcification 70
+updated: '2026-03-27'
+primaryKeyword: 'wrist blood pressure monitor wrong with AFib after 70'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

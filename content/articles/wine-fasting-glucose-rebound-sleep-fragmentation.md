@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Why One Glass of Wine Raises Your Morning Blood Sugar After 59'
   When to Worry About ‘Just a Little Wine’ — Alcohol’s Real-Time Effect on
   Fasting Glucose Rebound and Sleep Architecture in Adults 59–73 With
   Prediabetes and Fragmented Sleep
 slug: >-
   when-to-worry-about-just-a-little-wine-alcohol-s-real-time-effect-on-fasting-glucose-rebound-and-sleep-architecture-in-adults-59-73-with-prediabetes-and-fragmented-sleep
-description: >-
+description: '1-2 glasses of wine suppress REM sleep 20% and trigger liver sugar release (hepatic gluconeogenesis) overnight, raising fasting glucose 15-25 mg/dL after 59.'
   Analyzes how even 1–2 glasses of red wine consumed during family gatherings
   disrupt nocturnal hepatic glucose output and suppress REM cycling—using
   polysomnography + CGM correlation data.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: wine fasting glucose rebound sleep fragmentation
+updated: '2026-03-27'
+primaryKeyword: 'does wine raise fasting blood sugar the next morning'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

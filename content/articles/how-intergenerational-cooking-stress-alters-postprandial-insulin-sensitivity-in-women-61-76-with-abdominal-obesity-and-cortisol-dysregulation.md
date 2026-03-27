@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why Cooking for Family Raises Blood Sugar in Women 61-76'
   How Intergenerational Cooking Stress Alters Postprandial Insulin Sensitivity
   in Women 61–76 With Abdominal Obesity and Cortisol Dysregulation
 slug: >-
   how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
-description: >-
+description: 'Stress hormones (cortisol) during family meal prep increase post-meal glucose 22-30 mg/dL in women with belly fat. A 2-min breathing pause before plating helps.'
   Examines the underrecognized link between emotional labor during family meal
   prep, HPA-axis activation, and real-time glucose disposal—backed by 24-hour
   CGM data from a pilot cohort study.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: cooking stress insulin sensitivity family meals
+updated: '2026-03-27'
+primaryKeyword: 'does cooking stress raise blood sugar in women over 60'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

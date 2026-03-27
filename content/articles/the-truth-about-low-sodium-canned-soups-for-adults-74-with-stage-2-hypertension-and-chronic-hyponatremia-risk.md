@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Low-Sodium Soups May Not Be Safe After 74 With Hypertension'
   The Truth About 'Low-Sodium' Canned Soups for Adults 74+ With Stage 2
   Hypertension and Chronic Hyponatremia Risk
 slug: >-
   the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
-description: >-
+description: 'Potassium chloride in "low-sodium" soups drops sodium too low (hyponatremia) in adults 74+ on thiazides. 6 of 10 brands tested exceed safe Na:K ratio of 1:1.'
   Exposes sodium-to-potassium ratios, hidden chloride loads, and osmotic effects
   of potassium-based salt substitutes — with lab-tested sodium equivalents and
   safe daily thresholds.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: low sodium soup hyponatremia elderly
+updated: '2026-03-27'
+primaryKeyword: 'are low sodium soups safe with high blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

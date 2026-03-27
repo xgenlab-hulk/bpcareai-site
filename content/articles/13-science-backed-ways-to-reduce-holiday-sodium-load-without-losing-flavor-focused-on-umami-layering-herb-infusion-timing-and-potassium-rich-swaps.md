@@ -1,13 +1,11 @@
 ---
-title: >-
-  Holiday Food Bland Without Salt? (13 Flavor Tricks 50+)
+title: 'Holiday Food Bland Without Salt? (13 Flavor Tricks 50+)'
 slug: >-
   holiday-food-bland-salt-flavor-tricks-50
-description: >-
-  Food bland without salt? Get 13 flavor tricks using umami layering, herb timing, and potassium swaps that cut sodium 35% while boosting taste—proven to drop BP 5 mm Hg for seniors 50+.
+description: '13 flavor tricks using umami layering, herb timing, and potassium swaps cut sodium 35% while boosting taste. Shown to drop BP 5 mmHg in adults 50+.'
 date: '2026-01-12'
-updated: '2026-03-18'
-primaryKeyword: holiday food flavor without salt seniors 50
+updated: '2026-03-27'
+primaryKeyword: 'holiday food flavor without salt seniors 50'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

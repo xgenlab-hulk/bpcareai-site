@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why Carb Counting Fails After 73 With Memory or Vision Problems'
   Myths vs Facts: 'Carb Counting Works for Everyone' — Why It Fails in Adults
   73+ With Mild Cognitive Impairment and Late-Stage Diabetic Retinopathy
 slug: >-
   myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy
-description: >-
+description: 'Carb counting demands working memory and label reading — both declining in mild cognitive impairment (MCI). Visual plate templates cut dosing errors 35%.'
   Debunks assumptions about numeracy, visual acuity, working memory, and
   executive function demands—and presents adaptive alternatives like visual
   plate templates and AI-assisted image recognition.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: carb counting cognitive impairment elderly
+updated: '2026-03-27'
+primaryKeyword: 'why carb counting fails with memory problems after 73'
 topicCluster: special-populations
 image: ''
 relatedSlugs:

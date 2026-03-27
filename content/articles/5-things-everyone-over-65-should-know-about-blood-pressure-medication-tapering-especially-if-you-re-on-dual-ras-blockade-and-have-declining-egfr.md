@@ -1,13 +1,13 @@
 ---
-title: >-
+title: 'Is It Safe to Taper BP Meds With Declining Kidneys After 65?'
   Tapering BP Meds After 65 With Declining Kidney Function?
 slug: >-
   tapering-bp-meds-declining-kidney-function-65
-description: >-
+description: 'Stopping dual blood vessel relaxants (RAS blockers) too fast risks 15-25 mmHg rebound. 5 criteria guide safe tapering with kidney filtration (eGFR) under 45.'
   On dual RAS blockers with declining kidney function? Discover 5 deprescribing criteria to avoid rebound hypertension—safe monitoring windows and RAAS adaptation timelines for adults 65+.
 date: '2026-01-16'
-updated: '2026-03-19'
-primaryKeyword: bp medication tapering declining kidney function seniors
+updated: '2026-03-27'
+primaryKeyword: 'is it safe to taper bp meds with kidney decline after 65'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Intermittent Nighttime Light Exposure Disrupts Cardiac Clock Gene
-  Expression (BMAL1/PER2) in Adults 59–73 With Shift Work History and Elevated
-  NT-proBNP
+title: 'How Nighttime Light Damages Heart Health — Especially After Shift Work'
 slug: >-
   how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp
-description: >-
-  Explains melatonin suppression → REV-ERBα dysregulation → impaired
-  mitochondrial fission/fusion → diastolic dysfunction progression—beyond just
-  'sleep loss'.
+description: 'Just 40 lux of bedroom light suppresses melatonin 55%, disrupting heart clock genes (BMAL1/PER2) in adults 59-73 with shift work history and heart stiffness.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: nighttime light exposure cardiac clock genes elders
+updated: '2026-03-27'
+primaryKeyword: 'how nighttime light affects heart health in older adults'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

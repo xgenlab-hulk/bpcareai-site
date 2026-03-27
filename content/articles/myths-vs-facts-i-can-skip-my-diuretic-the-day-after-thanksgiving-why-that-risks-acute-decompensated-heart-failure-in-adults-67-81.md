@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: ‘I Can Skip My Diuretic the Day After Thanksgiving’ — Why That
-  Risks Acute Decompensated Heart Failure in Adults 67–81
+title: 'Skipping Your Water Pill After Thanksgiving? Why That\'s Risky After 67'
 slug: >-
   myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
-description: >-
-  Debunks the dangerous assumption that one ‘off’ dose is harmless, citing
-  real-world HF admissions data and explaining how high-sodium meals compound
-  diuretic withdrawal effects.
+description: 'One skipped water pill (diuretic) after a high-sodium meal raises fluid 1.5-2 liters in 18 hours — enough to trigger acute heart failure in adults 67-81.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: diuretic holiday heart failure seniors
+updated: '2026-03-27'
+primaryKeyword: 'is it safe to skip a water pill after holiday meals'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

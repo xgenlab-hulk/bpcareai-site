@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why \'Heart-Healthy\' Seed Oils May Backfire if Your LDL Is Oxidized'
   The Truth About ‘Heart-Healthy’ Omega-6-Rich Vegetable Oils in Adults 55–70
   With Elevated Oxidized LDL and Low HDL2 Subfraction
 slug: >-
   the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
-description: >-
+description: 'Linoleic acid from seed oils oxidizes inside artery walls, destabilizing plaque even as LDL drops. Those with damaged LDL (oxidized LDL) face the most risk.'
   Debunks mainstream guidance by examining linoleic acid peroxidation in
   arterial walls, HDL2 dysfunction, and the paradoxical increase in coronary
   plaque instability despite LDL reduction.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: omega-6 vegetable oils oxidized ldl seniors
+updated: '2026-03-27'
+primaryKeyword: 'are omega-6 vegetable oils bad for heart after 55'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

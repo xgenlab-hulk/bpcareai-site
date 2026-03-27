@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Holiday Stress and Fasting Glucose: What Changes After 54'
   What Research Says About Holiday Stress Hormones and Fasting Glucose
   Variability in Adults 54–69 With Prediabetes and High CRP
 slug: >-
   what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
-description: >-
+description: 'Anticipatory stress lifts cortisol for days pre-holiday, raising fasting glucose SD 18-24% in adults 54-69 with early diabetes risk (prediabetes) and high CRP.'
   Synthesizes findings from longitudinal cortisol/alpha-amylase saliva studies
   and 7-day fasting glucose SD analysis showing how anticipatory social
   stress—not just acute events—drives sustained hepatic glucose output in
   midlife prediabetics.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: holiday stress fasting glucose variability prediabetes
+updated: '2026-03-27'
+primaryKeyword: 'holiday stress and fasting glucose with prediabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

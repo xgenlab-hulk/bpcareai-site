@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'No Symptoms, Normal Stress Test — Could You Still Have Heart Disease?'
   Myths vs Facts: ‘I Have No Symptoms, So My Heart Is Fine’ in Adults 53–68 With
   Subclinical Atherosclerosis and Normal Stress Echo
 slug: >-
   myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
-description: >-
+description: 'Over 40% of first heart attacks hit without warning. Hidden plaque (subclinical atherosclerosis) ruptures by core softness, not blockage size — echos miss half.'
   Debunks asymptomatic reassurance by showing plaque rupture risk correlates
   with necrotic core size, thin-cap fibroatheroma prevalence, and endothelial
   shear stress — not stenosis severity.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: asymptomatic heart disease subclinical atherosclerosis
+updated: '2026-03-27'
+primaryKeyword: 'heart disease with no symptoms and normal stress test'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

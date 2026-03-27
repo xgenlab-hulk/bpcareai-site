@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Hidden Ways Your Dentist Might Spot Early Heart Disease—Especially If You’re
-  a Man Over 65 With Gum Recession and No Chest Pain
+title: '7 Ways Your Dentist May Spot Heart Disease Before Your Cardiologist'
 slug: >-
   7-hidden-ways-your-dentist-might-spot-early-heart-disease-especially-if-you-re-a-man-over-65-with-gum-recession-and-no-chest-pain
-description: >-
-  Reveals oral-systemic connections including periodontal inflammation markers,
-  carotid calcifications on dental X-rays, and microvascular changes detectable
-  during routine exams.
+description: 'Gum inflammation (periodontal disease) shares bacteria with coronary plaques. Dental X-rays catch neck artery calcium in 25% of men over 65.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: dentist detection of heart disease in men over 65
+updated: '2026-03-27'
+primaryKeyword: 'can your dentist spot early heart disease'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

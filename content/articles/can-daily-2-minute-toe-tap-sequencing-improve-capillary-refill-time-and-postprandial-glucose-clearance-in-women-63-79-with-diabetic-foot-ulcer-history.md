@@ -1,17 +1,17 @@
 ---
-title: >-
+title: '2-Minute Toe Taps: Foot Circulation and Glucose for Women 63+'
   Can Daily 2-Minute Toe-Tap Sequencing Improve Capillary Refill Time and
   Postprandial Glucose Clearance in Women 63–79 With Diabetic Foot Ulcer
   History?
 slug: >-
   can-daily-2-minute-toe-tap-sequencing-improve-capillary-refill-time-and-postprandial-glucose-clearance-in-women-63-79-with-diabetic-foot-ulcer-history
-description: >-
+description: 'Seated toe taps boost foot blood flow (capillary refill) 15-22% and cut post-meal glucose 12-18 mg/dL in women 63-79 with past foot ulcers. No standing needed.'
   Examines a novel, low-barrier neuromuscular activation protocol targeting
   distal microcirculation—and its measurable impact on post-meal glucose spikes
   in high-risk older women.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: toe-tap exercise for diabetic circulation
+updated: '2026-03-27'
+primaryKeyword: 'can toe tapping help blood flow and blood sugar'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

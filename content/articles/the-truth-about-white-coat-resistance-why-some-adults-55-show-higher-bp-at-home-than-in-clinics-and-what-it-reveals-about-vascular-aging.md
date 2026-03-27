@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Higher BP at Home Than the Clinic? What That Reveals After 55'
   The Truth About 'White Coat Resistance'—Why Some Adults 55+ Show Higher BP at
   Home Than in Clinics (and What It Reveals About Vascular Aging)
 slug: >-
   the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
-description: >-
+description: 'Home readings topping clinic by 10+ mmHg signals masked hypertension — linked to 40% higher stroke risk. 24-hour monitoring (ABPM) catches what visits miss.'
   Challenges the white coat *hypertension* paradigm by explaining 'white coat
   resistance'—a phenotype linked to endothelial hyperreactivity, chronically
   suppressed nocturnal dipping, and accelerated aortic stiffening in midlife
   adults.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: white coat resistance home higher blood pressure
+updated: '2026-03-27'
+primaryKeyword: 'blood pressure higher at home than at the doctor'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

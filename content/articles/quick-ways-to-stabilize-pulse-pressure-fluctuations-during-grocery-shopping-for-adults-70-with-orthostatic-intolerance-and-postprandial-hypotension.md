@@ -1,16 +1,11 @@
 ---
-title: >-
-  Quick Ways to Stabilize Pulse Pressure Fluctuations During Grocery Shopping
-  for Adults 70+ With Orthostatic Intolerance and Postprandial Hypotension
+title: 'Why Grocery Shopping Triggers Dizziness After 70 — and How to Stop It'
 slug: >-
   quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
-description: >-
-  Offers real-world, mobility-aware tactics—like isometric pre-grip, aisle
-  pacing, and strategic rest stops—to prevent dizziness, presyncope, and falls
-  tied to arterial stiffness and autonomic lag.
+description: 'Walking grocery aisles drops BP 20-30 mmHg in seniors 70+ with low BP after meals (postprandial hypotension). Isometric grip and pacing patterns help.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: "health management adults 70+"
+updated: '2026-03-27'
+primaryKeyword: 'feeling dizzy while grocery shopping with low blood pressure'
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'When Your Brain Stops Adjusting Blood Flow: Warning Signs After 68'
   What Are the Earliest Signs of Cerebral Autoregulation Failure in Adults 68+
   With Long-Standing Hypertension and White Matter Hyperintensities?
 slug: >-
   what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities
-description: >-
+description: 'Mid-sentence pauses, dizziness without low BP, and slow thinking may signal brain flow failure (cerebral autoregulation loss) in adults 68+ with hypertension.'
   Identifies subtle neurovascular symptoms — including transient word-finding
   pauses, postural dizziness without hypotension, and slowed cognitive tempo —
   validated by dynamic autoregulation testing.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: "hypertension management adults 68+"
+updated: '2026-03-27'
+primaryKeyword: 'signs your brain is not adjusting blood flow properly'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

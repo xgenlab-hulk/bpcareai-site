@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Holiday Snacks for Seniors With Early Macular Degeneration — Ranked by
-  Lutein Bioavailability, Fat Co-Ingestion, and Light-Induced Oxidative Stress
+title: '9 Holiday Snacks Ranked for Eye Health With Macular Degeneration'
 slug: >-
   best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress
-description: >-
-  Ranks 9 festive snacks by ocular nutrient delivery efficiency under winter
-  light conditions, emphasizing fat-combined lutein sources and antioxidant
-  synergy in low-light environments.
+description: 'Pairing lutein-rich kale dip with 5g fat boosts eye-nutrient absorption (lutein bioavailability) 3x. Ranked 9 festive snacks by retinal protection strength.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: holiday snacks macular degeneration seniors
+updated: '2026-03-27'
+primaryKeyword: 'best snacks for macular degeneration during holidays'
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

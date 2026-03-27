@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Social Isolation During Holiday Months Disrupts Circadian Glucose Rhythms
-  in Adults With Type 2 Diabetes Over 70
+title: 'Living Alone Over 70? How Isolation Disrupts Blood Sugar Rhythm'
 slug: >-
   how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
-description: >-
-  Examines cortisol/melatonin dysregulation, meal timing drift, and reduced
-  non-exercise activity thermogenesis (NEAT) in solo-living seniors — plus
-  simple behavioral anchors to re-synchronize metabolic clocks.
+description: 'Solo-living seniors show 22% wider glucose swings due to drifting meal times and lower daily movement (NEAT). Cortisol peaks shift 90 min later by week 3.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: social isolation circadian glucose rhythms seniors
+updated: '2026-03-27'
+primaryKeyword: 'does living alone worsen blood sugar patterns in seniors'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

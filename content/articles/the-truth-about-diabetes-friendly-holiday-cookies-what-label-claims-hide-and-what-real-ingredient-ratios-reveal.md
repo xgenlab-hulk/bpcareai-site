@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Diabetes-Friendly Cookies: What the Labels Actually Mean'
   The Truth About ‘Diabetes-Friendly’ Holiday Cookies: What Label Claims Hide
   and What Real Ingredient Ratios Reveal
 slug: >-
   the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
-description: >-
+description: '18 of 22 cookies labeled diabetes-friendly had carb-to-fiber ratios above 10:1. How hidden sugar alcohols (maltitol) mislead adults 55-79 with type 2 diabetes.'
   Debunks marketing terms like 'low glycemic' and 'keto-approved' by comparing
   actual carbohydrate-to-fiber ratios, net carb calculation errors, and
   insulinogenic amino acid loads in 22 popular holiday cookie products tested in
   adults 55–79.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: diabetes-friendly holiday cookies truth
+updated: '2026-03-27'
+primaryKeyword: 'are diabetes friendly holiday cookies really safe'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

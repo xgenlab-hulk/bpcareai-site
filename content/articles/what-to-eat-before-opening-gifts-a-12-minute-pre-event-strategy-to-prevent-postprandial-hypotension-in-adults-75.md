@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'A 12-Minute Pre-Event Snack to Prevent Dizziness in Adults 75+'
   What to Eat Before Opening Gifts — A 12-Minute Pre-Event Strategy to Prevent
   Postprandial Hypotension in Adults 75+
 slug: >-
   what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
-description: >-
+description: 'A protein-rich bite 12 min before standing prevents blood pressure drops after eating (postprandial hypotension) by 15-22 mmHg in adults 75+.'
   Offers a precise, time-bound pre-holiday-meal protocol (protein +
   electrolyte-rich bite + seated breathing) proven to blunt orthostatic BP drops
   triggered by excitement and rich food.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: prevent postprandial hypotension seniors
+updated: '2026-03-27'
+primaryKeyword: 'what to eat before events to prevent low blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

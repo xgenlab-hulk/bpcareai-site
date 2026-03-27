@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '5 Silent Signs Your Basal Insulin Is Too High This Winter'
   When to Worry About ‘Holiday Hypoglycemia’ — 5 Silent Signs Your Basal Insulin
   Dose Is Too High During Winter Activity Reduction
 slug: >-
   when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
-description: >-
+description: 'When steps drop 40-60% during holidays, your basal dose may cause silent lows (hypoglycemia). Paradoxical fatigue, night sweats, and morning rebounds are flags.'
   Identifies under-recognized hypoglycemia patterns—including paradoxical
   fatigue, nocturnal sweating without tremor, and morning hyperglycemia due to
   rebound—that escalate when holiday routines reduce daily step count by >40%.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: holiday hypoglycemia warning signs seniors
+updated: '2026-03-27'
+primaryKeyword: 'signs basal insulin dose is too high during holidays'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

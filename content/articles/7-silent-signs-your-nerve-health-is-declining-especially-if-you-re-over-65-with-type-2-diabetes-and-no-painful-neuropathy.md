@@ -1,17 +1,11 @@
 ---
-title: >-
-  7 Silent Signs Your Nerve Health Is Declining — Especially If You’re Over 65
-  With Type 2 Diabetes and No Painful Neuropathy
+title: '7 Signs Your Nerves Are Fading — Even Without Pain — After 65'
 slug: >-
   7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
-description: >-
-  Explores early, non-painful indicators of diabetic peripheral
-  neuropathy—including reduced vibration sense, unexplained skin dryness, and
-  abnormal foot temperature asymmetry—often missed before numbness or burning
-  begins.
+description: 'Painless nerve damage (diabetic neuropathy) starts with dry skin, lost vibration sense, and foot temperature gaps. 47% of adults 65+ with diabetes have it.'
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: silent signs of diabetic neuropathy
+updated: '2026-03-27'
+primaryKeyword: 'early signs of nerve damage with diabetes no pain'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

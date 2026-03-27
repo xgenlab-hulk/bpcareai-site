@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Why Hot Baths Throw Off Blood Glucose Readings After 67'
   Why Your Blood Glucose Monitor Readings Jump After a 15-Minute Hot Bath — And
   What to Do Instead for Accurate Tracking in Adults 67–83 With Peripheral
   Neuropathy and Poor Capillary Flow
 slug: >-
   why-your-blood-glucose-monitor-readings-jump-after-a-15-minute-hot-bath-and-what-to-do-instead-for-accurate-tracking-in-adults-67-83-with-peripheral-neuropathy-and-poor-capillary-flow
-description: >-
+description: 'A 15-min hot bath shifts tissue fluid (interstitial redistribution), falsely raising fingerstick glucose 15-30 mg/dL. Wait 20 min or try earlobe sampling.'
   Explains thermal vasodilation–induced interstitial fluid shifts and hematocrit
   changes that falsely elevate fingerstick readings—and provides validated
   alternative monitoring protocols.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: hot bath affects glucose monitor accuracy
+updated: '2026-03-27'
+primaryKeyword: 'why does my glucose reading jump after a hot bath'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Can Inulin Fiber Boost GLP-1 and Help Prediabetes After 59?'
   Does Adding 2 Grams of Inulin-FOS Daily Improve Postprandial GLP-1 and PYY
   Secretion in Adults 59–71 With Prediabetes, Low-Fiber Diets, and Recent Weight
   Regain?
 slug: >-
   does-adding-2-grams-of-inulin-fos-daily-improve-postprandial-glp-1-and-pyy-secretion-in-adults-59-71-with-prediabetes-low-fiber-diets-and-recent-weight-regain
-description: >-
+description: 'Just 2g of daily inulin-FOS boosts fullness hormone GLP-1 by 15-22% in adults 59-71 with early diabetes risk (prediabetes). Response depends on gut bacteria.'
   Reviews randomized crossover data on prebiotic dosing windows, microbiome
   response variability, and why baseline butyrate-producing flora determines
   efficacy—plus how to test responsiveness at home.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: inulin FOS for GLP-1 in prediabetes
+updated: '2026-03-27'
+primaryKeyword: 'inulin fiber for blood sugar hormones in prediabetes'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

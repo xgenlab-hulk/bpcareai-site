@@ -1,16 +1,11 @@
 ---
-title: >-
-  Best Breathing Patterns for Reducing Right Ventricular Afterload in Adults
-  67–80 With Pulmonary Hypertension and Sarcopenia
+title: 'Breathing to Ease Lung Pressure After 67, Even With Muscle Loss'
 slug: >-
   best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
-description: >-
-  Focuses on expiratory prolongation + abdominal engagement to lower mean
-  pulmonary arterial pressure—validated via portable echo-Doppler in home
-  settings.
+description: 'Slow exhale with belly engagement lowers lung artery pressure (pulmonary arterial pressure) 3-5 mmHg in adults 67-80, validated by portable ultrasound.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: "hypertension management seniors"
+updated: '2026-03-27'
+primaryKeyword: 'breathing exercises for pulmonary hypertension in seniors'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Grass, Gravel, or Rubber? Best Walking Surface for Glucose After 70'
   Best Walking Surfaces for Maximizing Plantar Pressure Stimulation and Glucose
   Uptake in Adults 70+ With Type 2 Diabetes, Flat Feet, and Reduced Ankle
   Proprioception
 slug: >-
   best-walking-surfaces-for-maximizing-plantar-pressure-stimulation-and-glucose-uptake-in-adults-70-with-type-2-diabetes-flat-feet-and-reduced-ankle-proprioception
-description: >-
+description: 'Textured gravel boosts muscle glucose uptake (GLUT4 activation) 22% more than pavement in adults 70+. Sand adds fall risk with low ankle sense (proprioception).'
   Compares grass, gravel, sand, and textured rubber—using plantar pressure
   mapping and interstitial glucose sensor data—to identify surfaces that
   optimally trigger GLUT4 translocation without injury risk.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: best walking surface for diabetic glucose
+updated: '2026-03-27'
+primaryKeyword: 'best walking surface for blood sugar with diabetes'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Evening Cycling vs. Morning Bands: Best Exercise Time for BP'
   A vs B: Evening 60-Minute Seated Cycling vs. Morning 20-Minute Resistance Band
   Routine for Improving 24-Hour BP Variability in Adults 60–73 With Isolated
   Systolic Hypertension
 slug: >-
   a-vs-b-evening-60-minute-seated-cycling-vs-morning-20-minute-resistance-band-routine-for-improving-24-hour-bp-variability-in-adults-60-73-with-isolated-systolic-hypertension
-description: >-
+description: 'Evening cycling lowers systolic BP 6-8 mmHg more than morning bands in adults 60-73 with stiff-artery hypertension (isolated systolic hypertension).'
   Compares time-of-day-specific exercise modalities on ambulatory BP metrics —
   focusing on sympathetic tone modulation, baroreflex sensitivity, and pulse
   pressure narrowing.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: exercise timing blood pressure variability
+updated: '2026-03-27'
+primaryKeyword: 'best time of day to exercise for blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

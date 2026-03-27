@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Old House Renovation Dust and Resistant Hypertension After 57'
   How Chronic Low-Dose Lead Exposure From Vintage Home Renovation Dust Alters
   Heme Synthesis and Nitric Oxide Bioavailability in Adults 57–74 With Resistant
   Hypertension
 slug: >-
   how-chronic-low-dose-lead-exposure-from-vintage-home-renovation-dust-alters-heme-synthesis-and-nitric-oxide-bioavailability-in-adults-57-74-with-resistant-hypertension
-description: >-
+description: 'Lead dust from pre-1978 paint blocks an enzyme (ALAD) that helps arteries relax — raising BP 8-12 mmHg even on 3 medications. Test above 5 mcg/dL.'
   Links environmental heavy metal burden to ALAD inhibition, oxidative stress in
   vascular smooth muscle, and impaired NO-mediated vasodilation — with chelation
   safety thresholds and testing guidance.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: lead exposure resistant hypertension
+updated: '2026-03-27'
+primaryKeyword: 'can old house dust cause hard to treat high blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

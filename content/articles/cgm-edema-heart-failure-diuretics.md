@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Why Swelling Makes Your CGM Read Wrong With Heart Failure'
   Warning Signs Your Continuous Glucose Monitor Is Misreading Due to
   Subcutaneous Edema in Adults 70+ With Chronic Heart Failure and
   Diuretic-Dependent Volume Control
 slug: >-
   warning-signs-your-continuous-glucose-monitor-is-misreading-due-to-subcutaneous-edema-in-adults-70-with-chronic-heart-failure-and-diuretic-dependent-volume-control
-description: >-
+description: 'Fluid under the skin (subcutaneous edema) delays glucose reaching the sensor 20-40 min, creating false lows. Recalibrate during diuretic dose changes.'
   Explains how interstitial fluid shifts distort glucose diffusion kinetics
   across sensor membranes—and practical calibration adjustments during diuretic
   ramp-up phases.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: cgm edema heart failure diuretics
+updated: '2026-03-27'
+primaryKeyword: 'can swelling make my glucose monitor read wrong'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,13 +1,11 @@
 ---
-title: >-
-  Blood Sugar Spikes After Meals? (12 Foods for Men 60+ with IBS-D)
+title: 'Why IBS-D Spikes Blood Sugar After Meals in Men Over 60'
 slug: >-
   blood-sugar-ibs-d-men-60-foods
-description: >-
-  Blood sugar spikes even on low-carb meals? Discover 12 foods that calm gut serotonin, stop post-meal glucose surges, and ease IBS-D symptoms—proven for men 60–76 with type 2 diabetes.
+description: 'Over 90% of serotonin is made in your gut (gut-derived 5-HT). In men 60+ with IBS-D, it triggers 30-45 mg/dL post-meal glucose surges. 12 foods calm it.'
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: blood sugar spikes ibs d men 60 foods
+updated: '2026-03-27'
+primaryKeyword: 'foods that help blood sugar and IBS-D in men over 60'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

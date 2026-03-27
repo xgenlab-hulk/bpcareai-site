@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Silent Heart Attacks After 75: What ECG Patches Can Catch'
   5 Things Everyone Over 75 Should Know About ‘Silent’ Myocardial Infarction
   Detection Using Continuous ECG Patch Monitoring and AI-Derived ST-T Morphology
   Clustering
 slug: >-
   5-things-everyone-over-75-should-know-about-silent-myocardial-infarction-detection-using-continuous-ecg-patch-monitoring-and-ai-derived-st-t-morphology-clustering
-description: >-
+description: 'Over 40% of heart attacks in adults 75+ cause no chest pain. AI-driven ECG patches spot subtle wave changes (silent myocardial infarction) standard tests miss.'
   Breaks down how AI-enhanced wearable ECGs identify subtle ST-segment
   hysteresis, T-wave alternans, and QT dispersion patterns missed by standard
   troponin + ECG protocols.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: silent myocardial infarction ecg patch monitoring
+updated: '2026-03-27'
+primaryKeyword: 'can ECG patches detect a silent heart attack after 75'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Does Adding 1 Gram of Cocoa Flavanols Daily Improve Endothelial-Dependent
-  Vasodilation in Adults 63–79 With Metabolic Syndrome and Non-Alcoholic Fatty
-  Liver?
+title: 'Cocoa Flavanols and Blood Vessel Health When You Have Fatty Liver'
 slug: >-
   does-adding-1-gram-of-cocoa-flavanols-daily-improve-endothelial-dependent-vasodilation-in-adults-63-79-with-metabolic-syndrome-and-non-alcoholic-fatty-liver
-description: >-
-  Synthesizes data on flavanol–gut microbiota–TMAO interactions and why liver
-  fat content predicts responsiveness more than BMI or HbA1c.
+description: 'Liver fat predicts flavanol response more than BMI. 1g/day improved artery relaxation (flow-mediated dilation) 2.1% in adults 63-79 with fatty liver.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: "diabetes management seniors"
+updated: '2026-03-27'
+primaryKeyword: 'do cocoa flavanols help blood vessels with fatty liver'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

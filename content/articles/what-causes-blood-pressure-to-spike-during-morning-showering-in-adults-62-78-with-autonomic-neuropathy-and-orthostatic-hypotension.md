@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why Hot Showers Spike Blood Pressure With Nerve Damage'
   What Causes Blood Pressure to Spike During Morning Showering in Adults 62–78
   With Autonomic Neuropathy and Orthostatic Hypotension?
 slug: >-
   what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
-description: >-
+description: 'Hot water triggers vessel widening (vasodilation) that overwhelms damaged nerve reflexes, spiking systolic BP 20-30 mmHg. Safer shower tips for adults 62-78.'
   Explores the physiological cascade—thermal vasodilation, baroreflex failure,
   and catecholamine surges—that triggers dangerous BP spikes during hot showers
   in older adults with autonomic dysfunction.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: morning shower blood pressure spike autonomic neuropathy
+updated: '2026-03-27'
+primaryKeyword: 'blood pressure spike during morning shower'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

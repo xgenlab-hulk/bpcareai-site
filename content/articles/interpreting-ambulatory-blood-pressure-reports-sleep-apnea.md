@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Reading Your 24-Hour BP Report With Sleep Apnea After 64'
   The Complete Guide to Interpreting Ambulatory Blood Pressure
   Reports—Especially for Adults 64+ With Nocturnal Non-Dipping, Sleep Apnea, and
   Fragmented REM Cycles
 slug: >-
   the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
-description: >-
+description: 'Non-dipping means BP stays elevated at night, doubling stroke risk. How to read morning surge slope and reverse dipping on your 24-hour report with sleep apnea.'
   Breaks down ABPM metrics beyond averages: sleep-trough timing, morning surge
   slope, load area, reverse dipping, and how polysomnography correlates with
   each abnormal pattern in aging patients.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: interpreting ambulatory blood pressure reports sleep apnea
+updated: '2026-03-27'
+primaryKeyword: 'reading ambulatory blood pressure report with sleep apnea'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Tart Cherry vs. Melatonin: Which Steadies Nighttime Glucose?'
   A vs B: Evening 8 p.m. Tart Cherry Juice (Montmorency) vs. Nighttime 10 p.m.
   Low-Dose Melatonin (0.5 mg) for Improving Nocturnal Glucose Stability in Women
   61–75 With Sleep Fragmentation and Type 2 Diabetes
 slug: >-
   a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes
-description: >-
+description: 'Tart cherry at 8 PM cuts dawn glucose 12-18 mg/dL vs. 0.5mg melatonin at 10 PM in women 61-75. Timing drives overnight blood sugar control (nocturnal glycemia).'
   Compares two circadian-targeted interventions for overnight glycemic
   control—assessing impact on dawn phenomenon, hepatic glucose production, and
   next-day insulin sensitivity.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: tart cherry vs melatonin for nighttime glucose
+updated: '2026-03-27'
+primaryKeyword: 'tart cherry juice vs melatonin for nighttime blood sugar'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

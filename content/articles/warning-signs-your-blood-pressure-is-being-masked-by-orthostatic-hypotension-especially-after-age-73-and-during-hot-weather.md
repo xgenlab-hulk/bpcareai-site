@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your Blood Pressure Is Being Masked by Orthostatic
-  Hypotension—Especially After Age 73 and During Hot Weather
+title: 'When High BP Hides Behind Standing Dizziness After 73'
 slug: >-
   warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
-description: >-
-  Identifies paradoxical presentation patterns where supine hypertension
-  coexists with postural drops, increasing fall risk and stroke vulnerability in
-  heat-exposed older adults.
+description: 'Lying-down BP above 150 can coexist with 30+ mmHg drops on standing (orthostatic hypotension) — masking stroke risk. Heat worsens it by 40% in adults 73+.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: masked hypertension orthostatic hypotension seniors
+updated: '2026-03-27'
+primaryKeyword: 'can high blood pressure hide behind dizziness when standing'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

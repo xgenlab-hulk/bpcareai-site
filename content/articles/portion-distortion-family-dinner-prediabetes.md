@@ -1,17 +1,17 @@
 ---
-title: >-
+title: '7 Portion Traps at Family Dinners That Wreck Blood Sugar Control'
   7 Hidden Portion Distortions That Sabotage Blood Sugar Control at Family
   Dinners — Especially for Adults 58–74 With Prediabetes and Slow Gastric
   Emptying
 slug: >-
   7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying
-description: >-
+description: 'Larger plates add 25-30% more carbs without you noticing. With slow stomach emptying (gastroparesis), that extra load hits glucose 4-6 hours later.'
   Explores how visual cues, plate size, serving traditions, and generational
   habits unintentionally inflate carb and calorie intake during holiday
   meals—and offers practical, physiology-aware recalibration strategies.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: portion distortion family dinner prediabetes
+updated: '2026-03-27'
+primaryKeyword: 'why family dinners make you eat more with prediabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

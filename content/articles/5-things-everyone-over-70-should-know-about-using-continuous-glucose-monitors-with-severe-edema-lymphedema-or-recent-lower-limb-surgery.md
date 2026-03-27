@@ -1,11 +1,10 @@
 ---
-title: Your CGM Failing on Swollen Legs? (Best Placement Sites 70+)
+title: 'CGM Failing on Swollen Legs? Best Placement Sites After 70'
 slug: cgm-placement-swollen-legs-70
-description: >-
-  Leg swelling ruining CGM readings? Discover why 40% fail on edema, best alternative sites (upper arm, back), exact placement rules, and when flash monitoring beats real-time for adults 70+.
+description: 'Leg swelling (edema) causes 40% of glucose sensors to fail with 20-30 min lag. Upper arm and back placements improve accuracy for adults 70+ with lymphedema.'
 date: '2026-01-13'
-updated: '2026-03-18'
-primaryKeyword: cgm sensor placement swollen legs edema 70
+updated: '2026-03-27'
+primaryKeyword: 'cgm sensor placement with swollen legs after 70'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

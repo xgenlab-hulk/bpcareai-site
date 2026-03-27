@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Night Sweats With Normal A1c? Sleep Apnea May Be the Cause'
   What Causes Sudden Onset of Nocturnal Diaphoresis in Adults 64–79 With Type 2
   Diabetes, Normal A1c, and Undiagnosed Sleep-Disordered Breathing?
 slug: >-
   what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
-description: >-
+description: 'Undiagnosed paused breathing at night (obstructive sleep apnea) triggers stress surges mimicking nerve damage sweats. Oxygen below 88% correlates with episodes.'
   Links intermittent hypoxia-induced sympathetic surges, catecholamine-driven
   lipolysis, and altered orexin signaling to nighttime sweating episodes that
   mimic autonomic neuropathy.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: nocturnal diaphoresis sleep apnea diabetes
+updated: '2026-03-27'
+primaryKeyword: 'night sweats with diabetes and normal a1c'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

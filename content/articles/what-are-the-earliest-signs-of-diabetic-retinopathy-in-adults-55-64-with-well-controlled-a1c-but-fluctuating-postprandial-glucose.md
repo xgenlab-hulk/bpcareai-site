@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Early Diabetic Eye Damage Signs Even With Good A1c, Ages 55-64'
   What Are the Earliest Signs of Diabetic Retinopathy in Adults 55–64 With
   Well-Controlled A1c But Fluctuating Postprandial Glucose?
 slug: >-
   what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose
-description: >-
+description: 'Post-meal sugar swings over 50 mg/dL damage retinal blood vessels (microvasculature) even with A1c under 7%. Widefield imaging catches changes 2-3 years early.'
   Explores subtle, pre-symptomatic retinal microvascular changes detectable via
   ultra-widefield imaging—and how glycemic variability, not just mean glucose,
   drives early damage.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: early diabetic retinopathy signs fluctuating glucose
+updated: '2026-03-27'
+primaryKeyword: 'early signs of diabetic eye damage with good a1c'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

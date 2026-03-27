@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Does Blood Pressure Spike During Morning Coffee—Especially in Adults 62–78
-  With Stage 1 Hypertension?
+title: 'Why Morning Coffee Spikes Blood Pressure, and What to Do After 62'
 slug: >-
   why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension
-description: >-
-  Explores the acute pressor response to caffeine in older adults with
-  borderline hypertension, factoring in chronobiology, COMT gene variants, and
-  real-world ambulatory monitoring data.
+description: 'Caffeine blocks adenosine during your 6-10 AM pressure surge (morning hypertensive surge). Adults 62-78 see 10-15 mmHg jumps within 30 minutes.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: morning blood pressure spike coffee
+updated: '2026-03-27'
+primaryKeyword: 'why does coffee raise my blood pressure in the morning'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'My Heart Is Fine Because My Cholesterol Is Normal'—Especially
-  for Adults Over 65 With Elevated Lp(a), OxLDL, or ApoB/ApoA1 Ratio
+title: 'Normal Cholesterol but Still at Risk? What Adults 65+ Should Know'
 slug: >-
   myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
-description: >-
-  Debunks LDL-centric thinking using data on residual inflammatory risk,
-  particle number vs concentration, and why standard lipid panels miss 40% of
-  high-risk elders.
+description: 'Standard cholesterol panels miss 40% of high-risk adults over 65. Particle count (ApoB), oxidized LDL, and Lp(a) reveal hidden risk even when LDL looks normal.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: cholesterol normal but heart risk high elders
+updated: '2026-03-27'
+primaryKeyword: 'normal cholesterol but still at risk for heart disease'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

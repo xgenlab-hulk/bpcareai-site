@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Women 59-75: Can Algal DHA Alone Fix Your Blood Vessel Function?'
   Does Daily 1.5 g of Algal DHA (Without EPA) Improve Endothelial-Dependent
   Vasodilation in Women 59–75 With Hypertension and Low Omega-3 Index (<4%)?
 slug: >-
   does-daily-1-5-g-of-algal-dha-without-epa-improve-endothelial-dependent-vasodilation-in-women-59-75-with-hypertension-and-low-omega-3-index-4
-description: >-
+description: 'Pure algal DHA (1.5 g/day, no EPA) improves artery relaxation (flow-mediated dilation) 2.1% in 12 weeks for women with high BP and omega-3 index below 4%.'
   Evaluates DHA-specific effects on FMD, red blood cell membrane fluidity, and
   eNOS coupling — distinguishing outcomes from mixed omega-3 formulations in
   female-dominant cohorts.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: algal dha endothelial function women
+updated: '2026-03-27'
+primaryKeyword: 'does algal DHA improve blood vessels in women 59+'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your 'Stable' Diabetes Is Masking Early Cognitive Decline —
-  Especially If You’re a Man Over 69 With HbA1c 6.8–7.4
+title: 'When \'Stable\' Diabetes Hides Memory Decline in Men Over 69'
 slug: >-
   warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
-description: >-
-  Highlights subtle neurobehavioral cues (e.g., medication timing errors,
-  route-finding hesitancy, word substitution) linked to hippocampal glucose
-  hypometabolism — plus validated screening tools for home use.
+description: 'Even at HbA1c 6.8-7.4%, brain sugar use (hippocampal glucose uptake) drops 15-20%. Medication timing errors and route confusion are early flags.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: diabetes cognitive decline warning signs men 69+
+updated: '2026-03-27'
+primaryKeyword: 'can stable diabetes cause memory problems in men over 69'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

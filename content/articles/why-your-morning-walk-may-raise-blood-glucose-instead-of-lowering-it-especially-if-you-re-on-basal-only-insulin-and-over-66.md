@@ -1,16 +1,11 @@
 ---
-title: >-
-  Why Your Morning Walk May Raise Blood Glucose Instead of Lowering It —
-  Especially If You’re on Basal-Only Insulin and Over 66
+title: 'Your Morning Walk May Raise Blood Sugar — Here\'s Why After 66'
 slug: >-
   why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
-description: >-
-  Explains dawn phenomenon amplification, cortisol–insulin mismatch, and
-  glycogenolysis dominance during early-morning activity — with data-backed
-  timing adjustments and pre-walk carb/insulin micro-adjustment protocols.
+description: 'Dawn cortisol overrides basal insulin in adults 66+, raising glucose 25-40 mg/dL during early walks. Shifting to 10 AM or a 15g pre-walk snack blocks it.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: morning walk raises blood glucose seniors
+updated: '2026-03-27'
+primaryKeyword: 'why morning walks raise blood sugar on basal insulin'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

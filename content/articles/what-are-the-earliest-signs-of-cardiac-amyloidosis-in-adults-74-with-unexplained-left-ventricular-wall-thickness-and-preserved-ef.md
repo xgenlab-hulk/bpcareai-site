@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Thick Heart Walls but Normal EF? Early Amyloidosis Signs After 74'
   What Are the Earliest Signs of Cardiac Amyloidosis in Adults 74+ With
   Unexplained Left Ventricular Wall Thickness and Preserved EF?
 slug: >-
   what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef
-description: >-
+description: 'Low-voltage ECG despite wall thickness over 12 mm is a red flag. \'Apical sparing\' on strain imaging (global longitudinal strain) catches amyloidosis pre-biopsy.'
   Highlights low-voltage ECG despite thick walls, abnormal global longitudinal
   strain ‘apical sparing’ pattern, and urinary SAP/AL amyloid biomarkers before
   biopsy confirmation.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: cardiac amyloidosis early signs lv thickness
+updated: '2026-03-27'
+primaryKeyword: 'early signs of cardiac amyloidosis in older adults'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

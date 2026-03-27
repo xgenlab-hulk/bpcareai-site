@@ -1,17 +1,11 @@
 ---
-title: >-
-  The Ultimate Guide to Interpreting Postprandial Glucose Trends on Your CGM —
-  Including What ‘Flatline’, ‘Spike-and-Drop’, and ‘Delayed Rise’ Really Mean
-  for Your Beta-Cell Reserve
+title: 'What Your CGM Pattern After Meals Reveals About Pancreas Health'
 slug: >-
   the-ultimate-guide-to-interpreting-postprandial-glucose-trends-on-your-cgm-including-what-flatline-spike-and-drop-and-delayed-rise-really-mean-for-your-beta-cell-reserve
-description: >-
-  Translates raw CGM pattern shapes into functional pancreatic status, with
-  age-stratified benchmarks, dietary pattern correlations, and when each pattern
-  warrants C-peptide testing referral.
+description: 'A \'spike-and-crash\' CGM shape signals 40-60% lost insulin-making capacity (beta-cell reserve). A slow-rise pattern after age 55 often warrants a C-peptide test.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: cgm postprandial patterns beta cell reserve
+updated: '2026-03-27'
+primaryKeyword: 'what do CGM glucose patterns after meals really mean'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

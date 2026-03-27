@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Low-Dose Naltrexone for Type 1 Diabetes With Hashimoto\'s: What We Know'
   How Chronic Low-Dose Naltrexone (LDN) Modulates IL-17 and Treg Activity in
   Adults 58–73 With Type 1 Diabetes and Hashimoto’s Thyroiditis
 slug: >-
   how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
-description: >-
+description: 'LDN at 1.5-4.5mg may lower thyroid antibodies 20-40% and preserve insulin-making cells (C-peptide) in adults 58-73 with dual autoimmune conditions.'
   Examines emerging immunomodulatory evidence for LDN in autoimmune diabetes
   polyglandular syndromes—including impact on thyroid antibody titers and
   residual C-peptide preservation.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: ldn type 1 diabetes hashimoto's
+updated: '2026-03-27'
+primaryKeyword: 'low dose naltrexone for type 1 diabetes and thyroid'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

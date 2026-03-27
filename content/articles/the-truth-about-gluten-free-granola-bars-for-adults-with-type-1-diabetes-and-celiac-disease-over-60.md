@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Gluten-Free' Granola Bars for Adults With Type 1 Diabetes and
-  Celiac Disease Over 60
+title: 'Gluten-Free Granola Bars and Type 1 Diabetes After 60'
 slug: >-
   the-truth-about-gluten-free-granola-bars-for-adults-with-type-1-diabetes-and-celiac-disease-over-60
-description: >-
-  Debunks hidden glycemic pitfalls in certified GF snacks — including
-  maltodextrin sourcing, resistant starch masking, and postprandial glucose
-  spikes — with label-reading hacks and 3 safer homemade alternatives.
+description: 'Certified GF bars spike glucose 40-55 mg/dL more than wheat versions due to hidden fast-digesting starch (maltodextrin). 3 safer homemade swaps included.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: gluten free granola bars type 1 diabetes
+updated: '2026-03-27'
+primaryKeyword: 'gluten-free granola bars and blood sugar with type 1'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

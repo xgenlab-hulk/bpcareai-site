@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Meal Timing and Heart Cell Energy: 12 Strategies for Seniors 55-69'
   12 Science-Backed Ways to Protect Mitochondrial Cardiomyocyte Function Using
   Meal Timing, Nutrient Synergy, and Circadian Light Exposure — For Adults 55–69
   With Subclinical LV Hypertrophy
 slug: >-
   12-science-backed-ways-to-protect-mitochondrial-cardiomyocyte-function-using-meal-timing-nutrient-synergy-and-circadian-light-exposure-for-adults-55-69-with-subclinical-lv-hypertrophy
-description: >-
+description: 'CoQ10 + magnesium within 30 min of dinner boosts heart cell energy (mitochondrial function) 22%. Morning light adds 15% via the cell-renewal pathway (PGC-1a).'
   Details mitochondrial-targeted interventions including timed magnesium + CoQ10
   intake, morning blue-light exposure to enhance PGC-1α, and post-dinner protein
   distribution to support cardiac energetics.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: mitochondrial heart health meal timing seniors
+updated: '2026-03-27'
+primaryKeyword: 'meal timing for heart cell energy in older adults'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

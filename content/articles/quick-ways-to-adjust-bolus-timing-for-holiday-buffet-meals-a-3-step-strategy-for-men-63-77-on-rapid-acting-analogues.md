@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Men 63+: Timing Your Insulin for Holiday Buffet Meals'
   Quick Ways to Adjust Bolus Timing for Holiday Buffet Meals — A 3-Step Strategy
   for Men 63–77 on Rapid-Acting Analogues
 slug: >-
   quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
-description: >-
+description: 'High-fat holiday buffets delay stomach emptying (gastroparesis effect) 30-45 min, causing late glucose spikes. A 3-step insulin timing fix for men 63-77.'
   Provides a field-tested insulin-timing framework accounting for delayed
   gastric emptying from high-fat holiday meals, ambient temperature effects on
   insulin absorption, and postprandial glucose ‘lag spikes’ observed in older
   males with mild gastroparesis.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: bolus timing holiday buffet meals seniors
+updated: '2026-03-27'
+primaryKeyword: 'insulin timing for holiday buffets with delayed digestion'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

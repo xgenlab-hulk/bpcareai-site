@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Lumpy Insulin Pump Sites After 60? Why Rotation Alone Fails'
   Warning Signs Your Insulin Pump Site Is Causing Localized Lipohypertrophy—Even
   If You Rotate 'Religiously' — In Adults 60+ With Long-Term Pump Use and
   Reduced Skin Elasticity
 slug: >-
   warning-signs-your-insulin-pump-site-is-causing-localized-lipohypertrophy-even-if-you-rotate-religiously-in-adults-60-with-long-term-pump-use-and-reduced-skin-elasticity
-description: >-
+description: 'Aging skin hides fatty lumps (lipohypertrophy) at pump sites. Delayed absorption and tape bleeding are clues — ultrasound mapping catches what fingers miss.'
   Details subtle clues (delayed bolus absorption, asymmetric tissue texture,
   micro-bleeding under tape) often missed in aging skin—and introduces
   ultrasound-guided rotation mapping for clinical prevention.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: insulin pump lipohypertrophy warning signs
+updated: '2026-03-27'
+primaryKeyword: 'insulin pump site feels lumpy even with rotation'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

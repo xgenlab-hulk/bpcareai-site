@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Seniors 71+: Building Muscle Energy Without Exercise'
   Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle Without
   Exercise—For Adults 71+ With Type 2 Diabetes and Severe COPD
 slug: >-
   natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
-description: >-
+description: 'Urolithin A (from pomegranate) boosts muscle energy factories (mitochondrial biogenesis) 30% in 8 weeks — even with severe COPD and diabetes limiting exercise.'
   Focuses on dietary polyphenols (e.g., urolithin A), cold exposure protocols,
   and circadian redox modulation to enhance PGC-1α expression and reduce
   intramyocellular lipid accumulation.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: mitochondrial biogenesis diabetes copd
+updated: '2026-03-27'
+primaryKeyword: 'building muscle energy without exercise after 71'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

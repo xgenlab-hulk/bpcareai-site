@@ -1,11 +1,11 @@
 ---
-title: Cold Medicine Raising Your BP? (7 Triggers + Safe Swaps for 65+)
+title: '7 Cold Medicines That Secretly Raise Blood Pressure After 65'
 slug: cold-medicine-bp-triggers-safe-swaps-65
-description: >-
+description: 'Pseudoephedrine raises systolic 10-20 mmHg after 65. 7 OTC cold medicine ingredients that spike pressure with mild high blood pressure (stage 1 hypertension).'
   Taking cold medicine with stage 1 hypertension? Discover 7 hidden BP triggers in decongestants and NSAIDs—plus safe OTC alternatives that won't spike pressure (adults 65+).
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: cold medicine blood pressure seniors safe
+updated: '2026-03-27'
+primaryKeyword: 'cold medicine and blood pressure in seniors'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

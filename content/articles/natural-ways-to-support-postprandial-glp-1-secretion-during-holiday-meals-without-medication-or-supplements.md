@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Boost Your Gut\'s Fullness Hormone (GLP-1) at Holiday Meals'
   Natural Ways to Support Postprandial GLP-1 Secretion During Holiday Meals —
   Without Medication or Supplements
 slug: >-
   natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
-description: >-
+description: 'Bitter foods before eating raise the fullness hormone (GLP-1) 18-25% in adults 60+. Chewing pace and cold-pressed bitter melon juice amplify L-cell output.'
   Details evidence-based, non-pharmacologic triggers—including cold-pressed
   bitter melon juice pre-meal, chewed mustard seed timing, and deliberate
   20-second breath-holds before first bite—that enhance endogenous GLP-1 in
   adults 60+ with age-related L-cell decline.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: natural glp-1 support holiday meals seniors
+updated: '2026-03-27'
+primaryKeyword: 'how to boost GLP-1 naturally at holiday meals'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

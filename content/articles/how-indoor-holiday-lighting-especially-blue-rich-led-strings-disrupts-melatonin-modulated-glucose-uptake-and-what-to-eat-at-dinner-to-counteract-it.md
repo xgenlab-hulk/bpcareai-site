@@ -1,17 +1,11 @@
 ---
-title: >-
-  How Indoor Holiday Lighting (Especially Blue-Rich LED Strings) Disrupts
-  Melatonin-Modulated Glucose Uptake — And What to Eat at Dinner to Counteract
-  It
+title: 'How Holiday LED Lights Raise Your Blood Sugar Overnight'
 slug: >-
   how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
-description: >-
-  Links circadian light exposure to insulin receptor sensitivity in aging muscle
-  tissue, with a targeted pre-bedtime meal pattern to buffer metabolic
-  disruption from festive lighting.
+description: 'Blue-rich LED strings suppress melatonin 45-65%, cutting overnight sugar uptake by muscle (glucose uptake). A pre-bed tart cherry and walnut snack buffers it.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: holiday lighting glucose uptake seniors
+updated: '2026-03-27'
+primaryKeyword: 'do holiday LED lights affect blood sugar at night'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

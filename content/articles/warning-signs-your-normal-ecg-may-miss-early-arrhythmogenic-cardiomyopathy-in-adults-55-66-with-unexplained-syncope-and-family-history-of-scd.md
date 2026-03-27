@@ -1,16 +1,11 @@
 ---
-title: >-
-  Warning Signs Your ‘Normal’ ECG May Miss Early Arrhythmogenic Cardiomyopathy
-  in Adults 55–66 With Unexplained Syncope and Family History of SCD
+title: 'When a Normal ECG Misses a Dangerous Heart Condition in Adults 55-66'
 slug: >-
   warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
-description: >-
-  Highlights subtle T-wave inversions in V1–V3, fragmented QRS, and
-  exercise-induced PVC morphology shifts—plus when to push for cardiac MRI
-  despite normal echo.
+description: 'Standard ECGs miss early heart muscle disease (arrhythmogenic cardiomyopathy) in 30% of cases. T-wave flips in V1-V3 plus fainting demand cardiac MRI.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: "health management seniors"
+updated: '2026-03-27'
+primaryKeyword: 'can a normal ECG miss a dangerous heart condition'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

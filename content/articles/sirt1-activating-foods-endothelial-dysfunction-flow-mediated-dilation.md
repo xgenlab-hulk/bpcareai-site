@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Foods That Activate SIRT1 to Restore Artery Flexibility After 65'
   10 Foods That Activate SIRT1 to Enhance eNOS Acetylation and Improve
   Flow-Mediated Dilation in Adults 65–80 With Endothelial Dysfunction and Normal
   LDL
 slug: >-
   10-foods-that-activate-sirt1-to-enhance-enos-acetylation-and-improve-flow-mediated-dilation-in-adults-65-80-with-endothelial-dysfunction-and-normal-ldl
-description: >-
+description: 'Black garlic and cocoa activate a repair enzyme (SIRT1), boosting nitric oxide 18-25% with normal cholesterol. Confirmed by artery testing (FMD) in adults 65+.'
   Highlights underutilized SIRT1-activating foods (black garlic, raw cocoa,
   fermented soy, pomegranate ellagitannins) and explains how deacetylation of
   eNOS boosts nitric oxide bioavailability independent of cholesterol status.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: sirt1 activating foods endothelial dysfunction flow-mediated dilation
+updated: '2026-03-27'
+primaryKeyword: 'foods that boost nitric oxide for stiff arteries'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

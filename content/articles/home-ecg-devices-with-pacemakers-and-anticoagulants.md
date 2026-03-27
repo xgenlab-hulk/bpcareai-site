@@ -1,17 +1,11 @@
 ---
-title: >-
-  5 Things Everyone Over 72 Should Know About Using Home ECG Devices With
-  Pacemakers and Atrial Flutter—Especially If You’re Taking Apixaban or
-  Rivaroxaban
+title: 'Home ECG Devices With Pacemakers: 5 Risks Adults 72+ Must Check'
 slug: >-
   5-things-everyone-over-72-should-know-about-using-home-ecg-devices-with-pacemakers-and-atrial-flutter-especially-if-you-re-taking-apixaban-or-rivaroxaban
-description: >-
-  Covers critical limitations of consumer-grade ECGs in rhythm interpretation,
-  artifact misreading, anticoagulation safety implications, and when to escalate
-  to clinician-reviewed rhythm strips.
+description: 'Consumer ECGs misread paced rhythms as atrial flutter (irregular heartbeat) up to 40% of the time. Know the 3 artifact patterns before trusting results.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: home ecg devices with pacemakers and anticoagulants
+updated: '2026-03-27'
+primaryKeyword: 'can I use a home ECG device with a pacemaker'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

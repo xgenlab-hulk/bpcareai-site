@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Brittle Blood Sugar With Nerve Damage: A Guide for Adults 55-69'
   The Complete Guide to Managing 'Brittle' Glucose Patterns in Adults 55–69 With
   Type 1 Diabetes, Autonomic Neuropathy, and Frequent Unexplained Hypoglycemia
 slug: >-
   the-complete-guide-to-managing-brittle-glucose-patterns-in-adults-55-69-with-type-1-diabetes-autonomic-neuropathy-and-frequent-unexplained-hypoglycemia
-description: >-
+description: 'Nerve damage (autonomic neuropathy) blocks low-sugar alarms, making 100+ mg/dL swings invisible. CGM patterns plus vagal breathing cut unexplained lows 35-50%.'
   Covers autonomic testing interpretation, counterregulatory hormone assessment,
   CGM-based pattern recognition algorithms, and non-insulin stabilization
   strategies—including timed glucagon analogs and vagal tone training.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: brittle diabetes autonomic neuropathy guide
+updated: '2026-03-27'
+primaryKeyword: 'why does blood sugar swing wildly with nerve damage'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

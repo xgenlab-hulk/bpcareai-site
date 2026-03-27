@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Social Eating Pace During Family Dinners Slows Gastric Emptying — And Why
-  That’s Beneficial (or Harmful) for Seniors With Gastroparesis vs. GERD
+title: 'Eating Slowly at Family Dinners: Helps GERD but Hurts Gastroparesis?'
 slug: >-
   how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd
-description: >-
-  Analyzes how conversational meal rhythm modulates gastric motilin release and
-  vagal tone, with actionable guidance for pacing based on upper GI comorbidity
-  profiles.
+description: 'Conversation-paced meals delay stomach emptying (gastric emptying) by 35% — easing acid reflux but worsening bloating in seniors with slow digestion.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: social eating pace seniors gastroparesis
+updated: '2026-03-27'
+primaryKeyword: 'does eating slowly at dinner help or hurt gastroparesis'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

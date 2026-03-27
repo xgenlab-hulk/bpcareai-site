@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Morning vs. Evening Walk: Which Cuts Overnight Blood Sugar Spikes?'
   A vs B: Morning 7 a.m. Walking on an Empty Stomach vs. 30-Minute Post-Dinner
   Walk for Reducing Nocturnal Glucose Spikes in Men 59–68 With Prediabetes and
   Visceral Adiposity
 slug: >-
   a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity
-description: >-
+description: 'Post-dinner walks lower nocturnal glucose 18-25% more than fasting morning walks in men 59-68 with belly fat (visceral adiposity) and prediabetes.'
   Compares timing-specific effects on hepatic glucose output, adipose lipolysis
   suppression, and overnight insulin resistance—backed by continuous glucose
   monitoring studies.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: morning vs evening walk prediabetes
+updated: '2026-03-27'
+primaryKeyword: 'morning walk or evening walk better for blood sugar'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Endothelial Nitric Oxide Synthase Activity in 8–12
-  Weeks Using Beetroot Timing, Sunlight Exposure, and Arginine–Citrulline
-  Cycling
+title: 'Boost Nitric Oxide Naturally After 60: A 12-Week Plan'
 slug: >-
   natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
-description: >-
-  A science-backed protocol for improving vascular tone without drugs—focused on
-  endothelial function biomarkers (ADMA, flow-mediated dilation) in adults
-  60–79.
+description: 'Timed beetroot juice 2-3 hours pre-exercise raised artery flexibility (flow-mediated dilation) 23% in 8 weeks. Sunlight adds 12% via skin nitrate stores.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: boost nitric oxide naturally seniors
+updated: '2026-03-27'
+primaryKeyword: 'how to boost nitric oxide naturally after 60'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

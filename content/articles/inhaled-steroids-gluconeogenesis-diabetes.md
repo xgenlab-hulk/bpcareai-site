@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Do Inhaled Steroids Like Budesonide Raise Blood Sugar After 65?'
   How Chronic Low-Dose Corticosteroid Use (e.g., Inhaled Budesonide) Alters
   Hepatic Gluconeogenic Enzyme Expression in Adults 65–81 With Type 2 Diabetes
   and Asthma
 slug: >-
   how-chronic-low-dose-corticosteroid-use-e-g-inhaled-budesonide-alters-hepatic-gluconeogenic-enzyme-expression-in-adults-65-81-with-type-2-diabetes-and-asthma
-description: >-
+description: 'Even low-dose inhaled budesonide activates a liver enzyme (PEPCK) driving glucose production. Fasting glucose climbs 10-15 mg/dL within weeks despite low dose.'
   Investigates tissue-specific glucocorticoid receptor sensitivity, PEPCK
   transcriptional upregulation, and why inhaled doses still significantly impact
   fasting glucose despite low systemic bioavailability.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: inhaled steroids gluconeogenesis diabetes
+updated: '2026-03-27'
+primaryKeyword: 'do inhaled steroids raise blood sugar in seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

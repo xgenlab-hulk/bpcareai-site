@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Breathing Your Way to Lower Aortic Pressure After 55'
   Best Breathing Patterns for Reducing Central Systolic Pressure in Adults 55–69
   With Elevated Augmentation Index and High-Frequency HRV Suppression
 slug: >-
   best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
-description: >-
+description: 'Slow 6-breath/min patterns (resonance breathing) reduce pressure wave bounce-back (augmentation index) 8-12% in 4 weeks. A 1:2 inhale-exhale ratio works best.'
   Teaches resonance frequency breathing (0.1 Hz), slow-exhalation bias (1:2
   ratio), and diaphragmatic load sequencing—validated by carotid tonometry and
   central BP modeling—to reduce wave reflection and aortic afterload.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: breathing patterns central systolic pressure augmentation index
+updated: '2026-03-27'
+primaryKeyword: 'breathing exercises to lower aortic blood pressure'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

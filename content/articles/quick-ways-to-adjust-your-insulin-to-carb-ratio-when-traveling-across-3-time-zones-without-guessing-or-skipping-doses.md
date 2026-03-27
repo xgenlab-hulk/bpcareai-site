@@ -1,16 +1,11 @@
 ---
-title: >-
-  Quick Ways to Adjust Your Insulin-to-Carb Ratio When Traveling Across 3+ Time
-  Zones — Without Guessing or Skipping Doses
+title: 'How to Adjust Your Insulin Dose When Flying Across Time Zones'
 slug: >-
   quick-ways-to-adjust-your-insulin-to-carb-ratio-when-traveling-across-3-time-zones-without-guessing-or-skipping-doses
-description: >-
-  Provides a step-by-step, time-zone-adjusted bolus calculator framework for
-  pump and MDI users, including correction factor shifts, basal rate tapering
-  windows, and airport-friendly glucose stabilization snacks.
+description: 'Crossing 3+ time zones shifts your carb-to-insulin ratio (ICR) by 15-25%. A 3-step basal taper plus airport snack protocol keeps glucose within 70-180 mg/dL.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: insulin carb ratio time zone travel
+updated: '2026-03-27'
+primaryKeyword: 'adjusting insulin when flying across time zones'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  11 Foods That Support Mitochondrial Resilience During Holiday Feasting —
-  Backed by Skeletal Muscle Biopsy Data in Adults 63–79
+title: 'Seniors 63+: 11 Foods That Protect Muscle Energy During Holidays'
 slug: >-
   11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79
-description: >-
-  Highlights mitochondria-protective foods (e.g., roasted beets, toasted
-  walnuts, slow-simmered bone broth) with human tissue-level evidence for
-  sustaining energy metabolism amid high-calorie meals.
+description: 'Holiday feasting drops cell energy output (mitochondrial ATP) 18-22% in adults 63-79. Beets, walnuts, and bone broth restore it — backed by muscle biopsy.'
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: mitochondrial foods holiday seniors
+updated: '2026-03-27'
+primaryKeyword: 'foods that protect cell energy during holiday meals'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Beyond Dry Mouth: 5 Hidden Dehydration Signs in Adults Over 78'
   What Are the Earliest Signs of Holiday-Induced Hydration Decline in Adults 78+
   With Reduced Thirst Perception and Chronic Constipation?
 slug: >-
   what-are-the-earliest-signs-of-holiday-induced-hydration-decline-in-adults-78-with-reduced-thirst-perception-and-chronic-constipation
-description: >-
+description: 'Skin tenting and nail-bed refill over 3 sec flag dehydration before thirst. A 20+ bpm rise on standing (orthostatic tachycardia) confirms — key for adults 78+.'
   Goes beyond ‘dry mouth’ to identify subtle markers like increased skin tenting
   after handwashing, delayed capillary refill in nail beds, and worsened
   orthostatic pulse rise after gravy.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: early signs dehydration seniors holiday
+updated: '2026-03-27'
+primaryKeyword: 'early signs of dehydration in seniors during holidays'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

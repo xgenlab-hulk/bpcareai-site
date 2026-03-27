@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Low Blood Sugar Between Meals? What to Do After 72'
   Quick Ways to Counteract 'Dinner-Lunch Gap Hypoglycemia' in Adults 72+ With
   Type 2 Diabetes, Gastroparesis-Like Symptoms, and Long Overnight Fasts
 slug: >-
   quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts
-description: >-
+description: 'Skipping lunch triples hypoglycemia risk with slow emptying (gastroparesis). Timed protein snacks and bedtime resistant starch cut pre-breakfast lows by 40%.'
   Offers time-tested, meal-timing–based strategies—including targeted
   protein-snack sequencing, bedtime resistant starch dosing, and delayed
   caffeine intake—to prevent pre-breakfast lows without increasing medication
   risk.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: "diabetes management adults 72+"
+updated: '2026-03-27'
+primaryKeyword: 'how to prevent low blood sugar between meals after 72'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

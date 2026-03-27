@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Eating Well at Holiday Parties With Hearing Loss — Seniors 70+'
   The Complete Guide to Eating Well at Holiday Parties Without Asking Questions
   or Drawing Attention — For Seniors 70+ With Hearing Loss and Social Anxiety
 slug: >-
   the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety
-description: >-
+description: 'Visual plate-building and nonverbal cues let you eat well without asking questions. Sitting near a wall cuts background noise 30-40%, easing sensory fatigue.'
   A discreet, confidence-building framework covering visual cue reading, plate
   composition without verbal negotiation, nonverbal boundary-setting, and
   energy-conserving social pacing.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: eating well at holiday parties hearing loss
+updated: '2026-03-27'
+primaryKeyword: 'how to eat well at parties with hearing loss'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,17 +1,11 @@
 ---
-title: >-
-  What Causes ‘Post-Exercise Blood Pressure Rebound’—A Sudden 25+ mmHg Systolic
-  Rise 45 Minutes After Moderate Walking in Adults 71–84 With Orthostatic
-  Hypotension?
+title: 'Why Blood Pressure Spikes 45 Minutes After Walking in Seniors'
 slug: >-
   what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
-description: >-
-  Investigates autonomic dysregulation, baroreflex lag, and vascular stiffness
-  as drivers of delayed hypertensive response post-ambulation in frail older
-  adults.
+description: 'A 25+ mmHg systolic surge 30-60 min after a gentle walk signals sluggish nerve reflexes (baroreflex lag) in adults 71-84 — not just normal recovery.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: post-exercise blood pressure rebound in elderly
+updated: '2026-03-27'
+primaryKeyword: 'why does blood pressure spike after walking in seniors'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

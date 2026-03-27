@@ -1,18 +1,18 @@
 ---
-title: >-
+title: 'Seniors 68+: Can Airport Scanners Mess Up Your CGM Readings?'
   5 Things Everyone Over 68 Should Know About Using Continuous Glucose Monitors
   During Holiday Travel — Especially With Airport Body Scanners and Cabin
   Pressure Changes
 slug: >-
   5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
-description: >-
+description: 'TSA scanners triggered false lows in 14% of travelers with glucose monitors (CGMs). Dry cabin air loosens sensors; altitude shifts cause 10-15 mg/dL drift.'
   Covers sensor adhesion failure in dry cabin air, false hypo alerts triggered
   by TSA millimeter-wave scanners, and calibration drift during rapid altitude
   shifts—plus practical mitigation steps validated in 122 cross-country
   travelers.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: cgm travel holiday airport seniors
+updated: '2026-03-27'
+primaryKeyword: 'can airport scanners affect my glucose monitor'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

@@ -1,11 +1,11 @@
 ---
-title: TZDs Weakening Your Bones? (Women 65+ Diabetes Guide)
+title: 'Do TZD Diabetes Drugs Weaken Your Bones? Women 65+ Guide'
 slug: tzds-bone-loss-diabetes-women-65
-description: >-
+description: 'Pioglitazone raises hip fracture risk 30-47% by diverting stem cells from bone-building (osteoblast suppression). 4 bone-safer alternatives exist for women 65+.'
   Taking pioglitazone with osteoporosis? Discover why TZDs raise fracture risk 30-47%, 4 safer diabetes alternatives that protect bones, and essential tests to request—critical for women 65+.
 date: '2026-01-17'
-updated: '2026-03-19'
-primaryKeyword: tzds bone loss diabetes women 65
+updated: '2026-03-27'
+primaryKeyword: 'do TZD diabetes drugs weaken bones in women over 65'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

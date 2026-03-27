@@ -1,17 +1,11 @@
 ---
-title: >-
-  5 Things Everyone Over 72 Should Know About Using Chest-Worn ECG Devices
-  During Air Travel—Especially With Pacemaker-Dependent Bradycardia and Frequent
-  Cabin Pressure Changes
+title: 'Chest ECG Monitors on Flights: What Pacemaker Users 72+ Need'
 slug: >-
   5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes
-description: >-
-  Covers altitude-induced impedance shifts, motion artifact during turbulence,
-  and why wrist-based readings fail during hypobaric stress in elderly pacemaker
-  users.
+description: 'Cabin pressure drops shift chest ECG impedance 12-18%, producing false ST changes. Wrist devices fail worse — here\'s what reads accurately at 35,000 ft.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: chest ECG devices air travel pacemaker dependent
+updated: '2026-03-27'
+primaryKeyword: 'can I wear a chest ECG monitor on a plane with a pacemaker'
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

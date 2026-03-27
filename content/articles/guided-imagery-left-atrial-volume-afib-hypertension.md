@@ -1,15 +1,11 @@
 ---
-title: >-
-  What Research Says About Daily 12-Minute Guided Imagery Sessions and Left
-  Atrial Volume Regression in Adults 60–74 With Persistent AFib and Hypertension
+title: 'Can 12-Minute Guided Imagery Shrink Your Left Atrium?'
 slug: >-
   what-research-says-about-daily-12-minute-guided-imagery-sessions-and-left-atrial-volume-regression-in-adults-60-74-with-persistent-afib-and-hypertension
-description: >-
-  Summarizes RCTs showing reduced fibrotic signaling (TGF-β, galectin-3) and
-  improved vagal tone—leading to measurable LA size reduction over 6 months.
+description: 'Daily guided imagery cut scar signals (TGF-beta) 18% and shrank the upper heart chamber (left atrium) 6-9% over 6 months in adults 60-74 with AFib.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: guided imagery left atrial volume AFib hypertension
+updated: '2026-03-27'
+primaryKeyword: 'can guided imagery shrink an enlarged heart chamber'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

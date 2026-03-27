@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Easing Breathlessness When Lying Flat — Posture Fixes for 68+'
   Quick Ways to Lower Pulmonary Capillary Wedge Pressure Using Posture,
   Diaphragmatic Positioning, and Expiratory Resistance—For Adults 68+ With
   Orthopnea and Preserved EF
 slug: >-
   quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
-description: >-
+description: 'Forward lean plus pursed-lip breathing cuts lung fluid pressure (pulmonary wedge pressure) in 3-5 min. For adults 68+ breathless lying flat (orthopnea).'
   Teaches seated forward lean + pursed-lip exhalation + abdominal bracing to
   acutely reduce preload via thoracic pressure gradient shifts—validated by
   invasive hemodynamics.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: lower pulmonary capillary wedge pressure orthopnea
+updated: '2026-03-27'
+primaryKeyword: 'how to ease breathing difficulty when lying flat'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

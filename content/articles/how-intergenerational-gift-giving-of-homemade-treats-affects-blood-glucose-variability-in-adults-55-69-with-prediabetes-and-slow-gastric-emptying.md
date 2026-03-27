@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Grandma\'s Holiday Treats Spiking Blood Sugar? A Prediabetes Guide'
   How Intergenerational Gift-Giving of Homemade Treats Affects Blood Glucose
   Variability in Adults 55–69 With Prediabetes and Slow Gastric Emptying
 slug: >-
   how-intergenerational-gift-giving-of-homemade-treats-affects-blood-glucose-variability-in-adults-55-69-with-prediabetes-and-slow-gastric-emptying
-description: >-
+description: 'Homemade treats cause 45-80 mg/dL glucose swings in adults 55-69 with slow stomach emptying (gastroparesis). A 3-step gift-food checklist cuts variability ~35%.'
   Examines portion ambiguity, inconsistent ingredient disclosure, and delayed
   satiety signaling in homemade desserts—and offers a ‘gift food assessment’
   checklist for safer acceptance.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: homemade holiday treats prediabetes gastric emptying
+updated: '2026-03-27'
+primaryKeyword: 'homemade holiday treats and blood sugar spikes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  7 Hidden Signs Your Blood Pressure Is Damaging Your Retina—Especially If
-  You’re a Woman Over 67 With No Headaches or Vision Complaints
+title: '7 Ways Blood Pressure Silently Damages Your Retina — Women 67+'
 slug: >-
   7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
-description: >-
-  Details subtle ophthalmoscopic findings (cotton-wool spots, arteriolar
-  nicking, AV nicking asymmetry) and explains why retinal changes often precede
-  stroke or kidney decline in normotensive-appearing older women.
+description: 'Cotton-wool spots and narrowed eye vessels (arteriolar nicking) appear before stroke or kidney decline. 23% of women 67+ with normal readings show damage.'
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: retinal signs high blood pressure women over 67
+updated: '2026-03-27'
+primaryKeyword: 'can high blood pressure damage eyes without symptoms'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

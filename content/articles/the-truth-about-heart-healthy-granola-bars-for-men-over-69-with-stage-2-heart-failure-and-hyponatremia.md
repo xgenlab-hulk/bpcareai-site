@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About 'Heart-Healthy' Granola Bars for Men Over 69 With Stage 2
-  Heart Failure and Hyponatremia
+title: 'Why \'Heart-Healthy\' Granola Bars Backfire for Men Over 69'
 slug: >-
   the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia
-description: >-
-  Breaks down hidden sodium, potassium imbalance, and osmotic load risks in
-  popular 'low-fat' bars—and why some labeled 'no salt added' still trigger
-  neurohormonal activation.
+description: 'Even \'no salt added\' bars carry 180-320mg sodium and osmotic sugars that worsen low blood sodium (hyponatremia) in men with stage 2 heart failure.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: granola bars heart failure hyponatremia men over 65
+updated: '2026-03-27'
+primaryKeyword: 'are granola bars safe with heart failure and low sodium'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

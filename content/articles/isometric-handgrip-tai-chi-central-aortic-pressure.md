@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Handgrip vs. Tai Chi for Central Blood Pressure After 60'
   A vs B: 4-Minute Daily Isometric Handgrip vs. 15-Minute Morning Tai Chi for
   Reducing Central Aortic Systolic Pressure in Adults 60–74 With Isolated
   Systolic Hypertension
 slug: >-
   a-vs-b-4-minute-daily-isometric-handgrip-vs-15-minute-morning-tai-chi-for-reducing-central-aortic-systolic-pressure-in-adults-60-74-with-isolated-systolic-hypertension
-description: >-
+description: '4-min daily handgrip drops deep artery pressure (central aortic) 8-10 mmHg in 8 weeks; tai chi adds 12% more artery flexibility (pulse wave velocity) after 60.'
   Compares pulse wave velocity changes, carotid-femoral transit time, and
   baroreflex gain improvements over 8 weeks — with stratification by arterial
   stiffness biomarkers.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: "hypertension management morning seniors"
+updated: '2026-03-27'
+primaryKeyword: 'handgrip vs tai chi for lowering blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

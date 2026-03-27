@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Late-Night Gift Wrapping and Overnight Blood Sugar After 65'
   How Late-Night Gift Wrapping Disrupts Nocturnal Insulin Sensitivity in Adults
   65+ With Type 2 Diabetes and Sleep Fragmentation
 slug: >-
   how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
-description: >-
+description: 'Blue-rich lighting delays melatonin 45-90 min, cutting overnight glucose clearance (nocturnal insulin sensitivity) ~18%. Amber lenses by 9 PM help.'
   Analyzes the circadian impact of blue-enriched task lighting, sustained
   sitting, and delayed melatonin onset on overnight glucose clearance—backed by
   overnight CGM studies in seniors with mild sleep apnea.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: late-night activity insulin sensitivity seniors
+updated: '2026-03-27'
+primaryKeyword: 'does staying up late wrapping gifts raise blood sugar'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

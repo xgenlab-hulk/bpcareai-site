@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Men Over 72: 5 Warning Signs BP Is Straining Your Aorta'
   Warning Signs Your Blood Pressure Is Straining Your Aorta—Especially If You’re
   a Man Over 72 With Marfanoid Features and Unexplained Back Pain
 slug: >-
   warning-signs-your-blood-pressure-is-straining-your-aorta-especially-if-you-re-a-man-over-72-with-marfanoid-features-and-unexplained-back-pain
-description: >-
+description: 'A pulsing belly mass, unequal arm-leg BP (>15 mmHg gap), and new back pain signal aorta stretching (aortic aneurysm). Old chest X-rays often hold a missed clue.'
   Identifies subtle but critical indicators—pulsatile abdominal mass, widened
   mediastinum on old chest X-rays, disproportionate arm-leg BP gradient, and
   loss of carotid upstroke—that suggest aortic wall stress before dissection or
   aneurysm rupture.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: "blood management pressure over 72"
+updated: '2026-03-27'
+primaryKeyword: 'signs blood pressure is damaging my aorta over 72'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

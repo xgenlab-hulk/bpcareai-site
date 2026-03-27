@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Holiday Travel Constipation on Multiple Meds: What Works for Seniors'
   Natural Ways to Support Digestive Resilience During 3-Day Holiday Travel — For
   Seniors 58–74 With Chronic Constipation and Polypharmacy
 slug: >-
   natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
-description: >-
+description: 'Travel slows gut transit 25-40% in adults 58-74 on 3+ medications. Timed fiber-water pairing and meal anchoring prevent stalls without adding a laxative.'
   Evidence-informed, non-laxative strategies including timed fiber hydration,
   meal sequencing, and circadian meal anchoring to prevent transit delays
   exacerbated by travel and disrupted routines.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: digestive resilience during holiday travel seniors
+updated: '2026-03-27'
+primaryKeyword: 'prevent constipation during holiday travel on meds'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Chair Yoga for Blood Sugar in Seniors 70+ With Hip Pain'
   Can Daily 12-Minute Chair Yoga Sessions Improve Insulin Sensitivity in
   Sedentary Adults 70+ With Type 2 Diabetes and Hip Osteoarthritis?
 slug: >-
   can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis
-description: >-
+description: '12 min/day of chair yoga boosts muscle sugar uptake (GLUT4 translocation) 18% in 8 weeks — even with hip arthritis. Seated twists after meals work best.'
   This article reviews clinical trial data and mechanistic pathways linking
   low-impact yoga to skeletal muscle GLUT4 translocation and postprandial
   glucose disposal in frail older adults with mobility limitations.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: chair yoga insulin sensitivity seniors
+updated: '2026-03-27'
+primaryKeyword: 'chair yoga for blood sugar with diabetes and hip pain'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

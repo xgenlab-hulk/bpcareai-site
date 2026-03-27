@@ -1,17 +1,11 @@
 ---
-title: >-
-  Myths vs Facts: 'My Blood Pressure Is Normal Because My Arm Cuff Reads Fine'
-  in Adults With Severe Peripheral Artery Disease and Calcified Brachial
-  Arteries
+title: 'Why Your Arm Cuff May Show Wrong Blood Pressure With Artery Disease'
 slug: >-
   myths-vs-facts-my-blood-pressure-is-normal-because-my-arm-cuff-reads-fine-in-adults-with-severe-peripheral-artery-disease-and-calcified-brachial-arteries
-description: >-
-  Debunks cuff-based misdiagnosis in PAD patients—showing how calcified vessels
-  cause pseudohypertension and why radial tonometry or oscillometric thigh cuffs
-  are essential.
+description: 'Calcified arteries from leg vessel disease (peripheral artery disease) inflate cuff readings 20-40 mmHg — a false high called pseudohypertension.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: pseudohypertension peripheral artery disease
+updated: '2026-03-27'
+primaryKeyword: 'can arm cuffs give wrong blood pressure with artery disease'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

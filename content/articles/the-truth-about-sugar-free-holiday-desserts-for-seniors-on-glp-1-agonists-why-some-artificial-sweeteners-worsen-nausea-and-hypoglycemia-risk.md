@@ -1,16 +1,11 @@
 ---
-title: >-
-  The Truth About ‘Sugar-Free’ Holiday Desserts for Seniors on GLP-1 Agonists —
-  Why Some Artificial Sweeteners Worsen Nausea and Hypoglycemia Risk
+title: 'Sugar-Free Desserts on Ozempic? Why Seniors Get Worse Nausea'
 slug: >-
   the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
-description: >-
-  Breaks down how common sugar alcohols and non-nutritive sweeteners interact
-  with incretin-based medications in older adults, causing GI distress and
-  unexpected glucose drops.
+description: 'Sugar alcohols like sorbitol double GI distress in adults 65+ on weight-loss shots (GLP-1 agonists). Erythritol is 70% less likely to trigger nausea.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: sugar-free desserts glp-1 seniors
+updated: '2026-03-27'
+primaryKeyword: 'sugar-free desserts and GLP-1 side effects in seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

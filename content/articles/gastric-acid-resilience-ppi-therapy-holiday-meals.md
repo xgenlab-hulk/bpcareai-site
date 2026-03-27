@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Holiday Meals on PPIs: How to Eat Well Without Reflux or Fatigue'
   Natural Ways to Support Gastric Acid Resilience During Multi-Course Holiday
   Meals — For Adults 67+ on Long-Term PPI Therapy and Low Pepsinogen I/II Ratios
 slug: >-
   natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
-description: >-
+description: 'Long-term acid blockers (PPIs) cut stomach acid 80-90%, worsening nutrient absorption during big meals. Warm broth before courses and 30-chew pacing help.'
   Offers non-pharmacologic, meal-integrated strategies (temperature, timing,
   synergistic foods) to mitigate reflux, nutrient malabsorption, and post-meal
   fatigue without discontinuing prescribed therapy.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: gastric acid resilience ppi therapy holiday meals
+updated: '2026-03-27'
+primaryKeyword: 'how to eat holiday meals on acid reflux medication'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

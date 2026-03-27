@@ -1,17 +1,11 @@
 ---
-title: >-
-  A vs B: 15-Minute Post-Dinner Walk vs. 5-Minute Standing Desk Session for
-  Reducing Post-Holiday Dinner Glucose Spikes in Adults 70+ With Osteoarthritis
+title: 'Walk 15 Min or Stand 5 Min After Dinner? Best for Glucose After 70'
 slug: >-
   a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
-description: >-
-  Compares real-world glucose-lowering efficacy (via blinded CGM) of two
-  mobility-friendly interventions, factoring in joint load tolerance, muscle
-  perfusion differences, and timing sensitivity in sedentary seniors with knee
-  degeneration.
+description: 'A 15-min walk cut post-dinner glucose 28% more than standing in CGM-tracked seniors with joint wear (osteoarthritis). Standing helped 12% — better than sitting.'
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: post-dinner walk vs standing seniors diabetes
+updated: '2026-03-27'
+primaryKeyword: 'post-dinner walk vs standing for blood sugar after 70'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

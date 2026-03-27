@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Acid Reflux Pills and Nerve Damage: The B12 Link After 66'
   How Chronic Low-Dose Proton Pump Inhibitor Use Reduces Gastric Intrinsic
   Factor and Worsens Vitamin B12-Dependent Homocysteine Metabolism in Adults
   66–82 With Type 2 Diabetes and Peripheral Neuropathy
 slug: >-
   how-chronic-low-dose-proton-pump-inhibitor-use-reduces-gastric-intrinsic-factor-and-worsens-vitamin-b12-dependent-homocysteine-metabolism-in-adults-66-82-with-type-2-diabetes-and-peripheral-neuropathy
-description: >-
+description: 'Acid blockers (PPIs) cut B12 absorption 40-65% after 2+ years, raising homocysteine and worsening nerve damage (peripheral neuropathy) in diabetic adults 66-82.'
   Links gastric acid suppression to B12 malabsorption, elevated homocysteine,
   and accelerated nerve demyelination—offering functional testing thresholds and
   food-first repletion strategies.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: PPI use vitamin B12 neuropathy diabetes
+updated: '2026-03-27'
+primaryKeyword: 'acid reflux medication and vitamin B12 nerve damage'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

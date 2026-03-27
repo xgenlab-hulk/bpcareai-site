@@ -1,16 +1,11 @@
 ---
-title: >-
-  Dangers of ‘Just One More Cup’ of Eggnog for Adults Over 74 With Subclinical
-  Vitamin D Toxicity — And How to Spot Early Hypercalcemia Clues
+title: 'Too Much Eggnog After 74? Watch for Vitamin D Overload Signs'
 slug: >-
   dangers-of-just-one-more-cup-of-eggnog-for-adults-over-74-with-subclinical-vitamin-d-toxicity-and-how-to-spot-early-hypercalcemia-clues
-description: >-
-  Warns about cumulative vitamin D intake from fortified dairy, supplements, and
-  high-dose eggnog in sun-deprived winter months—linking subtle symptoms
-  (polyuria, constipation, apathy) to labs.
+description: 'Two cups of fortified eggnog add 400+ IU vitamin D — pushing seniors on supplements past safe calcium levels (hypercalcemia). Watch for thirst and fatigue.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: eggnog vitamin d toxicity seniors
+updated: '2026-03-27'
+primaryKeyword: 'can too much eggnog cause vitamin D toxicity in seniors'
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why BP Reads Different in Each Arm and When It Signals Danger'
   Why Blood Pressure Readings Vary Between Left and Right Arms in Adults 70+
   With Aortic Stiffness and Asymmetric Carotid Intima-Media Thickness
 slug: >-
   why-blood-pressure-readings-vary-between-left-and-right-arms-in-adults-70-with-aortic-stiffness-and-asymmetric-carotid-intima-media-thickness
-description: >-
+description: 'Over 10 mmHg difference between arms signals uneven artery hardening (arterial stiffness) and doubles stroke risk after 70. Neck artery scans confirm it.'
   Explores the clinical significance of inter-arm BP differences in older
   adults, linking vascular asymmetry, arterial aging, and stroke risk — with
   actionable thresholds for when to investigate further.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: inter-arm blood pressure difference elderly
+updated: '2026-03-27'
+primaryKeyword: 'why blood pressure differs between arms in older adults'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,18 +1,18 @@
 ---
-title: >-
+title: 'Magnesium Threonate vs. Glycinate for Nighttime BP Dipping'
   A vs B: Evening Magnesium Threonate vs. Morning Magnesium Glycinate for
   Improving Nocturnal BP Dipping in Women 66–79 With Non-Dipping Pattern and
   Sleep Fragmentation
 slug: >-
   a-vs-b-evening-magnesium-threonate-vs-morning-magnesium-glycinate-for-improving-nocturnal-bp-dipping-in-women-66-79-with-non-dipping-pattern-and-sleep-fragmentation
-description: >-
+description: 'Magnesium threonate enters brain fluid (CSF), improving nighttime BP dipping 8-12% vs. glycinate in women 66-79 with non-dipping. Timing and dose form matter.'
   Compares tissue bioavailability, circadian receptor affinity, and CSF
   penetration of two magnesium forms—and how timing and chelation affect
   autonomic balance, melatonin signaling, and overnight systolic reduction in
   women with masked nocturnal hypertension.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: magnesium threonate vs glycinate nocturnal bp dipping
+updated: '2026-03-27'
+primaryKeyword: 'magnesium threonate vs glycinate for nighttime BP'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Reading Your Cardiac MRI Stress Scan With Microvascular Angina'
   The Complete Guide to Interpreting Your Cardiac MRI Stress Perfusion Scan —
   Especially If You Have Microvascular Angina and Normal Coronary Angiogram
 slug: >-
   the-complete-guide-to-interpreting-your-cardiac-mri-stress-perfusion-scan-especially-if-you-have-microvascular-angina-and-normal-coronary-angiogram
-description: >-
+description: 'If arteries look clear but chest pain persists, perfusion reserve (MPR) below 2.0 flags small-vessel disease (microvascular angina) — not artifact.'
   Walks through quantitative myocardial perfusion reserve (MPR) thresholds,
   pixel-wise mapping of heterogeneity, and distinguishing ischemia from artifact
   in women and diabetic patients.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: cardiac mri stress perfusion interpretation guide
+updated: '2026-03-27'
+primaryKeyword: 'how to read cardiac MRI stress perfusion results'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

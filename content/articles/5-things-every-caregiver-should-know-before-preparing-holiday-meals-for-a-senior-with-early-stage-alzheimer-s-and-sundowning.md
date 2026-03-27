@@ -1,10 +1,10 @@
 ---
-title: Holiday Meals Triggering Sundowning? (5 Tips Alzheimer's 65+)
+title: '5 Ways to Calm Sundowning at Holiday Meals for Caregivers'
 slug: holiday-meals-alzheimers-sundowning
-description: Holiday meals triggering confusion in your parent? Discover 5 proven ways to reduce agitation, time meals before 4pm peak, and use familiar flavors to calm sundowning for Alzheimer's caregivers.
+description: 'Serving familiar dishes before the 4 PM agitation peak (sundowning) cuts mealtime distress ~40%. Single-texture plates and warm lighting ease sensory overload.'
 date: '2026-01-17'
-updated: '2026-03-19'
-primaryKeyword: holiday meals alzheimers sundowning
+updated: '2026-03-27'
+primaryKeyword: 'holiday meals that calm sundowning in Alzheimer\'s'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

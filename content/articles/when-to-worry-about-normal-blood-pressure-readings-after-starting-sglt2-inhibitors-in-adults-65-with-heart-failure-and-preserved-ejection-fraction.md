@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'SGLT2 Inhibitors: When \'Normal\' BP Hides Drops After 65'
   When to Worry About 'Normal' Blood Pressure Readings After Starting SGLT2
   Inhibitors in Adults 65+ With Heart Failure and Preserved Ejection Fraction
 slug: >-
   when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction
-description: >-
+description: 'Seated BP reads 120/70, but standing drops 20+ mmHg (orthostatic hypotension) in 30% of seniors on SGLT2s. Check BP standing at 1 and 3 min, not just sitting.'
   Highlights paradoxical hypotension risk, volume depletion misinterpretation,
   and the danger of ignoring orthostatic BP drops or postprandial dips masked by
   stable seated readings in this high-risk cohort.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: sglt2 inhibitors normal blood pressure heart failure
+updated: '2026-03-27'
+primaryKeyword: 'normal blood pressure on SGLT2 but still feel dizzy'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

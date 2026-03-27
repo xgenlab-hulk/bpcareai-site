@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Fasting Glucose 95-105 After 70: Why \'Normal\' May Not Be Safe'
   The Truth About 'Normal' Fasting Glucose in Adults Over 70: Why 95–105 mg/dL
   May Already Signal Beta-Cell Exhaustion and Early Dysglycemia
 slug: >-
   the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
-description: >-
+description: 'After 70, fasting glucose 95-105 mg/dL often masks failing insulin cells (beta-cell exhaustion). First-phase insulin drops 40-60% before numbers cross 126.'
   Challenges age-normalized glucose thresholds using C-peptide kinetics and
   first-phase insulin response data—revealing why 'borderline normal' values
   often mask irreversible functional decline.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: fasting glucose normal range over 70
+updated: '2026-03-27'
+primaryKeyword: 'is fasting glucose 95 to 105 too high after age 70'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Kidney-Safe Holiday Eating for Adults 67+ With Stage 3 CKD'
   Simple Steps to Protect Your Kidneys During Holiday Feasting — If You’re 67+
   With Stage 3 CKD and Mild Hyperkalemia
 slug: >-
   simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
-description: >-
+description: 'Boiling sweet potatoes leaches 40-50% of potassium (hyperkalemia risk). Take phosphate binders 10 min before turkey — not after — for 30% better binding.'
   Prioritizes potassium-binding food combos, cooking techniques that leach
   potassium, and timing of phosphate binders relative to high-risk dishes like
   sweet potatoes and turkey skin.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: kidney protection holiday feasting stage 3 CKD
+updated: '2026-03-27'
+primaryKeyword: 'how to protect kidneys during holiday meals with CKD'
 topicCluster: renal-health
 image: ''
 relatedSlugs:

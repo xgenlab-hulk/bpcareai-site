@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Choosing Shoes That Prevent Toe Ulcers With Diabetic Neuropathy'
   Best Footwear Materials for Reducing Shear Stress in Adults 68–82 With
   Diabetic Neuropathy, Hallux Rigidus, and History of Recurrent Toe Ulcers
 slug: >-
   best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
-description: >-
+description: 'Shoe friction causes 60% of repeat toe ulcers with nerve damage (diabetic neuropathy) after 68. 3D-printed lattice cuts shear force 35-50% vs standard EVA foam.'
   Compares shear modulus properties of modern foams, 3D-printed lattice
   structures, and moisture-wicking liners—and links material science to plantar
   pressure redistribution metrics.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: diabetic footwear shear stress ulcer prevention
+updated: '2026-03-27'
+primaryKeyword: 'best shoes for diabetic foot ulcer prevention'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

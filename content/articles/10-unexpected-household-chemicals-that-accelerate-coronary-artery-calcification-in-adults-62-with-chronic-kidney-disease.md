@@ -1,16 +1,16 @@
 ---
-title: >-
+title: '10 Household Chemicals That Speed Up Artery Calcification After 62'
   10 Unexpected Household Chemicals That Accelerate Coronary Artery
   Calcification in Adults 62+ With Chronic Kidney Disease
 slug: >-
   10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease
-description: >-
+description: 'Flame retardants and air fresheners cut protective Klotho protein 20-35% in adults with kidney disease (CKD), speeding calcium buildup in heart arteries.'
   Explores everyday cleaning agents, air fresheners, and flame retardants linked
   to vascular calcification via oxidative stress and reduced Klotho expression —
   with lab-tested alternatives for kidney-impaired seniors.
 date: '2026-01-16'
-updated: '2026-01-16'
-primaryKeyword: household chemicals coronary artery calcification seniors
+updated: '2026-03-27'
+primaryKeyword: 'do household chemicals cause artery calcification'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

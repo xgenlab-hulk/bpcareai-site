@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Indoor Humidity Levels Below 30% During Heated Winters Increase Coronary
-  Vasospasm Risk in Women Over 64 With Migraine History
+title: 'Why Dry Winter Air Triggers Chest Pain in Women Over 64'
 slug: >-
   how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history
-description: >-
-  Links dry-air–induced endothelin-1 surges, TRPV1 activation, and cortical
-  spreading depression overlap—explaining winter angina mimics in
-  non-obstructive CAD.
+description: 'Indoor humidity below 30% triggers artery spasms (coronary vasospasm) via endothelin-1 surges in women 64+ with migraine history — mimicking a heart attack.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: indoor humidity coronary vasospasm women migraine
+updated: '2026-03-27'
+primaryKeyword: 'does dry indoor air cause chest pain in winter'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Eat Veggies First, Fat Last: How Meal Order Clears Triglycerides'
   Quick Ways to Normalize Postprandial Triglyceride Clearance Using Meal Order
   and Chewing Duration—Especially in Adults 56–69 With Diabetic Dyslipidemia and
   Pancreatic Steatosis
 slug: >-
   quick-ways-to-normalize-postprandial-triglyceride-clearance-using-meal-order-and-chewing-duration-especially-in-adults-56-69-with-diabetic-dyslipidemia-and-pancreatic-steatosis
-description: >-
+description: 'Eating fiber before fat boosts a gut hormone (GLP-1) that speeds fat clearance by 23-31% in adults 56-69 with a fatty pancreas (pancreatic steatosis).'
   Details how sequential nutrient ingestion and prolonged mastication alter
   GLP-1 release kinetics, LPL activation, and chylomicron remnant uptake in
   fatty pancreas contexts.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: meal order triglyceride clearance diabetes
+updated: '2026-03-27'
+primaryKeyword: 'does eating vegetables first lower triglycerides'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

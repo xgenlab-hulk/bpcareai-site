@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Cold Weather BP Spikes: What Happens to Your Kidneys After 70'
   How Cold Weather-Induced Vasoconstriction Alters Renal Sympathetic Nerve
   Activity in Adults 70+ With Hypertension and Mild Diastolic Dysfunction
 slug: >-
   how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
-description: >-
+description: 'Cold triggers kidney nerve signals (renal sympathetic activity) that retain sodium and raise BP 10-15 mmHg. Keeping indoor temp above 68°F blunts the cascade.'
   Explains the cold-triggered renal norepinephrine surge, RAAS activation, and
   sodium retention cascade — with indoor climate control targets and wearable
   thermal biofeedback protocols.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: cold weather renal sympathetic activity
+updated: '2026-03-27'
+primaryKeyword: 'why does blood pressure go up in cold weather'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Gum Inflammation Alters Coronary Artery Plaque Stability in Adults
-  58–74 With Controlled Hypertension
+title: 'Gum Disease and Heart Attacks: A Hidden Link After 58'
 slug: >-
   how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
-description: >-
-  Examines the oral-systemic link via CRP, IL-6, and MMP-9 pathways—how
-  periodontitis accelerates vulnerable plaque formation even when BP and LDL
-  appear 'well managed'.
+description: 'Chronic gum infection (periodontitis) raises plaque-rupture enzymes (MMP-9) 2.4x even when BP and LDL are controlled — doubling unstable plaque risk by age 70.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: gum disease and coronary plaque stability adults 60s
+updated: '2026-03-27'
+primaryKeyword: 'can gum disease cause a heart attack even with normal BP'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

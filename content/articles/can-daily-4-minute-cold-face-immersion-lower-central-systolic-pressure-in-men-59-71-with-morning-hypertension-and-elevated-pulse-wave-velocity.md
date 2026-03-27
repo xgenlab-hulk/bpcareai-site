@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Can a 4-Minute Cold Face Dip Lower Morning BP in Men 59-71?'
   Can Daily 4-Minute Cold Face Immersion Lower Central Systolic Pressure in Men
   59–71 With Morning Hypertension and Elevated Pulse Wave Velocity?
 slug: >-
   can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
-description: >-
+description: 'Cold water on the face triggers the vagus nerve (dive reflex), dropping central BP 6-9 mmHg in 8 minutes. Safe protocols for morning hypertension included.'
   Reviews emerging evidence on trigeminal-brainstem-vagal activation via cold
   water face immersion, its impact on aortic stiffness metrics, and practical
   protocols for safe implementation in early-stage arterial aging.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: cold face immersion central systolic pressure morning hypertension
+updated: '2026-03-27'
+primaryKeyword: 'does cold water on face lower morning blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,16 +1,11 @@
 ---
-title: >-
-  Can Intermittent Fasting Worsen Orthostatic Hypotension in Adults 72+ With
-  Long-Standing Type 2 Diabetes?
+title: 'Intermittent Fasting After 72: Can It Worsen Standing Dizziness?'
 slug: >-
   can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
-description: >-
-  Analyzes mechanistic risks of time-restricted eating on autonomic dysfunction,
-  plasma volume shifts, and postprandial BP drops — with real-world case data
-  and safer alternatives for blood pressure–glucose co-management.
+description: 'Skipping meals drops blood volume 8-12% in seniors with diabetes, worsening drops when standing up (orthostatic hypotension). A 10-hour eating window is safer.'
 date: '2026-01-11'
-updated: '2026-01-11'
-primaryKeyword: intermittent fasting orthostatic hypotension seniors
+updated: '2026-03-27'
+primaryKeyword: 'can intermittent fasting cause dizziness in older diabetics'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

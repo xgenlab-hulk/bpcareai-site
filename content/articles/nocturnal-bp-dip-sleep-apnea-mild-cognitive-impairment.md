@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'When a Nighttime BP Drop Signals Trouble — Not Health — After 65'
   The Ultimate Guide to Interpreting Late-Night Home Blood Pressure Dips in
   Adults With Sleep Apnea and Mild Cognitive Impairment—Including When 'Normal'
   Dipping Is Actually Harmful
 slug: >-
   the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
-description: >-
+description: 'A drop over 20% at night with sleep apnea (OSA) may reflect nerve exhaustion, not fitness. Heart rate variability tracking reveals the difference.'
   Clarifies paradoxical autonomic failure: why >20% nocturnal BP drop in OSA +
   MCI may signal baroreflex exhaustion—not health—and how to recalibrate targets
   using HRV trends.
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: nocturnal BP dip sleep apnea mild cognitive impairment
+updated: '2026-03-27'
+primaryKeyword: 'is nighttime blood pressure drop dangerous with sleep apnea'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

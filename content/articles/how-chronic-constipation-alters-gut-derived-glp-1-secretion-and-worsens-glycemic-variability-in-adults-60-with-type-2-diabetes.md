@@ -1,16 +1,11 @@
 ---
-title: >-
-  How Chronic Constipation Alters Gut-Derived GLP-1 Secretion and Worsens
-  Glycemic Variability in Adults 60+ With Type 2 Diabetes
+title: 'Chronic Constipation and Blood Sugar: The Gut-Hormone Link After 60'
 slug: >-
   how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
-description: >-
-  Breaks down the microbiome–enteroendocrine axis disruption caused by prolonged
-  transit time, with evidence-based fiber titration strategies, osmotic laxative
-  timing, and motilin-targeted dietary triggers.
+description: 'Slow bowel transit cuts gut hormone (GLP-1) output 30-40%, raising post-meal glucose. Fiber timing and osmotic laxatives restore secretion in adults 60+.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: constipation glp-1 secretion type 2 diabetes
+updated: '2026-03-27'
+primaryKeyword: 'does constipation affect blood sugar in adults over 60'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

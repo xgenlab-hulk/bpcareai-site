@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Olive Oil Polyphenols Vary 300% — What Matters for Arteries After 60'
   The Truth About 'Heart-Healthy' Olive Oil Labels — Why Polyphenol Content
   Varies 300% Between Bottles and What That Means for Endothelial Repair in
   Adults 60+
 slug: >-
   the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60
-description: >-
+description: 'Only oils above 250 mg/kg polyphenols activate the vessel-repair enzyme (eNOS). Most brands test under 100 — check harvest date, not just \'extra virgin.\''
   Demystifies olive oil certification labels, shelf-life degradation, and
   lab-verified polyphenol thresholds required to stimulate NO synthase and
   reduce endothelial microparticles in aging vasculature.
 date: '2026-01-17'
-updated: '2026-01-17'
-primaryKeyword: olive oil polyphenols endothelial repair seniors
+updated: '2026-03-27'
+primaryKeyword: 'does olive oil polyphenol content matter after 60'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

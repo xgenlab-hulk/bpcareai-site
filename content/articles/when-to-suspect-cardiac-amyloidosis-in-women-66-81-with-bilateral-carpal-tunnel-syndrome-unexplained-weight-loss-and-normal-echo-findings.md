@@ -1,16 +1,11 @@
 ---
-title: >-
-  When to Suspect Cardiac Amyloidosis in Women 66–81 With Bilateral Carpal
-  Tunnel Syndrome, Unexplained Weight Loss, and 'Normal' Echo Findings
+title: 'Women 66+: When Carpal Tunnel Signals a Hidden Heart Condition'
 slug: >-
   when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
-description: >-
-  Details red-flag triad: carpal tunnel onset >5 years before HF diagnosis,
-  low-voltage ECG despite preserved wall thickness, and discordant strain
-  patterns on speckle-tracking.
+description: 'Bilateral carpal tunnel 5+ years before heart failure flags protein buildup in the heart (cardiac amyloidosis). Low-voltage ECG confirms it in 60% of cases.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: cardiac amyloidosis carpal tunnel women weight loss
+updated: '2026-03-27'
+primaryKeyword: 'carpal tunnel and heart problems in women over 66'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

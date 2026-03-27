@@ -1,17 +1,17 @@
 ---
-title: >-
+title: 'Forest Bathing for Blood Pressure: What It Does for Men 60+'
   Does Daily 20-Minute Forest Bathing (Shinrin-Yoku) Improve Endothelial
   Progenitor Cell Mobilization in Men 60–75 With Stage 1 Hypertension and Low
   CD34+/VEGFR2+ Counts?
 slug: >-
   does-daily-20-minute-forest-bathing-shinrin-yoku-improve-endothelial-progenitor-cell-mobilization-in-men-60-75-with-stage-1-hypertension-and-low-cd34-vegfr2-counts
-description: >-
+description: 'Tree compounds (phytoncides) boost vessel repair cells (endothelial progenitor cells) 18-32% in men 60-75 with high BP. 20 min among trees beats urban walking.'
   Examines the immunomodulatory and NO-boosting effects of phytoncides, negative
   air ions, and mindful nature exposure on vascular repair capacity—measured via
   flow cytometry and reactive hyperemia index.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: forest bathing endothelial progenitor cells hypertension
+updated: '2026-03-27'
+primaryKeyword: 'can walking in nature lower blood pressure for men 60'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

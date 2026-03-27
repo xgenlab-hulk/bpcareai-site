@@ -1,17 +1,17 @@
 ---
-title: >-
+title: '12 Reasons Your BP Monitor Shows False-Low Readings After 70'
   12 Signs Your Home Blood Pressure Monitor Is Giving False-Low Readings —
   Especially If You Have Arm Lymphedema, Calcified Brachial Arteries, or
   Post-Mastectomy Scarring
 slug: >-
   12-signs-your-home-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-arm-lymphedema-calcified-brachial-arteries-or-post-mastectomy-scarring
-description: >-
+description: 'Arm swelling, stiff arteries (calcified brachial arteries), or a too-small cuff can undercount systolic by 15-30 mmHg. Cross-check with your non-dominant arm.'
   Details device calibration pitfalls, cuff fit errors, and vascular artifact
   sources unique to older adults with connective tissue changes — plus DIY
   validation techniques using Doppler and oscillometric cross-checks.
 date: '2026-01-15'
-updated: '2026-01-15'
-primaryKeyword: false low blood pressure reading causes
+updated: '2026-03-27'
+primaryKeyword: 'why is my home blood pressure reading too low'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

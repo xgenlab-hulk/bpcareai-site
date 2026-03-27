@@ -1,18 +1,11 @@
 ---
-title: >-
-  How Indoor Barometric Pressure Drops Below 1005 hPa Increase Ambulatory
-  Systolic Load in Adults 63–82 With Hypertensive Heart Disease and Left Atrial
-  Enlargement
+title: 'Why Dropping Barometric Pressure Spikes BP in Heart Disease After 63'
 slug: >-
   how-indoor-barometric-pressure-drops-below-1005-hpa-increase-ambulatory-systolic-load-in-adults-63-82-with-hypertensive-heart-disease-and-left-atrial-enlargement
-description: >-
-  Links atmospheric pressure shifts to sympathetic activation, RAAS modulation,
-  and pulmonary capillary wedge pressure elevation—demonstrating how
-  weather-related BP surges precede decompensation events in structurally
-  vulnerable hearts.
+description: 'Pressure below 1005 hPa raises systolic load 10-18 mmHg via stress hormones (sympathetic activation). Adults 63+ with enlarged left atrium face higher risk.'
 date: '2026-01-13'
-updated: '2026-01-13'
-primaryKeyword: barometric pressure drop systolic load hypertensive heart disease
+updated: '2026-03-27'
+primaryKeyword: 'can weather pressure changes raise blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

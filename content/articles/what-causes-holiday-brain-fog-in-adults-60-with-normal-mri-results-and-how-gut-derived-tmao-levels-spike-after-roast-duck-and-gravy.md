@@ -1,16 +1,16 @@
 ---
-title: >-
+title: 'Why Rich Holiday Meals Cause Brain Fog After 60'
   What Causes ‘Holiday Brain Fog’ in Adults 60+ With Normal MRI Results — And
   How Gut-Derived TMAO Levels Spike After Roast Duck and Gravy
 slug: >-
   what-causes-holiday-brain-fog-in-adults-60-with-normal-mri-results-and-how-gut-derived-tmao-levels-spike-after-roast-duck-and-gravy
-description: >-
+description: 'Roast duck and gravy spike a gut compound (TMAO) 2-3x within 4 hours, reducing brain blood flow. Holiday brain fog signals metabolism, not aging, after 60.'
   Connects festive high-choline meals to gut microbiota shifts and TMAO
   elevation, explaining cognitive sluggishness as a metabolic phenomenon—not
   just fatigue or aging.
 date: '2026-01-14'
-updated: '2026-01-14'
-primaryKeyword: holiday brain fog tmao seniors
+updated: '2026-03-27'
+primaryKeyword: 'holiday brain fog from rich meals in adults over 60'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

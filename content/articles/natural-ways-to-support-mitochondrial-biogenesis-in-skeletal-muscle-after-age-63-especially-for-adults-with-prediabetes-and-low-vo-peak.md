@@ -1,16 +1,11 @@
 ---
-title: >-
-  Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle After Age
-  63 — Especially for Adults With Prediabetes and Low VO₂ Peak
+title: 'Boosting Muscle Energy Naturally With Prediabetes After 63'
 slug: >-
   natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
-description: >-
-  Covers targeted nutritional co-factors (e.g., PQQ + ALA timing), cold exposure
-  windows, and resistance training intensity thresholds shown to upregulate
-  PGC-1α in aging muscle — with home-based feasibility tips.
+description: 'Adults 63+ with prediabetes have 30-40% fewer cell powerhouses (mitochondria) in muscle. PQQ + ALA taken 2 hours apart and cold exposure upregulate PGC-1a.'
 date: '2026-01-12'
-updated: '2026-01-12'
-primaryKeyword: mitochondrial biogenesis prediabetes over 63
+updated: '2026-03-27'
+primaryKeyword: 'how to boost muscle energy naturally with prediabetes'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
