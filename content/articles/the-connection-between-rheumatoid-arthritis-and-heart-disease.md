@@ -1,11 +1,12 @@
 ---
-title: The Connection Between Rheumatoid Arthritis and Heart Disease
+title: >-
+  Why Rheumatoid Arthritis Raises Heart Disease Risk After 50
 slug: the-connection-between-rheumatoid-arthritis-and-heart-disease
 description: >-
-  Learn why autoimmune joint diseases increase cardiovascular risk due to systemic inflammation.
+  RA patients face 1.5-2x higher heart risk from chronic inflammation (systemic cytokine activation) damaging arteries. Key steps to protect your heart after 50.
 date: '2025-12-02'
-updated: '2025-12-02'
-primaryKeyword: rheumatoid arthritis and heart disease link
+updated: '2026-03-29'
+primaryKeyword: does rheumatoid arthritis increase heart disease risk
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

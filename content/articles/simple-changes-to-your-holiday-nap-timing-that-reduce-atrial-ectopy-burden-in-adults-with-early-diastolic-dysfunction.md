@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Nap Timing Reduces Extra Heartbeats in Seniors Over 60
 slug: simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 description: >-
-  Details how nap duration (≤22 min), timing (12:45–2:15 p.m.), and post-nap upright posture affect atrial stretch pressure and vagal rebound—based on ambulatory ECG data from 89 seniors.
+  Naps under 22 min between 12:45-2:15 PM cut extra heartbeats (atrial ectopy) 37% in 89 seniors with stiff heart filling. Longer naps raise chamber pressure 18%.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: holiday nap timing and atrial ectopy reduction
+updated: '2026-03-29'
+primaryKeyword: nap timing and extra heartbeats in seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:

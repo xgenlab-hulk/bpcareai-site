@@ -1,11 +1,12 @@
 ---
-title: Should You Adjust Your Blood Pressure Goals in Winter?
+title: >-
+  Winter Blood Pressure Changes: Should Seniors Adjust Their Goals?
 slug: should-you-adjust-your-blood-pressure-goals-in-winter
 description: >-
-  Discusses whether seasonal variations warrant temporary changes in target blood pressure readings for older patients.
+  Cold weather raises systolic BP 5-10 mmHg via blood vessel narrowing (vasoconstriction). How adults 65+ can adapt targets and habits to stay safe all winter.
 date: '2025-11-28'
-updated: '2025-11-28'
-primaryKeyword: seasonal blood pressure goals
+updated: '2026-03-29'
+primaryKeyword: winter blood pressure changes in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

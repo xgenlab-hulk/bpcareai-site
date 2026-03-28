@@ -1,11 +1,12 @@
 ---
 title: >-
+  Diabetes Medication Timing in Winter: A Guide for Adults 69+
 slug: simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
 description: >-
-  Offers a 3-step chronotherapeutic adjustment protocol for insulin, SGLT2is, and GLP-1 RAs—based on melatonin onset delay, reduced daylight vitamin D synthesis, and ambient temperature effects on absorption.
+  Cold skin slows insulin absorption 15-20%, shifting peak action 30-45 min. A 3-step body clock (chronotherapy) protocol helps seniors time insulin in winter.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: diabetes medication timing winter circadian shift
+updated: '2026-03-29'
+primaryKeyword: diabetes medication timing in winter for seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

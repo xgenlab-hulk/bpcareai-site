@@ -1,11 +1,12 @@
 ---
 title: >-
+  Dry Mouth Digestion Support for Adults 70+: Safe Low-Carb Strategies
 slug: natural-ways-to-support-salivary-amylase-activity-without-increasing-carbohydrate-load-using-chilled-cucumber-ribbons-and-zinc-enhanced-herbs-in-adults-70-with-dry-mouth-and-dysphagia
 description: >-
-  Focuses on oral-phase digestion optimization for older adults with xerostomia—detailing food textures, mineral co-factors, and hydration timing that enhance starch breakdown *before* swallowing.
+  About 30% of adults 70+ have zinc deficiency that weakens starch digestion (salivary amylase). Chilled cucumber ribbons and zinc-rich herbs help safely.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: salivary amylase support dry mouth elderly
+updated: '2026-03-29'
+primaryKeyword: dry mouth digestion support for elderly adults
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

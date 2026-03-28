@@ -1,11 +1,12 @@
 ---
 title: >-
+  What Skin Changes Reveal About Diabetes in Women Over 65
 slug: what-are-the-earliest-changes-in-skin-elasticity-and-wound-healing-that-signal-subclinical-microvascular-damage-in-women-over-65-with-long-standing-diabetes
 description: >-
-  Describes early dermal biomarkers—reduced collagen III, altered elastin cross-linking, diminished dermal thickness on ultrasound—preceding foot ulcers or retinopathy.
+  Diabetic women 65+ show up to 30% less collagen III and 15-25% thinner dermis (microvascular dropout) — signs appearing years before ulcers or retinopathy.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: skin elasticity changes in elderly diabetic women
+updated: '2026-03-29'
+primaryKeyword: why is my skin less elastic with diabetes after 65
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Waking Up Hungry at Night: What It Means for Diabetes After 70
 slug: when-to-worry-about-sudden-nighttime-hunger-that-wakes-you-up-differentiating-reactive-hypoglycemia-nocturnal-somogyi-effect-and-early-autonomic-failure-in-adults-70
 description: >-
-  A diagnostic decision tree for clinicians and patients, distinguishing metabolic, pharmacologic, and neurodegenerative causes of nocturnal awakenings with hunger—tailored to frailty and polypharmacy.
+  20% of adults 75+ show nerve signaling decline (autonomic dysfunction). Learn if nighttime hunger is a reactive low, Somogyi rebound, or autonomic failure.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: sudden nighttime hunger diabetes diagnosis
+updated: '2026-03-29'
+primaryKeyword: waking up hungry at night with diabetes over 70
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

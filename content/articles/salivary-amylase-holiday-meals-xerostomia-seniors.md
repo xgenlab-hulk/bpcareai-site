@@ -1,11 +1,12 @@
 ---
 title: >-
+  Boost Saliva Production for Holiday Meals if You're 75+ With Dry Mouth
 slug: natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
 description: >-
-  Offers sensory-triggered, texture-modified, and temperature-optimized pre- and intra-meal strategies to boost natural salivary enzyme activity, improving carbohydrate digestion and satiety signaling.
+  Seniors 75+ with dry mouth (xerostomia) make up to 60% less starch-digesting enzyme. Warm aromas and chilled apple slices restore salivary flow naturally.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: salivary amylase holiday meals xerostomia seniors
+updated: '2026-03-29'
+primaryKeyword: how to boost saliva production for holiday meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

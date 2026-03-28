@@ -1,11 +1,12 @@
 ---
-title: The Complete Guide to Managing Seasonal Depression in Older Adults at Home
+title: >-
+  Seasonal Depression in Older Adults: A Home Management Guide
 slug: the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home
 description: >-
-  A comprehensive resource covering diagnosis, daily management, tools, and when to seek professional help.
+  Up to 15% of adults over 65 get winter mood dips (seasonal affective disorder). Covers 10,000-lux light therapy, gentle movement, and when to seek help.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: complete guide seasonal depression seniors
+updated: '2026-03-29'
+primaryKeyword: seasonal depression in older adults at home
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

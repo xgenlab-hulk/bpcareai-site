@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Heart Safety for Adults With Pacemakers or ICDs
 slug: the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
 description: >-
-  Covers electromagnetic interference risks (e.g., LED light strands, wireless chargers), battery management during cold weather travel, and safe engagement in holiday activities without compromising device function.
+  Modern pacemakers resist everyday interference (electromagnetic signals) from LED lights and chargers at 6+ inches. Covers cold-weather travel and TSA tips.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: holiday heart prevention for pacemaker patients
+updated: '2026-03-29'
+primaryKeyword: holiday heart safety for pacemaker and ICD users
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

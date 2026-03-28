@@ -1,11 +1,12 @@
 ---
 title: >-
+  Blood Pressure Swings After Cataract Surgery: How to Stabilize
 slug: simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma
 description: >-
-  Addresses post-op fluid shifts, beta-blocker eye drop systemic absorption, and vestibular-visual recalibration affecting baroreceptor sensitivity.
+  Beta-blocker eye drops send 15-20% of dose into the bloodstream, lowering heart rate. Covers fluid shifts and nerve recalibration (baroreceptor sensitivity).
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: blood pressure lability after cataract surgery
+updated: '2026-03-29'
+primaryKeyword: blood pressure swings after cataract surgery
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

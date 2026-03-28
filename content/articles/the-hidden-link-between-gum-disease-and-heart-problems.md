@@ -1,11 +1,12 @@
 ---
-title: The Hidden Link Between Gum Disease and Heart Problems
+title: >-
+  How Gum Disease Quietly Increases Heart Risk After 50
 slug: the-hidden-link-between-gum-disease-and-heart-problems
 description: >-
-  Explore how poor oral health may increase the risk of heart disease and what older adults can do to protect themselves.
+  Oral bacteria from bleeding gums fuel artery plaque buildup (atherosclerosis). Researchers find gum bacteria in heart vessel deposits of adults over 50.
 date: '2025-11-26'
-updated: '2025-11-26'
-primaryKeyword: gum disease and heart health connection
+updated: '2026-03-29'
+primaryKeyword: can gum disease cause heart problems
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

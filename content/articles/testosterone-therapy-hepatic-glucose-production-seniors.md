@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Testosterone Therapy Affects Liver Sugar in Men Over 72
 slug: 5-things-every-man-over-72-should-know-about-testosterone-replacement-therapy-and-its-effect-on-hepatic-glucose-production-especially-with-concomitant-nafld
 description: >-
-  Clarifies testosterone’s dual role in suppressing gluconeogenic enzymes while exacerbating hepatic fat accumulation, with liver enzyme–guided dosing thresholds.
+  Testosterone can lower fasting glucose 8-12 mg/dL by quieting liver sugar enzymes (PEPCK), but may worsen fatty liver. Enzyme-guided dosing protects men 72+.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: testosterone therapy hepatic glucose production seniors
+updated: '2026-03-29'
+primaryKeyword: how testosterone affects liver sugar production after 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

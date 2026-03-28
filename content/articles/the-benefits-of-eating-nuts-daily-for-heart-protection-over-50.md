@@ -1,11 +1,12 @@
 ---
-title: The Benefits of Eating Nuts Daily for Heart Protection Over 50
+title: >-
+  How a Daily Handful of Nuts Protects Your Heart After 50
 slug: the-benefits-of-eating-nuts-daily-for-heart-protection-over-50
 description: >-
-  Discover how a handful of nuts each day can reduce bad cholesterol and support artery health.
+  Eating 30g of nuts daily cut major heart events (cardiovascular events) by 30% in the PREDIMED trial. Certain nuts lower bad cholesterol 5-7% in adults 50+.
 date: '2025-12-13'
-updated: '2025-12-13'
-primaryKeyword: daily nut consumption and heart protection after 50
+updated: '2026-03-29'
+primaryKeyword: are nuts good for your heart after age 50
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

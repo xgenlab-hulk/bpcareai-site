@@ -1,11 +1,12 @@
 ---
-title: The Impact of Hot Showers on Blood Pressure and Heart Rate
+title: >-
+  How Hot Showers Affect Blood Pressure and Heart Rate After 65
 slug: the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
 description: >-
-  Find out how hot water affects circulation and whether it poses risks for those with heart concerns.
+  Water above 104F can drop systolic BP 10-20 mmHg via vessel widening (vasodilation). Nearly 18% of adults over 70 get dizzy after hot baths.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: hot showers and blood pressure effects elderly
+updated: '2026-03-29'
+primaryKeyword: do hot showers affect blood pressure in older adults
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

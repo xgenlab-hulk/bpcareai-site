@@ -1,11 +1,12 @@
 ---
-title: Recognizing Silent Heart Attacks in Diabetics Over 60
+title: >-
+  Silent Heart Attack Signs in Diabetics Over 60: What to Watch For
 slug: recognizing-silent-heart-attacks-in-diabetics-over-60
 description: >-
-  Identify atypical or absent symptoms of heart attacks in older adults with diabetes due to nerve damage.
+  25% of heart attacks in diabetics are silent. Nerve damage (cardiac autonomic neuropathy) masks chest pain, leaving only fatigue or nausea as clues after 60.
 date: '2025-11-26'
-updated: '2025-11-26'
-primaryKeyword: silent heart attack symptoms in elderly diabetics
+updated: '2026-03-29'
+primaryKeyword: silent heart attack signs in older adults with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

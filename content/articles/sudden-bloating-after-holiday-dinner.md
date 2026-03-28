@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Dinner Bloating: When It May Signal SIBO After 63
 slug: when-to-worry-about-sudden-bloating-after-thanksgiving-dinner-distinguishing-food-intolerance-from-early-small-intestinal-bacterial-overgrowth-sibo-in-adults-63-with-long-term-ppi-use
 description: >-
-  Helps readers differentiate transient digestive discomfort from clinically significant SIBO triggers, including breath test indications and low-FODMAP timing strategies.
+  40% of adults 60+ with persistent bloating test positive for bacterial overgrowth (SIBO). Long-term PPI use nearly doubles risk. Know when breath testing helps.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: sudden bloating after holiday dinner
+updated: '2026-03-29'
+primaryKeyword: why am I so bloated after holiday dinner
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

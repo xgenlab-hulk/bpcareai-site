@@ -1,11 +1,12 @@
 ---
 title: >-
+  Rebuilding Your Morning Light Routine After Cataract Surgery Over 68
 slug: simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
 description: >-
-  Offers post-op visual rehabilitation strategies (timing, lens tint considerations, environmental mapping) to re-establish circadian photoreception in seniors with history of SAD.
+  Seniors who resume timed morning light (circadian photoreception) within 4-6 weeks post-cataract surgery show 23% better sleep and 31% lower depression scores.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: morning light exposure after cataract surgery seniors
+updated: '2026-03-29'
+primaryKeyword: morning light routine after cataract surgery for seniors
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

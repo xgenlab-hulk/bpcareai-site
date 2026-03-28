@@ -1,11 +1,12 @@
 ---
 title: >-
+  Dizzy After Eating at Holiday Gatherings? Steps for Seniors 74+
 slug: simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy
 description: >-
-  Introduces real-time, non-pharmacologic interventions (breathing pattern, posture sequencing, ambient temperature) that blunt orthostatic and postprandial hypotension *while* conversing and moving.
+  Seniors 74+ with nerve damage (autonomic neuropathy) can see BP drop 20+ mmHg during meals. Posture and breathing shifts help prevent falls in real time.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: post-meal blood pressure drops socializing seniors
+updated: '2026-03-29'
+primaryKeyword: dizzy after eating at family gatherings over 74
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

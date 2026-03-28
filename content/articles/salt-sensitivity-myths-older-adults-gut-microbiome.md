@@ -1,11 +1,12 @@
 ---
 title: >-
+  Salt Sensitivity Myths After 69: What Genes and Gut Bacteria Reveal
 slug: myths-vs-facts-salt-sensitivity-in-older-adults-what-new-research-says-about-genetic-variants-gut-microbiome-diversity-and-dietary-sodium-thresholds-in-adults-69
 description: >-
-  Debunks outdated assumptions about universal salt restriction by integrating genomics, microbial metabolism, and individualized sodium tolerance thresholds.
+  Only 35-45% of adults 69+ are truly salt sensitive. Gut bacteria (microbiome diversity) and ACE gene variants predict your sodium response better than age.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: salt sensitivity myths older adults gut microbiome
+updated: '2026-03-29'
+primaryKeyword: salt sensitivity myths for older adults
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

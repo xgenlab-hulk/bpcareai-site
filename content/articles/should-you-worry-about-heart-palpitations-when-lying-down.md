@@ -1,11 +1,12 @@
 ---
-title: Should You Worry About Heart Palpitations When Lying Down?
+title: >-
+  Heart Palpitations Lying Down After 50: When to Worry
 slug: should-you-worry-about-heart-palpitations-when-lying-down
 description: >-
-  Learn when nighttime palpitations are harmless and when they might signal an underlying heart issue.
+  Nighttime fluttering often stems from blood shifting to the chest (venous redistribution) when flat. Which palpitations are harmless vs. signs of AFib after 50.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: heart palpitations while lying down over 50
+updated: '2026-03-29'
+primaryKeyword: heart palpitations lying down after 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

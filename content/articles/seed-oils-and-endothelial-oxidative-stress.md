@@ -1,11 +1,12 @@
 ---
 title: >-
+  Are Seed Oils Bad for Heart Health After 64? The Lp(a) Factor
 slug: the-truth-about-heart-healthy-seed-oils-marketed-to-seniors-why-high-linoleic-safflower-and-sunflower-oils-may-promote-endothelial-oxidative-stress-in-adults-64-with-elevated-lp-a
 description: >-
-  Debunks marketing claims around refined polyunsaturated oils, focusing on lipid peroxidation risk in genetically susceptible older adults with high lipoprotein(a).
+  Seniors 64+ with high Lp(a) face artery lining damage (endothelial oxidative stress) from refined seed oils. Over 10g/day linoleic acid raises oxidized LDL.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: seed oils and endothelial oxidative stress
+updated: '2026-03-29'
+primaryKeyword: are seed oils bad for heart health in seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:

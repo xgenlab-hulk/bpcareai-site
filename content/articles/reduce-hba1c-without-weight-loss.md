@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Lower HbA1c Without Weight Loss: A 3-Day Reset for Adults 60+
 slug: quick-ways-to-reduce-post-holiday-hba1c-without-weight-loss-using-3-day-postprandial-glucose-reset-protocols-in-adults-60-71-with-stable-bmi-and-elevated-a1c
 description: >-
-  Details a clinically validated 3-day reset: targeted fiber sequencing, timed resistance micro-bouts, and evening blue-light reduction — with A1c delta predictions from 12-week CGM modeling.
+  After-meal spikes can raise A1c 0.2-0.4% in 6 weeks. This 3-day protocol uses fiber timing, movement, and light control (circadian reset) for adults 60-71.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: reduce hba1c without weight loss
+updated: '2026-03-29'
+primaryKeyword: how to lower HbA1c without losing weight after 60
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

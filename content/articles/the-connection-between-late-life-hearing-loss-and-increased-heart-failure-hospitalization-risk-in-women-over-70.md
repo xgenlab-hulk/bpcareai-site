@@ -1,11 +1,12 @@
 ---
 title: >-
+  Hearing Loss and Heart Failure Risk in Women Over 70
 slug: the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
 description: >-
-  Explains shared vascular pathology in cochlear microcirculation and myocardium, plus how untreated hearing impairment delays symptom recognition and care seeking.
+  Women 70+ with moderate hearing loss face 35% higher heart failure hospitalization over 5 years. Shared vessel damage (microvascular pathology) links both.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: hearing loss and heart failure hospitalization
+updated: '2026-03-29'
+primaryKeyword: hearing loss and heart failure risk in women over 70
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

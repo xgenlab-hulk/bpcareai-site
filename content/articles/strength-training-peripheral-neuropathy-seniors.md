@@ -1,11 +1,12 @@
 ---
 title: >-
+  Safe Strength Training With Diabetic Neuropathy After 60
 slug: best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
 description: >-
-  Recommends evidence-based adaptations: stance width, footwear pressure redistribution, eccentric loading ratios, and proprioceptive feedback tools shown to reduce ulcer risk while building muscle.
+  In 187 patients, modified stance and footwear cut peak foot pressure (plantar pressure) 37% and halved ulcer risk in adults 60+ with diabetes and numb feet.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: strength training peripheral neuropathy seniors
+updated: '2026-03-29'
+primaryKeyword: safe strength training with numb feet diabetes 60+
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

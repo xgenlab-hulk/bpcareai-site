@@ -1,11 +1,12 @@
 ---
 title: >-
+  Adjusting Your Insulin-to-Carb Ratio When Walking After 70
 slug: simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
 description: >-
-  Provides step-by-step carb-ratio recalibration guidance based on real-world activity logs, timing relative to meals, and fall-risk–informed safety margins.
+  Walking lowers post-meal glucose 30-50 mg/dL in adults 70+, raising low sugar (hypoglycemia) risk on rapid-acting insulin. Safe ratio recalibration steps.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: insulin-to-carb ratio adjustment for walking seniors
+updated: '2026-03-29'
+primaryKeyword: adjust insulin carb ratio walking after 70
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

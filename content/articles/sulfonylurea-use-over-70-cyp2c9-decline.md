@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sulfonylurea After 70: Why Your Body Processes It Differently
 slug: 5-things-everyone-over-70-should-know-about-sulfonylurea-use-especially-if-you-re-taking-gliclazide-and-have-age-related-decline-in-cyp2c9-and-renal-function
 description: >-
-  Addresses pharmacogenomic and pharmacokinetic risks: prolonged half-life, increased hypoglycemia duration, impaired counterregulatory hormone response, and safer alternatives like glimepiride dose tapering with weekly CGM review.
+  After 70, liver enzyme (CYP2C9) activity drops 30-40%, extending gliclazide half-life to 20 hr. Low blood sugar (hypoglycemia) lasts longer and warnings fade.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: "health management over 70"
+updated: '2026-03-29'
+primaryKeyword: sulfonylurea safety risks after age 70
 topicCluster: renal-health
 image: ''
 relatedSlugs:

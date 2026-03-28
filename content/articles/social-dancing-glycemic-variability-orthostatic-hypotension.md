@@ -1,11 +1,12 @@
 ---
 title: >-
+  Social Dancing for Blood Sugar and Balance After 67
 slug: how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
 description: >-
-  Presents mechanistic data linking rhythmic movement, vestibular input, and vagal modulation—showing improved HRV and 23% less glucose swing in a 12-week cohort of adults 67–79.
+  Twice-weekly dancing cut blood sugar swings (glycemic variability) by 23% and raised HRV 18% in adults 67-79 with diabetes and postural dizziness.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: social dancing glycemic variability orthostatic hypotension
+updated: '2026-03-29'
+primaryKeyword: does social dancing help blood sugar and dizziness
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

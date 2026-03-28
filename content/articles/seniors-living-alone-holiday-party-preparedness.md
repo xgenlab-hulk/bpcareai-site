@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Party Tips for Seniors Living Alone: Stay Safe and Well
 slug: 5-things-every-senior-living-alone-should-know-before-attending-their-first-post-pandemic-holiday-party-from-portion-control-to-social-glucose-triggers
 description: >-
-  Covers practical, safety-first strategies for isolated seniors returning to group meals: food navigation, hypoglycemia preparedness, hydration timing, and exit-plan empowerment.
+  BP can spike 12-15 mmHg at holiday meals. Seniors alone need hydration timing, blood sugar plans (glucose management), and a practical exit strategy.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: seniors living alone holiday party preparedness
+updated: '2026-03-29'
+primaryKeyword: holiday party tips for seniors living alone
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

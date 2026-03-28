@@ -1,11 +1,12 @@
 ---
-title: 'Seasonal Depression vs. Normal Winter Sadness: What Families Need to Know'
+title: >-
+  Seasonal Depression vs. Winter Sadness in Older Adults: A Family Guide
 slug: seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
 description: >-
-  Differentiate between temporary mood dips and clinical seasonal affective disorder in older adults.
+  Up to 15% of adults 65+ have clinical seasonal mood disorder (SAD), often missed. A 2-week symptom cutoff separates winter blues from treatable depression.
 date: '2025-12-08'
-updated: '2025-12-08'
-primaryKeyword: seasonal depression vs winter sadness
+updated: '2026-03-29'
+primaryKeyword: seasonal depression vs winter sadness in older adults
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: The Complete Guide to Avoiding Holiday Heart Syndrome After 50
+title: >-
+  How to Prevent Holiday Heart Syndrome After 50: A Full Guide
 slug: the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 description: >-
-  A comprehensive resource covering prevention, recognition, and management of holiday-related arrhythmias for midlife and older adults.
+  Binge drinking raises irregular heartbeat (atrial fibrillation) risk up to 60% in adults 50+. Covers alcohol limits, sodium thresholds, and warning signs.
 date: '2025-12-02'
-updated: '2025-12-02'
-primaryKeyword: complete guide holiday heart syndrome
+updated: '2026-03-29'
+primaryKeyword: how to prevent holiday heart syndrome after 50
 topicCluster: special-populations
 image: ''
 relatedSlugs:

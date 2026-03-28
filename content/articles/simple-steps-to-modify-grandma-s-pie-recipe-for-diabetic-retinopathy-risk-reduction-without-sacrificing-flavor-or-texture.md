@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Modify Grandma's Pie to Protect Diabetic Eye Health
 slug: simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture
 description: >-
-  Walks through evidence-based substitutions (anthocyanin-rich berries, resistant starch flour blends, low-AGE baking temps) validated in ophthalmic nutrition trials.
+  Berry pies cut eye vessel leakage (retinal vascular leakage) 37% in a 6-month trial. Low-AGE baking temps and resistant starch flour swaps for adults 50+.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: grandma pie recipe diabetic retinopathy
+updated: '2026-03-29'
+primaryKeyword: pie recipe for diabetic eye health
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  When Normal Blood Pressure Hides Valve Problems After 75
 slug: warning-signs-your-stable-blood-pressure-readings-are-masking-subclinical-aortic-valve-stenosis-progression-especially-with-concurrent-elevated-nt-probnp-and-normal-echocardiographic-gradient-in-adults-75
 description: >-
-  Highlights discordant clinical signals (e.g., preserved gradient despite rising biomarkers) that indicate early valvular obstruction altering central hemodynamics.
+  NT-proBNP rises 20-40% before echo detects early aortic stenosis (valve narrowing). Stable BP after 75 can mask this as the heart compensates silently.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: subclinical aortic stenosis blood pressure masking
+updated: '2026-03-29'
+primaryKeyword: can normal blood pressure hide valve problems at 75
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

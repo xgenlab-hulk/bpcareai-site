@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Appetizer Plates for Macular Degeneration: A Guide
 slug: simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
 description: >-
-  Offers evidence-based visual and sensory adaptations—including lutein-rich garnishes, contrast-enhancing plating, and texture-modified dips—designed specifically for age-related vision loss and dining autonomy.
+  Eye nutrients (lutein, zeaxanthin) cut advanced AMD risk 25% over 5 years per AREDS2. Contrast-enhancing plating and nutrient-rich garnish ideas for adults 50+.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: holiday appetizers macular degeneration
+updated: '2026-03-29'
+primaryKeyword: holiday appetizers for macular degeneration
 topicCluster: special-populations
 image: ''
 relatedSlugs:

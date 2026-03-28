@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Snacking With Diabetic Neuropathy: Timing and Texture Tips
 slug: simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
 description: >-
-  Addresses oral sensory changes, delayed gastric emptying, and autonomic dysregulation to prevent nocturnal hypoglycemia and post-snack glucose crashes.
+  Nerve damage (diabetic neuropathy) alters taste and digestion. Timing snacks to prevent 3 a.m. blood sugar crashes (nocturnal hypoglycemia) for adults 50+.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: holiday snacking diabetic neuropathy
+updated: '2026-03-29'
+primaryKeyword: holiday snacking with diabetic neuropathy
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Managing Your Blood Pressure While Caring for a Spouse With Dementia
 slug: the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79
 description: >-
-  Addresses the unique hypertensive burden of spousal caregivers, including cortisol–renin dysrhythmia, missed dosing windows, and adaptive home BP tracking protocols.
+  Spousal dementia caregivers 65-79 face 20% higher rates of high blood pressure (hypertension). Covers missed-dose recovery and adaptive home BP monitoring.
 date: '2026-02-28'
-updated: '2026-02-28'
-primaryKeyword: blood pressure management dementia caregiver
+updated: '2026-03-29'
+primaryKeyword: blood pressure tips for dementia caregivers over 65
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

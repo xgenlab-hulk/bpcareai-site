@@ -1,11 +1,12 @@
 ---
-title: The Hidden Danger of Combining Alcohol and Cold Medicines Over 50
+title: >-
+  Why Mixing Alcohol and Cold Medicine Gets Riskier After 50
 slug: the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
 description: >-
-  Discusses how over-the-counter cold remedies mixed with festive drinking can increase the risk of holiday heart syndrome.
+  OTC decongestants plus holiday drinks can trigger irregular heartbeat (atrial fibrillation) within hours. Slower liver processing raises toxicity after 50.
 date: '2025-12-02'
-updated: '2025-12-02'
-primaryKeyword: alcohol and cold medicine risks
+updated: '2026-03-29'
+primaryKeyword: mixing alcohol and cold medicine risks after 50
 topicCluster: special-populations
 image: ''
 relatedSlugs:

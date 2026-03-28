@@ -1,11 +1,12 @@
 ---
 title: >-
+  Warning Signs of Cardiac Amyloidosis in Men Over 75
 slug: red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
 description: >-
-  Details diagnostic pitfalls: preserved ejection fraction with restrictive filling, carpal tunnel revision history, and low-voltage ECG with disproportionate troponin elevation.
+  Affects ~1 in 100 men over 75. Protein deposits in the heart (cardiac amyloidosis) mimic COPD, with clues like bilateral carpal tunnel and low-voltage ECG.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: cardiac amyloidosis red flags in elderly men
+updated: '2026-03-29'
+primaryKeyword: cardiac amyloidosis warning signs in men over 75
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: The Connection Between Holiday Light Exposure and Blood Sugar Regulation
+title: >-
+  How Holiday Lights Disrupt Blood Sugar After 50
 slug: the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
 description: >-
-  Explore how changes in circadian rhythm due to festive lighting and late nights may influence glucose control in people over 50 with diabetes.
+  Evening light above 100 lux raises next-morning fasting glucose 18% in adults 55-70. How festive lighting disrupts your internal clock (circadian rhythm).
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: holiday lights blood sugar circadian
+updated: '2026-03-29'
+primaryKeyword: holiday lights and blood sugar disruption
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

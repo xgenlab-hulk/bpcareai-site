@@ -1,11 +1,12 @@
 ---
 title: >-
+  12 Ways to Lower Morning Blood Sugar Without Insulin at 55+
 slug: 12-natural-ways-to-stabilize-morning-fasting-glucose-without-adjusting-insulin-using-circadian-optimized-sleep-hygiene-late-night-protein-timing-in-adults-55-63
 description: >-
-  Presents evidence-based non-pharmacologic strategies including bedtime casein dosing, blue-light restriction, and core body temperature modulation to blunt dawn phenomenon during holidays.
+  Blue light after 9 PM raised fasting glucose (hepatic output) 18 mg/dL in adults 55-65. Bedtime casein and body cooling blunt the dawn phenomenon naturally.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: stabilize morning glucose without insulin
+updated: '2026-03-29'
+primaryKeyword: lower morning blood sugar without insulin naturally
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

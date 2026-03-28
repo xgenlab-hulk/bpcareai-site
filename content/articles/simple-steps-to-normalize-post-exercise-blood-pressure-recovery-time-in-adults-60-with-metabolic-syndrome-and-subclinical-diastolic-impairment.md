@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Your BP Stays High After Exercise Over 60 — and How to Fix It
 slug: simple-steps-to-normalize-post-exercise-blood-pressure-recovery-time-in-adults-60-with-metabolic-syndrome-and-subclinical-diastolic-impairment
 description: >-
-  Offers actionable, low-intensity movement and recovery strategies to improve parasympathetic reactivation speed after exertion—critical for cardiovascular resilience.
+  Adults 60+ with metabolic syndrome take 3-5 extra minutes for BP to drop (parasympathetic reactivation). Simple cooldown tweaks can cut recovery time by 40%.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: post-exercise blood pressure recovery metabolic syndrome
+updated: '2026-03-29'
+primaryKeyword: why does my blood pressure stay high after exercise over 60
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

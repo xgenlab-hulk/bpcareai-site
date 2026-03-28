@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can You Reverse Early Diabetic Retinopathy Naturally After 58?
 slug: science-backed-ways-to-reverse-early-diabetic-retinopathy-without-laser-or-anti-vegf-using-targeted-flavonoid-bioavailability-and-retinal-capillary-pericyte-protection-in-adults-58-67
 description: >-
-  Focuses on quercetin-3-glucoside + vitamin C co-administration to stabilize pericyte PDGFR-β signaling, supported by OCT-A angiography improvement data and reduced retinal vessel tortuosity over 9 months.
+  Adults 58-67 can protect eye blood vessels (retinal pericytes) with targeted flavonoids. OCT-A data shows 22% less vessel tortuosity in 9 months.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: reverse early diabetic retinopathy naturally
+updated: '2026-03-29'
+primaryKeyword: can you reverse early diabetic retinopathy naturally
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

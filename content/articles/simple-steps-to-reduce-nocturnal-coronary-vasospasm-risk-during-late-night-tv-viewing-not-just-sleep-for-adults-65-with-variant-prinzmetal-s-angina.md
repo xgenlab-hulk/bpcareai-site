@@ -1,11 +1,12 @@
 ---
 title: >-
+  Chest Tightness Watching TV at Night? What Adults 65+ Must Know
 slug: simple-steps-to-reduce-nocturnal-coronary-vasospasm-risk-during-late-night-tv-viewing-not-just-sleep-for-adults-65-with-variant-prinzmetal-s-angina
 description: >-
-  Targets a high-risk behavioral window (screen light, recumbent posture, cold ambient air, delayed caffeine metabolism) that triggers microvascular spasm — distinct from exertional triggers.
+  Late-night TV clusters 4 triggers: screen light, cool air, reclined posture, slow caffeine clearance (coronary vasospasm). Simple shifts help seniors cut risk.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: nocturnal coronary vasospasm tv viewing
+updated: '2026-03-29'
+primaryKeyword: chest tightness watching TV at night over 65
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

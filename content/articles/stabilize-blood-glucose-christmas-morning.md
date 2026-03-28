@@ -1,11 +1,12 @@
 ---
 title: >-
+  5 Ways to Stabilize Blood Sugar on Christmas Morning After 60
 slug: 5-science-backed-ways-to-stabilize-blood-glucose-during-christmas-morning-using-timing-temperature-and-texture-adjustments-for-adults-60-69-with-insulin-treated-diabetes
 description: >-
-  Details evidence-based morning-specific strategies: cold-brew coffee pre-meal, chilled oatmeal viscosity modulation, sequential protein-first ingestion, and ambient room temperature effects on gastric emptying.
+  Adults 60-69 on insulin had 42% higher post-breakfast sugar spikes (glucose AUC) on holidays. Pre-meal cold-brew and protein-first eating blunt the rise.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: stabilize blood glucose christmas morning
+updated: '2026-03-29'
+primaryKeyword: how to keep blood sugar stable christmas morning
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: Should You Adjust Your Diabetes Medication During the Holidays?
+title: >-
+  Adjusting Diabetes Medication During Holidays: Guide for 50+
 slug: should-you-adjust-your-diabetes-medication-during-the-holidays
 description: >-
-  Guidance on when and how to safely modify medication or insulin in response to changed eating patterns during festive periods.
+  Holiday meals raise average blood sugar 15-20% in type 2 diabetes. When to adjust medication timing (drug chronotherapy) vs. dosage, and which drugs risk lows.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: adjust diabetes meds holidays
+updated: '2026-03-29'
+primaryKeyword: adjusting diabetes medication during holidays
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

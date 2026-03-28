@@ -1,11 +1,12 @@
 ---
-title: Simple Steps to Monitor Your Heart Health During the Holiday Season
+title: >-
+  How to Monitor Your Heart Health During the Holidays After 50
 slug: simple-steps-to-monitor-your-heart-health-during-the-holiday-season
 description: >-
-  Guide readers through easy self-monitoring techniques including pulse checks, symptom tracking, and wearable use.
+  Irregular heartbeat (atrial fibrillation) admissions rise 20% from Thanksgiving to New Year's. Pulse checks, symptom logs, and wearable tips for adults 50+.
 date: '2025-12-09'
-updated: '2025-12-09'
-primaryKeyword: monitor heart health holidays
+updated: '2026-03-29'
+primaryKeyword: monitor heart health during holidays over 50
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

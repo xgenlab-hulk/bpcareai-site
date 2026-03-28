@@ -1,11 +1,12 @@
 ---
 title: >-
+  Tea with Stevia and Lemon: Hidden Kidney Risks on Thiazides
 slug: how-late-afternoon-tea-consumption-especially-with-stevia-citric-acid-alters-renal-sodium-reabsorption-in-adults-73-with-thiazide-induced-hypokalemia-and-mild-volume-depletion
 description: >-
-  Analyzes how common sweetener-acid combinations interact with distal tubular ion transporters to exacerbate electrolyte imbalances in diuretic users.
+  25% of adults 70+ on thiazides have fluid loss (volume depletion). Stevia plus citric acid further cut sodium retention (reabsorption), worsening low potassium.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: tea stevia citric acid renal sodium reabsorption
+updated: '2026-03-29'
+primaryKeyword: does stevia in tea affect kidneys on thiazides
 topicCluster: renal-health
 image: ''
 relatedSlugs:

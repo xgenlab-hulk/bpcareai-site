@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Baking With Insulin Resistance: Safe Swaps After 62
 slug: the-complete-guide-to-safe-holiday-baking-with-insulin-resistance-from-low-glycemic-flour-blends-to-oven-temperature-adjustments-for-adults-62
 description: >-
-  Covers ingredient swaps, thermal processing effects on resistant starch formation, and batch-size adjustments to prevent post-bake hyperglycemia spikes in insulin-resistant seniors.
+  Cooling baked goods forms fiber that cuts glucose spikes 20-30% (resistant starch). Low-glycemic flour blends and oven tips for blood sugar stability.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: safe holiday baking insulin resistance
+updated: '2026-03-29'
+primaryKeyword: holiday baking with insulin resistance after 60
 topicCluster: special-populations
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: The Impact of Air Pollution on Heart Disease Risk in Older Adults
+title: >-
+  How Air Pollution Raises Heart Disease Risk After 60
 slug: the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
 description: >-
-  Examine how long-term exposure to polluted air affects cardiovascular health in aging populations.
+  Long-term fine particle exposure (PM2.5) above 12 ug/m3 raises heart attack risk 10-20% after 60. Homes near major roads have 20-30% more indoor pollution.
 date: '2025-12-08'
-updated: '2025-12-08'
-primaryKeyword: air pollution and heart disease in seniors
+updated: '2026-03-29'
+primaryKeyword: how does air pollution affect heart health after 60
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

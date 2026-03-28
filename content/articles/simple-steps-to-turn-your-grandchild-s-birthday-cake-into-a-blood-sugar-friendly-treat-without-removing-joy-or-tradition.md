@@ -1,11 +1,12 @@
 ---
 title: >-
+  A Birthday Cake That Won't Spike Blood Sugar for Seniors
 slug: simple-steps-to-turn-your-grandchild-s-birthday-cake-into-a-blood-sugar-friendly-treat-without-removing-joy-or-tradition
 description: >-
-  A compassionate, child-inclusive approach to modifying celebratory desserts: swapping sweeteners, adjusting texture, rethinking frosting—and preserving emotional safety for both child and aging caregiver.
+  Swapping half the flour for almond flour and using banana (low glycemic substitution) can keep post-meal glucose under 140 mg/dL. Tradition and joy stay intact.
 date: '2025-12-24'
-updated: '2025-12-24'
-primaryKeyword: blood sugar friendly birthday cake seniors
+updated: '2026-03-29'
+primaryKeyword: birthday cake that won't spike blood sugar for seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

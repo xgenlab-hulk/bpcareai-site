@@ -1,11 +1,12 @@
 ---
 title: >-
+  Home Lighting Changes That Lower Nighttime Blood Pressure
 slug: simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
 description: >-
-  Guides circadian lighting adjustments—blue-enriched morning light, amber evening filters, and bedroom light exposure thresholds—to optimize melatonin and renin rhythms.
+  Structured lighting cut nighttime systolic BP 6.2 mmHg in 4 weeks by restoring sleep hormone (melatonin) rhythm. Light color and timing tips for adults 55+.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: home lighting and nighttime blood pressure
+updated: '2026-03-29'
+primaryKeyword: home lighting to lower nighttime blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

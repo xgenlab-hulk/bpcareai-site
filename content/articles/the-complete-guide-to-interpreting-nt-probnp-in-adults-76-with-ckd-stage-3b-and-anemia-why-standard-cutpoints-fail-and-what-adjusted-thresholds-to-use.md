@@ -1,11 +1,12 @@
 ---
 title: >-
+  What High NT-proBNP Really Means When You Have CKD After 75
 slug: the-complete-guide-to-interpreting-nt-probnp-in-adults-76-with-ckd-stage-3b-and-anemia-why-standard-cutpoints-fail-and-what-adjusted-thresholds-to-use
 description: >-
-  Provides a step-by-step framework for contextualizing NT-proBNP results in older adults with overlapping renal and hematologic confounders — including age- and eGFR-adjusted interpretation tables.
+  Standard heart failure cutoffs (NT-proBNP thresholds) misfire in 40% of adults 76+ with CKD. An 800 ng/L reading may be stable when adjusted for eGFR and age.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: nt-probnp interpretation in elderly ckd
+updated: '2026-03-29'
+primaryKeyword: what does high NT-proBNP mean with kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

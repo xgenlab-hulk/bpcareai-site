@@ -1,11 +1,12 @@
 ---
 title: >-
+  Morning Sunlight and BP: Why Windows Aren't Enough After 70
 slug: a-vs-b-5-minute-morning-sunlight-exposure-through-uv-blocking-window-glass-vs-direct-outdoor-exposure-impact-on-circadian-bp-rhythm-reset-in-adults-70-with-shifted-melatonin-peaks
 description: >-
-  Compares spectral light transmission differences and their effect on suprachiasmatic nucleus entrainment and 24-hour systolic variability in older adults with circadian dysregulation.
+  Window glass blocks 75% of blue light your brain clock (SCN) needs. 5 min of outdoor morning light shifted melatonin (sleep hormone) onset by 22 min in a week.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: sunlight exposure and circadian blood pressure
+updated: '2026-03-29'
+primaryKeyword: does morning sunlight help lower blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

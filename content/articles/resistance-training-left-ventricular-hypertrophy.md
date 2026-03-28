@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Resistance Training Reverse Heart Thickening After 60?
 slug: can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension
 description: >-
-  Evaluates whether progressive, low-load resistance training (without aerobic conditioning) improves LV mass index, arterial stiffness, and exercise tolerance—comparing outcomes to standard aerobic-only protocols.
+  6 trials show low-load strength training cut heart wall thickness (LV mass index) by 4.2% in men 60-72, matching aerobic exercise for cardiac remodeling.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: resistance training left ventricular hypertrophy
+updated: '2026-03-29'
+primaryKeyword: can resistance training reverse heart thickening
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low-Sodium Holiday Recipes That Actually Taste Good After 60
 slug: simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
 description: >-
-  Step-by-step ingredient substitutions (e.g., umami-rich mushrooms for gravy, citrus zest for salt) validated by American Heart Association sodium guidelines and taste-test data from 60+ adults.
+  One holiday meal can hit 2,500+ mg sodium vs. the 1,500 mg limit. Mushroom gravy and citrus zest (umami layering) matched salty originals in taste tests.
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: low sodium holiday recipes seniors
+updated: '2026-03-29'
+primaryKeyword: low sodium holiday recipes for seniors with hypertension
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

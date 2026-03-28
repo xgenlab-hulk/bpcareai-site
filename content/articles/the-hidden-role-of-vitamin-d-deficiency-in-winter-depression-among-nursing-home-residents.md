@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Nursing Home Residents Face Higher Winter Depression Risk
 slug: the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
 description: >-
-  Focus on institutionalized seniors with limited sun exposure and how supplementation may improve mood outcomes.
+  Up to 80% of nursing home residents have low vitamin D (below 30 ng/mL), worsening winter mood. Limited sun cuts the skin's natural D production.
 date: '2025-12-09'
-updated: '2025-12-09'
-primaryKeyword: vitamin d deficiency in nursing homes
+updated: '2026-03-29'
+primaryKeyword: vitamin D and winter depression in nursing home seniors
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

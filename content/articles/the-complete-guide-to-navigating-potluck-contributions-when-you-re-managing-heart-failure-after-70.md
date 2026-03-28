@@ -1,11 +1,12 @@
 ---
 title: >-
+  Heart-Failure-Friendly Potluck Dishes for Seniors Over 70
 slug: the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
 description: >-
-  Practical, stigma-free framework for selecting, labeling, and explaining heart-healthy dishes—including sodium-free seasoning blends, portion-controlled serving guides, and polite scripts for navigating questions from relatives.
+  Staying under 1,500 mg sodium daily protects pump function (cardiac output). Seasoning blends, portion guides, and polite scripts for potlucks after 70.
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: potluck contributions heart failure seniors
+updated: '2026-03-29'
+primaryKeyword: heart failure potluck dishes low sodium
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

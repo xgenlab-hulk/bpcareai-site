@@ -1,11 +1,12 @@
 ---
-title: Simple Steps to Balance Comfort Foods and Nutrition During Holiday Meals
+title: >-
+  Balancing Comfort Food and Heart Health at Holiday Meals
 slug: simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
 description: >-
-  Outlines a realistic approach to enjoying traditional dishes in moderation while prioritizing nutrient-dense options on the table.
+  Excess sodium raises upper blood pressure (systolic BP) 5-10 mmHg in sensitive adults. Plate-building swaps to enjoy holidays while protecting your heart.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: balancing comfort food and health
+updated: '2026-03-29'
+primaryKeyword: balance comfort food and heart health holidays
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

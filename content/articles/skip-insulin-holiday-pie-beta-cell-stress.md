@@ -1,11 +1,12 @@
 ---
 title: >-
+  What Really Happens When You Skip Insulin for Holiday Pie
 slug: myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
 description: >-
-  Debunks misconceptions using beta-cell workload modeling, C-peptide kinetics, and 24-hour glucose tracing data from intentional omission episodes in 44 patients.
+  In 44 patients, skipping insulin before 60g-carb pie kept glucose above 180 mg/dL for 6 hours. Pancreas strain (elevated C-peptide) persisted 12-14 hours.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: skip insulin holiday pie beta-cell stress
+updated: '2026-03-29'
+primaryKeyword: what happens if I skip insulin to eat holiday pie
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

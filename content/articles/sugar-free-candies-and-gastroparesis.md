@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sugar-Free Candies and Gastroparesis: Hidden Risks for Seniors
 slug: the-truth-about-sugar-free-holiday-candies-marketed-to-seniors-why-83-contain-maltitol-induced-osmotic-diarrhea-and-secondary-hyperglycemia-in-adults-69-with-gastroparesis
 description: >-
-  Debunks marketing claims around sugar alcohols, revealing how maltitol and sorbitol exacerbate delayed gastric motility, cause rapid colonic fermentation, and trigger reactive glucose spikes via GLP-1 and catecholamine surges.
+  83% of sugar-free candies contain maltitol, a sugar alcohol (polyol) that can spike glucose 40-60 mg/dL hours later in adults 69+ with slow stomach emptying.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: sugar-free candies and gastroparesis
+updated: '2026-03-29'
+primaryKeyword: are sugar-free candies safe with gastroparesis
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

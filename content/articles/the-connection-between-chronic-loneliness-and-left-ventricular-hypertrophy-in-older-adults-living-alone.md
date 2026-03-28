@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Loneliness Quietly Thickens the Heart Wall After 50
 slug: the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
 description: >-
-  Explores neuroendocrine pathways (cortisol, IL-6) linking social isolation to myocardial remodeling—and community-based interventions proven to reverse early changes.
+  Isolated seniors face 20% higher risk of heart wall thickening (left ventricular hypertrophy). How stress hormones drive it and what reverses early changes.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: loneliness left ventricular hypertrophy aging
+updated: '2026-03-29'
+primaryKeyword: loneliness and heart thickening in seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:

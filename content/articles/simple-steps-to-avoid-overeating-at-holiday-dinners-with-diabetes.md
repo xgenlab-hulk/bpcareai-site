@@ -1,11 +1,12 @@
 ---
-title: Simple Steps to Avoid Overeating at Holiday Dinners with Diabetes
+title: >-
+  How to Avoid Overeating at Holiday Dinners With Diabetes
 slug: simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 description: >-
-  Behavioral techniques to help older adults prevent post-meal glucose spikes during high-risk festive meals.
+  Holiday meals spike blood sugar (postprandial glucose) 60-100 mg/dL within 90 min. Portion and timing strategies for adults 50+ on insulin or GLP-1 medications.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: avoid overeating holiday diabetes
+updated: '2026-03-29'
+primaryKeyword: avoid overeating holiday dinners diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

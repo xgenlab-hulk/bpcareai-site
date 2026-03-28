@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Read Your Home BP Log: Spotting Hidden Patterns After 60
 slug: the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71
 description: >-
-  Walks through real-world log examples (with annotated charts), teaching users to identify clinically meaningful patterns — not just averages — using time-stamped, posture-annotated readings.
+  About 15-20% of adults 60+ show normal office BP but high home readings (masked hypertension). Learn to spot circadian shifts and white-coat effects.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: home bp log pattern interpretation
+updated: '2026-03-29'
+primaryKeyword: how to read home blood pressure log patterns after 60
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

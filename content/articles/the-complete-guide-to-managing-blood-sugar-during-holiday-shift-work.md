@@ -1,11 +1,12 @@
 ---
-title: The Complete Guide to Managing Blood Sugar During Holiday Shift Work
+title: >-
+  Managing Blood Sugar During Holiday Shift Work After 50
 slug: the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
 description: >-
-  Tailored advice for older adults with diabetes who work retail, healthcare, or service jobs during peak holiday seasons.
+  Disrupted sleep raises fasting glucose 12-18 mg/dL. Meal timing and monitoring tips for older shift workers managing blood sugar (circadian glucose control).
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: managing blood sugar during holiday shift work
+updated: '2026-03-29'
+primaryKeyword: how to manage blood sugar during holiday shift work
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

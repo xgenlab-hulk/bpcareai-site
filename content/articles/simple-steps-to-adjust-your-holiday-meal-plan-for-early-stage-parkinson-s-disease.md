@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Meal Planning With Parkinson's: Protein Timing Tips
 slug: simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
 description: >-
-  Addresses protein–levodopa competition, swallowing fatigue, and orthostatic BP drops with meal sequencing, texture adaptations, and timed protein distribution strategies.
+  Protein with levodopa cuts absorption 30-50% via amino acid competition (LNAA transport). Timed meal sequencing and texture swaps help adults 50+ eat safely.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: parkinsons disease holiday meal planning
+updated: '2026-03-29'
+primaryKeyword: holiday meal planning with Parkinson's disease
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

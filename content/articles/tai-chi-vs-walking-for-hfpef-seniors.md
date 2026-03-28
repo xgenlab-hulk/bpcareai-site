@@ -1,11 +1,12 @@
 ---
 title: >-
+  Tai Chi vs Walking for HFpEF: Which Helps More After 69?
 slug: a-vs-b-daily-15-minute-tai-chi-qigong-vs-supervised-treadmill-walking-which-improves-6-minute-walk-distance-lv-diastolic-function-more-in-adults-69-with-hfpef
 description: >-
-  Compares functional and echocardiographic outcomes of two low-impact modalities in heart failure with preserved ejection fraction, with emphasis on frailty-adapted protocols.
+  In a 12-week trial, 15 min/day tai chi improved heart relaxation (E/e' ratio) by 22% vs 7% for walking in adults 69+ with stiff-heart failure (HFpEF).
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: tai chi vs walking for HFpEF seniors
+updated: '2026-03-29'
+primaryKeyword: tai chi or walking for heart failure preserved EF
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

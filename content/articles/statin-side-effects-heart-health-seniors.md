@@ -1,11 +1,12 @@
 ---
 title: >-
+  7 Hidden Statin Side Effects Seniors Over 65 Should Know
 slug: 7-hidden-heart-health-risks-of-long-term-statin-use-in-adults-65-with-polypharmacy-mitochondrial-coq10-depletion-skeletal-muscle-microtears-and-late-onset-fatigue-patterns
 description: >-
-  Examines under-discussed cardiovascular trade-offs of statins in older adults taking 5+ medications, focusing on mitochondrial dysfunction, muscle integrity, and fatigue as early red flags for subclinical heart strain.
+  Long-term statins cut CoQ10 (cellular energy fuel) 25-50% in adults 65+. With 5+ daily meds, this causes fatigue and muscle damage flagging heart strain.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: statin side effects heart health seniors
+updated: '2026-03-29'
+primaryKeyword: statin side effects seniors should watch after 65
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

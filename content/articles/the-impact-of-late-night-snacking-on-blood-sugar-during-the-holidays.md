@@ -1,11 +1,12 @@
 ---
-title: The Impact of Late-Night Snacking on Blood Sugar During the Holidays
+title: >-
+  Why Late-Night Holiday Snacking Spikes Blood Sugar After 55
 slug: the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 description: >-
-  Analyzes how nighttime eating during festive events disrupts glucose metabolism, especially in older adults with insulin resistance.
+  Eating after 9 PM raises fasting glucose 12-15 mg/dL due to weaker evening insulin response (circadian beta-cell decline). Adults 55-75 most affected.
 date: '2025-12-07'
-updated: '2025-12-07'
-primaryKeyword: late-night snacking blood sugar
+updated: '2026-03-29'
+primaryKeyword: does late night eating raise blood sugar in seniors
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

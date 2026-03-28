@@ -1,11 +1,12 @@
 ---
 title: >-
+  Tai Chi After Starting GLP-1 Agonists: Safe Exercise for Adults 59-71
 slug: can-you-safely-resume-morning-tai-chi-after-starting-glp-1-agonists-evidence-based-timing-hydration-and-orthostatic-monitoring-protocols-for-adults-59-71
 description: >-
-  Addresses real-world safety questions around exercise initiation during pharmacologic transition—focusing on gastric emptying delays, hypotension risk, and autonomic recalibration windows.
+  GLP-1 drugs slow stomach emptying (gastric motility), affecting balance for 2-4 weeks. Learn timing, hydration, and standing BP checks to resume tai chi safely.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: tai chi after starting glp-1 agonists
+updated: '2026-03-29'
+primaryKeyword: can I do tai chi on semaglutide or GLP-1
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

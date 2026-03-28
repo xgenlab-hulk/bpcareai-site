@@ -1,11 +1,12 @@
 ---
 title: >-
+  Slow Breathing to Lower Diastolic Pressure: 5.5 vs 6 Breaths/Min
 slug: a-vs-b-slow-paced-breathing-at-5-5-breaths-minute-vs-6-0-breaths-minute-for-acute-diastolic-pressure-reduction-in-adults-60-64-with-early-lv-diastolic-dysfunction
 description: >-
-  Compares two clinically distinct resonant breathing frequencies for optimizing vagal tone and left ventricular filling dynamics in pre-heart-failure populations.
+  5.5 breaths/min lowered the bottom BP number (diastolic pressure) 2-3 mmHg more than 6.0 in adults 60-64 by boosting nerve-heart signaling.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: resonant breathing diastolic pressure reduction
+updated: '2026-03-29'
+primaryKeyword: slow breathing to lower diastolic blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

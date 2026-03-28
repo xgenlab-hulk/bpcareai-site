@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does Skipping Breakfast Raise Blood Sugar? What Seniors Need to Know
 slug: myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-dinner-how-fasting-induced-hyperglycemia-and-cortisol-surges-worsen-holiday-glucose-control-in-adults-67
 description: >-
-  Debunks common calorie-shifting logic by explaining dawn phenomenon amplification, hepatic glucose overproduction, and counterregulatory hormone spikes in aging pancreas.
+  Adults 67+ who skipped breakfast had 22% higher post-dinner glucose with equal calories. Fasting amplifies the dawn phenomenon (hepatic glucose overproduction).
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: skipping breakfast holiday hyperglycemia seniors
+updated: '2026-03-29'
+primaryKeyword: does skipping breakfast raise blood sugar in seniors
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: The Hidden Dangers of Indoor Heating on Blood Pressure
+title: >-
+  How Overheated Rooms Quietly Raise Blood Pressure in Winter
 slug: the-hidden-dangers-of-indoor-heating-on-blood-pressure
 description: >-
-  Discusses how dry indoor air and overheated rooms during winter may negatively impact circulation and blood pressure in seniors.
+  Dry heated air above 72F causes dehydration that raises systolic BP 5-10 mmHg. Seniors with high blood pressure (hypertension) face added winter risk.
 date: '2025-12-02'
-updated: '2025-12-02'
-primaryKeyword: indoor heating blood pressure
+updated: '2026-03-29'
+primaryKeyword: can indoor heating raise blood pressure in winter
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

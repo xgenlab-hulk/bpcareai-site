@@ -1,11 +1,12 @@
 ---
 title: >-
+  Climbing Stairs Easily Doesn't Mean Your Heart Is Fine
 slug: myths-vs-facts-my-heart-is-strong-because-i-climb-stairs-easily-what-stress-echocardiography-reveals-about-subclinical-ischemia-in-adults-55-64-with-family-history
 description: >-
-  Debunks fitness-as-protection assumptions using stress echo data showing inducible ischemia in metabolically healthy, physically active adults with genetic risk.
+  Stress echo found hidden blood flow drops (inducible ischemia) in 1 of 5 fit adults 55-64 with family heart history, despite normal ECGs and cholesterol.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: stairs fitness and subclinical ischemia
+updated: '2026-03-29'
+primaryKeyword: can climbing stairs easily hide heart problems
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

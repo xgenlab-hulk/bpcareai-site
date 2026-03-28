@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sugar-Free Desserts and Gut Health: What Seniors 69+ Should Know
 slug: the-truth-about-sugar-free-desserts-labeled-for-seniors-why-erythritol-only-formulations-still-disrupt-gut-microbiota-derived-butyrate-in-adults-69-with-metabolic-syndrome
 description: >-
-  Debunks marketing claims around sugar alcohols, citing 2023 gut-metabolome studies, and offers truly low-fermentable alternatives like monk fruit + acacia fiber blends.
+  Erythritol cuts gut butyrate (a protective fatty acid) by 32% in 2 weeks for seniors with metabolic syndrome. Safer swaps include monk fruit and acacia fiber.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: sugar-free desserts gut health seniors
+updated: '2026-03-29'
+primaryKeyword: do sugar-free desserts hurt gut health in seniors
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Evening Light Changes That Ease Nighttime Heart Strain With Angina
 slug: simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
 description: >-
-  Details spectral intensity and timing of amber-filtered lighting to suppress melatonin phase delay, lower sympathetic tone, and reduce nocturnal heart rate and BP surges in angina patients.
+  Blue-rich light after 8 PM raises heart rate 12-18 bpm via delayed sleep hormone (melatonin). Amber filters cut overnight BP surges 17% in angina patients.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: evening light exposure angina oxygen demand
+updated: '2026-03-29'
+primaryKeyword: evening light and nighttime heart strain with angina
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

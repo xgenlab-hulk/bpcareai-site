@@ -1,11 +1,12 @@
 ---
-title: The Hidden Link Between Holiday Stress and Irregular Heartbeat
+title: >-
+  How Holiday Stress Triggers Irregular Heartbeat After 50
 slug: the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 description: >-
-  Discover how emotional and logistical stressors during the holidays may contribute to transient arrhythmias in middle-aged and older adults.
+  Emotional stress raises adrenaline, increasing irregular heartbeat (atrial fibrillation) risk by 20%. Sleep loss and holiday salt overload add to the danger.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: holiday stress irregular heartbeat
+updated: '2026-03-29'
+primaryKeyword: can holiday stress cause irregular heartbeat
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why 'Stable' Heart Disease Still Worsens Silently After 58
 slug: myths-vs-facts-stable-heart-disease-means-no-progression-what-2024-imaging-studies-reveal-about-silent-plaque-erosion-in-adults-58-66-with-controlled-bp-and-ldl
 description: >-
-  Debunks the false safety of clinical stability using recent intravascular ultrasound and OCT data showing active microerosion even with optimal conventional metrics.
+  Imaging (OCT) found silent plaque wear (microerosion) in 22% of adults 58-66 with controlled BP and LDL. Stable numbers don't rule out active arterial changes.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: stable heart disease plaque erosion
+updated: '2026-03-29'
+primaryKeyword: can stable heart disease still get worse silently
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

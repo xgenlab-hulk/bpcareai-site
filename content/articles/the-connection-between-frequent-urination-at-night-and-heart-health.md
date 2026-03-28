@@ -1,11 +1,12 @@
 ---
-title: The Connection Between Frequent Urination at Night and Heart Health
+title: >-
+  Waking Up to Pee at Night? It May Signal Heart Problems
 slug: the-connection-between-frequent-urination-at-night-and-heart-health
 description: >-
-  Discover how nocturia may be linked to heart failure or circulatory issues in older adults.
+  50% of heart failure patients have frequent nighttime urination (nocturia) from fluid shifts. What 2+ bathroom trips nightly may mean after age 50.
 date: '2025-11-28'
-updated: '2025-11-28'
-primaryKeyword: frequent urination at night and heart problems
+updated: '2026-03-29'
+primaryKeyword: nighttime urination and heart failure signs
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

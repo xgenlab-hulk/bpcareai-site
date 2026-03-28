@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Modify Family Recipes for Swallowing Difficulty
 slug: simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
 description: >-
-  Practical texture-modification framework (viscosity tiers, thermal stability, aroma preservation) for holiday staples like stuffing, gravy, and fruit compote—co-developed with SLPs and elders.
+  Swallowing trouble (dysphagia) affects up to 60% of seniors in care. Covers safe thickness levels (IDDSI tiers), heat-stable thickeners, and aroma tips.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: "health management seniors"
+updated: '2026-03-29'
+primaryKeyword: modify family recipes for swallowing difficulty
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

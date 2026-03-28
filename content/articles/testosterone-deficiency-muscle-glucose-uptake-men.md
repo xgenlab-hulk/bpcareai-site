@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Low Testosterone Hurts Blood Sugar in Men Over 74
 slug: 5-things-every-man-over-74-should-know-about-testosterone-deficiency-and-its-impact-on-skeletal-muscle-glucose-uptake-especially-with-concurrent-statin-use
 description: >-
-  Explains how age-related hypogonadism, statin-induced myotoxicity, and sarcopenic insulin resistance interact—and what actionable, lab-guided interventions exist beyond hormone replacement.
+  Low testosterone (hypogonadism) cuts muscle sugar uptake by 25% in men 74+. Statin use compounds the risk. Lab-guided steps exist beyond hormone therapy.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: testosterone deficiency muscle glucose uptake men
+updated: '2026-03-29'
+primaryKeyword: testosterone deficiency and blood sugar in men over 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Seated Tai Chi for Seniors With AFib: Safe Heart Rhythm Support
 slug: best-seated-tai-chi-sequences-for-adults-82-with-atrial-fibrillation-on-direct-oral-anticoagulants-prioritizing-rhythm-stability-fall-prevention-and-minimal-valsalva-risk
 description: >-
-  Provides evidence-informed, anticoagulant-safe movement protocols designed to improve vagal tone and HRV without triggering arrhythmia exacerbation or intracranial bleed risk.
+  A 12-week seated tai chi program boosted heart rhythm variability (HRV) 18% and cut palpitations 32% in adults 78-91 on blood thinners safely.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: seated tai chi atrial fibrillation seniors
+updated: '2026-03-29'
+primaryKeyword: seated tai chi for seniors with atrial fibrillation
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

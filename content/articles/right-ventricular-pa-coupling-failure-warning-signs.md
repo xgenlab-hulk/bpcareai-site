@@ -1,11 +1,12 @@
 ---
 title: >-
+  Early Warning Signs of Right Ventricular-PA Coupling Failure After 70
 slug: warning-signs-your-stable-heart-failure-class-ii-diagnosis-is-masking-early-right-ventricular-pa-coupling-failure-especially-with-concurrent-pulmonary-nodules-and-mild-hypoxemia-in-adults-70
 description: >-
-  >4% during REM) indicating early RV-PA uncoupling.
+  Stable Class II heart failure can hide right heart strain (RV-PA uncoupling) in adults 70+. Spot clues like overnight oxygen dips >4% during REM sleep.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: right ventricular pa coupling failure warning signs
+updated: '2026-03-29'
+primaryKeyword: early right ventricular PA coupling failure signs
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

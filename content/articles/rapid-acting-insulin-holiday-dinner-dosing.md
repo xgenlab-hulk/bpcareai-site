@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Dose Rapid-Acting Insulin for Holiday Dinners After 58
 slug: the-ultimate-guide-to-adjusting-rapid-acting-insulin-dosing-for-multi-course-holiday-dinners-with-carb-counting-fat-protein-factor-and-alcohol-adjustment-rules
 description: >-
-  Provides step-by-step dosing algorithms (including 'dual-wave' and 'extended bolus' logic) validated for turkey, stuffing, gravy, wine, and pie sequences in adults 58–72.
+  Holiday meals shift glucose peaks 2-4 hours later. Adjust fast-acting insulin (rapid-acting analog) dosing for carbs, fat, and alcohol in adults 58-72.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: rapid-acting insulin holiday dinner dosing
+updated: '2026-03-29'
+primaryKeyword: how to dose rapid-acting insulin for holiday dinners
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

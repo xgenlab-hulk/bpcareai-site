@@ -1,11 +1,12 @@
 ---
 title: >-
+  Evening Insulin Adjustment With SGLT2 Inhibitors After 67
 slug: simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
 description: >-
-  Covers hypovolemia-aware dosing reductions, ketone testing timing, and ‘safety net’ snack strategies to prevent euglycemic DKA in home-dwelling elders.
+  Adults 65+ account for 40% of normal-sugar ketoacidosis (euglycemic DKA) on SGLT2 drugs. Safe 10-20% dose cuts, ketone testing timing, and overnight strategies.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: evening insulin sgl2 inhibitor adjustment
+updated: '2026-03-29'
+primaryKeyword: evening insulin adjustment with SGLT2 inhibitors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

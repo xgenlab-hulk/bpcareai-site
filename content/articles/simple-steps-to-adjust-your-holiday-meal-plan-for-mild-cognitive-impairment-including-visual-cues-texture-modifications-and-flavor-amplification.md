@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Meals for Seniors With Mild Cognitive Impairment
 slug: simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
 description: >-
-  A neuro-dietitian framework for adults 70–85 with MCI: reducing cognitive load at the table, enhancing satiety signaling, and preventing undernutrition through sensory design.
+  30% of adults 70-85 with MCI face undernutrition from delayed fullness signals (satiety hormones). High-contrast plating and layered textures boost intake.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: holiday meal plan mild cognitive impairment
+updated: '2026-03-29'
+primaryKeyword: holiday meals for seniors with cognitive impairment
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

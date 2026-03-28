@@ -1,11 +1,12 @@
 ---
 title: >-
+  Cookie Decorating Tips for Adults With Diabetic Vision Loss
 slug: simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
 description: >-
-  Offers tactile, auditory, and high-contrast visual adaptation strategies—including textured icing nozzles, color-coded ingredient bowls, and voice-navigated timers—for safe, independent participation.
+  Nearly 60% of adults with diabetes over 65 have retinal changes affecting edge vision (contrast sensitivity). High-contrast tools and tactile guides.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: cookie decorating diabetic retinopathy contrast sensitivity
+updated: '2026-03-29'
+primaryKeyword: cookie decorating with diabetic vision loss
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

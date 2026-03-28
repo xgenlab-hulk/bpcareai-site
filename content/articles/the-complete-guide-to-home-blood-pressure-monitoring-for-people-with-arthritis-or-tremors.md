@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Monitor Blood Pressure at Home With Arthritis or Tremors
 slug: the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
 description: >-
-  Covers validated upper-arm and wrist devices, adaptive techniques, positioning hacks, and error-proof logging strategies tailored for seniors with limited dexterity or Parkinson’s-related tremors.
+  An unsupported arm can inflate BP readings 10-20 mmHg. Covers validated auto-cuffs, positioning hacks (adaptive techniques), and tremor-friendly timing.
 date: '2025-12-16'
-updated: '2025-12-16'
-primaryKeyword: home blood pressure monitoring arthritis
+updated: '2026-03-29'
+primaryKeyword: home blood pressure monitoring with arthritis
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

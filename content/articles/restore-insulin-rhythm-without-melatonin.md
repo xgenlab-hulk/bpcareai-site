@@ -1,11 +1,12 @@
 ---
 title: >-
+  Fix Evening Blood Sugar Spikes Without Melatonin After 64
 slug: natural-ways-to-restore-circadian-rhythm-driven-insulin-secretion-without-melatonin-using-blue-light-filtered-evening-lenses-fixed-dose-zinc-carnosine-timing-in-adults-64-with-evening-hyperglycemia
 description: >-
-  Presents a non-hormonal, time-of-day–targeted protocol to resynchronize beta-cell clock genes (e.g., BMAL1, CLOCK) and improve first-phase insulin release—validated in a 2023 RCT of older adults with delayed glucose peak.
+  87 adults 64-79 improved insulin timing (first-phase release) by 42% using blue-light glasses and timed zinc before dinner. No melatonin or diet changes needed.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: restore insulin rhythm without melatonin
+updated: '2026-03-29'
+primaryKeyword: fix evening blood sugar spikes without melatonin
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

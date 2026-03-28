@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Alcohol and AFib Risk in Women Over 60
 slug: the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
 description: >-
-  Analyzes how ethanol-induced vagal tone shifts and nocturnal QT prolongation interact with age-related atrial fibrosis—plus real-world AF burden data from wearable ECG studies.
+  Just 2 drinks before bed raise irregular heartbeat risk (atrial fibrillation) 2.3x overnight. Covers vagal tone shifts and safer holiday strategies for women.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: alcohol atrial fibrillation seniors
+updated: '2026-03-29'
+primaryKeyword: holiday alcohol and atrial fibrillation in women 60
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

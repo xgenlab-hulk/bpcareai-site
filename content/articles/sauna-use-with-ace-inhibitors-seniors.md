@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Sauna Safe With ACE Inhibitors? A Guide for Adults 65+
 slug: can-you-safely-use-a-sauna-while-taking-an-ace-inhibitor-evidence-based-temperature-thresholds-and-recovery-protocols-for-adults-65-with-mild-lv-hypertrophy
 description: >-
-  Analyzes vasodilatory synergy, plasma volume shifts, and cardiac output safety margins — with concrete guidelines on duration, temperature limits, and post-sauna rehydration metrics.
+  Seniors 65+ on ACE inhibitors can sauna safely under 70C for 10-15 min. Watch for BP drops (vasodilation overlap) exceeding 25 mmHg systolic after.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: sauna use with ace inhibitors seniors
+updated: '2026-03-29'
+primaryKeyword: is sauna safe with ACE inhibitors for seniors
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

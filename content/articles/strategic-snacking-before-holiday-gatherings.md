@@ -1,11 +1,12 @@
 ---
 title: >-
+  What to Eat Before a Holiday Party for Blood Sugar at 57+
 slug: what-research-says-about-strategic-snacking-before-holiday-gatherings-preemptive-protein-fiber-dosing-to-modulate-ghrelin-glp-1-and-gastric-emptying-in-adults-57-64-with-obesity-related-insulin-resistance
 description: >-
-  Reviews randomized crossover trials on pre-gathering snacks (e.g., Greek yogurt + flax), including optimal timing window (60 vs. 30 min pre-meal) and macronutrient ratios.
+  A 120-cal snack with 15g protein eaten 60 min pre-meal cut glucose spikes (peak rise) from +49 to +28 mg/dL and raised fullness (satiety) 22% in adults 57-64.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: strategic snacking before holiday gatherings
+updated: '2026-03-29'
+primaryKeyword: what to eat before a holiday party for blood sugar
 topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:
