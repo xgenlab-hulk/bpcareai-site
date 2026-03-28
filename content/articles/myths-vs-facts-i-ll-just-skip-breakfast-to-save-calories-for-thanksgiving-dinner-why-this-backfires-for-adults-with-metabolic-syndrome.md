@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Skipping Breakfast Before Thanksgiving Backfires After 50
 slug: myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
 description: >-
-  Debunks fasting myths using 24-hour glucose variability data, highlighting breakfast’s role in insulin receptor priming and postprandial inflammation control.
+  Skipping breakfast raised post-meal sugar spikes (postprandial glucose) 37% in adults with metabolic syndrome. BP jumped 8-15 mmHg within 90 minutes.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: skip breakfast thanksgiving metabolic syndrome
+updated: '2026-03-28'
+primaryKeyword: skip breakfast before Thanksgiving metabolic syndrome
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

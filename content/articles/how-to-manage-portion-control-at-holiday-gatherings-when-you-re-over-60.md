@@ -1,11 +1,12 @@
 ---
-title: How to Manage Portion Control at Holiday Gatherings When You're Over 60
+title: >-
+  Portion Control at Holiday Meals: Practical Tips for Adults Over 60
 slug: how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 description: >-
-  Practical strategies to avoid overeating during festive meals, including plate setup, mindful eating techniques, and timing tips tailored for older adults.
+  One salty meal can raise blood pressure (arterial pressure) by 10-15 mmHg in seniors. Plate setup, mindful eating, and timing tips to prevent overeating.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: portion control for seniors at holidays
+updated: '2026-03-28'
+primaryKeyword: portion control at holiday meals for adults over 60
 topicCluster: special-populations
 image: ''
 relatedSlugs:

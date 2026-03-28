@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Feeling Fine Doesn't Mean Safe BP After 65: ISH Myths
 slug: myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
 description: >-
-  Debunks symptom-blindness misconceptions using data on silent vascular remodeling, retinal arteriolar narrowing, and pulse pressure–driven cardiac strain.
+  Two-thirds of adults 65+ have silent high top-number BP (isolated systolic hypertension). Stroke risk climbs 20% per 10 mmHg rise in pulse pressure.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: isolated systolic hypertension symptom-blindness
+updated: '2026-03-28'
+primaryKeyword: blood pressure feels fine isolated systolic hypertension
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

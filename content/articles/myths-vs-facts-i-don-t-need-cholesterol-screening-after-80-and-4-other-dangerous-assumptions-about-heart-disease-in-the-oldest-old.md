@@ -1,11 +1,12 @@
 ---
 title: >-
+  Cholesterol Screening After 80: 5 Myths That Risk Your Heart
 slug: myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
 description: >-
-  Debunks ageist misconceptions using data from the 85+ Study and UK Biobank—highlighting residual benefit of LDL-lowering and statin safety up to age 95.
+  Adults 80+ with high bad cholesterol (LDL) above 130 had 24% more fatal heart events. Each 39 mg/dL LDL drop cut coronary risk 22%, even at age 90.
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: cholesterol screening myths after age 80
+updated: '2026-03-28'
+primaryKeyword: should you check cholesterol after age 80
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

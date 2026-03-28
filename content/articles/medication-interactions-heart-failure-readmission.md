@@ -1,11 +1,12 @@
 ---
 title: >-
+  7 Drug Interactions That Raise Heart Failure Readmission After 75
 slug: 7-hidden-medication-interactions-that-elevate-heart-failure-readmission-risk-within-30-days-of-hospital-discharge-especially-in-adults-75-with-polypharmacy
 description: >-
-  Identifies high-risk drug combinations (e.g., NSAIDs + loop diuretics + SGLT2 inhibitors) that impair renal perfusion and natriuresis, with practical pharmacist-led review checklists for caregivers.
+  Drug mix-ups cause 40% of early heart failure rehospitalizations. NSAIDs plus water pills (loop diuretics) raise 30-day readmission risk 35% in adults 75+.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: medication interactions heart failure readmission
+updated: '2026-03-28'
+primaryKeyword: drug interactions that cause heart failure readmission
 topicCluster: renal-health
 image: ''
 relatedSlugs:

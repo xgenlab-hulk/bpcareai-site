@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does Magnesium Glycinate Lower Aortic Pressure? MAG-CAP Results
 slug: does-daily-2-gram-magnesium-glycinate-really-reduce-central-aortic-systolic-pressure-in-adults-62-with-high-pulse-wave-velocity-new-data-from-the-mag-cap-trial
 description: >-
-  Synthesizes 2024 findings from the first RCT using tonometric central BP as primary endpoint, revealing differential effects by magnesium formulation and vascular stiffness subgroup.
+  First RCT on artery-core pressure (central aortic systolic pressure) found a 6.2 mmHg drop in adults 62+ with stiff arteries and pulse wave velocity >11 m/s.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: magnesium glycinate central aortic pressure
+updated: '2026-03-28'
+primaryKeyword: does magnesium glycinate lower aortic pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

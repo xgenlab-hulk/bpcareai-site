@@ -1,11 +1,12 @@
 ---
-title: 'How to Monitor Blood Pressure at Home During Winter: A Senior’s Guide'
+title: >-
+  Winter Blood Pressure Monitoring at Home: A Step-by-Step Senior Guide
 slug: how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
 description: >-
-  Step-by-step instructions for accurate home monitoring with emphasis on seasonal consistency and record-keeping.
+  Cold weather raises systolic BP by 5-10 mmHg. Home cuff technique (upper-arm sphygmomanometry), seasonal timing, and when to call your doctor.
 date: '2025-12-12'
-updated: '2025-12-12'
-primaryKeyword: home blood pressure monitoring
+updated: '2026-03-28'
+primaryKeyword: how to monitor blood pressure at home in winter
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Midday Fatigue After 64 with Diabetes: Low Sugar or Deeper Cause?
 slug: when-to-worry-about-sudden-midday-fatigue-after-age-64-distinguishing-hypoglycemia-associated-autonomic-failure-from-early-mitochondrial-myopathy-in-long-term-diabetes
 description: >-
-  Guides clinicians and patients in differentiating autonomic dysregulation (e.g., absent adrenergic warning signs) from skeletal muscle bioenergetic decline using timed lactate/pyruvate ratios, HRV deceleration capacity, and 30-second sit-to-stand test decay patterns.
+  Sudden 1-3pm crashes in long-term diabetes may signal blunted sugar warnings (autonomic failure) or muscle energy decline. HRV tests help distinguish them.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: midday fatigue diabetes autonomic failure seniors
+updated: '2026-03-28'
+primaryKeyword: sudden midday fatigue with diabetes after 64
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Your Senior Loved One Withdrawn This Winter? Signs to Watch
 slug: is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
 description: >-
-  Help readers understand behavioral shifts like withdrawal, apathy, or sleep changes as possible clinical signs.
+  Up to 15% of older adults develop winter mood disorders (seasonal depression). Watch for apathy, sleep changes, and social withdrawal—not just sadness.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: withdrawn behavior in seniors winter
+updated: '2026-03-28'
+primaryKeyword: senior withdrawal in winter seasonal depression
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

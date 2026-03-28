@@ -1,11 +1,12 @@
 ---
-title: Managing Type 2 Diabetes While Attending Back-to-Back Holiday Parties
+title: >-
+  Managing Type 2 Diabetes at Back-to-Back Holiday Parties
 slug: managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
 description: >-
-  Actionable tips for navigating multiple social events without compromising glycemic control during peak season.
+  A1C rises 0.3-0.5% Nov-Jan in adults with type 2 diabetes. Learn meal timing and blood sugar stability (glycemic control) strategies for consecutive parties.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: managing diabetes at holiday parties
+updated: '2026-03-28'
+primaryKeyword: managing diabetes at back-to-back holiday parties
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

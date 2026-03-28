@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does Late-Night Snacking Raise Fasting Glucose? Liver Data
 slug: how-late-night-holiday-snacking-alters-hepatic-gluconeogenesis-gene-expression-evidence-from-liver-biopsy-transcriptomics-in-adults-52-61-with-insulin-resistance
 description: >-
-  Breaks down human molecular data showing how midnight eating shifts FOXO1, PCK1, and G6PC expression — and why timing matters more than total calories for overnight glucose control.
+  Biopsies show midnight eating raises sugar-making genes (hepatic gluconeogenesis) 40-60% in adults 52-61. Timing outweighs calories for fasting glucose control.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: late-night snacking hepatic gluconeogenesis
+updated: '2026-03-28'
+primaryKeyword: does late night snacking raise fasting glucose
 topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:

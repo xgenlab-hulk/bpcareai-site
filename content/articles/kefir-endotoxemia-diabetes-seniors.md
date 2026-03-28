@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Kefir Good for Gut Health if You Have Diabetes After 70?
 slug: does-daily-fermented-kefir-really-reduce-intestinal-permeability-driven-endotoxemia-in-adults-70-with-type-2-diabetes-and-recurrent-utis-separating-strain-specific-lactobacillus-effects-from-fructose-content
 description: >-
-  Evidence review of kefir’s dual role: how L. kefiranofaciens lowers LPS translocation but high-fructose commercial kefirs worsen postprandial endotoxin release—plus guidance on low-fructose, home-fermented alternatives.
+  Home-fermented kefir cut gut toxin leakage (endotoxemia) by 22% in adults 68-82 with diabetes. Store-bought versions often add 12-15g fructose per serving.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: kefir endotoxemia diabetes seniors
+updated: '2026-03-28'
+primaryKeyword: is kefir good for gut health with diabetes over 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

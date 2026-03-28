@@ -1,11 +1,12 @@
 ---
-title: Is Your Posture Affecting Your Heart? What Older Adults Should Know
+title: >-
+  Can Bad Posture Affect Your Heart? What Adults 60+ Should Know
 slug: is-your-posture-affecting-your-heart-what-older-adults-should-know
 description: >-
-  Learn how poor posture may restrict breathing and circulation, impacting cardiovascular efficiency.
+  Slouching cuts lung capacity by up to 30% in seniors, making the heart work harder. Fixing spinal alignment (thoracic posture) improves circulation and BP.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: posture and heart health in seniors
+updated: '2026-03-28'
+primaryKeyword: can bad posture affect your heart after 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How Walking Speed Can Reflect Heart Health and Blood Pressure
+title: >-
+  What Your Walking Speed Says About Heart Health After 50
 slug: how-walking-speed-can-reflect-heart-health-and-blood-pressure
 description: >-
-  Find out how your daily walking pace may be an indicator of cardiovascular fitness and blood pressure control.
+  Walking below 0.8 m/s may signal declining heart fitness (aerobic capacity) and poor BP control. How to measure your pace and when to see a doctor after 50.
 date: '2025-11-26'
-updated: '2025-11-26'
-primaryKeyword: walking speed and blood pressure correlation
+updated: '2026-03-28'
+primaryKeyword: does walking speed predict heart health after 50
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

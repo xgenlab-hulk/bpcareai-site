@@ -1,11 +1,12 @@
 ---
 title: >-
+  Supporting Heart Mitochondria After 65: Fasting, Cold, and Flavonoids
 slug: natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
 description: >-
-  Explains how age-related mitochondrial decline drives diastolic stiffness and energetic inefficiency—and how clinically tested non-pharmacologic strategies restore PGC-1α signaling and ATP turnover in aging heart muscle.
+  After 65, heart energy factories (mitochondria) shrink ~1%/year. Fasting-mimicking diets reactivated the renewal switch (PGC-1a) and improved heart filling.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: mitochondrial biogenesis heart aging
+updated: '2026-03-28'
+primaryKeyword: how to support heart mitochondria after 65
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

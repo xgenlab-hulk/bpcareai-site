@@ -1,11 +1,12 @@
 ---
-title: Low-Glycemic Holiday Side Dishes That Won’t Spike Blood Sugar
+title: >-
+  Low-Glycemic Holiday Side Dishes That Won't Spike Blood Sugar
 slug: low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
 description: >-
-  Recipe ideas and ingredient swaps for traditional sides like mashed potatoes, stuffing, and desserts that are diabetes-friendly.
+  Cauliflower scores GI ~15 vs potato's 78. Slow-release carb (low-glycemic) swaps and pairing tips help adults 50+ enjoy holiday sides with stable blood sugar.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: low-glycemic holiday side dishes
+updated: '2026-03-28'
+primaryKeyword: low glycemic holiday side dishes for diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does Eating Late Really Cause Diabetes? What Seniors Should Know
 slug: myths-vs-facts-eating-late-causes-diabetes-what-chronobiology-research-actually-shows-about-meal-timing-insulin-sensitivity-and-clock-gene-methylation-in-adults-57-65
 description: >-
-  Debunks the blanket 'no late meals' rule using data on PER2 methylation shifts, melatonin’s inhibition of insulin secretion, and optimal late-evening snack composition (e.g., casein + resistant starch) for metabolic resilience.
+  Evening meals spike glucose 17% higher because the sleep hormone (melatonin) blocks insulin. Timing alone doesn't cause diabetes—what you eat matters more.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: late eating diabetes myths chronobiology seniors
+updated: '2026-03-28'
+primaryKeyword: does eating late cause diabetes in seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

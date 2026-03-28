@@ -1,11 +1,12 @@
 ---
-title: Is Sitting Too Much Harming Your Heart After 60?
+title: >-
+  Does Sitting All Day Hurt Your Heart After 60?
 slug: is-sitting-too-much-harming-your-heart-after-60
 description: >-
-  Understand how prolonged sitting impacts heart health and what simple changes can reduce risks.
+  Adults 60+ who sit 8+ hours daily face 14% higher heart disease risk. Even with exercise, long inactivity (sedentary behavior) slows circulation and raises BP.
 date: '2025-11-29'
-updated: '2025-11-29'
-primaryKeyword: sedentary lifestyle and heart health after 60
+updated: '2026-03-28'
+primaryKeyword: does sitting too much affect your heart after 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

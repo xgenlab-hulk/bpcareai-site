@@ -1,11 +1,12 @@
 ---
-title: Low-Sodium Alternatives for Classic Family Recipes That Still Taste Great
+title: >-
+  Low-Sodium Family Recipes That Actually Taste Great After 50
 slug: low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
 description: >-
-  Shares flavorful seasoning blends and cooking methods that reduce sodium without compromising the taste of beloved dishes.
+  Cutting 1,000mg sodium daily lowers top-number pressure (systolic BP) 2-4 mmHg. Herb blends, umami swaps, and roasting keep family dishes flavorful after 50.
 date: '2025-12-06'
-updated: '2025-12-06'
-primaryKeyword: low-sodium family meal ideas
+updated: '2026-03-28'
+primaryKeyword: low sodium family recipes that taste good
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

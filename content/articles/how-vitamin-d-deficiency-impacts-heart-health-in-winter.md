@@ -1,11 +1,12 @@
 ---
-title: How Vitamin D Deficiency Impacts Heart Health in Winter
+title: >-
+  How Low Vitamin D in Winter Affects Your Heart After 60
 slug: how-vitamin-d-deficiency-impacts-heart-health-in-winter
 description: >-
-  Find out how seasonal vitamin D drops may increase cardiovascular risks in older adults.
+  Up to 70% of adults 65+ lack vitamin D in winter. This nutrient supports blood vessel flexibility (endothelial function) and helps regulate blood pressure.
 date: '2025-11-30'
-updated: '2025-11-30'
-primaryKeyword: vitamin d deficiency and heart health winter seniors
+updated: '2026-03-28'
+primaryKeyword: vitamin D deficiency and heart health in winter for seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: Is Sugar-Free Living Necessary for Diabetics Over 50?
+title: >-
+  Do Diabetics Over 50 Really Need to Quit All Sugar?
 slug: is-sugar-free-living-necessary-for-diabetics-over-50
 description: >-
-  Understand the role of added sugars and whether complete elimination is required for good glucose control.
+  Total sugar elimination isn't needed after 50. Focus on hidden sweeteners (added sugars) under 25g/day, since insulin output drops ~1% yearly after age 40.
 date: '2025-12-12'
-updated: '2025-12-12'
-primaryKeyword: do diabetics need to avoid all sugar after 50
+updated: '2026-03-28'
+primaryKeyword: do diabetics over 50 need to quit all sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

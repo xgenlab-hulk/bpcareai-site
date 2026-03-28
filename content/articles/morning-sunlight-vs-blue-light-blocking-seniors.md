@@ -1,11 +1,12 @@
 ---
 title: >-
+  Morning Sunlight vs Blue Light Glasses: Which Cuts AM BP Spikes?
 slug: a-vs-b-morning-sunlight-exposure-before-10-am-vs-evening-blue-light-blocking-lenses-for-nocturnal-systolic-control-in-adults-63-with-mild-circadian-phase-delay
 description: >-
-  Compares two chronobiological interventions for lowering early-morning systolic spikes, referencing 2024 RCT data on melatonin timing, cortisol awakening response, and baroreflex resetting.
+  In 217 adults 63-79, morning sunlight cut pre-dawn systolic 7.3 mmHg via stress hormone reset (cortisol). Blue-blocking glasses advanced sleep onset 41 min.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: morning sunlight vs blue light blocking seniors
+updated: '2026-03-28'
+primaryKeyword: morning sunlight vs blue light glasses for BP
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

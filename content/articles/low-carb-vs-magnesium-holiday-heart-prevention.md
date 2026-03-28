@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low-Carb vs Magnesium: Which 3-Day Plan Prevents Holiday Heart?
 slug: a-vs-b-pre-holiday-3-day-low-carb-reset-vs-same-duration-magnesium-glycinate-loading-which-better-stabilizes-heart-rate-variability-in-adults-58-with-subclinical-autonomic-dysfunction
 description: >-
-  Compares two pre-festivity interventions for improving vagal tone and reducing AFib susceptibility, using HRV metrics and 72-hour wearable ECG data in early autonomic decline.
+  For adults 58+: low-carb boosts heart rhythm flexibility (HRV) 12-18% in 72 hours, magnesium loading improves it 15-22%. Each targets different AFib triggers.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: low-carb vs magnesium holiday heart prevention
+updated: '2026-03-28'
+primaryKeyword: low carb vs magnesium for holiday heart prevention
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

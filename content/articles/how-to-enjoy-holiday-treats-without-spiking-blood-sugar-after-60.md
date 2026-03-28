@@ -1,11 +1,12 @@
 ---
-title: How to Enjoy Holiday Treats Without Spiking Blood Sugar After 60
+title: >-
+  Holiday Sweets After 60: Enjoy Treats Without Sugar Spikes
 slug: how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
 description: >-
-  Science-backed timing, pairing, and portion strategies that allow seniors with prediabetes or diabetes to savor sweets safely.
+  Pairing sweets with protein cuts sugar spikes (postprandial glucose) by up to 50%. Timing and portion strategies for adults 60+ with prediabetes or diabetes.
 date: '2025-12-08'
-updated: '2025-12-08'
-primaryKeyword: enjoy holiday treats without spiking blood sugar
+updated: '2026-03-28'
+primaryKeyword: enjoy holiday sweets without blood sugar spikes after 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

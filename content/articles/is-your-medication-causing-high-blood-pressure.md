@@ -1,11 +1,12 @@
 ---
-title: Is Your Medication Causing High Blood Pressure?
+title: >-
+  Could Your Medication Be Raising Your Blood Pressure?
 slug: is-your-medication-causing-high-blood-pressure
 description: >-
-  Find out which common prescription and over-the-counter drugs may elevate blood pressure and when to talk to your doctor.
+  Common pain relievers (NSAIDs) can raise systolic BP by 3-10 mmHg. Decongestants, antidepressants, and steroids also elevate readings in adults over 50.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: medications that raise blood pressure
+updated: '2026-03-28'
+primaryKeyword: can medications cause high blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

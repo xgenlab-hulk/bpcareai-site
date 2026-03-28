@@ -1,11 +1,12 @@
 ---
 title: >-
+  Nasal Decongestants and Fall Risk: How They Blunt BP After 64
 slug: how-long-term-use-of-over-the-counter-nasal-decongestants-alters-carotid-sinus-sensitivity-in-adults-64-with-early-autonomic-neuropathy-and-mild-orthostasis
 description: >-
-  Explains α-adrenergic overstimulation’s effect on baroreceptor desensitization, linking chronic OTC decongestant use to delayed BP recovery and increased fall risk.
+  Adults 64+ using decongestants 3x/week face 1.7x fall risk. These drugs dull neck pressure sensors (carotid baroreceptors), delaying BP recovery to 15-30s.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: nasal decongestants and carotid sinus sensitivity
+updated: '2026-03-28'
+primaryKeyword: nasal decongestants blood pressure fall risk seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

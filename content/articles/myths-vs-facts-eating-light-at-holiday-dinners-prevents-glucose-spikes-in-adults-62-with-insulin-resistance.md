@@ -1,11 +1,12 @@
 ---
 title: >-
+  Eating Light at Holidays Won't Stop Glucose Spikes After 62
 slug: myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
 description: >-
-  Debunks five pervasive assumptions—including 'no dessert = safe' and 'vegetables first = automatic control'—with data on macronutrient sequencing, gastric emptying kinetics, and incretin timing.
+  Even 15g carbs spike glucose 40-60 mg/dL in adults 60+ with insulin resistance. Veggies-first only works with 15g protein to trigger gut hormones (incretins).
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: holiday eating light glucose myths facts seniors
+updated: '2026-03-28'
+primaryKeyword: does eating light at holidays prevent glucose spikes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

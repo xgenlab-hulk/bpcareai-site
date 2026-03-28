@@ -1,11 +1,12 @@
 ---
 title: >-
+  Hidden Potassium Risks in Low-Sodium Soups for Seniors With CKD
 slug: the-truth-about-low-sodium-canned-soups-marketed-to-seniors-why-83-contain-unlabeled-potassium-chloride-blends-that-trigger-hyperkalemic-bradycardia-in-adults-76-with-ckd-stage-3
 description: >-
-  Investigates hidden electrolyte risks in commercially labeled heart-healthy foods, emphasizing potassium-related arrhythmia vulnerability in age-related renal decline.
+  83% of senior-marketed soups swap salt for potassium chloride, risking slow heartbeat (hyperkalemic bradycardia) in adults 76+ with Stage 3 kidney disease.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: low-sodium soup potassium chloride ckdseniors
+updated: '2026-03-28'
+primaryKeyword: low sodium soup potassium risk kidney disease seniors
 topicCluster: renal-health
 image: ''
 relatedSlugs:

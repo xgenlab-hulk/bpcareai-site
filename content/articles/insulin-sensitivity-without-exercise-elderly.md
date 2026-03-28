@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Improve Insulin Sensitivity Without Exercise After 70
 slug: natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
 description: >-
-  Reviews non-mechanical strategies proven to activate AMPK and GLUT4 translocation in low-mobility elders—based on 4 RCTs and real-world adherence data.
+  Standing 15 min after meals improved sugar tolerance (oral glucose tolerance) 19% in adults 72-81. Cold exposure and morning light also helped in 4 RCTs.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: insulin sensitivity without exercise elderly
+updated: '2026-03-28'
+primaryKeyword: improve insulin sensitivity without exercise over 70
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

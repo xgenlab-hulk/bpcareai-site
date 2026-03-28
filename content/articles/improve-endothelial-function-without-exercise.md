@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Improve Blood Vessel Function Without Exercise After 65
 slug: 12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp
 description: >-
-  Details non-exercise, non-calorie-restricted interventions—including timed hydration, nasal breathing protocols, auricular vagus stimulation, and specific polyphenol-rich food pairings—validated in RCTs for rapid endothelial repair.
+  Timed hydration and nasal breathing restore artery lining health (endothelial function) in 14 days—backed by RCTs in sedentary adults 67-81 with high hs-CRP.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: improve endothelial function without exercise
+updated: '2026-03-28'
+primaryKeyword: how to improve endothelial function without exercise
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: 'Myths vs Facts: Healthy Eating During Family Celebrations'
+title: >-
+  Holiday Eating Myths Debunked: What Adults Over 50 Should Know
 slug: myths-vs-facts-healthy-eating-during-family-celebrations
 description: >-
-  Debunks common misconceptions about dieting during holidays, such as 'one bad meal ruins everything' or 'fasting prepares you.'
+  One high-sodium meal can raise blood pressure (systolic BP) by 5-8 mmHg in salt-sensitive adults. Track BP trends over 3-5 days, not single readings.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: holiday diet myths vs facts
+updated: '2026-03-28'
+primaryKeyword: holiday eating myths for adults over 50
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

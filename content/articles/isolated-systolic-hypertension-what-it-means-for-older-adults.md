@@ -1,11 +1,12 @@
 ---
-title: 'Isolated Systolic Hypertension: What It Means for Older Adults'
+title: >-
+  Why Is Only Your Top BP Number High? A Senior's Guide
 slug: isolated-systolic-hypertension-what-it-means-for-older-adults
 description: >-
-  Understand this common form of high blood pressure in seniors and how it's managed differently.
+  When only the upper reading rises (isolated systolic hypertension), stiff arteries are usually the cause. This affects 60%+ of adults over 60 with high BP.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: isolated systolic hypertension in elderly
+updated: '2026-03-28'
+primaryKeyword: why is only the top blood pressure number high
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

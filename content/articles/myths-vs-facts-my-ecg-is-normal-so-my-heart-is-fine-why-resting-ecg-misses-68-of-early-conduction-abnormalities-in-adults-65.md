@@ -1,11 +1,12 @@
 ---
 title: >-
+  Normal ECG but Heart Issues? Resting Tests Miss 68% After 65
 slug: myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
 description: >-
-  Debunks assumptions about ECG sensitivity, citing data on PR prolongation, fascicular blocks, and early AV node fibrosis detection—plus when to pursue Holter, EP study, or cardiac MRI.
+  Resting ECGs miss 68% of early electrical problems (conduction abnormalities) in adults 65+. Nerve-path scarring (AV node fibrosis) affects 30% over 75.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: ecg normalcy and conduction disease
+updated: '2026-03-28'
+primaryKeyword: normal ECG but heart problems after 65
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Rigid Fasting Windows Backfire at Family Gatherings After 59
 slug: how-intermittent-fasting-windows-shift-during-family-gatherings-and-why-a-10-a-m-to-6-p-m-schedule-may-backfire-for-women-59-69-with-insulin-resistance
 description: >-
-  Breaks down circadian misalignment risks when fasting windows collide with late-afternoon dessert traditions, social eating cues, and postprandial cortisol rhythms—and offers a flexible ‘gathering-adjusted’ fasting framework validated in perimenopausal women.
+  A strict eating window can spike blood sugar (postprandial glucose) by 30% at family meals. Flexible fasting tips from trials in women 59-69.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: intermittent fasting during family events
+updated: '2026-03-28'
+primaryKeyword: intermittent fasting family gatherings over 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

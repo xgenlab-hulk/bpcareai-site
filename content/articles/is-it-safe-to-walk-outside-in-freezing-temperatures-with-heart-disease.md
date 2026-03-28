@@ -1,11 +1,12 @@
 ---
-title: Is It Safe to Walk Outside in Freezing Temperatures with Heart Disease?
+title: >-
+  Walking in Freezing Weather With Heart Disease: A Safety Guide
 slug: is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
 description: >-
-  Evaluates risks and offers expert-backed guidelines for safe outdoor activity in seniors managing heart conditions during winter.
+  Cold air raises systolic BP 10-20 mmHg via vessel narrowing (vasoconstriction), straining diseased hearts. Winter walking tips for adults 50+ on meds.
 date: '2025-12-17'
-updated: '2025-12-17'
-primaryKeyword: walking in cold heart disease
+updated: '2026-03-28'
+primaryKeyword: walking in cold weather with heart disease safety
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

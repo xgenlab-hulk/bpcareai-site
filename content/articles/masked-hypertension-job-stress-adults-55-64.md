@@ -1,11 +1,12 @@
 ---
 title: >-
+  Hidden High Blood Pressure From Job Stress: Ages 55-64
 slug: myths-vs-facts-my-blood-pressure-is-fine-because-it-s-normal-at-the-doctor-s-office-what-ambulatory-monitoring-reveals-about-masked-hypertension-in-adults-55-64-with-high-job-stress
 description: >-
-  Debunks white-coat reassurance by highlighting masked hypertension prevalence, occupational stress biomarkers (cortisol/DHEA-S ratio), and predictive value for microvascular disease.
+  25% of working adults 55-64 have normal clinic BP but high readings at home (masked hypertension). Job stress raises small vessel damage risk 3.2x per studies.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: masked hypertension job stress adults 55-64
+updated: '2026-03-28'
+primaryKeyword: hidden high blood pressure from work stress 55-64
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

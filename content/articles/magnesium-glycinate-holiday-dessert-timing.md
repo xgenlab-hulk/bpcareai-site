@@ -1,11 +1,12 @@
 ---
 title: >-
+  When to Take Magnesium Glycinate Around Holiday Desserts After 65
 slug: what-research-says-about-magnesium-glycinate-timing-relative-to-holiday-desserts-optimizing-absorption-arrhythmia-protection-in-adults-65-with-gastric-hypochlorhydria
 description: >-
-  Analyzes optimal dosing windows, food interactions, and bioavailability data for magnesium supplementation in the context of high-sugar, high-fat holiday meals.
+  Rich desserts cut magnesium absorption 25-40% in older guts. Learn the best dosing window to guard heart rhythm (arrhythmia prevention) with low stomach acid.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: magnesium glycinate holiday dessert timing
+updated: '2026-03-28'
+primaryKeyword: when to take magnesium around holiday desserts
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

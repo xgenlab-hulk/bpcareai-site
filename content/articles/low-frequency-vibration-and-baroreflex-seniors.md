@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Scooter Vibrations May Affect Blood Pressure at 79
 slug: how-chronic-exposure-to-low-frequency-vibration-e-g-from-walking-aids-or-mobility-scooters-alters-baroreflex-sensitivity-in-adults-79-with-severe-peripheral-neuropathy
 description: >-
-  Investigates sub-threshold mechanical noise interference with carotid sinus mechanoreceptors and its link to increased BP variability and orthostatic hypotension episodes.
+  Walker and scooter vibrations reduce your pressure-balancing reflex (baroreflex) 15-25%, worsening BP swings and fall risk in seniors 79+ with neuropathy.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: low frequency vibration and baroreflex seniors
+updated: '2026-03-28'
+primaryKeyword: do mobility scooter vibrations affect blood pressure
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

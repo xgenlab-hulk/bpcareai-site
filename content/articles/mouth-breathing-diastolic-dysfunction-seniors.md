@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Nighttime Mouth Breathing Stiffens the Heart After 58
 slug: how-chronic-nighttime-mouth-breathing-alters-left-ventricular-filling-pressure-evidence-from-cardiac-mri-in-adults-58-72-with-untreated-mild-sleep-disordered-breathing
 description: >-
-  Explores the hemodynamic impact of habitual oral breathing during sleep on diastolic function, using advanced imaging to link upper airway mechanics to early heart failure risk in midlife and older adults.
+  Cardiac MRI shows mouth breathers 58-72 had 12-18% higher filling pressure (E/e ratio) vs nasal breathers. This stiffening occurs even without sleep apnea.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: mouth breathing diastolic dysfunction seniors
+updated: '2026-03-28'
+primaryKeyword: can mouth breathing at night affect heart health
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

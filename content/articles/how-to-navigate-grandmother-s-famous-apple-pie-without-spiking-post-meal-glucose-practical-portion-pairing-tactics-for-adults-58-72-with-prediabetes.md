@@ -1,11 +1,12 @@
 ---
 title: >-
+  Apple Pie With Prediabetes: Portion and Pairing Tactics, Ages 58-72
 slug: how-to-navigate-grandmother-s-famous-apple-pie-without-spiking-post-meal-glucose-practical-portion-pairing-tactics-for-adults-58-72-with-prediabetes
 description: >-
-  A step-by-step guide to enjoying traditional holiday desserts mindfully—using strategic food sequencing, fiber-first pairing, and real-time glucose awareness techniques tailored for early metabolic dysregulation.
+  One slice can raise glucose by 60-100 mg/dL after 58. Fiber-first pairing (pre-dessert nutrient sequencing) and portion tactics to enjoy pie safely.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: manage apple pie with prediabetes
+updated: '2026-03-28'
+primaryKeyword: how to eat apple pie with prediabetes safely
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

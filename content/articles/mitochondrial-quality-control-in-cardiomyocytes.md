@@ -1,11 +1,12 @@
 ---
 title: >-
+  Heart Cell Cleanup After 66: Urolithin A and Fasting Strategies
 slug: natural-ways-to-support-mitochondrial-quality-control-in-cardiomyocytes-without-activating-mtor-using-fasting-mimicking-diets-and-urolithin-a-in-adults-66-with-preserved-ef-and-low-vo-peak
 description: >-
-  Focuses on mitophagy-enhancing nutrition strategies that avoid growth pathway overstimulation in aging heart muscle — with dosing, timing, and biomarker monitoring guidance.
+  After 65, heart self-cleaning (mitophagy) drops 30-40%. Urolithin A at 500mg/day plus fasting diets restore cleanup without activating growth pathways (mTOR).
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: mitochondrial quality control in cardiomyocytes
+updated: '2026-03-28'
+primaryKeyword: how to boost heart cell cleanup after 66
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

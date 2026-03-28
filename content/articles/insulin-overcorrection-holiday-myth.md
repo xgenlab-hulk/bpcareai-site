@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Extra Insulin Cover Holiday Meals? Why This Myth Backfires
 slug: myths-vs-facts-i-can-eat-anything-if-i-take-extra-insulin-real-world-outcomes-in-adults-59-67-with-long-term-t2d-using-correction-factor-overuse-during-holidays
 description: >-
-  Debunks overcorrection myths using retrospective CGM data on glucose variability, ketone trends, and microvascular event rates — with insulin dose–glucose response curves across holiday meals.
+  CGM data from 1,247 adults 59-67 shows overcorrecting insulin raises blood sugar swings (glucose variability) 2.3-fold, with 17% dropping below 54 mg/dL.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: insulin overcorrection holiday myth
+updated: '2026-03-28'
+primaryKeyword: can extra insulin cover holiday meals safely
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

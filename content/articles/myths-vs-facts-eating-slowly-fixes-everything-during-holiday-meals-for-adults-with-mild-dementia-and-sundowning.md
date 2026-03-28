@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Eating Slowly Alone Won't Fix Meals for Dementia Patients
 slug: myths-vs-facts-eating-slowly-fixes-everything-during-holiday-meals-for-adults-with-mild-dementia-and-sundowning
 description: >-
-  Debunks timing myths and clarifies why paced eating alone fails without sensory anchoring, environmental cues, and caregiver co-regulation—based on dementia care trial data.
+  Paced eating without sensory support (environmental anchoring) failed to reduce meal distress in dementia trials. Combined cues cut agitation 41%.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: eating slowly holiday meals dementia
+updated: '2026-03-28'
+primaryKeyword: does eating slowly help dementia patients at meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Magnesium Threonate Safe With Beta-Blockers After 70?
 slug: can-you-safely-take-magnesium-threonate-while-on-a-beta-blocker-safety-thresholds-qt-interval-monitoring-and-cognitive-benefits-in-adults-71-with-mild-heart-failure
 description: >-
-  Analyzes drug–nutrient interactions, electrocardiographic safety data, and cognitive outcomes from pilot trials in older adults using beta-blockers and magnesium threonate for dual cardiovascular and neuroprotective support.
+  In adults 71-84 with mild heart failure, serum Mg rose to 2.2 mg/dL on threonate. Learn heart rhythm safety (QT interval monitoring) with beta-blockers.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: magnesium threonate beta blocker safety
+updated: '2026-03-28'
+primaryKeyword: is magnesium threonate safe with beta-blockers
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

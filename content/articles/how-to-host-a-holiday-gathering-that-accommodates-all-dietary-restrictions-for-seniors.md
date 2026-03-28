@@ -1,11 +1,12 @@
 ---
 title: >-
+  Hosting Holiday Meals for Seniors: A Dietary Restrictions Checklist
 slug: how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 description: >-
-  A practical checklist for hosting inclusive meals that consider diabetes, heart health, swallowing issues, and allergies without sacrificing joy.
+  Over 60% of adults 60+ manage heart disease or diabetes. Covers salt triggers (arterial pressure spikes), safe textures, and allergen swaps for inclusive meals.
 date: '2025-11-30'
-updated: '2025-11-30'
-primaryKeyword: hosting holiday meals for seniors with dietary restrictions
+updated: '2026-03-28'
+primaryKeyword: how to host holiday meals for seniors with dietary needs
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

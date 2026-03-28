@@ -1,11 +1,12 @@
 ---
 title: >-
+  Normal BP at the Doctor? Shift Workers May Still Be at Risk
 slug: myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
 description: >-
-  Debunks clinic-only measurement reliance using ambulatory data from rotating-night-shift nurses and truck drivers, highlighting nocturnal surges, sleep fragmentation, and circadian misalignment risks.
+  30% of shift workers with normal clinic BP have hidden nighttime surges (masked hypertension). 58% of ER nurses show nocturnal readings above 135/85.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: normal clinic blood pressure shift workers
+updated: '2026-03-28'
+primaryKeyword: normal blood pressure at doctor but high at night
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

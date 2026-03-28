@@ -1,11 +1,12 @@
 ---
 title: >-
+  Potluck Guide for Adults 55-69 on GLP-1s With Prediabetes
 slug: how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
 description: >-
-  Practical, medication-aware guidance for adults 55–69 on portion sequencing, macro-balancing, and timing meals around injectable diabetes drugs during multi-hour family events.
+  Over 40% on GLP-1s report nausea at social meals. Food sequencing (protein-first macro-balancing) and timing to prevent GI distress and glucose spikes.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: potluck prediabetes glp-1 agonist safety
+updated: '2026-03-28'
+primaryKeyword: potluck tips for prediabetes on GLP-1 medication
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

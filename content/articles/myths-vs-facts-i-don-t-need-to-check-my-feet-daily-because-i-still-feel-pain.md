@@ -1,11 +1,12 @@
 ---
 title: >-
+  Still Feel Pain? Why Daily Diabetic Foot Checks Still Matter
 slug: myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
 description: >-
-  Debunks sensory neuropathy misconceptions with nerve conduction data, explaining why preserved pain sensation ≠ intact protective sensation — and how to perform a validated monofilament + vibration home assessment.
+  Feeling pain doesn't mean feet are safe—30% who feel pain lost protective nerve function (sensation). A monofilament test catches what pain misses.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: diabetic foot care pain sensation myth
+updated: '2026-03-28'
+primaryKeyword: why check diabetic feet daily if I feel pain
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low-Sodium Soup Additives That Interact With Spironolactone
 slug: the-truth-about-low-sodium-holiday-soups-sold-in-senior-grocery-aisles-why-83-contain-unlabeled-potassium-binding-excipients-that-impair-cardiac-conduction-in-adults-71-on-spironolactone
 description: >-
-  Investigates hidden formulation risks in commercially marketed 'heart-healthy' convenience foods, focusing on potassium-antagonist additives and their interaction with common diuretic therapy.
+  83% of holiday soups contain hidden potassium fillers (excipients) that raise blood potassium in adults 71+ on water pills (spironolactone). Label tips inside.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: "health management holiday adults 71+"
+updated: '2026-03-28'
+primaryKeyword: low sodium soup additives spironolactone interaction
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

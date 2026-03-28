@@ -1,11 +1,12 @@
 ---
-title: Is It Safe to Drink Alcohol at Family Events If You Have Diabetes?
+title: >-
+  Can You Safely Drink With Diabetes at Family Events After 50?
 slug: is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes
 description: >-
-  Discusses the effects of alcoholic beverages on blood sugar and medication interactions, with safety guidelines for moderate drinking.
+  One drink can drop blood sugar (glucose) 20-30 mg/dL in 4 hours on insulin or sulfonylureas. Safety rules for adults 50+ with diabetes at gatherings.
 date: '2025-12-06'
-updated: '2025-12-06'
-primaryKeyword: alcohol and diabetes safety
+updated: '2026-03-28'
+primaryKeyword: drinking alcohol with diabetes at family events
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

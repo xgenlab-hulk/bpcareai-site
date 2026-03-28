@@ -1,11 +1,12 @@
 ---
-title: How to Manage Holiday Heart Syndrome Risk with Type 2 Diabetes
+title: >-
+  Holiday Heart Syndrome and Diabetes After 50: How to Stay Safe
 slug: how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
 description: >-
-  Address dual challenges of glycemic control and cardiac rhythm stability during the holidays for diabetic adults over 50.
+  Adults 50+ with diabetes face 20% higher risk of irregular heartbeats (atrial fibrillation) during holidays. Dual strategies for steady sugar and rhythm.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: diabetes holiday heart risk
+updated: '2026-03-28'
+primaryKeyword: holiday heart syndrome risk with type 2 diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Salt Sensitivity in Black Adults Over 55: Beyond the Race Myth
 slug: myths-vs-facts-salt-sensitivity-in-black-adults-over-55-what-genetics-renal-sodium-handling-and-social-determinants-really-explain
 description: >-
-  Debunks oversimplified race-based narratives while detailing APOL1 risk variants, neighborhood-level sodium exposure (processed food deserts), and epigenetic impacts of chronic stress on ENaC expression.
+  Salt-driven BP rises hit 40-50% of Black adults 55+, tied to kidney gene variants (APOL1) and stress-altered sodium channels (ENaC), not race alone.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: salt sensitivity black adults genetics
+updated: '2026-03-28'
+primaryKeyword: salt sensitivity in Black adults over 55 explained
 topicCluster: renal-health
 image: ''
 relatedSlugs:

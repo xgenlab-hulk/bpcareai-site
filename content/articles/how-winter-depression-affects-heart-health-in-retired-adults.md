@@ -1,11 +1,12 @@
 ---
-title: How Winter Depression Affects Heart Health in Retired Adults
+title: >-
+  How Winter Depression Raises Heart Risk for Retired Adults
 slug: how-winter-depression-affects-heart-health-in-retired-adults
 description: >-
-  Analyzes the link between seasonal affective disorder (SAD), emotional stress, and increased cardiovascular risk in retirees.
+  Seasonal low mood (seasonal affective disorder) raises heart disease risk 20-30% via cortisol. Light therapy, activity, and social tips for retirees.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: winter depression heart health
+updated: '2026-03-28'
+primaryKeyword: winter depression and heart risk in retired seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

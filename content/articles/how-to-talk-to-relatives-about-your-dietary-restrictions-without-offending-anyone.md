@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Explain Your Dietary Needs to Family Without the Guilt
 slug: how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
 description: >-
-  Offers communication strategies for asserting food boundaries around older relatives who may not understand health-based diets.
+  Extra salt raises artery pressure (systolic BP) 3-5 mmHg in adults 50+ with hypertension. Practical scripts and timing for discussing food limits with family.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: discussing dietary limits with family
+updated: '2026-03-28'
+primaryKeyword: how to explain dietary restrictions to family at holidays
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

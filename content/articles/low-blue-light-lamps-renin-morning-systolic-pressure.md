@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Low-Blue-Light Lamps Raise Morning Blood Pressure?
 slug: how-chronic-use-of-low-blue-light-evening-lamps-alters-melatonin-mediated-renin-release-and-why-that-elevates-early-morning-systolic-pressure-in-adults-64-with-mild-sleep-onset-insomnia
 description: >-
-  Explains how spectral light manipulation indirectly dysregulates RAAS activity via melatonin suppression, leading to abnormal circadian BP peaks.
+  Evening lamps can blunt your sleep hormone (melatonin) 30-50%, keeping kidney pressure signals (renin) high and raising morning systolic BP 5-12 mmHg after 64.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: low-blue-light lamps renin morning systolic pressure
+updated: '2026-03-28'
+primaryKeyword: do low blue light lamps raise morning blood pressure
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

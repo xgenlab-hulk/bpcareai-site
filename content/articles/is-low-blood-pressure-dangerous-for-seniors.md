@@ -1,11 +1,12 @@
 ---
-title: Is Low Blood Pressure Dangerous for Seniors?
+title: >-
+  Is Low Blood Pressure Dangerous After 65? When to Worry
 slug: is-low-blood-pressure-dangerous-for-seniors
 description: >-
-  Understand when low blood pressure becomes a concern and how it can lead to falls or dizziness in older individuals.
+  Low BP in seniors can cause dizzy spells (orthostatic hypotension) and falls. Learn when readings below 90/60 mmHg need attention and which drugs contribute.
 date: '2025-11-26'
-updated: '2025-11-26'
-primaryKeyword: low blood pressure risks in seniors
+updated: '2026-03-28'
+primaryKeyword: is low blood pressure dangerous after 65
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How to Navigate the Holiday Buffet Without Sabotaging Your Health Goals
+title: >-
+  Holiday Buffet Tips That Won't Spike Your Blood Pressure After 50
 slug: how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
 description: >-
-  Practical strategies for making mindful food choices at all-you-can-eat family meals, especially for older adults managing chronic conditions.
+  A single holiday meal can exceed 2,000 mg sodium, raising artery pressure (systolic BP) by 5-10 mmHg. Plate-building and monitoring tips for adults 50+.
 date: '2025-12-06'
-updated: '2025-12-06'
-primaryKeyword: holiday buffet healthy eating tips
+updated: '2026-03-28'
+primaryKeyword: holiday buffet tips for seniors with high blood pressure
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

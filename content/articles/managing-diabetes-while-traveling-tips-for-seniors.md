@@ -1,11 +1,12 @@
 ---
-title: 'Managing Diabetes While Traveling: Tips for Seniors'
+title: >-
+  How to Manage Diabetes While Traveling: A Senior's Guide
 slug: managing-diabetes-while-traveling-tips-for-seniors
 description: >-
-  Stay in control of your glucose levels while on the go with practical travel advice tailored for older adults.
+  25% of adults 65+ miss low-sugar episodes (hypoglycemia unawareness). Get medication timing and glucose monitoring strategies to stay stable while traveling.
 date: '2025-12-03'
-updated: '2025-12-03'
-primaryKeyword: traveling with diabetes tips for seniors
+updated: '2026-03-28'
+primaryKeyword: how to manage diabetes while traveling over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

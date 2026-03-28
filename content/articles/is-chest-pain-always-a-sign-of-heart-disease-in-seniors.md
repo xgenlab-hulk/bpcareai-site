@@ -1,11 +1,12 @@
 ---
-title: Is Chest Pain Always a Sign of Heart Disease in Seniors?
+title: >-
+  Chest Pain That Isn't Heart Disease: Causes Seniors Should Know
 slug: is-chest-pain-always-a-sign-of-heart-disease-in-seniors
 description: >-
-  Examine other potential causes of chest discomfort in older adults and when to seek immediate medical attention.
+  Up to 40% of ER chest pain visits in seniors are non-cardiac. When rib cartilage swelling (costochondritis) or acid reflux mimics heart symptoms.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: chest pain not related to heart disease in seniors
+updated: '2026-03-28'
+primaryKeyword: chest pain causes besides heart disease seniors
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

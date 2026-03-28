@@ -1,11 +1,12 @@
 ---
 title: >-
+  Are Infrared Heating Pads Safe With ACE Inhibitors After 70?
 slug: can-you-safely-use-infrared-heating-pads-for-chronic-back-pain-while-taking-ace-inhibitors-evidence-based-thermal-thresholds-for-adults-72-with-stage-2-hypertension-and-mild-ckd
 description: >-
-  Reviews renal perfusion risks, local vasodilation interactions, and safe surface temperature/duration limits validated in geriatric pharmacokinetic studies.
+  Adults 72+ on ACE inhibitors face kidney blood flow (renal perfusion) risks from infrared pads. Keep under 40C, 15 min max—per geriatric pharmacokinetic data.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: infrared-pad-ace-inhibitor-safety
+updated: '2026-03-28'
+primaryKeyword: infrared heating pad safety with ACE inhibitors
 topicCluster: renal-health
 image: ''
 relatedSlugs:

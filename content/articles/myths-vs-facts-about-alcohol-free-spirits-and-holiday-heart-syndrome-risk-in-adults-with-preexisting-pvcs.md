@@ -1,11 +1,12 @@
 ---
 title: >-
+  Are Alcohol-Free Spirits Heart-Safe? Hidden PVC Triggers to Know
 slug: myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
 description: >-
-  Debunks assumptions about 'safe' non-alcoholic alternatives, highlighting hidden triggers like high-quinine tonics, excessive caffeine analogs, and glycyrrhizin-induced hypokalemia in botanical distillates.
+  Non-alcoholic spirits still trigger extra heartbeats (PVCs). Hidden quinine, caffeine analogs, and licorice root drain potassium at 100mg+ glycyrrhizin daily.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: alcohol-free spirits and pvc risk in elderly
+updated: '2026-03-28'
+primaryKeyword: are alcohol-free spirits safe with heart rhythm issues
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

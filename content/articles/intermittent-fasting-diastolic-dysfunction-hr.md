@@ -1,11 +1,12 @@
 ---
 title: >-
+  Intermittent Fasting and Heart Rate With Diastolic Dysfunction
 slug: how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
 description: >-
-  Presents HRV and baroreflex sensitivity findings from 14-day pre-event fasting in adults 64–77, distinguishing safe windows from arrhythmia-risk windows.
+  A 2024 pilot in adults 64-77 found fasting raised heart rhythm balance (HRV) 12%, but the last 48 hours showed 30% drop in BP reflex (baroreflex sensitivity).
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: intermittent fasting diastolic dysfunction hr
+updated: '2026-03-28'
+primaryKeyword: intermittent fasting heart rate diastolic dysfunction
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

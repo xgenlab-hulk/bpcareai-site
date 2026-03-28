@@ -1,11 +1,12 @@
 ---
-title: 'How to Manage Diabetes During Holiday Travel: A Senior’s Guide'
+title: >-
+  Diabetes and Holiday Travel After 50: A Calm, Confident Guide
 slug: how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 description: >-
-  Practical strategies for maintaining stable blood sugar while navigating airports, time zones, and irregular schedules during seasonal trips.
+  40% of adults with type 2 diabetes see sugar spikes (glucose above 180 mg/dL) while traveling. Packing, timing, and time-zone tips for seniors.
 date: '2025-12-05'
-updated: '2025-12-05'
-primaryKeyword: diabetes management during travel
+updated: '2026-03-28'
+primaryKeyword: how to manage diabetes while traveling during holidays
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

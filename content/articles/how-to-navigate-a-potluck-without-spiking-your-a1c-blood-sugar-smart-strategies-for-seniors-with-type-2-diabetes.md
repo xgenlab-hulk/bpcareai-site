@@ -1,11 +1,12 @@
 ---
 title: >-
+  Potluck Blood Sugar Guide: Smart Plates for Seniors With Diabetes
 slug: how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
 description: >-
-  Practical, plate-by-plate guidance for adults 60+ with diabetes to choose, portion, and time foods at multi-dish family gatherings—without relying on willpower or skipping meals.
+  Seniors with diabetes are 30% more likely to spike above 180 mg/dL at irregular meals. Plate portioning (glycemic load balancing) and timing for potlucks.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: manage blood sugar at potlucks seniors
+updated: '2026-03-28'
+primaryKeyword: how to manage blood sugar at potlucks with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does Instant Oatmeal Still Lower Cholesterol? What 91% Get Wrong
 slug: the-truth-about-heart-healthy-instant-oatmeal-packets-marketed-to-seniors-why-91-contain-unlabeled-beta-glucan-degradation-byproducts-that-blunt-cholesterol-lowering-efficacy-in-adults-68-with-familial-hypercholesterolemia
 description: >-
-  Reveals how industrial processing compromises the functional integrity of soluble fiber in convenience foods — undermining a cornerstone non-pharmacologic intervention for high-risk genetics.
+  Processing destroys up to 80% of oatmeal's gel-forming fiber (beta-glucan) viscosity. 91% of packets fall below the LDL-lowering threshold for adults 68+.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: instant oatmeal beta-glucan degradation
+updated: '2026-03-28'
+primaryKeyword: does instant oatmeal still lower cholesterol
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

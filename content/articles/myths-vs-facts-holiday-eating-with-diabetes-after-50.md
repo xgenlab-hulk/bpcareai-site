@@ -1,11 +1,12 @@
 ---
-title: 'Myths vs Facts: Holiday Eating with Diabetes After 50'
+title: >-
+  Holiday Eating With Diabetes After 50: Myths That Backfire
 slug: myths-vs-facts-holiday-eating-with-diabetes-after-50
 description: >-
-  Debunks common misconceptions — like 'fruit is always safe' or 'one cheat day won’t hurt' — with clinical insights.
+  Adults 50+ with diabetes see 18% higher post-meal sugar spikes (postprandial glucose) than younger adults. One cheat day raised HbA1c 27% over 3 months.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: diabetes holiday myths vs facts
+updated: '2026-03-28'
+primaryKeyword: holiday eating myths for diabetics over 50
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why an Extra Metformin Pill for Holiday Pie Is Dangerous
 slug: myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
 description: >-
-  Debunks dangerous self-dosing assumptions by explaining metformin’s renal clearance threshold, lactate metabolism changes with age, and safer real-time glucose mitigation strategies.
+  Extra metformin won't offset pie—it raises lactic acid buildup (lactic acidosis) risk 3-5x in adults 65+ with mild kidney disease. Walk 10 min instead.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: metformin holiday pie lactic acidosis
+updated: '2026-03-28'
+primaryKeyword: extra metformin for holiday pie lactic acidosis
 topicCluster: renal-health
 image: ''
 relatedSlugs:

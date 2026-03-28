@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why 82% of Salt Sensitivity Diagnoses After 74 Are Wrong
 slug: myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
 description: >-
-  Debunks outdated dietary sodium challenge methods, highlights renal sodium handling decline, and presents modern fractional excretion of sodium (FeNa) interpretation for geriatrics.
+  Standard salt-loading tests misclassify most adults 74+. Kidney filtering (GFR) drops 0.75 mL/min/year, so modern sodium-clearance tests (FeNa) are needed.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: salt-sensitivity-myths-elderly-hypertension
+updated: '2026-03-28'
+primaryKeyword: salt sensitivity test outdated for older adults
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

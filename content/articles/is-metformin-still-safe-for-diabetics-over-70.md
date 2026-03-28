@@ -1,11 +1,12 @@
 ---
-title: Is Metformin Still Safe for Diabetics Over 70?
+title: >-
+  Is Metformin Still Safe After 70? What Seniors Should Check
 slug: is-metformin-still-safe-for-diabetics-over-70
 description: >-
-  Review the benefits and potential side effects of long-term metformin use in older patients.
+  Long-term metformin after 70 requires kidney checks (eGFR testing) every 6 months. Up to 30% of users develop low B12, which can mimic early dementia symptoms.
 date: '2025-12-07'
-updated: '2025-12-07'
-primaryKeyword: metformin safety for elderly with diabetes
+updated: '2026-03-28'
+primaryKeyword: is metformin safe after 70 with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

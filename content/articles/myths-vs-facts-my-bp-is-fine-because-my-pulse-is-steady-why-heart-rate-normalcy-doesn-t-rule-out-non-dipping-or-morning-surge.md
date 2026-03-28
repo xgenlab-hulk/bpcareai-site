@@ -1,11 +1,12 @@
 ---
 title: >-
+  Steady Pulse but High BP? Why Heart Rate Misses the Problem
 slug: myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
 description: >-
-  Clarifies autonomic dissociation between HR and BP regulation, emphasizing baroreflex failure, chronotropic incompetence, and circadian misalignment.
+  A calm 72 bpm pulse can mask nighttime BP of 158/92. Separate pressure-sensing reflexes (baroreflex) mean 30-40% of adults 60+ miss non-dipping patterns.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: heart rate steady blood pressure myths
+updated: '2026-03-28'
+primaryKeyword: steady pulse doesn't mean normal blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

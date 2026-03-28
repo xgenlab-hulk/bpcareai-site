@@ -1,11 +1,12 @@
 ---
 title: >-
+  Natural Ways to Boost Insulin Signaling in Muscles After 65
 slug: natural-ways-to-improve-insulin-receptor-tyrosine-kinase-activity-without-increasing-oxidative-burden-using-low-dose-lithium-orotate-alpha-lipoic-acid-in-adults-65-with-long-standing-diabetes-and-elevated-8-ohdg
 description: >-
-  Reviews synergistic modulation of IRS-1 phosphorylation and mitochondrial ROS quenching in aging skeletal muscle, including dosing safety thresholds, urinary lithium monitoring, and interaction risks with ACE inhibitors.
+  Alpha-lipoic acid and lithium orotate support insulin receptor activation (IRS-1 phosphorylation) while reducing DNA oxidation in seniors with diabetes.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: insulin receptor kinase natural activation seniors
+updated: '2026-03-28'
+primaryKeyword: natural ways to improve insulin signaling after 65
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

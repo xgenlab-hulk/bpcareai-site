@@ -1,11 +1,12 @@
 ---
 title: >-
+  Morning Stretching vs Evening Breathwork for Nighttime BP After 69
 slug: a-vs-b-morning-10-minute-dynamic-stretching-vs-evening-8-minute-guided-breath-hold-sequencing-which-better-lowers-nocturnal-systolic-in-adults-69-with-non-dipping-patterns
 description: >-
-  Compares two time-of-day–specific nonpharmacologic interventions using ambulatory BP monitoring data across 4 weeks, focusing on autonomic reset efficacy in confirmed non-dippers.
+  40% of adults 65+ have non-dipping nighttime BP. Morning stretching boosted artery relaxation (nitric oxide); breath-holds helped only 2+ hours before sleep.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: morning stretching vs breath-hold nocturnal bp
+updated: '2026-03-28'
+primaryKeyword: morning stretching vs breathwork for nighttime BP
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

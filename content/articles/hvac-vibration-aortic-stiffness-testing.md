@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can HVAC Vibration Skew Your Aortic Stiffness Test? Adults 76+
 slug: how-chronic-exposure-to-quiet-hvac-duct-vibration-alters-aortic-root-motion-dynamics-and-why-that-masks-early-aortic-stiffness-on-standard-pwv-testing-in-adults-76
 description: >-
-  Uncovers a mechanical interference artifact in vascular testing caused by building infrastructure — leading to false reassurance in early aortopathy detection.
+  HVAC vibration (8-12 Hz) can reduce artery stiffness readings (pulse wave velocity) by 18%, masking early disease. What adults 76+ should ask before testing.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: hvac vibration aortic stiffness testing
+updated: '2026-03-28'
+primaryKeyword: HVAC vibration affects aortic stiffness test accuracy
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

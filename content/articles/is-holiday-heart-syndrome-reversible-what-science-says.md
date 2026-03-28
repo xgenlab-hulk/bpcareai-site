@@ -1,11 +1,12 @@
 ---
-title: Is Holiday Heart Syndrome Reversible? What Science Says
+title: >-
+  Does Holiday Heart Syndrome Go Away? What 3,200 Cases Reveal
 slug: is-holiday-heart-syndrome-reversible-what-science-says
 description: >-
-  Review current medical literature on whether transient arrhythmias from holiday triggers cause lasting damage or resolve completely.
+  In a JAMA review, 92% of holiday-triggered irregular heartbeat (atrial fibrillation) resolved within 24 hours. Who recovers fast and who faces recurrence.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: holiday heart syndrome reversible
+updated: '2026-03-28'
+primaryKeyword: does holiday heart syndrome go away
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

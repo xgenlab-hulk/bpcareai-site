@@ -1,11 +1,12 @@
 ---
-title: How to Support a Parent with Seasonal Depression While Living Far Away
+title: >-
+  Long-Distance Ways to Help a Parent With Winter Depression After 65
 slug: how-to-support-a-parent-with-seasonal-depression-while-living-far-away
 description: >-
-  Offer practical long-distance caregiving tips including telehealth, routine checks, and technology use.
+  Up to 15% of seniors face winter mood dips (seasonal affective disorder). Telehealth check-ins, mood tracking, and light therapy tips for distant caregivers.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: supporting parent with seasonal depression
+updated: '2026-03-28'
+primaryKeyword: how to help aging parent with seasonal depression remotely
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

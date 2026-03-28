@@ -1,11 +1,12 @@
 ---
 title: >-
+  Microwave Leakage and BP: What Seniors 75+ Living Alone Should Know
 slug: how-long-term-exposure-to-residential-microwave-oven-leakage-even-below-fcc-limits-correlates-with-24-hour-mean-arterial-pressure-variability-in-adults-75-living-alone
 description: >-
-  Examines real-world electromagnetic field exposure from aging kitchen appliances and its association with autonomic dysregulation and BP lability in homebound seniors.
+  Aging microwaves leak low-level radiation (EMF) near door seals. Adults 75+ using old units had 19% greater daily BP swings vs newer models in a pilot study.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: microwave leakage and blood pressure variability
+updated: '2026-03-28'
+primaryKeyword: can microwave leakage affect blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Talking With Grandkids at Dinner Steadies Blood Sugar After 65
 slug: how-intermittent-socializing-affects-postprandial-glucose-stability-why-skipping-grandchildren-s-mealtime-conversations-raises-glycemic-variability-more-than-skipping-the-pie-in-adults-68-with-diabetes
 description: >-
-  Examines the metabolic cost of emotional disengagement during meals — linking vagal engagement, chewing rhythm, and glucose excursions in observational cohort data.
+  Silent meals raise after-meal sugar spikes (postprandial glucose) 18-22% vs engaged dining. How conversation activates your digest nerve (vagus) at 68+.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: intermittent socializing postprandial glucose
+updated: '2026-03-28'
+primaryKeyword: mealtime conversation and blood sugar control
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

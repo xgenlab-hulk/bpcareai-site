@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sauna After a Heart Attack: 2024 AHA Guidelines for Men 62-71
 slug: is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
 description: >-
-  Clarifies contraindications (e.g., LVEF <40%, uncontrolled arrhythmia), safe protocols (dry vs infrared, hydration timing), and 3-month post-MI reintegration milestones.
+  Heat boosts heart output by 60% and rate by 20-30 bpm—risky if pumping power (ejection fraction) is under 40%. Safe protocols for men post-MI.
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: sauna safety after heart attack over 60
+updated: '2026-03-28'
+primaryKeyword: sauna after heart attack safety men over 60
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

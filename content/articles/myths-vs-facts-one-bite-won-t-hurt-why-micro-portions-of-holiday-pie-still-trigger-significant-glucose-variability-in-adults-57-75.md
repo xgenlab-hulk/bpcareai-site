@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does One Bite of Pie Spike Blood Sugar After 60? CGM Says Yes
 slug: myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
 description: >-
-  Uses CGM data overlays to debunk 'just one bite' assumptions, illustrating insulin demand, beta-cell strain, and cumulative postprandial burden over 3 hours.
+  CGM shows one tablespoon of pie raises glucose 28-42 mg/dL in adults 57-75, lasting 3 hours. Aging insulin cells (beta cells) keep only 50-70% capacity.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: one bite holiday pie blood sugar myth
+updated: '2026-03-28'
+primaryKeyword: one bite of pie blood sugar spike over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

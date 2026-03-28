@@ -1,11 +1,12 @@
 ---
 title: >-
+  How 30 Minutes of Silence Restores Nighttime BP Dipping After 61
 slug: how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension
 description: >-
-  Investigates 30-minute daily silent intervals—without guided audio or breathwork—on HRV, salivary alpha-amylase, and nocturnal systolic BP dipping patterns in a double-blind crossover trial.
+  Adults 61-77 sitting quietly 30 min/day improved nighttime systolic dipping from 3.5% to 12.1%. How silence boosts your calming signal (vagal tone).
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: intermittent silence and non-dipping bp
+updated: '2026-03-28'
+primaryKeyword: daily silence to lower nighttime blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

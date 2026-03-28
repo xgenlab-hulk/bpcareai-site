@@ -1,11 +1,12 @@
 ---
-title: How Type 2 Diabetes Increases Heart Disease Risk After 50
+title: >-
+  Why Type 2 Diabetes Doubles Your Heart Risk After 50
 slug: how-type-2-diabetes-increases-heart-disease-risk-after-50
 description: >-
-  Learn the connection between insulin resistance, high blood sugar, and cardiovascular damage in middle-aged and older adults.
+  Type 2 diabetes causes 2-4x higher heart risk through blood vessel lining damage (endothelial dysfunction) and plaque buildup. Key signs and screening for 50+.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: type 2 diabetes and heart disease risk after 50
+updated: '2026-03-28'
+primaryKeyword: why does type 2 diabetes raise heart disease risk after 50
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

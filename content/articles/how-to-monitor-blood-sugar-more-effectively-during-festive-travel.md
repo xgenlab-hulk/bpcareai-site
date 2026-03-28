@@ -1,11 +1,12 @@
 ---
-title: How to Monitor Blood Sugar More Effectively During Festive Travel
+title: >-
+  Blood Sugar Monitoring During Holiday Travel: Tips for Adults 50+
 slug: how-to-monitor-blood-sugar-more-effectively-during-festive-travel
 description: >-
-  Tips for maintaining consistent glucose testing routines when traveling during Christmas and New Year, including time zone and routine changes.
+  Crossing 2 time zones can spike post-meal glucose by 22 mg/dL. How to keep testing supplies safe (reagent strip storage) and maintain routines while traveling.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: monitoring blood sugar while traveling
+updated: '2026-03-28'
+primaryKeyword: how to check blood sugar while traveling for the holidays
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

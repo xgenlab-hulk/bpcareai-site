@@ -1,11 +1,12 @@
 ---
-title: How Vision Changes Might Be Linked to Heart Disease
+title: >-
+  Can Your Eye Exam Reveal Early Heart Disease? What to Know After 50
 slug: how-vision-changes-might-be-linked-to-heart-disease
 description: >-
-  Discover how retinal blood vessel damage can reflect broader cardiovascular health issues.
+  Retinal vessel narrowing (hypertensive retinopathy) visible on eye exams signals up to 20% higher stroke risk. Key warning signs adults 50+ should know.
 date: '2025-11-28'
-updated: '2025-11-28'
-primaryKeyword: vision changes and heart disease connection
+updated: '2026-03-28'
+primaryKeyword: can eye changes signal heart disease in older adults
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

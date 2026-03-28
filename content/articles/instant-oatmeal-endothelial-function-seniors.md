@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Instant Oatmeal May Hurt Artery Health in Adults Over 65
 slug: the-truth-about-heart-healthy-instant-oatmeal-packets-labeled-for-seniors-why-91-contain-hidden-beta-glucan-antagonists-that-impair-endothelial-no-release-in-adults-65-with-subclinical-atherosclerosis
 description: >-
-  Exposes processing-derived compounds in commercial oat products that neutralize soluble fiber benefits—directly measured via flow-mediated dilation decline in longitudinal vascular function studies.
+  Processed oat packets reduce blood vessel relaxation (endothelial NO release) by 8-12% over 12 weeks. Steel-cut oats preserved artery function in seniors 65+.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: instant oatmeal endothelial function seniors
+updated: '2026-03-28'
+primaryKeyword: instant oatmeal and artery health in seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

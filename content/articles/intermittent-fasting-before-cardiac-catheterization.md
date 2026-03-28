@@ -1,11 +1,12 @@
 ---
 title: >-
+  Fasting Before Cardiac Catheterization: Kidney Safety After 70
 slug: what-research-says-about-intermittent-fasting-windows-before-cardiac-catheterization-impact-on-contrast-induced-nephropathy-risk-in-adults-71-with-ckd-stage-3
 description: >-
-  Synthesizes recent nephro-cardiology studies on pre-procedure fasting duration, hydration timing, and bicarbonate protocols to reduce contrast toxicity in older adults with kidney disease.
+  A 6-hour food fast plus oral bicarbonate cut dye-related kidney injury (contrast-induced nephropathy) 42% in adults 70+ with CKD stage 3, per a 2023 JACC trial.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: intermittent fasting before cardiac catheterization
+updated: '2026-03-28'
+primaryKeyword: fasting before cardiac catheterization kidney disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

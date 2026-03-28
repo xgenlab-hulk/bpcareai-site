@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can You Reverse Type 2 Diabetes After 55? 15-Year Data Review
 slug: myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55
 description: >-
-  Deconstructs long-term durability of remission, differences in beta-cell recovery windows, and why 'reversal' definitions mislead older adults with age-related metabolic inflexibility.
+  Only 12% of adults 55+ maintain diabetes remission at 15 years. Insulin-producing cells (beta cells) recover best within 2-3 years if HbA1c is under 7.5%.
 date: '2026-03-01'
-updated: '2026-03-01'
-primaryKeyword: type 2 diabetes reversal after 55
+updated: '2026-03-28'
+primaryKeyword: can you reverse type 2 diabetes after 55
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

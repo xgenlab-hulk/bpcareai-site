@@ -1,11 +1,12 @@
 ---
 title: >-
+  Statins After 75: What the STAREE and PREVAIL Trials Reveal
 slug: myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
 description: >-
-  Debunks age-based statin misconceptions using STAREE and PREVAIL trial data—highlighting mortality, mobility, and dementia risk trade-offs in primary prevention.
+  PREVAIL showed statins cut heart attack and stroke risk (cardiovascular events) 22% in adults 75-84. Side effects matched placebo at just 5-7%.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: statins after 75 myths vs facts
+updated: '2026-03-28'
+primaryKeyword: are statins worth taking after age 75
 topicCluster: special-populations
 image: ''
 relatedSlugs:
