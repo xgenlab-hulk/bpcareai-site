@@ -1,11 +1,12 @@
 ---
-title: How Holiday Stress Hormones Sabotage Blood Sugar Control in Women Over 65
+title: >-
+  Holiday Stress and Blood Sugar: What Women Over 65 Should Know
 slug: how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 description: >-
-  Explores the cortisol-glucose feedback loop triggered by family gatherings and travel, with evidence-based strategies to stabilize glycemia during festive periods.
+  One stressful night can raise fasting glucose 15-20 mg/dL in women 65+. Lost estrogen buffer (insulin sensitivity) makes the stress-sugar loop harder to break.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: holiday stress blood sugar seniors
+updated: '2026-03-28'
+primaryKeyword: holiday stress and blood sugar in women over 65
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

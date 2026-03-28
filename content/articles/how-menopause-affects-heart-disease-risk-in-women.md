@@ -1,11 +1,12 @@
 ---
-title: How Menopause Affects Heart Disease Risk in Women
+title: >-
+  Why Heart Disease Risk Rises Sharply After Menopause
 slug: how-menopause-affects-heart-disease-risk-in-women
 description: >-
-  Explore hormonal changes during menopause that increase the likelihood of developing heart disease.
+  After menopause, LDL rises ~10% and arteries stiffen as estrogen drops. Vessel hardening (atherosclerosis) raises stroke and heart attack risk in women over 50.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: menopause and increased heart disease risk
+updated: '2026-03-28'
+primaryKeyword: why heart disease risk rises after menopause
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

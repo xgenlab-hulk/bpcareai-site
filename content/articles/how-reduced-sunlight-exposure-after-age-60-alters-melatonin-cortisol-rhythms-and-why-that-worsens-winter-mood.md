@@ -1,11 +1,12 @@
 ---
 title: >-
+  Less Sunlight After 60: Why Winter Mood Dips Get Worse
 slug: how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
 description: >-
-  Examines the age-related decline in retinal light sensitivity and circadian photoreception, explaining the biological mechanism linking shorter days to depressive symptoms in older adults.
+  By 60, eyes detect 30-40% less light, disrupting sleep-wake hormones (melatonin-cortisol rhythm). Seniors report winter mood dips at nearly 2x the younger rate.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: sunlight exposure melatonin cortisol aging
+updated: '2026-03-28'
+primaryKeyword: why does less sunlight worsen mood after age 60
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

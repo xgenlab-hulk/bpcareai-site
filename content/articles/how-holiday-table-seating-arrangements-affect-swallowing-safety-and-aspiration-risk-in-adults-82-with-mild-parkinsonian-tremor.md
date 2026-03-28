@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Seating Tips to Protect Swallowing With Parkinsonian Tremor
 slug: how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor
 description: >-
-  Reviews ergonomic, visual, and auditory variables—lighting, chair height, table distance, and conversation load—that independently alter pharyngeal phase efficiency during festive meals.
+  Noise above 60 dB and wrong chair height can delay the swallow reflex (pharyngeal phase) by 0.3s in seniors 82+ with tremor, raising aspiration risk at meals.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: holiday seating swallowing safety parkinsonian seniors
+updated: '2026-03-28'
+primaryKeyword: holiday seating and swallowing safety seniors tremor
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

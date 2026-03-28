@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Pre-Dinner Snacking Disrupts Hunger Hormones After 65
 slug: how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65
 description: >-
-  Explores chronobiological disruption from mis-timed pre-feast snacks, with hormone assay data and a 4-step ‘pre-dinner metabolic reset’ protocol.
+  Snacking at 3-5 PM blunts the natural hunger surge (ghrelin peak) by 35%, promoting overeating at dinner in adults 65+ with sarcopenic obesity.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: late afternoon snacking ghrelin sarcopenic obesity
+updated: '2026-03-28'
+primaryKeyword: pre-dinner snacking and hunger hormones after 65
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

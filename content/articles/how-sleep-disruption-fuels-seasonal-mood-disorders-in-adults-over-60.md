@@ -1,11 +1,12 @@
 ---
-title: How Sleep Disruption Fuels Seasonal Mood Disorders in Adults Over 60
+title: >-
+  Sleep Disruption and Seasonal Depression After 60: Key Links
 slug: how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
 description: >-
-  Explain the connection between shortened daylight, melatonin imbalance, and disrupted sleep-wake cycles in older adults.
+  Adults 60+ make only 25-35% of the sleep hormone (melatonin) they produced at 25. Up to 15% of seniors show winter mood shifts tied to disrupted rhythms.
 date: '2025-12-09'
-updated: '2025-12-09'
-primaryKeyword: sleep disruption and seasonal depression
+updated: '2026-03-28'
+primaryKeyword: sleep disruption and seasonal depression after 60
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

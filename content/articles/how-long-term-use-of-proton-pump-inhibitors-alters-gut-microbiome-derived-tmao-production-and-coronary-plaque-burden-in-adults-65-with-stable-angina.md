@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Long-Term Acid Reflux Pills Raise Heart Plaque Risk After 65?
 slug: how-long-term-use-of-proton-pump-inhibitors-alters-gut-microbiome-derived-tmao-production-and-coronary-plaque-burden-in-adults-65-with-stable-angina
 description: >-
-  Reviews clinical and mechanistic evidence on PPI-induced dysbiosis, TMAO elevation, and associations with plaque progression on serial CCTA in older angina patients.
+  Acid reducers (proton pump inhibitors) shift gut bacteria and raise TMAO. CT scans show 12% more artery plaque (coronary plaque) after 12+ months of use.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: pills and tmao coronary plaque
+updated: '2026-03-28'
+primaryKeyword: do acid reflux pills raise heart plaque risk
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

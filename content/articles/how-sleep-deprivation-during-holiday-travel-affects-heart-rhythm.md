@@ -1,11 +1,12 @@
 ---
-title: How Sleep Deprivation During Holiday Travel Affects Heart Rhythm
+title: >-
+  Holiday Travel and Heart Rhythm: Protecting Your Beat on the Go
 slug: how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 description: >-
-  Investigate how disrupted circadian rhythms from travel and late-night events may trigger arrhythmias in older travelers.
+  Jet lag and late nights cut heart rate stability (HRV) by 20% in one night. AFib hospital visits spike 18-22% after major holidays in adults 55-74.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: holiday travel heart rhythm
+updated: '2026-03-28'
+primaryKeyword: holiday travel and heart rhythm disruption
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

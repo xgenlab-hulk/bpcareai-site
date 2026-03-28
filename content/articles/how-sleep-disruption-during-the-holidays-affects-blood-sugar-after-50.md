@@ -1,11 +1,12 @@
 ---
-title: How Sleep Disruption During the Holidays Affects Blood Sugar After 50
+title: >-
+  Holiday Sleep Changes and Blood Sugar After 50: What to Watch
 slug: how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
 description: >-
-  Discusses how late nights, travel, and excitement impact sleep quality and insulin sensitivity in older adults.
+  Just 3 nights of broken sleep drop sugar processing (insulin sensitivity) 25% in adults 50+. Steady bedtimes protect glucose more than total sleep hours.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: holiday sleep disruption blood sugar
+updated: '2026-03-28'
+primaryKeyword: holiday sleep disruption and blood sugar after 50
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

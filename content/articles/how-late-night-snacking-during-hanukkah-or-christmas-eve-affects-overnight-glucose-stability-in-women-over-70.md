@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Snacking and Overnight Blood Sugar in Women Over 70
 slug: how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
 description: >-
-  Analyzes circadian insulin resistance shifts, melatonin-glucose crosstalk, and optimal pre-sleep carb-protein ratios for older women with prediabetes.
+  Women over 70 see 30% higher morning glucose after carbs past 9 PM. The sleep hormone (melatonin) slows sugar processing, making timing key.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: late-night snacking overnight glucose stability seniors
+updated: '2026-03-28'
+primaryKeyword: holiday snacking and overnight glucose in women over 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

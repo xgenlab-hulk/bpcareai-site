@@ -1,11 +1,12 @@
 ---
-title: How Retirement Changes Affect Heart Health
+title: >-
+  Retirement and Heart Health: Risks You Might Not Expect
 slug: how-retirement-changes-affect-heart-health
 description: >-
-  Explore how shifts in routine, activity, and purpose post-retirement influence cardiovascular wellness.
+  Retirees see a 10-20% drop in daily steps, raising blood pressure and weight. Strong social ties (social connectedness) cut heart disease risk by up to 30%.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: retirement lifestyle changes and heart health
+updated: '2026-03-28'
+primaryKeyword: how does retirement affect heart health
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

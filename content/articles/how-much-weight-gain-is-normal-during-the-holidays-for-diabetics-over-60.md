@@ -1,11 +1,12 @@
 ---
-title: How Much Weight Gain Is Normal During the Holidays for Diabetics Over 60?
+title: >-
+  Holiday Weight Gain With Diabetes After 60: What's Normal?
 slug: how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
 description: >-
-  Explores typical post-holiday weight changes and their relationship to blood sugar control and long-term metabolic health.
+  Most adults 60+ gain 1-2 lbs over the holidays, but glucose spikes rise 15-20% first. Even 3-5 lbs of belly fat (visceral fat) can cut insulin sensitivity.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: holiday weight gain diabetics over 60
+updated: '2026-03-28'
+primaryKeyword: holiday weight gain with diabetes after 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

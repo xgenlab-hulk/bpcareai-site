@@ -1,11 +1,12 @@
 ---
-title: How Stress Affects Blood Sugar in People with Diabetes Over 50
+title: >-
+  How Stress Raises Blood Sugar When You Have Diabetes After 50
 slug: how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
 description: >-
-  Discover how emotional stress triggers glucose spikes and strategies to manage both.
+  Emotional stress can spike fasting glucose 20-30% in older adults via stress hormones (cortisol). Practical ways to track patterns and steady your blood sugar.
 date: '2025-12-08'
-updated: '2025-12-08'
-primaryKeyword: stress and blood sugar in older diabetics
+updated: '2026-03-28'
+primaryKeyword: how stress raises blood sugar after 50 with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

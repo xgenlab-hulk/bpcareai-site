@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Home Lighting Disrupts Sleep and Brain Health After 70
 slug: how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment
 description: >-
-  Analyzes how common home LED lighting (vs. full-spectrum or amber-filtered) disrupts melatonin timing and REM consolidation—especially in seniors with MCI—and offers practical lighting adjustments.
+  Cool-white LEDs cut deep sleep (REM) 22% and delay onset 84 min in seniors 70+ with cognitive decline. 3 evening lighting swaps to protect melatonin rhythm.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: indoor light spectrum melatonin sleep architecture seniors
+updated: '2026-03-28'
+primaryKeyword: home lighting and sleep quality in seniors over 70
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

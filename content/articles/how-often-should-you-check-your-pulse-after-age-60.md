@@ -1,11 +1,12 @@
 ---
-title: How Often Should You Check Your Pulse After Age 60?
+title: >-
+  Pulse Checks After 60: How Often Should You Monitor?
 slug: how-often-should-you-check-your-pulse-after-age-60
 description: >-
-  Learn why regular pulse checks can help detect arrhythmias and other heart issues early.
+  Weekly pulse checks catch irregular heartbeats (arrhythmias) like AFib, which affects 1 in 4 adults over 60. Early detection can cut stroke risk up to 5-fold.
 date: '2025-12-07'
-updated: '2025-12-07'
-primaryKeyword: checking pulse frequency for seniors heart health
+updated: '2026-03-28'
+primaryKeyword: how often should seniors check their pulse
 topicCluster: special-populations
 image: ''
 relatedSlugs:

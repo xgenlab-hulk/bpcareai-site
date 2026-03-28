@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Living Alone Speeds Heart Artery Calcium Buildup in Men 71-84
 slug: how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
 description: >-
-  Presents longitudinal data linking loneliness scores, vagal withdrawal during sleep, and annual CAC progression rate—adjusted for physical activity, depression, and sleep apnea severity.
+  Lonely men show 22% lower nighttime heart rhythm flexibility (vagal HRV), accelerating calcium deposits (coronary artery calcification) 3x faster.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: social isolation and coronary artery calcification
+updated: '2026-03-28'
+primaryKeyword: social isolation and heart artery calcium in older men
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Just One Cookie at Night Raises Fasting Glucose After 58
 slug: how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 description: >-
-  Explores the circadian disruption of liver metabolism in midlife+ adults with prediabetes or type 2 diabetes, linking nocturnal eating to elevated fasting glucose and insulin resistance.
+  Eating within 2 hours of bedtime raises morning blood sugar (fasting glucose) 18 mg/dL in adults 58-72 by disrupting the liver's overnight clock.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: late-night snacking and fasting glucose over 58
+updated: '2026-03-28'
+primaryKeyword: why does one cookie raise fasting glucose after 58
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

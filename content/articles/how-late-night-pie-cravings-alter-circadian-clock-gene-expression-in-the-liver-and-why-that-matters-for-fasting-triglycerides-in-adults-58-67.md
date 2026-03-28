@@ -1,11 +1,12 @@
 ---
 title: >-
+  How a Late-Night Slice of Pie Raises Morning Triglycerides
 slug: how-late-night-pie-cravings-alter-circadian-clock-gene-expression-in-the-liver-and-why-that-matters-for-fasting-triglycerides-in-adults-58-67
 description: >-
-  Explains how nocturnal carbohydrate intake resets hepatic BMAL1/PER2 rhythms, driving VLDL overproduction—and offers time-restricted eating windows aligned with melatonin onset.
+  Pie after 9 PM resets liver clock genes (BMAL1/PER2), boosting fat particles (VLDL) overnight. Adults 58-67 see fasting blood fats rise 20-30% the next morning.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: late-night pie circadian triglycerides
+updated: '2026-03-28'
+primaryKeyword: does late-night pie raise triglycerides in adults 58-67
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

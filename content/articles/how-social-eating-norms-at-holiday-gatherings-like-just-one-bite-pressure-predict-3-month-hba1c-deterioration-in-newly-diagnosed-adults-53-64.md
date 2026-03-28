@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Holiday Food Pressure Raises HbA1c in Adults 53-64
 slug: how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64
 description: >-
-  Presents longitudinal data linking observed microaggressions (e.g., food shaming, unsolicited advice) to sustained glycemic drift, with behavioral intervention pathways.
+  Social pressure at gatherings links to 0.4% higher long-term sugar (HbA1c) over 3 months. Stress from food comments raises cortisol and worsens glucose.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: social eating pressure HbA1c deterioration
+updated: '2026-03-28'
+primaryKeyword: holiday food pressure and blood sugar control
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

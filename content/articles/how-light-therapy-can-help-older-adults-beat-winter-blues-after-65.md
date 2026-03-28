@@ -1,11 +1,12 @@
 ---
-title: How Light Therapy Can Help Older Adults Beat Winter Blues After 65
+title: >-
+  Light Therapy After 65: A Proven Way to Beat Winter Blues
 slug: how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
 description: >-
-  Explore the science behind light therapy boxes, recommended usage, and real benefits for seniors struggling with seasonal mood changes.
+  A 10,000-lux light box for 20-30 min each morning resets your body clock (circadian rhythm). Seniors 65+ see mood gains in days to 2 weeks.
 date: '2025-12-02'
-updated: '2025-12-02'
-primaryKeyword: light therapy for seasonal depression
+updated: '2026-03-28'
+primaryKeyword: light therapy for winter depression after 65
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

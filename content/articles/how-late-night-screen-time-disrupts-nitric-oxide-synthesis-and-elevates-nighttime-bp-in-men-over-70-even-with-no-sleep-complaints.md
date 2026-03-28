@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Screen Time Raises Nighttime Blood Pressure in Men Over 70
 slug: how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 description: >-
-  Explains blue-light–mediated suppression of endothelial nitric oxide synthase (eNOS) phosphorylation, independent of melatonin or sleep architecture—plus practical spectral-filtering interventions.
+  One hour of tablet use before bed suppresses the artery-relaxing molecule (nitric oxide), raising nighttime systolic BP 7 mmHg even without sleep problems.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: screen time nitric oxide nighttime bp men 70
+updated: '2026-03-28'
+primaryKeyword: screen time and nighttime blood pressure in men over 70
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

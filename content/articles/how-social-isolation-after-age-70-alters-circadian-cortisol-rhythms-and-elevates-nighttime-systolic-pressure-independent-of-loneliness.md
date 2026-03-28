@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Living Alone After 70 Raises Nighttime Blood Pressure Silently
 slug: how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
 description: >-
-  Distinguishes objective isolation (living alone, <1 weekly contact) from subjective loneliness using cortisol awakening response (CAR) and 24-h BP mapping data—revealing direct neuroendocrine pathways to nocturnal hypertension.
+  Isolation flattens your stress hormone rhythm (cortisol awakening response), raising nighttime systolic BP 8.2 mmHg in adults 70+ even without feeling lonely.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: social isolation cortisol nighttime bp over 70
+updated: '2026-03-28'
+primaryKeyword: social isolation and nighttime blood pressure after 70
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

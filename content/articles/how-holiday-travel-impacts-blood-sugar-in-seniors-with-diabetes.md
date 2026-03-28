@@ -1,11 +1,12 @@
 ---
-title: How Holiday Travel Impacts Blood Sugar in Seniors with Diabetes
+title: >-
+  Holiday Travel and Blood Sugar: Tips for Seniors With Diabetes
 slug: how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 description: >-
-  Explore how disrupted routines during holiday travel can affect glucose levels in older adults and what proactive steps can help maintain stability.
+  Seniors who check glucose on trips are 3.5x less likely to have severe lows. How travel disrupts sugar control (insulin sensitivity) and 6 steps to stay stable.
 date: '2025-12-17'
-updated: '2025-12-17'
-primaryKeyword: holiday travel blood sugar seniors
+updated: '2026-03-28'
+primaryKeyword: holiday travel blood sugar tips for seniors with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

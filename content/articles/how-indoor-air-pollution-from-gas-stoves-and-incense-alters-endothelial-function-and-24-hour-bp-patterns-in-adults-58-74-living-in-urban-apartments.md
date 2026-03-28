@@ -1,11 +1,12 @@
 ---
 title: >-
+  Gas Stoves, Incense, and Blood Pressure: Indoor Risks After 58
 slug: how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
 description: >-
-  Links NO₂/PM2.5 exposure to acute vascular reactivity changes, measured via reactive hyperemia index and home BP diaries across seasonal ventilation patterns.
+  Gas stoves push indoor NO2 to 45-70 ppb, raising systolic BP 4-7 mmHg in 90 min. How pollution harms vessel lining (endothelial function) in adults 58-74.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: indoor air pollution blood pressure urban seniors
+updated: '2026-03-28'
+primaryKeyword: gas stove pollution and blood pressure in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

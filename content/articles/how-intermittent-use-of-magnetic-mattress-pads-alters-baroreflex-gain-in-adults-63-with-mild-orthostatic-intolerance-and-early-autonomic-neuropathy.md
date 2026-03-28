@@ -1,11 +1,12 @@
 ---
 title: >-
+  Do Magnetic Mattress Pads Affect Blood Pressure After 63?
 slug: how-intermittent-use-of-magnetic-mattress-pads-alters-baroreflex-gain-in-adults-63-with-mild-orthostatic-intolerance-and-early-autonomic-neuropathy
 description: >-
-  Assesses low-intensity static magnetic field exposure on carotid sinus mechanoreceptor sensitivity and its impact on BP stability during positional changes.
+  Adults 63+ saw 5 mmHg less standing BP drop after 4-6 weeks on magnetic pads. How static fields may affect pressure reflexes (baroreflex gain) and safety tips.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: magnetic mattress pad baroreflex autonomic neuropathy
+updated: '2026-03-28'
+primaryKeyword: magnetic mattress pads blood pressure stability 63+
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

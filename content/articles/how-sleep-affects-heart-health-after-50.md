@@ -1,11 +1,12 @@
 ---
-title: How Sleep Affects Heart Health After 50
+title: >-
+  Sleep and Heart Health After 50: What Your Nightly Rest Reveals
 slug: how-sleep-affects-heart-health-after-50
 description: >-
-  Discover the connection between quality sleep and heart health, especially for adults over 50, and learn tips to improve both.
+  Poor sleep raises blood pressure (systolic BP) by disrupting overnight recovery. Adults 50+ with under 6 hours face higher inflammation tied to heart disease.
 date: '2025-11-26'
-updated: '2025-11-26'
-primaryKeyword: sleep and heart health after 50
+updated: '2026-03-28'
+primaryKeyword: how does sleep affect heart health after 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

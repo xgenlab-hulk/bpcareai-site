@@ -1,11 +1,12 @@
 ---
 title: >-
+  Night Shift Work After 50: How It Affects Heart Calcification Risk
 slug: how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
 description: >-
-  Explains CLOCK/BMAL1 dysregulation in long-term shift workers and how coronary calcium scoring serves as a biomarker of accelerated vascular aging.
+  Night workers 50+ show calcium scores 30% higher than day workers. Disrupted clock genes (CLOCK/BMAL1) speed artery hardening, but timed light can help.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: night shift circadian genes coronary calcification
+updated: '2026-03-28'
+primaryKeyword: night shift work and heart calcification after 50
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

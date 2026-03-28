@@ -1,11 +1,12 @@
 ---
-title: How Often Should Adults Over 55 Monitor Blood Sugar at Home?
+title: >-
+  Blood Sugar Monitoring After 55: How Often Should You Test?
 slug: how-often-should-adults-over-55-monitor-blood-sugar-at-home
 description: >-
-  Get expert guidance on optimal blood glucose testing frequency based on diabetes type and treatment plan.
+  Insulin users need 4-6 daily finger sticks (glucose self-monitoring), while metformin-only patients may need none. 20% of adults 70+ have severe lows yearly.
 date: '2025-12-06'
-updated: '2025-12-06'
-primaryKeyword: blood sugar monitoring frequency for seniors with diabetes
+updated: '2026-03-28'
+primaryKeyword: how often should seniors check blood sugar at home
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Holiday Family Stress Spikes Blood Sugar in Women 57-65
 slug: how-holiday-family-conflict-elevates-cortisol-driven-hepatic-glucose-output-especially-in-women-57-65-with-perimenopausal-insulin-resistance
 description: >-
-  Connects interpersonal stress physiology to hepatic glucose overproduction via GRα receptor upregulation, with gender-specific cortisol rhythm disruptions and actionable de-escalation tools.
+  Family conflict raises cortisol, pushing liver glucose output (hepatic gluconeogenesis) up 20-40%. Women in perimenopause lose estrogen protection against this.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: family conflict cortisol glucose output
+updated: '2026-03-28'
+primaryKeyword: family stress and blood sugar spikes during holidays
 topicCluster: special-populations
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Late Afternoon Snacks Raise Your Morning Blood Sugar After 59
 slug: how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
 description: >-
-  Explores the circadian mismatch between inherited chronotype, social meal timing, and tryptophan availability—plus offers a 'light-anchored snack timing matrix' to preserve insulin sensitivity overnight.
+  A 4-5 PM snack delays sleep hormone (melatonin) onset 45 min, raising next-day fasting glucose 12-20% in adults 59-66 with shift-work history.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: late afternoon snacking circadian glucose
+updated: '2026-03-28'
+primaryKeyword: does late afternoon snacking raise fasting blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

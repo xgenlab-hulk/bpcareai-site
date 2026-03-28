@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Flying Disrupts Insulin Absorption for Seniors With Type 1
 slug: how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d
 description: >-
-  Analyzes how cabin pressure fluctuations, immobility, and cold ambient temperatures alter insulin diffusion through fibrotic or atrophic tissue — with implications for basal rate adjustments and bolus timing during multi-leg journeys.
+  Cabin pressure and sitting can slow insulin uptake 25-30% in seniors with thinning injection sites (adipose atrophy). Adjust basal rates before boarding.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: air travel insulin absorption elderly
+updated: '2026-03-28'
+primaryKeyword: insulin absorption during flights older diabetics
 topicCluster: special-populations
 image: ''
 relatedSlugs:

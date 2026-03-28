@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Late-Night Gift Wrapping Can Trigger AFib After Age 60
 slug: how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
 description: >-
-  Examines circadian disruption, blue light exposure, and sustained seated posture during evening holiday tasks—and their measurable impact on atrial fibrillation burden in diagnosed adults aged 60–80.
+  Staying up 2+ hrs past bedtime raises irregular heartbeat (AFib) burden 15-30% in adults 60-80. Blue light and prolonged sitting amplify atrial triggers.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: late-night gift wrapping and afib stability
+updated: '2026-03-28'
+primaryKeyword: late night activity and atrial fibrillation triggers
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

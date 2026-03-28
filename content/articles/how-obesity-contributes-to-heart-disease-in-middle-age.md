@@ -1,11 +1,12 @@
 ---
-title: How Obesity Contributes to Heart Disease in Middle Age
+title: >-
+  How Obesity Raises Heart Disease Risk Between Ages 45 and 65
 slug: how-obesity-contributes-to-heart-disease-in-middle-age
 description: >-
-  Learn the mechanisms linking excess weight to arterial damage and heart strain in people aged 45–65.
+  Belly fat (visceral fat) releases inflammatory proteins that damage arteries and push BP above 130/80. Obesity raises heart disease risk up to 50% by age 45-65.
 date: '2025-11-30'
-updated: '2025-11-30'
-primaryKeyword: obesity and heart disease in middle age
+updated: '2026-03-28'
+primaryKeyword: how obesity causes heart disease in middle age
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

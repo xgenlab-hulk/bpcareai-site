@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sleep Apnea and Insulin Clearance: What Adults 54-71 Should Know
 slug: how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
 description: >-
-  Explains how intermittent hypoxia reduces hepatic insulin degradation, increases insulin resistance, and blunts GLP-1 response—plus CPAP adherence impact on glycemic variability.
+  Repeated oxygen dips slow liver insulin removal (hepatic degradation) by suppressing key enzymes. Each 10-event AHI rise links to 12% worse sugar resistance.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: sleep apnea and insulin clearance in diabetics
+updated: '2026-03-28'
+primaryKeyword: how sleep apnea affects insulin clearance with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How Poor Dental Hygiene May Lead to Heart Disease
+title: >-
+  Gum Disease and Heart Risk: What Adults 50+ Need to Know
 slug: how-poor-dental-hygiene-may-lead-to-heart-disease
 description: >-
-  Discover how bacteria from gum infections can travel into the bloodstream and affect heart health.
+  Gum infection (periodontitis) raises heart disease risk 1.5-2x. Oral bacteria enter the bloodstream, triggering vessel inflammation (elevated CRP) without pain.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: poor dental hygiene and heart disease connection
+updated: '2026-03-28'
+primaryKeyword: does poor dental hygiene cause heart disease
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

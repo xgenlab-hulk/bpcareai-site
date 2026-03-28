@@ -1,11 +1,12 @@
 ---
-title: How Silent Heart Attacks Differ in Older Adults
+title: >-
+  Silent Heart Attacks After 50: Signs You Might Miss
 slug: how-silent-heart-attacks-differ-in-older-adults
 description: >-
-  Understand why heart attacks in seniors often have no obvious symptoms and how to detect them early.
+  About 45% of heart attacks after 75 are silent — found only on heart tracings (ECGs). Diabetes worsens risk, as 30% develop nerve damage that masks chest pain.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: silent heart attack symptoms in elderly
+updated: '2026-03-28'
+primaryKeyword: silent heart attack symptoms in older adults
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

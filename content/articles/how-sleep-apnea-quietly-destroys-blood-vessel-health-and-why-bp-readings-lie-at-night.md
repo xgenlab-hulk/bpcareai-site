@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Your Blood Pressure Spikes at Night With Sleep Apnea
 slug: how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
 description: >-
-  Breaks down the nocturnal cardiovascular damage caused by undiagnosed sleep apnea in adults 60+, explaining why home BP monitors miss critical nighttime surges and what to do instead.
+  Nighttime breathing pauses push readings (systolic BP) up 20-40 mmHg. Up to 70% of adults 60+ with moderate apnea lose their normal overnight BP dip.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: sleep apnea nighttime blood pressure
+updated: '2026-03-28'
+primaryKeyword: sleep apnea and nighttime blood pressure spikes
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

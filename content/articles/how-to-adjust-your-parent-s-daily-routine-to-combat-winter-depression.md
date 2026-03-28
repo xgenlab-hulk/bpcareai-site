@@ -1,11 +1,12 @@
 ---
-title: How to Adjust Your Parent’s Daily Routine to Combat Winter Depression
+title: >-
+  Adjusting Your Parent's Daily Routine to Fight Winter Depression
 slug: how-to-adjust-your-parent-s-daily-routine-to-combat-winter-depression
 description: >-
-  Provide step-by-step suggestions for structuring mornings, increasing activity, and maximizing daylight exposure.
+  Up to 15% of adults over 65 get seasonal mood drops. A morning routine with 10,000-lux light therapy (phototherapy) and gentle movement restores energy.
 date: '2025-12-17'
-updated: '2025-12-17'
-primaryKeyword: daily routine for seasonal depression
+updated: '2026-03-28'
+primaryKeyword: winter daily routine seasonal depression elderly parent
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How Kidney Function Declines Faster in Older Adults with Diabetes
+title: >-
+  Why Diabetes Accelerates Kidney Decline After 60 and How to Slow It
 slug: how-kidney-function-declines-faster-in-older-adults-with-diabetes
 description: >-
-  Understand diabetic nephropathy risks and how early detection can preserve kidney health.
+  Seniors with type 2 diabetes lose filtering capacity (eGFR) 3-5% faster yearly. How to catch early protein leaks (microalbuminuria) and 4 kidney-saving steps.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: diabetes and kidney function decline in seniors
+updated: '2026-03-28'
+primaryKeyword: why diabetes speeds kidney decline after 60
 topicCluster: renal-health
 image: ''
 relatedSlugs:

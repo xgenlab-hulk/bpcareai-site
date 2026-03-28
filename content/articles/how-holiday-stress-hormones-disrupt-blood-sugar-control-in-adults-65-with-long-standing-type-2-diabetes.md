@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Holiday Stress Hormones Disrupt Blood Sugar After 65
 slug: how-holiday-stress-hormones-disrupt-blood-sugar-control-in-adults-65-with-long-standing-type-2-diabetes
 description: >-
-  Explores the cortisol-epinephrine cascade triggered by family gatherings, travel, and disrupted routines—and how it directly impairs insulin sensitivity and hepatic glucose output in older adults with T2D.
+  Cortisol can cut insulin effectiveness (insulin sensitivity) by 30% in adults 65+ with long-standing diabetes, while the liver dumps 20-40% extra glucose.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: holiday stress blood sugar seniors
+updated: '2026-03-28'
+primaryKeyword: holiday stress hormones blood sugar adults 65 diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How Strength Training Protects Your Heart as You Age
+title: >-
+  How Strength Training Protects Your Heart After 50
 slug: how-strength-training-protects-your-heart-as-you-age
 description: >-
-  Discover how building muscle through resistance training supports circulation and heart resilience.
+  Adults over 50 who lift weights see a 4-6 mmHg systolic drop. Learn how building muscle cuts artery stiffness (arterial compliance) and guards your heart.
 date: '2025-12-13'
-updated: '2025-12-13'
-primaryKeyword: strength training benefits for heart health over 50
+updated: '2026-03-28'
+primaryKeyword: strength training heart health after 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

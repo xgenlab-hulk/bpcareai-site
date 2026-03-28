@@ -1,11 +1,12 @@
 ---
-title: How Strong Are Your Fingernails? What It Might Say About Your Heart
+title: >-
+  What Your Fingernails Reveal About Heart Health After 50
 slug: how-strong-are-your-fingernails-what-it-might-say-about-your-heart
 description: >-
-  Uncover the surprising link between nail health and potential cardiovascular issues in older adults.
+  Curved nails (clubbing), pale color, or tiny red lines may signal poor blood flow (peripheral artery disease). When nail changes warrant a heart checkup.
 date: '2025-11-30'
-updated: '2025-11-30'
-primaryKeyword: fingernail health and heart disease signs
+updated: '2026-03-28'
+primaryKeyword: fingernail changes heart disease signs over 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

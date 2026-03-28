@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Holiday Music Volume Affect How Full You Feel After 65?
 slug: how-holiday-music-volume-and-tempo-affect-post-meal-satiety-hormone-release-in-adults-65-with-mild-cognitive-impairment
 description: >-
-  Investigates the neuroendocrine link between ambient auditory stimulation, vagal tone, and peptide YY/GLP-1 secretion—providing actionable sound environment tips to reduce overeating.
+  Music above 70 dB can lower fullness hormones (GLP-1) by ~15% in adults 65+ with cognitive changes. Slower tempos near 60 BPM support digestion.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: holiday music satiety hormones seniors
+updated: '2026-03-28'
+primaryKeyword: does holiday music affect appetite in seniors 65
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

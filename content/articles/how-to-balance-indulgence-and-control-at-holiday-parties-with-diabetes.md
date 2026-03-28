@@ -1,11 +1,12 @@
 ---
-title: How to Balance Indulgence and Control at Holiday Parties with Diabetes
+title: >-
+  How to Enjoy Holiday Parties With Diabetes After 50
 slug: how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 description: >-
-  Practical strategies for enjoying festive gatherings while keeping blood sugar levels in check, especially for adults over 50 managing type 2 diabetes.
+  Holiday months can raise A1c by 0.3-0.5% in older adults with diabetes. Plate-building and medication timing (sulfonylurea safety) tips to stay steady.
 date: '2025-12-07'
-updated: '2025-12-07'
-primaryKeyword: diabetes holiday party tips
+updated: '2026-03-28'
+primaryKeyword: managing blood sugar at holiday parties with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

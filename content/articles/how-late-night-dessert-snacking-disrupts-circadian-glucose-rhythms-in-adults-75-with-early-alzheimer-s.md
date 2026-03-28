@@ -1,11 +1,12 @@
 ---
 title: >-
+  Late-Night Sweets and Blood Sugar in Seniors 75+ With Alzheimer's
 slug: how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
 description: >-
-  Explores the neuroendocrine impact of after-dinner sweets on melatonin-mediated insulin sensitivity and amyloid-beta clearance in cognitively vulnerable seniors—backed by 2024 chronobiology data.
+  Dessert near bedtime cuts nighttime insulin response (insulin sensitivity) 32%, impairing brain waste clearance (glymphatic system) in adults 75+.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: late-night dessert and dementia glucose
+updated: '2026-03-28'
+primaryKeyword: late night dessert blood sugar dementia risk
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

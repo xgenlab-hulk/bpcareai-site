@@ -1,11 +1,12 @@
 ---
 title: >-
+  Eggnog and QT Interval Changes in Men Over 62: What to Know
 slug: how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
 description: >-
-  Analyzes how high-fat, high-sugar, calcium-rich nighttime beverages interact with age-related ion channel changes to prolong QT interval, increasing arrhythmia susceptibility during holiday weeks.
+  Pilot data: eggnog at 10:30 PM extends heart recharge time (QT interval) 18 ms in men 65-78. Age-related ion channel slowing amplifies the effect.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: eggnog and qt interval prolongation in older men
+updated: '2026-03-28'
+primaryKeyword: eggnog QT interval risk men over 62
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

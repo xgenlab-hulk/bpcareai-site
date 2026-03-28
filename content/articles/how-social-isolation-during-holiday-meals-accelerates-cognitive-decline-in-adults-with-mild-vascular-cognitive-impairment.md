@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Eating Alone During Holidays Worsens Cognitive Decline After 60
 slug: how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
 description: >-
-  Explores the neurovascular impact of reduced mealtime conversation, decreased masticatory stimulation, and circadian desynchrony on white matter integrity—supported by 2024 fNIRS data.
+  Solo meals cut brain blood flow (frontal lobe oxygenation) 27% over 6 weeks per fNIRS data. Less chewing and conversation weakens white matter integrity.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: holiday isolation vascular cognitive decline
+updated: '2026-03-28'
+primaryKeyword: eating alone during holidays and cognitive decline
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

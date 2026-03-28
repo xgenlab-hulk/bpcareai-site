@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Buffet Portions and Blood Pressure Spikes After 65
 slug: how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
 description: >-
-  Explores the physiological and behavioral mechanisms linking oversized servings to acute blood pressure spikes—and how visual portion cues (like plate size and serving utensils) uniquely impact seniors’ cardiovascular stress.
+  Oversized servings raise upper blood pressure (systolic BP) 10-20 mmHg in salt-sensitive seniors. Using 9-inch vs 12-inch plates cuts self-serving by 22%.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: portion distortion hypertension seniors
+updated: '2026-03-28'
+primaryKeyword: can holiday buffet portions raise blood pressure in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

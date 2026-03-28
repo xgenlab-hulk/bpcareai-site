@@ -1,11 +1,12 @@
 ---
-title: How Staying Hydrated in Winter Protects Your Heart After 70
+title: >-
+  Why Winter Dehydration Quietly Strains Your Heart After Age 70
 slug: how-staying-hydrated-in-winter-protects-your-heart-after-70
 description: >-
-  Highlights the importance of hydration despite lower thirst cues and its impact on blood viscosity and cardiac output.
+  Thirst drops 40% in cold months while dry air causes 300-500 mL daily fluid loss. Even 2% dehydration thickens blood (plasma viscosity) 10-15% after 70.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: winter hydration heart health
+updated: '2026-03-28'
+primaryKeyword: winter dehydration and heart health after 70
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

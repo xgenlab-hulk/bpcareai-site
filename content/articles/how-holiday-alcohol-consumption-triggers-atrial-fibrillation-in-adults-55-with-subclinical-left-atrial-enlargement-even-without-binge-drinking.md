@@ -1,11 +1,12 @@
 ---
 title: >-
+  Even Moderate Holiday Drinking Can Trigger AFib After 55
 slug: how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking
 description: >-
-  Explores the electrophysiological link between moderate holiday drinking and AFib onset in older adults with early structural heart changes, using echocardiographic and Holter data.
+  68% of first irregular heartbeat episodes (atrial fibrillation) in adults 55+ hit within 72 hours of drinking. Heart chamber enlargement raises risk further.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: holiday alcohol atrial fibrillation risk
+updated: '2026-03-28'
+primaryKeyword: holiday drinking and atrial fibrillation risk after 55
 topicCluster: special-populations
 image: ''
 relatedSlugs:

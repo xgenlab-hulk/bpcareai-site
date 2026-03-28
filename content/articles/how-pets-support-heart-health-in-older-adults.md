@@ -1,11 +1,12 @@
 ---
-title: How Pets Support Heart Health in Older Adults
+title: >-
+  How Pets Help Protect Heart Health in Adults Over 50
 slug: how-pets-support-heart-health-in-older-adults
 description: >-
-  Learn how owning a pet can lower blood pressure, reduce loneliness, and improve cardiovascular outcomes.
+  Dog owners show 24% lower heart disease death risk. Petting animals triggers the bonding hormone (oxytocin) and can lower resting blood pressure by 5-10 mmHg.
 date: '2025-11-28'
-updated: '2025-11-28'
-primaryKeyword: pets and heart health in seniors
+updated: '2026-03-28'
+primaryKeyword: can pets improve heart health for older adults
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

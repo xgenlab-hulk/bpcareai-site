@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low Humidity and Morning BP Spikes: What Adults 62+ Should Know
 slug: how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
 description: >-
-  Links winter dry-air–induced sympathetic activation, nasal resistance, and impaired baroreflex sensitivity to early-AM hypertension surges—validated by controlled climate-chamber trials.
+  Humidity below 30% raises morning systolic BP 12-18 mmHg in adults 62+ with nasal sensitivity. How dry air weakens pressure control (baroreflex) and fixes.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: low humidity and morning high blood pressure
+updated: '2026-03-28'
+primaryKeyword: low humidity morning blood pressure spikes over 62
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Living Alone With Diabetes Raises Low Blood Sugar Risk After 73
 slug: how-social-isolation-alters-hippocampal-glucose-metabolism-and-increases-risk-of-hypoglycemia-unawareness-in-adults-73-living-alone-with-t2d
 description: >-
-  Links loneliness-associated neuroinflammation, FDG-PET findings, and real-world hypoglycemia detection failure—offering behavioral and tech-aided mitigation strategies for high-risk solo dwellers.
+  Isolation cuts brain sugar sensing (hippocampal glucose metabolism) by 15-20% on PET scans, weakening your low-sugar alarm in adults 73+ with type 2 diabetes.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: social isolation hippocampal glucose metabolism
+updated: '2026-03-28'
+primaryKeyword: living alone with diabetes and low blood sugar awareness
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

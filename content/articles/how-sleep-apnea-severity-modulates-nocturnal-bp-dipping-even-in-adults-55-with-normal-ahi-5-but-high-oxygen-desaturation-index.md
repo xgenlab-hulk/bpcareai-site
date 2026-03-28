@@ -1,11 +1,12 @@
 ---
 title: >-
+  When Mild Sleep Apnea Still Raises Nighttime Blood Pressure
 slug: how-sleep-apnea-severity-modulates-nocturnal-bp-dipping-even-in-adults-55-with-normal-ahi-5-but-high-oxygen-desaturation-index
 description: >-
-  Analyzes how nocturnal hypoxemia — independent of apnea count — triggers sympathetic surges and renin release, leading to nondipping patterns in 'mild' OSA patients missed by standard PSG scoring.
+  Even with few breathing pauses, frequent oxygen dips (ODI 15+) triple nondipping risk in adults 55+. Standard sleep scores miss this overnight BP driver.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: oxygen desaturation index nocturnal bp
+updated: '2026-03-28'
+primaryKeyword: oxygen desaturation index and nighttime blood pressure
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

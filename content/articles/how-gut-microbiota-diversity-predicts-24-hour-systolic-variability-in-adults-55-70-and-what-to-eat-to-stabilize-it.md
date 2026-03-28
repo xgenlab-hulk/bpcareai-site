@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Gut Bacteria Cause Blood Pressure Swings in Adults 55-70?
 slug: how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
 description: >-
-  Connects microbial SCFA production, TMAO metabolism, and vagal tone to BP lability, highlighting prebiotic timing and fermented food sequencing strategies.
+  High gut diversity cut 24-hour systolic swings (BP variability) by 22%. Beneficial bacteria produce short-chain fatty acids that steady arterial pressure.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: gut microbiome systolic blood pressure variability
+updated: '2026-03-28'
+primaryKeyword: gut bacteria and blood pressure swings throughout the day
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

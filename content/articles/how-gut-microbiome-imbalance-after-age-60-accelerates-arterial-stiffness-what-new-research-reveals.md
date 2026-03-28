@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Gut Bacteria Imbalance Stiffens Your Arteries After 60
 slug: how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
 description: >-
-  Breaks down 2023–2024 clinical studies linking dysbiosis, TMAO production, and endothelial dysfunction—and practical dietary shifts to support microbial-heart axis health.
+  High TMAO (>6.2 µmol/L) drove 34% more artery stiffening (pulse wave velocity) over 5 years. Diet-driven gut balance improvements cut stiffness in 12 weeks.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: gut microbiome and arterial stiffness aging
+updated: '2026-03-28'
+primaryKeyword: gut microbiome imbalance and arterial stiffness after 60
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

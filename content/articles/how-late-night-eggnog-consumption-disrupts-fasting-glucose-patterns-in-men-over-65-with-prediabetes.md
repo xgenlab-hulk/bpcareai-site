@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does Eggnog Raise Morning Blood Sugar? A Guide for Men 65+
 slug: how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
 description: >-
-  Explores the circadian and metabolic impact of alcohol, fat, and added sugar in traditional eggnog on overnight glucose stability—and offers safer, sensor-validated alternatives.
+  CGM data shows eggnog triggers a glucose rebound (nocturnal hyperglycemia) of 15-30 mg/dL by 3-5 AM in men 65+ with prediabetes. Safer swaps included.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: eggnog fasting glucose prediabetes
+updated: '2026-03-28'
+primaryKeyword: does eggnog raise fasting blood sugar in older men
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

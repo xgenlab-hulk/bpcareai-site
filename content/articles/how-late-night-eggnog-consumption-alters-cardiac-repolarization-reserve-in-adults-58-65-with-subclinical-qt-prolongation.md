@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Holiday Eggnog Affect Your Heart Rhythm? Ages 58-65 Guide
 slug: how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
 description: >-
-  Explores the electrophysiological impact of holiday-spiked alcohol and calcium load on ventricular repolarization stability, with ECG-based risk stratification tips for pre-arrhythmic adults.
+  Eggnog's alcohol and calcium stress the heart's electrical reset (QT interval). Adults 58-65 with borderline QTc >450 ms should limit to 4 oz before 8 PM.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: eggnog and QT prolongation risk
+updated: '2026-03-28'
+primaryKeyword: eggnog and heart rhythm risk after 58
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

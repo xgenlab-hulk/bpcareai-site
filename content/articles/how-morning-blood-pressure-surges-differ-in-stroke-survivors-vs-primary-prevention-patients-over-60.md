@@ -1,11 +1,12 @@
 ---
 title: >-
+  Morning Blood Pressure Surges After Stroke: Why They Differ Over 60
 slug: how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
 description: >-
-  Breaks down ABPM patterns—peak timing, surge magnitude, and circadian phase shift—plus tailored morning medication timing based on neurovascular autoregulation capacity.
+  Stroke survivors surge 42/24 mmHg vs. 32/18 in others, peaking 2 hours earlier. Weakened blood flow control (neurovascular autoregulation) makes med timing key.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: morning blood pressure surge stroke survivors
+updated: '2026-03-28'
+primaryKeyword: morning blood pressure surge after stroke over 60
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

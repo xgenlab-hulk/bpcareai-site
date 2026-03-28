@@ -1,11 +1,12 @@
 ---
 title: >-
+  Eating Alone During Holidays? How It Affects Gut Health After 80
 slug: how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
 description: >-
-  Connects reduced mealtime social interaction with decreased microbial SCFA production, elevated IL-6, and blunted GLP-1 response—plus simple, evidence-backed 'micro-social meal rituals' to counteract it.
+  One week of isolated meals can cut beneficial gut bacteria (microbiota diversity) by 18% in frail adults 80+. Simple shared-meal rituals help restore balance.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: holiday isolation gut microbiota inflammation seniors
+updated: '2026-03-28'
+primaryKeyword: eating alone during holidays gut health seniors 80
 topicCluster: special-populations
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Hosting Holiday Dinners Spikes Blood Sugar in Adults 55-70
 slug: how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
 description: >-
-  Explores the physiological link between emotional labor of holiday hosting, elevated cortisol, and postprandial hyperglycemia—backed by 2023 endocrinology studies on aging HPA axis response.
+  After 55, the body clears stress hormones (cortisol) 20-30% slower, raising after-meal blood sugar. How holiday hosting affects glucose and what helps.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: cortisol and blood sugar during holidays
+updated: '2026-03-28'
+primaryKeyword: holiday hosting cortisol blood sugar adults 55 to 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

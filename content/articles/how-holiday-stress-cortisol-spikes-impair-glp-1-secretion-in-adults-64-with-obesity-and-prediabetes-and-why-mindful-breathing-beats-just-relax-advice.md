@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Holiday Cortisol Spikes Blunt Blood Sugar Hormones After 64
 slug: how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
 description: >-
-  Explains the cortisol-GLP-1 axis disruption using salivary cortisol + plasma GLP-1 serial sampling data, then prescribes diaphragmatic breathing protocols timed to post-stress glucose peaks.
+  Holiday stress raises cortisol 28%, suppressing fullness signals (GLP-1) by 32-40% in adults 64+ with prediabetes. Timed breathing outperforms generic advice.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: stress cortisol glp-1 secretion holiday
+updated: '2026-03-28'
+primaryKeyword: holiday stress cortisol and blood sugar hormones after 64
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

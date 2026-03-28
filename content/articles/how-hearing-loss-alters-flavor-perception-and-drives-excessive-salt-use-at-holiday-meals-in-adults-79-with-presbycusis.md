@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Hearing Loss Makes You Add More Salt at Holiday Meals
 slug: how-hearing-loss-alters-flavor-perception-and-drives-excessive-salt-use-at-holiday-meals-in-adults-79-with-presbycusis
 description: >-
-  Links auditory-cognitive load to diminished taste bud sensitivity, showing how reduced sound input lowers perceived umami/sweetness—leading to compensatory sodium overuse and hypertension risk.
+  Adults 75+ with hearing loss used 23% more table salt at holidays. Fading hearing makes your brain misread flavor (cross-modal perception), driving salt use.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: hearing loss salt use holiday meals
+updated: '2026-03-28'
+primaryKeyword: hearing loss and adding too much salt at holiday meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

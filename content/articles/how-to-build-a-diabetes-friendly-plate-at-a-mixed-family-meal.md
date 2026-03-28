@@ -1,11 +1,12 @@
 ---
-title: How to Build a Diabetes-Friendly Plate at a Mixed Family Meal
+title: >-
+  Build a Diabetes-Friendly Plate at Any Family Holiday Meal
 slug: how-to-build-a-diabetes-friendly-plate-at-a-mixed-family-meal
 description: >-
-  Guides individuals with diabetes through constructing balanced plates when dining with non-diabetic relatives during holidays.
+  Half veggies, quarter protein, quarter smart carbs: the plate method keeps after-meal blood sugar (postprandial glucose) stable at family holiday dinners.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: diabetes-friendly plate strategy
+updated: '2026-03-28'
+primaryKeyword: diabetes plate method family holiday meals
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Hearing Aids Help Stabilize Blood Pressure in Adults Over 74?
 slug: how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
 description: >-
-  Examines longitudinal data on auditory-cognitive load reduction, social re-engagement, and its downstream effect on chronic sympathetic activation.
+  Seniors 74-86 wearing aids 6+ hrs/day saw 3-5 mmHg slower systolic rise over 3 years. Less hearing strain lowers stress hormones (sympathetic activation).
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: hearing aid systolic bp trajectory hearing loss
+updated: '2026-03-28'
+primaryKeyword: do hearing aids help lower blood pressure in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

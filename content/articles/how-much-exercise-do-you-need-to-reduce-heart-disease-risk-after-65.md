@@ -1,11 +1,12 @@
 ---
-title: How Much Exercise Do You Need to Reduce Heart Disease Risk After 65?
+title: >-
+  How Much Exercise Prevents Heart Disease After 65? Less Than You Think
 slug: how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
 description: >-
-  Find out the minimum effective amount of physical activity to protect your heart as you age, backed by recent studies.
+  150 min/week of brisk walking cuts cardiac events 27% in adults 65+. Even 75 min/week lowers risk 15%. Steady moderate movement (aerobic activity) is key.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: exercise to prevent heart disease after 65
+updated: '2026-03-28'
+primaryKeyword: how much exercise to prevent heart disease after 65
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Group Meals and Blood Sugar for Adults With Mild MCI
 slug: how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
 description: >-
-  Examines how auditory distraction, multitasking, and time perception changes affect portion estimation, chewing pace, and satiety signaling during group meals.
+  Noise and conversation delay fullness signals (satiety cues) by 22-35% in adults with mild cognitive impairment. Time-in-range drops 15-20% at group meals.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: social eating glycemic awareness mci
+updated: '2026-03-28'
+primaryKeyword: group meals and blood sugar awareness with MCI
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

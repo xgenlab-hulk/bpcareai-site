@@ -1,11 +1,12 @@
 ---
-title: How Morning Blood Pressure Spikes Affect Your Heart
+title: >-
+  Why Blood Pressure Spikes in the Morning and How It Harms Your Heart
 slug: how-morning-blood-pressure-spikes-affect-your-heart
 description: >-
-  Learn why blood pressure often rises in the morning and how this impacts cardiovascular health, especially for people over 50.
+  A morning surge above 25 mmHg raises heart attack risk. 30% of adults 50+ have hidden spikes (masked hypertension) that clinic visits miss.
 date: '2025-12-06'
-updated: '2025-12-06'
-primaryKeyword: morning blood pressure spike causes
+updated: '2026-03-28'
+primaryKeyword: why blood pressure spikes in the morning
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

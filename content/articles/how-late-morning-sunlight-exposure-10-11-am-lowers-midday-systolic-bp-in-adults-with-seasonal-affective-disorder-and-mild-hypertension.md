@@ -1,11 +1,12 @@
 ---
 title: >-
+  Morning Sunlight at 10-11 AM May Lower Midday BP by 6-8 mmHg
 slug: how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
 description: >-
-  Explores melanopsin-mediated NO release, cortisol rhythm stabilization, and reduced sympathetic tone—based on randomized UV-filtered vs. full-spectrum light exposure trials.
+  15-20 min of morning light triggers vessel relaxation (endothelial NO release), cutting sympathetic tone 12-18% and systolic BP 6-8 mmHg at noon.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: morning sunlight and midday blood pressure
+updated: '2026-03-28'
+primaryKeyword: morning sunlight to lower blood pressure naturally
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

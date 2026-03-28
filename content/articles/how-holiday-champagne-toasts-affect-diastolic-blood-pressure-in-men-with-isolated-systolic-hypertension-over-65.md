@@ -1,11 +1,12 @@
 ---
 title: >-
+  How One Glass of Champagne Affects Blood Pressure in Men Over 65
 slug: how-holiday-champagne-toasts-affect-diastolic-blood-pressure-in-men-with-isolated-systolic-hypertension-over-65
 description: >-
-  Analyzes acute alcohol-induced vasodilation vs. rebound vasoconstriction—and why even one 4-oz glass can destabilize diastolic readings, worsen dizziness, and impair nocturnal BP dipping in aging vasculature.
+  Diastolic BP can rebound 8-12 mmHg within 4 hours of one 4-oz glass. Stiff arteries (isolated systolic hypertension) amplify this rebound in men 65+.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: champagne diastolic blood pressure seniors
+updated: '2026-03-28'
+primaryKeyword: how champagne affects blood pressure in older men
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

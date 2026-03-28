@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Late-Night Eggnog Disrupts Overnight Blood Sugar After 67
 slug: how-late-night-eggnog-consumption-alters-circadian-insulin-secretion-patterns-in-adults-67-with-long-standing-type-2-diabetes
 description: >-
-  Examines the chronobiological disruption caused by high-fat, high-sugar nocturnal beverages — including effects on beta-cell pulsatility, melatonin-glucose crosstalk, and next-morning fasting hyperglycemia.
+  After 10 PM, insulin output (beta-cell pulsatility) drops 30%. One eggnog delays glucose clearance 2-3 hrs, spiking fasting sugar 45-65 mg/dL in T2D adults.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: late-night eggnog and insulin secretion
+updated: '2026-03-28'
+primaryKeyword: late night eggnog blood sugar type 2 diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

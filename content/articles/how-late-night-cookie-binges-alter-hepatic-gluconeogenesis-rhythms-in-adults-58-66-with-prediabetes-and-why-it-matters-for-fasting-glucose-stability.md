@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Late-Night Cookies Raise Morning Blood Sugar by 18 mg/dL
 slug: how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
 description: >-
-  Examines circadian disruption of PEPCK and G6Pase expression due to nocturnal carb intake, backed by human liver biopsy data and 72-hour CGM patterns in prediabetic adults during December.
+  One cookie after 10 PM boosts liver sugar output (hepatic gluconeogenesis) 37%. In 42 prediabetic adults 58-66, fasting glucose averaged 109 vs 96 mg/dL.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: late-night eating and fasting glucose
+updated: '2026-03-28'
+primaryKeyword: late night eating raises fasting glucose prediabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

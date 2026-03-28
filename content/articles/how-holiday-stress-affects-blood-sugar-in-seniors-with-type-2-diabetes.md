@@ -1,11 +1,12 @@
 ---
-title: How Holiday Stress Affects Blood Sugar in Seniors with Type 2 Diabetes
+title: >-
+  How Holiday Stress Raises Blood Sugar in Seniors With Type 2 Diabetes
 slug: how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
 description: >-
-  Learn how emotional stress from family gatherings and routines changes impact glucose levels—and what to do about it.
+  Family gathering stress raises alertness hormones (cortisol), pushing fasting glucose up 20-50 mg/dL in seniors with type 2 diabetes. Practical tips inside.
 date: '2025-12-03'
-updated: '2025-12-03'
-primaryKeyword: holiday stress blood sugar seniors
+updated: '2026-03-28'
+primaryKeyword: holiday stress and blood sugar in seniors with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

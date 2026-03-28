@@ -1,11 +1,12 @@
 ---
-title: How Sleep Apnea Impacts Type 2 Diabetes Control After 50
+title: >-
+  Sleep Apnea and Diabetes After 50: A Two-Way Problem
 slug: how-sleep-apnea-impacts-type-2-diabetes-control-after-50
 description: >-
-  Explore the bidirectional relationship between poor sleep and insulin resistance in midlife and beyond.
+  Up to 80% of adults with type 2 diabetes also have breathing pauses at night (obstructive sleep apnea). Untreated oxygen dips raise sugar resistance by 30%.
 date: '2025-12-24'
-updated: '2025-12-24'
-primaryKeyword: sleep apnea and type 2 diabetes in older adults
+updated: '2026-03-28'
+primaryKeyword: does sleep apnea make diabetes worse after 50
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

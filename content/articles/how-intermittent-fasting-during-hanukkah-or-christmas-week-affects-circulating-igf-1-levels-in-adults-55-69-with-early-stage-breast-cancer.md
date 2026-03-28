@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Fasting and IGF-1: What Cancer Survivors 55-69 Should Know
 slug: how-intermittent-fasting-during-hanukkah-or-christmas-week-affects-circulating-igf-1-levels-in-adults-55-69-with-early-stage-breast-cancer
 description: >-
-  Reviews emerging oncology-nutrition data on how shortened feeding windows during multi-day religious celebrations influence growth factor signaling in hormone-receptor-positive survivors on aromatase inhibitors.
+  Multi-day holiday fasting may lower growth signals (IGF-1) 10-20% in adults 55-69 on aromatase inhibitors. What oncology data shows and when to ask your doctor.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: intermittent fasting holiday igf-1 breast cancer
+updated: '2026-03-28'
+primaryKeyword: holiday fasting IGF-1 breast cancer survivors 55-69
 topicCluster: special-populations
 image: ''
 relatedSlugs:

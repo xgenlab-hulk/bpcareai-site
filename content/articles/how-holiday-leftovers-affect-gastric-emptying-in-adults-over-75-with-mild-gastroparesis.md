@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Leftovers and Gastroparesis: What Seniors 75+ Need to Know
 slug: how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
 description: >-
-  Explores delayed stomach emptying triggered by high-fat, cold, or reheated holiday foods—and practical modifications to prevent post-meal nausea, bloating, and glucose volatility in frail seniors.
+  High-fat reheated holiday foods can slow stomach emptying (gastric motility) by 40-60% in adults 75+. Learn which textures and temperatures to adjust.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: holiday leftovers gastroparesis seniors
+updated: '2026-03-28'
+primaryKeyword: holiday leftovers and gastroparesis in seniors over 75
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

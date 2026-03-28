@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Living Alone After 63 Thickens Carotid Arteries and Raises BP
 slug: how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79
 description: >-
-  Connects loneliness biomarkers (cortisol, IL-6) to structural arterial changes, using longitudinal ultrasound data and validated social network indices.
+  Loneliness raises stress hormones, thickening artery walls (carotid intima-media thickness) 22% faster. Each 0.1mm predicts a 4.3 mmHg systolic rise in 2 years.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: social isolation carotid thickness blood pressure
+updated: '2026-03-28'
+primaryKeyword: social isolation and carotid artery thickening after 63
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How to Enjoy Alcohol Safely During Holidays Without Triggering Heart Issues
+title: >-
+  How to Drink Safely During Holidays Without Heart Risks
 slug: how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
 description: >-
-  Provide science-backed guidelines on moderate drinking limits and safer choices for those concerned about cardiac arrhythmias.
+  Even one binge episode can trigger irregular heartbeat (atrial fibrillation) after 50. Science-backed limits and safer drink choices for holiday gatherings.
 date: '2025-11-29'
-updated: '2025-11-29'
-primaryKeyword: safe alcohol holiday heart
+updated: '2026-03-28'
+primaryKeyword: safe holiday drinking heart rhythm adults over 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

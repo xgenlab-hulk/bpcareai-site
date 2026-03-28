@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Men Over 75 Living Alone See Blood Pressure Rise 7-11 mmHg
 slug: how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
 description: >-
-  Reviews longitudinal data linking loneliness, reduced vagal modulation, and elevated central sympathetic outflow—especially in widowed, non-digital-native males with hearing loss.
+  Widowed men over 75 show 18-23% lower pressure-sensing reflex (baroreflex sensitivity), keeping systolic BP elevated 7-11 mmHg daily.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: social isolation and blood pressure elderly men
+updated: '2026-03-28'
+primaryKeyword: social isolation blood pressure in men over 75
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

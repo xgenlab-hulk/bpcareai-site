@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Late-Night TV Raises Morning Blood Sugar in Men Over 72
 slug: how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 description: >-
-  Explains how blue-enriched screen light suppresses nocturnal melatonin, blunting nocturnal insulin sensitivity—and why this effect is magnified in aging retinal ganglion cells.
+  Blue screen light after 9 PM delays the sleep hormone (melatonin) 90 min, cutting overnight sugar processing (insulin sensitivity) 15-20% in men 72+.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: late-night TV dawn phenomenon diabetes
+updated: '2026-03-28'
+primaryKeyword: late-night TV and dawn blood sugar in men over 72
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

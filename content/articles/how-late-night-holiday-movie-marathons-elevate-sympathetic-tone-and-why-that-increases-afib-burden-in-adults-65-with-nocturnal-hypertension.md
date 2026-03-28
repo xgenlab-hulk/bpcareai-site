@@ -1,11 +1,12 @@
 ---
 title: >-
+  Late-Night Movie Marathons and AFib Risk After 65
 slug: how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension
 description: >-
-  Links blue-light exposure, supine posture, and delayed melatonin onset to sustained norepinephrine elevation—and demonstrates how this creates a pro-arrhythmic milieu overnight.
+  Screen light after 10 PM delays the sleep hormone (melatonin) 1.5 hours and raises stress chemicals 28%, fueling irregular heartbeat (AFib) overnight.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: late-night movies sympathetic tone afib
+updated: '2026-03-28'
+primaryKeyword: do late-night movies increase afib risk after 65
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

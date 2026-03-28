@@ -1,11 +1,12 @@
 ---
-title: How to Eat Mindfully at Buffets Without Spiking Blood Sugar
+title: >-
+  Mindful Eating at Holiday Buffets: Keep Blood Sugar Steady
 slug: how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
 description: >-
-  Techniques for navigating all-you-can-eat holiday spreads while staying within carb limits and avoiding overeating triggers.
+  Slowing down at meals cuts after-eating sugar spikes (postprandial glucose) by up to 20%. Practical buffet strategies for adults over 50 managing diabetes.
 date: '2025-11-29'
-updated: '2025-11-29'
-primaryKeyword: mindful eating at holiday buffets
+updated: '2026-03-28'
+primaryKeyword: mindful eating buffet blood sugar control
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

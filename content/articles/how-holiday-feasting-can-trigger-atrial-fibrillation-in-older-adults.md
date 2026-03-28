@@ -1,11 +1,12 @@
 ---
-title: How Holiday Feasting Can Trigger Atrial Fibrillation in Older Adults
+title: >-
+  How Big Holiday Meals Can Trigger Irregular Heartbeat After 55
 slug: how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 description: >-
-  Explores how large, rich holiday meals contribute to arrhythmias in people over 55, especially those with underlying heart risks.
+  Rich holiday meals raise AFib risk 20-40% within 36 hours via sodium overload. Up to 30% of irregular heartbeat episodes (atrial fibrillation) go unnoticed.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: holiday feasting and atrial fibrillation
+updated: '2026-03-28'
+primaryKeyword: holiday meals and atrial fibrillation risk in seniors
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

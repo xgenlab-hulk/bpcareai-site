@@ -1,11 +1,12 @@
 ---
-title: How Social Isolation Impacts Heart Disease Risk in Older Adults
+title: >-
+  How Social Isolation Raises Heart Disease Risk by 29% in Seniors
 slug: how-social-isolation-impacts-heart-disease-risk-in-older-adults
 description: >-
-  Learn how loneliness and lack of social connections can negatively affect cardiovascular health.
+  Isolated seniors face 29% higher coronary heart disease and 32% greater stroke risk. Chronic loneliness raises stress hormones (cortisol), stiffening arteries.
 date: '2025-11-29'
-updated: '2025-11-29'
-primaryKeyword: social isolation and heart disease in seniors
+updated: '2026-03-28'
+primaryKeyword: social isolation and heart disease risk in seniors
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How Social Isolation Increases Heart Disease Risk After 60
+title: >-
+  How Loneliness After 60 Raises Your Heart Disease Risk Significantly
 slug: how-social-isolation-increases-heart-disease-risk-after-60
 description: >-
-  Understand the powerful link between loneliness and increased chances of heart problems in later life.
+  Isolated adults over 60 face 29% higher heart disease and 32% greater stroke risk. Elevated stress hormones (cortisol) stiffen arteries and raise BP silently.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: social isolation and heart disease risk after 60
+updated: '2026-03-28'
+primaryKeyword: loneliness and heart disease risk after 60
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

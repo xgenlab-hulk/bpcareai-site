@@ -1,11 +1,12 @@
 ---
 title: >-
+  Intermittent Fasting and Heart Cell Energy: 16-Week Prediabetes Data
 slug: how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
 description: >-
-  Examines changes in plasma acylcarnitines, citrate synthase activity, and mtDNA copy number in skeletal muscle biopsies—linking time-restricted eating to intrinsic cardiac energetics in early metabolic dysregulation.
+  An 8-hour eating window boosted cell power plants (mitochondrial biogenesis) 22% in adults 55-61 with prediabetes over 16 weeks, independent of weight loss.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: intermittent fasting mitochondrial biogenesis prediabetes
+updated: '2026-03-28'
+primaryKeyword: intermittent fasting heart cell energy prediabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Seasonal Air Pollution and Angina Flare-Ups After 59
 slug: how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina
 description: >-
-  Analyzes real-world ECG monitoring data showing seasonal PM2.5 exposure correlates with increased ST-segment depression variability and plaque destabilization biomarkers.
+  PM2.5 above 12 ug/m3 for 3+ days raises heart tracing changes (ST-segment variability) 17-22% in adults 59+ with angina. Seasonal tracking helps prevent flares.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: air pollution and angina stability seasonal
+updated: '2026-03-28'
+primaryKeyword: can seasonal air pollution worsen angina after 59
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

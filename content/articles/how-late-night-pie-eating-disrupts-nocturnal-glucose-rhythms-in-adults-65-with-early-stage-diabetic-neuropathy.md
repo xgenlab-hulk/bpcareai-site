@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Late-Night Pie Spikes Blood Sugar With Diabetic Neuropathy
 slug: how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
 description: >-
-  Explores the circadian and autonomic mechanisms linking post-dinner dessert consumption to impaired overnight glycemic control—and why timing matters more than sugar content alone.
+  After 65, sugar processing (insulin sensitivity) drops 25% at night. Pie before bed raises fasting glucose 30-40% and worsens nerve tingling overnight.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: late-night pie eating glucose rhythms seniors
+updated: '2026-03-28'
+primaryKeyword: late-night dessert and blood sugar with neuropathy
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

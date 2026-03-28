@@ -1,11 +1,12 @@
 ---
-title: How Menopause Affects Blood Sugar Control in Women with Diabetes
+title: >-
+  How Menopause Changes Blood Sugar Control When You Have Diabetes
 slug: how-menopause-affects-blood-sugar-control-in-women-with-diabetes
 description: >-
-  Learn how hormonal shifts during and after menopause impact glucose levels and diabetes management.
+  Falling estrogen cuts insulin sensitivity, causing unpredictable glucose swings (glycemic variability) for years. Poor sleep raises fasting glucose 10-20 mg/dL.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: menopause and blood sugar fluctuations in women with diabetes
+updated: '2026-03-28'
+primaryKeyword: menopause blood sugar changes with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
