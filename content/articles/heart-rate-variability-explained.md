@@ -1,11 +1,12 @@
 ---
-title: 'Heart Rate Variability: What It Tells You'
+title: >-
+  Heart Rate Variability Explained: What the Gaps Between Beats Reveal
 slug: heart-rate-variability-explained
 description: >-
-  Learn how HRV reflects your stress levels and overall cardiovascular health, and why the variation between heartbeats matters more than you think.
+  Your heartbeat timing gaps (heart rate variability) reveal stress resilience. At 60 bpm, intervals vary 0.9-1.1 sec -- higher variation means healthier.
 date: '2024-11-10'
-updated: '2024-11-10'
-primaryKeyword: heart rate variability
+updated: '2026-03-28'
+primaryKeyword: what does heart rate variability tell you
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Stabilize Pulse Pressure Without Dizziness After 76
 slug: 10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis
 description: >-
-  Features foods rich in specific polyphenols, nitrates, and magnesium isoforms that improve arterial elasticity and ventricular-arterial coupling—without triggering hypotension in fragile older adults.
+  Foods with polyphenols and nitrates that narrow the gap between top and bottom BP numbers (pulse pressure) without causing lightheadedness in adults 76+.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: foods stabilize pulse pressure seniors orthostasis
+updated: '2026-03-28'
+primaryKeyword: foods to stabilize pulse pressure without dizziness
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

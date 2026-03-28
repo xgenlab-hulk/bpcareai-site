@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Healthy Holiday Sides Still Pack 420mg+ Sodium Per Serving
 slug: 7-hidden-sodium-traps-in-healthy-holiday-side-dishes-why-roasted-sweet-potatoes-quinoa-salad-and-herb-infused-gravy-often-contain-420-mg-per-serving-for-adults-72-with-stage-2-hypertension
 description: >-
-  Identifies unexpected high-sodium ingredients in seemingly low-salt dishes, with label-reading tips and low-sodium swaps validated by renal dietitian guidelines.
+  Seniors 72+ saw 12-15 mmHg systolic spikes from one salty side. Learn to spot hidden sodium in holiday favorites (sodium-based preservatives) and swap safely.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: hidden sodium holiday side dishes
+updated: '2026-03-28'
+primaryKeyword: hidden sodium in holiday side dishes for seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

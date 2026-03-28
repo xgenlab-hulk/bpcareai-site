@@ -1,11 +1,12 @@
 ---
-title: Foot Care Basics Every Senior with Diabetes Should Know
+title: >-
+  Daily Foot Care for Seniors With Diabetes: What Really Helps
 slug: foot-care-basics-every-senior-with-diabetes-should-know
 description: >-
-  Prevent serious complications with daily foot care routines tailored for those with nerve damage.
+  85% of diabetes-related amputations start with a small wound. Daily checks for nerve damage signs (peripheral neuropathy) protect your feet after 60.
 date: '2025-12-03'
-updated: '2025-12-03'
-primaryKeyword: diabetic foot care for seniors
+updated: '2026-03-28'
+primaryKeyword: daily diabetic foot care tips for seniors over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

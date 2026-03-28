@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can a Heated Massage Pillow Lower Morning Blood Pressure at 59-65?
 slug: does-daily-use-of-a-heated-massage-pillow-on-the-upper-trapezius-reduce-morning-systolic-surges-in-adults-59-65-with-chronic-tension-headaches-and-mild-anxiety
 description: >-
-  Reviews RCT evidence on thermal myofascial release, vagal tone modulation, and morning cortisol-BP coupling — with safety caveats for those on anticoagulants or with cervical spondylosis.
+  An 8-week RCT showed a 5.2 mmHg morning systolic drop from heated neck massage. Warmth calms the fight-or-flight response (sympathetic overdrive).
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: heated massage pillow and morning blood pressure
+updated: '2026-03-28'
+primaryKeyword: heated massage pillow for morning blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

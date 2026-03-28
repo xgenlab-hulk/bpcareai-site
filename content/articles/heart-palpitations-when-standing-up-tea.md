@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why You Feel Heart Palpitations When Standing Up to Pour Tea
 slug: what-causes-heart-palpitations-only-when-you-stand-up-to-pour-tea-the-role-of-postural-catecholamine-surges-and-left-atrial-stretch-in-adults-68-with-preserved-ejection-fraction
 description: >-
-  Explores a highly specific, under-recognized trigger for transient palpitations in older adults—linking orthostatic physiology, atrial mechanics, and daily ritual timing—without overt arrhythmia or orthostatic hypotension.
+  That fluttery heartbeat when rising often reflects a brief adrenaline surge (postural catecholamine release), not arrhythmia. Why adults 68+ notice it most.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: heart palpitations when standing up tea
+updated: '2026-03-28'
+primaryKeyword: heart palpitations when standing up to pour tea
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

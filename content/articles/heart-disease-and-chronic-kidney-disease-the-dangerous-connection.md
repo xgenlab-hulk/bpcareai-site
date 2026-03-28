@@ -1,11 +1,12 @@
 ---
-title: 'Heart Disease and Chronic Kidney Disease: The Dangerous Connection'
+title: >-
+  The Hidden Link Between Kidney Disease and Heart Disease After 50
 slug: heart-disease-and-chronic-kidney-disease-the-dangerous-connection
 description: >-
-  Discover how kidney function decline increases cardiovascular risk in adults over 50.
+  Even moderate kidney decline raises heart risk (cardiovascular events) by 50%. Learn how filtering rate (eGFR) and artery stiffness connect for adults over 50.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: chronic kidney disease and heart disease link
+updated: '2026-03-28'
+primaryKeyword: kidney disease and heart disease risk after 50
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

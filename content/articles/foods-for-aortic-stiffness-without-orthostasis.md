@@ -1,11 +1,12 @@
 ---
 title: >-
+  Foods That Ease Artery Stiffness Without Triggering Dizziness After 64
 slug: 12-foods-that-reduce-aortic-pulse-wave-velocity-without-lowering-diastolic-pressure-excessively-for-adults-64-with-isolated-systolic-hypertension-and-orthostatic-tendency
 description: >-
-  Highlights nutrient-dense, low-sodium, high-potassium-magnesium foods that improve central arterial compliance while preserving perfusion pressure in frail older adults.
+  For adults 64+ with high top-number pressure (isolated systolic hypertension), these foods lower artery stiffness (pulse wave velocity) without unsafe BP drops.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: foods for aortic stiffness without orthostasis
+updated: '2026-03-28'
+primaryKeyword: foods for stiff arteries without causing dizziness
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

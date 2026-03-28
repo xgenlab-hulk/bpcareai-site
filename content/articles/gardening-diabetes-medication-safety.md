@@ -1,11 +1,12 @@
 ---
 title: >-
+  Gardening With Diabetes After 60? 12 Medication Safety Tips
 slug: 12-medication-adjustments-you-should-discuss-with-your-pharmacist-before-starting-a-community-garden-especially-if-you-re-60-with-diabetes-peripheral-neuropathy-and-topical-nsaid-use
 description: >-
-  Covers plant-specific herb–drug interactions (e.g., rosemary + warfarin), sun-sensitizing effects of sulfonylureas + garden chemicals, and foot-safety modifications for neuropathic gardeners.
+  Over 60 with diabetes? Sun-sensitivity drugs (sulfonylureas) boost burn risk 40% while gardening. Plus herb-drug and nerve damage (neuropathy) safety tips.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: gardening diabetes medication safety
+updated: '2026-03-28'
+primaryKeyword: gardening safely with diabetes medications over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: Heart Disease Warning Signs That Appear Years in Advance
+title: >-
+  Heart Disease Warning Signs That Show Up Years Before a Diagnosis
 slug: heart-disease-warning-signs-that-appear-years-in-advance
 description: >-
-  Identify subtle early indicators—like fatigue, swelling, or shortness of breath—that may signal future heart issues.
+  Up to 80% of heart disease is preventable. Learn how subtle cues like leg swelling (peripheral edema) and fatigue signal hidden risk after 50.
 date: '2025-11-28'
-updated: '2025-11-28'
-primaryKeyword: early warning signs of heart disease years in advance
+updated: '2026-03-28'
+primaryKeyword: early signs of heart disease before symptoms appear
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

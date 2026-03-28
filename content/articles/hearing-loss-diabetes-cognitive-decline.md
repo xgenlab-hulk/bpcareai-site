@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Untreated Hearing Loss Speeds Up Cognitive Decline With Diabetes
 slug: how-untreated-hearing-loss-alters-cortical-glucose-utilization-patterns-and-why-that-accelerates-cognitive-decline-in-adults-65-with-diabetes-and-mild-mci
 description: >-
-  Connects auditory deprivation to default mode network hypermetabolism and hippocampal hypometabolism via FDG-PET data—showing how hearing aid use within 6 months of diagnosis preserves glycemic-cognitive coupling.
+  Hearing loss drops brain fuel use (hippocampal glucose uptake) by 18% in adults 65+ with diabetes, doubling cognitive decline speed. Early hearing aids help.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: hearing-loss diabetes cognitive decline
+updated: '2026-03-28'
+primaryKeyword: hearing loss and diabetes cognitive decline risk
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

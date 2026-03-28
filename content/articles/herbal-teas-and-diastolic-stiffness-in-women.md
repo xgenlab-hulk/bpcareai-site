@@ -1,11 +1,12 @@
 ---
 title: >-
+  Are Herbal Teas Stiffening Your Arteries? What Women 65+ Should Know
 slug: the-truth-about-blood-pressure-friendly-herbal-teas-marketed-to-women-over-65-why-84-contain-vasopressin-mimetic-alkaloids-that-worsen-diastolic-stiffness
 description: >-
-  Tests common chamomile, hibiscus, and ginger-based teas for unintended hormonal and vascular smooth muscle activity in postmenopausal women with early arterial stiffness.
+  84% of herbal teas contain vessel-tightening compounds (vasopressin-mimetic alkaloids) that may worsen heart relaxation in women 65+ with artery stiffness.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: herbal teas and diastolic stiffness in women
+updated: '2026-03-28'
+primaryKeyword: do herbal teas worsen diastolic stiffness in women
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

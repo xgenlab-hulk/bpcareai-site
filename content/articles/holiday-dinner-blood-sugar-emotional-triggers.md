@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Stress at Holiday Dinners Spikes Your Blood Sugar After 64
 slug: why-your-blood-sugar-spikes-higher-after-a-holiday-dinner-at-your-daughter-s-house-the-role-of-emotional-eating-triggers-and-cortisol-enhanced-gluconeogenesis-in-adults-64
 description: >-
-  Examines intergenerational stress dynamics, ambient kitchen cues, and neuroendocrine amplification of glucose production during emotionally charged family meals.
+  After 64, your stress hormone (cortisol) runs 20-30% higher, telling your liver to release extra sugar. Learn how family tension drives holiday glucose spikes.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: holiday dinner blood sugar emotional triggers
+updated: '2026-03-28'
+primaryKeyword: holiday dinner stress and blood sugar spikes
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

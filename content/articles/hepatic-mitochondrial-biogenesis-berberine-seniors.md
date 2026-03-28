@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Berberine Supports Liver Cell Energy in Seniors With NAFLD
 slug: natural-ways-to-support-hepatic-mitochondrial-biogenesis-without-activating-mtor-using-berberine-urolithin-a-in-adults-65-with-nafld-and-type-2-diabetes
 description: >-
-  Details synergistic PGC-1α activation via AMPK and TFAM upregulation, with emphasis on avoiding mTOR-driven fibrogenesis — including dosing windows, gut microbiome prerequisites, and ALT/AST monitoring schedules.
+  Berberine activates liver cell renewal (AMPK-PGC-1alpha axis) in seniors 65+ with fatty liver and type 2 diabetes -- without triggering mTOR-driven scarring.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: hepatic mitochondrial biogenesis berberine seniors
+updated: '2026-03-28'
+primaryKeyword: berberine for liver health seniors with fatty liver
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

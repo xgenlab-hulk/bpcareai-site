@@ -1,11 +1,12 @@
 ---
-title: 'Heart Disease and Erectile Dysfunction: What Men Should Know'
+title: >-
+  Is ED a Warning Sign of Heart Disease? What Men Over 50 Should Know
 slug: heart-disease-and-erectile-dysfunction-what-men-should-know
 description: >-
-  Explore how ED can be an early warning sign of blocked arteries and cardiovascular disease.
+  Erection problems (erectile dysfunction) can signal clogged arteries 2-5 years before a heart attack. Men with ED face 50% higher cardiovascular risk after 50.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: erectile dysfunction as sign of heart disease
+updated: '2026-03-28'
+primaryKeyword: erectile dysfunction and heart disease in men over 50
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

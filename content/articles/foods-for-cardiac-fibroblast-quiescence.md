@@ -1,11 +1,12 @@
 ---
 title: >-
+  5 Foods That Support Heart Flexibility After 70 Without Weakening It
 slug: 5-foods-that-support-cardiac-fibroblast-quiescence-without-suppressing-collagen-turnover-for-adults-70-with-early-diastolic-dysfunction-and-normal-troponin
 description: >-
-  Highlights nutrient compounds (e.g., luteolin, epigallocatechin-3-gallate, taurine) that modulate TGF-β1 signaling and LOXL2 activity to prevent maladaptive fibrosis while preserving structural integrity.
+  When echo shows early filling problems (E/e' ratio 8-12) but normal troponin, these 5 foods quiet overactive repair cells (cardiac fibroblasts) safely.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: foods for cardiac fibroblast quiescence
+updated: '2026-03-28'
+primaryKeyword: heart-protective foods for early stiffness after 70
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

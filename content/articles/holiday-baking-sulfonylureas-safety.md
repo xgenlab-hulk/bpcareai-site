@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Baking on Sulfonylureas: How to Avoid Low Blood Sugar
 slug: the-complete-guide-to-safe-holiday-baking-with-sulfonylureas-avoiding-hypoglycemia-triggers-from-leavening-agents-yeast-fermentation-byproducts-and-oven-heat-stress
 description: >-
-  Covers how baking soda/powder pH shifts affect sulfonylurea binding, yeast ethanol metabolism interactions, and heat-induced insulin sensitivity changes — with substitution charts and timed-baking safety windows.
+  Oven heat raises sugar uptake 15-20% in adults on diabetes pills (sulfonylureas). Baking after meals and testing hourly cuts low blood sugar risk after 50.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: holiday baking sulfonylureas safety
+updated: '2026-03-28'
+primaryKeyword: safe holiday baking on sulfonylureas
 topicCluster: special-populations
 image: ''
 relatedSlugs:

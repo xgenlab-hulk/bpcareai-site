@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Meals Hide Sodium That Worsens Insulin Resistance After 55
 slug: 12-hidden-sources-of-sodium-in-holiday-meals-that-worsen-insulin-resistance-especially-for-adults-55-64-with-stage-1-hypertension-and-newly-diagnosed-diabetes
 description: >-
-  Identifies non-obvious sodium vectors: turkey brine residues, canned broth additives, baking powder in gluten-free pies, and smoked cheese rinds — with sodium-to-insulin-resistance correlation data from NHANES subanalysis.
+  Adults 55-64 eating over 3,000mg sodium daily face 27% higher insulin resistance. Hidden salt in turkey broth (sodium phosphate) is a key culprit.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: hidden sodium holiday meals insulin resistance
+updated: '2026-03-28'
+primaryKeyword: hidden sodium in holiday meals and insulin resistance
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Foods That Lower Central BP and Protect Brain Flow After 66
 slug: 10-foods-that-lower-central-systolic-pressure-while-supporting-cognitive-blood-flow-for-adults-66-with-white-matter-hyperintensities-and-mild-hypertension
 description: >-
-  Features brain-perfusion–optimized foods that reduce central aortic load without compromising cerebral autoregulation in early cerebral small vessel disease.
+  10 foods that ease pressure on your main artery (central aortic pressure) while keeping brain blood flow steady — data from adults 66+ with hypertension.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: foods for central bp and cognitive blood flow
+updated: '2026-03-28'
+primaryKeyword: foods that lower central blood pressure and help brain flow
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: Heart-Friendly Winter Fruits That Boost Immunity and Arterial Health
+title: >-
+  Winter Fruits That Protect Your Heart and Boost Immunity After 50
 slug: heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health
 description: >-
-  Features citrus, pomegranate, and apples as seasonal fruits rich in flavonoids and fiber beneficial for heart and immune support.
+  Systolic BP rises 3-5 mmHg in cold months. Citrus and pomegranate deliver vessel-relaxing compounds (flavonoids) that support arterial health all winter.
 date: '2025-12-09'
-updated: '2025-12-09'
-primaryKeyword: winter fruits heart health
+updated: '2026-03-28'
+primaryKeyword: winter fruits that support heart health after 50
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

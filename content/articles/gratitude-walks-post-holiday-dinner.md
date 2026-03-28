@@ -1,11 +1,12 @@
 ---
 title: >-
+  10-Min Gratitude Walk After Dinner Cuts Inflammation 27%
 slug: what-research-says-about-10-minute-gratitude-walks-after-holiday-dinners-effects-on-postprandial-inflammatory-cytokines-and-glucose-variability-in-adults-64-with-elevated-hs-crp
 description: >-
-  Reviews a 2024 randomized crossover trial showing how brief mindful walking combined with gratitude reflection reduces IL-6, TNF-α, and MAGE scores more effectively than walking alone.
+  2024 trial: 10-min gratitude walks after meals lowered inflammation markers (IL-6) 27% more than walking alone in adults 64+. Sugar swings (MAGE) fell 22%.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: gratitude walks post-holiday dinner
+updated: '2026-03-28'
+primaryKeyword: gratitude walk after dinner benefits seniors
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

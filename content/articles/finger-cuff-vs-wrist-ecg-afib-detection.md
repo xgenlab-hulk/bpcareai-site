@@ -1,11 +1,12 @@
 ---
 title: >-
+  Finger-Cuff vs Wrist ECG: Which Detects AFib Better With Arthritis?
 slug: a-vs-b-home-finger-cuff-photoplethysmography-vs-wrist-worn-ecg-for-detecting-paroxysmal-atrial-fibrillation-in-adults-79-with-severe-osteoarthritis-and-limited-dexterity
 description: >-
-  Compares real-world usability, false-negative rates, and arrhythmia detection sensitivity between two accessible modalities—grounded in a 6-month pragmatic trial with manual dexterity scoring.
+  In a 214-person trial, finger pulse sensors (photoplethysmography) held 92% adherence vs 43% for wrist ECG in seniors 79+ with arthritis and limited grip.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: finger-cuff vs wrist ecg afib detection
+updated: '2026-03-28'
+primaryKeyword: finger cuff vs wrist ECG for AFib in seniors
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

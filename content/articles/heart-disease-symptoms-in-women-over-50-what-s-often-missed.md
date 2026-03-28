@@ -1,11 +1,12 @@
 ---
-title: 'Heart Disease Symptoms in Women Over 50: What’s Often Missed'
+title: >-
+  7 Heart Disease Symptoms Women Over 50 Often Overlook
 slug: heart-disease-symptoms-in-women-over-50-what-s-often-missed
 description: >-
-  Discover the subtle and atypical signs of heart disease in older women that are frequently overlooked by patients and doctors.
+  1 in 5 women have heart attacks without chest pain. Damage to tiny heart arteries (coronary microvascular disease) causes subtle signs women over 50 dismiss.
 date: '2025-11-30'
-updated: '2025-11-30'
-primaryKeyword: heart disease symptoms in women over 50
+updated: '2026-03-28'
+primaryKeyword: heart disease symptoms women miss after 50
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

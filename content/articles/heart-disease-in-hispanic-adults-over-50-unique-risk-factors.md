@@ -1,11 +1,12 @@
 ---
-title: 'Heart Disease in Hispanic Adults Over 50: Unique Risk Factors'
+title: >-
+  Why Hispanic Adults Over 50 Face Unique Heart Disease Risks
 slug: heart-disease-in-hispanic-adults-over-50-unique-risk-factors
 description: >-
-  Explore cultural, genetic, and lifestyle factors that contribute to higher heart disease rates in this population.
+  Hispanic adults are 50% more likely to die from heart disease. A cluster of warning signs (metabolic syndrome) affects nearly 30% of this population after 50.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: heart disease in Hispanic adults over 50
+updated: '2026-03-28'
+primaryKeyword: heart disease risk factors for Hispanic adults over 50
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

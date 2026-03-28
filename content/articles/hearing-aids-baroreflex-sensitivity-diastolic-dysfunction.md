@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Hearing Aids Can Quietly Affect Blood Pressure After 70
 slug: how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings
 description: >-
-  Reveals a novel sensory-neurocardiac pathway where amplified low-frequency sound processing indirectly suppresses vagal tone and blunts BP buffering—critical for interpreting 'normal' cardiac assessments.
+  Hearing aids may subtly weaken your blood pressure reflex (baroreflex sensitivity) by 8-12%, potentially masking early heart filling problems in adults over 70.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: hearing aids baroreflex sensitivity diastolic dysfunction
+updated: '2026-03-28'
+primaryKeyword: do hearing aids affect blood pressure in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

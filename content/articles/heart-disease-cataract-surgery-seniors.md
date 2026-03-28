@@ -1,11 +1,12 @@
 ---
 title: >-
+  Cataract Surgery With Heart Disease: A Safe Recovery Guide for 73+
 slug: the-complete-guide-to-managing-heart-disease-while-recovering-from-cataract-surgery-practical-protocols-for-adults-73-on-beta-blockers-with-preoperative-resting-hr-58-bpm
 description: >-
-  Addresses under-discussed perioperative cardiac risks — including intraoperative bradycardia exacerbation, postoperative analgesic interactions, and light-sensitivity–induced sympathetic surges.
+  Slow heartbeat risk (intraoperative bradycardia) rises when seniors on beta-blockers have cataract surgery. Covers safe pain relief and BP monitoring for 73+.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: heart disease cataract surgery seniors
+updated: '2026-03-28'
+primaryKeyword: heart disease management during cataract surgery
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

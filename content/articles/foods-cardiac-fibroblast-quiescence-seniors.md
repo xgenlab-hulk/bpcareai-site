@@ -1,11 +1,12 @@
 ---
 title: >-
+  12 Foods That Help Keep Heart Tissue Elastic for Adults 59-68
 slug: 12-foods-that-support-cardiac-fibroblast-quiescence-without-activating-tgf-signaling-for-adults-59-68-with-early-diastolic-stiffness-and-normal-ejection-fraction
 description: >-
-  Highlights nutritionally targeted foods that help maintain healthy heart tissue elasticity by modulating fibroblast behavior—addressing a preclinical stage of heart failure often missed by standard echo.
+  Up to 20% of adults 59-68 show early heart stiffening (diastolic dysfunction) with normal pumping. These 12 foods calm overactive repair cells without harm.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: foods cardiac fibroblast quiescence seniors
+updated: '2026-03-28'
+primaryKeyword: foods to keep heart tissue flexible after 59
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

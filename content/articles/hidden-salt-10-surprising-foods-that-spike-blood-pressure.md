@@ -1,11 +1,12 @@
 ---
-title: 'Hidden Salt: 10 Surprising Foods That Spike Blood Pressure'
+title: >-
+  10 Everyday Foods Hiding Salt That Raise Your Blood Pressure
 slug: hidden-salt-10-surprising-foods-that-spike-blood-pressure
 description: >-
-  Uncover common high-sodium foods that may silently raise blood pressure, especially dangerous for those over 50.
+  Over 70% of sodium comes from packaged foods. Learn which 10 staples pack hidden salt (dietary sodium) that silently raises blood pressure after 50.
 date: '2025-11-26'
-updated: '2025-11-26'
-primaryKeyword: hidden salt in food and blood pressure
+updated: '2026-03-28'
+primaryKeyword: hidden salt in everyday foods that raise blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

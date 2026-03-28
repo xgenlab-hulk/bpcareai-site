@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Meals That Protect Your Eyes: Boosting Lutein Absorption
 slug: quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
 description: >-
-  Provides meal-planning hacks to maximize macular pigment optical density: optimal fat sources for carotenoid absorption, avoiding high-heat oxidation of leafy greens, and timing of antioxidant-rich foods.
+  Only 5-10% of the eye-protecting pigment (lutein) you eat reaches your retina without fat pairing. Smart holiday plate swaps can boost absorption after 50.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: holiday eating macular degeneration lutein bioavailability
+updated: '2026-03-28'
+primaryKeyword: holiday meals and lutein for macular health
 topicCluster: special-populations
 image: ''
 relatedSlugs:

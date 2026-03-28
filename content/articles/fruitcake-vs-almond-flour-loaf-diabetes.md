@@ -1,11 +1,12 @@
 ---
 title: >-
+  Fruitcake vs Almond Flour Loaf: Which Is Better for Diabetes?
 slug: a-vs-b-traditional-holiday-fruitcake-vs-almond-flour-citrus-loaf-impact-on-2-hour-postprandial-triglyceride-rich-lipoprotein-clearance-in-adults-60-with-diabetic-dyslipidemia
 description: >-
-  Compares two festive baked goods using postprandial lipoprotein particle profiling data to show how saturated fat source and fiber matrix affect chylomicron remnant clearance.
+  Almond flour loaf cuts post-meal blood fat particles (triglyceride-rich lipoproteins) by ~30% at 2 hours vs fruitcake — key for adults 60+ with diabetes.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: fruitcake vs almond flour loaf diabetes
+updated: '2026-03-28'
+primaryKeyword: fruitcake vs almond flour loaf for diabetes after 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

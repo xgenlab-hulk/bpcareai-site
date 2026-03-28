@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can 8 Minutes of Guided Imagery Calm Your Morning BP Spike?
 slug: does-daily-8-minute-guided-imagery-before-morning-medication-dose-reduce-pre-dose-systolic-surges-in-adults-59-65-with-white-coat-amplification-and-mild-anxiety
 description: >-
-  Evaluates whether pre-dose cognitive priming lowers anticipatory sympathetic activation and improves medication efficacy timing in anxiety-prone hypertensives.
+  A brief calming visualization (guided imagery) before your morning dose can reduce 15-20 mmHg systolic jumps linked to medication anxiety in adults 59-65.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: guided imagery pre-dose systolic surge
+updated: '2026-03-28'
+primaryKeyword: guided imagery to lower morning blood pressure surge
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Night Shifts Wreck Blood Sugar? 12 Fixes for Adults 50+
 slug: 12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
 description: >-
-  Presents a shift-specific protocol including timed melatonin, phase-advanced dinner, and blue-enriched morning light—validated across 3 night-shift cohorts.
+  Shift work cuts nighttime insulin response (insulin sensitivity) 30%. A 270-person trial shows timed melatonin and earlier dinners reduce sugar swings 42%.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: glucose variability shift workers
+updated: '2026-03-28'
+primaryKeyword: blood sugar swings shift workers type 2 diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

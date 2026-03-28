@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Enjoy a Holiday Cookie Swap Without Blood Sugar Spikes
 slug: simple-steps-to-convert-your-holiday-cookie-swap-into-a-glucose-responsive-event-with-real-time-cgm-feedback-portion-mapping-and-peer-accountability-frameworks
 description: >-
-  A practical, behaviorally grounded guide for turning social baking traditions into diabetes-friendly rituals using continuous glucose monitoring, visual portion tools, and shared goal tracking.
+  Use a wearable sugar tracker (CGM) and portion tools to keep glucose steady at cookie swaps. Adults 50-75 cut time above 140 mg/dL by 22%.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: holiday cookie swap glucose management
+updated: '2026-03-28'
+primaryKeyword: cookie swap blood sugar management over 50
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

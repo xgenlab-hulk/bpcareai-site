@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Host a Heart-Healthy Holiday Dinner With Mild Memory Changes
 slug: the-complete-guide-to-hosting-a-heart-healthy-holiday-dinner-while-managing-mild-cognitive-impairment-meal-prep-labeling-and-guest-communication-protocols-for-adults-77
 description: >-
-  Provides step-by-step, cognition-supportive hosting framework: simplified menus, tactile food cues, verbal scripting for dietary boundaries, and caregiver collaboration tools.
+  Unstructured gatherings can spike systolic BP by 12-18 mmHg. A step-by-step plan with visual cues helps adults 77+ with memory loss (mild cognitive impairment).
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: heart-healthy holiday dinner mci hosting
+updated: '2026-03-28'
+primaryKeyword: hosting holiday dinner with mild cognitive impairment
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

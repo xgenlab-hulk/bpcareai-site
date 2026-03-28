@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why 62% of Gluten-Free Stuffing Spikes Blood Sugar After 67
 slug: the-truth-about-gluten-free-stuffing-mixes-marketed-to-seniors-why-62-contain-hidden-maltodextrin-induced-glycemic-surges-in-adults-67-with-insulin-resistance
 description: >-
-  Investigates labeling loopholes, hidden glycemic load drivers, and lab-tested alternatives—including a 3-ingredient homemade version that maintains texture and supports postprandial stability.
+  Lab tests reveal 62% of gluten-free stuffings hide fast-sugar fillers (maltodextrin, GI 85-105), spiking glucose 45+ mg/dL in adults 67+. Safe swaps inside.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: gluten free stuffing glycemic impact
+updated: '2026-03-28'
+primaryKeyword: gluten free stuffing hidden blood sugar spike
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

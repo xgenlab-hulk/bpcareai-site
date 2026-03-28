@@ -1,11 +1,12 @@
 ---
 title: >-
+  Gentle Seated Breathing With HRV Feedback for Adults 79+ With Frailty
 slug: best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension
 description: >-
-  Validates resonant frequency breathing protocols (4.5–5.5 breaths/min) coupled with HRV-guided pacing to lower pulmonary vascular resistance without orthostatic risk.
+  Slow breathing at 4.5-5.5 breaths/min with heart rate tracking (HRV biofeedback) improved nervous system balance 12% in frail adults 79+ without dizziness.
 date: '2026-03-02'
-updated: '2026-03-02'
-primaryKeyword: "hypertension management adults 79+"
+updated: '2026-03-28'
+primaryKeyword: seated breathing exercises for frail adults over 79
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

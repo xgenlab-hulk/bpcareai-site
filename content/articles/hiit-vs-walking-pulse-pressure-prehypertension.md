@@ -1,11 +1,12 @@
 ---
 title: >-
+  HIIT vs Walking: Which Lowers Pulse Pressure Better After 50?
 slug: what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
 description: >-
-  Synthesizes 2023–2024 meta-analyses on central aortic stiffness, endothelial function, and pulse pressure response to HIIT (4x4 min at 85% HRmax) vs. 45-min brisk walking.
+  Compare HIIT and walking for reducing artery stiffness (pulse wave velocity) in adults 52-66. HIIT cut stiffness 9% more over 12 weeks.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: HIIT vs walking pulse pressure prehypertension
+updated: '2026-03-28'
+primaryKeyword: HIIT vs walking for pulse pressure after 50
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Gum Disease and Heart Artery Calcification: The Hidden Link After 55
 slug: how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
 description: >-
-  Explores the under-recognized oral-systemic link between periodontitis and early atherosclerosis progression, focusing on inflammatory biomarkers (hs-CRP, IL-6) and actionable screening protocols for dental and primary care providers.
+  Adults 55-69 with chronic gum infection (periodontitis) face 20% higher risk of calcium deposits in heart arteries — even with normal LDL and no symptoms.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: gum disease and coronary artery calcification
+updated: '2026-03-28'
+primaryKeyword: does gum disease cause coronary artery calcification
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

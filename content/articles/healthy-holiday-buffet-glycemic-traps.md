@@ -1,11 +1,12 @@
 ---
 title: >-
+  7 Holiday Buffet Foods That Spike Blood Sugar — Even the Healthy Ones
 slug: 7-hidden-glycemic-traps-in-healthy-holiday-buffets-why-roasted-brussels-sprouts-with-balsamic-glaze-lentil-salad-and-herb-roasted-carrots-often-spike-glucose-more-than-mashed-potatoes
 description: >-
-  Reveals how cooking methods (caramelization), acid suppression (balsamic), and starch retrogradation loss in reheated legumes create unexpected glycemic loads in seemingly safe dishes.
+  Holiday veggies can spike blood sugar (postprandial glucose) 20-25% more than expected. Why roasting and reheating undo the benefits for adults 60+.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: healthy holiday buffet glycemic traps
+updated: '2026-03-28'
+primaryKeyword: holiday buffet foods that spike blood sugar
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

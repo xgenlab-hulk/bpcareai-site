@@ -1,11 +1,12 @@
 ---
-title: Heart Disease Risks for Retirees Living in High-Altitude Areas
+title: >-
+  Retiring to the Mountains? Heart Disease Risks Seniors Should Know
 slug: heart-disease-risks-for-retirees-living-in-high-altitude-areas
 description: >-
-  Examine how reduced oxygen levels at elevation may strain the cardiovascular system in older adults.
+  At 8,000 feet, oxygen drops 25% and blood pressure can rise 5-10 mmHg. Thickened heart walls (left ventricular hypertrophy) worsen with long-term elevation.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: heart disease risk at high altitude for seniors
+updated: '2026-03-28'
+primaryKeyword: heart disease risk at high altitude for retirees
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

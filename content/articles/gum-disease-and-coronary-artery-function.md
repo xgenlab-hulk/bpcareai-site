@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Gum Disease Quietly Impairs Heart Artery Function After 58
 slug: how-chronic-gum-infections-alter-coronary-artery-endothelial-function-in-adults-58-74-with-stable-angina-new-imaging-evidence-from-the-periodont-heart-trial
 description: >-
-  Explores the mechanistic link between periodontitis and microvascular dysfunction in coronary arteries, using contrast-enhanced MRI and flow-mediated dilation data from a 2023 longitudinal cohort study.
+  The PERIODONT-HEART Trial found 19% reduced blood vessel relaxation (flow-mediated dilation) in adults 58-74 with severe gum disease and stable chest pain.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: gum disease and coronary artery function
+updated: '2026-03-28'
+primaryKeyword: how gum disease affects coronary artery function
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
