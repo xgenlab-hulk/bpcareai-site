@@ -1,11 +1,12 @@
 ---
 title: >-
+  Fasting Over 14 Hours With Type 1 Diabetes After 60: New Data
 slug: what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
 description: >-
-  Synthesizes findings from 3 recent observational cohorts on time-in-range degradation, ketosis risk during fasting, and how aging beta-cell reserve (even in T1D) alters counterregulatory response.
+  Time-in-range dropped from 72% to 63.7% during 16-hour fasts in seniors with T1D on insulin pumps. How residual beta-cell reserve alters outcomes.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: intermittent fasting type 1 diabetes seniors
+updated: '2026-03-29'
+primaryKeyword: intermittent fasting type 1 diabetes over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

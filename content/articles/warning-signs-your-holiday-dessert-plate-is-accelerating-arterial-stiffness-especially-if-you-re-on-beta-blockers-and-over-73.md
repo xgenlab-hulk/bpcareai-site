@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Holiday Desserts Accelerate Arterial Stiffness After 73
 slug: warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73
 description: >-
-  Links repetitive high-glycemic dessert intake to pulse wave velocity changes, with at-home monitoring cues and a ‘stiffness-sparing’ dessert rotation plan.
+  High-glycemic treats raise pulse wave velocity in adults over 60. Learn at-home monitoring cues and a stiffness-sparing dessert rotation for beta-blocker users.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: holiday dessert arterial stiffness warning signs
+updated: '2026-03-29'
+primaryKeyword: holiday desserts and arterial stiffness over 73
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Holiday Spices Feel Too Strong After Age 68
 slug: what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68
 description: >-
-  Discusses age-related olfactory bulb atrophy, zinc-dependent taste receptor decline, and how diminished spice tolerance alters sodium and sugar compensation behaviors.
+  By age 70, olfactory bulb volume shrinks 10-15%, shifting how spices register. Learn how zinc-dependent receptor decline alters sodium and sugar habits.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: taste perception changes holiday spices
+updated: '2026-03-29'
+primaryKeyword: taste changes after 68 and holiday spice sensitivity
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

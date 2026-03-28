@@ -1,11 +1,12 @@
 ---
 title: >-
+  Cognitive Red Flags of Hypertensive Small Vessel Disease Before MRI
 slug: what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
 description: >-
-  Details subtle, pre-imaging neuropsychological changes—like slowed verbal fluency timing or inconsistent dual-task gait—linked to early cerebral small-vessel disease in treated hypertension.
+  Slowed verbal fluency timing and dual-task gait changes can reveal cerebral small vessel disease years before MRI shows white matter changes in hypertension.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: "health management seniors"
+updated: '2026-03-29'
+primaryKeyword: cognitive signs of hypertensive small vessel disease
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Early Right Heart Failure Signs in Adults 64+ With Sleep Apnea
 slug: what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears
 description: >-
-  Identifies subtle precursors like nocturnal polyuria, isolated lower-leg edema without weight gain, and worsening GERD symptoms linked to pulmonary hypertension and RV strain.
+  About 20-30% of adults with untreated sleep apnea develop pulmonary hypertension. Spot early RV strain like nocturnal polyuria and leg edema before JVD.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: early right-sided heart failure signs sleep apnea
+updated: '2026-03-29'
+primaryKeyword: right-sided heart failure warning signs with sleep apnea
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

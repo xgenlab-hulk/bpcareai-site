@@ -1,11 +1,12 @@
 ---
 title: >-
+  Stable AFib May Still Cause Cardiomyopathy: 5 Signs After 61
 slug: warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61
 description: >-
-  Identifies subtle red flags like worsening exertional dyspnea despite stable HR, progressive LA enlargement on echo, and declining NT-proBNP slope over 6 months.
+  Up to 15% of long-standing AFib patients develop tachycardia-induced cardiomyopathy despite rate control. Watch for LA enlargement and NT-proBNP slope changes.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: "health management adults 61+"
+updated: '2026-03-29'
+primaryKeyword: tachycardia-induced cardiomyopathy AFib signs
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

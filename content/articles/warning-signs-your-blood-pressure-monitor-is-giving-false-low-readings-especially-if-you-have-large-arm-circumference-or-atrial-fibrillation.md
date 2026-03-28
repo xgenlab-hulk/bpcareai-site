@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Your BP Monitor Giving False Low Readings? 3 Key Checks
 slug: warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
 description: >-
-  Details calibration drift, cuff size errors, arrhythmia misreading, and oscillometric algorithm limitations—plus 3 quick validation checks users can perform at home.
+  Wrong cuff size can underreport systolic BP by 10-20 mmHg. AFib (atrial fibrillation) causes 40% of monitors to show falsely low readings. Validate at home.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: false low blood pressure readings
+updated: '2026-03-29'
+primaryKeyword: false low blood pressure monitor readings
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

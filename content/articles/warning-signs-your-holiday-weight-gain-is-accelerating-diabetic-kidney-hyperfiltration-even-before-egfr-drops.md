@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Weight Gain and Kidney Hyperfiltration: Early Signs
 slug: warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops
 description: >-
-  Identifies early clinical red flags (e.g., postprandial microalbuminuria spikes, reduced renal resistive index on Doppler ultrasound, nocturnal sodium retention) signaling glomerular stress before standard labs change.
+  Holiday weight gain can trigger glomerular hyperfiltration before eGFR drops. Covers microalbuminuria spikes and renal resistive index shifts in adults over 50.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: holiday weight gain diabetic kidney signs
+updated: '2026-03-29'
+primaryKeyword: diabetic kidney hyperfiltration warning signs
 topicCluster: renal-health
 image: ''
 relatedSlugs:

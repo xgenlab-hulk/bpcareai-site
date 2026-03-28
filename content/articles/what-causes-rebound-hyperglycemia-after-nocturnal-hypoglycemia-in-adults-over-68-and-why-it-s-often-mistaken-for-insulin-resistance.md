@@ -1,11 +1,12 @@
 ---
 title: >-
+  Rebound Hyperglycemia After Nighttime Lows in Seniors Over 68
 slug: what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
 description: >-
-  Clarifies counterregulatory hormone surges (epinephrine, growth hormone), Somogyi vs. dawn phenomenon differentiation, and CGM-based diagnostic criteria — with correction algorithms that avoid further glucose volatility.
+  Up to 40% of adults over 70 experience nocturnal hypoglycemia monthly. Learn how counterregulatory hormone surges cause morning glucose spikes often mistaken for insulin resistance.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: rebound hyperglycemia nocturnal hypoglycemia seniors
+updated: '2026-03-29'
+primaryKeyword: rebound hyperglycemia after nighttime low blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

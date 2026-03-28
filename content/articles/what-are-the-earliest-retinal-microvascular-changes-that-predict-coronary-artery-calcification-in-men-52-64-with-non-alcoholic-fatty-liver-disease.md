@@ -1,11 +1,12 @@
 ---
 title: >-
+  Retinal Signs That Predict Coronary Calcification in Fatty Liver
 slug: what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
 description: >-
-  Analyzes OCT-angiography findings linking retinal arteriolar narrowing and venular dilation to subclinical coronary calcification—highlighting the eye as a noninvasive window into early vascular aging in metabolic syndrome.
+  OCT angiography shows retinal vessel changes that raise coronary calcification risk 2.3-fold in men 52-64 with NAFLD, often before CT detects calcium.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: retinal changes coronary calcification fatty liver
+updated: '2026-03-29'
+primaryKeyword: retinal signs of coronary calcification in fatty liver
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

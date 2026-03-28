@@ -1,11 +1,12 @@
 ---
 title: >-
+  Are Warm Baths Safe With SGLT2 Inhibitors? Guide for Adults 63+
 slug: can-you-safely-use-warm-holiday-baths-while-taking-sglt2-inhibitors-evidence-based-water-temperature-thresholds-and-hydration-protocols-for-adults-63-with-mild-orthostasis
 description: >-
-  Addresses risks of volume depletion, orthostatic intolerance, and ketoacidosis triggers during prolonged warm immersion — with specific guidance on bath duration, core temperature limits, and real-time hydration biomarkers.
+  SGLT2 inhibitors (empagliflozin, dapagliflozin) increase dehydration risk during warm baths. Safe water temperature is 37.5-38.5C with hydration protocols.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: "health management holiday adults 63+"
+updated: '2026-03-29'
+primaryKeyword: warm baths with SGLT2 inhibitors safety
 topicCluster: treatment-interventions
 image: ''
 relatedSlugs:

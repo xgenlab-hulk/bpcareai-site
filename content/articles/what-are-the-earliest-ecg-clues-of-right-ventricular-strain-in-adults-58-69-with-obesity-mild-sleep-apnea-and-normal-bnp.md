@@ -1,11 +1,12 @@
 ---
 title: >-
+  ECG Clues to Right Ventricular Strain in Obese Adults 58-69
 slug: what-are-the-earliest-ecg-clues-of-right-ventricular-strain-in-adults-58-69-with-obesity-mild-sleep-apnea-and-normal-bnp
 description: >-
-  Pinpoints subtle but actionable ECG features (e.g., P-wave axis shift, S-wave persistence in V6, R/S ratio changes) preceding overt pulmonary hypertension in midlife metabolic syndrome.
+  P-wave axis shift and S-wave persistence in V6 reveal right ventricular strain years before pulmonary hypertension in adults with obesity and sleep apnea.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: ecg clues right ventricular strain
+updated: '2026-03-29'
+primaryKeyword: ECG signs of right ventricular strain with obesity
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  BP Variability Predicts Dementia Better Than Average BP After 75
 slug: what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
 description: >-
-  Synthesizes longitudinal data (e.g., ASPREE, CHS) showing visit-to-visit SBP SD >15 mmHg doubles Alzheimer’s risk—even with mean BP <130/80—and how variability reflects microvascular fragility.
+  ASPREE and CHS data show visit-to-visit SBP swings over 15 mmHg double Alzheimer's risk in adults 75+, even with mean BP under 130/80. Learn how to track variability.
 date: '2025-12-24'
-updated: '2025-12-24'
-primaryKeyword: blood pressure variability dementia prediction over 75
+updated: '2026-03-29'
+primaryKeyword: blood pressure variability and dementia risk after 75
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

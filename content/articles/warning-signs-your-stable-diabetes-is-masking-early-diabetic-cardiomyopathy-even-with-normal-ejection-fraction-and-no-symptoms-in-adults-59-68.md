@@ -1,11 +1,12 @@
 ---
 title: >-
+  Diabetic Cardiomyopathy Signs You Miss With Normal Ejection Fraction
 slug: warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
 description: >-
-  >−18%, elevated galectin-3, abnormal myocardial T1 mapping) and links them to
+  Up to 40% of adults 59-68 with type 2 diabetes develop silent heart changes despite normal EF. Discover key markers like GLS below -18% and elevated galectin-3.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: early diabetic cardiomyopathy warning signs
+updated: '2026-03-29'
+primaryKeyword: diabetic cardiomyopathy early signs normal EF
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

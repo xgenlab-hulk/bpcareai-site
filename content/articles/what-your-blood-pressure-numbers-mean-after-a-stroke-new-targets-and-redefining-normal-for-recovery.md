@@ -1,11 +1,12 @@
 ---
 title: >-
+  Blood Pressure After a Stroke: New Recovery Targets Explained
 slug: what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
 description: >-
-  Reviews updated AHA/ASA 2023 guidelines for post-stroke BP management—including optimal timing for antihypertensive initiation, acceptable variability, and neuroprotection vs. perfusion trade-offs.
+  AHA/ASA 2023 guidelines set post-stroke BP below 130/80 mmHg for most survivors. Learn why timing matters and how lowering too fast can slow recovery.
 date: '2025-12-16'
-updated: '2025-12-16'
-primaryKeyword: blood pressure after stroke recovery targets
+updated: '2026-03-29'
+primaryKeyword: blood pressure targets after stroke recovery
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

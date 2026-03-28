@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Holiday Fasting Safe With Type 2 Diabetes Over 62? RCT Data
 slug: what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
 description: >-
-  Analyzes safety, efficacy, and adherence data from 3 holiday-season RCTs—focusing on hypoglycemia risk, ketosis thresholds, and renal stress markers.
+  Holiday-season RCTs found 22% of fasting seniors had glucose below 70 mg/dL. Safety data on ketosis thresholds and renal stress markers explained.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: intermittent fasting christmas to new year diabetes
+updated: '2026-03-29'
+primaryKeyword: holiday fasting safety with type 2 diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Retinal Changes That Predict Heart Failure in Women Over 65
 slug: what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
 description: >-
-  Analyzes retinal photography biomarkers—such as arteriolar narrowing, venular widening, and fractal dimension loss—as preclinical predictors of heart failure development over 5 years in women with stage 1–2 hypertension.
+  Arteriolar narrowing plus venular widening raise heart failure risk 2.3-fold in hypertensive women over 65, appearing 2-5 years before echo changes.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: retinal changes predicting heart failure
+updated: '2026-03-29'
+primaryKeyword: retinal vessel changes predicting heart failure in women
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

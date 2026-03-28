@@ -1,11 +1,12 @@
 ---
 title: >-
+  White Coat Normotension: When Normal Clinic BP Hides Hypertension
 slug: what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
 description: >-
-  Investigates under-recognized contributors including clinic anxiety-induced vagal dominance, reverse white-coat effect, and measurement timing relative to circadian trough.
+  Up to 20% of adults 61-75 show normal clinic BP but elevated ambulatory readings. Explore how vagal dominance and circadian timing create this hidden cardiovascular risk.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: white-coat normotension ambulatory hypertension
+updated: '2026-03-29'
+primaryKeyword: white coat normotension masked hypertension
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

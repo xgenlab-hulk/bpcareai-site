@@ -1,11 +1,12 @@
 ---
 title: >-
+  Should Men Over 75 With Diabetes Stop Routine HbA1c Testing?
 slug: when-should-men-over-75-with-type-2-diabetes-stop-routine-hba1c-screening-a-risk-benefit-framework-for-deprescribing-glycemic-testing
 description: >-
-  Analyzes evidence on mortality, functional decline, and hypoglycemia risk to guide individualized decisions about discontinuing A1c monitoring in frail older adults.
+  Severe hypoglycemia risk triples after 75, yet tight A1c goals show no mortality benefit. Use this 4-domain framework to safely deprescribe glycemic testing.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: stop hba1c screening elderly men
+updated: '2026-03-29'
+primaryKeyword: when to stop HbA1c testing men over 75 diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

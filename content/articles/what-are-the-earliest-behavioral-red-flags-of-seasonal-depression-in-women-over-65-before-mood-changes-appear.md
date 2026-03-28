@@ -1,11 +1,12 @@
 ---
 title: >-
+  Behavioral Red Flags of Seasonal Depression in Women Over 65
 slug: what-are-the-earliest-behavioral-red-flags-of-seasonal-depression-in-women-over-65-before-mood-changes-appear
 description: >-
-  Explores subtle, pre-mood-based indicators like altered social rhythm, light-seeking avoidance, and circadian drift in older women, validated by longitudinal geriatric psychiatry studies.
+  68% of women 65-89 show circadian phase delays before low mood appears. Spot early signs like social rhythm thinning, light avoidance, and meal timing drift.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: early signs seasonal depression women over 65
+updated: '2026-03-29'
+primaryKeyword: early behavioral signs of seasonal depression in older women
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

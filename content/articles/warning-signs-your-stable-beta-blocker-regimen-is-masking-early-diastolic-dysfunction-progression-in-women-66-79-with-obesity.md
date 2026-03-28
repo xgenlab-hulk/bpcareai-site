@@ -1,11 +1,12 @@
 ---
 title: >-
+  Beta Blockers May Mask Diastolic Dysfunction in Women 66-79
 slug: warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
 description: >-
-  Highlights subtle clinical red flags—including exercise-induced dyspnea despite normal EF, unexplained orthopnea with minimal fluid retention, and abnormal E/e′ ratio discordance with symptom severity.
+  About 40% of older women with obesity and normal EF have elevated E/e' ratios above 14. Learn which echo metrics reveal true filling pressures on beta blockers.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: beta blocker masking diastolic dysfunction
+updated: '2026-03-29'
+primaryKeyword: beta blockers masking diastolic dysfunction
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

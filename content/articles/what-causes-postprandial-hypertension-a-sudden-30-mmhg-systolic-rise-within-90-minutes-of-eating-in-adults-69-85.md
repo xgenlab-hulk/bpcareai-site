@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Blood Pressure Rises 30+ mmHg After Meals in Adults 69-85
 slug: what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
 description: >-
-  Breaks down the pathophysiology—splanchnic vasodilation, baroreflex failure, and postprandial insulin surge—as confirmed by concurrent gastric ultrasound and beat-to-beat BP monitoring.
+  Baroreflex sensitivity drops up to 40% in the first hour after eating in affected seniors. Learn the role of splanchnic vasodilation and insulin surges.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: postprandial hypertension after eating seniors
+updated: '2026-03-29'
+primaryKeyword: postprandial hypertension causes in adults over 69
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

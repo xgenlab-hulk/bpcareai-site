@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does Cranberry Sauce Really Prevent UTIs in Women Over 70?
 slug: what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
 description: >-
-  Reviews 2022–2024 clinical trials on proanthocyanidin bioavailability in canned vs. fresh cranberry preparations—and whether holiday dehydration negates any protective effect.
+  Canned cranberry sauce loses 60% of protective PACs during processing. Review 2022-2024 trials on bioavailability, holiday dehydration, and practical UTI prevention tips.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: cranberry sauce uti prevention seniors
+updated: '2026-03-29'
+primaryKeyword: cranberry sauce UTI prevention in senior women
 topicCluster: special-populations
 image: ''
 relatedSlugs:

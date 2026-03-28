@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Leftovers and PPI Use: Subtle Gut Dysbiosis After 70
 slug: warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use
 description: >-
-  Links delayed satiety, mid-afternoon brain fog, and subtle stool texture changes to fermented carbohydrate intolerance and hydrogen sulfide overproduction — with simple at-home testing and targeted prebiotic adjustments.
+  Long-term PPIs plus FODMAP-rich leftovers fuel hydrogen sulfide overproduction in older guts. Track satiety delays, brain fog, and stool shifts at home.
 date: '2026-02-28'
-updated: '2026-02-28'
-primaryKeyword: holiday leftovers gut dysbiosis ppi seniors
+updated: '2026-03-29'
+primaryKeyword: gut dysbiosis from holiday leftovers with PPI use
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

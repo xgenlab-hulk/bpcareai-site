@@ -1,11 +1,12 @@
 ---
 title: >-
+  Coronary CTA vs Stress Test: Best Choice for Atypical Chest Pain
 slug: when-should-you-get-a-coronary-cta-instead-of-stress-testing-for-adults-58-64-with-atypical-chest-pain-and-low-to-intermediate-pre-test-probability
 description: >-
-  Clarifies clinical scenarios where coronary CTA offers superior diagnostic yield, faster risk stratification, and lower radiation exposure than traditional stress imaging in younger seniors.
+  SCOT-HEART showed CTA-first patients had 41% fewer unnecessary angiograms over 5 years. See when CTA beats stress testing for adults 58-64 with chest pain.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: coronary cta vs stress test atypical chest pain
+updated: '2026-03-29'
+primaryKeyword: coronary CTA vs stress test for atypical chest pain
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

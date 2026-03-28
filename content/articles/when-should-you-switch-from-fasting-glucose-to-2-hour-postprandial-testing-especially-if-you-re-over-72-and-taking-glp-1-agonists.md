@@ -1,11 +1,12 @@
 ---
 title: >-
+  Fasting vs Postprandial Testing on GLP-1 Agonists After Age 72
 slug: when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
 description: >-
-  Guides clinical decision-making using time-in-range data, gastric emptying delays, and pharmacodynamic curves of semaglutide/tirzepatide to optimize monitoring strategy.
+  GLP-1s delay gastric emptying 30-50%, pushing peak glucose to 120-180 min post-meal. Learn the best testing windows for adults 72+ on semaglutide or tirzepatide
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: postprandial testing timing for glp1 users over 72
+updated: '2026-03-29'
+primaryKeyword: postprandial glucose testing GLP-1 agonists over 72
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

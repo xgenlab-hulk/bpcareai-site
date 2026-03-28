@@ -1,11 +1,12 @@
 ---
 title: >-
+  Weekday Intermittent Fasting During Holidays: What Research Shows
 slug: what-research-says-about-intermittent-fasting-only-on-weekdays-during-the-holidays-glycemic-outcomes-muscle-preservation-and-appetite-hormone-shifts-in-adults-68-with-sarcopenic-obesity
 description: >-
-  Analyzes a 6-week RCT comparing 16:8 fasting Mon–Fri only vs. continuous fasting, focusing on HOMA-IR change, lean mass CT volumetrics, and acyl-ghrelin suppression kinetics in older adults.
+  A 6-week RCT shows Mon-Fri 16:8 fasting cut HOMA-IR by 27% while preserving 98.6% lean mass in adults 68+ with sarcopenic obesity. Science-backed flexibility.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: weekday intermittent fasting holidays
+updated: '2026-03-29'
+primaryKeyword: weekday intermittent fasting for older adults
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

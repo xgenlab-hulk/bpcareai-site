@@ -1,11 +1,12 @@
 ---
-title: Warning Signs of Dehydration in Older Adults During Winter Holiday Parties
+title: >-
+  Dehydration Warning Signs Seniors Miss During Winter Parties
 slug: warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
 description: >-
-  Spot subtle symptoms of fluid imbalance in seniors—especially important when alcohol, indoor heating, and busy schedules reduce water intake.
+  Indoor heating drops humidity to 10-20%, accelerating fluid loss in seniors. Spot subtle dehydration signs like orthostatic BP drops before they cause falls.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: dehydration warning signs in seniors winter
+updated: '2026-03-29'
+primaryKeyword: dehydration signs in seniors during winter
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

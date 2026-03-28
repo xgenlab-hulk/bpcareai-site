@@ -1,11 +1,12 @@
 ---
 title: >-
+  Standing Desks and Blood Pressure After 60: Latest RCT Evidence
 slug: what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60
 description: >-
-  Summarizes 2022–2024 RCTs on non-exercise activity thermogenesis (NEAT), micro-movements, and vascular tone—plus practical recommendations for sedentary professionals managing stage 1 hypertension.
+  A 2023 RCT found standing desks lowered systolic BP 4.2 mmHg in workers 60-74 with stage 1 hypertension. At least 90 minutes upright daily drove best results.
 date: '2025-12-17'
-updated: '2025-12-17'
-primaryKeyword: standing desk blood pressure research 60+
+updated: '2026-03-29'
+primaryKeyword: standing desks and blood pressure after 60
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

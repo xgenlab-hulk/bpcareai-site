@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Sleep Disruption May Cause Atrial Fibrosis After 71
 slug: warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
 description: >-
-  Describes subtle but measurable indicators—nocturnal oxygen desaturation dips <88%, elevated morning NT-proBNP, and progressive loss of HRV complexity—that suggest structural remodeling, not just functional arrhythmia.
+  Recurrent oxygen dips below 88% drive collagen deposits in atrial tissue even with CPAP. Monitor NT-proBNP and HRV complexity loss to catch fibrosis early.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: sleep disruption and atrial fibrosis warning signs
+updated: '2026-03-29'
+primaryKeyword: sleep disruption and atrial fibrosis in CPAP users
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

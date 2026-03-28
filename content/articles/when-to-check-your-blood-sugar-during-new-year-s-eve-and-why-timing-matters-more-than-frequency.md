@@ -1,11 +1,12 @@
 ---
 title: >-
+  When to Check Blood Sugar on New Year's Eve: A Timing Guide
 slug: when-to-check-your-blood-sugar-during-new-year-s-eve-and-why-timing-matters-more-than-frequency
 description: >-
-  Breaks down optimal glucose testing windows before, during, and after celebratory meals and alcohol consumption—especially for those on sulfonylureas or insulin.
+  Alcohol blocks liver glucose output for up to 24 hours, raising overnight hypoglycemia risk. Get a testing timeline made for adults on insulin or sulfonylureas.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: when to check blood sugar new years eve
+updated: '2026-03-29'
+primaryKeyword: blood sugar testing timing on New Year's Eve
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

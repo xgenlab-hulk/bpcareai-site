@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Visceral Fat Can Shift Your A1c in Just 3 Weeks
 slug: warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
 description: >-
-  Connects subtle physical and lab changes (e.g., waist-to-height ratio shift, morning thirst despite normal A1c, elevated ALT) to early insulin resistance escalation.
+  Spot visceral fat buildup using waist-to-height ratio and elevated ALT. Shows how insulin resistance escalates before A1c crosses 5.7% in adults over 50.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: holiday weight gain visceral fat warning signs
+updated: '2026-03-29'
+primaryKeyword: holiday visceral fat and A1c trajectory
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

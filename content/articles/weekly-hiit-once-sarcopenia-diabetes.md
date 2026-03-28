@@ -1,11 +1,12 @@
 ---
 title: >-
+  Once-Weekly HIIT for Sarcopenia and Diabetes After 70: New Evidence
 slug: what-research-says-about-weekly-high-intensity-interval-training-hiit-only-on-tuesdays-mitochondrial-biogenesis-glycemic-variability-and-skeletal-muscle-capillarization-in-adults-71-with-sarcopenia-and-type-2-diabetes
 description: >-
-  Analyzes findings from the 2024 SPRINT-HIIT trial: how single-day weekly HIIT, even at low volume (2 x 4 min @ 85% HRmax), induces PGC-1α–driven angiogenesis and reduces CGM SD by 22% over 12 weeks.
+  The SPRINT-HIIT trial shows 2x4-min sessions at 85% HRmax once weekly boost muscle capillarization 37% and cut CGM variability 22% in adults 71 and older.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: weekly-hiit once sarcopenia diabetes
+updated: '2026-03-29'
+primaryKeyword: once weekly HIIT for sarcopenia and diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  When Blood Sugar Swings Mask Early Gastroparesis in Women 61+
 slug: warning-signs-your-holiday-blood-sugar-variability-is-masking-early-diabetic-gastroparesis-especially-in-women-61-with-long-term-t1d-or-lada
 description: >-
-  >3 hrs post-carb, inverted dawn phenomenon, meal-to-meal coefficient of
+  Up to 50% of long-term T1D patients develop gastric dysmotility without nausea. Spot inverted dawn phenomenon, 3-hour post-carb nadirs, and CV above 42%.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: blood sugar variability gastroparesis signs
+updated: '2026-03-29'
+primaryKeyword: blood sugar variability and gastroparesis signs
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

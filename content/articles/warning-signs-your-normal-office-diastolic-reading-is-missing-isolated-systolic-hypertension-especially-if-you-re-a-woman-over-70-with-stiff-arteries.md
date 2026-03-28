@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Your Normal Diastolic Hiding Systolic Hypertension After 70?
 slug: warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries
 description: >-
-  Highlights clinical red flags (pulse pressure >65 mmHg, absent Korotkoff phase V, delayed radial pulse) indicating missed ISH in women with arterial calcification, and explains why home oscillometric devices may under-read.
+  One in 3 older women with normal diastolic readings may have missed isolated systolic hypertension. Covers pulse pressure above 65 mmHg and home monitor limits.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: missed isolated systolic hypertension women
+updated: '2026-03-29'
+primaryKeyword: missed isolated systolic hypertension women 70
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

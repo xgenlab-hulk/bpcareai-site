@@ -1,11 +1,12 @@
 ---
 title: >-
+  CGM Time-in-Range vs Fasting Glucose: A Holiday Guide for Adults 55-69
 slug: when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
 description: >-
-  Proposes evidence-based TIR thresholds (e.g., <70% in 70–180 mg/dL during holiday week) that trigger actionable interventions—validated in a 2023 multicenter trial.
+  A 2023 trial found adults 55-69 lost 18% time-in-range during holidays. Learn the TIR thresholds that signal when to act and prevent post-meal glucose spikes.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: CGM time-in-range holiday decision making
+updated: '2026-03-29'
+primaryKeyword: CGM time-in-range for holiday glucose decisions
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

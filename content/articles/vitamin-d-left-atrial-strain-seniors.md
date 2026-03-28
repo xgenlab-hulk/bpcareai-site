@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does Vitamin D Improve Left Atrial Strain in Seniors Over 65?
 slug: does-daily-1-000-iu-vitamin-d3-supplementation-really-improve-left-atrial-strain-in-adults-65-with-subclinical-hypovitaminosis-d-and-preserved-ejection-fraction
 description: >-
-  Reviews 12-month strain echocardiography data from the D-HEART trial, assessing whether repletion affects atrial reservoir function—a sensitive marker of early diastolic burden.
+  The D-HEART trial shows 1,000 IU daily vitamin D3 improved left atrial reservoir strain (a diastolic marker) by 8.2% in seniors with low vitamin D levels.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: vitamin d left atrial strain seniors
+updated: '2026-03-29'
+primaryKeyword: vitamin D and heart strain in seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:

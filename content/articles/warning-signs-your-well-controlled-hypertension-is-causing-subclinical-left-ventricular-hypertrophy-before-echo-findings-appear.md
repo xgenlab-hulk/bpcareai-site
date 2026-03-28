@@ -1,11 +1,12 @@
 ---
 title: >-
+  Subclinical LVH Warning Signs Before Echo Changes in Hypertension
 slug: warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
 description: >-
-  Identifies early electrocardiographic, symptom-based, and functional markers (e.g., exertional dyspnea onset, nocturnal cough timing) predictive of LVH progression.
+  Stage 1 hypertension raises LVH risk 20% in 5 years for adults 50+. Detect early signs via ECG shifts, exertional dyspnea onset, and nocturnal cough patterns.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: "hypertension management seniors"
+updated: '2026-03-29'
+primaryKeyword: subclinical left ventricular hypertrophy signs
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

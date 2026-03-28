@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Spice Polyphenol Absorption After 70: CYP2C9 and Gut Changes
 slug: what-research-says-about-polyphenol-bioavailability-from-holiday-spices-cinnamon-clove-nutmeg-in-adults-71-with-low-cyp2c9-activity
 description: >-
-  Reviews pharmacogenomic data on spice metabolism, absorption barriers in aging gut mucosa, and dosing strategies to maximize anti-inflammatory benefits without GI irritation.
+  Gastric acid drops 30-40% after 70, cutting cinnamon and clove polyphenol uptake. How CYP2C9 variants and aging gut mucosa shape dosing for safe benefits.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: holiday spice bioavailability seniors cyp2c9
+updated: '2026-03-29'
+primaryKeyword: spice polyphenol absorption in seniors over 70
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

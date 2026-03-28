@@ -1,11 +1,12 @@
 ---
 title: >-
+  Magnesium Glycinate vs Oxide for QT Stability on Amiodarone
 slug: what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
 description: >-
-  Compares absorption kinetics, serum vs. intracellular magnesium levels, and QTc change data in patients with drug-induced long QT syndrome.
+  Glycinate absorbs 35-40% vs oxide's 4% in seniors, cutting QTc by 12 ms in trials. Compare forms for heart rhythm safety while on amiodarone after age 60.
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: magnesium glycinate vs oxide amiodarone qt
+updated: '2026-03-29'
+primaryKeyword: magnesium glycinate vs oxide for QT interval
 topicCluster: special-populations
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Kidney-Safe Potluck Guide for Dialysis Patients Over 70
 slug: what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
 description: >-
-  Practical, culturally intelligent guidance for navigating shared meals with chronic kidney disease—including safe portioning of holiday proteins, potassium-balanced swaps for sweet potatoes and greens, and how to politely decline without offending elders.
+  Potassium above 5.0 mmol/L from holiday foods can trigger dangerous heart rhythms. Get culturally respectful swaps and portion rules for seniors on dialysis.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: kidney-friendly potluck food for seniors
+updated: '2026-03-29'
+primaryKeyword: kidney-safe potluck foods for dialysis patients over 70
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

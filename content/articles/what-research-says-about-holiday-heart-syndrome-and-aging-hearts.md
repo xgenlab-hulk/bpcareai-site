@@ -1,11 +1,12 @@
 ---
-title: What Research Says About Holiday Heart Syndrome and Aging Hearts
+title: >-
+  Holiday Heart Syndrome and Aging: What New Research Reveals
 slug: what-research-says-about-holiday-heart-syndrome-and-aging-hearts
 description: >-
-  Summarize recent studies on age-related changes in cardiac conduction and recovery after transient alcohol-induced arrhythmias.
+  Adults over 55 take 40% longer to restore sinus rhythm after alcohol-induced AFib. How age-related conduction changes affect cardiac recovery.
 date: '2025-12-09'
-updated: '2025-12-09'
-primaryKeyword: research holiday heart syndrome aging
+updated: '2026-03-29'
+primaryKeyword: holiday heart syndrome in older adults
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

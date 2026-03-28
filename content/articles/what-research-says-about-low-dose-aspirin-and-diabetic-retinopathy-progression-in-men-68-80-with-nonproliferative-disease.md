@@ -1,11 +1,12 @@
 ---
 title: >-
+  Aspirin and Diabetic Retinopathy in Men 68-80: What Evidence Shows
 slug: what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
 description: >-
-  Reviews RCT and cohort evidence on antiplatelet therapy’s paradoxical effects on retinal microvascular integrity, including when aspirin may accelerate vs. stabilize early-stage diabetic eye disease.
+  Low-dose aspirin raised retinal hemorrhage risk 31% in men 68+ with NPDR per ASCEND data. When it helps vs. worsens early diabetic eye disease and BP.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: aspirin diabetic retinopathy men 68-80
+updated: '2026-03-29'
+primaryKeyword: aspirin and diabetic retinopathy in older men
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

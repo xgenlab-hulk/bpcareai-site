@@ -1,11 +1,12 @@
 ---
-title: What Research Says About Vitamin D and Winter Hypertension in Seniors
+title: >-
+  Vitamin D and Winter Hypertension in Seniors: Clinical Evidence
 slug: what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
 description: >-
-  Reviews clinical studies linking low vitamin D levels in winter to increased blood pressure and cardiovascular risk.
+  Seniors with vitamin D below 20 ng/mL face 1.4x higher winter BP risk. Systolic pressure rises 3-5 mmHg seasonally, increasing stroke risk 10-15% over time.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: vitamin d and winter hypertension
+updated: '2026-03-29'
+primaryKeyword: vitamin D deficiency and winter blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

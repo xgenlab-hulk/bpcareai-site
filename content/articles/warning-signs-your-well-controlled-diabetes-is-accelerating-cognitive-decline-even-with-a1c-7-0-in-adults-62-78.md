@@ -1,11 +1,12 @@
 ---
 title: >-
+  Diabetes and Cognitive Decline Even With A1c Below 7.0 After 62
 slug: warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
 description: >-
-  Identifies early neurocognitive markers: slowed processing speed on digit symbol tests, reduced hippocampal volume on MRI, and elevated CSF tau/β-amyloid ratios.
+  Adults 62-78 with controlled diabetes face 50% higher MCI risk despite good A1c. Key markers include processing speed tests, hippocampal MRI, and CSF ratios.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: diabetes cognitive decline warning signs
+updated: '2026-03-29'
+primaryKeyword: diabetes cognitive decline with normal A1c
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

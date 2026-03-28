@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Weight Gain or Fluid Retention? Signs for Women 65+ With AFib
 slug: what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
 description: >-
-  Helps differentiate cardiorenal fluid shifts from adipose accumulation using pulse pressure trends, ankle pitting patterns, and nocturnal orthopnea cues.
+  Fluid retention can add 3-5 lbs in 48 hours, far faster than fat gain. Use pulse pressure trends and ankle pitting tests to tell the difference early.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: holiday weight gain fluid retention afib seniors
+updated: '2026-03-29'
+primaryKeyword: holiday fluid retention vs fat gain in women with AFib
 topicCluster: special-populations
 image: ''
 relatedSlugs:

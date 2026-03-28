@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low Fiber and Calcium Supplements After 65: Digestive Warning Signs
 slug: what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
 description: >-
-  Details subtle but clinically meaningful GI signals (e.g., stool buoyancy, transit-related bloating timing, postprandial fullness duration) indicating fiber-calcium interaction-induced constipation in aging guts.
+  Colon transit slows 20-40% after 60, and calcium carbonate worsens it. Spot early GI signs like stool buoyancy shifts and transit-related bloating timing.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: low fiber holiday constipation calcium
+updated: '2026-03-29'
+primaryKeyword: low fiber constipation with calcium supplements seniors
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

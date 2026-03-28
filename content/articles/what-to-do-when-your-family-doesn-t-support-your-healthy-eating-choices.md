@@ -1,11 +1,12 @@
 ---
-title: What to Do When Your Family Doesn’t Support Your Healthy Eating Choices
+title: >-
+  What to Do When Family Doesn't Support Healthy Eating After 50
 slug: what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
 description: >-
-  Provides guidance for maintaining dietary discipline in unsupportive environments, particularly among multigenerational households.
+  About 40% of adults 50+ face family pushback on diet changes. Learn strategies to maintain heart-healthy eating in multigenerational homes without conflict.
 date: '2025-12-07'
-updated: '2025-12-07'
-primaryKeyword: family resistance to healthy eating
+updated: '2026-03-29'
+primaryKeyword: healthy eating without family support after 50
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

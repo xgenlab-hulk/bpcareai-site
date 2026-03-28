@@ -1,11 +1,12 @@
 ---
 title: >-
+  VNS vs Tart Cherry Juice: Which Reduces Nocturnal AFib Better?
 slug: a-vs-b-daily-5-minute-vagus-nerve-stimulation-vns-vs-evening-tart-cherry-juice-which-better-reduces-nighttime-afib-burden-in-adults-64-with-nocturnal-hypertension
 description: >-
-  Head-to-head comparison of two accessible, non-drug interventions for reducing nocturnal arrhythmia load in older adults with circadian blood pressure dysregulation.
+  Compares vagus nerve stimulation (VNS) and tart cherry juice for reducing nighttime atrial fibrillation in adults 64+ with nocturnal hypertension patterns.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: vns vs tart cherry juice nocturnal afib
+updated: '2026-03-29'
+primaryKeyword: vagus nerve stimulation vs tart cherry juice for AFib
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

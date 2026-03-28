@@ -1,11 +1,12 @@
 ---
 title: >-
+  Diabetic Cardiomyopathy Warning Signs in Women Ages 55-69
 slug: what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 description: >-
-  Highlights subtle echocardiographic, ECG, and symptom-based red flags—including diastolic strain patterns, heart rate variability loss, and exertional dyspnea on flat terrain.
+  Diastolic strain changes, HRV loss, and exertional dyspnea on flat ground can signal diabetic cardiomyopathy in women 55-69 before EF or NT-proBNP shift.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: early diabetic cardiomyopathy signs women
+updated: '2026-03-29'
+primaryKeyword: early diabetic cardiomyopathy signs in women 55-69
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Polyphenol-Rich Holiday Foods and Cognitive Resilience After 80
 slug: what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
 description: >-
-  Reviews clinical studies on cranberries, dark chocolate, and walnuts in relation to neuroinflammation, cerebral blood flow, and short-term memory preservation during high-stress holiday periods.
+  Cranberry polyphenols improved verbal fluency 12% in adults 80-90 per a 12-week RCT. Dark chocolate boosted cerebral blood flow 8% within 90 minutes.
 date: '2025-12-17'
-updated: '2025-12-17'
-primaryKeyword: polyphenol holiday foods cognitive health
+updated: '2026-03-29'
+primaryKeyword: polyphenol foods and cognitive health after 80
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

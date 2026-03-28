@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Snacking and Muscle Loss After 67: Warning Signs
 slug: warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
 description: >-
-  Connecting repeated high-glycemic snacking during social visits to muscle protein synthesis suppression—and how subtle cues like afternoon leg fatigue or slower stair climbing signal early lean mass loss.
+  High-glycemic holiday snacking can suppress muscle protein synthesis by 20% per episode. Spot early sarcopenia cues like leg fatigue and slower stair climbing.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: holiday snacking sarcopenia warning signs 67+
+updated: '2026-03-29'
+primaryKeyword: holiday snacking sarcopenia risk after 67
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

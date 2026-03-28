@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Shift Work Causes Silent Heart Fibrosis Despite Normal EF
 slug: what-research-says-about-circadian-misalignment-and-myocardial-fibrosis-in-adults-59-67-with-shift-work-history-and-normal-ejection-fraction
 description: >-
-  Analyzes longitudinal data linking chronic circadian disruption to subclinical myocardial remodeling, independent of hypertension or diabetes, in midlife shift workers.
+  Adults 59-67 with 10+ years of shift work show 1.7-2.3x higher myocardial fibrosis on cardiac MRI. Discover how circadian misalignment drives subclinical remodeling.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: circadian misalignment and myocardial fibrosis
+updated: '2026-03-29'
+primaryKeyword: shift work heart fibrosis circadian disruption
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

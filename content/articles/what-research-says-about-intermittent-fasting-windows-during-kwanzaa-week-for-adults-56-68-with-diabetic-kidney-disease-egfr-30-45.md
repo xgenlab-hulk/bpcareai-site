@@ -1,11 +1,12 @@
 ---
 title: >-
+  Fasting With Diabetic Kidney Disease During Kwanzaa: Evidence
 slug: what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
 description: >-
-  Analyzes protein catabolism markers, albuminuria fluctuations, and uric acid trends during 14–16 hour fasts—contrasting outcomes in those with and without SGLT2 inhibitor use.
+  In adults with eGFR 30-45, fasting raised albuminuria 22-27% without SGLT2 inhibitors vs 5-8% with them. Safe fasting guidance for ages 56-68.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: intermittent fasting Kwanzaa diabetic kidney disease
+updated: '2026-03-29'
+primaryKeyword: fasting with diabetic kidney disease safety
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

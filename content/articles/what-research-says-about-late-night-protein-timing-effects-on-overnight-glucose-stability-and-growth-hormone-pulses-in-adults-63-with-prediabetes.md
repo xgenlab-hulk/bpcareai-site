@@ -1,11 +1,12 @@
 ---
 title: >-
+  Late-Night Protein and Blood Sugar in Adults 63+ With Prediabetes
 slug: what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes
 description: >-
-  Reviews 2023–2024 trials on casein vs. whey timing, nocturnal insulin sensitivity windows, and how protein intake shifts hepatic gluconeogenesis rhythms in aging livers.
+  Casein before bed cut overnight glucose variability 18% in prediabetic seniors. How protein timing shifts hepatic gluconeogenesis in aging livers.
 date: '2026-03-01'
-updated: '2026-03-01'
-primaryKeyword: late-night protein and blood sugar
+updated: '2026-03-29'
+primaryKeyword: late-night protein and overnight blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

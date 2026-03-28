@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Diet Triggers That Accelerate Macular Degeneration After 68
 slug: warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
 description: >-
-  Highlights dietary triggers (e.g., high-AGE foods, low lutein intake, excessive saturated fat) tied to drusen progression—and includes an at-home visual function checklist.
+  High-AGE foods and low lutein intake drive 20-30% faster drusen progression after 68. Use this at-home checklist to catch early contrast and line changes.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: macular degeneration dietary warning signs
+updated: '2026-03-29'
+primaryKeyword: diet and macular degeneration risk after 68
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

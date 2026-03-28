@@ -1,11 +1,12 @@
 ---
-title: Understanding Your Blood Pressure Numbers
+title: >-
+  What Do Blood Pressure Numbers Mean? A Clear Guide for Adults 50+
 slug: understanding-blood-pressure-numbers
 description: >-
-  What do systolic and diastolic mean? A simple guide to reading your blood pressure and understanding what the numbers really tell you.
+  Learn what systolic and diastolic BP numbers mean. Covers normal ranges, when readings signal risk, and how to read your blood pressure at home after 50.
 date: '2024-11-15'
-updated: '2024-11-15'
-primaryKeyword: blood pressure numbers
+updated: '2026-03-29'
+primaryKeyword: what do blood pressure numbers mean
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

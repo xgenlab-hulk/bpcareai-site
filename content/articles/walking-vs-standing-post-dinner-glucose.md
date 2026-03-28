@@ -1,11 +1,12 @@
 ---
 title: >-
+  Walking vs Standing After Dinner: Which Lowers Glucose More?
 slug: a-vs-b-walking-the-mall-for-20-minutes-after-dinner-vs-standing-while-wrapping-gifts-which-lowers-2-hour-postprandial-glucose-more-in-adults-72-with-peripheral-neuropathy
 description: >-
-  Compares low-impact movement modalities using continuous interstitial glucose data, focusing on muscle fiber recruitment efficiency, joint stress thresholds, and neuropathic pain tolerance limits.
+  CGM data shows 20-minute post-dinner walks lower 2-hour glucose by 22 mg/dL more than standing in adults 72+ with peripheral neuropathy. Includes safety tips.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: walking vs standing post-dinner glucose
+updated: '2026-03-29'
+primaryKeyword: walking vs standing after dinner blood sugar
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

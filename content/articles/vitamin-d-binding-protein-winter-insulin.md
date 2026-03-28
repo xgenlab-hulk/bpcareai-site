@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Winter Vitamin D Shifts Drive Insulin Resistance in Adults 57-65
 slug: how-seasonal-decline-in-vitamin-d-binding-protein-alters-free-25-oh-d-bioavailability-and-why-that-accelerates-insulin-resistance-in-adults-57-65-with-winter-onset-fatigue
 description: >-
-  Explains the underdiscussed role of DBP glycosylation shifts in winter, how low free (not total) vitamin D drives adipose TLR4 activation and serine phosphorylation of IRS-1—and optimal testing/treatment strategies.
+  Seasonal changes in vitamin D-binding protein (DBP) lower free 25(OH)D, triggering insulin resistance. Optimal testing and repletion targets for adults 57-65.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: vitamin-d-binding-protein winter insulin
+updated: '2026-03-29'
+primaryKeyword: winter vitamin D and insulin resistance
 topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:

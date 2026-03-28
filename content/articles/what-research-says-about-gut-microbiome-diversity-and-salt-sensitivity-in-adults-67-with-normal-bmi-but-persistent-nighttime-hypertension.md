@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Your Gut Microbiome Drives Salt-Sensitive Nighttime Hypertension
 slug: what-research-says-about-gut-microbiome-diversity-and-salt-sensitivity-in-adults-67-with-normal-bmi-but-persistent-nighttime-hypertension
 description: >-
-  Synthesizes recent microbiome metabolomics studies linking low Faecalibacterium prausnitzii abundance to impaired TMAO metabolism and exaggerated aldosterone response to sodium.
+  Seniors with low F. prausnitzii levels show a 2.3x greater aldosterone surge after sodium intake. Explore the gut-adrenal axis behind nocturnal BP elevation at normal BMI.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: gut microbiome and salt sensitivity seniors
+updated: '2026-03-29'
+primaryKeyword: gut microbiome salt sensitivity nighttime hypertension
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

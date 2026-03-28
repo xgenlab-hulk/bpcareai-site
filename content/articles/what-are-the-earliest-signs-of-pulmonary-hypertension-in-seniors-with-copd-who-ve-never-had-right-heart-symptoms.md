@@ -1,11 +1,12 @@
 ---
 title: >-
+  Spotting Early Pulmonary Hypertension in Seniors With COPD
 slug: what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
 description: >-
-  Identifies subtle, pre-echocardiogram clues: disproportionate dyspnea vs FEV1, exertional syncope without orthostasis, isolated elevated jugular venous pressure in supine position, and nocturnal oxygen desaturation patterns.
+  Up to 40% of seniors with moderate COPD develop pulmonary hypertension silently. Learn pre-echo clues like disproportionate dyspnea and nocturnal desaturation.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: early pulmonary hypertension copd seniors
+updated: '2026-03-29'
+primaryKeyword: early pulmonary hypertension signs in seniors with COPD
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

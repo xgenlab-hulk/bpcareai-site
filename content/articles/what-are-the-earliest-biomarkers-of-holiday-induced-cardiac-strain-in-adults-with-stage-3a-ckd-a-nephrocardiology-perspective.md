@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Cardiac Strain Biomarkers in CKD Stage 3a: What to Track
 slug: what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
 description: >-
-  Identifies subtle, pre-symptomatic shifts—urinary NGAL, plasma GDF-15, and beat-to-beat heart rate variability—alongside actionable thresholds for nephrologists and cardiologists coordinating holiday care.
+  Urinary NGAL above 150 ng/mL, plasma GDF-15 over 1200 pg/mL, and low HRV signal early cardiac strain in adults with CKD 3a during holiday sodium surges.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: biomarkers of cardiac strain in ckd stage 3a
+updated: '2026-03-29'
+primaryKeyword: cardiac strain biomarkers CKD stage 3a holidays
 topicCluster: renal-health
 image: ''
 relatedSlugs:

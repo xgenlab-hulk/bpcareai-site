@@ -1,11 +1,12 @@
 ---
 title: >-
+  HIIT vs Zone 2 Walking: Which Lowers Diastolic BP More After 59?
 slug: what-research-says-about-high-intensity-interval-training-vs-zone-2-walking-for-diastolic-bp-reduction-in-obese-adults-59-73
 description: >-
-  Compares vascular adaptations, capillary density gains, and inflammatory cytokine suppression across modalities—factoring in joint load and adherence sustainability.
+  HIIT cut diastolic BP by 5.2 mmHg in 12 weeks while zone 2 walking dropped it 4.1 mmHg over 16 weeks. Compare vascular adaptations and long-term adherence data.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: hiit vs zone 2 walking diastolic bp
+updated: '2026-03-29'
+primaryKeyword: HIIT vs zone 2 walking for lowering diastolic BP
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

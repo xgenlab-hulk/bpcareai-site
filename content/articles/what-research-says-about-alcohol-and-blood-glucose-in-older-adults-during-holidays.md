@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Holiday Alcohol Affects Blood Sugar in Older Adults
 slug: what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
 description: >-
-  Reviews clinical studies on how different types of holiday drinks affect blood sugar and hypoglycemia risk in seniors with diabetes.
+  Seniors 65+ face 3.2x higher hypoglycemia risk after drinking. Review clinical evidence on how wine, eggnog, and cocktails disrupt glucose regulation during holiday meals.
 date: '2025-12-05'
-updated: '2025-12-05'
-primaryKeyword: research on alcohol and blood sugar
+updated: '2026-03-29'
+primaryKeyword: alcohol and blood sugar in older adults
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

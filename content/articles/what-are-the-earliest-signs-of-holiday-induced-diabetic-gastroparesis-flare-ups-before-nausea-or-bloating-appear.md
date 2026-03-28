@@ -1,11 +1,12 @@
 ---
 title: >-
+  Earliest Signs of a Holiday Gastroparesis Flare in Diabetes
 slug: what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
 description: >-
-  Details subtle prodromal markers: abnormal gastric motilin spikes on breath tests, delayed salivary amylase response, and meal-associated heart rate variability flattening.
+  Erratic motilin spikes and blunted salivary amylase response appear up to 48 hours before nausea or bloating during holiday meals with gastroparesis.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: early gastroparesis flare holiday symptoms
+updated: '2026-03-29'
+primaryKeyword: early signs of holiday gastroparesis flare-ups
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

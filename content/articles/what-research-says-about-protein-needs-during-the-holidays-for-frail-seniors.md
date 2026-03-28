@@ -1,11 +1,12 @@
 ---
-title: What Research Says About Protein Needs During the Holidays for Frail Seniors
+title: >-
+  Holiday Protein Needs for Frail Seniors: How Much and When
 slug: what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
 description: >-
-  Studies show increased protein intake during festive periods can prevent muscle loss—here’s how much, when, and from which sources.
+  Frail seniors eating under 1.0 g/kg/day lost 0.8 kg lean mass in just 4 weeks. Aim for 1.2-1.5 g/kg daily across 3 meals to preserve muscle during holidays.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: holiday protein needs for frail seniors
+updated: '2026-03-29'
+primaryKeyword: protein needs for frail seniors during holidays
 topicCluster: special-populations
 image: ''
 relatedSlugs:

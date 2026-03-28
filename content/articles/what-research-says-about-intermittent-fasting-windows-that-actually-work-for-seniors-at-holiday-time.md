@@ -1,11 +1,12 @@
 ---
 title: >-
+  Fasting Windows That Actually Work for Seniors During Holidays
 slug: what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
 description: >-
-  Reviews clinical trials on time-restricted eating (TRE) in adults 65+, analyzing feasibility, muscle preservation, circadian alignment, and glycemic outcomes—plus realistic holiday adaptations (e.g., 10-hour windows with flexible start times).
+  Trials show 10-hour eating windows aligned with circadian rhythm cut HbA1c by 0.4% in adults 65+ while preserving muscle. Holiday adaptations included.
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: intermittent fasting seniors holiday time windows
+updated: '2026-03-29'
+primaryKeyword: time-restricted eating for seniors holidays
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

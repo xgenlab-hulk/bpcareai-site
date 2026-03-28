@@ -1,11 +1,12 @@
 ---
 title: >-
+  Retinal Vascular Remodeling in Diabetes Over 70: Silent Warning Signs
 slug: warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
 description: >-
-  Highlights subtle biomarkers—like flicker ERG latency delay, OCTA vessel density drop <5%, and microaneurysm turnover rate—that precede detectable vision loss but correlate with stroke risk.
+  OCTA vessel density drops and flicker ERG delays reveal silent retinal remodeling in adults 71+ on beta-blockers with diabetes, tied to 1.8x stroke risk.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: subclinical retinal remodeling diabetes beta-blockers
+updated: '2026-03-29'
+primaryKeyword: retinal vascular remodeling in diabetes over 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

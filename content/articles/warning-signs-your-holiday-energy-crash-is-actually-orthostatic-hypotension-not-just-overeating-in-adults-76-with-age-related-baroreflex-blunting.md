@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Your Holiday Energy Crash Actually Orthostatic Hypotension?
 slug: warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting
 description: >-
-  Differentiates true orthostatic drop from fatigue via seated-to-standing BP protocol, hydration status clues, and safe positioning techniques for frail elders.
+  Baroreflex sensitivity drops to 30-50% of peak by age 76, turning post-meal standing into a fall risk. Use this seated-to-standing BP test to spot true OH.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: holiday energy crash orthostatic hypotension
+updated: '2026-03-29'
+primaryKeyword: orthostatic hypotension vs holiday fatigue in seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

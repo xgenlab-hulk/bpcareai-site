@@ -1,11 +1,12 @@
 ---
 title: >-
+  Melatonin and Seasonal Mood in Older Adults: What Studies Reveal
 slug: what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
 description: >-
-  Review recent studies on melatonin supplementation, circadian disruption, and its role in seasonal affective symptoms.
+  Melatonin drops 30-40% between ages 50 and 70, deepening winter mood shifts. RCT data shows timed low-dose use with morning light improves sleep and alertness.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: melatonin and seasonal depression research
+updated: '2026-03-29'
+primaryKeyword: melatonin for seasonal mood in older adults
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

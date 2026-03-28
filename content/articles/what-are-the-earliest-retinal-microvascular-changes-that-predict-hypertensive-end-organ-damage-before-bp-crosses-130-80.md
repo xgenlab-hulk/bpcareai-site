@@ -1,10 +1,11 @@
 ---
 title: >-
+  Retinal Changes That Appear Before a Hypertension Diagnosis
 slug: what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
 description: >-
-  Details AI-assisted OCT angiography findings (e.g., foveal avascular zone enlargement, perivenular leakage) as pre-hypertensive biomarkers in normotensive adults 55–69 with strong family history.
+  AI-assisted OCT angiography detects foveal avascular zone enlargement of 12-15% up to 4 years before BP crosses 130/80 in at-risk adults 55-69.
 date: '2025-12-31'
-updated: '2025-12-31'
+updated: '2026-03-29'
 primaryKeyword: retinal changes before hypertension diagnosis
 topicCluster: hypertension-management
 image: ''
