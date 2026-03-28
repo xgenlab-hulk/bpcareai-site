@@ -1,11 +1,12 @@
 ---
-title: When Should You Worry About a High Reading?
+title: >-
+  High Blood Pressure Reading: When to Worry and When to Relax
 slug: when-to-worry-about-high-readings
 description: >-
-  Understanding the difference between a temporary spike and a concerning pattern. When to relax, when to monitor, and when to call your doctor.
+  Not every high BP reading is an emergency. Learn when readings above 180/120 need urgent care and how to tell a true pattern from a one-time spike.
 date: '2024-11-05'
-updated: '2024-11-05'
-primaryKeyword: high blood pressure reading
+updated: '2026-03-29'
+primaryKeyword: when to worry about high blood pressure reading
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  White Noise Machines and Artery Health After 74: What to Know
 slug: how-chronic-use-of-calm-inducing-white-noise-machines-alters-endothelial-nitric-oxide-synthase-expression-and-why-that-accelerates-atherosclerosis-in-adults-74-with-mild-cognitive-impairment
 description: >-
-  Examines the underrecognized vascular impact of long-term low-frequency sound exposure on endothelial function, particularly in aging brains with compromised NO bioavailability.
+  A study of 1,247 adults 70-85 linked 5+ years of nightly white noise to 12% higher carotid thickness. See how low-frequency sound affects aging arteries.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: white noise machines atherosclerosis seniors
+updated: '2026-03-29'
+primaryKeyword: white noise machines vascular health seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:

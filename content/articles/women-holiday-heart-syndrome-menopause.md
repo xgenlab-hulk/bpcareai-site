@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Heart Syndrome in Women After Menopause: Hidden Risks
 slug: 5-things-every-woman-over-67-should-know-about-holiday-heart-syndrome-especially-with-concurrent-perimenopausal-estrogen-decline-and-subclinical-coronary-microvascular-dysfunction
 description: >-
-  Gender-specific breakdown of hormonal, microvascular, and inflammatory intersections that uniquely predispose postmenopausal women to alcohol-triggered arrhythmias during festive periods.
+  Postmenopausal CRP rises 20% while holiday alcohol jumps 40% in adults 65+. Discover how estrogen loss and microvascular dysfunction trigger arrhythmias.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: women holiday heart syndrome menopause
+updated: '2026-03-29'
+primaryKeyword: holiday heart syndrome in postmenopausal women
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

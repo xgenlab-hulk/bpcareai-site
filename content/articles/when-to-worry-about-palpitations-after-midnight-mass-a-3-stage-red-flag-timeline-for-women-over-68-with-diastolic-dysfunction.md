@@ -1,11 +1,12 @@
 ---
 title: >-
+  Palpitations After Midnight Mass: 3-Stage Guide for Women 68+
 slug: when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
 description: >-
-  Provides a clinically grounded, time-based decision tree (0–2 hrs, 2–6 hrs, >6 hrs post-event) to distinguish benign holiday stress responses from early decompensated diastolic heart failure.
+  Diastolic dysfunction affects 50% of adults over 75. Use this 0-2hr, 2-6hr, and 6hr+ timeline to separate holiday stress from early heart failure signals.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: palpitations after midnight mass in elderly women
+updated: '2026-03-29'
+primaryKeyword: palpitations in women with diastolic dysfunction
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

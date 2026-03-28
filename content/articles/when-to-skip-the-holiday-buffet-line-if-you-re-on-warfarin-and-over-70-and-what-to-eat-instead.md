@@ -1,11 +1,12 @@
 ---
 title: >-
+  Warfarin and Holiday Buffets: Safe Food Choices for Adults Over 70
 slug: when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
 description: >-
-  Guidance on vitamin K–rich holiday dishes to avoid (or carefully portion) when anticoagulated, plus 5 plate-balanced alternatives that maintain INR stability and reduce fall-risk fatigue.
+  Navigate holiday buffets on warfarin safely. Inconsistent vitamin K causes up to 30% of INR swings—try these 5 plate-balanced swaps to stay stable.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: warfarin holiday buffet seniors
+updated: '2026-03-29'
+primaryKeyword: warfarin safe holiday foods vitamin K
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

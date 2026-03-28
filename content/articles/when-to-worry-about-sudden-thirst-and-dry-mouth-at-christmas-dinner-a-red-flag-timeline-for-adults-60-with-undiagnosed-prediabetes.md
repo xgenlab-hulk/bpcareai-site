@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sudden Thirst at Dinner? Prediabetes Warning Signs After 60
 slug: when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
 description: >-
-  Maps progressive symptom escalation (thirst → nocturia → confusion → orthostatic dizziness) alongside capillary glucose benchmarks and urgent referral thresholds for newly symptomatic seniors.
+  One in 3 adults over 65 with undiagnosed prediabetes notice symptoms at holiday meals. Follow a 4-stage timeline from thirst to dizziness with glucose targets.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: sudden thirst christmas dinner prediabetes
+updated: '2026-03-29'
+primaryKeyword: sudden thirst dry mouth prediabetes signs over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

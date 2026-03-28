@@ -1,11 +1,12 @@
 ---
 title: >-
+  HRV Decline After 65: How Breathing Protocols Restore It
 slug: why-does-heart-rate-variability-decline-after-65-and-what-simple-breathing-protocols-can-restore-it-without-medication
 description: >-
-  Explores age-related autonomic nervous system changes affecting HRV, backed by recent geriatric physiology studies, and details evidence-based paced breathing routines validated in adults 65+ with preserved ejection fraction.
+  Baroreflex sensitivity drops 30-40% between ages 50-75, lowering HRV. Discover paced breathing routines that restore autonomic balance naturally.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: heart rate variability after 65
+updated: '2026-03-29'
+primaryKeyword: heart rate variability decline after 65
 topicCluster: special-populations
 image: ''
 relatedSlugs:

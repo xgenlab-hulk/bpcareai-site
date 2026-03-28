@@ -1,11 +1,12 @@
 ---
 title: >-
+  Summer Heat and BP Meds: Why Your Dose May Need Adjusting
 slug: why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
 description: >-
-  Explains thermoregulatory vasodilation, dehydration-induced volume shifts, and diuretic sensitivity in heat, with physician-approved summer tapering protocols for ACE inhibitors and CCBs.
+  Heat can drop systolic readings 10-25 mmHg and raise diuretic potency 20%. Learn physician-approved protocols for adjusting ACE inhibitors and CCBs safely.
 date: '2025-12-16'
-updated: '2025-12-16'
-primaryKeyword: blood pressure meds summer adjustment
+updated: '2026-03-29'
+primaryKeyword: blood pressure medication adjustment summer heat
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

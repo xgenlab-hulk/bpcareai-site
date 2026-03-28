@@ -1,11 +1,12 @@
 ---
 title: >-
+  Traffic Exposure and BP Spikes in Adults With Carotid Plaque
 slug: why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque
 description: >-
-  Explores the mechanistic link between urban traffic exposure, endothelial shear stress, and transient systolic surges in early-atherosclerotic adults, with real-time ambulatory BP data correlations.
+  Commuters with subclinical carotid plaque see 20-30 mmHg systolic surges in traffic. Learn how endothelial shear stress drives these BP spikes.
 date: '2026-03-01'
-updated: '2026-03-01'
-primaryKeyword: morning blood pressure spike traffic exposure
+updated: '2026-03-29'
+primaryKeyword: traffic exposure blood pressure carotid plaque
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: Why Sitting Too Long Raises Blood Pressure
+title: >-
+  How Prolonged Sitting Raises Blood Pressure After Age 50
 slug: why-sitting-too-long-raises-blood-pressure
 description: >-
-  Learn how prolonged sitting affects blood pressure throughout the day and simple ways to break up sedentary time.
+  Sitting 8+ hours daily raises hypertension risk by 20%, even in active adults. Learn how sedentary time stiffens vessels and simple breaks that help.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: sitting and high blood pressure risk
+updated: '2026-03-29'
+primaryKeyword: prolonged sitting and blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

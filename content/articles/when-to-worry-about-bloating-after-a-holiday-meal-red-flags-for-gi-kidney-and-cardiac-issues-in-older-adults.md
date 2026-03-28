@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Meal Bloating: Red Flags for Heart, Kidney, and GI Issues
 slug: when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults
 description: >-
-  Distinguishes benign post-meal fullness from clinically significant bloating linked to heart failure decompensation, chronic kidney disease progression, or gastroparesis—featuring symptom timelines, self-check prompts, and when to call a provider.
+  Some post-meal bloating signals heart failure or kidney disease, not just overeating. Learn symptom timelines and self-checks for adults 50+ this holiday.
 date: '2025-12-16'
-updated: '2025-12-16'
-primaryKeyword: bloating after holiday meal warning signs
+updated: '2026-03-29'
+primaryKeyword: bloating after holiday meal red flags seniors
 topicCluster: renal-health
 image: ''
 relatedSlugs:

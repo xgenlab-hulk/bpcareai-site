@@ -1,11 +1,12 @@
 ---
-title: Why Older Women Gain Weight Faster During the Holidays After Menopause
+title: >-
+  Why Menopause Makes Holiday Weight Gain Harder to Prevent
 slug: why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 description: >-
-  Hormonal and metabolic shifts make holiday weight management harder for postmenopausal women—here’s how to adapt nutrition and activity.
+  After menopause, metabolism drops 200-300 calories daily while fat shifts to the abdomen. Learn nutrition strategies to manage holiday weight gain.
 date: '2025-11-29'
-updated: '2025-11-29'
-primaryKeyword: menopause holiday weight gain women
+updated: '2026-03-29'
+primaryKeyword: holiday weight gain after menopause
 topicCluster: special-populations
 image: ''
 relatedSlugs:

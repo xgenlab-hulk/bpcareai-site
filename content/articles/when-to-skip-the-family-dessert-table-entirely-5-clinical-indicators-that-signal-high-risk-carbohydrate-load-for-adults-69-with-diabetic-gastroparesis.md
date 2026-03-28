@@ -1,11 +1,12 @@
 ---
 title: >-
+  5 Warning Signs to Skip Dessert With Diabetic Gastroparesis After 69
 slug: when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis
 description: >-
-  Identifies subtle but critical signs — including pre-meal gastric rumbling, delayed satiety cues, and post-caffeine nausea — that predict severe delayed gastric emptying and glucose volatility after dessert.
+  Spot 5 body cues—like post-coffee nausea and delayed fullness—that flag gastroparesis flare risk. Even 30g carbs can spike glucose 80-120 mg/dL in seniors.
 date: '2026-03-01'
-updated: '2026-03-01'
-primaryKeyword: skip dessert diabetic gastroparesis seniors
+updated: '2026-03-29'
+primaryKeyword: dessert warning signs diabetic gastroparesis
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

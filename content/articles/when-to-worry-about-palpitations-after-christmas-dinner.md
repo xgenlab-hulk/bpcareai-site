@@ -1,11 +1,12 @@
 ---
-title: When to Worry About Palpitations After Christmas Dinner
+title: >-
+  Palpitations After Christmas Dinner: Red Flags for Adults 50+
 slug: when-to-worry-about-palpitations-after-christmas-dinner
 description: >-
-  Outline red flags indicating when post-meal heart palpitations require urgent medical attention versus normal transient responses.
+  35% of new atrial fibrillation cases in older adults follow heavy holiday meals. Know which post-dinner palpitations are harmless versus holiday heart syndrome.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: post-meal palpitations warning
+updated: '2026-03-29'
+primaryKeyword: heart palpitations after holiday dinner
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

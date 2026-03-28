@@ -1,11 +1,12 @@
 ---
 title: >-
+  Pheochromocytoma Signs: Episodic BP Spikes and Palpitations After 58
 slug: when-to-suspect-pheochromocytoma-related-hypertension-fluctuations-in-adults-58-74-with-episodic-palpitations-and-normotensive-intervals
 description: >-
-  Guides recognition of atypical paroxysmal blood pressure surges—including diurnal timing, orthostatic patterns, and non-classic triggers—beyond textbook 'spells'.
+  Unpredictable BP surges to 180/110 with normal intervals may signal pheochromocytoma—a rare but treatable cause. 30% present with paroxysmal hypertension only.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: "hypertension management seniors"
+updated: '2026-03-29'
+primaryKeyword: pheochromocytoma blood pressure spikes symptoms
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

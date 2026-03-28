@@ -1,11 +1,12 @@
 ---
 title: >-
+  Cardiac Amyloidosis in Women Over 73: Red Flags Often Missed
 slug: when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
 description: >-
-  Guides recognition of underdiagnosed transthyretin amyloidosis using red-flag triad, red-flag ECG patterns (low voltage + pseudo-infarct), and cost-effective screening pathways—prioritizing gender-specific presentation.
+  Bilateral carpal tunnel, fatigue, and normal EF in women 73+ may hide cardiac amyloidosis (ATTR). 75% of patients report carpal tunnel years before diagnosis.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: cardiac amyloidosis symptoms women 73+
+updated: '2026-03-29'
+primaryKeyword: cardiac amyloidosis warning signs in women over 73
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Hot Chocolate Before Bed May Worsen Nighttime Urination After 70
 slug: why-your-one-cup-of-hot-chocolate-habit-may-be-worsening-nocturnal-polyuria-in-men-over-70-with-bph
 description: >-
-  Analyzes how cocoa-derived methylxanthines and temperature-driven nocturnal diuresis interact with age-related bladder compliance decline and alpha-adrenergic tone in aging male urinary systems.
+  Cocoa theobromine can raise nighttime urine volume 15-20% in men with BPH. See how timing, bladder compliance, and ADH shifts interact after age 70.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: hot chocolate nocturnal polyuria bph
+updated: '2026-03-29'
+primaryKeyword: hot chocolate and nighttime urination in older men
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

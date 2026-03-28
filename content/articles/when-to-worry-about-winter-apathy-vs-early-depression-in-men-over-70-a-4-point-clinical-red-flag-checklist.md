@@ -1,11 +1,12 @@
 ---
 title: >-
+  Winter Apathy or Depression in Men Over 70? A 4-Point Checklist
 slug: when-to-worry-about-winter-apathy-vs-early-depression-in-men-over-70-a-4-point-clinical-red-flag-checklist
 description: >-
-  A clinician-vetted, behaviorally anchored tool to distinguish motivational decline from neurological or psychiatric causes—focused specifically on male-pattern emotional withdrawal in late life.
+  Up to 25% of adults over 70 report mild winter apathy, but depression needs different care. Use this 4-point behavioral checklist to spot the difference.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: winter apathy vs depression in men over 70
+updated: '2026-03-29'
+primaryKeyword: winter apathy vs depression men over 70 checklist
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

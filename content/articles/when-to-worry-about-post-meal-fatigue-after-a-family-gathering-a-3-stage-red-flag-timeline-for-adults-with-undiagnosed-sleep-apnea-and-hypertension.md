@@ -1,11 +1,12 @@
 ---
 title: >-
+  Post-Meal Fatigue and Sleep Apnea: A 3-Stage Red Flag Guide
 slug: when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
 description: >-
-  Links postprandial somnolence to nocturnal hypoxia patterns, offering a symptom-triggered escalation pathway (from hydration check → pulse oximetry → urgent CPAP re-evaluation).
+  About 60% of adults with sleep apnea have worsened post-meal drowsiness. Learn a 3-stage timeline linking fatigue to nocturnal hypoxia and CPAP reassessment.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: post-meal fatigue sleep apnea red flags
+updated: '2026-03-29'
+primaryKeyword: post-meal fatigue with sleep apnea warning signs
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

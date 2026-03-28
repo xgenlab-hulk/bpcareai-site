@@ -1,11 +1,12 @@
 ---
 title: >-
+  Post-Walk BP Drop in Cardiac Amyloidosis: Signs After 74
 slug: why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis
 description: >-
-  Distinguishes pathological post-exercise hypotension due to impaired myocardial compliance and autonomic neuropathy from benign vasodilation in aging hearts.
+  Cardiac amyloidosis can cause 25-40 mmHg systolic drops after walking in adults 74+. Learn how stiff heart walls and autonomic neuropathy create dangerous dips.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: post-walk hypotension in cardiac amyloidosis
+updated: '2026-03-29'
+primaryKeyword: post-walk blood pressure drop cardiac amyloidosis
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

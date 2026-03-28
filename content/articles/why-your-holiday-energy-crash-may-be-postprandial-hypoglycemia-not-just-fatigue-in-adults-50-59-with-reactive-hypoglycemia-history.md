@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Energy Crash or Postprandial Hypoglycemia? Ages 50-59
 slug: why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history
 description: >-
-  Helps newly diagnosed or early-stage diabetics differentiate between normal tiredness and pathologic glucose dips using symptom clusters, timing windows, and self-testing protocols.
+  Muscle glucose disposal drops 15% per decade after 50. Learn to tell normal holiday fatigue from reactive hypoglycemia using symptom timing and self-testing.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: holiday energy crash postprandial hypoglycemia
+updated: '2026-03-29'
+primaryKeyword: holiday energy crash vs postprandial hypoglycemia
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

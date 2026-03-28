@@ -1,11 +1,12 @@
 ---
-title: When to Eat Before a Family Gathering If You’re on GLP-1 Agonists and Over 65
+title: >-
+  GLP-1 Meal Timing Before Family Gatherings: A Guide for Adults 65+
 slug: when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
 description: >-
-  Guidance on optimal pre-event meal timing, macronutrient composition, and hydration to prevent nausea, delayed gastric emptying, and postprandial hypoglycemia in older GLP-1 users.
+  Learn the optimal pre-event eating window for GLP-1 users over 65. Gastric emptying extends to 5-8 hours—smart timing cuts nausea and hypoglycemia risk.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: glp-1 agonist meal timing family gathering
+updated: '2026-03-29'
+primaryKeyword: GLP-1 agonist meal timing before gatherings
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

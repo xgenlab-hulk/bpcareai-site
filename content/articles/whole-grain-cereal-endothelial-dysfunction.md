@@ -1,11 +1,12 @@
 ---
 title: >-
+  Whole Grain Cereal and Artery Function After 60: Hidden Risks
 slug: the-truth-about-heart-healthy-whole-grain-cereals-marketed-to-seniors-why-92-trigger-postprandial-endothelial-dysfunction-despite-low-sugar-in-adults-64-with-metabolic-flexibility-decline
 description: >-
-  Debunks marketing claims by analyzing glycemic variability, insulin spike duration, and flow-mediated dilation data in older adults whose post-meal vascular response deteriorates before glucose rises.
+  FMD data show 92% of senior-marketed whole grain cereals trigger endothelial dysfunction within 90 minutes. Why low-sugar labels miss the vascular impact.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: whole grain cereal endothelial dysfunction
+updated: '2026-03-29'
+primaryKeyword: whole grain cereal artery health after 60
 topicCluster: special-populations
 image: ''
 relatedSlugs:

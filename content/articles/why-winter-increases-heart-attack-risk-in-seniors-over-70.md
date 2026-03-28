@@ -1,11 +1,12 @@
 ---
-title: Why Winter Increases Heart Attack Risk in Seniors Over 70
+title: >-
+  Why Cold Weather Raises Heart Attack Risk for Seniors 70+
 slug: why-winter-increases-heart-attack-risk-in-seniors-over-70
 description: >-
-  Explores the physiological reasons cold weather raises heart attack risk, especially in older adults with preexisting conditions.
+  Winter can raise systolic BP by 10-20 mmHg in older adults as vasoconstriction strains aging arteries. Learn how cold weather threatens heart health.
 date: '2025-11-28'
-updated: '2025-11-28'
-primaryKeyword: winter heart attack risk seniors
+updated: '2026-03-29'
+primaryKeyword: cold weather heart attack risk in seniors
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

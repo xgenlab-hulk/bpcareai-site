@@ -1,11 +1,12 @@
 ---
 title: >-
+  Hot Tub and Blood Pressure After 72: Safe Soaking Protocols
 slug: why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
 description: >-
-  Explains thermoregulatory vasodilation, autonomic blunting, and baroreflex delay in aging—and offers stepwise acclimatization protocols for hydrotherapy use.
+  68% of adults over 70 see a 20+ mmHg systolic drop post-soak. Learn acclimatization protocols to prevent orthostatic falls after hot tub use.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: hot-tub immersion blood pressure orthostatic hypotension
+updated: '2026-03-29'
+primaryKeyword: hot tub blood pressure seniors orthostatic
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

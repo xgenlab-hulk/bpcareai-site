@@ -1,11 +1,12 @@
 ---
 title: >-
+  Could It Be APS? Autoimmune Polyglandular Syndrome After 57
 slug: when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving
 description: >-
-  Guides primary care clinicians and patients on red-flag symptom clusters (e.g., hyponatremia + hyperkalemia + vitiligo), urgent lab workup, and why this is often misdiagnosed as 'burnout' or 'aging'.
+  Fatigue, salt cravings, and new diabetes after 57 may signal autoimmune polyglandular syndrome (APS). Nearly 30% are diagnosed only after an adrenal crisis.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: autoimmune polyglandular syndrome diabetes fatigue
+updated: '2026-03-29'
+primaryKeyword: autoimmune polyglandular syndrome signs in older adults
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

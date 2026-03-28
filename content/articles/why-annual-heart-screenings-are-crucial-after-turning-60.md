@@ -1,11 +1,12 @@
 ---
-title: Why Annual Heart Screenings Are Crucial After Turning 60
+title: >-
+  Why Annual Heart Screenings After 60 Catch Problems Early
 slug: why-annual-heart-screenings-are-crucial-after-turning-60
 description: >-
-  Understand which tests can catch early signs of heart disease before symptoms appear.
+  Up to 80% of heart disease is preventable with timely screening. Learn which tests catch silent arterial stiffness, rising LDL, and early inflammation.
 date: '2025-12-07'
-updated: '2025-12-07'
-primaryKeyword: annual heart screenings after 60
+updated: '2026-03-29'
+primaryKeyword: annual heart screening after 60 why it matters
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

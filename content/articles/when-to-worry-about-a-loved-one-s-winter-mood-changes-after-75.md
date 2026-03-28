@@ -1,11 +1,12 @@
 ---
-title: When to Worry About a Loved One’s Winter Mood Changes After 75
+title: >-
+  Winter Mood Changes After 75: When to Worry About Depression
 slug: when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
 description: >-
-  Guide families on identifying red flags that signal depression versus normal aging behaviors in cold months.
+  Not all winter sadness is normal aging. Learn the red flags that separate seasonal depression from typical mood shifts in loved ones over 75—and when to act.
 date: '2025-12-02'
-updated: '2025-12-02'
-primaryKeyword: "health management winter seniors"
+updated: '2026-03-29'
+primaryKeyword: seasonal depression warning signs seniors over 75
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

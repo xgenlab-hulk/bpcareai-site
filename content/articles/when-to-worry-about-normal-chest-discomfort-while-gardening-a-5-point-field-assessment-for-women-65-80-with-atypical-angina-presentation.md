@@ -1,11 +1,12 @@
 ---
 title: >-
+  Chest Pain While Gardening: 5-Point Angina Check for Women 65+
 slug: when-to-worry-about-normal-chest-discomfort-while-gardening-a-5-point-field-assessment-for-women-65-80-with-atypical-angina-presentation
 description: >-
-  Provides a practical, symptom-contextualized decision tree for distinguishing musculoskeletal strain, GERD, and silent ischemia—emphasizing jaw/neck radiation timing, exertion-recovery mismatch, and HRV trends via consumer wearables.
+  Gardening raises heart rate 30-40%, unmasking silent ischemia in older women. This 5-point field test separates muscle strain from atypical angina quickly.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: atypical angina in women gardening
+updated: '2026-03-29'
+primaryKeyword: chest discomfort while gardening women over 65
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

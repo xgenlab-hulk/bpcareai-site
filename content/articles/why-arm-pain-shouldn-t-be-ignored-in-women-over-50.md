@@ -1,11 +1,12 @@
 ---
-title: Why Arm Pain Shouldn’t Be Ignored in Women Over 50
+title: >-
+  Arm Pain in Women Over 50: A Heart Warning Sign to Know
 slug: why-arm-pain-shouldn-t-be-ignored-in-women-over-50
 description: >-
-  Recognize how arm pain can be a silent sign of heart trouble, especially in women approaching menopause and beyond.
+  43% of women having a cardiac event report no chest pain. Learn why unexplained arm discomfort after menopause may signal ischemia and when to act.
 date: '2025-12-05'
-updated: '2025-12-05'
-primaryKeyword: arm pain and heart attack symptoms in women over 50
+updated: '2026-03-29'
+primaryKeyword: arm pain heart attack warning signs women over 50
 topicCluster: special-populations
 image: ''
 relatedSlugs:

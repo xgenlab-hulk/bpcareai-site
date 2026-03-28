@@ -1,11 +1,12 @@
 ---
-title: 'Winter vs. Summer Blood Pressure: What Seniors Need to Know'
+title: >-
+  Winter vs. Summer Blood Pressure: Seasonal Shifts Seniors Must Know
 slug: winter-vs-summer-blood-pressure-what-seniors-need-to-know
 description: >-
-  Compares seasonal blood pressure fluctuations and explains why winter often leads to higher readings in older adults.
+  Winter systolic BP rises 5-10 mmHg on average in older adults, reaching 15-20 mmHg with hypertension. Learn how cold, diet, and activity shifts drive it.
 date: '2025-11-28'
-updated: '2025-11-28'
-primaryKeyword: winter vs summer blood pressure
+updated: '2026-03-29'
+primaryKeyword: seasonal blood pressure changes in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

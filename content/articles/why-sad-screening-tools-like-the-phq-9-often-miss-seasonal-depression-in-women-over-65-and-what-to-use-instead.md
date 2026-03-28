@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why the PHQ-9 Misses Seasonal Depression in Women Over 65
 slug: why-sad-screening-tools-like-the-phq-9-often-miss-seasonal-depression-in-women-over-65-and-what-to-use-instead
 description: >-
-  Analyzes cultural and cognitive biases in standard depression scales, and introduces a modified, seasonally weighted assessment validated in geriatric primary care settings.
+  Nearly 43% of women 65-84 with clinical SAD score below PHQ-9 thresholds. Discover why standard tools miss seasonal depression and what works.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: SAD screening tools for older women
+updated: '2026-03-29'
+primaryKeyword: PHQ-9 seasonal depression screening older women
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

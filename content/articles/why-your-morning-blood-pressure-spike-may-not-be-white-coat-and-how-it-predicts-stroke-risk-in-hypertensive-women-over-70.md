@@ -1,11 +1,12 @@
 ---
 title: >-
+  Morning BP Surge and Stroke Risk in Hypertensive Women Over 70
 slug: why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
 description: >-
-  Explains the pathophysiology of morning surge, its independent association with cerebrovascular events, and validated home tracking strategies beyond single readings.
+  Each 10 mmHg morning systolic surge raises stroke risk 22% in women over 70. Discover why this differs from white-coat effect and how home tracking helps.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: morning blood pressure spike stroke risk
+updated: '2026-03-29'
+primaryKeyword: morning blood pressure surge stroke risk women 70
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

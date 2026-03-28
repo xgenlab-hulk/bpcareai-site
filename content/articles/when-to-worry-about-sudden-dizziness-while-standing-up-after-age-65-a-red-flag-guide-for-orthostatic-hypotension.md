@@ -1,11 +1,12 @@
 ---
 title: >-
+  Dizziness Standing Up After 65: Orthostatic Hypotension Guide
 slug: when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
 description: >-
-  Distinguishes benign lightheadedness from pre-syncope signals tied to autonomic dysfunction, polypharmacy, or early heart failure—and actionable home assessments.
+  A systolic drop of 20+ mmHg within 3 minutes defines orthostatic hypotension. Learn which warning signs separate benign dizziness from pre-syncope after 65.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: dizziness standing up orthostatic hypotension
+updated: '2026-03-29'
+primaryKeyword: dizziness standing up orthostatic hypotension 65
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

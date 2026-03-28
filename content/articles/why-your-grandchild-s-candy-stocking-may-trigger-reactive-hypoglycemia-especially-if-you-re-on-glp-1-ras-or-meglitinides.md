@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Candy and Reactive Hypoglycemia on GLP-1 Medications
 slug: why-your-grandchild-s-candy-stocking-may-trigger-reactive-hypoglycemia-especially-if-you-re-on-glp-1-ras-or-meglitinides
 description: >-
-  Explains rapid carb load + medication interaction risks, with symptom recognition, timing windows, and safe sharing strategies for intergenerational gifting.
+  Stocking candy on GLP-1 agonists or meglitinides can drop glucose to 55-65 mg/dL in 90 minutes. Learn symptom timing and safe sharing strategies for seniors.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: "health management seniors"
+updated: '2026-03-29'
+primaryKeyword: holiday candy reactive hypoglycemia GLP-1 meds
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

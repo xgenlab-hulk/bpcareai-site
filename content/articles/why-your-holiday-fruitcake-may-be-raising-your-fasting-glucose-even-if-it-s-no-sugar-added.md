@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why No-Sugar-Added Fruitcake Still Spikes Fasting Glucose
 slug: why-your-holiday-fruitcake-may-be-raising-your-fasting-glucose-even-if-it-s-no-sugar-added
 description: >-
-  Breaks down how concentrated dried fruits, fructose-rich syrups, and resistant starch breakdown in aged cakes impact overnight glycemia—and offers lab-validated substitution ratios for safer traditional recipes.
+  Aged fruitcake (100g) yields 48g carbs, raising fasting glucose 18-25 mg/dL in adults 60+. See why dried fruits and starch breakdown bypass sugar-free labels.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: fruitcake fasting glucose seniors
+updated: '2026-03-29'
+primaryKeyword: no sugar added fruitcake raises fasting glucose
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

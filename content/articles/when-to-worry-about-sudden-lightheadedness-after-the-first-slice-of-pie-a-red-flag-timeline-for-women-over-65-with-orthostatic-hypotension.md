@@ -1,11 +1,12 @@
 ---
 title: >-
+  Postprandial Lightheadedness in Women Over 65: Red Flag Guide
 slug: when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
 description: >-
-  A clinically grounded, symptom-timing guide distinguishing normal postprandial hypotension from dangerous vasovagal or autonomic triggers—specifically for older women managing BP meds or Parkinson’s-related dysautonomia.
+  About 35% of older women experience orthostatic hypotension, rising to 60% with Parkinson's. This guide separates normal post-meal BP dips from urgent triggers.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: lightheadedness after pie orthostatic hypotension women 65+
+updated: '2026-03-29'
+primaryKeyword: postprandial lightheadedness women over 65
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

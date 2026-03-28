@@ -1,11 +1,12 @@
 ---
 title: >-
+  Normal BP During Bronchitis? Why ACE Inhibitor Users Should Worry
 slug: when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
 description: >-
-  Explains how airway inflammation and cough-induced intrathoracic pressure surges mask true vascular resistance, increasing risk of undetected hypertensive urgency.
+  Adults 67+ on ACE inhibitors are 2.3x more likely to have masked BP variability during illness. Learn how coughing hides vascular stress from home readings.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: blood pressure during bronchitis ace inhibitors
+updated: '2026-03-29'
+primaryKeyword: misleading blood pressure during bronchitis
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

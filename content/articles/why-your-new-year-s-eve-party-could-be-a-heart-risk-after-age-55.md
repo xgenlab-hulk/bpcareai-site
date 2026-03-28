@@ -1,11 +1,12 @@
 ---
-title: Why Your New Year’s Eve Party Could Be a Heart Risk After Age 55
+title: >-
+  New Year's Eve Heart Risks After 55: What Cardiologists Warn About
 slug: why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
 description: >-
-  Unpack how celebratory behaviors like drinking, stress, and sleep disruption increase cardiac strain at the end of the year.
+  Hospital AFib admissions rise 20% from Dec 24-Jan 1. Learn how alcohol, sleep loss, and stress create cardiac strain for adults 55+ at holiday parties.
 date: '2025-12-05'
-updated: '2025-12-05'
-primaryKeyword: New Year's heart risk
+updated: '2026-03-29'
+primaryKeyword: New Year's Eve heart risk for seniors
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

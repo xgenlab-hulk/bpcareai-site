@@ -1,11 +1,12 @@
 ---
-title: When to Worry About Chest Tightness in Cold Weather
+title: >-
+  Chest Tightness in Cold Weather: Normal Response or Heart Warning?
 slug: when-to-worry-about-chest-tightness-in-cold-weather
 description: >-
-  Guides readers on distinguishing normal cold-induced discomfort from dangerous cardiac symptoms requiring immediate attention.
+  Cold air can raise systolic BP 10-20 mmHg, unmasking silent coronary disease. Learn which winter chest tightness patterns need urgent evaluation.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: chest tightness winter cold
+updated: '2026-03-29'
+primaryKeyword: chest tightness in cold weather heart risk
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

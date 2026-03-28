@@ -1,11 +1,12 @@
 ---
 title: >-
+  Untreated Sleep Apnea Accelerates Heart Disease in Men 55+
 slug: why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
 description: >-
-  Explores the under-recognized link between obstructive sleep apnea and accelerated coronary artery disease in midlife and older men—backed by 2023–2024 cohort studies.
+  Men with untreated OSA face 42% higher coronary calcification risk per 2023 JAMA data. Explore the inflammation-to-plaque pathway and CPAP benefits.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: sleep apnea and heart disease progression in men
+updated: '2026-03-29'
+primaryKeyword: sleep apnea heart disease risk men over 55
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

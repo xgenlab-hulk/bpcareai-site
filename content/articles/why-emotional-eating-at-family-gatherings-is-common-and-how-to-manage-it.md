@@ -1,11 +1,12 @@
 ---
-title: Why Emotional Eating at Family Gatherings Is Common—And How to Manage It
+title: >-
+  Emotional Eating at Family Gatherings After 50: Why It Happens
 slug: why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
 description: >-
-  Explores the psychological triggers of overeating during family events and offers tools to cope with stress, nostalgia, and pressure.
+  Cortisol and dopamine surges drive overeating at family meals in adults 50+. Try the plate method and mindful strategies to enjoy gatherings without BP spikes.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: emotional eating at family events
+updated: '2026-03-29'
+primaryKeyword: emotional eating at family gatherings after 50
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

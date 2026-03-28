@@ -1,11 +1,12 @@
 ---
 title: >-
+  Post-Meal Walking for Glucose Control in Seniors Over 70
 slug: when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
 description: >-
-  Details the optimal 12–22 minute window post-holiday meal for glucose-lowering effect, adjusted for blood pressure stability, with terrain and pace recommendations validated in frail elders.
+  Walking 12-22 minutes after eating cuts postprandial glucose (blood sugar) spikes up to 25% in adults 70+. Get pace and terrain tips for safe movement.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: post-meal walk timing seniors orthostatic hypotension
+updated: '2026-03-29'
+primaryKeyword: post-meal walking for blood sugar control seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

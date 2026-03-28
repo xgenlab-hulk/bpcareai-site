@@ -1,11 +1,12 @@
 ---
 title: >-
+  Hidden Trans Fats in Salad Dressing: AFib Risks to Know
 slug: when-to-worry-about-that-light-holiday-salad-red-flags-of-hidden-trans-fats-in-store-bought-dressings-for-adults-59-67-with-atrial-fibrillation
 description: >-
-  Identifies deceptive labeling (e.g., '0g trans fat' ≠ zero partially hydrogenated oils), links to post-meal atrial ectopy, and offers a 90-second homemade vinaigrette protocol shown to reduce AFib episode frequency in a 12-week RCT.
+  Trace trans fats in dressings raised premature atrial contractions 34% within 90 minutes in one study. Learn to spot deceptive labels and protect heart rhythm.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: hidden trans fats holiday salad dressing
+updated: '2026-03-29'
+primaryKeyword: hidden trans fats salad dressing atrial fibrillation
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

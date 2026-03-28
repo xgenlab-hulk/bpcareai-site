@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Heart Disease Speeds Up After Menopause — Key Pathways
 slug: why-does-heart-disease-progress-faster-in-women-after-menopause-and-what-hormone-modulated-endothelial-pathways-are-involved
 description: >-
-  Explores the biological mechanisms linking estrogen decline to accelerated atherosclerosis, microvascular dysfunction, and diagnostic delays in women aged 55–72.
+  Postmenopausal women lose 30-40% of nitric oxide bioavailability, driving arterial stiffness. Explore estrogen-linked endothelial pathways.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: heart disease progression after menopause
+updated: '2026-03-29'
+primaryKeyword: heart disease after menopause women
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

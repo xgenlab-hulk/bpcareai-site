@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sudden Vision Changes With Diabetes After 70: Beyond Retinopathy
 slug: when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy
 description: >-
-  Identifies non-retinal causes of acute visual instability—including osmotic lens changes, posterior vitreous detachment, and medication-induced mydriasis—requiring urgent differentiation from diabetic retinopathy.
+  Most acute vision shifts in diabetic seniors come from non-retinal causes like osmotic lens changes or medication effects. Learn 3 key causes and when to act.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: sudden vision changes in elderly diabetes patients
+updated: '2026-03-29'
+primaryKeyword: sudden vision changes diabetes after 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

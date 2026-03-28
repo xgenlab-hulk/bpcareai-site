@@ -1,11 +1,12 @@
 ---
-title: Why Emotional Eating During Christmas Raises Blood Sugar After 50
+title: >-
+  How Christmas Emotional Eating Spikes Blood Sugar After 50
 slug: why-emotional-eating-during-christmas-raises-blood-sugar-after-50
 description: >-
-  Examine the connection between holiday stress, emotional eating, and blood glucose spikes in adults over 50 with prediabetes or diabetes.
+  Holiday stress raises cortisol, pushing post-meal glucose to 180-220 mg/dL in adults 50+ with prediabetes. Manage emotional eating with these proven steps.
 date: '2025-12-12'
-updated: '2025-12-12'
-primaryKeyword: emotional eating blood sugar over 50
+updated: '2026-03-29'
+primaryKeyword: Christmas emotional eating and blood sugar after 50
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

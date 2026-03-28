@@ -1,11 +1,12 @@
 ---
 title: >-
+  One BP Reading Over 180/110: When to Worry and What to Do Next
 slug: when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
 description: >-
-  Provides a 4-tier clinical decision tree (observation → urgent referral → ER criteria → red-flag drug review) for hypertensive urgency in polypharmacy patients 55–79.
+  A single BP reading over 180/110 may reflect drug interactions—not stress. NSAIDs can raise systolic 3-10 mmHg. Use this 4-tier decision tree to respond.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: single high blood pressure reading NSAIDs
+updated: '2026-03-29'
+primaryKeyword: single high blood pressure reading causes and risks
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

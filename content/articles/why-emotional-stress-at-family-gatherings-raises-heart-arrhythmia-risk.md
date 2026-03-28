@@ -1,11 +1,12 @@
 ---
-title: Why Emotional Stress at Family Gatherings Raises Heart Arrhythmia Risk
+title: >-
+  Family Gathering Stress and Heart Arrhythmia: What to Know
 slug: why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
 description: >-
-  Examines the connection between intense family dynamics during holidays and sudden cardiac rhythm disturbances in midlife and older adults.
+  Up to 30% of first-time AFib episodes occur during holidays, fueled by stress and cortisol surges. Learn warning signs and calming tips for adults 50+.
 date: '2025-12-12'
-updated: '2025-12-12'
-primaryKeyword: emotional stress and heart arrhythmia
+updated: '2026-03-29'
+primaryKeyword: emotional stress and heart arrhythmia risk at holidays
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

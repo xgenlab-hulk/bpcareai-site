@@ -1,11 +1,12 @@
 ---
 title: >-
+  Heart Palpitations After Midnight Toasts: Red Flag Guide for Women 60+
 slug: when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 description: >-
-  A time-stamped clinical guide distinguishing benign post-alcohol ectopy from worrisome patterns (e.g., >30s sustained tachycardia, syncope prodrome, orthostatic BP drop) with gender-specific thresholds and action steps.
+  Women 60+ clear alcohol 20-30% slower, raising arrhythmia risk. Learn which post-toast palpitation patterns are benign versus signs of atrial fibrillation.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: heart palpitations after midnight toasts women 60+
+updated: '2026-03-29'
+primaryKeyword: heart palpitations after alcohol women over 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

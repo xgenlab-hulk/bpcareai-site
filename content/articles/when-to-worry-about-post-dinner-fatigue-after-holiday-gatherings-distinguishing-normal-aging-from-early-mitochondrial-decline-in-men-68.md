@@ -1,11 +1,12 @@
 ---
 title: >-
+  Post-Dinner Fatigue in Men 68+: Aging or Mitochondrial Decline?
 slug: when-to-worry-about-post-dinner-fatigue-after-holiday-gatherings-distinguishing-normal-aging-from-early-mitochondrial-decline-in-men-68
 description: >-
-  Guides recognition of fatigue patterns linked to age-related mitochondrial inefficiency vs. benign postprandial somnolence, with at-home functional screening cues.
+  ATP output drops 10-20% per decade after 50. Use a simple 3-day home screen to tell benign post-meal drowsiness from mitochondrial inefficiency during holidays.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: post-dinner fatigue mitochondrial decline seniors
+updated: '2026-03-29'
+primaryKeyword: post-dinner fatigue and mitochondrial decline in seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:

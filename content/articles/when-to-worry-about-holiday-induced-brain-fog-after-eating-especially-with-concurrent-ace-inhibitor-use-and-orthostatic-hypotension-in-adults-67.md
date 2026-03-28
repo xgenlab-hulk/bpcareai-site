@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Brain Fog: When ACE Inhibitors and Low BP Are to Blame
 slug: when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67
 description: >-
-  Distinguishes between benign postprandial fatigue and concerning neurocognitive dips linked to cerebral hypoperfusion, medication timing, and meal composition in vulnerable older adults.
+  30% of adults over 65 have orthostatic hypotension. See how ACE inhibitors and holiday meals reduce cerebral blood flow — plus 4 timing fixes to stay sharp.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: holiday brain fog orthostatic hypotension seniors
+updated: '2026-03-29'
+primaryKeyword: brain fog after eating with ACE inhibitors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

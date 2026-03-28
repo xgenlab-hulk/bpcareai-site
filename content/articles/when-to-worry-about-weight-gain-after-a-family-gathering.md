@@ -1,11 +1,12 @@
 ---
-title: When to Worry About Weight Gain After a Family Gathering
+title: >-
+  Post-Holiday Weight Gain: When It's Normal vs. a Heart Risk
 slug: when-to-worry-about-weight-gain-after-a-family-gathering
 description: >-
-  Explains what level of post-event weight gain is normal versus concerning, especially for those with cardiovascular or metabolic risks.
+  A 2-4 lb gain after family meals resolves in days, but 5+ lbs over 10 days may raise systolic BP 2-4 mmHg. Know the thresholds for adults over 50.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: post-holiday weight gain concerns
+updated: '2026-03-29'
+primaryKeyword: weight gain after holiday gathering when to worry
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

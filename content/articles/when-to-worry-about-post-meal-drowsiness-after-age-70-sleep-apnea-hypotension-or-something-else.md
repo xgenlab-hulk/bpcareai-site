@@ -1,11 +1,12 @@
 ---
 title: >-
+  Post-Meal Drowsiness After 70: Sleep Apnea, Low BP, or More?
 slug: when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
 description: >-
-  Distinguishes between benign postprandial somnolence and red-flag fatigue linked to nocturnal hypoxia, orthostatic drops, or early delirium—plus a 3-step home assessment guide.
+  Sleep apnea affects 60% of adults over 65 yet often goes undiagnosed. Learn to separate harmless food coma from red-flag drowsiness tied to hypoxia or BP drops.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: post-meal drowsiness seniors red flags
+updated: '2026-03-29'
+primaryKeyword: post-meal drowsiness causes after age 70
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

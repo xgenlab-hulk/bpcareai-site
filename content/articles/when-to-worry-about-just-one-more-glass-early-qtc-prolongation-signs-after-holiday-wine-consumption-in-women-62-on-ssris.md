@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Wine on SSRIs: QT Prolongation Signs for Women 62+
 slug: when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris
 description: >-
-  Identifies subtle symptoms like morning lightheadedness, delayed sinus recovery after standing, and nocturnal PVC clustering as red flags for drug-alcohol QT prolongation in older women on antidepressants.
+  18% of older SSRI users show QTc prolongation with one daily drink. Spot early red flags like morning dizziness and nocturnal PVCs before arrhythmia risk rises.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: holiday wine qt prolongation ssri women
+updated: '2026-03-29'
+primaryKeyword: wine and SSRI QT prolongation in older women
 topicCluster: special-populations
 image: ''
 relatedSlugs:

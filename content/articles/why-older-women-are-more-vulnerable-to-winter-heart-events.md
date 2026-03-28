@@ -1,11 +1,12 @@
 ---
-title: Why Older Women Are More Vulnerable to Winter Heart Events
+title: >-
+  Why Postmenopausal Women Face More Winter Heart Events
 slug: why-older-women-are-more-vulnerable-to-winter-heart-events
 description: >-
-  Discusses hormonal, physiological, and symptom-recognition differences that increase cardiac risk in postmenopausal women in winter.
+  Postmenopausal women show 28% higher coronary risk in winter vs summer. Learn how estrogen loss and cold-induced BP spikes increase cardiac danger.
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: older women winter heart risk
+updated: '2026-03-29'
+primaryKeyword: winter heart attack risk in older women
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

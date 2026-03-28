@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Holiday Meal Timing Disrupts BP Medication in Men Over 62
 slug: why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
 description: >-
-  Explains chronopharmacology mismatches—especially for ACE inhibitors and calcium channel blockers—when dosing windows collide with late-night desserts or skipped breakfasts.
+  Late meals and skipped breakfasts blunt ACE inhibitor absorption by shifting dosing windows. Use these chronopharmacology tips to maintain BP control.
 date: '2025-12-24'
-updated: '2025-12-24'
-primaryKeyword: meal timing blood pressure meds seniors
+updated: '2026-03-29'
+primaryKeyword: holiday meal timing and blood pressure medication
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

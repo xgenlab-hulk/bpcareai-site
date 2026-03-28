@@ -1,11 +1,12 @@
 ---
-title: Why Women’s Heart Attack Symptoms Differ After Menopause
+title: >-
+  Heart Attack Symptoms Women Miss After Menopause
 slug: why-women-s-heart-attack-symptoms-differ-after-menopause
 description: >-
-  Learn about the unique signs women experience and why they’re often missed or misdiagnosed.
+  Up to 45% of women having a heart attack report no classic chest pain. Learn why menopause changes warning signs to fatigue, jaw pain, and nausea.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: women heart attack symptoms after menopause
+updated: '2026-03-29'
+primaryKeyword: heart attack symptoms in women after menopause
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

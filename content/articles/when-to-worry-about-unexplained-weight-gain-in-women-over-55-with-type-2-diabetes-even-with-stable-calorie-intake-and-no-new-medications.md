@@ -1,11 +1,12 @@
 ---
 title: >-
+  Unexplained Weight Gain After 55 With Type 2 Diabetes: 3 Hidden Causes
 slug: when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
 description: >-
-  Examines subclinical hypothyroidism, cortisol rhythm disruption, and adipose tissue inflammation as drivers—and introduces targeted diagnostic thresholds.
+  Subclinical hypothyroidism affects up to 15% of women over 60 with diabetes. See how thyroid shifts, cortisol disruption, and adipose inflammation drive gain.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: unexplained weight gain diabetes women 55+
+updated: '2026-03-29'
+primaryKeyword: unexplained weight gain women over 55 with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

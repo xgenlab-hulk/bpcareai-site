@@ -1,11 +1,12 @@
 ---
 title: >-
+  Night Muscle Cramps in Women 68+ on Diuretics: When to Worry
 slug: when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
 description: >-
-  Details a clinically underrecognized red-flag triad—nocturnal cramps + thiazide use + subclinical hypomagnesemia—and how it precedes silent neuropathic progression and falls risk.
+  60% of adults over 65 get nocturnal cramps, but with thiazides and diabetes the triad signals low magnesium and rising fall risk. Here is what to test.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: night muscle cramps diabetes diuretics
+updated: '2026-03-29'
+primaryKeyword: nocturnal leg cramps diabetes diuretics women over 68
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

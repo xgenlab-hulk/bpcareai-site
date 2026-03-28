@@ -1,11 +1,12 @@
 ---
-title: When to Worry About Chest Discomfort After a Big Holiday Meal
+title: >-
+  Chest Discomfort After a Holiday Meal: Heart vs. Heartburn Signs
 slug: when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
 description: >-
-  Distinguish between normal fullness and potential cardiac warning signs after eating—especially critical for older adults with heart disease history.
+  Chest tightness 15-30 minutes after eating may be angina, not heartburn. Learn how seniors with heart disease history can tell the difference safely.
 date: '2025-12-02'
-updated: '2025-12-02'
-primaryKeyword: chest pain after eating seniors warning signs
+updated: '2026-03-29'
+primaryKeyword: chest discomfort after eating heart warning signs
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

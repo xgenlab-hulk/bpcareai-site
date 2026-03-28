@@ -1,11 +1,12 @@
 ---
 title: >-
+  Post-Thanksgiving Bloating in Women Over 70: When to Be Concerned
 slug: when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
 description: >-
-  Distinguishes normal post-meal fullness from concerning bloating linked to heart failure, kidney dysfunction, or medication interactions—specifically in older women with comorbidities.
+  In women over 70, persistent bloating may signal fluid retention from heart failure or CKD. Watch for 3-5 lb weight gain in 2-3 days and ankle swelling.
 date: '2025-12-17'
-updated: '2025-12-17'
-primaryKeyword: bloating after holiday meals seniors
+updated: '2026-03-29'
+primaryKeyword: post-holiday bloating warning signs women over 70
 topicCluster: renal-health
 image: ''
 relatedSlugs:

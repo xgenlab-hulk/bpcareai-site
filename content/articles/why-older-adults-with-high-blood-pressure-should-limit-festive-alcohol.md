@@ -1,11 +1,12 @@
 ---
-title: Why Older Adults with High Blood Pressure Should Limit Festive Alcohol
+title: >-
+  How Festive Alcohol Raises Heart Risk With High Blood Pressure
 slug: why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
 description: >-
-  Explain how hypertension amplifies the arrhythmogenic effects of alcohol, increasing holiday heart syndrome susceptibility.
+  Adults 65+ with hypertension face 40% higher afib risk from holiday drinking. Learn how alcohol triggers BP rebound spikes and safer celebration strategies.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: hypertension festive alcohol risk
+updated: '2026-03-29'
+primaryKeyword: holiday alcohol and high blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

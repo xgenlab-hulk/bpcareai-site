@@ -1,11 +1,12 @@
 ---
-title: Why Sudden Weight Gain Could Be a Red Flag for Your Heart
+title: >-
+  Sudden Weight Gain as a Heart Failure Warning After 50
 slug: why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
 description: >-
-  Understand how rapid weight gain may signal fluid retention and declining heart function.
+  Gaining 2-5 pounds in 2-3 days may signal fluid retention from declining heart function. Learn to spot the difference and when to call your doctor.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: sudden weight gain and heart failure warning signs
+updated: '2026-03-29'
+primaryKeyword: sudden weight gain and heart failure signs
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

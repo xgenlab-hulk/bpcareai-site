@@ -1,11 +1,12 @@
 ---
 title: >-
+  Silent Celiac in Women Over 64: Beyond Bloating Warning Signs
 slug: when-to-worry-about-just-one-more-slice-of-holiday-bread-especially-if-you-re-a-woman-over-64-with-silent-celiac-disease
 description: >-
-  Highlights non-GI red flags of gluten exposure in aging women—including unexplained fatigue, iron-deficiency anemia, and rapid bone density loss—and explains why serology testing often fails after age 60 without intestinal biopsy confirmation.
+  25% of celiac diagnoses occur after age 60, yet blood tests miss 30% of cases. Learn to spot non-GI red flags like anemia and bone loss that serology overlooks.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: silent celiac symptoms in older women
+updated: '2026-03-29'
+primaryKeyword: silent celiac disease symptoms after 60
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

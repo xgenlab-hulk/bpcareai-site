@@ -1,11 +1,12 @@
 ---
 title: >-
+  Post-Dinner Drowsiness in Seniors 75+: Hypoglycemia Risks
 slug: when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75
 description: >-
-  Details how delayed insulin response + reduced catecholamine reserve can cause dangerous late-onset hypoglycemia masked as 'just tired'—with actionable monitoring windows and fall-prevention tactics.
+  One in 4 adults over 75 has unrecognized late-onset hypoglycemia monthly. Learn how delayed insulin and autonomic blunting mask dangerous post-meal drops.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: post-dinner drowsiness hypoglycemia seniors
+updated: '2026-03-29'
+primaryKeyword: post-dinner drowsiness hypoglycemia seniors 75
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

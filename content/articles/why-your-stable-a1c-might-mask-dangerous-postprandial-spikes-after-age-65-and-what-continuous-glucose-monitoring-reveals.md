@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Stable A1c Can Mask Dangerous Post-Meal Glucose Spikes After 65
 slug: why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
 description: >-
-  Explains why A1c alone is insufficient for older adults, highlighting glycemic variability, time-in-range deficits, and the clinical impact of post-meal hyperglycemia on vascular aging.
+  Up to 60% of seniors with acceptable A1c spend under half their day in target glucose range. CGM reveals hidden postprandial spikes driving vascular aging.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: a1c limitations and postprandial glucose in seniors
+updated: '2026-03-29'
+primaryKeyword: A1c limitations for seniors with diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  FMD in Women 52-68: When Resistant Hypertension Isn't Just Stress
 slug: when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines
 description: >-
-  Highlights atypical presentations, diagnostic red flags (e.g., unilateral abdominal bruit, BP asymmetry >20 mmHg), and why duplex US often misses FMD in perimenopausal women.
+  Resistant hypertension plus headaches in women 52-68 may indicate fibromuscular dysplasia (FMD). Women are over 90% of cases—yet duplex US often misses it.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: fibromuscular dysplasia resistant hypertension women
+updated: '2026-03-29'
+primaryKeyword: fibromuscular dysplasia symptoms in women
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

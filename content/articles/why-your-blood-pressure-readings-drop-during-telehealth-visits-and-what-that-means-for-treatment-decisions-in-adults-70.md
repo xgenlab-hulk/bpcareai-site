@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Blood Pressure Reads Lower in Telehealth Visits After 70
 slug: why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
 description: >-
-  Analyzes ‘white-coat normalization’ vs. ‘telehealth hypotension bias’ using paired in-office vs. validated home BP devices, with implications for antihypertensive titration in frail seniors.
+  Seniors 70+ average 7.2 mmHg lower systolic in telehealth vs. clinic visits. Learn how white-coat normalization affects medication decisions for older adults.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: telehealth blood pressure drop seniors
+updated: '2026-03-29'
+primaryKeyword: blood pressure lower during telehealth seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

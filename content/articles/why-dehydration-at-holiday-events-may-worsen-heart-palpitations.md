@@ -1,11 +1,12 @@
 ---
-title: Why Dehydration at Holiday Events May Worsen Heart Palpitations
+title: >-
+  How Holiday Dehydration Triggers Heart Palpitations After 50
 slug: why-dehydration-at-holiday-events-may-worsen-heart-palpitations
 description: >-
-  Detail how inadequate fluid intake during busy festive days can exacerbate arrhythmias, especially with alcohol use.
+  Up to 35% of holiday AFib ER visits involve dehydration and alcohol. See how fluid loss disrupts electrolytes and worsens arrhythmias in seniors.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: dehydration holiday palpitations
+updated: '2026-03-29'
+primaryKeyword: dehydration and heart palpitations holidays
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

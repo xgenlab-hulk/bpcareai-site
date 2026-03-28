@@ -1,11 +1,12 @@
 ---
 title: >-
+  Late Night Eating and Fall Risk: What Seniors 75+ Need to Know
 slug: why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 description: >-
-  Connects nocturnal glucose dysregulation, delayed gastric emptying, and postprandial hypotension to balance impairment and orthostatic dizziness—providing timing-based meal planning and safe snack frameworks for frail or mobility-impaired elders.
+  Late meals can trigger postprandial hypotension and glucose dips in adults 75+. Learn timing strategies to cut fall risk by up to 30% during visits.
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: late night eating fall risk seniors
+updated: '2026-03-29'
+primaryKeyword: late night eating and fall risk in seniors over 75
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

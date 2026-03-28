@@ -1,11 +1,12 @@
 ---
 title: >-
+  Unexplained Fatigue After 68: Heart Failure vs Other Causes
 slug: when-to-worry-about-unexplained-fatigue-after-age-68-distinguishing-early-heart-failure-from-anemia-thyroid-dysfunction-and-medication-side-effects
 description: >-
-  Provides a clinical decision tree for differentiating cardiac fatigue from non-cardiac causes using symptom timing, orthostatic response, and NT-proBNP interpretation in older adults.
+  NT-proBNP above 1,200 pg/mL strongly suggests heart strain in adults over 68. Use this decision tree to separate cardiac fatigue from anemia or thyroid issues.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: unexplained fatigue heart failure over 68
+updated: '2026-03-29'
+primaryKeyword: unexplained fatigue after 68 heart failure signs
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

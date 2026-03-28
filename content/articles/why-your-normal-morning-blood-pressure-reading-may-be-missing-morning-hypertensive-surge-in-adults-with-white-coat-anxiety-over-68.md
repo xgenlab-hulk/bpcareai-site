@@ -1,11 +1,12 @@
 ---
 title: >-
+  Morning BP Surge Hidden by White-Coat Anxiety After 68
 slug: why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
 description: >-
-  Explains how cognitive appraisal during clinic visits suppresses noradrenergic surge detection—and why home BP taken within 15 minutes of waking, plus 24-hour ABPM with stress-provocation protocol, reveals true circadian risk.
+  ABPM detects dangerous morning surges in 35% of seniors with normal clinic readings. Learn why white-coat anxiety masks true circadian BP risk after 68.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: morning blood pressure surge white-coat anxiety
+updated: '2026-03-29'
+primaryKeyword: morning blood pressure surge in older adults
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Zinc Picolinate Supplements May Harm Vascular Health After 63
 slug: warning-signs-your-evening-zinc-picolinate-supplement-is-disrupting-copper-dependent-superoxide-dismutase-activity-and-accelerating-endothelial-oxidative-stress-in-adults-63-with-early-coronary-microvascular-dysfunction
 description: >-
-  Details a subtle, supplement-induced micronutrient imbalance that worsens vascular redox balance — clinically silent until advanced microvascular angina or impaired coronary flow reserve emerges.
+  Zinc doses over 40 mg/day can cut serum copper 20-30%, impairing SOD antioxidant defense. Learn how this silent shift worsens coronary microvascular health.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: zinc picolinate endothelial oxidative stress
+updated: '2026-03-29'
+primaryKeyword: zinc picolinate and vascular oxidative stress
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Stair Fatigue in Men 60-67: A Hidden Sleep Apnea Warning
 slug: when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
 description: >-
-  Presents a 4-stage functional decline timeline linking exertional fatigue to masked nocturnal hypoxemia, pulmonary vascular resistance shifts, and early RV-PA coupling mismatch—before echo Doppler abnormalities emerge.
+  Mild sleep apnea can raise pulmonary vascular resistance 10-15% within 18 months. A 4-stage timeline shows how hypoxemia quietly strains your heart before echo.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: exertional fatigue stair climbing sleep apnea
+updated: '2026-03-29'
+primaryKeyword: stair climbing fatigue and sleep apnea in men
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

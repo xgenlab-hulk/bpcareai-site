@@ -1,11 +1,12 @@
 ---
-title: When to Worry About Blood Sugar Swings After New Year’s Eve
+title: >-
+  Blood Sugar Swings After New Year's Eve: When to Seek Help
 slug: when-to-worry-about-blood-sugar-swings-after-new-year-s-eve
 description: >-
-  Clear red flags indicating when post-holiday glucose fluctuations require medical attention, not just diet tweaks.
+  Holiday hypoglycemia admissions spike 30% in adults 50+. Learn which post-celebration glucose patterns need medical care versus simple diet changes.
 date: '2025-12-17'
-updated: '2025-12-17'
-primaryKeyword: when to worry about blood sugar spikes
+updated: '2026-03-29'
+primaryKeyword: post-holiday blood sugar spikes when to worry
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

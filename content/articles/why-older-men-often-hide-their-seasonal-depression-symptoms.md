@@ -1,11 +1,12 @@
 ---
-title: Why Older Men Often Hide Their Seasonal Depression Symptoms
+title: >-
+  Why Older Men Hide Seasonal Depression and How to Help
 slug: why-older-men-often-hide-their-seasonal-depression-symptoms
 description: >-
-  Address cultural and psychological barriers that prevent aging men from acknowledging mood changes in winter.
+  Up to 15% of older men experience seasonal depression yet rarely seek help. Explore how cultural norms and vitamin D decline mask winter mood changes.
 date: '2025-12-07'
-updated: '2025-12-07'
-primaryKeyword: men and hidden seasonal depression
+updated: '2026-03-29'
+primaryKeyword: seasonal depression in older men
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
