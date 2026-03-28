@@ -2,6 +2,7 @@
 title: >-
 slug: how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
 description: >-
+  Presents longitudinal data linking loneliness scores, vagal withdrawal during sleep, and annual CAC progression rate—adjusted for physical activity, depression, and sleep apnea severity.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: social isolation and coronary artery calcification

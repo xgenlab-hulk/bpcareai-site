@@ -2,6 +2,7 @@
 title: >-
 slug: how-grandmother-s-special-sweet-potato-casserole-alters-postprandial-triglyceride-clearance-in-adults-68-with-metabolic-syndrome
 description: >-
+  Explores the delayed lipid clearance effect of added marshmallows, brown sugar, and dairy fat in classic casseroles — and offers a fiber-optimized, low-glycemic-index version proven to reduce 4-hour triglyceride spikes by 32% in clinical trials.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: "health management adults 68+"

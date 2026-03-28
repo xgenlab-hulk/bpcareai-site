@@ -2,6 +2,7 @@
 title: >-
 slug: how-intermittent-fasting-14-10-window-affects-circadian-clock-gene-expression-in-the-adrenal-cortex-and-why-that-matters-for-bp-rhythmicity-in-adults-62-with-mild-adrenal-insufficiency
 description: >-
+  Connects time-restricted eating to PER1/PER2 regulation, aldosterone rhythm preservation, and reduced nocturnal renin surges — with cautionary notes for those on fludrocortisone.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: intermittent fasting and adrenal blood pressure

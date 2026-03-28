@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone
 description: >-
+  Examines the underrecognized link between emotional loneliness during holidays and measurable electrophysiological vulnerability in aging ventricles.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: "health management holiday adults 69+"

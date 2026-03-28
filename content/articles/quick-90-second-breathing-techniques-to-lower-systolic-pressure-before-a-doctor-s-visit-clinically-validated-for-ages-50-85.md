@@ -2,6 +2,7 @@
 title: >-
 slug: quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
 description: >-
+  Teaches paced diaphragmatic breathing with real-time HRV biofeedback cues—designed for immediate pre-appointment BP modulation without medication.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: breathing techniques lower systolic pressure

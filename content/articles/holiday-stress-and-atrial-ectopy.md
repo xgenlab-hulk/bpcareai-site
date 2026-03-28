@@ -2,6 +2,7 @@
 title: >-
 slug: 7-hidden-stressors-in-holiday-gift-wrapping-that-elevate-sympathetic-tone-and-why-that-triggers-atrial-ectopy-in-adults-62-with-early-autonomic-imbalance
 description: >-
+  Identifies overlooked physical and cognitive stressors during common holiday tasks, linking repetitive motion, lighting, and time pressure to transient arrhythmia triggers in aging autonomic systems.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: holiday stress and atrial ectopy

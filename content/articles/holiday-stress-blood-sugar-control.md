@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-stress-hormones-sabotage-blood-sugar-control-during-family-dinners-cortisol-induced-insulin-resistance-patterns-in-adults-58-65-with-prediabetes
 description: >-
+  Explores the physiological link between acute family-related stress, elevated cortisol, and postprandial glucose spikes — with actionable timing and breathing strategies to blunt the effect.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: holiday stress blood sugar control

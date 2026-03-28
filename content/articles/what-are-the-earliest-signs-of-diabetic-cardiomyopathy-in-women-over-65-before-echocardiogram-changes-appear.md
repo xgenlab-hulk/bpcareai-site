@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear
 description: >-
+  Details pre-structural biomarkers: heart rate recovery delay >20 sec, abnormal diastolic strain rate on speckle tracking, and serum GDF-15 elevation—tied to mitochondrial dysfunction in cardiomyocytes.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: early diabetic cardiomyopathy signs women

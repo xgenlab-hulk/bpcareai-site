@@ -2,6 +2,7 @@
 title: >-
 slug: why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque
 description: >-
+  Explores the mechanistic link between urban traffic exposure, endothelial shear stress, and transient systolic surges in early-atherosclerotic adults, with real-time ambulatory BP data correlations.
 date: '2026-03-01'
 updated: '2026-03-01'
 primaryKeyword: morning blood pressure spike traffic exposure

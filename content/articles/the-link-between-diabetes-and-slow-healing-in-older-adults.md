@@ -2,6 +2,7 @@
 title: The Link Between Diabetes and Slow Healing in Older Adults
 slug: the-link-between-diabetes-and-slow-healing-in-older-adults
 description: >-
+  Find out why cuts and wounds heal slower with diabetes and how to reduce infection risks.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: diabetes and slow wound healing in elderly

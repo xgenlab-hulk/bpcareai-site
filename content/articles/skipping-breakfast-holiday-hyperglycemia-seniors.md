@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-dinner-how-fasting-induced-hyperglycemia-and-cortisol-surges-worsen-holiday-glucose-control-in-adults-67
 description: >-
+  Debunks common calorie-shifting logic by explaining dawn phenomenon amplification, hepatic glucose overproduction, and counterregulatory hormone spikes in aging pancreas.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: skipping breakfast holiday hyperglycemia seniors

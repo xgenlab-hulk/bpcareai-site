@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-i-can-skip-my-medication-just-this-one-day-during-the-holidays-risks-for-adults-70-with-long-term-metformin-use-and-vitamin-b12-deficiency
 description: >-
+  Debunks common holiday medication misconceptions using pharmacokinetic data, highlighting risks of lactic acidosis priming, homocysteine surges, and acute neuropathic exacerbation — especially in B12-depleted older adults.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: holiday metformin skipping risks

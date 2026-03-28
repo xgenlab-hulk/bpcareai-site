@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
 description: >-
+  Reviews clinical trials on time-restricted eating (TRE) in adults 65+, analyzing feasibility, muscle preservation, circadian alignment, and glycemic outcomes—plus realistic holiday adaptations (e.g., 10-hour windows with flexible start times).
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: intermittent fasting seniors holiday time windows

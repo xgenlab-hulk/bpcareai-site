@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-low-sodium-holiday-soups-sold-in-senior-grocery-aisles-why-83-contain-unlabeled-potassium-binding-excipients-that-impair-cardiac-conduction-in-adults-71-on-spironolactone
 description: >-
+  Investigates hidden formulation risks in commercially marketed 'heart-healthy' convenience foods, focusing on potassium-antagonist additives and their interaction with common diuretic therapy.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: "health management holiday adults 71+"

@@ -2,6 +2,7 @@
 title: Low-Carb Diets and Morning BP Spikes in Adults Over 65
 slug: what-causes-sudden-morning-blood-pressure-spikes-after-starting-a-low-carb-diet-in-adults-65-with-long-standing-hypertension-and-mild-diastolic-dysfunction
 description: >-
+  Ketosis triggers a salt-retaining hormone surge (aldosterone) raising morning systolic 12-18 mmHg — worse with stiff heart walls (diastolic dysfunction).
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: low carb diet causing morning blood pressure spikes

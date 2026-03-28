@@ -2,6 +2,7 @@
 title: How to Monitor Blood Sugar More Effectively During Festive Travel
 slug: how-to-monitor-blood-sugar-more-effectively-during-festive-travel
 description: >-
+  Tips for maintaining consistent glucose testing routines when traveling during Christmas and New Year, including time zone and routine changes.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: monitoring blood sugar while traveling

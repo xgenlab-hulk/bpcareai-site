@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
 description: >-
+  Offers evidence-based visual and sensory adaptations—including lutein-rich garnishes, contrast-enhancing plating, and texture-modified dips—designed specifically for age-related vision loss and dining autonomy.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: holiday appetizers macular degeneration

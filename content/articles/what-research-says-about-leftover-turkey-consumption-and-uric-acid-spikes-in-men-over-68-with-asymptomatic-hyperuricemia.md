@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia
 description: >-
+  Analyzes purine load, cooking method effects (roasted vs. slow-cooked), and co-ingestion factors (alcohol, fructose) that trigger silent gout flares days after gatherings.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: leftover turkey uric acid men over 68

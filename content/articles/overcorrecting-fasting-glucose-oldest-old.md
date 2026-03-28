@@ -2,6 +2,7 @@
 title: >-
 slug: the-dangers-of-overcorrecting-normal-fasting-glucose-in-adults-82-with-mild-cognitive-impairment-why-90-mg-dl-may-increase-fall-risk-and-delirium-episodes
 description: >-
+  Challenges aggressive glycemic targets in the oldest-old, reviewing falls epidemiology, cerebral glucose transport efficiency, and the safety margin for asymptomatic hypoglycemia in neurodegenerative contexts.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: overcorrecting fasting glucose oldest old

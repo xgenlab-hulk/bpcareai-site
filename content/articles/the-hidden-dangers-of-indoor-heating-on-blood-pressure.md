@@ -2,6 +2,7 @@
 title: The Hidden Dangers of Indoor Heating on Blood Pressure
 slug: the-hidden-dangers-of-indoor-heating-on-blood-pressure
 description: >-
+  Discusses how dry indoor air and overheated rooms during winter may negatively impact circulation and blood pressure in seniors.
 date: '2025-12-02'
 updated: '2025-12-02'
 primaryKeyword: indoor heating blood pressure

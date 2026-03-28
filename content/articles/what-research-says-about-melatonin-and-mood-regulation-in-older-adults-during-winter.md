@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
 description: >-
+  Review recent studies on melatonin supplementation, circadian disruption, and its role in seasonal affective symptoms.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: melatonin and seasonal depression research

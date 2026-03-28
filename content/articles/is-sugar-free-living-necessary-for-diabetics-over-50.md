@@ -2,6 +2,7 @@
 title: Is Sugar-Free Living Necessary for Diabetics Over 50?
 slug: is-sugar-free-living-necessary-for-diabetics-over-50
 description: >-
+  Understand the role of added sugars and whether complete elimination is required for good glucose control.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: do diabetics need to avoid all sugar after 50

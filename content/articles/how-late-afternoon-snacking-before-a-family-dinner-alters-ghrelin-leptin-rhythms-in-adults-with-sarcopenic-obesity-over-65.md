@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65
 description: >-
+  Explores chronobiological disruption from mis-timed pre-feast snacks, with hormone assay data and a 4-step ‘pre-dinner metabolic reset’ protocol.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: late afternoon snacking ghrelin sarcopenic obesity

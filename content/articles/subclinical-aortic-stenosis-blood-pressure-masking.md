@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-stable-blood-pressure-readings-are-masking-subclinical-aortic-valve-stenosis-progression-especially-with-concurrent-elevated-nt-probnp-and-normal-echocardiographic-gradient-in-adults-75
 description: >-
+  Highlights discordant clinical signals (e.g., preserved gradient despite rising biomarkers) that indicate early valvular obstruction altering central hemodynamics.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: subclinical aortic stenosis blood pressure masking

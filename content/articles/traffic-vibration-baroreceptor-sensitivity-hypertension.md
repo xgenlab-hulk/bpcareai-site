@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-exposure-to-low-frequency-traffic-vibration-below-10-hz-modulates-baroreceptor-sensitivity-in-adults-65-70-with-stage-1-hypertension-and-mild-sleep-fragmentation
 description: >-
+  Analyzes environmental biomechanics affecting autonomic regulation — focusing on sub-threshold vibrational stimuli that subtly impair pressure-sensing neural pathways.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: traffic vibration baroreceptor sensitivity hypertension

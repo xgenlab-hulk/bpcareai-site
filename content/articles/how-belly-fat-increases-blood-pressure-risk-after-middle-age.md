@@ -2,6 +2,7 @@
 title: How Belly Fat Increases Blood Pressure Risk After Middle Age
 slug: how-belly-fat-increases-blood-pressure-risk-after-middle-age
 description: >-
+  Discover the connection between abdominal obesity and hypertension, and how losing belly fat helps.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: belly fat and high blood pressure link

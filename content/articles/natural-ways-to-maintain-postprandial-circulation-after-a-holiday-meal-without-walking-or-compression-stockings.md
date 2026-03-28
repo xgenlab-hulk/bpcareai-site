@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
 description: >-
+  Evidence-based, low-mobility techniques—including timed diaphragmatic breathing, seated calf pumping, and targeted acupressure—to counteract venous stasis and orthostatic intolerance in sedentary or mobility-limited adults over 60.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: postprandial circulation seniors no walking

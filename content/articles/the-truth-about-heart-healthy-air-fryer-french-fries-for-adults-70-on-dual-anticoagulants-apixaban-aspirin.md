@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
 description: >-
+  Investigates how high-heat acrylamide formation and residual oxidized seed oils in air-fried starches increase platelet reactivity and endothelial oxidative stress—potentially undermining anticoagulant safety in polypharmacy seniors.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: air fryer fries anticoagulant safety seniors

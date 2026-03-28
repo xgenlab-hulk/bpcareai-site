@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
 description: >-
+  Addresses protein–levodopa competition, swallowing fatigue, and orthostatic BP drops with meal sequencing, texture adaptations, and timed protein distribution strategies.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: parkinsons disease holiday meal planning

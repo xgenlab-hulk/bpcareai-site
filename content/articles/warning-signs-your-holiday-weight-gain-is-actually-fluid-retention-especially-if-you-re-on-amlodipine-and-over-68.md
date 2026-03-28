@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68
 description: >-
+  Differentiates adipose vs. interstitial weight gain using pulse pressure changes, nocturnal dyspnea timing, and calf circumference trends—plus diuretic-sparing management tactics.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: holiday weight gain fluid retention seniors

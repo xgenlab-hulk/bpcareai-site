@@ -2,6 +2,7 @@
 title: Simple Steps to Avoid Overeating at Holiday Dinners with Diabetes
 slug: simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 description: >-
+  Behavioral techniques to help older adults prevent post-meal glucose spikes during high-risk festive meals.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: avoid overeating holiday diabetes

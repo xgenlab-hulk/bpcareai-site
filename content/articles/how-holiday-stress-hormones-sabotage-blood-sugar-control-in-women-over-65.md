@@ -2,6 +2,7 @@
 title: How Holiday Stress Hormones Sabotage Blood Sugar Control in Women Over 65
 slug: how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 description: >-
+  Explores the cortisol-glucose feedback loop triggered by family gatherings and travel, with evidence-based strategies to stabilize glycemia during festive periods.
 date: '2025-12-22'
 updated: '2025-12-22'
 primaryKeyword: holiday stress blood sugar seniors

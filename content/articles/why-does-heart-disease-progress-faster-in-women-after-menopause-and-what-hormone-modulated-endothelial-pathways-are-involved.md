@@ -2,6 +2,7 @@
 title: >-
 slug: why-does-heart-disease-progress-faster-in-women-after-menopause-and-what-hormone-modulated-endothelial-pathways-are-involved
 description: >-
+  Explores the biological mechanisms linking estrogen decline to accelerated atherosclerosis, microvascular dysfunction, and diagnostic delays in women aged 55–72.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: heart disease progression after menopause

@@ -2,6 +2,7 @@
 title: >-
 slug: 5-things-every-senior-living-alone-should-know-before-attending-their-first-post-pandemic-holiday-party-from-portion-control-to-social-glucose-triggers
 description: >-
+  Covers practical, safety-first strategies for isolated seniors returning to group meals: food navigation, hypoglycemia preparedness, hydration timing, and exit-plan empowerment.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: seniors living alone holiday party preparedness

@@ -2,6 +2,7 @@
 title: >-
 slug: how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79
 description: >-
+  Connects loneliness biomarkers (cortisol, IL-6) to structural arterial changes, using longitudinal ultrasound data and validated social network indices.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: social isolation carotid thickness blood pressure

@@ -2,6 +2,7 @@
 title: >-
 slug: how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
 description: >-
+  Offer practical strategies for older adults with diabetes to enjoy holiday meals while setting a positive example for younger generations.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: diabetic grandparents holiday eating

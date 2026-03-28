@@ -2,6 +2,7 @@
 title: How Chronic Stress Contributes to High Blood Pressure Over Time
 slug: how-chronic-stress-contributes-to-high-blood-pressure-over-time
 description: >-
+  Explore the long-term effects of stress on the cardiovascular system and practical ways to reduce its impact.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: chronic stress and high blood pressure aging

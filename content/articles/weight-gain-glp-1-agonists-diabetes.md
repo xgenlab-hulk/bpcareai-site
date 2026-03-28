@@ -2,6 +2,7 @@
 title: "Weight Gain on GLP-1 Drugs: Is It Fluid or Fat? Adults 55-69"
 slug: when-to-worry-about-unexplained-weight-gain-in-adults-55-69-with-type-2-diabetes-on-glp-1-agonists-and-how-to-differentiate-fluid-retention-from-adipose-expansion
 description: >-
+  GLP-1 agonists should cause weight loss — a 3-5 lb gain may signal fluid buildup (edema), not fat. Jugular vein check and bioimpedance help tell the difference.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: why am I gaining weight on GLP-1 medication for diabetes

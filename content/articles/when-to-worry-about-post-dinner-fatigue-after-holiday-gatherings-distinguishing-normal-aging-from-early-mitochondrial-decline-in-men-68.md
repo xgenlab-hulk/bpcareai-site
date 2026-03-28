@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-post-dinner-fatigue-after-holiday-gatherings-distinguishing-normal-aging-from-early-mitochondrial-decline-in-men-68
 description: >-
+  Guides recognition of fatigue patterns linked to age-related mitochondrial inefficiency vs. benign postprandial somnolence, with at-home functional screening cues.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: post-dinner fatigue mitochondrial decline seniors

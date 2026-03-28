@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
 description: >-
+  Analyzes protein catabolism markers, albuminuria fluctuations, and uric acid trends during 14–16 hour fasts—contrasting outcomes in those with and without SGLT2 inhibitor use.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: intermittent fasting Kwanzaa diabetic kidney disease

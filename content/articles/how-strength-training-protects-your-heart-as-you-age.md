@@ -2,6 +2,7 @@
 title: How Strength Training Protects Your Heart as You Age
 slug: how-strength-training-protects-your-heart-as-you-age
 description: >-
+  Discover how building muscle through resistance training supports circulation and heart resilience.
 date: '2025-12-13'
 updated: '2025-12-13'
 primaryKeyword: strength training benefits for heart health over 50

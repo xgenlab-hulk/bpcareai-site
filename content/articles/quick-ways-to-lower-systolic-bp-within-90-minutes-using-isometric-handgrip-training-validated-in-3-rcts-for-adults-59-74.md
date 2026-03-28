@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74
 description: >-
+  Provides step-by-step protocol (4x2-min holds at 30% MVC, 1-min rest), mechanism (central sympathetic inhibition), contraindications (aortic stenosis, uncontrolled HF), and expected effect size vs. fast-acting meds.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: lower systolic bp isometric handgrip 90 minutes

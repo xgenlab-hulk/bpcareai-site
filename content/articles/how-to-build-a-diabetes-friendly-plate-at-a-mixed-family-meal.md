@@ -2,6 +2,7 @@
 title: How to Build a Diabetes-Friendly Plate at a Mixed Family Meal
 slug: how-to-build-a-diabetes-friendly-plate-at-a-mixed-family-meal
 description: >-
+  Guides individuals with diabetes through constructing balanced plates when dining with non-diabetic relatives during holidays.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: diabetes-friendly plate strategy

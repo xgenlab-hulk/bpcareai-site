@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
 description: >-
+  Examines circadian disruption of PEPCK and G6Pase expression due to nocturnal carb intake, backed by human liver biopsy data and 72-hour CGM patterns in prediabetic adults during December.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: late-night eating and fasting glucose

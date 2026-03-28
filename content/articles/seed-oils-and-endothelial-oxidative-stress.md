@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-heart-healthy-seed-oils-marketed-to-seniors-why-high-linoleic-safflower-and-sunflower-oils-may-promote-endothelial-oxidative-stress-in-adults-64-with-elevated-lp-a
 description: >-
+  Debunks marketing claims around refined polyunsaturated oils, focusing on lipid peroxidation risk in genetically susceptible older adults with high lipoprotein(a).
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: seed oils and endothelial oxidative stress

@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-5-minute-morning-sunlight-exposure-through-uv-blocking-window-glass-vs-direct-outdoor-exposure-impact-on-circadian-bp-rhythm-reset-in-adults-70-with-shifted-melatonin-peaks
 description: >-
+  Compares spectral light transmission differences and their effect on suprachiasmatic nucleus entrainment and 24-hour systolic variability in older adults with circadian dysregulation.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: sunlight exposure and circadian blood pressure

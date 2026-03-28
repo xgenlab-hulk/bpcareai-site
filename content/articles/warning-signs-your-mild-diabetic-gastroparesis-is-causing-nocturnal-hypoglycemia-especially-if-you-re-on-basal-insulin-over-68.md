@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
 description: >-
+  Highlights delayed gastric emptying–induced mismatched insulin peaks, erratic post-meal glucose curves, and unrecognized nighttime lows masked by sleep or dementia-related apathy.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: gastroparesis and nocturnal hypoglycemia in seniors

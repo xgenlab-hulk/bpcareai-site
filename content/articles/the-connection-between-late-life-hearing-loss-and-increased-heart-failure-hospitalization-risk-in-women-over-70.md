@@ -2,6 +2,7 @@
 title: >-
 slug: the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
 description: >-
+  Explains shared vascular pathology in cochlear microcirculation and myocardium, plus how untreated hearing impairment delays symptom recognition and care seeking.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: hearing loss and heart failure hospitalization

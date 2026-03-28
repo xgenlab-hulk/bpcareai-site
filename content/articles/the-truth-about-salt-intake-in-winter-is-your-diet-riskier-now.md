@@ -2,6 +2,7 @@
 title: 'The Truth About Salt Intake in Winter: Is Your Diet Riskier Now?'
 slug: the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
 description: >-
+  Debunks myths about winter cravings and sodium consumption, offering real-world advice for seniors managing hypertension.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: "diet management winter seniors"

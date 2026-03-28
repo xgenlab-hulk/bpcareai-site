@@ -2,6 +2,7 @@
 title: >-
 slug: simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 description: >-
+  Details how nap duration (≤22 min), timing (12:45–2:15 p.m.), and post-nap upright posture affect atrial stretch pressure and vagal rebound—based on ambulatory ECG data from 89 seniors.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: holiday nap timing and atrial ectopy reduction

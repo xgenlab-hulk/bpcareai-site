@@ -2,6 +2,7 @@
 title: >-
 slug: the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
 description: >-
+  Provides actionable, age-adapted tactics for buffet navigation—including plate layout diagrams, order-of-serving logic, and fiber-first visual cues for adults 65+.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: holiday buffet blood sugar guide

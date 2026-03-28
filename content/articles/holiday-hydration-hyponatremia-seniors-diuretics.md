@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
 description: >-
+  Highlights subtle neurological and muscular red flags of hypo-osmolar hydration, explains sodium clearance thresholds in aging kidneys, and provides safe electrolyte-balanced alternatives.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: holiday hydration hyponatremia seniors diuretics

@@ -2,6 +2,7 @@
 title: >-
 slug: 5-things-everyone-with-type-1-diabetes-over-60-should-know-before-starting-a-plant-based-diet-especially-with-concurrent-gastroparesis-or-hypothyroidism
 description: >-
+  Covers protein timing adjustments, iodine–selenium co-supplementation needs, fiber tolerance thresholds, and insulin dosing recalibration for delayed gastric emptying.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: type 1 diabetes plant-based diet over 60

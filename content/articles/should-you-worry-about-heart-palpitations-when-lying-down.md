@@ -2,6 +2,7 @@
 title: Should You Worry About Heart Palpitations When Lying Down?
 slug: should-you-worry-about-heart-palpitations-when-lying-down
 description: >-
+  Learn when nighttime palpitations are harmless and when they might signal an underlying heart issue.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: heart palpitations while lying down over 50

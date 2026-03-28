@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking
 description: >-
+  Explores the electrophysiological link between moderate holiday drinking and AFib onset in older adults with early structural heart changes, using echocardiographic and Holter data.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: holiday alcohol atrial fibrillation risk

@@ -2,6 +2,7 @@
 title: >-
 slug: can-you-safely-use-a-portable-oxygen-concentrator-during-cardiac-rehab-sessions-safety-thresholds-for-spo-hrv-and-exercise-tolerance-in-adults-71-with-hfpef
 description: >-
+  Reviews evidence on supplemental O₂ use during monitored exercise in older adults with preserved ejection fraction heart failure — including titration protocols and red-flag parameters.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: oxygen concentrator during cardiac rehab

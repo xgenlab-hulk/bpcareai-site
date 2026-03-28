@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
 description: >-
+  Debunks clinic-only measurement reliance using ambulatory data from rotating-night-shift nurses and truck drivers, highlighting nocturnal surges, sleep fragmentation, and circadian misalignment risks.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: normal clinic blood pressure shift workers

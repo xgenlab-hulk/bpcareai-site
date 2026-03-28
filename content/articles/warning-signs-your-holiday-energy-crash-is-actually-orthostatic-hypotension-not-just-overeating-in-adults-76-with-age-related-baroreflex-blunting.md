@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting
 description: >-
+  Differentiates true orthostatic drop from fatigue via seated-to-standing BP protocol, hydration status clues, and safe positioning techniques for frail elders.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: holiday energy crash orthostatic hypotension

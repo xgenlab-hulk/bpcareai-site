@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61
 description: >-
+  Identifies subtle red flags like worsening exertional dyspnea despite stable HR, progressive LA enlargement on echo, and declining NT-proBNP slope over 6 months.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: "health management adults 61+"

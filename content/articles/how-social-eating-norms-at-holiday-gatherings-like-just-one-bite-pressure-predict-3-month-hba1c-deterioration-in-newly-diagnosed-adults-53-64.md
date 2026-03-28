@@ -2,6 +2,7 @@
 title: >-
 slug: how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64
 description: >-
+  Presents longitudinal data linking observed microaggressions (e.g., food shaming, unsolicited advice) to sustained glycemic drift, with behavioral intervention pathways.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: social eating pressure HbA1c deterioration

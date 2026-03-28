@@ -2,6 +2,7 @@
 title: >-
 slug: how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
 description: >-
+  Practical, medication-aware guidance for adults 55–69 on portion sequencing, macro-balancing, and timing meals around injectable diabetes drugs during multi-hour family events.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: potluck prediabetes glp-1 agonist safety

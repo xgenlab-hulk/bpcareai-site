@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75
 description: >-
+  Details how delayed insulin response + reduced catecholamine reserve can cause dangerous late-onset hypoglycemia masked as 'just tired'—with actionable monitoring windows and fall-prevention tactics.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: post-dinner drowsiness hypoglycemia seniors

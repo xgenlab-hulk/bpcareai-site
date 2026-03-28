@@ -2,6 +2,7 @@
 title: >-
 slug: how-cold-weather-and-holiday-feasting-jointly-elevate-stroke-risk-in-seniors-with-atrial-fibrillation
 description: >-
+  Explains the synergistic effects of vasoconstriction, hemoconcentration, and postprandial hypercoagulability—plus a step-by-step winter stroke prevention checklist.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: cold weather stroke risk afib seniors

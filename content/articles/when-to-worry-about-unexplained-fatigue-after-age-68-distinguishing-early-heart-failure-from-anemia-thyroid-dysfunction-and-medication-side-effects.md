@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-unexplained-fatigue-after-age-68-distinguishing-early-heart-failure-from-anemia-thyroid-dysfunction-and-medication-side-effects
 description: >-
+  Provides a clinical decision tree for differentiating cardiac fatigue from non-cardiac causes using symptom timing, orthostatic response, and NT-proBNP interpretation in older adults.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: unexplained fatigue heart failure over 68

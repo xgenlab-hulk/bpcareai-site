@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
 description: >-
+  Analyzes OCT-angiography findings linking retinal arteriolar narrowing and venular dilation to subclinical coronary calcification—highlighting the eye as a noninvasive window into early vascular aging in metabolic syndrome.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: retinal changes coronary calcification fatty liver

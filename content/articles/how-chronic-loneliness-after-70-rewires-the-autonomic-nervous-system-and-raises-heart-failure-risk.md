@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
 description: >-
+  Analyzes longitudinal data linking sustained social isolation to vagal tone suppression, elevated norepinephrine, and left ventricular stiffness in community-dwelling seniors.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: loneliness and heart failure risk after 70

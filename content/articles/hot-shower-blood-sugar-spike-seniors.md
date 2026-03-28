@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-fingertip-blood-glucose-readings-spike-after-a-hot-shower-thermal-vasodilation-capillary-shunting-and-delayed-insulin-absorption-in-adults-72-with-long-term-type-2-diabetes
 description: >-
+  Explores how post-shower heat exposure falsely elevates fingerstick glucose readings in older adults due to localized microcirculatory changes—and how to time testing to avoid unnecessary insulin dosing errors.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: hot shower blood sugar spike seniors

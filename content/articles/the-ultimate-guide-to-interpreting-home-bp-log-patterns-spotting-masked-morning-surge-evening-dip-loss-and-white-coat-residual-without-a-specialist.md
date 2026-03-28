@@ -2,6 +2,7 @@
 title: >-
 slug: the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
 description: >-
+  Teaches pattern recognition (timing, variability, posture context) in self-recorded logs using WHO-ISH criteria, with printable templates and AI-powered interpretation prompts for adults 50+.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: interpreting home blood pressure logs

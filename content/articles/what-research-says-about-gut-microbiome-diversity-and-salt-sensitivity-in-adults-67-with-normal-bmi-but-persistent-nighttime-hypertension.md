@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-gut-microbiome-diversity-and-salt-sensitivity-in-adults-67-with-normal-bmi-but-persistent-nighttime-hypertension
 description: >-
+  Synthesizes recent microbiome metabolomics studies linking low Faecalibacterium prausnitzii abundance to impaired TMAO metabolism and exaggerated aldosterone response to sodium.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: gut microbiome and salt sensitivity seniors

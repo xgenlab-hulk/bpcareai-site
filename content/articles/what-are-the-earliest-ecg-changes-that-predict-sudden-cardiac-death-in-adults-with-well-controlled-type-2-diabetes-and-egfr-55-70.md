@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
 description: >-
+  Analyzes subtle QTc dispersion, T-wave alternans, and microvolt-level late potentials in routine 12-lead ECGs—prior to structural changes or symptoms—in high-risk predialysis diabetic cohorts.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: ecg changes sudden cardiac death diabetes

@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
 description: >-
+  Highlights delayed lipid response symptoms (brain fog, post-meal fatigue, blurred vision), plus how age-related lipoprotein lipase decline makes creamy leftovers uniquely risky.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: mac and cheese postprandial triglycerides

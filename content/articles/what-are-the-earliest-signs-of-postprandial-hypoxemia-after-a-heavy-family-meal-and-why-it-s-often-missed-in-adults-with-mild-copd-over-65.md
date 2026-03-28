@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
 description: >-
+  Spotting subtle respiratory red flags (e.g., increased sighing, reduced conversation stamina, fingertip coolness) that precede SpO2 drops—and how meal composition (fat load, carbonation, temperature) contributes.
 date: '2025-12-22'
 updated: '2025-12-22'
 primaryKeyword: postprandial hypoxemia copd seniors

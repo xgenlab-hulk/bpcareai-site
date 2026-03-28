@@ -2,6 +2,7 @@
 title: >-
 slug: can-you-safely-use-infrared-heating-pads-for-chronic-back-pain-while-taking-ace-inhibitors-evidence-based-thermal-thresholds-for-adults-72-with-stage-2-hypertension-and-mild-ckd
 description: >-
+  Reviews renal perfusion risks, local vasodilation interactions, and safe surface temperature/duration limits validated in geriatric pharmacokinetic studies.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: infrared-pad-ace-inhibitor-safety

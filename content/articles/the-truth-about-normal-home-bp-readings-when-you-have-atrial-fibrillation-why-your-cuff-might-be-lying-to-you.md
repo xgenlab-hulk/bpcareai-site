@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
 description: >-
+  Explains oscillometric measurement inaccuracies during irregular rhythms, validation protocols for AFib patients, and when to switch to ambulatory or auscultatory methods.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: blood pressure cuff accuracy afib

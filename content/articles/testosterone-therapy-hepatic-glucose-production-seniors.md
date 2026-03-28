@@ -2,6 +2,7 @@
 title: >-
 slug: 5-things-every-man-over-72-should-know-about-testosterone-replacement-therapy-and-its-effect-on-hepatic-glucose-production-especially-with-concomitant-nafld
 description: >-
+  Clarifies testosterone’s dual role in suppressing gluconeogenic enzymes while exacerbating hepatic fat accumulation, with liver enzyme–guided dosing thresholds.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: testosterone therapy hepatic glucose production seniors

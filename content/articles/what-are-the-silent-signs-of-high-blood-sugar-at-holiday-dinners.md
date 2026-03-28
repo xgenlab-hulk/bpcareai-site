@@ -2,6 +2,7 @@
 title: What Are the Silent Signs of High Blood Sugar at Holiday Dinners?
 slug: what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
 description: >-
+  Identifies subtle but critical indicators — like fatigue or thirst — that suggest glucose is rising, even when you feel fine.
 date: '2025-12-09'
 updated: '2025-12-09'
 primaryKeyword: silent signs high blood sugar

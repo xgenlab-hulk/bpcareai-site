@@ -2,6 +2,7 @@
 title: Why Emotional Stress at Family Gatherings Raises Blood Sugar (And How to Cope)
 slug: why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
 description: >-
+  Understand the physiological link between holiday emotional stress and hyperglycemia in older adults with diabetes.
 date: '2025-12-05'
 updated: '2025-12-05'
 primaryKeyword: emotional stress blood sugar diabetes

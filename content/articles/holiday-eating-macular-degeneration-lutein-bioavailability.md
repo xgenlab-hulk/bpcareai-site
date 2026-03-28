@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
 description: >-
+  Provides meal-planning hacks to maximize macular pigment optical density: optimal fat sources for carotenoid absorption, avoiding high-heat oxidation of leafy greens, and timing of antioxidant-rich foods.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: holiday eating macular degeneration lutein bioavailability

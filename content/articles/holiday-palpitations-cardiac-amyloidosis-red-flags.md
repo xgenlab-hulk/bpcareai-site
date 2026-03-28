@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-amyloidosis-especially-if-you-re-over-75-and-have-carpal-tunnel-or-lumbar-spinal-stenosis
 description: >-
+  Highlights atypical, multi-system red flags that suggest misdiagnosed amyloidosis rather than benign holiday-induced arrhythmia in the very elderly.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: holiday palpitations cardiac amyloidosis red flags

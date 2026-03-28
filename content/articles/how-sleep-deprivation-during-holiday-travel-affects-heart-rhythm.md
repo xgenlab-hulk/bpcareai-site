@@ -2,6 +2,7 @@
 title: How Sleep Deprivation During Holiday Travel Affects Heart Rhythm
 slug: how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 description: >-
+  Investigate how disrupted circadian rhythms from travel and late-night events may trigger arrhythmias in older travelers.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: holiday travel heart rhythm

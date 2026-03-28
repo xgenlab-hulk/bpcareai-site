@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-sudden-heavy-legs-after-sitting-for-90-minutes-distinguishing-early-venous-stiffness-from-incipient-right-heart-strain-in-adults-60-74-with-sedentary-lifestyles
 description: >-
+  Identifies an under-recognized physical symptom — leg heaviness after prolonged sitting — as a potential harbinger of right-sided cardiac strain or venous wall remodeling, especially in desk-bound or retired older adults.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: heavy legs sitting heart strain seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
 description: >-
+  Reviews clinical studies on cranberries, dark chocolate, and walnuts in relation to neuroinflammation, cerebral blood flow, and short-term memory preservation during high-stress holiday periods.
 date: '2025-12-17'
 updated: '2025-12-17'
 primaryKeyword: polyphenol holiday foods cognitive health

@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-high-intensity-interval-training-vs-zone-2-walking-for-diastolic-bp-reduction-in-obese-adults-59-73
 description: >-
+  Compares vascular adaptations, capillary density gains, and inflammatory cytokine suppression across modalities—factoring in joint load and adherence sustainability.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: hiit vs zone 2 walking diastolic bp

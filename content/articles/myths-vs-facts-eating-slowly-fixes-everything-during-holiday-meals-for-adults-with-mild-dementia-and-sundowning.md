@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-eating-slowly-fixes-everything-during-holiday-meals-for-adults-with-mild-dementia-and-sundowning
 description: >-
+  Debunks timing myths and clarifies why paced eating alone fails without sensory anchoring, environmental cues, and caregiver co-regulation—based on dementia care trial data.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: eating slowly holiday meals dementia

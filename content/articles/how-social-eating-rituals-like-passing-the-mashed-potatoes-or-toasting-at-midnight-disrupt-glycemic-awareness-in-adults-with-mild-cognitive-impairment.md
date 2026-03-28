@@ -2,6 +2,7 @@
 title: >-
 slug: how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
 description: >-
+  Examines how auditory distraction, multitasking, and time perception changes affect portion estimation, chewing pace, and satiety signaling during group meals.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: social eating glycemic awareness mci

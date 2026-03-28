@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
 description: >-
+  Debunks symptom-blindness misconceptions using data on silent vascular remodeling, retinal arteriolar narrowing, and pulse pressure–driven cardiac strain.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: isolated systolic hypertension symptom-blindness

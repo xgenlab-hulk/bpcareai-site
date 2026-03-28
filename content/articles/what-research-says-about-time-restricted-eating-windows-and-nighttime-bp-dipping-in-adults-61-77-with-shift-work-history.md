@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
 description: >-
+  Synthesizes findings on circadian misalignment, melatonin suppression, and nocturnal renin surges—plus optimal eating windows to restore 10%+ dip in systolic BP.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: time-restricted eating nighttime blood pressure

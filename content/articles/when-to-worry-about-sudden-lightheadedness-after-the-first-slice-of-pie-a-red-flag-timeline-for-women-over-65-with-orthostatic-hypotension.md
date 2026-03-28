@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
 description: >-
+  A clinically grounded, symptom-timing guide distinguishing normal postprandial hypotension from dangerous vasovagal or autonomic triggers—specifically for older women managing BP meds or Parkinson’s-related dysautonomia.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: lightheadedness after pie orthostatic hypotension women 65+

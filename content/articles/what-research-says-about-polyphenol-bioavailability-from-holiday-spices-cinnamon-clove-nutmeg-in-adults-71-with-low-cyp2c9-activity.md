@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-polyphenol-bioavailability-from-holiday-spices-cinnamon-clove-nutmeg-in-adults-71-with-low-cyp2c9-activity
 description: >-
+  Reviews pharmacogenomic data on spice metabolism, absorption barriers in aging gut mucosa, and dosing strategies to maximize anti-inflammatory benefits without GI irritation.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: holiday spice bioavailability seniors cyp2c9

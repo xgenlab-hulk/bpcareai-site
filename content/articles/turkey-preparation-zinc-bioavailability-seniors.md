@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
 description: >-
+  Compares zinc bioavailability, oxidative byproduct formation, and postprandial inflammatory markers between two popular holiday turkey preparations in adults aged 65–85 with subclinical zinc deficiency.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: turkey preparation zinc bioavailability seniors

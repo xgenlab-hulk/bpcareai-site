@@ -2,6 +2,7 @@
 title: >-
 slug: 10-foods-that-lower-central-systolic-pressure-while-supporting-cognitive-blood-flow-for-adults-66-with-white-matter-hyperintensities-and-mild-hypertension
 description: >-
+  Features brain-perfusion–optimized foods that reduce central aortic load without compromising cerebral autoregulation in early cerebral small vessel disease.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: foods for central bp and cognitive blood flow

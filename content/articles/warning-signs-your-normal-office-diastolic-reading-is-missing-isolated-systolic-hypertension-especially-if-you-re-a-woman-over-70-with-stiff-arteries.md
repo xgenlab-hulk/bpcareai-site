@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries
 description: >-
+  Highlights clinical red flags (pulse pressure >65 mmHg, absent Korotkoff phase V, delayed radial pulse) indicating missed ISH in women with arterial calcification, and explains why home oscillometric devices may under-read.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: missed isolated systolic hypertension women

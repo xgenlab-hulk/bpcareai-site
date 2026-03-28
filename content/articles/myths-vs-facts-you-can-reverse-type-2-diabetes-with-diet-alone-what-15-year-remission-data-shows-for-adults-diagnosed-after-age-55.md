@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55
 description: >-
+  Deconstructs long-term durability of remission, differences in beta-cell recovery windows, and why 'reversal' definitions mislead older adults with age-related metabolic inflexibility.
 date: '2026-03-01'
 updated: '2026-03-01'
 primaryKeyword: type 2 diabetes reversal after 55

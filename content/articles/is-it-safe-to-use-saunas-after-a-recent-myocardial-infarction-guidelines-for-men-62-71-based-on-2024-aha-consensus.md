@@ -2,6 +2,7 @@
 title: >-
 slug: is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
 description: >-
+  Clarifies contraindications (e.g., LVEF <40%, uncontrolled arrhythmia), safe protocols (dry vs infrared, hydration timing), and 3-month post-MI reintegration milestones.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: sauna safety after heart attack over 60

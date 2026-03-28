@@ -2,6 +2,7 @@
 title: >-
 slug: 7-hidden-medication-interactions-that-elevate-heart-failure-readmission-risk-within-30-days-of-hospital-discharge-especially-in-adults-75-with-polypharmacy
 description: >-
+  Identifies high-risk drug combinations (e.g., NSAIDs + loop diuretics + SGLT2 inhibitors) that impair renal perfusion and natriuresis, with practical pharmacist-led review checklists for caregivers.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: medication interactions heart failure readmission

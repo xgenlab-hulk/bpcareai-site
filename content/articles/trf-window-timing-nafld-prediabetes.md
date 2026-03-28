@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-12-week-time-restricted-eating-starting-at-6-a-m-vs-10-a-m-impact-on-fasting-triglycerides-hepatic-fat-fraction-and-postprandial-glp-1-in-adults-55-62-with-nafld-and-prediabetes
 description: >-
+  Compares two early-morning TRF windows using MRI-PDFF, oral fat tolerance tests, and multiplex gut hormone assays—revealing how earlier feeding preserves diurnal GLP-1 amplitude better than late-morning onset.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: trf window timing nafld prediabetes

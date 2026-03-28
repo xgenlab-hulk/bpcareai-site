@@ -2,6 +2,7 @@
 title: Why Smart Home Screens May Block Your Nighttime BP Drop After 70
 slug: how-chronic-exposure-to-blue-light-from-smart-home-displays-disrupts-melatonin-mediated-nocturnal-bp-dipping-in-adults-70-with-mild-cognitive-impairment
 description: >-
+  Blue light at 470-490 nm suppresses your sleep hormone (melatonin) by 40-60%, disrupting the normal nighttime BP drop (nocturnal dipping) in older adults.
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: does blue light from screens raise blood pressure at night

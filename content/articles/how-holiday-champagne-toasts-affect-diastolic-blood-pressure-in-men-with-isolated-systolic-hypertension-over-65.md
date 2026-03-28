@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-champagne-toasts-affect-diastolic-blood-pressure-in-men-with-isolated-systolic-hypertension-over-65
 description: >-
+  Analyzes acute alcohol-induced vasodilation vs. rebound vasoconstriction—and why even one 4-oz glass can destabilize diastolic readings, worsen dizziness, and impair nocturnal BP dipping in aging vasculature.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: champagne diastolic blood pressure seniors

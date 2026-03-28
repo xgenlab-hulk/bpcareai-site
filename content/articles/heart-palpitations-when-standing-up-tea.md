@@ -2,6 +2,7 @@
 title: >-
 slug: what-causes-heart-palpitations-only-when-you-stand-up-to-pour-tea-the-role-of-postural-catecholamine-surges-and-left-atrial-stretch-in-adults-68-with-preserved-ejection-fraction
 description: >-
+  Explores a highly specific, under-recognized trigger for transient palpitations in older adults—linking orthostatic physiology, atrial mechanics, and daily ritual timing—without overt arrhythmia or orthostatic hypotension.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: heart palpitations when standing up tea

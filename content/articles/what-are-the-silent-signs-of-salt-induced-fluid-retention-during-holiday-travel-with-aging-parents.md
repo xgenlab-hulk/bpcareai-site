@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 description: >-
+  Identifies subtle but critical indicators—like shoe tightness, new abdominal fullness, reduced neck range of motion, and unexplained fatigue—that precede overt edema or dyspnea in seniors with compensated heart failure or CKD.
 date: '2025-12-18'
 updated: '2025-12-18'
 primaryKeyword: silent signs salt-induced fluid retention seniors

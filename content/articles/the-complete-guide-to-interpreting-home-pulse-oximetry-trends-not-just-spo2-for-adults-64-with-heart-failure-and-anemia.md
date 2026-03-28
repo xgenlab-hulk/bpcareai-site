@@ -2,6 +2,7 @@
 title: Your Pulse Oximeter Shows More Than SpO2 — Heart Failure After 64
 slug: the-complete-guide-to-interpreting-home-pulse-oximetry-trends-not-just-spo2-for-adults-64-with-heart-failure-and-anemia
 description: >-
+  A perfusion index (PI) drop below 0.5 often flags fluid buildup 24-48 hrs before weight gain or swelling (edema). Covers waveform shape and alarm thresholds.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: can a pulse oximeter detect heart failure getting worse

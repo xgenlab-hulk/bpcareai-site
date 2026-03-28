@@ -2,6 +2,7 @@
 title: >-
 slug: how-untreated-hearing-loss-alters-cortical-glucose-utilization-patterns-and-why-that-accelerates-cognitive-decline-in-adults-65-with-diabetes-and-mild-mci
 description: >-
+  Connects auditory deprivation to default mode network hypermetabolism and hippocampal hypometabolism via FDG-PET data—showing how hearing aid use within 6 months of diagnosis preserves glycemic-cognitive coupling.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: hearing-loss diabetes cognitive decline

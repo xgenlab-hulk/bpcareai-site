@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
 description: >-
+  Covers validated upper-arm and wrist devices, adaptive techniques, positioning hacks, and error-proof logging strategies tailored for seniors with limited dexterity or Parkinson’s-related tremors.
 date: '2025-12-16'
 updated: '2025-12-16'
 primaryKeyword: home blood pressure monitoring arthritis

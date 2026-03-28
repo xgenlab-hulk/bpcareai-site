@@ -2,6 +2,7 @@
 title: 'Myths vs Facts: Holiday Eating with Diabetes After 50'
 slug: myths-vs-facts-holiday-eating-with-diabetes-after-50
 description: >-
+  Debunks common misconceptions — like 'fruit is always safe' or 'one cheat day won’t hurt' — with clinical insights.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: diabetes holiday myths vs facts

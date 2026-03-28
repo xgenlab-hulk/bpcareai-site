@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
 description: >-
+  Explains the IL-6/TNF-α–mediated hepatic gluconeogenesis pathway and introduces adjunctive antimicrobial protocols shown to improve 2-hr glucose AUC by 22%.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: periodontitis postprandial hyperglycemia

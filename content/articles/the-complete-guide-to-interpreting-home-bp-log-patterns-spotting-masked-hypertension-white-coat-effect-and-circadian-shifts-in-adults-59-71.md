@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71
 description: >-
+  Walks through real-world log examples (with annotated charts), teaching users to identify clinically meaningful patterns — not just averages — using time-stamped, posture-annotated readings.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: home bp log pattern interpretation

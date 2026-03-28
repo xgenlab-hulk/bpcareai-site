@@ -2,6 +2,7 @@
 title: >-
 slug: how-daily-2-minute-upright-post-meal-walking-modulates-postprandial-atrial-stretch-in-adults-57-63-with-mild-left-atrial-enlargement-a-mechanistic-guide
 description: >-
+  Explains the biomechanical and hemodynamic rationale for timing-specific ambulation to reduce transient atrial wall stress, with ultrasound-guided gait recommendations.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: post-meal walking atrial stretch

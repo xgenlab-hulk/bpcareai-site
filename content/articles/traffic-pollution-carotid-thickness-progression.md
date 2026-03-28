@@ -2,6 +2,7 @@
 title: >-
 slug: how-living-near-high-traffic-urban-corridors-alters-carotid-intima-media-thickness-progression-in-adults-66-with-controlled-hypertension-and-no-prior-cvd
 description: >-
+  Examines longitudinal IMT data linked to PM2.5/NO2 exposure modeling, highlighting epigenetic drivers (e.g., LINE-1 methylation, miR-146a suppression) and neighborhood-level mitigation tactics.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: "hypertension management adults 66+"

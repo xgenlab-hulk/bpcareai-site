@@ -2,6 +2,7 @@
 title: >-
 slug: how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
 description: >-
+  Links winter dry-air–induced sympathetic activation, nasal resistance, and impaired baroreflex sensitivity to early-AM hypertension surges—validated by controlled climate-chamber trials.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: low humidity and morning high blood pressure

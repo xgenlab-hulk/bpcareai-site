@@ -2,6 +2,7 @@
 title: "82% of 'Diabetes-Friendly' Protein Bars Hide a Blood Sugar Trap"
 slug: the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose
 description: >-
+  Maltitol in 82% of 'diabetes-friendly' bars spikes glucose 35-50 mg/dL in adults 70+ with slow emptying (gastroparesis). Tested alternatives stay under 15.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: are diabetes-friendly protein bars safe for seniors

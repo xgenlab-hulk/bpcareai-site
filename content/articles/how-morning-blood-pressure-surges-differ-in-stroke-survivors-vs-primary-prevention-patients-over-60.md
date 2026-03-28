@@ -2,6 +2,7 @@
 title: >-
 slug: how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
 description: >-
+  Breaks down ABPM patterns—peak timing, surge magnitude, and circadian phase shift—plus tailored morning medication timing based on neurovascular autoregulation capacity.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: morning blood pressure surge stroke survivors

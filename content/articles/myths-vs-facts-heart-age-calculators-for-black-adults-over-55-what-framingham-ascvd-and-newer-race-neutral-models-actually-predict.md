@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-heart-age-calculators-for-black-adults-over-55-what-framingham-ascvd-and-newer-race-neutral-models-actually-predict
 description: >-
+  Compares predictive accuracy, calibration, and real-world utility of popular heart age tools in Black populations, highlighting disparities in risk stratification and clinical actionability.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: heart age calculator myths black adults over 55

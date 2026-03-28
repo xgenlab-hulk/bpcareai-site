@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 description: >-
+  Explains how blue-enriched screen light suppresses nocturnal melatonin, blunting nocturnal insulin sensitivity—and why this effect is magnified in aging retinal ganglion cells.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: late-night TV dawn phenomenon diabetes

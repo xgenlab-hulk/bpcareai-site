@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-hosting-a-heart-healthy-holiday-dinner-while-managing-mild-cognitive-impairment-meal-prep-labeling-and-guest-communication-protocols-for-adults-77
 description: >-
+  Provides step-by-step, cognition-supportive hosting framework: simplified menus, tactile food cues, verbal scripting for dietary boundaries, and caregiver collaboration tools.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: heart-healthy holiday dinner mci hosting

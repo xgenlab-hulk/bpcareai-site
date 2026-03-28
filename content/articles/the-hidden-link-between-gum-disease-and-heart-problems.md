@@ -2,6 +2,7 @@
 title: The Hidden Link Between Gum Disease and Heart Problems
 slug: the-hidden-link-between-gum-disease-and-heart-problems
 description: >-
+  Explore how poor oral health may increase the risk of heart disease and what older adults can do to protect themselves.
 date: '2025-11-26'
 updated: '2025-11-26'
 primaryKeyword: gum disease and heart health connection

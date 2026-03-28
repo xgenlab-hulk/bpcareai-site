@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-i-can-eat-anything-if-i-take-extra-insulin-real-world-outcomes-in-adults-59-67-with-long-term-t2d-using-correction-factor-overuse-during-holidays
 description: >-
+  Debunks overcorrection myths using retrospective CGM data on glucose variability, ketone trends, and microvascular event rates — with insulin dose–glucose response curves across holiday meals.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: insulin overcorrection holiday myth

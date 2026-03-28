@@ -2,6 +2,7 @@
 title: How Staying Hydrated in Winter Protects Your Heart After 70
 slug: how-staying-hydrated-in-winter-protects-your-heart-after-70
 description: >-
+  Highlights the importance of hydration despite lower thirst cues and its impact on blood viscosity and cardiac output.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: winter hydration heart health

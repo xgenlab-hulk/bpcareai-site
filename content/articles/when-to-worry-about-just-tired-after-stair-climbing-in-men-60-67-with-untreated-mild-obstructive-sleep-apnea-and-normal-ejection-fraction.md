@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
 description: >-
+  Presents a 4-stage functional decline timeline linking exertional fatigue to masked nocturnal hypoxemia, pulmonary vascular resistance shifts, and early RV-PA coupling mismatch—before echo Doppler abnormalities emerge.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: exertional fatigue stair climbing sleep apnea

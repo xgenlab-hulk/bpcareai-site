@@ -2,6 +2,7 @@
 title: >-
 slug: what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
 description: >-
+  Reviews updated AHA/ASA 2023 guidelines for post-stroke BP management—including optimal timing for antihypertensive initiation, acceptable variability, and neuroprotection vs. perfusion trade-offs.
 date: '2025-12-16'
 updated: '2025-12-16'
 primaryKeyword: blood pressure after stroke recovery targets

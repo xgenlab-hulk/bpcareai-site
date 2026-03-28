@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use
 description: >-
+  Links delayed satiety, mid-afternoon brain fog, and subtle stool texture changes to fermented carbohydrate intolerance and hydrogen sulfide overproduction — with simple at-home testing and targeted prebiotic adjustments.
 date: '2026-02-28'
 updated: '2026-02-28'
 primaryKeyword: holiday leftovers gut dysbiosis ppi seniors

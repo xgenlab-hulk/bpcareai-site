@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-pre-holiday-3-day-low-carb-reset-vs-same-duration-magnesium-glycinate-loading-which-better-stabilizes-heart-rate-variability-in-adults-58-with-subclinical-autonomic-dysfunction
 description: >-
+  Compares two pre-festivity interventions for improving vagal tone and reducing AFib susceptibility, using HRV metrics and 72-hour wearable ECG data in early autonomic decline.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: low-carb vs magnesium holiday heart prevention

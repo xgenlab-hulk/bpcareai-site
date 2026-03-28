@@ -2,6 +2,7 @@
 title: >-
 slug: 5-foods-that-support-pancreatic-acinar-cell-repair-without-stimulating-exocrine-hypersecretion-for-adults-58-67-with-type-2-diabetes-and-chronic-pancreatitis-history
 description: >-
+  Highlights nutrient-dense, low-trypsinogen-activating foods (e.g., fermented buckwheat, cooked dandelion greens, cold-pressed flaxseed oil) backed by rodent acinar regeneration models and human pilot data on fecal elastase-3 stability.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: pancreatic acinar repair foods type 2 diabetes

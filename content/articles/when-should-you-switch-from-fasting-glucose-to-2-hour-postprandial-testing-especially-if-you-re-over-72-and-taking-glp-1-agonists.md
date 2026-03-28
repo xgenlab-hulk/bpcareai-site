@@ -2,6 +2,7 @@
 title: >-
 slug: when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
 description: >-
+  Guides clinical decision-making using time-in-range data, gastric emptying delays, and pharmacodynamic curves of semaglutide/tirzepatide to optimize monitoring strategy.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: postprandial testing timing for glp1 users over 72

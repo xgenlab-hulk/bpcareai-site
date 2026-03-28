@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
 description: >-
+  Offers post-op visual rehabilitation strategies (timing, lens tint considerations, environmental mapping) to re-establish circadian photoreception in seniors with history of SAD.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: morning light exposure after cataract surgery seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
 description: >-
+  Identifies early neurocognitive markers: slowed processing speed on digit symbol tests, reduced hippocampal volume on MRI, and elevated CSF tau/β-amyloid ratios.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: diabetes cognitive decline warning signs

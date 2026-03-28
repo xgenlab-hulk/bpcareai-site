@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
 description: >-
+  Identifies behavioral shifts—including emotional eating patterns, meal skipping followed by bingeing, and social withdrawal during meals—and links them to complicated grief, anticipatory loss, and late-life depression in adults 65+.
 date: '2025-12-16'
 updated: '2025-12-16'
 primaryKeyword: holiday grief emotional eating seniors

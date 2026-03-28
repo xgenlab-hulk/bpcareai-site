@@ -2,6 +2,7 @@
 title: >-
 slug: how-long-term-use-of-proton-pump-inhibitors-alters-gut-microbiome-derived-tmao-production-and-coronary-plaque-burden-in-adults-65-with-stable-angina
 description: >-
+  Reviews clinical and mechanistic evidence on PPI-induced dysbiosis, TMAO elevation, and associations with plaque progression on serial CCTA in older angina patients.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: pills and tmao coronary plaque

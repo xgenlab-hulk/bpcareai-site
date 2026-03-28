@@ -2,6 +2,7 @@
 title: 'Myths vs Facts: Healthy Eating During Family Celebrations'
 slug: myths-vs-facts-healthy-eating-during-family-celebrations
 description: >-
+  Debunks common misconceptions about dieting during holidays, such as 'one bad meal ruins everything' or 'fasting prepares you.'
 date: '2025-12-11'
 updated: '2025-12-11'
 primaryKeyword: holiday diet myths vs facts

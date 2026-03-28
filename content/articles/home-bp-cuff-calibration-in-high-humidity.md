@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-calibrate-your-home-blood-pressure-cuff-before-every-use-especially-when-ambient-humidity-exceeds-65-in-adults-69-with-salt-sensitive-hypertension
 description: >-
+  Addresses hygroscopic sensor drift in oscillometric cuffs and provides humidity-aware recalibration routines to maintain ±2 mmHg accuracy in humid climates.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: home bp cuff calibration in high humidity

@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-stable-heart-disease-means-no-progression-what-2024-imaging-studies-reveal-about-silent-plaque-erosion-in-adults-58-66-with-controlled-bp-and-ldl
 description: >-
+  Debunks the false safety of clinical stability using recent intravascular ultrasound and OCT data showing active microerosion even with optimal conventional metrics.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: stable heart disease plaque erosion

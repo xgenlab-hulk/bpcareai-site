@@ -2,6 +2,7 @@
 title: How Air Pollution Impacts Heart Health in Older Adults
 slug: how-air-pollution-impacts-heart-health-in-older-adults
 description: >-
+  Learn how everyday exposure to polluted air increases inflammation and heart strain in seniors.
 date: '2025-11-30'
 updated: '2025-11-30'
 primaryKeyword: air pollution effects on heart health elderly

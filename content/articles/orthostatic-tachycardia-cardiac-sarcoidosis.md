@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-signs-your-mild-orthostatic-tachycardia-is-actually-masking-early-cardiac-sarcoidosis-especially-with-concurrent-uveitis-and-subtle-skin-lesions-in-adults-54-61
 description: >-
+  Highlights atypical presentations of inflammatory cardiomyopathy where autonomic testing misleads, and dermatologic/ophthalmologic clues precede cardiac MRI confirmation.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: orthostatic tachycardia cardiac sarcoidosis

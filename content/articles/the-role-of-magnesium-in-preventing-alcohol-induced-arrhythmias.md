@@ -2,6 +2,7 @@
 title: The Role of Magnesium in Preventing Alcohol-Induced Arrhythmias
 slug: the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
 description: >-
+  Explore how magnesium deficiency may increase susceptibility to holiday heart syndrome and whether supplementation helps.
 date: '2025-12-11'
 updated: '2025-12-11'
 primaryKeyword: magnesium alcohol arrhythmias

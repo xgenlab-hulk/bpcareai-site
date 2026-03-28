@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-nighttime-mouth-breathing-alters-left-ventricular-filling-pressure-evidence-from-cardiac-mri-in-adults-58-72-with-untreated-mild-sleep-disordered-breathing
 description: >-
+  Explores the hemodynamic impact of habitual oral breathing during sleep on diastolic function, using advanced imaging to link upper airway mechanics to early heart failure risk in midlife and older adults.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: mouth breathing diastolic dysfunction seniors

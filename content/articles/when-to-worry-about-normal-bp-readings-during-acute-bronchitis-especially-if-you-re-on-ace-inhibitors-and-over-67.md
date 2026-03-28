@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
 description: >-
+  Explains how airway inflammation and cough-induced intrathoracic pressure surges mask true vascular resistance, increasing risk of undetected hypertensive urgency.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: blood pressure during bronchitis ace inhibitors

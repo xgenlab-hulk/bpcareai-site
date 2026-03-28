@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
 description: >-
+  Clarifies autonomic dissociation between HR and BP regulation, emphasizing baroreflex failure, chronotropic incompetence, and circadian misalignment.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: heart rate steady blood pressure myths

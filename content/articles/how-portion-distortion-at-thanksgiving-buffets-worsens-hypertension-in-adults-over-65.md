@@ -2,6 +2,7 @@
 title: >-
 slug: how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
 description: >-
+  Explores the physiological and behavioral mechanisms linking oversized servings to acute blood pressure spikes—and how visual portion cues (like plate size and serving utensils) uniquely impact seniors’ cardiovascular stress.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: portion distortion hypertension seniors

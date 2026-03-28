@@ -2,6 +2,7 @@
 title: Is It Safe to Drink Wine During the Holidays If You’ve Had Heart Issues?
 slug: is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
 description: >-
+  Help readers assess personal risk and make informed decisions about moderate alcohol use after cardiac events or diagnoses.
 date: '2025-12-11'
 updated: '2025-12-11'
 primaryKeyword: wine after heart issues holiday

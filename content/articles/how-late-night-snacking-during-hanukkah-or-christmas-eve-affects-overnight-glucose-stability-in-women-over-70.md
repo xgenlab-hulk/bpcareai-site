@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
 description: >-
+  Analyzes circadian insulin resistance shifts, melatonin-glucose crosstalk, and optimal pre-sleep carb-protein ratios for older women with prediabetes.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: late-night snacking overnight glucose stability seniors

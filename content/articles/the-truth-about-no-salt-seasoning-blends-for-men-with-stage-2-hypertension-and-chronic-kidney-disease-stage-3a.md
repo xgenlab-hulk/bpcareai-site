@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a
 description: >-
+  Analyzes potassium content, hidden sodium analogs (e.g., potassium chloride), and taste-adaptation timelines in commercial salt substitutes for this high-risk cohort.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: no-salt seasoning blends chronic kidney disease

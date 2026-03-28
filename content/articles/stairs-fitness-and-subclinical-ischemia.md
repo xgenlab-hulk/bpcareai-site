@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-my-heart-is-strong-because-i-climb-stairs-easily-what-stress-echocardiography-reveals-about-subclinical-ischemia-in-adults-55-64-with-family-history
 description: >-
+  Debunks fitness-as-protection assumptions using stress echo data showing inducible ischemia in metabolically healthy, physically active adults with genetic risk.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: stairs fitness and subclinical ischemia

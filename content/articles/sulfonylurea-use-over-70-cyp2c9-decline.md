@@ -2,6 +2,7 @@
 title: >-
 slug: 5-things-everyone-over-70-should-know-about-sulfonylurea-use-especially-if-you-re-taking-gliclazide-and-have-age-related-decline-in-cyp2c9-and-renal-function
 description: >-
+  Addresses pharmacogenomic and pharmacokinetic risks: prolonged half-life, increased hypoglycemia duration, impaired counterregulatory hormone response, and safer alternatives like glimepiride dose tapering with weekly CGM review.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: "health management over 70"

@@ -2,6 +2,7 @@
 title: Understanding A1C Goals for Seniors with Diabetes
 slug: understanding-a1c-goals-for-seniors-with-diabetes
 description: >-
+  Learn how target HbA1c levels may differ for older adults based on overall health and comorbidities.
 date: '2025-11-28'
 updated: '2025-11-28'
 primaryKeyword: A1C targets for elderly with diabetes

@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-holiday-fruitcake-may-be-raising-your-fasting-glucose-even-if-it-s-no-sugar-added
 description: >-
+  Breaks down how concentrated dried fruits, fructose-rich syrups, and resistant starch breakdown in aged cakes impact overnight glycemia—and offers lab-validated substitution ratios for safer traditional recipes.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: fruitcake fasting glucose seniors

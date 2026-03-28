@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80
 description: >-
+  Provides a clinical decision tree for caregivers and PCPs to distinguish adaptive aging patterns (e.g., reduced social stamina) from pathological isolation linked to SAD onset in the oldest-old.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: social withdrawal winter seasonal depression adults 80+

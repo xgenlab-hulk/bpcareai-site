@@ -2,6 +2,7 @@
 title: >-
 slug: can-you-safely-resume-morning-tai-chi-after-starting-glp-1-agonists-evidence-based-timing-hydration-and-orthostatic-monitoring-protocols-for-adults-59-71
 description: >-
+  Addresses real-world safety questions around exercise initiation during pharmacologic transition—focusing on gastric emptying delays, hypotension risk, and autonomic recalibration windows.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: tai chi after starting glp-1 agonists

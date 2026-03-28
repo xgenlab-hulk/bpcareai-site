@@ -2,6 +2,7 @@
 title: How Sleep Disruption Fuels Seasonal Mood Disorders in Adults Over 60
 slug: how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
 description: >-
+  Explain the connection between shortened daylight, melatonin imbalance, and disrupted sleep-wake cycles in older adults.
 date: '2025-12-09'
 updated: '2025-12-09'
 primaryKeyword: sleep disruption and seasonal depression

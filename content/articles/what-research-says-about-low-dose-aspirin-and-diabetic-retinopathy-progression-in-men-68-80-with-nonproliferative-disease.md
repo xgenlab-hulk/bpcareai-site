@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
 description: >-
+  Reviews RCT and cohort evidence on antiplatelet therapy’s paradoxical effects on retinal microvascular integrity, including when aspirin may accelerate vs. stabilize early-stage diabetic eye disease.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: aspirin diabetic retinopathy men 68-80

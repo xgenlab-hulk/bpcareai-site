@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
 description: >-
+  Covers hypovolemia-aware dosing reductions, ketone testing timing, and ‘safety net’ snack strategies to prevent euglycemic DKA in home-dwelling elders.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: evening insulin sgl2 inhibitor adjustment

@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-slow-paced-breathing-at-5-5-breaths-minute-vs-6-0-breaths-minute-for-acute-diastolic-pressure-reduction-in-adults-60-64-with-early-lv-diastolic-dysfunction
 description: >-
+  Compares two clinically distinct resonant breathing frequencies for optimizing vagal tone and left ventricular filling dynamics in pre-heart-failure populations.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: resonant breathing diastolic pressure reduction

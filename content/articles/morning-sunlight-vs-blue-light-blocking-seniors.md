@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-morning-sunlight-exposure-before-10-am-vs-evening-blue-light-blocking-lenses-for-nocturnal-systolic-control-in-adults-63-with-mild-circadian-phase-delay
 description: >-
+  Compares two chronobiological interventions for lowering early-morning systolic spikes, referencing 2024 RCT data on melatonin timing, cortisol awakening response, and baroreflex resetting.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: morning sunlight vs blue light blocking seniors

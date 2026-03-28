@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60
 description: >-
+  Summarizes 2022–2024 RCTs on non-exercise activity thermogenesis (NEAT), micro-movements, and vascular tone—plus practical recommendations for sedentary professionals managing stage 1 hypertension.
 date: '2025-12-17'
 updated: '2025-12-17'
 primaryKeyword: standing desk blood pressure research 60+

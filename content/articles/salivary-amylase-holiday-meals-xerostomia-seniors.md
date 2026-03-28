@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
 description: >-
+  Offers sensory-triggered, texture-modified, and temperature-optimized pre- and intra-meal strategies to boost natural salivary enzyme activity, improving carbohydrate digestion and satiety signaling.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: salivary amylase holiday meals xerostomia seniors

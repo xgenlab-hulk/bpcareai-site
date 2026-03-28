@@ -2,6 +2,7 @@
 title: "Post-Dinner Walk vs. Deep Breathing: Which Cuts Glucose More?"
 slug: a-vs-b-10-minute-post-dinner-walking-after-holiday-dinner-vs-5-minute-deep-breathing-impact-on-2-hour-postprandial-glucose-in-adults-66-with-obesity-and-sleep-apnea
 description: >-
+  CGM data: a 10-min post-meal walk lowers the blood sugar spike (postprandial glucose) ~30 mg/dL vs. ~12 mg/dL for deep breathing in adults 66+ with obesity.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: walking after dinner vs deep breathing for blood sugar

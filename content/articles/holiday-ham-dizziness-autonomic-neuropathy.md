@@ -2,6 +2,7 @@
 title: >-
 slug: what-causes-sudden-post-dinner-dizziness-only-when-eating-holiday-ham-and-why-nitrate-induced-vasodilation-masks-early-orthostatic-hypotension-in-adults-66-with-autonomic-neuropathy
 description: >-
+  Connects dietary nitrates in cured meats to exaggerated vasodilation in neuropathic patients, leading to transient cerebral hypoperfusion — misinterpreted as 'just fatigue' but revealing critical autonomic vulnerability.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: holiday ham dizziness autonomic neuropathy

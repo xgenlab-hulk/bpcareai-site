@@ -2,6 +2,7 @@
 title: >-
 slug: how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
 description: >-
+  Explains the Akkermansia–butyrate–TMAO axis, interprets stool test biomarkers, and outlines clinically validated prebiotic protocols for cardiac risk reduction.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: gut microbiome and heart failure prediction

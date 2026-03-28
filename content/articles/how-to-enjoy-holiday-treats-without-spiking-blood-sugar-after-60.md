@@ -2,6 +2,7 @@
 title: How to Enjoy Holiday Treats Without Spiking Blood Sugar After 60
 slug: how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
 description: >-
+  Science-backed timing, pairing, and portion strategies that allow seniors with prediabetes or diabetes to savor sweets safely.
 date: '2025-12-08'
 updated: '2025-12-08'
 primaryKeyword: enjoy holiday treats without spiking blood sugar

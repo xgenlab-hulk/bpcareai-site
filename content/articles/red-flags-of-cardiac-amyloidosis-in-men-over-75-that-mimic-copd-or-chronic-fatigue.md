@@ -2,6 +2,7 @@
 title: >-
 slug: red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
 description: >-
+  Details diagnostic pitfalls: preserved ejection fraction with restrictive filling, carpal tunnel revision history, and low-voltage ECG with disproportionate troponin elevation.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: cardiac amyloidosis red flags in elderly men

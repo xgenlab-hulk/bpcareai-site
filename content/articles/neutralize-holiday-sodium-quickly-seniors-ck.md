@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-neutralize-excess-holiday-sodium-within-20-minutes-using-targeted-potassium-rich-bite-sized-foods-and-post-meal-hydration-sequencing-in-adults-71-with-ckd-stage-3
 description: >-
+  Offers evidence-based, kidney-safe sodium countermeasures: precise food pairings, timing windows, and fluid-electrolyte kinetics tailored for reduced GFR.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: neutralize holiday sodium quickly seniors ck

@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
 description: >-
+  Investigates how potassium-based salt substitutes interfere with angiotensin-converting enzyme inhibitor efficacy and increase hyperkalemia risk in stage 2 hypertension patients aged 60–74.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: low-sodium canned beans and ACE inhibitors

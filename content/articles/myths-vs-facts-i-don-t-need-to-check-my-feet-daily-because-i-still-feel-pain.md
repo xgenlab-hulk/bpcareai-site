@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
 description: >-
+  Debunks sensory neuropathy misconceptions with nerve conduction data, explaining why preserved pain sensation ≠ intact protective sensation — and how to perform a validated monofilament + vibration home assessment.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: diabetic foot care pain sensation myth

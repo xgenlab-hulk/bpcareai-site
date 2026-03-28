@@ -2,6 +2,7 @@
 title: The Link Between Holiday Loneliness and Emotional Eating in Older Adults
 slug: the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 description: >-
+  Examine how isolation during the holidays contributes to unhealthy eating patterns in seniors and what families can do to help.
 date: '2025-11-30'
 updated: '2025-11-30'
 primaryKeyword: holiday loneliness and emotional eating seniors

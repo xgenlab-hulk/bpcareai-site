@@ -2,6 +2,7 @@
 title: How Cold Weather Celebrations Increase Holiday Heart Syndrome Risk
 slug: how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
 description: >-
+  Explain how outdoor winter festivities, combined with alcohol and exertion, elevate cardiovascular strain.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: cold weather holiday heart

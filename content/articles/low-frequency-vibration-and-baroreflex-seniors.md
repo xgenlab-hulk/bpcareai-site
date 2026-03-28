@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-exposure-to-low-frequency-vibration-e-g-from-walking-aids-or-mobility-scooters-alters-baroreflex-sensitivity-in-adults-79-with-severe-peripheral-neuropathy
 description: >-
+  Investigates sub-threshold mechanical noise interference with carotid sinus mechanoreceptors and its link to increased BP variability and orthostatic hypotension episodes.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: low frequency vibration and baroreflex seniors

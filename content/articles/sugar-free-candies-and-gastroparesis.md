@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-sugar-free-holiday-candies-marketed-to-seniors-why-83-contain-maltitol-induced-osmotic-diarrhea-and-secondary-hyperglycemia-in-adults-69-with-gastroparesis
 description: >-
+  Debunks marketing claims around sugar alcohols, revealing how maltitol and sorbitol exacerbate delayed gastric motility, cause rapid colonic fermentation, and trigger reactive glucose spikes via GLP-1 and catecholamine surges.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: sugar-free candies and gastroparesis

@@ -2,6 +2,7 @@
 title: >-
 slug: how-intermittent-use-of-magnetic-mattress-pads-alters-baroreflex-gain-in-adults-63-with-mild-orthostatic-intolerance-and-early-autonomic-neuropathy
 description: >-
+  Assesses low-intensity static magnetic field exposure on carotid sinus mechanoreceptor sensitivity and its impact on BP stability during positional changes.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: magnetic mattress pad baroreflex autonomic neuropathy

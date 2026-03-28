@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-traditional-slow-cooked-turkey-breast-vs-sous-vide-turkey-breast-impact-on-advanced-glycation-end-products-ages-postprandial-inflammation-and-endothelial-function-in-adults-66-with-early-atherosclerosis
 description: >-
+  Compares cooking methods by AGE formation, CRP response, and flow-mediated dilation data — with practical kitchen adaptations for home cooks over 65.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: turkey cooking method endothelial health

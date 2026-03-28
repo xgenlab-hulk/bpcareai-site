@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
 description: >-
+  Identifies early electrocardiographic, symptom-based, and functional markers (e.g., exertional dyspnea onset, nocturnal cough timing) predictive of LVH progression.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: "hypertension management seniors"

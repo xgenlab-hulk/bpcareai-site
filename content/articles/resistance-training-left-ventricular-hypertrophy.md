@@ -2,6 +2,7 @@
 title: >-
 slug: can-you-reverse-mild-left-ventricular-hypertrophy-with-resistance-training-alone-evidence-from-6-rcts-in-sedentary-men-60-72-with-controlled-hypertension
 description: >-
+  Evaluates whether progressive, low-load resistance training (without aerobic conditioning) improves LV mass index, arterial stiffness, and exercise tolerance—comparing outcomes to standard aerobic-only protocols.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: resistance training left ventricular hypertrophy

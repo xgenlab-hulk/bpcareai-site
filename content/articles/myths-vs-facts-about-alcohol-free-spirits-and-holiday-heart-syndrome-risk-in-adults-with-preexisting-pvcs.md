@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
 description: >-
+  Debunks assumptions about 'safe' non-alcoholic alternatives, highlighting hidden triggers like high-quinine tonics, excessive caffeine analogs, and glycyrrhizin-induced hypokalemia in botanical distillates.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: alcohol-free spirits and pvc risk in elderly

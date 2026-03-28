@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation
 description: >-
+  Details calibration drift, cuff size errors, arrhythmia misreading, and oscillometric algorithm limitations—plus 3 quick validation checks users can perform at home.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: false low blood pressure readings

@@ -2,6 +2,7 @@
 title: 'Managing Diabetes While Traveling: Tips for Seniors'
 slug: managing-diabetes-while-traveling-tips-for-seniors
 description: >-
+  Stay in control of your glucose levels while on the go with practical travel advice tailored for older adults.
 date: '2025-12-03'
 updated: '2025-12-03'
 primaryKeyword: traveling with diabetes tips for seniors

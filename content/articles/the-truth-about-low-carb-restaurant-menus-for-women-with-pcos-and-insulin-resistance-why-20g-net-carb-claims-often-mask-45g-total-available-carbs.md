@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-low-carb-restaurant-menus-for-women-with-pcos-and-insulin-resistance-why-20g-net-carb-claims-often-mask-45g-total-available-carbs
 description: >-
+  Deconstructs restaurant menu labeling practices, fiber accounting loopholes, and resistant starch misrepresentation in dishes marketed as 'low-carb' for metabolic health.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: low-carb restaurant menu truth

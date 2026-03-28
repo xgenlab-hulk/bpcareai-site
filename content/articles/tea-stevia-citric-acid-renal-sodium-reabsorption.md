@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-afternoon-tea-consumption-especially-with-stevia-citric-acid-alters-renal-sodium-reabsorption-in-adults-73-with-thiazide-induced-hypokalemia-and-mild-volume-depletion
 description: >-
+  Analyzes how common sweetener-acid combinations interact with distal tubular ion transporters to exacerbate electrolyte imbalances in diuretic users.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: tea stevia citric acid renal sodium reabsorption

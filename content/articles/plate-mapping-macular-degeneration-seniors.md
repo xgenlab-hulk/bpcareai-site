@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-plate-mapping-for-seniors-with-macular-degeneration-using-color-contrast-texture-cues-and-portion-size-landmarks-to-prevent-overeating
 description: >-
+  Details vision-adapted plate composition techniques validated in low-vision dining studies, with printable templates and lighting recommendations for holiday tables.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: plate mapping macular degeneration seniors

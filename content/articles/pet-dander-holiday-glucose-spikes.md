@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-holiday-glucose-readings-are-higher-only-when-visiting-your-son-s-house-the-role-of-pet-dander-induced-systemic-inflammation-in-adults-66-with-subclinical-asthma-and-t2d
 description: >-
+  Links allergen-triggered IL-6 and TNF-alpha surges to transient insulin resistance and impaired GLUT4 translocation — explaining location-specific glucose dysregulation not attributable to diet or activity changes.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: pet dander holiday glucose spikes

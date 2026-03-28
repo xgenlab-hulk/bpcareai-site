@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
 description: >-
+  Highlights deceptive indicators—like unexplained morning confusion, transient word-finding difficulty, and gait instability—that precede classic hyponatremia symptoms in polypharmacy seniors during high-fluid holiday periods.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: holiday hyponatremia warning signs seniors

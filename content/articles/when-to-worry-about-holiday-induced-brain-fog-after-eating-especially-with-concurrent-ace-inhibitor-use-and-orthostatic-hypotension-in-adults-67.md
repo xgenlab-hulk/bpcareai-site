@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67
 description: >-
+  Distinguishes between benign postprandial fatigue and concerning neurocognitive dips linked to cerebral hypoperfusion, medication timing, and meal composition in vulnerable older adults.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: holiday brain fog orthostatic hypotension seniors

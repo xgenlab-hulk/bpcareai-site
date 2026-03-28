@@ -2,6 +2,7 @@
 title: >-
 slug: why-sad-screening-tools-like-the-phq-9-often-miss-seasonal-depression-in-women-over-65-and-what-to-use-instead
 description: >-
+  Analyzes cultural and cognitive biases in standard depression scales, and introduces a modified, seasonally weighted assessment validated in geriatric primary care settings.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: SAD screening tools for older women

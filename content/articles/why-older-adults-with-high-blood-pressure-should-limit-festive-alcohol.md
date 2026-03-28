@@ -2,6 +2,7 @@
 title: Why Older Adults with High Blood Pressure Should Limit Festive Alcohol
 slug: why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
 description: >-
+  Explain how hypertension amplifies the arrhythmogenic effects of alcohol, increasing holiday heart syndrome susceptibility.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: hypertension festive alcohol risk

@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
 description: >-
+  Examines circadian disruption, blue light exposure, and sustained seated posture during evening holiday tasks—and their measurable impact on atrial fibrillation burden in diagnosed adults aged 60–80.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: late-night gift wrapping and afib stability

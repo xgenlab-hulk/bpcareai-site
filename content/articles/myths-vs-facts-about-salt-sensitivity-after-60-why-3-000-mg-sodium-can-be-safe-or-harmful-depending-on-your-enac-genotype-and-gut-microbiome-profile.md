@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile
 description: >-
+  Deconstructs monolithic sodium advice using pharmacogenomics (SCNN1B variants) and microbial TMAO–butyrate ratios to define personalized sodium thresholds.
 date: '2026-03-02'
 updated: '2026-03-02'
 primaryKeyword: salt sensitivity genetics microbiome aging

@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-prevent-post-holiday-constipation-without-laxatives-using-only-a-digital-scale-your-kitchen-timer-and-3-common-herbs-age-66-sedentary-lifestyle
 description: >-
+  Teaches timed fiber-to-fluid ratio tracking, herb-infused broth sipping intervals, and abdominal massage timing synchronized with circadian motilin pulses — all validated in a 2023 geriatric GI pilot study.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: prevent post holiday constipation naturally

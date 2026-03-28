@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 description: >-
+  Analyzes clinical glucose clamp data and epinephrine/norepinephrine responses to erythritol, allulose, and sucralose in 32 adults with sarcopenia and autonomic dysfunction.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: sugar-free candies glycemic response frail elderly

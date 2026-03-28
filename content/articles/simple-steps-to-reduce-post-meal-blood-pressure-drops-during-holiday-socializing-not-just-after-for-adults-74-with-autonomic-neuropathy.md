@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy
 description: >-
+  Introduces real-time, non-pharmacologic interventions (breathing pattern, posture sequencing, ambient temperature) that blunt orthostatic and postprandial hypotension *while* conversing and moving.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: post-meal blood pressure drops socializing seniors

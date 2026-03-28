@@ -2,6 +2,7 @@
 title: "Silence vs. Quiet: Why True Silence Lowers Aortic Pressure"
 slug: how-intermittent-silence-not-just-quiet-lowers-central-aortic-systolic-pressure-in-adults-64-with-white-coat-hypertension-and-high-cortisol-awakening-response
 description: >-
+  20 min of intentional silence — not just low noise — reduced artery stiffness (pulse wave velocity) and central BP in adults 64+ with white-coat hypertension.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: does silence lower blood pressure more than quiet

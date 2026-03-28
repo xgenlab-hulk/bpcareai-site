@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbial-bile-acid-metabolism-and-why-that-worsens-postprandial-glucose-variability-in-adults-58-66-with-prediabetes
 description: >-
+  Breaks down the PPI–gut–liver axis: how decades of omeprazole use reshapes bile-acid-transforming microbes, reduces FXR signaling, and impairs GLP-1 secretion—backed by recent metagenomic and metabolomic studies.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: pills that raise blood sugar silently

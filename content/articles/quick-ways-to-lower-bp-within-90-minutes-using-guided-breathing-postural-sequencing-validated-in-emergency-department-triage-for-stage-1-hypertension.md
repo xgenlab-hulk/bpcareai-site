@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
 description: >-
+  Details a 4-7-8 inhale-hold-exhale pattern combined with supine-to-seated transitions to acutely reduce sympathetic outflow and peripheral resistance.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: quick blood pressure reduction guided breathing

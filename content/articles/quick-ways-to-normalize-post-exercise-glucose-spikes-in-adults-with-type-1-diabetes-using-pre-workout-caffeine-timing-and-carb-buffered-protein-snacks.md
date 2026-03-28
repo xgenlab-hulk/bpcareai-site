@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-normalize-post-exercise-glucose-spikes-in-adults-with-type-1-diabetes-using-pre-workout-caffeine-timing-and-carb-buffered-protein-snacks
 description: >-
+  Presents a 3-step protocol tested in 48 adults: caffeine dose window, leucine–whey ratio, and immediate post-set carb timing to blunt catecholamine-driven hyperglycemia.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: post-exercise glucose spike type 1

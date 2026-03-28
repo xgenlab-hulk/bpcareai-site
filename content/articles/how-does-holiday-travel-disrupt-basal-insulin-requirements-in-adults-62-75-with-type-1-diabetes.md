@@ -2,6 +2,7 @@
 title: >-
 slug: how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
 description: >-
+  Explores circadian misalignment, time-zone crossing, and meal timing variability—backed by real-world pump log data from 147 travelers—on insulin sensitivity shifts during December trips.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: holiday travel insulin requirements type 1 diabetes

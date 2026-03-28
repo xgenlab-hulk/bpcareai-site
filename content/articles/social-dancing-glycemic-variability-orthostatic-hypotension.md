@@ -2,6 +2,7 @@
 title: >-
 slug: how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
 description: >-
+  Presents mechanistic data linking rhythmic movement, vestibular input, and vagal modulation—showing improved HRV and 23% less glucose swing in a 12-week cohort of adults 67–79.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: social dancing glycemic variability orthostatic hypotension

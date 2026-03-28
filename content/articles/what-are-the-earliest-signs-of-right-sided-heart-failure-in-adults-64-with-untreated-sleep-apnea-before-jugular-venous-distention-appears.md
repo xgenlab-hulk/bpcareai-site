@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears
 description: >-
+  Identifies subtle precursors like nocturnal polyuria, isolated lower-leg edema without weight gain, and worsening GERD symptoms linked to pulmonary hypertension and RV strain.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: early right-sided heart failure signs sleep apnea

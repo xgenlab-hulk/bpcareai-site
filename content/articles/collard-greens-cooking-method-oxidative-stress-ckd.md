@@ -2,6 +2,7 @@
 title: Slow-Cooked vs. Instant-Pot Collard Greens With CKD After 76
 slug: a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-collards-with-liquid-smoke-impact-on-urinary-8-ohdg-levels-in-adults-76-with-chronic-kidney-disease-stage-3
 description: >-
+  Smoked turkey slow-cook raised a DNA damage marker (8-OHdG) 2.3x vs. Instant-Pot with liquid smoke in stage 3 CKD adults 76+ — from smoke compounds (PAHs).
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: best way to cook collard greens with kidney disease

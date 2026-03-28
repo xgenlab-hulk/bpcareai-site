@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
 description: >-
+  Explores the circadian and metabolic impact of alcohol, fat, and added sugar in traditional eggnog on overnight glucose stability—and offers safer, sensor-validated alternatives.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: eggnog fasting glucose prediabetes

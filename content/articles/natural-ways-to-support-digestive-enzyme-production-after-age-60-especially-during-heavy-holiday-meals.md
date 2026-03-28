@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
 description: >-
+  Explores age-related pancreatic enzyme decline and how targeted whole foods (fermented vegetables, ginger, pineapple), meal pacing, and bitters can improve fat/protein digestion—reducing postprandial fatigue and reflux in older adults.
 date: '2025-12-18'
 updated: '2025-12-18'
 primaryKeyword: natural digestive enzymes seniors holiday meals

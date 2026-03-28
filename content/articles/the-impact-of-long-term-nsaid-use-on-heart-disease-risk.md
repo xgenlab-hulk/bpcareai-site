@@ -2,6 +2,7 @@
 title: The Impact of Long-Term NSAID Use on Heart Disease Risk
 slug: the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 description: >-
+  Understand how regular use of painkillers like ibuprofen may elevate cardiovascular risks in older adults.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: long-term NSAID use and heart disease risk

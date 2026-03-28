@@ -2,6 +2,7 @@
 title: How Cold Weather Affects Blood Pressure Medication Effectiveness
 slug: how-cold-weather-affects-blood-pressure-medication-effectiveness
 description: >-
+  Examines how seasonal changes may influence how hypertension medications work and when dosage adjustments might be needed.
 date: '2025-12-05'
 updated: '2025-12-05'
 primaryKeyword: blood pressure medication in winter

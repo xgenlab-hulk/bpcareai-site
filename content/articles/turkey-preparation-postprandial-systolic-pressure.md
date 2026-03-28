@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-traditional-roast-turkey-with-gravy-vs-herb-roasted-turkey-breast-with-mushroom-reduction-impact-on-postprandial-systolic-pressure-in-adults-62-with-isolated-systolic-hypertension
 description: >-
+  Compares real-world blood pressure responses to two common holiday protein preparations, factoring in sodium load, AGE content, and nitric oxide bioavailability.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: turkey preparation postprandial systolic pressure

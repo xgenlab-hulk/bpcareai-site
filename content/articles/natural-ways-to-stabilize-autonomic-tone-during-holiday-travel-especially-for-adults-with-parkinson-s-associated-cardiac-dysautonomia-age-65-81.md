@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81
 description: >-
+  Offers evidence-informed, non-pharmacologic strategies—including timed thermal exposure, diaphragmatic breathing sequencing, and circadian-aligned caffeine dosing—to blunt sympathetic surges during airport transit and family gatherings.
 date: '2025-12-24'
 updated: '2025-12-24'
 primaryKeyword: autonomic tone stabilization during holiday travel

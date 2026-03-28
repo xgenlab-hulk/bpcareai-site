@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-magnesium-glycinate-timing-relative-to-holiday-desserts-optimizing-absorption-arrhythmia-protection-in-adults-65-with-gastric-hypochlorhydria
 description: >-
+  Analyzes optimal dosing windows, food interactions, and bioavailability data for magnesium supplementation in the context of high-sugar, high-fat holiday meals.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: magnesium glycinate holiday dessert timing

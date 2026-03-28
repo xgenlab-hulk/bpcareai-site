@@ -2,6 +2,7 @@
 title: 'Heart Disease Symptoms in Women Over 50: What’s Often Missed'
 slug: heart-disease-symptoms-in-women-over-50-what-s-often-missed
 description: >-
+  Discover the subtle and atypical signs of heart disease in older women that are frequently overlooked by patients and doctors.
 date: '2025-11-30'
 updated: '2025-11-30'
 primaryKeyword: heart disease symptoms in women over 50

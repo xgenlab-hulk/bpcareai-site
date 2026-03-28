@@ -2,6 +2,7 @@
 title: Your Gut May Shift After Holiday Pie — Even Without Bloating
 slug: when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
 description: >-
+  No diarrhea doesn’t mean your gut flora (microbiome) is fine. Changed stool odor, slower transit, and fatigue from butyrate dips appear before IBS-D flares.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: signs holiday pie changed your gut bacteria without symptoms

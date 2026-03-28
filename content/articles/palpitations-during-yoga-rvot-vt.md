@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-intermittent-palpitations-during-morning-yoga-distinguishing-benign-pvc-clusters-from-early-rvot-vt-in-adults-61-with-mild-pulmonary-hypertension
 description: >-
+  Provides a stepwise clinical decision tree using symptom timing, vagal response patterns, and portable 14-lead ECG capture to differentiate benign ectopy from arrhythmogenic right ventricular outflow tract tachycardia.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: palpitations during yoga RVOT VT

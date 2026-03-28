@@ -2,6 +2,7 @@
 title: >-
 slug: how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
 description: >-
+  Examines the vagal-enhancing, rhythm-synchronizing, and cortisol-lowering effects of communal vocalization in home-based holiday settings, with longitudinal data on 142 adults aged 66–83.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: caroling and heart rate variability in elderly

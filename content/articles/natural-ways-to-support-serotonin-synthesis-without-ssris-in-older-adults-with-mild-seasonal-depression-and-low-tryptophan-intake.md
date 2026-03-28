@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-serotonin-synthesis-without-ssris-in-older-adults-with-mild-seasonal-depression-and-low-tryptophan-intake
 description: >-
+  Details food-based tryptophan pairing (e.g., pumpkin seeds + barley), co-factor optimization (B6, magnesium, iron), and gut-microbiome supports—backed by geriatric nutritional neuroscience trials.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: serotonin synthesis natural ways seniors tryptophan intake

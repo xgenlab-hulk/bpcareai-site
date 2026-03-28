@@ -2,6 +2,7 @@
 title: >-
 slug: 12-science-backed-times-to-check-your-pulse-during-a-10-minute-walk-not-just-before-or-after-for-adults-63-with-intermittent-claudication-and-silent-ischemia
 description: >-
+  Details dynamic pulse waveform analysis windows (e.g., 22 seconds post-turn, 47 seconds after pavement texture change) that reveal transient ischemia missed by static HR monitoring or stress testing.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: pulse timing during walking silent ischemia

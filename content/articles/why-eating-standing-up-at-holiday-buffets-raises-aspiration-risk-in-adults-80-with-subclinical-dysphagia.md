@@ -2,6 +2,7 @@
 title: >-
 slug: why-eating-standing-up-at-holiday-buffets-raises-aspiration-risk-in-adults-80-with-subclinical-dysphagia
 description: >-
+  Examines the biomechanics of upright eating, delayed pharyngeal transit, and how festive distractions compound aspiration vulnerability—plus evidence-based positioning strategies.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: standing eating aspiration risk seniors

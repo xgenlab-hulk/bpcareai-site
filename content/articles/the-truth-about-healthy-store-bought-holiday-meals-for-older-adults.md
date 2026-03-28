@@ -2,6 +2,7 @@
 title: The Truth About 'Healthy' Store-Bought Holiday Meals for Older Adults
 slug: the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
 description: >-
+  We analyze popular pre-made holiday meal kits and frozen entrees to see which ones truly meet nutritional needs for seniors with diabetes or hypertension.
 date: '2025-12-09'
 updated: '2025-12-09'
 primaryKeyword: healthy store-bought holiday meals seniors

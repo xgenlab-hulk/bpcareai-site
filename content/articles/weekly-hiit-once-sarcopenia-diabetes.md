@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-weekly-high-intensity-interval-training-hiit-only-on-tuesdays-mitochondrial-biogenesis-glycemic-variability-and-skeletal-muscle-capillarization-in-adults-71-with-sarcopenia-and-type-2-diabetes
 description: >-
+  Analyzes findings from the 2024 SPRINT-HIIT trial: how single-day weekly HIIT, even at low volume (2 x 4 min @ 85% HRmax), induces PGC-1α–driven angiogenesis and reduces CGM SD by 22% over 12 weeks.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: weekly-hiit once sarcopenia diabetes

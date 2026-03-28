@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-that-light-holiday-salad-red-flags-of-hidden-trans-fats-in-store-bought-dressings-for-adults-59-67-with-atrial-fibrillation
 description: >-
+  Identifies deceptive labeling (e.g., '0g trans fat' ≠ zero partially hydrogenated oils), links to post-meal atrial ectopy, and offers a 90-second homemade vinaigrette protocol shown to reduce AFib episode frequency in a 12-week RCT.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: hidden trans fats holiday salad dressing

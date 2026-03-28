@@ -2,6 +2,7 @@
 title: Warning Signs of Hypoglycemia at New Year’s Eve Parties Everyone Should Know
 slug: warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
 description: >-
+  Highlight subtle and often-missed symptoms of low blood sugar in social settings, especially for seniors taking insulin during alcohol-heavy celebrations.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: hypoglycemia signs at parties seniors

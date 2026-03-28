@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
 description: >-
+  Offers tactile, auditory, and high-contrast visual adaptation strategies—including textured icing nozzles, color-coded ingredient bowls, and voice-navigated timers—for safe, independent participation.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: cookie decorating diabetic retinopathy contrast sensitivity

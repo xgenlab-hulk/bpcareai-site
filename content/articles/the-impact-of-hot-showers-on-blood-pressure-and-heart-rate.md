@@ -2,6 +2,7 @@
 title: The Impact of Hot Showers on Blood Pressure and Heart Rate
 slug: the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
 description: >-
+  Find out how hot water affects circulation and whether it poses risks for those with heart concerns.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: hot showers and blood pressure effects elderly

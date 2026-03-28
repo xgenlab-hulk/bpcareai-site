@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
 description: >-
+  Explaining why eating at 10 p.m. post-gathering disrupts melatonin-mediated insulin sensitivity—especially in those with prior rotating shifts—and offering circadian-aligned snack alternatives that won’t derail overnight metabolism.
 date: '2025-12-22'
 updated: '2025-12-22'
 primaryKeyword: late-night leftovers circadian glucose shift work

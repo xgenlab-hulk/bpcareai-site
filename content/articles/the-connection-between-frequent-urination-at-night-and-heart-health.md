@@ -2,6 +2,7 @@
 title: The Connection Between Frequent Urination at Night and Heart Health
 slug: the-connection-between-frequent-urination-at-night-and-heart-health
 description: >-
+  Discover how nocturia may be linked to heart failure or circulatory issues in older adults.
 date: '2025-11-28'
 updated: '2025-11-28'
 primaryKeyword: frequent urination at night and heart problems

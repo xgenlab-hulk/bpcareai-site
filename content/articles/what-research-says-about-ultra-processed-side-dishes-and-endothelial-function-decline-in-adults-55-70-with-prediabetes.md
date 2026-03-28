@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
 description: >-
+  A breakdown of recent clinical studies linking common holiday sides (stuffing, canned cranberry, creamy casseroles) to acute postprandial endothelial impairment—and how whole-food swaps restore flow-mediated dilation.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: ultra-processed foods endothelial function prediabetes

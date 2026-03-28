@@ -2,6 +2,7 @@
 title: >-
 slug: 5-science-backed-ways-to-protect-your-atria-while-hosting-holiday-guests-stress-modulated-nitric-oxide-bioavailability-microbreak-timing-and-vocal-cord-strain-reduction-in-adults-70
 description: >-
+  Offers actionable, evidence-based strategies for hosts—centered on vocal rest, scheduled 90-second vagal maneuvers, and ambient temperature control—to blunt sympathetic surges during social hosting.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: hosting holiday guests atrial protection

@@ -2,6 +2,7 @@
 title: How Chronic Lung Conditions Amplify Heart Risks in Winter
 slug: how-chronic-lung-conditions-amplify-heart-risks-in-winter
 description: >-
+  Explores the interplay between COPD, asthma, and cardiovascular strain during colder months in adults over 65.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: lung disease winter heart risk

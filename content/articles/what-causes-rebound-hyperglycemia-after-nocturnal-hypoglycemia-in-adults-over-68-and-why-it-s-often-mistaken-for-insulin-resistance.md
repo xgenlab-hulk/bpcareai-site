@@ -2,6 +2,7 @@
 title: >-
 slug: what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
 description: >-
+  Clarifies counterregulatory hormone surges (epinephrine, growth hormone), Somogyi vs. dawn phenomenon differentiation, and CGM-based diagnostic criteria — with correction algorithms that avoid further glucose volatility.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: rebound hyperglycemia nocturnal hypoglycemia seniors

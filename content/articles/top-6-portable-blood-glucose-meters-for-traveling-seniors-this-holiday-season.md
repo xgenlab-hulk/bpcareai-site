@@ -2,6 +2,7 @@
 title: Top 6 Portable Blood Glucose Meters for Traveling Seniors This Holiday Season
 slug: top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
 description: >-
+  Compare user-friendly, reliable meters suited for older adults managing diabetes on the go during winter holidays.
 date: '2025-12-11'
 updated: '2025-12-11'
 primaryKeyword: best glucose meters for seniors travel

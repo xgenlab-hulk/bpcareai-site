@@ -2,6 +2,7 @@
 title: >-
 slug: does-daily-200-mg-quercetin-supplementation-really-improve-microvascular-reactivity-in-adults-59-66-with-hypertensive-retinopathy-a-12-week-rct-analysis
 description: >-
+  Presents original clinical trial data on flavonoid dosing, retinal arteriolar response, and central augmentation index changes in early end-organ damage.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: quercetin and hypertensive retinopathy microvascular

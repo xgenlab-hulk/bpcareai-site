@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
 description: >-
+  Offers 4 clinically validated, non-fasting interventions (e.g., timed omega-3 dosing, postprandial walking protocols, fiber timing) shown to reduce TGs within 72 hours.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: lower triglycerides without fasting seniors

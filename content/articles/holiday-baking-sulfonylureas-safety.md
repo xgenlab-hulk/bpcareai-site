@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-safe-holiday-baking-with-sulfonylureas-avoiding-hypoglycemia-triggers-from-leavening-agents-yeast-fermentation-byproducts-and-oven-heat-stress
 description: >-
+  Covers how baking soda/powder pH shifts affect sulfonylurea binding, yeast ethanol metabolism interactions, and heat-induced insulin sensitivity changes — with substitution charts and timed-baking safety windows.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: holiday baking sulfonylureas safety

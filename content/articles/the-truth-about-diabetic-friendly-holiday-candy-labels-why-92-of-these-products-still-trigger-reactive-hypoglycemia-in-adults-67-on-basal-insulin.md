@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-diabetic-friendly-holiday-candy-labels-why-92-of-these-products-still-trigger-reactive-hypoglycemia-in-adults-67-on-basal-insulin
 description: >-
+  Investigates hidden fructose-glucose ratios, maltitol-induced insulin surges, and delayed glucose absorption kinetics in labeled 'low-sugar' confections — with real-world CGM data from a 14-day holiday food challenge study.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: diabetic-friendly candy truth

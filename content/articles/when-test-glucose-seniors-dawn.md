@@ -2,6 +2,7 @@
 title: 'When to Test Fasting Glucose? (Dawn Phenomenon Guide 63+)'
 slug: when-test-glucose-seniors-dawn
 description: >-
+  When should seniors test glucose? Learn why 6 AM readings miss the surge—discover 4 optimal windows that capture dawn phenomenon and your true baseline for adults 63+.
 date: '2026-02-03'
 updated: '2026-03-18'
 primaryKeyword: when test fasting glucose seniors dawn

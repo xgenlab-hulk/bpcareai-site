@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-gastric-emptying-during-thanksgiving-dinner-not-just-after-for-adults-70-with-early-gastroparesis-and-type-2-diabetes
 description: >-
+  Presents pre-plate, in-meal, and post-bite strategies — including timed ginger-chamomile infusion sips, strategic protein-first sequencing, and seated diaphragmatic breathing cues — validated in geriatric gastroparesis trials.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: support gastric emptying during meal

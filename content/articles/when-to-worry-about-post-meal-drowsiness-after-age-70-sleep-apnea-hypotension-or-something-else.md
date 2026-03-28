@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
 description: >-
+  Distinguishes between benign postprandial somnolence and red-flag fatigue linked to nocturnal hypoxia, orthostatic drops, or early delirium—plus a 3-step home assessment guide.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: post-meal drowsiness seniors red flags

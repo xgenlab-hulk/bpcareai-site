@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-grade-gum-inflammation-accelerates-beta-cell-dysfunction-in-adults-62-with-long-standing-type-2-diabetes
 description: >-
+  Examines the oral-pancreatic axis: how Porphyromonas gingivalis virulence factors and systemic IL-17 elevation impair insulin secretion and promote amyloid deposition in islets — supported by 2023–2024 longitudinal salivary biomarker studies.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: gum disease and beta-cell dysfunction in seniors

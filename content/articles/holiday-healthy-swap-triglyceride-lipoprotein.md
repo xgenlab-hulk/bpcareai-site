@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
 description: >-
+  Explains how high-MUFA, low-fiber substitutions increase chylomicron remnant accumulation—using postprandial lipoprotein electrophoresis data from 41 patients.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: holiday healthy swap triglyceride lipoprotein

@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
 description: >-
+  Analyzes cognitive load, meal skipping risks, and circadian disruption in older adults with MCI who attempt fasting amid unpredictable holiday schedules and social pressure.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: intermittent fasting multigenerational holidays mci

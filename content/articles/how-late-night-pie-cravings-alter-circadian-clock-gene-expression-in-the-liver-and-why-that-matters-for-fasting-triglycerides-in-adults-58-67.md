@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-pie-cravings-alter-circadian-clock-gene-expression-in-the-liver-and-why-that-matters-for-fasting-triglycerides-in-adults-58-67
 description: >-
+  Explains how nocturnal carbohydrate intake resets hepatic BMAL1/PER2 rhythms, driving VLDL overproduction—and offers time-restricted eating windows aligned with melatonin onset.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: late-night pie circadian triglycerides

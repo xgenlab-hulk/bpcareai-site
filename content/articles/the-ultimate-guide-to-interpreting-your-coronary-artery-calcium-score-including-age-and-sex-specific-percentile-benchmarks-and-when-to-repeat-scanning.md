@@ -2,6 +2,7 @@
 title: >-
 slug: the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
 description: >-
+  Breaks down CAC score meaning beyond '0 = low risk', including sex-specific risk reclassification thresholds, progression rates that warrant intensification, and optimal repeat intervals by baseline score.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: coronary calcium score interpretation guide

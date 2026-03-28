@@ -2,6 +2,7 @@
 title: >-
 slug: 7-hidden-sodium-traps-in-healthy-holiday-side-dishes-why-roasted-sweet-potatoes-quinoa-salad-and-herb-infused-gravy-often-contain-420-mg-per-serving-for-adults-72-with-stage-2-hypertension
 description: >-
+  Identifies unexpected high-sodium ingredients in seemingly low-salt dishes, with label-reading tips and low-sodium swaps validated by renal dietitian guidelines.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: hidden sodium holiday side dishes

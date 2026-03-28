@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
 description: >-
+  Explores the electrophysiological impact of holiday-spiked alcohol and calcium load on ventricular repolarization stability, with ECG-based risk stratification tips for pre-arrhythmic adults.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: eggnog and QT prolongation risk

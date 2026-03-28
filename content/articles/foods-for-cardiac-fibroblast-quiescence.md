@@ -2,6 +2,7 @@
 title: >-
 slug: 5-foods-that-support-cardiac-fibroblast-quiescence-without-suppressing-collagen-turnover-for-adults-70-with-early-diastolic-dysfunction-and-normal-troponin
 description: >-
+  Highlights nutrient compounds (e.g., luteolin, epigallocatechin-3-gallate, taurine) that modulate TGF-β1 signaling and LOXL2 activity to prevent maladaptive fibrosis while preserving structural integrity.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: foods for cardiac fibroblast quiescence

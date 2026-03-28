@@ -2,6 +2,7 @@
 title: >-
 slug: best-non-alcoholic-wine-alternatives-for-adults-75-with-diabetes-and-early-macular-degeneration-balancing-resveratrol-bioavailability-sugar-content-and-blue-light-filtering-potential
 description: >-
+  Compares dealcoholized reds, pomegranate-mulberry blends, and black currant infusions for anthocyanin stability, free sugar load, and lutein-zeaxanthin synergy — with ocular OCT and retinal pigment epithelium viability data.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: non-alcoholic wine diabetes macular degeneration

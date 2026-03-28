@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-interpreting-home-ecg-patch-data-without-a-cardiologist-spotting-pvc-burden-shifts-afib-paroxysms-and-sinus-node-dysfunction-in-adults-57-70
 description: >-
+  Teaches layperson-friendly pattern recognition for wearable ECG devices, including how to distinguish benign arrhythmias from clinically significant ones using time-in-sinus metrics.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: home ecg patch interpretation for seniors

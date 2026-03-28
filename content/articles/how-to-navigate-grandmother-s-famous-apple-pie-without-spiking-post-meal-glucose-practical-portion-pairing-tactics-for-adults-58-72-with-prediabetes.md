@@ -2,6 +2,7 @@
 title: >-
 slug: how-to-navigate-grandmother-s-famous-apple-pie-without-spiking-post-meal-glucose-practical-portion-pairing-tactics-for-adults-58-72-with-prediabetes
 description: >-
+  A step-by-step guide to enjoying traditional holiday desserts mindfully—using strategic food sequencing, fiber-first pairing, and real-time glucose awareness techniques tailored for early metabolic dysregulation.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: manage apple pie with prediabetes

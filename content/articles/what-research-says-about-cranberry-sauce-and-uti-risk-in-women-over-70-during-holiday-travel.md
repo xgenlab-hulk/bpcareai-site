@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel
 description: >-
+  Reviews 2022–2024 clinical trials on proanthocyanidin bioavailability in canned vs. fresh cranberry preparations—and whether holiday dehydration negates any protective effect.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: cranberry sauce uti prevention seniors

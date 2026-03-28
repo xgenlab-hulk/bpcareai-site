@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-gluten-free-holiday-cookies-why-many-still-sabotage-blood-pressure-in-seniors-with-hypertension
 description: >-
+  Exposing hidden sodium, refined starches, and antinutrient additives in commercial gluten-free baked goods—and how to identify truly heart-safe alternatives for older adults on low-sodium regimens.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: gluten-free cookies blood pressure seniors

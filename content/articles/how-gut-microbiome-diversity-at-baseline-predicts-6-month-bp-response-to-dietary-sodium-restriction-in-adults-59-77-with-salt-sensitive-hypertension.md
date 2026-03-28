@@ -2,6 +2,7 @@
 title: >-
 slug: how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
 description: >-
+  Synthesizes emerging evidence linking specific microbial taxa (e.g., *Prevotella*-to-*Bacteroides* ratio) with differential renin–angiotensin modulation during sodium reduction.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: gut microbiome sodium restriction bp response

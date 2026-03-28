@@ -2,6 +2,7 @@
 title: 'Holiday Heart Syndrome in Men Over 60: Unique Risks and Prevention Tips'
 slug: holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 description: >-
+  Focus on gender- and age-specific vulnerabilities to arrhythmias during the holiday season and tailored prevention approaches.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: holiday heart syndrome men

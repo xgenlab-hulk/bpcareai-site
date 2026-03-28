@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon
 description: >-
+  Explores the circadian disruption of liver metabolism in midlife+ adults with prediabetes or type 2 diabetes, linking nocturnal eating to elevated fasting glucose and insulin resistance.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: late-night snacking and fasting glucose over 58

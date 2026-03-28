@@ -2,6 +2,7 @@
 title: >-
 slug: simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
 description: >-
+  Details spectral intensity and timing of amber-filtered lighting to suppress melatonin phase delay, lower sympathetic tone, and reduce nocturnal heart rate and BP surges in angina patients.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: evening light exposure angina oxygen demand

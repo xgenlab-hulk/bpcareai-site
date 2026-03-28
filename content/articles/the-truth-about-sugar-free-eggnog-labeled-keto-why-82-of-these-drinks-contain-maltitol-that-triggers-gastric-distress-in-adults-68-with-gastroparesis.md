@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-sugar-free-eggnog-labeled-keto-why-82-of-these-drinks-contain-maltitol-that-triggers-gastric-distress-in-adults-68-with-gastroparesis
 description: >-
+  Debunks marketing claims by examining sugar alcohol metabolism, osmotic load, and delayed gastric emptying in aging GI tracts—plus safer alternatives backed by gastroenterology guidelines.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: "health management adults 68+"

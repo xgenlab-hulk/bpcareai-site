@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy
 description: >-
+  Identifies non-retinal causes of acute visual instability—including osmotic lens changes, posterior vitreous detachment, and medication-induced mydriasis—requiring urgent differentiation from diabetic retinopathy.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: sudden vision changes in elderly diabetes patients

@@ -2,6 +2,7 @@
 title: Holiday Herbs Safe With Warfarin? (12 Options for Seniors 74+)
 slug: holiday-herbs-warfarin-safe-seniors-74
 description: >-
+  Taking warfarin at 74+? Discover 12 holiday herbs that boost blood flow and endothelial health without affecting INR—with exact doses and prep tips.
 date: '2026-02-25'
 updated: '2026-03-18'
 primaryKeyword: holiday herbs warfarin safe blood flow seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-travel-stress-alters-gut-microbiome-diversity-in-adults-58-with-irritable-bowel-syndrome-and-what-to-eat-on-the-plane-to-minimize-dysbiosis
 description: >-
+  Links travel-induced vagal withdrawal, circadian disruption, and prebiotic food timing to post-holiday IBS flares, with airline-compatible mitigation strategies.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: holiday travel gut microbiome ibs seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
 description: >-
+  Synthesizes 2023–2024 meta-analyses on central aortic stiffness, endothelial function, and pulse pressure response to HIIT (4x4 min at 85% HRmax) vs. 45-min brisk walking.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: HIIT vs walking pulse pressure prehypertension

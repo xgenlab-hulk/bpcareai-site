@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
 description: >-
+  Synthesizes findings on tyrosine-rich meal timing, cold exposure windows, and rhythmic movement protocols shown to enhance dopaminergic tone in aging brains during winter.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: dopamine support without medication winter seniors

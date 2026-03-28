@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
 description: >-
+  Connects periodontal pathogen load (e.g., P. gingivalis), systemic IL-6/TNF-α elevation, and glomerular endothelial injury—plus practical dental-integration protocols for nephrology clinics.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: gum disease and diabetic kidney disease progression

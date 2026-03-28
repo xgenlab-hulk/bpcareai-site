@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-safe-holiday-baking-with-insulin-resistance-from-low-glycemic-flour-blends-to-oven-temperature-adjustments-for-adults-62
 description: >-
+  Covers ingredient swaps, thermal processing effects on resistant starch formation, and batch-size adjustments to prevent post-bake hyperglycemia spikes in insulin-resistant seniors.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: safe holiday baking insulin resistance

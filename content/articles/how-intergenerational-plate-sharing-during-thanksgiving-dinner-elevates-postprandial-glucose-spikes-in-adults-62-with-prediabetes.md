@@ -2,6 +2,7 @@
 title: Family-Style Thanksgiving Plates and Blood Sugar Spikes After 62
 slug: how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
 description: >-
+  Shared platters add 25-40% more carbs per plate, pushing after-meal blood sugar (postprandial glucose) past 180 mg/dL in adults 62+ with early diabetes risk.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: why family-style holiday meals spike blood sugar

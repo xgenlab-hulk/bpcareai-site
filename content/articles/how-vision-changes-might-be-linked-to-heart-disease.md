@@ -2,6 +2,7 @@
 title: How Vision Changes Might Be Linked to Heart Disease
 slug: how-vision-changes-might-be-linked-to-heart-disease
 description: >-
+  Discover how retinal blood vessel damage can reflect broader cardiovascular health issues.
 date: '2025-11-28'
 updated: '2025-11-28'
 primaryKeyword: vision changes and heart disease connection

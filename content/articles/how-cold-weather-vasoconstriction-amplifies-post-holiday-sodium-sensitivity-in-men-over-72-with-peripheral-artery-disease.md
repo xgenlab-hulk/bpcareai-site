@@ -2,6 +2,7 @@
 title: >-
 slug: how-cold-weather-vasoconstriction-amplifies-post-holiday-sodium-sensitivity-in-men-over-72-with-peripheral-artery-disease
 description: >-
+  Explains seasonal sympathetic upregulation, renal perfusion shifts, and why sodium thresholds drop 30% in winter — with practical cold-adapted hydration and seasoning guidance.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: cold-weather sodium sensitivity pad seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-time-restricted-eating-starting-at-4-p-m-for-adults-67-with-type-2-diabetes-and-early-diastolic-dysfunction-impact-on-cardiac-strain-and-nt-probnp-trajectories
 description: >-
+  Synthesizes findings from the 2024 TRIM-Heart Trial: how early circadian eating windows modulate myocardial glucose uptake, reduce interstitial edema, and improve E/e’ ratios — independent of weight change.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: time-restricted eating 4pm type 2 diabetes seniors

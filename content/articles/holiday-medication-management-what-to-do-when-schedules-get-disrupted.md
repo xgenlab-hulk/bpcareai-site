@@ -2,6 +2,7 @@
 title: 'Holiday Medication Management: What to Do When Schedules Get Disrupted'
 slug: holiday-medication-management-what-to-do-when-schedules-get-disrupted
 description: >-
+  Tips for maintaining consistent timing and storage of diabetes meds despite seasonal disruptions.
 date: '2025-12-13'
 updated: '2025-12-13'
 primaryKeyword: diabetes medication schedule holidays

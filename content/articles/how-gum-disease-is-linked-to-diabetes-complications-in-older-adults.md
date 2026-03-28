@@ -2,6 +2,7 @@
 title: How Gum Disease Is Linked to Diabetes Complications in Older Adults
 slug: how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
 description: >-
+  Understand the two-way link between oral health and blood sugar control in aging populations.
 date: '2025-12-03'
 updated: '2025-12-03'
 primaryKeyword: gum disease and diabetes complications in seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
 description: >-
+  Connecting repeated high-glycemic snacking during social visits to muscle protein synthesis suppression—and how subtle cues like afternoon leg fatigue or slower stair climbing signal early lean mass loss.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: holiday snacking sarcopenia warning signs 67+

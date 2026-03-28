@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
 description: >-
+  Targets ocular health via food-based antioxidants (lutein-rich microgreens, anthocyanin infusion), timed polyphenol dosing, and post-meal walking cadence prescriptions.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: lower oxidative stress after family meal

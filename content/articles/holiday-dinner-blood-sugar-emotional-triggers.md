@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-blood-sugar-spikes-higher-after-a-holiday-dinner-at-your-daughter-s-house-the-role-of-emotional-eating-triggers-and-cortisol-enhanced-gluconeogenesis-in-adults-64
 description: >-
+  Examines intergenerational stress dynamics, ambient kitchen cues, and neuroendocrine amplification of glucose production during emotionally charged family meals.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: holiday dinner blood sugar emotional triggers

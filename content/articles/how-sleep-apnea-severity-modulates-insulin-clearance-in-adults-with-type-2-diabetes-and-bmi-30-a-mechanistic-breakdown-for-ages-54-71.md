@@ -2,6 +2,7 @@
 title: >-
 slug: how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
 description: >-
+  Explains how intermittent hypoxia reduces hepatic insulin degradation, increases insulin resistance, and blunts GLP-1 response—plus CPAP adherence impact on glycemic variability.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: sleep apnea and insulin clearance in diabetics

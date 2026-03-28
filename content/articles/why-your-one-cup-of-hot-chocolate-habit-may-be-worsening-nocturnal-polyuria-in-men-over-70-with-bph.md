@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-one-cup-of-hot-chocolate-habit-may-be-worsening-nocturnal-polyuria-in-men-over-70-with-bph
 description: >-
+  Analyzes how cocoa-derived methylxanthines and temperature-driven nocturnal diuresis interact with age-related bladder compliance decline and alpha-adrenergic tone in aging male urinary systems.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: hot chocolate nocturnal polyuria bph

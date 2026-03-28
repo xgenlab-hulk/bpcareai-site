@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-appetizer-platter-is-causing-subclinical-hyponatremia-especially-with-diuretic-use-in-adults-77
 description: >-
+  Details subtle behavioral, cognitive, and gait-based red flags of sodium dilution from high-water-content holiday foods (e.g., cucumber cups, watermelon skewers) in seniors on thiazides or loop diuretics.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: holiday appetizers hyponatremia warning signs seniors

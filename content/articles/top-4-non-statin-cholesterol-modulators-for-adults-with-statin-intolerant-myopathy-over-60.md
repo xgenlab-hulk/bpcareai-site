@@ -2,6 +2,7 @@
 title: >-
 slug: top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
 description: >-
+  Compares efficacy and safety of bempedoic acid, ezetimibe, PCSK9 inhibitors, and inclisiran—with emphasis on renal clearance, injection burden, and cost access.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: non statin cholesterol modulators myopathy

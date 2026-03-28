@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-salt-sensitivity-in-older-adults-what-new-research-says-about-genetic-variants-gut-microbiome-diversity-and-dietary-sodium-thresholds-in-adults-69
 description: >-
+  Debunks outdated assumptions about universal salt restriction by integrating genomics, microbial metabolism, and individualized sodium tolerance thresholds.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: salt sensitivity myths older adults gut microbiome

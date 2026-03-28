@@ -2,6 +2,7 @@
 title: Simple Steps to Stay Hydrated During Winter Holidays When You’re Over 70
 slug: simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 description: >-
+  Combat dehydration risks during colder months with practical hydration tips, including non-caffeinated fluids and moisture-rich foods.
 date: '2025-11-28'
 updated: '2025-11-28'
 primaryKeyword: staying hydrated in winter for seniors

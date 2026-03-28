@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma
 description: >-
+  Addresses post-op fluid shifts, beta-blocker eye drop systemic absorption, and vestibular-visual recalibration affecting baroreceptor sensitivity.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: blood pressure lability after cataract surgery

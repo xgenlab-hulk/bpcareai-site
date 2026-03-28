@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
 description: >-
+  Practical, stigma-free framework for selecting, labeling, and explaining heart-healthy dishes—including sodium-free seasoning blends, portion-controlled serving guides, and polite scripts for navigating questions from relatives.
 date: '2025-12-18'
 updated: '2025-12-18'
 primaryKeyword: potluck contributions heart failure seniors

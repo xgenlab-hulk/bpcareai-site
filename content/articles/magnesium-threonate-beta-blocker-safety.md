@@ -2,6 +2,7 @@
 title: >-
 slug: can-you-safely-take-magnesium-threonate-while-on-a-beta-blocker-safety-thresholds-qt-interval-monitoring-and-cognitive-benefits-in-adults-71-with-mild-heart-failure
 description: >-
+  Analyzes drug–nutrient interactions, electrocardiographic safety data, and cognitive outcomes from pilot trials in older adults using beta-blockers and magnesium threonate for dual cardiovascular and neuroprotective support.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: magnesium threonate beta blocker safety

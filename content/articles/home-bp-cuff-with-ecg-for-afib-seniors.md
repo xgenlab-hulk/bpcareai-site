@@ -2,6 +2,7 @@
 title: >-
 slug: best-home-blood-pressure-cuffs-with-integrated-ecg-for-adults-78-with-atrial-fibrillation-and-severe-arthritis-accuracy-fit-and-rhythm-detection-compared
 description: >-
+  Evaluates hybrid devices for concurrent BP + rhythm monitoring, prioritizing ease-of-use, arrhythmia sensitivity, and validation in very elderly, frail, and AFib-diagnosed users.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: home bp cuff with ecg for afib seniors

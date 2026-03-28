@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
 description: >-
+  Describes a 7-day protocol combining timed 250-lux light exposure, 30g morning protein intake, and delayed caffeine use to restore circadian cortisol-BP phase alignment in non-dippers.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: morning cortisol bp coupling normalization

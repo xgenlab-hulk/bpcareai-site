@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
 description: >-
+  Analyzes how erythritol, maltitol, and xylitol impact gastric motility, osmotic diarrhea risk, and postprandial glucose variability in adults over 70 with age-related gut slowdown.
 date: '2025-12-24'
 updated: '2025-12-24'
 primaryKeyword: sugar-free candy side effects seniors

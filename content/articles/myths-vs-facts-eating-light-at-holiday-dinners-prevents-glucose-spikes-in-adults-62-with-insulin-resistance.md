@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
 description: >-
+  Debunks five pervasive assumptions—including 'no dessert = safe' and 'vegetables first = automatic control'—with data on macronutrient sequencing, gastric emptying kinetics, and incretin timing.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: holiday eating light glucose myths facts seniors

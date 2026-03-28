@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-normal-chest-discomfort-while-gardening-a-5-point-field-assessment-for-women-65-80-with-atypical-angina-presentation
 description: >-
+  Provides a practical, symptom-contextualized decision tree for distinguishing musculoskeletal strain, GERD, and silent ischemia—emphasizing jaw/neck radiation timing, exertion-recovery mismatch, and HRV trends via consumer wearables.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: atypical angina in women gardening

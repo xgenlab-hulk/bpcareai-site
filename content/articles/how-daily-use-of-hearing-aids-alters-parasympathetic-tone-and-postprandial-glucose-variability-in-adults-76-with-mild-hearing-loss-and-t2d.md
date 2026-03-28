@@ -2,6 +2,7 @@
 title: >-
 slug: how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
 description: >-
+  Examines the underrecognized neuroautonomic loop between auditory input, vagal nucleus activation, and insulin secretion timing—supported by pilot HRV and CGM data in older adults.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: hearing aids parasympathetic glucose variability

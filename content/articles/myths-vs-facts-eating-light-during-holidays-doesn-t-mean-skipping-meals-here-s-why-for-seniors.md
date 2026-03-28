@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
 description: >-
+  Clarifies common misconceptions about calorie restriction in older adults, emphasizing risks of protein deficiency, hypoglycemia, and frailty—plus safer alternatives to fasting or skipping.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: eating light holiday seniors myths

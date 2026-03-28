@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
 description: >-
+  Identifies subtle, pre-symptomatic shifts—urinary NGAL, plasma GDF-15, and beat-to-beat heart rate variability—alongside actionable thresholds for nephrologists and cardiologists coordinating holiday care.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: biomarkers of cardiac strain in ckd stage 3a

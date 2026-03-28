@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad
 description: >-
+  Explains the IL-6/CRP/MMP-9 axis linking periodontal pathogens to fibrous cap thinning, with actionable adjunctive strategies like topical resolvins and dietary omega-3 titration.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: gum disease and coronary plaque instability

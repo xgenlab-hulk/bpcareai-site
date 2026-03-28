@@ -2,6 +2,7 @@
 title: How Frequent Urination at Night Could Signal Heart Problems
 slug: how-frequent-urination-at-night-could-signal-heart-problems
 description: >-
+  Uncover the connection between nocturia and underlying heart issues like fluid retention and reduced cardiac output.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: frequent urination at night and heart disease

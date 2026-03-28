@@ -2,6 +2,7 @@
 title: >-
 slug: best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension
 description: >-
+  Validates resonant frequency breathing protocols (4.5–5.5 breaths/min) coupled with HRV-guided pacing to lower pulmonary vascular resistance without orthostatic risk.
 date: '2026-03-02'
 updated: '2026-03-02'
 primaryKeyword: "hypertension management adults 79+"

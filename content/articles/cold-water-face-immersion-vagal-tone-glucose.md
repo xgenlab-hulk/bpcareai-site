@@ -2,6 +2,7 @@
 title: Can Cold-Water Face Dips Steady Blood Sugar After 75?
 slug: does-daily-3-minute-cold-water-face-immersion-really-improve-vagal-tone-and-postprandial-glucose-stability-in-adults-75-with-type-2-diabetes-and-orthostatic-hypotension
 description: >-
+  A 3-min cold-water face dip boosted the calming nerve response (vagal tone), cutting post-meal glucose spikes 18-22 mg/dL in adults 75+ with type 2 diabetes.
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: cold water face dip for blood sugar and vagal tone

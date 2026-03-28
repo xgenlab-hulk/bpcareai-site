@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
 description: >-
+  Presents a step-by-step, device-agnostic protocol using paced breathing (5.5 breaths/min) with real-time HRV feedback to restore vagal tone and reduce DBP in under-65 adults.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: lower diastolic blood pressure in 48 hours

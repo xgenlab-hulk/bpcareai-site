@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
 description: >-
+  Guidance on vitamin K–rich holiday dishes to avoid (or carefully portion) when anticoagulated, plus 5 plate-balanced alternatives that maintain INR stability and reduce fall-risk fatigue.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: warfarin holiday buffet seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 description: >-
+  Connects nocturnal glucose dysregulation, delayed gastric emptying, and postprandial hypotension to balance impairment and orthostatic dizziness—providing timing-based meal planning and safe snack frameworks for frail or mobility-impaired elders.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: late night eating fall risk seniors

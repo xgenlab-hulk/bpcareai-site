@@ -2,6 +2,7 @@
 title: What to Do When Your Family Doesn’t Support Your Healthy Eating Choices
 slug: what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
 description: >-
+  Provides guidance for maintaining dietary discipline in unsupportive environments, particularly among multigenerational households.
 date: '2025-12-07'
 updated: '2025-12-07'
 primaryKeyword: family resistance to healthy eating

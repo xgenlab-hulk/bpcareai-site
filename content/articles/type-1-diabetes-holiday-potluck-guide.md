@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-navigating-holiday-potlucks-with-type-1-diabetes-from-pre-meal-bolus-timing-to-carb-counting-secret-sauces-and-emergency-hypo-kits-for-multi-hour-events
 description: >-
+  A step-by-step tactical manual for T1D adults covering insulin-on-board calculations, hidden-carb reconnaissance, real-time CGM interpretation during social events, and discreet low-glucose rescue protocols.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: type 1 diabetes holiday potluck guide

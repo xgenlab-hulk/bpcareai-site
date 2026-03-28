@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-grade-dehydration-alters-renal-glucose-reabsorption-in-adults-72-with-stage-2-ckd-and-well-controlled-a1c
 description: >-
+  Explores the understudied link between subclinical dehydration, SGLT2 transporter upregulation, and paradoxical postprandial spikes—even in seniors with 'normal' A1c and no overt kidney failure.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: dehydration and glucose reabsorption ckid

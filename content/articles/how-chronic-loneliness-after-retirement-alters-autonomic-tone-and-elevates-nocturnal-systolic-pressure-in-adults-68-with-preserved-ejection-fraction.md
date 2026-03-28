@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
 description: >-
+  Explores the neuroendocrine pathway linking social isolation to impaired baroreflex sensitivity and abnormal nighttime blood pressure patterns in older adults without heart failure.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: loneliness and nocturnal blood pressure in seniors

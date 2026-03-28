@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-interpreting-nt-probnp-in-adults-76-with-ckd-stage-3b-and-anemia-why-standard-cutpoints-fail-and-what-adjusted-thresholds-to-use
 description: >-
+  Provides a step-by-step framework for contextualizing NT-proBNP results in older adults with overlapping renal and hematologic confounders — including age- and eGFR-adjusted interpretation tables.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: nt-probnp interpretation in elderly ckd

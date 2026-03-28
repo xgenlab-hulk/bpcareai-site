@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
 description: >-
+  Evaluates plasma oxLDL, LDL particle size, and postprandial lipid peroxidation after 4 weeks of high–linoleic acid vs. high–oleic acid oil consumption in insulin-resistant adults with mixed dyslipidemia.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: seed oils and oxidized ldl in diabetes

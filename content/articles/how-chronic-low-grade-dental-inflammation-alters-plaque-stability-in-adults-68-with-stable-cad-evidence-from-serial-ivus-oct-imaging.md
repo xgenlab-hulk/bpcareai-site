@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging
 description: >-
+  Examines the oral-systemic link between periodontitis, circulating IL-6/TNF-α, and vulnerable coronary plaque morphology in older adults with known heart disease.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: dental inflammation and coronary plaque stability

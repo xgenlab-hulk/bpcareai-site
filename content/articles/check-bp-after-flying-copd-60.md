@@ -2,6 +2,7 @@
 title: 'Check BP After Flying? (COPD Guide for Adults 60+)'
 slug: check-bp-after-flying-copd-60
 description: >-
+  Flying with COPD? Learn 3 critical windows to check BP after landing—42 min, 2 hours, 3.5 hours—when altitude stress peaks and why your reading at the gate misses it.
 date: '2026-02-04'
 updated: '2026-03-18'
 primaryKeyword: check bp after flying copd seniors

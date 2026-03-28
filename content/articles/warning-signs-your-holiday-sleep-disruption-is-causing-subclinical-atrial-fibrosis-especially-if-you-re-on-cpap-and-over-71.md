@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
 description: >-
+  Describes subtle but measurable indicators—nocturnal oxygen desaturation dips <88%, elevated morning NT-proBNP, and progressive loss of HRV complexity—that suggest structural remodeling, not just functional arrhythmia.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: sleep disruption and atrial fibrosis warning signs

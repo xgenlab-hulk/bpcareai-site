@@ -2,6 +2,7 @@
 title: >-
 slug: how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
 description: >-
+  Details the microbial-metabolite–driven pathway from dietary choline/carnitine → TMA → hepatic TMAO → reduced eNOS activity → arterial stiffness—and why standard low-salt diets don’t address this axis.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: tmao endothelial dysfunction hypertension ck2

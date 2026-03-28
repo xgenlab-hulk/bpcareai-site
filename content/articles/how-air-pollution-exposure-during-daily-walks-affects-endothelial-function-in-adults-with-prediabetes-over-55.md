@@ -2,6 +2,7 @@
 title: >-
 slug: how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
 description: >-
+  Details PM2.5 and ozone thresholds that impair flow-mediated dilation—and real-world walking route optimization tools for urban seniors.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: air pollution endothelial function prediabetes

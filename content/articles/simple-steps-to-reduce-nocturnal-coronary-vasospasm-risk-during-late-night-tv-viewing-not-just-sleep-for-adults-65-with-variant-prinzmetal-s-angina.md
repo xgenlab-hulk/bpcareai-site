@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-reduce-nocturnal-coronary-vasospasm-risk-during-late-night-tv-viewing-not-just-sleep-for-adults-65-with-variant-prinzmetal-s-angina
 description: >-
+  Targets a high-risk behavioral window (screen light, recumbent posture, cold ambient air, delayed caffeine metabolism) that triggers microvascular spasm — distinct from exertional triggers.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: nocturnal coronary vasospasm tv viewing

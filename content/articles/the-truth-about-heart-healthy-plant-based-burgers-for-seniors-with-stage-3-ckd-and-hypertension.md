@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
 description: >-
+  Ingredient-level scrutiny of popular meat alternatives—focusing on hidden phosphorus additives, potassium load, and sodium variability—and safer homemade swaps.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: plant-based burgers for kidney disease seniors

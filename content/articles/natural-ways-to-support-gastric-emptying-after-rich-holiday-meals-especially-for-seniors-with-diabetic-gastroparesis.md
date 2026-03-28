@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
 description: >-
+  Clinically informed, non-pharmaceutical approaches (temperature, sequencing, botanicals, postural positioning) to safely accelerate gastric motility—without triggering reflux or hypoglycemia.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: support gastric emptying diabetic gastroparesis seniors

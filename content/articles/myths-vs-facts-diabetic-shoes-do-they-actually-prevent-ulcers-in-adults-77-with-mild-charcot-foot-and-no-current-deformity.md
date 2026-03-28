@@ -2,6 +2,7 @@
 title: "Diabetic Shoes for Seniors 77+: Do They Actually Prevent Ulcers?"
 slug: myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
 description: >-
+  Pressure mapping shows only 2 of 6 marketed shoe features reduce ulcer risk with early bone weakening (Charcot foot) — 5-year data on what actually works.
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: do diabetic shoes actually prevent foot ulcers

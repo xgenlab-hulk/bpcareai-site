@@ -2,6 +2,7 @@
 title: >-
 slug: how-intermittent-silence-exposure-not-just-meditation-modulates-vagal-tone-and-reduces-nighttime-bp-surge-in-adults-61-77-with-non-dipping-hypertension
 description: >-
+  Investigates 30-minute daily silent intervals—without guided audio or breathwork—on HRV, salivary alpha-amylase, and nocturnal systolic BP dipping patterns in a double-blind crossover trial.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: intermittent silence and non-dipping bp

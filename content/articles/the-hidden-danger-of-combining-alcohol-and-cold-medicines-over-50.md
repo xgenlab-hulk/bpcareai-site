@@ -2,6 +2,7 @@
 title: The Hidden Danger of Combining Alcohol and Cold Medicines Over 50
 slug: the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
 description: >-
+  Discusses how over-the-counter cold remedies mixed with festive drinking can increase the risk of holiday heart syndrome.
 date: '2025-12-02'
 updated: '2025-12-02'
 primaryKeyword: alcohol and cold medicine risks

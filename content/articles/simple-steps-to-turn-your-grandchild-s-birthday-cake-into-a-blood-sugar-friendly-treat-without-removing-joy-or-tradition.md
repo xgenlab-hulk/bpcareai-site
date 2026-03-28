@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-turn-your-grandchild-s-birthday-cake-into-a-blood-sugar-friendly-treat-without-removing-joy-or-tradition
 description: >-
+  A compassionate, child-inclusive approach to modifying celebratory desserts: swapping sweeteners, adjusting texture, rethinking frosting—and preserving emotional safety for both child and aging caregiver.
 date: '2025-12-24'
 updated: '2025-12-24'
 primaryKeyword: blood sugar friendly birthday cake seniors

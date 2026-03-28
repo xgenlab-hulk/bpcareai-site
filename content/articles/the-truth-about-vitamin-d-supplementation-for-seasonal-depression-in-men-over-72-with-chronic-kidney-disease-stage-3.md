@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
 description: >-
+  Clarifies dosing thresholds, calcitriol conversion limitations, and PTH-driven mood correlations in CKD seniors—separating evidence from widespread supplementation myths.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: vitamin d supplementation seasonal depression kidney disease

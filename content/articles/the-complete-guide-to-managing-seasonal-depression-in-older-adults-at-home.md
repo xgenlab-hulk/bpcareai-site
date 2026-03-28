@@ -2,6 +2,7 @@
 title: The Complete Guide to Managing Seasonal Depression in Older Adults at Home
 slug: the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home
 description: >-
+  A comprehensive resource covering diagnosis, daily management, tools, and when to seek professional help.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: complete guide seasonal depression seniors

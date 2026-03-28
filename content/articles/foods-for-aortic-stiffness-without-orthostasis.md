@@ -2,6 +2,7 @@
 title: >-
 slug: 12-foods-that-reduce-aortic-pulse-wave-velocity-without-lowering-diastolic-pressure-excessively-for-adults-64-with-isolated-systolic-hypertension-and-orthostatic-tendency
 description: >-
+  Highlights nutrient-dense, low-sodium, high-potassium-magnesium foods that improve central arterial compliance while preserving perfusion pressure in frail older adults.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: foods for aortic stiffness without orthostasis

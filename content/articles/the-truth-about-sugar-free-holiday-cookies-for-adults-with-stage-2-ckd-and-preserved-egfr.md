@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
 description: >-
+  Debunks marketing claims around sugar alcohols and artificial sweeteners in festive baked goods—and reveals which alternatives (e.g., low-potassium erythritol blends) are truly kidney-safe for older adults managing phosphorus and potassium.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: sugar-free cookies stage 2 ckid seniors

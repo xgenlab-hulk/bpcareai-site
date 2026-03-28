@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-intermittent-fasting-windows-before-cardiac-catheterization-impact-on-contrast-induced-nephropathy-risk-in-adults-71-with-ckd-stage-3
 description: >-
+  Synthesizes recent nephro-cardiology studies on pre-procedure fasting duration, hydration timing, and bicarbonate protocols to reduce contrast toxicity in older adults with kidney disease.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: intermittent fasting before cardiac catheterization

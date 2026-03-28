@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
 description: >-
+  Details a 3-day protocol with dosing, timing, and lab-confirmed improvements in MAGE (Mean Amplitude of Glycemic Excursions) and SD of glucose in 63 seniors.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: normalize glucose variability 72 hours magnesium

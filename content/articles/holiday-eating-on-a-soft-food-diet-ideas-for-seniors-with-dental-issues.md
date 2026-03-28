@@ -2,6 +2,7 @@
 title: 'Holiday Eating on a Soft Food Diet: Ideas for Seniors with Dental Issues'
 slug: holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
 description: >-
+  Nutritious, easy-to-chew holiday recipes and serving tips for seniors who struggle with chewing due to dentures, dry mouth, or recent dental work.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: soft food diet holiday meals seniors

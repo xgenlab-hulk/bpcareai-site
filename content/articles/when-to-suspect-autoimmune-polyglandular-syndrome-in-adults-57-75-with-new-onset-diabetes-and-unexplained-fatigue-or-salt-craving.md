@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving
 description: >-
+  Guides primary care clinicians and patients on red-flag symptom clusters (e.g., hyponatremia + hyperkalemia + vitiligo), urgent lab workup, and why this is often misdiagnosed as 'burnout' or 'aging'.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: autoimmune polyglandular syndrome diabetes fatigue

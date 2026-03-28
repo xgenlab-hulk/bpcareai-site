@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk
 description: >-
+  Explores the autonomic nervous system impact of social isolation on heart health, citing longitudinal data linking HRV decline to incident heart failure and sudden cardiac death in older adults without prior CVD.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: loneliness and heart rate variability seniors

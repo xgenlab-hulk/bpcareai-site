@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
 description: >-
+  Analyzes sodium labeling loopholes, hidden potassium binders, and fluid-retention triggers in commercially labeled 'low-sodium' soups—and how they impact 24-hour BP variability.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: low-sodium soup heart failure seniors

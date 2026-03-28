@@ -2,6 +2,7 @@
 title: >-
 slug: the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
 description: >-
+  Teaches how to distinguish true BP lability from artifact, identify rhythm-related spikes, and use time-series clustering to guide clinical decisions—not just averages.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: interpreting home bp logs afib seniors

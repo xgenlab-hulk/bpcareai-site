@@ -2,6 +2,7 @@
 title: Should You Adjust Your Diabetes Medication During the Holidays?
 slug: should-you-adjust-your-diabetes-medication-during-the-holidays
 description: >-
+  Guidance on when and how to safely modify medication or insulin in response to changed eating patterns during festive periods.
 date: '2025-12-10'
 updated: '2025-12-10'
 primaryKeyword: adjust diabetes meds holidays

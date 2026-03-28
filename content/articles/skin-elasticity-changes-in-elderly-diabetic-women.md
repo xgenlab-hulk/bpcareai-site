@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-changes-in-skin-elasticity-and-wound-healing-that-signal-subclinical-microvascular-damage-in-women-over-65-with-long-standing-diabetes
 description: >-
+  Describes early dermal biomarkers—reduced collagen III, altered elastin cross-linking, diminished dermal thickness on ultrasound—preceding foot ulcers or retinopathy.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: skin elasticity changes in elderly diabetic women

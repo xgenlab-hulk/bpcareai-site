@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
 description: >-
+  Highlights subtle clues like nocturnal cough, unexplained fatigue, elevated JVP on self-exam, and jugular venous wave patterns detectable at home.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: early signs right sided heart failure COPD

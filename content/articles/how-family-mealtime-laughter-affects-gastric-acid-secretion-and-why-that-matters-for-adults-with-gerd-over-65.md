@@ -2,6 +2,7 @@
 title: >-
 slug: how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
 description: >-
+  Explores vagal modulation, diaphragmatic pressure shifts, and real-time pH monitoring data linking social joy to transient acid reflux reduction or exacerbation.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: laughter gastric acid gerd family meals

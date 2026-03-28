@@ -2,6 +2,7 @@
 title: How to Navigate the Holiday Buffet Without Sabotaging Your Health Goals
 slug: how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
 description: >-
+  Practical strategies for making mindful food choices at all-you-can-eat family meals, especially for older adults managing chronic conditions.
 date: '2025-12-06'
 updated: '2025-12-06'
 primaryKeyword: holiday buffet healthy eating tips

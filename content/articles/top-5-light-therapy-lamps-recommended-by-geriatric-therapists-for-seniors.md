@@ -2,6 +2,7 @@
 title: Top 5 Light Therapy Lamps Recommended by Geriatric Therapists for Seniors
 slug: top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
 description: >-
+  Compare safe, easy-to-use devices designed for older adults, with expert insights on intensity and timing.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: best light therapy lamps for seniors

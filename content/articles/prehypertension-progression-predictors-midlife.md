@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-blood-pressure-patterns-that-predict-progression-from-prehypertension-to-stage-1-hypertension-in-adults-52-57-with-family-history
 description: >-
+  Identifies predictive BP signatures — including exaggerated morning surge, reduced nocturnal dipping, and postprandial systolic lag — in midlife adults with genetic risk.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: prehypertension progression predictors midlife

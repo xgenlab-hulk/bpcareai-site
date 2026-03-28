@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-sudden-bloating-after-thanksgiving-dinner-distinguishing-food-intolerance-from-early-small-intestinal-bacterial-overgrowth-sibo-in-adults-63-with-long-term-ppi-use
 description: >-
+  Helps readers differentiate transient digestive discomfort from clinically significant SIBO triggers, including breath test indications and low-FODMAP timing strategies.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: sudden bloating after holiday dinner

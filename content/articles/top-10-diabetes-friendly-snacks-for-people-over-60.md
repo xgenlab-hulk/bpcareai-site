@@ -2,6 +2,7 @@
 title: Top 10 Diabetes-Friendly Snacks for People Over 60
 slug: top-10-diabetes-friendly-snacks-for-people-over-60
 description: >-
+  Enjoy nutritious, satisfying snacks that help stabilize blood sugar and curb cravings.
 date: '2025-12-03'
 updated: '2025-12-03'
 primaryKeyword: healthy diabetic snacks for seniors

@@ -2,6 +2,7 @@
 title: How Pets Support Heart Health in Older Adults
 slug: how-pets-support-heart-health-in-older-adults
 description: >-
+  Learn how owning a pet can lower blood pressure, reduce loneliness, and improve cardiovascular outcomes.
 date: '2025-11-28'
 updated: '2025-11-28'
 primaryKeyword: pets and heart health in seniors

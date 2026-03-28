@@ -2,6 +2,7 @@
 title: >-
 slug: 12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
 description: >-
+  Goes beyond 'low-GI' lists to highlight real-time buffering foods (e.g., apple cider vinegar–marinated onions, roasted fennel with lemon zest) and their mechanistic impact on gastric emptying rate.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: holiday foods stabilize blood glucose during meal

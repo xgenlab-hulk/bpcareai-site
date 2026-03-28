@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon
 description: >-
+  Explains how outdoor festivities, unheated porches, or even cold beverages trigger coronary artery spasm in temperature-sensitive individuals—mimicking or compounding alcohol-related arrhythmias.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: cold-induced palpitations raynaud holiday heart

@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
 description: >-
+  Explains the estrogen-triglyceride-alcohol interaction in women 58–74, with lab-confirmed thresholds and alternatives backed by 2023 Endocrine Society consensus data.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: eggnog triglycerides postmenopausal women

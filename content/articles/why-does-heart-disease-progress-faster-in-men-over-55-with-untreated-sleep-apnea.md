@@ -2,6 +2,7 @@
 title: >-
 slug: why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
 description: >-
+  Explores the under-recognized link between obstructive sleep apnea and accelerated coronary artery disease in midlife and older men—backed by 2023–2024 cohort studies.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: sleep apnea and heart disease progression in men

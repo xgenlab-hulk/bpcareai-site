@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-maintain-gut-barrier-integrity-during-holiday-feasting-using-l-glutamine-timing-fermented-beetroot-and-low-heat-sauerkraut-in-adults-62-with-leaky-gut-markers
 description: >-
+  Presents a gut-barrier preservation protocol with timed L-glutamine dosing pre-meal, fermented beetroot nitrate synergy, and sauerkraut temperature thresholds to preserve live lactobacilli — backed by zonulin and calprotectin data.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: gut barrier holiday feasting

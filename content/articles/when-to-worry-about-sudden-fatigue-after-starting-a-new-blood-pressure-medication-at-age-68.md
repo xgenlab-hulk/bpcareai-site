@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
 description: >-
+  Differentiates medication-induced fatigue (e.g., beta-blocker bradycardia vs. ACE inhibitor angioedema prodrome) from early decompensated heart failure—plus actionable symptom triage steps.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: fatigue after blood pressure medication over 65

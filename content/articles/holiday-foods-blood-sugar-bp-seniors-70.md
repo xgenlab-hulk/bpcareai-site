@@ -2,6 +2,7 @@
 title: Holiday Foods That Won't Spike Blood Sugar or BP (Seniors 70+)
 slug: holiday-foods-blood-sugar-bp-seniors-70
 description: >-
+  Worried about holiday meals? Discover 12 safe foods that keep blood sugar and blood pressure stable, plus sodium limits and meal timing tricks for seniors 70+.
 date: '2026-01-17'
 updated: '2026-03-18'
 primaryKeyword: holiday foods blood sugar blood pressure seniors 70

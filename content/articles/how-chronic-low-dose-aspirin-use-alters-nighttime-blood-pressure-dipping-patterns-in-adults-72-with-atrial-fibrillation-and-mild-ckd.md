@@ -2,6 +2,7 @@
 title: Why Low-Dose Aspirin May Change Your Nighttime BP After 72
 slug: how-chronic-low-dose-aspirin-use-alters-nighttime-blood-pressure-dipping-patterns-in-adults-72-with-atrial-fibrillation-and-mild-ckd
 description: >-
+  Daily 81mg aspirin blunts the normal 10-15% overnight BP drop (nocturnal dipping) by shifting kidney sodium handling — key risk with AFib and mild CKD.
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: does low-dose aspirin affect blood pressure at night

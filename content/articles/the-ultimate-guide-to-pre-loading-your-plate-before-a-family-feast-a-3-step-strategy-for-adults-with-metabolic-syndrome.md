@@ -2,6 +2,7 @@
 title: >-
 slug: the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
 description: >-
+  A tactical, timing-based framework—using fiber, protein, and healthy fat sequencing—to blunt glucose and triglyceride surges *before* entering the dining room, backed by postprandial metabolism studies.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: pre-load plate metabolic syndrome family feast

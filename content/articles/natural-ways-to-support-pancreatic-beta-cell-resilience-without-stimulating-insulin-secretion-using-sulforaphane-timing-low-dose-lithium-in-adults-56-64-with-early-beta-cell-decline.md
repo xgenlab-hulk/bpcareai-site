@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline
 description: >-
+  Focuses on cytoprotective, not secretagogue, approaches — Nrf2 activation, autophagy enhancement, and epigenetic modulation to preserve residual function.
 date: '2026-03-02'
 updated: '2026-03-02'
 primaryKeyword: "health management seniors"

@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss
 description: >-
+  Synthesizes 2022–2024 RCTs and mechanistic studies on how IF affects hepatic insulin clearance, ovarian-adrenal axis crosstalk, and lean mass preservation in older women with prediabetes or early T2D.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: intermittent fasting women over 65 insulin resistance

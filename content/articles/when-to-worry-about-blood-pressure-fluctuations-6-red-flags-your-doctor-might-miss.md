@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
 description: >-
+  Highlights clinically significant patterns—like extreme morning surges, post-meal drops, or BP variability exceeding 25 mmHg—that signal autonomic dysfunction, vascular stiffness, or medication mismatch.
 date: '2025-12-16'
 updated: '2025-12-16'
 primaryKeyword: blood pressure fluctuations warning signs

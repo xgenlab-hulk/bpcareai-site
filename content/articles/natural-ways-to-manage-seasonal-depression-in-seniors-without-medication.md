@@ -2,6 +2,7 @@
 title: Natural Ways to Manage Seasonal Depression in Seniors Without Medication
 slug: natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
 description: >-
+  Present evidence-backed non-pharmaceutical strategies like routine adjustment, diet, and mindfulness for mild cases.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: natural remedies for seasonal depression

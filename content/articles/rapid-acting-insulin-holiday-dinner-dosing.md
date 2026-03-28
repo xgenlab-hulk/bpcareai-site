@@ -2,6 +2,7 @@
 title: >-
 slug: the-ultimate-guide-to-adjusting-rapid-acting-insulin-dosing-for-multi-course-holiday-dinners-with-carb-counting-fat-protein-factor-and-alcohol-adjustment-rules
 description: >-
+  Provides step-by-step dosing algorithms (including 'dual-wave' and 'extended bolus' logic) validated for turkey, stuffing, gravy, wine, and pie sequences in adults 58–72.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: rapid-acting insulin holiday dinner dosing

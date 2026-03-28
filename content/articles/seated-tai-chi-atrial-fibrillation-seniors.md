@@ -2,6 +2,7 @@
 title: >-
 slug: best-seated-tai-chi-sequences-for-adults-82-with-atrial-fibrillation-on-direct-oral-anticoagulants-prioritizing-rhythm-stability-fall-prevention-and-minimal-valsalva-risk
 description: >-
+  Provides evidence-informed, anticoagulant-safe movement protocols designed to improve vagal tone and HRV without triggering arrhythmia exacerbation or intracranial bleed risk.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: seated tai chi atrial fibrillation seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities
 description: >-
+  Debunks the myth of benign BP lability in aging brains, linking excessive circadian amplitude to cerebral small-vessel endothelial injury and silent infarct progression.
 date: '2026-03-02'
 updated: '2026-03-02'
 primaryKeyword: blood pressure variability and brain health

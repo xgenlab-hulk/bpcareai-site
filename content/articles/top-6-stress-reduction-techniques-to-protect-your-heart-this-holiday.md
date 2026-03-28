@@ -2,6 +2,7 @@
 title: Top 6 Stress-Reduction Techniques to Protect Your Heart This Holiday
 slug: top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
 description: >-
+  Present practical, time-efficient mindfulness and relaxation methods proven to lower arrhythmia risk during high-pressure times.
 date: '2025-12-12'
 updated: '2025-12-12'
 primaryKeyword: stress reduction holiday heart

@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
 description: >-
+  Evidence-based, non-pharmacologic strategies—including pre-meal bitter herb cues, mindful chewing cadence, and temperature-modulated soup sequencing—to enhance endogenous enzyme release.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: pancreatic enzymes holiday meals natural

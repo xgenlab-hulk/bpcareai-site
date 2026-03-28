@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-travel-itinerary-is-triggering-nocturnal-atrial-fibrillation-especially-with-time-zone-shifts-cabin-hypoxia-and-pre-existing-sleep-disordered-breathing-in-adults-73
 description: >-
+  Links circadian disruption, mild hypobaric hypoxia, and upper airway resistance to overnight AF onset — with actionable travel prep checklist for high-risk seniors.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: holiday travel nocturnal afib warning

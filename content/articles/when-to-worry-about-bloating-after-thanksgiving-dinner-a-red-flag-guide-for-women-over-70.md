@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
 description: >-
+  Distinguishes normal post-meal fullness from concerning bloating linked to heart failure, kidney dysfunction, or medication interactions—specifically in older women with comorbidities.
 date: '2025-12-17'
 updated: '2025-12-17'
 primaryKeyword: bloating after holiday meals seniors

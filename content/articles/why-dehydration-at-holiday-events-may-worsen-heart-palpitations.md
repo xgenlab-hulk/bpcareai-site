@@ -2,6 +2,7 @@
 title: Why Dehydration at Holiday Events May Worsen Heart Palpitations
 slug: why-dehydration-at-holiday-events-may-worsen-heart-palpitations
 description: >-
+  Detail how inadequate fluid intake during busy festive days can exacerbate arrhythmias, especially with alcohol use.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: dehydration holiday palpitations

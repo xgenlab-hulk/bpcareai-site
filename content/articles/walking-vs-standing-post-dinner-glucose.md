@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-walking-the-mall-for-20-minutes-after-dinner-vs-standing-while-wrapping-gifts-which-lowers-2-hour-postprandial-glucose-more-in-adults-72-with-peripheral-neuropathy
 description: >-
+  Compares low-impact movement modalities using continuous interstitial glucose data, focusing on muscle fiber recruitment efficiency, joint stress thresholds, and neuropathic pain tolerance limits.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: walking vs standing post-dinner glucose

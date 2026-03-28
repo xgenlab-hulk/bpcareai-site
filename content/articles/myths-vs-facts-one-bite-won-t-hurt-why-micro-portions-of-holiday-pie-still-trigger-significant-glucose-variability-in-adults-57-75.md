@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
 description: >-
+  Uses CGM data overlays to debunk 'just one bite' assumptions, illustrating insulin demand, beta-cell strain, and cumulative postprandial burden over 3 hours.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: one bite holiday pie blood sugar myth

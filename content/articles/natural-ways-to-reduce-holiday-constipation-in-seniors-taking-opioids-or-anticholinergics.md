@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
 description: >-
+  Details evidence-based, non-laxative strategies—including timed prune-pear juice dosing, abdominal massage sequences, and magnesium L-threonate supplementation—backed by geriatric GI studies.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: natural constipation relief seniors opioids

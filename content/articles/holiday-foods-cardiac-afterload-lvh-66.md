@@ -2,6 +2,7 @@
 title: Holiday Foods and Heart Strain? (LVH Guide for Adults 66+)
 slug: holiday-foods-cardiac-afterload-lvh-66
 description: >-
+  Living with mild LVH? Learn which 12 holiday foods raise cardiac afterload within 90 minutes (sodium, tyramine traps) and heart-friendly swaps for adults 66+.
 date: '2026-01-19'
 updated: '2026-03-18'
 primaryKeyword: holiday foods cardiac afterload heart 66

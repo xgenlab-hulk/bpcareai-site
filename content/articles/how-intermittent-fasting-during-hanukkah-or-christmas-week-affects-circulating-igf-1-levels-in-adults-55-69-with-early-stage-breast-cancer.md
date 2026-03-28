@@ -2,6 +2,7 @@
 title: >-
 slug: how-intermittent-fasting-during-hanukkah-or-christmas-week-affects-circulating-igf-1-levels-in-adults-55-69-with-early-stage-breast-cancer
 description: >-
+  Reviews emerging oncology-nutrition data on how shortened feeding windows during multi-day religious celebrations influence growth factor signaling in hormone-receptor-positive survivors on aromatase inhibitors.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: intermittent fasting holiday igf-1 breast cancer

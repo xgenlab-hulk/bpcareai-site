@@ -2,6 +2,7 @@
 title: >-
 slug: how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 description: >-
+  Examines the impact of unmeasured portions, delayed eating, and mixed-macronutrient sequencing on 2-hour postprandial glucose spikes—and provides a 'plate-first' serving protocol.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: family-style serving prediabetes seniors

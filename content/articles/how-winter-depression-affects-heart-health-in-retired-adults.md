@@ -2,6 +2,7 @@
 title: How Winter Depression Affects Heart Health in Retired Adults
 slug: how-winter-depression-affects-heart-health-in-retired-adults
 description: >-
+  Analyzes the link between seasonal affective disorder (SAD), emotional stress, and increased cardiovascular risk in retirees.
 date: '2025-12-04'
 updated: '2025-12-04'
 primaryKeyword: winter depression heart health

@@ -2,6 +2,7 @@
 title: >-
 slug: how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
 description: >-
+  Breaks down 2023–2024 clinical studies linking dysbiosis, TMAO production, and endothelial dysfunction—and practical dietary shifts to support microbial-heart axis health.
 date: '2025-12-22'
 updated: '2025-12-22'
 primaryKeyword: gut microbiome and arterial stiffness aging

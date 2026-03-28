@@ -2,6 +2,7 @@
 title: >-
 slug: does-daily-8-minute-guided-imagery-before-morning-medication-dose-reduce-pre-dose-systolic-surges-in-adults-59-65-with-white-coat-amplification-and-mild-anxiety
 description: >-
+  Evaluates whether pre-dose cognitive priming lowers anticipatory sympathetic activation and improves medication efficacy timing in anxiety-prone hypertensives.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: guided imagery pre-dose systolic surge

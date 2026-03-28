@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor
 description: >-
+  Reviews ergonomic, visual, and auditory variables—lighting, chair height, table distance, and conversation load—that independently alter pharyngeal phase efficiency during festive meals.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: holiday seating swallowing safety parkinsonian seniors

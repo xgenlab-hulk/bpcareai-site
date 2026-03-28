@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-ecg-signs-of-left-atrial-myopathy-before-afib-or-elevated-nt-probnp-in-adults-59-with-long-standing-hypertension-and-normal-echo
 description: >-
+  Focuses on subtle P-wave abnormalities (e.g., fragmented P-wave, prolonged P-wave dispersion, terminal force in V1) as precursors to atrial remodeling, validated in longitudinal cohorts with high-resolution ECG mapping.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: earliest ECG signs left atrial myopathy

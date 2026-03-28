@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-heart-healthy-frozen-dinners-marketed-to-seniors-why-74-contain-hidden-sodium-potassium-imbalance-triggers-in-adults-78-with-mild-diastolic-dysfunction
 description: >-
+  Investigates how commercially labeled 'low-sodium' frozen meals use potassium chloride substitutes that disrupt RAAS balance in older adults with preserved EF but impaired ventricular relaxation.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: frozen dinners and blood pressure seniors

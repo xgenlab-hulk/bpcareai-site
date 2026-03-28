@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
 description: >-
+  Examines subclinical hypothyroidism, cortisol rhythm disruption, and adipose tissue inflammation as drivers—and introduces targeted diagnostic thresholds.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: unexplained weight gain diabetes women 55+

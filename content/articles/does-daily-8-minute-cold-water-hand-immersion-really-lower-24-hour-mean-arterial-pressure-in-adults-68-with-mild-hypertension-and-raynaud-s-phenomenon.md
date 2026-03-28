@@ -2,6 +2,7 @@
 title: "Cold-Water Hand Soaks for Blood Pressure: Safe With Raynaud's?"
 slug: does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
 description: >-
+  8-minute daily hand soak at 15°C lowered 24-hr BP 4-6 mmHg in one trial — even with poor finger circulation (Raynaud's). Safety cutoffs included.
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: cold water hand soak for high blood pressure with Raynauds

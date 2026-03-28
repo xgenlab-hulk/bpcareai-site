@@ -2,6 +2,7 @@
 title: >-
 slug: can-you-safely-use-transdermal-magnesium-chloride-while-on-sacubitril-valsartan-evidence-on-myocardial-fibrosis-markers-nt-probnp-trajectories-and-diuretic-synergy-in-adults-68-with-hfref
 description: >-
+  Evaluates safety, pharmacokinetic interactions, and functional outcomes of topical magnesium in advanced heart failure — where oral absorption and renal clearance are compromised.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: "health management adults 68+"

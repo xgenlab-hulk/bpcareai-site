@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62
 description: >-
+  Identifies contextual BP elevation triggers (e.g., supine position, local anesthetic vasoconstrictors, dental anxiety) that unmask hypertension missed by standard office readings.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: masked hypertension during dental procedures

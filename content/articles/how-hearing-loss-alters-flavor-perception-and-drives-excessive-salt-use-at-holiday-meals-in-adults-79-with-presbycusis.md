@@ -2,6 +2,7 @@
 title: >-
 slug: how-hearing-loss-alters-flavor-perception-and-drives-excessive-salt-use-at-holiday-meals-in-adults-79-with-presbycusis
 description: >-
+  Links auditory-cognitive load to diminished taste bud sensitivity, showing how reduced sound input lowers perceived umami/sweetness—leading to compensatory sodium overuse and hypertension risk.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: hearing loss salt use holiday meals

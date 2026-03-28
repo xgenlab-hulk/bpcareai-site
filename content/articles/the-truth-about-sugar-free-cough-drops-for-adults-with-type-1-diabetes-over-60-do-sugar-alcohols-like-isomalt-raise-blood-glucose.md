@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
 description: >-
+  Analyzes glycemic impact, laxative thresholds, and insulin dosing considerations for common OTC cough suppressants containing maltitol, isomalt, and erythritol in aging T1D.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: sugar-free cough drops and blood sugar in seniors

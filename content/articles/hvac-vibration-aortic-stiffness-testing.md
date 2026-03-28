@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-exposure-to-quiet-hvac-duct-vibration-alters-aortic-root-motion-dynamics-and-why-that-masks-early-aortic-stiffness-on-standard-pwv-testing-in-adults-76
 description: >-
+  Uncovers a mechanical interference artifact in vascular testing caused by building infrastructure — leading to false reassurance in early aortopathy detection.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: hvac vibration aortic stiffness testing

@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-managing-holiday-eating-while-recovering-from-a-recent-percutaneous-coronary-intervention-practical-strategies-for-adults-66-70-with-dual-antiplatelet-therapy
 description: >-
+  Covers food-drug interactions (vitamin K, ginger, garlic), bleeding-safe seasoning strategies, portion pacing, and fatigue-aware meal planning for post-PCI seniors navigating holiday gatherings.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: holiday eating post-pci dual antiplatelet therapy

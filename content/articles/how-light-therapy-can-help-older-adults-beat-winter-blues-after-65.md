@@ -2,6 +2,7 @@
 title: How Light Therapy Can Help Older Adults Beat Winter Blues After 65
 slug: how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
 description: >-
+  Explore the science behind light therapy boxes, recommended usage, and real benefits for seniors struggling with seasonal mood changes.
 date: '2025-12-02'
 updated: '2025-12-02'
 primaryKeyword: light therapy for seasonal depression

@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
 description: >-
+  Demystifies sugar alcohol metabolism, osmotic effects, and individual variability in glycemic response—especially for seniors with gastroparesis or IBS-D.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: sugar-free candy blood sugar truth

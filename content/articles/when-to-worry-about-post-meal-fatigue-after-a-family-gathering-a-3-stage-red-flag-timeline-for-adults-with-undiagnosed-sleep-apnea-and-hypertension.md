@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
 description: >-
+  Links postprandial somnolence to nocturnal hypoxia patterns, offering a symptom-triggered escalation pathway (from hydration check → pulse oximetry → urgent CPAP re-evaluation).
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: post-meal fatigue sleep apnea red flags

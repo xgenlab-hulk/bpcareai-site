@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl
 description: >-
+  Synthesizes data from the FMD-PLAQUE trial on changes in plaque lipid core volume, macrophage activity (via 18F-FDG PET), and circulating S100A12 after three 5-day fasting-mimicking cycles.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: fasting mimicking diet and plaque stability

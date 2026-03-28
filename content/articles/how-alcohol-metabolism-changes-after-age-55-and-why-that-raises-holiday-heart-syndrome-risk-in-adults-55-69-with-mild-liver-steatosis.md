@@ -2,6 +2,7 @@
 title: >-
 slug: how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
 description: >-
+  Explores age-related declines in ALDH2 enzyme activity and acetaldehyde clearance, explaining why even moderate holiday drinking triggers arrhythmias in older adults with early fatty liver changes.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: alcohol metabolism age 55 holiday heart

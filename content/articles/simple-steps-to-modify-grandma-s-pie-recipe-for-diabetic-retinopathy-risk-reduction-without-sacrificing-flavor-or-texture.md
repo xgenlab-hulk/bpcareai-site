@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture
 description: >-
+  Walks through evidence-based substitutions (anthocyanin-rich berries, resistant starch flour blends, low-AGE baking temps) validated in ophthalmic nutrition trials.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: grandma pie recipe diabetic retinopathy

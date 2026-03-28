@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
 description: >-
+  Helps differentiate cardiorenal fluid shifts from adipose accumulation using pulse pressure trends, ankle pitting patterns, and nocturnal orthopnea cues.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: holiday weight gain fluid retention afib seniors

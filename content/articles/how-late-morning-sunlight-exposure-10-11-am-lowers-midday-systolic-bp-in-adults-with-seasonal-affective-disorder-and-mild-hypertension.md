@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension
 description: >-
+  Explores melanopsin-mediated NO release, cortisol rhythm stabilization, and reduced sympathetic tone—based on randomized UV-filtered vs. full-spectrum light exposure trials.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: morning sunlight and midday blood pressure

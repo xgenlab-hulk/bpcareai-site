@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79
 description: >-
+  Addresses the unique hypertensive burden of spousal caregivers, including cortisol–renin dysrhythmia, missed dosing windows, and adaptive home BP tracking protocols.
 date: '2026-02-28'
 updated: '2026-02-28'
 primaryKeyword: blood pressure management dementia caregiver

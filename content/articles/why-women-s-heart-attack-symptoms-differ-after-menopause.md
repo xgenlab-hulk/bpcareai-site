@@ -2,6 +2,7 @@
 title: Why Women’s Heart Attack Symptoms Differ After Menopause
 slug: why-women-s-heart-attack-symptoms-differ-after-menopause
 description: >-
+  Learn about the unique signs women experience and why they’re often missed or misdiagnosed.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: women heart attack symptoms after menopause

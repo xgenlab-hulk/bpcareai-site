@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
 description: >-
+  Debunks dangerous self-dosing assumptions by explaining metformin’s renal clearance threshold, lactate metabolism changes with age, and safer real-time glucose mitigation strategies.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: metformin holiday pie lactic acidosis

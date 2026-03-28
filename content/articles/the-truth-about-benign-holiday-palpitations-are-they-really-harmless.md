@@ -2,6 +2,7 @@
 title: 'The Truth About ''Benign'' Holiday Palpitations: Are They Really Harmless?'
 slug: the-truth-about-benign-holiday-palpitations-are-they-really-harmless
 description: >-
+  Debunk myths surrounding temporary arrhythmias after drinking, emphasizing potential long-term implications if ignored.
 date: '2025-12-14'
 updated: '2025-12-14'
 primaryKeyword: benign holiday palpitations truth

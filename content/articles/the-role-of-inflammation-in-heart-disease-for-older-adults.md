@@ -2,6 +2,7 @@
 title: The Role of Inflammation in Heart Disease for Older Adults
 slug: the-role-of-inflammation-in-heart-disease-for-older-adults
 description: >-
+  Learn how chronic inflammation contributes to heart disease and what blood tests and lifestyle changes can help manage it.
 date: '2025-11-30'
 updated: '2025-11-30'
 primaryKeyword: inflammation and heart disease in seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-restore-circadian-rhythm-driven-insulin-secretion-without-melatonin-using-blue-light-filtered-evening-lenses-fixed-dose-zinc-carnosine-timing-in-adults-64-with-evening-hyperglycemia
 description: >-
+  Presents a non-hormonal, time-of-day–targeted protocol to resynchronize beta-cell clock genes (e.g., BMAL1, CLOCK) and improve first-phase insulin release—validated in a 2023 RCT of older adults with delayed glucose peak.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: restore insulin rhythm without melatonin

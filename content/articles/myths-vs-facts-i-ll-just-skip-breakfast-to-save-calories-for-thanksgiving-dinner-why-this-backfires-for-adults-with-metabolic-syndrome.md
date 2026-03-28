@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
 description: >-
+  Debunks fasting myths using 24-hour glucose variability data, highlighting breakfast’s role in insulin receptor priming and postprandial inflammation control.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: skip breakfast thanksgiving metabolic syndrome

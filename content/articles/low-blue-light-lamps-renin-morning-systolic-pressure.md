@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-use-of-low-blue-light-evening-lamps-alters-melatonin-mediated-renin-release-and-why-that-elevates-early-morning-systolic-pressure-in-adults-64-with-mild-sleep-onset-insomnia
 description: >-
+  Explains how spectral light manipulation indirectly dysregulates RAAS activity via melatonin suppression, leading to abnormal circadian BP peaks.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: low-blue-light lamps renin morning systolic pressure

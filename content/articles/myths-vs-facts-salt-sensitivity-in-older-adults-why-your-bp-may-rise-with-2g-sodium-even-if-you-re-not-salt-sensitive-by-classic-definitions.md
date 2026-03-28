@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions
 description: >-
+  Challenges outdated salt-sensitivity criteria by exposing age-related renal sodium retention, aldosterone resistance, and how 'non-salt-sensitive' elders still develop volume overload on modest sodium loads.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: salt sensitivity myth older adults sodium

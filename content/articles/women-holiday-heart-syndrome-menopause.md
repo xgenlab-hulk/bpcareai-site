@@ -2,6 +2,7 @@
 title: >-
 slug: 5-things-every-woman-over-67-should-know-about-holiday-heart-syndrome-especially-with-concurrent-perimenopausal-estrogen-decline-and-subclinical-coronary-microvascular-dysfunction
 description: >-
+  Gender-specific breakdown of hormonal, microvascular, and inflammatory intersections that uniquely predispose postmenopausal women to alcohol-triggered arrhythmias during festive periods.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: women holiday heart syndrome menopause

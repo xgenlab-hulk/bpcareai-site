@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-daily-12-second-breath-hold-intervals-after-nasal-saline-rinse-effects-on-endothelial-dependent-vasodilation-in-adults-58-65-with-prehypertension
 description: >-
+  Analyzes a novel nasal–respiratory protocol that enhances nitric oxide bioavailability and peripheral resistance artery function in early-stage hypertension.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: nasal rinse breath-hold for endothelial function

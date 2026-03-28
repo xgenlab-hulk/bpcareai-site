@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
 description: >-
+  Analyzes safety, efficacy, and adherence data from 3 holiday-season RCTs—focusing on hypoglycemia risk, ketosis thresholds, and renal stress markers.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: intermittent fasting christmas to new year diabetes

@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis
 description: >-
+  Compares nutrient leaching, oxidation, and mineral chelation across reheating methods, with lab-tested retention data and practical storage-to-plate guidance for gastric atrophy patients.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: reheating holiday leftovers mineral bioavailability seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-blood-pressure-friendly-herbal-teas-marketed-to-women-over-65-why-84-contain-vasopressin-mimetic-alkaloids-that-worsen-diastolic-stiffness
 description: >-
+  Tests common chamomile, hibiscus, and ginger-based teas for unintended hormonal and vascular smooth muscle activity in postmenopausal women with early arterial stiffness.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: herbal teas and diastolic stiffness in women

@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
 description: >-
+  Links polysomnography-confirmed stage N3 loss to amplified dawn phenomenon and overnight glucose AUC—highlighting gender-specific GH/IGF-1 axis dysregulation patterns.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: holiday sleep fragmentation fasting glucose men

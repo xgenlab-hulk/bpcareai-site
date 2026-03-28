@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
 description: >-
+  Provides a 4-tier clinical decision tree (observation → urgent referral → ER criteria → red-flag drug review) for hypertensive urgency in polypharmacy patients 55–79.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: single high blood pressure reading NSAIDs

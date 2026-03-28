@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-convert-your-holiday-cookie-swap-into-a-glucose-responsive-event-with-real-time-cgm-feedback-portion-mapping-and-peer-accountability-frameworks
 description: >-
+  A practical, behaviorally grounded guide for turning social baking traditions into diabetes-friendly rituals using continuous glucose monitoring, visual portion tools, and shared goal tracking.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: holiday cookie swap glucose management

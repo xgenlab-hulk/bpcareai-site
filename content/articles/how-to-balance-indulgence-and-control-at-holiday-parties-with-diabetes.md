@@ -2,6 +2,7 @@
 title: How to Balance Indulgence and Control at Holiday Parties with Diabetes
 slug: how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 description: >-
+  Practical strategies for enjoying festive gatherings while keeping blood sugar levels in check, especially for adults over 50 managing type 2 diabetes.
 date: '2025-12-07'
 updated: '2025-12-07'
 primaryKeyword: diabetes holiday party tips

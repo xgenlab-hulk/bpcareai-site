@@ -2,6 +2,7 @@
 title: Why Arm Pain Shouldn’t Be Ignored in Women Over 50
 slug: why-arm-pain-shouldn-t-be-ignored-in-women-over-50
 description: >-
+  Recognize how arm pain can be a silent sign of heart trouble, especially in women approaching menopause and beyond.
 date: '2025-12-05'
 updated: '2025-12-05'
 primaryKeyword: arm pain and heart attack symptoms in women over 50

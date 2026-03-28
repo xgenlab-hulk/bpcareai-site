@@ -2,6 +2,7 @@
 title: >-
 slug: holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
 description: >-
+  Side-by-side clinical comparison focusing on ECG nuances (e.g., absence of ST changes), troponin kinetics, pain descriptors, and atypical symptoms—designed to help older men and their families discern urgent vs. self-limiting events.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: holiday heart vs heart attack men 70+

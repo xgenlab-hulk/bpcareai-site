@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-low-sodium-canned-soups-marketed-to-seniors-why-83-contain-unlabeled-potassium-chloride-blends-that-trigger-hyperkalemic-bradycardia-in-adults-76-with-ckd-stage-3
 description: >-
+  Investigates hidden electrolyte risks in commercially labeled heart-healthy foods, emphasizing potassium-related arrhythmia vulnerability in age-related renal decline.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: low-sodium soup potassium chloride ckdseniors

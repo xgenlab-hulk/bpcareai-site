@@ -2,6 +2,7 @@
 title: >-
 slug: how-social-isolation-alters-hippocampal-glucose-metabolism-and-increases-risk-of-hypoglycemia-unawareness-in-adults-73-living-alone-with-t2d
 description: >-
+  Links loneliness-associated neuroinflammation, FDG-PET findings, and real-world hypoglycemia detection failure—offering behavioral and tech-aided mitigation strategies for high-risk solo dwellers.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: social isolation hippocampal glucose metabolism

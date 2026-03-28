@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d
 description: >-
+  Analyzes how cabin pressure fluctuations, immobility, and cold ambient temperatures alter insulin diffusion through fibrotic or atrophic tissue — with implications for basal rate adjustments and bolus timing during multi-leg journeys.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: air travel insulin absorption elderly

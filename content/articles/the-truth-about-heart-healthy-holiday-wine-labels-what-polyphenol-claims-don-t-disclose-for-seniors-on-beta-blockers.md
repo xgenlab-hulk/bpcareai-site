@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
 description: >-
+  Debunks marketing language around resveratrol and ‘moderate’ wine consumption, highlighting pharmacokinetic interactions, blood pressure volatility, and arrhythmia risk in older adults using common cardiac medications.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: holiday wine labels beta-blocker risks

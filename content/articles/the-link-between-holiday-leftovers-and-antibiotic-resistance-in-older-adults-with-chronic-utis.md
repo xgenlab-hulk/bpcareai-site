@@ -2,6 +2,7 @@
 title: >-
 slug: the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
 description: >-
+  Explains how improper storage and reheating of protein-rich leftovers (turkey, ham, stuffing) fosters resistant bacterial growth—and how urinary tract vulnerability in postmenopausal women and older men intersects with food safety practices.
 date: '2025-12-16'
 updated: '2025-12-16'
 primaryKeyword: holiday leftovers antibiotic resistance UTI seniors

@@ -2,6 +2,7 @@
 title: How to Adjust Your Parent’s Daily Routine to Combat Winter Depression
 slug: how-to-adjust-your-parent-s-daily-routine-to-combat-winter-depression
 description: >-
+  Provide step-by-step suggestions for structuring mornings, increasing activity, and maximizing daylight exposure.
 date: '2025-12-17'
 updated: '2025-12-17'
 primaryKeyword: daily routine for seasonal depression

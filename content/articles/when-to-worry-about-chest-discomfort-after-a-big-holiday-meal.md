@@ -2,6 +2,7 @@
 title: When to Worry About Chest Discomfort After a Big Holiday Meal
 slug: when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
 description: >-
+  Distinguish between normal fullness and potential cardiac warning signs after eating—especially critical for older adults with heart disease history.
 date: '2025-12-02'
 updated: '2025-12-02'
 primaryKeyword: chest pain after eating seniors warning signs

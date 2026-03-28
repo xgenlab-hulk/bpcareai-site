@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-post-dinner-palpitations-during-hanukkah-or-christmas-red-flags-that-distinguish-holiday-heart-syndrome-from-benign-pacs-in-adults-58-74
 description: >-
+  A symptom-based clinical decision guide for distinguishing transient holiday-induced arrhythmias from more serious underlying conduction or structural issues in older adults.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: post-dinner palpitations holiday heart syndrome

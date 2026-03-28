@@ -2,6 +2,7 @@
 title: >-
 slug: 7-overlooked-environmental-triggers-that-elevate-nighttime-heart-rate-variability-in-adults-74-with-mild-copd-from-humidifier-mineral-dust-to-bedroom-wall-paint-vocs
 description: >-
+  Identifies non-clinical, home-environmental factors that dysregulate autonomic cardiac output overnight in aging lungs, with actionable mitigation strategies validated in pulmonology-geriatric crossover studies.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: nighttime heart rate variability environmental triggers

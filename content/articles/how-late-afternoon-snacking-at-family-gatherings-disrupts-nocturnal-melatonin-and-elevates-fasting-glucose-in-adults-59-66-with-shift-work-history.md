@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
 description: >-
+  Explores the circadian mismatch between inherited chronotype, social meal timing, and tryptophan availability—plus offers a 'light-anchored snack timing matrix' to preserve insulin sensitivity overnight.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: late afternoon snacking circadian glucose

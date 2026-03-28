@@ -2,6 +2,7 @@
 title: >-
 slug: what-causes-sudden-post-holiday-joint-swelling-only-after-eating-your-daughter-s-homemade-gravy-the-role-of-histamine-rich-fermented-ingredients-mast-cell-priming-and-age-related-dao-decline
 description: >-
+  Connects food-derived histamine, enzymatic deficiency, and immune sensitization to acute arthritic flares triggered by traditional holiday condiments—and offers low-histamine preparation alternatives.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: post-holiday joint swelling gravy histamine seniors

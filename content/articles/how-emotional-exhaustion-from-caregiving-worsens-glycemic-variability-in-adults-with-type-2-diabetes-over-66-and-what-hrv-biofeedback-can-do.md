@@ -2,6 +2,7 @@
 title: >-
 slug: how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do
 description: >-
+  Links caregiver stress burden to autonomic dysregulation, cortisol surges, and increased mean amplitude of glucose excursions—plus a validated 5-minute daily HRV protocol.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: caregiver stress and glycemic variability seniors

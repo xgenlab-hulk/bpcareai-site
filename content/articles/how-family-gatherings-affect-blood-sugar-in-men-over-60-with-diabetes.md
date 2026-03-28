@@ -2,6 +2,7 @@
 title: How Family Gatherings Affect Blood Sugar in Men Over 60 with Diabetes
 slug: how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
 description: >-
+  Looks at social dynamics, portion pressure, and emotional triggers that uniquely impact glucose control in older men.
 date: '2025-12-18'
 updated: '2025-12-18'
 primaryKeyword: family gatherings blood sugar men over 60

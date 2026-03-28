@@ -2,6 +2,7 @@
 title: The Science-Backed Benefits of Warm Baths for Heart Circulation in Seniors
 slug: the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors
 description: >-
+  Reviews research on how warm (not hot) baths improve peripheral circulation and reduce blood pressure safely in older adults.
 date: '2025-12-08'
 updated: '2025-12-08'
 primaryKeyword: warm baths heart circulation

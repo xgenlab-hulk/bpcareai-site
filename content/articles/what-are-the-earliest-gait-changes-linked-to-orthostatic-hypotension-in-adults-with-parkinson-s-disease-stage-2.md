@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-gait-changes-linked-to-orthostatic-hypotension-in-adults-with-parkinson-s-disease-stage-2
 description: >-
+  Describes subtle gait variability metrics (stride time variability, double-support phase extension) detectable before syncopal episodes, with implications for fall risk and BP management.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: gait changes orthostatic hypotension parkinsons

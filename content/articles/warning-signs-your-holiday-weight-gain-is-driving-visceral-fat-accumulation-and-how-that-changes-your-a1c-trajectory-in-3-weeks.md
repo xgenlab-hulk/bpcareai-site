@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
 description: >-
+  Connects subtle physical and lab changes (e.g., waist-to-height ratio shift, morning thirst despite normal A1c, elevated ALT) to early insulin resistance escalation.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: holiday weight gain visceral fat warning signs

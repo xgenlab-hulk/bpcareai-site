@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
 description: >-
+  Details subtle, pre-imaging neuropsychological changes—like slowed verbal fluency timing or inconsistent dual-task gait—linked to early cerebral small-vessel disease in treated hypertension.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: "health management seniors"

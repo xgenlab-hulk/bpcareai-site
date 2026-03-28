@@ -2,6 +2,7 @@
 title: 'Heart Disease in Hispanic Adults Over 50: Unique Risk Factors'
 slug: heart-disease-in-hispanic-adults-over-50-unique-risk-factors
 description: >-
+  Explore cultural, genetic, and lifestyle factors that contribute to higher heart disease rates in this population.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: heart disease in Hispanic adults over 50

@@ -2,6 +2,7 @@
 title: >-
 slug: how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
 description: >-
+  Explores the acute hemodynamic impact of extended air travel on blood pressure patterns in older adults whose hypertension is typically only elevated in clinical settings.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: flight duration systolic blood pressure variability

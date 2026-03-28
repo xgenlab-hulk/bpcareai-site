@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
 description: >-
+  Debunks age-based statin misconceptions using STAREE and PREVAIL trial data—highlighting mortality, mobility, and dementia risk trade-offs in primary prevention.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: statins after 75 myths vs facts

@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
 description: >-
+  Examines how daily ibuprofen or naproxen disrupts intrarenal RAAS signaling in aging kidneys, leading to 'white-coat resistant' diastolic elevation undetectable via standard office BP cuffs.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: nsaid diastolic hypertension aging kidneys

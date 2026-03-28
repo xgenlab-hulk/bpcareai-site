@@ -2,6 +2,7 @@
 title: >-
 slug: simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
 description: >-
+  Guides circadian lighting adjustments—blue-enriched morning light, amber evening filters, and bedroom light exposure thresholds—to optimize melatonin and renin rhythms.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: home lighting and nighttime blood pressure

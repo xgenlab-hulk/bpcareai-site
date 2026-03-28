@@ -2,6 +2,7 @@
 title: How Excessive Salt Intake Leads to Heart Disease Over Time
 slug: how-excessive-salt-intake-leads-to-heart-disease-over-time
 description: >-
+  Learn how a high-sodium diet damages arteries and increases cardiac workload, especially in older adults.
 date: '2025-12-11'
 updated: '2025-12-11'
 primaryKeyword: salt intake and heart disease development

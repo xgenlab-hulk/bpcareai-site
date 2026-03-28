@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-home-finger-cuff-photoplethysmography-vs-wrist-worn-ecg-for-detecting-paroxysmal-atrial-fibrillation-in-adults-79-with-severe-osteoarthritis-and-limited-dexterity
 description: >-
+  Compares real-world usability, false-negative rates, and arrhythmia detection sensitivity between two accessible modalities—grounded in a 6-month pragmatic trial with manual dexterity scoring.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: finger-cuff vs wrist ecg afib detection

@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
 description: >-
+  Highlights subtle clinical red flags—including exercise-induced dyspnea despite normal EF, unexplained orthopnea with minimal fluid retention, and abnormal E/e′ ratio discordance with symptom severity.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: beta blocker masking diastolic dysfunction

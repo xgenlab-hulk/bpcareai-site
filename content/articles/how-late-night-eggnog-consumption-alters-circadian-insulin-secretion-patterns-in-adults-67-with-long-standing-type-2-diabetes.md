@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-eggnog-consumption-alters-circadian-insulin-secretion-patterns-in-adults-67-with-long-standing-type-2-diabetes
 description: >-
+  Examines the chronobiological disruption caused by high-fat, high-sugar nocturnal beverages — including effects on beta-cell pulsatility, melatonin-glucose crosstalk, and next-morning fasting hyperglycemia.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: late-night eggnog and insulin secretion

@@ -2,6 +2,7 @@
 title: >-
 slug: simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
 description: >-
+  Step-by-step ingredient substitutions (e.g., umami-rich mushrooms for gravy, citrus zest for salt) validated by American Heart Association sodium guidelines and taste-test data from 60+ adults.
 date: '2025-12-18'
 updated: '2025-12-18'
 primaryKeyword: low sodium holiday recipes seniors

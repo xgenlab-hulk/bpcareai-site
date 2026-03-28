@@ -2,6 +2,7 @@
 title: >-
 slug: can-you-safely-use-a-sauna-while-taking-an-ace-inhibitor-evidence-based-temperature-thresholds-and-recovery-protocols-for-adults-65-with-mild-lv-hypertrophy
 description: >-
+  Analyzes vasodilatory synergy, plasma volume shifts, and cardiac output safety margins — with concrete guidelines on duration, temperature limits, and post-sauna rehydration metrics.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: sauna use with ace inhibitors seniors

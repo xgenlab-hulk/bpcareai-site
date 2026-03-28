@@ -2,6 +2,7 @@
 title: Is It Safe to Skip Meals Before a Holiday Feast If You Have Diabetes?
 slug: is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
 description: >-
+  Analyze the risks and benefits of intermittent fasting before large holiday dinners for older adults managing blood sugar with medication.
 date: '2025-12-05'
 updated: '2025-12-05'
 primaryKeyword: skipping meals before holiday feast diabetes

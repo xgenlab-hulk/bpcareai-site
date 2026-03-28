@@ -2,6 +2,7 @@
 title: What Research Says About Holiday Heart Syndrome and Aging Hearts
 slug: what-research-says-about-holiday-heart-syndrome-and-aging-hearts
 description: >-
+  Summarize recent studies on age-related changes in cardiac conduction and recovery after transient alcohol-induced arrhythmias.
 date: '2025-12-09'
 updated: '2025-12-09'
 primaryKeyword: research holiday heart syndrome aging

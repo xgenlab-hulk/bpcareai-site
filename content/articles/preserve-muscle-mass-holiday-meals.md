@@ -2,6 +2,7 @@
 title: >-
 slug: 5-science-backed-ways-to-preserve-muscle-mass-while-eating-holiday-meals-leucine-timing-post-meal-walking-cadence-and-protein-distribution-for-adults-74-with-sarcopenia-risk
 description: >-
+  Focuses on muscle protein synthesis optimization during feasting — not restriction — using age-specific leucine thresholds, ambulatory pacing, and real-time satiety cues.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: preserve muscle mass holiday meals

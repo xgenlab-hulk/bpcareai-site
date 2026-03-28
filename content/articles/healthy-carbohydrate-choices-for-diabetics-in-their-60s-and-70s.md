@@ -2,6 +2,7 @@
 title: Healthy Carbohydrate Choices for Diabetics in Their 60s and 70s
 slug: healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
 description: >-
+  Choose smart carbs that provide energy without causing spikes in blood glucose.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: healthy carbs for older adults with diabetes

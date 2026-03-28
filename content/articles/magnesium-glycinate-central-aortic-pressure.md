@@ -2,6 +2,7 @@
 title: >-
 slug: does-daily-2-gram-magnesium-glycinate-really-reduce-central-aortic-systolic-pressure-in-adults-62-with-high-pulse-wave-velocity-new-data-from-the-mag-cap-trial
 description: >-
+  Synthesizes 2024 findings from the first RCT using tonometric central BP as primary endpoint, revealing differential effects by magnesium formulation and vascular stiffness subgroup.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: magnesium glycinate central aortic pressure

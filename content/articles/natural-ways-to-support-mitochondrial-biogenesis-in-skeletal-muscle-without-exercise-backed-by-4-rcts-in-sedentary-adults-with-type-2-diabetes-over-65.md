@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
 description: >-
+  Reviews evidence for targeted nutrients (PQQ, urolithin A, nicotinamide riboside) and low-dose cold exposure protocols that increase PGC-1α expression—even in low-mobility patients.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: mitochondrial biogenesis diabetes no exercise

@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75
 description: >-
+  Investigates marketing claims vs. actual nutrient profiling in subscription meal kits, with lab-tested sodium, fiber, and potassium data for cardiac-safe holiday eating.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: senior-friendly meal kits sodium fiber analysis

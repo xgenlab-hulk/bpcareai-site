@@ -2,6 +2,7 @@
 title: >-
 slug: a-vs-b-daily-15-minute-tai-chi-qigong-vs-supervised-treadmill-walking-which-improves-6-minute-walk-distance-lv-diastolic-function-more-in-adults-69-with-hfpef
 description: >-
+  Compares functional and echocardiographic outcomes of two low-impact modalities in heart failure with preserved ejection fraction, with emphasis on frailty-adapted protocols.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: tai chi vs walking for HFpEF seniors

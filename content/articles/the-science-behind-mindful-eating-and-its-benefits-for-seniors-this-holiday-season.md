@@ -2,6 +2,7 @@
 title: >-
 slug: the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 description: >-
+  Review clinical studies showing how slowing down and savoring food improves digestion, satiety, and blood sugar control in older adults.
 date: '2025-12-06'
 updated: '2025-12-06'
 primaryKeyword: science of mindful eating seniors holidays

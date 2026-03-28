@@ -2,6 +2,7 @@
 title: >-
 slug: how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
 description: >-
+  Examines the mechanistic link between sympathetic surges during nocturnal voiding, atrial stretch, and fibrosis progression—plus validated nocturia frequency thresholds (>2x/night) that signal need for AFib screening.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: nocturia and atrial fibrillation risk

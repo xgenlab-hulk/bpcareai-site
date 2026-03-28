@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-constipation-alters-vagal-tone-and-triggers-nocturnal-st-segment-variability-in-adults-61-with-known-vasovagal-syncope-history
 description: >-
+  Details the gut-brain-heart axis in older adults — linking colonic distension, vagal hyperactivity, and transient ischemic-like ECG changes during sleep.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: constipation and nocturnal ST variability

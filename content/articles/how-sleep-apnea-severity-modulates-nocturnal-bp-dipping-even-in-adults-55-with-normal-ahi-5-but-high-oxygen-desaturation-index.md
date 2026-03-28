@@ -2,6 +2,7 @@
 title: >-
 slug: how-sleep-apnea-severity-modulates-nocturnal-bp-dipping-even-in-adults-55-with-normal-ahi-5-but-high-oxygen-desaturation-index
 description: >-
+  Analyzes how nocturnal hypoxemia — independent of apnea count — triggers sympathetic surges and renin release, leading to nondipping patterns in 'mild' OSA patients missed by standard PSG scoring.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: oxygen desaturation index nocturnal bp

@@ -2,6 +2,7 @@
 title: Is It Safe to Drink Alcohol at Family Events If You Have Diabetes?
 slug: is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes
 description: >-
+  Discusses the effects of alcoholic beverages on blood sugar and medication interactions, with safety guidelines for moderate drinking.
 date: '2025-12-06'
 updated: '2025-12-06'
 primaryKeyword: alcohol and diabetes safety

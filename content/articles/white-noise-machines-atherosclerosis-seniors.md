@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-use-of-calm-inducing-white-noise-machines-alters-endothelial-nitric-oxide-synthase-expression-and-why-that-accelerates-atherosclerosis-in-adults-74-with-mild-cognitive-impairment
 description: >-
+  Examines the underrecognized vascular impact of long-term low-frequency sound exposure on endothelial function, particularly in aging brains with compromised NO bioavailability.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: white noise machines atherosclerosis seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings
 description: >-
+  Reveals a novel sensory-neurocardiac pathway where amplified low-frequency sound processing indirectly suppresses vagal tone and blunts BP buffering—critical for interpreting 'normal' cardiac assessments.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: hearing aids baroreflex sensitivity diastolic dysfunction

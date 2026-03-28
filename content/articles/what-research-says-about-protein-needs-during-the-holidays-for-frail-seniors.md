@@ -2,6 +2,7 @@
 title: What Research Says About Protein Needs During the Holidays for Frail Seniors
 slug: what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
 description: >-
+  Studies show increased protein intake during festive periods can prevent muscle loss—here’s how much, when, and from which sources.
 date: '2025-12-04'
 updated: '2025-12-04'
 primaryKeyword: holiday protein needs for frail seniors

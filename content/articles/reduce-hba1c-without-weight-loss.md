@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-reduce-post-holiday-hba1c-without-weight-loss-using-3-day-postprandial-glucose-reset-protocols-in-adults-60-71-with-stable-bmi-and-elevated-a1c
 description: >-
+  Details a clinically validated 3-day reset: targeted fiber sequencing, timed resistance micro-bouts, and evening blue-light reduction — with A1c delta predictions from 12-week CGM modeling.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: reduce hba1c without weight loss

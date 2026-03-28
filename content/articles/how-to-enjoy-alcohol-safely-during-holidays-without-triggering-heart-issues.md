@@ -2,6 +2,7 @@
 title: How to Enjoy Alcohol Safely During Holidays Without Triggering Heart Issues
 slug: how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
 description: >-
+  Provide science-backed guidelines on moderate drinking limits and safer choices for those concerned about cardiac arrhythmias.
 date: '2025-11-29'
 updated: '2025-11-29'
 primaryKeyword: safe alcohol holiday heart

@@ -2,6 +2,7 @@
 title: >-
 slug: does-daily-use-of-a-heated-massage-pillow-on-the-upper-trapezius-reduce-morning-systolic-surges-in-adults-59-65-with-chronic-tension-headaches-and-mild-anxiety
 description: >-
+  Reviews RCT evidence on thermal myofascial release, vagal tone modulation, and morning cortisol-BP coupling — with safety caveats for those on anticoagulants or with cervical spondylosis.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: heated massage pillow and morning blood pressure

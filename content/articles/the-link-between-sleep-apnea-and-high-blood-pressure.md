@@ -2,6 +2,7 @@
 title: The Link Between Sleep Apnea and High Blood Pressure
 slug: the-link-between-sleep-apnea-and-high-blood-pressure
 description: >-
+  Explore how untreated sleep apnea contributes to hypertension and what treatments can help improve both conditions.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: sleep apnea and high blood pressure connection

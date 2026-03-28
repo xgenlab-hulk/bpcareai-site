@@ -2,6 +2,7 @@
 title: 'Seasonal Depression vs. Normal Winter Sadness: What Families Need to Know'
 slug: seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
 description: >-
+  Differentiate between temporary mood dips and clinical seasonal affective disorder in older adults.
 date: '2025-12-08'
 updated: '2025-12-08'
 primaryKeyword: seasonal depression vs winter sadness

@@ -2,6 +2,7 @@
 title: >-
 slug: how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
 description: >-
+  Understand how seasonal temperature shifts influence hunger cues and cravings for heavier foods—and how to eat mindfully despite it.
 date: '2025-12-01'
 updated: '2025-12-01'
 primaryKeyword: cold weather appetite changes seniors

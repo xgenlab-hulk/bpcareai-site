@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver
 description: >-
+  Analyzes how artificial sweeteners, alcohol metabolites, and circadian disruption from evening drinking affect hepatic fat accumulation and ALT trends in aging men—with evidence from 12-week liver elastography trials.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: zero-calorie cocktails and fatty liver

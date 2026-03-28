@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
 description: >-
+  Examines the psychosocial pathway from social isolation to endothelial dysfunction, citing longitudinal data on pulse wave velocity and 24-hour ambulatory BP trends.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: loneliness and arterial stiffness blood pressure

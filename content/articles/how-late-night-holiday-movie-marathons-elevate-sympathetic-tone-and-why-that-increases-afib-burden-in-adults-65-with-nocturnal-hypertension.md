@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension
 description: >-
+  Links blue-light exposure, supine posture, and delayed melatonin onset to sustained norepinephrine elevation—and demonstrates how this creates a pro-arrhythmic milieu overnight.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: late-night movies sympathetic tone afib

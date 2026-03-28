@@ -2,6 +2,7 @@
 title: >-
 slug: how-long-term-use-of-over-the-counter-nasal-decongestants-alters-carotid-sinus-sensitivity-in-adults-64-with-early-autonomic-neuropathy-and-mild-orthostasis
 description: >-
+  Explains α-adrenergic overstimulation’s effect on baroreceptor desensitization, linking chronic OTC decongestant use to delayed BP recovery and increased fall risk.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: nasal decongestants and carotid sinus sensitivity

@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-well-controlled-a1c-is-masking-severe-nocturnal-hypoglycemia-even-with-normal-cgm-time-in-range-in-adults-68-on-once-daily-glp-1-agonists
 description: >-
+  Identifies paradoxical biomarkers—e.g., elevated evening cortisol, suppressed nocturnal growth hormone, and morning 8-amino acid panel shifts—that signal recurrent hypoglycemia missed by daytime-only metrics.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: nocturnal hypoglycemia masked a1c

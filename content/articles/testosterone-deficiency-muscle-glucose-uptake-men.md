@@ -2,6 +2,7 @@
 title: >-
 slug: 5-things-every-man-over-74-should-know-about-testosterone-deficiency-and-its-impact-on-skeletal-muscle-glucose-uptake-especially-with-concurrent-statin-use
 description: >-
+  Explains how age-related hypogonadism, statin-induced myotoxicity, and sarcopenic insulin resistance interact—and what actionable, lab-guided interventions exist beyond hormone replacement.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: testosterone deficiency muscle glucose uptake men

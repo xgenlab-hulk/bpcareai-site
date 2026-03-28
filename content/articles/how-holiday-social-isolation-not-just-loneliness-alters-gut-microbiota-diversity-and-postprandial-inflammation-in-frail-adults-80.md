@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
 description: >-
+  Connects reduced mealtime social interaction with decreased microbial SCFA production, elevated IL-6, and blunted GLP-1 response—plus simple, evidence-backed 'micro-social meal rituals' to counteract it.
 date: '2026-01-04'
 updated: '2026-01-04'
 primaryKeyword: holiday isolation gut microbiota inflammation seniors

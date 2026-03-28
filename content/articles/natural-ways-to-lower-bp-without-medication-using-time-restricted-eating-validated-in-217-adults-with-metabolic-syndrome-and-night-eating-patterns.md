@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
 description: >-
+  Focuses on circadian alignment of food intake, insulin sensitivity restoration, and nocturnal renin suppression—not just calorie restriction.
 date: '2026-01-03'
 updated: '2026-01-03'
 primaryKeyword: time-restricted eating blood pressure metabolic syndrome

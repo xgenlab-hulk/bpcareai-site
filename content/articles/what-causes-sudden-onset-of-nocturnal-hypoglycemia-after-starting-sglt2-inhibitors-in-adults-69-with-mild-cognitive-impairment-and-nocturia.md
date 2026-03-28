@@ -2,6 +2,7 @@
 title: Why SGLT2 Inhibitors Cause Nighttime Lows in Adults Over 69
 slug: what-causes-sudden-onset-of-nocturnal-hypoglycemia-after-starting-sglt2-inhibitors-in-adults-69-with-mild-cognitive-impairment-and-nocturia
 description: >-
+  SGLT2 drugs shift kidney glucose handling, and nighttime urination (nocturia) fragments sleep — masking low sugar signs. Cognitive decline adds missed cues.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: low blood sugar at night after starting SGLT2 inhibitors

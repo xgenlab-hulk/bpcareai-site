@@ -2,6 +2,7 @@
 title: 'Heart Disease and Chronic Kidney Disease: The Dangerous Connection'
 slug: heart-disease-and-chronic-kidney-disease-the-dangerous-connection
 description: >-
+  Discover how kidney function decline increases cardiovascular risk in adults over 50.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: chronic kidney disease and heart disease link

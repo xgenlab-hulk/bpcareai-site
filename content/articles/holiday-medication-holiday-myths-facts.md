@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-i-can-skip-my-meds-this-week-since-i-m-eating-less-why-holiday-medication-holidays-double-hypoglycemia-risk-in-adults-66-on-sulfonylureas
 description: >-
+  Debunks dangerous assumptions about temporary medication breaks during feasting, citing pharmacodynamic half-life data, beta-cell exhaustion risk, and rebound hyperglycemia patterns.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: holiday medication holiday myths facts

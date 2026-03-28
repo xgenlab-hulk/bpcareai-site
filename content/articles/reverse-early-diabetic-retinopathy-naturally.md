@@ -2,6 +2,7 @@
 title: >-
 slug: science-backed-ways-to-reverse-early-diabetic-retinopathy-without-laser-or-anti-vegf-using-targeted-flavonoid-bioavailability-and-retinal-capillary-pericyte-protection-in-adults-58-67
 description: >-
+  Focuses on quercetin-3-glucoside + vitamin C co-administration to stabilize pericyte PDGFR-β signaling, supported by OCT-A angiography improvement data and reduced retinal vessel tortuosity over 9 months.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: reverse early diabetic retinopathy naturally

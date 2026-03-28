@@ -2,6 +2,7 @@
 title: >-
 slug: when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd
 description: >-
+  Defines objective thresholds (eGFR <25, serum phosphorus >5.0, potassium >4.8, albumin <3.2) and provides actionable alternatives for safe social participation.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: skip holiday buffet stage 4 ckd seniors

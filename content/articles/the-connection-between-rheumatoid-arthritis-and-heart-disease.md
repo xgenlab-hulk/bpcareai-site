@@ -2,6 +2,7 @@
 title: The Connection Between Rheumatoid Arthritis and Heart Disease
 slug: the-connection-between-rheumatoid-arthritis-and-heart-disease
 description: >-
+  Learn why autoimmune joint diseases increase cardiovascular risk due to systemic inflammation.
 date: '2025-12-02'
 updated: '2025-12-02'
 primaryKeyword: rheumatoid arthritis and heart disease link

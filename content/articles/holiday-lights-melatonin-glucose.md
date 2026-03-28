@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-light-displays-affect-evening-melatonin-onset-and-nocturnal-glucose-homeostasis-in-adults-68-with-shift-work-history-and-mild-sleep-fragmentation
 description: >-
+  Explores blue-enriched LED exposure from indoor/outdoor decorations disrupting circadian melatonin release, delaying glucose clearance, and elevating overnight insulin resistance — even without screen use.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: holiday lights melatonin glucose

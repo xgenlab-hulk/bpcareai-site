@@ -2,6 +2,7 @@
 title: The Link Between Holiday Stress and Blood Sugar Spikes After 50
 slug: the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
 description: >-
+  Discusses how emotional stress during family gatherings impacts insulin resistance and glucose levels in middle-aged and older adults.
 date: '2025-12-08'
 updated: '2025-12-08'
 primaryKeyword: stress and blood sugar holidays

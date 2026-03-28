@@ -2,6 +2,7 @@
 title: 'Winter vs. Summer Blood Pressure: What Seniors Need to Know'
 slug: winter-vs-summer-blood-pressure-what-seniors-need-to-know
 description: >-
+  Compares seasonal blood pressure fluctuations and explains why winter often leads to higher readings in older adults.
 date: '2025-11-28'
 updated: '2025-11-28'
 primaryKeyword: winter vs summer blood pressure

@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-strategic-snacking-before-holiday-gatherings-preemptive-protein-fiber-dosing-to-modulate-ghrelin-glp-1-and-gastric-emptying-in-adults-57-64-with-obesity-related-insulin-resistance
 description: >-
+  Reviews randomized crossover trials on pre-gathering snacks (e.g., Greek yogurt + flax), including optimal timing window (60 vs. 30 min pre-meal) and macronutrient ratios.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: strategic snacking before holiday gatherings

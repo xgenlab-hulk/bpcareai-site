@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
 description: >-
+  Examines the vagal-pressor reflex, intra-abdominal pressure surges, and autonomic dysregulation linking bowel retention to overnight SBP >160 mmHg—supported by 24-hr ABPM studies in geriatric GI clinics.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: constipation and nighttime high blood pressure

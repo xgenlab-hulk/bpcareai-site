@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-normalize-fasting-glucose-without-skipping-dinner-using-sequential-pre-bed-protein-fat-snacking-and-nasal-breathing-during-sleep-in-adults-60-73
 description: >-
+  Outlines a 3-phase protocol: 1) 15g micellar casein + 5g MCT oil at 8:30 p.m., 2) 4-7-8 nasal breathing for 5 min pre-sleep, 3) supine positioning with 15° head elevation — validated via overnight CGM in 89 adults.
 date: '2026-02-17'
 updated: '2026-02-17'
 primaryKeyword: normalize fasting glucose without skipping dinner

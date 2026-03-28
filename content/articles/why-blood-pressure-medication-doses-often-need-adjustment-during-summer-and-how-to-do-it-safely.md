@@ -2,6 +2,7 @@
 title: >-
 slug: why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
 description: >-
+  Explains thermoregulatory vasodilation, dehydration-induced volume shifts, and diuretic sensitivity in heat, with physician-approved summer tapering protocols for ACE inhibitors and CCBs.
 date: '2025-12-16'
 updated: '2025-12-16'
 primaryKeyword: blood pressure meds summer adjustment

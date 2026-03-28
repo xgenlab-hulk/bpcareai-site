@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-sugar-free-holiday-punch-for-adults-73-with-chronic-kidney-disease-why-erythritol-isn-t-always-safer-than-sucrose
 description: >-
+  Analyzes osmotic load, renal excretion kinetics, and gut microbiome shifts triggered by sugar alcohols in kidney-compromised adults — plus 3 kidney-safe, electrolyte-balanced beverage formulas validated in dialysis-adjacent nutrition studies.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: sugar free holiday punch kidney disease

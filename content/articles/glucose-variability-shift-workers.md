@@ -2,6 +2,7 @@
 title: >-
 slug: 12-science-backed-ways-to-reduce-glucose-variability-in-shift-workers-with-type-2-diabetes-based-on-circadian-realignment-meal-timing-and-light-exposure-protocols
 description: >-
+  Presents a shift-specific protocol including timed melatonin, phase-advanced dinner, and blue-enriched morning light—validated across 3 night-shift cohorts.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: glucose variability shift workers

@@ -2,6 +2,7 @@
 title: How to Eat Mindfully at Buffets Without Spiking Blood Sugar
 slug: how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
 description: >-
+  Techniques for navigating all-you-can-eat holiday spreads while staying within carb limits and avoiding overeating triggers.
 date: '2025-11-29'
 updated: '2025-11-29'
 primaryKeyword: mindful eating at holiday buffets

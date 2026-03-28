@@ -2,6 +2,7 @@
 title: >-
 slug: how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
 description: >-
+  Breaks down the nocturnal cardiovascular damage caused by undiagnosed sleep apnea in adults 60+, explaining why home BP monitors miss critical nighttime surges and what to do instead.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: sleep apnea nighttime blood pressure

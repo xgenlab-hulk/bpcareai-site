@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
 description: >-
+  Synthesizes longitudinal data linking cochlear microvascular decline to carotid intima-media thickness—and implications for cardiac risk stratification.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: hearing loss vascular aging men over 75

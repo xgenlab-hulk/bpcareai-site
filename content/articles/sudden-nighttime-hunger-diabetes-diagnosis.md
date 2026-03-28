@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-sudden-nighttime-hunger-that-wakes-you-up-differentiating-reactive-hypoglycemia-nocturnal-somogyi-effect-and-early-autonomic-failure-in-adults-70
 description: >-
+  A diagnostic decision tree for clinicians and patients, distinguishing metabolic, pharmacologic, and neurodegenerative causes of nocturnal awakenings with hunger—tailored to frailty and polypharmacy.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: sudden nighttime hunger diabetes diagnosis

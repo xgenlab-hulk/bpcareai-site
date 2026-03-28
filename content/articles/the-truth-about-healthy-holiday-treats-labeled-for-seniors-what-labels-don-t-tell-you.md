@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
 description: >-
+  Debunks misleading marketing claims on senior-targeted holiday snacks (e.g., 'heart-healthy,' 'low-sodium,' 'diabetic-friendly') using FDA labeling rules and clinical nutrition standards.
 date: '2025-12-18'
 updated: '2025-12-18'
 primaryKeyword: healthy holiday treats seniors labels

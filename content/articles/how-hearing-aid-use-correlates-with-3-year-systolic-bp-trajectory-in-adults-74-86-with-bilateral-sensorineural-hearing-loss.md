@@ -2,6 +2,7 @@
 title: >-
 slug: how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
 description: >-
+  Examines longitudinal data on auditory-cognitive load reduction, social re-engagement, and its downstream effect on chronic sympathetic activation.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: hearing aid systolic bp trajectory hearing loss

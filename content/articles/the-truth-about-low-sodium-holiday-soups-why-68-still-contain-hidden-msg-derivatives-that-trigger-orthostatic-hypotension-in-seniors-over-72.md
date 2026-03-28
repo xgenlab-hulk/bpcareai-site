@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 description: >-
+  Investigates how flavor enhancers masquerading as 'natural' ingredients in ready-made holiday soups interfere with baroreflex sensitivity and cerebral perfusion in frail older adults.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: low-sodium holiday soup orthostatic risk

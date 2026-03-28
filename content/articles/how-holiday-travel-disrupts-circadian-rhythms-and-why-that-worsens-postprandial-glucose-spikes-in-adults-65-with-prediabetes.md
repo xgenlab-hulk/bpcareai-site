@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
 description: >-
+  Explores the underrecognized link between jet lag, meal timing misalignment, and impaired glucose tolerance during holiday trips, with evidence-based re-synchronization strategies for older adults.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: holiday travel circadian glucose spikes seniors

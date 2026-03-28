@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-heart-healthy-instant-oatmeal-packets-labeled-for-seniors-why-91-contain-hidden-beta-glucan-antagonists-that-impair-endothelial-no-release-in-adults-65-with-subclinical-atherosclerosis
 description: >-
+  Exposes processing-derived compounds in commercial oat products that neutralize soluble fiber benefits—directly measured via flow-mediated dilation decline in longitudinal vascular function studies.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: instant oatmeal endothelial function seniors

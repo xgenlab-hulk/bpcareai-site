@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-suspect-holiday-heart-syndrome-before-the-first-palpitation-early-hrv-dips-during-family-video-calls-in-adults-55-60-with-prehypertensive-nighttime-bp-non-dipping
 description: >-
+  Introduces a novel, non-invasive pre-symptomatic red flag: acute vagal withdrawal during emotionally charged virtual interactions — validated via wearable HRV tracking in early-stage hypertension.
 date: '2026-02-12'
 updated: '2026-02-12'
 primaryKeyword: HRV dip before holiday palpitations

@@ -2,6 +2,7 @@
 title: >-
 slug: how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
 description: >-
+  Links NO₂/PM2.5 exposure to acute vascular reactivity changes, measured via reactive hyperemia index and home BP diaries across seasonal ventilation patterns.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: indoor air pollution blood pressure urban seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-circadian-misalignment-and-myocardial-fibrosis-in-adults-59-67-with-shift-work-history-and-normal-ejection-fraction
 description: >-
+  Analyzes longitudinal data linking chronic circadian disruption to subclinical myocardial remodeling, independent of hypertension or diabetes, in midlife shift workers.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: circadian misalignment and myocardial fibrosis

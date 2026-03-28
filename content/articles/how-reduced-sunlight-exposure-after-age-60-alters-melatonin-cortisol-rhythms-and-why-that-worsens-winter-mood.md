@@ -2,6 +2,7 @@
 title: >-
 slug: how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
 description: >-
+  Examines the age-related decline in retinal light sensitivity and circadian photoreception, explaining the biological mechanism linking shorter days to depressive symptoms in older adults.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: sunlight exposure melatonin cortisol aging

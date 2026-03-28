@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-non-alcoholic-mulled-wine-sparkling-ciders-why-83-contain-residual-ethanol-histamine-levels-that-trigger-atrial-ectopy-in-adults-67-with-histamine-intolerance
 description: >-
+  Investigates labeling loopholes, fermentation byproducts, and real-world histamine content in popular 'mocktails'—and their under-recognized role in holiday arrhythmia flares.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: non-alcoholic drinks holiday heart syndrome

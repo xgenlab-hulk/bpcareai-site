@@ -2,6 +2,7 @@
 title: The Impact of Air Pollution on Heart Disease Risk in Older Adults
 slug: the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
 description: >-
+  Examine how long-term exposure to polluted air affects cardiovascular health in aging populations.
 date: '2025-12-08'
 updated: '2025-12-08'
 primaryKeyword: air pollution and heart disease in seniors

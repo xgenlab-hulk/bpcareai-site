@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-reduce-postprandial-blood-pressure-drops-within-60-seconds-using-supine-leg-elevation-expiratory-resistance-breathing-in-adults-74-with-orthostatic-hypotension
 description: >-
+  Presents an immediate, non-pharmacologic maneuver protocol validated in geriatric cardiology clinics to counteract meal-induced hypotension and prevent syncope.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: quick fix for postprandial hypotension seniors

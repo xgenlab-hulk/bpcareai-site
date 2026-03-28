@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 description: >-
+  A time-stamped clinical guide distinguishing benign post-alcohol ectopy from worrisome patterns (e.g., >30s sustained tachycardia, syncope prodrome, orthostatic BP drop) with gender-specific thresholds and action steps.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: heart palpitations after midnight toasts women 60+

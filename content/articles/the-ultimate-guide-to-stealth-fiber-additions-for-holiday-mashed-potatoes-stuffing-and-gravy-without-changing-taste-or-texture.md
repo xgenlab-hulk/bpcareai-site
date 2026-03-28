@@ -2,6 +2,7 @@
 title: >-
 slug: the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
 description: >-
+  A chef-dietitian co-developed guide using resistant starch, psyllium integration, and vegetable puree layering techniques—tested for palatability across 5 age groups and 3 comorbidities.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: stealth fiber holiday side dishes

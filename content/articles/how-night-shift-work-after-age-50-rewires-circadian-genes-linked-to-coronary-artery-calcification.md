@@ -2,6 +2,7 @@
 title: >-
 slug: how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
 description: >-
+  Explains CLOCK/BMAL1 dysregulation in long-term shift workers and how coronary calcium scoring serves as a biomarker of accelerated vascular aging.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: night shift circadian genes coronary calcification

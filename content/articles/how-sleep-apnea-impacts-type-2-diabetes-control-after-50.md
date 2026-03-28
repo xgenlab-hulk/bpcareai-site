@@ -2,6 +2,7 @@
 title: How Sleep Apnea Impacts Type 2 Diabetes Control After 50
 slug: how-sleep-apnea-impacts-type-2-diabetes-control-after-50
 description: >-
+  Explore the bidirectional relationship between poor sleep and insulin resistance in midlife and beyond.
 date: '2025-12-24'
 updated: '2025-12-24'
 primaryKeyword: sleep apnea and type 2 diabetes in older adults

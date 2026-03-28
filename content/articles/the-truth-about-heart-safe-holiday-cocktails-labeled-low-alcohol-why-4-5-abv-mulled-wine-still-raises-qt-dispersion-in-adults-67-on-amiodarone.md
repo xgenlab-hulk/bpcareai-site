@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone
 description: >-
+  Debunks marketing claims around low-alcohol holiday beverages by analyzing real-world ECG impact on repolarization in seniors on antiarrhythmics.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: low-alcohol cocktails qt dispersion risk

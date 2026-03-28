@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
 description: >-
+  Breaks down the oral-systemic link: mechanistic evidence showing how periodontal pathogens trigger TNF-α and IL-6, impairing GLUT4 translocation—and why dental visits reduce HbA1c more than expected.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: gum disease and insulin resistance in seniors

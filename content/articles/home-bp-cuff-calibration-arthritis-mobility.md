@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-calibrate-your-home-blood-pressure-cuff-using-the-triple-reading-posture-reset-validated-in-adults-with-arthritis-and-limited-shoulder-mobility
 description: >-
+  Teaches a simplified, joint-friendly calibration technique using seated arm support, back alignment cues, and sequential readings to reduce measurement error.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: home bp cuff calibration arthritis mobility

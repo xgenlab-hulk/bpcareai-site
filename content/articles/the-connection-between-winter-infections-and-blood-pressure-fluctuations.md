@@ -2,6 +2,7 @@
 title: The Connection Between Winter Infections and Blood Pressure Fluctuations
 slug: the-connection-between-winter-infections-and-blood-pressure-fluctuations
 description: >-
+  Explores how common colds, flu, and respiratory illnesses can destabilize hypertension control in seniors.
 date: '2025-12-20'
 updated: '2025-12-20'
 primaryKeyword: infections and blood pressure

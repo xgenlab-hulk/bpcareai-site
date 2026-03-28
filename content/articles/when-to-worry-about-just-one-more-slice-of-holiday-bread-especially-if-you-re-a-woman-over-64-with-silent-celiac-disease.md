@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-just-one-more-slice-of-holiday-bread-especially-if-you-re-a-woman-over-64-with-silent-celiac-disease
 description: >-
+  Highlights non-GI red flags of gluten exposure in aging women—including unexplained fatigue, iron-deficiency anemia, and rapid bone density loss—and explains why serology testing often fails after age 60 without intestinal biopsy confirmation.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: silent celiac symptoms in older women

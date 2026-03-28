@@ -2,6 +2,7 @@
 title: 'Best Times to Measure Blood Pressure? (12 Daily Windows)'
 slug: best-times-measure-bp-daily
 description: >-
+  When should you check BP? Learn 12 science-backed windows aligned with your body's rhythm—morning surge, cortisol dip, evening patterns—for accurate home monitoring.
 date: '2026-02-01'
 updated: '2026-03-18'
 primaryKeyword: best times measure blood pressure daily

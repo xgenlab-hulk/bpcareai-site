@@ -2,6 +2,7 @@
 title: >-
 slug: how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
 description: >-
+  Examines changes in plasma acylcarnitines, citrate synthase activity, and mtDNA copy number in skeletal muscle biopsies—linking time-restricted eating to intrinsic cardiac energetics in early metabolic dysregulation.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: intermittent fasting mitochondrial biogenesis prediabetes

@@ -2,6 +2,7 @@
 title: Simple Steps to Monitor Your Heart Health During the Holiday Season
 slug: simple-steps-to-monitor-your-heart-health-during-the-holiday-season
 description: >-
+  Guide readers through easy self-monitoring techniques including pulse checks, symptom tracking, and wearable use.
 date: '2025-12-09'
 updated: '2025-12-09'
 primaryKeyword: monitor heart health holidays

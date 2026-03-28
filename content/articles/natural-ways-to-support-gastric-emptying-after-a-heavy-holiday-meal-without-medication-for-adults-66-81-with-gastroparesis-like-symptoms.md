@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
 description: >-
+  Evidence-based nonpharmacologic methods including positional sequencing, ginger-cumin infusion timing, and paced chewing protocols tested in older adults with delayed gastric motility.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: gastric emptying after holiday meal

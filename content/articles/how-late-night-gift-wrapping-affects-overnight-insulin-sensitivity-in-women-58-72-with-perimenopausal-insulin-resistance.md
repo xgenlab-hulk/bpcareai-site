@@ -2,6 +2,7 @@
 title: Late-Night Gift Wrapping and Blood Sugar in Women Over 58
 slug: how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance
 description: >-
+  Staying up past 11 p.m. can raise fasting glucose 8-15 mg/dL by morning — especially during the hormone shift of menopause (perimenopause). Timing fixes help.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: does staying up late wrapping gifts raise blood sugar

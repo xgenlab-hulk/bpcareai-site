@@ -2,6 +2,7 @@
 title: >-
 slug: how-seasonal-decline-in-vitamin-d-binding-protein-alters-free-25-oh-d-bioavailability-and-why-that-accelerates-insulin-resistance-in-adults-57-65-with-winter-onset-fatigue
 description: >-
+  Explains the underdiscussed role of DBP glycosylation shifts in winter, how low free (not total) vitamin D drives adipose TLR4 activation and serine phosphorylation of IRS-1—and optimal testing/treatment strategies.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: vitamin-d-binding-protein winter insulin

@@ -2,6 +2,7 @@
 title: How Chronic Inflammation Worsens Type 2 Diabetes After 50
 slug: how-chronic-inflammation-worsens-type-2-diabetes-after-50
 description: >-
+  Learn about the role of systemic inflammation in insulin resistance and ways to reduce it.
 date: '2025-11-27'
 updated: '2025-11-27'
 primaryKeyword: chronic inflammation and type 2 diabetes over 50

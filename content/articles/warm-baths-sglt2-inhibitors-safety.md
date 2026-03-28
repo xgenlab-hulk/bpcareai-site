@@ -2,6 +2,7 @@
 title: >-
 slug: can-you-safely-use-warm-holiday-baths-while-taking-sglt2-inhibitors-evidence-based-water-temperature-thresholds-and-hydration-protocols-for-adults-63-with-mild-orthostasis
 description: >-
+  Addresses risks of volume depletion, orthostatic intolerance, and ketoacidosis triggers during prolonged warm immersion — with specific guidance on bath duration, core temperature limits, and real-time hydration biomarkers.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: "health management holiday adults 63+"

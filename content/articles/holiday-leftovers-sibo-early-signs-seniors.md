@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-signs-your-holiday-leftovers-are-causing-subclinical-small-intestinal-bacterial-overgrowth-sibo-in-adults-69-with-chronic-bloating
 description: >-
+  Highlights subtle, often-missed indicators—including gas timing, stool odor shifts, and post-meal fatigue—that precede diagnostic breath testing and respond to simple food rotation protocols.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: holiday leftovers sibo early signs seniors

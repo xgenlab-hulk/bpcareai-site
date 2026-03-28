@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
 description: >-
+  Reviews clinical dosing, contraindications (e.g., warfarin, kidney function), and synergistic combinations validated in older adult trials.
 date: '2026-01-01'
 updated: '2026-01-01'
 primaryKeyword: natural glucose recovery after holidays

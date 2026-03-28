@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-normal-resting-heart-rate-is-masking-sinus-node-dysfunction-especially-if-you-re-a-woman-over-66-with-unexplained-morning-fatigue-and-blunted-hrv
 description: >-
+  Explains why a seemingly stable resting pulse can conceal early sinoatrial node aging—using HRV trends, chronotropic incompetence patterns, and symptom clusters unique to older women.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: normal resting heart rate sinus node dysfunction

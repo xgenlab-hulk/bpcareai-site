@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
 description: >-
+  Details a clinically underrecognized red-flag triad—nocturnal cramps + thiazide use + subclinical hypomagnesemia—and how it precedes silent neuropathic progression and falls risk.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: night muscle cramps diabetes diuretics

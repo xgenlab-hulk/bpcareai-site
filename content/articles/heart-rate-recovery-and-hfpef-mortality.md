@@ -2,6 +2,7 @@
 title: >-
 slug: why-does-heart-rate-recovery-after-6-minute-walk-testing-predict-5-year-mortality-better-than-peak-vo-in-adults-75-with-heart-failure-with-preserved-ejection-fraction
 description: >-
+  Examines autonomic, mitochondrial, and skeletal muscle perfusion mechanisms linking abnormal HRR (≤12 bpm at 1 min) to all-cause mortality in HFpEF patients, controlling for frailty and sarcopenia metrics.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: heart rate recovery and hfpef mortality

@@ -2,6 +2,7 @@
 title: Bone Infection Signs in Diabetic Feet Before Any Ulcer Forms
 slug: warning-signs-of-diabetic-foot-osteomyelitis-that-appear-before-ulcer-formation-in-adults-71-with-peripheral-neuropathy-and-chronic-edema
 description: >-
+  Warmth without fever, nail thickening, or toe stiffness in adults 71+ with nerve damage (peripheral neuropathy) can signal bone infection (osteomyelitis) early.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: early signs of bone infection in diabetic feet before ulcers

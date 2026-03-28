@@ -2,6 +2,7 @@
 title: How Indoor Air Quality Affects Heart Health in Winter
 slug: how-indoor-air-quality-affects-heart-health-in-winter
 description: >-
+  Reveals how poor ventilation, dry air, and indoor pollutants during winter can impact blood pressure in older adults.
 date: '2025-12-07'
 updated: '2025-12-07'
 primaryKeyword: indoor air quality heart health

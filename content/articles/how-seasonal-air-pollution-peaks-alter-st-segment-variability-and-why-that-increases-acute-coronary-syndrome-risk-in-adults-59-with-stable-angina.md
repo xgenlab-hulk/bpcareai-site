@@ -2,6 +2,7 @@
 title: >-
 slug: how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina
 description: >-
+  Analyzes real-world ECG monitoring data showing seasonal PM2.5 exposure correlates with increased ST-segment depression variability and plaque destabilization biomarkers.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: air pollution and angina stability seasonal

@@ -2,6 +2,7 @@
 title: Foot Care Basics Every Senior with Diabetes Should Know
 slug: foot-care-basics-every-senior-with-diabetes-should-know
 description: >-
+  Prevent serious complications with daily foot care routines tailored for those with nerve damage.
 date: '2025-12-03'
 updated: '2025-12-03'
 primaryKeyword: diabetic foot care for seniors

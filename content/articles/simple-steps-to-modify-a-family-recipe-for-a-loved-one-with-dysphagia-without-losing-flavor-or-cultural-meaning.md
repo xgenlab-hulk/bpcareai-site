@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
 description: >-
+  Practical texture-modification framework (viscosity tiers, thermal stability, aroma preservation) for holiday staples like stuffing, gravy, and fruit compote—co-developed with SLPs and elders.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: "health management seniors"

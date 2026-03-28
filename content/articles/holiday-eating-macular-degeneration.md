@@ -2,6 +2,7 @@
 title: >-
 slug: the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
 description: >-
+  Covers high-contrast plating, aroma layering, tactile food identification, and lutein/zeaxanthin-rich substitutions that support both vision and metabolic health.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: holiday eating macular degeneration

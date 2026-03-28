@@ -2,6 +2,7 @@
 title: The Link Between Atrial Fibrillation and Heart Disease in Seniors
 slug: the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
 description: >-
+  Understand how irregular heartbeat raises the risk of heart failure and stroke in older adults.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: atrial fibrillation and heart disease in elderly

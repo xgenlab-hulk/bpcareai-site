@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-dose-lithium-0-3-mg-day-affects-beta-cell-autophagy-and-mitochondrial-turnover-in-adults-59-67-with-long-standing-type-2-diabetes-a-2024-pilot-study-update
 description: >-
+  Reviews emerging data on ultra-low-dose lithium’s role in enhancing beta-cell mitophagy and reducing amyloid deposition—without mood effects or renal toxicity—highlighting optimal dosing and monitoring parameters.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: "diabetes management seniors"

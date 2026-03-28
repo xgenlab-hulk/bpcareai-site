@@ -2,6 +2,7 @@
 title: "Why 'Low-Sugar' Ketchup Still Spikes Blood Sugar After 60"
 slug: the-truth-about-low-sugar-ketchup-and-bbq-sauce-why-93-of-brands-still-trigger-postprandial-glucose-spikes-in-adults-60-with-gastroparesis-like-symptoms
 description: >-
+  93% of 'low-sugar' brands hide fructose ratios that spike glucose 25-40 mg/dL with slow stomach emptying (gastroparesis). Check these 3 ingredients first.
 date: '2026-02-04'
 updated: '2026-03-26'
 primaryKeyword: does low-sugar ketchup still spike blood sugar

@@ -2,6 +2,7 @@
 title: How Obesity Contributes to Heart Disease in Middle Age
 slug: how-obesity-contributes-to-heart-disease-in-middle-age
 description: >-
+  Learn the mechanisms linking excess weight to arterial damage and heart strain in people aged 45–65.
 date: '2025-11-30'
 updated: '2025-11-30'
 primaryKeyword: obesity and heart disease in middle age

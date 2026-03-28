@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
 description: >-
+  Highlights subtle biomarkers—like flicker ERG latency delay, OCTA vessel density drop <5%, and microaneurysm turnover rate—that precede detectable vision loss but correlate with stroke risk.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: subclinical retinal remodeling diabetes beta-blockers

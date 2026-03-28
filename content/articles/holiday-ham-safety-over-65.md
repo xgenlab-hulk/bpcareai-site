@@ -2,6 +2,7 @@
 title: >-
 slug: 5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
 description: >-
+  Covers renal, immunologic, and enzymatic factors affecting processed meat tolerance in older adults, with lab-reference ranges and real-time symptom tracking cues.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: holiday ham safety over 65

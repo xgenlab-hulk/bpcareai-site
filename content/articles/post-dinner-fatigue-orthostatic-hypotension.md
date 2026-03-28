@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-sudden-fatigue-after-dinner-at-your-daughter-s-house-linking-postprandial-hypotension-autonomic-testing-and-family-meal-timing-in-adults-76
 description: >-
+  Connects timing of meals, ambient temperature, seating posture, and intergenerational caregiving load to orthostatic symptoms—and outlines a home-based '3-Minute Post-Meal BP Snapshot' protocol.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: post dinner fatigue orthostatic hypotension

@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-52-68-with-resistant-hypertension-and-episodic-headaches-not-just-migraines
 description: >-
+  Highlights atypical presentations, diagnostic red flags (e.g., unilateral abdominal bruit, BP asymmetry >20 mmHg), and why duplex US often misses FMD in perimenopausal women.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: fibromuscular dysplasia resistant hypertension women

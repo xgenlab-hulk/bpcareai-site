@@ -2,6 +2,7 @@
 title: Holiday Ham and B12 Trouble — Warning Signs for Adults 70+ on PPIs
 slug: warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis
 description: >-
+  Acid blockers (PPIs) cut B12 absorption ~65%. Gait changes or enlarged red cells (macrocytosis) 2-4 weeks after holiday meat point to hidden B12 deficiency.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: can holiday ham cause B12 problems if I take PPIs

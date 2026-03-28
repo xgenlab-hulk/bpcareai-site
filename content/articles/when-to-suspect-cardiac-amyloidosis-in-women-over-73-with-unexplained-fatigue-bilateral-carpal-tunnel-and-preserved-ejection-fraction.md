@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction
 description: >-
+  Guides recognition of underdiagnosed transthyretin amyloidosis using red-flag triad, red-flag ECG patterns (low voltage + pseudo-infarct), and cost-effective screening pathways—prioritizing gender-specific presentation.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: cardiac amyloidosis symptoms women 73+

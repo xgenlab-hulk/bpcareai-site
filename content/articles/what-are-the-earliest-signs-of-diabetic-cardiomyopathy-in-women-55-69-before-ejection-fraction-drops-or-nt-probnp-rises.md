@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
 description: >-
+  Highlights subtle echocardiographic, ECG, and symptom-based red flags—including diastolic strain patterns, heart rate variability loss, and exertional dyspnea on flat terrain.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: early diabetic cardiomyopathy signs women

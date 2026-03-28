@@ -2,6 +2,7 @@
 title: How Holiday Feasting Can Trigger Atrial Fibrillation in Older Adults
 slug: how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 description: >-
+  Explores how large, rich holiday meals contribute to arrhythmias in people over 55, especially those with underlying heart risks.
 date: '2025-12-11'
 updated: '2025-12-11'
 primaryKeyword: holiday feasting and atrial fibrillation

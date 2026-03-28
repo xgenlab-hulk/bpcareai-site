@@ -2,6 +2,7 @@
 title: >-
 slug: how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
 description: >-
+  Presents HRV and baroreflex sensitivity findings from 14-day pre-event fasting in adults 64–77, distinguishing safe windows from arrhythmia-risk windows.
 date: '2025-12-27'
 updated: '2025-12-27'
 primaryKeyword: intermittent fasting diastolic dysfunction hr

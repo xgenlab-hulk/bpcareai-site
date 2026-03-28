@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
 description: >-
+  Analyzes 2022–2024 RCTs and cohort studies on how 14:10 vs. 16:8 fasting windows impact echocardiographic markers of diastolic stiffness, insulin sensitivity, and nocturnal BP dipping.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: intermittent fasting and diastolic function

@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
 description: >-
+  Analyzes how high-fat, high-sugar, calcium-rich nighttime beverages interact with age-related ion channel changes to prolong QT interval, increasing arrhythmia susceptibility during holiday weeks.
 date: '2025-12-25'
 updated: '2025-12-25'
 primaryKeyword: eggnog and qt interval prolongation in older men

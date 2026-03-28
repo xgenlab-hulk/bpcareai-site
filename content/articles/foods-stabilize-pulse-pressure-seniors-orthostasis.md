@@ -2,6 +2,7 @@
 title: >-
 slug: 10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis
 description: >-
+  Features foods rich in specific polyphenols, nitrates, and magnesium isoforms that improve arterial elasticity and ventricular-arterial coupling—without triggering hypotension in fragile older adults.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: foods stabilize pulse pressure seniors orthostasis

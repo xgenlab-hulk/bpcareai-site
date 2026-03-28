@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
 description: >-
+  Compares absorption kinetics, serum vs. intracellular magnesium levels, and QTc change data in patients with drug-induced long QT syndrome.
 date: '2025-12-21'
 updated: '2025-12-21'
 primaryKeyword: magnesium glycinate vs oxide amiodarone qt

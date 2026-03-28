@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
 description: >-
+  Analyzes ‘white-coat normalization’ vs. ‘telehealth hypotension bias’ using paired in-office vs. validated home BP devices, with implications for antihypertensive titration in frail seniors.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: telehealth blood pressure drop seniors

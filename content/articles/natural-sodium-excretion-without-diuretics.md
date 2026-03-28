@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-renal-tubular-sodium-excretion-without-diuretics-using-targeted-tart-cherry-anthocyanins-hydration-timing-in-adults-68-with-mild-volume-expansion-and-egfr-58
 description: >-
+  Details a non-pharmacologic approach to sodium handling via polyphenol-mediated NKCC2 inhibition and strategic fluid intake windows, validated in a 2023 pilot trial.
 date: '2026-02-14'
 updated: '2026-02-14'
 primaryKeyword: natural sodium excretion without diuretics

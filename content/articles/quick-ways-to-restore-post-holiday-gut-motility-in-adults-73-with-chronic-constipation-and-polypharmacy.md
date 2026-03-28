@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-restore-post-holiday-gut-motility-in-adults-73-with-chronic-constipation-and-polypharmacy
 description: >-
+  Offers 3-minute, no-equipment interventions—supine diaphragmatic breathing, seated abdominal self-massage, and timed warm herbal sips—that bypass medication interactions and stimulate intrinsic neural pathways.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: restore gut motility post-holiday seniors

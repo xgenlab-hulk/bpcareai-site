@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
 description: >-
+  Explores the under-recognized oral-systemic link between periodontitis and early atherosclerosis progression, focusing on inflammatory biomarkers (hs-CRP, IL-6) and actionable screening protocols for dental and primary care providers.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: gum disease and coronary artery calcification

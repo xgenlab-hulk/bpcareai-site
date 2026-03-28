@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-music-volume-and-tempo-affect-post-meal-satiety-hormone-release-in-adults-65-with-mild-cognitive-impairment
 description: >-
+  Investigates the neuroendocrine link between ambient auditory stimulation, vagal tone, and peptide YY/GLP-1 secretion—providing actionable sound environment tips to reduce overeating.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: holiday music satiety hormones seniors

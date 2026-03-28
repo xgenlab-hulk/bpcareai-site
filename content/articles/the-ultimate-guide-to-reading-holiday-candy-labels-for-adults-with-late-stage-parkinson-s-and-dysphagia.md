@@ -2,6 +2,7 @@
 title: >-
 slug: the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
 description: >-
+  A dysphagia-specialist–developed framework for identifying hidden choking hazards (e.g., gum base viscosity, sugar alcohol cooling effect, wax coatings) and safe texture-modified treat alternatives.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: holiday candy dysphagia parkinsons

@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
 description: >-
+  Offers a 3-step chronotherapeutic adjustment protocol for insulin, SGLT2is, and GLP-1 RAs—based on melatonin onset delay, reduced daylight vitamin D synthesis, and ambient temperature effects on absorption.
 date: '2025-12-29'
 updated: '2025-12-29'
 primaryKeyword: diabetes medication timing winter circadian shift

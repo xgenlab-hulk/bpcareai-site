@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
 description: >-
+  Examines the vagal dysregulation, intra-abdominal pressure surges, and renin–angiotensin activation linking constipation to nocturnal and early-morning hypertension spikes.
 date: '2026-01-10'
 updated: '2026-01-10'
 primaryKeyword: constipation and high blood pressure women

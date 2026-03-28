@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-holiday-energy-drink-is-accelerating-arterial-stiffness-even-if-it-s-labeled-sugar-free-and-for-seniors
 description: >-
+  Uncovers hidden stimulants (theobromine, yerba mate alkaloids, high-dose B12) and their acute vascular effects on pulse wave velocity in adults 66+ with prehypertension.
 date: '2026-02-24'
 updated: '2026-02-24'
 primaryKeyword: sugar-free energy drinks arterial stiffness seniors

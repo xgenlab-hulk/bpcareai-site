@@ -2,6 +2,7 @@
 title: How Chronic Pain Conditions Exacerbate Seasonal Depression in Older Adults
 slug: how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 description: >-
+  Explore the bidirectional relationship between persistent pain and seasonal mood disorders in aging populations.
 date: '2025-12-02'
 updated: '2025-12-02'
 primaryKeyword: chronic pain and seasonal depression

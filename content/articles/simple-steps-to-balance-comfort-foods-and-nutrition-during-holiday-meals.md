@@ -2,6 +2,7 @@
 title: Simple Steps to Balance Comfort Foods and Nutrition During Holiday Meals
 slug: simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
 description: >-
+  Outlines a realistic approach to enjoying traditional dishes in moderation while prioritizing nutrient-dense options on the table.
 date: '2025-12-04'
 updated: '2025-12-04'
 primaryKeyword: balancing comfort food and health

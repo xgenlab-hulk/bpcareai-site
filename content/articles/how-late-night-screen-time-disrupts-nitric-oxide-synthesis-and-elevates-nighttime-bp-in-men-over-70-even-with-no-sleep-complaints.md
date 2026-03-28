@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 description: >-
+  Explains blue-light–mediated suppression of endothelial nitric oxide synthase (eNOS) phosphorylation, independent of melatonin or sleep architecture—plus practical spectral-filtering interventions.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: screen time nitric oxide nighttime bp men 70

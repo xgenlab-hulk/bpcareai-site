@@ -2,6 +2,7 @@
 title: Quick Ways to Calm a Racing Heart During a Holiday Event
 slug: quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 description: >-
+  List immediate, non-medical interventions like vagal maneuvers and breathing techniques to manage acute palpitations.
 date: '2025-12-11'
 updated: '2025-12-11'
 primaryKeyword: calm racing heart holiday

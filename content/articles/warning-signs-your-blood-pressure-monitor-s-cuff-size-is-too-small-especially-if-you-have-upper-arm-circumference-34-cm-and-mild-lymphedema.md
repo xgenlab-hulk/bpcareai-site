@@ -2,6 +2,7 @@
 title: >-
 slug: warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema
 description: >-
+  Explains how under-cuffing inflates readings, masks true diastolic elevation, and interacts with interstitial fluid shifts in lymphedematous tissue.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: blood pressure cuff size lymphedema

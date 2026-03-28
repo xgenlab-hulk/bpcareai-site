@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
 description: >-
+  Clarifies dosing safety, monitoring requirements, and interaction risks with phosphate binders and active vitamin D analogs—separating evidence from supplement marketing claims.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: vitamin d3 for seasonal depression with kidney disease

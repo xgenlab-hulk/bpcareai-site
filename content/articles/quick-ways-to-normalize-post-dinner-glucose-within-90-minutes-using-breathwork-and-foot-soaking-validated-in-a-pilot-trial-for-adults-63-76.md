@@ -2,6 +2,7 @@
 title: >-
 slug: quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
 description: >-
+  Details a low-barrier, non-exercise protocol combining paced breathing (4-7-8) and warm foot immersion to enhance vagal tone and skeletal muscle glucose uptake.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: quick post-dinner glucose normalization

@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
 description: >-
+  Synthesizes findings from 3 recent observational cohorts on time-in-range degradation, ketosis risk during fasting, and how aging beta-cell reserve (even in T1D) alters counterregulatory response.
 date: '2025-12-28'
 updated: '2025-12-28'
 primaryKeyword: intermittent fasting type 1 diabetes seniors

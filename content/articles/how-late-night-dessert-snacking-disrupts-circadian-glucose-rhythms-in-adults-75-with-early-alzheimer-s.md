@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
 description: >-
+  Explores the neuroendocrine impact of after-dinner sweets on melatonin-mediated insulin sensitivity and amyloid-beta clearance in cognitively vulnerable seniors—backed by 2024 chronobiology data.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: late-night dessert and dementia glucose

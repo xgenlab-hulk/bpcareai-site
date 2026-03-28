@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-cardiac-sodium-potassium-pump-resilience-without-increasing-dietary-potassium-using-targeted-magnesium-l-threonate-cold-air-nasal-breathing-in-adults-66-with-diuretic-induced-hypokalemia
 description: >-
+  Presents a non-potassium-dependent strategy to stabilize myocardial excitability during high-alcohol/high-sugar exposure, emphasizing ion channel cofactor optimization and vagal cooling.
 date: '2026-02-13'
 updated: '2026-02-13'
 primaryKeyword: "diet management adults 66+"

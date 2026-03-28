@@ -2,6 +2,7 @@
 title: Recognizing Silent Heart Attacks in Diabetics Over 60
 slug: recognizing-silent-heart-attacks-in-diabetics-over-60
 description: >-
+  Identify atypical or absent symptoms of heart attacks in older adults with diabetes due to nerve damage.
 date: '2025-11-26'
 updated: '2025-11-26'
 primaryKeyword: silent heart attack symptoms in elderly diabetics

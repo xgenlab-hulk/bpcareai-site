@@ -2,6 +2,7 @@
 title: Low-Sodium Holiday Turkey Brine Recipe for Seniors with High Blood Pressure
 slug: low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
 description: >-
+  A heart-safe, flavorful brining method using herbs and citrus instead of salt—perfect for preparing a centerpiece that’s kind to arteries.
 date: '2025-12-06'
 updated: '2025-12-06'
 primaryKeyword: low-sodium turkey brine for seniors

@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-grandchild-s-candy-stocking-may-trigger-reactive-hypoglycemia-especially-if-you-re-on-glp-1-ras-or-meglitinides
 description: >-
+  Explains rapid carb load + medication interaction risks, with symptom recognition, timing windows, and safe sharing strategies for intergenerational gifting.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: "health management seniors"

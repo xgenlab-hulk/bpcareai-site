@@ -2,6 +2,7 @@
 title: >-
 slug: 12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying
 description: >-
+  Introduces gastric emptying–adjusted glucose sampling windows using symptom diaries and breath acetone correlations to capture true peak excursions in delayed digestion.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: postprandial glucose timing gastroparesis seniors

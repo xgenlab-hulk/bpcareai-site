@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-sugar-free-desserts-labeled-for-seniors-why-erythritol-only-formulations-still-disrupt-gut-microbiota-derived-butyrate-in-adults-69-with-metabolic-syndrome
 description: >-
+  Debunks marketing claims around sugar alcohols, citing 2023 gut-metabolome studies, and offers truly low-fermentable alternatives like monk fruit + acacia fiber blends.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: sugar-free desserts gut health seniors

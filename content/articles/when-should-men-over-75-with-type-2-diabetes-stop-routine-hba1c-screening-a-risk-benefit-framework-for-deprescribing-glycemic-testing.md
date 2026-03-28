@@ -2,6 +2,7 @@
 title: >-
 slug: when-should-men-over-75-with-type-2-diabetes-stop-routine-hba1c-screening-a-risk-benefit-framework-for-deprescribing-glycemic-testing
 description: >-
+  Analyzes evidence on mortality, functional decline, and hypoglycemia risk to guide individualized decisions about discontinuing A1c monitoring in frail older adults.
 date: '2026-01-05'
 updated: '2026-01-05'
 primaryKeyword: stop hba1c screening elderly men

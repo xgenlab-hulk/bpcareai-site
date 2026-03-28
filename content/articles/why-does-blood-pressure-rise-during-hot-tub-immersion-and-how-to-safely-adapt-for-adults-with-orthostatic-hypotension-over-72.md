@@ -2,6 +2,7 @@
 title: >-
 slug: why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
 description: >-
+  Explains thermoregulatory vasodilation, autonomic blunting, and baroreflex delay in aging—and offers stepwise acclimatization protocols for hydrotherapy use.
 date: '2026-01-08'
 updated: '2026-01-08'
 primaryKeyword: hot-tub immersion blood pressure orthostatic hypotension

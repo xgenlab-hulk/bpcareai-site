@@ -2,6 +2,7 @@
 title: >-
 slug: what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
 description: >-
+  Details AI-assisted OCT angiography findings (e.g., foveal avascular zone enlargement, perivenular leakage) as pre-hypertensive biomarkers in normotensive adults 55–69 with strong family history.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: retinal changes before hypertension diagnosis

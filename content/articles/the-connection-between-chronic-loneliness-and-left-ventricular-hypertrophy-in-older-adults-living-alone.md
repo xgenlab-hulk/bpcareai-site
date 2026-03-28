@@ -2,6 +2,7 @@
 title: >-
 slug: the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
 description: >-
+  Explores neuroendocrine pathways (cortisol, IL-6) linking social isolation to myocardial remodeling—and community-based interventions proven to reverse early changes.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: loneliness left ventricular hypertrophy aging

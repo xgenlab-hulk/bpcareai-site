@@ -2,6 +2,7 @@
 title: >-
 slug: how-living-near-high-traffic-urban-corridors-alters-autonomic-modulation-of-ventricular-repolarization-in-adults-57-65-with-borderline-qtc-prolongation
 description: >-
+  Investigates PM2.5 and NO₂ exposure effects on T-wave morphology, HRV indices, and arrhythmic risk in pre-symptomatic adults with borderline QTc.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: traffic pollution and ventricular repolarization

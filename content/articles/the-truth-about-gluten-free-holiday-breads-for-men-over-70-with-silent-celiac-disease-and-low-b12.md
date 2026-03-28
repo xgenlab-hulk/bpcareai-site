@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
 description: >-
+  Examines nutrient density gaps, fortification inconsistencies, and cross-contamination risks in store-bought GF holiday loaves—and how they impact B12 absorption and neurological health.
 date: '2026-01-07'
 updated: '2026-01-07'
 primaryKeyword: gluten-free holiday bread b12 deficiency

@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
 description: >-
+  Distinguishes benign lightheadedness from pre-syncope signals tied to autonomic dysfunction, polypharmacy, or early heart failure—and actionable home assessments.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: dizziness standing up orthostatic hypotension

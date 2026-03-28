@@ -2,6 +2,7 @@
 title: How to Manage Holiday Heart Syndrome Risk with Type 2 Diabetes
 slug: how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
 description: >-
+  Address dual challenges of glycemic control and cardiac rhythm stability during the holidays for diabetic adults over 50.
 date: '2025-12-11'
 updated: '2025-12-11'
 primaryKeyword: diabetes holiday heart risk

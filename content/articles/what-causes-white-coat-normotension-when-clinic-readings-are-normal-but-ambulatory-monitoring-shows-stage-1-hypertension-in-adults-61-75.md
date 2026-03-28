@@ -2,6 +2,7 @@
 title: >-
 slug: what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
 description: >-
+  Investigates under-recognized contributors including clinic anxiety-induced vagal dominance, reverse white-coat effect, and measurement timing relative to circadian trough.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: white-coat normotension ambulatory hypertension

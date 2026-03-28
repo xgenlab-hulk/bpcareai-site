@@ -2,6 +2,7 @@
 title: >-
 slug: how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
 description: >-
+  Explores how plate size, color contrast, utensil placement, and seating arrangement subtly influence bite frequency and satiety signaling—backed by behavioral nutrition studies in midlife and older adults.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: holiday table settings portion control prediabetes

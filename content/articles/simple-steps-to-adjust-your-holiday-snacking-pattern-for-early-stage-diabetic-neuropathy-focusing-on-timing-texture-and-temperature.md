@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
 description: >-
+  Addresses oral sensory changes, delayed gastric emptying, and autonomic dysregulation to prevent nocturnal hypoglycemia and post-snack glucose crashes.
 date: '2026-01-02'
 updated: '2026-01-02'
 primaryKeyword: holiday snacking diabetic neuropathy

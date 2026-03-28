@@ -2,6 +2,7 @@
 title: >-
 slug: holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
 description: >-
+  Covers temperature-sensitive insulin storage, time-zone–adjusted dosing, emergency carb access protocols, and TSA-compliant documentation for older adults with reduced mobility or mild cognitive changes.
 date: '2025-12-24'
 updated: '2025-12-24'
 primaryKeyword: diabetes travel prep after 75

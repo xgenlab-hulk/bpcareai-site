@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
 description: >-
+  Debunks assumptions about ECG sensitivity, citing data on PR prolongation, fascicular blocks, and early AV node fibrosis detection—plus when to pursue Holter, EP study, or cardiac MRI.
 date: '2026-01-06'
 updated: '2026-01-06'
 primaryKeyword: ecg normalcy and conduction disease

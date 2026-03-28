@@ -2,6 +2,7 @@
 title: >-
 slug: what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes
 description: >-
+  Reviews 2023–2024 trials on casein vs. whey timing, nocturnal insulin sensitivity windows, and how protein intake shifts hepatic gluconeogenesis rhythms in aging livers.
 date: '2026-03-01'
 updated: '2026-03-01'
 primaryKeyword: late-night protein and blood sugar

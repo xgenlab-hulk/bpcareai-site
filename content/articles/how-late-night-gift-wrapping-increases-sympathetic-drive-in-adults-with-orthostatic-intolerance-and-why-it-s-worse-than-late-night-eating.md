@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-gift-wrapping-increases-sympathetic-drive-in-adults-with-orthostatic-intolerance-and-why-it-s-worse-than-late-night-eating
 description: >-
+  Compares autonomic stress profiles of sedentary, mentally focused holiday tasks (wrapping, card-writing) versus caloric intake, revealing greater norepinephrine surges and delayed HRV recovery in orthostatic patients.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: gift-wrapping and sympathetic drive in elderly

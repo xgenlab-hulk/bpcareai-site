@@ -2,6 +2,7 @@
 title: 'Ketone Testing on Keto After Weight-Loss Surgery? (Guide 67+)'
 slug: ketone-testing-keto-bariatric-67
 description: >-
+  Starting keto after bariatric surgery at 67+? Learn 4 critical windows to test ketones (not just glucose)—2hr post-meal, bedtime—and safe thresholds for older kidneys.
 date: '2026-02-04'
 updated: '2026-03-18'
 primaryKeyword: ketone testing keto bariatric diabetes 67

@@ -2,6 +2,7 @@
 title: >-
 slug: simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
 description: >-
+  A neuro-dietitian framework for adults 70–85 with MCI: reducing cognitive load at the table, enhancing satiety signaling, and preventing undernutrition through sensory design.
 date: '2025-12-31'
 updated: '2025-12-31'
 primaryKeyword: holiday meal plan mild cognitive impairment

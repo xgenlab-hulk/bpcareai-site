@@ -2,6 +2,7 @@
 title: >-
 slug: the-complete-guide-to-managing-heart-disease-while-recovering-from-cataract-surgery-practical-protocols-for-adults-73-on-beta-blockers-with-preoperative-resting-hr-58-bpm
 description: >-
+  Addresses under-discussed perioperative cardiac risks — including intraoperative bradycardia exacerbation, postoperative analgesic interactions, and light-sensitivity–induced sympathetic surges.
 date: '2026-02-10'
 updated: '2026-02-10'
 primaryKeyword: heart disease cataract surgery seniors

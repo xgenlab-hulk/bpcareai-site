@@ -2,6 +2,7 @@
 title: "Potluck Dishes That Won't Crash Your Blood Pressure — Seniors 79+"
 slug: the-complete-guide-to-navigating-potluck-contributions-when-you-re-79-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
 description: >-
+  Standing drops BP 20+ mmHg with dizziness on standing (orthostatic hypotension). Low-sodium dishes with built-in hydration and timed drop-off prevent crashes.
 date: '2026-02-03'
 updated: '2026-03-26'
 primaryKeyword: safe potluck dishes if you have low blood pressure standing

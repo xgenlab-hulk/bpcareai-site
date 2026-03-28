@@ -2,6 +2,7 @@
 title: >-
 slug: how-cold-weather-indoor-heating-dries-nasal-mucosa-and-why-that-worsens-postprandial-glucose-spikes-in-adults-70-with-autonomic-neuropathy
 description: >-
+  Explains the overlooked nasal-brain-gut-glucose pathway: dry mucosa → reduced nitric oxide production → impaired vagal tone → delayed insulin secretion and gastric emptying.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: indoor heating nasal glucose spikes

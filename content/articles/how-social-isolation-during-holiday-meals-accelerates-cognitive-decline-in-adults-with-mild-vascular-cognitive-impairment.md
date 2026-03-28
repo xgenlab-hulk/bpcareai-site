@@ -2,6 +2,7 @@
 title: >-
 slug: how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
 description: >-
+  Explores the neurovascular impact of reduced mealtime conversation, decreased masticatory stimulation, and circadian desynchrony on white matter integrity—supported by 2024 fNIRS data.
 date: '2025-12-30'
 updated: '2025-12-30'
 primaryKeyword: holiday isolation vascular cognitive decline

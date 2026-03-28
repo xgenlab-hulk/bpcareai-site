@@ -2,6 +2,7 @@
 title: The Truth About Winter Weight Gain and Heart Strain After 60
 slug: the-truth-about-winter-weight-gain-and-heart-strain-after-60
 description: >-
+  Debunks myths and reveals how modest winter weight gain can significantly increase cardiac workload in aging individuals.
 date: '2025-12-17'
 updated: '2025-12-17'
 primaryKeyword: winter weight gain heart

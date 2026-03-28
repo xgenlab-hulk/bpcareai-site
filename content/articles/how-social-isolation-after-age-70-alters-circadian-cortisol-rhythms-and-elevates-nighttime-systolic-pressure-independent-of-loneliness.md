@@ -2,6 +2,7 @@
 title: >-
 slug: how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
 description: >-
+  Distinguishes objective isolation (living alone, <1 weekly contact) from subjective loneliness using cortisol awakening response (CAR) and 24-h BP mapping data—revealing direct neuroendocrine pathways to nocturnal hypertension.
 date: '2025-12-26'
 updated: '2025-12-26'
 primaryKeyword: social isolation cortisol nighttime bp over 70

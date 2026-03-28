@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis
 description: >-
+  Distinguishes pathological post-exercise hypotension due to impaired myocardial compliance and autonomic neuropathy from benign vasodilation in aging hearts.
 date: '2026-02-27'
 updated: '2026-02-27'
 primaryKeyword: post-walk hypotension in cardiac amyloidosis

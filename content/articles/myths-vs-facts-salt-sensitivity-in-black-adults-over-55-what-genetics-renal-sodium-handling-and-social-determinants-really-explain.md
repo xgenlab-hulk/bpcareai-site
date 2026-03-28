@@ -2,6 +2,7 @@
 title: >-
 slug: myths-vs-facts-salt-sensitivity-in-black-adults-over-55-what-genetics-renal-sodium-handling-and-social-determinants-really-explain
 description: >-
+  Debunks oversimplified race-based narratives while detailing APOL1 risk variants, neighborhood-level sodium exposure (processed food deserts), and epigenetic impacts of chronic stress on ENaC expression.
 date: '2026-02-23'
 updated: '2026-02-23'
 primaryKeyword: salt sensitivity black adults genetics

@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-support-hepatic-mitochondrial-biogenesis-without-activating-mtor-using-berberine-urolithin-a-in-adults-65-with-nafld-and-type-2-diabetes
 description: >-
+  Details synergistic PGC-1α activation via AMPK and TFAM upregulation, with emphasis on avoiding mTOR-driven fibrogenesis — including dosing windows, gut microbiome prerequisites, and ALT/AST monitoring schedules.
 date: '2026-02-22'
 updated: '2026-02-22'
 primaryKeyword: hepatic mitochondrial biogenesis berberine seniors

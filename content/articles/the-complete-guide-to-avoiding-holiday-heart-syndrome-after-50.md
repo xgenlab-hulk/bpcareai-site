@@ -2,6 +2,7 @@
 title: The Complete Guide to Avoiding Holiday Heart Syndrome After 50
 slug: the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 description: >-
+  A comprehensive resource covering prevention, recognition, and management of holiday-related arrhythmias for midlife and older adults.
 date: '2025-12-02'
 updated: '2025-12-02'
 primaryKeyword: complete guide holiday heart syndrome

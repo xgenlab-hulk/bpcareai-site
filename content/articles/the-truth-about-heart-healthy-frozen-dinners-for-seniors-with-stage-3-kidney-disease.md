@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
 description: >-
+  Analyzes sodium, phosphorus, and potassium labeling loopholes in retail frozen meals marketed to seniors—and how renal constraints redefine 'heart-healthy' nutrition.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: frozen dinners heart healthy kidney disease

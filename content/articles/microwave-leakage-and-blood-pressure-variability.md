@@ -2,6 +2,7 @@
 title: >-
 slug: how-long-term-exposure-to-residential-microwave-oven-leakage-even-below-fcc-limits-correlates-with-24-hour-mean-arterial-pressure-variability-in-adults-75-living-alone
 description: >-
+  Examines real-world electromagnetic field exposure from aging kitchen appliances and its association with autonomic dysregulation and BP lability in homebound seniors.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: microwave leakage and blood pressure variability

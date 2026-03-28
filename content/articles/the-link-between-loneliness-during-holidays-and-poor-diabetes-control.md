@@ -2,6 +2,7 @@
 title: The Link Between Loneliness During Holidays and Poor Diabetes Control
 slug: the-link-between-loneliness-during-holidays-and-poor-diabetes-control
 description: >-
+  Explore how seasonal isolation affects motivation, eating habits, and blood sugar in older adults with diabetes.
 date: '2025-12-02'
 updated: '2025-12-02'
 primaryKeyword: holiday loneliness diabetes control

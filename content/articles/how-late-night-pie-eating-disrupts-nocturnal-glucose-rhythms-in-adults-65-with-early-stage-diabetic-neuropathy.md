@@ -2,6 +2,7 @@
 title: >-
 slug: how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
 description: >-
+  Explores the circadian and autonomic mechanisms linking post-dinner dessert consumption to impaired overnight glycemic control—and why timing matters more than sugar content alone.
 date: '2026-02-11'
 updated: '2026-02-11'
 primaryKeyword: late-night pie eating glucose rhythms seniors

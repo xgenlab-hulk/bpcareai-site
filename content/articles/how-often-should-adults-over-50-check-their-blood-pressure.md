@@ -2,6 +2,7 @@
 title: How Often Should Adults Over 50 Check Their Blood Pressure?
 slug: how-often-should-adults-over-50-check-their-blood-pressure
 description: >-
+  Get clear guidelines on blood pressure screening frequency based on risk level and overall health status.
 date: '2025-12-03'
 updated: '2025-12-03'
 primaryKeyword: how often to check blood pressure after 50

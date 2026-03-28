@@ -2,6 +2,7 @@
 title: The Truth About Alcohol and Heart Health After 55
 slug: the-truth-about-alcohol-and-heart-health-after-55
 description: >-
+  Weigh the pros and cons of moderate drinking and its real impact on long-term heart wellness.
 date: '2025-12-06'
 updated: '2025-12-06'
 primaryKeyword: alcohol effects on heart health after 55

@@ -2,6 +2,7 @@
 title: >-
 slug: the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
 description: >-
+  Analyzes how ethanol-induced vagal tone shifts and nocturnal QT prolongation interact with age-related atrial fibrosis—plus real-world AF burden data from wearable ECG studies.
 date: '2025-12-23'
 updated: '2025-12-23'
 primaryKeyword: alcohol atrial fibrillation seniors

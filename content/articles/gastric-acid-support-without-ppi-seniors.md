@@ -2,6 +2,7 @@
 title: >-
 slug: natural-ways-to-maintain-gastric-acid-secretion-without-ppis-during-holiday-feasting-using-betaine-hcl-timing-zinc-carnosine-in-adults-64-with-atrophic-gastritis
 description: >-
+  Presents a clinically supervised, stepwise protocol to support acid production and protein digestion during rich meals—reducing bloating, B12 malabsorption risk, and post-meal fatigue.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: gastric acid support without ppi seniors

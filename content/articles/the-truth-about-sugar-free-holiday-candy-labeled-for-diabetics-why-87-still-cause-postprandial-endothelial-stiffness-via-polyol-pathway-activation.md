@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-sugar-free-holiday-candy-labeled-for-diabetics-why-87-still-cause-postprandial-endothelial-stiffness-via-polyol-pathway-activation
 description: >-
+  Investigates how sugar alcohols (maltitol, sorbitol) in festive 'diabetic-friendly' treats trigger oxidative stress and reduce nitric oxide bioavailability — especially in adults with 10+ years of diabetes duration.
 date: '2026-02-26'
 updated: '2026-02-26'
 primaryKeyword: sugar-free candy endothelial stiffness

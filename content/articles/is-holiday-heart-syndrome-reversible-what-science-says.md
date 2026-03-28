@@ -2,6 +2,7 @@
 title: Is Holiday Heart Syndrome Reversible? What Science Says
 slug: is-holiday-heart-syndrome-reversible-what-science-says
 description: >-
+  Review current medical literature on whether transient arrhythmias from holiday triggers cause lasting damage or resolve completely.
 date: '2025-12-15'
 updated: '2025-12-15'
 primaryKeyword: holiday heart syndrome reversible

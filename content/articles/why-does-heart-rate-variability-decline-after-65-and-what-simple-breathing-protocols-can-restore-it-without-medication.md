@@ -2,6 +2,7 @@
 title: >-
 slug: why-does-heart-rate-variability-decline-after-65-and-what-simple-breathing-protocols-can-restore-it-without-medication
 description: >-
+  Explores age-related autonomic nervous system changes affecting HRV, backed by recent geriatric physiology studies, and details evidence-based paced breathing routines validated in adults 65+ with preserved ejection fraction.
 date: '2026-02-16'
 updated: '2026-02-16'
 primaryKeyword: heart rate variability after 65

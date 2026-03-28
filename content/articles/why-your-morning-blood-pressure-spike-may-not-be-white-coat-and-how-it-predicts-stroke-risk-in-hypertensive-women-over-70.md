@@ -2,6 +2,7 @@
 title: >-
 slug: why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
 description: >-
+  Explains the pathophysiology of morning surge, its independent association with cerebrovascular events, and validated home tracking strategies beyond single readings.
 date: '2025-12-19'
 updated: '2025-12-19'
 primaryKeyword: morning blood pressure spike stroke risk

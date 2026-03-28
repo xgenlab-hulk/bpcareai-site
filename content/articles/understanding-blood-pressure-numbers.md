@@ -2,6 +2,7 @@
 title: Understanding Your Blood Pressure Numbers
 slug: understanding-blood-pressure-numbers
 description: >-
+  What do systolic and diastolic mean? A simple guide to reading your blood pressure and understanding what the numbers really tell you.
 date: '2024-11-15'
 updated: '2024-11-15'
 primaryKeyword: blood pressure numbers

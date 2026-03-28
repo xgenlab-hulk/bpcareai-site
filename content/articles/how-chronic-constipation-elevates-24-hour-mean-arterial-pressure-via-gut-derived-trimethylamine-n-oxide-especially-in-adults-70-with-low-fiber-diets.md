@@ -2,6 +2,7 @@
 title: >-
 slug: how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets
 description: >-
+  Connects dysbiosis, TMAO synthesis, and endothelial dysfunction with actionable dietary fiber timing strategies (prebiotic sequencing, resistant starch dosing windows) proven to lower MAP by 4.2 mmHg.
 date: '2026-02-25'
 updated: '2026-02-25'
 primaryKeyword: constipation tmao mean arterial pressure

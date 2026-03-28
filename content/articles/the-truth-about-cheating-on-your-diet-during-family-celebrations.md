@@ -2,6 +2,7 @@
 title: The Truth About 'Cheating' on Your Diet During Family Celebrations
 slug: the-truth-about-cheating-on-your-diet-during-family-celebrations
 description: >-
+  Examines whether occasional indulgences are harmful or sustainable for long-term health, especially for people with diabetes or heart concerns.
 date: '2025-12-03'
 updated: '2025-12-03'
 primaryKeyword: cheating on diet occasional basis

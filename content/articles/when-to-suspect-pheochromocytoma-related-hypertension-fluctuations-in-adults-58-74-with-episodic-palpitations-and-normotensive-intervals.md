@@ -2,6 +2,7 @@
 title: >-
 slug: when-to-suspect-pheochromocytoma-related-hypertension-fluctuations-in-adults-58-74-with-episodic-palpitations-and-normotensive-intervals
 description: >-
+  Guides recognition of atypical paroxysmal blood pressure surges—including diurnal timing, orthostatic patterns, and non-classic triggers—beyond textbook 'spells'.
 date: '2026-01-09'
 updated: '2026-01-09'
 primaryKeyword: "hypertension management seniors"

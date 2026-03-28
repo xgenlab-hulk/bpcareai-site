@@ -2,6 +2,7 @@
 title: >-
 slug: the-truth-about-heart-healthy-omega-3-supplements-marketed-to-seniors-why-82-fail-to-deliver-epa-dha-in-bioavailable-form-due-to-oxidation-and-enteric-coating-defects
 description: >-
+  Investigates stability testing, third-party assay data, and absorption studies in older adults, revealing formulation flaws that compromise anti-inflammatory and triglyceride-lowering efficacy.
 date: '2026-02-15'
 updated: '2026-02-15'
 primaryKeyword: omega-3 supplement bioavailability seniors
